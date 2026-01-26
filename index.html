@@ -1,0 +1,1752 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>bbb 投資戰情室 (Ultimate UI + AI)</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.15.0/Sortable.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <style>
+        /* 1. 字體基底與配色 */
+        :root { --bg: #F9F7F2; --accent: #8B7355; --text: #374151; --border: #E5E7EB; }
+        body { background: var(--bg); color: var(--text); font-family: -apple-system, BlinkMacSystemFont, "Microsoft JhengHei", "Segoe UI", Roboto, sans-serif; height: 100vh; overflow: hidden; font-size: 16px; }
+        
+        .glass-panel { background: white; border: 1px solid var(--border); box-shadow: 0 2px 5px rgba(0,0,0,0.03); border-radius: 12px; }
+        .header-title { font-size: 1.1rem; font-weight: 800; color: #4B5563; border-bottom: 2px solid var(--border); padding-bottom: 0.75rem; margin-bottom: 1.25rem; display: flex; justify-content: space-between; align-items: center; letter-spacing: 0.05em; }
+        
+        /* 2. 表格樣式優化 */
+        .data-table th, .data-table td {
+            @apply px-6 py-3 text-base border-b border-gray-100 font-mono outline-none transition duration-200 whitespace-nowrap;
+        }
+        .data-table th {
+            @apply bg-gray-50 text-sm text-gray-500 uppercase font-bold sticky top-0;
+        }
+        .data-table tbody tr:nth-child(even) { background-color: #F9FAFB; }
+        .data-table tbody tr:nth-child(odd) { background-color: #FFFFFF; }
+
+        /* 第一欄固定 */
+        .data-table th:first-child, 
+        .data-table td:first-child { 
+            text-align: left; position: sticky; left: 0; background-color: inherit; z-index: 10; border-right: 1px solid #e5e7eb; 
+        }
+        .data-table th:not(:first-child), 
+        .data-table td:not(:first-child) { text-align: right; }
+        
+        .editable:hover { background-color: #FFFBF0 !important; cursor: text; box-shadow: inset 0 0 0 1px #8B7355; }
+        .editable:focus { background-color: #FFFFFF !important; box-shadow: inset 0 0 0 2px #8B7355; }
+
+        /* 3. 顏色標準 */
+        .tw-red { color: #DC2626; font-weight: 700; }   
+        .tw-green { color: #16A34A; font-weight: 700; } 
+        .tw-black { color: #374151; font-weight: 500; } 
+        .tw-blue { color: #2563EB; font-weight: 700; } 
+
+        .est-row td { color: #2563EB; font-weight: 700; }
+        .est-tag { font-size: 0.75rem; background: #2563EB; color: white; padding: 2px 4px; border-radius: 4px; margin-left: 6px; }
+
+        /* K線圖切換按鈕樣式 */
+        .tf-btn { @apply px-4 py-1 text-sm font-bold rounded-md border transition-all duration-200; }
+        .tf-btn.active { @apply bg-[#8B7355] text-white border-[#8B7355]; }
+        .tf-btn.inactive { @apply bg-white text-gray-500 border-gray-200 hover:bg-gray-50; }
+
+        /* 箭頭樣式 */
+        .arrow-up { display: inline-block; width: 0; height: 0; border-left: 5px solid transparent; border-right: 5px solid transparent; border-bottom: 8px solid #DC2626; margin: 0 6px; vertical-align: middle; }
+        .arrow-down { display: inline-block; width: 0; height: 0; border-left: 5px solid transparent; border-right: 5px solid transparent; border-top: 8px solid #16A34A; margin: 0 6px; vertical-align: middle; }
+
+        /* 星星評分 */
+        .star-filled { color: #FFD700; text-shadow: 0 1px 1px rgba(0,0,0,0.1); }
+        .star-empty { color: #E5E7EB; }
+
+        /* C-Value Dashboard Styles */
+        .c-card { @apply bg-gray-50 rounded-lg p-3 border border-gray-200 flex flex-col items-center justify-center text-center; }
+        .c-label { @apply text-xs text-gray-400 font-bold uppercase tracking-wider mb-1; }
+        .c-val { @apply text-xl font-black text-gray-800 font-mono; }
+
+        /* Tooltip Styles (New) */
+        .th-tooltip { position: relative; cursor: help; text-decoration: underline dotted #999; }
+        .th-tooltip:hover::after {
+            content: attr(data-tip);
+            position: absolute;
+            bottom: 100%;
+            left: 50%;
+            transform: translateX(-50%);
+            background: #2D3748;
+            color: #fff;
+            padding: 8px 12px;
+            border-radius: 6px;
+            font-size: 12px;
+            font-weight: normal;
+            line-height: 1.4;
+            white-space: pre-wrap; /* 允許換行 */
+            width: 240px;
+            text-align: center;
+            z-index: 9999; /* 確保最上層 */
+            box-shadow: 0 4px 6px rgba(0,0,0,0.15);
+            margin-bottom: 8px;
+            text-transform: none;
+            visibility: visible;
+            opacity: 1;
+            pointer-events: none;
+        }
+        /* Triangle for tooltip */
+        .th-tooltip:hover::before {
+            content: '';
+            position: absolute;
+            bottom: 100%;
+            left: 50%;
+            transform: translateX(-50%);
+            border-width: 6px;
+            border-style: solid;
+            border-color: #2D3748 transparent transparent transparent;
+            margin-bottom: -4px; 
+            z-index: 9999;
+        }
+
+        /* Signal Lights (From New Source) */
+        .signal-light { width: 12px; height: 12px; border-radius: 50%; display: inline-block; margin-right: 6px; border: 2px solid white; box-shadow: 0 1px 3px rgba(0,0,0,0.2); }
+        .signal-buy { background-color: #22C55E; }
+        .signal-sell { background-color: #EF4444; }
+        .signal-hold { background-color: #EAB308; }
+
+        /* Risk Alert Styles */
+        .risk-level-0 { @apply bg-gray-100 text-gray-500 border-gray-200; }
+        .risk-level-1 { @apply bg-yellow-50 text-yellow-700 border-yellow-200; }
+        .risk-level-2 { @apply bg-orange-50 text-orange-700 border-orange-200; }
+        .risk-level-3 { @apply bg-red-50 text-red-700 border-red-200; }
+        
+        @keyframes fadeIn { from { opacity: 0; transform: scale(0.95); } to { opacity: 1; transform: scale(1); } }
+        .animate-fade-in { animation: fadeIn 0.2s ease-out forwards; }
+
+        ::-webkit-scrollbar { width: 6px; }
+        ::-webkit-scrollbar-thumb { background: #D1D5DB; border-radius: 4px; }
+        .loading-overlay { position: fixed; inset: 0; background: rgba(255,255,255,0.98); z-index: 99; display: none; justify-content: center; align-items: center; flex-direction: column; backdrop-filter: blur(2px); }
+    </style>
+</head>
+<body class="flex flex-col">
+
+    <!-- Loading Overlay -->
+    <div id="processingOverlay" class="loading-overlay">
+        <div class="text-[#8B7355] text-6xl mb-6"><i class="fas fa-circle-notch fa-spin"></i></div>
+        <h2 class="text-2xl font-bold">正在呼叫 bbb 戰情室...</h2>
+        <p class="text-gray-500 mt-2 text-lg">AI 正在分析 <span id="targetStock" class="font-bold text-[#8B7355]"></span></p>
+    </div>
+
+    <!-- JSON Import Modal (Block A/B) -->
+    <div id="jsonModal" class="fixed inset-0 bg-black/60 z-50 hidden flex items-center justify-center">
+        <div class="bg-white w-3/4 h-4/5 rounded-2xl shadow-2xl flex flex-col p-8">
+            <div class="flex justify-between items-center mb-4">
+                <h3 class="font-bold text-2xl text-[#8B7355]">匯入數據 JSON</h3>
+                <button onclick="toggleModal('jsonModal')" class="text-3xl text-gray-400 hover:text-black">&times;</button>
+            </div>
+            <textarea id="jsonInput" class="flex-1 border-2 border-gray-200 p-6 font-mono text-sm rounded-xl focus:border-[#8B7355] outline-none transition" placeholder='請貼上 JSON...'></textarea>
+            <div class="mt-6 text-right flex gap-3 justify-end">
+                <button onclick="document.getElementById('jsonInput').value=''" class="px-6 py-3 text-gray-500 hover:text-gray-800 font-bold">清空</button>
+                <button onclick="importJSON()" class="px-8 py-3 bg-[#8B7355] text-white rounded-lg font-bold shadow-md hover:bg-[#6e5a40] text-lg">確認匯入</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- AI Prediction Import Modal (New) -->
+    <div id="aiModal" class="fixed inset-0 bg-black/60 z-50 hidden flex items-center justify-center">
+        <div class="bg-white w-2/3 max-w-2xl rounded-2xl shadow-2xl flex flex-col p-6 animate-fade-in">
+            <div class="flex justify-between items-center mb-4 border-b pb-2">
+                <div>
+                    <h3 class="font-bold text-xl text-[#8B7355]"><i class="fas fa-robot mr-2"></i>新增/更新 AI 價格預測</h3>
+                    <p class="text-xs text-gray-400 mt-1">系統將根據 "model_name" 自動判斷是新增還是更新</p>
+                </div>
+                <button onclick="toggleModal('aiModal')" class="text-2xl text-gray-400 hover:text-black">&times;</button>
+            </div>
+            <textarea id="aiJsonInput" class="flex-1 border border-gray-200 p-4 font-mono text-sm rounded-lg focus:border-[#8B7355] outline-none transition bg-gray-50 h-64" 
+            placeholder='{
+  "model_name": "Gemini Ultra",
+  "days1": "1785",
+  "days7": "1820",
+  "days30": "1950",
+  "days180": "2200",
+  "days360": "2500",
+  "entry_zone": "1680-1730",
+  "exit_zone": "1980-2050",
+  "current_signal": "buy"
+}'></textarea>
+            <div class="mt-4 text-right flex gap-2 justify-end">
+                <button onclick="document.getElementById('aiJsonInput').value=''" class="px-4 py-2 text-gray-500 font-bold hover:text-black">清空</button>
+                <button onclick="importAiPrediction()" class="px-6 py-2 bg-[#8B7355] text-white rounded-lg font-bold shadow hover:bg-[#6e5a40] transition">
+                    <i class="fas fa-plus-circle mr-1"></i> 加入觀點
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Header -->
+    <header class="bg-[#ECE8DE] h-16 flex items-center px-6 border-b border-[#DCD6C9] justify-between shrink-0 shadow-sm z-20">
+        <div class="font-black text-2xl tracking-widest text-[#5A4A42]">bbb ANALYTICS <span class="text-sm font-medium text-gray-500 ml-1 align-top">AI+</span></div>
+        <div class="flex items-center gap-4">
+            <div id="statusBadge" class="text-sm font-mono px-3 py-1.5 rounded bg-gray-200 text-gray-500 hidden md:flex items-center">Offline</div>
+            <button onclick="toggleModal('jsonModal')" class="bg-[#8B7355] text-white px-4 py-2 rounded-full text-sm font-bold shadow hover:scale-105 transition flex items-center gap-2">
+                <i class="fas fa-cloud-upload-alt"></i> 匯入 JSON
+            </button>
+            <button onclick="syncData(true)" class="bg-white border border-[#D1C7B7] text-[#8B7355] px-4 py-2 rounded text-sm font-bold hover:bg-gray-50 shadow-sm">
+                <i class="fas fa-sync-alt"></i>
+            </button>
+        </div>
+    </header>
+
+    <div class="flex flex-1 overflow-hidden">
+        
+        <!-- Sidebar -->
+        <aside class="w-[25%] min-w-[300px] bg-[#F5F2EB] border-r border-[#E5E0D8] flex flex-col z-10 shadow-lg">
+            <div class="p-4 border-b border-[#E5E0D8] bg-[#F5F2EB]">
+                <div class="relative group">
+                    <input type="text" id="addStockInput" placeholder="搜尋代號..." onkeyup="renderSidebar()"
+                           class="w-full bg-white border border-gray-300 rounded-lg px-4 py-3 text-base focus:outline-none focus:border-[#8B7355] shadow-inner font-mono tracking-wide transition group-hover:shadow-md">
+                    <span class="absolute right-3 top-3 text-gray-400"><i class="fas fa-search"></i></span>
+                </div>
+            </div>
+            <div id="stockList" class="flex-1 overflow-y-auto p-3 space-y-3"></div>
+        </aside>
+
+        <!-- Main Content -->
+        <main class="flex-1 overflow-y-auto bg-[#FDFBF7] p-8 scroll-smooth" id="mainBoard">
+            <div id="emptyState" class="h-full flex flex-col items-center justify-center text-gray-300 select-none">
+                <i class="fas fa-folder-open text-9xl mb-6 opacity-30"></i>
+                <p class="text-2xl font-light tracking-wide">請從左側選擇或輸入代號新增分析</p>
+            </div>
+
+            <div id="dashboard" class="hidden max-w-[1600px] mx-auto space-y-8 pb-24">
+                
+                <!-- Info Header -->
+                <div class="flex flex-col md:flex-row justify-between items-end border-b-4 border-[#8B7355] pb-6">
+                    <div>
+                        <div class="flex items-baseline gap-4 mb-2">
+                            <h1 class="text-5xl font-extrabold text-[#2C3E50] tracking-tighter" id="d_name">--</h1>
+                            <h2 class="text-2xl font-bold text-gray-400 font-mono" id="d_id">--</h2>
+                        </div>
+                        <div class="text-sm text-gray-500 flex items-center gap-4">
+                            <span class="bg-gray-100 px-3 py-1 rounded flex items-center gap-2"><i class="far fa-clock"></i> <span id="d_date" class="font-mono"></span></span>
+                            <span class="bg-blue-50 text-blue-600 px-2 py-1 rounded border border-blue-100 text-xs font-bold" id="aiModelTag">AI</span>
+                            <span class="text-red-500 font-bold" id="d_note"></span>
+                        </div>
+                    </div>
+                    <div class="text-right">
+                        <div class="flex items-baseline justify-end gap-4">
+                            <div id="d_price" class="text-7xl font-mono font-bold text-[#2C3E50] tracking-tighter">--</div>
+                            <div id="d_change" class="text-2xl font-bold">--</div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Industry Analysis (Block B) -->
+                <div class="grid grid-cols-1 lg:grid-cols-3 gap-8">
+                    <!-- Left Column: Details -->
+                    <div class="col-span-2 glass-panel p-6">
+                        <div class="header-title text-[#8B7355]">產業地位與 AI 觀點</div>
+                        <div id="industry_content">
+                            <div class="text-gray-400 italic">等待 AI 分析數據...</div>
+                        </div>
+                    </div>
+
+                    <!-- Right Column: Revenue Mix Chart & Memo -->
+                    <div class="col-span-1 flex flex-col gap-6">
+                        <!-- Revenue Mix Chart -->
+                        <div class="glass-panel p-6 flex flex-col">
+                            <div class="header-title text-[#8B7355] border-b-0 pb-0 mb-2 text-sm">營收來源佔比</div>
+                            <div class="relative h-48 w-full">
+                                <canvas id="chart_rev_mix"></canvas>
+                            </div>
+                            <!-- NEW: Product List Placeholder -->
+                            <div class="mt-6 border-t border-gray-100 pt-4 space-y-4">
+                                <div>
+                                    <div class="text-xs text-gray-400 font-bold uppercase mb-2 tracking-wider">主力商品 (Main Products)</div>
+                                    <div id="product_main_list" class="flex flex-wrap gap-2">
+                                        <span class="text-gray-300 text-xs italic">等待 B 入口分析...</span>
+                                    </div>
+                                </div>
+                                <div>
+                                    <div class="text-xs text-gray-400 font-bold uppercase mb-2 tracking-wider">開發中潛力商品 (R&D Pipeline)</div>
+                                    <div id="product_dev_list" class="flex flex-wrap gap-2">
+                                        <span class="text-gray-300 text-xs italic">等待 B 入口分析...</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- External Resources & AI Summary -->
+                        <div class="glass-panel p-6 flex flex-col gap-3">
+                            <div class="header-title text-[#8B7355] border-b-0 pb-0 mb-0 text-sm">官方資源與 AI 整理</div>
+                            <div class="flex gap-2">
+                                <a id="link_website" href="#" target="_blank" class="flex-1 bg-gray-100 hover:bg-gray-200 text-gray-600 text-center py-2 rounded text-sm font-bold transition flex items-center justify-center gap-2">
+                                    <i class="fas fa-globe"></i> 官網
+                                </a>
+                                <a id="link_report" href="#" target="_blank" class="flex-1 bg-gray-100 hover:bg-gray-200 text-gray-600 text-center py-2 rounded text-sm font-bold transition flex items-center justify-center gap-2">
+                                    <i class="fas fa-file-pdf"></i> 年報
+                                </a>
+                            </div>
+                            <div id="ai_resource_summary" class="bg-gray-50 border border-gray-100 p-3 rounded text-sm text-gray-600 leading-relaxed min-h-[80px]">
+                                <span class="text-gray-400 italic text-xs">等待股神 Gemini 分析年報與官網後的重點摘要...</span>
+                            </div>
+                        </div>
+
+                        <!-- Memo -->
+                        <div class="glass-panel bg-[#FFFDF5] border-[#E8E0C0] p-6 flex-1 flex flex-col">
+                            <div class="header-title text-[#8B7355] border-[#DCD6C9] mb-4"><span><i class="fas fa-pen-alt mr-2"></i>投資筆記</span></div>
+                            <textarea id="d_memo" class="flex-1 w-full bg-transparent border-none text-base resize-none focus:ring-0 leading-relaxed text-gray-600 h-full" placeholder="寫下你的觀察..."></textarea>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- News Area (AI + Fact Based) -->
+                <div class="glass-panel p-6">
+                    <div class="header-title text-[#8B7355]">消息面 (AI Fact Based)</div>
+                    <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+                        <div class="col-span-2 space-y-3 overflow-y-auto max-h-80 pr-2" id="d_news"></div>
+                        <div class="col-span-1 border-l border-gray-100 pl-6 space-y-3 text-sm font-mono" id="d_calendar"></div>
+                    </div>
+                </div>
+
+                <!-- Technical K-Line & Strategy & AI Predictions -->
+                <div class="glass-panel p-6 border-l-[8px] border-[#8B7355]">
+                    <div class="header-title text-[#8B7355]">
+                        技術走勢 (日K) 
+                        <div class="flex gap-2 text-xs font-normal ml-2">
+                            <span class="flex items-center gap-1"><div class="w-3 h-1 rounded bg-[#F1C40F]"></div><span class="text-gray-600 font-bold">MA5</span></span>
+                            <span class="flex items-center gap-1"><div class="w-3 h-1 rounded bg-[#8E44AD]"></div><span class="text-gray-600 font-bold">MA20</span></span>
+                            <span class="flex items-center gap-1"><div class="w-3 h-1 rounded bg-[#2980B9]"></div><span class="text-gray-600 font-bold">MA60</span></span>
+                        </div>
+                        <div class="ml-auto flex gap-2">
+                            <button onclick="changeTimeframe('D')" id="btn_tf_D" class="tf-btn active">日</button>
+                            <button onclick="changeTimeframe('W')" id="btn_tf_W" class="tf-btn inactive">週</button>
+                            <button onclick="changeTimeframe('M')" id="btn_tf_M" class="tf-btn inactive">月</button>
+                        </div>
+                    </div>
+                    
+                    <div id="apex_kline" class="w-full h-[400px]"></div>
+                    <div id="apex_vol" class="w-full h-[150px] -mt-4"></div>
+
+                    <!-- AI Price Predictions Feed (Merged from New Source) -->
+                    <div id="ai_prediction_feed" class="mt-6 border-t-2 border-[#8B7355] pt-6">
+                        <div class="flex justify-between items-end border-b border-gray-200 pb-2 mb-4">
+                            <div class="text-[#8B7355] font-bold text-lg">AI 多模型價格預測</div>
+                            <button onclick="toggleModal('aiModal')" class="bg-gray-100 hover:bg-[#8B7355] hover:text-white text-gray-500 text-xs px-3 py-1 rounded-full font-bold transition flex items-center gap-1">
+                                <i class="fas fa-plus"></i> 新增預測
+                            </button>
+                        </div>
+                        <div id="ai_cards_container" class="grid grid-cols-1 md:grid-cols-2 gap-4">
+                            <div class="col-span-2 text-center text-gray-400 text-sm py-4 italic">點擊右上角 "+" 新增 AI 預測模型</div>
+                        </div>
+                    </div>
+                    
+                    <!-- C-Value Valuation Dashboard (MODIFIED Tooltips Location & Label) -->
+                    <div id="c_model_container" class="mt-6 border-t border-gray-100 pt-6 hidden">
+                         <div class="flex justify-between items-end mb-4">
+                            <h3 class="text-xl font-extrabold text-[#8B7355]"><i class="fas fa-calculator mr-2"></i>結構校正 C 值估價</h3>
+                            <span id="c_status_tag" class="px-3 py-1 rounded bg-gray-100 text-xs font-bold text-gray-500">Data Loaded</span>
+                         </div>
+                         <div class="grid grid-cols-4 gap-4 mb-4">
+                            <!-- Card 1: C-Score -->
+                            <div class="c-card bg-yellow-50 border-yellow-200 th-tooltip" data-tip="C值 = 平均(偏離度 * Rt係數)。&#10;>1 代表股價偏高 (溢價)；<1 代表股價偏低 (折價)。">
+                                <div class="c-label text-yellow-800 border-b border-yellow-200 pb-1 mb-1 border-dashed cursor-help">C值 (總分)</div>
+                                <div id="c_val" class="c-val text-yellow-700">--</div>
+                            </div>
+                            <!-- Card 2: Benchmark PE (Updated Label) -->
+                            <div class="c-card th-tooltip" data-tip="基準季PE = 過去5年 季PE 中位數。&#10;代表該股票在歷史上的「常態估值水平」。">
+                                <div class="c-label border-b border-gray-200 pb-1 mb-1 border-dashed cursor-help">基準季 PE</div>
+                                <div id="c_benchmark_pe" class="c-val">--</div>
+                            </div>
+                            <!-- Card 3: Latest Rt -->
+                            <div class="c-card th-tooltip" data-tip="Rt (營收品質係數)：&#10;若 營收成長 > EPS成長 → 1.1 (溢價)&#10;若 營收成長 < EPS成長 → 0.9 (折價)">
+                                <div class="c-label border-b border-gray-200 pb-1 mb-1 border-dashed cursor-help">最新 Rt</div>
+                                <div id="c_latest_rt" class="c-val">--</div>
+                            </div>
+                            <!-- Card 4: Latest Deviation -->
+                            <div class="c-card bg-blue-50 border-blue-200 shadow-md th-tooltip" data-tip="偏離度 = 實際股價 / 理論價。&#10;理論價 = EPS × 基準PE。&#10;衡量當前股價偏離合理估值的程度。">
+                                <div class="c-label text-blue-400 border-b border-blue-200 pb-1 mb-1 border-dashed cursor-help">最新偏離度</div>
+                                <div id="c_latest_dev" class="c-val text-blue-600">--</div>
+                            </div>
+                         </div>
+                         
+                         <!-- Detail Table (Limited to top 6 rows) -->
+                         <div class="overflow-x-auto rounded-lg border border-gray-100 max-h-96 mt-4">
+                            <table class="w-full data-table" id="c_table_dom">
+                                <thead>
+                                    <tr>
+                                        <th>季度</th><th>EPS</th><th>季營收(億)</th><th>季均價</th>
+                                        <th>營收成長%</th><th>EPS成長%</th><th>當季PE</th>
+                                        <th>Rt係數</th><th>理論價</th><th>偏離度</th>
+                                    </tr>
+                                </thead>
+                                <tbody id="t_c_score"></tbody>
+                            </table>
+                         </div>
+                    </div>
+
+                    <div id="tech_analysis_container" class="mt-6 border-t border-gray-100 pt-6">
+                        <p class="text-base text-gray-700 leading-8 text-justify font-medium" id="d_tech_txt">--</p>
+                    </div>
+                </div>
+
+                <!-- Risk Alert (NEW) -->
+                <div id="risk_alert_panel" class="glass-panel p-6 border-l-[8px] border-gray-300 hidden mt-8">
+                    <div class="flex justify-between items-center mb-6">
+                        <div class="header-title border-none mb-0 pb-0 text-[#8B7355]">
+                            <i class="fas fa-exclamation-triangle mr-2"></i>警示點 - 風險評價 (Risk Alert)
+                        </div>
+                        <div id="risk_overall_badge" class="px-4 py-1.5 rounded-full text-sm font-bold bg-gray-100 text-gray-500">
+                            Assessment Pending
+                        </div>
+                    </div>
+                    <div class="bg-yellow-50 border border-yellow-100 text-yellow-800 px-4 py-3 rounded-lg mb-6 text-sm flex items-center">
+                        <i class="fas fa-info-circle mr-2"></i>
+                        <span id="risk_hint">風險警示不是賣出訊號，而是「調整操作節奏」的提醒。</span>
+                    </div>
+                    <!-- Risk Cards Grid -->
+                    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4" id="risk_cards_container">
+                        <!-- Cards injected by JS -->
+                    </div>
+                </div>
+
+                <!-- Financial Charts & Tables -->
+                <div class="grid grid-cols-1 lg:grid-cols-2 gap-8 mt-8">
+                    <!-- EPS Table -->
+                    <div class="glass-panel p-6">
+                        <div class="header-title text-[#8B7355]">
+                            獲利能力 (EPS/三率) 
+                            <div class="flex gap-2 text-xs font-normal ml-2">
+                                <span class="flex items-center gap-1"><span class="w-3 h-3 bg-[#0EA5E9]"></span>EPS</span>
+                                <span class="flex items-center gap-1"><span class="w-3 h-1 bg-[#1D4ED8]"></span>毛利%</span>
+                                <span class="flex items-center gap-1"><span class="w-3 h-1 bg-[#EC4899]"></span>淨利%</span>
+                            </div>
+                        </div>
+                        <div class="h-64 mb-6"><canvas id="chart_eps"></canvas></div>
+                        <div class="overflow-x-auto rounded-lg border border-gray-100 max-h-96">
+                            <table class="w-full data-table" id="eps_table_dom">
+                                <thead><tr><th>日期</th><th>毛利(%)</th><th>淨利(%)</th><th>EPS</th><th>累計EPS</th><th>OPM(%)</th></tr></thead>
+                                <tbody id="t_eps"></tbody>
+                            </table>
+                        </div>
+                    </div>
+                    
+                    <!-- REVENUE Table (Legend Modified) -->
+                    <div class="glass-panel p-6">
+                        <div class="header-title text-[#8B7355]">
+                            月營收趨勢 
+                            <div class="flex gap-2 text-xs font-normal ml-2">
+                                <span class="flex items-center gap-1"><span class="w-3 h-3 bg-[#0EA5E9]"></span>當月</span>
+                                <span class="flex items-center gap-1"><span class="w-3 h-3 bg-[#E0F2FE]"></span>去年同期</span>
+                                <!-- Changed from Blue to Pink (#EC4899) -->
+                                <span class="flex items-center gap-1"><span class="w-3 h-1 bg-[#EC4899]"></span>YoY</span>
+                                <span class="flex items-center gap-1"><span class="w-3 h-1 bg-[#1D4ED8]"></span>MoM</span>
+                            </div>
+                        </div>
+                        <div class="h-64 mb-6"><canvas id="chart_rev"></canvas></div>
+                        <div class="overflow-x-auto rounded-lg border border-gray-100 max-h-96">
+                            <table class="w-full data-table" id="rev_table_dom">
+                                <thead><tr><th>月份</th><th>營收 (億)</th><th>MoM%</th><th>YoY%</th></tr></thead>
+                                <tbody id="t_rev"></tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Additional Financial Tables -->
+                <div class="grid grid-cols-1 lg:grid-cols-2 gap-8">
+                    <!-- Cash Flow -->
+                    <div class="glass-panel p-6">
+                        <div class="header-title text-[#8B7355]">現金流量表</div>
+                        <div class="overflow-x-auto rounded-lg border border-gray-100 max-h-96">
+                            <table class="w-full data-table" id="cash_table_dom">
+                                <thead><tr><th>日期</th><th>營運現金流(百萬)</th><th>資本支出(百萬)</th><th>自由現金流(百萬)</th></tr></thead>
+                                <tbody id="t_cash"></tbody>
+                            </table>
+                        </div>
+                    </div>
+
+                    <!-- Earnings Quality -->
+                    <div class="glass-panel p-6">
+                        <div class="header-title text-[#8B7355]">獲利含金量</div>
+                        <div class="overflow-x-auto rounded-lg border border-gray-100 max-h-96">
+                            <table class="w-full data-table" id="quality_table_dom">
+                                <thead><tr><th>日期</th><th>稅後淨利(百萬)</th><th>營運現金流(百萬)</th><th>獲利含金量(%)</th></tr></thead>
+                                <tbody id="t_quality"></tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- KPI & Structure Tables -->
+                <div class="grid grid-cols-1 lg:grid-cols-2 gap-8">
+                    <!-- KPI -->
+                    <div class="glass-panel p-6">
+                        <div class="header-title text-[#8B7355]">關鍵指標 (Metrics)</div>
+                        <div class="overflow-x-auto rounded-lg border border-gray-100 max-h-96">
+                            <table class="w-full data-table" id="kpi_table_dom">
+                                <thead><tr><th>日期</th><th>OPM(%)</th><th>ROE(%)</th><th>ROA(%)</th><th>FCF(億)</th><th>淨利(億)</th></tr></thead>
+                                <tbody id="t_kpi"></tbody>
+                            </table>
+                        </div>
+                    </div>
+
+                    <!-- Structure Stability -->
+                    <div class="glass-panel p-6">
+                        <div class="header-title text-[#8B7355]">結構穩定度</div>
+                        <div class="overflow-x-auto rounded-lg border border-gray-100 max-h-96">
+                            <table class="w-full data-table" id="structure_table_dom">
+                                <thead><tr><th>日期</th><th>總資產(億)</th><th>股東權益(億)</th><th>負債比(%)</th><th>流動負債(億)</th><th>DoI(日)</th></tr></thead>
+                                <tbody id="t_structure"></tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Capital & Chips -->
+                <div class="grid grid-cols-1 lg:grid-cols-2 gap-8">
+                    <!-- Capital -->
+                    <div class="glass-panel p-6">
+                        <div class="header-title text-[#8B7355]">最新股本 (Capital)</div>
+                        <div class="overflow-x-auto rounded-lg border border-gray-100 max-h-96">
+                            <table class="w-full data-table" id="capital_table_dom">
+                                <thead><tr><th>股票代號</th><th>報表日期</th><th>總發行張數(張)</th><th>面額(推定)</th><th>換算方法</th></tr></thead>
+                                <tbody id="t_capital"></tbody>
+                            </table>
+                        </div>
+                    </div>
+
+                    <!-- Chips -->
+                    <div class="glass-panel p-6">
+                        <div class="header-title text-[#8B7355]">法人籌碼 (近15日)</div>
+                        <div class="overflow-x-auto rounded-lg border border-gray-100 max-h-96">
+                            <table class="w-full data-table" id="chips_table_dom">
+                                <thead><tr><th>日期</th><th>外資(張)</th><th>投信(張)</th><th>自營商(張)</th><th>三大法人合計(張)</th><th>佔股本(%)</th></tr></thead>
+                                <tbody id="t_chips"></tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- PE Valuation -->
+                <div class="glass-panel p-6">
+                    <div class="header-title text-[#8B7355]">
+                        PE 評價 (精確估值)
+                        <div class="flex gap-2 text-xs font-normal ml-2">
+                            <span class="flex items-center gap-1"><span class="w-3 h-1 bg-[#374151]"></span>股價</span>
+                            <span class="flex items-center gap-1"><span class="w-3 h-3 bg-red-100 border border-red-500"></span>昂貴區(20-25x)</span>
+                            <span class="flex items-center gap-1"><span class="w-3 h-3 bg-green-100 border border-green-500"></span>便宜區(10-15x)</span>
+                        </div>
+                    </div>
+                    <div class="h-64 mb-6"><canvas id="chart_pe"></canvas></div>
+                    <div class="overflow-x-auto rounded-lg border border-gray-100 max-h-96">
+                        <table class="w-full data-table" id="pe_table_dom">
+                            <thead><tr><th>日期</th><th>公告截止日</th><th>公告後3日均價</th><th>TTM EPS</th><th>PE</th></tr></thead>
+                            <tbody id="t_pe"></tbody>
+                        </table>
+                    </div>
+                </div>
+
+                <!-- NEW: Annual Returns (CAGR) -->
+                <div class="glass-panel p-6 mt-8">
+                    <div class="header-title text-[#8B7355]">含息年度報酬率 (Annual Returns)</div>
+                    <div class="overflow-x-auto rounded-lg border border-gray-100 max-h-96">
+                        <table class="w-full data-table" id="returns_table_dom">
+                            <thead><tr><th>年度</th><th>含息報酬率(%)</th><th>計算區間</th></tr></thead>
+                            <tbody id="t_returns"></tbody>
+                        </table>
+                    </div>
+                </div>
+
+            </div>
+        </main>
+    </div>
+
+    <script>
+        let db = [];
+        let currentStockId = null;
+        let charts = { river:null, eps:null, rev:null, pe:null, kline:null, vol:null, rev_mix: null };
+        let currentKLineData = [];
+        let currentTimeframe = 'D';
+
+        window.onload = () => {
+            const local = localStorage.getItem('bbb_db_v5'); 
+            if(local) db = JSON.parse(local);
+            renderSidebar();
+            syncData(); 
+        };
+
+        function getDateValue(dateStr) {
+            if(!dateStr) return 0;
+            const parts = dateStr.split(/[\/-]/);
+            if(parts.length < 2) return 0;
+            const y = parseInt(parts[0]);
+            const m = parseInt(parts[1]);
+            return y * 100 + m; 
+        }
+
+        // --------------------------------------
+        // Import Logic (Merged)
+        // --------------------------------------
+        function importJSON() {
+            try {
+                const raw = JSON.parse(document.getElementById('jsonInput').value);
+                
+                // Block B Merge
+                if (raw.id && (raw.revenue_predictions || raw.eps_predictions || raw.technical_analysis || raw.ai_message_board || raw.industry_analysis || raw.c_model || raw.risk_evaluation) && !raw.financials) {
+                    const idx = db.findIndex(s => s.id === raw.id);
+                    if (idx !== -1) {
+                        if (raw.revenue_predictions) db[idx].revenue_predictions = raw.revenue_predictions;
+                        if (raw.eps_predictions) db[idx].eps_predictions = raw.eps_predictions;
+                        if (raw.technical_analysis) db[idx].technical_analysis = raw.technical_analysis;
+                        if (raw.ai_message_board) db[idx].ai_message_board = raw.ai_message_board;
+                        if (raw.industry_analysis) db[idx].industry_analysis = raw.industry_analysis;
+                        if (raw.c_model) db[idx].c_model = raw.c_model;
+                        if (raw.risk_evaluation) db[idx].risk_evaluation = raw.risk_evaluation; // New
+                        // If B block has resources, merge them too (unlikely based on flow, but safe)
+                        if (raw.ai_resources) {
+                            if(!db[idx].ai_resources) db[idx].ai_resources = {};
+                            Object.assign(db[idx].ai_resources, raw.ai_resources);
+                        }
+                        
+                        saveToLocal(); 
+                        toggleModal('jsonModal'); 
+                        loadStock(raw.id); 
+                        document.getElementById('jsonInput').value = ""; 
+                        console.log("Block B data merged.");
+                        return; 
+                    } else {
+                        alert("找不到對應的股票 ID，請先建立該股票的事實資料 (Block A)。");
+                        return;
+                    }
+                }
+
+                // Block A Logic
+                let stockData = null;
+                if (raw.analysis_header && raw.details) {
+                    stockData = parseFactJson(raw);
+                } else {
+                    stockData = raw; 
+                }
+
+                if (!stockData || !stockData.id) throw new Error("Invalid Format");
+
+                const idx = db.findIndex(s => s.id === stockData.id);
+                if (idx !== -1) {
+                    if (!stockData.memo) stockData.memo = db[idx].memo;
+                    // Merge all block B parts if they exist in DB
+                    if (db[idx].revenue_predictions) stockData.revenue_predictions = db[idx].revenue_predictions;
+                    if (db[idx].eps_predictions) stockData.eps_predictions = db[idx].eps_predictions;
+                    if (db[idx].technical_analysis) stockData.technical_analysis = db[idx].technical_analysis;
+                    if (db[idx].ai_message_board) stockData.ai_message_board = db[idx].ai_message_board;
+                    if (db[idx].industry_analysis) stockData.industry_analysis = db[idx].industry_analysis;
+                    if (db[idx].c_model) stockData.c_model = db[idx].c_model;
+                    if (db[idx].risk_evaluation) stockData.risk_evaluation = db[idx].risk_evaluation;
+                    if (db[idx].ai_forecasts) stockData.ai_forecasts = db[idx].ai_forecasts; // Merge AI forecasts
+                    // Note: ai_resources comes fresh from A block, so we generally overwrite, 
+                    // but if there were manual edits we might want to be careful. For now, overwrite is safer for updates.
+                    db[idx] = stockData;
+                } else {
+                    db.unshift(stockData);
+                }
+
+                saveToLocal(); 
+                toggleModal('jsonModal'); 
+                renderSidebar(); 
+                loadStock(stockData.id);
+                document.getElementById('jsonInput').value = ""; 
+            } catch(e) { 
+                console.error(e);
+                alert("JSON 格式錯誤或無法解析: " + e.message); 
+            }
+        }
+
+        // AI Prediction Import Function
+        function importAiPrediction() {
+            if (!currentStockId) { alert("請先選擇一檔股票"); return; }
+            try {
+                const inputVal = document.getElementById('aiJsonInput').value;
+                if(!inputVal.trim()) return;
+                const newPred = JSON.parse(inputVal);
+                if (!newPred.model_name) throw new Error("缺少 'model_name'");
+
+                const idx = db.findIndex(s => s.id === currentStockId);
+                if (idx === -1) return;
+
+                if (!db[idx].ai_forecasts) db[idx].ai_forecasts = [];
+
+                const existPredIdx = db[idx].ai_forecasts.findIndex(p => p.model_name === newPred.model_name);
+                if (existPredIdx !== -1) {
+                    db[idx].ai_forecasts[existPredIdx] = newPred;
+                } else {
+                    db[idx].ai_forecasts.push(newPred);
+                }
+
+                saveToLocal();
+                loadStock(currentStockId);
+                toggleModal('aiModal');
+                document.getElementById('aiJsonInput').value = ""; 
+
+            } catch (e) { alert("格式錯誤: " + e.message); }
+        }
+
+        function parseFactJson(raw) {
+            const header = raw.analysis_header;
+            const d = raw.details;
+            const resources = raw.ai_context_support || {}; // ✅ 新增：擷取外部資源
+            
+            // Basic
+            let price = "-", change = "-", changePercent = "-", name = "--";
+            if (d["5_即時報價 (Realtime)"]?.items?.live_quote?.rows?.[0]) {
+                const q = d["5_即時報價 (Realtime)"].items.live_quote.rows[0];
+                name = q["名稱"];
+                price = q["現價"];
+                let chgVal = q["漲跌(%)"];
+                // 修正：若昨收為 0 或 null 避免錯誤
+                let prev = q["昨收(固定)"];
+                if (price !== null && prev !== null) {
+                    change = (price - prev).toFixed(2);
+                }
+                changePercent = (chgVal !== null ? chgVal.toFixed(2) : "0.00") + "%";
+            }
+
+            // K-Line Data (Adjusted for key variations)
+            let kline_data = [];
+            // Try different keys that might appear in the JSON
+            if (d["8_K線 (Daily)"]?.rows) {
+                kline_data = d["8_K線 (Daily)"].rows;
+            } else if (d["6_K線 (Daily)"]?.rows) {
+                kline_data = d["6_K線 (Daily)"].rows;
+            }
+
+            // Revenue
+            const revenue_trend = (d["1_月營收 (Monthly)"]?.rows || []).map(r => ({
+                month: r.ym, revenue: r.rev_m/100, mom: r.mom, yoy: r.yoy 
+            })).map(x => ({...x, revenue: x.revenue.toFixed(2), mom: x.mom?.toFixed(2), yoy: x.yoy?.toFixed(2)}));
+
+            // Quarterly Items
+            const qItems = d["2_季度財報 (Quarterly)"]?.items || {};
+            let eps_table = (qItems.profitability_quarterly?.rows||[]).map(r=>({...r, gross:r.gross_margin_pct, net:r.net_margin_pct, opm:r.opm_pct}));
+            let cashflow_table = (qItems.cashflow_quarterly?.rows||[]).map(r=>({...r, ocf:r.ocf_m, capex:r.capex_m, fcf:r.fcf_m}));
+            let quality_table = (qItems.earnings_quality_quarterly?.rows||[]).map(r=>({...r, net_income:r.net_income_m, ocf:r.ocf_m, ratio:r.cash_ratio_pct}));
+            let kpi_table = (qItems.kpi_mix_quarterly?.rows||[]).map(r=>({...r, opm:r.opm_pct, roe:r.roe_pct, roa:r.roa_pct, fcf_b:r.fcf_100m, net_b:r.net_income_100m}));
+            let structure_table = (qItems.structure_stability_quarterly?.rows||[]).map(r=>({...r, assets:r.total_assets_b, equity:r.equity_b, debt:r.debt_ratio_pct, cliab:r.current_liab_b, doi:r.doi_days}));
+            let pe_table = (qItems.pe_precise_quarterly?.rows||[]).map(r=>({...r}));
+            
+            // C-Score Data
+            let c_score_data = d["7_結構校正C值 (C-Score)"]?.items?.structure_c_score || null;
+
+            // Other Daily Items
+            let capital_table = d["3_最新股本 (Capital)"]?.items?.capital_latest?.rows || [];
+            let chips_table = d["4_法人籌碼 (Daily)"]?.items?.chips_15d?.rows || [];
+
+            // NEW: Returns Table
+            let returns_table = d["6_含息年度報酬率 (Annual Returns)"]?.items?.annual_returns?.rows || [];
+
+            return {
+                id: header.stock_id,
+                name: name,
+                lastUpdated: header.generated_at,
+                ai_model: "Fact-Update",
+                basicInfo: { price, change, changePercent },
+                financials: {
+                    revenue_trend, eps_table, cashflow_table, quality_table, kpi_table, structure_table, pe_table, capital_table, chips_table, c_score_data, returns_table,
+                    kline_data: kline_data,
+                    valuation: { pb: '-', roe: '-', pe_status: '-' }
+                },
+                // ✅ 新增：儲存外部資源連結
+                ai_resources: {
+                    annual_report: resources.annual_report || null,
+                    official_website: resources.official_website || null
+                },
+                news_events: { news: [], calendar: [] },
+                memo: "",
+                ai_forecasts: []
+            };
+        }
+
+        // --------------------------------------
+        // Rendering
+        // --------------------------------------
+        async function syncData(force=false) {
+            const badge = document.getElementById('statusBadge');
+            badge.innerText = "Syncing...";
+            badge.className = "text-sm font-mono px-3 py-1 rounded bg-yellow-100 text-yellow-700 flex items-center";
+            try {
+                const res = await fetch(force ? `./data.json?t=${Date.now()}` : './data.json');
+                const cloud = await res.json();
+                if(Array.isArray(cloud) && cloud.length>0) {
+                    const localData = JSON.parse(localStorage.getItem('bbb_db_v5')||'[]');
+                    cloud.forEach(c => {
+                        const idx = localData.findIndex(x=>x.id===c.id);
+                        if(idx!==-1) {
+                            if(!c.memo) c.memo = localData[idx].memo;
+                            // Merge all block B parts
+                            if(c.revenue_predictions) localData[idx].revenue_predictions = c.revenue_predictions;
+                            if(c.eps_predictions) localData[idx].eps_predictions = c.eps_predictions;
+                            if(c.technical_analysis) localData[idx].technical_analysis = c.technical_analysis;
+                            if(c.ai_message_board) localData[idx].ai_message_board = c.ai_message_board;
+                            if(c.industry_analysis) localData[idx].industry_analysis = c.industry_analysis;
+                            if(c.c_model) localData[idx].c_model = c.c_model;
+                            if(c.risk_evaluation) localData[idx].risk_evaluation = c.risk_evaluation;
+                            if(c.ai_resources) localData[idx].ai_resources = c.ai_resources; // sync resources too
+                            if(c.ai_forecasts) localData[idx].ai_forecasts = c.ai_forecasts;
+                            localData[idx] = c; 
+                        } else {
+                            localData.unshift(c);
+                        }
+                    });
+                    db = localData;
+                    saveToLocal();
+                    renderSidebar();
+                    if(currentStockId) loadStock(currentStockId);
+                    badge.innerHTML = `<i class="fas fa-check-circle mr-2"></i> Online`;
+                    badge.className = "text-sm font-mono px-3 py-1 rounded bg-green-100 text-green-700 flex items-center";
+                }
+            } catch(e) {
+                badge.innerText = "Local Mode";
+                badge.className = "text-sm font-mono px-3 py-1 rounded bg-gray-100 text-gray-500 flex items-center";
+            }
+        }
+
+        function renderSidebar() {
+            const el = document.getElementById('stockList');
+            const q = document.getElementById('addStockInput').value.trim().toUpperCase(); 
+            el.innerHTML = "";
+            let cats = {};
+            
+            db.forEach(s => {
+                if(q && !s.id.includes(q) && !s.name.includes(q)) return;
+                const c = s.industry_analysis?.sector || s.category || "關注清單";
+                if(!cats[c]) cats[c] = [];
+                cats[c].push(s);
+            });
+
+            for(let [cat, items] of Object.entries(cats)) {
+                const grp = document.createElement('div');
+                grp.className = "mb-4";
+                grp.innerHTML = `<div class="px-3 py-2 text-xs font-bold text-gray-400 uppercase tracking-widest border-b mb-2 flex justify-between cursor-pointer" onclick="this.nextElementSibling.classList.toggle('hidden')">${cat} <i class="fas fa-angle-down"></i></div>`;
+                const ul = document.createElement('div');
+                ul.className = "space-y-2";
+                
+                items.forEach(s => {
+                    const d = document.createElement('div');
+                    let style = "border-transparent bg-white shadow-sm";
+                    if(currentStockId === s.id) style += " border-l-8 border-l-[#8B7355] ring-1 ring-[#8B7355]/30 transform translate-x-1";
+                    
+                    const chgStr = s.basicInfo.change || "0";
+                    const chg = parseFloat(chgStr);
+                    const col = chg >= 0 ? "text-[#C0392B]" : "text-[#16A34A]";
+
+                    // Signal Light Logic
+                    let signalHtml = '';
+                    let sig = null;
+                    if (s.ai_forecasts && s.ai_forecasts.length > 0) {
+                        sig = s.ai_forecasts[s.ai_forecasts.length-1].current_signal?.toLowerCase();
+                    }
+                    if(sig) {
+                        let sigClass = '';
+                        if(sig === 'buy') sigClass = 'signal-buy';
+                        else if(sig === 'sell') sigClass = 'signal-sell';
+                        else if(sig === 'hold') sigClass = 'signal-hold';
+                        if(sigClass) signalHtml = `<span class="signal-light ${sigClass}"></span>`;
+                    }
+
+                    // NEW: Add Delete Button Logic Here
+                    d.className = `p-4 rounded-xl border transition-all hover:shadow-md flex items-center ${style}`;
+                    d.innerHTML = `
+                        <div class="flex-1 min-w-0 cursor-pointer" onclick="loadStock('${s.id}')">
+                            <div class="flex justify-between items-center mb-0.5">
+                                <div class="text-[26px] font-bold text-[#2C3E50] leading-tight truncate">${s.name}</div>
+                                <div class="text-right ml-2">
+                                    <div class="font-mono text-base font-bold text-gray-800 flex items-center">${signalHtml} ${s.basicInfo.price}</div>
+                                </div>
+                            </div>
+                            <div class="flex justify-between items-center">
+                                <div class="text-xs font-mono text-gray-400 font-bold">${s.id}</div>
+                                <div class="text-xs font-bold ${col}">${s.basicInfo.changePercent}</div>
+                            </div>
+                        </div>
+                        <button onclick="deleteStock('${s.id}', event)" class="ml-3 text-gray-300 hover:text-red-500 transition px-2 py-4" title="刪除此股票"><i class="fas fa-trash-alt"></i></button>
+                    `;
+                    ul.appendChild(d);
+                });
+                new Sortable(ul, { animation:150 });
+                grp.appendChild(ul);
+                el.appendChild(grp);
+            }
+        }
+
+        // NEW: Delete Function
+        window.deleteStock = function(id, e) {
+            e.stopPropagation(); 
+            if(!confirm('確定要從清單中移除 ' + id + ' 嗎？\n(這只會刪除瀏覽器暫存，不會影響原始檔案)')) return;
+            
+            db = db.filter(x => x.id !== id);
+            saveToLocal();
+            renderSidebar();
+            
+            if(currentStockId === id) {
+                document.getElementById('dashboard').classList.add('hidden');
+                document.getElementById('emptyState').classList.remove('hidden');
+                currentStockId = null;
+            }
+        }
+
+        function getAiIcon(name) {
+            if(!name) return '<i class="fas fa-robot"></i>';
+            const n = name.toLowerCase();
+            if(n.includes('gemini') || n.includes('google')) return '<i class="fab fa-google"></i>';
+            if(n.includes('gpt') || n.includes('openai')) return '<i class="fas fa-bolt"></i>';
+            if(n.includes('claude')) return '<i class="fas fa-brain"></i>';
+            return '<i class="fas fa-robot"></i>';
+        }
+
+        function loadStock(id) {
+            const s = db.find(x => x.id === id);
+            if(!s) return;
+            currentStockId = id;
+            document.getElementById('emptyState').classList.add('hidden');
+            document.getElementById('dashboard').classList.remove('hidden');
+            renderSidebar();
+
+            // Basic Info
+            setText('d_name', s.name); setText('d_id', s.id); setText('d_date', s.lastUpdated);
+            setText('d_price', s.basicInfo.price); 
+            const chg = parseFloat(s.basicInfo.change) || 0;
+            const col = chg>=0?"text-[#C0392B]":"text-[#16A34A]";
+            document.getElementById('d_price').className = `text-7xl font-mono font-bold tracking-tighter ${col}`;
+            document.getElementById('d_change').innerHTML = `<span class="${col}">${s.basicInfo.change} (${s.basicInfo.changePercent})</span>`;
+
+            const m = document.getElementById('d_memo');
+            m.value = s.memo||"";
+            m.oninput = ()=>{ const target = db.find(x => x.id === currentStockId); if(target) { target.memo = m.value; saveToLocal(); } };
+
+            // 0. Industry Analysis
+            if (s.industry_analysis) {
+                const ind = s.industry_analysis;
+                let stars = '';
+                const rating = ind.moat?.rating || 0;
+                for(let i=1; i<=5; i++) {
+                    stars += i <= rating ? '<i class="fas fa-star star-filled"></i>' : '<i class="far fa-star star-empty"></i>';
+                }
+                
+                let competitorsHtml = (ind.competitors || []).map(c => 
+                    `<span class="bg-gray-100 text-gray-700 px-2 py-1 rounded text-xs font-bold mr-2 mb-2 inline-block">${c}</span>`
+                ).join('');
+
+                const html = `
+                    <div class="mb-4">
+                        <div class="flex items-center gap-2 mb-2">
+                            <span class="bg-[#8B7355] text-white px-3 py-1 rounded font-bold text-sm">${ind.sector || '-'}</span>
+                            ${ind.is_leader ? '<span class="bg-red-500 text-white px-3 py-1 rounded font-bold text-sm">👑 產業龍頭</span>' : ''}
+                            <span class="text-gray-500 text-sm font-bold">市佔率: ${ind.market_share || '-'}</span>
+                        </div>
+                    </div>
+                    
+                    <div class="mb-4 bg-gray-50 p-3 rounded-lg border border-gray-100">
+                        <div class="text-xs text-gray-400 font-bold uppercase mb-1">Supply Chain Position</div>
+                        <div class="flex items-center gap-2 text-sm font-bold text-gray-700">
+                            <span>${ind.supply_chain?.upstream || '上游'}</span>
+                            <i class="fas fa-arrow-right text-gray-400"></i>
+                            <span class="text-[#8B7355] text-lg">${ind.supply_chain?.position || s.name}</span>
+                            <i class="fas fa-arrow-right text-gray-400"></i>
+                            <span>${ind.supply_chain?.downstream || '下游'}</span>
+                        </div>
+                    </div>
+
+                    <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-4">
+                        <div>
+                            <div class="text-xs text-gray-400 font-bold uppercase mb-1">Moat Rating</div>
+                            <div class="text-lg mb-1">${stars}</div>
+                            <div class="text-sm text-gray-600 leading-snug">${ind.moat?.description || '-'}</div>
+                        </div>
+                        <div>
+                            <div class="text-xs text-gray-400 font-bold uppercase mb-2">Competitors</div>
+                            <div class="flex flex-wrap">${competitorsHtml}</div>
+                        </div>
+                    </div>
+                `;
+                document.getElementById('industry_content').innerHTML = html;
+
+                // Render Pie Chart
+                if (ind.revenue_mix && ind.revenue_mix.length > 0) {
+                    const ctx = document.getElementById('chart_rev_mix').getContext('2d');
+                    if (charts.rev_mix) charts.rev_mix.destroy();
+                    charts.rev_mix = new Chart(ctx, {
+                        type: 'doughnut',
+                        data: {
+                            labels: ind.revenue_mix.map(i => i.name),
+                            datasets: [{
+                                data: ind.revenue_mix.map(i => i.pct),
+                                backgroundColor: ['#3B82F6', '#10B981', '#F59E0B', '#EF4444', '#8B5CF6', '#6B7280'],
+                                borderWidth: 0
+                            }]
+                        },
+                        options: {
+                            responsive: true,
+                            maintainAspectRatio: false,
+                            plugins: {
+                                legend: { position: 'right', labels: { boxWidth: 12, font: { size: 11 } } }
+                            },
+                            layout: { padding: 10, cutout: '60%' }
+                        }
+                    });
+                }
+            } else {
+                document.getElementById('industry_content').innerHTML = '<div class="text-gray-400 italic">等待 AI 分析數據...</div>';
+                if(charts.rev_mix) charts.rev_mix.destroy();
+            }
+
+            // ✅ Update External Resources & Summary Area
+            const linkWeb = document.getElementById('link_website');
+            const linkRep = document.getElementById('link_report');
+            const resSum = document.getElementById('ai_resource_summary');
+            
+            const resources = s.ai_resources || {};
+            
+            // Handle Website Link
+            if(resources.official_website && resources.official_website !== 'N/A') {
+                linkWeb.href = resources.official_website;
+                linkWeb.classList.remove('pointer-events-none', 'opacity-50');
+            } else {
+                linkWeb.href = '#';
+                linkWeb.classList.add('pointer-events-none', 'opacity-50');
+            }
+
+            // Handle Annual Report Link (Fixed target blank)
+            if(resources.annual_report && resources.annual_report.url) {
+                linkRep.href = resources.annual_report.url;
+                linkRep.target = "_blank"; // Force open in new tab
+                linkRep.title = resources.annual_report.title || "年報";
+                linkRep.classList.remove('pointer-events-none', 'opacity-50');
+            } else {
+                linkRep.href = '#';
+                linkRep.classList.add('pointer-events-none', 'opacity-50');
+            }
+
+            // Handle Summary (Placeholder for now, can be connected to B-block logic later)
+            // Currently using a static placeholder text, but if B-block data exists, it should go here.
+            if (s.industry_analysis && s.industry_analysis.resource_summary) {
+                 resSum.innerHTML = `<span class="text-gray-700">${s.industry_analysis.resource_summary}</span>`;
+            } else {
+                 resSum.innerHTML = `<span class="text-gray-400 italic text-xs">等待股神 Gemini 分析年報與官網後的重點摘要...</span>`;
+            }
+
+
+            // 1. REVENUE
+            let revDisplayData = [...(s.financials.revenue_trend || [])];
+            if (s.revenue_predictions) {
+                const pred = s.revenue_predictions;
+                if (pred.latest_month_fill) {
+                    const fillMonth = pred.latest_month_fill.month;
+                    const exists = revDisplayData.some(r => r.month === fillMonth);
+                    if (!exists) {
+                        let typeSuffix = "(查)";
+                        const t = pred.latest_month_fill.type || "";
+                        if(t === "estimated" || t === "推" || t.includes("推")) typeSuffix = "(推)";
+
+                        let rawRev = parseFloat(pred.latest_month_fill.revenue.toString().replace(/,/g, ''));
+                        if (revDisplayData.length > 0) {
+                            const prevRev = parseFloat(revDisplayData[0].revenue.replace(/,/g, ''));
+                            if (rawRev > prevRev * 10) rawRev /= 100;
+                        }
+                        
+                        let calMom = '-', calYoy = '-';
+                        if(revDisplayData.length > 0) {
+                            const prev = parseFloat(revDisplayData[0].revenue.replace(/,/g,''));
+                            calMom = ((rawRev - prev)/prev*100).toFixed(2);
+                        }
+                        const parts = fillMonth.split('/');
+                        const yoyTarget = `${parseInt(parts[0])-1}/${parts[1]}`;
+                        const yoyRef = revDisplayData.find(r=>r.month.startsWith(yoyTarget));
+                        if(yoyRef) {
+                            const prevY = parseFloat(yoyRef.revenue.replace(/,/g,''));
+                            calYoy = ((rawRev - prevY)/prevY*100).toFixed(2);
+                        }
+
+                        revDisplayData.unshift({
+                            month: fillMonth + typeSuffix,
+                            revenue: rawRev.toFixed(2),
+                            mom: calMom,
+                            yoy: calYoy,
+                            is_forecast: true
+                        });
+                    }
+                }
+                if (pred.next_month_forecast) {
+                    let rawRev = parseFloat(pred.next_month_forecast.revenue.toString().replace(/,/g, ''));
+                    let prevRevVal = 0;
+                    if (revDisplayData.length > 0) {
+                        prevRevVal = parseFloat(revDisplayData[0].revenue.replace(/,/g, ''));
+                        if (rawRev > prevRevVal * 10) rawRev /= 100;
+                    }
+                    let calMom = '-', calYoy = '-';
+                    if(prevRevVal > 0) {
+                        calMom = ((rawRev - prevRevVal)/prevRevVal*100).toFixed(2);
+                    }
+                    const parts = pred.next_month_forecast.month.split('/');
+                    const yoyTarget = `${parseInt(parts[0])-1}/${parts[1]}`;
+                    const yoyRef = revDisplayData.find(r=>r.month.startsWith(yoyTarget));
+                    if(yoyRef) {
+                        const prevY = parseFloat(yoyRef.revenue.replace(/,/g,''));
+                        calYoy = ((rawRev - prevY)/prevY*100).toFixed(2);
+                    }
+
+                    revDisplayData.unshift({
+                        month: pred.next_month_forecast.month + "(預)",
+                        revenue: rawRev.toFixed(2),
+                        mom: calMom,
+                        yoy: calYoy,
+                        is_forecast: true
+                    });
+                }
+            }
+            renderEditableTable('t_rev', revDisplayData, ['month','revenue','mom','yoy']);
+
+            // 2. EPS
+            let epsDisplayData = [...(s.financials.eps_table || [])];
+            if (s.eps_predictions) {
+                const pred = s.eps_predictions;
+                if (pred.latest_quarter_fill) {
+                    const fillObj = pred.latest_quarter_fill;
+                    const fillPeriod = fillObj.period; 
+                    if (fillPeriod) {
+                        const exists = epsDisplayData.some(r => r.period === fillPeriod);
+                        if (!exists) {
+                            let suffix = '(查)';
+                            const t = fillObj.type || "";
+                            if (t === 'estimated' || t === '推' || t.includes('推')) suffix = '(推)';
+                            epsDisplayData.unshift({
+                                ...fillObj,
+                                period: fillPeriod + suffix,
+                                is_forecast: true 
+                            });
+                        }
+                    }
+                }
+                if (pred.next_quarter_forecast) {
+                    const foreObj = pred.next_quarter_forecast;
+                    const forePeriod = foreObj.period;
+                    if (forePeriod) {
+                        epsDisplayData.unshift({
+                            ...foreObj,
+                            period: forePeriod + '(預)',
+                            is_forecast: true
+                        });
+                    }
+                }
+                if (pred.future_quarter_forecast) {
+                    const futObj = pred.future_quarter_forecast;
+                    const futPeriod = futObj.period;
+                    if (futPeriod) {
+                        epsDisplayData.unshift({
+                           ...futObj,
+                            period: futPeriod + '(預)',
+                            is_forecast: true
+                        });
+                    }
+                }
+            }
+            renderEditableTable('t_eps', epsDisplayData, ['period','gross','net','eps','eps_ytd','opm']);
+
+            if(s.financials.cashflow_table) renderEditableTable('t_cash', s.financials.cashflow_table, ['period','ocf','capex','fcf']);
+            if(s.financials.quality_table) renderEditableTable('t_quality', s.financials.quality_table, ['period','net_income','ocf','ratio']);
+            if(s.financials.kpi_table) renderEditableTable('t_kpi', s.financials.kpi_table, ['period','opm','roe','roa','fcf_b','net_b']);
+            if(s.financials.structure_table) renderEditableTable('t_structure', s.financials.structure_table, ['period','assets','equity','debt','cliab','doi']);
+            if(s.financials.pe_table) renderEditableTable('t_pe', s.financials.pe_table, ['period','deadline','avg_close_3d','ttm_eps','pe']);
+            if(s.financials.capital_table) renderEditableTable('t_capital', s.financials.capital_table, ['stock_id','report_date','shares_lots','par_value','method']);
+            if(s.financials.chips_table) renderEditableTable('t_chips', s.financials.chips_table, ['date','foreign_lots','it_lots','dealer_lots','sum_lots','pct_float']);
+            if(s.financials.returns_table) renderEditableTable('t_returns', s.financials.returns_table, ['year','return_pct','period']);
+            
+            // Charts
+            renderCharts(s, s.financials.revenue_trend, s.financials.eps_table, s.financials.pe_table); 
+            
+            // 3. Technical Analysis
+            currentKLineData = s.financials.kline_data || [];
+            currentTimeframe = 'D';
+            updateTimeframeButtons();
+            
+            // --- C-Value Dashboard (MODIFIED Tooltips Location & Logic) ---
+            if (s.financials.c_score_data) {
+                const cData = s.financials.c_score_data;
+                document.getElementById('c_model_container').classList.remove('hidden');
+                document.getElementById('c_status_tag').innerText = "Data Loaded";
+
+                // Summary Cards
+                const cVal = parseFloat(cData.c_score);
+                const elC = document.getElementById('c_val');
+                elC.innerText = cVal.toFixed(3);
+                
+                if(cVal > 1) elC.className="c-val text-red-600";
+                else if(cVal < 0.8) elC.className="c-val text-green-600";
+                else elC.className="c-val text-gray-800";
+
+                document.getElementById('c_benchmark_pe').innerText = cData.benchmark_pe.toFixed(1);
+
+                // Latest Row Data (for cards)
+                if (cData.rows && cData.rows.length > 0) {
+                    const latest = cData.rows[0];
+                    document.getElementById('c_latest_rt').innerText = latest.rt_weight ? latest.rt_weight.toFixed(2) : '-';
+                    document.getElementById('c_latest_dev').innerText = latest.deviation ? latest.deviation.toFixed(2) : '-';
+                }
+
+                // ✅ 修正：不計算，直接讀取 JSON 中的原始數據，並限制前6筆
+                renderEditableTable('t_c_score', cData.rows.slice(0, 6), [
+                    'period', 'eps', 'revenue_q', 'avg_price', 
+                    'rev_growth', 'eps_growth', 'pe_ratio', 
+                    'rt_weight', 'theo_price', 'deviation'
+                ]);
+
+            } else {
+                document.getElementById('c_model_container').classList.add('hidden');
+            }
+
+            if (s.technical_analysis) {
+                const t = s.technical_analysis;
+                let html = `
+                    <div class="flex flex-wrap gap-4 mb-4">
+                        <span class="bg-[#8B7355] text-white px-3 py-1 rounded font-bold text-sm">狀態: ${t.status || '-'}</span>
+                        <span class="bg-gray-200 text-gray-700 px-3 py-1 rounded font-bold text-sm">支撐: ${t.support || '-'}</span>
+                        <span class="bg-gray-200 text-gray-700 px-3 py-1 rounded font-bold text-sm">壓力: ${t.resistance || '-'}</span>
+                    </div>
+                    <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mb-4 text-sm bg-gray-50 p-4 rounded-lg">
+                        <div><strong>MACD:</strong> <span class="text-gray-600">${t.indicators?.macd?.desc || '-'}</span></div>
+                        <div><strong>RSI:</strong> <span class="text-gray-600">${t.indicators?.rsi?.desc || '-'}</span></div>
+                        <div><strong>布林:</strong> <span class="text-gray-600">${t.indicators?.bollinger?.desc || '-'}</span></div>
+                    </div>
+                    <p class="text-gray-700 leading-relaxed text-justify">${t.summary || '-'}</p>
+                `;
+                document.getElementById('tech_analysis_container').innerHTML = html;
+            } else {
+                document.getElementById('tech_analysis_container').innerHTML = `<p class="text-base text-gray-700 leading-8 text-justify font-medium">--</p>`;
+            }
+
+            renderKLineChart(currentKLineData, 'D', s.technical_analysis); 
+
+            // Render AI Predictions (From New Source Logic)
+            const cardContainer = document.getElementById('ai_cards_container');
+            const forecasts = s.ai_forecasts || [];
+            
+            if (forecasts.length === 0) {
+                cardContainer.innerHTML = `<div class="col-span-2 text-center text-gray-400 text-sm py-4 italic">點擊右上角 "+" 新增 AI 預測模型</div>`;
+            } else {
+                cardContainer.innerHTML = '';
+                forecasts.forEach(p => {
+                    const modelName = p.model_name || "Unknown Model";
+                    const icon = getAiIcon(modelName);
+                    
+                    const sig = (p.current_signal || '-').toLowerCase();
+                    let sigColor = 'bg-gray-400';
+                    if (sig === 'buy') sigColor = 'bg-green-500';
+                    else if (sig === 'sell') sigColor = 'bg-red-500';
+                    else if (sig === 'hold') sigColor = 'bg-[#EAB308]';
+
+                    const cardHtml = `
+                        <div class="border border-gray-200 rounded-lg p-4 bg-gray-50 shadow-sm relative hover:shadow-md transition">
+                            <div class="absolute top-0 right-0 bg-[#8B7355] text-white text-[10px] px-2 py-1 rounded-bl-lg rounded-tr-lg font-bold flex items-center gap-1">
+                                ${icon} ${modelName}
+                            </div>
+                            <div class="text-sm font-bold text-gray-700 mb-3 border-b border-gray-200 pb-2 flex items-center gap-2">
+                                <span>價格預測</span>
+                            </div>
+                            <div class="grid grid-cols-5 gap-1 text-center text-xs mb-3">
+                                <div class="bg-white border rounded p-1.5"><div class="text-[10px] text-gray-400 mb-0.5">1D</div><div class="font-bold text-gray-800">${p.days1 || '-'}</div></div>
+                                <div class="bg-white border rounded p-1.5"><div class="text-[10px] text-gray-400 mb-0.5">7D</div><div class="font-bold text-gray-800">${p.days7 || '-'}</div></div>
+                                <div class="bg-white border rounded p-1.5"><div class="text-[10px] text-gray-400 mb-0.5">30D</div><div class="font-bold text-gray-800">${p.days30 || '-'}</div></div>
+                                <div class="bg-white border rounded p-1.5"><div class="text-[10px] text-gray-400 mb-0.5">180D</div><div class="font-bold text-gray-800">${p.days180 || '-'}</div></div>
+                                <div class="bg-white border rounded p-1.5"><div class="text-[10px] text-gray-400 mb-0.5">360D</div><div class="font-bold text-gray-800">${p.days360 || '-'}</div></div>
+                            </div>
+                            <div class="flex justify-between items-center text-xs bg-white p-2 rounded border gap-1">
+                                <div class="flex flex-col"><span class="text-gray-400 text-[10px]">進場</span><span class="text-green-600 font-bold font-mono">${p.entry_zone || '-'}</span></div>
+                                <div class="flex flex-col text-right"><span class="text-gray-400 text-[10px]">出場</span><span class="text-red-600 font-bold font-mono">${p.exit_zone || '-'}</span></div>
+                                <div class="pl-2 border-l border-gray-100 flex items-center"><span class="px-2 py-1 rounded text-xs font-bold text-white ${sigColor}">${sig.toUpperCase()}</span></div>
+                            </div>
+                        </div>
+                    `;
+                    cardContainer.innerHTML += cardHtml;
+                });
+            }
+
+            // 4. Risk Alert (NEW)
+            const rContainer = document.getElementById('risk_alert_panel');
+            const rGrid = document.getElementById('risk_cards_container');
+            const rBadge = document.getElementById('risk_overall_badge');
+            const rHint = document.getElementById('risk_hint');
+
+            if (s.risk_evaluation) {
+                rContainer.classList.remove('hidden');
+                rContainer.classList.remove('border-gray-300', 'border-green-500', 'border-yellow-500', 'border-red-500');
+                
+                const summary = s.risk_evaluation.summary || {};
+                const score = summary.overall_risk_score || 0;
+                
+                // Set overall color
+                let borderColor = 'border-gray-300';
+                let badgeClass = 'bg-gray-100 text-gray-500';
+                if(score >= 80) { borderColor='border-red-500'; badgeClass='bg-red-100 text-red-700'; }
+                else if(score >= 50) { borderColor='border-orange-500'; badgeClass='bg-orange-100 text-orange-700'; }
+                else if(score >= 20) { borderColor='border-yellow-500'; badgeClass='bg-yellow-100 text-yellow-700'; }
+                else { borderColor='border-green-500'; badgeClass='bg-green-100 text-green-700'; }
+                
+                rContainer.classList.add(borderColor);
+                rBadge.className = `px-4 py-1.5 rounded-full text-sm font-bold ${badgeClass}`;
+                rBadge.innerText = `${summary.risk_level_text || 'Unknown'} (Score: ${score})`;
+                if(summary.display_hint) rHint.innerText = summary.display_hint;
+
+                // Render Cards
+                rGrid.innerHTML = '';
+                const details = s.risk_evaluation.details || [];
+                details.forEach(d => {
+                    let levelClass = `risk-level-${d.risk_level}`;
+                    let levelIcon = d.risk_level >= 2 ? '<i class="fas fa-exclamation-triangle"></i>' : '<i class="fas fa-check-circle"></i>';
+                    
+                    let cardHtml = `
+                        <div class="border rounded-lg p-4 ${levelClass}">
+                            <div class="flex justify-between items-start mb-2">
+                                <span class="font-bold text-sm tracking-wide">${d.name}</span>
+                                <span>${levelIcon}</span>
+                            </div>
+                            <div class="text-xs opacity-90 leading-relaxed">${d.alert_logic || d.description}</div>
+                        </div>
+                    `;
+                    rGrid.innerHTML += cardHtml;
+                });
+
+            } else {
+                rContainer.classList.add('hidden');
+            }
+
+            // 5. News (AI + Fact)
+            const nb = document.getElementById('d_news'); nb.innerHTML='';
+            if (s.ai_message_board && s.ai_message_board.left_messages && s.ai_message_board.left_messages.length > 0) {
+                s.ai_message_board.left_messages.sort((a, b) => new Date(b.date) - new Date(a.date));
+                s.ai_message_board.left_messages.forEach(m => {
+                    let arrow = '';
+                    if (m.sentiment === 'positive' || m.sentiment === 1) arrow = '<span class="arrow-up"></span>';
+                    else if (m.sentiment === 'negative' || m.sentiment === -1) arrow = '<span class="arrow-down"></span>';
+                    
+                    let displayContent = m.content;
+                    if (m.tag) displayContent = `<span class="font-bold text-gray-800 mr-1">[${m.tag}]</span>` + displayContent;
+
+                    nb.innerHTML += `
+                        <div class="py-2 border-b border-gray-100 flex gap-2 items-start">
+                            <span class="font-mono text-gray-400 text-xs w-20 shrink-0 pt-1">${m.date}</span>
+                            <div class="pt-1">${arrow}</div>
+                            <span class="text-gray-700 text-sm leading-relaxed">${displayContent}</span>
+                        </div>
+                    `;
+                });
+            } else {
+                (s.news_events?.news||[]).forEach(n=>{
+                    const tag = n.is_new ? '<span class="bg-red-500 text-white text-[10px] px-1 rounded mr-2 align-middle">NEW</span>' : '';
+                    const c = n.type.includes('pos')?'text-red-600':(n.type.includes('neg')?'text-green-600':'text-gray-700');
+                    nb.innerHTML+=`<div class="py-2 border-b border-gray-100 flex gap-3"><span class="font-mono text-gray-400 text-xs w-24 shrink-0">${n.date}</span><span class="${c} font-medium text-sm">${tag}${n.title}</span></div>`;
+                });
+            }
+
+            const cb = document.getElementById('d_calendar'); cb.innerHTML='';
+            if (s.ai_message_board && s.ai_message_board.right_events && s.ai_message_board.right_events.length > 0) {
+                s.ai_message_board.right_events.forEach(c => {
+                    cb.innerHTML+=`<div class="mb-3 border-l-2 border-[#8B7355] pl-3"><div class="font-mono text-gray-400 text-xs mb-1">${c.date}</div><div class="font-bold text-gray-800 text-sm">${c.event}</div></div>`;
+                });
+            } else {
+                (s.news_events?.calendar||[]).forEach(c => cb.innerHTML+=`<div class="mb-2"><div class="font-mono text-gray-400 text-xs">${c.date}</div><div class="font-bold text-[#8B7355]">${c.event}</div></div>`);
+            }
+
+            // Metrics
+            if(s.financials.valuation) {
+                setText('d_pb', s.financials.valuation.pb); setText('d_roe', s.financials.valuation.roe); setText('d_pe_stat', s.financials.valuation.pe_status);
+            }
+            if(s.technical && s.technical.predictions) {
+                setText('p_30', s.technical.predictions.days30); 
+                setText('p_180', s.technical.predictions.days180);
+                setText('p_360', s.technical.predictions.days360); 
+                setText('p_entry', s.technical.predictions.entry_zone);
+            }
+        }
+
+        function renderEditableTable(domId, data, keys) {
+            const el = document.getElementById(domId); 
+            if(!el) return; 
+            el.innerHTML='';
+            if(!data) return;
+            data.forEach((r,idx) => {
+                let h = `<tr class="${idx%2===0?'':'bg-gray-50'}">`;
+                keys.forEach((k,i)=>{
+                    let defaultChar = '-';
+                    if (domId === 't_eps') defaultChar = '';
+                    let val = r[k]!==undefined && r[k]!==null ? r[k] : defaultChar;
+                    let displayClass = 'tw-black'; 
+                    let cellStyle = '';
+                    
+                    if(r.is_forecast) displayClass = 'tw-blue';
+
+                    const textColumns = ['period', 'deadline', 'price_basis', 'month', 'date', 'stock_id', 'report_date', 'method'];
+                    if (!textColumns.includes(k) && i>0) {
+                        let num = parseFloat(val.toString().replace(/,/g, ''));
+                        if (!isNaN(num)) {
+                            let decimals = (k.includes('lots')||k.includes('shares')||k==='volume')?0:2;
+                            // Special for C-Score Table: Prices usually 1-2 decimals, Rt 2 decimals.
+                            if(domId === 't_c_score' && (k==='rt_weight' || k==='deviation')) decimals = 2;
+                            if(domId === 't_c_score' && (k==='avg_price' || k==='theo_price')) decimals = 1;
+                            
+                            val = num.toLocaleString(undefined, {minimumFractionDigits: decimals, maximumFractionDigits: decimals});
+                            
+                            if(!r.is_forecast) {
+                                if(k === 'change' || k.includes('lots') || k === 'return_pct') {
+                                    if(num > 0) displayClass = 'tw-red';
+                                    else if(num < 0) displayClass = 'tw-green';
+                                }
+                                else if(k.includes('yoy') || k.includes('mom')) {
+                                    if(num >= 20) displayClass = 'tw-red';       
+                                    else if(num <= -20) displayClass = 'tw-green'; 
+                                }
+                                else if(['opm', 'roe', 'roa', 'gross', 'net', 'eps', 'fcf', 'net_b'].includes(k)) {
+                                    if(num < 0) displayClass = 'tw-green'; 
+                                    else if(['opm', 'roe', 'roa', 'gross', 'net'].includes(k) && num >= 20) displayClass = 'tw-red';
+                                }
+                                // C-Score Styling
+                                else if(k === 'rt_weight') {
+                                    if(num > 1) displayClass = 'tw-red';
+                                    else if(num < 1) displayClass = 'tw-green';
+                                }
+                            }
+                            
+                            if(k==='pct_float') { 
+                                displayClass='font-bold';
+                                if(num>0.1) cellStyle='background-color:#EF4444;color:white;';
+                                else if(num>0) cellStyle='background-color:#FEE2E2;color:#DC2626;';
+                                else if(num<-0.1) cellStyle='background-color:#10B981;color:white;';
+                                else if(num<0) cellStyle='background-color:#D1FAE5;color:#16A34A;';
+                            }
+                        }
+                    }
+                    if (domId === 't_chips' && k === 'date' && typeof val === 'string' && val.length > 5) val = val.substring(5).replace('-', '/');
+                    h+=`<td class="${i===0?'text-left sticky left-0 z-10 bg-inherit border-r':'text-right'} ${displayClass}" style="${cellStyle}">${val}</td>`;
+                });
+                el.innerHTML += h+'</tr>';
+            });
+        }
+
+        // Chart.js Charts (Unchanged)
+        function renderCharts(s, revData, epsData, peData) {
+            // ... (Same Chart.js code) ...
+            // PE River
+            const ctxPe = document.getElementById('chart_pe').getContext('2d');
+            if(charts.pe) charts.pe.destroy();
+            let chartPeData = [...(peData || [])].sort((a,b) => a.period.localeCompare(b.period));
+            charts.pe = new Chart(ctxPe, {
+                type: 'line',
+                data: {
+                    labels: chartPeData.map(d=>d.period),
+                    datasets: [
+                        { label: 'Price', data: chartPeData.map(d=>parseFloat(d.avg_close_3d)), borderColor: '#374151', borderWidth: 2, pointRadius: 3, fill: false, order: 0 },
+                        { label: 'PE 25 (Exp)', data: chartPeData.map(d=>parseFloat(d.ttm_eps)*25), borderColor: 'transparent', backgroundColor: 'rgba(220, 38, 38, 0.1)', fill: 2, pointRadius: 0, order: 1 },
+                        { label: 'PE 20', data: chartPeData.map(d=>parseFloat(d.ttm_eps)*20), borderColor: '#DC2626', borderWidth: 1, fill: false, pointRadius: 0, order: 2 },
+                        { label: 'PE 15', data: chartPeData.map(d=>parseFloat(d.ttm_eps)*15), borderColor: '#16A34A', borderWidth: 1, fill: 4, backgroundColor: 'rgba(22, 163, 74, 0.1)', pointRadius: 0, order: 3 },
+                        { label: 'PE 10 (Cheap)', data: chartPeData.map(d=>parseFloat(d.ttm_eps)*10), borderColor: 'transparent', fill: false, pointRadius: 0, order: 4 }
+                    ]
+                },
+                options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false } }, scales: { x: { grid: { display: false } }, y: { position: 'right' } }, elements: { line: { tension: 0.3 } } }
+            });
+
+            // Revenue Combo
+            const ctxRev = document.getElementById('chart_rev').getContext('2d');
+            if(charts.rev) charts.rev.destroy();
+            const fullMap = {};
+            if(revData) revData.forEach(r => fullMap[getDateValue(r.month)] = parseFloat(r.revenue));
+            const chartData = [...(revData||[])].sort((a,b) => getDateValue(a.month) - getDateValue(b.month)).slice(-12);
+            const labels = []; const currentRev = []; const lastYearRev = []; const momData = []; const yoyData = [];
+            chartData.forEach(d => {
+                labels.push(d.month);
+                currentRev.push(parseFloat(d.revenue));
+                momData.push(parseFloat(d.mom));
+                yoyData.push(parseFloat(d.yoy));
+                const lyVal = fullMap[getDateValue(d.month) - 100];
+                lastYearRev.push(lyVal !== undefined ? lyVal : null); 
+            });
+            charts.rev = new Chart(ctxRev, {
+                type: 'bar',
+                data: {
+                    labels: labels,
+                    datasets: [
+                        { label: '當月營收', data: currentRev, backgroundColor: '#0EA5E9', order: 2, barPercentage: 0.6 },
+                        { label: '去年同期', data: lastYearRev, backgroundColor: '#E0F2FE', order: 3, barPercentage: 0.6 },
+                        { label: 'MoM%', data: momData, type: 'line', borderColor: '#1D4ED8', borderWidth: 2, pointRadius: 2, yAxisID: 'y1', order: 1 },
+                        { label: 'YoY%', data: yoyData, type: 'line', borderColor: '#EC4899', borderWidth: 2, pointRadius: 2, yAxisID: 'y1', order: 0 }
+                    ]
+                },
+                options: { responsive: true, maintainAspectRatio: false, interaction: { mode: 'index', intersect: false }, plugins: { legend: { display: false } }, scales: { x: { grid: { display: false } }, y: { type: 'linear', display: true, position: 'left' }, y1: { type: 'linear', display: true, position: 'right', grid: { display: false } } } }
+            });
+
+            // EPS Combo
+            const ctxEps = document.getElementById('chart_eps').getContext('2d');
+            if(charts.eps) charts.eps.destroy();
+            const epsChartData = [...(epsData || [])].sort((a,b) => a.period.localeCompare(b.period)).slice(-12);
+            charts.eps = new Chart(ctxEps, {
+                type: 'bar',
+                data: {
+                    labels: epsChartData.map(e=>e.period),
+                    datasets: [
+                        { type: 'bar', label: 'EPS', data: epsChartData.map(e=>parseFloat(e.eps)), backgroundColor: '#0EA5E9', yAxisID: 'y', order: 2, barPercentage: 0.6 },
+                        { type: 'line', label: '毛利(%)', data: epsChartData.map(e=>parseFloat(e.gross)), borderColor: '#1D4ED8', borderWidth: 2, pointRadius: 2, yAxisID: 'y1', order: 1 },
+                        { type: 'line', label: '淨利(%)', data: epsChartData.map(e=>parseFloat(e.net)), borderColor: '#EC4899', borderWidth: 2, pointRadius: 2, yAxisID: 'y1', order: 0 }
+                    ]
+                },
+                options: { responsive: true, maintainAspectRatio: false, interaction: { mode: 'index', intersect: false }, plugins: { legend: { display: false } }, scales: { x: { grid: { display: false } }, y: { type: 'linear', display: true, position: 'left' }, y1: { type: 'linear', display: true, position: 'right', grid: { display: false } } } }
+            });
+        }
+
+        // ==========================================
+        // 📈 ApexCharts K-Line (Modified for Tech Lines)
+        // ==========================================
+        
+        function changeTimeframe(tf) {
+            currentTimeframe = tf;
+            updateTimeframeButtons();
+            
+            let finalData = [];
+            if(tf === 'D') {
+                finalData = currentKLineData;
+            } else if (tf === 'W') {
+                finalData = calculateAggregatedData(currentKLineData, 'W');
+            } else if (tf === 'M') {
+                finalData = calculateAggregatedData(currentKLineData, 'M');
+            }
+            // Retrieve current stock's tech analysis if available
+            const s = db.find(x => x.id === currentStockId);
+            renderKLineChart(finalData, tf, s ? s.technical_analysis : null);
+        }
+
+        function updateTimeframeButtons() {
+            ['D', 'W', 'M'].forEach(t => {
+                const btn = document.getElementById(`btn_tf_${t}`);
+                if(t === currentTimeframe) {
+                    btn.classList.remove('inactive'); btn.classList.add('active');
+                } else {
+                    btn.classList.remove('active'); btn.classList.add('inactive');
+                }
+            });
+        }
+
+        function calculateAggregatedData(dailyData, type) {
+            let sorted = [...dailyData].sort((a,b) => a.date.localeCompare(b.date));
+            if(sorted.length === 0) return [];
+
+            let result = [];
+            let currentGroup = null;
+            let groupKey = "";
+
+            sorted.forEach(d => {
+                const dateObj = new Date(d.date);
+                let key = "";
+                
+                if(type === 'W') {
+                    const day = dateObj.getDay();
+                    const diff = dateObj.getDate() - day + (day === 0 ? -6 : 1); 
+                    const monday = new Date(dateObj.setDate(diff));
+                    key = monday.toISOString().split('T')[0];
+                } else {
+                    key = d.date.substring(0, 7) + "-01";
+                }
+
+                if(key !== groupKey) {
+                    if(currentGroup) result.push(finalizeGroup(currentGroup));
+                    groupKey = key;
+                    currentGroup = {
+                        date: key, 
+                        open: d.open,
+                        high: d.high,
+                        low: d.low,
+                        close: d.close,
+                        volume: d.volume,
+                        count: 1
+                    };
+                } else {
+                    currentGroup.high = Math.max(currentGroup.high, d.high);
+                    currentGroup.low = Math.min(currentGroup.low, d.low);
+                    currentGroup.close = d.close;
+                    currentGroup.volume += d.volume;
+                    currentGroup.count++;
+                }
+            });
+            if(currentGroup) result.push(finalizeGroup(currentGroup));
+            return result;
+        }
+
+        function finalizeGroup(g) {
+            return {
+                date: g.date, open: g.open, high: g.high, low: g.low, close: g.close, volume: g.volume
+            };
+        }
+
+        function calculateMA(data, period) {
+            let maLine = [];
+            for (let i = 0; i < data.length; i++) {
+                if (i < period - 1) {
+                    maLine.push({ x: new Date(data[i].date), y: null });
+                } else {
+                    let sum = 0;
+                    for (let j = 0; j < period; j++) {
+                        sum += data[i - j].close;
+                    }
+                    maLine.push({ x: new Date(data[i].date), y: sum / period });
+                }
+            }
+            return maLine;
+        }
+
+        function renderKLineChart(kData, timeframe, techData) {
+            if (!kData || kData.length === 0) return;
+
+            let data = [...kData].sort((a, b) => a.date.localeCompare(b.date));
+
+            // Initial Zoom
+            let minDate = undefined;
+            let maxDate = undefined;
+            let zoomBars = 60; 
+            if(data.length > 0) {
+               maxDate = new Date(data[data.length-1].date).getTime();
+               const startIndex = Math.max(0, data.length - zoomBars);
+               minDate = new Date(data[startIndex].date).getTime();
+            }
+
+            const candleSeries = data.map(d => ({
+                x: new Date(d.date),
+                y: [d.open, d.high, d.low, d.close]
+            }));
+
+            const volColors = data.map(d => (d.close >= d.open) ? '#EF4444' : '#10B981');
+            const volSeries = data.map(d => ({
+                x: new Date(d.date),
+                y: d.volume
+            }));
+
+            const ma5 = calculateMA(data, 5);
+            const ma20 = calculateMA(data, 20);
+            const ma60 = calculateMA(data, 60);
+
+            // Prepare Annotations (Support/Resistance Lines)
+            let annotations = { yaxis: [] };
+            if (techData && techData.support) {
+                // Parse number from string like "720" or "720元"
+                let val = parseFloat(techData.support.replace(/[^0-9.]/g, ''));
+                if(!isNaN(val)) {
+                    annotations.yaxis.push({
+                        y: val,
+                        borderColor: '#10B981',
+                        strokeDashArray: 4,
+                        label: { borderColor: '#10B981', style: { color: '#fff', background: '#10B981' }, text: '支撐' }
+                    });
+                }
+            }
+            if (techData && techData.resistance) {
+                let val = parseFloat(techData.resistance.replace(/[^0-9.]/g, ''));
+                if(!isNaN(val)) {
+                    annotations.yaxis.push({
+                        y: val,
+                        borderColor: '#EF4444',
+                        strokeDashArray: 4,
+                        label: { borderColor: '#EF4444', style: { color: '#fff', background: '#EF4444' }, text: '壓力' }
+                    });
+                }
+            }
+
+            // Common Options
+            const commonOptions = {
+                chart: { group: 'kline-group', toolbar: { show: false } },
+                grid: { borderColor: '#f1f1f1', xaxis: { lines: { show: true } } },
+                xaxis: { type: 'datetime', tooltip: { enabled: true } }
+            };
+
+            // 1. Main Chart
+            const options = {
+                ...commonOptions,
+                series: [
+                    { name: 'K線', type: 'candlestick', data: candleSeries },
+                    { name: 'MA5', type: 'line', data: ma5 },
+                    { name: 'MA20', type: 'line', data: ma20 },
+                    { name: 'MA60', type: 'line', data: ma60 }
+                ],
+                chart: { 
+                    id: 'kline-price',
+                    group: 'kline-group',
+                    type: 'line', 
+                    height: 400, 
+                    toolbar: { show: false },
+                    zoom: { enabled: true, type: 'x', autoScaleYaxis: true } 
+                },
+                colors: ['#2E93fA', '#F1C40F', '#8E44AD', '#2980B9'], 
+                annotations: annotations, // Apply Lines
+                plotOptions: {
+                    candlestick: {
+                        colors: { upward: '#EF4444', downward: '#10B981' }, 
+                        wick: { useFillColor: true }
+                    }
+                },
+                stroke: { width: [1, 1.5, 1.5, 1.5] },
+                xaxis: { 
+                    type: 'datetime', 
+                    min: minDate, 
+                    max: maxDate,
+                    labels: { show: false }, 
+                    axisTicks: { show: false },
+                    tooltip: { enabled: true }
+                },
+                yaxis: { 
+                    tooltip: { enabled: true }, 
+                    decimalsInFloat: 2,
+                    labels: { align: 'right', style: { fontSize: '11px' } }
+                }
+            };
+
+            if(charts.kline) charts.kline.destroy();
+            charts.kline = new ApexCharts(document.querySelector("#apex_kline"), options);
+            charts.kline.render();
+
+            // 2. Volume Chart
+            const optionsVol = {
+                ...commonOptions,
+                series: [{ name: '成交量', data: volSeries }],
+                chart: { 
+                    id: 'kline-vol',
+                    group: 'kline-group',
+                    type: 'bar', 
+                    height: 150, 
+                    toolbar: { show: false },
+                    zoom: { enabled: true, type: 'x', autoScaleYaxis: true } 
+                },
+                colors: [function({ value, seriesIndex, dataPointIndex, w }) {
+                    return volColors[dataPointIndex];
+                }],
+                plotOptions: {
+                    bar: { columnWidth: '80%' }
+                },
+                dataLabels: { enabled: false },
+                xaxis: { 
+                    type: 'datetime', 
+                    min: minDate, 
+                    max: maxDate,
+                    labels: { 
+                        show: true,
+                        datetimeFormatter: { year: 'yyyy', month: 'M/d', day: 'M/d' },
+                        style: { colors: '#9CA3AF', fontSize: '11px', fontFamily: 'monospace' },
+                    },
+                    tooltip: { enabled: false },
+                    axisBorder: { show: false },
+                    axisTicks: { show: true }
+                }, 
+                yaxis: { labels: { show: false } }, 
+                grid: { show: false } 
+            };
+
+            if(charts.vol) charts.vol.destroy();
+            charts.vol = new ApexCharts(document.querySelector("#apex_vol"), optionsVol);
+            charts.vol.render();
+        }
+
+        function saveToLocal(){ localStorage.setItem('bbb_db_v5', JSON.stringify(db)); }
+        function toggleModal(id){ document.getElementById(id).classList.toggle('hidden'); }
+        function setText(i,t){ const e=document.getElementById(i); if(e)e.innerText=t||'-'; }
+    </script>
+</body>
+</html>\
