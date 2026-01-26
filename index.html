@@ -836,21 +836,41 @@
                     const chg = parseFloat(chgStr);
                     const col = chg >= 0 ? "text-[#C0392B]" : "text-[#16A34A]";
 
-                    // Signal Light Logic
+// Signal Light Logic (修改：支援多模型 & 兼容 Gemini JSON)
                     let signalHtml = '';
-                    let sig = null;
-                    if (s.ai_forecasts && s.ai_forecasts.length > 0) {
-                        sig = s.ai_forecasts[s.ai_forecasts.length-1].current_signal?.toLowerCase();
+                    let allForecasts = [];
+
+                    // 1. 取得 ai_forecasts 陣列資料
+                    if (s.ai_forecasts && Array.isArray(s.ai_forecasts)) {
+                        allForecasts = [...s.ai_forecasts];
                     }
-                    if(sig) {
+
+                    // 2. 取得 technical_analysis.predictions 資料 (Gemini JSON 格式)
+                    // 若該模型尚未存在於 allForecasts 中，則加入顯示
+                    if (s.technical_analysis && s.technical_analysis.predictions) {
+                        const legacyP = s.technical_analysis.predictions;
+                        const exists = allForecasts.some(f => f.model_name === legacyP.model_name);
+                        if (!exists && legacyP.current_signal) {
+                            allForecasts.push(legacyP);
+                        }
+                    }
+
+                    // 3. 遍歷所有預測，產生對應燈號
+                    allForecasts.forEach(f => {
+                        const sig = (f.current_signal || '').toLowerCase();
                         let sigClass = '';
+                        
                         if(sig === 'buy') sigClass = 'signal-buy';
                         else if(sig === 'sell') sigClass = 'signal-sell';
                         else if(sig === 'hold') sigClass = 'signal-hold';
-                        if(sigClass) signalHtml = `<span class="signal-light ${sigClass}"></span>`;
-                    }
-
-                    // NEW: Add Delete Button Logic Here
+                        
+                        if(sigClass) {
+                            // 加入 title 屬性，滑鼠移上去可以看到是哪個模型
+                            const mName = f.model_name || 'AI';
+                            signalHtml += `<span class="signal-light ${sigClass}" title="${mName}: ${sig.toUpperCase()}"></span>`;
+                        }
+                    });
+                    
                     d.className = `p-4 rounded-xl border transition-all hover:shadow-md flex items-center ${style}`;
                     d.innerHTML = `
                         <div class="flex-1 min-w-0 cursor-pointer" onclick="loadStock('${s.id}')">
@@ -967,7 +987,10 @@
                 `;
                 document.getElementById('industry_content').innerHTML = html;
 
-                // Render Pie Chart
+// Render Pie Chart (圓餅圖) & Product Lists (商品列表)
+                const elMain = document.getElementById('product_main_list');
+                const elDev = document.getElementById('product_dev_list');
+
                 if (ind.revenue_mix && ind.revenue_mix.length > 0) {
                     const ctx = document.getElementById('chart_rev_mix').getContext('2d');
                     if (charts.rev_mix) charts.rev_mix.destroy();
@@ -991,8 +1014,47 @@
                         }
                     });
                 }
+
+                // 渲染主力商品 (Main Products) - 字體放大至 text-sm
+                if (ind.main_products && ind.main_products.length > 0) {
+                    elMain.innerHTML = '';
+                    ind.main_products.forEach(p => {
+                        elMain.innerHTML += `
+                            <div class="bg-white border border-gray-200 rounded px-3 py-2 shadow-sm flex flex-col justify-center">
+                                <div class="text-[#2C3E50] font-bold text-sm mb-1 truncate" title="${p.name}">${p.name}</div>
+                                <div class="text-xs text-gray-500 flex justify-between gap-3">
+                                    <span>貢獻:</span><span class="font-mono font-bold text-blue-600">${p.contribution || '-'}</span>
+                                </div>
+                            </div>
+                        `;
+                    });
+                } else {
+                    elMain.innerHTML = '<span class="text-gray-300 text-xs italic">--</span>';
+                }
+
+                // 渲染開發中潛力商品 (R&D Pipeline) - 字體放大至 text-sm
+                if (ind.dev_pipeline && ind.dev_pipeline.length > 0) {
+                    elDev.innerHTML = '';
+                    ind.dev_pipeline.forEach(p => {
+                        elDev.innerHTML += `
+                            <div class="bg-gray-50 border border-dashed border-gray-300 rounded px-3 py-2 flex flex-col justify-center relative overflow-hidden">
+                                <div class="text-[#8B7355] font-bold text-sm mb-1 truncate" title="${p.name}">${p.name}</div>
+                                <div class="text-xs text-gray-400 flex flex-col gap-1">
+                                    <div class="flex justify-between gap-3"><span>預計:</span><span class="font-mono">${p.expected_mass_production || '-'}</span></div>
+                                    <div class="text-right text-[#16A34A] font-bold">${p.order_status || ''}</div>
+                                </div>
+                            </div>
+                        `;
+                    });
+                } else {
+                    elDev.innerHTML = '<span class="text-gray-300 text-xs italic">--</span>';
+                }
+
             } else {
+                // 若無 industry_analysis 數據時的處理
                 document.getElementById('industry_content').innerHTML = '<div class="text-gray-400 italic">等待 AI 分析數據...</div>';
+                document.getElementById('product_main_list').innerHTML = '<span class="text-gray-300 text-xs italic">等待 B 入口分析...</span>';
+                document.getElementById('product_dev_list').innerHTML = '<span class="text-gray-300 text-xs italic">等待 B 入口分析...</span>';
                 if(charts.rev_mix) charts.rev_mix.destroy();
             }
 
@@ -1222,16 +1284,33 @@
 
             renderKLineChart(currentKLineData, 'D', s.technical_analysis); 
 
-            // Render AI Predictions (From New Source Logic)
+// Render AI Predictions (From New Source Logic)
             const cardContainer = document.getElementById('ai_cards_container');
-            const forecasts = s.ai_forecasts || [];
             
-            if (forecasts.length === 0) {
+            // ✅ 修改重點：合併 "手動新增(ai_forecasts)" 與 "Gemini匯入(technical_analysis)" 的資料
+            // 1. 先取出陣列中的預測
+            let forecasts = s.ai_forecasts ? [...s.ai_forecasts] : [];
+            
+            // 2. 檢查是否有 Block B 匯入的 Gemini 資料 (technical_analysis.predictions)
+            // 若存在且名稱不重複，則加入顯示列表，這樣就不會被覆蓋
+            if (s.technical_analysis && s.technical_analysis.predictions) {
+                const legacyP = s.technical_analysis.predictions;
+                // 確保資料有效
+                if (legacyP.model_name || legacyP.days1) {
+                    // 避免重複：若 ai_forecasts 裡已經有同名模型，就不重複加入
+                    const exists = forecasts.some(p => p.model_name === legacyP.model_name);
+                    if (!exists) {
+                        forecasts.push(legacyP);
+                    }
+                }
+            }
+
+if (forecasts.length === 0) {
                 cardContainer.innerHTML = `<div class="col-span-2 text-center text-gray-400 text-sm py-4 italic">點擊右上角 "+" 新增 AI 預測模型</div>`;
             } else {
                 cardContainer.innerHTML = '';
                 forecasts.forEach(p => {
-                    const modelName = p.model_name || "Unknown Model";
+                    const modelName = p.model_name || "AI Prediction";
                     const icon = getAiIcon(modelName);
                     
                     const sig = (p.current_signal || '-').toLowerCase();
@@ -1240,32 +1319,40 @@
                     else if (sig === 'sell') sigColor = 'bg-red-500';
                     else if (sig === 'hold') sigColor = 'bg-[#EAB308]';
 
+                    // 處理單引號，避免 onclick 報錯
+                    const safeName = modelName.replace(/'/g, "\\'");
+
                     const cardHtml = `
-                        <div class="border border-gray-200 rounded-lg p-4 bg-gray-50 shadow-sm relative hover:shadow-md transition">
+                        <div class="border border-gray-200 rounded-lg p-4 bg-white shadow-sm relative hover:shadow-md transition group">
+                            <!-- Delete Button (右上角垃圾桶，滑鼠懸停時顯示) -->
+                            <button onclick="deleteAiPrediction('${safeName}')" class="absolute top-2 left-2 text-gray-300 hover:text-red-500 transition opacity-0 group-hover:opacity-100 z-10 p-1" title="刪除此模型">
+                                <i class="fas fa-trash-alt"></i>
+                            </button>
+
                             <div class="absolute top-0 right-0 bg-[#8B7355] text-white text-[10px] px-2 py-1 rounded-bl-lg rounded-tr-lg font-bold flex items-center gap-1">
                                 ${icon} ${modelName}
                             </div>
-                            <div class="text-sm font-bold text-gray-700 mb-3 border-b border-gray-200 pb-2 flex items-center gap-2">
+                            <div class="text-sm font-bold text-gray-700 mb-3 border-b border-gray-200 pb-2 flex items-center gap-2 pl-6">
                                 <span>價格預測</span>
                             </div>
                             <div class="grid grid-cols-5 gap-1 text-center text-xs mb-3">
-                                <div class="bg-white border rounded p-1.5"><div class="text-[10px] text-gray-400 mb-0.5">1D</div><div class="font-bold text-gray-800">${p.days1 || '-'}</div></div>
-                                <div class="bg-white border rounded p-1.5"><div class="text-[10px] text-gray-400 mb-0.5">7D</div><div class="font-bold text-gray-800">${p.days7 || '-'}</div></div>
-                                <div class="bg-white border rounded p-1.5"><div class="text-[10px] text-gray-400 mb-0.5">30D</div><div class="font-bold text-gray-800">${p.days30 || '-'}</div></div>
-                                <div class="bg-white border rounded p-1.5"><div class="text-[10px] text-gray-400 mb-0.5">180D</div><div class="font-bold text-gray-800">${p.days180 || '-'}</div></div>
-                                <div class="bg-white border rounded p-1.5"><div class="text-[10px] text-gray-400 mb-0.5">360D</div><div class="font-bold text-gray-800">${p.days360 || '-'}</div></div>
+                                <div class="bg-gray-50 border rounded p-1.5"><div class="text-[10px] text-gray-400 mb-0.5">1D</div><div class="font-bold text-gray-800">${p.days1 || '-'}</div></div>
+                                <div class="bg-gray-50 border rounded p-1.5"><div class="text-[10px] text-gray-400 mb-0.5">7D</div><div class="font-bold text-gray-800">${p.days7 || '-'}</div></div>
+                                <div class="bg-gray-50 border rounded p-1.5"><div class="text-[10px] text-gray-400 mb-0.5">30D</div><div class="font-bold text-gray-800">${p.days30 || '-'}</div></div>
+                                <div class="bg-gray-50 border rounded p-1.5"><div class="text-[10px] text-gray-400 mb-0.5">180D</div><div class="font-bold text-gray-800">${p.days180 || '-'}</div></div>
+                                <div class="bg-gray-50 border rounded p-1.5"><div class="text-[10px] text-gray-400 mb-0.5">360D</div><div class="font-bold text-gray-800">${p.days360 || '-'}</div></div>
                             </div>
-                            <div class="flex justify-between items-center text-xs bg-white p-2 rounded border gap-1">
+                            <div class="flex justify-between items-center text-xs bg-gray-50 p-2 rounded border gap-1">
                                 <div class="flex flex-col"><span class="text-gray-400 text-[10px]">進場</span><span class="text-green-600 font-bold font-mono">${p.entry_zone || '-'}</span></div>
                                 <div class="flex flex-col text-right"><span class="text-gray-400 text-[10px]">出場</span><span class="text-red-600 font-bold font-mono">${p.exit_zone || '-'}</span></div>
-                                <div class="pl-2 border-l border-gray-100 flex items-center"><span class="px-2 py-1 rounded text-xs font-bold text-white ${sigColor}">${sig.toUpperCase()}</span></div>
+                                <div class="pl-2 border-l border-gray-200 flex items-center"><span class="px-2 py-1 rounded text-xs font-bold text-white ${sigColor}">${sig.toUpperCase()}</span></div>
                             </div>
                         </div>
                     `;
                     cardContainer.innerHTML += cardHtml;
                 });
             }
-
+            
             // 4. Risk Alert (NEW)
             const rContainer = document.getElementById('risk_alert_panel');
             const rGrid = document.getElementById('risk_cards_container');
@@ -1747,6 +1834,40 @@
         function saveToLocal(){ localStorage.setItem('bbb_db_v5', JSON.stringify(db)); }
         function toggleModal(id){ document.getElementById(id).classList.toggle('hidden'); }
         function setText(i,t){ const e=document.getElementById(i); if(e)e.innerText=t||'-'; }
+// 新增：刪除 AI 預測卡片的功能
+        window.deleteAiPrediction = function(targetName) {
+            if(!currentStockId) return;
+            // 確認對話框
+            if(!confirm('確定要刪除 "'+targetName+'" 的預測模型嗎？')) return;
+            
+            const idx = db.findIndex(s => s.id === currentStockId);
+            if(idx === -1) return;
+            
+            let s = db[idx];
+            let modified = false;
+
+            // 1. 從 ai_forecasts 陣列中移除
+            if(s.ai_forecasts && s.ai_forecasts.length > 0) {
+                const initialLen = s.ai_forecasts.length;
+                s.ai_forecasts = s.ai_forecasts.filter(p => (p.model_name || "AI Prediction") !== targetName);
+                if(s.ai_forecasts.length !== initialLen) modified = true;
+            }
+            
+            // 2. 檢查舊版物件結構 (technical_analysis.predictions) 並移除 (兼容舊資料)
+            if(s.technical_analysis && s.technical_analysis.predictions) {
+                const legacyName = s.technical_analysis.predictions.model_name || "AI Prediction";
+                // 如果名稱相符，或者只有一個且沒名字
+                if(legacyName === targetName) {
+                    delete s.technical_analysis.predictions;
+                    modified = true;
+                }
+            }
+            
+            if(modified) {
+                saveToLocal();
+                loadStock(currentStockId); // 重新載入以更新畫面
+            }
+        }
     </script>
 </body>
 </html>\
