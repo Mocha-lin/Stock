@@ -1078,6 +1078,7 @@
             if(resources.annual_report && resources.annual_report.url) {
                 linkRep.href = resources.annual_report.url;
                 linkRep.target = "_blank"; // Force open in new tab
+                linkRep.rel = "noreferrer noopener";
                 linkRep.title = resources.annual_report.title || "年報";
                 linkRep.classList.remove('pointer-events-none', 'opacity-50');
             } else {
