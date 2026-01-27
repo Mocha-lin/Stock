@@ -1354,7 +1354,7 @@ if (forecasts.length === 0) {
                 });
             }
             
-            // 4. Risk Alert (NEW)
+// 4. Risk Alert (NEW) - 優化版：視覺強化 (顏色標籤與邊框)
             const rContainer = document.getElementById('risk_alert_panel');
             const rGrid = document.getElementById('risk_cards_container');
             const rBadge = document.getElementById('risk_overall_badge');
@@ -1362,14 +1362,17 @@ if (forecasts.length === 0) {
 
             if (s.risk_evaluation) {
                 rContainer.classList.remove('hidden');
+                
+                // 重置容器邊框顏色
                 rContainer.classList.remove('border-gray-300', 'border-green-500', 'border-yellow-500', 'border-red-500');
                 
                 const summary = s.risk_evaluation.summary || {};
                 const score = summary.overall_risk_score || 0;
                 
-                // Set overall color
+                // 設定整體風險區塊的邊框色與標籤背景
                 let borderColor = 'border-gray-300';
                 let badgeClass = 'bg-gray-100 text-gray-500';
+                
                 if(score >= 80) { borderColor='border-red-500'; badgeClass='bg-red-100 text-red-700'; }
                 else if(score >= 50) { borderColor='border-orange-500'; badgeClass='bg-orange-100 text-orange-700'; }
                 else if(score >= 20) { borderColor='border-yellow-500'; badgeClass='bg-yellow-100 text-yellow-700'; }
@@ -1378,22 +1381,48 @@ if (forecasts.length === 0) {
                 rContainer.classList.add(borderColor);
                 rBadge.className = `px-4 py-1.5 rounded-full text-sm font-bold ${badgeClass}`;
                 rBadge.innerText = `${summary.risk_level_text || 'Unknown'} (Score: ${score})`;
+                
                 if(summary.display_hint) rHint.innerText = summary.display_hint;
 
-                // Render Cards
+                // 渲染風險卡片 (加入更明顯的視覺提示)
                 rGrid.innerHTML = '';
                 const details = s.risk_evaluation.details || [];
+                
                 details.forEach(d => {
-                    let levelClass = `risk-level-${d.risk_level}`;
-                    let levelIcon = d.risk_level >= 2 ? '<i class="fas fa-exclamation-triangle"></i>' : '<i class="fas fa-check-circle"></i>';
-                    
+                    let levelClass = '';
+                    let levelLabel = '';
+
+                    // 根據風險等級設定顏色與圖示
+                    switch(d.risk_level) {
+                        case 3: // 高風險
+                            levelClass = 'border-l-4 border-l-red-500 bg-red-50';
+                            levelLabel = '<span class="text-xs font-bold text-red-600 bg-red-100 px-2 py-0.5 rounded ml-auto">高風險</span>';
+                            break;
+                        case 2: // 中風險
+                            levelClass = 'border-l-4 border-l-orange-400 bg-orange-50';
+                            levelLabel = '<span class="text-xs font-bold text-orange-600 bg-orange-100 px-2 py-0.5 rounded ml-auto">中風險</span>';
+                            break;
+                        case 1: // 低風險
+                            levelClass = 'border-l-4 border-l-yellow-400 bg-yellow-50';
+                            levelLabel = '<span class="text-xs font-bold text-yellow-600 bg-yellow-100 px-2 py-0.5 rounded ml-auto">低風險</span>';
+                            break;
+                        default: // 無風險
+                            levelClass = 'border-l-4 border-l-green-500 bg-gray-50';
+                            levelLabel = '<span class="text-xs font-bold text-green-600 bg-green-100 px-2 py-0.5 rounded ml-auto">安全</span>';
+                    }
+
+                    // 產生卡片 HTML
                     let cardHtml = `
-                        <div class="border rounded-lg p-4 ${levelClass}">
+                        <div class="border border-gray-200 rounded-lg p-4 shadow-sm ${levelClass} transition hover:shadow-md flex flex-col h-full">
                             <div class="flex justify-between items-start mb-2">
-                                <span class="font-bold text-sm tracking-wide">${d.name}</span>
-                                <span>${levelIcon}</span>
+                                <span class="font-black text-gray-800 text-base tracking-tight">${d.name}</span>
+                                ${levelLabel}
                             </div>
-                            <div class="text-xs opacity-90 leading-relaxed">${d.alert_logic || d.description}</div>
+                            <p class="text-sm text-gray-600 leading-relaxed mb-3 font-medium flex-1">${d.description || ''}</p>
+                            <div class="text-xs text-gray-400 border-t border-gray-200/60 pt-2 flex items-start gap-1.5 mt-auto">
+                                <i class="fas fa-lightbulb mt-0.5 text-yellow-500"></i>
+                                <span class="italic">${d.alert_logic || ''}</span>
+                            </div>
                         </div>
                     `;
                     rGrid.innerHTML += cardHtml;
