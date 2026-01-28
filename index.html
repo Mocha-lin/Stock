@@ -187,7 +187,11 @@
         <div class="flex items-center gap-4">
             <div id="statusBadge" class="text-sm font-mono px-3 py-1.5 rounded bg-gray-200 text-gray-500 hidden md:flex items-center">Offline</div>
             <button onclick="toggleModal('jsonModal')" class="bg-[#8B7355] text-white px-4 py-2 rounded-full text-sm font-bold shadow hover:scale-105 transition flex items-center gap-2">
-                <i class="fas fa-cloud-upload-alt"></i> 匯入 JSON
+                <i class="fas fa-cloud-upload-alt"></i> 匯入
+            </button>
+            <!-- 👇 新增這顆匯出按鈕 👇 -->
+            <button onclick="exportToJSON()" class="bg-gray-700 text-white px-4 py-2 rounded-full text-sm font-bold shadow hover:scale-105 transition flex items-center gap-2">
+                <i class="fas fa-download"></i> 匯出
             </button>
             <button onclick="syncData(true)" class="bg-white border border-[#D1C7B7] text-[#8B7355] px-4 py-2 rounded text-sm font-bold hover:bg-gray-50 shadow-sm">
                 <i class="fas fa-sync-alt"></i>
@@ -1897,6 +1901,31 @@ if (forecasts.length === 0) {
                 saveToLocal();
                 loadStock(currentStockId); // 重新載入以更新畫面
             }
+        }
+        // 新增：將電腦裡的資料匯出成 data.json 檔案
+        function exportToJSON() {
+            // 1. 從瀏覽器肚子裡取出資料
+            const dataStr = localStorage.getItem('bbb_db_v5');
+            
+            if (!dataStr || dataStr === '[]') {
+                alert('目前沒有資料可以匯出！請先匯入或建立一些股票分析。');
+                return;
+            }
+
+            // 2. 建立一個虛擬的檔案連結
+            const blob = new Blob([dataStr], {type: "application/json"});
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            
+            // 3. 設定檔名並自動點擊下載
+            a.href = url;
+            a.download = 'data.json'; 
+            document.body.appendChild(a);
+            a.click();
+            
+            // 4. 清理
+            document.body.removeChild(a);
+            URL.revokeObjectURL(url);
         }
     </script>
 </body>
