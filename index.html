@@ -57,9 +57,14 @@
         
         /* 好球帶橫條基礎樣式 */
         .price-bar-container { position: relative; height: 12px; background: #E5E7EB; border-radius: 6px; margin-top: 8px; width: 100%; overflow: visible; }
-        .pb-zone { position: absolute; height: 100%; opacity: 0.3; }
-        .pb-buy-zone { background-color: #22C55E; border-radius: 6px 0 0 6px; }
-        .pb-sell-zone { background-color: #EF4444; border-radius: 0 6px 6px 0; }
+        /* 區間底色樣式 - 調低透明度以利疊加 */
+        .pb-zone { position: absolute; height: 100%; opacity: 0.25; transition: all 0.3s; }
+        .pb-buy-zone { background-color: #22C55E; border-radius: 4px; }
+        .pb-sell-zone { background-color: #EF4444; border-radius: 4px; }
+        
+        /* 多模型文字標籤樣式 */
+        .model-tag-line { display: flex; justify-content: space-between; font-size: 10px; margin-bottom: 2px; line-height: 1.2; }
+        .model-name-label { font-weight: 800; color: #6B7280; background: #F3F4F6; padding: 0 4px; border-radius: 3px; margin-right: 6px; }
         .price-marker { position: absolute; top: -6px; width: 4px; height: 24px; background: #1F2937; border-radius: 2px; transform: translateX(-50%); z-index: 20; border: 1px solid white; transition: left 0.3s ease; }
         /* --- 標籤按鈕樣式 --- */
         .tag-btn { 
@@ -232,15 +237,13 @@
                             </div>
                         </div>
 
-                        <!-- Price Bar (好球帶) -->
+                        <!-- 多模型好球帶戰情區 -->
                         <div class="mb-5 pr-2 max-w-xl">
-                            <div class="flex justify-between text-[10px] font-bold mb-1">
-                                <span id="pb_entry_label" class="text-green-600">Buy Zone: --</span>
-                                <span id="pb_exit_label" class="text-red-600">Sell Zone: --</span>
-                            </div>
-                            <div class="price-bar-container">
-                                <div id="pb_buy_fill" class="pb-zone pb-buy-zone"></div>
-                                <div id="pb_sell_fill" class="pb-zone pb-sell-zone"></div>
+                            <!-- 這裡會由 JS 動態生成多行模型預測值 -->
+                            <div id="pb_multi_labels" class="space-y-1 mb-2"></div>
+                            
+                            <div class="price-bar-container" id="pb_container">
+                                <!-- 動態生成的區間區塊將放在這裡 -->
                                 <div id="pb_marker" class="price-marker hidden"></div>
                             </div>
                         </div>
@@ -2036,43 +2039,75 @@ if (forecasts.length === 0) {
         }
             // --- 好球帶邏輯函數 (放在腳本最後面) ---
         function updateStrikeZone(s) {
+            const container = document.getElementById('pb_container');
+            const labelBox = document.getElementById('pb_multi_labels');
             const marker = document.getElementById('pb_marker');
-            const buyFill = document.getElementById('pb_buy_fill');
-            const sellFill = document.getElementById('pb_sell_fill');
-            const entryLabel = document.getElementById('pb_entry_label');
-            const exitLabel = document.getElementById('pb_exit_label');
 
-            // 抓取 AI 預測數據
-            const pred = (s.ai_forecasts && s.ai_forecasts.length > 0) ? s.ai_forecasts[0] : (s.technical_analysis ? s.technical_analysis.predictions : null);
-            
-            if (!pred || !pred.entry_zone || !pred.exit_zone) {
+            // 1. 收集所有可用的預測模型
+            let allPreds = [];
+            if (s.ai_forecasts && Array.isArray(s.ai_forecasts)) allPreds = [...s.ai_forecasts];
+            if (s.technical_analysis?.predictions) {
+                const legacy = s.technical_analysis.predictions;
+                if (!allPreds.some(p => p.model_name === legacy.model_name)) allPreds.push(legacy);
+            }
+
+            // 清除舊有的動態元素 (保留指針)
+            const oldZones = container.querySelectorAll('.pb-zone');
+            oldZones.forEach(el => el.remove());
+            labelBox.innerHTML = "";
+
+            if (allPreds.length === 0) {
                 marker.classList.add('hidden');
                 return;
             }
 
             const curPrice = parseFloat(s.basicInfo.price);
-            const entry = pred.entry_zone.split('-').map(Number);
-            const exit = pred.exit_zone.split('-').map(Number);
-            
-            // 尺標計算
-            const minScale = Math.min(entry[0], curPrice) * 0.9;
-            const maxScale = Math.max(exit[1], curPrice) * 1.1;
+
+            // 2. 計算全體模型的最大邊界，用來設定尺標比例
+            let allValues = [curPrice];
+            allPreds.forEach(p => {
+                const e = p.entry_zone.split('-').map(Number);
+                const x = p.exit_zone.split('-').map(Number);
+                allValues.push(...e, ...x);
+            });
+            const minScale = Math.min(...allValues) * 0.95;
+            const maxScale = Math.max(...allValues) * 1.05;
             const totalRange = maxScale - minScale;
             const getPos = (val) => ((val - minScale) / totalRange) * 100;
 
-            // 更新區域
-            buyFill.style.left = getPos(entry[0]) + "%";
-            buyFill.style.width = (getPos(entry[1]) - getPos(entry[0])) + "%";
-            sellFill.style.left = getPos(exit[0]) + "%";
-            sellFill.style.width = (getPos(exit[1]) - getPos(exit[0])) + "%";
+            // 3. 繪製每個模型的區間與標籤
+            allPreds.forEach((p, idx) => {
+                const entry = p.entry_zone.split('-').map(Number);
+                const exit = p.exit_zone.split('-').map(Number);
+                const mName = p.model_name || `AI-${idx+1}`;
 
-            // 更新指針
+                // 繪製買進填滿 (Buy Zone)
+                const bZone = document.createElement('div');
+                bZone.className = 'pb-zone pb-buy-zone';
+                bZone.style.left = getPos(entry[0]) + "%";
+                bZone.style.width = (getPos(entry[1]) - getPos(entry[0])) + "%";
+                container.appendChild(bZone);
+
+                // 繪製賣出填滿 (Sell Zone)
+                const sZone = document.createElement('div');
+                sZone.className = 'pb-zone pb-sell-zone';
+                sZone.style.left = getPos(exit[0]) + "%";
+                sZone.style.width = (getPos(exit[1]) - getPos(exit[0])) + "%";
+                container.appendChild(sZone);
+
+                // 生成文字標籤
+                labelBox.innerHTML += `
+                    <div class="model-tag-line">
+                        <div><span class="model-name-label">${mName}</span><span class="text-green-600 font-bold">買: ${p.entry_zone}</span></div>
+                        <div class="text-red-600 font-bold text-right">賣: ${p.exit_zone}</div>
+                    </div>
+                `;
+            });
+
+            // 4. 更新目前價格指針
             marker.classList.remove('hidden');
-            marker.style.left = Math.max(0, Math.min(100, getPos(curPrice))) + "%";
-            
-            // 更新文字
-            entryLabel.innerText = `買點區: ${pred.entry_zone}`;
-            exitLabel.innerText = `賣點區: ${pred.exit_zone}`;
+            let curPos = getPos(curPrice);
+            marker.style.left = Math.max(0, Math.min(100, curPos)) + "%";
         }
         // --- [新增] 標籤管理功能函數群 ---
 
