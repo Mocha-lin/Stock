@@ -47,6 +47,13 @@
         .tag-pill-filter { @apply px-3 py-1 rounded-full text-xs font-bold border mr-2 whitespace-nowrap cursor-pointer transition select-none; }
         .tag-active { @apply bg-[#8B7355] text-white border-[#8B7355]; }
         .tag-inactive { @apply bg-white text-gray-500 border-gray-200 hover:bg-gray-50; }
+
+        /* 下拉選單樣式優化 */
+        .sidebar-select {
+            @apply w-full bg-white border border-gray-300 rounded px-2 py-1.5 text-xs font-bold text-gray-600 outline-none transition-all;
+            cursor: pointer;
+        }
+        .sidebar-select:focus { @apply border-[#8B7355] ring-1 ring-[#8B7355]/20; }
         
         /* 好球帶橫條基礎樣式 */
         .price-bar-container { position: relative; height: 12px; background: #E5E7EB; border-radius: 6px; margin-top: 8px; width: 100%; overflow: visible; }
@@ -194,8 +201,10 @@
                            class="w-full bg-white border border-gray-300 rounded-lg px-4 py-2 text-base focus:outline-none focus:border-[#8B7355] shadow-inner font-mono tracking-wide transition">
                     <span class="absolute right-3 top-2.5 text-gray-400"><i class="fas fa-search"></i></span>
                 </div>
-                <!-- 橫向捲動標籤列 -->
-                <div class="flex overflow-x-auto pb-1 no-scrollbar space-x-1" id="tagFilterContainer"></div>
+                <!-- 下拉式標籤過濾選單 -->
+                <select id="tagFilterDropdown" onchange="setSidebarFilter(this.value)" class="sidebar-select mt-1">
+                    <!-- 選項將由 JS 動態生成 -->
+                </select>
             </div>
             <div id="stockList" class="flex-1 overflow-y-auto p-2 space-y-2 pb-20 md:pb-2"></div>
         </aside>
@@ -837,38 +846,53 @@
 
         function renderSidebar() {
             const el = document.getElementById('stockList');
-            const tagContainer = document.getElementById('tagFilterContainer'); // 標籤按鈕容器
+            const dropdown = document.getElementById('tagFilterDropdown'); 
             const q = document.getElementById('addStockInput').value.trim().toUpperCase(); 
             el.innerHTML = "";
 
-            // --- [新增] 1. 產生頂部標籤過濾按鈕列 (對標 Colab 邏輯) ---
+            // 1. 收集並組合所有過濾選項 (對標 Colab 邏輯)
             const allThemes = new Set();
+            const allSectors = new Set();
             db.forEach(s => { 
-                if(s.themes && Array.isArray(s.themes)) {
-                    s.themes.forEach(t => allThemes.add(t));
-                }
+                if(s.themes) s.themes.forEach(t => allThemes.add(t));
+                if(s.industry_analysis?.sector) allSectors.add(s.industry_analysis.sector);
             });
-            const filterOptions = ['全部', '⚡ BUY', '🟡 FLU', ...Array.from(allThemes).sort()];
 
-            tagContainer.innerHTML = filterOptions.map(tag => {
-                const isActive = (currentFilterTag === tag);
-                let typeClass = 'tag-all';
-                if (tag === '⚡ BUY' || tag === '🟡 FLU') typeClass = 'tag-status';
-                else if (tag !== '全部') typeClass = 'tag-theme';
-                return `<button onclick="setSidebarFilter('${tag}')" class="tag-btn ${typeClass} ${isActive ? 'active' : ''} mr-1 mb-1">${tag}</button>`;
-            }).join('');
+            // 清空並重新生成下拉選單內容
+            let dropdownHtml = `<option value="全部">🔍 全部股票</option>`;
+            dropdownHtml += `<optgroup label="狀態篩選">
+                                <option value="⚡ BUY" ${currentFilterTag === '⚡ BUY' ? 'selected' : ''}>⚡ BUY (已買)</option>
+                                <option value="🟡 FLU" ${currentFilterTag === '🟡 FLU' ? 'selected' : ''}>🟡 FLU (觀察)</option>
+                             </optgroup>`;
+
+            if (allThemes.size > 0) {
+                dropdownHtml += `<optgroup label="題材分類">`;
+                Array.from(allThemes).sort().forEach(t => {
+                    dropdownHtml += `<option value="${t}" ${currentFilterTag === t ? 'selected' : ''}>🏷️ ${t}</option>`;
+                });
+                dropdownHtml += `</optgroup>`;
+            }
+
+            if (allSectors.size > 0) {
+                dropdownHtml += `<optgroup label="產業分類">`;
+                Array.from(allSectors).sort().forEach(s => {
+                    // 將圖示從 🏭 更換為 📁 (或其他您喜歡的圖示)
+                    dropdownHtml += `<option value="${s}" ${currentFilterTag === s ? 'selected' : ''}>📁 ${s}</option>`;
+                });
+                dropdownHtml += `</optgroup>`;
+            }
+            dropdown.innerHTML = dropdownHtml;
 
             // --- 2. 篩選資料 (保留原本搜尋 q，新增標籤過濾) ---
             let cats = {};
             db.forEach(s => {
-                // 原本的搜尋過濾
                 if(q && !s.id.includes(q) && !s.name.includes(q)) return;
                 
-                // [新增] 標籤按鈕過濾邏輯
                 if(currentFilterTag !== '全部') {
                     const matchesStatus = (s.status === currentFilterTag);
                     const matchesTheme = (s.themes && s.themes.includes(currentFilterTag));
-                    if(!matchesStatus && !matchesTheme) return;
+                    const matchesSector = (s.industry_analysis?.sector === currentFilterTag);
+                    if(!matchesStatus && !matchesTheme && !matchesSector) return;
                 }
 
                 const c = s.industry_analysis?.sector || s.category || "關注清單";
@@ -2093,6 +2117,7 @@ if (forecasts.length === 0) {
     </script>
 </body>
 </html>
+
 
 
 
