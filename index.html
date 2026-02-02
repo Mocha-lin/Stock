@@ -2014,14 +2014,13 @@ if (forecasts.length === 0) {
         }
         // 新增：將電腦裡的資料匯出成 data.json 檔案
         function exportToJSON() {
-            // 1. 從瀏覽器肚子裡取出資料
-            const dataStr = localStorage.getItem('bbb_db_v5');
-            
-            if (!dataStr || dataStr === '[]') {
-                alert('目前沒有資料可以匯出！請先匯入或建立一些股票分析。');
+            // 1. 直接將目前記憶體中最新的 db 陣列轉成字串 (確保包含剛改好的標籤與狀態)
+            if (!db || db.length === 0) {
+                alert('目前沒有資料可以匯出！');
                 return;
             }
-
+            const dataStr = JSON.stringify(db, null, 2); // 使用 db 變數
+            
             // 2. 建立一個虛擬的檔案連結
             const blob = new Blob([dataStr], {type: "application/json"});
             const url = URL.createObjectURL(blob);
