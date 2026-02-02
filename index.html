@@ -668,18 +668,33 @@
 
                 const idx = db.findIndex(s => s.id === stockData.id);
                 if (idx !== -1) {
-                    if (!stockData.memo) stockData.memo = db[idx].memo;
-                    // Merge all block B parts if they exist in DB
-                    if (db[idx].revenue_predictions) stockData.revenue_predictions = db[idx].revenue_predictions;
-                    if (db[idx].eps_predictions) stockData.eps_predictions = db[idx].eps_predictions;
-                    if (db[idx].technical_analysis) stockData.technical_analysis = db[idx].technical_analysis;
-                    if (db[idx].ai_message_board) stockData.ai_message_board = db[idx].ai_message_board;
-                    if (db[idx].industry_analysis) stockData.industry_analysis = db[idx].industry_analysis;
-                    if (db[idx].c_model) stockData.c_model = db[idx].c_model;
-                    if (db[idx].risk_evaluation) stockData.risk_evaluation = db[idx].risk_evaluation;
-                    if (db[idx].ai_forecasts) stockData.ai_forecasts = db[idx].ai_forecasts; // Merge AI forecasts
-                    // Note: ai_resources comes fresh from A block, so we generally overwrite, 
-                    // but if there were manual edits we might want to be careful. For now, overwrite is safer for updates.
+                    const existing = db[idx];
+
+                    // 1. 執行合併：新資料 stockData 覆蓋舊資料 db[idx]
+                    db[idx] = { ...existing, ...stockData };
+
+                    // 2. 強制保護：如果新資料中沒有這些手動欄位，則還原舊有的
+                    if (existing.status) db[idx].status = existing.status;
+                    if (existing.themes) db[idx].themes = existing.themes;
+                    if (existing.memo) db[idx].memo = existing.memo;
+                    if (existing.ai_forecasts && existing.ai_forecasts.length > 0) {
+                        db[idx].ai_forecasts = existing.ai_forecasts;
+                    }
+
+                    // 3. 保護已存在的 Block B (AI 分析) 欄位
+                    const bBlockKeys = ['revenue_predictions', 'eps_predictions', 'technical_analysis', 'ai_message_board', 'industry_analysis', 'c_model', 'risk_evaluation'];
+                    bBlockKeys.forEach(key => {
+                        if (existing[key] && !stockData[key]) {
+                            db[idx][key] = existing[key];
+                        }
+                    });
+
+                    saveToLocal(); 
+                    toggleModal('jsonModal'); 
+                    renderSidebar(); 
+                    loadStock(db[idx].id);
+                    document.getElementById('jsonInput').value = ""; 
+                    return; // 結束執行
                     db[idx] = stockData;
                 } else {
                     db.unshift(stockData);
@@ -794,9 +809,9 @@
                     annual_report: resources.annual_report || null,
                     official_website: resources.official_website || null
                 },
-                news_events: { news: [], calendar: [] },
-                memo: "",
-                ai_forecasts: []
+                news_events: { news: [], calendar: [] }
+                // 徹底移除 memo, themes, status, ai_forecasts 等欄位的預設值
+                // 這樣在合併時，新資料就不會帶著空值去覆蓋舊資料
             };
         }
 
