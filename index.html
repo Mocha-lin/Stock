@@ -11,119 +11,72 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     
     <style>
-        /* 1. 字體基底與配色 */
+        /* 1. 基礎設定 */
         :root { --bg: #F9F7F2; --accent: #8B7355; --text: #374151; --border: #E5E7EB; }
         body { background: var(--bg); color: var(--text); font-family: -apple-system, BlinkMacSystemFont, "Microsoft JhengHei", "Segoe UI", Roboto, sans-serif; height: 100vh; overflow: hidden; font-size: 16px; }
         
         .glass-panel { background: white; border: 1px solid var(--border); box-shadow: 0 2px 5px rgba(0,0,0,0.03); border-radius: 12px; }
         .header-title { font-size: 1.1rem; font-weight: 800; color: #4B5563; border-bottom: 2px solid var(--border); padding-bottom: 0.75rem; margin-bottom: 1.25rem; display: flex; justify-content: space-between; align-items: center; letter-spacing: 0.05em; }
         
-        /* 2. 表格樣式優化 */
-        .data-table th, .data-table td {
-            @apply px-6 py-3 text-base border-b border-gray-100 font-mono outline-none transition duration-200 whitespace-nowrap;
-        }
-        .data-table th {
-            @apply bg-gray-50 text-sm text-gray-500 uppercase font-bold sticky top-0;
-        }
+        /* 2. 表格優化 */
+        .data-table th, .data-table td { @apply px-6 py-3 text-base border-b border-gray-100 font-mono outline-none transition duration-200 whitespace-nowrap; }
+        .data-table th { @apply bg-gray-50 text-sm text-gray-500 uppercase font-bold sticky top-0; }
         .data-table tbody tr:nth-child(even) { background-color: #F9FAFB; }
         .data-table tbody tr:nth-child(odd) { background-color: #FFFFFF; }
-
-        /* 第一欄固定 */
-        .data-table th:first-child, 
-        .data-table td:first-child { 
-            text-align: left; position: sticky; left: 0; background-color: inherit; z-index: 10; border-right: 1px solid #e5e7eb; 
-        }
-        .data-table th:not(:first-child), 
-        .data-table td:not(:first-child) { text-align: right; }
+        .data-table th:first-child, .data-table td:first-child { text-align: left; position: sticky; left: 0; background-color: inherit; z-index: 10; border-right: 1px solid #e5e7eb; }
+        .data-table th:not(:first-child), .data-table td:not(:first-child) { text-align: right; }
         
-        .editable:hover { background-color: #FFFBF0 !important; cursor: text; box-shadow: inset 0 0 0 1px #8B7355; }
-        .editable:focus { background-color: #FFFFFF !important; box-shadow: inset 0 0 0 2px #8B7355; }
+        /* 3. 手機版與響應式設計 (RWD) */
+        @media (max-width: 768px) {
+            .sidebar-drawer {
+                position: fixed; top: 0; left: 0; height: 100%; width: 85%; max-width: 320px;
+                transform: translateX(-100%); transition: transform 0.3s ease-in-out; z-index: 50;
+            }
+            .sidebar-drawer.open { transform: translateX(0); }
+            .mobile-backdrop { position: fixed; inset: 0; background: rgba(0,0,0,0.5); z-index: 40; display: none; }
+            .mobile-backdrop.show { display: block; }
+            .data-table th, .data-table td { padding: 8px 12px; font-size: 14px; } /* 手機表格緊湊化 */
+            /* 側邊欄分類標題緊湊化 */
+        .sidebar-cat-header { @apply px-2 py-1 text-[11px] font-bold text-gray-400 uppercase tracking-wider border-b border-gray-200 mb-1 flex justify-between items-center cursor-pointer hover:bg-gray-100 transition; }
+        
+        /* 側邊欄個股清單容器間距縮小 */
+        #stockList { @apply space-y-1 !important; }
+        }
 
-        /* 3. 顏色標準 */
+        /* 4. 標籤與 Price Bar */
+        .tag-pill-filter { @apply px-3 py-1 rounded-full text-xs font-bold border mr-2 whitespace-nowrap cursor-pointer transition select-none; }
+        .tag-active { @apply bg-[#8B7355] text-white border-[#8B7355]; }
+        .tag-inactive { @apply bg-white text-gray-500 border-gray-200 hover:bg-gray-50; }
+        
+        /* 好球帶橫條基礎樣式 */
+        .price-bar-container { position: relative; height: 12px; background: #E5E7EB; border-radius: 6px; margin-top: 8px; width: 100%; overflow: visible; }
+        .pb-zone { position: absolute; height: 100%; opacity: 0.3; }
+        .pb-buy-zone { background-color: #22C55E; border-radius: 6px 0 0 6px; }
+        .pb-sell-zone { background-color: #EF4444; border-radius: 0 6px 6px 0; }
+        .price-marker { position: absolute; top: -6px; width: 4px; height: 24px; background: #1F2937; border-radius: 2px; transform: translateX(-50%); z-index: 20; border: 1px solid white; transition: left 0.3s ease; }
+
+        /* 5. 通用元件 */
         .tw-red { color: #DC2626; font-weight: 700; }   
         .tw-green { color: #16A34A; font-weight: 700; } 
         .tw-black { color: #374151; font-weight: 500; } 
         .tw-blue { color: #2563EB; font-weight: 700; } 
-
-        .est-row td { color: #2563EB; font-weight: 700; }
-        .est-tag { font-size: 0.75rem; background: #2563EB; color: white; padding: 2px 4px; border-radius: 4px; margin-left: 6px; }
-
-        /* K線圖切換按鈕樣式 */
         .tf-btn { @apply px-4 py-1 text-sm font-bold rounded-md border transition-all duration-200; }
         .tf-btn.active { @apply bg-[#8B7355] text-white border-[#8B7355]; }
         .tf-btn.inactive { @apply bg-white text-gray-500 border-gray-200 hover:bg-gray-50; }
-
-        /* 箭頭樣式 */
         .arrow-up { display: inline-block; width: 0; height: 0; border-left: 5px solid transparent; border-right: 5px solid transparent; border-bottom: 8px solid #DC2626; margin: 0 6px; vertical-align: middle; }
         .arrow-down { display: inline-block; width: 0; height: 0; border-left: 5px solid transparent; border-right: 5px solid transparent; border-top: 8px solid #16A34A; margin: 0 6px; vertical-align: middle; }
-
-        /* 星星評分 */
-        .star-filled { color: #FFD700; text-shadow: 0 1px 1px rgba(0,0,0,0.1); }
-        .star-empty { color: #E5E7EB; }
-
-        /* C-Value Dashboard Styles */
         .c-card { @apply bg-gray-50 rounded-lg p-3 border border-gray-200 flex flex-col items-center justify-center text-center; }
         .c-label { @apply text-xs text-gray-400 font-bold uppercase tracking-wider mb-1; }
         .c-val { @apply text-xl font-black text-gray-800 font-mono; }
-
-        /* Tooltip Styles (New) */
-        .th-tooltip { position: relative; cursor: help; text-decoration: underline dotted #999; }
-        .th-tooltip:hover::after {
-            content: attr(data-tip);
-            position: absolute;
-            bottom: 100%;
-            left: 50%;
-            transform: translateX(-50%);
-            background: #2D3748;
-            color: #fff;
-            padding: 8px 12px;
-            border-radius: 6px;
-            font-size: 12px;
-            font-weight: normal;
-            line-height: 1.4;
-            white-space: pre-wrap; /* 允許換行 */
-            width: 240px;
-            text-align: center;
-            z-index: 9999; /* 確保最上層 */
-            box-shadow: 0 4px 6px rgba(0,0,0,0.15);
-            margin-bottom: 8px;
-            text-transform: none;
-            visibility: visible;
-            opacity: 1;
-            pointer-events: none;
-        }
-        /* Triangle for tooltip */
-        .th-tooltip:hover::before {
-            content: '';
-            position: absolute;
-            bottom: 100%;
-            left: 50%;
-            transform: translateX(-50%);
-            border-width: 6px;
-            border-style: solid;
-            border-color: #2D3748 transparent transparent transparent;
-            margin-bottom: -4px; 
-            z-index: 9999;
-        }
-
-        /* Signal Lights (From New Source) */
-        .signal-light { width: 12px; height: 12px; border-radius: 50%; display: inline-block; margin-right: 6px; border: 2px solid white; box-shadow: 0 1px 3px rgba(0,0,0,0.2); }
-        .signal-buy { background-color: #22C55E; }
-        .signal-sell { background-color: #EF4444; }
-        .signal-hold { background-color: #EAB308; }
-
-        /* Risk Alert Styles */
-        .risk-level-0 { @apply bg-gray-100 text-gray-500 border-gray-200; }
-        .risk-level-1 { @apply bg-yellow-50 text-yellow-700 border-yellow-200; }
-        .risk-level-2 { @apply bg-orange-50 text-orange-700 border-orange-200; }
-        .risk-level-3 { @apply bg-red-50 text-red-700 border-red-200; }
-        
-        @keyframes fadeIn { from { opacity: 0; transform: scale(0.95); } to { opacity: 1; transform: scale(1); } }
-        .animate-fade-in { animation: fadeIn 0.2s ease-out forwards; }
-
-        ::-webkit-scrollbar { width: 6px; }
-        ::-webkit-scrollbar-thumb { background: #D1D5DB; border-radius: 4px; }
+        .signal-light { width: 10px; height: 10px; border-radius: 50%; display: inline-block; margin-right: 4px; border: 1px solid white; }
+        .signal-buy { background-color: #22C55E; } .signal-sell { background-color: #EF4444; } .signal-hold { background-color: #EAB308; }
         .loading-overlay { position: fixed; inset: 0; background: rgba(255,255,255,0.98); z-index: 99; display: none; justify-content: center; align-items: center; flex-direction: column; backdrop-filter: blur(2px); }
+        .star-filled { color: #FFD700; } .star-empty { color: #E5E7EB; }
+        
+        /* Tooltip */
+        .th-tooltip { position: relative; cursor: help; text-decoration: underline dotted #999; }
+        .th-tooltip:hover::after { content: attr(data-tip); position: absolute; bottom: 100%; left: 50%; transform: translateX(-50%); background: #2D3748; color: #fff; padding: 8px 12px; border-radius: 6px; font-size: 12px; width: 240px; text-align: center; z-index: 9999; margin-bottom: 8px; white-space: pre-wrap; pointer-events: none; }
+        .th-tooltip:hover::before { content: ''; position: absolute; bottom: 100%; left: 50%; transform: translateX(-50%); border-width: 6px; border-style: solid; border-color: #2D3748 transparent transparent transparent; margin-bottom: -4px; z-index: 9999; }
     </style>
 </head>
 <body class="flex flex-col">
@@ -199,50 +152,85 @@
         </div>
     </header>
 
-    <div class="flex flex-1 overflow-hidden">
+    <!-- Mobile Backdrop -->
+    <div id="mobileBackdrop" class="mobile-backdrop" onclick="toggleSidebar()"></div>
+
+    <div class="flex flex-1 overflow-hidden relative">
         
-        <!-- Sidebar -->
-        <aside class="w-[25%] min-w-[300px] bg-[#F5F2EB] border-r border-[#E5E0D8] flex flex-col z-10 shadow-lg">
-            <div class="p-4 border-b border-[#E5E0D8] bg-[#F5F2EB]">
-                <div class="relative group">
-                    <input type="text" id="addStockInput" placeholder="搜尋代號..." onkeyup="renderSidebar()"
-                           class="w-full bg-white border border-gray-300 rounded-lg px-4 py-3 text-base focus:outline-none focus:border-[#8B7355] shadow-inner font-mono tracking-wide transition group-hover:shadow-md">
-                    <span class="absolute right-3 top-3 text-gray-400"><i class="fas fa-search"></i></span>
-                </div>
+        <!-- Sidebar: 手機抽屜 + 標籤過濾 -->
+        <aside id="sidebar" class="sidebar-drawer md:translate-x-0 md:relative md:w-[25%] md:min-w-[300px] bg-[#F5F2EB] border-r border-[#E5E0D8] flex flex-col z-20 shadow-lg md:shadow-none transition-transform duration-300">
+            <div class="md:hidden flex justify-end p-2 border-b border-[#E5E0D8] bg-[#F5F2EB]">
+                <button onclick="toggleSidebar()" class="text-gray-500 p-2"><i class="fas fa-times text-xl"></i></button>
             </div>
-            <div id="stockList" class="flex-1 overflow-y-auto p-3 space-y-3"></div>
+            <div class="p-2 border-b border-[#E5E0D8] bg-[#F5F2EB]">
+                <div class="relative group mb-2">
+                    <input type="text" id="addStockInput" placeholder="搜尋代號..." onkeyup="renderSidebar()"
+                           class="w-full bg-white border border-gray-300 rounded-lg px-4 py-2 text-base focus:outline-none focus:border-[#8B7355] shadow-inner font-mono tracking-wide transition">
+                    <span class="absolute right-3 top-2.5 text-gray-400"><i class="fas fa-search"></i></span>
+                </div>
+                <!-- 橫向捲動標籤列 -->
+                <div class="flex overflow-x-auto pb-1 no-scrollbar space-x-1" id="tagFilterContainer"></div>
+            </div>
+            <div id="stockList" class="flex-1 overflow-y-auto p-2 space-y-2 pb-20 md:pb-2"></div>
         </aside>
 
         <!-- Main Content -->
-        <main class="flex-1 overflow-y-auto bg-[#FDFBF7] p-8 scroll-smooth" id="mainBoard">
+        <main class="flex-1 overflow-y-auto bg-[#FDFBF7] p-4 md:p-8 scroll-smooth w-full" id="mainBoard">
             <div id="emptyState" class="h-full flex flex-col items-center justify-center text-gray-300 select-none">
-                <i class="fas fa-folder-open text-9xl mb-6 opacity-30"></i>
-                <p class="text-2xl font-light tracking-wide">請從左側選擇或輸入代號新增分析</p>
+                <i class="fas fa-folder-open text-7xl md:text-9xl mb-6 opacity-30"></i>
+                <p class="text-xl md:text-2xl font-light tracking-wide">請從左側選擇股票</p>
+                <button onclick="toggleSidebar()" class="mt-6 md:hidden px-6 py-2 bg-[#8B7355] text-white rounded-full font-bold shadow">開啟列表</button>
             </div>
 
             <div id="dashboard" class="hidden max-w-[1600px] mx-auto space-y-8 pb-24">
                 
-                <!-- Info Header -->
-                <div class="flex flex-col md:flex-row justify-between items-end border-b-4 border-[#8B7355] pb-6">
-                    <div>
-                        <div class="flex items-baseline gap-4 mb-2">
-                            <h1 class="text-5xl font-extrabold text-[#2C3E50] tracking-tighter" id="d_name">--</h1>
-                            <h2 class="text-2xl font-bold text-gray-400 font-mono" id="d_id">--</h2>
+                <!-- 新版 Header: 包含好球帶與標籤管理 -->
+                <div class="flex flex-col md:flex-row justify-between items-start border-b-4 border-[#8B7355] pb-4 mb-6 gap-6">
+                    <div class="flex-1 w-full">
+                        <div class="flex justify-between items-end md:justify-start md:items-baseline gap-3 mb-1">
+                            <div class="flex items-baseline gap-2">
+                                <h1 class="text-3xl md:text-5xl font-extrabold text-[#2C3E50] tracking-tighter" id="d_name">--</h1>
+                                <h2 class="text-lg md:text-2xl font-bold text-gray-400 font-mono" id="d_id">--</h2>
+                            </div>
+                            <div class="md:hidden text-right">
+                                <div id="d_price_m" class="text-4xl font-mono font-bold text-[#2C3E50]">--</div>
+                            </div>
                         </div>
-                        <div class="text-sm text-gray-500 flex items-center gap-4">
-                            <span class="bg-gray-100 px-3 py-1 rounded flex items-center gap-2"><i class="far fa-clock"></i> <span id="d_date" class="font-mono"></span></span>
-                            <span class="bg-blue-50 text-blue-600 px-2 py-1 rounded border border-blue-100 text-xs font-bold" id="aiModelTag">AI</span>
+
+                        <!-- Price Bar (好球帶) -->
+                        <div class="mb-5 pr-2 max-w-xl">
+                            <div class="flex justify-between text-[10px] font-bold mb-1">
+                                <span id="pb_entry_label" class="text-green-600">Buy Zone: --</span>
+                                <span id="pb_exit_label" class="text-red-600">Sell Zone: --</span>
+                            </div>
+                            <div class="price-bar-container">
+                                <div id="pb_buy_fill" class="pb-zone pb-buy-zone"></div>
+                                <div id="pb_sell_fill" class="pb-zone pb-sell-zone"></div>
+                                <div id="pb_marker" class="price-marker hidden"></div>
+                            </div>
+                        </div>
+
+                        <!-- 標籤輸入區 -->
+                        <div class="flex flex-wrap items-center gap-2 mb-2">
+                            <div id="activeTagsList" class="flex flex-wrap gap-1"></div>
+                            <input type="text" id="newTagInput" placeholder="+Tag" 
+                                class="bg-transparent border-b border-gray-300 text-xs px-1 py-0.5 w-16 focus:w-24 focus:border-[#8B7355] outline-none transition-all placeholder-gray-400"
+                                onkeydown="handleTagInput(event)">
+                        </div>
+
+                        <div class="text-xs md:text-sm text-gray-500 flex items-center gap-3 flex-wrap">
+                            <span class="bg-gray-100 px-2 py-0.5 rounded flex items-center gap-2"><i class="far fa-clock"></i> <span id="d_date" class="font-mono"></span></span>
                             <span class="text-red-500 font-bold" id="d_note"></span>
                         </div>
                     </div>
-                    <div class="text-right">
+
+                    <div class="hidden md:block text-right">
                         <div class="flex items-baseline justify-end gap-4">
                             <div id="d_price" class="text-7xl font-mono font-bold text-[#2C3E50] tracking-tighter">--</div>
                             <div id="d_change" class="text-2xl font-bold">--</div>
                         </div>
                     </div>
                 </div>
-
                 <!-- Industry Analysis (Block B) -->
                 <div class="grid grid-cols-1 lg:grid-cols-3 gap-8">
                     <!-- Left Column: Details -->
@@ -827,7 +815,7 @@
             for(let [cat, items] of Object.entries(cats)) {
                 const grp = document.createElement('div');
                 grp.className = "mb-4";
-                grp.innerHTML = `<div class="px-3 py-2 text-xs font-bold text-gray-400 uppercase tracking-widest border-b mb-2 flex justify-between cursor-pointer" onclick="this.nextElementSibling.classList.toggle('hidden')">${cat} <i class="fas fa-angle-down"></i></div>`;
+                grp.innerHTML = `<div class="sidebar-cat-header" onclick="this.nextElementSibling.classList.toggle('hidden')">${cat} <i class="fas fa-angle-down text-[10px]"></i></div>`;
                 const ul = document.createElement('div');
                 ul.className = "space-y-2";
                 
@@ -875,11 +863,11 @@
                         }
                     });
                     
-                    d.className = `p-4 rounded-xl border transition-all hover:shadow-md flex items-center ${style}`;
+                    d.className = `p-2 rounded-lg border transition-all hover:shadow-sm flex items-center ${style}`;
                     d.innerHTML = `
                         <div class="flex-1 min-w-0 cursor-pointer" onclick="loadStock('${s.id}')">
                             <div class="flex justify-between items-center mb-0.5">
-                                <div class="text-[26px] font-bold text-[#2C3E50] leading-tight truncate">${s.name}</div>
+                                <div class="text-[1.1rem] font-bold text-[#2C3E50] leading-tight truncate">${s.name}</div>
                                 <div class="text-right ml-2">
                                     <div class="font-mono text-base font-bold text-gray-800 flex items-center">${signalHtml} ${s.basicInfo.price}</div>
                                 </div>
@@ -1288,6 +1276,7 @@
             }
 
             renderKLineChart(currentKLineData, 'D', s.technical_analysis); 
+            updateStrikeZone(s);
 
 // Render AI Predictions (From New Source Logic)
             const cardContainer = document.getElementById('ai_cards_container');
@@ -1927,7 +1916,48 @@ if (forecasts.length === 0) {
             document.body.removeChild(a);
             URL.revokeObjectURL(url);
         }
+            // --- 好球帶邏輯函數 (放在腳本最後面) ---
+        function updateStrikeZone(s) {
+            const marker = document.getElementById('pb_marker');
+            const buyFill = document.getElementById('pb_buy_fill');
+            const sellFill = document.getElementById('pb_sell_fill');
+            const entryLabel = document.getElementById('pb_entry_label');
+            const exitLabel = document.getElementById('pb_exit_label');
+
+            // 抓取 AI 預測數據
+            const pred = (s.ai_forecasts && s.ai_forecasts.length > 0) ? s.ai_forecasts[0] : (s.technical_analysis ? s.technical_analysis.predictions : null);
+            
+            if (!pred || !pred.entry_zone || !pred.exit_zone) {
+                marker.classList.add('hidden');
+                return;
+            }
+
+            const curPrice = parseFloat(s.basicInfo.price);
+            const entry = pred.entry_zone.split('-').map(Number);
+            const exit = pred.exit_zone.split('-').map(Number);
+            
+            // 尺標計算
+            const minScale = Math.min(entry[0], curPrice) * 0.9;
+            const maxScale = Math.max(exit[1], curPrice) * 1.1;
+            const totalRange = maxScale - minScale;
+            const getPos = (val) => ((val - minScale) / totalRange) * 100;
+
+            // 更新區域
+            buyFill.style.left = getPos(entry[0]) + "%";
+            buyFill.style.width = (getPos(entry[1]) - getPos(entry[0])) + "%";
+            sellFill.style.left = getPos(exit[0]) + "%";
+            sellFill.style.width = (getPos(exit[1]) - getPos(exit[0])) + "%";
+
+            // 更新指針
+            marker.classList.remove('hidden');
+            marker.style.left = Math.max(0, Math.min(100, getPos(curPrice))) + "%";
+            
+            // 更新文字
+            entryLabel.innerText = `買點區: ${pred.entry_zone}`;
+            exitLabel.innerText = `賣點區: ${pred.exit_zone}`;
+        }
     </script>
 </body>
 </html>
+
 
