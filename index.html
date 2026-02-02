@@ -54,6 +54,32 @@
         .pb-buy-zone { background-color: #22C55E; border-radius: 6px 0 0 6px; }
         .pb-sell-zone { background-color: #EF4444; border-radius: 0 6px 6px 0; }
         .price-marker { position: absolute; top: -6px; width: 4px; height: 24px; background: #1F2937; border-radius: 2px; transform: translateX(-50%); z-index: 20; border: 1px solid white; transition: left 0.3s ease; }
+        /* --- 標籤按鈕樣式 --- */
+        .tag-btn { 
+            @apply px-2 py-0.5 rounded border text-[10px] font-bold transition-all cursor-pointer whitespace-nowrap;
+            border-width: 1.5px;
+            display: inline-flex; align-items: center;
+        }
+        /* 狀態類 (BUY/FLU) */
+        .tag-status { @apply border-purple-200 text-purple-600 bg-purple-50; }
+        .tag-status.active { @apply bg-purple-600 text-white border-purple-600; }
+        /* 題材類 (Themes) */
+        .tag-theme { @apply border-[#8B7355]/30 text-[#8B7355] bg-white; }
+        .tag-theme.active { @apply bg-[#8B7355] text-white border-[#8B7355]; }
+        /* 全部按鈕 */
+        .tag-all { @apply border-gray-300 text-gray-500 bg-gray-50; }
+        .tag-all.active { @apply bg-gray-700 text-white border-gray-700; }
+
+        /* --- 側邊欄新版小標籤與題材樣式 --- */
+        .mini-status-badge { font-size: 9px; font-weight: 800; padding: 0 4px; border-radius: 3px; display: inline-block; margin-bottom: 2px; }
+        .badge-buy { background: #FFEDD5; color: #F97316; border: 1px solid #FFD8A8; }
+        .badge-flu { background: #FEF9C3; color: #CA8A04; border: 1px solid #FDE68A; }
+        
+        .sidebar-theme-tag { 
+            background: #F3F4F6; color: #6B7280; font-size: 9px; 
+            padding: 0 4px; border-radius: 3px; border: 1px solid #E5E7EB;
+            white-space: nowrap; margin-left: 3px;
+        }
 
         /* 5. 通用元件 */
         .tw-red { color: #DC2626; font-weight: 700; }   
@@ -210,12 +236,21 @@
                             </div>
                         </div>
 
-                        <!-- 標籤輸入區 -->
-                        <div class="flex flex-wrap items-center gap-2 mb-2">
-                            <div id="activeTagsList" class="flex flex-wrap gap-1"></div>
-                            <input type="text" id="newTagInput" placeholder="+Tag" 
-                                class="bg-transparent border-b border-gray-300 text-xs px-1 py-0.5 w-16 focus:w-24 focus:border-[#8B7355] outline-none transition-all placeholder-gray-400"
-                                onkeydown="handleTagInput(event)">
+                        <!-- 標籤與分類管理區 (Status & Themes) -->
+                        <div class="flex flex-wrap items-center gap-3 mb-2">
+                            <!-- 狀態按鈕 -->
+                            <div class="flex gap-1 border-r border-gray-200 pr-3">
+                                <button onclick="toggleStockStatus('⚡ BUY')" id="btn_status_buy" class="tag-btn tag-status">⚡ BUY</button>
+                                <button onclick="toggleStockStatus('🟡 FLU')" id="btn_status_flu" class="tag-btn tag-status">🟡 FLU</button>
+                            </div>
+                            <!-- 題材列表 -->
+                            <div id="activeThemesList" class="flex flex-wrap gap-1"></div>
+                            <!-- 題材輸入 -->
+                            <div class="flex items-center">
+                                <input type="text" id="themeInput" placeholder="+ 題材 (Enter)" 
+                                    class="bg-gray-100 border-none text-[10px] px-2 py-1 rounded w-28 focus:ring-1 focus:ring-[#8B7355] outline-none"
+                                    onkeydown="handleThemeInput(event)">
+                            </div>
                         </div>
 
                         <div class="text-xs md:text-sm text-gray-500 flex items-center gap-3 flex-wrap">
@@ -554,6 +589,7 @@
 
     <script>
         let db = [];
+        let currentFilterTag = '全部'; // 用於記錄左側側邊欄目前過濾的標籤
         let currentStockId = null;
         let charts = { river:null, eps:null, rev:null, pe:null, kline:null, vol:null, rev_mix: null };
         let currentKLineData = [];
@@ -801,17 +837,46 @@
 
         function renderSidebar() {
             const el = document.getElementById('stockList');
+            const tagContainer = document.getElementById('tagFilterContainer'); // 標籤按鈕容器
             const q = document.getElementById('addStockInput').value.trim().toUpperCase(); 
             el.innerHTML = "";
+
+            // --- [新增] 1. 產生頂部標籤過濾按鈕列 (對標 Colab 邏輯) ---
+            const allThemes = new Set();
+            db.forEach(s => { 
+                if(s.themes && Array.isArray(s.themes)) {
+                    s.themes.forEach(t => allThemes.add(t));
+                }
+            });
+            const filterOptions = ['全部', '⚡ BUY', '🟡 FLU', ...Array.from(allThemes).sort()];
+
+            tagContainer.innerHTML = filterOptions.map(tag => {
+                const isActive = (currentFilterTag === tag);
+                let typeClass = 'tag-all';
+                if (tag === '⚡ BUY' || tag === '🟡 FLU') typeClass = 'tag-status';
+                else if (tag !== '全部') typeClass = 'tag-theme';
+                return `<button onclick="setSidebarFilter('${tag}')" class="tag-btn ${typeClass} ${isActive ? 'active' : ''} mr-1 mb-1">${tag}</button>`;
+            }).join('');
+
+            // --- 2. 篩選資料 (保留原本搜尋 q，新增標籤過濾) ---
             let cats = {};
-            
             db.forEach(s => {
+                // 原本的搜尋過濾
                 if(q && !s.id.includes(q) && !s.name.includes(q)) return;
+                
+                // [新增] 標籤按鈕過濾邏輯
+                if(currentFilterTag !== '全部') {
+                    const matchesStatus = (s.status === currentFilterTag);
+                    const matchesTheme = (s.themes && s.themes.includes(currentFilterTag));
+                    if(!matchesStatus && !matchesTheme) return;
+                }
+
                 const c = s.industry_analysis?.sector || s.category || "關注清單";
                 if(!cats[c]) cats[c] = [];
                 cats[c].push(s);
             });
 
+            // --- 3. 渲染清單 (完全保留您原本的燈號與 HTML 結構) ---
             for(let [cat, items] of Object.entries(cats)) {
                 const grp = document.createElement('div');
                 grp.className = "mb-4";
@@ -821,67 +886,66 @@
                 
                 items.forEach(s => {
                     const d = document.createElement('div');
-                    let style = "border-transparent bg-white shadow-sm";
-                    if(currentStockId === s.id) style += " border-l-8 border-l-[#8B7355] ring-1 ring-[#8B7355]/30 transform translate-x-1";
                     
+                    // 1. 處理選中狀態的樣式
+                    let style = "border-transparent bg-white shadow-sm";
+                    if(currentStockId === s.id) {
+                        style = "border-[#8B7355] bg-white ring-1 ring-[#8B7355] transform translate-x-1";
+                    }
+
                     const chgStr = s.basicInfo.change || "0";
                     const chg = parseFloat(chgStr);
                     const col = chg >= 0 ? "text-[#C0392B]" : "text-[#16A34A]";
 
-// Signal Light Logic (修改：支援多模型 & 兼容 Gemini JSON)
+                    // 2. 處理原本的 AI 訊號燈號 (小圓點)
                     let signalHtml = '';
                     let allForecasts = [];
-
-                    // 1. 取得 ai_forecasts 陣列資料
-                    if (s.ai_forecasts && Array.isArray(s.ai_forecasts)) {
-                        allForecasts = [...s.ai_forecasts];
-                    }
-
-                    // 2. 取得 technical_analysis.predictions 資料 (Gemini JSON 格式)
-                    // 若該模型尚未存在於 allForecasts 中，則加入顯示
+                    if (s.ai_forecasts && Array.isArray(s.ai_forecasts)) allForecasts = [...s.ai_forecasts];
                     if (s.technical_analysis && s.technical_analysis.predictions) {
                         const legacyP = s.technical_analysis.predictions;
-                        const exists = allForecasts.some(f => f.model_name === legacyP.model_name);
-                        if (!exists && legacyP.current_signal) {
-                            allForecasts.push(legacyP);
-                        }
+                        if (!allForecasts.some(f => f.model_name === legacyP.model_name)) allForecasts.push(legacyP);
                     }
-
-                    // 3. 遍歷所有預測，產生對應燈號
                     allForecasts.forEach(f => {
                         const sig = (f.current_signal || '').toLowerCase();
-                        let sigClass = '';
-                        
-                        if(sig === 'buy') sigClass = 'signal-buy';
-                        else if(sig === 'sell') sigClass = 'signal-sell';
-                        else if(sig === 'hold') sigClass = 'signal-hold';
-                        
-                        if(sigClass) {
-                            // 加入 title 屬性，滑鼠移上去可以看到是哪個模型
-                            const mName = f.model_name || 'AI';
-                            signalHtml += `<span class="signal-light ${sigClass}" title="${mName}: ${sig.toUpperCase()}"></span>`;
-                        }
+                        let sigClass = (sig === 'buy') ? 'signal-buy' : (sig === 'sell' ? 'signal-sell' : (sig === 'hold' ? 'signal-hold' : ''));
+                        if(sigClass) signalHtml += `<span class="signal-light ${sigClass}" title="${f.model_name}"></span>`;
                     });
-                    
-                    d.className = `p-2 rounded-lg border transition-all hover:shadow-sm flex items-center ${style}`;
+
+                    // 3. 處理狀態小標示 (放在名字上方)
+                    let statusBadgeHtml = '';
+                    if (s.status === '⚡ BUY') statusBadgeHtml = '<div class="mini-status-badge badge-buy">⚡ BUY</div>';
+                    else if (s.status === '🟡 FLU') statusBadgeHtml = '<div class="mini-status-badge badge-flu">🟡 FLU</div>';
+
+                    // 4. 處理代號右側的題材標籤 (限制顯示2個)
+                    let themeBadgesHtml = (s.themes || []).slice(0, 2).map(t => `<span class="sidebar-theme-tag">${t}</span>`).join('');
+
+                    // 5. 組裝最終 HTML 結構
+                    d.className = `p-2 rounded-lg border transition-all hover:shadow-md flex items-center ${style}`;
                     d.innerHTML = `
                         <div class="flex-1 min-w-0 cursor-pointer" onclick="loadStock('${s.id}')">
-                            <div class="flex justify-between items-center mb-0.5">
+                            ${statusBadgeHtml}
+                            <div class="flex justify-between items-center">
                                 <div class="text-[1.1rem] font-bold text-[#2C3E50] leading-tight truncate">${s.name}</div>
-                                <div class="text-right ml-2">
-                                    <div class="font-mono text-base font-bold text-gray-800 flex items-center">${signalHtml} ${s.basicInfo.price}</div>
+                                <div class="text-right ml-2 flex items-center">
+                                    ${signalHtml}
+                                    <span class="font-mono text-base font-bold text-gray-800 ml-1">${s.basicInfo.price}</span>
                                 </div>
                             </div>
-                            <div class="flex justify-between items-center">
-                                <div class="text-xs font-mono text-gray-400 font-bold">${s.id}</div>
+                            <div class="flex justify-between items-center mt-0.5">
+                                <div class="flex items-center min-w-0">
+                                    <span class="text-xs font-mono text-gray-400 font-bold">${s.id}</span>
+                                    <div class="flex overflow-hidden ml-1">${themeBadgesHtml}</div>
+                                </div>
                                 <div class="text-xs font-bold ${col}">${s.basicInfo.changePercent}</div>
                             </div>
                         </div>
-                        <button onclick="deleteStock('${s.id}', event)" class="ml-3 text-gray-300 hover:text-red-500 transition px-2 py-4" title="刪除此股票"><i class="fas fa-trash-alt"></i></button>
+                        <button onclick="deleteStock('${s.id}', event)" class="ml-2 text-gray-300 hover:text-red-500 transition p-2">
+                            <i class="fas fa-trash-alt text-[12px]"></i>
+                        </button>
                     `;
                     ul.appendChild(d);
                 });
-                new Sortable(ul, { animation:150 });
+                new Sortable(ul, { animation:150 }); // 保留 Sortable
                 grp.appendChild(ul);
                 el.appendChild(grp);
             }
@@ -1275,7 +1339,22 @@
                 document.getElementById('tech_analysis_container').innerHTML = `<p class="text-base text-gray-700 leading-8 text-justify font-medium">--</p>`;
             }
 
-            renderKLineChart(currentKLineData, 'D', s.technical_analysis); 
+            renderKLineChart(currentKLineData, 'D', s.technical_analysis);
+
+            // --- 更新標籤 UI 狀態 ---
+            // 1. 更新狀態按鈕顏色 (⚡ BUY / 🟡 FLU)
+            const btnBuy = document.getElementById('btn_status_buy');
+            const btnFlu = document.getElementById('btn_status_flu');
+            if(btnBuy) btnBuy.classList.toggle('active', s.status === '⚡ BUY');
+            if(btnFlu) btnFlu.classList.toggle('active', s.status === '🟡 FLU');
+
+            // 2. 渲染已掛載的題材標籤 (Themes)
+            const themeList = document.getElementById('activeThemesList');
+            if(themeList) {
+                themeList.innerHTML = (s.themes || []).map(t => 
+                    `<span class="tag-btn tag-theme active">${t} <i class="fas fa-times ml-1 opacity-50 cursor-pointer" onclick="removeTheme('${t}')"></i></span>`
+                ).join('');
+            }
             updateStrikeZone(s);
 
 // Render AI Predictions (From New Source Logic)
@@ -1956,8 +2035,64 @@ if (forecasts.length === 0) {
             entryLabel.innerText = `買點區: ${pred.entry_zone}`;
             exitLabel.innerText = `賣點區: ${pred.exit_zone}`;
         }
+        // --- [新增] 標籤管理功能函數群 ---
+
+        // 1. 設定側邊欄的過濾條件 (點擊頂部按鈕時觸發)
+        window.setSidebarFilter = function(tag) {
+            currentFilterTag = tag;
+            renderSidebar(); // 重新繪製側邊欄以執行篩選
+        }
+
+        // 2. 切換個股狀態 (⚡ BUY / 🟡 FLU)
+        window.toggleStockStatus = function(status) {
+            if (!currentStockId) return;
+            const s = db.find(x => x.id === currentStockId);
+            if (!s) return;
+            
+            // 如果點擊已選中的狀態，則取消 (Toggle 邏輯)
+            s.status = (s.status === status) ? null : status;
+            
+            saveToLocal();       // 儲存至瀏覽器
+            loadStock(currentStockId); // 刷新儀表板按鈕顏色
+            renderSidebar();     // 刷新側邊欄按鈕狀態
+        }
+
+        // 3. 處理「題材標籤」輸入 (按下 Enter 時觸發)
+        window.handleThemeInput = function(e) {
+            if (e.key === 'Enter' && currentStockId) {
+                const val = e.target.value.trim();
+                if (!val) return;
+                
+                const s = db.find(x => x.id === currentStockId);
+                if (!s) return;
+                
+                if (!s.themes) s.themes = []; // 防呆：確保 themes 陣列存在
+                
+                // 若題材不存在才加入 (避免重複)
+                if (!s.themes.includes(val)) {
+                    s.themes.push(val);
+                    saveToLocal();
+                    loadStock(currentStockId);
+                    renderSidebar();
+                }
+                e.target.value = ""; // 清空輸入框
+            }
+        }
+
+        // 4. 移除特定的「題材標籤」
+        window.removeTheme = function(theme) {
+            if (!currentStockId) return;
+            const s = db.find(x => x.id === currentStockId);
+            if (s && s.themes) {
+                s.themes = s.themes.filter(t => t !== theme); // 過濾掉該標籤
+                saveToLocal();
+                loadStock(currentStockId);
+                renderSidebar();
+            }
+        }
     </script>
 </body>
 </html>
+
 
 
