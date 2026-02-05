@@ -9,6 +9,7 @@
     <script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.15.0/Sortable.min.js"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     
     <style>
         /* 1. 基礎設定 */
@@ -115,6 +116,16 @@
         .th-tooltip { position: relative; cursor: help; text-decoration: underline dotted #999; }
         .th-tooltip:hover::after { content: attr(data-tip); position: absolute; bottom: 100%; left: 50%; transform: translateX(-50%); background: #2D3748; color: #fff; padding: 8px 12px; border-radius: 6px; font-size: 12px; width: 240px; text-align: center; z-index: 9999; margin-bottom: 8px; white-space: pre-wrap; pointer-events: none; }
         .th-tooltip:hover::before { content: ''; position: absolute; bottom: 100%; left: 50%; transform: translateX(-50%); border-width: 6px; border-style: solid; border-color: #2D3748 transparent transparent transparent; margin-bottom: -4px; z-index: 9999; }
+        /* Markdown 預覽樣式優化 */
+        #d_chatgpt_preview h1 { font-size: 1.5rem; font-weight: 800; color: #5A4A42; margin-top: 1.5rem; margin-bottom: 1rem; border-bottom: 2px solid #E5E0D8; padding-bottom: 0.5rem; }
+        #d_chatgpt_preview h2 { font-size: 1.25rem; font-weight: 700; color: #8B7355; margin-top: 1.25rem; margin-bottom: 0.75rem; border-left: 4px solid #8B7355; padding-left: 0.5rem; }
+        #d_chatgpt_preview h3 { font-size: 1.1rem; font-weight: 700; margin-top: 1rem; color: #374151; }
+        #d_chatgpt_preview p { margin-bottom: 1rem; line-height: 1.8; }
+        #d_chatgpt_preview ul { list-style-type: disc; margin-left: 1.5rem; margin-bottom: 1rem; }
+        #d_chatgpt_preview li { margin-bottom: 0.5rem; }
+        #d_chatgpt_preview strong { color: #2C3E50; font-weight: 900; }
+        #d_chatgpt_preview hr { border: 0; border-top: 2px solid #E5E0D8; margin: 2rem 0; }
+        #d_chatgpt_preview blockquote { border-left: 4px solid #8B7355; padding: 1rem; margin: 1rem 0; background: #F9F7F2; border-radius: 0 8px 8px 0; font-style: italic; color: #4B5563; }
     </style>
 </head>
 <body class="flex flex-col">
@@ -337,14 +348,24 @@
                     </div>
                 </div>
 
-                <!-- ChatGPT 綜合衡量判斷 (手動紀錄區) -->
+                <!-- ChatGPT 綜合衡量判斷 (Markdown 格式化版) -->
                 <div class="glass-panel overflow-hidden border-l-[8px] border-[#8B7355] mt-8">
-                    <div onclick="document.getElementById('chatgpt_body').classList.toggle('hidden')" class="header-title !mb-0 px-6 py-3 bg-[#F5F2EB] cursor-pointer flex justify-between items-center hover:bg-[#ECE8DE] transition text-[#5A4A42]">
-                        <span><i class="fas fa-robot mr-2"></i>ChatGPT 綜合衡量判斷 (手動紀錄)</span>
-                        <i class="fas fa-chevron-down text-[#8B7355] text-sm"></i>
+                    <div class="header-title !mb-0 px-6 py-3 bg-[#F5F2EB] flex justify-between items-center text-[#5A4A42]">
+                        <span onclick="document.getElementById('chatgpt_body').classList.toggle('hidden')" class="cursor-pointer">
+                            <i class="fas fa-robot mr-2"></i>ChatGPT 綜合衡量判斷 (手動紀錄)
+                        </span>
+                        <div class="flex items-center gap-4">
+                            <button id="cg_edit_btn" onclick="toggleCGEdit()" class="text-xs bg-[#8B7355] text-white px-3 py-1 rounded-full hover:bg-[#6e5a40] transition shadow-sm font-bold">
+                                <i class="fas fa-edit mr-1"></i>編輯模式
+                            </button>
+                            <i class="fas fa-chevron-down text-[#8B7355] text-sm cursor-pointer" onclick="document.getElementById('chatgpt_body').classList.toggle('hidden')"></i>
+                        </div>
                     </div>
                     <div id="chatgpt_body" class="p-6 bg-[#FFFDF5]">
-                        <textarea id="d_chatgpt" class="w-full h-80 bg-transparent border-none text-base resize-none focus:ring-0 leading-relaxed text-gray-700 font-medium p-0" placeholder="在此貼上 ChatGPT 的分析建議..."></textarea>
+                        <!-- 預覽顯示區 -->
+                        <div id="d_chatgpt_preview" class="text-gray-700 min-h-[100px]"></div>
+                        <!-- 實際編輯區 -->
+                        <textarea id="d_chatgpt" class="hidden w-full h-96 bg-white border-2 border-dashed border-[#DCD6C9] rounded-lg p-4 text-base resize-none focus:ring-0 leading-relaxed text-gray-700 font-mono shadow-inner" placeholder="在此貼上 ChatGPT 文字..."></textarea>
                     </div>
                 </div>
                 
@@ -1050,15 +1071,37 @@
             const m = document.getElementById('d_memo');
             m.value = s.memo||"";
             m.oninput = ()=>{ const target = db.find(x => x.id === currentStockId); if(target) { target.memo = m.value; saveToLocal(); } };
-            // 處理 ChatGPT 判斷區塊的手動存檔
+            // --- 處理 ChatGPT 判斷區塊的顯示與編輯 (Markdown 版) ---
             const cg = document.getElementById('d_chatgpt');
+            const cgp = document.getElementById('d_chatgpt_preview');
+            const cgBtn = document.getElementById('cg_edit_btn');
+
             cg.value = s.chatgpt_judgment || "";
+            // 載入時自動渲染預覽
+            cgp.innerHTML = cg.value ? marked.parse(cg.value) : '<span class="text-gray-300 italic">點擊編輯模式貼入內容...</span>';
+            
+            // 預設切換回預覽模式
+            cg.classList.add('hidden');
+            cgp.classList.remove('hidden');
+            cgBtn.innerHTML = '<i class="fas fa-edit mr-1"></i>編輯模式';
+
             cg.oninput = () => { 
                 const target = db.find(x => x.id === currentStockId); 
-                if(target) { 
-                    target.chatgpt_judgment = cg.value; 
-                    saveToLocal(); 
-                } 
+                if(target) { target.chatgpt_judgment = cg.value; saveToLocal(); } 
+            };
+
+            // 此函數放在全域或 loadStock 內皆可，建議確保全域可存取
+            window.toggleCGEdit = function() {
+                if (cg.classList.contains('hidden')) {
+                    cg.classList.remove('hidden'); cgp.classList.add('hidden');
+                    cgBtn.innerHTML = '<i class="fas fa-check mr-1"></i>完成預覽';
+                    cg.focus();
+                } else {
+                    cg.classList.add('hidden'); cgp.classList.remove('hidden');
+                    cgBtn.innerHTML = '<i class="fas fa-edit mr-1"></i>編輯模式';
+                    // 點擊完成時重新渲染 Markdown
+                    cgp.innerHTML = cg.value ? marked.parse(cg.value) : '<span class="text-gray-300 italic">無內容</span>';
+                }
             };
 
             // 0. Industry Analysis
