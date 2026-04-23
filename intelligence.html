@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>情報中心 - bbb 投資戰情室</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <style>
+        :root { --bg: #F9F7F2; --text: #374151; --border: #E5E7EB; }
+        body { background: var(--bg); color: var(--text); font-family: -apple-system, BlinkMacSystemFont, "Microsoft JhengHei", sans-serif; }
+        
+        .glass-panel { background: white; border: 1px solid var(--border); box-shadow: 0 4px 6px rgba(0,0,0,0.02); border-radius: 12px; }
+        .header-title { font-size: 1.1rem; font-weight: 800; color: #4B5563; border-bottom: 2px solid var(--border); padding-bottom: 0.75rem; margin-bottom: 1rem; display: flex; align-items: center; }
+        
+        /* 箭頭樣式 (共用) */
+        .arrow-up { display: inline-block; width: 0; height: 0; border-left: 5px solid transparent; border-right: 5px solid transparent; border-bottom: 8px solid #DC2626; margin: 0 4px; vertical-align: middle; }
+        .arrow-down { display: inline-block; width: 0; height: 0; border-left: 5px solid transparent; border-right: 5px solid transparent; border-top: 8px solid #16A34A; margin: 0 4px; vertical-align: middle; }
+        
+        /* 題材標籤 */
+        .theme-pill { @apply bg-[#F5F2EB] border border-[#DCD6C9] text-[#8B7355] px-3 py-1 rounded-full text-xs font-bold shadow-sm inline-block; }
+        .stock-tag { @apply bg-white border border-gray-200 text-gray-600 px-2 py-0.5 rounded text-[11px] font-bold shadow-sm; }
+        
+        /* 滾動條美化 */
+        ::-webkit-scrollbar { width: 6px; }
+        ::-webkit-scrollbar-track { background: transparent; }
+        ::-webkit-scrollbar-thumb { background: #DCD6C9; border-radius: 4px; }
+        ::-webkit-scrollbar-thumb:hover { background: #8B7355; }
+    </style>
+</head>
+<body class="min-h-screen flex flex-col h-screen overflow-hidden">
+
+    <!-- Header -->
+    <header class="bg-[#ECE8DE] h-16 flex items-center px-6 border-b border-[#DCD6C9] justify-between shrink-0 shadow-sm z-50">
+        <div class="font-black text-2xl tracking-widest text-[#5A4A42]">bbb INTELLIGENCE <span class="text-sm font-medium text-gray-500 ml-1">情報中心</span></div>
+        <div class="flex items-center gap-4">
+            <a href="index.html" class="bg-gray-700 text-white px-4 py-2 rounded-full text-sm font-bold shadow hover:bg-gray-800 transition flex items-center gap-2">
+                <i class="fas fa-home"></i> 回戰情室
+            </a>
+            <a href="overview.html" class="bg-blue-600 text-white px-4 py-2 rounded-full text-sm font-bold shadow hover:bg-blue-700 transition flex items-center gap-2">
+                <i class="fas fa-th-large"></i> 總覽牆
+            </a>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="flex-1 overflow-hidden p-4 md:p-6 max-w-[1600px] mx-auto w-full">
+        <div class="grid grid-cols-1 lg:grid-cols-3 gap-6 h-full">
+            
+            <!-- Column 1: 熱門題材聚落 -->
+            <div class="glass-panel flex flex-col h-full overflow-hidden">
+                <div class="p-5 pb-0">
+                    <div class="header-title text-[#8B7355]"><i class="fas fa-tags mr-2"></i>熱門題材聚落 (Themes)</div>
+                </div>
+                <div class="p-5 pt-2 flex-1 overflow-y-auto space-y-4" id="themes_container">
+                    <div class="text-gray-400 text-sm italic text-center py-10">資料載入中...</div>
+                </div>
+            </div>
+
+            <!-- Column 2: 近期事件與大展行事曆 -->
+            <div class="glass-panel flex flex-col h-full overflow-hidden">
+                <div class="p-5 pb-0">
+                    <div class="header-title text-[#8B7355]"><i class="far fa-calendar-alt mr-2"></i>事件與法說會 (Events)</div>
+                </div>
+                <div class="p-5 pt-2 flex-1 overflow-y-auto" id="events_container">
+                    <div class="text-gray-400 text-sm italic text-center py-10">資料載入中...</div>
+                </div>
+            </div>
+
+            <!-- Column 3: 最新情報動態 -->
+            <div class="glass-panel flex flex-col h-full overflow-hidden bg-[#FFFDF5] border-[#E8E0C0]">
+                <div class="p-5 pb-0">
+                    <div class="header-title text-[#8B7355] border-[#DCD6C9]"><i class="fas fa-bolt mr-2 text-yellow-500"></i>最新情報動態 (News Feed)</div>
+                </div>
+                <div class="p-5 pt-2 flex-1 overflow-y-auto space-y-3 pr-4" id="news_container">
+                    <div class="text-gray-400 text-sm italic text-center py-10">資料載入中...</div>
+                </div>
+            </div>
+
+        </div>
+    </main>
+
+    <script>
+        window.onload = () => {
+            const localData = localStorage.getItem('bbb_db_v5');
+            const db = localData ? JSON.parse(localData) : [];
+            
+            if (db.length === 0) {
+                document.getElementById('themes_container').innerHTML = '<div class="text-center text-gray-400 py-10">無資料</div>';
+                document.getElementById('events_container').innerHTML = '<div class="text-center text-gray-400 py-10">無資料</div>';
+                document.getElementById('news_container').innerHTML = '<div class="text-center text-gray-400 py-10">無資料</div>';
+                return;
+            }
+
+            let themeMap = {};
+            let allEvents = [];
+            let allNews = [];
+
+            // 解析資料
+            db.forEach(s => {
+                const stockNameHtml = `<span class="font-bold text-gray-800 text-xs mr-2 shrink-0">[${s.name}]</span>`;
+
+                // 1. 解析題材 Themes
+                if (s.themes && Array.isArray(s.themes)) {
+                    s.themes.forEach(t => {
+                        if (!themeMap[t]) themeMap[t] = [];
+                        // 避免重複放入同一檔股票
+                        if (!themeMap[t].some(x => x.id === s.id)) {
+                            themeMap[t].push({ id: s.id, name: s.name });
+                        }
+                    });
+                }
+
+                // 2. 解析事件 Events (相容新舊格式)
+                const events = (s.ai_message_board && s.ai_message_board.right_events) || (s.news_events && s.news_events.calendar) || [];
+                events.forEach(e => {
+                    if (e.date && e.event) {
+                        allEvents.push({ date: e.date, event: e.event, stockName: s.name, stockId: s.id });
+                    }
+                });
+
+                // 3. 解析情報 News (相容新舊格式)
+                const newsList = (s.ai_message_board && s.ai_message_board.left_messages) || (s.news_events && s.news_events.news) || [];
+                newsList.forEach(n => {
+                    let text = n.content || n.title;
+                    let tag = n.tag || (n.type ? (n.type.includes('news') ? '新聞' : '情報') : '情報');
+                    let sentiment = n.sentiment; 
+                    if(sentiment === undefined && n.type) {
+                        sentiment = n.type.includes('pos') ? 1 : (n.type.includes('neg') ? -1 : 0);
+                    }
+                    if (text && n.date) {
+                        allNews.push({ date: n.date, content: text, tag: tag, sentiment: sentiment, stockName: s.name, stockId: s.id });
+                    }
+                });
+            });
+
+            // 排序與渲染：題材 (依照包含的股票數量降序排列)
+            const sortedThemes = Object.entries(themeMap).sort((a, b) => b[1].length - a[1].length);
+            let themesHtml = '';
+            if (sortedThemes.length === 0) {
+                themesHtml = '<div class="text-gray-400 text-sm italic text-center py-4">尚無股票設定題材標籤</div>';
+            } else {
+                sortedThemes.forEach(([theme, stocks]) => {
+                    const stocksHtml = stocks.map(st => `<span class="stock-tag">${st.name}</span>`).join(' ');
+                    themesHtml += `
+                        <div class="border border-gray-100 rounded-lg p-3 bg-white shadow-sm hover:shadow-md transition">
+                            <div class="flex justify-between items-center mb-2">
+                                <span class="theme-pill">${theme}</span>
+                                <span class="text-xs font-bold text-gray-400 bg-gray-100 px-2 py-0.5 rounded-full">${stocks.length} 檔</span>
+                            </div>
+                            <div class="flex flex-wrap gap-1.5 pl-1">
+                                ${stocksHtml}
+                            </div>
+                        </div>
+                    `;
+                });
+            }
+            document.getElementById('themes_container').innerHTML = themesHtml;
+
+            // 排序與渲染：事件 (依照日期降序排列，越新的在越上面，也可以改成升序看未來事件)
+            allEvents.sort((a, b) => new Date(b.date) - new Date(a.date));
+            let eventsHtml = '';
+            if (allEvents.length === 0) {
+                eventsHtml = '<div class="text-gray-400 text-sm italic text-center py-4">近期無重大事件</div>';
+            } else {
+                let lastDate = '';
+                // 取前 50 筆避免太長
+                allEvents.slice(0, 50).forEach(e => {
+                    // 若日期不同，加上日期分隔線
+                    if (e.date !== lastDate) {
+                        eventsHtml += `<div class="font-mono text-[#8B7355] text-xs font-bold mt-4 mb-1 border-b border-[#E5E0D8] pb-1"><i class="fas fa-flag mr-1"></i>${e.date}</div>`;
+                        lastDate = e.date;
+                    }
+                    eventsHtml += `
+                        <div class="flex items-start gap-2 mb-3 pl-2">
+                            <div class="bg-gray-100 text-gray-600 text-[10px] font-bold px-1.5 py-0.5 rounded whitespace-nowrap mt-0.5">${e.stockName}</div>
+                            <div class="text-sm text-gray-700 font-medium leading-snug">${e.event}</div>
+                        </div>
+                    `;
+                });
+            }
+            document.getElementById('events_container').innerHTML = eventsHtml;
+
+            // 排序與渲染：情報 (依照日期降序排列)
+            allNews.sort((a, b) => new Date(b.date) - new Date(a.date));
+            let newsHtml = '';
+            if (allNews.length === 0) {
+                newsHtml = '<div class="text-gray-400 text-sm italic text-center py-4">近期無情報更新</div>';
+            } else {
+                // 取前 60 筆
+                allNews.slice(0, 60).forEach(m => {
+                    let arrow = '';
+                    if (m.sentiment === 'positive' || m.sentiment === 1) arrow = '<span class="arrow-up"></span>';
+                    else if (m.sentiment === 'negative' || m.sentiment === -1) arrow = '<span class="arrow-down"></span>';
+                    else arrow = '<span class="inline-block w-[14px]"></span>'; // 佔位符
+                    
+                    let tagHtml = m.tag ? `<span class="bg-[#F5F2EB] text-[#8B7355] px-1 rounded text-[10px] mr-1 align-top border border-[#E8E0C0]">${m.tag}</span>` : '';
+
+                    newsHtml += `
+                        <div class="py-3 border-b border-gray-200/60 flex gap-2 items-start hover:bg-white transition rounded px-2 -mx-2">
+                            <div class="flex flex-col items-end shrink-0 w-20 pt-0.5 gap-1">
+                                <span class="font-mono text-gray-400 text-[11px]">${m.date.substring(5)}</span>
+                                <span class="text-xs font-black text-[#2C3E50]">${m.stockName}</span>
+                            </div>
+                            <div class="pt-1 shrink-0">${arrow}</div>
+                            <div class="text-gray-700 text-sm leading-relaxed flex-1">
+                                ${tagHtml}${m.content}
+                            </div>
+                        </div>
+                    `;
+                });
+            }
+            document.getElementById('news_container').innerHTML = newsHtml;
+        };
+    </script>
+</body>
+</html>
