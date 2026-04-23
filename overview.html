@@ -69,11 +69,10 @@
                 return;
             }
 
-            stats.innerHTML = `<span class="bg-[#8B7355] text-white px-3 py-1 rounded-full">監控庫存：${db.length} 檔</span>`;
+            stats.innerHTML = `<span class="bg-[#8B7355] text-white px-3 py-1 rounded-full shadow-sm">監控庫存：${db.length} 檔</span>`;
 
             let cardsHtml = '';
 
-            // 遍歷所有股票
             db.forEach(s => {
                 const name = s.name || '--';
                 const id = s.id || '--';
@@ -84,79 +83,96 @@
                 const updateDate = s.lastUpdated || '-';
                 const status = s.technical_analysis?.status || '等待分析';
                 
-                // 1. 收集預測模型 (合併新舊資料結構)
+                // 1. 收集預測模型
                 let allPreds = [];
-                if (s.ai_forecasts && Array.isArray(s.ai_forecasts)) {
-                    allPreds = [...s.ai_forecasts];
-                }
+                if (s.ai_forecasts && Array.isArray(s.ai_forecasts)) allPreds = [...s.ai_forecasts];
                 if (s.technical_analysis?.predictions) {
                     const legacy = s.technical_analysis.predictions;
-                    if (!allPreds.some(p => p.model_name === legacy.model_name)) {
-                        allPreds.push(legacy);
-                    }
+                    if (!allPreds.some(p => p.model_name === legacy.model_name)) allPreds.push(legacy);
                 }
 
-                // 2. 構建好球帶 HTML 邏輯
+                // 2. 新版好球帶 HTML：以現價為中心 (0%) 的對稱等比例尺標
                 let strikeZoneHtml = '';
                 
-                if (allPreds.length > 0 && price !== '-') {
+                if (allPreds.length > 0 && price !== '-' && parseFloat(price) > 0) {
                     const curPrice = parseFloat(price);
-                    let allValues = [curPrice];
                     
-                    // 找出邊界計算比例
-                    allPreds.forEach(p => {
-                        if (p.entry_zone && p.exit_zone) {
-                            const e = p.entry_zone.split('-').map(Number);
-                            const x = p.exit_zone.split('-').map(Number);
-                            allValues.push(...e, ...x);
-                        }
+                    // 用來找出最大的漲跌幅 %，以設定對稱邊界
+                    let maxAbsPct = 5; // 預設最少顯示 ±5% 的刻度
+                    let parsedModels = [];
+
+                    allPreds.forEach((p, idx) => {
+                        if(!p.entry_zone || !p.exit_zone) return;
+                        const e = p.entry_zone.split('-').map(Number);
+                        const x = p.exit_zone.split('-').map(Number);
+                        const mName = p.model_name || `AI-${idx+1}`;
+
+                        // 計算進出場相對於現價的 % 數
+                        const ePct = e.map(v => ((v - curPrice) / curPrice) * 100);
+                        const xPct = x.map(v => ((v - curPrice) / curPrice) * 100);
+
+                        // 更新最大邊界
+                        maxAbsPct = Math.max(maxAbsPct, Math.abs(ePct[0]), Math.abs(ePct[1]), Math.abs(xPct[0]), Math.abs(xPct[1]));
+
+                        parsedModels.push({ name: mName, entry: e, exit: x, ePct, xPct });
                     });
 
-                    // 濾除 NaN 並計算 Max/Min
-                    allValues = allValues.filter(v => !isNaN(v));
-                    const minScale = Math.min(...allValues) * 0.95;
-                    const maxScale = Math.max(...allValues) * 1.05;
-                    const totalRange = maxScale - minScale;
+                    // 加上 15% 的視覺留白，確保圖形不會頂到最邊緣
+                    const scaleBound = maxAbsPct * 1.15; 
                     
-                    // 比例計算函數
-                    const getPos = (val) => Math.max(0, Math.min(100, ((val - minScale) / totalRange) * 100));
+                    // 轉換公式：將 -scaleBound ~ +scaleBound 的 % 數，映射到 0% ~ 100% 的 HTML 寬度
+                    const getPos = (pct) => 50 + (pct / scaleBound) * 50;
 
                     let barZonesHtml = '';
                     let labelsHtml = '';
 
-                    allPreds.forEach((p, idx) => {
-                        if(!p.entry_zone || !p.exit_zone) return;
-                        const entry = p.entry_zone.split('-').map(Number);
-                        const exit = p.exit_zone.split('-').map(Number);
-                        const mName = p.model_name || `AI-${idx+1}`;
-
+                    parsedModels.forEach(m => {
                         // 買區 (綠色)
-                        const leftBuy = getPos(entry[0]);
-                        const widthBuy = getPos(entry[1]) - leftBuy;
-                        barZonesHtml += `<div class="pb-zone pb-buy-zone" style="left: ${leftBuy}%; width: ${widthBuy}%;"></div>`;
+                        const leftBuy = getPos(m.ePct[0]);
+                        const widthBuy = getPos(m.ePct[1]) - leftBuy;
+                        barZonesHtml += `<div class="absolute h-full bg-green-500/40 rounded-sm" style="left: ${leftBuy}%; width: ${widthBuy}%;"></div>`;
 
                         // 賣區 (紅色)
-                        const leftSell = getPos(exit[0]);
-                        const widthSell = getPos(exit[1]) - leftSell;
-                        barZonesHtml += `<div class="pb-zone pb-sell-zone" style="left: ${leftSell}%; width: ${widthSell}%;"></div>`;
+                        const leftSell = getPos(m.xPct[0]);
+                        const widthSell = getPos(m.xPct[1]) - leftSell;
+                        barZonesHtml += `<div class="absolute h-full bg-red-500/40 rounded-sm" style="left: ${leftSell}%; width: ${widthSell}%;"></div>`;
 
-                        // 文字標籤
+                        // 計算平均報酬 % 供文字顯示
+                        const avgEntryPct = (m.ePct[0] + m.ePct[1]) / 2;
+                        const avgExitPct = (m.xPct[0] + m.xPct[1]) / 2;
+
                         labelsHtml += `
-                            <div class="model-tag-line">
-                                <div><span class="model-name-label">${mName}</span><span class="text-green-600 font-bold">買: ${p.entry_zone}</span></div>
-                                <div class="text-red-600 font-bold text-right">賣: ${p.exit_zone}</div>
+                            <div class="flex justify-between items-center text-[11px] mb-1.5 border-b border-gray-100 pb-1">
+                                <div class="flex items-center gap-1.5">
+                                    <span class="font-bold text-gray-500 bg-gray-100 px-1.5 rounded">${m.name}</span>
+                                    <span class="text-green-600 font-medium">買: ${m.entry.join('-')} <span class="font-bold text-[10px]">(${avgEntryPct>0?'+':''}${avgEntryPct.toFixed(1)}%)</span></span>
+                                </div>
+                                <div class="text-red-600 font-medium">賣: ${m.exit.join('-')} <span class="font-bold text-[10px]">(${avgExitPct>0?'+':''}${avgExitPct.toFixed(1)}%)</span></div>
                             </div>
                         `;
                     });
 
-                    // 指針
-                    const curPos = getPos(curPrice);
-                    const markerHtml = `<div class="price-marker" style="left: ${curPos}%;"></div>`;
+                    // 現價永遠在正中間 (50%)
+                    const markerHtml = `
+                        <!-- 中心虛線 -->
+                        <div class="absolute top-0 bottom-0 border-l border-dashed border-gray-400 opacity-50" style="left: 50%; z-index: 10;"></div>
+                        <!-- 現價黑點 -->
+                        <div class="absolute -top-1 w-2.5 h-2.5 rounded-full bg-gray-800 shadow" style="left: calc(50% - 5px); z-index: 20; border: 1.5px solid white;"></div>
+                    `;
 
                     strikeZoneHtml = `
-                        <div class="mt-4 border-t border-gray-100 pt-4">
-                            <div class="mb-2">${labelsHtml}</div>
-                            <div class="price-bar-container">
+                        <div class="mt-4 border-t border-gray-100 pt-3">
+                            <div class="mb-3">${labelsHtml}</div>
+                            
+                            <!-- 比例尺數字 -->
+                            <div class="flex justify-between text-[9px] text-gray-400 font-mono px-1 mb-1">
+                                <span>-${Math.round(scaleBound)}%</span>
+                                <span class="font-bold text-gray-600">現價(0%)</span>
+                                <span>+${Math.round(scaleBound)}%</span>
+                            </div>
+                            
+                            <!-- 對稱進度條容器 -->
+                            <div class="relative h-[12px] bg-gray-200 rounded-full w-full overflow-hidden">
                                 ${barZonesHtml}
                                 ${markerHtml}
                             </div>
@@ -173,7 +189,6 @@
                 // 3. 組裝卡片 HTML
                 cardsHtml += `
                     <div class="glass-panel p-5 flex flex-col relative overflow-hidden">
-                        <!-- 頂部資訊區 -->
                         <div class="flex justify-between items-start mb-2">
                             <div>
                                 <h2 class="text-2xl font-extrabold text-[#2C3E50] tracking-tight">${name} <span class="text-lg font-mono text-gray-400 font-medium ml-1">${id}</span></h2>
@@ -185,7 +200,6 @@
                             </div>
                         </div>
                         
-                        <!-- 狀態標籤 -->
                         <div class="flex flex-wrap gap-2 mt-1 mb-2">
                             <span class="bg-[#F5F2EB] border border-[#DCD6C9] text-[#8B7355] px-2 py-0.5 rounded text-xs font-bold shadow-sm">
                                 <i class="fas fa-chart-line mr-1"></i>狀態: ${status}
@@ -193,7 +207,6 @@
                             ${s.status ? `<span class="bg-purple-100 text-purple-700 border border-purple-200 px-2 py-0.5 rounded text-xs font-bold">${s.status}</span>` : ''}
                         </div>
 
-                        <!-- 動態好球帶區塊 -->
                         <div class="flex-1 flex flex-col justify-end">
                             ${strikeZoneHtml}
                         </div>
