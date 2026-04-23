@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>AI 預測總覽牆 - bbb 投資戰情室</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <style>
+        :root { --bg: #F9F7F2; --text: #374151; --border: #E5E7EB; }
+        body { background: var(--bg); color: var(--text); font-family: -apple-system, BlinkMacSystemFont, "Microsoft JhengHei", sans-serif; }
+        
+        .glass-panel { background: white; border: 1px solid var(--border); box-shadow: 0 4px 6px rgba(0,0,0,0.02); border-radius: 12px; transition: transform 0.2s, box-shadow 0.2s; }
+        .glass-panel:hover { transform: translateY(-2px); box-shadow: 0 10px 15px rgba(0,0,0,0.05); border-color: #DCD6C9; }
+        
+        /* 好球帶橫條樣式 (共用主頁面邏輯) */
+        .price-bar-container { position: relative; height: 14px; background: #E5E7EB; border-radius: 7px; margin-top: 12px; width: 100%; overflow: visible; }
+        .pb-zone { position: absolute; height: 100%; opacity: 0.35; }
+        .pb-buy-zone { background-color: #22C55E; border-radius: 5px; }
+        .pb-sell-zone { background-color: #EF4444; border-radius: 5px; }
+        .price-marker { position: absolute; top: -6px; width: 4px; height: 26px; background: #1F2937; border-radius: 2px; transform: translateX(-50%); z-index: 20; border: 1px solid white; }
+        
+        .model-tag-line { display: flex; justify-content: space-between; font-size: 11px; margin-bottom: 4px; line-height: 1.2; }
+        .model-name-label { font-weight: 800; color: #6B7280; background: #F3F4F6; padding: 2px 6px; border-radius: 4px; margin-right: 6px; }
+    </style>
+</head>
+<body class="min-h-screen flex flex-col overflow-y-auto">
+
+    <!-- Header -->
+    <header class="bg-[#ECE8DE] h-16 flex items-center px-6 border-b border-[#DCD6C9] justify-between sticky top-0 z-50 shadow-sm">
+        <div class="font-black text-2xl tracking-widest text-[#5A4A42]">bbb OVERVIEW <span class="text-sm font-medium text-gray-500 ml-1">AI 預測總覽</span></div>
+        <div class="flex items-center gap-4">
+            <!-- 返回主頁面的按鈕 (請確認你主頁面的檔名，例如 index.html) -->
+            <a href="index.html" class="bg-gray-700 text-white px-4 py-2 rounded-full text-sm font-bold shadow hover:bg-gray-800 transition flex items-center gap-2">
+                <i class="fas fa-arrow-left"></i> 回戰情室
+            </a>
+        </div>
+    </header>
+
+    <!-- Main Content: Stock Cards Grid -->
+    <main class="p-6 md:p-8 max-w-[1600px] mx-auto w-full">
+        <div id="overview-stats" class="mb-6 text-gray-500 font-bold flex gap-4 text-sm">
+            <!-- JS 動態填寫統計 -->
+        </div>
+
+        <div id="cards-container" class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6">
+            <!-- 卡片將由 JS 動態生成 -->
+        </div>
+
+        <div id="empty-state" class="hidden flex flex-col items-center justify-center py-20 text-gray-400">
+            <i class="fas fa-box-open text-6xl mb-4 opacity-50"></i>
+            <p class="text-xl font-bold">目前資料庫中沒有股票資料</p>
+            <p class="text-sm mt-2">請先至戰情室首頁匯入 JSON 資料</p>
+        </div>
+    </main>
+
+    <script>
+        window.onload = () => {
+            const localData = localStorage.getItem('bbb_db_v5');
+            const db = localData ? JSON.parse(localData) : [];
+            
+            const container = document.getElementById('cards-container');
+            const emptyState = document.getElementById('empty-state');
+            const stats = document.getElementById('overview-stats');
+
+            if (db.length === 0) {
+                emptyState.classList.remove('hidden');
+                return;
+            }
+
+            stats.innerHTML = `<span class="bg-[#8B7355] text-white px-3 py-1 rounded-full">監控庫存：${db.length} 檔</span>`;
+
+            let cardsHtml = '';
+
+            // 遍歷所有股票
+            db.forEach(s => {
+                const name = s.name || '--';
+                const id = s.id || '--';
+                const price = s.basicInfo?.price || '-';
+                const changePct = s.basicInfo?.changePercent || '0%';
+                const chgColor = parseFloat(changePct) >= 0 ? "text-[#C0392B]" : "text-[#16A34A]";
+                
+                const updateDate = s.lastUpdated || '-';
+                const status = s.technical_analysis?.status || '等待分析';
+                
+                // 1. 收集預測模型 (合併新舊資料結構)
+                let allPreds = [];
+                if (s.ai_forecasts && Array.isArray(s.ai_forecasts)) {
+                    allPreds = [...s.ai_forecasts];
+                }
+                if (s.technical_analysis?.predictions) {
+                    const legacy = s.technical_analysis.predictions;
+                    if (!allPreds.some(p => p.model_name === legacy.model_name)) {
+                        allPreds.push(legacy);
+                    }
+                }
+
+                // 2. 構建好球帶 HTML 邏輯
+                let strikeZoneHtml = '';
+                
+                if (allPreds.length > 0 && price !== '-') {
+                    const curPrice = parseFloat(price);
+                    let allValues = [curPrice];
+                    
+                    // 找出邊界計算比例
+                    allPreds.forEach(p => {
+                        if (p.entry_zone && p.exit_zone) {
+                            const e = p.entry_zone.split('-').map(Number);
+                            const x = p.exit_zone.split('-').map(Number);
+                            allValues.push(...e, ...x);
+                        }
+                    });
+
+                    // 濾除 NaN 並計算 Max/Min
+                    allValues = allValues.filter(v => !isNaN(v));
+                    const minScale = Math.min(...allValues) * 0.95;
+                    const maxScale = Math.max(...allValues) * 1.05;
+                    const totalRange = maxScale - minScale;
+                    
+                    // 比例計算函數
+                    const getPos = (val) => Math.max(0, Math.min(100, ((val - minScale) / totalRange) * 100));
+
+                    let barZonesHtml = '';
+                    let labelsHtml = '';
+
+                    allPreds.forEach((p, idx) => {
+                        if(!p.entry_zone || !p.exit_zone) return;
+                        const entry = p.entry_zone.split('-').map(Number);
+                        const exit = p.exit_zone.split('-').map(Number);
+                        const mName = p.model_name || `AI-${idx+1}`;
+
+                        // 買區 (綠色)
+                        const leftBuy = getPos(entry[0]);
+                        const widthBuy = getPos(entry[1]) - leftBuy;
+                        barZonesHtml += `<div class="pb-zone pb-buy-zone" style="left: ${leftBuy}%; width: ${widthBuy}%;"></div>`;
+
+                        // 賣區 (紅色)
+                        const leftSell = getPos(exit[0]);
+                        const widthSell = getPos(exit[1]) - leftSell;
+                        barZonesHtml += `<div class="pb-zone pb-sell-zone" style="left: ${leftSell}%; width: ${widthSell}%;"></div>`;
+
+                        // 文字標籤
+                        labelsHtml += `
+                            <div class="model-tag-line">
+                                <div><span class="model-name-label">${mName}</span><span class="text-green-600 font-bold">買: ${p.entry_zone}</span></div>
+                                <div class="text-red-600 font-bold text-right">賣: ${p.exit_zone}</div>
+                            </div>
+                        `;
+                    });
+
+                    // 指針
+                    const curPos = getPos(curPrice);
+                    const markerHtml = `<div class="price-marker" style="left: ${curPos}%;"></div>`;
+
+                    strikeZoneHtml = `
+                        <div class="mt-4 border-t border-gray-100 pt-4">
+                            <div class="mb-2">${labelsHtml}</div>
+                            <div class="price-bar-container">
+                                ${barZonesHtml}
+                                ${markerHtml}
+                            </div>
+                        </div>
+                    `;
+                } else {
+                    strikeZoneHtml = `
+                        <div class="mt-4 border-t border-gray-100 pt-4 text-center text-gray-300 text-sm font-bold italic">
+                            尚無 AI 價格預測模型資料
+                        </div>
+                    `;
+                }
+
+                // 3. 組裝卡片 HTML
+                cardsHtml += `
+                    <div class="glass-panel p-5 flex flex-col relative overflow-hidden">
+                        <!-- 頂部資訊區 -->
+                        <div class="flex justify-between items-start mb-2">
+                            <div>
+                                <h2 class="text-2xl font-extrabold text-[#2C3E50] tracking-tight">${name} <span class="text-lg font-mono text-gray-400 font-medium ml-1">${id}</span></h2>
+                                <div class="text-[10px] text-gray-400 font-mono mt-1"><i class="fas fa-sync-alt mr-1"></i>${updateDate}</div>
+                            </div>
+                            <div class="text-right">
+                                <div class="text-2xl font-mono font-black ${chgColor}">${price}</div>
+                                <div class="text-xs font-bold ${chgColor}">${changePct}</div>
+                            </div>
+                        </div>
+                        
+                        <!-- 狀態標籤 -->
+                        <div class="flex flex-wrap gap-2 mt-1 mb-2">
+                            <span class="bg-[#F5F2EB] border border-[#DCD6C9] text-[#8B7355] px-2 py-0.5 rounded text-xs font-bold shadow-sm">
+                                <i class="fas fa-chart-line mr-1"></i>狀態: ${status}
+                            </span>
+                            ${s.status ? `<span class="bg-purple-100 text-purple-700 border border-purple-200 px-2 py-0.5 rounded text-xs font-bold">${s.status}</span>` : ''}
+                        </div>
+
+                        <!-- 動態好球帶區塊 -->
+                        <div class="flex-1 flex flex-col justify-end">
+                            ${strikeZoneHtml}
+                        </div>
+                    </div>
+                `;
+            });
+
+            container.innerHTML = cardsHtml;
+        };
+    </script>
+</body>
+</html>
