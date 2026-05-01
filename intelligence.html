@@ -2,232 +2,375 @@
 <html lang="zh-TW">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>情報中心 - bbb 投資戰情室</title>
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>bbb ANALYTICS - 情報中心</title>
+    <!-- 引入 FontAwesome (如果您的網站有用的話) -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <style>
-        :root { --bg: #FDFBF7; --text: #374151; --border: #E5E7EB; }
-        body { background: var(--bg); color: var(--text); font-family: -apple-system, BlinkMacSystemFont, "Microsoft JhengHei", sans-serif; }
-        
-        .glass-panel { background: white; border: 1px solid var(--border); box-shadow: 0 4px 6px rgba(0,0,0,0.02); border-radius: 12px; }
-        .header-title { font-size: 1.25rem; font-weight: 800; color: #4B5563; border-bottom: 2px solid var(--border); padding-bottom: 0.75rem; margin-bottom: 1.25rem; display: flex; align-items: center; justify-content: space-between;}
-        
-        /* 權重樣式設計 */
-        .impact-5 { border-left: 5px solid #ef4444 !important; background-color: #fffafb !important; } /* 最高權重: 重大訊息 */
-        .impact-4 { border-left: 5px solid #f97316 !important; } /* 高權重: 產業鏈題材 */
-        .impact-3 { border-left: 5px solid #3b82f6 !important; } /* 中權重: 一般新聞 */
+        /* 完美契合 bbb ANALYTICS 的配色 */
+        :root {
+            --bg-color: #f4efe6; /* 仿造截圖的背景奶茶色 */
+            --card-bg: #ffffff;
+            --text-main: #333333;
+            --text-muted: #6b7280;
+            --btn-purple: #6b46c1; /* 情報中心按鈕的紫色 */
+            --positive-bg: #dcfce7;
+            --positive-text: #166534;
+            --negative-bg: #fee2e2;
+            --negative-text: #991b1b;
+            --neutral-bg: #f3f4f6;
+            --neutral-text: #374151;
+        }
 
-        .tag-chip { font-size: 10px; padding: 2px 6px; border-radius: 4px; background: #f3f4f6; color: #4b5563; border: 1px solid #e5e7eb; font-weight: bold; }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
         
-        .arrow-up { display: inline-block; width: 0; height: 0; border-left: 6px solid transparent; border-right: 6px solid transparent; border-bottom: 10px solid #DC2626; margin: 0 6px; vertical-align: middle; }
-        .arrow-down { display: inline-block; width: 0; height: 0; border-left: 6px solid transparent; border-right: 6px solid transparent; border-top: 10px solid #16A34A; margin: 0 6px; vertical-align: middle; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans TC', sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-main);
+            padding: 20px;
+            line-height: 1.6;
+        }
+
+        .container { 
+            max-width: 1200px; 
+            margin: 0 auto; 
+        }
+
+        /* 頂部導覽區 (仿造您的截圖) */
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 30px;
+            padding-bottom: 20px;
+            border-bottom: 2px solid rgba(0,0,0,0.05);
+        }
+
+        .header-left h1 {
+            font-size: 2rem;
+            color: #555;
+            letter-spacing: 2px;
+            font-weight: 600;
+        }
+        
+        .header-left h1 span {
+            color: #999;
+            font-size: 1.2rem;
+            font-weight: normal;
+        }
+
+        .sys-info {
+            font-size: 0.95rem;
+            color: var(--text-muted);
+            display: flex;
+            gap: 20px;
+            background: var(--card-bg);
+            padding: 10px 20px;
+            border-radius: 30px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+        }
+
+        /* 標籤過濾區 */
+        .filters {
+            display: flex;
+            gap: 12px;
+            margin-bottom: 24px;
+            flex-wrap: wrap;
+        }
+
+        .filter-btn {
+            background: var(--card-bg);
+            border: 1px solid #e5e7eb;
+            color: var(--text-muted);
+            padding: 8px 20px;
+            border-radius: 20px;
+            cursor: pointer;
+            transition: all 0.2s;
+            font-size: 1rem;
+            font-weight: 500;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.02);
+        }
+
+        .filter-btn:hover { 
+            border-color: var(--btn-purple); 
+            color: var(--btn-purple);
+        }
+        
+        .filter-btn.active {
+            background: var(--btn-purple);
+            color: white;
+            border-color: var(--btn-purple);
+            box-shadow: 0 4px 10px rgba(107, 70, 193, 0.3);
+        }
+
+        /* 新聞卡片網格 */
+        .news-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
+            gap: 24px;
+        }
+
+        .news-card {
+            background: var(--card-bg);
+            border-radius: 16px;
+            padding: 24px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+            transition: transform 0.2s, box-shadow 0.2s;
+            display: flex;
+            flex-direction: column;
+            border: 1px solid transparent;
+        }
+
+        .news-card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 12px 25px rgba(0,0,0,0.1);
+            border-color: rgba(107, 70, 193, 0.2);
+        }
+
+        .card-top {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 16px;
+            font-size: 0.85rem;
+        }
+
+        .theme-badge {
+            background: #f3f4f6;
+            color: #4b5563;
+            padding: 6px 12px;
+            border-radius: 8px;
+            font-weight: 600;
+        }
+
+        .score-badge {
+            font-weight: bold;
+            padding: 6px 12px;
+            border-radius: 8px;
+        }
+
+        .score-high { background: #fee2e2; color: #b91c1c; }
+        .score-mid { background: #fef3c7; color: #b45309; }
+        .score-low { background: #e0f2fe; color: #0369a1; }
+
+        .news-title {
+            font-size: 1.25rem;
+            margin-bottom: 16px;
+            line-height: 1.5;
+        }
+
+        .news-title a {
+            color: var(--text-main);
+            text-decoration: none;
+            font-weight: 600;
+        }
+
+        .news-title a:hover { color: var(--btn-purple); }
+
+        .ai-reason {
+            background: #f8fafc;
+            border-left: 4px solid var(--btn-purple);
+            padding: 12px 16px;
+            font-size: 0.95rem;
+            color: #475569;
+            margin-bottom: 20px;
+            border-radius: 0 8px 8px 0;
+            line-height: 1.5;
+        }
+
+        .impact-icon {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            width: 24px;
+            height: 24px;
+            border-radius: 50%;
+            margin-right: 8px;
+            font-size: 0.8rem;
+        }
+
+        .impact-icon.positive { background: var(--positive-bg); color: var(--positive-text); }
+        .impact-icon.negative { background: var(--negative-bg); color: var(--negative-text); }
+        .impact-icon.neutral { background: var(--neutral-bg); color: var(--neutral-text); }
+
+        .card-bottom {
+            margin-top: auto;
+            border-top: 1px solid #f3f4f6;
+            padding-top: 16px;
+            font-size: 0.85rem;
+            color: var(--text-muted);
+            line-height: 1.8;
+        }
+
+        .related-stocks {
+            color: var(--btn-purple);
+            font-weight: 600;
+            background: rgba(107, 70, 193, 0.05);
+            padding: 4px 8px;
+            border-radius: 6px;
+            display: inline-block;
+            margin-top: 8px;
+        }
+
+        .empty-state {
+            text-align: center;
+            padding: 80px 20px;
+            color: var(--text-muted);
+            grid-column: 1 / -1;
+            background: var(--card-bg);
+            border-radius: 16px;
+        }
+        
+        .back-btn {
+            display: inline-block;
+            margin-bottom: 20px;
+            color: var(--text-muted);
+            text-decoration: none;
+            font-weight: bold;
+        }
+        .back-btn:hover { color: var(--btn-purple); }
     </style>
 </head>
-<body class="min-h-screen flex flex-col">
+<body>
 
-    <header class="bg-[#ECE8DE] h-16 flex items-center px-6 border-b border-[#DCD6C9] justify-between shrink-0 shadow-sm z-50 sticky top-0">
-        <div class="font-black text-2xl tracking-widest text-[#5A4A42]">bbb INTELLIGENCE <span class="text-sm font-medium text-gray-500 ml-1">情報中心</span></div>
-        <div class="flex items-center gap-4">
-            <a href="index.html" class="bg-gray-700 text-white px-4 py-2 rounded-full text-sm font-bold shadow hover:bg-gray-800 transition flex items-center gap-2">
-                <i class="fas fa-home"></i> 回戰情室
-            </a>
+<div class="container">
+    <a href="index.html" class="back-btn"><i class="fas fa-arrow-left"></i> 返回主控台</a>
+    
+    <header class="header">
+        <div class="header-left">
+            <h1>bbb ANALYTICS <span>| 情報中心</span></h1>
+        </div>
+        <div class="sys-info">
+            <span id="update-time"><i class="fas fa-spinner fa-spin"></i> 載入數據中...</span>
+            <span id="article-count"></span>
         </div>
     </header>
 
-    <main class="flex-1 p-4 md:p-8 max-w-[1600px] mx-auto w-full">
-        <div class="grid grid-cols-1 lg:grid-cols-3 gap-8 items-start">
-            
-            <div class="glass-panel p-6 bg-blue-50/30 border-blue-100">
-                <div class="header-title text-blue-800 border-blue-200">
-                    <span><i class="fas fa-bolt mr-2"></i>即時事件庫 (全網掃描)</span>
-                    <button onclick="fetchExternalNews()" class="text-xs bg-blue-600 text-white px-2 py-1 rounded hover:bg-blue-700">
-                        <i class="fas fa-sync-alt"></i> 更新
-                    </button>
-                </div>
-                <div class="space-y-3" id="external_news_container">
-                    <div class="text-gray-400 text-sm italic text-center py-10"><i class="fas fa-spinner fa-spin mr-2"></i>正在初始化情報來源...</div>
-                </div>
-            </div>
+    <div class="filters" id="filter-container">
+        <button class="filter-btn active" data-theme="All">全部主題</button>
+    </div>
 
-            <div class="glass-panel p-6">
-                <div class="header-title text-[#8B7355]"><span><i class="far fa-calendar-alt mr-2"></i>自選股行事曆 (Events)</span></div>
-                <div id="events_container">
-                    <div class="text-gray-400 text-sm italic text-center py-10">資料載入中...</div>
-                </div>
-            </div>
-
-            <div class="glass-panel p-6 bg-[#FFFDF5] border-[#E8E0C0]">
-                <div class="header-title text-[#8B7355] border-[#DCD6C9]"><span><i class="fas fa-rss mr-2 text-yellow-500"></i>自選股動態 (Internal)</span></div>
-                <div class="space-y-4" id="news_container">
-                    <div class="text-gray-400 text-sm italic text-center py-10">資料載入中...</div>
-                </div>
-            </div>
-        </div>
+    <main class="news-grid" id="news-container">
+        <!-- 內容由 JS 產生 -->
     </main>
+</div>
 
-    <script>
-        // 設定資料來源與原始權重
-        const NEWS_SOURCES = [
-            { id: 'yahoo_mkt', name: 'Yahoo股市', url: 'https://tw.stock.yahoo.com/rss?category=tw-market', weight: 3 },
-            { id: 'mops_alert', name: '重大訊息', url: 'https://tw.stock.yahoo.com/rss?category=tw-announcement', weight: 5 }
-        ];
+<script>
+    let newsData =[];
 
-        window.onload = () => {
-            loadInternalData();
-            fetchExternalNews();
-        };
-
-        // --- 1. 抓取外部多來源並轉化為「消息面 JSON」 ---
-        async function fetchExternalNews() {
-            const container = document.getElementById('external_news_container');
-            container.innerHTML = '<div class="text-gray-400 text-sm italic text-center py-10"><i class="fas fa-sync fa-spin mr-2"></i>同步多來源情報中...</div>';
-
-            try {
-                const fetchPromises = NEWS_SOURCES.map(src => 
-                    fetch(`https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(src.url)}`)
-                        .then(res => res.json())
-                        .then(data => ({ ...data, config: src }))
-                );
-
-                const results = await Promise.all(fetchPromises);
-                let allItems = [];
-
-                results.forEach(res => {
-                    if (res.status === 'ok') {
-                        res.items.forEach(item => {
-                            allItems.push(transformToEventJSON(item, res.config));
-                        });
-                    }
-                });
-
-                // 排序邏輯：權重(Impact)優先，時間次之
-                allItems.sort((a, b) => {
-                    if (b.impact_score !== a.impact_score) return b.impact_score - a.impact_score;
-                    return new Date(b.event_date) - new Date(a.event_date);
-                });
-
-                renderExternalEvents(allItems);
-            } catch (err) {
-                container.innerHTML = '<div class="text-red-400 text-sm italic text-center py-10">連線異常，請稍後重試</div>';
-            }
-        }
-
-        // --- 2. 核心轉化函數：建立「消息面事件資料庫」格式 ---
-        function transformToEventJSON(raw, config) {
-            const title = raw.title;
-            const tags = [];
+    async function init() {
+        const container = document.getElementById('news-container');
+        try {
+            // 讀取同一個資料夾下的 bbb_news_payload.json
+            // 注意：要確定您已經把 Python 產出的 JSON 檔 Push 到 GitHub 上
+            const response = await fetch('./bbb_news_payload.json');
+            if (!response.ok) throw new Error('無法載入新聞資料 (請確認 JSON 檔案是否存在)');
             
-            // 題材識別系統
-            if (/BBU|電池|備援/.test(title)) tags.push("BBU");
-            if (/CPO|矽光子|光通訊/.test(title)) tags.push("CPO");
-            if (/CoWoS|先進封裝|玻璃載板/.test(title)) tags.push("先進封裝");
-            if (/GB200|NV|伺服器|AI/.test(title)) tags.push("AI供應鏈");
+            const data = await response.json();
+            newsData = data.items;
+            
+            // 更新系統資訊
+            const dateObj = new Date(data.generated_at);
+            document.getElementById('update-time').innerHTML = `<i class="far fa-clock"></i> 最後更新: ${dateObj.toLocaleString('zh-TW')}`;
+            document.getElementById('article-count').innerHTML = `<i class="far fa-newspaper"></i> 掃描篇數: ${data.total_count}`;
 
-            // 計算最終影響分：基礎權重 + 題材加成
-            let score = config.weight;
-            if (tags.length > 0) score = Math.min(score + 1, 5);
+            buildFilters();
+            renderNews('All');
+            
+        } catch (error) {
+            container.innerHTML = `
+                <div class="empty-state">
+                    <i class="fas fa-exclamation-triangle" style="font-size: 3rem; color: #cbd5e1; margin-bottom: 16px;"></i>
+                    <h2>情報中心尚未就緒</h2>
+                    <p style="margin-top:10px;">${error.message}</p>
+                    <p style="margin-top:10px; font-size:0.9em; color:#94a3b8;">請在本機執行 Python 腳本產出 bbb_news_payload.json 後，Push 到 GitHub。</p>
+                </div>
+            `;
+            console.error(error);
+        }
+    }
 
-            // 判斷情緒
-            let sent = "neutral";
-            if (/漲|強|優|多|創高/.test(title)) sent = "positive";
-            if (/跌|弱|損|警|保守/.test(title)) sent = "negative";
-
-            return {
-                symbol: "SCAN", 
-                name: config.name,
-                event_date: raw.pubDate,
-                source: config.name,
-                title: title,
-                event_tags: tags,
-                sentiment: sent,
-                impact_score: score,
-                url: raw.link
+    function buildFilters() {
+        const filterContainer = document.getElementById('filter-container');
+        const themes = [...new Set(newsData.map(item => item.theme))];
+        
+        themes.forEach(theme => {
+            const btn = document.createElement('button');
+            btn.className = 'filter-btn';
+            btn.dataset.theme = theme;
+            btn.innerText = theme;
+            btn.onclick = () => {
+                document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+                btn.classList.add('active');
+                renderNews(theme);
             };
+            filterContainer.appendChild(btn);
+        });
+
+        filterContainer.querySelector('[data-theme="All"]').onclick = (e) => {
+            document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+            e.target.classList.add('active');
+            renderNews('All');
+        };
+    }
+
+    function renderNews(filterTheme) {
+        const container = document.getElementById('news-container');
+        container.innerHTML = '';
+
+        const filteredData = filterTheme === 'All' 
+            ? newsData 
+            : newsData.filter(item => item.theme === filterTheme);
+
+        if (filteredData.length === 0) {
+            container.innerHTML = '<div class="empty-state">沒有符合條件的新聞。</div>';
+            return;
         }
 
-        // --- 3. 渲染事件列表 ---
-        function renderExternalEvents(events) {
-            const container = document.getElementById('external_news_container');
-            let html = '';
+        filteredData.forEach(item => {
+            let scoreClass = 'score-low';
+            if (item.importance >= 70) scoreClass = 'score-high';
+            else if (item.importance >= 50) scoreClass = 'score-mid';
 
-            events.slice(0, 20).forEach(ev => {
-                const tagHtml = ev.event_tags.map(t => `<span class="tag-chip">#${t}</span>`).join(' ');
-                const dateStr = new Date(ev.event_date).toLocaleTimeString([], {hour: '2-digit', minute:'2-digit'});
+            let impactIcon = '<i class="fas fa-minus"></i>';
+            let impactClass = 'neutral';
+            if (item.impact === 'positive') { impactIcon = '<i class="fas fa-arrow-up"></i>'; impactClass = 'positive'; }
+            else if (item.impact === 'negative') { impactIcon = '<i class="fas fa-arrow-down"></i>'; impactClass = 'negative'; }
+
+            const pubTime = new Date(item.published_at).toLocaleString('zh-TW', {
+                month: 'numeric', day: 'numeric', hour: '2-digit', minute: '2-digit'
+            });
+
+            const card = document.createElement('div');
+            card.className = 'news-card';
+            card.innerHTML = `
+                <div class="card-top">
+                    <span class="theme-badge">${item.theme}</span>
+                    <span class="score-badge ${scoreClass}">AI 權重: ${item.importance}</span>
+                </div>
                 
-                html += `
-                    <a href="${ev.url}" target="_blank" class="block p-4 mb-3 bg-white rounded-xl shadow-sm border border-gray-100 hover:shadow-md transition impact-${ev.impact_score}">
-                        <div class="flex justify-between items-start mb-2">
-                            <span class="text-[10px] font-black text-blue-500 uppercase tracking-tighter">${ev.source} SCORE:${ev.impact_score}</span>
-                            <span class="text-[10px] font-mono text-gray-400">${dateStr}</span>
-                        </div>
-                        <div class="text-sm font-bold text-gray-800 leading-snug mb-3">
-                            ${ev.sentiment === 'positive' ? '🟢' : (ev.sentiment === 'negative' ? '🔴' : '⚪')} ${ev.title}
-                        </div>
-                        <div class="flex flex-wrap gap-1">
-                            ${tagHtml}
-                        </div>
-                    </a>
-                `;
-            });
-            container.innerHTML = html;
-        }
+                <h2 class="news-title">
+                    <a href="${item.url}" target="_blank" rel="noopener noreferrer">${item.title}</a>
+                </h2>
+                
+                <div class="ai-reason">
+                    <span class="impact-icon ${impactClass}">${impactIcon}</span> 
+                    <strong>AI 判讀：</strong>${item.reason}
+                </div>
+                
+                <div class="card-bottom">
+                    <div><i class="fas fa-globe"></i> 來源：${item.source}</div>
+                    <div><i class="far fa-clock"></i> 時間：${pubTime}</div>
+                    <div class="related-stocks"><i class="fas fa-crosshairs"></i> 關聯：${item.related_stocks.join(', ')}</div>
+                </div>
+            `;
+            container.appendChild(card);
+        });
+    }
 
-        // --- 4. 處理原有的 localStorage 內部資料 ---
-        function loadInternalData() {
-            const localData = localStorage.getItem('bbb_db_v5');
-            const db = localData ? JSON.parse(localData) : [];
-            
-            if (db.length === 0) {
-                document.getElementById('events_container').innerHTML = '<div class="text-center text-gray-400 py-10">無資料</div>';
-                document.getElementById('news_container').innerHTML = '<div class="text-center text-gray-400 py-10">無資料</div>';
-                return;
-            }
+    document.addEventListener('DOMContentLoaded', init);
+</script>
 
-            let allEvents = [];
-            let allNews = [];
-
-            db.forEach(s => {
-                const events = (s.ai_message_board && s.ai_message_board.right_events) || (s.news_events && s.news_events.calendar) || [];
-                events.forEach(e => { if (e.date && e.event) allEvents.push({ ...e, stockName: s.name }); });
-
-                const newsList = (s.ai_message_board && s.ai_message_board.left_messages) || (s.news_events && s.news_events.news) || [];
-                newsList.forEach(n => {
-                    let text = n.content || n.title;
-                    if (text && n.date) allNews.push({ ...n, content: text, stockName: s.name });
-                });
-            });
-
-            // 渲染：行事曆
-            allEvents.sort((a, b) => new Date(b.date) - new Date(a.date));
-            let eHtml = '';
-            let lastDate = '';
-            allEvents.slice(0, 20).forEach(e => {
-                if (e.date !== lastDate) {
-                    eHtml += `<div class="font-mono text-[#8B7355] text-sm font-black mt-4 mb-2 border-b pb-1">${e.date}</div>`;
-                    lastDate = e.date;
-                }
-                eHtml += `<div class="flex gap-2 mb-2 items-start"><span class="bg-gray-700 text-white text-[10px] px-1.5 py-0.5 rounded mt-1">${e.stockName}</span><span class="text-sm text-gray-700">${e.event}</span></div>`;
-            });
-            document.getElementById('events_container').innerHTML = eHtml || '無事件';
-
-            // 渲染：內部情報
-            allNews.sort((a, b) => new Date(b.date) - new Date(a.date));
-            let nHtml = '';
-            allNews.slice(0, 30).forEach(m => {
-                let arrow = (m.sentiment === 'positive' || m.sentiment === 1) ? '<span class="arrow-up"></span>' : 
-                            ((m.sentiment === 'negative' || m.sentiment === -1) ? '<span class="arrow-down"></span>' : '');
-                nHtml += `
-                    <div class="py-3 border-b border-gray-100 flex gap-2 items-start">
-                        <div class="shrink-0 w-12 text-[10px] font-mono text-gray-400 mt-1">${m.date.substring(5)}</div>
-                        <div class="flex-1 text-sm text-gray-800">
-                            <span class="font-black mr-2 text-gray-600">[${m.stockName}]</span>${m.content}${arrow}
-                        </div>
-                    </div>`;
-            });
-            document.getElementById('news_container').innerHTML = nHtml || '無情報';
-        }
-    </script>
 </body>
 </html>
