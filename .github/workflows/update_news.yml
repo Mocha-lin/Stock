@@ -1,0 +1,38 @@
+name: 自動更新 AI 股市情報雷達
+
+on:
+  schedule:
+    # 設定每 4 小時自動跑一次 (使用 UTC 時間)
+    - cron: '0 */4 * * *'
+  workflow_dispatch: # 允許你隨時點擊按鈕手動執行
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: 下載你的網站原始碼
+        uses: actions/checkout@v4
+
+      - name: 安裝 Python 環境
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: 安裝套件
+        run: pip install requests
+
+      - name: 執行 Python 抓取新聞
+        env:
+          NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
+        run: python bbb_news_radar.py
+
+      - name: 將最新資料儲存並更新到你的網站
+        run: |
+          git config --global user.name "GitHub Actions Bot"
+          git config --global user.email "actions@github.com"
+          git add bbb_news_payload.json bbb_news_digest.md
+          git commit -m "Auto-update: AI News Radar" || echo "No changes to commit"
+          git push
