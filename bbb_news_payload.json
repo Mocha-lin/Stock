@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-05-01T14:48:33.261702+00:00",
+  "generated_at": "2026-05-01T15:45:00.725292+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 72,
@@ -10,7 +10,7 @@
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "光通訊與矽光子",
-      "title": "台灣晶圓製造商 Episil 將資本支出增加兩倍，以擴展人工智慧矽光子學",
+      "title": "台灣晶圓製造商 Episil 將資本支出增加兩倍，以擴大人工智慧矽光子技術",
       "summary": "晶藝科技宣布，將把生產重新分配給大直徑矽外延和矽光子，以提高獲利能力並滿足人工智慧供應鏈需求。此舉包括削減利潤較低的小晶圓生產線和擴大產能…",
       "original_title": "Taiwan wafer maker Episil triples capex to scale silicon photonics for AI",
       "url": "https://www.digitimes.com/news/a20260430PD217/silicon-production-episil-photonics-capex.html",
@@ -827,6 +827,44 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "9b9c620c0f220f03",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "三星內存部門第一季利潤豐厚，智慧型手機仍獲利",
+      "summary": "Samsung Electronics just posted its financial report for the first quarter of this year. The head of the mobile division (MX), TM Roh, is worried that said division might experience its first-ever annual loss. We’ll see what the rest of the year holds, but fo…",
+      "original_title": "Samsung's memory division posts massive profits for Q1, smartphones still profitable",
+      "url": "https://www.gsmarena.com/samsungs_memory_division_posts_massive_profits_for_q1_smartphones_still_profitable-news-72628.php",
+      "source": "GSMArena.com",
+      "domain": "gsmarena.com",
+      "published_at": "2026-04-30T15:31:01Z",
+      "importance": 60,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "7ecb46a6efb0a99e",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -941,44 +979,6 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "afd2db6168a81edf",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "阿聯酋將在近 60 年後退出歐佩克",
-      "summary": "5 月 1 日，阿拉伯聯合大公國將結束其在該石油財團長達 59 年的會員資格，使其能夠在多年來最動盪的能源市場之一期間提高產量。",
-      "original_title": "UAE To Exit OPEC After Nearly 60 Years",
-      "url": "https://www.wired.com/story/the-uae-will-exit-opec-after-nearly-60-years/",
-      "source": "Wired",
-      "domain": "wired.com",
-      "published_at": "2026-04-28T15:00:35Z",
-      "importance": 60,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "035cf5c78cf09291",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1082,41 +1082,6 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "5686fd0acad318b8",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "NEO Semiconductor 用於 AI 處理器的革命性 3D X-DRAM 已通過概念驗證 - 公司獲得資金來開發下一代內存 HBM 替代品",
-      "summary": "NEO Semiconductor 表示，其 3D X-DRAM 通過了概念驗證測試，使用 3D NAND 製程瞄準比 HBM 更便宜的 AI 記憶體。該公司已獲得發展資金。",
-      "original_title": "NEO Semiconductor's revolutionary 3D X-DRAM for AI processors has passed proof-of-concept validation — company secures funding to develop next-gen memory HBM alternative",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/neo-semiconductors-revolutionary-3d-x-dram-for-ai-processors-has-passed-proof-of-concept-validation-company-secures-funding-to-develop-next-gen-memory-hbm-alternative",
-      "source": "Tom's Hardware UK",
-      "domain": "tomshardware.com",
-      "published_at": "2026-04-24T15:20:27Z",
-      "importance": 57,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "60bd8160b33bfe77",
@@ -1572,32 +1537,32 @@
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "c588963ebf5b0393",
+      "id": "afd2db6168a81edf",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "戴爾的突破是真正的交易。 AI 伺服器週期才剛開始",
-      "summary": "",
-      "original_title": "Dell’s Breakout is the Real Deal. And the AI Server Cycle is Just Starting",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_cc4a5174-1a79-44ae-a2e3-9d1b4a2ba23a",
-      "source": "Yahoo Entertainment",
-      "domain": "consent.yahoo.com",
-      "published_at": "2026-04-28T15:12:33Z",
+      "theme": "總體風險",
+      "title": "阿聯酋將在近 60 年後退出歐佩克",
+      "summary": "5 月 1 日，阿拉伯聯合大公國將結束其在該石油財團長達 59 年的會員資格，使其能夠在多年來最動盪的能源市場之一期間提高產量。",
+      "original_title": "UAE To Exit OPEC After Nearly 60 Years",
+      "url": "https://www.wired.com/story/the-uae-will-exit-opec-after-nearly-60-years/",
+      "source": "Wired",
+      "domain": "wired.com",
+      "published_at": "2026-04-28T15:00:35Z",
       "importance": 55,
-      "impact": "neutral",
+      "impact": "positive",
       "timeframe": "short_term",
       "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
       ],
       "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
       ],
       "related_models": [
         "003",
@@ -1607,7 +1572,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "36f89a9d960b71b0",
@@ -1911,82 +1876,6 @@
       "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "5e0d24172304cc5d",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "「看到它發揮作用真是太棒了」：OpenAI 在 Nvidia Blackwell 系統上部署 GPT-5.5 Codex – 效率提升 50 倍，成本降低 35 倍，使人工智慧「在企業規模上可行”",
-      "summary": "Nvidia 表示 OpenAI 的 Codex 可以顯著提高效率並節省成本，使企業 AI 大規模可行。",
-      "original_title": "'It was awesome to see it work': OpenAI deploys GPT-5.5 Codex across Nvidia Blackwell systems – 50x efficiency boost and 35x cost reduction makes AI ‘viable at enterprise scale’",
-      "url": "https://www.techradar.com/pro/it-was-awesome-to-see-it-work-openai-deploys-gpt-5-5-codex-across-nvidia-blackwell-systems-50x-efficiency-boost-and-35x-cost-reduction-makes-ai-viable-at-enterprise-scale",
-      "source": "TechRadar",
-      "domain": "techradar.com",
-      "published_at": "2026-04-24T15:35:47Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "465178a1a8f9d3c2",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "據傳 iPhone 18 將至少獲得一項新的 Pro 級升級",
-      "summary": "所有跡像都表明，蘋果的基本款 iPhone 18 將不會出現在今年秋季的旗艦產品陣容中，而是將於 2027 年初推出。但據報道，當它真正上市時，它將至少配備一項新的專業級升級：12GB RAM。\n\n\n\n 更多的…",
-      "original_title": "iPhone 18 rumored to get at least one new Pro-tier upgrade",
-      "url": "https://9to5mac.com/2026/04/24/iphone-18-rumored-to-get-at-least-one-new-pro-tier-upgrade/",
-      "source": "9to5Mac",
-      "domain": "9to5mac.com",
-      "published_at": "2026-04-24T15:22:20Z",
-      "importance": 55,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "a43e32fde8ef84f2",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2058,6 +1947,41 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "5686fd0acad318b8",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "NEO Semiconductor 用於 AI 處理器的革命性 3D X-DRAM 已通過概念驗證 - 公司獲得資金來開發下一代內存 HBM 替代品",
+      "summary": "NEO Semiconductor 表示，其 3D X-DRAM 通過了概念驗證測試，使用 3D NAND 製程瞄準比 HBM 更便宜的 AI 記憶體。該公司已獲得發展資金。",
+      "original_title": "NEO Semiconductor's revolutionary 3D X-DRAM for AI processors has passed proof-of-concept validation — company secures funding to develop next-gen memory HBM alternative",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/neo-semiconductors-revolutionary-3d-x-dram-for-ai-processors-has-passed-proof-of-concept-validation-company-secures-funding-to-develop-next-gen-memory-hbm-alternative",
+      "source": "Tom's Hardware UK",
+      "domain": "tomshardware.com",
+      "published_at": "2026-04-24T15:20:27Z",
+      "importance": 52,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "418fd219f66a2043",
@@ -2252,7 +2176,7 @@
       "schema_version": "bbb_news/v1",
       "theme": "AI伺服器",
       "title": "斯吉爾救贖篇",
-      "summary": "汉娜·戈德菲尔德 (Hannah Goldfield) 写道，这家备受喜爱的洛杉矶咖啡馆因一桶发霉的果酱而陷入困境。現在它供應晚餐。",
+      "summary": "漢娜·戈德菲爾德 (Hannah Goldfield) 寫道，這家備受喜愛的洛杉磯咖啡館因一桶發霉的果醬而陷入困境。現在它供應晚餐。",
       "original_title": "The Sqirl Redemption Arc",
       "url": "https://www.newyorker.com/magazine/2026/05/04/the-sqirl-redemption-arc",
       "source": "The New Yorker",
@@ -2622,6 +2546,82 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "5e0d24172304cc5d",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "「看到它發揮作用真是太棒了」：OpenAI 在 Nvidia Blackwell 系統上部署 GPT-5.5 Codex – 效率提升 50 倍，成本降低 35 倍，使人工智慧「在企業規模上可行”",
+      "summary": "Nvidia 表示 OpenAI 的 Codex 可以顯著提高效率並節省成本，使企業 AI 大規模可行。",
+      "original_title": "'It was awesome to see it work': OpenAI deploys GPT-5.5 Codex across Nvidia Blackwell systems – 50x efficiency boost and 35x cost reduction makes AI ‘viable at enterprise scale’",
+      "url": "https://www.techradar.com/pro/it-was-awesome-to-see-it-work-openai-deploys-gpt-5-5-codex-across-nvidia-blackwell-systems-50x-efficiency-boost-and-35x-cost-reduction-makes-ai-viable-at-enterprise-scale",
+      "source": "TechRadar",
+      "domain": "techradar.com",
+      "published_at": "2026-04-24T15:35:47Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "465178a1a8f9d3c2",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "據傳 iPhone 18 將至少獲得一項新的 Pro 級升級",
+      "summary": "所有跡像都表明，蘋果的基本款 iPhone 18 將不會出現在今年秋季的旗艦產品陣容中，而是將於 2027 年初推出。但據報道，當它真正上市時，它將至少配備一項新的專業級升級：12GB RAM。\n\n\n\n 更多的…",
+      "original_title": "iPhone 18 rumored to get at least one new Pro-tier upgrade",
+      "url": "https://9to5mac.com/2026/04/24/iphone-18-rumored-to-get-at-least-one-new-pro-tier-upgrade/",
+      "source": "9to5Mac",
+      "domain": "9to5mac.com",
+      "published_at": "2026-04-24T15:22:20Z",
+      "importance": 50,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "5e967300c7af4724",
