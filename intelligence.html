@@ -2,375 +2,211 @@
 <html lang="zh-TW">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>bbb ANALYTICS - 情報中心</title>
-    <!-- 引入 FontAwesome (如果您的網站有用的話) -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>情報中心 - bbb 投資戰情室</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
     <style>
-        /* 完美契合 bbb ANALYTICS 的配色 */
-        :root {
-            --bg-color: #f4efe6; /* 仿造截圖的背景奶茶色 */
-            --card-bg: #ffffff;
-            --text-main: #333333;
-            --text-muted: #6b7280;
-            --btn-purple: #6b46c1; /* 情報中心按鈕的紫色 */
-            --positive-bg: #dcfce7;
-            --positive-text: #166534;
-            --negative-bg: #fee2e2;
-            --negative-text: #991b1b;
-            --neutral-bg: #f3f4f6;
-            --neutral-text: #374151;
-        }
-
-        * { margin: 0; padding: 0; box-sizing: border-box; }
+        :root { --bg: #FDFBF7; --text: #374151; --border: #E5E7EB; }
+        body { background: var(--bg); color: var(--text); font-family: -apple-system, BlinkMacSystemFont, "Microsoft JhengHei", sans-serif; }
         
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans TC', sans-serif;
-            background-color: var(--bg-color);
-            color: var(--text-main);
-            padding: 20px;
-            line-height: 1.6;
-        }
-
-        .container { 
-            max-width: 1200px; 
-            margin: 0 auto; 
-        }
-
-        /* 頂部導覽區 (仿造您的截圖) */
-        .header {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            margin-bottom: 30px;
-            padding-bottom: 20px;
-            border-bottom: 2px solid rgba(0,0,0,0.05);
-        }
-
-        .header-left h1 {
-            font-size: 2rem;
-            color: #555;
-            letter-spacing: 2px;
-            font-weight: 600;
-        }
+        .glass-panel { background: white; border: 1px solid var(--border); box-shadow: 0 4px 6px rgba(0,0,0,0.02); border-radius: 12px; }
+        .header-title { font-size: 1.25rem; font-weight: 800; color: #4B5563; border-bottom: 2px solid var(--border); padding-bottom: 0.75rem; margin-bottom: 1.25rem; display: flex; align-items: center; justify-content: space-between;}
         
-        .header-left h1 span {
-            color: #999;
-            font-size: 1.2rem;
-            font-weight: normal;
-        }
-
-        .sys-info {
-            font-size: 0.95rem;
-            color: var(--text-muted);
-            display: flex;
-            gap: 20px;
-            background: var(--card-bg);
-            padding: 10px 20px;
-            border-radius: 30px;
-            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
-        }
-
-        /* 標籤過濾區 */
-        .filters {
-            display: flex;
-            gap: 12px;
-            margin-bottom: 24px;
-            flex-wrap: wrap;
-        }
-
-        .filter-btn {
-            background: var(--card-bg);
-            border: 1px solid #e5e7eb;
-            color: var(--text-muted);
-            padding: 8px 20px;
-            border-radius: 20px;
-            cursor: pointer;
-            transition: all 0.2s;
-            font-size: 1rem;
-            font-weight: 500;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.02);
-        }
-
-        .filter-btn:hover { 
-            border-color: var(--btn-purple); 
-            color: var(--btn-purple);
-        }
+        .arrow-up { display: inline-block; width: 0; height: 0; border-left: 6px solid transparent; border-right: 6px solid transparent; border-bottom: 10px solid #DC2626; margin: 0 6px; vertical-align: middle; }
+        .arrow-down { display: inline-block; width: 0; height: 0; border-left: 6px solid transparent; border-right: 6px solid transparent; border-top: 10px solid #10B981; margin: 0 6px; vertical-align: middle; }
         
-        .filter-btn.active {
-            background: var(--btn-purple);
-            color: white;
-            border-color: var(--btn-purple);
-            box-shadow: 0 4px 10px rgba(107, 70, 193, 0.3);
-        }
-
-        /* 新聞卡片網格 */
-        .news-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
-            gap: 24px;
-        }
-
-        .news-card {
-            background: var(--card-bg);
-            border-radius: 16px;
-            padding: 24px;
-            box-shadow: 0 4px 15px rgba(0,0,0,0.05);
-            transition: transform 0.2s, box-shadow 0.2s;
-            display: flex;
-            flex-direction: column;
-            border: 1px solid transparent;
-        }
-
-        .news-card:hover {
-            transform: translateY(-4px);
-            box-shadow: 0 12px 25px rgba(0,0,0,0.1);
-            border-color: rgba(107, 70, 193, 0.2);
-        }
-
-        .card-top {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            margin-bottom: 16px;
-            font-size: 0.85rem;
-        }
-
-        .theme-badge {
-            background: #f3f4f6;
-            color: #4b5563;
-            padding: 6px 12px;
-            border-radius: 8px;
-            font-weight: 600;
-        }
-
-        .score-badge {
-            font-weight: bold;
-            padding: 6px 12px;
-            border-radius: 8px;
-        }
-
-        .score-high { background: #fee2e2; color: #b91c1c; }
-        .score-mid { background: #fef3c7; color: #b45309; }
-        .score-low { background: #e0f2fe; color: #0369a1; }
-
-        .news-title {
-            font-size: 1.25rem;
-            margin-bottom: 16px;
-            line-height: 1.5;
-        }
-
-        .news-title a {
-            color: var(--text-main);
-            text-decoration: none;
-            font-weight: 600;
-        }
-
-        .news-title a:hover { color: var(--btn-purple); }
-
-        .ai-reason {
-            background: #f8fafc;
-            border-left: 4px solid var(--btn-purple);
-            padding: 12px 16px;
-            font-size: 0.95rem;
-            color: #475569;
-            margin-bottom: 20px;
-            border-radius: 0 8px 8px 0;
-            line-height: 1.5;
-        }
-
-        .impact-icon {
-            display: inline-flex;
-            align-items: center;
-            justify-content: center;
-            width: 24px;
-            height: 24px;
-            border-radius: 50%;
-            margin-right: 8px;
-            font-size: 0.8rem;
-        }
-
-        .impact-icon.positive { background: var(--positive-bg); color: var(--positive-text); }
-        .impact-icon.negative { background: var(--negative-bg); color: var(--negative-text); }
-        .impact-icon.neutral { background: var(--neutral-bg); color: var(--neutral-text); }
-
-        .card-bottom {
-            margin-top: auto;
-            border-top: 1px solid #f3f4f6;
-            padding-top: 16px;
-            font-size: 0.85rem;
-            color: var(--text-muted);
-            line-height: 1.8;
-        }
-
-        .related-stocks {
-            color: var(--btn-purple);
-            font-weight: 600;
-            background: rgba(107, 70, 193, 0.05);
-            padding: 4px 8px;
-            border-radius: 6px;
-            display: inline-block;
-            margin-top: 8px;
-        }
-
-        .empty-state {
-            text-align: center;
-            padding: 80px 20px;
-            color: var(--text-muted);
-            grid-column: 1 / -1;
-            background: var(--card-bg);
-            border-radius: 16px;
-        }
-        
-        .back-btn {
-            display: inline-block;
-            margin-bottom: 20px;
-            color: var(--text-muted);
-            text-decoration: none;
-            font-weight: bold;
-        }
-        .back-btn:hover { color: var(--btn-purple); }
+        .score-badge { font-weight: bold; padding: 2px 6px; border-radius: 4px; font-size: 0.75rem; }
+        .score-high { background: #FEE2E2; color: #B91C1C; }
+        .score-mid { background: #FEF3C7; color: #B45309; }
+        .score-low { background: #E0F2FE; color: #0369A1; }
     </style>
 </head>
-<body>
+<body class="min-h-screen flex flex-col">
 
-<div class="container">
-    <a href="index.html" class="back-btn"><i class="fas fa-arrow-left"></i> 返回主控台</a>
-    
-    <header class="header">
-        <div class="header-left">
-            <h1>bbb ANALYTICS <span>| 情報中心</span></h1>
-        </div>
-        <div class="sys-info">
-            <span id="update-time"><i class="fas fa-spinner fa-spin"></i> 載入數據中...</span>
-            <span id="article-count"></span>
+    <!-- Header -->
+    <header class="bg-[#ECE8DE] h-16 flex items-center px-6 border-b border-[#DCD6C9] justify-between shrink-0 shadow-sm z-50 sticky top-0">
+        <div class="font-black text-2xl tracking-widest text-[#5A4A42]">bbb INTELLIGENCE <span class="text-sm font-medium text-gray-500 ml-1">情報中心</span></div>
+        <div class="flex items-center gap-4">
+            <a href="index.html" class="bg-gray-700 text-white px-4 py-2 rounded-full text-sm font-bold shadow hover:bg-gray-800 transition flex items-center gap-2">
+                <i class="fas fa-home"></i> 回戰情室
+            </a>
         </div>
     </header>
 
-    <div class="filters" id="filter-container">
-        <button class="filter-btn active" data-theme="All">全部主題</button>
-    </div>
-
-    <main class="news-grid" id="news-container">
-        <!-- 內容由 JS 產生 -->
-    </main>
-</div>
-
-<script>
-    let newsData =[];
-
-    async function init() {
-        const container = document.getElementById('news-container');
-        try {
-            // 讀取同一個資料夾下的 bbb_news_payload.json
-            // 注意：要確定您已經把 Python 產出的 JSON 檔 Push 到 GitHub 上
-            const response = await fetch('./bbb_news_payload.json');
-            if (!response.ok) throw new Error('無法載入新聞資料 (請確認 JSON 檔案是否存在)');
+    <main class="flex-1 p-4 md:p-8 max-w-[1600px] mx-auto w-full">
+        <div class="grid grid-cols-1 lg:grid-cols-3 gap-8 items-start">
             
-            const data = await response.json();
-            newsData = data.items;
-            
-            // 更新系統資訊
-            const dateObj = new Date(data.generated_at);
-            document.getElementById('update-time').innerHTML = `<i class="far fa-clock"></i> 最後更新: ${dateObj.toLocaleString('zh-TW')}`;
-            document.getElementById('article-count').innerHTML = `<i class="far fa-newspaper"></i> 掃描篇數: ${data.total_count}`;
-
-            buildFilters();
-            renderNews('All');
-            
-        } catch (error) {
-            container.innerHTML = `
-                <div class="empty-state">
-                    <i class="fas fa-exclamation-triangle" style="font-size: 3rem; color: #cbd5e1; margin-bottom: 16px;"></i>
-                    <h2>情報中心尚未就緒</h2>
-                    <p style="margin-top:10px;">${error.message}</p>
-                    <p style="margin-top:10px; font-size:0.9em; color:#94a3b8;">請在本機執行 Python 腳本產出 bbb_news_payload.json 後，Push 到 GitHub。</p>
+            <!-- Column 1: AI 國際情報雷達 (接 Python JSON) -->
+            <div class="glass-panel p-6 bg-blue-50/30 border-blue-100">
+                <div class="header-title text-blue-800 border-blue-200">
+                    <span><i class="fas fa-satellite-dish mr-2"></i>AI 國際情報雷達</span>
+                    <div id="radar-time" class="text-xs text-gray-500 font-normal">讀取中...</div>
                 </div>
-            `;
-            console.error(error);
-        }
-    }
+                <div class="space-y-3" id="external_news_container">
+                    <div class="text-gray-400 text-sm italic text-center py-10"><i class="fas fa-spinner fa-spin mr-2"></i>載入 AI 雷達數據中...</div>
+                </div>
+            </div>
 
-    function buildFilters() {
-        const filterContainer = document.getElementById('filter-container');
-        const themes = [...new Set(newsData.map(item => item.theme))];
-        
-        themes.forEach(theme => {
-            const btn = document.createElement('button');
-            btn.className = 'filter-btn';
-            btn.dataset.theme = theme;
-            btn.innerText = theme;
-            btn.onclick = () => {
-                document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
-                btn.classList.add('active');
-                renderNews(theme);
-            };
-            filterContainer.appendChild(btn);
-        });
+            <!-- Column 2: 庫存股事件與大展行事曆 (保留原邏輯) -->
+            <div class="glass-panel p-6">
+                <div class="header-title text-[#8B7355]"><span><i class="far fa-calendar-alt mr-2"></i>自選股行事曆 (Events)</span></div>
+                <div id="events_container">
+                    <div class="text-gray-400 text-sm italic text-center py-10">資料載入中...</div>
+                </div>
+            </div>
 
-        filterContainer.querySelector('[data-theme="All"]').onclick = (e) => {
-            document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
-            e.target.classList.add('active');
-            renderNews('All');
+            <!-- Column 3: 庫存股情報動態 (保留原邏輯) -->
+            <div class="glass-panel p-6 bg-[#FFFDF5] border-[#E8E0C0]">
+                <div class="header-title text-[#8B7355] border-[#DCD6C9]"><span><i class="fas fa-bolt mr-2 text-yellow-500"></i>自選股情報動態 (News Feed)</span></div>
+                <div class="space-y-4" id="news_container">
+                    <div class="text-gray-400 text-sm italic text-center py-10">資料載入中...</div>
+                </div>
+            </div>
+
+        </div>
+    </main>
+
+    <script>
+        window.onload = () => {
+            loadInternalData();
+            fetchAiRadarNews(); // 載入 Python 產出的 JSON
         };
-    }
 
-    function renderNews(filterTheme) {
-        const container = document.getElementById('news-container');
-        container.innerHTML = '';
+        // --- 1. 抓取 AI 雷達 JSON ---
+        async function fetchAiRadarNews() {
+            const container = document.getElementById('external_news_container');
+            const timeTag = document.getElementById('radar-time');
+            
+            try {
+                // 讀取同一個資料夾下的 bbb_news_payload.json
+                const response = await fetch('./bbb_news_payload.json');
+                if (!response.ok) throw new Error('找不到資料');
+                
+                const data = await response.json();
+                
+                // 顯示更新時間
+                const dateObj = new Date(data.generated_at);
+                timeTag.innerText = `更新於: ${dateObj.getHours()}:${String(dateObj.getMinutes()).padStart(2,'0')}`;
 
-        const filteredData = filterTheme === 'All' 
-            ? newsData 
-            : newsData.filter(item => item.theme === filterTheme);
+                let html = '';
+                // 顯示前 15 則最重要的
+                data.items.slice(0, 15).forEach(item => {
+                    let scoreClass = 'score-low';
+                    if (item.importance >= 70) scoreClass = 'score-high';
+                    else if (item.importance >= 50) scoreClass = 'score-mid';
 
-        if (filteredData.length === 0) {
-            container.innerHTML = '<div class="empty-state">沒有符合條件的新聞。</div>';
-            return;
+                    let impactIcon = '';
+                    if (item.impact === 'positive') impactIcon = '<i class="fas fa-arrow-up text-green-600 ml-1"></i>';
+                    else if (item.impact === 'negative') impactIcon = '<i class="fas fa-arrow-down text-red-600 ml-1"></i>';
+
+                    html += `
+                        <div class="border-b border-blue-100 bg-white p-3 rounded-lg shadow-sm hover:shadow transition mb-3">
+                            <div class="flex justify-between items-center mb-1">
+                                <span class="bg-blue-50 text-blue-700 text-[11px] font-bold px-2 py-0.5 rounded">${item.theme}</span>
+                                <span class="score-badge ${scoreClass}">AI評分:${item.importance}</span>
+                            </div>
+                            <a href="${item.url}" target="_blank" class="text-gray-800 text-sm font-bold hover:text-blue-600 block mb-1">
+                                ${item.title}
+                            </a>
+                            <div class="text-xs text-gray-500 bg-gray-50 p-2 rounded border border-gray-100">
+                                <strong>AI判讀:</strong> ${item.reason} ${impactIcon}
+                            </div>
+                        </div>
+                    `;
+                });
+                container.innerHTML = html;
+
+            } catch (err) {
+                container.innerHTML = `
+                    <div class="text-gray-400 text-sm italic text-center py-6">
+                        系統正等待 GitHub 自動排程更新資料...<br>
+                        <span class="text-xs mt-2 block">(若無資料請確認 Github Actions 是否正常運作)</span>
+                    </div>`;
+                console.error('Fetch AI radar failed:', err);
+            }
         }
 
-        filteredData.forEach(item => {
-            let scoreClass = 'score-low';
-            if (item.importance >= 70) scoreClass = 'score-high';
-            else if (item.importance >= 50) scoreClass = 'score-mid';
+        // --- 2. 處理原本的內部自選股資料 (完全保留你的邏輯) ---
+        function loadInternalData() {
+            const localData = localStorage.getItem('bbb_db_v5');
+            const db = localData ? JSON.parse(localData) :[];
+            
+            if (db.length === 0) {
+                document.getElementById('events_container').innerHTML = '<div class="text-center text-gray-400 py-10">無資料</div>';
+                document.getElementById('news_container').innerHTML = '<div class="text-center text-gray-400 py-10">無資料</div>';
+                return;
+            }
 
-            let impactIcon = '<i class="fas fa-minus"></i>';
-            let impactClass = 'neutral';
-            if (item.impact === 'positive') { impactIcon = '<i class="fas fa-arrow-up"></i>'; impactClass = 'positive'; }
-            else if (item.impact === 'negative') { impactIcon = '<i class="fas fa-arrow-down"></i>'; impactClass = 'negative'; }
+            let allEvents = [];
+            let allNews =[];
 
-            const pubTime = new Date(item.published_at).toLocaleString('zh-TW', {
-                month: 'numeric', day: 'numeric', hour: '2-digit', minute: '2-digit'
+            db.forEach(s => {
+                const events = (s.ai_message_board && s.ai_message_board.right_events) || (s.news_events && s.news_events.calendar) ||[];
+                events.forEach(e => {
+                    if (e.date && e.event) allEvents.push({ date: e.date, event: e.event, stockName: s.name });
+                });
+
+                const newsList = (s.ai_message_board && s.ai_message_board.left_messages) || (s.news_events && s.news_events.news) ||[];
+                newsList.forEach(n => {
+                    let text = n.content || n.title;
+                    let tag = n.tag || (n.type ? (n.type.includes('news') ? '新聞' : '情報') : '情報');
+                    let sentiment = n.sentiment; 
+                    if(sentiment === undefined && n.type) sentiment = n.type.includes('pos') ? 1 : (n.type.includes('neg') ? -1 : 0);
+                    if (text && n.date) allNews.push({ date: n.date, content: text, tag: tag, sentiment: sentiment, stockName: s.name });
+                });
             });
 
-            const card = document.createElement('div');
-            card.className = 'news-card';
-            card.innerHTML = `
-                <div class="card-top">
-                    <span class="theme-badge">${item.theme}</span>
-                    <span class="score-badge ${scoreClass}">AI 權重: ${item.importance}</span>
-                </div>
-                
-                <h2 class="news-title">
-                    <a href="${item.url}" target="_blank" rel="noopener noreferrer">${item.title}</a>
-                </h2>
-                
-                <div class="ai-reason">
-                    <span class="impact-icon ${impactClass}">${impactIcon}</span> 
-                    <strong>AI 判讀：</strong>${item.reason}
-                </div>
-                
-                <div class="card-bottom">
-                    <div><i class="fas fa-globe"></i> 來源：${item.source}</div>
-                    <div><i class="far fa-clock"></i> 時間：${pubTime}</div>
-                    <div class="related-stocks"><i class="fas fa-crosshairs"></i> 關聯：${item.related_stocks.join(', ')}</div>
-                </div>
-            `;
-            container.appendChild(card);
-        });
-    }
+            // 渲染：事件
+            allEvents.sort((a, b) => new Date(b.date) - new Date(a.date));
+            let eventsHtml = '';
+            if (allEvents.length === 0) eventsHtml = '<div class="text-gray-400 text-base italic text-center py-8">自選股近期無重大事件</div>';
+            else {
+                let lastDate = '';
+                allEvents.slice(0, 30).forEach(e => {
+                    if (e.date !== lastDate) {
+                        eventsHtml += `<div class="font-mono text-[#8B7355] text-sm font-black mt-6 mb-3 border-b-2 border-[#E5E0D8] pb-1"><i class="fas fa-flag mr-2"></i>${e.date}</div>`;
+                        lastDate = e.date;
+                    }
+                    eventsHtml += `
+                        <div class="flex items-start gap-3 mb-4 pl-2 bg-white p-3 rounded-lg border border-gray-100 shadow-sm">
+                            <div class="bg-gray-700 text-white text-xs font-bold px-2 py-1 rounded whitespace-nowrap mt-0.5 shadow-sm">${e.stockName}</div>
+                            <div class="text-base text-gray-800 font-medium leading-relaxed">${e.event}</div>
+                        </div>
+                    `;
+                });
+            }
+            document.getElementById('events_container').innerHTML = eventsHtml;
 
-    document.addEventListener('DOMContentLoaded', init);
-</script>
+            // 渲染：情報
+            allNews.sort((a, b) => new Date(b.date) - new Date(a.date));
+            let newsHtml = '';
+            if (allNews.length === 0) newsHtml = '<div class="text-gray-400 text-base italic text-center py-8">自選股近期無情報更新</div>';
+            else {
+                allNews.slice(0, 40).forEach(m => {
+                    let arrow = '';
+                    if (m.sentiment === 'positive' || m.sentiment === 1) arrow = '<span class="arrow-up"></span>';
+                    else if (m.sentiment === 'negative' || m.sentiment === -1) arrow = '<span class="arrow-down"></span>';
+                    else arrow = '<span class="inline-block w-[24px]"></span>'; 
+                    let tagHtml = m.tag ? `<span class="bg-[#ECE8DE] text-[#8B7355] px-2 py-0.5 rounded text-xs font-bold mr-2 align-top border border-[#DCD6C9]">${m.tag}</span>` : '';
 
+                    newsHtml += `
+                        <div class="py-4 border-b border-gray-200 flex gap-3 items-start bg-white p-4 rounded-xl shadow-sm mb-3">
+                            <div class="flex flex-col items-center shrink-0 w-16 gap-1.5 pt-1">
+                                <span class="font-mono text-gray-500 text-xs">${m.date.substring(5)}</span>
+                                <span class="text-xs font-black text-gray-700 bg-gray-100 px-2 py-1 rounded">${m.stockName}</span>
+                            </div>
+                            <div class="pt-1 shrink-0">${arrow}</div>
+                            <div class="text-gray-800 text-sm leading-relaxed flex-1 font-medium">
+                                ${tagHtml}${m.content}
+                            </div>
+                        </div>
+                    `;
+                });
+            }
+            document.getElementById('news_container').innerHTML = newsHtml;
+        }
+    </script>
 </body>
 </html>
