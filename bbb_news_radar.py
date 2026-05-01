@@ -90,9 +90,12 @@ def safe_translate(text: str) -> str:
     if not text or len(text.strip()) == 0:
         return ""
     try:
-        # 將過長的新聞標題後面的來源贅字去掉 (例如 " - Reuters")
         clean_text = text.split(" - ")[0]
-        return translator.translate(clean_text)
+        # 每次翻譯重新連線，避免被 Google 鎖定
+        tr = GoogleTranslator(source='en', target='zh-TW')
+        result = tr.translate(clean_text)
+        time.sleep(0.5) # 稍微停頓 0.5 秒，模擬真人
+        return result
     except Exception as e:
         print(f"翻譯失敗: {e}")
         return text
