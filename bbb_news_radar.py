@@ -1,5 +1,5 @@
 """
-bbb 投資戰情室 - 消息面雷達 (Optimized Version)
+bbb 投資戰情室 - 消息面雷達 (中文化與總結升級版)
 """
 
 import os
@@ -9,11 +9,14 @@ import hashlib
 import requests
 from datetime import datetime, timedelta, timezone
 from urllib.parse import urlparse
+from deep_translator import GoogleTranslator
 
 # ================= 配置區 =================
-# 這裡會自動去抓你剛才設定在 GitHub Secrets 的金鑰
 NEWSAPI_KEY = os.getenv("NEWSAPI_KEY", "").strip()
 NEWSAPI_URL = "https://newsapi.org/v2/everything"
+
+# 初始化翻譯器 (英文 -> 繁體中文)
+translator = GoogleTranslator(source='en', target='zh-TW')
 
 WATCHLIST = {
     "AI伺服器": {
@@ -82,7 +85,20 @@ def generate_id(url: str, title: str) -> str:
     raw = f"{url}_{title}"
     return hashlib.md5(raw.encode("utf-8")).hexdigest()[:16]
 
+def safe_translate(text: str) -> str:
+    """安全的翻譯函數，失敗時回傳原文"""
+    if not text or len(text.strip()) == 0:
+        return ""
+    try:
+        # 將過長的新聞標題後面的來源贅字去掉 (例如 " - Reuters")
+        clean_text = text.split(" - ")[0]
+        return translator.translate(clean_text)
+    except Exception as e:
+        print(f"翻譯失敗: {e}")
+        return text
+
 def analyze_article(title: str, desc: str, content: str, url: str, published_at: str) -> tuple:
+    # 評分系統依然使用「英文原文」進行精準運算
     text = f"{title} {desc} {content}".lower()
     score = 40  
     domain = get_domain(url)
@@ -158,28 +174,34 @@ def build_payload():
         articles = fetch_news(theme, config)
         for a in articles:
             url = a.get("url") or ""
-            title = a.get("title") or ""
-            if not url or "[Removed]" in title:
+            title_en = a.get("title") or ""
+            if not url or "[Removed]" in title_en:
                 continue
                 
-            uid = generate_id(url, title)
+            uid = generate_id(url, title_en)
             if uid in seen_ids:
                 continue
             seen_ids.add(uid)
 
-            desc = a.get("description") or ""
-            content = a.get("content") or ""
+            desc_en = a.get("description") or ""
+            content_en = a.get("content") or ""
             pub_date = a.get("publishedAt")
             
-            sentiment, importance = analyze_article(title, desc, content, url, pub_date)
+            # 1. 英文算分
+            sentiment, importance = analyze_article(title_en, desc_en, content_en, url, pub_date)
+            
+            # 2. 翻譯成中文 (作為最終輸出)
+            title_zh = safe_translate(title_en)
+            desc_zh = safe_translate(desc_en)
 
             item = {
                 "id": uid,
                 "dataset": "market_news",
                 "schema_version": "bbb_news/v1",
                 "theme": theme,
-                "title": title,
-                "summary": desc,
+                "title": title_zh, # 網頁會直接吃到中文標題
+                "summary": desc_zh,
+                "original_title": title_en, # 保留英文原文備查
                 "url": url,
                 "source": (a.get("source") or {}).get("name", "Unknown"),
                 "domain": get_domain(url),
@@ -187,13 +209,13 @@ def build_payload():
                 "importance": importance,
                 "impact": sentiment,
                 "timeframe": "short_term" if importance < 75 else "short_to_mid_term",
-                "tags": config.get("tags", []),
+                "tags": config.get("tags",[]),
                 "related_stocks": config.get("related_stocks",[]),
                 "related_models":["003", "005", "006", "007", "009", "010"],
                 "reason": generate_chinese_reason(theme, importance, sentiment),
             }
             items.append(item)
-        time.sleep(1)
+        time.sleep(1) # 遵守速率限制
 
     items.sort(key=lambda x: (x["importance"], x.get("published_at") or ""), reverse=True)
 
