@@ -6,7 +6,7 @@
     <title>bbb 投資戰情室 (Ultimate UI + AI)</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
+    <script src="https://cdn.jsdelivr.net/npm/klinecharts/dist/klinecharts.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.15.0/Sortable.min.js"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
@@ -404,8 +404,7 @@
                         </div>
                     </div>
                     
-                    <div id="apex_kline" class="w-full h-[400px]"></div>
-                    <div id="apex_vol" class="w-full h-[150px] -mt-4"></div>
+                    <div id="tvchart" class="w-full h-[550px]"></div>
 
                     <!-- AI Price Predictions Feed (Merged from New Source) -->
                     <div id="ai_prediction_feed" class="mt-6 border-t-2 border-[#8B7355] pt-6">
@@ -1457,7 +1456,63 @@
                 document.getElementById('tech_analysis_container').innerHTML = `<p class="text-base text-gray-700 leading-8 text-justify font-medium">--</p>`;
             }
 
-            renderKLineChart(currentKLineData, 'D', s.technical_analysis);
+            // ==========================================
+			// 🚀 核心修改：非同步抓取 FinMind K線資料
+			// ==========================================
+			async function fetchAndRenderFinMindKLine() {
+				try {
+					const d = new Date();
+					d.setFullYear(d.getFullYear() - 1);
+					const startDate = d.toISOString().split('T')[0];
+
+					const response = await fetch(`https://api.finmindtrade.com/api/v4/data?dataset=TaiwanStockPrice&data_id=${id}&start_date=${startDate}`);
+					const result = await response.json();
+
+					if (result.data && result.data.length > 0) {
+						currentKLineData = result.data.map(item => ({
+							date: item.date,
+							open: item.open,
+							high: item.max,
+							low: item.min,
+							close: item.close,
+							volume: item.Trading_Volume
+						}));
+
+						// ==========================================
+						// 🚀 新增：使用 FinMind 最新 K 線更新左側與上方股價
+						// ==========================================
+						const latest = currentKLineData[currentKLineData.length - 1];
+						const prev = currentKLineData.length > 1 ? currentKLineData[currentKLineData.length - 2] : latest;
+						
+						s.basicInfo.price = latest.close.toFixed(2);
+						const change = latest.close - prev.close;
+						s.basicInfo.change = change.toFixed(2);
+						s.basicInfo.changePercent = ((change / prev.close) * 100).toFixed(2) + "%";
+
+						// 更新上方儀表板大數字
+						const col = change >= 0 ? "text-[#C0392B]" : "text-[#16A34A]";
+						document.getElementById('d_price').className = `text-7xl font-mono font-bold tracking-tighter ${col}`;
+						document.getElementById('d_price').innerText = s.basicInfo.price;
+						document.getElementById('d_change').innerHTML = `<span class="${col}">${s.basicInfo.change} (${s.basicInfo.changePercent})</span>`;
+						if(document.getElementById('d_price_m')) document.getElementById('d_price_m').innerText = s.basicInfo.price;
+
+						// 重新渲染左側側邊欄，讓股價變更生效，並存入快取
+						renderSidebar();
+						saveToLocal();
+					} else {
+						throw new Error("FinMind 查無資料");
+					}
+				} catch (error) {
+					console.warn("FinMind 請求失敗，降級使用 JSON:", error);
+					currentKLineData = s.financials.kline_data || [];
+				} finally {
+					// 這裡傳入 currentTimeframe，確保切換股票時維持在日/週/月線
+					renderKLineChart(currentKLineData, currentTimeframe, s.technical_analysis);
+				}
+			}
+
+			// 執行抓取與渲染
+			fetchAndRenderFinMindKLine();
 
             // --- 更新標籤 UI 狀態 ---
             // 1. 更新狀態按鈕顏色 (⚡ BUY / 🟡 FLU)
@@ -1886,177 +1941,93 @@ if (forecasts.length === 0) {
             };
         }
 
-        function calculateMA(data, period) {
-            let maLine = [];
-            for (let i = 0; i < data.length; i++) {
-                if (i < period - 1) {
-                    maLine.push({ x: data[i].date, y: null }); // 💡修改：不使用 new Date()
-                } else {
-                    let sum = 0;
-                    for (let j = 0; j < period; j++) {
-                        sum += data[i - j].close;
-                    }
-                    maLine.push({ x: data[i].date, y: sum / period }); // 💡修改：不使用 new Date()
-                }
-            }
-            return maLine;
-        }
+        <!-- function calculateMA(data, period) { -->
+            <!-- let maLine = []; -->
+            <!-- for (let i = 0; i < data.length; i++) { -->
+                <!-- if (i < period - 1) { -->
+                    <!-- maLine.push({ x: data[i].date, y: null }); // 💡修改：不使用 new Date() -->
+                <!-- } else { -->
+                    <!-- let sum = 0; -->
+                    <!-- for (let j = 0; j < period; j++) { -->
+                        <!-- sum += data[i - j].close; -->
+                    <!-- } -->
+                    <!-- maLine.push({ x: data[i].date, y: sum / period }); // 💡修改：不使用 new Date() -->
+                <!-- } -->
+            <!-- } -->
+            <!-- return maLine; -->
+        <!-- } -->
 
-        function renderKLineChart(kData, timeframe, techData) {
-            if (!kData || kData.length === 0) return;
+        // ==========================================
+		// 📈 KLineChart 繪圖核心 (支援 MA5,20,60 與 支撐壓力)
+		// ==========================================
+		let kChart = null;
 
-            let data = [...kData].sort((a, b) => a.date.localeCompare(b.date));
+		function initKLineChart() {
+			if (kChart) return; 
+			
+			// 1. 註冊支援 Y 軸文字的支撐/壓力線
+			klinecharts.registerOverlay({
+				name: 'supportResistanceLine',
+				createPointFigures: function({ bounding, coordinates, overlay }) {
+					if (!coordinates || coordinates.length === 0) return [];
+					return [{ type: 'line', attrs: { coordinates: [{ x: 0, y: coordinates[0].y }, { x: bounding.width, y: coordinates[0].y }] }, ignoreEvent: true, styles: { style: 'dashed', color: overlay.extendData.color, size: 1.5, dashedValue: [4, 4] } }];
+				},
+				createYAxisFigures: function({ bounding, coordinates, overlay }) {
+					if (!coordinates || coordinates.length === 0) return [];
+					return [{ type: 'text', attrs: { x: bounding.width / 2, y: coordinates[0].y, text: overlay.extendData.label, align: 'center', baseline: 'middle' }, ignoreEvent: true, styles: { color: '#ffffff', backgroundColor: overlay.extendData.color, size: 12, paddingLeft: 6, paddingRight: 6, paddingTop: 4, paddingBottom: 4, borderRadius: 2 } }];
+				}
+			});
 
-            // Initial Zoom (💡修改為使用字串標籤來限制範圍，而非時間戳)
-            let minDate = undefined;
-            let maxDate = undefined;
-            let zoomBars = 60; 
-            if(data.length > 0) {
-               maxDate = data[data.length-1].date;
-               const startIndex = Math.max(0, data.length - zoomBars);
-               minDate = data[startIndex].date;
-            }
+			kChart = klinecharts.init('tvchart');
+			
+			// 2. 配合戰情室淺色背景微調樣式 (紅漲綠跌)
+			kChart.setStyles({
+				yAxis: { size: 75 },
+				grid: { horizontal: { color: 'rgba(0, 0, 0, 0.05)' }, vertical: { color: 'rgba(0, 0, 0, 0.05)' } },
+				candle: {
+					type: 'candle_solid',
+					bar: { upColor: '#EF4444', downColor: '#10B981', noChangeColor: '#9CA3AF', upBorderColor: '#EF4444', downBorderColor: '#10B981', noChangeBorderColor: '#9CA3AF', upWickColor: '#EF4444', downWickColor: '#10B981', noChangeWickColor: '#9CA3AF' }
+				}
+			});
 
-            const candleSeries = data.map(d => ({
-                x: d.date, // 💡修改：不使用 new Date()，直接用字串
-                y: [d.open, d.high, d.low, d.close]
-            }));
+			// 3. 【關鍵修復】掛載主圖均線時，直接傳入 [5, 20, 60] 參數
+			kChart.createIndicator({ name: 'MA', calcParams: [5, 20, 60] }, false, { id: 'candle_pane' }); 
+			
+            // 掛載下方成交量
+            kChart.createIndicator('VOL');
+		}
 
-            const volColors = data.map(d => (d.close >= d.open) ? '#EF4444' : '#10B981');
-            const volSeries = data.map(d => ({
-                x: d.date, // 💡修改：不使用 new Date()，直接用字串
-                y: d.volume
-            }));
+		function renderKLineChart(kData, timeframe, techData) {
+			if (!kData || kData.length === 0) return;
+			initKLineChart();
 
-            const ma5 = calculateMA(data, 5);
-            const ma20 = calculateMA(data, 20);
-            const ma60 = calculateMA(data, 60);
+			// 轉換為 KLineChart 需要的 timestamp 格式
+			const chartData = kData.map(d => ({
+				timestamp: new Date(d.date).getTime(),
+				open: d.open,
+				high: d.high,
+				low: d.low,
+				close: d.close,
+				volume: d.volume
+			}));
 
-            // Prepare Annotations (Support/Resistance Lines)
-            let annotations = { yaxis: [] };
-            if (techData && techData.support) {
-                // Parse number from string like "720" or "720元"
-                let val = parseFloat(techData.support.replace(/[^0-9.]/g, ''));
-                if(!isNaN(val)) {
-                    annotations.yaxis.push({
-                        y: val,
-                        borderColor: '#10B981',
-                        strokeDashArray: 4,
-                        label: { borderColor: '#10B981', style: { color: '#fff', background: '#10B981' }, text: '支撐' }
-                    });
-                }
-            }
-            if (techData && techData.resistance) {
-                let val = parseFloat(techData.resistance.replace(/[^0-9.]/g, ''));
-                if(!isNaN(val)) {
-                    annotations.yaxis.push({
-                        y: val,
-                        borderColor: '#EF4444',
-                        strokeDashArray: 4,
-                        label: { borderColor: '#EF4444', style: { color: '#fff', background: '#EF4444' }, text: '壓力' }
-                    });
-                }
-            }
+			kChart.applyNewData(chartData);
+			kChart.removeOverlay(); // 清空上一檔股票的線條
 
-            // Common Options
-            const commonOptions = {
-                chart: { group: 'kline-group', toolbar: { show: false } },
-                grid: { borderColor: '#f1f1f1', xaxis: { lines: { show: true } } },
-                xaxis: { type: 'category', tooltip: { enabled: true } } // 💡修改：改為 category
-            };
-
-            // 1. Main Chart
-            const options = {
-                ...commonOptions,
-                series: [
-                    { name: 'K線', type: 'candlestick', data: candleSeries },
-                    { name: 'MA5', type: 'line', data: ma5 },
-                    { name: 'MA20', type: 'line', data: ma20 },
-                    { name: 'MA60', type: 'line', data: ma60 }
-                ],
-                chart: { 
-                    id: 'kline-price',
-                    group: 'kline-group',
-                    type: 'line', 
-                    height: 400, 
-                    toolbar: { show: false },
-                    zoom: { enabled: true, type: 'x', autoScaleYaxis: true } 
-                },
-                colors: ['#2E93fA', '#F1C40F', '#8E44AD', '#2980B9'], 
-                annotations: annotations, // Apply Lines
-                plotOptions: {
-                    candlestick: {
-                        colors: { upward: '#EF4444', downward: '#10B981' }, 
-                        wick: { useFillColor: true }
-                    }
-                },
-                stroke: { width: [1, 1.5, 1.5, 1.5] },
-                xaxis: { 
-                    type: 'category', // 💡修改：改為 category
-                    min: minDate, 
-                    max: maxDate,
-                    labels: { show: false }, 
-                    axisTicks: { show: false },
-                    tooltip: { enabled: true }
-                },
-                yaxis: { 
-                    tooltip: { enabled: true }, 
-                    decimalsInFloat: 2,
-                    labels: { align: 'right', style: { fontSize: '11px' } }
-                }
-            };
-
-            if(charts.kline) charts.kline.destroy();
-            charts.kline = new ApexCharts(document.querySelector("#apex_kline"), options);
-            charts.kline.render();
-
-            // 2. Volume Chart
-            const optionsVol = {
-                ...commonOptions,
-                series: [{ name: '成交量', data: volSeries }],
-                chart: { 
-                    id: 'kline-vol',
-                    group: 'kline-group',
-                    type: 'bar', 
-                    height: 150, 
-                    toolbar: { show: false },
-                    zoom: { enabled: true, type: 'x', autoScaleYaxis: true } 
-                },
-                colors: [function({ value, seriesIndex, dataPointIndex, w }) {
-                    return volColors[dataPointIndex];
-                }],
-                plotOptions: {
-                    bar: { columnWidth: '80%' }
-                },
-                dataLabels: { enabled: false },
-                xaxis: { 
-                    type: 'category', // 💡修改：改為 category
-                    min: minDate, 
-                    max: maxDate,
-                    tickAmount: 10, // 💡新增：避免改為 Category 後標籤過度重疊
-                    labels: { 
-                        show: true,
-                        // 💡修改：類別軸不支援 datetimeFormatter，改用自訂 formatter 來裁切出 MM/DD
-                        formatter: function(val) {
-                            if (!val) return '';
-                            const parts = val.toString().split('-');
-                            if(parts.length >= 3) return `${parts[1]}/${parts[2]}`;
-                            return val;
-                        },
-                        style: { colors: '#9CA3AF', fontSize: '11px', fontFamily: 'monospace' },
-                    },
-                    tooltip: { enabled: false },
-                    axisBorder: { show: false },
-                    axisTicks: { show: true }
-                }, 
-                yaxis: { labels: { show: false } }, 
-                grid: { show: false } 
-            };
-
-            if(charts.vol) charts.vol.destroy();
-            charts.vol = new ApexCharts(document.querySelector("#apex_vol"), optionsVol);
-            charts.vol.render();
-        }
+			// 繪製從 JSON 帶來的支撐壓力線
+			if (techData && techData.support) {
+				let val = parseFloat(techData.support.replace(/[^0-9.]/g, ''));
+				if(!isNaN(val)) {
+					kChart.createOverlay({ name: 'supportResistanceLine', extendData: { label: `支撐: ${val}`, color: '#10B981' }, points: [{ value: val }] });
+				}
+			}
+			if (techData && techData.resistance) {
+				let val = parseFloat(techData.resistance.replace(/[^0-9.]/g, ''));
+				if(!isNaN(val)) {
+					kChart.createOverlay({ name: 'supportResistanceLine', extendData: { label: `壓力: ${val}`, color: '#EF4444' }, points: [{ value: val }] });
+				}
+			}
+		}
 
         function saveToLocal(){ localStorage.setItem('bbb_db_v5', JSON.stringify(db)); }
         function toggleModal(id){ document.getElementById(id).classList.toggle('hidden'); }
