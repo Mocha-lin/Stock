@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-05-02T14:04:45.010916+00:00",
+  "generated_at": "2026-05-02T15:37:49.113229+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 72,
@@ -10,7 +10,7 @@
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "光通訊與矽光子",
-      "title": "台灣晶圓製造商 Episil 將資本支出增加兩倍，以擴展人工智慧矽光子學",
+      "title": "台灣晶圓製造商 Episil 將資本支出增加兩倍，以擴大人工智慧矽光子技術",
       "summary": "晶藝科技宣布，將把生產重新分配給大直徑矽外延和矽光子，以提高獲利能力並滿足人工智慧供應鏈需求。此舉包括削減利潤較低的小晶圓生產線和擴大產能…",
       "original_title": "Taiwan wafer maker Episil triples capex to scale silicon photonics for AI",
       "url": "https://www.digitimes.com/news/a20260430PD217/silicon-production-episil-photonics-capex.html",
@@ -423,7 +423,7 @@
       "schema_version": "bbb_news/v1",
       "theme": "HBM記憶體",
       "title": "Nvidia 利用 Nanya 打造 AI 機架，其 LPDDR 相當於每個機架 4,500 部智慧型手機",
-      "summary": "人工智慧的蓬勃發展正在推動記憶體需求遠遠超出高頻寬記憶體 (HBM) 的範圍。低功耗 DRAM 現在也面臨壓力，隨著 Nvidia、高通和特斯拉等晶片開發商在下一代處理器中採用 LPDDR，低功耗 DRAM 也出現了短缺。",
+      "summary": "人工智慧的蓬勃發展正在推動記憶體需求遠遠超出高頻寬記憶體 (HBM) 的範圍。低功耗 DRAM 现在也面临压力，随着 Nvidia、高通和特斯拉等芯片开发商在下一代处理器中采用 LPDDR，低功耗 DRAM 也出现了短缺。",
       "original_title": "Nvidia taps Nanya for AI racks with LPDDR equivalent to 4,500 smartphones per rack",
       "url": "https://www.digitimes.com/news/a20260429VL207/expansion-nvidia-demand-hbm-rubin.html",
       "source": "Digitimes",
@@ -644,7 +644,7 @@
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "半導體先進製程",
-      "title": "蒂姆·庫克表示 iPhone 17 需求“破紀錄”，但供應限制影響了銷售",
+      "title": "蒂姆·庫克表示 iPhone 17 需求“破紀錄”，但供應限制影響了銷量",
       "summary": "蘋果剛剛公佈了季度業績，其中 iPhone 收入為 569.9 億美元。這個數字略低於分析師對財報的預期平均水平，但蒂姆·庫克告訴路透社，如果蘋果有供應，蘋果的銷量會更高…",
       "original_title": "Tim Cook says iPhone 17 demand is ‘off the charts’, but supply constraints impacted sales",
       "url": "https://9to5mac.com/2026/04/30/tim-cook-iphone-demand-off-the-charts/",
@@ -1464,44 +1464,6 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "eeb03fe8e29227e3",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "阿聯酋歐佩克",
-      "summary": "由於與沙烏地阿拉伯的緊張關係以及伊朗戰爭的混亂，阿聯酋表示將退出歐佩克。",
-      "original_title": "UAE OPEC",
-      "url": "https://www.npr.org/2026/04/29/nx-s1-5802739/uae-opec",
-      "source": "NPR",
-      "domain": "npr.org",
-      "published_at": "2026-04-29T14:35:49Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "d4ed31710a1bcfff",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1914,6 +1876,44 @@
       "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "eeb03fe8e29227e3",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "阿聯酋歐佩克",
+      "summary": "由於與沙烏地阿拉伯的緊張關係以及伊朗戰爭的混亂，阿聯酋表示將退出歐佩克。",
+      "original_title": "UAE OPEC",
+      "url": "https://www.npr.org/2026/04/29/nx-s1-5802739/uae-opec",
+      "source": "NPR",
+      "domain": "npr.org",
+      "published_at": "2026-04-29T14:35:49Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "9de7d6bebef561d1",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2181,7 +2181,7 @@
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "光通訊與矽光子",
-      "title": "小米發布MiMo-v2.5系列權重，具有強大的編碼和代理基準",
+      "title": "Xiaomi releases MiMo-v2.5 Family weights with strong coding and agent benchmarks",
       "summary": "北京大學每學期都會給電腦專業的學生一個編譯器專案。用 Rust 建立一個完整的 SysY 編譯器，包括​​詞法分析器、解析器、抽象語法樹、IR 程式碼產生、彙編後端、效能最佳化。整個事情。史都華…",
       "original_title": "Xiaomi releases MiMo-v2.5 Family weights with strong coding and agent benchmarks",
       "url": "https://firethering.com/mimo-v2-5-pro-xiaomi-coding-model/",
@@ -2445,7 +2445,7 @@
       "schema_version": "bbb_news/v1",
       "theme": "半導體先進製程",
       "title": "台灣法院在台積電商業機密案中判處有期徒刑",
-      "summary": "前東京電子員工被判處 10 年徒刑，其他四名被告被判處 10 個月至 6 年徒刑。",
+      "summary": "Ex-Tokyo Electron employee sentenced to 10 years, four other defendants receive between 10 months and six years.",
       "original_title": "Taiwan court hands down jail terms in TSMC trade secrets case",
       "url": "https://www.aljazeera.com/economy/2026/4/27/taiwan-court-hands-down-jail-terms-in-tsmc-trade-secrets-case",
       "source": "Al Jazeera English",
