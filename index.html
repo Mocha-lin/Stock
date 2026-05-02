@@ -1890,13 +1890,13 @@ if (forecasts.length === 0) {
             let maLine = [];
             for (let i = 0; i < data.length; i++) {
                 if (i < period - 1) {
-                    maLine.push({ x: new Date(data[i].date), y: null });
+                    maLine.push({ x: data[i].date, y: null }); // 💡修改：不使用 new Date()
                 } else {
                     let sum = 0;
                     for (let j = 0; j < period; j++) {
                         sum += data[i - j].close;
                     }
-                    maLine.push({ x: new Date(data[i].date), y: sum / period });
+                    maLine.push({ x: data[i].date, y: sum / period }); // 💡修改：不使用 new Date()
                 }
             }
             return maLine;
@@ -1907,24 +1907,24 @@ if (forecasts.length === 0) {
 
             let data = [...kData].sort((a, b) => a.date.localeCompare(b.date));
 
-            // Initial Zoom
+            // Initial Zoom (💡修改為使用字串標籤來限制範圍，而非時間戳)
             let minDate = undefined;
             let maxDate = undefined;
             let zoomBars = 60; 
             if(data.length > 0) {
-               maxDate = new Date(data[data.length-1].date).getTime();
+               maxDate = data[data.length-1].date;
                const startIndex = Math.max(0, data.length - zoomBars);
-               minDate = new Date(data[startIndex].date).getTime();
+               minDate = data[startIndex].date;
             }
 
             const candleSeries = data.map(d => ({
-                x: new Date(d.date),
+                x: d.date, // 💡修改：不使用 new Date()，直接用字串
                 y: [d.open, d.high, d.low, d.close]
             }));
 
             const volColors = data.map(d => (d.close >= d.open) ? '#EF4444' : '#10B981');
             const volSeries = data.map(d => ({
-                x: new Date(d.date),
+                x: d.date, // 💡修改：不使用 new Date()，直接用字串
                 y: d.volume
             }));
 
@@ -1962,7 +1962,7 @@ if (forecasts.length === 0) {
             const commonOptions = {
                 chart: { group: 'kline-group', toolbar: { show: false } },
                 grid: { borderColor: '#f1f1f1', xaxis: { lines: { show: true } } },
-                xaxis: { type: 'datetime', tooltip: { enabled: true } }
+                xaxis: { type: 'category', tooltip: { enabled: true } } // 💡修改：改為 category
             };
 
             // 1. Main Chart
@@ -1992,7 +1992,7 @@ if (forecasts.length === 0) {
                 },
                 stroke: { width: [1, 1.5, 1.5, 1.5] },
                 xaxis: { 
-                    type: 'datetime', 
+                    type: 'category', // 💡修改：改為 category
                     min: minDate, 
                     max: maxDate,
                     labels: { show: false }, 
@@ -2030,12 +2030,19 @@ if (forecasts.length === 0) {
                 },
                 dataLabels: { enabled: false },
                 xaxis: { 
-                    type: 'datetime', 
+                    type: 'category', // 💡修改：改為 category
                     min: minDate, 
                     max: maxDate,
+                    tickAmount: 10, // 💡新增：避免改為 Category 後標籤過度重疊
                     labels: { 
                         show: true,
-                        datetimeFormatter: { year: 'yyyy', month: 'M/d', day: 'M/d' },
+                        // 💡修改：類別軸不支援 datetimeFormatter，改用自訂 formatter 來裁切出 MM/DD
+                        formatter: function(val) {
+                            if (!val) return '';
+                            const parts = val.toString().split('-');
+                            if(parts.length >= 3) return `${parts[1]}/${parts[2]}`;
+                            return val;
+                        },
                         style: { colors: '#9CA3AF', fontSize: '11px', fontFamily: 'monospace' },
                     },
                     tooltip: { enabled: false },
