@@ -56,24 +56,45 @@
     </main>
 
     <script>
-        window.onload = () => {
-            const localData = localStorage.getItem('bbb_db_v5');
-            const db = localData ? JSON.parse(localData) : [];
+        window.onload = async () => {
+
+    let db = [];
+
+    try {
+        // 🔥 強制抓 GitHub 最新資料
+        const res = await fetch(`./data.json?t=${Date.now()}`);
+
+        if (!res.ok) throw new Error("data.json 讀取失敗");
+
+        db = await res.json();
+
+        // 同步寫入 localStorage（讓主頁同步）
+        localStorage.setItem('bbb_db_v5', JSON.stringify(db));
+
+    } catch (e) {
+        console.warn("⚠️ 讀取 data.json 失敗，改用 localStorage", e);
+
+        const localData = localStorage.getItem('bbb_db_v5');
+        db = localData ? JSON.parse(localData) : [];
+    }
+
+    const container = document.getElementById('cards-container');
+    const emptyState = document.getElementById('empty-state');
+    const stats = document.getElementById('overview-stats');
+
+    if (db.length === 0) {
+        emptyState.classList.remove('hidden');
+        return;
+    }
+
+    stats.innerHTML = `<span class="bg-[#8B7355] text-white px-3 py-1 rounded-full shadow-sm">監控庫存：${db.length} 檔</span>`;
+
+    let cardsHtml = '';
+
+    db.forEach(s => {
+        // 👇 原本下面的內容全部保留（不要動）
             
-            const container = document.getElementById('cards-container');
-            const emptyState = document.getElementById('empty-state');
-            const stats = document.getElementById('overview-stats');
-
-            if (db.length === 0) {
-                emptyState.classList.remove('hidden');
-                return;
-            }
-
-            stats.innerHTML = `<span class="bg-[#8B7355] text-white px-3 py-1 rounded-full shadow-sm">監控庫存：${db.length} 檔</span>`;
-
-            let cardsHtml = '';
-
-            db.forEach(s => {
+            
                 const name = s.name || '--';
                 const id = s.id || '--';
                 const price = s.basicInfo?.price || '-';
