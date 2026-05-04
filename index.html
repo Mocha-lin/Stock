@@ -648,13 +648,19 @@
         let currentKLineData = [];
         let currentTimeframe = 'D';
 
-        window.onload = () => {
-            const local = localStorage.getItem('bbb_db_v5'); 
-            if(local) db = JSON.parse(local);
-            renderSidebar();
-            syncData(); 
-        };
+        window.onload = async () => {
+    await syncData(true);
 
+    // 如果雲端沒資料，才 fallback 本地
+    if (!db || db.length === 0) {
+        const local = localStorage.getItem('bbb_db_v5');
+        if (local) {
+            db = JSON.parse(local);
+        }
+    }
+
+    renderSidebar();
+};
         function getDateValue(dateStr) {
             if(!dateStr) return 0;
             const parts = dateStr.split(/[\/-]/);
@@ -864,46 +870,61 @@
         // --------------------------------------
         // Rendering
         // --------------------------------------
-        async function syncData(force=false) {
-            const badge = document.getElementById('statusBadge');
-            badge.innerText = "Syncing...";
-            badge.className = "text-sm font-mono px-3 py-1 rounded bg-yellow-100 text-yellow-700 flex items-center";
-            try {
-                const res = await fetch(force ? `./data.json?t=${Date.now()}` : './data.json');
-                const cloud = await res.json();
-                if(Array.isArray(cloud) && cloud.length>0) {
-                    const localData = JSON.parse(localStorage.getItem('bbb_db_v5')||'[]');
-                    cloud.forEach(c => {
-                        const idx = localData.findIndex(x=>x.id===c.id);
-                        if(idx!==-1) {
-                            if(!c.memo) c.memo = localData[idx].memo;
-                            // Merge all block B parts
-                            if(c.revenue_predictions) localData[idx].revenue_predictions = c.revenue_predictions;
-                            if(c.eps_predictions) localData[idx].eps_predictions = c.eps_predictions;
-                            if(c.technical_analysis) localData[idx].technical_analysis = c.technical_analysis;
-                            if(c.ai_message_board) localData[idx].ai_message_board = c.ai_message_board;
-                            if(c.industry_analysis) localData[idx].industry_analysis = c.industry_analysis;
-                            if(c.c_model) localData[idx].c_model = c.c_model;
-                            if(c.risk_evaluation) localData[idx].risk_evaluation = c.risk_evaluation;
-                            if(c.ai_resources) localData[idx].ai_resources = c.ai_resources; // sync resources too
-                            if(c.ai_forecasts) localData[idx].ai_forecasts = c.ai_forecasts;
-                            localData[idx] = c; 
-                        } else {
-                            localData.unshift(c);
-                        }
-                    });
-                    db = localData;
-                    saveToLocal();
-                    renderSidebar();
-                    if(currentStockId) loadStock(currentStockId);
-                    badge.innerHTML = `<i class="fas fa-check-circle mr-2"></i> Online`;
-                    badge.className = "text-sm font-mono px-3 py-1 rounded bg-green-100 text-green-700 flex items-center";
-                }
-            } catch(e) {
-                badge.innerText = "Local Mode";
-                badge.className = "text-sm font-mono px-3 py-1 rounded bg-gray-100 text-gray-500 flex items-center";
-            }
+        // --------------------------------------
+// 🔥 新版同步邏輯（完全取代原本 syncData）
+// --------------------------------------
+async function syncData(force = false) {
+    const badge = document.getElementById('statusBadge');
+
+    badge.innerText = "Syncing...";
+    badge.className = "text-sm font-mono px-3 py-1 rounded bg-yellow-100 text-yellow-700 flex items-center";
+
+    try {
+        // 🔥 強制抓最新（避免 Safari / Edge 快取）
+        const res = await fetch(`./data.json?t=${Date.now()}`);
+
+        if (!res.ok) {
+            throw new Error("data.json 讀取失敗: " + res.status);
         }
+
+        const cloud = await res.json();
+
+        // 🔥 核心修正：只要是陣列就用（不再檢查 length）
+        if (!Array.isArray(cloud)) {
+            throw new Error("data.json 格式錯誤（不是陣列）");
+        }
+
+        // ✅ 直接覆蓋資料
+        db = cloud;
+
+        // ✅ 存入 localStorage（當快取）
+        localStorage.setItem('bbb_db_v5', JSON.stringify(db));
+
+        // ✅ 更新 UI
+        renderSidebar();
+
+        if (currentStockId) {
+            loadStock(currentStockId);
+        }
+
+        // ✅ 狀態顯示
+        badge.innerHTML = `<i class="fas fa-check-circle mr-2"></i> Online`;
+        badge.className = "text-sm font-mono px-3 py-1 rounded bg-green-100 text-green-700 flex items-center";
+
+    } catch (e) {
+        console.error("❌ syncData error:", e);
+
+        // ❗ fallback：用 localStorage
+        const local = localStorage.getItem('bbb_db_v5');
+        if (local) {
+            db = JSON.parse(local);
+            renderSidebar();
+        }
+
+        badge.innerText = "Local Mode";
+        badge.className = "text-sm font-mono px-3 py-1 rounded bg-gray-100 text-gray-500 flex items-center";
+    }
+}
 
         function renderSidebar() {
             const el = document.getElementById('stockList');
