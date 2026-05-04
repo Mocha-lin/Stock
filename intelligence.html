@@ -21,6 +21,14 @@
         .score-high { background: #FEE2E2; color: #B91C1C; }
         .score-mid { background: #FEF3C7; color: #B45309; }
         .score-low { background: #E0F2FE; color: #0369A1; }
+
+        /* 新增：NEW 標籤動畫 */
+        .badge-new { animation: pulse 2s infinite; }
+        @keyframes pulse { 0% { opacity: 1; } 50% { opacity: 0.6; } 100% { opacity: 1; } }
+        
+        /* 新增：已讀狀態樣式 */
+        .is-read { opacity: 0.6; filter: grayscale(50%); transition: all 0.3s; }
+        .is-read:hover { opacity: 1; filter: grayscale(0%); }
     </style>
 </head>
 <body class="min-h-screen flex flex-col">
@@ -28,8 +36,12 @@
     <!-- Header -->
     <header class="bg-[#ECE8DE] h-16 flex items-center px-6 border-b border-[#DCD6C9] justify-between shrink-0 shadow-sm z-50 sticky top-0">
         <div class="font-black text-2xl tracking-widest text-[#5A4A42]">bbb INTELLIGENCE <span class="text-sm font-medium text-gray-500 ml-1">情報中心</span></div>
-        <div class="flex items-center gap-4">
-            <a href="index.html" class="bg-gray-700 text-white px-4 py-2 rounded-full text-sm font-bold shadow hover:bg-gray-800 transition flex items-center gap-2">
+        <div class="flex items-center gap-3">
+            <!-- 新增：標記已讀按鈕 -->
+            <button onclick="markAllAsRead()" class="bg-white border border-gray-300 text-gray-600 px-3 py-1.5 rounded-full text-sm font-bold shadow-sm hover:bg-gray-50 transition flex items-center gap-2">
+                <i class="fas fa-check-double"></i> 標為已讀
+            </button>
+            <a href="index.html" class="bg-gray-700 text-white px-4 py-1.5 rounded-full text-sm font-bold shadow hover:bg-gray-800 transition flex items-center gap-2">
                 <i class="fas fa-home"></i> 回戰情室
             </a>
         </div>
@@ -38,7 +50,7 @@
     <main class="flex-1 p-4 md:p-8 max-w-[1600px] mx-auto w-full">
         <div class="grid grid-cols-1 lg:grid-cols-3 gap-8 items-start">
             
-            <!-- Column 1: AI 國際情報雷達 (接 Python JSON) -->
+            <!-- Column 1: AI 國際情報雷達 -->
             <div class="glass-panel p-6 bg-blue-50/30 border-blue-100">
                 <div class="header-title text-blue-800 border-blue-200">
                     <span><i class="fas fa-satellite-dish mr-2"></i>AI 國際情報雷達</span>
@@ -49,7 +61,7 @@
                 </div>
             </div>
 
-            <!-- Column 2: 庫存股事件與大展行事曆 (保留原邏輯) -->
+            <!-- Column 2: 庫存股事件與大展行事曆 -->
             <div class="glass-panel p-6">
                 <div class="header-title text-[#8B7355]"><span><i class="far fa-calendar-alt mr-2"></i>自選股行事曆 (Events)</span></div>
                 <div id="events_container">
@@ -57,7 +69,7 @@
                 </div>
             </div>
 
-            <!-- Column 3: 庫存股情報動態 (保留原邏輯) -->
+            <!-- Column 3: 庫存股情報動態 -->
             <div class="glass-panel p-6 bg-[#FFFDF5] border-[#E8E0C0]">
                 <div class="header-title text-[#8B7355] border-[#DCD6C9]"><span><i class="fas fa-bolt mr-2 text-yellow-500"></i>自選股情報動態 (News Feed)</span></div>
                 <div class="space-y-4" id="news_container">
@@ -69,10 +81,39 @@
     </main>
 
     <script>
+        // 初始化：取得上次造訪時間與已讀列表
+        let lastVisitTime = parseInt(localStorage.getItem('bbb_last_visit') || '0');
+        let readItems = JSON.parse(localStorage.getItem('bbb_read_items') || '[]');
+        const currentTime = new Date().getTime();
+
         window.onload = () => {
             loadInternalData();
-            fetchAiRadarNews(); // 載入 Python 產出的 JSON
+            fetchAiRadarNews();
+            
+            // 網頁載入完成後，更新最後造訪時間 (延遲 3 秒讓使用者能看到 NEW 標籤)
+            setTimeout(() => {
+                localStorage.setItem('bbb_last_visit', currentTime.toString());
+            }, 3000);
         };
+
+        // 新增：標記點擊過的新聞為已讀
+        function markAsRead(id, elementId) {
+            if (!readItems.includes(id)) {
+                readItems.push(id);
+                // 限制儲存數量避免 localStorage 爆掉
+                if(readItems.length > 200) readItems.shift(); 
+                localStorage.setItem('bbb_read_items', JSON.stringify(readItems));
+            }
+            document.getElementById(elementId).classList.add('is-read');
+            const badge = document.getElementById('badge-' + elementId);
+            if(badge) badge.style.display = 'none';
+        }
+
+        // 新增：全部標記為已讀按鈕功能
+        function markAllAsRead() {
+            localStorage.setItem('bbb_last_visit', new Date().getTime().toString());
+            location.reload(); // 重新載入畫面套用已讀狀態
+        }
 
         // --- 1. 抓取 AI 雷達 JSON ---
         async function fetchAiRadarNews() {
@@ -80,19 +121,15 @@
             const timeTag = document.getElementById('radar-time');
             
             try {
-                // 讀取同一個資料夾下的 bbb_news_payload.json
                 const response = await fetch('./bbb_news_payload.json');
                 if (!response.ok) throw new Error('找不到資料');
-                
                 const data = await response.json();
                 
-                // 顯示更新時間
                 const dateObj = new Date(data.generated_at);
                 timeTag.innerText = `更新於: ${dateObj.getHours()}:${String(dateObj.getMinutes()).padStart(2,'0')}`;
 
                 let html = '';
-                // 顯示前 15 則最重要的
-                data.items.slice(0, 15).forEach(item => {
+                data.items.slice(0, 15).forEach((item, index) => {
                     let scoreClass = 'score-low';
                     if (item.importance >= 70) scoreClass = 'score-high';
                     else if (item.importance >= 50) scoreClass = 'score-mid';
@@ -101,10 +138,20 @@
                     if (item.impact === 'positive') impactIcon = '<i class="fas fa-arrow-up text-green-600 ml-1"></i>';
                     else if (item.impact === 'negative') impactIcon = '<i class="fas fa-arrow-down text-red-600 ml-1"></i>';
 
+                    // 判斷是否為新資料或已讀
+                    const itemTime = new Date(item.generated_at || data.generated_at).getTime();
+                    const isNew = itemTime > lastVisitTime;
+                    const isRead = readItems.includes(item.url);
+                    const readClass = isRead ? 'is-read' : '';
+                    const newBadge = (isNew && !isRead) ? `<span id="badge-radar-${index}" class="badge-new bg-red-500 text-white text-[10px] px-1.5 py-0.5 rounded ml-2 font-black tracking-wider">NEW</span>` : '';
+
                     html += `
-                        <div class="border-b border-blue-100 bg-white p-3 rounded-lg shadow-sm hover:shadow transition mb-3">
+                        <div id="radar-${index}" class="border-b border-blue-100 bg-white p-3 rounded-lg shadow-sm hover:shadow transition mb-3 ${readClass}" onclick="markAsRead('${item.url}', 'radar-${index}')">
                             <div class="flex justify-between items-center mb-1">
-                                <span class="bg-blue-50 text-blue-700 text-[11px] font-bold px-2 py-0.5 rounded">${item.theme}</span>
+                                <div>
+                                    <span class="bg-blue-50 text-blue-700 text-[11px] font-bold px-2 py-0.5 rounded">${item.theme}</span>
+                                    ${newBadge}
+                                </div>
                                 <span class="score-badge ${scoreClass}">AI評分:${item.importance}</span>
                             </div>
                             <a href="${item.url}" target="_blank" class="text-gray-800 text-sm font-bold hover:text-blue-600 block mb-1">
@@ -119,16 +166,11 @@
                 container.innerHTML = html;
 
             } catch (err) {
-                container.innerHTML = `
-                    <div class="text-gray-400 text-sm italic text-center py-6">
-                        系統正等待 GitHub 自動排程更新資料...<br>
-                        <span class="text-xs mt-2 block">(若無資料請確認 Github Actions 是否正常運作)</span>
-                    </div>`;
-                console.error('Fetch AI radar failed:', err);
+                container.innerHTML = `<div class="text-gray-400 text-sm italic text-center py-6">系統正等待自動更新...</div>`;
             }
         }
 
-        // --- 2. 處理原本的內部自選股資料 (完全保留你的邏輯) ---
+        // --- 2. 處理內部自選股資料 ---
         function loadInternalData() {
             const localData = localStorage.getItem('bbb_db_v5');
             const db = localData ? JSON.parse(localData) :[];
@@ -161,7 +203,7 @@
             // 渲染：事件
             allEvents.sort((a, b) => new Date(b.date) - new Date(a.date));
             let eventsHtml = '';
-            if (allEvents.length === 0) eventsHtml = '<div class="text-gray-400 text-base italic text-center py-8">自選股近期無重大事件</div>';
+            if (allEvents.length === 0) eventsHtml = '<div class="text-gray-400 text-base italic text-center py-8">無重大事件</div>';
             else {
                 let lastDate = '';
                 allEvents.slice(0, 30).forEach(e => {
@@ -170,7 +212,7 @@
                         lastDate = e.date;
                     }
                     eventsHtml += `
-                        <div class="flex items-start gap-3 mb-4 pl-2 bg-white p-3 rounded-lg border border-gray-100 shadow-sm">
+                        <div class="flex items-start gap-3 mb-4 pl-2 bg-white p-3 rounded-lg border border-gray-100 shadow-sm hover:shadow-md transition">
                             <div class="bg-gray-700 text-white text-xs font-bold px-2 py-1 rounded whitespace-nowrap mt-0.5 shadow-sm">${e.stockName}</div>
                             <div class="text-base text-gray-800 font-medium leading-relaxed">${e.event}</div>
                         </div>
@@ -182,20 +224,32 @@
             // 渲染：情報
             allNews.sort((a, b) => new Date(b.date) - new Date(a.date));
             let newsHtml = '';
-            if (allNews.length === 0) newsHtml = '<div class="text-gray-400 text-base italic text-center py-8">自選股近期無情報更新</div>';
+            if (allNews.length === 0) newsHtml = '<div class="text-gray-400 text-base italic text-center py-8">無情報更新</div>';
             else {
-                allNews.slice(0, 40).forEach(m => {
+                // 取得今日日期字串用來判斷 NEW
+                const todayStr = new Date().toISOString().split('T')[0];
+
+                allNews.slice(0, 40).forEach((m, index) => {
                     let arrow = '';
                     if (m.sentiment === 'positive' || m.sentiment === 1) arrow = '<span class="arrow-up"></span>';
                     else if (m.sentiment === 'negative' || m.sentiment === -1) arrow = '<span class="arrow-down"></span>';
                     else arrow = '<span class="inline-block w-[24px]"></span>'; 
+                    
                     let tagHtml = m.tag ? `<span class="bg-[#ECE8DE] text-[#8B7355] px-2 py-0.5 rounded text-xs font-bold mr-2 align-top border border-[#DCD6C9]">${m.tag}</span>` : '';
 
+                    // 判斷是否為新情報 (由於內部資料只有日期，我們把"今天"的當作NEW)
+                    const uniqueId = m.stockName + m.date + index; // 產生唯一ID
+                    const isRead = readItems.includes(uniqueId);
+                    const isNew = m.date === todayStr;
+                    const readClass = isRead ? 'is-read' : '';
+                    const newBadge = (isNew && !isRead) ? `<span id="badge-news-${index}" class="badge-new bg-red-500 text-white text-[9px] px-1 py-0.5 rounded block mt-1 text-center font-black">NEW</span>` : '';
+
                     newsHtml += `
-                        <div class="py-4 border-b border-gray-200 flex gap-3 items-start bg-white p-4 rounded-xl shadow-sm mb-3">
+                        <div id="news-${index}" class="py-4 border-b border-gray-200 flex gap-3 items-start bg-white p-4 rounded-xl shadow-sm mb-3 cursor-pointer ${readClass}" onclick="markAsRead('${uniqueId}', 'news-${index}')">
                             <div class="flex flex-col items-center shrink-0 w-16 gap-1.5 pt-1">
                                 <span class="font-mono text-gray-500 text-xs">${m.date.substring(5)}</span>
-                                <span class="text-xs font-black text-gray-700 bg-gray-100 px-2 py-1 rounded">${m.stockName}</span>
+                                <span class="text-xs font-black text-gray-700 bg-gray-100 px-2 py-1 rounded w-full text-center">${m.stockName}</span>
+                                ${newBadge}
                             </div>
                             <div class="pt-1 shrink-0">${arrow}</div>
                             <div class="text-gray-800 text-sm leading-relaxed flex-1 font-medium">
