@@ -871,56 +871,121 @@
         // Rendering
         // --------------------------------------
         // --------------------------------------
-// 🔥 新版同步邏輯（完全取代原本 syncData）
+        // --------------------------------------
+        // 🚀 自動更新邏輯：判斷是否需要更新股價
+        // --------------------------------------
+        function shouldUpdate(lastUpdatedStr) {
+            if (!lastUpdatedStr || lastUpdatedStr === '-') return true;
+            
+            const lastUpdate = new Date(lastUpdatedStr);
+            if (isNaN(lastUpdate.getTime())) return true;
+
+            const now = new Date();
+            const threshold = new Date(now);
+            threshold.setHours(13, 30, 0, 0);
+
+            // 計算「目標收盤基準點」
+            // 如果現在還沒到 13:30，基準點應該是「昨天」的 13:30
+            let targetClose = threshold;
+            if (now < threshold) {
+                targetClose = new Date(threshold.getTime() - 24 * 60 * 60 * 1000);
+            }
+
+            // 只有最後更新時間早於「最近一次收盤基準點」，才需要更新
+            return lastUpdate < targetClose;
+        }
+
+        async function updateStockPrice(s) {
+            const id = s.id;
+            try {
+                // 標記正在更新中，避免同一個 session 重複進入
+                s._isUpdating = true;
+                
+                const d = new Date();
+                d.setFullYear(d.getFullYear() - 1);
+                const startDate = d.toISOString().split('T')[0];
+
+                const response = await fetch(`https://api.finmindtrade.com/api/v4/data?dataset=TaiwanStockPrice&data_id=${id}&start_date=${startDate}`);
+                const result = await response.json();
+
+                if (result.data && result.data.length > 0) {
+                    const kline = result.data.map(item => ({
+                        date: item.date,
+                        open: item.open,
+                        high: item.max,
+                        low: item.min,
+                        close: item.close,
+                        volume: item.Trading_Volume
+                    }));
+
+                    const latest = kline[kline.length - 1];
+                    const prev = kline.length > 1 ? kline[kline.length - 2] : latest;
+
+                    s.basicInfo.price = latest.close.toFixed(2);
+                    const change = latest.close - prev.close;
+                    s.basicInfo.change = change.toFixed(2);
+                    s.basicInfo.changePercent = ((change / prev.close) * 100).toFixed(2) + "%";
+                    
+                    s.lastUpdated = new Date().toISOString();
+                    if (s.financials) {
+                        s.financials.kline_data = kline;
+                    }
+                    console.log(`[更新完成] ${s.name} (${id}) @ ${s.lastUpdated}`);
+                    return kline;
+                }
+            } catch (error) {
+                console.warn(`[${id}] 自動更新失敗:`, error);
+            } finally {
+                delete s._isUpdating;
+            }
+            return null;
+        }
+
+// 🔥 新版同步邏輯（加入本地快取保護，避免重複更新）
 // --------------------------------------
 async function syncData(force = false) {
     const badge = document.getElementById('statusBadge');
-
     badge.innerText = "Syncing...";
     badge.className = "text-sm font-mono px-3 py-1 rounded bg-yellow-100 text-yellow-700 flex items-center";
 
     try {
-        // 🔥 改為抓取輕量化的摘要檔
         const res = await fetch(`./stocks_summary.json?t=${Date.now()}`);
-
-        if (!res.ok) {
-            throw new Error("stocks_summary.json 讀取失敗: " + res.status);
-        }
+        if (!res.ok) throw new Error("stocks_summary.json 讀取失敗");
 
         const cloud = await res.json();
+        const localData = JSON.parse(localStorage.getItem('bbb_db_v5') || "[]");
 
-        // 🔥 核心修正：只要是陣列就用（不再檢查 length）
-        if (!Array.isArray(cloud)) {
-            throw new Error("data.json 格式錯誤（不是陣列）");
+        // 🚀 核心優化：合併雲端與本地資料，保護已更新的時間戳記
+        db = cloud.map(cloudStock => {
+            const local = localData.find(l => l.id === cloudStock.id);
+            // 如果本地有資料，且本地的更新時間比雲端更晚，則保留本地股價
+            if (local && local.lastUpdated && cloudStock.lastUpdated) {
+                if (new Date(local.lastUpdated) > new Date(cloudStock.lastUpdated)) {
+                    return { ...cloudStock, ...local }; 
+                }
+            }
+            return cloudStock;
+        });
+        
+        console.log("正在檢查是否有股票需要自動更新股價...");
+        for (let s of db) {
+            if (shouldUpdate(s.lastUpdated) && !s._isUpdating) {
+                console.log(`[符合更新條件] ${s.name} (上次更新: ${s.lastUpdated})`);
+                await updateStockPrice(s);
+                await new Promise(r => setTimeout(r, 150));
+            }
         }
 
-        // ✅ 直接覆蓋資料
-        db = cloud;
-
-        // ✅ 存入 localStorage（當快取）
         localStorage.setItem('bbb_db_v5', JSON.stringify(db));
-
-        // ✅ 更新 UI
         renderSidebar();
+        if (currentStockId) loadStock(currentStockId);
 
-        if (currentStockId) {
-            loadStock(currentStockId);
-        }
-
-        // ✅ 狀態顯示
         badge.innerHTML = `<i class="fas fa-check-circle mr-2"></i> Online`;
         badge.className = "text-sm font-mono px-3 py-1 rounded bg-green-100 text-green-700 flex items-center";
-
     } catch (e) {
         console.error("❌ syncData error:", e);
-
-        // ❗ fallback：用 localStorage
         const local = localStorage.getItem('bbb_db_v5');
-        if (local) {
-            db = JSON.parse(local);
-            renderSidebar();
-        }
-
+        if (local) { db = JSON.parse(local); renderSidebar(); }
         badge.innerText = "Local Mode";
         badge.className = "text-sm font-mono px-3 py-1 rounded bg-gray-100 text-gray-500 flex items-center";
     }
@@ -1497,62 +1562,46 @@ async function syncData(force = false) {
             }
 
             // ==========================================
-			// 🚀 核心修改：非同步抓取 FinMind K線資料
+			// 🚀 核心修改：自動判斷是否更新股價
 			// ==========================================
-			async function fetchAndRenderFinMindKLine() {
-				try {
-					const d = new Date();
-					d.setFullYear(d.getFullYear() - 1);
-					const startDate = d.toISOString().split('T')[0];
+			async function handleStockLoading() {
+                if (shouldUpdate(s.lastUpdated)) {
+                    console.log(`[自動更新] 偵測到 ${s.name} 資料較舊，正在同步最新股價...`);
+                    const newKline = await updateStockPrice(s);
+                    if (newKline) {
+                        currentKLineData = newKline;
+                        
+                        // 更新 UI 顯示 (因 updateStockPrice 已經改了 s 的內容)
+                        setText('d_date', s.lastUpdated);
+                        setText('d_price', s.basicInfo.price);
+                        const chg = parseFloat(s.basicInfo.change) || 0;
+                        const col = chg >= 0 ? "text-[#C0392B]" : "text-[#16A34A]";
+                        document.getElementById('d_price').className = `text-7xl font-mono font-bold tracking-tighter ${col}`;
+                        document.getElementById('d_change').innerHTML = `<span class="${col}">${s.basicInfo.change} (${s.basicInfo.changePercent})</span>`;
+                        if(document.getElementById('d_price_m')) document.getElementById('d_price_m').innerText = s.basicInfo.price;
 
-					const response = await fetch(`https://api.finmindtrade.com/api/v4/data?dataset=TaiwanStockPrice&data_id=${id}&start_date=${startDate}`);
-					const result = await response.json();
+                        renderKLineChart(currentKLineData, currentTimeframe, s.technical_analysis);
+                        renderSidebar();
+                        saveToLocal();
+                        updateStrikeZone(s); // 同時更新好球帶指針
+                        return; 
+                    }
+                }
 
-					if (result.data && result.data.length > 0) {
-						currentKLineData = result.data.map(item => ({
-							date: item.date,
-							open: item.open,
-							high: item.max,
-							low: item.min,
-							close: item.close,
-							volume: item.Trading_Volume
-						}));
+                // 如果不需要更新，或更新失敗，則使用快取資料
+                currentKLineData = s.financials?.kline_data || [];
+                renderKLineChart(currentKLineData, currentTimeframe, s.technical_analysis);
+                
+                // 即使不更新 K 線，也要確保價格顯示正確
+                setText('d_price', s.basicInfo.price);
+                const chg = parseFloat(s.basicInfo.change) || 0;
+                const col = chg >= 0 ? "text-[#C0392B]" : "text-[#16A34A]";
+                document.getElementById('d_price').className = `text-7xl font-mono font-bold tracking-tighter ${col}`;
+                document.getElementById('d_change').innerHTML = `<span class="${col}">${s.basicInfo.change} (${s.basicInfo.changePercent})</span>`;
+            }
 
-						// ==========================================
-						// 🚀 新增：使用 FinMind 最新 K 線更新左側與上方股價
-						// ==========================================
-						const latest = currentKLineData[currentKLineData.length - 1];
-						const prev = currentKLineData.length > 1 ? currentKLineData[currentKLineData.length - 2] : latest;
-						
-						s.basicInfo.price = latest.close.toFixed(2);
-						const change = latest.close - prev.close;
-						s.basicInfo.change = change.toFixed(2);
-						s.basicInfo.changePercent = ((change / prev.close) * 100).toFixed(2) + "%";
-
-						// 更新上方儀表板大數字
-						const col = change >= 0 ? "text-[#C0392B]" : "text-[#16A34A]";
-						document.getElementById('d_price').className = `text-7xl font-mono font-bold tracking-tighter ${col}`;
-						document.getElementById('d_price').innerText = s.basicInfo.price;
-						document.getElementById('d_change').innerHTML = `<span class="${col}">${s.basicInfo.change} (${s.basicInfo.changePercent})</span>`;
-						if(document.getElementById('d_price_m')) document.getElementById('d_price_m').innerText = s.basicInfo.price;
-
-						// 重新渲染左側側邊欄，讓股價變更生效，並存入快取
-						renderSidebar();
-						saveToLocal();
-					} else {
-						throw new Error("FinMind 查無資料");
-					}
-				} catch (error) {
-					console.warn("FinMind 請求失敗，降級使用 JSON:", error);
-					currentKLineData = s.financials.kline_data || [];
-				} finally {
-					// 這裡傳入 currentTimeframe，確保切換股票時維持在日/週/月線
-					renderKLineChart(currentKLineData, currentTimeframe, s.technical_analysis);
-				}
-			}
-
-			// 執行抓取與渲染
-			fetchAndRenderFinMindKLine();
+            // 執行載入邏輯
+            handleStockLoading();
 
             // --- 更新標籤 UI 狀態 ---
             // 1. 更新狀態按鈕顏色 (⚡ BUY / 🟡 FLU)
