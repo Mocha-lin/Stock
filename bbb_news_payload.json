@@ -1,9 +1,9 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-05-05T20:02:11.199892+00:00",
+  "generated_at": "2026-05-05T23:48:36.948128+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
-  "total_count": 71,
+  "total_count": 72,
   "items": [
     {
       "id": "1c316794c9ab6634",
@@ -228,6 +228,41 @@
       "reason": "屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
+      "id": "0b740e3ba64fecf8",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "隨著 HBM 需求前景的變化，SK Hynix 正在考慮內存工廠的轉移",
+      "summary": "SK 海力士正在考慮改變其位於韓國清州的新 M15X 記憶體生產基地的 DRAM 投資策略，從第五代 10 奈米級（即 1b）DRAM 轉向第六代 10 奈米級（即 1c）DRAM，作為高頻寬記憶體（HBM）…",
+      "original_title": "SK Hynix weighs memory plant shift as HBM demand outlook changes",
+      "url": "https://www.digitimes.com/news/a20260504VL215/sk-hynix-dram-hbm-demand-outlook.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-05-04T23:46:33Z",
+      "importance": 68,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "d89152645c4a6e03",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -302,41 +337,6 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "349e2695c47e3f80",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "Nvidia 利用 Nanya 打造 AI 機架，其 LPDDR 相當於每個機架 4,500 部智慧型手機",
-      "summary": "人工智慧的蓬勃發展正在推動記憶體需求遠遠超出高頻寬記憶體 (HBM) 的範圍。低功耗 DRAM 現在也面臨壓力，隨著 Nvidia、高通和特斯拉等晶片開發商在下一代處理器中採用 LPDDR，低功耗 DRAM 也出現了短缺。",
-      "original_title": "Nvidia taps Nanya for AI racks with LPDDR equivalent to 4,500 smartphones per rack",
-      "url": "https://www.digitimes.com/news/a20260429VL207/expansion-nvidia-demand-hbm-rubin.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-04-29T04:01:04Z",
-      "importance": 68,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "e37f6035463e6cc0",
@@ -678,44 +678,6 @@
       "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "2d5b8d105aa0edf5",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "蒂姆·庫克表示 iPhone 17 需求“破紀錄”，但供應限制影響了銷售",
-      "summary": "蘋果剛剛公佈了季度業績，其中 iPhone 收入為 569.9 億美元。這個數字略低於分析師對財報的預期平均水平，但蒂姆·庫克告訴路透社，如果蘋果有供應，蘋果的銷量會更高…",
-      "original_title": "Tim Cook says iPhone 17 demand is ‘off the charts’, but supply constraints impacted sales",
-      "url": "https://9to5mac.com/2026/04/30/tim-cook-iphone-demand-off-the-charts/",
-      "source": "9to5Mac",
-      "domain": "9to5mac.com",
-      "published_at": "2026-04-30T20:46:03Z",
-      "importance": 60,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "4c26d2b42ecd6107",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -977,6 +939,79 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "9928391c9e9c5092",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "對 OpenClaw 粉絲來說是個壞消息：蘋果 Mac Mini 起價為 799 美元",
+      "summary": "微型台式机不再是苹果最实惠的电脑\nMac Mini 是 AI 驅動的 RAM 災難的最新受害者。上週，Apple 停產了該系統的 256 GB 版本，售價為 599 美元。要立即加入，您需要至少花費 799 美元…",
+      "original_title": "Bad news for OpenClaw stans: Apple’s Mac Mini now starts at $799",
+      "url": "https://www.theregister.com/2026/05/04/mac_mini_ai_memory/",
+      "source": "Theregister.com",
+      "domain": "theregister.com",
+      "published_at": "2026-05-04T21:46:13Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "63b7dea3c841ae52",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "Google Pixel 11、Pixel 11 Pro、Pixel 11 Pro XL、Pixel 11 Pro Fold 規格洩露",
+      "summary": "今天的新洩漏聲稱為我們帶來了有關即將推出的 Google Pixel 11 系列的大量詳細信息，所以讓我們直接深入了解。所有設備都將使用 Tensor G6 SoC，該 SoC 將基於 TSMC N2 (2nm) 節點建置。其 CPU 將擁有一個 ARM C1-Ultra 內核，主頻為 4.11GH…",
+      "original_title": "Google Pixel 11, Pixel 11 Pro, Pixel 11 Pro XL, Pixel 11 Pro Fold specs leak",
+      "url": "https://www.gsmarena.com/google_pixel_11_pixel_11_pro_pixel_11_pro_xl_pixel_11_pro_fold_specs_leak-news-72668.php",
+      "source": "GSMArena.com",
+      "domain": "gsmarena.com",
+      "published_at": "2026-05-04T21:07:02Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "940de7d253a38c23",
@@ -2177,44 +2212,6 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "1a01139c1d5ae5c9",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "伊朗戰爭引發氦氣衝擊威脅全球晶片供應",
-      "summary": "卡達液化天然氣供應中斷對天然氣價格的持久影響有限，但引發了嚴重的氦氣短缺，中斷了全球高達 35% 的供應。",
-      "original_title": "Iran War Triggers Helium Shock Threatening Global Chip Supply",
-      "url": "https://finance.yahoo.com/sectors/technology/articles/iran-war-triggers-helium-shock-220000264.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-04-28T22:00:00Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "afd2db6168a81edf",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2403,6 +2400,44 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "1a01139c1d5ae5c9",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "伊朗戰爭引發氦氣衝擊威脅全球晶片供應",
+      "summary": "卡達液化天然氣供應中斷對天然氣價格的持久影響有限，但引發了嚴重的氦氣短缺，中斷了全球高達 35% 的供應。",
+      "original_title": "Iran War Triggers Helium Shock Threatening Global Chip Supply",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/iran-war-triggers-helium-shock-220000264.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-04-28T22:00:00Z",
+      "importance": 45,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     },
     {
       "id": "f790240a7dad0c3f",
