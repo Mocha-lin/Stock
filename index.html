@@ -880,11 +880,11 @@ async function syncData(force = false) {
     badge.className = "text-sm font-mono px-3 py-1 rounded bg-yellow-100 text-yellow-700 flex items-center";
 
     try {
-        // 🔥 強制抓最新（避免 Safari / Edge 快取）
-        const res = await fetch(`./data.json?t=${Date.now()}`);
+        // 🔥 改為抓取輕量化的摘要檔
+        const res = await fetch(`./stocks_summary.json?t=${Date.now()}`);
 
         if (!res.ok) {
-            throw new Error("data.json 讀取失敗: " + res.status);
+            throw new Error("stocks_summary.json 讀取失敗: " + res.status);
         }
 
         const cloud = await res.json();
@@ -1082,9 +1082,28 @@ async function syncData(force = false) {
             return '<i class="fas fa-robot"></i>';
         }
 
-        function loadStock(id) {
-            const s = db.find(x => x.id === id);
+        async function loadStock(id) {
+            let s = db.find(x => x.id === id);
             if(!s) return;
+
+            // 🔥 如果尚未載入詳細資料 (financials)，則從伺服器抓取
+            if (!s.financials) {
+                try {
+                    const res = await fetch(`./details/${id}.json?t=${Date.now()}`);
+                    if (!res.ok) throw new Error("詳情檔載入失敗");
+                    const detail = await res.json();
+                    
+                    // 合併資料到記憶體中的 db
+                    const idx = db.findIndex(x => x.id === id);
+                    db[idx] = { ...s, ...detail };
+                    s = db[idx];
+                } catch (err) {
+                    console.error("載入詳情失敗:", err);
+                    alert("無法載入該股票的詳細資料");
+                    return;
+                }
+            }
+
             currentStockId = id;
             document.getElementById('emptyState').classList.add('hidden');
             document.getElementById('dashboard').classList.remove('hidden');

@@ -60,8 +60,8 @@
 
             try {
                 // 強制抓 GitHub 最新資料 (防止快取)
-                const res = await fetch(`./data.json?t=${Date.now()}`);
-                if (!res.ok) throw new Error("data.json 讀取失敗");
+                const res = await fetch(`./stocks_summary.json?t=${Date.now()}`);
+                if (!res.ok) throw new Error("stocks_summary.json 讀取失敗");
                 
                 const cloud = await res.json();
                 

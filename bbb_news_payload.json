@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-05-05T18:12:59.147951+00:00",
+  "generated_at": "2026-05-05T10:48:52.491648+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 71,
@@ -39,6 +39,44 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
+      "id": "6ce682c8f23d3604",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "聯發科聘請退休的台積電封裝資深人士來加強代工關係，而不是與英特爾搭橋",
+      "summary": "台積電內部被稱為「六位騎士」的六位研發負責人之一、台積電先進封裝研發的核心人物餘振華於 2025 年從台積電退休後加入聯發科。聯發科證實了這一舉動，並表示...",
+      "original_title": "MediaTek taps retiring TSMC packaging veteran to strengthen foundry ties, not to bridge to Intel",
+      "url": "https://www.digitimes.com/news/a20260502PD201/tsmc-packaging-mediatek-intel-google.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-05-02T11:43:41Z",
+      "importance": 83,
+      "impact": "positive",
+      "timeframe": "short_to_mid_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "87b9d3cf8c53c2d8",
@@ -121,8 +159,8 @@
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "光通訊與矽光子",
-      "title": "AI的1.6T轉變讓InP成為光供應鏈瓶頸",
-      "summary": "從800G到1.6T光模組的過渡不再是一個升級週期－而​​是一個物理驅動的拐點。",
+      "title": "AI's 1.6T shift turns InP into optical supply chain bottleneck",
+      "summary": "The transition from 800G to 1.6T optical modules is no longer an upgrade cycle — it is a physics-driven inflection point.",
       "original_title": "AI's 1.6T shift turns InP into optical supply chain bottleneck",
       "url": "https://www.digitimes.com/news/a20260504VL207/optical-components-rare-earth-siph-supply-chain.html",
       "source": "Digitimes",
@@ -153,6 +191,41 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
+      "id": "dd48a70b68e7b993",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "人工智慧將記憶體變成金礦，美光和英偉達之間驚人的相似",
+      "summary": "Nvidia（納斯達克股票代碼：NVDA）憑藉其強大的 GPU 引領了人工智慧的第一波熱潮。隨著資料中心競相購買可以訓練的晶片，投資者紛紛湧入…",
+      "original_title": "The Shocking Similarity Between Micron and Nvidia as AI Turns Memory Into a Goldmine",
+      "url": "https://247wallst.com/investing/2026/05/02/the-shocking-similarity-between-micron-and-nvidia-as-ai-turns-memory-into-a-goldmine/",
+      "source": "24/7 Wall St.",
+      "domain": "247wallst.com",
+      "published_at": "2026-05-02T14:51:55Z",
+      "importance": 75,
+      "impact": "positive",
+      "timeframe": "short_to_mid_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "acf463a34552a68e",
@@ -191,41 +264,6 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
-      "id": "dd48a70b68e7b993",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "人工智慧將記憶體變成金礦，美光和英偉達之間驚人的相似",
-      "summary": "Nvidia（納斯達克股票代碼：NVDA）憑藉其強大的 GPU 引領了人工智慧的第一波熱潮。隨著資料中心競相購買可以訓練的晶片，投資者紛紛湧入…",
-      "original_title": "The Shocking Similarity Between Micron and Nvidia as AI Turns Memory Into a Goldmine",
-      "url": "https://247wallst.com/investing/2026/05/02/the-shocking-similarity-between-micron-and-nvidia-as-ai-turns-memory-into-a-goldmine/",
-      "source": "24/7 Wall St.",
-      "domain": "247wallst.com",
-      "published_at": "2026-05-02T14:51:55Z",
-      "importance": 70,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "d89152645c4a6e03",
@@ -526,6 +564,82 @@
       "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "73e173fc96e6d655",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "台積電加速 2nm 擴產，目標 2026 年新增 5 座晶圓廠創紀錄",
+      "summary": "在最近舉行的北美技術研討會上，台積電錶示，正在加倍先進節點產能擴張的步伐，以滿足人工智慧和高效能運算（HPC）不斷增長的需求。高級副總裁侯永清表示，五家 2nm 晶圓廠將進駐…",
+      "original_title": "TSMC accelerates 2nm expansion, targets record five-fab ramp in 2026",
+      "url": "http://technode.com/2026/04/29/tsmc-accelerates-2nm-expansion-as-ai-demand-surges-targets-record-five-fab-ramp-in-2026/",
+      "source": "TechNode",
+      "domain": "technode.com",
+      "published_at": "2026-04-29T02:32:19Z",
+      "importance": 65,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "9030b5631d4ac03c",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "Celestica Inc. 2026 年第一季財報電話會議摘要",
+      "summary": "Moby 對 Celestica Inc. 2026 年第一季財報電話會議的摘要",
+      "original_title": "Celestica Inc. Q1 2026 Earnings Call Summary",
+      "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-celestica-inc-q1-2026-earnings-call-summary?utm_source=yahoo_finance&amp;utm_medium=rss",
+      "source": "Moby.co",
+      "domain": "app.moby.co",
+      "published_at": "2026-04-28T12:30:00Z",
+      "importance": 65,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "23b27d58858ed4fd",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -562,82 +676,6 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "2081974ac25bacf8",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "研究發現人工智慧伺服器群會造成自己的本地熱島",
-      "summary": "承諾重塑未來的人工智慧泡沫也可能悄悄重塑氣候。一項新的研究表明，大型數據中心正在產生局部“熱島”，導致其周圍的溫度升高，並可能加劇全球…的影響。",
-      "original_title": "Study finds AI server farms creating their own local heat islands",
-      "url": "https://boingboing.net/2026/05/04/study-finds-ai-server-farms-creating-their-own-local-heat-islands.html",
-      "source": "Boing Boing",
-      "domain": "boingboing.net",
-      "published_at": "2026-05-04T17:52:22Z",
-      "importance": 60,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "060e2c6e4fecaa17",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "新的 Tensor G6 洩漏對 Pixel 11 系列來說有好消息和壞消息",
-      "summary": "新的洩密事件揭露了 Tensor G6 的大量規格，該處理器預計將為 Pixel 11 系列提供支援。",
-      "original_title": "New Tensor G6 leak has good and bad news for Pixel 11 series",
-      "url": "https://www.androidauthority.com/google-tensor-g6-full-specs-pixel-11-leak-3663212/",
-      "source": "Android Authority",
-      "domain": "androidauthority.com",
-      "published_at": "2026-05-04T13:48:10Z",
-      "importance": 60,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "4d803c1fdcc65d8d",
@@ -903,56 +941,18 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "9030b5631d4ac03c",
+      "id": "b80d7de05226615d",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "光通訊與矽光子",
-      "title": "Celestica Inc. 2026 年第一季財報電話會議摘要",
-      "summary": "Moby 對 Celestica Inc. 2026 年第一季財報電話會議的摘要",
-      "original_title": "Celestica Inc. Q1 2026 Earnings Call Summary",
-      "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-celestica-inc-q1-2026-earnings-call-summary?utm_source=yahoo_finance&amp;utm_medium=rss",
-      "source": "Moby.co",
-      "domain": "app.moby.co",
-      "published_at": "2026-04-28T12:30:00Z",
+      "title": "天紅 (Celestica) 獲利後股價下跌 $10B",
+      "summary": "Celestica (CLS) 市值單日蒸發近 100 億美元，財報公佈後股價下跌約 16%。從表面上看，這個反應...",
+      "original_title": "Celestica craters by $10B after earnings",
+      "url": "https://www.thestreet.com/investing/stocks/celestica-craters-by-10b-after-earnings",
+      "source": "TheStreet",
+      "domain": "thestreet.com",
+      "published_at": "2026-04-29T16:17:00Z",
       "importance": 60,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "a1e15d8f055286e4",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "達拉·科斯羅薩西 (Dara Khosrowshahi) 談用人工智慧取代 Uber 司機和他自己",
-      "summary": "今天，我正在與 Uber 執行長 Dara Khosrowshahi 交談。每年 Dara 來紐約參加 Uber 的大型 GO-GET 活動時，他都會和我們一起來工作室，這已經成為一種年度傳統，而且總是很有趣。今年的大新聞是…",
-      "original_title": "Dara Khosrowshahi on replacing Uber drivers — and himself — with AI",
-      "url": "https://www.theverge.com/podcast/922909/dara-khosrowshahi-uber-drivers-ai-hotels-service",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "published_at": "2026-05-04T14:10:25Z",
-      "importance": 58,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -979,57 +979,19 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "f6643b29c7c0459e",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "Google Pixel 11 洩密帶來好消息和壞消息",
-      "summary": "新相機感光元件，更少 RAM",
-      "original_title": "Google Pixel 11 leak brings both good and bad news",
-      "url": "https://www.androidpolice.com/google-pixel-11-leak-brings-both-good-and-bad-news/",
-      "source": "Android Police",
-      "domain": "androidpolice.com",
-      "published_at": "2026-05-04T13:36:53Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "a4c295d8f153e347",
+      "id": "035cf5c78cf09291",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "HBM記憶體",
-      "title": "三星停產 LPDDR4、LPDDR4X 記憶體晶片",
-      "summary": "本月早些時候，有報告指出三星計劃在 2026 年底前停止生產 LPDDR4 和 LPDDR4X 記憶體晶片。這項措施現已得到證實。在三星半導體的官方網站上，兩款產品的頁面...",
-      "original_title": "Samsung discontinues its LPDDR4, LPDDR4X memory chips",
-      "url": "https://www.sammobile.com/news/samsung-discontinues-lpddr4-lpddr4x-memory-chips/",
-      "source": "SamMobile",
-      "domain": "sammobile.com",
-      "published_at": "2026-05-04T13:21:59Z",
-      "importance": 55,
-      "impact": "neutral",
+      "title": "美光科技的成長呈爆炸式增長——那麼為什麼它如此便宜？",
+      "summary": "人工智慧貿易一直是幾十年來最有力的市場敘事之一，但它也是定義最狹窄的市場敘事之一。過去兩年...",
+      "original_title": "Micron Technology’s Growth Is Exploding — So Why Is It So Cheap?",
+      "url": "https://247wallst.com/investing/2026/04/28/micron-technologys-growth-is-exploding-so-why-is-it-so-cheap/",
+      "source": "24/7 Wall St.",
+      "domain": "247wallst.com",
+      "published_at": "2026-04-28T13:51:45Z",
+      "importance": 60,
+      "impact": "positive",
       "timeframe": "short_term",
       "tags": [
         "HBM",
@@ -1049,7 +1011,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "028597c0405bc0ff",
@@ -1309,6 +1271,44 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "863b159ed0845b45",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "AXT, Inc. (AXTI) 現在是值得買的好股票嗎？",
+      "summary": "AXTI 是一支值得買的好股票嗎？我們在 PhotonCap 的 Substack 上發現了一篇關於 AXT, Inc. 的看漲論文。在這篇文章中，我們將總結公牛的論點…",
+      "original_title": "Is AXT, Inc. (AXTI) A Good Stock To Buy Now?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/axt-inc-axti-good-stock-180203086.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-05-02T18:02:03Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "27afdeb291ffba3b",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1383,6 +1383,44 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "0a9b2fc240858f0c",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "霍爾木茲海峽中斷影響的不僅是天然氣價格",
+      "summary": "專家警告說，更高的能源成本將逐漸透過供應鏈轉移。最重大的經濟影響可能要幾個月後才會顯現。",
+      "original_title": "Strait of Hormuz disruptions will affect more than gas prices",
+      "url": "https://www.futurity.org/strait-of-hormuz-prices-economic-disruption-3332882/",
+      "source": "Futurity: Research News",
+      "domain": "futurity.org",
+      "published_at": "2026-04-30T19:40:09Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "9b9c620c0f220f03",
@@ -1537,17 +1575,131 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "035cf5c78cf09291",
+      "id": "afd2db6168a81edf",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "阿聯酋將在近 60 年後退出歐佩克",
+      "summary": "5 月 1 日，阿拉伯聯合大公國將結束其在該石油財團長達 59 年的會員資格，使其能夠在多年來最動盪的能源市場之一期間提高產量。",
+      "original_title": "UAE To Exit OPEC After Nearly 60 Years",
+      "url": "https://www.wired.com/story/the-uae-will-exit-opec-after-nearly-60-years/",
+      "source": "Wired",
+      "domain": "wired.com",
+      "published_at": "2026-04-28T15:00:35Z",
+      "importance": 55,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "36f89a9d960b71b0",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "AMD 的 Lemonade SDK 10.3 去除了 Electron，尺寸縮小了 10 倍",
+      "summary": "Lemonade 作為 AMD 支援並在 Windows 和 Linux 上跨 AMD CPU/GPU/NPU 支援的開源本機 AI 伺服器，現已推出重大更新...",
+      "original_title": "AMD's Lemonade SDK 10.3 Now 10x Smaller By Getting Rid Of Electron",
+      "url": "https://www.phoronix.com/news/AMD-Lemonade-10.3",
+      "source": "Phoronix",
+      "domain": "phoronix.com",
+      "published_at": "2026-04-28T14:35:15Z",
+      "importance": 55,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "d7319579ada8f2cb",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "伊朗戰爭推高油價，英國石油公司利潤增加一倍多",
+      "summary": "",
+      "original_title": "BP profits more than double as Iran war sends oil prices higher",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_8352fd20-f0dd-495f-999b-53beba879ef1",
+      "source": "Yahoo Entertainment",
+      "domain": "consent.yahoo.com",
+      "published_at": "2026-04-28T14:07:03Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "42dbf9469193774e",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "HBM記憶體",
-      "title": "美光科技的成長呈爆炸式增長——那麼為什麼它如此便宜？",
-      "summary": "人工智慧貿易一直是幾十年來最有力的市場敘事之一，但它也是定義最狹窄的市場敘事之一。過去兩年...",
-      "original_title": "Micron Technology’s Growth Is Exploding — So Why Is It So Cheap?",
-      "url": "https://247wallst.com/investing/2026/04/28/micron-technologys-growth-is-exploding-so-why-is-it-so-cheap/",
-      "source": "24/7 Wall St.",
-      "domain": "247wallst.com",
-      "published_at": "2026-04-28T13:51:45Z",
+      "title": "美光科技股價上漲了 557%。它仍然是現在最便宜的半導體股票之一。",
+      "summary": "由於人工智慧對記憶體晶片的需求，美光科技的股價在過去一年中上漲了 557%，但其估值仍處於合理水平。",
+      "original_title": "Micron Has Been on an Explosive 557% Run Higher. It’s Still 1 of the Cheapest Semiconductor Stocks to Buy Now.",
+      "url": "https://www.barchart.com/story/news/1561178/micron-has-been-on-an-explosive-557-run-higher-its-still-1-of-the-cheapest-semiconductor-stocks-to-buy-now",
+      "source": "Barchart.com",
+      "domain": "barchart.com",
+      "published_at": "2026-04-28T13:30:02Z",
       "importance": 55,
       "impact": "positive",
       "timeframe": "short_term",
@@ -1570,6 +1722,44 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "20e494bff4a6b828",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "通用汽車宣布退還5億美元關稅後股價飆升",
+      "summary": "週二，這家底特律汽車製造商宣布退還 5 億美元關稅，股價飆升 6%。",
+      "original_title": "GM's stock is soaring after it announced a $500 million tariff refund",
+      "url": "https://www.businessinsider.com/general-motors-tariff-refund-trump-stock-price-gm-2026-4",
+      "source": "Business Insider",
+      "domain": "businessinsider.com",
+      "published_at": "2026-04-28T11:14:51Z",
+      "importance": 55,
+      "impact": "negative",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "51a9af2a3c7e84d1",
@@ -1605,44 +1795,6 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "863b159ed0845b45",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "AXT, Inc. (AXTI) 現在是值得買的好股票嗎？",
-      "summary": "AXTI 是一支值得買的好股票嗎？我們在 PhotonCap 的 Substack 上發現了一篇關於 AXT, Inc. 的看漲論文。在這篇文章中，我們將總結公牛的論點…",
-      "original_title": "Is AXT, Inc. (AXTI) A Good Stock To Buy Now?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/axt-inc-axti-good-stock-180203086.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-05-02T18:02:03Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "578298d109e74385",
@@ -2177,93 +2329,52 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "afd2db6168a81edf",
+      "id": "f790240a7dad0c3f",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "阿聯酋將在近 60 年後退出歐佩克",
-      "summary": "5 月 1 日，阿拉伯聯合大公國將結束其在該石油財團長達 59 年的會員資格，使其能夠在多年來最動盪的能源市場之一期間提高產量。",
-      "original_title": "UAE To Exit OPEC After Nearly 60 Years",
-      "url": "https://www.wired.com/story/the-uae-will-exit-opec-after-nearly-60-years/",
-      "source": "Wired",
-      "domain": "wired.com",
-      "published_at": "2026-04-28T15:00:35Z",
-      "importance": 50,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "36f89a9d960b71b0",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "AMD 的 Lemonade SDK 10.3 去除了 Electron，尺寸縮小了 10 倍",
-      "summary": "Lemonade 作為 AMD 支援並在 Windows 和 Linux 上跨 AMD CPU/GPU/NPU 支援的開源本機 AI 伺服器，現已推出重大更新...",
-      "original_title": "AMD's Lemonade SDK 10.3 Now 10x Smaller By Getting Rid Of Electron",
-      "url": "https://www.phoronix.com/news/AMD-Lemonade-10.3",
-      "source": "Phoronix",
-      "domain": "phoronix.com",
-      "published_at": "2026-04-28T14:35:15Z",
-      "importance": 50,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "d7319579ada8f2cb",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "伊朗戰爭推高油價，英國石油公司利潤增加一倍多",
-      "summary": "",
-      "original_title": "BP profits more than double as Iran war sends oil prices higher",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_8352fd20-f0dd-495f-999b-53beba879ef1",
+      "theme": "HBM記憶體",
+      "title": "為什麼分析師認為美光科技 (MU) 是最值得買的內存股票？",
+      "summary": "根據分析師的說法，美光科技公司（納斯達克股票代碼：MU）在我們的最佳內存股票名單中佔有一席之地。截至 2026 年 4 月 20 日，華爾街...",
+      "original_title": "Why Is Micron Technology (MU) The Best Memory Stock To Buy According To Analysts?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-micron-technology-mu-best-172804001.html",
       "source": "Yahoo Entertainment",
-      "domain": "consent.yahoo.com",
-      "published_at": "2026-04-28T14:07:03Z",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-04-28T17:28:04Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "261f3dcf4202ccb0",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "阿聯酋因霍爾木茲石油危機而退出歐佩克",
+      "summary": "fjo3 寫道： 阿拉伯聯合大公國週二宣布，它將退出石油輸出國組織（來源付費；替代來源）或 OPEC，以及更廣泛的合作夥伴組織 OPEC+，自 5 月 1 日起生效，這意味著…",
+      "original_title": "UAE To Leave OPEC Amid Hormuz Oil Crisis",
+      "url": "https://news.slashdot.org/story/26/04/28/1622229/uae-to-leave-opec-amid-hormuz-oil-crisis",
+      "source": "Slashdot.org",
+      "domain": "news.slashdot.org",
+      "published_at": "2026-04-28T17:00:00Z",
       "importance": 50,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -2291,19 +2402,95 @@
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "20e494bff4a6b828",
+      "id": "d14e74585b648ee4",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "如果人工智慧伺服器的繁榮還有另一條腿的話，SMCX 可能會再次呈現拋物線走勢",
+      "summary": "",
+      "original_title": "SMCX Could Go Parabolic Again if the AI Server Boom Still Has Another Leg",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f0a0fa53-086c-463d-a696-bd5643667f01",
+      "source": "Yahoo Entertainment",
+      "domain": "consent.yahoo.com",
+      "published_at": "2026-04-28T16:04:17Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "c588963ebf5b0393",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "戴爾的突破是真正的交易。 AI 伺服器週期才剛開始",
+      "summary": "",
+      "original_title": "Dell’s Breakout is the Real Deal. And the AI Server Cycle is Just Starting",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_cc4a5174-1a79-44ae-a2e3-9d1b4a2ba23a",
+      "source": "Yahoo Entertainment",
+      "domain": "consent.yahoo.com",
+      "published_at": "2026-04-28T15:12:33Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "418fd219f66a2043",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "總體風險",
-      "title": "通用汽車宣布退還5億美元關稅後股價飆升",
-      "summary": "週二，這家底特律汽車製造商宣布退還 5 億美元關稅，股價飆升 6%。",
-      "original_title": "GM's stock is soaring after it announced a $500 million tariff refund",
-      "url": "https://www.businessinsider.com/general-motors-tariff-refund-trump-stock-price-gm-2026-4",
-      "source": "Business Insider",
-      "domain": "businessinsider.com",
-      "published_at": "2026-04-28T11:14:51Z",
+      "title": "阿拉伯聯合大公國表示將退出歐佩克，對石油卡特爾造成打擊",
+      "summary": "作為主要國有石油生產商組成的石油輸出國組織（OPEC）的一部分，阿拉伯石油生產國長期以來一直對其必須遵守的配額表示失望。",
+      "original_title": "The United Arab Emirates says it's leaving OPEC, in a blow to oil cartel",
+      "url": "https://www.npr.org/2026/04/28/nx-s1-5802735/uae-leaves-opec-oil",
+      "source": "NPR",
+      "domain": "npr.org",
+      "published_at": "2026-04-28T14:09:53Z",
       "importance": 50,
-      "impact": "negative",
+      "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
         "總體",
@@ -2326,7 +2513,45 @@
         "009",
         "010"
       ],
-      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "9c94003c72c18db6",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "小米發布MiMo-v2.5系列權重，具有強大的編碼和代理基準",
+      "summary": "北京大學每學期都會給電腦專業的學生一個編譯器專案。用 Rust 建立一個完整的 SysY 編譯器，包括​​詞法分析器、解析器、抽象語法樹、IR 程式碼產生、彙編後端、效能最佳化。整個事情。史都華…",
+      "original_title": "Xiaomi releases MiMo-v2.5 Family weights with strong coding and agent benchmarks",
+      "url": "https://firethering.com/mimo-v2-5-pro-xiaomi-coding-model/",
+      "source": "Firethering.com",
+      "domain": "firethering.com",
+      "published_at": "2026-04-28T12:16:25Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "280bf70873d91193",
@@ -2403,231 +2628,6 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "f790240a7dad0c3f",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "為什麼分析師認為美光科技 (MU) 是最值得買的內存股票？",
-      "summary": "根據分析師的說法，美光科技公司（納斯達克股票代碼：MU）在我們的最佳內存股票名單中佔有一席之地。截至 2026 年 4 月 20 日，華爾街...",
-      "original_title": "Why Is Micron Technology (MU) The Best Memory Stock To Buy According To Analysts?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-micron-technology-mu-best-172804001.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-04-28T17:28:04Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "261f3dcf4202ccb0",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "阿聯酋因霍爾木茲石油危機而退出歐佩克",
-      "summary": "fjo3 寫道： 阿拉伯聯合大公國週二宣布，它將退出石油輸出國組織（來源付費；替代來源）或 OPEC，以及更廣泛的合作夥伴組織 OPEC+，自 5 月 1 日起生效，這意味著…",
-      "original_title": "UAE To Leave OPEC Amid Hormuz Oil Crisis",
-      "url": "https://news.slashdot.org/story/26/04/28/1622229/uae-to-leave-opec-amid-hormuz-oil-crisis",
-      "source": "Slashdot.org",
-      "domain": "news.slashdot.org",
-      "published_at": "2026-04-28T17:00:00Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "d14e74585b648ee4",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "如果人工智慧伺服器的繁榮還有另一條腿的話，SMCX 可能會再次呈現拋物線走勢",
-      "summary": "",
-      "original_title": "SMCX Could Go Parabolic Again if the AI Server Boom Still Has Another Leg",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f0a0fa53-086c-463d-a696-bd5643667f01",
-      "source": "Yahoo Entertainment",
-      "domain": "consent.yahoo.com",
-      "published_at": "2026-04-28T16:04:17Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "c588963ebf5b0393",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "戴爾的突破是真正的交易。 AI 伺服器週期才剛開始",
-      "summary": "",
-      "original_title": "Dell’s Breakout is the Real Deal. And the AI Server Cycle is Just Starting",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_cc4a5174-1a79-44ae-a2e3-9d1b4a2ba23a",
-      "source": "Yahoo Entertainment",
-      "domain": "consent.yahoo.com",
-      "published_at": "2026-04-28T15:12:33Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "418fd219f66a2043",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "阿拉伯聯合大公國表示將退出歐佩克，對石油卡特爾造成打擊",
-      "summary": "作為主要國有石油生產商組成的石油輸出國組織（OPEC）的一部分，阿拉伯石油生產國長期以來一直對其必須遵守的配額表示失望。",
-      "original_title": "The United Arab Emirates says it's leaving OPEC, in a blow to oil cartel",
-      "url": "https://www.npr.org/2026/04/28/nx-s1-5802735/uae-leaves-opec-oil",
-      "source": "NPR",
-      "domain": "npr.org",
-      "published_at": "2026-04-28T14:09:53Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "9c94003c72c18db6",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "小米發布MiMo-v2.5系列權重，具有強大的編碼和代理基準",
-      "summary": "北京大學每學期都會給電腦專業的學生一個編譯器專案。用 Rust 建立一個完整的 SysY 編譯器，包括​​詞法分析器、解析器、抽象語法樹、IR 程式碼產生、彙編後端、效能最佳化。整個事情。史都華…",
-      "original_title": "Xiaomi releases MiMo-v2.5 Family weights with strong coding and agent benchmarks",
-      "url": "https://firethering.com/mimo-v2-5-pro-xiaomi-coding-model/",
-      "source": "Firethering.com",
-      "domain": "firethering.com",
-      "published_at": "2026-04-28T12:16:25Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     },
     {
       "id": "d6b93cfd30aa72b3",
