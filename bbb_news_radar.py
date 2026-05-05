@@ -165,16 +165,31 @@ def fetch_news(theme: str, config: dict, days_back: int = 7) -> list:
         return[]
     return response.json().get("articles",[])
 
+def load_old_payload():
+    """載入舊的 payload 以實作翻譯快取，避免重複翻譯"""
+    if os.path.exists("bbb_news_payload.json"):
+        try:
+            with open("bbb_news_payload.json", "r", encoding="utf-8") as f:
+                data = json.load(f)
+                # 建立 id -> (title, summary) 的對照表
+                return {item["id"]: (item["title"], item["summary"]) for item in data.get("items", [])}
+        except Exception as e:
+            print(f"讀取舊快取失敗: {e}")
+    return {}
+
 def build_payload():
     if not NEWSAPI_KEY:
         print("API Key is missing!")
         return None
 
-    items =[]
+    translation_cache = load_old_payload()
+    items = []
     seen_ids = set()
 
     for theme, config in WATCHLIST.items():
         articles = fetch_news(theme, config)
+        print(f"正在處理題材: {theme} (取得 {len(articles)} 則新聞)")
+        
         for a in articles:
             url = a.get("url") or ""
             title_en = a.get("title") or ""
@@ -193,18 +208,23 @@ def build_payload():
             # 1. 英文算分
             sentiment, importance = analyze_article(title_en, desc_en, content_en, url, pub_date)
             
-            # 2. 翻譯成中文 (作為最終輸出)
-            title_zh = safe_translate(title_en)
-            desc_zh = safe_translate(desc_en)
+            # 2. 翻譯檢查 (快取優先)
+            if uid in translation_cache:
+                title_zh, desc_zh = translation_cache[uid]
+            else:
+                print(f"  [新消息] 正在翻譯: {title_en[:30]}...")
+                title_zh = safe_translate(title_en)
+                desc_zh = safe_translate(desc_en)
+                time.sleep(0.5) # 只有新翻譯才停頓
 
             item = {
                 "id": uid,
                 "dataset": "market_news",
                 "schema_version": "bbb_news/v1",
                 "theme": theme,
-                "title": title_zh, # 網頁會直接吃到中文標題
+                "title": title_zh,
                 "summary": desc_zh,
-                "original_title": title_en, # 保留英文原文備查
+                "original_title": title_en,
                 "url": url,
                 "source": (a.get("source") or {}).get("name", "Unknown"),
                 "domain": get_domain(url),
@@ -212,14 +232,14 @@ def build_payload():
                 "importance": importance,
                 "impact": sentiment,
                 "timeframe": "short_term" if importance < 75 else "short_to_mid_term",
-                "tags": config.get("tags",[]),
-                "related_stocks": config.get("related_stocks",[]),
-                "related_models":["003", "005", "006", "007", "009", "010"],
+                "tags": config.get("tags", []),
+                "related_stocks": config.get("related_stocks", []),
+                "related_models": ["003", "005", "006", "007", "009", "010"],
                 "reason": generate_chinese_reason(theme, importance, sentiment),
             }
             items.append(item)
-        time.sleep(1) # 遵守速率限制
 
+    # 排序：重要性高到低，時間新到舊
     items.sort(key=lambda x: (x["importance"], x.get("published_at") or ""), reverse=True)
 
     return {
@@ -233,10 +253,31 @@ def build_payload():
 
 def export_results(payload):
     if not payload: return
+    
+    # 導出 JSON
     with open("bbb_news_payload.json", "w", encoding="utf-8") as f:
         json.dump(payload, f, ensure_ascii=False, indent=2)
+    
+    # 導出 Markdown 摘要 (強化版)
     with open("bbb_news_digest.md", "w", encoding="utf-8") as f:
-        f.write(f"# 📊 bbb 投資戰情室 - 消息面摘要\n更新時間：{payload['generated_at']}")
+        f.write(f"# 📊 bbb 投資戰情室 - 消息面摘要\n")
+        f.write(f"> 更新時間：{payload['generated_at']}\n\n")
+        
+        # 僅顯示重要性較高的前 20 則新聞
+        important_items = [i for i in payload["items"] if i["importance"] >= 60][:20]
+        
+        if not important_items:
+            f.write("目前暫無重大消息。\n")
+        else:
+            for item in important_items:
+                impact_emoji = {"positive": "🚀", "negative": "⚠️", "neutral": "⚖️"}.get(item["impact"], "⚖️")
+                f.write(f"### {impact_emoji} {item['title']}\n")
+                f.write(f"- **題材**: `{item['theme']}` | **重要性**: `{item['importance']}`\n")
+                f.write(f"- **來源**: {item['source']} ({item['published_at']})\n")
+                f.write(f"- **AI 判讀**: {item['reason']}\n")
+                f.write(f"- **摘要**: {item['summary']}\n")
+                f.write(f"- [原文連結]({item['url']})\n\n")
+                f.write("---\n\n")
 
 if __name__ == "__main__":
     data = build_payload()
