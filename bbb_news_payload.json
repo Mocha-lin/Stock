@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-05-06T18:10:52.480782+00:00",
+  "generated_at": "2026-05-06T20:16:13.452361+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 72,
@@ -632,6 +632,82 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "df958f52dca4b156",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "報導稱，蘋果在晶片短缺的情況下向三星和英特爾尋求晶片",
+      "summary": "據報道，蘋果公司在其主要供應商台積電之外保留了其他選擇。",
+      "original_title": "Apple Looking to Samsung and Intel for Chips Amid Shortages, Report Says",
+      "url": "https://www.cnet.com/tech/mobile/apple-samsung-intel-chip-shortages/",
+      "source": "CNET",
+      "domain": "cnet.com",
+      "published_at": "2026-05-05T19:45:00Z",
+      "importance": 60,
+      "impact": "negative",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "d57ad53d26b51416",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Nvidia's RTX 50-series launch was so bad that AMD just won the GPU war",
+      "summary": "硬體缺陷、高價、假鏡框？抱歉，我選擇AMD這一代。",
+      "original_title": "Nvidia's RTX 50-series launch was so bad that AMD just won the GPU war",
+      "url": "https://www.makeuseof.com/rtx-50-series-gpus-feels-harder-to-justify-the-longer-i-look-at-it/",
+      "source": "MakeUseOf",
+      "domain": "makeuseof.com",
+      "published_at": "2026-05-05T18:30:18Z",
+      "importance": 60,
+      "impact": "negative",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "0e1133f73eeeac1f",
@@ -1303,6 +1379,44 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "fc8329d008700d74",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "「你可以說停火已經停止」：隨著油價飆升 6%，伊朗重新成為華爾街關注的焦點",
+      "summary": "",
+      "original_title": "‘You could say the ceasefire has ceased’: Iran is back on Wall Street’s radar as oil prices spike 6%",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2a7a4b54-8dad-4d8f-a11a-e314afa28e45",
+      "source": "Yahoo Entertainment",
+      "domain": "consent.yahoo.com",
+      "published_at": "2026-05-04T21:25:05Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "940de7d253a38c23",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1487,44 +1601,6 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "8359faf2199d3047",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "NVIDIA 快速推進聯合封裝光學元件，比原計劃提前五年率先推出 Feynman GPU",
-      "summary": "NVIDIA 的 Feynman GPU 將是第一個採用聯合封裝光學元件的 GPU，但情況並非總是如此，直到這家人工智慧巨頭決定改變策略。聯合封裝光學元件還需要很多年才能實現，但 NVIDIA 決定透過其 Feynman GPU CPO 或聯合封裝繼續前進…",
-      "original_title": "NVIDIA Fast-Forwarded Co-Packaged Optics Five Years Ahead of Schedule, Arriving First With Its Feynman GPUs",
-      "url": "https://wccftech.com/nvidia-fast-forwarded-co-packaged-optics-five-years-ahead-arriving-with-feynman-gpus/",
-      "source": "Wccftech",
-      "domain": "wccftech.com",
-      "published_at": "2026-05-03T18:45:07Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "4d803c1fdcc65d8d",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1637,44 +1713,6 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "0a9b2fc240858f0c",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "霍爾木茲海峽中斷影響的不僅是天然氣價格",
-      "summary": "專家警告說，更高的能源成本將逐漸透過供應鏈轉移。最重大的經濟影響可能要幾個月後才會顯現。",
-      "original_title": "Strait of Hormuz disruptions will affect more than gas prices",
-      "url": "https://www.futurity.org/strait-of-hormuz-prices-economic-disruption-3332882/",
-      "source": "Futurity: Research News",
-      "domain": "futurity.org",
-      "published_at": "2026-04-30T19:40:09Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "9b9c620c0f220f03",
@@ -1865,6 +1903,44 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "8359faf2199d3047",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "NVIDIA 快速推進聯合封裝光學元件，比原計劃提前五年率先推出 Feynman GPU",
+      "summary": "NVIDIA 的 Feynman GPU 將是第一個採用聯合封裝光學元件的 GPU，但情況並非總是如此，直到這家人工智慧巨頭決定改變策略。聯合封裝光學元件還需要很多年才能實現，但 NVIDIA 決定透過其 Feynman GPU CPO 或聯合封裝繼續前進…",
+      "original_title": "NVIDIA Fast-Forwarded Co-Packaged Optics Five Years Ahead of Schedule, Arriving First With Its Feynman GPUs",
+      "url": "https://wccftech.com/nvidia-fast-forwarded-co-packaged-optics-five-years-ahead-arriving-with-feynman-gpus/",
+      "source": "Wccftech",
+      "domain": "wccftech.com",
+      "published_at": "2026-05-03T18:45:07Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "533d6a540b4c8cda",
@@ -2355,82 +2431,6 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "fe31c23fc75d9925",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "百老匯主打《拉格泰姆》將於今年秋季推出北美巡演",
-      "summary": "製片人今天宣布，林肯中心劇院的熱門百老匯音樂劇《拉格泰姆》將於今年秋季進行北美巡迴演出。該巡演由 LCT 藝術總監 Lear deBessonet 執導，將在布法羅的 Shea’s Buffalo 劇院首演…",
-      "original_title": "Broadway Hit ‘Ragtime’ To Launch North American Tour This Fall",
-      "url": "http://deadline.com/2026/04/ragtime-broadway-tour-1236876090/",
-      "source": "Deadline",
-      "domain": "deadline.com",
-      "published_at": "2026-04-29T20:00:00Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "c1f54ba72d09bdbe",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "不要稱之為落後者：為何 NVIDIA 4 月上漲 20%",
-      "summary": "NVIDIA（納斯達克股票代碼：NVDA）的股價在周三中午回落，在本週早些時候觸及歷史新高後，該股下跌 2% 至 209.40 美元。",
-      "original_title": "Don’t Call It a Laggard: Why NVIDIA Is Up 20% in April",
-      "url": "https://247wallst.com/investing/2026/04/29/dont-call-it-a-laggard-why-nvidia-is-up-20-in-april/",
-      "source": "24/7 Wall St.",
-      "domain": "247wallst.com",
-      "published_at": "2026-04-29T18:13:00Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "e15877217dcbfe33",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2469,44 +2469,6 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "83950bd48229f788",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "聯邦快遞和UPS承諾將川普關稅退款轉嫁給客戶",
-      "summary": "川普廣受鄙視的進口關稅被裁定違憲，每個人都在起訴某人——他的政府、收取關稅的快遞公司、零售商——以收回他們的錢。聯邦快遞和 UPS 至少承諾轉交他們所收到的退款…",
-      "original_title": "FedEx and UPS promise to pass on Trump tariff refunds to customers",
-      "url": "https://boingboing.net/2026/04/29/fedex-and-ups-promise-to-pass-on-trump-tariff-refunds-to-customers.html",
-      "source": "Boing Boing",
-      "domain": "boingboing.net",
-      "published_at": "2026-04-29T13:49:48Z",
-      "importance": 50,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "d4ed31710a1bcfff",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2543,6 +2505,82 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "fe31c23fc75d9925",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "百老匯主打《拉格泰姆》將於今年秋季推出北美巡演",
+      "summary": "製片人今天宣布，林肯中心劇院的熱門百老匯音樂劇《拉格泰姆》將於今年秋季進行北美巡迴演出。該巡演由 LCT 藝術總監 Lear deBessonet 執導，將在布法羅的 Shea’s Buffalo 劇院首演…",
+      "original_title": "Broadway Hit ‘Ragtime’ To Launch North American Tour This Fall",
+      "url": "http://deadline.com/2026/04/ragtime-broadway-tour-1236876090/",
+      "source": "Deadline",
+      "domain": "deadline.com",
+      "published_at": "2026-04-29T20:00:00Z",
+      "importance": 45,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
+    },
+    {
+      "id": "c1f54ba72d09bdbe",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "不要稱之為落後者：為何 NVIDIA 4 月上漲 20%",
+      "summary": "NVIDIA（納斯達克股票代碼：NVDA）的股價在周三中午回落，在本週早些時候觸及歷史新高後，該股下跌 2% 至 209.40 美元。",
+      "original_title": "Don’t Call It a Laggard: Why NVIDIA Is Up 20% in April",
+      "url": "https://247wallst.com/investing/2026/04/29/dont-call-it-a-laggard-why-nvidia-is-up-20-in-april/",
+      "source": "24/7 Wall St.",
+      "domain": "247wallst.com",
+      "published_at": "2026-04-29T18:13:00Z",
+      "importance": 45,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     },
     {
       "id": "eeb03fe8e29227e3",
@@ -2657,44 +2695,6 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "4611ee146ffd1aae",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "備案：台積電本週以每股 207.65 美元的價格出售了剩餘的 111 萬股 A​​rm 股票，總價值約為 2.31 億美元；台積電以每股 51 美元的價格在 Arm 2023 年的 IPO 中投資了約 1 億美元（Wen-Yee Lee/路透社）",
-      "summary": "李文儀/路透社：\n備案：台積電本週以每股 207.65 美元的價格出售了剩餘的 111 萬股 Arm 股票，總價值約為 2.31 億美元；台積電以每股 51 美元的價格在 Arm 2023 年的 IPO 中投資了約 1 億美元 - 台積電 (2330.TW)，全球最大的半導體製造商製造商最大的半導體製造商製造商最大的半導體製造商的半導體製造商最大的半導體製造商。",
-      "original_title": "Filing: TSMC sold its remaining 1.11M Arm shares at $207.65 per share for a total of ~$231M this week; TSMC invested ~$100M in Arm's 2023 IPO at $51 per share (Wen-Yee Lee/Reuters)",
-      "url": "https://www.techmeme.com/260429/p6",
-      "source": "Techmeme.com",
-      "domain": "techmeme.com",
-      "published_at": "2026-04-29T05:20:01Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     }
   ]
 }
