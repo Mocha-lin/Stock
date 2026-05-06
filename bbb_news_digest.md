@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-05-05T23:48:36.948128+00:00
+> 更新時間：2026-05-06T04:30:46.009661+00:00
 
 ### 🚀 隨著商品 DRAM 價格飆升，三星領先 SK 海力士
 - **題材**: `HBM記憶體` | **重要性**: `83`
@@ -34,6 +34,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: The transition from 800G to 1.6T optical modules is no longer an upgrade cycle — it is a physics-driven inflection point.
 - [原文連結](https://www.digitimes.com/news/a20260504VL207/optical-components-rare-earth-siph-supply-chain.html)
+
+---
+
+### 🚀 美光躍升 7%：記憶體製造商現在是結構人工智慧的贏家嗎？
+- **題材**: `HBM記憶體` | **重要性**: `75`
+- **來源**: 24/7 Wall St. (2026-05-04T15:28:18Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 美光科技 (NASDAQ:MU) 股價週一早盤上漲 7%，週五收在 542.21 美元，換手價格約 579 美元。此舉延長...
+- [原文連結](https://247wallst.com/investing/2026/05/04/micron-jumps-7-is-the-memory-maker-now-a-structural-ai-winner/)
 
 ---
 
@@ -82,21 +91,21 @@
 
 ---
 
-### ⚖️ 台積電發力 1nm 三星加倍下注 2nm
-- **題材**: `半導體先進製程` | **重要性**: `68`
-- **來源**: Digitimes (2026-04-29T00:09:19Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 隨著業界超越 3nm 世代，三星電子和台積電在先進半導體製造方面採取了越來越不同的方法。儘管三星電子率先在 2022 年量產 3nm 級工藝，但...
-- [原文連結](https://www.digitimes.com/news/a20260428VL207/samsung-tsmc-2nm-optimization-roadmap.html)
-
----
-
 ### ⚖️ 三星和 SK 海力士警告稱，隨著 HBM 需求爆炸式增長，人工智慧驅動的記憶體短缺可能會持續到 2027 年及以後——客戶已經在未來幾年儲備供應，而更廣泛的 DRAM 市場開始收緊
 - **題材**: `HBM記憶體` | **重要性**: `67`
 - **來源**: Tom's Hardware UK (2026-04-30T14:46:57Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 三星和 SK 海力士警告稱，由於 HBM 需求爆炸式增長，超過供應，導致更廣泛的 DRAM 市場趨緊，並推動創紀錄的利潤，人工智慧驅動的記憶體嚴重短缺可能會持續到 2027 年
 - [原文連結](https://www.tomshardware.com/tech-industry/artificial-intelligence/samsung-and-sk-hynix-warn-ai-driven-memory-shortages-could-last-until-2027-and-beyond-as-hbm-demand-explodes-customers-already-reserving-supply-years-ahead-while-the-wider-dram-market-begins-to-tighten)
+
+---
+
+### ⚠️ 全球記憶體短缺：AI熱潮背後隱藏的瓶頸
+- **題材**: `HBM記憶體` | **重要性**: `65`
+- **來源**: TechRadar (2026-05-04T14:22:39Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 隨著人工智慧需求的飆升，全球記憶體短缺正在推高成本並重塑科技格局。
+- [原文連結](https://www.techradar.com/pro/the-global-memory-shortage-the-hidden-bottleneck-behind-the-ai-boom)
 
 ---
 
@@ -127,6 +136,24 @@
 
 ---
 
+### ⚠️ Nvidia 利用 Nanya 打造 AI 機架，其 LPDDR 相當於每個機架 4,500 部智慧型手機
+- **題材**: `HBM記憶體` | **重要性**: `63`
+- **來源**: Digitimes (2026-04-29T04:01:04Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 人工智慧的蓬勃發展正在推動記憶體需求遠遠超出高頻寬記憶體 (HBM) 的範圍。低功耗 DRAM 現在也面臨壓力，隨著 Nvidia、高通和特斯拉等晶片開發商在下一代處理器中採用 LPDDR，低功耗 DRAM 也出現了短缺。
+- [原文連結](https://www.digitimes.com/news/a20260429VL207/expansion-nvidia-demand-hbm-rubin.html)
+
+---
+
+### ⚖️ 台積電發力 1nm 三星加倍下注 2nm
+- **題材**: `半導體先進製程` | **重要性**: `63`
+- **來源**: Digitimes (2026-04-29T00:09:19Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 隨著業界超越 3nm 世代，三星電子和台積電在先進半導體製造方面採取了越來越不同的方法。儘管三星電子率先在 2022 年量產 3nm 級工藝，但...
+- [原文連結](https://www.digitimes.com/news/a20260428VL207/samsung-tsmc-2nm-optimization-roadmap.html)
+
+---
+
 ### ⚖️ 台積電 SoIC 3D 堆疊路線圖概述了從目前的 6 微米間距到 2029 年 4.5 微米間距的路徑 — 富士通 Monaka CPU 將受益於面對面小晶片堆疊
 - **題材**: `半導體先進製程` | **重要性**: `62`
 - **來源**: Tom's Hardware UK (2026-04-29T13:26:22Z)
@@ -145,39 +172,12 @@
 
 ---
 
-### ⚠️ 新的 Tensor G6 洩漏對 Pixel 11 系列來說有好消息和壞消息
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: Android Authority (2026-05-04T13:48:10Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 新的洩密事件揭露了 Tensor G6 的大量規格，該處理器預計將為 Pixel 11 系列提供支援。
-- [原文連結](https://www.androidauthority.com/google-tensor-g6-full-specs-pixel-11-leak-3663212/)
-
----
-
-### 🚀 川普表示，他正在審查伊朗最新的和平計劃，但“無法想像這是可以接受的”
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Business Insider (2026-05-03T15:23:10Z)
-- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 唐納德·川普表示，在德黑蘭透過巴基斯坦調解人提交結束美伊戰爭的 14 點提案後，他將對其進行審查。
-- [原文連結](https://www.businessinsider.com/iran-war-peace-deal-donald-trump-oil-prices-2026-5)
-
----
-
-### 🚀 Marvell 股票值得立即買進的 3 個理由
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: Barchart.com (2026-04-30T18:45:36Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Marvell Technology 正在將人工智慧需求轉化為長期、高可見度的收入成長。
-- [原文連結](https://www.barchart.com/story/news/1628055/3-reasons-why-marvell-stock-is-a-buy-now)
-
----
-
-### 🚀 盧比跌至歷史新低使印度央行重新陷入守勢
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-04-30T10:12:27Z)
-- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 作者：Jaspreet Kalra 孟買，4 月 30 日（路透社）
-- [原文連結](https://sg.finance.yahoo.com/news/rupee-hits-record-low-pummelled-041941302.html)
+### ⚖️ 忘記 GPU——中國推出僅使用 CPU 的 2 ExaFLOPS 超級計算機，將 47,000 個處理器裝入 92 個計算櫃，希望再次取代美國
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: TechRadar (2026-05-04T17:50:00Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 中國的凌盛超級電腦的目標是使用純 CPU 架構實現百億億次效能，但其說法目前尚未得到證實。
+- [原文連結](https://www.techradar.com/pro/forget-gpus-china-unveils-2-exaflops-supercomputer-using-only-cpu-packing-47-000-processors-into-92-compute-cabinets-as-it-looks-to-supercede-the-us-once-again)
 
 ---
 
