@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-05-06T07:16:47.599257+00:00
+> 更新時間：2026-05-06T11:08:13.889292+00:00
 
 ### 🚀 隨著商品 DRAM 價格飆升，三星領先 SK 海力士
 - **題材**: `HBM記憶體` | **重要性**: `83`
@@ -127,15 +127,6 @@
 
 ---
 
-### ⚖️ 隨著AI需求收緊產能，汽車和網路晶片直接轉向2nm
-- **題材**: `半導體先進製程` | **重要性**: `63`
-- **來源**: Digitimes (2026-04-29T04:46:55Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 在人工智慧熱潮中，台積電對先進晶片的需求正在收緊，隨著主要客戶爭奪有限的產能，台積電的 3 奈米製程變得越來越擁擠。
-- [原文連結](https://www.digitimes.com/news/a20260429PD222/automotive-ic-networking-ic-capacity-manufacturing-production-tsmc.html)
-
----
-
 ### ⚠️ Nvidia 利用 Nanya 打造 AI 機架，其 LPDDR 相當於每個機架 4,500 部智慧型手機
 - **題材**: `HBM記憶體` | **重要性**: `63`
 - **來源**: Digitimes (2026-04-29T04:01:04Z)
@@ -178,6 +169,15 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 中國的凌盛超級電腦的目標是使用純 CPU 架構實現百億億次效能，但其說法目前尚未得到證實。
 - [原文連結](https://www.techradar.com/pro/forget-gpus-china-unveils-2-exaflops-supercomputer-using-only-cpu-packing-47-000-processors-into-92-compute-cabinets-as-it-looks-to-supercede-the-us-once-again)
+
+---
+
+### ⚖️ 隨著業界採用 800V DC 架構，NVIDIA Feynman GPU 將 Power Semi Content 推高至 191,000 美元，是 Blackwell 的 17 倍
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: Wccftech (2026-05-04T16:00:03Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 隨著 AI 資料中心運算需求的成長，功耗需求也隨之成長，預計 NVIDIA Feynman 的功耗需求將提高 17 倍。與 Blackwell NVIDIA Feynman GPU 相比，NVIDIA Feynman 機架的每個機架的功率半導體成本預計將高出 17 倍…
+- [原文連結](https://wccftech.com/nvidia-feynman-gpus-push-power-semi-content-17-times-higher-vs-blackwell/)
 
 ---
 
