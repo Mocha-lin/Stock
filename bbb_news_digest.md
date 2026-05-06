@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-05-06T11:08:13.889292+00:00
+> 更新時間：2026-05-06T15:19:17.763079+00:00
 
 ### 🚀 隨著商品 DRAM 價格飆升，三星領先 SK 海力士
 - **題材**: `HBM記憶體` | **重要性**: `83`
@@ -52,6 +52,15 @@
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: MetaX 也實現了強勁增長，但在 IPO 四個月後仍然沒有盈利。
 - [原文連結](https://www.tomshardware.com/tech-industry/cambricons-q1-revenue-hits-423-million-as-chinas-domestic-ai-chip-market-accelerates)
+
+---
+
+### ⚖️ GlobalFoundries 預測第二季資料中心需求樂觀
+- **題材**: `光通訊與矽光子` | **重要性**: `70`
+- **來源**: CNA (2026-05-05T11:42:32Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 5 月 5 日：專業晶片製造商 GlobalFoundries 週二預測，在全球資料中心部署加速的推動下，第二季營收將高於華爾街預期。該公司股價在盤前交易中上漲 6%。 • 公司已...
+- [原文連結](https://www.channelnewsasia.com/business/globalfoundries-forecasts-upbeat-second-quarter-data-center-demand-6101111)
 
 ---
 
@@ -145,12 +154,12 @@
 
 ---
 
-### ⚖️ 台積電 SoIC 3D 堆疊路線圖概述了從目前的 6 微米間距到 2029 年 4.5 微米間距的路徑 — 富士通 Monaka CPU 將受益於面對面小晶片堆疊
-- **題材**: `半導體先進製程` | **重要性**: `62`
-- **來源**: Tom's Hardware UK (2026-04-29T13:26:22Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 台積電為新一代 SoIC 3D 堆疊增加了對面對面堆疊、6.5 µm 和 4.5 µm 間距的支援。
-- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/tsmc-soic-3d-stacking-roadmap-outlines-path-from-6-micron-pitches-today-to-4-5-micron-in-2029-fujitsus-monaka-cpu-to-benefit-from-face-to-face-chiplet-stacking)
+### ⚖️ Nvidia 執行長黃仁勳表示中國不應該擁有 Blackwell 或 Rubin AI GPU——堅定地表示美國在 AI 硬體方面應該擁有“第一、最多、最好”
+- **題材**: `AI伺服器` | **重要性**: `62`
+- **來源**: Tom's Hardware UK (2026-05-05T11:53:22Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 英偉達的黃仁勳重申，美國公司應該能夠將其產品銷往全球，但堅持最新的人工智慧加速器應該留在美國。
+- [原文連結](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-ceo-jensen-huang-says-china-should-not-have-blackwell-or-rubin-ai-gpus-firmly-states-us-should-have-the-first-the-most-and-the-best-when-it-comes-to-ai-hardware)
 
 ---
 
@@ -160,15 +169,6 @@
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 承諾重塑未來的人工智慧泡沫也可能悄悄重塑氣候。一項新的研究表明，大型數據中心正在產生局部“熱島”，導致其周圍的溫度升高，並可能加劇全球…的影響。
 - [原文連結](https://boingboing.net/2026/05/04/study-finds-ai-server-farms-creating-their-own-local-heat-islands.html)
-
----
-
-### ⚖️ 忘記 GPU——中國推出僅使用 CPU 的 2 ExaFLOPS 超級計算機，將 47,000 個處理器裝入 92 個計算櫃，希望再次取代美國
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: TechRadar (2026-05-04T17:50:00Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 中國的凌盛超級電腦的目標是使用純 CPU 架構實現百億億次效能，但其說法目前尚未得到證實。
-- [原文連結](https://www.techradar.com/pro/forget-gpus-china-unveils-2-exaflops-supercomputer-using-only-cpu-packing-47-000-processors-into-92-compute-cabinets-as-it-looks-to-supercede-the-us-once-again)
 
 ---
 

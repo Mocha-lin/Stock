@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-05-06T11:08:13.889292+00:00",
+  "generated_at": "2026-05-06T15:19:17.763079+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 71,
@@ -226,6 +226,44 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
+      "id": "d7078bdb94a92cbc",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "GlobalFoundries 預測第二季資料中心需求樂觀",
+      "summary": "5 月 5 日：專業晶片製造商 GlobalFoundries 週二預測，在全球資料中心部署加速的推動下，第二季營收將高於華爾街預期。該公司股價在盤前交易中上漲 6%。 • 公司已...",
+      "original_title": "GlobalFoundries forecasts upbeat second quarter on data center demand",
+      "url": "https://www.channelnewsasia.com/business/globalfoundries-forecasts-upbeat-second-quarter-data-center-demand-6101111",
+      "source": "CNA",
+      "domain": "channelnewsasia.com",
+      "published_at": "2026-05-05T11:42:32Z",
+      "importance": 70,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "dd48a70b68e7b993",
@@ -593,32 +631,32 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "23b27d58858ed4fd",
+      "id": "4afd2c6c4fc39357",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "台積電 SoIC 3D 堆疊路線圖概述了從目前的 6 微米間距到 2029 年 4.5 微米間距的路徑 — 富士通 Monaka CPU 將受益於面對面小晶片堆疊",
-      "summary": "台積電為新一代 SoIC 3D 堆疊增加了對面對面堆疊、6.5 µm 和 4.5 µm 間距的支援。",
-      "original_title": "TSMC SoIC 3D stacking roadmap outlines path from 6-micron pitches today to 4.5-micron in 2029 — Fujitsu's Monaka CPU to benefit from face-to-face chiplet stacking",
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-soic-3d-stacking-roadmap-outlines-path-from-6-micron-pitches-today-to-4-5-micron-in-2029-fujitsus-monaka-cpu-to-benefit-from-face-to-face-chiplet-stacking",
+      "theme": "AI伺服器",
+      "title": "Nvidia 執行長黃仁勳表示中國不應該擁有 Blackwell 或 Rubin AI GPU——堅定地表示美國在 AI 硬體方面應該擁有“第一、最多、最好”",
+      "summary": "英偉達的黃仁勳重申，美國公司應該能夠將其產品銷往全球，但堅持最新的人工智慧加速器應該留在美國。",
+      "original_title": "Nvidia CEO Jensen Huang says China should not have Blackwell or Rubin AI GPUs — firmly states US should have 'the first, the most, and the best' when it comes to AI hardware",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-ceo-jensen-huang-says-china-should-not-have-blackwell-or-rubin-ai-gpus-firmly-states-us-should-have-the-first-the-most-and-the-best-when-it-comes-to-ai-hardware",
       "source": "Tom's Hardware UK",
       "domain": "tomshardware.com",
-      "published_at": "2026-04-29T13:26:22Z",
+      "published_at": "2026-05-05T11:53:22Z",
       "importance": 62,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
+        "AI",
+        "伺服器",
+        "資料中心"
       ],
       "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
       ],
       "related_models": [
         "003",
@@ -628,7 +666,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "2081974ac25bacf8",
@@ -667,41 +705,6 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "be34c957581deb72",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "忘記 GPU——中國推出僅使用 CPU 的 2 ExaFLOPS 超級計算機，將 47,000 個處理器裝入 92 個計算櫃，希望再次取代美國",
-      "summary": "中國的凌盛超級電腦的目標是使用純 CPU 架構實現百億億次效能，但其說法目前尚未得到證實。",
-      "original_title": "Forget GPUs — China unveils 2 ExaFLOPS supercomputer using only CPUs, packing 47,000 processors into 92 compute cabinets as it looks to supersede the US once again",
-      "url": "https://www.techradar.com/pro/forget-gpus-china-unveils-2-exaflops-supercomputer-using-only-cpu-packing-47-000-processors-into-92-compute-cabinets-as-it-looks-to-supercede-the-us-once-again",
-      "source": "TechRadar",
-      "domain": "techradar.com",
-      "published_at": "2026-05-04T17:50:00Z",
-      "importance": 60,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "244118d4b945034b",
@@ -1157,32 +1160,32 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "ed3140acc39df641",
+      "id": "23b27d58858ed4fd",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "匯鑽科技泰國工廠破土動工，擴產高階CPO、AI硬碟及散熱",
-      "summary": "卓越電鍍科技宣佈在泰國大城府的新工廠破土動工，第一期涉及投資 3 億新台幣（952 萬美元）用於建設和設備，以建立高端轉型中心。",
-      "original_title": "Huizuan Technology breaks ground on Thailand plant to scale high-end CPO, AI HDD and cooling",
-      "url": "https://www.digitimes.com/news/a20260429PD203/high-end-hdd-plant-cooling-cpo.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-04-29T00:55:04Z",
-      "importance": 58,
+      "theme": "半導體先進製程",
+      "title": "台積電 SoIC 3D 堆疊路線圖概述了從目前的 6 微米間距到 2029 年 4.5 微米間距的路徑 — 富士通 Monaka CPU 將受益於面對面小晶片堆疊",
+      "summary": "台積電為新一代 SoIC 3D 堆疊增加了對面對面堆疊、6.5 µm 和 4.5 µm 間距的支援。",
+      "original_title": "TSMC SoIC 3D stacking roadmap outlines path from 6-micron pitches today to 4.5-micron in 2029 — Fujitsu's Monaka CPU to benefit from face-to-face chiplet stacking",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-soic-3d-stacking-roadmap-outlines-path-from-6-micron-pitches-today-to-4-5-micron-in-2029-fujitsus-monaka-cpu-to-benefit-from-face-to-face-chiplet-stacking",
+      "source": "Tom's Hardware UK",
+      "domain": "tomshardware.com",
+      "published_at": "2026-04-29T13:26:22Z",
+      "importance": 57,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
+        "半導體",
+        "CoWoS",
+        "先進製程"
       ],
       "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
       ],
       "related_models": [
         "003",
@@ -1192,7 +1195,80 @@
         "009",
         "010"
       ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "8d3e03e118974b6f",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "「大空頭」投資者 Michael Burry 證實他已出售 GameStop 並表示他正在做空 Palantir",
+      "summary": "以「大空頭」聞名的 Michael Burry 表示，他出售 GameStop 是因為他不喜歡 GameStop 收購 eBay 的計劃，並在 Palantir 上「徹底做空」。",
+      "original_title": "'Big Short' investor Michael Burry confirms he's sold GameStop and says he's shorting Palantir",
+      "url": "https://www.businessinsider.com/big-short-michael-burry-sells-gamestop-palantir-short-nvidia-tech-2026-5",
+      "source": "Business Insider",
+      "domain": "businessinsider.com",
+      "published_at": "2026-05-05T12:35:03Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "8953f7eb58b0bbe5",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "蘋果晶片報告的三點要點，其中一個前景令人擔憂",
+      "summary": "Bloomberg yesterday reported that Apple has been in discussion with both Intel and Samsung regarding future production of its device processors.\n\n\n\nThe move is said to be motivated by Apple seeking to reduce its reliance on Taiwan’s TSMC as its sole supplier …",
+      "original_title": "Three takeouts from the Apple chip report, with one worrying prospect",
+      "url": "https://9to5mac.com/2026/05/05/three-takeouts-from-the-apple-chip-report-with-one-worrying-prospect/",
+      "source": "9to5Mac",
+      "domain": "9to5mac.com",
+      "published_at": "2026-05-05T11:25:41Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "e296a49f5a736c85",
@@ -1826,44 +1902,6 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "83950bd48229f788",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "聯邦快遞和UPS承諾將川普關稅退款轉嫁給客戶",
-      "summary": "川普廣受鄙視的進口關稅被裁定違憲，每個人都在起訴某人——他的政府、收取關稅的快遞公司、零售商——以收回他們的錢。聯邦快遞和 UPS 至少承諾轉交他們所收到的退款…",
-      "original_title": "FedEx and UPS promise to pass on Trump tariff refunds to customers",
-      "url": "https://boingboing.net/2026/04/29/fedex-and-ups-promise-to-pass-on-trump-tariff-refunds-to-customers.html",
-      "source": "Boing Boing",
-      "domain": "boingboing.net",
-      "published_at": "2026-04-29T13:49:48Z",
-      "importance": 55,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "a7d5832ec445dec0",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2320,44 +2358,6 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "bc62aeaba14a1771",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "MacBook Ultra 擁有這些功能",
-      "summary": "MacBook Pro 剛剛更新，配備了 M5 Pro 和 M5 Max 晶片。已經有傳言稱該設備預計會有更大的更新。有傳言稱，這些設備將在明年初進行重大重新設計，蘋果可能會使用...",
-      "original_title": "MacBook Ultra To Have These Features",
-      "url": "https://www.ilounge.com/news/mac/macbook-ultra/macbook-ultra-to-have-these-features",
-      "source": "iLounge",
-      "domain": "ilounge.com",
-      "published_at": "2026-04-30T07:39:43Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "fe31c23fc75d9925",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2434,19 +2434,19 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "eeb03fe8e29227e3",
+      "id": "83950bd48229f788",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "總體風險",
-      "title": "阿聯酋歐佩克",
-      "summary": "由於與沙烏地阿拉伯的緊張關係以及伊朗戰爭的混亂，阿聯酋表示將退出歐佩克。",
-      "original_title": "UAE OPEC",
-      "url": "https://www.npr.org/2026/04/29/nx-s1-5802739/uae-opec",
-      "source": "NPR",
-      "domain": "npr.org",
-      "published_at": "2026-04-29T14:35:49Z",
+      "title": "聯邦快遞和UPS承諾將川普關稅退款轉嫁給客戶",
+      "summary": "川普廣受鄙視的進口關稅被裁定違憲，每個人都在起訴某人——他的政府、收取關稅的快遞公司、零售商——以收回他們的錢。聯邦快遞和 UPS 至少承諾轉交他們所收到的退款…",
+      "original_title": "FedEx and UPS promise to pass on Trump tariff refunds to customers",
+      "url": "https://boingboing.net/2026/04/29/fedex-and-ups-promise-to-pass-on-trump-tariff-refunds-to-customers.html",
+      "source": "Boing Boing",
+      "domain": "boingboing.net",
+      "published_at": "2026-04-29T13:49:48Z",
       "importance": 50,
-      "impact": "neutral",
+      "impact": "negative",
       "timeframe": "short_term",
       "tags": [
         "總體",
@@ -2469,45 +2469,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "9de7d6bebef561d1",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "小米的下一個旗艦殺手可能會變得更昂貴，這令人刺痛",
-      "summary": "小米的下一代T系列可能會更早上市，規格也更強，但不斷上漲的價格使其更接近真正的旗艦產品，使其不再像以前那麼便宜。",
-      "original_title": "Xiaomi's next flagship killer could get more expensive, and that stings",
-      "url": "https://www.androidcentral.com/phones/xiaomi/xiaomis-next-flagship-killer-could-get-more-expensive-and-that-stings",
-      "source": "Android Central",
-      "domain": "androidcentral.com",
-      "published_at": "2026-04-29T11:19:39Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "d4ed31710a1bcfff",
@@ -2548,32 +2510,32 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "142234954c882190",
+      "id": "eeb03fe8e29227e3",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "錢達·普雷斯科德-韋恩斯坦將物理學、詩歌和流行文化聯繫起來",
-      "summary": "一位物理學家探索詩歌、流行文化和想像力如何幫助我們理解時空和我們在宇宙中的位置",
-      "original_title": "Chanda Prescod-Weinstein connects physics, poetry and pop culture",
-      "url": "https://www.scientificamerican.com/podcast/episode/chanda-prescod-weinstein-connects-physics-poetry-and-pop-culture/",
-      "source": "Scientific American",
-      "domain": "scientificamerican.com",
-      "published_at": "2026-04-29T10:00:00Z",
+      "theme": "總體風險",
+      "title": "阿聯酋歐佩克",
+      "summary": "由於與沙烏地阿拉伯的緊張關係以及伊朗戰爭的混亂，阿聯酋表示將退出歐佩克。",
+      "original_title": "UAE OPEC",
+      "url": "https://www.npr.org/2026/04/29/nx-s1-5802739/uae-opec",
+      "source": "NPR",
+      "domain": "npr.org",
+      "published_at": "2026-04-29T14:35:49Z",
       "importance": 45,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
       ],
       "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
       ],
       "related_models": [
         "003",
@@ -2583,7 +2545,45 @@
         "009",
         "010"
       ],
-      "reason": "屬「AI伺服器」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
+      "reason": "屬「總體風險」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
+    },
+    {
+      "id": "9de7d6bebef561d1",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "小米的下一個旗艦殺手可能會變得更昂貴，這令人刺痛",
+      "summary": "小米的下一代T系列可能會更早上市，規格也更強，但不斷上漲的價格使其更接近真正的旗艦產品，使其不再像以前那麼便宜。",
+      "original_title": "Xiaomi's next flagship killer could get more expensive, and that stings",
+      "url": "https://www.androidcentral.com/phones/xiaomi/xiaomis-next-flagship-killer-could-get-more-expensive-and-that-stings",
+      "source": "Android Central",
+      "domain": "androidcentral.com",
+      "published_at": "2026-04-29T11:19:39Z",
+      "importance": 45,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     },
     {
       "id": "0e294939efa1f88d",
