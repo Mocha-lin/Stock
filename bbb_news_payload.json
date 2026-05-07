@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-05-07T18:17:39.910694+00:00",
+  "generated_at": "2026-05-07T20:07:57.422398+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 72,
@@ -631,6 +631,44 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "66e3cfdb656dc9fa",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "克勞德搭上了 SpaceX 資料中心容量的便車",
+      "summary": "Colossus 的計算放寬了限制",
+      "original_title": "Claude hitches ride on SpaceX's datacenter capacity",
+      "url": "https://www.theregister.com/ai-and-ml/2026/05/06/claude-hitches-a-ride-on-spacexs-datacenter-capacity/5231252",
+      "source": "Theregister.com",
+      "domain": "theregister.com",
+      "published_at": "2026-05-06T20:01:45Z",
+      "importance": 60,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "e9b070982e3628a2",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -962,44 +1000,6 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "4c26d2b42ecd6107",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "Marvell 股票值得立即買進的 3 個理由",
-      "summary": "Marvell Technology 正在將人工智慧需求轉化為長期、高可見度的收入成長。",
-      "original_title": "3 Reasons Why Marvell Stock is a Buy Now",
-      "url": "https://www.barchart.com/story/news/1628055/3-reasons-why-marvell-stock-is-a-buy-now",
-      "source": "Barchart.com",
-      "domain": "barchart.com",
-      "published_at": "2026-04-30T18:45:36Z",
-      "importance": 60,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "4682662b503b6e8f",
@@ -1490,44 +1490,6 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "940de7d253a38c23",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "伊朗用無人機襲擊阿聯酋石油設施以及美國擊沉 6 艘伊朗船隻後油價飆升",
-      "summary": "美國鼓勵船隻通過霍爾木茲海峽，但這仍然是一個冒險的提議。",
-      "original_title": "Oil Prices Surge After Iran Hits UAE Oil Facility With Drone and US Sinks 6 Iranian Boats",
-      "url": "https://gizmodo.com/oil-prices-surge-after-iran-hits-uae-oil-facility-with-drone-and-us-sinks-6-iranian-boats-2000754254",
-      "source": "Gizmodo.com",
-      "domain": "gizmodo.com",
-      "published_at": "2026-05-04T18:35:14Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "2081974ac25bacf8",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1756,32 +1718,32 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "0a9b2fc240858f0c",
+      "id": "4c26d2b42ecd6107",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "霍爾木茲海峽中斷影響的不僅是天然氣價格",
-      "summary": "專家警告說，更高的能源成本將逐漸透過供應鏈轉移。最重大的經濟影響可能要幾個月後才會顯現。",
-      "original_title": "Strait of Hormuz disruptions will affect more than gas prices",
-      "url": "https://www.futurity.org/strait-of-hormuz-prices-economic-disruption-3332882/",
-      "source": "Futurity: Research News",
-      "domain": "futurity.org",
-      "published_at": "2026-04-30T19:40:09Z",
+      "theme": "光通訊與矽光子",
+      "title": "Marvell 股票值得立即買進的 3 個理由",
+      "summary": "Marvell Technology 正在將人工智慧需求轉化為長期、高可見度的收入成長。",
+      "original_title": "3 Reasons Why Marvell Stock is a Buy Now",
+      "url": "https://www.barchart.com/story/news/1628055/3-reasons-why-marvell-stock-is-a-buy-now",
+      "source": "Barchart.com",
+      "domain": "barchart.com",
+      "published_at": "2026-04-30T18:45:36Z",
       "importance": 55,
-      "impact": "neutral",
+      "impact": "positive",
       "timeframe": "short_term",
       "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
+        "光通訊",
+        "CPO",
+        "矽光子"
       ],
       "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
       ],
       "related_models": [
         "003",
@@ -1791,7 +1753,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "3e48746b45040d6d",
@@ -1941,6 +1903,44 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "940de7d253a38c23",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "伊朗用無人機襲擊阿聯酋石油設施以及美國擊沉 6 艘伊朗船隻後油價飆升",
+      "summary": "美國鼓勵船隻通過霍爾木茲海峽，但這仍然是一個冒險的提議。",
+      "original_title": "Oil Prices Surge After Iran Hits UAE Oil Facility With Drone and US Sinks 6 Iranian Boats",
+      "url": "https://gizmodo.com/oil-prices-surge-after-iran-hits-uae-oil-facility-with-drone-and-us-sinks-6-iranian-boats-2000754254",
+      "source": "Gizmodo.com",
+      "domain": "gizmodo.com",
+      "published_at": "2026-05-04T18:35:14Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "3368e457ae125294",
