@@ -1,14 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-05-07T15:23:54.479664+00:00
-
-### 🚀 OpenAI需求疑慮為AI伺服器供應鏈蒙上陰影
-- **題材**: `AI伺服器` | **重要性**: `83`
-- **來源**: Digitimes (2026-05-01T06:53:41Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: OpenAI 積極推動確保人工智慧運算能力的舉措正面臨越來越多的審查，有跡象表明其數十億美元的資料中心採購計劃可能會被重新評估，據報道，這對由廣達電腦、緯創資通和 F 領導的供應鏈提出了質疑。
-- [原文連結](https://www.digitimes.com/news/a20260501VL207/ai-server-capacity-ems-openai-supply-chain.html)
-
----
+> 更新時間：2026-05-07T18:17:39.910694+00:00
 
 ### ⚖️ GlobalFoundries 認為光學和 SiGe 勢頭將推動策略飛躍進入高價值晶片市場
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -55,15 +46,6 @@
 
 ---
 
-### 🚀 美光躍升 7%：記憶體製造商現在是結構人工智慧的贏家嗎？
-- **題材**: `HBM記憶體` | **重要性**: `75`
-- **來源**: 24/7 Wall St. (2026-05-04T15:28:18Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 美光科技 (NASDAQ:MU) 股價週一早盤上漲 7%，週五收在 542.21 美元，換手價格約 579 美元。此舉延長...
-- [原文連結](https://247wallst.com/investing/2026/05/04/micron-jumps-7-is-the-memory-maker-now-a-structural-ai-winner/)
-
----
-
 ### 🚀 AI's 1.6T shift turns InP into optical supply chain bottleneck
 - **題材**: `光通訊與矽光子` | **重要性**: `73`
 - **來源**: Digitimes (2026-05-04T04:22:04Z)
@@ -79,6 +61,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 5 月 5 日：專業晶片製造商 GlobalFoundries 週二預測，在全球資料中心部署加速的推動下，第二季營收將高於華爾街預期。該公司股價在盤前交易中上漲 6%。 • 公司已...
 - [原文連結](https://www.channelnewsasia.com/business/globalfoundries-forecasts-upbeat-second-quarter-data-center-demand-6101111)
+
+---
+
+### 🚀 美光躍升 7%：記憶體製造商現在是結構人工智慧的贏家嗎？
+- **題材**: `HBM記憶體` | **重要性**: `70`
+- **來源**: 24/7 Wall St. (2026-05-04T15:28:18Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 美光科技 (NASDAQ:MU) 股價週一早盤上漲 7%，週五收在 542.21 美元，換手價格約 579 美元。此舉延長...
+- [原文連結](https://247wallst.com/investing/2026/05/04/micron-jumps-7-is-the-memory-maker-now-a-structural-ai-winner/)
 
 ---
 
@@ -115,6 +106,15 @@
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: MetaX 也實現了強勁增長，但在 IPO 四個月後仍然沒有盈利。
 - [原文連結](https://www.tomshardware.com/tech-industry/cambricons-q1-revenue-hits-423-million-as-chinas-domestic-ai-chip-market-accelerates)
+
+---
+
+### ⚠️ 今年 DRAM 短缺將困擾 AMD 晶片
+- **題材**: `AI伺服器` | **重要性**: `65`
+- **來源**: Theregister.com (2026-05-06T16:45:00Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 商用個人電腦需求預計將緩解更廣泛的經濟放緩
+- [原文連結](https://www.theregister.com/personal-tech/2026/05/06/amd-warns-rising-memory-costs-will-hit-pc-shipments/5231063)
 
 ---
 
