@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-05-07T20:07:57.422398+00:00
+> 更新時間：2026-05-07T23:53:46.030577+00:00
 
 ### ⚖️ GlobalFoundries 認為光學和 SiGe 勢頭將推動策略飛躍進入高價值晶片市場
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -91,15 +91,6 @@
 
 ---
 
-### ⚖️ 隨著 HBM 需求前景的變化，SK Hynix 正在考慮內存工廠的轉移
-- **題材**: `HBM記憶體` | **重要性**: `68`
-- **來源**: Digitimes (2026-05-04T23:46:33Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: SK 海力士正在考慮改變其位於韓國清州的新 M15X 記憶體生產基地的 DRAM 投資策略，從第五代 10 奈米級（即 1b）DRAM 轉向第六代 10 奈米級（即 1c）DRAM，作為高頻寬記憶體（HBM）…
-- [原文連結](https://www.digitimes.com/news/a20260504VL215/sk-hynix-dram-hbm-demand-outlook.html)
-
----
-
 ### 🚀 隨著中國本土AI晶片市場加速發展，中國GPU製造商寒武紀第一季營收達4.23億美元——中國晶片製造商繼續從Nvidia手中奪取市場份額
 - **題材**: `AI伺服器` | **重要性**: `67`
 - **來源**: Tom's Hardware UK (2026-04-30T10:30:00Z)
@@ -124,6 +115,15 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Memory chip stocks are ripping higher again this morning, with Micron Technology (NASDAQ:MU) shares up 12% and SanDisk (NASDAQ:SNDK) shares climbing 10% in...
 - [原文連結](https://247wallst.com/investing/2026/05/05/micron-rockets-12-sandisk-leaps-10-as-tight-memory-supply-fuels-parabolic-ai-trade/)
+
+---
+
+### ⚖️ 隨著 HBM 需求前景的變化，SK Hynix 正在考慮內存工廠的轉移
+- **題材**: `HBM記憶體` | **重要性**: `63`
+- **來源**: Digitimes (2026-05-04T23:46:33Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: SK 海力士正在考慮改變其位於韓國清州的新 M15X 記憶體生產基地的 DRAM 投資策略，從第五代 10 奈米級（即 1b）DRAM 轉向第六代 10 奈米級（即 1c）DRAM，作為高頻寬記憶體（HBM）…
+- [原文連結](https://www.digitimes.com/news/a20260504VL215/sk-hynix-dram-hbm-demand-outlook.html)
 
 ---
 
