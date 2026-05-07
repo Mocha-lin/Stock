@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-05-07T11:09:58.160790+00:00
+> 更新時間：2026-05-07T15:23:54.479664+00:00
 
 ### 🚀 OpenAI需求疑慮為AI伺服器供應鏈蒙上陰影
 - **題材**: `AI伺服器` | **重要性**: `83`
@@ -109,15 +109,6 @@
 
 ---
 
-### ⚖️ 三星和 SK 海力士警告稱，隨著 HBM 需求爆炸式增長，人工智慧驅動的記憶體短缺可能會持續到 2027 年及以後——客戶已經在未來幾年儲備供應，而更廣泛的 DRAM 市場開始收緊
-- **題材**: `HBM記憶體` | **重要性**: `67`
-- **來源**: Tom's Hardware UK (2026-04-30T14:46:57Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 三星和 SK 海力士警告稱，由於 HBM 需求爆炸式增長，超過供應，導致更廣泛的 DRAM 市場趨緊，並推動創紀錄的利潤，人工智慧驅動的記憶體嚴重短缺可能會持續到 2027 年
-- [原文連結](https://www.tomshardware.com/tech-industry/artificial-intelligence/samsung-and-sk-hynix-warn-ai-driven-memory-shortages-could-last-until-2027-and-beyond-as-hbm-demand-explodes-customers-already-reserving-supply-years-ahead-while-the-wider-dram-market-begins-to-tighten)
-
----
-
 ### 🚀 隨著中國本土AI晶片市場加速發展，中國GPU製造商寒武紀第一季營收達4.23億美元——中國晶片製造商繼續從Nvidia手中奪取市場份額
 - **題材**: `AI伺服器` | **重要性**: `67`
 - **來源**: Tom's Hardware UK (2026-04-30T10:30:00Z)
@@ -154,6 +145,24 @@
 
 ---
 
+### ⚖️ 三星和 SK 海力士警告稱，隨著 HBM 需求爆炸式增長，人工智慧驅動的記憶體短缺可能會持續到 2027 年及以後——客戶已經在未來幾年儲備供應，而更廣泛的 DRAM 市場開始收緊
+- **題材**: `HBM記憶體` | **重要性**: `62`
+- **來源**: Tom's Hardware UK (2026-04-30T14:46:57Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 三星和 SK 海力士警告稱，由於 HBM 需求爆炸式增長，超過供應，導致更廣泛的 DRAM 市場趨緊，並推動創紀錄的利潤，人工智慧驅動的記憶體嚴重短缺可能會持續到 2027 年
+- [原文連結](https://www.tomshardware.com/tech-industry/artificial-intelligence/samsung-and-sk-hynix-warn-ai-driven-memory-shortages-could-last-until-2027-and-beyond-as-hbm-demand-explodes-customers-already-reserving-supply-years-ahead-while-the-wider-dram-market-begins-to-tighten)
+
+---
+
+### ⚖️ 榮耀600系列以大折扣和流行文化改造登陸英國
+- **題材**: `半導體先進製程` | **重要性**: `60`
+- **來源**: Android Central (2026-05-06T15:23:04Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 榮耀 600 系列現已在英國正式上市，起價為 370 英鎊，具有旗艦風格的規格，並可享受 200 英鎊的首發折扣。
+- [原文連結](https://www.androidcentral.com/phones/honor-phones/honor-600-series-hits-the-uk-with-big-discounts-and-a-pop-culture-makeover)
+
+---
+
 ### ⚖️ 人工智慧熱潮推動三星估值突破1兆美元歷史大關
 - **題材**: `HBM記憶體` | **重要性**: `60`
 - **來源**: SamMobile (2026-05-06T06:35:13Z)
@@ -169,15 +178,6 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 三星電子的股價今年翻了一番，成為繼台積電之後第二家加入兆美元俱樂部的亞洲公司。
 - [原文連結](https://www.businessinsider.com/south-korea-stock-market-samsung-1-trillion-club-ai-boom-2026-5)
-
----
-
-### 🚀 男性性荷爾蒙的喪失有助於腦腫瘤的生長
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: Nature.com (2026-05-06T00:00:00Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 促進男性發育的性激素的消耗會引起神經炎症，從而破壞激素信號傳導和針對腦腫瘤的免疫反應。
-- [原文連結](https://www.nature.com/articles/d41586-026-01159-7)
 
 ---
 
