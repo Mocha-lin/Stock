@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-05-07T07:37:57.875747+00:00
+> 更新時間：2026-05-07T11:09:58.160790+00:00
 
 ### 🚀 OpenAI需求疑慮為AI伺服器供應鏈蒙上陰影
 - **題材**: `AI伺服器` | **重要性**: `83`
@@ -73,15 +73,6 @@
 
 ---
 
-### 🚀 隨著中國本土AI晶片市場加速發展，中國GPU製造商寒武紀第一季營收達4.23億美元——中國晶片製造商繼續從Nvidia手中奪取市場份額
-- **題材**: `AI伺服器` | **重要性**: `72`
-- **來源**: Tom's Hardware UK (2026-04-30T10:30:00Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: MetaX 也實現了強勁增長，但在 IPO 四個月後仍然沒有盈利。
-- [原文連結](https://www.tomshardware.com/tech-industry/cambricons-q1-revenue-hits-423-million-as-chinas-domestic-ai-chip-market-accelerates)
-
----
-
 ### ⚖️ GlobalFoundries 預測第二季資料中心需求樂觀
 - **題材**: `光通訊與矽光子` | **重要性**: `70`
 - **來源**: CNA (2026-05-05T11:42:32Z)
@@ -127,21 +118,21 @@
 
 ---
 
+### 🚀 隨著中國本土AI晶片市場加速發展，中國GPU製造商寒武紀第一季營收達4.23億美元——中國晶片製造商繼續從Nvidia手中奪取市場份額
+- **題材**: `AI伺服器` | **重要性**: `67`
+- **來源**: Tom's Hardware UK (2026-04-30T10:30:00Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: MetaX 也實現了強勁增長，但在 IPO 四個月後仍然沒有盈利。
+- [原文連結](https://www.tomshardware.com/tech-industry/cambricons-q1-revenue-hits-423-million-as-chinas-domestic-ai-chip-market-accelerates)
+
+---
+
 ### ⚖️ 記憶體供應緊張助推人工智慧貿易，美光飆升 12%，SanDisk 飆升 10%
 - **題材**: `HBM記憶體` | **重要性**: `65`
 - **來源**: 24/7 Wall St. (2026-05-05T15:58:13Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Memory chip stocks are ripping higher again this morning, with Micron Technology (NASDAQ:MU) shares up 12% and SanDisk (NASDAQ:SNDK) shares climbing 10% in...
 - [原文連結](https://247wallst.com/investing/2026/05/05/micron-rockets-12-sandisk-leaps-10-as-tight-memory-supply-fuels-parabolic-ai-trade/)
-
----
-
-### 🚀 三星 2026 年第一季的獲利非常瘋狂，而你的 Galaxy 手機幾乎沒有幫助
-- **題材**: `AI伺服器` | **重要性**: `65`
-- **來源**: Android Central (2026-04-30T08:00:49Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 三星從蓬勃發展的人工智慧晶片中賺得盆滿缽滿，但其手機業務卻在放緩。
-- [原文連結](https://www.androidcentral.com/phones/samsung-galaxy/samsungs-q1-2026-earnings-are-insane-and-your-galaxy-phone-barely-helped)
 
 ---
 
@@ -178,6 +169,15 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 三星電子的股價今年翻了一番，成為繼台積電之後第二家加入兆美元俱樂部的亞洲公司。
 - [原文連結](https://www.businessinsider.com/south-korea-stock-market-samsung-1-trillion-club-ai-boom-2026-5)
+
+---
+
+### 🚀 男性性荷爾蒙的喪失有助於腦腫瘤的生長
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: Nature.com (2026-05-06T00:00:00Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 促進男性發育的性激素的消耗會引起神經炎症，從而破壞激素信號傳導和針對腦腫瘤的免疫反應。
+- [原文連結](https://www.nature.com/articles/d41586-026-01159-7)
 
 ---
 
