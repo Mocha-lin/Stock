@@ -1,12 +1,12 @@
 {
   "id": "6831",
   "name": "邁科",
-  "lastUpdated": "2026-05-07 05:17:41",
+  "lastUpdated": "2026-05-07 17:27:51",
   "ai_model": "Fact-Update",
   "basicInfo": {
-    "price": "561.00",
-    "change": "41.00",
-    "changePercent": "7.88%"
+    "price": "559.00",
+    "change": "-2.00",
+    "changePercent": "-0.36%"
   },
   "financials": {
     "revenue_trend": [
@@ -440,6 +440,14 @@
     ],
     "chips_table": [
       {
+        "date": "2026-05-07",
+        "foreign_lots": -232.25,
+        "it_lots": 42.0,
+        "dealer_lots": -2.6790000000000003,
+        "sum_lots": -192.929,
+        "pct_float": -0.028582074074074076
+      },
+      {
         "date": "2026-05-06",
         "foreign_lots": -224.912,
         "it_lots": -0.345,
@@ -550,14 +558,6 @@
         "dealer_lots": 115.172,
         "sum_lots": 79.372,
         "pct_float": 0.011758814814814816
-      },
-      {
-        "date": "2026-04-15",
-        "foreign_lots": -33.73,
-        "it_lots": 0.0,
-        "dealer_lots": 11.013,
-        "sum_lots": -22.717,
-        "pct_float": -0.0033654814814814814
       }
     ],
     "c_score_data": {
@@ -565,7 +565,7 @@
       "dataset": "structure_c_score",
       "stock_id": "6831",
       "ticker": "6831.TW",
-      "asof": "2026-05-06",
+      "asof": "2026-05-07",
       "c_score": 1.0,
       "benchmark_pe": 129.16666666666666,
       "source": [
@@ -768,8 +768,8 @@
     "returns_table": [
       {
         "year": 2026,
-        "return_pct": 94.54933511582624,
-        "period": "01/02~05/06"
+        "return_pct": 93.85575459847925,
+        "period": "01/02~05/07"
       },
       {
         "year": 2025,
@@ -3087,6 +3087,27 @@
         "DEA": 36.80748010709644,
         "HIST": -0.2327632360529037,
         "volume_lot": 3268.307
+      },
+      {
+        "date": "2026-05-07",
+        "symbol": "6831.TW",
+        "open": 590.0,
+        "high": 594.0,
+        "low": 550.0,
+        "close": 559.0,
+        "volume": 2354741,
+        "adjclose": 559.0,
+        "dividends": 0.0,
+        "MA5": 517.5,
+        "MA20": 483.125,
+        "MA60": 369.90833333333336,
+        "bb_mid": 483.125,
+        "bb_up": 567.1415906235198,
+        "bb_dn": 399.1084093764802,
+        "DIF": 39.21916334689155,
+        "DEA": 37.28981675505546,
+        "HIST": 3.858693183672173,
+        "volume_lot": 2354.741
       }
     ],
     "valuation": {

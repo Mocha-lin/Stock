@@ -1,12 +1,12 @@
 {
   "id": "7750",
   "name": "新代",
-  "lastUpdated": "2026-05-07 05:17:41",
+  "lastUpdated": "2026-05-07 17:27:51",
   "ai_model": "Fact-Update",
   "basicInfo": {
-    "price": "2595.00",
-    "change": "-75.00",
-    "changePercent": "-2.81%"
+    "price": "2605.00",
+    "change": "10.00",
+    "changePercent": "0.39%"
   },
   "financials": {
     "revenue_trend": [
@@ -436,6 +436,14 @@
     ],
     "chips_table": [
       {
+        "date": "2026-05-07",
+        "foreign_lots": 66.582,
+        "it_lots": 0.0,
+        "dealer_lots": -1.645,
+        "sum_lots": 64.937,
+        "pct_float": 0.00903873724649583
+      },
+      {
         "date": "2026-05-06",
         "foreign_lots": 66.678,
         "it_lots": 0.0,
@@ -546,14 +554,6 @@
         "dealer_lots": 7.553,
         "sum_lots": 9.529,
         "pct_float": 0.0013263644335565052
-      },
-      {
-        "date": "2026-04-15",
-        "foreign_lots": 99.07,
-        "it_lots": 0.0,
-        "dealer_lots": 1.955,
-        "sum_lots": 101.02499999999999,
-        "pct_float": 0.014061912782038612
       }
     ],
     "c_score_data": {
@@ -561,7 +561,7 @@
       "dataset": "structure_c_score",
       "stock_id": "7750",
       "ticker": "7750.TW",
-      "asof": "2026-05-06",
+      "asof": "2026-05-07",
       "c_score": 1.0,
       "benchmark_pe": 113.33585484389086,
       "source": [
@@ -716,8 +716,8 @@
     "returns_table": [
       {
         "year": 2026,
-        "return_pct": 198.66393023273622,
-        "period": "01/02~05/06"
+        "return_pct": 199.81485096581034,
+        "period": "01/02~05/07"
       },
       {
         "year": 2025,
@@ -726,27 +726,6 @@
       }
     ],
     "kline_data": [
-      {
-        "date": "2025-11-03",
-        "symbol": "7750.TW",
-        "open": 833.0,
-        "high": 835.0,
-        "low": 815.0,
-        "close": 819.0,
-        "volume": 164393,
-        "adjclose": 808.64111328125,
-        "dividends": 0.0,
-        "MA5": 839.8,
-        "MA20": 837.75,
-        "MA60": null,
-        "bb_mid": 837.75,
-        "bb_up": 870.5882399041111,
-        "bb_dn": 804.9117600958889,
-        "DIF": -12.95488170678857,
-        "DEA": -15.258239944466355,
-        "HIST": 4.606716475355576,
-        "volume_lot": 164.393
-      },
       {
         "date": "2025-11-04",
         "symbol": "7750.TW",
@@ -3245,6 +3224,27 @@
         "DEA": 265.1342535336352,
         "HIST": 113.55036726320044,
         "volume_lot": 1039.779
+      },
+      {
+        "date": "2026-05-07",
+        "symbol": "7750.TW",
+        "open": 2590.0,
+        "high": 2625.0,
+        "low": 2525.0,
+        "close": 2605.0,
+        "volume": 310340,
+        "adjclose": 2605.0,
+        "dividends": 0.0,
+        "MA5": 2619.0,
+        "MA20": 2081.5,
+        "MA60": 1529.95,
+        "bb_mid": 2081.5,
+        "bb_up": 2902.512180177615,
+        "bb_dn": 1260.487819822385,
+        "DIF": 320.32284907654594,
+        "DEA": 276.1719726422174,
+        "HIST": 88.3017528686571,
+        "volume_lot": 310.34
       }
     ],
     "valuation": {
