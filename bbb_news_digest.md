@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-05-08T16:07:07.681074+00:00
+> 更新時間：2026-05-08T18:02:15.820913+00:00
 
 ### 🚀 Msscorps 因轉向矽光子學檢查而第一季出現虧損
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -46,21 +46,21 @@
 
 ---
 
-### 🚀 GLOBALFOUNDRIES Inc. 2026 年第一季財報電話會議摘要
-- **題材**: `光通訊與矽光子` | **重要性**: `75`
-- **來源**: Moby.co (2026-05-05T16:44:10Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: GLOBALFOUNDRIES Inc. 2026 年第一季財報電話會議的 Moby 摘要
-- [原文連結](https://app.moby.co/home/research/tools/earningsCalendar/earnings-globalfoundries-inc-q1-2026-earnings-call-summary?utm_source=yahoo_finance&amp;utm_medium=rss)
-
----
-
 ### 🚀 AI's 1.6T shift turns InP into optical supply chain bottleneck
 - **題材**: `光通訊與矽光子` | **重要性**: `73`
 - **來源**: Digitimes (2026-05-04T04:22:04Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: The transition from 800G to 1.6T optical modules is no longer an upgrade cycle — it is a physics-driven inflection point.
 - [原文連結](https://www.digitimes.com/news/a20260504VL207/optical-components-rare-earth-siph-supply-chain.html)
+
+---
+
+### 🚀 GLOBALFOUNDRIES Inc. 2026 年第一季財報電話會議摘要
+- **題材**: `光通訊與矽光子` | **重要性**: `70`
+- **來源**: Moby.co (2026-05-05T16:44:10Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: GLOBALFOUNDRIES Inc. 2026 年第一季財報電話會議的 Moby 摘要
+- [原文連結](https://app.moby.co/home/research/tools/earningsCalendar/earnings-globalfoundries-inc-q1-2026-earnings-call-summary?utm_source=yahoo_finance&amp;utm_medium=rss)
 
 ---
 
