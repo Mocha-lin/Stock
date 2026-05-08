@@ -1,5 +1,32 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-05-07T23:53:46.030577+00:00
+> 更新時間：2026-05-08T04:13:28.925827+00:00
+
+### 🚀 台灣零件製造商 Fositek 順應 AI 伺服器冷卻需求
+- **題材**: `AI伺服器` | **重要性**: `98`
+- **來源**: Digitimes (2026-05-07T00:21:52Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重大事件】可能顯著影響產業評價、EPS預期或資金流向。
+- **摘要**: Fositek表示，人工智慧（AI）基礎設施的強勁需求正在推動其液冷業務快速成長，並將促使產能持續擴張以滿足客戶需求。該公司預計伺服器相關收入季度將增長…
+- [原文連結](https://www.digitimes.com/news/a20260506PD212/fositek-ai-server-capacity-demand-2026.html)
+
+---
+
+### 🚀 Msscorps 因轉向矽光子學檢查而第一季出現虧損
+- **題材**: `光通訊與矽光子` | **重要性**: `83`
+- **來源**: Digitimes (2026-05-07T03:53:35Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Msscorps 報告 2026 年第一季合併營收為新台幣 5.79 億元（合 1,846 萬美元），年成長 24.54%，創同期歷史最高紀錄，但仍錄得淨虧損 3,185 萬元新台幣，每股收益連續 0.61 元虧損，連續第三年虧損。
+- [原文連結](https://www.digitimes.com/news/a20260507PD202/revenue-loss-silicon-inspection-photonics.html)
+
+---
+
+### 🚀 OpenAI需求疑慮為AI伺服器供應鏈蒙上陰影
+- **題材**: `AI伺服器` | **重要性**: `83`
+- **來源**: Digitimes (2026-05-01T06:53:41Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: OpenAI 積極推動確保人工智慧運算能力的舉措正面臨越來越多的審查，有跡象表明其數十億美元的資料中心採購計劃可能會被重新評估，據報道，這對由廣達電腦、緯創資通和 F 領導的供應鏈提出了質疑。
+- [原文連結](https://www.digitimes.com/news/a20260501VL207/ai-server-capacity-ems-openai-supply-chain.html)
+
+---
 
 ### ⚖️ GlobalFoundries 認為光學和 SiGe 勢頭將推動策略飛躍進入高價值晶片市場
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -10,30 +37,21 @@
 
 ---
 
+### ⚠️ Univacco 計劃於 2027 年擴大越南工廠的原棕油和先進包裝材料產能
+- **題材**: `光通訊與矽光子` | **重要性**: `78`
+- **來源**: Digitimes (2026-05-05T01:51:19Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Univacco 表示，隨著該公司將自身定位於共封裝光學元件和先進封裝材料供應鏈，其越南工廠將於 2027 年第二季開始大規模生產。此舉旨在利用關稅優勢，降低製造…
+- [原文連結](https://www.digitimes.com/news/a20260505PD208/univacco-advanced-packaging-cpo-vietnam-plant-2027.html)
+
+---
+
 ### 🚀 隨著商品 DRAM 價格飆升，三星領先 SK 海力士
 - **題材**: `HBM記憶體` | **重要性**: `78`
 - **來源**: Digitimes (2026-05-04T03:22:47Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 三星電子和 SK 海力士都正經歷歷史性的記憶體升級週期，但這兩家韓國晶片製造商之間已出現約 15 兆韓元（約 100 億美元）的利潤差距，這主要是由商品 DRAM 而不是高頻寬記憶體 (HBM) 推動的…
 - [原文連結](https://www.digitimes.com/news/a20260504VL202/samsung-sk-hynix-dram-hbm4-price.html)
-
----
-
-### ⚖️ 台灣晶圓製造商 Episil 將資本支出增加兩倍，以擴展人工智慧矽光子學
-- **題材**: `光通訊與矽光子` | **重要性**: `78`
-- **來源**: Digitimes (2026-04-30T07:14:27Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 晶藝科技宣布，將把生產重新分配給大直徑矽外延和矽光子，以提高獲利能力並滿足人工智慧供應鏈需求。此舉包括削減利潤較低的小晶圓生產線和擴大產能…
-- [原文連結](https://www.digitimes.com/news/a20260430PD217/silicon-production-episil-photonics-capex.html)
-
----
-
-### 🚀 聯電強調嚴格漲價、英特爾交易、內存代工廠傳聞引關注
-- **題材**: `光通訊與矽光子` | **重要性**: `78`
-- **來源**: Digitimes (2026-04-30T06:39:06Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 聯華電子 (UMC) 召開財報電話會議，市場焦點集中在其最近的價格上漲、矽光子 (SiPh) 和先進封裝方面的進展，以及有關進入內存代工服務的猜測。
-- [原文連結](https://www.digitimes.com/news/a20260430PD219/umc-earnings-price-memory-chips-intel-siph.html)
 
 ---
 
@@ -91,21 +109,21 @@
 
 ---
 
-### 🚀 隨著中國本土AI晶片市場加速發展，中國GPU製造商寒武紀第一季營收達4.23億美元——中國晶片製造商繼續從Nvidia手中奪取市場份額
-- **題材**: `AI伺服器` | **重要性**: `67`
-- **來源**: Tom's Hardware UK (2026-04-30T10:30:00Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: MetaX 也實現了強勁增長，但在 IPO 四個月後仍然沒有盈利。
-- [原文連結](https://www.tomshardware.com/tech-industry/cambricons-q1-revenue-hits-423-million-as-chinas-domestic-ai-chip-market-accelerates)
-
----
-
 ### ⚠️ 今年 DRAM 短缺將困擾 AMD 晶片
 - **題材**: `AI伺服器` | **重要性**: `65`
 - **來源**: Theregister.com (2026-05-06T16:45:00Z)
 - **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 商用個人電腦需求預計將緩解更廣泛的經濟放緩
 - [原文連結](https://www.theregister.com/personal-tech/2026/05/06/amd-warns-rising-memory-costs-will-hit-pc-shipments/5231063)
+
+---
+
+### ⚖️ 英偉達現在的本益比是你對一隻不受歡迎的工業股票的預期——而不是世界上最強大的人工智慧公司
+- **題材**: `AI伺服器` | **重要性**: `65`
+- **來源**: 24/7 Wall St. (2026-05-06T13:44:33Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: NVIDIA（納斯達克股票代碼：NVDA）的股價為 196.50 美元，處於一個有趣的水平。 「五月出售並離開」的本能與新創公司抱怨的人工智慧資本支出週期發生衝突...
+- [原文連結](https://247wallst.com/investing/2026/05/06/nvidia-now-trades-at-a-multiple-youd-expect-on-an-unloved-industrial-stock-not-the-worlds-most-powerful-ai-company/)
 
 ---
 
@@ -118,21 +136,21 @@
 
 ---
 
+### 🚀 這些是 4 月 2 隻最熱門的人工智慧股票。你應該在五月購買它們嗎？
+- **題材**: `光通訊與矽光子` | **重要性**: `65`
+- **來源**: Barchart.com (2026-05-02T15:30:02Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 這些人工智慧贏家在 4 月股價飆升，但即將到來的財報將決定它們的上漲是否還有更大的空間。
+- [原文連結](https://www.barchart.com/story/news/1665590/these-are-april-s-2-hottest-ai-stocks-should-you-buy-them-in-may)
+
+---
+
 ### ⚖️ 隨著 HBM 需求前景的變化，SK Hynix 正在考慮內存工廠的轉移
 - **題材**: `HBM記憶體` | **重要性**: `63`
 - **來源**: Digitimes (2026-05-04T23:46:33Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: SK 海力士正在考慮改變其位於韓國清州的新 M15X 記憶體生產基地的 DRAM 投資策略，從第五代 10 奈米級（即 1b）DRAM 轉向第六代 10 奈米級（即 1c）DRAM，作為高頻寬記憶體（HBM）…
 - [原文連結](https://www.digitimes.com/news/a20260504VL215/sk-hynix-dram-hbm-demand-outlook.html)
-
----
-
-### ⚖️ 中國光子晶片製造商Lightelligence在港上市，CPO商業化成焦點
-- **題材**: `光通訊與矽光子` | **重要性**: `63`
-- **來源**: Digitimes (2026-04-30T01:53:53Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 隨著生成式人工智慧推動運算需求急劇成長，傳統的電氣互連架構越來越受到功耗和密度限制的限制。 2026年4月28日，中國矽光子晶片開發商Lightelligence…
-- [原文連結](https://www.digitimes.com/news/a20260430PD204/photonics-cpo-demand-2026-silicon.html)
 
 ---
 
@@ -145,12 +163,12 @@
 
 ---
 
-### ⚖️ 三星和 SK 海力士警告稱，隨著 HBM 需求爆炸式增長，人工智慧驅動的記憶體短缺可能會持續到 2027 年及以後——客戶已經在未來幾年儲備供應，而更廣泛的 DRAM 市場開始收緊
-- **題材**: `HBM記憶體` | **重要性**: `62`
-- **來源**: Tom's Hardware UK (2026-04-30T14:46:57Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 三星和 SK 海力士警告稱，由於 HBM 需求爆炸式增長，超過供應，導致更廣泛的 DRAM 市場趨緊，並推動創紀錄的利潤，人工智慧驅動的記憶體嚴重短缺可能會持續到 2027 年
-- [原文連結](https://www.tomshardware.com/tech-industry/artificial-intelligence/samsung-and-sk-hynix-warn-ai-driven-memory-shortages-could-last-until-2027-and-beyond-as-hbm-demand-explodes-customers-already-reserving-supply-years-ahead-while-the-wider-dram-market-begins-to-tighten)
+### 🚀 AI熱潮推動晶片需求龐大，三星估值突破1兆美元
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: Intomobile.com (2026-05-07T03:54:33Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 這家韓國科技巨頭成為繼台積電之後第二家突破兆美元大關的亞洲公司
+- [原文連結](https://www.intomobile.com/2026/05/06/samsung-hits-1-trillion-valuation-as-ai-boom-drives-massive-chip-demand/)
 
 ---
 
@@ -160,24 +178,6 @@
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Colossus 的計算放寬了限制
 - [原文連結](https://www.theregister.com/ai-and-ml/2026/05/06/claude-hitches-a-ride-on-spacexs-datacenter-capacity/5231252)
-
----
-
-### ⚖️ 榮耀600系列以大折扣和流行文化改造登陸英國
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: Android Central (2026-05-06T15:23:04Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 榮耀 600 系列現已在英國正式上市，起價為 370 英鎊，具有旗艦風格的規格，並可享受 200 英鎊的首發折扣。
-- [原文連結](https://www.androidcentral.com/phones/honor-phones/honor-600-series-hits-the-uk-with-big-discounts-and-a-pop-culture-makeover)
-
----
-
-### ⚖️ 人工智慧熱潮推動三星估值突破1兆美元歷史大關
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: SamMobile (2026-05-06T06:35:13Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 乘著持續不斷的人工智慧熱潮，三星電子今天的市值突破了歷史性的 1 兆美元大關。這家韓國公司是世界上最大的儲存晶片製造商，其儲存晶片是企業使用的現代人工智慧基礎設施的重要組成部分…
-- [原文連結](https://www.sammobile.com/news/samsung-valuation-usd-1-trillion-mark-ai-boom/)
 
 ---
 
