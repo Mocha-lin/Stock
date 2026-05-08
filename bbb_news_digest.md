@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-05-08T14:29:14.952597+00:00
+> 更新時間：2026-05-08T16:07:07.681074+00:00
 
 ### 🚀 Msscorps 因轉向矽光子學檢查而第一季出現虧損
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -91,6 +91,24 @@
 
 ---
 
+### ⚖️ Anthropic 提高了 Claude 程式碼的使用限制，歸功於與 SpaceX 的新協議
+- **題材**: `AI伺服器` | **重要性**: `65`
+- **來源**: Slashdot.org (2026-05-07T16:00:00Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 一位匿名讀者引用了 Ars Technica 的報導：在周三的 Code with Claude 開發者大會上，Anthropic 宣布與 SpaceX 達成協議，利用後者位於田納西州孟菲斯的數據中心的全部計算能力。在舞台上…
+- [原文連結](https://slashdot.org/story/26/05/07/0424216/anthropic-raises-claude-code-usage-limits-credits-new-deal-with-spacex)
+
+---
+
+### ⚖️ 億萬富翁投資者雷·達利奧 (Ray Dalio) 表示，這就是滯脹型金融危機在美國蔓延的方式
+- **題材**: `總體風險` | **重要性**: `65`
+- **來源**: Business Insider (2026-05-07T15:01:31Z)
+- **AI 判讀**: 屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 雷·達裡奧表示，他認為赤字上升和過度印鈔可能會導緻美國經濟出現一波滯脹。
+- [原文連結](https://www.businessinsider.com/ray-dalio-financial-crisis-stagflation-money-printing-us-economy-outlook-2026-5)
+
+---
+
 ### ⚠️ 今年 DRAM 短缺將困擾 AMD 晶片
 - **題材**: `AI伺服器` | **重要性**: `65`
 - **來源**: Theregister.com (2026-05-06T16:45:00Z)
@@ -106,15 +124,6 @@
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: NVIDIA（納斯達克股票代碼：NVDA）的股價為 196.50 美元，處於一個有趣的水平。 「五月出售並離開」的本能與新創公司抱怨的人工智慧資本支出週期發生衝突...
 - [原文連結](https://247wallst.com/investing/2026/05/06/nvidia-now-trades-at-a-multiple-youd-expect-on-an-unloved-industrial-stock-not-the-worlds-most-powerful-ai-company/)
-
----
-
-### ⚖️ 記憶體供應緊張助推人工智慧貿易，美光飆升 12%，SanDisk 飆升 10%
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: 24/7 Wall St. (2026-05-05T15:58:13Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Memory chip stocks are ripping higher again this morning, with Micron Technology (NASDAQ:MU) shares up 12% and SanDisk (NASDAQ:SNDK) shares climbing 10% in...
-- [原文連結](https://247wallst.com/investing/2026/05/05/micron-rockets-12-sandisk-leaps-10-as-tight-memory-supply-fuels-parabolic-ai-trade/)
 
 ---
 
@@ -173,21 +182,6 @@
 - **AI 判讀**: 屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 在唐納德·特朗普總統就伊朗戰爭發表重大聲明之前，美國司法部正在調查石油市場上一系列可疑的交易。
 - [原文連結](https://abcnews.com/US/doj-probing-26-billion-oil-trades-related-iran/story?id=132738007)
-
----
-
-### 🚀 MacBook Neo 可能會推出新顏色以緩衝潛在的價格上漲
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: MacRumors (2026-05-07T11:31:24Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 台灣科技專欄作家、彭博社前記者 Tim Culpan 表示，蘋果正在考慮為其 MacBook Neo 系列添加新顏色，以緩衝消費者可能面臨的價格上漲的影響。
-
-
-
-
-
-他在最新的 Culpium 時事通訊中寫道，…
-- [原文連結](https://www.macrumors.com/2026/05/07/macbook-neo-new-colors-cushion-price-hike/)
 
 ---
 
