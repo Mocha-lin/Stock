@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-05-08T10:25:47.463221+00:00
+> 更新時間：2026-05-08T14:29:14.952597+00:00
 
 ### 🚀 Msscorps 因轉向矽光子學檢查而第一季出現虧損
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -64,15 +64,6 @@
 
 ---
 
-### ⚖️ GlobalFoundries 預測第二季資料中心需求樂觀
-- **題材**: `光通訊與矽光子` | **重要性**: `70`
-- **來源**: CNA (2026-05-05T11:42:32Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 5 月 5 日：專業晶片製造商 GlobalFoundries 週二預測，在全球資料中心部署加速的推動下，第二季營收將高於華爾街預期。該公司股價在盤前交易中上漲 6%。 • 公司已...
-- [原文連結](https://www.channelnewsasia.com/business/globalfoundries-forecasts-upbeat-second-quarter-data-center-demand-6101111)
-
----
-
 ### 🚀 美光躍升 7%：記憶體製造商現在是結構人工智慧的贏家嗎？
 - **題材**: `HBM記憶體` | **重要性**: `70`
 - **來源**: 24/7 Wall St. (2026-05-04T15:28:18Z)
@@ -97,15 +88,6 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 隨著人工智慧硬體產業尋求緩解高頻寬記憶體功耗和熱量限制的方法，軟銀的記憶體部門 SAIMEMORY 正準備推出與英特爾共同開發的新型 3D DRAM 技術。
 - [原文連結](https://www.digitimes.com/news/a20260505VL214/intel-hbm-technology-3d-dram.html)
-
----
-
-### ⚖️ 超微的獲利驚喜預示著上漲空間，我們現在應該逢低買入
-- **題材**: `AI伺服器` | **重要性**: `65`
-- **來源**: 24/7 Wall St. (2026-05-06T18:24:54Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 目前很少有股票能比超微電腦公司（納斯達克股票代碼：SMCI）講述更複雜的故事。這家人工智慧伺服器製造商剛剛實現了利潤驅動的獲利成長，...
-- [原文連結](https://247wallst.com/investing/2026/05/06/super-micros-earnings-surprise-points-to-an-upside-and-wed-buy-the-dip-now/)
 
 ---
 
@@ -136,6 +118,15 @@
 
 ---
 
+### ⚖️ GlobalFoundries 預測第二季資料中心需求樂觀
+- **題材**: `光通訊與矽光子` | **重要性**: `65`
+- **來源**: CNA (2026-05-05T11:42:32Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 5 月 5 日：專業晶片製造商 GlobalFoundries 週二預測，在全球資料中心部署加速的推動下，第二季營收將高於華爾街預期。該公司股價在盤前交易中上漲 6%。 • 公司已...
+- [原文連結](https://www.channelnewsasia.com/business/globalfoundries-forecasts-upbeat-second-quarter-data-center-demand-6101111)
+
+---
+
 ### ⚖️ 隨著 HBM 需求前景的變化，SK Hynix 正在考慮內存工廠的轉移
 - **題材**: `HBM記憶體` | **重要性**: `63`
 - **來源**: Digitimes (2026-05-04T23:46:33Z)
@@ -145,39 +136,58 @@
 
 ---
 
-### ⚖️ Nvidia 執行長黃仁勳表示中國不應該擁有 Blackwell 或 Rubin AI GPU——堅定地表示美國在 AI 硬體方面應該擁有“第一、最多、最好”
-- **題材**: `AI伺服器` | **重要性**: `62`
-- **來源**: Tom's Hardware UK (2026-05-05T11:53:22Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 英偉達的黃仁勳重申，美國公司應該能夠將其產品銷往全球，但堅持最新的人工智慧加速器應該留在美國。
-- [原文連結](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-ceo-jensen-huang-says-china-should-not-have-blackwell-or-rubin-ai-gpus-firmly-states-us-should-have-the-first-the-most-and-the-best-when-it-comes-to-ai-hardware)
-
----
-
-### ⚖️ 天然氣價格持續上漲，但大型石油公司是否計劃增加鑽探規模？到目前為止還沒有
+### 🚀 美國初請失業金人數升至 20 萬，但仍處於歷史低點
 - **題材**: `總體風險` | **重要性**: `60`
-- **來源**: NPR (2026-05-07T10:00:00Z)
-- **AI 判讀**: 屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 伊朗戰爭推高了全球油價，從而增加了石油公司的收入。但美國大石油公司並未表示計劃增加產量以降低油價。
-- [原文連結](https://www.npr.org/2026/05/07/nx-s1-5810511/oil-company-earnings-production-gas-prices)
-
----
-
-### 🚀 早晨新聞簡報
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: NPR (2026-05-07T08:41:02Z)
+- **來源**: Abcnews.com (2026-05-07T13:05:40Z)
 - **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 川普稱美國即將達成協議結束伊朗戰爭，伊朗戰爭推高了全球油價，但美國產量沒有大幅飆升的跡象，馬可·魯比奧拜訪教宗利奧。
-- [原文連結](https://www.npr.org/2026/05/07/nx-s1-5810086/morning-news-brief)
+- **摘要**: U.S. jobless claim applications rose last week but remain at historically low levels despite elevated inflation and other economic headwinds
+- [原文連結](https://abcnews.com/Business/wireStory/us-jobless-claim-applications-rise-200000-remain-historically-132741208)
 
 ---
 
-### ⚖️ 為什麼開發人員選擇 DeepSeek V4 Flash 而不是 1.6T Pro 版本
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: Geeky Gadgets (2026-05-07T07:15:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: DeepSeek V4 引入了兩個不同的版本，旨在滿足不同的運算要求：Pro 版本，具有 1.6 兆個廣泛的參數；Flash 版本，使用 4 位元和 8 位元模型等先進的量化技術…
-- [原文連結](https://www.geeky-gadgets.com/deepseek-v4-flash-vs-pro/)
+### 🚀 AMD 為對 AI 感興趣的企業推出新的可插槽 GPU
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: Theregister.com (2026-05-07T13:00:00Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: AMD 週四推出了 MI350P，這是自 2022 年 MI210 首次亮相以來，House of Zen 首款基於 PCIe 的 Instinct 加速器。
+- [原文連結](https://www.theregister.com/ai-and-ml/2026/05/07/amd-takes-aim-at-enterprise-ai-with-pcie-based-instinct-gpus/5231481)
+
+---
+
+### ⚖️ 報告：MacBook Neo 需求超出預期，蘋果推出新一輪 A18 Pro 晶片
+- **題材**: `半導體先進製程` | **重要性**: `60`
+- **來源**: 9to5Mac (2026-05-07T11:52:53Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 毫無疑問，MacBook Neo 是一款紅極一時的產品。蘋果在最近的財報電話會議上談到了新筆記型電腦的成功，並警告供應限制將持續到本季度。 
+
+
+
+分析師蒂姆·卡爾潘 (Tim Culpan) 今天報告稱，蘋果現在計劃…
+- [原文連結](https://9to5mac.com/2026/05/07/macbook-neo-new-chip-production-run/)
+
+---
+
+### ⚖️ 消息人士稱，司法部正在調查與伊朗戰爭相關的 26 億美元石油交易
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Abcnews.com (2026-05-07T11:46:48Z)
+- **AI 判讀**: 屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 在唐納德·特朗普總統就伊朗戰爭發表重大聲明之前，美國司法部正在調查石油市場上一系列可疑的交易。
+- [原文連結](https://abcnews.com/US/doj-probing-26-billion-oil-trades-related-iran/story?id=132738007)
+
+---
+
+### 🚀 MacBook Neo 可能會推出新顏色以緩衝潛在的價格上漲
+- **題材**: `半導體先進製程` | **重要性**: `60`
+- **來源**: MacRumors (2026-05-07T11:31:24Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 台灣科技專欄作家、彭博社前記者 Tim Culpan 表示，蘋果正在考慮為其 MacBook Neo 系列添加新顏色，以緩衝消費者可能面臨的價格上漲的影響。
+
+
+
+
+
+他在最新的 Culpium 時事通訊中寫道，…
+- [原文連結](https://www.macrumors.com/2026/05/07/macbook-neo-new-colors-cushion-price-hike/)
 
 ---
 
