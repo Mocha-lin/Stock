@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-05-08T18:02:15.820913+00:00
+> 更新時間：2026-05-08T20:01:59.484118+00:00
 
 ### 🚀 Msscorps 因轉向矽光子學檢查而第一季出現虧損
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -145,12 +145,12 @@
 
 ---
 
-### 🚀 美國初請失業金人數升至 20 萬，但仍處於歷史低點
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Abcnews.com (2026-05-07T13:05:40Z)
-- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: U.S. jobless claim applications rose last week but remain at historically low levels despite elevated inflation and other economic headwinds
-- [原文連結](https://abcnews.com/Business/wireStory/us-jobless-claim-applications-rise-200000-remain-historically-132741208)
+### ⚠️ 科技公司對 RAMgeddon 感到抓狂
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: CNET (2026-05-07T18:31:00Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 記憶體和晶片供應商是走鵑，我們是懷爾·土狼，短缺是鐵砧。噗。
+- [原文連結](https://www.cnet.com/tech/computing/tech-companies-are-freaking-out-about-ramageddon/)
 
 ---
 
