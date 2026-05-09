@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-05-09T15:39:34.093440+00:00
+> 更新時間：2026-05-09T17:39:46.040799+00:00
 
 ### 🚀 相干訂單積壓達到2030年：1.6T光學和6吋InP產能加速
 - **題材**: `光通訊與矽光子` | **重要性**: `88`
@@ -91,6 +91,24 @@
 
 ---
 
+### 🚀 “我們正在經歷人類歷史上最大的基礎設施建設”：黃仁勳表示新的 Nvidia AI 合作夥伴關係將“重振美國製造業”
+- **題材**: `光通訊與矽光子` | **重要性**: `65`
+- **來源**: TechRadar (2026-05-08T17:25:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 英偉達執行長黃仁勳表示，與康寧的新合作關係對於全國人工智慧的進步至關重要。
+- [原文連結](https://www.techradar.com/pro/were-going-through-the-single-largest-infrastructure-buildout-in-human-history-jensen-huang-says-new-nvidia-ai-partnership-will-revitalize-american-manufacturing)
+
+---
+
+### ⚠️ AI硬碟短缺使得網路歸檔變得更加困難
+- **題材**: `HBM記憶體` | **重要性**: `65`
+- **來源**: Slashdot.org (2026-05-08T17:00:00Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 一位匿名讀者引用了 404 Media 的一篇報導：人工智慧資料中心的繁榮導致硬碟和儲存成本飆升，使得數位檔案管理員、學者、維基百科和業餘資料囤積者保存資料變得更加昂貴和困難…
+- [原文連結](https://hardware.slashdot.org/story/26/05/08/1619212/ai-hard-drive-shortage-makes-archiving-the-internet-harder)
+
+---
+
 ### ⚠️ MacRumors Show：蘋果降級 iPhone 18 是因為記憶體不足嗎？
 - **題材**: `HBM記憶體` | **重要性**: `65`
 - **來源**: MacRumors (2026-05-08T14:47:17Z)
@@ -115,15 +133,6 @@
 - **AI 判讀**: 屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 雷·達裡奧表示，他認為赤字上升和過度印鈔可能會導緻美國經濟出現一波滯脹。
 - [原文連結](https://www.businessinsider.com/ray-dalio-financial-crisis-stagflation-money-printing-us-economy-outlook-2026-5)
-
----
-
-### ⚖️ GlobalFoundries 預測第二季資料中心需求樂觀
-- **題材**: `光通訊與矽光子` | **重要性**: `65`
-- **來源**: CNA (2026-05-05T11:42:32Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 5 月 5 日：專業晶片製造商 GlobalFoundries 週二預測，在全球資料中心部署加速的推動下，第二季營收將高於華爾街預期。該公司股價在盤前交易中上漲 6%。 • 公司已...
-- [原文連結](https://www.channelnewsasia.com/business/globalfoundries-forecasts-upbeat-second-quarter-data-center-demand-6101111)
 
 ---
 
@@ -173,15 +182,6 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 記憶體和晶片供應商是走鵑，我們是懷爾·土狼，短缺是鐵砧。噗。
 - [原文連結](https://www.cnet.com/tech/computing/tech-companies-are-freaking-out-about-ramageddon/)
-
----
-
-### 🚀 MaxLinear Inc. (MXL) 是我們以年初至今表現排名的十大晶片股中排名靠前的半導體股票之一嗎？
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-05-07T18:03:01Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: MaxLinear Inc.（納斯達克股票代碼：MXL）是我們按年初至今表現排名的十大晶片股中排名靠前的半導體股票之一。 MaxLinear Inc.（納斯達克股票代碼：MXL...
-- [原文連結](https://finance.yahoo.com/markets/stocks/articles/maxlinear-inc-mxl-one-top-180301747.html)
 
 ---
 
