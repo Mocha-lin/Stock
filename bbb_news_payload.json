@@ -1,10 +1,48 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-05-09T06:31:53.931119+00:00",
+  "generated_at": "2026-05-09T10:05:38.219019+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
-  "total_count": 72,
+  "total_count": 71,
   "items": [
+    {
+      "id": "42b01ffb7bd2fdfc",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "相干訂單積壓達到2030年：1.6T光學和6吋InP產能加速",
+      "summary": "Driven by surging AI computing demand and the industry-wide shift toward higher-bandwidth, lower-power network infrastructure, optical communications company Coherent Corp. says customer orders are growing at an accelerated pace, with its backlog reaching a r…",
+      "original_title": "Coherent order backlog reaches 2030: 1.6T optics and 6-inch InP capacity accelerate",
+      "url": "https://www.digitimes.com/news/a20260508PD217/coherent-capacity-6-inch-optics-demand.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-05-08T06:51:14Z",
+      "importance": 88,
+      "impact": "positive",
+      "timeframe": "short_to_mid_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之偏多消息。【重大事件】可能顯著影響產業評價、EPS預期或資金流向。"
+    },
     {
       "id": "49bc852422933cc1",
       "dataset": "market_news",
@@ -42,6 +80,44 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
+      "id": "e50fb8ff618c5c4c",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "據報道，台積電將推動 CoPoS 獨家經營權，以鎖定下一代封裝領先地位",
+      "summary": "台積電正在加速擴大其CoWoS先進封裝產能，同時推進技術要求更高的面板級封裝技術CoPoS，旨在擴大在AI半導體競賽中對競爭對手的領先優勢。業內人士稱…",
+      "original_title": "TSMC reportedly pushes CoPoS exclusivity to lock in next-gen packaging lead",
+      "url": "https://www.digitimes.com/news/a20260508PD207/tsmc-packaging-cowos-expansion-capacity.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-05-08T07:49:55Z",
+      "importance": 78,
+      "impact": "neutral",
+      "timeframe": "short_to_mid_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "46f255e49bde1bbb",
@@ -672,44 +748,6 @@
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "c10dbfad78953692",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "美國初請失業金人數升至 20 萬，但仍處於歷史低點",
-      "summary": "美國上周初請失業金人數增加，但儘管通膨上升和其他經濟逆風，但仍處於歷史低點",
-      "original_title": "US jobless claim applications rise to 200K but remain historically low",
-      "url": "https://abcnews.com/Business/wireStory/us-jobless-claim-applications-rise-200000-remain-historically-132741208",
-      "source": "Abcnews.com",
-      "domain": "abcnews.com",
-      "published_at": "2026-05-07T13:05:40Z",
-      "importance": 60,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "58de24e4337cce87",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1011,44 +1049,6 @@
       "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "adf219c0dfe3972d",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "康寧 5 億美元交易 NVIDIA 股價上漲 5%：光連線成為新的 AI 瓶頸",
-      "summary": "晶片領導者 NVIDIA (NASDAQ:NVDA) 公佈了一項價值 5 億美元的戰略供應協議後，其股價週三中午上漲約 5%，交易價格接近 206 美元。",
-      "original_title": "NVIDIA Climbs 5% on $500M Corning Deal: Optical Connectivity Becomes the New AI Bottleneck",
-      "url": "https://247wallst.com/investing/2026/05/06/nvidia-climbs-5-on-500m-corning-deal-optical-connectivity-becomes-the-new-ai-bottleneck/",
-      "source": "24/7 Wall St.",
-      "domain": "247wallst.com",
-      "published_at": "2026-05-06T18:18:03Z",
-      "importance": 60,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "e9b070982e3628a2",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1085,41 +1085,6 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "478c43f85490c4ad",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "人工智慧熱潮推動三星估值突破1兆美元歷史大關",
-      "summary": "乘著持續不斷的人工智慧熱潮，三星電子今天的市值突破了歷史性的 1 兆美元大關。這家韓國公司是世界上最大的儲存晶片製造商，其儲存晶片是企業使用的現代人工智慧基礎設施的重要組成部分…",
-      "original_title": "Samsung’s valuation hits historic $1 trillion mark, thanks to the AI boom",
-      "url": "https://www.sammobile.com/news/samsung-valuation-usd-1-trillion-mark-ai-boom/",
-      "source": "SamMobile",
-      "domain": "sammobile.com",
-      "published_at": "2026-05-06T06:35:13Z",
-      "importance": 60,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "459e0cb5d7c36551",
@@ -1193,6 +1158,44 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "8811074aa79b65aa",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "華爾街的「博士」 《末日》經濟學家列出了伊朗戰爭的四種情景及其對市場的影響",
+      "summary": "Oil prices could spike past $200 a barrel in the worst-case scenario, economist Nouriel Roubini warned.",
+      "original_title": "Wall Street's 'Dr. Doom' economist lays out 4 scenarios for the Iran war and their impact on markets",
+      "url": "https://www.businessinsider.com/stocks-bear-market-dr-doom-nouriel-roubini-iran-war-oil-2026-5",
+      "source": "Business Insider",
+      "domain": "businessinsider.com",
+      "published_at": "2026-05-08T09:30:01Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "dfbc38694e34436a",
@@ -1537,32 +1540,29 @@
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "4e5e1d150fcd2967",
+      "id": "478c43f85490c4ad",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "據報道美國即將達成結束伊朗戰爭的框架協議，油價暴跌",
-      "summary": "",
-      "original_title": "Oil prices slump after US reported to be close to framework deal to end Iran war",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_41abe7c6-4651-4a4f-becb-6e945da4dbb0",
-      "source": "Yahoo Entertainment",
-      "domain": "consent.yahoo.com",
-      "published_at": "2026-05-06T09:28:41Z",
+      "theme": "HBM記憶體",
+      "title": "人工智慧熱潮推動三星估值突破1兆美元歷史大關",
+      "summary": "乘著持續不斷的人工智慧熱潮，三星電子今天的市值突破了歷史性的 1 兆美元大關。這家韓國公司是世界上最大的儲存晶片製造商，其儲存晶片是企業使用的現代人工智慧基礎設施的重要組成部分…",
+      "original_title": "Samsung’s valuation hits historic $1 trillion mark, thanks to the AI boom",
+      "url": "https://www.sammobile.com/news/samsung-valuation-usd-1-trillion-mark-ai-boom/",
+      "source": "SamMobile",
+      "domain": "sammobile.com",
+      "published_at": "2026-05-06T06:35:13Z",
       "importance": 55,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
+        "HBM",
+        "記憶體"
       ],
       "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
       ],
       "related_models": [
         "003",
@@ -1572,7 +1572,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "c041c23c97df2a7e",
@@ -1724,44 +1724,6 @@
       "reason": "屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "0e1133f73eeeac1f",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "2 forces are driving US economic growth, and the Iran war threatens to derail both, BofA says",
-      "summary": "Bank of America says there are two pillars of the US economy: AI and consumer spending.他們警告說，伊朗戰爭對兩者都構成威脅。",
-      "original_title": "2 forces are driving US economic growth, and the Iran war threatens to derail both, BofA says",
-      "url": "https://www.businessinsider.com/us-economy-inflation-growth-ai-consumer-spending-iran-war-risk-2026-5",
-      "source": "Business Insider",
-      "domain": "businessinsider.com",
-      "published_at": "2026-05-05T16:57:36Z",
-      "importance": 55,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "d7ef08e95ad1a195",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1833,44 +1795,6 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "82b210979025dbd3",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "據報道，蘋果正在尋求一項協議，以獲取三星生產的 iPhone 晶片",
-      "summary": "在 iPhone 的早期，蘋果使用三星代工廠和台積電來製造其處理器。然而，出於對熱性能和設計安全性的擔憂，蘋果於 2016 年停止了與三星代工廠的合作。現在，蘋果似乎可以…",
-      "original_title": "Apple reportedly exploring a deal to get iPhone chips made by Samsung",
-      "url": "https://www.sammobile.com/news/apple-exploring-deal-iphone-chips-made-samsung-foundry-intel/",
-      "source": "SamMobile",
-      "domain": "sammobile.com",
-      "published_at": "2026-05-05T06:56:57Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "2081974ac25bacf8",
@@ -2023,6 +1947,44 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "4e5e1d150fcd2967",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "據報道美國即將達成結束伊朗戰爭的框架協議，油價暴跌",
+      "summary": "",
+      "original_title": "Oil prices slump after US reported to be close to framework deal to end Iran war",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_41abe7c6-4651-4a4f-becb-6e945da4dbb0",
+      "source": "Yahoo Entertainment",
+      "domain": "consent.yahoo.com",
+      "published_at": "2026-05-06T09:28:41Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "a472e01a19ffce08",

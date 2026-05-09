@@ -1,5 +1,14 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-05-09T06:31:53.931119+00:00
+> 更新時間：2026-05-09T10:05:38.219019+00:00
+
+### 🚀 相干訂單積壓達到2030年：1.6T光學和6吋InP產能加速
+- **題材**: `光通訊與矽光子` | **重要性**: `88`
+- **來源**: Digitimes (2026-05-08T06:51:14Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重大事件】可能顯著影響產業評價、EPS預期或資金流向。
+- **摘要**: Driven by surging AI computing demand and the industry-wide shift toward higher-bandwidth, lower-power network infrastructure, optical communications company Coherent Corp. says customer orders are growing at an accelerated pace, with its backlog reaching a r…
+- [原文連結](https://www.digitimes.com/news/a20260508PD217/coherent-capacity-6-inch-optics-demand.html)
+
+---
 
 ### 🚀 Msscorps 因轉向矽光子學檢查而第一季出現虧損
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -7,6 +16,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Msscorps 報告 2026 年第一季合併營收為新台幣 5.79 億元（合 1,846 萬美元），年成長 24.54%，創同期歷史最高紀錄，但仍錄得淨虧損 3,185 萬元新台幣，每股收益連續 0.61 元虧損，連續第三年虧損。
 - [原文連結](https://www.digitimes.com/news/a20260507PD202/revenue-loss-silicon-inspection-photonics.html)
+
+---
+
+### ⚖️ 據報道，台積電將推動 CoPoS 獨家經營權，以鎖定下一代封裝領先地位
+- **題材**: `半導體先進製程` | **重要性**: `78`
+- **來源**: Digitimes (2026-05-08T07:49:55Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 台積電正在加速擴大其CoWoS先進封裝產能，同時推進技術要求更高的面板級封裝技術CoPoS，旨在擴大在AI半導體競賽中對競爭對手的領先優勢。業內人士稱…
+- [原文連結](https://www.digitimes.com/news/a20260508PD207/tsmc-packaging-cowos-expansion-capacity.html)
 
 ---
 
@@ -160,24 +178,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: MaxLinear Inc.（納斯達克股票代碼：MXL）是我們按年初至今表現排名的十大晶片股中排名靠前的半導體股票之一。 MaxLinear Inc.（納斯達克股票代碼：MXL...
 - [原文連結](https://finance.yahoo.com/markets/stocks/articles/maxlinear-inc-mxl-one-top-180301747.html)
-
----
-
-### 🚀 美國初請失業金人數升至 20 萬，但仍處於歷史低點
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Abcnews.com (2026-05-07T13:05:40Z)
-- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 美國上周初請失業金人數增加，但儘管通膨上升和其他經濟逆風，但仍處於歷史低點
-- [原文連結](https://abcnews.com/Business/wireStory/us-jobless-claim-applications-rise-200000-remain-historically-132741208)
-
----
-
-### 🚀 AMD 為對 AI 感興趣的企業推出新的可插槽 GPU
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: Theregister.com (2026-05-07T13:00:00Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: AMD 週四推出了 MI350P，這是自 2022 年 MI210 首次亮相以來，House of Zen 首款基於 PCIe 的 Instinct 加速器。
-- [原文連結](https://www.theregister.com/ai-and-ml/2026/05/07/amd-takes-aim-at-enterprise-ai-with-pcie-based-instinct-gpus/5231481)
 
 ---
 
