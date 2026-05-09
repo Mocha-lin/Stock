@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-05-09T10:05:38.219019+00:00
+> 更新時間：2026-05-09T14:11:27.996963+00:00
 
 ### 🚀 相干訂單積壓達到2030年：1.6T光學和6吋InP產能加速
 - **題材**: `光通訊與矽光子` | **重要性**: `88`
@@ -46,15 +46,6 @@
 
 ---
 
-### 🚀 三星可能即將贏得 AMD 2nm 晶片大訂單
-- **題材**: `半導體先進製程` | **重要性**: `75`
-- **來源**: SamMobile (2026-05-07T15:03:39Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 三星代工正在成为台积电的可行替代品，而台积电根本没有足够的 2 纳米产能来为所有需要先进芯片组的公司提供服务。 AMD 與三星的討論已經有一段時間了，Sout 的一份新報告…
-- [原文連結](https://www.sammobile.com/news/samsung-may-be-close-to-winning-a-major-amd-2nm-chip-order/)
-
----
-
 ### ⚖️ GlobalFoundries 認為光學和 SiGe 勢頭將推動策略飛躍進入高價值晶片市場
 - **題材**: `光通訊與矽光子` | **重要性**: `73`
 - **來源**: Digitimes (2026-05-06T01:58:30Z)
@@ -70,6 +61,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: The transition from 800G to 1.6T optical modules is no longer an upgrade cycle — it is a physics-driven inflection point.
 - [原文連結](https://www.digitimes.com/news/a20260504VL207/optical-components-rare-earth-siph-supply-chain.html)
+
+---
+
+### 🚀 MACOM 技術解決方案第二季財報電話會議亮點
+- **題材**: `光通訊與矽光子` | **重要性**: `70`
+- **來源**: MarketBeat (2026-05-08T09:09:49Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: MACOM Technology Solutions（納斯達克股票代碼：MTSI）公佈 2026 財年第二季營收為 2.89 億美元，調整後每股攤薄收益為 1.09 美元...
+- [原文連結](https://www.marketbeat.com/instant-alerts/macom-technology-solutions-q2-earnings-call-highlights-2026-05-08/?utm_source=yahoofinance&amp;utm_medium=yahoofinance)
 
 ---
 
@@ -127,15 +127,6 @@
 
 ---
 
-### ⚖️ 英偉達現在的本益比是你對一隻不受歡迎的工業股票的預期——而不是世界上最強大的人工智慧公司
-- **題材**: `AI伺服器` | **重要性**: `65`
-- **來源**: 24/7 Wall St. (2026-05-06T13:44:33Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: NVIDIA（納斯達克股票代碼：NVDA）的股價為 196.50 美元，處於一個有趣的水平。 「五月出售並離開」的本能與新創公司抱怨的人工智慧資本支出週期發生衝突...
-- [原文連結](https://247wallst.com/investing/2026/05/06/nvidia-now-trades-at-a-multiple-youd-expect-on-an-unloved-industrial-stock-not-the-worlds-most-powerful-ai-company/)
-
----
-
 ### ⚖️ GlobalFoundries 預測第二季資料中心需求樂觀
 - **題材**: `光通訊與矽光子` | **重要性**: `65`
 - **來源**: CNA (2026-05-05T11:42:32Z)
@@ -178,6 +169,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: MaxLinear Inc.（納斯達克股票代碼：MXL）是我們按年初至今表現排名的十大晶片股中排名靠前的半導體股票之一。 MaxLinear Inc.（納斯達克股票代碼：MXL...
 - [原文連結](https://finance.yahoo.com/markets/stocks/articles/maxlinear-inc-mxl-one-top-180301747.html)
+
+---
+
+### 🚀 AMD 為對 AI 感興趣的企業推出新的可插槽 GPU
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: Theregister.com (2026-05-07T13:00:00Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: AMD 週四推出了 MI350P，這是自 2022 年 MI210 首次亮相以來，House of Zen 首款基於 PCIe 的 Instinct 加速器。
+- [原文連結](https://www.theregister.com/ai-and-ml/2026/05/07/amd-takes-aim-at-enterprise-ai-with-pcie-based-instinct-gpus/5231481)
 
 ---
 
