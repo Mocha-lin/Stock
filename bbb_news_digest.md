@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-05-09T14:11:27.996963+00:00
+> 更新時間：2026-05-09T15:39:34.093440+00:00
 
 ### 🚀 相干訂單積壓達到2030年：1.6T光學和6吋InP產能加速
 - **題材**: `光通訊與矽光子` | **重要性**: `88`
@@ -91,12 +91,12 @@
 
 ---
 
-### 🚀 人工智慧將記憶體變成金礦，美光和英偉達之間驚人的相似
-- **題材**: `HBM記憶體` | **重要性**: `70`
-- **來源**: 24/7 Wall St. (2026-05-02T14:51:55Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Nvidia（納斯達克股票代碼：NVDA）憑藉其強大的 GPU 引領了人工智慧的第一波熱潮。隨著資料中心競相購買可以訓練的晶片，投資者紛紛湧入…
-- [原文連結](https://247wallst.com/investing/2026/05/02/the-shocking-similarity-between-micron-and-nvidia-as-ai-turns-memory-into-a-goldmine/)
+### ⚠️ MacRumors Show：蘋果降級 iPhone 18 是因為記憶體不足嗎？
+- **題材**: `HBM記憶體` | **重要性**: `65`
+- **來源**: MacRumors (2026-05-08T14:47:17Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 在本週的 MacRumors Show 節目中，我們討論了全球內存短缺如何迫使蘋果公司跨過多個關鍵產品、取消配置、推遲發布以及促使做出似乎一年都不太可能的規格決策…
+- [原文連結](https://www.macrumors.com/2026/05/08/the-macrumors-show-is-apple-downgrading-iphone-18/)
 
 ---
 
@@ -118,15 +118,6 @@
 
 ---
 
-### ⚠️ 今年 DRAM 短缺將困擾 AMD 晶片
-- **題材**: `AI伺服器` | **重要性**: `65`
-- **來源**: Theregister.com (2026-05-06T16:45:00Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 商用個人電腦需求預計將緩解更廣泛的經濟放緩
-- [原文連結](https://www.theregister.com/personal-tech/2026/05/06/amd-warns-rising-memory-costs-will-hit-pc-shipments/5231063)
-
----
-
 ### ⚖️ GlobalFoundries 預測第二季資料中心需求樂觀
 - **題材**: `光通訊與矽光子` | **重要性**: `65`
 - **來源**: CNA (2026-05-05T11:42:32Z)
@@ -136,12 +127,12 @@
 
 ---
 
-### ⚖️ 軟銀、英特爾針對 9 層記憶體的 HBM 限制
-- **題材**: `HBM記憶體` | **重要性**: `63`
-- **來源**: Digitimes (2026-05-06T00:01:26Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 隨著人工智慧硬體產業尋求緩解高頻寬記憶體功耗和熱量限制的方法，軟銀的記憶體部門 SAIMEMORY 正準備推出與英特爾共同開發的新型 3D DRAM 技術。
-- [原文連結](https://www.digitimes.com/news/a20260505VL214/intel-hbm-technology-3d-dram.html)
+### 🚀 人工智慧將記憶體變成金礦，美光和英偉達之間驚人的相似
+- **題材**: `HBM記憶體` | **重要性**: `65`
+- **來源**: 24/7 Wall St. (2026-05-02T14:51:55Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Nvidia（納斯達克股票代碼：NVDA）憑藉其強大的 GPU 引領了人工智慧的第一波熱潮。隨著資料中心競相購買可以訓練的晶片，投資者紛紛湧入…
+- [原文連結](https://247wallst.com/investing/2026/05/02/the-shocking-similarity-between-micron-and-nvidia-as-ai-turns-memory-into-a-goldmine/)
 
 ---
 
@@ -151,6 +142,28 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: SK 海力士正在考慮改變其位於韓國清州的新 M15X 記憶體生產基地的 DRAM 投資策略，從第五代 10 奈米級（即 1b）DRAM 轉向第六代 10 奈米級（即 1c）DRAM，作為高頻寬記憶體（HBM）…
 - [原文連結](https://www.digitimes.com/news/a20260504VL215/sk-hynix-dram-hbm-demand-outlook.html)
+
+---
+
+### 🚀 美光AI記憶體漲勢依然火爆
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-05-08T15:35:14Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 美光的AI記憶體漲勢依然火熱。
+- [原文連結](https://finance.yahoo.com/markets/article/microns-ai-memory-rally-is-still-running-hot-153514314.html)
+
+---
+
+### 🚀 iPhone 18 Pro全新A20晶片傳將帶來兩大升級
+- **題材**: `半導體先進製程` | **重要性**: `60`
+- **來源**: 9to5Mac (2026-05-08T15:03:45Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 每年，蘋果都會為其最新 iPhone 準備一款新晶片。但今年秋季 iPhone 18 Pro 和 iPhone Ultra 的 A20 Pro 晶片聽起來可能會格外特別。以下是傳聞中的兩項重大升級。
+
+
+
+ 更多的…
+- [原文連結](https://9to5mac.com/2026/05/08/iphone-18-pros-new-a20-chip-rumored-to-bring-two-major-upgrades/)
 
 ---
 
@@ -169,15 +182,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: MaxLinear Inc.（納斯達克股票代碼：MXL）是我們按年初至今表現排名的十大晶片股中排名靠前的半導體股票之一。 MaxLinear Inc.（納斯達克股票代碼：MXL...
 - [原文連結](https://finance.yahoo.com/markets/stocks/articles/maxlinear-inc-mxl-one-top-180301747.html)
-
----
-
-### 🚀 AMD 為對 AI 感興趣的企業推出新的可插槽 GPU
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: Theregister.com (2026-05-07T13:00:00Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: AMD 週四推出了 MI350P，這是自 2022 年 MI210 首次亮相以來，House of Zen 首款基於 PCIe 的 Instinct 加速器。
-- [原文連結](https://www.theregister.com/ai-and-ml/2026/05/07/amd-takes-aim-at-enterprise-ai-with-pcie-based-instinct-gpus/5231481)
 
 ---
 
