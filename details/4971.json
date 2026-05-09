@@ -1,7 +1,7 @@
 {
   "id": "4971",
   "name": "IET-KY",
-  "lastUpdated": "2026-05-08 16:19:15",
+  "lastUpdated": "2026-05-09 16:25:16",
   "ai_model": "Fact-Update",
   "basicInfo": {
     "price": "688.00",
@@ -478,9 +478,9 @@
         "period": "2026Q1",
         "deadline": "2026-05-15",
         "price_basis": "asof往前3日(暫代)",
-        "avg_close_3d": 788.0,
+        "avg_close_3d": 746.0,
         "ttm_eps": 5.12,
-        "pe": 153.90625
+        "pe": 145.703125
       },
       {
         "period": "2025Q4",
@@ -549,6 +549,14 @@
       }
     ],
     "chips_table": [
+      {
+        "date": "2026-05-08",
+        "foreign_lots": 8.015,
+        "it_lots": 0.0,
+        "dealer_lots": 27.003,
+        "sum_lots": 35.018,
+        "pct_float": 0.008757630853029958
+      },
       {
         "date": "2026-05-07",
         "foreign_lots": -67.765,
@@ -660,14 +668,6 @@
         "dealer_lots": 46.0,
         "sum_lots": 149.987,
         "pct_float": 0.03751015988215787
-      },
-      {
-        "date": "2026-04-16",
-        "foreign_lots": -7.0,
-        "it_lots": 0.0,
-        "dealer_lots": 13.2,
-        "sum_lots": 6.199999999999999,
-        "pct_float": 0.0015505543231705335
       }
     ],
     "c_score_data": {
@@ -675,7 +675,7 @@
       "dataset": "structure_c_score",
       "stock_id": "4971",
       "ticker": "4971.TWO",
-      "asof": "2026-05-07",
+      "asof": "2026-05-08",
       "c_score": 11.687107394681394,
       "benchmark_pe": 69.36775142792354,
       "source": [
@@ -974,8 +974,8 @@
     "returns_table": [
       {
         "year": 2026,
-        "return_pct": 141.15755627009645,
-        "period": "01/02~05/07"
+        "return_pct": 121.2218649517685,
+        "period": "01/02~05/08"
       },
       {
         "year": 2025,
@@ -3505,7 +3505,7 @@
         "high": 730.0,
         "low": 688.0,
         "close": 688.0,
-        "volume": 541774.0,
+        "volume": 501170.0,
         "adjclose": 688.0,
         "dividends": 0.0,
         "MA5": 773.4,
@@ -3517,7 +3517,7 @@
         "DIF": 45.88025199367098,
         "DEA": 62.95876330133871,
         "HIST": -34.157022615335464,
-        "volume_lot": 541.774
+        "volume_lot": 501.17
       }
     ],
     "valuation": {

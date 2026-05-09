@@ -1,7 +1,7 @@
 {
   "id": "6789",
   "name": "采鈺",
-  "lastUpdated": "2026-05-08 16:19:15",
+  "lastUpdated": "2026-05-09 16:25:16",
   "ai_model": "Fact-Update",
   "basicInfo": {
     "price": "603.00",
@@ -478,9 +478,9 @@
         "period": "2026Q1",
         "deadline": "2026-05-15",
         "price_basis": "asof往前3日(暫代)",
-        "avg_close_3d": 581.6666666666666,
+        "avg_close_3d": 581.3333333333334,
         "ttm_eps": 4.66,
-        "pe": 124.82117310443489
+        "pe": 124.74964234620887
       },
       {
         "period": "2025Q4",
@@ -549,6 +549,14 @@
       }
     ],
     "chips_table": [
+      {
+        "date": "2026-05-08",
+        "foreign_lots": 1045.648,
+        "it_lots": 13.0,
+        "dealer_lots": -5.772,
+        "sum_lots": 1052.876,
+        "pct_float": 0.03307819594840199
+      },
       {
         "date": "2026-05-07",
         "foreign_lots": 347.311,
@@ -660,14 +668,6 @@
         "dealer_lots": 159.339,
         "sum_lots": 323.296,
         "pct_float": 0.010156987562955723
-      },
-      {
-        "date": "2026-04-16",
-        "foreign_lots": -89.268,
-        "it_lots": 19.0,
-        "dealer_lots": -157.38400000000001,
-        "sum_lots": -227.65200000000002,
-        "pct_float": -0.007152140863734771
       }
     ],
     "c_score_data": {
@@ -675,7 +675,7 @@
       "dataset": "structure_c_score",
       "stock_id": "6789",
       "ticker": "6789.TW",
-      "asof": "2026-05-07",
+      "asof": "2026-05-08",
       "c_score": 2.979290823082462,
       "benchmark_pe": 164.38567895683454,
       "source": [
@@ -974,8 +974,8 @@
     "returns_table": [
       {
         "year": 2026,
-        "return_pct": 108.24372759856628,
-        "period": "01/02~05/07"
+        "return_pct": 116.1290322580645,
+        "period": "01/02~05/08"
       },
       {
         "year": 2025,
@@ -3505,7 +3505,7 @@
         "high": 608.0,
         "low": 566.0,
         "close": 603.0,
-        "volume": 9974070.0,
+        "volume": 9713120.0,
         "adjclose": 603.0,
         "dividends": 0.0,
         "MA5": 591.8,
@@ -3517,7 +3517,7 @@
         "DIF": 62.39691124054508,
         "DEA": 58.75068705958246,
         "HIST": 7.2924483619252385,
-        "volume_lot": 9974.07
+        "volume_lot": 9713.12
       }
     ],
     "valuation": {

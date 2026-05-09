@@ -1,7 +1,7 @@
 {
   "id": "6831",
   "name": "邁科",
-  "lastUpdated": "2026-05-08 16:19:15",
+  "lastUpdated": "2026-05-09 16:25:16",
   "ai_model": "Fact-Update",
   "basicInfo": {
     "price": "540.00",
@@ -446,6 +446,14 @@
     ],
     "chips_table": [
       {
+        "date": "2026-05-08",
+        "foreign_lots": -72.42,
+        "it_lots": 6.0,
+        "dealer_lots": 22.447000000000003,
+        "sum_lots": -43.973,
+        "pct_float": -0.0065145185185185184
+      },
+      {
         "date": "2026-05-07",
         "foreign_lots": -232.25,
         "it_lots": 42.0,
@@ -556,14 +564,6 @@
         "dealer_lots": 53.629999999999995,
         "sum_lots": 704.5,
         "pct_float": 0.10437037037037038
-      },
-      {
-        "date": "2026-04-16",
-        "foreign_lots": -35.8,
-        "it_lots": 0.0,
-        "dealer_lots": 115.172,
-        "sum_lots": 79.372,
-        "pct_float": 0.011758814814814816
       }
     ],
     "c_score_data": {
@@ -571,7 +571,7 @@
       "dataset": "structure_c_score",
       "stock_id": "6831",
       "ticker": "6831.TW",
-      "asof": "2026-05-07",
+      "asof": "2026-05-08",
       "c_score": 1.0,
       "benchmark_pe": 129.16666666666666,
       "source": [
@@ -774,8 +774,8 @@
     "returns_table": [
       {
         "year": 2026,
-        "return_pct": 93.85575459847925,
-        "period": "01/02~05/07"
+        "return_pct": 87.26673968368301,
+        "period": "01/02~05/08"
       },
       {
         "year": 2025,
@@ -3122,7 +3122,7 @@
         "high": 573.0,
         "low": 527.0,
         "close": 540.0,
-        "volume": 2674743,
+        "volume": 2677629,
         "adjclose": 540.0,
         "dividends": 0.0,
         "MA5": 530.6,
@@ -3134,7 +3134,7 @@
         "DIF": 39.23722939393815,
         "DEA": 37.679299282832,
         "HIST": 3.115860222212305,
-        "volume_lot": 2674.743
+        "volume_lot": 2677.629
       }
     ],
     "valuation": {

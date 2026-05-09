@@ -1,7 +1,7 @@
 {
   "id": "6405",
   "name": "悅城",
-  "lastUpdated": "2026-05-08 16:19:15",
+  "lastUpdated": "2026-05-09 16:25:16",
   "ai_model": "Fact-Update",
   "basicInfo": {
     "price": "64.40",
@@ -10,6 +10,12 @@
   },
   "financials": {
     "revenue_trend": [
+      {
+        "month": "2026/4",
+        "revenue": "0.00",
+        "mom": "-100.00",
+        "yoy": "-100.00"
+      },
       {
         "month": "2026/3",
         "revenue": "0.00",
@@ -147,12 +153,6 @@
         "revenue": "0.20",
         "mom": "81.93",
         "yoy": "11.45"
-      },
-      {
-        "month": "2024/4",
-        "revenue": "0.11",
-        "mom": "-30.70",
-        "yoy": "-42.86"
       }
     ],
     "eps_table": [
@@ -550,6 +550,14 @@
     ],
     "chips_table": [
       {
+        "date": "2026-05-08",
+        "foreign_lots": -349.2,
+        "it_lots": 0.0,
+        "dealer_lots": 127.086,
+        "sum_lots": -222.11399999999998,
+        "pct_float": -0.03375592705167173
+      },
+      {
         "date": "2026-05-07",
         "foreign_lots": -112.0,
         "it_lots": 0.0,
@@ -660,14 +668,6 @@
         "dealer_lots": -1.0,
         "sum_lots": 164.164,
         "pct_float": 0.024948936170212765
-      },
-      {
-        "date": "2026-04-16",
-        "foreign_lots": -149.0,
-        "it_lots": 0.0,
-        "dealer_lots": -1.0,
-        "sum_lots": -150.0,
-        "pct_float": -0.022796352583586626
       }
     ],
     "c_score_data": {
@@ -675,7 +675,7 @@
       "dataset": "structure_c_score",
       "stock_id": "6405",
       "ticker": "6405.TW",
-      "asof": "2026-05-07",
+      "asof": "2026-05-08",
       "c_score": 1.0,
       "benchmark_pe": 67.90266010454158,
       "source": [
@@ -962,8 +962,8 @@
     "returns_table": [
       {
         "year": 2026,
-        "return_pct": 111.78508723128284,
-        "period": "01/02~05/07"
+        "return_pct": 123.22357252807126,
+        "period": "01/02~05/08"
       },
       {
         "year": 2025,
@@ -3493,7 +3493,7 @@
         "high": 67.19999694824219,
         "low": 62.09999847412109,
         "close": 64.4000015258789,
-        "volume": 2968644.0,
+        "volume": 2947045.0,
         "adjclose": 64.4000015258789,
         "dividends": 0.0,
         "MA5": 59.68000030517578,
@@ -3505,7 +3505,7 @@
         "DIF": 7.088666326425098,
         "DEA": 4.647131555871233,
         "HIST": 4.88306954110773,
-        "volume_lot": 2968.644
+        "volume_lot": 2947.045
       }
     ],
     "valuation": {

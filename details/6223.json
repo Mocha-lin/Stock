@@ -1,7 +1,7 @@
 {
   "id": "6223",
   "name": "旺矽",
-  "lastUpdated": "2026-05-08 16:19:15",
+  "lastUpdated": "2026-05-09 16:25:16",
   "ai_model": "Fact-Update",
   "basicInfo": {
     "price": "5025.00",
@@ -10,6 +10,12 @@
   },
   "financials": {
     "revenue_trend": [
+      {
+        "month": "2026/4",
+        "revenue": "14.86",
+        "mom": "7.02",
+        "yoy": "52.60"
+      },
       {
         "month": "2026/3",
         "revenue": "13.88",
@@ -147,12 +153,6 @@
         "revenue": "8.02",
         "mom": "7.57",
         "yoy": "19.76"
-      },
-      {
-        "month": "2024/4",
-        "revenue": "7.46",
-        "mom": "0.69",
-        "yoy": "8.56"
       }
     ],
     "eps_table": [
@@ -550,6 +550,14 @@
     ],
     "chips_table": [
       {
+        "date": "2026-05-08",
+        "foreign_lots": -114.242,
+        "it_lots": 317.0,
+        "dealer_lots": 6.394,
+        "sum_lots": 209.152,
+        "pct_float": 0.02134611400338636
+      },
+      {
         "date": "2026-05-07",
         "foreign_lots": 149.397,
         "it_lots": 78.138,
@@ -660,14 +668,6 @@
         "dealer_lots": -2.37,
         "sum_lots": -12.675999999999998,
         "pct_float": -0.001293716249937488
-      },
-      {
-        "date": "2026-04-16",
-        "foreign_lots": 0.816,
-        "it_lots": 55.0,
-        "dealer_lots": 22.467,
-        "sum_lots": 78.283,
-        "pct_float": 0.007989585767896528
       }
     ],
     "c_score_data": {
@@ -675,7 +675,7 @@
       "dataset": "structure_c_score",
       "stock_id": "6223",
       "ticker": "6223.TWO",
-      "asof": "2026-05-07",
+      "asof": "2026-05-08",
       "c_score": 1.0805877276277163,
       "benchmark_pe": 68.82404546588808,
       "source": [
@@ -962,8 +962,8 @@
     "returns_table": [
       {
         "year": 2026,
-        "return_pct": 122.56637168141592,
-        "period": "01/02~05/07"
+        "return_pct": 122.34513274336285,
+        "period": "01/02~05/08"
       },
       {
         "year": 2025,
@@ -972,17 +972,17 @@
       },
       {
         "year": 2024,
-        "return_pct": 300.7356918836363,
+        "return_pct": 300.7357187497528,
         "period": "01/02~12/31"
       },
       {
         "year": 2023,
-        "return_pct": 92.00210445060281,
+        "return_pct": 92.00213159423016,
         "period": "01/03~12/29"
       },
       {
         "year": 2022,
-        "return_pct": 1.675867874786774,
+        "return_pct": 1.6758604901895735,
         "period": "01/03~12/30"
       }
     ],
@@ -3493,7 +3493,7 @@
         "high": 5370.0,
         "low": 4930.0,
         "close": 5025.0,
-        "volume": 1722346.0,
+        "volume": 1610245.0,
         "adjclose": 5025.0,
         "dividends": 0.0,
         "MA5": 5034.0,
@@ -3505,7 +3505,7 @@
         "DIF": 284.676296139678,
         "DEA": 326.4663563033569,
         "HIST": -83.5801203273578,
-        "volume_lot": 1722.346
+        "volume_lot": 1610.245
       }
     ],
     "valuation": {

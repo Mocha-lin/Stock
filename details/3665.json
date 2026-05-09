@@ -1,7 +1,7 @@
 {
   "id": "3665",
   "name": "貿聯-KY",
-  "lastUpdated": "2026-05-08 16:19:15",
+  "lastUpdated": "2026-05-09 16:25:16",
   "ai_model": "Fact-Update",
   "basicInfo": {
     "price": "2750.00",
@@ -550,6 +550,14 @@
     ],
     "chips_table": [
       {
+        "date": "2026-05-08",
+        "foreign_lots": 531.723,
+        "it_lots": 21.0,
+        "dealer_lots": -4.691,
+        "sum_lots": 548.0319999999999,
+        "pct_float": 0.028043960947482557
+      },
+      {
         "date": "2026-05-07",
         "foreign_lots": 727.952,
         "it_lots": -259.002,
@@ -660,14 +668,6 @@
         "dealer_lots": -40.232,
         "sum_lots": -33.72,
         "pct_float": -0.0017255239897471534
-      },
-      {
-        "date": "2026-04-16",
-        "foreign_lots": 143.019,
-        "it_lots": 160.564,
-        "dealer_lots": -23.263,
-        "sum_lots": 280.32,
-        "pct_float": 0.01434456953754217
       }
     ],
     "c_score_data": {
@@ -675,7 +675,7 @@
       "dataset": "structure_c_score",
       "stock_id": "3665",
       "ticker": "3665.TW",
-      "asof": "2026-05-07",
+      "asof": "2026-05-08",
       "c_score": 1.0512062403609697,
       "benchmark_pe": 61.3507201926507,
       "source": [
@@ -962,8 +962,8 @@
     "returns_table": [
       {
         "year": 2026,
-        "return_pct": 82.29508196721311,
-        "period": "01/02~05/07"
+        "return_pct": 80.32786885245902,
+        "period": "01/02~05/08"
       },
       {
         "year": 2025,
@@ -3612,7 +3612,7 @@
         "high": 2800.0,
         "low": 2710.0,
         "close": 2750.0,
-        "volume": 1925107.0,
+        "volume": 1861923.0,
         "adjclose": 2750.0,
         "dividends": 0.0,
         "splits": 0.0,
@@ -3625,7 +3625,7 @@
         "DIF": 225.2241075084521,
         "DEA": 238.10038567188323,
         "HIST": -25.752556326862248,
-        "volume_lot": 1925.107
+        "volume_lot": 1861.923
       }
     ],
     "valuation": {

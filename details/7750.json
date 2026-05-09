@@ -1,7 +1,7 @@
 {
   "id": "7750",
   "name": "新代",
-  "lastUpdated": "2026-05-08 16:19:15",
+  "lastUpdated": "2026-05-09 16:25:16",
   "ai_model": "Fact-Update",
   "basicInfo": {
     "price": "2545.00",
@@ -10,6 +10,12 @@
   },
   "financials": {
     "revenue_trend": [
+      {
+        "month": "2026/4",
+        "revenue": "29.20",
+        "mom": "30.00",
+        "yoy": "0.00"
+      },
       {
         "month": "2026/3",
         "revenue": "22.46",
@@ -436,6 +442,14 @@
     ],
     "chips_table": [
       {
+        "date": "2026-05-08",
+        "foreign_lots": 72.561,
+        "it_lots": 0.0,
+        "dealer_lots": 5.433,
+        "sum_lots": 77.994,
+        "pct_float": 0.010856172487229096
+      },
+      {
         "date": "2026-05-07",
         "foreign_lots": 66.582,
         "it_lots": 0.0,
@@ -546,14 +560,6 @@
         "dealer_lots": 26.547,
         "sum_lots": 6.667999999999999,
         "pct_float": 0.0009281349609565301
-      },
-      {
-        "date": "2026-04-16",
-        "foreign_lots": 1.976,
-        "it_lots": 0.0,
-        "dealer_lots": 7.553,
-        "sum_lots": 9.529,
-        "pct_float": 0.0013263644335565052
       }
     ],
     "c_score_data": {
@@ -561,7 +567,7 @@
       "dataset": "structure_c_score",
       "stock_id": "7750",
       "ticker": "7750.TW",
-      "asof": "2026-05-07",
+      "asof": "2026-05-08",
       "c_score": 1.0,
       "benchmark_pe": 113.33585484389086,
       "source": [
@@ -716,8 +722,8 @@
     "returns_table": [
       {
         "year": 2026,
-        "return_pct": 199.81485096581034,
-        "period": "01/02~05/07"
+        "return_pct": 192.90932656736555,
+        "period": "01/02~05/08"
       },
       {
         "year": 2025,
@@ -3232,7 +3238,7 @@
         "high": 2710.0,
         "low": 2545.0,
         "close": 2545.0,
-        "volume": 454861,
+        "volume": 457167,
         "adjclose": 2545.0,
         "dividends": 0.0,
         "MA5": 2613.0,
@@ -3244,7 +3250,7 @@
         "DIF": 310.6430681059024,
         "DEA": 283.0661917349544,
         "HIST": 55.15375274189592,
-        "volume_lot": 454.861
+        "volume_lot": 457.167
       }
     ],
     "valuation": {

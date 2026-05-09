@@ -1,7 +1,7 @@
 {
   "id": "1514",
   "name": "亞力",
-  "lastUpdated": "2026-05-08 16:19:15",
+  "lastUpdated": "2026-05-09 16:25:16",
   "ai_model": "Fact-Update",
   "basicInfo": {
     "price": "123.50",
@@ -550,6 +550,14 @@
     ],
     "chips_table": [
       {
+        "date": "2026-05-08",
+        "foreign_lots": -668.816,
+        "it_lots": 0.0,
+        "dealer_lots": 236.178,
+        "sum_lots": -432.63800000000003,
+        "pct_float": -0.015841249906172822
+      },
+      {
         "date": "2026-05-07",
         "foreign_lots": -540.163,
         "it_lots": 0.0,
@@ -660,14 +668,6 @@
         "dealer_lots": 90.592,
         "sum_lots": 307.96,
         "pct_float": 0.011276104551853933
-      },
-      {
-        "date": "2026-04-16",
-        "foreign_lots": -704.7,
-        "it_lots": 0.0,
-        "dealer_lots": -0.7339999999999995,
-        "sum_lots": -705.4340000000001,
-        "pct_float": -0.02582980756732215
       }
     ],
     "c_score_data": {
@@ -675,7 +675,7 @@
       "dataset": "structure_c_score",
       "stock_id": "1514",
       "ticker": "1514.TW",
-      "asof": "2026-05-07",
+      "asof": "2026-05-08",
       "c_score": 1.5378838630791731,
       "benchmark_pe": 67.12991200305765,
       "source": [
@@ -962,8 +962,8 @@
     "returns_table": [
       {
         "year": 2026,
-        "return_pct": 21.81447692022569,
-        "period": "01/02~05/07"
+        "return_pct": 25.89194895102822,
+        "period": "01/02~05/08"
       },
       {
         "year": 2025,
@@ -982,7 +982,7 @@
       },
       {
         "year": 2022,
-        "return_pct": 21.16468380982397,
+        "return_pct": 21.164673077331898,
         "period": "01/03~12/30"
       }
     ],
@@ -3612,7 +3612,7 @@
         "high": 131.0,
         "low": 120.0,
         "close": 123.5,
-        "volume": 18372237.0,
+        "volume": 18127341.0,
         "adjclose": 123.5,
         "dividends": 0.0,
         "splits": 0.0,
@@ -3625,7 +3625,7 @@
         "DIF": 2.4350544775030016,
         "DEA": 1.0283454050451584,
         "HIST": 2.8134181449156865,
-        "volume_lot": 18372.237
+        "volume_lot": 18127.341
       }
     ],
     "valuation": {

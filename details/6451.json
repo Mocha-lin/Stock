@@ -1,7 +1,7 @@
 {
   "id": "6451",
   "name": "訊芯-KY",
-  "lastUpdated": "2026-05-08 16:19:15",
+  "lastUpdated": "2026-05-09 16:25:16",
   "ai_model": "Fact-Update",
   "basicInfo": {
     "price": "441.00",
@@ -550,6 +550,14 @@
     ],
     "chips_table": [
       {
+        "date": "2026-05-08",
+        "foreign_lots": -733.317,
+        "it_lots": 0.0,
+        "dealer_lots": -35.668,
+        "sum_lots": -768.985,
+        "pct_float": -0.0715569191028132
+      },
+      {
         "date": "2026-05-07",
         "foreign_lots": 275.107,
         "it_lots": 0.0,
@@ -660,14 +668,6 @@
         "dealer_lots": 0.6039999999999992,
         "sum_lots": 87.726,
         "pct_float": 0.008163231123121246
-      },
-      {
-        "date": "2026-04-16",
-        "foreign_lots": 44.047,
-        "it_lots": 0.0,
-        "dealer_lots": 49.338,
-        "sum_lots": 93.38499999999999,
-        "pct_float": 0.008689822155719826
       }
     ],
     "c_score_data": {
@@ -675,7 +675,7 @@
       "dataset": "structure_c_score",
       "stock_id": "6451",
       "ticker": "6451.TW",
-      "asof": "2026-05-07",
+      "asof": "2026-05-08",
       "c_score": 4.818423819304225,
       "benchmark_pe": 103.86714138094894,
       "source": [
@@ -962,8 +962,8 @@
     "returns_table": [
       {
         "year": 2026,
-        "return_pct": 197.8723404255319,
-        "period": "01/02~05/07"
+        "return_pct": 168.08510638297872,
+        "period": "01/02~05/08"
       },
       {
         "year": 2025,
@@ -3493,7 +3493,7 @@
         "high": 490.0,
         "low": 441.0,
         "close": 441.0,
-        "volume": 5817646.0,
+        "volume": 5636465.0,
         "adjclose": 441.0,
         "dividends": 0.0,
         "MA5": 480.7,
@@ -3505,7 +3505,7 @@
         "DIF": 34.06001057541147,
         "DEA": 39.29341953337501,
         "HIST": -10.46681791592708,
-        "volume_lot": 5817.646
+        "volume_lot": 5636.465
       }
     ],
     "valuation": {

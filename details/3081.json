@@ -1,7 +1,7 @@
 {
   "id": "3081",
   "name": "聯亞",
-  "lastUpdated": "2026-05-08 16:19:15",
+  "lastUpdated": "2026-05-09 16:25:16",
   "ai_model": "Fact-Update",
   "basicInfo": {
     "price": "2620.00",
@@ -478,9 +478,9 @@
         "period": "2026Q1",
         "deadline": "2026-05-15",
         "price_basis": "asof往前3日(暫代)",
-        "avg_close_3d": 2710.0,
+        "avg_close_3d": 2645.0,
         "ttm_eps": 7.639999999999999,
-        "pe": 354.7120418848168
+        "pe": 346.20418848167543
       },
       {
         "period": "2025Q4",
@@ -549,6 +549,14 @@
       }
     ],
     "chips_table": [
+      {
+        "date": "2026-05-08",
+        "foreign_lots": 235.759,
+        "it_lots": -170.0,
+        "dealer_lots": -19.424,
+        "sum_lots": 46.33499999999999,
+        "pct_float": 0.005008252510611527
+      },
       {
         "date": "2026-05-07",
         "foreign_lots": 341.782,
@@ -660,14 +668,6 @@
         "dealer_lots": 98.654,
         "sum_lots": 457.156,
         "pct_float": 0.049413028698416406
-      },
-      {
-        "date": "2026-04-16",
-        "foreign_lots": 52.621,
-        "it_lots": -187.0,
-        "dealer_lots": 26.558,
-        "sum_lots": -107.821,
-        "pct_float": -0.011654144684291478
       }
     ],
     "c_score_data": {
@@ -675,7 +675,7 @@
       "dataset": "structure_c_score",
       "stock_id": "3081",
       "ticker": "3081.TWO",
-      "asof": "2026-05-07",
+      "asof": "2026-05-08",
       "c_score": 6.662574249154727,
       "benchmark_pe": 131.96051735874747,
       "source": [
@@ -974,8 +974,8 @@
     "returns_table": [
       {
         "year": 2026,
-        "return_pct": 315.625,
-        "period": "01/02~05/07"
+        "return_pct": 309.375,
+        "period": "01/02~05/08"
       },
       {
         "year": 2025,
@@ -989,7 +989,7 @@
       },
       {
         "year": 2023,
-        "return_pct": 1.4673870089033425,
+        "return_pct": 1.4673795626694464,
         "period": "01/03~12/29"
       },
       {
@@ -3505,7 +3505,7 @@
         "high": 2750.0,
         "low": 2555.0,
         "close": 2620.0,
-        "volume": 2634569.0,
+        "volume": 2491670.0,
         "adjclose": 2620.0,
         "dividends": 0.0,
         "MA5": 2699.0,
@@ -3517,7 +3517,7 @@
         "DIF": 208.33549738545932,
         "DEA": 256.8631586704134,
         "HIST": -97.05532256990809,
-        "volume_lot": 2634.569
+        "volume_lot": 2491.67
       }
     ],
     "valuation": {

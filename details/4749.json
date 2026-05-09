@@ -1,7 +1,7 @@
 {
   "id": "4749",
   "name": "新應材",
-  "lastUpdated": "2026-05-08 16:19:15",
+  "lastUpdated": "2026-05-09 16:25:16",
   "ai_model": "Fact-Update",
   "basicInfo": {
     "price": "1085.00",
@@ -514,6 +514,14 @@
     ],
     "chips_table": [
       {
+        "date": "2026-05-08",
+        "foreign_lots": 1031.29,
+        "it_lots": -20.0,
+        "dealer_lots": 275.173,
+        "sum_lots": 1286.463,
+        "pct_float": 0.13872793660926877
+      },
+      {
         "date": "2026-05-07",
         "foreign_lots": -706.841,
         "it_lots": -69.019,
@@ -624,14 +632,6 @@
         "dealer_lots": 33.406,
         "sum_lots": 139.40200000000002,
         "pct_float": 0.01503265295558853
-      },
-      {
-        "date": "2026-04-16",
-        "foreign_lots": -739.097,
-        "it_lots": -237.29,
-        "dealer_lots": 10.965,
-        "sum_lots": -965.4219999999999,
-        "pct_float": -0.10410793160564545
       }
     ],
     "c_score_data": {
@@ -639,7 +639,7 @@
       "dataset": "structure_c_score",
       "stock_id": "4749",
       "ticker": "4749.TWO",
-      "asof": "2026-05-07",
+      "asof": "2026-05-08",
       "c_score": 2.770046565615631,
       "benchmark_pe": 115.5840557678552,
       "source": [
@@ -878,8 +878,8 @@
     "returns_table": [
       {
         "year": 2026,
-        "return_pct": 5.000000000000004,
-        "period": "01/02~05/07"
+        "return_pct": 15.42553191489362,
+        "period": "01/02~05/08"
       },
       {
         "year": 2025,
@@ -898,7 +898,7 @@
       },
       {
         "year": 2022,
-        "return_pct": 16.38667914306595,
+        "return_pct": 16.386669622972903,
         "period": "02/16~12/30"
       }
     ],
@@ -3409,7 +3409,7 @@
         "high": 1085.0,
         "low": 971.0,
         "close": 1085.0,
-        "volume": 6648839.0,
+        "volume": 6155413.0,
         "adjclose": 1085.0,
         "dividends": 0.0,
         "MA5": 1018.6,
@@ -3421,7 +3421,7 @@
         "DIF": 35.606040603632096,
         "DEA": 30.12943576571097,
         "HIST": 10.953209675842253,
-        "volume_lot": 6648.839
+        "volume_lot": 6155.413
       }
     ],
     "valuation": {

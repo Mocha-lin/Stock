@@ -1,7 +1,7 @@
 {
   "id": "8996",
   "name": "高力",
-  "lastUpdated": "2026-05-08 16:19:15",
+  "lastUpdated": "2026-05-09 16:25:16",
   "ai_model": "Fact-Update",
   "basicInfo": {
     "price": "1015.00",
@@ -550,6 +550,14 @@
     ],
     "chips_table": [
       {
+        "date": "2026-05-08",
+        "foreign_lots": 754.806,
+        "it_lots": -22.401,
+        "dealer_lots": 36.918,
+        "sum_lots": 769.3230000000001,
+        "pct_float": 0.08318543211772124
+      },
+      {
         "date": "2026-05-07",
         "foreign_lots": 92.186,
         "it_lots": -334.0,
@@ -660,14 +668,6 @@
         "dealer_lots": 9.593,
         "sum_lots": 346.838,
         "pct_float": 0.037502932974636395
-      },
-      {
-        "date": "2026-04-16",
-        "foreign_lots": -235.577,
-        "it_lots": 23.0,
-        "dealer_lots": -23.22,
-        "sum_lots": -235.797,
-        "pct_float": -0.025496280934097008
       }
     ],
     "c_score_data": {
@@ -675,7 +675,7 @@
       "dataset": "structure_c_score",
       "stock_id": "8996",
       "ticker": "8996.TW",
-      "asof": "2026-05-07",
+      "asof": "2026-05-08",
       "c_score": 1.4396716678642656,
       "benchmark_pe": 129.09983407079648,
       "source": [
@@ -962,8 +962,8 @@
     "returns_table": [
       {
         "year": 2026,
-        "return_pct": 89.95192208658081,
-        "period": "01/02~05/07"
+        "return_pct": 79.34995434221351,
+        "period": "01/02~05/08"
       },
       {
         "year": 2025,
@@ -982,7 +982,7 @@
       },
       {
         "year": 2022,
-        "return_pct": 204.10817007673137,
+        "return_pct": 204.10818958191027,
         "period": "01/03~12/30"
       }
     ],
@@ -3493,7 +3493,7 @@
         "high": 1065.0,
         "low": 1000.0,
         "close": 1015.0,
-        "volume": 3930075.0,
+        "volume": 3785649.0,
         "adjclose": 1015.0,
         "dividends": 0.0,
         "MA5": 1138.0,
@@ -3505,7 +3505,7 @@
         "DIF": 42.41008335112838,
         "DEA": 66.14458236287334,
         "HIST": -47.46899802348992,
-        "volume_lot": 3930.075
+        "volume_lot": 3785.649
       }
     ],
     "valuation": {
