@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-05-10T15:40:41.483014+00:00
+> 更新時間：2026-05-10T17:40:22.541712+00:00
 
 ### 🚀 相干訂單積壓達到2030年：1.6T光學和6吋InP產能加速
 - **題材**: `光通訊與矽光子` | **重要性**: `88`
@@ -118,15 +118,6 @@
 
 ---
 
-### ⚖️ Anthropic 提高了 Claude 程式碼的使用限制，歸功於與 SpaceX 的新協議
-- **題材**: `AI伺服器` | **重要性**: `65`
-- **來源**: Slashdot.org (2026-05-07T16:00:00Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 一位匿名讀者引用了 Ars Technica 的報導：在周三的 Code with Claude 開發者大會上，Anthropic 宣布與 SpaceX 達成協議，利用後者位於田納西州孟菲斯的數據中心的全部計算能力。在舞台上…
-- [原文連結](https://slashdot.org/story/26/05/07/0424216/anthropic-raises-claude-code-usage-limits-credits-new-deal-with-spacex)
-
----
-
 ### ⚖️ GlobalFoundries 預測第二季資料中心需求樂觀
 - **題材**: `光通訊與矽光子` | **重要性**: `65`
 - **來源**: CNA (2026-05-05T11:42:32Z)
@@ -182,6 +173,15 @@
 
  更多的…
 - [原文連結](https://9to5mac.com/2026/05/08/iphone-18-pros-new-a20-chip-rumored-to-bring-two-major-upgrades/)
+
+---
+
+### ⚠️ 科技公司對 RAMgeddon 感到抓狂
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: CNET (2026-05-07T18:31:00Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 記憶體和晶片供應商是走鵑，我們是懷爾·土狼，短缺是鐵砧。噗。
+- [原文連結](https://www.cnet.com/tech/computing/tech-companies-are-freaking-out-about-ramageddon/)
 
 ---
 
