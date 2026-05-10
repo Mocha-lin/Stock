@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-05-09T23:50:43.607487+00:00
+> 更新時間：2026-05-10T04:39:58.602044+00:00
 
 ### 🚀 相干訂單積壓達到2030年：1.6T光學和6吋InP產能加速
 - **題材**: `光通訊與矽光子` | **重要性**: `88`
@@ -7,15 +7,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重大事件】可能顯著影響產業評價、EPS預期或資金流向。
 - **摘要**: Driven by surging AI computing demand and the industry-wide shift toward higher-bandwidth, lower-power network infrastructure, optical communications company Coherent Corp. says customer orders are growing at an accelerated pace, with its backlog reaching a r…
 - [原文連結](https://www.digitimes.com/news/a20260508PD217/coherent-capacity-6-inch-optics-demand.html)
-
----
-
-### 🚀 Msscorps 因轉向矽光子學檢查而第一季出現虧損
-- **題材**: `光通訊與矽光子` | **重要性**: `83`
-- **來源**: Digitimes (2026-05-07T03:53:35Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Msscorps 報告 2026 年第一季合併營收為新台幣 5.79 億元（合 1,846 萬美元），年成長 24.54%，創同期歷史最高紀錄，但仍錄得淨虧損 3,185 萬元新台幣，每股收益連續 0.61 元虧損，連續第三年虧損。
-- [原文連結](https://www.digitimes.com/news/a20260507PD202/revenue-loss-silicon-inspection-photonics.html)
 
 ---
 
@@ -34,6 +25,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 網路設備製造商正茂科技繼2025年推出800G線性驅動可插拔光學（LPO）光模組後，4月6日宣布，已成功開發出新一代1.6T八進位小型可插拔（OSFP）光模組。
 - [原文連結](https://www.digitimes.com/news/a20260507PD200/equipment-gemtek-demand-production-high-end.html)
+
+---
+
+### 🚀 Msscorps 因轉向矽光子學檢查而第一季出現虧損
+- **題材**: `光通訊與矽光子` | **重要性**: `78`
+- **來源**: Digitimes (2026-05-07T03:53:35Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Msscorps 報告 2026 年第一季合併營收為新台幣 5.79 億元（合 1,846 萬美元），年成長 24.54%，創同期歷史最高紀錄，但仍錄得淨虧損 3,185 萬元新台幣，每股收益連續 0.61 元虧損，連續第三年虧損。
+- [原文連結](https://www.digitimes.com/news/a20260507PD202/revenue-loss-silicon-inspection-photonics.html)
 
 ---
 
@@ -136,12 +136,12 @@
 
 ---
 
-### 🚀 人工智慧將記憶體變成金礦，美光和英偉達之間驚人的相似
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: 24/7 Wall St. (2026-05-02T14:51:55Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Nvidia（納斯達克股票代碼：NVDA）憑藉其強大的 GPU 引領了人工智慧的第一波熱潮。隨著資料中心競相購買可以訓練的晶片，投資者紛紛湧入…
-- [原文連結](https://247wallst.com/investing/2026/05/02/the-shocking-similarity-between-micron-and-nvidia-as-ai-turns-memory-into-a-goldmine/)
+### ⚖️ GlobalFoundries 預測第二季資料中心需求樂觀
+- **題材**: `光通訊與矽光子` | **重要性**: `65`
+- **來源**: CNA (2026-05-05T11:42:32Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 5 月 5 日：專業晶片製造商 GlobalFoundries 週二預測，在全球資料中心部署加速的推動下，第二季營收將高於華爾街預期。該公司股價在盤前交易中上漲 6%。 • 公司已...
+- [原文連結](https://www.channelnewsasia.com/business/globalfoundries-forecasts-upbeat-second-quarter-data-center-demand-6101111)
 
 ---
 
