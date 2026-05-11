@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-05-11T15:51:20.475703+00:00
+> 更新時間：2026-05-11T18:30:32.004885+00:00
 
 ### 🚀 相干訂單積壓達到2030年：1.6T光學和6吋InP產能加速
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -73,24 +73,6 @@
 
 ---
 
-### 🚀 “我們正在經歷人類歷史上最大的基礎設施建設”：黃仁勳表示新的 Nvidia AI 合作夥伴關係將“重振美國製造業”
-- **題材**: `光通訊與矽光子` | **重要性**: `65`
-- **來源**: TechRadar (2026-05-08T17:25:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 英偉達執行長黃仁勳表示，與康寧的新合作關係對於全國人工智慧的進步至關重要。
-- [原文連結](https://www.techradar.com/pro/were-going-through-the-single-largest-infrastructure-buildout-in-human-history-jensen-huang-says-new-nvidia-ai-partnership-will-revitalize-american-manufacturing)
-
----
-
-### ⚠️ AI硬碟短缺使得網路歸檔變得更加困難
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: Slashdot.org (2026-05-08T17:00:00Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 一位匿名讀者引用了 404 Media 的一篇報導：人工智慧資料中心的繁榮導致硬碟和儲存成本飆升，使得數位檔案管理員、學者、維基百科和業餘資料囤積者保存資料變得更加昂貴和困難…
-- [原文連結](https://hardware.slashdot.org/story/26/05/08/1619212/ai-hard-drive-shortage-makes-archiving-the-internet-harder)
-
----
-
 ### 🚀 MACOM 技術解決方案第二季財報電話會議亮點
 - **題材**: `光通訊與矽光子` | **重要性**: `65`
 - **來源**: MarketBeat (2026-05-08T09:09:49Z)
@@ -154,12 +136,21 @@
 
 ---
 
-### 🚀 蘋果與英特爾達成初步晶片製造協議
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: Slashdot.org (2026-05-08T18:00:00Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 據報道，經過一年多的談判和來自川普政府的壓力，蘋果和英特爾已達成初步協議（付費；替代來源），由英特爾生產蘋果設備中使用的一些晶片。目前還不清楚哪個應用程式...
-- [原文連結](https://hardware.slashdot.org/story/26/05/08/174203/apple-intel-have-reached-preliminary-chip-making-agreement)
+### 🚀 “我們正在經歷人類歷史上最大的基礎設施建設”：黃仁勳表示新的 Nvidia AI 合作夥伴關係將“重振美國製造業”
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: TechRadar (2026-05-08T17:25:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 英偉達執行長黃仁勳表示，與康寧的新合作關係對於全國人工智慧的進步至關重要。
+- [原文連結](https://www.techradar.com/pro/were-going-through-the-single-largest-infrastructure-buildout-in-human-history-jensen-huang-says-new-nvidia-ai-partnership-will-revitalize-american-manufacturing)
+
+---
+
+### ⚠️ AI硬碟短缺使得網路歸檔變得更加困難
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: Slashdot.org (2026-05-08T17:00:00Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 一位匿名讀者引用了 404 Media 的一篇報導：人工智慧資料中心的繁榮導致硬碟和儲存成本飆升，使得數位檔案管理員、學者、維基百科和業餘資料囤積者保存資料變得更加昂貴和困難…
+- [原文連結](https://hardware.slashdot.org/story/26/05/08/1619212/ai-hard-drive-shortage-makes-archiving-the-internet-harder)
 
 ---
 
@@ -178,6 +169,15 @@
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 一位匿名讀者引用了 Ars Technica 的報導：在周三的 Code with Claude 開發者大會上，Anthropic 宣布與 SpaceX 達成協議，利用後者位於田納西州孟菲斯的數據中心的全部計算能力。在舞台上…
 - [原文連結](https://slashdot.org/story/26/05/07/0424216/anthropic-raises-claude-code-usage-limits-credits-new-deal-with-spacex)
+
+---
+
+### ⚖️ 億萬富翁投資者雷·達利奧 (Ray Dalio) 表示，這就是滯脹型金融危機在美國蔓延的方式
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Business Insider (2026-05-07T15:01:31Z)
+- **AI 判讀**: 屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 雷·達裡奧表示，他認為赤字上升和過度印鈔可能會導緻美國經濟出現一波滯脹。
+- [原文連結](https://www.businessinsider.com/ray-dalio-financial-crisis-stagflation-money-printing-us-economy-outlook-2026-5)
 
 ---
 
