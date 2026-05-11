@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-05-11T12:11:24.321187+00:00
+> 更新時間：2026-05-11T15:51:20.475703+00:00
 
 ### 🚀 相干訂單積壓達到2030年：1.6T光學和6吋InP產能加速
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -64,15 +64,6 @@
 
 ---
 
-### 🚀 美光躍升 7%：記憶體製造商現在是結構人工智慧的贏家嗎？
-- **題材**: `HBM記憶體` | **重要性**: `70`
-- **來源**: 24/7 Wall St. (2026-05-04T15:28:18Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 美光科技 (NASDAQ:MU) 股價週一早盤上漲 7%，週五收在 542.21 美元，換手價格約 579 美元。此舉延長...
-- [原文連結](https://247wallst.com/investing/2026/05/04/micron-jumps-7-is-the-memory-maker-now-a-structural-ai-winner/)
-
----
-
 ### 🚀 AI's 1.6T shift turns InP into optical supply chain bottleneck
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
 - **來源**: Digitimes (2026-05-04T04:22:04Z)
@@ -100,15 +91,6 @@
 
 ---
 
-### ⚠️ MacRumors Show：蘋果降級 iPhone 18 是因為記憶體不足嗎？
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: MacRumors (2026-05-08T14:47:17Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 在本週的 MacRumors Show 節目中，我們討論了全球內存短缺如何迫使蘋果公司跨過多個關鍵產品、取消配置、推遲發布以及促使做出似乎一年都不太可能的規格決策…
-- [原文連結](https://www.macrumors.com/2026/05/08/the-macrumors-show-is-apple-downgrading-iphone-18/)
-
----
-
 ### 🚀 MACOM 技術解決方案第二季財報電話會議亮點
 - **題材**: `光通訊與矽光子` | **重要性**: `65`
 - **來源**: MarketBeat (2026-05-08T09:09:49Z)
@@ -127,12 +109,30 @@
 
 ---
 
+### 🚀 美光躍升 7%：記憶體製造商現在是結構人工智慧的贏家嗎？
+- **題材**: `HBM記憶體` | **重要性**: `65`
+- **來源**: 24/7 Wall St. (2026-05-04T15:28:18Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 美光科技 (NASDAQ:MU) 股價週一早盤上漲 7%，週五收在 542.21 美元，換手價格約 579 美元。此舉延長...
+- [原文連結](https://247wallst.com/investing/2026/05/04/micron-jumps-7-is-the-memory-maker-now-a-structural-ai-winner/)
+
+---
+
 ### ⚖️ 隨著 HBM 需求前景的變化，SK Hynix 正在考慮內存工廠的轉移
 - **題材**: `HBM記憶體` | **重要性**: `63`
 - **來源**: Digitimes (2026-05-04T23:46:33Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: SK 海力士正在考慮改變其位於韓國清州的新 M15X 記憶體生產基地的 DRAM 投資策略，從第五代 10 奈米級（即 1b）DRAM 轉向第六代 10 奈米級（即 1c）DRAM，作為高頻寬記憶體（HBM）…
 - [原文連結](https://www.digitimes.com/news/a20260504VL215/sk-hynix-dram-hbm-demand-outlook.html)
+
+---
+
+### ⚠️ RAM 危機不再只是電腦迷的問題
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: MakeUseOf (2026-05-10T13:01:17Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 全球記憶體短缺影響所有科技愛好者。
+- [原文連結](https://www.makeuseof.com/ram-shortage-is-not-just-a-pc-nerd-problem-anymore/)
 
 ---
 
@@ -163,25 +163,21 @@
 
 ---
 
-### 🚀 美光AI記憶體漲勢依然火爆
+### ⚠️ MacRumors Show：蘋果降級 iPhone 18 是因為記憶體不足嗎？
 - **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-05-08T15:35:14Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 美光的AI記憶體漲勢依然火熱。
-- [原文連結](https://finance.yahoo.com/markets/article/microns-ai-memory-rally-is-still-running-hot-153514314.html)
+- **來源**: MacRumors (2026-05-08T14:47:17Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 在本週的 MacRumors Show 節目中，我們討論了全球內存短缺如何迫使蘋果公司跨過多個關鍵產品、取消配置、推遲發布以及促使做出似乎一年都不太可能的規格決策…
+- [原文連結](https://www.macrumors.com/2026/05/08/the-macrumors-show-is-apple-downgrading-iphone-18/)
 
 ---
 
-### 🚀 iPhone 18 Pro全新A20晶片傳將帶來兩大升級
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: 9to5Mac (2026-05-08T15:03:45Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 每年，蘋果都會為其最新 iPhone 準備一款新晶片。但今年秋季 iPhone 18 Pro 和 iPhone Ultra 的 A20 Pro 晶片聽起來可能會格外特別。以下是傳聞中的兩項重大升級。
-
-
-
- 更多的…
-- [原文連結](https://9to5mac.com/2026/05/08/iphone-18-pros-new-a20-chip-rumored-to-bring-two-major-upgrades/)
+### ⚖️ Anthropic 提高了 Claude 程式碼的使用限制，歸功於與 SpaceX 的新協議
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: Slashdot.org (2026-05-07T16:00:00Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 一位匿名讀者引用了 Ars Technica 的報導：在周三的 Code with Claude 開發者大會上，Anthropic 宣布與 SpaceX 達成協議，利用後者位於田納西州孟菲斯的數據中心的全部計算能力。在舞台上…
+- [原文連結](https://slashdot.org/story/26/05/07/0424216/anthropic-raises-claude-code-usage-limits-credits-new-deal-with-spacex)
 
 ---
 
