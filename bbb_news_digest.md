@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-05-11T20:25:30.334429+00:00
+> 更新時間：2026-05-11T23:58:34.272588+00:00
 
 ### 🚀 相干訂單積壓達到2030年：1.6T光學和6吋InP產能加速
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -100,15 +100,6 @@
 
 ---
 
-### ⚖️ 隨著 HBM 需求前景的變化，SK Hynix 正在考慮內存工廠的轉移
-- **題材**: `HBM記憶體` | **重要性**: `63`
-- **來源**: Digitimes (2026-05-04T23:46:33Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: SK 海力士正在考慮改變其位於韓國清州的新 M15X 記憶體生產基地的 DRAM 投資策略，從第五代 10 奈米級（即 1b）DRAM 轉向第六代 10 奈米級（即 1c）DRAM，作為高頻寬記憶體（HBM）…
-- [原文連結](https://www.digitimes.com/news/a20260504VL215/sk-hynix-dram-hbm-demand-outlook.html)
-
----
-
 ### ⚠️ RAM 危機不再只是電腦迷的問題
 - **題材**: `HBM記憶體` | **重要性**: `60`
 - **來源**: MakeUseOf (2026-05-10T13:01:17Z)
@@ -124,15 +115,6 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 儘管自 2022 年推出 ChatGPT 以來，Nvidia 一直主導著“基礎設施熱潮”和“生成式人工智能熱潮”，但 CNBC 寫道，“本週提供了迄今為止最鮮明的例證，說明瑞穗分析師 Jordan Klein 所說的可能是‘換崗......
 - [原文連結](https://hardware.slashdot.org/story/26/05/10/0214232/changing-of-the-guard-amd-intel-and-micron-soar-while-nvidia-lags)
-
----
-
-### 🚀 我測試了 Nvidia 的旗艦遊戲 GPU，RTX 5090 並不是贏家
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: XDA Developers (2026-05-08T21:00:22Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 誰說專業人士不能玩得開心？
-- [原文連結](https://www.xda-developers.com/tried-gaming-on-nvidias-best-gpu-and-its-not-the-rtx-5090/)
 
 ---
 
@@ -178,6 +160,24 @@
 - **AI 判讀**: 屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 雷·達裡奧表示，他認為赤字上升和過度印鈔可能會導緻美國經濟出現一波滯脹。
 - [原文連結](https://www.businessinsider.com/ray-dalio-financial-crisis-stagflation-money-printing-us-economy-outlook-2026-5)
+
+---
+
+### ⚠️ 今年 DRAM 短缺將困擾 AMD 晶片
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: Theregister.com (2026-05-06T16:45:00Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 商用個人電腦需求預計將緩解更廣泛的經濟放緩
+- [原文連結](https://www.theregister.com/personal-tech/2026/05/06/amd-warns-rising-memory-costs-will-hit-pc-shipments/5231063)
+
+---
+
+### ⚖️ 英偉達現在的本益比是你對一隻不受歡迎的工業股票的預期——而不是世界上最強大的人工智慧公司
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: 24/7 Wall St. (2026-05-06T13:44:33Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: NVIDIA（納斯達克股票代碼：NVDA）的股價為 196.50 美元，處於一個有趣的水平。 「五月出售並離開」的本能與新創公司抱怨的人工智慧資本支出週期發生衝突...
+- [原文連結](https://247wallst.com/investing/2026/05/06/nvidia-now-trades-at-a-multiple-youd-expect-on-an-unloved-industrial-stock-not-the-worlds-most-powerful-ai-company/)
 
 ---
 
