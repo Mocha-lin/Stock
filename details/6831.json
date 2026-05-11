@@ -1,12 +1,12 @@
 {
   "id": "6831",
   "name": "邁科",
-  "lastUpdated": "2026-05-10 16:49:41",
+  "lastUpdated": "2026-05-11 18:32:10",
   "ai_model": "Fact-Update",
   "basicInfo": {
-    "price": "540.00",
-    "change": "-19.00",
-    "changePercent": "-3.40%"
+    "price": "594.00",
+    "change": "54.00",
+    "changePercent": "10.00%"
   },
   "financials": {
     "revenue_trend": [
@@ -446,6 +446,14 @@
     ],
     "chips_table": [
       {
+        "date": "2026-05-11",
+        "foreign_lots": 591.975,
+        "it_lots": 0.0,
+        "dealer_lots": 173.227,
+        "sum_lots": 765.202,
+        "pct_float": 0.11336325925925925
+      },
+      {
         "date": "2026-05-08",
         "foreign_lots": -72.42,
         "it_lots": 6.0,
@@ -556,14 +564,6 @@
         "dealer_lots": -48.932,
         "sum_lots": 83.062,
         "pct_float": 0.012305481481481481
-      },
-      {
-        "date": "2026-04-17",
-        "foreign_lots": 650.87,
-        "it_lots": 0.0,
-        "dealer_lots": 53.629999999999995,
-        "sum_lots": 704.5,
-        "pct_float": 0.10437037037037038
       }
     ],
     "c_score_data": {
@@ -571,7 +571,7 @@
       "dataset": "structure_c_score",
       "stock_id": "6831",
       "ticker": "6831.TW",
-      "asof": "2026-05-08",
+      "asof": "2026-05-11",
       "c_score": 1.0,
       "benchmark_pe": 129.16666666666666,
       "source": [
@@ -774,8 +774,8 @@
     "returns_table": [
       {
         "year": 2026,
-        "return_pct": 87.26673968368301,
-        "period": "01/02~05/08"
+        "return_pct": 105.99341365205129,
+        "period": "01/02~05/11"
       },
       {
         "year": 2025,
@@ -3135,6 +3135,27 @@
         "DEA": 37.679299282832,
         "HIST": 3.115860222212305,
         "volume_lot": 2677.629
+      },
+      {
+        "date": "2026-05-11",
+        "symbol": "6831.TW",
+        "open": 543.0,
+        "high": 594.0,
+        "low": 537.0,
+        "close": 594.0,
+        "volume": 2209616,
+        "adjclose": 594.0,
+        "dividends": 0.0,
+        "MA5": 554.8,
+        "MA20": 497.45,
+        "MA60": 380.825,
+        "bb_mid": 497.45,
+        "bb_up": 586.4319644647167,
+        "bb_dn": 408.4680355352833,
+        "DIF": 43.11192809867339,
+        "DEA": 38.76582504600028,
+        "HIST": 8.692206105346216,
+        "volume_lot": 2209.616
       }
     ],
     "valuation": {
