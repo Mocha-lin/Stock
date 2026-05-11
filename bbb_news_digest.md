@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-05-10T23:52:48.052987+00:00
+> 更新時間：2026-05-11T04:55:11.758036+00:00
 
 ### 🚀 相干訂單積壓達到2030年：1.6T光學和6吋InP產能加速
 - **題材**: `光通訊與矽光子` | **重要性**: `88`
@@ -28,15 +28,6 @@
 
 ---
 
-### 🚀 隨著商品 DRAM 價格飆升，三星領先 SK 海力士
-- **題材**: `HBM記憶體` | **重要性**: `78`
-- **來源**: Digitimes (2026-05-04T03:22:47Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 三星電子和 SK 海力士都正經歷歷史性的記憶體升級週期，但這兩家韓國晶片製造商之間已出現約 15 兆韓元（約 100 億美元）的利潤差距，這主要是由商品 DRAM 而不是高頻寬記憶體 (HBM) 推動的…
-- [原文連結](https://www.digitimes.com/news/a20260504VL202/samsung-sk-hynix-dram-hbm4-price.html)
-
----
-
 ### 🚀 晶科技看高端光學需求永無止境，1.6T量產將於4Q26
 - **題材**: `光通訊與矽光子` | **重要性**: `73`
 - **來源**: Digitimes (2026-05-07T07:33:22Z)
@@ -55,12 +46,12 @@
 
 ---
 
-### 🚀 AI's 1.6T shift turns InP into optical supply chain bottleneck
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-05-04T04:22:04Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: The transition from 800G to 1.6T optical modules is no longer an upgrade cycle — it is a physics-driven inflection point.
-- [原文連結](https://www.digitimes.com/news/a20260504VL207/optical-components-rare-earth-siph-supply-chain.html)
+### 🚀 隨著商品 DRAM 價格飆升，三星領先 SK 海力士
+- **題材**: `HBM記憶體` | **重要性**: `73`
+- **來源**: Digitimes (2026-05-04T03:22:47Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 三星電子和 SK 海力士都正經歷歷史性的記憶體升級週期，但這兩家韓國晶片製造商之間已出現約 15 兆韓元（約 100 億美元）的利潤差距，這主要是由商品 DRAM 而不是高頻寬記憶體 (HBM) 推動的…
+- [原文連結](https://www.digitimes.com/news/a20260504VL202/samsung-sk-hynix-dram-hbm4-price.html)
 
 ---
 
@@ -88,6 +79,15 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 美光科技 (NASDAQ:MU) 股價週一早盤上漲 7%，週五收在 542.21 美元，換手價格約 579 美元。此舉延長...
 - [原文連結](https://247wallst.com/investing/2026/05/04/micron-jumps-7-is-the-memory-maker-now-a-structural-ai-winner/)
+
+---
+
+### 🚀 AI's 1.6T shift turns InP into optical supply chain bottleneck
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-05-04T04:22:04Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: The transition from 800G to 1.6T optical modules is no longer an upgrade cycle — it is a physics-driven inflection point.
+- [原文連結](https://www.digitimes.com/news/a20260504VL207/optical-components-rare-earth-siph-supply-chain.html)
 
 ---
 
@@ -136,6 +136,15 @@
 
 ---
 
+### ⚖️ 「衛兵換崗」？ AMD、英特爾和美光飆升，而英偉達落後
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: Slashdot.org (2026-05-10T03:34:00Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 儘管自 2022 年推出 ChatGPT 以來，Nvidia 一直主導著“基礎設施熱潮”和“生成式人工智能熱潮”，但 CNBC 寫道，“本週提供了迄今為止最鮮明的例證，說明瑞穗分析師 Jordan Klein 所說的可能是‘換崗......
+- [原文連結](https://hardware.slashdot.org/story/26/05/10/0214232/changing-of-the-guard-amd-intel-and-micron-soar-while-nvidia-lags)
+
+---
+
 ### 🚀 我測試了 Nvidia 的旗艦遊戲 GPU，RTX 5090 並不是贏家
 - **題材**: `AI伺服器` | **重要性**: `60`
 - **來源**: XDA Developers (2026-05-08T21:00:22Z)
@@ -173,15 +182,6 @@
 
  更多的…
 - [原文連結](https://9to5mac.com/2026/05/08/iphone-18-pros-new-a20-chip-rumored-to-bring-two-major-upgrades/)
-
----
-
-### ⚖️ Anthropic 提高了 Claude 程式碼的使用限制，歸功於與 SpaceX 的新協議
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: Slashdot.org (2026-05-07T16:00:00Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 一位匿名讀者引用了 Ars Technica 的報導：在周三的 Code with Claude 開發者大會上，Anthropic 宣布與 SpaceX 達成協議，利用後者位於田納西州孟菲斯的數據中心的全部計算能力。在舞台上…
-- [原文連結](https://slashdot.org/story/26/05/07/0424216/anthropic-raises-claude-code-usage-limits-credits-new-deal-with-spacex)
 
 ---
 
