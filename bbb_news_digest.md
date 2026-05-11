@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-05-11T08:20:50.041949+00:00
+> 更新時間：2026-05-11T12:11:24.321187+00:00
 
 ### 🚀 相干訂單積壓達到2030年：1.6T光學和6吋InP產能加速
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -55,15 +55,6 @@
 
 ---
 
-### 🚀 MACOM 技術解決方案第二季財報電話會議亮點
-- **題材**: `光通訊與矽光子` | **重要性**: `70`
-- **來源**: MarketBeat (2026-05-08T09:09:49Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: MACOM Technology Solutions（納斯達克股票代碼：MTSI）公佈 2026 財年第二季營收為 2.89 億美元，調整後每股攤薄收益為 1.09 美元...
-- [原文連結](https://www.marketbeat.com/instant-alerts/macom-technology-solutions-q2-earnings-call-highlights-2026-05-08/?utm_source=yahoofinance&amp;utm_medium=yahoofinance)
-
----
-
 ### 🚀 GLOBALFOUNDRIES Inc. 2026 年第一季財報電話會議摘要
 - **題材**: `光通訊與矽光子` | **重要性**: `70`
 - **來源**: Moby.co (2026-05-05T16:44:10Z)
@@ -115,6 +106,15 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 在本週的 MacRumors Show 節目中，我們討論了全球內存短缺如何迫使蘋果公司跨過多個關鍵產品、取消配置、推遲發布以及促使做出似乎一年都不太可能的規格決策…
 - [原文連結](https://www.macrumors.com/2026/05/08/the-macrumors-show-is-apple-downgrading-iphone-18/)
+
+---
+
+### 🚀 MACOM 技術解決方案第二季財報電話會議亮點
+- **題材**: `光通訊與矽光子` | **重要性**: `65`
+- **來源**: MarketBeat (2026-05-08T09:09:49Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: MACOM Technology Solutions（納斯達克股票代碼：MTSI）公佈 2026 財年第二季營收為 2.89 億美元，調整後每股攤薄收益為 1.09 美元...
+- [原文連結](https://www.marketbeat.com/instant-alerts/macom-technology-solutions-q2-earnings-call-highlights-2026-05-08/?utm_source=yahoofinance&amp;utm_medium=yahoofinance)
 
 ---
 
