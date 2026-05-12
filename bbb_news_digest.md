@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-05-12T15:35:53.387864+00:00
+> 更新時間：2026-05-12T18:28:40.390315+00:00
 
 ### 🚀 相干訂單積壓達到2030年：1.6T光學和6吋InP產能加速
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -37,15 +37,6 @@
 
 ---
 
-### ⚖️ 據報道，台積電將推動 CoPoS 獨家經營權，以鎖定下一代封裝領先地位
-- **題材**: `半導體先進製程` | **重要性**: `73`
-- **來源**: Digitimes (2026-05-08T07:49:55Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 台積電正在加速擴大其CoWoS先進封裝產能，同時推進技術要求更高的面板級封裝技術CoPoS，旨在擴大在AI半導體競賽中對競爭對手的領先優勢。業內人士稱…
-- [原文連結](https://www.digitimes.com/news/a20260508PD207/tsmc-packaging-cowos-expansion-capacity.html)
-
----
-
 ### 🚀 晶科技看高端光學需求永無止境，1.6T量產將於4Q26
 - **題材**: `光通訊與矽光子` | **重要性**: `73`
 - **來源**: Digitimes (2026-05-07T07:33:22Z)
@@ -61,15 +52,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: GlobalFoundries 在 2026 年第一季財報電話會議上重點關注了矽光子學 (SiPh)、共封裝光學 (CPO) 和矽鍺 (SiGe) 開發的進展，同時報告了利潤率的提高和收入的穩定。執行長蒂姆·布林和首席財務官薩姆·弗蘭…
 - [原文連結](https://www.digitimes.com/news/a20260506VL204/globalfoundries-revenue-siph-cpo-2026.html)
-
----
-
-### 🚀 GLOBALFOUNDRIES Inc. 2026 年第一季財報電話會議摘要
-- **題材**: `光通訊與矽光子` | **重要性**: `70`
-- **來源**: Moby.co (2026-05-05T16:44:10Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: GLOBALFOUNDRIES Inc. 2026 年第一季財報電話會議的 Moby 摘要
-- [原文連結](https://app.moby.co/home/research/tools/earningsCalendar/earnings-globalfoundries-inc-q1-2026-earnings-call-summary?utm_source=yahoo_finance&amp;utm_medium=rss)
 
 ---
 
@@ -91,21 +73,21 @@
 
 ---
 
-### ⚖️ SK hynix 著眼於 HBM 記憶體的 Intel EMIB 2.5D 封裝
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: Techpowerup.com (2026-05-11T08:35:14Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: SK hynix is collaborating with Intel to utilize its Embedded Multi-die Interconnect Bridge (EMIB) 2.5D packaging technology for HBM memory. As SK hynix aims to diversify its supply chain and customers are increasingly considering Intel Foundry, the South Kore…
-- [原文連結](https://www.techpowerup.com/348926/sk-hynix-eyes-intel-emib-2-5d-packaging-for-hbm-memory)
-
----
-
 ### 🚀 MACOM 技術解決方案第二季財報電話會議亮點
 - **題材**: `光通訊與矽光子` | **重要性**: `65`
 - **來源**: MarketBeat (2026-05-08T09:09:49Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: MACOM Technology Solutions（納斯達克股票代碼：MTSI）公佈 2026 財年第二季營收為 2.89 億美元，調整後每股攤薄收益為 1.09 美元...
 - [原文連結](https://www.marketbeat.com/instant-alerts/macom-technology-solutions-q2-earnings-call-highlights-2026-05-08/?utm_source=yahoofinance&amp;utm_medium=yahoofinance)
+
+---
+
+### 🚀 GLOBALFOUNDRIES Inc. 2026 年第一季財報電話會議摘要
+- **題材**: `光通訊與矽光子` | **重要性**: `65`
+- **來源**: Moby.co (2026-05-05T16:44:10Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: GLOBALFOUNDRIES Inc. 2026 年第一季財報電話會議的 Moby 摘要
+- [原文連結](https://app.moby.co/home/research/tools/earningsCalendar/earnings-globalfoundries-inc-q1-2026-earnings-call-summary?utm_source=yahoo_finance&amp;utm_medium=rss)
 
 ---
 
@@ -178,6 +160,24 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 一位匿名讀者引用了 404 Media 的一篇報導：人工智慧資料中心的繁榮導致硬碟和儲存成本飆升，使得數位檔案管理員、學者、維基百科和業餘資料囤積者保存資料變得更加昂貴和困難…
 - [原文連結](https://hardware.slashdot.org/story/26/05/08/1619212/ai-hard-drive-shortage-makes-archiving-the-internet-harder)
+
+---
+
+### ⚠️ MacRumors Show：蘋果降級 iPhone 18 是因為記憶體不足嗎？
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: MacRumors (2026-05-08T14:47:17Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 在本週的 MacRumors Show 節目中，我們討論了全球內存短缺如何迫使蘋果公司跨過多個關鍵產品、取消配置、推遲發布以及促使做出似乎一年都不太可能的規格決策…
+- [原文連結](https://www.macrumors.com/2026/05/08/the-macrumors-show-is-apple-downgrading-iphone-18/)
+
+---
+
+### ⚖️ Anthropic 提高了 Claude 程式碼的使用限制，歸功於與 SpaceX 的新協議
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: Slashdot.org (2026-05-07T16:00:00Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 一位匿名讀者引用了 Ars Technica 的報導：在周三的 Code with Claude 開發者大會上，Anthropic 宣布與 SpaceX 達成協議，利用後者位於田納西州孟菲斯的數據中心的全部計算能力。在舞台上…
+- [原文連結](https://slashdot.org/story/26/05/07/0424216/anthropic-raises-claude-code-usage-limits-credits-new-deal-with-spacex)
 
 ---
 
