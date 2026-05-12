@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-05-12T11:22:01.523484+00:00
+> 更新時間：2026-05-12T15:35:53.387864+00:00
 
 ### 🚀 相干訂單積壓達到2030年：1.6T光學和6吋InP產能加速
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -73,6 +73,24 @@
 
 ---
 
+### ⚖️ 三星與工會就為期 18 天的晶片工廠罷工進行最後談判，罷工可能造成 200 億美元的損失——政府調解的峰會旨在避免可能影響 HBM 生產的工業行動
+- **題材**: `HBM記憶體` | **重要性**: `67`
+- **來源**: Tom's Hardware UK (2026-05-11T13:16:59Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 在二月和三月的前幾輪調解失敗後，雙方正在透過韓國國家勞動關係委員會進行會面。
+- [原文連結](https://www.tomshardware.com/tech-industry/samsung-and-union-resume-talks-10-days-before-planned-18-day-chip-factory-strike)
+
+---
+
+### ⚖️ 軟銀押注電池建設以支持穀倉
+- **題材**: `AI伺服器` | **重要性**: `65`
+- **來源**: Theregister.com (2026-05-11T13:37:20Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 科技投資巨頭希望為自己的人工智慧資料中心提供電池，而且數量很多
+- [原文連結](https://www.theregister.com/on-prem/2026/05/11/softbank-bets-on-battery-building-to-back-bit-barns/5237886)
+
+---
+
 ### ⚖️ SK hynix 著眼於 HBM 記憶體的 Intel EMIB 2.5D 封裝
 - **題材**: `HBM記憶體` | **重要性**: `65`
 - **來源**: Techpowerup.com (2026-05-11T08:35:14Z)
@@ -91,12 +109,12 @@
 
 ---
 
-### ⚖️ GlobalFoundries 預測第二季資料中心需求樂觀
-- **題材**: `光通訊與矽光子` | **重要性**: `65`
-- **來源**: CNA (2026-05-05T11:42:32Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 5 月 5 日：專業晶片製造商 GlobalFoundries 週二預測，在全球資料中心部署加速的推動下，第二季營收將高於華爾街預期。該公司股價在盤前交易中上漲 6%。 • 公司已...
-- [原文連結](https://www.channelnewsasia.com/business/globalfoundries-forecasts-upbeat-second-quarter-data-center-demand-6101111)
+### ⚖️ 美光幫助 DRAM 成為最快突破 65 億美元的 ETF：每日圖表
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-05-11T14:56:45Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 記憶體和儲存空間甚至比幾年前的比特幣還要熱。
+- [原文連結](https://finance.yahoo.com/markets/article/micron-helps-dram-become-the-fastest-etf-to-hit-65-billion-chart-of-the-day-145645255.html)
 
 ---
 
@@ -160,24 +178,6 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 一位匿名讀者引用了 404 Media 的一篇報導：人工智慧資料中心的繁榮導致硬碟和儲存成本飆升，使得數位檔案管理員、學者、維基百科和業餘資料囤積者保存資料變得更加昂貴和困難…
 - [原文連結](https://hardware.slashdot.org/story/26/05/08/1619212/ai-hard-drive-shortage-makes-archiving-the-internet-harder)
-
----
-
-### ⚠️ MacRumors Show：蘋果降級 iPhone 18 是因為記憶體不足嗎？
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: MacRumors (2026-05-08T14:47:17Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 在本週的 MacRumors Show 節目中，我們討論了全球內存短缺如何迫使蘋果公司跨過多個關鍵產品、取消配置、推遲發布以及促使做出似乎一年都不太可能的規格決策…
-- [原文連結](https://www.macrumors.com/2026/05/08/the-macrumors-show-is-apple-downgrading-iphone-18/)
-
----
-
-### ⚖️ Anthropic 提高了 Claude 程式碼的使用限制，歸功於與 SpaceX 的新協議
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: Slashdot.org (2026-05-07T16:00:00Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 一位匿名讀者引用了 Ars Technica 的報導：在周三的 Code with Claude 開發者大會上，Anthropic 宣布與 SpaceX 達成協議，利用後者位於田納西州孟菲斯的數據中心的全部計算能力。在舞台上…
-- [原文連結](https://slashdot.org/story/26/05/07/0424216/anthropic-raises-claude-code-usage-limits-credits-new-deal-with-spacex)
 
 ---
 
