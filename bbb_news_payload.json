@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-05-12T18:28:40.390315+00:00",
+  "generated_at": "2026-05-12T20:26:28.518355+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 70,
@@ -267,6 +267,44 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "e2abbf9e146d6a98",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "第一波關稅退款明天將影響部分企業",
+      "summary": "官員表示，關稅退款將於 5 月 11 日星期二開始返還給企業。",
+      "original_title": "First wave of tariff refunds will hit some businesses tomorrow",
+      "url": "https://abcnews.com/Business/wave-tariff-refunds-hit-businesses-tomorrow/story?id=132854062",
+      "source": "Abcnews.com",
+      "domain": "abcnews.com",
+      "published_at": "2026-05-11T19:31:42Z",
+      "importance": 65,
+      "impact": "negative",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "b3c5d39f09f2fe74",
@@ -1680,82 +1718,6 @@
       "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "df958f52dca4b156",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "報導稱，蘋果在晶片短缺的情況下向三星和英特爾尋求晶片",
-      "summary": "據報道，蘋果公司在其主要供應商台積電之外保留了其他選擇。",
-      "original_title": "Apple Looking to Samsung and Intel for Chips Amid Shortages, Report Says",
-      "url": "https://www.cnet.com/tech/mobile/apple-samsung-intel-chip-shortages/",
-      "source": "CNET",
-      "domain": "cnet.com",
-      "published_at": "2026-05-05T19:45:00Z",
-      "importance": 55,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "d57ad53d26b51416",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Nvidia's RTX 50-series launch was so bad that AMD just won the GPU war",
-      "summary": "硬體缺陷、高價、假鏡框？抱歉，我選擇AMD這一代。",
-      "original_title": "Nvidia's RTX 50-series launch was so bad that AMD just won the GPU war",
-      "url": "https://www.makeuseof.com/rtx-50-series-gpus-feels-harder-to-justify-the-longer-i-look-at-it/",
-      "source": "MakeUseOf",
-      "domain": "makeuseof.com",
-      "published_at": "2026-05-05T18:30:18Z",
-      "importance": 55,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "9eabcd33f6ffadf4",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2247,44 +2209,6 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "4da23ecd8b63414a",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "由於航空燃油價格飆升，這些航空公司今年夏天削減了大部分航班",
-      "summary": "在 10 天內，航空公司從夏季航班時刻表中取消了 75,000 多個航班。精神航空和聯合航空取消了大部分航班。",
-      "original_title": "These airlines have cut the most flights this summer as jet fuel prices skyrocket",
-      "url": "https://www.businessinsider.com/airlines-cutting-most-flights-summer-chart-graph-spirit-united-2026-5",
-      "source": "Business Insider",
-      "domain": "businessinsider.com",
-      "published_at": "2026-05-06T15:35:03Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "af76ba9b55e725ae",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2435,6 +2359,82 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "df958f52dca4b156",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "報導稱，蘋果在晶片短缺的情況下向三星和英特爾尋求晶片",
+      "summary": "據報道，蘋果公司在其主要供應商台積電之外保留了其他選擇。",
+      "original_title": "Apple Looking to Samsung and Intel for Chips Amid Shortages, Report Says",
+      "url": "https://www.cnet.com/tech/mobile/apple-samsung-intel-chip-shortages/",
+      "source": "CNET",
+      "domain": "cnet.com",
+      "published_at": "2026-05-05T19:45:00Z",
+      "importance": 50,
+      "impact": "negative",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "d57ad53d26b51416",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Nvidia's RTX 50-series launch was so bad that AMD just won the GPU war",
+      "summary": "硬體缺陷、高價、假鏡框？抱歉，我選擇AMD這一代。",
+      "original_title": "Nvidia's RTX 50-series launch was so bad that AMD just won the GPU war",
+      "url": "https://www.makeuseof.com/rtx-50-series-gpus-feels-harder-to-justify-the-longer-i-look-at-it/",
+      "source": "MakeUseOf",
+      "domain": "makeuseof.com",
+      "published_at": "2026-05-05T18:30:18Z",
+      "importance": 50,
+      "impact": "negative",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "0e1133f73eeeac1f",

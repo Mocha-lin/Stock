@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-05-12T18:28:40.390315+00:00
+> 更新時間：2026-05-12T20:26:28.518355+00:00
 
 ### 🚀 相干訂單積壓達到2030年：1.6T光學和6吋InP產能加速
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -61,6 +61,15 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 在二月和三月的前幾輪調解失敗後，雙方正在透過韓國國家勞動關係委員會進行會面。
 - [原文連結](https://www.tomshardware.com/tech-industry/samsung-and-union-resume-talks-10-days-before-planned-18-day-chip-factory-strike)
+
+---
+
+### ⚠️ 第一波關稅退款明天將影響部分企業
+- **題材**: `總體風險` | **重要性**: `65`
+- **來源**: Abcnews.com (2026-05-11T19:31:42Z)
+- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 官員表示，關稅退款將於 5 月 11 日星期二開始返還給企業。
+- [原文連結](https://abcnews.com/Business/wave-tariff-refunds-hit-businesses-tomorrow/story?id=132854062)
 
 ---
 
@@ -169,15 +178,6 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 在本週的 MacRumors Show 節目中，我們討論了全球內存短缺如何迫使蘋果公司跨過多個關鍵產品、取消配置、推遲發布以及促使做出似乎一年都不太可能的規格決策…
 - [原文連結](https://www.macrumors.com/2026/05/08/the-macrumors-show-is-apple-downgrading-iphone-18/)
-
----
-
-### ⚖️ Anthropic 提高了 Claude 程式碼的使用限制，歸功於與 SpaceX 的新協議
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: Slashdot.org (2026-05-07T16:00:00Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 一位匿名讀者引用了 Ars Technica 的報導：在周三的 Code with Claude 開發者大會上，Anthropic 宣布與 SpaceX 達成協議，利用後者位於田納西州孟菲斯的數據中心的全部計算能力。在舞台上…
-- [原文連結](https://slashdot.org/story/26/05/07/0424216/anthropic-raises-claude-code-usage-limits-credits-new-deal-with-spacex)
 
 ---
 
