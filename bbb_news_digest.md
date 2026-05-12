@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-05-12T07:38:15.251027+00:00
+> 更新時間：2026-05-12T11:22:01.523484+00:00
 
 ### 🚀 相干訂單積壓達到2030年：1.6T光學和6吋InP產能加速
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -25,6 +25,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Msscorps 報告 2026 年第一季合併營收為新台幣 5.79 億元（合 1,846 萬美元），年成長 24.54%，創同期歷史最高紀錄，但仍錄得淨虧損 3,185 萬元新台幣，每股收益連續 0.61 元虧損，連續第三年虧損。
 - [原文連結](https://www.digitimes.com/news/a20260507PD202/revenue-loss-silicon-inspection-photonics.html)
+
+---
+
+### 🚀 晶片封裝合作報道傳出後，英特爾、SK 海力士股價飆升——據說 SK 正在測試英特爾 2.5D EMIB 的 HBM 集成
+- **題材**: `半導體先進製程` | **重要性**: `77`
+- **來源**: Tom's Hardware UK (2026-05-11T11:08:28Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 先前有報告指出 SK 正在與英特爾一起使用英特爾的 EMIB 技術進行 2.5D 封裝的研發。
+- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-shares-surge-to-all-time-high-on-reports-of-intel-emib-partnership)
 
 ---
 
@@ -64,12 +73,12 @@
 
 ---
 
-### ⚖️ DIGITIMES Insight：聯發科否認與英特爾的聯繫，台積電封裝領先面臨新考驗
-- **題材**: `半導體先進製程` | **重要性**: `68`
-- **來源**: Digitimes (2026-05-11T04:14:54Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: DIGITIMES 高級分析師 Luke Lin 表示，華倫巴菲特對蘋果的投資不應被簡單地視為股票交易，而應被視為對該公司及其執行長 Tim Cook 領導下的押注。
-- [原文連結](https://www.digitimes.com/news/a20260511PD208/digitimes-tsmc-mediatek-intel-packaging.html)
+### ⚖️ SK hynix 著眼於 HBM 記憶體的 Intel EMIB 2.5D 封裝
+- **題材**: `HBM記憶體` | **重要性**: `65`
+- **來源**: Techpowerup.com (2026-05-11T08:35:14Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: SK hynix is collaborating with Intel to utilize its Embedded Multi-die Interconnect Bridge (EMIB) 2.5D packaging technology for HBM memory. As SK hynix aims to diversify its supply chain and customers are increasingly considering Intel Foundry, the South Kore…
+- [原文連結](https://www.techpowerup.com/348926/sk-hynix-eyes-intel-emib-2-5d-packaging-for-hbm-memory)
 
 ---
 
@@ -91,12 +100,21 @@
 
 ---
 
-### ⚖️ 軟銀、英特爾針對 9 層記憶體的 HBM 限制
-- **題材**: `HBM記憶體` | **重要性**: `63`
-- **來源**: Digitimes (2026-05-06T00:01:26Z)
+### ⚖️ 人工智慧記憶體短缺將使智慧型手機變得更加昂貴
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: TechRadar (2026-05-11T10:54:03Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 隨著人工智慧硬體產業尋求緩解高頻寬記憶體功耗和熱量限制的方法，軟銀的記憶體部門 SAIMEMORY 正準備推出與英特爾共同開發的新型 3D DRAM 技術。
-- [原文連結](https://www.digitimes.com/news/a20260505VL214/intel-hbm-technology-3d-dram.html)
+- **摘要**: Your next smartphone or PC could be more expensive with lower speed and less memory because of AI datacenters.
+- [原文連結](https://www.techradar.com/pro/ai-memory-crunch-will-make-smartphones-more-expensive)
+
+---
+
+### ⚖️ 推理轉變
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: Stratechery.com (2026-05-11T10:00:00Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 代理推理將與我們今天使用的推理不同，它將改變計算基礎設施，因為當人類不參與時，速度並不重要。
+- [原文連結](https://stratechery.com/2026/the-inference-shift/)
 
 ---
 
@@ -160,24 +178,6 @@
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 一位匿名讀者引用了 Ars Technica 的報導：在周三的 Code with Claude 開發者大會上，Anthropic 宣布與 SpaceX 達成協議，利用後者位於田納西州孟菲斯的數據中心的全部計算能力。在舞台上…
 - [原文連結](https://slashdot.org/story/26/05/07/0424216/anthropic-raises-claude-code-usage-limits-credits-new-deal-with-spacex)
-
----
-
-### ⚖️ 億萬富翁投資者雷·達利奧 (Ray Dalio) 表示，這就是滯脹型金融危機在美國蔓延的方式
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Business Insider (2026-05-07T15:01:31Z)
-- **AI 判讀**: 屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 雷·達裡奧表示，他認為赤字上升和過度印鈔可能會導緻美國經濟出現一波滯脹。
-- [原文連結](https://www.businessinsider.com/ray-dalio-financial-crisis-stagflation-money-printing-us-economy-outlook-2026-5)
-
----
-
-### ⚠️ 今年 DRAM 短缺將困擾 AMD 晶片
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: Theregister.com (2026-05-06T16:45:00Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 商用個人電腦需求預計將緩解更廣泛的經濟放緩
-- [原文連結](https://www.theregister.com/personal-tech/2026/05/06/amd-warns-rising-memory-costs-will-hit-pc-shipments/5231063)
 
 ---
 

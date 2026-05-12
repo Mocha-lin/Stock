@@ -1,9 +1,9 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-05-12T07:38:15.251027+00:00",
+  "generated_at": "2026-05-12T11:22:01.523484+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
-  "total_count": 71,
+  "total_count": 70,
   "items": [
     {
       "id": "42b01ffb7bd2fdfc",
@@ -118,6 +118,44 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
+      "id": "64bf2c790fcc3902",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "晶片封裝合作報道傳出後，英特爾、SK 海力士股價飆升——據說 SK 正在測試英特爾 2.5D EMIB 的 HBM 集成",
+      "summary": "先前有報告指出 SK 正在與英特爾一起使用英特爾的 EMIB 技術進行 2.5D 封裝的研發。",
+      "original_title": "Intel, SK hynix shares surge following reports of chip packaging partnership — SK is said to be testing Intel's 2.5D EMIB for HBM integration",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-shares-surge-to-all-time-high-on-reports-of-intel-emib-partnership",
+      "source": "Tom's Hardware UK",
+      "domain": "tomshardware.com",
+      "published_at": "2026-05-11T11:08:28Z",
+      "importance": 77,
+      "impact": "positive",
+      "timeframe": "short_to_mid_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "e50fb8ff618c5c4c",
@@ -272,32 +310,29 @@
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
-      "id": "21c73acaa4680609",
+      "id": "4e91a3b8cae6b617",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "DIGITIMES Insight：聯發科否認與英特爾的聯繫，台積電封裝領先面臨新考驗",
-      "summary": "DIGITIMES 高級分析師 Luke Lin 表示，華倫巴菲特對蘋果的投資不應被簡單地視為股票交易，而應被視為對該公司及其執行長 Tim Cook 領導下的押注。",
-      "original_title": "DIGITIMES Insight: MediaTek denies Intel link as TSMC's packaging lead faces new test",
-      "url": "https://www.digitimes.com/news/a20260511PD208/digitimes-tsmc-mediatek-intel-packaging.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-05-11T04:14:54Z",
-      "importance": 68,
+      "theme": "HBM記憶體",
+      "title": "SK hynix 著眼於 HBM 記憶體的 Intel EMIB 2.5D 封裝",
+      "summary": "SK hynix is collaborating with Intel to utilize its Embedded Multi-die Interconnect Bridge (EMIB) 2.5D packaging technology for HBM memory. As SK hynix aims to diversify its supply chain and customers are increasingly considering Intel Foundry, the South Kore…",
+      "original_title": "SK hynix Eyes Intel EMIB 2.5D Packaging for HBM Memory",
+      "url": "https://www.techpowerup.com/348926/sk-hynix-eyes-intel-emib-2-5d-packaging-for-hbm-memory",
+      "source": "Techpowerup.com",
+      "domain": "techpowerup.com",
+      "published_at": "2026-05-11T08:35:14Z",
+      "importance": 65,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
+        "HBM",
+        "記憶體"
       ],
       "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
       ],
       "related_models": [
         "003",
@@ -307,7 +342,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "ff4834a17cc36aee",
@@ -386,18 +421,53 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "7cfd5402b2a2ccf3",
+      "id": "07cb2a689fe310e1",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "HBM記憶體",
-      "title": "軟銀、英特爾針對 9 層記憶體的 HBM 限制",
-      "summary": "隨著人工智慧硬體產業尋求緩解高頻寬記憶體功耗和熱量限制的方法，軟銀的記憶體部門 SAIMEMORY 正準備推出與英特爾共同開發的新型 3D DRAM 技術。",
-      "original_title": "SoftBank, Intel target HBM limits with 9-layer memory",
-      "url": "https://www.digitimes.com/news/a20260505VL214/intel-hbm-technology-3d-dram.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-05-06T00:01:26Z",
-      "importance": 63,
+      "title": "人工智慧記憶體短缺將使智慧型手機變得更加昂貴",
+      "summary": "Your next smartphone or PC could be more expensive with lower speed and less memory because of AI datacenters.",
+      "original_title": "AI memory crunch will make smartphones more expensive",
+      "url": "https://www.techradar.com/pro/ai-memory-crunch-will-make-smartphones-more-expensive",
+      "source": "TechRadar",
+      "domain": "techradar.com",
+      "published_at": "2026-05-11T10:54:03Z",
+      "importance": 60,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "e187518dd4ee5722",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "推理轉變",
+      "summary": "代理推理將與我們今天使用的推理不同，它將改變計算基礎設施，因為當人類不參與時，速度並不重要。",
+      "original_title": "The Inference Shift",
+      "url": "https://stratechery.com/2026/the-inference-shift/",
+      "source": "Stratechery.com",
+      "domain": "stratechery.com",
+      "published_at": "2026-05-11T10:00:00Z",
+      "importance": 60,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -860,41 +930,6 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "8f3d46aaddaaad0b",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "三星勞資糾紛：潛在18天罷工威脅全球晶片供應",
-      "summary": "三星電子管理層與三星電子全國工會（NSEU）之間的談判在員工獎金結構問題上陷入嚴重僵局。據報道，雖然雙方即將就 13% 的營運分配達成協議…",
-      "original_title": "Samsung Labor Dispute: Potential 18-Day Strike Threatens Global Chip Supply",
-      "url": "https://www.ubergizmo.com/2026/05/samsung-labor-dispute/",
-      "source": "Ubergizmo",
-      "domain": "ubergizmo.com",
-      "published_at": "2026-05-09T16:00:57Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "484f92c26beb02f5",
@@ -1567,41 +1602,6 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "c041c23c97df2a7e",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "全球最熱門的股市剛剛誕生了兆美元的科技巨頭",
-      "summary": "三星電子的股價今年翻了一番，成為繼台積電之後第二家加入兆美元俱樂部的亞洲公司。",
-      "original_title": "The world's hottest stock market just minted a trillion-dollar tech giant",
-      "url": "https://www.businessinsider.com/south-korea-stock-market-samsung-1-trillion-club-ai-boom-2026-5",
-      "source": "Business Insider",
-      "domain": "businessinsider.com",
-      "published_at": "2026-05-06T04:38:06Z",
-      "importance": 55,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "19324d6f183ca007",
@@ -2510,41 +2510,6 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "8d3e03e118974b6f",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "「大空頭」投資者 Michael Burry 證實他已出售 GameStop 並表示他正在做空 Palantir",
-      "summary": "以「大空頭」聞名的 Michael Burry 表示，他出售 GameStop 是因為他不喜歡 GameStop 收購 eBay 的計劃，並在 Palantir 上「徹底做空」。",
-      "original_title": "'Big Short' investor Michael Burry confirms he's sold GameStop and says he's shorting Palantir",
-      "url": "https://www.businessinsider.com/big-short-michael-burry-sells-gamestop-palantir-short-nvidia-tech-2026-5",
-      "source": "Business Insider",
-      "domain": "businessinsider.com",
-      "published_at": "2026-05-05T12:35:03Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "8953f7eb58b0bbe5",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2594,7 +2559,7 @@
       "source": "MacRumors",
       "domain": "macrumors.com",
       "published_at": "2026-05-05T09:32:48Z",
-      "importance": 50,
+      "importance": 45,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -2618,7 +2583,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「半導體先進製程」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     },
     {
       "id": "c77c0275cc8a7ba6",
