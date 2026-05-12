@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-05-11T23:58:34.272588+00:00
+> 更新時間：2026-05-12T04:32:28.495746+00:00
 
 ### 🚀 相干訂單積壓達到2030年：1.6T光學和6吋InP產能加速
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -7,6 +7,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Driven by surging AI computing demand and the industry-wide shift toward higher-bandwidth, lower-power network infrastructure, optical communications company Coherent Corp. says customer orders are growing at an accelerated pace, with its backlog reaching a r…
 - [原文連結](https://www.digitimes.com/news/a20260508PD217/coherent-capacity-6-inch-optics-demand.html)
+
+---
+
+### ⚖️ Gemtek第一季虧損，轉向800G和1.6T光模組
+- **題材**: `光通訊與矽光子` | **重要性**: `78`
+- **來源**: Digitimes (2026-05-11T03:01:22Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 正晶科技宣布，第一季綜合營收為新台幣 31.12 億元（合 9,910 萬美元），毛利率為 10.4%，但由於策略重組和原材料壓力影響業績，公司轉為淨虧損。網路中…
+- [原文連結](https://www.digitimes.com/news/a20260511PD220/revenue-loss-gemtek-gross-margin-shipments.html)
 
 ---
 
@@ -46,15 +55,6 @@
 
 ---
 
-### 🚀 隨著商品 DRAM 價格飆升，三星領先 SK 海力士
-- **題材**: `HBM記憶體` | **重要性**: `73`
-- **來源**: Digitimes (2026-05-04T03:22:47Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 三星電子和 SK 海力士都正經歷歷史性的記憶體升級週期，但這兩家韓國晶片製造商之間已出現約 15 兆韓元（約 100 億美元）的利潤差距，這主要是由商品 DRAM 而不是高頻寬記憶體 (HBM) 推動的…
-- [原文連結](https://www.digitimes.com/news/a20260504VL202/samsung-sk-hynix-dram-hbm4-price.html)
-
----
-
 ### 🚀 GLOBALFOUNDRIES Inc. 2026 年第一季財報電話會議摘要
 - **題材**: `光通訊與矽光子` | **重要性**: `70`
 - **來源**: Moby.co (2026-05-05T16:44:10Z)
@@ -64,12 +64,12 @@
 
 ---
 
-### 🚀 AI's 1.6T shift turns InP into optical supply chain bottleneck
-- **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-05-04T04:22:04Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: The transition from 800G to 1.6T optical modules is no longer an upgrade cycle — it is a physics-driven inflection point.
-- [原文連結](https://www.digitimes.com/news/a20260504VL207/optical-components-rare-earth-siph-supply-chain.html)
+### ⚖️ DIGITIMES Insight：聯發科否認與英特爾的聯繫，台積電封裝領先面臨新考驗
+- **題材**: `半導體先進製程` | **重要性**: `68`
+- **來源**: Digitimes (2026-05-11T04:14:54Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: DIGITIMES 高級分析師 Luke Lin 表示，華倫巴菲特對蘋果的投資不應被簡單地視為股票交易，而應被視為對該公司及其執行長 Tim Cook 領導下的押注。
+- [原文連結](https://www.digitimes.com/news/a20260511PD208/digitimes-tsmc-mediatek-intel-packaging.html)
 
 ---
 
@@ -91,12 +91,21 @@
 
 ---
 
-### 🚀 美光躍升 7%：記憶體製造商現在是結構人工智慧的贏家嗎？
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: 24/7 Wall St. (2026-05-04T15:28:18Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 美光科技 (NASDAQ:MU) 股價週一早盤上漲 7%，週五收在 542.21 美元，換手價格約 579 美元。此舉延長...
-- [原文連結](https://247wallst.com/investing/2026/05/04/micron-jumps-7-is-the-memory-maker-now-a-structural-ai-winner/)
+### ⚖️ 軟銀、英特爾針對 9 層記憶體的 HBM 限制
+- **題材**: `HBM記憶體` | **重要性**: `63`
+- **來源**: Digitimes (2026-05-06T00:01:26Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 隨著人工智慧硬體產業尋求緩解高頻寬記憶體功耗和熱量限制的方法，軟銀的記憶體部門 SAIMEMORY 正準備推出與英特爾共同開發的新型 3D DRAM 技術。
+- [原文連結](https://www.digitimes.com/news/a20260505VL214/intel-hbm-technology-3d-dram.html)
+
+---
+
+### ⚖️ 川普駁回伊朗結束戰爭的提議後油價上漲
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: BBC News (2026-05-11T00:08:03Z)
+- **AI 判讀**: 屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 霍爾木茲海峽貿易路線實際上仍然關閉，擾亂了全球能源運輸。
+- [原文連結](https://www.bbc.com/news/articles/ckgp4ev4yg4o)
 
 ---
 
@@ -169,15 +178,6 @@
 - **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 商用個人電腦需求預計將緩解更廣泛的經濟放緩
 - [原文連結](https://www.theregister.com/personal-tech/2026/05/06/amd-warns-rising-memory-costs-will-hit-pc-shipments/5231063)
-
----
-
-### ⚖️ 英偉達現在的本益比是你對一隻不受歡迎的工業股票的預期——而不是世界上最強大的人工智慧公司
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: 24/7 Wall St. (2026-05-06T13:44:33Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: NVIDIA（納斯達克股票代碼：NVDA）的股價為 196.50 美元，處於一個有趣的水平。 「五月出售並離開」的本能與新創公司抱怨的人工智慧資本支出週期發生衝突...
-- [原文連結](https://247wallst.com/investing/2026/05/06/nvidia-now-trades-at-a-multiple-youd-expect-on-an-unloved-industrial-stock-not-the-worlds-most-powerful-ai-company/)
 
 ---
 
