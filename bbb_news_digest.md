@@ -1,5 +1,14 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-05-13T07:45:33.179653+00:00
+> 更新時間：2026-05-13T11:30:45.369775+00:00
+
+### ⚠️ 台積電CoWoS缺貨推動SK海力士-英特爾2.5D推
+- **題材**: `半導體先進製程` | **重要性**: `83`
+- **來源**: Digitimes (2026-05-12T09:17:57Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 據報道，台積電 CoWoS 供應緊張，促使 SK Hynix 與英特爾在先進封裝方面合作，因為該行業希望實現 AI 加速器的 2.5D 封裝供應鏈多元化。
+- [原文連結](https://www.digitimes.com/news/a20260512PD235/tsmc-packaging-sk-hynix-cowos-intel.html)
+
+---
 
 ### 🚀 相干訂單積壓達到2030年：1.6T光學和6吋InP產能加速
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -34,6 +43,15 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 先前有報告指出 SK 正在與英特爾一起使用英特爾的 EMIB 技術進行 2.5D 封裝的研發。
 - [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-shares-surge-to-all-time-high-on-reports-of-intel-emib-partnership)
+
+---
+
+### 🚀 亞馬遜競相打造「面向未來」的人工智慧資料中心，以實現耗電新技術
+- **題材**: `AI伺服器` | **重要性**: `75`
+- **來源**: Business Insider (2026-05-12T09:00:01Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 亞馬遜今年計畫資本支出 2,000 億美元。其中很大一部分用於人工智慧資料中心。 Titus 計劃讓這些設施「面向未來」。
+- [原文連結](https://www.businessinsider.com/amazon-titus-future-proof-ai-data-centers-nvidia-gpus-servers-2026-5)
 
 ---
 
@@ -91,6 +109,15 @@
 
 ---
 
+### ⚠️ 關稅退款即將開始推出。顧客想要他們的切分。
+- **題材**: `總體風險` | **重要性**: `65`
+- **來源**: Business Insider (2026-05-12T09:33:01Z)
+- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 客戶正在就 IEEPA 關稅退款起訴 Nike 和其他公司。隨著退款開始推出，這些公司正面臨訴訟。
+- [原文連結](https://www.businessinsider.com/tariff-refunds-set-to-land-customers-sue-for-a-cut-2026-5)
+
+---
+
 ### ⚠️ 第一波關稅退款明天將影響部分企業
 - **題材**: `總體風險` | **重要性**: `65`
 - **來源**: Abcnews.com (2026-05-11T19:31:42Z)
@@ -109,21 +136,21 @@
 
 ---
 
-### ⚖️ SK hynix 著眼於 HBM 記憶體的 Intel EMIB 2.5D 封裝
-- **題材**: `半導體先進製程` | **重要性**: `65`
-- **來源**: Techpowerup.com (2026-05-11T08:35:14Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: SK hynix 正在與英特爾合作，將其嵌入式多晶片互連橋 (EMIB) 2.5D 封裝技術用於 HBM 記憶體。隨著 SK 海力士致力於實現供應鏈多元化，並且客戶越來越多地考慮英特爾代工，韓國…
-- [原文連結](https://www.techpowerup.com/348926/sk-hynix-eyes-intel-emib-2-5d-packaging-for-hbm-memory)
-
----
-
 ### 🚀 MACOM 技術解決方案第二季財報電話會議亮點
 - **題材**: `光通訊與矽光子` | **重要性**: `65`
 - **來源**: MarketBeat (2026-05-08T09:09:49Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: MACOM Technology Solutions（納斯達克股票代碼：MTSI）公佈 2026 財年第二季營收為 2.89 億美元，調整後每股攤薄收益為 1.09 美元...
 - [原文連結](https://www.marketbeat.com/instant-alerts/macom-technology-solutions-q2-earnings-call-highlights-2026-05-08/?utm_source=yahoofinance&amp;utm_medium=yahoofinance)
+
+---
+
+### 🚀 伊朗戰爭期間燃料成本飆升，通膨報告將顯示最新價格
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Abcnews.com (2026-05-12T09:23:05Z)
+- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 伊朗戰爭導致汽油、機票和其他費用價格上漲。
+- [原文連結](https://abcnews.com/Business/inflation-report-show-latest-prices-fuel-costs-surge/story?id=132842452)
 
 ---
 
@@ -151,33 +178,6 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 代理推理將與我們今天使用的推理不同，它將改變計算基礎設施，因為當人類不參與時，速度並不重要。
 - [原文連結](https://stratechery.com/2026/the-inference-shift/)
-
----
-
-### ⚖️ 川普駁回伊朗結束戰爭的提議後油價上漲
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: BBC News (2026-05-11T00:08:03Z)
-- **AI 判讀**: 屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 霍爾木茲海峽貿易路線實際上仍然關閉，擾亂了全球能源運輸。
-- [原文連結](https://www.bbc.com/news/articles/ckgp4ev4yg4o)
-
----
-
-### ⚠️ RAM 危機不再只是電腦迷的問題
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: MakeUseOf (2026-05-10T13:01:17Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 全球記憶體短缺影響所有科技愛好者。
-- [原文連結](https://www.makeuseof.com/ram-shortage-is-not-just-a-pc-nerd-problem-anymore/)
-
----
-
-### 🚀 “我們正在經歷人類歷史上最大的基礎設施建設”：黃仁勳表示新的 Nvidia AI 合作夥伴關係將“重振美國製造業”
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: TechRadar (2026-05-08T17:25:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 英偉達執行長黃仁勳表示，與康寧的新合作關係對於全國人工智慧的進步至關重要。
-- [原文連結](https://www.techradar.com/pro/were-going-through-the-single-largest-infrastructure-buildout-in-human-history-jensen-huang-says-new-nvidia-ai-partnership-will-revitalize-american-manufacturing)
 
 ---
 
