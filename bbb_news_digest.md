@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-05-12T23:59:44.153740+00:00
+> 更新時間：2026-05-13T04:39:03.976657+00:00
 
 ### 🚀 相干訂單積壓達到2030年：1.6T光學和6吋InP產能加速
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -37,6 +37,33 @@
 
 ---
 
+### 🚀 三星、SK海力士的利潤超過所有印度上市公司
+- **題材**: `HBM記憶體` | **重要性**: `75`
+- **來源**: The Times of India (2026-05-12T00:07:53Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 韓國晶片製造商三星和 SK 海力士在 2026 年 3 月季度的利潤總額達到創紀錄的 597 億美元，超過了印度公司之前任何一個季度的利潤總額。這一激增是由蓬勃發展的人工智慧資本支出推動的，其中內存...
+- [原文連結](https://economictimes.indiatimes.com/markets/us-stocks/news/samsung-sk-hynix-earn-more-profit-than-all-of-listed-india-inc/articleshow/131025961.cms)
+
+---
+
+### ⚖️ Altos 以軟體優勢瞄準韓國人工智慧伺服器市場
+- **題材**: `AI伺服器` | **重要性**: `73`
+- **來源**: Digitimes (2026-05-12T04:03:52Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 宏碁旗下人工智慧伺服器子公司AltosComputing瞄準了韓國相對成熟的高階運算需求，推出了基於Nvidia Blackwell架構的旗艦系統。該公司還依靠其內部 Altos aiWorks 軟體作為關鍵…
+- [原文連結](https://www.digitimes.com/news/a20260512PD209/altos-computing-south-korea-ai-server-market.html)
+
+---
+
+### ⚖️ 據報道，台積電將推動 CoPoS 獨家經營權，以鎖定下一代封裝領先地位
+- **題材**: `半導體先進製程` | **重要性**: `73`
+- **來源**: Digitimes (2026-05-08T07:49:55Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 台積電正在加速擴大其CoWoS先進封裝產能，同時推進技術要求更高的面板級封裝技術CoPoS，旨在擴大在AI半導體競賽中對競爭對手的領先優勢。業內人士稱…
+- [原文連結](https://www.digitimes.com/news/a20260508PD207/tsmc-packaging-cowos-expansion-capacity.html)
+
+---
+
 ### 🚀 晶科技看高端光學需求永無止境，1.6T量產將於4Q26
 - **題材**: `光通訊與矽光子` | **重要性**: `73`
 - **來源**: Digitimes (2026-05-07T07:33:22Z)
@@ -46,21 +73,21 @@
 
 ---
 
-### ⚖️ GlobalFoundries 認為光學和 SiGe 勢頭將推動策略飛躍進入高價值晶片市場
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-05-06T01:58:30Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: GlobalFoundries 在 2026 年第一季財報電話會議上重點關注了矽光子學 (SiPh)、共封裝光學 (CPO) 和矽鍺 (SiGe) 開發的進展，同時報告了利潤率的提高和收入的穩定。執行長蒂姆·布林和首席財務官薩姆·弗蘭…
-- [原文連結](https://www.digitimes.com/news/a20260506VL204/globalfoundries-revenue-siph-cpo-2026.html)
+### ⚖️ DIGITIMES Insight：聯發科否認與英特爾的聯繫，台積電封裝領先面臨新考驗
+- **題材**: `半導體先進製程` | **重要性**: `68`
+- **來源**: Digitimes (2026-05-11T04:14:54Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: DIGITIMES 高級分析師 Luke Lin 表示，華倫巴菲特對蘋果的投資不應被簡單地視為股票交易，而應被視為對該公司及其執行長 Tim Cook 領導下的押注。
+- [原文連結](https://www.digitimes.com/news/a20260511PD208/digitimes-tsmc-mediatek-intel-packaging.html)
 
 ---
 
-### ⚖️ 三星與工會就為期 18 天的晶片工廠罷工進行最後談判，罷工可能造成 200 億美元的損失——政府調解的峰會旨在避免可能影響 HBM 生產的工業行動
-- **題材**: `HBM記憶體` | **重要性**: `67`
-- **來源**: Tom's Hardware UK (2026-05-11T13:16:59Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 在二月和三月的前幾輪調解失敗後，雙方正在透過韓國國家勞動關係委員會進行會面。
-- [原文連結](https://www.tomshardware.com/tech-industry/samsung-and-union-resume-talks-10-days-before-planned-18-day-chip-factory-strike)
+### ⚖️ GlobalFoundries 認為光學和 SiGe 勢頭將推動策略飛躍進入高價值晶片市場
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-05-06T01:58:30Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: GlobalFoundries 在 2026 年第一季財報電話會議上重點關注了矽光子學 (SiPh)、共封裝光學 (CPO) 和矽鍺 (SiGe) 開發的進展，同時報告了利潤率的提高和收入的穩定。執行長蒂姆·布林和首席財務官薩姆·弗蘭…
+- [原文連結](https://www.digitimes.com/news/a20260506VL204/globalfoundries-revenue-siph-cpo-2026.html)
 
 ---
 
@@ -82,21 +109,21 @@
 
 ---
 
+### ⚖️ SK hynix 著眼於 HBM 記憶體的 Intel EMIB 2.5D 封裝
+- **題材**: `半導體先進製程` | **重要性**: `65`
+- **來源**: Techpowerup.com (2026-05-11T08:35:14Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: SK hynix 正在與英特爾合作，將其嵌入式多晶片互連橋 (EMIB) 2.5D 封裝技術用於 HBM 記憶體。隨著 SK 海力士致力於實現供應鏈多元化，並且客戶越來越多地考慮英特爾代工，韓國…
+- [原文連結](https://www.techpowerup.com/348926/sk-hynix-eyes-intel-emib-2-5d-packaging-for-hbm-memory)
+
+---
+
 ### 🚀 MACOM 技術解決方案第二季財報電話會議亮點
 - **題材**: `光通訊與矽光子` | **重要性**: `65`
 - **來源**: MarketBeat (2026-05-08T09:09:49Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: MACOM Technology Solutions（納斯達克股票代碼：MTSI）公佈 2026 財年第二季營收為 2.89 億美元，調整後每股攤薄收益為 1.09 美元...
 - [原文連結](https://www.marketbeat.com/instant-alerts/macom-technology-solutions-q2-earnings-call-highlights-2026-05-08/?utm_source=yahoofinance&amp;utm_medium=yahoofinance)
-
----
-
-### 🚀 GLOBALFOUNDRIES Inc. 2026 年第一季財報電話會議摘要
-- **題材**: `光通訊與矽光子` | **重要性**: `65`
-- **來源**: Moby.co (2026-05-05T16:44:10Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: GLOBALFOUNDRIES Inc. 2026 年第一季財報電話會議的 Moby 摘要
-- [原文連結](https://app.moby.co/home/research/tools/earningsCalendar/earnings-globalfoundries-inc-q1-2026-earnings-call-summary?utm_source=yahoo_finance&amp;utm_medium=rss)
 
 ---
 
@@ -145,39 +172,12 @@
 
 ---
 
-### ⚖️ 「衛兵換崗」？ AMD、英特爾和美光飆升，而英偉達落後
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: Slashdot.org (2026-05-10T03:34:00Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 儘管自 2022 年推出 ChatGPT 以來，Nvidia 一直主導著“基礎設施熱潮”和“生成式人工智能熱潮”，但 CNBC 寫道，“本週提供了迄今為止最鮮明的例證，說明瑞穗分析師 Jordan Klein 所說的可能是‘換崗......
-- [原文連結](https://hardware.slashdot.org/story/26/05/10/0214232/changing-of-the-guard-amd-intel-and-micron-soar-while-nvidia-lags)
-
----
-
 ### 🚀 “我們正在經歷人類歷史上最大的基礎設施建設”：黃仁勳表示新的 Nvidia AI 合作夥伴關係將“重振美國製造業”
 - **題材**: `光通訊與矽光子` | **重要性**: `60`
 - **來源**: TechRadar (2026-05-08T17:25:00Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 英偉達執行長黃仁勳表示，與康寧的新合作關係對於全國人工智慧的進步至關重要。
 - [原文連結](https://www.techradar.com/pro/were-going-through-the-single-largest-infrastructure-buildout-in-human-history-jensen-huang-says-new-nvidia-ai-partnership-will-revitalize-american-manufacturing)
-
----
-
-### ⚠️ AI硬碟短缺使得網路歸檔變得更加困難
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: Slashdot.org (2026-05-08T17:00:00Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 一位匿名讀者引用了 404 Media 的一篇報導：人工智慧資料中心的繁榮導致硬碟和儲存成本飆升，使得數位檔案管理員、學者、維基百科和業餘資料囤積者保存資料變得更加昂貴和困難…
-- [原文連結](https://hardware.slashdot.org/story/26/05/08/1619212/ai-hard-drive-shortage-makes-archiving-the-internet-harder)
-
----
-
-### ⚠️ MacRumors Show：蘋果降級 iPhone 18 是因為記憶體不足嗎？
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: MacRumors (2026-05-08T14:47:17Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 在本週的 MacRumors Show 節目中，我們討論了全球內存短缺如何迫使蘋果公司跨過多個關鍵產品、取消配置、推遲發布以及促使做出似乎一年都不太可能的規格決策…
-- [原文連結](https://www.macrumors.com/2026/05/08/the-macrumors-show-is-apple-downgrading-iphone-18/)
 
 ---
 
