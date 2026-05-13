@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-05-13T11:30:45.369775+00:00",
+  "generated_at": "2026-05-13T15:38:44.412334+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 71,
@@ -383,44 +383,6 @@
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
-      "id": "21c73acaa4680609",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "DIGITIMES Insight：聯發科否認與英特爾的聯繫，台積電封裝領先面臨新考驗",
-      "summary": "DIGITIMES 高級分析師 Luke Lin 表示，華倫巴菲特對蘋果的投資不應被簡單地視為股票交易，而應被視為對該公司及其執行長 Tim Cook 領導下的押注。",
-      "original_title": "DIGITIMES Insight: MediaTek denies Intel link as TSMC's packaging lead faces new test",
-      "url": "https://www.digitimes.com/news/a20260511PD208/digitimes-tsmc-mediatek-intel-packaging.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-05-11T04:14:54Z",
-      "importance": 68,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "079c01e498c58d7e",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -470,44 +432,6 @@
       "source": "Business Insider",
       "domain": "businessinsider.com",
       "published_at": "2026-05-12T09:33:01Z",
-      "importance": 65,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "e2abbf9e146d6a98",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "第一波關稅退款明天將影響部分企業",
-      "summary": "官員表示，關稅退款將於 5 月 11 日星期二開始返還給企業。",
-      "original_title": "First wave of tariff refunds will hit some businesses tomorrow",
-      "url": "https://abcnews.com/Business/wave-tariff-refunds-hit-businesses-tomorrow/story?id=132854062",
-      "source": "Abcnews.com",
-      "domain": "abcnews.com",
-      "published_at": "2026-05-11T19:31:42Z",
       "importance": 65,
       "impact": "negative",
       "timeframe": "short_term",
@@ -609,6 +533,44 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "49834256f1eb2830",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "4 月通膨飆升至 2023 年以來最高水平",
+      "summary": "新的CPI報告顯示，4月通膨率飆升至2023年以來的最高水準。",
+      "original_title": "Inflation surged in April to the highest rate since 2023",
+      "url": "https://www.businessinsider.com/cpi-inflation-april-consumer-price-index-2026-5",
+      "source": "Business Insider",
+      "domain": "businessinsider.com",
+      "published_at": "2026-05-12T12:32:28Z",
+      "importance": 60,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "28c2a14100a9e56f",
@@ -790,41 +752,6 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "ea7e64c8a3042689",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "RAM 危機不再只是電腦迷的問題",
-      "summary": "全球記憶體短缺影響所有科技愛好者。",
-      "original_title": "The RAM crisis is not just a PC nerd problem anymore",
-      "url": "https://www.makeuseof.com/ram-shortage-is-not-just-a-pc-nerd-problem-anymore/",
-      "source": "MakeUseOf",
-      "domain": "makeuseof.com",
-      "published_at": "2026-05-10T13:01:17Z",
-      "importance": 60,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "724933cbd2530569",
@@ -1049,32 +976,32 @@
       "reason": "屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "eb18eedb833df9a8",
+      "id": "04aef9893ab07ae1",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "英偉達現在的本益比是你對一隻不受歡迎的工業股票的預期——而不是世界上最強大的人工智慧公司",
-      "summary": "NVIDIA（納斯達克股票代碼：NVDA）的股價為 196.50 美元，處於一個有趣的水平。 「五月出售並離開」的本能與新創公司抱怨的人工智慧資本支出週期發生衝突...",
-      "original_title": "NVIDIA Now Trades at a Multiple You’d Expect on an Unloved Industrial Stock — Not the World’s Most Powerful AI Company",
-      "url": "https://247wallst.com/investing/2026/05/06/nvidia-now-trades-at-a-multiple-youd-expect-on-an-unloved-industrial-stock-not-the-worlds-most-powerful-ai-company/",
-      "source": "24/7 Wall St.",
-      "domain": "247wallst.com",
-      "published_at": "2026-05-06T13:44:33Z",
-      "importance": 60,
+      "theme": "半導體先進製程",
+      "title": "2nm 晶片組將搶盡風頭，但這就是為什麼我們應該關注 3nm 天璣 8600",
+      "summary": "一句話：就是錢的問題。",
+      "original_title": "2nm chipsets will steal the show, but here's why we should pay attention to the 3nm Dimensity 8600",
+      "url": "https://www.phonearena.com/news/why-we-should-pay-attention-to-the-3nm-dimensity-8600_id180283",
+      "source": "PhoneArena",
+      "domain": "phonearena.com",
+      "published_at": "2026-05-12T13:01:29Z",
+      "importance": 55,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
+        "半導體",
+        "CoWoS",
+        "先進製程"
       ],
       "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
       ],
       "related_models": [
         "003",
@@ -1084,7 +1011,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "76c3f434ce564a8b",
@@ -1380,6 +1307,41 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "ea7e64c8a3042689",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "RAM 危機不再只是電腦迷的問題",
+      "summary": "全球記憶體短缺影響所有科技愛好者。",
+      "original_title": "The RAM crisis is not just a PC nerd problem anymore",
+      "url": "https://www.makeuseof.com/ram-shortage-is-not-just-a-pc-nerd-problem-anymore/",
+      "source": "MakeUseOf",
+      "domain": "makeuseof.com",
+      "published_at": "2026-05-10T13:01:17Z",
+      "importance": 55,
+      "impact": "negative",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "084609a0569dc524",
@@ -1946,32 +1908,32 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "e9b070982e3628a2",
+      "id": "eb18eedb833df9a8",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "榮耀600系列以大折扣和流行文化改造登陸英國",
-      "summary": "榮耀 600 系列現已在英國正式上市，起價為 370 英鎊，具有旗艦風格的規格，並可享受 200 英鎊的首發折扣。",
-      "original_title": "Honor 600 series hits the UK with big discounts and a pop culture makeover",
-      "url": "https://www.androidcentral.com/phones/honor-phones/honor-600-series-hits-the-uk-with-big-discounts-and-a-pop-culture-makeover",
-      "source": "Android Central",
-      "domain": "androidcentral.com",
-      "published_at": "2026-05-06T15:23:04Z",
+      "theme": "AI伺服器",
+      "title": "英偉達現在的本益比是你對一隻不受歡迎的工業股票的預期——而不是世界上最強大的人工智慧公司",
+      "summary": "NVIDIA（納斯達克股票代碼：NVDA）的股價為 196.50 美元，處於一個有趣的水平。 「五月出售並離開」的本能與新創公司抱怨的人工智慧資本支出週期發生衝突...",
+      "original_title": "NVIDIA Now Trades at a Multiple You’d Expect on an Unloved Industrial Stock — Not the World’s Most Powerful AI Company",
+      "url": "https://247wallst.com/investing/2026/05/06/nvidia-now-trades-at-a-multiple-youd-expect-on-an-unloved-industrial-stock-not-the-worlds-most-powerful-ai-company/",
+      "source": "24/7 Wall St.",
+      "domain": "247wallst.com",
+      "published_at": "2026-05-06T13:44:33Z",
       "importance": 55,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
+        "AI",
+        "伺服器",
+        "資料中心"
       ],
       "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
       ],
       "related_models": [
         "003",
@@ -1981,7 +1943,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "d1f14c44f8a3b10d",
@@ -2437,32 +2399,32 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "af76ba9b55e725ae",
+      "id": "e9b070982e3628a2",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "特立獨行者和麥芽",
-      "summary": "大衛卡森 (David Carson) 與麥卡倫 (The Macallan) 的持久合作揭示了對直覺、不完美和人手的共同熱愛。當一位因打破規則手冊而聞名的平面設計師與蘇格蘭人聯手時…",
-      "original_title": "The Maverick and the Malt",
-      "url": "http://coolhunting.com/food-drink/the-maverick-and-the-malt/",
-      "source": "Cool Hunting",
-      "domain": "coolhunting.com",
-      "published_at": "2026-05-06T14:29:09Z",
+      "theme": "半導體先進製程",
+      "title": "榮耀600系列以大折扣和流行文化改造登陸英國",
+      "summary": "榮耀 600 系列現已在英國正式上市，起價為 370 英鎊，具有旗艦風格的規格，並可享受 200 英鎊的首發折扣。",
+      "original_title": "Honor 600 series hits the UK with big discounts and a pop culture makeover",
+      "url": "https://www.androidcentral.com/phones/honor-phones/honor-600-series-hits-the-uk-with-big-discounts-and-a-pop-culture-makeover",
+      "source": "Android Central",
+      "domain": "androidcentral.com",
+      "published_at": "2026-05-06T15:23:04Z",
       "importance": 50,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
+        "半導體",
+        "CoWoS",
+        "先進製程"
       ],
       "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
       ],
       "related_models": [
         "003",
@@ -2472,7 +2434,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "478c43f85490c4ad",
@@ -2546,6 +2508,44 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "af76ba9b55e725ae",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "特立獨行者和麥芽",
+      "summary": "大衛卡森 (David Carson) 與麥卡倫 (The Macallan) 的持久合作揭示了對直覺、不完美和人手的共同熱愛。當一位因打破規則手冊而聞名的平面設計師與蘇格蘭人聯手時…",
+      "original_title": "The Maverick and the Malt",
+      "url": "http://coolhunting.com/food-drink/the-maverick-and-the-malt/",
+      "source": "Cool Hunting",
+      "domain": "coolhunting.com",
+      "published_at": "2026-05-06T14:29:09Z",
+      "importance": 45,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     },
     {
       "id": "9702ba68bac154ff",
