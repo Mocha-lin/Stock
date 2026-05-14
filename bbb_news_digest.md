@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-05-14T04:37:30.738872+00:00
+> 更新時間：2026-05-14T07:37:46.972040+00:00
 
 ### ⚠️ 台積電CoWoS缺貨推動SK海力士-英特爾2.5D推
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -25,6 +25,15 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 先前有報告指出 SK 正在與英特爾一起使用英特爾的 EMIB 技術進行 2.5D 封裝的研發。
 - [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-shares-surge-to-all-time-high-on-reports-of-intel-emib-partnership)
+
+---
+
+### ⚖️ 哪隻光學股票在 2026 年佔據主導地位：Applied Opto electronics、Lumentum 還是 Coherent？
+- **題材**: `光通訊與矽光子` | **重要性**: `75`
+- **來源**: 24/7 Wall St. (2026-05-12T19:07:55Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 光學綜合體是 2026 年人工智慧基礎設施產業最有價值的領域之一，三位領導者之間的差距之大令人驚訝...
+- [原文連結](https://247wallst.com/investing/2026/05/12/which-optics-stock-has-dominated-in-2026-applied-optoelectronics-lumentum-or-coherent/)
 
 ---
 
@@ -82,15 +91,6 @@
 
 ---
 
-### 🚀 晶科技看高端光學需求永無止境，1.6T量產將於4Q26
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-05-07T07:33:22Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 網路設備製造商正茂科技繼2025年推出800G線性驅動可插拔光學（LPO）光模組後，4月6日宣布，已成功開發出新一代1.6T八進位小型可插拔（OSFP）光模組。
-- [原文連結](https://www.digitimes.com/news/a20260507PD200/equipment-gemtek-demand-production-high-end.html)
-
----
-
 ### 🚀 Msscorps 因轉向矽光子學檢查而第一季出現虧損
 - **題材**: `光通訊與矽光子` | **重要性**: `73`
 - **來源**: Digitimes (2026-05-07T03:53:35Z)
@@ -100,12 +100,21 @@
 
 ---
 
-### ⚖️ 明基材料押注 CPO 和 microLED 推動光通訊發展
+### 🚀 人工智慧第一大瓶頸飆升 497%
+- **題材**: `HBM記憶體` | **重要性**: `70`
+- **來源**: 24/7 Wall St. (2026-05-12T17:22:43Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 人工智慧有一種有趣的方式，可以將不起眼的硬體組件變成經濟王者。一年前，大多數投資者幾乎沒有想到 DRAM...
+- [原文連結](https://247wallst.com/investing/2026/05/12/artificial-intelligences-no-1-bottleneck-just-surged-497/)
+
+---
+
+### 🚀 晶科技看高端光學需求永無止境，1.6T量產將於4Q26
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-05-08T02:29:03Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 隨著明基材料進軍共封裝光學 (CPO) 和 microLED 領域，其多角化經營開始獲得回報。這家偏光片製造商表示，其子公司 Cenefom 的化學機械拋光 (CMP) 輪已進入台灣內存晶片供應鏈…
-- [原文連結](https://www.digitimes.com/news/a20260506PD235/benq-materials-cpo-microled-communications-demand.html)
+- **來源**: Digitimes (2026-05-07T07:33:22Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 網路設備製造商正茂科技繼2025年推出800G線性驅動可插拔光學（LPO）光模組後，4月6日宣布，已成功開發出新一代1.6T八進位小型可插拔（OSFP）光模組。
+- [原文連結](https://www.digitimes.com/news/a20260507PD200/equipment-gemtek-demand-production-high-end.html)
 
 ---
 
@@ -169,15 +178,6 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 三星製造廠計劃舉行的罷工不會讓供應鏈滿意。
 - [原文連結](https://gizmodo.com/imminent-samsung-strike-could-be-an-earthquake-for-ai-2000757819)
-
----
-
-### 🚀 4 月通膨飆升至 2023 年以來最高水平
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Business Insider (2026-05-12T12:32:28Z)
-- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 新的CPI報告顯示，4月通膨率飆升至2023年以來的最高水準。
-- [原文連結](https://www.businessinsider.com/cpi-inflation-april-consumer-price-index-2026-5)
 
 ---
 
