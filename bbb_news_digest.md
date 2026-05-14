@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-05-14T15:12:50.440018+00:00
+> 更新時間：2026-05-14T18:27:12.106448+00:00
 
 ### ⚠️ 台積電CoWoS缺貨推動SK海力士-英特爾2.5D推
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -10,30 +10,12 @@
 
 ---
 
-### 🚀 相干訂單積壓達到2030年：1.6T光學和6吋InP產能加速
-- **題材**: `光通訊與矽光子` | **重要性**: `83`
-- **來源**: Digitimes (2026-05-08T06:51:14Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Driven by surging AI computing demand and the industry-wide shift toward higher-bandwidth, lower-power network infrastructure, optical communications company Coherent Corp. says customer orders are growing at an accelerated pace, with its backlog reaching a r…
-- [原文連結](https://www.digitimes.com/news/a20260508PD217/coherent-capacity-6-inch-optics-demand.html)
-
----
-
 ### 🚀 亞馬遜競相打造「面向未來」的人工智慧資料中心，以實現耗電新技術
 - **題材**: `AI伺服器` | **重要性**: `75`
 - **來源**: Business Insider (2026-05-12T09:00:01Z)
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 亞馬遜今年計畫資本支出 2,000 億美元。其中很大一部分用於人工智慧資料中心。 Titus 計劃讓這些設施「面向未來」。
 - [原文連結](https://www.businessinsider.com/amazon-titus-future-proof-ai-data-centers-nvidia-gpus-servers-2026-5)
-
----
-
-### 🚀 三星、SK海力士的利潤超過所有印度上市公司
-- **題材**: `HBM記憶體` | **重要性**: `75`
-- **來源**: The Times of India (2026-05-12T00:07:53Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 韓國晶片製造商三星和 SK 海力士在 2026 年 3 月季度的利潤總額達到創紀錄的 597 億美元，超過了印度公司之前任何一個季度的利潤總額。這一激增是由蓬勃發展的人工智慧資本支出推動的，其中內存...
-- [原文連結](https://economictimes.indiatimes.com/markets/us-stocks/news/samsung-sk-hynix-earn-more-profit-than-all-of-listed-india-inc/articleshow/131025961.cms)
 
 ---
 
@@ -151,6 +133,24 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: MACOM Technology Solutions（納斯達克股票代碼：MTSI）公佈 2026 財年第二季營收為 2.89 億美元，調整後每股攤薄收益為 1.09 美元...
 - [原文連結](https://www.marketbeat.com/instant-alerts/macom-technology-solutions-q2-earnings-call-highlights-2026-05-08/?utm_source=yahoofinance&amp;utm_medium=yahoofinance)
+
+---
+
+### 🚀 那斯達克指數飆漲逾 1%；第四季業績公佈後，阿里巴巴股價上漲
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-05-13T17:42:42Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 美國股市在交易中漲跌互現，納斯達克綜合指數週三上漲超過 1%。道瓊指數下跌 0.24%，至 49,638.96 點，而...
+- [原文連結](https://finance.yahoo.com/news/nasdaq-surges-over-1-alibaba-174242926.html)
+
+---
+
+### ⚖️ 億萬富翁 David Tepper 認為美光科技 (MU) 是最好的人工智慧股票嗎？
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-05-13T17:02:13Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 億萬富翁 David Tepper 表示，美光科技公司（納斯達克股票代碼：MU）是 2026 年最值得買的人工智慧股票之一。 5月10日，美光科技...
+- [原文連結](https://finance.yahoo.com/news/micron-technology-inc-mu-best-170213870.html)
 
 ---
 
