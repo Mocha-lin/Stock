@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-05-14T18:27:12.106448+00:00
+> 更新時間：2026-05-14T20:22:08.681441+00:00
 
 ### ⚠️ 台積電CoWoS缺貨推動SK海力士-英特爾2.5D推
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -118,21 +118,21 @@
 
 ---
 
-### ⚠️ 第一波關稅退款明天將影響部分企業
-- **題材**: `總體風險` | **重要性**: `65`
-- **來源**: Abcnews.com (2026-05-11T19:31:42Z)
-- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 官員表示，關稅退款將於 5 月 11 日星期二開始返還給企業。
-- [原文連結](https://abcnews.com/Business/wave-tariff-refunds-hit-businesses-tomorrow/story?id=132854062)
-
----
-
 ### 🚀 MACOM 技術解決方案第二季財報電話會議亮點
 - **題材**: `光通訊與矽光子` | **重要性**: `65`
 - **來源**: MarketBeat (2026-05-08T09:09:49Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: MACOM Technology Solutions（納斯達克股票代碼：MTSI）公佈 2026 財年第二季營收為 2.89 億美元，調整後每股攤薄收益為 1.09 美元...
 - [原文連結](https://www.marketbeat.com/instant-alerts/macom-technology-solutions-q2-earnings-call-highlights-2026-05-08/?utm_source=yahoofinance&amp;utm_medium=yahoofinance)
+
+---
+
+### 🚀 沃什獲得聯準會主席提名，通膨抬頭
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-05-13T18:50:50Z)
+- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 參議院週三投票確認凱文沃什 (Kevin Warsh) 擔任美聯儲主席，為這位律師、金融家和前央行主席鋪平了道路…
+- [原文連結](https://finance.yahoo.com/news/warsh-wins-confirmation-fed-chair-185050168.html)
 
 ---
 
