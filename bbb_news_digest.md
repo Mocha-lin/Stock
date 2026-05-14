@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-05-14T07:37:46.972040+00:00
+> 更新時間：2026-05-14T11:14:02.556023+00:00
 
 ### ⚠️ 台積電CoWoS缺貨推動SK海力士-英特爾2.5D推
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -16,15 +16,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Driven by surging AI computing demand and the industry-wide shift toward higher-bandwidth, lower-power network infrastructure, optical communications company Coherent Corp. says customer orders are growing at an accelerated pace, with its backlog reaching a r…
 - [原文連結](https://www.digitimes.com/news/a20260508PD217/coherent-capacity-6-inch-optics-demand.html)
-
----
-
-### 🚀 晶片封裝合作報道傳出後，英特爾、SK 海力士股價飆升——據說 SK 正在測試英特爾 2.5D EMIB 的 HBM 集成
-- **題材**: `半導體先進製程` | **重要性**: `77`
-- **來源**: Tom's Hardware UK (2026-05-11T11:08:28Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 先前有報告指出 SK 正在與英特爾一起使用英特爾的 EMIB 技術進行 2.5D 封裝的研發。
-- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-shares-surge-to-all-time-high-on-reports-of-intel-emib-partnership)
 
 ---
 
@@ -100,6 +91,15 @@
 
 ---
 
+### 🚀 晶片封裝合作報道傳出後，英特爾、SK 海力士股價飆升——據說 SK 正在測試英特爾 2.5D EMIB 的 HBM 集成
+- **題材**: `半導體先進製程` | **重要性**: `72`
+- **來源**: Tom's Hardware UK (2026-05-11T11:08:28Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 先前有報告指出 SK 正在與英特爾一起使用英特爾的 EMIB 技術進行 2.5D 封裝的研發。
+- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-shares-surge-to-all-time-high-on-reports-of-intel-emib-partnership)
+
+---
+
 ### 🚀 人工智慧第一大瓶頸飆升 497%
 - **題材**: `HBM記憶體` | **重要性**: `70`
 - **來源**: 24/7 Wall St. (2026-05-12T17:22:43Z)
@@ -172,12 +172,12 @@
 
 ---
 
-### ⚖️ 即將到來的三星罷工可能是人工智慧的一場地震
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: Gizmodo.com (2026-05-13T01:09:28Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 三星製造廠計劃舉行的罷工不會讓供應鏈滿意。
-- [原文連結](https://gizmodo.com/imminent-samsung-strike-could-be-an-earthquake-for-ai-2000757819)
+### ⚖️ 為什麼 Marvell Technology (MRVL) 在 AI 連接和客製化晶片領域取得進展
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-05-13T10:56:39Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Marvell Technology, Inc.（納斯達克股票代碼：MRVL）是目前最值得購買的人工智慧推動者股票之一。更強大的人工智慧基礎設施角度出現在 4 月 22 日，當時 Marvell...
+- [原文連結](https://finance.yahoo.com/news/why-marvell-technology-mrvl-gaining-105639691.html)
 
 ---
 
