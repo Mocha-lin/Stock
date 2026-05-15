@@ -1,12 +1,12 @@
 {
   "id": "7828",
   "name": "創新服務",
-  "lastUpdated": "2026-05-14 17:29:22",
+  "lastUpdated": "2026-05-15 17:42:03",
   "ai_model": "Fact-Update",
   "basicInfo": {
-    "price": "1275.00",
-    "change": "-20.00",
-    "changePercent": "-1.54%"
+    "price": "1195.00",
+    "change": "-80.00",
+    "changePercent": "-6.27%"
   },
   "financials": {
     "revenue_trend": [
@@ -32,14 +32,14 @@
     "eps_table": [
       {
         "period": "2026Q1",
-        "gross_margin_pct": null,
-        "net_margin_pct": null,
-        "opm_pct": null,
+        "gross_margin_pct": 80.18032808416187,
+        "net_margin_pct": 30.763472070817848,
+        "opm_pct": 25.30240743902599,
         "eps": 1.02,
         "eps_ytd": 1.02,
-        "gross": null,
-        "net": null,
-        "opm": null
+        "gross": 80.18032808416187,
+        "net": 30.763472070817848,
+        "opm": 25.30240743902599
       },
       {
         "period": "2025Q4",
@@ -318,10 +318,10 @@
       {
         "period": "2026Q1",
         "deadline": "2026-05-15",
-        "price_basis": "asof往前3日(暫代)",
-        "avg_close_3d": 1305.0,
+        "price_basis": "公告後3日",
+        "avg_close_3d": 1195.0,
         "ttm_eps": 7.33,
-        "pe": 178.0354706684857
+        "pe": 163.0286493860846
       },
       {
         "period": "2025Q4",
@@ -334,7 +334,7 @@
     ],
     "capital_table": [
       {
-        "report_date": "2025-12-31",
+        "report_date": "2026-03-31",
         "capital_value_raw": 366859000.0,
         "par_value": 10,
         "shares_lots": 366859,
@@ -342,6 +342,14 @@
       }
     ],
     "chips_table": [
+      {
+        "date": "2026-05-15",
+        "foreign_lots": -3.224,
+        "it_lots": 0.0,
+        "dealer_lots": 0.0,
+        "sum_lots": -3.224,
+        "pct_float": -0.0008788117505635681
+      },
       {
         "date": "2026-05-14",
         "foreign_lots": -3.999,
@@ -453,14 +461,6 @@
         "dealer_lots": 1.0,
         "sum_lots": -33.901,
         "pct_float": -0.00924088001112144
-      },
-      {
-        "date": "2026-04-23",
-        "foreign_lots": -39.999,
-        "it_lots": 0.0,
-        "dealer_lots": -6.0,
-        "sum_lots": -45.999,
-        "pct_float": -0.012538604750053837
       }
     ],
     "c_score_data": {
@@ -468,7 +468,7 @@
       "dataset": "structure_c_score",
       "stock_id": "7828",
       "ticker": "7828.TWO",
-      "asof": "2026-05-14",
+      "asof": "2026-05-15",
       "c_score": 1.0,
       "benchmark_pe": 82.28598646606662,
       "source": [
@@ -587,8 +587,8 @@
     "returns_table": [
       {
         "year": 2026,
-        "return_pct": 136.11111111111111,
-        "period": "01/02~05/14"
+        "return_pct": 121.29629629629628,
+        "period": "01/02~05/15"
       },
       {
         "year": 2025,
@@ -597,27 +597,6 @@
       }
     ],
     "kline_data": [
-      {
-        "date": "2025-11-11",
-        "symbol": "7828.TWO",
-        "open": 412.0,
-        "high": 412.0,
-        "low": 356.0,
-        "close": 366.5,
-        "volume": 399213,
-        "adjclose": 366.5,
-        "dividends": 0.0,
-        "MA5": 401.1,
-        "MA20": 382.9,
-        "MA60": 415.94166666666666,
-        "bb_mid": 382.9,
-        "bb_up": 431.84343674079486,
-        "bb_dn": 333.9565632592051,
-        "DIF": -1.645122932883794,
-        "DEA": -4.545001835409574,
-        "HIST": 5.799757805051559,
-        "volume_lot": 399.213
-      },
       {
         "date": "2025-11-12",
         "symbol": "7828.TWO",
@@ -3103,7 +3082,7 @@
         "high": 1320.0,
         "low": 1255.0,
         "close": 1275.0,
-        "volume": 355397,
+        "volume": 355746,
         "adjclose": 1275.0,
         "dividends": 0.0,
         "MA5": 1251.0,
@@ -3115,7 +3094,28 @@
         "DIF": -10.493906919201208,
         "DEA": -2.2599403199424755,
         "HIST": -16.467933198517464,
-        "volume_lot": 355.397
+        "volume_lot": 355.746
+      },
+      {
+        "date": "2026-05-15",
+        "symbol": "7828.TWO",
+        "open": 1300.0,
+        "high": 1305.0,
+        "low": 1180.0,
+        "close": 1195.0,
+        "volume": 303227,
+        "adjclose": 1195.0,
+        "dividends": 0.0,
+        "MA5": 1267.0,
+        "MA20": 1319.25,
+        "MA60": 1225.3333333333333,
+        "bb_mid": 1319.25,
+        "bb_up": 1632.8145866484324,
+        "bb_dn": 1005.6854133515676,
+        "DIF": -15.99119729788481,
+        "DEA": -5.006191715530942,
+        "HIST": -21.97001116470773,
+        "volume_lot": 303.227
       }
     ],
     "valuation": {
