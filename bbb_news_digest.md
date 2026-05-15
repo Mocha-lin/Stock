@@ -1,5 +1,14 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-05-15T04:44:32.125105+00:00
+> 更新時間：2026-05-15T07:49:04.507868+00:00
+
+### 🚀 隨著人工智慧需求的加速，Tower Semiconductor 獲得 13 億美元的矽光子承諾
+- **題材**: `光通訊與矽光子` | **重要性**: `88`
+- **來源**: Digitimes (2026-05-14T06:52:30Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重大事件】可能顯著影響產業評價、EPS預期或資金流向。
+- **摘要**: Tower Semiconductor 公佈 2026 年開局強勁，營收實現兩位數成長，淨利大幅躍升。繼第一季度“穩健”之後，該公司發布了第二季度的指導意見，這將代表...
+- [原文連結](https://www.digitimes.com/news/a20260514VL206/tower-semiconductor-photonics-silicon-revenue-demand.html)
+
+---
 
 ### 🚀 AI伺服器追蹤：隨著AI伺服器需求增強BMC市場前景，ASPEED看到持續成長
 - **題材**: `AI伺服器` | **重要性**: `88`
@@ -19,30 +28,21 @@
 
 ---
 
+### ⚖️ 台積電研討會聚焦人工智慧擴展和先進封裝需求
+- **題材**: `半導體先進製程` | **重要性**: `78`
+- **來源**: Digitimes (2026-05-14T07:07:57Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 台積電北美站結束後，於 2026 年 5 月 14 日在新竹舉行年度技術研討會，高層指出，人工智慧應用正從雲端資料中心快速擴展到邊緣設備，推動半導體運算設備需求激增。
+- [原文連結](https://www.digitimes.com/news/a20260514PD231/tsmc-technology-packaging-demand-2026.html)
+
+---
+
 ### 🚀 相干訂單積壓達到2030年：1.6T光學和6吋InP產能加速
-- **題材**: `光通訊與矽光子` | **重要性**: `83`
+- **題材**: `光通訊與矽光子` | **重要性**: `78`
 - **來源**: Digitimes (2026-05-08T06:51:14Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 在人工智慧運算需求激增以及全行業向更高頻寬、更低功耗網路基礎設施轉變的推動下，光通訊公司相干公司 (Coherent Corp.) 表示，客戶訂單正在加速成長，其積壓訂單已達到...
 - [原文連結](https://www.digitimes.com/news/a20260508PD217/coherent-capacity-6-inch-optics-demand.html)
-
----
-
-### 🚀 谷歌推出 CoWoS 替代品，聯發科技向英特爾求愛
-- **題材**: `半導體先進製程` | **重要性**: `78`
-- **來源**: Digitimes (2026-05-14T01:41:59Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 聯發科決定與台積電的 CoWoS 生態系統和英特爾的 EMIB 平台尋求先進封裝合作夥伴關係，已成為半導體產業最受關注的策略舉措之一。
-- [原文連結](https://www.digitimes.com/news/a20260514PD217/mediatek-intel-asic-cowos-emib.html)
-
----
-
-### 🚀 台灣人工智慧伺服器銷售成長超越台積電
-- **題材**: `AI伺服器` | **重要性**: `78`
-- **來源**: Digitimes (2026-05-12T06:29:38Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 台灣人工智慧伺服器供應鏈四月份的銷售再次強勁，成長從台積電的晶片製造基地延伸到伺服器組裝商以及冷卻、電路板材料、導軌套件和伺服器管理晶片的供應商。
-- [原文連結](https://www.digitimes.com/news/a20260512VL212/taiwan-monthly-tracker-odm-ems-ai-server-sales-supply-chain.html)
 
 ---
 
@@ -52,15 +52,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 5 月 13 日：Tower Semiconductor 週三預測第二季營收高於預期，並表示 2027 年達成了 13 億美元的交易，供應利用光線透過人工智慧資料中心高速傳輸資料的晶片。
 - [原文連結](https://www.channelnewsasia.com/business/tower-semi-forecasts-upbeat-quarterly-revenue-signs-13-billion-in-ai-chip-deals-6118706)
-
----
-
-### ⚖️ 哪隻光學股票在 2026 年佔據主導地位：Applied Opto electronics、Lumentum 還是 Coherent？
-- **題材**: `光通訊與矽光子` | **重要性**: `75`
-- **來源**: 24/7 Wall St. (2026-05-12T19:07:55Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 光學綜合體是 2026 年人工智慧基礎設施產業最有價值的領域之一，三位領導者之間的差距之大令人驚訝...
-- [原文連結](https://247wallst.com/investing/2026/05/12/which-optics-stock-has-dominated-in-2026-applied-optoelectronics-lumentum-or-coherent/)
 
 ---
 
@@ -88,15 +79,6 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 台積電正在加速擴大其CoWoS先進封裝產能，同時推進技術要求更高的面板級封裝技術CoPoS，旨在擴大在AI半導體競賽中對競爭對手的領先優勢。業內人士稱…
 - [原文連結](https://www.digitimes.com/news/a20260508PD207/tsmc-packaging-cowos-expansion-capacity.html)
-
----
-
-### 🚀 Nvidia 對下一代人工智慧冷卻的高風險賭注
-- **題材**: `AI伺服器` | **重要性**: `73`
-- **來源**: Digitimes (2026-05-08T07:25:59Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 據報導，最近幾週人工智慧伺服器行業最受關注的發展之一是英偉達下一代 Vera Rubin 平台的冷卻架構發生了變化，這一轉變已經引發了相關供應商的劇烈波動…
-- [原文連結](https://www.digitimes.com/news/a20260508PD206/nvidia-rubin-cooling-ai-server-design.html)
 
 ---
 
@@ -136,12 +118,30 @@
 
 ---
 
-### 🚀 MacBook Neo 深入探討：基準、晶圓經濟學和 8GB 賭博
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: Jdhodges.com (2026-05-13T18:30:51Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: A18 Pro processor in the $599 MacBook Neo. Geekbench 6 scores 3,569 single-core, between M3 and M4. Full CPU benchmarks, power draw, and thermal analysis.
-- [原文連結](https://www.jdhodges.com/blog/macbook-neo-benchmarks-analysis/)
+### 🚀 Nvidia 對下一代人工智慧冷卻的高風險賭注
+- **題材**: `AI伺服器` | **重要性**: `68`
+- **來源**: Digitimes (2026-05-08T07:25:59Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 據報導，最近幾週人工智慧伺服器行業最受關注的發展之一是英偉達下一代 Vera Rubin 平台的冷卻架構發生了變化，這一轉變已經引發了相關供應商的劇烈波動…
+- [原文連結](https://www.digitimes.com/news/a20260508PD206/nvidia-rubin-cooling-ai-server-design.html)
+
+---
+
+### 🚀 戴爾股價在 2026 年幾乎翻了一番。瑞銀分析師表示，它可能不會再進一步上漲。
+- **題材**: `AI伺服器` | **重要性**: `65`
+- **來源**: Barchart.com (2026-05-13T19:10:31Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 瑞銀認為，戴爾的伺服器需求已經在今年股價幾乎翻倍後反映在股價上。
+- [原文連結](https://www.barchart.com/story/news/1912583/dell-stock-has-nearly-doubled-in-2026-ubs-analysts-say-it-likely-wont-go-any-further)
+
+---
+
+### ⚖️ Tower Semiconductor 第一季財報電話會議亮點
+- **題材**: `光通訊與矽光子` | **重要性**: `65`
+- **來源**: MarketBeat (2026-05-13T18:09:40Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Tower Semiconductor（納斯達克股票代碼：TSEM）公佈 2026 年第一季利潤同比大幅增長，並發布了其所謂的指導...
+- [原文連結](https://www.marketbeat.com/instant-alerts/tower-semiconductor-q1-earnings-call-highlights-2026-05-13/?utm_source=yahoofinance&amp;utm_medium=yahoofinance)
 
 ---
 
