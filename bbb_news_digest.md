@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-05-15T11:22:01.582281+00:00
+> 更新時間：2026-05-15T15:08:57.846748+00:00
 
 ### 🚀 隨著人工智慧需求的加速，Tower Semiconductor 獲得 13 億美元的矽光子承諾
 - **題材**: `光通訊與矽光子` | **重要性**: `88`
@@ -7,15 +7,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重大事件】可能顯著影響產業評價、EPS預期或資金流向。
 - **摘要**: Tower Semiconductor 公佈 2026 年開局強勁，營收實現兩位數成長，淨利大幅躍升。繼第一季度“穩健”之後，該公司發布了第二季度的指導意見，這將代表...
 - [原文連結](https://www.digitimes.com/news/a20260514VL206/tower-semiconductor-photonics-silicon-revenue-demand.html)
-
----
-
-### 🚀 AI伺服器追蹤：隨著AI伺服器需求增強BMC市場前景，ASPEED看到持續成長
-- **題材**: `AI伺服器` | **重要性**: `88`
-- **來源**: Digitimes (2026-05-13T07:44:54Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重大事件】可能顯著影響產業評價、EPS預期或資金流向。
-- **摘要**: 近年來，在全球資料中心基礎架構結構性變化和AI伺服器部署快速擴張的支撐下，ASPEED Technology持續呈現強勁的營收動能。
-- [原文連結](https://www.digitimes.com/news/a20260512VL207/taiwan-monthly-tracker-aspeed-ai-server-demand-market.html)
 
 ---
 
@@ -46,15 +37,6 @@
 
 ---
 
-### 🚀 相干訂單積壓達到2030年：1.6T光學和6吋InP產能加速
-- **題材**: `光通訊與矽光子` | **重要性**: `78`
-- **來源**: Digitimes (2026-05-08T06:51:14Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 在人工智慧運算需求激增以及全行業向更高頻寬、更低功耗網路基礎設施轉變的推動下，光通訊公司相干公司 (Coherent Corp.) 表示，客戶訂單正在加速成長，其積壓訂單已達到...
-- [原文連結](https://www.digitimes.com/news/a20260508PD217/coherent-capacity-6-inch-optics-demand.html)
-
----
-
 ### ⚖️ Gemtek第一季虧損，轉向800G和1.6T光模組
 - **題材**: `光通訊與矽光子` | **重要性**: `73`
 - **來源**: Digitimes (2026-05-11T03:01:22Z)
@@ -70,15 +52,6 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 先前有報告指出 SK 正在與英特爾一起使用英特爾的 EMIB 技術進行 2.5D 封裝的研發。
 - [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-shares-surge-to-all-time-high-on-reports-of-intel-emib-partnership)
-
----
-
-### ⚖️ Tower Semiconductor 簽署 2027 年矽光子收入 13 億美元的客戶合約
-- **題材**: `光通訊與矽光子` | **重要性**: `70`
-- **來源**: GlobeNewswire (2026-05-13T11:19:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 2028 年合約顯示出大幅提高...
-- [原文連結](https://www.globenewswire.com/news-release/2026/05/13/3293875/0/en/Tower-Semiconductor-Signs-Customer-Contracts-for-1-3-Billion-Silicon-Photonics-Revenue-for-2027.html)
 
 ---
 
@@ -124,6 +97,15 @@
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 據報導，最近幾週人工智慧伺服器行業最受關注的發展之一是英偉達下一代 Vera Rubin 平台的冷卻架構發生了變化，這一轉變已經引發了相關供應商的劇烈波動…
 - [原文連結](https://www.digitimes.com/news/a20260508PD206/nvidia-rubin-cooling-ai-server-design.html)
+
+---
+
+### ⚖️ Aeluma 第三季財報電話會議亮點
+- **題材**: `光通訊與矽光子` | **重要性**: `65`
+- **來源**: MarketBeat (2026-05-14T00:13:26Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Aeluma（納斯達克股票代碼：ALMU）高層表示，該公司看到客戶對其作為人工智慧資料中心的光子技術的興趣日益增加...
+- [原文連結](https://www.marketbeat.com/instant-alerts/aeluma-q3-earnings-call-highlights-2026-05-13/?utm_source=yahoofinance&amp;utm_medium=yahoofinance)
 
 ---
 
@@ -178,6 +160,24 @@
 - **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 根據 Counterpoint Research 分享的數據，2026 年第一季蘋果智慧型手機銷量在美國年增 1.3%。蘋果的銷量有所成長，而美國智慧型手機市場整體成長了 5.7%…
 - [原文連結](https://www.macrumors.com/2026/05/13/apple-q1-market-share-growth/)
+
+---
+
+### 🚀 沃什獲得聯準會主席提名，通膨抬頭
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-05-13T18:50:50Z)
+- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 參議院週三投票確認凱文沃什 (Kevin Warsh) 擔任美聯儲主席，為這位律師、金融家和前央行主席鋪平了道路…
+- [原文連結](https://finance.yahoo.com/news/warsh-wins-confirmation-fed-chair-185050168.html)
+
+---
+
+### 🚀 那斯達克指數飆漲逾 1%；第四季業績公佈後，阿里巴巴股價上漲
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-05-13T17:42:42Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 美國股市在交易中漲跌互現，納斯達克綜合指數週三上漲超過 1%。道瓊指數下跌 0.24%，至 49,638.96 點，而...
+- [原文連結](https://finance.yahoo.com/news/nasdaq-surges-over-1-alibaba-174242926.html)
 
 ---
 
