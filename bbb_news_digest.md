@@ -1,5 +1,14 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-05-14T23:58:07.019010+00:00
+> 更新時間：2026-05-15T04:44:32.125105+00:00
+
+### 🚀 AI伺服器追蹤：隨著AI伺服器需求增強BMC市場前景，ASPEED看到持續成長
+- **題材**: `AI伺服器` | **重要性**: `88`
+- **來源**: Digitimes (2026-05-13T07:44:54Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重大事件】可能顯著影響產業評價、EPS預期或資金流向。
+- **摘要**: 近年來，在全球資料中心基礎架構結構性變化和AI伺服器部署快速擴張的支撐下，ASPEED Technology持續呈現強勁的營收動能。
+- [原文連結](https://www.digitimes.com/news/a20260512VL207/taiwan-monthly-tracker-aspeed-ai-server-demand-market.html)
+
+---
 
 ### ⚠️ 台積電CoWoS缺貨推動SK海力士-英特爾2.5D推
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -10,21 +19,57 @@
 
 ---
 
+### 🚀 相干訂單積壓達到2030年：1.6T光學和6吋InP產能加速
+- **題材**: `光通訊與矽光子` | **重要性**: `83`
+- **來源**: Digitimes (2026-05-08T06:51:14Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 在人工智慧運算需求激增以及全行業向更高頻寬、更低功耗網路基礎設施轉變的推動下，光通訊公司相干公司 (Coherent Corp.) 表示，客戶訂單正在加速成長，其積壓訂單已達到...
+- [原文連結](https://www.digitimes.com/news/a20260508PD217/coherent-capacity-6-inch-optics-demand.html)
+
+---
+
+### 🚀 谷歌推出 CoWoS 替代品，聯發科技向英特爾求愛
+- **題材**: `半導體先進製程` | **重要性**: `78`
+- **來源**: Digitimes (2026-05-14T01:41:59Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 聯發科決定與台積電的 CoWoS 生態系統和英特爾的 EMIB 平台尋求先進封裝合作夥伴關係，已成為半導體產業最受關注的策略舉措之一。
+- [原文連結](https://www.digitimes.com/news/a20260514PD217/mediatek-intel-asic-cowos-emib.html)
+
+---
+
+### 🚀 台灣人工智慧伺服器銷售成長超越台積電
+- **題材**: `AI伺服器` | **重要性**: `78`
+- **來源**: Digitimes (2026-05-12T06:29:38Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 台灣人工智慧伺服器供應鏈四月份的銷售再次強勁，成長從台積電的晶片製造基地延伸到伺服器組裝商以及冷卻、電路板材料、導軌套件和伺服器管理晶片的供應商。
+- [原文連結](https://www.digitimes.com/news/a20260512VL212/taiwan-monthly-tracker-odm-ems-ai-server-sales-supply-chain.html)
+
+---
+
+### 🚀 Tower Semi 預測季度營收樂觀，簽署 13 億美元人工智慧晶片交易
+- **題材**: `光通訊與矽光子` | **重要性**: `75`
+- **來源**: CNA (2026-05-13T12:05:29Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 5 月 13 日：Tower Semiconductor 週三預測第二季營收高於預期，並表示 2027 年達成了 13 億美元的交易，供應利用光線透過人工智慧資料中心高速傳輸資料的晶片。
+- [原文連結](https://www.channelnewsasia.com/business/tower-semi-forecasts-upbeat-quarterly-revenue-signs-13-billion-in-ai-chip-deals-6118706)
+
+---
+
+### ⚖️ 哪隻光學股票在 2026 年佔據主導地位：Applied Opto electronics、Lumentum 還是 Coherent？
+- **題材**: `光通訊與矽光子` | **重要性**: `75`
+- **來源**: 24/7 Wall St. (2026-05-12T19:07:55Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 光學綜合體是 2026 年人工智慧基礎設施產業最有價值的領域之一，三位領導者之間的差距之大令人驚訝...
+- [原文連結](https://247wallst.com/investing/2026/05/12/which-optics-stock-has-dominated-in-2026-applied-optoelectronics-lumentum-or-coherent/)
+
+---
+
 ### 🚀 亞馬遜競相打造「面向未來」的人工智慧資料中心，以實現耗電新技術
 - **題材**: `AI伺服器` | **重要性**: `75`
 - **來源**: Business Insider (2026-05-12T09:00:01Z)
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 亞馬遜今年計畫資本支出 2,000 億美元。其中很大一部分用於人工智慧資料中心。 Titus 計劃讓這些設施「面向未來」。
 - [原文連結](https://www.businessinsider.com/amazon-titus-future-proof-ai-data-centers-nvidia-gpus-servers-2026-5)
-
----
-
-### ⚖️ Altos 以軟體優勢瞄準韓國人工智慧伺服器市場
-- **題材**: `AI伺服器` | **重要性**: `73`
-- **來源**: Digitimes (2026-05-12T04:03:52Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 宏碁旗下人工智慧伺服器子公司AltosComputing瞄準了韓國相對成熟的高階運算需求，推出了基於Nvidia Blackwell架構的旗艦系統。該公司還依靠其內部 Altos aiWorks 軟體作為關鍵…
-- [原文連結](https://www.digitimes.com/news/a20260512PD209/altos-computing-south-korea-ai-server-market.html)
 
 ---
 
@@ -46,12 +91,12 @@
 
 ---
 
-### 🚀 Msscorps 因轉向矽光子學檢查而第一季出現虧損
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-05-07T03:53:35Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Msscorps 報告 2026 年第一季合併營收為新台幣 5.79 億元（合 1,846 萬美元），年成長 24.54%，創同期歷史最高紀錄，但仍錄得淨虧損 3,185 萬元新台幣，每股收益連續 0.61 元虧損，連續第三年虧損。
-- [原文連結](https://www.digitimes.com/news/a20260507PD202/revenue-loss-silicon-inspection-photonics.html)
+### 🚀 Nvidia 對下一代人工智慧冷卻的高風險賭注
+- **題材**: `AI伺服器` | **重要性**: `73`
+- **來源**: Digitimes (2026-05-08T07:25:59Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 據報導，最近幾週人工智慧伺服器行業最受關注的發展之一是英偉達下一代 Vera Rubin 平台的冷卻架構發生了變化，這一轉變已經引發了相關供應商的劇烈波動…
+- [原文連結](https://www.digitimes.com/news/a20260508PD206/nvidia-rubin-cooling-ai-server-design.html)
 
 ---
 
@@ -64,6 +109,15 @@
 
 ---
 
+### ⚖️ Tower Semiconductor 簽署 2027 年矽光子收入 13 億美元的客戶合約
+- **題材**: `光通訊與矽光子` | **重要性**: `70`
+- **來源**: GlobeNewswire (2026-05-13T11:19:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 2028 年合約顯示出大幅提高...
+- [原文連結](https://www.globenewswire.com/news-release/2026/05/13/3293875/0/en/Tower-Semiconductor-Signs-Customer-Contracts-for-1-3-Billion-Silicon-Photonics-Revenue-for-2027.html)
+
+---
+
 ### 🚀 人工智慧第一大瓶頸飆升 497%
 - **題材**: `HBM記憶體` | **重要性**: `70`
 - **來源**: 24/7 Wall St. (2026-05-12T17:22:43Z)
@@ -73,12 +127,21 @@
 
 ---
 
-### 🚀 晶科技看高端光學需求永無止境，1.6T量產將於4Q26
-- **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-05-07T07:33:22Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 網路設備製造商正茂科技繼2025年推出800G線性驅動可插拔光學（LPO）光模組後，4月6日宣布，已成功開發出新一代1.6T八進位小型可插拔（OSFP）光模組。
-- [原文連結](https://www.digitimes.com/news/a20260507PD200/equipment-gemtek-demand-production-high-end.html)
+### ⚖️ Altos 以軟體優勢瞄準韓國人工智慧伺服器市場
+- **題材**: `AI伺服器` | **重要性**: `68`
+- **來源**: Digitimes (2026-05-12T04:03:52Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 宏碁旗下人工智慧伺服器子公司AltosComputing瞄準了韓國相對成熟的高階運算需求，推出了基於Nvidia Blackwell架構的旗艦系統。該公司還依靠其內部 Altos aiWorks 軟體作為關鍵…
+- [原文連結](https://www.digitimes.com/news/a20260512PD209/altos-computing-south-korea-ai-server-market.html)
+
+---
+
+### 🚀 MacBook Neo 深入探討：基準、晶圓經濟學和 8GB 賭博
+- **題材**: `HBM記憶體` | **重要性**: `65`
+- **來源**: Jdhodges.com (2026-05-13T18:30:51Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: A18 Pro processor in the $599 MacBook Neo. Geekbench 6 scores 3,569 single-core, between M3 and M4. Full CPU benchmarks, power draw, and thermal analysis.
+- [原文連結](https://www.jdhodges.com/blog/macbook-neo-benchmarks-analysis/)
 
 ---
 
@@ -115,69 +178,6 @@
 - **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 客戶正在就 IEEPA 關稅退款起訴 Nike 和其他公司。隨著退款開始推出，這些公司正面臨訴訟。
 - [原文連結](https://www.businessinsider.com/tariff-refunds-set-to-land-customers-sue-for-a-cut-2026-5)
-
----
-
-### 🚀 MACOM 技術解決方案第二季財報電話會議亮點
-- **題材**: `光通訊與矽光子` | **重要性**: `65`
-- **來源**: MarketBeat (2026-05-08T09:09:49Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: MACOM Technology Solutions（納斯達克股票代碼：MTSI）公佈 2026 財年第二季營收為 2.89 億美元，調整後每股攤薄收益為 1.09 美元...
-- [原文連結](https://www.marketbeat.com/instant-alerts/macom-technology-solutions-q2-earnings-call-highlights-2026-05-08/?utm_source=yahoofinance&amp;utm_medium=yahoofinance)
-
----
-
-### ⚠️ 蘋果第一季美國 iPhone 銷售成長，而更廣泛的智慧型手機市場下滑
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: MacRumors (2026-05-13T21:48:35Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 根據 Counterpoint Research 分享的數據，2026 年第一季蘋果智慧型手機銷量在美國年增 1.3%。蘋果的銷量有所成長，而美國智慧型手機市場整體成長了 5.7%…
-- [原文連結](https://www.macrumors.com/2026/05/13/apple-q1-market-share-growth/)
-
----
-
-### 🚀 沃什獲得聯準會主席提名，通膨抬頭
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-05-13T18:50:50Z)
-- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 參議院週三投票確認凱文沃什 (Kevin Warsh) 擔任美聯儲主席，為這位律師、金融家和前央行主席鋪平了道路…
-- [原文連結](https://finance.yahoo.com/news/warsh-wins-confirmation-fed-chair-185050168.html)
-
----
-
-### 🚀 那斯達克指數飆漲逾 1%；第四季業績公佈後，阿里巴巴股價上漲
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-05-13T17:42:42Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 美國股市在交易中漲跌互現，納斯達克綜合指數週三上漲超過 1%。道瓊指數下跌 0.24%，至 49,638.96 點，而...
-- [原文連結](https://finance.yahoo.com/news/nasdaq-surges-over-1-alibaba-174242926.html)
-
----
-
-### ⚖️ 億萬富翁 David Tepper 認為美光科技 (MU) 是最好的人工智慧股票嗎？
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-05-13T17:02:13Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 億萬富翁 David Tepper 表示，美光科技公司（納斯達克股票代碼：MU）是 2026 年最值得買的人工智慧股票之一。 5月10日，美光科技...
-- [原文連結](https://finance.yahoo.com/news/micron-technology-inc-mu-best-170213870.html)
-
----
-
-### ⚖️ 為什麼 Marvell Technology (MRVL) 在 AI 連接和客製化晶片領域取得進展
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-05-13T10:56:39Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Marvell Technology, Inc.（納斯達克股票代碼：MRVL）是目前最值得購買的人工智慧推動者股票之一。更強大的人工智慧基礎設施角度出現在 4 月 22 日，當時 Marvell...
-- [原文連結](https://finance.yahoo.com/news/why-marvell-technology-mrvl-gaining-105639691.html)
-
----
-
-### ⚖️ 即將到來的三星罷工可能是人工智慧的一場地震
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: Gizmodo.com (2026-05-13T01:09:28Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 三星製造廠計劃舉行的罷工不會讓供應鏈滿意。
-- [原文連結](https://gizmodo.com/imminent-samsung-strike-could-be-an-earthquake-for-ai-2000757819)
 
 ---
 

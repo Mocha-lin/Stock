@@ -1,10 +1,48 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-05-14T23:58:07.019010+00:00",
+  "generated_at": "2026-05-15T04:44:32.125105+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 72,
   "items": [
+    {
+      "id": "b2e213b251c331e1",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "AI伺服器追蹤：隨著AI伺服器需求增強BMC市場前景，ASPEED看到持續成長",
+      "summary": "近年來，在全球資料中心基礎架構結構性變化和AI伺服器部署快速擴張的支撐下，ASPEED Technology持續呈現強勁的營收動能。",
+      "original_title": "AI server tracker: ASPEED sees sustained growth as AI server demand strengthens BMC market outlook",
+      "url": "https://www.digitimes.com/news/a20260512VL207/taiwan-monthly-tracker-aspeed-ai-server-demand-market.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-05-13T07:44:54Z",
+      "importance": 88,
+      "impact": "positive",
+      "timeframe": "short_to_mid_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之偏多消息。【重大事件】可能顯著影響產業評價、EPS預期或資金流向。"
+    },
     {
       "id": "9abc5cf6e28cdb46",
       "dataset": "market_news",
@@ -44,6 +82,196 @@
       "reason": "屬「半導體先進製程」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
+      "id": "42b01ffb7bd2fdfc",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "相干訂單積壓達到2030年：1.6T光學和6吋InP產能加速",
+      "summary": "在人工智慧運算需求激增以及全行業向更高頻寬、更低功耗網路基礎設施轉變的推動下，光通訊公司相干公司 (Coherent Corp.) 表示，客戶訂單正在加速成長，其積壓訂單已達到...",
+      "original_title": "Coherent order backlog reaches 2030: 1.6T optics and 6-inch InP capacity accelerate",
+      "url": "https://www.digitimes.com/news/a20260508PD217/coherent-capacity-6-inch-optics-demand.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-05-08T06:51:14Z",
+      "importance": 83,
+      "impact": "positive",
+      "timeframe": "short_to_mid_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
+      "id": "117ed6dd9fefaee4",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "谷歌推出 CoWoS 替代品，聯發科技向英特爾求愛",
+      "summary": "聯發科決定與台積電的 CoWoS 生態系統和英特爾的 EMIB 平台尋求先進封裝合作夥伴關係，已成為半導體產業最受關注的策略舉措之一。",
+      "original_title": "MediaTek courts Intel as Google pushes for alternatives to CoWoS",
+      "url": "https://www.digitimes.com/news/a20260514PD217/mediatek-intel-asic-cowos-emib.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-05-14T01:41:59Z",
+      "importance": 78,
+      "impact": "positive",
+      "timeframe": "short_to_mid_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
+      "id": "122774f7a054d5c7",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "台灣人工智慧伺服器銷售成長超越台積電",
+      "summary": "台灣人工智慧伺服器供應鏈四月份的銷售再次強勁，成長從台積電的晶片製造基地延伸到伺服器組裝商以及冷卻、電路板材料、導軌套件和伺服器管理晶片的供應商。",
+      "original_title": "Taiwan AI server sales show gains spreading beyond TSMC",
+      "url": "https://www.digitimes.com/news/a20260512VL212/taiwan-monthly-tracker-odm-ems-ai-server-sales-supply-chain.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-05-12T06:29:38Z",
+      "importance": 78,
+      "impact": "positive",
+      "timeframe": "short_to_mid_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
+      "id": "bd3e1ca808752ae2",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "Tower Semi 預測季度營收樂觀，簽署 13 億美元人工智慧晶片交易",
+      "summary": "5 月 13 日：Tower Semiconductor 週三預測第二季營收高於預期，並表示 2027 年達成了 13 億美元的交易，供應利用光線透過人工智慧資料中心高速傳輸資料的晶片。",
+      "original_title": "Tower Semi forecasts upbeat quarterly revenue, signs $1.3 billion in AI chip deals",
+      "url": "https://www.channelnewsasia.com/business/tower-semi-forecasts-upbeat-quarterly-revenue-signs-13-billion-in-ai-chip-deals-6118706",
+      "source": "CNA",
+      "domain": "channelnewsasia.com",
+      "published_at": "2026-05-13T12:05:29Z",
+      "importance": 75,
+      "impact": "positive",
+      "timeframe": "short_to_mid_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
+      "id": "5e980c492db5f15c",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "哪隻光學股票在 2026 年佔據主導地位：Applied Opto electronics、Lumentum 還是 Coherent？",
+      "summary": "光學綜合體是 2026 年人工智慧基礎設施產業最有價值的領域之一，三位領導者之間的差距之大令人驚訝...",
+      "original_title": "Which Optics Stock Has Dominated in 2026: Applied Optoelectronics, Lumentum, or Coherent?",
+      "url": "https://247wallst.com/investing/2026/05/12/which-optics-stock-has-dominated-in-2026-applied-optoelectronics-lumentum-or-coherent/",
+      "source": "24/7 Wall St.",
+      "domain": "247wallst.com",
+      "published_at": "2026-05-12T19:07:55Z",
+      "importance": 75,
+      "impact": "neutral",
+      "timeframe": "short_to_mid_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
       "id": "dd148b5fd220a15c",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -80,44 +308,6 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
-      "id": "38c2439f8e173df3",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Altos 以軟體優勢瞄準韓國人工智慧伺服器市場",
-      "summary": "宏碁旗下人工智慧伺服器子公司AltosComputing瞄準了韓國相對成熟的高階運算需求，推出了基於Nvidia Blackwell架構的旗艦系統。該公司還依靠其內部 Altos aiWorks 軟體作為關鍵…",
-      "original_title": "Altos targets South Korean AI server market with software edge",
-      "url": "https://www.digitimes.com/news/a20260512PD209/altos-computing-south-korea-ai-server-market.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-05-12T04:03:52Z",
-      "importance": 73,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "a68ae8077fae912d",
@@ -196,32 +386,32 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
-      "id": "49bc852422933cc1",
+      "id": "95c2fddf91a936ef",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "Msscorps 因轉向矽光子學檢查而第一季出現虧損",
-      "summary": "Msscorps 報告 2026 年第一季合併營收為新台幣 5.79 億元（合 1,846 萬美元），年成長 24.54%，創同期歷史最高紀錄，但仍錄得淨虧損 3,185 萬元新台幣，每股收益連續 0.61 元虧損，連續第三年虧損。",
-      "original_title": "Msscorps posts first-quarter loss as it pivots into silicon photonics inspection",
-      "url": "https://www.digitimes.com/news/a20260507PD202/revenue-loss-silicon-inspection-photonics.html",
+      "theme": "AI伺服器",
+      "title": "Nvidia 對下一代人工智慧冷卻的高風險賭注",
+      "summary": "據報導，最近幾週人工智慧伺服器行業最受關注的發展之一是英偉達下一代 Vera Rubin 平台的冷卻架構發生了變化，這一轉變已經引發了相關供應商的劇烈波動…",
+      "original_title": "Inside Nvidia's high-stakes bet on next-generation AI cooling",
+      "url": "https://www.digitimes.com/news/a20260508PD206/nvidia-rubin-cooling-ai-server-design.html",
       "source": "Digitimes",
       "domain": "digitimes.com",
-      "published_at": "2026-05-07T03:53:35Z",
+      "published_at": "2026-05-08T07:25:59Z",
       "importance": 73,
       "impact": "positive",
       "timeframe": "short_term",
       "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
+        "AI",
+        "伺服器",
+        "資料中心"
       ],
       "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
       ],
       "related_models": [
         "003",
@@ -231,7 +421,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+      "reason": "屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "64bf2c790fcc3902",
@@ -272,6 +462,44 @@
       "reason": "屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
+      "id": "bfa482be747a3dc5",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "Tower Semiconductor 簽署 2027 年矽光子收入 13 億美元的客戶合約",
+      "summary": "2028 年合約顯示出大幅提高...",
+      "original_title": "Tower Semiconductor Signs Customer Contracts for $1.3 Billion Silicon Photonics Revenue for 2027",
+      "url": "https://www.globenewswire.com/news-release/2026/05/13/3293875/0/en/Tower-Semiconductor-Signs-Customer-Contracts-for-1-3-Billion-Silicon-Photonics-Revenue-for-2027.html",
+      "source": "GlobeNewswire",
+      "domain": "globenewswire.com",
+      "published_at": "2026-05-13T11:19:00Z",
+      "importance": 70,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
       "id": "d04796946d1be1b1",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -307,32 +535,32 @@
       "reason": "屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
-      "id": "46f255e49bde1bbb",
+      "id": "38c2439f8e173df3",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "晶科技看高端光學需求永無止境，1.6T量產將於4Q26",
-      "summary": "網路設備製造商正茂科技繼2025年推出800G線性驅動可插拔光學（LPO）光模組後，4月6日宣布，已成功開發出新一代1.6T八進位小型可插拔（OSFP）光模組。",
-      "original_title": "Gemtek sees no end to high-end optical demand, 1.6T mass production set for 4Q26",
-      "url": "https://www.digitimes.com/news/a20260507PD200/equipment-gemtek-demand-production-high-end.html",
+      "theme": "AI伺服器",
+      "title": "Altos 以軟體優勢瞄準韓國人工智慧伺服器市場",
+      "summary": "宏碁旗下人工智慧伺服器子公司AltosComputing瞄準了韓國相對成熟的高階運算需求，推出了基於Nvidia Blackwell架構的旗艦系統。該公司還依靠其內部 Altos aiWorks 軟體作為關鍵…",
+      "original_title": "Altos targets South Korean AI server market with software edge",
+      "url": "https://www.digitimes.com/news/a20260512PD209/altos-computing-south-korea-ai-server-market.html",
       "source": "Digitimes",
       "domain": "digitimes.com",
-      "published_at": "2026-05-07T07:33:22Z",
+      "published_at": "2026-05-12T04:03:52Z",
       "importance": 68,
-      "impact": "positive",
+      "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
+        "AI",
+        "伺服器",
+        "資料中心"
       ],
       "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
       ],
       "related_models": [
         "003",
@@ -342,7 +570,42 @@
         "009",
         "010"
       ],
-      "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "53ae43b9262da2a4",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "MacBook Neo 深入探討：基準、晶圓經濟學和 8GB 賭博",
+      "summary": "A18 Pro processor in the $599 MacBook Neo. Geekbench 6 scores 3,569 single-core, between M3 and M4. Full CPU benchmarks, power draw, and thermal analysis.",
+      "original_title": "MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble",
+      "url": "https://www.jdhodges.com/blog/macbook-neo-benchmarks-analysis/",
+      "source": "Jdhodges.com",
+      "domain": "jdhodges.com",
+      "published_at": "2026-05-13T18:30:51Z",
+      "importance": 65,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "c6b345b5e715faf2",
@@ -529,6 +792,44 @@
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "21c73acaa4680609",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "DIGITIMES Insight：聯發科否認與英特爾的聯繫，台積電封裝領先面臨新考驗",
+      "summary": "DIGITIMES 高級分析師 Luke Lin 表示，華倫巴菲特對蘋果的投資不應被簡單地視為股票交易，而應被視為對該公司及其執行長 Tim Cook 領導下的押注。",
+      "original_title": "DIGITIMES Insight: MediaTek denies Intel link as TSMC's packaging lead faces new test",
+      "url": "https://www.digitimes.com/news/a20260511PD208/digitimes-tsmc-mediatek-intel-packaging.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-05-11T04:14:54Z",
+      "importance": 63,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "ed84e4f8464313e7",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -678,6 +979,44 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "2d63c01b3fa58297",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "美國和中國尋求修復導致貿易直線下滑的關稅戰造成的損害",
+      "summary": "",
+      "original_title": "US and China seek to repair damage from tariff war that sent trade into a freefall",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_638156d3-7d92-4ee3-bed4-897e42530364",
+      "source": "Yahoo Entertainment",
+      "domain": "consent.yahoo.com",
+      "published_at": "2026-05-13T16:10:46Z",
+      "importance": 60,
+      "impact": "negative",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "fc382c058e65b1c9",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -749,6 +1088,44 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "7bedb5244201d7ee",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "隨著 Oshkosh、Basic Fun 報告收到付款，美國關稅退款開始推出",
+      "summary": "作者：Timothy Aeppel 5 月 12 日（路透）",
+      "original_title": "US tariff refunds start rolling out as Oshkosh, Basic Fun report receiving payments",
+      "url": "https://finance.yahoo.com/economy/policy/articles/us-tariff-refunds-start-rolling-162426455.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-05-12T16:35:37Z",
+      "importance": 60,
+      "impact": "negative",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "49834256f1eb2830",
@@ -1049,6 +1426,44 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "f67b9dec43d064c2",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "還記得玫瑰金接管一切的時候嗎？蘋果再次嘗試黑櫻桃",
+      "summary": "還記得玫瑰金接管一切的時候嗎？蘋果再次嘗試黑櫻桃玫瑰金不僅僅銷售 iPhone。它重新連結了消費性電子產業與色彩的整個關係，催生了十年來腮紅色調的三星旗艦產品，B…",
+      "original_title": "Remember When Rose Gold Took Over Everything? Apple Is Trying That Again With Dark Cherry",
+      "url": "https://www.yankodesign.com/2026/05/13/remember-when-rose-gold-took-over-everything-apple-is-trying-that-again-with-dark-cherry/",
+      "source": "Yanko Design",
+      "domain": "yankodesign.com",
+      "published_at": "2026-05-14T00:30:33Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "c269e57670e7d32d",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1123,6 +1538,44 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "65d2c07f49a8938c",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "起亞在馬來西亞推出維護計劃——嘉年華和獅跑的五年計劃；售價從 RM2,980 起",
+      "summary": "介紹起亞馬來西亞銷售 (KSM) 強化的售後營運和服務標準並不是今天起亞擁有體驗的唯一亮點，因為該活動還推出了首個起亞維護計劃 [...]\n後起亞維護…",
+      "original_title": "Kia Maintenance Plan launched in Malaysia – five-year plan for Carnival and Sportage; priced from RM2,980",
+      "url": "https://paultan.org/2026/05/13/kia-maintenance-plan-launched-in-malaysia/",
+      "source": "Paul Tan's Automotive News",
+      "domain": "paultan.org",
+      "published_at": "2026-05-13T11:51:41Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "d13b1550c9060e90",
@@ -1277,29 +1730,32 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "76c3f434ce564a8b",
+      "id": "d1807eb225193201",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "Sony PS6 的性能可以是 PS5 的三倍。 2029 年，它還可能花費 800 美元和土地",
-      "summary": "Sony PS6 的性能可以是 PS5 的三倍。 2029 年它也可能花費 800 美元和土地七年是一個奇怪的時間單位。長到足以完成博士學位，短到足以生動地記住一個事件，而且顯然，恰好長......",
-      "original_title": "Sony’s PS6 Could Triple the PS5’s Power. It Could Also Cost $800 and Land in 2029",
-      "url": "https://www.yankodesign.com/2026/05/11/sonys-ps6-could-triple-the-ps5s-power-it-could-also-cost-800-and-land-in-2029/",
-      "source": "Yanko Design",
-      "domain": "yankodesign.com",
-      "published_at": "2026-05-12T00:30:24Z",
+      "theme": "總體風險",
+      "title": "Trump wants to suspend the federal gas tax as prices soar amid war with Iran",
+      "summary": "暫停徵收聯邦汽油稅需要國會採取行動。",
+      "original_title": "Trump wants to suspend the federal gas tax as prices soar amid war with Iran",
+      "url": "https://www.npr.org/2026/05/11/nx-s1-5818446/trump-gas-tax",
+      "source": "NPR",
+      "domain": "npr.org",
+      "published_at": "2026-05-11T16:59:38Z",
       "importance": 55,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "HBM",
-        "記憶體"
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
       ],
       "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
       ],
       "related_models": [
         "003",
@@ -1309,7 +1765,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "72b6e316c2522269",
@@ -1345,6 +1801,44 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "1d041d329a3c1176",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "川普對他就關稅裁決任命的最高法院大法官表示不滿",
+      "summary": "二月份，法院宣布總統大部分的全面關稅無效。",
+      "original_title": "Trump sounds off SCOTUS justices he appointed over tariff ruling",
+      "url": "https://abcnews.com/Politics/trump-sounds-off-scotus-justices-appointed-tariff-ruling/story?id=132839392",
+      "source": "Abcnews.com",
+      "domain": "abcnews.com",
+      "published_at": "2026-05-11T14:30:40Z",
+      "importance": 55,
+      "impact": "negative",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "07cb2a689fe310e1",
@@ -1569,19 +2063,19 @@
       "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "80514052915ce862",
+      "id": "ea33039c9482864b",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "AI伺服器",
-      "title": "Anthropic 提高了 Claude 程式碼的使用限制，歸功於與 SpaceX 的新協議",
-      "summary": "一位匿名讀者引用了 Ars Technica 的報導：在周三的 Code with Claude 開發者大會上，Anthropic 宣布與 SpaceX 達成協議，利用後者位於田納西州孟菲斯的數據中心的全部計算能力。在舞台上…",
-      "original_title": "Anthropic Raises Claude Code Usage Limits, Credits New Deal With SpaceX",
-      "url": "https://slashdot.org/story/26/05/07/0424216/anthropic-raises-claude-code-usage-limits-credits-new-deal-with-spacex",
-      "source": "Slashdot.org",
-      "domain": "slashdot.org",
-      "published_at": "2026-05-07T16:00:00Z",
+      "title": "Slipknot’s Clown Reveals He Needs Heart Surgery: Sometimes “I Feel Like I’m Dying”",
+      "summary": "這位活結打擊樂手在與製作人里克·魯賓的對話中討論了他的健康狀況。\n活結小丑透露他需要進行心臟手術：有時“我感覺自己快要死了”\n蘭登希克曼",
+      "original_title": "Slipknot’s Clown Reveals He Needs Heart Surgery: Sometimes “I Feel Like I’m Dying”",
+      "url": "https://consequence.net/2026/05/slipknot-shawn-clown-crahan-needs-heart-surgery/",
+      "source": "Consequence.net",
+      "domain": "consequence.net",
+      "published_at": "2026-05-08T14:36:00Z",
       "importance": 55,
-      "impact": "neutral",
+      "impact": "positive",
       "timeframe": "short_term",
       "tags": [
         "AI",
@@ -1604,35 +2098,35 @@
         "009",
         "010"
       ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "c42bd0e17d0eaf2e",
+      "id": "b2883d9d4e5489a9",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "億萬富翁投資者雷·達利奧 (Ray Dalio) 表示，這就是滯脹型金融危機在美國蔓延的方式",
-      "summary": "雷·達裡奧表示，他認為赤字上升和過度印鈔可能會導緻美國經濟出現一波滯脹。",
-      "original_title": "Billionaire investor Ray Dalio says this is how a stagflationary financial crisis could unfold in the US",
-      "url": "https://www.businessinsider.com/ray-dalio-financial-crisis-stagflation-money-printing-us-economy-outlook-2026-5",
-      "source": "Business Insider",
-      "domain": "businessinsider.com",
-      "published_at": "2026-05-07T15:01:31Z",
+      "theme": "AI伺服器",
+      "title": "佐伊·克拉維茨 (Zoë Kravitz) 公開指責她的前雇主",
+      "summary": "「這太俗氣了@hulu，」克拉維茨在她前雇主的 Instagram 帖子下評論道。嘿，如果你取消她的演出，別指望會收到婚禮邀請！",
+      "original_title": "Zoë Kravitz Called Out Her Ex...Employer",
+      "url": "https://www.jezebel.com/zoe-kravitz-called-out-her-ex-employer",
+      "source": "Jezebel",
+      "domain": "jezebel.com",
+      "published_at": "2026-05-08T11:24:45Z",
       "importance": 55,
-      "impact": "neutral",
+      "impact": "positive",
       "timeframe": "short_term",
       "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
+        "AI",
+        "伺服器",
+        "資料中心"
       ],
       "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
       ],
       "related_models": [
         "003",
@@ -1642,7 +2136,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "9eabcd33f6ffadf4",
@@ -1681,6 +2175,79 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "c91077b4e713061f",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "央行警告輸入性通膨 聚焦政策傳導",
+      "summary": "",
+      "original_title": "PBOC Warns on Imported Inflation, Focuses on Policy Transmission",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_fbbf8212-547d-4b06-b5b1-7462a93de174",
+      "source": "Yahoo Entertainment",
+      "domain": "consent.yahoo.com",
+      "published_at": "2026-05-12T03:30:04Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "76c3f434ce564a8b",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "Sony PS6 的性能可以是 PS5 的三倍。 2029 年，它還可能花費 800 美元和土地",
+      "summary": "Sony PS6 的性能可以是 PS5 的三倍。 2029 年它也可能花費 800 美元和土地七年是一個奇怪的時間單位。長到足以完成博士學位，短到足以生動地記住一個事件，而且顯然，恰好長......",
+      "original_title": "Sony’s PS6 Could Triple the PS5’s Power. It Could Also Cost $800 and Land in 2029",
+      "url": "https://www.yankodesign.com/2026/05/11/sonys-ps6-could-triple-the-ps5s-power-it-could-also-cost-800-and-land-in-2029/",
+      "source": "Yanko Design",
+      "domain": "yankodesign.com",
+      "published_at": "2026-05-12T00:30:24Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "a51f8bdc793991f0",
@@ -1908,6 +2475,44 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "84cd77d4de44e2cb",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "GasBuddy's analyst is living the 'monitoring the situation' meme — and the app is raking in new users",
+      "summary": "GasBuddy 分析師 Patrick De Haan 正在追蹤石油市場，因為隨著汽油價格上漲，駕駛者紛紛重新使用燃油價格應用程式。",
+      "original_title": "GasBuddy's analyst is living the 'monitoring the situation' meme — and the app is raking in new users",
+      "url": "https://www.businessinsider.com/gasbuddy-de-haan-interview-oil-monitoring-the-situation-meme-2026-5",
+      "source": "Business Insider",
+      "domain": "businessinsider.com",
+      "published_at": "2026-05-10T08:29:01Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "d1f14c44f8a3b10d",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2093,611 +2698,6 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "bc7cbd01bdc4bdf5",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "科技公司對 RAMgeddon 感到抓狂",
-      "summary": "記憶體和晶片供應商是走鵑，我們是懷爾·土狼，短缺是鐵砧。噗。",
-      "original_title": "Tech Companies Are Freaking Out About RAMageddon",
-      "url": "https://www.cnet.com/tech/computing/tech-companies-are-freaking-out-about-ramageddon/",
-      "source": "CNET",
-      "domain": "cnet.com",
-      "published_at": "2026-05-07T18:31:00Z",
-      "importance": 50,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "c10dbfad78953692",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "美國初請失業金人數升至 20 萬，但仍處於歷史低點",
-      "summary": "美國上周初請失業金人數增加，但儘管通膨上升和其他經濟逆風，但仍處於歷史低點",
-      "original_title": "US jobless claim applications rise to 200K but remain historically low",
-      "url": "https://abcnews.com/Business/wireStory/us-jobless-claim-applications-rise-200000-remain-historically-132741208",
-      "source": "Abcnews.com",
-      "domain": "abcnews.com",
-      "published_at": "2026-05-07T13:05:40Z",
-      "importance": 50,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "58de24e4337cce87",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "AMD 為對 AI 感興趣的企業推出新的可插槽 GPU",
-      "summary": "AMD 週四推出了 MI350P，這是自 2022 年 MI210 首次亮相以來，House of Zen 首款基於 PCIe 的 Instinct 加速器。",
-      "original_title": "AMD puts out new slottable GPU for AI-curious enterprises",
-      "url": "https://www.theregister.com/ai-and-ml/2026/05/07/amd-takes-aim-at-enterprise-ai-with-pcie-based-instinct-gpus/5231481",
-      "source": "Theregister.com",
-      "domain": "theregister.com",
-      "published_at": "2026-05-07T13:00:00Z",
-      "importance": 50,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "1d8d9756d157178e",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "報告：MacBook Neo 需求超出預期，蘋果推出新一輪 A18 Pro 晶片",
-      "summary": "毫無疑問，MacBook Neo 是一款紅極一時的產品。蘋果在最近的財報電話會議上談到了新筆記型電腦的成功，並警告供應限制將持續到本季度。 \n\n\n\n分析師蒂姆·卡爾潘 (Tim Culpan) 今天報告稱，蘋果現在計劃…",
-      "original_title": "Report: Apple kicks off new run of A18 Pro chips as MacBook Neo demand exceeds expectations",
-      "url": "https://9to5mac.com/2026/05/07/macbook-neo-new-chip-production-run/",
-      "source": "9to5Mac",
-      "domain": "9to5mac.com",
-      "published_at": "2026-05-07T11:52:53Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "fa0f3e51b42a88a4",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "消息人士稱，司法部正在調查與伊朗戰爭相關的 26 億美元石油交易",
-      "summary": "在唐納德·特朗普總統就伊朗戰爭發表重大聲明之前，美國司法部正在調查石油市場上一系列可疑的交易。",
-      "original_title": "DOJ probing $2.6 billion in oil trades related to Iran war, sources say",
-      "url": "https://abcnews.com/US/doj-probing-26-billion-oil-trades-related-iran/story?id=132738007",
-      "source": "Abcnews.com",
-      "domain": "abcnews.com",
-      "published_at": "2026-05-07T11:46:48Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "2bc856a64dfec951",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "MacBook Neo 可能會推出新顏色以緩衝潛在的價格上漲",
-      "summary": "台灣科技專欄作家、彭博社前記者 Tim Culpan 表示，蘋果正在考慮為其 MacBook Neo 系列添加新顏色，以緩衝消費者可能面臨的價格上漲的影響。\n\n\n\n\n\n他在最新的 Culpium 時事通訊中寫道，…",
-      "original_title": "MacBook Neo Could Get New Colors to Cushion Potential Price Hike",
-      "url": "https://www.macrumors.com/2026/05/07/macbook-neo-new-colors-cushion-price-hike/",
-      "source": "MacRumors",
-      "domain": "macrumors.com",
-      "published_at": "2026-05-07T11:31:24Z",
-      "importance": 50,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "56e7bc6123dde52c",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "天然氣價格持續上漲，但大型石油公司是否計劃增加鑽探規模？到目前為止還沒有",
-      "summary": "伊朗戰爭推高了全球油價，從而增加了石油公司的收入。但美國大石油公司並未表示計劃增加產量以降低油價。",
-      "original_title": "Gas prices keep rising, but do big oil companies plan to drill more? Not so far",
-      "url": "https://www.npr.org/2026/05/07/nx-s1-5810511/oil-company-earnings-production-gas-prices",
-      "source": "NPR",
-      "domain": "npr.org",
-      "published_at": "2026-05-07T10:00:00Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "fb8dec341120a8b0",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "早晨新聞簡報",
-      "summary": "川普稱美國即將達成協議結束伊朗戰爭，伊朗戰爭推高了全球油價，但美國產量沒有大幅飆升的跡象，馬可·魯比奧拜訪教宗利奧。",
-      "original_title": "Morning news brief",
-      "url": "https://www.npr.org/2026/05/07/nx-s1-5810086/morning-news-brief",
-      "source": "NPR",
-      "domain": "npr.org",
-      "published_at": "2026-05-07T08:41:02Z",
-      "importance": 50,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "7e2ba9289af02503",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "為什麼開發人員選擇 DeepSeek V4 Flash 而不是 1.6T Pro 版本",
-      "summary": "DeepSeek V4 引入了兩個不同的版本，旨在滿足不同的運算要求：Pro 版本，具有 1.6 兆個廣泛的參數；Flash 版本，使用 4 位元和 8 位元模型等先進的量化技術…",
-      "original_title": "Why Developers Are Choosing DeepSeek V4 Flash Over the 1.6T Pro Edition",
-      "url": "https://www.geeky-gadgets.com/deepseek-v4-flash-vs-pro/",
-      "source": "Geeky Gadgets",
-      "domain": "geeky-gadgets.com",
-      "published_at": "2026-05-07T07:15:00Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "dfbc38694e34436a",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "為了避免生病，我們的實驗室數據顯示您需要這款空氣清淨機型號",
-      "summary": "我們在煙霧室中放置了 12 種不同型號的空氣清淨​​器，以確定哪種空氣清淨機最能捕捉病毒。",
-      "original_title": "To Avoid Getting Sick, Our Lab Data Shows You Need This Air Purifier Model",
-      "url": "https://www.cnet.com/home/kitchen-and-household/avoid-getting-sick-air-purifier-model/",
-      "source": "CNET",
-      "domain": "cnet.com",
-      "published_at": "2026-05-07T23:58:00Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "fbe2cc08135260f3",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "2021 保時捷 718 開曼",
-      "summary": "這款 2021 年保時捷 718 Cayman 是一款黑底白字車型，搭載 300 馬力渦輪增壓 2.0 升水平對臥四缸發動機，搭配七速 PDK 變速驅動橋。它配備高級套件、20 英寸 Carrera S 車輪、運動型排氣裝置、Bose 音響系統、加熱系統…",
-      "original_title": "2021 Porsche 718 Cayman",
-      "url": "https://bringatrailer.com/listing/2021-porsche-718-cayman-7/",
-      "source": "Bringatrailer.com",
-      "domain": "bringatrailer.com",
-      "published_at": "2026-05-07T22:15:44Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "bc38f07fed65816d",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Google Could Next 和 Thinking Machines Lab 使用的 Nvidia Vera Rubin",
-      "summary": "配備 Rubin GPU 和 Vera CPU 的 Nvidia Vera Rubin 平台是一個帶有 CPO 的全端系統。它是 Blackwell 的下一代繼任者。 Vera CPU 適用於代理程式工作負載。 Groq LPU 整合用於推理分解。預計 1T 美元...",
-      "original_title": "Nvidia Vera Rubin Used by Google Could Next and Thinking Machines Lab",
-      "url": "https://www.nextbigfuture.com/2026/05/nvidia-vera-rubin-used-by-google-could-next-and-thinking-machines-lab.html",
-      "source": "Next Big Future",
-      "domain": "nextbigfuture.com",
-      "published_at": "2026-05-07T21:59:54Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "02b13eb9f5f56cc0",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "美國考慮恢復霍爾木茲海峽軍事護航後油價在波動交易中下跌1%",
-      "summary": "",
-      "original_title": "Oil prices settle 1% lower in volatile trading after US mulls resuming Strait of Hormuz military escorts",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7403d2a2-2774-4185-8d33-879984974ba6",
-      "source": "Yahoo Entertainment",
-      "domain": "consent.yahoo.com",
-      "published_at": "2026-05-07T19:48:15Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "528fa25180a6edd0",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "Molex 完成對 Teramount Ltd 的收購",
-      "summary": "伊利諾州萊爾，2026 年 5 月 7 日 /美通社/ -- 全球電子產品領導者和連接創新者 Molex 已完成對 Teramount Ltd. 的收購，Teramount Ltd. 是一家總部位於以色列的可拆卸光纖到晶片連接解決方案開發商，針對大批量 Co-…",
-      "original_title": "Molex Completes Acquisition of Teramount Ltd.",
-      "url": "https://www.prnewswire.com/news-releases/molex-completes-acquisition-of-teramount-ltd-302764874.html",
-      "source": "PRNewswire",
-      "domain": "prnewswire.com",
-      "published_at": "2026-05-07T12:45:00Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "c8c2de8654f4efd0",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "蘋果晶片傳言幫助三星估值達到 1T 美元",
-      "summary": "本週稍早的一份報告稱，蘋果正在考慮實現晶片製造多元化，擺脫目前對台積電的唯一依賴。\n\n\n\n三星是被提名為蘋果 A 系列和 M 系列晶片未來潛在供應商的兩家公司之一，而且…",
-      "original_title": "Apple chip rumor helps Samsung hit $1T valuation",
-      "url": "https://9to5mac.com/2026/05/07/apple-chip-rumor-helps-samsung-hit-1t-valuation/",
-      "source": "9to5Mac",
-      "domain": "9to5mac.com",
-      "published_at": "2026-05-07T12:00:56Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "2b792a8161659075",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Unsloth 和 Nvidia 如何讓消費級 GPU 上的 LLM 訓練速度提升 25%",
-      "summary": "透過解釋和圖表了解 NVIDIA 如何幫助 Unsloth 將 AI 模型的微調速度提高 20%。",
-      "original_title": "How Unsloth and Nvidia made LLM training 25% faster on consumer GPUs",
-      "url": "https://unsloth.ai/blog/nvidia-collab",
-      "source": "Unsloth.ai",
-      "domain": "unsloth.ai",
-      "published_at": "2026-05-07T07:15:11Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     }
   ]
 }
