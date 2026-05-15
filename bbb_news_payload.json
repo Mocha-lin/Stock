@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-05-15T07:49:04.507868+00:00",
+  "generated_at": "2026-05-15T11:22:01.582281+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 72,
@@ -82,19 +82,19 @@
       "reason": "屬「AI伺服器」題材之偏多消息。【重大事件】可能顯著影響產業評價、EPS預期或資金流向。"
     },
     {
-      "id": "9abc5cf6e28cdb46",
+      "id": "77b44d46a091f097",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "半導體先進製程",
-      "title": "台積電CoWoS缺貨推動SK海力士-英特爾2.5D推",
-      "summary": "據報道，台積電 CoWoS 供應緊張，促使 SK Hynix 與英特爾在先進封裝方面合作，因為該行業希望實現 AI 加速器的 2.5D 封裝供應鏈多元化。",
-      "original_title": "TSMC CoWoS shortage drives SK Hynix-Intel 2.5D push",
-      "url": "https://www.digitimes.com/news/a20260512PD235/tsmc-packaging-sk-hynix-cowos-intel.html",
+      "title": "台積電在 AI 熱潮擴大 CoWoS 和 SoIC 產能",
+      "summary": "台積電2026年5月14日表示，隨著人工智慧需求推動全球18座新晶圓廠和先進封裝設施的建設，台積電正快速擴大CoWoS和SoIC先進封裝產能。在 2026 年技術研討會上，台積電副總裁 Bor-Zen T…",
+      "original_title": "TSMC expands CoWoS and SoIC capacity on AI boom",
+      "url": "https://www.digitimes.com/news/a20260514PD237/tsmc-cowos-soic-capacity-packaging.html",
       "source": "Digitimes",
       "domain": "digitimes.com",
-      "published_at": "2026-05-12T09:17:57Z",
-      "importance": 83,
-      "impact": "negative",
+      "published_at": "2026-05-14T08:06:57Z",
+      "importance": 78,
+      "impact": "neutral",
       "timeframe": "short_to_mid_term",
       "tags": [
         "半導體",
@@ -117,7 +117,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「半導體先進製程」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。"
+      "reason": "屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "d157819597d4f8a8",
@@ -158,6 +158,44 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
+      "id": "9abc5cf6e28cdb46",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "台積電CoWoS缺貨推動SK海力士-英特爾2.5D推",
+      "summary": "據報道，台積電 CoWoS 供應緊張，促使 SK Hynix 與英特爾在先進封裝方面合作，因為該行業希望實現 AI 加速器的 2.5D 封裝供應鏈多元化。",
+      "original_title": "TSMC CoWoS shortage drives SK Hynix-Intel 2.5D push",
+      "url": "https://www.digitimes.com/news/a20260512PD235/tsmc-packaging-sk-hynix-cowos-intel.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-05-12T09:17:57Z",
+      "importance": 78,
+      "impact": "negative",
+      "timeframe": "short_to_mid_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
       "id": "42b01ffb7bd2fdfc",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -196,82 +234,6 @@
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
-      "id": "bd3e1ca808752ae2",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "Tower Semi 預測季度營收樂觀，簽署 13 億美元人工智慧晶片交易",
-      "summary": "5 月 13 日：Tower Semiconductor 週三預測第二季營收高於預期，並表示 2027 年達成了 13 億美元的交易，供應利用光線透過人工智慧資料中心高速傳輸資料的晶片。",
-      "original_title": "Tower Semi forecasts upbeat quarterly revenue, signs $1.3 billion in AI chip deals",
-      "url": "https://www.channelnewsasia.com/business/tower-semi-forecasts-upbeat-quarterly-revenue-signs-13-billion-in-ai-chip-deals-6118706",
-      "source": "CNA",
-      "domain": "channelnewsasia.com",
-      "published_at": "2026-05-13T12:05:29Z",
-      "importance": 75,
-      "impact": "positive",
-      "timeframe": "short_to_mid_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
-      "id": "dd148b5fd220a15c",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "亞馬遜競相打造「面向未來」的人工智慧資料中心，以實現耗電新技術",
-      "summary": "亞馬遜今年計畫資本支出 2,000 億美元。其中很大一部分用於人工智慧資料中心。 Titus 計劃讓這些設施「面向未來」。",
-      "original_title": "Amazon's race to 'future-proof' AI data centers for power-hungry new tech",
-      "url": "https://www.businessinsider.com/amazon-titus-future-proof-ai-data-centers-nvidia-gpus-servers-2026-5",
-      "source": "Business Insider",
-      "domain": "businessinsider.com",
-      "published_at": "2026-05-12T09:00:01Z",
-      "importance": 75,
-      "impact": "positive",
-      "timeframe": "short_to_mid_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
       "id": "a68ae8077fae912d",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -308,44 +270,6 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
-      "id": "e50fb8ff618c5c4c",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "據報道，台積電將推動 CoPoS 獨家經營權，以鎖定下一代封裝領先地位",
-      "summary": "台積電正在加速擴大其CoWoS先進封裝產能，同時推進技術要求更高的面板級封裝技術CoPoS，旨在擴大在AI半導體競賽中對競爭對手的領先優勢。業內人士稱…",
-      "original_title": "TSMC reportedly pushes CoPoS exclusivity to lock in next-gen packaging lead",
-      "url": "https://www.digitimes.com/news/a20260508PD207/tsmc-packaging-cowos-expansion-capacity.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-05-08T07:49:55Z",
-      "importance": 73,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "64bf2c790fcc3902",
@@ -459,6 +383,44 @@
       "reason": "屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
+      "id": "dd148b5fd220a15c",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "亞馬遜競相打造「面向未來」的人工智慧資料中心，以實現耗電新技術",
+      "summary": "亞馬遜今年計畫資本支出 2,000 億美元。其中很大一部分用於人工智慧資料中心。 Titus 計劃讓這些設施「面向未來」。",
+      "original_title": "Amazon's race to 'future-proof' AI data centers for power-hungry new tech",
+      "url": "https://www.businessinsider.com/amazon-titus-future-proof-ai-data-centers-nvidia-gpus-servers-2026-5",
+      "source": "Business Insider",
+      "domain": "businessinsider.com",
+      "published_at": "2026-05-12T09:00:01Z",
+      "importance": 70,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
       "id": "38c2439f8e173df3",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -497,6 +459,44 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "e50fb8ff618c5c4c",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "據報道，台積電將推動 CoPoS 獨家經營權，以鎖定下一代封裝領先地位",
+      "summary": "台積電正在加速擴大其CoWoS先進封裝產能，同時推進技術要求更高的面板級封裝技術CoPoS，旨在擴大在AI半導體競賽中對競爭對手的領先優勢。業內人士稱…",
+      "original_title": "TSMC reportedly pushes CoPoS exclusivity to lock in next-gen packaging lead",
+      "url": "https://www.digitimes.com/news/a20260508PD207/tsmc-packaging-cowos-expansion-capacity.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-05-08T07:49:55Z",
+      "importance": 68,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "95c2fddf91a936ef",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -509,44 +509,6 @@
       "domain": "digitimes.com",
       "published_at": "2026-05-08T07:25:59Z",
       "importance": 68,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "20e9a7ab368cfaed",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "戴爾股價在 2026 年幾乎翻了一番。瑞銀分析師表示，它可能不會再進一步上漲。",
-      "summary": "瑞銀認為，戴爾的伺服器需求已經在今年股價幾乎翻倍後反映在股價上。",
-      "original_title": "Dell Stock Has Nearly Doubled in 2026. UBS Analysts Say It Likely Won’t Go Any Further.",
-      "url": "https://www.barchart.com/story/news/1912583/dell-stock-has-nearly-doubled-in-2026-ubs-analysts-say-it-likely-wont-go-any-further",
-      "source": "Barchart.com",
-      "domain": "barchart.com",
-      "published_at": "2026-05-13T19:10:31Z",
-      "importance": 65,
       "impact": "positive",
       "timeframe": "short_term",
       "tags": [
@@ -719,70 +681,32 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "22b4a7356ee047e5",
+      "id": "9c52d4bdf1407183",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "關稅退款即將開始推出。顧客想要他們的切分。",
-      "summary": "客戶正在就 IEEPA 關稅退款起訴 Nike 和其他公司。隨著退款開始推出，這些公司正面臨訴訟。",
-      "original_title": "Tariff refunds are about to start rolling out. Customers want their cut.",
-      "url": "https://www.businessinsider.com/tariff-refunds-set-to-land-customers-sue-for-a-cut-2026-5",
-      "source": "Business Insider",
-      "domain": "businessinsider.com",
-      "published_at": "2026-05-12T09:33:01Z",
-      "importance": 65,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "ff4834a17cc36aee",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "MACOM 技術解決方案第二季財報電話會議亮點",
-      "summary": "MACOM Technology Solutions（納斯達克股票代碼：MTSI）公佈 2026 財年第二季營收為 2.89 億美元，調整後每股攤薄收益為 1.09 美元...",
-      "original_title": "MACOM Technology Solutions Q2 Earnings Call Highlights",
-      "url": "https://www.marketbeat.com/instant-alerts/macom-technology-solutions-q2-earnings-call-highlights-2026-05-08/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
-      "source": "MarketBeat",
-      "domain": "marketbeat.com",
-      "published_at": "2026-05-08T09:09:49Z",
-      "importance": 65,
+      "theme": "AI伺服器",
+      "title": "我們已經浪費了 99% 的超新星數據",
+      "summary": "每當天文學家將望遠鏡對準遙遠的超新星時，他們都會試圖測量它的距離。但這些恆星爆炸發出的光與塵埃、宿主星系的年齡和化學成分的干擾糾纏在一起…",
+      "original_title": "We've Been Wasting 99% of Our Supernova Data",
+      "url": "https://www.universetoday.com/articles/weve-been-wasting-99-of-our-supernova-data",
+      "source": "Universe Today",
+      "domain": "universetoday.com",
+      "published_at": "2026-05-14T10:48:06Z",
+      "importance": 60,
       "impact": "positive",
       "timeframe": "short_term",
       "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
+        "AI",
+        "伺服器",
+        "資料中心"
       ],
       "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
       ],
       "related_models": [
         "003",
@@ -792,45 +716,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "21c73acaa4680609",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "DIGITIMES Insight：聯發科否認與英特爾的聯繫，台積電封裝領先面臨新考驗",
-      "summary": "DIGITIMES 高級分析師 Luke Lin 表示，華倫巴菲特對蘋果的投資不應被簡單地視為股票交易，而應被視為對該公司及其執行長 Tim Cook 領導下的押注。",
-      "original_title": "DIGITIMES Insight: MediaTek denies Intel link as TSMC's packaging lead faces new test",
-      "url": "https://www.digitimes.com/news/a20260511PD208/digitimes-tsmc-mediatek-intel-packaging.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-05-11T04:14:54Z",
-      "importance": 63,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "ed84e4f8464313e7",
@@ -1169,19 +1055,19 @@
       "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "28c2a14100a9e56f",
+      "id": "22b4a7356ee047e5",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "總體風險",
-      "title": "伊朗戰爭期間燃料成本飆升，通膨報告將顯示最新價格",
-      "summary": "伊朗戰爭導致汽油、機票和其他費用價格上漲。",
-      "original_title": "Inflation report to show latest prices as fuel costs surge amid Iran war",
-      "url": "https://abcnews.com/Business/inflation-report-show-latest-prices-fuel-costs-surge/story?id=132842452",
-      "source": "Abcnews.com",
-      "domain": "abcnews.com",
-      "published_at": "2026-05-12T09:23:05Z",
+      "title": "關稅退款即將開始推出。顧客想要他們的切分。",
+      "summary": "客戶正在就 IEEPA 關稅退款起訴 Nike 和其他公司。隨著退款開始推出，這些公司正面臨訴訟。",
+      "original_title": "Tariff refunds are about to start rolling out. Customers want their cut.",
+      "url": "https://www.businessinsider.com/tariff-refunds-set-to-land-customers-sue-for-a-cut-2026-5",
+      "source": "Business Insider",
+      "domain": "businessinsider.com",
+      "published_at": "2026-05-12T09:33:01Z",
       "importance": 60,
-      "impact": "positive",
+      "impact": "negative",
       "timeframe": "short_term",
       "tags": [
         "總體",
@@ -1204,7 +1090,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "e2abbf9e146d6a98",
@@ -1391,6 +1277,44 @@
       "reason": "屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "ff4834a17cc36aee",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "MACOM 技術解決方案第二季財報電話會議亮點",
+      "summary": "MACOM Technology Solutions（納斯達克股票代碼：MTSI）公佈 2026 財年第二季營收為 2.89 億美元，調整後每股攤薄收益為 1.09 美元...",
+      "original_title": "MACOM Technology Solutions Q2 Earnings Call Highlights",
+      "url": "https://www.marketbeat.com/instant-alerts/macom-technology-solutions-q2-earnings-call-highlights-2026-05-08/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
+      "source": "MarketBeat",
+      "domain": "marketbeat.com",
+      "published_at": "2026-05-08T09:09:49Z",
+      "importance": 60,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "4dcd2772990051f4",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1427,6 +1351,44 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "b2956e7eb28a66bc",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "「最先進的組織失敗的次數並沒有減少，而是失敗的次數減少了。」他們更快地看到失敗」：許多公司已經不得不回滾人工智慧客戶服務工具",
+      "summary": "新數據顯示，客戶服務人員在信任、安全和合規性方面的投入比人工智慧開發本身還要多。",
+      "original_title": "'The most advanced organizations aren’t failing less; they’re seeing failures sooner': Many firms are already having to roll back AI customer service tools",
+      "url": "https://www.techradar.com/pro/the-most-advanced-organizations-arent-failing-less-theyre-seeing-failures-sooner-many-firms-are-already-having-to-roll-back-ai-customer-service-tools",
+      "source": "TechRadar",
+      "domain": "techradar.com",
+      "published_at": "2026-05-14T10:31:14Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "f67b9dec43d064c2",
@@ -1728,6 +1690,44 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "28c2a14100a9e56f",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "伊朗戰爭期間燃料成本飆升，通膨報告將顯示最新價格",
+      "summary": "伊朗戰爭導致汽油、機票和其他費用價格上漲。",
+      "original_title": "Inflation report to show latest prices as fuel costs surge amid Iran war",
+      "url": "https://abcnews.com/Business/inflation-report-show-latest-prices-fuel-costs-surge/story?id=132842452",
+      "source": "Abcnews.com",
+      "domain": "abcnews.com",
+      "published_at": "2026-05-12T09:23:05Z",
+      "importance": 55,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "d1807eb225193201",
@@ -2137,44 +2137,6 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "9eabcd33f6ffadf4",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "任天堂提高 Switch 2 價格",
-      "summary": "“鑑於市場狀況的變化”，任天堂正在全球範圍內提高 Switch 2 遊戲機的價格，並預計明年的銷量將下降。從 9 月 1 日開始，Switch 2 在美國的售價將從目前的 449.9 美元上漲到 499.99 美元…",
-      "original_title": "Nintendo is raising Switch 2 prices",
-      "url": "https://www.theverge.com/games/926606/nintendo-switch-2-price-hikes-earnings-results",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "published_at": "2026-05-08T08:33:24Z",
-      "importance": 53,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "c91077b4e713061f",
@@ -2662,18 +2624,18 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "8811074aa79b65aa",
+      "id": "9eabcd33f6ffadf4",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "總體風險",
-      "title": "華爾街的「博士」 《末日》經濟學家列出了伊朗戰爭的四種情景及其對市場的影響",
-      "summary": "Oil prices could spike past $200 a barrel in the worst-case scenario, economist Nouriel Roubini warned.",
-      "original_title": "Wall Street's 'Dr. Doom' economist lays out 4 scenarios for the Iran war and their impact on markets",
-      "url": "https://www.businessinsider.com/stocks-bear-market-dr-doom-nouriel-roubini-iran-war-oil-2026-5",
-      "source": "Business Insider",
-      "domain": "businessinsider.com",
-      "published_at": "2026-05-08T09:30:01Z",
-      "importance": 50,
+      "title": "任天堂提高 Switch 2 價格",
+      "summary": "“鑑於市場狀況的變化”，任天堂正在全球範圍內提高 Switch 2 遊戲機的價格，並預計明年的銷量將下降。從 9 月 1 日開始，Switch 2 在美國的售價將從目前的 449.9 美元上漲到 499.99 美元…",
+      "original_title": "Nintendo is raising Switch 2 prices",
+      "url": "https://www.theverge.com/games/926606/nintendo-switch-2-price-hikes-earnings-results",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "published_at": "2026-05-08T08:33:24Z",
+      "importance": 48,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -2697,7 +2659,45 @@
         "009",
         "010"
       ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「總體風險」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
+    },
+    {
+      "id": "8811074aa79b65aa",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "華爾街的「博士」 《末日》經濟學家列出了伊朗戰爭的四種情景及其對市場的影響",
+      "summary": "Oil prices could spike past $200 a barrel in the worst-case scenario, economist Nouriel Roubini warned.",
+      "original_title": "Wall Street's 'Dr. Doom' economist lays out 4 scenarios for the Iran war and their impact on markets",
+      "url": "https://www.businessinsider.com/stocks-bear-market-dr-doom-nouriel-roubini-iran-war-oil-2026-5",
+      "source": "Business Insider",
+      "domain": "businessinsider.com",
+      "published_at": "2026-05-08T09:30:01Z",
+      "importance": 45,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     }
   ]
 }
