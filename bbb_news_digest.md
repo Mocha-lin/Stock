@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-05-16T14:16:42.000340+00:00
+> 更新時間：2026-05-16T15:45:02.397256+00:00
 
 ### 🚀 隨著人工智慧需求的加速，Tower Semiconductor 獲得 13 億美元的矽光子承諾
 - **題材**: `光通訊與矽光子` | **重要性**: `88`
@@ -7,15 +7,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重大事件】可能顯著影響產業評價、EPS預期或資金流向。
 - **摘要**: Tower Semiconductor 公佈 2026 年開局強勁，營收實現兩位數成長，淨利大幅躍升。繼第一季度“穩健”之後，該公司發布了第二季度的指導意見，這將代表...
 - [原文連結](https://www.digitimes.com/news/a20260514VL206/tower-semiconductor-photonics-silicon-revenue-demand.html)
-
----
-
-### 🚀 AI伺服器追蹤：隨著AI伺服器需求增強BMC市場前景，ASPEED看到持續成長
-- **題材**: `AI伺服器` | **重要性**: `83`
-- **來源**: Digitimes (2026-05-13T07:44:54Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 近年來，在全球資料中心基礎架構結構性變化和AI伺服器部署快速擴張的支撐下，ASPEED Technology持續呈現強勁的營收動能。
-- [原文連結](https://www.digitimes.com/news/a20260512VL207/taiwan-monthly-tracker-aspeed-ai-server-demand-market.html)
 
 ---
 
@@ -91,15 +82,6 @@
 
 ---
 
-### 🚀 三星、SK海力士的利潤超過所有印度上市公司
-- **題材**: `HBM記憶體` | **重要性**: `70`
-- **來源**: The Times of India (2026-05-12T00:07:53Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 韓國晶片製造商三星和 SK 海力士在 2026 年 3 月季度的利潤總額達到創紀錄的 597 億美元，超過了印度公司之前任何一個季度的利潤總額。這一激增是由蓬勃發展的人工智慧資本支出推動的，其中內存...
-- [原文連結](https://economictimes.indiatimes.com/markets/us-stocks/news/samsung-sk-hynix-earn-more-profit-than-all-of-listed-india-inc/articleshow/131025961.cms)
-
----
-
 ### ⚖️ Altos 以軟體優勢瞄準韓國人工智慧伺服器市場
 - **題材**: `AI伺服器` | **重要性**: `68`
 - **來源**: Digitimes (2026-05-12T04:03:52Z)
@@ -163,6 +145,15 @@
 
 ---
 
+### ⚠️ 什麼是拉米吉登？為什麼人工智慧會讓筆記型電腦和手機變得更加昂貴
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: CNET (2026-05-15T14:39:23Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 全球記憶體晶片供應短缺導致手機和電腦等電子產品價格飆升。以下是您需要了解的資訊。
+- [原文連結](https://www.cnet.com/tech/services-and-software/what-is-ramageddon-why-ai-is-making-laptops-and-phones-more-expensive/)
+
+---
+
 ### ⚖️ 由於通膨擔憂導致債券殖利率上漲，全球股市下跌
 - **題材**: `總體風險` | **重要性**: `60`
 - **來源**: Yahoo Entertainment (2026-05-15T09:06:27Z)
@@ -178,6 +169,15 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 部分 Galaxy S27 機型預計將搭載 Exynos 2700 處理器，但一份新報告顯示，矽晶片發生了令人擔憂的變化。
 - [原文連結](https://www.androidauthority.com/samsung-galaxy-s27-chip-major-change-3667384/)
+
+---
+
+### ⚖️ Lightwave Logic, Inc. 2026 年第一季財報電話會議摘要
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: Moby.co (2026-05-15T00:44:39Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Moby 對 Lightwave Logic, Inc. 2026 年第一季財報電話會議的摘要
+- [原文連結](https://app.moby.co/home/research/tools/earningsCalendar/earnings-lightwave-logic-inc-q1-2026-earnings-call-summary?utm_source=yahoo_finance&amp;utm_medium=rss)
 
 ---
 
