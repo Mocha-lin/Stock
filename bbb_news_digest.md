@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-05-16T17:44:41.782392+00:00
+> 更新時間：2026-05-16T19:54:22.864113+00:00
 
 ### 🚀 隨著人工智慧需求的加速，Tower Semiconductor 獲得 13 億美元的矽光子承諾
 - **題材**: `光通訊與矽光子` | **重要性**: `88`
@@ -109,24 +109,6 @@
 
 ---
 
-### 🚀 MacBook Neo 深入探討：基準、晶圓經濟學和 8GB 賭博
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: Jdhodges.com (2026-05-13T18:30:51Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 售價 599 美元的 MacBook Neo 中的 A18 Pro 處理器。 Geekbench 6 單核得分為 3,569，介於 M3 和 M4 之間。完整的 CPU 基準測試、功耗和熱分析。
-- [原文連結](https://www.jdhodges.com/blog/macbook-neo-benchmarks-analysis/)
-
----
-
-### ⚖️ Tower Semiconductor 第一季財報電話會議亮點
-- **題材**: `光通訊與矽光子` | **重要性**: `65`
-- **來源**: MarketBeat (2026-05-13T18:09:40Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Tower Semiconductor（納斯達克股票代碼：TSEM）公佈 2026 年第一季利潤同比大幅增長，並發布了其所謂的指導...
-- [原文連結](https://www.marketbeat.com/instant-alerts/tower-semiconductor-q1-earnings-call-highlights-2026-05-13/?utm_source=yahoofinance&amp;utm_medium=yahoofinance)
-
----
-
 ### 🚀 人工智慧第一大瓶頸飆升 497%
 - **題材**: `HBM記憶體` | **重要性**: `65`
 - **來源**: 24/7 Wall St. (2026-05-12T17:22:43Z)
@@ -178,6 +160,24 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Moby 對 Lightwave Logic, Inc. 2026 年第一季財報電話會議的摘要
 - [原文連結](https://app.moby.co/home/research/tools/earningsCalendar/earnings-lightwave-logic-inc-q1-2026-earnings-call-summary?utm_source=yahoo_finance&amp;utm_medium=rss)
+
+---
+
+### ⚖️ 台積電預測2030年全球晶片市場因AI將達1.5兆美元
+- **題材**: `半導體先進製程` | **重要性**: `60`
+- **來源**: GSMArena.com (2026-05-14T15:41:02Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 當前的人工智慧熱潮給一些人帶來了稀缺，而為另一些人帶來了巨額利潤。路透社報道稱，台積電在今天早些時候的一次演講中預測，到 2030 年，全球半導體市場將達到 1.5 兆美元以上——就背景而言，之前的預測是…
+- [原文連結](https://www.gsmarena.com/tsmc_predicts_that_the_global_chip_market_will_reach_15_trillion_by_2030_because_of_ai-news-72820.php)
+
+---
+
+### 🚀 DRAM ETF 的 85% 飆升掩蓋了一個危險的賭注：為什麼這個記憶體遊戲不屬於退休投資組合
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: 24/7 Wall St. (2026-05-14T15:00:32Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Roundhill Memory ETF（CBOE：DRAM）於 2026 年 4 月 2 日推出，是第一個完全圍繞記憶體晶片製造商建立的美國上市基金，並且已經...
+- [原文連結](https://247wallst.com/investing/2026/05/14/dram-etfs-85-surge-masks-a-dangerous-bet-why-this-memory-play-doesnt-belong-in-retirement-portfolios/)
 
 ---
 
