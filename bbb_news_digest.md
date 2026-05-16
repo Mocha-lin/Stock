@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-05-16T10:16:40.331332+00:00
+> 更新時間：2026-05-16T14:16:42.000340+00:00
 
 ### 🚀 隨著人工智慧需求的加速，Tower Semiconductor 獲得 13 億美元的矽光子承諾
 - **題材**: `光通訊與矽光子` | **重要性**: `88`
@@ -127,15 +127,6 @@
 
 ---
 
-### 🚀 戴爾股價在 2026 年幾乎翻了一番。瑞銀分析師表示，它可能不會再進一步上漲。
-- **題材**: `AI伺服器` | **重要性**: `65`
-- **來源**: Barchart.com (2026-05-13T19:10:31Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 瑞銀認為，戴爾的伺服器需求已經在今年股價幾乎翻倍後反映在股價上。
-- [原文連結](https://www.barchart.com/story/news/1912583/dell-stock-has-nearly-doubled-in-2026-ubs-analysts-say-it-likely-wont-go-any-further)
-
----
-
 ### 🚀 MacBook Neo 深入探討：基準、晶圓經濟學和 8GB 賭博
 - **題材**: `HBM記憶體` | **重要性**: `65`
 - **來源**: Jdhodges.com (2026-05-13T18:30:51Z)
@@ -154,15 +145,6 @@
 
 ---
 
-### ⚖️ 隨著資料中心需求在 2027 年達到高峰，應用光電著眼於 800G 產能提升
-- **題材**: `光通訊與矽光子` | **重要性**: `65`
-- **來源**: MarketBeat (2026-05-13T14:07:48Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 應用光電公司（納斯達克股票代碼：AAOI）預計，隨著對更高速收發器的需求持續增長，其數據中心光學業務下半年將大幅增長...
-- [原文連結](https://www.marketbeat.com/instant-alerts/applied-optoelectronics-eyes-800g-ramp-as-data-center-demand-tops-capacity-into-2027-2026-05-13/?utm_source=yahoofinance&amp;utm_medium=yahoofinance)
-
----
-
 ### 🚀 人工智慧第一大瓶頸飆升 497%
 - **題材**: `HBM記憶體` | **重要性**: `65`
 - **來源**: 24/7 Wall St. (2026-05-12T17:22:43Z)
@@ -178,6 +160,24 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: DIGITIMES 高級分析師 Luke Lin 表示，華倫巴菲特對蘋果的投資不應被簡單地視為股票交易，而應被視為對該公司及其執行長 Tim Cook 領導下的押注。
 - [原文連結](https://www.digitimes.com/news/a20260511PD208/digitimes-tsmc-mediatek-intel-packaging.html)
+
+---
+
+### ⚖️ 由於通膨擔憂導致債券殖利率上漲，全球股市下跌
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-05-15T09:06:27Z)
+- **AI 判讀**: 屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 作者：Sophie Kiderlin 倫敦，5 月 15 日（路透社）
+- [原文連結](https://finance.yahoo.com/news/asian-shares-dive-as-us-yields-hit-one-year-high-053836732.html)
+
+---
+
+### ⚖️ 由於選擇了這種晶片，某些 Galaxy S27 型號可能會運行得更熱
+- **題材**: `半導體先進製程` | **重要性**: `60`
+- **來源**: Android Authority (2026-05-15T08:57:22Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 部分 Galaxy S27 機型預計將搭載 Exynos 2700 處理器，但一份新報告顯示，矽晶片發生了令人擔憂的變化。
+- [原文連結](https://www.androidauthority.com/samsung-galaxy-s27-chip-major-change-3667384/)
 
 ---
 
