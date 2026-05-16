@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-05-16T06:39:01.073760+00:00
+> 更新時間：2026-05-16T10:16:40.331332+00:00
 
 ### 🚀 隨著人工智慧需求的加速，Tower Semiconductor 獲得 13 億美元的矽光子承諾
 - **題材**: `光通訊與矽光子` | **重要性**: `88`
@@ -11,9 +11,9 @@
 ---
 
 ### 🚀 AI伺服器追蹤：隨著AI伺服器需求增強BMC市場前景，ASPEED看到持續成長
-- **題材**: `AI伺服器` | **重要性**: `88`
+- **題材**: `AI伺服器` | **重要性**: `83`
 - **來源**: Digitimes (2026-05-13T07:44:54Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重大事件】可能顯著影響產業評價、EPS預期或資金流向。
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 近年來，在全球資料中心基礎架構結構性變化和AI伺服器部署快速擴張的支撐下，ASPEED Technology持續呈現強勁的營收動能。
 - [原文連結](https://www.digitimes.com/news/a20260512VL207/taiwan-monthly-tracker-aspeed-ai-server-demand-market.html)
 
@@ -55,12 +55,12 @@
 
 ---
 
-### 🚀 台灣人工智慧伺服器銷售成長超越台積電
-- **題材**: `AI伺服器` | **重要性**: `73`
-- **來源**: Digitimes (2026-05-12T06:29:38Z)
+### 🚀 Musk 的 Colossus 1 AI 超級電腦低效的混合架構設計無法用於訓練 Grok，因此 Anthropic 將其用於推理——Musk 準備統一 Blackwell 專用的 Colossus 2，用於前沿訓練和潛在的 IPO
+- **題材**: `AI伺服器` | **重要性**: `77`
+- **來源**: Tom's Hardware UK (2026-05-15T10:08:57Z)
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 台灣人工智慧伺服器供應鏈四月份的銷售再次強勁，成長從台積電的晶片製造基地延伸到伺服器組裝商以及冷卻、電路板材料、導軌套件和伺服器管理晶片的供應商。
-- [原文連結](https://www.digitimes.com/news/a20260512VL212/taiwan-monthly-tracker-odm-ems-ai-server-sales-supply-chain.html)
+- **摘要**: Anthropic 已從 SpaceX 租用了 xAI 的整個 220,000 GPU Colossus 1 超級集群，以緩解 Claude 日益增長的計算瓶頸，這筆交易可能會揭示圍繞人工智慧基礎設施、軌道數據中心和馬斯克 IPO 戰略的更大野心。
+- [原文連結](https://www.tomshardware.com/tech-industry/artificial-intelligence/musks-colossus-1-ai-supercomputers-inefficient-mixed-architecture-design-couldnt-be-used-to-train-grok-so-anthropics-using-it-for-inference-instead-musk-readies-unified-blackwell-only-colossus-2-for-frontier-training-and-potential-ipo)
 
 ---
 
@@ -106,6 +106,15 @@
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 宏碁旗下人工智慧伺服器子公司AltosComputing瞄準了韓國相對成熟的高階運算需求，推出了基於Nvidia Blackwell架構的旗艦系統。該公司還依靠其內部 Altos aiWorks 軟體作為關鍵…
 - [原文連結](https://www.digitimes.com/news/a20260512PD209/altos-computing-south-korea-ai-server-market.html)
+
+---
+
+### ⚖️ 中國AI光學億萬富翁在股價上漲340%後考慮在香港兩地上市
+- **題材**: `光通訊與矽光子` | **重要性**: `65`
+- **來源**: Forbes (2026-05-15T07:32:26Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: RoboTechnik智能科技在深圳上市的股價過去一年飆升340%，使創辦人戴軍的淨資產達到24億美元。
+- [原文連結](https://www.forbes.com/sites/zinnialee/2026/05/15/chinese-ai-optics-billionaire-eyes-dual-listing-in-hong-kong-after-340-stock-rally/)
 
 ---
 
@@ -169,15 +178,6 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: DIGITIMES 高級分析師 Luke Lin 表示，華倫巴菲特對蘋果的投資不應被簡單地視為股票交易，而應被視為對該公司及其執行長 Tim Cook 領導下的押注。
 - [原文連結](https://www.digitimes.com/news/a20260511PD208/digitimes-tsmc-mediatek-intel-packaging.html)
-
----
-
-### 🚀 NASA 的 Psyche 任務正在拍攝火星前往小行星途中的照片
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: Scientific American (2026-05-14T17:20:00Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Psyche 太空船的目標是一顆富含金屬的小行星，它將從 2029 年開始近距離檢查該小行星。但首先，它需要掠過這顆紅色星球
-- [原文連結](https://www.scientificamerican.com/article/nasas-psyche-mission-is-snapping-photos-of-mars-on-its-way-to-an-asteroid/)
 
 ---
 

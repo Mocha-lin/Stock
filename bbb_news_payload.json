@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-05-16T06:39:01.073760+00:00",
+  "generated_at": "2026-05-16T10:16:40.331332+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 74,
@@ -55,7 +55,7 @@
       "source": "Digitimes",
       "domain": "digitimes.com",
       "published_at": "2026-05-13T07:44:54Z",
-      "importance": 88,
+      "importance": 83,
       "impact": "positive",
       "timeframe": "short_to_mid_term",
       "tags": [
@@ -79,7 +79,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「AI伺服器」題材之偏多消息。【重大事件】可能顯著影響產業評價、EPS預期或資金流向。"
+      "reason": "屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "77b44d46a091f097",
@@ -234,20 +234,20 @@
       "reason": "屬「半導體先進製程」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
-      "id": "122774f7a054d5c7",
+      "id": "2fe7a2c508fcc61d",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "AI伺服器",
-      "title": "台灣人工智慧伺服器銷售成長超越台積電",
-      "summary": "台灣人工智慧伺服器供應鏈四月份的銷售再次強勁，成長從台積電的晶片製造基地延伸到伺服器組裝商以及冷卻、電路板材料、導軌套件和伺服器管理晶片的供應商。",
-      "original_title": "Taiwan AI server sales show gains spreading beyond TSMC",
-      "url": "https://www.digitimes.com/news/a20260512VL212/taiwan-monthly-tracker-odm-ems-ai-server-sales-supply-chain.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-05-12T06:29:38Z",
-      "importance": 73,
+      "title": "Musk 的 Colossus 1 AI 超級電腦低效的混合架構設計無法用於訓練 Grok，因此 Anthropic 將其用於推理——Musk 準備統一 Blackwell 專用的 Colossus 2，用於前沿訓練和潛在的 IPO",
+      "summary": "Anthropic 已從 SpaceX 租用了 xAI 的整個 220,000 GPU Colossus 1 超級集群，以緩解 Claude 日益增長的計算瓶頸，這筆交易可能會揭示圍繞人工智慧基礎設施、軌道數據中心和馬斯克 IPO 戰略的更大野心。",
+      "original_title": "Musk's Colossus 1 AI supercomputer's inefficient mixed-architecture design couldn't be used to train Grok, so Anthropic's using it for inference instead — Musk readies unified Blackwell-only Colossus 2 for frontier training and potential IPO",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/musks-colossus-1-ai-supercomputers-inefficient-mixed-architecture-design-couldnt-be-used-to-train-grok-so-anthropics-using-it-for-inference-instead-musk-readies-unified-blackwell-only-colossus-2-for-frontier-training-and-potential-ipo",
+      "source": "Tom's Hardware UK",
+      "domain": "tomshardware.com",
+      "published_at": "2026-05-15T10:08:57Z",
+      "importance": 77,
       "impact": "positive",
-      "timeframe": "short_term",
+      "timeframe": "short_to_mid_term",
       "tags": [
         "AI",
         "伺服器",
@@ -457,6 +457,44 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "9ba36bcf913b5cf8",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "中國AI光學億萬富翁在股價上漲340%後考慮在香港兩地上市",
+      "summary": "RoboTechnik智能科技在深圳上市的股價過去一年飆升340%，使創辦人戴軍的淨資產達到24億美元。",
+      "original_title": "Chinese AI Optics Billionaire Eyes Dual Listing In Hong Kong After 340% Stock Rally",
+      "url": "https://www.forbes.com/sites/zinnialee/2026/05/15/chinese-ai-optics-billionaire-eyes-dual-listing-in-hong-kong-after-340-stock-rally/",
+      "source": "Forbes",
+      "domain": "forbes.com",
+      "published_at": "2026-05-15T07:32:26Z",
+      "importance": 65,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "0e2e575bec644507",
@@ -717,6 +755,120 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "53252bef8948fc99",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "由於通膨擔憂導致債券殖利率上漲，全球股市下跌",
+      "summary": "作者：Sophie Kiderlin 倫敦，5 月 15 日（路透社）",
+      "original_title": "Global shares drop as bond yields jump on inflation worries",
+      "url": "https://finance.yahoo.com/news/asian-shares-dive-as-us-yields-hit-one-year-high-053836732.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-05-15T09:06:27Z",
+      "importance": 60,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "a7c04c506963a848",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "由於選擇了這種晶片，某些 Galaxy S27 型號可能會運行得更熱",
+      "summary": "部分 Galaxy S27 機型預計將搭載 Exynos 2700 處理器，但一份新報告顯示，矽晶片發生了令人擔憂的變化。",
+      "original_title": "Some Galaxy S27 models might run hotter thanks to this chip choice",
+      "url": "https://www.androidauthority.com/samsung-galaxy-s27-chip-major-change-3667384/",
+      "source": "Android Authority",
+      "domain": "androidauthority.com",
+      "published_at": "2026-05-15T08:57:22Z",
+      "importance": 60,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "2446049518e175c7",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "Lightwave Logic, Inc. 2026 年第一季財報電話會議摘要",
+      "summary": "Moby 對 Lightwave Logic, Inc. 2026 年第一季財報電話會議的摘要",
+      "original_title": "Lightwave Logic, Inc. Q1 2026 Earnings Call Summary",
+      "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-lightwave-logic-inc-q1-2026-earnings-call-summary?utm_source=yahoo_finance&amp;utm_medium=rss",
+      "source": "Moby.co",
+      "domain": "app.moby.co",
+      "published_at": "2026-05-15T00:44:39Z",
+      "importance": 60,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "1f2721931d0f51fc",
@@ -1277,44 +1429,6 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "4e91a3b8cae6b617",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "SK hynix Eyes Intel EMIB 2.5D Packaging for HBM Memory",
-      "summary": "SK hynix 正在与英特尔合作，将其嵌入式多芯片互连桥 (EMIB) 2.5D 封装技术用于 HBM 内存。隨著 SK 海力士致力於實現供應鏈多元化，並且客戶越來越多地考慮英特爾代工，韓國…",
-      "original_title": "SK hynix Eyes Intel EMIB 2.5D Packaging for HBM Memory",
-      "url": "https://www.techpowerup.com/348926/sk-hynix-eyes-intel-emib-2-5d-packaging-for-hbm-memory",
-      "source": "Techpowerup.com",
-      "domain": "techpowerup.com",
-      "published_at": "2026-05-11T08:35:14Z",
-      "importance": 60,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "4dcd2772990051f4",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1695,44 +1809,6 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "b2956e7eb28a66bc",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "「最先進的組織失敗的次數並沒有減少，而是失敗的次數減少了。」他們更快地看到失敗」：許多公司已經不得不回滾人工智慧客戶服務工具",
-      "summary": "新數據顯示，客戶服務人員在信任、安全和合規性方面的投入比人工智慧開發本身還要多。",
-      "original_title": "'The most advanced organizations aren’t failing less; they’re seeing failures sooner': Many firms are already having to roll back AI customer service tools",
-      "url": "https://www.techradar.com/pro/the-most-advanced-organizations-arent-failing-less-theyre-seeing-failures-sooner-many-firms-are-already-having-to-roll-back-ai-customer-service-tools",
-      "source": "TechRadar",
-      "domain": "techradar.com",
-      "published_at": "2026-05-14T10:31:14Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "f67b9dec43d064c2",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1880,44 +1956,6 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "d13b1550c9060e90",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "中興通訊在聖保羅舉辦2026年寬頻用戶大會，主題為“智慧寬頻貨幣化”",
-      "summary": "使營運商能夠利用下一代 AI 和 ODN 系統超越基本連接",
-      "original_title": "ZTE hosts 2026 Broadband User Congress in São Paulo, under the Theme \"Monetize Your Intelligent Broadband\"",
-      "url": "https://www.theregister.com/networks/2026/05/13/zte-hosts-2026-broadband-user-congress-in-so-paulo-under-the-theme-monetize-your-intelligent-broadband/5239403",
-      "source": "Theregister.com",
-      "domain": "theregister.com",
-      "published_at": "2026-05-13T08:25:26Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "18c55bb376683512",
@@ -2286,6 +2324,44 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "d13b1550c9060e90",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "中興通訊在聖保羅舉辦2026年寬頻用戶大會，主題為“智慧寬頻貨幣化”",
+      "summary": "使營運商能夠利用下一代 AI 和 ODN 系統超越基本連接",
+      "original_title": "ZTE hosts 2026 Broadband User Congress in São Paulo, under the Theme \"Monetize Your Intelligent Broadband\"",
+      "url": "https://www.theregister.com/networks/2026/05/13/zte-hosts-2026-broadband-user-congress-in-so-paulo-under-the-theme-monetize-your-intelligent-broadband/5239403",
+      "source": "Theregister.com",
+      "domain": "theregister.com",
+      "published_at": "2026-05-13T08:25:26Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "e63e4afbcc67f96e",
@@ -2660,82 +2736,6 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "d2d9a26a91564690",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "這就是 Artisan 中型基金投資 Semtech (SMTC) 的原因",
-      "summary": "投資管理公司 Artisan Partners 發布了「Artisan Mid Cap Fund」2026 年第一季投資者信函。這封信的副本是...",
-      "original_title": "Here’s Why the Artisan Mid Cap Fund Established a Position in Semtech (SMTC)",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-artisan-mid-cap-fund-132551615.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-05-11T13:25:51Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "70a5621b085010ce",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "亞洲經濟體能否因應伊朗戰爭的影響？",
-      "summary": "燃料成本、通貨膨脹和債務壓力正在考驗亞洲經濟體。",
-      "original_title": "Can Asian economies cope with the fallout from the Iran war?",
-      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/5/10/can-asian-economies-cope-with-the-fallout-from-the-iran-war",
-      "source": "Al Jazeera English",
-      "domain": "aljazeera.com",
-      "published_at": "2026-05-10T13:11:10Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "84cd77d4de44e2cb",
