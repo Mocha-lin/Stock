@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-05-16T04:25:10.742542+00:00
+> 更新時間：2026-05-16T06:39:01.073760+00:00
 
 ### 🚀 隨著人工智慧需求的加速，Tower Semiconductor 獲得 13 億美元的矽光子承諾
 - **題材**: `光通訊與矽光子` | **重要性**: `88`
@@ -55,12 +55,12 @@
 
 ---
 
-### ⚖️ 勤誠從AI伺服器機殼擴展到液冷CDU
+### 🚀 台灣人工智慧伺服器銷售成長超越台積電
 - **題材**: `AI伺服器` | **重要性**: `73`
-- **來源**: Digitimes (2026-05-12T00:41:31Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 勤诚首席执行官 Corona Chen 表示，强劲的人工智能需求正在重塑数据中心架构，推动公司超越传统的机箱业务，进入系统、机架和液冷基础设施领域。她說勤誠已經從PC機殼轉向通用機殼…
-- [原文連結](https://www.digitimes.com/news/a20260511PD235/chenbro-chassis-revenue-demand-ceo.html)
+- **來源**: Digitimes (2026-05-12T06:29:38Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 台灣人工智慧伺服器供應鏈四月份的銷售再次強勁，成長從台積電的晶片製造基地延伸到伺服器組裝商以及冷卻、電路板材料、導軌套件和伺服器管理晶片的供應商。
+- [原文連結](https://www.digitimes.com/news/a20260512VL212/taiwan-monthly-tracker-odm-ems-ai-server-sales-supply-chain.html)
 
 ---
 
@@ -79,15 +79,6 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 先前有報告指出 SK 正在與英特爾一起使用英特爾的 EMIB 技術進行 2.5D 封裝的研發。
 - [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-shares-surge-to-all-time-high-on-reports-of-intel-emib-partnership)
-
----
-
-### ⚖️ Tower Semiconductor 簽署 2027 年矽光子收入 13 億美元的客戶合約
-- **題材**: `光通訊與矽光子` | **重要性**: `70`
-- **來源**: GlobeNewswire (2026-05-13T11:19:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 2028 年合約顯示出大幅提高...
-- [原文連結](https://www.globenewswire.com/news-release/2026/05/13/3293875/0/en/Tower-Semiconductor-Signs-Customer-Contracts-for-1-3-Billion-Silicon-Photonics-Revenue-for-2027.html)
 
 ---
 
@@ -178,6 +169,15 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: DIGITIMES 高級分析師 Luke Lin 表示，華倫巴菲特對蘋果的投資不應被簡單地視為股票交易，而應被視為對該公司及其執行長 Tim Cook 領導下的押注。
 - [原文連結](https://www.digitimes.com/news/a20260511PD208/digitimes-tsmc-mediatek-intel-packaging.html)
+
+---
+
+### 🚀 NASA 的 Psyche 任務正在拍攝火星前往小行星途中的照片
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: Scientific American (2026-05-14T17:20:00Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Psyche 太空船的目標是一顆富含金屬的小行星，它將從 2029 年開始近距離檢查該小行星。但首先，它需要掠過這顆紅色星球
+- [原文連結](https://www.scientificamerican.com/article/nasas-psyche-mission-is-snapping-photos-of-mars-on-its-way-to-an-asteroid/)
 
 ---
 
