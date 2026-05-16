@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-05-16T19:54:22.864113+00:00
+> 更新時間：2026-05-16T23:53:36.510235+00:00
 
 ### 🚀 隨著人工智慧需求的加速，Tower Semiconductor 獲得 13 億美元的矽光子承諾
 - **題材**: `光通訊與矽光子` | **重要性**: `88`
@@ -46,12 +46,12 @@
 
 ---
 
-### 🚀 Musk 的 Colossus 1 AI 超級電腦低效的混合架構設計無法用於訓練 Grok，因此 Anthropic 將其用於推理——Musk 準備統一 Blackwell 專用的 Colossus 2，用於前沿訓練和潛在的 IPO
-- **題材**: `AI伺服器` | **重要性**: `77`
-- **來源**: Tom's Hardware UK (2026-05-15T10:08:57Z)
+### 🚀 新創公司正在人們家中安裝小型資料中心，以減輕陷入困境的電網的壓力
+- **題材**: `AI伺服器` | **重要性**: `75`
+- **來源**: Yahoo Entertainment (2026-05-15T19:58:58Z)
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Anthropic 已從 SpaceX 租用了 xAI 的整個 220,000 GPU Colossus 1 超級集群，以緩解 Claude 日益增長的計算瓶頸，這筆交易可能會揭示圍繞人工智慧基礎設施、軌道數據中心和馬斯克 IPO 戰略的更大野心。
-- [原文連結](https://www.tomshardware.com/tech-industry/artificial-intelligence/musks-colossus-1-ai-supercomputers-inefficient-mixed-architecture-design-couldnt-be-used-to-train-grok-so-anthropics-using-it-for-inference-instead-musk-readies-unified-blackwell-only-colossus-2-for-frontier-training-and-potential-ipo)
+- **摘要**: Span 與 Nvidia 和 PulteGroup 合作，利用家庭未充分利用的電力進行電腦處理。
+- [原文連結](https://finance.yahoo.com/sectors/technology/articles/startups-installing-tiny-data-centers-195858169.html)
 
 ---
 
