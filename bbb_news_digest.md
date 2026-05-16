@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-05-15T23:55:01.859814+00:00
+> 更新時間：2026-05-16T04:25:10.742542+00:00
 
 ### 🚀 隨著人工智慧需求的加速，Tower Semiconductor 獲得 13 億美元的矽光子承諾
 - **題材**: `光通訊與矽光子` | **重要性**: `88`
@@ -7,6 +7,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重大事件】可能顯著影響產業評價、EPS預期或資金流向。
 - **摘要**: Tower Semiconductor 公佈 2026 年開局強勁，營收實現兩位數成長，淨利大幅躍升。繼第一季度“穩健”之後，該公司發布了第二季度的指導意見，這將代表...
 - [原文連結](https://www.digitimes.com/news/a20260514VL206/tower-semiconductor-photonics-silicon-revenue-demand.html)
+
+---
+
+### 🚀 AI伺服器追蹤：隨著AI伺服器需求增強BMC市場前景，ASPEED看到持續成長
+- **題材**: `AI伺服器` | **重要性**: `88`
+- **來源**: Digitimes (2026-05-13T07:44:54Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重大事件】可能顯著影響產業評價、EPS預期或資金流向。
+- **摘要**: 近年來，在全球資料中心基礎架構結構性變化和AI伺服器部署快速擴張的支撐下，ASPEED Technology持續呈現強勁的營收動能。
+- [原文連結](https://www.digitimes.com/news/a20260512VL207/taiwan-monthly-tracker-aspeed-ai-server-demand-market.html)
 
 ---
 
@@ -28,12 +37,30 @@
 
 ---
 
+### 🚀 谷歌推出 CoWoS 替代品，聯發科技向英特爾求愛
+- **題材**: `半導體先進製程` | **重要性**: `78`
+- **來源**: Digitimes (2026-05-14T01:41:59Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 聯發科決定與台積電的 CoWoS 生態系統和英特爾的 EMIB 平台尋求先進封裝合作夥伴關係，已成為半導體產業最受關注的策略舉措之一。
+- [原文連結](https://www.digitimes.com/news/a20260514PD217/mediatek-intel-asic-cowos-emib.html)
+
+---
+
 ### ⚠️ 台積電CoWoS缺貨推動SK海力士-英特爾2.5D推
 - **題材**: `半導體先進製程` | **重要性**: `78`
 - **來源**: Digitimes (2026-05-12T09:17:57Z)
 - **AI 判讀**: 屬「半導體先進製程」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 據報道，台積電 CoWoS 供應緊張，促使 SK Hynix 與英特爾在先進封裝方面合作，因為該行業希望實現 AI 加速器的 2.5D 封裝供應鏈多元化。
 - [原文連結](https://www.digitimes.com/news/a20260512PD235/tsmc-packaging-sk-hynix-cowos-intel.html)
+
+---
+
+### ⚖️ 勤誠從AI伺服器機殼擴展到液冷CDU
+- **題材**: `AI伺服器` | **重要性**: `73`
+- **來源**: Digitimes (2026-05-12T00:41:31Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 勤诚首席执行官 Corona Chen 表示，强劲的人工智能需求正在重塑数据中心架构，推动公司超越传统的机箱业务，进入系统、机架和液冷基础设施领域。她說勤誠已經從PC機殼轉向通用機殼…
+- [原文連結](https://www.digitimes.com/news/a20260511PD235/chenbro-chassis-revenue-demand-ceo.html)
 
 ---
 
@@ -55,12 +82,30 @@
 
 ---
 
+### ⚖️ Tower Semiconductor 簽署 2027 年矽光子收入 13 億美元的客戶合約
+- **題材**: `光通訊與矽光子` | **重要性**: `70`
+- **來源**: GlobeNewswire (2026-05-13T11:19:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 2028 年合約顯示出大幅提高...
+- [原文連結](https://www.globenewswire.com/news-release/2026/05/13/3293875/0/en/Tower-Semiconductor-Signs-Customer-Contracts-for-1-3-Billion-Silicon-Photonics-Revenue-for-2027.html)
+
+---
+
 ### 🚀 亞馬遜競相打造「面向未來」的人工智慧資料中心，以實現耗電新技術
 - **題材**: `AI伺服器` | **重要性**: `70`
 - **來源**: Business Insider (2026-05-12T09:00:01Z)
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 亞馬遜今年計畫資本支出 2,000 億美元。其中很大一部分用於人工智慧資料中心。 Titus 計劃讓這些設施「面向未來」。
 - [原文連結](https://www.businessinsider.com/amazon-titus-future-proof-ai-data-centers-nvidia-gpus-servers-2026-5)
+
+---
+
+### 🚀 三星、SK海力士的利潤超過所有印度上市公司
+- **題材**: `HBM記憶體` | **重要性**: `70`
+- **來源**: The Times of India (2026-05-12T00:07:53Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 韓國晶片製造商三星和 SK 海力士在 2026 年 3 月季度的利潤總額達到創紀錄的 597 億美元，超過了印度公司之前任何一個季度的利潤總額。這一激增是由蓬勃發展的人工智慧資本支出推動的，其中內存...
+- [原文連結](https://economictimes.indiatimes.com/markets/us-stocks/news/samsung-sk-hynix-earn-more-profit-than-all-of-listed-india-inc/articleshow/131025961.cms)
 
 ---
 
@@ -73,21 +118,30 @@
 
 ---
 
-### ⚖️ 據報道，台積電將推動 CoPoS 獨家經營權，以鎖定下一代封裝領先地位
-- **題材**: `半導體先進製程` | **重要性**: `68`
-- **來源**: Digitimes (2026-05-08T07:49:55Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 台積電正在加速擴大其CoWoS先進封裝產能，同時推進技術要求更高的面板級封裝技術CoPoS，旨在擴大在AI半導體競賽中對競爭對手的領先優勢。業內人士稱…
-- [原文連結](https://www.digitimes.com/news/a20260508PD207/tsmc-packaging-cowos-expansion-capacity.html)
-
----
-
 ### ⚖️ Aeluma 第三季財報電話會議亮點
 - **題材**: `光通訊與矽光子` | **重要性**: `65`
 - **來源**: MarketBeat (2026-05-14T00:13:26Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Aeluma（納斯達克股票代碼：ALMU）高層表示，該公司看到客戶對其作為人工智慧資料中心的光子技術的興趣日益增加...
 - [原文連結](https://www.marketbeat.com/instant-alerts/aeluma-q3-earnings-call-highlights-2026-05-13/?utm_source=yahoofinance&amp;utm_medium=yahoofinance)
+
+---
+
+### 🚀 戴爾股價在 2026 年幾乎翻了一番。瑞銀分析師表示，它可能不會再進一步上漲。
+- **題材**: `AI伺服器` | **重要性**: `65`
+- **來源**: Barchart.com (2026-05-13T19:10:31Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 瑞銀認為，戴爾的伺服器需求已經在今年股價幾乎翻倍後反映在股價上。
+- [原文連結](https://www.barchart.com/story/news/1912583/dell-stock-has-nearly-doubled-in-2026-ubs-analysts-say-it-likely-wont-go-any-further)
+
+---
+
+### 🚀 MacBook Neo 深入探討：基準、晶圓經濟學和 8GB 賭博
+- **題材**: `HBM記憶體` | **重要性**: `65`
+- **來源**: Jdhodges.com (2026-05-13T18:30:51Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 售價 599 美元的 MacBook Neo 中的 A18 Pro 處理器。 Geekbench 6 單核得分為 3,569，介於 M3 和 M4 之間。完整的 CPU 基準測試、功耗和熱分析。
+- [原文連結](https://www.jdhodges.com/blog/macbook-neo-benchmarks-analysis/)
 
 ---
 
@@ -109,15 +163,6 @@
 
 ---
 
-### ⚠️ 黃仁勳加入川普在中國的大亨隨行人員
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: Gizmodo.com (2026-05-13T04:21:34Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 擦乾眼睛。世界上最有價值公司的億萬富翁執行長將開始這次千載難逢的旅行。
-- [原文連結](https://gizmodo.com/jensen-huang-joins-trumps-tycoon-entourage-in-china-2000757841)
-
----
-
 ### 🚀 人工智慧第一大瓶頸飆升 497%
 - **題材**: `HBM記憶體` | **重要性**: `65`
 - **來源**: 24/7 Wall St. (2026-05-12T17:22:43Z)
@@ -127,57 +172,12 @@
 
 ---
 
-### 🚀 NASA 的 Psyche 任務正在拍攝火星前往小行星途中的照片
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: Scientific American (2026-05-14T17:20:00Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Psyche 太空船的目標是一顆富含金屬的小行星，它將從 2029 年開始近距離檢查該小行星。但首先，它需要掠過這顆紅色星球
-- [原文連結](https://www.scientificamerican.com/article/nasas-psyche-mission-is-snapping-photos-of-mars-on-its-way-to-an-asteroid/)
-
----
-
-### ⚖️ 台積電預測2030年全球晶片市場因AI將達1.5兆美元
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: GSMArena.com (2026-05-14T15:41:02Z)
+### ⚖️ DIGITIMES Insight：聯發科否認與英特爾的聯繫，台積電封裝領先面臨新考驗
+- **題材**: `半導體先進製程` | **重要性**: `63`
+- **來源**: Digitimes (2026-05-11T04:14:54Z)
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 當前的人工智慧熱潮給一些人帶來了稀缺，而為另一些人帶來了巨額利潤。路透社報道稱，台積電在今天早些時候的一次演講中預測，到 2030 年，全球半導體市場將達到 1.5 兆美元以上——就背景而言，之前的預測是…
-- [原文連結](https://www.gsmarena.com/tsmc_predicts_that_the_global_chip_market_will_reach_15_trillion_by_2030_because_of_ai-news-72820.php)
-
----
-
-### 🚀 我們已經浪費了 99% 的超新星數據
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: Universe Today (2026-05-14T10:48:06Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 每當天文學家將望遠鏡對準遙遠的超新星時，他們都會試圖測量它的距離。但這些恆星爆炸發出的光與塵埃、宿主星系的年齡和化學成分的干擾糾纏在一起…
-- [原文連結](https://www.universetoday.com/articles/weve-been-wasting-99-of-our-supernova-data)
-
----
-
-### ⚠️ 蘋果第一季美國 iPhone 銷售成長，而更廣泛的智慧型手機市場下滑
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: MacRumors (2026-05-13T21:48:35Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 根據 Counterpoint Research 分享的數據，2026 年第一季蘋果智慧型手機銷量在美國年增 1.3%。蘋果的銷量有所成長，而美國智慧型手機市場整體成長了 5.7%…
-- [原文連結](https://www.macrumors.com/2026/05/13/apple-q1-market-share-growth/)
-
----
-
-### 🚀 沃什獲得聯準會主席提名，通膨抬頭
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-05-13T18:50:50Z)
-- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 參議院週三投票確認凱文沃什 (Kevin Warsh) 擔任美聯儲主席，為這位律師、金融家和前央行主席鋪平了道路…
-- [原文連結](https://finance.yahoo.com/news/warsh-wins-confirmation-fed-chair-185050168.html)
-
----
-
-### 🚀 那斯達克指數飆漲逾 1%；第四季業績公佈後，阿里巴巴股價上漲
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-05-13T17:42:42Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 美國股市在交易中漲跌互現，納斯達克綜合指數週三上漲超過 1%。道瓊指數下跌 0.24%，至 49,638.96 點，而...
-- [原文連結](https://finance.yahoo.com/news/nasdaq-surges-over-1-alibaba-174242926.html)
+- **摘要**: DIGITIMES 高級分析師 Luke Lin 表示，華倫巴菲特對蘋果的投資不應被簡單地視為股票交易，而應被視為對該公司及其執行長 Tim Cook 領導下的押注。
+- [原文連結](https://www.digitimes.com/news/a20260511PD208/digitimes-tsmc-mediatek-intel-packaging.html)
 
 ---
 
