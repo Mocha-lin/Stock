@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-05-17T14:19:04.850062+00:00",
+  "generated_at": "2026-05-17T15:48:00.288666+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 73,
@@ -459,6 +459,44 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "796ae0129db5fdc5",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "特習會後，中國暗示削減關稅、推動農產品市場准入",
+      "summary": "北京5月16日電（路透社）",
+      "original_title": "China signals tariff cuts, advances in farm market access after Trump-Xi summit",
+      "url": "https://finance.yahoo.com/news/china-signals-tariff-cuts-advances-153000943.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-05-16T15:30:00Z",
+      "importance": 60,
+      "impact": "negative",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "1633198e930c4a62",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -647,79 +685,6 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "63c57add22cd9ccd",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "台積電預測2030年全球晶片市場因AI將達1.5兆美元",
-      "summary": "當前的人工智慧熱潮給一些人帶來了稀缺，而為另一些人帶來了巨額利潤。路透社報道稱，台積電在今天早些時候的一次演講中預測，到 2030 年，全球半導體市場將達到 1.5 兆美元以上——就背景而言，之前的預測是…",
-      "original_title": "TSMC predicts that the global chip market will reach $1.5 trillion by 2030 because of AI",
-      "url": "https://www.gsmarena.com/tsmc_predicts_that_the_global_chip_market_will_reach_15_trillion_by_2030_because_of_ai-news-72820.php",
-      "source": "GSMArena.com",
-      "domain": "gsmarena.com",
-      "published_at": "2026-05-14T15:41:02Z",
-      "importance": 60,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "41b226896ab6b36d",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "DRAM ETF 的 85% 飆升掩蓋了一個危險的賭注：為什麼這個記憶體遊戲不屬於退休投資組合",
-      "summary": "Roundhill Memory ETF（CBOE：DRAM）於 2026 年 4 月 2 日推出，是第一個完全圍繞記憶體晶片製造商建立的美國上市基金，並且已經...",
-      "original_title": "DRAM ETF’s 85% Surge Masks a Dangerous Bet: Why This Memory Play Doesn’t Belong in Retirement Portfolios",
-      "url": "https://247wallst.com/investing/2026/05/14/dram-etfs-85-surge-masks-a-dangerous-bet-why-this-memory-play-doesnt-belong-in-retirement-portfolios/",
-      "source": "24/7 Wall St.",
-      "domain": "247wallst.com",
-      "published_at": "2026-05-14T15:00:32Z",
-      "importance": 60,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "0e2e575bec644507",
@@ -1359,32 +1324,32 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "9d219abf1bf53706",
+      "id": "63c57add22cd9ccd",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "人力資源主管表示，大型科技公司的裁員對 PitchBook 來說是一場勝利",
-      "summary": "PitchBook 首席產品長 Paul Jaeschke 表示，大型科技公司的裁員讓該數據平台能夠接觸到頂級人才。",
-      "original_title": "Big Tech's layoffs have been a win for PitchBook, its HR chief says",
-      "url": "https://www.businessinsider.com/big-tech-layoffs-have-benefited-pitchbook-cpo-says-2026-5",
-      "source": "Business Insider",
-      "domain": "businessinsider.com",
-      "published_at": "2026-05-14T14:53:06Z",
+      "theme": "半導體先進製程",
+      "title": "台積電預測2030年全球晶片市場因AI將達1.5兆美元",
+      "summary": "當前的人工智慧熱潮給一些人帶來了稀缺，而為另一些人帶來了巨額利潤。路透社報道稱，台積電在今天早些時候的一次演講中預測，到 2030 年，全球半導體市場將達到 1.5 兆美元以上——就背景而言，之前的預測是…",
+      "original_title": "TSMC predicts that the global chip market will reach $1.5 trillion by 2030 because of AI",
+      "url": "https://www.gsmarena.com/tsmc_predicts_that_the_global_chip_market_will_reach_15_trillion_by_2030_because_of_ai-news-72820.php",
+      "source": "GSMArena.com",
+      "domain": "gsmarena.com",
+      "published_at": "2026-05-14T15:41:02Z",
       "importance": 55,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
+        "半導體",
+        "CoWoS",
+        "先進製程"
       ],
       "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
       ],
       "related_models": [
         "003",
@@ -1394,7 +1359,42 @@
         "009",
         "010"
       ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "41b226896ab6b36d",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "DRAM ETF 的 85% 飆升掩蓋了一個危險的賭注：為什麼這個記憶體遊戲不屬於退休投資組合",
+      "summary": "Roundhill Memory ETF（CBOE：DRAM）於 2026 年 4 月 2 日推出，是第一個完全圍繞記憶體晶片製造商建立的美國上市基金，並且已經...",
+      "original_title": "DRAM ETF’s 85% Surge Masks a Dangerous Bet: Why This Memory Play Doesn’t Belong in Retirement Portfolios",
+      "url": "https://247wallst.com/investing/2026/05/14/dram-etfs-85-surge-masks-a-dangerous-bet-why-this-memory-play-doesnt-belong-in-retirement-portfolios/",
+      "source": "24/7 Wall St.",
+      "domain": "247wallst.com",
+      "published_at": "2026-05-14T15:00:32Z",
+      "importance": 55,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "9c52d4bdf1407183",
@@ -1582,44 +1582,6 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "2d63c01b3fa58297",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "美國和中國尋求修復導致貿易直線下滑的關稅戰造成的損害",
-      "summary": "",
-      "original_title": "US and China seek to repair damage from tariff war that sent trade into a freefall",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_638156d3-7d92-4ee3-bed4-897e42530364",
-      "source": "Yahoo Entertainment",
-      "domain": "consent.yahoo.com",
-      "published_at": "2026-05-13T16:10:46Z",
-      "importance": 55,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "fc382c058e65b1c9",
@@ -1991,6 +1953,44 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "9d219abf1bf53706",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "人力資源主管表示，大型科技公司的裁員對 PitchBook 來說是一場勝利",
+      "summary": "PitchBook 首席產品長 Paul Jaeschke 表示，大型科技公司的裁員讓該數據平台能夠接觸到頂級人才。",
+      "original_title": "Big Tech's layoffs have been a win for PitchBook, its HR chief says",
+      "url": "https://www.businessinsider.com/big-tech-layoffs-have-benefited-pitchbook-cpo-says-2026-5",
+      "source": "Business Insider",
+      "domain": "businessinsider.com",
+      "published_at": "2026-05-14T14:53:06Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "160fbec86e7911c6",

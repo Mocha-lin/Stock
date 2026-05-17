@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-05-17T14:19:04.850062+00:00
+> 更新時間：2026-05-17T15:48:00.288666+00:00
 
 ### 🚀 隨著人工智慧需求的加速，Tower Semiconductor 獲得 13 億美元的矽光子承諾
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -109,6 +109,15 @@
 
 ---
 
+### ⚠️ 特習會後，中國暗示削減關稅、推動農產品市場准入
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-05-16T15:30:00Z)
+- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 北京5月16日電（路透社）
+- [原文連結](https://finance.yahoo.com/news/china-signals-tariff-cuts-advances-153000943.html)
+
+---
+
 ### ⚖️ 台積電預測2030年半導體市場將達1.5兆美元
 - **題材**: `半導體先進製程` | **重要性**: `60`
 - **來源**: TheStreet (2026-05-15T18:47:00Z)
@@ -154,30 +163,21 @@
 
 ---
 
-### ⚖️ 台積電預測2030年全球晶片市場因AI將達1.5兆美元
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: GSMArena.com (2026-05-14T15:41:02Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 當前的人工智慧熱潮給一些人帶來了稀缺，而為另一些人帶來了巨額利潤。路透社報道稱，台積電在今天早些時候的一次演講中預測，到 2030 年，全球半導體市場將達到 1.5 兆美元以上——就背景而言，之前的預測是…
-- [原文連結](https://www.gsmarena.com/tsmc_predicts_that_the_global_chip_market_will_reach_15_trillion_by_2030_because_of_ai-news-72820.php)
-
----
-
-### 🚀 DRAM ETF 的 85% 飆升掩蓋了一個危險的賭注：為什麼這個記憶體遊戲不屬於退休投資組合
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: 24/7 Wall St. (2026-05-14T15:00:32Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Roundhill Memory ETF（CBOE：DRAM）於 2026 年 4 月 2 日推出，是第一個完全圍繞記憶體晶片製造商建立的美國上市基金，並且已經...
-- [原文連結](https://247wallst.com/investing/2026/05/14/dram-etfs-85-surge-masks-a-dangerous-bet-why-this-memory-play-doesnt-belong-in-retirement-portfolios/)
-
----
-
 ### ⚖️ Aeluma 第三季財報電話會議亮點
 - **題材**: `光通訊與矽光子` | **重要性**: `60`
 - **來源**: MarketBeat (2026-05-14T00:13:26Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Aeluma（納斯達克股票代碼：ALMU）高層表示，該公司看到客戶對其作為人工智慧資料中心的光子技術的興趣日益增加...
 - [原文連結](https://www.marketbeat.com/instant-alerts/aeluma-q3-earnings-call-highlights-2026-05-13/?utm_source=yahoofinance&amp;utm_medium=yahoofinance)
+
+---
+
+### 🚀 MacBook Neo 深入探討：基準、晶圓經濟學和 8GB 賭博
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: Jdhodges.com (2026-05-13T18:30:51Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 售價 599 美元的 MacBook Neo 中的 A18 Pro 處理器。 Geekbench 6 單核得分為 3,569，介於 M3 和 M4 之間。完整的 CPU 基準測試、功耗和熱分析。
+- [原文連結](https://www.jdhodges.com/blog/macbook-neo-benchmarks-analysis/)
 
 ---
 
