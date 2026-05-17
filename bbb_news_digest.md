@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-05-16T23:53:36.510235+00:00
+> 更新時間：2026-05-17T04:48:05.888710+00:00
 
 ### 🚀 隨著人工智慧需求的加速，Tower Semiconductor 獲得 13 億美元的矽光子承諾
 - **題材**: `光通訊與矽光子` | **重要性**: `88`
@@ -25,15 +25,6 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 台積電北美站結束後，於 2026 年 5 月 14 日在新竹舉行年度技術研討會，高層指出，人工智慧應用正從雲端資料中心快速擴展到邊緣設備，推動半導體運算設備需求激增。
 - [原文連結](https://www.digitimes.com/news/a20260514PD231/tsmc-technology-packaging-demand-2026.html)
-
----
-
-### 🚀 谷歌推出 CoWoS 替代品，聯發科技向英特爾求愛
-- **題材**: `半導體先進製程` | **重要性**: `78`
-- **來源**: Digitimes (2026-05-14T01:41:59Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 聯發科決定與台積電的 CoWoS 生態系統和英特爾的 EMIB 平台尋求先進封裝合作夥伴關係，已成為半導體產業最受關注的策略舉措之一。
-- [原文連結](https://www.digitimes.com/news/a20260514PD217/mediatek-intel-asic-cowos-emib.html)
 
 ---
 
@@ -100,15 +91,6 @@
 
 ---
 
-### ⚖️ Aeluma 第三季財報電話會議亮點
-- **題材**: `光通訊與矽光子` | **重要性**: `65`
-- **來源**: MarketBeat (2026-05-14T00:13:26Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Aeluma（納斯達克股票代碼：ALMU）高層表示，該公司看到客戶對其作為人工智慧資料中心的光子技術的興趣日益增加...
-- [原文連結](https://www.marketbeat.com/instant-alerts/aeluma-q3-earnings-call-highlights-2026-05-13/?utm_source=yahoofinance&amp;utm_medium=yahoofinance)
-
----
-
 ### 🚀 人工智慧第一大瓶頸飆升 497%
 - **題材**: `HBM記憶體` | **重要性**: `65`
 - **來源**: 24/7 Wall St. (2026-05-12T17:22:43Z)
@@ -124,6 +106,15 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: DIGITIMES 高級分析師 Luke Lin 表示，華倫巴菲特對蘋果的投資不應被簡單地視為股票交易，而應被視為對該公司及其執行長 Tim Cook 領導下的押注。
 - [原文連結](https://www.digitimes.com/news/a20260511PD208/digitimes-tsmc-mediatek-intel-packaging.html)
+
+---
+
+### ⚖️ 台積電預測2030年半導體市場將達1.5兆美元
+- **題材**: `半導體先進製程` | **重要性**: `60`
+- **來源**: TheStreet (2026-05-15T18:47:00Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 台積電 (TSM) 僅在 2026 年就上漲了 40%，因為投資者考慮到更大的晶片市場以及該公司在...
+- [原文連結](https://www.thestreet.com/investing/stocks/tsmc-predicts-semiconductor-market-will-reach-1-5-trillion-by-2030)
 
 ---
 
@@ -178,6 +169,15 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Roundhill Memory ETF（CBOE：DRAM）於 2026 年 4 月 2 日推出，是第一個完全圍繞記憶體晶片製造商建立的美國上市基金，並且已經...
 - [原文連結](https://247wallst.com/investing/2026/05/14/dram-etfs-85-surge-masks-a-dangerous-bet-why-this-memory-play-doesnt-belong-in-retirement-portfolios/)
+
+---
+
+### 🚀 我們已經浪費了 99% 的超新星數據
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: Universe Today (2026-05-14T10:48:06Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 每當天文學家將望遠鏡對準遙遠的超新星時，他們都會試圖測量它的距離。但這些恆星爆炸發出的光與塵埃、宿主星系的年齡和化學成分的干擾糾纏在一起…
+- [原文連結](https://www.universetoday.com/articles/weve-been-wasting-99-of-our-supernova-data)
 
 ---
 
