@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-05-17T07:30:00.671389+00:00
+> 更新時間：2026-05-17T10:22:32.861386+00:00
 
 ### 🚀 隨著人工智慧需求的加速，Tower Semiconductor 獲得 13 億美元的矽光子承諾
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -7,15 +7,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Tower Semiconductor 公佈 2026 年開局強勁，營收實現兩位數成長，淨利大幅躍升。繼第一季度“穩健”之後，該公司發布了第二季度的指導意見，這將代表...
 - [原文連結](https://www.digitimes.com/news/a20260514VL206/tower-semiconductor-photonics-silicon-revenue-demand.html)
-
----
-
-### ⚖️ 台積電在 AI 熱潮擴大 CoWoS 和 SoIC 產能
-- **題材**: `半導體先進製程` | **重要性**: `78`
-- **來源**: Digitimes (2026-05-14T08:06:57Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 台積電2026年5月14日表示，隨著人工智慧需求推動全球18座新晶圓廠和先進封裝設施的建設，台積電正快速擴大CoWoS和SoIC先進封裝產能。在 2026 年技術研討會上，台積電副總裁 Bor-Zen T…
-- [原文連結](https://www.digitimes.com/news/a20260514PD237/tsmc-cowos-soic-capacity-packaging.html)
 
 ---
 
@@ -34,6 +25,15 @@
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Span 與 Nvidia 和 PulteGroup 合作，利用家庭未充分利用的電力進行電腦處理。
 - [原文連結](https://finance.yahoo.com/sectors/technology/articles/startups-installing-tiny-data-centers-195858169.html)
+
+---
+
+### ⚖️ 台積電在 AI 熱潮擴大 CoWoS 和 SoIC 產能
+- **題材**: `半導體先進製程` | **重要性**: `73`
+- **來源**: Digitimes (2026-05-14T08:06:57Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 台積電2026年5月14日表示，隨著人工智慧需求推動全球18座新晶圓廠和先進封裝設施的建設，台積電正快速擴大CoWoS和SoIC先進封裝產能。在 2026 年技術研討會上，台積電副總裁 Bor-Zen T…
+- [原文連結](https://www.digitimes.com/news/a20260514PD237/tsmc-cowos-soic-capacity-packaging.html)
 
 ---
 
