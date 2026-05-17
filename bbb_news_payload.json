@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-05-17T19:58:00.727654+00:00",
+  "generated_at": "2026-05-17T23:58:12.133086+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 73,
@@ -1172,82 +1172,6 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "427f5d73ca521dba",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "美國銀行與高盛重置 Marvell 股價目標",
-      "summary": "Marvell (MRVL) 股票 5 月 13 日交易日收盤價為 177.95 美元。據雅虎財經稱，這意味著自 3 月 5 日以來該股已上漲 135%。同時，...",
-      "original_title": "BofA and Goldman Sachs reset Marvell stock price targets",
-      "url": "https://www.thestreet.com/investing/stocks/bofa-and-goldman-sachs-reset-marvell-stock-price-targets",
-      "source": "TheStreet",
-      "domain": "thestreet.com",
-      "published_at": "2026-05-14T23:00:00Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "8d3b498c9b8b310a",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "投資人關注川普與習近平峰會，道瓊工業指數收在 50,000 點上方",
-      "summary": "週四油價小幅走高。",
-      "original_title": "Dow closes above 50,000 as investors eye Trump-Xi summit",
-      "url": "https://abcnews.com/Business/dow-crosses-50000-investors-eye-trump-xi-summit/story?id=132960205",
-      "source": "Abcnews.com",
-      "domain": "abcnews.com",
-      "published_at": "2026-05-14T20:33:35Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "63c57add22cd9ccd",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1877,6 +1801,82 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "427f5d73ca521dba",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "美國銀行與高盛重置 Marvell 股價目標",
+      "summary": "Marvell (MRVL) 股票 5 月 13 日交易日收盤價為 177.95 美元。據雅虎財經稱，這意味著自 3 月 5 日以來該股已上漲 135%。同時，...",
+      "original_title": "BofA and Goldman Sachs reset Marvell stock price targets",
+      "url": "https://www.thestreet.com/investing/stocks/bofa-and-goldman-sachs-reset-marvell-stock-price-targets",
+      "source": "TheStreet",
+      "domain": "thestreet.com",
+      "published_at": "2026-05-14T23:00:00Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "8d3b498c9b8b310a",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "投資人關注川普與習近平峰會，道瓊工業指數收在 50,000 點上方",
+      "summary": "週四油價小幅走高。",
+      "original_title": "Dow closes above 50,000 as investors eye Trump-Xi summit",
+      "url": "https://abcnews.com/Business/dow-crosses-50000-investors-eye-trump-xi-summit/story?id=132960205",
+      "source": "Abcnews.com",
+      "domain": "abcnews.com",
+      "published_at": "2026-05-14T20:33:35Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "12459de13e31186e",
