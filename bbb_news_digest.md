@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-05-18T08:55:32.863673+00:00
+> 更新時間：2026-05-18T12:31:27.499577+00:00
 
 ### 🚀 隨著人工智慧需求的加速，Tower Semiconductor 獲得 13 億美元的矽光子承諾
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -46,15 +46,6 @@
 
 ---
 
-### 🚀 晶片封裝合作報道傳出後，英特爾、SK 海力士股價飆升——據說 SK 正在測試英特爾 2.5D EMIB 的 HBM 集成
-- **題材**: `半導體先進製程` | **重要性**: `72`
-- **來源**: Tom's Hardware UK (2026-05-11T11:08:28Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 先前有報告指出 SK 正在與英特爾一起使用英特爾的 EMIB 技術進行 2.5D 封裝的研發。
-- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-shares-surge-to-all-time-high-on-reports-of-intel-emib-partnership)
-
----
-
 ### 🚀 亞馬遜競相打造「面向未來」的人工智慧資料中心，以實現耗電新技術
 - **題材**: `AI伺服器` | **重要性**: `70`
 - **來源**: Business Insider (2026-05-12T09:00:01Z)
@@ -88,6 +79,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 正晶科技宣布，第一季綜合營收為新台幣 31.12 億元（合 9,910 萬美元），毛利率為 10.4%，但由於策略重組和原材料壓力影響業績，公司轉為淨虧損。網路中…
 - [原文連結](https://www.digitimes.com/news/a20260511PD220/revenue-loss-gemtek-gross-margin-shipments.html)
+
+---
+
+### 🚀 晶片封裝合作報道傳出後，英特爾、SK 海力士股價飆升——據說 SK 正在測試英特爾 2.5D EMIB 的 HBM 集成
+- **題材**: `半導體先進製程` | **重要性**: `67`
+- **來源**: Tom's Hardware UK (2026-05-11T11:08:28Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 先前有報告指出 SK 正在與英特爾一起使用英特爾的 EMIB 技術進行 2.5D 封裝的研發。
+- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-shares-surge-to-all-time-high-on-reports-of-intel-emib-partnership)
 
 ---
 
@@ -127,24 +127,6 @@
 
 ---
 
-### ⚖️ 由於通膨擔憂導致債券殖利率上漲，全球股市下跌
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-05-15T09:06:27Z)
-- **AI 判讀**: 屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 作者：Sophie Kiderlin 倫敦，5 月 15 日（路透社）
-- [原文連結](https://finance.yahoo.com/news/asian-shares-dive-as-us-yields-hit-one-year-high-053836732.html)
-
----
-
-### ⚖️ 由於選擇了這種晶片，某些 Galaxy S27 型號可能會運行得更熱
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: Android Authority (2026-05-15T08:57:22Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 部分 Galaxy S27 機型預計將搭載 Exynos 2700 處理器，但一份新報告顯示，矽晶片發生了令人擔憂的變化。
-- [原文連結](https://www.androidauthority.com/samsung-galaxy-s27-chip-major-change-3667384/)
-
----
-
 ### ⚖️ 中國AI光學億萬富翁在股價上漲340%後考慮在香港兩地上市
 - **題材**: `光通訊與矽光子` | **重要性**: `60`
 - **來源**: Forbes (2026-05-15T07:32:26Z)
@@ -178,6 +160,24 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Tower Semiconductor（納斯達克股票代碼：TSEM）公佈 2026 年第一季利潤同比大幅增長，並發布了其所謂的指導...
 - [原文連結](https://www.marketbeat.com/instant-alerts/tower-semiconductor-q1-earnings-call-highlights-2026-05-13/?utm_source=yahoofinance&amp;utm_medium=yahoofinance)
+
+---
+
+### ⚖️ 隨著資料中心需求在 2027 年達到高峰，應用光電著眼於 800G 產能提升
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: MarketBeat (2026-05-13T14:07:48Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 應用光電公司（納斯達克股票代碼：AAOI）預計，隨著對更高速收發器的需求持續增長，其數據中心光學業務下半年將大幅增長...
+- [原文連結](https://www.marketbeat.com/instant-alerts/applied-optoelectronics-eyes-800g-ramp-as-data-center-demand-tops-capacity-into-2027-2026-05-13/?utm_source=yahoofinance&amp;utm_medium=yahoofinance)
+
+---
+
+### ⚠️ 黃仁勳加入川普在中國的大亨隨行人員
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: Gizmodo.com (2026-05-13T04:21:34Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 擦乾眼睛。世界上最有價值公司的億萬富翁執行長將開始這次千載難逢的旅行。
+- [原文連結](https://gizmodo.com/jensen-huang-joins-trumps-tycoon-entourage-in-china-2000757841)
 
 ---
 
