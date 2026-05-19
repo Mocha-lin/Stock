@@ -1,9 +1,9 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-05-19T16:13:32.826676+00:00",
+  "generated_at": "2026-05-19T18:30:18.451946+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
-  "total_count": 72,
+  "total_count": 71,
   "items": [
     {
       "id": "e707c2a5ded1f52e",
@@ -272,32 +272,29 @@
       "reason": "屬「半導體先進製程」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
-      "id": "5fb541d61c162abd",
+      "id": "9278be4dcdd70384",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "新創公司正在人們家中安裝小型資料中心，以減輕陷入困境的電網的壓力",
-      "summary": "Span 與 Nvidia 和 PulteGroup 合作，利用家庭未充分利用的電力進行電腦處理。",
-      "original_title": "Startups are installing tiny data centers in people’s homes to reduce strain on the beleaguered electrical grid",
-      "url": "https://finance.yahoo.com/sectors/technology/articles/startups-installing-tiny-data-centers-195858169.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-05-15T19:58:58Z",
-      "importance": 70,
+      "theme": "HBM記憶體",
+      "title": "DRAM 一個月飆升 51%，SOXX 上漲 32%，但只有一種能倖免於記憶體週期低迷",
+      "summary": "Roundhill Memory ETF (CBOE:DRAM) 和 iShares Semiconductor ETF (NASDAQ:SOXX) 之間的選擇看起來像是半導體暴露的決定，但它...",
+      "original_title": "DRAM Surged 51% in One Month While SOXX Climbed 32%, but Only One Survives the Memory Cycle Downturn",
+      "url": "https://247wallst.com/investing/2026/05/18/dram-surged-51-in-one-month-while-soxx-climbed-32-but-only-one-survives-the-memory-cycle-downturn/",
+      "source": "24/7 Wall St.",
+      "domain": "247wallst.com",
+      "published_at": "2026-05-18T16:30:49Z",
+      "importance": 65,
       "impact": "positive",
       "timeframe": "short_term",
       "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
+        "HBM",
+        "記憶體"
       ],
       "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
       ],
       "related_models": [
         "003",
@@ -307,7 +304,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "d7025c94c77b16ba",
@@ -384,41 +381,6 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "d04796946d1be1b1",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "人工智慧第一大瓶頸飆升 497%",
-      "summary": "人工智慧有一種有趣的方式，可以將不起眼的硬體組件變成經濟王者。一年前，大多數投資者幾乎沒有想到 DRAM...",
-      "original_title": "Artificial Intelligence’s No. 1 Bottleneck Just Surged 497%",
-      "url": "https://247wallst.com/investing/2026/05/12/artificial-intelligences-no-1-bottleneck-just-surged-497/",
-      "source": "24/7 Wall St.",
-      "domain": "247wallst.com",
-      "published_at": "2026-05-12T17:22:43Z",
-      "importance": 65,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "dd148b5fd220a15c",
@@ -567,6 +529,44 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "80fe62b161b6c6b0",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "亞馬遜的「Titus」計畫揭示了英偉達的真正實力",
+      "summary": "亞馬遜的 AI 專案 Titus 旨在為 Nvidia 的 GPU 打造面向未來的資料中心，平衡自己的 AI 晶片雄心和 Nvidia 的主導地位。",
+      "original_title": "Amazon's 'Titus' project reveals Nvidia's real power",
+      "url": "https://www.businessinsider.com/nvidia-amazon-titus-project-gpus-trainium-2026-5",
+      "source": "Business Insider",
+      "domain": "businessinsider.com",
+      "published_at": "2026-05-18T17:32:23Z",
+      "importance": 60,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "c9fc49832f3e0f65",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -641,41 +641,6 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "3086eaf483daf75b",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "三星Exynos 2800大升級可能會帶來更好的設備AI",
-      "summary": "關於三星預計將在 Exynos 2800 中引入的重大變化的報告已經開始出現。最新消息表明，三星正在研究下一代 HBM 封裝技術，該技術將顯著改善設備上的 AI 功能…",
-      "original_title": "Samsung’s big Exynos 2800 upgrades may bring better on-device AI",
-      "url": "https://www.sammobile.com/news/samsungs-big-exynos-2800-upgrades-may-bring-better-on-device-ai/",
-      "source": "SamMobile",
-      "domain": "sammobile.com",
-      "published_at": "2026-05-18T05:22:03Z",
-      "importance": 60,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "9ba36bcf913b5cf8",
@@ -938,6 +903,41 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "d04796946d1be1b1",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "人工智慧第一大瓶頸飆升 497%",
+      "summary": "人工智慧有一種有趣的方式，可以將不起眼的硬體組件變成經濟王者。一年前，大多數投資者幾乎沒有想到 DRAM...",
+      "original_title": "Artificial Intelligence’s No. 1 Bottleneck Just Surged 497%",
+      "url": "https://247wallst.com/investing/2026/05/12/artificial-intelligences-no-1-bottleneck-just-surged-497/",
+      "source": "24/7 Wall St.",
+      "domain": "247wallst.com",
+      "published_at": "2026-05-12T17:22:43Z",
+      "importance": 60,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "90bf00ffba1ba758",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1088,44 +1088,6 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "b0f17f09ebdcc62c",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "Apple Watch Series 12：這是我們目前所知的",
-      "summary": "与往年一样，今年 9 月，苹果将推出下一代 Apple Watch 型号。 Apple Watch Series 12 可能会采用与 Apple Watch Series 11 相同的设计语言，但会有一些变化。让我们深入了解一下。\n\n\n\n 更多…",
-      "original_title": "Apple Watch Series 12: Here’s what we know so far",
-      "url": "https://9to5mac.com/2026/05/16/apple-watch-series-12-heres-what-we-know-so-far/",
-      "source": "9to5Mac",
-      "domain": "9to5mac.com",
-      "published_at": "2026-05-16T16:34:00Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "796ae0129db5fdc5",
@@ -1689,44 +1651,6 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "2d63c01b3fa58297",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "美國和中國尋求修復導致貿易直線下滑的關稅戰造成的損害",
-      "summary": "",
-      "original_title": "US and China seek to repair damage from tariff war that sent trade into a freefall",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_638156d3-7d92-4ee3-bed4-897e42530364",
-      "source": "Yahoo Entertainment",
-      "domain": "consent.yahoo.com",
-      "published_at": "2026-05-13T16:10:46Z",
-      "importance": 55,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "08375c0dea8d2eec",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1909,6 +1833,44 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "b0f17f09ebdcc62c",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "Apple Watch Series 12：這是我們目前所知的",
+      "summary": "与往年一样，今年 9 月，苹果将推出下一代 Apple Watch 型号。 Apple Watch Series 12 可能会采用与 Apple Watch Series 11 相同的设计语言，但会有一些变化。让我们深入了解一下。\n\n\n\n 更多…",
+      "original_title": "Apple Watch Series 12: Here’s what we know so far",
+      "url": "https://9to5mac.com/2026/05/16/apple-watch-series-12-heres-what-we-know-so-far/",
+      "source": "9to5Mac",
+      "domain": "9to5mac.com",
+      "published_at": "2026-05-16T16:34:00Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "f5b64beda0b380f9",

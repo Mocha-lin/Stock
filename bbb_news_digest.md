@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-05-19T16:13:32.826676+00:00
+> 更新時間：2026-05-19T18:30:18.451946+00:00
 
 ### ⚖️ 隨著 Vera Rubin 產能接近第三季度，Nvidia GB300 推動 AI 伺服器繁榮
 - **題材**: `AI伺服器` | **重要性**: `83`
@@ -64,12 +64,12 @@
 
 ---
 
-### 🚀 新創公司正在人們家中安裝小型資料中心，以減輕陷入困境的電網的壓力
-- **題材**: `AI伺服器` | **重要性**: `70`
-- **來源**: Yahoo Entertainment (2026-05-15T19:58:58Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Span 與 Nvidia 和 PulteGroup 合作，利用家庭未充分利用的電力進行電腦處理。
-- [原文連結](https://finance.yahoo.com/sectors/technology/articles/startups-installing-tiny-data-centers-195858169.html)
+### 🚀 DRAM 一個月飆升 51%，SOXX 上漲 32%，但只有一種能倖免於記憶體週期低迷
+- **題材**: `HBM記憶體` | **重要性**: `65`
+- **來源**: 24/7 Wall St. (2026-05-18T16:30:49Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Roundhill Memory ETF (CBOE:DRAM) 和 iShares Semiconductor ETF (NASDAQ:SOXX) 之間的選擇看起來像是半導體暴露的決定，但它...
+- [原文連結](https://247wallst.com/investing/2026/05/18/dram-surged-51-in-one-month-while-soxx-climbed-32-but-only-one-survives-the-memory-cycle-downturn/)
 
 ---
 
@@ -88,15 +88,6 @@
 - **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 巴勃羅辛哈 (Pablo Sinha) 5 月 18 日報（路透社）
 - [原文連結](https://sg.finance.yahoo.com/news/gold-slips-1-1-2-013510310.html)
-
----
-
-### 🚀 人工智慧第一大瓶頸飆升 497%
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: 24/7 Wall St. (2026-05-12T17:22:43Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 人工智慧有一種有趣的方式，可以將不起眼的硬體組件變成經濟王者。一年前，大多數投資者幾乎沒有想到 DRAM...
-- [原文連結](https://247wallst.com/investing/2026/05/12/artificial-intelligences-no-1-bottleneck-just-surged-497/)
 
 ---
 
@@ -136,6 +127,15 @@
 
 ---
 
+### ⚖️ 亞馬遜的「Titus」計畫揭示了英偉達的真正實力
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: Business Insider (2026-05-18T17:32:23Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 亞馬遜的 AI 專案 Titus 旨在為 Nvidia 的 GPU 打造面向未來的資料中心，平衡自己的 AI 晶片雄心和 Nvidia 的主導地位。
+- [原文連結](https://www.businessinsider.com/nvidia-amazon-titus-project-gpus-trainium-2026-5)
+
+---
+
 ### ⚖️ MaxLinear (MXL) 宣佈為人工智慧資料中心推出華盛頓互阻放大器
 - **題材**: `光通訊與矽光子` | **重要性**: `60`
 - **來源**: Yahoo Entertainment (2026-05-18T14:40:58Z)
@@ -154,15 +154,6 @@
 
 ---
 
-### 🚀 三星Exynos 2800大升級可能會帶來更好的設備AI
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: SamMobile (2026-05-18T05:22:03Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 關於三星預計將在 Exynos 2800 中引入的重大變化的報告已經開始出現。最新消息表明，三星正在研究下一代 HBM 封裝技術，該技術將顯著改善設備上的 AI 功能…
-- [原文連結](https://www.sammobile.com/news/samsungs-big-exynos-2800-upgrades-may-bring-better-on-device-ai/)
-
----
-
 ### ⚖️ 中國AI光學億萬富翁在股價上漲340%後考慮在香港兩地上市
 - **題材**: `光通訊與矽光子` | **重要性**: `60`
 - **來源**: Forbes (2026-05-15T07:32:26Z)
@@ -178,6 +169,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Aeluma（納斯達克股票代碼：ALMU）高層表示，該公司看到客戶對其作為人工智慧資料中心的光子技術的興趣日益增加...
 - [原文連結](https://www.marketbeat.com/instant-alerts/aeluma-q3-earnings-call-highlights-2026-05-13/?utm_source=yahoofinance&amp;utm_medium=yahoofinance)
+
+---
+
+### 🚀 MacBook Neo 深入探討：基準、晶圓經濟學和 8GB 賭博
+- **題材**: `半導體先進製程` | **重要性**: `60`
+- **來源**: Jdhodges.com (2026-05-13T18:30:51Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 售價 599 美元的 MacBook Neo 中的 A18 Pro 處理器。 Geekbench 6 單核得分為 3,569，介於 M3 和 M4 之間。完整的 CPU 基準測試、功耗和熱分析。
+- [原文連結](https://www.jdhodges.com/blog/macbook-neo-benchmarks-analysis/)
 
 ---
 
