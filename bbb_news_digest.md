@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-05-19T12:11:46.741609+00:00
+> 更新時間：2026-05-19T16:13:32.826676+00:00
 
 ### ⚖️ 隨著 Vera Rubin 產能接近第三季度，Nvidia GB300 推動 AI 伺服器繁榮
 - **題材**: `AI伺服器` | **重要性**: `83`
@@ -16,6 +16,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Tower Semiconductor 公佈 2026 年開局強勁，營收實現兩位數成長，淨利大幅躍升。繼第一季度“穩健”之後，該公司發布了第二季度的指導意見，這將代表...
 - [原文連結](https://www.digitimes.com/news/a20260514VL206/tower-semiconductor-photonics-silicon-revenue-demand.html)
+
+---
+
+### 🚀 Nvidia 價格預測：2030 年科技巨頭將走向何方？
+- **題材**: `AI伺服器` | **重要性**: `75`
+- **來源**: 24/7 Wall St. (2026-05-18T15:11:07Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: NVIDIA（納斯達克股票代碼：NVDA）是人工智慧經濟的作業系統。該公司剛結束 2026 財年，營收為 2159.4 億美元，淨利潤為 1200.7 億美元，...
+- [原文連結](https://247wallst.com/investing/2026/05/18/nvidia-price-prediction-where-will-the-tech-giant-be-in-2030/)
 
 ---
 
@@ -61,6 +70,15 @@
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Span 與 Nvidia 和 PulteGroup 合作，利用家庭未充分利用的電力進行電腦處理。
 - [原文連結](https://finance.yahoo.com/sectors/technology/articles/startups-installing-tiny-data-centers-195858169.html)
+
+---
+
+### ⚠️ 索尼因涉嫌扣留「非法」關稅產生的「巨額意外之財」而被起訴
+- **題材**: `總體風險` | **重要性**: `65`
+- **來源**: Kotaku (2026-05-18T15:45:41Z)
+- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 集體訴訟稱，在川普政府實施 IEEPA 關稅退款後，索尼將獲得“雙倍回收意外之財”，並認為這筆退款應轉嫁給消費者
+- [原文連結](https://kotaku.com/sony-is-being-sued-for-allegedly-retaining-substantial-windfall-generated-by-illegal-tariffs-2000697029)
 
 ---
 
@@ -118,21 +136,30 @@
 
 ---
 
+### ⚖️ MaxLinear (MXL) 宣佈為人工智慧資料中心推出華盛頓互阻放大器
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-05-18T14:40:58Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: MaxLinear Inc.（納斯達克股票代碼：MXL）是 2026 年迄今表現最好的半導體股票之一。 4 月 30 日，MaxLinear 宣布推出...
+- [原文連結](https://finance.yahoo.com/sectors/technology/articles/maxlinear-mxl-announces-availability-washington-144058635.html)
+
+---
+
+### ⚖️ Tower Semiconductor (TSEM) 簽署 2027 年收入 1.3B 美元的矽光子客戶合約
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-05-18T14:38:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 
+- [原文連結](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_59bbc65e-c90c-470a-9c38-c61f5af91712)
+
+---
+
 ### 🚀 三星Exynos 2800大升級可能會帶來更好的設備AI
 - **題材**: `HBM記憶體` | **重要性**: `60`
 - **來源**: SamMobile (2026-05-18T05:22:03Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 關於三星預計將在 Exynos 2800 中引入的重大變化的報告已經開始出現。最新消息表明，三星正在研究下一代 HBM 封裝技術，該技術將顯著改善設備上的 AI 功能…
 - [原文連結](https://www.sammobile.com/news/samsungs-big-exynos-2800-upgrades-may-bring-better-on-device-ai/)
-
----
-
-### ⚠️ 特習會後，中國暗示削減關稅、推動農產品市場准入
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-05-16T15:30:00Z)
-- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 北京5月16日電（路透社）
-- [原文連結](https://finance.yahoo.com/news/china-signals-tariff-cuts-advances-153000943.html)
 
 ---
 
@@ -151,33 +178,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Aeluma（納斯達克股票代碼：ALMU）高層表示，該公司看到客戶對其作為人工智慧資料中心的光子技術的興趣日益增加...
 - [原文連結](https://www.marketbeat.com/instant-alerts/aeluma-q3-earnings-call-highlights-2026-05-13/?utm_source=yahoofinance&amp;utm_medium=yahoofinance)
-
----
-
-### 🚀 MacBook Neo 深入探討：基準、晶圓經濟學和 8GB 賭博
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: Jdhodges.com (2026-05-13T18:30:51Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 售價 599 美元的 MacBook Neo 中的 A18 Pro 處理器。 Geekbench 6 單核得分為 3,569，介於 M3 和 M4 之間。完整的 CPU 基準測試、功耗和熱分析。
-- [原文連結](https://www.jdhodges.com/blog/macbook-neo-benchmarks-analysis/)
-
----
-
-### ⚖️ Tower Semiconductor 第一季財報電話會議亮點
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: MarketBeat (2026-05-13T18:09:40Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Tower Semiconductor（納斯達克股票代碼：TSEM）公佈 2026 年第一季利潤同比大幅增長，並發布了其所謂的指導...
-- [原文連結](https://www.marketbeat.com/instant-alerts/tower-semiconductor-q1-earnings-call-highlights-2026-05-13/?utm_source=yahoofinance&amp;utm_medium=yahoofinance)
-
----
-
-### ⚖️ 隨著資料中心需求在 2027 年達到高峰，應用光電著眼於 800G 產能提升
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: MarketBeat (2026-05-13T14:07:48Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 應用光電公司（納斯達克股票代碼：AAOI）預計，隨著對更高速收發器的需求持續增長，其數據中心光學業務下半年將大幅增長...
-- [原文連結](https://www.marketbeat.com/instant-alerts/applied-optoelectronics-eyes-800g-ramp-as-data-center-demand-tops-capacity-into-2027-2026-05-13/?utm_source=yahoofinance&amp;utm_medium=yahoofinance)
 
 ---
 
