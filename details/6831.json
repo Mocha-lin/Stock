@@ -1,12 +1,12 @@
 {
   "id": "6831",
   "name": "邁科",
-  "lastUpdated": "2026-05-18 19:01:42",
+  "lastUpdated": "2026-05-19 18:34:39",
   "ai_model": "Fact-Update",
   "basicInfo": {
-    "price": "732.00",
-    "change": "7.00",
-    "changePercent": "0.97%"
+    "price": "733.00",
+    "change": "1.00",
+    "changePercent": "0.14%"
   },
   "financials": {
     "revenue_trend": [
@@ -382,9 +382,9 @@
         "period": "2026Q1",
         "deadline": "2026-05-15",
         "price_basis": "公告後3日",
-        "avg_close_3d": 728.5,
+        "avg_close_3d": 730.0,
         "ttm_eps": 5.37,
-        "pe": 135.6610800744879
+        "pe": 135.94040968342645
       },
       {
         "period": "2025Q4",
@@ -453,6 +453,14 @@
       }
     ],
     "chips_table": [
+      {
+        "date": "2026-05-19",
+        "foreign_lots": 157.9,
+        "it_lots": 69.0,
+        "dealer_lots": -4.753,
+        "sum_lots": 222.147,
+        "pct_float": 0.032910666666666664
+      },
       {
         "date": "2026-05-18",
         "foreign_lots": 264.606,
@@ -564,14 +572,6 @@
         "dealer_lots": -7.835,
         "sum_lots": -333.05899999999997,
         "pct_float": -0.04934207407407407
-      },
-      {
-        "date": "2026-04-27",
-        "foreign_lots": 137.052,
-        "it_lots": 0.0,
-        "dealer_lots": 5.401999999999999,
-        "sum_lots": 142.45399999999998,
-        "pct_float": 0.021104296296296295
       }
     ],
     "c_score_data": {
@@ -579,7 +579,7 @@
       "dataset": "structure_c_score",
       "stock_id": "6831",
       "ticker": "6831.TW",
-      "asof": "2026-05-18",
+      "asof": "2026-05-19",
       "c_score": 1.0,
       "benchmark_pe": 129.16666666666666,
       "source": [
@@ -794,8 +794,8 @@
     "returns_table": [
       {
         "year": 2026,
-        "return_pct": 153.8504693489925,
-        "period": "01/02~05/18"
+        "return_pct": 154.19725960766598,
+        "period": "01/02~05/19"
       },
       {
         "year": 2025,
@@ -3268,7 +3268,7 @@
         "high": 732.0,
         "low": 654.0,
         "close": 732.0,
-        "volume": 749546,
+        "volume": 751486,
         "adjclose": 732.0,
         "dividends": 0.0,
         "MA5": 698.6,
@@ -3280,7 +3280,28 @@
         "DIF": 76.15755086199022,
         "DEA": 57.47081182596541,
         "HIST": 37.37347807204961,
-        "volume_lot": 749.546
+        "volume_lot": 751.486
+      },
+      {
+        "date": "2026-05-19",
+        "symbol": "6831.TW",
+        "open": 728.0,
+        "high": 737.0,
+        "low": 709.0,
+        "close": 733.0,
+        "volume": 572662,
+        "adjclose": 733.0,
+        "dividends": 0.0,
+        "MA5": 720.0,
+        "MA20": 572.175,
+        "MA60": 426.55,
+        "bb_mid": 572.175,
+        "bb_up": 761.6599004538357,
+        "bb_dn": 382.6900995461643,
+        "DIF": 79.01448997844238,
+        "DEA": 61.77954745646081,
+        "HIST": 34.469885043963146,
+        "volume_lot": 572.662
       }
     ],
     "valuation": {
