@@ -1,5 +1,14 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-05-19T00:07:54.373502+00:00
+> 更新時間：2026-05-19T04:54:10.743413+00:00
+
+### ⚖️ 隨著 Vera Rubin 產能接近第三季度，Nvidia GB300 推動 AI 伺服器繁榮
+- **題材**: `AI伺服器` | **重要性**: `83`
+- **來源**: Digitimes (2026-05-18T02:13:25Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 英偉達GB300將成為2026年第一季主流AI伺服器產品，帶動全球ODM收入和利潤；隨著 Vera Rubin 伺服器在第三季度的增長以及雲端供應商積極的 ASIC 部署，全球人工智慧服務…
+- [原文連結](https://www.digitimes.com/news/a20260518PD210/ai-server-growth-nvidia-rubin-2026.html)
+
+---
 
 ### 🚀 隨著人工智慧需求的加速，Tower Semiconductor 獲得 13 億美元的矽光子承諾
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -64,15 +73,6 @@
 
 ---
 
-### 🚀 三星、SK海力士的利潤超過所有印度上市公司
-- **題材**: `HBM記憶體` | **重要性**: `70`
-- **來源**: The Times of India (2026-05-12T00:07:53Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 韓國晶片製造商三星和 SK 海力士在 2026 年 3 月季度的利潤總額達到創紀錄的 597 億美元，超過了印度公司之前任何一個季度的利潤總額。這一激增是由蓬勃發展的人工智慧資本支出推動的，其中內存...
-- [原文連結](https://economictimes.indiatimes.com/markets/us-stocks/news/samsung-sk-hynix-earn-more-profit-than-all-of-listed-india-inc/articleshow/131025961.cms)
-
----
-
 ### ⚖️ 台灣晶片製造商悄悄填補韓國 HBM 推動留下的空白
 - **題材**: `HBM記憶體` | **重要性**: `68`
 - **來源**: Digitimes (2026-05-16T22:37:22Z)
@@ -82,21 +82,30 @@
 
 ---
 
-### ⚖️ Altos 以軟體優勢瞄準韓國人工智慧伺服器市場
-- **題材**: `AI伺服器` | **重要性**: `68`
-- **來源**: Digitimes (2026-05-12T04:03:52Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 宏碁旗下人工智慧伺服器子公司AltosComputing瞄準了韓國相對成熟的高階運算需求，推出了基於Nvidia Blackwell架構的旗艦系統。該公司還依靠其內部 Altos aiWorks 軟體作為關鍵…
-- [原文連結](https://www.digitimes.com/news/a20260512PD209/altos-computing-south-korea-ai-server-market.html)
-
----
-
 ### 🚀 人工智慧第一大瓶頸飆升 497%
 - **題材**: `HBM記憶體` | **重要性**: `65`
 - **來源**: 24/7 Wall St. (2026-05-12T17:22:43Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 人工智慧有一種有趣的方式，可以將不起眼的硬體組件變成經濟王者。一年前，大多數投資者幾乎沒有想到 DRAM...
 - [原文連結](https://247wallst.com/investing/2026/05/12/artificial-intelligences-no-1-bottleneck-just-surged-497/)
+
+---
+
+### 🚀 三星、SK海力士的利潤超過所有印度上市公司
+- **題材**: `HBM記憶體` | **重要性**: `65`
+- **來源**: The Times of India (2026-05-12T00:07:53Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 韓國晶片製造商三星和 SK 海力士在 2026 年 3 月季度的利潤總額達到創紀錄的 597 億美元，超過了印度公司之前任何一個季度的利潤總額。這一激增是由蓬勃發展的人工智慧資本支出推動的，其中內存...
+- [原文連結](https://economictimes.indiatimes.com/markets/us-stocks/news/samsung-sk-hynix-earn-more-profit-than-all-of-listed-india-inc/articleshow/131025961.cms)
+
+---
+
+### ⚖️ Altos 以軟體優勢瞄準韓國人工智慧伺服器市場
+- **題材**: `AI伺服器` | **重要性**: `63`
+- **來源**: Digitimes (2026-05-12T04:03:52Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 宏碁旗下人工智慧伺服器子公司AltosComputing瞄準了韓國相對成熟的高階運算需求，推出了基於Nvidia Blackwell架構的旗艦系統。該公司還依靠其內部 Altos aiWorks 軟體作為關鍵…
+- [原文連結](https://www.digitimes.com/news/a20260512PD209/altos-computing-south-korea-ai-server-market.html)
 
 ---
 
@@ -169,15 +178,6 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 韓國總統政策負責人呼籲發放“公民紅利”，將一些人工智慧驅動的利潤和稅收返還給公眾。海峽時報.報道摘自：總統政策負責人 Kim Yong-beom 在 Facebook 貼文中表示，一個港口...
 - [原文連結](https://slashdot.org/story/26/05/12/2021240/south-korea-floats-citizen-dividend-using-ai-profits)
-
----
-
-### ⚠️ 關稅退款即將開始推出。顧客想要他們的切分。
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Business Insider (2026-05-12T09:33:01Z)
-- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 客戶正在就 IEEPA 關稅退款起訴 Nike 和其他公司。隨著退款開始推出，這些公司正面臨訴訟。
-- [原文連結](https://www.businessinsider.com/tariff-refunds-set-to-land-customers-sue-for-a-cut-2026-5)
 
 ---
 
