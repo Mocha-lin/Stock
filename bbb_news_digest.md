@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-05-19T08:21:17.329153+00:00
+> 更新時間：2026-05-19T12:11:46.741609+00:00
 
 ### ⚖️ 隨著 Vera Rubin 產能接近第三季度，Nvidia GB300 推動 AI 伺服器繁榮
 - **題材**: `AI伺服器` | **重要性**: `83`
@@ -16,15 +16,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Tower Semiconductor 公佈 2026 年開局強勁，營收實現兩位數成長，淨利大幅躍升。繼第一季度“穩健”之後，該公司發布了第二季度的指導意見，這將代表...
 - [原文連結](https://www.digitimes.com/news/a20260514VL206/tower-semiconductor-photonics-silicon-revenue-demand.html)
-
----
-
-### ⚠️ 台積電CoWoS缺貨推動SK海力士-英特爾2.5D推
-- **題材**: `半導體先進製程` | **重要性**: `78`
-- **來源**: Digitimes (2026-05-12T09:17:57Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 據報道，台積電 CoWoS 供應緊張，促使 SK Hynix 與英特爾在先進封裝方面合作，因為該行業希望實現 AI 加速器的 2.5D 封裝供應鏈多元化。
-- [原文連結](https://www.digitimes.com/news/a20260512PD235/tsmc-packaging-sk-hynix-cowos-intel.html)
 
 ---
 
@@ -55,21 +46,21 @@
 
 ---
 
+### ⚠️ 台積電CoWoS缺貨推動SK海力士-英特爾2.5D推
+- **題材**: `半導體先進製程` | **重要性**: `73`
+- **來源**: Digitimes (2026-05-12T09:17:57Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 據報道，台積電 CoWoS 供應緊張，促使 SK Hynix 與英特爾在先進封裝方面合作，因為該行業希望實現 AI 加速器的 2.5D 封裝供應鏈多元化。
+- [原文連結](https://www.digitimes.com/news/a20260512PD235/tsmc-packaging-sk-hynix-cowos-intel.html)
+
+---
+
 ### 🚀 新創公司正在人們家中安裝小型資料中心，以減輕陷入困境的電網的壓力
 - **題材**: `AI伺服器` | **重要性**: `70`
 - **來源**: Yahoo Entertainment (2026-05-15T19:58:58Z)
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Span 與 Nvidia 和 PulteGroup 合作，利用家庭未充分利用的電力進行電腦處理。
 - [原文連結](https://finance.yahoo.com/sectors/technology/articles/startups-installing-tiny-data-centers-195858169.html)
-
----
-
-### 🚀 亞馬遜競相打造「面向未來」的人工智慧資料中心，以實現耗電新技術
-- **題材**: `AI伺服器` | **重要性**: `70`
-- **來源**: Business Insider (2026-05-12T09:00:01Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 亞馬遜今年計畫資本支出 2,000 億美元。其中很大一部分用於人工智慧資料中心。 Titus 計劃讓這些設施「面向未來」。
-- [原文連結](https://www.businessinsider.com/amazon-titus-future-proof-ai-data-centers-nvidia-gpus-servers-2026-5)
 
 ---
 
@@ -91,6 +82,15 @@
 
 ---
 
+### 🚀 亞馬遜競相打造「面向未來」的人工智慧資料中心，以實現耗電新技術
+- **題材**: `AI伺服器` | **重要性**: `65`
+- **來源**: Business Insider (2026-05-12T09:00:01Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 亞馬遜今年計畫資本支出 2,000 億美元。其中很大一部分用於人工智慧資料中心。 Titus 計劃讓這些設施「面向未來」。
+- [原文連結](https://www.businessinsider.com/amazon-titus-future-proof-ai-data-centers-nvidia-gpus-servers-2026-5)
+
+---
+
 ### 🚀 三星、SK海力士的利潤超過所有印度上市公司
 - **題材**: `HBM記憶體` | **重要性**: `65`
 - **來源**: The Times of India (2026-05-12T00:07:53Z)
@@ -106,6 +106,15 @@
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 宏碁旗下人工智慧伺服器子公司AltosComputing瞄準了韓國相對成熟的高階運算需求，推出了基於Nvidia Blackwell架構的旗艦系統。該公司還依靠其內部 Altos aiWorks 軟體作為關鍵…
 - [原文連結](https://www.digitimes.com/news/a20260512PD209/altos-computing-south-korea-ai-server-market.html)
+
+---
+
+### ⚖️ 三星會議記錄顯示，內存員工提供了令人難以置信的 607% 獎金，價值 477,000 美元，而邏輯晶片員工的獎金只有 50%——工會表示，失衡“造成了公司無法承受的保留危機”
+- **題材**: `HBM記憶體` | **重要性**: `62`
+- **來源**: Tom's Hardware UK (2026-05-18T10:00:00Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 三星內部薪資談判記錄顯示，該公司3月提議為其儲存晶片部門發放年薪607%的獎金，
+- [原文連結](https://www.tomshardware.com/tech-industry/leaked-samsung-meeting-transcripts-show-memory-workers-offered-607-percent-bonus)
 
 ---
 
@@ -169,15 +178,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 應用光電公司（納斯達克股票代碼：AAOI）預計，隨著對更高速收發器的需求持續增長，其數據中心光學業務下半年將大幅增長...
 - [原文連結](https://www.marketbeat.com/instant-alerts/applied-optoelectronics-eyes-800g-ramp-as-data-center-demand-tops-capacity-into-2027-2026-05-13/?utm_source=yahoofinance&amp;utm_medium=yahoofinance)
-
----
-
-### ⚠️ 黃仁勳加入川普在中國的大亨隨行人員
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: Gizmodo.com (2026-05-13T04:21:34Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 擦乾眼睛。世界上最有價值公司的億萬富翁執行長將開始這次千載難逢的旅行。
-- [原文連結](https://gizmodo.com/jensen-huang-joins-trumps-tycoon-entourage-in-china-2000757841)
 
 ---
 
