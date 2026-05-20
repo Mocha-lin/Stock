@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-05-19T20:21:50.978693+00:00
+> 更新時間：2026-05-20T00:07:10.775258+00:00
 
 ### ⚖️ 隨著 Vera Rubin 產能接近第三季度，Nvidia GB300 推動 AI 伺服器繁榮
 - **題材**: `AI伺服器` | **重要性**: `83`
@@ -55,12 +55,12 @@
 
 ---
 
-### ⚠️ 台積電CoWoS缺貨推動SK海力士-英特爾2.5D推
-- **題材**: `半導體先進製程` | **重要性**: `73`
-- **來源**: Digitimes (2026-05-12T09:17:57Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 據報道，台積電 CoWoS 供應緊張，促使 SK Hynix 與英特爾在先進封裝方面合作，因為該行業希望實現 AI 加速器的 2.5D 封裝供應鏈多元化。
-- [原文連結](https://www.digitimes.com/news/a20260512PD235/tsmc-packaging-sk-hynix-cowos-intel.html)
+### 🚀 新創公司正在人們家中安裝小型資料中心，以減輕陷入困境的電網的壓力
+- **題材**: `AI伺服器` | **重要性**: `70`
+- **來源**: Yahoo Entertainment (2026-05-15T19:58:58Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Span 與 Nvidia 和 PulteGroup 合作，利用家庭未充分利用的電力進行電腦處理。
+- [原文連結](https://finance.yahoo.com/sectors/technology/articles/startups-installing-tiny-data-centers-195858169.html)
 
 ---
 
@@ -91,30 +91,21 @@
 
 ---
 
-### 🚀 亞馬遜競相打造「面向未來」的人工智慧資料中心，以實現耗電新技術
-- **題材**: `AI伺服器` | **重要性**: `65`
-- **來源**: Business Insider (2026-05-12T09:00:01Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 亞馬遜今年計畫資本支出 2,000 億美元。其中很大一部分用於人工智慧資料中心。 Titus 計劃讓這些設施「面向未來」。
-- [原文連結](https://www.businessinsider.com/amazon-titus-future-proof-ai-data-centers-nvidia-gpus-servers-2026-5)
+### ⚠️ 晶片短缺是一場披著不同外衣的海灣能源危機
+- **題材**: `半導體先進製程` | **重要性**: `65`
+- **來源**: Forbes (2026-05-18T06:00:00Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 2026 年人工智慧運算危機和伊朗戰爭能源衝擊是同一個供應鏈中斷，但在相反的兩端觀察到。這就是為什麼它很重要。
+- [原文連結](https://www.forbes.com/sites/guneyyildiz/2026/05/18/the-chip-shortage-is-a-gulf-energy-crisis-wearing-a-different-costume/)
 
 ---
 
-### 🚀 三星、SK海力士的利潤超過所有印度上市公司
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: The Times of India (2026-05-12T00:07:53Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 韓國晶片製造商三星和 SK 海力士在 2026 年 3 月季度的利潤總額達到創紀錄的 597 億美元，超過了印度公司之前任何一個季度的利潤總額。這一激增是由蓬勃發展的人工智慧資本支出推動的，其中內存...
-- [原文連結](https://economictimes.indiatimes.com/markets/us-stocks/news/samsung-sk-hynix-earn-more-profit-than-all-of-listed-india-inc/articleshow/131025961.cms)
-
----
-
-### ⚖️ Altos 以軟體優勢瞄準韓國人工智慧伺服器市場
-- **題材**: `AI伺服器` | **重要性**: `63`
-- **來源**: Digitimes (2026-05-12T04:03:52Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 宏碁旗下人工智慧伺服器子公司AltosComputing瞄準了韓國相對成熟的高階運算需求，推出了基於Nvidia Blackwell架構的旗艦系統。該公司還依靠其內部 Altos aiWorks 軟體作為關鍵…
-- [原文連結](https://www.digitimes.com/news/a20260512PD209/altos-computing-south-korea-ai-server-market.html)
+### ⚖️ 台灣晶片製造商悄悄填補韓國 HBM 推動留下的空白
+- **題材**: `HBM記憶體` | **重要性**: `63`
+- **來源**: Digitimes (2026-05-16T22:37:22Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 台灣半導體生態系統正從人工智慧伺服器投資熱潮中獲得意想不到的提振。始於高頻寬記憶體和前緣製程技術的供應壓力現在正在波及傳統記憶體、封裝和測試。
+- [原文連結](https://www.digitimes.com/news/a20260515VL216/taiwan-hbm-investment-packaging-ai-server.html)
 
 ---
 
@@ -124,6 +115,15 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 三星內部薪資談判記錄顯示，該公司3月提議為其儲存晶片部門發放年薪607%的獎金，
 - [原文連結](https://www.tomshardware.com/tech-industry/leaked-samsung-meeting-transcripts-show-memory-workers-offered-607-percent-bonus)
+
+---
+
+### 🚀 山姆大叔的下一個大型超級電腦可能會使用比 GPU 更奇特的東西
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: Theregister.com (2026-05-18T21:01:46Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 晶片新創公司 NextSilicon 的高效能運算加速器獲得桑迪亞國家實驗室的認可
+- [原文連結](https://www.theregister.com/systems/2026/05/18/uncle-sams-next-big-super-might-not-use-gpus/5242137)
 
 ---
 
@@ -154,6 +154,15 @@
 
 ---
 
+### 🚀 三星Exynos 2800大升級可能會帶來更好的設備AI
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: SamMobile (2026-05-18T05:22:03Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 關於三星預計將在 Exynos 2800 中引入的重大變化的報告已經開始出現。最新消息表明，三星正在研究下一代 HBM 封裝技術，該技術將顯著改善設備上的 AI 功能…
+- [原文連結](https://www.sammobile.com/news/samsungs-big-exynos-2800-upgrades-may-bring-better-on-device-ai/)
+
+---
+
 ### ⚖️ 中國AI光學億萬富翁在股價上漲340%後考慮在香港兩地上市
 - **題材**: `光通訊與矽光子` | **重要性**: `60`
 - **來源**: Forbes (2026-05-15T07:32:26Z)
@@ -169,15 +178,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Aeluma（納斯達克股票代碼：ALMU）高層表示，該公司看到客戶對其作為人工智慧資料中心的光子技術的興趣日益增加...
 - [原文連結](https://www.marketbeat.com/instant-alerts/aeluma-q3-earnings-call-highlights-2026-05-13/?utm_source=yahoofinance&amp;utm_medium=yahoofinance)
-
----
-
-### 🚀 MacBook Neo 深入探討：基準、晶圓經濟學和 8GB 賭博
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: Jdhodges.com (2026-05-13T18:30:51Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 售價 599 美元的 MacBook Neo 中的 A18 Pro 處理器。 Geekbench 6 單核得分為 3,569，介於 M3 和 M4 之間。完整的 CPU 基準測試、功耗和熱分析。
-- [原文連結](https://www.jdhodges.com/blog/macbook-neo-benchmarks-analysis/)
 
 ---
 
