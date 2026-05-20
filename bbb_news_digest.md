@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-05-20T04:58:03.219813+00:00
+> 更新時間：2026-05-20T08:25:34.260895+00:00
 
 ### ⚖️ 隨著 Vera Rubin 產能接近第三季度，Nvidia GB300 推動 AI 伺服器繁榮
 - **題材**: `AI伺服器` | **重要性**: `83`
@@ -64,6 +64,15 @@
 
 ---
 
+### 🚀 外部融資壓力加大、美國公債殖利率上升，盧比跌至歷史新低
+- **題材**: `總體風險` | **重要性**: `65`
+- **來源**: Yahoo Entertainment (2026-05-19T07:55:07Z)
+- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 作者：Nimesh Vora 孟買，5 月 19 日（路透社）
+- [原文連結](https://sg.finance.yahoo.com/news/rupee-hits-time-low-mounting-075507302.html)
+
+---
+
 ### 🚀 DRAM 一個月飆升 51%，SOXX 上漲 32%，但只有一種能倖免於記憶體週期低迷
 - **題材**: `HBM記憶體` | **重要性**: `65`
 - **來源**: 24/7 Wall St. (2026-05-18T16:30:49Z)
@@ -91,15 +100,6 @@
 
 ---
 
-### ⚠️ 晶片短缺是一場披著不同外衣的海灣能源危機
-- **題材**: `半導體先進製程` | **重要性**: `65`
-- **來源**: Forbes (2026-05-18T06:00:00Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 2026 年人工智慧運算危機和伊朗戰爭能源衝擊是同一個供應鏈中斷，但在相反的兩端觀察到。這就是為什麼它很重要。
-- [原文連結](https://www.forbes.com/sites/guneyyildiz/2026/05/18/the-chip-shortage-is-a-gulf-energy-crisis-wearing-a-different-costume/)
-
----
-
 ### ⚖️ 台灣晶片製造商悄悄填補韓國 HBM 推動留下的空白
 - **題材**: `HBM記憶體` | **重要性**: `63`
 - **來源**: Digitimes (2026-05-16T22:37:22Z)
@@ -124,6 +124,15 @@
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 晶片新創公司 NextSilicon 的高效能運算加速器獲得桑迪亞國家實驗室的認可
 - [原文連結](https://www.theregister.com/systems/2026/05/18/uncle-sams-next-big-super-might-not-use-gpus/5242137)
+
+---
+
+### ⚖️ 億萬富翁認為台灣積體電路製造 (TSM) 是最值得投資的股票之一
+- **題材**: `半導體先進製程` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-05-18T19:59:42Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 台灣積體電路製造股份有限公司（NYSE：TSM）被億萬富翁評選為 5 年來最值得投資的股票之一。 5月15日，銀行...
+- [原文連結](https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-tsm-among-195942269.html)
 
 ---
 
@@ -169,15 +178,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: RoboTechnik智能科技在深圳上市的股價過去一年飆升340%，使創辦人戴軍的淨資產達到24億美元。
 - [原文連結](https://www.forbes.com/sites/zinnialee/2026/05/15/chinese-ai-optics-billionaire-eyes-dual-listing-in-hong-kong-after-340-stock-rally/)
-
----
-
-### ⚖️ Aeluma 第三季財報電話會議亮點
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: MarketBeat (2026-05-14T00:13:26Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Aeluma（納斯達克股票代碼：ALMU）高層表示，該公司看到客戶對其作為人工智慧資料中心的光子技術的興趣日益增加...
-- [原文連結](https://www.marketbeat.com/instant-alerts/aeluma-q3-earnings-call-highlights-2026-05-13/?utm_source=yahoofinance&amp;utm_medium=yahoofinance)
 
 ---
 

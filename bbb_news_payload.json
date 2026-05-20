@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-05-20T04:58:03.219813+00:00",
+  "generated_at": "2026-05-20T08:25:34.260895+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 71,
@@ -272,6 +272,44 @@
       "reason": "屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
+      "id": "276a028403bc7e1c",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "外部融資壓力加大、美國公債殖利率上升，盧比跌至歷史新低",
+      "summary": "作者：Nimesh Vora 孟買，5 月 19 日（路透社）",
+      "original_title": "Rupee hits all-time low on mounting external finance pressures, rising US yields",
+      "url": "https://sg.finance.yahoo.com/news/rupee-hits-time-low-mounting-075507302.html",
+      "source": "Yahoo Entertainment",
+      "domain": "sg.finance.yahoo.com",
+      "published_at": "2026-05-19T07:55:07Z",
+      "importance": 65,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "9278be4dcdd70384",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -383,44 +421,6 @@
       "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "70558ef857a6588a",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "晶片短缺是一場披著不同外衣的海灣能源危機",
-      "summary": "2026 年人工智慧運算危機和伊朗戰爭能源衝擊是同一個供應鏈中斷，但在相反的兩端觀察到。這就是為什麼它很重要。",
-      "original_title": "The Chip Shortage Is A Gulf Energy Crisis Wearing A Different Costume",
-      "url": "https://www.forbes.com/sites/guneyyildiz/2026/05/18/the-chip-shortage-is-a-gulf-energy-crisis-wearing-a-different-costume/",
-      "source": "Forbes",
-      "domain": "forbes.com",
-      "published_at": "2026-05-18T06:00:00Z",
-      "importance": 65,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "1db78ed163d62619",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -527,6 +527,44 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "8aec0157e97efe2e",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "億萬富翁認為台灣積體電路製造 (TSM) 是最值得投資的股票之一",
+      "summary": "台灣積體電路製造股份有限公司（NYSE：TSM）被億萬富翁評選為 5 年來最值得投資的股票之一。 5月15日，銀行...",
+      "original_title": "​Taiwan Semiconductor Manufacturing (TSM) Among the Best Stocks to Invest in According to Billionaires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-tsm-among-195942269.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-05-18T19:59:42Z",
+      "importance": 60,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "80fe62b161b6c6b0",
@@ -1806,44 +1844,6 @@
       "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "aaa7dfce2f14c2bc",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "由於美國通膨復甦增加聯準會升息的可能性，金價下跌",
-      "summary": "",
-      "original_title": "Gold Slips as US Inflation Resurgence Raises Odds of Fed Hike",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_74fac693-bb29-4d56-bc9f-a31b573dd86b",
-      "source": "Yahoo Entertainment",
-      "domain": "consent.yahoo.com",
-      "published_at": "2026-05-13T15:31:15Z",
-      "importance": 55,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "08375c0dea8d2eec",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2554,44 +2554,6 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "d13b1550c9060e90",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "中興通訊在聖保羅舉辦2026年寬頻用戶大會，主題為“智慧寬頻貨幣化”",
-      "summary": "使營運商能夠利用下一代 AI 和 ODN 系統超越基本連接",
-      "original_title": "ZTE hosts 2026 Broadband User Congress in São Paulo, under the Theme \"Monetize Your Intelligent Broadband\"",
-      "url": "https://www.theregister.com/networks/2026/05/13/zte-hosts-2026-broadband-user-congress-in-so-paulo-under-the-theme-monetize-your-intelligent-broadband/5239403",
-      "source": "Theregister.com",
-      "domain": "theregister.com",
-      "published_at": "2026-05-13T08:25:26Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "18c55bb376683512",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2625,6 +2587,44 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "d13b1550c9060e90",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "中興通訊在聖保羅舉辦2026年寬頻用戶大會，主題為“智慧寬頻貨幣化”",
+      "summary": "使營運商能夠利用下一代 AI 和 ODN 系統超越基本連接",
+      "original_title": "ZTE hosts 2026 Broadband User Congress in São Paulo, under the Theme \"Monetize Your Intelligent Broadband\"",
+      "url": "https://www.theregister.com/networks/2026/05/13/zte-hosts-2026-broadband-user-congress-in-so-paulo-under-the-theme-monetize-your-intelligent-broadband/5239403",
+      "source": "Theregister.com",
+      "domain": "theregister.com",
+      "published_at": "2026-05-13T08:25:26Z",
+      "importance": 45,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     },
     {
       "id": "277de906b327d1cf",
