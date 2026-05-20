@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-05-20T16:23:13.755469+00:00",
+  "generated_at": "2026-05-20T19:11:08.513775+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 71,
@@ -234,44 +234,6 @@
       "reason": "屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
-      "id": "5fb541d61c162abd",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "新創公司正在人們家中安裝小型資料中心，以減輕陷入困境的電網的壓力",
-      "summary": "Span 與 Nvidia 和 PulteGroup 合作，利用家庭未充分利用的電力進行電腦處理。",
-      "original_title": "Startups are installing tiny data centers in people’s homes to reduce strain on the beleaguered electrical grid",
-      "url": "https://finance.yahoo.com/sectors/technology/articles/startups-installing-tiny-data-centers-195858169.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-05-15T19:58:58Z",
-      "importance": 70,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
       "id": "276a028403bc7e1c",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -489,6 +451,44 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "fd359b1f0f8e4f89",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "AI's giant rural job machine mostly appears to manufacture hype",
+      "summary": "人工智慧的繁榮已經發現了美國農村，那裡陷入困境的城鎮被承諾以巨大的數據中心、機器學習的工業聖殿的形式得到拯救，據報道，與工廠和米爾相比，它們創造的永久性就業機會少得多，熱量也多…",
+      "original_title": "AI's giant rural job machine mostly appears to manufacture hype",
+      "url": "https://boingboing.net/2026/05/19/ais-giant-rural-job-machine-mostly-appears-to-manufacture-hype.html",
+      "source": "Boing Boing",
+      "domain": "boingboing.net",
+      "published_at": "2026-05-19T18:08:11Z",
+      "importance": 60,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "1443b0fc5184c4cb",
@@ -765,82 +765,6 @@
       "source": "MarketBeat",
       "domain": "marketbeat.com",
       "published_at": "2026-05-14T00:13:26Z",
-      "importance": 60,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "53ae43b9262da2a4",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "MacBook Neo 深入探討：基準、晶圓經濟學和 8GB 賭博",
-      "summary": "售價 599 美元的 MacBook Neo 中的 A18 Pro 處理器。 Geekbench 6 單核得分為 3,569，介於 M3 和 M4 之間。完整的 CPU 基準測試、功耗和熱分析。",
-      "original_title": "MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble",
-      "url": "https://www.jdhodges.com/blog/macbook-neo-benchmarks-analysis/",
-      "source": "Jdhodges.com",
-      "domain": "jdhodges.com",
-      "published_at": "2026-05-13T18:30:51Z",
-      "importance": 60,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "faa8f96994cb6a02",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "Tower Semiconductor 第一季財報電話會議亮點",
-      "summary": "Tower Semiconductor（納斯達克股票代碼：TSEM）公佈 2026 年第一季利潤同比大幅增長，並發布了其所謂的指導...",
-      "original_title": "Tower Semiconductor Q1 Earnings Call Highlights",
-      "url": "https://www.marketbeat.com/instant-alerts/tower-semiconductor-q1-earnings-call-highlights-2026-05-13/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
-      "source": "MarketBeat",
-      "domain": "marketbeat.com",
-      "published_at": "2026-05-13T18:09:40Z",
       "importance": 60,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -1619,32 +1543,32 @@
       "reason": "屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "7742c596be755c66",
+      "id": "53ae43b9262da2a4",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "沃什獲得聯準會主席提名，通膨抬頭",
-      "summary": "參議院週三投票確認凱文沃什 (Kevin Warsh) 擔任美聯儲主席，為這位律師、金融家和前央行主席鋪平了道路…",
-      "original_title": "Warsh wins confirmation as Fed chair, with inflation on the march",
-      "url": "https://finance.yahoo.com/news/warsh-wins-confirmation-fed-chair-185050168.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-05-13T18:50:50Z",
+      "theme": "半導體先進製程",
+      "title": "MacBook Neo 深入探討：基準、晶圓經濟學和 8GB 賭博",
+      "summary": "售價 599 美元的 MacBook Neo 中的 A18 Pro 處理器。 Geekbench 6 單核得分為 3,569，介於 M3 和 M4 之間。完整的 CPU 基準測試、功耗和熱分析。",
+      "original_title": "MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble",
+      "url": "https://www.jdhodges.com/blog/macbook-neo-benchmarks-analysis/",
+      "source": "Jdhodges.com",
+      "domain": "jdhodges.com",
+      "published_at": "2026-05-13T18:30:51Z",
       "importance": 55,
       "impact": "positive",
       "timeframe": "short_term",
       "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
+        "半導體",
+        "CoWoS",
+        "先進製程"
       ],
       "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
       ],
       "related_models": [
         "003",
@@ -1654,22 +1578,22 @@
         "009",
         "010"
       ],
-      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "fdbad55e121918da",
+      "id": "faa8f96994cb6a02",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "光通訊與矽光子",
-      "title": "那斯達克指數飆漲逾 1%；第四季業績公佈後，阿里巴巴股價上漲",
-      "summary": "美國股市在交易中漲跌互現，納斯達克綜合指數週三上漲超過 1%。道瓊指數下跌 0.24%，至 49,638.96 點，而...",
-      "original_title": "Nasdaq Surges Over 1%; Alibaba Shares Gain After Q4 Results",
-      "url": "https://finance.yahoo.com/news/nasdaq-surges-over-1-alibaba-174242926.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-05-13T17:42:42Z",
+      "title": "Tower Semiconductor 第一季財報電話會議亮點",
+      "summary": "Tower Semiconductor（納斯達克股票代碼：TSEM）公佈 2026 年第一季利潤同比大幅增長，並發布了其所謂的指導...",
+      "original_title": "Tower Semiconductor Q1 Earnings Call Highlights",
+      "url": "https://www.marketbeat.com/instant-alerts/tower-semiconductor-q1-earnings-call-highlights-2026-05-13/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
+      "source": "MarketBeat",
+      "domain": "marketbeat.com",
+      "published_at": "2026-05-13T18:09:40Z",
       "importance": 55,
-      "impact": "positive",
+      "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
         "光通訊",
@@ -1692,42 +1616,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "3c72bd918688082a",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "億萬富翁 David Tepper 認為美光科技 (MU) 是最好的人工智慧股票嗎？",
-      "summary": "億萬富翁 David Tepper 表示，美光科技公司（納斯達克股票代碼：MU）是 2026 年最值得買的人工智慧股票之一。 5月10日，美光科技...",
-      "original_title": "Is Micron Technology, Inc. (MU) The Best AI Stock According to Billionaire David Tepper?",
-      "url": "https://finance.yahoo.com/news/micron-technology-inc-mu-best-170213870.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-05-13T17:02:13Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "c6b345b5e715faf2",
@@ -2343,6 +2232,117 @@
       "source": "Yahoo Entertainment",
       "domain": "finance.yahoo.com",
       "published_at": "2026-05-13T20:08:40Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "7742c596be755c66",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "沃什獲得聯準會主席提名，通膨抬頭",
+      "summary": "參議院週三投票確認凱文沃什 (Kevin Warsh) 擔任美聯儲主席，為這位律師、金融家和前央行主席鋪平了道路…",
+      "original_title": "Warsh wins confirmation as Fed chair, with inflation on the march",
+      "url": "https://finance.yahoo.com/news/warsh-wins-confirmation-fed-chair-185050168.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-05-13T18:50:50Z",
+      "importance": 50,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "fdbad55e121918da",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "那斯達克指數飆漲逾 1%；第四季業績公佈後，阿里巴巴股價上漲",
+      "summary": "美國股市在交易中漲跌互現，納斯達克綜合指數週三上漲超過 1%。道瓊指數下跌 0.24%，至 49,638.96 點，而...",
+      "original_title": "Nasdaq Surges Over 1%; Alibaba Shares Gain After Q4 Results",
+      "url": "https://finance.yahoo.com/news/nasdaq-surges-over-1-alibaba-174242926.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-05-13T17:42:42Z",
+      "importance": 50,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "3c72bd918688082a",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "億萬富翁 David Tepper 認為美光科技 (MU) 是最好的人工智慧股票嗎？",
+      "summary": "億萬富翁 David Tepper 表示，美光科技公司（納斯達克股票代碼：MU）是 2026 年最值得買的人工智慧股票之一。 5月10日，美光科技...",
+      "original_title": "Is Micron Technology, Inc. (MU) The Best AI Stock According to Billionaire David Tepper?",
+      "url": "https://finance.yahoo.com/news/micron-technology-inc-mu-best-170213870.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-05-13T17:02:13Z",
       "importance": 50,
       "impact": "neutral",
       "timeframe": "short_term",

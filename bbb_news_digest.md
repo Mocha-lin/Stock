@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-05-20T16:23:13.755469+00:00
+> 更新時間：2026-05-20T19:11:08.513775+00:00
 
 ### ⚖️ 隨著 Vera Rubin 產能接近第三季度，Nvidia GB300 推動 AI 伺服器繁榮
 - **題材**: `AI伺服器` | **重要性**: `83`
@@ -55,15 +55,6 @@
 
 ---
 
-### 🚀 新創公司正在人們家中安裝小型資料中心，以減輕陷入困境的電網的壓力
-- **題材**: `AI伺服器` | **重要性**: `70`
-- **來源**: Yahoo Entertainment (2026-05-15T19:58:58Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Span 與 Nvidia 和 PulteGroup 合作，利用家庭未充分利用的電力進行電腦處理。
-- [原文連結](https://finance.yahoo.com/sectors/technology/articles/startups-installing-tiny-data-centers-195858169.html)
-
----
-
 ### 🚀 外部融資壓力加大、美國公債殖利率上升，盧比跌至歷史新低
 - **題材**: `總體風險` | **重要性**: `65`
 - **來源**: Yahoo Entertainment (2026-05-19T07:55:07Z)
@@ -115,6 +106,15 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 三星內部薪資談判記錄顯示，該公司3月提議為其儲存晶片部門發放年薪607%的獎金，
 - [原文連結](https://www.tomshardware.com/tech-industry/leaked-samsung-meeting-transcripts-show-memory-workers-offered-607-percent-bonus)
+
+---
+
+### ⚖️ AI's giant rural job machine mostly appears to manufacture hype
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: Boing Boing (2026-05-19T18:08:11Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 人工智慧的繁榮已經發現了美國農村，那裡陷入困境的城鎮被承諾以巨大的數據中心、機器學習的工業聖殿的形式得到拯救，據報道，與工廠和米爾相比，它們創造的永久性就業機會少得多，熱量也多…
+- [原文連結](https://boingboing.net/2026/05/19/ais-giant-rural-job-machine-mostly-appears-to-manufacture-hype.html)
 
 ---
 
