@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-05-21T05:03:44.783450+00:00",
+  "generated_at": "2026-05-21T08:45:24.607504+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 72,
@@ -44,32 +44,32 @@
       "reason": "屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
-      "id": "aef44ef8787e4c4f",
+      "id": "5fcc1f74f71edbbe",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "隨著人工智慧需求的加速，Tower Semiconductor 獲得 13 億美元的矽光子承諾",
-      "summary": "Tower Semiconductor 公佈 2026 年開局強勁，營收實現兩位數成長，淨利大幅躍升。繼第一季度“穩健”之後，該公司發布了第二季度的指導意見，這將代表...",
-      "original_title": "Tower Semiconductor secures US$1.3 billion in silicon photonics commitments as AI demand accelerates",
-      "url": "https://www.digitimes.com/news/a20260514VL206/tower-semiconductor-photonics-silicon-revenue-demand.html",
+      "theme": "AI伺服器",
+      "title": "2026技術論壇：AI伺服器機架推動液冷成為主流",
+      "summary": "META綠色散熱技術（MGC）總裁Clyde Chu表示，Nvidia的晶片路線圖顯示，散熱需求在不到一年的時間內翻倍，基於Vera Rubin架構的NVL72機架預計在2026年下半年推出，需要130-1…",
+      "original_title": "Tech Forum 2026: AI server racks push liquid cooling into mainstream",
+      "url": "https://www.digitimes.com/news/a20260520PD236/ai-server-liquid-cooling-nvidia-2026.html",
       "source": "Digitimes",
       "domain": "digitimes.com",
-      "published_at": "2026-05-14T06:52:30Z",
-      "importance": 83,
-      "impact": "positive",
+      "published_at": "2026-05-20T07:34:46Z",
+      "importance": 78,
+      "impact": "neutral",
       "timeframe": "short_to_mid_term",
       "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
+        "AI",
+        "伺服器",
+        "資料中心"
       ],
       "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
       ],
       "related_models": [
         "003",
@@ -79,7 +79,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+      "reason": "屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "e707c2a5ded1f52e",
@@ -120,6 +120,44 @@
       "reason": "屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
+      "id": "aef44ef8787e4c4f",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "隨著人工智慧需求的加速，Tower Semiconductor 獲得 13 億美元的矽光子承諾",
+      "summary": "Tower Semiconductor 公佈 2026 年開局強勁，營收實現兩位數成長，淨利大幅躍升。繼第一季度“穩健”之後，該公司發布了第二季度的指導意見，這將代表...",
+      "original_title": "Tower Semiconductor secures US$1.3 billion in silicon photonics commitments as AI demand accelerates",
+      "url": "https://www.digitimes.com/news/a20260514VL206/tower-semiconductor-photonics-silicon-revenue-demand.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-05-14T06:52:30Z",
+      "importance": 78,
+      "impact": "positive",
+      "timeframe": "short_to_mid_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
       "id": "f849036faef510f4",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -156,117 +194,6 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
-      "id": "1b776965611e22ec",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "據報導，隨著韓國記憶體競爭加劇，三星提高了 1b DRAM 產量",
-      "summary": "IT Chosun 表示，三星電子顯著提高了用於高頻寬記憶體 (HBM) 的最新 DRAM 技術的產量，這凸顯了記憶體製造商之間為確保人工智慧相關半導體領導地位而展開的激烈競爭。",
-      "original_title": "Samsung reportedly boosts 1b DRAM yields as Korean memory rivalry heats up",
-      "url": "https://www.digitimes.com/news/a20260518VL209/samsung-dram-hbm-capacity-manufacturing.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-05-18T07:36:54Z",
-      "importance": 73,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
-      "id": "77b44d46a091f097",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "台積電在 AI 熱潮擴大 CoWoS 和 SoIC 產能",
-      "summary": "台積電2026年5月14日表示，隨著人工智慧需求推動全球18座新晶圓廠和先進封裝設施的建設，台積電正快速擴大CoWoS和SoIC先進封裝產能。在 2026 年技術研討會上，台積電副總裁 Bor-Zen T…",
-      "original_title": "TSMC expands CoWoS and SoIC capacity on AI boom",
-      "url": "https://www.digitimes.com/news/a20260514PD237/tsmc-cowos-soic-capacity-packaging.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-05-14T08:06:57Z",
-      "importance": 73,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
-      "id": "d157819597d4f8a8",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "台積電研討會聚焦人工智慧擴展和先進封裝需求",
-      "summary": "台積電北美站結束後，於 2026 年 5 月 14 日在新竹舉行年度技術研討會，高層指出，人工智慧應用正從雲端資料中心快速擴展到邊緣設備，推動半導體運算設備需求激增。",
-      "original_title": "TSMC symposium spotlights AI expansion, advanced packaging demand",
-      "url": "https://www.digitimes.com/news/a20260514PD231/tsmc-technology-packaging-demand-2026.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-05-14T07:07:57Z",
-      "importance": 73,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "5fb541d61c162abd",
@@ -307,19 +234,19 @@
       "reason": "屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
-      "id": "d7f4cc3684637651",
+      "id": "1b776965611e22ec",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "HBM記憶體",
-      "title": "據報道，三星加快了 3D NAND、封裝和基板計劃",
-      "summary": "據報道，三星電子正在恢復推遲的下一代 NAND 快閃記憶體、化合物半導體、先進封裝和基板方面的半導體計劃，這些領域是三星在優先考慮 DRAM 設計和高頻寬一年多後預留的…",
-      "original_title": "Samsung reportedly speeds up 3D NAND, packaging, and substrate plans",
-      "url": "https://www.digitimes.com/news/a20260514PD224/samsung-packaging-nand-3d-substrate.html",
+      "title": "據報導，隨著韓國記憶體競爭加劇，三星提高了 1b DRAM 產量",
+      "summary": "IT Chosun 表示，三星電子顯著提高了用於高頻寬記憶體 (HBM) 的最新 DRAM 技術的產量，這凸顯了記憶體製造商之間為確保人工智慧相關半導體領導地位而展開的激烈競爭。",
+      "original_title": "Samsung reportedly boosts 1b DRAM yields as Korean memory rivalry heats up",
+      "url": "https://www.digitimes.com/news/a20260518VL209/samsung-dram-hbm-capacity-manufacturing.html",
       "source": "Digitimes",
       "domain": "digitimes.com",
-      "published_at": "2026-05-14T04:53:59Z",
+      "published_at": "2026-05-18T07:36:54Z",
       "importance": 68,
-      "impact": "negative",
+      "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
         "HBM",
@@ -339,7 +266,83 @@
         "009",
         "010"
       ],
-      "reason": "屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "77b44d46a091f097",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "台積電在 AI 熱潮擴大 CoWoS 和 SoIC 產能",
+      "summary": "台積電2026年5月14日表示，隨著人工智慧需求推動全球18座新晶圓廠和先進封裝設施的建設，台積電正快速擴大CoWoS和SoIC先進封裝產能。在 2026 年技術研討會上，台積電副總裁 Bor-Zen T…",
+      "original_title": "TSMC expands CoWoS and SoIC capacity on AI boom",
+      "url": "https://www.digitimes.com/news/a20260514PD237/tsmc-cowos-soic-capacity-packaging.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-05-14T08:06:57Z",
+      "importance": 68,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "d157819597d4f8a8",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "台積電研討會聚焦人工智慧擴展和先進封裝需求",
+      "summary": "台積電北美站結束後，於 2026 年 5 月 14 日在新竹舉行年度技術研討會，高層指出，人工智慧應用正從雲端資料中心快速擴展到邊緣設備，推動半導體運算設備需求激增。",
+      "original_title": "TSMC symposium spotlights AI expansion, advanced packaging demand",
+      "url": "https://www.digitimes.com/news/a20260514PD231/tsmc-technology-packaging-demand-2026.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-05-14T07:07:57Z",
+      "importance": 68,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "117ed6dd9fefaee4",
@@ -489,82 +492,6 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "46a90a286a4fe2ba",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "黃金因殖利率強勁觸及 1-1/2 個月低點後穩穩",
-      "summary": "巴勃羅辛哈 (Pablo Sinha) 5 月 18 日報（路透社）",
-      "original_title": "Gold steadies after hitting over 1-1/2-month low on robust yields",
-      "url": "https://sg.finance.yahoo.com/news/gold-slips-1-1-2-013510310.html",
-      "source": "Yahoo Entertainment",
-      "domain": "sg.finance.yahoo.com",
-      "published_at": "2026-05-18T07:38:28Z",
-      "importance": 65,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "70558ef857a6588a",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "晶片短缺是一場披著不同外衣的海灣能源危機",
-      "summary": "2026 年人工智慧運算危機和伊朗戰爭能源衝擊是同一個供應鏈中斷，但在相反的兩端觀察到。這就是為什麼它很重要。",
-      "original_title": "The Chip Shortage Is A Gulf Energy Crisis Wearing A Different Costume",
-      "url": "https://www.forbes.com/sites/guneyyildiz/2026/05/18/the-chip-shortage-is-a-gulf-energy-crisis-wearing-a-different-costume/",
-      "source": "Forbes",
-      "domain": "forbes.com",
-      "published_at": "2026-05-18T06:00:00Z",
-      "importance": 65,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "1db78ed163d62619",
@@ -903,29 +830,32 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "3086eaf483daf75b",
+      "id": "46a90a286a4fe2ba",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "三星Exynos 2800大升級可能會帶來更好的設備AI",
-      "summary": "關於三星預計將在 Exynos 2800 中引入的重大變化的報告已經開始出現。最新消息表明，三星正在研究下一代 HBM 封裝技術，該技術將顯著改善設備上的 AI 功能…",
-      "original_title": "Samsung’s big Exynos 2800 upgrades may bring better on-device AI",
-      "url": "https://www.sammobile.com/news/samsungs-big-exynos-2800-upgrades-may-bring-better-on-device-ai/",
-      "source": "SamMobile",
-      "domain": "sammobile.com",
-      "published_at": "2026-05-18T05:22:03Z",
+      "theme": "總體風險",
+      "title": "黃金因殖利率強勁觸及 1-1/2 個月低點後穩穩",
+      "summary": "巴勃羅辛哈 (Pablo Sinha) 5 月 18 日報（路透社）",
+      "original_title": "Gold steadies after hitting over 1-1/2-month low on robust yields",
+      "url": "https://sg.finance.yahoo.com/news/gold-slips-1-1-2-013510310.html",
+      "source": "Yahoo Entertainment",
+      "domain": "sg.finance.yahoo.com",
+      "published_at": "2026-05-18T07:38:28Z",
       "importance": 60,
       "impact": "positive",
       "timeframe": "short_term",
       "tags": [
-        "HBM",
-        "記憶體"
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
       ],
       "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
       ],
       "related_models": [
         "003",
@@ -935,7 +865,45 @@
         "009",
         "010"
       ],
-      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "70558ef857a6588a",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "晶片短缺是一場披著不同外衣的海灣能源危機",
+      "summary": "2026 年人工智慧運算危機和伊朗戰爭能源衝擊是同一個供應鏈中斷，但在相反的兩端觀察到。這就是為什麼它很重要。",
+      "original_title": "The Chip Shortage Is A Gulf Energy Crisis Wearing A Different Costume",
+      "url": "https://www.forbes.com/sites/guneyyildiz/2026/05/18/the-chip-shortage-is-a-gulf-energy-crisis-wearing-a-different-costume/",
+      "source": "Forbes",
+      "domain": "forbes.com",
+      "published_at": "2026-05-18T06:00:00Z",
+      "importance": 60,
+      "impact": "negative",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "9ba36bcf913b5cf8",
@@ -974,6 +942,79 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "7cd04f5499820846",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "天然氣和電費下降推動英國通膨率降至 2.8%",
+      "summary": "由於政府的能源法案支持計劃和伊朗戰爭前較低的批發價格，能源價格較低。",
+      "original_title": "Lower gas and electricity bills behind UK inflation fall to 2.8%",
+      "url": "https://www.bbc.com/news/articles/c4g0e0p4p2go",
+      "source": "BBC News",
+      "domain": "bbc.com",
+      "published_at": "2026-05-20T07:28:45Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "521baddb74d3d58e",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "三星顧問警告記憶體晶片市場到 2028 年將崩潰",
+      "summary": "自從人工智慧 (AI) 蓬勃發展以來，對處理這些任務的硬體（例如人工智慧加速器）的需求開始增加。這些組件使用大量記憶體（RAM），導致對記憶體晶片的需求激增。  作為…",
+      "original_title": "Samsung’s advisor warns of memory chip market crash by 2028",
+      "url": "https://www.sammobile.com/news/samsungs-advisor-warns-memory-chip-market-crash-by-2028/",
+      "source": "SamMobile",
+      "domain": "sammobile.com",
+      "published_at": "2026-05-20T07:03:52Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "ac4f66f93382af38",
@@ -1204,32 +1245,29 @@
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "1b6da52961ae0f91",
+      "id": "3086eaf483daf75b",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "由於通膨擔憂引發升息押注，全球公債潰敗加劇",
-      "summary": "",
-      "original_title": "Global bond rout deepens as inflation fears trigger rate-hike bets",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_1282400d-4f46-4751-8c24-836fc3b4babb",
-      "source": "Yahoo Entertainment",
-      "domain": "consent.yahoo.com",
-      "published_at": "2026-05-18T05:52:55Z",
+      "theme": "HBM記憶體",
+      "title": "三星Exynos 2800大升級可能會帶來更好的設備AI",
+      "summary": "關於三星預計將在 Exynos 2800 中引入的重大變化的報告已經開始出現。最新消息表明，三星正在研究下一代 HBM 封裝技術，該技術將顯著改善設備上的 AI 功能…",
+      "original_title": "Samsung’s big Exynos 2800 upgrades may bring better on-device AI",
+      "url": "https://www.sammobile.com/news/samsungs-big-exynos-2800-upgrades-may-bring-better-on-device-ai/",
+      "source": "SamMobile",
+      "domain": "sammobile.com",
+      "published_at": "2026-05-18T05:22:03Z",
       "importance": 55,
-      "impact": "neutral",
+      "impact": "positive",
       "timeframe": "short_term",
       "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
+        "HBM",
+        "記憶體"
       ],
       "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
       ],
       "related_models": [
         "003",
@@ -1239,7 +1277,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "ab81cc9bde8ec608",
@@ -2400,44 +2438,6 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "6c6ad52a76170f73",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "《Shrinking》、《Pluribus》、《Margo’s Got Money Troubles》、《The Morning Show》和《Stick》選角導演透露選角秘密",
-      "summary": "一群在 Apple TV 劇本系列中工作的選角導演透露了他們在選擇合適的明星來選角時的技巧。 Shrinking 的 Debby Romano、Pluribus 的 Russell Scott、Margo’s Got Money Troubles 的 David Rubin、...",
-      "original_title": "‘Shrinking’, ‘Pluribus’, ‘Margo’s Got Money Troubles’, ‘The Morning Show’ & ‘Stick’ Casting Directors Reveal Selection Secrets",
-      "url": "http://deadline.com/2026/05/apple-tv-casting-directors-interview-1236899806/",
-      "source": "Deadline",
-      "domain": "deadline.com",
-      "published_at": "2026-05-14T18:00:00Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "9d219abf1bf53706",
