@@ -1,12 +1,12 @@
 {
   "id": "7734",
   "name": "印能科技",
-  "lastUpdated": "2026-05-20 18:22:43",
+  "lastUpdated": "2026-05-21 18:35:26",
   "ai_model": "Fact-Update",
   "basicInfo": {
-    "price": "3345.00",
-    "change": "10.00",
-    "changePercent": "0.30%"
+    "price": "3455.00",
+    "change": "110.00",
+    "changePercent": "3.29%"
   },
   "financials": {
     "revenue_trend": [
@@ -508,6 +508,14 @@
     ],
     "chips_table": [
       {
+        "date": "2026-05-21",
+        "foreign_lots": -69.322,
+        "it_lots": 0.0,
+        "dealer_lots": -0.937,
+        "sum_lots": -70.259,
+        "pct_float": -0.0250925
+      },
+      {
         "date": "2026-05-20",
         "foreign_lots": 118.141,
         "it_lots": -2.0,
@@ -618,14 +626,6 @@
         "dealer_lots": 3.7199999999999998,
         "sum_lots": 35.72,
         "pct_float": 0.012757142857142858
-      },
-      {
-        "date": "2026-04-29",
-        "foreign_lots": 2.002,
-        "it_lots": 0.0,
-        "dealer_lots": 3.545,
-        "sum_lots": 5.547,
-        "pct_float": 0.0019810714285714284
       }
     ],
     "c_score_data": {
@@ -633,7 +633,7 @@
       "dataset": "structure_c_score",
       "stock_id": "7734",
       "ticker": "7734.TWO",
-      "asof": "2026-05-20",
+      "asof": "2026-05-21",
       "c_score": 1.1,
       "benchmark_pe": 96.15927669061183,
       "source": [
@@ -824,8 +824,8 @@
     "returns_table": [
       {
         "year": 2026,
-        "return_pct": 235.17034068136275,
-        "period": "01/02~05/20"
+        "return_pct": 246.19238476953907,
+        "period": "01/02~05/21"
       },
       {
         "year": 2025,
@@ -839,28 +839,6 @@
       }
     ],
     "kline_data": [
-      {
-        "date": "2025-11-17",
-        "symbol": "7734.TWO",
-        "open": 881.0,
-        "high": 890.0,
-        "low": 871.0,
-        "close": 872.0,
-        "volume": 39671.0,
-        "adjclose": 872.0,
-        "dividends": 0.0,
-        "splits": 0.0,
-        "MA5": 883.6,
-        "MA20": 985.45,
-        "MA60": 1033.9,
-        "bb_mid": 985.45,
-        "bb_up": 1128.927489523617,
-        "bb_dn": 841.9725104763833,
-        "DIF": -42.69565097085274,
-        "DEA": -27.26829773440016,
-        "HIST": -30.854706472905164,
-        "volume_lot": 39.671
-      },
       {
         "date": "2025-11-18",
         "symbol": "7734.TWO",
@@ -3464,7 +3442,7 @@
         "high": 3365.0,
         "low": 3075.0,
         "close": 3345.0,
-        "volume": 415738.0,
+        "volume": 397197.0,
         "adjclose": 3345.0,
         "dividends": 0.0,
         "splits": 0.0,
@@ -3477,7 +3455,29 @@
         "DIF": 265.673782209386,
         "DEA": 365.0364418242021,
         "HIST": -198.7253192296322,
-        "volume_lot": 415.738
+        "volume_lot": 397.197
+      },
+      {
+        "date": "2026-05-21",
+        "symbol": "7734.TWO",
+        "open": 3565.0,
+        "high": 3660.0,
+        "low": 3430.0,
+        "close": 3455.0,
+        "volume": 237291.0,
+        "adjclose": 3455.0,
+        "dividends": 0.0,
+        "splits": 0.0,
+        "MA5": 3518.0,
+        "MA20": 3643.75,
+        "MA60": 2562.6666666666665,
+        "bb_mid": 3643.75,
+        "bb_up": 4185.256001813463,
+        "bb_dn": 3102.2439981865373,
+        "DIF": 232.75509165162111,
+        "DEA": 338.5801717896859,
+        "HIST": -211.65016027612955,
+        "volume_lot": 237.291
       }
     ],
     "valuation": {
