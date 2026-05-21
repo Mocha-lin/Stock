@@ -1,22 +1,22 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-05-21T00:09:00.548084+00:00",
+  "generated_at": "2026-05-21T05:03:44.783450+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 72,
   "items": [
     {
-      "id": "e707c2a5ded1f52e",
+      "id": "884cdfe2da563c3c",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "AI伺服器",
-      "title": "隨著 Vera Rubin 產能接近第三季度，Nvidia GB300 推動 AI 伺服器繁榮",
-      "summary": "英偉達GB300將成為2026年第一季主流AI伺服器產品，帶動全球ODM收入和利潤；隨著 Vera Rubin 伺服器在第三季度的增長以及雲端供應商積極的 ASIC 部署，全球人工智慧服務…",
-      "original_title": "Nvidia GB300 drives AI server boom as Vera Rubin ramp approaches third quarter",
-      "url": "https://www.digitimes.com/news/a20260518PD210/ai-server-growth-nvidia-rubin-2026.html",
+      "title": "人工智慧機架熱潮推動英偉達獲利再次成長",
+      "summary": "隨著 Blackwell 出貨量的增加、Rubin 的臨近以及英特爾 CPU 重新成為人工智慧伺服器的焦點，供應鏈的樂觀情緒日益增強。",
+      "original_title": "Nvidia earnings set to beat again on AI rack boom",
+      "url": "https://www.digitimes.com/news/a20260520PD209/nvidia-supply-blackwell-shipments-rubin.html",
       "source": "Digitimes",
       "domain": "digitimes.com",
-      "published_at": "2026-05-18T02:13:25Z",
+      "published_at": "2026-05-20T00:28:42Z",
       "importance": 83,
       "impact": "neutral",
       "timeframe": "short_to_mid_term",
@@ -80,6 +80,44 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
+      "id": "e707c2a5ded1f52e",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "隨著 Vera Rubin 產能接近第三季度，Nvidia GB300 推動 AI 伺服器繁榮",
+      "summary": "英偉達GB300將成為2026年第一季主流AI伺服器產品，帶動全球ODM收入和利潤；隨著 Vera Rubin 伺服器在第三季度的增長以及雲端供應商積極的 ASIC 部署，全球人工智慧服務…",
+      "original_title": "Nvidia GB300 drives AI server boom as Vera Rubin ramp approaches third quarter",
+      "url": "https://www.digitimes.com/news/a20260518PD210/ai-server-growth-nvidia-rubin-2026.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-05-18T02:13:25Z",
+      "importance": 78,
+      "impact": "neutral",
+      "timeframe": "short_to_mid_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "f849036faef510f4",
@@ -231,79 +269,6 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
-      "id": "d7f4cc3684637651",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "據報道，三星加快了 3D NAND、封裝和基板計劃",
-      "summary": "據報道，三星電子正在恢復推遲的下一代 NAND 快閃記憶體、化合物半導體、先進封裝和基板方面的半導體計劃，這些領域是三星在優先考慮 DRAM 設計和高頻寬一年多後預留的…",
-      "original_title": "Samsung reportedly speeds up 3D NAND, packaging, and substrate plans",
-      "url": "https://www.digitimes.com/news/a20260514PD224/samsung-packaging-nand-3d-substrate.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-05-14T04:53:59Z",
-      "importance": 73,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
-      "id": "117ed6dd9fefaee4",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "谷歌推出 CoWoS 替代品，聯發科技向英特爾求愛",
-      "summary": "聯發科決定與台積電的 CoWoS 生態系統和英特爾的 EMIB 平台尋求先進封裝合作夥伴關係，已成為半導體產業最受關注的策略舉措之一。",
-      "original_title": "MediaTek courts Intel as Google pushes for alternatives to CoWoS",
-      "url": "https://www.digitimes.com/news/a20260514PD217/mediatek-intel-asic-cowos-emib.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-05-14T01:41:59Z",
-      "importance": 73,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
       "id": "5fb541d61c162abd",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -340,6 +305,79 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
+      "id": "d7f4cc3684637651",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "據報道，三星加快了 3D NAND、封裝和基板計劃",
+      "summary": "據報道，三星電子正在恢復推遲的下一代 NAND 快閃記憶體、化合物半導體、先進封裝和基板方面的半導體計劃，這些領域是三星在優先考慮 DRAM 設計和高頻寬一年多後預留的…",
+      "original_title": "Samsung reportedly speeds up 3D NAND, packaging, and substrate plans",
+      "url": "https://www.digitimes.com/news/a20260514PD224/samsung-packaging-nand-3d-substrate.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-05-14T04:53:59Z",
+      "importance": 68,
+      "impact": "negative",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "117ed6dd9fefaee4",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "谷歌推出 CoWoS 替代品，聯發科技向英特爾求愛",
+      "summary": "聯發科決定與台積電的 CoWoS 生態系統和英特爾的 EMIB 平台尋求先進封裝合作夥伴關係，已成為半導體產業最受關注的策略舉措之一。",
+      "original_title": "MediaTek courts Intel as Google pushes for alternatives to CoWoS",
+      "url": "https://www.digitimes.com/news/a20260514PD217/mediatek-intel-asic-cowos-emib.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-05-14T01:41:59Z",
+      "importance": 68,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "276a028403bc7e1c",
@@ -911,44 +949,6 @@
       "source": "Forbes",
       "domain": "forbes.com",
       "published_at": "2026-05-15T07:32:26Z",
-      "importance": 60,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "0e2e575bec644507",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "Aeluma 第三季財報電話會議亮點",
-      "summary": "Aeluma（納斯達克股票代碼：ALMU）高層表示，該公司看到客戶對其作為人工智慧資料中心的光子技術的興趣日益增加...",
-      "original_title": "Aeluma Q3 Earnings Call Highlights",
-      "url": "https://www.marketbeat.com/instant-alerts/aeluma-q3-earnings-call-highlights-2026-05-13/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
-      "source": "MarketBeat",
-      "domain": "marketbeat.com",
-      "published_at": "2026-05-14T00:13:26Z",
       "importance": 60,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -1803,29 +1803,32 @@
       "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "cceee99b6ded02d6",
+      "id": "0e2e575bec644507",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "隨著三星關閉最後一條 2D NAND 生產線以及 Kioxia 計劃在 2029 年之前全面退出，MLC NAND 價格上漲了兩倍",
-      "summary": "AI 的繁榮使高頻寬記憶體和先進的 3D NAND 成為業界優先考慮的領域，而低利潤的傳統 2D NAND 則迅速被邊緣化。在 TweakTown 繼續閱讀",
-      "original_title": "MLC NAND prices have tripled as Samsung shuts its last 2D NAND line and Kioxia plans a full exit by 2029",
-      "url": "https://www.tweaktown.com/news/111595/mlc-nand-prices-have-tripled-as-samsung-shuts-its-last-2d-nand-line-and-kioxia-plans-a-full-exit-by-2029/index.html",
-      "source": "TweakTown",
-      "domain": "tweaktown.com",
-      "published_at": "2026-05-14T03:05:06Z",
+      "theme": "光通訊與矽光子",
+      "title": "Aeluma 第三季財報電話會議亮點",
+      "summary": "Aeluma（納斯達克股票代碼：ALMU）高層表示，該公司看到客戶對其作為人工智慧資料中心的光子技術的興趣日益增加...",
+      "original_title": "Aeluma Q3 Earnings Call Highlights",
+      "url": "https://www.marketbeat.com/instant-alerts/aeluma-q3-earnings-call-highlights-2026-05-13/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
+      "source": "MarketBeat",
+      "domain": "marketbeat.com",
+      "published_at": "2026-05-14T00:13:26Z",
       "importance": 55,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "HBM",
-        "記憶體"
+        "光通訊",
+        "CPO",
+        "矽光子"
       ],
       "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
       ],
       "related_models": [
         "003",
@@ -1835,7 +1838,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "150d5376a2a1436d",
@@ -2551,44 +2554,6 @@
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "af703789f73d7117",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "美國人寧願在後院建核電廠也不願建資料中心",
-      "summary": "人工智慧和為其提供動力的比特穀倉已經出現了嚴重的公關問題",
-      "original_title": "Americans would rather have a nuclear plant in their backyard than a datacenter",
-      "url": "https://www.theregister.com/on-prem/2026/05/14/americans-would-rather-have-a-nuclear-plant-in-their-backyard-than-a-datacenter/5240203",
-      "source": "Theregister.com",
-      "domain": "theregister.com",
-      "published_at": "2026-05-14T12:30:00Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "b2956e7eb28a66bc",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2627,17 +2592,17 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "1f62276e555df270",
+      "id": "cceee99b6ded02d6",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "HBM記憶體",
-      "title": "AI熱潮讓SK海力士市值突破1兆美元",
-      "summary": "",
-      "original_title": "AI boom puts SK Hynix on cusp of $1 trillion market value",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f9f9053b-6abc-4779-92f0-69cb5546b8f1",
-      "source": "Yahoo Entertainment",
-      "domain": "consent.yahoo.com",
-      "published_at": "2026-05-14T02:48:30Z",
+      "title": "隨著三星關閉最後一條 2D NAND 生產線以及 Kioxia 計劃在 2029 年之前全面退出，MLC NAND 價格上漲了兩倍",
+      "summary": "AI 的繁榮使高頻寬記憶體和先進的 3D NAND 成為業界優先考慮的領域，而低利潤的傳統 2D NAND 則迅速被邊緣化。在 TweakTown 繼續閱讀",
+      "original_title": "MLC NAND prices have tripled as Samsung shuts its last 2D NAND line and Kioxia plans a full exit by 2029",
+      "url": "https://www.tweaktown.com/news/111595/mlc-nand-prices-have-tripled-as-samsung-shuts-its-last-2d-nand-line-and-kioxia-plans-a-full-exit-by-2029/index.html",
+      "source": "TweakTown",
+      "domain": "tweaktown.com",
+      "published_at": "2026-05-14T03:05:06Z",
       "importance": 50,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -2662,6 +2627,41 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "1f62276e555df270",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "AI熱潮讓SK海力士市值突破1兆美元",
+      "summary": "",
+      "original_title": "AI boom puts SK Hynix on cusp of $1 trillion market value",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f9f9053b-6abc-4779-92f0-69cb5546b8f1",
+      "source": "Yahoo Entertainment",
+      "domain": "consent.yahoo.com",
+      "published_at": "2026-05-14T02:48:30Z",
+      "importance": 45,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
+    },
+    {
       "id": "f67b9dec43d064c2",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2673,7 +2673,7 @@
       "source": "Yanko Design",
       "domain": "yankodesign.com",
       "published_at": "2026-05-14T00:30:33Z",
-      "importance": 50,
+      "importance": 45,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -2697,7 +2697,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「半導體先進製程」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     }
   ]
 }

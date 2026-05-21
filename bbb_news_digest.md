@@ -1,12 +1,12 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-05-21T00:09:00.548084+00:00
+> 更新時間：2026-05-21T05:03:44.783450+00:00
 
-### ⚖️ 隨著 Vera Rubin 產能接近第三季度，Nvidia GB300 推動 AI 伺服器繁榮
+### ⚖️ 人工智慧機架熱潮推動英偉達獲利再次成長
 - **題材**: `AI伺服器` | **重要性**: `83`
-- **來源**: Digitimes (2026-05-18T02:13:25Z)
+- **來源**: Digitimes (2026-05-20T00:28:42Z)
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 英偉達GB300將成為2026年第一季主流AI伺服器產品，帶動全球ODM收入和利潤；隨著 Vera Rubin 伺服器在第三季度的增長以及雲端供應商積極的 ASIC 部署，全球人工智慧服務…
-- [原文連結](https://www.digitimes.com/news/a20260518PD210/ai-server-growth-nvidia-rubin-2026.html)
+- **摘要**: 隨著 Blackwell 出貨量的增加、Rubin 的臨近以及英特爾 CPU 重新成為人工智慧伺服器的焦點，供應鏈的樂觀情緒日益增強。
+- [原文連結](https://www.digitimes.com/news/a20260520PD209/nvidia-supply-blackwell-shipments-rubin.html)
 
 ---
 
@@ -16,6 +16,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Tower Semiconductor 公佈 2026 年開局強勁，營收實現兩位數成長，淨利大幅躍升。繼第一季度“穩健”之後，該公司發布了第二季度的指導意見，這將代表...
 - [原文連結](https://www.digitimes.com/news/a20260514VL206/tower-semiconductor-photonics-silicon-revenue-demand.html)
+
+---
+
+### ⚖️ 隨著 Vera Rubin 產能接近第三季度，Nvidia GB300 推動 AI 伺服器繁榮
+- **題材**: `AI伺服器` | **重要性**: `78`
+- **來源**: Digitimes (2026-05-18T02:13:25Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 英偉達GB300將成為2026年第一季主流AI伺服器產品，帶動全球ODM收入和利潤；隨著 Vera Rubin 伺服器在第三季度的增長以及雲端供應商積極的 ASIC 部署，全球人工智慧服務…
+- [原文連結](https://www.digitimes.com/news/a20260518PD210/ai-server-growth-nvidia-rubin-2026.html)
 
 ---
 
@@ -55,30 +64,30 @@
 
 ---
 
-### ⚠️ 據報道，三星加快了 3D NAND、封裝和基板計劃
-- **題材**: `HBM記憶體` | **重要性**: `73`
-- **來源**: Digitimes (2026-05-14T04:53:59Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 據報道，三星電子正在恢復推遲的下一代 NAND 快閃記憶體、化合物半導體、先進封裝和基板方面的半導體計劃，這些領域是三星在優先考慮 DRAM 設計和高頻寬一年多後預留的…
-- [原文連結](https://www.digitimes.com/news/a20260514PD224/samsung-packaging-nand-3d-substrate.html)
-
----
-
-### 🚀 谷歌推出 CoWoS 替代品，聯發科技向英特爾求愛
-- **題材**: `半導體先進製程` | **重要性**: `73`
-- **來源**: Digitimes (2026-05-14T01:41:59Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 聯發科決定與台積電的 CoWoS 生態系統和英特爾的 EMIB 平台尋求先進封裝合作夥伴關係，已成為半導體產業最受關注的策略舉措之一。
-- [原文連結](https://www.digitimes.com/news/a20260514PD217/mediatek-intel-asic-cowos-emib.html)
-
----
-
 ### 🚀 新創公司正在人們家中安裝小型資料中心，以減輕陷入困境的電網的壓力
 - **題材**: `AI伺服器` | **重要性**: `70`
 - **來源**: Yahoo Entertainment (2026-05-15T19:58:58Z)
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Span 與 Nvidia 和 PulteGroup 合作，利用家庭未充分利用的電力進行電腦處理。
 - [原文連結](https://finance.yahoo.com/sectors/technology/articles/startups-installing-tiny-data-centers-195858169.html)
+
+---
+
+### ⚠️ 據報道，三星加快了 3D NAND、封裝和基板計劃
+- **題材**: `HBM記憶體` | **重要性**: `68`
+- **來源**: Digitimes (2026-05-14T04:53:59Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 據報道，三星電子正在恢復推遲的下一代 NAND 快閃記憶體、化合物半導體、先進封裝和基板方面的半導體計劃，這些領域是三星在優先考慮 DRAM 設計和高頻寬一年多後預留的…
+- [原文連結](https://www.digitimes.com/news/a20260514PD224/samsung-packaging-nand-3d-substrate.html)
+
+---
+
+### 🚀 谷歌推出 CoWoS 替代品，聯發科技向英特爾求愛
+- **題材**: `半導體先進製程` | **重要性**: `68`
+- **來源**: Digitimes (2026-05-14T01:41:59Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 聯發科決定與台積電的 CoWoS 生態系統和英特爾的 EMIB 平台尋求先進封裝合作夥伴關係，已成為半導體產業最受關注的策略舉措之一。
+- [原文連結](https://www.digitimes.com/news/a20260514PD217/mediatek-intel-asic-cowos-emib.html)
 
 ---
 
@@ -169,15 +178,6 @@
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 晶片新創公司 NextSilicon 的高效能運算加速器獲得桑迪亞國家實驗室的認可
 - [原文連結](https://www.theregister.com/systems/2026/05/18/uncle-sams-next-big-super-might-not-use-gpus/5242137)
-
----
-
-### ⚖️ 億萬富翁認為台灣積體電路製造 (TSM) 是最值得投資的股票之一
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-05-18T19:59:42Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 台灣積體電路製造股份有限公司（NYSE：TSM）被億萬富翁評選為 5 年來最值得投資的股票之一。 5月15日，銀行...
-- [原文連結](https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-tsm-among-195942269.html)
 
 ---
 
