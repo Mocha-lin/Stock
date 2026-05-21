@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-05-20T19:11:08.513775+00:00
+> 更新時間：2026-05-21T00:09:00.548084+00:00
 
 ### ⚖️ 隨著 Vera Rubin 產能接近第三季度，Nvidia GB300 推動 AI 伺服器繁榮
 - **題材**: `AI伺服器` | **重要性**: `83`
@@ -28,6 +28,15 @@
 
 ---
 
+### ⚖️ 據報導，隨著韓國記憶體競爭加劇，三星提高了 1b DRAM 產量
+- **題材**: `HBM記憶體` | **重要性**: `73`
+- **來源**: Digitimes (2026-05-18T07:36:54Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: IT Chosun 表示，三星電子顯著提高了用於高頻寬記憶體 (HBM) 的最新 DRAM 技術的產量，這凸顯了記憶體製造商之間為確保人工智慧相關半導體領導地位而展開的激烈競爭。
+- [原文連結](https://www.digitimes.com/news/a20260518VL209/samsung-dram-hbm-capacity-manufacturing.html)
+
+---
+
 ### ⚖️ 台積電在 AI 熱潮擴大 CoWoS 和 SoIC 產能
 - **題材**: `半導體先進製程` | **重要性**: `73`
 - **來源**: Digitimes (2026-05-14T08:06:57Z)
@@ -46,12 +55,30 @@
 
 ---
 
+### ⚠️ 據報道，三星加快了 3D NAND、封裝和基板計劃
+- **題材**: `HBM記憶體` | **重要性**: `73`
+- **來源**: Digitimes (2026-05-14T04:53:59Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 據報道，三星電子正在恢復推遲的下一代 NAND 快閃記憶體、化合物半導體、先進封裝和基板方面的半導體計劃，這些領域是三星在優先考慮 DRAM 設計和高頻寬一年多後預留的…
+- [原文連結](https://www.digitimes.com/news/a20260514PD224/samsung-packaging-nand-3d-substrate.html)
+
+---
+
 ### 🚀 谷歌推出 CoWoS 替代品，聯發科技向英特爾求愛
 - **題材**: `半導體先進製程` | **重要性**: `73`
 - **來源**: Digitimes (2026-05-14T01:41:59Z)
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 聯發科決定與台積電的 CoWoS 生態系統和英特爾的 EMIB 平台尋求先進封裝合作夥伴關係，已成為半導體產業最受關注的策略舉措之一。
 - [原文連結](https://www.digitimes.com/news/a20260514PD217/mediatek-intel-asic-cowos-emib.html)
+
+---
+
+### 🚀 新創公司正在人們家中安裝小型資料中心，以減輕陷入困境的電網的壓力
+- **題材**: `AI伺服器` | **重要性**: `70`
+- **來源**: Yahoo Entertainment (2026-05-15T19:58:58Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Span 與 Nvidia 和 PulteGroup 合作，利用家庭未充分利用的電力進行電腦處理。
+- [原文連結](https://finance.yahoo.com/sectors/technology/articles/startups-installing-tiny-data-centers-195858169.html)
 
 ---
 
@@ -91,6 +118,15 @@
 
 ---
 
+### ⚠️ 晶片短缺是一場披著不同外衣的海灣能源危機
+- **題材**: `半導體先進製程` | **重要性**: `65`
+- **來源**: Forbes (2026-05-18T06:00:00Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 2026 年人工智慧運算危機和伊朗戰爭能源衝擊是同一個供應鏈中斷，但在相反的兩端觀察到。這就是為什麼它很重要。
+- [原文連結](https://www.forbes.com/sites/guneyyildiz/2026/05/18/the-chip-shortage-is-a-gulf-energy-crisis-wearing-a-different-costume/)
+
+---
+
 ### ⚖️ 台灣晶片製造商悄悄填補韓國 HBM 推動留下的空白
 - **題材**: `HBM記憶體` | **重要性**: `63`
 - **來源**: Digitimes (2026-05-16T22:37:22Z)
@@ -118,6 +154,15 @@
 
 ---
 
+### 🚀 2,400 英里 2022 年保時捷 911 Carrera GTS Coupe 7 速
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: Bringatrailer.com (2026-05-19T12:25:14Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 這款 2022 年保時捷 911 Carrera GTS 是一款胭脂紅色轎跑車，續航里程為 2,400 英里，可選配高級套件和七速手排變速驅動橋，搭配雙渦輪增壓 3.0L 水平對臥六缸引擎。它的莫哈韋米色和黑色鑲邊...
+- [原文連結](https://bringatrailer.com/listing/2022-porsche-911-carrera-gts-coupe-14/)
+
+---
+
 ### 🚀 山姆大叔的下一個大型超級電腦可能會使用比 GPU 更奇特的東西
 - **題材**: `AI伺服器` | **重要性**: `60`
 - **來源**: Theregister.com (2026-05-18T21:01:46Z)
@@ -133,51 +178,6 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 台灣積體電路製造股份有限公司（NYSE：TSM）被億萬富翁評選為 5 年來最值得投資的股票之一。 5月15日，銀行...
 - [原文連結](https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-tsm-among-195942269.html)
-
----
-
-### ⚖️ 亞馬遜的「Titus」計畫揭示了英偉達的真正實力
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: Business Insider (2026-05-18T17:32:23Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 亞馬遜的 AI 專案 Titus 旨在為 Nvidia 的 GPU 打造面向未來的資料中心，平衡自己的 AI 晶片雄心和 Nvidia 的主導地位。
-- [原文連結](https://www.businessinsider.com/nvidia-amazon-titus-project-gpus-trainium-2026-5)
-
----
-
-### ⚖️ MaxLinear (MXL) 宣佈為人工智慧資料中心推出華盛頓互阻放大器
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-05-18T14:40:58Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: MaxLinear Inc.（納斯達克股票代碼：MXL）是 2026 年迄今表現最好的半導體股票之一。 4 月 30 日，MaxLinear 宣布推出...
-- [原文連結](https://finance.yahoo.com/sectors/technology/articles/maxlinear-mxl-announces-availability-washington-144058635.html)
-
----
-
-### ⚖️ Tower Semiconductor (TSEM) 簽署 2027 年收入 1.3B 美元的矽光子客戶合約
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-05-18T14:38:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 
-- [原文連結](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_59bbc65e-c90c-470a-9c38-c61f5af91712)
-
----
-
-### 🚀 三星Exynos 2800大升級可能會帶來更好的設備AI
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: SamMobile (2026-05-18T05:22:03Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 關於三星預計將在 Exynos 2800 中引入的重大變化的報告已經開始出現。最新消息表明，三星正在研究下一代 HBM 封裝技術，該技術將顯著改善設備上的 AI 功能…
-- [原文連結](https://www.sammobile.com/news/samsungs-big-exynos-2800-upgrades-may-bring-better-on-device-ai/)
-
----
-
-### ⚖️ 中國AI光學億萬富翁在股價上漲340%後考慮在香港兩地上市
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: Forbes (2026-05-15T07:32:26Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: RoboTechnik智能科技在深圳上市的股價過去一年飆升340%，使創辦人戴軍的淨資產達到24億美元。
-- [原文連結](https://www.forbes.com/sites/zinnialee/2026/05/15/chinese-ai-optics-billionaire-eyes-dual-listing-in-hong-kong-after-340-stock-rally/)
 
 ---
 
