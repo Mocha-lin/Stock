@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-05-21T16:11:02.100144+00:00",
+  "generated_at": "2026-05-21T18:50:10.276789+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 71,
@@ -383,17 +383,17 @@
       "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "d4ccf93bd65232f4",
+      "id": "e75dd4d0a2e454c9",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "HBM記憶體",
-      "title": "記憶體定價週期可能在年底前壓垮這只 AI ETF",
-      "summary": "Roundhill Memory ETF (CBOE:DRAM) 是一種已經在定價的基金。 DRAM 於 2026 年 4 月 2 日推出，目前的價格為 28 美元。",
-      "original_title": "The Memory Pricing Cycle That Could Crush This AI ETF Before Year-End",
-      "url": "https://247wallst.com/investing/2026/05/20/the-memory-pricing-cycle-that-could-crush-this-ai-etf-before-year-end/",
-      "source": "24/7 Wall St.",
-      "domain": "247wallst.com",
-      "published_at": "2026-05-20T10:15:20Z",
+      "title": "三星因員工獎金問題面臨史上最大規模罷工",
+      "summary": "三星記憶體部門報告第一季銷售額創歷史新高，但這引起了公司內部的不滿，特別是設備解決方案（DS）業務。 DS 是記憶體業務、系統 LSI（設計晶片組）和代工業務（...",
+      "original_title": "Samsung is facing the biggest worker strike in its history over employee bonuses",
+      "url": "https://www.gsmarena.com/samsung_is_facing_the_biggest_worker_strike_in_its_history_over_employee_bonuses-news-72916.php",
+      "source": "GSMArena.com",
+      "domain": "gsmarena.com",
+      "published_at": "2026-05-20T18:07:02Z",
       "importance": 65,
       "impact": "positive",
       "timeframe": "short_term",
@@ -456,41 +456,6 @@
       "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "9278be4dcdd70384",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "DRAM 一個月飆升 51%，SOXX 上漲 32%，但只有一種能倖免於記憶體週期低迷",
-      "summary": "Roundhill Memory ETF (CBOE:DRAM) 和 iShares Semiconductor ETF (NASDAQ:SOXX) 之間的選擇看起來像是半導體暴露的決定，但它...",
-      "original_title": "DRAM Surged 51% in One Month While SOXX Climbed 32%, but Only One Survives the Memory Cycle Downturn",
-      "url": "https://247wallst.com/investing/2026/05/18/dram-surged-51-in-one-month-while-soxx-climbed-32-but-only-one-survives-the-memory-cycle-downturn/",
-      "source": "24/7 Wall St.",
-      "domain": "247wallst.com",
-      "published_at": "2026-05-18T16:30:49Z",
-      "importance": 65,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "1db78ed163d62619",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -524,6 +489,44 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "8e267d78c729eaf0",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "美國銀行在技術研討會後重申買入台積電 (TSM)",
+      "summary": "史蒂夫·科恩 (Steve Cohen) 躋身全球最富有的對沖基金經理人之列。台積電佔這位億萬富翁投資組合的1.59%份額...",
+      "original_title": "BofA Reiterates Buy on Taiwan Semiconductor (TSM) After Tech Symposium",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bofa-reiterates-buy-taiwan-semiconductor-072237772.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-05-20T07:22:37Z",
+      "importance": 60,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "fd359b1f0f8e4f89",
@@ -678,32 +681,29 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "80fe62b161b6c6b0",
+      "id": "9278be4dcdd70384",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "亞馬遜的「Titus」計畫揭示了英偉達的真正實力",
-      "summary": "亞馬遜的 AI 專案 Titus 旨在為 Nvidia 的 GPU 打造面向未來的資料中心，平衡自己的 AI 晶片雄心和 Nvidia 的主導地位。",
-      "original_title": "Amazon's 'Titus' project reveals Nvidia's real power",
-      "url": "https://www.businessinsider.com/nvidia-amazon-titus-project-gpus-trainium-2026-5",
-      "source": "Business Insider",
-      "domain": "businessinsider.com",
-      "published_at": "2026-05-18T17:32:23Z",
+      "theme": "HBM記憶體",
+      "title": "DRAM 一個月飆升 51%，SOXX 上漲 32%，但只有一種能倖免於記憶體週期低迷",
+      "summary": "Roundhill Memory ETF (CBOE:DRAM) 和 iShares Semiconductor ETF (NASDAQ:SOXX) 之間的選擇看起來像是半導體暴露的決定，但它...",
+      "original_title": "DRAM Surged 51% in One Month While SOXX Climbed 32%, but Only One Survives the Memory Cycle Downturn",
+      "url": "https://247wallst.com/investing/2026/05/18/dram-surged-51-in-one-month-while-soxx-climbed-32-but-only-one-survives-the-memory-cycle-downturn/",
+      "source": "24/7 Wall St.",
+      "domain": "247wallst.com",
+      "published_at": "2026-05-18T16:30:49Z",
       "importance": 60,
-      "impact": "neutral",
+      "impact": "positive",
       "timeframe": "short_term",
       "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
+        "HBM",
+        "記憶體"
       ],
       "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
       ],
       "related_models": [
         "003",
@@ -713,7 +713,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "d7025c94c77b16ba",
@@ -792,44 +792,6 @@
       "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "70558ef857a6588a",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "晶片短缺是一場披著不同外衣的海灣能源危機",
-      "summary": "2026 年人工智慧運算危機和伊朗戰爭能源衝擊是同一個供應鏈中斷，但在相反的兩端觀察到。這就是為什麼它很重要。",
-      "original_title": "The Chip Shortage Is A Gulf Energy Crisis Wearing A Different Costume",
-      "url": "https://www.forbes.com/sites/guneyyildiz/2026/05/18/the-chip-shortage-is-a-gulf-energy-crisis-wearing-a-different-costume/",
-      "source": "Forbes",
-      "domain": "forbes.com",
-      "published_at": "2026-05-18T06:00:00Z",
-      "importance": 60,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "9ba36bcf913b5cf8",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -880,6 +842,41 @@
       "domain": "tomshardware.com",
       "published_at": "2026-05-18T10:00:00Z",
       "importance": 57,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "537031afd827dd1f",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "川普不小心買了一家壽司店而不是一家科技公司的股票？",
+      "summary": "總統買的股票有些可疑。",
+      "original_title": "Did Trump Accidentally Buy Stock in a Sushi Restaurant Instead of a Tech Company?",
+      "url": "https://gizmodo.com/did-trump-accidentally-buy-stock-in-a-sushi-restaurant-instead-of-a-tech-company-2000761356",
+      "source": "Gizmodo.com",
+      "domain": "gizmodo.com",
+      "published_at": "2026-05-20T17:40:18Z",
+      "importance": 55,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -1126,6 +1123,44 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "80fe62b161b6c6b0",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "亞馬遜的「Titus」計畫揭示了英偉達的真正實力",
+      "summary": "亞馬遜的 AI 專案 Titus 旨在為 Nvidia 的 GPU 打造面向未來的資料中心，平衡自己的 AI 晶片雄心和 Nvidia 的主導地位。",
+      "original_title": "Amazon's 'Titus' project reveals Nvidia's real power",
+      "url": "https://www.businessinsider.com/nvidia-amazon-titus-project-gpus-trainium-2026-5",
+      "source": "Business Insider",
+      "domain": "businessinsider.com",
+      "published_at": "2026-05-18T17:32:23Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "c9fc49832f3e0f65",
@@ -1538,44 +1573,6 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "a4cf5257a0c8048b",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "報告：英特爾正在測試部分 iPhone、iPad 和 Mac 晶片的生產",
-      "summary": "自 2016 年以來，台積電一直是蘋果晶片系統的獨家供應商，但這一十年連續紀錄可能即將結束。\n\n\n\n\n\n蘋果供應鏈分析師郭明池今天表示，英特爾已「開始」低階 iPhone、iPad 等的小規模測試…",
-      "original_title": "Report: Intel is Testing Production of Some iPhone, iPad, and Mac Chips",
-      "url": "https://www.macrumors.com/2026/05/14/kuo-intel-iphone-ipad-mac-chips/",
-      "source": "MacRumors",
-      "domain": "macrumors.com",
-      "published_at": "2026-05-14T18:48:12Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "0e2e575bec644507",
@@ -2183,52 +2180,17 @@
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "a34f5d1e2238a4f5",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "庫克 (Tim Cook) 隨川普高層出席中國峰會",
-      "summary": "川普總統在《Truth Social》上表示，他將要求習近平主席「開放」中國",
-      "original_title": "Tim Cook Is in Trump’s Executive Entourage for China Summit",
-      "url": "https://www.the-independent.com/news/world/americas/us-politics/elon-musk-tim-cook-trump-china-tech-ceo-b2975568.html",
-      "source": "The-independent.com",
-      "domain": "the-independent.com",
-      "published_at": "2026-05-14T19:36:58Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "12459de13e31186e",
+      "id": "a4cf5257a0c8048b",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "半導體先進製程",
-      "title": "據報道，英特爾現在正在為蘋果生產 iPhone 晶片",
-      "summary": "上週《華爾街日報》報道稱，蘋果和英特爾已達成晶片生產協議，現在郭明池的一份新報告稱，英特爾已經開始 iPhone 處理器等產品的初步生產。\n\n\n\n 更多的…",
-      "original_title": "Intel is now making iPhone chips for Apple, per report",
-      "url": "https://9to5mac.com/2026/05/14/intel-is-now-making-iphone-chips-for-apple-per-report/",
-      "source": "9to5Mac",
-      "domain": "9to5mac.com",
-      "published_at": "2026-05-14T18:42:54Z",
+      "title": "報告：英特爾正在測試部分 iPhone、iPad 和 Mac 晶片的生產",
+      "summary": "自 2016 年以來，台積電一直是蘋果晶片系統的獨家供應商，但這一十年連續紀錄可能即將結束。\n\n\n\n\n\n蘋果供應鏈分析師郭明池今天表示，英特爾已「開始」低階 iPhone、iPad 等的小規模測試…",
+      "original_title": "Report: Intel is Testing Production of Some iPhone, iPad, and Mac Chips",
+      "url": "https://www.macrumors.com/2026/05/14/kuo-intel-iphone-ipad-mac-chips/",
+      "source": "MacRumors",
+      "domain": "macrumors.com",
+      "published_at": "2026-05-14T18:48:12Z",
       "importance": 50,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -2438,6 +2400,44 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "12459de13e31186e",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "據報道，英特爾現在正在為蘋果生產 iPhone 晶片",
+      "summary": "上週《華爾街日報》報道稱，蘋果和英特爾已達成晶片生產協議，現在郭明池的一份新報告稱，英特爾已經開始 iPhone 處理器等產品的初步生產。\n\n\n\n 更多的…",
+      "original_title": "Intel is now making iPhone chips for Apple, per report",
+      "url": "https://9to5mac.com/2026/05/14/intel-is-now-making-iphone-chips-for-apple-per-report/",
+      "source": "9to5Mac",
+      "domain": "9to5mac.com",
+      "published_at": "2026-05-14T18:42:54Z",
+      "importance": 45,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     },
     {
       "id": "9d219abf1bf53706",

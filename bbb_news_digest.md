@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-05-21T16:11:02.100144+00:00
+> 更新時間：2026-05-21T18:50:10.276789+00:00
 
 ### ⚖️ 人工智慧機架熱潮推動英偉達獲利再次成長
 - **題材**: `AI伺服器` | **重要性**: `83`
@@ -91,12 +91,12 @@
 
 ---
 
-### 🚀 記憶體定價週期可能在年底前壓垮這只 AI ETF
+### 🚀 三星因員工獎金問題面臨史上最大規模罷工
 - **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: 24/7 Wall St. (2026-05-20T10:15:20Z)
+- **來源**: GSMArena.com (2026-05-20T18:07:02Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Roundhill Memory ETF (CBOE:DRAM) 是一種已經在定價的基金。 DRAM 於 2026 年 4 月 2 日推出，目前的價格為 28 美元。
-- [原文連結](https://247wallst.com/investing/2026/05/20/the-memory-pricing-cycle-that-could-crush-this-ai-etf-before-year-end/)
+- **摘要**: 三星記憶體部門報告第一季銷售額創歷史新高，但這引起了公司內部的不滿，特別是設備解決方案（DS）業務。 DS 是記憶體業務、系統 LSI（設計晶片組）和代工業務（...
+- [原文連結](https://www.gsmarena.com/samsung_is_facing_the_biggest_worker_strike_in_its_history_over_employee_bonuses-news-72916.php)
 
 ---
 
@@ -109,21 +109,21 @@
 
 ---
 
-### 🚀 DRAM 一個月飆升 51%，SOXX 上漲 32%，但只有一種能倖免於記憶體週期低迷
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: 24/7 Wall St. (2026-05-18T16:30:49Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Roundhill Memory ETF (CBOE:DRAM) 和 iShares Semiconductor ETF (NASDAQ:SOXX) 之間的選擇看起來像是半導體暴露的決定，但它...
-- [原文連結](https://247wallst.com/investing/2026/05/18/dram-surged-51-in-one-month-while-soxx-climbed-32-but-only-one-survives-the-memory-cycle-downturn/)
-
----
-
 ### ⚖️ 台灣晶片製造商悄悄填補韓國 HBM 推動留下的空白
 - **題材**: `HBM記憶體` | **重要性**: `63`
 - **來源**: Digitimes (2026-05-16T22:37:22Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 台灣半導體生態系統正從人工智慧伺服器投資熱潮中獲得意想不到的提振。始於高頻寬記憶體和前緣製程技術的供應壓力現在正在波及傳統記憶體、封裝和測試。
 - [原文連結](https://www.digitimes.com/news/a20260515VL216/taiwan-hbm-investment-packaging-ai-server.html)
+
+---
+
+### ⚖️ 美國銀行在技術研討會後重申買入台積電 (TSM)
+- **題材**: `半導體先進製程` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-05-20T07:22:37Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 史蒂夫·科恩 (Steve Cohen) 躋身全球最富有的對沖基金經理人之列。台積電佔這位億萬富翁投資組合的1.59%份額...
+- [原文連結](https://finance.yahoo.com/markets/stocks/articles/bofa-reiterates-buy-taiwan-semiconductor-072237772.html)
 
 ---
 
@@ -163,12 +163,12 @@
 
 ---
 
-### ⚖️ 亞馬遜的「Titus」計畫揭示了英偉達的真正實力
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: Business Insider (2026-05-18T17:32:23Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 亞馬遜的 AI 專案 Titus 旨在為 Nvidia 的 GPU 打造面向未來的資料中心，平衡自己的 AI 晶片雄心和 Nvidia 的主導地位。
-- [原文連結](https://www.businessinsider.com/nvidia-amazon-titus-project-gpus-trainium-2026-5)
+### 🚀 DRAM 一個月飆升 51%，SOXX 上漲 32%，但只有一種能倖免於記憶體週期低迷
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: 24/7 Wall St. (2026-05-18T16:30:49Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Roundhill Memory ETF (CBOE:DRAM) 和 iShares Semiconductor ETF (NASDAQ:SOXX) 之間的選擇看起來像是半導體暴露的決定，但它...
+- [原文連結](https://247wallst.com/investing/2026/05/18/dram-surged-51-in-one-month-while-soxx-climbed-32-but-only-one-survives-the-memory-cycle-downturn/)
 
 ---
 
