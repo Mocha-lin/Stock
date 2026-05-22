@@ -1,12 +1,12 @@
 {
   "id": "6831",
   "name": "邁科",
-  "lastUpdated": "2026-05-21 18:35:26",
+  "lastUpdated": "2026-05-22 18:20:51",
   "ai_model": "Fact-Update",
   "basicInfo": {
-    "price": "781.00",
-    "change": "61.00",
-    "changePercent": "8.47%"
+    "price": "786.00",
+    "change": "5.00",
+    "changePercent": "0.64%"
   },
   "financials": {
     "revenue_trend": [
@@ -454,12 +454,20 @@
     ],
     "chips_table": [
       {
+        "date": "2026-05-22",
+        "foreign_lots": 64.734,
+        "it_lots": 0.0,
+        "dealer_lots": -1.65,
+        "sum_lots": 63.083999999999996,
+        "pct_float": 0.009345777777777778
+      },
+      {
         "date": "2026-05-21",
         "foreign_lots": 2.0,
-        "it_lots": 102.252,
+        "it_lots": 158.252,
         "dealer_lots": 3.709,
-        "sum_lots": 107.961,
-        "pct_float": 0.015994222222222222
+        "sum_lots": 163.961,
+        "pct_float": 0.02429051851851852
       },
       {
         "date": "2026-05-20",
@@ -564,14 +572,6 @@
         "dealer_lots": 22.593,
         "sum_lots": -302.407,
         "pct_float": -0.044801037037037035
-      },
-      {
-        "date": "2026-04-30",
-        "foreign_lots": -205.745,
-        "it_lots": -90.0,
-        "dealer_lots": 73.04899999999999,
-        "sum_lots": -222.69600000000003,
-        "pct_float": -0.03299200000000001
       }
     ],
     "c_score_data": {
@@ -579,7 +579,7 @@
       "dataset": "structure_c_score",
       "stock_id": "6831",
       "ticker": "6831.TW",
-      "asof": "2026-05-21",
+      "asof": "2026-05-22",
       "c_score": 1.0,
       "benchmark_pe": 129.16666666666666,
       "source": [
@@ -794,8 +794,8 @@
     "returns_table": [
       {
         "year": 2026,
-        "return_pct": 170.84319202399337,
-        "period": "01/02~05/21"
+        "return_pct": 172.5771433173608,
+        "period": "01/02~05/22"
       },
       {
         "year": 2025,
@@ -804,27 +804,6 @@
       }
     ],
     "kline_data": [
-      {
-        "date": "2025-11-18",
-        "symbol": "6831.TW",
-        "open": 159.5,
-        "high": 161.5,
-        "low": 156.5,
-        "close": 160.0,
-        "volume": 303136,
-        "adjclose": 158.8206329345703,
-        "dividends": 0.0,
-        "MA5": null,
-        "MA20": null,
-        "MA60": null,
-        "bb_mid": null,
-        "bb_up": null,
-        "bb_dn": null,
-        "DIF": -0.0398860398860563,
-        "DEA": -0.0079772079772112,
-        "HIST": -0.0638176638176901,
-        "volume_lot": 303.136
-      },
       {
         "date": "2025-11-19",
         "symbol": "6831.TW",
@@ -3310,7 +3289,7 @@
         "high": 792.0,
         "low": 727.0,
         "close": 781.0,
-        "volume": 868377,
+        "volume": 869872,
         "adjclose": 781.0,
         "dividends": 0.0,
         "MA5": 738.2,
@@ -3322,7 +3301,28 @@
         "DIF": 83.51327684602518,
         "DEA": 68.93202102546252,
         "HIST": 29.16251164112532,
-        "volume_lot": 868.377
+        "volume_lot": 869.872
+      },
+      {
+        "date": "2026-05-22",
+        "symbol": "6831.TW",
+        "open": 769.0,
+        "high": 787.0,
+        "low": 767.0,
+        "close": 786.0,
+        "volume": 451673,
+        "adjclose": 786.0,
+        "dividends": 0.0,
+        "MA5": 750.4,
+        "MA20": 607.475,
+        "MA60": 450.45,
+        "bb_mid": 607.475,
+        "bb_up": 835.1439427655866,
+        "bb_dn": 379.8060572344134,
+        "DIF": 86.24939652034755,
+        "DEA": 72.39549612443952,
+        "HIST": 27.70780079181605,
+        "volume_lot": 451.673
       }
     ],
     "valuation": {
