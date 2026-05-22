@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-05-22T15:43:44.683095+00:00
+> 更新時間：2026-05-22T18:26:28.801753+00:00
 
 ### 🚀 隨著 CPO 競賽轉向系統集成，FII 挑戰博通和 Nvidia
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -167,21 +167,21 @@
 
 ---
 
+### ⚖️ 到 2030 年矽光子市場規模預測為 96 億美元 |維森研究
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: PRNewswire (2026-05-21T17:16:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: SHERIDAN, Wyo., May 21, 2026 /PRNewswire/ -- The global silicon photonics market is projected to grow from USD 2.8 billion in 2025 to USD 9.6 billion by 2030, registering a CAGR of 28% during the forecast period (2026–2030), according to a new study by Wissen…
+- [原文連結](https://www.prnewswire.com/news-releases/silicon-photonics-market-size-forecast-at-usd-9-6-billion-by-2030--wissen-research-302779291.html)
+
+---
+
 ### 🚀 隨著伊朗戰爭導致汽油價格飆升，歐洲電動車銷量激增
 - **題材**: `總體風險` | **重要性**: `60`
 - **來源**: The Next Web (2026-05-20T19:56:07Z)
 - **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 戰爭可以在一夜之間改寫消費者的習慣。自2月底美國和以色列空襲伊朗以來，原油價格自俄羅斯2022年入侵烏克蘭以來首次飆升至每桶100美元以上。歐洲汽油泵的結果…
 - [原文連結](https://thenextweb.com/news/europe-ev-sales-surge-iran-war-oil-prices/)
-
----
-
-### ⚖️ 美國銀行在技術研討會後重申買入台積電 (TSM)
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-05-20T07:22:37Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 史蒂夫·科恩 (Steve Cohen) 躋身全球最富有的對沖基金經理人之列。台積電佔這位億萬富翁投資組合的1.59%份額...
-- [原文連結](https://finance.yahoo.com/markets/stocks/articles/bofa-reiterates-buy-taiwan-semiconductor-072237772.html)
 
 ---
 
