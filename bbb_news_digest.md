@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-05-23T10:26:45.096077+00:00
+> 更新時間：2026-05-23T14:24:05.984937+00:00
 
 ### 🚀 隨著 CPO 競賽轉向系統集成，FII 挑戰博通和 Nvidia
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -25,15 +25,6 @@
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 隨著 Blackwell 出貨量的增加、Rubin 的臨近以及英特爾 CPU 重新成為人工智慧伺服器的焦點，供應鏈的樂觀情緒日益增強。
 - [原文連結](https://www.digitimes.com/news/a20260520PD209/nvidia-supply-blackwell-shipments-rubin.html)
-
----
-
-### ⚠️ 評論：制裁重塑了中國代工產業——只是與市場預期的方式不同
-- **題材**: `半導體先進製程` | **重要性**: `78`
-- **來源**: Digitimes (2026-05-18T22:51:04Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 隨著全球半導體市場仍關注人工智慧 GPU、2 奈米製程節點和先進封裝，中國的代工產業正在製定不同的路線。以中芯國際（SMIC）和華虹半導體為首的國內中國…
-- [原文連結](https://www.digitimes.com/news/a20260518PD224/smic-demand-market-capacity-revenue.html)
 
 ---
 
@@ -109,15 +100,6 @@
 
 ---
 
-### ⚖️ 據報導，隨著韓國記憶體競爭加劇，三星提高了 1b DRAM 產量
-- **題材**: `HBM記憶體` | **重要性**: `68`
-- **來源**: Digitimes (2026-05-18T07:36:54Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: IT Chosun 表示，三星電子顯著提高了用於高頻寬記憶體 (HBM) 的最新 DRAM 技術的產量，這凸顯了記憶體製造商之間為確保人工智慧相關半導體領導地位而展開的激烈競爭。
-- [原文連結](https://www.digitimes.com/news/a20260518VL209/samsung-dram-hbm-capacity-manufacturing.html)
-
----
-
 ### ⚖️ 每週新聞綜述：三星、英特爾和蘋果測試代工替代方案，台積電面臨人工智慧供應緊張
 - **題材**: `半導體先進製程` | **重要性**: `68`
 - **來源**: Digitimes (2026-05-18T01:49:16Z)
@@ -182,6 +164,24 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 台灣半導體生態系統正從人工智慧伺服器投資熱潮中獲得意想不到的提振。始於高頻寬記憶體和前緣製程技術的供應壓力現在正在波及傳統記憶體、封裝和測試。
 - [原文連結](https://www.digitimes.com/news/a20260515VL216/taiwan-hbm-investment-packaging-ai-server.html)
+
+---
+
+### ⚖️ Nvidia 的記憶體成本飆升 485%，最新的 AI 系統目前的建置成本為 780 萬美元——記憶體目前佔總成本的 25%，Rubin GPU 每個僅需 5 萬美元
+- **題材**: `AI伺服器` | **重要性**: `62`
+- **來源**: Tom's Hardware UK (2026-05-21T15:41:01Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 隨著 Vera Rubin 平台中每個機架記憶體容量的增加，它現在佔其成本的近 25%。
+- [原文連結](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-memory-costs-soar-485-percent-latest-ai-systems-now-cost-usd7-8-million-to-build-memory-now-comprises-25-percent-of-the-total-cost-rubin-gpus-a-mere-usd50-000-apiece)
+
+---
+
+### ⚖️ AMD 開始量產 256 核心 EPYC Venice——首款 2nm HPC 晶片聲稱性能飛躍 70%
+- **題材**: `半導體先進製程` | **重要性**: `62`
+- **來源**: Tom's Hardware UK (2026-05-21T12:12:15Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: AMD 宣布其代號為 Venice 的第六代 EPYC 處理器已在台灣台積電的 N2 製程進入量產階段。
+- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/amd-begins-production-ramp-of-256-core-epyc-venice-on-tsmcs-2nm-node)
 
 ---
 

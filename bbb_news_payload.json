@@ -1,9 +1,9 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-05-23T10:26:45.096077+00:00",
+  "generated_at": "2026-05-23T14:24:05.984937+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
-  "total_count": 70,
+  "total_count": 69,
   "items": [
     {
       "id": "658402d5f767d18e",
@@ -118,44 +118,6 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
-      "id": "7b846151c7e5e977",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "評論：制裁重塑了中國代工產業——只是與市場預期的方式不同",
-      "summary": "隨著全球半導體市場仍關注人工智慧 GPU、2 奈米製程節點和先進封裝，中國的代工產業正在製定不同的路線。以中芯國際（SMIC）和華虹半導體為首的國內中國…",
-      "original_title": "Commentary: Sanctions reshaped China's foundry sector — just not in the way markets expected",
-      "url": "https://www.digitimes.com/news/a20260518PD224/smic-demand-market-capacity-revenue.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-05-18T22:51:04Z",
-      "importance": 78,
-      "impact": "negative",
-      "timeframe": "short_to_mid_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "5da2fc54068839e0",
@@ -451,41 +413,6 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
-      "id": "1b776965611e22ec",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "據報導，隨著韓國記憶體競爭加劇，三星提高了 1b DRAM 產量",
-      "summary": "IT Chosun 表示，三星電子顯著提高了用於高頻寬記憶體 (HBM) 的最新 DRAM 技術的產量，這凸顯了記憶體製造商之間為確保人工智慧相關半導體領導地位而展開的激烈競爭。",
-      "original_title": "Samsung reportedly boosts 1b DRAM yields as Korean memory rivalry heats up",
-      "url": "https://www.digitimes.com/news/a20260518VL209/samsung-dram-hbm-capacity-manufacturing.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-05-18T07:36:54Z",
-      "importance": 68,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "df15ab23f18e5a1c",
@@ -798,6 +725,44 @@
       "domain": "tomshardware.com",
       "published_at": "2026-05-21T12:12:15Z",
       "importance": 62,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "32fa09f8b8859f30",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "目前的人工智慧定價總是會消失",
+      "summary": "目前的人工智慧定價總是會消失。這根本沒有意義。微軟本週取消了內部 Claude Code 許可證（無論出於何種原因，即使是因為他們集成了它），Uber 在四個月內耗盡了其 2026 年全部人工智能預算，並且…",
+      "original_title": "The current AI pricing was always going to go away",
+      "url": "https://arnon.dk/the-current-ai-pricing-was-always-going-to-go-away/",
+      "source": "Arnon.dk",
+      "domain": "arnon.dk",
+      "published_at": "2026-05-22T11:24:53Z",
+      "importance": 60,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -1455,79 +1420,6 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "e859987ff584c0f4",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "(g+) 韓國商業與金融：股票市場的漲幅超過了納斯達克網路時代的漲幅",
-      "summary": "隨著人工智慧的持續發展，韓國的 Kospi 在三星和 SK 海力士的支持下在 18 個月內增長了兩倍（Wirtschaft、Börse）",
-      "original_title": "(g+) South Korean business & finance: The stock market that outpaced Nasdaq's dotcom-era gains",
-      "url": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fsouth-korean-business-finance-the-stock-market-that-outpaced-nasdaq-s-dotcom-era-gains-2605-208871.html&referer=https%3A%2F%2Ft.co%2Fb0dc57fcf7",
-      "source": "Golem.de",
-      "domain": "golem.de",
-      "published_at": "2026-05-20T13:30:02Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "6dd6211919d0e4b0",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "Marvell 技術從新的 AMD 股份中獲得提振",
-      "summary": "隨著 AMD 公佈新的 650 萬美元股份，Marvell 股價昨天上漲。但是，這是否足以保證 MRVL 股票在目前水準上增持呢？讓我們來看看。",
-      "original_title": "Marvell Technology Gets Boost From New AMD Stake",
-      "url": "https://www.barchart.com/story/news/2038142/marvell-technology-gets-boost-from-new-amd-stake",
-      "source": "Barchart.com",
-      "domain": "barchart.com",
-      "published_at": "2026-05-20T12:58:35Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "8e267d78c729eaf0",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1903,6 +1795,79 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "e859987ff584c0f4",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "(g+) 韓國商業與金融：股票市場的漲幅超過了納斯達克網路時代的漲幅",
+      "summary": "隨著人工智慧的持續發展，韓國的 Kospi 在三星和 SK 海力士的支持下在 18 個月內增長了兩倍（Wirtschaft、Börse）",
+      "original_title": "(g+) South Korean business & finance: The stock market that outpaced Nasdaq's dotcom-era gains",
+      "url": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fsouth-korean-business-finance-the-stock-market-that-outpaced-nasdaq-s-dotcom-era-gains-2605-208871.html&referer=https%3A%2F%2Ft.co%2Fb0dc57fcf7",
+      "source": "Golem.de",
+      "domain": "golem.de",
+      "published_at": "2026-05-20T13:30:02Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "6dd6211919d0e4b0",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "Marvell 技術從新的 AMD 股份中獲得提振",
+      "summary": "隨著 AMD 公佈新的 650 萬美元股份，Marvell 股價昨天上漲。但是，這是否足以保證 MRVL 股票在目前水準上增持呢？讓我們來看看。",
+      "original_title": "Marvell Technology Gets Boost From New AMD Stake",
+      "url": "https://www.barchart.com/story/news/2038142/marvell-technology-gets-boost-from-new-amd-stake",
+      "source": "Barchart.com",
+      "domain": "barchart.com",
+      "published_at": "2026-05-20T12:58:35Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "7f6a05aed3f93f31",
@@ -2524,7 +2489,7 @@
       "source": "Yahoo Entertainment",
       "domain": "yahoo.com",
       "published_at": "2026-05-16T13:35:43Z",
-      "importance": 50,
+      "importance": 45,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -2548,7 +2513,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「半導體先進製程」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     },
     {
       "id": "ea087ee02274a372",
@@ -2562,7 +2527,7 @@
       "source": "Android Police",
       "domain": "androidpolice.com",
       "published_at": "2026-05-16T13:30:11Z",
-      "importance": 50,
+      "importance": 45,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -2583,7 +2548,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「HBM記憶體」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     },
     {
       "id": "165cc94afc75947f",
