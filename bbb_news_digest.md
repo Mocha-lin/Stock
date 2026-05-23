@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-05-23T00:08:17.893949+00:00
+> 更新時間：2026-05-23T04:33:39.526724+00:00
 
 ### 🚀 隨著 CPO 競賽轉向系統集成，FII 挑戰博通和 Nvidia
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -20,7 +20,7 @@
 ---
 
 ### ⚖️ 人工智慧機架熱潮推動英偉達獲利再次成長
-- **題材**: `AI伺服器` | **重要性**: `83`
+- **題材**: `AI伺服器` | **重要性**: `78`
 - **來源**: Digitimes (2026-05-20T00:28:42Z)
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 隨著 Blackwell 出貨量的增加、Rubin 的臨近以及英特爾 CPU 重新成為人工智慧伺服器的焦點，供應鏈的樂觀情緒日益增強。
@@ -52,6 +52,15 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 據報道，在最後一刻達成勞資協議後，三星電子準備分配高達 40 兆韓元（266 億美元）的半導體員工獎金。擬議的交易將支付與人工智慧驅動的晶片利潤聯繫起來，並可能看到平均員工…
 - [原文連結](https://www.tomshardware.com/tech-industry/big-tech/samsung-reportedly-set-to-distribute-up-to-usd26-6-billion-to-staff-in-ai-driven-semiconductor-bonuses-after-last-minute-union-deal-average-payouts-could-approach-usd400-000-per-chip-employee)
+
+---
+
+### ⚖️ 隨著人工智慧重塑資料中心電源，Liteon 押注矽光子
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-05-22T01:21:05Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 光寶科技將 2026 年定位為繼 2025 年成立 50 週年後的重置年，該公司將深入推進人工智慧資料中心電源系統，並開始開發矽光子產品。
+- [原文連結](https://www.digitimes.com/news/a20260520PD235/photonics-silicon-data-center-2026-revenue.html)
 
 ---
 
@@ -127,6 +136,15 @@
 
 ---
 
+### 🚀 Amkor Technology 的目標是到 2030 年在亞利桑那州坡道的 AI 封裝上實現 110 億美元的收入
+- **題材**: `半導體先進製程` | **重要性**: `65`
+- **來源**: MarketBeat (2026-05-21T17:04:54Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Amkor Technology（納斯達克股票代碼：AMKR）概述了以先進半導體封裝為中心的多年增長策略，稱該技術已從...
+- [原文連結](https://www.marketbeat.com/instant-alerts/amkor-technology-targets-11b-revenue-by-2030-on-ai-packaging-arizona-ramp-2026-05-21/?utm_source=yahoofinance&amp;utm_medium=yahoofinance)
+
+---
+
 ### ⚖️ Nvidia財務長稱有望成為全球領先的CPU供應商
 - **題材**: `AI伺服器` | **重要性**: `65`
 - **來源**: Theregister.com (2026-05-21T00:23:00Z)
@@ -164,24 +182,6 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Roundhill Memory ETF (CBOE:DRAM) 是一種已經在定價的基金。 DRAM 於 2026 年 4 月 2 日推出，目前的價格為 28 美元。
 - [原文連結](https://247wallst.com/investing/2026/05/20/the-memory-pricing-cycle-that-could-crush-this-ai-etf-before-year-end/)
-
----
-
-### ⚖️ 台灣晶片製造商悄悄填補韓國 HBM 推動留下的空白
-- **題材**: `HBM記憶體` | **重要性**: `63`
-- **來源**: Digitimes (2026-05-16T22:37:22Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 台灣半導體生態系統正從人工智慧伺服器投資熱潮中獲得意想不到的提振。始於高頻寬記憶體和前緣製程技術的供應壓力現在正在波及傳統記憶體、封裝和測試。
-- [原文連結](https://www.digitimes.com/news/a20260515VL216/taiwan-hbm-investment-packaging-ai-server.html)
-
----
-
-### ⚖️ Nvidia 的記憶體成本飆升 485%，最新的 AI 系統目前的建置成本為 780 萬美元——記憶體目前佔總成本的 25%，Rubin GPU 每個僅需 5 萬美元
-- **題材**: `AI伺服器` | **重要性**: `62`
-- **來源**: Tom's Hardware UK (2026-05-21T15:41:01Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 隨著 Vera Rubin 平台中每個機架記憶體容量的增加，它現在佔其成本的近 25%。
-- [原文連結](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-memory-costs-soar-485-percent-latest-ai-systems-now-cost-usd7-8-million-to-build-memory-now-comprises-25-percent-of-the-total-cost-rubin-gpus-a-mere-usd50-000-apiece)
 
 ---
 
