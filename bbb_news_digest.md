@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-05-23T14:24:05.984937+00:00
+> 更新時間：2026-05-23T15:52:46.175381+00:00
 
 ### 🚀 隨著 CPO 競賽轉向系統集成，FII 挑戰博通和 Nvidia
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -118,6 +118,15 @@
 
 ---
 
+### ⚖️ 三星老闆低調赴台，從台積電手中搶走聯發科
+- **題材**: `半導體先進製程` | **重要性**: `65`
+- **來源**: SamMobile (2026-05-22T14:40:23Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 三星代工部門迎來了新的春天。它已經與 Tesla 達成了價值 165 億美元的晶片製造協議，並受到 AMD 等其他公司對 2nm 晶片生產的興趣。一份新報告顯示，三星電子董事長李在鎔 (Jay Y. Lee) ......
+- [原文連結](https://www.sammobile.com/news/samsung-boss-makes-low-key-taiwan-trip-to-steal-mediatek-from-tsmc/)
+
+---
+
 ### 🚀 Amkor Technology 的目標是到 2030 年在亞利桑那州坡道的 AI 封裝上實現 110 億美元的收入
 - **題材**: `半導體先進製程` | **重要性**: `65`
 - **來源**: MarketBeat (2026-05-21T17:04:54Z)
@@ -173,15 +182,6 @@
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 隨著 Vera Rubin 平台中每個機架記憶體容量的增加，它現在佔其成本的近 25%。
 - [原文連結](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-memory-costs-soar-485-percent-latest-ai-systems-now-cost-usd7-8-million-to-build-memory-now-comprises-25-percent-of-the-total-cost-rubin-gpus-a-mere-usd50-000-apiece)
-
----
-
-### ⚖️ AMD 開始量產 256 核心 EPYC Venice——首款 2nm HPC 晶片聲稱性能飛躍 70%
-- **題材**: `半導體先進製程` | **重要性**: `62`
-- **來源**: Tom's Hardware UK (2026-05-21T12:12:15Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: AMD 宣布其代號為 Venice 的第六代 EPYC 處理器已在台灣台積電的 N2 製程進入量產階段。
-- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/amd-begins-production-ramp-of-256-core-epyc-venice-on-tsmcs-2nm-node)
 
 ---
 

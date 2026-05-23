@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-05-23T14:24:05.984937+00:00",
+  "generated_at": "2026-05-23T15:52:46.175381+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 69,
@@ -489,6 +489,44 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "8dbeddfb71ed68df",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "三星老闆低調赴台，從台積電手中搶走聯發科",
+      "summary": "三星代工部門迎來了新的春天。它已經與 Tesla 達成了價值 165 億美元的晶片製造協議，並受到 AMD 等其他公司對 2nm 晶片生產的興趣。一份新報告顯示，三星電子董事長李在鎔 (Jay Y. Lee) ......",
+      "original_title": "Samsung boss makes low-key Taiwan trip to steal MediaTek from TSMC",
+      "url": "https://www.sammobile.com/news/samsung-boss-makes-low-key-taiwan-trip-to-steal-mediatek-from-tsmc/",
+      "source": "SamMobile",
+      "domain": "sammobile.com",
+      "published_at": "2026-05-22T14:40:23Z",
+      "importance": 65,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "0036797def99e6a9",
@@ -1759,44 +1797,6 @@
       "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "796ae0129db5fdc5",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "特習會後，中國暗示削減關稅、推動農產品市場准入",
-      "summary": "北京5月16日電（路透社）",
-      "original_title": "China signals tariff cuts, advances in farm market access after Trump-Xi summit",
-      "url": "https://finance.yahoo.com/news/china-signals-tariff-cuts-advances-153000943.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-05-16T15:30:00Z",
-      "importance": 55,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "e859987ff584c0f4",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2478,32 +2478,32 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "2648801c043a0dca",
+      "id": "796ae0129db5fdc5",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "川普稱台灣是與中國“良好的談判籌碼”，引發擔憂",
-      "summary": "美國總統川普最近表示，向台灣出售武器是美國與中國打交道的「非常好的談判籌碼」…",
-      "original_title": "Trump's description of Taiwan as a ‘good negotiating chip’ with China raises anxieties",
-      "url": "https://www.yahoo.com/news/articles/trumps-description-taiwan-good-negotiating-133543645.html",
+      "theme": "總體風險",
+      "title": "特習會後，中國暗示削減關稅、推動農產品市場准入",
+      "summary": "北京5月16日電（路透社）",
+      "original_title": "China signals tariff cuts, advances in farm market access after Trump-Xi summit",
+      "url": "https://finance.yahoo.com/news/china-signals-tariff-cuts-advances-153000943.html",
       "source": "Yahoo Entertainment",
-      "domain": "yahoo.com",
-      "published_at": "2026-05-16T13:35:43Z",
-      "importance": 45,
-      "impact": "neutral",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-05-16T15:30:00Z",
+      "importance": 50,
+      "impact": "negative",
       "timeframe": "short_term",
       "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
       ],
       "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
       ],
       "related_models": [
         "003",
@@ -2513,7 +2513,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
+      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "ea087ee02274a372",
