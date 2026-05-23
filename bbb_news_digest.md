@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-05-23T17:51:59.899287+00:00
+> 更新時間：2026-05-23T19:59:19.913666+00:00
 
 ### 🚀 隨著 CPO 競賽轉向系統集成，FII 挑戰博通和 Nvidia
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -136,28 +136,6 @@
 
 ---
 
-### 🚀 堪薩斯城公立學校將用 Apple 裝置取代 30,000 台 Windows PC 和 Chromebook
-- **題材**: `半導體先進製程` | **重要性**: `65`
-- **來源**: 9to5Mac (2026-05-20T19:55:31Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 在 Apple 2026 年第二季財報電話會議上發表簡短評論後，堪薩斯城公立學校網站詳細闡述了過渡到「全 Apple 學區」的計劃。以下是詳細資訊。
-
-
-
- 更多的…
-- [原文連結](https://9to5mac.com/2026/05/20/kansas-city-public-schools-to-replace-30000-windows-pcs-and-chromebooks-with-apple-devices/)
-
----
-
-### 🚀 三星因員工獎金問題面臨史上最大規模罷工
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: GSMArena.com (2026-05-20T18:07:02Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 三星記憶體部門報告第一季銷售額創歷史新高，但這引起了公司內部的不滿，特別是設備解決方案（DS）業務。 DS 是記憶體業務、系統 LSI（設計晶片組）和代工業務（...
-- [原文連結](https://www.gsmarena.com/samsung_is_facing_the_biggest_worker_strike_in_its_history_over_employee_bonuses-news-72916.php)
-
----
-
 ### 🚀 今年迄今上漲 153%，這就是為什麼美光股票已經成為我的 2026 年贏家
 - **題材**: `HBM記憶體` | **重要性**: `65`
 - **來源**: Barchart.com (2026-05-20T16:25:55Z)
@@ -182,6 +160,24 @@
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 隨著 Vera Rubin 平台中每個機架記憶體容量的增加，它現在佔其成本的近 25%。
 - [原文連結](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-memory-costs-soar-485-percent-latest-ai-systems-now-cost-usd7-8-million-to-build-memory-now-comprises-25-percent-of-the-total-cost-rubin-gpus-a-mere-usd50-000-apiece)
+
+---
+
+### ⚖️ AMD 開始量產 256 核心 EPYC Venice——首款 2nm HPC 晶片聲稱性能飛躍 70%
+- **題材**: `半導體先進製程` | **重要性**: `62`
+- **來源**: Tom's Hardware UK (2026-05-21T12:12:15Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: AMD 宣布其代號為 Venice 的第六代 EPYC 處理器已在台灣台積電的 N2 製程進入量產階段。
+- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/amd-begins-production-ramp-of-256-core-epyc-venice-on-tsmcs-2nm-node)
+
+---
+
+### 🚀 陣亡將士紀念日前夕，天然氣價格接近四年來最高水平
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Abcnews.com (2026-05-22T16:24:17Z)
+- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 由於伊朗戰爭導致全球石油供應中斷，天然氣價格近幾個月飆升。
+- [原文連結](https://abcnews.com/US/gas-prices-highest-level-4-years-ahead-memorial/story?id=133219781)
 
 ---
 
