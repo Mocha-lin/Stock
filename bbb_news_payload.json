@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-05-23T23:58:01.567632+00:00",
+  "generated_at": "2026-05-24T04:57:45.718509+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 69,
@@ -17,7 +17,7 @@
       "source": "Digitimes",
       "domain": "digitimes.com",
       "published_at": "2026-05-21T00:14:25Z",
-      "importance": 83,
+      "importance": 78,
       "impact": "positive",
       "timeframe": "short_to_mid_term",
       "tags": [
@@ -55,7 +55,7 @@
       "source": "Digitimes",
       "domain": "digitimes.com",
       "published_at": "2026-05-21T00:13:27Z",
-      "importance": 83,
+      "importance": 78,
       "impact": "neutral",
       "timeframe": "short_to_mid_term",
       "tags": [
@@ -118,6 +118,44 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
+      "id": "7b846151c7e5e977",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "評論：制裁重塑了中國代工產業——只是與市場預期的方式不同",
+      "summary": "隨著全球半導體市場仍關注人工智慧 GPU、2 奈米製程節點和先進封裝，中國的代工產業正在製定不同的路線。以中芯國際（SMIC）和華虹半導體為首的國內中國…",
+      "original_title": "Commentary: Sanctions reshaped China's foundry sector — just not in the way markets expected",
+      "url": "https://www.digitimes.com/news/a20260518PD224/smic-demand-market-capacity-revenue.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-05-18T22:51:04Z",
+      "importance": 78,
+      "impact": "negative",
+      "timeframe": "short_to_mid_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "5da2fc54068839e0",
@@ -231,41 +269,6 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
-      "id": "612cdc3d8dc1de02",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "據報道 SK 海力士將清州掩模廠轉向 HBM 產量提升",
-      "summary": "據報導，SK 海力士正在圍繞晶圓測試重塑其清州園區的部分區域，這一轉變凸顯出高頻寬記憶體（HBM）給晶片製造流程的後端帶來了新的壓力。",
-      "original_title": "SK Hynix reportedly shifts Cheongju mask fab toward HBM yield push",
-      "url": "https://www.digitimes.com/news/a20260521VL210/sk-hynix-hbm-fab-packaging-wafer.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-05-21T04:50:38Z",
-      "importance": 73,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
       "id": "334d385e2ad2a47a",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -340,6 +343,76 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
+      "id": "612cdc3d8dc1de02",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "據報道 SK 海力士將清州掩模廠轉向 HBM 產量提升",
+      "summary": "據報導，SK 海力士正在圍繞晶圓測試重塑其清州園區的部分區域，這一轉變凸顯出高頻寬記憶體（HBM）給晶片製造流程的後端帶來了新的壓力。",
+      "original_title": "SK Hynix reportedly shifts Cheongju mask fab toward HBM yield push",
+      "url": "https://www.digitimes.com/news/a20260521VL210/sk-hynix-hbm-fab-packaging-wafer.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-05-21T04:50:38Z",
+      "importance": 68,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "1b776965611e22ec",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "據報導，隨著韓國記憶體競爭加劇，三星提高了 1b DRAM 產量",
+      "summary": "IT Chosun 表示，三星電子顯著提高了用於高頻寬記憶體 (HBM) 的最新 DRAM 技術的產量，這凸顯了記憶體製造商之間為確保人工智慧相關半導體領導地位而展開的激烈競爭。",
+      "original_title": "Samsung reportedly boosts 1b DRAM yields as Korean memory rivalry heats up",
+      "url": "https://www.digitimes.com/news/a20260518VL209/samsung-dram-hbm-capacity-manufacturing.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-05-18T07:36:54Z",
+      "importance": 68,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "df15ab23f18e5a1c",
@@ -492,44 +565,6 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "6bfe3ee905c974e4",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Nvidia財務長稱有望成為全球領先的CPU供應商",
-      "summary": "乘著人工智慧浪潮，憑藉 GPU 成為全球最有價值公司後，英偉達將目光轉向了 CPU 市場",
-      "original_title": "Nvidia on track to be worlds leading CPU supplier claims CFO",
-      "url": "https://www.theregister.com/systems/2026/05/21/nvidia-on-track-to-be-worlds-leading-cpu-supplier-claims-cfo/5243868",
-      "source": "Theregister.com",
-      "domain": "theregister.com",
-      "published_at": "2026-05-21T00:23:00Z",
-      "importance": 65,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "e6e9798f390f032b",
@@ -865,6 +900,44 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "6bfe3ee905c974e4",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Nvidia財務長稱有望成為全球領先的CPU供應商",
+      "summary": "乘著人工智慧浪潮，憑藉 GPU 成為全球最有價值公司後，英偉達將目光轉向了 CPU 市場",
+      "original_title": "Nvidia on track to be worlds leading CPU supplier claims CFO",
+      "url": "https://www.theregister.com/systems/2026/05/21/nvidia-on-track-to-be-worlds-leading-cpu-supplier-claims-cfo/5243868",
+      "source": "Theregister.com",
+      "domain": "theregister.com",
+      "published_at": "2026-05-21T00:23:00Z",
+      "importance": 60,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "554f0779909cb759",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -914,6 +987,41 @@
       "source": "GSMArena.com",
       "domain": "gsmarena.com",
       "published_at": "2026-05-20T18:07:02Z",
+      "importance": 60,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "d4ccf93bd65232f4",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "記憶體定價週期可能在年底前壓垮這只 AI ETF",
+      "summary": "Roundhill Memory ETF (CBOE:DRAM) 是一種已經在定價的基金。 DRAM 於 2026 年 4 月 2 日推出，目前的價格為 28 美元。",
+      "original_title": "The Memory Pricing Cycle That Could Crush This AI ETF Before Year-End",
+      "url": "https://247wallst.com/investing/2026/05/20/the-memory-pricing-cycle-that-could-crush-this-ai-etf-before-year-end/",
+      "source": "24/7 Wall St.",
+      "domain": "247wallst.com",
+      "published_at": "2026-05-20T10:15:20Z",
       "importance": 60,
       "impact": "positive",
       "timeframe": "short_term",
@@ -1125,41 +1233,6 @@
       "reason": "屬「半導體先進製程」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "1db78ed163d62619",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "台灣晶片製造商悄悄填補韓國 HBM 推動留下的空白",
-      "summary": "台灣半導體生態系統正從人工智慧伺服器投資熱潮中獲得意想不到的提振。始於高頻寬記憶體和前緣製程技術的供應壓力現在正在波及傳統記憶體、封裝和測試。",
-      "original_title": "Taiwan chipmakers quietly fill gaps left by Korea's HBM push",
-      "url": "https://www.digitimes.com/news/a20260515VL216/taiwan-hbm-investment-packaging-ai-server.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-05-16T22:37:22Z",
-      "importance": 58,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "bceae093a1893eaf",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1231,6 +1304,44 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "2c44e6051a9a09bd",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "通貨膨脹挑選",
+      "summary": "美國的通貨膨脹率很高，幾乎所有東西的價格都在快速上漲，當我們去商店時就會注意到。你知道這一點。我知道這一點。您的銀行帳戶知道這一點。但美國商務部...",
+      "original_title": "Inflation cherrypicking",
+      "url": "https://flowingdata.com/2026/05/22/inflation-cherrypicking/",
+      "source": "Flowingdata.com",
+      "domain": "flowingdata.com",
+      "published_at": "2026-05-22T09:00:46Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "a085bca8bfc7762e",
@@ -1307,120 +1418,6 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "dc140fa6a48628e5",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "e.l.f.美妝計劃進一步降價以吸引日益注重成本的購物者",
-      "summary": "After the company cut the price of e.l.f.'s Halo Glow skin tint from $18 to $14, sales picked up nearly 40%.",
-      "original_title": "e.l.f. Beauty plans more price cuts to court increasingly cost-conscious shoppers",
-      "url": "https://www.businessinsider.com/elf-beauty-cut-prices-tariff-costs-2026-5",
-      "source": "Business Insider",
-      "domain": "businessinsider.com",
-      "published_at": "2026-05-21T04:01:01Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "fc8a6c8664cedc82",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "SpaceX 正式提交 IPO 並計劃以「SPCX」交易",
-      "summary": "招股說明書值得一讀。",
-      "original_title": "SpaceX Officially Files IPO and Plans to Be Traded as ‘SPCX’",
-      "url": "https://gizmodo.com/spacex-officially-files-ipo-and-plans-to-be-traded-as-spcx-2000761643",
-      "source": "Gizmodo.com",
-      "domain": "gizmodo.com",
-      "published_at": "2026-05-21T00:58:55Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "f99e68efa149eaf5",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "AMD’s Next Big Chip Hopes To Beat Nvidia’s CPUs While They’re in the Crib",
-      "summary": "紅隊也希望用自己的迷你電腦擊敗英偉達的「人工智慧超級電腦」。",
-      "original_title": "AMD’s Next Big Chip Hopes To Beat Nvidia’s CPUs While They’re in the Crib",
-      "url": "https://gizmodo.com/amds-next-big-chip-hopes-to-beat-nvidias-cpus-while-theyre-in-the-crib-2000761487",
-      "source": "Gizmodo.com",
-      "domain": "gizmodo.com",
-      "published_at": "2026-05-21T00:00:25Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "9544e6fafa9c101d",
@@ -1798,6 +1795,120 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "dc140fa6a48628e5",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "e.l.f.美妝計劃進一步降價以吸引日益注重成本的購物者",
+      "summary": "After the company cut the price of e.l.f.'s Halo Glow skin tint from $18 to $14, sales picked up nearly 40%.",
+      "original_title": "e.l.f. Beauty plans more price cuts to court increasingly cost-conscious shoppers",
+      "url": "https://www.businessinsider.com/elf-beauty-cut-prices-tariff-costs-2026-5",
+      "source": "Business Insider",
+      "domain": "businessinsider.com",
+      "published_at": "2026-05-21T04:01:01Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "fc8a6c8664cedc82",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "SpaceX 正式提交 IPO 並計劃以「SPCX」交易",
+      "summary": "招股說明書值得一讀。",
+      "original_title": "SpaceX Officially Files IPO and Plans to Be Traded as ‘SPCX’",
+      "url": "https://gizmodo.com/spacex-officially-files-ipo-and-plans-to-be-traded-as-spcx-2000761643",
+      "source": "Gizmodo.com",
+      "domain": "gizmodo.com",
+      "published_at": "2026-05-21T00:58:55Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "f99e68efa149eaf5",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "AMD’s Next Big Chip Hopes To Beat Nvidia’s CPUs While They’re in the Crib",
+      "summary": "紅隊也希望用自己的迷你電腦擊敗英偉達的「人工智慧超級電腦」。",
+      "original_title": "AMD’s Next Big Chip Hopes To Beat Nvidia’s CPUs While They’re in the Crib",
+      "url": "https://gizmodo.com/amds-next-big-chip-hopes-to-beat-nvidias-cpus-while-theyre-in-the-crib-2000761487",
+      "source": "Gizmodo.com",
+      "domain": "gizmodo.com",
+      "published_at": "2026-05-21T00:00:25Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "a844d1e3fe85a9ee",
@@ -2212,6 +2323,44 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "d561576e6489f8c1",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "用於水環境檢測的 O 波段矽光子感測器中的相干腔耦合",
+      "summary": "科學報告",
+      "original_title": "Coherent cavity coupling in O-band silicon photonic sensors for water environment detection",
+      "url": "https://www.nature.com/articles/s41598-026-53041-1",
+      "source": "Nature.com",
+      "domain": "nature.com",
+      "published_at": "2026-05-19T00:00:00Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "6db860844063693a",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2438,155 +2587,6 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "796ae0129db5fdc5",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "特習會後，中國暗示削減關稅、推動農產品市場准入",
-      "summary": "北京5月16日電（路透社）",
-      "original_title": "China signals tariff cuts, advances in farm market access after Trump-Xi summit",
-      "url": "https://finance.yahoo.com/news/china-signals-tariff-cuts-advances-153000943.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-05-16T15:30:00Z",
-      "importance": 50,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "84b15f4c9e445f52",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "「空間智慧不需要 GPU」：這種微型晶片可以將瘦小的飛行員變成智慧眼鏡，而無需笨重的電池",
-      "summary": "Mosaic has just invented a brand new perception chip that gives smart glasses real-time environmental awareness and more.",
-      "original_title": "‘Spatial intelligence shouldn’t require a GPU': This tiny chip could turn skinny Aviators into smart glasses without a bulky battery - and they'll even understand the world in real-time",
-      "url": "https://www.techradar.com/pro/spatial-intelligence-shouldnt-require-a-gpu-this-tiny-chip-could-turn-skinny-aviators-into-smart-glasses-without-a-bulky-battery-and-theyll-even-understand-the-world-in-real-time",
-      "source": "TechRadar",
-      "domain": "techradar.com",
-      "published_at": "2026-05-16T17:30:00Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "b0f17f09ebdcc62c",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "Apple Watch Series 12：這是我們目前所知的",
-      "summary": "与往年一样，今年 9 月，苹果将推出下一代 Apple Watch 型号。 Apple Watch Series 12 可能会采用与 Apple Watch Series 11 相同的设计语言，但会有一些变化。让我们深入了解一下。\n\n\n\n 更多…",
-      "original_title": "Apple Watch Series 12: Here’s what we know so far",
-      "url": "https://9to5mac.com/2026/05/16/apple-watch-series-12-heres-what-we-know-so-far/",
-      "source": "9to5Mac",
-      "domain": "9to5mac.com",
-      "published_at": "2026-05-16T16:34:00Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "ea087ee02274a372",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "AICore 正在將 128GB Android 手機變成儲存噩夢",
-      "summary": "128GB手機已經熟了",
-      "original_title": "AICore is turning 128GB Android phones into a storage nightmare",
-      "url": "https://www.androidpolice.com/128gb-phone-must-retire/",
-      "source": "Android Police",
-      "domain": "androidpolice.com",
-      "published_at": "2026-05-16T13:30:11Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     }
   ]
 }
