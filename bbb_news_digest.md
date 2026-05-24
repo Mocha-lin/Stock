@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-05-24T14:18:59.906903+00:00
+> 更新時間：2026-05-24T15:52:14.050546+00:00
 
 ### 🚀 隨著 CPO 競賽轉向系統集成，FII 挑戰博通和 Nvidia
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -46,21 +46,21 @@
 
 ---
 
-### 🚀 據報道，在最後一刻工會達成協議後，三星將向人工智慧驅動的半導體員工發放高達 266 億美元的獎金——每位晶片員工的平均獎金可能接近 40 萬美元
-- **題材**: `HBM記憶體` | **重要性**: `77`
-- **來源**: Tom's Hardware UK (2026-05-21T14:25:18Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 據報道，在最後一刻達成勞資協議後，三星電子準備分配高達 40 兆韓元（266 億美元）的半導體員工獎金。擬議的交易將支付與人工智慧驅動的晶片利潤聯繫起來，並可能看到平均員工…
-- [原文連結](https://www.tomshardware.com/tech-industry/big-tech/samsung-reportedly-set-to-distribute-up-to-usd26-6-billion-to-staff-in-ai-driven-semiconductor-bonuses-after-last-minute-union-deal-average-payouts-could-approach-usd400-000-per-chip-employee)
-
----
-
 ### ⚖️ 隨著人工智慧重塑資料中心電源，Liteon 押注矽光子
 - **題材**: `光通訊與矽光子` | **重要性**: `73`
 - **來源**: Digitimes (2026-05-22T01:21:05Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 光寶科技將 2026 年定位為繼 2025 年成立 50 週年後的重置年，該公司將深入推進人工智慧資料中心電源系統，並開始開發矽光子產品。
 - [原文連結](https://www.digitimes.com/news/a20260520PD235/photonics-silicon-data-center-2026-revenue.html)
+
+---
+
+### 🚀 據報道，在最後一刻工會達成協議後，三星將向人工智慧驅動的半導體員工發放高達 266 億美元的獎金——每位晶片員工的平均獎金可能接近 40 萬美元
+- **題材**: `HBM記憶體` | **重要性**: `72`
+- **來源**: Tom's Hardware UK (2026-05-21T14:25:18Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 據報道，在最後一刻達成勞資協議後，三星電子準備分配高達 40 兆韓元（266 億美元）的半導體員工獎金。擬議的交易將支付與人工智慧驅動的晶片利潤聯繫起來，並可能看到平均員工…
+- [原文連結](https://www.tomshardware.com/tech-industry/big-tech/samsung-reportedly-set-to-distribute-up-to-usd26-6-billion-to-staff-in-ai-driven-semiconductor-bonuses-after-last-minute-union-deal-average-payouts-could-approach-usd400-000-per-chip-employee)
 
 ---
 
@@ -145,15 +145,6 @@
 
 ---
 
-### ⚖️ Nvidia 的記憶體成本飆升 485%，最新的 AI 系統目前的建置成本為 780 萬美元——記憶體目前佔總成本的 25%，Rubin GPU 每個僅需 5 萬美元
-- **題材**: `AI伺服器` | **重要性**: `62`
-- **來源**: Tom's Hardware UK (2026-05-21T15:41:01Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 隨著 Vera Rubin 平台中每個機架記憶體容量的增加，它現在佔其成本的近 25%。
-- [原文連結](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-memory-costs-soar-485-percent-latest-ai-systems-now-cost-usd7-8-million-to-build-memory-now-comprises-25-percent-of-the-total-cost-rubin-gpus-a-mere-usd50-000-apiece)
-
----
-
 ### ⚖️ 台灣首次正式打擊英偉達人工智慧晶片走私行動，突襲搜查 12 個地點，追捕三名在超微走私案中偽造文件、虛假申報的逃犯
 - **題材**: `AI伺服器` | **重要性**: `62`
 - **來源**: Tom's Hardware UK (2026-05-21T13:01:39Z)
@@ -178,6 +169,15 @@
 - **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 內德戴維斯研究公司在客戶報告中寫道，在通膨上升時期，價值股往往表現優於大盤。
 - [原文連結](https://www.businessinsider.com/where-to-invest-stocks-inflation-high-interest-rates-iran-war-2026-5)
+
+---
+
+### 🚀 陣亡將士紀念日前夕，天然氣價格接近四年來最高水平
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Abcnews.com (2026-05-22T16:24:17Z)
+- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 由於伊朗戰爭導致全球石油供應中斷，天然氣價格近幾個月飆升。
+- [原文連結](https://abcnews.com/US/gas-prices-highest-level-4-years-ahead-memorial/story?id=133219781)
 
 ---
 

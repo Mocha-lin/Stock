@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-05-24T14:18:59.906903+00:00",
+  "generated_at": "2026-05-24T15:52:14.050546+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 69,
@@ -196,41 +196,6 @@
       "reason": "屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
-      "id": "a43ebdd67bda6371",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "據報道，在最後一刻工會達成協議後，三星將向人工智慧驅動的半導體員工發放高達 266 億美元的獎金——每位晶片員工的平均獎金可能接近 40 萬美元",
-      "summary": "據報道，在最後一刻達成勞資協議後，三星電子準備分配高達 40 兆韓元（266 億美元）的半導體員工獎金。擬議的交易將支付與人工智慧驅動的晶片利潤聯繫起來，並可能看到平均員工…",
-      "original_title": "Samsung reportedly set to distribute up to $26.6 billion to staff in AI-driven semiconductor bonuses after last-minute union deal — average payouts could approach $400,000 per chip employee",
-      "url": "https://www.tomshardware.com/tech-industry/big-tech/samsung-reportedly-set-to-distribute-up-to-usd26-6-billion-to-staff-in-ai-driven-semiconductor-bonuses-after-last-minute-union-deal-average-payouts-could-approach-usd400-000-per-chip-employee",
-      "source": "Tom's Hardware UK",
-      "domain": "tomshardware.com",
-      "published_at": "2026-05-21T14:25:18Z",
-      "importance": 77,
-      "impact": "positive",
-      "timeframe": "short_to_mid_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
       "id": "62d28b9ce0e779bf",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -267,6 +232,41 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
+      "id": "a43ebdd67bda6371",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "據報道，在最後一刻工會達成協議後，三星將向人工智慧驅動的半導體員工發放高達 266 億美元的獎金——每位晶片員工的平均獎金可能接近 40 萬美元",
+      "summary": "據報道，在最後一刻達成勞資協議後，三星電子準備分配高達 40 兆韓元（266 億美元）的半導體員工獎金。擬議的交易將支付與人工智慧驅動的晶片利潤聯繫起來，並可能看到平均員工…",
+      "original_title": "Samsung reportedly set to distribute up to $26.6 billion to staff in AI-driven semiconductor bonuses after last-minute union deal — average payouts could approach $400,000 per chip employee",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/samsung-reportedly-set-to-distribute-up-to-usd26-6-billion-to-staff-in-ai-driven-semiconductor-bonuses-after-last-minute-union-deal-average-payouts-could-approach-usd400-000-per-chip-employee",
+      "source": "Tom's Hardware UK",
+      "domain": "tomshardware.com",
+      "published_at": "2026-05-21T14:25:18Z",
+      "importance": 72,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "f849036faef510f4",
@@ -603,44 +603,6 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "93bef20432a8b86d",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Nvidia 的記憶體成本飆升 485%，最新的 AI 系統目前的建置成本為 780 萬美元——記憶體目前佔總成本的 25%，Rubin GPU 每個僅需 5 萬美元",
-      "summary": "隨著 Vera Rubin 平台中每個機架記憶體容量的增加，它現在佔其成本的近 25%。",
-      "original_title": "Nvidia's memory costs soar 485%, latest AI systems now cost $7.8 million to build — memory now comprises 25% of the total cost, Rubin GPUs a mere $50,000 apiece",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-memory-costs-soar-485-percent-latest-ai-systems-now-cost-usd7-8-million-to-build-memory-now-comprises-25-percent-of-the-total-cost-rubin-gpus-a-mere-usd50-000-apiece",
-      "source": "Tom's Hardware UK",
-      "domain": "tomshardware.com",
-      "published_at": "2026-05-21T15:41:01Z",
-      "importance": 62,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "ec801975728ff82f",
@@ -1237,6 +1199,44 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "93bef20432a8b86d",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Nvidia 的記憶體成本飆升 485%，最新的 AI 系統目前的建置成本為 780 萬美元——記憶體目前佔總成本的 25%，Rubin GPU 每個僅需 5 萬美元",
+      "summary": "隨著 Vera Rubin 平台中每個機架記憶體容量的增加，它現在佔其成本的近 25%。",
+      "original_title": "Nvidia's memory costs soar 485%, latest AI systems now cost $7.8 million to build — memory now comprises 25% of the total cost, Rubin GPUs a mere $50,000 apiece",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-memory-costs-soar-485-percent-latest-ai-systems-now-cost-usd7-8-million-to-build-memory-now-comprises-25-percent-of-the-total-cost-rubin-gpus-a-mere-usd50-000-apiece",
+      "source": "Tom's Hardware UK",
+      "domain": "tomshardware.com",
+      "published_at": "2026-05-21T15:41:01Z",
+      "importance": 57,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "a08330e604e30832",
