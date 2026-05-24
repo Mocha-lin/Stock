@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-05-24T10:41:47.633598+00:00",
+  "generated_at": "2026-05-24T14:18:59.906903+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 69,
@@ -269,44 +269,6 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
-      "id": "334d385e2ad2a47a",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "客製化 AI ASIC 的發展狀況（2026 年 5 月）—Broadcom 交易、Google TPU、Meta MTIA 等",
-      "summary": "基於 ASIC 的 AI 伺服器出貨量預計到 2026 年將達到 27.8% 的市場份額，為 2023 年以來的最高份額，客製化 ASIC 出貨量將年增 44.6%。",
-      "original_title": "The custom AI ASIC state of play (May 2026) — Broadcom deals, Google TPUs, Meta MTIA & beyond",
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/custom-ai-asics-examined-from-broadcom-to-mtia",
-      "source": "Tom's Hardware UK",
-      "domain": "tomshardware.com",
-      "published_at": "2026-05-21T12:43:38Z",
-      "importance": 72,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
       "id": "f849036faef510f4",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -345,6 +307,44 @@
       "reason": "屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
+      "id": "7e6da8a93f56c785",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "黃仁勳表示，他在工作中使用 Claude，兒子在家中運行人工智慧代理來管理家庭",
+      "summary": "黃仁勳在本週訪問台灣期間提出了一系列廣泛的問題，涉及中國市場准入、內存成本上漲、矽光子、LPU 與 GPU 的爭論以及人工智能代理的未來，同時明確表示 Nvidia 的承諾…",
+      "original_title": "Jensen Huang says he uses Claude at work and his son runs AI agents at home to manage the family",
+      "url": "https://www.digitimes.com/news/a20260523PD201/jensen-huang-taiwan-claude-nvidia-silicon.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-05-23T13:07:48Z",
+      "importance": 68,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "612cdc3d8dc1de02",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -356,41 +356,6 @@
       "source": "Digitimes",
       "domain": "digitimes.com",
       "published_at": "2026-05-21T04:50:38Z",
-      "importance": 68,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "1b776965611e22ec",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "據報導，隨著韓國記憶體競爭加劇，三星提高了 1b DRAM 產量",
-      "summary": "IT Chosun 表示，三星電子顯著提高了用於高頻寬記憶體 (HBM) 的最新 DRAM 技術的產量，這凸顯了記憶體製造商之間為確保人工智慧相關半導體領導地位而展開的激烈競爭。",
-      "original_title": "Samsung reportedly boosts 1b DRAM yields as Korean memory rivalry heats up",
-      "url": "https://www.digitimes.com/news/a20260518VL209/samsung-dram-hbm-capacity-manufacturing.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-05-18T07:36:54Z",
       "importance": 68,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -453,17 +418,17 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "ec801975728ff82f",
+      "id": "334d385e2ad2a47a",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "AI伺服器",
-      "title": "台灣首次正式打擊英偉達人工智慧晶片走私行動，突襲搜查 12 個地點，追捕三名在超微走私案中偽造文件、虛假申報的逃犯",
-      "summary": "隨著台灣開始打擊走私者，將被禁止的 Hopper 或 Blackwell 晶片帶入大陸資料中心變得更加令人擔憂。",
-      "original_title": "Taiwan raids 12 locations in its first formal crackdown on Nvidia AI chip smuggling — hunts three fugitives for document forgery, fraudulent declarations in Super Micro smuggling case",
-      "url": "https://www.tomshardware.com/desktops/servers/taiwan-raids-12-locations-in-its-first-formal-crackdown-on-nvidia-ai-chip-smuggling-hunts-three-fugitives-for-document-forgery-fraudulent-declarations-in-super-micro-smuggling-case",
+      "title": "客製化 AI ASIC 的發展狀況（2026 年 5 月）—Broadcom 交易、Google TPU、Meta MTIA 等",
+      "summary": "基於 ASIC 的 AI 伺服器出貨量預計到 2026 年將達到 27.8% 的市場份額，為 2023 年以來的最高份額，客製化 ASIC 出貨量將年增 44.6%。",
+      "original_title": "The custom AI ASIC state of play (May 2026) — Broadcom deals, Google TPUs, Meta MTIA & beyond",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/custom-ai-asics-examined-from-broadcom-to-mtia",
       "source": "Tom's Hardware UK",
       "domain": "tomshardware.com",
-      "published_at": "2026-05-21T13:01:39Z",
+      "published_at": "2026-05-21T12:43:38Z",
       "importance": 67,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -678,32 +643,32 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "a08330e604e30832",
+      "id": "ec801975728ff82f",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "AMD 開始量產 256 核心 EPYC Venice——首款 2nm HPC 晶片聲稱性能飛躍 70%",
-      "summary": "AMD 宣布其代號為 Venice 的第六代 EPYC 處理器已在台灣台積電的 N2 製程進入量產階段。",
-      "original_title": "AMD begins production ramp of 256-core EPYC Venice — first 2nm HPC chip claims 70% performance leap",
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/amd-begins-production-ramp-of-256-core-epyc-venice-on-tsmcs-2nm-node",
+      "theme": "AI伺服器",
+      "title": "台灣首次正式打擊英偉達人工智慧晶片走私行動，突襲搜查 12 個地點，追捕三名在超微走私案中偽造文件、虛假申報的逃犯",
+      "summary": "隨著台灣開始打擊走私者，將被禁止的 Hopper 或 Blackwell 晶片帶入大陸資料中心變得更加令人擔憂。",
+      "original_title": "Taiwan raids 12 locations in its first formal crackdown on Nvidia AI chip smuggling — hunts three fugitives for document forgery, fraudulent declarations in Super Micro smuggling case",
+      "url": "https://www.tomshardware.com/desktops/servers/taiwan-raids-12-locations-in-its-first-formal-crackdown-on-nvidia-ai-chip-smuggling-hunts-three-fugitives-for-document-forgery-fraudulent-declarations-in-super-micro-smuggling-case",
       "source": "Tom's Hardware UK",
       "domain": "tomshardware.com",
-      "published_at": "2026-05-21T12:12:15Z",
+      "published_at": "2026-05-21T13:01:39Z",
       "importance": 62,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
+        "AI",
+        "伺服器",
+        "資料中心"
       ],
       "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
       ],
       "related_models": [
         "003",
@@ -713,7 +678,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "765f25c8455d82aa",
@@ -1274,6 +1239,44 @@
       "reason": "屬「半導體先進製程」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "a08330e604e30832",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "AMD 開始量產 256 核心 EPYC Venice——首款 2nm HPC 晶片聲稱性能飛躍 70%",
+      "summary": "AMD 宣布其代號為 Venice 的第六代 EPYC 處理器已在台灣台積電的 N2 製程進入量產階段。",
+      "original_title": "AMD begins production ramp of 256-core EPYC Venice — first 2nm HPC chip claims 70% performance leap",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/amd-begins-production-ramp-of-256-core-epyc-venice-on-tsmcs-2nm-node",
+      "source": "Tom's Hardware UK",
+      "domain": "tomshardware.com",
+      "published_at": "2026-05-21T12:12:15Z",
+      "importance": 57,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "bceae093a1893eaf",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1286,6 +1289,41 @@
       "domain": "tomshardware.com",
       "published_at": "2026-05-18T10:00:00Z",
       "importance": 57,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "634c2ab69b5cbf6a",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "超快寬頻剛剛消除了我對大型 SSD 硬碟的需求",
+      "summary": "現在我擁有了速度極快的光纖，我不再擔心儲存空間。",
+      "original_title": "Ultra-fast broadband just killed the need for my massive SSD drives",
+      "url": "https://www.makeuseof.com/ultra-fast-broadband-just-killed-need-for-massive-ssd-drives/",
+      "source": "MakeUseOf",
+      "domain": "makeuseof.com",
+      "published_at": "2026-05-23T13:00:18Z",
+      "importance": 55,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -2359,44 +2397,6 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "d561576e6489f8c1",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "用於水環境檢測的 O 波段矽光子感測器中的相干腔耦合",
-      "summary": "科學報告",
-      "original_title": "Coherent cavity coupling in O-band silicon photonic sensors for water environment detection",
-      "url": "https://www.nature.com/articles/s41598-026-53041-1",
-      "source": "Nature.com",
-      "domain": "nature.com",
-      "published_at": "2026-05-19T00:00:00Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "6db860844063693a",

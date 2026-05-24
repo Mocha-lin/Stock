@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-05-24T10:41:47.633598+00:00
+> 更新時間：2026-05-24T14:18:59.906903+00:00
 
 ### 🚀 隨著 CPO 競賽轉向系統集成，FII 挑戰博通和 Nvidia
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -64,21 +64,21 @@
 
 ---
 
-### ⚖️ 客製化 AI ASIC 的發展狀況（2026 年 5 月）—Broadcom 交易、Google TPU、Meta MTIA 等
-- **題材**: `AI伺服器` | **重要性**: `72`
-- **來源**: Tom's Hardware UK (2026-05-21T12:43:38Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 基於 ASIC 的 AI 伺服器出貨量預計到 2026 年將達到 27.8% 的市場份額，為 2023 年以來的最高份額，客製化 ASIC 出貨量將年增 44.6%。
-- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/custom-ai-asics-examined-from-broadcom-to-mtia)
-
----
-
 ### 🚀 Nvidia 價格預測：2030 年科技巨頭將走向何方？
 - **題材**: `AI伺服器` | **重要性**: `70`
 - **來源**: 24/7 Wall St. (2026-05-18T15:11:07Z)
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: NVIDIA（納斯達克股票代碼：NVDA）是人工智慧經濟的作業系統。該公司剛結束 2026 財年，營收為 2159.4 億美元，淨利潤為 1200.7 億美元，...
 - [原文連結](https://247wallst.com/investing/2026/05/18/nvidia-price-prediction-where-will-the-tech-giant-be-in-2030/)
+
+---
+
+### ⚖️ 黃仁勳表示，他在工作中使用 Claude，兒子在家中運行人工智慧代理來管理家庭
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-05-23T13:07:48Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 黃仁勳在本週訪問台灣期間提出了一系列廣泛的問題，涉及中國市場准入、內存成本上漲、矽光子、LPU 與 GPU 的爭論以及人工智能代理的未來，同時明確表示 Nvidia 的承諾…
+- [原文連結](https://www.digitimes.com/news/a20260523PD201/jensen-huang-taiwan-claude-nvidia-silicon.html)
 
 ---
 
@@ -91,15 +91,6 @@
 
 ---
 
-### ⚖️ 據報導，隨著韓國記憶體競爭加劇，三星提高了 1b DRAM 產量
-- **題材**: `HBM記憶體` | **重要性**: `68`
-- **來源**: Digitimes (2026-05-18T07:36:54Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: IT Chosun 表示，三星電子顯著提高了用於高頻寬記憶體 (HBM) 的最新 DRAM 技術的產量，這凸顯了記憶體製造商之間為確保人工智慧相關半導體領導地位而展開的激烈競爭。
-- [原文連結](https://www.digitimes.com/news/a20260518VL209/samsung-dram-hbm-capacity-manufacturing.html)
-
----
-
 ### ⚖️ 每週新聞綜述：三星、英特爾和蘋果測試代工替代方案，台積電面臨人工智慧供應緊張
 - **題材**: `半導體先進製程` | **重要性**: `68`
 - **來源**: Digitimes (2026-05-18T01:49:16Z)
@@ -109,12 +100,12 @@
 
 ---
 
-### ⚖️ 台灣首次正式打擊英偉達人工智慧晶片走私行動，突襲搜查 12 個地點，追捕三名在超微走私案中偽造文件、虛假申報的逃犯
+### ⚖️ 客製化 AI ASIC 的發展狀況（2026 年 5 月）—Broadcom 交易、Google TPU、Meta MTIA 等
 - **題材**: `AI伺服器` | **重要性**: `67`
-- **來源**: Tom's Hardware UK (2026-05-21T13:01:39Z)
+- **來源**: Tom's Hardware UK (2026-05-21T12:43:38Z)
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 隨著台灣開始打擊走私者，將被禁止的 Hopper 或 Blackwell 晶片帶入大陸資料中心變得更加令人擔憂。
-- [原文連結](https://www.tomshardware.com/desktops/servers/taiwan-raids-12-locations-in-its-first-formal-crackdown-on-nvidia-ai-chip-smuggling-hunts-three-fugitives-for-document-forgery-fraudulent-declarations-in-super-micro-smuggling-case)
+- **摘要**: 基於 ASIC 的 AI 伺服器出貨量預計到 2026 年將達到 27.8% 的市場份額，為 2023 年以來的最高份額，客製化 ASIC 出貨量將年增 44.6%。
+- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/custom-ai-asics-examined-from-broadcom-to-mtia)
 
 ---
 
@@ -163,12 +154,12 @@
 
 ---
 
-### ⚖️ AMD 開始量產 256 核心 EPYC Venice——首款 2nm HPC 晶片聲稱性能飛躍 70%
-- **題材**: `半導體先進製程` | **重要性**: `62`
-- **來源**: Tom's Hardware UK (2026-05-21T12:12:15Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: AMD 宣布其代號為 Venice 的第六代 EPYC 處理器已在台灣台積電的 N2 製程進入量產階段。
-- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/amd-begins-production-ramp-of-256-core-epyc-venice-on-tsmcs-2nm-node)
+### ⚖️ 台灣首次正式打擊英偉達人工智慧晶片走私行動，突襲搜查 12 個地點，追捕三名在超微走私案中偽造文件、虛假申報的逃犯
+- **題材**: `AI伺服器` | **重要性**: `62`
+- **來源**: Tom's Hardware UK (2026-05-21T13:01:39Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 隨著台灣開始打擊走私者，將被禁止的 Hopper 或 Blackwell 晶片帶入大陸資料中心變得更加令人擔憂。
+- [原文連結](https://www.tomshardware.com/desktops/servers/taiwan-raids-12-locations-in-its-first-formal-crackdown-on-nvidia-ai-chip-smuggling-hunts-three-fugitives-for-document-forgery-fraudulent-declarations-in-super-micro-smuggling-case)
 
 ---
 
@@ -178,6 +169,15 @@
 - **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 企業希望獲得唐納德·川普關稅的退款。丟失的密碼和錯誤分類的海關條目阻礙了他們的工作。
 - [原文連結](https://www.businessinsider.com/businesses-face-hurdles-getting-us-tariff-refunds-forgotten-passwords-2026-5)
+
+---
+
+### 🚀 一家研究公司表示，隨著通貨膨脹和利率上升籠罩市場，該投資在哪裡
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Business Insider (2026-05-23T09:15:01Z)
+- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 內德戴維斯研究公司在客戶報告中寫道，在通膨上升時期，價值股往往表現優於大盤。
+- [原文連結](https://www.businessinsider.com/where-to-invest-stocks-inflation-high-interest-rates-iran-war-2026-5)
 
 ---
 
