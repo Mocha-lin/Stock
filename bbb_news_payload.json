@@ -1,9 +1,9 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-05-24T23:59:25.556120+00:00",
+  "generated_at": "2026-05-25T05:15:21.098833+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
-  "total_count": 69,
+  "total_count": 70,
   "items": [
     {
       "id": "658402d5f767d18e",
@@ -158,57 +158,19 @@
       "reason": "屬「半導體先進製程」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
-      "id": "62d28b9ce0e779bf",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "隨著人工智慧重塑資料中心電源，Liteon 押注矽光子",
-      "summary": "光寶科技將 2026 年定位為繼 2025 年成立 50 週年後的重置年，該公司將深入推進人工智慧資料中心電源系統，並開始開發矽光子產品。",
-      "original_title": "As AI reshapes data center power, Liteon bets on silicon photonics",
-      "url": "https://www.digitimes.com/news/a20260520PD235/photonics-silicon-data-center-2026-revenue.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-05-22T01:21:05Z",
-      "importance": 73,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
-      "id": "5da2fc54068839e0",
+      "id": "d22e093b4bdd004d",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "半導體先進製程",
-      "title": "產能擴張，台積電 CoWoS 良率突破 98%",
-      "summary": "繼北美技術論壇之後，台積電於 2026 年 5 月 14 日在新竹舉行了會議。該公司表示，智慧革命正在開始，在功效和性能的推動下，人工智慧從生成式人工智慧和代理式人工智慧發展到實體人工智慧…",
-      "original_title": "TSMC CoWoS yields top 98% as capacity expands",
-      "url": "https://www.digitimes.com/news/a20260515PD220/tsmc-cowos-capacity-north-america.html",
+      "title": "台積電供應鏈材料製造商AMC乘搭AI封裝良率熱潮",
+      "summary": "台灣先進半導體材料供應商聯盟材料公司（AMC）表示，隨著AI晶片需求的推動，其平衡膜防翹曲材料已進入客戶驗證，預計於2026年下半年開始量產。",
+      "original_title": "TSMC supply chain material maker AMC rides AI packaging yield boom",
+      "url": "https://www.digitimes.com/news/a20260522PD201/materials-tsmc-packaging-production-2026.html",
       "source": "Digitimes",
       "domain": "digitimes.com",
-      "published_at": "2026-05-17T22:53:58Z",
+      "published_at": "2026-05-22T01:30:50Z",
       "importance": 73,
-      "impact": "positive",
+      "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
         "半導體",
@@ -231,7 +193,45 @@
         "009",
         "010"
       ],
-      "reason": "屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+      "reason": "屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
+      "id": "5fcc1f74f71edbbe",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "2026技術論壇：AI伺服器機架推動液冷成為主流",
+      "summary": "META綠色散熱技術（MGC）總裁Clyde Chu表示，Nvidia的晶片路線圖顯示，散熱需求在不到一年的時間內翻倍，基於Vera Rubin架構的NVL72機架預計在2026年下半年推出，需要130-1…",
+      "original_title": "Tech Forum 2026: AI server racks push liquid cooling into mainstream",
+      "url": "https://www.digitimes.com/news/a20260520PD236/ai-server-liquid-cooling-nvidia-2026.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-05-20T07:34:46Z",
+      "importance": 73,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "a43ebdd67bda6371",
@@ -345,6 +345,44 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "62d28b9ce0e779bf",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "隨著人工智慧重塑資料中心電源，Liteon 押注矽光子",
+      "summary": "光寶科技將 2026 年定位為繼 2025 年成立 50 週年後的重置年，該公司將深入推進人工智慧資料中心電源系統，並開始開發矽光子產品。",
+      "original_title": "As AI reshapes data center power, Liteon bets on silicon photonics",
+      "url": "https://www.digitimes.com/news/a20260520PD235/photonics-silicon-data-center-2026-revenue.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-05-22T01:21:05Z",
+      "importance": 68,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "612cdc3d8dc1de02",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -378,44 +416,6 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "df15ab23f18e5a1c",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "每週新聞綜述：三星、英特爾和蘋果測試代工替代方案，台積電面臨人工智慧供應緊張",
-      "summary": "以下是 2026 年 5 月 11 日至 17 日當週閱讀次數最多的 DIGITIMES Asia 報告：",
-      "original_title": "Weekly news roundup: TSMC faces AI supply strain as Samsung, Intel, and Apple test foundry alternatives",
-      "url": "https://www.digitimes.com/news/a20260518VL200/digitimes-asia-weekly-news-roundup-apple-intel-samsung-tsmc.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-05-18T01:49:16Z",
-      "importance": 68,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "334d385e2ad2a47a",
@@ -565,6 +565,44 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "df15ab23f18e5a1c",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "每週新聞綜述：三星、英特爾和蘋果測試代工替代方案，台積電面臨人工智慧供應緊張",
+      "summary": "以下是 2026 年 5 月 11 日至 17 日當週閱讀次數最多的 DIGITIMES Asia 報告：",
+      "original_title": "Weekly news roundup: TSMC faces AI supply strain as Samsung, Intel, and Apple test foundry alternatives",
+      "url": "https://www.digitimes.com/news/a20260518VL200/digitimes-asia-weekly-news-roundup-apple-intel-samsung-tsmc.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-05-18T01:49:16Z",
+      "importance": 63,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "ec801975728ff82f",
@@ -1347,44 +1385,6 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "a085bca8bfc7762e",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "消息人士稱，印度央行不贊成升息以捍衛盧比，優先考慮通膨",
-      "summary": "作者：Ira Dugal 和 Jaspreet Kalra 孟買，5 月 22 日（路透社）",
-      "original_title": "India central bank not in favour of rate hikes to defend rupee, prioritises inflation, sources say",
-      "url": "https://finance.yahoo.com/economy/policy/articles/india-central-bank-not-favour-042305780.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-05-22T04:23:05Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "6292f443eda657d0",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1833,6 +1833,44 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "a085bca8bfc7762e",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "消息人士稱，印度央行不贊成升息以捍衛盧比，優先考慮通膨",
+      "summary": "作者：Ira Dugal 和 Jaspreet Kalra 孟買，5 月 22 日（路透社）",
+      "original_title": "India central bank not in favour of rate hikes to defend rupee, prioritises inflation, sources say",
+      "url": "https://finance.yahoo.com/economy/policy/articles/india-central-bank-not-favour-042305780.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-05-22T04:23:05Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "6b67135ebab9ebad",
@@ -2399,6 +2437,44 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "d561576e6489f8c1",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "用於水環境檢測的 O 波段矽光子感測器中的相干腔耦合",
+      "summary": "科學報告",
+      "original_title": "Coherent cavity coupling in O-band silicon photonic sensors for water environment detection",
+      "url": "https://www.nature.com/articles/s41598-026-53041-1",
+      "source": "Nature.com",
+      "domain": "nature.com",
+      "published_at": "2026-05-19T00:00:00Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "6db860844063693a",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2513,32 +2589,32 @@
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "150d5376a2a1436d",
+      "id": "1b6da52961ae0f91",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "永恆的無常：Kozo上演凡爾賽宮、刺青工藝與美國肌肉的碰撞",
-      "summary": "這位多學科藝術家將紋身機背後的十年融入了油畫、混合媒體和西村免費停車場手繪的 1965 年野馬多學科藝術家 Kozo 揭開了他的…",
-      "original_title": "Permanent Impermanence: Kozo Stages a Collision of Versailles, Tattoo Craft and American Muscle",
-      "url": "http://coolhunting.com/culture/permanent-impermanence-kozo-stages-a-collision-of-versailles-tattoo-craft-and-american-muscle/",
-      "source": "Cool Hunting",
-      "domain": "coolhunting.com",
-      "published_at": "2026-05-17T22:02:28Z",
-      "importance": 45,
+      "theme": "總體風險",
+      "title": "由於通膨擔憂引發升息押注，全球公債潰敗加劇",
+      "summary": "",
+      "original_title": "Global bond rout deepens as inflation fears trigger rate-hike bets",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_1282400d-4f46-4751-8c24-836fc3b4babb",
+      "source": "Yahoo Entertainment",
+      "domain": "consent.yahoo.com",
+      "published_at": "2026-05-18T05:52:55Z",
+      "importance": 50,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
       ],
       "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
       ],
       "related_models": [
         "003",
@@ -2548,45 +2624,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「AI伺服器」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "d25afde3db665f15",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "AMD 斥資 650 萬美元購買了飆升的科技股",
-      "summary": "根據雅虎財經 5 月 17 日星期日上午撰寫本文時的數據，Advanced Micro Devices (AMD) 今年迄今已上漲約 98%。",
-      "original_title": "AMD buys $6.5 million of surging tech stock",
-      "url": "https://www.thestreet.com/investing/stocks/amd-buys-6-5-million-of-marvell-stock",
-      "source": "TheStreet",
-      "domain": "thestreet.com",
-      "published_at": "2026-05-17T20:07:00Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     }
   ]
 }
