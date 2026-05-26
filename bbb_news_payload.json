@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-05-26T08:29:31.410721+00:00",
+  "generated_at": "2026-05-26T16:34:46.848649+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 70,
@@ -345,44 +345,6 @@
       "reason": "屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
-      "id": "7e6da8a93f56c785",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "黃仁勳表示，他在工作中使用 Claude，兒子在家中運行人工智慧代理來管理家庭",
-      "summary": "黃仁勳在本週訪問台灣期間提出了一系列廣泛的問題，涉及中國市場准入、內存成本上漲、矽光子、LPU 與 GPU 的爭論以及人工智能代理的未來，同時明確表示 Nvidia 的承諾…",
-      "original_title": "Jensen Huang says he uses Claude at work and his son runs AI agents at home to manage the family",
-      "url": "https://www.digitimes.com/news/a20260523PD201/jensen-huang-taiwan-claude-nvidia-silicon.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-05-23T13:07:48Z",
-      "importance": 68,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "62d28b9ce0e779bf",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -494,6 +456,117 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "2b064f16aa38be3a",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "IREN 執行長剛剛說了 11 句話，為人工智慧熱潮帶來了殘酷的現實檢驗",
+      "summary": "人工智慧的繁榮拉開了自早期網路時代以來最大規模的基礎設施競賽之一。 Nvidia（納斯達克股票代碼：NVDA）GPU 正在銷售...",
+      "original_title": "IREN’s CEO Just Said 11 Words that Delivered the AI Boom a Brutal Reality Check",
+      "url": "https://247wallst.com/investing/2026/05/25/irens-ceo-just-said-11-words-that-delivered-the-ai-boom-a-brutal-reality-check/",
+      "source": "24/7 Wall St.",
+      "domain": "247wallst.com",
+      "published_at": "2026-05-25T14:28:35Z",
+      "importance": 65,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "f93f03ffa00034e0",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "AMD“Zen 7”IP將使用台積電A14節點和更先進的封裝",
+      "summary": "AMD正逐步準備在新的EPYC「Venice」伺服器CPU家族下推出其新一代「Zen 6」系列處理器。同時，「Zen 7」架構的開發已經進行了相當長一段時間，看來我們終於開始學習了…",
+      "original_title": "AMD \"Zen 7\" IP to Use TSMC A14 Node and More Advanced Packaging",
+      "url": "https://www.techpowerup.com/349330/amd-zen-7-ip-to-use-tsmc-a14-node-and-more-advanced-packaging",
+      "source": "Techpowerup.com",
+      "domain": "techpowerup.com",
+      "published_at": "2026-05-25T14:01:52Z",
+      "importance": 65,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "3595dc0323e94365",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "不太可能的半通貨膨脹罪魁禍首：紐約市大力削減交通",
+      "summary": "通貨膨脹並不是侵蝕紐約街頭小販收入的唯一因素。大多數人居住在曼哈頓以外，必須支付每日壅塞費。",
+      "original_title": "An unlikely halalflation culprit: New York City's big push to cut traffic",
+      "url": "https://www.businessinsider.com/congestion-pricing-is-squeezing-nyc-street-vendors-budgets-2026-5",
+      "source": "Business Insider",
+      "domain": "businessinsider.com",
+      "published_at": "2026-05-25T09:02:01Z",
+      "importance": 65,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "e6e9798f390f032b",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -565,6 +638,44 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "7e6da8a93f56c785",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "黃仁勳表示，他在工作中使用 Claude，兒子在家中運行人工智慧代理來管理家庭",
+      "summary": "黃仁勳在本週訪問台灣期間提出了一系列廣泛的問題，涉及中國市場准入、內存成本上漲、矽光子、LPU 與 GPU 的爭論以及人工智能代理的未來，同時明確表示 Nvidia 的承諾…",
+      "original_title": "Jensen Huang says he uses Claude at work and his son runs AI agents at home to manage the family",
+      "url": "https://www.digitimes.com/news/a20260523PD201/jensen-huang-taiwan-claude-nvidia-silicon.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-05-23T13:07:48Z",
+      "importance": 63,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "cff5481c0a62d585",
@@ -643,6 +754,44 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "5c77832ed0f673df",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "為什麼光纖是人工智慧工廠擴展智慧的真正秘密",
+      "summary": "人工智慧工廠無法僅在矽上進行擴展；緻密纖維才是真正的智慧層。",
+      "original_title": "Why fiber is the real secret to scaling intelligence in artificial intelligence factories",
+      "url": "https://www.techradar.com/pro/why-fiber-is-the-real-secret-to-scaling-intelligence-in-artificial-intelligence-factories",
+      "source": "TechRadar",
+      "domain": "techradar.com",
+      "published_at": "2026-05-25T10:59:39Z",
+      "importance": 60,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "e104c3e7c64d238f",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -689,120 +838,6 @@
       "source": "Epoch.ai",
       "domain": "epoch.ai",
       "published_at": "2026-05-24T16:31:29Z",
-      "importance": 60,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "765f25c8455d82aa",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "忘記密碼、分類錯誤的手提包：企業面臨關稅退款難題",
-      "summary": "企業希望獲得唐納德·川普關稅的退款。丟失的密碼和錯誤分類的海關條目阻礙了他們的工作。",
-      "original_title": "Forgotten passwords, misclassified handbags: Businesses face headaches getting tariff refunds",
-      "url": "https://www.businessinsider.com/businesses-face-hurdles-getting-us-tariff-refunds-forgotten-passwords-2026-5",
-      "source": "Business Insider",
-      "domain": "businessinsider.com",
-      "published_at": "2026-05-23T09:27:01Z",
-      "importance": 60,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "14fee79287db9d9a",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "一家研究公司表示，隨著通貨膨脹和利率上升籠罩市場，該投資在哪裡",
-      "summary": "內德戴維斯研究公司在客戶報告中寫道，在通膨上升時期，價值股往往表現優於大盤。",
-      "original_title": "Where to invest as hot inflation and higher rates loom over markets, according to one research firm",
-      "url": "https://www.businessinsider.com/where-to-invest-stocks-inflation-high-interest-rates-iran-war-2026-5",
-      "source": "Business Insider",
-      "domain": "businessinsider.com",
-      "published_at": "2026-05-23T09:15:01Z",
-      "importance": 60,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "2932d0c3a5ae5bd1",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "AMD EPYC「Venice」在台積電進入 2nm 生產，擴展 AI 基礎設施的 CPU 路線圖",
-      "summary": "AMD宣布其代號「Venice」的新一代EPYC處理器已在台灣台積電2nm製程上投入生產。該公司還計劃擴大台積電亞利桑那州工廠的生產規模，這標誌著其更廣泛的戰略多元化...",
-      "original_title": "AMD EPYC “Venice” Enters 2nm Production at TSMC, Extends CPU Roadmap for AI Infrastructure",
-      "url": "https://www.storagereview.com/news/amd-epyc-venice-enters-2nm-production-at-tsmc-extends-cpu-roadmap-for-ai-infrastructure",
-      "source": "Storagereview.com",
-      "domain": "storagereview.com",
-      "published_at": "2026-05-22T20:48:44Z",
       "importance": 60,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -1055,41 +1090,6 @@
       "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "d4ccf93bd65232f4",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "記憶體定價週期可能在年底前壓垮這只 AI ETF",
-      "summary": "Roundhill Memory ETF (CBOE:DRAM) 是一種已經在定價的基金。 DRAM 於 2026 年 4 月 2 日推出，目前的價格為 28 美元。",
-      "original_title": "The Memory Pricing Cycle That Could Crush This AI ETF Before Year-End",
-      "url": "https://247wallst.com/investing/2026/05/20/the-memory-pricing-cycle-that-could-crush-this-ai-etf-before-year-end/",
-      "source": "24/7 Wall St.",
-      "domain": "247wallst.com",
-      "published_at": "2026-05-20T10:15:20Z",
-      "importance": 60,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "93bef20432a8b86d",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1242,29 +1242,32 @@
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "634c2ab69b5cbf6a",
+      "id": "765f25c8455d82aa",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "超快寬頻剛剛消除了我對大型 SSD 硬碟的需求",
-      "summary": "現在我擁有了速度極快的光纖，我不再擔心儲存空間。",
-      "original_title": "Ultra-fast broadband just killed the need for my massive SSD drives",
-      "url": "https://www.makeuseof.com/ultra-fast-broadband-just-killed-need-for-massive-ssd-drives/",
-      "source": "MakeUseOf",
-      "domain": "makeuseof.com",
-      "published_at": "2026-05-23T13:00:18Z",
+      "theme": "總體風險",
+      "title": "忘記密碼、分類錯誤的手提包：企業面臨關稅退款難題",
+      "summary": "企業希望獲得唐納德·川普關稅的退款。丟失的密碼和錯誤分類的海關條目阻礙了他們的工作。",
+      "original_title": "Forgotten passwords, misclassified handbags: Businesses face headaches getting tariff refunds",
+      "url": "https://www.businessinsider.com/businesses-face-hurdles-getting-us-tariff-refunds-forgotten-passwords-2026-5",
+      "source": "Business Insider",
+      "domain": "businessinsider.com",
+      "published_at": "2026-05-23T09:27:01Z",
       "importance": 55,
-      "impact": "neutral",
+      "impact": "negative",
       "timeframe": "short_term",
       "tags": [
-        "HBM",
-        "記憶體"
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
       ],
       "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
       ],
       "related_models": [
         "003",
@@ -1274,7 +1277,45 @@
         "009",
         "010"
       ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "14fee79287db9d9a",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "一家研究公司表示，隨著通貨膨脹和利率上升籠罩市場，該投資在哪裡",
+      "summary": "內德戴維斯研究公司在客戶報告中寫道，在通膨上升時期，價值股往往表現優於大盤。",
+      "original_title": "Where to invest as hot inflation and higher rates loom over markets, according to one research firm",
+      "url": "https://www.businessinsider.com/where-to-invest-stocks-inflation-high-interest-rates-iran-war-2026-5",
+      "source": "Business Insider",
+      "domain": "businessinsider.com",
+      "published_at": "2026-05-23T09:15:01Z",
+      "importance": 55,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "03e9616fd137c986",
@@ -1461,44 +1502,6 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "20f8bdb0743d0f88",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "一個開放的 NOS，任何工作負載：SONiC on Cisco",
-      "summary": "SONiC 是一款基於 Linux 的開源網路作業系統，提供可擴充、AI 最佳化的網路。思科在其 8000 和 N9000 系列平台上整合了 SONiC，為人工智慧和雲端工作負載提供靈活、高效能的資料中心。",
-      "original_title": "One open NOS, any workload: SONiC on Cisco",
-      "url": "https://blogs.cisco.com/datacenter/one-open-nos-any-workload-sonic-on-cisco",
-      "source": "Cisco.com",
-      "domain": "blogs.cisco.com",
-      "published_at": "2026-05-21T15:00:06Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "9544e6fafa9c101d",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1535,44 +1538,6 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "a5c1cd1f251f5ce2",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "海灣地區的後歐佩克秩序",
-      "summary": "阿拉伯聯合大公國退出歐佩克的決定是其打破沙烏地阿拉伯主導的地區秩序的願望的最明確表達。結果可能是中東更加分裂，海灣大國之間的競爭加劇，代理權範圍擴大…",
-      "original_title": "The Gulf’s Post-OPEC Order",
-      "url": "https://www.project-syndicate.org/commentary/uae-is-betting-on-a-post-saudi-gulf-by-rabah-arezki-and-tarik-m-yousef-2026-05",
-      "source": "Project Syndicate",
-      "domain": "project-syndicate.org",
-      "published_at": "2026-05-20T09:22:31Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "8e267d78c729eaf0",
@@ -1651,44 +1616,6 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "1de04025b44822dc",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "2,400 英里 2022 年保時捷 911 Carrera GTS Coupe 7 速",
-      "summary": "這款 2022 年保時捷 911 Carrera GTS 是一款胭脂紅色轎跑車，續航里程為 2,400 英里，可選配高級套件和七速手排變速驅動橋，搭配雙渦輪增壓 3.0L 水平對臥六缸引擎。它的莫哈韋米色和黑色鑲邊...",
-      "original_title": "2,400-Mile 2022 Porsche 911 Carrera GTS Coupe 7-Speed",
-      "url": "https://bringatrailer.com/listing/2022-porsche-911-carrera-gts-coupe-14/",
-      "source": "Bringatrailer.com",
-      "domain": "bringatrailer.com",
-      "published_at": "2026-05-19T12:25:14Z",
-      "importance": 55,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "276a028403bc7e1c",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1725,6 +1652,41 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "634c2ab69b5cbf6a",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "超快寬頻剛剛消除了我對大型 SSD 硬碟的需求",
+      "summary": "現在我擁有了速度極快的光纖，我不再擔心儲存空間。",
+      "original_title": "Ultra-fast broadband just killed the need for my massive SSD drives",
+      "url": "https://www.makeuseof.com/ultra-fast-broadband-just-killed-need-for-massive-ssd-drives/",
+      "source": "MakeUseOf",
+      "domain": "makeuseof.com",
+      "published_at": "2026-05-23T13:00:18Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "e96fcbca476e4c94",
@@ -2478,19 +2440,19 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "fcf0026dc0691638",
+      "id": "1de04025b44822dc",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "光通訊與矽光子",
-      "title": "Lumentum 剛加入納斯達克 100 指數。 LITE 股票無論如何都在下跌。",
-      "summary": "儘管 Lumentum 被納入納斯達克 100 指數，但股價仍下跌。但您應該逢低買入 LITE 股票嗎？讓我們來看看吧！",
-      "original_title": "Lumentum Just Joined the Nasdaq 100. LITE Stock Is Falling Anyway.",
-      "url": "https://www.barchart.com/story/news/2018836/lumentum-just-joined-the-nasdaq-100-lite-stock-is-falling-anyway",
-      "source": "Barchart.com",
-      "domain": "barchart.com",
-      "published_at": "2026-05-19T15:10:31Z",
+      "title": "2,400 英里 2022 年保時捷 911 Carrera GTS Coupe 7 速",
+      "summary": "這款 2022 年保時捷 911 Carrera GTS 是一款胭脂紅色轎跑車，續航里程為 2,400 英里，可選配高級套件和七速手排變速驅動橋，搭配雙渦輪增壓 3.0L 水平對臥六缸引擎。它的莫哈韋米色和黑色鑲邊...",
+      "original_title": "2,400-Mile 2022 Porsche 911 Carrera GTS Coupe 7-Speed",
+      "url": "https://bringatrailer.com/listing/2022-porsche-911-carrera-gts-coupe-14/",
+      "source": "Bringatrailer.com",
+      "domain": "bringatrailer.com",
+      "published_at": "2026-05-19T12:25:14Z",
       "importance": 50,
-      "impact": "neutral",
+      "impact": "positive",
       "timeframe": "short_term",
       "tags": [
         "光通訊",
@@ -2513,45 +2475,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "9488e7b8c0a0a08a",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "中美峰會是否讓台積電變得更脆弱？",
-      "summary": "上週在人民大會堂舉行的國宴的畫面同時講述了兩個故事。提姆庫克、黃仁勳和伊隆馬斯克坐在房間裡…",
-      "original_title": "Did the US-China Summit Make TSMC More Vulnerable?",
-      "url": "https://247wallst.com/investing/2026/05/19/did-the-us-china-summit-make-tsmc-more-vulnerable/",
-      "source": "24/7 Wall St.",
-      "domain": "247wallst.com",
-      "published_at": "2026-05-19T11:35:02Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "bec73cbec2b40db1",
@@ -2590,6 +2514,82 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "fcf0026dc0691638",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "Lumentum 剛加入納斯達克 100 指數。 LITE 股票無論如何都在下跌。",
+      "summary": "儘管 Lumentum 被納入納斯達克 100 指數，但股價仍下跌。但您應該逢低買入 LITE 股票嗎？讓我們來看看吧！",
+      "original_title": "Lumentum Just Joined the Nasdaq 100. LITE Stock Is Falling Anyway.",
+      "url": "https://www.barchart.com/story/news/2018836/lumentum-just-joined-the-nasdaq-100-lite-stock-is-falling-anyway",
+      "source": "Barchart.com",
+      "domain": "barchart.com",
+      "published_at": "2026-05-19T15:10:31Z",
+      "importance": 45,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
+    },
+    {
+      "id": "9488e7b8c0a0a08a",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "中美峰會是否讓台積電變得更脆弱？",
+      "summary": "上週在人民大會堂舉行的國宴的畫面同時講述了兩個故事。提姆庫克、黃仁勳和伊隆馬斯克坐在房間裡…",
+      "original_title": "Did the US-China Summit Make TSMC More Vulnerable?",
+      "url": "https://247wallst.com/investing/2026/05/19/did-the-us-china-summit-make-tsmc-more-vulnerable/",
+      "source": "24/7 Wall St.",
+      "domain": "247wallst.com",
+      "published_at": "2026-05-19T11:35:02Z",
+      "importance": 45,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     },
     {
       "id": "d561576e6489f8c1",

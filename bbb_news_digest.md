@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-05-26T08:29:31.410721+00:00
+> 更新時間：2026-05-26T16:34:46.848649+00:00
 
 ### 🚀 華為瞄準AI光網路投資InP晶片新創公司
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -82,15 +82,6 @@
 
 ---
 
-### ⚖️ 黃仁勳表示，他在工作中使用 Claude，兒子在家中運行人工智慧代理來管理家庭
-- **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-05-23T13:07:48Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 黃仁勳在本週訪問台灣期間提出了一系列廣泛的問題，涉及中國市場准入、內存成本上漲、矽光子、LPU 與 GPU 的爭論以及人工智能代理的未來，同時明確表示 Nvidia 的承諾…
-- [原文連結](https://www.digitimes.com/news/a20260523PD201/jensen-huang-taiwan-claude-nvidia-silicon.html)
-
----
-
 ### ⚖️ 隨著人工智慧重塑資料中心電源，Liteon 押注矽光子
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
 - **來源**: Digitimes (2026-05-22T01:21:05Z)
@@ -118,6 +109,33 @@
 
 ---
 
+### ⚖️ IREN 執行長剛剛說了 11 句話，為人工智慧熱潮帶來了殘酷的現實檢驗
+- **題材**: `HBM記憶體` | **重要性**: `65`
+- **來源**: 24/7 Wall St. (2026-05-25T14:28:35Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 人工智慧的繁榮拉開了自早期網路時代以來最大規模的基礎設施競賽之一。 Nvidia（納斯達克股票代碼：NVDA）GPU 正在銷售...
+- [原文連結](https://247wallst.com/investing/2026/05/25/irens-ceo-just-said-11-words-that-delivered-the-ai-boom-a-brutal-reality-check/)
+
+---
+
+### ⚖️ AMD“Zen 7”IP將使用台積電A14節點和更先進的封裝
+- **題材**: `半導體先進製程` | **重要性**: `65`
+- **來源**: Techpowerup.com (2026-05-25T14:01:52Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: AMD正逐步準備在新的EPYC「Venice」伺服器CPU家族下推出其新一代「Zen 6」系列處理器。同時，「Zen 7」架構的開發已經進行了相當長一段時間，看來我們終於開始學習了…
+- [原文連結](https://www.techpowerup.com/349330/amd-zen-7-ip-to-use-tsmc-a14-node-and-more-advanced-packaging)
+
+---
+
+### ⚖️ 不太可能的半通貨膨脹罪魁禍首：紐約市大力削減交通
+- **題材**: `總體風險` | **重要性**: `65`
+- **來源**: Business Insider (2026-05-25T09:02:01Z)
+- **AI 判讀**: 屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 通貨膨脹並不是侵蝕紐約街頭小販收入的唯一因素。大多數人居住在曼哈頓以外，必須支付每日壅塞費。
+- [原文連結](https://www.businessinsider.com/congestion-pricing-is-squeezing-nyc-street-vendors-budgets-2026-5)
+
+---
+
 ### 🚀 NVIDIA 第一季財報電話會議亮點
 - **題材**: `AI伺服器` | **重要性**: `65`
 - **來源**: MarketBeat (2026-05-20T23:05:09Z)
@@ -136,6 +154,15 @@
 
 ---
 
+### ⚖️ 黃仁勳表示，他在工作中使用 Claude，兒子在家中運行人工智慧代理來管理家庭
+- **題材**: `光通訊與矽光子` | **重要性**: `63`
+- **來源**: Digitimes (2026-05-23T13:07:48Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 黃仁勳在本週訪問台灣期間提出了一系列廣泛的問題，涉及中國市場准入、內存成本上漲、矽光子、LPU 與 GPU 的爭論以及人工智能代理的未來，同時明確表示 Nvidia 的承諾…
+- [原文連結](https://www.digitimes.com/news/a20260523PD201/jensen-huang-taiwan-claude-nvidia-silicon.html)
+
+---
+
 ### ⚖️ 隨著記憶體和網路卡加入採用浪潮，液體冷卻已擴展到 AI GPU 之外
 - **題材**: `AI伺服器` | **重要性**: `63`
 - **來源**: Digitimes (2026-05-19T02:32:13Z)
@@ -151,33 +178,6 @@
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 隨著台灣開始打擊走私者，將被禁止的 Hopper 或 Blackwell 晶片帶入大陸資料中心變得更加令人擔憂。
 - [原文連結](https://www.tomshardware.com/desktops/servers/taiwan-raids-12-locations-in-its-first-formal-crackdown-on-nvidia-ai-chip-smuggling-hunts-three-fugitives-for-document-forgery-fraudulent-declarations-in-super-micro-smuggling-case)
-
----
-
-### ⚖️ 三星記憶體工人取消罷工 預計將獲得六位數獎金
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: Theregister.com (2026-05-25T04:14:46Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 另外：華為表示它已經取代了摩爾定律；中國移動套餐增加了代幣津貼；新加坡電信吊銷Optus；還有更多！
-- [原文連結](https://www.theregister.com/systems/2026/05/25/samsung-memory-workers-call-off-strike-and-may-score-six-figure-bonuses/5245573)
-
----
-
-### ⚖️ 記憶體已佔 AI 晶片組件成本的近三分之二
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: Epoch.ai (2026-05-24T16:31:29Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 高頻寬記憶體 (HBM) 佔 AI 晶片組件成本的 63%，高於 2024 年第一季的 52%。 Epoch AI 對組件成本的細分在主要晶片設計者中發生變化。
-- [原文連結](https://epoch.ai/data-insights/ai-chip-component-cost-shares)
-
----
-
-### ⚠️ 忘記密碼、分類錯誤的手提包：企業面臨關稅退款難題
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Business Insider (2026-05-23T09:27:01Z)
-- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 企業希望獲得唐納德·川普關稅的退款。丟失的密碼和錯誤分類的海關條目阻礙了他們的工作。
-- [原文連結](https://www.businessinsider.com/businesses-face-hurdles-getting-us-tariff-refunds-forgotten-passwords-2026-5)
 
 ---
 
