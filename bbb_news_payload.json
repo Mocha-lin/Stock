@@ -1,10 +1,48 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-05-26T00:07:21.711104+00:00",
+  "generated_at": "2026-05-26T04:57:08.839095+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 70,
   "items": [
+    {
+      "id": "c3bc01befffe10ca",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "華為瞄準AI光網路投資InP晶片新創公司",
+      "summary": "隨著人工智慧資料中心需求的不斷增長，加速全球光通訊產業的升級，華為透過對磷化銦（InP）光晶片新創公司的新投資，進一步向人工智慧光網路和矽光子（SiPh）領域拓展。",
+      "original_title": "Huawei targets AI optical networking with InP chip startup investment",
+      "url": "https://www.digitimes.com/news/a20260525PD209/huawei-siph-optical-components-investment-startup.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-05-25T02:32:08Z",
+      "importance": 78,
+      "impact": "positive",
+      "timeframe": "short_to_mid_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
     {
       "id": "658402d5f767d18e",
       "dataset": "market_news",
@@ -418,44 +456,6 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "cff5481c0a62d585",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "隨著記憶體和網路卡加入採用浪潮，液體冷卻已擴展到 AI GPU 之外",
-      "summary": "Nvidia 的無風扇 Vera Rubin AI 伺服器機架預計將於 2026 年下半年量產，預計將加速伺服器組件液體冷卻的全球採用，創造 GPU 之外對 CPU、記憶體、網卡和交換器的需求…",
-      "original_title": "Liquid cooling spreads beyond AI GPUs as memory and network cards join adoption wave",
-      "url": "https://www.digitimes.com/news/a20260519PD209/ai-server-liquid-cooling-adoption-nvidia-rubin.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-05-19T02:32:13Z",
-      "importance": 68,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "334d385e2ad2a47a",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -605,6 +605,44 @@
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "cff5481c0a62d585",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "隨著記憶體和網路卡加入採用浪潮，液體冷卻已擴展到 AI GPU 之外",
+      "summary": "Nvidia 的無風扇 Vera Rubin AI 伺服器機架預計將於 2026 年下半年量產，預計將加速伺服器組件液體冷卻的全球採用，創造 GPU 之外對 CPU、記憶體、網卡和交換器的需求…",
+      "original_title": "Liquid cooling spreads beyond AI GPUs as memory and network cards join adoption wave",
+      "url": "https://www.digitimes.com/news/a20260519PD209/ai-server-liquid-cooling-adoption-nvidia-rubin.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-05-19T02:32:13Z",
+      "importance": 63,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "ec801975728ff82f",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -641,6 +679,41 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "e104c3e7c64d238f",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "三星記憶體工人取消罷工 預計將獲得六位數獎金",
+      "summary": "另外：華為表示它已經取代了摩爾定律；中國移動套餐增加了代幣津貼；新加坡電信吊銷Optus；還有更多！",
+      "original_title": "Samsung memory workers call off strike and may score six-figure bonuses",
+      "url": "https://www.theregister.com/systems/2026/05/25/samsung-memory-workers-call-off-strike-and-may-score-six-figure-bonuses/5245573",
+      "source": "Theregister.com",
+      "domain": "theregister.com",
+      "published_at": "2026-05-25T04:14:46Z",
+      "importance": 60,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "b43f6ac25c082320",
@@ -1055,44 +1128,6 @@
       "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "289d8388cb0b12a9",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "FICER 在 2026 年台北電腦展為數位基礎設施提供動力，加強通訊骨幹",
-      "summary": "F520 OTN DWDM 系統和 DCO 系列專為高密度光纖解決方案和可擴展的城市骨幹網路而設計的獨特傳輸架構。 800G/400G 和 BiDi 模組加速 AI 基礎設施和雲端資料中心，同時解決密集會議…",
-      "original_title": "FICER Powering Digital Infrastructure, Strengthening Communication Backbones at COMPUTEX Taipei 2026",
-      "url": "https://www.prnewswire.com/news-releases/ficer-powering-digital-infrastructure-strengthening-communication-backbones-at-computex-taipei-2026-302774300.html",
-      "source": "PRNewswire",
-      "domain": "prnewswire.com",
-      "published_at": "2026-05-20T00:30:00Z",
-      "importance": 60,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "276a028403bc7e1c",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1256,41 +1291,6 @@
       "source": "MakeUseOf",
       "domain": "makeuseof.com",
       "published_at": "2026-05-23T13:00:18Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "e96fcbca476e4c94",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "花旗在異常情況後重置美光股價目標",
-      "summary": "5月18日，美光科技股價下跌近6%。同一天早上，華爾街三大公司同時變得更加看好該股。那種...",
-      "original_title": "Citi resets Micron stock price target after an anomaly",
-      "url": "https://www.thestreet.com/investing/stocks/citi-resets-micron-stock-price-target-after-an-anomaly",
-      "source": "TheStreet",
-      "domain": "thestreet.com",
-      "published_at": "2026-05-23T03:17:00Z",
       "importance": 55,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -1537,41 +1537,6 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "b4d78dbbe0e77e16",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "三星工會取消罷工計畫 韓國股市飆升",
-      "summary": "在達成避免頂級記憶體晶片製造商罷工的協議後，基準 KOSPI 上漲超過 8%。",
-      "original_title": "South Korea’s stock market soars as Samsung union calls off planned strike",
-      "url": "https://www.aljazeera.com/economy/2026/5/21/south-koreas-stock-market-soars-as-samsung-union-calls-off-planned-strike",
-      "source": "Al Jazeera English",
-      "domain": "aljazeera.com",
-      "published_at": "2026-05-21T06:54:01Z",
-      "importance": 55,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "9544e6fafa9c101d",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1798,6 +1763,41 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "e96fcbca476e4c94",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "花旗在異常情況後重置美光股價目標",
+      "summary": "5月18日，美光科技股價下跌近6%。同一天早上，華爾街三大公司同時變得更加看好該股。那種...",
+      "original_title": "Citi resets Micron stock price target after an anomaly",
+      "url": "https://www.thestreet.com/investing/stocks/citi-resets-micron-stock-price-target-after-an-anomaly",
+      "source": "TheStreet",
+      "domain": "thestreet.com",
+      "published_at": "2026-05-23T03:17:00Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "304e6e7edb6406b9",
