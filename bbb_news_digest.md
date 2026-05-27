@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-05-27T08:51:11.551629+00:00
+> 更新時間：2026-05-27T12:21:28.098150+00:00
 
 ### ⚖️ 165 億美元的賭注：到 2030 年，共同封裝的光學元件將如何重新連接人工智慧的骨幹
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -91,6 +91,15 @@
 
 ---
 
+### ⚖️ SK 海力士推出「iHBM」熱架構，從源頭冷卻 AI 記憶體——HBM 介面內的整合式冷卻元件將熱阻降低 30%，目標是下一代 HBM5 加速器和密集的 AI 資料中心
+- **題材**: `HBM記憶體` | **重要性**: `72`
+- **來源**: Tom's Hardware UK (2026-05-26T11:49:14Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: SK海力士推出了iHBM，這是一種新型熱封裝架構，可將冷卻元件直接嵌入到HBM界面層中，將熱阻降低30%，並幫助未來的人工智慧加速器避免影響性能的熱節流。
+- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-unveils-ihbm-thermal-architecture-that-cools-ai-memory-at-the-source-integrated-cooling-elements-inside-hbm-interface-cut-thermal-resistance-by-30-percent-target-next-gen-hbm5-accelerators-and-dense-ai-data-centers)
+
+---
+
 ### 🚀 據報道，在最後一刻工會達成協議後，三星將向人工智慧驅動的半導體員工發放高達 266 億美元的獎金——每位晶片員工的平均獎金可能接近 40 萬美元
 - **題材**: `HBM記憶體` | **重要性**: `72`
 - **來源**: Tom's Hardware UK (2026-05-21T14:25:18Z)
@@ -169,15 +178,6 @@
 - **AI 判讀**: 屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 通貨膨脹並不是侵蝕紐約街頭小販收入的唯一因素。大多數人居住在曼哈頓以外，必須支付每日壅塞費。
 - [原文連結](https://www.businessinsider.com/congestion-pricing-is-squeezing-nyc-street-vendors-budgets-2026-5)
-
----
-
-### 🚀 NVIDIA 第一季財報電話會議亮點
-- **題材**: `AI伺服器` | **重要性**: `65`
-- **來源**: MarketBeat (2026-05-20T23:05:09Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: NVIDIA（納斯達克股票代碼：NVDA）報告了創紀錄的 2027 財年第一季度業績，收入、營業收入和自由現金流均超過公司之前的高點，...
-- [原文連結](https://www.marketbeat.com/instant-alerts/nvidia-q1-earnings-call-highlights-2026-05-20/?utm_source=yahoofinance&amp;utm_medium=yahoofinance)
 
 ---
 
