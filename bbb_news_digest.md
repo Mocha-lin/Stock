@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-05-26T19:11:43.780262+00:00
+> 更新時間：2026-05-27T00:05:18.957659+00:00
 
 ### 🚀 華為瞄準AI光網路投資InP晶片新創公司
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -34,6 +34,15 @@
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 隨著 Blackwell 出貨量的增加、Rubin 的臨近以及英特爾 CPU 重新成為人工智慧伺服器的焦點，供應鏈的樂觀情緒日益增強。
 - [原文連結](https://www.digitimes.com/news/a20260520PD209/nvidia-supply-blackwell-shipments-rubin.html)
+
+---
+
+### 🚀 三星的矽光子技術為韓國與荷蘭的晶片關係增添了新的層次
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-05-25T22:44:43Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 隨著人工智慧資料中心不斷增長的功率和頻寬需求，矽光子學 (SiPh) 成為潛在的下一個合作領域，韓國和荷蘭正在尋求將半導體合作夥伴關係擴大到 ASML 的 EUV 微影機之外。
+- [原文連結](https://www.digitimes.com/news/a20260525VL212/south-korea-netherlands-asml-samsung-siph.html)
 
 ---
 
@@ -109,6 +118,15 @@
 
 ---
 
+### ⚖️ 據報道，AMD 的 Zen 7“Grimlock”CPU 將採用台積電的 1.4 奈米“A14”節點和先進封裝
+- **題材**: `半導體先進製程` | **重要性**: `65`
+- **來源**: TweakTown (2026-05-25T19:50:06Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 該公司還希望將 Powertech 的 FOPLP 先進封裝技術以及下一代 3D V-Cache 整合到 Zen 7 架構中。在 TweakTown 繼續閱讀
+- [原文連結](https://www.tweaktown.com/news/111809/amds-zen-7-grimlock-cpus-will-reportedly-utilize-tsmcs-1-4nm-a14-node-and-advanced-packaging/index.html)
+
+---
+
 ### ⚖️ IREN 執行長剛剛說了 11 句話，為人工智慧熱潮帶來了殘酷的現實檢驗
 - **題材**: `HBM記憶體` | **重要性**: `65`
 - **來源**: 24/7 Wall St. (2026-05-25T14:28:35Z)
@@ -154,30 +172,12 @@
 
 ---
 
-### ⚖️ 黃仁勳表示，他在工作中使用 Claude，兒子在家中運行人工智慧代理來管理家庭
-- **題材**: `光通訊與矽光子` | **重要性**: `63`
-- **來源**: Digitimes (2026-05-23T13:07:48Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 黃仁勳在本週訪問台灣期間提出了一系列廣泛的問題，涉及中國市場准入、內存成本上漲、矽光子、LPU 與 GPU 的爭論以及人工智能代理的未來，同時明確表示 Nvidia 的承諾…
-- [原文連結](https://www.digitimes.com/news/a20260523PD201/jensen-huang-taiwan-claude-nvidia-silicon.html)
-
----
-
-### ⚖️ 隨著記憶體和網路卡加入採用浪潮，液體冷卻已擴展到 AI GPU 之外
-- **題材**: `AI伺服器` | **重要性**: `63`
-- **來源**: Digitimes (2026-05-19T02:32:13Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Nvidia 的無風扇 Vera Rubin AI 伺服器機架預計將於 2026 年下半年量產，預計將加速伺服器組件液體冷卻的全球採用，創造 GPU 之外對 CPU、記憶體、網卡和交換器的需求…
-- [原文連結](https://www.digitimes.com/news/a20260519PD209/ai-server-liquid-cooling-adoption-nvidia-rubin.html)
-
----
-
-### ⚖️ 台灣首次正式打擊英偉達人工智慧晶片走私行動，突襲搜查 12 個地點，追捕三名在超微走私案中偽造文件、虛假申報的逃犯
-- **題材**: `AI伺服器` | **重要性**: `62`
-- **來源**: Tom's Hardware UK (2026-05-21T13:01:39Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 隨著台灣開始打擊走私者，將被禁止的 Hopper 或 Blackwell 晶片帶入大陸資料中心變得更加令人擔憂。
-- [原文連結](https://www.tomshardware.com/desktops/servers/taiwan-raids-12-locations-in-its-first-formal-crackdown-on-nvidia-ai-chip-smuggling-hunts-three-fugitives-for-document-forgery-fraudulent-declarations-in-super-micro-smuggling-case)
+### 🚀 2026 年人工智慧資料中心網路全球市場分析報告：2020-2025 年、2025-2030 年、2035 年 30 億美元以上的機會、趨勢、競爭格局、策略和預測
+- **題材**: `光通訊與矽光子` | **重要性**: `65`
+- **來源**: GlobeNewswire (2026-05-20T15:24:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 人工智慧資料中心網路市場的關鍵機會包括透過高效的矽光子學擴展人工智慧基礎設施、在網路營運中利用人工智慧驅動的自動化，以及利用不斷增長的雲端運算和超大規模資料中心需求。生長…
+- [原文連結](https://www.globenewswire.com/news-release/2026/05/20/3298728/28124/en/AI-Data-Center-Networking-Global-Market-Analysis-Report-2026-30-Bn-Opportunities-Trends-Competitive-Landscape-Strategies-and-Forecasts-2020-2025-2025-2030F-2035F.html)
 
 ---
 
