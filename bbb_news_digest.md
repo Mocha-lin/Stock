@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-05-27T00:05:18.957659+00:00
+> 更新時間：2026-05-27T05:10:07.110704+00:00
 
 ### 🚀 華為瞄準AI光網路投資InP晶片新創公司
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -28,12 +28,12 @@
 
 ---
 
-### ⚖️ 人工智慧機架熱潮推動英偉達獲利再次成長
-- **題材**: `AI伺服器` | **重要性**: `78`
-- **來源**: Digitimes (2026-05-20T00:28:42Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 隨著 Blackwell 出貨量的增加、Rubin 的臨近以及英特爾 CPU 重新成為人工智慧伺服器的焦點，供應鏈的樂觀情緒日益增強。
-- [原文連結](https://www.digitimes.com/news/a20260520PD209/nvidia-supply-blackwell-shipments-rubin.html)
+### ⚖️ Lightmatter 與台積電合作開發 COUPE 3D 光學引擎
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-05-26T01:37:15Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: AI 運算對基礎設施的巨大需求使得互連和雷射技術成為克服功率和頻寬限制的關鍵，促使矽光子獨角獸 Lightmatter 推出其最新雷射產品 Guide DR。为了推进其 3D 堆栈……
+- [原文連結](https://www.digitimes.com/news/a20260525PD235/siph-laser-demand-infrastructure-technology-tsmc.html)
 
 ---
 
@@ -79,6 +79,15 @@
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: META綠色散熱技術（MGC）總裁Clyde Chu表示，Nvidia的晶片路線圖顯示，散熱需求在不到一年的時間內翻倍，基於Vera Rubin架構的NVL72機架預計在2026年下半年推出，需要130-1…
 - [原文連結](https://www.digitimes.com/news/a20260520PD236/ai-server-liquid-cooling-nvidia-2026.html)
+
+---
+
+### ⚖️ 人工智慧機架熱潮推動英偉達獲利再次成長
+- **題材**: `AI伺服器` | **重要性**: `73`
+- **來源**: Digitimes (2026-05-20T00:28:42Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 隨著 Blackwell 出貨量的增加、Rubin 的臨近以及英特爾 CPU 重新成為人工智慧伺服器的焦點，供應鏈的樂觀情緒日益增強。
+- [原文連結](https://www.digitimes.com/news/a20260520PD209/nvidia-supply-blackwell-shipments-rubin.html)
 
 ---
 
@@ -169,15 +178,6 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 儘管美光科技的股價大幅上漲，但其人工智慧驅動的成長故事可能仍處於早期階段。
 - [原文連結](https://www.barchart.com/story/news/2043156/up-153-ytd-here-s-why-micron-stock-is-already-my-2026-winner)
-
----
-
-### 🚀 2026 年人工智慧資料中心網路全球市場分析報告：2020-2025 年、2025-2030 年、2035 年 30 億美元以上的機會、趨勢、競爭格局、策略和預測
-- **題材**: `光通訊與矽光子` | **重要性**: `65`
-- **來源**: GlobeNewswire (2026-05-20T15:24:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 人工智慧資料中心網路市場的關鍵機會包括透過高效的矽光子學擴展人工智慧基礎設施、在網路營運中利用人工智慧驅動的自動化，以及利用不斷增長的雲端運算和超大規模資料中心需求。生長…
-- [原文連結](https://www.globenewswire.com/news-release/2026/05/20/3298728/28124/en/AI-Data-Center-Networking-Global-Market-Analysis-Report-2026-30-Bn-Opportunities-Trends-Competitive-Landscape-Strategies-and-Forecasts-2020-2025-2025-2030F-2035F.html)
 
 ---
 
