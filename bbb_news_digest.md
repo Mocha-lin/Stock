@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-05-28T12:27:08.506242+00:00
+> 更新時間：2026-05-28T16:46:27.496413+00:00
 
 ### ⚖️ 165 億美元的賭注：到 2030 年，共同封裝的光學元件將如何重新連接人工智慧的骨幹
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -46,15 +46,6 @@
 
 ---
 
-### ⚖️ TSMC supply chain material maker AMC rides AI packaging yield boom
-- **題材**: `半導體先進製程` | **重要性**: `73`
-- **來源**: Digitimes (2026-05-22T01:30:50Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 台灣先進半導體材料供應商聯盟材料公司（AMC）表示，隨著AI晶片需求的推動，其平衡膜防翹曲材料已進入客戶驗證，預計於2026年下半年開始量產。
-- [原文連結](https://www.digitimes.com/news/a20260522PD201/materials-tsmc-packaging-production-2026.html)
-
----
-
 ### 🚀 隨著 CPO 競賽轉向系統集成，FII 挑戰博通和 Nvidia
 - **題材**: `光通訊與矽光子` | **重要性**: `73`
 - **來源**: Digitimes (2026-05-21T00:14:25Z)
@@ -79,24 +70,6 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: SK海力士推出了iHBM，這是一種新型熱封裝架構，可將冷卻元件直接嵌入到HBM界面層中，將熱阻降低30%，並幫助未來的人工智慧加速器避免影響性能的熱節流。
 - [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-unveils-ihbm-thermal-architecture-that-cools-ai-memory-at-the-source-integrated-cooling-elements-inside-hbm-interface-cut-thermal-resistance-by-30-percent-target-next-gen-hbm5-accelerators-and-dense-ai-data-centers)
-
----
-
-### 🚀 據報道，在最後一刻工會達成協議後，三星將向人工智慧驅動的半導體員工發放高達 266 億美元的獎金——每位晶片員工的平均獎金可能接近 40 萬美元
-- **題材**: `HBM記憶體` | **重要性**: `72`
-- **來源**: Tom's Hardware UK (2026-05-21T14:25:18Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 據報道，在最後一刻達成勞資協議後，三星電子準備分配高達 40 兆韓元（266 億美元）的半導體員工獎金。擬議的交易將支付與人工智慧驅動的晶片利潤聯繫起來，並可能看到平均員工…
-- [原文連結](https://www.tomshardware.com/tech-industry/big-tech/samsung-reportedly-set-to-distribute-up-to-usd26-6-billion-to-staff-in-ai-driven-semiconductor-bonuses-after-last-minute-union-deal-average-payouts-could-approach-usd400-000-per-chip-employee)
-
----
-
-### ⚖️ SK 海力士尋求在 HBM 內嵌入冷卻裝置以應對熱量
-- **題材**: `HBM記憶體` | **重要性**: `68`
-- **來源**: Digitimes (2026-05-26T23:34:55Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: SK 海力士推出了一種新的高頻寬記憶體技術，旨在減少下一代人工智慧系統中的熱量積聚，因為計算密度的提高使熱管理成為 HBM 供應商更加關鍵的前沿。
-- [原文連結](https://www.digitimes.com/news/a20260526VL211/sk-hynix-technology-hbm-cooling-chips.html)
 
 ---
 
@@ -127,30 +100,12 @@
 
 ---
 
-### ⚖️ 客製化 AI ASIC 的發展狀況（2026 年 5 月）—Broadcom 交易、Google TPU、Meta MTIA 等
-- **題材**: `AI伺服器` | **重要性**: `67`
-- **來源**: Tom's Hardware UK (2026-05-21T12:43:38Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 基於 ASIC 的 AI 伺服器出貨量預計到 2026 年將達到 27.8% 的市場份額，為 2023 年以來的最高份額，客製化 ASIC 出貨量將年增 44.6%。
-- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/custom-ai-asics-examined-from-broadcom-to-mtia)
-
----
-
-### ⚖️ 據報道，AMD 的 Zen 7“Grimlock”CPU 將採用台積電的 1.4 奈米“A14”節點和先進封裝
-- **題材**: `半導體先進製程` | **重要性**: `65`
-- **來源**: TweakTown (2026-05-25T19:50:06Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 該公司還希望將 Powertech 的 FOPLP 先進封裝技術以及下一代 3D V-Cache 整合到 Zen 7 架構中。在 TweakTown 繼續閱讀
-- [原文連結](https://www.tweaktown.com/news/111809/amds-zen-7-grimlock-cpus-will-reportedly-utilize-tsmcs-1-4nm-a14-node-and-advanced-packaging/index.html)
-
----
-
-### ⚖️ AMD“Zen 7”IP將使用台積電A14節點和更先進的封裝
-- **題材**: `半導體先進製程` | **重要性**: `65`
-- **來源**: Techpowerup.com (2026-05-25T14:01:52Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: AMD正逐步準備在新的EPYC「Venice」伺服器CPU家族下推出其新一代「Zen 6」系列處理器。同時，「Zen 7」架構的開發已經進行了相當長一段時間，看來我們終於開始學習了…
-- [原文連結](https://www.techpowerup.com/349330/amd-zen-7-ip-to-use-tsmc-a14-node-and-more-advanced-packaging)
+### 🚀 據報道，在最後一刻工會達成協議後，三星將向人工智慧驅動的半導體員工發放高達 266 億美元的獎金——每位晶片員工的平均獎金可能接近 40 萬美元
+- **題材**: `HBM記憶體` | **重要性**: `67`
+- **來源**: Tom's Hardware UK (2026-05-21T14:25:18Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 據報道，在最後一刻達成勞資協議後，三星電子準備分配高達 40 兆韓元（266 億美元）的半導體員工獎金。擬議的交易將支付與人工智慧驅動的晶片利潤聯繫起來，並可能看到平均員工…
+- [原文連結](https://www.tomshardware.com/tech-industry/big-tech/samsung-reportedly-set-to-distribute-up-to-usd26-6-billion-to-staff-in-ai-driven-semiconductor-bonuses-after-last-minute-union-deal-average-payouts-could-approach-usd400-000-per-chip-employee)
 
 ---
 
@@ -178,6 +133,51 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 據報導，SK 海力士正在圍繞晶圓測試重塑其清州園區的部分區域，這一轉變凸顯出高頻寬記憶體（HBM）給晶片製造流程的後端帶來了新的壓力。
 - [原文連結](https://www.digitimes.com/news/a20260521VL210/sk-hynix-hbm-fab-packaging-wafer.html)
+
+---
+
+### ⚖️ 客製化 AI ASIC 的發展狀況（2026 年 5 月）—Broadcom 交易、Google TPU、Meta MTIA 等
+- **題材**: `AI伺服器` | **重要性**: `62`
+- **來源**: Tom's Hardware UK (2026-05-21T12:43:38Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 基於 ASIC 的 AI 伺服器出貨量預計到 2026 年將達到 27.8% 的市場份額，為 2023 年以來的最高份額，客製化 ASIC 出貨量將年增 44.6%。
+- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/custom-ai-asics-examined-from-broadcom-to-mtia)
+
+---
+
+### ⚖️ 華為Mate 90系列將採用類似3nm的麒麟晶片
+- **題材**: `半導體先進製程` | **重要性**: `60`
+- **來源**: GSMArena.com (2026-05-27T16:31:02Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 在華為公佈其名為“Tao Scaling Law”的新擴展法則及其 LogicFolding 架構後不久，該公司在深圳鳳凰灣區金融論壇和金融峰會上舉行了主題演講，承諾帶來更強大的下一代…
+- [原文連結](https://www.gsmarena.com/the_huawei_mate_90_series_will_feature_a_3nmlike_kirin_chip-news-73015.php)
+
+---
+
+### ⚖️ Broadcom 的客製化 ASIC 業務將韓國 FuriosaAI 納入其帝國
+- **題材**: `半導體先進製程` | **重要性**: `60`
+- **來源**: Theregister.com (2026-05-27T13:00:00Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 第三代晶片將使用 Broadzilla 的先進封裝、網路技術
+- [原文連結](https://www.theregister.com/ai-ml/2026/05/27/broadcom-lands-furiosaai-as-latest-custom-ai-chip-partner/5246536)
+
+---
+
+### ⚖️ 解釋者：邊緣人工智慧
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: Theregister.com (2026-05-27T08:00:00Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 如果您的基礎設施支持，您可以在邊緣運行人工智慧
+- [原文連結](https://www.theregister.com/ai-ml/2026/05/27/explainer-edge-ai/5246783)
+
+---
+
+### 🚀 到 2035 年，共封裝光學市場規模將達到 19.2364 億美元 |社群網路內幕
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: GlobeNewswire (2026-05-27T07:30:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 全球共封裝光學 (CPO) 市場規模、份額和細分，按整合方法、資料速率、應用、最終用戶、地區和預測 2026-2035
+- [原文連結](https://www.globenewswire.com/news-release/2026/05/27/3301642/0/en/Co-Packaged-Optics-Market-Size-to-Hit-USD-1-923-64-million-by-2035-SNS-Insider.html)
 
 ---
 
