@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-05-28T08:57:27.999703+00:00
+> 更新時間：2026-05-28T12:27:08.506242+00:00
 
 ### ⚖️ 165 億美元的賭注：到 2030 年，共同封裝的光學元件將如何重新連接人工智慧的骨幹
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -154,15 +154,6 @@
 
 ---
 
-### ⚖️ 不太可能的半通貨膨脹罪魁禍首：紐約市大力削減交通
-- **題材**: `總體風險` | **重要性**: `65`
-- **來源**: Business Insider (2026-05-25T09:02:01Z)
-- **AI 判讀**: 屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 通貨膨脹並不是侵蝕紐約街頭小販收入的唯一因素。大多數人居住在曼哈頓以外，必須支付每日壅塞費。
-- [原文連結](https://www.businessinsider.com/congestion-pricing-is-squeezing-nyc-street-vendors-budgets-2026-5)
-
----
-
 ### ⚖️ 黃仁勳表示，他在工作中使用 Claude，兒子在家中運行人工智慧代理來管理家庭
 - **題材**: `光通訊與矽光子` | **重要性**: `63`
 - **來源**: Digitimes (2026-05-23T13:07:48Z)
@@ -178,6 +169,15 @@
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Nvidia CEO Jensen Huang arrived in Taiwan on May 23 ahead of COMPUTEX, telling reporters that the company's next-generation AI server platform — codenamed Vera Rubin — will be the most successful product generation in Nvidia's history and potentially the larg…
 - [原文連結](https://www.digitimes.com/news/a20260523PD200/nvidia-taiwan-jensen-huang-rubin-ceo.html)
+
+---
+
+### ⚖️ 據報道 SK 海力士將清州掩模廠轉向 HBM 產量提升
+- **題材**: `HBM記憶體` | **重要性**: `63`
+- **來源**: Digitimes (2026-05-21T04:50:38Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 據報導，SK 海力士正在圍繞晶圓測試重塑其清州園區的部分區域，這一轉變凸顯出高頻寬記憶體（HBM）給晶片製造流程的後端帶來了新的壓力。
+- [原文連結](https://www.digitimes.com/news/a20260521VL210/sk-hynix-hbm-fab-packaging-wafer.html)
 
 ---
 
