@@ -1,9 +1,9 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-05-27T19:11:21.308871+00:00",
+  "generated_at": "2026-05-28T00:01:21.294406+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
-  "total_count": 70,
+  "total_count": 71,
   "items": [
     {
       "id": "59102f3bb3d74686",
@@ -272,6 +272,44 @@
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
+      "id": "d22e093b4bdd004d",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "TSMC supply chain material maker AMC rides AI packaging yield boom",
+      "summary": "台灣先進半導體材料供應商聯盟材料公司（AMC）表示，隨著AI晶片需求的推動，其平衡膜防翹曲材料已進入客戶驗證，預計於2026年下半年開始量產。",
+      "original_title": "TSMC supply chain material maker AMC rides AI packaging yield boom",
+      "url": "https://www.digitimes.com/news/a20260522PD201/materials-tsmc-packaging-production-2026.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-05-22T01:30:50Z",
+      "importance": 73,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
       "id": "d64f177bde71464a",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -283,44 +321,6 @@
       "source": "Digitimes",
       "domain": "digitimes.com",
       "published_at": "2026-05-21T02:14:17Z",
-      "importance": 73,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
-      "id": "884cdfe2da563c3c",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "人工智慧機架熱潮推動英偉達獲利再次成長",
-      "summary": "隨著 Blackwell 出貨量的增加、Rubin 的臨近以及英特爾 CPU 重新成為人工智慧伺服器的焦點，供應鏈的樂觀情緒日益增強。",
-      "original_title": "Nvidia earnings set to beat again on AI rack boom",
-      "url": "https://www.digitimes.com/news/a20260520PD209/nvidia-supply-blackwell-shipments-rubin.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-05-20T00:28:42Z",
       "importance": 73,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -418,6 +418,41 @@
       "reason": "屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
+      "id": "aa649d63dc4dbc32",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "SK 海力士尋求在 HBM 內嵌入冷卻裝置以應對熱量",
+      "summary": "SK 海力士推出了一種新的高頻寬記憶體技術，旨在減少下一代人工智慧系統中的熱量積聚，因為計算密度的提高使熱管理成為 HBM 供應商更加關鍵的前沿。",
+      "original_title": "SK Hynix seeks to embed cooling inside HBM to beat the heat",
+      "url": "https://www.digitimes.com/news/a20260526VL211/sk-hynix-technology-hbm-cooling-chips.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-05-26T23:34:55Z",
+      "importance": 68,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "62d28b9ce0e779bf",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -489,44 +524,6 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "5fcc1f74f71edbbe",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "2026技術論壇：AI伺服器機架推動液冷成為主流",
-      "summary": "META綠色散熱技術（MGC）總裁Clyde Chu表示，Nvidia的晶片路線圖顯示，散熱需求在不到一年的時間內翻倍，基於Vera Rubin架構的NVL72機架預計在2026年下半年推出，需要130-1…",
-      "original_title": "Tech Forum 2026: AI server racks push liquid cooling into mainstream",
-      "url": "https://www.digitimes.com/news/a20260520PD236/ai-server-liquid-cooling-nvidia-2026.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-05-20T07:34:46Z",
-      "importance": 68,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "334d385e2ad2a47a",
@@ -605,6 +602,41 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "2b064f16aa38be3a",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "IREN 執行長剛剛說了 11 句話，為人工智慧熱潮帶來了殘酷的現實檢驗",
+      "summary": "人工智慧的繁榮拉開了自早期網路時代以來最大規模的基礎設施競賽之一。 Nvidia（納斯達克股票代碼：NVDA）GPU 正在銷售...",
+      "original_title": "IREN’s CEO Just Said 11 Words that Delivered the AI Boom a Brutal Reality Check",
+      "url": "https://247wallst.com/investing/2026/05/25/irens-ceo-just-said-11-words-that-delivered-the-ai-boom-a-brutal-reality-check/",
+      "source": "24/7 Wall St.",
+      "domain": "247wallst.com",
+      "published_at": "2026-05-25T14:28:35Z",
+      "importance": 65,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "f93f03ffa00034e0",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -681,44 +713,6 @@
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "e6e9798f390f032b",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "NVIDIA 第一季財報電話會議亮點",
-      "summary": "NVIDIA（納斯達克股票代碼：NVDA）報告了創紀錄的 2027 財年第一季度業績，收入、營業收入和自由現金流均超過公司之前的高點，...",
-      "original_title": "NVIDIA Q1 Earnings Call Highlights",
-      "url": "https://www.marketbeat.com/instant-alerts/nvidia-q1-earnings-call-highlights-2026-05-20/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
-      "source": "MarketBeat",
-      "domain": "marketbeat.com",
-      "published_at": "2026-05-20T23:05:09Z",
-      "importance": 65,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "7e6da8a93f56c785",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -757,6 +751,44 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "f0102f0e8c2cbf1b",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "黃仁勳登陸台灣，稱 Vera Rubin 是電腦史上最大的產品提升",
+      "summary": "Nvidia CEO Jensen Huang arrived in Taiwan on May 23 ahead of COMPUTEX, telling reporters that the company's next-generation AI server platform — codenamed Vera Rubin — will be the most successful product generation in Nvidia's history and potentially the larg…",
+      "original_title": "Jensen Huang lands in Taiwan, calls Vera Rubin biggest product ramp in computer history",
+      "url": "https://www.digitimes.com/news/a20260523PD200/nvidia-taiwan-jensen-huang-rubin-ceo.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-05-23T12:54:43Z",
+      "importance": 63,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "ec801975728ff82f",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -793,6 +825,44 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "d7496ed17569f4dd",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Corsair 的 Pro 系列是該公司對人工智慧工作站和伺服器不斷增長的需求的回應",
+      "summary": "在對 PC 和伺服器級硬體的永不滿足的需求的刺激下，一系列硬體製造商和組裝商希望從人工智慧淘金熱中受益，Corsair 是最新的一家。",
+      "original_title": "Corsair's Pro lineup is the company’s answer to the growing demand for AI workstations and servers",
+      "url": "https://www.techradar.com/pro/corsairs-pro-lineup-is-the-companys-answer-to-the-growing-demand-for-ai-workstations-and-servers",
+      "source": "TechRadar",
+      "domain": "techradar.com",
+      "published_at": "2026-05-26T23:20:00Z",
+      "importance": 60,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "da4db5b8bddd8b63",
@@ -1020,6 +1090,44 @@
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "9e8bb9b8b418efaf",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "百事 CPO 表示，他們聘用頂尖人才的「秘訣」是他們都充滿活力，並且在人工智慧時代保持敏捷和好奇心",
+      "summary": "百事公司首席人力長貝基·施密特 (Becky Schmitt) 表示，儘管該傳統品牌在當前的人工智慧轉型中發生了轉變，但它仍在尋找老式技能。",
+      "original_title": "PepsiCo CPO says their ‘secret sauce’ to hiring top talent is that they all have hustle—And are agile and curious in the AI era",
+      "url": "https://fortune.com/2026/05/25/pepsico-cpo-becky-schmitt-secret-sauce-hiring-top-talent-all-hustle-agile-curious-ai-era/",
+      "source": "Fortune",
+      "domain": "fortune.com",
+      "published_at": "2026-05-25T10:55:00Z",
+      "importance": 60,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "e104c3e7c64d238f",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1131,6 +1239,82 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "70542461b26a7ba6",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "重大公告：估值40億美元，每股參考價10.00美元，AGAE發股收購東南亞稀缺光纖基礎設施領導者HyalRoute，轉型為「光運算+光傳輸」結合的全球AI光網路平台",
+      "summary": "紐約，2026 年 5 月 22 日（環球通訊社）—All In FutureTech Alliance Inc.（納斯達克股票代碼：AGAE）（「AIFA」或「公司」）今天宣布，公司已簽訂一攬子交易最終協議，以收購總計 57.67% 的控股權…",
+      "original_title": "Major Announcement: US$4.0 Billion Valuation and a US$10.00 Per Share Reference Price, AGAE to Issue Shares to Acquire HyalRoute, a Scarce Southeast Asian Fiber-Optic Infrastructure Leader, Transforming into a Global AI Optical Network Platform Combining “Optical Compute + Optical Transmission”",
+      "url": "https://www.globenewswire.com/news-release/2026/05/22/3300129/0/en/Major-Announcement-US-4-0-Billion-Valuation-and-a-US-10-00-Per-Share-Reference-Price-AGAE-to-Issue-Shares-to-Acquire-HyalRoute-a-Scarce-Southeast-Asian-Fiber-Optic-Infrastructure-L.html",
+      "source": "GlobeNewswire",
+      "domain": "globenewswire.com",
+      "published_at": "2026-05-22T13:00:00Z",
+      "importance": 60,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "5197f9d34f0d4f3f",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "華爾街分析師對英偉達強勁獲利的評價",
+      "summary": "英偉達公佈了好於預期的第一季業績，並為第二季提供了樂觀的指引，執行長黃仁勳強調新產品線可以顯著擴大公司的收入，超越其旗艦人工智慧晶片業務。尽管…",
+      "original_title": "What Wall Street Analysts Are Saying About Nvidia's Strong Earnings",
+      "url": "https://www.breitbart.com/tech/2026/05/21/what-wall-street-analysts-are-saying-about-nvidias-strong-earnings/",
+      "source": "Breitbart News",
+      "domain": "breitbart.com",
+      "published_at": "2026-05-21T17:39:37Z",
+      "importance": 60,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "0036797def99e6a9",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1205,44 +1389,6 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "554f0779909cb759",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "堪薩斯城公立學校將用 Apple 裝置取代 30,000 台 Windows PC 和 Chromebook",
-      "summary": "在 Apple 2026 年第二季財報電話會議上發表簡短評論後，堪薩斯城公立學校網站詳細闡述了過渡到「全 Apple 學區」的計劃。以下是詳細資訊。\n\n\n\n 更多的…",
-      "original_title": "Kansas City Public Schools to replace 30,000 Windows PCs and Chromebooks with Apple devices",
-      "url": "https://9to5mac.com/2026/05/20/kansas-city-public-schools-to-replace-30000-windows-pcs-and-chromebooks-with-apple-devices/",
-      "source": "9to5Mac",
-      "domain": "9to5mac.com",
-      "published_at": "2026-05-20T19:55:31Z",
-      "importance": 60,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "93bef20432a8b86d",
@@ -1508,6 +1654,41 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "86ec92a80a189286",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "今日科技股：三星化解罷工威脅，美光與 SK 海力士加入 1 兆美元俱樂部",
+      "summary": "",
+      "original_title": "Tech stocks today: Samsung defuses strike threat, Micron and SK Hynix join the $1 trillion club",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_299c5284-3ca1-47ca-a395-2bcd6ca402fa",
+      "source": "Yahoo Entertainment",
+      "domain": "consent.yahoo.com",
+      "published_at": "2026-05-26T10:00:00Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "9165e104d8c9c437",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1617,6 +1798,41 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "d2553c9a93a36623",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "(PR) SK hynix 推出 iHBM 散熱解決方案以提升 AI 效能",
+      "summary": "SK 海力士公司今天宣布推出 iHBM 解決方案，將整合冷卻元件 (ICE) 嵌入到下一代 HBM 產品的高頻寬記憶體 (HBM) 封裝中。隨著 HBM 技術的進步，熱管理已成為一項關鍵挑戰…",
+      "original_title": "(PR) SK hynix Unveils iHBM Thermal Solution to Boost AI Performance",
+      "url": "https://www.techpowerup.com/349342/sk-hynix-unveils-ihbm-thermal-solution-to-boost-ai-performance",
+      "source": "Techpowerup.com",
+      "domain": "techpowerup.com",
+      "published_at": "2026-05-26T00:40:59Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "d630c38dff7fc3b2",
@@ -1993,19 +2209,19 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "9544e6fafa9c101d",
+      "id": "a11c56ff745e1361",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "總體風險",
-      "title": "隨著伊朗戰爭導致汽油價格飆升，歐洲電動車銷量激增",
-      "summary": "戰爭可以在一夜之間改寫消費者的習慣。自2月底美國和以色列空襲伊朗以來，原油價格自俄羅斯2022年入侵烏克蘭以來首次飆升至每桶100美元以上。歐洲汽油泵的結果…",
-      "original_title": "Europe’s EV sales are surging as the Iran war sends petrol prices through the roof",
-      "url": "https://thenextweb.com/news/europe-ev-sales-surge-iran-war-oil-prices/",
-      "source": "The Next Web",
-      "domain": "thenextweb.com",
-      "published_at": "2026-05-20T19:56:07Z",
-      "importance": 55,
-      "impact": "positive",
+      "title": "川普表示他即將與伊朗達成協議，陣亡將士紀念日汽油價格創下多年來最高水平",
+      "summary": "AAA 表示，陣亡將士紀念日週末的汽油價格是四年來的最高水準。",
+      "original_title": "Memorial Day gas prices are the highest in years as Trump says he's close to a deal with Iran",
+      "url": "https://www.businessinsider.com/gas-prices-memorial-day-weekend-travel-2026-5",
+      "source": "Business Insider",
+      "domain": "businessinsider.com",
+      "published_at": "2026-05-24T19:30:26Z",
+      "importance": 50,
+      "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
         "總體",
@@ -2028,42 +2244,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "e75dd4d0a2e454c9",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "三星因員工獎金問題面臨史上最大規模罷工",
-      "summary": "三星記憶體部門報告第一季銷售額創歷史新高，但這引起了公司內部的不滿，特別是設備解決方案（DS）業務。 DS 是記憶體業務、系統 LSI（設計晶片組）和代工業務（...",
-      "original_title": "Samsung is facing the biggest worker strike in its history over employee bonuses",
-      "url": "https://www.gsmarena.com/samsung_is_facing_the_biggest_worker_strike_in_its_history_over_employee_bonuses-news-72916.php",
-      "source": "GSMArena.com",
-      "domain": "gsmarena.com",
-      "published_at": "2026-05-20T18:07:02Z",
-      "importance": 55,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "304e6e7edb6406b9",
@@ -2104,6 +2285,44 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "2c44e6051a9a09bd",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "通貨膨脹挑選",
+      "summary": "美國的通貨膨脹率很高，幾乎所有東西的價格都在快速上漲，當我們去商店時就會注意到。你知道這一點。我知道這一點。您的銀行帳戶知道這一點。但美國商務部...",
+      "original_title": "Inflation cherrypicking",
+      "url": "https://flowingdata.com/2026/05/22/inflation-cherrypicking/",
+      "source": "Flowingdata.com",
+      "domain": "flowingdata.com",
+      "published_at": "2026-05-22T09:00:46Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "a085bca8bfc7762e",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2115,6 +2334,82 @@
       "source": "Yahoo Entertainment",
       "domain": "finance.yahoo.com",
       "published_at": "2026-05-22T04:23:05Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "f244519d6449e882",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Margo Price, Brandi Carlile, Charley Crockett Nominated for 2026 Americana Honors",
+      "summary": "The nominees for the 2026 Americana Honors and Awards are out now and include Brandi Carlile, Margo Price, and Charley Crockett.",
+      "original_title": "Margo Price, Brandi Carlile, Charley Crockett Nominated for 2026 Americana Honors",
+      "url": "http://www.rollingstone.com/music/music-country/2026-americana-honors-awards-nominees-brandi-carlile-1235567124/",
+      "source": "Rolling Stone",
+      "domain": "rollingstone.com",
+      "published_at": "2026-05-21T20:29:25Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "565c519a5e93ae5a",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "專家警告男性不要將陰囊DIY成化糞池水氣球",
+      "summary": "醫生們懇求男性不要再為了社群媒體上的男子氣概而向睪丸注射各種液體，這感覺就像是一種根本不需要寫的句子。\n网络男性气质文化继续坚定地前进……",
+      "original_title": "Experts warn men not to turn scrotums into septic DIY water balloons",
+      "url": "https://boingboing.net/2026/05/21/experts-warn-men-not-to-turn-scrotums-into-septic-diy-water-balloons.html",
+      "source": "Boing Boing",
+      "domain": "boingboing.net",
+      "published_at": "2026-05-21T20:19:43Z",
       "importance": 50,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -2216,6 +2511,44 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "27b839310b93e8f8",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "AMD’s EPYC Venice Becomes Industry’s First 2nm HPC CPU To Achieve Volume Ramp As It Races Towards Agentic AI Leadership",
+      "summary": "AMD EPYC Venice CPU 進入量產，成為首款在台積電 2nm 製程技術上實現里程碑的 HPC 產品。 AMD 和台積電開始量產業界首款 2nm HPC 晶片、第六代 EPYC Venice Agentic AI 熱潮正在興起…",
+      "original_title": "AMD’s EPYC Venice Becomes Industry’s First 2nm HPC CPU To Achieve Volume Ramp As It Races Towards Agentic AI Leadership",
+      "url": "https://wccftech.com/amd-epyc-venice-industrys-first-tsmc-2nm-hpc-chip-to-achieve-volume-ramp/",
+      "source": "Wccftech",
+      "domain": "wccftech.com",
+      "published_at": "2026-05-21T14:25:04Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "dc140fa6a48628e5",
@@ -2330,304 +2663,6 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "a844d1e3fe85a9ee",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "2026 年沃爾瑪仍維持 Nvidia GeForce RTX 5070 12GB 顯示卡最低價格",
-      "summary": "亞馬遜的售價稍高一些，但你可以免費獲得一份《007 曙光》。",
-      "original_title": "Walmart Still Has the Lowest Price on an Nvidia GeForce RTX 5070 12GB Graphics Card in 2026",
-      "url": "https://www.ign.com/articles/pny-geforce-rtx-5070-graphics-card-deal-2026-includes-007-first-light",
-      "source": "IGN",
-      "domain": "ign.com",
-      "published_at": "2026-05-20T21:35:00Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "8e267d78c729eaf0",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "美國銀行在技術研討會後重申買入台積電 (TSM)",
-      "summary": "史蒂夫·科恩 (Steve Cohen) 躋身全球最富有的對沖基金經理人之列。台積電佔這位億萬富翁投資組合的1.59%份額...",
-      "original_title": "BofA Reiterates Buy on Taiwan Semiconductor (TSM) After Tech Symposium",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bofa-reiterates-buy-taiwan-semiconductor-072237772.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-05-20T07:22:37Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "537031afd827dd1f",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "川普不小心買了一家壽司店而不是一家科技公司的股票？",
-      "summary": "總統買的股票有些可疑。",
-      "original_title": "Did Trump Accidentally Buy Stock in a Sushi Restaurant Instead of a Tech Company?",
-      "url": "https://gizmodo.com/did-trump-accidentally-buy-stock-in-a-sushi-restaurant-instead-of-a-tech-company-2000761356",
-      "source": "Gizmodo.com",
-      "domain": "gizmodo.com",
-      "published_at": "2026-05-20T17:40:18Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "e859987ff584c0f4",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "(g+) 韓國商業與金融：股票市場的漲幅超過了納斯達克網路時代的漲幅",
-      "summary": "隨著人工智慧的持續發展，韓國的 Kospi 在三星和 SK 海力士的支持下在 18 個月內增長了兩倍（Wirtschaft、Börse）",
-      "original_title": "(g+) South Korean business & finance: The stock market that outpaced Nasdaq's dotcom-era gains",
-      "url": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fsouth-korean-business-finance-the-stock-market-that-outpaced-nasdaq-s-dotcom-era-gains-2605-208871.html&referer=https%3A%2F%2Ft.co%2Fb0dc57fcf7",
-      "source": "Golem.de",
-      "domain": "golem.de",
-      "published_at": "2026-05-20T13:30:02Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "6dd6211919d0e4b0",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "Marvell 技術從新的 AMD 股份中獲得提振",
-      "summary": "隨著 AMD 公佈新的 650 萬美元股份，Marvell 股價昨天上漲。但是，這是否足以保證 MRVL 股票在目前水準上增持呢？讓我們來看看。",
-      "original_title": "Marvell Technology Gets Boost From New AMD Stake",
-      "url": "https://www.barchart.com/story/news/2038142/marvell-technology-gets-boost-from-new-amd-stake",
-      "source": "Barchart.com",
-      "domain": "barchart.com",
-      "published_at": "2026-05-20T12:58:35Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "7f6a05aed3f93f31",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "美國銀行表示市場正在閃現出不為人知的賣出訊號",
-      "summary": "美國銀行指出，投資人的現金水準正在下降，這是一個反向市場訊號，顯示投資人過度看好股票。",
-      "original_title": "Bank of America says an under-the-radar sell signal is flashing in markets",
-      "url": "https://www.businessinsider.com/stock-market-outlook-sell-signal-cash-levels-bofa-equity-allocation-2026-5",
-      "source": "Business Insider",
-      "domain": "businessinsider.com",
-      "published_at": "2026-05-20T09:20:01Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "7cd04f5499820846",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "天然氣和電費下降推動英國通膨率降至 2.8%",
-      "summary": "由於政府的能源法案支持計劃和伊朗戰爭前較低的批發價格，能源價格較低。",
-      "original_title": "Lower gas and electricity bills behind UK inflation fall to 2.8%",
-      "url": "https://www.bbc.com/news/articles/c4g0e0p4p2go",
-      "source": "BBC News",
-      "domain": "bbc.com",
-      "published_at": "2026-05-20T07:28:45Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "ac4f66f93382af38",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "深度學習框架揭示細胞層面的全身擾動",
-      "summary": "使用 MouseMapper（一套基於基礎模型的深度學習演算法）對飲食引起的肥胖進行分析，並識別出三叉神經節眶下分支的結構變化。",
-      "original_title": "A deep-learning framework reveals whole-body perturbations at cell level",
-      "url": "https://www.nature.com/articles/s41586-026-10535-2",
-      "source": "Nature.com",
-      "domain": "nature.com",
-      "published_at": "2026-05-20T00:00:00Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     }
   ]
 }
