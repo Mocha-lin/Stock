@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-05-28T00:01:21.294406+00:00
+> 更新時間：2026-05-28T05:04:32.676208+00:00
 
 ### ⚖️ 165 億美元的賭注：到 2030 年，共同封裝的光學元件將如何重新連接人工智慧的骨幹
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -10,30 +10,12 @@
 
 ---
 
-### 🚀 華為瞄準AI光網路投資InP晶片新創公司
+### 🚀 Aixtron 贏得 Lumentum G10-AsP 系統訂單，以擴大 InP 生產
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
-- **來源**: Digitimes (2026-05-25T02:32:08Z)
+- **來源**: Digitimes (2026-05-27T01:11:22Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 隨著人工智慧資料中心需求的不斷增長，加速全球光通訊產業的升級，華為透過對磷化銦（InP）光晶片新創公司的新投資，進一步向人工智慧光網路和矽光子（SiPh）領域拓展。
-- [原文連結](https://www.digitimes.com/news/a20260525PD209/huawei-siph-optical-components-investment-startup.html)
-
----
-
-### 🚀 隨著 CPO 競賽轉向系統集成，FII 挑戰博通和 Nvidia
-- **題材**: `光通訊與矽光子` | **重要性**: `78`
-- **來源**: Digitimes (2026-05-21T00:14:25Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 隨著AI運算需求持續呈指數級增長，資料中心網路架構升級壓力日益增加。共封裝光學（CPO）正在從概念走向實際部署，富士康工業互聯網（FII）正在悄悄建立…
-- [原文連結](https://www.digitimes.com/news/a20260520PD237/cpo-fii-nvidia-broadcom-demand.html)
-
----
-
-### ⚖️ 台積電推出 COUPE 讓三星的矽光子野心面臨壓力
-- **題材**: `光通訊與矽光子` | **重要性**: `78`
-- **來源**: Digitimes (2026-05-21T00:13:27Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 三星電子已推出矽光子代工服務並進入試生產，在最新的財報電話會議上表示，在積極投資的支持下，光通訊模組很快就會進入大規模生產。然而相比...
-- [原文連結](https://www.digitimes.com/news/a20260520PD215/samsung-silicon-photonics-tsmc-production.html)
+- **摘要**: Aixtron 已收到 Lumentum 的多份 G10-AsP MOCVD 系統訂單，此舉可能會促進全球 800G 及以上磷化銦 (InP) 雷射和偵測器的生產。該交易凸顯了對高速光纖互通不斷增長的需求…
+- [原文連結](https://www.digitimes.com/news/a20260527PR201/aixtron-laser-mocvd-demand-production.html)
 
 ---
 
@@ -64,6 +46,15 @@
 
 ---
 
+### 🚀 華為瞄準AI光網路投資InP晶片新創公司
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-05-25T02:32:08Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 隨著人工智慧資料中心需求的不斷增長，加速全球光通訊產業的升級，華為透過對磷化銦（InP）光晶片新創公司的新投資，進一步向人工智慧光網路和矽光子（SiPh）領域拓展。
+- [原文連結](https://www.digitimes.com/news/a20260525PD209/huawei-siph-optical-components-investment-startup.html)
+
+---
+
 ### ⚖️ TSMC supply chain material maker AMC rides AI packaging yield boom
 - **題材**: `半導體先進製程` | **重要性**: `73`
 - **來源**: Digitimes (2026-05-22T01:30:50Z)
@@ -73,12 +64,21 @@
 
 ---
 
-### ⚖️ Nvidia 價格與 Blackwell、Vera CPU 和 Rubin 的 AI 工廠競爭中出局
-- **題材**: `AI伺服器` | **重要性**: `73`
-- **來源**: Digitimes (2026-05-21T02:14:17Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Nvidia 在 2026 年 5 月 20 日舉行的 2027 財年第一季財報電話會議上製定了三層矽生產節奏，這應該會讓任何競爭對手的路線圖顯得單薄：該公司稱 Blackwell 坡道是其歷史上最快的，是第一個生產矽…
-- [原文連結](https://www.digitimes.com/news/a20260521VL202/nvidia-rubin-blackwell-cpu-revenue.html)
+### 🚀 隨著 CPO 競賽轉向系統集成，FII 挑戰博通和 Nvidia
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-05-21T00:14:25Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 隨著AI運算需求持續呈指數級增長，資料中心網路架構升級壓力日益增加。共封裝光學（CPO）正在從概念走向實際部署，富士康工業互聯網（FII）正在悄悄建立…
+- [原文連結](https://www.digitimes.com/news/a20260520PD237/cpo-fii-nvidia-broadcom-demand.html)
+
+---
+
+### ⚖️ 台積電推出 COUPE 讓三星的矽光子野心面臨壓力
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-05-21T00:13:27Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 三星電子已推出矽光子代工服務並進入試生產，在最新的財報電話會議上表示，在積極投資的支持下，光通訊模組很快就會進入大規模生產。然而相比...
+- [原文連結](https://www.digitimes.com/news/a20260520PD215/samsung-silicon-photonics-tsmc-production.html)
 
 ---
 
@@ -100,6 +100,15 @@
 
 ---
 
+### 🚀 所有人都在關注 NVIDIA 的同時，5 隻股票在人工智慧競賽中獲勝
+- **題材**: `光通訊與矽光子` | **重要性**: `70`
+- **來源**: MarketBeat (2026-05-26T13:40:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 真正的人工智慧成長故事已經轉向實體基礎設施。 TradeSmith 的 Keith Kaplan 確定了 5 隻股票，涉及記憶體、光子學、冷卻、電力和…
+- [原文連結](https://www.marketbeat.com/stock-ideas/5-stocks-winning-the-ai-race-while-everyone-watches-nvidia/?utm_source=yahoofinance&amp;utm_medium=yahoofinance)
+
+---
+
 ### ⚖️ SK 海力士尋求在 HBM 內嵌入冷卻裝置以應對熱量
 - **題材**: `HBM記憶體` | **重要性**: `68`
 - **來源**: Digitimes (2026-05-26T23:34:55Z)
@@ -118,12 +127,12 @@
 
 ---
 
-### ⚖️ 據報道 SK 海力士將清州掩模廠轉向 HBM 產量提升
-- **題材**: `HBM記憶體` | **重要性**: `68`
-- **來源**: Digitimes (2026-05-21T04:50:38Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 據報導，SK 海力士正在圍繞晶圓測試重塑其清州園區的部分區域，這一轉變凸顯出高頻寬記憶體（HBM）給晶片製造流程的後端帶來了新的壓力。
-- [原文連結](https://www.digitimes.com/news/a20260521VL210/sk-hynix-hbm-fab-packaging-wafer.html)
+### ⚖️ Nvidia 價格與 Blackwell、Vera CPU 和 Rubin 的 AI 工廠競爭中出局
+- **題材**: `AI伺服器` | **重要性**: `68`
+- **來源**: Digitimes (2026-05-21T02:14:17Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Nvidia 在 2026 年 5 月 20 日舉行的 2027 財年第一季財報電話會議上製定了三層矽生產節奏，這應該會讓任何競爭對手的路線圖顯得單薄：該公司稱 Blackwell 坡道是其歷史上最快的，是第一個生產矽…
+- [原文連結](https://www.digitimes.com/news/a20260521VL202/nvidia-rubin-blackwell-cpu-revenue.html)
 
 ---
 
@@ -142,15 +151,6 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 該公司還希望將 Powertech 的 FOPLP 先進封裝技術以及下一代 3D V-Cache 整合到 Zen 7 架構中。在 TweakTown 繼續閱讀
 - [原文連結](https://www.tweaktown.com/news/111809/amds-zen-7-grimlock-cpus-will-reportedly-utilize-tsmcs-1-4nm-a14-node-and-advanced-packaging/index.html)
-
----
-
-### ⚖️ IREN 執行長剛剛說了 11 句話，為人工智慧熱潮帶來了殘酷的現實檢驗
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: 24/7 Wall St. (2026-05-25T14:28:35Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 人工智慧的繁榮拉開了自早期網路時代以來最大規模的基礎設施競賽之一。 Nvidia（納斯達克股票代碼：NVDA）GPU 正在銷售...
-- [原文連結](https://247wallst.com/investing/2026/05/25/irens-ceo-just-said-11-words-that-delivered-the-ai-boom-a-brutal-reality-check/)
 
 ---
 
