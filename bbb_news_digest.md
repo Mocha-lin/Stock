@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-05-28T05:04:32.676208+00:00
+> 更新時間：2026-05-28T08:57:27.999703+00:00
 
 ### ⚖️ 165 億美元的賭注：到 2030 年，共同封裝的光學元件將如何重新連接人工智慧的骨幹
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -34,15 +34,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 隨著人工智慧資料中心不斷增長的功率和頻寬需求，矽光子學 (SiPh) 成為潛在的下一個合作領域，韓國和荷蘭正在尋求將半導體合作夥伴關係擴大到 ASML 的 EUV 微影機之外。
 - [原文連結](https://www.digitimes.com/news/a20260525VL212/south-korea-netherlands-asml-samsung-siph.html)
-
----
-
-### 🚀 超越矽谷：泛林資本創業大賽走向全球
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-05-25T08:00:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Lam Research 旗下 Lam Capital 最近舉辦了第四屆創業大賽，吸引了來自美國、韓國、新加坡、印度和台灣的團隊爭奪豐厚的獎金。美国初创公司 Lightfinder 凭借一项以硅光子为中心的提案赢得了最高奖项……
-- [原文連結](https://www.digitimes.com/news/a20260525PD228/startup-lam-research-silicon-valley-competition-taiwan.html)
 
 ---
 
@@ -100,21 +91,21 @@
 
 ---
 
-### 🚀 所有人都在關注 NVIDIA 的同時，5 隻股票在人工智慧競賽中獲勝
-- **題材**: `光通訊與矽光子` | **重要性**: `70`
-- **來源**: MarketBeat (2026-05-26T13:40:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 真正的人工智慧成長故事已經轉向實體基礎設施。 TradeSmith 的 Keith Kaplan 確定了 5 隻股票，涉及記憶體、光子學、冷卻、電力和…
-- [原文連結](https://www.marketbeat.com/stock-ideas/5-stocks-winning-the-ai-race-while-everyone-watches-nvidia/?utm_source=yahoofinance&amp;utm_medium=yahoofinance)
-
----
-
 ### ⚖️ SK 海力士尋求在 HBM 內嵌入冷卻裝置以應對熱量
 - **題材**: `HBM記憶體` | **重要性**: `68`
 - **來源**: Digitimes (2026-05-26T23:34:55Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: SK 海力士推出了一種新的高頻寬記憶體技術，旨在減少下一代人工智慧系統中的熱量積聚，因為計算密度的提高使熱管理成為 HBM 供應商更加關鍵的前沿。
 - [原文連結](https://www.digitimes.com/news/a20260526VL211/sk-hynix-technology-hbm-cooling-chips.html)
+
+---
+
+### 🚀 超越矽谷：泛林資本創業大賽走向全球
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-05-25T08:00:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Lam Research 旗下 Lam Capital 最近舉辦了第四屆創業大賽，吸引了來自美國、韓國、新加坡、印度和台灣的團隊爭奪豐厚的獎金。美国初创公司 Lightfinder 凭借一项以硅光子为中心的提案赢得了最高奖项……
+- [原文連結](https://www.digitimes.com/news/a20260525PD228/startup-lam-research-silicon-valley-competition-taiwan.html)
 
 ---
 
@@ -178,6 +169,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 黃仁勳在本週訪問台灣期間提出了一系列廣泛的問題，涉及中國市場准入、內存成本上漲、矽光子、LPU 與 GPU 的爭論以及人工智能代理的未來，同時明確表示 Nvidia 的承諾…
 - [原文連結](https://www.digitimes.com/news/a20260523PD201/jensen-huang-taiwan-claude-nvidia-silicon.html)
+
+---
+
+### ⚖️ 黃仁勳登陸台灣，稱 Vera Rubin 是電腦史上最大的產品提升
+- **題材**: `AI伺服器` | **重要性**: `63`
+- **來源**: Digitimes (2026-05-23T12:54:43Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Nvidia CEO Jensen Huang arrived in Taiwan on May 23 ahead of COMPUTEX, telling reporters that the company's next-generation AI server platform — codenamed Vera Rubin — will be the most successful product generation in Nvidia's history and potentially the larg…
+- [原文連結](https://www.digitimes.com/news/a20260523PD200/nvidia-taiwan-jensen-huang-rubin-ceo.html)
 
 ---
 
