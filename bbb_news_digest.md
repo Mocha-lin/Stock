@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-05-29T08:54:30.838408+00:00
+> 更新時間：2026-05-29T12:15:58.805230+00:00
 
 ### ⚖️ Marvell 擴展矽光子、交換和互連路線圖
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -10,21 +10,21 @@
 
 ---
 
+### 🚀 Marvell 2027 年第一季收益因人工智慧資料中心需求而成長
+- **題材**: `光通訊與矽光子` | **重要性**: `80`
+- **來源**: Quartz India (2026-05-28T11:51:48Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 這家晶片製造商公佈的季度營收為創紀錄的 24.2 億美元，下個季度的預期營收為 27 億美元，理由是 AI 相關訂單異常旺盛
+- [原文連結](https://qz.com/marvell-stock-earnings-ai-data-center-revenue-052826)
+
+---
+
 ### ⚖️ 165 億美元的賭注：到 2030 年，共同封裝的光學元件將如何重新連接人工智慧的骨幹
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
 - **來源**: Digitimes (2026-05-26T08:47:51Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 隨著人工智慧叢集不斷規模化，傳統互連架構在頻寬、能源效率和系統整合方面面臨新的限制。共封裝光學正成為下一代人工智慧基礎設施、重塑的關鍵技術路徑…
 - [原文連結](https://www.digitimes.com/reports/item.php?id=20260521RS400)
-
----
-
-### 🚀 聯電準備漲價，啟動 2027 年客戶洽談
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-05-27T23:53:29Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 聯華電子5月27日召開股東大會，執行長王傑表示，隨著AI應用快速擴展，長期半導體需求仍有成長空間。除了深化其在成熟和專業工藝方面的優勢外，聯華電子還…
-- [原文連結](https://www.digitimes.com/news/a20260527PD242/umc-2027-price-demand-ceo.html)
 
 ---
 
@@ -52,15 +52,6 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 該協議將三星半導體部門營業利潤的 10.5% 作為股票獎金。
 - [原文連結](https://www.tomshardware.com/tech-industry/samsung-chip-workers-vote-to-accept-340000-average-bonus-ending-months-long-strike-threat)
-
----
-
-### ⚖️ SK 海力士推出「iHBM」熱架構，從源頭冷卻 AI 記憶體——HBM 介面內的整合式冷卻元件將熱阻降低 30%，目標是下一代 HBM5 加速器和密集的 AI 資料中心
-- **題材**: `HBM記憶體` | **重要性**: `72`
-- **來源**: Tom's Hardware UK (2026-05-26T11:49:14Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: SK海力士推出了iHBM，這是一種新型熱封裝架構，可將冷卻元件直接嵌入到HBM界面層中，將熱阻降低30%，並幫助未來的人工智慧加速器避免影響性能的熱節流。
-- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-unveils-ihbm-thermal-architecture-that-cools-ai-memory-at-the-source-integrated-cooling-elements-inside-hbm-interface-cut-thermal-resistance-by-30-percent-target-next-gen-hbm5-accelerators-and-dense-ai-data-centers)
 
 ---
 
@@ -100,21 +91,21 @@
 
 ---
 
-### 🚀 超越矽谷：泛林資本創業大賽走向全球
-- **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-05-25T08:00:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Lam Research 旗下 Lam Capital 最近舉辦了第四屆創業大賽，吸引了來自美國、韓國、新加坡、印度和台灣的團隊爭奪豐厚的獎金。美国初创公司 Lightfinder 凭借一项以硅光子为中心的提案赢得了最高奖项……
-- [原文連結](https://www.digitimes.com/news/a20260525PD228/startup-lam-research-silicon-valley-competition-taiwan.html)
-
----
-
 ### ⚖️ TSMC supply chain material maker AMC rides AI packaging yield boom
 - **題材**: `半導體先進製程` | **重要性**: `68`
 - **來源**: Digitimes (2026-05-22T01:30:50Z)
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 台灣先進半導體材料供應商聯盟材料公司（AMC）表示，隨著AI晶片需求的推動，其平衡膜防翹曲材料已進入客戶驗證，預計於2026年下半年開始量產。
 - [原文連結](https://www.digitimes.com/news/a20260522PD201/materials-tsmc-packaging-production-2026.html)
+
+---
+
+### ⚖️ SK 海力士推出「iHBM」熱架構，從源頭冷卻 AI 記憶體——HBM 介面內的整合式冷卻元件將熱阻降低 30%，目標是下一代 HBM5 加速器和密集的 AI 資料中心
+- **題材**: `HBM記憶體` | **重要性**: `67`
+- **來源**: Tom's Hardware UK (2026-05-26T11:49:14Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: SK海力士推出了iHBM，這是一種新型熱封裝架構，可將冷卻元件直接嵌入到HBM界面層中，將熱阻降低30%，並幫助未來的人工智慧加速器避免影響性能的熱節流。
+- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-unveils-ihbm-thermal-architecture-that-cools-ai-memory-at-the-source-integrated-cooling-elements-inside-hbm-interface-cut-thermal-resistance-by-30-percent-target-next-gen-hbm5-accelerators-and-dense-ai-data-centers)
 
 ---
 
@@ -133,15 +124,6 @@
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: IREN 揭露了與戴爾簽訂的價值 16 億美元的採購協議，購買風冷 Blackwell 系統，並將其運往德克薩斯州 Childress 園區。該公司表示...
 - [原文連結](https://blockspace.media/insight/iren-signs-dell-blackwell-deal-childress-texas/)
-
----
-
-### ⚖️ Cloud-flation: Dell's On-Premise AI Bet Pays Off
-- **題材**: `AI伺服器` | **重要性**: `65`
-- **來源**: MarketBeat (2026-05-26T11:55:00Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 戴爾科技集團透過在全球範圍內提供強大的在地化人工智慧基礎設施來推動企業硬體轉型。
-- [原文連結](https://www.marketbeat.com/originals/cloud-flation-dells-on-premise-ai-bet-pays-off/?utm_source=yahoofinance&amp;utm_medium=yahoofinance)
 
 ---
 
@@ -172,12 +154,30 @@
 
 ---
 
+### 🚀 在達成 1.3B 美元矽光子學協議後，Tower Semiconductor Ltd. (TSEM) 是否會成為頂級半導體成長股？
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-05-28T11:33:41Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 我們最近編制了一份 12 檔最值得立即投資的強力買進科技股的清單。 Tower Semiconductor Ltd.（納斯達克股票代碼：TSEM）是最好的強力買入公司之一...
+- [原文連結](https://finance.yahoo.com/sectors/technology/articles/tower-semiconductor-ltd-tsem-top-113341549.html)
+
+---
+
 ### ⚖️ AuthenX to Unveil Detachable 2D FAU Technology at COMPUTEX 2026, Eliminating the Optical Packaging Bottleneck for Next-Gen AI and HPC Clusters
 - **題材**: `光通訊與矽光子` | **重要性**: `60`
 - **來源**: PRNewswire (2026-05-28T06:00:00Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: AuthenX 將 12 吋 CMOS 元件整合到多行 2D 陣列中，提供超低損耗和高對準容差，可無縫擴展 3.2T 至 12.8T CPO 部署。台北，2026 年 5 月 28 日 /美通社/ -- AuthenX Inc.，高速…的領先創新者
 - [原文連結](https://www.prnewswire.com/news-releases/authenx-to-unveil-detachable-2d-fau-technology-at-computex-2026-eliminating-the-optical-packaging-bottleneck-for-next-gen-ai-and-hpc-clusters-302784012.html)
+
+---
+
+### ⚖️ Marvell Technology, Inc. 2027 年第一季財報電話會議摘要
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: Moby.co (2026-05-28T00:18:16Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Moby 對 Marvell Technology, Inc. 2027 年第一季財報電話會議的摘要
+- [原文連結](https://app.moby.co/home/research/tools/earningsCalendar/earnings-marvell-technology-inc-q1-2027-earnings-call-summary?utm_source=yahoo_finance&amp;utm_medium=rss)
 
 ---
 

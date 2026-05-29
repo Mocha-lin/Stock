@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-05-29T08:54:30.838408+00:00",
+  "generated_at": "2026-05-29T12:15:58.805230+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 73,
@@ -44,6 +44,44 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
+      "id": "6a0fa7c8fcb2fefb",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "Marvell 2027 年第一季收益因人工智慧資料中心需求而成長",
+      "summary": "這家晶片製造商公佈的季度營收為創紀錄的 24.2 億美元，下個季度的預期營收為 27 億美元，理由是 AI 相關訂單異常旺盛",
+      "original_title": "Marvell Q1 2027 earnings beat on AI data center demand",
+      "url": "https://qz.com/marvell-stock-earnings-ai-data-center-revenue-052826",
+      "source": "Quartz India",
+      "domain": "qz.com",
+      "published_at": "2026-05-28T11:51:48Z",
+      "importance": 80,
+      "impact": "positive",
+      "timeframe": "short_to_mid_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
       "id": "59102f3bb3d74686",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -80,44 +118,6 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
-      "id": "d0846bf41e160af3",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "聯電準備漲價，啟動 2027 年客戶洽談",
-      "summary": "聯華電子5月27日召開股東大會，執行長王傑表示，隨著AI應用快速擴展，長期半導體需求仍有成長空間。除了深化其在成熟和專業工藝方面的優勢外，聯華電子還…",
-      "original_title": "UMC readies price hikes, kicks off 2027 customer talks",
-      "url": "https://www.digitimes.com/news/a20260527PD242/umc-2027-price-demand-ceo.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-05-27T23:53:29Z",
-      "importance": 73,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "dbb1296f51a665aa",
@@ -207,41 +207,6 @@
       "source": "Tom's Hardware UK",
       "domain": "tomshardware.com",
       "published_at": "2026-05-27T10:56:23Z",
-      "importance": 72,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
-      "id": "da53e43115aa6281",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "SK 海力士推出「iHBM」熱架構，從源頭冷卻 AI 記憶體——HBM 介面內的整合式冷卻元件將熱阻降低 30%，目標是下一代 HBM5 加速器和密集的 AI 資料中心",
-      "summary": "SK海力士推出了iHBM，這是一種新型熱封裝架構，可將冷卻元件直接嵌入到HBM界面層中，將熱阻降低30%，並幫助未來的人工智慧加速器避免影響性能的熱節流。",
-      "original_title": "SK hynix unveils 'iHBM' thermal architecture that cools AI memory at the source — integrated cooling elements inside HBM interface cut thermal resistance by 30%, target next-gen HBM5 accelerators and dense AI data centers",
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-unveils-ihbm-thermal-architecture-that-cools-ai-memory-at-the-source-integrated-cooling-elements-inside-hbm-interface-cut-thermal-resistance-by-30-percent-target-next-gen-hbm5-accelerators-and-dense-ai-data-centers",
-      "source": "Tom's Hardware UK",
-      "domain": "tomshardware.com",
-      "published_at": "2026-05-26T11:49:14Z",
       "importance": 72,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -415,44 +380,6 @@
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "cc491a77ea35e7f0",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "超越矽谷：泛林資本創業大賽走向全球",
-      "summary": "Lam Research 旗下 Lam Capital 最近舉辦了第四屆創業大賽，吸引了來自美國、韓國、新加坡、印度和台灣的團隊爭奪豐厚的獎金。美国初创公司 Lightfinder 凭借一项以硅光子为中心的提案赢得了最高奖项……",
-      "original_title": "Beyond Silicon Valley: Lam Capital's startup contest goes global",
-      "url": "https://www.digitimes.com/news/a20260525PD228/startup-lam-research-silicon-valley-competition-taiwan.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-05-25T08:00:00Z",
-      "importance": 68,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "d22e093b4bdd004d",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -489,6 +416,41 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "da53e43115aa6281",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "SK 海力士推出「iHBM」熱架構，從源頭冷卻 AI 記憶體——HBM 介面內的整合式冷卻元件將熱阻降低 30%，目標是下一代 HBM5 加速器和密集的 AI 資料中心",
+      "summary": "SK海力士推出了iHBM，這是一種新型熱封裝架構，可將冷卻元件直接嵌入到HBM界面層中，將熱阻降低30%，並幫助未來的人工智慧加速器避免影響性能的熱節流。",
+      "original_title": "SK hynix unveils 'iHBM' thermal architecture that cools AI memory at the source — integrated cooling elements inside HBM interface cut thermal resistance by 30%, target next-gen HBM5 accelerators and dense AI data centers",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-unveils-ihbm-thermal-architecture-that-cools-ai-memory-at-the-source-integrated-cooling-elements-inside-hbm-interface-cut-thermal-resistance-by-30-percent-target-next-gen-hbm5-accelerators-and-dense-ai-data-centers",
+      "source": "Tom's Hardware UK",
+      "domain": "tomshardware.com",
+      "published_at": "2026-05-26T11:49:14Z",
+      "importance": 67,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "fdc179a0f18f7b9c",
@@ -537,44 +499,6 @@
       "source": "Blockspace.media",
       "domain": "blockspace.media",
       "published_at": "2026-05-27T12:24:56Z",
-      "importance": 65,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "fed775831a5614b9",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Cloud-flation: Dell's On-Premise AI Bet Pays Off",
-      "summary": "戴爾科技集團透過在全球範圍內提供強大的在地化人工智慧基礎設施來推動企業硬體轉型。",
-      "original_title": "Cloud-flation: Dell's On-Premise AI Bet Pays Off",
-      "url": "https://www.marketbeat.com/originals/cloud-flation-dells-on-premise-ai-bet-pays-off/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
-      "source": "MarketBeat",
-      "domain": "marketbeat.com",
-      "published_at": "2026-05-26T11:55:00Z",
       "importance": 65,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -716,6 +640,44 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "99c0ebd968257a66",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "在達成 1.3B 美元矽光子學協議後，Tower Semiconductor Ltd. (TSEM) 是否會成為頂級半導體成長股？",
+      "summary": "我們最近編制了一份 12 檔最值得立即投資的強力買進科技股的清單。 Tower Semiconductor Ltd.（納斯達克股票代碼：TSEM）是最好的強力買入公司之一...",
+      "original_title": "Is Tower Semiconductor Ltd. (TSEM) a Top Semiconductor Growth Stock After $1.3B Silicon Photonics Agreements?",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/tower-semiconductor-ltd-tsem-top-113341549.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-05-28T11:33:41Z",
+      "importance": 60,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "5ae4e2c1569f3ae7",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -727,6 +689,44 @@
       "source": "PRNewswire",
       "domain": "prnewswire.com",
       "published_at": "2026-05-28T06:00:00Z",
+      "importance": 60,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "c8ea10fa8244944f",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "Marvell Technology, Inc. 2027 年第一季財報電話會議摘要",
+      "summary": "Moby 對 Marvell Technology, Inc. 2027 年第一季財報電話會議的摘要",
+      "original_title": "Marvell Technology, Inc. Q1 2027 Earnings Call Summary",
+      "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-marvell-technology-inc-q1-2027-earnings-call-summary?utm_source=yahoo_finance&amp;utm_medium=rss",
+      "source": "Moby.co",
+      "domain": "app.moby.co",
+      "published_at": "2026-05-28T00:18:16Z",
       "importance": 60,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -1128,29 +1128,32 @@
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "3532559cfa5bb048",
+      "id": "fed775831a5614b9",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "DRAM 49% 的韓國權重意味著一半基金在紐約休市期間進行交易",
-      "summary": "韓國有兩家大型記憶體公司：三星和SK海力士。與此同時，Roundhill Memory ETF (BATS:DRAM) 做了熱門發布所做的事情：撕裂。該基金是...",
-      "original_title": "DRAM’s 49 Percent Korea Weighting Means Half the Fund Trades While New York Is Closed",
-      "url": "https://247wallst.com/investing/2026/05/26/drams-49-percent-korea-weighting-means-half-the-fund-trades-while-new-york-is-closed/",
-      "source": "24/7 Wall St.",
-      "domain": "247wallst.com",
-      "published_at": "2026-05-26T11:40:35Z",
+      "theme": "AI伺服器",
+      "title": "Cloud-flation: Dell's On-Premise AI Bet Pays Off",
+      "summary": "戴爾科技集團透過在全球範圍內提供強大的在地化人工智慧基礎設施來推動企業硬體轉型。",
+      "original_title": "Cloud-flation: Dell's On-Premise AI Bet Pays Off",
+      "url": "https://www.marketbeat.com/originals/cloud-flation-dells-on-premise-ai-bet-pays-off/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
+      "source": "MarketBeat",
+      "domain": "marketbeat.com",
+      "published_at": "2026-05-26T11:55:00Z",
       "importance": 60,
-      "impact": "positive",
+      "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "HBM",
-        "記憶體"
+        "AI",
+        "伺服器",
+        "資料中心"
       ],
       "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
       ],
       "related_models": [
         "003",
@@ -1160,45 +1163,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "4e9c3dd2e39e7d88",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "最高法院向川普贈送了一輛關稅金戰車——現在他只需要接受它",
-      "summary": "最高法院否决了特朗普的 IEEPA 关税，并可能意外地提升了他的经济总统地位。 The exit ramp is in sight.",
-      "original_title": "The Supreme Court handed Trump a Golden Chariot on tariffs — now he just has to take it",
-      "url": "https://finance.yahoo.com/economy/policy/articles/supreme-court-handed-trump-golden-103000277.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-05-26T10:30:00Z",
-      "importance": 60,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "96fc18a78c5f912b",
@@ -1389,44 +1354,6 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "152879482d63a8b0",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "Elon 和 SpaceX 將 AI 訓練速度提高了 10 倍",
-      "summary": "Elon 表示，SpaceX 使用 C 程式語言從頭開始建立了自己的超級優化人工智慧訓練軟體。它比 Google JAX 框架快 10 倍。它設計為在由 220,000 個尖端 NVIDIA GB300 GPU 連接組成的龐大叢集上運行…",
-      "original_title": "Elon and SpaceX Have Made AI Training 10 Times Faster",
-      "url": "https://www.nextbigfuture.com/2026/05/elon-and-spacex-have-made-ai-training-10-times-faster.html",
-      "source": "Next Big Future",
-      "domain": "nextbigfuture.com",
-      "published_at": "2026-05-28T07:26:13Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "1c1fb0ecccd614d1",
@@ -1911,32 +1838,29 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "b13fdcd544ab3822",
+      "id": "3532559cfa5bb048",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "《帕丁頓熊 4》：阿曼多·伊安努奇和西蒙·布萊克威爾確認為下一部受邁克爾·邦德兒童經典啟發的故事片聯合編劇",
-      "summary": "阿曼多·伊安努奇 (Amando Iannucci) 已被确认与长期合作者西蒙·布莱克威尔 (S​​imon Blackwell) 共同担任《帕丁顿熊 4》的联合编剧。 Studiocanal 首席执行官安娜·马什 (Anna Marsh) 在 4 月份的 CinemaCon 上首次透露了这部票房 7 亿美元的家庭电影系列中的第四部影片。 ……",
-      "original_title": "‘Paddington 4’: Armando Iannucci & Simon Blackwell Confirmed As Co-Writers On Next Feature Inspired By Michael Bond’s Children’s Classic",
-      "url": "http://deadline.com/2026/05/paddington-4-armando-iannucci-simon-blackwell-cowriters-1236920812/",
-      "source": "Deadline",
-      "domain": "deadline.com",
-      "published_at": "2026-05-26T10:20:32Z",
+      "theme": "HBM記憶體",
+      "title": "DRAM 49% 的韓國權重意味著一半基金在紐約休市期間進行交易",
+      "summary": "韓國有兩家大型記憶體公司：三星和SK海力士。與此同時，Roundhill Memory ETF (BATS:DRAM) 做了熱門發布所做的事情：撕裂。該基金是...",
+      "original_title": "DRAM’s 49 Percent Korea Weighting Means Half the Fund Trades While New York Is Closed",
+      "url": "https://247wallst.com/investing/2026/05/26/drams-49-percent-korea-weighting-means-half-the-fund-trades-while-new-york-is-closed/",
+      "source": "24/7 Wall St.",
+      "domain": "247wallst.com",
+      "published_at": "2026-05-26T11:40:35Z",
       "importance": 55,
-      "impact": "neutral",
+      "impact": "positive",
       "timeframe": "short_term",
       "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
+        "HBM",
+        "記憶體"
       ],
       "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
       ],
       "related_models": [
         "003",
@@ -1946,35 +1870,35 @@
         "009",
         "010"
       ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "70a4dbe9e7a2c10c",
+      "id": "4e9c3dd2e39e7d88",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "vivo X500 Pro的相機規格曝光",
-      "summary": "有關vivo即將推出的X500系列的新細節已經在網路上浮出水面。這次，洩漏的焦點是vivo X500 Pro，預計它將對其後置相機設定進行重大修改。\n\n據爆料者數位聊天站稱，vivo X500 Pro 可能具有…",
-      "original_title": "vivo X500 Pro's camera specifications tipped",
-      "url": "https://www.gsmarena.com/vivo_x500_pros_camera_specifications_tipped-news-72992.php",
-      "source": "GSMArena.com",
-      "domain": "gsmarena.com",
-      "published_at": "2026-05-26T09:03:02Z",
+      "theme": "總體風險",
+      "title": "最高法院向川普贈送了一輛關稅金戰車——現在他只需要接受它",
+      "summary": "最高法院否决了特朗普的 IEEPA 关税，并可能意外地提升了他的经济总统地位。 The exit ramp is in sight.",
+      "original_title": "The Supreme Court handed Trump a Golden Chariot on tariffs — now he just has to take it",
+      "url": "https://finance.yahoo.com/economy/policy/articles/supreme-court-handed-trump-golden-103000277.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-05-26T10:30:00Z",
       "importance": 55,
-      "impact": "neutral",
+      "impact": "negative",
       "timeframe": "short_term",
       "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
       ],
       "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
       ],
       "related_models": [
         "003",
@@ -1984,7 +1908,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "c405d4683b1919a1",
@@ -2326,18 +2250,18 @@
       "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "93f6155e373c2b93",
+      "id": "b13fdcd544ab3822",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "AI伺服器",
-      "title": "2026年印尼中興日加強AI創新與數位基礎設施合作，加速印尼數位轉型",
-      "summary": "年度技術展示重點展示下一代人工智慧、雲端和麵向未來的 ICT 解決方案，同時聯合生態系統合作夥伴為國家人工智慧時代奠定基礎",
-      "original_title": "ZTE Day Indonesia 2026 strengthens AI innovation and digital infrastructure collaboration to accelerate Indonesia's digital transformation",
-      "url": "https://www.theregister.com/networks/2026/05/22/zte-day-indonesia-2026-strengthens-ai-innovation-and-digital-infrastructure-collaboration-to-accelerate-indonesias-digital-transformation/5245048",
-      "source": "Theregister.com",
-      "domain": "theregister.com",
-      "published_at": "2026-05-22T12:04:52Z",
-      "importance": 55,
+      "title": "《帕丁頓熊 4》：阿曼多·伊安努奇和西蒙·布萊克威爾確認為下一部受邁克爾·邦德兒童經典啟發的故事片聯合編劇",
+      "summary": "阿曼多·伊安努奇 (Amando Iannucci) 已被确认与长期合作者西蒙·布莱克威尔 (S​​imon Blackwell) 共同担任《帕丁顿熊 4》的联合编剧。 Studiocanal 首席执行官安娜·马什 (Anna Marsh) 在 4 月份的 CinemaCon 上首次透露了这部票房 7 亿美元的家庭电影系列中的第四部影片。 ……",
+      "original_title": "‘Paddington 4’: Armando Iannucci & Simon Blackwell Confirmed As Co-Writers On Next Feature Inspired By Michael Bond’s Children’s Classic",
+      "url": "http://deadline.com/2026/05/paddington-4-armando-iannucci-simon-blackwell-cowriters-1236920812/",
+      "source": "Deadline",
+      "domain": "deadline.com",
+      "published_at": "2026-05-26T10:20:32Z",
+      "importance": 50,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -2364,18 +2288,18 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "32fa09f8b8859f30",
+      "id": "70a4dbe9e7a2c10c",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "半導體先進製程",
-      "title": "目前的人工智慧定價總是會消失",
-      "summary": "目前的人工智慧定價總是會消失。這根本沒有意義。微軟本週取消了內部 Claude Code 許可證（無論出於何種原因，即使是因為他們集成了它），Uber 在四個月內耗盡了其 2026 年全部人工智能預算，並且…",
-      "original_title": "The current AI pricing was always going to go away",
-      "url": "https://arnon.dk/the-current-ai-pricing-was-always-going-to-go-away/",
-      "source": "Arnon.dk",
-      "domain": "arnon.dk",
-      "published_at": "2026-05-22T11:24:53Z",
-      "importance": 55,
+      "title": "vivo X500 Pro的相機規格曝光",
+      "summary": "有關vivo即將推出的X500系列的新細節已經在網路上浮出水面。這次，洩漏的焦點是vivo X500 Pro，預計它將對其後置相機設定進行重大修改。\n\n據爆料者數位聊天站稱，vivo X500 Pro 可能具有…",
+      "original_title": "vivo X500 Pro's camera specifications tipped",
+      "url": "https://www.gsmarena.com/vivo_x500_pros_camera_specifications_tipped-news-72992.php",
+      "source": "GSMArena.com",
+      "domain": "gsmarena.com",
+      "published_at": "2026-05-26T09:03:02Z",
+      "importance": 50,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -2665,6 +2589,82 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "93f6155e373c2b93",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "2026年印尼中興日加強AI創新與數位基礎設施合作，加速印尼數位轉型",
+      "summary": "年度技術展示重點展示下一代人工智慧、雲端和麵向未來的 ICT 解決方案，同時聯合生態系統合作夥伴為國家人工智慧時代奠定基礎",
+      "original_title": "ZTE Day Indonesia 2026 strengthens AI innovation and digital infrastructure collaboration to accelerate Indonesia's digital transformation",
+      "url": "https://www.theregister.com/networks/2026/05/22/zte-day-indonesia-2026-strengthens-ai-innovation-and-digital-infrastructure-collaboration-to-accelerate-indonesias-digital-transformation/5245048",
+      "source": "Theregister.com",
+      "domain": "theregister.com",
+      "published_at": "2026-05-22T12:04:52Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "32fa09f8b8859f30",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "目前的人工智慧定價總是會消失",
+      "summary": "目前的人工智慧定價總是會消失。這根本沒有意義。微軟本週取消了內部 Claude Code 許可證（無論出於何種原因，即使是因為他們集成了它），Uber 在四個月內耗盡了其 2026 年全部人工智能預算，並且…",
+      "original_title": "The current AI pricing was always going to go away",
+      "url": "https://arnon.dk/the-current-ai-pricing-was-always-going-to-go-away/",
+      "source": "Arnon.dk",
+      "domain": "arnon.dk",
+      "published_at": "2026-05-22T11:24:53Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "2c44e6051a9a09bd",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2676,7 +2676,7 @@
       "source": "Flowingdata.com",
       "domain": "flowingdata.com",
       "published_at": "2026-05-22T09:00:46Z",
-      "importance": 50,
+      "importance": 45,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -2700,7 +2700,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「總體風險」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     },
     {
       "id": "a085bca8bfc7762e",
