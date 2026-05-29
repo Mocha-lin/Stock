@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-05-29T05:07:04.657727+00:00
+> 更新時間：2026-05-29T08:54:30.838408+00:00
 
 ### ⚖️ Marvell 擴展矽光子、交換和互連路線圖
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -11,20 +11,11 @@
 ---
 
 ### ⚖️ 165 億美元的賭注：到 2030 年，共同封裝的光學元件將如何重新連接人工智慧的骨幹
-- **題材**: `光通訊與矽光子` | **重要性**: `83`
+- **題材**: `光通訊與矽光子` | **重要性**: `78`
 - **來源**: Digitimes (2026-05-26T08:47:51Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 隨著人工智慧叢集不斷規模化，傳統互連架構在頻寬、能源效率和系統整合方面面臨新的限制。共封裝光學正成為下一代人工智慧基礎設施、重塑的關鍵技術路徑…
 - [原文連結](https://www.digitimes.com/reports/item.php?id=20260521RS400)
-
----
-
-### 🚀 Aixtron 贏得 Lumentum G10-AsP 系統訂單，以擴大 InP 生產
-- **題材**: `光通訊與矽光子` | **重要性**: `78`
-- **來源**: Digitimes (2026-05-27T01:11:22Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Aixtron 已收到 Lumentum 的多份 G10-AsP MOCVD 系統訂單，此舉可能會促進全球 800G 及以上磷化銦 (InP) 雷射和偵測器的生產。該交易凸顯了對高速光纖互通不斷增長的需求…
-- [原文連結](https://www.digitimes.com/news/a20260527PR201/aixtron-laser-mocvd-demand-production.html)
 
 ---
 
@@ -70,15 +61,6 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: SK海力士推出了iHBM，這是一種新型熱封裝架構，可將冷卻元件直接嵌入到HBM界面層中，將熱阻降低30%，並幫助未來的人工智慧加速器避免影響性能的熱節流。
 - [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-unveils-ihbm-thermal-architecture-that-cools-ai-memory-at-the-source-integrated-cooling-elements-inside-hbm-interface-cut-thermal-resistance-by-30-percent-target-next-gen-hbm5-accelerators-and-dense-ai-data-centers)
-
----
-
-### 🚀 Marvell 和 Synopsys 收盤走低，儘管 AI 提振獲利超乎預期
-- **題材**: `光通訊與矽光子` | **重要性**: `70`
-- **來源**: SiliconANGLE News (2026-05-28T01:23:16Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 半導體專家 Marvell Technology Inc. 和 Synopsys Inc. 今天公佈的季度營收數據超出了分析師的預期。兩家公司也上調了指導意見。兩人都將這種增長歸因於人工智慧需求的不斷增長…
-- [原文連結](https://siliconangle.com/2026/05/27/marvell-synopsys-close-lower-despite-expectation-topping-earnings-buoyed-ai/)
 
 ---
 
@@ -178,6 +160,24 @@
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Nvidia CEO Jensen Huang arrived in Taiwan on May 23 ahead of COMPUTEX, telling reporters that the company's next-generation AI server platform — codenamed Vera Rubin — will be the most successful product generation in Nvidia's history and potentially the larg…
 - [原文連結](https://www.digitimes.com/news/a20260523PD200/nvidia-taiwan-jensen-huang-rubin-ceo.html)
+
+---
+
+### ⚖️ 隨著人工智慧重塑資料中心電源，Liteon 押注矽光子
+- **題材**: `光通訊與矽光子` | **重要性**: `63`
+- **來源**: Digitimes (2026-05-22T01:21:05Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 光寶科技將 2026 年定位為繼 2025 年成立 50 週年後的重置年，該公司將深入推進人工智慧資料中心電源系統，並開始開發矽光子產品。
+- [原文連結](https://www.digitimes.com/news/a20260520PD235/photonics-silicon-data-center-2026-revenue.html)
+
+---
+
+### ⚖️ AuthenX to Unveil Detachable 2D FAU Technology at COMPUTEX 2026, Eliminating the Optical Packaging Bottleneck for Next-Gen AI and HPC Clusters
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: PRNewswire (2026-05-28T06:00:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: AuthenX 將 12 吋 CMOS 元件整合到多行 2D 陣列中，提供超低損耗和高對準容差，可無縫擴展 3.2T 至 12.8T CPO 部署。台北，2026 年 5 月 28 日 /美通社/ -- AuthenX Inc.，高速…的領先創新者
+- [原文連結](https://www.prnewswire.com/news-releases/authenx-to-unveil-detachable-2d-fau-technology-at-computex-2026-eliminating-the-optical-packaging-bottleneck-for-next-gen-ai-and-hpc-clusters-302784012.html)
 
 ---
 
