@@ -1,12 +1,12 @@
 {
   "id": "4768",
   "name": "晶呈科技",
-  "lastUpdated": "2026-05-28 18:52:48",
+  "lastUpdated": "2026-05-29 18:39:57",
   "ai_model": "Fact-Update",
   "basicInfo": {
-    "price": "491.00",
-    "change": "-13.00",
-    "changePercent": "-2.58%"
+    "price": "469.50",
+    "change": "-21.50",
+    "changePercent": "-4.38%"
   },
   "financials": {
     "revenue_trend": [
@@ -550,6 +550,14 @@
     ],
     "chips_table": [
       {
+        "date": "2026-05-29",
+        "foreign_lots": -662.9,
+        "it_lots": 0.0,
+        "dealer_lots": -1.189,
+        "sum_lots": -664.0889999999999,
+        "pct_float": -0.1398438339029521
+      },
+      {
         "date": "2026-05-28",
         "foreign_lots": 109.06,
         "it_lots": 0.0,
@@ -660,14 +668,6 @@
         "dealer_lots": 37.226,
         "sum_lots": -454.196,
         "pct_float": -0.0956445747232453
-      },
-      {
-        "date": "2026-05-08",
-        "foreign_lots": -13.5,
-        "it_lots": 0.0,
-        "dealer_lots": -10.0,
-        "sum_lots": -23.5,
-        "pct_float": -0.004948629019181729
       }
     ],
     "c_score_data": {
@@ -675,7 +675,7 @@
       "dataset": "structure_c_score",
       "stock_id": "4768",
       "ticker": "4768.TWO",
-      "asof": "2026-05-28",
+      "asof": "2026-05-29",
       "c_score": 8.62193753081872,
       "benchmark_pe": 113.9287277409909,
       "source": [
@@ -951,14 +951,14 @@
         },
         {
           "period": "2021Q2",
-          "avg_price": 81.86673703400984,
+          "avg_price": 81.78065906871448,
           "eps": 1.03,
           "revenue_q": 0.556,
-          "pe_ratio": 79.4822689650581,
+          "pe_ratio": 79.39869812496552,
           "rev_growth": null,
           "eps_growth": null,
           "rt_weight": 1.0,
-          "deviation": 0.697649052535332,
+          "deviation": 0.6969155163873416,
           "theo_price": 117.34658957322063
         }
       ],
@@ -974,8 +974,8 @@
     "returns_table": [
       {
         "year": 2026,
-        "return_pct": 25.736235595390532,
-        "period": "01/02~05/28"
+        "return_pct": 20.23047375160052,
+        "period": "01/02~05/29"
       },
       {
         "year": 2025,
@@ -999,28 +999,6 @@
       }
     ],
     "kline_data": [
-      {
-        "date": "2025-11-25",
-        "symbol": "4768.TWO",
-        "open": 202.0,
-        "high": 204.5,
-        "low": 200.0,
-        "close": 202.5,
-        "volume": 455264.0,
-        "adjclose": 202.5,
-        "dividends": 0.0,
-        "splits": 0.0,
-        "MA5": 201.8,
-        "MA20": 229.725,
-        "MA60": 216.8083333333333,
-        "bb_mid": 229.725,
-        "bb_up": 271.9215342178734,
-        "bb_dn": 187.5284657821266,
-        "DIF": -9.326424053113726,
-        "DEA": -4.088811272661668,
-        "HIST": -10.475225560904116,
-        "volume_lot": 455.264
-      },
       {
         "date": "2025-11-26",
         "symbol": "4768.TWO",
@@ -3624,7 +3602,7 @@
         "high": 518.0,
         "low": 482.0,
         "close": 491.0,
-        "volume": 2080089.0,
+        "volume": 1991163.0,
         "adjclose": 491.0,
         "dividends": 0.0,
         "splits": 0.0,
@@ -3637,7 +3615,29 @@
         "DIF": -1.6371110397683992,
         "DEA": -5.722570274665555,
         "HIST": 8.170918469794312,
-        "volume_lot": 2080.089
+        "volume_lot": 1991.163
+      },
+      {
+        "date": "2026-05-29",
+        "symbol": "4768.TWO",
+        "open": 504.0,
+        "high": 504.0,
+        "low": 468.0,
+        "close": 469.5,
+        "volume": 1778912.0,
+        "adjclose": 469.5,
+        "dividends": 0.0,
+        "splits": 0.0,
+        "MA5": 484.6,
+        "MA20": 474.5,
+        "MA60": 473.025,
+        "bb_mid": 474.5,
+        "bb_up": 543.638990446782,
+        "bb_dn": 405.3610095532179,
+        "DIF": -1.7127301410992004,
+        "DEA": -4.920602247952285,
+        "HIST": 6.415744213706169,
+        "volume_lot": 1778.912
       }
     ],
     "valuation": {
