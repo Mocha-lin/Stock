@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-05-29T16:33:15.418900+00:00
+> 更新時間：2026-05-29T19:24:44.686264+00:00
 
 ### ⚖️ Marvell 擴展矽光子、交換和互連路線圖
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -154,6 +154,15 @@
 
 ---
 
+### ⚖️ TACO 均衡
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: The Atlantic (2026-05-28T17:27:00Z)
+- **AI 判讀**: 屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 石油市場預計唐納德·川普很快就會結束伊朗戰爭。這可能就是他不這樣做的原因。
+- [原文連結](https://www.theatlantic.com/economy/2026/05/oil-prices-iran-trump/687344/)
+
+---
+
 ### 🚀 在達成 1.3B 美元矽光子學協議後，Tower Semiconductor Ltd. (TSEM) 是否會成為頂級半導體成長股？
 - **題材**: `光通訊與矽光子` | **重要性**: `60`
 - **來源**: Yahoo Entertainment (2026-05-28T11:33:41Z)
@@ -169,15 +178,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: AuthenX 將 12 吋 CMOS 元件整合到多行 2D 陣列中，提供超低損耗和高對準容差，可無縫擴展 3.2T 至 12.8T CPO 部署。台北，2026 年 5 月 28 日 /美通社/ -- AuthenX Inc.，高速…的領先創新者
 - [原文連結](https://www.prnewswire.com/news-releases/authenx-to-unveil-detachable-2d-fau-technology-at-computex-2026-eliminating-the-optical-packaging-bottleneck-for-next-gen-ai-and-hpc-clusters-302784012.html)
-
----
-
-### ⚖️ Marvell Technology, Inc. 2027 年第一季財報電話會議摘要
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: Moby.co (2026-05-28T00:18:16Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Moby 對 Marvell Technology, Inc. 2027 年第一季財報電話會議的摘要
-- [原文連結](https://app.moby.co/home/research/tools/earningsCalendar/earnings-marvell-technology-inc-q1-2027-earnings-call-summary?utm_source=yahoo_finance&amp;utm_medium=rss)
 
 ---
 

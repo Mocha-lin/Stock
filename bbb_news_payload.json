@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-05-29T16:33:15.418900+00:00",
+  "generated_at": "2026-05-29T19:24:44.686264+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 72,
@@ -640,6 +640,44 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "bf09b7bc2f4dc2a6",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "TACO 均衡",
+      "summary": "石油市場預計唐納德·川普很快就會結束伊朗戰爭。這可能就是他不這樣做的原因。",
+      "original_title": "The TACO Equilibrium",
+      "url": "https://www.theatlantic.com/economy/2026/05/oil-prices-iran-trump/687344/",
+      "source": "The Atlantic",
+      "domain": "theatlantic.com",
+      "published_at": "2026-05-28T17:27:00Z",
+      "importance": 60,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "99c0ebd968257a66",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1050,44 +1088,6 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "da4db5b8bddd8b63",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "Android品牌可能會效仿蘋果新的分離式iPhone發布策略",
-      "summary": "據這位名為「數位聊天站」的洩密者透露，Android 製造商正計劃採用蘋果的分拆發布策略，在不同的窗口而不是同時發布高端和標準型號。 \n\n\n\n\n\n洩密者在一份新的聲明中提出了這個說法…",
-      "original_title": "Android Brands May Copy Apple's New Split iPhone Launch Strategy",
-      "url": "https://www.macrumors.com/2026/05/26/android-brands-may-copy-iphone-launch-strategy/",
-      "source": "MacRumors",
-      "domain": "macrumors.com",
-      "published_at": "2026-05-26T16:42:55Z",
-      "importance": 60,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "fed775831a5614b9",
@@ -1651,32 +1651,32 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "380a9d59a2414be8",
+      "id": "da4db5b8bddd8b63",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "親愛的 Nvidia 股票粉絲，請在您的日曆上標記 6 月 2 日",
-      "summary": "隨著 COMPUTEX 2026 即將到來，Nvidia 正準備展示其代理 AI 專家 Vera CPU。",
-      "original_title": "Dear Nvidia Stock Fans, Mark Your Calendars for June 2",
-      "url": "https://www.barchart.com/story/news/2134984/dear-nvidia-stock-fans-mark-your-calendars-for-june-2",
-      "source": "Barchart.com",
-      "domain": "barchart.com",
-      "published_at": "2026-05-26T17:51:18Z",
+      "theme": "半導體先進製程",
+      "title": "Android品牌可能會效仿蘋果新的分離式iPhone發布策略",
+      "summary": "據這位名為「數位聊天站」的洩密者透露，Android 製造商正計劃採用蘋果的分拆發布策略，在不同的窗口而不是同時發布高端和標準型號。 \n\n\n\n\n\n洩密者在一份新的聲明中提出了這個說法…",
+      "original_title": "Android Brands May Copy Apple's New Split iPhone Launch Strategy",
+      "url": "https://www.macrumors.com/2026/05/26/android-brands-may-copy-iphone-launch-strategy/",
+      "source": "MacRumors",
+      "domain": "macrumors.com",
+      "published_at": "2026-05-26T16:42:55Z",
       "importance": 55,
-      "impact": "neutral",
+      "impact": "positive",
       "timeframe": "short_term",
       "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
+        "半導體",
+        "CoWoS",
+        "先進製程"
       ],
       "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
       ],
       "related_models": [
         "003",
@@ -1686,45 +1686,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "33e67abe4671b48a",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "《副總統》創作者阿曼多·伊安努奇將編寫《帕丁頓熊 4》",
-      "summary": "此外，《帕丁頓熊在秘魯》的導演道格爾威爾森正在商談回歸《帕丁頓熊4》。",
-      "original_title": "‘Veep’ Creator Armando Iannucci Set to Write ‘Paddington 4’",
-      "url": "https://gizmodo.com/paddington-4-screenwriter-script-armando-iannucci-2000763449",
-      "source": "Gizmodo.com",
-      "domain": "gizmodo.com",
-      "published_at": "2026-05-26T17:00:27Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "0771f9481e5938f6",
@@ -1798,44 +1760,6 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "4e9c3dd2e39e7d88",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "最高法院向川普贈送了一輛關稅金戰車——現在他只需要接受它",
-      "summary": "最高法院否决了特朗普的 IEEPA 关税，并可能意外地提升了他的经济总统地位。 The exit ramp is in sight.",
-      "original_title": "The Supreme Court handed Trump a Golden Chariot on tariffs — now he just has to take it",
-      "url": "https://finance.yahoo.com/economy/policy/articles/supreme-court-handed-trump-golden-103000277.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-05-26T10:30:00Z",
-      "importance": 55,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "c405d4683b1919a1",
@@ -2215,6 +2139,82 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "380a9d59a2414be8",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "親愛的 Nvidia 股票粉絲，請在您的日曆上標記 6 月 2 日",
+      "summary": "隨著 COMPUTEX 2026 即將到來，Nvidia 正準備展示其代理 AI 專家 Vera CPU。",
+      "original_title": "Dear Nvidia Stock Fans, Mark Your Calendars for June 2",
+      "url": "https://www.barchart.com/story/news/2134984/dear-nvidia-stock-fans-mark-your-calendars-for-june-2",
+      "source": "Barchart.com",
+      "domain": "barchart.com",
+      "published_at": "2026-05-26T17:51:18Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "33e67abe4671b48a",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "《副總統》創作者阿曼多·伊安努奇將編寫《帕丁頓熊 4》",
+      "summary": "此外，《帕丁頓熊在秘魯》的導演道格爾威爾森正在商談回歸《帕丁頓熊4》。",
+      "original_title": "‘Veep’ Creator Armando Iannucci Set to Write ‘Paddington 4’",
+      "url": "https://gizmodo.com/paddington-4-screenwriter-script-armando-iannucci-2000763449",
+      "source": "Gizmodo.com",
+      "domain": "gizmodo.com",
+      "published_at": "2026-05-26T17:00:27Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "b6da48ca0ade082c",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2475,44 +2475,6 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "304e6e7edb6406b9",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "Evercore ISI 上調 GLOBALFOUNDRIES (GFS) 的目標價格",
-      "summary": "GLOBALFOUNDRIES Inc.（納斯達克股票代碼：GFS）是現在值得買入的 8 隻高回報半導體股票之一。 2026 年 5 月 19 日，Evercore ISI 上調了公司的目標價…",
-      "original_title": "Evercore ISI Raises its Price Target on GLOBALFOUNDRIES (GFS)",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/evercore-isi-raises-price-target-164642699.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-05-22T16:46:42Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "03e9616fd137c986",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2625,6 +2587,44 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "304e6e7edb6406b9",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "Evercore ISI 上調 GLOBALFOUNDRIES (GFS) 的目標價格",
+      "summary": "GLOBALFOUNDRIES Inc.（納斯達克股票代碼：GFS）是現在值得買入的 8 隻高回報半導體股票之一。 2026 年 5 月 19 日，Evercore ISI 上調了公司的目標價…",
+      "original_title": "Evercore ISI Raises its Price Target on GLOBALFOUNDRIES (GFS)",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/evercore-isi-raises-price-target-164642699.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-05-22T16:46:42Z",
+      "importance": 45,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     },
     {
       "id": "35515be4d7f12fe0",
