@@ -1,5 +1,14 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-05-29T00:13:24.943921+00:00
+> 更新時間：2026-05-29T05:07:04.657727+00:00
+
+### ⚖️ Marvell 擴展矽光子、交換和互連路線圖
+- **題材**: `光通訊與矽光子` | **重要性**: `83`
+- **來源**: Digitimes (2026-05-28T01:56:36Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Marvell Technology 在 2027 財年第一季財報電話會議上詳細介紹了基於光學、銅和矽光子的連接的加速進展，表明人工智慧基礎設施正在從以計算為中心的瓶頸轉向網路瓶頸…
+- [原文連結](https://www.digitimes.com/news/a20260528VL206/marvell-silicon-photonics-2027-earnings.html)
+
+---
 
 ### ⚖️ 165 億美元的賭注：到 2030 年，共同封裝的光學元件將如何重新連接人工智慧的骨幹
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -37,30 +46,12 @@
 
 ---
 
-### ⚖️ Lightmatter 與台積電合作開發 COUPE 3D 光學引擎
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-05-26T01:37:15Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: AI 運算對基礎設施的巨大需求使得互連和雷射技術成為克服功率和頻寬限制的關鍵，促使矽光子獨角獸 Lightmatter 推出其最新雷射產品 Guide DR。为了推进其 3D 堆栈……
-- [原文連結](https://www.digitimes.com/news/a20260525PD235/siph-laser-demand-infrastructure-technology-tsmc.html)
-
----
-
 ### 🚀 華為瞄準AI光網路投資InP晶片新創公司
 - **題材**: `光通訊與矽光子` | **重要性**: `73`
 - **來源**: Digitimes (2026-05-25T02:32:08Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 隨著人工智慧資料中心需求的不斷增長，加速全球光通訊產業的升級，華為透過對磷化銦（InP）光晶片新創公司的新投資，進一步向人工智慧光網路和矽光子（SiPh）領域拓展。
 - [原文連結](https://www.digitimes.com/news/a20260525PD209/huawei-siph-optical-components-investment-startup.html)
-
----
-
-### ⚖️ TSMC supply chain material maker AMC rides AI packaging yield boom
-- **題材**: `半導體先進製程` | **重要性**: `73`
-- **來源**: Digitimes (2026-05-22T01:30:50Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 台灣先進半導體材料供應商聯盟材料公司（AMC）表示，隨著AI晶片需求的推動，其平衡膜防翹曲材料已進入客戶驗證，預計於2026年下半年開始量產。
-- [原文連結](https://www.digitimes.com/news/a20260522PD201/materials-tsmc-packaging-production-2026.html)
 
 ---
 
@@ -82,6 +73,15 @@
 
 ---
 
+### 🚀 Marvell 和 Synopsys 收盤走低，儘管 AI 提振獲利超乎預期
+- **題材**: `光通訊與矽光子` | **重要性**: `70`
+- **來源**: SiliconANGLE News (2026-05-28T01:23:16Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 半導體專家 Marvell Technology Inc. 和 Synopsys Inc. 今天公佈的季度營收數據超出了分析師的預期。兩家公司也上調了指導意見。兩人都將這種增長歸因於人工智慧需求的不斷增長…
+- [原文連結](https://siliconangle.com/2026/05/27/marvell-synopsys-close-lower-despite-expectation-topping-earnings-buoyed-ai/)
+
+---
+
 ### ⚖️ IREN 將以約 16 億美元從戴爾購買 Blackwell 系統
 - **題材**: `AI伺服器` | **重要性**: `70`
 - **來源**: CNA (2026-05-26T22:36:59Z)
@@ -91,21 +91,21 @@
 
 ---
 
-### 🚀 所有人都在關注 NVIDIA 的同時，5 隻股票在人工智慧競賽中獲勝
-- **題材**: `光通訊與矽光子` | **重要性**: `70`
-- **來源**: MarketBeat (2026-05-26T13:40:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 真正的人工智慧成長故事已經轉向實體基礎設施。 TradeSmith 的 Keith Kaplan 確定了 5 隻股票，涉及記憶體、光子學、冷卻、電力和…
-- [原文連結](https://www.marketbeat.com/stock-ideas/5-stocks-winning-the-ai-race-while-everyone-watches-nvidia/?utm_source=yahoofinance&amp;utm_medium=yahoofinance)
-
----
-
 ### ⚖️ SK 海力士尋求在 HBM 內嵌入冷卻裝置以應對熱量
 - **題材**: `HBM記憶體` | **重要性**: `68`
 - **來源**: Digitimes (2026-05-26T23:34:55Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: SK 海力士推出了一種新的高頻寬記憶體技術，旨在減少下一代人工智慧系統中的熱量積聚，因為計算密度的提高使熱管理成為 HBM 供應商更加關鍵的前沿。
 - [原文連結](https://www.digitimes.com/news/a20260526VL211/sk-hynix-technology-hbm-cooling-chips.html)
+
+---
+
+### ⚖️ Lightmatter 與台積電合作開發 COUPE 3D 光學引擎
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-05-26T01:37:15Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: AI 運算對基礎設施的巨大需求使得互連和雷射技術成為克服功率和頻寬限制的關鍵，促使矽光子獨角獸 Lightmatter 推出其最新雷射產品 Guide DR。为了推进其 3D 堆栈……
+- [原文連結](https://www.digitimes.com/news/a20260525PD235/siph-laser-demand-infrastructure-technology-tsmc.html)
 
 ---
 
@@ -127,12 +127,12 @@
 
 ---
 
-### ⚖️ 隨著人工智慧重塑資料中心電源，Liteon 押注矽光子
-- **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-05-22T01:21:05Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 光寶科技將 2026 年定位為繼 2025 年成立 50 週年後的重置年，該公司將深入推進人工智慧資料中心電源系統，並開始開發矽光子產品。
-- [原文連結](https://www.digitimes.com/news/a20260520PD235/photonics-silicon-data-center-2026-revenue.html)
+### ⚖️ TSMC supply chain material maker AMC rides AI packaging yield boom
+- **題材**: `半導體先進製程` | **重要性**: `68`
+- **來源**: Digitimes (2026-05-22T01:30:50Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 台灣先進半導體材料供應商聯盟材料公司（AMC）表示，隨著AI晶片需求的推動，其平衡膜防翹曲材料已進入客戶驗證，預計於2026年下半年開始量產。
+- [原文連結](https://www.digitimes.com/news/a20260522PD201/materials-tsmc-packaging-production-2026.html)
 
 ---
 
