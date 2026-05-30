@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-05-30T00:10:01.156338+00:00
+> 更新時間：2026-05-30T04:44:55.299738+00:00
 
 ### ⚖️ Marvell 擴展矽光子、交換和互連路線圖
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -19,21 +19,30 @@
 
 ---
 
-### ⚖️ 165 億美元的賭注：到 2030 年，共同封裝的光學元件將如何重新連接人工智慧的骨幹
+### ⚖️ 英特爾代工捲土重來取決於先進封裝
 - **題材**: `半導體先進製程` | **重要性**: `78`
-- **來源**: Digitimes (2026-05-26T08:47:51Z)
+- **來源**: Digitimes (2026-05-29T04:05:41Z)
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 隨著人工智慧叢集不斷規模化，傳統互連架構在頻寬、能源效率和系統整合方面面臨新的限制。共封裝光學正成為下一代人工智慧基礎設施、重塑的關鍵技術路徑…
-- [原文連結](https://www.digitimes.com/reports/item.php?id=20260521RS400)
+- **摘要**: 根據 ETNews 報導，英特爾正在大力推進先進半導體封裝，以加強其代工業務並擴大其嵌入式多晶片互連橋（EMIB）技術的產能。
+- [原文連結](https://www.digitimes.com/news/a20260529VL214/intel-packaging-technology-equipment-investment.html)
 
 ---
 
-### 🚀 台灣MLCC製造商迎合AI伺服器需求
+### 🚀 富士康AI伺服器份額突破40%，CPO領先地位在望
 - **題材**: `AI伺服器` | **重要性**: `78`
-- **來源**: Digitimes (2026-05-26T02:18:58Z)
+- **來源**: Digitimes (2026-05-29T02:51:52Z)
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: AI servers are driving a surge in demand for high-end passive components, rapidly eating into multilayer ceramic capacitor (MLCC) capacity and extending lead times to more than 16–20 weeks. As a result, some orders that once went to major Japanese and South K…
-- [原文連結](https://www.digitimes.com/news/a20260525PD222/demand-mlcc-high-power-taiwan-high-end.html)
+- **摘要**: 富士康表示，隨著全球雲端支出的增加以及對運算基礎設施的需求在全球蔓延，其人工智慧伺服器業務正在迅速擴大。董事長 Young Liu 表示，公司正致力於機架、光學和半導體領域的持續成長，同時…
+- [原文連結](https://www.digitimes.com/news/a20260529PD224/foxconn-ai-server-cpo-business-2026.html)
+
+---
+
+### ⚖️ 165 億美元的賭注：到 2030 年，共同封裝的光學元件將如何重新連接人工智慧的骨幹
+- **題材**: `光通訊與矽光子` | **重要性**: `78`
+- **來源**: Digitimes (2026-05-26T08:47:51Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 隨著人工智慧叢集不斷規模化，傳統互連架構在頻寬、能源效率和系統整合方面面臨新的限制。共封裝光學正成為下一代人工智慧基礎設施、重塑的關鍵技術路徑…
+- [原文連結](https://www.digitimes.com/reports/item.php?id=20260521RS400)
 
 ---
 
@@ -61,15 +70,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 隨著人工智慧資料中心需求的不斷增長，加速全球光通訊產業的升級，華為透過對磷化銦（InP）光晶片新創公司的新投資，進一步向人工智慧光網路和矽光子（SiPh）領域拓展。
 - [原文連結](https://www.digitimes.com/news/a20260525PD209/huawei-siph-optical-components-investment-startup.html)
-
----
-
-### ⚖️ AI伺服器熱潮擠壓三星馬達零件供應
-- **題材**: `AI伺服器` | **重要性**: `73`
-- **來源**: Digitimes (2026-05-24T00:56:45Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 三星馬達正在成為人工智慧資料中心建設的另一個受益者，因為對高階電容器和封裝基板的需求推動其部分零件業務接近滿載運轉。
-- [原文連結](https://www.digitimes.com/news/a20260521VL215/semco-component-ai-server-demand-data-center.html)
 
 ---
 
@@ -115,6 +115,15 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: SK海力士推出了iHBM，這是一種新型熱封裝架構，可將冷卻元件直接嵌入到HBM界面層中，將熱阻降低30%，並幫助未來的人工智慧加速器避免影響性能的熱節流。
 - [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-unveils-ihbm-thermal-architecture-that-cools-ai-memory-at-the-source-integrated-cooling-elements-inside-hbm-interface-cut-thermal-resistance-by-30-percent-target-next-gen-hbm5-accelerators-and-dense-ai-data-centers)
+
+---
+
+### ⚠️ AI記憶體短缺才剛開始，這3隻ETF佔據了供應鏈的每一層
+- **題材**: `AI伺服器` | **重要性**: `65`
+- **來源**: 24/7 Wall St. (2026-05-28T21:48:09Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 高頻寬記憶體已成為 AI 建設的瓶頸，因為 NVIDIA 的 Blackwell 加速器依賴堆疊 DRAM 模組，而這些模組只有三個...
+- [原文連結](https://247wallst.com/investing/2026/05/28/the-ai-memory-shortage-is-just-getting-started-and-these-3-etfs-own-every-layer-of-the-supply-chain/)
 
 ---
 
@@ -169,15 +178,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 黃仁勳在本週訪問台灣期間提出了一系列廣泛的問題，涉及中國市場准入、內存成本上漲、矽光子、LPU 與 GPU 的爭論以及人工智能代理的未來，同時明確表示 Nvidia 的承諾…
 - [原文連結](https://www.digitimes.com/news/a20260523PD201/jensen-huang-taiwan-claude-nvidia-silicon.html)
-
----
-
-### ⚖️ 黃仁勳登陸台灣，稱 Vera Rubin 是電腦史上最大的產品提升
-- **題材**: `AI伺服器` | **重要性**: `63`
-- **來源**: Digitimes (2026-05-23T12:54:43Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Nvidia CEO Jensen Huang arrived in Taiwan on May 23 ahead of COMPUTEX, telling reporters that the company's next-generation AI server platform — codenamed Vera Rubin — will be the most successful product generation in Nvidia's history and potentially the larg…
-- [原文連結](https://www.digitimes.com/news/a20260523PD200/nvidia-taiwan-jensen-huang-rubin-ceo.html)
 
 ---
 
