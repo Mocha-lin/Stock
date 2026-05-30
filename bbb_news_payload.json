@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-05-30T07:35:40.648694+00:00",
+  "generated_at": "2026-05-30T10:47:53.817213+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 72,
@@ -118,44 +118,6 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
-      "id": "e52b402418b9e395",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "富士康AI伺服器份額突破40%，CPO領先地位在望",
-      "summary": "富士康表示，隨著全球雲端支出的增加以及對運算基礎設施的需求在全球蔓延，其人工智慧伺服器業務正在迅速擴大。董事長 Young Liu 表示，公司正致力於機架、光學和半導體領域的持續成長，同時…",
-      "original_title": "Foxconn tops 40% AI server share, CPO leadership in sight",
-      "url": "https://www.digitimes.com/news/a20260529PD224/foxconn-ai-server-cpo-business-2026.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-05-29T02:51:52Z",
-      "importance": 78,
-      "impact": "positive",
-      "timeframe": "short_to_mid_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "59102f3bb3d74686",
@@ -308,41 +270,6 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
-      "id": "151b6ed587581060",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "三星晶片工人投票接受平均 34 萬美元獎金，結束了長達數月的罷工威脅——對交易的不滿導致三星代工部門放緩",
-      "summary": "該協議將三星半導體部門營業利潤的 10.5% 作為股票獎金。",
-      "original_title": "Samsung chip workers vote to accept $340,000 average bonus, ending months-long strike threat — resentment over deal has slowed down Samsung foundry division",
-      "url": "https://www.tomshardware.com/tech-industry/samsung-chip-workers-vote-to-accept-340000-average-bonus-ending-months-long-strike-threat",
-      "source": "Tom's Hardware UK",
-      "domain": "tomshardware.com",
-      "published_at": "2026-05-27T10:56:23Z",
-      "importance": 72,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "3933ad39c8eb1ff2",
@@ -792,6 +719,82 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "a88cf6ef45c802f5",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "標準 GPU 上的即時 LLM 推理：每個請求 3k 令牌/秒",
+      "summary": "今天，Kog AI 推出了 Kog 推理引擎 (KIE) 的技術預覽版：在 8 個 AMD MI300X GPU 上每個請求每秒 3,000 個輸出令牌，在 8 個 NVIDIA H200 上每個請求每秒 2,100 個輸出令牌（FP16，無推測解碼）。此預覽版運行 2B 模型，支援大型第三方 MoE…",
+      "original_title": "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request",
+      "url": "https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/",
+      "source": "Blog.kog.ai",
+      "domain": "blog.kog.ai",
+      "published_at": "2026-05-29T09:47:23Z",
+      "importance": 60,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "b021a86d7c87f3ac",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "20,000 隻眼睛觀察宇宙",
+      "summary": "我們生活在天文成像的黃金時代。望遠鏡正在捕捉數十億張星系影像，以令人驚嘆的細節描繪宇宙。但有一個問題，而且是個大問題。照片告訴你某物看起來是什麼樣子，但它並沒有告訴你…",
+      "original_title": "20,000 Eyes on the Universe",
+      "url": "https://www.universetoday.com/articles/20000-eyes-on-the-universe",
+      "source": "Universe Today",
+      "domain": "universetoday.com",
+      "published_at": "2026-05-29T09:27:18Z",
+      "importance": 60,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "bf09b7bc2f4dc2a6",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -982,44 +985,6 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "29ceb8d1890b4c32",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "Huawei’s Mate 90 series will use near-3nm chip technology",
-      "summary": "儘管受到美國制裁，基於Tao Scaling Law的新型麒麟處理器有望大幅提升效能",
-      "original_title": "Huawei’s Mate 90 series will use near-3nm chip technology",
-      "url": "https://www.intomobile.com/2026/05/27/huaweis-mate-90-series-will-use-near-3nm-chip-technology/",
-      "source": "Intomobile.com",
-      "domain": "intomobile.com",
-      "published_at": "2026-05-27T16:50:17Z",
-      "importance": 60,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "7c390756e6cb19ad",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1094,44 +1059,6 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "0bc9fe7deefd7ee3",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "解釋者：邊緣人工智慧",
-      "summary": "如果您的基礎設施支持，您可以在邊緣運行人工智慧",
-      "original_title": "Explainer: Edge AI",
-      "url": "https://www.theregister.com/ai-ml/2026/05/27/explainer-edge-ai/5246783",
-      "source": "Theregister.com",
-      "domain": "theregister.com",
-      "published_at": "2026-05-27T08:00:00Z",
-      "importance": 60,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "fed775831a5614b9",
@@ -1286,17 +1213,17 @@
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "a4bcdf10d2a0eac1",
+      "id": "97d41390ce8a7c7c",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "AI伺服器",
-      "title": "CNN 任命安德森·庫珀和安迪·科恩主持 7 月 4 日的“獨立前夕直播”",
-      "summary": "近十年來，安德森庫柏 (Anderson Cooper) 和安迪科恩 (Andy Cohen) 在時代廣場與 CNN 一起迎接新年，準備舉辦 7 月 4 日的慶祝活動。作為 CNN 廣泛的“美國第四次：慶祝 250 週年”節目的一部分，兩人將主持...",
-      "original_title": "CNN Taps Anderson Cooper, Andy Cohen To Host ‘Independence Eve Live’ For 4th Of July",
-      "url": "http://deadline.com/2026/05/cnn-anderson-cooper-andy-cohen-host-independence-eve-live-1236929922/",
-      "source": "Deadline",
-      "domain": "deadline.com",
-      "published_at": "2026-05-29T03:33:40Z",
+      "title": "戴爾股價飆升 30%，AI 伺服器需求和價格上漲推動季度表現出色",
+      "summary": "",
+      "original_title": "Dell shares soar 30% as AI server demand, price hikes power stellar quarter",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6da8b7b6-3b8a-4a32-92e5-3902f9e2ee59",
+      "source": "Yahoo Entertainment",
+      "domain": "consent.yahoo.com",
+      "published_at": "2026-05-29T09:07:03Z",
       "importance": 55,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -1322,6 +1249,41 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "e3c55ca042bf8abc",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "韓國 SK 海力士進入 1 兆美元專屬俱樂部",
+      "summary": "晶片製造商成為史上第二家達到里程碑的韓國公司。",
+      "original_title": "South Korea’s SK Hynix enters exclusive $1 trillion club",
+      "url": "https://www.aljazeera.com/economy/2026/5/29/south-koreas-sk-hynix-enters-exclusive-1-trillion-club",
+      "source": "Al Jazeera English",
+      "domain": "aljazeera.com",
+      "published_at": "2026-05-29T08:04:27Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "86e7b3e8d776b5e7",
@@ -1663,32 +1625,32 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "bd8ce5f9e5c77c05",
+      "id": "0bc9fe7deefd7ee3",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "據稱榮耀Magic9搭載Snapdragon 8 Elite Gen 5 SoC",
-      "summary": "最近有關即將推出的榮耀 Magic9 的洩露表明，該手機可能配備 6.36 吋顯示器和 8,000mAh 大電池。現在，新的洩密事件透露了有關這款緊湊型智慧型手機的更多細節。\n\nTipster 數位聊天站回來了…",
-      "original_title": "Honor Magic9 said to be powered by the Snapdragon 8 Elite Gen 5 SoC",
-      "url": "https://www.gsmarena.com/honor_magic9_said_to_be_powered_by_the_snapdragon_8_elite_gen_5_soc-news-73006.php",
-      "source": "GSMArena.com",
-      "domain": "gsmarena.com",
-      "published_at": "2026-05-27T10:24:01Z",
+      "theme": "AI伺服器",
+      "title": "解釋者：邊緣人工智慧",
+      "summary": "如果您的基礎設施支持，您可以在邊緣運行人工智慧",
+      "original_title": "Explainer: Edge AI",
+      "url": "https://www.theregister.com/ai-ml/2026/05/27/explainer-edge-ai/5246783",
+      "source": "Theregister.com",
+      "domain": "theregister.com",
+      "published_at": "2026-05-27T08:00:00Z",
       "importance": 55,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
+        "AI",
+        "伺服器",
+        "資料中心"
       ],
       "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
       ],
       "related_models": [
         "003",
@@ -1698,7 +1660,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "db15d51a4722210b",
@@ -2145,32 +2107,32 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "5a70138ea9be3472",
+      "id": "bd8ce5f9e5c77c05",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Nvidia 執行長黃仁勳表示，隨著 Nvidia 在推理領域的份額“非常非常快”增長，Vera Rubin 將比 Blackwell “更成功”",
-      "summary": "",
-      "original_title": "Nvidia CEO Jensen Huang Says Vera Rubin Will Be 'More Successful' Than Blackwell As Nvidia's Share In Inference Growing 'Very, Very Quickly'",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0bc4b2ee-593c-4605-9b48-b8ac51495672",
-      "source": "Yahoo Entertainment",
-      "domain": "consent.yahoo.com",
-      "published_at": "2026-05-23T10:01:33Z",
-      "importance": 55,
-      "impact": "positive",
+      "theme": "半導體先進製程",
+      "title": "據稱榮耀Magic9搭載Snapdragon 8 Elite Gen 5 SoC",
+      "summary": "最近有關即將推出的榮耀 Magic9 的洩露表明，該手機可能配備 6.36 吋顯示器和 8,000mAh 大電池。現在，新的洩密事件透露了有關這款緊湊型智慧型手機的更多細節。\n\nTipster 數位聊天站回來了…",
+      "original_title": "Honor Magic9 said to be powered by the Snapdragon 8 Elite Gen 5 SoC",
+      "url": "https://www.gsmarena.com/honor_magic9_said_to_be_powered_by_the_snapdragon_8_elite_gen_5_soc-news-73006.php",
+      "source": "GSMArena.com",
+      "domain": "gsmarena.com",
+      "published_at": "2026-05-27T10:24:01Z",
+      "importance": 50,
+      "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
+        "半導體",
+        "CoWoS",
+        "先進製程"
       ],
       "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
       ],
       "related_models": [
         "003",
@@ -2180,35 +2142,35 @@
         "009",
         "010"
       ],
-      "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "765f25c8455d82aa",
+      "id": "c1d6a0355077c04d",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "忘記密碼、分類錯誤的手提包：企業面臨關稅退款難題",
-      "summary": "企業希望獲得唐納德·川普關稅的退款。丟失的密碼和錯誤分類的海關條目阻礙了他們的工作。",
-      "original_title": "Forgotten passwords, misclassified handbags: Businesses face headaches getting tariff refunds",
-      "url": "https://www.businessinsider.com/businesses-face-hurdles-getting-us-tariff-refunds-forgotten-passwords-2026-5",
-      "source": "Business Insider",
-      "domain": "businessinsider.com",
-      "published_at": "2026-05-23T09:27:01Z",
-      "importance": 55,
-      "impact": "negative",
+      "theme": "半導體先進製程",
+      "title": "使用高數值孔徑 EUV 微影的量子點量子位",
+      "summary": "最先進的光刻系統對於未來先進記憶體和電腦晶片至關重要，將在擴大量子技術規模方面發揮關鍵作用。",
+      "original_title": "Quantum dot qubit using High NA EUV lithography",
+      "url": "https://www.imec-int.com/en/press/world-first-imec-presents-quantum-dot-qubit-device-using-high-na-euv-lithography",
+      "source": "Imec-int.com",
+      "domain": "imec-int.com",
+      "published_at": "2026-05-27T09:15:22Z",
+      "importance": 50,
+      "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
+        "半導體",
+        "CoWoS",
+        "先進製程"
       ],
       "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
       ],
       "related_models": [
         "003",
@@ -2218,45 +2180,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "14fee79287db9d9a",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "一家研究公司表示，隨著通貨膨脹和利率上升籠罩市場，該投資在哪裡",
-      "summary": "內德戴維斯研究公司在客戶報告中寫道，在通膨上升時期，價值股往往表現優於大盤。",
-      "original_title": "Where to invest as hot inflation and higher rates loom over markets, according to one research firm",
-      "url": "https://www.businessinsider.com/where-to-invest-stocks-inflation-high-interest-rates-iran-war-2026-5",
-      "source": "Business Insider",
-      "domain": "businessinsider.com",
-      "published_at": "2026-05-23T09:15:01Z",
-      "importance": 55,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "0806185b499efe6f",
@@ -2701,6 +2625,82 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "765f25c8455d82aa",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "忘記密碼、分類錯誤的手提包：企業面臨關稅退款難題",
+      "summary": "企業希望獲得唐納德·川普關稅的退款。丟失的密碼和錯誤分類的海關條目阻礙了他們的工作。",
+      "original_title": "Forgotten passwords, misclassified handbags: Businesses face headaches getting tariff refunds",
+      "url": "https://www.businessinsider.com/businesses-face-hurdles-getting-us-tariff-refunds-forgotten-passwords-2026-5",
+      "source": "Business Insider",
+      "domain": "businessinsider.com",
+      "published_at": "2026-05-23T09:27:01Z",
+      "importance": 50,
+      "impact": "negative",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "14fee79287db9d9a",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "一家研究公司表示，隨著通貨膨脹和利率上升籠罩市場，該投資在哪裡",
+      "summary": "內德戴維斯研究公司在客戶報告中寫道，在通膨上升時期，價值股往往表現優於大盤。",
+      "original_title": "Where to invest as hot inflation and higher rates loom over markets, according to one research firm",
+      "url": "https://www.businessinsider.com/where-to-invest-stocks-inflation-high-interest-rates-iran-war-2026-5",
+      "source": "Business Insider",
+      "domain": "businessinsider.com",
+      "published_at": "2026-05-23T09:15:01Z",
+      "importance": 50,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     }
   ]
 }

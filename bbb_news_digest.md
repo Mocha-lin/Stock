@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-05-30T07:35:40.648694+00:00
+> 更新時間：2026-05-30T10:47:53.817213+00:00
 
 ### ⚖️ Marvell 擴展矽光子、交換和互連路線圖
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -25,15 +25,6 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 根據 ETNews 報導，英特爾正在大力推進先進半導體封裝，以加強其代工業務並擴大其嵌入式多晶片互連橋（EMIB）技術的產能。
 - [原文連結](https://www.digitimes.com/news/a20260529VL214/intel-packaging-technology-equipment-investment.html)
-
----
-
-### 🚀 富士康AI伺服器份額突破40%，CPO領先地位在望
-- **題材**: `AI伺服器` | **重要性**: `78`
-- **來源**: Digitimes (2026-05-29T02:51:52Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 富士康表示，隨著全球雲端支出的增加以及對運算基礎設施的需求在全球蔓延，其人工智慧伺服器業務正在迅速擴大。董事長 Young Liu 表示，公司正致力於機架、光學和半導體領域的持續成長，同時…
-- [原文連結](https://www.digitimes.com/news/a20260529PD224/foxconn-ai-server-cpo-business-2026.html)
 
 ---
 
@@ -70,15 +61,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 隨著人工智慧資料中心需求的不斷增長，加速全球光通訊產業的升級，華為透過對磷化銦（InP）光晶片新創公司的新投資，進一步向人工智慧光網路和矽光子（SiPh）領域拓展。
 - [原文連結](https://www.digitimes.com/news/a20260525PD209/huawei-siph-optical-components-investment-startup.html)
-
----
-
-### ⚖️ 三星晶片工人投票接受平均 34 萬美元獎金，結束了長達數月的罷工威脅——對交易的不滿導致三星代工部門放緩
-- **題材**: `HBM記憶體` | **重要性**: `72`
-- **來源**: Tom's Hardware UK (2026-05-27T10:56:23Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 該協議將三星半導體部門營業利潤的 10.5% 作為股票獎金。
-- [原文連結](https://www.tomshardware.com/tech-industry/samsung-chip-workers-vote-to-accept-340000-average-bonus-ending-months-long-strike-threat)
 
 ---
 
@@ -178,6 +160,24 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 黃仁勳在本週訪問台灣期間提出了一系列廣泛的問題，涉及中國市場准入、內存成本上漲、矽光子、LPU 與 GPU 的爭論以及人工智能代理的未來，同時明確表示 Nvidia 的承諾…
 - [原文連結](https://www.digitimes.com/news/a20260523PD201/jensen-huang-taiwan-claude-nvidia-silicon.html)
+
+---
+
+### ⚖️ 黃仁勳登陸台灣，稱 Vera Rubin 是電腦史上最大的產品提升
+- **題材**: `AI伺服器` | **重要性**: `63`
+- **來源**: Digitimes (2026-05-23T12:54:43Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Nvidia CEO Jensen Huang arrived in Taiwan on May 23 ahead of COMPUTEX, telling reporters that the company's next-generation AI server platform — codenamed Vera Rubin — will be the most successful product generation in Nvidia's history and potentially the larg…
+- [原文連結](https://www.digitimes.com/news/a20260523PD200/nvidia-taiwan-jensen-huang-rubin-ceo.html)
+
+---
+
+### ⚖️ 標準 GPU 上的即時 LLM 推理：每個請求 3k 令牌/秒
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: Blog.kog.ai (2026-05-29T09:47:23Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 今天，Kog AI 推出了 Kog 推理引擎 (KIE) 的技術預覽版：在 8 個 AMD MI300X GPU 上每個請求每秒 3,000 個輸出令牌，在 8 個 NVIDIA H200 上每個請求每秒 2,100 個輸出令牌（FP16，無推測解碼）。此預覽版運行 2B 模型，支援大型第三方 MoE…
+- [原文連結](https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/)
 
 ---
 
