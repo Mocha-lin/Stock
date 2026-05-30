@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-05-30T10:47:53.817213+00:00
+> 更新時間：2026-05-30T14:21:58.443285+00:00
 
 ### ⚖️ Marvell 擴展矽光子、交換和互連路線圖
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -127,24 +127,6 @@
 
 ---
 
-### ⚖️ IREN 簽署價值 16 億美元的 Dell Blackwell 收購 Childress 協議，目標年收入達 44 億美元
-- **題材**: `AI伺服器` | **重要性**: `65`
-- **來源**: Blockspace.media (2026-05-27T12:24:56Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: IREN 揭露了與戴爾簽訂的價值 16 億美元的採購協議，購買風冷 Blackwell 系統，並將其運往德克薩斯州 Childress 園區。該公司表示...
-- [原文連結](https://blockspace.media/insight/iren-signs-dell-blackwell-deal-childress-texas/)
-
----
-
-### ⚖️ IREN 將以約 16 億美元從戴爾購買 Blackwell 系統
-- **題材**: `AI伺服器` | **重要性**: `65`
-- **來源**: CNA (2026-05-26T22:36:59Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 5 月 26 日：資料中心營運商 IREN 週二表示，已同意以約 16 億美元的價格從戴爾購買 Nvidia 的風冷 Blackwell 系統，因為該公司旨在提供更多的線上容量，以滿足不斷飆升的人工智慧需求。該交易旨在為其先前的業務提供服務。
-- [原文連結](https://www.channelnewsasia.com/business/iren-buy-blackwell-systems-dell-about-16-billion-6143481)
-
----
-
 ### ⚖️ SK 海力士尋求在 HBM 內嵌入冷卻裝置以應對熱量
 - **題材**: `HBM記憶體` | **重要性**: `63`
 - **來源**: Digitimes (2026-05-26T23:34:55Z)
@@ -154,21 +136,12 @@
 
 ---
 
-### ⚖️ 黃仁勳表示，他在工作中使用 Claude，兒子在家中運行人工智慧代理來管理家庭
-- **題材**: `光通訊與矽光子` | **重要性**: `63`
-- **來源**: Digitimes (2026-05-23T13:07:48Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 黃仁勳在本週訪問台灣期間提出了一系列廣泛的問題，涉及中國市場准入、內存成本上漲、矽光子、LPU 與 GPU 的爭論以及人工智能代理的未來，同時明確表示 Nvidia 的承諾…
-- [原文連結](https://www.digitimes.com/news/a20260523PD201/jensen-huang-taiwan-claude-nvidia-silicon.html)
-
----
-
-### ⚖️ 黃仁勳登陸台灣，稱 Vera Rubin 是電腦史上最大的產品提升
-- **題材**: `AI伺服器` | **重要性**: `63`
-- **來源**: Digitimes (2026-05-23T12:54:43Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Nvidia CEO Jensen Huang arrived in Taiwan on May 23 ahead of COMPUTEX, telling reporters that the company's next-generation AI server platform — codenamed Vera Rubin — will be the most successful product generation in Nvidia's history and potentially the larg…
-- [原文連結](https://www.digitimes.com/news/a20260523PD200/nvidia-taiwan-jensen-huang-rubin-ceo.html)
+### 🚀 戴爾因 AI 伺服器繁榮而飆升 33%，超微電腦因超大規模支出加速而上漲 16%
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-05-29T14:01:55Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 
+- [原文連結](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_82ac3595-0760-46a1-abe7-cbfa6cf1b447)
 
 ---
 
@@ -178,6 +151,33 @@
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 今天，Kog AI 推出了 Kog 推理引擎 (KIE) 的技術預覽版：在 8 個 AMD MI300X GPU 上每個請求每秒 3,000 個輸出令牌，在 8 個 NVIDIA H200 上每個請求每秒 2,100 個輸出令牌（FP16，無推測解碼）。此預覽版運行 2B 模型，支援大型第三方 MoE…
 - [原文連結](https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/)
+
+---
+
+### ⚖️ 20,000 隻眼睛觀察宇宙
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: Universe Today (2026-05-29T09:27:18Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 我們生活在天文成像的黃金時代。望遠鏡正在捕捉數十億張星系影像，以令人驚嘆的細節描繪宇宙。但有一個問題，而且是個大問題。照片告訴你某物看起來是什麼樣子，但它並沒有告訴你…
+- [原文連結](https://www.universetoday.com/articles/20000-eyes-on-the-universe)
+
+---
+
+### ⚖️ TACO 均衡
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: The Atlantic (2026-05-28T17:27:00Z)
+- **AI 判讀**: 屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 石油市場預計唐納德·川普很快就會結束伊朗戰爭。這可能就是他不這樣做的原因。
+- [原文連結](https://www.theatlantic.com/economy/2026/05/oil-prices-iran-trump/687344/)
+
+---
+
+### 🚀 通膨上升，但並未高於預期，而 GDP 下滑
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-05-28T13:47:46Z)
+- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 紐約，5 月 28 日（路透社）
+- [原文連結](https://finance.yahoo.com/economy/articles/inflation-rises-isnt-hotter-expected-134746577.html)
 
 ---
 
