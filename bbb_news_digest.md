@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-05-30T20:01:08.277281+00:00
+> 更新時間：2026-05-31T00:01:09.869952+00:00
 
 ### ⚖️ Marvell 擴展矽光子、交換和互連路線圖
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -37,30 +37,43 @@
 
 ---
 
-### 🚀 聯華電子準備漲價，啟動 2027 年客戶洽談
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-05-27T23:53:29Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 聯華電子5月27日召開股東大會，執行長王傑表示，隨著AI應用快速擴展，長期半導體需求仍有成長空間。除了深化其在成熟和專業工藝方面的優勢外，聯華電子還…
-- [原文連結](https://www.digitimes.com/news/a20260527PD242/umc-2027-price-demand-ceo.html)
-
----
-
-### ⚖️ Ezconn moves up AI optics chain with CPO and silicon photonics
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-05-27T23:50:34Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Ezconn 總裁 Ying-hua Chang 表示，預計美國雲端供應商的人工智慧資料中心擴張將至少在 2029 年之前維持對高核心數光學產品的需求。
-- [原文連結](https://www.digitimes.com/news/a20260527PD211/ezconn-cpo-siph-2026.html)
-
----
-
 ### 🚀 華為瞄準AI光網路投資InP晶片新創公司
 - **題材**: `光通訊與矽光子` | **重要性**: `73`
 - **來源**: Digitimes (2026-05-25T02:32:08Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 隨著人工智慧資料中心需求的不斷增長，加速全球光通訊產業的升級，華為透過對磷化銦（InP）光晶片新創公司的新投資，進一步向人工智慧光網路和矽光子（SiPh）領域拓展。
 - [原文連結](https://www.digitimes.com/news/a20260525PD209/huawei-siph-optical-components-investment-startup.html)
+
+---
+
+### 🚀 戴爾股價一日飆升 32%。人工智慧伺服器的巨額收入令分析師震驚
+- **題材**: `AI伺服器` | **重要性**: `70`
+- **來源**: Slashdot.org (2026-05-29T23:34:00Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 據 CNBC 報道，戴爾股價週五飆升 32.76%，“這是有史以來最好的一天”，此前戴爾“報告了自 2018 年重返公開市場以來任何時期以來最快的收入增長速度……”
+
+“到 2026 年，股价将上涨 234%。”
+
+戴爾報告稱...
+- [原文連結](https://slashdot.org/story/26/05/29/2033206/dell-stock-surges-32-in-one-day-big-revenue-from-ai-servers-stuns-analysts)
+
+---
+
+### 🚀 聯華電子準備漲價，啟動 2027 年客戶洽談
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-05-27T23:53:29Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 聯華電子5月27日召開股東大會，執行長王傑表示，隨著AI應用快速擴展，長期半導體需求仍有成長空間。除了深化其在成熟和專業工藝方面的優勢外，聯華電子還…
+- [原文連結](https://www.digitimes.com/news/a20260527PD242/umc-2027-price-demand-ceo.html)
+
+---
+
+### ⚖️ Ezconn moves up AI optics chain with CPO and silicon photonics
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-05-27T23:50:34Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Ezconn 總裁 Ying-hua Chang 表示，預計美國雲端供應商的人工智慧資料中心擴張將至少在 2029 年之前維持對高核心數光學產品的需求。
+- [原文連結](https://www.digitimes.com/news/a20260527PD211/ezconn-cpo-siph-2026.html)
 
 ---
 
@@ -100,6 +113,16 @@
 
 ---
 
+### ⚖️ 蘋果分析師將 MacBook Neo 2026 年出貨量上調至 1,000 萬台
+- **題材**: `光通訊與矽光子` | **重要性**: `65`
+- **來源**: Macdailynews.com (2026-05-29T20:19:05Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 郭明池今天預計該公司最暢銷的筆記型電腦之一 MacBook Neo 的勢頭將強於預期...
+蘋果分析師將 MacBook Neo 2026 年出貨量上調至 1,000 萬台的貼文首先出現在 MacDailyNews 上。
+- [原文連結](https://macdailynews.com/2026/05/29/apple-analyst-ups-macbook-neo-2026-shipments-to-10-million-units/)
+
+---
+
 ### ⚠️ AI記憶體短缺才剛開始，這3隻ETF佔據了供應鏈的每一層
 - **題材**: `AI伺服器` | **重要性**: `65`
 - **來源**: 24/7 Wall St. (2026-05-28T21:48:09Z)
@@ -115,15 +138,6 @@
 - **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: The U.S. Court of International Trade on Wednesday ordered the commissioner for Customs and Border Protection (CBP) to appear at a hearing next month to...
 - [原文連結](https://thehill.com/business/5900102-customs-commissioner-tariff-refunds-hearing/)
-
----
-
-### 🚀 美光科技執行長 Sanjay Mehrotra 在價值數兆美元的記憶體晶片製造商繁榮中成為億萬富翁
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: Forbes (2026-05-27T20:03:28Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Micron joined South Korean competitors Samsung and SK Hynix in the trillion-dollar club this month, minting a new billionaire.
-- [原文連結](https://www.forbes.com/sites/aliciapark/2026/05/27/micron-ceo-sanjay-mehrotra-becomes-a-billionaire-amid-trillion-dollar-memory-chipmaker-boom/)
 
 ---
 
@@ -154,30 +168,21 @@
 
 ---
 
+### ⚠️ 印度警告將迎來11年來最弱季風 通膨風險上升
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-05-29T14:16:29Z)
+- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 作者：Rajendra Jadhav 和 Mayank Bhardwaj 孟買/新德里，5 月 29 日（路透社）
+- [原文連結](https://finance.yahoo.com/news/india-expected-below-average-monsoon-042609869.html)
+
+---
+
 ### 🚀 戴爾因 AI 伺服器繁榮而飆升 33%，超微電腦因超大規模支出加速而上漲 16%
 - **題材**: `AI伺服器` | **重要性**: `60`
 - **來源**: Yahoo Entertainment (2026-05-29T14:01:55Z)
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 
 - [原文連結](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_82ac3595-0760-46a1-abe7-cbfa6cf1b447)
-
----
-
-### ⚖️ 標準 GPU 上的即時 LLM 推理：每個請求 3k 令牌/秒
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: Blog.kog.ai (2026-05-29T09:47:23Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 今天，Kog AI 推出了 Kog 推理引擎 (KIE) 的技術預覽版：在 8 個 AMD MI300X GPU 上每個請求每秒 3,000 個輸出令牌，在 8 個 NVIDIA H200 上每個請求每秒 2,100 個輸出令牌（FP16，無推測解碼）。此預覽版運行 2B 模型，支援大型第三方 MoE…
-- [原文連結](https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/)
-
----
-
-### ⚖️ 20,000 隻眼睛觀察宇宙
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: Universe Today (2026-05-29T09:27:18Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 我們生活在天文成像的黃金時代。望遠鏡正在捕捉數十億張星系影像，以令人驚嘆的細節描繪宇宙。但有一個問題，而且是個大問題。照片告訴你某物看起來是什麼樣子，但它並沒有告訴你…
-- [原文連結](https://www.universetoday.com/articles/20000-eyes-on-the-universe)
 
 ---
 
