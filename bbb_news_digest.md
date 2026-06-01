@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-05-31T19:59:12.025776+00:00
+> 更新時間：2026-06-01T00:06:37.289518+00:00
 
 ### ⚖️ 英特爾代工捲土重來取決於先進封裝
 - **題材**: `半導體先進製程` | **重要性**: `78`
@@ -132,24 +132,6 @@
 
 ---
 
-### ⚠️ AI記憶體短缺才剛開始，這3隻ETF佔據了供應鏈的每一層
-- **題材**: `AI伺服器` | **重要性**: `65`
-- **來源**: 24/7 Wall St. (2026-05-28T21:48:09Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 高頻寬記憶體已成為 AI 建設的瓶頸，因為 NVIDIA 的 Blackwell 加速器依賴堆疊 DRAM 模組，而這些模組只有三個...
-- [原文連結](https://247wallst.com/investing/2026/05/28/the-ai-memory-shortage-is-just-getting-started-and-these-3-etfs-own-every-layer-of-the-supply-chain/)
-
----
-
-### ⚠️ 法院命令海關局長出席關稅退款聽證會
-- **題材**: `總體風險` | **重要性**: `65`
-- **來源**: The Hill (2026-05-28T20:21:31Z)
-- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: The U.S. Court of International Trade on Wednesday ordered the commissioner for Customs and Border Protection (CBP) to appear at a hearing next month to...
-- [原文連結](https://thehill.com/business/5900102-customs-commissioner-tariff-refunds-hearing/)
-
----
-
 ### ⚠️ 哥倫比亞指責厄瓜多「蓄意干涉」大選
 - **題材**: `總體風險` | **重要性**: `60`
 - **來源**: Yahoo Entertainment (2026-05-30T16:06:17Z)
@@ -183,6 +165,24 @@
 - **AI 判讀**: 屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 如果除了美國最糟糕的人以外的任何人擔任總統，我們的經濟將會完全不同。
 - [原文連結](https://www.jezebel.com/the-war-against-inflation-would-nearly-be-over-if-not-for-trump)
+
+---
+
+### 🚀 戴爾因 AI 伺服器繁榮而飆升 33%，超微電腦因超大規模支出加速而上漲 16%
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-05-29T14:01:55Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 
+- [原文連結](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_82ac3595-0760-46a1-abe7-cbfa6cf1b447)
+
+---
+
+### ⚖️ 20,000 隻眼睛觀察宇宙
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: Universe Today (2026-05-29T09:27:18Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 我們生活在天文成像的黃金時代。望遠鏡正在捕捉數十億張星系影像，以令人驚嘆的細節描繪宇宙。但有一個問題，而且是個大問題。照片告訴你某物看起來是什麼樣子，但它並沒有告訴你…
+- [原文連結](https://www.universetoday.com/articles/20000-eyes-on-the-universe)
 
 ---
 
