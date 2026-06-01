@@ -1,14 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-01T00:06:37.289518+00:00
-
-### ⚖️ 英特爾代工捲土重來取決於先進封裝
-- **題材**: `半導體先進製程` | **重要性**: `78`
-- **來源**: Digitimes (2026-05-29T04:05:41Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 根據 ETNews 報導，英特爾正在大力推進先進半導體封裝，以加強其代工業務並擴大其嵌入式多晶片互連橋（EMIB）技術的產能。
-- [原文連結](https://www.digitimes.com/news/a20260529VL214/intel-packaging-technology-equipment-investment.html)
-
----
+> 更新時間：2026-06-01T05:53:39.347509+00:00
 
 ### ⚖️ Marvell 擴展矽光子、交換和互連路線圖
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -37,12 +28,12 @@
 
 ---
 
-### 🚀 華為瞄準AI光網路投資InP晶片新創公司
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-05-25T02:32:08Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 隨著人工智慧資料中心需求的不斷增長，加速全球光通訊產業的升級，華為透過對磷化銦（InP）光晶片新創公司的新投資，進一步向人工智慧光網路和矽光子（SiPh）領域拓展。
-- [原文連結](https://www.digitimes.com/news/a20260525PD209/huawei-siph-optical-components-investment-startup.html)
+### ⚖️ 英特爾代工捲土重來取決於先進封裝
+- **題材**: `半導體先進製程` | **重要性**: `73`
+- **來源**: Digitimes (2026-05-29T04:05:41Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 根據 ETNews 報導，英特爾正在大力推進先進半導體封裝，以加強其代工業務並擴大其嵌入式多晶片互連橋（EMIB）技術的產能。
+- [原文連結](https://www.digitimes.com/news/a20260529VL214/intel-packaging-technology-equipment-investment.html)
 
 ---
 
@@ -104,12 +95,30 @@
 
 ---
 
+### 🚀 華為瞄準AI光網路投資InP晶片新創公司
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-05-25T02:32:08Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 隨著人工智慧資料中心需求的不斷增長，加速全球光通訊產業的升級，華為透過對磷化銦（InP）光晶片新創公司的新投資，進一步向人工智慧光網路和矽光子（SiPh）領域拓展。
+- [原文連結](https://www.digitimes.com/news/a20260525PD209/huawei-siph-optical-components-investment-startup.html)
+
+---
+
 ### ⚖️ SK 海力士推出「iHBM」熱架構，從源頭冷卻 AI 記憶體——HBM 介面內的整合式冷卻元件將熱阻降低 30%，目標是下一代 HBM5 加速器和密集的 AI 資料中心
 - **題材**: `HBM記憶體` | **重要性**: `67`
 - **來源**: Tom's Hardware UK (2026-05-26T11:49:14Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: SK海力士推出了iHBM，這是一種新型熱封裝架構，可將冷卻元件直接嵌入到HBM界面層中，將熱阻降低30%，並幫助未來的人工智慧加速器避免影響性能的熱節流。
 - [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-unveils-ihbm-thermal-architecture-that-cools-ai-memory-at-the-source-integrated-cooling-elements-inside-hbm-interface-cut-thermal-resistance-by-30-percent-target-next-gen-hbm5-accelerators-and-dense-ai-data-centers)
+
+---
+
+### ⚖️ 人工智慧經濟可能會因晶片成本不斷上升而崩潰——而這些代幣成本無濟於事
+- **題材**: `AI伺服器` | **重要性**: `65`
+- **來源**: Yahoo Entertainment (2026-05-30T11:15:00Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 飆升的 GPU 價格、債務資助的晶片交易以及代理代幣爆炸式增長——硬體和計算驅動人工智慧的成本可能是破壞它的原因。
+- [原文連結](https://finance.yahoo.com/economy/articles/ai-economy-could-crash-mounting-111500824.html)
 
 ---
 
@@ -174,15 +183,6 @@
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 
 - [原文連結](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_82ac3595-0760-46a1-abe7-cbfa6cf1b447)
-
----
-
-### ⚖️ 20,000 隻眼睛觀察宇宙
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: Universe Today (2026-05-29T09:27:18Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 我們生活在天文成像的黃金時代。望遠鏡正在捕捉數十億張星系影像，以令人驚嘆的細節描繪宇宙。但有一個問題，而且是個大問題。照片告訴你某物看起來是什麼樣子，但它並沒有告訴你…
-- [原文連結](https://www.universetoday.com/articles/20000-eyes-on-the-universe)
 
 ---
 
