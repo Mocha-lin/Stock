@@ -1,12 +1,12 @@
 {
   "id": "3374",
   "name": "精材",
-  "lastUpdated": "2026-05-31 17:45:12",
+  "lastUpdated": "2026-06-01 20:31:15",
   "ai_model": "Fact-Update",
   "basicInfo": {
-    "price": "259.00",
-    "change": "4.00",
-    "changePercent": "1.57%"
+    "price": "260.50",
+    "change": "1.50",
+    "changePercent": "0.58%"
   },
   "financials": {
     "revenue_trend": [
@@ -550,6 +550,14 @@
     ],
     "chips_table": [
       {
+        "date": "2026-06-01",
+        "foreign_lots": -2163.067,
+        "it_lots": -105.0,
+        "dealer_lots": 120.223,
+        "sum_lots": -2147.844,
+        "pct_float": -0.07914983658498925
+      },
+      {
         "date": "2026-05-29",
         "foreign_lots": -3392.891,
         "it_lots": 0.0,
@@ -660,14 +668,6 @@
         "dealer_lots": 868.5169999999999,
         "sum_lots": 1315.052,
         "pct_float": 0.04846075920819356
-      },
-      {
-        "date": "2026-05-11",
-        "foreign_lots": 1202.064,
-        "it_lots": 0.0,
-        "dealer_lots": -23.055000000000007,
-        "sum_lots": 1179.009,
-        "pct_float": 0.04344746158577234
       }
     ],
     "c_score_data": {
@@ -675,8 +675,8 @@
       "dataset": "structure_c_score",
       "stock_id": "3374",
       "ticker": "3374.TWO",
-      "asof": "2026-05-29",
-      "c_score": 1.3433124717043752,
+      "asof": "2026-06-01",
+      "c_score": 1.3873253537058594,
       "benchmark_pe": 97.10332606324972,
       "source": [
         "FinMind",
@@ -907,9 +907,9 @@
           "eps": 2.1,
           "revenue_q": 20.6691,
           "pe_ratio": 64.18813427010149,
-          "rev_growth": 331.8333765115871,
+          "rev_growth": null,
           "eps_growth": 128.26086956521738,
-          "rt_weight": 1.1,
+          "rt_weight": 1.0,
           "deviation": 0.6610292033487254,
           "theo_price": 203.91698473282443
         },
@@ -951,14 +951,14 @@
         },
         {
           "period": "2021Q2",
-          "avg_price": 165.11363636363637,
+          "avg_price": 165.71428571428572,
           "eps": 0.92,
-          "revenue_q": 4.78636,
-          "pe_ratio": 179.47134387351778,
+          "revenue_q": null,
+          "pe_ratio": 180.12422360248448,
           "rev_growth": null,
           "eps_growth": null,
           "rt_weight": 1.0,
-          "deviation": 1.8482512510088112,
+          "deviation": 1.8549748078161383,
           "theo_price": 89.33505997818975
         }
       ],
@@ -974,8 +974,8 @@
     "returns_table": [
       {
         "year": 2026,
-        "return_pct": 79.86111111111111,
-        "period": "01/02~05/29"
+        "return_pct": 80.90277777777777,
+        "period": "01/02~06/01"
       },
       {
         "year": 2025,
@@ -994,32 +994,11 @@
       },
       {
         "year": 2022,
-        "return_pct": -31.23461396673004,
+        "return_pct": -31.234608222725836,
         "period": "01/03~12/30"
       }
     ],
     "kline_data": [
-      {
-        "date": "2025-11-26",
-        "symbol": "3374.TWO",
-        "open": 133.5,
-        "high": 141.5,
-        "low": 133.5,
-        "close": 137.0,
-        "volume": 2151300.0,
-        "adjclose": 137.0,
-        "dividends": 0.0,
-        "MA5": 132.6,
-        "MA20": 141.125,
-        "MA60": 142.4,
-        "bb_mid": 141.125,
-        "bb_up": 158.46245944479648,
-        "bb_dn": 123.78754055520352,
-        "DIF": -3.706081961375162,
-        "DEA": -2.9003919933841087,
-        "HIST": -1.6113799359821064,
-        "volume_lot": 2151.3
-      },
       {
         "date": "2025-11-27",
         "symbol": "3374.TWO",
@@ -3518,6 +3497,27 @@
         "DEA": 16.35314520801344,
         "HIST": -1.7054181576420362,
         "volume_lot": 17853.8
+      },
+      {
+        "date": "2026-06-01",
+        "symbol": "3374.TWO",
+        "open": 262.0,
+        "high": 265.0,
+        "low": 253.0,
+        "close": 260.5,
+        "volume": 15484689.0,
+        "adjclose": 260.5,
+        "dividends": 0.0,
+        "MA5": 256.1,
+        "MA20": 243.25,
+        "MA60": 198.44166666666663,
+        "bb_mid": 243.25,
+        "bb_up": 284.80177493200466,
+        "bb_dn": 201.6982250679953,
+        "DIF": 15.291622136194832,
+        "DEA": 16.14084059364972,
+        "HIST": -1.698436914909777,
+        "volume_lot": 15484.689
       }
     ],
     "valuation": {

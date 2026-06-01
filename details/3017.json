@@ -1,12 +1,12 @@
 {
   "id": "3017",
   "name": "奇鋐",
-  "lastUpdated": "2026-05-31 17:45:12",
+  "lastUpdated": "2026-06-01 20:31:15",
   "ai_model": "Fact-Update",
   "basicInfo": {
-    "price": "2665.00",
-    "change": "85.00",
-    "changePercent": "3.29%"
+    "price": "2785.00",
+    "change": "120.00",
+    "changePercent": "4.50%"
   },
   "financials": {
     "revenue_trend": [
@@ -550,6 +550,14 @@
     ],
     "chips_table": [
       {
+        "date": "2026-06-01",
+        "foreign_lots": 645.54,
+        "it_lots": 60.001,
+        "dealer_lots": 64.2,
+        "sum_lots": 769.741,
+        "pct_float": 0.019531318985247622
+      },
+      {
         "date": "2026-05-29",
         "foreign_lots": 232.388,
         "it_lots": 298.876,
@@ -660,14 +668,6 @@
         "dealer_lots": -50.934,
         "sum_lots": -346.486,
         "pct_float": -0.008791695635184442
-      },
-      {
-        "date": "2026-05-11",
-        "foreign_lots": -238.57,
-        "it_lots": 603.041,
-        "dealer_lots": 50.029,
-        "sum_lots": 414.50000000000006,
-        "pct_float": 0.01051747499403714
       }
     ],
     "c_score_data": {
@@ -675,8 +675,8 @@
       "dataset": "structure_c_score",
       "stock_id": "3017",
       "ticker": "3017.TW",
-      "asof": "2026-05-29",
-      "c_score": 1.0805278178731879,
+      "asof": "2026-06-01",
+      "c_score": 1.113159762837603,
       "benchmark_pe": 62.943994806872126,
       "source": [
         "FinMind",
@@ -907,9 +907,9 @@
           "eps": 3.1,
           "revenue_q": 132.39938,
           "pe_ratio": 33.8208752192876,
-          "rev_growth": 190.94992077950334,
+          "rev_growth": null,
           "eps_growth": 37.77777777777778,
-          "rt_weight": 1.1,
+          "rt_weight": 1.0,
           "deviation": 0.5373169485517797,
           "theo_price": 195.1263839013036
         },
@@ -951,14 +951,14 @@
         },
         {
           "period": "2021Q2",
-          "avg_price": 74.63891670920633,
+          "avg_price": 74.73798406691779,
           "eps": 2.25,
-          "revenue_q": 45.5059,
-          "pe_ratio": 33.172851870758365,
+          "revenue_q": null,
+          "pe_ratio": 33.216881807519016,
           "rev_growth": null,
           "eps_growth": null,
           "rt_weight": 1.0,
-          "deviation": 0.5270217114840098,
+          "deviation": 0.5277212212131864,
           "theo_price": 141.62398831546227
         }
       ],
@@ -974,8 +974,8 @@
     "returns_table": [
       {
         "year": 2026,
-        "return_pct": 83.1615120274914,
-        "period": "01/02~05/29"
+        "return_pct": 91.40893470790378,
+        "period": "01/02~06/01"
       },
       {
         "year": 2025,
@@ -994,32 +994,11 @@
       },
       {
         "year": 2022,
-        "return_pct": 30.644146197497268,
+        "return_pct": 30.644134036297377,
         "period": "01/03~12/30"
       }
     ],
     "kline_data": [
-      {
-        "date": "2025-11-26",
-        "symbol": "3017.TW",
-        "open": 1350.0,
-        "high": 1390.0,
-        "low": 1340.0,
-        "close": 1385.0,
-        "volume": 8053241.0,
-        "adjclose": 1385.0,
-        "dividends": 0.0,
-        "MA5": 1304.0,
-        "MA20": 1416.5,
-        "MA60": 1186.8333333333333,
-        "bb_mid": 1416.5,
-        "bb_up": 1589.4479690543078,
-        "bb_dn": 1243.5520309456922,
-        "DIF": 19.36069671516384,
-        "DEA": 46.702704230321125,
-        "HIST": -54.68401503031457,
-        "volume_lot": 8053.241
-      },
       {
         "date": "2025-11-27",
         "symbol": "3017.TW",
@@ -3518,6 +3497,27 @@
         "DEA": 47.505407938451256,
         "HIST": 7.537326318577556,
         "volume_lot": 8887.897
+      },
+      {
+        "date": "2026-06-01",
+        "symbol": "3017.TW",
+        "open": 2705.0,
+        "high": 2835.0,
+        "low": 2705.0,
+        "close": 2785.0,
+        "volume": 4920681.0,
+        "adjclose": 2785.0,
+        "dividends": 0.0,
+        "MA5": 2691.0,
+        "MA20": 2544.0,
+        "MA60": 2332.5,
+        "bb_mid": 2544.0,
+        "bb_up": 2785.8387892791934,
+        "bb_dn": 2302.1612107208066,
+        "DIF": 63.60068478252424,
+        "DEA": 50.72446330726585,
+        "HIST": 25.75244295051678,
+        "volume_lot": 4920.681
       }
     ],
     "valuation": {

@@ -1,12 +1,12 @@
 {
   "id": "6187",
   "name": "萬潤",
-  "lastUpdated": "2026-05-31 17:45:12",
+  "lastUpdated": "2026-06-01 20:31:15",
   "ai_model": "Fact-Update",
   "basicInfo": {
-    "price": "1120.00",
-    "change": "-120.00",
-    "changePercent": "-9.68%"
+    "price": "1070.00",
+    "change": "-50.00",
+    "changePercent": "-4.46%"
   },
   "financials": {
     "revenue_trend": [
@@ -550,6 +550,14 @@
     ],
     "chips_table": [
       {
+        "date": "2026-06-01",
+        "foreign_lots": -811.658,
+        "it_lots": -450.0,
+        "dealer_lots": -2.609,
+        "sum_lots": -1264.2669999999998,
+        "pct_float": -0.1294884545068136
+      },
+      {
         "date": "2026-05-29",
         "foreign_lots": -965.787,
         "it_lots": 82.0,
@@ -660,14 +668,6 @@
         "dealer_lots": 30.71,
         "sum_lots": 598.422,
         "pct_float": 0.0612914360043222
-      },
-      {
-        "date": "2026-05-11",
-        "foreign_lots": 161.418,
-        "it_lots": -296.0,
-        "dealer_lots": -10.971,
-        "sum_lots": -145.553,
-        "pct_float": -0.014907794808240855
       }
     ],
     "c_score_data": {
@@ -675,8 +675,8 @@
       "dataset": "structure_c_score",
       "stock_id": "6187",
       "ticker": "6187.TWO",
-      "asof": "2026-05-29",
-      "c_score": 1.0217350577601745,
+      "asof": "2026-06-01",
+      "c_score": 1.059772191143852,
       "benchmark_pe": 87.31407322654462,
       "source": [
         "FinMind",
@@ -907,9 +907,9 @@
           "eps": 2.07,
           "revenue_q": 7.67948,
           "pe_ratio": 50.909162868633594,
-          "rev_growth": 190.6042935150742,
+          "rev_growth": null,
           "eps_growth": 6.153846153846154,
-          "rt_weight": 1.1,
+          "rt_weight": 1.0,
           "deviation": 0.5830579308394531,
           "theo_price": 180.74013157894734
         },
@@ -951,14 +951,14 @@
         },
         {
           "period": "2021Q2",
-          "avg_price": 132.02272727272728,
+          "avg_price": 131.9047619047619,
           "eps": 1.95,
-          "revenue_q": 2.64259,
-          "pe_ratio": 67.70396270396272,
+          "revenue_q": null,
+          "pe_ratio": 67.64346764346764,
           "rev_growth": null,
           "eps_growth": null,
           "rt_weight": 1.0,
-          "deviation": 0.7754072190435828,
+          "deviation": 0.7747143747143748,
           "theo_price": 170.262442791762
         }
       ],
@@ -974,8 +974,8 @@
     "returns_table": [
       {
         "year": 2026,
-        "return_pct": 200.67114093959734,
-        "period": "01/02~05/29"
+        "return_pct": 187.24832214765098,
+        "period": "01/02~06/01"
       },
       {
         "year": 2025,
@@ -984,42 +984,21 @@
       },
       {
         "year": 2024,
-        "return_pct": 184.72383999234108,
+        "return_pct": 184.7238715415035,
         "period": "01/02~12/31"
       },
       {
         "year": 2023,
-        "return_pct": 129.50949114824115,
+        "return_pct": 129.5095058434085,
         "period": "01/03~12/29"
       },
       {
         "year": 2022,
-        "return_pct": -47.157796007042826,
+        "return_pct": -47.15778880752699,
         "period": "01/03~12/30"
       }
     ],
     "kline_data": [
-      {
-        "date": "2025-11-26",
-        "symbol": "6187.TWO",
-        "open": 347.0,
-        "high": 356.0,
-        "low": 346.0,
-        "close": 348.5,
-        "volume": 1339868.0,
-        "adjclose": 348.5,
-        "dividends": 0.0,
-        "MA5": 337.6,
-        "MA20": 340.05,
-        "MA60": 364.45,
-        "bb_mid": 340.05,
-        "bb_up": 373.7677994537013,
-        "bb_dn": 306.33220054629874,
-        "DIF": -7.763145942818028,
-        "DEA": -10.36535287000682,
-        "HIST": 5.204413854377584,
-        "volume_lot": 1339.868
-      },
       {
         "date": "2025-11-27",
         "symbol": "6187.TWO",
@@ -3518,6 +3497,27 @@
         "DEA": 29.10546479028117,
         "HIST": -16.470833975775996,
         "volume_lot": 7247.439
+      },
+      {
+        "date": "2026-06-01",
+        "symbol": "6187.TWO",
+        "open": 1090.0,
+        "high": 1100.0,
+        "low": 1040.0,
+        "close": 1070.0,
+        "volume": 4471557.0,
+        "adjclose": 1070.0,
+        "dividends": 0.0,
+        "MA5": 1143.0,
+        "MA20": 1153.5,
+        "MA60": 1007.4333333333332,
+        "bb_mid": 1153.5,
+        "bb_up": 1288.002788075189,
+        "bb_dn": 1018.9972119248108,
+        "DIF": 12.61186271688689,
+        "DEA": 25.80674437560232,
+        "HIST": -26.38976331743085,
+        "volume_lot": 4471.557
       }
     ],
     "valuation": {
