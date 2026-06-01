@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-01T18:32:01.257903+00:00
+> 更新時間：2026-06-01T21:56:02.943705+00:00
 
 ### ⚖️ Marvell 擴展矽光子、交換和互連路線圖
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -113,25 +113,6 @@
 
 ---
 
-### ⚖️ 蘋果分析師將 MacBook Neo 2026 年出貨量上調至 1,000 萬台
-- **題材**: `光通訊與矽光子` | **重要性**: `65`
-- **來源**: Macdailynews.com (2026-05-29T20:19:05Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 郭明池今天預計該公司最暢銷的筆記型電腦之一 MacBook Neo 的勢頭將強於預期...
-蘋果分析師將 MacBook Neo 2026 年出貨量上調至 1,000 萬台的貼文首先出現在 MacDailyNews 上。
-- [原文連結](https://macdailynews.com/2026/05/29/apple-analyst-ups-macbook-neo-2026-shipments-to-10-million-units/)
-
----
-
-### 🚀 超越矽谷：泛林資本創業大賽走向全球
-- **題材**: `光通訊與矽光子` | **重要性**: `63`
-- **來源**: Digitimes (2026-05-25T08:00:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Lam Research 旗下 Lam Capital 最近舉辦了第四屆創業大賽，吸引了來自美國、韓國、新加坡、印度和台灣的團隊爭奪豐厚的獎金。美國新創公司 Lightfinder 憑藉一項以矽光子為中心的提案贏得了最高獎項…
-- [原文連結](https://www.digitimes.com/news/a20260525PD228/startup-lam-research-silicon-valley-competition-taiwan.html)
-
----
-
 ### 🚀 白宮經濟主任淡化物價上漲帶來的經濟焦慮
 - **題材**: `總體風險` | **重要性**: `60`
 - **來源**: Abcnews.com (2026-05-31T14:37:32Z)
@@ -159,12 +140,13 @@
 
 ---
 
-### ⚖️ 為什麼高頻寬記憶體是AI晶片的瓶頸
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: Scientific American (2026-05-29T19:00:00Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 高頻寬記憶體為強大的人工智慧晶片提供數據，對其的需求幫助總部位於博伊西的美光科技短暫突破了 1 兆美元
-- [原文連結](https://www.scientificamerican.com/article/high-bandwidth-memory-is-a-bottleneck-for-ai-chips/)
+### ⚖️ 蘋果分析師將 MacBook Neo 2026 年出貨量上調至 1,000 萬台
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: Macdailynews.com (2026-05-29T20:19:05Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 郭明池今天預計該公司最暢銷的筆記型電腦之一 MacBook Neo 的勢頭將強於預期...
+蘋果分析師將 MacBook Neo 2026 年出貨量上調至 1,000 萬台的貼文首先出現在 MacDailyNews 上。
+- [原文連結](https://macdailynews.com/2026/05/29/apple-analyst-ups-macbook-neo-2026-shipments-to-10-million-units/)
 
 ---
 
@@ -183,6 +165,24 @@
 - **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 高頻寬記憶體已成為 AI 建設的瓶頸，因為 NVIDIA 的 Blackwell 加速器依賴堆疊 DRAM 模組，而這些模組只有三個...
 - [原文連結](https://247wallst.com/investing/2026/05/28/the-ai-memory-shortage-is-just-getting-started-and-these-3-etfs-own-every-layer-of-the-supply-chain/)
+
+---
+
+### ⚠️ 法院命令海關局長出席關稅退款聽證會
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: The Hill (2026-05-28T20:21:31Z)
+- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: The U.S. Court of International Trade on Wednesday ordered the commissioner for Customs and Border Protection (CBP) to appear at a hearing next month to...
+- [原文連結](https://thehill.com/business/5900102-customs-commissioner-tariff-refunds-hearing/)
+
+---
+
+### 🚀 美光科技執行長 Sanjay Mehrotra 在價值數兆美元的記憶體晶片製造商繁榮中成為億萬富翁
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: Forbes (2026-05-27T20:03:28Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Micron joined South Korean competitors Samsung and SK Hynix in the trillion-dollar club this month, minting a new billionaire.
+- [原文連結](https://www.forbes.com/sites/aliciapark/2026/05/27/micron-ceo-sanjay-mehrotra-becomes-a-billionaire-amid-trillion-dollar-memory-chipmaker-boom/)
 
 ---
 
