@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-02T05:24:04.826648+00:00
+> 更新時間：2026-06-02T09:46:01.341539+00:00
 
 ### ⚖️ AI基礎設施觸及銅極限，代工廠至2028年鎖定矽光子產能
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -19,15 +19,6 @@
 
 ---
 
-### ⚖️ 165 億美元的賭注：到 2030 年，共同封裝的光學元件將如何重新連接人工智慧的骨幹
-- **題材**: `半導體先進製程` | **重要性**: `78`
-- **來源**: Digitimes (2026-05-26T08:47:51Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 隨著人工智慧叢集不斷規模化，傳統互連架構在頻寬、能源效率和系統整合方面面臨新的限制。共封裝光學正成為下一代人工智慧基礎設施、重塑的關鍵技術路徑…
-- [原文連結](https://www.digitimes.com/reports/item.php?id=20260521RS400)
-
----
-
 ### 🚀 Marvell 2027 年第一季收益因人工智慧資料中心需求而成長
 - **題材**: `光通訊與矽光子` | **重要性**: `75`
 - **來源**: Quartz India (2026-05-28T11:51:48Z)
@@ -43,6 +34,15 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 根據 ETNews 報導，英特爾正在大力推進先進半導體封裝，以加強其代工業務並擴大其嵌入式多晶片互連橋（EMIB）技術的產能。
 - [原文連結](https://www.digitimes.com/news/a20260529VL214/intel-packaging-technology-equipment-investment.html)
+
+---
+
+### ⚖️ 165 億美元的賭注：到 2030 年，共同封裝的光學元件將如何重新連接人工智慧的骨幹
+- **題材**: `半導體先進製程` | **重要性**: `73`
+- **來源**: Digitimes (2026-05-26T08:47:51Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 隨著人工智慧叢集不斷規模化，傳統互連架構在頻寬、能源效率和系統整合方面面臨新的限制。共封裝光學正成為下一代人工智慧基礎設施、重塑的關鍵技術路徑…
+- [原文連結](https://www.digitimes.com/reports/item.php?id=20260521RS400)
 
 ---
 
@@ -73,21 +73,21 @@
 
 ---
 
+### ⚖️ Nvidia 在 2026 年 Computex 上公佈了適用於筆記型電腦和桌上型電腦的 DGX Spark 路線圖——概述了三代，Rubin 採用 LPDDR6 內存，Rosa Feynman 緊隨其後
+- **題材**: `AI伺服器` | **重要性**: `67`
+- **來源**: Tom's Hardware UK (2026-06-01T05:55:07Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 除了適用於桌上型電腦和筆記型電腦的第一代 RTX Spark 平台外，Nvidia 執行長黃仁勳還透露了該公司在未來路線圖中對未來幾代平台的承諾。
+- [原文連結](https://www.tomshardware.com/pc-components/cpus/nvidia-unveils-dgx-sparrk-roadmap-for-laptops-and-desktop-pcs-at-computex-2026-three-generations-outlined-rubin-followed-by-rosa-feynman)
+
+---
+
 ### ⚖️ SK 海力士推出「iHBM」熱架構，從源頭冷卻 AI 記憶體——HBM 介面內的整合式冷卻元件將熱阻降低 30%，目標是下一代 HBM5 加速器和密集的 AI 資料中心
 - **題材**: `HBM記憶體` | **重要性**: `67`
 - **來源**: Tom's Hardware UK (2026-05-26T11:49:14Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: SK海力士推出了iHBM，這是一種新型熱封裝架構，可將冷卻元件直接嵌入到HBM界面層中，將熱阻降低30%，並幫助未來的人工智慧加速器避免影響性能的熱節流。
 - [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-unveils-ihbm-thermal-architecture-that-cools-ai-memory-at-the-source-integrated-cooling-elements-inside-hbm-interface-cut-thermal-resistance-by-30-percent-target-next-gen-hbm5-accelerators-and-dense-ai-data-centers)
-
----
-
-### ⚖️ 人工智慧經濟可能會因晶片成本不斷上升而崩潰——而這些代幣成本無濟於事
-- **題材**: `AI伺服器` | **重要性**: `65`
-- **來源**: Yahoo Entertainment (2026-05-30T11:15:00Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 飆升的 GPU 價格、債務資助的晶片交易以及代理代幣爆炸式增長——硬體和計算驅動人工智慧的成本可能是破壞它的原因。
-- [原文連結](https://finance.yahoo.com/economy/articles/ai-economy-could-crash-mounting-111500824.html)
 
 ---
 
@@ -110,6 +110,33 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: AI 運算對基礎設施的巨大需求使得互連和雷射技術成為克服功率和頻寬限制的關鍵，促使矽光子獨角獸 Lightmatter 推出其最新雷射產品 Guide DR。为了推进其 3D 堆栈……
 - [原文連結](https://www.digitimes.com/news/a20260525PD235/siph-laser-demand-infrastructure-technology-tsmc.html)
+
+---
+
+### ⚠️ 記憶體緊縮導致個人電腦價格上漲兩位數
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: Theregister.com (2026-06-01T09:15:00Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 隨著晶片製造商放棄消費性套件轉而採用人工智慧伺服器，筆記型電腦成長 11%，桌上型電腦成長 10%
+- [原文連結](https://www.theregister.com/personal-tech/2026/06/01/memory-crunch-sends-pc-prices-into-double-digit-climb/5248525)
+
+---
+
+### 🚀 華碩 ProArt P16 和 P14 N1X 為創作者帶來工作站級電源、RTX 顯示卡和 AI-PC 性能
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: Windows Central (2026-06-01T08:48:15Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 華碩發表了 ProArt P16 和 P14 N1X，這是兩款專為 Windows AI-PC 時代打造的以創作者為中心的筆記型電腦。兩款型號均提供工作站級性能，配備 N1X 處理器、可選 NVIDIA RTX 顯示卡、先進的冷卻系統和專為…設計的高階顯示器。
+- [原文連結](https://www.windowscentral.com/hardware/asus/asus-proart-p16-and-p14-n1x-computex-2026)
+
+---
+
+### 🚀 Nvidia RTX Spark 可能會為 Arm 上的 Windows 帶來火力
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: CNET (2026-06-01T05:30:42Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 新的 SoC 承諾為創作和遊戲，當然還有生成式人工智慧和代理提供一流的性能。
+- [原文連結](https://www.cnet.com/tech/computing/nvidia-rtx-spark-may-light-a-fire-for-windows-on-arm/)
 
 ---
 
@@ -155,33 +182,6 @@
 - **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 中國已悄悄成為全球石油市場的隱形搖擺消費國，有可能將世界末日延後一段時間。
 - [原文連結](https://finance.yahoo.com/sectors/energy/articles/wall-street-may-solved-nagging-224009888.html)
-
----
-
-### 🚀 白宮經濟主任淡化物價上漲帶來的經濟焦慮
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Abcnews.com (2026-05-31T14:37:32Z)
-- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 凱文哈塞特表示，儘管物價和通膨上漲，但實際收入仍在增加。
-- [原文連結](https://abcnews.com/Politics/white-house-economic-director-downplays-americans-economic-anxiety/story?id=133462207)
-
----
-
-### ⚖️ 川普計劃對允許所有支付被取消關稅的進口商尋求退款的命令提出上訴
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-05-30T16:40:15Z)
-- **AI 判讀**: 屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 在美國最高法院裁定唐納德·特朗普總統缺乏憲法規定後，大大小小的企業已開始獲得關稅退款…
-- [原文連結](https://www.yahoo.com/news/politics/articles/trump-plans-appeal-order-allowing-164015267.html)
-
----
-
-### ⚠️ 哥倫比亞指責厄瓜多「蓄意干涉」大選
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-05-30T16:06:17Z)
-- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 哥倫比亞政府週六拒絕了厄瓜多爾總統丹尼爾·諾博亞取消哥倫比亞進口關稅的舉措，因為關稅承諾...
-- [原文連結](https://www.yahoo.com/news/politics/articles/colombia-accuses-ecuador-deliberate-interference-160617958.html)
 
 ---
 
