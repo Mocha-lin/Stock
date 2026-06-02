@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-02T09:46:01.341539+00:00
+> 更新時間：2026-06-02T12:42:29.177887+00:00
 
 ### ⚖️ AI基礎設施觸及銅極限，代工廠至2028年鎖定矽光子產能
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -82,15 +82,6 @@
 
 ---
 
-### ⚖️ SK 海力士推出「iHBM」熱架構，從源頭冷卻 AI 記憶體——HBM 介面內的整合式冷卻元件將熱阻降低 30%，目標是下一代 HBM5 加速器和密集的 AI 資料中心
-- **題材**: `HBM記憶體` | **重要性**: `67`
-- **來源**: Tom's Hardware UK (2026-05-26T11:49:14Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: SK海力士推出了iHBM，這是一種新型熱封裝架構，可將冷卻元件直接嵌入到HBM界面層中，將熱阻降低30%，並幫助未來的人工智慧加速器避免影響性能的熱節流。
-- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-unveils-ihbm-thermal-architecture-that-cools-ai-memory-at-the-source-integrated-cooling-elements-inside-hbm-interface-cut-thermal-resistance-by-30-percent-target-next-gen-hbm5-accelerators-and-dense-ai-data-centers)
-
----
-
 ### 🚀 戴爾股價一日飆升 32%。人工智慧伺服器的巨額收入令分析師震驚
 - **題材**: `AI伺服器` | **重要性**: `65`
 - **來源**: Slashdot.org (2026-05-29T23:34:00Z)
@@ -113,30 +104,39 @@
 
 ---
 
+### ⚖️ SK 海力士推出「iHBM」熱架構，從源頭冷卻 AI 記憶體——HBM 介面內的整合式冷卻元件將熱阻降低 30%，目標是下一代 HBM5 加速器和密集的 AI 資料中心
+- **題材**: `HBM記憶體` | **重要性**: `62`
+- **來源**: Tom's Hardware UK (2026-05-26T11:49:14Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: SK海力士推出了iHBM，這是一種新型熱封裝架構，可將冷卻元件直接嵌入到HBM界面層中，將熱阻降低30%，並幫助未來的人工智慧加速器避免影響性能的熱節流。
+- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-unveils-ihbm-thermal-architecture-that-cools-ai-memory-at-the-source-integrated-cooling-elements-inside-hbm-interface-cut-thermal-resistance-by-30-percent-target-next-gen-hbm5-accelerators-and-dense-ai-data-centers)
+
+---
+
+### ⚖️ 「計算就是利潤」：黃仁勳在台灣主題演講的三大要點
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: Business Insider (2026-06-01T12:37:35Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Jensen Huang 的演講充滿了新版本，其中包括旨在重塑我們所知的個人電腦的 RTX Spark。
+- [原文連結](https://www.businessinsider.com/jensen-huang-computex-keynote-takeaways-ai-laptop-chip-rtx-spark-2026-6)
+
+---
+
+### 🚀 Adobe 將利用 RTX Spark 和 N1x 晶片增強 Photoshop 和 Premiere 的效能
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: Windows Central (2026-06-01T11:28:08Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Adobe 承諾在即將推出的 Photoshop 和 Premiere 更新中將效果、AI 和編輯效能提高一倍。收益來自於針對 NVIDIA RTX Spark 平台優化這兩個應用程式。
+- [原文連結](https://www.windowscentral.com/software-apps/adobe-will-supercharge-photoshop-and-premiere-with-rtx-spark-and-the-n1x-chip)
+
+---
+
 ### ⚠️ 記憶體緊縮導致個人電腦價格上漲兩位數
 - **題材**: `AI伺服器` | **重要性**: `60`
 - **來源**: Theregister.com (2026-06-01T09:15:00Z)
 - **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 隨著晶片製造商放棄消費性套件轉而採用人工智慧伺服器，筆記型電腦成長 11%，桌上型電腦成長 10%
 - [原文連結](https://www.theregister.com/personal-tech/2026/06/01/memory-crunch-sends-pc-prices-into-double-digit-climb/5248525)
-
----
-
-### 🚀 華碩 ProArt P16 和 P14 N1X 為創作者帶來工作站級電源、RTX 顯示卡和 AI-PC 性能
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: Windows Central (2026-06-01T08:48:15Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 華碩發表了 ProArt P16 和 P14 N1X，這是兩款專為 Windows AI-PC 時代打造的以創作者為中心的筆記型電腦。兩款型號均提供工作站級性能，配備 N1X 處理器、可選 NVIDIA RTX 顯示卡、先進的冷卻系統和專為…設計的高階顯示器。
-- [原文連結](https://www.windowscentral.com/hardware/asus/asus-proart-p16-and-p14-n1x-computex-2026)
-
----
-
-### 🚀 Nvidia RTX Spark 可能會為 Arm 上的 Windows 帶來火力
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: CNET (2026-06-01T05:30:42Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 新的 SoC 承諾為創作和遊戲，當然還有生成式人工智慧和代理提供一流的性能。
-- [原文連結](https://www.cnet.com/tech/computing/nvidia-rtx-spark-may-light-a-fire-for-windows-on-arm/)
 
 ---
 
