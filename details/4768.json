@@ -1,12 +1,12 @@
 {
   "id": "4768",
   "name": "晶呈科技",
-  "lastUpdated": "2026-06-01 20:31:15",
+  "lastUpdated": "2026-06-02 19:13:50",
   "ai_model": "Fact-Update",
   "basicInfo": {
-    "price": "491.50",
-    "change": "22.00",
-    "changePercent": "4.69%"
+    "price": "492.00",
+    "change": "0.50",
+    "changePercent": "0.10%"
   },
   "financials": {
     "revenue_trend": [
@@ -550,6 +550,14 @@
     ],
     "chips_table": [
       {
+        "date": "2026-06-02",
+        "foreign_lots": 23.433,
+        "it_lots": 0.0,
+        "dealer_lots": 31.656,
+        "sum_lots": 55.089,
+        "pct_float": 0.011600639320753286
+      },
+      {
         "date": "2026-06-01",
         "foreign_lots": 297.734,
         "it_lots": 0.0,
@@ -660,14 +668,6 @@
         "dealer_lots": -14.241,
         "sum_lots": -209.53300000000002,
         "pct_float": -0.04412345039473214
-      },
-      {
-        "date": "2026-05-12",
-        "foreign_lots": -145.282,
-        "it_lots": 0.0,
-        "dealer_lots": -5.446,
-        "sum_lots": -150.728,
-        "pct_float": -0.03174029594907334
       }
     ],
     "c_score_data": {
@@ -675,7 +675,7 @@
       "dataset": "structure_c_score",
       "stock_id": "4768",
       "ticker": "4768.TWO",
-      "asof": "2026-06-01",
+      "asof": "2026-06-02",
       "c_score": 9.401850932691323,
       "benchmark_pe": 113.9287277409909,
       "source": [
@@ -951,14 +951,14 @@
         },
         {
           "period": "2021Q2",
-          "avg_price": 81.68638320196243,
+          "avg_price": 81.58267974853516,
           "eps": 1.03,
           "revenue_q": null,
-          "pe_ratio": 79.30716815724507,
+          "pe_ratio": 79.20648519275258,
           "rev_growth": null,
           "eps_growth": null,
           "rt_weight": 1.0,
-          "deviation": 0.6961121196538282,
+          "deviation": 0.6952283832469635,
           "theo_price": 117.34658957322063
         }
       ],
@@ -974,8 +974,8 @@
     "returns_table": [
       {
         "year": 2026,
-        "return_pct": 25.86427656850192,
-        "period": "01/02~06/01"
+        "return_pct": 25.992317541613307,
+        "period": "01/02~06/02"
       },
       {
         "year": 2025,
@@ -994,33 +994,11 @@
       },
       {
         "year": 2022,
-        "return_pct": 3.3372966634845014,
+        "return_pct": 3.3372895825751536,
         "period": "01/03~12/30"
       }
     ],
     "kline_data": [
-      {
-        "date": "2025-11-27",
-        "symbol": "4768.TWO",
-        "open": 206.0,
-        "high": 207.5,
-        "low": 203.0,
-        "close": 203.5,
-        "volume": 321208.0,
-        "adjclose": 203.5,
-        "dividends": 0.0,
-        "splits": 0.0,
-        "MA5": 201.3,
-        "MA20": 224.425,
-        "MA60": 218.36666666666667,
-        "bb_mid": 224.425,
-        "bb_up": 264.545163259889,
-        "bb_dn": 184.304836740111,
-        "DIF": -9.401210568091642,
-        "DEA": -5.9912527812424266,
-        "HIST": -6.819915573698431,
-        "volume_lot": 321.208
-      },
       {
         "date": "2025-11-28",
         "symbol": "4768.TWO",
@@ -3624,7 +3602,7 @@
         "high": 494.0,
         "low": 465.0,
         "close": 491.5,
-        "volume": 1442035.0,
+        "volume": 1394443.0,
         "adjclose": 491.5,
         "dividends": 0.0,
         "splits": 0.0,
@@ -3637,7 +3615,29 @@
         "DIF": 0.0025281714318907,
         "DEA": -3.93597616407545,
         "HIST": 7.877008671014682,
-        "volume_lot": 1442.035
+        "volume_lot": 1394.443
+      },
+      {
+        "date": "2026-06-02",
+        "symbol": "4768.TWO",
+        "open": 491.5,
+        "high": 514.0,
+        "low": 482.5,
+        "close": 492.0,
+        "volume": 1616875.0,
+        "adjclose": 492.0,
+        "dividends": 0.0,
+        "splits": 0.0,
+        "MA5": 489.6,
+        "MA20": 472.5,
+        "MA60": 474.2916666666667,
+        "bb_mid": 472.5,
+        "bb_up": 537.7533524043034,
+        "bb_dn": 407.2466475956966,
+        "DIF": 1.3862487505211334,
+        "DEA": -2.8715311811561337,
+        "HIST": 8.515559863354534,
+        "volume_lot": 1616.875
       }
     ],
     "valuation": {

@@ -1,12 +1,12 @@
 {
   "id": "7828",
   "name": "創新服務",
-  "lastUpdated": "2026-06-01 20:31:15",
+  "lastUpdated": "2026-06-02 19:13:50",
   "ai_model": "Fact-Update",
   "basicInfo": {
-    "price": "1450.00",
-    "change": "40.00",
-    "changePercent": "2.84%"
+    "price": "1495.00",
+    "change": "45.00",
+    "changePercent": "3.10%"
   },
   "financials": {
     "revenue_trend": [
@@ -343,6 +343,14 @@
     ],
     "chips_table": [
       {
+        "date": "2026-06-02",
+        "foreign_lots": -1.903,
+        "it_lots": 0.0,
+        "dealer_lots": 3.887,
+        "sum_lots": 1.984,
+        "pct_float": 0.0005408072311160419
+      },
+      {
         "date": "2026-06-01",
         "foreign_lots": 10.16,
         "it_lots": 0.0,
@@ -453,14 +461,6 @@
         "dealer_lots": -12.085,
         "sum_lots": -81.019,
         "pct_float": -0.02208450658154768
-      },
-      {
-        "date": "2026-05-12",
-        "foreign_lots": -23.439,
-        "it_lots": 0.0,
-        "dealer_lots": 8.813,
-        "sum_lots": -14.626,
-        "pct_float": -0.0039868178237415465
       }
     ],
     "c_score_data": {
@@ -468,7 +468,7 @@
       "dataset": "structure_c_score",
       "stock_id": "7828",
       "ticker": "7828.TWO",
-      "asof": "2026-06-01",
+      "asof": "2026-06-02",
       "c_score": 1.0,
       "benchmark_pe": 82.16608632809934,
       "source": [
@@ -587,8 +587,8 @@
     "returns_table": [
       {
         "year": 2026,
-        "return_pct": 169.51672862453532,
-        "period": "01/02~06/01"
+        "return_pct": 177.8810408921933,
+        "period": "01/02~06/02"
       },
       {
         "year": 2025,
@@ -597,27 +597,6 @@
       }
     ],
     "kline_data": [
-      {
-        "date": "2025-11-27",
-        "symbol": "7828.TWO",
-        "open": 370.0,
-        "high": 377.5,
-        "low": 362.5,
-        "close": 375.5,
-        "volume": 101050.0,
-        "adjclose": 375.5,
-        "dividends": 0.0,
-        "MA5": 366.4,
-        "MA20": 379.275,
-        "MA60": 400.0833333333333,
-        "bb_mid": 379.275,
-        "bb_up": 422.7496765370376,
-        "bb_dn": 335.8003234629624,
-        "DIF": -7.294824851252258,
-        "DEA": -8.310937093429084,
-        "HIST": 2.032224484353652,
-        "volume_lot": 101.05
-      },
       {
         "date": "2025-11-28",
         "symbol": "7828.TWO",
@@ -3103,7 +3082,7 @@
         "high": 1480.0,
         "low": 1420.0,
         "close": 1450.0,
-        "volume": 243979.0,
+        "volume": 198539.0,
         "adjclose": 1450.0,
         "dividends": 0.0,
         "MA5": 1434.0,
@@ -3115,7 +3094,28 @@
         "DIF": 35.31298938361533,
         "DEA": 3.091757413808975,
         "HIST": 64.44246393961271,
-        "volume_lot": 243.979
+        "volume_lot": 198.539
+      },
+      {
+        "date": "2026-06-02",
+        "symbol": "7828.TWO",
+        "open": 1495.0,
+        "high": 1500.0,
+        "low": 1390.0,
+        "close": 1495.0,
+        "volume": 258646.0,
+        "adjclose": 1495.0,
+        "dividends": 0.0,
+        "MA5": 1452.0,
+        "MA20": 1269.5,
+        "MA60": 1276.8833333333334,
+        "bb_mid": 1269.5,
+        "bb_up": 1542.371764754066,
+        "bb_dn": 996.628235245934,
+        "DIF": 45.8963289743308,
+        "DEA": 11.65267172591334,
+        "HIST": 68.48731449683493,
+        "volume_lot": 258.646
       }
     ],
     "valuation": {
