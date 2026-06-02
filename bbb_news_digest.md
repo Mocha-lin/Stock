@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-02T12:42:29.177887+00:00
+> 更新時間：2026-06-02T17:12:44.992312+00:00
 
 ### ⚖️ AI基礎設施觸及銅極限，代工廠至2028年鎖定矽光子產能
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -73,15 +73,6 @@
 
 ---
 
-### ⚖️ Nvidia 在 2026 年 Computex 上公佈了適用於筆記型電腦和桌上型電腦的 DGX Spark 路線圖——概述了三代，Rubin 採用 LPDDR6 內存，Rosa Feynman 緊隨其後
-- **題材**: `AI伺服器` | **重要性**: `67`
-- **來源**: Tom's Hardware UK (2026-06-01T05:55:07Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 除了適用於桌上型電腦和筆記型電腦的第一代 RTX Spark 平台外，Nvidia 執行長黃仁勳還透露了該公司在未來路線圖中對未來幾代平台的承諾。
-- [原文連結](https://www.tomshardware.com/pc-components/cpus/nvidia-unveils-dgx-sparrk-roadmap-for-laptops-and-desktop-pcs-at-computex-2026-three-generations-outlined-rubin-followed-by-rosa-feynman)
-
----
-
 ### 🚀 戴爾股價一日飆升 32%。人工智慧伺服器的巨額收入令分析師震驚
 - **題材**: `AI伺服器` | **重要性**: `65`
 - **來源**: Slashdot.org (2026-05-29T23:34:00Z)
@@ -110,15 +101,6 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: SK海力士推出了iHBM，這是一種新型熱封裝架構，可將冷卻元件直接嵌入到HBM界面層中，將熱阻降低30%，並幫助未來的人工智慧加速器避免影響性能的熱節流。
 - [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-unveils-ihbm-thermal-architecture-that-cools-ai-memory-at-the-source-integrated-cooling-elements-inside-hbm-interface-cut-thermal-resistance-by-30-percent-target-next-gen-hbm5-accelerators-and-dense-ai-data-centers)
-
----
-
-### ⚖️ 「計算就是利潤」：黃仁勳在台灣主題演講的三大要點
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: Business Insider (2026-06-01T12:37:35Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Jensen Huang 的演講充滿了新版本，其中包括旨在重塑我們所知的個人電腦的 RTX Spark。
-- [原文連結](https://www.businessinsider.com/jensen-huang-computex-keynote-takeaways-ai-laptop-chip-rtx-spark-2026-6)
 
 ---
 
@@ -182,6 +164,25 @@
 - **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 中國已悄悄成為全球石油市場的隱形搖擺消費國，有可能將世界末日延後一段時間。
 - [原文連結](https://finance.yahoo.com/sectors/energy/articles/wall-street-may-solved-nagging-224009888.html)
+
+---
+
+### 🚀 白宮經濟主任淡化物價上漲帶來的經濟焦慮
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Abcnews.com (2026-05-31T14:37:32Z)
+- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 凱文哈塞特表示，儘管物價和通膨上漲，但實際收入仍在增加。
+- [原文連結](https://abcnews.com/Politics/white-house-economic-director-downplays-americans-economic-anxiety/story?id=133462207)
+
+---
+
+### ⚖️ 蘋果分析師將 MacBook Neo 2026 年出貨量上調至 1,000 萬台
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: Macdailynews.com (2026-05-29T20:19:05Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 郭明池今天預計該公司最暢銷的筆記型電腦之一 MacBook Neo 的勢頭將強於預期...
+蘋果分析師將 MacBook Neo 2026 年出貨量上調至 1,000 萬台的貼文首先出現在 MacDailyNews 上。
+- [原文連結](https://macdailynews.com/2026/05/29/apple-analyst-ups-macbook-neo-2026-shipments-to-10-million-units/)
 
 ---
 
