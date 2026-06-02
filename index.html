@@ -625,7 +625,48 @@
                     </div>
                 </div>
 
-                <!-- NEW: Annual Returns (CAGR) -->
+                <!-- NEW: 進階財務與營運訊號 (Contract & Utilization) -->
+                <div class="grid grid-cols-1 lg:grid-cols-2 gap-8 mt-8">
+                    <!-- 合約負債 / 在手訂單 -->
+                    <div class="glass-panel p-6 border-l-[8px] border-indigo-400">
+                        <div class="header-title text-[#8B7355] th-tooltip" data-tip="預收佔比若持續上升，代表在手訂單能見度高，未來營收轉換率強。">
+                            <i class="fas fa-file-contract mr-2"></i>合約負債與在手訂單
+                        </div>
+                        <div class="overflow-x-auto rounded-lg border border-gray-100 max-h-96">
+                            <table class="w-full data-table">
+                                <thead><tr><th>季度</th><th>總資產(百萬)</th><th>合約負債(百萬)</th><th>預收佔比(%)</th></tr></thead>
+                                <tbody id="t_contract"></tbody>
+                            </table>
+                        </div>
+                    </div>
+
+                    <!-- 稼動率與 ASP 訊號 -->
+                    <div class="glass-panel p-6 border-l-[8px] border-emerald-400">
+                        <div class="header-title text-[#8B7355] th-tooltip" data-tip="系統根據毛利率、營益率與營收規模推算的稼動率(Utilization)與平均單價(ASP)趨勢。">
+                            <i class="fas fa-industry mr-2"></i>稼動率與 ASP 結構
+                        </div>
+                        <div class="overflow-x-auto rounded-lg border border-gray-100 max-h-96">
+                            <table class="w-full data-table">
+                                <thead><tr><th>季度</th><th>稼動率推估</th><th>ASP推估</th><th>綜合結構模式</th></tr></thead>
+                                <tbody id="t_utilization"></tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- NEW: AI 綜合判定引擎 (Integrated Engine) -->
+                <div class="glass-panel p-6 mt-8 bg-[#FFFDF5] border border-[#E8E0C0]">
+                    <div class="header-title text-[#8B7355] border-[#DCD6C9]">
+                        <i class="fas fa-brain mr-2"></i>AI 財務與市場綜合判定引擎 (V2)
+                    </div>
+                    <div class="overflow-x-auto rounded-lg border border-[#DCD6C9] max-h-96 bg-white">
+                        <table class="w-full data-table">
+                            <thead><tr><th>季度</th><th>財報總分</th><th>綜合總分</th><th>最終判定型態</th><th>AI 行動指引</th></tr></thead>
+                            <tbody id="t_integrated"></tbody>
+                        </table>
+                    </div>
+                </div>
+				<!-- NEW: Annual Returns (CAGR) -->
                 <div class="glass-panel p-6 mt-8">
                     <div class="header-title text-[#8B7355]">含息年度報酬率 (Annual Returns)</div>
                     <div class="overflow-x-auto rounded-lg border border-gray-100 max-h-96">
@@ -835,6 +876,11 @@
             let structure_table = (qItems.structure_stability_quarterly?.rows||[]).map(r=>({...r, assets:r.total_assets_b, equity:r.equity_b, debt:r.debt_ratio_pct, cliab:r.current_liab_b, doi:r.doi_days}));
             let pe_table = (qItems.pe_precise_quarterly?.rows||[]).map(r=>({...r}));
             
+            // NEW: 合約負債、稼動率/ASP、綜合判定引擎
+            let contract_table = (qItems.contract_liabilities_quarterly?.rows||[]).map(r=>({...r}));
+            let utilization_table = (qItems.utilization_asp_signal_quarterly?.rows||[]).map(r=>({...r}));
+            let integrated_table = (qItems.financial_structure_integrated_signal_v2_quarterly?.rows||[]).map(r=>({...r}));
+
             // C-Score Data
             let c_score_data = d["7_結構校正C值 (C-Score)"]?.items?.structure_c_score || null;
 
@@ -853,6 +899,7 @@
                 basicInfo: { price, change, changePercent },
                 financials: {
                     revenue_trend, eps_table, cashflow_table, quality_table, kpi_table, structure_table, pe_table, capital_table, chips_table, c_score_data, returns_table,
+                    contract_table, utilization_table, integrated_table, // 新增這三個
                     kline_data: kline_data,
                     valuation: { pb: '-', roe: '-', pe_status: '-' }
                 },
@@ -1497,7 +1544,10 @@ async function syncData(force = false) {
             if(s.financials.capital_table) renderEditableTable('t_capital', s.financials.capital_table, ['stock_id','report_date','shares_lots','par_value','method']);
             if(s.financials.chips_table) renderEditableTable('t_chips', s.financials.chips_table, ['date','foreign_lots','it_lots','dealer_lots','sum_lots','pct_float']);
             if(s.financials.returns_table) renderEditableTable('t_returns', s.financials.returns_table, ['year','return_pct','period']);
-            
+            // 渲染新增的進階表格
+            if(s.financials.contract_table) renderEditableTable('t_contract', s.financials.contract_table, ['period','total_assets_m','contract_liab_m','advance_receipt_pct']);
+            if(s.financials.utilization_table) renderEditableTable('t_utilization', s.financials.utilization_table, ['period','utilization_proxy_label','asp_proxy_label','utilization_asp_pattern_label']);
+            if(s.financials.integrated_table) renderEditableTable('t_integrated', s.financials.integrated_table, ['period','financial_core_score','integrated_structure_score','final_pattern_label','final_forward_hint']);
             // Charts
             renderCharts(s, s.financials.revenue_trend, s.financials.eps_table, s.financials.pe_table); 
             
