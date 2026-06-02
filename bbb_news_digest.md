@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-02T17:12:44.992312+00:00
+> 更新時間：2026-06-02T21:38:49.434930+00:00
 
 ### ⚖️ AI基礎設施觸及銅極限，代工廠至2028年鎖定矽光子產能
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -104,15 +104,6 @@
 
 ---
 
-### 🚀 Adobe 將利用 RTX Spark 和 N1x 晶片增強 Photoshop 和 Premiere 的效能
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: Windows Central (2026-06-01T11:28:08Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Adobe 承諾在即將推出的 Photoshop 和 Premiere 更新中將效果、AI 和編輯效能提高一倍。收益來自於針對 NVIDIA RTX Spark 平台優化這兩個應用程式。
-- [原文連結](https://www.windowscentral.com/software-apps/adobe-will-supercharge-photoshop-and-premiere-with-rtx-spark-and-the-n1x-chip)
-
----
-
 ### ⚠️ 記憶體緊縮導致個人電腦價格上漲兩位數
 - **題材**: `AI伺服器` | **重要性**: `60`
 - **來源**: Theregister.com (2026-06-01T09:15:00Z)
@@ -183,6 +174,15 @@
 - **摘要**: 郭明池今天預計該公司最暢銷的筆記型電腦之一 MacBook Neo 的勢頭將強於預期...
 蘋果分析師將 MacBook Neo 2026 年出貨量上調至 1,000 萬台的貼文首先出現在 MacDailyNews 上。
 - [原文連結](https://macdailynews.com/2026/05/29/apple-analyst-ups-macbook-neo-2026-shipments-to-10-million-units/)
+
+---
+
+### ⚠️ AI記憶體短缺才剛開始，這3隻ETF佔據了供應鏈的每一層
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: 24/7 Wall St. (2026-05-28T21:48:09Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 高頻寬記憶體已成為 AI 建設的瓶頸，因為 NVIDIA 的 Blackwell 加速器依賴堆疊 DRAM 模組，而這些模組只有三個...
+- [原文連結](https://247wallst.com/investing/2026/05/28/the-ai-memory-shortage-is-just-getting-started-and-these-3-etfs-own-every-layer-of-the-supply-chain/)
 
 ---
 
