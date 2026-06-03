@@ -246,22 +246,22 @@
             <div id="dashboard" class="hidden max-w-[1600px] mx-auto space-y-8 pb-24">
                 
                 <!-- 新版 Header: 包含好球帶與標籤管理 -->
-                <div class="sticky top-0 z-40 bg-[#FDFBF7] pt-4 md:pt-8 pb-4 mb-6 gap-6 flex flex-col md:flex-row justify-between items-start border-b-4 border-[#8B7355]">
+                <div class="sticky top-0 z-40 bg-[#FDFBF7] pt-2 md:pt-4 pb-2 mb-4 gap-4 flex flex-col md:flex-row justify-between items-start border-b-4 border-[#8B7355]">
                     <div class="flex-1 w-full">
-                        <div class="flex justify-between items-end md:justify-start md:items-baseline gap-3 mb-1">
+                        <div class="flex justify-between items-end md:justify-start md:items-baseline gap-3 mb-0">
                             <div class="flex items-baseline gap-2">
-                                <h1 class="text-3xl md:text-5xl font-extrabold text-[#2C3E50] tracking-tighter" id="d_name">--</h1>
-                                <h2 class="text-lg md:text-2xl font-bold text-gray-400 font-mono" id="d_id">--</h2>
+                                <h1 class="text-2xl md:text-4xl font-extrabold text-[#2C3E50] tracking-tighter" id="d_name">--</h1>
+                                <h2 class="text-base md:text-xl font-bold text-gray-400 font-mono" id="d_id">--</h2>
                             </div>
                             <div class="md:hidden text-right">
-                                <div id="d_price_m" class="text-4xl font-mono font-bold text-[#2C3E50]">--</div>
+                                <div id="d_price_m" class="text-3xl font-mono font-bold text-[#2C3E50]">--</div>
                             </div>
                         </div>
 
                         <!-- 多模型好球帶戰情區 -->
-                        <div class="mb-5 pr-2 max-w-xl">
+                        <div class="mb-2 pr-2 max-w-xl">
                             <!-- 這裡會由 JS 動態生成多行模型預測值 -->
-                            <div id="pb_multi_labels" class="space-y-1 mb-2"></div>
+                            <div id="pb_multi_labels" class="space-y-1 mb-1"></div>
                             
                             <div class="price-bar-container" id="pb_container">
                                 <!-- 動態生成的區間區塊將放在這裡 -->
@@ -270,7 +270,7 @@
                         </div>
 
                         <!-- 標籤與分類管理區 (Status & Themes) -->
-                        <div class="flex flex-wrap items-center gap-3 mb-2">
+                        <div class="flex flex-wrap items-center gap-2 mb-1">
                             <!-- 狀態按鈕 -->
                             <div class="flex gap-1 border-r border-gray-200 pr-3">
                                 <button onclick="toggleStockStatus('⚡ BUY')" id="btn_status_buy" class="tag-btn tag-status">⚡ BUY</button>
@@ -293,9 +293,9 @@
                     </div>
 
                     <div class="hidden md:block text-right">
-                        <div class="flex items-baseline justify-end gap-4">
-                            <div id="d_price" class="text-7xl font-mono font-bold text-[#2C3E50] tracking-tighter">--</div>
-                            <div id="d_change" class="text-2xl font-bold">--</div>
+                        <div class="flex items-baseline justify-end gap-3">
+                            <div id="d_price" class="text-5xl md:text-6xl font-mono font-bold text-[#2C3E50] tracking-tighter">--</div>
+                            <div id="d_change" class="text-xl font-bold">--</div>
                         </div>
                     </div>
                 </div>
@@ -1129,21 +1129,23 @@ async function syncData(force = false) {
                         if(sigClass) signalHtml += `<span class="signal-light ${sigClass}" title="${f.model_name}"></span>`;
                     });
 
-                    // 3. 處理狀態小標示 (放在名字上方)
+                    // 3. 處理狀態小標示 (修改為行內行式)
                     let statusBadgeHtml = '';
-                    if (s.status === '⚡ BUY') statusBadgeHtml = '<div class="mini-status-badge badge-buy">⚡ BUY</div>';
-                    else if (s.status === '🟡 FLU') statusBadgeHtml = '<div class="mini-status-badge badge-flu">🟡 FLU</div>';
+                    if (s.status === '⚡ BUY') statusBadgeHtml = '<span class="text-[9px] font-extrabold px-1 py-0.5 rounded bg-[#FFEDD5] text-[#F97316] border border-[#FFD8A8] ml-1.5 whitespace-nowrap">⚡ BUY</span>';
+                    else if (s.status === '🟡 FLU') statusBadgeHtml = '<span class="text-[9px] font-extrabold px-1 py-0.5 rounded bg-[#FEF9C3] text-[#CA8A04] border border-[#FDE68A] ml-1.5 whitespace-nowrap">🟡 FLU</span>';
 
                     // 4. 處理代號右側的題材標籤 (限制顯示2個)
                     let themeBadgesHtml = (s.themes || []).slice(0, 2).map(t => `<span class="sidebar-theme-tag">${t}</span>`).join('');
 
-                    // 5. 組裝最終 HTML 結構
+                    // 5. 組裝最終 HTML 結構 (將標籤放入名字後方)
                     d.className = `p-2 rounded-lg border transition-all hover:shadow-md flex items-center ${style}`;
                     d.innerHTML = `
                         <div class="flex-1 min-w-0 cursor-pointer" onclick="loadStock('${s.id}')">
-                            ${statusBadgeHtml}
                             <div class="flex justify-between items-center">
-                                <div class="text-[1.1rem] font-bold text-[#2C3E50] leading-tight truncate">${s.name}</div>
+                                <div class="flex items-center min-w-0">
+                                    <div class="text-[1.1rem] font-bold text-[#2C3E50] leading-tight truncate">${s.name}</div>
+                                    ${statusBadgeHtml}
+                                </div>
                                 <div class="text-right ml-2 flex items-center">
                                     ${signalHtml}
                                     <span class="font-mono text-base font-bold text-gray-800 ml-1">${s.basicInfo.price}</span>
@@ -1163,7 +1165,8 @@ async function syncData(force = false) {
                     `;
                     ul.appendChild(d);
                 });
-                new Sortable(ul, { animation:150 }); // 保留 Sortable
+                // 移除拖曳排序，防止平板滑動時誤觸
+                // new Sortable(ul, { animation:150 }); 
                 grp.appendChild(ul);
                 el.appendChild(grp);
             }
