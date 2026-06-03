@@ -279,10 +279,12 @@
                             <!-- 題材列表 -->
                             <div id="activeThemesList" class="flex flex-wrap gap-1"></div>
                             <!-- 題材輸入 -->
-                            <div class="flex items-center">
-                                <input type="text" id="themeInput" placeholder="+ 題材 (Enter)" 
+                            <div class="flex items-center relative">
+                                <input type="text" id="themeInput" list="themeSuggestions" autocomplete="off" placeholder="+ 題材 (Enter)" 
                                     class="bg-gray-100 border-none text-[10px] px-2 py-1 rounded w-28 focus:ring-1 focus:ring-[#8B7355] outline-none"
                                     onkeydown="handleThemeInput(event)">
+                                <!-- 用來裝載歷史題材的隱藏清單 -->
+                                <datalist id="themeSuggestions"></datalist>
                             </div>
                         </div>
 
@@ -1051,6 +1053,13 @@ async function syncData(force = false) {
                 if(s.themes) s.themes.forEach(t => allThemes.add(t));
                 if(s.industry_analysis?.sector) allSectors.add(s.industry_analysis.sector);
             });
+
+            // --- 新增：更新題材輸入框的自動補全下拉清單 ---
+            const themeDatalist = document.getElementById('themeSuggestions');
+            if (themeDatalist) {
+                // 將 Set 轉為陣列排序後，生成 option 標籤
+                themeDatalist.innerHTML = Array.from(allThemes).sort().map(t => `<option value="${t}"></option>`).join('');
+            }
 
             // 清空並重新生成下拉選單內容
             let dropdownHtml = `<option value="全部">🔍 全部股票</option>`;
