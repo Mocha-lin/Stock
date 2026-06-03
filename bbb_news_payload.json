@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-06-03T00:28:10.755263+00:00",
+  "generated_at": "2026-06-03T05:56:12.847426+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 70,
@@ -1289,44 +1289,6 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "74fb95bc7d528a2a",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "中國五月工廠活動放緩，引發對其經濟的質疑",
-      "summary": "週日發布的一項官方調查顯示，中國 5 月工廠活動持平，這引發了人們對中國經濟還能走多遠的疑問…",
-      "original_title": "China’s factory activity slows in May, raising questions over its economy",
-      "url": "https://finance.yahoo.com/economy/articles/china-factory-activity-slows-may-031735623.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-05-31T03:17:35Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "f69144ee6f84364b",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1891,29 +1853,32 @@
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "350313f6fdc2115c",
+      "id": "74fb95bc7d528a2a",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "美光加入 1 兆美元市值俱樂部",
-      "summary": "高頻寬記憶體目前約佔 AI 晶片組件總成本的三分之二，高於 2024 年初的約 50%。",
-      "original_title": "Micron Joins $1 Trillion Market Cap Club",
-      "url": "https://www.thedailyupside.com/technology/artificial-intelligence/micron-joins-1-trillion-market-cap-club/",
-      "source": "Thedailyupside.com",
-      "domain": "thedailyupside.com",
-      "published_at": "2026-05-27T04:01:00Z",
-      "importance": 55,
-      "impact": "positive",
+      "theme": "總體風險",
+      "title": "中國五月工廠活動放緩，引發對其經濟的質疑",
+      "summary": "週日發布的一項官方調查顯示，中國 5 月工廠活動持平，這引發了人們對中國經濟還能走多遠的疑問…",
+      "original_title": "China’s factory activity slows in May, raising questions over its economy",
+      "url": "https://finance.yahoo.com/economy/articles/china-factory-activity-slows-may-031735623.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-05-31T03:17:35Z",
+      "importance": 50,
+      "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "HBM",
-        "記憶體"
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
       ],
       "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
       ],
       "related_models": [
         "003",
@@ -1923,42 +1888,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "aca2d2a69c61556f",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "晶片製造商 SK 海力士和美光因人工智慧需求激增而加入 1 兆美元俱樂部",
-      "summary": "它們是最新加入不斷增長的高估值股票名單的科技公司。",
-      "original_title": "Chipmakers SK Hynix and Micron join $1tn club on surging AI demand",
-      "url": "https://www.bbc.com/news/articles/cnvp9dq0p3go",
-      "source": "BBC News",
-      "domain": "bbc.com",
-      "published_at": "2026-05-27T01:34:09Z",
-      "importance": 55,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "ddc52e47b8e98cb4",
@@ -2519,6 +2449,76 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "350313f6fdc2115c",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "美光加入 1 兆美元市值俱樂部",
+      "summary": "高頻寬記憶體目前約佔 AI 晶片組件總成本的三分之二，高於 2024 年初的約 50%。",
+      "original_title": "Micron Joins $1 Trillion Market Cap Club",
+      "url": "https://www.thedailyupside.com/technology/artificial-intelligence/micron-joins-1-trillion-market-cap-club/",
+      "source": "Thedailyupside.com",
+      "domain": "thedailyupside.com",
+      "published_at": "2026-05-27T04:01:00Z",
+      "importance": 50,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "aca2d2a69c61556f",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "晶片製造商 SK 海力士和美光因人工智慧需求激增而加入 1 兆美元俱樂部",
+      "summary": "它們是最新加入不斷增長的高估值股票名單的科技公司。",
+      "original_title": "Chipmakers SK Hynix and Micron join $1tn club on surging AI demand",
+      "url": "https://www.bbc.com/news/articles/cnvp9dq0p3go",
+      "source": "BBC News",
+      "domain": "bbc.com",
+      "published_at": "2026-05-27T01:34:09Z",
+      "importance": 50,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "0806185b499efe6f",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2530,7 +2530,7 @@
       "source": "Gizmodo.com",
       "domain": "gizmodo.com",
       "published_at": "2026-05-27T03:21:50Z",
-      "importance": 50,
+      "importance": 45,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -2551,7 +2551,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「HBM記憶體」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     },
     {
       "id": "7846a98b4399625c",
@@ -2565,7 +2565,7 @@
       "source": "Yahoo Entertainment",
       "domain": "consent.yahoo.com",
       "published_at": "2026-05-27T02:45:14Z",
-      "importance": 50,
+      "importance": 45,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -2586,7 +2586,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「HBM記憶體」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     },
     {
       "id": "8f24d1f664511e3f",
