@@ -1544,10 +1544,15 @@ async function syncData(force = false) {
             if(s.financials.capital_table) renderEditableTable('t_capital', s.financials.capital_table, ['stock_id','report_date','shares_lots','par_value','method']);
             if(s.financials.chips_table) renderEditableTable('t_chips', s.financials.chips_table, ['date','foreign_lots','it_lots','dealer_lots','sum_lots','pct_float']);
             if(s.financials.returns_table) renderEditableTable('t_returns', s.financials.returns_table, ['year','return_pct','period']);
-            // 渲染新增的進階表格
-            if(s.financials.contract_table) renderEditableTable('t_contract', s.financials.contract_table, ['period','total_assets_m','contract_liab_m','advance_receipt_pct']);
-            if(s.financials.utilization_table) renderEditableTable('t_utilization', s.financials.utilization_table, ['period','utilization_proxy_label','asp_proxy_label','utilization_asp_pattern_label']);
-            if(s.financials.integrated_table) renderEditableTable('t_integrated', s.financials.integrated_table, ['period','financial_core_score','integrated_structure_score','final_pattern_label','final_forward_hint']);
+            // 過濾掉「資料不足」或尚未公佈的季度
+            let validContract = s.financials.contract_table ? s.financials.contract_table.filter(r => r.total_assets_m > 0 && r.total_assets_m !== null) : [];
+            let validUtilization = s.financials.utilization_table ? s.financials.utilization_table.filter(r => r.utilization_asp_pattern_label && !r.utilization_asp_pattern_label.includes('資料不足')) : [];
+            let validIntegrated = s.financials.integrated_table ? s.financials.integrated_table.filter(r => r.final_pattern_label && !r.final_pattern_label.includes('資料不足')) : [];
+
+            // 渲染進階表格 (只顯示有數據的季度)
+            if(validContract.length > 0) renderEditableTable('t_contract', validContract, ['period','total_assets_m','contract_liab_m','advance_receipt_pct']);
+            if(validUtilization.length > 0) renderEditableTable('t_utilization', validUtilization, ['period','utilization_proxy_label','asp_proxy_label','utilization_asp_pattern_label']);
+            if(validIntegrated.length > 0) renderEditableTable('t_integrated', validIntegrated, ['period','financial_core_score','integrated_structure_score','final_pattern_label','final_forward_hint']);
             // Charts
             renderCharts(s, s.financials.revenue_trend, s.financials.eps_table, s.financials.pe_table); 
             
