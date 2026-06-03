@@ -1,97 +1,111 @@
 {
   "id": "3661",
   "name": "世芯-KY",
-  "lastUpdated": "2026-06-03 01:07:22",
+  "lastUpdated": "2026-06-03 22:24:02",
   "basicInfo": {
-    "price": 4575,
-    "change": "-280.00",
-    "changePercent": "-5.77%"
+    "price": 4595,
+    "change": "20.00",
+    "changePercent": "0.44%"
   },
   "status": null,
   "themes": [],
   "industry_analysis": {
-    "sector": "矽智財與客製化晶片(ASIC)",
+    "sector": "ASIC / 矽智財",
     "is_leader": true,
-    "market_share": "全球先進製程ASIC領先梯隊",
+    "market_share": "15-20%",
     "supply_chain": {
-      "upstream": "IP供應商(ARM、Synopsys)、EDA工具",
-      "position": "ASIC設計服務與量產",
-      "downstream": "雲端服務供應商(AWS等)、晶圓代工廠(台積電)"
+      "upstream": "台積電、ARM、Synopsys",
+      "position": "ASIC設計服務與IP供應商",
+      "downstream": "全球CSP大廠(AWS等)、Intel、理想汽車"
     },
     "moat": {
       "rating": 5,
-      "description": "先進製程設計能力極強，與台積電緊密合作，具備極高的技術壁壘與客戶轉換成本。"
+      "description": "具備先進製程(3nm/5nm)設計能力與CoWoS封裝量產經驗，客戶轉換成本極高。"
     },
     "competitors": [
       "創意",
       "智原",
-      "Marvell",
-      "Broadcom"
+      "Marvell"
     ],
     "revenue_mix": [
       {
-        "name": "HPC與AI晶片",
-        "pct": 85
+        "name": "HPC (高效能運算)",
+        "pct": 82
       },
       {
-        "name": "利基型產品與其他",
-        "pct": 15
+        "name": "網通設備",
+        "pct": 8
+      },
+      {
+        "name": "消費性電子",
+        "pct": 5
+      },
+      {
+        "name": "其他",
+        "pct": 5
       }
     ],
     "main_products": [
       {
         "name": "7nm/5nm ASIC量產",
         "status": "current",
-        "contribution": "70%"
+        "contribution": "65%"
       },
       {
-        "name": "NRE設計服務",
+        "name": "16nm/12nm ASIC量產",
         "status": "current",
-        "contribution": "30%"
+        "contribution": "20%"
       }
     ],
     "dev_pipeline": [
       {
-        "name": "3nm/2nm AI ASIC",
+        "name": "3nm NRE與ASIC專案",
         "status": "development",
         "expected_mass_production": "2026Q4",
-        "order_status": "已獲美系CSP大廠訂單"
+        "order_status": "已獲北美CSP大廠訂單"
+      },
+      {
+        "name": "CoWoS 先進封裝整合",
+        "status": "scaling",
+        "expected_mass_production": "2026",
+        "order_status": "產能取得增加"
       }
     ],
-    "resource_summary": "綜合最新財報引擎顯示，公司近期毛利率受惠產品組合而修復至超高毛利(50.2%)，但營運品質引擎發出「暴雷前兆」警訊：營收大幅衰退(YoY-60%)，且存貨與DoI天數急遽攀升(達410天)，伴隨專案現金流波動，短期營運壓力與庫存去化風險驟增。"
+    "resource_summary": "根據最新財報綜合引擎顯示，2026Q1呈現「利潤率修復」與「超高毛利(50.2%)」特徵。雖然營收短期面臨新舊專案交替的波動，但毛利率與營益率顯著擴張，顯示ASP改善及高毛利NRE佔比提升，屬於「專案型波動個案」。"
   },
   "technical_analysis": {
-    "status": "跌深反彈",
-    "support": "4450",
-    "resistance": "5300",
+    "status": "高檔震盪整理",
+    "support": "4200",
+    "resistance": "4900",
     "indicators": {
       "macd": {
         "status": "bearish",
-        "desc": "DIF為157低於DEA的255，柱狀圖為負，中線動能仍偏弱"
+        "desc": "MACD柱狀圖轉負且DIF向下交叉DEA，高檔動能轉弱"
       },
       "rsi": {
-        "value": 52,
+        "value": 45,
         "status": "neutral",
-        "desc": "RSI回到50多空分界線附近震盪，等待明確方向"
+        "desc": "RSI回落至中性區間，短期買盤觀望"
       },
       "bollinger": {
-        "status": "rebound",
-        "desc": "股價站回布林中軌(4716)，短線技術性反彈成形"
+        "status": "consolidation",
+        "desc": "股價跌破布林中軌(4737)，於中軌與下軌間震盪"
       }
     },
-    "summary": "股價經歷大幅回檔後，短線出現技術性反彈並重新站回月線(20MA)支撐。然而MACD指標仍呈現死叉向下，結合基本面營收大幅衰退與高庫存的雙重壓力，當前高達66倍的本益比將面臨嚴峻考驗。在業績實質落底前，建議逢高視為逃命波，保守減碼。",
+    "summary": "股價自年初低點大幅反彈後，目前於季線(3816)之上強勢整理。短期跌破月線(4737)且MACD動能轉弱，顯示面臨高檔獲利了結賣壓。即時市場籌碼顯示「法人累積」，只要不跌破季線支撐，逢回皆為中長線佈局良機。",
     "predictions": {
-      "days1": 4850,
-      "days7": 4650,
-      "days30": 4200,
-      "days180": 3800,
-      "days360": 4500,
-      "entry_zone": "3500-3800",
-      "exit_zone": "4800-5000",
-      "current_signal": "sell",
+      "days1": 4600,
+      "days7": 4500,
+      "days30": 4800,
+      "days180": 5200,
+      "days360": 5500,
+      "entry_zone": "4200-4400",
+      "exit_zone": "5000-5300",
+      "current_signal": "hold",
       "model_name": "Gemini Pro Quant"
     }
   },
+  "reportDate": "2026-06-03 22:24:02",
   "ai_model": "Fact-Update",
   "financials": {
     "revenue_trend": [
@@ -629,6 +643,14 @@
     ],
     "chips_table": [
       {
+        "date": "2026-06-03",
+        "foreign_lots": -128.659,
+        "it_lots": 1.983,
+        "dealer_lots": -2.4970000000000003,
+        "sum_lots": -129.173,
+        "pct_float": -0.15842838570412343
+      },
+      {
         "date": "2026-06-02",
         "foreign_lots": -315.809,
         "it_lots": -27,
@@ -739,14 +761,6 @@
         "dealer_lots": 19.228,
         "sum_lots": 256.397,
         "pct_float": 0.31446635759315134
-      },
-      {
-        "date": "2026-05-13",
-        "foreign_lots": -512.51,
-        "it_lots": -143.009,
-        "dealer_lots": -98.80799999999999,
-        "sum_lots": -754.327,
-        "pct_float": -0.9251686413030147
       }
     ],
     "c_score_data": {
@@ -1022,8 +1036,8 @@
     "returns_table": [
       {
         "year": 2026,
-        "return_pct": 25.859697386519947,
-        "period": "01/02~06/02"
+        "return_pct": 26.409903713892707,
+        "period": "01/02~06/03"
       },
       {
         "year": 2025,
@@ -1933,24 +1947,6 @@
       }
     ],
     "kline_data": [
-      {
-        "date": "2025-11-28",
-        "open": 3330,
-        "high": 3370,
-        "low": 3275,
-        "close": 3305,
-        "volume": 1941743,
-        "volume_lot": 1941.743,
-        "MA5": 3124,
-        "MA20": 3362,
-        "MA60": 3455.833333333333,
-        "bb_mid": 3362,
-        "bb_up": 3834.5293641669286,
-        "bb_dn": 2889.470635833072,
-        "DIF": -72.3022358000162,
-        "DEA": -58.08393246100405,
-        "HIST": -28.436606678024305
-      },
       {
         "date": "2025-12-01",
         "open": 3305,
@@ -4092,6 +4088,24 @@
         "DIF": 150.60132158022498,
         "DEA": 220.38385679069808,
         "HIST": -139.5650704209462
+      },
+      {
+        "date": "2026-06-03",
+        "open": 4600,
+        "high": 4685,
+        "low": 4530,
+        "close": 4595,
+        "volume": 1082643,
+        "volume_lot": 1082.643,
+        "MA5": 4548,
+        "MA20": 4739.25,
+        "MA60": 3837.5833333333335,
+        "bb_mid": 4739.25,
+        "bb_up": 5273.087756251843,
+        "bb_dn": 4205.412243748157,
+        "DIF": 137.55009872914616,
+        "DEA": 203.8171051783877,
+        "HIST": -132.53401289848307
       }
     ],
     "valuation": {
@@ -4111,88 +4125,88 @@
   "revenue_predictions": {
     "latest_month_fill": {
       "month": "2026/05",
-      "revenue": 2150,
+      "revenue": 2250,
       "type": "estimated"
     },
     "next_month_forecast": {
       "month": "2026/06",
-      "revenue": 2250,
+      "revenue": 2400,
       "confidence": "medium",
-      "basis": "北美CSP大廠新舊產品交替期，拉貨動能短線呈低檔盤旋"
+      "basis": "季底出貨效應與NRE集中認列預期"
     }
   },
   "eps_predictions": {
     "latest_quarter_fill": {
       "period": "2026Q2",
-      "eps": 12.5,
-      "gross": 45,
-      "net": 25.5,
-      "opm": 22,
-      "eps_ytd": 30.05,
+      "eps": 16.5,
+      "gross": 48,
+      "net": 38.5,
+      "opm": 30.2,
+      "eps_ytd": 34.05,
       "type": "estimated"
     },
     "next_quarter_forecast": {
       "period": "2026Q3",
-      "eps": 14,
-      "gross": 46.5,
-      "net": 28,
-      "opm": 24.5,
-      "eps_ytd": 44.05,
-      "confidence": "medium"
+      "eps": 19.2,
+      "gross": 49.5,
+      "net": 40,
+      "opm": 32.5,
+      "eps_ytd": 53.25,
+      "confidence": "high"
     },
     "future_quarter_forecast": {
       "period": "2026Q4",
-      "eps": 18.5,
-      "gross": 47,
-      "net": 31.5,
-      "opm": 27,
-      "eps_ytd": 62.55,
+      "eps": 21,
+      "gross": 50,
+      "net": 41.5,
+      "opm": 33,
+      "eps_ytd": 74.25,
       "confidence": "medium"
     }
   },
   "ai_message_board": {
     "left_messages": [
       {
-        "date": "2026-05-30",
-        "content": "Q1財報顯示存貨與DoI週轉天數大幅攀升至410天，營運資金壓力與庫存去化風險加劇。",
-        "sentiment": -1,
-        "tag": "財報"
+        "date": "2026-06-02",
+        "content": "即時市場引擎偵測到「法人累積」，近60日報酬達+39.9%，籌碼面具支撐。",
+        "sentiment": 1,
+        "tag": "籌碼"
+      },
+      {
+        "date": "2026-05-25",
+        "content": "外資出具報告，看好北美CSP自研晶片需求，重申買進評等。",
+        "sentiment": 1,
+        "tag": "外資"
       },
       {
         "date": "2026-05-15",
-        "content": "4月營收21.3億元，YoY大幅下滑32.3%，拉貨動能尚未全面復甦，面臨客戶產品交替期空窗。",
+        "content": "公司Q1毛利率達50.2%創近期新高，主因NRE貢獻提升及專案組合優化。",
+        "sentiment": 1,
+        "tag": "財報"
+      },
+      {
+        "date": "2026-05-10",
+        "content": "短期月營收YoY仍呈顯著衰退，進入量產前空窗期，引發部分賣壓。",
         "sentiment": -1,
         "tag": "營收"
       },
       {
-        "date": "2026-05-05",
-        "content": "外資出具報告示警，北美CSP客戶新舊AI晶片交替，導致短期量產訂單動能疲弱。",
-        "sentiment": -1,
-        "tag": "法人報告"
-      },
-      {
         "date": "2026-04-20",
-        "content": "Q1毛利率意外衝高至50.1%，主要受惠於NRE高毛利佔比提升與產品組合優化。",
+        "content": "台積電擴充CoWoS產能，有助於世芯下半年AI ASIC量產出貨順暢。",
         "sentiment": 1,
-        "tag": "毛利率"
+        "tag": "供應鏈"
       },
       {
-        "date": "2026-04-10",
-        "content": "公司法說會表示3奈米專案開發進度順利，預期下半年將陸續進入量產階段貢獻營收。",
-        "sentiment": 1,
-        "tag": "展望"
-      },
-      {
-        "date": "2026-03-25",
-        "content": "董監事持股比率僅3.44%且質押比達12.5%，內部人利益一致性較弱，需留意籌碼面穩定度。",
+        "date": "2026-04-05",
+        "content": "中美半導體科技戰雜音頻傳，市場擔憂實體清單風險影響中國區營收。",
         "sentiment": -1,
-        "tag": "籌碼"
+        "tag": "地緣政治"
       }
     ],
     "right_events": [
       {
-        "date": "2026-06-15",
-        "event": "年度股東常會"
+        "date": "2026-06-25",
+        "event": "股東常會"
       },
       {
         "date": "2026-07-10",
@@ -4200,52 +4214,52 @@
       },
       {
         "date": "2026-08-14",
-        "event": "Q2季報公告與線上法說會"
+        "event": "Q2線上法說會"
       }
     ]
   },
   "risk_evaluation": {
     "summary": {
-      "overall_risk_score": 85,
-      "risk_level_text": "高度風險",
-      "display_hint": "營收驟降且存貨飆升出現「暴雷前兆」，同時高達66倍本益比面臨極大的估值修正壓力。"
+      "overall_risk_score": 40,
+      "risk_level_text": "中低度風險",
+      "display_hint": "獲利結構改善，毛利擴張，但需留意專案波動空窗期與地緣政治禁令雜音。"
     },
     "details": [
       {
         "name": "關稅與貿易風險 (TARIFF)",
-        "risk_level": 2,
-        "description": "中美科技戰持續，高階AI晶片出口管制實體清單風險仍存。",
-        "alert_logic": "美國晶片禁令更新與中國客戶占比"
+        "risk_level": 1,
+        "description": "矽智財與設計服務受直接關稅影響極低。",
+        "alert_logic": "無實體商品庫存轉嫁問題"
       },
       {
         "name": "匯率風險 (FX)",
-        "risk_level": 1,
-        "description": "NRE與ASIC多以美元計價，具備自然避險效果。",
-        "alert_logic": "台幣匯率波動"
+        "risk_level": 2,
+        "description": "以美元計價為主，台幣升值可能產生匯損。",
+        "alert_logic": "匯率避險機制與自然避險"
       },
       {
         "name": "地緣與供應鏈 (GEO)",
         "risk_level": 3,
-        "description": "高度依賴少數北美CSP大客戶，單一客戶抽單或策略轉向風險極高。",
-        "alert_logic": "客戶自研晶片策略變動與訂單集中度"
+        "description": "部分中國客戶若受美國實體清單(Entity List)限制，將影響專案量產。",
+        "alert_logic": "中美半導體禁令與出貨限制"
       },
       {
         "name": "產業循環 (CYCLE)",
-        "risk_level": 3,
-        "description": "面臨客戶新舊晶片產品線交替空窗期，存貨與DoI天數急遽惡化達410天。",
-        "alert_logic": "庫存去化不及引發呆帳或跌價損失"
+        "risk_level": 1,
+        "description": "AI ASIC需求處於長期超級循環，但短期有新舊專案交替空窗期。",
+        "alert_logic": "專案型波動特性"
       },
       {
         "name": "估值與籌碼 (VAL)",
-        "risk_level": 3,
-        "description": "獲利大幅衰退下，PE仍高達66倍，且董監持股低並有質押狀況，籌碼面具下修空間。",
-        "alert_logic": "獲利跟不上高估值且內部人資金槓桿"
+        "risk_level": 2,
+        "description": "本益比(PE)約 66x，估值偏高，需依靠高毛利與新專案維持成長動能。",
+        "alert_logic": "高估值回檔風險"
       },
       {
         "name": "全球戰爭影響風險 (WAR)",
         "risk_level": 1,
-        "description": "無直接廠房風險，但高度仰賴台積電晶圓代工產能。",
-        "alert_logic": "台海衝突引發斷鏈"
+        "description": "無直接實體廠房於高風險交戰區。",
+        "alert_logic": "台灣地緣風險"
       }
     ]
   }
