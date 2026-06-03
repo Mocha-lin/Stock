@@ -897,6 +897,7 @@
                 id: header.stock_id,
                 name: name,
                 lastUpdated: header.generated_at,
+                reportDate: header.generated_at, // 新增：獨立保存 AI 報告產出時間，不被股價更新覆蓋
                 ai_model: "Fact-Update",
                 basicInfo: { price, change, changePercent },
                 financials: {
@@ -1234,7 +1235,11 @@ async function syncData(force = false) {
             renderSidebar();
 
             // Basic Info
-            setText('d_name', s.name); setText('d_id', s.id); setText('d_date', s.lastUpdated);
+            setText('d_name', s.name); setText('d_id', s.id); 
+            // 優先顯示 JSON 報告時間，若無則降級使用最後更新時間，並美化格式 (去除 T 與毫秒)
+            let displayDate = s.reportDate || s.lastUpdated || '-';
+            if(displayDate.includes('T')) displayDate = displayDate.replace('T', ' ').substring(0, 16);
+            setText('d_date', displayDate);
             setText('d_price', s.basicInfo.price); 
             const chg = parseFloat(s.basicInfo.change) || 0;
             const col = chg>=0?"text-[#C0392B]":"text-[#16A34A]";
@@ -1639,7 +1644,10 @@ async function syncData(force = false) {
                         currentKLineData = newKline;
                         
                         // 更新 UI 顯示 (因 updateStockPrice 已經改了 s 的內容)
-                        setText('d_date', s.lastUpdated);
+                        let updatedDisplayDate = s.reportDate || s.lastUpdated || '-';
+                        if(updatedDisplayDate.includes('T')) updatedDisplayDate = updatedDisplayDate.replace('T', ' ').substring(0, 16);
+                        setText('d_date', updatedDisplayDate);
+                        
                         setText('d_price', s.basicInfo.price);
                         const chg = parseFloat(s.basicInfo.change) || 0;
                         const col = chg >= 0 ? "text-[#C0392B]" : "text-[#16A34A]";
