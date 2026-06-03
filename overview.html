@@ -226,7 +226,10 @@
                     const changePct = s.basicInfo?.changePercent || '0%';
                     const chgColor = parseFloat(changePct) >= 0 ? "text-[#C0392B]" : "text-[#16A34A]";
                     
-                    const updateDate = s.lastUpdated || '-';
+                    // 優先使用 JSON 匯入的報告時間，並美化格式
+                    let rawDate = s.reportDate || s.lastUpdated || '-';
+                    const updateDate = rawDate.includes('T') ? rawDate.replace('T', ' ').substring(0, 16) : rawDate;
+                    
                     const status = s.technical_analysis?.status || '等待分析';
                     
                     let allPreds = [];
