@@ -58,29 +58,45 @@
             const emptyState = document.getElementById('empty-state');
             const stats = document.getElementById('overview-stats');
 
+            // 1. 先讀取本地資料 (因為使用者剛剛在戰情室匯入了新 JSON，這裡的資料最完整)
+            const localDataStr = localStorage.getItem('bbb_db_v5');
+            let localData = [];
+            if (localDataStr) {
+                try {
+                    localData = JSON.parse(localDataStr);
+                    if (Array.isArray(localData)) db = localData;
+                } catch(err) { console.error("解析本地資料失敗", err); }
+            }
+
+            // 2. 嘗試抓取雲端資料並進行「安全合併」
             try {
-                // 強制抓 GitHub 最新資料 (防止快取)
                 const res = await fetch(`./stocks_summary.json?t=${Date.now()}`);
-                if (!res.ok) throw new Error("stocks_summary.json 讀取失敗");
-                
-                const cloud = await res.json();
-                
-                // 🔥 安全檢查：確保資料一定是陣列，否則引發當機
-                if (Array.isArray(cloud)) {
-                    db = cloud;
-                    localStorage.setItem('bbb_db_v5', JSON.stringify(db));
-                } else {
-                    throw new Error("JSON 結構異常 (不是陣列)");
+                if (res.ok) {
+                    const cloud = await res.json();
+                    if (Array.isArray(cloud)) {
+                        // 雲端與本地合併邏輯：保留本地的修改與新匯入的數據
+                        let mergedDb = cloud.map(cloudStock => {
+                            const local = localData.find(l => l.id === cloudStock.id);
+                            // 如果本地有這檔股票，永遠以本地為主（因為包含了手動匯入的詳細資料）
+                            if (local) {
+                                return { ...cloudStock, ...local };
+                            }
+                            return cloudStock;
+                        });
+                        
+                        // 把本地有，但雲端沒有的股票也補上去
+                        localData.forEach(localStock => {
+                            if (!mergedDb.find(s => s.id === localStock.id)) {
+                                mergedDb.push(localStock);
+                            }
+                        });
+
+                        db = mergedDb;
+                        localStorage.setItem('bbb_db_v5', JSON.stringify(db));
+                    }
                 }
             } catch (e) {
-                console.warn("⚠️ 雲端讀取失敗，改用 localStorage", e);
-                const localData = localStorage.getItem('bbb_db_v5');
-                if (localData) {
-                    try {
-                        const parsed = JSON.parse(localData);
-                        if (Array.isArray(parsed)) db = parsed;
-                    } catch(err) { console.error("解析本地資料失敗", err); }
-                }
+                console.warn("⚠️ 雲端讀取失敗，維持使用 localStorage", e);
             }
 
             if (!db || db.length === 0) {
@@ -194,6 +210,12 @@
                         strikeZoneHtml = `<div class="mt-4 border-t border-gray-100 pt-4 text-center text-gray-300 text-sm font-bold italic">尚無 AI 價格預測模型資料</div>`;
                     }
 
+                    // 抓取最新的 AI 綜合判定型態
+                    let integratedPattern = '';
+                    if (s.financials && s.financials.integrated_table && s.financials.integrated_table.length > 0) {
+                        integratedPattern = s.financials.integrated_table[0].final_pattern_label || '';
+                    }
+
                     // 3. 組裝卡片
                     cardsHtml += `
                         <div class="glass-panel p-5 flex flex-col relative overflow-hidden">
@@ -209,10 +231,11 @@
                             </div>
                             
                             <div class="flex flex-wrap gap-2 mt-1 mb-2">
-                                <span class="bg-[#F5F2EB] border border-[#DCD6C9] text-[#8B7355] px-2 py-0.5 rounded text-xs font-bold shadow-sm">
-                                    <i class="fas fa-chart-line mr-1"></i>狀態: ${status}
+                                <span class="bg-[#F5F2EB] border border-[#DCD6C9] text-[#8B7355] px-2 py-0.5 rounded text-[11px] font-bold shadow-sm">
+                                    <i class="fas fa-chart-line mr-1"></i>${status}
                                 </span>
-                                ${s.status ? `<span class="bg-purple-100 text-purple-700 border border-purple-200 px-2 py-0.5 rounded text-xs font-bold">${s.status}</span>` : ''}
+                                ${integratedPattern ? `<span class="bg-blue-50 text-blue-600 border border-blue-200 px-2 py-0.5 rounded text-[11px] font-bold shadow-sm"><i class="fas fa-brain mr-1"></i>${integratedPattern}</span>` : ''}
+                                ${s.status ? `<span class="bg-purple-100 text-purple-700 border border-purple-200 px-2 py-0.5 rounded text-[11px] font-bold">${s.status}</span>` : ''}
                             </div>
 
                             <div class="flex-1 flex flex-col justify-end">
