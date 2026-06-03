@@ -1,9 +1,9 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-06-03T13:18:21.925905+00:00",
+  "generated_at": "2026-06-03T17:53:43.972509+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
-  "total_count": 69,
+  "total_count": 68,
   "items": [
     {
       "id": "684cc88f425a406c",
@@ -839,44 +839,6 @@
       "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "56b42a7ff66a9805",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "白宮經濟主任淡化物價上漲帶來的經濟焦慮",
-      "summary": "凱文哈塞特表示，儘管物價和通膨上漲，但實際收入仍在增加。",
-      "original_title": "White House economic director downplays economic anxiety amid higher prices",
-      "url": "https://abcnews.com/Politics/white-house-economic-director-downplays-americans-economic-anxiety/story?id=133462207",
-      "source": "Abcnews.com",
-      "domain": "abcnews.com",
-      "published_at": "2026-05-31T14:37:32Z",
-      "importance": 60,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "11a6c342f53800f6",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1438,6 +1400,44 @@
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "56b42a7ff66a9805",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "白宮經濟主任淡化物價上漲帶來的經濟焦慮",
+      "summary": "凱文哈塞特表示，儘管物價和通膨上漲，但實際收入仍在增加。",
+      "original_title": "White House economic director downplays economic anxiety amid higher prices",
+      "url": "https://abcnews.com/Politics/white-house-economic-director-downplays-americans-economic-anxiety/story?id=133462207",
+      "source": "Abcnews.com",
+      "domain": "abcnews.com",
+      "published_at": "2026-05-31T14:37:32Z",
+      "importance": 55,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "f69144ee6f84364b",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1777,82 +1777,6 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "29ceb8d1890b4c32",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "華為Mate 90系列將採用近3nm晶片工藝",
-      "summary": "儘管受到美國制裁，基於Tao Scaling Law的新型麒麟處理器有望大幅提升效能",
-      "original_title": "Huawei’s Mate 90 series will use near-3nm chip technology",
-      "url": "https://www.intomobile.com/2026/05/27/huaweis-mate-90-series-will-use-near-3nm-chip-technology/",
-      "source": "Intomobile.com",
-      "domain": "intomobile.com",
-      "published_at": "2026-05-27T16:50:17Z",
-      "importance": 55,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "7c390756e6cb19ad",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "華為Mate 90系列將採用類似3nm的麒麟晶片",
-      "summary": "在華為公佈其名為“Tao Scaling Law”的新擴展法則及其 LogicFolding 架構後不久，該公司在深圳鳳凰灣區金融論壇和金融峰會上舉行了主題演講，承諾帶來更強大的下一代…",
-      "original_title": "The Huawei Mate 90 series will feature a 3nm-like Kirin chip",
-      "url": "https://www.gsmarena.com/the_huawei_mate_90_series_will_feature_a_3nmlike_kirin_chip-news-73015.php",
-      "source": "GSMArena.com",
-      "domain": "gsmarena.com",
-      "published_at": "2026-05-27T16:31:02Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "143e1f2052b9ee88",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2189,17 +2113,17 @@
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "79918b8a2e9ad183",
+      "id": "7c390756e6cb19ad",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "半導體先進製程",
-      "title": "AMD 股價為 500 美元：AI 的優勢，但有一個重大警告",
-      "summary": "AMD（納斯達克股票代碼：AMD）股價今年上漲超過 2 倍，過去 12 個月上漲超過 4 倍。驅動因素很簡單：人工智慧的建構是巨大的",
-      "original_title": "AMD Stock At $500: AI Upside, With One Big Caveat",
-      "url": "https://www.trefis.com/articles/600528/amd-stock-at-500-ai-upside-with-one-big-caveat/2026-05-27",
-      "source": "Trefis",
-      "domain": "trefis.com",
-      "published_at": "2026-05-27T16:42:53Z",
+      "title": "華為Mate 90系列將採用類似3nm的麒麟晶片",
+      "summary": "在華為公佈其名為“Tao Scaling Law”的新擴展法則及其 LogicFolding 架構後不久，該公司在深圳鳳凰灣區金融論壇和金融峰會上舉行了主題演講，承諾帶來更強大的下一代…",
+      "original_title": "The Huawei Mate 90 series will feature a 3nm-like Kirin chip",
+      "url": "https://www.gsmarena.com/the_huawei_mate_90_series_will_feature_a_3nmlike_kirin_chip-news-73015.php",
+      "source": "GSMArena.com",
+      "domain": "gsmarena.com",
+      "published_at": "2026-05-27T16:31:02Z",
       "importance": 50,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -2225,41 +2149,6 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "80e803562f3f6170",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "14 Companies Now Worth Over $1 Trillion",
-      "summary": "進入萬億美元市值俱樂部變得越來越容易。由於儲存晶片的需求，SK 海力士和美光科技現在屬於其中。 SK...",
-      "original_title": "14 Companies Now Worth Over $1 Trillion",
-      "url": "https://247wallst.com/investing/2026/05/27/14-companies-now-worth-over-1-trillion/",
-      "source": "24/7 Wall St.",
-      "domain": "247wallst.com",
-      "published_at": "2026-05-27T13:20:51Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "31f975c8c8dd8822",
@@ -2441,6 +2330,79 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "79918b8a2e9ad183",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "AMD 股價為 500 美元：AI 的優勢，但有一個重大警告",
+      "summary": "AMD（納斯達克股票代碼：AMD）股價今年上漲超過 2 倍，過去 12 個月上漲超過 4 倍。驅動因素很簡單：人工智慧的建構是巨大的",
+      "original_title": "AMD Stock At $500: AI Upside, With One Big Caveat",
+      "url": "https://www.trefis.com/articles/600528/amd-stock-at-500-ai-upside-with-one-big-caveat/2026-05-27",
+      "source": "Trefis",
+      "domain": "trefis.com",
+      "published_at": "2026-05-27T16:42:53Z",
+      "importance": 45,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
+    },
+    {
+      "id": "80e803562f3f6170",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "14 Companies Now Worth Over $1 Trillion",
+      "summary": "進入萬億美元市值俱樂部變得越來越容易。由於儲存晶片的需求，SK 海力士和美光科技現在屬於其中。 SK...",
+      "original_title": "14 Companies Now Worth Over $1 Trillion",
+      "url": "https://247wallst.com/investing/2026/05/27/14-companies-now-worth-over-1-trillion/",
+      "source": "24/7 Wall St.",
+      "domain": "247wallst.com",
+      "published_at": "2026-05-27T13:20:51Z",
+      "importance": 45,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     },
     {
       "id": "bd8ce5f9e5c77c05",
