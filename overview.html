@@ -210,10 +210,14 @@
                         strikeZoneHtml = `<div class="mt-4 border-t border-gray-100 pt-4 text-center text-gray-300 text-sm font-bold italic">尚無 AI 價格預測模型資料</div>`;
                     }
 
-                    // 抓取最新的 AI 綜合判定型態
+                    // 抓取最新的 AI 綜合判定型態 (跳過當季還沒公佈財報的「資料不足」)
                     let integratedPattern = '';
-                    if (s.financials && s.financials.integrated_table && s.financials.integrated_table.length > 0) {
-                        integratedPattern = s.financials.integrated_table[0].final_pattern_label || '';
+                    if (s.financials && s.financials.integrated_table && Array.isArray(s.financials.integrated_table)) {
+                        // 使用 includes 增強比對容錯率，只要標籤裡沒有「資料不足」就視為最新有效資料
+                        const validRow = s.financials.integrated_table.find(r => r.final_pattern_label && !r.final_pattern_label.includes('資料不足'));
+                        if (validRow) {
+                            integratedPattern = validRow.final_pattern_label;
+                        }
                     }
 
                     // 3. 組裝卡片
