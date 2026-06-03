@@ -1,9 +1,9 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-06-03T05:56:12.847426+00:00",
+  "generated_at": "2026-06-03T13:18:21.925905+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
-  "total_count": 70,
+  "total_count": 69,
   "items": [
     {
       "id": "684cc88f425a406c",
@@ -18,6 +18,44 @@
       "domain": "digitimes.com",
       "published_at": "2026-06-01T22:59:51Z",
       "importance": 83,
+      "impact": "neutral",
+      "timeframe": "short_to_mid_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
+      "id": "b8ff88b95f09a198",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "台積電競相擴大AI晶片產能，CPO和CoWoS登上舞台中心",
+      "summary": "Nvidia GTC 台北大會於 6 月 1 日開幕，執行長黃仁勳發表了精彩的主題演講，並揭開了廣受關注的台灣供應鍊板的面紗。",
+      "original_title": "TSMC races to expand AI chip capacity while CPO and CoWoS move to center stage",
+      "url": "https://www.digitimes.com/news/a20260601PD231/tsmc-capacity-nvidia-cpo-gtc.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-06-02T06:15:00Z",
+      "importance": 78,
       "impact": "neutral",
       "timeframe": "short_to_mid_term",
       "tags": [
@@ -386,41 +424,6 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "151b6ed587581060",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "三星晶片工人投票接受平均 34 萬美元獎金，結束了長達數月的罷工威脅——對交易的不滿導致三星代工部門放緩",
-      "summary": "該協議將三星半導體部門營業利潤的 10.5% 作為股票獎金。",
-      "original_title": "Samsung chip workers vote to accept $340,000 average bonus, ending months-long strike threat — resentment over deal has slowed down Samsung foundry division",
-      "url": "https://www.tomshardware.com/tech-industry/samsung-chip-workers-vote-to-accept-340000-average-bonus-ending-months-long-strike-threat",
-      "source": "Tom's Hardware UK",
-      "domain": "tomshardware.com",
-      "published_at": "2026-05-27T10:56:23Z",
-      "importance": 67,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "5d7f1605af183a96",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -457,6 +460,117 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "151b6ed587581060",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "三星晶片工人投票接受平均 34 萬美元獎金，結束了長達數月的罷工威脅——對交易的不滿導致三星代工部門放緩",
+      "summary": "該協議將三星半導體部門營業利潤的 10.5% 作為股票獎金。",
+      "original_title": "Samsung chip workers vote to accept $340,000 average bonus, ending months-long strike threat — resentment over deal has slowed down Samsung foundry division",
+      "url": "https://www.tomshardware.com/tech-industry/samsung-chip-workers-vote-to-accept-340000-average-bonus-ending-months-long-strike-threat",
+      "source": "Tom's Hardware UK",
+      "domain": "tomshardware.com",
+      "published_at": "2026-05-27T10:56:23Z",
+      "importance": 62,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "9bffcf15473aad40",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "iPhone 18 Pro 電池容量今年可能會帶來更溫和的成長",
+      "summary": "長期以來一直有傳言稱，iPhone 18 Pro Max 的電池容量將是 iPhone 有史以來最大的電池容量，2 月的一份報告稱其電池容量可能接近 5,200mAh。\n\n\n\n同一位洩密者現在報告了 iPhone 18 Pro 的容量…",
+      "original_title": "iPhone 18 Pro battery capacity could offer far more modest gains this year",
+      "url": "https://9to5mac.com/2026/06/02/iphone-18-pro-battery-capacity-could-offer-far-more-modest-gains-this-year/",
+      "source": "9to5Mac",
+      "domain": "9to5mac.com",
+      "published_at": "2026-06-02T11:18:16Z",
+      "importance": 60,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "17c97bc0b6e39548",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "Sivers 和 GlobalFoundries 推動人工智慧資料中心光學解決方案",
+      "summary": "Sivers 的雷射陣列支援 GlobalFoundries 的矽光子平台和 SCALE™ 光學引擎解決方案，目標是到 2030 年實現 25B 美元的可插拔光學市場 瑞典 KISTA，2026 年 6 月 2 日 /美通社/ -- 全球領先企業 Sivers Semiconductors AB…STO：STO：SIVE",
+      "original_title": "Sivers & GlobalFoundries Advance AI Data Center Optical Solutions",
+      "url": "https://www.prnewswire.com/news-releases/sivers--globalfoundries-advance-ai-data-center-optical-solutions-302788035.html",
+      "source": "PRNewswire",
+      "domain": "prnewswire.com",
+      "published_at": "2026-06-02T05:59:00Z",
+      "importance": 60,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "b3ddec70f9e5b747",
@@ -985,6 +1099,117 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "67b292d7c99053ca",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "黃仁勳稱加州一家晶片製造商為「下一個兆美元」公司，股價飆升 20%",
+      "summary": "在 Nvidia 執行長讚揚了這家不太知名的晶片製造商之後，Marvell Technology 的股價在盤外交易中上漲了 20% 以上。",
+      "original_title": "Jensen Huang called a California chipmaker the 'next trillion-dollar' company, and its shares spiked 20%",
+      "url": "https://www.businessinsider.com/jensen-huang-nvidia-marvell-next-1-trillion-company-stock-spikes-2026-6",
+      "source": "Business Insider",
+      "domain": "businessinsider.com",
+      "published_at": "2026-06-02T12:21:20Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "7bc98251efc88320",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "分析英偉達 (Nvidia) 的推動如何推動節儉的美光 (Micron) 進入人工智慧熱潮並實現 1 兆美元的市值",
+      "summary": "",
+      "original_title": "AnalysisHow a nudge from Nvidia propelled frugal Micron into the AI boom and a $1 trillion market cap",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e9394e01-b166-4af3-a6f8-d79e55a81192",
+      "source": "Yahoo Entertainment",
+      "domain": "consent.yahoo.com",
+      "published_at": "2026-06-02T12:09:39Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "63653f7dada344c3",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "川普表示與伊朗的談判正在進行後油價下跌",
+      "summary": "作者：Stephanie Kelly 倫敦，6 月 2 日（路透）",
+      "original_title": "Oil slips after Trump says talks with Iran are ongoing",
+      "url": "https://finance.yahoo.com/news/oil-steadies-uncertainty-over-us-004249480.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-06-02T06:55:25Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "8f36bf27c670d6d4",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1137,44 +1362,6 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "ddc9ca51ecad3b95",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "Nvidia推出多達20個核心的RTX Spark電腦晶片、RTX 5070 GPU和128GB RAM",
-      "summary": "Nvidia 亮相 2026 年台北電腦展，進軍消費性晶片市場備受期待",
-      "original_title": "Nvidia unveils RTX Spark computer chip with up to 20 cores, RTX 5070 GPU and 128GB RAM",
-      "url": "https://www.gsmarena.com/nvidia_unveils_rtx_spark_computer_chip_with_up_to_20_cores_rtx_5070__128gb_ram-news-73061.php",
-      "source": "GSMArena.com",
-      "domain": "gsmarena.com",
-      "published_at": "2026-06-01T08:41:02Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "296e9c30f6db77cc",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1249,44 +1436,6 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "143e1f2052b9ee88",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "Fabrinet (FN) 押注於共封裝光學元件並在台灣進行策略性投資",
-      "summary": "據分析師稱，Fabrinet（NYSE：FN）是最值得購買的光網絡股票之一。 5 月 5 日，分析師對 Fabrinet (NYSE:FN) 2026 財年第三季的業績進行了評估...",
-      "original_title": "Fabrinet (FN) Bets on Co-Packaged Optics With a Strategic Investment in Taiwan",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/fabrinet-fn-bets-co-packaged-121702218.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-05-31T12:17:02Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "f69144ee6f84364b",
@@ -1436,44 +1585,6 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "385e6d9709a2176b",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "如果沒有川普，對抗通膨的戰爭就快結束了",
-      "summary": "如果除了美國最糟糕的人以外的任何人擔任總統，我們的經濟將會完全不同。",
-      "original_title": "The War Against Inflation Would Nearly Be Over If Not for Trump",
-      "url": "https://www.jezebel.com/the-war-against-inflation-would-nearly-be-over-if-not-for-trump",
-      "source": "Jezebel",
-      "domain": "jezebel.com",
-      "published_at": "2026-05-29T14:51:08Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "bf09b7bc2f4dc2a6",
@@ -1742,92 +1853,19 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "31f975c8c8dd8822",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "Broadcom 的客製化 ASIC 業務將韓國 FuriosaAI 納入其帝國",
-      "summary": "第三代晶片將使用 Broadzilla 的先進封裝、網路技術",
-      "original_title": "Broadcom's custom ASIC biz adds South Korea's FuriosaAI to its empire",
-      "url": "https://www.theregister.com/ai-ml/2026/05/27/broadcom-lands-furiosaai-as-latest-custom-ai-chip-partner/5246536",
-      "source": "Theregister.com",
-      "domain": "theregister.com",
-      "published_at": "2026-05-27T13:00:00Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "9628daed226af5b2",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "即時市場：韓國 SK 海力士加入美光兆美元俱樂部，比特幣仍面臨壓力",
-      "summary": "隨著加密貨幣市場陷入冷漠，儲存晶片股票正在吸引資本和關注。",
-      "original_title": "Live markets: Bitcoin remains under pressure as Korea's SK Hynix joins Micron in $1 trillion club",
-      "url": "https://www.coindesk.com/markets/2026/05/27/live-markets-bitcoin-remains-under-pressure-as-korea-s-sk-hynix-joins-micron-in-usd1-trillion-club",
-      "source": "CoinDesk",
-      "domain": "coindesk.com",
-      "published_at": "2026-05-27T12:44:24Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "db15d51a4722210b",
+      "id": "143e1f2052b9ee88",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "光通訊與矽光子",
-      "title": "到 2035 年，共封裝光學市場規模將達到 19.2364 億美元 |社群網路內幕",
-      "summary": "全球共封裝光學 (CPO) 市場規模、份額和細分，按整合方法、資料速率、應用、最終用戶、地區和預測 2026-2035",
-      "original_title": "Co-Packaged Optics Market Size to Hit USD 1,923.64 million by 2035 | SNS Insider",
-      "url": "https://www.globenewswire.com/news-release/2026/05/27/3301642/0/en/Co-Packaged-Optics-Market-Size-to-Hit-USD-1-923-64-million-by-2035-SNS-Insider.html",
-      "source": "GlobeNewswire",
-      "domain": "globenewswire.com",
-      "published_at": "2026-05-27T07:30:00Z",
-      "importance": 55,
-      "impact": "positive",
+      "title": "Fabrinet (FN) 押注於共封裝光學元件並在台灣進行策略性投資",
+      "summary": "據分析師稱，Fabrinet（NYSE：FN）是最值得購買的光網絡股票之一。 5 月 5 日，分析師對 Fabrinet (NYSE:FN) 2026 財年第三季的業績進行了評估...",
+      "original_title": "Fabrinet (FN) Bets on Co-Packaged Optics With a Strategic Investment in Taiwan",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/fabrinet-fn-bets-co-packaged-121702218.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-05-31T12:17:02Z",
+      "importance": 50,
+      "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
         "光通訊",
@@ -1850,7 +1888,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "74fb95bc7d528a2a",
@@ -2002,44 +2040,6 @@
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "fefb795338a6b0f8",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "聯發科天璣9600系列2nm晶片瞄準旗艦霸主地位",
-      "summary": "即將推出的處理器系列包括該公司首款 Pro 品牌行動晶片，預計將大幅提升效能",
-      "original_title": "MediaTek Dimensity 9600 series targets flagship dominance with 2nm chips",
-      "url": "https://www.intomobile.com/2026/05/29/mediatek-dimensity-9600-series-targets-flagship-dominance-with-2nm-chips/",
-      "source": "Intomobile.com",
-      "domain": "intomobile.com",
-      "published_at": "2026-05-29T08:07:05Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "e3c55ca042bf8abc",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2149,44 +2149,6 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "152879482d63a8b0",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "Elon 和 SpaceX 將 AI 訓練速度提高了 10 倍",
-      "summary": "Elon 表示 SpaceX 使用 C 程式語言從頭開始建立了自己的超級優化人工智慧訓練軟體。它比 Google JAX 框架快 10 倍。它設計為在由 220,000 個連接的尖端 NVIDIA GB300 GPU 組成的龐大叢集上運行…",
-      "original_title": "Elon and SpaceX Have Made AI Training 10 Times Faster",
-      "url": "https://www.nextbigfuture.com/2026/05/elon-and-spacex-have-made-ai-training-10-times-faster.html",
-      "source": "Next Big Future",
-      "domain": "nextbigfuture.com",
-      "published_at": "2026-05-28T07:26:13Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "1c1fb0ecccd614d1",
@@ -2300,17 +2262,17 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "ec7fc54e4d937f52",
+      "id": "31f975c8c8dd8822",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "半導體先進製程",
-      "title": "這款新晶片可以將 Gemini Intelligence 引入非旗艦 Android 手機",
-      "summary": "Gemini Intelligence 有一些嚴格的要求，但這款新發布的晶片可以將Google的代理套件帶到更便宜的手機上。",
-      "original_title": "This new chip could bring Gemini Intelligence to non-flagship Android phones",
-      "url": "https://www.androidauthority.com/mid-range-chip-gemini-intelligence-3671538/",
-      "source": "Android Authority",
-      "domain": "androidauthority.com",
-      "published_at": "2026-05-27T12:48:28Z",
+      "title": "Broadcom 的客製化 ASIC 業務將韓國 FuriosaAI 納入其帝國",
+      "summary": "第三代晶片將使用 Broadzilla 的先進封裝、網路技術",
+      "original_title": "Broadcom's custom ASIC biz adds South Korea's FuriosaAI to its empire",
+      "url": "https://www.theregister.com/ai-ml/2026/05/27/broadcom-lands-furiosaai-as-latest-custom-ai-chip-partner/5246536",
+      "source": "Theregister.com",
+      "domain": "theregister.com",
+      "published_at": "2026-05-27T13:00:00Z",
       "importance": 50,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -2338,17 +2300,17 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "4fe5e4c6143b3f79",
+      "id": "9628daed226af5b2",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "HBM記憶體",
-      "title": "下載：跟上人工智慧的步伐，以及 IVF 的未來",
-      "summary": "這是今天的《下載》版本，這是我們的工作日通訊，每天提供科技世界中正在發生的事情。密切關註今年夏天人工智慧領域的最新動態，在《麻省理工學院技術評論》中，我們確切地了解...",
-      "original_title": "The Download: keeping up with AI, and the future of IVF",
-      "url": "https://www.technologyreview.com/2026/05/27/1138048/the-download-ai-future-ivf-technology/",
-      "source": "MIT Technology Review",
-      "domain": "technologyreview.com",
-      "published_at": "2026-05-27T12:10:00Z",
+      "title": "即時市場：韓國 SK 海力士加入美光兆美元俱樂部，比特幣仍面臨壓力",
+      "summary": "隨著加密貨幣市場陷入冷漠，儲存晶片股票正在吸引資本和關注。",
+      "original_title": "Live markets: Bitcoin remains under pressure as Korea's SK Hynix joins Micron in $1 trillion club",
+      "url": "https://www.coindesk.com/markets/2026/05/27/live-markets-bitcoin-remains-under-pressure-as-korea-s-sk-hynix-joins-micron-in-usd1-trillion-club",
+      "source": "CoinDesk",
+      "domain": "coindesk.com",
+      "published_at": "2026-05-27T12:44:24Z",
       "importance": 50,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -2373,32 +2335,32 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "bd8ce5f9e5c77c05",
+      "id": "db15d51a4722210b",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "據稱榮耀Magic9搭載Snapdragon 8 Elite Gen 5 SoC",
-      "summary": "最近有關即將推出的榮耀 Magic9 的洩露表明，該手機可能配備 6.36 吋顯示器和 8,000mAh 大電池。現在，新的洩密事件透露了有關這款緊湊型智慧型手機的更多細節。\n\nTipster 數位聊天站回來了…",
-      "original_title": "Honor Magic9 said to be powered by the Snapdragon 8 Elite Gen 5 SoC",
-      "url": "https://www.gsmarena.com/honor_magic9_said_to_be_powered_by_the_snapdragon_8_elite_gen_5_soc-news-73006.php",
-      "source": "GSMArena.com",
-      "domain": "gsmarena.com",
-      "published_at": "2026-05-27T10:24:01Z",
+      "theme": "光通訊與矽光子",
+      "title": "到 2035 年，共封裝光學市場規模將達到 19.2364 億美元 |社群網路內幕",
+      "summary": "全球共封裝光學 (CPO) 市場規模、份額和細分，按整合方法、資料速率、應用、最終用戶、地區和預測 2026-2035",
+      "original_title": "Co-Packaged Optics Market Size to Hit USD 1,923.64 million by 2035 | SNS Insider",
+      "url": "https://www.globenewswire.com/news-release/2026/05/27/3301642/0/en/Co-Packaged-Optics-Market-Size-to-Hit-USD-1-923-64-million-by-2035-SNS-Insider.html",
+      "source": "GlobeNewswire",
+      "domain": "globenewswire.com",
+      "published_at": "2026-05-27T07:30:00Z",
       "importance": 50,
-      "impact": "neutral",
+      "impact": "positive",
       "timeframe": "short_term",
       "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
+        "光通訊",
+        "CPO",
+        "矽光子"
       ],
       "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
       ],
       "related_models": [
         "003",
@@ -2408,45 +2370,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "c1d6a0355077c04d",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "使用高數值孔徑 EUV 微影的量子點量子位",
-      "summary": "最先進的光刻系統對於未來先進記憶體和電腦晶片至關重要，將在擴大量子技術規模方面發揮關鍵作用。",
-      "original_title": "Quantum dot qubit using High NA EUV lithography",
-      "url": "https://www.imec-int.com/en/press/world-first-imec-presents-quantum-dot-qubit-device-using-high-na-euv-lithography",
-      "source": "Imec-int.com",
-      "domain": "imec-int.com",
-      "published_at": "2026-05-27T09:15:22Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "350313f6fdc2115c",
@@ -2519,6 +2443,82 @@
       "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "bd8ce5f9e5c77c05",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "據稱榮耀Magic9搭載Snapdragon 8 Elite Gen 5 SoC",
+      "summary": "最近有關即將推出的榮耀 Magic9 的洩露表明，該手機可能配備 6.36 吋顯示器和 8,000mAh 大電池。現在，新的洩密事件透露了有關這款緊湊型智慧型手機的更多細節。\n\nTipster 數位聊天站回來了…",
+      "original_title": "Honor Magic9 said to be powered by the Snapdragon 8 Elite Gen 5 SoC",
+      "url": "https://www.gsmarena.com/honor_magic9_said_to_be_powered_by_the_snapdragon_8_elite_gen_5_soc-news-73006.php",
+      "source": "GSMArena.com",
+      "domain": "gsmarena.com",
+      "published_at": "2026-05-27T10:24:01Z",
+      "importance": 45,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
+    },
+    {
+      "id": "c1d6a0355077c04d",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "使用高數值孔徑 EUV 微影的量子點量子位",
+      "summary": "最先進的光刻系統對於未來先進記憶體和電腦晶片至關重要，將在擴大量子技術規模方面發揮關鍵作用。",
+      "original_title": "Quantum dot qubit using High NA EUV lithography",
+      "url": "https://www.imec-int.com/en/press/world-first-imec-presents-quantum-dot-qubit-device-using-high-na-euv-lithography",
+      "source": "Imec-int.com",
+      "domain": "imec-int.com",
+      "published_at": "2026-05-27T09:15:22Z",
+      "importance": 45,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
+    },
+    {
       "id": "0806185b499efe6f",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2530,41 +2530,6 @@
       "source": "Gizmodo.com",
       "domain": "gizmodo.com",
       "published_at": "2026-05-27T03:21:50Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "7846a98b4399625c",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "AI記憶體晶片漲勢加速，SK海力士加入美光兆美元俱樂部",
-      "summary": "",
-      "original_title": "SK Hynix joins Micron in $1 trillion club as AI memory chip rally accelerates",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_aa97ab89-9403-4f52-b89a-089fa3656b6d",
-      "source": "Yahoo Entertainment",
-      "domain": "consent.yahoo.com",
-      "published_at": "2026-05-27T02:45:14Z",
       "importance": 45,
       "impact": "neutral",
       "timeframe": "short_term",

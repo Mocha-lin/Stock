@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-03T05:56:12.847426+00:00
+> 更新時間：2026-06-03T13:18:21.925905+00:00
 
 ### ⚖️ 解說：英特爾將AI封裝緊縮變成代工捲土重來的考驗
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -7,6 +7,15 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 英特爾的代工復興可能更取決於它能否將人工智慧驅動的需求轉化為有利可圖的先進封裝業務，而不是在最先進的製程節點上擊敗台積電。
 - [原文連結](https://www.digitimes.com/news/a20260601PD219/intel-packaging-tsmc-advanced-process-demand.html)
+
+---
+
+### ⚖️ 台積電競相擴大AI晶片產能，CPO和CoWoS登上舞台中心
+- **題材**: `半導體先進製程` | **重要性**: `78`
+- **來源**: Digitimes (2026-06-02T06:15:00Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Nvidia GTC 台北大會於 6 月 1 日開幕，執行長黃仁勳發表了精彩的主題演講，並揭開了廣受關注的台灣供應鍊板的面紗。
+- [原文連結](https://www.digitimes.com/news/a20260601PD231/tsmc-capacity-nvidia-cpo-gtc.html)
 
 ---
 
@@ -91,15 +100,6 @@
 
 ---
 
-### ⚖️ 三星晶片工人投票接受平均 34 萬美元獎金，結束了長達數月的罷工威脅——對交易的不滿導致三星代工部門放緩
-- **題材**: `HBM記憶體` | **重要性**: `67`
-- **來源**: Tom's Hardware UK (2026-05-27T10:56:23Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 該協議將三星半導體部門營業利潤的 10.5% 作為股票獎金。
-- [原文連結](https://www.tomshardware.com/tech-industry/samsung-chip-workers-vote-to-accept-340000-average-bonus-ending-months-long-strike-threat)
-
----
-
 ### 🚀 戴爾股價一日飆升 32%。人工智慧伺服器的巨額收入令分析師震驚
 - **題材**: `AI伺服器` | **重要性**: `65`
 - **來源**: Slashdot.org (2026-05-29T23:34:00Z)
@@ -110,6 +110,37 @@
 
 戴爾報告稱...
 - [原文連結](https://slashdot.org/story/26/05/29/2033206/dell-stock-surges-32-in-one-day-big-revenue-from-ai-servers-stuns-analysts)
+
+---
+
+### ⚖️ 三星晶片工人投票接受平均 34 萬美元獎金，結束了長達數月的罷工威脅——對交易的不滿導致三星代工部門放緩
+- **題材**: `HBM記憶體` | **重要性**: `62`
+- **來源**: Tom's Hardware UK (2026-05-27T10:56:23Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 該協議將三星半導體部門營業利潤的 10.5% 作為股票獎金。
+- [原文連結](https://www.tomshardware.com/tech-industry/samsung-chip-workers-vote-to-accept-340000-average-bonus-ending-months-long-strike-threat)
+
+---
+
+### ⚖️ iPhone 18 Pro 電池容量今年可能會帶來更溫和的成長
+- **題材**: `半導體先進製程` | **重要性**: `60`
+- **來源**: 9to5Mac (2026-06-02T11:18:16Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 長期以來一直有傳言稱，iPhone 18 Pro Max 的電池容量將是 iPhone 有史以來最大的電池容量，2 月的一份報告稱其電池容量可能接近 5,200mAh。
+
+
+
+同一位洩密者現在報告了 iPhone 18 Pro 的容量…
+- [原文連結](https://9to5mac.com/2026/06/02/iphone-18-pro-battery-capacity-could-offer-far-more-modest-gains-this-year/)
+
+---
+
+### ⚖️ Sivers 和 GlobalFoundries 推動人工智慧資料中心光學解決方案
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: PRNewswire (2026-06-02T05:59:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Sivers 的雷射陣列支援 GlobalFoundries 的矽光子平台和 SCALE™ 光學引擎解決方案，目標是到 2030 年實現 25B 美元的可插拔光學市場 瑞典 KISTA，2026 年 6 月 2 日 /美通社/ -- 全球領先企業 Sivers Semiconductors AB…STO：STO：SIVE
+- [原文連結](https://www.prnewswire.com/news-releases/sivers--globalfoundries-advance-ai-data-center-optical-solutions-302788035.html)
 
 ---
 
@@ -155,33 +186,6 @@
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 作者：Jihoon Lee 首爾，6 月 1 日（路透社）
 - [原文連結](https://finance.yahoo.com/economy/articles/south-korea-export-growth-hits-005401997.html)
-
----
-
-### ⚠️ 高盛認為石油使用量下降抵消了伊朗戰爭的影響，並有雙面風險
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-06-01T01:57:36Z)
-- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: （彭博）—高盛集團認為油價面臨雙面風險，因為需求下滑與中東供應損失相抵觸，原因是…
-- [原文連結](https://finance.yahoo.com/sectors/energy/articles/goldman-sees-two-sided-risk-015736323.html)
-
----
-
-### 🚀 Wall Street may have solved a nagging mystery in global oil markets as doomsday scenarios have yet to arrive
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-05-31T22:40:09Z)
-- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 中國已悄悄成為全球石油市場的隱形搖擺消費國，有可能將世界末日延後一段時間。
-- [原文連結](https://finance.yahoo.com/sectors/energy/articles/wall-street-may-solved-nagging-224009888.html)
-
----
-
-### 🚀 白宮經濟主任淡化物價上漲帶來的經濟焦慮
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Abcnews.com (2026-05-31T14:37:32Z)
-- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 凱文哈塞特表示，儘管物價和通膨上漲，但實際收入仍在增加。
-- [原文連結](https://abcnews.com/Politics/white-house-economic-director-downplays-americans-economic-anxiety/story?id=133462207)
 
 ---
 
