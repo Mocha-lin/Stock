@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-06-04T05:50:37.724214+00:00",
+  "generated_at": "2026-06-04T11:54:01.449461+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 68,
@@ -170,44 +170,6 @@
       "domain": "digitimes.com",
       "published_at": "2026-05-30T03:54:18Z",
       "importance": 78,
-      "impact": "positive",
-      "timeframe": "short_to_mid_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
-      "id": "6a0fa7c8fcb2fefb",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "Marvell 2027 年第一季收益因人工智慧資料中心需求而成長",
-      "summary": "這家晶片製造商公佈的季度營收為創紀錄的 24.2 億美元，下個季度的預期營收為 27 億美元，理由是 AI 相關訂單異常旺盛",
-      "original_title": "Marvell Q1 2027 earnings beat on AI data center demand",
-      "url": "https://qz.com/marvell-stock-earnings-ai-data-center-revenue-052826",
-      "source": "Quartz India",
-      "domain": "qz.com",
-      "published_at": "2026-05-28T11:51:48Z",
-      "importance": 75,
       "impact": "positive",
       "timeframe": "short_to_mid_term",
       "tags": [
@@ -421,6 +383,79 @@
       "reason": "屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
+      "id": "6a0fa7c8fcb2fefb",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "Marvell 2027 年第一季收益因人工智慧資料中心需求而成長",
+      "summary": "這家晶片製造商公佈的季度營收為創紀錄的 24.2 億美元，下個季度的預期營收為 27 億美元，理由是 AI 相關訂單異常旺盛",
+      "original_title": "Marvell Q1 2027 earnings beat on AI data center demand",
+      "url": "https://qz.com/marvell-stock-earnings-ai-data-center-revenue-052826",
+      "source": "Quartz India",
+      "domain": "qz.com",
+      "published_at": "2026-05-28T11:51:48Z",
+      "importance": 70,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
+      "id": "0c5414ac34960483",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "隨著人工智慧熱潮積聚，日本股市創下新高",
+      "summary": "基準日經 225 指數首次突破 68,000 點，人工智慧驅動的購買狂潮絲毫沒有放緩的跡象。",
+      "original_title": "Japan’s stock market hits new record as AI boom gathers steam",
+      "url": "https://www.aljazeera.com/economy/2026/6/3/japans-stock-market-hits-new-record-as-ai-boom-gathers-steam",
+      "source": "Al Jazeera English",
+      "domain": "aljazeera.com",
+      "published_at": "2026-06-03T05:56:30Z",
+      "importance": 65,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "5d7f1605af183a96",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -457,44 +492,6 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "60850fa5ee1a88f4",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "AuthenX 透過可拆卸的元透鏡 FAU 解決 CPO 瓶頸",
-      "summary": "AuthenX 正準備在 COMPUTEX 2026 上展示可拆卸的 2D 光纖陣列單元，這家台灣光通訊公司致力於解決共封裝光學元件中的封裝和對準挑戰。",
-      "original_title": "AuthenX targets CPO bottlenecks with detachable metalens FAU",
-      "url": "https://www.digitimes.com/news/a20260529PD204/production-12-inch-commercial-wafer-silicon.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-05-31T23:53:43Z",
-      "importance": 63,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "b47078e1c4b2b137",
@@ -757,82 +754,6 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "b3ddec70f9e5b747",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Adobe 將利用 RTX Spark 和 N1x 晶片增強 Photoshop 和 Premiere 的效能",
-      "summary": "Adobe 承諾在即將推出的 Photoshop 和 Premiere 更新中將效果、AI 和編輯效能提高一倍。收益來自於針對 NVIDIA RTX Spark 平台優化這兩個應用程式。",
-      "original_title": "Adobe will supercharge Photoshop and Premiere with RTX Spark and the N1x chip",
-      "url": "https://www.windowscentral.com/software-apps/adobe-will-supercharge-photoshop-and-premiere-with-rtx-spark-and-the-n1x-chip",
-      "source": "Windows Central",
-      "domain": "windowscentral.com",
-      "published_at": "2026-06-01T11:28:08Z",
-      "importance": 60,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "e91ad3ac383db400",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "記憶體緊縮導致個人電腦價格上漲兩位數",
-      "summary": "隨著晶片製造商放棄消費性套件轉而採用人工智慧伺服器，筆記型電腦成長 11%，桌上型電腦成長 10%",
-      "original_title": "Memory crunch sends PC prices into double-digit climb",
-      "url": "https://www.theregister.com/personal-tech/2026/06/01/memory-crunch-sends-pc-prices-into-double-digit-climb/5248525",
-      "source": "Theregister.com",
-      "domain": "theregister.com",
-      "published_at": "2026-06-01T09:15:00Z",
-      "importance": 60,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "11a6c342f53800f6",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -982,6 +903,44 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "419e2f2e3e635799",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "我在斯坦福大学演讲并为一家人工智能公司面试。我希望候選人具備 1 個關鍵特質。",
+      "summary": "一位史丹佛大學講師和一位曾在 Airbnb 和 WeWork 工作的首席產品長希望面試候選人能夠證明他們是建造者。",
+      "original_title": "I lecture at Stanford and interview for an AI firm. I want candidates to have 1 key quality.",
+      "url": "https://www.businessinsider.com/break-into-tech-computer-science-degree-ai-2026-6",
+      "source": "Business Insider",
+      "domain": "businessinsider.com",
+      "published_at": "2026-06-03T10:42:48Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "bbf038624017eb79",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1018,6 +977,44 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "b4c33a06a2eb0719",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "Lightwave Logic (LWLG) 因 Nvidia 的樂觀情緒而飆升 15%",
+      "summary": "Lightwave Logic Inc.（納斯達克股票代碼：LWLG）是提供巨額回報的 10 隻股票之一。 Lightwave Logic 股價週二上漲 15.43%",
+      "original_title": "Lightwave Logic (LWLG) Rides on Nvidia Optimism, Soars 15%",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/lightwave-logic-lwlg-rides-nvidia-235720892.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-06-02T23:57:20Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "67b292d7c99053ca",
@@ -1245,19 +1242,19 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "5e8d391c82170e87",
+      "id": "b3ddec70f9e5b747",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "AI伺服器",
-      "title": "微軟 Surface Ultra 筆記型電腦採用 Nvidia 的全新 Spark 平台",
-      "summary": "微軟今天早上發布了 Surface Laptop Ultra，稱其為迄今為止功能最強大的 Surface 筆記型電腦，也是第一款在 Nvidia 全新的基於 ARM 的 RTX Spark 平台上運行的筆記型電腦。它配備了 Blackwell RTX GPU 和完整的 CUDA 支持，並且定位於…",
-      "original_title": "Microsoft Surface Ultra laptop features Nvidia's new Spark platform",
-      "url": "https://boingboing.net/2026/06/01/microsoft-surface-ultra-laptop-features-nvidias-new-spark-platform.html",
-      "source": "Boing Boing",
-      "domain": "boingboing.net",
-      "published_at": "2026-06-01T11:02:22Z",
+      "title": "Adobe 將利用 RTX Spark 和 N1x 晶片增強 Photoshop 和 Premiere 的效能",
+      "summary": "Adobe 承諾在即將推出的 Photoshop 和 Premiere 更新中將效果、AI 和編輯效能提高一倍。收益來自於針對 NVIDIA RTX Spark 平台優化這兩個應用程式。",
+      "original_title": "Adobe will supercharge Photoshop and Premiere with RTX Spark and the N1x chip",
+      "url": "https://www.windowscentral.com/software-apps/adobe-will-supercharge-photoshop-and-premiere-with-rtx-spark-and-the-n1x-chip",
+      "source": "Windows Central",
+      "domain": "windowscentral.com",
+      "published_at": "2026-06-01T11:28:08Z",
       "importance": 55,
-      "impact": "neutral",
+      "impact": "positive",
       "timeframe": "short_term",
       "tags": [
         "AI",
@@ -1280,35 +1277,35 @@
         "009",
         "010"
       ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "ddc9ca51ecad3b95",
+      "id": "e91ad3ac383db400",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "Nvidia推出多達20個核心的RTX Spark電腦晶片、RTX 5070 GPU和128GB RAM",
-      "summary": "Nvidia 亮相 2026 年台北電腦展，進軍消費性晶片市場備受期待",
-      "original_title": "Nvidia unveils RTX Spark computer chip with up to 20 cores, RTX 5070 GPU and 128GB RAM",
-      "url": "https://www.gsmarena.com/nvidia_unveils_rtx_spark_computer_chip_with_up_to_20_cores_rtx_5070__128gb_ram-news-73061.php",
-      "source": "GSMArena.com",
-      "domain": "gsmarena.com",
-      "published_at": "2026-06-01T08:41:02Z",
+      "theme": "AI伺服器",
+      "title": "記憶體緊縮導致個人電腦價格上漲兩位數",
+      "summary": "隨著晶片製造商放棄消費性套件轉而採用人工智慧伺服器，筆記型電腦成長 11%，桌上型電腦成長 10%",
+      "original_title": "Memory crunch sends PC prices into double-digit climb",
+      "url": "https://www.theregister.com/personal-tech/2026/06/01/memory-crunch-sends-pc-prices-into-double-digit-climb/5248525",
+      "source": "Theregister.com",
+      "domain": "theregister.com",
+      "published_at": "2026-06-01T09:15:00Z",
       "importance": 55,
-      "impact": "neutral",
+      "impact": "negative",
       "timeframe": "short_term",
       "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
+        "AI",
+        "伺服器",
+        "資料中心"
       ],
       "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
       ],
       "related_models": [
         "003",
@@ -1318,7 +1315,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "6b302df95727ab6b",
@@ -1809,82 +1806,6 @@
       "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "99c0ebd968257a66",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "在達成 1.3B 美元矽光子學協議後，Tower Semiconductor Ltd. (TSEM) 是否會成為頂級半導體成長股？",
-      "summary": "我們最近編制了一份 12 檔最值得立即投資的強力買進科技股的清單。 Tower Semiconductor Ltd.（納斯達克股票代碼：TSEM）是最好的強力買入公司之一...",
-      "original_title": "Is Tower Semiconductor Ltd. (TSEM) a Top Semiconductor Growth Stock After $1.3B Silicon Photonics Agreements?",
-      "url": "https://finance.yahoo.com/sectors/technology/articles/tower-semiconductor-ltd-tsem-top-113341549.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-05-28T11:33:41Z",
-      "importance": 55,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "5ae4e2c1569f3ae7",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "AuthenX to Unveil Detachable 2D FAU Technology at COMPUTEX 2026, Eliminating the Optical Packaging Bottleneck for Next-Gen AI and HPC Clusters",
-      "summary": "AuthenX 將 12 吋 CMOS 元件整合到多行 2D 陣列中，提供超低損耗和高對準容差，可無縫擴展 3.2T 至 12.8T CPO 部署。台北，2026 年 5 月 28 日 /美通社/ -- AuthenX Inc.，高速…的領先創新者",
-      "original_title": "AuthenX to Unveil Detachable 2D FAU Technology at COMPUTEX 2026, Eliminating the Optical Packaging Bottleneck for Next-Gen AI and HPC Clusters",
-      "url": "https://www.prnewswire.com/news-releases/authenx-to-unveil-detachable-2d-fau-technology-at-computex-2026-eliminating-the-optical-packaging-bottleneck-for-next-gen-ai-and-hpc-clusters-302784012.html",
-      "source": "PRNewswire",
-      "domain": "prnewswire.com",
-      "published_at": "2026-05-28T06:00:00Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "8cfd2b981b7e503c",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1897,6 +1818,82 @@
       "domain": "theverge.com",
       "published_at": "2026-06-01T04:34:59Z",
       "importance": 53,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "5e8d391c82170e87",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "微軟 Surface Ultra 筆記型電腦採用 Nvidia 的全新 Spark 平台",
+      "summary": "微軟今天早上發布了 Surface Laptop Ultra，稱其為迄今為止功能最強大的 Surface 筆記型電腦，也是第一款在 Nvidia 全新的基於 ARM 的 RTX Spark 平台上運行的筆記型電腦。它配備了 Blackwell RTX GPU 和完整的 CUDA 支持，並且定位於…",
+      "original_title": "Microsoft Surface Ultra laptop features Nvidia's new Spark platform",
+      "url": "https://boingboing.net/2026/06/01/microsoft-surface-ultra-laptop-features-nvidias-new-spark-platform.html",
+      "source": "Boing Boing",
+      "domain": "boingboing.net",
+      "published_at": "2026-06-01T11:02:22Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "ddc9ca51ecad3b95",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "Nvidia推出多達20個核心的RTX Spark電腦晶片、RTX 5070 GPU和128GB RAM",
+      "summary": "Nvidia 亮相 2026 年台北電腦展，進軍消費性晶片市場備受期待",
+      "original_title": "Nvidia unveils RTX Spark computer chip with up to 20 cores, RTX 5070 GPU and 128GB RAM",
+      "url": "https://www.gsmarena.com/nvidia_unveils_rtx_spark_computer_chip_with_up_to_20_cores_rtx_5070__128gb_ram-news-73061.php",
+      "source": "GSMArena.com",
+      "domain": "gsmarena.com",
+      "published_at": "2026-06-01T08:41:02Z",
+      "importance": 50,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -2364,41 +2361,6 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "a0ec0e2c444efb24",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "繼美光之後，Nvidia 供應商 SK Hynix 加入 1 兆美元俱樂部，人工智慧晶片熱潮達到新高度 — 分析師稱記憶體繁榮遠未結束",
-      "summary": "",
-      "original_title": "After Micron, Nvidia-Supplier SK Hynix Joins $1 Trillion Club As AI Chip Frenzy Reaches New Heights— Analyst Says Memory Boom Is Far From Over",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4680608d-2408-473c-819c-7ded679a2fc9",
-      "source": "Yahoo Entertainment",
-      "domain": "consent.yahoo.com",
-      "published_at": "2026-05-28T15:31:10Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "6507822340ce8613",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2437,32 +2399,32 @@
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "b22df701d6bfdeab",
+      "id": "99c0ebd968257a66",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "三天內第二次衝突後美伊和談存疑",
-      "summary": "美國與伊朗再次交火，油價上漲，為和談帶來新的疑慮。伊朗媒體報道稱，伊朗軍隊...",
-      "original_title": "US-Iran Peace Talks in Doubt After Second Clash in 3 Days",
-      "url": "https://www.yahoo.com/news/videos/us-iran-peace-talks-doubt-111042861.html",
+      "theme": "光通訊與矽光子",
+      "title": "在達成 1.3B 美元矽光子學協議後，Tower Semiconductor Ltd. (TSEM) 是否會成為頂級半導體成長股？",
+      "summary": "我們最近編制了一份 12 檔最值得立即投資的強力買進科技股的清單。 Tower Semiconductor Ltd.（納斯達克股票代碼：TSEM）是最好的強力買入公司之一...",
+      "original_title": "Is Tower Semiconductor Ltd. (TSEM) a Top Semiconductor Growth Stock After $1.3B Silicon Photonics Agreements?",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/tower-semiconductor-ltd-tsem-top-113341549.html",
       "source": "Yahoo Entertainment",
-      "domain": "yahoo.com",
-      "published_at": "2026-05-28T11:10:42Z",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-05-28T11:33:41Z",
       "importance": 50,
-      "impact": "neutral",
+      "impact": "positive",
       "timeframe": "short_term",
       "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
+        "光通訊",
+        "CPO",
+        "矽光子"
       ],
       "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
       ],
       "related_models": [
         "003",
@@ -2472,20 +2434,20 @@
         "009",
         "010"
       ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "152879482d63a8b0",
+      "id": "5ae4e2c1569f3ae7",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "光通訊與矽光子",
-      "title": "Elon 和 SpaceX 將 AI 訓練速度提高了 10 倍",
-      "summary": "Elon 表示，SpaceX 使用 C 程式語言從頭開始建立了自己的超級優化人工智慧訓練軟體。它比 Google JAX 框架快 10 倍。它設計為在由 220,000 個尖端 NVIDIA GB300 GPU 連接組成的龐大叢集上運行…",
-      "original_title": "Elon and SpaceX Have Made AI Training 10 Times Faster",
-      "url": "https://www.nextbigfuture.com/2026/05/elon-and-spacex-have-made-ai-training-10-times-faster.html",
-      "source": "Next Big Future",
-      "domain": "nextbigfuture.com",
-      "published_at": "2026-05-28T07:26:13Z",
+      "title": "AuthenX to Unveil Detachable 2D FAU Technology at COMPUTEX 2026, Eliminating the Optical Packaging Bottleneck for Next-Gen AI and HPC Clusters",
+      "summary": "AuthenX 將 12 吋 CMOS 元件整合到多行 2D 陣列中，提供超低損耗和高對準容差，可無縫擴展 3.2T 至 12.8T CPO 部署。台北，2026 年 5 月 28 日 /美通社/ -- AuthenX Inc.，高速…的領先創新者",
+      "original_title": "AuthenX to Unveil Detachable 2D FAU Technology at COMPUTEX 2026, Eliminating the Optical Packaging Bottleneck for Next-Gen AI and HPC Clusters",
+      "url": "https://www.prnewswire.com/news-releases/authenx-to-unveil-detachable-2d-fau-technology-at-computex-2026-eliminating-the-optical-packaging-bottleneck-for-next-gen-ai-and-hpc-clusters-302784012.html",
+      "source": "PRNewswire",
+      "domain": "prnewswire.com",
+      "published_at": "2026-05-28T06:00:00Z",
       "importance": 50,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -2549,6 +2511,44 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "b22df701d6bfdeab",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "三天內第二次衝突後美伊和談存疑",
+      "summary": "美國與伊朗再次交火，油價上漲，為和談帶來新的疑慮。伊朗媒體報道稱，伊朗軍隊...",
+      "original_title": "US-Iran Peace Talks in Doubt After Second Clash in 3 Days",
+      "url": "https://www.yahoo.com/news/videos/us-iran-peace-talks-doubt-111042861.html",
+      "source": "Yahoo Entertainment",
+      "domain": "yahoo.com",
+      "published_at": "2026-05-28T11:10:42Z",
+      "importance": 45,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     }
   ]
 }
