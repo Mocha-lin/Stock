@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-03T21:40:03.084163+00:00
+> 更新時間：2026-06-04T01:43:04.611438+00:00
 
 ### ⚖️ 解說：英特爾將AI封裝緊縮變成代工捲土重來的考驗
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -28,12 +28,12 @@
 
 ---
 
-### ⚖️ AI基礎設施觸及銅極限，代工廠至2028年鎖定矽光子產能
-- **題材**: `光通訊與矽光子` | **重要性**: `78`
-- **來源**: Digitimes (2026-05-31T23:58:45Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 生成式人工智慧正以超過關鍵運算閾值的速度發展，開啟了從「以晶片為中心到以互連為中心」架構時代的轉變。傳統銅纜的物理限製造成了整個產業的嚴重障礙…
-- [原文連結](https://www.digitimes.com/news/a20260527VL206/copper-cpo-silicon-capacity-infrastructure.html)
+### 🚀 聯合整合服務公司 (United Integrated Services) 預計人工智慧資本支出將蓬勃發展，將晶圓廠訂單可見度延長至 2030 年
+- **題材**: `半導體先進製程` | **重要性**: `78`
+- **來源**: Digitimes (2026-05-31T08:19:12Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 台積電和美光的主要晶圓廠建設合作夥伴聯合整合服務公司表示，全球人工智慧（AI）熱潮正在繼續推動半導體資本支出，並將其積壓訂單提升至創紀錄水平。在其股東大會上...
+- [原文連結](https://www.digitimes.com/news/a20260529PD243/fab-construction-capex-tsmc-usa-expansion-2026.html)
 
 ---
 
@@ -64,6 +64,15 @@
 
 ---
 
+### ⚖️ AI基礎設施觸及銅極限，代工廠至2028年鎖定矽光子產能
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-05-31T23:58:45Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 生成式人工智慧正以超過關鍵運算閾值的速度發展，開啟了從「以晶片為中心到以互連為中心」架構時代的轉變。傳統銅纜的物理限製造成了整個產業的嚴重障礙…
+- [原文連結](https://www.digitimes.com/news/a20260527VL206/copper-cpo-silicon-capacity-infrastructure.html)
+
+---
+
 ### ⚖️ 英特爾代工捲土重來取決於先進封裝
 - **題材**: `半導體先進製程` | **重要性**: `73`
 - **來源**: Digitimes (2026-05-29T04:05:41Z)
@@ -82,21 +91,12 @@
 
 ---
 
-### 🚀 聯華電子準備漲價，啟動 2027 年客戶洽談
-- **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-05-27T23:53:29Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 聯華電子5月27日召開股東大會，執行長王傑表示，隨著AI應用快速擴展，長期半導體需求仍有成長空間。除了深化其在成熟和專業工藝方面的優勢外，聯華電子還…
-- [原文連結](https://www.digitimes.com/news/a20260527PD242/umc-2027-price-demand-ceo.html)
-
----
-
-### ⚖️ Ezconn moves up AI optics chain with CPO and silicon photonics
-- **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-05-27T23:50:34Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Ezconn 總裁 Ying-hua Chang 表示，預計美國雲端供應商的人工智慧資料中心擴張將至少在 2029 年之前維持對高核心數光學產品的需求。
-- [原文連結](https://www.digitimes.com/news/a20260527PD211/ezconn-cpo-siph-2026.html)
+### 🚀 人工智慧需求與獲利樂觀提昇科技巨頭 5 月市值
+- **題材**: `HBM記憶體` | **重要性**: `70`
+- **來源**: CNA (2026-06-02T14:58:50Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 6 月 2 日：除了 Alphabet 之外，全球最有價值的科技公司 5 月市值增加了數十億美元，樂觀的獲利前景和對人工智慧晶片的強勁需求推動其股價上漲。蘋果、記憶體晶片製造商美光…
+- [原文連結](https://www.channelnewsasia.com/business/ai-demand-earnings-optimism-lift-tech-giants-market-value-in-may-6157051)
 
 ---
 
@@ -113,12 +113,48 @@
 
 ---
 
-### ⚖️ 三星晶片工人投票接受平均 34 萬美元獎金，結束了長達數月的罷工威脅——對交易的不滿導致三星代工部門放緩
+### ⚖️ AuthenX 透過可拆卸的元透鏡 FAU 解決 CPO 瓶頸
+- **題材**: `光通訊與矽光子` | **重要性**: `63`
+- **來源**: Digitimes (2026-05-31T23:53:43Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: AuthenX 正準備在 COMPUTEX 2026 上展示可拆卸的 2D 光纖陣列單元，這家台灣光通訊公司致力於解決共封裝光學元件中的封裝和對準挑戰。
+- [原文連結](https://www.digitimes.com/news/a20260529PD204/production-12-inch-commercial-wafer-silicon.html)
+
+---
+
+### ⚖️ AMD“必須重新設計”Ryzen 7 5800X3D 才能重新發布——十週年版晶片投入了“一整套工程工作”
+- **題材**: `半導體先進製程` | **重要性**: `62`
+- **來源**: Tom's Hardware UK (2026-06-02T10:41:03Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: AMD剛剛重新推出了Ryzen 7 5800X3D，但它並不是像旋轉舊的製造流程那麼簡單，因為台積電使用的原始黏合方法已不再可用。
+- [原文連結](https://www.tomshardware.com/pc-components/cpus/amd-had-to-re-engineer-the-ryzen-7-5800x3d-for-a-re-release-10th-anniversary-edition-chip-had-a-whole-body-of-engineering-work-put-into-it)
+
+---
+
+### ⚖️ Seven hospitalized after toxic gas fire at SK hynix advanced memory plant — Cheongju 4th campus incident today led to all 3,600 staff being evacuated
 - **題材**: `HBM記憶體` | **重要性**: `62`
-- **來源**: Tom's Hardware UK (2026-05-27T10:56:23Z)
+- **來源**: Tom's Hardware UK (2026-06-01T14:04:50Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 該協議將三星半導體部門營業利潤的 10.5% 作為股票獎金。
-- [原文連結](https://www.tomshardware.com/tech-industry/samsung-chip-workers-vote-to-accept-340000-average-bonus-ending-months-long-strike-threat)
+- **摘要**: 今天早些時候，由於使用氟氣的房間發生火災，數千名 SK 海力士員工逃離了工廠。
+- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/seven-hospitalized-after-toxic-gas-fire-at-sk-hynix-advanced-memory-plant-cheongju-4th-campus-incident-today-led-to-all-3-600-staff-being-evacuated)
+
+---
+
+### 🚀 使用 Mamyshev 振盪器的高脈衝能量整合鎖模雷射器
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: Nature.com (2026-06-03T00:00:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Mamyshev 振盪器鎖模雷射緊密地整合在光子晶片上，可提供納焦耳、飛秒脈衝。
+- [原文連結](https://www.nature.com/articles/s41586-026-10517-4)
+
+---
+
+### ⚠️ 晶片短缺推動人工智慧繁榮，美光和 SK 海力士估值突破 1 兆美元
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-06-02T11:42:42Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 
+- [原文連結](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7e2a775f-b9c5-4b30-9c38-649c2b21117a)
 
 ---
 
@@ -150,42 +186,6 @@
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Adobe 承諾在即將推出的 Photoshop 和 Premiere 更新中將效果、AI 和編輯效能提高一倍。收益來自於針對 NVIDIA RTX Spark 平台優化這兩個應用程式。
 - [原文連結](https://www.windowscentral.com/software-apps/adobe-will-supercharge-photoshop-and-premiere-with-rtx-spark-and-the-n1x-chip)
-
----
-
-### ⚠️ 記憶體緊縮導致個人電腦價格上漲兩位數
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: Theregister.com (2026-06-01T09:15:00Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 隨著晶片製造商放棄消費性套件轉而採用人工智慧伺服器，筆記型電腦成長 11%，桌上型電腦成長 10%
-- [原文連結](https://www.theregister.com/personal-tech/2026/06/01/memory-crunch-sends-pc-prices-into-double-digit-climb/5248525)
-
----
-
-### 🚀 iPhone 18 Pro Max Dummy Models Leak: Here’s What to Expect Before September
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: The Gadgeteer (2026-06-01T04:45:51Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 苹果的 iPhone 18 Pro Max 直到 9 月份才会曝光，但谣言四起。 2026 年 5 月下旬，四色虛擬模型（銀色、黑色、淺藍色、深櫻桃色）洩露，供應鏈報告稱蘋果正在最終確定 OLED 面板批准。 …
-- [原文連結](https://the-gadgeteer.com/2026/05/31/iphone-18-pro-max-leaks-colors-a20-chip/)
-
----
-
-### 🚀 Surface Laptop Ultra：微軟與 NVIDIA 展示 128GB RAM、mini-LED、RTX Spark 強大功能，重新定義 Arm 上的 Windows
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: Windows Central (2026-06-01T04:39:14Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Microsoft 和 NVIDIA 推出 Surface Laptop Ultra，這是一款配備 Blackwell 顯示卡和迷你 LED 顯示器的 128GB RAM 野獸，重新定義了 Windows on Arm 的效能。
-- [原文連結](https://www.windowscentral.com/hardware/surface/microsoft-surface-laptop-ultra-announced-computex-2026)
-
----
-
-### 🚀 人工智慧晶片熱潮帶動韓國出口成長創四年新高
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-06-01T02:54:42Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 作者：Jihoon Lee 首爾，6 月 1 日（路透社）
-- [原文連結](https://finance.yahoo.com/economy/articles/south-korea-export-growth-hits-005401997.html)
 
 ---
 
