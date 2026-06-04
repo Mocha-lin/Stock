@@ -8,8 +8,6 @@
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/klinecharts/dist/klinecharts.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.15.0/Sortable.min.js"></script>
-	<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
-    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     
     
@@ -306,26 +304,10 @@
                 <!-- Industry Analysis (Block B) -->
                 <div class="grid grid-cols-1 lg:grid-cols-3 gap-8">
                     <!-- Left Column: Details -->
-                    <div class="col-span-2 flex flex-col gap-6">
-                        <div class="glass-panel p-6">
-                            <div class="header-title text-[#8B7355]">產業地位與 AI 觀點</div>
-                            <div id="industry_content">
-                                <div class="text-gray-400 italic">等待 AI 分析數據...</div>
-                            </div>
-                        </div>
-                        
-                        <!-- 🌍 產能地圖與場址資訊區塊 -->
-                        <div class="glass-panel p-6 hidden" id="facility_map_panel">
-                            <div class="header-title text-[#8B7355]">
-                                <i class="fas fa-map-marked-alt mr-2"></i>全球產能佈局與擴廠追蹤
-                            </div>
-                            <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
-                                <!-- 地圖容器 -->
-                                <div id="facility_map" class="h-[350px] w-full rounded-lg border border-gray-200 z-10 relative"></div>
-                                <!-- 廠房卡片清單 -->
-                                <div id="facility_cards" class="overflow-y-auto h-[350px] space-y-3 pr-2">
-                                </div>
-                            </div>
+                    <div class="col-span-2 glass-panel p-6">
+                        <div class="header-title text-[#8B7355]">產業地位與 AI 觀點</div>
+                        <div id="industry_content">
+                            <div class="text-gray-400 italic">等待 AI 分析數據...</div>
                         </div>
                     </div>
 
@@ -892,9 +874,6 @@
             // NEW: Returns Table
             let returns_table = d["6_含息年度報酬率 (Annual Returns)"]?.items?.annual_returns?.rows || [];
 
-            // 🌍 NEW: 場址與產能佈局 (越過 Gemini 直接讀取 JSON A)
-            let facilities_data = d["6-2_場址與產能佈局 (Facilities)"]?.items || [];
-
             return {
                 id: header.stock_id,
                 name: name,
@@ -904,7 +883,7 @@
                 basicInfo: { price, change, changePercent },
                 financials: {
                     revenue_trend, eps_table, cashflow_table, quality_table, kpi_table, structure_table, pe_table, capital_table, chips_table, c_score_data, returns_table,
-                    contract_table, utilization_table, integrated_table, facilities_data,
+                    contract_table, utilization_table, integrated_table, // 新增這三個
                     kline_data: kline_data,
                     valuation: { pb: '-', roe: '-', pe_status: '-' }
                 },
@@ -1251,244 +1230,22 @@ async function syncData(force = false) {
             const m = document.getElementById('d_memo');
             m.value = s.memo||"";
             m.oninput = ()=>{ const target = db.find(x => x.id === currentStockId); if(target) { target.memo = m.value; saveToLocal(); } };
-
-            // ==========================================
-            // 🌍 渲染產能地圖與廠房卡片 (直接讀取 JSON A)
-            // ==========================================
-            const facPanel = document.getElementById('facility_map_panel');
-            const facCards = document.getElementById('facility_cards');
-            
-            const facilitiesList = s.financials?.facilities_data || [];
-            
-            if (facilitiesList.length > 0 && facPanel) {
-                facPanel.classList.remove('hidden');
-                facCards.innerHTML = '';
-                
-                if(window.facMap) { window.facMap.remove(); }
-                window.facMap = L.map('facility_map').setView([23.6978, 120.9605], 2);
-                L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
-                    attribution: '&copy; OpenStreetMap contributors'
-                }).addTo(window.facMap);
-
-                let bounds = [];
-                
-                facilitiesList.forEach((f, idx) => {
-                    const fName = f.facility_name || '未命名廠區';
-                    const fStatus = f.status || 'unknown';
-                    const fType = f.facility_type || 'unknown';
-                    const fLocation = f.location_text || '未知位置';
-                    const fProducts = f.related_products || [];
-                    const fContrib = f.contribution_description || '無詳細說明';
-                    const lat = f.latitude;
-                    const lng = f.longitude;
-
-                    let statusColor = 'bg-gray-100 text-gray-500';
-                    let statusText = fStatus;
-                    if(fStatus === 'operating') { statusColor = 'bg-green-100 text-green-700'; statusText = '營運中'; }
-                    else if(fStatus === 'under_construction') { statusColor = 'bg-yellow-100 text-yellow-700'; statusText = '建廠/擴產中'; }
-                    else if(fStatus === 'trial_production') { statusColor = 'bg-blue-100 text-blue-700'; statusText = '試產中'; }
-                    else if(fStatus === 'ramping') { statusColor = 'bg-purple-100 text-purple-700'; statusText = '產能爬坡中'; }
-                    else if(fStatus === 'planned') { statusColor = 'bg-orange-100 text-orange-700'; statusText = '計畫中'; }
-                    
-                    let typeIcon = 'fa-industry';
-                    if(fType === 'headquarters') typeIcon = 'fa-building';
-                    else if(fType === 'r_and_d_center') typeIcon = 'fa-flask';
-
-                    facCards.innerHTML += `
-                        <div class="border border-gray-200 rounded-lg p-3 hover:shadow-md transition bg-white cursor-pointer" onclick="if(window.facMap && ${lat} && ${lng}) window.facMap.setView([${lat}, ${lng}], 12);">
-                            <div class="flex justify-between items-start mb-1">
-                                <div class="font-bold text-[#2C3E50] text-sm"><i class="fas ${typeIcon} mr-1 text-gray-400"></i>${fName}</div>
-                                <span class="text-[10px] font-bold px-2 py-0.5 rounded ${statusColor} ml-2 whitespace-nowrap">${statusText}</span>
-                            </div>
-                            <div class="text-xs text-gray-400 mb-2"><i class="fas fa-map-marker-alt mr-1"></i>${fLocation}</div>
-                            <div class="text-xs text-gray-600 mb-1"><span class="font-bold text-gray-400">產品:</span> ${fProducts.join(', ')}</div>
-                            <div class="text-xs text-blue-700 bg-blue-50 p-2 rounded leading-relaxed border border-blue-100">${fContrib}</div>
-                        </div>
-                    `;
-
-                    if (lat !== null && lng !== null) {
-                        let markerColor = fStatus === 'operating' ? '#3B82F6' : '#EF4444'; 
-                        let markerHtml = `<div style="background-color:${markerColor}; width:12px; height:12px; border-radius:50%; border:2px solid white; box-shadow:0 0 4px rgba(0,0,0,0.4);"></div>`;
-                        let customIcon = L.divIcon({ className: '', html: markerHtml, iconSize: [12, 12], iconAnchor: [6, 6] });
-                        
-                        L.marker([lat, lng], {icon: customIcon})
-                         .addTo(window.facMap)
-                         .bindPopup(`<b>${fName}</b><br>${statusText}`);
-                         
-                        bounds.push([lat, lng]);
-                    }
-                });
-
-                if (bounds.length > 0) {
-                    window.facMap.fitBounds(bounds, {padding: [30, 30], maxZoom: 14});
+             // 此函數放在全域或 loadStock 內皆可，建議確保全域可存取
+            window.toggleCGEdit = function() {
+                if (cg.classList.contains('hidden')) {
+                    cg.classList.remove('hidden'); cgp.classList.add('hidden');
+                    cgBtn.innerHTML = '<i class="fas fa-check mr-1"></i>完成預覽';
+                    cg.focus();
+                } else {
+                    cg.classList.add('hidden'); cgp.classList.remove('hidden');
+                    cgBtn.innerHTML = '<i class="fas fa-edit mr-1"></i>編輯模式';
+                    // 點擊完成時重新渲染 Markdown
+                    cgp.innerHTML = cg.value ? marked.parse(cg.value) : '<span class="text-gray-300 italic">無內容</span>';
                 }
-            } else {
-                if(facPanel) facPanel.classList.add('hidden');
-            }
+            };
 
-            // ==========================================
             // 0. Industry Analysis
-            // ==========================================
             if (s.industry_analysis) {
-                const ind = s.industry_analysis;
-                let stars = '';
-                const rating = ind.moat?.rating || 0;
-                for(let i=1; i<=5; i++) {
-                    stars += i <= rating ? '<i class="fas fa-star star-filled"></i>' : '<i class="far fa-star star-empty"></i>';
-                }
-                
-                let competitorsHtml = (ind.competitors || []).map(c => 
-                    `<span class="bg-gray-100 text-gray-700 px-2 py-1 rounded text-xs font-bold mr-2 mb-2 inline-block">${c}</span>`
-                ).join('');
-
-                const html = `
-                    <div class="mb-4">
-                        <div class="flex items-center gap-2 mb-2">
-                            <span class="bg-[#8B7355] text-white px-3 py-1 rounded font-bold text-sm">${ind.sector || '-'}</span>
-                            ${ind.is_leader ? '<span class="bg-red-500 text-white px-3 py-1 rounded font-bold text-sm">👑 產業龍頭</span>' : ''}
-                            <span class="text-gray-500 text-sm font-bold">市佔率: ${ind.market_share || '-'}</span>
-                        </div>
-                    </div>
-                    
-                    <div class="mb-4 bg-gray-50 p-3 rounded-lg border border-gray-100">
-                        <div class="text-xs text-gray-400 font-bold uppercase mb-1">Supply Chain Position</div>
-                        <div class="flex items-center gap-2 text-sm font-bold text-gray-700">
-                            <span>${ind.supply_chain?.upstream || '上游'}</span>
-                            <i class="fas fa-arrow-right text-gray-400"></i>
-                            <span class="text-[#8B7355] text-lg">${ind.supply_chain?.position || s.name}</span>
-                            <i class="fas fa-arrow-right text-gray-400"></i>
-                            <span>${ind.supply_chain?.downstream || '下游'}</span>
-                        </div>
-                    </div>
-
-                    <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-4">
-                        <div>
-                            <div class="text-xs text-gray-400 font-bold uppercase mb-1">Moat Rating</div>
-                            <div class="text-lg mb-1">${stars}</div>
-                            <div class="text-sm text-gray-600 leading-snug">${ind.moat?.description || '-'}</div>
-                        </div>
-                        <div>
-                            <div class="text-xs text-gray-400 font-bold uppercase mb-2">Competitors</div>
-                            <div class="flex flex-wrap">${competitorsHtml}</div>
-                        </div>
-                    </div>
-                `;
-                document.getElementById('industry_content').innerHTML = html;
-
-                // Render Pie Chart (圓餅圖) & Product Lists (商品列表)
-                const elMain = document.getElementById('product_main_list');
-                const elDev = document.getElementById('product_dev_list');
-
-                if (ind.revenue_mix && ind.revenue_mix.length > 0) {
-                    const ctx = document.getElementById('chart_rev_mix').getContext('2d');
-                    if (charts.rev_mix) charts.rev_mix.destroy();
-                    charts.rev_mix = new Chart(ctx, {
-                        type: 'doughnut',
-                        data: {
-                            labels: ind.revenue_mix.map(i => i.name),
-                            datasets: [{
-                                data: ind.revenue_mix.map(i => i.pct),
-                                backgroundColor: ['#3B82F6', '#10B981', '#F59E0B', '#EF4444', '#8B5CF6', '#6B7280'],
-                                borderWidth: 0
-                            }]
-                        },
-                        options: {
-                            responsive: true,
-                            maintainAspectRatio: false,
-                            plugins: {
-                                legend: { position: 'right', labels: { boxWidth: 12, font: { size: 11 } } }
-                            },
-                            layout: { padding: 10, cutout: '60%' }
-                        }
-                    });
-                }
-
-                if (ind.main_products && ind.main_products.length > 0) {
-                    elMain.innerHTML = '';
-                    ind.main_products.forEach(p => {
-                        elMain.innerHTML += `
-                            <div class="bg-white border border-gray-200 rounded px-3 py-2 shadow-sm flex flex-col justify-center">
-                                <div class="text-[#2C3E50] font-bold text-sm mb-1 truncate" title="${p.name}">${p.name}</div>
-                                <div class="text-xs text-gray-500 flex justify-between gap-3">
-                                    <span>貢獻:</span><span class="font-mono font-bold text-blue-600">${p.contribution || '-'}</span>
-                                </div>
-                            </div>
-                        `;
-                    });
-                } else {
-                    elMain.innerHTML = '<span class="text-gray-300 text-xs italic">--</span>';
-                }
-
-                if (ind.dev_pipeline && ind.dev_pipeline.length > 0) {
-                    elDev.innerHTML = '';
-                    ind.dev_pipeline.forEach(p => {
-                        elDev.innerHTML += `
-                            <div class="bg-gray-50 border border-dashed border-gray-300 rounded px-3 py-2 flex flex-col justify-center relative overflow-hidden">
-                                <div class="text-[#8B7355] font-bold text-sm mb-1 truncate" title="${p.name}">${p.name}</div>
-                                <div class="text-xs text-gray-400 flex flex-col gap-1">
-                                    <div class="flex justify-between gap-3"><span>預計:</span><span class="font-mono">${p.expected_mass_production || '-'}</span></div>
-                                    <div class="text-right text-[#16A34A] font-bold">${p.order_status || ''}</div>
-                                </div>
-                            </div>
-                        `;
-                    });
-                } else {
-                    elDev.innerHTML = '<span class="text-gray-300 text-xs italic">--</span>';
-                }
-
-            } else {
-                // 若無 industry_analysis 數據時的處理
-                document.getElementById('industry_content').innerHTML = '<div class="text-gray-400 italic">等待 AI 分析數據...</div>';
-                document.getElementById('product_main_list').innerHTML = '<span class="text-gray-300 text-xs italic">等待 B 入口分析...</span>';
-                document.getElementById('product_dev_list').innerHTML = '<span class="text-gray-300 text-xs italic">等待 B 入口分析...</span>';
-                if(charts.rev_mix) charts.rev_mix.destroy();
-            }         let statusColor = 'bg-gray-100 text-gray-500';
-                        let statusText = fStatus;
-                        if(fStatus === 'operating') { statusColor = 'bg-green-100 text-green-700'; statusText = '營運中'; }
-                        else if(fStatus === 'under_construction') { statusColor = 'bg-yellow-100 text-yellow-700'; statusText = '建廠/擴產中'; }
-                        else if(fStatus === 'trial_production') { statusColor = 'bg-blue-100 text-blue-700'; statusText = '試產中'; }
-                        else if(fStatus === 'ramping') { statusColor = 'bg-purple-100 text-purple-700'; statusText = '產能爬坡中'; }
-                        else if(fStatus === 'planned') { statusColor = 'bg-orange-100 text-orange-700'; statusText = '計畫中'; }
-                        
-                        let typeIcon = 'fa-industry';
-                        if(fType === 'headquarters') typeIcon = 'fa-building';
-                        else if(fType === 'r_and_d_center') typeIcon = 'fa-flask';
-
-                        // 2. 渲染右側卡片
-                        facCards.innerHTML += `
-                            <div class="border border-gray-200 rounded-lg p-3 hover:shadow-md transition bg-white cursor-pointer" onclick="if(window.facMap && ${lat} && ${lng}) window.facMap.setView([${lat}, ${lng}], 12);">
-                                <div class="flex justify-between items-start mb-1">
-                                    <div class="font-bold text-[#2C3E50] text-sm"><i class="fas ${typeIcon} mr-1 text-gray-400"></i>${fName}</div>
-                                    <span class="text-[10px] font-bold px-2 py-0.5 rounded ${statusColor} ml-2 whitespace-nowrap">${statusText}</span>
-                                </div>
-                                <div class="text-xs text-gray-400 mb-2"><i class="fas fa-map-marker-alt mr-1"></i>${fLocation}</div>
-                                <div class="text-xs text-gray-600 mb-1"><span class="font-bold text-gray-400">產品:</span> ${fProducts.join(', ')}</div>
-                                <div class="text-xs text-blue-700 bg-blue-50 p-2 rounded leading-relaxed border border-blue-100">${fContrib}</div>
-                            </div>
-                        `;
-
-                        // 3. 在地圖上打點
-                        if (lat !== null && lng !== null) {
-                            let markerColor = fStatus === 'operating' ? '#3B82F6' : '#EF4444'; // 擴產中用紅色標記
-                            let markerHtml = `<div style="background-color:${markerColor}; width:12px; height:12px; border-radius:50%; border:2px solid white; box-shadow:0 0 4px rgba(0,0,0,0.4);"></div>`;
-                            let customIcon = L.divIcon({ className: '', html: markerHtml, iconSize: [12, 12], iconAnchor: [6, 6] });
-                            
-                            L.marker([lat, lng], {icon: customIcon})
-                             .addTo(window.facMap)
-                             .bindPopup(`<b>${fName}</b><br>${statusText}`);
-                             
-                            bounds.push([lat, lng]); // 正確使用 push 加進陣列
-                        }
-                    });
-
-                    // 自動縮放地圖以包含所有廠區
-                    if (bounds.length > 0) {
-                        window.facMap.fitBounds(bounds, {padding: [30, 30], maxZoom: 14});
-                    }
-
-                } else {
-                    if(facPanel) facPanel.classList.add('hidden');
-                }
                 const ind = s.industry_analysis;
                 let stars = '';
                 const rating = ind.moat?.rating || 0;
@@ -2589,7 +2346,6 @@ if (forecasts.length === 0) {
     </script>
 </body>
 </html>
-
 
 
 
