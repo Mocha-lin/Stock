@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-04T01:43:04.611438+00:00
+> 更新時間：2026-06-04T05:50:37.724214+00:00
 
 ### ⚖️ 解說：英特爾將AI封裝緊縮變成代工捲土重來的考驗
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -46,15 +46,6 @@
 
 ---
 
-### ⚖️ Marvell 擴展矽光子、交換和互連路線圖
-- **題材**: `光通訊與矽光子` | **重要性**: `78`
-- **來源**: Digitimes (2026-05-28T01:56:36Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Marvell Technology 在 2027 財年第一季財報電話會議上詳細介紹了基於光學、銅和矽光子的連接的加速進展，表明人工智慧基礎設施正在從以計算為中心的瓶頸轉向網路瓶頸…
-- [原文連結](https://www.digitimes.com/news/a20260528VL206/marvell-silicon-photonics-2027-earnings.html)
-
----
-
 ### 🚀 Marvell 2027 年第一季收益因人工智慧資料中心需求而成長
 - **題材**: `光通訊與矽光子` | **重要性**: `75`
 - **來源**: Quartz India (2026-05-28T11:51:48Z)
@@ -79,6 +70,15 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 根據 ETNews 報導，英特爾正在大力推進先進半導體封裝，以加強其代工業務並擴大其嵌入式多晶片互連橋（EMIB）技術的產能。
 - [原文連結](https://www.digitimes.com/news/a20260529VL214/intel-packaging-technology-equipment-investment.html)
+
+---
+
+### ⚖️ Marvell 擴展矽光子、交換和互連路線圖
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-05-28T01:56:36Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Marvell Technology 在 2027 財年第一季財報電話會議上詳細介紹了基於光學、銅和矽光子的連接的加速進展，表明人工智慧基礎設施正在從以計算為中心的瓶頸轉向網路瓶頸…
+- [原文連結](https://www.digitimes.com/news/a20260528VL206/marvell-silicon-photonics-2027-earnings.html)
 
 ---
 
@@ -140,6 +140,15 @@
 
 ---
 
+### ⚠️ 美國在貿易協定談判中對印度徵收強迫勞動關稅
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-06-03T05:46:05Z)
+- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 
+- [原文連結](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_010255e9-98c4-4527-ab5b-fd9a4ea696da)
+
+---
+
 ### 🚀 使用 Mamyshev 振盪器的高脈衝能量整合鎖模雷射器
 - **題材**: `光通訊與矽光子` | **重要性**: `60`
 - **來源**: Nature.com (2026-06-03T00:00:00Z)
@@ -177,15 +186,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Sivers 的雷射陣列支援 GlobalFoundries 的矽光子平台和 SCALE™ 光學引擎解決方案，目標是到 2030 年實現 25B 美元的可插拔光學市場 瑞典 KISTA，2026 年 6 月 2 日 /美通社/ -- 全球領先企業 Sivers Semiconductors AB…STO：STO：SIVE
 - [原文連結](https://www.prnewswire.com/news-releases/sivers--globalfoundries-advance-ai-data-center-optical-solutions-302788035.html)
-
----
-
-### 🚀 Adobe 將利用 RTX Spark 和 N1x 晶片增強 Photoshop 和 Premiere 的效能
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: Windows Central (2026-06-01T11:28:08Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Adobe 承諾在即將推出的 Photoshop 和 Premiere 更新中將效果、AI 和編輯效能提高一倍。收益來自於針對 NVIDIA RTX Spark 平台優化這兩個應用程式。
-- [原文連結](https://www.windowscentral.com/software-apps/adobe-will-supercharge-photoshop-and-premiere-with-rtx-spark-and-the-n1x-chip)
 
 ---
 
