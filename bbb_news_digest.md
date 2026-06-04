@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-04T16:14:46.936655+00:00
+> 更新時間：2026-06-04T19:10:44.402428+00:00
 
 ### ⚖️ 解說：英特爾將AI封裝緊縮變成代工捲土重來的考驗
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -73,15 +73,6 @@
 
 ---
 
-### ⚖️ GlobalFoundries、UMC 和 SMIC 的前沿代工路線圖——成熟的節點晶片製造商各自追求不同的策略和 IP
-- **題材**: `光通訊與矽光子` | **重要性**: `72`
-- **來源**: Tom's Hardware UK (2026-05-28T16:16:35Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 我們探索 Globalfoundries、UMC 和 SMIC 各自的後沿路線圖，因為每家公司都在追求由地理、監管和技術選擇決定的根本不同的策略。
-- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/the-trailing-edge-foundry-roadmap-examined)
-
----
-
 ### 🚀 人工智慧需求與獲利樂觀提昇科技巨頭 5 月市值
 - **題材**: `HBM記憶體` | **重要性**: `70`
 - **來源**: CNA (2026-06-02T14:58:50Z)
@@ -97,6 +88,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 這家晶片製造商公佈的季度營收為創紀錄的 24.2 億美元，下個季度的預期營收為 27 億美元，理由是 AI 相關訂單異常旺盛
 - [原文連結](https://qz.com/marvell-stock-earnings-ai-data-center-revenue-052826)
+
+---
+
+### ⚖️ GlobalFoundries、UMC 和 SMIC 的前沿代工路線圖——成熟的節點晶片製造商各自追求不同的策略和 IP
+- **題材**: `光通訊與矽光子` | **重要性**: `67`
+- **來源**: Tom's Hardware UK (2026-05-28T16:16:35Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 我們探索 Globalfoundries、UMC 和 SMIC 各自的後沿路線圖，因為每家公司都在追求由地理、監管和技術選擇決定的根本不同的策略。
+- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/the-trailing-edge-foundry-roadmap-examined)
 
 ---
 
@@ -140,15 +140,6 @@
 
 ---
 
-### ⚠️ 美國在貿易協定談判中對印度徵收強迫勞動關稅
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-06-03T05:46:05Z)
-- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 
-- [原文連結](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_010255e9-98c4-4527-ab5b-fd9a4ea696da)
-
----
-
 ### 🚀 使用 Mamyshev 振盪器的高脈衝能量整合鎖模雷射器
 - **題材**: `光通訊與矽光子` | **重要性**: `60`
 - **來源**: Nature.com (2026-06-03T00:00:00Z)
@@ -186,6 +177,16 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Sivers 的雷射陣列支援 GlobalFoundries 的矽光子平台和 SCALE™ 光學引擎解決方案，目標是到 2030 年實現 25B 美元的可插拔光學市場 瑞典 KISTA，2026 年 6 月 2 日 /美通社/ -- 全球領先企業 Sivers Semiconductors AB…STO：STO：SIVE
 - [原文連結](https://www.prnewswire.com/news-releases/sivers--globalfoundries-advance-ai-data-center-optical-solutions-302788035.html)
+
+---
+
+### ⚖️ 蘋果分析師將 MacBook Neo 2026 年出貨量上調至 1,000 萬台
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: Macdailynews.com (2026-05-29T20:19:05Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 郭明池今天預計該公司最暢銷的筆記型電腦之一 MacBook Neo 的勢頭將強於預期...
+蘋果分析師將 MacBook Neo 2026 年出貨量上調至 1,000 萬台的貼文首先出現在 MacDailyNews 上。
+- [原文連結](https://macdailynews.com/2026/05/29/apple-analyst-ups-macbook-neo-2026-shipments-to-10-million-units/)
 
 ---
 
