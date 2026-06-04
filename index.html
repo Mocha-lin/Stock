@@ -8,10 +8,8 @@
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/klinecharts/dist/klinecharts.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.15.0/Sortable.min.js"></script>
-    <!-- Leaflet JS & CSS for Map -->
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
-    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
     
     <style>
         /* 1. 基礎設定 */
@@ -38,9 +36,12 @@
             .sidebar-drawer.open { transform: translateX(0); }
             .mobile-backdrop { position: fixed; inset: 0; background: rgba(0,0,0,0.5); z-index: 40; display: none; }
             .mobile-backdrop.show { display: block; }
-            .data-table th, .data-table td { padding: 8px 12px; font-size: 14px; } 
-            .sidebar-cat-header { @apply px-2 py-1 text-[11px] font-bold text-gray-400 uppercase tracking-wider border-b border-gray-200 mb-1 flex justify-between items-center cursor-pointer hover:bg-gray-100 transition; }
-            #stockList { @apply space-y-1 !important; }
+            .data-table th, .data-table td { padding: 8px 12px; font-size: 14px; } /* 手機表格緊湊化 */
+            /* 側邊欄分類標題緊湊化 */
+        .sidebar-cat-header { @apply px-2 py-1 text-[11px] font-bold text-gray-400 uppercase tracking-wider border-b border-gray-200 mb-1 flex justify-between items-center cursor-pointer hover:bg-gray-100 transition; }
+        
+        /* 側邊欄個股清單容器間距縮小 */
+        #stockList { @apply space-y-1 !important; }
         }
 
         /* 4. 標籤與 Price Bar */
@@ -48,31 +49,50 @@
         .tag-active { @apply bg-[#8B7355] text-white border-[#8B7355]; }
         .tag-inactive { @apply bg-white text-gray-500 border-gray-200 hover:bg-gray-50; }
 
-        .sidebar-select { @apply w-full bg-white border border-gray-300 rounded px-2 py-1.5 text-xs font-bold text-gray-600 outline-none transition-all; cursor: pointer; }
+        /* 下拉選單樣式優化 */
+        .sidebar-select {
+            @apply w-full bg-white border border-gray-300 rounded px-2 py-1.5 text-xs font-bold text-gray-600 outline-none transition-all;
+            cursor: pointer;
+        }
         .sidebar-select:focus { @apply border-[#8B7355] ring-1 ring-[#8B7355]/20; }
         
+        /* 好球帶橫條基礎樣式 */
         .price-bar-container { position: relative; height: 12px; background: #E5E7EB; border-radius: 6px; margin-top: 8px; width: 100%; overflow: visible; }
+        /* 區間底色樣式 - 調低透明度以利疊加 */
         .pb-zone { position: absolute; height: 100%; opacity: 0.25; transition: all 0.3s; }
         .pb-buy-zone { background-color: #22C55E; border-radius: 4px; }
         .pb-sell-zone { background-color: #EF4444; border-radius: 4px; }
         
+        /* 多模型文字標籤樣式 */
         .model-tag-line { display: flex; justify-content: space-between; font-size: 10px; margin-bottom: 2px; line-height: 1.2; }
         .model-name-label { font-weight: 800; color: #6B7280; background: #F3F4F6; padding: 0 4px; border-radius: 3px; margin-right: 6px; }
         .price-marker { position: absolute; top: -6px; width: 4px; height: 24px; background: #1F2937; border-radius: 2px; transform: translateX(-50%); z-index: 20; border: 1px solid white; transition: left 0.3s ease; }
-        
-        .tag-btn { @apply px-2 py-0.5 rounded border text-[10px] font-bold transition-all cursor-pointer whitespace-nowrap; border-width: 1.5px; display: inline-flex; align-items: center; }
+        /* --- 標籤按鈕樣式 --- */
+        .tag-btn { 
+            @apply px-2 py-0.5 rounded border text-[10px] font-bold transition-all cursor-pointer whitespace-nowrap;
+            border-width: 1.5px;
+            display: inline-flex; align-items: center;
+        }
+        /* 狀態類 (BUY/FLU) */
         .tag-status { @apply border-purple-200 text-purple-600 bg-purple-50; }
         .tag-status.active { @apply bg-purple-600 text-white border-purple-600; }
+        /* 題材類 (Themes) */
         .tag-theme { @apply border-[#8B7355]/30 text-[#8B7355] bg-white; }
         .tag-theme.active { @apply bg-[#8B7355] text-white border-[#8B7355]; }
+        /* 全部按鈕 */
         .tag-all { @apply border-gray-300 text-gray-500 bg-gray-50; }
         .tag-all.active { @apply bg-gray-700 text-white border-gray-700; }
 
+        /* --- 側邊欄新版小標籤與題材樣式 --- */
         .mini-status-badge { font-size: 9px; font-weight: 800; padding: 0 4px; border-radius: 3px; display: inline-block; margin-bottom: 2px; }
         .badge-buy { background: #FFEDD5; color: #F97316; border: 1px solid #FFD8A8; }
         .badge-flu { background: #FEF9C3; color: #CA8A04; border: 1px solid #FDE68A; }
         
-        .sidebar-theme-tag { background: #F3F4F6; color: #6B7280; font-size: 9px; padding: 0 4px; border-radius: 3px; border: 1px solid #E5E7EB; white-space: nowrap; margin-left: 3px; }
+        .sidebar-theme-tag { 
+            background: #F3F4F6; color: #6B7280; font-size: 9px; 
+            padding: 0 4px; border-radius: 3px; border: 1px solid #E5E7EB;
+            white-space: nowrap; margin-left: 3px;
+        }
 
         /* 5. 通用元件 */
         .tw-red { color: #DC2626; font-weight: 700; }   
@@ -96,6 +116,16 @@
         .th-tooltip { position: relative; cursor: help; text-decoration: underline dotted #999; }
         .th-tooltip:hover::after { content: attr(data-tip); position: absolute; bottom: 100%; left: 50%; transform: translateX(-50%); background: #2D3748; color: #fff; padding: 8px 12px; border-radius: 6px; font-size: 12px; width: 240px; text-align: center; z-index: 9999; margin-bottom: 8px; white-space: pre-wrap; pointer-events: none; }
         .th-tooltip:hover::before { content: ''; position: absolute; bottom: 100%; left: 50%; transform: translateX(-50%); border-width: 6px; border-style: solid; border-color: #2D3748 transparent transparent transparent; margin-bottom: -4px; z-index: 9999; }
+        /* Markdown 預覽樣式優化 */
+        #d_chatgpt_preview h1 { font-size: 1.5rem; font-weight: 800; color: #5A4A42; margin-top: 1.5rem; margin-bottom: 1rem; border-bottom: 2px solid #E5E0D8; padding-bottom: 0.5rem; }
+        #d_chatgpt_preview h2 { font-size: 1.25rem; font-weight: 700; color: #8B7355; margin-top: 1.25rem; margin-bottom: 0.75rem; border-left: 4px solid #8B7355; padding-left: 0.5rem; }
+        #d_chatgpt_preview h3 { font-size: 1.1rem; font-weight: 700; margin-top: 1rem; color: #374151; }
+        #d_chatgpt_preview p { margin-bottom: 1rem; line-height: 1.8; }
+        #d_chatgpt_preview ul { list-style-type: disc; margin-left: 1.5rem; margin-bottom: 1rem; }
+        #d_chatgpt_preview li { margin-bottom: 0.5rem; }
+        #d_chatgpt_preview strong { color: #2C3E50; font-weight: 900; }
+        #d_chatgpt_preview hr { border: 0; border-top: 2px solid #E5E0D8; margin: 2rem 0; }
+        #d_chatgpt_preview blockquote { border-left: 4px solid #8B7355; padding: 1rem; margin: 1rem 0; background: #F9F7F2; border-radius: 0 8px 8px 0; font-style: italic; color: #4B5563; }
     </style>
 </head>
 <body class="flex flex-col">
@@ -107,7 +137,7 @@
         <p class="text-gray-500 mt-2 text-lg">AI 正在分析 <span id="targetStock" class="font-bold text-[#8B7355]"></span></p>
     </div>
 
-    <!-- JSON Import Modal -->
+    <!-- JSON Import Modal (Block A/B) -->
     <div id="jsonModal" class="fixed inset-0 bg-black/60 z-50 hidden flex items-center justify-center">
         <div class="bg-white w-3/4 h-4/5 rounded-2xl shadow-2xl flex flex-col p-8">
             <div class="flex justify-between items-center mb-4">
@@ -122,15 +152,49 @@
         </div>
     </div>
 
+    <!-- AI Prediction Import Modal (New) -->
+    <div id="aiModal" class="fixed inset-0 bg-black/60 z-50 hidden flex items-center justify-center">
+        <div class="bg-white w-2/3 max-w-2xl rounded-2xl shadow-2xl flex flex-col p-6 animate-fade-in">
+            <div class="flex justify-between items-center mb-4 border-b pb-2">
+                <div>
+                    <h3 class="font-bold text-xl text-[#8B7355]"><i class="fas fa-robot mr-2"></i>新增/更新 AI 價格預測</h3>
+                    <p class="text-xs text-gray-400 mt-1">系統將根據 "model_name" 自動判斷是新增還是更新</p>
+                </div>
+                <button onclick="toggleModal('aiModal')" class="text-2xl text-gray-400 hover:text-black">&times;</button>
+            </div>
+            <textarea id="aiJsonInput" class="flex-1 border border-gray-200 p-4 font-mono text-sm rounded-lg focus:border-[#8B7355] outline-none transition bg-gray-50 h-64" 
+            placeholder='{
+  "model_name": "Gemini Ultra",
+  "days1": "1785",
+  "days7": "1820",
+  "days30": "1950",
+  "days180": "2200",
+  "days360": "2500",
+  "entry_zone": "1680-1730",
+  "exit_zone": "1980-2050",
+  "current_signal": "buy"
+}'></textarea>
+            <div class="mt-4 text-right flex gap-2 justify-end">
+                <button onclick="document.getElementById('aiJsonInput').value=''" class="px-4 py-2 text-gray-500 font-bold hover:text-black">清空</button>
+                <button onclick="importAiPrediction()" class="px-6 py-2 bg-[#8B7355] text-white rounded-lg font-bold shadow hover:bg-[#6e5a40] transition">
+                    <i class="fas fa-plus-circle mr-1"></i> 加入觀點
+                </button>
+            </div>
+        </div>
+    </div>
+
     <!-- Header -->
     <header class="bg-[#ECE8DE] h-16 flex items-center px-6 border-b border-[#DCD6C9] justify-between shrink-0 shadow-sm z-20">
         <div class="font-black text-2xl tracking-widest text-[#5A4A42]">bbb ANALYTICS <span class="text-sm font-medium text-gray-500 ml-1 align-top">AI+</span></div>
         <div class="flex items-center gap-4">
             <div id="statusBadge" class="text-sm font-mono px-3 py-1.5 rounded bg-gray-200 text-gray-500 hidden md:flex items-center">Offline</div>
             
+            <!-- ⭐ 新增：情報中心按鈕 ⭐ -->
             <a href="intelligence.html" target="_blank" class="bg-indigo-600 text-white px-4 py-2 rounded-full text-sm font-bold shadow hover:scale-105 transition flex items-center gap-2">
                 <i class="fas fa-satellite-dish"></i> 情報中心
             </a>
+
+            <!-- 原有的總覽牆按鈕 -->
             <a href="overview.html" target="_blank" class="bg-blue-600 text-white px-4 py-2 rounded-full text-sm font-bold shadow hover:scale-105 transition flex items-center gap-2">
                 <i class="fas fa-th-large"></i> 總覽牆
             </a>
@@ -147,15 +211,26 @@
         </div>
     </header>
 
+    <!-- Mobile Backdrop -->
+    <div id="mobileBackdrop" class="mobile-backdrop" onclick="toggleSidebar()"></div>
+
     <div class="flex flex-1 overflow-hidden relative">
-        <!-- Sidebar -->
+        
+        <!-- Sidebar: 手機抽屜 + 標籤過濾 -->
         <aside id="sidebar" class="sidebar-drawer md:translate-x-0 md:relative md:w-[25%] md:min-w-[300px] bg-[#F5F2EB] border-r border-[#E5E0D8] flex flex-col z-20 shadow-lg md:shadow-none transition-transform duration-300">
+            <div class="md:hidden flex justify-end p-2 border-b border-[#E5E0D8] bg-[#F5F2EB]">
+                <button onclick="toggleSidebar()" class="text-gray-500 p-2"><i class="fas fa-times text-xl"></i></button>
+            </div>
             <div class="p-2 border-b border-[#E5E0D8] bg-[#F5F2EB]">
                 <div class="relative group mb-2">
                     <input type="text" id="addStockInput" placeholder="搜尋代號..." onkeyup="renderSidebar()"
                            class="w-full bg-white border border-gray-300 rounded-lg px-4 py-2 text-base focus:outline-none focus:border-[#8B7355] shadow-inner font-mono tracking-wide transition">
+                    <span class="absolute right-3 top-2.5 text-gray-400"><i class="fas fa-search"></i></span>
                 </div>
-                <select id="tagFilterDropdown" onchange="setSidebarFilter(this.value)" class="sidebar-select mt-1"></select>
+                <!-- 下拉式標籤過濾選單 -->
+                <select id="tagFilterDropdown" onchange="setSidebarFilter(this.value)" class="sidebar-select mt-1">
+                    <!-- 選項將由 JS 動態生成 -->
+                </select>
             </div>
             <div id="stockList" class="flex-1 overflow-y-auto p-2 space-y-2 pb-20 md:pb-2"></div>
         </aside>
@@ -165,11 +240,12 @@
             <div id="emptyState" class="h-full flex flex-col items-center justify-center text-gray-300 select-none">
                 <i class="fas fa-folder-open text-7xl md:text-9xl mb-6 opacity-30"></i>
                 <p class="text-xl md:text-2xl font-light tracking-wide">請從左側選擇股票</p>
+                <button onclick="toggleSidebar()" class="mt-6 md:hidden px-6 py-2 bg-[#8B7355] text-white rounded-full font-bold shadow">開啟列表</button>
             </div>
 
             <div id="dashboard" class="hidden max-w-[1600px] mx-auto space-y-8 pb-24">
                 
-                <!-- 新版 Header -->
+                <!-- 新版 Header: 包含好球帶與標籤管理 -->
                 <div class="sticky top-0 z-40 bg-[#FDFBF7] pt-2 md:pt-4 pb-2 mb-4 gap-4 flex flex-col md:flex-row justify-between items-start border-b-4 border-[#8B7355]">
                     <div class="flex-1 w-full">
                         <div class="flex justify-between items-end md:justify-start md:items-baseline gap-3 mb-0">
@@ -177,25 +253,44 @@
                                 <h1 class="text-2xl md:text-4xl font-extrabold text-[#2C3E50] tracking-tighter" id="d_name">--</h1>
                                 <h2 class="text-base md:text-xl font-bold text-gray-400 font-mono" id="d_id">--</h2>
                             </div>
+                            <div class="md:hidden text-right">
+                                <div id="d_price_m" class="text-3xl font-mono font-bold text-[#2C3E50]">--</div>
+                            </div>
                         </div>
 
-                        <!-- 標籤與分類管理區 -->
-                        <div class="flex flex-wrap items-center gap-2 mb-1 mt-2">
+                        <!-- 多模型好球帶戰情區 -->
+                        <div class="mb-2 pr-2 max-w-xl">
+                            <!-- 這裡會由 JS 動態生成多行模型預測值 -->
+                            <div id="pb_multi_labels" class="space-y-1 mb-1"></div>
+                            
+                            <div class="price-bar-container" id="pb_container">
+                                <!-- 動態生成的區間區塊將放在這裡 -->
+                                <div id="pb_marker" class="price-marker hidden"></div>
+                            </div>
+                        </div>
+
+                        <!-- 標籤與分類管理區 (Status & Themes) -->
+                        <div class="flex flex-wrap items-center gap-2 mb-1">
+                            <!-- 狀態按鈕 -->
                             <div class="flex gap-1 border-r border-gray-200 pr-3">
                                 <button onclick="toggleStockStatus('⚡ BUY')" id="btn_status_buy" class="tag-btn tag-status">⚡ BUY</button>
                                 <button onclick="toggleStockStatus('🟡 FLU')" id="btn_status_flu" class="tag-btn tag-status">🟡 FLU</button>
                             </div>
+                            <!-- 題材列表 -->
                             <div id="activeThemesList" class="flex flex-wrap gap-1"></div>
+                            <!-- 題材輸入 -->
                             <div class="flex items-center relative">
                                 <input type="text" id="themeInput" list="themeSuggestions" autocomplete="off" placeholder="+ 題材 (Enter)" 
                                     class="bg-gray-100 border-none text-[10px] px-2 py-1 rounded w-28 focus:ring-1 focus:ring-[#8B7355] outline-none"
                                     onkeydown="handleThemeInput(event)">
+                                <!-- 用來裝載歷史題材的隱藏清單 -->
                                 <datalist id="themeSuggestions"></datalist>
                             </div>
                         </div>
 
                         <div class="text-xs md:text-sm text-gray-500 flex items-center gap-3 flex-wrap">
                             <span class="bg-gray-100 px-2 py-0.5 rounded flex items-center gap-2"><i class="far fa-clock"></i> <span id="d_date" class="font-mono"></span></span>
+                            <span class="text-red-500 font-bold" id="d_note"></span>
                         </div>
                     </div>
 
@@ -206,10 +301,24 @@
                         </div>
                     </div>
                 </div>
+                
+                <!-- 🌍 產能地圖與場址資訊區塊 (填補在空白處) -->
+                <div class="glass-panel p-6 mb-8 hidden" id="facility_map_panel">
+                    <div class="header-title text-[#8B7355] border-b-2 border-[#E5E7EB]">
+                        <span><i class="fas fa-map-marked-alt mr-2"></i>全球產能佈局與擴廠追蹤</span>
+                    </div>
+                    <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                        <!-- 地圖容器 -->
+                        <div id="facility_map" class="h-[350px] w-full rounded-lg border border-gray-200 z-10 relative"></div>
+                        <!-- 廠房卡片清單 -->
+                        <div id="facility_cards" class="overflow-y-auto h-[350px] space-y-3 pr-2">
+                        </div>
+                    </div>
+                </div>
 
-                <!-- Industry Analysis -->
+                <!-- Industry Analysis (Block B) -->
                 <div class="grid grid-cols-1 lg:grid-cols-3 gap-8">
-                    <!-- Left Column -->
+                    <!-- Left Column: Details -->
                     <div class="col-span-2 flex flex-col gap-6">
                         <div class="glass-panel p-6">
                             <div class="header-title text-[#8B7355]">產業地位與 AI 觀點</div>
@@ -217,11 +326,11 @@
                                 <div class="text-gray-400 italic">等待 AI 分析數據...</div>
                             </div>
                         </div>
-
-                        <!-- 🌍 產能地圖與場址資訊區塊 (修復顯示問題) -->
+                        
+                        <!-- 🌍 產能地圖與場址資訊區塊 -->
                         <div class="glass-panel p-6 hidden" id="facility_map_panel">
                             <div class="header-title text-[#8B7355]">
-                                <span><i class="fas fa-map-marked-alt mr-2"></i>全球產能佈局與擴廠追蹤</span>
+                                <i class="fas fa-map-marked-alt mr-2"></i>全球產能佈局與擴廠追蹤
                             </div>
                             <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
                                 <!-- 地圖容器 -->
@@ -233,21 +342,32 @@
                         </div>
                     </div>
 
-                    <!-- Right Column: Revenue Mix & Resources -->
+                    <!-- Right Column: Revenue Mix Chart & Memo -->
                     <div class="col-span-1 flex flex-col gap-6">
+                        <!-- Revenue Mix Chart -->
                         <div class="glass-panel p-6 flex flex-col">
                             <div class="header-title text-[#8B7355] border-b-0 pb-0 mb-2 text-sm">營收來源佔比</div>
                             <div class="relative h-48 w-full">
                                 <canvas id="chart_rev_mix"></canvas>
                             </div>
+                            <!-- NEW: Product List Placeholder -->
                             <div class="mt-6 border-t border-gray-100 pt-4 space-y-4">
                                 <div>
-                                    <div class="text-xs text-gray-400 font-bold uppercase mb-2 tracking-wider">主力商品</div>
-                                    <div id="product_main_list" class="flex flex-wrap gap-2"><span class="text-gray-300 text-xs italic">等待分析...</span></div>
+                                    <div class="text-xs text-gray-400 font-bold uppercase mb-2 tracking-wider">主力商品 (Main Products)</div>
+                                    <div id="product_main_list" class="flex flex-wrap gap-2">
+                                        <span class="text-gray-300 text-xs italic">等待 B 入口分析...</span>
+                                    </div>
+                                </div>
+                                <div>
+                                    <div class="text-xs text-gray-400 font-bold uppercase mb-2 tracking-wider">開發中潛力商品 (R&D Pipeline)</div>
+                                    <div id="product_dev_list" class="flex flex-wrap gap-2">
+                                        <span class="text-gray-300 text-xs italic">等待 B 入口分析...</span>
+                                    </div>
                                 </div>
                             </div>
                         </div>
 
+                        <!-- External Resources & AI Summary -->
                         <div class="glass-panel p-6 flex flex-col gap-3">
                             <div class="header-title text-[#8B7355] border-b-0 pb-0 mb-0 text-sm">官方資源與 AI 整理</div>
                             <div class="flex gap-2">
@@ -258,8 +378,12 @@
                                     <i class="fas fa-file-pdf"></i> 年報
                                 </a>
                             </div>
+                            <div id="ai_resource_summary" class="bg-gray-50 border border-gray-100 p-3 rounded text-sm text-gray-600 leading-relaxed min-h-[80px]">
+                                <span class="text-gray-400 italic text-xs">等待股神 Gemini 分析年報與官網後的重點摘要...</span>
+                            </div>
                         </div>
 
+                        <!-- Memo -->
                         <div class="glass-panel bg-[#FFFDF5] border-[#E8E0C0] p-6 flex-1 flex flex-col">
                             <div class="header-title text-[#8B7355] border-[#DCD6C9] mb-4"><span><i class="fas fa-pen-alt mr-2"></i>投資筆記</span></div>
                             <textarea id="d_memo" class="flex-1 w-full bg-transparent border-none text-base resize-none focus:ring-0 leading-relaxed text-gray-600 h-full" placeholder="寫下你的觀察..."></textarea>
@@ -267,10 +391,26 @@
                     </div>
                 </div>
 
-                <!-- Technical K-Line & AI Predictions -->
+                
+                
+                <!-- News Area (AI + Fact Based) -->
+                <div class="glass-panel p-6">
+                    <div class="header-title text-[#8B7355]">消息面 (AI Fact Based)</div>
+                    <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+                        <div class="col-span-2 space-y-3 overflow-y-auto max-h-80 pr-2" id="d_news"></div>
+                        <div class="col-span-1 border-l border-gray-100 pl-6 space-y-3 text-sm font-mono" id="d_calendar"></div>
+                    </div>
+                </div>
+
+                <!-- Technical K-Line & Strategy & AI Predictions -->
                 <div class="glass-panel p-6 border-l-[8px] border-[#8B7355]">
                     <div class="header-title text-[#8B7355]">
                         技術走勢 (日K) 
+                        <div class="flex gap-2 text-xs font-normal ml-2">
+                            <span class="flex items-center gap-1"><div class="w-3 h-1 rounded bg-[#F1C40F]"></div><span class="text-gray-600 font-bold">MA5</span></span>
+                            <span class="flex items-center gap-1"><div class="w-3 h-1 rounded bg-[#8E44AD]"></div><span class="text-gray-600 font-bold">MA20</span></span>
+                            <span class="flex items-center gap-1"><div class="w-3 h-1 rounded bg-[#2980B9]"></div><span class="text-gray-600 font-bold">MA60</span></span>
+                        </div>
                         <div class="ml-auto flex gap-2">
                             <button onclick="changeTimeframe('D')" id="btn_tf_D" class="tf-btn active">日</button>
                             <button onclick="changeTimeframe('W')" id="btn_tf_W" class="tf-btn inactive">週</button>
@@ -279,13 +419,101 @@
                     </div>
                     
                     <div id="tvchart" class="w-full h-[550px]"></div>
+
+                    <!-- AI Price Predictions Feed (Merged from New Source) -->
+                    <div id="ai_prediction_feed" class="mt-6 border-t-2 border-[#8B7355] pt-6">
+                        <div class="flex justify-between items-end border-b border-gray-200 pb-2 mb-4">
+                            <div class="text-[#8B7355] font-bold text-lg">AI 多模型價格預測</div>
+                            <button onclick="toggleModal('aiModal')" class="bg-gray-100 hover:bg-[#8B7355] hover:text-white text-gray-500 text-xs px-3 py-1 rounded-full font-bold transition flex items-center gap-1">
+                                <i class="fas fa-plus"></i> 新增預測
+                            </button>
+                        </div>
+                        <div id="ai_cards_container" class="grid grid-cols-1 md:grid-cols-2 gap-4">
+                            <div class="col-span-2 text-center text-gray-400 text-sm py-4 italic">點擊右上角 "+" 新增 AI 預測模型</div>
+                        </div>
+                    </div>
+                    
+                    <!-- C-Value Valuation Dashboard (MODIFIED Tooltips Location & Label) -->
+                    <div id="c_model_container" class="mt-6 border-t border-gray-100 pt-6 hidden">
+                         <div class="flex justify-between items-end mb-4">
+                            <h3 class="text-xl font-extrabold text-[#8B7355]"><i class="fas fa-calculator mr-2"></i>結構校正 C 值估價</h3>
+                            <span id="c_status_tag" class="px-3 py-1 rounded bg-gray-100 text-xs font-bold text-gray-500">Data Loaded</span>
+                         </div>
+                         <div class="grid grid-cols-4 gap-4 mb-4">
+                            <!-- Card 1: C-Score -->
+                            <div class="c-card bg-yellow-50 border-yellow-200 th-tooltip" data-tip="C值 = 平均(偏離度 * Rt係數)。&#10;>1 代表股價偏高 (溢價)；<1 代表股價偏低 (折價)。">
+                                <div class="c-label text-yellow-800 border-b border-yellow-200 pb-1 mb-1 border-dashed cursor-help">C值 (總分)</div>
+                                <div id="c_val" class="c-val text-yellow-700">--</div>
+                            </div>
+                            <!-- Card 2: Benchmark PE (Updated Label) -->
+                            <div class="c-card th-tooltip" data-tip="基準季PE = 過去5年 季PE 中位數。&#10;代表該股票在歷史上的「常態估值水平」。">
+                                <div class="c-label border-b border-gray-200 pb-1 mb-1 border-dashed cursor-help">基準季 PE</div>
+                                <div id="c_benchmark_pe" class="c-val">--</div>
+                            </div>
+                            <!-- Card 3: Latest Rt -->
+                            <div class="c-card th-tooltip" data-tip="Rt (營收品質係數)：&#10;若 營收成長 > EPS成長 → 1.1 (溢價)&#10;若 營收成長 < EPS成長 → 0.9 (折價)">
+                                <div class="c-label border-b border-gray-200 pb-1 mb-1 border-dashed cursor-help">最新 Rt</div>
+                                <div id="c_latest_rt" class="c-val">--</div>
+                            </div>
+                            <!-- Card 4: Latest Deviation -->
+                            <div class="c-card bg-blue-50 border-blue-200 shadow-md th-tooltip" data-tip="偏離度 = 實際股價 / 理論價。&#10;理論價 = EPS × 基準PE。&#10;衡量當前股價偏離合理估值的程度。">
+                                <div class="c-label text-blue-400 border-b border-blue-200 pb-1 mb-1 border-dashed cursor-help">最新偏離度</div>
+                                <div id="c_latest_dev" class="c-val text-blue-600">--</div>
+                            </div>
+                         </div>
+                         
+                         <!-- Detail Table (Limited to top 6 rows) -->
+                         <div class="overflow-x-auto rounded-lg border border-gray-100 max-h-96 mt-4">
+                            <table class="w-full data-table" id="c_table_dom">
+                                <thead>
+                                    <tr>
+                                        <th>季度</th><th>EPS</th><th>季營收(億)</th><th>季均價</th>
+                                        <th>營收成長%</th><th>EPS成長%</th><th>當季PE</th>
+                                        <th>Rt係數</th><th>理論價</th><th>偏離度</th>
+                                    </tr>
+                                </thead>
+                                <tbody id="t_c_score"></tbody>
+                            </table>
+                         </div>
+                    </div>
+
+                    <div id="tech_analysis_container" class="mt-6 border-t border-gray-100 pt-6">
+                        <p class="text-base text-gray-700 leading-8 text-justify font-medium" id="d_tech_txt">--</p>
+                    </div>
                 </div>
 
-                <!-- Financial Tables -->
+                <!-- Risk Alert (NEW) -->
+                <div id="risk_alert_panel" class="glass-panel p-6 border-l-[8px] border-gray-300 hidden mt-8">
+                    <div class="flex justify-between items-center mb-6">
+                        <div class="header-title border-none mb-0 pb-0 text-[#8B7355]">
+                            <i class="fas fa-exclamation-triangle mr-2"></i>警示點 - 風險評價 (Risk Alert)
+                        </div>
+                        <div id="risk_overall_badge" class="px-4 py-1.5 rounded-full text-sm font-bold bg-gray-100 text-gray-500">
+                            Assessment Pending
+                        </div>
+                    </div>
+                    <div class="bg-yellow-50 border border-yellow-100 text-yellow-800 px-4 py-3 rounded-lg mb-6 text-sm flex items-center">
+                        <i class="fas fa-info-circle mr-2"></i>
+                        <span id="risk_hint">風險警示不是賣出訊號，而是「調整操作節奏」的提醒。</span>
+                    </div>
+                    <!-- Risk Cards Grid -->
+                    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4" id="risk_cards_container">
+                        <!-- Cards injected by JS -->
+                    </div>
+                </div>
+
+                <!-- Financial Charts & Tables -->
                 <div class="grid grid-cols-1 lg:grid-cols-2 gap-8 mt-8">
                     <!-- EPS Table -->
                     <div class="glass-panel p-6">
-                        <div class="header-title text-[#8B7355]">獲利能力 (EPS/三率)</div>
+                        <div class="header-title text-[#8B7355]">
+                            獲利能力 (EPS/三率) 
+                            <div class="flex gap-2 text-xs font-normal ml-2">
+                                <span class="flex items-center gap-1"><span class="w-3 h-3 bg-[#0EA5E9]"></span>EPS</span>
+                                <span class="flex items-center gap-1"><span class="w-3 h-1 bg-[#1D4ED8]"></span>毛利%</span>
+                                <span class="flex items-center gap-1"><span class="w-3 h-1 bg-[#EC4899]"></span>淨利%</span>
+                            </div>
+                        </div>
                         <div class="h-64 mb-6"><canvas id="chart_eps"></canvas></div>
                         <div class="overflow-x-auto rounded-lg border border-gray-100 max-h-96">
                             <table class="w-full data-table" id="eps_table_dom">
@@ -295,9 +523,18 @@
                         </div>
                     </div>
                     
-                    <!-- REVENUE Table -->
+                    <!-- REVENUE Table (Legend Modified) -->
                     <div class="glass-panel p-6">
-                        <div class="header-title text-[#8B7355]">月營收趨勢</div>
+                        <div class="header-title text-[#8B7355]">
+                            月營收趨勢 
+                            <div class="flex gap-2 text-xs font-normal ml-2">
+                                <span class="flex items-center gap-1"><span class="w-3 h-3 bg-[#0EA5E9]"></span>當月</span>
+                                <span class="flex items-center gap-1"><span class="w-3 h-3 bg-[#E0F2FE]"></span>去年同期</span>
+                                <!-- Changed from Blue to Pink (#EC4899) -->
+                                <span class="flex items-center gap-1"><span class="w-3 h-1 bg-[#EC4899]"></span>YoY</span>
+                                <span class="flex items-center gap-1"><span class="w-3 h-1 bg-[#1D4ED8]"></span>MoM</span>
+                            </div>
+                        </div>
                         <div class="h-64 mb-6"><canvas id="chart_rev"></canvas></div>
                         <div class="overflow-x-auto rounded-lg border border-gray-100 max-h-96">
                             <table class="w-full data-table" id="rev_table_dom">
@@ -308,8 +545,34 @@
                     </div>
                 </div>
 
+                <!-- Additional Financial Tables -->
+                <div class="grid grid-cols-1 lg:grid-cols-2 gap-8">
+                    <!-- Cash Flow -->
+                    <div class="glass-panel p-6">
+                        <div class="header-title text-[#8B7355]">現金流量表</div>
+                        <div class="overflow-x-auto rounded-lg border border-gray-100 max-h-96">
+                            <table class="w-full data-table" id="cash_table_dom">
+                                <thead><tr><th>日期</th><th>營運現金流(百萬)</th><th>資本支出(百萬)</th><th>自由現金流(百萬)</th></tr></thead>
+                                <tbody id="t_cash"></tbody>
+                            </table>
+                        </div>
+                    </div>
+
+                    <!-- Earnings Quality -->
+                    <div class="glass-panel p-6">
+                        <div class="header-title text-[#8B7355]">獲利含金量</div>
+                        <div class="overflow-x-auto rounded-lg border border-gray-100 max-h-96">
+                            <table class="w-full data-table" id="quality_table_dom">
+                                <thead><tr><th>日期</th><th>稅後淨利(百萬)</th><th>營運現金流(百萬)</th><th>獲利含金量(%)</th></tr></thead>
+                                <tbody id="t_quality"></tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+
                 <!-- KPI & Structure Tables -->
                 <div class="grid grid-cols-1 lg:grid-cols-2 gap-8">
+                    <!-- KPI -->
                     <div class="glass-panel p-6">
                         <div class="header-title text-[#8B7355]">關鍵指標 (Metrics)</div>
                         <div class="overflow-x-auto rounded-lg border border-gray-100 max-h-96">
@@ -320,6 +583,7 @@
                         </div>
                     </div>
 
+                    <!-- Structure Stability -->
                     <div class="glass-panel p-6">
                         <div class="header-title text-[#8B7355]">結構穩定度</div>
                         <div class="overflow-x-auto rounded-lg border border-gray-100 max-h-96">
@@ -331,14 +595,98 @@
                     </div>
                 </div>
 
+                <!-- Capital & Chips -->
+                <div class="grid grid-cols-1 lg:grid-cols-2 gap-8">
+                    <!-- Capital -->
+                    <div class="glass-panel p-6">
+                        <div class="header-title text-[#8B7355]">最新股本 (Capital)</div>
+                        <div class="overflow-x-auto rounded-lg border border-gray-100 max-h-96">
+                            <table class="w-full data-table" id="capital_table_dom">
+                                <thead><tr><th>股票代號</th><th>報表日期</th><th>總發行張數(張)</th><th>面額(推定)</th><th>換算方法</th></tr></thead>
+                                <tbody id="t_capital"></tbody>
+                            </table>
+                        </div>
+                    </div>
+
+                    <!-- Chips -->
+                    <div class="glass-panel p-6">
+                        <div class="header-title text-[#8B7355]">法人籌碼 (近15日)</div>
+                        <div class="overflow-x-auto rounded-lg border border-gray-100 max-h-96">
+                            <table class="w-full data-table" id="chips_table_dom">
+                                <thead><tr><th>日期</th><th>外資(張)</th><th>投信(張)</th><th>自營商(張)</th><th>三大法人合計(張)</th><th>佔股本(%)</th></tr></thead>
+                                <tbody id="t_chips"></tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+
                 <!-- PE Valuation -->
                 <div class="glass-panel p-6">
-                    <div class="header-title text-[#8B7355]">PE 評價 (精確估值)</div>
+                    <div class="header-title text-[#8B7355]">
+                        PE 評價 (精確估值)
+                        <div class="flex gap-2 text-xs font-normal ml-2">
+                            <span class="flex items-center gap-1"><span class="w-3 h-1 bg-[#374151]"></span>股價</span>
+                            <span class="flex items-center gap-1"><span class="w-3 h-3 bg-red-100 border border-red-500"></span>昂貴區(20-25x)</span>
+                            <span class="flex items-center gap-1"><span class="w-3 h-3 bg-green-100 border border-green-500"></span>便宜區(10-15x)</span>
+                        </div>
+                    </div>
                     <div class="h-64 mb-6"><canvas id="chart_pe"></canvas></div>
                     <div class="overflow-x-auto rounded-lg border border-gray-100 max-h-96">
                         <table class="w-full data-table" id="pe_table_dom">
                             <thead><tr><th>日期</th><th>公告截止日</th><th>公告後3日均價</th><th>TTM EPS</th><th>PE</th></tr></thead>
                             <tbody id="t_pe"></tbody>
+                        </table>
+                    </div>
+                </div>
+
+                <!-- NEW: 進階財務與營運訊號 (Contract & Utilization) -->
+                <div class="grid grid-cols-1 lg:grid-cols-2 gap-8 mt-8">
+                    <!-- 合約負債 / 在手訂單 -->
+                    <div class="glass-panel p-6 border-l-[8px] border-indigo-400">
+                        <div class="header-title text-[#8B7355] th-tooltip" data-tip="預收佔比若持續上升，代表在手訂單能見度高，未來營收轉換率強。">
+                            <i class="fas fa-file-contract mr-2"></i>合約負債與在手訂單
+                        </div>
+                        <div class="overflow-x-auto rounded-lg border border-gray-100 max-h-96">
+                            <table class="w-full data-table">
+                                <thead><tr><th>季度</th><th>總資產(百萬)</th><th>合約負債(百萬)</th><th>預收佔比(%)</th></tr></thead>
+                                <tbody id="t_contract"></tbody>
+                            </table>
+                        </div>
+                    </div>
+
+                    <!-- 稼動率與 ASP 訊號 -->
+                    <div class="glass-panel p-6 border-l-[8px] border-emerald-400">
+                        <div class="header-title text-[#8B7355] th-tooltip" data-tip="系統根據毛利率、營益率與營收規模推算的稼動率(Utilization)與平均單價(ASP)趨勢。">
+                            <i class="fas fa-industry mr-2"></i>稼動率與 ASP 結構
+                        </div>
+                        <div class="overflow-x-auto rounded-lg border border-gray-100 max-h-96">
+                            <table class="w-full data-table">
+                                <thead><tr><th>季度</th><th>稼動率推估</th><th>ASP推估</th><th>綜合結構模式</th></tr></thead>
+                                <tbody id="t_utilization"></tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- NEW: AI 綜合判定引擎 (Integrated Engine) -->
+                <div class="glass-panel p-6 mt-8 bg-[#FFFDF5] border border-[#E8E0C0]">
+                    <div class="header-title text-[#8B7355] border-[#DCD6C9]">
+                        <i class="fas fa-brain mr-2"></i>AI 財務與市場綜合判定引擎 (V2)
+                    </div>
+                    <div class="overflow-x-auto rounded-lg border border-[#DCD6C9] max-h-96 bg-white">
+                        <table class="w-full data-table">
+                            <thead><tr><th>季度</th><th>財報總分</th><th>綜合總分</th><th>最終判定型態</th><th>AI 行動指引</th></tr></thead>
+                            <tbody id="t_integrated"></tbody>
+                        </table>
+                    </div>
+                </div>
+				<!-- NEW: Annual Returns (CAGR) -->
+                <div class="glass-panel p-6 mt-8">
+                    <div class="header-title text-[#8B7355]">含息年度報酬率 (Annual Returns)</div>
+                    <div class="overflow-x-auto rounded-lg border border-gray-100 max-h-96">
+                        <table class="w-full data-table" id="returns_table_dom">
+                            <thead><tr><th>年度</th><th>含息報酬率(%)</th><th>計算區間</th></tr></thead>
+                            <tbody id="t_returns"></tbody>
                         </table>
                     </div>
                 </div>
@@ -349,36 +697,42 @@
 
     <script>
         let db = [];
-        let currentFilterTag = '全部'; 
+        let currentFilterTag = '全部'; // 用於記錄左側側邊欄目前過濾的標籤
         let currentStockId = null;
         let charts = { river:null, eps:null, rev:null, pe:null, kline:null, vol:null, rev_mix: null };
         let currentKLineData = [];
         let currentTimeframe = 'D';
 
         window.onload = async () => {
-            await syncData(true);
-            if (!db || db.length === 0) {
-                const local = localStorage.getItem('bbb_db_v5');
-                if (local) db = JSON.parse(local);
-            }
-            renderSidebar();
-        };
+    await syncData(true);
 
+    // 如果雲端沒資料，才 fallback 本地
+    if (!db || db.length === 0) {
+        const local = localStorage.getItem('bbb_db_v5');
+        if (local) {
+            db = JSON.parse(local);
+        }
+    }
+
+    renderSidebar();
+};
         function getDateValue(dateStr) {
             if(!dateStr) return 0;
             const parts = dateStr.split(/[\/-]/);
             if(parts.length < 2) return 0;
-            return parseInt(parts[0]) * 100 + parseInt(parts[1]); 
+            const y = parseInt(parts[0]);
+            const m = parseInt(parts[1]);
+            return y * 100 + m; 
         }
 
-        // =========================================================================
-        // 🔥 核心修復：解析 JSON A/B 時，正確讀取 6-1 與 6-2 節點，防止崩潰
-        // =========================================================================
+        // --------------------------------------
+        // Import Logic (Merged)
+        // --------------------------------------
         function importJSON() {
             try {
                 const raw = JSON.parse(document.getElementById('jsonInput').value);
                 
-                // Block B Merge (AI 分析資料)
+                // Block B Merge
                 if (raw.id && (raw.revenue_predictions || raw.eps_predictions || raw.technical_analysis || raw.ai_message_board || raw.industry_analysis || raw.c_model || raw.risk_evaluation) && !raw.financials) {
                     const idx = db.findIndex(s => s.id === raw.id);
                     if (idx !== -1) {
@@ -388,12 +742,18 @@
                         if (raw.ai_message_board) db[idx].ai_message_board = raw.ai_message_board;
                         if (raw.industry_analysis) db[idx].industry_analysis = raw.industry_analysis;
                         if (raw.c_model) db[idx].c_model = raw.c_model;
-                        if (raw.risk_evaluation) db[idx].risk_evaluation = raw.risk_evaluation;
+                        if (raw.risk_evaluation) db[idx].risk_evaluation = raw.risk_evaluation; // New
+                        // If B block has resources, merge them too (unlikely based on flow, but safe)
+                        if (raw.ai_resources) {
+                            if(!db[idx].ai_resources) db[idx].ai_resources = {};
+                            Object.assign(db[idx].ai_resources, raw.ai_resources);
+                        }
                         
                         saveToLocal(); 
                         toggleModal('jsonModal'); 
                         loadStock(raw.id); 
                         document.getElementById('jsonInput').value = ""; 
+                        console.log("Block B data merged.");
                         return; 
                     } else {
                         alert("找不到對應的股票 ID，請先建立該股票的事實資料 (Block A)。");
@@ -401,7 +761,7 @@
                     }
                 }
 
-                // Block A Logic (客觀事實資料)
+                // Block A Logic
                 let stockData = null;
                 if (raw.analysis_header && raw.details) {
                     stockData = parseFactJson(raw);
@@ -414,15 +774,35 @@
                 const idx = db.findIndex(s => s.id === stockData.id);
                 if (idx !== -1) {
                     const existing = db[idx];
+
+                    // 1. 執行合併：新資料 stockData 覆蓋舊資料 db[idx]
                     db[idx] = { ...existing, ...stockData };
+
+                    // 2. 強制保護：如果新資料中沒有這些手動欄位，則還原舊有的
                     if (existing.status) db[idx].status = existing.status;
                     if (existing.themes) db[idx].themes = existing.themes;
                     if (existing.memo) db[idx].memo = existing.memo;
-                    
+                    // 保護手動貼上的 ChatGPT 判斷內容，不被更新數據覆蓋
+                    if (existing.chatgpt_judgment) db[idx].chatgpt_judgment = existing.chatgpt_judgment;
+                    if (existing.ai_forecasts && existing.ai_forecasts.length > 0) {
+                        db[idx].ai_forecasts = existing.ai_forecasts;
+                    }
+
+                    // 3. 保護已存在的 Block B (AI 分析) 欄位
                     const bBlockKeys = ['revenue_predictions', 'eps_predictions', 'technical_analysis', 'ai_message_board', 'industry_analysis', 'c_model', 'risk_evaluation'];
                     bBlockKeys.forEach(key => {
-                        if (existing[key] && !stockData[key]) db[idx][key] = existing[key];
+                        if (existing[key] && !stockData[key]) {
+                            db[idx][key] = existing[key];
+                        }
                     });
+
+                    saveToLocal(); 
+                    toggleModal('jsonModal'); 
+                    renderSidebar(); 
+                    loadStock(db[idx].id);
+                    document.getElementById('jsonInput').value = ""; 
+                    return; // 結束執行
+                    db[idx] = stockData;
                 } else {
                     db.unshift(stockData);
                 }
@@ -438,32 +818,70 @@
             }
         }
 
+        // AI Prediction Import Function
+        function importAiPrediction() {
+            if (!currentStockId) { alert("請先選擇一檔股票"); return; }
+            try {
+                const inputVal = document.getElementById('aiJsonInput').value;
+                if(!inputVal.trim()) return;
+                const newPred = JSON.parse(inputVal);
+                if (!newPred.model_name) throw new Error("缺少 'model_name'");
+
+                const idx = db.findIndex(s => s.id === currentStockId);
+                if (idx === -1) return;
+
+                if (!db[idx].ai_forecasts) db[idx].ai_forecasts = [];
+
+                const existPredIdx = db[idx].ai_forecasts.findIndex(p => p.model_name === newPred.model_name);
+                if (existPredIdx !== -1) {
+                    db[idx].ai_forecasts[existPredIdx] = newPred;
+                } else {
+                    db[idx].ai_forecasts.push(newPred);
+                }
+
+                saveToLocal();
+                loadStock(currentStockId);
+                toggleModal('aiModal');
+                document.getElementById('aiJsonInput').value = ""; 
+
+            } catch (e) { alert("格式錯誤: " + e.message); }
+        }
+
         function parseFactJson(raw) {
             const header = raw.analysis_header;
             const d = raw.details;
-            const resources = raw.ai_context_support || {}; 
+            const resources = raw.ai_context_support || {}; // ✅ 新增：擷取外部資源
             
+            // Basic
             let price = "-", change = "-", changePercent = "-", name = "--";
             if (d["5_即時報價 (Realtime)"]?.items?.live_quote?.rows?.[0]) {
                 const q = d["5_即時報價 (Realtime)"].items.live_quote.rows[0];
-                name = q["名稱"] || header.stock_name;
+                name = q["名稱"];
                 price = q["現價"];
                 let chgVal = q["漲跌(%)"];
+                // 修正：若昨收為 0 或 null 避免錯誤
                 let prev = q["昨收(固定)"];
-                if (price !== null && prev !== null) change = (price - prev).toFixed(2);
+                if (price !== null && prev !== null) {
+                    change = (price - prev).toFixed(2);
+                }
                 changePercent = (chgVal !== null ? chgVal.toFixed(2) : "0.00") + "%";
-            } else {
-                name = header.stock_name;
             }
 
+            // K-Line Data (Adjusted for key variations)
             let kline_data = [];
-            if (d["8_K線 (Daily)"]?.rows) kline_data = d["8_K線 (Daily)"].rows;
-            else if (d["6_K線 (Daily)"]?.rows) kline_data = d["6_K線 (Daily)"].rows;
+            // Try different keys that might appear in the JSON
+            if (d["8_K線 (Daily)"]?.rows) {
+                kline_data = d["8_K線 (Daily)"].rows;
+            } else if (d["6_K線 (Daily)"]?.rows) {
+                kline_data = d["6_K線 (Daily)"].rows;
+            }
 
+            // Revenue
             const revenue_trend = (d["1_月營收 (Monthly)"]?.rows || []).map(r => ({
                 month: r.ym, revenue: r.rev_m/100, mom: r.mom, yoy: r.yoy 
             })).map(x => ({...x, revenue: x.revenue.toFixed(2), mom: x.mom?.toFixed(2), yoy: x.yoy?.toFixed(2)}));
 
+            // Quarterly Items
             const qItems = d["2_季度財報 (Quarterly)"]?.items || {};
             let eps_table = (qItems.profitability_quarterly?.rows||[]).map(r=>({...r, gross:r.gross_margin_pct, net:r.net_margin_pct, opm:r.opm_pct}));
             let cashflow_table = (qItems.cashflow_quarterly?.rows||[]).map(r=>({...r, ocf:r.ocf_m, capex:r.capex_m, fcf:r.fcf_m}));
@@ -471,18 +889,24 @@
             let kpi_table = (qItems.kpi_mix_quarterly?.rows||[]).map(r=>({...r, opm:r.opm_pct, roe:r.roe_pct, roa:r.roa_pct, fcf_b:r.fcf_100m, net_b:r.net_income_100m}));
             let structure_table = (qItems.structure_stability_quarterly?.rows||[]).map(r=>({...r, assets:r.total_assets_b, equity:r.equity_b, debt:r.debt_ratio_pct, cliab:r.current_liab_b, doi:r.doi_days}));
             let pe_table = (qItems.pe_precise_quarterly?.rows||[]).map(r=>({...r}));
+            
+            // NEW: 合約負債、稼動率/ASP、綜合判定引擎
+            let contract_table = (qItems.contract_liabilities_quarterly?.rows||[]).map(r=>({...r}));
+            let utilization_table = (qItems.utilization_asp_signal_quarterly?.rows||[]).map(r=>({...r}));
+            let integrated_table = (qItems.financial_structure_integrated_signal_v2_quarterly?.rows||[]).map(r=>({...r}));
+
+            // C-Score Data
+            let c_score_data = d["7_結構校正C值 (C-Score)"]?.items?.structure_c_score || null;
+
+            // Other Daily Items
             let capital_table = d["3_最新股本 (Capital)"]?.items?.capital_latest?.rows || [];
             let chips_table = d["4_法人籌碼 (Daily)"]?.items?.chips_15d?.rows || [];
+
+            // NEW: Returns Table
             let returns_table = d["6_含息年度報酬率 (Annual Returns)"]?.items?.annual_returns?.rows || [];
 
-            // 🌍 🔥 安全提取 6-2 廠房資料
-            let facilities_data = [];
-            if (d["6-2_場址與產能佈局 (Facilities)"] && d["6-2_場址與產能佈局 (Facilities)"].items) {
-                const facItem = d["6-2_場址與產能佈局 (Facilities)"].items.facility_fact;
-                if (facItem && facItem.rows) {
-                    facilities_data = facItem.rows;
-                }
-            }
+            // 🌍 NEW: 場址與產能佈局 (越過 Gemini 直接讀取 JSON A)
+            let facilities_data = d["6-2_場址與產能佈局 (Facilities)"]?.items || [];
 
             return {
                 id: header.stock_id,
@@ -492,38 +916,56 @@
                 ai_model: "Fact-Update",
                 basicInfo: { price, change, changePercent },
                 financials: {
-                    revenue_trend, eps_table, cashflow_table, quality_table, kpi_table, structure_table, pe_table, capital_table, chips_table, returns_table,
-                    facilities_data: facilities_data,
+                    revenue_trend, eps_table, cashflow_table, quality_table, kpi_table, structure_table, pe_table, capital_table, chips_table, c_score_data, returns_table,
+                    contract_table, utilization_table, integrated_table, facilities_data,
                     kline_data: kline_data,
                     valuation: { pb: '-', roe: '-', pe_status: '-' }
                 },
+                // ✅ 新增：儲存外部資源連結
                 ai_resources: {
                     annual_report: resources.annual_report || null,
                     official_website: resources.official_website || null
                 },
                 news_events: { news: [], calendar: [] }
+                // 徹底移除 memo, themes, status, ai_forecasts 等欄位的預設值
+                // 這樣在合併時，新資料就不會帶著空值去覆蓋舊資料
             };
         }
 
-        // =========================================================================
-        // Sync & Update Logic
-        // =========================================================================
+        // --------------------------------------
+        // Rendering
+        // --------------------------------------
+        // --------------------------------------
+        // --------------------------------------
+        // 🚀 自動更新邏輯：判斷是否需要更新股價
+        // --------------------------------------
         function shouldUpdate(lastUpdatedStr) {
             if (!lastUpdatedStr || lastUpdatedStr === '-') return true;
+            
             const lastUpdate = new Date(lastUpdatedStr);
             if (isNaN(lastUpdate.getTime())) return true;
+
             const now = new Date();
             const threshold = new Date(now);
             threshold.setHours(13, 30, 0, 0);
+
+            // 計算「目標收盤基準點」
+            // 如果現在還沒到 13:30，基準點應該是「昨天」的 13:30
             let targetClose = threshold;
-            if (now < threshold) targetClose = new Date(threshold.getTime() - 24 * 60 * 60 * 1000);
+            if (now < threshold) {
+                targetClose = new Date(threshold.getTime() - 24 * 60 * 60 * 1000);
+            }
+
+            // 只有最後更新時間早於「最近一次收盤基準點」，才需要更新
             return lastUpdate < targetClose;
         }
 
         async function updateStockPrice(s) {
             const id = s.id;
             try {
+                // 標記正在更新中，避免同一個 session 重複進入
                 s._isUpdating = true;
+                
                 const d = new Date();
                 d.setFullYear(d.getFullYear() - 1);
                 const startDate = d.toISOString().split('T')[0];
@@ -533,8 +975,14 @@
 
                 if (result.data && result.data.length > 0) {
                     const kline = result.data.map(item => ({
-                        date: item.date, open: item.open, high: item.max, low: item.min, close: item.close, volume: item.Trading_Volume
+                        date: item.date,
+                        open: item.open,
+                        high: item.max,
+                        low: item.min,
+                        close: item.close,
+                        volume: item.Trading_Volume
                     }));
+
                     const latest = kline[kline.length - 1];
                     const prev = kline.length > 1 ? kline[kline.length - 2] : latest;
 
@@ -544,7 +992,10 @@
                     s.basicInfo.changePercent = ((change / prev.close) * 100).toFixed(2) + "%";
                     
                     s.lastUpdated = new Date().toISOString();
-                    if (s.financials) s.financials.kline_data = kline;
+                    if (s.financials) {
+                        s.financials.kline_data = kline;
+                    }
+                    console.log(`[更新完成] ${s.name} (${id}) @ ${s.lastUpdated}`);
                     return kline;
                 }
             } catch (error) {
@@ -555,49 +1006,55 @@
             return null;
         }
 
-        async function syncData(force = false) {
-            const badge = document.getElementById('statusBadge');
-            badge.innerText = "Syncing...";
-            badge.className = "text-sm font-mono px-3 py-1 rounded bg-yellow-100 text-yellow-700 flex items-center";
+// 🔥 新版同步邏輯（加入本地快取保護，避免重複更新）
+// --------------------------------------
+async function syncData(force = false) {
+    const badge = document.getElementById('statusBadge');
+    badge.innerText = "Syncing...";
+    badge.className = "text-sm font-mono px-3 py-1 rounded bg-yellow-100 text-yellow-700 flex items-center";
 
-            try {
-                const res = await fetch(`./stocks_summary.json?t=${Date.now()}`);
-                if (!res.ok) throw new Error("stocks_summary.json 讀取失敗");
+    try {
+        const res = await fetch(`./stocks_summary.json?t=${Date.now()}`);
+        if (!res.ok) throw new Error("stocks_summary.json 讀取失敗");
 
-                const cloud = await res.json();
-                const localData = JSON.parse(localStorage.getItem('bbb_db_v5') || "[]");
+        const cloud = await res.json();
+        const localData = JSON.parse(localStorage.getItem('bbb_db_v5') || "[]");
 
-                db = cloud.map(cloudStock => {
-                    const local = localData.find(l => l.id === cloudStock.id);
-                    if (local && local.lastUpdated && cloudStock.lastUpdated) {
-                        if (new Date(local.lastUpdated) > new Date(cloudStock.lastUpdated)) {
-                            return { ...cloudStock, ...local }; 
-                        }
-                    }
-                    return cloudStock;
-                });
-                
-                for (let s of db) {
-                    if (shouldUpdate(s.lastUpdated) && !s._isUpdating) {
-                        await updateStockPrice(s);
-                        await new Promise(r => setTimeout(r, 150));
-                    }
+        // 🚀 核心優化：合併雲端與本地資料，保護已更新的時間戳記
+        db = cloud.map(cloudStock => {
+            const local = localData.find(l => l.id === cloudStock.id);
+            // 如果本地有資料，且本地的更新時間比雲端更晚，則保留本地股價
+            if (local && local.lastUpdated && cloudStock.lastUpdated) {
+                if (new Date(local.lastUpdated) > new Date(cloudStock.lastUpdated)) {
+                    return { ...cloudStock, ...local }; 
                 }
-
-                localStorage.setItem('bbb_db_v5', JSON.stringify(db));
-                renderSidebar();
-                if (currentStockId) loadStock(currentStockId);
-
-                badge.innerHTML = `<i class="fas fa-check-circle mr-2"></i> Online`;
-                badge.className = "text-sm font-mono px-3 py-1 rounded bg-green-100 text-green-700 flex items-center";
-            } catch (e) {
-                console.error("❌ syncData error:", e);
-                const local = localStorage.getItem('bbb_db_v5');
-                if (local) { db = JSON.parse(local); renderSidebar(); }
-                badge.innerText = "Local Mode";
-                badge.className = "text-sm font-mono px-3 py-1 rounded bg-gray-100 text-gray-500 flex items-center";
+            }
+            return cloudStock;
+        });
+        
+        console.log("正在檢查是否有股票需要自動更新股價...");
+        for (let s of db) {
+            if (shouldUpdate(s.lastUpdated) && !s._isUpdating) {
+                console.log(`[符合更新條件] ${s.name} (上次更新: ${s.lastUpdated})`);
+                await updateStockPrice(s);
+                await new Promise(r => setTimeout(r, 150));
             }
         }
+
+        localStorage.setItem('bbb_db_v5', JSON.stringify(db));
+        renderSidebar();
+        if (currentStockId) loadStock(currentStockId);
+
+        badge.innerHTML = `<i class="fas fa-check-circle mr-2"></i> Online`;
+        badge.className = "text-sm font-mono px-3 py-1 rounded bg-green-100 text-green-700 flex items-center";
+    } catch (e) {
+        console.error("❌ syncData error:", e);
+        const local = localStorage.getItem('bbb_db_v5');
+        if (local) { db = JSON.parse(local); renderSidebar(); }
+        badge.innerText = "Local Mode";
+        badge.className = "text-sm font-mono px-3 py-1 rounded bg-gray-100 text-gray-500 flex items-center";
+    }
+}
 
         function renderSidebar() {
             const el = document.getElementById('stockList');
@@ -605,6 +1062,7 @@
             const q = document.getElementById('addStockInput').value.trim().toUpperCase(); 
             el.innerHTML = "";
 
+            // 1. 收集並組合所有過濾選項 (對標 Colab 邏輯)
             const allThemes = new Set();
             const allSectors = new Set();
             db.forEach(s => { 
@@ -612,11 +1070,14 @@
                 if(s.industry_analysis?.sector) allSectors.add(s.industry_analysis.sector);
             });
 
+            // --- 新增：更新題材輸入框的自動補全下拉清單 ---
             const themeDatalist = document.getElementById('themeSuggestions');
             if (themeDatalist) {
+                // 將 Set 轉為陣列排序後，生成 option 標籤
                 themeDatalist.innerHTML = Array.from(allThemes).sort().map(t => `<option value="${t}"></option>`).join('');
             }
 
+            // 清空並重新生成下拉選單內容
             let dropdownHtml = `<option value="全部">🔍 全部股票</option>`;
             dropdownHtml += `<optgroup label="狀態篩選">
                                 <option value="⚡ BUY" ${currentFilterTag === '⚡ BUY' ? 'selected' : ''}>⚡ BUY (已買)</option>
@@ -631,8 +1092,17 @@
                 dropdownHtml += `</optgroup>`;
             }
 
+            if (allSectors.size > 0) {
+                dropdownHtml += `<optgroup label="產業分類">`;
+                Array.from(allSectors).sort().forEach(s => {
+                    // 將圖示從 🏭 更換為 📁 (或其他您喜歡的圖示)
+                    dropdownHtml += `<option value="${s}" ${currentFilterTag === s ? 'selected' : ''}>📁 ${s}</option>`;
+                });
+                dropdownHtml += `</optgroup>`;
+            }
             dropdown.innerHTML = dropdownHtml;
 
+            // --- 2. 篩選資料 (保留原本搜尋 q，新增標籤過濾) ---
             let cats = {};
             db.forEach(s => {
                 if(q && !s.id.includes(q) && !s.name.includes(q)) return;
@@ -640,7 +1110,8 @@
                 if(currentFilterTag !== '全部') {
                     const matchesStatus = (s.status === currentFilterTag);
                     const matchesTheme = (s.themes && s.themes.includes(currentFilterTag));
-                    if(!matchesStatus && !matchesTheme) return;
+                    const matchesSector = (s.industry_analysis?.sector === currentFilterTag);
+                    if(!matchesStatus && !matchesTheme && !matchesSector) return;
                 }
 
                 const c = s.industry_analysis?.sector || s.category || "關注清單";
@@ -648,6 +1119,7 @@
                 cats[c].push(s);
             });
 
+            // --- 3. 渲染清單 (完全保留您原本的燈號與 HTML 結構) ---
             for(let [cat, items] of Object.entries(cats)) {
                 const grp = document.createElement('div');
                 grp.className = "mb-4";
@@ -657,19 +1129,40 @@
                 
                 items.forEach(s => {
                     const d = document.createElement('div');
+                    
+                    // 1. 處理選中狀態的樣式
                     let style = "border-transparent bg-white shadow-sm";
-                    if(currentStockId === s.id) style = "border-[#8B7355] bg-white ring-1 ring-[#8B7355] transform translate-x-1";
+                    if(currentStockId === s.id) {
+                        style = "border-[#8B7355] bg-white ring-1 ring-[#8B7355] transform translate-x-1";
+                    }
 
                     const chgStr = s.basicInfo.change || "0";
                     const chg = parseFloat(chgStr);
                     const col = chg >= 0 ? "text-[#C0392B]" : "text-[#16A34A]";
 
+                    // 2. 處理原本的 AI 訊號燈號 (小圓點)
+                    let signalHtml = '';
+                    let allForecasts = [];
+                    if (s.ai_forecasts && Array.isArray(s.ai_forecasts)) allForecasts = [...s.ai_forecasts];
+                    if (s.technical_analysis && s.technical_analysis.predictions) {
+                        const legacyP = s.technical_analysis.predictions;
+                        if (!allForecasts.some(f => f.model_name === legacyP.model_name)) allForecasts.push(legacyP);
+                    }
+                    allForecasts.forEach(f => {
+                        const sig = (f.current_signal || '').toLowerCase();
+                        let sigClass = (sig === 'buy') ? 'signal-buy' : (sig === 'sell' ? 'signal-sell' : (sig === 'hold' ? 'signal-hold' : ''));
+                        if(sigClass) signalHtml += `<span class="signal-light ${sigClass}" title="${f.model_name}"></span>`;
+                    });
+
+                    // 3. 處理狀態小標示 (修改為行內行式)
                     let statusBadgeHtml = '';
                     if (s.status === '⚡ BUY') statusBadgeHtml = '<span class="text-[9px] font-extrabold px-1 py-0.5 rounded bg-[#FFEDD5] text-[#F97316] border border-[#FFD8A8] ml-1.5 whitespace-nowrap">⚡ BUY</span>';
                     else if (s.status === '🟡 FLU') statusBadgeHtml = '<span class="text-[9px] font-extrabold px-1 py-0.5 rounded bg-[#FEF9C3] text-[#CA8A04] border border-[#FDE68A] ml-1.5 whitespace-nowrap">🟡 FLU</span>';
 
+                    // 4. 處理代號右側的題材標籤 (限制顯示2個)
                     let themeBadgesHtml = (s.themes || []).slice(0, 2).map(t => `<span class="sidebar-theme-tag">${t}</span>`).join('');
 
+                    // 5. 組裝最終 HTML 結構 (將標籤放入名字後方)
                     d.className = `p-2 rounded-lg border transition-all hover:shadow-md flex items-center ${style}`;
                     d.innerHTML = `
                         <div class="flex-1 min-w-0 cursor-pointer" onclick="loadStock('${s.id}')">
@@ -679,6 +1172,7 @@
                                     ${statusBadgeHtml}
                                 </div>
                                 <div class="text-right ml-2 flex items-center">
+                                    ${signalHtml}
                                     <span class="font-mono text-base font-bold text-gray-800 ml-1">${s.basicInfo.price}</span>
                                 </div>
                             </div>
@@ -696,17 +1190,22 @@
                     `;
                     ul.appendChild(d);
                 });
+                // 移除拖曳排序，防止平板滑動時誤觸
+                // new Sortable(ul, { animation:150 }); 
                 grp.appendChild(ul);
                 el.appendChild(grp);
             }
         }
 
+        // NEW: Delete Function
         window.deleteStock = function(id, e) {
             e.stopPropagation(); 
-            if(!confirm('確定要從清單中移除 ' + id + ' 嗎？')) return;
+            if(!confirm('確定要從清單中移除 ' + id + ' 嗎？\n(這只會刪除瀏覽器暫存，不會影響原始檔案)')) return;
+            
             db = db.filter(x => x.id !== id);
             saveToLocal();
             renderSidebar();
+            
             if(currentStockId === id) {
                 document.getElementById('dashboard').classList.add('hidden');
                 document.getElementById('emptyState').classList.remove('hidden');
@@ -714,23 +1213,52 @@
             }
         }
 
+        function getAiIcon(name) {
+            if(!name) return '<i class="fas fa-robot"></i>';
+            const n = name.toLowerCase();
+            if(n.includes('gemini') || n.includes('google')) return '<i class="fab fa-google"></i>';
+            if(n.includes('gpt') || n.includes('openai')) return '<i class="fas fa-bolt"></i>';
+            if(n.includes('claude')) return '<i class="fas fa-brain"></i>';
+            return '<i class="fas fa-robot"></i>';
+        }
+
         async function loadStock(id) {
             let s = db.find(x => x.id === id);
             if(!s) return;
+
+            // 🔥 如果尚未載入詳細資料 (financials)，則從伺服器抓取
+            if (!s.financials) {
+                try {
+                    const res = await fetch(`./details/${id}.json?t=${Date.now()}`);
+                    if (!res.ok) throw new Error("詳情檔載入失敗");
+                    const detail = await res.json();
+                    
+                    // 合併資料到記憶體中的 db
+                    const idx = db.findIndex(x => x.id === id);
+                    db[idx] = { ...s, ...detail };
+                    s = db[idx];
+                } catch (err) {
+                    console.error("載入詳情失敗:", err);
+                    alert("無法載入該股票的詳細資料");
+                    return;
+                }
+            }
 
             currentStockId = id;
             document.getElementById('emptyState').classList.add('hidden');
             document.getElementById('dashboard').classList.remove('hidden');
             renderSidebar();
 
+            // Basic Info
             setText('d_name', s.name); setText('d_id', s.id); 
+            // 優先顯示 JSON 報告時間，若無則降級使用最後更新時間，並美化格式 (去除 T 與毫秒)
             let displayDate = s.reportDate || s.lastUpdated || '-';
             if(displayDate.includes('T')) displayDate = displayDate.replace('T', ' ').substring(0, 16);
             setText('d_date', displayDate);
             setText('d_price', s.basicInfo.price); 
             const chg = parseFloat(s.basicInfo.change) || 0;
             const col = chg>=0?"text-[#C0392B]":"text-[#16A34A]";
-            document.getElementById('d_price').className = `text-5xl md:text-6xl font-mono font-bold tracking-tighter ${col}`;
+            document.getElementById('d_price').className = `text-7xl font-mono font-bold tracking-tighter ${col}`;
             document.getElementById('d_change').innerHTML = `<span class="${col}">${s.basicInfo.change} (${s.basicInfo.changePercent})</span>`;
 
             const m = document.getElementById('d_memo');
@@ -738,126 +1266,686 @@
             m.oninput = ()=>{ const target = db.find(x => x.id === currentStockId); if(target) { target.memo = m.value; saveToLocal(); } };
 
             // ==========================================
-            // 🌍 渲染產能地圖與廠房卡片 (成功讀取)
+            // 🌍 渲染產能地圖與廠房卡片 (直接讀取 JSON A)
             // ==========================================
             const facPanel = document.getElementById('facility_map_panel');
             const facCards = document.getElementById('facility_cards');
+            
             const facilitiesList = s.financials?.facilities_data || [];
             
             if (facilitiesList.length > 0 && facPanel) {
                 facPanel.classList.remove('hidden');
                 facCards.innerHTML = '';
                 
-                if(window.facMap) { window.facMap.remove(); window.facMap = null; }
+                if(window.facMap) { window.facMap.remove(); }
+                window.facMap = L.map('facility_map').setView([23.6978, 120.9605], 2);
+                L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+                    attribution: '&copy; OpenStreetMap contributors'
+                }).addTo(window.facMap);
+
+                let bounds = [];
                 
-                // 延遲初始化地圖確保 DOM 尺寸正確
-                setTimeout(() => {
-                    window.facMap = L.map('facility_map').setView([23.6978, 120.9605], 2);
-                    L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
-                        attribution: '&copy; OpenStreetMap contributors'
-                    }).addTo(window.facMap);
+                facilitiesList.forEach((f, idx) => {
+                    const fName = f.facility_name || '未命名廠區';
+                    const fStatus = f.status || 'unknown';
+                    const fType = f.facility_type || 'unknown';
+                    const fLocation = f.location_text || '未知位置';
+                    const fProducts = f.related_products || [];
+                    const fContrib = f.contribution_description || '無詳細說明';
+                    const lat = f.latitude;
+                    const lng = f.longitude;
 
-                    let bounds = [];
+                    let statusColor = 'bg-gray-100 text-gray-500';
+                    let statusText = fStatus;
+                    if(fStatus === 'operating') { statusColor = 'bg-green-100 text-green-700'; statusText = '營運中'; }
+                    else if(fStatus === 'under_construction') { statusColor = 'bg-yellow-100 text-yellow-700'; statusText = '建廠/擴產中'; }
+                    else if(fStatus === 'trial_production') { statusColor = 'bg-blue-100 text-blue-700'; statusText = '試產中'; }
+                    else if(fStatus === 'ramping') { statusColor = 'bg-purple-100 text-purple-700'; statusText = '產能爬坡中'; }
+                    else if(fStatus === 'planned') { statusColor = 'bg-orange-100 text-orange-700'; statusText = '計畫中'; }
                     
-                    facilitiesList.forEach((f, idx) => {
-                        const fName = f.facility_name || '未命名廠區';
-                        const fStatus = f.status || 'unknown';
-                        const fLocation = f.location_text || '未知位置';
-                        const fProducts = f.related_products || [];
-                        const fContrib = f.contribution_description || '無詳細說明';
-                        const lat = f.latitude;
-                        const lng = f.longitude;
+                    let typeIcon = 'fa-industry';
+                    if(fType === 'headquarters') typeIcon = 'fa-building';
+                    else if(fType === 'r_and_d_center') typeIcon = 'fa-flask';
 
-                        let statusColor = 'bg-gray-100 text-gray-500';
-                        let statusText = fStatus;
-                        if(fStatus === 'operating') { statusColor = 'bg-green-100 text-green-700'; statusText = '營運中'; }
-                        else if(fStatus === 'under_construction') { statusColor = 'bg-yellow-100 text-yellow-700'; statusText = '建廠/擴產中'; }
-
-                        facCards.innerHTML += `
-                            <div class="border border-gray-200 rounded-lg p-3 hover:shadow-md transition bg-white cursor-pointer" onclick="if(window.facMap && ${lat} && ${lng}) window.facMap.setView([${lat}, ${lng}], 12);">
-                                <div class="flex justify-between items-start mb-1">
-                                    <div class="font-bold text-[#2C3E50] text-sm"><i class="fas fa-industry mr-1 text-gray-400"></i>${fName}</div>
-                                    <span class="text-[10px] font-bold px-2 py-0.5 rounded ${statusColor} ml-2 whitespace-nowrap">${statusText}</span>
-                                </div>
-                                <div class="text-xs text-gray-400 mb-2"><i class="fas fa-map-marker-alt mr-1"></i>${fLocation}</div>
-                                <div class="text-xs text-gray-600 mb-1"><span class="font-bold text-gray-400">產品:</span> ${fProducts.join(', ')}</div>
-                                <div class="text-xs text-blue-700 bg-blue-50 p-2 rounded leading-relaxed border border-blue-100">${fContrib}</div>
+                    facCards.innerHTML += `
+                        <div class="border border-gray-200 rounded-lg p-3 hover:shadow-md transition bg-white cursor-pointer" onclick="if(window.facMap && ${lat} && ${lng}) window.facMap.setView([${lat}, ${lng}], 12);">
+                            <div class="flex justify-between items-start mb-1">
+                                <div class="font-bold text-[#2C3E50] text-sm"><i class="fas ${typeIcon} mr-1 text-gray-400"></i>${fName}</div>
+                                <span class="text-[10px] font-bold px-2 py-0.5 rounded ${statusColor} ml-2 whitespace-nowrap">${statusText}</span>
                             </div>
-                        `;
+                            <div class="text-xs text-gray-400 mb-2"><i class="fas fa-map-marker-alt mr-1"></i>${fLocation}</div>
+                            <div class="text-xs text-gray-600 mb-1"><span class="font-bold text-gray-400">產品:</span> ${fProducts.join(', ')}</div>
+                            <div class="text-xs text-blue-700 bg-blue-50 p-2 rounded leading-relaxed border border-blue-100">${fContrib}</div>
+                        </div>
+                    `;
 
-                        if (lat !== null && lng !== null) {
-                            let markerColor = fStatus === 'operating' ? '#3B82F6' : '#EF4444'; 
-                            let markerHtml = `<div style="background-color:${markerColor}; width:12px; height:12px; border-radius:50%; border:2px solid white; box-shadow:0 0 4px rgba(0,0,0,0.4);"></div>`;
-                            let customIcon = L.divIcon({ className: '', html: markerHtml, iconSize: [12, 12], iconAnchor: [6, 6] });
-                            
-                            L.marker([lat, lng], {icon: customIcon})
-                             .addTo(window.facMap)
-                             .bindPopup(`<b>${fName}</b><br>${statusText}`);
-                            bounds.push([lat, lng]);
-                        }
-                    });
+                    if (lat !== null && lng !== null) {
+                        let markerColor = fStatus === 'operating' ? '#3B82F6' : '#EF4444'; 
+                        let markerHtml = `<div style="background-color:${markerColor}; width:12px; height:12px; border-radius:50%; border:2px solid white; box-shadow:0 0 4px rgba(0,0,0,0.4);"></div>`;
+                        let customIcon = L.divIcon({ className: '', html: markerHtml, iconSize: [12, 12], iconAnchor: [6, 6] });
+                        
+                        L.marker([lat, lng], {icon: customIcon})
+                         .addTo(window.facMap)
+                         .bindPopup(`<b>${fName}</b><br>${statusText}`);
+                         
+                        bounds.push([lat, lng]);
+                    }
+                });
 
-                    if (bounds.length > 0) window.facMap.fitBounds(bounds, {padding: [30, 30], maxZoom: 14});
-                }, 100);
+                if (bounds.length > 0) {
+                    window.facMap.fitBounds(bounds, {padding: [30, 30], maxZoom: 14});
+                }
             } else {
                 if(facPanel) facPanel.classList.add('hidden');
             }
 
-            // Industry Analysis (JSON B)
+            // ==========================================
+            // 0. Industry Analysis
+            // ==========================================
             if (s.industry_analysis) {
                 const ind = s.industry_analysis;
                 let stars = '';
-                for(let i=1; i<=5; i++) stars += i <= (ind.moat?.rating||0) ? '<i class="fas fa-star star-filled"></i>' : '<i class="far fa-star star-empty"></i>';
+                const rating = ind.moat?.rating || 0;
+                for(let i=1; i<=5; i++) {
+                    stars += i <= rating ? '<i class="fas fa-star star-filled"></i>' : '<i class="far fa-star star-empty"></i>';
+                }
                 
-                document.getElementById('industry_content').innerHTML = `
+                let competitorsHtml = (ind.competitors || []).map(c => 
+                    `<span class="bg-gray-100 text-gray-700 px-2 py-1 rounded text-xs font-bold mr-2 mb-2 inline-block">${c}</span>`
+                ).join('');
+
+                const html = `
                     <div class="mb-4">
                         <div class="flex items-center gap-2 mb-2">
                             <span class="bg-[#8B7355] text-white px-3 py-1 rounded font-bold text-sm">${ind.sector || '-'}</span>
+                            ${ind.is_leader ? '<span class="bg-red-500 text-white px-3 py-1 rounded font-bold text-sm">👑 產業龍頭</span>' : ''}
                             <span class="text-gray-500 text-sm font-bold">市佔率: ${ind.market_share || '-'}</span>
                         </div>
                     </div>
+                    
                     <div class="mb-4 bg-gray-50 p-3 rounded-lg border border-gray-100">
-                        <div class="text-xs text-gray-400 font-bold uppercase mb-1">Supply Chain</div>
-                        <div class="text-sm font-bold text-gray-700">${ind.supply_chain?.upstream || '上游'} <i class="fas fa-arrow-right"></i> <span class="text-[#8B7355]">${s.name}</span> <i class="fas fa-arrow-right"></i> ${ind.supply_chain?.downstream || '下游'}</div>
+                        <div class="text-xs text-gray-400 font-bold uppercase mb-1">Supply Chain Position</div>
+                        <div class="flex items-center gap-2 text-sm font-bold text-gray-700">
+                            <span>${ind.supply_chain?.upstream || '上游'}</span>
+                            <i class="fas fa-arrow-right text-gray-400"></i>
+                            <span class="text-[#8B7355] text-lg">${ind.supply_chain?.position || s.name}</span>
+                            <i class="fas fa-arrow-right text-gray-400"></i>
+                            <span>${ind.supply_chain?.downstream || '下游'}</span>
+                        </div>
                     </div>
-                    <div><div class="text-xs text-gray-400 font-bold uppercase mb-1">Moat Rating</div><div class="text-lg">${stars}</div></div>
+
+                    <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-4">
+                        <div>
+                            <div class="text-xs text-gray-400 font-bold uppercase mb-1">Moat Rating</div>
+                            <div class="text-lg mb-1">${stars}</div>
+                            <div class="text-sm text-gray-600 leading-snug">${ind.moat?.description || '-'}</div>
+                        </div>
+                        <div>
+                            <div class="text-xs text-gray-400 font-bold uppercase mb-2">Competitors</div>
+                            <div class="flex flex-wrap">${competitorsHtml}</div>
+                        </div>
+                    </div>
                 `;
+                document.getElementById('industry_content').innerHTML = html;
+
+// Render Pie Chart (圓餅圖) & Product Lists (商品列表)
+                const elMain = document.getElementById('product_main_list');
+                const elDev = document.getElementById('product_dev_list');
 
                 if (ind.revenue_mix && ind.revenue_mix.length > 0) {
                     const ctx = document.getElementById('chart_rev_mix').getContext('2d');
                     if (charts.rev_mix) charts.rev_mix.destroy();
                     charts.rev_mix = new Chart(ctx, {
                         type: 'doughnut',
-                        data: { labels: ind.revenue_mix.map(i => i.name), datasets: [{ data: ind.revenue_mix.map(i => i.pct), backgroundColor: ['#3B82F6', '#10B981', '#F59E0B', '#EF4444', '#8B5CF6'], borderWidth: 0 }] },
-                        options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { position: 'right' } } }
+                        data: {
+                            labels: ind.revenue_mix.map(i => i.name),
+                            datasets: [{
+                                data: ind.revenue_mix.map(i => i.pct),
+                                backgroundColor: ['#3B82F6', '#10B981', '#F59E0B', '#EF4444', '#8B5CF6', '#6B7280'],
+                                borderWidth: 0
+                            }]
+                        },
+                        options: {
+                            responsive: true,
+                            maintainAspectRatio: false,
+                            plugins: {
+                                legend: { position: 'right', labels: { boxWidth: 12, font: { size: 11 } } }
+                            },
+                            layout: { padding: 10, cutout: '60%' }
+                        }
                     });
                 }
+
+                // 渲染主力商品 (Main Products) - 字體放大至 text-sm
+                if (ind.main_products && ind.main_products.length > 0) {
+                    elMain.innerHTML = '';
+                    ind.main_products.forEach(p => {
+                        elMain.innerHTML += `
+                            <div class="bg-white border border-gray-200 rounded px-3 py-2 shadow-sm flex flex-col justify-center">
+                                <div class="text-[#2C3E50] font-bold text-sm mb-1 truncate" title="${p.name}">${p.name}</div>
+                                <div class="text-xs text-gray-500 flex justify-between gap-3">
+                                    <span>貢獻:</span><span class="font-mono font-bold text-blue-600">${p.contribution || '-'}</span>
+                                </div>
+                            </div>
+                        `;
+                    });
+                } else {
+                    elMain.innerHTML = '<span class="text-gray-300 text-xs italic">--</span>';
+                }
+
+                // 渲染開發中潛力商品 (R&D Pipeline) - 字體放大至 text-sm
+                if (ind.dev_pipeline && ind.dev_pipeline.length > 0) {
+                    elDev.innerHTML = '';
+                    ind.dev_pipeline.forEach(p => {
+                        elDev.innerHTML += `
+                            <div class="bg-gray-50 border border-dashed border-gray-300 rounded px-3 py-2 flex flex-col justify-center relative overflow-hidden">
+                                <div class="text-[#8B7355] font-bold text-sm mb-1 truncate" title="${p.name}">${p.name}</div>
+                                <div class="text-xs text-gray-400 flex flex-col gap-1">
+                                    <div class="flex justify-between gap-3"><span>預計:</span><span class="font-mono">${p.expected_mass_production || '-'}</span></div>
+                                    <div class="text-right text-[#16A34A] font-bold">${p.order_status || ''}</div>
+                                </div>
+                            </div>
+                        `;
+                    });
+                } else {
+                    elDev.innerHTML = '<span class="text-gray-300 text-xs italic">--</span>';
+                }
+
             } else {
+                // 若無 industry_analysis 數據時的處理
                 document.getElementById('industry_content').innerHTML = '<div class="text-gray-400 italic">等待 AI 分析數據...</div>';
+                document.getElementById('product_main_list').innerHTML = '<span class="text-gray-300 text-xs italic">等待 B 入口分析...</span>';
+                document.getElementById('product_dev_list').innerHTML = '<span class="text-gray-300 text-xs italic">等待 B 入口分析...</span>';
                 if(charts.rev_mix) charts.rev_mix.destroy();
             }
 
-            // Tables & Charts
-            renderEditableTable('t_rev', s.financials.revenue_trend, ['month','revenue','mom','yoy']);
-            renderEditableTable('t_eps', s.financials.eps_table, ['period','gross','net','eps','eps_ytd','opm']);
-            renderEditableTable('t_pe', s.financials.pe_table, ['period','deadline','avg_close_3d','ttm_eps','pe']);
+            // ✅ Update External Resources & Summary Area
+            const linkWeb = document.getElementById('link_website');
+            const linkRep = document.getElementById('link_report');
+            const resSum = document.getElementById('ai_resource_summary');
             
+            const resources = s.ai_resources || {};
+            
+            // Handle Website Link
+            if(resources.official_website && resources.official_website !== 'N/A') {
+                linkWeb.href = resources.official_website;
+                linkWeb.classList.remove('pointer-events-none', 'opacity-50');
+            } else {
+                linkWeb.href = '#';
+                linkWeb.classList.add('pointer-events-none', 'opacity-50');
+            }
+
+            // Handle Annual Report Link (Fixed target blank)
+            if(resources.annual_report && resources.annual_report.url) {
+                linkRep.href = resources.annual_report.url;
+                linkRep.target = "_blank"; // Force open in new tab
+                linkRep.rel = "noreferrer noopener";
+                linkRep.title = resources.annual_report.title || "年報";
+                linkRep.classList.remove('pointer-events-none', 'opacity-50');
+            } else {
+                linkRep.href = '#';
+                linkRep.classList.add('pointer-events-none', 'opacity-50');
+            }
+
+            // Handle Summary (Placeholder for now, can be connected to B-block logic later)
+            // Currently using a static placeholder text, but if B-block data exists, it should go here.
+            if (s.industry_analysis && s.industry_analysis.resource_summary) {
+                 resSum.innerHTML = `<span class="text-gray-700">${s.industry_analysis.resource_summary}</span>`;
+            } else {
+                 resSum.innerHTML = `<span class="text-gray-400 italic text-xs">等待股神 Gemini 分析年報與官網後的重點摘要...</span>`;
+            }
+
+
+            // 1. REVENUE
+            let revDisplayData = [...(s.financials.revenue_trend || [])];
+            if (s.revenue_predictions) {
+                const pred = s.revenue_predictions;
+                if (pred.latest_month_fill) {
+                    const fillMonth = pred.latest_month_fill.month;
+                    const exists = revDisplayData.some(r => r.month === fillMonth);
+                    if (!exists) {
+                        let typeSuffix = "(查)";
+                        const t = pred.latest_month_fill.type || "";
+                        if(t === "estimated" || t === "推" || t.includes("推")) typeSuffix = "(推)";
+
+                        let rawRev = parseFloat(pred.latest_month_fill.revenue.toString().replace(/,/g, ''));
+                        if (revDisplayData.length > 0) {
+                            const prevRev = parseFloat(revDisplayData[0].revenue.replace(/,/g, ''));
+                            if (rawRev > prevRev * 10) rawRev /= 100;
+                        }
+                        
+                        let calMom = '-', calYoy = '-';
+                        if(revDisplayData.length > 0) {
+                            const prev = parseFloat(revDisplayData[0].revenue.replace(/,/g,''));
+                            calMom = ((rawRev - prev)/prev*100).toFixed(2);
+                        }
+                        const parts = fillMonth.split('/');
+                        const yoyTarget = `${parseInt(parts[0])-1}/${parts[1]}`;
+                        const yoyRef = revDisplayData.find(r=>r.month.startsWith(yoyTarget));
+                        if(yoyRef) {
+                            const prevY = parseFloat(yoyRef.revenue.replace(/,/g,''));
+                            calYoy = ((rawRev - prevY)/prevY*100).toFixed(2);
+                        }
+
+                        revDisplayData.unshift({
+                            month: fillMonth + typeSuffix,
+                            revenue: rawRev.toFixed(2),
+                            mom: calMom,
+                            yoy: calYoy,
+                            is_forecast: true
+                        });
+                    }
+                }
+                if (pred.next_month_forecast) {
+                    let rawRev = parseFloat(pred.next_month_forecast.revenue.toString().replace(/,/g, ''));
+                    let prevRevVal = 0;
+                    if (revDisplayData.length > 0) {
+                        prevRevVal = parseFloat(revDisplayData[0].revenue.replace(/,/g, ''));
+                        if (rawRev > prevRevVal * 10) rawRev /= 100;
+                    }
+                    let calMom = '-', calYoy = '-';
+                    if(prevRevVal > 0) {
+                        calMom = ((rawRev - prevRevVal)/prevRevVal*100).toFixed(2);
+                    }
+                    const parts = pred.next_month_forecast.month.split('/');
+                    const yoyTarget = `${parseInt(parts[0])-1}/${parts[1]}`;
+                    const yoyRef = revDisplayData.find(r=>r.month.startsWith(yoyTarget));
+                    if(yoyRef) {
+                        const prevY = parseFloat(yoyRef.revenue.replace(/,/g,''));
+                        calYoy = ((rawRev - prevY)/prevY*100).toFixed(2);
+                    }
+
+                    revDisplayData.unshift({
+                        month: pred.next_month_forecast.month + "(預)",
+                        revenue: rawRev.toFixed(2),
+                        mom: calMom,
+                        yoy: calYoy,
+                        is_forecast: true
+                    });
+                }
+            }
+            renderEditableTable('t_rev', revDisplayData, ['month','revenue','mom','yoy']);
+
+            // 2. EPS
+            let epsDisplayData = [...(s.financials.eps_table || [])];
+            if (s.eps_predictions) {
+                const pred = s.eps_predictions;
+                if (pred.latest_quarter_fill) {
+                    const fillObj = pred.latest_quarter_fill;
+                    const fillPeriod = fillObj.period; 
+                    if (fillPeriod) {
+                        const exists = epsDisplayData.some(r => r.period === fillPeriod);
+                        if (!exists) {
+                            let suffix = '(查)';
+                            const t = fillObj.type || "";
+                            if (t === 'estimated' || t === '推' || t.includes('推')) suffix = '(推)';
+                            epsDisplayData.unshift({
+                                ...fillObj,
+                                period: fillPeriod + suffix,
+                                is_forecast: true 
+                            });
+                        }
+                    }
+                }
+                if (pred.next_quarter_forecast) {
+                    const foreObj = pred.next_quarter_forecast;
+                    const forePeriod = foreObj.period;
+                    if (forePeriod) {
+                        epsDisplayData.unshift({
+                            ...foreObj,
+                            period: forePeriod + '(預)',
+                            is_forecast: true
+                        });
+                    }
+                }
+                if (pred.future_quarter_forecast) {
+                    const futObj = pred.future_quarter_forecast;
+                    const futPeriod = futObj.period;
+                    if (futPeriod) {
+                        epsDisplayData.unshift({
+                           ...futObj,
+                            period: futPeriod + '(預)',
+                            is_forecast: true
+                        });
+                    }
+                }
+            }
+            renderEditableTable('t_eps', epsDisplayData, ['period','gross','net','eps','eps_ytd','opm']);
+
+            if(s.financials.cashflow_table) renderEditableTable('t_cash', s.financials.cashflow_table, ['period','ocf','capex','fcf']);
+            if(s.financials.quality_table) renderEditableTable('t_quality', s.financials.quality_table, ['period','net_income','ocf','ratio']);
+            if(s.financials.kpi_table) renderEditableTable('t_kpi', s.financials.kpi_table, ['period','opm','roe','roa','fcf_b','net_b']);
+            if(s.financials.structure_table) renderEditableTable('t_structure', s.financials.structure_table, ['period','assets','equity','debt','cliab','doi']);
+            if(s.financials.pe_table) renderEditableTable('t_pe', s.financials.pe_table, ['period','deadline','avg_close_3d','ttm_eps','pe']);
+            if(s.financials.capital_table) renderEditableTable('t_capital', s.financials.capital_table, ['stock_id','report_date','shares_lots','par_value','method']);
+            if(s.financials.chips_table) renderEditableTable('t_chips', s.financials.chips_table, ['date','foreign_lots','it_lots','dealer_lots','sum_lots','pct_float']);
+            if(s.financials.returns_table) renderEditableTable('t_returns', s.financials.returns_table, ['year','return_pct','period']);
+            // 過濾掉「資料不足」或尚未公佈的季度
+            let validContract = s.financials.contract_table ? s.financials.contract_table.filter(r => r.total_assets_m > 0 && r.total_assets_m !== null) : [];
+            let validUtilization = s.financials.utilization_table ? s.financials.utilization_table.filter(r => r.utilization_asp_pattern_label && !r.utilization_asp_pattern_label.includes('資料不足')) : [];
+            let validIntegrated = s.financials.integrated_table ? s.financials.integrated_table.filter(r => r.final_pattern_label && !r.final_pattern_label.includes('資料不足')) : [];
+
+            // 渲染進階表格 (只顯示有數據的季度)
+            if(validContract.length > 0) renderEditableTable('t_contract', validContract, ['period','total_assets_m','contract_liab_m','advance_receipt_pct']);
+            if(validUtilization.length > 0) renderEditableTable('t_utilization', validUtilization, ['period','utilization_proxy_label','asp_proxy_label','utilization_asp_pattern_label']);
+            if(validIntegrated.length > 0) renderEditableTable('t_integrated', validIntegrated, ['period','financial_core_score','integrated_structure_score','final_pattern_label','final_forward_hint']);
+            // Charts
             renderCharts(s, s.financials.revenue_trend, s.financials.eps_table, s.financials.pe_table); 
             
+            // 3. Technical Analysis
             currentKLineData = s.financials.kline_data || [];
-            changeTimeframe('D');
+            currentTimeframe = 'D';
+            updateTimeframeButtons();
+            
+            // --- C-Value Dashboard (MODIFIED Tooltips Location & Logic) ---
+            if (s.financials.c_score_data) {
+                const cData = s.financials.c_score_data;
+                document.getElementById('c_model_container').classList.remove('hidden');
+                document.getElementById('c_status_tag').innerText = "Data Loaded";
 
-            // 狀態按鈕
+                // Summary Cards
+                const cVal = parseFloat(cData.c_score);
+                const elC = document.getElementById('c_val');
+                elC.innerText = cVal.toFixed(3);
+                
+                if(cVal > 1) elC.className="c-val text-red-600";
+                else if(cVal < 0.8) elC.className="c-val text-green-600";
+                else elC.className="c-val text-gray-800";
+
+                document.getElementById('c_benchmark_pe').innerText = cData.benchmark_pe.toFixed(1);
+
+                // Latest Row Data (for cards)
+                if (cData.rows && cData.rows.length > 0) {
+                    const latest = cData.rows[0];
+                    document.getElementById('c_latest_rt').innerText = latest.rt_weight ? latest.rt_weight.toFixed(2) : '-';
+                    document.getElementById('c_latest_dev').innerText = latest.deviation ? latest.deviation.toFixed(2) : '-';
+                }
+
+                // ✅ 修正：不計算，直接讀取 JSON 中的原始數據，並限制前6筆
+                renderEditableTable('t_c_score', cData.rows.slice(0, 6), [
+                    'period', 'eps', 'revenue_q', 'avg_price', 
+                    'rev_growth', 'eps_growth', 'pe_ratio', 
+                    'rt_weight', 'theo_price', 'deviation'
+                ]);
+
+            } else {
+                document.getElementById('c_model_container').classList.add('hidden');
+            }
+
+            if (s.technical_analysis) {
+                const t = s.technical_analysis;
+                let html = `
+                    <div class="flex flex-wrap gap-4 mb-4">
+                        <span class="bg-[#8B7355] text-white px-3 py-1 rounded font-bold text-sm">狀態: ${t.status || '-'}</span>
+                        <span class="bg-gray-200 text-gray-700 px-3 py-1 rounded font-bold text-sm">支撐: ${t.support || '-'}</span>
+                        <span class="bg-gray-200 text-gray-700 px-3 py-1 rounded font-bold text-sm">壓力: ${t.resistance || '-'}</span>
+                    </div>
+                    <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mb-4 text-sm bg-gray-50 p-4 rounded-lg">
+                        <div><strong>MACD:</strong> <span class="text-gray-600">${t.indicators?.macd?.desc || '-'}</span></div>
+                        <div><strong>RSI:</strong> <span class="text-gray-600">${t.indicators?.rsi?.desc || '-'}</span></div>
+                        <div><strong>布林:</strong> <span class="text-gray-600">${t.indicators?.bollinger?.desc || '-'}</span></div>
+                    </div>
+                    <p class="text-gray-700 leading-relaxed text-justify">${t.summary || '-'}</p>
+                `;
+                document.getElementById('tech_analysis_container').innerHTML = html;
+            } else {
+                document.getElementById('tech_analysis_container').innerHTML = `<p class="text-base text-gray-700 leading-8 text-justify font-medium">--</p>`;
+            }
+
+            // ==========================================
+			// 🚀 核心修改：自動判斷是否更新股價
+			// ==========================================
+			async function handleStockLoading() {
+                if (shouldUpdate(s.lastUpdated)) {
+                    console.log(`[自動更新] 偵測到 ${s.name} 資料較舊，正在同步最新股價...`);
+                    const newKline = await updateStockPrice(s);
+                    if (newKline) {
+                        currentKLineData = newKline;
+                        
+                        // 更新 UI 顯示 (因 updateStockPrice 已經改了 s 的內容)
+                        let updatedDisplayDate = s.reportDate || s.lastUpdated || '-';
+                        if(updatedDisplayDate.includes('T')) updatedDisplayDate = updatedDisplayDate.replace('T', ' ').substring(0, 16);
+                        setText('d_date', updatedDisplayDate);
+                        
+                        setText('d_price', s.basicInfo.price);
+                        const chg = parseFloat(s.basicInfo.change) || 0;
+                        const col = chg >= 0 ? "text-[#C0392B]" : "text-[#16A34A]";
+                        document.getElementById('d_price').className = `text-7xl font-mono font-bold tracking-tighter ${col}`;
+                        document.getElementById('d_change').innerHTML = `<span class="${col}">${s.basicInfo.change} (${s.basicInfo.changePercent})</span>`;
+                        if(document.getElementById('d_price_m')) document.getElementById('d_price_m').innerText = s.basicInfo.price;
+
+                        renderKLineChart(currentKLineData, currentTimeframe, s.technical_analysis);
+                        renderSidebar();
+                        saveToLocal();
+                        updateStrikeZone(s); // 同時更新好球帶指針
+                        return; 
+                    }
+                }
+
+                // 如果不需要更新，或更新失敗，則使用快取資料
+                currentKLineData = s.financials?.kline_data || [];
+                renderKLineChart(currentKLineData, currentTimeframe, s.technical_analysis);
+                
+                // 即使不更新 K 線，也要確保價格顯示正確
+                setText('d_price', s.basicInfo.price);
+                const chg = parseFloat(s.basicInfo.change) || 0;
+                const col = chg >= 0 ? "text-[#C0392B]" : "text-[#16A34A]";
+                document.getElementById('d_price').className = `text-7xl font-mono font-bold tracking-tighter ${col}`;
+                document.getElementById('d_change').innerHTML = `<span class="${col}">${s.basicInfo.change} (${s.basicInfo.changePercent})</span>`;
+            }
+
+            // 執行載入邏輯
+            handleStockLoading();
+
+            // --- 更新標籤 UI 狀態 ---
+            // 1. 更新狀態按鈕顏色 (⚡ BUY / 🟡 FLU)
             const btnBuy = document.getElementById('btn_status_buy');
             const btnFlu = document.getElementById('btn_status_flu');
             if(btnBuy) btnBuy.classList.toggle('active', s.status === '⚡ BUY');
             if(btnFlu) btnFlu.classList.toggle('active', s.status === '🟡 FLU');
-            
+
+            // 2. 渲染已掛載的題材標籤 (Themes)
             const themeList = document.getElementById('activeThemesList');
             if(themeList) {
                 themeList.innerHTML = (s.themes || []).map(t => 
                     `<span class="tag-btn tag-theme active">${t} <i class="fas fa-times ml-1 opacity-50 cursor-pointer" onclick="removeTheme('${t}')"></i></span>`
                 ).join('');
+            }
+            updateStrikeZone(s);
+
+// Render AI Predictions (From New Source Logic)
+            const cardContainer = document.getElementById('ai_cards_container');
+            
+            // ✅ 修改重點：合併 "手動新增(ai_forecasts)" 與 "Gemini匯入(technical_analysis)" 的資料
+            // 1. 先取出陣列中的預測
+            let forecasts = s.ai_forecasts ? [...s.ai_forecasts] : [];
+            
+            // 2. 檢查是否有 Block B 匯入的 Gemini 資料 (technical_analysis.predictions)
+            // 若存在且名稱不重複，則加入顯示列表，這樣就不會被覆蓋
+            if (s.technical_analysis && s.technical_analysis.predictions) {
+                const legacyP = s.technical_analysis.predictions;
+                // 確保資料有效
+                if (legacyP.model_name || legacyP.days1) {
+                    // 避免重複：若 ai_forecasts 裡已經有同名模型，就不重複加入
+                    const exists = forecasts.some(p => p.model_name === legacyP.model_name);
+                    if (!exists) {
+                        forecasts.push(legacyP);
+                    }
+                }
+            }
+
+if (forecasts.length === 0) {
+                cardContainer.innerHTML = `<div class="col-span-2 text-center text-gray-400 text-sm py-4 italic">點擊右上角 "+" 新增 AI 預測模型</div>`;
+            } else {
+                cardContainer.innerHTML = '';
+                forecasts.forEach(p => {
+                    const modelName = p.model_name || "AI Prediction";
+                    const icon = getAiIcon(modelName);
+                    
+                    const sig = (p.current_signal || '-').toLowerCase();
+                    let sigColor = 'bg-gray-400';
+                    if (sig === 'buy') sigColor = 'bg-green-500';
+                    else if (sig === 'sell') sigColor = 'bg-red-500';
+                    else if (sig === 'hold') sigColor = 'bg-[#EAB308]';
+
+                    // 處理單引號，避免 onclick 報錯
+                    const safeName = modelName.replace(/'/g, "\\'");
+
+                    const cardHtml = `
+                        <div class="border border-gray-200 rounded-lg p-4 bg-white shadow-sm relative hover:shadow-md transition group">
+                            <!-- Delete Button (右上角垃圾桶，滑鼠懸停時顯示) -->
+                            <button onclick="deleteAiPrediction('${safeName}')" class="absolute top-2 left-2 text-gray-300 hover:text-red-500 transition opacity-0 group-hover:opacity-100 z-10 p-1" title="刪除此模型">
+                                <i class="fas fa-trash-alt"></i>
+                            </button>
+
+                            <div class="absolute top-0 right-0 bg-[#8B7355] text-white text-[10px] px-2 py-1 rounded-bl-lg rounded-tr-lg font-bold flex items-center gap-1">
+                                ${icon} ${modelName}
+                            </div>
+                            <div class="text-sm font-bold text-gray-700 mb-3 border-b border-gray-200 pb-2 flex items-center gap-2 pl-6">
+                                <span>價格預測</span>
+                            </div>
+                            <div class="grid grid-cols-5 gap-1 text-center text-xs mb-3">
+                                <div class="bg-gray-50 border rounded p-1.5"><div class="text-[10px] text-gray-400 mb-0.5">1D</div><div class="font-bold text-gray-800">${p.days1 || '-'}</div></div>
+                                <div class="bg-gray-50 border rounded p-1.5"><div class="text-[10px] text-gray-400 mb-0.5">7D</div><div class="font-bold text-gray-800">${p.days7 || '-'}</div></div>
+                                <div class="bg-gray-50 border rounded p-1.5"><div class="text-[10px] text-gray-400 mb-0.5">30D</div><div class="font-bold text-gray-800">${p.days30 || '-'}</div></div>
+                                <div class="bg-gray-50 border rounded p-1.5"><div class="text-[10px] text-gray-400 mb-0.5">180D</div><div class="font-bold text-gray-800">${p.days180 || '-'}</div></div>
+                                <div class="bg-gray-50 border rounded p-1.5"><div class="text-[10px] text-gray-400 mb-0.5">360D</div><div class="font-bold text-gray-800">${p.days360 || '-'}</div></div>
+                            </div>
+                            <div class="flex justify-between items-center text-xs bg-gray-50 p-2 rounded border gap-1">
+                                <div class="flex flex-col"><span class="text-gray-400 text-[10px]">進場</span><span class="text-green-600 font-bold font-mono">${p.entry_zone || '-'}</span></div>
+                                <div class="flex flex-col text-right"><span class="text-gray-400 text-[10px]">出場</span><span class="text-red-600 font-bold font-mono">${p.exit_zone || '-'}</span></div>
+                                <div class="pl-2 border-l border-gray-200 flex items-center"><span class="px-2 py-1 rounded text-xs font-bold text-white ${sigColor}">${sig.toUpperCase()}</span></div>
+                            </div>
+                        </div>
+                    `;
+                    cardContainer.innerHTML += cardHtml;
+                });
+            }
+            
+// 4. Risk Alert (NEW) - 優化版：視覺強化 (顏色標籤與邊框)
+            const rContainer = document.getElementById('risk_alert_panel');
+            const rGrid = document.getElementById('risk_cards_container');
+            const rBadge = document.getElementById('risk_overall_badge');
+            const rHint = document.getElementById('risk_hint');
+
+            if (s.risk_evaluation) {
+                rContainer.classList.remove('hidden');
+                
+                // 重置容器邊框顏色
+                rContainer.classList.remove('border-gray-300', 'border-green-500', 'border-yellow-500', 'border-red-500');
+                
+                const summary = s.risk_evaluation.summary || {};
+                const score = summary.overall_risk_score || 0;
+                
+                // 設定整體風險區塊的邊框色與標籤背景
+                let borderColor = 'border-gray-300';
+                let badgeClass = 'bg-gray-100 text-gray-500';
+                
+                if(score >= 80) { borderColor='border-red-500'; badgeClass='bg-red-100 text-red-700'; }
+                else if(score >= 50) { borderColor='border-orange-500'; badgeClass='bg-orange-100 text-orange-700'; }
+                else if(score >= 20) { borderColor='border-yellow-500'; badgeClass='bg-yellow-100 text-yellow-700'; }
+                else { borderColor='border-green-500'; badgeClass='bg-green-100 text-green-700'; }
+                
+                rContainer.classList.add(borderColor);
+                rBadge.className = `px-4 py-1.5 rounded-full text-sm font-bold ${badgeClass}`;
+                rBadge.innerText = `${summary.risk_level_text || 'Unknown'} (Score: ${score})`;
+                
+                if(summary.display_hint) rHint.innerText = summary.display_hint;
+
+                // 渲染風險卡片 (加入更明顯的視覺提示)
+                rGrid.innerHTML = '';
+                const details = s.risk_evaluation.details || [];
+                
+                details.forEach(d => {
+                    let levelClass = '';
+                    let levelLabel = '';
+
+                    // 根據風險等級設定顏色與圖示
+                    switch(d.risk_level) {
+                        case 3: // 高風險
+                            levelClass = 'border-l-4 border-l-red-500 bg-red-50';
+                            levelLabel = '<span class="text-xs font-bold text-red-600 bg-red-100 px-2 py-0.5 rounded ml-auto">高風險</span>';
+                            break;
+                        case 2: // 中風險
+                            levelClass = 'border-l-4 border-l-orange-400 bg-orange-50';
+                            levelLabel = '<span class="text-xs font-bold text-orange-600 bg-orange-100 px-2 py-0.5 rounded ml-auto">中風險</span>';
+                            break;
+                        case 1: // 低風險
+                            levelClass = 'border-l-4 border-l-yellow-400 bg-yellow-50';
+                            levelLabel = '<span class="text-xs font-bold text-yellow-600 bg-yellow-100 px-2 py-0.5 rounded ml-auto">低風險</span>';
+                            break;
+                        default: // 無風險
+                            levelClass = 'border-l-4 border-l-green-500 bg-gray-50';
+                            levelLabel = '<span class="text-xs font-bold text-green-600 bg-green-100 px-2 py-0.5 rounded ml-auto">安全</span>';
+                    }
+
+                    // 產生卡片 HTML
+                    let cardHtml = `
+                        <div class="border border-gray-200 rounded-lg p-4 shadow-sm ${levelClass} transition hover:shadow-md flex flex-col h-full">
+                            <div class="flex justify-between items-start mb-2">
+                                <span class="font-black text-gray-800 text-base tracking-tight">${d.name}</span>
+                                ${levelLabel}
+                            </div>
+                            <p class="text-sm text-gray-600 leading-relaxed mb-3 font-medium flex-1">${d.description || ''}</p>
+                            <div class="text-xs text-gray-400 border-t border-gray-200/60 pt-2 flex items-start gap-1.5 mt-auto">
+                                <i class="fas fa-lightbulb mt-0.5 text-yellow-500"></i>
+                                <span class="italic">${d.alert_logic || ''}</span>
+                            </div>
+                        </div>
+                    `;
+                    rGrid.innerHTML += cardHtml;
+                });
+
+            } else {
+                rContainer.classList.add('hidden');
+            }
+
+            // 5. News (AI + Fact)
+            const nb = document.getElementById('d_news'); nb.innerHTML='';
+            if (s.ai_message_board && s.ai_message_board.left_messages && s.ai_message_board.left_messages.length > 0) {
+                s.ai_message_board.left_messages.sort((a, b) => new Date(b.date) - new Date(a.date));
+                s.ai_message_board.left_messages.forEach(m => {
+                    let arrow = '';
+                    if (m.sentiment === 'positive' || m.sentiment === 1) arrow = '<span class="arrow-up"></span>';
+                    else if (m.sentiment === 'negative' || m.sentiment === -1) arrow = '<span class="arrow-down"></span>';
+                    
+                    let displayContent = m.content;
+                    if (m.tag) displayContent = `<span class="font-bold text-gray-800 mr-1">[${m.tag}]</span>` + displayContent;
+
+                    nb.innerHTML += `
+                        <div class="py-2 border-b border-gray-100 flex gap-2 items-start">
+                            <span class="font-mono text-gray-400 text-xs w-20 shrink-0 pt-1">${m.date}</span>
+                            <div class="pt-1">${arrow}</div>
+                            <span class="text-gray-700 text-sm leading-relaxed">${displayContent}</span>
+                        </div>
+                    `;
+                });
+            } else {
+                (s.news_events?.news||[]).forEach(n=>{
+                    const tag = n.is_new ? '<span class="bg-red-500 text-white text-[10px] px-1 rounded mr-2 align-middle">NEW</span>' : '';
+                    const c = n.type.includes('pos')?'text-red-600':(n.type.includes('neg')?'text-green-600':'text-gray-700');
+                    nb.innerHTML+=`<div class="py-2 border-b border-gray-100 flex gap-3"><span class="font-mono text-gray-400 text-xs w-24 shrink-0">${n.date}</span><span class="${c} font-medium text-sm">${tag}${n.title}</span></div>`;
+                });
+            }
+
+            const cb = document.getElementById('d_calendar'); cb.innerHTML='';
+            if (s.ai_message_board && s.ai_message_board.right_events && s.ai_message_board.right_events.length > 0) {
+                s.ai_message_board.right_events.forEach(c => {
+                    cb.innerHTML+=`<div class="mb-3 border-l-2 border-[#8B7355] pl-3"><div class="font-mono text-gray-400 text-xs mb-1">${c.date}</div><div class="font-bold text-gray-800 text-sm">${c.event}</div></div>`;
+                });
+            } else {
+                (s.news_events?.calendar||[]).forEach(c => cb.innerHTML+=`<div class="mb-2"><div class="font-mono text-gray-400 text-xs">${c.date}</div><div class="font-bold text-[#8B7355]">${c.event}</div></div>`);
+            }
+
+            // Metrics
+            if(s.financials.valuation) {
+                setText('d_pb', s.financials.valuation.pb); setText('d_roe', s.financials.valuation.roe); setText('d_pe_stat', s.financials.valuation.pe_status);
+            }
+            if(s.technical && s.technical.predictions) {
+                setText('p_30', s.technical.predictions.days30); 
+                setText('p_180', s.technical.predictions.days180);
+                setText('p_360', s.technical.predictions.days360); 
+                setText('p_entry', s.technical.predictions.entry_zone);
             }
         }
 
@@ -869,122 +1957,491 @@
             data.forEach((r,idx) => {
                 let h = `<tr class="${idx%2===0?'':'bg-gray-50'}">`;
                 keys.forEach((k,i)=>{
-                    let val = r[k]!==undefined && r[k]!==null ? r[k] : '-';
+                    let defaultChar = '-';
+                    if (domId === 't_eps') defaultChar = '';
+                    let val = r[k]!==undefined && r[k]!==null ? r[k] : defaultChar;
                     let displayClass = 'tw-black'; 
-                    if (i>0 && !isNaN(parseFloat(val))) {
-                        let num = parseFloat(val);
-                        val = num.toLocaleString(undefined, {minimumFractionDigits: 2, maximumFractionDigits: 2});
-                        if(k === 'yoy' || k === 'mom') {
-                            if(num >= 20) displayClass = 'tw-red'; else if(num <= -20) displayClass = 'tw-green'; 
-                        } else if(k === 'gross' || k === 'net') {
-                            if(num < 0) displayClass = 'tw-green'; else if(num >= 20) displayClass = 'tw-red';
+                    let cellStyle = '';
+                    
+                    if(r.is_forecast) displayClass = 'tw-blue';
+
+                    const textColumns = ['period', 'deadline', 'price_basis', 'month', 'date', 'stock_id', 'report_date', 'method'];
+                    if (!textColumns.includes(k) && i>0) {
+                        let num = parseFloat(val.toString().replace(/,/g, ''));
+                        if (!isNaN(num)) {
+                            let decimals = (k.includes('lots')||k.includes('shares')||k==='volume')?0:2;
+                            // Special for C-Score Table: Prices usually 1-2 decimals, Rt 2 decimals.
+                            if(domId === 't_c_score' && (k==='rt_weight' || k==='deviation')) decimals = 2;
+                            if(domId === 't_c_score' && (k==='avg_price' || k==='theo_price')) decimals = 1;
+                            
+                            val = num.toLocaleString(undefined, {minimumFractionDigits: decimals, maximumFractionDigits: decimals});
+                            
+                            if(!r.is_forecast) {
+                                if(k === 'change' || k.includes('lots') || k === 'return_pct') {
+                                    if(num > 0) displayClass = 'tw-red';
+                                    else if(num < 0) displayClass = 'tw-green';
+                                }
+                                else if(k.includes('yoy') || k.includes('mom')) {
+                                    if(num >= 20) displayClass = 'tw-red';       
+                                    else if(num <= -20) displayClass = 'tw-green'; 
+                                }
+                                else if(['opm', 'roe', 'roa', 'gross', 'net', 'eps', 'fcf', 'net_b'].includes(k)) {
+                                    if(num < 0) displayClass = 'tw-green'; 
+                                    else if(['opm', 'roe', 'roa', 'gross', 'net'].includes(k) && num >= 20) displayClass = 'tw-red';
+                                }
+                                // C-Score Styling
+                                else if(k === 'rt_weight') {
+                                    if(num > 1) displayClass = 'tw-red';
+                                    else if(num < 1) displayClass = 'tw-green';
+                                }
+                            }
+                            
+                            if(k==='pct_float') { 
+                                displayClass='font-bold';
+                                if(num>0.1) cellStyle='background-color:#EF4444;color:white;';
+                                else if(num>0) cellStyle='background-color:#FEE2E2;color:#DC2626;';
+                                else if(num<-0.1) cellStyle='background-color:#10B981;color:white;';
+                                else if(num<0) cellStyle='background-color:#D1FAE5;color:#16A34A;';
+                            }
                         }
                     }
-                    h+=`<td class="${i===0?'text-left sticky left-0 z-10 bg-inherit border-r':'text-right'} ${displayClass}">${val}</td>`;
+                    if (domId === 't_chips' && k === 'date' && typeof val === 'string' && val.length > 5) val = val.substring(5).replace('-', '/');
+                    h+=`<td class="${i===0?'text-left sticky left-0 z-10 bg-inherit border-r':'text-right'} ${displayClass}" style="${cellStyle}">${val}</td>`;
                 });
                 el.innerHTML += h+'</tr>';
             });
         }
 
+        // Chart.js Charts (Unchanged)
         function renderCharts(s, revData, epsData, peData) {
+            // ... (Same Chart.js code) ...
+            // PE River
+            const ctxPe = document.getElementById('chart_pe').getContext('2d');
+            if(charts.pe) charts.pe.destroy();
+            let chartPeData = [...(peData || [])].sort((a,b) => a.period.localeCompare(b.period));
+            charts.pe = new Chart(ctxPe, {
+                type: 'line',
+                data: {
+                    labels: chartPeData.map(d=>d.period),
+                    datasets: [
+                        { label: 'Price', data: chartPeData.map(d=>parseFloat(d.avg_close_3d)), borderColor: '#374151', borderWidth: 2, pointRadius: 3, fill: false, order: 0 },
+                        { label: 'PE 25 (Exp)', data: chartPeData.map(d=>parseFloat(d.ttm_eps)*25), borderColor: 'transparent', backgroundColor: 'rgba(220, 38, 38, 0.1)', fill: 2, pointRadius: 0, order: 1 },
+                        { label: 'PE 20', data: chartPeData.map(d=>parseFloat(d.ttm_eps)*20), borderColor: '#DC2626', borderWidth: 1, fill: false, pointRadius: 0, order: 2 },
+                        { label: 'PE 15', data: chartPeData.map(d=>parseFloat(d.ttm_eps)*15), borderColor: '#16A34A', borderWidth: 1, fill: 4, backgroundColor: 'rgba(22, 163, 74, 0.1)', pointRadius: 0, order: 3 },
+                        { label: 'PE 10 (Cheap)', data: chartPeData.map(d=>parseFloat(d.ttm_eps)*10), borderColor: 'transparent', fill: false, pointRadius: 0, order: 4 }
+                    ]
+                },
+                options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false } }, scales: { x: { grid: { display: false } }, y: { position: 'right' } }, elements: { line: { tension: 0.3 } } }
+            });
+
+            // Revenue Combo
             const ctxRev = document.getElementById('chart_rev').getContext('2d');
             if(charts.rev) charts.rev.destroy();
-            const revChartData = [...(revData||[])].reverse().slice(-12);
+            const fullMap = {};
+            if(revData) revData.forEach(r => fullMap[getDateValue(r.month)] = parseFloat(r.revenue));
+            const chartData = [...(revData||[])].sort((a,b) => getDateValue(a.month) - getDateValue(b.month)).slice(-12);
+            const labels = []; const currentRev = []; const lastYearRev = []; const momData = []; const yoyData = [];
+            chartData.forEach(d => {
+                labels.push(d.month);
+                currentRev.push(parseFloat(d.revenue));
+                momData.push(parseFloat(d.mom));
+                yoyData.push(parseFloat(d.yoy));
+                const lyVal = fullMap[getDateValue(d.month) - 100];
+                lastYearRev.push(lyVal !== undefined ? lyVal : null); 
+            });
             charts.rev = new Chart(ctxRev, {
                 type: 'bar',
                 data: {
-                    labels: revChartData.map(d=>d.month),
+                    labels: labels,
                     datasets: [
-                        { label: '營收', data: revChartData.map(d=>parseFloat(d.revenue)), backgroundColor: '#0EA5E9', order: 2 },
-                        { label: 'YoY%', data: revChartData.map(d=>parseFloat(d.yoy)), type: 'line', borderColor: '#EC4899', yAxisID: 'y1', order: 0 }
+                        { label: '當月營收', data: currentRev, backgroundColor: '#0EA5E9', order: 2, barPercentage: 0.6 },
+                        { label: '去年同期', data: lastYearRev, backgroundColor: '#E0F2FE', order: 3, barPercentage: 0.6 },
+                        { label: 'MoM%', data: momData, type: 'line', borderColor: '#1D4ED8', borderWidth: 2, pointRadius: 2, yAxisID: 'y1', order: 1 },
+                        { label: 'YoY%', data: yoyData, type: 'line', borderColor: '#EC4899', borderWidth: 2, pointRadius: 2, yAxisID: 'y1', order: 0 }
                     ]
                 },
-                options: { responsive: true, maintainAspectRatio: false, scales: { y1: { position: 'right' } } }
+                options: { responsive: true, maintainAspectRatio: false, interaction: { mode: 'index', intersect: false }, plugins: { legend: { display: false } }, scales: { x: { grid: { display: false } }, y: { type: 'linear', display: true, position: 'left' }, y1: { type: 'linear', display: true, position: 'right', grid: { display: false } } } }
             });
 
+            // EPS Combo
             const ctxEps = document.getElementById('chart_eps').getContext('2d');
             if(charts.eps) charts.eps.destroy();
-            const epsChartData = [...(epsData || [])].reverse().slice(-8);
+            const epsChartData = [...(epsData || [])].sort((a,b) => a.period.localeCompare(b.period)).slice(-12);
             charts.eps = new Chart(ctxEps, {
                 type: 'bar',
                 data: {
                     labels: epsChartData.map(e=>e.period),
                     datasets: [
-                        { type: 'bar', label: 'EPS', data: epsChartData.map(e=>parseFloat(e.eps)), backgroundColor: '#0EA5E9', yAxisID: 'y', order: 2 },
-                        { type: 'line', label: '毛利(%)', data: epsChartData.map(e=>parseFloat(e.gross)), borderColor: '#1D4ED8', yAxisID: 'y1', order: 1 }
+                        { type: 'bar', label: 'EPS', data: epsChartData.map(e=>parseFloat(e.eps)), backgroundColor: '#0EA5E9', yAxisID: 'y', order: 2, barPercentage: 0.6 },
+                        { type: 'line', label: '毛利(%)', data: epsChartData.map(e=>parseFloat(e.gross)), borderColor: '#1D4ED8', borderWidth: 2, pointRadius: 2, yAxisID: 'y1', order: 1 },
+                        { type: 'line', label: '淨利(%)', data: epsChartData.map(e=>parseFloat(e.net)), borderColor: '#EC4899', borderWidth: 2, pointRadius: 2, yAxisID: 'y1', order: 0 }
                     ]
                 },
-                options: { responsive: true, maintainAspectRatio: false, scales: { y1: { position: 'right' } } }
+                options: { responsive: true, maintainAspectRatio: false, interaction: { mode: 'index', intersect: false }, plugins: { legend: { display: false } }, scales: { x: { grid: { display: false } }, y: { type: 'linear', display: true, position: 'left' }, y1: { type: 'linear', display: true, position: 'right', grid: { display: false } } } }
             });
         }
 
-        let kChart = null;
-        function initKLineChart() {
-            if (kChart) return; 
-            kChart = klinecharts.init('tvchart');
-            kChart.setStyles({
-                candle: { bar: { upColor: '#EF4444', downColor: '#10B981' } }
-            });
-            kChart.createIndicator({ name: 'MA', calcParams: [5, 20, 60] }, false, { id: 'candle_pane' }); 
-            kChart.createIndicator('VOL');
-        }
-
-        function renderKLineChart(kData, timeframe, techData) {
-            if (!kData || kData.length === 0) return;
-            initKLineChart();
-            const chartData = kData.map(d => ({
-                timestamp: new Date(d.date).getTime(), open: d.open, high: d.high, low: d.low, close: d.close, volume: d.volume
-            }));
-            kChart.applyNewData(chartData);
-        }
-
+        // ==========================================
+        // 📈 ApexCharts K-Line (Modified for Tech Lines)
+        // ==========================================
+        
         function changeTimeframe(tf) {
             currentTimeframe = tf;
+            updateTimeframeButtons();
+            
+            let finalData = [];
+            if(tf === 'D') {
+                finalData = currentKLineData;
+            } else if (tf === 'W') {
+                finalData = calculateAggregatedData(currentKLineData, 'W');
+            } else if (tf === 'M') {
+                finalData = calculateAggregatedData(currentKLineData, 'M');
+            }
+            // Retrieve current stock's tech analysis if available
+            const s = db.find(x => x.id === currentStockId);
+            renderKLineChart(finalData, tf, s ? s.technical_analysis : null);
+        }
+
+        function updateTimeframeButtons() {
             ['D', 'W', 'M'].forEach(t => {
                 const btn = document.getElementById(`btn_tf_${t}`);
-                if(btn) btn.className = t === tf ? 'tf-btn active' : 'tf-btn inactive';
+                if(t === currentTimeframe) {
+                    btn.classList.remove('inactive'); btn.classList.add('active');
+                } else {
+                    btn.classList.remove('active'); btn.classList.add('inactive');
+                }
             });
-            renderKLineChart(currentKLineData, tf, null);
         }
+
+        function calculateAggregatedData(dailyData, type) {
+            let sorted = [...dailyData].sort((a,b) => a.date.localeCompare(b.date));
+            if(sorted.length === 0) return [];
+
+            let result = [];
+            let currentGroup = null;
+            let groupKey = "";
+
+            sorted.forEach(d => {
+                const dateObj = new Date(d.date);
+                let key = "";
+                
+                if(type === 'W') {
+                    const day = dateObj.getDay();
+                    const diff = dateObj.getDate() - day + (day === 0 ? -6 : 1); 
+                    const monday = new Date(dateObj.setDate(diff));
+                    key = monday.toISOString().split('T')[0];
+                } else {
+                    key = d.date.substring(0, 7) + "-01";
+                }
+
+                if(key !== groupKey) {
+                    if(currentGroup) result.push(finalizeGroup(currentGroup));
+                    groupKey = key;
+                    currentGroup = {
+                        date: key, 
+                        open: d.open,
+                        high: d.high,
+                        low: d.low,
+                        close: d.close,
+                        volume: d.volume,
+                        count: 1
+                    };
+                } else {
+                    currentGroup.high = Math.max(currentGroup.high, d.high);
+                    currentGroup.low = Math.min(currentGroup.low, d.low);
+                    currentGroup.close = d.close;
+                    currentGroup.volume += d.volume;
+                    currentGroup.count++;
+                }
+            });
+            if(currentGroup) result.push(finalizeGroup(currentGroup));
+            return result;
+        }
+
+        function finalizeGroup(g) {
+            return {
+                date: g.date, open: g.open, high: g.high, low: g.low, close: g.close, volume: g.volume
+            };
+        }
+
+        <!-- function calculateMA(data, period) { -->
+            <!-- let maLine = []; -->
+            <!-- for (let i = 0; i < data.length; i++) { -->
+                <!-- if (i < period - 1) { -->
+                    <!-- maLine.push({ x: data[i].date, y: null }); // 💡修改：不使用 new Date() -->
+                <!-- } else { -->
+                    <!-- let sum = 0; -->
+                    <!-- for (let j = 0; j < period; j++) { -->
+                        <!-- sum += data[i - j].close; -->
+                    <!-- } -->
+                    <!-- maLine.push({ x: data[i].date, y: sum / period }); // 💡修改：不使用 new Date() -->
+                <!-- } -->
+            <!-- } -->
+            <!-- return maLine; -->
+        <!-- } -->
+
+        // ==========================================
+		// 📈 KLineChart 繪圖核心 (支援 MA5,20,60 與 支撐壓力)
+		// ==========================================
+		let kChart = null;
+
+		function initKLineChart() {
+			if (kChart) return; 
+			
+			// 1. 註冊支援 Y 軸文字的支撐/壓力線
+			klinecharts.registerOverlay({
+				name: 'supportResistanceLine',
+				createPointFigures: function({ bounding, coordinates, overlay }) {
+					if (!coordinates || coordinates.length === 0) return [];
+					return [{ type: 'line', attrs: { coordinates: [{ x: 0, y: coordinates[0].y }, { x: bounding.width, y: coordinates[0].y }] }, ignoreEvent: true, styles: { style: 'dashed', color: overlay.extendData.color, size: 1.5, dashedValue: [4, 4] } }];
+				},
+				createYAxisFigures: function({ bounding, coordinates, overlay }) {
+					if (!coordinates || coordinates.length === 0) return [];
+					return [{ type: 'text', attrs: { x: bounding.width / 2, y: coordinates[0].y, text: overlay.extendData.label, align: 'center', baseline: 'middle' }, ignoreEvent: true, styles: { color: '#ffffff', backgroundColor: overlay.extendData.color, size: 12, paddingLeft: 6, paddingRight: 6, paddingTop: 4, paddingBottom: 4, borderRadius: 2 } }];
+				}
+			});
+
+			kChart = klinecharts.init('tvchart');
+			
+			// 2. 配合戰情室淺色背景微調樣式 (紅漲綠跌)
+			kChart.setStyles({
+				yAxis: { size: 75 },
+				grid: { horizontal: { color: 'rgba(0, 0, 0, 0.05)' }, vertical: { color: 'rgba(0, 0, 0, 0.05)' } },
+				candle: {
+					type: 'candle_solid',
+					bar: { upColor: '#EF4444', downColor: '#10B981', noChangeColor: '#9CA3AF', upBorderColor: '#EF4444', downBorderColor: '#10B981', noChangeBorderColor: '#9CA3AF', upWickColor: '#EF4444', downWickColor: '#10B981', noChangeWickColor: '#9CA3AF' }
+				}
+			});
+
+			// 3. 【關鍵修復】掛載主圖均線時，直接傳入 [5, 20, 60] 參數
+			kChart.createIndicator({ name: 'MA', calcParams: [5, 20, 60] }, false, { id: 'candle_pane' }); 
+			
+            // 掛載下方成交量
+            kChart.createIndicator('VOL');
+		}
+
+		function renderKLineChart(kData, timeframe, techData) {
+			if (!kData || kData.length === 0) return;
+			initKLineChart();
+
+			// 轉換為 KLineChart 需要的 timestamp 格式
+			const chartData = kData.map(d => ({
+				timestamp: new Date(d.date).getTime(),
+				open: d.open,
+				high: d.high,
+				low: d.low,
+				close: d.close,
+				volume: d.volume
+			}));
+
+			kChart.applyNewData(chartData);
+			kChart.removeOverlay(); // 清空上一檔股票的線條
+
+			// 繪製從 JSON 帶來的支撐壓力線
+			if (techData && techData.support) {
+				let val = parseFloat(techData.support.replace(/[^0-9.]/g, ''));
+				if(!isNaN(val)) {
+					kChart.createOverlay({ name: 'supportResistanceLine', extendData: { label: `支撐: ${val}`, color: '#10B981' }, points: [{ value: val }] });
+				}
+			}
+			if (techData && techData.resistance) {
+				let val = parseFloat(techData.resistance.replace(/[^0-9.]/g, ''));
+				if(!isNaN(val)) {
+					kChart.createOverlay({ name: 'supportResistanceLine', extendData: { label: `壓力: ${val}`, color: '#EF4444' }, points: [{ value: val }] });
+				}
+			}
+		}
 
         function saveToLocal(){ localStorage.setItem('bbb_db_v5', JSON.stringify(db)); }
         function toggleModal(id){ document.getElementById(id).classList.toggle('hidden'); }
         function setText(i,t){ const e=document.getElementById(i); if(e)e.innerText=t||'-'; }
-        
-        window.setSidebarFilter = function(tag) { currentFilterTag = tag; renderSidebar(); }
-        window.toggleStockStatus = function(status) {
-            if (!currentStockId) return;
-            const s = db.find(x => x.id === currentStockId);
-            if (s) { s.status = (s.status === status) ? null : status; saveToLocal(); loadStock(currentStockId); }
-        }
-        window.handleThemeInput = function(e) {
-            if (e.key === 'Enter' && currentStockId) {
-                const val = e.target.value.trim();
-                if (!val) return;
-                const s = db.find(x => x.id === currentStockId);
-                if (s) { if(!s.themes) s.themes=[]; if(!s.themes.includes(val)) s.themes.push(val); saveToLocal(); loadStock(currentStockId); }
-                e.target.value = ""; 
+// 新增：刪除 AI 預測卡片的功能
+        window.deleteAiPrediction = function(targetName) {
+            if(!currentStockId) return;
+            // 確認對話框
+            if(!confirm('確定要刪除 "'+targetName+'" 的預測模型嗎？')) return;
+            
+            const idx = db.findIndex(s => s.id === currentStockId);
+            if(idx === -1) return;
+            
+            let s = db[idx];
+            let modified = false;
+
+            // 1. 從 ai_forecasts 陣列中移除
+            if(s.ai_forecasts && s.ai_forecasts.length > 0) {
+                const initialLen = s.ai_forecasts.length;
+                s.ai_forecasts = s.ai_forecasts.filter(p => (p.model_name || "AI Prediction") !== targetName);
+                if(s.ai_forecasts.length !== initialLen) modified = true;
+            }
+            
+            // 2. 檢查舊版物件結構 (technical_analysis.predictions) 並移除 (兼容舊資料)
+            if(s.technical_analysis && s.technical_analysis.predictions) {
+                const legacyName = s.technical_analysis.predictions.model_name || "AI Prediction";
+                // 如果名稱相符，或者只有一個且沒名字
+                if(legacyName === targetName) {
+                    delete s.technical_analysis.predictions;
+                    modified = true;
+                }
+            }
+            
+            if(modified) {
+                saveToLocal();
+                loadStock(currentStockId); // 重新載入以更新畫面
             }
         }
-        window.removeTheme = function(theme) {
-            if (!currentStockId) return;
-            const s = db.find(x => x.id === currentStockId);
-            if (s && s.themes) { s.themes = s.themes.filter(t => t !== theme); saveToLocal(); loadStock(currentStockId); }
-        }
-        
+        // 新增：將電腦裡的資料匯出成 data.json 檔案
         function exportToJSON() {
-            if (!db || db.length === 0) { alert('目前沒有資料可以匯出！'); return; }
-            const dataStr = JSON.stringify(db, null, 2); 
+            // 1. 直接將目前記憶體中最新的 db 陣列轉成字串 (確保包含剛改好的標籤與狀態)
+            if (!db || db.length === 0) {
+                alert('目前沒有資料可以匯出！');
+                return;
+            }
+            const dataStr = JSON.stringify(db, null, 2); // 使用 db 變數
+            
+            // 2. 建立一個虛擬的檔案連結
             const blob = new Blob([dataStr], {type: "application/json"});
             const url = URL.createObjectURL(blob);
             const a = document.createElement('a');
+            
+            // 3. 設定檔名並自動點擊下載
             a.href = url;
             a.download = 'data.json'; 
             document.body.appendChild(a);
             a.click();
+            
+            // 4. 清理
             document.body.removeChild(a);
             URL.revokeObjectURL(url);
+        }
+            // --- 好球帶邏輯函數 (放在腳本最後面) ---
+        function updateStrikeZone(s) {
+            const container = document.getElementById('pb_container');
+            const labelBox = document.getElementById('pb_multi_labels');
+            const marker = document.getElementById('pb_marker');
+
+            // 1. 收集所有可用的預測模型
+            let allPreds = [];
+            if (s.ai_forecasts && Array.isArray(s.ai_forecasts)) allPreds = [...s.ai_forecasts];
+            if (s.technical_analysis?.predictions) {
+                const legacy = s.technical_analysis.predictions;
+                if (!allPreds.some(p => p.model_name === legacy.model_name)) allPreds.push(legacy);
+            }
+
+            // 清除舊有的動態元素 (保留指針)
+            const oldZones = container.querySelectorAll('.pb-zone');
+            oldZones.forEach(el => el.remove());
+            labelBox.innerHTML = "";
+
+            if (allPreds.length === 0) {
+                marker.classList.add('hidden');
+                return;
+            }
+
+            const curPrice = parseFloat(s.basicInfo.price);
+
+            // 2. 計算全體模型的最大邊界，用來設定尺標比例
+            let allValues = [curPrice];
+            allPreds.forEach(p => {
+                const e = p.entry_zone.split('-').map(Number);
+                const x = p.exit_zone.split('-').map(Number);
+                allValues.push(...e, ...x);
+            });
+            const minScale = Math.min(...allValues) * 0.95;
+            const maxScale = Math.max(...allValues) * 1.05;
+            const totalRange = maxScale - minScale;
+            const getPos = (val) => ((val - minScale) / totalRange) * 100;
+
+            // 3. 繪製每個模型的區間與標籤
+            allPreds.forEach((p, idx) => {
+                const entry = p.entry_zone.split('-').map(Number);
+                const exit = p.exit_zone.split('-').map(Number);
+                const mName = p.model_name || `AI-${idx+1}`;
+
+                // 繪製買進填滿 (Buy Zone)
+                const bZone = document.createElement('div');
+                bZone.className = 'pb-zone pb-buy-zone';
+                bZone.style.left = getPos(entry[0]) + "%";
+                bZone.style.width = (getPos(entry[1]) - getPos(entry[0])) + "%";
+                container.appendChild(bZone);
+
+                // 繪製賣出填滿 (Sell Zone)
+                const sZone = document.createElement('div');
+                sZone.className = 'pb-zone pb-sell-zone';
+                sZone.style.left = getPos(exit[0]) + "%";
+                sZone.style.width = (getPos(exit[1]) - getPos(exit[0])) + "%";
+                container.appendChild(sZone);
+
+                // 生成文字標籤
+                labelBox.innerHTML += `
+                    <div class="model-tag-line">
+                        <div><span class="model-name-label">${mName}</span><span class="text-green-600 font-bold">買: ${p.entry_zone}</span></div>
+                        <div class="text-red-600 font-bold text-right">賣: ${p.exit_zone}</div>
+                    </div>
+                `;
+            });
+
+            // 4. 更新目前價格指針
+            marker.classList.remove('hidden');
+            let curPos = getPos(curPrice);
+            marker.style.left = Math.max(0, Math.min(100, curPos)) + "%";
+        }
+        // --- [新增] 標籤管理功能函數群 ---
+
+        // 1. 設定側邊欄的過濾條件 (點擊頂部按鈕時觸發)
+        window.setSidebarFilter = function(tag) {
+            currentFilterTag = tag;
+            renderSidebar(); // 重新繪製側邊欄以執行篩選
+        }
+
+        // 2. 切換個股狀態 (⚡ BUY / 🟡 FLU)
+        window.toggleStockStatus = function(status) {
+            if (!currentStockId) return;
+            const s = db.find(x => x.id === currentStockId);
+            if (!s) return;
+            
+            // 如果點擊已選中的狀態，則取消 (Toggle 邏輯)
+            s.status = (s.status === status) ? null : status;
+            
+            saveToLocal();       // 儲存至瀏覽器
+            loadStock(currentStockId); // 刷新儀表板按鈕顏色
+            renderSidebar();     // 刷新側邊欄按鈕狀態
+        }
+
+        // 3. 處理「題材標籤」輸入 (按下 Enter 時觸發)
+        window.handleThemeInput = function(e) {
+            if (e.key === 'Enter' && currentStockId) {
+                const val = e.target.value.trim();
+                if (!val) return;
+                
+                const s = db.find(x => x.id === currentStockId);
+                if (!s) return;
+                
+                if (!s.themes) s.themes = []; // 防呆：確保 themes 陣列存在
+                
+                // 若題材不存在才加入 (避免重複)
+                if (!s.themes.includes(val)) {
+                    s.themes.push(val);
+                    saveToLocal();
+                    loadStock(currentStockId);
+                    renderSidebar();
+                }
+                e.target.value = ""; // 清空輸入框
+            }
+        }
+
+        // 4. 移除特定的「題材標籤」
+        window.removeTheme = function(theme) {
+            if (!currentStockId) return;
+            const s = db.find(x => x.id === currentStockId);
+            if (s && s.themes) {
+                s.themes = s.themes.filter(t => t !== theme); // 過濾掉該標籤
+                saveToLocal();
+                loadStock(currentStockId);
+                renderSidebar();
+            }
         }
     </script>
 </body>
 </html>
+
+
