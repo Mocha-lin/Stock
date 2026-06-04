@@ -301,6 +301,21 @@
                         </div>
                     </div>
                 </div>
+                
+                <!-- 🌍 產能地圖與場址資訊區塊 (填補在空白處) -->
+                <div class="glass-panel p-6 mb-8 hidden" id="facility_map_panel">
+                    <div class="header-title text-[#8B7355] border-b-2 border-[#E5E7EB]">
+                        <span><i class="fas fa-map-marked-alt mr-2"></i>全球產能佈局與擴廠追蹤</span>
+                    </div>
+                    <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                        <!-- 地圖容器 -->
+                        <div id="facility_map" class="h-[350px] w-full rounded-lg border border-gray-200 z-10 relative"></div>
+                        <!-- 廠房卡片清單 -->
+                        <div id="facility_cards" class="overflow-y-auto h-[350px] space-y-3 pr-2">
+                        </div>
+                    </div>
+                </div>
+
                 <!-- Industry Analysis (Block B) -->
                 <div class="grid grid-cols-1 lg:grid-cols-3 gap-8">
                     <!-- Left Column: Details -->
@@ -890,16 +905,19 @@
             // NEW: Returns Table
             let returns_table = d["6_含息年度報酬率 (Annual Returns)"]?.items?.annual_returns?.rows || [];
 
+            // 🌍 NEW: 場址與產能佈局 (越過 Gemini 直接讀取 JSON A)
+            let facilities_data = d["6-2_場址與產能佈局 (Facilities)"]?.items || [];
+
             return {
                 id: header.stock_id,
                 name: name,
                 lastUpdated: header.generated_at,
-                reportDate: header.generated_at, // 新增：獨立保存 AI 報告產出時間，不被股價更新覆蓋
+                reportDate: header.generated_at,
                 ai_model: "Fact-Update",
                 basicInfo: { price, change, changePercent },
                 financials: {
                     revenue_trend, eps_table, cashflow_table, quality_table, kpi_table, structure_table, pe_table, capital_table, chips_table, c_score_data, returns_table,
-                    contract_table, utilization_table, integrated_table, // 新增這三個
+                    contract_table, utilization_table, integrated_table, facilities_data,
                     kline_data: kline_data,
                     valuation: { pb: '-', roe: '-', pe_status: '-' }
                 },
@@ -1246,7 +1264,8 @@ async function syncData(force = false) {
             const m = document.getElementById('d_memo');
             m.value = s.memo||"";
             m.oninput = ()=>{ const target = db.find(x => x.id === currentStockId); if(target) { target.memo = m.value; saveToLocal(); } };
-             // ==========================================
+
+            // ==========================================
             // 🌍 渲染產能地圖與廠房卡片 (直接讀取 JSON A)
             // ==========================================
             const facPanel = document.getElementById('facility_map_panel');
@@ -1319,6 +1338,11 @@ async function syncData(force = false) {
             } else {
                 if(facPanel) facPanel.classList.add('hidden');
             }
+
+            // ==========================================
+            // 0. Industry Analysis
+            // ==========================================
+            if (s.industry_analysis) {
                 const ind = s.industry_analysis;
                 let stars = '';
                 const rating = ind.moat?.rating || 0;
