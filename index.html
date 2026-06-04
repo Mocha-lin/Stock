@@ -730,10 +730,25 @@
         // --------------------------------------
         // Import Logic (Merged)
         // --------------------------------------
-        function importJSON() {
+        async function importJSON() {
             try {
                 const raw = JSON.parse(document.getElementById('jsonInput').value);
+                let targetId = raw.id || (raw.analysis_header && raw.analysis_header.stock_id);
                 
+                // 🔥 核心防護：避免直接匯入 JSON A 導致系統漏抓 JSON B
+                if (targetId) {
+                    const idx = db.findIndex(x => x.id === targetId);
+                    if (idx !== -1 && !db[idx].financials) {
+                        try {
+                            const res = await fetch(`./details/${targetId}.json?t=${Date.now()}`);
+                            if (res.ok) {
+                                const detail = await res.json();
+                                db[idx] = { ...db[idx], ...detail };
+                            }
+                        } catch (e) {}
+                    }
+                }
+
                 // Block B Merge
                 if (raw.id && (raw.revenue_predictions || raw.eps_predictions || raw.technical_analysis || raw.ai_message_board || raw.industry_analysis || raw.c_model || raw.risk_evaluation) && !raw.financials) {
                     const idx = db.findIndex(s => s.id === raw.id);
@@ -907,13 +922,10 @@
             // NEW: Returns Table
             let returns_table = d["6_含息年度報酬率 (Annual Returns)"]?.items?.annual_returns?.rows || [];
 
-            // 🌍 NEW: 場址與產能佈局 (安全提取陣列)
+            // 🌍 NEW: 場址與產能佈局 (安全讀取 JSON A 陣列結構)
             let facilities_data = [];
-            if (d["6-2_場址與產能佈局 (Facilities)"] && d["6-2_場址與產能佈局 (Facilities)"].items) {
-                const facItem = d["6-2_場址與產能佈局 (Facilities)"].items.facility_fact;
-                if (facItem && facItem.rows) {
-                    facilities_data = facItem.rows;
-                }
+            if (d["6-2_場址與產能佈局 (Facilities)"]?.items?.facility_fact?.rows) {
+                facilities_data = d["6-2_場址與產能佈局 (Facilities)"].items.facility_fact.rows;
             }
 
             return {
