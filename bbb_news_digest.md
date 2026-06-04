@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-04T11:54:01.449461+00:00
+> 更新時間：2026-06-04T16:14:46.936655+00:00
 
 ### ⚖️ 解說：英特爾將AI封裝緊縮變成代工捲土重來的考驗
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -122,21 +122,21 @@
 
 ---
 
+### ⚖️ 三星展示首個採用熱路徑塊冷卻的 HBM5 模型——與 SK 海力士的熱競賽即將展開
+- **題材**: `HBM記憶體` | **重要性**: `62`
+- **來源**: Tom's Hardware UK (2026-06-03T15:30:51Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 三星在台北 Computex 2026 上展示了其首個 HBM5 記憶體實體模型，將第八代 AI 記憶體與新的封裝內冷卻結構結合。
+- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/samsung-shows-first-hbm5-mockup-at-computex-with-heat-path-block-cooling)
+
+---
+
 ### ⚖️ AMD“必須重新設計”Ryzen 7 5800X3D 才能重新發布——十週年版晶片投入了“一整套工程工作”
 - **題材**: `半導體先進製程` | **重要性**: `62`
 - **來源**: Tom's Hardware UK (2026-06-02T10:41:03Z)
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: AMD剛剛重新推出了Ryzen 7 5800X3D，但它並不是像旋轉舊的製造流程那麼簡單，因為台積電使用的原始黏合方法已不再可用。
 - [原文連結](https://www.tomshardware.com/pc-components/cpus/amd-had-to-re-engineer-the-ryzen-7-5800x3d-for-a-re-release-10th-anniversary-edition-chip-had-a-whole-body-of-engineering-work-put-into-it)
-
----
-
-### ⚖️ Seven hospitalized after toxic gas fire at SK hynix advanced memory plant — Cheongju 4th campus incident today led to all 3,600 staff being evacuated
-- **題材**: `HBM記憶體` | **重要性**: `62`
-- **來源**: Tom's Hardware UK (2026-06-01T14:04:50Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 今天早些時候，由於使用氟氣的房間發生火災，數千名 SK 海力士員工逃離了工廠。
-- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/seven-hospitalized-after-toxic-gas-fire-at-sk-hynix-advanced-memory-plant-cheongju-4th-campus-incident-today-led-to-all-3-600-staff-being-evacuated)
 
 ---
 
