@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-05T12:08:37.505136+00:00
+> 更新時間：2026-06-05T15:45:56.125378+00:00
 
 ### 🚀 BE Epitaxy Semiconductor瞄準1.6T CPO，與AMD、MediaTek合作
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -82,15 +82,6 @@
 
 ---
 
-### 🚀 人工智慧需求與獲利樂觀提昇科技巨頭 5 月市值
-- **題材**: `HBM記憶體` | **重要性**: `70`
-- **來源**: CNA (2026-06-02T14:58:50Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 6 月 2 日：除了 Alphabet 之外，全球最有價值的科技公司 5 月市值增加了數十億美元，樂觀的獲利前景和對人工智慧晶片的強勁需求推動其股價上漲。蘋果、記憶體晶片製造商美光…
-- [原文連結](https://www.channelnewsasia.com/business/ai-demand-earnings-optimism-lift-tech-giants-market-value-in-may-6157051)
-
----
-
 ### ⚖️ 英特爾代工捲土重來取決於先進封裝
 - **題材**: `半導體先進製程` | **重要性**: `68`
 - **來源**: Digitimes (2026-05-29T04:05:41Z)
@@ -109,6 +100,15 @@
 
 ---
 
+### 🚀 英特爾神秘的新型資料中心 GPU 幾乎就是 Nvidia 的 Rubin CPX
+- **題材**: `AI伺服器` | **重要性**: `65`
+- **來源**: Theregister.com (2026-06-04T13:00:00Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 英特尔对其代号为“新月岛”的下一代数据中心 GPU 提供了新的见解。除了支援企業人工智慧部署之外，該 GPU 還可以填補 Nvidia 的 Rubin CPX GPU 留下的空白，該 GPU 在去年年底被收購後似乎被擱置…
+- [原文連結](https://www.theregister.com/ai-and-ml/2026/06/04/intels-new-gpu-is-what-nvidias-rubin-cpx-nearly-was/5250989)
+
+---
+
 ### 🚀 Cadence Design 與一家主要晶片製造商合作解決晶片尺寸限制，鞏固其在 2nm AI 晶片競賽中的地位
 - **題材**: `半導體先進製程` | **重要性**: `65`
 - **來源**: Barchart.com (2026-06-03T13:55:02Z)
@@ -124,6 +124,15 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 基準日經 225 指數首次突破 68,000 點，人工智慧驅動的購買狂潮絲毫沒有放緩的跡象。
 - [原文連結](https://www.aljazeera.com/economy/2026/6/3/japans-stock-market-hits-new-record-as-ai-boom-gathers-steam)
+
+---
+
+### 🚀 人工智慧需求與獲利樂觀提昇科技巨頭 5 月市值
+- **題材**: `HBM記憶體` | **重要性**: `65`
+- **來源**: CNA (2026-06-02T14:58:50Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 6 月 2 日：除了 Alphabet 之外，全球最有價值的科技公司 5 月市值增加了數十億美元，樂觀的獲利前景和對人工智慧晶片的強勁需求推動其股價上漲。蘋果、記憶體晶片製造商美光…
+- [原文連結](https://www.channelnewsasia.com/business/ai-demand-earnings-optimism-lift-tech-giants-market-value-in-may-6157051)
 
 ---
 
@@ -177,15 +186,6 @@
 
 從那時起已經過去了很多時間，當然，用戶對持續延遲的挫敗感與日俱增…
 - [原文連結](https://9to5mac.com/2026/06/04/privacy-may-still-be-apples-savior-when-it-comes-to-delayed-ai-features/)
-
----
-
-### ⚠️ 美國在貿易協定談判中對印度徵收強迫勞動關稅
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-06-03T05:46:05Z)
-- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 
-- [原文連結](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_010255e9-98c4-4527-ab5b-fd9a4ea696da)
 
 ---
 

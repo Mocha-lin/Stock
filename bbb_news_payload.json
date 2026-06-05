@@ -1,9 +1,9 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-06-05T12:08:37.505136+00:00",
+  "generated_at": "2026-06-05T15:45:56.125378+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
-  "total_count": 69,
+  "total_count": 70,
   "items": [
     {
       "id": "b4533b2ff166cf87",
@@ -348,41 +348,6 @@
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
-      "id": "73113ab030bb299f",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "人工智慧需求與獲利樂觀提昇科技巨頭 5 月市值",
-      "summary": "6 月 2 日：除了 Alphabet 之外，全球最有價值的科技公司 5 月市值增加了數十億美元，樂觀的獲利前景和對人工智慧晶片的強勁需求推動其股價上漲。蘋果、記憶體晶片製造商美光…",
-      "original_title": "AI demand, earnings optimism lift tech giants' market value in May",
-      "url": "https://www.channelnewsasia.com/business/ai-demand-earnings-optimism-lift-tech-giants-market-value-in-may-6157051",
-      "source": "CNA",
-      "domain": "channelnewsasia.com",
-      "published_at": "2026-06-02T14:58:50Z",
-      "importance": 70,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
       "id": "8f7bc7b827c095ac",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -459,6 +424,44 @@
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "b8b658e41fe330e1",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "英特爾神秘的新型資料中心 GPU 幾乎就是 Nvidia 的 Rubin CPX",
+      "summary": "英特尔对其代号为“新月岛”的下一代数据中心 GPU 提供了新的见解。除了支援企業人工智慧部署之外，該 GPU 還可以填補 Nvidia 的 Rubin CPX GPU 留下的空白，該 GPU 在去年年底被收購後似乎被擱置…",
+      "original_title": "Intel's mysterious new datacenter GPU is what Nvidia's Rubin CPX nearly was",
+      "url": "https://www.theregister.com/ai-and-ml/2026/06/04/intels-new-gpu-is-what-nvidias-rubin-cpx-nearly-was/5250989",
+      "source": "Theregister.com",
+      "domain": "theregister.com",
+      "published_at": "2026-06-04T13:00:00Z",
+      "importance": 65,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "2873c0cdebb369a8",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -508,6 +511,41 @@
       "source": "Al Jazeera English",
       "domain": "aljazeera.com",
       "published_at": "2026-06-03T05:56:30Z",
+      "importance": 65,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "73113ab030bb299f",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "人工智慧需求與獲利樂觀提昇科技巨頭 5 月市值",
+      "summary": "6 月 2 日：除了 Alphabet 之外，全球最有價值的科技公司 5 月市值增加了數十億美元，樂觀的獲利前景和對人工智慧晶片的強勁需求推動其股價上漲。蘋果、記憶體晶片製造商美光…",
+      "original_title": "AI demand, earnings optimism lift tech giants' market value in May",
+      "url": "https://www.channelnewsasia.com/business/ai-demand-earnings-optimism-lift-tech-giants-market-value-in-may-6157051",
+      "source": "CNA",
+      "domain": "channelnewsasia.com",
+      "published_at": "2026-06-02T14:58:50Z",
       "importance": 65,
       "impact": "positive",
       "timeframe": "short_term",
@@ -871,18 +909,18 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "b47078e1c4b2b137",
+      "id": "086a8fea409f3266",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "半導體先進製程",
-      "title": "AMD“必須重新設計”Ryzen 7 5800X3D 才能重新發布——十週年版晶片投入了“一整套工程工作”",
-      "summary": "AMD剛剛重新推出了Ryzen 7 5800X3D，但它並不是像旋轉舊的製造流程那麼簡單，因為台積電使用的原始黏合方法已不再可用。",
-      "original_title": "AMD ‘had to re-engineer’ the Ryzen 7 5800X3D for a re-release — 10th Anniversary Edition chip had ‘a whole body of engineering work’ put into it",
-      "url": "https://www.tomshardware.com/pc-components/cpus/amd-had-to-re-engineer-the-ryzen-7-5800x3d-for-a-re-release-10th-anniversary-edition-chip-had-a-whole-body-of-engineering-work-put-into-it",
-      "source": "Tom's Hardware UK",
-      "domain": "tomshardware.com",
-      "published_at": "2026-06-02T10:41:03Z",
-      "importance": 57,
+      "title": "台積電難以滿足人工智慧需求：“我們只能支援這麼多”",
+      "summary": "台灣積體電路製造公司",
+      "original_title": "TSMC struggles to keep up with AI demand: ‘We can only support so much’",
+      "url": "https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "published_at": "2026-06-04T14:15:44Z",
+      "importance": 58,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -942,6 +980,82 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "d50c20ac6bd96b08",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "Galaxy Z Flip 8可能會效仿Galaxy S系列採用雙晶片策略",
+      "summary": "有新傳言稱，三星今年可能會對 Galaxy Z Flip 8 的晶片策略採取一些不同的做法。",
+      "original_title": "Galaxy Z Flip 8 could follow Galaxy S series with a dual-chip strategy",
+      "url": "https://www.androidauthority.com/galaxy-z-flip-8-dual-chip-3674561/",
+      "source": "Android Authority",
+      "domain": "androidauthority.com",
+      "published_at": "2026-06-04T15:43:20Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "290b47ecc8d728cb",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "天然氣價格正在下降。它會持續嗎？專家講解",
+      "summary": "油價下跌為加油站帶來了可喜的緩解。",
+      "original_title": "Gas prices are falling. Will it last? Experts explain",
+      "url": "https://abcnews.com/Business/gas-prices-falling-despite-iran-wars-impact/story?id=133512116",
+      "source": "Abcnews.com",
+      "domain": "abcnews.com",
+      "published_at": "2026-06-04T13:33:33Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "5f22a9f6ad3a3175",
@@ -1170,79 +1284,6 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "67b292d7c99053ca",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "黃仁勳稱加州一家晶片製造商為「下一個兆美元」公司，股價飆升 20%",
-      "summary": "在 Nvidia 執行長讚揚了這家不太知名的晶片製造商之後，Marvell Technology 的股價在盤外交易中上漲了 20% 以上。",
-      "original_title": "Jensen Huang called a California chipmaker the 'next trillion-dollar' company, and its shares spiked 20%",
-      "url": "https://www.businessinsider.com/jensen-huang-nvidia-marvell-next-1-trillion-company-stock-spikes-2026-6",
-      "source": "Business Insider",
-      "domain": "businessinsider.com",
-      "published_at": "2026-06-02T12:21:20Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "7bc98251efc88320",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "分析英偉達 (Nvidia) 的推動如何推動節儉的美光 (Micron) 進入人工智慧熱潮並實現 1 兆美元的市值",
-      "summary": "",
-      "original_title": "AnalysisHow a nudge from Nvidia propelled frugal Micron into the AI boom and a $1 trillion market cap",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e9394e01-b166-4af3-a6f8-d79e55a81192",
-      "source": "Yahoo Entertainment",
-      "domain": "consent.yahoo.com",
-      "published_at": "2026-06-02T12:09:39Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "cac8dc0247b240d3",
@@ -1511,7 +1552,7 @@
       "id": "7d574f72afe522ac",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
+      "theme": "HBM記憶體",
       "title": "人工智慧晶片熱潮帶動韓國出口成長創四年新高",
       "summary": "作者：Jihoon Lee 首爾，6 月 1 日（路透社）",
       "original_title": "South Korea export growth hits four-decade high on AI chip boom",
@@ -1523,17 +1564,14 @@
       "impact": "positive",
       "timeframe": "short_term",
       "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
+        "HBM",
+        "記憶體"
       ],
       "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
       ],
       "related_models": [
         "003",
@@ -1543,7 +1581,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "9b82af0e4b6b5750",
@@ -1809,82 +1847,6 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "385e6d9709a2176b",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "如果沒有川普，對抗通膨的戰爭就快結束了",
-      "summary": "如果除了美國最糟糕的人以外的任何人擔任總統，我們的經濟將會完全不同。",
-      "original_title": "The War Against Inflation Would Nearly Be Over If Not for Trump",
-      "url": "https://www.jezebel.com/the-war-against-inflation-would-nearly-be-over-if-not-for-trump",
-      "source": "Jezebel",
-      "domain": "jezebel.com",
-      "published_at": "2026-05-29T14:51:08Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "c421913c9e96f8cc",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "印度警告將迎來11年來最弱季風 通膨風險上升",
-      "summary": "作者：Rajendra Jadhav 和 Mayank Bhardwaj 孟買/新德里，5 月 29 日（路透社）",
-      "original_title": "India warns of weakest monsoon in 11 years, inflation risks rise",
-      "url": "https://finance.yahoo.com/news/india-expected-below-average-monsoon-042609869.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-05-29T14:16:29Z",
-      "importance": 55,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "8cfd2b981b7e503c",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1921,6 +1883,79 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "67b292d7c99053ca",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "黃仁勳稱加州一家晶片製造商為「下一個兆美元」公司，股價飆升 20%",
+      "summary": "在 Nvidia 執行長讚揚了這家不太知名的晶片製造商之後，Marvell Technology 的股價在盤外交易中上漲了 20% 以上。",
+      "original_title": "Jensen Huang called a California chipmaker the 'next trillion-dollar' company, and its shares spiked 20%",
+      "url": "https://www.businessinsider.com/jensen-huang-nvidia-marvell-next-1-trillion-company-stock-spikes-2026-6",
+      "source": "Business Insider",
+      "domain": "businessinsider.com",
+      "published_at": "2026-06-02T12:21:20Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "7bc98251efc88320",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "分析英偉達 (Nvidia) 的推動如何推動節儉的美光 (Micron) 進入人工智慧熱潮並實現 1 兆美元的市值",
+      "summary": "",
+      "original_title": "AnalysisHow a nudge from Nvidia propelled frugal Micron into the AI boom and a $1 trillion market cap",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e9394e01-b166-4af3-a6f8-d79e55a81192",
+      "source": "Yahoo Entertainment",
+      "domain": "consent.yahoo.com",
+      "published_at": "2026-06-02T12:09:39Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "63653f7dada344c3",
@@ -2338,17 +2373,17 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "ad2cb9f2291da502",
+      "id": "385e6d9709a2176b",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "總體風險",
-      "title": "聯準會鮑曼表示，長期的能源衝擊可能會推動政策前景的轉變",
-      "summary": "5月29日（路透）",
-      "original_title": "Fed's Bowman says extended energy shock could drive shift in policy outlook",
-      "url": "https://finance.yahoo.com/news/feds-bowman-says-extended-energy-130013396.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-05-29T13:08:20Z",
+      "title": "如果沒有川普，對抗通膨的戰爭就快結束了",
+      "summary": "如果除了美國最糟糕的人以外的任何人擔任總統，我們的經濟將會完全不同。",
+      "original_title": "The War Against Inflation Would Nearly Be Over If Not for Trump",
+      "url": "https://www.jezebel.com/the-war-against-inflation-would-nearly-be-over-if-not-for-trump",
+      "source": "Jezebel",
+      "domain": "jezebel.com",
+      "published_at": "2026-05-29T14:51:08Z",
       "importance": 50,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -2411,6 +2446,44 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "ad2cb9f2291da502",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "聯準會鮑曼表示，長期的能源衝擊可能會推動政策前景的轉變",
+      "summary": "5月29日（路透）",
+      "original_title": "Fed's Bowman says extended energy shock could drive shift in policy outlook",
+      "url": "https://finance.yahoo.com/news/feds-bowman-says-extended-energy-130013396.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-05-29T13:08:20Z",
+      "importance": 45,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
+    },
+    {
       "id": "093a1555cf2699ad",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2444,44 +2517,6 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "fefb795338a6b0f8",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "聯發科天璣9600系列2nm晶片瞄準旗艦霸主地位",
-      "summary": "The upcoming processor lineup includes the company's first Pro-branded mobile chip, promising major performance gains",
-      "original_title": "MediaTek Dimensity 9600 series targets flagship dominance with 2nm chips",
-      "url": "https://www.intomobile.com/2026/05/29/mediatek-dimensity-9600-series-targets-flagship-dominance-with-2nm-chips/",
-      "source": "Intomobile.com",
-      "domain": "intomobile.com",
-      "published_at": "2026-05-29T08:07:05Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     },
     {
       "id": "e3c55ca042bf8abc",
