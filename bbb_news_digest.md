@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-05T15:45:56.125378+00:00
+> 更新時間：2026-06-05T18:53:04.286207+00:00
 
 ### 🚀 BE Epitaxy Semiconductor瞄準1.6T CPO，與AMD、MediaTek合作
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -100,6 +100,15 @@
 
 ---
 
+### ⚖️ 台積電執行長 C.C.魏說，「我們需要很長時間才能滿足客戶的需求」——他告訴股東，他將保持價格穩定，不會實施漲價
+- **題材**: `半導體先進製程` | **重要性**: `67`
+- **來源**: Tom's Hardware UK (2026-06-04T16:18:52Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 台積電執行長 C.C. 表示，它沒有足夠的能力來滿足人工智慧超大規模企業的所有需求。魏表示，還需要很長時間才能滿足客戶的需求。不過，這對英特爾來說是一個機會，因為公司迫切希望獲得…
+- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/tsmc-ceo-c-c-wei-says-it-will-be-a-long-time-before-we-can-meet-customer-demand-tells-shareholders-that-he-will-keep-prices-stable-refrain-from-implementing-price-hikes)
+
+---
+
 ### 🚀 英特爾神秘的新型資料中心 GPU 幾乎就是 Nvidia 的 Rubin CPX
 - **題材**: `AI伺服器` | **重要性**: `65`
 - **來源**: Theregister.com (2026-06-04T13:00:00Z)
@@ -173,19 +182,6 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 三星在台北 Computex 2026 上展示了其首個 HBM5 記憶體實體模型，將第八代 AI 記憶體與新的封裝內冷卻結構結合。
 - [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/samsung-shows-first-hbm5-mockup-at-computex-with-heat-path-block-cooling)
-
----
-
-### ⚠️ 當談到延遲的人工智慧功能時，隱私可能仍然是蘋果的救星
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: 9to5Mac (2026-06-04T11:17:58Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 18 個多月前，我曾發​​表過一篇評論文章，指出雖然等待新 Siri 的過程令人沮喪，但隱私方面的回報是值得的。
-
-
-
-從那時起已經過去了很多時間，當然，用戶對持續延遲的挫敗感與日俱增…
-- [原文連結](https://9to5mac.com/2026/06/04/privacy-may-still-be-apples-savior-when-it-comes-to-delayed-ai-features/)
 
 ---
 
