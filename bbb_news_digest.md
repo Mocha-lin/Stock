@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-05T08:54:45.890755+00:00
+> 更新時間：2026-06-05T12:08:37.505136+00:00
 
 ### 🚀 BE Epitaxy Semiconductor瞄準1.6T CPO，與AMD、MediaTek合作
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -167,12 +167,16 @@
 
 ---
 
-### ⚖️ AMD“必須重新設計”Ryzen 7 5800X3D 才能重新發布——十週年版晶片投入了“一整套工程工作”
-- **題材**: `半導體先進製程` | **重要性**: `62`
-- **來源**: Tom's Hardware UK (2026-06-02T10:41:03Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: AMD剛剛重新推出了Ryzen 7 5800X3D，但它並不是像旋轉舊的製造流程那麼簡單，因為台積電使用的原始黏合方法已不再可用。
-- [原文連結](https://www.tomshardware.com/pc-components/cpus/amd-had-to-re-engineer-the-ryzen-7-5800x3d-for-a-re-release-10th-anniversary-edition-chip-had-a-whole-body-of-engineering-work-put-into-it)
+### ⚠️ 當談到延遲的人工智慧功能時，隱私可能仍然是蘋果的救星
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: 9to5Mac (2026-06-04T11:17:58Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 18 個多月前，我曾發​​表過一篇評論文章，指出雖然等待新 Siri 的過程令人沮喪，但隱私方面的回報是值得的。
+
+
+
+從那時起已經過去了很多時間，當然，用戶對持續延遲的挫敗感與日俱增…
+- [原文連結](https://9to5mac.com/2026/06/04/privacy-may-still-be-apples-savior-when-it-comes-to-delayed-ai-features/)
 
 ---
 
