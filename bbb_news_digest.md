@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-06T04:46:54.310556+00:00
+> 更新時間：2026-06-06T07:41:18.846615+00:00
 
 ### 🚀 BE Epitaxy Semiconductor瞄準1.6T CPO，與AMD、MediaTek合作
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -25,6 +25,15 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 英特爾的代工復興可能更取決於它能否將人工智慧驅動的需求轉化為有利可圖的先進封裝業務，而不是在最先進的製程節點上擊敗台積電。
 - [原文連結](https://www.digitimes.com/news/a20260601PD219/intel-packaging-tsmc-advanced-process-demand.html)
+
+---
+
+### ⚖️ Nvidia 的 Jensen Huang 將與 HBM 領域以外的韓國商界領袖會面
+- **題材**: `HBM記憶體` | **重要性**: `73`
+- **來源**: Digitimes (2026-06-05T04:49:58Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Nvidia 執行長黃仁勳將於 6 月 5 日訪問韓國，與韓國主要商界領袖會面，該公司與當地公司的合作範圍已從高頻寬記憶體擴展到機器人、汽車、遊戲和雲端基礎設施。
+- [原文連結](https://www.digitimes.com/news/a20260605VL207/nvidia-jensen-huang-south-korea-gaming-robotics-business.html)
 
 ---
 
@@ -100,6 +109,15 @@
 
 ---
 
+### 🚀 黃仁勳為何要在韓國發動魅力攻勢
+- **題材**: `HBM記憶體` | **重要性**: `65`
+- **來源**: Business Insider (2026-06-05T06:15:57Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 英偉達執行長黃仁勳對韓國的訪問凸顯了該國人工智慧的繁榮以及在全球半導體供應鏈中日益重要的地位。
+- [原文連結](https://www.businessinsider.com/nvidia-jensen-huang-south-korea-ai-trade-samsung-sk-hynix-2026-6)
+
+---
+
 ### ⚠️ 黃仁勳 700 億美元的代言並沒有消除 Marvell 的風險
 - **題材**: `半導體先進製程` | **重要性**: `65`
 - **來源**: Trefis (2026-06-04T14:54:00Z)
@@ -124,15 +142,6 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 該公司最近與三星代工廠的合作將有助於更好更快地測試和模擬 2nm 製程設計。
 - [原文連結](https://www.barchart.com/story/news/2283174/cadence-design-is-cementing-its-place-in-the-2nm-ai-chip-race-by-solving-the-die-size-limit-in-partnership-with-a-major-chipmaker)
-
----
-
-### 🚀 隨著人工智慧熱潮積聚，日本股市創下新高
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: Al Jazeera English (2026-06-03T05:56:30Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 基準日經 225 指數首次突破 68,000 點，人工智慧驅動的購買狂潮絲毫沒有放緩的跡象。
-- [原文連結](https://www.aljazeera.com/economy/2026/6/3/japans-stock-market-hits-new-record-as-ai-boom-gathers-steam)
 
 ---
 
@@ -169,15 +178,6 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 三星在台北 Computex 2026 上展示了其首個 HBM5 記憶體實體模型，將第八代 AI 記憶體與新的封裝內冷卻結構結合。
 - [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/samsung-shows-first-hbm5-mockup-at-computex-with-heat-path-block-cooling)
-
----
-
-### ⚠️ 關於川普全面的新關稅提案需要了解什麼
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Abcnews.com (2026-06-04T21:05:14Z)
-- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 該措施可能對 60 個美國貿易夥伴徵收關稅。
-- [原文連結](https://abcnews.com/Business/trumps-sweeping-new-tariff-proposal/story?id=133584802)
 
 ---
 
