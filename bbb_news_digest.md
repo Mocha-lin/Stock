@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-05T20:44:31.608254+00:00
+> 更新時間：2026-06-06T00:07:09.879762+00:00
 
 ### 🚀 BE Epitaxy Semiconductor瞄準1.6T CPO，與AMD、MediaTek合作
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -7,6 +7,33 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 隨著 800G 和 1.6T 共封裝光學元件 (CPO) 的需求呈爆炸性增長，矽光子 (SiPh) 晶片設計公司 BE Epitaxy Semiconductor 將於 2025 年實現盈利。在 AMD 和聯發科的訂單和資金支持下，該公司正在使用精益資產…
 - [原文連結](https://www.digitimes.com/news/a20260603PD226/cpo-amd-siph-mediatek-photonics.html)
+
+---
+
+### 🚀 大立光電首次亮相台北國際電腦展，CPO 推動人工智慧資料中心
+- **題材**: `光通訊與矽光子` | **重要性**: `83`
+- **來源**: Digitimes (2026-06-03T01:50:54Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Largan Precision's debut at Computex 2026 signals a broader push into optical communications that could matter for AI data center supply chains worldwide. The Taiwan company is seeking new growth beyond lenses, and its co-packaged optics efforts reflect risin…
+- [原文連結](https://www.digitimes.com/news/a20260603PD205/largan-precision-cpo-data-center-production-computex-2026.html)
+
+---
+
+### 🚀 富士康、英特爾連動AI基礎設施推動晶片、機架和系統
+- **題材**: `光通訊與矽光子` | **重要性**: `78`
+- **來源**: Digitimes (2026-06-04T23:45:16Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 6月4日，富士康宣布與英特爾達成策略夥伴關係，共同探索跨晶片、機架、系統、應用的端到端AI解決方案，合作涵蓋AI機架基礎設施、邊緣AI和實體AI平台。此次合作也將…
+- [原文連結](https://www.digitimes.com/news/a20260604PD233/foxconn-intel-infrastructure-chips-partnership.html)
+
+---
+
+### 🚀 GSEO將原棕油業務視為2027年至2028年潛在的第二成長引擎
+- **題材**: `光通訊與矽光子` | **重要性**: `78`
+- **來源**: Digitimes (2026-06-02T22:47:09Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 天才電子光學公司（GSEO）5月29日表示，其共封裝光學（CPO）業務將在2027年和2028年邁向快速成長，出貨量最終可能與智慧型手機鏡頭相媲美，成為第二大收入來源。
+- [原文連結](https://www.digitimes.com/news/a20260601PD216/gseo-cpo-business-growth-2027.html)
 
 ---
 
@@ -73,30 +100,12 @@
 
 ---
 
-### 🚀 GSEO 表示，CPO 將成為下一個主要成長動力；未來的銷售量可能會與智慧型手機鏡頭相提並論
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-05-29T07:04:05Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 5月29日，玉晶光電召開股東大會，董事長陳瓊斯、總裁郭英利出席。 GSEO 報告 2025 年獨立營收為新台幣 208.9 億元（約 6.657 億美元），比新台幣 184.96 億元增長 13%…
-- [原文連結](https://www.digitimes.com/news/a20260529PD245/gseo-cpo-growth-smartphone-revenue.html)
-
----
-
-### ⚖️ 英特爾代工捲土重來取決於先進封裝
-- **題材**: `半導體先進製程` | **重要性**: `68`
-- **來源**: Digitimes (2026-05-29T04:05:41Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 根據 ETNews 報導，英特爾正在大力推進先進半導體封裝，以加強其代工業務並擴大其嵌入式多晶片互連橋（EMIB）技術的產能。
-- [原文連結](https://www.digitimes.com/news/a20260529VL214/intel-packaging-technology-equipment-investment.html)
-
----
-
-### 🚀 富士康AI伺服器份額突破40%，CPO領先地位在望
-- **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-05-29T02:51:52Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 富士康表示，隨著全球雲端支出的增加以及對運算基礎設施的需求在全球蔓延，其人工智慧伺服器業務正在迅速擴大。董事長 Young Liu 表示，公司正致力於機架、光學和半導體領域的持續成長，同時…
-- [原文連結](https://www.digitimes.com/news/a20260529PD224/foxconn-ai-server-cpo-business-2026.html)
+### 🚀 轉移吧，華麗的 7。交易者紛紛湧向 SanDisk、Marvell、Micron 和 Parabolic 7
+- **題材**: `HBM記憶體` | **重要性**: `70`
+- **來源**: 24/7 Wall St. (2026-06-03T19:12:27Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 华丽七号迎来了新的挑战者。策略師本·埃蒙斯 (Ben Emons) 在 X 上經彭博社 (Bloomberg) 的喬·維森塔爾 (Joe Weisenthal) 放大的帖子中稱，一籃子有 7 個...
+- [原文連結](https://247wallst.com/investing/2026/06/03/move-over-magnificent-7-traders-are-flocking-to-sandisk-marvell-micron-and-the-parabolic-7/)
 
 ---
 
@@ -106,6 +115,15 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 台積電執行長 C.C. 表示，它沒有足夠的能力來滿足人工智慧超大規模企業的所有需求。魏表示，還需要很長時間才能滿足客戶的需求。不過，這對英特爾來說是一個機會，因為公司迫切希望獲得…
 - [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/tsmc-ceo-c-c-wei-says-it-will-be-a-long-time-before-we-can-meet-customer-demand-tells-shareholders-that-he-will-keep-prices-stable-refrain-from-implementing-price-hikes)
+
+---
+
+### ⚠️ 黃仁勳 700 億美元的代言並沒有消除 Marvell 的風險
+- **題材**: `半導體先進製程` | **重要性**: `65`
+- **來源**: Trefis (2026-06-04T14:54:00Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 一則評論能否一夜之間為一家公司增加超過 700 億美元的市值？
+- [原文連結](https://www.trefis.com/articles/601286/jensen-huangs-70-billion-endorsement-didnt-eliminate-marvells-risks/2026-06-04)
 
 ---
 
@@ -154,34 +172,12 @@
 
 ---
 
-### 🚀 戴爾股價一日飆升 32%。人工智慧伺服器的巨額收入令分析師震驚
-- **題材**: `AI伺服器` | **重要性**: `65`
-- **來源**: Slashdot.org (2026-05-29T23:34:00Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 據 CNBC 報道，戴爾股價週五飆升 32.76%，“這是有史以來最好的一天”，此前戴爾“報告了自 2018 年重返公開市場以來任何時期以來最快的收入增長速度……”
-
-“到 2026 年，股价将上涨 234%。”
-
-戴爾報告稱...
-- [原文連結](https://slashdot.org/story/26/05/29/2033206/dell-stock-surges-32-in-one-day-big-revenue-from-ai-servers-stuns-analysts)
-
----
-
 ### ⚖️ AuthenX 透過可拆卸的元透鏡 FAU 解決 CPO 瓶頸
 - **題材**: `光通訊與矽光子` | **重要性**: `63`
 - **來源**: Digitimes (2026-05-31T23:53:43Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: AuthenX 正準備在 COMPUTEX 2026 上展示可拆卸的 2D 光纖陣列單元，這家台灣光通訊公司致力於解決共封裝光學元件中的封裝和對準挑戰。
 - [原文連結](https://www.digitimes.com/news/a20260529PD204/production-12-inch-commercial-wafer-silicon.html)
-
----
-
-### ⚖️ 三星展示首個採用熱路徑塊冷卻的 HBM5 模型——與 SK 海力士的熱競賽即將展開
-- **題材**: `HBM記憶體` | **重要性**: `62`
-- **來源**: Tom's Hardware UK (2026-06-03T15:30:51Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 三星在台北 Computex 2026 上展示了其首個 HBM5 記憶體實體模型，將第八代 AI 記憶體與新的封裝內冷卻結構結合。
-- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/samsung-shows-first-hbm5-mockup-at-computex-with-heat-path-block-cooling)
 
 ---
 
