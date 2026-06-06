@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-06T14:22:46.216550+00:00
+> 更新時間：2026-06-06T16:00:06.756708+00:00
 
 ### 🚀 2026 年第二季全球三大記憶體製造商地位：價格飆升和人工智慧需求鎖定強勁的記憶體賣方市場
 - **題材**: `HBM記憶體` | **重要性**: `83`
@@ -163,21 +163,21 @@
 
 ---
 
-### ⚖️ 三星展示首個採用熱路徑塊冷卻的 HBM5 模型——與 SK 海力士的熱競賽即將展開
-- **題材**: `HBM記憶體` | **重要性**: `62`
-- **來源**: Tom's Hardware UK (2026-06-03T15:30:51Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 三星在台北 Computex 2026 上展示了其首個 HBM5 記憶體實體模型，將第八代 AI 記憶體與新的封裝內冷卻結構結合。
-- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/samsung-shows-first-hbm5-mockup-at-computex-with-heat-path-block-cooling)
-
----
-
 ### ⚖️ 台積電與 Nvidia 簽署重大人工智慧協議
 - **題材**: `半導體先進製程` | **重要性**: `60`
 - **來源**: Yahoo Entertainment (2026-06-05T09:59:40Z)
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 台積電（NYSE：TSM）或台積電是高盛目前最值得購買的科技股之一。高盛擁有超過 3.17 美元...
 - [原文連結](https://finance.yahoo.com/sectors/technology/articles/taiwan-semiconductor-manufacturing-signs-major-095940607.html)
+
+---
+
+### ⚠️ 關於川普全面的新關稅提案需要了解什麼
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Abcnews.com (2026-06-04T21:05:14Z)
+- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 該措施可能對 60 個美國貿易夥伴徵收關稅。
+- [原文連結](https://abcnews.com/Business/trumps-sweeping-new-tariff-proposal/story?id=133584802)
 
 ---
 
