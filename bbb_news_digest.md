@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-06T10:53:43.556608+00:00
+> 更新時間：2026-06-06T14:22:46.216550+00:00
 
 ### 🚀 2026 年第二季全球三大記憶體製造商地位：價格飆升和人工智慧需求鎖定強勁的記憶體賣方市場
 - **題材**: `HBM記憶體` | **重要性**: `83`
@@ -46,15 +46,6 @@
 
 ---
 
-### ⚖️ 台積電競相擴大AI晶片產能，CPO和CoWoS登上舞台中心
-- **題材**: `半導體先進製程` | **重要性**: `73`
-- **來源**: Digitimes (2026-06-02T06:15:00Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Nvidia GTC 台北大會於 6 月 1 日開幕，執行長黃仁勳發表了精彩的主題演講，並揭開了廣受關注的台灣供應鍊板的面紗。
-- [原文連結](https://www.digitimes.com/news/a20260601PD231/tsmc-capacity-nvidia-cpo-gtc.html)
-
----
-
 ### 🚀 分析：先進封裝從台積電主導轉向產業合作
 - **題材**: `半導體先進製程` | **重要性**: `73`
 - **來源**: Digitimes (2026-06-01T22:59:37Z)
@@ -97,6 +88,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 佳世達董事長陳彼得表示，集團不會錯過人工智慧熱潮，人工智慧伺服器、1.6T交換機、散熱系統和電源解決方案都已到位。由於訂單已在手且部分產品已準備好發貨，Qisda 預計…
 - [原文連結](https://www.digitimes.com/news/a20260603PD228/qisda-chairman-2026-infrastructure-business.html)
+
+---
+
+### ⚖️ 產業聯盟敦促川普政府採取緊急行動，因為人工智慧資料中心的極端記憶體消耗威脅到其他產業——人工智慧驅動的記憶體晶片短缺可能會提高汽車、醫療、電信產業的價格
+- **題材**: `HBM記憶體` | **重要性**: `67`
+- **來源**: Tom's Hardware UK (2026-06-05T12:20:01Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 由九個美國貿易協會組成的聯盟敦促川普政府解決人工智慧驅動的記憶體晶片短缺問題，並警告稱，DRAM 價格飆升和供應有限可能會增加消費性電子產品、汽車、醫療設備等的成本。
+- [原文連結](https://www.tomshardware.com/tech-industry/artificial-intelligence/industry-coalition-urges-trump-administration-to-take-urgent-action-as-ai-data-centers-extreme-memory-consumption-threatens-other-industries-ai-driven-memory-chip-shortage-could-raise-prices-in-automotive-medical-telecommunications-sectors)
 
 ---
 
@@ -172,12 +172,12 @@
 
 ---
 
-### ⚠️ 關於川普全面的新關稅提案需要了解什麼
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Abcnews.com (2026-06-04T21:05:14Z)
-- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 該措施可能對 60 個美國貿易夥伴徵收關稅。
-- [原文連結](https://abcnews.com/Business/trumps-sweeping-new-tariff-proposal/story?id=133584802)
+### ⚖️ 台積電與 Nvidia 簽署重大人工智慧協議
+- **題材**: `半導體先進製程` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-06-05T09:59:40Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 台積電（NYSE：TSM）或台積電是高盛目前最值得購買的科技股之一。高盛擁有超過 3.17 美元...
+- [原文連結](https://finance.yahoo.com/sectors/technology/articles/taiwan-semiconductor-manufacturing-signs-major-095940607.html)
 
 ---
 
