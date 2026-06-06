@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-06T17:58:33.220066+00:00
+> 更新時間：2026-06-06T20:01:52.867928+00:00
 
 ### 🚀 2026 年第二季全球三大記憶體製造商地位：價格飆升和人工智慧需求鎖定強勁的記憶體賣方市場
 - **題材**: `HBM記憶體` | **重要性**: `83`
@@ -73,15 +73,6 @@
 
 ---
 
-### 🚀 轉移吧，華麗的 7。交易者紛紛湧向 SanDisk、Marvell、Micron 和 Parabolic 7
-- **題材**: `HBM記憶體` | **重要性**: `70`
-- **來源**: 24/7 Wall St. (2026-06-03T19:12:27Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 华丽七号迎来了新的挑战者。策略師本·埃蒙斯 (Ben Emons) 在 X 上經彭博社 (Bloomberg) 的喬·維森塔爾 (Joe Weisenthal) 放大的帖子中稱，一籃子有 7 個...
-- [原文連結](https://247wallst.com/investing/2026/06/03/move-over-magnificent-7-traders-are-flocking-to-sandisk-marvell-micron-and-the-parabolic-7/)
-
----
-
 ### ⚖️ 佳世達椅子著眼2026年AI騰飛
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
 - **來源**: Digitimes (2026-06-03T08:33:47Z)
@@ -133,6 +124,15 @@
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 英特尔对其代号为“新月岛”的下一代数据中心 GPU 提供了新的见解。除了支援企業人工智慧部署之外，該 GPU 還可以填補 Nvidia 的 Rubin CPX GPU 留下的空白，該 GPU 在去年年底被收購後似乎被擱置…
 - [原文連結](https://www.theregister.com/ai-and-ml/2026/06/04/intels-new-gpu-is-what-nvidias-rubin-cpx-nearly-was/5250989)
+
+---
+
+### 🚀 轉移吧，華麗的 7。交易者紛紛湧向 SanDisk、Marvell、Micron 和 Parabolic 7
+- **題材**: `HBM記憶體` | **重要性**: `65`
+- **來源**: 24/7 Wall St. (2026-06-03T19:12:27Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 华丽七号迎来了新的挑战者。策略師本·埃蒙斯 (Ben Emons) 在 X 上經彭博社 (Bloomberg) 的喬·維森塔爾 (Joe Weisenthal) 放大的帖子中稱，一籃子有 7 個...
+- [原文連結](https://247wallst.com/investing/2026/06/03/move-over-magnificent-7-traders-are-flocking-to-sandisk-marvell-micron-and-the-parabolic-7/)
 
 ---
 
