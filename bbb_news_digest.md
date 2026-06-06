@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-06T00:07:09.879762+00:00
+> 更新時間：2026-06-06T04:46:54.310556+00:00
 
 ### 🚀 BE Epitaxy Semiconductor瞄準1.6T CPO，與AMD、MediaTek合作
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -7,15 +7,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 隨著 800G 和 1.6T 共封裝光學元件 (CPO) 的需求呈爆炸性增長，矽光子 (SiPh) 晶片設計公司 BE Epitaxy Semiconductor 將於 2025 年實現盈利。在 AMD 和聯發科的訂單和資金支持下，該公司正在使用精益資產…
 - [原文連結](https://www.digitimes.com/news/a20260603PD226/cpo-amd-siph-mediatek-photonics.html)
-
----
-
-### 🚀 大立光電首次亮相台北國際電腦展，CPO 推動人工智慧資料中心
-- **題材**: `光通訊與矽光子` | **重要性**: `83`
-- **來源**: Digitimes (2026-06-03T01:50:54Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Largan Precision's debut at Computex 2026 signals a broader push into optical communications that could matter for AI data center supply chains worldwide. The Taiwan company is seeking new growth beyond lenses, and its co-packaged optics efforts reflect risin…
-- [原文連結](https://www.digitimes.com/news/a20260603PD205/largan-precision-cpo-data-center-production-computex-2026.html)
 
 ---
 
@@ -28,30 +19,12 @@
 
 ---
 
-### 🚀 GSEO將原棕油業務視為2027年至2028年潛在的第二成長引擎
-- **題材**: `光通訊與矽光子` | **重要性**: `78`
-- **來源**: Digitimes (2026-06-02T22:47:09Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 天才電子光學公司（GSEO）5月29日表示，其共封裝光學（CPO）業務將在2027年和2028年邁向快速成長，出貨量最終可能與智慧型手機鏡頭相媲美，成為第二大收入來源。
-- [原文連結](https://www.digitimes.com/news/a20260601PD216/gseo-cpo-business-growth-2027.html)
-
----
-
 ### ⚖️ 解說：英特爾將AI封裝緊縮變成代工捲土重來的考驗
 - **題材**: `半導體先進製程` | **重要性**: `78`
 - **來源**: Digitimes (2026-06-01T22:59:51Z)
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 英特爾的代工復興可能更取決於它能否將人工智慧驅動的需求轉化為有利可圖的先進封裝業務，而不是在最先進的製程節點上擊敗台積電。
 - [原文連結](https://www.digitimes.com/news/a20260601PD219/intel-packaging-tsmc-advanced-process-demand.html)
-
----
-
-### 🚀 友達Micro LED CPO進入樣品階段
-- **題材**: `光通訊與矽光子` | **重要性**: `78`
-- **來源**: Digitimes (2026-05-30T03:54:18Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 友達光電進入 Micro LED 共封裝光學樣品領域，可能會為該顯示器製造商在尋求超越面板領域的擴張時提供新的成長路徑。董事長彭保羅表示，公司正在準備將光通訊模組作為未來收入和利潤的驅動力。
-- [原文連結](https://www.digitimes.com/news/a20260529PD218/auo-cpo-optics-technology-growth.html)
 
 ---
 
@@ -97,6 +70,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 生成式人工智慧正以超過關鍵運算閾值的速度發展，開啟了從「以晶片為中心到以互連為中心」架構時代的轉變。傳統銅纜的物理限製造成了整個產業的嚴重障礙…
 - [原文連結](https://www.digitimes.com/news/a20260527VL206/copper-cpo-silicon-capacity-infrastructure.html)
+
+---
+
+### 🚀 友達Micro LED CPO進入樣品階段
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-05-30T03:54:18Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 友達光電進入 Micro LED 共封裝光學樣品領域，可能會為該顯示器製造商在尋求超越面板領域的擴張時提供新的成長路徑。董事長彭保羅表示，公司正在準備將光通訊模組作為未來收入和利潤的驅動力。
+- [原文連結](https://www.digitimes.com/news/a20260529PD218/auo-cpo-optics-technology-growth.html)
 
 ---
 
@@ -178,6 +160,24 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: AuthenX 正準備在 COMPUTEX 2026 上展示可拆卸的 2D 光纖陣列單元，這家台灣光通訊公司致力於解決共封裝光學元件中的封裝和對準挑戰。
 - [原文連結](https://www.digitimes.com/news/a20260529PD204/production-12-inch-commercial-wafer-silicon.html)
+
+---
+
+### ⚖️ 三星展示首個採用熱路徑塊冷卻的 HBM5 模型——與 SK 海力士的熱競賽即將展開
+- **題材**: `HBM記憶體` | **重要性**: `62`
+- **來源**: Tom's Hardware UK (2026-06-03T15:30:51Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 三星在台北 Computex 2026 上展示了其首個 HBM5 記憶體實體模型，將第八代 AI 記憶體與新的封裝內冷卻結構結合。
+- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/samsung-shows-first-hbm5-mockup-at-computex-with-heat-path-block-cooling)
+
+---
+
+### ⚠️ 關於川普全面的新關稅提案需要了解什麼
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Abcnews.com (2026-06-04T21:05:14Z)
+- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 該措施可能對 60 個美國貿易夥伴徵收關稅。
+- [原文連結](https://abcnews.com/Business/trumps-sweeping-new-tariff-proposal/story?id=133584802)
 
 ---
 
