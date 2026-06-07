@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-07T16:04:45.573684+00:00
+> 更新時間：2026-06-07T17:56:54.792662+00:00
 
 ### 🚀 2026 年第二季全球三大記憶體製造商地位：價格飆升和人工智慧需求鎖定強勁的記憶體賣方市場
 - **題材**: `HBM記憶體` | **重要性**: `83`
@@ -91,15 +91,6 @@
 
 ---
 
-### ⚖️ 台積電執行長 C.C.魏說，「我們需要很長時間才能滿足客戶的需求」——他告訴股東，他將保持價格穩定，不會實施漲價
-- **題材**: `半導體先進製程` | **重要性**: `67`
-- **來源**: Tom's Hardware UK (2026-06-04T16:18:52Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 台積電執行長 C.C. 表示，它沒有足夠的能力來滿足人工智慧超大規模企業的所有需求。魏表示，還需要很長時間才能滿足客戶的需求。不過，這對英特爾來說是一個機會，因為公司迫切希望獲得…
-- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/tsmc-ceo-c-c-wei-says-it-will-be-a-long-time-before-we-can-meet-customer-demand-tells-shareholders-that-he-will-keep-prices-stable-refrain-from-implementing-price-hikes)
-
----
-
 ### 🚀 黃仁勳為何要在韓國發動魅力攻勢
 - **題材**: `HBM記憶體` | **重要性**: `65`
 - **來源**: Business Insider (2026-06-05T06:15:57Z)
@@ -151,6 +142,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: AuthenX 正準備在 COMPUTEX 2026 上展示可拆卸的 2D 光纖陣列單元，這家台灣光通訊公司致力於解決共封裝光學元件中的封裝和對準挑戰。
 - [原文連結](https://www.digitimes.com/news/a20260529PD204/production-12-inch-commercial-wafer-silicon.html)
+
+---
+
+### ⚖️ 台積電執行長 C.C.魏說，「我們需要很長時間才能滿足客戶的需求」——他告訴股東，他將保持價格穩定，不會實施漲價
+- **題材**: `半導體先進製程` | **重要性**: `62`
+- **來源**: Tom's Hardware UK (2026-06-04T16:18:52Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 台積電執行長 C.C. 表示，它沒有足夠的能力來滿足人工智慧超大規模企業的所有需求。魏表示，還需要很長時間才能滿足客戶的需求。不過，這對英特爾來說是一個機會，因為公司迫切希望獲得…
+- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/tsmc-ceo-c-c-wei-says-it-will-be-a-long-time-before-we-can-meet-customer-demand-tells-shareholders-that-he-will-keep-prices-stable-refrain-from-implementing-price-hikes)
 
 ---
 
