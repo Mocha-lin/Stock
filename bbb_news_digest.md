@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-06T20:01:52.867928+00:00
+> 更新時間：2026-06-07T00:03:57.935068+00:00
 
 ### 🚀 2026 年第二季全球三大記憶體製造商地位：價格飆升和人工智慧需求鎖定強勁的記憶體賣方市場
 - **題材**: `HBM記憶體` | **重要性**: `83`
@@ -10,21 +10,21 @@
 
 ---
 
-### 🚀 BE Epitaxy Semiconductor瞄準1.6T CPO，與AMD、MediaTek合作
-- **題材**: `光通訊與矽光子` | **重要性**: `83`
-- **來源**: Digitimes (2026-06-03T23:10:48Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 隨著 800G 和 1.6T 共封裝光學元件 (CPO) 的需求呈爆炸性增長，矽光子 (SiPh) 晶片設計公司 BE Epitaxy Semiconductor 將於 2025 年實現盈利。在 AMD 和聯發科的訂單和資金支持下，該公司正在使用精益資產…
-- [原文連結](https://www.digitimes.com/news/a20260603PD226/cpo-amd-siph-mediatek-photonics.html)
-
----
-
 ### 🚀 富士康、英特爾連動AI基礎設施推動晶片、機架和系統
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
 - **來源**: Digitimes (2026-06-04T23:45:16Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 6月4日，富士康宣布與英特爾達成策略夥伴關係，共同探索跨晶片、機架、系統、應用的端到端AI解決方案，合作涵蓋AI機架基礎設施、邊緣AI和實體AI平台。此次合作也將…
 - [原文連結](https://www.digitimes.com/news/a20260604PD233/foxconn-intel-infrastructure-chips-partnership.html)
+
+---
+
+### 🚀 BE Epitaxy Semiconductor瞄準1.6T CPO，與AMD、MediaTek合作
+- **題材**: `光通訊與矽光子` | **重要性**: `78`
+- **來源**: Digitimes (2026-06-03T23:10:48Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 隨著 800G 和 1.6T 共封裝光學元件 (CPO) 的需求呈爆炸性增長，矽光子 (SiPh) 晶片設計公司 BE Epitaxy Semiconductor 將於 2025 年實現盈利。在 AMD 和聯發科的訂單和資金支持下，該公司正在使用精益資產…
+- [原文連結](https://www.digitimes.com/news/a20260603PD226/cpo-amd-siph-mediatek-photonics.html)
 
 ---
 
@@ -64,12 +64,12 @@
 
 ---
 
-### 🚀 友達Micro LED CPO進入樣品階段
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-05-30T03:54:18Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 友達光電進入 Micro LED 共封裝光學樣品領域，可能會為該顯示器製造商在尋求超越面板領域的擴張時提供新的成長路徑。董事長彭保羅表示，公司正在準備將光通訊模組作為未來收入和利潤的驅動力。
-- [原文連結](https://www.digitimes.com/news/a20260529PD218/auo-cpo-optics-technology-growth.html)
+### ⚠️ 川普政府仍在努力保留數十億美元的非法關稅收入
+- **題材**: `總體風險` | **重要性**: `70`
+- **來源**: Yahoo Entertainment (2026-06-05T17:15:22Z)
+- **AI 判讀**: 屬「總體風險」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 
+- [原文連結](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_bead5026-3dda-4340-8e56-fdd1bc389cbc)
 
 ---
 
@@ -106,6 +106,15 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 英偉達執行長黃仁勳對韓國的訪問凸顯了該國人工智慧的繁榮以及在全球半導體供應鏈中日益重要的地位。
 - [原文連結](https://www.businessinsider.com/nvidia-jensen-huang-south-korea-ai-trade-samsung-sk-hynix-2026-6)
+
+---
+
+### ⚖️ SuperX將在Interop Tokyo 2026上推出1.6T光模組並展示全端AIDC解決方案
+- **題材**: `光通訊與矽光子` | **重要性**: `65`
+- **來源**: PRNewswire (2026-06-05T02:26:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 東京，2026 年 6 月 4 日 /美通社/ -- 新興的全端人工智慧資料中心 (AIDC) 基礎設施解決方案供應商 SuperX AI Technology Limited（納斯達克股票代碼：SUPX、「SuperX」或「公司」）將在 2026 年東京 Interop 展會上推出其 1.6T 光模組解決方案…東京 Interop 展會上推出其 1.6T 光模組解決方案…東京 Interop 展會上推出其 1.6T 光模組解決方案…東京 Interop 展會上推出其 1.6T 光模組解決方案…東京 Interop 展會上推出其 1.6T 光模組解決方案…
+- [原文連結](https://www.prnewswire.com/news-releases/superx-to-introduce-1-6t-optical-modules-and-showcase-full-stack-aidc-solutions-at-interop-tokyo-2026--302792216.html)
 
 ---
 
@@ -169,15 +178,6 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 台積電（NYSE：TSM）或台積電是高盛目前最值得購買的科技股之一。高盛擁有超過 3.17 美元...
 - [原文連結](https://finance.yahoo.com/sectors/technology/articles/taiwan-semiconductor-manufacturing-signs-major-095940607.html)
-
----
-
-### ⚠️ 關於川普全面的新關稅提案需要了解什麼
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Abcnews.com (2026-06-04T21:05:14Z)
-- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 該措施可能對 60 個美國貿易夥伴徵收關稅。
-- [原文連結](https://abcnews.com/Business/trumps-sweeping-new-tariff-proposal/story?id=133584802)
 
 ---
 
