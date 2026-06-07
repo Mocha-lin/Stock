@@ -1,9 +1,9 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-06-07T00:03:57.935068+00:00",
+  "generated_at": "2026-06-07T05:16:46.082639+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
-  "total_count": 67,
+  "total_count": 68,
   "items": [
     {
       "id": "b97da9b583b2f95a",
@@ -155,44 +155,6 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
-      "id": "b79c093de687914a",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "SK 與台積電深化 HBM 和先進封裝合作",
-      "summary": "SK集團會長崔泰源會見台積電董事長C.C. 6月3日，魏京生在台灣，雙方就下一代人工智慧技術的最新趨勢交換了意見，並討論瞭如何塑造人工智慧生態系統的未來。會議強調，更緊密地...",
-      "original_title": "SK and TSMC deepen HBM, advanced packaging tie-up",
-      "url": "https://www.digitimes.com/news/a20260604PD211/tsmc-sk-hynix-hbm-packaging.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-06-04T01:54:30Z",
-      "importance": 73,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
       "id": "61477d21007a591b",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -305,6 +267,79 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
+      "id": "4b6d2dd3899cc9c7",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "DDR5、DDR4價格上漲，AI需求擠壓主流DRAM供應",
+      "summary": "Ni 表示，隨著三星電子、SK 海力士和美光科技優先考慮用於人工智慧應用的高頻寬記憶體（HBM），導致 PC、伺服器和其他電子產品中使用的主流 DDR5 和 DDR4 產品供應緊張，DRAM 價格正在攀升。",
+      "original_title": "AI demand squeezes mainstream DRAM supply as DDR5, DDR4 prices rise",
+      "url": "https://www.digitimes.com/news/a20260603VL216/dram-ddr4-ddr5-demand-price.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-06-06T02:43:24Z",
+      "importance": 68,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "b79c093de687914a",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "SK 與台積電深化 HBM 和先進封裝合作",
+      "summary": "SK集團會長崔泰源會見台積電董事長C.C. 6月3日，魏京生在台灣，雙方就下一代人工智慧技術的最新趨勢交換了意見，並討論瞭如何塑造人工智慧生態系統的未來。會議強調，更緊密地...",
+      "original_title": "SK and TSMC deepen HBM, advanced packaging tie-up",
+      "url": "https://www.digitimes.com/news/a20260604PD211/tsmc-sk-hynix-hbm-packaging.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-06-04T01:54:30Z",
+      "importance": 68,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "f94b3cadce49567d",
@@ -1420,82 +1455,6 @@
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "5f22a9f6ad3a3175",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "最好的人工智慧被忽視：Perk 首席產品長 Nikita Miller 談商務旅行的未來",
-      "summary": "對 Skift IDEA 獎評審 Nikita Miller 來說，衡量旅行和科技領域成功與否的真正標準不是人工智慧的複雜程度，而是它所回報的人類時間和判斷力。",
-      "original_title": "The Best AI Goes Unnoticed: Perk CPO Nikita Miller on the Future of Business Travel",
-      "url": "https://skift.com/2026/06/03/the-best-ai-goes-unnoticed-perk-cpo-nikita-miller-on-the-future-of-business-travel/",
-      "source": "Skift",
-      "domain": "skift.com",
-      "published_at": "2026-06-04T02:14:00Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "55c134a12d7f84d2",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "報告詳細介紹了蘋果計劃在 Gemini 驅動的 Siri 中使用 Nvidia 晶片的計劃",
-      "summary": "The Information 的一份新報告分享了有關由 Gemini 驅動的新型 Siri 的幕後工作方式的最新細節。以下是詳細資訊。\n\n\n\n 更多的…",
-      "original_title": "Report details Apple’s plan to use Nvidia chips for the Gemini-powered Siri",
-      "url": "https://9to5mac.com/2026/06/03/report-details-apples-plan-to-use-nvidia-chips-for-the-gemini-powered-siri/",
-      "source": "9to5Mac",
-      "domain": "9to5mac.com",
-      "published_at": "2026-06-04T00:25:24Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "022c4e412f5de0dc",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1985,6 +1944,82 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "5f22a9f6ad3a3175",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "最好的人工智慧被忽視：Perk 首席產品長 Nikita Miller 談商務旅行的未來",
+      "summary": "對 Skift IDEA 獎評審 Nikita Miller 來說，衡量旅行和科技領域成功與否的真正標準不是人工智慧的複雜程度，而是它所回報的人類時間和判斷力。",
+      "original_title": "The Best AI Goes Unnoticed: Perk CPO Nikita Miller on the Future of Business Travel",
+      "url": "https://skift.com/2026/06/03/the-best-ai-goes-unnoticed-perk-cpo-nikita-miller-on-the-future-of-business-travel/",
+      "source": "Skift",
+      "domain": "skift.com",
+      "published_at": "2026-06-04T02:14:00Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "55c134a12d7f84d2",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "報告詳細介紹了蘋果計劃在 Gemini 驅動的 Siri 中使用 Nvidia 晶片的計劃",
+      "summary": "The Information 的一份新報告分享了有關由 Gemini 驅動的新型 Siri 的幕後工作方式的最新細節。以下是詳細資訊。\n\n\n\n 更多的…",
+      "original_title": "Report details Apple’s plan to use Nvidia chips for the Gemini-powered Siri",
+      "url": "https://9to5mac.com/2026/06/03/report-details-apples-plan-to-use-nvidia-chips-for-the-gemini-powered-siri/",
+      "source": "9to5Mac",
+      "domain": "9to5mac.com",
+      "published_at": "2026-06-04T00:25:24Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "7f6a5bfb809af74e",
@@ -2489,7 +2524,7 @@
       "source": "Yahoo Entertainment",
       "domain": "finance.yahoo.com",
       "published_at": "2026-05-31T03:17:35Z",
-      "importance": 50,
+      "importance": 45,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -2513,7 +2548,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「總體風險」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     }
   ]
 }
