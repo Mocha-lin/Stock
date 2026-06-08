@@ -1,8 +1,8 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-08T05:23:18.300125+00:00
+> 更新時間：2026-06-08T09:59:26.053105+00:00
 
 ### 🚀 2026 年第二季全球三大記憶體製造商地位：價格飆升和人工智慧需求鎖定強勁的記憶體賣方市場
-- **題材**: `HBM記憶體` | **重要性**: `83`
+- **題材**: `HBM記憶體` | **重要性**: `78`
 - **來源**: Digitimes (2026-06-05T08:06:52Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 預計2026年第二季記憶體製造商營收將再創新高；美國、日本和韓國推出新產品競爭，而台灣廠商則持續追求利基市場動力。
@@ -109,15 +109,6 @@
 
 ---
 
-### 🚀 黃仁勳為何要在韓國發動魅力攻勢
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: Business Insider (2026-06-05T06:15:57Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 英偉達執行長黃仁勳對韓國的訪問凸顯了該國人工智慧的繁榮以及在全球半導體供應鏈中日益重要的地位。
-- [原文連結](https://www.businessinsider.com/nvidia-jensen-huang-south-korea-ai-trade-samsung-sk-hynix-2026-6)
-
----
-
 ### 🚀 轉移吧，華麗的 7。交易者紛紛湧向 SanDisk、Marvell、Micron 和 Parabolic 7
 - **題材**: `HBM記憶體` | **重要性**: `65`
 - **來源**: 24/7 Wall St. (2026-06-03T19:12:27Z)
@@ -133,15 +124,6 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 6 月 2 日：除了 Alphabet 之外，全球最有價值的科技公司 5 月市值增加了數十億美元，樂觀的獲利前景和對人工智慧晶片的強勁需求推動其股價上漲。蘋果、記憶體晶片製造商美光…
 - [原文連結](https://www.channelnewsasia.com/business/ai-demand-earnings-optimism-lift-tech-giants-market-value-in-may-6157051)
-
----
-
-### ⚠️ NVIDIA Vera Rubin 全面投入生產，準備將 NVIDIA 人工智慧的全部力量帶入代理人工智慧工廠
-- **題材**: `光通訊與矽光子` | **重要性**: `65`
-- **來源**: Wccftech (2026-06-01T05:32:04Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: The world's most powerful Agentic AI platform, NVIDIA Vera Rubin, is now in full production and ready for deployment at AI factories. NVIDIA Crushes All Vera Rubin Delay Rumors, Initiates Full Mass Production & Agentic AI Deployment Less than two weeks ago, N…
-- [原文連結](https://wccftech.com/nvidia-vera-rubin-enters-full-production-ready-to-power-agentic-ai-factories/)
 
 ---
 
@@ -178,6 +160,24 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 台積電（NYSE：TSM）或台積電是高盛目前最值得購買的科技股之一。高盛擁有超過 3.17 美元...
 - [原文連結](https://finance.yahoo.com/sectors/technology/articles/taiwan-semiconductor-manufacturing-signs-major-095940607.html)
+
+---
+
+### 🚀 黃仁勳為何要在韓國發動魅力攻勢
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: Business Insider (2026-06-05T06:15:57Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 英偉達執行長黃仁勳對韓國的訪問凸顯了該國人工智慧的繁榮以及在全球半導體供應鏈中日益重要的地位。
+- [原文連結](https://www.businessinsider.com/nvidia-jensen-huang-south-korea-ai-trade-samsung-sk-hynix-2026-6)
+
+---
+
+### ⚖️ SuperX將在Interop Tokyo 2026上推出1.6T光模組並展示全端AIDC解決方案
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: PRNewswire (2026-06-05T02:26:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 東京，2026 年 6 月 4 日 /美通社/ -- 新興的全端人工智慧資料中心 (AIDC) 基礎設施解決方案供應商 SuperX AI Technology Limited（納斯達克股票代碼：SUPX、「SuperX」或「公司」）將在 2026 年東京 Interop 展會上推出其 1.6T 光模組解決方案…東京 Interop 展會上推出其 1.6T 光模組解決方案…東京 Interop 展會上推出其 1.6T 光模組解決方案…東京 Interop 展會上推出其 1.6T 光模組解決方案…東京 Interop 展會上推出其 1.6T 光模組解決方案…
+- [原文連結](https://www.prnewswire.com/news-releases/superx-to-introduce-1-6t-optical-modules-and-showcase-full-stack-aidc-solutions-at-interop-tokyo-2026--302792216.html)
 
 ---
 
