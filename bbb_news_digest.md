@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-08T09:59:26.053105+00:00
+> 更新時間：2026-06-08T13:07:18.899974+00:00
 
 ### 🚀 2026 年第二季全球三大記憶體製造商地位：價格飆升和人工智慧需求鎖定強勁的記憶體賣方市場
 - **題材**: `HBM記憶體` | **重要性**: `78`
@@ -16,15 +16,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 隨著 800G 和 1.6T 共封裝光學元件 (CPO) 的需求呈爆炸性增長，矽光子 (SiPh) 晶片設計公司 BE Epitaxy Semiconductor 將於 2025 年實現盈利。在 AMD 和聯發科的訂單和資金支持下，該公司正在使用精益資產…
 - [原文連結](https://www.digitimes.com/news/a20260603PD226/cpo-amd-siph-mediatek-photonics.html)
-
----
-
-### 🚀 大立光電首次亮相台北國際電腦展，CPO 推動人工智慧資料中心
-- **題材**: `光通訊與矽光子` | **重要性**: `78`
-- **來源**: Digitimes (2026-06-03T01:50:54Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 大立光電在 2026 年台北國際電腦展上首次亮相，標誌著大立光電更廣泛地進軍光通訊領域，這可能對全球人工智慧資料中心供應鏈產生重要影響。這家台灣公司正在尋求鏡頭以外的新成長，其聯合封裝光學產品的努力反映了市場的崛起…
-- [原文連結](https://www.digitimes.com/news/a20260603PD205/largan-precision-cpo-data-center-production-computex-2026.html)
 
 ---
 
@@ -100,15 +91,6 @@
 
 ---
 
-### ⚖️ 產業聯盟敦促川普政府採取緊急行動，因為人工智慧資料中心的極端記憶體消耗威脅到其他產業——人工智慧驅動的記憶體晶片短缺可能會提高汽車、醫療、電信產業的價格
-- **題材**: `HBM記憶體` | **重要性**: `67`
-- **來源**: Tom's Hardware UK (2026-06-05T12:20:01Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 由九個美國貿易協會組成的聯盟敦促川普政府解決人工智慧驅動的記憶體晶片短缺問題，並警告稱，DRAM 價格飆升和供應有限可能會增加消費性電子產品、汽車、醫療設備等的成本。
-- [原文連結](https://www.tomshardware.com/tech-industry/artificial-intelligence/industry-coalition-urges-trump-administration-to-take-urgent-action-as-ai-data-centers-extreme-memory-consumption-threatens-other-industries-ai-driven-memory-chip-shortage-could-raise-prices-in-automotive-medical-telecommunications-sectors)
-
----
-
 ### 🚀 轉移吧，華麗的 7。交易者紛紛湧向 SanDisk、Marvell、Micron 和 Parabolic 7
 - **題材**: `HBM記憶體` | **重要性**: `65`
 - **來源**: 24/7 Wall St. (2026-06-03T19:12:27Z)
@@ -127,12 +109,30 @@
 
 ---
 
+### ⚖️ 產業聯盟敦促川普政府採取緊急行動，因為人工智慧資料中心的極端記憶體消耗威脅到其他產業——人工智慧驅動的記憶體晶片短缺可能會提高汽車、醫療、電信產業的價格
+- **題材**: `HBM記憶體` | **重要性**: `62`
+- **來源**: Tom's Hardware UK (2026-06-05T12:20:01Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 由九個美國貿易協會組成的聯盟敦促川普政府解決人工智慧驅動的記憶體晶片短缺問題，並警告稱，DRAM 價格飆升和供應有限可能會增加消費性電子產品、汽車、醫療設備等的成本。
+- [原文連結](https://www.tomshardware.com/tech-industry/artificial-intelligence/industry-coalition-urges-trump-administration-to-take-urgent-action-as-ai-data-centers-extreme-memory-consumption-threatens-other-industries-ai-driven-memory-chip-shortage-could-raise-prices-in-automotive-medical-telecommunications-sectors)
+
+---
+
 ### ⚖️ 台積電執行長 C.C.魏說，「我們需要很長時間才能滿足客戶的需求」——他告訴股東，他將保持價格穩定，不會實施漲價
 - **題材**: `半導體先進製程` | **重要性**: `62`
 - **來源**: Tom's Hardware UK (2026-06-04T16:18:52Z)
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 台積電執行長 C.C. 表示，它沒有足夠的能力來滿足人工智慧超大規模企業的所有需求。魏表示，還需要很長時間才能滿足客戶的需求。不過，這對英特爾來說是一個機會，因為公司迫切希望獲得…
 - [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/tsmc-ceo-c-c-wei-says-it-will-be-a-long-time-before-we-can-meet-customer-demand-tells-shareholders-that-he-will-keep-prices-stable-refrain-from-implementing-price-hikes)
+
+---
+
+### ⚠️ 黃仁勳表示晶片長期短缺，英偉達和 SK 將詳細合作規劃
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: CNA (2026-06-07T11:30:09Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 首爾，6 月 7 日：英偉達和韓國 SK 預計將於週一宣布兩家公司之間的合作計劃，這家美國晶片製造商的老闆表示，持續的記憶體短缺將持續「相當長的時間」。
+- [原文連結](https://www.channelnewsasia.com/business/nvidia-sk-detail-cooperation-plan-huang-flags-prolonged-chip-shortage-6167326)
 
 ---
 
@@ -154,15 +154,6 @@
 
 ---
 
-### ⚖️ 台積電與 Nvidia 簽署重大人工智慧協議
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-06-05T09:59:40Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 台積電（NYSE：TSM）或台積電是高盛目前最值得購買的科技股之一。高盛擁有超過 3.17 美元...
-- [原文連結](https://finance.yahoo.com/sectors/technology/articles/taiwan-semiconductor-manufacturing-signs-major-095940607.html)
-
----
-
 ### 🚀 黃仁勳為何要在韓國發動魅力攻勢
 - **題材**: `HBM記憶體` | **重要性**: `60`
 - **來源**: Business Insider (2026-06-05T06:15:57Z)
@@ -178,6 +169,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 東京，2026 年 6 月 4 日 /美通社/ -- 新興的全端人工智慧資料中心 (AIDC) 基礎設施解決方案供應商 SuperX AI Technology Limited（納斯達克股票代碼：SUPX、「SuperX」或「公司」）將在 2026 年東京 Interop 展會上推出其 1.6T 光模組解決方案…東京 Interop 展會上推出其 1.6T 光模組解決方案…東京 Interop 展會上推出其 1.6T 光模組解決方案…東京 Interop 展會上推出其 1.6T 光模組解決方案…東京 Interop 展會上推出其 1.6T 光模組解決方案…
 - [原文連結](https://www.prnewswire.com/news-releases/superx-to-introduce-1-6t-optical-modules-and-showcase-full-stack-aidc-solutions-at-interop-tokyo-2026--302792216.html)
+
+---
+
+### ⚠️ 黃仁勳 700 億美元的代言並沒有消除 Marvell 的風險
+- **題材**: `半導體先進製程` | **重要性**: `60`
+- **來源**: Trefis (2026-06-04T14:54:00Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 一則評論能否一夜之間為一家公司增加超過 700 億美元的市值？
+- [原文連結](https://www.trefis.com/articles/601286/jensen-huangs-70-billion-endorsement-didnt-eliminate-marvells-risks/2026-06-04)
 
 ---
 
