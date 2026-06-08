@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-08T13:07:18.899974+00:00
+> 更新時間：2026-06-08T16:41:46.854997+00:00
 
 ### 🚀 2026 年第二季全球三大記憶體製造商地位：價格飆升和人工智慧需求鎖定強勁的記憶體賣方市場
 - **題材**: `HBM記憶體` | **重要性**: `78`
@@ -91,12 +91,12 @@
 
 ---
 
-### 🚀 轉移吧，華麗的 7。交易者紛紛湧向 SanDisk、Marvell、Micron 和 Parabolic 7
+### ⚠️ Nvidia 和 SK 海力士將合作，黃仁勳警告內存短缺可能“持續數年”
 - **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: 24/7 Wall St. (2026-06-03T19:12:27Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 华丽七号迎来了新的挑战者。策略師本·埃蒙斯 (Ben Emons) 在 X 上經彭博社 (Bloomberg) 的喬·維森塔爾 (Joe Weisenthal) 放大的帖子中稱，一籃子有 7 個...
-- [原文連結](https://247wallst.com/investing/2026/06/03/move-over-magnificent-7-traders-are-flocking-to-sandisk-marvell-micron-and-the-parabolic-7/)
+- **來源**: 24/7 Wall St. (2026-06-07T15:19:42Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 人工智慧基礎設施建設的運行速度仍然快於支援它所需的實體晶片。跨超大規模廠商、晶片設計師和記憶體......
+- [原文連結](https://247wallst.com/investing/2026/06/07/nvidia-and-sk-hynix-to-partner-as-jensen-huang-warns-memory-shortage-could-last-for-years/)
 
 ---
 
@@ -124,6 +124,15 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 台積電執行長 C.C. 表示，它沒有足夠的能力來滿足人工智慧超大規模企業的所有需求。魏表示，還需要很長時間才能滿足客戶的需求。不過，這對英特爾來說是一個機會，因為公司迫切希望獲得…
 - [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/tsmc-ceo-c-c-wei-says-it-will-be-a-long-time-before-we-can-meet-customer-demand-tells-shareholders-that-he-will-keep-prices-stable-refrain-from-implementing-price-hikes)
+
+---
+
+### ⚖️ KORU 今年迄今上漲 236%，但在交易日價值僅損失了一半
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: 24/7 Wall St. (2026-06-07T15:30:26Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: If you owned Direxion Daily MSCI South Korea Bull 3X Shares (NYSEARCA:KORU) into the close on Friday, June 5, 2026, you watched $10,000 turn into roughly...
+- [原文連結](https://247wallst.com/investing/2026/06/07/koru-is-up-236-year-to-date-but-just-lost-half-its-value-in-a-single-trading-day/)
 
 ---
 
@@ -169,15 +178,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 東京，2026 年 6 月 4 日 /美通社/ -- 新興的全端人工智慧資料中心 (AIDC) 基礎設施解決方案供應商 SuperX AI Technology Limited（納斯達克股票代碼：SUPX、「SuperX」或「公司」）將在 2026 年東京 Interop 展會上推出其 1.6T 光模組解決方案…東京 Interop 展會上推出其 1.6T 光模組解決方案…東京 Interop 展會上推出其 1.6T 光模組解決方案…東京 Interop 展會上推出其 1.6T 光模組解決方案…東京 Interop 展會上推出其 1.6T 光模組解決方案…
 - [原文連結](https://www.prnewswire.com/news-releases/superx-to-introduce-1-6t-optical-modules-and-showcase-full-stack-aidc-solutions-at-interop-tokyo-2026--302792216.html)
-
----
-
-### ⚠️ 黃仁勳 700 億美元的代言並沒有消除 Marvell 的風險
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: Trefis (2026-06-04T14:54:00Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 一則評論能否一夜之間為一家公司增加超過 700 億美元的市值？
-- [原文連結](https://www.trefis.com/articles/601286/jensen-huangs-70-billion-endorsement-didnt-eliminate-marvells-risks/2026-06-04)
 
 ---
 
