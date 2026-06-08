@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-08T16:41:46.854997+00:00
+> 更新時間：2026-06-08T19:12:34.032537+00:00
 
 ### 🚀 2026 年第二季全球三大記憶體製造商地位：價格飆升和人工智慧需求鎖定強勁的記憶體賣方市場
 - **題材**: `HBM記憶體` | **重要性**: `78`
@@ -55,15 +55,6 @@
 
 ---
 
-### ⚠️ 川普政府仍在努力保留數十億美元的非法關稅收入
-- **題材**: `總體風險` | **重要性**: `70`
-- **來源**: Yahoo Entertainment (2026-06-05T17:15:22Z)
-- **AI 判讀**: 屬「總體風險」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 
-- [原文連結](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_bead5026-3dda-4340-8e56-fdd1bc389cbc)
-
----
-
 ### ⚖️ DDR5、DDR4價格上漲，AI需求擠壓主流DRAM供應
 - **題材**: `HBM記憶體` | **重要性**: `68`
 - **來源**: Digitimes (2026-06-06T02:43:24Z)
@@ -97,6 +88,15 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 人工智慧基礎設施建設的運行速度仍然快於支援它所需的實體晶片。跨超大規模廠商、晶片設計師和記憶體......
 - [原文連結](https://247wallst.com/investing/2026/06/07/nvidia-and-sk-hynix-to-partner-as-jensen-huang-warns-memory-shortage-could-last-for-years/)
+
+---
+
+### ⚠️ 川普政府仍在努力保留數十億美元的非法關稅收入
+- **題材**: `總體風險` | **重要性**: `65`
+- **來源**: Yahoo Entertainment (2026-06-05T17:15:22Z)
+- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 
+- [原文連結](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_bead5026-3dda-4340-8e56-fdd1bc389cbc)
 
 ---
 
@@ -154,15 +154,6 @@
 
 ---
 
-### ⚖️ 無人知曉，SpaceX IPO 版
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Ritholtz.com (2026-06-05T19:00:35Z)
-- **AI 判讀**: 屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 在華爾街臭名昭著的所有愚蠢事情中，也許沒有比過於常規的預測遊戲更愚蠢的了。季度收益、非農就業數據、年度標準普爾預測、油價、通膨率、聯邦公開市場委員會(FOMC)降息——這是永無止境的預測…
-- [原文連結](https://ritholtz.com/2026/06/nobody-knows-anything-spacex-ipo-edition/)
-
----
-
 ### 🚀 黃仁勳為何要在韓國發動魅力攻勢
 - **題材**: `HBM記憶體` | **重要性**: `60`
 - **來源**: Business Insider (2026-06-05T06:15:57Z)
@@ -178,6 +169,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 東京，2026 年 6 月 4 日 /美通社/ -- 新興的全端人工智慧資料中心 (AIDC) 基礎設施解決方案供應商 SuperX AI Technology Limited（納斯達克股票代碼：SUPX、「SuperX」或「公司」）將在 2026 年東京 Interop 展會上推出其 1.6T 光模組解決方案…東京 Interop 展會上推出其 1.6T 光模組解決方案…東京 Interop 展會上推出其 1.6T 光模組解決方案…東京 Interop 展會上推出其 1.6T 光模組解決方案…東京 Interop 展會上推出其 1.6T 光模組解決方案…
 - [原文連結](https://www.prnewswire.com/news-releases/superx-to-introduce-1-6t-optical-modules-and-showcase-full-stack-aidc-solutions-at-interop-tokyo-2026--302792216.html)
+
+---
+
+### ⚠️ 黃仁勳 700 億美元的代言並沒有消除 Marvell 的風險
+- **題材**: `半導體先進製程` | **重要性**: `60`
+- **來源**: Trefis (2026-06-04T14:54:00Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 一則評論能否一夜之間為一家公司增加超過 700 億美元的市值？
+- [原文連結](https://www.trefis.com/articles/601286/jensen-huangs-70-billion-endorsement-didnt-eliminate-marvells-risks/2026-06-04)
 
 ---
 
