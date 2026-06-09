@@ -1,5 +1,14 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-08T19:12:34.032537+00:00
+> 更新時間：2026-06-09T00:07:10.073018+00:00
+
+### ⚖️ 長電科技開設3D封裝工廠瞄準AI電源模組、CPO需求
+- **題材**: `光通訊與矽光子` | **重要性**: `78`
+- **來源**: Digitimes (2026-06-07T02:38:24Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 長電科技在江陰城東生產基地開設了一家新的先進製造工廠，加強這家中國 OSAT 供應商在人工智慧運算、電源模組和下一代資料中心先進封裝領域的發展。
+- [原文連結](https://www.digitimes.com/news/a20260605VL204/jcet-3d-packaging-cpo-demand.html)
+
+---
 
 ### 🚀 2026 年第二季全球三大記憶體製造商地位：價格飆升和人工智慧需求鎖定強勁的記憶體賣方市場
 - **題材**: `HBM記憶體` | **重要性**: `78`
@@ -28,15 +37,6 @@
 
 ---
 
-### ⚖️ 解說：英特爾將AI封裝緊縮變成代工捲土重來的考驗
-- **題材**: `半導體先進製程` | **重要性**: `78`
-- **來源**: Digitimes (2026-06-01T22:59:51Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 英特爾的代工復興可能更取決於它能否將人工智慧驅動的需求轉化為有利可圖的先進封裝業務，而不是在最先進的製程節點上擊敗台積電。
-- [原文連結](https://www.digitimes.com/news/a20260601PD219/intel-packaging-tsmc-advanced-process-demand.html)
-
----
-
 ### 🚀 富士康、英特爾連動AI基礎設施推動晶片、機架和系統
 - **題材**: `光通訊與矽光子` | **重要性**: `73`
 - **來源**: Digitimes (2026-06-04T23:45:16Z)
@@ -46,12 +46,21 @@
 
 ---
 
-### 🚀 分析：先進封裝從台積電主導轉向產業合作
+### ⚖️ 台積電競相擴大AI晶片產能，CPO和CoWoS登上舞台中心
 - **題材**: `半導體先進製程` | **重要性**: `73`
-- **來源**: Digitimes (2026-06-01T22:59:37Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 英偉達CEO黃仁勳多次力挺台積電漲價，稱其先進工藝及供應鏈服務難度高，價值高。隨著AI晶片需求激增，台積電、三星電子、SK海力士、美光等頂級半導體廠商…
-- [原文連結](https://www.digitimes.com/news/a20260601PD228/packaging-nvidia-siph-tsmc.html)
+- **來源**: Digitimes (2026-06-02T06:15:00Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Nvidia GTC 台北大會於 6 月 1 日開幕，執行長黃仁勳發表了精彩的主題演講，並揭開了廣受關注的台灣供應鍊板的面紗。
+- [原文連結](https://www.digitimes.com/news/a20260601PD231/tsmc-capacity-nvidia-cpo-gtc.html)
+
+---
+
+### 🚀 「我們的供應足以實現非常非常強勁的成長，但我們仍然供應有限」：黃仁勳表示 Nvidia 有足夠的 CPU 和 GPU 供應來發展人工智慧
+- **題材**: `AI伺服器` | **重要性**: `70`
+- **來源**: TechRadar (2026-06-02T16:05:00Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 儘管供應有限以及來自 Vera Rubin、RTX Spark 的壓力，Nvidia 的供應鏈看起來相對強勁
+- [原文連結](https://www.techradar.com/pro/we-have-supply-for-very-very-robust-growth-but-were-still-supply-constrained-jensen-huang-says-nvidia-has-enough-cpu-and-gpu-supply-to-grow-ai)
 
 ---
 
@@ -97,6 +106,15 @@
 - **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 
 - [原文連結](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_bead5026-3dda-4340-8e56-fdd1bc389cbc)
+
+---
+
+### 🚀 轉移吧，華麗的 7。交易者紛紛湧向 SanDisk、Marvell、Micron 和 Parabolic 7
+- **題材**: `HBM記憶體` | **重要性**: `65`
+- **來源**: 24/7 Wall St. (2026-06-03T19:12:27Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 華麗七號迎來了新的挑戰者。策略師本·埃蒙斯 (Ben Emons) 在 X 上經彭博社 (Bloomberg) 的喬·維森塔爾 (Joe Weisenthal) 放大的帖子中稱，一籃子有 7 個...
+- [原文連結](https://247wallst.com/investing/2026/06/03/move-over-magnificent-7-traders-are-flocking-to-sandisk-marvell-micron-and-the-parabolic-7/)
 
 ---
 
@@ -160,24 +178,6 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 英偉達執行長黃仁勳對韓國的訪問凸顯了該國人工智慧的繁榮以及在全球半導體供應鏈中日益重要的地位。
 - [原文連結](https://www.businessinsider.com/nvidia-jensen-huang-south-korea-ai-trade-samsung-sk-hynix-2026-6)
-
----
-
-### ⚖️ SuperX將在Interop Tokyo 2026上推出1.6T光模組並展示全端AIDC解決方案
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: PRNewswire (2026-06-05T02:26:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 東京，2026 年 6 月 4 日 /美通社/ -- 新興的全端人工智慧資料中心 (AIDC) 基礎設施解決方案供應商 SuperX AI Technology Limited（納斯達克股票代碼：SUPX、「SuperX」或「公司」）將在 2026 年東京 Interop 展會上推出其 1.6T 光模組解決方案…東京 Interop 展會上推出其 1.6T 光模組解決方案…東京 Interop 展會上推出其 1.6T 光模組解決方案…東京 Interop 展會上推出其 1.6T 光模組解決方案…東京 Interop 展會上推出其 1.6T 光模組解決方案…
-- [原文連結](https://www.prnewswire.com/news-releases/superx-to-introduce-1-6t-optical-modules-and-showcase-full-stack-aidc-solutions-at-interop-tokyo-2026--302792216.html)
-
----
-
-### ⚠️ 黃仁勳 700 億美元的代言並沒有消除 Marvell 的風險
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: Trefis (2026-06-04T14:54:00Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 一則評論能否一夜之間為一家公司增加超過 700 億美元的市值？
-- [原文連結](https://www.trefis.com/articles/601286/jensen-huangs-70-billion-endorsement-didnt-eliminate-marvells-risks/2026-06-04)
 
 ---
 
