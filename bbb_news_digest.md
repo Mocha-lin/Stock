@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-09T12:05:08.198258+00:00
+> 更新時間：2026-06-09T15:49:31.913145+00:00
 
 ### 🚀 2026 年第二季全球三大記憶體製造商地位：價格飆升和人工智慧需求鎖定強勁的記憶體賣方市場
 - **題材**: `HBM記憶體` | **重要性**: `78`
@@ -82,12 +82,12 @@
 
 ---
 
-### ⚖️ 台積電競相擴大AI晶片產能，CPO和CoWoS登上舞台中心
-- **題材**: `半導體先進製程` | **重要性**: `68`
-- **來源**: Digitimes (2026-06-02T06:15:00Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Nvidia GTC 台北大會於 6 月 1 日開幕，執行長黃仁勳發表了精彩的主題演講，並揭開了廣受關注的台灣供應鍊板的面紗。
-- [原文連結](https://www.digitimes.com/news/a20260601PD231/tsmc-capacity-nvidia-cpo-gtc.html)
+### 🚀 我開始覺得我的手機升級是我從未要求過的資助功能
+- **題材**: `HBM記憶體` | **重要性**: `65`
+- **來源**: Android Police (2026-06-08T15:15:10Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 智慧型手機產業不斷提高價格，但我沒有看到價值
+- [原文連結](https://www.androidpolice.com/my-phone-upgrades-are-funding-features-i-never-asked-for/)
 
 ---
 
@@ -124,6 +124,15 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Ni 表示，隨著三星電子、SK 海力士和美光科技優先考慮用於人工智慧應用的高頻寬記憶體（HBM），導致 PC、伺服器和其他電子產品中使用的主流 DDR5 和 DDR4 產品供應緊張，DRAM 價格正在攀升。
 - [原文連結](https://www.digitimes.com/news/a20260603VL216/dram-ddr4-ddr5-demand-price.html)
+
+---
+
+### ⚖️ 心懷不滿的 ASML 員工威脅抵制 Elon Musk 出席會議——員工對政治參與和「納粹同情」表示憤怒
+- **題材**: `半導體先進製程` | **重要性**: `62`
+- **來源**: Tom's Hardware UK (2026-06-08T13:27:58Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: ASML 已證實，一群不滿的員工正在強烈抵制邀請馬斯克在該設備製造商的非公開年度技術會議上發表演講的邀請。
+- [原文連結](https://www.tomshardware.com/tech-industry/asml-staff-want-to-boycott-musk)
 
 ---
 
@@ -169,15 +178,6 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: If you owned Direxion Daily MSCI South Korea Bull 3X Shares (NYSEARCA:KORU) into the close on Friday, June 5, 2026, you watched $10,000 turn into roughly...
 - [原文連結](https://247wallst.com/investing/2026/06/07/koru-is-up-236-year-to-date-but-just-lost-half-its-value-in-a-single-trading-day/)
-
----
-
-### ⚠️ 黃仁勳表示晶片長期短缺，英偉達和 SK 將詳細合作規劃
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: CNA (2026-06-07T11:30:09Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 首爾，6 月 7 日：英偉達和韓國 SK 預計將於週一宣布兩家公司之間的合作計劃，這家美國晶片製造商的老闆表示，持續的記憶體短缺將持續「相當長的時間」。
-- [原文連結](https://www.channelnewsasia.com/business/nvidia-sk-detail-cooperation-plan-huang-flags-prolonged-chip-shortage-6167326)
 
 ---
 

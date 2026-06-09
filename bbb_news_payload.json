@@ -1,9 +1,9 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-06-09T12:05:08.198258+00:00",
+  "generated_at": "2026-06-09T15:49:31.913145+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
-  "total_count": 70,
+  "total_count": 71,
   "items": [
     {
       "id": "b97da9b583b2f95a",
@@ -345,32 +345,29 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "b8ff88b95f09a198",
+      "id": "c91ce6730928e808",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "台積電競相擴大AI晶片產能，CPO和CoWoS登上舞台中心",
-      "summary": "Nvidia GTC 台北大會於 6 月 1 日開幕，執行長黃仁勳發表了精彩的主題演講，並揭開了廣受關注的台灣供應鍊板的面紗。",
-      "original_title": "TSMC races to expand AI chip capacity while CPO and CoWoS move to center stage",
-      "url": "https://www.digitimes.com/news/a20260601PD231/tsmc-capacity-nvidia-cpo-gtc.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-06-02T06:15:00Z",
-      "importance": 68,
-      "impact": "neutral",
+      "theme": "HBM記憶體",
+      "title": "我開始覺得我的手機升級是我從未要求過的資助功能",
+      "summary": "智慧型手機產業不斷提高價格，但我沒有看到價值",
+      "original_title": "I'm starting to feel like my phone upgrades are funding features I never asked for",
+      "url": "https://www.androidpolice.com/my-phone-upgrades-are-funding-features-i-never-asked-for/",
+      "source": "Android Police",
+      "domain": "androidpolice.com",
+      "published_at": "2026-06-08T15:15:10Z",
+      "importance": 65,
+      "impact": "positive",
       "timeframe": "short_term",
       "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
+        "HBM",
+        "記憶體"
       ],
       "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
       ],
       "related_models": [
         "003",
@@ -380,7 +377,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "ba2feda48d2b5887",
@@ -524,6 +521,44 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "4fa4295724545c12",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "心懷不滿的 ASML 員工威脅抵制 Elon Musk 出席會議——員工對政治參與和「納粹同情」表示憤怒",
+      "summary": "ASML 已證實，一群不滿的員工正在強烈抵制邀請馬斯克在該設備製造商的非公開年度技術會議上發表演講的邀請。",
+      "original_title": "Disgruntled ASML employees threaten to boycott Elon Musk conference appearance — staff express ire at political involvement and 'Nazi sympathies'",
+      "url": "https://www.tomshardware.com/tech-industry/asml-staff-want-to-boycott-musk",
+      "source": "Tom's Hardware UK",
+      "domain": "tomshardware.com",
+      "published_at": "2026-06-08T13:27:58Z",
+      "importance": 62,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "3d6a497691b8fe3f",
@@ -897,19 +932,54 @@
       "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "2873c0cdebb369a8",
+      "id": "232b5909abacdc98",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "三星展示首個採用熱路徑塊冷卻的 HBM5 模型——與 SK 海力士的熱競賽即將展開",
+      "summary": "三星在台北 Computex 2026 上展示了其首個 HBM5 記憶體實體模型，將第八代 AI 記憶體與新的封裝內冷卻結構結合。",
+      "original_title": "Samsung shows first HBM5 mockup with Heat Path Block cooling — thermal race with SK hynix shaping up",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/samsung-shows-first-hbm5-mockup-at-computex-with-heat-path-block-cooling",
+      "source": "Tom's Hardware UK",
+      "domain": "tomshardware.com",
+      "published_at": "2026-06-03T15:30:51Z",
+      "importance": 57,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "c83876f8d1e8a884",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "半導體先進製程",
-      "title": "Cadence Design 與一家主要晶片製造商合作解決晶片尺寸限制，鞏固其在 2nm AI 晶片競賽中的地位",
-      "summary": "該公司最近與三星代工廠的合作將有助於更好更快地測試和模擬 2nm 製程設計。",
-      "original_title": "Cadence Design Is Cementing Its Place in the 2nm AI Chip Race By Solving the Die Size Limit in Partnership With a Major Chipmaker",
-      "url": "https://www.barchart.com/story/news/2283174/cadence-design-is-cementing-its-place-in-the-2nm-ai-chip-race-by-solving-the-die-size-limit-in-partnership-with-a-major-chipmaker",
-      "source": "Barchart.com",
-      "domain": "barchart.com",
-      "published_at": "2026-06-03T13:55:02Z",
-      "importance": 60,
-      "impact": "positive",
+      "title": "KLA Corporation (KLAC) 現在是值得買進的好股票嗎？",
+      "summary": "KLAC 是一檔值得買的股票嗎？我們在 Nikhs 的 Substack 上發現了一篇關於 KLA Corporation 的看漲論文。在本文中，我們將總結公牛的論點...",
+      "original_title": "Is KLA Corporation (KLAC) A Good Stock To Buy Now?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/kla-corporation-klac-good-stock-152430716.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-06-08T15:24:30Z",
+      "importance": 55,
+      "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
         "半導體",
@@ -932,22 +1002,22 @@
         "009",
         "010"
       ],
-      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "0c5414ac34960483",
+      "id": "c5c7ae52cda67a61",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "HBM記憶體",
-      "title": "隨著人工智慧熱潮積聚，日本股市創下新高",
-      "summary": "基準日經 225 指數首次突破 68,000 點，人工智慧驅動的購買狂潮絲毫沒有放緩的跡象。",
-      "original_title": "Japan’s stock market hits new record as AI boom gathers steam",
-      "url": "https://www.aljazeera.com/economy/2026/6/3/japans-stock-market-hits-new-record-as-ai-boom-gathers-steam",
-      "source": "Al Jazeera English",
-      "domain": "aljazeera.com",
-      "published_at": "2026-06-03T05:56:30Z",
-      "importance": 60,
-      "impact": "positive",
+      "title": "美光科技公司（MU）現在是值得買的好股票嗎？",
+      "summary": "MU是一支值得買的好股票嗎？我們在 Cristobal Botanch 的 Beyond the Noise’s Substack 上看到了一篇關於 Micron Technology, Inc. 的看漲論文。在本文中...",
+      "original_title": "Is Micron Technology, Inc. (MU) A Good Stock To Buy Now?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-inc-mu-good-152405879.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-06-08T15:24:05Z",
+      "importance": 55,
+      "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
         "HBM",
@@ -967,21 +1037,21 @@
         "009",
         "010"
       ],
-      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "232b5909abacdc98",
+      "id": "185e95df0820a095",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "HBM記憶體",
-      "title": "三星展示首個採用熱路徑塊冷卻的 HBM5 模型——與 SK 海力士的熱競賽即將展開",
-      "summary": "三星在台北 Computex 2026 上展示了其首個 HBM5 記憶體實體模型，將第八代 AI 記憶體與新的封裝內冷卻結構結合。",
-      "original_title": "Samsung shows first HBM5 mockup with Heat Path Block cooling — thermal race with SK hynix shaping up",
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/samsung-shows-first-hbm5-mockup-at-computex-with-heat-path-block-cooling",
-      "source": "Tom's Hardware UK",
-      "domain": "tomshardware.com",
-      "published_at": "2026-06-03T15:30:51Z",
-      "importance": 57,
+      "title": "NVIDIA 和三星在韓國舉行的頂級會議討論了下一代晶片",
+      "summary": "NVIDIA 執行長黃仁勳本週將前往韓國，與包括半導體產業在內的當地合作夥伴會面。今天早些時候，他在首爾會見了三星電子聯合首席執行官兼晶片部門負責人全英賢。奈…",
+      "original_title": "Next-gen chips discussed at top NVIDIA and Samsung meeting in Korea",
+      "url": "https://www.sammobile.com/news/next-gen-chips-discussed-at-top-nvidia-and-samsung-meeting-in-korea/",
+      "source": "SamMobile",
+      "domain": "sammobile.com",
+      "published_at": "2026-06-08T14:00:26Z",
+      "importance": 55,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -1076,44 +1146,6 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "dbb8b57750f366cd",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "據報道，傑夫貝佐斯支持的電動皮卡在銷售前與 Carvana 達成了協議",
-      "summary": "這是買家如何獲得一輛售價低於 30,000 美元的電動卡車的線索。",
-      "original_title": "The Jeff Bezos-Backed EV Pickup Reportedly Has a Deal with Carvana Ahead of Sales Launch",
-      "url": "https://gizmodo.com/the-jeff-bezos-backed-ev-pickup-reportedly-has-a-deal-with-carvana-ahead-of-sales-launch-2000768395",
-      "source": "Gizmodo.com",
-      "domain": "gizmodo.com",
-      "published_at": "2026-06-06T14:26:26Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "c76c152b040d6c4e",
@@ -1610,6 +1642,44 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "dbb8b57750f366cd",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "據報道，傑夫貝佐斯支持的電動皮卡在銷售前與 Carvana 達成了協議",
+      "summary": "這是買家如何獲得一輛售價低於 30,000 美元的電動卡車的線索。",
+      "original_title": "The Jeff Bezos-Backed EV Pickup Reportedly Has a Deal with Carvana Ahead of Sales Launch",
+      "url": "https://gizmodo.com/the-jeff-bezos-backed-ev-pickup-reportedly-has-a-deal-with-carvana-ahead-of-sales-launch-2000768395",
+      "source": "Gizmodo.com",
+      "domain": "gizmodo.com",
+      "published_at": "2026-06-06T14:26:26Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "7c7c0091eeccccfa",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1874,41 +1944,6 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "69f70f12093f3dc4",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "年度表現最佳的人工智慧 ETF 並非純粹的籌碼遊戲",
-      "summary": "<p>AIS 到 2026 年將上漲 119%，領先大型半導體基金。 </p>",
-      "original_title": "The Best-Performing AI ETF of the Year Isn't a Pure Chip Play",
-      "url": "http://www.etf.com/sections/features/best-performing-ai-etf-year-isnt-pure-chip-play?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
-      "source": "Etf.com",
-      "domain": "etf.com",
-      "published_at": "2026-06-04T22:56:25Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "acfc6965a445c104",
@@ -2329,79 +2364,6 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "67b292d7c99053ca",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "黃仁勳稱加州一家晶片製造商為「下一個兆美元」公司，股價飆升 20%",
-      "summary": "在 Nvidia 執行長讚揚了這家不太知名的晶片製造商之後，Marvell Technology 的股價在盤外交易中上漲了 20% 以上。",
-      "original_title": "Jensen Huang called a California chipmaker the 'next trillion-dollar' company, and its shares spiked 20%",
-      "url": "https://www.businessinsider.com/jensen-huang-nvidia-marvell-next-1-trillion-company-stock-spikes-2026-6",
-      "source": "Business Insider",
-      "domain": "businessinsider.com",
-      "published_at": "2026-06-02T12:21:20Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "7bc98251efc88320",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "分析英偉達 (Nvidia) 的推動如何推動節儉的美光 (Micron) 進入人工智慧熱潮並實現 1 兆美元的市值",
-      "summary": "",
-      "original_title": "AnalysisHow a nudge from Nvidia propelled frugal Micron into the AI boom and a $1 trillion market cap",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e9394e01-b166-4af3-a6f8-d79e55a81192",
-      "source": "Yahoo Entertainment",
-      "domain": "consent.yahoo.com",
-      "published_at": "2026-06-02T12:09:39Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "cac8dc0247b240d3",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2549,6 +2511,79 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "67b292d7c99053ca",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "黃仁勳稱加州一家晶片製造商為「下一個兆美元」公司，股價飆升 20%",
+      "summary": "在 Nvidia 執行長讚揚了這家不太知名的晶片製造商之後，Marvell Technology 的股價在盤外交易中上漲了 20% 以上。",
+      "original_title": "Jensen Huang called a California chipmaker the 'next trillion-dollar' company, and its shares spiked 20%",
+      "url": "https://www.businessinsider.com/jensen-huang-nvidia-marvell-next-1-trillion-company-stock-spikes-2026-6",
+      "source": "Business Insider",
+      "domain": "businessinsider.com",
+      "published_at": "2026-06-02T12:21:20Z",
+      "importance": 45,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
+    },
+    {
+      "id": "7bc98251efc88320",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "分析英偉達 (Nvidia) 的推動如何推動節儉的美光 (Micron) 進入人工智慧熱潮並實現 1 兆美元的市值",
+      "summary": "",
+      "original_title": "AnalysisHow a nudge from Nvidia propelled frugal Micron into the AI boom and a $1 trillion market cap",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e9394e01-b166-4af3-a6f8-d79e55a81192",
+      "source": "Yahoo Entertainment",
+      "domain": "consent.yahoo.com",
+      "published_at": "2026-06-02T12:09:39Z",
+      "importance": 45,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     },
     {
       "id": "63653f7dada344c3",
