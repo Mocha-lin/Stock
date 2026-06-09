@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-09T04:58:33.201237+00:00
+> 更新時間：2026-06-09T08:30:30.426345+00:00
 
 ### 🚀 2026 年第二季全球三大記憶體製造商地位：價格飆升和人工智慧需求鎖定強勁的記憶體賣方市場
 - **題材**: `HBM記憶體` | **重要性**: `78`
@@ -55,15 +55,6 @@
 
 ---
 
-### ⚖️ 台積電競相擴大AI晶片產能，CPO和CoWoS登上舞台中心
-- **題材**: `半導體先進製程` | **重要性**: `73`
-- **來源**: Digitimes (2026-06-02T06:15:00Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Nvidia GTC 台北大會於 6 月 1 日開幕，執行長黃仁勳發表了精彩的主題演講，並揭開了廣受關注的台灣供應鍊板的面紗。
-- [原文連結](https://www.digitimes.com/news/a20260601PD231/tsmc-capacity-nvidia-cpo-gtc.html)
-
----
-
 ### 🚀 「我們的供應足以實現非常非常強勁的成長，但我們仍然供應有限」：黃仁勳表示 Nvidia 有足夠的 CPU 和 GPU 供應來發展人工智慧
 - **題材**: `AI伺服器` | **重要性**: `70`
 - **來源**: TechRadar (2026-06-02T16:05:00Z)
@@ -91,6 +82,15 @@
 
 ---
 
+### ⚖️ 台積電競相擴大AI晶片產能，CPO和CoWoS登上舞台中心
+- **題材**: `半導體先進製程` | **重要性**: `68`
+- **來源**: Digitimes (2026-06-02T06:15:00Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Nvidia GTC 台北大會於 6 月 1 日開幕，執行長黃仁勳發表了精彩的主題演講，並揭開了廣受關注的台灣供應鍊板的面紗。
+- [原文連結](https://www.digitimes.com/news/a20260601PD231/tsmc-capacity-nvidia-cpo-gtc.html)
+
+---
+
 ### ⚠️ Nvidia 和 SK 海力士將合作，黃仁勳警告內存短缺可能“持續數年”
 - **題材**: `HBM記憶體` | **重要性**: `65`
 - **來源**: 24/7 Wall St. (2026-06-07T15:19:42Z)
@@ -106,15 +106,6 @@
 - **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 
 - [原文連結](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_bead5026-3dda-4340-8e56-fdd1bc389cbc)
-
----
-
-### 🚀 轉移吧，華麗的 7。交易者紛紛湧向 SanDisk、Marvell、Micron 和 Parabolic 7
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: 24/7 Wall St. (2026-06-03T19:12:27Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 華麗七號迎來了新的挑戰者。策略師本·埃蒙斯 (Ben Emons) 在 X 上經彭博社 (Bloomberg) 的喬·維森塔爾 (Joe Weisenthal) 放大的帖子中稱，一籃子有 7 個...
-- [原文連結](https://247wallst.com/investing/2026/06/03/move-over-magnificent-7-traders-are-flocking-to-sandisk-marvell-micron-and-the-parabolic-7/)
 
 ---
 
@@ -151,6 +142,15 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 台積電執行長 C.C. 表示，它沒有足夠的能力來滿足人工智慧超大規模企業的所有需求。魏表示，還需要很長時間才能滿足客戶的需求。不過，這對英特爾來說是一個機會，因為公司迫切希望獲得…
 - [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/tsmc-ceo-c-c-wei-says-it-will-be-a-long-time-before-we-can-meet-customer-demand-tells-shareholders-that-he-will-keep-prices-stable-refrain-from-implementing-price-hikes)
+
+---
+
+### 🚀 亞洲科技股在創紀錄上漲和中東新一輪襲擊後暴跌
+- **題材**: `半導體先進製程` | **重要性**: `60`
+- **來源**: BBC News (2026-06-08T06:26:52Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 近幾週科技股上漲後，韓國和日本市場出現下滑。
+- [原文連結](https://www.bbc.com/news/articles/c78yd5g9qx0o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D)
 
 ---
 
