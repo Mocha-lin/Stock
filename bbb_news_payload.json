@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-06-09T08:30:30.426345+00:00",
+  "generated_at": "2026-06-09T12:05:08.198258+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 70,
@@ -383,6 +383,41 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "ba2feda48d2b5887",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "Nvidia 與 SK Hynix 簽署多年內存晶片協議",
+      "summary": "SK海力士股價週一收盤下跌7.7%，因強勁的美國就業數據引發對聯準會升息的押注",
+      "original_title": "Nvidia signs multi-year memory chip deal with SK Hynix",
+      "url": "https://qz.com/nvidia-sk-hynix-memory-chip-deal-south-korea-stocks-060826",
+      "source": "Quartz India",
+      "domain": "qz.com",
+      "published_at": "2026-06-08T11:17:50Z",
+      "importance": 65,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "2c0d9c0bfd4111d4",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -454,41 +489,6 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "73113ab030bb299f",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "人工智慧需求與獲利樂觀提昇科技巨頭 5 月市值",
-      "summary": "6 月 2 日：除了 Alphabet 之外，全球最有價值的科技公司 5 月市值增加了數十億美元，樂觀的獲利前景和對人工智慧晶片的強勁需求推動其股價上漲。蘋果、記憶體晶片製造商美光…",
-      "original_title": "AI demand, earnings optimism lift tech giants' market value in May",
-      "url": "https://www.channelnewsasia.com/business/ai-demand-earnings-optimism-lift-tech-giants-market-value-in-may-6157051",
-      "source": "CNA",
-      "domain": "channelnewsasia.com",
-      "published_at": "2026-06-02T14:58:50Z",
-      "importance": 65,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "4b6d2dd3899cc9c7",
@@ -748,44 +748,6 @@
       "reason": "屬「光通訊與矽光子」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "c76c152b040d6c4e",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "Vercel 如何在 AI 代理上運作：96% 的行銷、93% 的支援以及重新吸收的 SDR 團隊。與 CPO Tom Occhino 深入探討",
-      "summary": "Tom Occhino 建置的基礎設施規模幾乎是 B2B 領域無人能及的。他在 Facebook 工作了 12 年多，在那裡他共同創建了 React 和 React Native，並塑造了仍在運行的大部分網路的開源工具…",
-      "original_title": "How Vercel Runs on AI Agents: 96% of Marketing, 93% of Support, and an SDR Team Reabsorbed. A Deep Dive With CPO Tom Occhino",
-      "url": "https://www.saastr.com/how-vercel-runs-on-ai-agents-96-of-marketing-93-of-support-and-an-sdr-team-reabsorbed-a-deep-dive-with-cpo-tom-occhino/",
-      "source": "Saastr.com",
-      "domain": "saastr.com",
-      "published_at": "2026-06-06T09:21:35Z",
-      "importance": 60,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "44cf80d982084a30",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1008,44 +970,6 @@
       "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "e8c76173d54741d9",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "NVIDIA 的 RTX Spark 看起來像 PC 晶片，但其構造卻像智慧型手機",
-      "summary": "RTX Spark 看起來像一款遊戲晶片，但它實際上是針對人工智慧優先的 Windows 筆記型電腦擴展的智慧型手機式架構。",
-      "original_title": "NVIDIA’s RTX Spark looks like a PC chip, but it’s built like a smartphone",
-      "url": "https://www.androidauthority.com/nvidia-rtx-spark-explained-3673089/",
-      "source": "Android Authority",
-      "domain": "androidauthority.com",
-      "published_at": "2026-06-02T11:00:24Z",
-      "importance": 60,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "232b5909abacdc98",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1058,6 +982,41 @@
       "domain": "tomshardware.com",
       "published_at": "2026-06-03T15:30:51Z",
       "importance": 57,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "80ebdc35544b2a23",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "iShares 韓國 ETF (EWY) 下跌 14%，創六年來最慘烈走勢，博通首當其衝",
+      "summary": "如果您在周五早上持有 iShares MSCI 韓國 ETF (NYSEARCA:EWY)，那麼您在收盤時擁有大約 204 美元的股票，價值 175.19 美元，...",
+      "original_title": "The iShares Korea ETF (EWY) Dropped 14% in Its Most Brutal Session in Six Years, and It Started With Broadcom",
+      "url": "https://247wallst.com/investing/2026/06/08/the-ishares-korea-etf-ewy-dropped-14-in-its-most-brutal-session-in-six-years-and-it-started-with-broadcom/",
+      "source": "24/7 Wall St.",
+      "domain": "247wallst.com",
+      "published_at": "2026-06-08T12:00:15Z",
+      "importance": 55,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -1155,6 +1114,44 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "c76c152b040d6c4e",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "Vercel 如何在 AI 代理上運作：96% 的行銷、93% 的支援以及重新吸收的 SDR 團隊。與 CPO Tom Occhino 深入探討",
+      "summary": "Tom Occhino 建置的基礎設施規模幾乎是 B2B 領域無人能及的。他在 Facebook 工作了 12 年多，在那裡他共同創建了 React 和 React Native，並塑造了仍在運行的大部分網路的開源工具…",
+      "original_title": "How Vercel Runs on AI Agents: 96% of Marketing, 93% of Support, and an SDR Team Reabsorbed. A Deep Dive With CPO Tom Occhino",
+      "url": "https://www.saastr.com/how-vercel-runs-on-ai-agents-96-of-marketing-93-of-support-and-an-sdr-team-reabsorbed-a-deep-dive-with-cpo-tom-occhino/",
+      "source": "Saastr.com",
+      "domain": "saastr.com",
+      "published_at": "2026-06-06T09:21:35Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "ad6444db7b8a0321",
@@ -1423,41 +1420,6 @@
       "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "9b42fce5b3c910a1",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "觀點：最值得買的內存股票不是美光或閃迪",
-      "summary": "即使在記憶體和儲存股票出現令人垂涎的拋物線走勢之後，投資者似乎仍無法獲得足夠的資金。美光科技（納斯達克股票代碼：MU）和南...",
-      "original_title": "Opinion: The Best Memory Stock to Buy Isn’t Named Micron or SanDisk",
-      "url": "https://247wallst.com/investing/2026/06/04/opinion-the-best-memory-stock-to-buy-isnt-named-micron-or-sandisk/",
-      "source": "24/7 Wall St.",
-      "domain": "247wallst.com",
-      "published_at": "2026-06-04T14:25:00Z",
-      "importance": 55,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "898e55890e1d2c55",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1572,29 +1534,32 @@
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "cac8dc0247b240d3",
+      "id": "e8c76173d54741d9",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "晶片短缺推動人工智慧繁榮，美光和 SK 海力士估值突破 1 兆美元",
-      "summary": "",
-      "original_title": "Micron and SK Hynix Cross $1 Trillion Valuations as Chip Shortage Fuels AI Boom",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7e2a775f-b9c5-4b30-9c38-649c2b21117a",
-      "source": "Yahoo Entertainment",
-      "domain": "consent.yahoo.com",
-      "published_at": "2026-06-02T11:42:42Z",
+      "theme": "AI伺服器",
+      "title": "NVIDIA 的 RTX Spark 看起來像 PC 晶片，但其構造卻像智慧型手機",
+      "summary": "RTX Spark 看起來像一款遊戲晶片，但它實際上是針對人工智慧優先的 Windows 筆記型電腦擴展的智慧型手機式架構。",
+      "original_title": "NVIDIA’s RTX Spark looks like a PC chip, but it’s built like a smartphone",
+      "url": "https://www.androidauthority.com/nvidia-rtx-spark-explained-3673089/",
+      "source": "Android Authority",
+      "domain": "androidauthority.com",
+      "published_at": "2026-06-02T11:00:24Z",
       "importance": 55,
-      "impact": "negative",
+      "impact": "positive",
       "timeframe": "short_term",
       "tags": [
-        "HBM",
-        "記憶體"
+        "AI",
+        "伺服器",
+        "資料中心"
       ],
       "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
       ],
       "related_models": [
         "003",
@@ -1604,45 +1569,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "9bffcf15473aad40",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "iPhone 18 Pro 電池容量今年可能會帶來更溫和的成長",
-      "summary": "長期以來一直有傳言稱，iPhone 18 Pro Max 的電池容量將是 iPhone 有史以來最大的電池容量，2 月的一份報告稱其電池容量可能接近 5,200mAh。\n\n\n\n同一位洩密者現在報告了 iPhone 18 Pro 的容量…",
-      "original_title": "iPhone 18 Pro battery capacity could offer far more modest gains this year",
-      "url": "https://9to5mac.com/2026/06/02/iphone-18-pro-battery-capacity-could-offer-far-more-modest-gains-this-year/",
-      "source": "9to5Mac",
-      "domain": "9to5mac.com",
-      "published_at": "2026-06-02T11:18:16Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "086a8fea409f3266",
@@ -2473,6 +2400,79 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "cac8dc0247b240d3",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "晶片短缺推動人工智慧繁榮，美光和 SK 海力士估值突破 1 兆美元",
+      "summary": "",
+      "original_title": "Micron and SK Hynix Cross $1 Trillion Valuations as Chip Shortage Fuels AI Boom",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7e2a775f-b9c5-4b30-9c38-649c2b21117a",
+      "source": "Yahoo Entertainment",
+      "domain": "consent.yahoo.com",
+      "published_at": "2026-06-02T11:42:42Z",
+      "importance": 50,
+      "impact": "negative",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "9bffcf15473aad40",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "iPhone 18 Pro 電池容量今年可能會帶來更溫和的成長",
+      "summary": "長期以來一直有傳言稱，iPhone 18 Pro Max 的電池容量將是 iPhone 有史以來最大的電池容量，2 月的一份報告稱其電池容量可能接近 5,200mAh。\n\n\n\n同一位洩密者現在報告了 iPhone 18 Pro 的容量…",
+      "original_title": "iPhone 18 Pro battery capacity could offer far more modest gains this year",
+      "url": "https://9to5mac.com/2026/06/02/iphone-18-pro-battery-capacity-could-offer-far-more-modest-gains-this-year/",
+      "source": "9to5Mac",
+      "domain": "9to5mac.com",
+      "published_at": "2026-06-02T11:18:16Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "17c97bc0b6e39548",
