@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-09T15:49:31.913145+00:00
+> 更新時間：2026-06-09T19:05:12.216355+00:00
 
 ### 🚀 2026 年第二季全球三大記憶體製造商地位：價格飆升和人工智慧需求鎖定強勁的記憶體賣方市場
 - **題材**: `HBM記憶體` | **重要性**: `78`
@@ -55,15 +55,6 @@
 
 ---
 
-### 🚀 「我們的供應足以實現非常非常強勁的成長，但我們仍然供應有限」：黃仁勳表示 Nvidia 有足夠的 CPU 和 GPU 供應來發展人工智慧
-- **題材**: `AI伺服器` | **重要性**: `70`
-- **來源**: TechRadar (2026-06-02T16:05:00Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 儘管供應有限以及來自 Vera Rubin、RTX Spark 的壓力，Nvidia 的供應鏈看起來相對強勁
-- [原文連結](https://www.techradar.com/pro/we-have-supply-for-very-very-robust-growth-but-were-still-supply-constrained-jensen-huang-says-nvidia-has-enough-cpu-and-gpu-supply-to-grow-ai)
-
----
-
 ### ⚖️ SK 與台積電深化 HBM 和先進封裝合作
 - **題材**: `半導體先進製程` | **重要性**: `68`
 - **來源**: Digitimes (2026-06-04T01:54:30Z)
@@ -115,6 +106,15 @@
 - **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 
 - [原文連結](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_bead5026-3dda-4340-8e56-fdd1bc389cbc)
+
+---
+
+### 🚀 「我們的供應足以實現非常非常強勁的成長，但我們仍然供應有限」：黃仁勳表示 Nvidia 有足夠的 CPU 和 GPU 供應來發展人工智慧
+- **題材**: `AI伺服器` | **重要性**: `65`
+- **來源**: TechRadar (2026-06-02T16:05:00Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 儘管供應有限以及來自 Vera Rubin、RTX Spark 的壓力，Nvidia 的供應鏈看起來相對強勁
+- [原文連結](https://www.techradar.com/pro/we-have-supply-for-very-very-robust-growth-but-were-still-supply-constrained-jensen-huang-says-nvidia-has-enough-cpu-and-gpu-supply-to-grow-ai)
 
 ---
 
