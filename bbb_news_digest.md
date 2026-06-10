@@ -1,5 +1,14 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-09T19:05:12.216355+00:00
+> 更新時間：2026-06-10T00:14:45.853955+00:00
+
+### ⚖️ 長電科技開設3D封裝工廠瞄準AI電源模組、CPO需求
+- **題材**: `光通訊與矽光子` | **重要性**: `78`
+- **來源**: Digitimes (2026-06-07T02:38:24Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 長電科技在江陰城東生產基地開設了一家新的先進製造工廠，加強這家中國 OSAT 供應商在人工智慧運算、電源模組和下一代資料中心先進封裝領域的發展。
+- [原文連結](https://www.digitimes.com/news/a20260605VL204/jcet-3d-packaging-cpo-demand.html)
+
+---
 
 ### 🚀 2026 年第二季全球三大記憶體製造商地位：價格飆升和人工智慧需求鎖定強勁的記憶體賣方市場
 - **題材**: `HBM記憶體` | **重要性**: `78`
@@ -28,15 +37,6 @@
 
 ---
 
-### 🚀 GSEO將原棕油業務視為2027年至2028年潛在的第二成長引擎
-- **題材**: `光通訊與矽光子` | **重要性**: `78`
-- **來源**: Digitimes (2026-06-02T22:47:09Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 天才電子光學公司（GSEO）5月29日表示，其共封裝光學（CPO）業務將在2027年和2028年邁向快速成長，出貨量最終可能與智慧型手機鏡頭相媲美，成為第二大收入來源。
-- [原文連結](https://www.digitimes.com/news/a20260601PD216/gseo-cpo-business-growth-2027.html)
-
----
-
 ### ⚖️ 獨家：Nvidia 放棄了 Vera Rubin 平台的雙片式冷卻架構
 - **題材**: `AI伺服器` | **重要性**: `73`
 - **來源**: Digitimes (2026-06-08T02:20:27Z)
@@ -46,12 +46,48 @@
 
 ---
 
+### ⚖️ 評論：大立光電股東大會將重點放在 CPO 進度和手機需求
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-06-08T01:17:59Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 大立光電將於 6 月 9 日召開年度股東大會，全球投資者將關注手機需求、製造能力及其進軍人工智慧光通訊領域的訊號。這次會議也可能表明......
+- [原文連結](https://www.digitimes.com/news/a20260608PD212/largan-precision-cpo-capacity-demand-2026.html)
+
+---
+
 ### 🚀 富士康、英特爾連動AI基礎設施推動晶片、機架和系統
 - **題材**: `光通訊與矽光子` | **重要性**: `73`
 - **來源**: Digitimes (2026-06-04T23:45:16Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 6月4日，富士康宣布與英特爾達成策略夥伴關係，共同探索跨晶片、機架、系統、應用的端到端AI解決方案，合作涵蓋AI機架基礎設施、邊緣AI和實體AI平台。此次合作也將…
 - [原文連結](https://www.digitimes.com/news/a20260604PD233/foxconn-intel-infrastructure-chips-partnership.html)
+
+---
+
+### ⚠️ 美國大多數新的人工智慧資料中心都建在乾旱地區——809個規劃項目中的三分之二是建在缺水地區
+- **題材**: `AI伺服器` | **重要性**: `72`
+- **來源**: Tom's Hardware UK (2026-06-08T16:39:27Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 新的用水需求分析顯示，資料中心冷卻約佔人工智慧足跡的 4%，其餘則由晶圓廠和發電部門承擔。
+- [原文連結](https://www.tomshardware.com/tech-industry/most-new-us-ai-data-centers-are-going-up-on-drought-land)
+
+---
+
+### 🚀 分析師押注 EUV 產量增加，ASML 成為歐洲有史以來最有價值的公司 - 其市值本週達到 6740 億美元
+- **題材**: `半導體先進製程` | **重要性**: `72`
+- **來源**: Tom's Hardware UK (2026-06-07T13:05:00Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: ASML 於 6 月 3 日星期三收盤，成為歐洲歷史上最有價值的公司，市值達到 6,680 億美元。
+- [原文連結](https://www.tomshardware.com/tech-industry/asml-beocmes-europes-most-valuable-company-ever-as-analysts-bet-on-higher-euv-output)
+
+---
+
+### ⚖️ 三星代工廠四年後終於預計在 2026 年第三季恢復獲利
+- **題材**: `半導體先進製程` | **重要性**: `70`
+- **來源**: SamMobile (2026-06-08T11:23:28Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 自 2022 年以來，三星的代工部門每年都會損失數十億美元。它無法帶來所需的訂單，無法為晶片製造設施的巨額投資帶來回報。這種情況可能會在 2026 年第三季發生變化，提前四分之一…
+- [原文連結](https://www.sammobile.com/news/samsung-foundry-could-finally-return-to-profit-after-four-years-in-q3-2026/)
 
 ---
 
@@ -109,15 +145,6 @@
 
 ---
 
-### 🚀 「我們的供應足以實現非常非常強勁的成長，但我們仍然供應有限」：黃仁勳表示 Nvidia 有足夠的 CPU 和 GPU 供應來發展人工智慧
-- **題材**: `AI伺服器` | **重要性**: `65`
-- **來源**: TechRadar (2026-06-02T16:05:00Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 儘管供應有限以及來自 Vera Rubin、RTX Spark 的壓力，Nvidia 的供應鏈看起來相對強勁
-- [原文連結](https://www.techradar.com/pro/we-have-supply-for-very-very-robust-growth-but-were-still-supply-constrained-jensen-huang-says-nvidia-has-enough-cpu-and-gpu-supply-to-grow-ai)
-
----
-
 ### ⚖️ DDR5、DDR4價格上漲，AI需求擠壓主流DRAM供應
 - **題材**: `HBM記憶體` | **重要性**: `63`
 - **來源**: Digitimes (2026-06-06T02:43:24Z)
@@ -151,33 +178,6 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 台積電執行長 C.C. 表示，它沒有足夠的能力來滿足人工智慧超大規模企業的所有需求。魏表示，還需要很長時間才能滿足客戶的需求。不過，這對英特爾來說是一個機會，因為公司迫切希望獲得…
 - [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/tsmc-ceo-c-c-wei-says-it-will-be-a-long-time-before-we-can-meet-customer-demand-tells-shareholders-that-he-will-keep-prices-stable-refrain-from-implementing-price-hikes)
-
----
-
-### 🚀 亞洲科技股在創紀錄上漲和中東新一輪襲擊後暴跌
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: BBC News (2026-06-08T06:26:52Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 近幾週科技股上漲後，韓國和日本市場出現下滑。
-- [原文連結](https://www.bbc.com/news/articles/c78yd5g9qx0o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D)
-
----
-
-### ⚖️ 以色列空襲測試停火後油價小漲
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: BBC News (2026-06-08T00:49:10Z)
-- **AI 判讀**: 屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 伊朗表示，這是自四月停火以來的首次襲擊，也是「整整一周」襲擊的開始
-- [原文連結](https://www.bbc.com/news/articles/c78yd5g9qx0o)
-
----
-
-### ⚖️ KORU 今年迄今上漲 236%，但在交易日價值僅損失了一半
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: 24/7 Wall St. (2026-06-07T15:30:26Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: If you owned Direxion Daily MSCI South Korea Bull 3X Shares (NYSEARCA:KORU) into the close on Friday, June 5, 2026, you watched $10,000 turn into roughly...
-- [原文連結](https://247wallst.com/investing/2026/06/07/koru-is-up-236-year-to-date-but-just-lost-half-its-value-in-a-single-trading-day/)
 
 ---
 
