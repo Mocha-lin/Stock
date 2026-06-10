@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-10T09:03:14.830575+00:00
+> 更新時間：2026-06-10T12:21:24.788434+00:00
 
 ### 🚀 2026 年第二季全球三大記憶體製造商地位：價格飆升和人工智慧需求鎖定強勁的記憶體賣方市場
 - **題材**: `HBM記憶體` | **重要性**: `78`
@@ -25,15 +25,6 @@
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Nvidia 即將推出的 Vera Rubin AI 伺服器平台在對其熱架構進行後期重新設計後，已成為密切關注的焦點。
 - [原文連結](https://www.digitimes.com/news/a20260608PD215/nvidia-rubin-ai-server-vapor-chamber-cooling-jentech-precision.html)
-
----
-
-### ⚖️ 長電科技開設3D封裝工廠瞄準AI電源模組、CPO需求
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-06-07T02:38:24Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 長電科技在江陰城東生產基地開設了一家新的先進製造工廠，加強這家中國 OSAT 供應商在人工智慧運算、電源模組和下一代資料中心先進封裝領域的發展。
-- [原文連結](https://www.digitimes.com/news/a20260605VL204/jcet-3d-packaging-cpo-demand.html)
 
 ---
 
@@ -70,15 +61,6 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: ASML 於 6 月 3 日星期三收盤，成為歐洲歷史上最有價值的公司，市值達到 6,680 億美元。
 - [原文連結](https://www.tomshardware.com/tech-industry/asml-beocmes-europes-most-valuable-company-ever-as-analysts-bet-on-higher-euv-output)
-
----
-
-### ⚖️ 三星代工廠四年後終於預計在 2026 年第三季恢復獲利
-- **題材**: `半導體先進製程` | **重要性**: `70`
-- **來源**: SamMobile (2026-06-08T11:23:28Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 自 2022 年以來，三星的代工部門每年都會損失數十億美元。它無法帶來所需的訂單，無法為晶片製造設施的巨額投資帶來回報。這種情況可能會在 2026 年第三季發生變化，提前四分之一…
-- [原文連結](https://www.sammobile.com/news/samsung-foundry-could-finally-return-to-profit-after-four-years-in-q3-2026/)
 
 ---
 
@@ -178,6 +160,24 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 台積電執行長 C.C. 表示，它沒有足夠的能力來滿足人工智慧超大規模企業的所有需求。魏表示，還需要很長時間才能滿足客戶的需求。不過，這對英特爾來說是一個機會，因為公司迫切希望獲得…
 - [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/tsmc-ceo-c-c-wei-says-it-will-be-a-long-time-before-we-can-meet-customer-demand-tells-shareholders-that-he-will-keep-prices-stable-refrain-from-implementing-price-hikes)
+
+---
+
+### 🚀 MBRYONICS 宣布太空光通訊取得突破
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: PRNewswire (2026-06-09T10:05:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: MBRYONICS 推出全球首款用於超高速空間鏈路的 25G/100G/400G/800G 雙向相干光收發器 STARLIGHT 愛爾蘭戈爾韋，2026 年 6 月 9 日 /美通社/ -- MBRYONICS，衛星光通訊領域的全球領導者，今天…
+- [原文連結](https://www.prnewswire.com/news-releases/mbryonics-announces-optical-communications-breakthrough-for-space-302794700.html)
+
+---
+
+### 🚀 MRVL 股票提醒：Marvell Technologies 將加入標準普爾 500 指數
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: Barchart.com (2026-06-08T19:47:20Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Marvell shares rally on news they will replace Pool Corporation on the S&P 500 index later this month. Here’s what makes MRVL stock worth owning at a premium...
+- [原文連結](https://www.barchart.com/story/news/2364143/mrvl-stock-alert-marvell-technologies-to-join-s-p-500)
 
 ---
 
