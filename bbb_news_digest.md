@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-10T12:21:24.788434+00:00
+> 更新時間：2026-06-10T16:28:40.991278+00:00
 
 ### 🚀 2026 年第二季全球三大記憶體製造商地位：價格飆升和人工智慧需求鎖定強勁的記憶體賣方市場
 - **題材**: `HBM記憶體` | **重要性**: `78`
@@ -55,15 +55,6 @@
 
 ---
 
-### 🚀 分析師押注 EUV 產量增加，ASML 成為歐洲有史以來最有價值的公司 - 其市值本週達到 6740 億美元
-- **題材**: `半導體先進製程` | **重要性**: `72`
-- **來源**: Tom's Hardware UK (2026-06-07T13:05:00Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: ASML 於 6 月 3 日星期三收盤，成為歐洲歷史上最有價值的公司，市值達到 6,680 億美元。
-- [原文連結](https://www.tomshardware.com/tech-industry/asml-beocmes-europes-most-valuable-company-ever-as-analysts-bet-on-higher-euv-output)
-
----
-
 ### ⚖️ PCL Technologies 瞄準 CPO，檳城工廠即將完工
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
 - **來源**: Digitimes (2026-06-09T06:55:33Z)
@@ -82,6 +73,15 @@
 
 ---
 
+### 🚀 分析師押注 EUV 產量增加，ASML 成為歐洲有史以來最有價值的公司 - 其市值本週達到 6740 億美元
+- **題材**: `半導體先進製程` | **重要性**: `67`
+- **來源**: Tom's Hardware UK (2026-06-07T13:05:00Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: ASML 於 6 月 3 日星期三收盤，成為歐洲歷史上最有價值的公司，市值達到 6,680 億美元。
+- [原文連結](https://www.tomshardware.com/tech-industry/asml-beocmes-europes-most-valuable-company-ever-as-analysts-bet-on-higher-euv-output)
+
+---
+
 ### 🚀 我開始覺得我的手機升級是我從未要求過的資助功能
 - **題材**: `HBM記憶體` | **重要性**: `65`
 - **來源**: Android Police (2026-06-08T15:15:10Z)
@@ -97,15 +97,6 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: SK海力士股價週一收盤下跌7.7%，因強勁的美國就業數據引發對聯準會升息的押注
 - [原文連結](https://qz.com/nvidia-sk-hynix-memory-chip-deal-south-korea-stocks-060826)
-
----
-
-### ⚠️ Nvidia 和 SK 海力士將合作，黃仁勳警告內存短缺可能“持續數年”
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: 24/7 Wall St. (2026-06-07T15:19:42Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 人工智慧基礎設施建設的運行速度仍然快於支援它所需的實體晶片。跨超大規模廠商、晶片設計師和記憶體......
-- [原文連結](https://247wallst.com/investing/2026/06/07/nvidia-and-sk-hynix-to-partner-as-jensen-huang-warns-memory-shortage-could-last-for-years/)
 
 ---
 
@@ -178,6 +169,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Marvell shares rally on news they will replace Pool Corporation on the S&P 500 index later this month. Here’s what makes MRVL stock worth owning at a premium...
 - [原文連結](https://www.barchart.com/story/news/2364143/mrvl-stock-alert-marvell-technologies-to-join-s-p-500)
+
+---
+
+### 🚀 亞洲科技股在創紀錄上漲和中東新一輪襲擊後暴跌
+- **題材**: `半導體先進製程` | **重要性**: `60`
+- **來源**: BBC News (2026-06-08T06:26:52Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 近幾週科技股上漲後，韓國和日本市場出現下滑。
+- [原文連結](https://www.bbc.com/news/articles/c78yd5g9qx0o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D)
 
 ---
 
