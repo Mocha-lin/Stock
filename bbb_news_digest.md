@@ -1,14 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-11T00:16:22.002987+00:00
-
-### ⚠️ 大立光5月營收年增43%
-- **題材**: `光通訊與矽光子` | **重要性**: `78`
-- **來源**: Digitimes (2026-06-07T23:41:48Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 阿根科技6月5日公佈，5月合併營收為新台幣45.93億元，較4月下降14%，較2025年5月成長43%。前5個月營收達新台幣254.95億元，年增15%。該公司表示將持有一家投資者公司...
-- [原文連結](https://www.digitimes.com/news/a20260605PD237/revenue-cpo-optics-development-2025.html)
-
----
+> 更新時間：2026-06-11T05:22:24.129334+00:00
 
 ### 🚀 2026 年第二季全球三大記憶體製造商地位：價格飆升和人工智慧需求鎖定強勁的記憶體賣方市場
 - **題材**: `HBM記憶體` | **重要性**: `78`
@@ -19,21 +10,12 @@
 
 ---
 
-### ⚖️ 獨家：Nvidia 放棄了 Vera Rubin 平台的雙片式冷卻架構
-- **題材**: `AI伺服器` | **重要性**: `73`
-- **來源**: Digitimes (2026-06-08T02:20:27Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Nvidia 即將推出的 Vera Rubin AI 伺服器平台在對其熱架構進行後期重新設計後，已成為密切關注的焦點。
-- [原文連結](https://www.digitimes.com/news/a20260608PD215/nvidia-rubin-ai-server-vapor-chamber-cooling-jentech-precision.html)
-
----
-
-### ⚖️ 評論：大立光電股東大會將重點放在 CPO 進度和手機需求
+### ⚖️ 台灣AI產業計畫以矽光子為新護城河
 - **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-06-08T01:17:59Z)
+- **來源**: Digitimes (2026-06-10T01:30:00Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 大立光電將於 6 月 9 日召開年度股東大會，全球投資者將關注手機需求、製造能力及其進軍人工智慧光通訊領域的訊號。這次會議也可能表明......
-- [原文連結](https://www.digitimes.com/news/a20260608PD212/largan-precision-cpo-capacity-demand-2026.html)
+- **摘要**: 隨著人工智慧驅動的高速數據傳輸需求加速，台灣政府啟動了一項人工智慧基礎設施計劃，旨在透過利用矽光子（SiPh）形成新的護城河，進一步增強其半導體產業實力。
+- [原文連結](https://www.digitimes.com/news/a20260609PD215/taiwan-siph-government-silicon-photonics.html)
 
 ---
 
@@ -82,6 +64,15 @@
 
 ---
 
+### ⚖️ 大立光電瞄準 CPO 多層堆疊，推出首條 FAU 試驗線
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-06-10T01:26:31Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 鏡頭製造商大立光電 (Largan Precision) 於 6 月 9 日召開股東大會，長期以來以簡潔的公開言論著稱的董事長 Adam Lin 顯得很輕鬆，並對行業、技術和大立光電自身的運營提出了異常詳細的看法。他的評論…
+- [原文連結](https://www.digitimes.com/news/a20260609PD234/largan-precision-cpo-production.html)
+
+---
+
 ### ⚖️ PCL Technologies 瞄準 CPO，檳城工廠即將完工
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
 - **來源**: Digitimes (2026-06-09T06:55:33Z)
@@ -91,12 +82,21 @@
 
 ---
 
-### ⚖️ SK 與台積電深化 HBM 和先進封裝合作
-- **題材**: `半導體先進製程` | **重要性**: `68`
-- **來源**: Digitimes (2026-06-04T01:54:30Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: SK集團會長崔泰源會見台積電董事長C.C. 6月3日，魏京生在台灣，雙方就下一代人工智慧技術的最新趨勢交換了意見，並討論瞭如何塑造人工智慧生態系統的未來。會議強調，更緊密地...
-- [原文連結](https://www.digitimes.com/news/a20260604PD211/tsmc-sk-hynix-hbm-packaging.html)
+### ⚖️ 獨家：Nvidia 放棄了 Vera Rubin 平台的雙片式冷卻架構
+- **題材**: `AI伺服器` | **重要性**: `68`
+- **來源**: Digitimes (2026-06-08T02:20:27Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Nvidia 即將推出的 Vera Rubin AI 伺服器平台在對其熱架構進行後期重新設計後，已成為密切關注的焦點。
+- [原文連結](https://www.digitimes.com/news/a20260608PD215/nvidia-rubin-ai-server-vapor-chamber-cooling-jentech-precision.html)
+
+---
+
+### ⚖️ 評論：大立光電股東大會將重點放在 CPO 進度和手機需求
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-06-08T01:17:59Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 大立光電將於 6 月 9 日召開年度股東大會，全球投資者將關注手機需求、製造能力及其進軍人工智慧光通訊領域的訊號。這次會議也可能表明......
+- [原文連結](https://www.digitimes.com/news/a20260608PD212/largan-precision-cpo-capacity-demand-2026.html)
 
 ---
 
@@ -106,6 +106,15 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: ASML 於 6 月 3 日星期三收盤，成為歐洲歷史上最有價值的公司，市值達到 6,680 億美元。
 - [原文連結](https://www.tomshardware.com/tech-industry/asml-beocmes-europes-most-valuable-company-ever-as-analysts-bet-on-higher-euv-output)
+
+---
+
+### 🚀 Higher oil prices are making Russia richer — but not helping its economy grow, Goldman says
+- **題材**: `總體風險` | **重要性**: `65`
+- **來源**: Business Insider (2026-06-10T04:34:35Z)
+- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 俄羅斯已成為最近伊朗戰爭期間全球石油市場混亂的少數贏家之一。
+- [原文連結](https://www.businessinsider.com/russia-economy-oil-price-boom-gdp-growth-goldman-sachs-2026-6)
 
 ---
 
@@ -145,6 +154,15 @@
 
 ---
 
+### ⚖️ SK 與台積電深化 HBM 和先進封裝合作
+- **題材**: `半導體先進製程` | **重要性**: `63`
+- **來源**: Digitimes (2026-06-04T01:54:30Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: SK集團會長崔泰源會見台積電董事長C.C. 6月3日，魏京生在台灣，雙方就下一代人工智慧技術的最新趨勢交換了意見，並討論瞭如何塑造人工智慧生態系統的未來。會議強調，更緊密地...
+- [原文連結](https://www.digitimes.com/news/a20260604PD211/tsmc-sk-hynix-hbm-packaging.html)
+
+---
+
 ### ⚖️ 心懷不滿的 ASML 員工威脅抵制 Elon Musk 出席會議——員工對政治參與和「納粹同情」表示憤怒
 - **題材**: `半導體先進製程` | **重要性**: `62`
 - **來源**: Tom's Hardware UK (2026-06-08T13:27:58Z)
@@ -160,24 +178,6 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 由九個美國貿易協會組成的聯盟敦促川普政府解決人工智慧驅動的記憶體晶片短缺問題，並警告稱，DRAM 價格飆升和供應有限可能會增加消費性電子產品、汽車、醫療設備等的成本。
 - [原文連結](https://www.tomshardware.com/tech-industry/artificial-intelligence/industry-coalition-urges-trump-administration-to-take-urgent-action-as-ai-data-centers-extreme-memory-consumption-threatens-other-industries-ai-driven-memory-chip-shortage-could-raise-prices-in-automotive-medical-telecommunications-sectors)
-
----
-
-### ⚖️ 台積電執行長 C.C.魏說，「我們需要很長時間才能滿足客戶的需求」——他告訴股東，他將保持價格穩定，不會實施漲價
-- **題材**: `半導體先進製程` | **重要性**: `62`
-- **來源**: Tom's Hardware UK (2026-06-04T16:18:52Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 台積電執行長 C.C. 表示，它沒有足夠的能力來滿足人工智慧超大規模企業的所有需求。魏表示，還需要很長時間才能滿足客戶的需求。不過，這對英特爾來說是一個機會，因為公司迫切希望獲得…
-- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/tsmc-ceo-c-c-wei-says-it-will-be-a-long-time-before-we-can-meet-customer-demand-tells-shareholders-that-he-will-keep-prices-stable-refrain-from-implementing-price-hikes)
-
----
-
-### 🚀 「江南風格」股票獲得人工智慧續集：每日圖表
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-06-09T13:50:37Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 曾經因鳥叔的《江南 Style》而掀起熱潮的韓國半導體設備製造商 DI 又重返人工智慧版圖，股價上漲 40%...
-- [原文連結](https://finance.yahoo.com/markets/article/a-gangnam-style-stock-gets-an-ai-sequel-chart-of-the-day-135037570.html)
 
 ---
 
