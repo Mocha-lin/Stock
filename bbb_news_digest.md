@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-11T09:49:08.662669+00:00
+> 更新時間：2026-06-11T12:47:01.471144+00:00
 
 ### 🚀 2026 年第二季全球三大記憶體製造商地位：價格飆升和人工智慧需求鎖定強勁的記憶體賣方市場
 - **題材**: `HBM記憶體` | **重要性**: `78`
@@ -7,6 +7,15 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 預計2026年第二季記憶體製造商營收將再創新高；美國、日本和韓國推出新產品競爭，而台灣廠商則持續追求利基市場動力。
 - [原文連結](https://www.digitimes.com/reports/item.php?id=20260602RS400)
+
+---
+
+### 🚀 分析台積電的晶圓廠擴張路線圖 — 多晶圓廠 N2 坡道、CoWoS、SoIC 與消除瓶頸
+- **題材**: `半導體先進製程` | **重要性**: `77`
+- **來源**: Tom's Hardware UK (2026-06-10T11:41:11Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 台積電正在執行半導體行業歷史上最大規模的製造擴張，結合了同步多晶圓廠 N2 產能提升、人工智能驅動的製造優化以及大規模 CoWoS/SoIC 封裝產能擴張，以滿足日益增長的人工智能需求…
+- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/analyzing-tsmcs-fab-expansion-roadmap-multi-fab-n2-ramp-cowos-soic-and-uncorking-bottlenecks)
 
 ---
 
@@ -52,15 +61,6 @@
 - **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 新的用水需求分析顯示，資料中心冷卻約佔人工智慧足跡的 4%，其餘則由晶圓廠和發電部門承擔。
 - [原文連結](https://www.tomshardware.com/tech-industry/most-new-us-ai-data-centers-are-going-up-on-drought-land)
-
----
-
-### ⚖️ 三星代工廠四年後終於預計在 2026 年第三季恢復獲利
-- **題材**: `半導體先進製程` | **重要性**: `70`
-- **來源**: SamMobile (2026-06-08T11:23:28Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 自 2022 年以來，三星的代工部門每年都會損失數十億美元。它無法帶來所需的訂單，無法為晶片製造設施的巨額投資帶來回報。這種情況可能會在 2026 年第三季發生變化，提前四分之一…
-- [原文連結](https://www.sammobile.com/news/samsung-foundry-could-finally-return-to-profit-after-four-years-in-q3-2026/)
 
 ---
 
@@ -127,15 +127,6 @@
 
 ---
 
-### 🚀 Nvidia 與 SK Hynix 簽署多年內存晶片協議
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: Quartz India (2026-06-08T11:17:50Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: SK海力士股價週一收盤下跌7.7%，因強勁的美國就業數據引發對聯準會升息的押注
-- [原文連結](https://qz.com/nvidia-sk-hynix-memory-chip-deal-south-korea-stocks-060826)
-
----
-
 ### ⚠️ 川普政府仍在努力保留數十億美元的非法關稅收入
 - **題材**: `總體風險` | **重要性**: `65`
 - **來源**: Yahoo Entertainment (2026-06-05T17:15:22Z)
@@ -178,6 +169,15 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 由九個美國貿易協會組成的聯盟敦促川普政府解決人工智慧驅動的記憶體晶片短缺問題，並警告稱，DRAM 價格飆升和供應有限可能會增加消費性電子產品、汽車、醫療設備等的成本。
 - [原文連結](https://www.tomshardware.com/tech-industry/artificial-intelligence/industry-coalition-urges-trump-administration-to-take-urgent-action-as-ai-data-centers-extreme-memory-consumption-threatens-other-industries-ai-driven-memory-chip-shortage-could-raise-prices-in-automotive-medical-telecommunications-sectors)
+
+---
+
+### ⚖️ 台積電執行長 C.C.魏說，「我們需要很長時間才能滿足客戶的需求」——他告訴股東，他將保持價格穩定，不會實施漲價
+- **題材**: `半導體先進製程` | **重要性**: `62`
+- **來源**: Tom's Hardware UK (2026-06-04T16:18:52Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 台積電執行長 C.C. 表示，它沒有足夠的能力來滿足人工智慧超大規模企業的所有需求。魏表示，還需要很長時間才能滿足客戶的需求。不過，這對英特爾來說是一個機會，因為公司迫切希望獲得…
+- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/tsmc-ceo-c-c-wei-says-it-will-be-a-long-time-before-we-can-meet-customer-demand-tells-shareholders-that-he-will-keep-prices-stable-refrain-from-implementing-price-hikes)
 
 ---
 

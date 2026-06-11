@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-06-11T09:49:08.662669+00:00",
+  "generated_at": "2026-06-11T12:47:01.471144+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 71,
@@ -39,6 +39,44 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
+      "id": "e59beb49adbe92b8",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "分析台積電的晶圓廠擴張路線圖 — 多晶圓廠 N2 坡道、CoWoS、SoIC 與消除瓶頸",
+      "summary": "台積電正在執行半導體行業歷史上最大規模的製造擴張，結合了同步多晶圓廠 N2 產能提升、人工智能驅動的製造優化以及大規模 CoWoS/SoIC 封裝產能擴張，以滿足日益增長的人工智能需求…",
+      "original_title": "Analyzing TSMC's fab expansion roadmap — multi-fab N2 ramp, CoWoS, SoIC, and uncorking bottlenecks",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/analyzing-tsmcs-fab-expansion-roadmap-multi-fab-n2-ramp-cowos-soic-and-uncorking-bottlenecks",
+      "source": "Tom's Hardware UK",
+      "domain": "tomshardware.com",
+      "published_at": "2026-06-10T11:41:11Z",
+      "importance": 77,
+      "impact": "positive",
+      "timeframe": "short_to_mid_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "89d8e13097a91f9a",
@@ -226,44 +264,6 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
-      "id": "cbf3ee2af2c5f7f8",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "三星代工廠四年後終於預計在 2026 年第三季恢復獲利",
-      "summary": "自 2022 年以來，三星的代工部門每年都會損失數十億美元。它無法帶來所需的訂單，無法為晶片製造設施的巨額投資帶來回報。這種情況可能會在 2026 年第三季發生變化，提前四分之一…",
-      "original_title": "Samsung Foundry could finally return to profit after four years in Q3 2026",
-      "url": "https://www.sammobile.com/news/samsung-foundry-could-finally-return-to-profit-after-four-years-in-q3-2026/",
-      "source": "SamMobile",
-      "domain": "sammobile.com",
-      "published_at": "2026-06-08T11:23:28Z",
-      "importance": 70,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "39c0bd82938949dd",
@@ -526,41 +526,6 @@
       "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "ba2feda48d2b5887",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "Nvidia 與 SK Hynix 簽署多年內存晶片協議",
-      "summary": "SK海力士股價週一收盤下跌7.7%，因強勁的美國就業數據引發對聯準會升息的押注",
-      "original_title": "Nvidia signs multi-year memory chip deal with SK Hynix",
-      "url": "https://qz.com/nvidia-sk-hynix-memory-chip-deal-south-korea-stocks-060826",
-      "source": "Quartz India",
-      "domain": "qz.com",
-      "published_at": "2026-06-08T11:17:50Z",
-      "importance": 65,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "15921fa76837b97f",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -783,17 +748,17 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "93545970755bd77f",
+      "id": "8b6ec0dfb1de343f",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "AI伺服器",
-      "title": "超微電腦將籌集 70 億美元股票發行以滿足人工智慧伺服器需求",
-      "summary": "超微電腦週二表示，將透過一系列股權和股權相關融資交易籌集 70 億美元，為購買...",
-      "original_title": "Super Micro Computer to raise $7 billion in equity offerings to meet AI server demand",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/super-micro-computer-plans-raise-212105538.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-06-09T21:21:05Z",
+      "title": "Supermicro 將籌集 70 億美元用於履行 AI 伺服器訂單",
+      "summary": "該公司計劃利用所得款項來解決 20 多家客戶的大規模 AI 伺服器訂單。",
+      "original_title": "Supermicro to raise $7bn for AI server order fulfilment",
+      "url": "https://www.verdict.co.uk/supermicro-to-raise-7bn/",
+      "source": "Verdict",
+      "domain": "verdict.co.uk",
+      "published_at": "2026-06-10T11:59:45Z",
       "importance": 60,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -819,6 +784,44 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "b6e8ed1cf70ab85e",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "頑皮狗創始人談失去古惑狼和「糟糕的」環球互動合作夥伴關係",
+      "summary": "顽皮狗创始人杰森·鲁宾谈到了该工作室退出古惑狼系列和环球互动的决定，称这种业务关系“糟糕透顶”。閱讀更多",
+      "original_title": "Naughty Dog founder speaks on losing Crash Bandicoot and \"abysmal\" Universal Interactive partnership",
+      "url": "https://www.eurogamer.net/crash-bandicoot-universal-interactive",
+      "source": "Eurogamer.net",
+      "domain": "eurogamer.net",
+      "published_at": "2026-06-10T10:37:36Z",
+      "importance": 60,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "62c89077a3a0c3d6",
@@ -895,6 +898,41 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "ba2feda48d2b5887",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "Nvidia 與 SK Hynix 簽署多年內存晶片協議",
+      "summary": "SK海力士股價週一收盤下跌7.7%，因強勁的美國就業數據引發對聯準會升息的押注",
+      "original_title": "Nvidia signs multi-year memory chip deal with SK Hynix",
+      "url": "https://qz.com/nvidia-sk-hynix-memory-chip-deal-south-korea-stocks-060826",
+      "source": "Quartz India",
+      "domain": "qz.com",
+      "published_at": "2026-06-08T11:17:50Z",
+      "importance": 60,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "2c0d9c0bfd4111d4",
@@ -1079,6 +1117,44 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "0aa2b69887131e4a",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "通貨膨脹自2023年以來首次超過4%",
+      "summary": "新的CPI報告顯示，5月通膨率攀升至約三年來的最高水準。",
+      "original_title": "Inflation surpassed 4% for the first time since 2023",
+      "url": "https://www.businessinsider.com/cpi-inflation-may-consumer-price-index-2026-6",
+      "source": "Business Insider",
+      "domain": "businessinsider.com",
+      "published_at": "2026-06-10T12:35:44Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "f49520d15923f5cb",
@@ -1390,41 +1466,6 @@
       "source": "SamMobile",
       "domain": "sammobile.com",
       "published_at": "2026-06-08T14:00:26Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "80ebdc35544b2a23",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "iShares 韓國 ETF (EWY) 下跌 14%，創六年來最慘烈走勢，博通首當其衝",
-      "summary": "如果您在周五早上持有 iShares MSCI 韓國 ETF (NYSEARCA:EWY)，那麼您在收盤時擁有大約 204 美元的股票，價值 175.19 美元，...",
-      "original_title": "The iShares Korea ETF (EWY) Dropped 14% in Its Most Brutal Session in Six Years, and It Started With Broadcom",
-      "url": "https://247wallst.com/investing/2026/06/08/the-ishares-korea-etf-ewy-dropped-14-in-its-most-brutal-session-in-six-years-and-it-started-with-broadcom/",
-      "source": "24/7 Wall St.",
-      "domain": "247wallst.com",
-      "published_at": "2026-06-08T12:00:15Z",
       "importance": 55,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -1902,44 +1943,6 @@
       "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "898e55890e1d2c55",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "當談到延遲的人工智慧功能時，隱私可能仍然是蘋果的救星",
-      "summary": "18 個多月前，我曾發​​表過一篇評論文章，指出雖然等待新 Siri 的過程令人沮喪，但隱私方面的回報是值得的。\n\n\n\n從那時起已經過去了很多時間，當然，用戶對持續延遲的挫敗感與日俱增…",
-      "original_title": "Privacy may still be Apple’s savior when it comes to delayed AI features",
-      "url": "https://9to5mac.com/2026/06/04/privacy-may-still-be-apples-savior-when-it-comes-to-delayed-ai-features/",
-      "source": "9to5Mac",
-      "domain": "9to5mac.com",
-      "published_at": "2026-06-04T11:17:58Z",
-      "importance": 55,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "086a8fea409f3266",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1978,6 +1981,41 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "80ebdc35544b2a23",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "iShares 韓國 ETF (EWY) 下跌 14%，創六年來最慘烈走勢，博通首當其衝",
+      "summary": "如果您在周五早上持有 iShares MSCI 韓國 ETF (NYSEARCA:EWY)，那麼您在收盤時擁有大約 204 美元的股票，價值 175.19 美元，...",
+      "original_title": "The iShares Korea ETF (EWY) Dropped 14% in Its Most Brutal Session in Six Years, and It Started With Broadcom",
+      "url": "https://247wallst.com/investing/2026/06/08/the-ishares-korea-etf-ewy-dropped-14-in-its-most-brutal-session-in-six-years-and-it-started-with-broadcom/",
+      "source": "24/7 Wall St.",
+      "domain": "247wallst.com",
+      "published_at": "2026-06-08T12:00:15Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "db3b812c45ab6567",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2014,44 +2052,6 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "77ba017940ec59ad",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Blackwell 的大力投入震撼了雲端空間",
-      "summary": "",
-      "original_title": "Rumble Shakes Up the Cloud Space with Massive Blackwell Commitment",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4319f79c-2b89-4a25-9e92-2aeeb37a8912",
-      "source": "Yahoo Entertainment",
-      "domain": "consent.yahoo.com",
-      "published_at": "2026-06-07T15:30:02Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "dbb8b57750f366cd",
@@ -2320,44 +2320,6 @@
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "9a8a106fe66779e6",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "印度貿易部長表示，美印貿易協定第一筆交易可能在七月中旬達成",
-      "summary": "新德里，6 月 5 日（路透社）",
-      "original_title": "First tranche of US-India trade deal likely by mid-July, says India trade minister",
-      "url": "https://www.yahoo.com/news/politics/articles/first-tranche-us-india-trade-124331534.html",
-      "source": "Yahoo Entertainment",
-      "domain": "yahoo.com",
-      "published_at": "2026-06-05T12:43:31Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "8e7c3c320fb5eea4",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2584,6 +2546,44 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "898e55890e1d2c55",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "當談到延遲的人工智慧功能時，隱私可能仍然是蘋果的救星",
+      "summary": "18 個多月前，我曾發​​表過一篇評論文章，指出雖然等待新 Siri 的過程令人沮喪，但隱私方面的回報是值得的。\n\n\n\n從那時起已經過去了很多時間，當然，用戶對持續延遲的挫敗感與日俱增…",
+      "original_title": "Privacy may still be Apple’s savior when it comes to delayed AI features",
+      "url": "https://9to5mac.com/2026/06/04/privacy-may-still-be-apples-savior-when-it-comes-to-delayed-ai-features/",
+      "source": "9to5Mac",
+      "domain": "9to5mac.com",
+      "published_at": "2026-06-04T11:17:58Z",
+      "importance": 50,
+      "impact": "negative",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "5f22a9f6ad3a3175",
