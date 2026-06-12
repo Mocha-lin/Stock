@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-12T00:20:19.669152+00:00
+> 更新時間：2026-06-12T05:25:44.841354+00:00
 
 ### 🚀 光學股乘著人工智慧熱潮，應用光電上漲 7%，Lumentum 上漲 5%，相干公司上漲 2%
 - **題材**: `光通訊與矽光子` | **重要性**: `80`
@@ -7,6 +7,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 光網路股票在周三午盤交易中受到追捧，隨著人工智慧基礎設施貿易的重新確立，該集團集體上漲...
 - [原文連結](https://247wallst.com/investing/2026/06/10/applied-optoelectronics-jumps-7-lumentum-climbs-5-coherent-rises-2-as-optics-stocks-ride-the-ai-boom/)
+
+---
+
+### ⚠️ CPO 的延遲可能會改變人工智慧網路需求，而不是使其脫軌
+- **題材**: `光通訊與矽光子` | **重要性**: `78`
+- **來源**: Digitimes (2026-06-11T03:49:31Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Concerns have emerged in recent weeks that the commercialization of co-packaged optics (CPO), a technology widely viewed as the future of AI networking, could face further delays as manufacturing yields remain inconsistent.
+- [原文連結](https://www.digitimes.com/news/a20260611PD219/cpo-demand-optics-technology-switch.html)
 
 ---
 
@@ -118,30 +127,12 @@
 
 ---
 
-### ⚖️ 評論：大立光電股東大會將重點放在 CPO 進度和手機需求
-- **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-06-08T01:17:59Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 大立光電將於 6 月 9 日召開年度股東大會，全球投資者將關注手機需求、製造能力及其進軍人工智慧光通訊領域的訊號。這次會議也可能表明......
-- [原文連結](https://www.digitimes.com/news/a20260608PD212/largan-precision-cpo-capacity-demand-2026.html)
-
----
-
 ### ⚠️ 美國大多數新的人工智慧資料中心都建在乾旱地區——809個規劃項目中的三分之二是建在缺水地區
 - **題材**: `AI伺服器` | **重要性**: `67`
 - **來源**: Tom's Hardware UK (2026-06-08T16:39:27Z)
 - **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 新的用水需求分析顯示，資料中心冷卻約佔人工智慧足跡的 4%，其餘則由晶圓廠和發電部門承擔。
 - [原文連結](https://www.tomshardware.com/tech-industry/most-new-us-ai-data-centers-are-going-up-on-drought-land)
-
----
-
-### 🚀 分析師押注 EUV 產量增加，ASML 成為歐洲有史以來最有價值的公司 - 其市值本週達到 6740 億美元
-- **題材**: `半導體先進製程` | **重要性**: `67`
-- **來源**: Tom's Hardware UK (2026-06-07T13:05:00Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: ASML 於 6 月 3 日星期三收盤，成為歐洲歷史上最有價值的公司，市值達到 6,680 億美元。
-- [原文連結](https://www.tomshardware.com/tech-industry/asml-beocmes-europes-most-valuable-company-ever-as-analysts-bet-on-higher-euv-output)
 
 ---
 
@@ -178,6 +169,15 @@
 - **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 
 - [原文連結](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_bead5026-3dda-4340-8e56-fdd1bc389cbc)
+
+---
+
+### ⚖️ DDR5、DDR4價格上漲，AI需求擠壓主流DRAM供應
+- **題材**: `HBM記憶體` | **重要性**: `63`
+- **來源**: Digitimes (2026-06-06T02:43:24Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Ni 表示，隨著三星電子、SK 海力士和美光科技優先考慮用於人工智慧應用的高頻寬記憶體（HBM），導致 PC、伺服器和其他電子產品中使用的主流 DDR5 和 DDR4 產品供應緊張，DRAM 價格正在攀升。
+- [原文連結](https://www.digitimes.com/news/a20260603VL216/dram-ddr4-ddr5-demand-price.html)
 
 ---
 
