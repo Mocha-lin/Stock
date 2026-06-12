@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-11T19:28:05.309650+00:00
+> 更新時間：2026-06-12T00:20:19.669152+00:00
 
 ### 🚀 光學股乘著人工智慧熱潮，應用光電上漲 7%，Lumentum 上漲 5%，相干公司上漲 2%
 - **題材**: `光通訊與矽光子` | **重要性**: `80`
@@ -7,6 +7,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 光網路股票在周三午盤交易中受到追捧，隨著人工智慧基礎設施貿易的重新確立，該集團集體上漲...
 - [原文連結](https://247wallst.com/investing/2026/06/10/applied-optoelectronics-jumps-7-lumentum-climbs-5-coherent-rises-2-as-optics-stocks-ride-the-ai-boom/)
+
+---
+
+### 🚀 Gudeng flags EUV supply constraints as advanced-chip expansion accelerates
+- **題材**: `半導體先進製程` | **重要性**: `78`
+- **來源**: Digitimes (2026-06-10T21:50:56Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 谷登董事長兼執行長Bill Chiu表示，全球對人工智慧的需求正在推動2奈米和3奈米先進節點產能擴張的浪潮，但晶片製造商最大的限制不是建造晶圓廠，而是確保極紫外光刻系統的安全。
+- [原文連結](https://www.digitimes.com/news/a20260610PD242/expansion-euv-demand-ceo-chairman.html)
 
 ---
 
@@ -46,12 +55,12 @@
 
 ---
 
-### 🚀 富士康、英特爾連動AI基礎設施推動晶片、機架和系統
+### ⚖️ 長電科技開設3D封裝工廠瞄準AI電源模組、CPO需求
 - **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-06-04T23:45:16Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 6月4日，富士康宣布與英特爾達成策略夥伴關係，共同探索跨晶片、機架、系統、應用的端到端AI解決方案，合作涵蓋AI機架基礎設施、邊緣AI和實體AI平台。此次合作也將…
-- [原文連結](https://www.digitimes.com/news/a20260604PD233/foxconn-intel-infrastructure-chips-partnership.html)
+- **來源**: Digitimes (2026-06-07T02:38:24Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 長電科技在江陰城東生產基地開設了一家新的先進製造工廠，加強這家中國 OSAT 供應商在人工智慧運算、電源模組和下一代資料中心先進封裝領域的發展。
+- [原文連結](https://www.digitimes.com/news/a20260605VL204/jcet-3d-packaging-cpo-demand.html)
 
 ---
 
@@ -61,6 +70,24 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 經過數月測試英特爾的先進封裝後，Google已向英特爾下訂單，在 2028 年生產超過 300 萬個 TPU。
 - [原文連結](https://www.tomshardware.com/tech-industry/google-reportedly-books-intel-for-more-than-3-million-tpus-in-2028)
+
+---
+
+### ⚖️ Google與 SpaceX 簽署了每月 9.2 億美元的計算協議——預計該公司資料中心的年度收入將在 2025 年超過其來自 Starlink、發射服務和人工智慧的收入總和
+- **題材**: `AI伺服器` | **重要性**: `72`
+- **來源**: Tom's Hardware UK (2026-06-07T12:45:00Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 谷歌與 SpaceX 每月價值 9.2 億美元的交易將使其從 2026 年 10 月開始獲得 110,000 個 Nvidia GPU。這是 SpaceX 在幾週內達成的第二筆資料中心交易，尤其是在它即將於 2026 年 6 月 12 日進行首次公開發行 (IPO) 之際。
+- [原文連結](https://www.tomshardware.com/tech-industry/artificial-intelligence/google-signs-usd920m-monthly-compute-deal-with-spacex-companys-projected-annual-data-center-revenue-to-exceed-its-combined-proceeds-from-starlink-launch-services-and-ai-in-2025)
+
+---
+
+### ⚖️ 大立光的 CPO 業務取決於 0.3 微米以下的精度，而不是完美的零件
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-06-10T21:52:17Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Largan Precision is accelerating its push into CPO-related optical components, with chairman Adam Lin revealing that the company is building its first automated pilot line at a new Taiwan facility, scheduled to be ready before September 2026.
+- [原文連結](https://www.digitimes.com/news/a20260610PD237/largan-precision-optical-components-cpo-chairman-production.html)
 
 ---
 
@@ -91,12 +118,30 @@
 
 ---
 
+### ⚖️ 評論：大立光電股東大會將重點放在 CPO 進度和手機需求
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-06-08T01:17:59Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 大立光電將於 6 月 9 日召開年度股東大會，全球投資者將關注手機需求、製造能力及其進軍人工智慧光通訊領域的訊號。這次會議也可能表明......
+- [原文連結](https://www.digitimes.com/news/a20260608PD212/largan-precision-cpo-capacity-demand-2026.html)
+
+---
+
 ### ⚠️ 美國大多數新的人工智慧資料中心都建在乾旱地區——809個規劃項目中的三分之二是建在缺水地區
 - **題材**: `AI伺服器` | **重要性**: `67`
 - **來源**: Tom's Hardware UK (2026-06-08T16:39:27Z)
 - **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 新的用水需求分析顯示，資料中心冷卻約佔人工智慧足跡的 4%，其餘則由晶圓廠和發電部門承擔。
 - [原文連結](https://www.tomshardware.com/tech-industry/most-new-us-ai-data-centers-are-going-up-on-drought-land)
+
+---
+
+### 🚀 分析師押注 EUV 產量增加，ASML 成為歐洲有史以來最有價值的公司 - 其市值本週達到 6740 億美元
+- **題材**: `半導體先進製程` | **重要性**: `67`
+- **來源**: Tom's Hardware UK (2026-06-07T13:05:00Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: ASML 於 6 月 3 日星期三收盤，成為歐洲歷史上最有價值的公司，市值達到 6,680 億美元。
+- [原文連結](https://www.tomshardware.com/tech-industry/asml-beocmes-europes-most-valuable-company-ever-as-analysts-bet-on-higher-euv-output)
 
 ---
 
@@ -118,70 +163,21 @@
 
 ---
 
+### 🚀 AI 伺服器需求旺盛，戴爾股價飆漲 54%，惠普企業版股價一個月內飆漲 59%
+- **題材**: `AI伺服器` | **重要性**: `65`
+- **來源**: 24/7 Wall St. (2026-06-08T19:26:00Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 戴爾科技集團 (NYSE:DELL) 和惠普企業 (NYSE:HPE) 的股價正受到關注，因為這兩家公司都延續了一個月的強勁上漲勢頭…
+- [原文連結](https://247wallst.com/investing/2026/06/08/dell-soars-54-hp-enterprise-rockets-59-in-a-month-as-ai-server-demand-booms/)
+
+---
+
 ### ⚠️ 川普政府仍在努力保留數十億美元的非法關稅收入
 - **題材**: `總體風險` | **重要性**: `65`
 - **來源**: Yahoo Entertainment (2026-06-05T17:15:22Z)
 - **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 
 - [原文連結](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_bead5026-3dda-4340-8e56-fdd1bc389cbc)
-
----
-
-### ⚖️ DDR5、DDR4價格上漲，AI需求擠壓主流DRAM供應
-- **題材**: `HBM記憶體` | **重要性**: `63`
-- **來源**: Digitimes (2026-06-06T02:43:24Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Ni 表示，隨著三星電子、SK 海力士和美光科技優先考慮用於人工智慧應用的高頻寬記憶體（HBM），導致 PC、伺服器和其他電子產品中使用的主流 DDR5 和 DDR4 產品供應緊張，DRAM 價格正在攀升。
-- [原文連結](https://www.digitimes.com/news/a20260603VL216/dram-ddr4-ddr5-demand-price.html)
-
----
-
-### ⚖️ SK 與台積電深化 HBM 和先進封裝合作
-- **題材**: `半導體先進製程` | **重要性**: `63`
-- **來源**: Digitimes (2026-06-04T01:54:30Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: SK集團會長崔泰源會見台積電董事長C.C. 6月3日，魏京生在台灣，雙方就下一代人工智慧技術的最新趨勢交換了意見，並討論瞭如何塑造人工智慧生態系統的未來。會議強調，更緊密地...
-- [原文連結](https://www.digitimes.com/news/a20260604PD211/tsmc-sk-hynix-hbm-packaging.html)
-
----
-
-### ⚖️ 產業聯盟敦促川普政府採取緊急行動，因為人工智慧資料中心的極端記憶體消耗威脅到其他產業——人工智慧驅動的記憶體晶片短缺可能會提高汽車、醫療、電信產業的價格
-- **題材**: `HBM記憶體` | **重要性**: `62`
-- **來源**: Tom's Hardware UK (2026-06-05T12:20:01Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 由九個美國貿易協會組成的聯盟敦促川普政府解決人工智慧驅動的記憶體晶片短缺問題，並警告稱，DRAM 價格飆升和供應有限可能會增加消費性電子產品、汽車、醫療設備等的成本。
-- [原文連結](https://www.tomshardware.com/tech-industry/artificial-intelligence/industry-coalition-urges-trump-administration-to-take-urgent-action-as-ai-data-centers-extreme-memory-consumption-threatens-other-industries-ai-driven-memory-chip-shortage-could-raise-prices-in-automotive-medical-telecommunications-sectors)
-
----
-
-### 🚀 iPhone 18 Pro：三項新功能可能讓你想升級
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: 9to5Mac (2026-06-10T18:51:24Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: iPhone 18 Pro 將於今年秋季上市，三項新功能可能成為蘋果最新旗艦機型升級的首要動力。
-
-
-
- 更多的…
-- [原文連結](https://9to5mac.com/2026/06/10/iphone-18-pro-three-new-features-might-make-you-want-to-upgrade/)
-
----
-
-### 🚀 NVIDIA (NVDA) 執行長與韓國 SK 集團預計將宣布合作計劃
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-06-10T17:15:33Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: NVIDIA Corporation (NASDAQ:NVDA) is among the Top 10 Unstoppable Growth Stocks to Invest In. On June 7, Reuters reported that NVIDIA Corporation (NASDAQ:NVDA...
-- [原文連結](https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-ceo-south-korea-171533481.html)
-
----
-
-### 🚀 汽油價格飆升導致通膨三年來首次突破 4%
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: NPR (2026-06-10T13:08:58Z)
-- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 自從美國和以色列對伊朗發動戰爭以來，通貨膨脹已飆升至三年多來的最高水平，引發汽油價格飆升。
-- [原文連結](https://www.npr.org/2026/06/10/nx-s1-5853077/inflation-over-4-cpi-gasoline-prices)
 
 ---
 
