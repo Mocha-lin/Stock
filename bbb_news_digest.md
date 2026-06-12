@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-12T18:55:47.451892+00:00
+> 更新時間：2026-06-12T20:58:28.711875+00:00
 
 ### 🚀 光學股乘著人工智慧熱潮，應用光電上漲 7%，Lumentum 上漲 5%，相干公司上漲 2%
 - **題材**: `光通訊與矽光子` | **重要性**: `80`
@@ -91,15 +91,6 @@
 
 ---
 
-### 🚀 今年迄今上漲 174%：延後美光科技股價 950 美元的 1 個主因
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: 24/7 Wall St. (2026-06-09T19:03:28Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 美光科技 (NASDAQ:MU) 股價為 949.28 美元，值得持有，在回調至 760 美元時可以更好地部署新資金。該股因人工智慧記憶體需求而上漲，...
-- [原文連結](https://247wallst.com/investing/2026/06/09/up-174-year-to-date-1-major-reason-to-hold-off-on-micron-technology-stock-at-950/)
-
----
-
 ### 🚀 AI 伺服器需求旺盛，戴爾股價飆漲 54%，惠普企業版股價一個月內飆漲 59%
 - **題材**: `AI伺服器` | **重要性**: `65`
 - **來源**: 24/7 Wall St. (2026-06-08T19:26:00Z)
@@ -182,6 +173,15 @@
 
  更多的…
 - [原文連結](https://9to5mac.com/2026/06/10/iphone-18-pro-three-new-features-might-make-you-want-to-upgrade/)
+
+---
+
+### 🚀 NVIDIA (NVDA) 執行長與韓國 SK 集團預計將宣布合作計劃
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-06-10T17:15:33Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: NVIDIA Corporation (NASDAQ:NVDA) is among the Top 10 Unstoppable Growth Stocks to Invest In. On June 7, Reuters reported that NVIDIA Corporation (NASDAQ:NVDA...
+- [原文連結](https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-ceo-south-korea-171533481.html)
 
 ---
 
