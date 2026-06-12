@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-12T12:20:00.169644+00:00
+> 更新時間：2026-06-12T16:09:39.096857+00:00
 
 ### 🚀 光學股乘著人工智慧熱潮，應用光電上漲 7%，Lumentum 上漲 5%，相干公司上漲 2%
 - **題材**: `光通訊與矽光子` | **重要性**: `80`
@@ -28,30 +28,12 @@
 
 ---
 
-### 🚀 評論：Nvidia CEO 來訪凸顯三星參與 HBM 供應競賽
-- **題材**: `HBM記憶體` | **重要性**: `73`
-- **來源**: Digitimes (2026-06-10T06:44:24Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Nvidia 執行長 Jensen Huang 的多日韓國之行將三星電子、SK 海力士和 Nvidia 之間在高頻寬記憶體 (HBM) 上的「三角關係」置於聚光燈下，儘管他參觀了人工智慧工廠並在機器人和技術領域建立了合作夥伴關係。
-- [原文連結](https://www.digitimes.com/news/a20260610PD238/nvidia-samsung-hbm-ceo-sk-hynix.html)
-
----
-
 ### ⚖️ 台灣AI產業計畫以矽光子為新護城河
 - **題材**: `光通訊與矽光子` | **重要性**: `73`
 - **來源**: Digitimes (2026-06-10T01:30:00Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 隨著人工智慧驅動的高速數據傳輸需求加速，台灣政府啟動了一項人工智慧基礎設施計劃，旨在透過利用矽光子（SiPh）形成新的護城河，進一步增強其半導體產業實力。
 - [原文連結](https://www.digitimes.com/news/a20260609PD215/taiwan-siph-government-silicon-photonics.html)
-
----
-
-### 🚀 2026 年第二季全球三大記憶體製造商地位：價格飆升和人工智慧需求鎖定強勁的記憶體賣方市場
-- **題材**: `HBM記憶體` | **重要性**: `73`
-- **來源**: Digitimes (2026-06-05T08:06:52Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 預計2026年第二季記憶體製造商營收將再創新高；美國、日本和韓國推出新產品競爭，而台灣廠商則持續追求利基市場動力。
-- [原文連結](https://www.digitimes.com/reports/item.php?id=20260602RS400)
 
 ---
 
@@ -154,15 +136,6 @@
 
 ---
 
-### ⚖️ 產業聯盟敦促川普政府採取緊急行動，因為人工智慧資料中心的極端記憶體消耗威脅到其他產業——人工智慧驅動的記憶體晶片短缺可能會提高汽車、醫療、電信產業的價格
-- **題材**: `HBM記憶體` | **重要性**: `62`
-- **來源**: Tom's Hardware UK (2026-06-05T12:20:01Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 由九個美國貿易協會組成的聯盟敦促川普政府解決人工智慧驅動的記憶體晶片短缺問題，並警告稱，DRAM 價格飆升和供應有限可能會增加消費性電子產品、汽車、醫療設備等的成本。
-- [原文連結](https://www.tomshardware.com/tech-industry/artificial-intelligence/industry-coalition-urges-trump-administration-to-take-urgent-action-as-ai-data-centers-extreme-memory-consumption-threatens-other-industries-ai-driven-memory-chip-shortage-could-raise-prices-in-automotive-medical-telecommunications-sectors)
-
----
-
 ### 🚀 Kia K4 在馬來西亞預覽 – Forte/Cerato 後繼車型在 KLIMS 上展示，採用 GT-Line 規格，配備 193 PS 1.6T
 - **題材**: `光通訊與矽光子` | **重要性**: `60`
 - **來源**: Paul Tan's Automotive News (2026-06-11T10:20:05Z)
@@ -178,6 +151,33 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: AMD 最近發布了效能預測，聲稱其即將推出的伺服器 CPU 平台將大大超過 Nvidia 的最新表現。 AMD 的估計直接參考了受控基準測試的早期結果，這些基準測試有利於 Nvidia 的處理器。閱讀…
 - [原文連結](https://www.techspot.com/news/112724-amd-claims-next-gen-zen-6-server-cpu.html)
+
+---
+
+### 🚀 應用光電（AAOI）是表現最好的成長股之一嗎？
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-06-11T01:15:04Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 應用光電公司（納斯達克股票代碼：AAOI）是 2026 年迄今表現最佳的 10 隻成長型股票之一。 5 月 8 日，Wolfe Research 分析師 George Notter 表示...
+- [原文連結](https://finance.yahoo.com/markets/stocks/articles/applied-optoelectronics-aaoi-one-best-011504216.html)
+
+---
+
+### 🚀 GlobalFoundries (GFS) 與美國能源部 Genesis Mission 建立策略夥伴關係
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-06-11T01:14:14Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: GLOBALFOUNDRIES Inc.（納斯達克股票代碼：GFS）於2021年10月完成首次公開募股，公司迅速獲得投資者關注並召開...
+- [原文連結](https://finance.yahoo.com/sectors/technology/articles/globalfoundries-gfs-forms-strategic-partnership-011414475.html)
+
+---
+
+### 🚀 「木已成舟」：川普盟友擔心扭轉經濟困境為時已晚
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Politico (2026-06-10T21:25:23Z)
+- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 根據本周公布的一項民意調查，不到四分之一的美國人認可總統處理生活成本問題的方式。
+- [原文連結](https://www.politico.com/news/2026/06/10/inflation-iran-energy-fed-affordability-00957339)
 
 ---
 
