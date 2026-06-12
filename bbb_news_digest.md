@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-12T09:40:30.908933+00:00
+> 更新時間：2026-06-12T12:20:00.169644+00:00
 
 ### 🚀 光學股乘著人工智慧熱潮，應用光電上漲 7%，Lumentum 上漲 5%，相干公司上漲 2%
 - **題材**: `光通訊與矽光子` | **重要性**: `80`
@@ -43,15 +43,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 隨著人工智慧驅動的高速數據傳輸需求加速，台灣政府啟動了一項人工智慧基礎設施計劃，旨在透過利用矽光子（SiPh）形成新的護城河，進一步增強其半導體產業實力。
 - [原文連結](https://www.digitimes.com/news/a20260609PD215/taiwan-siph-government-silicon-photonics.html)
-
----
-
-### ⚖️ 長電科技開設3D封裝工廠瞄準AI電源模組、CPO需求
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-06-07T02:38:24Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 長電科技在江陰城東生產基地開設了一家新的先進製造工廠，加強這家中國 OSAT 供應商在人工智慧運算、電源模組和下一代資料中心先進封裝領域的發展。
-- [原文連結](https://www.digitimes.com/news/a20260605VL204/jcet-3d-packaging-cpo-demand.html)
 
 ---
 
@@ -169,6 +160,15 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 由九個美國貿易協會組成的聯盟敦促川普政府解決人工智慧驅動的記憶體晶片短缺問題，並警告稱，DRAM 價格飆升和供應有限可能會增加消費性電子產品、汽車、醫療設備等的成本。
 - [原文連結](https://www.tomshardware.com/tech-industry/artificial-intelligence/industry-coalition-urges-trump-administration-to-take-urgent-action-as-ai-data-centers-extreme-memory-consumption-threatens-other-industries-ai-driven-memory-chip-shortage-could-raise-prices-in-automotive-medical-telecommunications-sectors)
+
+---
+
+### 🚀 Kia K4 在馬來西亞預覽 – Forte/Cerato 後繼車型在 KLIMS 上展示，採用 GT-Line 規格，配備 193 PS 1.6T
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: Paul Tan's Automotive News (2026-06-11T10:20:05Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 起亞銷售馬來西亞 (KSM) 在今年的吉隆坡國際行動展 (KLIMS) 上展示起亞 K4，儘管該公司沒有透露本田 Civic 競爭對手是否會很快在這裡推出。 K4 是 Forte 和 Cerato 的後繼產品，...
+- [原文連結](https://paultan.org/2026/06/11/kia-k4-previewed-in-malaysia/)
 
 ---
 
