@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-12T05:25:44.841354+00:00
+> 更新時間：2026-06-12T09:40:30.908933+00:00
 
 ### 🚀 光學股乘著人工智慧熱潮，應用光電上漲 7%，Lumentum 上漲 5%，相干公司上漲 2%
 - **題材**: `光通訊與矽光子` | **重要性**: `80`
@@ -16,24 +16,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Concerns have emerged in recent weeks that the commercialization of co-packaged optics (CPO), a technology widely viewed as the future of AI networking, could face further delays as manufacturing yields remain inconsistent.
 - [原文連結](https://www.digitimes.com/news/a20260611PD219/cpo-demand-optics-technology-switch.html)
-
----
-
-### 🚀 Gudeng flags EUV supply constraints as advanced-chip expansion accelerates
-- **題材**: `半導體先進製程` | **重要性**: `78`
-- **來源**: Digitimes (2026-06-10T21:50:56Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 谷登董事長兼執行長Bill Chiu表示，全球對人工智慧的需求正在推動2奈米和3奈米先進節點產能擴張的浪潮，但晶片製造商最大的限制不是建造晶圓廠，而是確保極紫外光刻系統的安全。
-- [原文連結](https://www.digitimes.com/news/a20260610PD242/expansion-euv-demand-ceo-chairman.html)
-
----
-
-### 🚀 2026 年第二季全球三大記憶體製造商地位：價格飆升和人工智慧需求鎖定強勁的記憶體賣方市場
-- **題材**: `HBM記憶體` | **重要性**: `78`
-- **來源**: Digitimes (2026-06-05T08:06:52Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 預計2026年第二季記憶體製造商營收將再創新高；美國、日本和韓國推出新產品競爭，而台灣廠商則持續追求利基市場動力。
-- [原文連結](https://www.digitimes.com/reports/item.php?id=20260602RS400)
 
 ---
 
@@ -73,6 +55,15 @@
 
 ---
 
+### 🚀 2026 年第二季全球三大記憶體製造商地位：價格飆升和人工智慧需求鎖定強勁的記憶體賣方市場
+- **題材**: `HBM記憶體` | **重要性**: `73`
+- **來源**: Digitimes (2026-06-05T08:06:52Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 預計2026年第二季記憶體製造商營收將再創新高；美國、日本和韓國推出新產品競爭，而台灣廠商則持續追求利基市場動力。
+- [原文連結](https://www.digitimes.com/reports/item.php?id=20260602RS400)
+
+---
+
 ### ⚖️ 據報道，谷歌預訂英特爾在 2028 年封裝超過 300 萬個 TPU——SK 海力士正在測試英特爾的 EMIB 封裝以實現 HBM 集成
 - **題材**: `半導體先進製程` | **重要性**: `72`
 - **來源**: Tom's Hardware UK (2026-06-10T15:49:41Z)
@@ -91,30 +82,12 @@
 
 ---
 
-### ⚖️ 大立光的 CPO 業務取決於 0.3 微米以下的精度，而不是完美的零件
-- **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-06-10T21:52:17Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Largan Precision is accelerating its push into CPO-related optical components, with chairman Adam Lin revealing that the company is building its first automated pilot line at a new Taiwan facility, scheduled to be ready before September 2026.
-- [原文連結](https://www.digitimes.com/news/a20260610PD237/largan-precision-optical-components-cpo-chairman-production.html)
-
----
-
 ### ⚖️ 大立光電瞄準 CPO 多層堆疊，推出首條 FAU 試驗線
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
 - **來源**: Digitimes (2026-06-10T01:26:31Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 鏡頭製造商大立光電 (Largan Precision) 於 6 月 9 日召開股東大會，長期以來以簡潔的公開言論著稱的董事長 Adam Lin 顯得很輕鬆，並對行業、技術和大立光電自身的運營提出了異常詳細的看法。他的評論…
 - [原文連結](https://www.digitimes.com/news/a20260609PD234/largan-precision-cpo-production.html)
-
----
-
-### ⚖️ PCL Technologies 瞄準 CPO，檳城工廠即將完工
-- **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-06-09T06:55:33Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 光通訊製造商 PCL Technologies 正在向高功率雷射封裝領域擴張，其馬來西亞新工廠預計將在 2026 年底前通過客戶認證。其早期對美國矽光子公司 Skorpios 的投資以及收購…
-- [原文連結](https://www.digitimes.com/news/a20260609PD238/pcl-technologies-optical-communications-cpo-plant-2026.html)
 
 ---
 
@@ -172,12 +145,39 @@
 
 ---
 
+### ⚖️ PCL Technologies 瞄準 CPO，檳城工廠即將完工
+- **題材**: `光通訊與矽光子` | **重要性**: `63`
+- **來源**: Digitimes (2026-06-09T06:55:33Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 光通訊製造商 PCL Technologies 正在向高功率雷射封裝領域擴張，其馬來西亞新工廠預計將在 2026 年底前通過客戶認證。其早期對美國矽光子公司 Skorpios 的投資以及收購…
+- [原文連結](https://www.digitimes.com/news/a20260609PD238/pcl-technologies-optical-communications-cpo-plant-2026.html)
+
+---
+
 ### ⚖️ DDR5、DDR4價格上漲，AI需求擠壓主流DRAM供應
 - **題材**: `HBM記憶體` | **重要性**: `63`
 - **來源**: Digitimes (2026-06-06T02:43:24Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Ni 表示，隨著三星電子、SK 海力士和美光科技優先考慮用於人工智慧應用的高頻寬記憶體（HBM），導致 PC、伺服器和其他電子產品中使用的主流 DDR5 和 DDR4 產品供應緊張，DRAM 價格正在攀升。
 - [原文連結](https://www.digitimes.com/news/a20260603VL216/dram-ddr4-ddr5-demand-price.html)
+
+---
+
+### ⚖️ 產業聯盟敦促川普政府採取緊急行動，因為人工智慧資料中心的極端記憶體消耗威脅到其他產業——人工智慧驅動的記憶體晶片短缺可能會提高汽車、醫療、電信產業的價格
+- **題材**: `HBM記憶體` | **重要性**: `62`
+- **來源**: Tom's Hardware UK (2026-06-05T12:20:01Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 由九個美國貿易協會組成的聯盟敦促川普政府解決人工智慧驅動的記憶體晶片短缺問題，並警告稱，DRAM 價格飆升和供應有限可能會增加消費性電子產品、汽車、醫療設備等的成本。
+- [原文連結](https://www.tomshardware.com/tech-industry/artificial-intelligence/industry-coalition-urges-trump-administration-to-take-urgent-action-as-ai-data-centers-extreme-memory-consumption-threatens-other-industries-ai-driven-memory-chip-shortage-could-raise-prices-in-automotive-medical-telecommunications-sectors)
+
+---
+
+### 🚀 AMD 聲稱下一代 Zen 6 伺服器 CPU 的每機架效能將達到 Nvidia Vera 的 330%
+- **題材**: `半導體先進製程` | **重要性**: `60`
+- **來源**: TechSpot (2026-06-11T04:08:00Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: AMD 最近發布了效能預測，聲稱其即將推出的伺服器 CPU 平台將大大超過 Nvidia 的最新表現。 AMD 的估計直接參考了受控基準測試的早期結果，這些基準測試有利於 Nvidia 的處理器。閱讀…
+- [原文連結](https://www.techspot.com/news/112724-amd-claims-next-gen-zen-6-server-cpu.html)
 
 ---
 
