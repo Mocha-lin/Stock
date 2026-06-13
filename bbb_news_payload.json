@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-06-13T05:15:14.989997+00:00",
+  "generated_at": "2026-06-13T08:35:18.554961+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 72,
@@ -120,41 +120,6 @@
       "reason": "屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
-      "id": "89d8e13097a91f9a",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "評論：Nvidia CEO 來訪凸顯三星參與 HBM 供應競賽",
-      "summary": "Nvidia 執行長 Jensen Huang 的多日韓國之行將三星電子、SK 海力士和 Nvidia 之間在高頻寬記憶體 (HBM) 上的「三角關係」置於聚光燈下，儘管他參觀了人工智慧工廠並在機器人和技術領域建立了合作夥伴關係。",
-      "original_title": "Commentary: Nvidia CEO visit spotlights Samsung in HBM supply race",
-      "url": "https://www.digitimes.com/news/a20260610PD238/nvidia-samsung-hbm-ceo-sk-hynix.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-06-10T06:44:24Z",
-      "importance": 73,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
       "id": "4eb52c35f47f767e",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -229,6 +194,41 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
+      "id": "89d8e13097a91f9a",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "評論：Nvidia CEO 來訪凸顯三星參與 HBM 供應競賽",
+      "summary": "Nvidia 執行長 Jensen Huang 的多日韓國之行將三星電子、SK 海力士和 Nvidia 之間在高頻寬記憶體 (HBM) 上的「三角關係」置於聚光燈下，儘管他參觀了人工智慧工廠並在機器人和技術領域建立了合作夥伴關係。",
+      "original_title": "Commentary: Nvidia CEO visit spotlights Samsung in HBM supply race",
+      "url": "https://www.digitimes.com/news/a20260610PD238/nvidia-samsung-hbm-ceo-sk-hynix.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-06-10T06:44:24Z",
+      "importance": 68,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "b66829daa1d5b451",
@@ -533,6 +533,44 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "2ba9f797c6db2fa7",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "三星可能使用 2nm 技術製造Google下一代人工智慧晶片的一部分",
+      "summary": "谷歌開發了自己的人工智慧加速器晶片，稱為張量處理單元（TPU）。據報道，該公司正在開發第十代 TPU，並且正在與三星代工廠洽談生產部分晶片。根據一份報告...",
+      "original_title": "Samsung could make a part of Google’s next-gen AI chip using 2nm tech",
+      "url": "https://www.sammobile.com/news/samsung-could-make-part-google-icefish-tpu-chip-2nm/",
+      "source": "SamMobile",
+      "domain": "sammobile.com",
+      "published_at": "2026-06-12T06:45:36Z",
+      "importance": 60,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "5178815eb3842ca7",
@@ -1164,44 +1202,6 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "4fa4295724545c12",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "心懷不滿的 ASML 員工威脅抵制 Elon Musk 出席會議——員工對政治參與和「納粹同情」表示憤怒",
-      "summary": "ASML 已證實，一群不滿的員工正在強烈抵制邀請馬斯克在該設備製造商的非公開年度技術會議上發表演講的邀請。",
-      "original_title": "Disgruntled ASML employees threaten to boycott Elon Musk conference appearance — staff express ire at political involvement and 'Nazi sympathies'",
-      "url": "https://www.tomshardware.com/tech-industry/asml-staff-want-to-boycott-musk",
-      "source": "Tom's Hardware UK",
-      "domain": "tomshardware.com",
-      "published_at": "2026-06-08T13:27:58Z",
-      "importance": 57,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "eb25a0b3305020e2",
@@ -1993,41 +1993,6 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "7f96cddaaf9ca31b",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "消息人士稱，韓國 SK 海力士最快將於 8 月在美國上市",
-      "summary": "兩位知情人士表示，SK 海力士計劃最早於 8 月在美國上市，這家韓國記憶體晶片製造商尋求...",
-      "original_title": "South Korea's SK Hynix eyes US listing as soon as August, sources say",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/south-koreas-sk-hynix-eyes-072113107.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-06-10T07:21:13Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "93545970755bd77f",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2230,6 +2195,41 @@
       "domain": "247wallst.com",
       "published_at": "2026-06-07T15:30:26Z",
       "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "7f96cddaaf9ca31b",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "消息人士稱，韓國 SK 海力士最快將於 8 月在美國上市",
+      "summary": "兩位知情人士表示，SK 海力士計劃最早於 8 月在美國上市，這家韓國記憶體晶片製造商尋求...",
+      "original_title": "South Korea's SK Hynix eyes US listing as soon as August, sources say",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/south-koreas-sk-hynix-eyes-072113107.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-06-10T07:21:13Z",
+      "importance": 50,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [

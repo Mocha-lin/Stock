@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-13T05:15:14.989997+00:00
+> 更新時間：2026-06-13T08:35:18.554961+00:00
 
 ### 🚀 光學股乘著人工智慧熱潮，應用光電上漲 7%，Lumentum 上漲 5%，相干公司上漲 2%
 - **題材**: `光通訊與矽光子` | **重要性**: `80`
@@ -28,15 +28,6 @@
 
 ---
 
-### 🚀 評論：Nvidia CEO 來訪凸顯三星參與 HBM 供應競賽
-- **題材**: `HBM記憶體` | **重要性**: `73`
-- **來源**: Digitimes (2026-06-10T06:44:24Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Nvidia 執行長 Jensen Huang 的多日韓國之行將三星電子、SK 海力士和 Nvidia 之間在高頻寬記憶體 (HBM) 上的「三角關係」置於聚光燈下，儘管他參觀了人工智慧工廠並在機器人和技術領域建立了合作夥伴關係。
-- [原文連結](https://www.digitimes.com/news/a20260610PD238/nvidia-samsung-hbm-ceo-sk-hynix.html)
-
----
-
 ### ⚖️ 據報道，谷歌預訂英特爾在 2028 年封裝超過 300 萬個 TPU——SK 海力士正在測試英特爾的 EMIB 封裝以實現 HBM 集成
 - **題材**: `半導體先進製程` | **重要性**: `72`
 - **來源**: Tom's Hardware UK (2026-06-10T15:49:41Z)
@@ -52,6 +43,15 @@
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 谷歌與 SpaceX 每月價值 9.2 億美元的交易將使其從 2026 年 10 月開始獲得 110,000 個 Nvidia GPU。這是 SpaceX 在幾週內達成的第二筆資料中心交易，尤其是在它即將於 2026 年 6 月 12 日進行首次公開發行 (IPO) 之際。
 - [原文連結](https://www.tomshardware.com/tech-industry/artificial-intelligence/google-signs-usd920m-monthly-compute-deal-with-spacex-companys-projected-annual-data-center-revenue-to-exceed-its-combined-proceeds-from-starlink-launch-services-and-ai-in-2025)
+
+---
+
+### 🚀 評論：Nvidia CEO 來訪凸顯三星參與 HBM 供應競賽
+- **題材**: `HBM記憶體` | **重要性**: `68`
+- **來源**: Digitimes (2026-06-10T06:44:24Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Nvidia 執行長 Jensen Huang 的多日韓國之行將三星電子、SK 海力士和 Nvidia 之間在高頻寬記憶體 (HBM) 上的「三角關係」置於聚光燈下，儘管他參觀了人工智慧工廠並在機器人和技術領域建立了合作夥伴關係。
+- [原文連結](https://www.digitimes.com/news/a20260610PD238/nvidia-samsung-hbm-ceo-sk-hynix.html)
 
 ---
 
@@ -127,6 +127,15 @@
 
 ---
 
+### ⚖️ 三星可能使用 2nm 技術製造Google下一代人工智慧晶片的一部分
+- **題材**: `半導體先進製程` | **重要性**: `60`
+- **來源**: SamMobile (2026-06-12T06:45:36Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 谷歌開發了自己的人工智慧加速器晶片，稱為張量處理單元（TPU）。據報道，該公司正在開發第十代 TPU，並且正在與三星代工廠洽談生產部分晶片。根據一份報告...
+- [原文連結](https://www.sammobile.com/news/samsung-could-make-part-google-icefish-tpu-chip-2nm/)
+
+---
+
 ### 🚀 Kia K4 在馬來西亞預覽 – Forte/Cerato 後繼車型在 KLIMS 上展示，採用 GT-Line 規格，配備 193 PS 1.6T
 - **題材**: `光通訊與矽光子` | **重要性**: `60`
 - **來源**: Paul Tan's Automotive News (2026-06-11T10:20:05Z)
@@ -169,19 +178,6 @@
 - **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 根據本周公布的一項民意調查，不到四分之一的美國人認可總統處理生活成本問題的方式。
 - [原文連結](https://www.politico.com/news/2026/06/10/inflation-iran-energy-fed-affordability-00957339)
-
----
-
-### 🚀 iPhone 18 Pro：三項新功能可能讓你想升級
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: 9to5Mac (2026-06-10T18:51:24Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: iPhone 18 Pro 將於今年秋季上市，三項新功能可能成為蘋果最新旗艦機型升級的首要動力。
-
-
-
- 更多的…
-- [原文連結](https://9to5mac.com/2026/06/10/iphone-18-pro-three-new-features-might-make-you-want-to-upgrade/)
 
 ---
 
