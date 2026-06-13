@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-12T20:58:28.711875+00:00
+> 更新時間：2026-06-13T00:20:42.869498+00:00
 
 ### 🚀 光學股乘著人工智慧熱潮，應用光電上漲 7%，Lumentum 上漲 5%，相干公司上漲 2%
 - **題材**: `光通訊與矽光子` | **重要性**: `80`
@@ -25,6 +25,15 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 台積電正在執行半導體行業歷史上最大規模的製造擴張，結合了同步多晶圓廠 N2 產能提升、人工智能驅動的製造優化以及大規模 CoWoS/SoIC 封裝產能擴張，以滿足日益增長的人工智能需求…
 - [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/analyzing-tsmcs-fab-expansion-roadmap-multi-fab-n2-ramp-cowos-soic-and-uncorking-bottlenecks)
+
+---
+
+### 🚀 評論：Nvidia CEO 來訪凸顯三星參與 HBM 供應競賽
+- **題材**: `HBM記憶體` | **重要性**: `73`
+- **來源**: Digitimes (2026-06-10T06:44:24Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Nvidia 執行長 Jensen Huang 的多日韓國之行將三星電子、SK 海力士和 Nvidia 之間在高頻寬記憶體 (HBM) 上的「三角關係」置於聚光燈下，儘管他參觀了人工智慧工廠並在機器人和技術領域建立了合作夥伴關係。
+- [原文連結](https://www.digitimes.com/news/a20260610PD238/nvidia-samsung-hbm-ceo-sk-hynix.html)
 
 ---
 
@@ -79,6 +88,24 @@
 - **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 新的用水需求分析顯示，資料中心冷卻約佔人工智慧足跡的 4%，其餘則由晶圓廠和發電部門承擔。
 - [原文連結](https://www.tomshardware.com/tech-industry/most-new-us-ai-data-centers-are-going-up-on-drought-land)
+
+---
+
+### ⚠️ 對沖基金正在聘請氣候科學家從極端天氣風險中獲利
+- **題材**: `總體風險` | **重要性**: `65`
+- **來源**: Gizmodo.com (2026-06-11T11:30:11Z)
+- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 一些氣候科學家的薪水是該產業平均薪資的四到六倍以上，以幫助華爾街從氣候變遷中獲利。
+- [原文連結](https://gizmodo.com/hedge-funds-are-hiring-climate-scientists-to-profit-off-extreme-weather-risks-2000770164)
+
+---
+
+### ⚠️ Super Micro Computer 股票因 70 億美元融資而下跌
+- **題材**: `AI伺服器` | **重要性**: `65`
+- **來源**: Yahoo Entertainment (2026-06-10T12:40:41Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Super Micro Computer 股票週三開盤時預計下跌 12%。
+- [原文連結](https://finance.yahoo.com/markets/article/super-micro-computer-stock-sinks-on-7-billion-equity-raise-124041196.html)
 
 ---
 
@@ -151,37 +178,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: GLOBALFOUNDRIES Inc.（納斯達克股票代碼：GFS）於2021年10月完成首次公開募股，公司迅速獲得投資者關注並召開...
 - [原文連結](https://finance.yahoo.com/sectors/technology/articles/globalfoundries-gfs-forms-strategic-partnership-011414475.html)
-
----
-
-### 🚀 「木已成舟」：川普盟友擔心扭轉經濟困境為時已晚
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Politico (2026-06-10T21:25:23Z)
-- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 根據本周公布的一項民意調查，不到四分之一的美國人認可總統處理生活成本問題的方式。
-- [原文連結](https://www.politico.com/news/2026/06/10/inflation-iran-energy-fed-affordability-00957339)
-
----
-
-### 🚀 iPhone 18 Pro：三項新功能可能讓你想升級
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: 9to5Mac (2026-06-10T18:51:24Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: iPhone 18 Pro 將於今年秋季上市，三項新功能可能成為蘋果最新旗艦機型升級的首要動力。
-
-
-
- 更多的…
-- [原文連結](https://9to5mac.com/2026/06/10/iphone-18-pro-three-new-features-might-make-you-want-to-upgrade/)
-
----
-
-### 🚀 NVIDIA (NVDA) 執行長與韓國 SK 集團預計將宣布合作計劃
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-06-10T17:15:33Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: NVIDIA Corporation (NASDAQ:NVDA) is among the Top 10 Unstoppable Growth Stocks to Invest In. On June 7, Reuters reported that NVIDIA Corporation (NASDAQ:NVDA...
-- [原文連結](https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-ceo-south-korea-171533481.html)
 
 ---
 

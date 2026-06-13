@@ -1,9 +1,9 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-06-12T20:58:28.711875+00:00",
+  "generated_at": "2026-06-13T00:20:42.869498+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
-  "total_count": 71,
+  "total_count": 72,
   "items": [
     {
       "id": "769a8613ff980b27",
@@ -118,6 +118,41 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
+      "id": "89d8e13097a91f9a",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "評論：Nvidia CEO 來訪凸顯三星參與 HBM 供應競賽",
+      "summary": "Nvidia 執行長 Jensen Huang 的多日韓國之行將三星電子、SK 海力士和 Nvidia 之間在高頻寬記憶體 (HBM) 上的「三角關係」置於聚光燈下，儘管他參觀了人工智慧工廠並在機器人和技術領域建立了合作夥伴關係。",
+      "original_title": "Commentary: Nvidia CEO visit spotlights Samsung in HBM supply race",
+      "url": "https://www.digitimes.com/news/a20260610PD238/nvidia-samsung-hbm-ceo-sk-hynix.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-06-10T06:44:24Z",
+      "importance": 73,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "b66829daa1d5b451",
@@ -322,6 +357,82 @@
       "domain": "tomshardware.com",
       "published_at": "2026-06-08T16:39:27Z",
       "importance": 67,
+      "impact": "negative",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "c45fa1f17f0fc3e8",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "對沖基金正在聘請氣候科學家從極端天氣風險中獲利",
+      "summary": "一些氣候科學家的薪水是該產業平均薪資的四到六倍以上，以幫助華爾街從氣候變遷中獲利。",
+      "original_title": "Hedge Funds Are Hiring Climate Scientists to Profit Off Extreme Weather Risks",
+      "url": "https://gizmodo.com/hedge-funds-are-hiring-climate-scientists-to-profit-off-extreme-weather-risks-2000770164",
+      "source": "Gizmodo.com",
+      "domain": "gizmodo.com",
+      "published_at": "2026-06-11T11:30:11Z",
+      "importance": 65,
+      "impact": "negative",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "63abe93a865f5fe4",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Super Micro Computer 股票因 70 億美元融資而下跌",
+      "summary": "Super Micro Computer 股票週三開盤時預計下跌 12%。",
+      "original_title": "Super Micro Computer stock sinks on $7 billion equity raise",
+      "url": "https://finance.yahoo.com/markets/article/super-micro-computer-stock-sinks-on-7-billion-equity-raise-124041196.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-06-10T12:40:41Z",
+      "importance": 65,
       "impact": "negative",
       "timeframe": "short_term",
       "tags": [
@@ -915,44 +1026,6 @@
       "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "93545970755bd77f",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "超微電腦將籌集 70 億美元股票發行以滿足人工智慧伺服器需求",
-      "summary": "超微電腦週二表示，將透過一系列股權和股權相關融資交易籌集 70 億美元，為購買...",
-      "original_title": "Super Micro Computer to raise $7 billion in equity offerings to meet AI server demand",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/super-micro-computer-plans-raise-212105538.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-06-09T21:21:05Z",
-      "importance": 60,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "8c91dd356fed162d",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1093,67 +1166,32 @@
       "reason": "屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "15921fa76837b97f",
+      "id": "4fa4295724545c12",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "川普政府仍在努力保留數十億美元的非法關稅收入",
-      "summary": "",
-      "original_title": "The Trump Administration Is Still Fighting To Keep Billions in Illegal Tariff Revenue",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_bead5026-3dda-4340-8e56-fdd1bc389cbc",
-      "source": "Yahoo Entertainment",
-      "domain": "consent.yahoo.com",
-      "published_at": "2026-06-05T17:15:22Z",
-      "importance": 60,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "3d6a497691b8fe3f",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "產業聯盟敦促川普政府採取緊急行動，因為人工智慧資料中心的極端記憶體消耗威脅到其他產業——人工智慧驅動的記憶體晶片短缺可能會提高汽車、醫療、電信產業的價格",
-      "summary": "由九個美國貿易協會組成的聯盟敦促川普政府解決人工智慧驅動的記憶體晶片短缺問題，並警告稱，DRAM 價格飆升和供應有限可能會增加消費性電子產品、汽車、醫療設備等的成本。",
-      "original_title": "Industry coalition urges Trump administration to take urgent action as AI data centers' extreme memory consumption threatens other industries — AI-driven memory chip shortage could raise prices in automotive, medical, telecommunications sectors",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/industry-coalition-urges-trump-administration-to-take-urgent-action-as-ai-data-centers-extreme-memory-consumption-threatens-other-industries-ai-driven-memory-chip-shortage-could-raise-prices-in-automotive-medical-telecommunications-sectors",
+      "theme": "半導體先進製程",
+      "title": "心懷不滿的 ASML 員工威脅抵制 Elon Musk 出席會議——員工對政治參與和「納粹同情」表示憤怒",
+      "summary": "ASML 已證實，一群不滿的員工正在強烈抵制邀請馬斯克在該設備製造商的非公開年度技術會議上發表演講的邀請。",
+      "original_title": "Disgruntled ASML employees threaten to boycott Elon Musk conference appearance — staff express ire at political involvement and 'Nazi sympathies'",
+      "url": "https://www.tomshardware.com/tech-industry/asml-staff-want-to-boycott-musk",
       "source": "Tom's Hardware UK",
       "domain": "tomshardware.com",
-      "published_at": "2026-06-05T12:20:01Z",
+      "published_at": "2026-06-08T13:27:58Z",
       "importance": 57,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "HBM",
-        "記憶體"
+        "半導體",
+        "CoWoS",
+        "先進製程"
       ],
       "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
       ],
       "related_models": [
         "003",
@@ -1163,7 +1201,45 @@
         "009",
         "010"
       ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "eb25a0b3305020e2",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "台積電新封裝技術將降低晶片成本並提高效能",
+      "summary": "知情人士透露，台積電正在研究一種名為 CoPoS 的尖端晶片封裝技術。 CoPoS的意思是Chip-on-Panel-on-Structure，它使用玻璃材料作為臨時載體，它也進入了最終的…",
+      "original_title": "TSMC's new packaging technology will bring down chip cost and improve performance",
+      "url": "https://www.gsmarena.com/tsmcs_new_packaging_technology_will_bring_down_cost_and_improve_performance_of_chips_by_2028-news-73241.php",
+      "source": "GSMArena.com",
+      "domain": "gsmarena.com",
+      "published_at": "2026-06-11T21:31:02Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "8752659fc65ba8d8",
@@ -1269,6 +1345,44 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "dadc26fb36d09233",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "川普和約翰遜斷言“我喜歡通貨膨脹”",
+      "summary": "6 月 10 日，美國總統唐納德·川普 (Donald Trump) 在被問及 5 月份消費者物價指數 (CPI) 報告時表示，「我喜歡通膨」。他後來告訴《紐約郵報》，這是斷章取義的。",
+      "original_title": "'I love the inflation' comment out of context, Trump and Johnson argue",
+      "url": "https://www.usatoday.com/story/news/politics/2026/06/11/donald-trump-explains-i-love-the-inflation/90503853007/",
+      "source": "USA Today",
+      "domain": "usatoday.com",
+      "published_at": "2026-06-11T13:10:06Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "cfcff77d4eeb4555",
@@ -1396,6 +1510,44 @@
       "source": "NPR",
       "domain": "npr.org",
       "published_at": "2026-06-11T08:48:53Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "cb911c7c73d9ec4d",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "川普通膨評論：比爾·奧萊利稱「巴別塔」時刻",
+      "summary": "",
+      "original_title": "Trump inflation comment: A ‘Tower of Babel’ moment, Bill O’Reilly says",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_20ae2d5f-7678-4206-ac23-a89a17804ce1",
+      "source": "Yahoo Entertainment",
+      "domain": "consent.yahoo.com",
+      "published_at": "2026-06-11T01:54:08Z",
       "importance": 55,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -1613,6 +1765,82 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "d07b2ceb90c6ff47",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "伊朗戰爭推高物價，通膨創2023年以來最高水平",
+      "summary": "伊朗戰爭期間通膨連續第三個月上升，符合預期。",
+      "original_title": "Inflation hits highest level since 2023, as the Iran war pushes up prices",
+      "url": "https://abcnews.com/Business/inflation-hits-highest-level-2023-iran-war-pushes/story?id=133741082",
+      "source": "Abcnews.com",
+      "domain": "abcnews.com",
+      "published_at": "2026-06-10T14:27:54Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "b11b0042465be627",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "《社會清算》預告片：傑里米·斯特朗 (Jeremy Strong) 在亞倫·索金 (Aaron Sorkin) 的關於 Facebook 舉報人的續集中扮演馬克·扎克伯格 (Mark Zuckerberg)",
+      "summary": "觀看亞倫索金 (Aaron Sorkin) 執導的《社會清算》預告片，該片由傑里米斯特朗 (Jeremy Strong) 主演，在一部關於 Facebook 舉報人的續集中飾演馬克祖克柏 (Mark Zuckerberg)。",
+      "original_title": "‘The Social Reckoning’ Trailer: Jeremy Strong Is Mark Zuckerberg in Aaron Sorkin’s Kinda-Sequel About Facebook Whistleblower",
+      "url": "https://www.indiewire.com/news/trailers/the-social-reckoning-trailer-jeremy-strong-aaron-sorkin-1235199353/",
+      "source": "IndieWire",
+      "domain": "indiewire.com",
+      "published_at": "2026-06-10T13:01:37Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "0aa2b69887131e4a",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1724,32 +1952,32 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "db305ff36ad409eb",
+      "id": "93545970755bd77f",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "全球最大晶片製造商不排除因成本增加而漲價",
-      "summary": "在一次罕見的訪談中，台積電的一位高階主管討論了人工智慧的繁榮、晶片的地緣政治及其對電子產品價格的影響。",
-      "original_title": "World's largest chipmaker does not rule out price rises as costs increase",
-      "url": "https://www.bbc.com/news/articles/ce3ez4zzzlvo",
-      "source": "BBC News",
-      "domain": "bbc.com",
-      "published_at": "2026-06-09T22:00:24Z",
+      "theme": "AI伺服器",
+      "title": "超微電腦將籌集 70 億美元股票發行以滿足人工智慧伺服器需求",
+      "summary": "超微電腦週二表示，將透過一系列股權和股權相關融資交易籌集 70 億美元，為購買...",
+      "original_title": "Super Micro Computer to raise $7 billion in equity offerings to meet AI server demand",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/super-micro-computer-plans-raise-212105538.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-06-09T21:21:05Z",
       "importance": 55,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
+        "AI",
+        "伺服器",
+        "資料中心"
       ],
       "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
       ],
       "related_models": [
         "003",
@@ -1759,7 +1987,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "62c89077a3a0c3d6",
@@ -1987,29 +2215,32 @@
       "reason": "屬「光通訊與矽光子」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "44cf80d982084a30",
+      "id": "a4752f7ce8088112",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "黃仁勳為何要在韓國發動魅力攻勢",
-      "summary": "英偉達執行長黃仁勳對韓國的訪問凸顯了該國人工智慧的繁榮以及在全球半導體供應鏈中日益重要的地位。",
-      "original_title": "Why Jensen Huang is going on a charm offensive in South Korea",
-      "url": "https://www.businessinsider.com/nvidia-jensen-huang-south-korea-ai-trade-samsung-sk-hynix-2026-6",
-      "source": "Business Insider",
-      "domain": "businessinsider.com",
-      "published_at": "2026-06-05T06:15:57Z",
-      "importance": 55,
-      "impact": "positive",
+      "theme": "AI伺服器",
+      "title": "微軟人工智慧負責人表示超級智慧即將到來，但不會奪走你的工作",
+      "summary": "今天我正在與微軟 AI 執行長穆斯塔法·蘇萊曼 (Mustafa Suleyman) 交談。事實上，我打算簡短地介紹一下今天的介紹——本週我在我妻子的家庭農場工作，正如你在影片中看到的那樣，但這也是這一集的真正亮點。我們涵蓋了每一個…",
+      "original_title": "Microsoft’s AI chief says superintelligence is near, but won’t take your job",
+      "url": "https://www.theverge.com/podcast/944138/microsoft-ai-ceo-mustafa-suleyman-superintelligence-agi-openai-automation",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "published_at": "2026-06-08T13:17:24Z",
+      "importance": 53,
+      "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "HBM",
-        "記憶體"
+        "AI",
+        "伺服器",
+        "資料中心"
       ],
       "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
       ],
       "related_models": [
         "003",
@@ -2019,7 +2250,45 @@
         "009",
         "010"
       ],
-      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "db305ff36ad409eb",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "全球最大晶片製造商不排除因成本增加而漲價",
+      "summary": "在一次罕見的訪談中，台積電的一位高階主管討論了人工智慧的繁榮、晶片的地緣政治及其對電子產品價格的影響。",
+      "original_title": "World's largest chipmaker does not rule out price rises as costs increase",
+      "url": "https://www.bbc.com/news/articles/ce3ez4zzzlvo",
+      "source": "BBC News",
+      "domain": "bbc.com",
+      "published_at": "2026-06-09T22:00:24Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "3b52dcf45e22b582",
@@ -2058,6 +2327,44 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "b205642ead10f32b",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "川普稱以色列和伊朗衝突結束後和平談判步入正軌",
+      "summary": "（彭博）—美國總統川普在促成雙方停止敵對行動後，重申了結束與伊朗衝突的勢頭。",
+      "original_title": "Trump Says Peace Talks on Track After Israel-Iran Clashes End",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/trump-says-peace-talks-track-055623805.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-06-09T05:56:23Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "74d1e36764030523",
@@ -2206,6 +2513,41 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "80ebdc35544b2a23",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "iShares 韓國 ETF (EWY) 下跌 14%，創六年來最慘烈走勢，博通首當其衝",
+      "summary": "如果您在周五早上持有 iShares MSCI 韓國 ETF (NYSEARCA:EWY)，那麼您在收盤時擁有大約 204 美元的股票，價值 175.19 美元，...",
+      "original_title": "The iShares Korea ETF (EWY) Dropped 14% in Its Most Brutal Session in Six Years, and It Started With Broadcom",
+      "url": "https://247wallst.com/investing/2026/06/08/the-ishares-korea-etf-ewy-dropped-14-in-its-most-brutal-session-in-six-years-and-it-started-with-broadcom/",
+      "source": "24/7 Wall St.",
+      "domain": "247wallst.com",
+      "published_at": "2026-06-08T12:00:15Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "db3b812c45ab6567",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2282,6 +2624,44 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "d2571aa34a9eb8d5",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "戴爾科技公司（DELL）現在是值得買的好股票嗎？",
+      "summary": "戴爾是一隻值得買的好股票嗎？我們在 Dog Brother 的 Investment Matters 的 Brodoginvestment 的 Substack 上看到了一篇關於戴爾科技公司的看漲論文。在...",
+      "original_title": "Is Dell Technologies Inc. (DELL) A Good Stock To Buy Now?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dell-technologies-inc-dell-good-144944391.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-06-07T14:49:44Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "dbb8b57750f366cd",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2318,348 +2698,6 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "ad6444db7b8a0321",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "無人知曉，SpaceX IPO 版",
-      "summary": "在華爾街臭名昭著的所有愚蠢事情中，也許沒有比過於常規的預測遊戲更愚蠢的了。季度收益、非農就業數據、年度標準普爾預測、油價、通膨率、聯邦公開市場委員會(FOMC)降息——這是永無止境的預測…",
-      "original_title": "Nobody Knows Anything, SpaceX IPO edition",
-      "url": "https://ritholtz.com/2026/06/nobody-knows-anything-spacex-ipo-edition/",
-      "source": "Ritholtz.com",
-      "domain": "ritholtz.com",
-      "published_at": "2026-06-05T19:00:35Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "2507f1f2de65794d",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "台積電與 Nvidia 簽署重大人工智慧協議",
-      "summary": "台積電（NYSE：TSM）或台積電是高盛目前最值得購買的科技股之一。高盛擁有超過 3.17 美元...",
-      "original_title": "Taiwan Semiconductor Manufacturing Signs Major AI Deal With Nvidia",
-      "url": "https://finance.yahoo.com/sectors/technology/articles/taiwan-semiconductor-manufacturing-signs-major-095940607.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-06-05T09:59:40Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "7c7c0091eeccccfa",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "畢竟，Nvidia RTX 5000 Super GPU 更新可能會在 2026 年到來，而且會有一個驚喜的補充，不會像其他產品一樣讓你的錢包破費",
-      "summary": "Nvidia 是否改變了對 Blackwell RTX Super GPU 更新的看法？顯然，儘管我仍然持懷疑態度...",
-      "original_title": "Nvidia RTX 5000 Super GPU refreshes could arrive in 2026 after all — with a surprise addition that won't destroy your wallet like the others",
-      "url": "https://www.techradar.com/computing/gpu/nvidia-rtx-5000-super-gpu-refreshes-could-arrive-in-2026-after-all-with-a-surprise-addition-that-wont-destroy-your-wallet-like-the-others",
-      "source": "TechRadar",
-      "domain": "techradar.com",
-      "published_at": "2026-06-05T17:15:00Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "4ee507f33b3ba9bb",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "歷史表明，有一種對沖措施可以在股市失落的十年中為投資者提供庇護",
-      "summary": "Smead Capital Management 的首席資訊長 Bill Smead 提出了標準普爾 500 指數即將到來的“失落的十年”，並表示他的公司特別看好一個行業。",
-      "original_title": "History says there's one hedge that could shelter investors during a lost decade for stocks",
-      "url": "https://www.businessinsider.com/stock-market-lost-decade-where-to-invest-commodities-real-estate-2026-6",
-      "source": "Business Insider",
-      "domain": "businessinsider.com",
-      "published_at": "2026-06-05T16:43:51Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "4a8a6f0278120109",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "就業報告引發通膨擔憂；川普回應",
-      "summary": "",
-      "original_title": "Jobs report sparks inflation fears; Trump responds",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f6daa860-687b-45ba-ac89-8fa3d87f88d4",
-      "source": "Yahoo Entertainment",
-      "domain": "consent.yahoo.com",
-      "published_at": "2026-06-05T16:14:17Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "e42cdaf3516edf82",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "蘋果下週會在 WWDC 上推出新硬體嗎？",
-      "summary": "蘋果正在醞釀多個硬體版本，但我們會在今年的全球開發者大會上看到它們中的任何一個發布嗎？\n\n\n\n\n\nWWDC 主要是一場軟體盛會，以新版本的 iOS、iPadOS、macOS、watchOS、tvOS 和 VisionOS 為中心…",
-      "original_title": "Will Apple Launch New Hardware at WWDC Next Week?",
-      "url": "https://www.macrumors.com/2026/06/05/will-apple-launch-new-hardware-at-wwdc-next-week/",
-      "source": "MacRumors",
-      "domain": "macrumors.com",
-      "published_at": "2026-06-05T14:56:38Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "ae062bb7908dd9ec",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "阿曼表示 Mina al Fahal 作業正常進行後油價下跌",
-      "summary": "",
-      "original_title": "Oil prices fall after Oman says Mina al Fahal operations proceeding normally",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d15d1cc9-766d-40b1-826a-14c8c9ae6792",
-      "source": "Yahoo Entertainment",
-      "domain": "consent.yahoo.com",
-      "published_at": "2026-06-05T13:32:14Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "8e7c3c320fb5eea4",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "三星可能會在「某些」領域將 Snapdragon 晶片返還給 Galaxy Z Flip 8",
-      "summary": "Galaxy Z Flip 8 的傳聞再次出現，暗示高通又重新回到談判桌上。",
-      "original_title": "Samsung could return Snapdragon chips to Galaxy Z Flip 8 in 'some' areas",
-      "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-could-return-snapdragon-chips-to-galaxy-z-flip-8-in-some-areas",
-      "source": "Android Central",
-      "domain": "androidcentral.com",
-      "published_at": "2026-06-05T09:47:00Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "7e5aee0de8c33a75",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "重大事件後摩根士丹利重置英偉達股票預測",
-      "summary": "截至本文撰寫時，即 6 月 4 日星期四下午，Nvidia (NVDA) 股價今年迄今已上漲約 15.98%。同時，SPDR S&P 500 指數 (SPY) 上漲約...",
-      "original_title": "Morgan Stanley resets Nvidia stock forecast after key event",
-      "url": "https://www.thestreet.com/investing/stocks/morgan-stanley-resets-nvidia-stock-forecast-after-key-event",
-      "source": "TheStreet",
-      "domain": "thestreet.com",
-      "published_at": "2026-06-05T09:03:00Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     }
   ]
 }
