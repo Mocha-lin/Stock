@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-13T16:07:00.948539+00:00
+> 更新時間：2026-06-13T18:01:25.561603+00:00
 
 ### 🚀 如果您錯過了韓國 AI ETF 的繁榮，有 2 個直接接觸供應鏈的台灣選擇
 - **題材**: `半導體先進製程` | **重要性**: `85`
@@ -16,6 +16,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Concerns have emerged in recent weeks that the commercialization of co-packaged optics (CPO), a technology widely viewed as the future of AI networking, could face further delays as manufacturing yields remain inconsistent.
 - [原文連結](https://www.digitimes.com/news/a20260611PD219/cpo-demand-optics-technology-switch.html)
+
+---
+
+### 🚀 Nvidia vs AMD：今年 6 月更值得買進更好的 AI 股票
+- **題材**: `AI伺服器` | **重要性**: `75`
+- **來源**: 24/7 Wall St. (2026-06-12T16:53:02Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: NVIDIA（納斯達克股票代碼：NVDA）和 AMD（納斯達克股票代碼：AMD）都在 5 月公佈了財報，這一對比說明了當今人工智慧硬體市場的一切。 NVIDIA 發布了 $...
+- [原文連結](https://247wallst.com/investing/2026/06/12/nvidia-vs-amd-the-better-ai-stock-is-a-better-buy-this-june/)
 
 ---
 
@@ -169,15 +178,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: GLOBALFOUNDRIES Inc.（納斯達克股票代碼：GFS）於2021年10月完成首次公開募股，公司迅速獲得投資者關注並召開...
 - [原文連結](https://finance.yahoo.com/sectors/technology/articles/globalfoundries-gfs-forms-strategic-partnership-011414475.html)
-
----
-
-### 🚀 「木已成舟」：川普盟友擔心扭轉經濟困境為時已晚
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Politico (2026-06-10T21:25:23Z)
-- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 根據本周公布的一項民意調查，不到四分之一的美國人認可總統處理生活成本問題的方式。
-- [原文連結](https://www.politico.com/news/2026/06/10/inflation-iran-energy-fed-affordability-00957339)
 
 ---
 
