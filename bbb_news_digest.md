@@ -1,12 +1,12 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-13T14:55:00.569207+00:00
+> 更新時間：2026-06-13T16:07:00.948539+00:00
 
-### 🚀 光學股乘著人工智慧熱潮，應用光電上漲 7%，Lumentum 上漲 5%，相干公司上漲 2%
-- **題材**: `光通訊與矽光子` | **重要性**: `80`
-- **來源**: 24/7 Wall St. (2026-06-10T15:08:45Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 光網路股票在周三午盤交易中受到追捧，隨著人工智慧基礎設施貿易的重新確立，該集團集體上漲...
-- [原文連結](https://247wallst.com/investing/2026/06/10/applied-optoelectronics-jumps-7-lumentum-climbs-5-coherent-rises-2-as-optics-stocks-ride-the-ai-boom/)
+### 🚀 如果您錯過了韓國 AI ETF 的繁榮，有 2 個直接接觸供應鏈的台灣選擇
+- **題材**: `半導體先進製程` | **重要性**: `85`
+- **來源**: 24/7 Wall St. (2026-06-12T15:11:51Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重大事件】可能顯著影響產業評價、EPS預期或資金流向。
+- **摘要**: 台灣製造能力 台灣是世界上最重要的半導體製造中心。 2025年，其經濟成長8.68%，出口額約為...
+- [原文連結](https://247wallst.com/investing/2026/06/12/if-you-missed-the-korean-ai-etf-boom-there-are-the-2-taiwanese-options-with-direct-exposure-to-the-supply-chain/)
 
 ---
 
@@ -19,12 +19,12 @@
 
 ---
 
-### ⚖️ 據報道，谷歌預訂英特爾在 2028 年封裝超過 300 萬個 TPU——SK 海力士正在測試英特爾的 EMIB 封裝以實現 HBM 集成
-- **題材**: `半導體先進製程` | **重要性**: `72`
-- **來源**: Tom's Hardware UK (2026-06-10T15:49:41Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 經過數月測試英特爾的先進封裝後，Google已向英特爾下訂單，在 2028 年生產超過 300 萬個 TPU。
-- [原文連結](https://www.tomshardware.com/tech-industry/google-reportedly-books-intel-for-more-than-3-million-tpus-in-2028)
+### 🚀 光學股乘著人工智慧熱潮，應用光電上漲 7%，Lumentum 上漲 5%，相干公司上漲 2%
+- **題材**: `光通訊與矽光子` | **重要性**: `75`
+- **來源**: 24/7 Wall St. (2026-06-10T15:08:45Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 光網路股票在周三午盤交易中受到追捧，隨著人工智慧基礎設施貿易的重新確立，該集團集體上漲...
+- [原文連結](https://247wallst.com/investing/2026/06/10/applied-optoelectronics-jumps-7-lumentum-climbs-5-coherent-rises-2-as-optics-stocks-ride-the-ai-boom/)
 
 ---
 
@@ -70,6 +70,15 @@
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Nvidia 即將推出的 Vera Rubin AI 伺服器平台在對其熱架構進行後期重新設計後，已成為密切關注的焦點。
 - [原文連結](https://www.digitimes.com/news/a20260608PD215/nvidia-rubin-ai-server-vapor-chamber-cooling-jentech-precision.html)
+
+---
+
+### ⚖️ 據報道，谷歌預訂英特爾在 2028 年封裝超過 300 萬個 TPU——SK 海力士正在測試英特爾的 EMIB 封裝以實現 HBM 集成
+- **題材**: `半導體先進製程` | **重要性**: `67`
+- **來源**: Tom's Hardware UK (2026-06-10T15:49:41Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 經過數月測試英特爾的先進封裝後，Google已向英特爾下訂單，在 2028 年生產超過 300 萬個 TPU。
+- [原文連結](https://www.tomshardware.com/tech-industry/google-reportedly-books-intel-for-more-than-3-million-tpus-in-2028)
 
 ---
 
@@ -142,15 +151,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 起亞銷售馬來西亞 (KSM) 在今年的吉隆坡國際行動展 (KLIMS) 上展示起亞 K4，儘管該公司沒有透露本田 Civic 競爭對手是否會很快在這裡推出。 K4 是 Forte 和 Cerato 的後繼產品，...
 - [原文連結](https://paultan.org/2026/06/11/kia-k4-previewed-in-malaysia/)
-
----
-
-### 🚀 AMD 聲稱下一代 Zen 6 伺服器 CPU 的每機架效能將達到 Nvidia Vera 的 330%
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: TechSpot (2026-06-11T04:08:00Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: AMD 最近發布了效能預測，聲稱其即將推出的伺服器 CPU 平台將大大超過 Nvidia 的最新表現。 AMD 的估計直接參考了受控基準測試的早期結果，這些基準測試有利於 Nvidia 的處理器。閱讀…
-- [原文連結](https://www.techspot.com/news/112724-amd-claims-next-gen-zen-6-server-cpu.html)
 
 ---
 
