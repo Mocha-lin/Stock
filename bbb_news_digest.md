@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-14T00:07:27.067350+00:00
+> 更新時間：2026-06-14T05:24:10.384107+00:00
 
 ### 🚀 如果您錯過了韓國 AI ETF 的繁榮，有 2 個直接接觸供應鏈的台灣選擇
 - **題材**: `半導體先進製程` | **重要性**: `85`
@@ -7,15 +7,6 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重大事件】可能顯著影響產業評價、EPS預期或資金流向。
 - **摘要**: 台灣製造能力 台灣是世界上最重要的半導體製造中心。 2025年，其經濟成長8.68%，出口額約為...
 - [原文連結](https://247wallst.com/investing/2026/06/12/if-you-missed-the-korean-ai-etf-boom-there-are-the-2-taiwanese-options-with-direct-exposure-to-the-supply-chain/)
-
----
-
-### ⚠️ CPO 的延遲可能會改變人工智慧網路需求，而不是使其脫軌
-- **題材**: `光通訊與矽光子` | **重要性**: `78`
-- **來源**: Digitimes (2026-06-11T03:49:31Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Concerns have emerged in recent weeks that the commercialization of co-packaged optics (CPO), a technology widely viewed as the future of AI networking, could face further delays as manufacturing yields remain inconsistent.
-- [原文連結](https://www.digitimes.com/news/a20260611PD219/cpo-demand-optics-technology-switch.html)
 
 ---
 
@@ -34,6 +25,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 光網路股票在周三午盤交易中受到追捧，隨著人工智慧基礎設施貿易的重新確立，該集團集體上漲...
 - [原文連結](https://247wallst.com/investing/2026/06/10/applied-optoelectronics-jumps-7-lumentum-climbs-5-coherent-rises-2-as-optics-stocks-ride-the-ai-boom/)
+
+---
+
+### ⚠️ CPO 的延遲可能會改變人工智慧網路需求，而不是使其脫軌
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-06-11T03:49:31Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Concerns have emerged in recent weeks that the commercialization of co-packaged optics (CPO), a technology widely viewed as the future of AI networking, could face further delays as manufacturing yields remain inconsistent.
+- [原文連結](https://www.digitimes.com/news/a20260611PD219/cpo-demand-optics-technology-switch.html)
 
 ---
 
@@ -163,21 +163,21 @@
 
 ---
 
-### 🚀 應用光電（AAOI）是表現最好的成長股之一嗎？
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-06-11T01:15:04Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 應用光電公司（納斯達克股票代碼：AAOI）是 2026 年迄今表現最佳的 10 隻成長型股票之一。 5 月 8 日，Wolfe Research 分析師 George Notter 表示...
-- [原文連結](https://finance.yahoo.com/markets/stocks/articles/applied-optoelectronics-aaoi-one-best-011504216.html)
+### ⚠️ Super Micro Computer 股票因 70 億美元融資而下跌
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-06-10T12:40:41Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Super Micro Computer 股票週三開盤時預計下跌 12%。
+- [原文連結](https://finance.yahoo.com/markets/article/super-micro-computer-stock-sinks-on-7-billion-equity-raise-124041196.html)
 
 ---
 
-### 🚀 GlobalFoundries (GFS) 與美國能源部 Genesis Mission 建立策略夥伴關係
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-06-11T01:14:14Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: GLOBALFOUNDRIES Inc.（納斯達克股票代碼：GFS）於2021年10月完成首次公開募股，公司迅速獲得投資者關注並召開...
-- [原文連結](https://finance.yahoo.com/sectors/technology/articles/globalfoundries-gfs-forms-strategic-partnership-011414475.html)
+### 🚀 Higher oil prices are making Russia richer — but not helping its economy grow, Goldman says
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Business Insider (2026-06-10T04:34:35Z)
+- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 俄羅斯已成為最近伊朗戰爭期間全球石油市場混亂的少數贏家之一。
+- [原文連結](https://www.businessinsider.com/russia-economy-oil-price-boom-gdp-growth-goldman-sachs-2026-6)
 
 ---
 
