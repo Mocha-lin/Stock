@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-15T15:15:16.757725+00:00
+> 更新時間：2026-06-15T17:47:24.897520+00:00
 
 ### 🚀 Chunghwa Leading Photonics targets SWIR testing demand in advanced packaging
 - **題材**: `半導體先進製程` | **重要性**: `88`
@@ -25,15 +25,6 @@
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 台灣伺服器供應鏈持續受惠於人工智慧基礎設施，成長遍及連接器、電纜、機櫃、導軌和系統組裝。但步伐各不相同，因為有些公司只看到了適度的成長，而有些公司則與…聯繫更緊密。
 - [原文連結](https://www.digitimes.com/news/a20260611VL209/taiwan-ai-server-supply-chain-growth-demand.html)
-
----
-
-### 🚀 Nvidia vs AMD：今年 6 月更值得買進更好的 AI 股票
-- **題材**: `AI伺服器` | **重要性**: `75`
-- **來源**: 24/7 Wall St. (2026-06-12T16:53:02Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: NVIDIA（納斯達克股票代碼：NVDA）和 AMD（納斯達克股票代碼：AMD）都在 5 月公佈了財報，這一對比說明了當今人工智慧硬體市場的一切。 NVIDIA 發布了 $...
-- [原文連結](https://247wallst.com/investing/2026/06/12/nvidia-vs-amd-the-better-ai-stock-is-a-better-buy-this-june/)
 
 ---
 
@@ -64,6 +55,15 @@
 
 ---
 
+### 🚀 Nvidia vs AMD：今年 6 月更值得買進更好的 AI 股票
+- **題材**: `AI伺服器` | **重要性**: `70`
+- **來源**: 24/7 Wall St. (2026-06-12T16:53:02Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: NVIDIA（納斯達克股票代碼：NVDA）和 AMD（納斯達克股票代碼：AMD）都在 5 月公佈了財報，這一對比說明了當今人工智慧硬體市場的一切。 NVIDIA 發布了 $...
+- [原文連結](https://247wallst.com/investing/2026/06/12/nvidia-vs-amd-the-better-ai-stock-is-a-better-buy-this-june/)
+
+---
+
 ### 🚀 評論：Nvidia CEO 來訪凸顯三星參與 HBM 供應競賽
 - **題材**: `HBM記憶體` | **重要性**: `68`
 - **來源**: Digitimes (2026-06-10T06:44:24Z)
@@ -88,15 +88,6 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 經過數月測試英特爾的先進封裝後，Google已向英特爾下訂單，在 2028 年生產超過 300 萬個 TPU。
 - [原文連結](https://www.tomshardware.com/tech-industry/google-reportedly-books-intel-for-more-than-3-million-tpus-in-2028)
-
----
-
-### ⚠️ 美國大多數新的人工智慧資料中心都建在乾旱地區——809個規劃項目中的三分之二是建在缺水地區
-- **題材**: `AI伺服器` | **重要性**: `67`
-- **來源**: Tom's Hardware UK (2026-06-08T16:39:27Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 新的用水需求分析顯示，資料中心冷卻約佔人工智慧足跡的 4%，其餘則由晶圓廠和發電部門承擔。
-- [原文連結](https://www.tomshardware.com/tech-industry/most-new-us-ai-data-centers-are-going-up-on-drought-land)
 
 ---
 
@@ -142,6 +133,15 @@
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Nvidia 即將推出的 Vera Rubin AI 伺服器平台在對其熱架構進行後期重新設計後，已成為密切關注的焦點。
 - [原文連結](https://www.digitimes.com/news/a20260608PD215/nvidia-rubin-ai-server-vapor-chamber-cooling-jentech-precision.html)
+
+---
+
+### ⚠️ 美國大多數新的人工智慧資料中心都建在乾旱地區——809個規劃項目中的三分之二是建在缺水地區
+- **題材**: `AI伺服器` | **重要性**: `62`
+- **來源**: Tom's Hardware UK (2026-06-08T16:39:27Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 新的用水需求分析顯示，資料中心冷卻約佔人工智慧足跡的 4%，其餘則由晶圓廠和發電部門承擔。
+- [原文連結](https://www.tomshardware.com/tech-industry/most-new-us-ai-data-centers-are-going-up-on-drought-land)
 
 ---
 
