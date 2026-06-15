@@ -1,10 +1,48 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-06-15T00:09:27.043174+00:00",
+  "generated_at": "2026-06-15T06:15:40.769671+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 71,
   "items": [
+    {
+      "id": "301081b627405c7a",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "Chunghwa Leading Photonics targets SWIR testing demand in advanced packaging",
+      "summary": "中華電信旗下中華領先光電科技將在台北興櫃掛牌上市。受工業 5.0 應用需求不斷增長的推動，該公司在 2026 年前四個月的收入和毛利率創下歷史新高。",
+      "original_title": "Chunghwa Leading Photonics targets SWIR testing demand in advanced packaging",
+      "url": "https://www.digitimes.com/news/a20260612PD223/demand-packaging-testing-inspection-revenue.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-06-14T01:43:19Z",
+      "importance": 88,
+      "impact": "positive",
+      "timeframe": "short_to_mid_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之偏多消息。【重大事件】可能顯著影響產業評價、EPS預期或資金流向。"
+    },
     {
       "id": "700f8f8350f60323",
       "dataset": "market_news",
@@ -55,7 +93,7 @@
       "source": "Digitimes",
       "domain": "digitimes.com",
       "published_at": "2026-06-12T04:43:25Z",
-      "importance": 83,
+      "importance": 78,
       "impact": "positive",
       "timeframe": "short_to_mid_term",
       "tags": [
@@ -305,44 +343,6 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "c224d635ed6ce082",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "獨家：Nvidia 放棄了 Vera Rubin 平台的雙片式冷卻架構",
-      "summary": "Nvidia 即將推出的 Vera Rubin AI 伺服器平台在對其熱架構進行後期重新設計後，已成為密切關注的焦點。",
-      "original_title": "Exclusive: Nvidia drops dual-piece cooling architecture for Vera Rubin platform",
-      "url": "https://www.digitimes.com/news/a20260608PD215/nvidia-rubin-ai-server-vapor-chamber-cooling-jentech-precision.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-06-08T02:20:27Z",
-      "importance": 68,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "4eb52c35f47f767e",
@@ -609,6 +609,44 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "c224d635ed6ce082",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "獨家：Nvidia 放棄了 Vera Rubin 平台的雙片式冷卻架構",
+      "summary": "Nvidia 即將推出的 Vera Rubin AI 伺服器平台在對其熱架構進行後期重新設計後，已成為密切關注的焦點。",
+      "original_title": "Exclusive: Nvidia drops dual-piece cooling architecture for Vera Rubin platform",
+      "url": "https://www.digitimes.com/news/a20260608PD215/nvidia-rubin-ai-server-vapor-chamber-cooling-jentech-precision.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-06-08T02:20:27Z",
+      "importance": 63,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "2ba9f797c6db2fa7",
@@ -1018,44 +1056,6 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "0ea647d9e495b02b",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "AMD 聲稱下一代 Zen 6 伺服器 CPU 的每機架效能將達到 Nvidia Vera 的 330%",
-      "summary": "AMD 最近發布了效能預測，聲稱其即將推出的伺服器 CPU 平台將大大超過 Nvidia 的最新表現。 AMD 的估計直接參考了受控基準測試的早期結果，這些基準測試有利於 Nvidia 的處理器。閱讀…",
-      "original_title": "AMD claims next-gen Zen 6 server CPU will deliver 330% of Nvidia Vera's performance per rack",
-      "url": "https://www.techspot.com/news/112724-amd-claims-next-gen-zen-6-server-cpu.html",
-      "source": "TechSpot",
-      "domain": "techspot.com",
-      "published_at": "2026-06-11T04:08:00Z",
-      "importance": 55,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "f31888401f3b0a46",
@@ -1550,44 +1550,6 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "d1eee89a317963cb",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "以色列空襲測試停火後油價小漲",
-      "summary": "伊朗表示，這是自四月停火以來的首次襲擊，也是「整整一周」襲擊的開始",
-      "original_title": "Oil prices edge higher after strikes on Israel test ceasefire",
-      "url": "https://www.bbc.com/news/articles/c78yd5g9qx0o",
-      "source": "BBC News",
-      "domain": "bbc.com",
-      "published_at": "2026-06-08T00:49:10Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "eb25a0b3305020e2",
@@ -2663,6 +2625,44 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "d1eee89a317963cb",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "以色列空襲測試停火後油價小漲",
+      "summary": "伊朗表示，這是自四月停火以來的首次襲擊，也是「整整一周」襲擊的開始",
+      "original_title": "Oil prices edge higher after strikes on Israel test ceasefire",
+      "url": "https://www.bbc.com/news/articles/c78yd5g9qx0o",
+      "source": "BBC News",
+      "domain": "bbc.com",
+      "published_at": "2026-06-08T00:49:10Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     }
   ]
 }

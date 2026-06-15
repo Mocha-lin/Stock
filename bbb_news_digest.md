@@ -1,5 +1,14 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-15T00:09:27.043174+00:00
+> 更新時間：2026-06-15T06:15:40.769671+00:00
+
+### 🚀 Chunghwa Leading Photonics targets SWIR testing demand in advanced packaging
+- **題材**: `半導體先進製程` | **重要性**: `88`
+- **來源**: Digitimes (2026-06-14T01:43:19Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重大事件】可能顯著影響產業評價、EPS預期或資金流向。
+- **摘要**: 中華電信旗下中華領先光電科技將在台北興櫃掛牌上市。受工業 5.0 應用需求不斷增長的推動，該公司在 2026 年前四個月的收入和毛利率創下歷史新高。
+- [原文連結](https://www.digitimes.com/news/a20260612PD223/demand-packaging-testing-inspection-revenue.html)
+
+---
 
 ### 🚀 如果您錯過了韓國 AI ETF 的繁榮，有 2 個直接接觸供應鏈的台灣選擇
 - **題材**: `半導體先進製程` | **重要性**: `85`
@@ -11,7 +20,7 @@
 ---
 
 ### 🚀 AI伺服器追蹤：隨著機架供應商超越同行，台灣AI伺服器建構鏈不斷拓寬
-- **題材**: `AI伺服器` | **重要性**: `83`
+- **題材**: `AI伺服器` | **重要性**: `78`
 - **來源**: Digitimes (2026-06-12T04:43:25Z)
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 台灣伺服器供應鏈持續受惠於人工智慧基礎設施，成長遍及連接器、電纜、機櫃、導軌和系統組裝。但步伐各不相同，因為有些公司只看到了適度的成長，而有些公司則與…聯繫更緊密。
@@ -70,15 +79,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 隨著人工智慧驅動的高速數據傳輸需求加速，台灣政府啟動了一項人工智慧基礎設施計劃，旨在透過利用矽光子（SiPh）形成新的護城河，進一步增強其半導體產業實力。
 - [原文連結](https://www.digitimes.com/news/a20260609PD215/taiwan-siph-government-silicon-photonics.html)
-
----
-
-### ⚖️ 獨家：Nvidia 放棄了 Vera Rubin 平台的雙片式冷卻架構
-- **題材**: `AI伺服器` | **重要性**: `68`
-- **來源**: Digitimes (2026-06-08T02:20:27Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Nvidia 即將推出的 Vera Rubin AI 伺服器平台在對其熱架構進行後期重新設計後，已成為密切關注的焦點。
-- [原文連結](https://www.digitimes.com/news/a20260608PD215/nvidia-rubin-ai-server-vapor-chamber-cooling-jentech-precision.html)
 
 ---
 
@@ -145,6 +145,15 @@
 
 ---
 
+### ⚖️ 獨家：Nvidia 放棄了 Vera Rubin 平台的雙片式冷卻架構
+- **題材**: `AI伺服器` | **重要性**: `63`
+- **來源**: Digitimes (2026-06-08T02:20:27Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Nvidia 即將推出的 Vera Rubin AI 伺服器平台在對其熱架構進行後期重新設計後，已成為密切關注的焦點。
+- [原文連結](https://www.digitimes.com/news/a20260608PD215/nvidia-rubin-ai-server-vapor-chamber-cooling-jentech-precision.html)
+
+---
+
 ### ⚖️ 三星可能使用 2nm 技術製造Google下一代人工智慧晶片的一部分
 - **題材**: `半導體先進製程` | **重要性**: `60`
 - **來源**: SamMobile (2026-06-12T06:45:36Z)
@@ -169,15 +178,6 @@
 - **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Super Micro Computer 股票週三開盤時預計下跌 12%。
 - [原文連結](https://finance.yahoo.com/markets/article/super-micro-computer-stock-sinks-on-7-billion-equity-raise-124041196.html)
-
----
-
-### 🚀 Higher oil prices are making Russia richer — but not helping its economy grow, Goldman says
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Business Insider (2026-06-10T04:34:35Z)
-- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 俄羅斯已成為最近伊朗戰爭期間全球石油市場混亂的少數贏家之一。
-- [原文連結](https://www.businessinsider.com/russia-economy-oil-price-boom-gdp-growth-goldman-sachs-2026-6)
 
 ---
 
