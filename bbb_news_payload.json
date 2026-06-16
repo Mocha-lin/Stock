@@ -1,9 +1,9 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-06-16T06:25:33.671576+00:00",
+  "generated_at": "2026-06-16T13:28:01.216981+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
-  "total_count": 73,
+  "total_count": 72,
   "items": [
     {
       "id": "301081b627405c7a",
@@ -497,44 +497,6 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "889ce3da15452798",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "PCL Technologies 瞄準 CPO，檳城工廠即將完工",
-      "summary": "光通訊製造商 PCL Technologies 正在向高功率雷射封裝領域擴張，其馬來西亞新工廠預計將在 2026 年底前通過客戶認證。其早期對美國矽光子公司 Skorpios 的投資以及收購…",
-      "original_title": "PCL Technologies targets CPO as Penang plant nears completion",
-      "url": "https://www.digitimes.com/news/a20260609PD238/pcl-technologies-optical-communications-cpo-plant-2026.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-06-09T06:55:33Z",
-      "importance": 63,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "f29d8382191b7438",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -722,17 +684,93 @@
       "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "52fb7d79288d36b4",
+      "id": "889ce3da15452798",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "PCL Technologies 瞄準 CPO，檳城工廠即將完工",
+      "summary": "光通訊製造商 PCL Technologies 正在向高功率雷射封裝領域擴張，其馬來西亞新工廠預計將在 2026 年底前通過客戶認證。其早期對美國矽光子公司 Skorpios 的投資以及收購…",
+      "original_title": "PCL Technologies targets CPO as Penang plant nears completion",
+      "url": "https://www.digitimes.com/news/a20260609PD238/pcl-technologies-optical-communications-cpo-plant-2026.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-06-09T06:55:33Z",
+      "importance": 58,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "7b1e2c4f363c701a",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "汽油價格連續 3 週下跌，但仍高於每加侖 4 美元",
+      "summary": "截至週一上午，美國每加侖汽油的平均價格為 4.06 美元，低於美伊戰爭高峰期的 4.50 美元以上。",
+      "original_title": "Gas prices have fallen for 3 straight weeks, but they're still above $4 a gallon",
+      "url": "https://www.businessinsider.com/gas-prices-fall-still-above-4-dollars-per-gallon-2026-6#article",
+      "source": "Business Insider",
+      "domain": "businessinsider.com",
+      "published_at": "2026-06-15T10:22:32Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "662194cab41a6f76",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "半導體先進製程",
-      "title": "谷歌正在與三星洽談採用 1.4 奈米和 2 奈米製程生產下一代「Icefish」TPU",
-      "summary": "谷歌的 Icefish TPU 可能會由三星和台積電分割，採用 1.4nm 計算晶片和 2nm 內存 I/O，目標生產時間表為 2028 年。在 TweakTown 繼續閱讀",
-      "original_title": "Google is in talks with Samsung to build next-gen 'Icefish' TPU on 1.4nm and 2nm process split",
-      "url": "https://www.tweaktown.com/news/112184/google-is-in-talks-with-samsung-to-build-next-gen-icefish-tpu-on-1-4nm-and-2nm-process-split/index.html",
-      "source": "TweakTown",
-      "domain": "tweaktown.com",
-      "published_at": "2026-06-15T01:30:05Z",
+      "title": "新 Galaxy Z Flip 8 洩漏揭示 Exynos 和 Snapdragon 市場分裂",
+      "summary": "從第一代 Galaxy Z Flip 到 Galaxy Z Flip 6，三星在該系列的所有型號中都使用了高通 Snapdragon 晶片組。 Galaxy Z Flip 7 改變了這種情況，它成為該系列中第一款配備非高通處理器的裝置。它你…",
+      "original_title": "New Galaxy Z Flip 8 leak reveals Exynos and Snapdragon market split",
+      "url": "https://www.sammobile.com/news/galaxy-z-flip-8-leak-reveals-exynos-snapdragon-market-split/",
+      "source": "SamMobile",
+      "domain": "sammobile.com",
+      "published_at": "2026-06-15T07:29:16Z",
       "importance": 55,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -983,82 +1021,6 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "4042122a71e80bf3",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "RTX 5080 和 RTX 3090 設定：Qwen 3.6 27B Q8 上為 80 Tok/s",
-      "summary": "雙 GPU 設定：以 Q8 量化速度運行 Qwen 3.6 27B，速度超過 80 個令牌/秒，總 VRAM 為 39GB",
-      "original_title": "RTX 5080 and RTX 3090 Setup: 80 Tok/s on Qwen 3.6 27B Q8",
-      "url": "https://imil.net/blog/posts/2026/rtx-5080-+-rtx-3090-setup-80+-tok-s-on-qwen-3.6-27b-q8/",
-      "source": "Imil.net",
-      "domain": "imil.net",
-      "published_at": "2026-06-13T09:55:32Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "595d17e76e9414a6",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "您不只是喜歡汽油價格嗎？",
-      "summary": "通貨膨脹正在上升，但川普政府似乎並不擔心。",
-      "original_title": "Aren’t You Just Loving Gas Prices?",
-      "url": "https://slate.com/podcasts/slate-money/2026/06/business-we-hate-the-inflation",
-      "source": "Slate Magazine",
-      "domain": "slate.com",
-      "published_at": "2026-06-13T09:00:00Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "b0e6b715a02616df",
@@ -1625,29 +1587,32 @@
       "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "a8293a61545b273f",
+      "id": "4042122a71e80bf3",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "NVIDIA 批准三星的 HBM4 用於其下一代 AI 加速器",
-      "summary": "三星的 HBM3 記憶體晶片很難獲得 NVIDIA 的批准。這一延遲使該公司付出了高昂的代價，因為它使 SK Hynix 能夠滿足 NVIDIA 數十億美元需求的大部分需求。該公司已經能夠扭轉 HBM4 的局面，...",
-      "original_title": "NVIDIA approves Samsung’s HBM4 for its next-gen AI accelerators",
-      "url": "https://www.sammobile.com/news/nvidia-approves-samsungs-hbm4-for-its-next-gen-ai-accelerators/",
-      "source": "SamMobile",
-      "domain": "sammobile.com",
-      "published_at": "2026-06-09T11:01:57Z",
-      "importance": 55,
+      "theme": "AI伺服器",
+      "title": "RTX 5080 和 RTX 3090 設定：Qwen 3.6 27B Q8 上為 80 Tok/s",
+      "summary": "雙 GPU 設定：以 Q8 量化速度運行 Qwen 3.6 27B，速度超過 80 個令牌/秒，總 VRAM 為 39GB",
+      "original_title": "RTX 5080 and RTX 3090 Setup: 80 Tok/s on Qwen 3.6 27B Q8",
+      "url": "https://imil.net/blog/posts/2026/rtx-5080-+-rtx-3090-setup-80+-tok-s-on-qwen-3.6-27b-q8/",
+      "source": "Imil.net",
+      "domain": "imil.net",
+      "published_at": "2026-06-13T09:55:32Z",
+      "importance": 50,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "HBM",
-        "記憶體"
+        "AI",
+        "伺服器",
+        "資料中心"
       ],
       "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
       ],
       "related_models": [
         "003",
@@ -1657,35 +1622,35 @@
         "009",
         "010"
       ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "62c89077a3a0c3d6",
+      "id": "595d17e76e9414a6",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "MBRYONICS 宣布太空光通訊取得突破",
-      "summary": "MBRYONICS 推出全球首款用於超高速空間鏈路的 25G/100G/400G/800G 雙向相干光收發器 STARLIGHT 愛爾蘭戈爾韋，2026 年 6 月 9 日 /美通社/ -- MBRYONICS，衛星光通訊領域的全球領導者，今天…",
-      "original_title": "MBRYONICS, ANNOUNCES OPTICAL COMMUNICATIONS BREAKTHROUGH FOR SPACE",
-      "url": "https://www.prnewswire.com/news-releases/mbryonics-announces-optical-communications-breakthrough-for-space-302794700.html",
-      "source": "PRNewswire",
-      "domain": "prnewswire.com",
-      "published_at": "2026-06-09T10:05:00Z",
-      "importance": 55,
-      "impact": "positive",
+      "theme": "總體風險",
+      "title": "您不只是喜歡汽油價格嗎？",
+      "summary": "通貨膨脹正在上升，但川普政府似乎並不擔心。",
+      "original_title": "Aren’t You Just Loving Gas Prices?",
+      "url": "https://slate.com/podcasts/slate-money/2026/06/business-we-hate-the-inflation",
+      "source": "Slate Magazine",
+      "domain": "slate.com",
+      "published_at": "2026-06-13T09:00:00Z",
+      "importance": 50,
+      "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
       ],
       "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
       ],
       "related_models": [
         "003",
@@ -1695,7 +1660,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "83d2ae39c2ff492f",
@@ -1731,44 +1696,6 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "cf5789ddd8c40be2",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "調查顯示，經濟學家將聯準會降息預期延至 2027 年",
-      "summary": "（彭博）—經濟學家降低了降息預期，現在預計聯準會將在明年中期保持利率穩定...",
-      "original_title": "Economists Push Fed Rate-Cut Expectations Into 2027, Survey Shows",
-      "url": "https://finance.yahoo.com/economy/policy/articles/economists-push-fed-rate-cut-100000101.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-06-12T10:00:00Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "eb25a0b3305020e2",
@@ -2367,44 +2294,6 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "d07b2ceb90c6ff47",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "伊朗戰爭推高物價，通膨創2023年以來最高水平",
-      "summary": "伊朗戰爭期間通膨連續第三個月上升，符合預期。",
-      "original_title": "Inflation hits highest level since 2023, as the Iran war pushes up prices",
-      "url": "https://abcnews.com/Business/inflation-hits-highest-level-2023-iran-war-pushes/story?id=133741082",
-      "source": "Abcnews.com",
-      "domain": "abcnews.com",
-      "published_at": "2026-06-10T14:27:54Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "b11b0042465be627",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2663,6 +2552,79 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "a8293a61545b273f",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "NVIDIA 批准三星的 HBM4 用於其下一代 AI 加速器",
+      "summary": "三星的 HBM3 記憶體晶片很難獲得 NVIDIA 的批准。這一延遲使該公司付出了高昂的代價，因為它使 SK Hynix 能夠滿足 NVIDIA 數十億美元需求的大部分需求。該公司已經能夠扭轉 HBM4 的局面，...",
+      "original_title": "NVIDIA approves Samsung’s HBM4 for its next-gen AI accelerators",
+      "url": "https://www.sammobile.com/news/nvidia-approves-samsungs-hbm4-for-its-next-gen-ai-accelerators/",
+      "source": "SamMobile",
+      "domain": "sammobile.com",
+      "published_at": "2026-06-09T11:01:57Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "62c89077a3a0c3d6",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "MBRYONICS 宣布太空光通訊取得突破",
+      "summary": "MBRYONICS 推出全球首款用於超高速空間鏈路的 25G/100G/400G/800G 雙向相干光收發器 STARLIGHT 愛爾蘭戈爾韋，2026 年 6 月 9 日 /美通社/ -- MBRYONICS，衛星光通訊領域的全球領導者，今天…",
+      "original_title": "MBRYONICS, ANNOUNCES OPTICAL COMMUNICATIONS BREAKTHROUGH FOR SPACE",
+      "url": "https://www.prnewswire.com/news-releases/mbryonics-announces-optical-communications-breakthrough-for-space-302794700.html",
+      "source": "PRNewswire",
+      "domain": "prnewswire.com",
+      "published_at": "2026-06-09T10:05:00Z",
+      "importance": 50,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "b205642ead10f32b",

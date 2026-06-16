@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-16T06:25:33.671576+00:00
+> 更新時間：2026-06-16T13:28:01.216981+00:00
 
 ### 🚀 Chunghwa Leading Photonics targets SWIR testing demand in advanced packaging
 - **題材**: `半導體先進製程` | **重要性**: `88`
@@ -115,15 +115,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 鏡頭製造商大立光電 (Largan Precision) 於 6 月 9 日召開股東大會，長期以來以簡潔的公開言論著稱的董事長 Adam Lin 顯得很輕鬆，並對行業、技術和大立光電自身的運營提出了異常詳細的看法。他的評論…
 - [原文連結](https://www.digitimes.com/news/a20260609PD234/largan-precision-cpo-production.html)
-
----
-
-### ⚖️ PCL Technologies 瞄準 CPO，檳城工廠即將完工
-- **題材**: `光通訊與矽光子` | **重要性**: `63`
-- **來源**: Digitimes (2026-06-09T06:55:33Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 光通訊製造商 PCL Technologies 正在向高功率雷射封裝領域擴張，其馬來西亞新工廠預計將在 2026 年底前通過客戶認證。其早期對美國矽光子公司 Skorpios 的投資以及收購…
-- [原文連結](https://www.digitimes.com/news/a20260609PD238/pcl-technologies-optical-communications-cpo-plant-2026.html)
 
 ---
 
