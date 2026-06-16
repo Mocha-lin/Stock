@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-15T21:37:34.491276+00:00
+> 更新時間：2026-06-16T01:42:26.073458+00:00
 
 ### 🚀 Chunghwa Leading Photonics targets SWIR testing demand in advanced packaging
 - **題材**: `半導體先進製程` | **重要性**: `88`
@@ -16,6 +16,24 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 台灣製造能力 台灣是世界上最重要的半導體製造中心。 2025年，其經濟成長8.68%，出口額約為...
 - [原文連結](https://247wallst.com/investing/2026/06/12/if-you-missed-the-korean-ai-etf-boom-there-are-the-2-taiwanese-options-with-direct-exposure-to-the-supply-chain/)
+
+---
+
+### 🚀 AI伺服器追蹤：隨著機架供應商超越同行，台灣AI伺服器建構鏈不斷拓寬
+- **題材**: `AI伺服器` | **重要性**: `78`
+- **來源**: Digitimes (2026-06-12T04:43:25Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 台灣伺服器供應鏈持續受惠於人工智慧基礎設施，成長遍及連接器、電纜、機櫃、導軌和系統組裝。但步伐各不相同，因為有些公司只看到了適度的成長，而有些公司則與…聯繫更緊密。
+- [原文連結](https://www.digitimes.com/news/a20260611VL209/taiwan-ai-server-supply-chain-growth-demand.html)
+
+---
+
+### ⚖️ SPACEXAI 5 個資料中心位置 + 更多能源 + Rubin 晶片 = 300 美元 + 十億收入運行率
+- **題材**: `AI伺服器` | **重要性**: `75`
+- **來源**: Next Big Future (2026-06-15T00:23:15Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: SPACEXAI 擁有五個資料中心位置。三個地面資料中心站點，第四個是特斯拉的分散式人工智慧資料中心，第五個是太空人工智慧資料中心。地面/陸地：3–5 GW這是中短期容量的大部分。核心彩色…
+- [原文連結](https://www.nextbigfuture.com/2026/06/spacexai-5-data-center-locations-more-energy-rubin-chips-300-billion-revenue-runrate.html)
 
 ---
 
@@ -109,21 +127,12 @@
 
 ---
 
-### ⚖️ 獨家：Nvidia 放棄了 Vera Rubin 平台的雙片式冷卻架構
-- **題材**: `AI伺服器` | **重要性**: `63`
-- **來源**: Digitimes (2026-06-08T02:20:27Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Nvidia 即將推出的 Vera Rubin AI 伺服器平台在對其熱架構進行後期重新設計後，已成為密切關注的焦點。
-- [原文連結](https://www.digitimes.com/news/a20260608PD215/nvidia-rubin-ai-server-vapor-chamber-cooling-jentech-precision.html)
-
----
-
-### ⚠️ 美國大多數新的人工智慧資料中心都建在乾旱地區——809個規劃項目中的三分之二是建在缺水地區
-- **題材**: `AI伺服器` | **重要性**: `62`
-- **來源**: Tom's Hardware UK (2026-06-08T16:39:27Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 新的用水需求分析顯示，資料中心冷卻約佔人工智慧足跡的 4%，其餘則由晶圓廠和發電部門承擔。
-- [原文連結](https://www.tomshardware.com/tech-industry/most-new-us-ai-data-centers-are-going-up-on-drought-land)
+### 🚀 太陽上最小的窗戶
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: Universe Today (2026-06-12T16:41:06Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 太陽時常會在所謂的日冕物質拋射中向地球拋射數十億噸帶電粒子，如果一個大粒子在錯誤的時刻撞擊地球，對衛星、電網和通訊系統的後果可能是災難性的…
+- [原文連結](https://www.universetoday.com/articles/the-smallest-window-on-the-sun)
 
 ---
 
@@ -160,15 +169,6 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 美光科技 (NASDAQ:MU) 股價為 949.28 美元，值得持有，在回調至 760 美元時可以更好地部署新資金。該股因人工智慧記憶體需求而上漲，...
 - [原文連結](https://247wallst.com/investing/2026/06/09/up-174-year-to-date-1-major-reason-to-hold-off-on-micron-technology-stock-at-950/)
-
----
-
-### 🚀 AI 伺服器需求旺盛，戴爾股價飆漲 54%，惠普企業版股價一個月內飆漲 59%
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: 24/7 Wall St. (2026-06-08T19:26:00Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 戴爾科技集團 (NYSE:DELL) 和惠普企業 (NYSE:HPE) 的股價正受到關注，因為這兩家公司都延續了一個月的強勁上漲勢頭…
-- [原文連結](https://247wallst.com/investing/2026/06/08/dell-soars-54-hp-enterprise-rockets-59-in-a-month-as-ai-server-demand-booms/)
 
 ---
 
