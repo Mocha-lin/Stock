@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-16T17:52:06.838247+00:00
+> 更新時間：2026-06-16T21:36:54.124805+00:00
 
 ### 🚀 Chunghwa Leading Photonics targets SWIR testing demand in advanced packaging
 - **題材**: `半導體先進製程` | **重要性**: `88`
@@ -100,21 +100,30 @@
 
 ---
 
-### 🚀 Semtech Corporation (SMTC) 因資料中心成長機會而成為 6 月值得買入的熱門股票
-- **題材**: `光通訊與矽光子` | **重要性**: `65`
-- **來源**: Yahoo Entertainment (2026-06-13T19:31:20Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Semtech Corporation（納斯達克股票代碼：SMTC）是 6 月最值得買入的熱門股票之一。 5 月 27 日，瑞銀重申了 Semtech Corp.（納斯達克股票代碼：SMTC）的買入評級，並...
-- [原文連結](https://finance.yahoo.com/markets/stocks/articles/semtech-corporation-smtc-hot-stock-193120869.html)
-
----
-
 ### ⚖️ 大立光電瞄準 CPO 多層堆疊，推出首條 FAU 試驗線
 - **題材**: `光通訊與矽光子` | **重要性**: `63`
 - **來源**: Digitimes (2026-06-10T01:26:31Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 鏡頭製造商大立光電 (Largan Precision) 於 6 月 9 日召開股東大會，長期以來以簡潔的公開言論著稱的董事長 Adam Lin 顯得很輕鬆，並對行業、技術和大立光電自身的運營提出了異常詳細的看法。他的評論…
 - [原文連結](https://www.digitimes.com/news/a20260609PD234/largan-precision-cpo-production.html)
+
+---
+
+### 🚀 為什麼韓國人如此熱愛人工智慧？
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: MIT Technology Review (2026-06-15T18:46:08Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 這個故事最初出現在我們關於人工智慧的每週通訊《演算法》中。若要先在您的收件匣中收到此類報道，請在此註冊。當我從舊金山經過 12 個小時的艱苦飛行抵達首爾時，我走過了一個無人值守的出入境檢查…
+- [原文連結](https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/)
+
+---
+
+### 🚀 Semtech Corporation (SMTC) 因資料中心成長機會而成為 6 月值得買入的熱門股票
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-06-13T19:31:20Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Semtech Corporation（納斯達克股票代碼：SMTC）是 6 月最值得買入的熱門股票之一。 5 月 27 日，瑞銀重申了 Semtech Corp.（納斯達克股票代碼：SMTC）的買入評級，並...
+- [原文連結](https://finance.yahoo.com/markets/stocks/articles/semtech-corporation-smtc-hot-stock-193120869.html)
 
 ---
 
@@ -151,15 +160,6 @@
 - **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 俄羅斯已成為最近伊朗戰爭期間全球石油市場混亂的少數贏家之一。
 - [原文連結](https://www.businessinsider.com/russia-economy-oil-price-boom-gdp-growth-goldman-sachs-2026-6)
-
----
-
-### 🚀 今年迄今上漲 174%：延後美光科技股價 950 美元的 1 個主因
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: 24/7 Wall St. (2026-06-09T19:03:28Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 美光科技 (NASDAQ:MU) 股價為 949.28 美元，值得持有，在回調至 760 美元時可以更好地部署新資金。該股因人工智慧記憶體需求而上漲，...
-- [原文連結](https://247wallst.com/investing/2026/06/09/up-174-year-to-date-1-major-reason-to-hold-off-on-micron-technology-stock-at-950/)
 
 ---
 
