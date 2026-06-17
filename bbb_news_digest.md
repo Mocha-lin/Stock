@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-16T21:36:54.124805+00:00
+> 更新時間：2026-06-17T00:17:05.846318+00:00
 
 ### 🚀 Chunghwa Leading Photonics targets SWIR testing demand in advanced packaging
 - **題材**: `半導體先進製程` | **重要性**: `88`
@@ -73,6 +73,15 @@
 
 ---
 
+### ⚖️ 據報導 SK Hynix 已為 Nvidia 準備好 HBM4E 樣品，三星領先
+- **題材**: `HBM記憶體` | **重要性**: `68`
+- **來源**: Digitimes (2026-06-15T21:54:54Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 隨著時機成為全球記憶體市場的關鍵競爭因素，SK 海力士距離向主要客戶交付第七代高頻寬記憶體 HBM4E 又近了一步。據Newsis報道，業內消息人士報道稱，SK海力士最近...
+- [原文連結](https://www.digitimes.com/news/a20260615PD216/sk-hynix-2026-shipments-shipping-samsung.html)
+
+---
+
 ### 🚀 評論：Nvidia CEO 來訪凸顯三星參與 HBM 供應競賽
 - **題材**: `HBM記憶體` | **重要性**: `68`
 - **來源**: Digitimes (2026-06-10T06:44:24Z)
@@ -100,6 +109,15 @@
 
 ---
 
+### ⚖️ 大立光的 CPO 業務取決於 0.3 微米以下的精度，而不是完美的零件
+- **題材**: `光通訊與矽光子` | **重要性**: `63`
+- **來源**: Digitimes (2026-06-10T21:52:17Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 大立光電正在加速進軍 CPO 相關光學元件，董事長 Adam Lin 透露，該公司正在台灣新工廠建造第一條自動化試驗線，計劃於 2026 年 9 月前投入使用。
+- [原文連結](https://www.digitimes.com/news/a20260610PD237/largan-precision-optical-components-cpo-chairman-production.html)
+
+---
+
 ### ⚖️ 大立光電瞄準 CPO 多層堆疊，推出首條 FAU 試驗線
 - **題材**: `光通訊與矽光子` | **重要性**: `63`
 - **來源**: Digitimes (2026-06-10T01:26:31Z)
@@ -115,6 +133,25 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 這個故事最初出現在我們關於人工智慧的每週通訊《演算法》中。若要先在您的收件匣中收到此類報道，請在此註冊。當我從舊金山經過 12 個小時的艱苦飛行抵達首爾時，我走過了一個無人值守的出入境檢查…
 - [原文連結](https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/)
+
+---
+
+### 🚀 Tower Semiconductor 因矽光子擴張交易而股價攀升
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: Biztoc.com (2026-06-15T10:10:29Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Tower Semiconductor Ltd（納斯達克股票代碼：TSEM）股價在周一盤前交易中上漲。該公司宣布與 IQE plc 簽訂多年供應磷化銦 (InP) 外延片的協議。
+此次合作旨在增強 Tower 在未來領域的能力…
+- [原文連結](https://biztoc.com/x/961f1ff7c86323dc)
+
+---
+
+### ⚖️ Arista Networks (ANET)：1.6T 發布展示了 AI Fabrics 如何擴展其資料中心機會
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-06-14T19:44:54Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 
+- [原文連結](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f16ef23b-06b4-48d1-b475-0c86dff191f0)
 
 ---
 
@@ -142,24 +179,6 @@
 - **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 本週，尼克球迷在大敗之後迎來了一場大勝利；通貨膨脹的球迷很高興，世界盃的球迷則破產了。問答愛好者的表現如何？
 - [原文連結](https://www.npr.org/2026/06/12/g-s1-127424/trump-knicks-musk-world-cup-apple-news-quiz)
-
----
-
-### ⚠️ Super Micro Computer 股票因 70 億美元融資而下跌
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-06-10T12:40:41Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Super Micro Computer 股票週三開盤時預計下跌 12%。
-- [原文連結](https://finance.yahoo.com/markets/article/super-micro-computer-stock-sinks-on-7-billion-equity-raise-124041196.html)
-
----
-
-### 🚀 Higher oil prices are making Russia richer — but not helping its economy grow, Goldman says
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Business Insider (2026-06-10T04:34:35Z)
-- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 俄羅斯已成為最近伊朗戰爭期間全球石油市場混亂的少數贏家之一。
-- [原文連結](https://www.businessinsider.com/russia-economy-oil-price-boom-gdp-growth-goldman-sachs-2026-6)
 
 ---
 
