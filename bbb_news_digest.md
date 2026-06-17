@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-17T16:31:49.567132+00:00
+> 更新時間：2026-06-17T19:16:09.552819+00:00
 
 ### 🚀 Chunghwa Leading Photonics targets SWIR testing demand in advanced packaging
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -61,15 +61,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 光網路股票在周三午盤交易中受到追捧，隨著人工智慧基礎設施貿易的重新確立，該集團集體上漲...
 - [原文連結](https://247wallst.com/investing/2026/06/10/applied-optoelectronics-jumps-7-lumentum-climbs-5-coherent-rises-2-as-optics-stocks-ride-the-ai-boom/)
-
----
-
-### ⚖️ TSMC PLP timeline faces skepticism from Taiwan industry sources
-- **題材**: `半導體先進製程` | **重要性**: `68`
-- **來源**: Digitimes (2026-06-16T02:47:10Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 韓國媒體報告稱台積電準備最早在 2027 年大規模生產面板級封裝，這引起了台灣行業消息人士的懷疑，他們表示這個時間表可能為時過早，並且該公司仍將重點放在…
-- [原文連結](https://www.digitimes.com/news/a20260616VL205/tsmc-taiwan-packaging-production-foplp.html)
 
 ---
 
@@ -179,6 +170,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Semtech Corporation（納斯達克股票代碼：SMTC）是 6 月最值得買入的熱門股票之一。 5 月 27 日，瑞銀重申了 Semtech Corp.（納斯達克股票代碼：SMTC）的買入評級，並...
 - [原文連結](https://finance.yahoo.com/markets/stocks/articles/semtech-corporation-smtc-hot-stock-193120869.html)
+
+---
+
+### 🚀 哪位億萬富翁表示他們本週學到了「重要的教訓」？測驗就知道
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: NPR (2026-06-12T09:02:00Z)
+- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 本週，尼克球迷在大敗之後迎來了一場大勝利；通貨膨脹的球迷很高興，世界盃的球迷則破產了。問答愛好者的表現如何？
+- [原文連結](https://www.npr.org/2026/06/12/g-s1-127424/trump-knicks-musk-world-cup-apple-news-quiz)
 
 ---
 
