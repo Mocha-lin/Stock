@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-06-17T00:17:05.846318+00:00",
+  "generated_at": "2026-06-17T06:01:39.216001+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 73,
@@ -17,7 +17,7 @@
       "source": "Digitimes",
       "domain": "digitimes.com",
       "published_at": "2026-06-14T01:43:19Z",
-      "importance": 88,
+      "importance": 83,
       "impact": "positive",
       "timeframe": "short_to_mid_term",
       "tags": [
@@ -41,7 +41,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「半導體先進製程」題材之偏多消息。【重大事件】可能顯著影響產業評價、EPS預期或資金流向。"
+      "reason": "屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "700f8f8350f60323",
@@ -80,6 +80,44 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
+      "id": "169857a33a97fc06",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "TSMC reportedly teams with Ibiden, Innolux to push CoPoS, glass substrates",
+      "summary": "TSMC is accelerating its advanced packaging roadmap for AI chips, expanding CoWoS capacity while publicly disclosing new progress in glass substrate technology. The company is also signaling that next-generation packaging competition is shifting from CoWoS to…",
+      "original_title": "TSMC reportedly teams with Ibiden, Innolux to push CoPoS, glass substrates",
+      "url": "https://www.digitimes.com/news/a20260616PD217/tsmc-innolux-ibiden-packaging-cowos.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-06-16T04:35:11Z",
+      "importance": 78,
+      "impact": "neutral",
+      "timeframe": "short_to_mid_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "5eb6a2507423ed6a",
@@ -310,6 +348,44 @@
       "reason": "屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
+      "id": "64ee6afd65a866b8",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "TSMC PLP timeline faces skepticism from Taiwan industry sources",
+      "summary": "韓國媒體報告稱台積電準備最早在 2027 年大規模生產面板級封裝，這引起了台灣行業消息人士的懷疑，他們表示這個時間表可能為時過早，並且該公司仍將重點放在…",
+      "original_title": "TSMC PLP timeline faces skepticism from Taiwan industry sources",
+      "url": "https://www.digitimes.com/news/a20260616VL205/tsmc-taiwan-packaging-production-foplp.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-06-16T02:47:10Z",
+      "importance": 68,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "99b3fd723fffcb18",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -378,44 +454,6 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "b66829daa1d5b451",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "台灣AI產業計畫以矽光子為新護城河",
-      "summary": "隨著人工智慧驅動的高速數據傳輸需求加速，台灣政府啟動了一項人工智慧基礎設施計劃，旨在透過利用矽光子（SiPh）形成新的護城河，進一步增強其半導體產業實力。",
-      "original_title": "Taiwan AI industry plan targets silicon photonics as new moat",
-      "url": "https://www.digitimes.com/news/a20260609PD215/taiwan-siph-government-silicon-photonics.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-06-10T01:30:00Z",
-      "importance": 68,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "4eb52c35f47f767e",
@@ -494,17 +532,17 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "39c0bd82938949dd",
+      "id": "b66829daa1d5b451",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "光通訊與矽光子",
-      "title": "大立光電瞄準 CPO 多層堆疊，推出首條 FAU 試驗線",
-      "summary": "鏡頭製造商大立光電 (Largan Precision) 於 6 月 9 日召開股東大會，長期以來以簡潔的公開言論著稱的董事長 Adam Lin 顯得很輕鬆，並對行業、技術和大立光電自身的運營提出了異常詳細的看法。他的評論…",
-      "original_title": "Largan targets CPO multilayer stacking with first FAU pilot line",
-      "url": "https://www.digitimes.com/news/a20260609PD234/largan-precision-cpo-production.html",
+      "title": "台灣AI產業計畫以矽光子為新護城河",
+      "summary": "隨著人工智慧驅動的高速數據傳輸需求加速，台灣政府啟動了一項人工智慧基礎設施計劃，旨在透過利用矽光子（SiPh）形成新的護城河，進一步增強其半導體產業實力。",
+      "original_title": "Taiwan AI industry plan targets silicon photonics as new moat",
+      "url": "https://www.digitimes.com/news/a20260609PD215/taiwan-siph-government-silicon-photonics.html",
       "source": "Digitimes",
       "domain": "digitimes.com",
-      "published_at": "2026-06-10T01:26:31Z",
+      "published_at": "2026-06-10T01:30:00Z",
       "importance": 63,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -795,32 +833,32 @@
       "reason": "屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "9d00daffdf9fe203",
+      "id": "39c0bd82938949dd",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "Higher oil prices are making Russia richer — but not helping its economy grow, Goldman says",
-      "summary": "俄羅斯已成為最近伊朗戰爭期間全球石油市場混亂的少數贏家之一。",
-      "original_title": "Higher oil prices are making Russia richer — but not helping its economy grow, Goldman says",
-      "url": "https://www.businessinsider.com/russia-economy-oil-price-boom-gdp-growth-goldman-sachs-2026-6",
-      "source": "Business Insider",
-      "domain": "businessinsider.com",
-      "published_at": "2026-06-10T04:34:35Z",
-      "importance": 60,
-      "impact": "positive",
+      "theme": "光通訊與矽光子",
+      "title": "大立光電瞄準 CPO 多層堆疊，推出首條 FAU 試驗線",
+      "summary": "鏡頭製造商大立光電 (Largan Precision) 於 6 月 9 日召開股東大會，長期以來以簡潔的公開言論著稱的董事長 Adam Lin 顯得很輕鬆，並對行業、技術和大立光電自身的運營提出了異常詳細的看法。他的評論…",
+      "original_title": "Largan targets CPO multilayer stacking with first FAU pilot line",
+      "url": "https://www.digitimes.com/news/a20260609PD234/largan-precision-cpo-production.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-06-10T01:26:31Z",
+      "importance": 58,
+      "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
+        "光通訊",
+        "CPO",
+        "矽光子"
       ],
       "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
       ],
       "related_models": [
         "003",
@@ -830,7 +868,45 @@
         "009",
         "010"
       ],
-      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "d5e057c4519cbd1e",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "美國人工智慧新創公司 Tensordyne 聲稱 3nm Napier 晶片的每秒令牌性能比 NVIDIA Blackwell 快 13 倍",
+      "summary": "The TDN72 rack houses 288 Napier chips, delivers 608 petaflops of FP8 compute, and claims to match the throughput of nine NVIDIA Rubin plus Groq LPX racks.Continue reading at TweakTown",
+      "original_title": "US AI startup Tensordyne claims 3nm Napier chip outperforms NVIDIA Blackwell by 13x in tokens per second",
+      "url": "https://www.tweaktown.com/news/112214/us-ai-startup-tensordyne-claims-3nm-napier-chip-outperforms-nvidia-blackwell-by-13x-in-tokens-per-second/index.html",
+      "source": "TweakTown",
+      "domain": "tweaktown.com",
+      "published_at": "2026-06-16T05:15:04Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "118ac82db4d13a50",
@@ -955,44 +1031,6 @@
       "source": "SamMobile",
       "domain": "sammobile.com",
       "published_at": "2026-06-15T07:29:16Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "52fb7d79288d36b4",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "谷歌正在與三星洽談採用 1.4 奈米和 2 奈米製程生產下一代「Icefish」TPU",
-      "summary": "谷歌的 Icefish TPU 可能會由三星和台積電分割，採用 1.4nm 計算晶片和 2nm 內存 I/O，目標生產時間表為 2028 年。在 TweakTown 繼續閱讀",
-      "original_title": "Google is in talks with Samsung to build next-gen 'Icefish' TPU on 1.4nm and 2nm process split",
-      "url": "https://www.tweaktown.com/news/112184/google-is-in-talks-with-samsung-to-build-next-gen-icefish-tpu-on-1-4nm-and-2nm-process-split/index.html",
-      "source": "TweakTown",
-      "domain": "tweaktown.com",
-      "published_at": "2026-06-15T01:30:05Z",
       "importance": 55,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -1245,44 +1283,6 @@
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "b0e6b715a02616df",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Delos Data 為人工智慧晶片新創公司提供了實現機架規模的快速通道",
-      "summary": "建構 Nvidia NVL 或 AMD Helios 競爭對手的一半麻煩在於將網路開箱即用",
-      "original_title": "Delos Data offers AI chip startups a fast track to rack scale",
-      "url": "https://www.theregister.com/systems/2026/06/12/delos-data-offers-ai-chip-startups-a-fast-track-to-rack-scale/5254600",
-      "source": "Theregister.com",
-      "domain": "theregister.com",
-      "published_at": "2026-06-12T07:30:00Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "2ba9f797c6db2fa7",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1357,44 +1357,6 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "0ea647d9e495b02b",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "AMD 聲稱下一代 Zen 6 伺服器 CPU 的每機架效能將達到 Nvidia Vera 的 330%",
-      "summary": "AMD recently published performance projections claiming its upcoming server CPU platform will dramatically outpace Nvidia's latest showing. AMD's estimates directly reference earlier results from controlled benchmarks that had favored Nvidia's processor.Read …",
-      "original_title": "AMD claims next-gen Zen 6 server CPU will deliver 330% of Nvidia Vera's performance per rack",
-      "url": "https://www.techspot.com/news/112724-amd-claims-next-gen-zen-6-server-cpu.html",
-      "source": "TechSpot",
-      "domain": "techspot.com",
-      "published_at": "2026-06-11T04:08:00Z",
-      "importance": 55,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "f31888401f3b0a46",
@@ -1739,29 +1701,32 @@
       "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "c849267833394bfa",
+      "id": "9d00daffdf9fe203",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "South Korea’s booming stock market mints a generation of novice investors",
-      "summary": "韓國股市飆升，吸引了這個房地產長期佔據主導地位的國家的首次投資者。",
-      "original_title": "South Korea’s booming stock market mints a generation of novice investors",
-      "url": "https://www.aljazeera.com/economy/2026/6/10/south-koreas-booming-stock-market-mints-a-generation-of-novice-investors",
-      "source": "Al Jazeera English",
-      "domain": "aljazeera.com",
-      "published_at": "2026-06-10T01:54:26Z",
+      "theme": "總體風險",
+      "title": "Higher oil prices are making Russia richer — but not helping its economy grow, Goldman says",
+      "summary": "俄羅斯已成為最近伊朗戰爭期間全球石油市場混亂的少數贏家之一。",
+      "original_title": "Higher oil prices are making Russia richer — but not helping its economy grow, Goldman says",
+      "url": "https://www.businessinsider.com/russia-economy-oil-price-boom-gdp-growth-goldman-sachs-2026-6",
+      "source": "Business Insider",
+      "domain": "businessinsider.com",
+      "published_at": "2026-06-10T04:34:35Z",
       "importance": 55,
       "impact": "positive",
       "timeframe": "short_term",
       "tags": [
-        "HBM",
-        "記憶體"
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
       ],
       "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
       ],
       "related_models": [
         "003",
@@ -1771,7 +1736,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "0b3b7af532de0ad4",
@@ -2736,6 +2701,41 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "c849267833394bfa",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "South Korea’s booming stock market mints a generation of novice investors",
+      "summary": "韓國股市飆升，吸引了這個房地產長期佔據主導地位的國家的首次投資者。",
+      "original_title": "South Korea’s booming stock market mints a generation of novice investors",
+      "url": "https://www.aljazeera.com/economy/2026/6/10/south-koreas-booming-stock-market-mints-a-generation-of-novice-investors",
+      "source": "Al Jazeera English",
+      "domain": "aljazeera.com",
+      "published_at": "2026-06-10T01:54:26Z",
+      "importance": 50,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     }
   ]
 }

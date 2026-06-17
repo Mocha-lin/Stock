@@ -1,10 +1,10 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-17T00:17:05.846318+00:00
+> 更新時間：2026-06-17T06:01:39.216001+00:00
 
 ### 🚀 Chunghwa Leading Photonics targets SWIR testing demand in advanced packaging
-- **題材**: `半導體先進製程` | **重要性**: `88`
+- **題材**: `半導體先進製程` | **重要性**: `83`
 - **來源**: Digitimes (2026-06-14T01:43:19Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重大事件】可能顯著影響產業評價、EPS預期或資金流向。
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 中華電信旗下中華領先光電科技將在台北興櫃掛牌上市。受工業 5.0 應用需求不斷增長的推動，該公司在 2026 年前四個月的收入和毛利率創下歷史新高。
 - [原文連結](https://www.digitimes.com/news/a20260612PD223/demand-packaging-testing-inspection-revenue.html)
 
@@ -16,6 +16,15 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 台灣製造能力 台灣是世界上最重要的半導體製造中心。 2025年，其經濟成長8.68%，出口額約為...
 - [原文連結](https://247wallst.com/investing/2026/06/12/if-you-missed-the-korean-ai-etf-boom-there-are-the-2-taiwanese-options-with-direct-exposure-to-the-supply-chain/)
+
+---
+
+### ⚖️ TSMC reportedly teams with Ibiden, Innolux to push CoPoS, glass substrates
+- **題材**: `半導體先進製程` | **重要性**: `78`
+- **來源**: Digitimes (2026-06-16T04:35:11Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: TSMC is accelerating its advanced packaging roadmap for AI chips, expanding CoWoS capacity while publicly disclosing new progress in glass substrate technology. The company is also signaling that next-generation packaging competition is shifting from CoWoS to…
+- [原文連結](https://www.digitimes.com/news/a20260616PD217/tsmc-innolux-ibiden-packaging-cowos.html)
 
 ---
 
@@ -73,6 +82,15 @@
 
 ---
 
+### ⚖️ TSMC PLP timeline faces skepticism from Taiwan industry sources
+- **題材**: `半導體先進製程` | **重要性**: `68`
+- **來源**: Digitimes (2026-06-16T02:47:10Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 韓國媒體報告稱台積電準備最早在 2027 年大規模生產面板級封裝，這引起了台灣行業消息人士的懷疑，他們表示這個時間表可能為時過早，並且該公司仍將重點放在…
+- [原文連結](https://www.digitimes.com/news/a20260616VL205/tsmc-taiwan-packaging-production-foplp.html)
+
+---
+
 ### ⚖️ 據報導 SK Hynix 已為 Nvidia 準備好 HBM4E 樣品，三星領先
 - **題材**: `HBM記憶體` | **重要性**: `68`
 - **來源**: Digitimes (2026-06-15T21:54:54Z)
@@ -88,15 +106,6 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Nvidia 執行長 Jensen Huang 的多日韓國之行將三星電子、SK 海力士和 Nvidia 之間在高頻寬記憶體 (HBM) 上的「三角關係」置於聚光燈下，儘管他參觀了人工智慧工廠並在機器人和技術領域建立了合作夥伴關係。
 - [原文連結](https://www.digitimes.com/news/a20260610PD238/nvidia-samsung-hbm-ceo-sk-hynix.html)
-
----
-
-### ⚖️ 台灣AI產業計畫以矽光子為新護城河
-- **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-06-10T01:30:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 隨著人工智慧驅動的高速數據傳輸需求加速，台灣政府啟動了一項人工智慧基礎設施計劃，旨在透過利用矽光子（SiPh）形成新的護城河，進一步增強其半導體產業實力。
-- [原文連結](https://www.digitimes.com/news/a20260609PD215/taiwan-siph-government-silicon-photonics.html)
 
 ---
 
@@ -118,12 +127,12 @@
 
 ---
 
-### ⚖️ 大立光電瞄準 CPO 多層堆疊，推出首條 FAU 試驗線
+### ⚖️ 台灣AI產業計畫以矽光子為新護城河
 - **題材**: `光通訊與矽光子` | **重要性**: `63`
-- **來源**: Digitimes (2026-06-10T01:26:31Z)
+- **來源**: Digitimes (2026-06-10T01:30:00Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 鏡頭製造商大立光電 (Largan Precision) 於 6 月 9 日召開股東大會，長期以來以簡潔的公開言論著稱的董事長 Adam Lin 顯得很輕鬆，並對行業、技術和大立光電自身的運營提出了異常詳細的看法。他的評論…
-- [原文連結](https://www.digitimes.com/news/a20260609PD234/largan-precision-cpo-production.html)
+- **摘要**: 隨著人工智慧驅動的高速數據傳輸需求加速，台灣政府啟動了一項人工智慧基礎設施計劃，旨在透過利用矽光子（SiPh）形成新的護城河，進一步增強其半導體產業實力。
+- [原文連結](https://www.digitimes.com/news/a20260609PD215/taiwan-siph-government-silicon-photonics.html)
 
 ---
 
@@ -170,15 +179,6 @@
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 太陽時常會在所謂的日冕物質拋射中向地球拋射數十億噸帶電粒子，如果一個大粒子在錯誤的時刻撞擊地球，對衛星、電網和通訊系統的後果可能是災難性的…
 - [原文連結](https://www.universetoday.com/articles/the-smallest-window-on-the-sun)
-
----
-
-### 🚀 哪位億萬富翁表示他們本週學到了「重要的教訓」？測驗就知道
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: NPR (2026-06-12T09:02:00Z)
-- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 本週，尼克球迷在大敗之後迎來了一場大勝利；通貨膨脹的球迷很高興，世界盃的球迷則破產了。問答愛好者的表現如何？
-- [原文連結](https://www.npr.org/2026/06/12/g-s1-127424/trump-knicks-musk-world-cup-apple-news-quiz)
 
 ---
 
