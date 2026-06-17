@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-17T12:51:35.235609+00:00
+> 更新時間：2026-06-17T16:31:49.567132+00:00
 
 ### 🚀 Chunghwa Leading Photonics targets SWIR testing demand in advanced packaging
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -28,30 +28,12 @@
 
 ---
 
-### 🚀 AI伺服器追蹤：隨著機架供應商超越同行，台灣AI伺服器建構鏈不斷拓寬
-- **題材**: `AI伺服器` | **重要性**: `78`
-- **來源**: Digitimes (2026-06-12T04:43:25Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 台灣伺服器供應鏈持續受惠於人工智慧基礎設施，成長遍及連接器、電纜、機櫃、導軌和系統組裝。但步伐各不相同，因為有些公司只看到了適度的成長，而有些公司則與…聯繫更緊密。
-- [原文連結](https://www.digitimes.com/news/a20260611VL209/taiwan-ai-server-supply-chain-growth-demand.html)
-
----
-
 ### ⚖️ SPACEXAI 5 個資料中心位置 + 更多能源 + Rubin 晶片 = 300 美元 + 十億收入運行率
 - **題材**: `AI伺服器` | **重要性**: `75`
 - **來源**: Next Big Future (2026-06-15T00:23:15Z)
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: SPACEXAI 擁有五個資料中心位置。三個地面資料中心站點，第四個是特斯拉的分散式人工智慧資料中心，第五個是太空人工智慧資料中心。地面/陸地：3–5 GW這是中短期容量的大部分。核心彩色…
 - [原文連結](https://www.nextbigfuture.com/2026/06/spacexai-5-data-center-locations-more-energy-rubin-chips-300-billion-revenue-runrate.html)
-
----
-
-### 🚀 光學股乘著人工智慧熱潮，應用光電上漲 7%，Lumentum 上漲 5%，相干公司上漲 2%
-- **題材**: `光通訊與矽光子` | **重要性**: `75`
-- **來源**: 24/7 Wall St. (2026-06-10T15:08:45Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 光網路股票在周三午盤交易中受到追捧，隨著人工智慧基礎設施貿易的重新確立，該集團集體上漲...
-- [原文連結](https://247wallst.com/investing/2026/06/10/applied-optoelectronics-jumps-7-lumentum-climbs-5-coherent-rises-2-as-optics-stocks-ride-the-ai-boom/)
 
 ---
 
@@ -73,6 +55,15 @@
 
 ---
 
+### 🚀 光學股乘著人工智慧熱潮，應用光電上漲 7%，Lumentum 上漲 5%，相干公司上漲 2%
+- **題材**: `光通訊與矽光子` | **重要性**: `70`
+- **來源**: 24/7 Wall St. (2026-06-10T15:08:45Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 光網路股票在周三午盤交易中受到追捧，隨著人工智慧基礎設施貿易的重新確立，該集團集體上漲...
+- [原文連結](https://247wallst.com/investing/2026/06/10/applied-optoelectronics-jumps-7-lumentum-climbs-5-coherent-rises-2-as-optics-stocks-ride-the-ai-boom/)
+
+---
+
 ### ⚖️ TSMC PLP timeline faces skepticism from Taiwan industry sources
 - **題材**: `半導體先進製程` | **重要性**: `68`
 - **來源**: Digitimes (2026-06-16T02:47:10Z)
@@ -88,15 +79,6 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 隨著時機成為全球記憶體市場的關鍵競爭因素，SK 海力士距離向主要客戶交付第七代高頻寬記憶體 HBM4E 又近了一步。據Newsis報道，業內消息人士報道稱，SK海力士最近...
 - [原文連結](https://www.digitimes.com/news/a20260615PD216/sk-hynix-2026-shipments-shipping-samsung.html)
-
----
-
-### ⚖️ 據報道，谷歌預訂英特爾在 2028 年封裝超過 300 萬個 TPU——SK 海力士正在測試英特爾的 EMIB 封裝以實現 HBM 集成
-- **題材**: `半導體先進製程` | **重要性**: `67`
-- **來源**: Tom's Hardware UK (2026-06-10T15:49:41Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 經過數月測試英特爾的先進封裝後，Google已向英特爾下訂單，在 2028 年生產超過 300 萬個 TPU。
-- [原文連結](https://www.tomshardware.com/tech-industry/google-reportedly-books-intel-for-more-than-3-million-tpus-in-2028)
 
 ---
 
@@ -142,6 +124,24 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 台積電正在探索面板級封裝，並正在研究其 CoPoS 技術，但該公司的 Kevin 張表示，晶圓級封裝技術比面板級封裝先進得多。
 - [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/tsmc-says-panel-packaging-wont-replace-cowos-anytime-soon-for-the-largest-future-ai-processors-wafer-level-tech-can-scale-to-58-massive-dies-in-one-package)
+
+---
+
+### ⚖️ 據報道，谷歌預訂英特爾在 2028 年封裝超過 300 萬個 TPU——SK 海力士正在測試英特爾的 EMIB 封裝以實現 HBM 集成
+- **題材**: `半導體先進製程` | **重要性**: `62`
+- **來源**: Tom's Hardware UK (2026-06-10T15:49:41Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 經過數月測試英特爾的先進封裝後，Google已向英特爾下訂單，在 2028 年生產超過 300 萬個 TPU。
+- [原文連結](https://www.tomshardware.com/tech-industry/google-reportedly-books-intel-for-more-than-3-million-tpus-in-2028)
+
+---
+
+### 🚀 美光科技 (MU) 因高頻寬記憶體需求爆炸性成長
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-06-16T15:04:56Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 投資管理公司 Columbia Threadneedle Investments 發布了 2026 年第一季「哥倫比亞全球科技成長計畫」投資者信函
+- [原文連結](https://finance.yahoo.com/markets/stocks/articles/micron-technology-mu-skyrocketed-explosive-150456301.html)
 
 ---
 
