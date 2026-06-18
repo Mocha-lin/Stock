@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-06-18T12:27:05.910393+00:00",
+  "generated_at": "2026-06-18T16:20:05.132984+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 73,
@@ -494,32 +494,32 @@
       "reason": "屬「光通訊與矽光子」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "584c65ba9630fc00",
+      "id": "75ef2810801e19ed",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "最高法院不會審理關稅挑戰，為川普的新行動鋪路",
-      "summary": "企業認為，第一屆川普政府利用「漏洞」徵收超出國會預期的關稅。最高法院駁回了他們的上訴。",
-      "original_title": "Supreme Court won't hear tariff challenge, paving way for new Trump action",
-      "url": "https://www.usatoday.com/story/news/politics/2026/06/15/supreme-court-tariffs-trump/90488141007/",
-      "source": "USA Today",
-      "domain": "usatoday.com",
-      "published_at": "2026-06-15T13:33:26Z",
+      "theme": "光通訊與矽光子",
+      "title": "Aehr Test Systems 股價攀升新矽光子生產訂單",
+      "summary": "Aehr Test Systems（NASDAQ：AEHR）宣布從矽光子市場主要客戶那裡獲得了其 FOX-XP 晶圓級老化系統的後續生產訂單，股價上漲 11%。\n該訂單凸顯了對半導體的需求不斷增長...",
+      "original_title": "Aehr Test Systems Shares Climb on New Silicon Photonics Production Order",
+      "url": "https://biztoc.com/x/76d2c81384248b0b",
+      "source": "Biztoc.com",
+      "domain": "biztoc.com",
+      "published_at": "2026-06-17T13:39:37Z",
       "importance": 65,
-      "impact": "negative",
+      "impact": "positive",
       "timeframe": "short_term",
       "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
+        "光通訊",
+        "CPO",
+        "矽光子"
       ],
       "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
       ],
       "related_models": [
         "003",
@@ -529,7 +529,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "9472d159c38ee3e4",
@@ -579,6 +579,44 @@
       "domain": "tomshardware.com",
       "published_at": "2026-06-16T11:00:00Z",
       "importance": 62,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "8bbb226b3fc31b36",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "億萬富翁 Dan Loeb 的首選人工智慧股票：台積電 (TSM)",
+      "summary": "我們剛剛報道了億萬富翁 Dan Loeb 轉向人工智慧並出售舊經濟股票：他的 7 個人工智慧精選。台灣半導體（NYSE：TSM）排名第一（參見億萬富翁...",
+      "original_title": "Billionaire Dan Loeb’s Top AI Stock Pick: Taiwan Semiconductor (TSM)",
+      "url": "https://finance.yahoo.com/technology/ai/articles/billionaire-dan-loeb-top-ai-132655659.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-06-17T13:26:55Z",
+      "importance": 60,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -822,6 +860,44 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "584c65ba9630fc00",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "最高法院不會審理關稅挑戰，為川普的新行動鋪路",
+      "summary": "企業認為，第一屆川普政府利用「漏洞」徵收超出國會預期的關稅。最高法院駁回了他們的上訴。",
+      "original_title": "Supreme Court won't hear tariff challenge, paving way for new Trump action",
+      "url": "https://www.usatoday.com/story/news/politics/2026/06/15/supreme-court-tariffs-trump/90488141007/",
+      "source": "USA Today",
+      "domain": "usatoday.com",
+      "published_at": "2026-06-15T13:33:26Z",
+      "importance": 60,
+      "impact": "negative",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "9e2a5f3dd47ba514",
@@ -1432,44 +1508,6 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "118ac82db4d13a50",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "美國宣布伊朗協議後油價跌至3月以來最低水平",
-      "summary": "在美國官員宣布與伊朗達成協議後，油價週一跌至 3 月以來的最低點。",
-      "original_title": "Oil prices fall to lowest level since March after US announces Iran deal",
-      "url": "https://abcnews.com/Business/oil-prices-fall-lowest-level-march-after-us/story?id=133883673",
-      "source": "Abcnews.com",
-      "domain": "abcnews.com",
-      "published_at": "2026-06-15T15:02:26Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "35003864cd3d8226",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1584,6 +1622,44 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "118ac82db4d13a50",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "美國宣布伊朗協議後油價跌至3月以來最低水平",
+      "summary": "在美國官員宣布與伊朗達成協議後，油價週一跌至 3 月以來的最低點。",
+      "original_title": "Oil prices fall to lowest level since March after US announces Iran deal",
+      "url": "https://abcnews.com/Business/oil-prices-fall-lowest-level-march-after-us/story?id=133883673",
+      "source": "Abcnews.com",
+      "domain": "abcnews.com",
+      "published_at": "2026-06-15T15:02:26Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "7b1e2c4f363c701a",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1668,44 +1744,6 @@
       "source": "SamMobile",
       "domain": "sammobile.com",
       "published_at": "2026-06-15T07:29:16Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "52fb7d79288d36b4",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "谷歌正在與三星洽談採用 1.4 奈米和 2 奈米製程生產下一代「Icefish」TPU",
-      "summary": "谷歌的 Icefish TPU 可能會由三星和台積電分割，採用 1.4nm 計算晶片和 2nm 內存 I/O，目標生產時間表為 2028 年。在 TweakTown 繼續閱讀",
-      "original_title": "Google is in talks with Samsung to build next-gen 'Icefish' TPU on 1.4nm and 2nm process split",
-      "url": "https://www.tweaktown.com/news/112184/google-is-in-talks-with-samsung-to-build-next-gen-icefish-tpu-on-1-4nm-and-2nm-process-split/index.html",
-      "source": "TweakTown",
-      "domain": "tweaktown.com",
-      "published_at": "2026-06-15T01:30:05Z",
       "importance": 50,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -2177,44 +2215,6 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "fc5236c92ed993bd",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "為什麼大多數人工智慧程式停滯不前，以及如何擴展它們",
-      "summary": "人工智慧世界在一年內發生了許多變化。即使在 12 個月前，Gen AI 仍然不是全球主流",
-      "original_title": "Why most AI programs stall, and what it will take to scale them",
-      "url": "https://www.techradar.com/pro/why-most-ai-programs-stall-and-what-it-will-take-to-scale-them",
-      "source": "TechRadar",
-      "domain": "techradar.com",
-      "published_at": "2026-06-12T10:53:19Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "eb25a0b3305020e2",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2329,146 +2329,6 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "8752659fc65ba8d8",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "川普手機其實是兩年前智慧型手機的鍍金籠子",
-      "summary": "告訴我這是否讓您想起第 45 任美國總統。",
-      "original_title": "The Trump Phone Is Literally a Gilded Cage for a Two-Year-Old Smartphone",
-      "url": "https://gizmodo.com/the-trump-phone-is-literally-a-gilded-cage-for-another-older-smartphone-2000770565",
-      "source": "Gizmodo.com",
-      "domain": "gizmodo.com",
-      "published_at": "2026-06-11T15:00:56Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "94e26879ddcd7424",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "拆解顯示 Trump Mobile T1 確實是 2024 年推出的 HTC 手機",
-      "summary": "這款金色手機是 HTC 2024 年設計的輕微修改版本，在中國的工廠生產。",
-      "original_title": "The Trump Mobile T1 really is an HTC phone from 2024, teardown shows",
-      "url": "https://www.androidauthority.com/trump-phone-teardown-3676756/",
-      "source": "Android Authority",
-      "domain": "androidauthority.com",
-      "published_at": "2026-06-11T14:29:53Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "850839374d177a68",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "美光 (MU) 是一隻難以估值的股票，但分析師不斷提高 MU 股票的目標價",
-      "summary": "美光科技公司（納斯達克股票代碼：MU）被對沖基金評為最值得購買的 10 檔高頻寬記憶體 (HBM4) 價值鏈股票之一。 6 月 8 日，C.J. Mus...",
-      "original_title": "Micron (MU) Is A Hard Stock To Value, But Analysts Keep Raising The Price Targets On The MU Stock",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-mu-hard-stock-value-133217452.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-06-11T13:32:17Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "b8fee259f89811d0",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "Applied Materials (AMAT) Is One Of the Best High-Bandwidth Memory Stocks To Buy",
-      "summary": "應用材料公司（納斯達克股票代碼：AMAT）被對沖基金評為最值得購買的 10 隻高頻寬記憶體 (HBM4) 價值鏈股票之一。 6月4日，艾弗克...",
-      "original_title": "Applied Materials (AMAT) Is One Of the Best High-Bandwidth Memory Stocks To Buy",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/applied-materials-amat-one-best-133215709.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-06-11T13:32:15Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "5178815eb3842ca7",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2581,6 +2441,146 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "8752659fc65ba8d8",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "川普手機其實是兩年前智慧型手機的鍍金籠子",
+      "summary": "告訴我這是否讓您想起第 45 任美國總統。",
+      "original_title": "The Trump Phone Is Literally a Gilded Cage for a Two-Year-Old Smartphone",
+      "url": "https://gizmodo.com/the-trump-phone-is-literally-a-gilded-cage-for-another-older-smartphone-2000770565",
+      "source": "Gizmodo.com",
+      "domain": "gizmodo.com",
+      "published_at": "2026-06-11T15:00:56Z",
+      "importance": 45,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
+    },
+    {
+      "id": "94e26879ddcd7424",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "拆解顯示 Trump Mobile T1 確實是 2024 年推出的 HTC 手機",
+      "summary": "這款金色手機是 HTC 2024 年設計的輕微修改版本，在中國的工廠生產。",
+      "original_title": "The Trump Mobile T1 really is an HTC phone from 2024, teardown shows",
+      "url": "https://www.androidauthority.com/trump-phone-teardown-3676756/",
+      "source": "Android Authority",
+      "domain": "androidauthority.com",
+      "published_at": "2026-06-11T14:29:53Z",
+      "importance": 45,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
+    },
+    {
+      "id": "850839374d177a68",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "美光 (MU) 是一隻難以估值的股票，但分析師不斷提高 MU 股票的目標價",
+      "summary": "美光科技公司（納斯達克股票代碼：MU）被對沖基金評為最值得購買的 10 檔高頻寬記憶體 (HBM4) 價值鏈股票之一。 6 月 8 日，C.J. Mus...",
+      "original_title": "Micron (MU) Is A Hard Stock To Value, But Analysts Keep Raising The Price Targets On The MU Stock",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-mu-hard-stock-value-133217452.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-06-11T13:32:17Z",
+      "importance": 45,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
+    },
+    {
+      "id": "b8fee259f89811d0",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "Applied Materials (AMAT) Is One Of the Best High-Bandwidth Memory Stocks To Buy",
+      "summary": "應用材料公司（納斯達克股票代碼：AMAT）被對沖基金評為最值得購買的 10 隻高頻寬記憶體 (HBM4) 價值鏈股票之一。 6月4日，艾弗克...",
+      "original_title": "Applied Materials (AMAT) Is One Of the Best High-Bandwidth Memory Stocks To Buy",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/applied-materials-amat-one-best-133215709.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-06-11T13:32:15Z",
+      "importance": 45,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     },
     {
       "id": "cfcff77d4eeb4555",

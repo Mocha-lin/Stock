@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-18T12:27:05.910393+00:00
+> 更新時間：2026-06-18T16:20:05.132984+00:00
 
 ### 🚀 Chunghwa Leading Photonics targets SWIR testing demand in advanced packaging
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -118,12 +118,13 @@
 
 ---
 
-### ⚠️ 最高法院不會審理關稅挑戰，為川普的新行動鋪路
-- **題材**: `總體風險` | **重要性**: `65`
-- **來源**: USA Today (2026-06-15T13:33:26Z)
-- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 企業認為，第一屆川普政府利用「漏洞」徵收超出國會預期的關稅。最高法院駁回了他們的上訴。
-- [原文連結](https://www.usatoday.com/story/news/politics/2026/06/15/supreme-court-tariffs-trump/90488141007/)
+### 🚀 Aehr Test Systems 股價攀升新矽光子生產訂單
+- **題材**: `光通訊與矽光子` | **重要性**: `65`
+- **來源**: Biztoc.com (2026-06-17T13:39:37Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Aehr Test Systems（NASDAQ：AEHR）宣布從矽光子市場主要客戶那裡獲得了其 FOX-XP 晶圓級老化系統的後續生產訂單，股價上漲 11%。
+該訂單凸顯了對半導體的需求不斷增長...
+- [原文連結](https://biztoc.com/x/76d2c81384248b0b)
 
 ---
 
@@ -142,6 +143,15 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 台積電正在探索面板級封裝，並正在研究其 CoPoS 技術，但該公司的 Kevin 張表示，晶圓級封裝技術比面板級封裝先進得多。
 - [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/tsmc-says-panel-packaging-wont-replace-cowos-anytime-soon-for-the-largest-future-ai-processors-wafer-level-tech-can-scale-to-58-massive-dies-in-one-package)
+
+---
+
+### ⚖️ 億萬富翁 Dan Loeb 的首選人工智慧股票：台積電 (TSM)
+- **題材**: `半導體先進製程` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-06-17T13:26:55Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 我們剛剛報道了億萬富翁 Dan Loeb 轉向人工智慧並出售舊經濟股票：他的 7 個人工智慧精選。台灣半導體（NYSE：TSM）排名第一（參見億萬富翁...
+- [原文連結](https://finance.yahoo.com/technology/ai/articles/billionaire-dan-loeb-top-ai-132655659.html)
 
 ---
 
@@ -169,15 +179,6 @@
 - **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 分析師表示，即使美伊戰爭結束、油價下跌，座位供應緊張和需求強勁，航空公司也沒有動機削減票價。
 - [原文連結](https://www.businessinsider.com/flight-prices-stay-high-despite-us-peace-deal-iran-2026-6#article)
-
----
-
-### 🚀 美光科技 (MU) 因高頻寬記憶體需求爆炸性成長
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-06-16T15:04:56Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 投資管理公司 Columbia Threadneedle Investments 發布了 2026 年第一季「哥倫比亞全球科技成長計畫」投資者信函
-- [原文連結](https://finance.yahoo.com/markets/stocks/articles/micron-technology-mu-skyrocketed-explosive-150456301.html)
 
 ---
 
