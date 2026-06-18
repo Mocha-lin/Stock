@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-18T09:54:25.142593+00:00
+> 更新時間：2026-06-18T12:27:05.910393+00:00
 
 ### 🚀 Chunghwa Leading Photonics targets SWIR testing demand in advanced packaging
 - **題材**: `半導體先進製程` | **重要性**: `83`
