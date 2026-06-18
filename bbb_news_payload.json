@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-06-18T16:20:05.132984+00:00",
+  "generated_at": "2026-06-18T19:14:33.004300+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 73,
@@ -269,44 +269,6 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
-      "id": "ab9f478c5cc3cccd",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "Credo 年底能達到 300 美元嗎？",
-      "summary": "Credo Technology（納斯達克股票代碼：CRDO）已成為人工智慧基礎設施行業最具爆炸性的贏家之一，過去一年股價上漲 252.99%，年比上漲 80.28%。",
-      "original_title": "Can Credo Hit $300 By Year-End?",
-      "url": "https://247wallst.com/investing/2026/06/16/can-credo-hit-300-by-year-end/",
-      "source": "24/7 Wall St.",
-      "domain": "247wallst.com",
-      "published_at": "2026-06-16T15:12:05Z",
-      "importance": 70,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
       "id": "ee6dc359bdff4310",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -468,6 +430,82 @@
       "domain": "digitimes.com",
       "published_at": "2026-06-11T03:49:31Z",
       "importance": 68,
+      "impact": "negative",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "167883e9f9270fb2",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "在台積電苦苦應對需求之際，三星晶圓代工廠卻蓬勃發展——英偉達、特斯拉和高通成為新客戶",
+      "summary": "根據《日經亞洲》報道，三星代工廠已收到Google、英偉達、特斯拉、AMD 和比亞迪的訂單或正在與他們進行談判，以製造基於 5nm 以下節點的先進半導體晶片。其中一些公司以前曾經工作過…",
+      "original_title": "Samsung's foundry is booming as TSMC struggles with demand – bags Nvidia, Tesla, and Qualcomm as new clients",
+      "url": "https://www.techspot.com/news/112800-samsung-foundry-booming-tsmc-struggles-demand-bags-nvidia.html",
+      "source": "TechSpot",
+      "domain": "techspot.com",
+      "published_at": "2026-06-17T18:23:00Z",
+      "importance": 65,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "fb67c3ea9cb77da9",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "Nvidia 支援的光學供應商將晶圓產量提高 4 倍以滿足人工智慧互連需求",
+      "summary": "Jensen 不能冒半導體供應鏈破壞人工智慧炒作列車的風險",
+      "original_title": "Nvidia-backed optics vendor to boost wafer output by 4x to meet AI interconnect demand",
+      "url": "https://www.theregister.com/networks/2026/06/17/nvidia-backed-optics-vendor-to-boost-wafer-output-by-4x-to-meet-ai-interconnect-demand/5257909",
+      "source": "Theregister.com",
+      "domain": "theregister.com",
+      "published_at": "2026-06-17T18:12:38Z",
+      "importance": 65,
       "impact": "negative",
       "timeframe": "short_term",
       "tags": [
@@ -803,41 +841,6 @@
       "source": "24/7 Wall St.",
       "domain": "247wallst.com",
       "published_at": "2026-06-16T13:37:20Z",
-      "importance": 60,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "1fc888d549feb31d",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "為什麼韓國人如此熱愛人工智慧？",
-      "summary": "這個故事最初出現在我們關於人工智慧的每週通訊《演算法》中。若要先在您的收件匣中收到此類報道，請在此註冊。當我從舊金山經過 12 個小時的艱苦飛行抵達首爾時，我走過了一個無人值守的出入境檢查…",
-      "original_title": "Why do South Koreans love AI so much?",
-      "url": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
-      "source": "MIT Technology Review",
-      "domain": "technologyreview.com",
-      "published_at": "2026-06-15T18:46:08Z",
       "importance": 60,
       "impact": "positive",
       "timeframe": "short_term",
@@ -1508,6 +1511,41 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "1fc888d549feb31d",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "為什麼韓國人如此熱愛人工智慧？",
+      "summary": "這個故事最初出現在我們關於人工智慧的每週通訊《演算法》中。若要先在您的收件匣中收到此類報道，請在此註冊。當我從舊金山經過 12 個小時的艱苦飛行抵達首爾時，我走過了一個無人值守的出入境檢查…",
+      "original_title": "Why do South Koreans love AI so much?",
+      "url": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
+      "source": "MIT Technology Review",
+      "domain": "technologyreview.com",
+      "published_at": "2026-06-15T18:46:08Z",
+      "importance": 55,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "35003864cd3d8226",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1731,44 +1769,6 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "662194cab41a6f76",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "新 Galaxy Z Flip 8 洩漏揭示 Exynos 和 Snapdragon 市場分裂",
-      "summary": "從第一代 Galaxy Z Flip 到 Galaxy Z Flip 6，三星在該系列的所有型號中都使用了高通 Snapdragon 晶片組。 Galaxy Z Flip 7 改變了這種情況，它成為該系列中第一款配備非高通處理器的裝置。它你…",
-      "original_title": "New Galaxy Z Flip 8 leak reveals Exynos and Snapdragon market split",
-      "url": "https://www.sammobile.com/news/galaxy-z-flip-8-leak-reveals-exynos-snapdragon-market-split/",
-      "source": "SamMobile",
-      "domain": "sammobile.com",
-      "published_at": "2026-06-15T07:29:16Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "2d6744af483fad40",

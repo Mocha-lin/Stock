@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-18T16:20:05.132984+00:00
+> 更新時間：2026-06-18T19:14:33.004300+00:00
 
 ### 🚀 Chunghwa Leading Photonics targets SWIR testing demand in advanced packaging
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -64,15 +64,6 @@
 
 ---
 
-### 🚀 Credo 年底能達到 300 美元嗎？
-- **題材**: `光通訊與矽光子` | **重要性**: `70`
-- **來源**: 24/7 Wall St. (2026-06-16T15:12:05Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Credo Technology（納斯達克股票代碼：CRDO）已成為人工智慧基礎設施行業最具爆炸性的贏家之一，過去一年股價上漲 252.99%，年比上漲 80.28%。
-- [原文連結](https://247wallst.com/investing/2026/06/16/can-credo-hit-300-by-year-end/)
-
----
-
 ### ⚖️ SPACEXAI 5 個資料中心位置 + 更多能源 + Rubin 晶片 = 300 美元 + 十億收入運行率
 - **題材**: `AI伺服器` | **重要性**: `70`
 - **來源**: Next Big Future (2026-06-15T00:23:15Z)
@@ -115,6 +106,24 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Concerns have emerged in recent weeks that the commercialization of co-packaged optics (CPO), a technology widely viewed as the future of AI networking, could face further delays as manufacturing yields remain inconsistent.
 - [原文連結](https://www.digitimes.com/news/a20260611PD219/cpo-demand-optics-technology-switch.html)
+
+---
+
+### ⚖️ 在台積電苦苦應對需求之際，三星晶圓代工廠卻蓬勃發展——英偉達、特斯拉和高通成為新客戶
+- **題材**: `半導體先進製程` | **重要性**: `65`
+- **來源**: TechSpot (2026-06-17T18:23:00Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 根據《日經亞洲》報道，三星代工廠已收到Google、英偉達、特斯拉、AMD 和比亞迪的訂單或正在與他們進行談判，以製造基於 5nm 以下節點的先進半導體晶片。其中一些公司以前曾經工作過…
+- [原文連結](https://www.techspot.com/news/112800-samsung-foundry-booming-tsmc-struggles-demand-bags-nvidia.html)
+
+---
+
+### ⚠️ Nvidia 支援的光學供應商將晶圓產量提高 4 倍以滿足人工智慧互連需求
+- **題材**: `光通訊與矽光子` | **重要性**: `65`
+- **來源**: Theregister.com (2026-06-17T18:12:38Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Jensen 不能冒半導體供應鏈破壞人工智慧炒作列車的風險
+- [原文連結](https://www.theregister.com/networks/2026/06/17/nvidia-backed-optics-vendor-to-boost-wafer-output-by-4x-to-meet-ai-interconnect-demand/5257909)
 
 ---
 
@@ -170,15 +179,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 英偉達週二透露，計劃在德州建立一家新的晶片工廠。
 - [原文連結](https://dailycaller.com/2026/06/16/nvidia-manufacturing-us-ai/)
-
----
-
-### 🚀 分析家稱，伊朗和平協議不會很快降低機票價格
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Business Insider (2026-06-16T20:01:44Z)
-- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 分析師表示，即使美伊戰爭結束、油價下跌，座位供應緊張和需求強勁，航空公司也沒有動機削減票價。
-- [原文連結](https://www.businessinsider.com/flight-prices-stay-high-despite-us-peace-deal-iran-2026-6#article)
 
 ---
 
