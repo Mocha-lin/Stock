@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-18T05:28:59.064433+00:00
+> 更新時間：2026-06-18T09:54:25.142593+00:00
 
 ### 🚀 Chunghwa Leading Photonics targets SWIR testing demand in advanced packaging
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -28,15 +28,6 @@
 
 ---
 
-### ⚖️ 韓國晶片設備廠商乘勢HBM4浪潮
-- **題材**: `HBM記憶體` | **重要性**: `78`
-- **來源**: Digitimes (2026-06-15T07:03:04Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 隨著三星電子和 SK 海力士加速對先進 DRAM 和高頻寬記憶體 (HBM4) 的投資，韓國半導體設備供應鏈的材料訂單在 2026 年上半年有所回升，產生了前端工具的需求…
-- [原文連結](https://www.digitimes.com/news/a20260615PD206/equipment-2026-hbm4-capex-revenue.html)
-
----
-
 ### 🚀 AI伺服器追蹤：隨著機架供應商超越同行，台灣AI伺服器建構鏈不斷拓寬
 - **題材**: `AI伺服器` | **重要性**: `78`
 - **來源**: Digitimes (2026-06-12T04:43:25Z)
@@ -61,6 +52,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 卓越電鍍科技董事長華雷傑表示，該公司正在將更多資源轉移到人工智慧液冷、CPO通訊模組和人工智慧資料中心的近線硬碟上，同時擴大在泰國的生產，並在…
 - [原文連結](https://www.digitimes.com/news/a20260616PD230/liquid-cooling-cpo-production-chairman-gold.html)
+
+---
+
+### ⚖️ 韓國晶片設備廠商乘勢HBM4浪潮
+- **題材**: `HBM記憶體` | **重要性**: `73`
+- **來源**: Digitimes (2026-06-15T07:03:04Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 隨著三星電子和 SK 海力士加速對先進 DRAM 和高頻寬記憶體 (HBM4) 的投資，韓國半導體設備供應鏈的材料訂單在 2026 年上半年有所回升，產生了前端工具的需求…
+- [原文連結](https://www.digitimes.com/news/a20260615PD206/equipment-2026-hbm4-capex-revenue.html)
 
 ---
 
@@ -127,12 +127,30 @@
 
 ---
 
+### ⚖️ 中國記憶體品牌放棄三星和美光，轉而採用國產長芯儲存和長江儲存晶片——海盜船、惠普和戴爾已經採用中國生產的 DDR5 晶片
+- **題材**: `HBM記憶體` | **重要性**: `62`
+- **來源**: Tom's Hardware UK (2026-06-17T09:30:00Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 中國記憶體品牌光威和金百達已開始使用國產晶片生產 DDR5 記憶體套件，以取代三星、美光或 SK 海力士 DRAM。
+- [原文連結](https://www.tomshardware.com/pc-components/ram/chinese-memory-vendors-snub-industry-giants-in-favor-of-homegrown-ram-chips-samsung-micron-and-sk-hynix-face-a-chinese-supply-chain-revolt)
+
+---
+
 ### ⚖️ 台積電錶示，對於未來最大的人工智慧處理器來說，面板封裝不會很快取代 CoWoS——晶圓級技術可以在一個封裝中擴展到 58 個大型晶片
 - **題材**: `半導體先進製程` | **重要性**: `62`
 - **來源**: Tom's Hardware UK (2026-06-16T11:00:00Z)
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 台積電正在探索面板級封裝，並正在研究其 CoPoS 技術，但該公司的 Kevin 張表示，晶圓級封裝技術比面板級封裝先進得多。
 - [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/tsmc-says-panel-packaging-wont-replace-cowos-anytime-soon-for-the-largest-future-ai-processors-wafer-level-tech-can-scale-to-58-massive-dies-in-one-package)
+
+---
+
+### ⚖️ AMD、Google和英偉達可能會使用三星製造的部分晶片
+- **題材**: `半導體先進製程` | **重要性**: `60`
+- **來源**: SamMobile (2026-06-17T06:14:14Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 三星是全球少數能夠在先進製程節點（5nm及以下）製造半導體晶片的公司之一。由於全球晶片製造能力仍然受到限制，包括 AMD、Google和 Nvidia 在內的多家公司都報告指出…
+- [原文連結](https://www.sammobile.com/news/amd-google-byd-nvidia-chips-made-samsung-future/)
 
 ---
 
@@ -160,24 +178,6 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 投資管理公司 Columbia Threadneedle Investments 發布了 2026 年第一季「哥倫比亞全球科技成長計畫」投資者信函
 - [原文連結](https://finance.yahoo.com/markets/stocks/articles/micron-technology-mu-skyrocketed-explosive-150456301.html)
-
----
-
-### 🚀 今年迄今上漲 770%，美光還能漲多高？
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: 24/7 Wall St. (2026-06-16T13:37:20Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 很少有股票能像美光科技（納斯達克股票代碼：MU）一樣在 2026 年改寫自己的故事。 6 月 15 日，該股收在 1,087.99 美元，年初至今上漲 281%，...
-- [原文連結](https://247wallst.com/investing/2026/06/16/up-770-ytd-how-high-can-micron-go/)
-
----
-
-### 🚀 為什麼韓國人如此熱愛人工智慧？
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: MIT Technology Review (2026-06-15T18:46:08Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 這個故事最初出現在我們關於人工智慧的每週通訊《演算法》中。若要先在您的收件匣中收到此類報道，請在此註冊。當我從舊金山經過 12 個小時的艱苦飛行抵達首爾時，我走過了一個無人值守的出入境檢查…
-- [原文連結](https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/)
 
 ---
 
