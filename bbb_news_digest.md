@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-18T00:17:45.631341+00:00
+> 更新時間：2026-06-18T05:28:59.064433+00:00
 
 ### 🚀 Chunghwa Leading Photonics targets SWIR testing demand in advanced packaging
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -46,21 +46,21 @@
 
 ---
 
-### ⚖️ SPACEXAI 5 個資料中心位置 + 更多能源 + Rubin 晶片 = 300 美元 + 十億收入運行率
+### 🚀 與 Nvidia 簽訂六年協議後，SharonAI 股價飆升。 SHAZ 股票需要更多才能成為長期買入的股票。
 - **題材**: `AI伺服器` | **重要性**: `75`
-- **來源**: Next Big Future (2026-06-15T00:23:15Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: SPACEXAI 擁有五個資料中心位置。三個地面資料中心站點，第四個是特斯拉的分散式人工智慧資料中心，第五個是太空人工智慧資料中心。地面/陸地：3–5 GW這是中短期容量的大部分。核心彩色…
-- [原文連結](https://www.nextbigfuture.com/2026/06/spacexai-5-data-center-locations-more-energy-rubin-chips-300-billion-revenue-runrate.html)
+- **來源**: Barchart.com (2026-06-16T18:36:42Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: SharonAI Holdings 與 Nvidia 簽訂了為期六年的計算協議，將建造 72 MW 的新資料中心容量，並將規模擴展到 40,000 個 Grace Blackwell GB300 GP...
+- [原文連結](https://www.barchart.com/story/news/2500567/sharonai-shares-surged-after-securing-a-six-year-agreement-with-nvidia-shaz-stock-needs-a-lot-more-to-become-a-long-term-buy)
 
 ---
 
-### ⚠️ CPO 的延遲可能會改變人工智慧網路需求，而不是使其脫軌
+### ⚖️ 卓越電鍍技術轉向AI液冷和CPO
 - **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-06-11T03:49:31Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Concerns have emerged in recent weeks that the commercialization of co-packaged optics (CPO), a technology widely viewed as the future of AI networking, could face further delays as manufacturing yields remain inconsistent.
-- [原文連結](https://www.digitimes.com/news/a20260611PD219/cpo-demand-optics-technology-switch.html)
+- **來源**: Digitimes (2026-06-17T01:30:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 卓越電鍍科技董事長華雷傑表示，該公司正在將更多資源轉移到人工智慧液冷、CPO通訊模組和人工智慧資料中心的近線硬碟上，同時擴大在泰國的生產，並在…
+- [原文連結](https://www.digitimes.com/news/a20260616PD230/liquid-cooling-cpo-production-chairman-gold.html)
 
 ---
 
@@ -70,6 +70,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Credo Technology（納斯達克股票代碼：CRDO）已成為人工智慧基礎設施行業最具爆炸性的贏家之一，過去一年股價上漲 252.99%，年比上漲 80.28%。
 - [原文連結](https://247wallst.com/investing/2026/06/16/can-credo-hit-300-by-year-end/)
+
+---
+
+### ⚖️ SPACEXAI 5 個資料中心位置 + 更多能源 + Rubin 晶片 = 300 美元 + 十億收入運行率
+- **題材**: `AI伺服器` | **重要性**: `70`
+- **來源**: Next Big Future (2026-06-15T00:23:15Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: SPACEXAI 擁有五個資料中心位置。三個地面資料中心站點，第四個是特斯拉的分散式人工智慧資料中心，第五個是太空人工智慧資料中心。地面/陸地：3–5 GW這是中短期容量的大部分。核心彩色…
+- [原文連結](https://www.nextbigfuture.com/2026/06/spacexai-5-data-center-locations-more-energy-rubin-chips-300-billion-revenue-runrate.html)
 
 ---
 
@@ -97,6 +106,15 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 隨著時機成為全球記憶體市場的關鍵競爭因素，SK 海力士距離向主要客戶交付第七代高頻寬記憶體 HBM4E 又近了一步。據Newsis報道，業內消息人士報道稱，SK海力士最近...
 - [原文連結](https://www.digitimes.com/news/a20260615PD216/sk-hynix-2026-shipments-shipping-samsung.html)
+
+---
+
+### ⚠️ CPO 的延遲可能會改變人工智慧網路需求，而不是使其脫軌
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-06-11T03:49:31Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Concerns have emerged in recent weeks that the commercialization of co-packaged optics (CPO), a technology widely viewed as the future of AI networking, could face further delays as manufacturing yields remain inconsistent.
+- [原文連結](https://www.digitimes.com/news/a20260611PD219/cpo-demand-optics-technology-switch.html)
 
 ---
 
@@ -136,15 +154,6 @@
 
 ---
 
-### 🚀 2015 保時捷卡宴 S 無保留
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: Bringatrailer.com (2026-06-16T19:00:36Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 這輛加拿大市場的 2015 年保時捷卡宴 S 於 2024 年 9 月投入使用，售價超過 13,000 加元，隨後賣家於次月將其作為保時捷批准認證的二手車購買。工作包括修復冷卻液洩漏和更換窗戶…
-- [原文連結](https://bringatrailer.com/listing/2015-porsche-cayenne-s-17/)
-
----
-
 ### 🚀 美光科技 (MU) 因高頻寬記憶體需求爆炸性成長
 - **題材**: `HBM記憶體` | **重要性**: `60`
 - **來源**: Yahoo Entertainment (2026-06-16T15:04:56Z)
@@ -169,15 +178,6 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 這個故事最初出現在我們關於人工智慧的每週通訊《演算法》中。若要先在您的收件匣中收到此類報道，請在此註冊。當我從舊金山經過 12 個小時的艱苦飛行抵達首爾時，我走過了一個無人值守的出入境檢查…
 - [原文連結](https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/)
-
----
-
-### ⚖️ SK海力士將375層NAND投入量產，以鉬取代鎢
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: TechSpot (2026-06-15T10:23:00Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 根據 The Elec 採訪的消息人士透露，量產將在現有晶圓廠進行，目前生產 321 層 V9 NAND。在公司內部，375 層設計被稱為「400 層」產品。閱讀整篇文章
-- [原文連結](https://www.techspot.com/news/112760-sk-hynix-moves-375-layer-nand-mass-production.html)
 
 ---
 
