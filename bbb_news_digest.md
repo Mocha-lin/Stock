@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-19T15:54:36.633009+00:00
+> 更新時間：2026-06-19T18:26:57.898843+00:00
 
 ### 🚀 獨家：華邦NOR快閃記憶體據報進入Nvidia供應鏈
 - **題材**: `AI伺服器` | **重要性**: `88`
@@ -92,15 +92,6 @@ The post Tower Semiconductor ships 5 million coherent photonic circuits to Marve
 
 ---
 
-### 🚀 Nvidia vs AMD：今年 6 月更值得買進更好的 AI 股票
-- **題材**: `AI伺服器` | **重要性**: `70`
-- **來源**: 24/7 Wall St. (2026-06-12T16:53:02Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: NVIDIA（納斯達克股票代碼：NVDA）和 AMD（納斯達克股票代碼：AMD）都在 5 月公佈了財報，這一對比說明了當今人工智慧硬體市場的一切。 NVIDIA 發布了 $...
-- [原文連結](https://247wallst.com/investing/2026/06/12/nvidia-vs-amd-the-better-ai-stock-is-a-better-buy-this-june/)
-
----
-
 ### ⚖️ SK海力士運送HBM4E樣品
 - **題材**: `HBM記憶體` | **重要性**: `68`
 - **來源**: Digitimes (2026-06-18T01:06:38Z)
@@ -116,15 +107,6 @@ The post Tower Semiconductor ships 5 million coherent photonic circuits to Marve
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: SK 海力士在新員工的常規招聘流程中取消了學歷要求，這家儲存晶片巨頭尋求加強其在高頻寬記憶體 (HBM) 領域的領先地位，並為快速變化的人工智慧半導體市場確保人才。行業 …
 - [原文連結](https://www.digitimes.com/news/a20260617PD227/sk-hynix-talent-hbm-market-competitiveness.html)
-
----
-
-### 🚀 Iran peace not stopping central banks from raising borrowing costs
-- **題材**: `總體風險` | **重要性**: `65`
-- **來源**: Yahoo Entertainment (2026-06-18T11:38:00Z)
-- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 作者：Balazs Koranyi 和 Leika Kihara 法蘭克福/東京，6 月 18 日（路透社）
-- [原文連結](https://finance.yahoo.com/economy/policy/articles/iran-peace-not-stopping-central-113800964.html)
 
 ---
 
@@ -156,6 +138,15 @@ The post Tower Semiconductor ships 5 million coherent photonic circuits to Marve
 
 ---
 
+### 🚀 Nvidia vs AMD：今年 6 月更值得買進更好的 AI 股票
+- **題材**: `AI伺服器` | **重要性**: `65`
+- **來源**: 24/7 Wall St. (2026-06-12T16:53:02Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: NVIDIA（納斯達克股票代碼：NVDA）和 AMD（納斯達克股票代碼：AMD）都在 5 月公佈了財報，這一對比說明了當今人工智慧硬體市場的一切。 NVIDIA 發布了 $...
+- [原文連結](https://247wallst.com/investing/2026/06/12/nvidia-vs-amd-the-better-ai-stock-is-a-better-buy-this-june/)
+
+---
+
 ### ⚖️ 據報導 SK Hynix 已為 Nvidia 準備好 HBM4E 樣品，三星領先
 - **題材**: `HBM記憶體` | **重要性**: `63`
 - **來源**: Digitimes (2026-06-15T21:54:54Z)
@@ -171,6 +162,16 @@ The post Tower Semiconductor ships 5 million coherent photonic circuits to Marve
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 中國記憶體品牌光威和金百達已開始使用國產晶片生產 DDR5 記憶體套件，以取代三星、美光或 SK 海力士 DRAM。
 - [原文連結](https://www.tomshardware.com/pc-components/ram/chinese-memory-vendors-snub-industry-giants-in-favor-of-homegrown-ram-chips-samsung-micron-and-sk-hynix-face-a-chinese-supply-chain-revolt)
+
+---
+
+### 🚀 「不可避免」：隨著人工智慧記憶體晶片危機惡化，蘋果計畫漲價
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: Breitbart News (2026-06-18T17:36:16Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 蘋果執行長庫克在接受獨家採訪時宣布，由於人工智慧需求推動記憶體和儲存晶片成本空前上漲，這家科技巨頭將提高其產品價格。
+貼文「不可避免」：蘋果計畫漲價…
+- [原文連結](https://www.breitbart.com/tech/2026/06/18/unavoidable-apple-plans-price-increases-as-the-ai-memory-chip-crisis-worsens/)
 
 ---
 
