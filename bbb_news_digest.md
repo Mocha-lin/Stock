@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-19T12:47:01.804546+00:00
+> 更新時間：2026-06-19T15:54:36.633009+00:00
 
 ### 🚀 獨家：華邦NOR快閃記憶體據報進入Nvidia供應鏈
 - **題材**: `AI伺服器` | **重要性**: `88`
@@ -28,21 +28,21 @@
 
 ---
 
-### 🚀 如果您錯過了韓國 AI ETF 的繁榮，有 2 個直接接觸供應鏈的台灣選擇
-- **題材**: `半導體先進製程` | **重要性**: `80`
-- **來源**: 24/7 Wall St. (2026-06-12T15:11:51Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 台灣製造能力 台灣是世界上最重要的半導體製造中心。 2025年，其經濟成長8.68%，出口額約為...
-- [原文連結](https://247wallst.com/investing/2026/06/12/if-you-missed-the-korean-ai-etf-boom-there-are-the-2-taiwanese-options-with-direct-exposure-to-the-supply-chain/)
-
----
-
 ### 🚀 與 Nvidia 簽訂六年協議後，SharonAI 股價飆升。 SHAZ 股票需要更多才能成為長期買入的股票。
 - **題材**: `AI伺服器` | **重要性**: `75`
 - **來源**: Barchart.com (2026-06-16T18:36:42Z)
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: SharonAI Holdings 與 Nvidia 簽訂了為期六年的計算協議，將建造 72 MW 的新資料中心容量，並將規模擴展到 40,000 個 Grace Blackwell GB300 GP...
 - [原文連結](https://www.barchart.com/story/news/2500567/sharonai-shares-surged-after-securing-a-six-year-agreement-with-nvidia-shaz-stock-needs-a-lot-more-to-become-a-long-term-buy)
+
+---
+
+### 🚀 如果您錯過了韓國 AI ETF 的繁榮，有 2 個直接接觸供應鏈的台灣選擇
+- **題材**: `半導體先進製程` | **重要性**: `75`
+- **來源**: 24/7 Wall St. (2026-06-12T15:11:51Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 台灣製造能力 台灣是世界上最重要的半導體製造中心。 2025年，其經濟成長8.68%，出口額約為...
+- [原文連結](https://247wallst.com/investing/2026/06/12/if-you-missed-the-korean-ai-etf-boom-there-are-the-2-taiwanese-options-with-direct-exposure-to-the-supply-chain/)
 
 ---
 
