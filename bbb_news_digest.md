@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-19T18:26:57.898843+00:00
+> 更新時間：2026-06-19T20:22:41.550093+00:00
 
 ### 🚀 獨家：華邦NOR快閃記憶體據報進入Nvidia供應鏈
 - **題材**: `AI伺服器` | **重要性**: `88`
@@ -25,15 +25,6 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 中華電信旗下中華領先光電科技將在台北興櫃掛牌上市。受工業 5.0 應用需求不斷增長的推動，該公司在 2026 年前四個月的收入和毛利率創下歷史新高。
 - [原文連結](https://www.digitimes.com/news/a20260612PD223/demand-packaging-testing-inspection-revenue.html)
-
----
-
-### 🚀 與 Nvidia 簽訂六年協議後，SharonAI 股價飆升。 SHAZ 股票需要更多才能成為長期買入的股票。
-- **題材**: `AI伺服器` | **重要性**: `75`
-- **來源**: Barchart.com (2026-06-16T18:36:42Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: SharonAI Holdings 與 Nvidia 簽訂了為期六年的計算協議，將建造 72 MW 的新資料中心容量，並將規模擴展到 40,000 個 Grace Blackwell GB300 GP...
-- [原文連結](https://www.barchart.com/story/news/2500567/sharonai-shares-surged-after-securing-a-six-year-agreement-with-nvidia-shaz-stock-needs-a-lot-more-to-become-a-long-term-buy)
 
 ---
 
@@ -80,6 +71,15 @@ The post Tower Semiconductor ships 5 million coherent photonic circuits to Marve
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 如果 SPACEX 跟隨美光的收入和利潤激增，那麼它的估值就會被低估。 SPACEX 距離將其人工智慧收入從 4 月的每年 10 億美元提高到 2026 年 10 月的每年 330 億美元還有 4 個月的時間。吉瓦乘以每吉瓦數十億 = 每…收入
 - [原文連結](https://www.nextbigfuture.com/2026/06/how-spacex-matches-the-micron-setup-for-a-fast-10x-to-2000-revenue-multipliers-for-next-levels-for-spacex.html)
+
+---
+
+### 🚀 與 Nvidia 簽訂六年協議後，SharonAI 股價飆升。 SHAZ 股票需要更多才能成為長期買入的股票。
+- **題材**: `AI伺服器` | **重要性**: `70`
+- **來源**: Barchart.com (2026-06-16T18:36:42Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: SharonAI Holdings 與 Nvidia 簽訂了為期六年的計算協議，將建造 72 MW 的新資料中心容量，並將規模擴展到 40,000 個 Grace Blackwell GB300 GP...
+- [原文連結](https://www.barchart.com/story/news/2500567/sharonai-shares-surged-after-securing-a-six-year-agreement-with-nvidia-shaz-stock-needs-a-lot-more-to-become-a-long-term-buy)
 
 ---
 
