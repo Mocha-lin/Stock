@@ -1,5 +1,14 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-18T19:14:33.004300+00:00
+> 更新時間：2026-06-19T00:27:35.621999+00:00
+
+### 🚀 專訪：MicroLED與SiPh eye 3.2T AI數據競賽
+- **題材**: `光通訊與矽光子` | **重要性**: `83`
+- **來源**: Digitimes (2026-06-17T23:49:17Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: AI浪潮正快速重塑全球半導體供應鏈，這場變革也為台灣LED產業開啟新的成長篇章。隨著台灣LED廠商逐漸擺脫消費市場的價格戰，英偉達力推AI傳輸升級…
+- [原文連結](https://www.digitimes.com/news/a20260617PD211/microled-siph-cpo-optical-communications-supply-chain-taiwan.html)
+
+---
 
 ### 🚀 Chunghwa Leading Photonics targets SWIR testing demand in advanced packaging
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -64,6 +73,26 @@
 
 ---
 
+### 🚀 為什麼 Aehr Test Systems 股票週三飆漲？
+- **題材**: `光通訊與矽光子` | **重要性**: `70`
+- **來源**: Biztoc.com (2026-06-17T16:56:13Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Aehr Test Systems Inc.（NASDAQ：AEHR）股價週三上漲約 11%，此前該公司宣布了一項後續生產訂單，該訂單與超大規模人工智慧資料中心使用的矽光子需求不斷增長有關。
+人工智慧資料中心需求推動後續訂單
+啊…
+- [原文連結](https://biztoc.com/x/5fe2e1306a7f49ab)
+
+---
+
+### 🚀 Credo 年底能達到 300 美元嗎？
+- **題材**: `光通訊與矽光子` | **重要性**: `70`
+- **來源**: 24/7 Wall St. (2026-06-16T15:12:05Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Credo Technology（納斯達克股票代碼：CRDO）已成為人工智慧基礎設施行業最具爆炸性的贏家之一，過去一年股價上漲 252.99%，年比上漲 80.28%。
+- [原文連結](https://247wallst.com/investing/2026/06/16/can-credo-hit-300-by-year-end/)
+
+---
+
 ### ⚖️ SPACEXAI 5 個資料中心位置 + 更多能源 + Rubin 晶片 = 300 美元 + 十億收入運行率
 - **題材**: `AI伺服器` | **重要性**: `70`
 - **來源**: Next Big Future (2026-06-15T00:23:15Z)
@@ -82,30 +111,21 @@
 
 ---
 
+### ⚖️ SK 海力士廢除學位規則以吸引人工智慧晶片人才
+- **題材**: `HBM記憶體` | **重要性**: `68`
+- **來源**: Digitimes (2026-06-17T23:52:43Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: SK 海力士在新員工的常規招聘流程中取消了學歷要求，這家儲存晶片巨頭尋求加強其在高頻寬記憶體 (HBM) 領域的領先地位，並為快速變化的人工智慧半導體市場確保人才。行業 …
+- [原文連結](https://www.digitimes.com/news/a20260617PD227/sk-hynix-talent-hbm-market-competitiveness.html)
+
+---
+
 ### ⚖️ 台積電PLP時間表面臨台灣業界人士質疑
 - **題材**: `半導體先進製程` | **重要性**: `68`
 - **來源**: Digitimes (2026-06-16T02:47:10Z)
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 韓國媒體報告稱台積電準備最早在 2027 年大規模生產面板級封裝，這引起了台灣行業消息人士的懷疑，他們表示這個時間表可能為時過早，並且該公司仍將重點放在…
 - [原文連結](https://www.digitimes.com/news/a20260616VL205/tsmc-taiwan-packaging-production-foplp.html)
-
----
-
-### ⚖️ 據報導 SK Hynix 已為 Nvidia 準備好 HBM4E 樣品，三星領先
-- **題材**: `HBM記憶體` | **重要性**: `68`
-- **來源**: Digitimes (2026-06-15T21:54:54Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 隨著時機成為全球記憶體市場的關鍵競爭因素，SK 海力士距離向主要客戶交付第七代高頻寬記憶體 HBM4E 又近了一步。據Newsis報道，業內消息人士報道稱，SK海力士最近...
-- [原文連結](https://www.digitimes.com/news/a20260615PD216/sk-hynix-2026-shipments-shipping-samsung.html)
-
----
-
-### ⚠️ CPO 的延遲可能會改變人工智慧網路需求，而不是使其脫軌
-- **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-06-11T03:49:31Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Concerns have emerged in recent weeks that the commercialization of co-packaged optics (CPO), a technology widely viewed as the future of AI networking, could face further delays as manufacturing yields remain inconsistent.
-- [原文連結](https://www.digitimes.com/news/a20260611PD219/cpo-demand-optics-technology-switch.html)
 
 ---
 
@@ -137,6 +157,15 @@
 
 ---
 
+### ⚖️ 據報導 SK Hynix 已為 Nvidia 準備好 HBM4E 樣品，三星領先
+- **題材**: `HBM記憶體` | **重要性**: `63`
+- **來源**: Digitimes (2026-06-15T21:54:54Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 隨著時機成為全球記憶體市場的關鍵競爭因素，SK 海力士距離向主要客戶交付第七代高頻寬記憶體 HBM4E 又近了一步。據Newsis報道，業內消息人士報道稱，SK海力士最近...
+- [原文連結](https://www.digitimes.com/news/a20260615PD216/sk-hynix-2026-shipments-shipping-samsung.html)
+
+---
+
 ### ⚖️ 中國記憶體品牌放棄三星和美光，轉而採用國產長芯儲存和長江儲存晶片——海盜船、惠普和戴爾已經採用中國生產的 DDR5 晶片
 - **題材**: `HBM記憶體` | **重要性**: `62`
 - **來源**: Tom's Hardware UK (2026-06-17T09:30:00Z)
@@ -152,33 +181,6 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 台積電正在探索面板級封裝，並正在研究其 CoPoS 技術，但該公司的 Kevin 張表示，晶圓級封裝技術比面板級封裝先進得多。
 - [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/tsmc-says-panel-packaging-wont-replace-cowos-anytime-soon-for-the-largest-future-ai-processors-wafer-level-tech-can-scale-to-58-massive-dies-in-one-package)
-
----
-
-### ⚖️ 億萬富翁 Dan Loeb 的首選人工智慧股票：台積電 (TSM)
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-06-17T13:26:55Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 我們剛剛報道了億萬富翁 Dan Loeb 轉向人工智慧並出售舊經濟股票：他的 7 個人工智慧精選。台灣半導體（NYSE：TSM）排名第一（參見億萬富翁...
-- [原文連結](https://finance.yahoo.com/technology/ai/articles/billionaire-dan-loeb-top-ai-132655659.html)
-
----
-
-### ⚖️ AMD、Google和英偉達可能會使用三星製造的部分晶片
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: SamMobile (2026-06-17T06:14:14Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 三星是全球少數能夠在先進製程節點（5nm及以下）製造半導體晶片的公司之一。由於全球晶片製造能力仍然受到限制，包括 AMD、Google和 Nvidia 在內的多家公司都報告指出…
-- [原文連結](https://www.sammobile.com/news/amd-google-byd-nvidia-chips-made-samsung-future/)
-
----
-
-### 🚀 隨著人工智慧競賽的加劇，英偉達升級美國製造業
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: The Daily Caller (2026-06-16T20:58:56Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 英偉達週二透露，計劃在德州建立一家新的晶片工廠。
-- [原文連結](https://dailycaller.com/2026/06/16/nvidia-manufacturing-us-ai/)
 
 ---
 
