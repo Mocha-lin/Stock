@@ -1,7 +1,7 @@
 {
   "id": "2359",
   "name": "所羅門",
-  "lastUpdated": "2026-06-18 19:06:18",
+  "lastUpdated": "2026-06-19 19:15:20",
   "basicInfo": {
     "price": "134.00",
     "change": "2.00",
@@ -568,12 +568,20 @@
     ],
     "chips_table": [
       {
-        "date": "2026-06-18",
+        "date": "2026-06-19",
         "foreign_lots": 790.0,
         "it_lots": 0.0,
         "dealer_lots": -5.0,
         "sum_lots": 785.0,
         "pct_float": 0.04578030933492583
+      },
+      {
+        "date": "2026-06-18",
+        "foreign_lots": 241.59,
+        "it_lots": 0.0,
+        "dealer_lots": 40.168,
+        "sum_lots": 281.758,
+        "pct_float": 0.01643180687591087
       },
       {
         "date": "2026-06-17",
@@ -678,14 +686,6 @@
         "dealer_lots": 266.63800000000003,
         "sum_lots": -15.921999999999969,
         "pct_float": -0.0009285529748161626
-      },
-      {
-        "date": "2026-05-29",
-        "foreign_lots": 846.832,
-        "it_lots": 0.0,
-        "dealer_lots": 119.97699999999999,
-        "sum_lots": 966.809,
-        "pct_float": 0.056383203933490826
       }
     ],
     "returns_table": [
@@ -720,7 +720,7 @@
       "dataset": "structure_c_score",
       "stock_id": "2359",
       "ticker": "2359.TW",
-      "asof": "2026-06-18",
+      "asof": "2026-06-19",
       "c_score": 8.94194124309308,
       "benchmark_pe": 40.67026130354483,
       "source": [
@@ -3523,7 +3523,7 @@
         "high": 137.5,
         "low": 132.5,
         "close": 134.0,
-        "volume": 2454524.0,
+        "volume": 2404736.0,
         "adjclose": 134.0,
         "dividends": 0.0,
         "MA5": 134.2,
@@ -3535,7 +3535,7 @@
         "DIF": 1.1472644082646184,
         "DEA": 2.8206400357194887,
         "HIST": -3.3467512549097407,
-        "volume_lot": 2454.524
+        "volume_lot": 2404.736
       }
     ]
   }

@@ -1,7 +1,7 @@
 {
   "id": "2345",
   "name": "智邦",
-  "lastUpdated": "2026-06-18 19:06:18",
+  "lastUpdated": "2026-06-19 19:15:20",
   "basicInfo": {
     "price": "2435.00",
     "change": "-60.00",
@@ -568,6 +568,14 @@
     ],
     "chips_table": [
       {
+        "date": "2026-06-19",
+        "foreign_lots": 423.199,
+        "it_lots": 123.0,
+        "dealer_lots": 82.0,
+        "sum_lots": 628.1990000000001,
+        "pct_float": 0.011195490288226414
+      },
+      {
         "date": "2026-06-18",
         "foreign_lots": -239.033,
         "it_lots": -206.872,
@@ -678,14 +686,6 @@
         "dealer_lots": -64.775,
         "sum_lots": 324.99,
         "pct_float": 0.005791830914679429
-      },
-      {
-        "date": "2026-05-29",
-        "foreign_lots": 601.853,
-        "it_lots": -457.677,
-        "dealer_lots": -15.465,
-        "sum_lots": 128.71099999999993,
-        "pct_float": 0.0022938316528487135
       }
     ],
     "returns_table": [
@@ -720,7 +720,7 @@
       "dataset": "structure_c_score",
       "stock_id": "2345",
       "ticker": "2345.TW",
-      "asof": "2026-06-18",
+      "asof": "2026-06-19",
       "c_score": 1.0399120324794757,
       "benchmark_pe": 84.6683925370812,
       "source": [
@@ -3523,7 +3523,7 @@
         "high": 2490.0,
         "low": 2415.0,
         "close": 2435.0,
-        "volume": 4225506.0,
+        "volume": 4075666.0,
         "adjclose": 2435.0,
         "dividends": 0.0,
         "MA5": 2443.0,
@@ -3535,7 +3535,7 @@
         "DIF": 23.494758770865246,
         "DEA": 37.5892077288058,
         "HIST": -28.1888979158811,
-        "volume_lot": 4225.506
+        "volume_lot": 4075.666
       }
     ]
   }
