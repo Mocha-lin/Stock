@@ -1,5 +1,14 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-19T00:27:35.621999+00:00
+> 更新時間：2026-06-19T06:09:23.264373+00:00
+
+### 🚀 獨家：華邦NOR快閃記憶體據報進入Nvidia供應鏈
+- **題材**: `AI伺服器` | **重要性**: `88`
+- **來源**: Digitimes (2026-06-18T04:14:01Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重大事件】可能顯著影響產業評價、EPS預期或資金流向。
+- **摘要**: 據報道，隨著AI伺服器需求帶動記憶體消耗激增，加上Nvidia下一代Vera Rubin平台準備在2026年下半年批量出貨，華邦的NOR快閃記憶體首次進入Nvidia供應鏈。
+- [原文連結](https://www.digitimes.com/news/a20260618PD216/flash-winbond-nvidia-supply-chain-demand.html)
+
+---
 
 ### 🚀 專訪：MicroLED與SiPh eye 3.2T AI數據競賽
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -28,24 +37,6 @@
 
 ---
 
-### ⚖️ TSMC reportedly teams with Ibiden, Innolux to push CoPoS, glass substrates
-- **題材**: `半導體先進製程` | **重要性**: `78`
-- **來源**: Digitimes (2026-06-16T04:35:11Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: TSMC is accelerating its advanced packaging roadmap for AI chips, expanding CoWoS capacity while publicly disclosing new progress in glass substrate technology. The company is also signaling that next-generation packaging competition is shifting from CoWoS to…
-- [原文連結](https://www.digitimes.com/news/a20260616PD217/tsmc-innolux-ibiden-packaging-cowos.html)
-
----
-
-### 🚀 AI伺服器追蹤：隨著機架供應商超越同行，台灣AI伺服器建構鏈不斷拓寬
-- **題材**: `AI伺服器` | **重要性**: `78`
-- **來源**: Digitimes (2026-06-12T04:43:25Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 台灣伺服器供應鏈持續受惠於人工智慧基礎設施，成長遍及連接器、電纜、機櫃、導軌和系統組裝。但步伐各不相同，因為有些公司只看到了適度的成長，而有些公司則與…聯繫更緊密。
-- [原文連結](https://www.digitimes.com/news/a20260611VL209/taiwan-ai-server-supply-chain-growth-demand.html)
-
----
-
 ### 🚀 與 Nvidia 簽訂六年協議後，SharonAI 股價飆升。 SHAZ 股票需要更多才能成為長期買入的股票。
 - **題材**: `AI伺服器` | **重要性**: `75`
 - **來源**: Barchart.com (2026-06-16T18:36:42Z)
@@ -64,12 +55,21 @@
 
 ---
 
-### ⚖️ 韓國晶片設備廠商乘勢HBM4浪潮
-- **題材**: `HBM記憶體` | **重要性**: `73`
-- **來源**: Digitimes (2026-06-15T07:03:04Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 隨著三星電子和 SK 海力士加速對先進 DRAM 和高頻寬記憶體 (HBM4) 的投資，韓國半導體設備供應鏈的材料訂單在 2026 年上半年有所回升，產生了前端工具的需求…
-- [原文連結](https://www.digitimes.com/news/a20260615PD206/equipment-2026-hbm4-capex-revenue.html)
+### ⚖️ TSMC reportedly teams with Ibiden, Innolux to push CoPoS, glass substrates
+- **題材**: `半導體先進製程` | **重要性**: `73`
+- **來源**: Digitimes (2026-06-16T04:35:11Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: TSMC is accelerating its advanced packaging roadmap for AI chips, expanding CoWoS capacity while publicly disclosing new progress in glass substrate technology. The company is also signaling that next-generation packaging competition is shifting from CoWoS to…
+- [原文連結](https://www.digitimes.com/news/a20260616PD217/tsmc-innolux-ibiden-packaging-cowos.html)
+
+---
+
+### 🚀 SpaceX 如何與美光的設定相匹配，將價格快速提升 10 倍至 2000 美元。 SpaceX 下一階段的收入乘數
+- **題材**: `AI伺服器` | **重要性**: `70`
+- **來源**: Next Big Future (2026-06-18T02:18:54Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 如果 SPACEX 跟隨美光的收入和利潤激增，那麼它的估值就會被低估。 SPACEX 距離將其人工智慧收入從 4 月的每年 10 億美元提高到 2026 年 10 月的每年 330 億美元還有 4 個月的時間。吉瓦乘以每吉瓦數十億 = 每…收入
+- [原文連結](https://www.nextbigfuture.com/2026/06/how-spacex-matches-the-micron-setup-for-a-fast-10x-to-2000-revenue-multipliers-for-next-levels-for-spacex.html)
 
 ---
 
@@ -111,21 +111,21 @@
 
 ---
 
+### ⚖️ SK海力士運送HBM4E樣品
+- **題材**: `HBM記憶體` | **重要性**: `68`
+- **來源**: Digitimes (2026-06-18T01:06:38Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: SK 海力士已開始向主要客戶提供下一代高頻寬記憶體 HBM4E 樣品。這家韓國晶片製造商表示，12 層產品已按期交付。
+- [原文連結](https://www.digitimes.com/news/a20260618VL200/sk-hynix-shipping-hbm4-data-production.html)
+
+---
+
 ### ⚖️ SK 海力士廢除學位規則以吸引人工智慧晶片人才
 - **題材**: `HBM記憶體` | **重要性**: `68`
 - **來源**: Digitimes (2026-06-17T23:52:43Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: SK 海力士在新員工的常規招聘流程中取消了學歷要求，這家儲存晶片巨頭尋求加強其在高頻寬記憶體 (HBM) 領域的領先地位，並為快速變化的人工智慧半導體市場確保人才。行業 …
 - [原文連結](https://www.digitimes.com/news/a20260617PD227/sk-hynix-talent-hbm-market-competitiveness.html)
-
----
-
-### ⚖️ 台積電PLP時間表面臨台灣業界人士質疑
-- **題材**: `半導體先進製程` | **重要性**: `68`
-- **來源**: Digitimes (2026-06-16T02:47:10Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 韓國媒體報告稱台積電準備最早在 2027 年大規模生產面板級封裝，這引起了台灣行業消息人士的懷疑，他們表示這個時間表可能為時過早，並且該公司仍將重點放在…
-- [原文連結](https://www.digitimes.com/news/a20260616VL205/tsmc-taiwan-packaging-production-foplp.html)
 
 ---
 
@@ -157,6 +157,15 @@
 
 ---
 
+### ⚖️ 台積電PLP時間表面臨台灣業界人士質疑
+- **題材**: `半導體先進製程` | **重要性**: `63`
+- **來源**: Digitimes (2026-06-16T02:47:10Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 韓國媒體報告稱台積電準備最早在 2027 年大規模生產面板級封裝，這引起了台灣行業消息人士的懷疑，他們表示這個時間表可能為時過早，並且該公司仍將重點放在…
+- [原文連結](https://www.digitimes.com/news/a20260616VL205/tsmc-taiwan-packaging-production-foplp.html)
+
+---
+
 ### ⚖️ 據報導 SK Hynix 已為 Nvidia 準備好 HBM4E 樣品，三星領先
 - **題材**: `HBM記憶體` | **重要性**: `63`
 - **來源**: Digitimes (2026-06-15T21:54:54Z)
@@ -172,15 +181,6 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 中國記憶體品牌光威和金百達已開始使用國產晶片生產 DDR5 記憶體套件，以取代三星、美光或 SK 海力士 DRAM。
 - [原文連結](https://www.tomshardware.com/pc-components/ram/chinese-memory-vendors-snub-industry-giants-in-favor-of-homegrown-ram-chips-samsung-micron-and-sk-hynix-face-a-chinese-supply-chain-revolt)
-
----
-
-### ⚖️ 台積電錶示，對於未來最大的人工智慧處理器來說，面板封裝不會很快取代 CoWoS——晶圓級技術可以在一個封裝中擴展到 58 個大型晶片
-- **題材**: `半導體先進製程` | **重要性**: `62`
-- **來源**: Tom's Hardware UK (2026-06-16T11:00:00Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 台積電正在探索面板級封裝，並正在研究其 CoPoS 技術，但該公司的 Kevin 張表示，晶圓級封裝技術比面板級封裝先進得多。
-- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/tsmc-says-panel-packaging-wont-replace-cowos-anytime-soon-for-the-largest-future-ai-processors-wafer-level-tech-can-scale-to-58-massive-dies-in-one-package)
 
 ---
 
