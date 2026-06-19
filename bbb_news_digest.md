@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-19T06:09:23.264373+00:00
+> 更新時間：2026-06-19T12:47:01.804546+00:00
 
 ### 🚀 獨家：華邦NOR快閃記憶體據報進入Nvidia供應鏈
 - **題材**: `AI伺服器` | **重要性**: `88`
@@ -64,32 +64,22 @@
 
 ---
 
+### ⚖️ Tower Semiconductor ships 5 million coherent photonic circuits to Marvell for AI data centers
+- **題材**: `光通訊與矽光子` | **重要性**: `70`
+- **來源**: Crypto Briefing (2026-06-18T11:57:24Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Tower's milestone in photonic circuits enhances AI data center efficiency, signaling a shift towards integrated, high-bandwidth optical solutions.
+The post Tower Semiconductor ships 5 million coherent photonic circuits to Marvell for AI data centers appeared …
+- [原文連結](https://cryptobriefing.com/tower-semiconductor-photonic-circuits-marvell-ai/)
+
+---
+
 ### 🚀 SpaceX 如何與美光的設定相匹配，將價格快速提升 10 倍至 2000 美元。 SpaceX 下一階段的收入乘數
 - **題材**: `AI伺服器` | **重要性**: `70`
 - **來源**: Next Big Future (2026-06-18T02:18:54Z)
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 如果 SPACEX 跟隨美光的收入和利潤激增，那麼它的估值就會被低估。 SPACEX 距離將其人工智慧收入從 4 月的每年 10 億美元提高到 2026 年 10 月的每年 330 億美元還有 4 個月的時間。吉瓦乘以每吉瓦數十億 = 每…收入
 - [原文連結](https://www.nextbigfuture.com/2026/06/how-spacex-matches-the-micron-setup-for-a-fast-10x-to-2000-revenue-multipliers-for-next-levels-for-spacex.html)
-
----
-
-### 🚀 為什麼 Aehr Test Systems 股票週三飆漲？
-- **題材**: `光通訊與矽光子` | **重要性**: `70`
-- **來源**: Biztoc.com (2026-06-17T16:56:13Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Aehr Test Systems Inc.（NASDAQ：AEHR）股價週三上漲約 11%，此前該公司宣布了一項後續生產訂單，該訂單與超大規模人工智慧資料中心使用的矽光子需求不斷增長有關。
-人工智慧資料中心需求推動後續訂單
-啊…
-- [原文連結](https://biztoc.com/x/5fe2e1306a7f49ab)
-
----
-
-### 🚀 Credo 年底能達到 300 美元嗎？
-- **題材**: `光通訊與矽光子` | **重要性**: `70`
-- **來源**: 24/7 Wall St. (2026-06-16T15:12:05Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Credo Technology（納斯達克股票代碼：CRDO）已成為人工智慧基礎設施行業最具爆炸性的贏家之一，過去一年股價上漲 252.99%，年比上漲 80.28%。
-- [原文連結](https://247wallst.com/investing/2026/06/16/can-credo-hit-300-by-year-end/)
 
 ---
 
@@ -129,6 +119,15 @@
 
 ---
 
+### 🚀 Iran peace not stopping central banks from raising borrowing costs
+- **題材**: `總體風險` | **重要性**: `65`
+- **來源**: Yahoo Entertainment (2026-06-18T11:38:00Z)
+- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 作者：Balazs Koranyi 和 Leika Kihara 法蘭克福/東京，6 月 18 日（路透社）
+- [原文連結](https://finance.yahoo.com/economy/policy/articles/iran-peace-not-stopping-central-113800964.html)
+
+---
+
 ### ⚖️ 在台積電苦苦應對需求之際，三星晶圓代工廠卻蓬勃發展——英偉達、特斯拉和高通成為新客戶
 - **題材**: `半導體先進製程` | **重要性**: `65`
 - **來源**: TechSpot (2026-06-17T18:23:00Z)
@@ -157,15 +156,6 @@
 
 ---
 
-### ⚖️ 台積電PLP時間表面臨台灣業界人士質疑
-- **題材**: `半導體先進製程` | **重要性**: `63`
-- **來源**: Digitimes (2026-06-16T02:47:10Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 韓國媒體報告稱台積電準備最早在 2027 年大規模生產面板級封裝，這引起了台灣行業消息人士的懷疑，他們表示這個時間表可能為時過早，並且該公司仍將重點放在…
-- [原文連結](https://www.digitimes.com/news/a20260616VL205/tsmc-taiwan-packaging-production-foplp.html)
-
----
-
 ### ⚖️ 據報導 SK Hynix 已為 Nvidia 準備好 HBM4E 樣品，三星領先
 - **題材**: `HBM記憶體` | **重要性**: `63`
 - **來源**: Digitimes (2026-06-15T21:54:54Z)
@@ -181,6 +171,16 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 中國記憶體品牌光威和金百達已開始使用國產晶片生產 DDR5 記憶體套件，以取代三星、美光或 SK 海力士 DRAM。
 - [原文連結](https://www.tomshardware.com/pc-components/ram/chinese-memory-vendors-snub-industry-giants-in-favor-of-homegrown-ram-chips-samsung-micron-and-sk-hynix-face-a-chinese-supply-chain-revolt)
+
+---
+
+### 🚀 川普總統表示，蘋果和英特爾正在合作在美國製造晶片
+- **題材**: `半導體先進製程` | **重要性**: `60`
+- **來源**: 9to5Mac (2026-06-18T10:22:50Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 川普總統今晚在 TruthSocial 上證實了先前的傳聞：蘋果和英特爾已同意建立合作夥伴關係，英特爾將使用英特爾位於美國的製造工廠為未來的蘋果設備製造晶片。
+……的廣度和深度
+- [原文連結](https://9to5mac.com/2026/06/18/apple-intel-chip-manufacturing-american/)
 
 ---
 
