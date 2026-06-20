@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-20T14:58:01.248150+00:00
+> 更新時間：2026-06-20T16:14:11.337813+00:00
 
 ### 🚀 獨家：華邦NOR快閃記憶體據報進入Nvidia供應鏈
 - **題材**: `AI伺服器` | **重要性**: `88`
@@ -137,13 +137,12 @@ The post Tower Semiconductor ships 5 million coherent photonic circuits to Marve
 
 ---
 
-### ⚖️ 人工智慧需求不斷成長，中國收緊銦出口檢查
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: Crypto Briefing (2026-06-19T12:42:31Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 中國的銦出口檢查可能重塑全球科技供應鏈，促使投資和創新轉變，以減輕依賴。
-《Crypto Briefing》首先報導了中國在人工智慧需求不斷增長的情況下收緊銦出口檢查的消息。
-- [原文連結](https://cryptobriefing.com/china-indium-export-checks-ai-demand/)
+### ⚖️ Tensordyne 在對數數學上下了很大的賭注以擊敗 Nvidia
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: Theregister.com (2026-06-19T15:30:00Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 當你只需對數加法時，誰還需要算密集型乘法
+- [原文連結](https://www.theregister.com/systems/2026/06/19/tensordyne-makes-a-big-bet-on-log-math-to-beat-nvidia/5258662)
 
 ---
 
