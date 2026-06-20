@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-20T16:14:11.337813+00:00
+> 更新時間：2026-06-20T18:03:23.413806+00:00
 
 ### 🚀 獨家：華邦NOR快閃記憶體據報進入Nvidia供應鏈
 - **題材**: `AI伺服器` | **重要性**: `88`
@@ -25,6 +25,15 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: TSMC is accelerating its advanced packaging roadmap for AI chips, expanding CoWoS capacity while publicly disclosing new progress in glass substrate technology. The company is also signaling that next-generation packaging competition is shifting from CoWoS to…
 - [原文連結](https://www.digitimes.com/news/a20260616PD217/tsmc-innolux-ibiden-packaging-cowos.html)
+
+---
+
+### 🚀 在華爾街流行之前立即購買 3 隻股票
+- **題材**: `光通訊與矽光子` | **重要性**: `70`
+- **來源**: 24/7 Wall St. (2026-06-19T17:05:23Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 人工智慧基礎設施貿易已經擴大。 NVIDIA（納斯達克股票代碼：NVDA）仍然佔據主導地位，但提供連接、電源和…的二階衍生名稱...
+- [原文連結](https://247wallst.com/investing/2026/06/19/3-stocks-to-buy-now-before-wall-street-catches-on/)
 
 ---
 
@@ -173,16 +182,6 @@ HBM4E 提供 16Gbps 頻寬…
 - **摘要**: 蘋果執行長庫克在接受獨家採訪時宣布，由於人工智慧需求推動記憶體和儲存晶片成本空前上漲，這家科技巨頭將提高其產品價格。
 貼文「不可避免」：蘋果計畫漲價…
 - [原文連結](https://www.breitbart.com/tech/2026/06/18/unavoidable-apple-plans-price-increases-as-the-ai-memory-chip-crisis-worsens/)
-
----
-
-### 🚀 川普總統表示，蘋果和英特爾正在合作在美國製造晶片
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: 9to5Mac (2026-06-18T10:22:50Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 川普總統今晚在 TruthSocial 上證實了先前的傳聞：蘋果和英特爾已同意建立合作夥伴關係，英特爾將使用英特爾位於美國的製造工廠為未來的蘋果設備製造晶片。
-……的廣度和深度
-- [原文連結](https://9to5mac.com/2026/06/18/apple-intel-chip-manufacturing-american/)
 
 ---
 
