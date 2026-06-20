@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-20T11:19:47.243584+00:00
+> 更新時間：2026-06-20T14:58:01.248150+00:00
 
 ### 🚀 獨家：華邦NOR快閃記憶體據報進入Nvidia供應鏈
 - **題材**: `AI伺服器` | **重要性**: `88`
@@ -7,15 +7,6 @@
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重大事件】可能顯著影響產業評價、EPS預期或資金流向。
 - **摘要**: 據報道，隨著AI伺服器需求帶動記憶體消耗激增，加上Nvidia下一代Vera Rubin平台準備在2026年下半年批量出貨，華邦的NOR快閃記憶體首次進入Nvidia供應鏈。
 - [原文連結](https://www.digitimes.com/news/a20260618PD216/flash-winbond-nvidia-supply-chain-demand.html)
-
----
-
-### 🚀 專訪：MicroLED與SiPh eye 3.2T AI數據競賽
-- **題材**: `光通訊與矽光子` | **重要性**: `83`
-- **來源**: Digitimes (2026-06-17T23:49:17Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: AI浪潮正快速重塑全球半導體供應鏈，這場變革也為台灣LED產業開啟新的成長篇章。隨著台灣LED廠商逐漸擺脫消費市場的價格戰，英偉達力推AI傳輸升級…
-- [原文連結](https://www.digitimes.com/news/a20260617PD211/microled-siph-cpo-optical-communications-supply-chain-taiwan.html)
 
 ---
 
@@ -137,31 +128,22 @@ The post Tower Semiconductor ships 5 million coherent photonic circuits to Marve
 
 ---
 
-### 🚀 Aehr Test Systems 股價攀升新矽光子生產訂單
-- **題材**: `光通訊與矽光子` | **重要性**: `65`
-- **來源**: Biztoc.com (2026-06-17T13:39:37Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Aehr Test Systems（NASDAQ：AEHR）宣布從矽光子市場主要客戶那裡獲得了其 FOX-XP 晶圓級老化系統的後續生產訂單，股價上漲 11%。
-該訂單凸顯了對半導體的需求不斷增長...
-- [原文連結](https://biztoc.com/x/76d2c81384248b0b)
-
----
-
-### ⚖️ 台積電PLP時間表面臨台灣業界人士質疑
-- **題材**: `半導體先進製程` | **重要性**: `63`
-- **來源**: Digitimes (2026-06-16T02:47:10Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 韓國媒體報告稱台積電準備最早在 2027 年大規模生產面板級封裝，這引起了台灣行業消息人士的懷疑，他們表示這個時間表可能為時過早，並且該公司仍將重點放在…
-- [原文連結](https://www.digitimes.com/news/a20260616VL205/tsmc-taiwan-packaging-production-foplp.html)
-
----
-
 ### ⚖️ 據報導 SK Hynix 已為 Nvidia 準備好 HBM4E 樣品，三星領先
 - **題材**: `HBM記憶體` | **重要性**: `63`
 - **來源**: Digitimes (2026-06-15T21:54:54Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 隨著時機成為全球記憶體市場的關鍵競爭因素，SK 海力士距離向主要客戶交付第七代高頻寬記憶體 HBM4E 又近了一步。據Newsis報道，業內消息人士報道稱，SK海力士最近...
 - [原文連結](https://www.digitimes.com/news/a20260615PD216/sk-hynix-2026-shipments-shipping-samsung.html)
+
+---
+
+### ⚖️ 人工智慧需求不斷成長，中國收緊銦出口檢查
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: Crypto Briefing (2026-06-19T12:42:31Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 中國的銦出口檢查可能重塑全球科技供應鏈，促使投資和創新轉變，以減輕依賴。
+《Crypto Briefing》首先報導了中國在人工智慧需求不斷增長的情況下收緊銦出口檢查的消息。
+- [原文連結](https://cryptobriefing.com/china-indium-export-checks-ai-demand/)
 
 ---
 
@@ -182,6 +164,26 @@ The post Tower Semiconductor ships 5 million coherent photonic circuits to Marve
 
 HBM4E 提供 16Gbps 頻寬…
 - [原文連結](https://www.gsmarena.com/sk_hynix_ships_samples_of_its_hbm4e_memory_16gbps_per_pin_48gb_capacity_per_12layer_stack-news-73336.php)
+
+---
+
+### 🚀 「不可避免」：隨著人工智慧記憶體晶片危機惡化，蘋果計畫漲價
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: Breitbart News (2026-06-18T17:36:16Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 蘋果執行長庫克在接受獨家採訪時宣布，由於人工智慧需求推動記憶體和儲存晶片成本空前上漲，這家科技巨頭將提高其產品價格。
+貼文「不可避免」：蘋果計畫漲價…
+- [原文連結](https://www.breitbart.com/tech/2026/06/18/unavoidable-apple-plans-price-increases-as-the-ai-memory-chip-crisis-worsens/)
+
+---
+
+### 🚀 川普總統表示，蘋果和英特爾正在合作在美國製造晶片
+- **題材**: `半導體先進製程` | **重要性**: `60`
+- **來源**: 9to5Mac (2026-06-18T10:22:50Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 川普總統今晚在 TruthSocial 上證實了先前的傳聞：蘋果和英特爾已同意建立合作夥伴關係，英特爾將使用英特爾位於美國的製造工廠為未來的蘋果設備製造晶片。
+……的廣度和深度
+- [原文連結](https://9to5mac.com/2026/06/18/apple-intel-chip-manufacturing-american/)
 
 ---
 
