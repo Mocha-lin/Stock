@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-06-20T05:04:16.656592+00:00",
+  "generated_at": "2026-06-20T08:30:24.098274+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 72,
@@ -1008,44 +1008,6 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "f23460cbfae49551",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "AMD、Google和英偉達可能會使用三星製造的部分晶片",
-      "summary": "三星是全球少數能夠在先進製程節點（5nm及以下）製造半導體晶片的公司之一。由於全球晶片製造能力仍然受到限制，包括 AMD、Google和 Nvidia 在內的多家公司都報告指出…",
-      "original_title": "AMD, Google, and Nvidia could get some of their chips made by Samsung",
-      "url": "https://www.sammobile.com/news/amd-google-byd-nvidia-chips-made-samsung-future/",
-      "source": "SamMobile",
-      "domain": "sammobile.com",
-      "published_at": "2026-06-17T06:14:14Z",
-      "importance": 60,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "584c65ba9630fc00",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1158,6 +1120,44 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "1c4e4c28ee792b81",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "The ISA Doesn't Matter Where It Counts",
+      "summary": "x86 的锁定是真实的。它距離 GPU 最遠。",
+      "original_title": "The ISA Doesn't Matter Where It Counts",
+      "url": "https://www.chipstrat.com/p/the-isa-doesnt-matter-where-it-counts",
+      "source": "Chipstrat.com",
+      "domain": "chipstrat.com",
+      "published_at": "2026-06-19T06:02:53Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "8713fca3ced118c7",
@@ -1566,32 +1566,32 @@
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "f814efae7dadce41",
+      "id": "f23460cbfae49551",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Peter Thiel 的私人社團出席名單透過硬編碼 HTML 洩露",
-      "summary": "2026 年 6 月 16 日的dialog.org 網站純 html。透過在 GitHub 上建立帳戶來為 nzaki-dev/dialog 開發做出貢獻。",
-      "original_title": "Peter Thiel's private society attendance list leaked via hard-coded HTML",
-      "url": "https://github.com/nzaki-dev/dialog",
-      "source": "Github.com",
-      "domain": "github.com",
-      "published_at": "2026-06-17T05:58:26Z",
+      "theme": "半導體先進製程",
+      "title": "AMD、Google和英偉達可能會使用三星製造的部分晶片",
+      "summary": "三星是全球少數能夠在先進製程節點（5nm及以下）製造半導體晶片的公司之一。由於全球晶片製造能力仍然受到限制，包括 AMD、Google和 Nvidia 在內的多家公司都報告指出…",
+      "original_title": "AMD, Google, and Nvidia could get some of their chips made by Samsung",
+      "url": "https://www.sammobile.com/news/amd-google-byd-nvidia-chips-made-samsung-future/",
+      "source": "SamMobile",
+      "domain": "sammobile.com",
+      "published_at": "2026-06-17T06:14:14Z",
       "importance": 55,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
+        "半導體",
+        "CoWoS",
+        "先進製程"
       ],
       "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
       ],
       "related_models": [
         "003",
@@ -1601,7 +1601,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "b00a553fa36434ac",
@@ -1862,6 +1862,44 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "f814efae7dadce41",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Peter Thiel 的私人社團出席名單透過硬編碼 HTML 洩露",
+      "summary": "2026 年 6 月 16 日的dialog.org 網站純 html。透過在 GitHub 上建立帳戶來為 nzaki-dev/dialog 開發做出貢獻。",
+      "original_title": "Peter Thiel's private society attendance list leaked via hard-coded HTML",
+      "url": "https://github.com/nzaki-dev/dialog",
+      "source": "Github.com",
+      "domain": "github.com",
+      "published_at": "2026-06-17T05:58:26Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "b2924f3fc56a9385",
@@ -2217,44 +2255,6 @@
       "source": "Theregister.com",
       "domain": "theregister.com",
       "published_at": "2026-06-16T08:00:00Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "d5e057c4519cbd1e",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "美國人工智慧新創公司 Tensordyne 聲稱 3nm Napier 晶片的每秒令牌性能比 NVIDIA Blackwell 快 13 倍",
-      "summary": "TDN72 機架容納 288 個 Napier 晶片，可提供 608 petaflops 的 FP8 運算能力，並聲稱可與 9 個 NVIDIA Rubin 加 Groq LPX 機架的吞吐量相匹配。在 TweakTown 繼續閱讀",
-      "original_title": "US AI startup Tensordyne claims 3nm Napier chip outperforms NVIDIA Blackwell by 13x in tokens per second",
-      "url": "https://www.tweaktown.com/news/112214/us-ai-startup-tensordyne-claims-3nm-napier-chip-outperforms-nvidia-blackwell-by-13x-in-tokens-per-second/index.html",
-      "source": "TweakTown",
-      "domain": "tweaktown.com",
-      "published_at": "2026-06-16T05:15:04Z",
       "importance": 50,
       "impact": "neutral",
       "timeframe": "short_term",
