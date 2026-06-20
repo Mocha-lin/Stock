@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-19T20:22:41.550093+00:00
+> 更新時間：2026-06-20T00:09:25.100002+00:00
 
 ### 🚀 獨家：華邦NOR快閃記憶體據報進入Nvidia供應鏈
 - **題材**: `AI伺服器` | **重要性**: `88`
@@ -25,15 +25,6 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 中華電信旗下中華領先光電科技將在台北興櫃掛牌上市。受工業 5.0 應用需求不斷增長的推動，該公司在 2026 年前四個月的收入和毛利率創下歷史新高。
 - [原文連結](https://www.digitimes.com/news/a20260612PD223/demand-packaging-testing-inspection-revenue.html)
-
----
-
-### 🚀 如果您錯過了韓國 AI ETF 的繁榮，有 2 個直接接觸供應鏈的台灣選擇
-- **題材**: `半導體先進製程` | **重要性**: `75`
-- **來源**: 24/7 Wall St. (2026-06-12T15:11:51Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 台灣製造能力 台灣是世界上最重要的半導體製造中心。 2025年，其經濟成長8.68%，出口額約為...
-- [原文連結](https://247wallst.com/investing/2026/06/12/if-you-missed-the-korean-ai-etf-boom-there-are-the-2-taiwanese-options-with-direct-exposure-to-the-supply-chain/)
 
 ---
 
@@ -110,6 +101,15 @@ The post Tower Semiconductor ships 5 million coherent photonic circuits to Marve
 
 ---
 
+### 🚀 伊朗和平並沒有阻止央行提高借貸成本
+- **題材**: `總體風險` | **重要性**: `65`
+- **來源**: Yahoo Entertainment (2026-06-18T11:38:00Z)
+- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 作者：Balazs Koranyi 和 Leika Kihara 法蘭克福/東京，6 月 18 日（路透社）
+- [原文連結](https://finance.yahoo.com/economy/policy/articles/iran-peace-not-stopping-central-113800964.html)
+
+---
+
 ### ⚖️ 在台積電苦苦應對需求之際，三星晶圓代工廠卻蓬勃發展——英偉達、特斯拉和高通成為新客戶
 - **題材**: `半導體先進製程` | **重要性**: `65`
 - **來源**: TechSpot (2026-06-17T18:23:00Z)
@@ -138,12 +138,12 @@ The post Tower Semiconductor ships 5 million coherent photonic circuits to Marve
 
 ---
 
-### 🚀 Nvidia vs AMD：今年 6 月更值得買進更好的 AI 股票
-- **題材**: `AI伺服器` | **重要性**: `65`
-- **來源**: 24/7 Wall St. (2026-06-12T16:53:02Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: NVIDIA（納斯達克股票代碼：NVDA）和 AMD（納斯達克股票代碼：AMD）都在 5 月公佈了財報，這一對比說明了當今人工智慧硬體市場的一切。 NVIDIA 發布了 $...
-- [原文連結](https://247wallst.com/investing/2026/06/12/nvidia-vs-amd-the-better-ai-stock-is-a-better-buy-this-june/)
+### ⚖️ 台積電PLP時間表面臨台灣業界人士質疑
+- **題材**: `半導體先進製程` | **重要性**: `63`
+- **來源**: Digitimes (2026-06-16T02:47:10Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 韓國媒體報告稱台積電準備最早在 2027 年大規模生產面板級封裝，這引起了台灣行業消息人士的懷疑，他們表示這個時間表可能為時過早，並且該公司仍將重點放在…
+- [原文連結](https://www.digitimes.com/news/a20260616VL205/tsmc-taiwan-packaging-production-foplp.html)
 
 ---
 
@@ -165,6 +165,17 @@ The post Tower Semiconductor ships 5 million coherent photonic circuits to Marve
 
 ---
 
+### ⚖️ SK hynix 發布 HBM4E 記憶體樣品：每腳位 16Gbps，每 12 層堆疊 48GB 容量
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: GSMArena.com (2026-06-18T21:03:02Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: AI 硬體不使用常規 DDR 記憶體——速度太慢。相反，首選格式是高頻寬記憶體或 HBM。 SK 海力士剛宣布已開始向客戶提供最新 HBM4E 的樣品。
+
+HBM4E 提供 16Gbps 頻寬…
+- [原文連結](https://www.gsmarena.com/sk_hynix_ships_samples_of_its_hbm4e_memory_16gbps_per_pin_48gb_capacity_per_12layer_stack-news-73336.php)
+
+---
+
 ### 🚀 「不可避免」：隨著人工智慧記憶體晶片危機惡化，蘋果計畫漲價
 - **題材**: `HBM記憶體` | **重要性**: `60`
 - **來源**: Breitbart News (2026-06-18T17:36:16Z)
@@ -172,16 +183,6 @@ The post Tower Semiconductor ships 5 million coherent photonic circuits to Marve
 - **摘要**: 蘋果執行長庫克在接受獨家採訪時宣布，由於人工智慧需求推動記憶體和儲存晶片成本空前上漲，這家科技巨頭將提高其產品價格。
 貼文「不可避免」：蘋果計畫漲價…
 - [原文連結](https://www.breitbart.com/tech/2026/06/18/unavoidable-apple-plans-price-increases-as-the-ai-memory-chip-crisis-worsens/)
-
----
-
-### 🚀 川普總統表示，蘋果和英特爾正在合作在美國製造晶片
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: 9to5Mac (2026-06-18T10:22:50Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 川普總統今晚在 TruthSocial 上證實了先前的傳聞：蘋果和英特爾已同意建立合作夥伴關係，英特爾將使用英特爾位於美國的製造工廠為未來的蘋果設備製造晶片。
-……的廣度和深度
-- [原文連結](https://9to5mac.com/2026/06/18/apple-intel-chip-manufacturing-american/)
 
 ---
 
