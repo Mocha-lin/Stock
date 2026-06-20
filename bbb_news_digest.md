@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-20T00:09:25.100002+00:00
+> 更新時間：2026-06-20T05:04:16.656592+00:00
 
 ### 🚀 獨家：華邦NOR快閃記憶體據報進入Nvidia供應鏈
 - **題材**: `AI伺服器` | **重要性**: `88`
@@ -25,15 +25,6 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 中華電信旗下中華領先光電科技將在台北興櫃掛牌上市。受工業 5.0 應用需求不斷增長的推動，該公司在 2026 年前四個月的收入和毛利率創下歷史新高。
 - [原文連結](https://www.digitimes.com/news/a20260612PD223/demand-packaging-testing-inspection-revenue.html)
-
----
-
-### ⚖️ 卓越電鍍技術轉向AI液冷和CPO
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-06-17T01:30:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 卓越電鍍科技董事長華雷傑表示，該公司正在將更多資源轉移到人工智慧液冷、CPO通訊模組和人工智慧資料中心的近線硬碟上，同時擴大在泰國的生產，並在…
-- [原文連結](https://www.digitimes.com/news/a20260616PD230/liquid-cooling-cpo-production-chairman-gold.html)
 
 ---
 
@@ -83,6 +74,15 @@ The post Tower Semiconductor ships 5 million coherent photonic circuits to Marve
 
 ---
 
+### ⚖️ 據報道 SK 海力士在美國就 HBM 供應和當地投資計劃舉行會談
+- **題材**: `HBM記憶體` | **重要性**: `68`
+- **來源**: Digitimes (2026-06-19T03:23:13Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: SK Hynix is reported to have held a private meeting with U.S. Deputy Secretary of State Allison Hooker, with industry sources speculating the discussions covered high-bandwidth memory cooperation with major U.S. technology firms and potential semiconductor in…
+- [原文連結](https://www.digitimes.com/news/a20260618PD233/sk-hynix-hbm-investment-shipments-supply-chain.html)
+
+---
+
 ### ⚖️ SK海力士運送HBM4E樣品
 - **題材**: `HBM記憶體` | **重要性**: `68`
 - **來源**: Digitimes (2026-06-18T01:06:38Z)
@@ -98,6 +98,15 @@ The post Tower Semiconductor ships 5 million coherent photonic circuits to Marve
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: SK 海力士在新員工的常規招聘流程中取消了學歷要求，這家儲存晶片巨頭尋求加強其在高頻寬記憶體 (HBM) 領域的領先地位，並為快速變化的人工智慧半導體市場確保人才。行業 …
 - [原文連結](https://www.digitimes.com/news/a20260617PD227/sk-hynix-talent-hbm-market-competitiveness.html)
+
+---
+
+### ⚖️ 卓越電鍍技術轉向AI液冷和CPO
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-06-17T01:30:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 卓越電鍍科技董事長華雷傑表示，該公司正在將更多資源轉移到人工智慧液冷、CPO通訊模組和人工智慧資料中心的近線硬碟上，同時擴大在泰國的生產，並在…
+- [原文連結](https://www.digitimes.com/news/a20260616PD230/liquid-cooling-cpo-production-chairman-gold.html)
 
 ---
 
@@ -173,16 +182,6 @@ The post Tower Semiconductor ships 5 million coherent photonic circuits to Marve
 
 HBM4E 提供 16Gbps 頻寬…
 - [原文連結](https://www.gsmarena.com/sk_hynix_ships_samples_of_its_hbm4e_memory_16gbps_per_pin_48gb_capacity_per_12layer_stack-news-73336.php)
-
----
-
-### 🚀 「不可避免」：隨著人工智慧記憶體晶片危機惡化，蘋果計畫漲價
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: Breitbart News (2026-06-18T17:36:16Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 蘋果執行長庫克在接受獨家採訪時宣布，由於人工智慧需求推動記憶體和儲存晶片成本空前上漲，這家科技巨頭將提高其產品價格。
-貼文「不可避免」：蘋果計畫漲價…
-- [原文連結](https://www.breitbart.com/tech/2026/06/18/unavoidable-apple-plans-price-increases-as-the-ai-memory-chip-crisis-worsens/)
 
 ---
 
