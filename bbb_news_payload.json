@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-06-20T08:30:24.098274+00:00",
+  "generated_at": "2026-06-20T11:19:47.243584+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 72,
@@ -678,29 +678,32 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "9472d159c38ee3e4",
+      "id": "a78fab042e6ee1a3",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "中國記憶體品牌放棄三星和美光，轉而採用國產長芯儲存和長江儲存晶片——海盜船、惠普和戴爾已經採用中國生產的 DDR5 晶片",
-      "summary": "中國記憶體品牌光威和金百達已開始使用國產晶片生產 DDR5 記憶體套件，以取代三星、美光或 SK 海力士 DRAM。",
-      "original_title": "Chinese memory brands ditch Samsung and Micron for homegrown CXMT and YMTC silicon — Corsair, HP, and Dell are already adopting the China-produced DDR5 chips",
-      "url": "https://www.tomshardware.com/pc-components/ram/chinese-memory-vendors-snub-industry-giants-in-favor-of-homegrown-ram-chips-samsung-micron-and-sk-hynix-face-a-chinese-supply-chain-revolt",
-      "source": "Tom's Hardware UK",
-      "domain": "tomshardware.com",
-      "published_at": "2026-06-17T09:30:00Z",
-      "importance": 62,
+      "theme": "光通訊與矽光子",
+      "title": "矽光子公司警告歐洲缺乏將研究轉化為商業成功的基礎設施",
+      "summary": "基石光子創新中心本週發布的研究表明，如果不緊急宣傳，原型設計和擴大基礎設施規模方面的挑戰可能會阻礙矽光子 (SiPh) 行業在全球主要市場的成長…",
+      "original_title": "Silicon photonics firms warn Europe lacks infrastructure to turn research into commercial success",
+      "url": "https://biztoc.com/x/8e1d6420a7630fb5",
+      "source": "Biztoc.com",
+      "domain": "biztoc.com",
+      "published_at": "2026-06-19T10:55:23Z",
+      "importance": 60,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "HBM",
-        "記憶體"
+        "光通訊",
+        "CPO",
+        "矽光子"
       ],
       "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
       ],
       "related_models": [
         "003",
@@ -710,7 +713,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "07b48def279754ce",
@@ -1084,6 +1087,41 @@
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "9472d159c38ee3e4",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "中國記憶體品牌放棄三星和美光，轉而採用國產長芯儲存和長江儲存晶片——海盜船、惠普和戴爾已經採用中國生產的 DDR5 晶片",
+      "summary": "中國記憶體品牌光威和金百達已開始使用國產晶片生產 DDR5 記憶體套件，以取代三星、美光或 SK 海力士 DRAM。",
+      "original_title": "Chinese memory brands ditch Samsung and Micron for homegrown CXMT and YMTC silicon — Corsair, HP, and Dell are already adopting the China-produced DDR5 chips",
+      "url": "https://www.tomshardware.com/pc-components/ram/chinese-memory-vendors-snub-industry-giants-in-favor-of-homegrown-ram-chips-samsung-micron-and-sk-hynix-face-a-chinese-supply-chain-revolt",
+      "source": "Tom's Hardware UK",
+      "domain": "tomshardware.com",
+      "published_at": "2026-06-17T09:30:00Z",
+      "importance": 57,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "db35c01e77eeb901",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1096,6 +1134,44 @@
       "domain": "tomshardware.com",
       "published_at": "2026-06-16T11:00:00Z",
       "importance": 57,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "663446e116e60f25",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "蘋果和英特爾將合作在美國生產晶片",
+      "summary": "根據川普在 Truth Social 上發表的帖子，蘋果和英特爾將合作在美國設計和製造晶片。",
+      "original_title": "Apple and Intel will work together to manufacture chips in the US",
+      "url": "https://www.androidauthority.com/apple-intel-chip-manufacturing-us-3679258/",
+      "source": "Android Authority",
+      "domain": "androidauthority.com",
+      "published_at": "2026-06-19T09:34:11Z",
+      "importance": 55,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -1528,44 +1604,6 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "d5866341a26def1c",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "關於新任聯準會主席首次會議需要了解的三件事",
-      "summary": "凱文沃什 (Kevin Warsh) 自就任聯準會主席以來首次接受記者提問。  沃什和他的同事預計今天將維持利率穩定。",
-      "original_title": "3 things to know about the new Fed chief's first meeting",
-      "url": "https://www.npr.org/2026/06/17/nx-s1-5860084/fed-chief-warsh-first-fomc-meeting",
-      "source": "NPR",
-      "domain": "npr.org",
-      "published_at": "2026-06-17T09:00:00Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "f23460cbfae49551",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1864,6 +1902,44 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "d5866341a26def1c",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "關於新任聯準會主席首次會議需要了解的三件事",
+      "summary": "凱文沃什 (Kevin Warsh) 自就任聯準會主席以來首次接受記者提問。  沃什和他的同事預計今天將維持利率穩定。",
+      "original_title": "3 things to know about the new Fed chief's first meeting",
+      "url": "https://www.npr.org/2026/06/17/nx-s1-5860084/fed-chief-warsh-first-fomc-meeting",
+      "source": "NPR",
+      "domain": "npr.org",
+      "published_at": "2026-06-17T09:00:00Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "f814efae7dadce41",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2014,44 +2090,6 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "45c6944b46b06b36",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "Meta 為什麼要摧毀它的工程組織？",
-      "summary": "这家社交媒体巨头的领导层一直在其工程组织中以人工智能为推动力。我們報告發生的事情",
-      "original_title": "Why is Meta destroying its engineering organization?",
-      "url": "https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering",
-      "source": "Pragmaticengineer.com",
-      "domain": "newsletter.pragmaticengineer.com",
-      "published_at": "2026-06-16T16:42:32Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "24feee9d7f9ef8a8",
@@ -2396,44 +2434,6 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "52fb7d79288d36b4",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "谷歌正在與三星洽談採用 1.4 奈米和 2 奈米製程生產下一代「Icefish」TPU",
-      "summary": "谷歌的 Icefish TPU 可能會由三星和台積電分割，採用 1.4nm 計算晶片和 2nm 內存 I/O，目標生產時間表為 2028 年。在 TweakTown 繼續閱讀",
-      "original_title": "Google is in talks with Samsung to build next-gen 'Icefish' TPU on 1.4nm and 2nm process split",
-      "url": "https://www.tweaktown.com/news/112184/google-is-in-talks-with-samsung-to-build-next-gen-icefish-tpu-on-1-4nm-and-2nm-process-split/index.html",
-      "source": "TweakTown",
-      "domain": "tweaktown.com",
-      "published_at": "2026-06-15T01:30:05Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "2d6744af483fad40",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2635,7 +2635,7 @@
       "source": "Imil.net",
       "domain": "imil.net",
       "published_at": "2026-06-13T09:55:32Z",
-      "importance": 50,
+      "importance": 45,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -2659,7 +2659,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「AI伺服器」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     },
     {
       "id": "595d17e76e9414a6",
@@ -2673,7 +2673,7 @@
       "source": "Slate Magazine",
       "domain": "slate.com",
       "published_at": "2026-06-13T09:00:00Z",
-      "importance": 50,
+      "importance": 45,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -2697,7 +2697,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「總體風險」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     }
   ]
 }

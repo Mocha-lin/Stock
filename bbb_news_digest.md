@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-20T08:30:24.098274+00:00
+> 更新時間：2026-06-20T11:19:47.243584+00:00
 
 ### 🚀 獨家：華邦NOR快閃記憶體據報進入Nvidia供應鏈
 - **題材**: `AI伺服器` | **重要性**: `88`
@@ -165,12 +165,12 @@ The post Tower Semiconductor ships 5 million coherent photonic circuits to Marve
 
 ---
 
-### ⚖️ 中國記憶體品牌放棄三星和美光，轉而採用國產長芯儲存和長江儲存晶片——海盜船、惠普和戴爾已經採用中國生產的 DDR5 晶片
-- **題材**: `HBM記憶體` | **重要性**: `62`
-- **來源**: Tom's Hardware UK (2026-06-17T09:30:00Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 中國記憶體品牌光威和金百達已開始使用國產晶片生產 DDR5 記憶體套件，以取代三星、美光或 SK 海力士 DRAM。
-- [原文連結](https://www.tomshardware.com/pc-components/ram/chinese-memory-vendors-snub-industry-giants-in-favor-of-homegrown-ram-chips-samsung-micron-and-sk-hynix-face-a-chinese-supply-chain-revolt)
+### ⚖️ 矽光子公司警告歐洲缺乏將研究轉化為商業成功的基礎設施
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: Biztoc.com (2026-06-19T10:55:23Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 基石光子創新中心本週發布的研究表明，如果不緊急宣傳，原型設計和擴大基礎設施規模方面的挑戰可能會阻礙矽光子 (SiPh) 行業在全球主要市場的成長…
+- [原文連結](https://biztoc.com/x/8e1d6420a7630fb5)
 
 ---
 
