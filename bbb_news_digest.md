@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-21T05:53:37.247262+00:00
+> 更新時間：2026-06-21T11:45:35.112342+00:00
 
 ### 🚀 獨家：華邦NOR快閃記憶體據報進入Nvidia供應鏈
 - **題材**: `AI伺服器` | **重要性**: `83`
@@ -83,15 +83,6 @@ The post Tower Semiconductor ships 5 million coherent photonic circuits to Marve
 
 ---
 
-### 🚀 伊朗和平並沒有阻止央行提高借貸成本
-- **題材**: `總體風險` | **重要性**: `65`
-- **來源**: Yahoo Entertainment (2026-06-18T11:38:00Z)
-- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 作者：Balazs Koranyi 和 Leika Kihara 法蘭克福/東京，6 月 18 日（路透社）
-- [原文連結](https://finance.yahoo.com/economy/policy/articles/iran-peace-not-stopping-central-113800964.html)
-
----
-
 ### 🚀 SpaceX 如何與美光的設定相匹配，將價格快速提升 10 倍至 2000 美元。 SpaceX 下一階段的收入乘數
 - **題材**: `AI伺服器` | **重要性**: `65`
 - **來源**: Next Big Future (2026-06-18T02:18:54Z)
@@ -167,22 +158,30 @@ HBM4E 提供 16Gbps 頻寬…
 
 ---
 
-### 🚀 川普總統表示，蘋果和英特爾正在合作在美國製造晶片
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: 9to5Mac (2026-06-18T10:22:50Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 川普總統今晚在 TruthSocial 上證實了先前的傳聞：蘋果和英特爾已同意建立合作夥伴關係，英特爾將使用英特爾位於美國的製造工廠為未來的蘋果設備製造晶片。
-……的廣度和深度
-- [原文連結](https://9to5mac.com/2026/06/18/apple-intel-chip-manufacturing-american/)
+### 🚀 伊朗和平並沒有阻止央行提高借貸成本
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-06-18T11:38:00Z)
+- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 作者：Balazs Koranyi 和 Leika Kihara 法蘭克福/東京，6 月 18 日（路透社）
+- [原文連結](https://finance.yahoo.com/economy/policy/articles/iran-peace-not-stopping-central-113800964.html)
 
 ---
 
-### ⚖️ Tower Semiconductor 和 Marvell 交付了超過 500 萬個相干光子 IC
+### ⚖️ 在台積電苦苦應對需求之際，三星晶圓代工廠卻蓬勃發展——英偉達、特斯拉和高通成為新客戶
+- **題材**: `半導體先進製程` | **重要性**: `60`
+- **來源**: TechSpot (2026-06-17T18:23:00Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 根據《日經亞洲》報道，三星代工廠已收到Google、英偉達、特斯拉、AMD 和比亞迪的訂單或正在與他們進行談判，以製造基於 5nm 以下節點的先進半導體晶片。其中一些公司以前曾經工作過…
+- [原文連結](https://www.techspot.com/news/112800-samsung-foundry-booming-tsmc-struggles-demand-bags-nvidia.html)
+
+---
+
+### ⚠️ Nvidia 支援的光學供應商將晶圓產量提高 4 倍以滿足人工智慧互連需求
 - **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: GlobeNewswire (2026-06-18T09:30:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Tower 先進的矽光子平台可實現高頻寬、節能的資料中心連接以色列 MIGDAL HAEMEK，2026 年 6 月 18 日 -...
-- [原文連結](https://www.globenewswire.com/news-release/2026/06/18/3313991/0/en/Tower-Semiconductor-and-Marvell-Ship-Over-Five-Million-Coherent-Photonic-ICs.html)
+- **來源**: Theregister.com (2026-06-17T18:12:38Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Jensen 不能冒半導體供應鏈破壞人工智慧炒作列車的風險
+- [原文連結](https://www.theregister.com/networks/2026/06/17/nvidia-backed-optics-vendor-to-boost-wafer-output-by-4x-to-meet-ai-interconnect-demand/5257909)
 
 ---
 
