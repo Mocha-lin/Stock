@@ -1,17 +1,17 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-21T00:06:29.212848+00:00
+> 更新時間：2026-06-21T05:53:37.247262+00:00
 
 ### 🚀 獨家：華邦NOR快閃記憶體據報進入Nvidia供應鏈
-- **題材**: `AI伺服器` | **重要性**: `88`
+- **題材**: `AI伺服器` | **重要性**: `83`
 - **來源**: Digitimes (2026-06-18T04:14:01Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重大事件】可能顯著影響產業評價、EPS預期或資金流向。
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 據報道，隨著AI伺服器需求帶動記憶體消耗激增，加上Nvidia下一代Vera Rubin平台準備在2026年下半年批量出貨，華邦的NOR快閃記憶體首次進入Nvidia供應鏈。
 - [原文連結](https://www.digitimes.com/news/a20260618PD216/flash-winbond-nvidia-supply-chain-demand.html)
 
 ---
 
 ### 🚀 Chunghwa Leading Photonics targets SWIR testing demand in advanced packaging
-- **題材**: `半導體先進製程` | **重要性**: `83`
+- **題材**: `半導體先進製程` | **重要性**: `78`
 - **來源**: Digitimes (2026-06-14T01:43:19Z)
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 中華電信旗下中華領先光電科技將在台北興櫃掛牌上市。受工業 5.0 應用需求不斷增長的推動，該公司在 2026 年前四個月的收入和毛利率創下歷史新高。
@@ -47,15 +47,6 @@ The post Tower Semiconductor ships 5 million coherent photonic circuits to Marve
 
 ---
 
-### 🚀 SpaceX 如何與美光的設定相匹配，將價格快速提升 10 倍至 2000 美元。 SpaceX 下一階段的收入乘數
-- **題材**: `AI伺服器` | **重要性**: `70`
-- **來源**: Next Big Future (2026-06-18T02:18:54Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 如果 SPACEX 跟隨美光的收入和利潤激增，那麼它的估值就會被低估。 SPACEX 距離將其人工智慧收入從 4 月的每年 10 億美元提高到 2026 年 10 月的每年 330 億美元還有 4 個月的時間。吉瓦乘以每吉瓦數十億 = 每…收入
-- [原文連結](https://www.nextbigfuture.com/2026/06/how-spacex-matches-the-micron-setup-for-a-fast-10x-to-2000-revenue-multipliers-for-next-levels-for-spacex.html)
-
----
-
 ### 🚀 與 Nvidia 簽訂六年協議後，SharonAI 股價飆升。 SHAZ 股票需要更多才能成為長期買入的股票。
 - **題材**: `AI伺服器` | **重要性**: `70`
 - **來源**: Barchart.com (2026-06-16T18:36:42Z)
@@ -83,15 +74,6 @@ The post Tower Semiconductor ships 5 million coherent photonic circuits to Marve
 
 ---
 
-### ⚖️ SK海力士運送HBM4E樣品
-- **題材**: `HBM記憶體` | **重要性**: `68`
-- **來源**: Digitimes (2026-06-18T01:06:38Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: SK 海力士已開始向主要客戶提供下一代高頻寬記憶體 HBM4E 樣品。這家韓國晶片製造商表示，12 層產品已按期交付。
-- [原文連結](https://www.digitimes.com/news/a20260618VL200/sk-hynix-shipping-hbm4-data-production.html)
-
----
-
 ### ⚖️ 卓越電鍍技術轉向AI液冷和CPO
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
 - **來源**: Digitimes (2026-06-17T01:30:00Z)
@@ -107,6 +89,24 @@ The post Tower Semiconductor ships 5 million coherent photonic circuits to Marve
 - **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 作者：Balazs Koranyi 和 Leika Kihara 法蘭克福/東京，6 月 18 日（路透社）
 - [原文連結](https://finance.yahoo.com/economy/policy/articles/iran-peace-not-stopping-central-113800964.html)
+
+---
+
+### 🚀 SpaceX 如何與美光的設定相匹配，將價格快速提升 10 倍至 2000 美元。 SpaceX 下一階段的收入乘數
+- **題材**: `AI伺服器` | **重要性**: `65`
+- **來源**: Next Big Future (2026-06-18T02:18:54Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 如果 SPACEX 跟隨美光的收入和利潤激增，那麼它的估值就會被低估。 SPACEX 距離將其人工智慧收入從 4 月的每年 10 億美元提高到 2026 年 10 月的每年 330 億美元還有 4 個月的時間。吉瓦乘以每吉瓦數十億 = 每…收入
+- [原文連結](https://www.nextbigfuture.com/2026/06/how-spacex-matches-the-micron-setup-for-a-fast-10x-to-2000-revenue-multipliers-for-next-levels-for-spacex.html)
+
+---
+
+### ⚖️ SK海力士運送HBM4E樣品
+- **題材**: `HBM記憶體` | **重要性**: `63`
+- **來源**: Digitimes (2026-06-18T01:06:38Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: SK 海力士已開始向主要客戶提供下一代高頻寬記憶體 HBM4E 樣品。這家韓國晶片製造商表示，12 層產品已按期交付。
+- [原文連結](https://www.digitimes.com/news/a20260618VL200/sk-hynix-shipping-hbm4-data-production.html)
 
 ---
 
