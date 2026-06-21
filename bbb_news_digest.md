@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-21T11:45:35.112342+00:00
+> 更新時間：2026-06-21T15:05:15.108585+00:00
 
 ### 🚀 獨家：華邦NOR快閃記憶體據報進入Nvidia供應鏈
 - **題材**: `AI伺服器` | **重要性**: `83`
@@ -37,16 +37,6 @@
 
 ---
 
-### ⚖️ Tower Semiconductor ships 5 million coherent photonic circuits to Marvell for AI data centers
-- **題材**: `光通訊與矽光子` | **重要性**: `70`
-- **來源**: Crypto Briefing (2026-06-18T11:57:24Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Tower's milestone in photonic circuits enhances AI data center efficiency, signaling a shift towards integrated, high-bandwidth optical solutions.
-The post Tower Semiconductor ships 5 million coherent photonic circuits to Marvell for AI data centers appeared …
-- [原文連結](https://cryptobriefing.com/tower-semiconductor-photonic-circuits-marvell-ai/)
-
----
-
 ### 🚀 與 Nvidia 簽訂六年協議後，SharonAI 股價飆升。 SHAZ 股票需要更多才能成為長期買入的股票。
 - **題材**: `AI伺服器` | **重要性**: `70`
 - **來源**: Barchart.com (2026-06-16T18:36:42Z)
@@ -80,6 +70,25 @@ The post Tower Semiconductor ships 5 million coherent photonic circuits to Marve
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 卓越電鍍科技董事長華雷傑表示，該公司正在將更多資源轉移到人工智慧液冷、CPO通訊模組和人工智慧資料中心的近線硬碟上，同時擴大在泰國的生產，並在…
 - [原文連結](https://www.digitimes.com/news/a20260616PD230/liquid-cooling-cpo-production-chairman-gold.html)
+
+---
+
+### 🚀 Amkor 因台灣半導體交易而股價飆升。如何在這裡玩 AMKR 股票。
+- **題材**: `半導體先進製程` | **重要性**: `65`
+- **來源**: Barchart.com (2026-06-20T13:30:02Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Amkor Technology 在與台積電建立 10 年變革性合作夥伴關係後，引發了強勁的反彈。你現在應該採取什麼行動？
+- [原文連結](https://www.barchart.com/story/news/2566779/amkor-soared-on-a-taiwan-semi-deal-how-to-play-amkr-stock-here)
+
+---
+
+### ⚖️ Tower Semiconductor ships 5 million coherent photonic circuits to Marvell for AI data centers
+- **題材**: `光通訊與矽光子` | **重要性**: `65`
+- **來源**: Crypto Briefing (2026-06-18T11:57:24Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Tower's milestone in photonic circuits enhances AI data center efficiency, signaling a shift towards integrated, high-bandwidth optical solutions.
+The post Tower Semiconductor ships 5 million coherent photonic circuits to Marvell for AI data centers appeared …
+- [原文連結](https://cryptobriefing.com/tower-semiconductor-photonic-circuits-marvell-ai/)
 
 ---
 
@@ -173,15 +182,6 @@ HBM4E 提供 16Gbps 頻寬…
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 根據《日經亞洲》報道，三星代工廠已收到Google、英偉達、特斯拉、AMD 和比亞迪的訂單或正在與他們進行談判，以製造基於 5nm 以下節點的先進半導體晶片。其中一些公司以前曾經工作過…
 - [原文連結](https://www.techspot.com/news/112800-samsung-foundry-booming-tsmc-struggles-demand-bags-nvidia.html)
-
----
-
-### ⚠️ Nvidia 支援的光學供應商將晶圓產量提高 4 倍以滿足人工智慧互連需求
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: Theregister.com (2026-06-17T18:12:38Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Jensen 不能冒半導體供應鏈破壞人工智慧炒作列車的風險
-- [原文連結](https://www.theregister.com/networks/2026/06/17/nvidia-backed-optics-vendor-to-boost-wafer-output-by-4x-to-meet-ai-interconnect-demand/5257909)
 
 ---
 
