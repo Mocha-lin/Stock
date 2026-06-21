@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-20T20:09:16.894555+00:00
+> 更新時間：2026-06-21T00:06:29.212848+00:00
 
 ### 🚀 獨家：華邦NOR快閃記憶體據報進入Nvidia供應鏈
 - **題材**: `AI伺服器` | **重要性**: `88`
@@ -92,15 +92,6 @@ The post Tower Semiconductor ships 5 million coherent photonic circuits to Marve
 
 ---
 
-### ⚖️ SK 海力士廢除學位規則以吸引人工智慧晶片人才
-- **題材**: `HBM記憶體` | **重要性**: `68`
-- **來源**: Digitimes (2026-06-17T23:52:43Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: SK 海力士在新員工的常規招聘流程中取消了學歷要求，這家儲存晶片巨頭尋求加強其在高頻寬記憶體 (HBM) 領域的領先地位，並為快速變化的人工智慧半導體市場確保人才。行業 …
-- [原文連結](https://www.digitimes.com/news/a20260617PD227/sk-hynix-talent-hbm-market-competitiveness.html)
-
----
-
 ### ⚖️ 卓越電鍍技術轉向AI液冷和CPO
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
 - **來源**: Digitimes (2026-06-17T01:30:00Z)
@@ -116,6 +107,15 @@ The post Tower Semiconductor ships 5 million coherent photonic circuits to Marve
 - **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 作者：Balazs Koranyi 和 Leika Kihara 法蘭克福/東京，6 月 18 日（路透社）
 - [原文連結](https://finance.yahoo.com/economy/policy/articles/iran-peace-not-stopping-central-113800964.html)
+
+---
+
+### ⚖️ SK 海力士廢除學位規則以吸引人工智慧晶片人才
+- **題材**: `HBM記憶體` | **重要性**: `63`
+- **來源**: Digitimes (2026-06-17T23:52:43Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: SK 海力士在新員工的常規招聘流程中取消了學歷要求，這家儲存晶片巨頭尋求加強其在高頻寬記憶體 (HBM) 領域的領先地位，並為快速變化的人工智慧半導體市場確保人才。行業 …
+- [原文連結](https://www.digitimes.com/news/a20260617PD227/sk-hynix-talent-hbm-market-competitiveness.html)
 
 ---
 
