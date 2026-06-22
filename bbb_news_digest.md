@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-21T20:19:28.445600+00:00
+> 更新時間：2026-06-22T00:12:16.198632+00:00
 
 ### 🚀 獨家：華邦NOR快閃記憶體據報進入Nvidia供應鏈
 - **題材**: `AI伺服器` | **重要性**: `83`
@@ -7,15 +7,6 @@
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 據報道，隨著AI伺服器需求帶動記憶體消耗激增，加上Nvidia下一代Vera Rubin平台準備在2026年下半年批量出貨，華邦的NOR快閃記憶體首次進入Nvidia供應鏈。
 - [原文連結](https://www.digitimes.com/news/a20260618PD216/flash-winbond-nvidia-supply-chain-demand.html)
-
----
-
-### 🚀 Chunghwa Leading Photonics targets SWIR testing demand in advanced packaging
-- **題材**: `半導體先進製程` | **重要性**: `78`
-- **來源**: Digitimes (2026-06-14T01:43:19Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 中華電信旗下中華領先光電科技將在台北興櫃掛牌上市。受工業 5.0 應用需求不斷增長的推動，該公司在 2026 年前四個月的收入和毛利率創下歷史新高。
-- [原文連結](https://www.digitimes.com/news/a20260612PD223/demand-packaging-testing-inspection-revenue.html)
 
 ---
 
@@ -137,23 +128,22 @@ The post Tower Semiconductor ships 5 million coherent photonic circuits to Marve
 
 ---
 
+### ⚖️ 人工智慧需求不斷成長，中國收緊銦出口檢查
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: Crypto Briefing (2026-06-19T12:42:31Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 中國的銦出口檢查可能重塑全球科技供應鏈，促使投資和創新轉變，以減輕依賴。
+《Crypto Briefing》首先報導了中國在人工智慧需求不斷增長的情況下收緊銦出口檢查的消息。
+- [原文連結](https://cryptobriefing.com/china-indium-export-checks-ai-demand/)
+
+---
+
 ### ⚖️ 矽光子公司警告歐洲缺乏將研究轉化為商業成功的基礎設施
 - **題材**: `光通訊與矽光子` | **重要性**: `60`
 - **來源**: Biztoc.com (2026-06-19T10:55:23Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 基石光子創新中心本週發布的研究表明，如果不緊急宣傳，原型設計和擴大基礎設施規模方面的挑戰可能會阻礙矽光子 (SiPh) 行業在全球主要市場的成長…
 - [原文連結](https://biztoc.com/x/8e1d6420a7630fb5)
-
----
-
-### ⚖️ SK hynix 發布 HBM4E 記憶體樣品：每腳位 16Gbps，每 12 層堆疊 48GB 容量
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: GSMArena.com (2026-06-18T21:03:02Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: AI 硬體不使用常規 DDR 記憶體——速度太慢。相反，首選格式是高頻寬記憶體或 HBM。 SK 海力士剛宣布已開始向客戶提供最新 HBM4E 的樣品。
-
-HBM4E 提供 16Gbps 頻寬…
-- [原文連結](https://www.gsmarena.com/sk_hynix_ships_samples_of_its_hbm4e_memory_16gbps_per_pin_48gb_capacity_per_12layer_stack-news-73336.php)
 
 ---
 
@@ -181,6 +171,16 @@ HBM4E 提供 16Gbps 頻寬…
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Jensen 不能冒半導體供應鏈破壞人工智慧炒作列車的風險
 - [原文連結](https://www.theregister.com/networks/2026/06/17/nvidia-backed-optics-vendor-to-boost-wafer-output-by-4x-to-meet-ai-interconnect-demand/5257909)
+
+---
+
+### 🚀 Aehr Test Systems 股價攀升新矽光子生產訂單
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: Biztoc.com (2026-06-17T13:39:37Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Aehr Test Systems（NASDAQ：AEHR）宣布從矽光子市場主要客戶那裡獲得了其 FOX-XP 晶圓級老化系統的後續生產訂單，股價上漲 11%。
+該訂單凸顯了對半導體的需求不斷增長...
+- [原文連結](https://biztoc.com/x/76d2c81384248b0b)
 
 ---
 
