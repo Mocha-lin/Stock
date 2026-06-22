@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-22T14:40:34.149751+00:00
+> 更新時間：2026-06-22T17:22:27.514698+00:00
 
 ### 🚀 獨家：華邦NOR快閃記憶體據報進入Nvidia供應鏈
 - **題材**: `AI伺服器` | **重要性**: `83`
@@ -16,24 +16,6 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: TSMC is accelerating its advanced packaging roadmap for AI chips, expanding CoWoS capacity while publicly disclosing new progress in glass substrate technology. The company is also signaling that next-generation packaging competition is shifting from CoWoS to…
 - [原文連結](https://www.digitimes.com/news/a20260616PD217/tsmc-innolux-ibiden-packaging-cowos.html)
-
----
-
-### 🚀 在華爾街流行之前立即購買 3 隻股票
-- **題材**: `光通訊與矽光子` | **重要性**: `70`
-- **來源**: 24/7 Wall St. (2026-06-19T17:05:23Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 人工智慧基礎設施貿易已經擴大。 NVIDIA（納斯達克股票代碼：NVDA）仍然佔據主導地位，但提供連接、電源和…的二階衍生名稱...
-- [原文連結](https://247wallst.com/investing/2026/06/19/3-stocks-to-buy-now-before-wall-street-catches-on/)
-
----
-
-### 🚀 與 Nvidia 簽訂六年協議後，SharonAI 股價飆升。 SHAZ 股票需要更多才能成為長期買入的股票。
-- **題材**: `AI伺服器` | **重要性**: `70`
-- **來源**: Barchart.com (2026-06-16T18:36:42Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: SharonAI Holdings 與 Nvidia 簽訂了為期六年的計算協議，將建造 72 MW 的新資料中心容量，並將規模擴展到 40,000 個 Grace Blackwell GB300 GP...
-- [原文連結](https://www.barchart.com/story/news/2500567/sharonai-shares-surged-after-securing-a-six-year-agreement-with-nvidia-shaz-stock-needs-a-lot-more-to-become-a-long-term-buy)
 
 ---
 
@@ -61,6 +43,15 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Amkor Technology 在與台積電建立 10 年變革性合作夥伴關係後，引發了強勁的反彈。你現在應該採取什麼行動？
 - [原文連結](https://www.barchart.com/story/news/2566779/amkor-soared-on-a-taiwan-semi-deal-how-to-play-amkr-stock-here)
+
+---
+
+### 🚀 在華爾街流行之前立即購買 3 隻股票
+- **題材**: `光通訊與矽光子` | **重要性**: `65`
+- **來源**: 24/7 Wall St. (2026-06-19T17:05:23Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 人工智慧基礎設施貿易已經擴大。 NVIDIA（納斯達克股票代碼：NVDA）仍然佔據主導地位，但提供連接、電源和…的二階衍生名稱...
+- [原文連結](https://247wallst.com/investing/2026/06/19/3-stocks-to-buy-now-before-wall-street-catches-on/)
 
 ---
 
@@ -134,15 +125,6 @@ The post Tower Semiconductor ships 5 million coherent photonic circuits to Marve
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 隨著時機成為全球記憶體市場的關鍵競爭因素，SK 海力士距離向主要客戶交付第七代高頻寬記憶體 HBM4E 又近了一步。據Newsis報道，業內消息人士報道稱，SK海力士最近...
 - [原文連結](https://www.digitimes.com/news/a20260615PD216/sk-hynix-2026-shipments-shipping-samsung.html)
-
----
-
-### ⚖️ Tensordyne 在對數數學上下了很大的賭注以擊敗 Nvidia
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: Theregister.com (2026-06-19T15:30:00Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 當你只需對數加法時，誰還需要算密集型乘法
-- [原文連結](https://www.theregister.com/systems/2026/06/19/tensordyne-makes-a-big-bet-on-log-math-to-beat-nvidia/5258662)
 
 ---
 
