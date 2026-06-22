@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-22T00:12:16.198632+00:00
+> 更新時間：2026-06-22T06:22:24.835231+00:00
 
 ### 🚀 獨家：華邦NOR快閃記憶體據報進入Nvidia供應鏈
 - **題材**: `AI伺服器` | **重要性**: `83`
@@ -34,24 +34,6 @@
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: SharonAI Holdings 與 Nvidia 簽訂了為期六年的計算協議，將建造 72 MW 的新資料中心容量，並將規模擴展到 40,000 個 Grace Blackwell GB300 GP...
 - [原文連結](https://www.barchart.com/story/news/2500567/sharonai-shares-surged-after-securing-a-six-year-agreement-with-nvidia-shaz-stock-needs-a-lot-more-to-become-a-long-term-buy)
-
----
-
-### ⚖️ SPACEXAI 5 個資料中心位置 + 更多能源 + Rubin 晶片 = 300 美元 + 十億收入運行率
-- **題材**: `AI伺服器` | **重要性**: `70`
-- **來源**: Next Big Future (2026-06-15T00:23:15Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: SPACEXAI 擁有五個資料中心位置。三個地面資料中心站點，第四個是特斯拉的分散式人工智慧資料中心，第五個是太空人工智慧資料中心。地面/陸地：3–5 GW這是中短期容量的大部分。核心彩色…
-- [原文連結](https://www.nextbigfuture.com/2026/06/spacexai-5-data-center-locations-more-energy-rubin-chips-300-billion-revenue-runrate.html)
-
----
-
-### ⚖️ 據報道 SK 海力士在美國就 HBM 供應和當地投資計劃舉行會談
-- **題材**: `HBM記憶體` | **重要性**: `68`
-- **來源**: Digitimes (2026-06-19T03:23:13Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: SK Hynix is reported to have held a private meeting with U.S. Deputy Secretary of State Allison Hooker, with industry sources speculating the discussions covered high-bandwidth memory cooperation with major U.S. technology firms and potential semiconductor in…
-- [原文連結](https://www.digitimes.com/news/a20260618PD233/sk-hynix-hbm-investment-shipments-supply-chain.html)
 
 ---
 
@@ -92,6 +74,24 @@ The post Tower Semiconductor ships 5 million coherent photonic circuits to Marve
 
 ---
 
+### ⚖️ SPACEXAI 5 個資料中心位置 + 更多能源 + Rubin 晶片 = 300 美元 + 十億收入運行率
+- **題材**: `AI伺服器` | **重要性**: `65`
+- **來源**: Next Big Future (2026-06-15T00:23:15Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: SPACEXAI 擁有五個資料中心位置。三個地面資料中心站點，第四個是特斯拉的分散式人工智慧資料中心，第五個是太空人工智慧資料中心。地面/陸地：3–5 GW這是中短期容量的大部分。核心彩色…
+- [原文連結](https://www.nextbigfuture.com/2026/06/spacexai-5-data-center-locations-more-energy-rubin-chips-300-billion-revenue-runrate.html)
+
+---
+
+### ⚖️ 據報道 SK 海力士在美國就 HBM 供應和當地投資計劃舉行會談
+- **題材**: `HBM記憶體` | **重要性**: `63`
+- **來源**: Digitimes (2026-06-19T03:23:13Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: SK Hynix is reported to have held a private meeting with U.S. Deputy Secretary of State Allison Hooker, with industry sources speculating the discussions covered high-bandwidth memory cooperation with major U.S. technology firms and potential semiconductor in…
+- [原文連結](https://www.digitimes.com/news/a20260618PD233/sk-hynix-hbm-investment-shipments-supply-chain.html)
+
+---
+
 ### ⚖️ SK海力士運送HBM4E樣品
 - **題材**: `HBM記憶體` | **重要性**: `63`
 - **來源**: Digitimes (2026-06-18T01:06:38Z)
@@ -107,6 +107,15 @@ The post Tower Semiconductor ships 5 million coherent photonic circuits to Marve
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: SK 海力士在新員工的常規招聘流程中取消了學歷要求，這家儲存晶片巨頭尋求加強其在高頻寬記憶體 (HBM) 領域的領先地位，並為快速變化的人工智慧半導體市場確保人才。行業 …
 - [原文連結](https://www.digitimes.com/news/a20260617PD227/sk-hynix-talent-hbm-market-competitiveness.html)
+
+---
+
+### ⚖️ 台積電PLP時間表面臨台灣業界人士質疑
+- **題材**: `半導體先進製程` | **重要性**: `63`
+- **來源**: Digitimes (2026-06-16T02:47:10Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: A South Korean media report claiming TSMC is preparing to launch panel-level packaging at mass-production scale as early as 2027 has drawn skepticism from Taiwan industry sources, who say the timeline is likely premature and that the company remains focused o…
+- [原文連結](https://www.digitimes.com/news/a20260616VL205/tsmc-taiwan-packaging-production-foplp.html)
 
 ---
 
@@ -171,16 +180,6 @@ The post Tower Semiconductor ships 5 million coherent photonic circuits to Marve
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Jensen 不能冒半導體供應鏈破壞人工智慧炒作列車的風險
 - [原文連結](https://www.theregister.com/networks/2026/06/17/nvidia-backed-optics-vendor-to-boost-wafer-output-by-4x-to-meet-ai-interconnect-demand/5257909)
-
----
-
-### 🚀 Aehr Test Systems 股價攀升新矽光子生產訂單
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: Biztoc.com (2026-06-17T13:39:37Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Aehr Test Systems（NASDAQ：AEHR）宣布從矽光子市場主要客戶那裡獲得了其 FOX-XP 晶圓級老化系統的後續生產訂單，股價上漲 11%。
-該訂單凸顯了對半導體的需求不斷增長...
-- [原文連結](https://biztoc.com/x/76d2c81384248b0b)
 
 ---
 
