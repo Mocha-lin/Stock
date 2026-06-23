@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-06-23T15:42:18.365091+00:00",
+  "generated_at": "2026-06-23T19:02:07.496724+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 71,
@@ -264,6 +264,44 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "716052bc2f81a994",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "油價上漲導致加拿大通膨創29個月新高",
+      "summary": "汽油價格領漲，年增率達 33.2%。",
+      "original_title": "Canada’s inflation hits 29-month high amid heightened oil prices",
+      "url": "https://www.aljazeera.com/economy/2026/6/22/canadas-inflation-hits-29-month-high-amid-heightened-oil-prices",
+      "source": "Al Jazeera English",
+      "domain": "aljazeera.com",
+      "published_at": "2026-06-22T16:24:55Z",
+      "importance": 65,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "f07d74b8d1e76a33",
@@ -1531,44 +1569,6 @@
       "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "a61b22ddd0c03ef3",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "蘋果 2027 年傳聞：帶有 AI 相機的 AirPods 和第二款折疊 iPhone",
-      "summary": "現在我們已經了解了 WWDC 以及蘋果平台上即將推出的所有人工智能功能，彭博社記者馬克·古爾曼 (Mark Gurman) 獲得了有關傳聞中的新硬件的更多詳細信息，例如他之前寫過的配備攝像頭的 AirPods。他說他們目前…",
-      "original_title": "Apple 2027 rumors: AirPods with cameras for AI and the second folding iPhone",
-      "url": "https://www.theverge.com/tech/950826/apple-airpod-camera-ai-foldable-iphone-rumor",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "published_at": "2026-06-16T17:06:46Z",
-      "importance": 53,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "db35c01e77eeb901",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2060,44 +2060,6 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "e2f2b98012282300",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "航空燃油價格正在下降，但預計機票價格不會很快下降",
-      "summary": "航空燃油的平均價格已跌至與伊朗戰爭開始以來的最低點。但航空專家表示，機票價格可能居高不下，至少目前是如此。",
-      "original_title": "The price of jet fuel is falling, but don't expect airfares to follow any time soon",
-      "url": "https://www.npr.org/2026/06/18/nx-s1-5860631/jet-fuel-airfare-iran-war",
-      "source": "NPR",
-      "domain": "npr.org",
-      "published_at": "2026-06-18T09:00:00Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "339ba2791b3baabb",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2285,120 +2247,6 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "b2924f3fc56a9385",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "油價可能不會很快恢復正常",
-      "summary": "紙上重新開放霍爾木茲海峽與實際恢復石油流通之間存在很大差異。",
-      "original_title": "Oil Prices Might Not Go Back to Normal Anytime Soon",
-      "url": "https://www.theatlantic.com/economy/2026/06/trump-iran-deal-oil/687564/",
-      "source": "The Atlantic",
-      "domain": "theatlantic.com",
-      "published_at": "2026-06-16T18:58:00Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "db51ba77081be4ff",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "親愛的泰瑞達股票粉絲，請在您的日曆上標記 6 月 22 日",
-      "summary": "泰瑞達 (Teradyne) 將於 6 月 22 日開市前加入納斯達克 100 指數。",
-      "original_title": "Dear Teradyne Stock Fans, Mark Your Calendars for June 22",
-      "url": "https://www.barchart.com/story/news/2500416/dear-teradyne-stock-fans-mark-your-calendars-for-june-22",
-      "source": "Barchart.com",
-      "domain": "barchart.com",
-      "published_at": "2026-06-16T18:28:00Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "bbc65dea6e3d0981",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "蘋果 2028 年 iPhone 將採用 1.4nm A22 Pro 晶片",
-      "summary": "根據彭博社報道，蘋果將在 2028 年高階 iPhone 機型中從 2 奈米晶片過渡到 1.4 奈米晶片。晶片供應商台積電 (TSMC) 將生產蘋果 A22 Pro 的大部分晶片，但蘋果也正在考慮…",
-      "original_title": "Apple's 2028 iPhones to Use 1.4nm A22 Pro Chips",
-      "url": "https://www.macrumors.com/2026/06/16/2028-iphones-a22-pro-chips/",
-      "source": "MacRumors",
-      "domain": "macrumors.com",
-      "published_at": "2026-06-16T17:03:42Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "7975f320cd5ad8b7",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2470,6 +2318,158 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "a61b22ddd0c03ef3",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "蘋果 2027 年傳聞：帶有 AI 相機的 AirPods 和第二款折疊 iPhone",
+      "summary": "現在我們已經了解了 WWDC 以及蘋果平台上即將推出的所有人工智能功能，彭博社記者馬克·古爾曼 (Mark Gurman) 獲得了有關傳聞中的新硬件的更多詳細信息，例如他之前寫過的配備攝像頭的 AirPods。他說他們目前…",
+      "original_title": "Apple 2027 rumors: AirPods with cameras for AI and the second folding iPhone",
+      "url": "https://www.theverge.com/tech/950826/apple-airpod-camera-ai-foldable-iphone-rumor",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "published_at": "2026-06-16T17:06:46Z",
+      "importance": 48,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
+    },
+    {
+      "id": "b2924f3fc56a9385",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "油價可能不會很快恢復正常",
+      "summary": "紙上重新開放霍爾木茲海峽與實際恢復石油流通之間存在很大差異。",
+      "original_title": "Oil Prices Might Not Go Back to Normal Anytime Soon",
+      "url": "https://www.theatlantic.com/economy/2026/06/trump-iran-deal-oil/687564/",
+      "source": "The Atlantic",
+      "domain": "theatlantic.com",
+      "published_at": "2026-06-16T18:58:00Z",
+      "importance": 45,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
+    },
+    {
+      "id": "db51ba77081be4ff",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "親愛的泰瑞達股票粉絲，請在您的日曆上標記 6 月 22 日",
+      "summary": "泰瑞達 (Teradyne) 將於 6 月 22 日開市前加入納斯達克 100 指數。",
+      "original_title": "Dear Teradyne Stock Fans, Mark Your Calendars for June 22",
+      "url": "https://www.barchart.com/story/news/2500416/dear-teradyne-stock-fans-mark-your-calendars-for-june-22",
+      "source": "Barchart.com",
+      "domain": "barchart.com",
+      "published_at": "2026-06-16T18:28:00Z",
+      "importance": 45,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
+    },
+    {
+      "id": "bbc65dea6e3d0981",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "蘋果 2028 年 iPhone 將採用 1.4nm A22 Pro 晶片",
+      "summary": "根據彭博社報道，蘋果將在 2028 年高階 iPhone 機型中從 2 奈米晶片過渡到 1.4 奈米晶片。晶片供應商台積電 (TSMC) 將生產蘋果 A22 Pro 的大部分晶片，但蘋果也正在考慮…",
+      "original_title": "Apple's 2028 iPhones to Use 1.4nm A22 Pro Chips",
+      "url": "https://www.macrumors.com/2026/06/16/2028-iphones-a22-pro-chips/",
+      "source": "MacRumors",
+      "domain": "macrumors.com",
+      "published_at": "2026-06-16T17:03:42Z",
+      "importance": 45,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     },
     {
       "id": "24feee9d7f9ef8a8",

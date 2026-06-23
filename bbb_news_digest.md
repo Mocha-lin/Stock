@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-23T15:42:18.365091+00:00
+> 更新時間：2026-06-23T19:02:07.496724+00:00
 
 ### ⚖️ MSScorps再次擴大台灣矽光子投資
 - **題材**: `光通訊與矽光子` | **重要性**: `73`
@@ -61,6 +61,15 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 韓國央行將三星電子和SK海力士的績效獎金列為對該國通膨穩定的風險。
 - [原文連結](https://www.tomshardware.com/tech-industry/bank-of-korea-flags-samsung-and-sk-hynix-chip-bonuses-as-a-national-inflation-risk)
+
+---
+
+### 🚀 油價上漲導致加拿大通膨創29個月新高
+- **題材**: `總體風險` | **重要性**: `65`
+- **來源**: Al Jazeera English (2026-06-22T16:24:55Z)
+- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 汽油價格領漲，年增率達 33.2%。
+- [原文連結](https://www.aljazeera.com/economy/2026/6/22/canadas-inflation-hits-29-month-high-amid-heightened-oil-prices)
 
 ---
 
@@ -170,15 +179,6 @@ The post Tower Semiconductor ships 5 million coherent photonic circuits to Marve
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 根據《日經亞洲》報道，三星代工廠已收到Google、英偉達、特斯拉、AMD 和比亞迪的訂單或正在與他們進行談判，以製造基於 5nm 以下節點的先進半導體晶片。其中一些公司以前曾經工作過…
 - [原文連結](https://www.techspot.com/news/112800-samsung-foundry-booming-tsmc-struggles-demand-bags-nvidia.html)
-
----
-
-### ⚠️ Nvidia 支援的光學供應商將晶圓產量提高 4 倍以滿足人工智慧互連需求
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: Theregister.com (2026-06-17T18:12:38Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Jensen 不能冒半導體供應鏈破壞人工智慧炒作列車的風險
-- [原文連結](https://www.theregister.com/networks/2026/06/17/nvidia-backed-optics-vendor-to-boost-wafer-output-by-4x-to-meet-ai-interconnect-demand/5257909)
 
 ---
 
