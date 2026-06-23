@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-22T21:26:58.916716+00:00
+> 更新時間：2026-06-23T00:07:00.080910+00:00
 
 ### 🚀 獨家：華邦NOR快閃記憶體據報進入Nvidia供應鏈
 - **題材**: `AI伺服器` | **重要性**: `83`
@@ -10,12 +10,39 @@
 
 ---
 
+### ⚖️ MSScorps再次擴大台灣矽光子投資
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-06-21T23:44:38Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 經濟部下屬的台灣投資辦公室 InvesTaiwan 已批准以 MSScorps 為首的四家公司擴大台灣投資計劃，該計劃將投資 15 億新台幣（4740 萬美元），並且是第三次提交申請。該公司
+- [原文連結](https://www.digitimes.com/news/a20260618PD236/taiwan-investment-msscorps-silicon-photonics.html)
+
+---
+
 ### ⚖️ TSMC reportedly teams with Ibiden, Innolux to push CoPoS, glass substrates
 - **題材**: `半導體先進製程` | **重要性**: `73`
 - **來源**: Digitimes (2026-06-16T04:35:11Z)
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: TSMC is accelerating its advanced packaging roadmap for AI chips, expanding CoWoS capacity while publicly disclosing new progress in glass substrate technology. The company is also signaling that next-generation packaging competition is shifting from CoWoS to…
 - [原文連結](https://www.digitimes.com/news/a20260616PD217/tsmc-innolux-ibiden-packaging-cowos.html)
+
+---
+
+### 🚀 與 Nvidia 簽訂六年協議後，SharonAI 股價飆升。 SHAZ 股票需要更多才能成為長期買入的股票。
+- **題材**: `AI伺服器` | **重要性**: `70`
+- **來源**: Barchart.com (2026-06-16T18:36:42Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: SharonAI Holdings 與 Nvidia 簽訂了為期六年的計算協議，將建造 72 MW 的新資料中心容量，並將規模擴展到 40,000 個 Grace Blackwell GB300 GP...
+- [原文連結](https://www.barchart.com/story/news/2500567/sharonai-shares-surged-after-securing-a-six-year-agreement-with-nvidia-shaz-stock-needs-a-lot-more-to-become-a-long-term-buy)
+
+---
+
+### ⚖️ 宏康加大矽光子測試投資，首個系統將於八月交付
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-06-21T23:44:08Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 半導體測試分析服務商宏康於6月18日召開年度股東大會，董事長謝永芬表示，公司已開始投資矽光子晶圓及晶片光電分析平台，以期…
+- [原文連結](https://www.digitimes.com/news/a20260618PD229/testing-silicon-photonics-2026-cpo.html)
 
 ---
 
@@ -46,6 +73,15 @@
 
 ---
 
+### 🚀 交易員加大對鷹派聯準會升息的押注
+- **題材**: `總體風險` | **重要性**: `65`
+- **來源**: The Times of India (2026-06-20T02:18:58Z)
+- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 交易員現在完全預計聯準會將在 9 月升息 25 個基點，這是由於油價飆升引發的新一輪通膨擔憂所推動的。新任聯準會主席凱文沃許對高通膨的堅定立場支撐了…
+- [原文連結](https://economictimes.indiatimes.com/markets/us-stocks/news/traders-boost-us-rate-hike-bets-on-hawkish-fed/articleshow/131869433.cms)
+
+---
+
 ### 🚀 在華爾街流行之前立即購買 3 隻股票
 - **題材**: `光通訊與矽光子` | **重要性**: `65`
 - **來源**: 24/7 Wall St. (2026-06-19T17:05:23Z)
@@ -71,15 +107,6 @@ The post Tower Semiconductor ships 5 million coherent photonic circuits to Marve
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 如果 SPACEX 跟隨美光的收入和利潤激增，那麼它的估值就會被低估。 SPACEX 距離將其人工智慧收入從 4 月的每年 10 億美元提高到 2026 年 10 月的每年 330 億美元還有 4 個月的時間。吉瓦乘以每吉瓦數十億 = 每…收入
 - [原文連結](https://www.nextbigfuture.com/2026/06/how-spacex-matches-the-micron-setup-for-a-fast-10x-to-2000-revenue-multipliers-for-next-levels-for-spacex.html)
-
----
-
-### ⚖️ SPACEXAI 5 個資料中心位置 + 更多能源 + Rubin 晶片 = 300 美元 + 十億收入運行率
-- **題材**: `AI伺服器` | **重要性**: `65`
-- **來源**: Next Big Future (2026-06-15T00:23:15Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: SPACEXAI 擁有五個資料中心位置。三個地面資料中心站點，第四個是特斯拉的分散式人工智慧資料中心，第五個是太空人工智慧資料中心。地面/陸地：3–5 GW這是中短期容量的大部分。核心彩色…
-- [原文連結](https://www.nextbigfuture.com/2026/06/spacexai-5-data-center-locations-more-energy-rubin-chips-300-billion-revenue-runrate.html)
 
 ---
 
@@ -116,15 +143,6 @@ The post Tower Semiconductor ships 5 million coherent photonic circuits to Marve
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: A South Korean media report claiming TSMC is preparing to launch panel-level packaging at mass-production scale as early as 2027 has drawn skepticism from Taiwan industry sources, who say the timeline is likely premature and that the company remains focused o…
 - [原文連結](https://www.digitimes.com/news/a20260616VL205/tsmc-taiwan-packaging-production-foplp.html)
-
----
-
-### ⚖️ 據報導 SK Hynix 已為 Nvidia 準備好 HBM4E 樣品，三星領先
-- **題材**: `HBM記憶體` | **重要性**: `63`
-- **來源**: Digitimes (2026-06-15T21:54:54Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 隨著時機成為全球記憶體市場的關鍵競爭因素，SK 海力士距離向主要客戶交付第七代高頻寬記憶體 HBM4E 又近了一步。據Newsis報道，業內消息人士報道稱，SK海力士最近...
-- [原文連結](https://www.digitimes.com/news/a20260615PD216/sk-hynix-2026-shipments-shipping-samsung.html)
 
 ---
 
