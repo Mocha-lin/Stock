@@ -1,14 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-23T12:08:14.713347+00:00
-
-### 🚀 獨家：華邦NOR快閃記憶體據報進入Nvidia供應鏈
-- **題材**: `AI伺服器` | **重要性**: `83`
-- **來源**: Digitimes (2026-06-18T04:14:01Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 據報道，隨著AI伺服器需求帶動記憶體消耗激增，加上Nvidia下一代Vera Rubin平台準備在2026年下半年批量出貨，華邦的NOR快閃記憶體首次進入Nvidia供應鏈。
-- [原文連結](https://www.digitimes.com/news/a20260618PD216/flash-winbond-nvidia-supply-chain-demand.html)
-
----
+> 更新時間：2026-06-23T15:42:18.365091+00:00
 
 ### ⚖️ MSScorps再次擴大台灣矽光子投資
 - **題材**: `光通訊與矽光子` | **重要性**: `73`
@@ -73,15 +64,6 @@
 
 ---
 
-### 🚀 Amkor 因台灣半導體交易而股價飆升。如何在這裡玩 AMKR 股票。
-- **題材**: `半導體先進製程` | **重要性**: `65`
-- **來源**: Barchart.com (2026-06-20T13:30:02Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Amkor Technology 在與台積電建立 10 年變革性合作夥伴關係後，引發了強勁的反彈。你現在應該採取什麼行動？
-- [原文連結](https://www.barchart.com/story/news/2566779/amkor-soared-on-a-taiwan-semi-deal-how-to-play-amkr-stock-here)
-
----
-
 ### 🚀 在華爾街流行之前立即購買 3 隻股票
 - **題材**: `光通訊與矽光子` | **重要性**: `65`
 - **來源**: 24/7 Wall St. (2026-06-19T17:05:23Z)
@@ -137,12 +119,30 @@ The post Tower Semiconductor ships 5 million coherent photonic circuits to Marve
 
 ---
 
+### ⚠️ 一位資深策略師表示，6個警訊顯示股市即將下跌20%
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Business Insider (2026-06-22T15:29:30Z)
+- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Wall Street veteran Jim Paulsen said there are six warning signs he's watching that signal the market may be headed for a major consolidation.
+- [原文連結](https://www.businessinsider.com/stock-market-correction-warning-signs-sp500-jim-paulsen-oil-consumers-2026-6)
+
+---
+
 ### 🚀 高油價推動中國電動車銷量激增，但充電網路卻落後
 - **題材**: `總體風險` | **重要性**: `60`
 - **來源**: Yahoo Entertainment (2026-06-22T04:35:41Z)
 - **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 
 - [原文連結](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_8e74bc18-2190-4a5f-bbeb-4e458c7406b0)
+
+---
+
+### 🚀 Amkor 因台灣半導體交易而股價飆升。如何在這裡玩 AMKR 股票。
+- **題材**: `半導體先進製程` | **重要性**: `60`
+- **來源**: Barchart.com (2026-06-20T13:30:02Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Amkor Technology 在與台積電建立 10 年變革性合作夥伴關係後，引發了強勁的反彈。你現在應該採取什麼行動？
+- [原文連結](https://www.barchart.com/story/news/2566779/amkor-soared-on-a-taiwan-semi-deal-how-to-play-amkr-stock-here)
 
 ---
 

@@ -1,48 +1,10 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-06-23T12:08:14.713347+00:00",
+  "generated_at": "2026-06-23T15:42:18.365091+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 71,
   "items": [
-    {
-      "id": "cc830f4ddce777c2",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "獨家：華邦NOR快閃記憶體據報進入Nvidia供應鏈",
-      "summary": "據報道，隨著AI伺服器需求帶動記憶體消耗激增，加上Nvidia下一代Vera Rubin平台準備在2026年下半年批量出貨，華邦的NOR快閃記憶體首次進入Nvidia供應鏈。",
-      "original_title": "Exclusive: Winbond NOR flash reportedly enters Nvidia supply chain",
-      "url": "https://www.digitimes.com/news/a20260618PD216/flash-winbond-nvidia-supply-chain-demand.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-06-18T04:14:01Z",
-      "importance": 83,
-      "impact": "positive",
-      "timeframe": "short_to_mid_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
     {
       "id": "589808ba84721593",
       "dataset": "market_news",
@@ -304,44 +266,6 @@
       "reason": "屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "eb04a75382e78621",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "Amkor 因台灣半導體交易而股價飆升。如何在這裡玩 AMKR 股票。",
-      "summary": "Amkor Technology 在與台積電建立 10 年變革性合作夥伴關係後，引發了強勁的反彈。你現在應該採取什麼行動？",
-      "original_title": "Amkor Soared on a Taiwan Semi Deal. How to Play AMKR Stock Here.",
-      "url": "https://www.barchart.com/story/news/2566779/amkor-soared-on-a-taiwan-semi-deal-how-to-play-amkr-stock-here",
-      "source": "Barchart.com",
-      "domain": "barchart.com",
-      "published_at": "2026-06-20T13:30:02Z",
-      "importance": 65,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "f07d74b8d1e76a33",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -561,6 +485,44 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "11b0ef554cd5ee20",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "一位資深策略師表示，6個警訊顯示股市即將下跌20%",
+      "summary": "Wall Street veteran Jim Paulsen said there are six warning signs he's watching that signal the market may be headed for a major consolidation.",
+      "original_title": "A longtime strategist says 6 warning signs point to a 20% drop in stocks on the horizon",
+      "url": "https://www.businessinsider.com/stock-market-correction-warning-signs-sp500-jim-paulsen-oil-consumers-2026-6",
+      "source": "Business Insider",
+      "domain": "businessinsider.com",
+      "published_at": "2026-06-22T15:29:30Z",
+      "importance": 60,
+      "impact": "negative",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "eda45e26a0e2bf24",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -597,6 +559,44 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "eb04a75382e78621",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "Amkor 因台灣半導體交易而股價飆升。如何在這裡玩 AMKR 股票。",
+      "summary": "Amkor Technology 在與台積電建立 10 年變革性合作夥伴關係後，引發了強勁的反彈。你現在應該採取什麼行動？",
+      "original_title": "Amkor Soared on a Taiwan Semi Deal. How to Play AMKR Stock Here.",
+      "url": "https://www.barchart.com/story/news/2566779/amkor-soared-on-a-taiwan-semi-deal-how-to-play-amkr-stock-here",
+      "source": "Barchart.com",
+      "domain": "barchart.com",
+      "published_at": "2026-06-20T13:30:02Z",
+      "importance": 60,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "cab5c09d22098108",
@@ -824,6 +824,44 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "f557ae2b11952fa3",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "星際彗星 3I/ATLAS 幾乎與宇宙本身一樣古老",
+      "summary": "證據越來越多：這位星際訪客比任何人想像的更古老、更奇怪",
+      "original_title": "Interstellar Comet 3I/ATLAS is almost as old as the universe itself",
+      "url": "https://www.scientificamerican.com/article/interstellar-comet-3i-atlas-is-almost-as-old-as-the-universe-itself/",
+      "source": "Scientific American",
+      "domain": "scientificamerican.com",
+      "published_at": "2026-06-22T15:00:00Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "e68e4fe6ba113dd8",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -965,82 +1003,6 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "9d67537506890487",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "超微漲逾10%。 AI伺服器製造商終於迎來轉機了嗎？",
-      "summary": "",
-      "original_title": "Super Micro Jumped More Than 10%. Is the AI Server Maker Finally Turning a Corner?",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d8b454e7-2f6d-4b6d-8181-a5c1c6d88734",
-      "source": "Yahoo Entertainment",
-      "domain": "consent.yahoo.com",
-      "published_at": "2026-06-20T15:26:00Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "9ec4e638c7e31cc0",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "用心思考的人：喬治福斯特與敏感科學的誕生",
-      "summary": "每個思想，即使是最偉大的思想，都是其時間和地點的產物。真正的遠見者是那些不願意將其文化中的虛構誤認為事實的人。那些敢於不透過放大了…的擔憂的顯微鏡來觀察世界的人",
-      "original_title": "The Man Who Thought with His Heart: George Forster and the Birth of Sensitive Science",
-      "url": "https://www.themarginalian.org/2026/06/20/george-forster-andrea-wulf/",
-      "source": "Themarginalian.org",
-      "domain": "themarginalian.org",
-      "published_at": "2026-06-20T14:41:22Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "d95eacc38f1c58b7",
@@ -1569,79 +1531,6 @@
       "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "7975f320cd5ad8b7",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "美光科技 (MU) 因高頻寬記憶體需求爆炸性成長",
-      "summary": "投資管理公司 Columbia Threadneedle Investments 發布了 2026 年第一季「哥倫比亞全球科技成長計畫」投資者信函",
-      "original_title": "Micron Technology (MU) Skyrocketed on Explosive Demand For High-Bandwidth Memory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-mu-skyrocketed-explosive-150456301.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-06-16T15:04:56Z",
-      "importance": 55,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "7dd25e70b0037ae5",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "歐盟剛剛通過了坦伯利貿易協定。科技之戰才剛開始。",
-      "summary": "歐洲議會於週二投票批准了《坦伯利協議》，該貿易協定於 2025 年 7 月在唐納德·川普的蘇格蘭高爾夫度假村達成。最終票數為 440 票贊成、151 票反對、50 票棄權。根據協議，歐盟將消除...",
-      "original_title": "The EU just passed the Turnberry trade deal. The tech fight is only starting.",
-      "url": "https://thenextweb.com/news/eu-parliament-turnberry-trade-deal-tech/",
-      "source": "The Next Web",
-      "domain": "thenextweb.com",
-      "published_at": "2026-06-16T13:33:28Z",
-      "importance": 55,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "a61b22ddd0c03ef3",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1716,6 +1605,82 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "9d67537506890487",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "超微漲逾10%。 AI伺服器製造商終於迎來轉機了嗎？",
+      "summary": "",
+      "original_title": "Super Micro Jumped More Than 10%. Is the AI Server Maker Finally Turning a Corner?",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d8b454e7-2f6d-4b6d-8181-a5c1c6d88734",
+      "source": "Yahoo Entertainment",
+      "domain": "consent.yahoo.com",
+      "published_at": "2026-06-20T15:26:00Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "9ec4e638c7e31cc0",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "用心思考的人：喬治福斯特與敏感科學的誕生",
+      "summary": "每個思想，即使是最偉大的思想，都是其時間和地點的產物。真正的遠見者是那些不願意將其文化中的虛構誤認為事實的人。那些敢於不透過放大了…的擔憂的顯微鏡來觀察世界的人",
+      "original_title": "The Man Who Thought with His Heart: George Forster and the Birth of Sensitive Science",
+      "url": "https://www.themarginalian.org/2026/06/20/george-forster-andrea-wulf/",
+      "source": "Themarginalian.org",
+      "domain": "themarginalian.org",
+      "published_at": "2026-06-20T14:41:22Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "78afa863d4bb7667",
@@ -2434,32 +2399,29 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "24feee9d7f9ef8a8",
+      "id": "7975f320cd5ad8b7",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "是的，研究人員說宇宙的膨脹仍在加速",
-      "summary": "威爾鄧納姆 (Will Dunham) 華盛頓，6 月 16 日（路透社）",
-      "original_title": "Yes, the universe's expansion is still accelerating, researchers say",
-      "url": "https://www.yahoo.com/news/science/articles/yes-universes-expansion-still-accelerating-150246957.html",
+      "theme": "HBM記憶體",
+      "title": "美光科技 (MU) 因高頻寬記憶體需求爆炸性成長",
+      "summary": "投資管理公司 Columbia Threadneedle Investments 發布了 2026 年第一季「哥倫比亞全球科技成長計畫」投資者信函",
+      "original_title": "Micron Technology (MU) Skyrocketed on Explosive Demand For High-Bandwidth Memory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-mu-skyrocketed-explosive-150456301.html",
       "source": "Yahoo Entertainment",
-      "domain": "yahoo.com",
-      "published_at": "2026-06-16T15:02:46Z",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-06-16T15:04:56Z",
       "importance": 50,
-      "impact": "neutral",
+      "impact": "positive",
       "timeframe": "short_term",
       "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
+        "HBM",
+        "記憶體"
       ],
       "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
       ],
       "related_models": [
         "003",
@@ -2469,60 +2431,22 @@
         "009",
         "010"
       ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "c2acbd51762889f3",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "微軟新款 Surface 筆記型電腦配備內建「Rumble」觸控板",
-      "summary": "微軟改良的 Surface Pro 和 Surface Laptop 具有宜人的樸實色彩，並且看不到英特爾晶片。",
-      "original_title": "Microsoft’s New Surface Laptop Features a Trackpad With ‘Rumble’ Built In",
-      "url": "https://gizmodo.com/microsofts-new-surface-laptop-features-a-trackpad-with-rumble-built-in-2000772135",
-      "source": "Gizmodo.com",
-      "domain": "gizmodo.com",
-      "published_at": "2026-06-16T13:00:24Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "0e371b58fcdac40c",
+      "id": "7dd25e70b0037ae5",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "總體風險",
-      "title": "這是一個租房市場嗎？這取決於你住在哪裡",
-      "summary": "Zillow 上約 40% 的出租房屋提供入住優惠，例如一個月的免租金，這要歸功於美國部分地區的建築熱潮造成公寓過剩。",
-      "original_title": "Is it a renter's market? It depends on where you live",
-      "url": "https://www.npr.org/2026/06/16/nx-s1-5847678/rent-apartment-landlord-construction-boom",
-      "source": "NPR",
-      "domain": "npr.org",
-      "published_at": "2026-06-16T10:00:00Z",
+      "title": "歐盟剛剛通過了坦伯利貿易協定。科技之戰才剛開始。",
+      "summary": "歐洲議會於週二投票批准了《坦伯利協議》，該貿易協定於 2025 年 7 月在唐納德·川普的蘇格蘭高爾夫度假村達成。最終票數為 440 票贊成、151 票反對、50 票棄權。根據協議，歐盟將消除...",
+      "original_title": "The EU just passed the Turnberry trade deal. The tech fight is only starting.",
+      "url": "https://thenextweb.com/news/eu-parliament-turnberry-trade-deal-tech/",
+      "source": "The Next Web",
+      "domain": "thenextweb.com",
+      "published_at": "2026-06-16T13:33:28Z",
       "importance": 50,
-      "impact": "positive",
+      "impact": "negative",
       "timeframe": "short_term",
       "tags": [
         "總體",
@@ -2545,7 +2469,83 @@
         "009",
         "010"
       ],
-      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "24feee9d7f9ef8a8",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "是的，研究人員說宇宙的膨脹仍在加速",
+      "summary": "威爾鄧納姆 (Will Dunham) 華盛頓，6 月 16 日（路透社）",
+      "original_title": "Yes, the universe's expansion is still accelerating, researchers say",
+      "url": "https://www.yahoo.com/news/science/articles/yes-universes-expansion-still-accelerating-150246957.html",
+      "source": "Yahoo Entertainment",
+      "domain": "yahoo.com",
+      "published_at": "2026-06-16T15:02:46Z",
+      "importance": 45,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
+    },
+    {
+      "id": "c2acbd51762889f3",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "微軟新款 Surface 筆記型電腦配備內建「Rumble」觸控板",
+      "summary": "微軟改良的 Surface Pro 和 Surface Laptop 具有宜人的樸實色彩，並且看不到英特爾晶片。",
+      "original_title": "Microsoft’s New Surface Laptop Features a Trackpad With ‘Rumble’ Built In",
+      "url": "https://gizmodo.com/microsofts-new-surface-laptop-features-a-trackpad-with-rumble-built-in-2000772135",
+      "source": "Gizmodo.com",
+      "domain": "gizmodo.com",
+      "published_at": "2026-06-16T13:00:24Z",
+      "importance": 45,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     },
     {
       "id": "b63370d21724d6c3",
