@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-06-23T04:54:18.964960+00:00",
+  "generated_at": "2026-06-23T08:24:01.162044+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 72,
@@ -118,6 +118,79 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
+      "id": "fd3694de7208ebb8",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "HBM 熱潮重塑韓國晶片產業 SK 海力士超越三星",
+      "summary": "6 月 22 日，SK 海力士短暫超越三星電子，奪得韓國 KOSPI 交易所普通股市值榜首的位置，這一里程碑反映了高頻寬記憶體 (HBM) 如何重新定義了韓國半導體的價值…",
+      "original_title": "SK Hynix overtakes Samsung as HBM boom reshapes Korea's chip industry",
+      "url": "https://www.digitimes.com/news/a20260622VL210/sk-hynix-samsung-hbm-market-capitalization.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-06-22T08:23:25Z",
+      "importance": 68,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "360582d74e6328d0",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "台積電玻璃基板在 2030 年之前不太可能推出",
+      "summary": "先進半導體封裝中玻璃芯基板商業化的競賽正在升溫，但該技術在頭條新聞中的發展速度比在生產線上的發展速度更快。 DIGITIMES一直在追蹤台積電CoPoS先進封裝的最新進展…",
+      "original_title": "TSMC glass substrate rollout unlikely before 2030",
+      "url": "https://www.digitimes.com/news/a20260622PD214/tsmc-digitimes-glass-substrate-2030-intel.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-06-22T07:09:23Z",
+      "importance": 68,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "b6585cca8ee6920a",
@@ -752,44 +825,6 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "64ee6afd65a866b8",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "台積電PLP時間表面臨台灣業界人士質疑",
-      "summary": "A South Korean media report claiming TSMC is preparing to launch panel-level packaging at mass-production scale as early as 2027 has drawn skepticism from Taiwan industry sources, who say the timeline is likely premature and that the company remains focused o…",
-      "original_title": "TSMC PLP timeline faces skepticism from Taiwan industry sources",
-      "url": "https://www.digitimes.com/news/a20260616VL205/tsmc-taiwan-packaging-production-foplp.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-06-16T02:47:10Z",
-      "importance": 58,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "9472d159c38ee3e4",
@@ -2223,41 +2258,6 @@
       "source": "MacRumors",
       "domain": "macrumors.com",
       "published_at": "2026-06-17T21:08:32Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "dd2f4661757f7660",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "德意志銀行和聰明的投資者正在爭奪美光 (MU) 股票",
-      "summary": "德意志銀行將美光科技股票目標上調至 1,500 美元，加入至少六家銀行的行列，押注 2028 年 AI 記憶體需求將超過供應。",
-      "original_title": "Deutsche Bank and the Smart Money are at War Over Micron (MU) Stock",
-      "url": "https://beincrypto.com/deutsche-bank-micron-stock-1500-target-analysis/",
-      "source": "BeInCrypto",
-      "domain": "beincrypto.com",
-      "published_at": "2026-06-17T21:00:00Z",
       "importance": 50,
       "impact": "neutral",
       "timeframe": "short_term",

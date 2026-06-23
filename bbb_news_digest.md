@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-23T04:54:18.964960+00:00
+> 更新時間：2026-06-23T08:24:01.162044+00:00
 
 ### 🚀 獨家：華邦NOR快閃記憶體據報進入Nvidia供應鏈
 - **題材**: `AI伺服器` | **重要性**: `83`
@@ -25,6 +25,24 @@
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: SharonAI Holdings 與 Nvidia 簽訂了為期六年的計算協議，將建造 72 MW 的新資料中心容量，並將規模擴展到 40,000 個 Grace Blackwell GB300 GP...
 - [原文連結](https://www.barchart.com/story/news/2500567/sharonai-shares-surged-after-securing-a-six-year-agreement-with-nvidia-shaz-stock-needs-a-lot-more-to-become-a-long-term-buy)
+
+---
+
+### ⚖️ HBM 熱潮重塑韓國晶片產業 SK 海力士超越三星
+- **題材**: `HBM記憶體` | **重要性**: `68`
+- **來源**: Digitimes (2026-06-22T08:23:25Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 6 月 22 日，SK 海力士短暫超越三星電子，奪得韓國 KOSPI 交易所普通股市值榜首的位置，這一里程碑反映了高頻寬記憶體 (HBM) 如何重新定義了韓國半導體的價值…
+- [原文連結](https://www.digitimes.com/news/a20260622VL210/sk-hynix-samsung-hbm-market-capitalization.html)
+
+---
+
+### ⚖️ 台積電玻璃基板在 2030 年之前不太可能推出
+- **題材**: `半導體先進製程` | **重要性**: `68`
+- **來源**: Digitimes (2026-06-22T07:09:23Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 先進半導體封裝中玻璃芯基板商業化的競賽正在升溫，但該技術在頭條新聞中的發展速度比在生產線上的發展速度更快。 DIGITIMES一直在追蹤台積電CoPoS先進封裝的最新進展…
+- [原文連結](https://www.digitimes.com/news/a20260622PD214/tsmc-digitimes-glass-substrate-2030-intel.html)
 
 ---
 
@@ -161,25 +179,6 @@ The post Tower Semiconductor ships 5 million coherent photonic circuits to Marve
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 根據《日經亞洲》報道，三星代工廠已收到Google、英偉達、特斯拉、AMD 和比亞迪的訂單或正在與他們進行談判，以製造基於 5nm 以下節點的先進半導體晶片。其中一些公司以前曾經工作過…
 - [原文連結](https://www.techspot.com/news/112800-samsung-foundry-booming-tsmc-struggles-demand-bags-nvidia.html)
-
----
-
-### ⚠️ Nvidia 支援的光學供應商將晶圓產量提高 4 倍以滿足人工智慧互連需求
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: Theregister.com (2026-06-17T18:12:38Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Jensen 不能冒半導體供應鏈破壞人工智慧炒作列車的風險
-- [原文連結](https://www.theregister.com/networks/2026/06/17/nvidia-backed-optics-vendor-to-boost-wafer-output-by-4x-to-meet-ai-interconnect-demand/5257909)
-
----
-
-### 🚀 Aehr Test Systems 股價攀升新矽光子生產訂單
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: Biztoc.com (2026-06-17T13:39:37Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Aehr Test Systems（NASDAQ：AEHR）宣布從矽光子市場主要客戶那裡獲得了其 FOX-XP 晶圓級老化系統的後續生產訂單，股價上漲 11%。
-該訂單凸顯了對半導體的需求不斷增長...
-- [原文連結](https://biztoc.com/x/76d2c81384248b0b)
 
 ---
 
