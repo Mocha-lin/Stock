@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-23T08:24:01.162044+00:00
+> 更新時間：2026-06-23T12:08:14.713347+00:00
 
 ### 🚀 獨家：華邦NOR快閃記憶體據報進入Nvidia供應鏈
 - **題材**: `AI伺服器` | **重要性**: `83`
@@ -16,15 +16,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 經濟部下屬的台灣投資辦公室 InvesTaiwan 已批准以 MSScorps 為首的四家公司擴大台灣投資計劃，該計劃將投資 15 億新台幣（4740 萬美元），並且是第三次提交申請。該公司
 - [原文連結](https://www.digitimes.com/news/a20260618PD236/taiwan-investment-msscorps-silicon-photonics.html)
-
----
-
-### 🚀 與 Nvidia 簽訂六年協議後，SharonAI 股價飆升。 SHAZ 股票需要更多才能成為長期買入的股票。
-- **題材**: `AI伺服器` | **重要性**: `70`
-- **來源**: Barchart.com (2026-06-16T18:36:42Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: SharonAI Holdings 與 Nvidia 簽訂了為期六年的計算協議，將建造 72 MW 的新資料中心容量，並將規模擴展到 40,000 個 Grace Blackwell GB300 GP...
-- [原文連結](https://www.barchart.com/story/news/2500567/sharonai-shares-surged-after-securing-a-six-year-agreement-with-nvidia-shaz-stock-needs-a-lot-more-to-become-a-long-term-buy)
 
 ---
 
@@ -179,6 +170,15 @@ The post Tower Semiconductor ships 5 million coherent photonic circuits to Marve
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 根據《日經亞洲》報道，三星代工廠已收到Google、英偉達、特斯拉、AMD 和比亞迪的訂單或正在與他們進行談判，以製造基於 5nm 以下節點的先進半導體晶片。其中一些公司以前曾經工作過…
 - [原文連結](https://www.techspot.com/news/112800-samsung-foundry-booming-tsmc-struggles-demand-bags-nvidia.html)
+
+---
+
+### ⚠️ Nvidia 支援的光學供應商將晶圓產量提高 4 倍以滿足人工智慧互連需求
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: Theregister.com (2026-06-17T18:12:38Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Jensen 不能冒半導體供應鏈破壞人工智慧炒作列車的風險
+- [原文連結](https://www.theregister.com/networks/2026/06/17/nvidia-backed-optics-vendor-to-boost-wafer-output-by-4x-to-meet-ai-interconnect-demand/5257909)
 
 ---
 
