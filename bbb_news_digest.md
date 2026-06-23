@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-23T00:07:00.080910+00:00
+> 更新時間：2026-06-23T04:54:18.964960+00:00
 
 ### 🚀 獨家：華邦NOR快閃記憶體據報進入Nvidia供應鏈
 - **題材**: `AI伺服器` | **重要性**: `83`
@@ -16,15 +16,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 經濟部下屬的台灣投資辦公室 InvesTaiwan 已批准以 MSScorps 為首的四家公司擴大台灣投資計劃，該計劃將投資 15 億新台幣（4740 萬美元），並且是第三次提交申請。該公司
 - [原文連結](https://www.digitimes.com/news/a20260618PD236/taiwan-investment-msscorps-silicon-photonics.html)
-
----
-
-### ⚖️ TSMC reportedly teams with Ibiden, Innolux to push CoPoS, glass substrates
-- **題材**: `半導體先進製程` | **重要性**: `73`
-- **來源**: Digitimes (2026-06-16T04:35:11Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: TSMC is accelerating its advanced packaging roadmap for AI chips, expanding CoWoS capacity while publicly disclosing new progress in glass substrate technology. The company is also signaling that next-generation packaging competition is shifting from CoWoS to…
-- [原文連結](https://www.digitimes.com/news/a20260616PD217/tsmc-innolux-ibiden-packaging-cowos.html)
 
 ---
 
@@ -55,6 +46,15 @@
 
 ---
 
+### ⚖️ TSMC reportedly teams with Ibiden, Innolux to push CoPoS, glass substrates
+- **題材**: `半導體先進製程` | **重要性**: `68`
+- **來源**: Digitimes (2026-06-16T04:35:11Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: TSMC is accelerating its advanced packaging roadmap for AI chips, expanding CoWoS capacity while publicly disclosing new progress in glass substrate technology. The company is also signaling that next-generation packaging competition is shifting from CoWoS to…
+- [原文連結](https://www.digitimes.com/news/a20260616PD217/tsmc-innolux-ibiden-packaging-cowos.html)
+
+---
+
 ### ⚠️ 三星和 SK 海力士為晶片工人提​​供的獎金被標記為國家通膨風險——韓國央行預計全年通膨率將遠高於 2% 的目標
 - **題材**: `HBM記憶體` | **重要性**: `67`
 - **來源**: Tom's Hardware UK (2026-06-21T11:58:39Z)
@@ -70,15 +70,6 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Amkor Technology 在與台積電建立 10 年變革性合作夥伴關係後，引發了強勁的反彈。你現在應該採取什麼行動？
 - [原文連結](https://www.barchart.com/story/news/2566779/amkor-soared-on-a-taiwan-semi-deal-how-to-play-amkr-stock-here)
-
----
-
-### 🚀 交易員加大對鷹派聯準會升息的押注
-- **題材**: `總體風險` | **重要性**: `65`
-- **來源**: The Times of India (2026-06-20T02:18:58Z)
-- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 交易員現在完全預計聯準會將在 9 月升息 25 個基點，這是由於油價飆升引發的新一輪通膨擔憂所推動的。新任聯準會主席凱文沃許對高通膨的堅定立場支撐了…
-- [原文連結](https://economictimes.indiatimes.com/markets/us-stocks/news/traders-boost-us-rate-hike-bets-on-hawkish-fed/articleshow/131869433.cms)
 
 ---
 
@@ -137,12 +128,21 @@ The post Tower Semiconductor ships 5 million coherent photonic circuits to Marve
 
 ---
 
-### ⚖️ 台積電PLP時間表面臨台灣業界人士質疑
-- **題材**: `半導體先進製程` | **重要性**: `63`
-- **來源**: Digitimes (2026-06-16T02:47:10Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: A South Korean media report claiming TSMC is preparing to launch panel-level packaging at mass-production scale as early as 2027 has drawn skepticism from Taiwan industry sources, who say the timeline is likely premature and that the company remains focused o…
-- [原文連結](https://www.digitimes.com/news/a20260616VL205/tsmc-taiwan-packaging-production-foplp.html)
+### 🚀 高油價推動中國電動車銷量激增，但充電網路卻落後
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-06-22T04:35:41Z)
+- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 
+- [原文連結](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_8e74bc18-2190-4a5f-bbeb-4e458c7406b0)
+
+---
+
+### 🚀 交易員加大對鷹派聯準會升息的押注
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: The Times of India (2026-06-20T02:18:58Z)
+- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 交易員現在完全預計聯準會將在 9 月升息 25 個基點，這是由於油價飆升引發的新一輪通膨擔憂所推動的。新任聯準會主席凱文沃許對高通膨的堅定立場支撐了…
+- [原文連結](https://economictimes.indiatimes.com/markets/us-stocks/news/traders-boost-us-rate-hike-bets-on-hawkish-fed/articleshow/131869433.cms)
 
 ---
 
