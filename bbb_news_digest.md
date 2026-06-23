@@ -1,5 +1,14 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-23T19:02:07.496724+00:00
+> 更新時間：2026-06-23T23:57:31.240381+00:00
+
+### ⚖️ Arm 伺服器佔據了資料中心市場收入的 45% 以上——GPU 叢集和高端人工智慧基礎設施推動了 x86 的結構性轉變
+- **題材**: `AI伺服器` | **重要性**: `77`
+- **來源**: Tom's Hardware UK (2026-06-22T20:34:17Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 基於 Arm 的伺服器佔 2026 年第一季伺服器收入的近一半，對 x86 構成挑戰。但在未來幾年，他們也可能在單位方面迎頭趕上。
+- [原文連結](https://www.tomshardware.com/desktops/servers/arm-servers-capture-over-45-percent-of-data-center-market-revenue-gpu-clusters-and-high-end-ai-infrastructure-fuel-a-tectonic-shift-away-from-x86)
+
+---
 
 ### ⚖️ MSScorps再次擴大台灣矽光子投資
 - **題材**: `光通訊與矽光子` | **重要性**: `73`
@@ -92,30 +101,12 @@ The post Tower Semiconductor ships 5 million coherent photonic circuits to Marve
 
 ---
 
-### 🚀 SpaceX 如何與美光的設定相匹配，將價格快速提升 10 倍至 2000 美元。 SpaceX 下一階段的收入乘數
-- **題材**: `AI伺服器` | **重要性**: `65`
-- **來源**: Next Big Future (2026-06-18T02:18:54Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 如果 SPACEX 跟隨美光的收入和利潤激增，那麼它的估值就會被低估。 SPACEX 距離將其人工智慧收入從 4 月的每年 10 億美元提高到 2026 年 10 月的每年 330 億美元還有 4 個月的時間。吉瓦乘以每吉瓦數十億 = 每…收入
-- [原文連結](https://www.nextbigfuture.com/2026/06/how-spacex-matches-the-micron-setup-for-a-fast-10x-to-2000-revenue-multipliers-for-next-levels-for-spacex.html)
-
----
-
 ### ⚖️ 據報道 SK 海力士在美國就 HBM 供應和當地投資計劃舉行會談
 - **題材**: `HBM記憶體` | **重要性**: `63`
 - **來源**: Digitimes (2026-06-19T03:23:13Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: SK Hynix is reported to have held a private meeting with U.S. Deputy Secretary of State Allison Hooker, with industry sources speculating the discussions covered high-bandwidth memory cooperation with major U.S. technology firms and potential semiconductor in…
 - [原文連結](https://www.digitimes.com/news/a20260618PD233/sk-hynix-hbm-investment-shipments-supply-chain.html)
-
----
-
-### ⚖️ SK海力士運送HBM4E樣品
-- **題材**: `HBM記憶體` | **重要性**: `63`
-- **來源**: Digitimes (2026-06-18T01:06:38Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: SK 海力士已開始向主要客戶提供下一代高頻寬記憶體 HBM4E 樣品。這家韓國晶片製造商表示，12 層產品已按期交付。
-- [原文連結](https://www.digitimes.com/news/a20260618VL200/sk-hynix-shipping-hbm4-data-production.html)
 
 ---
 
@@ -137,6 +128,15 @@ The post Tower Semiconductor ships 5 million coherent photonic circuits to Marve
 
 ---
 
+### 🚀 全新 NVIDIA Vera Rubin 系統推動 AI 伺服器產業，Super Micro 股價上漲 11%，戴爾股價上漲 5%
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: 24/7 Wall St. (2026-06-22T14:28:14Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Super Micro Computer（納斯達克股票代碼：SMCI）股價週一早盤上漲 11%，引領人工智慧伺服器上漲，因 ISC High Performancea 上發布的新硬體引發...
+- [原文連結](https://247wallst.com/investing/2026/06/22/super-micro-jumps-11-dell-rises-5-as-new-nvidia-vera-rubin-systems-fuel-the-ai-server-trade/)
+
+---
+
 ### 🚀 高油價推動中國電動車銷量激增，但充電網路卻落後
 - **題材**: `總體風險` | **重要性**: `60`
 - **來源**: Yahoo Entertainment (2026-06-22T04:35:41Z)
@@ -155,15 +155,6 @@ The post Tower Semiconductor ships 5 million coherent photonic circuits to Marve
 
 ---
 
-### 🚀 交易員加大對鷹派聯準會升息的押注
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: The Times of India (2026-06-20T02:18:58Z)
-- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 交易員現在完全預計聯準會將在 9 月升息 25 個基點，這是由於油價飆升引發的新一輪通膨擔憂所推動的。新任聯準會主席凱文沃許對高通膨的堅定立場支撐了…
-- [原文連結](https://economictimes.indiatimes.com/markets/us-stocks/news/traders-boost-us-rate-hike-bets-on-hawkish-fed/articleshow/131869433.cms)
-
----
-
 ### 🚀 伊朗和平並沒有阻止央行提高借貸成本
 - **題材**: `總體風險` | **重要性**: `60`
 - **來源**: Yahoo Entertainment (2026-06-18T11:38:00Z)
@@ -179,6 +170,15 @@ The post Tower Semiconductor ships 5 million coherent photonic circuits to Marve
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 根據《日經亞洲》報道，三星代工廠已收到Google、英偉達、特斯拉、AMD 和比亞迪的訂單或正在與他們進行談判，以製造基於 5nm 以下節點的先進半導體晶片。其中一些公司以前曾經工作過…
 - [原文連結](https://www.techspot.com/news/112800-samsung-foundry-booming-tsmc-struggles-demand-bags-nvidia.html)
+
+---
+
+### ⚠️ Nvidia 支援的光學供應商將晶圓產量提高 4 倍以滿足人工智慧互連需求
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: Theregister.com (2026-06-17T18:12:38Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Jensen 不能冒半導體供應鏈破壞人工智慧炒作列車的風險
+- [原文連結](https://www.theregister.com/networks/2026/06/17/nvidia-backed-optics-vendor-to-boost-wafer-output-by-4x-to-meet-ai-interconnect-demand/5257909)
 
 ---
 

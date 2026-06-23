@@ -1,10 +1,48 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-06-23T19:02:07.496724+00:00",
+  "generated_at": "2026-06-23T23:57:31.240381+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 71,
   "items": [
+    {
+      "id": "d809aa5bdf13d173",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Arm 伺服器佔據了資料中心市場收入的 45% 以上——GPU 叢集和高端人工智慧基礎設施推動了 x86 的結構性轉變",
+      "summary": "基於 Arm 的伺服器佔 2026 年第一季伺服器收入的近一半，對 x86 構成挑戰。但在未來幾年，他們也可能在單位方面迎頭趕上。",
+      "original_title": "Arm servers capture over 45% of data center market revenue — GPU clusters and high-end AI infrastructure fuel a tectonic shift away from x86",
+      "url": "https://www.tomshardware.com/desktops/servers/arm-servers-capture-over-45-percent-of-data-center-market-revenue-gpu-clusters-and-high-end-ai-infrastructure-fuel-a-tectonic-shift-away-from-x86",
+      "source": "Tom's Hardware UK",
+      "domain": "tomshardware.com",
+      "published_at": "2026-06-22T20:34:17Z",
+      "importance": 77,
+      "impact": "neutral",
+      "timeframe": "short_to_mid_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
     {
       "id": "589808ba84721593",
       "dataset": "market_news",
@@ -380,44 +418,6 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "ffa7e065b3382d91",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "SpaceX 如何與美光的設定相匹配，將價格快速提升 10 倍至 2000 美元。 SpaceX 下一階段的收入乘數",
-      "summary": "如果 SPACEX 跟隨美光的收入和利潤激增，那麼它的估值就會被低估。 SPACEX 距離將其人工智慧收入從 4 月的每年 10 億美元提高到 2026 年 10 月的每年 330 億美元還有 4 個月的時間。吉瓦乘以每吉瓦數十億 = 每…收入",
-      "original_title": "How SpaceX Matches the Micron Setup for a fast 10X to $2000. Revenue multipliers for Next Levels for SpaceX",
-      "url": "https://www.nextbigfuture.com/2026/06/how-spacex-matches-the-micron-setup-for-a-fast-10x-to-2000-revenue-multipliers-for-next-levels-for-spacex.html",
-      "source": "Next Big Future",
-      "domain": "nextbigfuture.com",
-      "published_at": "2026-06-18T02:18:54Z",
-      "importance": 65,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "be77348d4fb8a31f",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -429,41 +429,6 @@
       "source": "Digitimes",
       "domain": "digitimes.com",
       "published_at": "2026-06-19T03:23:13Z",
-      "importance": 63,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "07d43a2e64454c32",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "SK海力士運送HBM4E樣品",
-      "summary": "SK 海力士已開始向主要客戶提供下一代高頻寬記憶體 HBM4E 樣品。這家韓國晶片製造商表示，12 層產品已按期交付。",
-      "original_title": "SK Hynix ships HBM4E samples to customers",
-      "url": "https://www.digitimes.com/news/a20260618VL200/sk-hynix-shipping-hbm4-data-production.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-06-18T01:06:38Z",
       "importance": 63,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -561,6 +526,44 @@
       "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "944b6c8547d6e86e",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "全新 NVIDIA Vera Rubin 系統推動 AI 伺服器產業，Super Micro 股價上漲 11%，戴爾股價上漲 5%",
+      "summary": "Super Micro Computer（納斯達克股票代碼：SMCI）股價週一早盤上漲 11%，引領人工智慧伺服器上漲，因 ISC High Performancea 上發布的新硬體引發...",
+      "original_title": "Super Micro Jumps 11%, Dell Rises 5% as New NVIDIA Vera Rubin Systems Fuel the AI Server Trade",
+      "url": "https://247wallst.com/investing/2026/06/22/super-micro-jumps-11-dell-rises-5-as-new-nvidia-vera-rubin-systems-fuel-the-ai-server-trade/",
+      "source": "24/7 Wall St.",
+      "domain": "247wallst.com",
+      "published_at": "2026-06-22T14:28:14Z",
+      "importance": 60,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "eda45e26a0e2bf24",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -635,44 +638,6 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "cab5c09d22098108",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "交易員加大對鷹派聯準會升息的押注",
-      "summary": "交易員現在完全預計聯準會將在 9 月升息 25 個基點，這是由於油價飆升引發的新一輪通膨擔憂所推動的。新任聯準會主席凱文沃許對高通膨的堅定立場支撐了…",
-      "original_title": "Traders boost US rate-hike bets on hawkish Fed",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/traders-boost-us-rate-hike-bets-on-hawkish-fed/articleshow/131869433.cms",
-      "source": "The Times of India",
-      "domain": "economictimes.indiatimes.com",
-      "published_at": "2026-06-20T02:18:58Z",
-      "importance": 60,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "a466622415a507dc",
@@ -827,6 +792,41 @@
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "53e59f147fc14144",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "Valve 描述 2026 年 RAM 談判有多殘酷",
+      "summary": "Valve 的 Steam Machine 終於給出了價格：512B 配置的售價高達 1,049 美元，2TB 版本的售價高達 1,349 美元。而且這些產品沒有捆綁控制器，這會進一步增加成本。價格如此之高，部分原因是 Valve 沒有補貼…",
+      "original_title": "Valve describes just how brutal RAM negotiations are in 2026",
+      "url": "https://www.theverge.com/games/953945/valve-steam-machine-memory-component-crisis",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "published_at": "2026-06-22T21:07:14Z",
+      "importance": 58,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "9472d159c38ee3e4",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -860,6 +860,44 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "6c62496635ec2e68",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "天然氣價格會持續下跌嗎？專家權衡利弊",
+      "summary": "過去一個月天然氣價格下跌了 13% 以上。",
+      "original_title": "Will gas prices keep falling? Experts weigh in",
+      "url": "https://abcnews.com/Business/gas-prices-falling-experts-weigh/story?id=134093047",
+      "source": "Abcnews.com",
+      "domain": "abcnews.com",
+      "published_at": "2026-06-22T20:25:42Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "f557ae2b11952fa3",
@@ -1493,82 +1531,6 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "b00a553fa36434ac",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "隨著人工智慧競賽的加劇，英偉達升級美國製造業",
-      "summary": "英偉達週二透露，計劃在德州建立一家新的晶片工廠。",
-      "original_title": "Nvidia Upgrades US Manufacturing As AI Race Intensifies",
-      "url": "https://dailycaller.com/2026/06/16/nvidia-manufacturing-us-ai/",
-      "source": "The Daily Caller",
-      "domain": "dailycaller.com",
-      "published_at": "2026-06-16T20:58:56Z",
-      "importance": 55,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "e7a1b392fe457f49",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "分析家稱，伊朗和平協議不會很快降低機票價格",
-      "summary": "分析師表示，即使美伊戰爭結束、油價下跌，座位供應緊張和需求強勁，航空公司也沒有動機削減票價。",
-      "original_title": "An Iran peace deal won't lower airfares anytime soon, analysts say",
-      "url": "https://www.businessinsider.com/flight-prices-stay-high-despite-us-peace-deal-iran-2026-6#article",
-      "source": "Business Insider",
-      "domain": "businessinsider.com",
-      "published_at": "2026-06-16T20:01:44Z",
-      "importance": 55,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "db35c01e77eeb901",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1618,44 +1580,6 @@
       "source": "Yahoo Entertainment",
       "domain": "consent.yahoo.com",
       "published_at": "2026-06-20T15:26:00Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "9ec4e638c7e31cc0",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "用心思考的人：喬治福斯特與敏感科學的誕生",
-      "summary": "每個思想，即使是最偉大的思想，都是其時間和地點的產物。真正的遠見者是那些不願意將其文化中的虛構誤認為事實的人。那些敢於不透過放大了…的擔憂的顯微鏡來觀察世界的人",
-      "original_title": "The Man Who Thought with His Heart: George Forster and the Birth of Sensitive Science",
-      "url": "https://www.themarginalian.org/2026/06/20/george-forster-andrea-wulf/",
-      "source": "Themarginalian.org",
-      "domain": "themarginalian.org",
-      "published_at": "2026-06-20T14:41:22Z",
       "importance": 50,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -2245,6 +2169,82 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "b00a553fa36434ac",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "隨著人工智慧競賽的加劇，英偉達升級美國製造業",
+      "summary": "英偉達週二透露，計劃在德州建立一家新的晶片工廠。",
+      "original_title": "Nvidia Upgrades US Manufacturing As AI Race Intensifies",
+      "url": "https://dailycaller.com/2026/06/16/nvidia-manufacturing-us-ai/",
+      "source": "The Daily Caller",
+      "domain": "dailycaller.com",
+      "published_at": "2026-06-16T20:58:56Z",
+      "importance": 50,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "e7a1b392fe457f49",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "分析家稱，伊朗和平協議不會很快降低機票價格",
+      "summary": "分析師表示，即使美伊戰爭結束、油價下跌，座位供應緊張和需求強勁，航空公司也沒有動機削減票價。",
+      "original_title": "An Iran peace deal won't lower airfares anytime soon, analysts say",
+      "url": "https://www.businessinsider.com/flight-prices-stay-high-despite-us-peace-deal-iran-2026-6#article",
+      "source": "Business Insider",
+      "domain": "businessinsider.com",
+      "published_at": "2026-06-16T20:01:44Z",
+      "importance": 50,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "7975f320cd5ad8b7",
