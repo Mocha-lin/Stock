@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-24T18:25:45.149990+00:00
+> 更新時間：2026-06-24T20:25:35.061613+00:00
 
 ### 🚀 獨家：華邦NOR快閃記憶體據報進入Nvidia供應鏈
 - **題材**: `AI伺服器` | **重要性**: `83`
@@ -137,21 +137,30 @@ The post Tower Semiconductor ships 5 million coherent photonic circuits to Marve
 
 ---
 
-### ⚖️ 據報道 SK 海力士在美國就 HBM 供應和當地投資計劃舉行會談
-- **題材**: `HBM記憶體` | **重要性**: `63`
-- **來源**: Digitimes (2026-06-19T03:23:13Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: SK Hynix is reported to have held a private meeting with U.S. Deputy Secretary of State Allison Hooker, with industry sources speculating the discussions covered high-bandwidth memory cooperation with major U.S. technology firms and potential semiconductor in…
-- [原文連結](https://www.digitimes.com/news/a20260618PD233/sk-hynix-hbm-investment-shipments-supply-chain.html)
-
----
-
 ### ⚖️ 卓越電鍍技術轉向AI液冷和CPO
 - **題材**: `光通訊與矽光子` | **重要性**: `63`
 - **來源**: Digitimes (2026-06-17T01:30:00Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 卓越電鍍科技董事長華雷傑表示，該公司正在將更多資源轉移到人工智慧液冷、CPO通訊模組和人工智慧資料中心的近線硬碟上，同時擴大在泰國的生產，並在…
 - [原文連結](https://www.digitimes.com/news/a20260616PD230/liquid-cooling-cpo-production-chairman-gold.html)
+
+---
+
+### 🚀 戰勝科技產品價格上漲：三星旗艦產品 Galaxy Tab S11 是一款引人注目的筆記型電腦替代品，價格下降了 265 美元
+- **題材**: `半導體先進製程` | **重要性**: `60`
+- **來源**: Android Central (2026-06-23T19:53:56Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 三星 Galaxy Tab S11 現在降價 265 美元，這款旗艦 Android 平板電腦售價僅 535 美元。
+- [原文連結](https://www.androidcentral.com/tablets/samsung-galaxy-tab/galaxy-tab-s11-is-down-by-usd250-prime-day)
+
+---
+
+### 🚀 iPhone 18 Pro：三個已經讓我興奮的新功能
+- **題材**: `半導體先進製程` | **重要性**: `60`
+- **來源**: 9to5Mac (2026-06-23T18:45:32Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: iPhone 18 Pro 距離發布還有幾個月的時間，但在迄今為止傳聞的新功能中，有三項升級讓我特別興奮。
+- [原文連結](https://9to5mac.com/2026/06/23/iphone-18-pro-three-new-features-that-already-have-me-excited/)
 
 ---
 
@@ -170,15 +179,6 @@ The post Tower Semiconductor ships 5 million coherent photonic circuits to Marve
 - **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Wall Street veteran Jim Paulsen said there are six warning signs he's watching that signal the market may be headed for a major consolidation.
 - [原文連結](https://www.businessinsider.com/stock-market-correction-warning-signs-sp500-jim-paulsen-oil-consumers-2026-6)
-
----
-
-### 🚀 全新 NVIDIA Vera Rubin 系統推動 AI 伺服器產業，Super Micro 股價上漲 11%，戴爾股價上漲 5%
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: 24/7 Wall St. (2026-06-22T14:28:14Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Super Micro Computer（納斯達克股票代碼：SMCI）股價週一早盤上漲 11%，引領人工智慧伺服器上漲，因 ISC High Performancea 上發布的新硬體引發...
-- [原文連結](https://247wallst.com/investing/2026/06/22/super-micro-jumps-11-dell-rises-5-as-new-nvidia-vera-rubin-systems-fuel-the-ai-server-trade/)
 
 ---
 
