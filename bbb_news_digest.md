@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-24T08:20:49.907538+00:00
+> 更新時間：2026-06-24T11:45:06.573205+00:00
 
 ### 🚀 獨家：華邦NOR快閃記憶體據報進入Nvidia供應鏈
 - **題材**: `AI伺服器` | **重要性**: `83`
@@ -7,15 +7,6 @@
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 據報道，隨著AI伺服器需求帶動記憶體消耗激增，加上Nvidia下一代Vera Rubin平台準備在2026年下半年批量出貨，華邦的NOR快閃記憶體首次進入Nvidia供應鏈。
 - [原文連結](https://www.digitimes.com/news/a20260618PD216/flash-winbond-nvidia-supply-chain-demand.html)
-
----
-
-### 🚀 專訪：MicroLED與SiPh eye 3.2T AI數據競賽
-- **題材**: `光通訊與矽光子` | **重要性**: `78`
-- **來源**: Digitimes (2026-06-17T23:49:17Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: AI浪潮正快速重塑全球半導體供應鏈，這場變革也為台灣LED產業開啟新的成長篇章。隨著台灣LED廠商逐漸擺脫消費市場的價格戰，英偉達力推AI傳輸升級…
-- [原文連結](https://www.digitimes.com/news/a20260617PD211/microled-siph-cpo-optical-communications-supply-chain-taiwan.html)
 
 ---
 
@@ -34,6 +25,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 經濟部下屬的台灣投資辦公室 InvesTaiwan 已批准以 MSScorps 為首的四家公司擴大台灣投資計劃，該計劃將投資 15 億新台幣（4740 萬美元），並且是第三次提交申請。該公司
 - [原文連結](https://www.digitimes.com/news/a20260618PD236/taiwan-investment-msscorps-silicon-photonics.html)
+
+---
+
+### 🚀 散熱剛剛成為AI基礎設施最具策略性的選擇
+- **題材**: `AI伺服器` | **重要性**: `70`
+- **來源**: TechRadar (2026-06-23T08:55:11Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 隨著人工智慧電力需求的激增，冷卻成為基礎設施的決定性競爭優勢。
+- [原文連結](https://www.techradar.com/pro/cooling-just-became-the-most-strategic-choice-in-ai-infrastructure)
 
 ---
 
@@ -79,6 +79,15 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 韓國央行將三星電子和SK海力士的績效獎金列為對該國通膨穩定的風險。
 - [原文連結](https://www.tomshardware.com/tech-industry/bank-of-korea-flags-samsung-and-sk-hynix-chip-bonuses-as-a-national-inflation-risk)
+
+---
+
+### 🚀 AI資料中心帶動800G和1.6T模組空前需求，光模組市場將翻倍
+- **題材**: `光通訊與矽光子` | **重要性**: `65`
+- **來源**: GlobeNewswire (2026-06-23T10:48:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 一份新的 256 頁報告發現，全球光收發器市場在 2026 年至 2036 年期間將大致翻一番或更多，隨著矽光子學超越傳統雷射技術，人工智慧網路需求成為成長最快的領域。一個新的 25…
+- [原文連結](https://www.globenewswire.com/news-release/2026/06/23/3315806/28124/en/Optical-Transceiver-Market-Set-to-Double-as-AI-Data-Centers-Drive-Unprecedented-Demand-for-800G-and-1-6T-Modules.html)
 
 ---
 
@@ -146,6 +155,15 @@ The post Tower Semiconductor ships 5 million coherent photonic circuits to Marve
 
 ---
 
+### 🚀 Credo Technology (CRDO) 獲得新的分析師評級，股價攀升至新高
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-06-23T01:34:25Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Credo Technology Group Holding Ltd.（納斯達克股票代碼：CRDO）是回報豐厚的 10 隻股票之一。 Credo Technology 週一漲至歷史新高，...
+- [原文連結](https://finance.yahoo.com/markets/stocks/articles/credo-technology-crdo-earns-analyst-013425883.html)
+
+---
+
 ### ⚠️ 一位資深策略師表示，6個警訊顯示股市即將下跌20%
 - **題材**: `總體風險` | **重要性**: `60`
 - **來源**: Business Insider (2026-06-22T15:29:30Z)
@@ -161,24 +179,6 @@ The post Tower Semiconductor ships 5 million coherent photonic circuits to Marve
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Super Micro Computer（納斯達克股票代碼：SMCI）股價週一早盤上漲 11%，引領人工智慧伺服器上漲，因 ISC High Performancea 上發布的新硬體引發...
 - [原文連結](https://247wallst.com/investing/2026/06/22/super-micro-jumps-11-dell-rises-5-as-new-nvidia-vera-rubin-systems-fuel-the-ai-server-trade/)
-
----
-
-### 🚀 高油價推動中國電動車銷量激增，但充電網路卻落後
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-06-22T04:35:41Z)
-- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 
-- [原文連結](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_8e74bc18-2190-4a5f-bbeb-4e458c7406b0)
-
----
-
-### 🚀 Amkor 因台灣半導體交易而股價飆升。如何在這裡玩 AMKR 股票。
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: Barchart.com (2026-06-20T13:30:02Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Amkor Technology 在與台積電建立 10 年變革性合作夥伴關係後，引發了強勁的反彈。你現在應該採取什麼行動？
-- [原文連結](https://www.barchart.com/story/news/2566779/amkor-soared-on-a-taiwan-semi-deal-how-to-play-amkr-stock-here)
 
 ---
 
