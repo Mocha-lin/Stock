@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-24T11:45:06.573205+00:00
+> 更新時間：2026-06-24T15:27:50.758810+00:00
 
 ### 🚀 獨家：華邦NOR快閃記憶體據報進入Nvidia供應鏈
 - **題材**: `AI伺服器` | **重要性**: `83`
@@ -46,15 +46,6 @@
 
 ---
 
-### ⚖️ HBM 熱潮重塑韓國晶片產業 SK 海力士超越三星
-- **題材**: `HBM記憶體` | **重要性**: `68`
-- **來源**: Digitimes (2026-06-22T08:23:25Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 6 月 22 日，SK 海力士短暫超越三星電子，奪得韓國 KOSPI 交易所普通股市值榜首的位置，這一里程碑反映了高頻寬記憶體 (HBM) 如何重新定義了韓國半導體的價值…
-- [原文連結](https://www.digitimes.com/news/a20260622VL210/sk-hynix-samsung-hbm-market-capitalization.html)
-
----
-
 ### ⚖️ 台積電玻璃基板在 2030 年之前不太可能推出
 - **題材**: `半導體先進製程` | **重要性**: `68`
 - **來源**: Digitimes (2026-06-22T07:09:23Z)
@@ -73,12 +64,12 @@
 
 ---
 
-### ⚠️ 三星和 SK 海力士為晶片工人提​​供的獎金被標記為國家通膨風險——韓國央行預計全年通膨率將遠高於 2% 的目標
-- **題材**: `HBM記憶體` | **重要性**: `67`
-- **來源**: Tom's Hardware UK (2026-06-21T11:58:39Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 韓國央行將三星電子和SK海力士的績效獎金列為對該國通膨穩定的風險。
-- [原文連結](https://www.tomshardware.com/tech-industry/bank-of-korea-flags-samsung-and-sk-hynix-chip-bonuses-as-a-national-inflation-risk)
+### ⚖️ 人工智慧需求蓬勃發展，三星 HBM4 營收突破 10 億美元
+- **題材**: `HBM記憶體` | **重要性**: `65`
+- **來源**: SamMobile (2026-06-23T12:05:30Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 2026 年 2 月 12 日，三星開始量產第六代高頻寬記憶體 (HBM) 晶片 HBM4，這是當時業內其他公司未曾完成的壯舉。從那時起，該品牌的 HBM4 晶片需求量巨大，尤其是…
+- [原文連結](https://www.sammobile.com/news/samsungs-hbm4-revenue-surpasses-1-billion-amid-booming-ai-demand/)
 
 ---
 
@@ -152,6 +143,15 @@ The post Tower Semiconductor ships 5 million coherent photonic circuits to Marve
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 卓越電鍍科技董事長華雷傑表示，該公司正在將更多資源轉移到人工智慧液冷、CPO通訊模組和人工智慧資料中心的近線硬碟上，同時擴大在泰國的生產，並在…
 - [原文連結](https://www.digitimes.com/news/a20260616PD230/liquid-cooling-cpo-production-chairman-gold.html)
+
+---
+
+### ⚠️ 三星和 SK 海力士為晶片工人提​​供的獎金被標記為國家通膨風險——韓國央行預計全年通膨率將遠高於 2% 的目標
+- **題材**: `HBM記憶體` | **重要性**: `62`
+- **來源**: Tom's Hardware UK (2026-06-21T11:58:39Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 韓國央行將三星電子和SK海力士的績效獎金列為對該國通膨穩定的風險。
+- [原文連結](https://www.tomshardware.com/tech-industry/bank-of-korea-flags-samsung-and-sk-hynix-chip-bonuses-as-a-national-inflation-risk)
 
 ---
 
