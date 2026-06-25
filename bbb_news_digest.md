@@ -1,8 +1,8 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-25T00:14:24.106145+00:00
+> 更新時間：2026-06-25T04:57:20.251054+00:00
 
 ### 🚀 獨家：華邦NOR快閃記憶體據報進入Nvidia供應鏈
-- **題材**: `AI伺服器` | **重要性**: `83`
+- **題材**: `AI伺服器` | **重要性**: `78`
 - **來源**: Digitimes (2026-06-18T04:14:01Z)
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 據報道，隨著AI伺服器需求帶動記憶體消耗激增，加上Nvidia下一代Vera Rubin平台準備在2026年下半年批量出貨，華邦的NOR快閃記憶體首次進入Nvidia供應鏈。
@@ -119,30 +119,12 @@ The post Tower Semiconductor ships 5 million coherent photonic circuits to Marve
 
 ---
 
-### 🚀 SpaceX 如何與美光的設定相匹配，將價格快速提升 10 倍至 2000 美元。 SpaceX 下一階段的收入乘數
-- **題材**: `AI伺服器` | **重要性**: `65`
-- **來源**: Next Big Future (2026-06-18T02:18:54Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 如果 SPACEX 跟隨美光的收入和利潤激增，那麼它的估值就會被低估。 SPACEX 距離將其人工智慧收入從 4 月的每年 10 億美元提高到 2026 年 10 月的每年 330 億美元還有 4 個月的時間。吉瓦乘以每吉瓦數十億 = 每…收入
-- [原文連結](https://www.nextbigfuture.com/2026/06/how-spacex-matches-the-micron-setup-for-a-fast-10x-to-2000-revenue-multipliers-for-next-levels-for-spacex.html)
-
----
-
 ### ⚖️ 宏康加大矽光子測試投資，首個系統將於八月交付
 - **題材**: `光通訊與矽光子` | **重要性**: `63`
 - **來源**: Digitimes (2026-06-21T23:44:08Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 半導體測試分析服務商宏康於6月18日召開年度股東大會，董事長謝永芬表示，公司已開始投資矽光子晶圓及晶片光電分析平台，以期…
 - [原文連結](https://www.digitimes.com/news/a20260618PD229/testing-silicon-photonics-2026-cpo.html)
-
----
-
-### ⚖️ 據報道 SK 海力士在美國就 HBM 供應和當地投資計劃舉行會談
-- **題材**: `HBM記憶體` | **重要性**: `63`
-- **來源**: Digitimes (2026-06-19T03:23:13Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 據報道，SK 海力士已與美國副國務卿艾莉森·胡克（Allison Hooker）舉行了一次私人會議，業內人士猜測討論內容涵蓋與美國主要科技公司的高頻寬內存合作以及潛在的半導體領域…
-- [原文連結](https://www.digitimes.com/news/a20260618PD233/sk-hynix-hbm-investment-shipments-supply-chain.html)
 
 ---
 
@@ -164,6 +146,15 @@ The post Tower Semiconductor ships 5 million coherent photonic circuits to Marve
 
 ---
 
+### ⚖️ 美光科技的獲利狀況從未如此好過。開始擔心。
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: Trefis (2026-06-23T15:04:16Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 美光科技的股價在過去 12 個月內上漲了近 9 倍，市值超過 1.2 兆美元
+- [原文連結](https://www.trefis.com/articles/603858/micron-earnings-have-never-looked-better-start-worrying/2026-06-23)
+
+---
+
 ### 🚀 Credo Technology (CRDO) 獲得新的分析師評級，股價攀升至新高
 - **題材**: `光通訊與矽光子` | **重要性**: `60`
 - **來源**: Yahoo Entertainment (2026-06-23T01:34:25Z)
@@ -179,6 +170,15 @@ The post Tower Semiconductor ships 5 million coherent photonic circuits to Marve
 - **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Wall Street veteran Jim Paulsen said there are six warning signs he's watching that signal the market may be headed for a major consolidation.
 - [原文連結](https://www.businessinsider.com/stock-market-correction-warning-signs-sp500-jim-paulsen-oil-consumers-2026-6)
+
+---
+
+### ⚖️ NVIDIA 在歐洲部署了 35 台超級計算機，涵蓋 23 個國家，AI 運算能力高達 800 Exaflops
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: Wccftech (2026-06-22T15:25:20Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: NVIDIA 的 AI 實力正在歐洲各地部署，配備 35 台全新超級計算機，提供 800 Exaflops 的運算能力。歐洲正在建構 35 台全 NVIDIA AI 超級計算機，包括可擴展至 800 Exaflops 的 Hopper、Blackwell 和 Rubin 部署
+- [原文連結](https://wccftech.com/nvidia-floods-europe-with-35-supercomputers-23-countries-800-exaflops-ai-compute/)
 
 ---
 
