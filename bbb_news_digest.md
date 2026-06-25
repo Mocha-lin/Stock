@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-25T04:57:20.251054+00:00
+> 更新時間：2026-06-25T08:20:52.389619+00:00
 
 ### 🚀 獨家：華邦NOR快閃記憶體據報進入Nvidia供應鏈
 - **題材**: `AI伺服器` | **重要性**: `78`
@@ -34,15 +34,6 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: SK海力士位於韓國清州的半導體生產基地自2026年以來發生了一系列事故，引發人們對其安全管理系統是否有漏洞的質疑。這些事件引起了密切關注，因為許多事件發生在 M15X 晶圓廠之後…
 - [原文連結](https://www.digitimes.com/news/a20260623PD214/sk-hynix-hbm-production-2026-equipment.html)
-
----
-
-### ⚖️ 台積電玻璃基板在 2030 年之前不太可能推出
-- **題材**: `半導體先進製程` | **重要性**: `68`
-- **來源**: Digitimes (2026-06-22T07:09:23Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 先進半導體封裝中玻璃芯基板商業化的競賽正在升溫，但該技術在頭條新聞中的發展速度比在生產線上的發展速度更快。 DIGITIMES一直在追蹤台積電CoPoS先進封裝的最新進展…
-- [原文連結](https://www.digitimes.com/news/a20260622PD214/tsmc-digitimes-glass-substrate-2030-intel.html)
 
 ---
 
@@ -116,6 +107,15 @@
 - **摘要**: Tower's milestone in photonic circuits enhances AI data center efficiency, signaling a shift towards integrated, high-bandwidth optical solutions.
 The post Tower Semiconductor ships 5 million coherent photonic circuits to Marvell for AI data centers appeared …
 - [原文連結](https://cryptobriefing.com/tower-semiconductor-photonic-circuits-marvell-ai/)
+
+---
+
+### ⚖️ 台積電玻璃基板在 2030 年之前不太可能推出
+- **題材**: `半導體先進製程` | **重要性**: `63`
+- **來源**: Digitimes (2026-06-22T07:09:23Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 先進半導體封裝中玻璃芯基板商業化的競賽正在升溫，但該技術在頭條新聞中的發展速度比在生產線上的發展速度更快。 DIGITIMES一直在追蹤台積電CoPoS先進封裝的最新進展…
+- [原文連結](https://www.digitimes.com/news/a20260622PD214/tsmc-digitimes-glass-substrate-2030-intel.html)
 
 ---
 
