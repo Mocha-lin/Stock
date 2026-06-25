@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-25T11:40:15.952734+00:00
+> 更新時間：2026-06-25T15:35:39.540823+00:00
 
 ### 🚀 獨家：華邦NOR快閃記憶體據報進入Nvidia供應鏈
 - **題材**: `AI伺服器` | **重要性**: `78`
@@ -19,21 +19,30 @@
 
 ---
 
+### 🚀 瑞穗表示，英特爾（INTC）先進封裝可以支援人工智慧資料中心的成長
+- **題材**: `半導體先進製程` | **重要性**: `75`
+- **來源**: Yahoo Entertainment (2026-06-24T13:47:19Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 英特爾（納斯達克股票代碼：INTC）是分析師關注的 15 隻人工智慧股票之一：微軟、英偉達等。英特爾公司可能會受益於…
+- [原文連結](https://finance.yahoo.com/technology/ai/articles/intel-intc-advanced-packaging-could-134719489.html)
+
+---
+
+### ⚖️ SK 海力士在歷史性的納斯達克上市，擬籌集高達 290 億美元資金——所有收益將用於先進的 AI 內存工廠和 EUV 工具訂單
+- **題材**: `半導體先進製程` | **重要性**: `72`
+- **來源**: Tom's Hardware UK (2026-06-24T12:42:34Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: SK海力士週三提交了一份證券登記聲明，擬透過在納斯達克上市的美國存託憑證籌集至多45.45兆韓元。
+- [原文連結](https://www.tomshardware.com/tech-industry/sk-hynix-files-to-raise-up-to-29-billion-in-nasdaq-listing)
+
+---
+
 ### 🚀 散熱剛剛成為AI基礎設施最具策略性的選擇
 - **題材**: `AI伺服器` | **重要性**: `70`
 - **來源**: TechRadar (2026-06-23T08:55:11Z)
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 隨著人工智慧電力需求的激增，冷卻成為基礎設施的決定性競爭優勢。
 - [原文連結](https://www.techradar.com/pro/cooling-just-became-the-most-strategic-choice-in-ai-infrastructure)
-
----
-
-### ⚖️ SK海力士清州工廠事故引發HBM擴建安全擔憂
-- **題材**: `HBM記憶體` | **重要性**: `68`
-- **來源**: Digitimes (2026-06-23T02:41:02Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: SK海力士位於韓國清州的半導體生產基地自2026年以來發生了一系列事故，引發人們對其安全管理系統是否有漏洞的質疑。這些事件引起了密切關注，因為許多事件發生在 M15X 晶圓廠之後…
-- [原文連結](https://www.digitimes.com/news/a20260623PD214/sk-hynix-hbm-production-2026-equipment.html)
 
 ---
 
@@ -100,16 +109,6 @@
 
 ---
 
-### ⚖️ Tower Semiconductor ships 5 million coherent photonic circuits to Marvell for AI data centers
-- **題材**: `光通訊與矽光子` | **重要性**: `65`
-- **來源**: Crypto Briefing (2026-06-18T11:57:24Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Tower's milestone in photonic circuits enhances AI data center efficiency, signaling a shift towards integrated, high-bandwidth optical solutions.
-The post Tower Semiconductor ships 5 million coherent photonic circuits to Marvell for AI data centers appeared …
-- [原文連結](https://cryptobriefing.com/tower-semiconductor-photonic-circuits-marvell-ai/)
-
----
-
 ### ⚖️ 台積電玻璃基板在 2030 年之前不太可能推出
 - **題材**: `半導體先進製程` | **重要性**: `63`
 - **來源**: Digitimes (2026-06-22T07:09:23Z)
@@ -125,6 +124,24 @@ The post Tower Semiconductor ships 5 million coherent photonic circuits to Marve
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 半導體測試分析服務商宏康於6月18日召開年度股東大會，董事長謝永芬表示，公司已開始投資矽光子晶圓及晶片光電分析平台，以期…
 - [原文連結](https://www.digitimes.com/news/a20260618PD229/testing-silicon-photonics-2026-cpo.html)
+
+---
+
+### ⚖️ 韓國 SK 海力士計畫在美國上市 290 億美元
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: Forbes (2026-06-24T13:06:53Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 這家韓國晶片製造商的業務因人工智慧需求的蓬勃發展而激增。
+- [原文連結](https://www.forbes.com/sites/tylerroush/2026/06/24/south-koreas-sk-hynix-plans-29-billion-us-debut/)
+
+---
+
+### ⚖️ SK 海力士計畫 2026 年在納斯達克 ADR 上市，籌資 290 億美元
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: Quartz India (2026-06-24T11:57:37Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 這家韓國記憶體晶片製造商計劃發行 1,779 萬股新股，預計將於 7​​ 月 10 日開始交易
+- [原文連結](https://qz.com/sk-hynix-nasdaq-adr-listing-29-billion-062426)
 
 ---
 
@@ -146,15 +163,6 @@ The post Tower Semiconductor ships 5 million coherent photonic circuits to Marve
 
 ---
 
-### ⚖️ 美光科技的獲利狀況從未如此好過。開始擔心。
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: Trefis (2026-06-23T15:04:16Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 美光科技的股價在過去 12 個月內上漲了近 9 倍，市值超過 1.2 兆美元
-- [原文連結](https://www.trefis.com/articles/603858/micron-earnings-have-never-looked-better-start-worrying/2026-06-23)
-
----
-
 ### 🚀 Credo Technology (CRDO) 獲得新的分析師評級，股價攀升至新高
 - **題材**: `光通訊與矽光子` | **重要性**: `60`
 - **來源**: Yahoo Entertainment (2026-06-23T01:34:25Z)
@@ -164,21 +172,12 @@ The post Tower Semiconductor ships 5 million coherent photonic circuits to Marve
 
 ---
 
-### ⚠️ 一位資深策略師表示，6個警訊顯示股市即將下跌20%
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Business Insider (2026-06-22T15:29:30Z)
-- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Wall Street veteran Jim Paulsen said there are six warning signs he's watching that signal the market may be headed for a major consolidation.
-- [原文連結](https://www.businessinsider.com/stock-market-correction-warning-signs-sp500-jim-paulsen-oil-consumers-2026-6)
-
----
-
-### ⚖️ NVIDIA 在歐洲部署了 35 台超級計算機，涵蓋 23 個國家，AI 運算能力高達 800 Exaflops
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: Wccftech (2026-06-22T15:25:20Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: NVIDIA 的 AI 實力正在歐洲各地部署，配備 35 台全新超級計算機，提供 800 Exaflops 的運算能力。歐洲正在建構 35 台全 NVIDIA AI 超級計算機，包括可擴展至 800 Exaflops 的 Hopper、Blackwell 和 Rubin 部署
-- [原文連結](https://wccftech.com/nvidia-floods-europe-with-35-supercomputers-23-countries-800-exaflops-ai-compute/)
+### 🚀 Amkor 因台灣半導體交易而股價飆升。如何在這裡玩 AMKR 股票。
+- **題材**: `半導體先進製程` | **重要性**: `60`
+- **來源**: Barchart.com (2026-06-20T13:30:02Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Amkor Technology 在與台積電建立 10 年變革性合作夥伴關係後，引發了強勁的反彈。你現在應該採取什麼行動？
+- [原文連結](https://www.barchart.com/story/news/2566779/amkor-soared-on-a-taiwan-semi-deal-how-to-play-amkr-stock-here)
 
 ---
 
