@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-25T15:35:39.540823+00:00
+> 更新時間：2026-06-25T18:59:17.419542+00:00
 
 ### 🚀 獨家：華邦NOR快閃記憶體據報進入Nvidia供應鏈
 - **題材**: `AI伺服器` | **重要性**: `78`
@@ -34,6 +34,15 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: SK海力士週三提交了一份證券登記聲明，擬透過在納斯達克上市的美國存託憑證籌集至多45.45兆韓元。
 - [原文連結](https://www.tomshardware.com/tech-industry/sk-hynix-files-to-raise-up-to-29-billion-in-nasdaq-listing)
+
+---
+
+### 🚀 隨著人工智慧重塑網絡，英偉達在資料中心乙太網路交換領域佔據領先地位
+- **題材**: `光通訊與矽光子` | **重要性**: `70`
+- **來源**: 4sysops.com (2026-06-24T16:26:47Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Nvidia 已超越長期領先的思科和 Arista，成為資料中心乙太網路交換市場的最大收入來源。根據IDC 2026年第一季的數據，該公司的轉換收入飆升近193%，達到21億美元…
+- [原文連結](https://4sysops.com/archives/nvidia-claims-top-spot-in-data-center-ethernet-switching-as-ai-reshapes-networking/)
 
 ---
 
@@ -88,15 +97,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 一份新的 256 頁報告發現，全球光收發器市場在 2026 年至 2036 年期間將大致翻一番或更多，隨著矽光子學超越傳統雷射技術，人工智慧網路需求成為成長最快的領域。一個新的 25…
 - [原文連結](https://www.globenewswire.com/news-release/2026/06/23/3315806/28124/en/Optical-Transceiver-Market-Set-to-Double-as-AI-Data-Centers-Drive-Unprecedented-Demand-for-800G-and-1-6T-Modules.html)
-
----
-
-### 🚀 油價上漲導致加拿大通膨創29個月新高
-- **題材**: `總體風險` | **重要性**: `65`
-- **來源**: Al Jazeera English (2026-06-22T16:24:55Z)
-- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 汽油價格領漲，年增率達 33.2%。
-- [原文連結](https://www.aljazeera.com/economy/2026/6/22/canadas-inflation-hits-29-month-high-amid-heightened-oil-prices)
 
 ---
 
@@ -172,12 +172,12 @@
 
 ---
 
-### 🚀 Amkor 因台灣半導體交易而股價飆升。如何在這裡玩 AMKR 股票。
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: Barchart.com (2026-06-20T13:30:02Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Amkor Technology 在與台積電建立 10 年變革性合作夥伴關係後，引發了強勁的反彈。你現在應該採取什麼行動？
-- [原文連結](https://www.barchart.com/story/news/2566779/amkor-soared-on-a-taiwan-semi-deal-how-to-play-amkr-stock-here)
+### 🚀 油價上漲導致加拿大通膨創29個月新高
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Al Jazeera English (2026-06-22T16:24:55Z)
+- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 汽油價格領漲，年增率達 33.2%。
+- [原文連結](https://www.aljazeera.com/economy/2026/6/22/canadas-inflation-hits-29-month-high-amid-heightened-oil-prices)
 
 ---
 

@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-06-25T15:35:39.540823+00:00",
+  "generated_at": "2026-06-25T18:59:17.419542+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 70,
@@ -156,6 +156,44 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
+      "id": "fa04fd7ad711ad1e",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "隨著人工智慧重塑網絡，英偉達在資料中心乙太網路交換領域佔據領先地位",
+      "summary": "Nvidia 已超越長期領先的思科和 Arista，成為資料中心乙太網路交換市場的最大收入來源。根據IDC 2026年第一季的數據，該公司的轉換收入飆升近193%，達到21億美元…",
+      "original_title": "Nvidia claims top spot in data center Ethernet switching as AI reshapes networking",
+      "url": "https://4sysops.com/archives/nvidia-claims-top-spot-in-data-center-ethernet-switching-as-ai-reshapes-networking/",
+      "source": "4sysops.com",
+      "domain": "4sysops.com",
+      "published_at": "2026-06-24T16:26:47Z",
+      "importance": 70,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "bc52e23b5653002a",
@@ -378,44 +416,6 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "716052bc2f81a994",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "油價上漲導致加拿大通膨創29個月新高",
-      "summary": "汽油價格領漲，年增率達 33.2%。",
-      "original_title": "Canada’s inflation hits 29-month high amid heightened oil prices",
-      "url": "https://www.aljazeera.com/economy/2026/6/22/canadas-inflation-hits-29-month-high-amid-heightened-oil-prices",
-      "source": "Al Jazeera English",
-      "domain": "aljazeera.com",
-      "published_at": "2026-06-22T16:24:55Z",
-      "importance": 65,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "f07d74b8d1e76a33",
@@ -716,6 +716,44 @@
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "716052bc2f81a994",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "油價上漲導致加拿大通膨創29個月新高",
+      "summary": "汽油價格領漲，年增率達 33.2%。",
+      "original_title": "Canada’s inflation hits 29-month high amid heightened oil prices",
+      "url": "https://www.aljazeera.com/economy/2026/6/22/canadas-inflation-hits-29-month-high-amid-heightened-oil-prices",
+      "source": "Al Jazeera English",
+      "domain": "aljazeera.com",
+      "published_at": "2026-06-22T16:24:55Z",
+      "importance": 60,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "eb04a75382e78621",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -903,6 +941,82 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "bfb87c5687576781",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "霍爾木茲危機最嚴重的時期已經過去了嗎？",
+      "summary": "隨著油價下跌，船隻再次通過霍爾木茲海峽。但消費者的緩解可能需要更長的時間。",
+      "original_title": "Has the worst of the Hormuz crisis passed?",
+      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/6/24/has-the-worst-of-the-hormuz-crisis-passed",
+      "source": "Al Jazeera English",
+      "domain": "aljazeera.com",
+      "published_at": "2026-06-24T16:50:57Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "679dd95032599817",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "川普表示司法部將「立即」調查加油站價格詐欺行為",
+      "summary": "唐納德·川普總統指責石油公司哄抬價格，呼籲司法部「立即開始調查」。",
+      "original_title": "Trump says DOJ will 'immediately' look into price gouging at the gas pump",
+      "url": "https://abcnews.com/US/trump-doj-immediately-price-gouging-gas-pump/story?id=134161317",
+      "source": "Abcnews.com",
+      "domain": "abcnews.com",
+      "published_at": "2026-06-24T15:42:35Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "db4a978e74f2e5cc",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1088,44 +1202,6 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "3b44bded57dbe91a",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "美國人工智慧股票拋售震動了從華爾街到亞洲的市場",
-      "summary": "一位匿名讀者引用了《衛報》的一篇報導：週二，科技股拋售震動了全球市場，因為人們的注意力從美國與伊朗戰爭的進展轉向人工智慧公司和晶片製造商的未來，這些公司和晶片製造商推動股市重新上漲…",
-      "original_title": "US AI Stock Sell-Off Shakes Markets From Wall Street To Asia",
-      "url": "https://news.slashdot.org/story/26/06/24/0551205/us-ai-stock-sell-off-shakes-markets-from-wall-street-to-asia",
-      "source": "Slashdot.org",
-      "domain": "news.slashdot.org",
-      "published_at": "2026-06-24T06:00:00Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "c85f591e57e3777d",
@@ -1573,44 +1649,6 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "a78fab042e6ee1a3",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "矽光子公司警告歐洲缺乏將研究轉化為商業成功的基礎設施",
-      "summary": "基石光子創新中心本週發布的研究表明，如果不緊急宣傳，原型設計和擴大基礎設施規模方面的挑戰可能會阻礙矽光子 (SiPh) 行業在全球主要市場的成長…",
-      "original_title": "Silicon photonics firms warn Europe lacks infrastructure to turn research into commercial success",
-      "url": "https://biztoc.com/x/8e1d6420a7630fb5",
-      "source": "Biztoc.com",
-      "domain": "biztoc.com",
-      "published_at": "2026-06-19T10:55:23Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "334720ac743e8b63",
@@ -2212,82 +2250,6 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "f4c823350bb3b015",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "經濟學家：即使伊朗戰爭結束，通膨痛苦也可能持續存在",
-      "summary": "經濟學家談論持續的通貨膨脹以及消費者可以採取哪些措施來應對。",
-      "original_title": "Inflation pain could linger even after the Iran war is ends: Economists",
-      "url": "https://abcnews.com/Business/buckle-inflation-pain-linger-after-iran-war-ends/story?id=133930362",
-      "source": "Abcnews.com",
-      "domain": "abcnews.com",
-      "published_at": "2026-06-18T18:24:14Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "8713fca3ced118c7",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "誰贏了美伊協議？",
-      "summary": "美國和伊朗簽署協議，但協議內容為何？",
-      "original_title": "Who Won The US-Iran Deal?",
-      "url": "https://www.bbc.co.uk/sounds/play/p0nrn5gq?at_campaign=rss",
-      "source": "BBC News",
-      "domain": "bbc.co.uk",
-      "published_at": "2026-06-18T16:31:00Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "5af107d542c70d78",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2400,6 +2362,82 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "f4c823350bb3b015",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "經濟學家：即使伊朗戰爭結束，通膨痛苦也可能持續存在",
+      "summary": "經濟學家談論持續的通貨膨脹以及消費者可以採取哪些措施來應對。",
+      "original_title": "Inflation pain could linger even after the Iran war is ends: Economists",
+      "url": "https://abcnews.com/Business/buckle-inflation-pain-linger-after-iran-war-ends/story?id=133930362",
+      "source": "Abcnews.com",
+      "domain": "abcnews.com",
+      "published_at": "2026-06-18T18:24:14Z",
+      "importance": 45,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
+    },
+    {
+      "id": "8713fca3ced118c7",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "誰贏了美伊協議？",
+      "summary": "美國和伊朗簽署協議，但協議內容為何？",
+      "original_title": "Who Won The US-Iran Deal?",
+      "url": "https://www.bbc.co.uk/sounds/play/p0nrn5gq?at_campaign=rss",
+      "source": "BBC News",
+      "domain": "bbc.co.uk",
+      "published_at": "2026-06-18T16:31:00Z",
+      "importance": 45,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     },
     {
       "id": "e2f2635fef74181e",
@@ -2549,44 +2587,6 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "e2f2b98012282300",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "航空燃油價格正在下降，但預計機票價格不會很快下降",
-      "summary": "航空燃油的平均價格已跌至與伊朗戰爭開始以來的最低點。但航空專家表示，機票價格可能居高不下，至少目前是如此。",
-      "original_title": "The price of jet fuel is falling, but don't expect airfares to follow any time soon",
-      "url": "https://www.npr.org/2026/06/18/nx-s1-5860631/jet-fuel-airfare-iran-war",
-      "source": "NPR",
-      "domain": "npr.org",
-      "published_at": "2026-06-18T09:00:00Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     },
     {
       "id": "339ba2791b3baabb",
