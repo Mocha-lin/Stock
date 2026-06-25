@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-25T18:59:17.419542+00:00
+> 更新時間：2026-06-25T20:54:16.077491+00:00
 
 ### 🚀 獨家：華邦NOR快閃記憶體據報進入Nvidia供應鏈
 - **題材**: `AI伺服器` | **重要性**: `78`
@@ -7,15 +7,6 @@
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 據報道，隨著AI伺服器需求帶動記憶體消耗激增，加上Nvidia下一代Vera Rubin平台準備在2026年下半年批量出貨，華邦的NOR快閃記憶體首次進入Nvidia供應鏈。
 - [原文連結](https://www.digitimes.com/news/a20260618PD216/flash-winbond-nvidia-supply-chain-demand.html)
-
----
-
-### ⚖️ Arm 伺服器佔據了資料中心市場收入的 45% 以上——GPU 叢集和高端人工智慧基礎設施推動了 x86 的結構性轉變
-- **題材**: `AI伺服器` | **重要性**: `77`
-- **來源**: Tom's Hardware UK (2026-06-22T20:34:17Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 基於 Arm 的伺服器佔 2026 年第一季伺服器收入的近一半，對 x86 構成挑戰。但在未來幾年，他們也可能在單位方面迎頭趕上。
-- [原文連結](https://www.tomshardware.com/desktops/servers/arm-servers-capture-over-45-percent-of-data-center-market-revenue-gpu-clusters-and-high-end-ai-infrastructure-fuel-a-tectonic-shift-away-from-x86)
 
 ---
 
@@ -29,11 +20,20 @@
 ---
 
 ### ⚖️ SK 海力士在歷史性的納斯達克上市，擬籌集高達 290 億美元資金——所有收益將用於先進的 AI 內存工廠和 EUV 工具訂單
-- **題材**: `半導體先進製程` | **重要性**: `72`
+- **題材**: `HBM記憶體` | **重要性**: `72`
 - **來源**: Tom's Hardware UK (2026-06-24T12:42:34Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: SK海力士週三提交了一份證券登記聲明，擬透過在納斯達克上市的美國存託憑證籌集至多45.45兆韓元。
 - [原文連結](https://www.tomshardware.com/tech-industry/sk-hynix-files-to-raise-up-to-29-billion-in-nasdaq-listing)
+
+---
+
+### ⚖️ Arm 伺服器佔據了資料中心市場收入的 45% 以上——GPU 叢集和高端人工智慧基礎設施推動了 x86 的結構性轉變
+- **題材**: `AI伺服器` | **重要性**: `72`
+- **來源**: Tom's Hardware UK (2026-06-22T20:34:17Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 基於 Arm 的伺服器佔 2026 年第一季伺服器收入的近一半，對 x86 構成挑戰。但在未來幾年，他們也可能在單位方面迎頭趕上。
+- [原文連結](https://www.tomshardware.com/desktops/servers/arm-servers-capture-over-45-percent-of-data-center-market-revenue-gpu-clusters-and-high-end-ai-infrastructure-fuel-a-tectonic-shift-away-from-x86)
 
 ---
 
