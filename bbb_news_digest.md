@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-24T20:25:35.061613+00:00
+> 更新時間：2026-06-25T00:14:24.106145+00:00
 
 ### 🚀 獨家：華邦NOR快閃記憶體據報進入Nvidia供應鏈
 - **題材**: `AI伺服器` | **重要性**: `83`
@@ -16,15 +16,6 @@
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 基於 Arm 的伺服器佔 2026 年第一季伺服器收入的近一半，對 x86 構成挑戰。但在未來幾年，他們也可能在單位方面迎頭趕上。
 - [原文連結](https://www.tomshardware.com/desktops/servers/arm-servers-capture-over-45-percent-of-data-center-market-revenue-gpu-clusters-and-high-end-ai-infrastructure-fuel-a-tectonic-shift-away-from-x86)
-
----
-
-### ⚖️ MSScorps再次擴大台灣矽光子投資
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-06-21T23:44:38Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 經濟部下屬的台灣投資辦公室 InvesTaiwan 已批准以 MSScorps 為首的四家公司擴大台灣投資計劃，該計劃將投資 15 億新台幣（4740 萬美元），並且是第三次提交申請。該公司
-- [原文連結](https://www.digitimes.com/news/a20260618PD236/taiwan-investment-msscorps-silicon-photonics.html)
 
 ---
 
@@ -55,12 +46,12 @@
 
 ---
 
-### ⚖️ 宏康加大矽光子測試投資，首個系統將於八月交付
+### ⚖️ MSScorps再次擴大台灣矽光子投資
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-06-21T23:44:08Z)
+- **來源**: Digitimes (2026-06-21T23:44:38Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 半導體測試分析服務商宏康於6月18日召開年度股東大會，董事長謝永芬表示，公司已開始投資矽光子晶圓及晶片光電分析平台，以期…
-- [原文連結](https://www.digitimes.com/news/a20260618PD229/testing-silicon-photonics-2026-cpo.html)
+- **摘要**: 經濟部下屬的台灣投資辦公室 InvesTaiwan 已批准以 MSScorps 為首的四家公司擴大台灣投資計劃，該計劃將投資 15 億新台幣（4740 萬美元），並且是第三次提交申請。該公司
+- [原文連結](https://www.digitimes.com/news/a20260618PD236/taiwan-investment-msscorps-silicon-photonics.html)
 
 ---
 
@@ -137,12 +128,21 @@ The post Tower Semiconductor ships 5 million coherent photonic circuits to Marve
 
 ---
 
-### ⚖️ 卓越電鍍技術轉向AI液冷和CPO
+### ⚖️ 宏康加大矽光子測試投資，首個系統將於八月交付
 - **題材**: `光通訊與矽光子` | **重要性**: `63`
-- **來源**: Digitimes (2026-06-17T01:30:00Z)
+- **來源**: Digitimes (2026-06-21T23:44:08Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 卓越電鍍科技董事長華雷傑表示，該公司正在將更多資源轉移到人工智慧液冷、CPO通訊模組和人工智慧資料中心的近線硬碟上，同時擴大在泰國的生產，並在…
-- [原文連結](https://www.digitimes.com/news/a20260616PD230/liquid-cooling-cpo-production-chairman-gold.html)
+- **摘要**: 半導體測試分析服務商宏康於6月18日召開年度股東大會，董事長謝永芬表示，公司已開始投資矽光子晶圓及晶片光電分析平台，以期…
+- [原文連結](https://www.digitimes.com/news/a20260618PD229/testing-silicon-photonics-2026-cpo.html)
+
+---
+
+### ⚖️ 據報道 SK 海力士在美國就 HBM 供應和當地投資計劃舉行會談
+- **題材**: `HBM記憶體` | **重要性**: `63`
+- **來源**: Digitimes (2026-06-19T03:23:13Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 據報道，SK 海力士已與美國副國務卿艾莉森·胡克（Allison Hooker）舉行了一次私人會議，業內人士猜測討論內容涵蓋與美國主要科技公司的高頻寬內存合作以及潛在的半導體領域…
+- [原文連結](https://www.digitimes.com/news/a20260618PD233/sk-hynix-hbm-investment-shipments-supply-chain.html)
 
 ---
 
