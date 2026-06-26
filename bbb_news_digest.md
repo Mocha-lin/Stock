@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-26T15:18:40.568654+00:00
+> 更新時間：2026-06-26T18:20:19.601720+00:00
 
 ### ⚖️ 由於需求使設施滿載，Sigurd 擴大了人工智慧測試能力
 - **題材**: `光通訊與矽光子` | **重要性**: `88`
@@ -20,9 +20,9 @@
 ---
 
 ### ⚖️ Nvidia CPO 路線圖為台積電 COUPE 定位下一波 AI 基礎設施浪潮
-- **題材**: `AI伺服器` | **重要性**: `78`
+- **題材**: `光通訊與矽光子` | **重要性**: `78`
 - **來源**: Digitimes (2026-06-25T03:01:10Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Co-packaged optics (CPO) is rapidly emerging as a foundational architecture for next-generation AI infrastructure. With Nvidia's latest Scale-Up CPO switch roadmap now taking shape, bandwidth per AI rack is set to increase from approximately 130 TB/s in the B…
 - [原文連結](https://www.digitimes.com/news/a20260625PD213/nvidia-cpo-infrastructure-optics-roadmap-tsmc.html)
 
@@ -101,42 +101,6 @@ Tower Semiconductor 以 $38B 短暫成為以色列最有價值公司的帖子首
 
 ---
 
-### ⚖️ 韓國晶片工人的獎金如此之高，以致央行將其視為通膨風險
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: The Next Web (2026-06-23T16:50:03Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 半導體超級週期使韓國晶片工人的薪資異常高，該國央行現在擔心這些錢衝擊到更廣泛的經濟時會發生什麼。韓國央行本月警告稱，績效獎金…
-- [原文連結](https://thenextweb.com/news/south-korea-chip-bonuses-inflation-risk/)
-
----
-
-### 🚀 為什麼台積電的 CoWoS 角色使台積電 (TSM) 成為 HBM 驅動的 AI 晶片熱潮的核心
-- **題材**: `半導體先進製程` | **重要性**: `65`
-- **來源**: Yahoo Entertainment (2026-06-23T16:10:05Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 台灣積體電路製造有限公司（NYSE：TSM）是成長最快的高頻寬記憶體股票之一。公司最新相關...
-- [原文連結](https://finance.yahoo.com/technology/ai/articles/why-tsmc-cowos-role-keeps-161005521.html)
-
----
-
-### 🚀 散熱剛剛成為AI基礎設施最具策略性的選擇
-- **題材**: `AI伺服器` | **重要性**: `65`
-- **來源**: TechRadar (2026-06-23T08:55:11Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 隨著人工智慧電力需求的激增，冷卻成為基礎設施的決定性競爭優勢。
-- [原文連結](https://www.techradar.com/pro/cooling-just-became-the-most-strategic-choice-in-ai-infrastructure)
-
----
-
-### 🚀 在華爾街流行之前立即購買 3 隻股票
-- **題材**: `光通訊與矽光子` | **重要性**: `65`
-- **來源**: 24/7 Wall St. (2026-06-19T17:05:23Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 人工智慧基礎設施貿易已經擴大。 NVIDIA（納斯達克股票代碼：NVDA）仍然佔據主導地位，但提供連接、電源和…的二階衍生名稱...
-- [原文連結](https://247wallst.com/investing/2026/06/19/3-stocks-to-buy-now-before-wall-street-catches-on/)
-
----
-
 ### ⚠️ 蘋果宣布 MacBook 和 iPad 價格上漲
 - **題材**: `HBM記憶體` | **重要性**: `63`
 - **來源**: The Verge (2026-06-25T12:54:02Z)
@@ -173,12 +137,49 @@ Tower Semiconductor 以 $38B 短暫成為以色列最有價值公司的帖子首
 
 ---
 
+### 🚀 Nvidia 的直接晶片液體冷卻具有可持續性和性能優勢
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: TechRadar (2026-06-25T18:05:00Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 「我們已經消除了大量的電力消耗和幾乎所有的水消耗」—Nvidia Rubin 使用 45°C 直接晶片冷卻。
+- [原文連結](https://www.techradar.com/pro/nvidias-direct-to-chip-liquid-cooling-is-a-sustainability-and-a-performance-win)
+
+---
+
+### 🚀 JAŸ-Z 和 Rick Rubin 搭檔拍攝 HBO 紀錄片
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: Spinmagazine.com (2026-06-25T16:21:51Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Rick Rubin 和 JAŸ-Z 在 HBO 的一部新紀錄片系列中重新審視他們長期的創意合作關係。 Rick Rubin 和 JAŸ-Z 在 HBO 的一部新紀錄片系列中重新審視他們長期的創意合作關係。
+- [原文連結](https://www.spinmagazine.com/2026/06/jay-z-rick-rubin-documentary/)
+
+---
+
+### 🚀 Jay-Z 30 年的回憶值得在 Rick Rubin 執導的系列紀錄片預告片中重溫
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: Rolling Stone (2026-06-25T16:21:04Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Jay-Z 預告了《JAŸ-Z In 8》，這是他即將上映的由 Rick Rubin 執導的八集紀錄片，該片將在 HBO Max 上首播。
+- [原文連結](http://www.rollingstone.com/music/music-news/jay-z-eight-part-documentary-rick-rubin-directed-1235584028/)
+
+---
+
 ### 🚀 我們發現的 23 項 30 美元以下亞馬遜 Prime Day 最佳優惠（2026 年）
 - **題材**: `總體風險` | **重要性**: `60`
 - **來源**: Wired (2026-06-25T11:11:34Z)
 - **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 一切都很昂貴。從廚師刀到手持風扇，您可以挑選一款經過《連線》測試和認可的 Prime Day 精選商品，價格不超過 30 美元，犒勞一下自己。
 - [原文連結](https://www.wired.com/story/best-amazon-prime-day-deals-under-30-06-25-2026/)
+
+---
+
+### ⚖️ 長電科技將在上海興建先進晶片封裝新工廠
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: Crypto Briefing (2026-06-25T01:43:02Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: JCET's expansion in advanced chip packaging could bolster China's semiconductor capabilities, enhancing its competitive edge globally.
+The post JCET to build new plant in Shanghai for advanced chip packaging appeared first on Crypto Briefing.
+- [原文連結](https://cryptobriefing.com/jcet-shanghai-advanced-chip-packaging-plant/)
 
 ---
 
