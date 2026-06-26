@@ -1,5 +1,32 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-26T00:10:16.686806+00:00
+> 更新時間：2026-06-26T05:04:02.252845+00:00
+
+### 🚀 台積電 3nm 交貨時間超過一年 三星在代工大戰中迎戰英特爾
+- **題材**: `半導體先進製程` | **重要性**: `83`
+- **來源**: Digitimes (2026-06-25T02:39:41Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 隨著AI晶片需求激增，代工訂單爭奪戰愈演愈烈。韓國產業消息人士稱，未來2-3年將是三星電子代工業務的關鍵時期，其2028年的扭虧為盈目標取決於穩定的營運…
+- [原文連結](https://www.digitimes.com/news/a20260625PD220/samsung-semiconductor-foundry-chips-demand-intel-tsmc.html)
+
+---
+
+### 🚀 TSMC-Amkor alliance jolts packaging map as ASE races to expand
+- **題材**: `半導體先進製程` | **重要性**: `78`
+- **來源**: Digitimes (2026-06-25T03:05:31Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: The global semiconductor packaging and testing race is heating up as TSMC recently signed a 10-year agreement with Amkor to expand advanced packaging collaboration in Arizona, drawing close market attention to how the rivalry with ASE and Amkor will reshape m…
+- [原文連結](https://www.digitimes.com/news/a20260625PD222/packaging-ase-testing-tsmc-amkor.html)
+
+---
+
+### ⚖️ Nvidia CPO 路線圖為台積電 COUPE 定位下一波 AI 基礎設施浪潮
+- **題材**: `AI伺服器` | **重要性**: `78`
+- **來源**: Digitimes (2026-06-25T03:01:10Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Co-packaged optics (CPO) is rapidly emerging as a foundational architecture for next-generation AI infrastructure. With Nvidia's latest Scale-Up CPO switch roadmap now taking shape, bandwidth per AI rack is set to increase from approximately 130 TB/s in the B…
+- [原文連結](https://www.digitimes.com/news/a20260625PD213/nvidia-cpo-infrastructure-optics-roadmap-tsmc.html)
+
+---
 
 ### 🚀 瑞穗表示，英特爾（INTC）先進封裝可以支援人工智慧資料中心的成長
 - **題材**: `半導體先進製程` | **重要性**: `75`
@@ -46,21 +73,21 @@
 
 ---
 
-### ⚖️ SK海力士清州工廠事故引發HBM擴建安全擔憂
-- **題材**: `HBM記憶體` | **重要性**: `68`
-- **來源**: Digitimes (2026-06-23T02:41:02Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: SK海力士位於韓國清州的半導體生產基地自2026年以來發生了一系列事故，引發人們對其安全管理系統是否有漏洞的質疑。這些事件引起了密切關注，因為許多事件發生在 M15X 晶圓廠之後…
-- [原文連結](https://www.digitimes.com/news/a20260623PD214/sk-hynix-hbm-production-2026-equipment.html)
-
----
-
 ### ⚖️ MSScorps再次擴大台灣矽光子投資
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
 - **來源**: Digitimes (2026-06-21T23:44:38Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 經濟部下屬的台灣投資辦公室 InvesTaiwan 已批准以 MSScorps 為首的四家公司擴大台灣投資計劃，該計劃將投資 15 億新台幣（4740 萬美元），並且是第三次提交申請。該公司
 - [原文連結](https://www.digitimes.com/news/a20260618PD236/taiwan-investment-msscorps-silicon-photonics.html)
+
+---
+
+### 🚀 SK 海力士因納斯達克上市計劃而股價飆升，韓國 Kospi 股價上漲
+- **題材**: `HBM記憶體` | **重要性**: `65`
+- **來源**: Business Insider (2026-06-25T01:50:15Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 記憶體晶片製造商 SK 海力士正計劃在納斯達克上市，估值為 294 億美元。
+- [原文連結](https://www.businessinsider.com/south-korea-kospi-stock-market-today-sk-hynix-nasdaq-listing-2026-6#article)
 
 ---
 
@@ -136,48 +163,22 @@
 
 ---
 
+### ⚖️ 長電科技將在上海興建先進晶片封裝新工廠
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: Crypto Briefing (2026-06-25T01:43:02Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: JCET's expansion in advanced chip packaging could bolster China's semiconductor capabilities, enhancing its competitive edge globally.
+The post JCET to build new plant in Shanghai for advanced chip packaging appeared first on Crypto Briefing.
+- [原文連結](https://cryptobriefing.com/jcet-shanghai-advanced-chip-packaging-plant/)
+
+---
+
 ### 🚀 Qualcomm Dragonfly 生態系統支援人工智慧加速器、客製化晶片和網絡，透過一站式、可擴展的運算平台為下一代人工智慧工廠提供支援
 - **題材**: `光通訊與矽光子` | **重要性**: `60`
 - **來源**: Wccftech (2026-06-24T22:25:41Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Qualcomm Dragonfly 一站式提供強大的人工智慧運算加速器、CPU、突破性技術、網路和客製化晶片平台。進入龍
 - [原文連結](https://wccftech.com/qualcomm-dragonfly/)
-
----
-
-### ⚖️ 韓國 SK 海力士計畫在美國上市 290 億美元
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: Forbes (2026-06-24T13:06:53Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 這家韓國晶片製造商的業務因人工智慧需求的蓬勃發展而激增。
-- [原文連結](https://www.forbes.com/sites/tylerroush/2026/06/24/south-koreas-sk-hynix-plans-29-billion-us-debut/)
-
----
-
-### ⚖️ SK 海力士計畫 2026 年在納斯達克 ADR 上市，籌資 290 億美元
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: Quartz India (2026-06-24T11:57:37Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 這家韓國記憶體晶片製造商計劃發行 1,779 萬股新股，預計將於 7​​ 月 10 日開始交易
-- [原文連結](https://qz.com/sk-hynix-nasdaq-adr-listing-29-billion-062426)
-
----
-
-### ⚖️ Prime Day 桌面優惠：以低於 1690 美元的價格獲得完整的下一代 RTX 5070 工作站 — MSI Codex R2 降價 610 美元
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: TechRadar (2026-06-23T21:05:00Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 如果您準備好躍升到真正的 1440p 和 4K 效能，這款大幅折扣的 MSI 裝置可以將 Nvidia 的最新架構直接放到您的桌面上，而不會耗盡您的儲蓄帳戶。
-- [原文連結](https://www.techradar.com/pro/prime-day-desktop-deal-get-a-complete-next-gen-rtx-5070-workstation-for-under-usd1690-the-msi-codex-r2-drops-usd610)
-
----
-
-### 🚀 戰勝科技產品價格上漲：三星旗艦產品 Galaxy Tab S11 是一款引人注目的筆記型電腦替代品，價格下降了 265 美元
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: Android Central (2026-06-23T19:53:56Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 三星 Galaxy Tab S11 現在降價 265 美元，這款旗艦 Android 平板電腦售價僅 535 美元。
-- [原文連結](https://www.androidcentral.com/tablets/samsung-galaxy-tab/galaxy-tab-s11-is-down-by-usd250-prime-day)
 
 ---
 

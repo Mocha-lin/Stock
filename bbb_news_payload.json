@@ -1,10 +1,124 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-06-26T00:10:16.686806+00:00",
+  "generated_at": "2026-06-26T05:04:02.252845+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 70,
   "items": [
+    {
+      "id": "629177777f9fa403",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "台積電 3nm 交貨時間超過一年 三星在代工大戰中迎戰英特爾",
+      "summary": "隨著AI晶片需求激增，代工訂單爭奪戰愈演愈烈。韓國產業消息人士稱，未來2-3年將是三星電子代工業務的關鍵時期，其2028年的扭虧為盈目標取決於穩定的營運…",
+      "original_title": "TSMC 3nm lead times surpass one year as Samsung faces Intel in foundry push",
+      "url": "https://www.digitimes.com/news/a20260625PD220/samsung-semiconductor-foundry-chips-demand-intel-tsmc.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-06-25T02:39:41Z",
+      "importance": 83,
+      "impact": "positive",
+      "timeframe": "short_to_mid_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
+      "id": "136ac20674d781b0",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "TSMC-Amkor alliance jolts packaging map as ASE races to expand",
+      "summary": "The global semiconductor packaging and testing race is heating up as TSMC recently signed a 10-year agreement with Amkor to expand advanced packaging collaboration in Arizona, drawing close market attention to how the rivalry with ASE and Amkor will reshape m…",
+      "original_title": "TSMC-Amkor alliance jolts packaging map as ASE races to expand",
+      "url": "https://www.digitimes.com/news/a20260625PD222/packaging-ase-testing-tsmc-amkor.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-06-25T03:05:31Z",
+      "importance": 78,
+      "impact": "positive",
+      "timeframe": "short_to_mid_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
+      "id": "1466b33f62ce5cc1",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Nvidia CPO 路線圖為台積電 COUPE 定位下一波 AI 基礎設施浪潮",
+      "summary": "Co-packaged optics (CPO) is rapidly emerging as a foundational architecture for next-generation AI infrastructure. With Nvidia's latest Scale-Up CPO switch roadmap now taking shape, bandwidth per AI rack is set to increase from approximately 130 TB/s in the B…",
+      "original_title": "Nvidia CPO roadmap positions TSMC COUPE for next AI infrastructure wave",
+      "url": "https://www.digitimes.com/news/a20260625PD213/nvidia-cpo-infrastructure-optics-roadmap-tsmc.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-06-25T03:01:10Z",
+      "importance": 78,
+      "impact": "neutral",
+      "timeframe": "short_to_mid_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
     {
       "id": "8871ff8532a88229",
       "dataset": "market_news",
@@ -196,41 +310,6 @@
       "reason": "屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
-      "id": "199f5d0230077da3",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "SK海力士清州工廠事故引發HBM擴建安全擔憂",
-      "summary": "SK海力士位於韓國清州的半導體生產基地自2026年以來發生了一系列事故，引發人們對其安全管理系統是否有漏洞的質疑。這些事件引起了密切關注，因為許多事件發生在 M15X 晶圓廠之後…",
-      "original_title": "SK Hynix Cheongju plant accidents raise HBM expansion safety concerns",
-      "url": "https://www.digitimes.com/news/a20260623PD214/sk-hynix-hbm-production-2026-equipment.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-06-23T02:41:02Z",
-      "importance": 68,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "589808ba84721593",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -267,6 +346,41 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "be3f2fae32f7e808",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "SK 海力士因納斯達克上市計劃而股價飆升，韓國 Kospi 股價上漲",
+      "summary": "記憶體晶片製造商 SK 海力士正計劃在納斯達克上市，估值為 294 億美元。",
+      "original_title": "South Korea's Kospi jumps as SK Hynix stock surges on blockbuster Nasdaq listing plan",
+      "url": "https://www.businessinsider.com/south-korea-kospi-stock-market-today-sk-hynix-nasdaq-listing-2026-6#article",
+      "source": "Business Insider",
+      "domain": "businessinsider.com",
+      "published_at": "2026-06-25T01:50:15Z",
+      "importance": 65,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "abe6bac0ba38f381",
@@ -567,6 +681,44 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "1369d7cdacb02183",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "長電科技將在上海興建先進晶片封裝新工廠",
+      "summary": "JCET's expansion in advanced chip packaging could bolster China's semiconductor capabilities, enhancing its competitive edge globally.\nThe post JCET to build new plant in Shanghai for advanced chip packaging appeared first on Crypto Briefing.",
+      "original_title": "JCET to build new plant in Shanghai for advanced chip packaging",
+      "url": "https://cryptobriefing.com/jcet-shanghai-advanced-chip-packaging-plant/",
+      "source": "Crypto Briefing",
+      "domain": "cryptobriefing.com",
+      "published_at": "2026-06-25T01:43:02Z",
+      "importance": 60,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "eaf9ead18943ca4e",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -789,44 +941,6 @@
       "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "f1f7f84ad8aa60cb",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "Credo Technology (CRDO) 獲得新的分析師評級，股價攀升至新高",
-      "summary": "Credo Technology Group Holding Ltd.（納斯達克股票代碼：CRDO）是回報豐厚的 10 隻股票之一。 Credo Technology 週一漲至歷史新高，...",
-      "original_title": "Credo Technology (CRDO) Earns New Analyst Upgrade, Shares Climb to Fresh Peak",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/credo-technology-crdo-earns-analyst-013425883.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-06-23T01:34:25Z",
-      "importance": 60,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "716052bc2f81a994",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -941,32 +1055,29 @@
       "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "111c07e82793f8e1",
+      "id": "30568ffc6fa24810",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "(PR) 英特爾任命 Seok-Hee Lee 為英特爾代工部執行副總裁",
-      "summary": "英特爾公司今天宣布任命 Seok-Hee Lee 為英特爾代工廠執行副總裁，直接向執行長 Lip-Bu Tan 匯報。在此職位上，Lee 將領導所有先進封裝、系統整合、後端技術開發以及…",
-      "original_title": "(PR) Intel Appoints Seok-Hee Lee as Executive Vice President of Intel Foundry",
-      "url": "https://www.techpowerup.com/350115/intel-appoints-seok-hee-lee-as-executive-vice-president-of-intel-foundry",
-      "source": "Techpowerup.com",
-      "domain": "techpowerup.com",
-      "published_at": "2026-06-19T07:46:25Z",
-      "importance": 60,
+      "theme": "HBM記憶體",
+      "title": "LineShine 是速度超過 2 Exaflops 的最快超級計算機",
+      "summary": "有一種現像是，隨著年齡的增長，你的規模感在塑造你的早期時代中變得有些固定——比如期望一元商店以 1 美元出售商品，或者...",
+      "original_title": "LineShine Is Fastest Supercomputer at Over 2 Exaflops",
+      "url": "https://hackaday.com/2026/06/24/lineshine-is-fastest-supercomputer-at-over-2-exaflops/",
+      "source": "Hackaday",
+      "domain": "hackaday.com",
+      "published_at": "2026-06-25T02:00:39Z",
+      "importance": 55,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
+        "HBM",
+        "記憶體"
       ],
       "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
       ],
       "related_models": [
         "003",
@@ -976,7 +1087,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "c0e7f5bb49a91847",
@@ -1613,6 +1724,44 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "f1f7f84ad8aa60cb",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "Credo Technology (CRDO) 獲得新的分析師評級，股價攀升至新高",
+      "summary": "Credo Technology Group Holding Ltd.（納斯達克股票代碼：CRDO）是回報豐厚的 10 隻股票之一。 Credo Technology 週一漲至歷史新高，...",
+      "original_title": "Credo Technology (CRDO) Earns New Analyst Upgrade, Shares Climb to Fresh Peak",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/credo-technology-crdo-earns-analyst-013425883.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-06-23T01:34:25Z",
+      "importance": 55,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "11b0ef554cd5ee20",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1841,44 +1990,6 @@
       "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "f2e6a42f530b3877",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Nvidia RTX Spark 平台首先是人工智慧主力，其次是遊戲玩家的朋友",
-      "summary": "Nvidia 正在從根本上重新思考便攜式 PC，將其新的 RTX Spark 平台視為傳統遊戲晶片升級，而不是高階裝置上 AI 強國的藍圖。繼續閱讀類別：消費科技、科技標籤：NVIDIA、Ch…",
-      "original_title": "Nvidia RTX Spark platform is AI workhorse first, gamer's friend second",
-      "url": "https://newatlas.com/consumer-tech/nvidia-rtx-spark-superchip-ai/",
-      "source": "New Atlas",
-      "domain": "newatlas.com",
-      "published_at": "2026-06-20T01:03:00Z",
-      "importance": 55,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "d95eacc38f1c58b7",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1915,44 +2026,6 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "19cf8be15e2a7dba",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "人工智慧需求不斷成長，中國收緊銦出口檢查",
-      "summary": "China's indium export checks could reshape global tech supply chains, prompting shifts in investment and innovation to mitigate dependency.\nThe post China tightens indium export checks amid rising AI demand appeared first on Crypto Briefing.",
-      "original_title": "China tightens indium export checks amid rising AI demand",
-      "url": "https://cryptobriefing.com/china-indium-export-checks-ai-demand/",
-      "source": "Crypto Briefing",
-      "domain": "cryptobriefing.com",
-      "published_at": "2026-06-19T12:42:31Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "a78fab042e6ee1a3",
@@ -2142,48 +2215,10 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "178c46b24418cd40",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "隨著 Evercore 推出覆蓋範圍，目標價為 325 美元，Credo Technology 上漲",
-      "summary": "Credo Technology Group（納斯達克股票代碼：CRDO）股價週一上漲 3. 5%，此前 Evercore ISI 開始對這家半導體公司進行跑贏評級報告...",
-      "original_title": "Credo Technology Gains as Evercore Launches Coverage with $325 Price Target",
-      "url": "https://investorshub.advfn.com/market-news/article/30871/credo-technology-gains-as-evercore-launches-coverage-with-325-price-target",
-      "source": "Advfn.com",
-      "domain": "investorshub.advfn.com",
-      "published_at": "2026-06-22T13:02:09Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "e68e4fe6ba113dd8",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
+      "theme": "總體風險",
       "title": "韓國晶片製造商獲得的巨額獎金已成為央行的通膨問題",
       "summary": "韓國央行擔心薪資與物價的螺旋式上升會增加消費者需求並推高物價。",
       "original_title": "South Korean chipmakers are being paid such massive bonuses it’s becoming an inflation problem for the central bank",
@@ -2195,14 +2230,17 @@
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "HBM",
-        "記憶體"
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
       ],
       "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
       ],
       "related_models": [
         "003",
@@ -2212,7 +2250,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "22556e299286a8e4",
@@ -2397,44 +2435,6 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "cf41b5107018de7b",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "川普表示蘋果將與英特爾合作在美國生產晶片",
-      "summary": "美國總統川普表示，蘋果已同意與英特爾合作，為美國製造部分晶片。總統發表上述言論後，英特爾股價上漲了 9%，其中蘋果上漲了 0.6%。英特爾和蘋果已經...",
-      "original_title": "Trump States that Apple Will Be Working With Intel to Make Chips in the United States",
-      "url": "https://www.ilounge.com/news/trump-states-that-apple-will-be-working-with-intel-to-make-chips-in-the-united-states",
-      "source": "iLounge",
-      "domain": "ilounge.com",
-      "published_at": "2026-06-19T17:25:47Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "78afa863d4bb7667",
