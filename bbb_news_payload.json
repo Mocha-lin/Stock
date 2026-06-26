@@ -1,9 +1,9 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-06-26T11:44:37.975361+00:00",
+  "generated_at": "2026-06-26T15:18:40.568654+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
-  "total_count": 71,
+  "total_count": 70,
   "items": [
     {
       "id": "08956551f3f9ca26",
@@ -56,44 +56,6 @@
       "domain": "digitimes.com",
       "published_at": "2026-06-25T02:39:41Z",
       "importance": 83,
-      "impact": "positive",
-      "timeframe": "short_to_mid_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
-      "id": "136ac20674d781b0",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "TSMC-Amkor alliance jolts packaging map as ASE races to expand",
-      "summary": "The global semiconductor packaging and testing race is heating up as TSMC recently signed a 10-year agreement with Amkor to expand advanced packaging collaboration in Arizona, drawing close market attention to how the rivalry with ASE and Amkor will reshape m…",
-      "original_title": "TSMC-Amkor alliance jolts packaging map as ASE races to expand",
-      "url": "https://www.digitimes.com/news/a20260625PD222/packaging-ase-testing-tsmc-amkor.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-06-25T03:05:31Z",
-      "importance": 78,
       "impact": "positive",
       "timeframe": "short_to_mid_term",
       "tags": [
@@ -529,41 +491,6 @@
       "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "5e0518123c60524b",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "人工智慧需求蓬勃發展，三星 HBM4 營收突破 10 億美元",
-      "summary": "2026 年 2 月 12 日，三星開始量產第六代高頻寬記憶體 (HBM) 晶片 HBM4，這是當時業內其他公司未曾完成的壯舉。從那時起，該品牌的 HBM4 晶片需求量巨大，尤其是…",
-      "original_title": "Samsung’s HBM4 revenue surpasses $1 billion amid booming AI demand",
-      "url": "https://www.sammobile.com/news/samsungs-hbm4-revenue-surpasses-1-billion-amid-booming-ai-demand/",
-      "source": "SamMobile",
-      "domain": "sammobile.com",
-      "published_at": "2026-06-23T12:05:30Z",
-      "importance": 65,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "bc52e23b5653002a",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -638,6 +565,41 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "2c2b61626a7d326b",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "蘋果宣布 MacBook 和 iPad 價格上漲",
+      "summary": "蘋果正在提高價格以應對持續的記憶體短缺。週四，該公司調整了新款 MacBook Neo 的價格，現在起價為 699 美元，而不是 599 美元，而基本款 MacBook Air 將從 1,099 美元躍升至 1,299 美元，如之前報道的那樣…",
+      "original_title": "Apple reveals price hikes for MacBooks and iPads",
+      "url": "https://www.theverge.com/tech/952162/apple-price-increase-ram-shortage",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "published_at": "2026-06-25T12:54:02Z",
+      "importance": 63,
+      "impact": "negative",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "9844163601cf3315",
@@ -1050,6 +1012,41 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "5e0518123c60524b",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "人工智慧需求蓬勃發展，三星 HBM4 營收突破 10 億美元",
+      "summary": "2026 年 2 月 12 日，三星開始量產第六代高頻寬記憶體 (HBM) 晶片 HBM4，這是當時業內其他公司未曾完成的壯舉。從那時起，該品牌的 HBM4 晶片需求量巨大，尤其是…",
+      "original_title": "Samsung’s HBM4 revenue surpasses $1 billion amid booming AI demand",
+      "url": "https://www.sammobile.com/news/samsungs-hbm4-revenue-surpasses-1-billion-amid-booming-ai-demand/",
+      "source": "SamMobile",
+      "domain": "sammobile.com",
+      "published_at": "2026-06-23T12:05:30Z",
+      "importance": 60,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "da5373c16e06900a",
@@ -1689,41 +1686,6 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "6ed64943d298e0dc",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "美光 12% 的拋售是一份禮物。人工智慧的記憶體危機使其成為長期投資",
-      "summary": "由於投資者對廣泛的市場拋售做出反應，科技股今天受到重創，記憶體晶片製造商美光科技（納斯達克股票代碼：MU）已被席捲...",
-      "original_title": "Micron’s 12% Sell-Off Is a Gift. AI’s Memory Crisis Makes It a Long-Term Buy",
-      "url": "https://247wallst.com/investing/2026/06/23/microns-12-sell-off-is-a-gift-ais-memory-crisis-makes-it-a-long-term-buy/",
-      "source": "24/7 Wall St.",
-      "domain": "247wallst.com",
-      "published_at": "2026-06-23T14:36:42Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "f1f7f84ad8aa60cb",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2063,6 +2025,41 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "6ed64943d298e0dc",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "美光 12% 的拋售是一份禮物。人工智慧的記憶體危機使其成為長期投資",
+      "summary": "由於投資者對廣泛的市場拋售做出反應，科技股今天受到重創，記憶體晶片製造商美光科技（納斯達克股票代碼：MU）已被席捲...",
+      "original_title": "Micron’s 12% Sell-Off Is a Gift. AI’s Memory Crisis Makes It a Long-Term Buy",
+      "url": "https://247wallst.com/investing/2026/06/23/microns-12-sell-off-is-a-gift-ais-memory-crisis-makes-it-a-long-term-buy/",
+      "source": "24/7 Wall St.",
+      "domain": "247wallst.com",
+      "published_at": "2026-06-23T14:36:42Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "1878f1a2cfad9b45",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2099,41 +2096,6 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "a6cff2fbedbe1f11",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "Micron ties its future to Anthropic in supply deal",
-      "summary": "美國最大的記憶體晶片製造商美光科技 (MU) 週一宣布與 Anthropic 達成戰略協議，該協議將三件事捆綁在一起：技術...",
-      "original_title": "Micron ties its future to Anthropic in supply deal",
-      "url": "https://www.thestreet.com/technology/micron-ties-its-future-to-anthropic-in-supply-deal",
-      "source": "TheStreet",
-      "domain": "thestreet.com",
-      "published_at": "2026-06-23T09:03:00Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "6c62496635ec2e68",
@@ -2510,44 +2472,6 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "ebfe99520f853ad2",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "iPhone 18 Pro：今年秋季將推出六項新功能",
-      "summary": "今年秋季的 iPhone 18 系列將帶來全新的「iPhone Ultra」可折疊手機，但最受歡迎的機型無疑是 iPhone 18 Pro 和 Pro Max。以下是傳聞中的 iPhone 18 Pro 的六項新功能。",
-      "original_title": "iPhone 18 Pro: Six new features are coming this fall",
-      "url": "https://9to5mac.com/2026/06/19/iphone-18-pro-six-new-features-are-coming-this-fall/",
-      "source": "9to5Mac",
-      "domain": "9to5mac.com",
-      "published_at": "2026-06-19T14:19:30Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "334720ac743e8b63",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2584,6 +2508,44 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "ebfe99520f853ad2",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "iPhone 18 Pro：今年秋季將推出六項新功能",
+      "summary": "今年秋季的 iPhone 18 系列將帶來全新的「iPhone Ultra」可折疊手機，但最受歡迎的機型無疑是 iPhone 18 Pro 和 Pro Max。以下是傳聞中的 iPhone 18 Pro 的六項新功能。",
+      "original_title": "iPhone 18 Pro: Six new features are coming this fall",
+      "url": "https://9to5mac.com/2026/06/19/iphone-18-pro-six-new-features-are-coming-this-fall/",
+      "source": "9to5Mac",
+      "domain": "9to5mac.com",
+      "published_at": "2026-06-19T14:19:30Z",
+      "importance": 45,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     },
     {
       "id": "663446e116e60f25",

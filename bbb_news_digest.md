@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-26T11:44:37.975361+00:00
+> 更新時間：2026-06-26T15:18:40.568654+00:00
 
 ### ⚖️ 由於需求使設施滿載，Sigurd 擴大了人工智慧測試能力
 - **題材**: `光通訊與矽光子` | **重要性**: `88`
@@ -16,15 +16,6 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 隨著AI晶片需求激增，代工訂單爭奪戰愈演愈烈。韓國產業消息人士稱，未來2-3年將是三星電子代工業務的關鍵時期，其2028年的扭虧為盈目標取決於穩定的營運…
 - [原文連結](https://www.digitimes.com/news/a20260625PD220/samsung-semiconductor-foundry-chips-demand-intel-tsmc.html)
-
----
-
-### 🚀 TSMC-Amkor alliance jolts packaging map as ASE races to expand
-- **題材**: `半導體先進製程` | **重要性**: `78`
-- **來源**: Digitimes (2026-06-25T03:05:31Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: The global semiconductor packaging and testing race is heating up as TSMC recently signed a 10-year agreement with Amkor to expand advanced packaging collaboration in Arizona, drawing close market attention to how the rivalry with ASE and Amkor will reshape m…
-- [原文連結](https://www.digitimes.com/news/a20260625PD222/packaging-ase-testing-tsmc-amkor.html)
 
 ---
 
@@ -128,15 +119,6 @@ Tower Semiconductor 以 $38B 短暫成為以色列最有價值公司的帖子首
 
 ---
 
-### ⚖️ 人工智慧需求蓬勃發展，三星 HBM4 營收突破 10 億美元
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: SamMobile (2026-06-23T12:05:30Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 2026 年 2 月 12 日，三星開始量產第六代高頻寬記憶體 (HBM) 晶片 HBM4，這是當時業內其他公司未曾完成的壯舉。從那時起，該品牌的 HBM4 晶片需求量巨大，尤其是…
-- [原文連結](https://www.sammobile.com/news/samsungs-hbm4-revenue-surpasses-1-billion-amid-booming-ai-demand/)
-
----
-
 ### 🚀 散熱剛剛成為AI基礎設施最具策略性的選擇
 - **題材**: `AI伺服器` | **重要性**: `65`
 - **來源**: TechRadar (2026-06-23T08:55:11Z)
@@ -152,6 +134,15 @@ Tower Semiconductor 以 $38B 短暫成為以色列最有價值公司的帖子首
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 人工智慧基礎設施貿易已經擴大。 NVIDIA（納斯達克股票代碼：NVDA）仍然佔據主導地位，但提供連接、電源和…的二階衍生名稱...
 - [原文連結](https://247wallst.com/investing/2026/06/19/3-stocks-to-buy-now-before-wall-street-catches-on/)
+
+---
+
+### ⚠️ 蘋果宣布 MacBook 和 iPad 價格上漲
+- **題材**: `HBM記憶體` | **重要性**: `63`
+- **來源**: The Verge (2026-06-25T12:54:02Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 蘋果正在提高價格以應對持續的記憶體短缺。週四，該公司調整了新款 MacBook Neo 的價格，現在起價為 699 美元，而不是 599 美元，而基本款 MacBook Air 將從 1,099 美元躍升至 1,299 美元，如之前報道的那樣…
+- [原文連結](https://www.theverge.com/tech/952162/apple-price-increase-ram-shortage)
 
 ---
 
@@ -179,6 +170,15 @@ Tower Semiconductor 以 $38B 短暫成為以色列最有價值公司的帖子首
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 半導體測試分析服務商宏康於6月18日召開年度股東大會，董事長謝永芬表示，公司已開始投資矽光子晶圓及晶片光電分析平台，以期…
 - [原文連結](https://www.digitimes.com/news/a20260618PD229/testing-silicon-photonics-2026-cpo.html)
+
+---
+
+### 🚀 我們發現的 23 項 30 美元以下亞馬遜 Prime Day 最佳優惠（2026 年）
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Wired (2026-06-25T11:11:34Z)
+- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 一切都很昂貴。從廚師刀到手持風扇，您可以挑選一款經過《連線》測試和認可的 Prime Day 精選商品，價格不超過 30 美元，犒勞一下自己。
+- [原文連結](https://www.wired.com/story/best-amazon-prime-day-deals-under-30-06-25-2026/)
 
 ---
 
