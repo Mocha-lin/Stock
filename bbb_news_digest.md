@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-26T18:20:19.601720+00:00
+> 更新時間：2026-06-26T20:24:35.146867+00:00
 
 ### ⚖️ 由於需求使設施滿載，Sigurd 擴大了人工智慧測試能力
 - **題材**: `光通訊與矽光子` | **重要性**: `88`
@@ -7,15 +7,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重大事件】可能顯著影響產業評價、EPS預期或資金流向。
 - **摘要**: 隨著人工智慧需求和穩定的客戶訂單使其設施充分利用，Sigurd 正在擴大測試和包裝能力。對全球讀者而言，此舉突顯了矽光子學 (SiPh)、人工智慧伺服器和先進晶片的供應鏈如何收緊…
 - [原文連結](https://www.digitimes.com/news/a20260624PD217/sigurd-capacity-testing-demand-revenue.html)
-
----
-
-### 🚀 台積電 3nm 交貨時間超過一年 三星在代工大戰中迎戰英特爾
-- **題材**: `半導體先進製程` | **重要性**: `83`
-- **來源**: Digitimes (2026-06-25T02:39:41Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 隨著AI晶片需求激增，代工訂單爭奪戰愈演愈烈。韓國產業消息人士稱，未來2-3年將是三星電子代工業務的關鍵時期，其2028年的扭虧為盈目標取決於穩定的營運…
-- [原文連結](https://www.digitimes.com/news/a20260625PD220/samsung-semiconductor-foundry-chips-demand-intel-tsmc.html)
 
 ---
 
@@ -180,6 +171,15 @@ Tower Semiconductor 以 $38B 短暫成為以色列最有價值公司的帖子首
 - **摘要**: JCET's expansion in advanced chip packaging could bolster China's semiconductor capabilities, enhancing its competitive edge globally.
 The post JCET to build new plant in Shanghai for advanced chip packaging appeared first on Crypto Briefing.
 - [原文連結](https://cryptobriefing.com/jcet-shanghai-advanced-chip-packaging-plant/)
+
+---
+
+### 🚀 Qualcomm Dragonfly 生態系統支援人工智慧加速器、客製化晶片和網絡，透過一站式、可擴展的運算平台為下一代人工智慧工廠提供支援
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: Wccftech (2026-06-24T22:25:41Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Qualcomm Dragonfly 一站式提供強大的人工智慧運算加速器、CPU、突破性技術、網路和客製化晶片平台。進入龍
+- [原文連結](https://wccftech.com/qualcomm-dragonfly/)
 
 ---
 
