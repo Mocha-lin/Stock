@@ -1,5 +1,14 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-26T05:04:02.252845+00:00
+> 更新時間：2026-06-26T08:38:13.124298+00:00
+
+### ⚖️ 由於需求使設施滿載，Sigurd 擴大了人工智慧測試能力
+- **題材**: `光通訊與矽光子` | **重要性**: `88`
+- **來源**: Digitimes (2026-06-25T08:16:28Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重大事件】可能顯著影響產業評價、EPS預期或資金流向。
+- **摘要**: 隨著人工智慧需求和穩定的客戶訂單使其設施充分利用，Sigurd 正在擴大測試和包裝能力。對全球讀者而言，此舉突顯了矽光子學 (SiPh)、人工智慧伺服器和先進晶片的供應鏈如何收緊…
+- [原文連結](https://www.digitimes.com/news/a20260624PD217/sigurd-capacity-testing-demand-revenue.html)
+
+---
 
 ### 🚀 台積電 3nm 交貨時間超過一年 三星在代工大戰中迎戰英特爾
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -28,6 +37,15 @@
 
 ---
 
+### 🚀 Marvell Technology (MRVL) 的 AI 光學評論如何強化其資料中心連接成長故事
+- **題材**: `光通訊與矽光子` | **重要性**: `75`
+- **來源**: Yahoo Entertainment (2026-06-24T18:53:20Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Marvell Technology, Inc.（纳斯达克股票代码：MRVL）是人工智能数据中心热潮中最值得买入的光纤股票之一。 2026年5月27日，公司公佈業績報告...
+- [原文連結](https://finance.yahoo.com/technology/ai/articles/marvell-technology-mrvl-ai-optics-185320797.html)
+
+---
+
 ### 🚀 瑞穗表示，英特爾（INTC）先進封裝可以支援人工智慧資料中心的成長
 - **題材**: `半導體先進製程` | **重要性**: `75`
 - **來源**: Yahoo Entertainment (2026-06-24T13:47:19Z)
@@ -38,9 +56,9 @@
 ---
 
 ### ⚖️ SK 海力士在歷史性的納斯達克上市，擬籌集高達 290 億美元資金——所有收益將用於先進的 AI 內存工廠和 EUV 工具訂單
-- **題材**: `半導體先進製程` | **重要性**: `72`
+- **題材**: `HBM記憶體` | **重要性**: `72`
 - **來源**: Tom's Hardware UK (2026-06-24T12:42:34Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: SK海力士週三提交了一份證券登記聲明，擬透過在納斯達克上市的美國存託憑證籌集至多45.45兆韓元。
 - [原文連結](https://www.tomshardware.com/tech-industry/sk-hynix-files-to-raise-up-to-29-billion-in-nasdaq-listing)
 
@@ -55,12 +73,13 @@
 
 ---
 
-### 🚀 隨著人工智慧重塑網絡，英偉達在資料中心乙太網路交換領域佔據領先地位
+### 🚀 Tower Semiconductor 以 $38B 短暫成為以色列最有價值的公司
 - **題材**: `光通訊與矽光子` | **重要性**: `70`
-- **來源**: 4sysops.com (2026-06-24T16:26:47Z)
+- **來源**: Crypto Briefing (2026-06-25T06:20:31Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Nvidia 已超越長期領先的思科和 Arista，成為資料中心乙太網路交換市場的最大收入來源。根據IDC 2026年第一季的數據，該公司的轉換收入飆升近193%，達到21億美元…
-- [原文連結](https://4sysops.com/archives/nvidia-claims-top-spot-in-data-center-ethernet-switching-as-ai-reshapes-networking/)
+- **摘要**: Tower Semiconductor 短暫的估值高峰凸顯了人工智慧驅動市場的波動性以及矽光子學的戰略重要性。
+Tower Semiconductor 以 $38B 短暫成為以色列最有價值公司的帖子首先出現在 Crypto Brie 上…
+- [原文連結](https://cryptobriefing.com/tower-semiconductor-israel-most-valuable-company/)
 
 ---
 
@@ -118,6 +137,15 @@
 
 ---
 
+### ⚖️ 美光第三季獲利超乎預期，前景好於預期並宣布派息
+- **題材**: `HBM記憶體` | **重要性**: `65`
+- **來源**: Yahoo Entertainment (2026-06-23T11:30:00Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 美光科技週三盤後公佈了第三季財報。
+- [原文連結](https://finance.yahoo.com/technology/article/micron-tops-q3-earnings-estimates-offers-better-than-expected-outlook-and-declares-dividend-113000152.html)
+
+---
+
 ### 🚀 AI資料中心帶動800G和1.6T模組空前需求，光模組市場將翻倍
 - **題材**: `光通訊與矽光子` | **重要性**: `65`
 - **來源**: GlobeNewswire (2026-06-23T10:48:00Z)
@@ -151,34 +179,6 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 先進半導體封裝中玻璃芯基板商業化的競賽正在升溫，但該技術在頭條新聞中的發展速度比在生產線上的發展速度更快。 DIGITIMES一直在追蹤台積電CoPoS先進封裝的最新進展…
 - [原文連結](https://www.digitimes.com/news/a20260622PD214/tsmc-digitimes-glass-substrate-2030-intel.html)
-
----
-
-### ⚖️ 宏康加大矽光子測試投資，首個系統將於八月交付
-- **題材**: `光通訊與矽光子` | **重要性**: `63`
-- **來源**: Digitimes (2026-06-21T23:44:08Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 半導體測試分析服務商宏康於6月18日召開年度股東大會，董事長謝永芬表示，公司已開始投資矽光子晶圓及晶片光電分析平台，以期…
-- [原文連結](https://www.digitimes.com/news/a20260618PD229/testing-silicon-photonics-2026-cpo.html)
-
----
-
-### ⚖️ 長電科技將在上海興建先進晶片封裝新工廠
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: Crypto Briefing (2026-06-25T01:43:02Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: JCET's expansion in advanced chip packaging could bolster China's semiconductor capabilities, enhancing its competitive edge globally.
-The post JCET to build new plant in Shanghai for advanced chip packaging appeared first on Crypto Briefing.
-- [原文連結](https://cryptobriefing.com/jcet-shanghai-advanced-chip-packaging-plant/)
-
----
-
-### 🚀 Qualcomm Dragonfly 生態系統支援人工智慧加速器、客製化晶片和網絡，透過一站式、可擴展的運算平台為下一代人工智慧工廠提供支援
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: Wccftech (2026-06-24T22:25:41Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Qualcomm Dragonfly 一站式提供強大的人工智慧運算加速器、CPU、突破性技術、網路和客製化晶片平台。進入龍
-- [原文連結](https://wccftech.com/qualcomm-dragonfly/)
 
 ---
 
