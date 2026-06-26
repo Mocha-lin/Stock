@@ -1,14 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-25T20:54:16.077491+00:00
-
-### 🚀 獨家：華邦NOR快閃記憶體據報進入Nvidia供應鏈
-- **題材**: `AI伺服器` | **重要性**: `78`
-- **來源**: Digitimes (2026-06-18T04:14:01Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 據報道，隨著AI伺服器需求帶動記憶體消耗激增，加上Nvidia下一代Vera Rubin平台準備在2026年下半年批量出貨，華邦的NOR快閃記憶體首次進入Nvidia供應鏈。
-- [原文連結](https://www.digitimes.com/news/a20260618PD216/flash-winbond-nvidia-supply-chain-demand.html)
-
----
+> 更新時間：2026-06-26T00:10:16.686806+00:00
 
 ### 🚀 瑞穗表示，英特爾（INTC）先進封裝可以支援人工智慧資料中心的成長
 - **題材**: `半導體先進製程` | **重要性**: `75`
@@ -20,9 +11,9 @@
 ---
 
 ### ⚖️ SK 海力士在歷史性的納斯達克上市，擬籌集高達 290 億美元資金——所有收益將用於先進的 AI 內存工廠和 EUV 工具訂單
-- **題材**: `HBM記憶體` | **重要性**: `72`
+- **題材**: `半導體先進製程` | **重要性**: `72`
 - **來源**: Tom's Hardware UK (2026-06-24T12:42:34Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: SK海力士週三提交了一份證券登記聲明，擬透過在納斯達克上市的美國存託憑證籌集至多45.45兆韓元。
 - [原文連結](https://www.tomshardware.com/tech-industry/sk-hynix-files-to-raise-up-to-29-billion-in-nasdaq-listing)
 
@@ -52,6 +43,15 @@
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 隨著人工智慧電力需求的激增，冷卻成為基礎設施的決定性競爭優勢。
 - [原文連結](https://www.techradar.com/pro/cooling-just-became-the-most-strategic-choice-in-ai-infrastructure)
+
+---
+
+### ⚖️ SK海力士清州工廠事故引發HBM擴建安全擔憂
+- **題材**: `HBM記憶體` | **重要性**: `68`
+- **來源**: Digitimes (2026-06-23T02:41:02Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: SK海力士位於韓國清州的半導體生產基地自2026年以來發生了一系列事故，引發人們對其安全管理系統是否有漏洞的質疑。這些事件引起了密切關注，因為許多事件發生在 M15X 晶圓廠之後…
+- [原文連結](https://www.digitimes.com/news/a20260623PD214/sk-hynix-hbm-production-2026-equipment.html)
 
 ---
 
@@ -109,6 +109,15 @@
 
 ---
 
+### 🚀 艾爾聯盟圍繞亞歷克斯·博雷斯 (Alex Bores) 的 2700 萬美元代理人戰爭以平局告終
+- **題材**: `總體風險` | **重要性**: `63`
+- **來源**: The Verge (2026-06-24T17:20:32Z)
+- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Anthropic 和 OpenAI 之間耗資 2700 萬美元的政治代理人戰爭昨晚打成了平手，紐約州議員 Alex Bores 在成為支持人工智能的超級政治行動委員會的目標後支持率飆升，在民主黨初選中以微弱優勢落敗。
+- [原文連結](https://www.theverge.com/ai-artificial-intelligence/956263/alex-bores-new-york-12th-district-congressional-primary-results)
+
+---
+
 ### ⚖️ 台積電玻璃基板在 2030 年之前不太可能推出
 - **題材**: `半導體先進製程` | **重要性**: `63`
 - **來源**: Digitimes (2026-06-22T07:09:23Z)
@@ -124,6 +133,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 半導體測試分析服務商宏康於6月18日召開年度股東大會，董事長謝永芬表示，公司已開始投資矽光子晶圓及晶片光電分析平台，以期…
 - [原文連結](https://www.digitimes.com/news/a20260618PD229/testing-silicon-photonics-2026-cpo.html)
+
+---
+
+### 🚀 Qualcomm Dragonfly 生態系統支援人工智慧加速器、客製化晶片和網絡，透過一站式、可擴展的運算平台為下一代人工智慧工廠提供支援
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: Wccftech (2026-06-24T22:25:41Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Qualcomm Dragonfly 一站式提供強大的人工智慧運算加速器、CPU、突破性技術、網路和客製化晶片平台。進入龍
+- [原文連結](https://wccftech.com/qualcomm-dragonfly/)
 
 ---
 
@@ -145,39 +163,21 @@
 
 ---
 
+### ⚖️ Prime Day 桌面優惠：以低於 1690 美元的價格獲得完整的下一代 RTX 5070 工作站 — MSI Codex R2 降價 610 美元
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: TechRadar (2026-06-23T21:05:00Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 如果您準備好躍升到真正的 1440p 和 4K 效能，這款大幅折扣的 MSI 裝置可以將 Nvidia 的最新架構直接放到您的桌面上，而不會耗盡您的儲蓄帳戶。
+- [原文連結](https://www.techradar.com/pro/prime-day-desktop-deal-get-a-complete-next-gen-rtx-5070-workstation-for-under-usd1690-the-msi-codex-r2-drops-usd610)
+
+---
+
 ### 🚀 戰勝科技產品價格上漲：三星旗艦產品 Galaxy Tab S11 是一款引人注目的筆記型電腦替代品，價格下降了 265 美元
 - **題材**: `半導體先進製程` | **重要性**: `60`
 - **來源**: Android Central (2026-06-23T19:53:56Z)
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 三星 Galaxy Tab S11 現在降價 265 美元，這款旗艦 Android 平板電腦售價僅 535 美元。
 - [原文連結](https://www.androidcentral.com/tablets/samsung-galaxy-tab/galaxy-tab-s11-is-down-by-usd250-prime-day)
-
----
-
-### 🚀 iPhone 18 Pro：三個已經讓我興奮的新功能
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: 9to5Mac (2026-06-23T18:45:32Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: iPhone 18 Pro 距離發布還有幾個月的時間，但在迄今為止傳聞的新功能中，有三項升級讓我特別興奮。
-- [原文連結](https://9to5mac.com/2026/06/23/iphone-18-pro-three-new-features-that-already-have-me-excited/)
-
----
-
-### 🚀 Credo Technology (CRDO) 獲得新的分析師評級，股價攀升至新高
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-06-23T01:34:25Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Credo Technology Group Holding Ltd.（納斯達克股票代碼：CRDO）是回報豐厚的 10 隻股票之一。 Credo Technology 週一漲至歷史新高，...
-- [原文連結](https://finance.yahoo.com/markets/stocks/articles/credo-technology-crdo-earns-analyst-013425883.html)
-
----
-
-### 🚀 油價上漲導致加拿大通膨創29個月新高
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Al Jazeera English (2026-06-22T16:24:55Z)
-- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 汽油價格領漲，年增率達 33.2%。
-- [原文連結](https://www.aljazeera.com/economy/2026/6/22/canadas-inflation-hits-29-month-high-amid-heightened-oil-prices)
 
 ---
 
