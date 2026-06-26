@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-06-26T08:38:13.124298+00:00",
+  "generated_at": "2026-06-26T11:44:37.975361+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 71,
@@ -345,44 +345,6 @@
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
-      "id": "bc52e23b5653002a",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "散熱剛剛成為AI基礎設施最具策略性的選擇",
-      "summary": "隨著人工智慧電力需求的激增，冷卻成為基礎設施的決定性競爭優勢。",
-      "original_title": "Cooling just became the most strategic choice in AI infrastructure",
-      "url": "https://www.techradar.com/pro/cooling-just-became-the-most-strategic-choice-in-ai-infrastructure",
-      "source": "TechRadar",
-      "domain": "techradar.com",
-      "published_at": "2026-06-23T08:55:11Z",
-      "importance": 70,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
       "id": "589808ba84721593",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -419,6 +381,44 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "3a72bf8392c9e1a9",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "IBM 歡呼超微型晶片的新「公寓」設計突破",
+      "summary": "IBM 表示，它已經創造了世界上第一個已知的 1 奈米以下晶片技術",
+      "original_title": "IBM hails new 'block of flats' design breakthrough for ultra tiny chips",
+      "url": "https://www.bbc.co.uk/news/articles/cvg7vpyn5pxo",
+      "source": "BBC News",
+      "domain": "bbc.co.uk",
+      "published_at": "2026-06-25T10:04:43Z",
+      "importance": 65,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "be3f2fae32f7e808",
@@ -564,67 +564,32 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "da5373c16e06900a",
+      "id": "bc52e23b5653002a",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "美光第三季獲利超乎預期，前景好於預期並宣布派息",
-      "summary": "美光科技週三盤後公佈了第三季財報。",
-      "original_title": "Micron tops Q3 earnings estimates, offers better-than-expected outlook and declares dividend",
-      "url": "https://finance.yahoo.com/technology/article/micron-tops-q3-earnings-estimates-offers-better-than-expected-outlook-and-declares-dividend-113000152.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-06-23T11:30:00Z",
-      "importance": 65,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "1b4d500529ccca5d",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "AI資料中心帶動800G和1.6T模組空前需求，光模組市場將翻倍",
-      "summary": "一份新的 256 頁報告發現，全球光收發器市場在 2026 年至 2036 年期間將大致翻一番或更多，隨著矽光子學超越傳統雷射技術，人工智慧網路需求成為成長最快的領域。一個新的 25…",
-      "original_title": "Optical Transceiver Market Set to Double as AI Data Centers Drive Unprecedented Demand for 800G and 1.6T Modules",
-      "url": "https://www.globenewswire.com/news-release/2026/06/23/3315806/28124/en/Optical-Transceiver-Market-Set-to-Double-as-AI-Data-Centers-Drive-Unprecedented-Demand-for-800G-and-1-6T-Modules.html",
-      "source": "GlobeNewswire",
-      "domain": "globenewswire.com",
-      "published_at": "2026-06-23T10:48:00Z",
+      "theme": "AI伺服器",
+      "title": "散熱剛剛成為AI基礎設施最具策略性的選擇",
+      "summary": "隨著人工智慧電力需求的激增，冷卻成為基礎設施的決定性競爭優勢。",
+      "original_title": "Cooling just became the most strategic choice in AI infrastructure",
+      "url": "https://www.techradar.com/pro/cooling-just-became-the-most-strategic-choice-in-ai-infrastructure",
+      "source": "TechRadar",
+      "domain": "techradar.com",
+      "published_at": "2026-06-23T08:55:11Z",
       "importance": 65,
       "impact": "positive",
       "timeframe": "short_term",
       "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
+        "AI",
+        "伺服器",
+        "資料中心"
       ],
       "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
       ],
       "related_models": [
         "003",
@@ -634,7 +599,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "f07d74b8d1e76a33",
@@ -789,32 +754,32 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "02bc936c5a70503f",
+      "id": "6acaaaf2487b473e",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "比爾·阿克曼（Bill Ackman）、大衛·泰珀（David Tepper）和其他億萬富翁基金經理人正在悄悄湧入亞馬遜",
-      "summary": "即使華倫巴菲特的波克夏海瑟威退出該股票，大型機構在過去 12 個月內仍購買了 2.53 億股亞馬遜股票。",
-      "original_title": "Bill Ackman, David Tepper, and other billionaire fund managers are quietly piling into Amazon",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bill-ackman-david-tepper-other-070500344.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-06-25T07:05:00Z",
+      "theme": "總體風險",
+      "title": "我們發現的 23 項 30 美元以下亞馬遜 Prime Day 最佳優惠（2026 年）",
+      "summary": "一切都很昂貴。從廚師刀到手持風扇，您可以挑選一款經過《連線》測試和認可的 Prime Day 精選商品，價格不超過 30 美元，犒勞一下自己。",
+      "original_title": "The 23 Best Amazon Prime Day Deals Under $30 We've Found (2026)",
+      "url": "https://www.wired.com/story/best-amazon-prime-day-deals-under-30-06-25-2026/",
+      "source": "Wired",
+      "domain": "wired.com",
+      "published_at": "2026-06-25T11:11:34Z",
       "importance": 60,
-      "impact": "neutral",
+      "impact": "positive",
       "timeframe": "short_term",
       "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
       ],
       "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
       ],
       "related_models": [
         "003",
@@ -824,7 +789,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "1369d7cdacb02183",
@@ -1011,44 +976,6 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "a2ba9bc335c377f7",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Prime Day 桌面優惠：以低於 1690 美元的價格獲得完整的下一代 RTX 5070 工作站 — MSI Codex R2 降價 610 美元",
-      "summary": "如果您準備好躍升到真正的 1440p 和 4K 效能，這款大幅折扣的 MSI 裝置可以將 Nvidia 的最新架構直接放到您的桌面上，而不會耗盡您的儲蓄帳戶。",
-      "original_title": "Prime Day desktop deal: Get a complete next-gen RTX 5070 workstation for under $1690 — the MSI Codex R2 drops $610",
-      "url": "https://www.techradar.com/pro/prime-day-desktop-deal-get-a-complete-next-gen-rtx-5070-workstation-for-under-usd1690-the-msi-codex-r2-drops-usd610",
-      "source": "TechRadar",
-      "domain": "techradar.com",
-      "published_at": "2026-06-23T21:05:00Z",
-      "importance": 60,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "631e800228b852e2",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1123,6 +1050,79 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "da5373c16e06900a",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "美光第三季獲利超乎預期，前景好於預期並宣布派息",
+      "summary": "美光科技週三盤後公佈了第三季財報。",
+      "original_title": "Micron tops Q3 earnings estimates, offers better-than-expected outlook and declares dividend",
+      "url": "https://finance.yahoo.com/technology/article/micron-tops-q3-earnings-estimates-offers-better-than-expected-outlook-and-declares-dividend-113000152.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-06-23T11:30:00Z",
+      "importance": 60,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "1b4d500529ccca5d",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "AI資料中心帶動800G和1.6T模組空前需求，光模組市場將翻倍",
+      "summary": "一份新的 256 頁報告發現，全球光收發器市場在 2026 年至 2036 年期間將大致翻一番或更多，隨著矽光子學超越傳統雷射技術，人工智慧網路需求成為成長最快的領域。一個新的 25…",
+      "original_title": "Optical Transceiver Market Set to Double as AI Data Centers Drive Unprecedented Demand for 800G and 1.6T Modules",
+      "url": "https://www.globenewswire.com/news-release/2026/06/23/3315806/28124/en/Optical-Transceiver-Market-Set-to-Double-as-AI-Data-Centers-Drive-Unprecedented-Demand-for-800G-and-1-6T-Modules.html",
+      "source": "GlobeNewswire",
+      "domain": "globenewswire.com",
+      "published_at": "2026-06-23T10:48:00Z",
+      "importance": 60,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "716052bc2f81a994",
@@ -1237,6 +1237,44 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "910330988e6cae9c",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "委內瑞拉兩次地震造成至少164人死亡。川普取消簽署住房法案",
+      "summary": "委內瑞拉兩次大地震已造成至少 164 人死亡、數百人受傷。而且，川普總統昨天取消了簽署一項大規模的兩黨住房法案。",
+      "original_title": "2 earthquakes in Venezuela kill at least 164. And, Trump cancels housing bill signing",
+      "url": "https://www.npr.org/2026/06/25/g-s1-130184/up-first-newsletter-venezuela-earthquakes-trump-senate-tensions-chris-donahue",
+      "source": "NPR",
+      "domain": "npr.org",
+      "published_at": "2026-06-25T11:09:35Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "c0e7f5bb49a91847",
@@ -1578,44 +1616,6 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "3b44bded57dbe91a",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "美國人工智慧股票拋售震動了從華爾街到亞洲的市場",
-      "summary": "一位匿名讀者引用了《衛報》的一篇報導：週二，科技股拋售震動了全球市場，因為人們的注意力從美國與伊朗戰爭的進展轉向人工智慧公司和晶片製造商的未來，這些公司和晶片製造商推動股市重新上漲…",
-      "original_title": "US AI Stock Sell-Off Shakes Markets From Wall Street To Asia",
-      "url": "https://news.slashdot.org/story/26/06/24/0551205/us-ai-stock-sell-off-shakes-markets-from-wall-street-to-asia",
-      "source": "Slashdot.org",
-      "domain": "news.slashdot.org",
-      "published_at": "2026-06-24T06:00:00Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "c85f591e57e3777d",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1700,79 +1700,6 @@
       "source": "24/7 Wall St.",
       "domain": "247wallst.com",
       "published_at": "2026-06-23T14:36:42Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "1878f1a2cfad9b45",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "誰是真正的凱文沃什？",
-      "summary": "約翰卡西迪寫道，在新任聯準會主席上任之前，他暗示央行可能會降息，但上週他扮演了通膨鷹派的角色。",
-      "original_title": "Who Is the Real Kevin Warsh?",
-      "url": "https://www.newyorker.com/news/the-financial-page/who-is-the-real-kevin-warsh",
-      "source": "The New Yorker",
-      "domain": "newyorker.com",
-      "published_at": "2026-06-23T10:00:00Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "a6cff2fbedbe1f11",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "Micron ties its future to Anthropic in supply deal",
-      "summary": "美國最大的記憶體晶片製造商美光科技 (MU) 週一宣布與 Anthropic 達成戰略協議，該協議將三件事捆綁在一起：技術...",
-      "original_title": "Micron ties its future to Anthropic in supply deal",
-      "url": "https://www.thestreet.com/technology/micron-ties-its-future-to-anthropic-in-supply-deal",
-      "source": "TheStreet",
-      "domain": "thestreet.com",
-      "published_at": "2026-06-23T09:03:00Z",
       "importance": 55,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -2101,44 +2028,6 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "334720ac743e8b63",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "OLED iPad Mini：發布日期、定價與期待",
-      "summary": "根據最新傳聞，蘋果即將推出下一代 iPad mini。那麼，我們對蘋果 20 個多月前發布的 iPad mini 7 的繼任者有何期待？請繼續閱讀以找出答案。\n\n\n\n\n\n處理器和效能\n\n蘋果正在努力...",
-      "original_title": "OLED iPad Mini: Release Date, Pricing, and What to Expect",
-      "url": "https://www.macrumors.com/2026/06/19/oled-ipad-mini-release-date-price-what-to-expect/",
-      "source": "MacRumors",
-      "domain": "macrumors.com",
-      "published_at": "2026-06-19T08:46:05Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "53e59f147fc14144",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2151,6 +2040,79 @@
       "domain": "theverge.com",
       "published_at": "2026-06-22T21:07:14Z",
       "importance": 53,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "1878f1a2cfad9b45",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "誰是真正的凱文沃什？",
+      "summary": "約翰卡西迪寫道，在新任聯準會主席上任之前，他暗示央行可能會降息，但上週他扮演了通膨鷹派的角色。",
+      "original_title": "Who Is the Real Kevin Warsh?",
+      "url": "https://www.newyorker.com/news/the-financial-page/who-is-the-real-kevin-warsh",
+      "source": "The New Yorker",
+      "domain": "newyorker.com",
+      "published_at": "2026-06-23T10:00:00Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "a6cff2fbedbe1f11",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "Micron ties its future to Anthropic in supply deal",
+      "summary": "美國最大的記憶體晶片製造商美光科技 (MU) 週一宣布與 Anthropic 達成戰略協議，該協議將三件事捆綁在一起：技術...",
+      "original_title": "Micron ties its future to Anthropic in supply deal",
+      "url": "https://www.thestreet.com/technology/micron-ties-its-future-to-anthropic-in-supply-deal",
+      "source": "TheStreet",
+      "domain": "thestreet.com",
+      "published_at": "2026-06-23T09:03:00Z",
+      "importance": 50,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -2586,17 +2548,17 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "663446e116e60f25",
+      "id": "334720ac743e8b63",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "半導體先進製程",
-      "title": "蘋果和英特爾將合作在美國生產晶片",
-      "summary": "根據川普在 Truth Social 上發表的帖子，蘋果和英特爾將合作在美國設計和製造晶片。",
-      "original_title": "Apple and Intel will work together to manufacture chips in the US",
-      "url": "https://www.androidauthority.com/apple-intel-chip-manufacturing-us-3679258/",
-      "source": "Android Authority",
-      "domain": "androidauthority.com",
-      "published_at": "2026-06-19T09:34:11Z",
+      "title": "OLED iPad Mini：發布日期、定價與期待",
+      "summary": "根據最新傳聞，蘋果即將推出下一代 iPad mini。那麼，我們對蘋果 20 個多月前發布的 iPad mini 7 的繼任者有何期待？請繼續閱讀以找出答案。\n\n\n\n\n\n處理器和效能\n\n蘋果正在努力...",
+      "original_title": "OLED iPad Mini: Release Date, Pricing, and What to Expect",
+      "url": "https://www.macrumors.com/2026/06/19/oled-ipad-mini-release-date-price-what-to-expect/",
+      "source": "MacRumors",
+      "domain": "macrumors.com",
+      "published_at": "2026-06-19T08:46:05Z",
       "importance": 50,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -2622,6 +2584,44 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "663446e116e60f25",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "蘋果和英特爾將合作在美國生產晶片",
+      "summary": "根據川普在 Truth Social 上發表的帖子，蘋果和英特爾將合作在美國設計和製造晶片。",
+      "original_title": "Apple and Intel will work together to manufacture chips in the US",
+      "url": "https://www.androidauthority.com/apple-intel-chip-manufacturing-us-3679258/",
+      "source": "Android Authority",
+      "domain": "androidauthority.com",
+      "published_at": "2026-06-19T09:34:11Z",
+      "importance": 45,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     },
     {
       "id": "1c4e4c28ee792b81",

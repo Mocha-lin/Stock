@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-26T08:38:13.124298+00:00
+> 更新時間：2026-06-26T11:44:37.975361+00:00
 
 ### ⚖️ 由於需求使設施滿載，Sigurd 擴大了人工智慧測試能力
 - **題材**: `光通訊與矽光子` | **重要性**: `88`
@@ -83,21 +83,21 @@ Tower Semiconductor 以 $38B 短暫成為以色列最有價值公司的帖子首
 
 ---
 
-### 🚀 散熱剛剛成為AI基礎設施最具策略性的選擇
-- **題材**: `AI伺服器` | **重要性**: `70`
-- **來源**: TechRadar (2026-06-23T08:55:11Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 隨著人工智慧電力需求的激增，冷卻成為基礎設施的決定性競爭優勢。
-- [原文連結](https://www.techradar.com/pro/cooling-just-became-the-most-strategic-choice-in-ai-infrastructure)
-
----
-
 ### ⚖️ MSScorps再次擴大台灣矽光子投資
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
 - **來源**: Digitimes (2026-06-21T23:44:38Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 經濟部下屬的台灣投資辦公室 InvesTaiwan 已批准以 MSScorps 為首的四家公司擴大台灣投資計劃，該計劃將投資 15 億新台幣（4740 萬美元），並且是第三次提交申請。該公司
 - [原文連結](https://www.digitimes.com/news/a20260618PD236/taiwan-investment-msscorps-silicon-photonics.html)
+
+---
+
+### 🚀 IBM 歡呼超微型晶片的新「公寓」設計突破
+- **題材**: `半導體先進製程` | **重要性**: `65`
+- **來源**: BBC News (2026-06-25T10:04:43Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: IBM 表示，它已經創造了世界上第一個已知的 1 奈米以下晶片技術
+- [原文連結](https://www.bbc.co.uk/news/articles/cvg7vpyn5pxo)
 
 ---
 
@@ -137,21 +137,12 @@ Tower Semiconductor 以 $38B 短暫成為以色列最有價值公司的帖子首
 
 ---
 
-### ⚖️ 美光第三季獲利超乎預期，前景好於預期並宣布派息
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: Yahoo Entertainment (2026-06-23T11:30:00Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 美光科技週三盤後公佈了第三季財報。
-- [原文連結](https://finance.yahoo.com/technology/article/micron-tops-q3-earnings-estimates-offers-better-than-expected-outlook-and-declares-dividend-113000152.html)
-
----
-
-### 🚀 AI資料中心帶動800G和1.6T模組空前需求，光模組市場將翻倍
-- **題材**: `光通訊與矽光子` | **重要性**: `65`
-- **來源**: GlobeNewswire (2026-06-23T10:48:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 一份新的 256 頁報告發現，全球光收發器市場在 2026 年至 2036 年期間將大致翻一番或更多，隨著矽光子學超越傳統雷射技術，人工智慧網路需求成為成長最快的領域。一個新的 25…
-- [原文連結](https://www.globenewswire.com/news-release/2026/06/23/3315806/28124/en/Optical-Transceiver-Market-Set-to-Double-as-AI-Data-Centers-Drive-Unprecedented-Demand-for-800G-and-1-6T-Modules.html)
+### 🚀 散熱剛剛成為AI基礎設施最具策略性的選擇
+- **題材**: `AI伺服器` | **重要性**: `65`
+- **來源**: TechRadar (2026-06-23T08:55:11Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 隨著人工智慧電力需求的激增，冷卻成為基礎設施的決定性競爭優勢。
+- [原文連結](https://www.techradar.com/pro/cooling-just-became-the-most-strategic-choice-in-ai-infrastructure)
 
 ---
 
@@ -179,6 +170,15 @@ Tower Semiconductor 以 $38B 短暫成為以色列最有價值公司的帖子首
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 先進半導體封裝中玻璃芯基板商業化的競賽正在升溫，但該技術在頭條新聞中的發展速度比在生產線上的發展速度更快。 DIGITIMES一直在追蹤台積電CoPoS先進封裝的最新進展…
 - [原文連結](https://www.digitimes.com/news/a20260622PD214/tsmc-digitimes-glass-substrate-2030-intel.html)
+
+---
+
+### ⚖️ 宏康加大矽光子測試投資，首個系統將於八月交付
+- **題材**: `光通訊與矽光子` | **重要性**: `63`
+- **來源**: Digitimes (2026-06-21T23:44:08Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 半導體測試分析服務商宏康於6月18日召開年度股東大會，董事長謝永芬表示，公司已開始投資矽光子晶圓及晶片光電分析平台，以期…
+- [原文連結](https://www.digitimes.com/news/a20260618PD229/testing-silicon-photonics-2026-cpo.html)
 
 ---
 
