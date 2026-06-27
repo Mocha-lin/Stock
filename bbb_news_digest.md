@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-27T15:57:08.238357+00:00
+> 更新時間：2026-06-27T17:53:13.757740+00:00
 
 ### ⚖️ 由於需求使設施滿載，Sigurd 擴大了人工智慧測試能力
 - **題材**: `光通訊與矽光子` | **重要性**: `88`
@@ -83,6 +83,15 @@ Tower Semiconductor 以 $38B 短暫成為以色列最有價值公司的帖子首
 
 ---
 
+### 🚀 忘記蘋果吧。亞馬遜剛剛讓人工智慧變得更加昂貴。
+- **題材**: `HBM記憶體` | **重要性**: `65`
+- **來源**: Business Insider (2026-06-26T17:12:04Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 亞馬遜網路服務將 AI 雲端價格提高 20%。該公司一月份就已經將價格提高了 15%。
+- [原文連結](https://www.businessinsider.com/amazon-raises-ai-cloud-prices-memory-chip-costs-soar-2026-6#article)
+
+---
+
 ### 🚀 摩根士丹利表示，AMD EPYC Venice 到 2027 年將以 675 萬顆的數量超越 NVIDIA Vera CPU，而 Zen 6 則將超越 575 萬顆的競爭對手
 - **題材**: `半導體先進製程` | **重要性**: `65`
 - **來源**: Wccftech (2026-06-26T01:05:02Z)
@@ -137,48 +146,45 @@ Tower Semiconductor 以 $38B 短暫成為以色列最有價值公司的帖子首
 
 ---
 
+### ⚖️ 高通 Snapdragon 8 系列路線圖公佈，揭示全新 3nm 晶片
+- **題材**: `半導體先進製程` | **重要性**: `60`
+- **來源**: GSMArena.com (2026-06-26T17:49:02Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 有傳言稱，高通今年將在Snapdragon 8 Elite系列下推出兩款2nm晶片，分別為Snapdragon 8 Elite Gen 6（SM8950）和Snapdragon 8 Elite Gen 6 Pro（SM8975）。但現在我們了解到高通還有兩款 Snapdragon 8 系列晶片…
+- [原文連結](https://www.gsmarena.com/qualcomm_snapdragon_8_elite_gen_5xx_snapdragon_8_gen_5_pro_surface-news-73464.php)
+
+---
+
+### ⚠️ 伊隆馬斯克同意提姆庫克的觀點：記憶體短缺是前所未有的
+- **題材**: `半導體先進製程` | **重要性**: `60`
+- **來源**: Business Insider (2026-06-26T17:14:07Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 伊隆馬斯克表示，記憶體成本飆升是“我所見過的最大的價格上漲”，而解決方案是“大幅提高產量”。
+- [原文連結](https://www.businessinsider.com/elon-musk-tim-cook-memory-shortage-chips-demand-rising-prices-2026-6#article)
+
+---
+
+### ⚠️ 美光暗示蘋果幫助引發了記憶體價格危機
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: MacRumors (2026-06-26T16:15:03Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 美光首席商務官暗示，蘋果與供應商的艱難談判導致了全球記憶體短缺，但沒有點名。
+
+
+
+
+
+週三，蘇米特·薩達納 (Sumit Sadana) 在向《華爾街日報》發表講話時...
+- [原文連結](https://www.macrumors.com/2026/06/26/micron-suggests-apple-helped-cause-memory-crisis/)
+
+---
+
 ### ⚖️ Arduino® UNO™ Q 板定價預告 – 直接來自 Marcello Majonchi
 - **題材**: `光通訊與矽光子` | **重要性**: `60`
 - **來源**: Arduino.cc (2026-06-26T14:10:35Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 來自 Arduino CPO – Marcello Majonchi 的演講 親愛的建構者、工程師和創新者，Arduino 建立在一個信念之上：每個想要利用它進行製作、學習或創新的人都應該能夠使用強大的技術。永遠忠於這項原則…
 - [原文連結](https://blog.arduino.cc/2026/06/26/a-heads-up-on-the-arduino-uno-q-board-pricing-straight-from-marcello-majonchi/)
-
----
-
-### ⚠️ 日本迎來雙重風暴 台灣部分地區暴雨封城
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-06-26T13:08:11Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 作者：Chang-Ran Kim 和 Ann Wang 東京/竹北，台灣，6 月 26 日（路透社）
-- [原文連結](https://www.yahoo.com/news/weather-news/articles/torrential-rain-passing-typhoon-shuts-001209973.html)
-
----
-
-### 🚀 人工智慧伺服器需求強勁，高盛上調戴爾科技公司 (DELL) 的目標價
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-06-26T10:50:21Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 戴爾科技公司（NYSE：DELL）是「Vera Rubin」晶片週期目前最值得買入的科技股之一。繼戴爾科技公司（NYSE：DELL）之後…
-- [原文連結](https://finance.yahoo.com/technology/ai/articles/goldman-sachs-raises-price-target-105021727.html)
-
----
-
-### ⚖️ 報告稱，人工智慧熱潮重塑韓國，三星準備投入 6,480 億美元
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-06-26T03:06:41Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 作者：Hyunjoo Jin、Joyce Lee 和 Heejin Kim 首爾，6 月 26 日（路透社）
-- [原文連結](https://finance.yahoo.com/technology/ai/articles/samsung-readies-648-billion-bet-030641266.html)
-
----
-
-### 🚀 Nvidia 的直接晶片液體冷卻具有可持續性和性能優勢
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: TechRadar (2026-06-25T18:05:00Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 「我們已經消除了大量的電力消耗和幾乎所有的水消耗」—Nvidia Rubin 使用 45°C 直接晶片冷卻。
-- [原文連結](https://www.techradar.com/pro/nvidias-direct-to-chip-liquid-cooling-is-a-sustainability-and-a-performance-win)
 
 ---
 

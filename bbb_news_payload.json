@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-06-27T15:57:08.238357+00:00",
+  "generated_at": "2026-06-27T17:53:13.757740+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 73,
@@ -348,6 +348,41 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "9e0763feda9b861f",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "忘記蘋果吧。亞馬遜剛剛讓人工智慧變得更加昂貴。",
+      "summary": "亞馬遜網路服務將 AI 雲端價格提高 20%。該公司一月份就已經將價格提高了 15%。",
+      "original_title": "Forget Apple. Amazon just made AI a lot more expensive.",
+      "url": "https://www.businessinsider.com/amazon-raises-ai-cloud-prices-memory-chip-costs-soar-2026-6#article",
+      "source": "Business Insider",
+      "domain": "businessinsider.com",
+      "published_at": "2026-06-26T17:12:04Z",
+      "importance": 65,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "b8c6c10bf13c67fb",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -568,6 +603,117 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "c9a5a1fdcbc7f225",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "高通 Snapdragon 8 系列路線圖公佈，揭示全新 3nm 晶片",
+      "summary": "有傳言稱，高通今年將在Snapdragon 8 Elite系列下推出兩款2nm晶片，分別為Snapdragon 8 Elite Gen 6（SM8950）和Snapdragon 8 Elite Gen 6 Pro（SM8975）。但現在我們了解到高通還有兩款 Snapdragon 8 系列晶片…",
+      "original_title": "Qualcomm's Snapdragon 8 series roadmap surfaces revealing new 3nm chips",
+      "url": "https://www.gsmarena.com/qualcomm_snapdragon_8_elite_gen_5xx_snapdragon_8_gen_5_pro_surface-news-73464.php",
+      "source": "GSMArena.com",
+      "domain": "gsmarena.com",
+      "published_at": "2026-06-26T17:49:02Z",
+      "importance": 60,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "76e1eb1432161804",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "伊隆馬斯克同意提姆庫克的觀點：記憶體短缺是前所未有的",
+      "summary": "伊隆馬斯克表示，記憶體成本飆升是“我所見過的最大的價格上漲”，而解決方案是“大幅提高產量”。",
+      "original_title": "Elon Musk agrees with Tim Cook: The memory shortage is unprecedented",
+      "url": "https://www.businessinsider.com/elon-musk-tim-cook-memory-shortage-chips-demand-rising-prices-2026-6#article",
+      "source": "Business Insider",
+      "domain": "businessinsider.com",
+      "published_at": "2026-06-26T17:14:07Z",
+      "importance": 60,
+      "impact": "negative",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "de9b87758948b309",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "美光暗示蘋果幫助引發了記憶體價格危機",
+      "summary": "美光首席商務官暗示，蘋果與供應商的艱難談判導致了全球記憶體短缺，但沒有點名。\n\n\n\n\n\n週三，蘇米特·薩達納 (Sumit Sadana) 在向《華爾街日報》發表講話時...",
+      "original_title": "Micron Suggests Apple Helped Cause Memory Price Crisis",
+      "url": "https://www.macrumors.com/2026/06/26/micron-suggests-apple-helped-cause-memory-crisis/",
+      "source": "MacRumors",
+      "domain": "macrumors.com",
+      "published_at": "2026-06-26T16:15:03Z",
+      "importance": 60,
+      "impact": "negative",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "7b393814043bfc5e",
@@ -871,44 +1017,6 @@
       "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "1369d7cdacb02183",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "長電科技將在上海興建先進晶片封裝新工廠",
-      "summary": "JCET's expansion in advanced chip packaging could bolster China's semiconductor capabilities, enhancing its competitive edge globally.\nThe post JCET to build new plant in Shanghai for advanced chip packaging appeared first on Crypto Briefing.",
-      "original_title": "JCET to build new plant in Shanghai for advanced chip packaging",
-      "url": "https://cryptobriefing.com/jcet-shanghai-advanced-chip-packaging-plant/",
-      "source": "Crypto Briefing",
-      "domain": "cryptobriefing.com",
-      "published_at": "2026-06-25T01:43:02Z",
-      "importance": 60,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "eaf9ead18943ca4e",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1093,41 +1201,6 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "da5373c16e06900a",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "美光第三季獲利超乎預期，前景好於預期並宣布派息",
-      "summary": "美光科技週三盤後公佈了第三季財報。",
-      "original_title": "Micron tops Q3 earnings estimates, offers better-than-expected outlook and declares dividend",
-      "url": "https://finance.yahoo.com/technology/article/micron-tops-q3-earnings-estimates-offers-better-than-expected-outlook-and-declares-dividend-113000152.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-06-23T11:30:00Z",
-      "importance": 60,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "1b4d500529ccca5d",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1202,6 +1275,82 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "1c63959c17c2f018",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "21k 英里 2016 年保時捷 Cayman GT4",
+      "summary": "這輛 2016 年保時捷 Cayman 是一輛黑底黑字的 GT4，賣方於 2024 年作為保時捷批准認證二手車 (CPO) 購買，目前擁有 21,000 英里。它由 3.8 升水平對臥六缸引擎和六速手排變速驅動橋提供動力。該…",
+      "original_title": "21k-Mile 2016 Porsche Cayman GT4",
+      "url": "https://bringatrailer.com/listing/2016-porsche-cayman-gt4-247/",
+      "source": "Bringatrailer.com",
+      "domain": "bringatrailer.com",
+      "published_at": "2026-06-26T17:50:09Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "595c3ceb67127ae6",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "轉虧為盈的故事與特質：美國銀行 8 檔小型股預計將在下半年上漲",
+      "summary": "儘管投資者關注人工智慧和科技，但美國銀行表示，他們也應該關注預計將上漲的中小型股。",
+      "original_title": "Turnaround stories and idiosyncrasies: BofA shares 8 small-cap stocks poised to rally in the 2nd half",
+      "url": "https://www.businessinsider.com/stock-picks-to-buy-bofa-small-caps-iot-ulta-elf-2026-6#article",
+      "source": "Business Insider",
+      "domain": "businessinsider.com",
+      "published_at": "2026-06-26T17:16:04Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "8ff32bd28e76127e",
@@ -1771,44 +1920,6 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "bfb87c5687576781",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "霍爾木茲危機最嚴重的時期已經過去了嗎？",
-      "summary": "隨著油價下跌，船隻再次通過霍爾木茲海峽。但消費者的緩解可能需要更長的時間。",
-      "original_title": "Has the worst of the Hormuz crisis passed?",
-      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/6/24/has-the-worst-of-the-hormuz-crisis-passed",
-      "source": "Al Jazeera English",
-      "domain": "aljazeera.com",
-      "published_at": "2026-06-24T16:50:57Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "f08f63e6720a044f",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1890,44 +2001,6 @@
       "source": "Android Central",
       "domain": "androidcentral.com",
       "published_at": "2026-06-23T19:53:56Z",
-      "importance": 55,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "44d17ef512a29687",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "iPhone 18 Pro：三個已經讓我興奮的新功能",
-      "summary": "iPhone 18 Pro 距離發布還有幾個月的時間，但在迄今為止傳聞的新功能中，有三項升級讓我特別興奮。",
-      "original_title": "iPhone 18 Pro: Three new features that already have me excited",
-      "url": "https://9to5mac.com/2026/06/23/iphone-18-pro-three-new-features-that-already-have-me-excited/",
-      "source": "9to5Mac",
-      "domain": "9to5mac.com",
-      "published_at": "2026-06-23T18:45:32Z",
       "importance": 55,
       "impact": "positive",
       "timeframe": "short_term",
@@ -2107,44 +2180,6 @@
       "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "79a3f91e17e68771",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "台積電加速 CoPoS 封裝取代 CoWoS，玻璃芯基板成本降低 30%，晶圓利用率提升至 90% 以上",
-      "summary": "隨著玻璃核心基板成為焦點，台積電正在積極開發 CoPoS（面板級）封裝，以取代 CoWoS，以滿足不斷增長的運算需求。面板級封裝是台積電的下一個邏輯步驟，因為它著眼於 CoPoS“玻璃芯基板”技術...",
-      "original_title": "TSMC Accelerates CoPoS Packaging to Replace CoWoS, as Glass Core Substrates Cut Costs 30% and Boost Wafer Utilization Past 90%",
-      "url": "https://wccftech.com/tsmc-accelerates-copos-packaging-replace-cowos-as-glass-core-substrates-cut-costs-boost-wafer-utilizatio/",
-      "source": "Wccftech",
-      "domain": "wccftech.com",
-      "published_at": "2026-06-20T17:40:34Z",
-      "importance": 55,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "eb04a75382e78621",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2218,17 +2253,17 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "679dd95032599817",
+      "id": "bfb87c5687576781",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "總體風險",
-      "title": "川普表示司法部將「立即」調查加油站價格詐欺行為",
-      "summary": "唐納德·川普總統指責石油公司哄抬價格，呼籲司法部「立即開始調查」。",
-      "original_title": "Trump says DOJ will 'immediately' look into price gouging at the gas pump",
-      "url": "https://abcnews.com/US/trump-doj-immediately-price-gouging-gas-pump/story?id=134161317",
-      "source": "Abcnews.com",
-      "domain": "abcnews.com",
-      "published_at": "2026-06-24T15:42:35Z",
+      "title": "霍爾木茲危機最嚴重的時期已經過去了嗎？",
+      "summary": "隨著油價下跌，船隻再次通過霍爾木茲海峽。但消費者的緩解可能需要更長的時間。",
+      "original_title": "Has the worst of the Hormuz crisis passed?",
+      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/6/24/has-the-worst-of-the-hormuz-crisis-passed",
+      "source": "Al Jazeera English",
+      "domain": "aljazeera.com",
+      "published_at": "2026-06-24T16:50:57Z",
       "importance": 50,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -2378,41 +2413,6 @@
       "source": "NPR",
       "domain": "npr.org",
       "published_at": "2026-06-23T19:31:54Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "6ed64943d298e0dc",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "美光 12% 的拋售是一份禮物。人工智慧的記憶體危機使其成為長期投資",
-      "summary": "由於投資者對廣泛的市場拋售做出反應，科技股今天受到重創，記憶體晶片製造商美光科技（納斯達克股票代碼：MU）已被席捲...",
-      "original_title": "Micron’s 12% Sell-Off Is a Gift. AI’s Memory Crisis Makes It a Long-Term Buy",
-      "url": "https://247wallst.com/investing/2026/06/23/microns-12-sell-off-is-a-gift-ais-memory-crisis-makes-it-a-long-term-buy/",
-      "source": "24/7 Wall St.",
-      "domain": "247wallst.com",
-      "published_at": "2026-06-23T14:36:42Z",
       "importance": 50,
       "impact": "neutral",
       "timeframe": "short_term",
