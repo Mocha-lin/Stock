@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-27T10:57:27.434238+00:00
+> 更新時間：2026-06-27T14:21:06.094560+00:00
 
 ### ⚖️ 由於需求使設施滿載，Sigurd 擴大了人工智慧測試能力
 - **題材**: `光通訊與矽光子` | **重要性**: `88`
@@ -7,24 +7,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重大事件】可能顯著影響產業評價、EPS預期或資金流向。
 - **摘要**: 隨著人工智慧需求和穩定的客戶訂單使其設施充分利用，Sigurd 正在擴大測試和包裝能力。對全球讀者而言，此舉突顯了矽光子學 (SiPh)、人工智慧伺服器和先進晶片的供應鏈如何收緊…
 - [原文連結](https://www.digitimes.com/news/a20260624PD217/sigurd-capacity-testing-demand-revenue.html)
-
----
-
-### 🚀 台積電 3nm 交貨時間超過一年，三星在晶圓代工方面面臨英特爾
-- **題材**: `半導體先進製程` | **重要性**: `83`
-- **來源**: Digitimes (2026-06-25T02:39:41Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 隨著AI晶片需求激增，代工訂單爭奪戰愈演愈烈。韓國產業消息人士稱，未來2-3年將是三星電子代工業務的關鍵時期，其2028年的扭虧為盈目標取決於穩定的營運…
-- [原文連結](https://www.digitimes.com/news/a20260625PD220/samsung-semiconductor-foundry-chips-demand-intel-tsmc.html)
-
----
-
-### 🚀 日月光競相擴張，台積電與 Amkor 聯盟撼動封裝版圖
-- **題材**: `半導體先進製程` | **重要性**: `78`
-- **來源**: Digitimes (2026-06-25T03:05:31Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 全球半導體封裝和測試競賽正在升溫，台積電最近與 Amkor 簽署了一項為期 10 年的協議，擴大在亞利桑那州的先進封裝合作，引起市場密切關注，與 ASE 和 Amkor 的競爭將如何重塑半導體行業格局。
-- [原文連結](https://www.digitimes.com/news/a20260625PD222/packaging-ase-testing-tsmc-amkor.html)
 
 ---
 
@@ -46,15 +28,6 @@
 
 ---
 
-### 🚀 瑞穗表示，英特爾（INTC）先進封裝可以支援人工智慧資料中心的成長
-- **題材**: `半導體先進製程` | **重要性**: `75`
-- **來源**: Yahoo Entertainment (2026-06-24T13:47:19Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 英特爾（納斯達克股票代碼：INTC）是分析師關注的 15 隻人工智慧股票之一：微軟、英偉達等。英特爾公司可能會受益於…
-- [原文連結](https://finance.yahoo.com/technology/ai/articles/intel-intc-advanced-packaging-could-134719489.html)
-
----
-
 ### ⚖️ AuthenX 瞄準 AI 資料中心與 CPO 的即插即用 FAU 互連
 - **題材**: `光通訊與矽光子` | **重要性**: `73`
 - **來源**: Digitimes (2026-06-26T06:35:26Z)
@@ -70,15 +43,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 格羅方德 (GF) 將其新加坡業務定位為物理人工智慧新興時代的核心樞紐，這家晶片製造商擴大了對製造能力和針對機器人、自主系統等的下一代半導體技術的投資。
 - [原文連結](https://www.digitimes.com/news/a20260625VL205/globalfoundries-data-technology-investment-manufacturing.html)
-
----
-
-### ⚖️ SK 海力士在歷史性的納斯達克上市，擬籌集高達 290 億美元資金——所有收益將用於先進的 AI 內存工廠和 EUV 工具訂單
-- **題材**: `HBM記憶體` | **重要性**: `72`
-- **來源**: Tom's Hardware UK (2026-06-24T12:42:34Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: SK海力士週三提交了一份證券登記聲明，擬透過在納斯達克上市的美國存託憑證籌集至多45.45兆韓元。
-- [原文連結](https://www.tomshardware.com/tech-industry/sk-hynix-files-to-raise-up-to-29-billion-in-nasdaq-listing)
 
 ---
 
@@ -101,6 +65,15 @@ Tower Semiconductor 以 $38B 短暫成為以色列最有價值公司的帖子首
 
 ---
 
+### 🚀 瑞穗表示，英特爾（INTC）先進封裝可以支援人工智慧資料中心的成長
+- **題材**: `半導體先進製程` | **重要性**: `70`
+- **來源**: Yahoo Entertainment (2026-06-24T13:47:19Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 英特爾（納斯達克股票代碼：INTC）是分析師關注的 15 隻人工智慧股票之一：微軟、英偉達等。英特爾公司可能會受益於…
+- [原文連結](https://finance.yahoo.com/technology/ai/articles/intel-intc-advanced-packaging-could-134719489.html)
+
+---
+
 ### ⚖️ MSScorps再次擴大台灣矽光子投資
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
 - **來源**: Digitimes (2026-06-21T23:44:38Z)
@@ -110,21 +83,21 @@ Tower Semiconductor 以 $38B 短暫成為以色列最有價值公司的帖子首
 
 ---
 
+### ⚖️ SK 海力士在歷史性的納斯達克上市，擬籌集高達 290 億美元資金——所有收益將用於先進的 AI 內存工廠和 EUV 工具訂單
+- **題材**: `HBM記憶體` | **重要性**: `67`
+- **來源**: Tom's Hardware UK (2026-06-24T12:42:34Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: SK海力士週三提交了一份證券登記聲明，擬透過在納斯達克上市的美國存託憑證籌集至多45.45兆韓元。
+- [原文連結](https://www.tomshardware.com/tech-industry/sk-hynix-files-to-raise-up-to-29-billion-in-nasdaq-listing)
+
+---
+
 ### 🚀 摩根士丹利表示，AMD EPYC Venice 到 2027 年將以 675 萬顆的數量超越 NVIDIA Vera CPU，而 Zen 6 則將超越 575 萬顆的競爭對手
 - **題材**: `半導體先進製程` | **重要性**: `65`
 - **來源**: Wccftech (2026-06-26T01:05:02Z)
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 到 2027 年，NVIDIA 將繼續保持台積電最大客戶的地位，但 AMD EPYC Venice 可能會超過其 Vera CPU。隨著 CPU 智慧人工智慧競賽的升溫，台積電看到 2.5D 先進封裝需求不斷成長
 - [原文連結](https://wccftech.com/amd-epyc-venice-to-outpace-nvidia-vera-cpus-2027/)
-
----
-
-### 🚀 Don't delay that MacBook upgrade — Apple's laptop price hikes could be much worse than the iPhone 18 Pro, analysts predict
-- **題材**: `半導體先進製程` | **重要性**: `65`
-- **來源**: TechRadar (2026-06-25T12:23:08Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 我們知道蘋果所有主要產品都會漲價，但 MacBook 的表現可能最差。
-- [原文連結](https://www.techradar.com/computing/macbooks/dont-delay-that-macbook-upgrade-apples-laptop-price-hikes-could-be-much-worse-than-the-iphone-18-pro-analysts-predict)
 
 ---
 
@@ -170,6 +143,33 @@ Tower Semiconductor 以 $38B 短暫成為以色列最有價值公司的帖子首
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 半導體測試分析服務商宏康於6月18日召開年度股東大會，董事長謝永芬表示，公司已開始投資矽光子晶圓及晶片光電分析平台，以期…
 - [原文連結](https://www.digitimes.com/news/a20260618PD229/testing-silicon-photonics-2026-cpo.html)
+
+---
+
+### ⚖️ Arduino® UNO™ Q 板定價預告 – 直接來自 Marcello Majonchi
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: Arduino.cc (2026-06-26T14:10:35Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 來自 Arduino CPO – Marcello Majonchi 的演講 親愛的建構者、工程師和創新者，Arduino 建立在一個信念之上：每個想要利用它進行製作、學習或創新的人都應該能夠使用強大的技術。永遠忠於這項原則…
+- [原文連結](https://blog.arduino.cc/2026/06/26/a-heads-up-on-the-arduino-uno-q-board-pricing-straight-from-marcello-majonchi/)
+
+---
+
+### ⚠️ 日本迎來雙重風暴 台灣部分地區暴雨封城
+- **題材**: `半導體先進製程` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-06-26T13:08:11Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 作者：Chang-Ran Kim 和 Ann Wang 東京/竹北，台灣，6 月 26 日（路透社）
+- [原文連結](https://www.yahoo.com/news/weather-news/articles/torrential-rain-passing-typhoon-shuts-001209973.html)
+
+---
+
+### 🚀 人工智慧伺服器需求強勁，高盛上調戴爾科技公司 (DELL) 的目標價
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-06-26T10:50:21Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 戴爾科技公司（NYSE：DELL）是「Vera Rubin」晶片週期目前最值得買入的科技股之一。繼戴爾科技公司（NYSE：DELL）之後…
+- [原文連結](https://finance.yahoo.com/technology/ai/articles/goldman-sachs-raises-price-target-105021727.html)
 
 ---
 
