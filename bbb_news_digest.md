@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-27T17:53:13.757740+00:00
+> 更新時間：2026-06-27T20:02:02.075071+00:00
 
 ### ⚖️ 由於需求使設施滿載，Sigurd 擴大了人工智慧測試能力
 - **題材**: `光通訊與矽光子` | **重要性**: `88`
@@ -16,15 +16,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Co-packaged optics (CPO) is rapidly emerging as a foundational architecture for next-generation AI infrastructure. With Nvidia's latest Scale-Up CPO switch roadmap now taking shape, bandwidth per AI rack is set to increase from approximately 130 TB/s in the B…
 - [原文連結](https://www.digitimes.com/news/a20260625PD213/nvidia-cpo-infrastructure-optics-roadmap-tsmc.html)
-
----
-
-### 🚀 Marvell Technology (MRVL) 的 AI 光學評論如何強化其資料中心連接成長故事
-- **題材**: `光通訊與矽光子` | **重要性**: `75`
-- **來源**: Yahoo Entertainment (2026-06-24T18:53:20Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Marvell Technology, Inc.（纳斯达克股票代码：MRVL）是人工智能数据中心热潮中最值得买入的光纤股票之一。 2026年5月27日，公司公佈業績報告...
-- [原文連結](https://finance.yahoo.com/technology/ai/articles/marvell-technology-mrvl-ai-optics-185320797.html)
 
 ---
 
@@ -62,6 +53,15 @@
 - **摘要**: Tower Semiconductor 短暫的估值高峰凸顯了人工智慧驅動市場的波動性以及矽光子學的戰略重要性。
 Tower Semiconductor 以 $38B 短暫成為以色列最有價值公司的帖子首先出現在 Crypto Brie 上…
 - [原文連結](https://cryptobriefing.com/tower-semiconductor-israel-most-valuable-company/)
+
+---
+
+### 🚀 Marvell Technology (MRVL) 的 AI 光學評論如何強化其資料中心連接成長故事
+- **題材**: `光通訊與矽光子` | **重要性**: `70`
+- **來源**: Yahoo Entertainment (2026-06-24T18:53:20Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Marvell Technology, Inc.（纳斯达克股票代码：MRVL）是人工智能数据中心热潮中最值得买入的光纤股票之一。 2026年5月27日，公司公佈業績報告...
+- [原文連結](https://finance.yahoo.com/technology/ai/articles/marvell-technology-mrvl-ai-optics-185320797.html)
 
 ---
 
@@ -146,6 +146,15 @@ Tower Semiconductor 以 $38B 短暫成為以色列最有價值公司的帖子首
 
 ---
 
+### ⚠️ 川普威脅對任何徵收數位服務稅的國家徵收100%關稅
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-06-26T18:15:40Z)
+- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 
+- [原文連結](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_5263b768-5d7c-41f6-a8b8-26160a6cc3b6)
+
+---
+
 ### ⚖️ 高通 Snapdragon 8 系列路線圖公佈，揭示全新 3nm 晶片
 - **題材**: `半導體先進製程` | **重要性**: `60`
 - **來源**: GSMArena.com (2026-06-26T17:49:02Z)
@@ -176,15 +185,6 @@ Tower Semiconductor 以 $38B 短暫成為以色列最有價值公司的帖子首
 
 週三，蘇米特·薩達納 (Sumit Sadana) 在向《華爾街日報》發表講話時...
 - [原文連結](https://www.macrumors.com/2026/06/26/micron-suggests-apple-helped-cause-memory-crisis/)
-
----
-
-### ⚖️ Arduino® UNO™ Q 板定價預告 – 直接來自 Marcello Majonchi
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: Arduino.cc (2026-06-26T14:10:35Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 來自 Arduino CPO – Marcello Majonchi 的演講 親愛的建構者、工程師和創新者，Arduino 建立在一個信念之上：每個想要利用它進行製作、學習或創新的人都應該能夠使用強大的技術。永遠忠於這項原則…
-- [原文連結](https://blog.arduino.cc/2026/06/26/a-heads-up-on-the-arduino-uno-q-board-pricing-straight-from-marcello-majonchi/)
 
 ---
 
