@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-27T14:21:06.094560+00:00
+> 更新時間：2026-06-27T15:57:08.238357+00:00
 
 ### ⚖️ 由於需求使設施滿載，Sigurd 擴大了人工智慧測試能力
 - **題材**: `光通訊與矽光子` | **重要性**: `88`
@@ -80,15 +80,6 @@ Tower Semiconductor 以 $38B 短暫成為以色列最有價值公司的帖子首
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 經濟部下屬的台灣投資辦公室 InvesTaiwan 已批准以 MSScorps 為首的四家公司擴大台灣投資計劃，該計劃將投資 15 億新台幣（4740 萬美元），並且是第三次提交申請。該公司
 - [原文連結](https://www.digitimes.com/news/a20260618PD236/taiwan-investment-msscorps-silicon-photonics.html)
-
----
-
-### ⚖️ SK 海力士在歷史性的納斯達克上市，擬籌集高達 290 億美元資金——所有收益將用於先進的 AI 內存工廠和 EUV 工具訂單
-- **題材**: `HBM記憶體` | **重要性**: `67`
-- **來源**: Tom's Hardware UK (2026-06-24T12:42:34Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: SK海力士週三提交了一份證券登記聲明，擬透過在納斯達克上市的美國存託憑證籌集至多45.45兆韓元。
-- [原文連結](https://www.tomshardware.com/tech-industry/sk-hynix-files-to-raise-up-to-29-billion-in-nasdaq-listing)
 
 ---
 
@@ -179,6 +170,15 @@ Tower Semiconductor 以 $38B 短暫成為以色列最有價值公司的帖子首
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 作者：Hyunjoo Jin、Joyce Lee 和 Heejin Kim 首爾，6 月 26 日（路透社）
 - [原文連結](https://finance.yahoo.com/technology/ai/articles/samsung-readies-648-billion-bet-030641266.html)
+
+---
+
+### 🚀 Nvidia 的直接晶片液體冷卻具有可持續性和性能優勢
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: TechRadar (2026-06-25T18:05:00Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 「我們已經消除了大量的電力消耗和幾乎所有的水消耗」—Nvidia Rubin 使用 45°C 直接晶片冷卻。
+- [原文連結](https://www.techradar.com/pro/nvidias-direct-to-chip-liquid-cooling-is-a-sustainability-and-a-performance-win)
 
 ---
 
