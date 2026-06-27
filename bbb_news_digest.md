@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-26T20:24:35.146867+00:00
+> 更新時間：2026-06-27T00:08:03.068848+00:00
 
 ### ⚖️ 由於需求使設施滿載，Sigurd 擴大了人工智慧測試能力
 - **題材**: `光通訊與矽光子` | **重要性**: `88`
@@ -7,6 +7,24 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重大事件】可能顯著影響產業評價、EPS預期或資金流向。
 - **摘要**: 隨著人工智慧需求和穩定的客戶訂單使其設施充分利用，Sigurd 正在擴大測試和包裝能力。對全球讀者而言，此舉突顯了矽光子學 (SiPh)、人工智慧伺服器和先進晶片的供應鏈如何收緊…
 - [原文連結](https://www.digitimes.com/news/a20260624PD217/sigurd-capacity-testing-demand-revenue.html)
+
+---
+
+### 🚀 台積電 3nm 交貨時間超過一年，三星在晶圓代工方面面臨英特爾
+- **題材**: `半導體先進製程` | **重要性**: `83`
+- **來源**: Digitimes (2026-06-25T02:39:41Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 隨著AI晶片需求激增，代工訂單爭奪戰愈演愈烈。韓國產業消息人士稱，未來2-3年將是三星電子代工業務的關鍵時期，其2028年的扭虧為盈目標取決於穩定的營運…
+- [原文連結](https://www.digitimes.com/news/a20260625PD220/samsung-semiconductor-foundry-chips-demand-intel-tsmc.html)
+
+---
+
+### 🚀 日月光競相擴張，台積電與 Amkor 聯盟撼動封裝版圖
+- **題材**: `半導體先進製程` | **重要性**: `78`
+- **來源**: Digitimes (2026-06-25T03:05:31Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 全球半導體封裝和測試競賽正在升溫，台積電最近與 Amkor 簽署了一項為期 10 年的協議，擴大在亞利桑那州的先進封裝合作，引起市場密切關注，與 ASE 和 Amkor 的競爭將如何重塑半導體行業格局。
+- [原文連結](https://www.digitimes.com/news/a20260625PD222/packaging-ase-testing-tsmc-amkor.html)
 
 ---
 
@@ -34,6 +52,15 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 英特爾（納斯達克股票代碼：INTC）是分析師關注的 15 隻人工智慧股票之一：微軟、英偉達等。英特爾公司可能會受益於…
 - [原文連結](https://finance.yahoo.com/technology/ai/articles/intel-intc-advanced-packaging-could-134719489.html)
+
+---
+
+### ⚖️ GlobalFoundries 擴大新加坡業務，瞄準實體 AI 硬體浪潮
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-06-25T23:51:21Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 格羅方德 (GF) 將其新加坡業務定位為物理人工智慧新興時代的核心樞紐，這家晶片製造商擴大了對製造能力和針對機器人、自主系統等的下一代半導體技術的投資。
+- [原文連結](https://www.digitimes.com/news/a20260625VL205/globalfoundries-data-technology-investment-manufacturing.html)
 
 ---
 
@@ -71,6 +98,15 @@ Tower Semiconductor 以 $38B 短暫成為以色列最有價值公司的帖子首
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 經濟部下屬的台灣投資辦公室 InvesTaiwan 已批准以 MSScorps 為首的四家公司擴大台灣投資計劃，該計劃將投資 15 億新台幣（4740 萬美元），並且是第三次提交申請。該公司
 - [原文連結](https://www.digitimes.com/news/a20260618PD236/taiwan-investment-msscorps-silicon-photonics.html)
+
+---
+
+### 🚀 Don't delay that MacBook upgrade — Apple's laptop price hikes could be much worse than the iPhone 18 Pro, analysts predict
+- **題材**: `半導體先進製程` | **重要性**: `65`
+- **來源**: TechRadar (2026-06-25T12:23:08Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 我們知道蘋果所有主要產品都會漲價，但 MacBook 的表現可能最差。
+- [原文連結](https://www.techradar.com/computing/macbooks/dont-delay-that-macbook-upgrade-apples-laptop-price-hikes-could-be-much-worse-than-the-iphone-18-pro-analysts-predict)
 
 ---
 
@@ -137,49 +173,12 @@ Tower Semiconductor 以 $38B 短暫成為以色列最有價值公司的帖子首
 
 ---
 
-### 🚀 JAŸ-Z 和 Rick Rubin 搭檔拍攝 HBO 紀錄片
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: Spinmagazine.com (2026-06-25T16:21:51Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Rick Rubin 和 JAŸ-Z 在 HBO 的一部新紀錄片系列中重新審視他們長期的創意合作關係。 Rick Rubin 和 JAŸ-Z 在 HBO 的一部新紀錄片系列中重新審視他們長期的創意合作關係。
-- [原文連結](https://www.spinmagazine.com/2026/06/jay-z-rick-rubin-documentary/)
-
----
-
-### 🚀 Jay-Z 30 年的回憶值得在 Rick Rubin 執導的系列紀錄片預告片中重溫
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: Rolling Stone (2026-06-25T16:21:04Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Jay-Z 預告了《JAŸ-Z In 8》，這是他即將上映的由 Rick Rubin 執導的八集紀錄片，該片將在 HBO Max 上首播。
-- [原文連結](http://www.rollingstone.com/music/music-news/jay-z-eight-part-documentary-rick-rubin-directed-1235584028/)
-
----
-
-### 🚀 我們發現的 23 項 30 美元以下亞馬遜 Prime Day 最佳優惠（2026 年）
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Wired (2026-06-25T11:11:34Z)
-- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 一切都很昂貴。從廚師刀到手持風扇，您可以挑選一款經過《連線》測試和認可的 Prime Day 精選商品，價格不超過 30 美元，犒勞一下自己。
-- [原文連結](https://www.wired.com/story/best-amazon-prime-day-deals-under-30-06-25-2026/)
-
----
-
-### ⚖️ 長電科技將在上海興建先進晶片封裝新工廠
+### 🚀 Price Prediction: From $79 to $269 in a Year, Where is Credo Headed?
 - **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: Crypto Briefing (2026-06-25T01:43:02Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: JCET's expansion in advanced chip packaging could bolster China's semiconductor capabilities, enhancing its competitive edge globally.
-The post JCET to build new plant in Shanghai for advanced chip packaging appeared first on Crypto Briefing.
-- [原文連結](https://cryptobriefing.com/jcet-shanghai-advanced-chip-packaging-plant/)
-
----
-
-### 🚀 Qualcomm Dragonfly 生態系統支援人工智慧加速器、客製化晶片和網絡，透過一站式、可擴展的運算平台為下一代人工智慧工廠提供支援
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: Wccftech (2026-06-24T22:25:41Z)
+- **來源**: 24/7 Wall St. (2026-06-25T16:22:46Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Qualcomm Dragonfly 一站式提供強大的人工智慧運算加速器、CPU、突破性技術、網路和客製化晶片平台。進入龍
-- [原文連結](https://wccftech.com/qualcomm-dragonfly/)
+- **摘要**: 我先對 Credo Technology Group（納斯達克股票代碼：CRDO）做出裁決。該股今年迄今已上漲 86.94%，我們的專有模型現在看到份額...
+- [原文連結](https://247wallst.com/investing/2026/06/25/price-prediction-from-79-to-269-in-a-year-where-is-credo-headed/)
 
 ---
 
