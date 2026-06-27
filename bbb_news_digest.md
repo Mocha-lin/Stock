@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-27T00:08:03.068848+00:00
+> 更新時間：2026-06-27T04:44:28.984137+00:00
 
 ### ⚖️ 由於需求使設施滿載，Sigurd 擴大了人工智慧測試能力
 - **題材**: `光通訊與矽光子` | **重要性**: `88`
@@ -101,6 +101,15 @@ Tower Semiconductor 以 $38B 短暫成為以色列最有價值公司的帖子首
 
 ---
 
+### 🚀 摩根士丹利表示，AMD EPYC Venice 到 2027 年將以 675 萬顆的數量超越 NVIDIA Vera CPU，而 Zen 6 則將超越 575 萬顆的競爭對手
+- **題材**: `半導體先進製程` | **重要性**: `65`
+- **來源**: Wccftech (2026-06-26T01:05:02Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 到 2027 年，NVIDIA 將繼續保持台積電最大客戶的地位，但 AMD EPYC Venice 可能會超過其 Vera CPU。隨著 CPU 智慧人工智慧競賽的升溫，台積電看到 2.5D 先進封裝需求不斷成長
+- [原文連結](https://wccftech.com/amd-epyc-venice-to-outpace-nvidia-vera-cpus-2027/)
+
+---
+
 ### 🚀 Don't delay that MacBook upgrade — Apple's laptop price hikes could be much worse than the iPhone 18 Pro, analysts predict
 - **題材**: `半導體先進製程` | **重要性**: `65`
 - **來源**: TechRadar (2026-06-25T12:23:08Z)
@@ -164,21 +173,12 @@ Tower Semiconductor 以 $38B 短暫成為以色列最有價值公司的帖子首
 
 ---
 
-### 🚀 Nvidia 的直接晶片液體冷卻具有可持續性和性能優勢
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: TechRadar (2026-06-25T18:05:00Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 「我們已經消除了大量的電力消耗和幾乎所有的水消耗」—Nvidia Rubin 使用 45°C 直接晶片冷卻。
-- [原文連結](https://www.techradar.com/pro/nvidias-direct-to-chip-liquid-cooling-is-a-sustainability-and-a-performance-win)
-
----
-
-### 🚀 Price Prediction: From $79 to $269 in a Year, Where is Credo Headed?
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: 24/7 Wall St. (2026-06-25T16:22:46Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 我先對 Credo Technology Group（納斯達克股票代碼：CRDO）做出裁決。該股今年迄今已上漲 86.94%，我們的專有模型現在看到份額...
-- [原文連結](https://247wallst.com/investing/2026/06/25/price-prediction-from-79-to-269-in-a-year-where-is-credo-headed/)
+### ⚖️ 報告稱，人工智慧熱潮重塑韓國，三星準備投入 6,480 億美元
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-06-26T03:06:41Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 作者：Hyunjoo Jin、Joyce Lee 和 Heejin Kim 首爾，6 月 26 日（路透社）
+- [原文連結](https://finance.yahoo.com/technology/ai/articles/samsung-readies-648-billion-bet-030641266.html)
 
 ---
 
