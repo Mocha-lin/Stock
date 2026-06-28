@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-28T16:01:53.175896+00:00
+> 更新時間：2026-06-28T17:57:13.544923+00:00
 
 ### ⚖️ 由於需求使設施滿載，Sigurd 擴大了人工智慧測試能力
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -146,6 +146,15 @@ Tower Semiconductor 以 $38B 短暫成為以色列最有價值公司的帖子首
 
 ---
 
+### ⚠️ 川普誓言如果各國徵收數位服務稅，立即徵收100%關稅
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-06-26T18:04:12Z)
+- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 
+- [原文連結](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4b75a728-3440-434c-87bf-58adf2edec29)
+
+---
+
 ### ⚖️ 高通 Snapdragon 8 系列路線圖公佈，揭示全新 3nm 晶片
 - **題材**: `半導體先進製程` | **重要性**: `60`
 - **來源**: GSMArena.com (2026-06-26T17:49:02Z)
@@ -176,15 +185,6 @@ Tower Semiconductor 以 $38B 短暫成為以色列最有價值公司的帖子首
 
 週三，蘇米特·薩達納 (Sumit Sadana) 在向《華爾街日報》發表講話時...
 - [原文連結](https://www.macrumors.com/2026/06/26/micron-suggests-apple-helped-cause-memory-crisis/)
-
----
-
-### ⚖️ Arduino® UNO™ Q 板定價預告 – 直接來自 Marcello Majonchi
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: Arduino.cc (2026-06-26T14:10:35Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 來自 Arduino CPO – Marcello Majonchi 的演講 親愛的建構者、工程師和創新者，Arduino 建立在一個信念之上：每個想要利用它進行製作、學習或創新的人都應該能夠使用強大的技術。永遠忠於這項原則…
-- [原文連結](https://blog.arduino.cc/2026/06/26/a-heads-up-on-the-arduino-uno-q-board-pricing-straight-from-marcello-majonchi/)
 
 ---
 
