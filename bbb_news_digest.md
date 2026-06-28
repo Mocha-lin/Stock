@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-28T17:57:13.544923+00:00
+> 更新時間：2026-06-28T20:03:41.500396+00:00
 
 ### ⚖️ 由於需求使設施滿載，Sigurd 擴大了人工智慧測試能力
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -34,15 +34,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Co-packaged optics (CPO) is rapidly emerging as a foundational architecture for next-generation AI infrastructure. With Nvidia's latest Scale-Up CPO switch roadmap now taking shape, bandwidth per AI rack is set to increase from approximately 130 TB/s in the B…
 - [原文連結](https://www.digitimes.com/news/a20260625PD213/nvidia-cpo-infrastructure-optics-roadmap-tsmc.html)
-
----
-
-### ⚖️ Arm 伺服器佔據了資料中心市場收入的 45% 以上——GPU 叢集和高端人工智慧基礎設施推動了 x86 的結構性轉變
-- **題材**: `AI伺服器` | **重要性**: `72`
-- **來源**: Tom's Hardware UK (2026-06-22T20:34:17Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 基於 Arm 的伺服器佔 2026 年第一季伺服器收入的近一半，對 x86 構成挑戰。但在未來幾年，他們也可能在單位方面迎頭趕上。
-- [原文連結](https://www.tomshardware.com/desktops/servers/arm-servers-capture-over-45-percent-of-data-center-market-revenue-gpu-clusters-and-high-end-ai-infrastructure-fuel-a-tectonic-shift-away-from-x86)
 
 ---
 
@@ -125,6 +116,15 @@ Tower Semiconductor 以 $38B 短暫成為以色列最有價值公司的帖子首
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 半導體測試分析服務商宏康於6月18日召開年度股東大會，董事長謝永芬表示，公司已開始投資矽光子晶圓及晶片光電分析平台，以期…
 - [原文連結](https://www.digitimes.com/news/a20260618PD229/testing-silicon-photonics-2026-cpo.html)
+
+---
+
+### ⚖️ 憑藉在人工智慧基礎設施領域的主導地位，英偉達股票將繼續創造價值
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: Barchart.com (2026-06-27T16:26:03Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 儘管 Blackwell 在中國被禁止，但其 GPU 價格仍在該國上漲，使 Nvidia 的股票成為人們關注的焦點。
+- [原文連結](https://www.barchart.com/story/news/3016087/with-a-dominant-position-in-ai-infrastructure-nvidia-stock-will-continue-to-create-value)
 
 ---
 
