@@ -1,21 +1,12 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-28T05:11:21.631013+00:00
+> 更新時間：2026-06-28T08:30:46.603226+00:00
 
 ### ⚖️ 由於需求使設施滿載，Sigurd 擴大了人工智慧測試能力
-- **題材**: `光通訊與矽光子` | **重要性**: `88`
+- **題材**: `光通訊與矽光子` | **重要性**: `83`
 - **來源**: Digitimes (2026-06-25T08:16:28Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重大事件】可能顯著影響產業評價、EPS預期或資金流向。
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 隨著人工智慧需求和穩定的客戶訂單使其設施充分利用，Sigurd 正在擴大測試和包裝能力。對全球讀者而言，此舉突顯了矽光子學 (SiPh)、人工智慧伺服器和先進晶片的供應鏈如何收緊…
 - [原文連結](https://www.digitimes.com/news/a20260624PD217/sigurd-capacity-testing-demand-revenue.html)
-
----
-
-### ⚖️ AuthenX 瞄準 AI 資料中心與 CPO 的即插即用 FAU 互連
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-06-26T06:35:26Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 人工智慧驅動的超大規模資料中心擴張正在推動全球人工智慧競賽超越原始 GPU 運算能力，轉向更廣泛的高速互連和光電整合競賽。隨著 Nvidia 的下一代 AI 工廠邁向 PB 級…
-- [原文連結](https://www.digitimes.com/news/a20260625PD231/data-center-cpo-expansion-silicon-packaging.html)
 
 ---
 
@@ -46,16 +37,6 @@
 
 ---
 
-### 🚀 Tower Semiconductor 以 $38B 短暫成為以色列最有價值的公司
-- **題材**: `光通訊與矽光子` | **重要性**: `70`
-- **來源**: Crypto Briefing (2026-06-25T06:20:31Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Tower Semiconductor 短暫的估值高峰凸顯了人工智慧驅動市場的波動性以及矽光子學的戰略重要性。
-Tower Semiconductor 以 $38B 短暫成為以色列最有價值公司的帖子首先出現在 Crypto Brie 上…
-- [原文連結](https://cryptobriefing.com/tower-semiconductor-israel-most-valuable-company/)
-
----
-
 ### 🚀 Marvell Technology (MRVL) 的 AI 光學評論如何強化其資料中心連接成長故事
 - **題材**: `光通訊與矽光子` | **重要性**: `70`
 - **來源**: Yahoo Entertainment (2026-06-24T18:53:20Z)
@@ -71,6 +52,15 @@ Tower Semiconductor 以 $38B 短暫成為以色列最有價值公司的帖子首
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 英特爾（納斯達克股票代碼：INTC）是分析師關注的 15 隻人工智慧股票之一：微軟、英偉達等。英特爾公司可能會受益於…
 - [原文連結](https://finance.yahoo.com/technology/ai/articles/intel-intc-advanced-packaging-could-134719489.html)
+
+---
+
+### ⚖️ ShunSin 看到 CPO 潛力，將台積電資深人士加入為獨立人士
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-06-27T08:30:09Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 富士康旗下封測公司順新召開2026年度股東大會，由董事長蔣尚義主持。蔣表示，順新將利用富士康「…」下的封裝、測試和光電整合能力。
+- [原文連結](https://www.digitimes.com/news/a20260626PD230/shunsin-cpo-testing-packaging-tsmc.html)
 
 ---
 
@@ -107,6 +97,16 @@ Tower Semiconductor 以 $38B 短暫成為以色列最有價值公司的帖子首
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: IBM 表示，它已經創造了世界上第一個已知的 1 奈米以下晶片技術
 - [原文連結](https://www.bbc.co.uk/news/articles/cvg7vpyn5pxo)
+
+---
+
+### 🚀 Tower Semiconductor 以 $38B 短暫成為以色列最有價值的公司
+- **題材**: `光通訊與矽光子` | **重要性**: `65`
+- **來源**: Crypto Briefing (2026-06-25T06:20:31Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Tower Semiconductor 短暫的估值高峰凸顯了人工智慧驅動市場的波動性以及矽光子學的戰略重要性。
+Tower Semiconductor 以 $38B 短暫成為以色列最有價值公司的帖子首先出現在 Crypto Brie 上…
+- [原文連結](https://cryptobriefing.com/tower-semiconductor-israel-most-valuable-company/)
 
 ---
 
