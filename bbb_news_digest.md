@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-29T16:31:02.332404+00:00
+> 更新時間：2026-06-29T18:55:38.691400+00:00
 
 ### ⚖️ 由於需求使設施滿載，Sigurd 擴大了人工智慧測試能力
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -73,15 +73,6 @@
 
 ---
 
-### 🚀 忘記蘋果吧。亞馬遜剛剛讓人工智慧變得更加昂貴。
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: Business Insider (2026-06-26T17:12:04Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 亞馬遜網路服務將 AI 雲端價格提高 20%。該公司一月份就已經將價格提高了 15%。
-- [原文連結](https://www.businessinsider.com/amazon-raises-ai-cloud-prices-memory-chip-costs-soar-2026-6#article)
-
----
-
 ### 🚀 Tower Semiconductor 以 $38B 短暫成為以色列最有價值的公司
 - **題材**: `光通訊與矽光子` | **重要性**: `65`
 - **來源**: Crypto Briefing (2026-06-25T06:20:31Z)
@@ -128,39 +119,12 @@ Tower Semiconductor 以 $38B 短暫成為以色列最有價值公司的帖子首
 
 ---
 
-### ⚠️ 川普威脅對任何徵收數位服務稅的國家徵收100%關稅
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-06-26T18:15:40Z)
-- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 
-- [原文連結](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_5263b768-5d7c-41f6-a8b8-26160a6cc3b6)
-
----
-
-### ⚠️ 川普誓言如果各國徵收數位服務稅，立即徵收100%關稅
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-06-26T18:04:12Z)
-- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 
-- [原文連結](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4b75a728-3440-434c-87bf-58adf2edec29)
-
----
-
-### ⚖️ 高通 Snapdragon 8 系列路線圖公佈，揭示全新 3nm 晶片
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: GSMArena.com (2026-06-26T17:49:02Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 有傳言稱，高通今年將在Snapdragon 8 Elite系列下推出兩款2nm晶片，分別為Snapdragon 8 Elite Gen 6（SM8950）和Snapdragon 8 Elite Gen 6 Pro（SM8975）。但現在我們了解到高通還有兩款 Snapdragon 8 系列晶片…
-- [原文連結](https://www.gsmarena.com/qualcomm_snapdragon_8_elite_gen_5xx_snapdragon_8_gen_5_pro_surface-news-73464.php)
-
----
-
-### ⚠️ 伊隆馬斯克同意提姆庫克的觀點：記憶體短缺是前所未有的
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: Business Insider (2026-06-26T17:14:07Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 伊隆馬斯克表示，記憶體成本飆升是“我所見過的最大的價格上漲”，而解決方案是“大幅提高產量”。
-- [原文連結](https://www.businessinsider.com/elon-musk-tim-cook-memory-shortage-chips-demand-rising-prices-2026-6#article)
+### 🚀 忘記蘋果吧。亞馬遜剛剛讓人工智慧變得更加昂貴。
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: Business Insider (2026-06-26T17:12:04Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 亞馬遜網路服務將 AI 雲端價格提高 20%。該公司一月份就已經將價格提高了 15%。
+- [原文連結](https://www.businessinsider.com/amazon-raises-ai-cloud-prices-memory-chip-costs-soar-2026-6#article)
 
 ---
 
@@ -179,6 +143,42 @@ Tower Semiconductor 以 $38B 短暫成為以色列最有價值公司的帖子首
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: IBM 表示，它已經創造了世界上第一個已知的 1 奈米以下晶片技術
 - [原文連結](https://www.bbc.co.uk/news/articles/cvg7vpyn5pxo)
+
+---
+
+### 🚀 SK 海力士因納斯達克上市計劃而股價飆升，韓國 Kospi 股價上漲
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: Business Insider (2026-06-25T01:50:15Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 記憶體晶片製造商 SK 海力士正計劃在納斯達克上市，估值為 294 億美元。
+- [原文連結](https://www.businessinsider.com/south-korea-kospi-stock-market-today-sk-hynix-nasdaq-listing-2026-6#article)
+
+---
+
+### ⚖️ 韓國晶片工人的獎金如此之高，以致央行將其視為通膨風險
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: The Next Web (2026-06-23T16:50:03Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 半導體超級週期使韓國晶片工人的薪資異常高，該國央行現在擔心這些錢衝擊到更廣泛的經濟時會發生什麼。韓國央行本月警告稱，績效獎金…
+- [原文連結](https://thenextweb.com/news/south-korea-chip-bonuses-inflation-risk/)
+
+---
+
+### 🚀 為什麼台積電的 CoWoS 角色使台積電 (TSM) 成為 HBM 驅動的 AI 晶片熱潮的核心
+- **題材**: `半導體先進製程` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-06-23T16:10:05Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 台灣積體電路製造有限公司（NYSE：TSM）是成長最快的高頻寬記憶體股票之一。公司最新相關...
+- [原文連結](https://finance.yahoo.com/technology/ai/articles/why-tsmc-cowos-role-keeps-161005521.html)
+
+---
+
+### ⚖️ 人工智慧需求蓬勃發展，三星 HBM4 營收突破 10 億美元
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: SamMobile (2026-06-23T12:05:30Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 2026 年 2 月 12 日，三星開始量產第六代高頻寬記憶體 (HBM) 晶片 HBM4，這是當時業內其他公司未曾完成的壯舉。從那時起，該品牌的 HBM4 晶片需求量巨大，尤其是…
+- [原文連結](https://www.sammobile.com/news/samsungs-hbm4-revenue-surpasses-1-billion-amid-booming-ai-demand/)
 
 ---
 
