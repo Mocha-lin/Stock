@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-29T05:23:24.102494+00:00
+> 更新時間：2026-06-29T10:03:40.815321+00:00
 
 ### ⚖️ 由於需求使設施滿載，Sigurd 擴大了人工智慧測試能力
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -16,15 +16,6 @@
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 蒂姆·庫克最近表示，漲價是“不可避免的”，並稱該公司的定價“不可持續”。 16 吋 MacBook Pro 的價格上漲了 300 美元。 11 吋 iPad Air 從 599 美元漲到 749 美元。就連 HomePod Mini 也漲價了 30 美元，漲至 129 美元。 …
 - [原文連結](https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech)
-
----
-
-### ⚖️ AuthenX 瞄準 AI 資料中心與 CPO 的即插即用 FAU 互連
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-06-26T06:35:26Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 人工智慧驅動的超大規模資料中心擴張正在推動全球人工智慧競賽超越原始 GPU 運算能力，轉向更廣泛的高速互連和光電整合競賽。隨著 Nvidia 的下一代 AI 工廠邁向 PB 級…
-- [原文連結](https://www.digitimes.com/news/a20260625PD231/data-center-cpo-expansion-silicon-packaging.html)
 
 ---
 
@@ -64,6 +55,15 @@
 
 ---
 
+### ⚖️ AuthenX 瞄準 AI 資料中心與 CPO 的即插即用 FAU 互連
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-06-26T06:35:26Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 人工智慧驅動的超大規模資料中心擴張正在推動全球人工智慧競賽超越原始 GPU 運算能力，轉向更廣泛的高速互連和光電整合競賽。隨著 Nvidia 的下一代 AI 工廠邁向 PB 級…
+- [原文連結](https://www.digitimes.com/news/a20260625PD231/data-center-cpo-expansion-silicon-packaging.html)
+
+---
+
 ### ⚖️ GlobalFoundries 擴大新加坡業務，瞄準實體 AI 硬體浪潮
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
 - **來源**: Digitimes (2026-06-25T23:51:21Z)
@@ -89,15 +89,6 @@
 - **摘要**: Tower Semiconductor 短暫的估值高峰凸顯了人工智慧驅動市場的波動性以及矽光子學的戰略重要性。
 Tower Semiconductor 以 $38B 短暫成為以色列最有價值公司的帖子首先出現在 Crypto Brie 上…
 - [原文連結](https://cryptobriefing.com/tower-semiconductor-israel-most-valuable-company/)
-
----
-
-### ⚖️ 台積電玻璃基板在 2030 年之前不太可能推出
-- **題材**: `半導體先進製程` | **重要性**: `63`
-- **來源**: Digitimes (2026-06-22T07:09:23Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 先進半導體封裝中玻璃芯基板商業化的競賽正在升溫，但該技術在頭條新聞中的發展速度比在生產線上的發展速度更快。 DIGITIMES一直在追蹤台積電CoPoS先進封裝的最新進展…
-- [原文連結](https://www.digitimes.com/news/a20260622PD214/tsmc-digitimes-glass-substrate-2030-intel.html)
 
 ---
 
@@ -185,6 +176,15 @@ Tower Semiconductor 以 $38B 短暫成為以色列最有價值公司的帖子首
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 來自 Arduino CPO – Marcello Majonchi 的演講 親愛的建構者、工程師和創新者，Arduino 建立在一個信念之上：每個想要利用它進行製作、學習或創新的人都應該能夠使用強大的技術。永遠忠於這項原則…
 - [原文連結](https://blog.arduino.cc/2026/06/26/a-heads-up-on-the-arduino-uno-q-board-pricing-straight-from-marcello-majonchi/)
+
+---
+
+### ⚠️ 日本迎來雙重風暴 台灣部分地區暴雨封城
+- **題材**: `半導體先進製程` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-06-26T13:08:11Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 作者：Chang-Ran Kim 和 Ann Wang 東京/竹北，台灣，6 月 26 日（路透社）
+- [原文連結](https://www.yahoo.com/news/weather-news/articles/torrential-rain-passing-typhoon-shuts-001209973.html)
 
 ---
 
