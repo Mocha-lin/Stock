@@ -1,11 +1,11 @@
 {
   "id": "2337",
   "name": "旺宏",
-  "lastUpdated": "2026-06-28 17:54:37",
+  "lastUpdated": "2026-06-29 19:54:05",
   "basicInfo": {
-    "price": "162.50",
-    "change": "1.00",
-    "changePercent": "0.62%"
+    "price": "158.50",
+    "change": "-4.00",
+    "changePercent": "-2.46%"
   },
   "status": null,
   "themes": [],
@@ -429,12 +429,12 @@
         "period": "2025Q4",
         "total_assets_b": 785.00385,
         "equity_b": 458.02485,
-        "debt_ratio_pct": null,
+        "debt_ratio_pct": 41.64665434443411,
         "current_liab_b": 124.03846,
         "doi_days": 152.79167241111014,
         "assets": 785.00385,
         "equity": 458.02485,
-        "debt": null,
+        "debt": 41.64665434443411,
         "cliab": 124.03846,
         "doi": 152.79167241111014
       },
@@ -442,12 +442,12 @@
         "period": "2025Q2",
         "total_assets_b": 773.9461,
         "equity_b": 424.63836,
-        "debt_ratio_pct": null,
+        "debt_ratio_pct": 45.12936624398004,
         "current_liab_b": 103.09424,
         "doi_days": 193.2496808336649,
         "assets": 773.9461,
         "equity": 424.63836,
-        "debt": null,
+        "debt": 45.12936624398004,
         "cliab": 103.09424,
         "doi": 193.2496808336649
       },
@@ -455,12 +455,12 @@
         "period": "2025Q1",
         "total_assets_b": 790.66589,
         "equity_b": 439.10921,
-        "debt_ratio_pct": null,
+        "debt_ratio_pct": 44.45984257648954,
         "current_liab_b": 104.32182,
         "doi_days": 235.34248763715837,
         "assets": 790.66589,
         "equity": 439.10921,
-        "debt": null,
+        "debt": 44.45984257648954,
         "cliab": 104.32182,
         "doi": 235.34248763715837
       },
@@ -468,12 +468,12 @@
         "period": "2024Q4",
         "total_assets_b": 778.76354,
         "equity_b": 439.77313,
-        "debt_ratio_pct": null,
+        "debt_ratio_pct": 43.52621721350745,
         "current_liab_b": 103.20395,
         "doi_days": 238.19876452172312,
         "assets": 778.76354,
         "equity": 439.77313,
-        "debt": null,
+        "debt": 43.52621721350745,
         "cliab": 103.20395,
         "doi": 238.19876452172312
       },
@@ -481,12 +481,12 @@
         "period": "2024Q3",
         "total_assets_b": 788.26517,
         "equity_b": 455.95838,
-        "debt_ratio_pct": null,
+        "debt_ratio_pct": 42.153908690396655,
         "current_liab_b": 103.52546,
         "doi_days": 221.11830150161052,
         "assets": 788.26517,
         "equity": 455.95838,
-        "debt": null,
+        "debt": 42.153908690396655,
         "cliab": 103.52546,
         "doi": 221.11830150161052
       }
@@ -567,6 +567,14 @@
       }
     ],
     "chips_table": [
+      {
+        "date": "2026-06-29",
+        "foreign_lots": -20271.919,
+        "it_lots": 157.0,
+        "dealer_lots": -1545.676,
+        "sum_lots": -21660.595,
+        "pct_float": -0.1093246797268553
+      },
       {
         "date": "2026-06-26",
         "foreign_lots": 57327.341,
@@ -678,21 +686,13 @@
         "dealer_lots": -3087.065,
         "sum_lots": -3192.23,
         "pct_float": -0.016111723725246666
-      },
-      {
-        "date": "2026-06-08",
-        "foreign_lots": 1716.709,
-        "it_lots": -217.0,
-        "dealer_lots": -1516.595,
-        "sum_lots": -16.885999999999967,
-        "pct_float": -8.522649271027296e-05
       }
     ],
     "returns_table": [
       {
         "year": 2026,
-        "return_pct": 274.85583787738443,
-        "period": "01/02~06/26"
+        "return_pct": 265.6286172527104,
+        "period": "01/02~06/29"
       },
       {
         "year": 2025,
@@ -720,7 +720,7 @@
       "dataset": "structure_c_score",
       "stock_id": "2337",
       "ticker": "2337.TW",
-      "asof": "2026-06-26",
+      "asof": "2026-06-29",
       "c_score": 2.795327820104972,
       "benchmark_pe": 25.354965937392205,
       "source": [
@@ -996,14 +996,14 @@
         },
         {
           "period": "2021Q2",
-          "avg_price": 45.03333282470703,
+          "avg_price": 45.0,
           "eps": 1.04,
           "revenue_q": null,
-          "pe_ratio": 43.3012815622183,
+          "pe_ratio": 43.26923076923077,
           "rev_growth": null,
           "eps_growth": null,
           "rt_weight": 1.0,
-          "deviation": 1.7078027897627654,
+          "deviation": 1.7065387063060307,
           "theo_price": 26.369164574887893
         }
       ],
@@ -1017,27 +1017,6 @@
       "stock_name": "旺宏"
     },
     "kline_data": [
-      {
-        "date": "2025-12-23",
-        "symbol": "2337.TW",
-        "open": 39.400001525878906,
-        "high": 39.5,
-        "low": 38.34999847412109,
-        "close": 38.5,
-        "volume": 84431244.0,
-        "adjclose": 38.5,
-        "dividends": 0.0,
-        "MA5": 38.040000915527344,
-        "MA20": 36.020000267028806,
-        "MA60": 33.083333587646486,
-        "bb_mid": 36.020000267028806,
-        "bb_up": 40.41470218142387,
-        "bb_dn": 31.62529835263374,
-        "DIF": 1.1588040108027542,
-        "DEA": 1.0492802795566931,
-        "HIST": 0.2190474624921221,
-        "volume_lot": 84431.244
-      },
       {
         "date": "2025-12-24",
         "symbol": "2337.TW",
@@ -3536,6 +3515,27 @@
         "DEA": 3.351308982328887,
         "HIST": 1.5403652543436426,
         "volume_lot": 189108.464
+      },
+      {
+        "date": "2026-06-29",
+        "symbol": "2337.TW",
+        "open": 166.0,
+        "high": 167.5,
+        "low": 158.0,
+        "close": 158.5,
+        "volume": 83736463.0,
+        "adjclose": 158.5,
+        "dividends": 0.0,
+        "MA5": 165.3,
+        "MA20": 159.5,
+        "MA60": 152.55833333333334,
+        "bb_mid": 159.5,
+        "bb_up": 184.6912683285305,
+        "bb_dn": 134.3087316714695,
+        "DIF": 3.40766885737321,
+        "DEA": 3.362580957337752,
+        "HIST": 0.0901758000709165,
+        "volume_lot": 83736.463
       }
     ]
   }
