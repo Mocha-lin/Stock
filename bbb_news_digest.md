@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-29T00:09:47.821799+00:00
+> 更新時間：2026-06-29T05:23:24.102494+00:00
 
 ### ⚖️ 由於需求使設施滿載，Sigurd 擴大了人工智慧測試能力
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -79,15 +79,6 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 亞馬遜網路服務將 AI 雲端價格提高 20%。該公司一月份就已經將價格提高了 15%。
 - [原文連結](https://www.businessinsider.com/amazon-raises-ai-cloud-prices-memory-chip-costs-soar-2026-6#article)
-
----
-
-### 🚀 摩根士丹利表示，AMD EPYC Venice 到 2027 年將以 675 萬顆的數量超越 NVIDIA Vera CPU，而 Zen 6 則將超越 575 萬顆的競爭對手
-- **題材**: `半導體先進製程` | **重要性**: `65`
-- **來源**: Wccftech (2026-06-26T01:05:02Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 到 2027 年，NVIDIA 將繼續保持台積電最大客戶的地位，但 AMD EPYC Venice 可能會超過其 Vera CPU。隨著 CPU 智慧人工智慧競賽的升溫，台積電看到 2.5D 先進封裝需求不斷成長
-- [原文連結](https://wccftech.com/amd-epyc-venice-to-outpace-nvidia-vera-cpus-2027/)
 
 ---
 
@@ -185,6 +176,15 @@ Tower Semiconductor 以 $38B 短暫成為以色列最有價值公司的帖子首
 
 週三，蘇米特·薩達納 (Sumit Sadana) 在向《華爾街日報》發表講話時...
 - [原文連結](https://www.macrumors.com/2026/06/26/micron-suggests-apple-helped-cause-memory-crisis/)
+
+---
+
+### ⚖️ Arduino® UNO™ Q 板定價預告 – 直接來自 Marcello Majonchi
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: Arduino.cc (2026-06-26T14:10:35Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 來自 Arduino CPO – Marcello Majonchi 的演講 親愛的建構者、工程師和創新者，Arduino 建立在一個信念之上：每個想要利用它進行製作、學習或創新的人都應該能夠使用強大的技術。永遠忠於這項原則…
+- [原文連結](https://blog.arduino.cc/2026/06/26/a-heads-up-on-the-arduino-uno-q-board-pricing-straight-from-marcello-majonchi/)
 
 ---
 
