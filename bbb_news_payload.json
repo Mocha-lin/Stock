@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-06-30T15:22:01.939047+00:00",
+  "generated_at": "2026-06-30T18:26:27.073049+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 73,
@@ -345,6 +345,41 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "9de9df80f5df6458",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "「DRAM 寡占者的行為削弱了扭曲的市場」：一項新的訴訟正在針對 RAM 製造商涉嫌價格和供應操縱而發起",
+      "summary": "三星、SK 海力士和美光控制著全球約 90% 的 DRAM 供應。一項新的訴訟稱，寡占一直在操縱供應和價格，導致整個科技市場的價格飆升。這是您需要了解的內容。",
+      "original_title": "\"A distorted market crippled by the behavior of DRAM oligopolists\": A new lawsuit is going after RAM makers for their alleged price and supply fixing",
+      "url": "https://www.windowscentral.com/hardware/dram-lawsuit-samsung-sk-hynix-micron",
+      "source": "Windows Central",
+      "domain": "windowscentral.com",
+      "published_at": "2026-06-29T15:29:41Z",
+      "importance": 65,
+      "impact": "negative",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "f358ed6dd3186771",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -467,41 +502,6 @@
       "source": "Kotaku",
       "domain": "kotaku.com",
       "published_at": "2026-06-29T14:22:42Z",
-      "importance": 60,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "1e44d53ca603fefd",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "最大的 RAM 和儲存組件製造商因涉嫌操縱價格和煽動“超競爭價格”而被起訴",
-      "summary": "三星、SK 海力士和美光",
-      "original_title": "The largest RAM and storage component manufacturers are being sued for alleged price fixing and stoking \"supracompetitive prices\"",
-      "url": "https://www.eurogamer.net/sk-hynix-micron-samsung-ram-price-fixing-lawsuit",
-      "source": "Eurogamer.net",
-      "domain": "eurogamer.net",
-      "published_at": "2026-06-29T13:54:03Z",
       "importance": 60,
       "impact": "negative",
       "timeframe": "short_term",
@@ -751,44 +751,6 @@
       "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "d07b0607169a9dbb",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "憑藉在人工智慧基礎設施領域的主導地位，英偉達股票將繼續創造價值",
-      "summary": "儘管 Blackwell 在中國被禁止，但其 GPU 價格仍在該國上漲，使 Nvidia 的股票成為人們關注的焦點。",
-      "original_title": "With a Dominant Position in AI Infrastructure, Nvidia Stock Will Continue to Create Value",
-      "url": "https://www.barchart.com/story/news/3016087/with-a-dominant-position-in-ai-infrastructure-nvidia-stock-will-continue-to-create-value",
-      "source": "Barchart.com",
-      "domain": "barchart.com",
-      "published_at": "2026-06-27T16:26:03Z",
-      "importance": 60,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "9e0763feda9b861f",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -862,117 +824,6 @@
       "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "3a72bf8392c9e1a9",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "IBM 歡呼超微型晶片的新「公寓」設計突破",
-      "summary": "IBM 表示，它已經創造了世界上第一個已知的 1 奈米以下晶片技術",
-      "original_title": "IBM hails new 'block of flats' design breakthrough for ultra tiny chips",
-      "url": "https://www.bbc.co.uk/news/articles/cvg7vpyn5pxo",
-      "source": "BBC News",
-      "domain": "bbc.co.uk",
-      "published_at": "2026-06-25T10:04:43Z",
-      "importance": 60,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "abe6bac0ba38f381",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "韓國晶片工人的獎金如此之高，以致央行將其視為通膨風險",
-      "summary": "半導體超級週期使韓國晶片工人的薪資異常高，該國央行現在擔心這些錢衝擊到更廣泛的經濟時會發生什麼。韓國央行本月警告稱，績效獎金…",
-      "original_title": "South Korea’s chip worker bonuses are so large the central bank is treating them as an inflation risk",
-      "url": "https://thenextweb.com/news/south-korea-chip-bonuses-inflation-risk/",
-      "source": "The Next Web",
-      "domain": "thenextweb.com",
-      "published_at": "2026-06-23T16:50:03Z",
-      "importance": 60,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "d4cecb9f518e1ef0",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "為什麼台積電的 CoWoS 角色使台積電 (TSM) 成為 HBM 驅動的 AI 晶片熱潮的核心",
-      "summary": "台灣積體電路製造有限公司（NYSE：TSM）是成長最快的高頻寬記憶體股票之一。公司最新相關...",
-      "original_title": "Why TSMC’s CoWoS Role Keeps Taiwan Semiconductor (TSM) Central to the HBM-Driven AI Chip Boom",
-      "url": "https://finance.yahoo.com/technology/ai/articles/why-tsmc-cowos-role-keeps-161005521.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-06-23T16:10:05Z",
-      "importance": 60,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "2c2b61626a7d326b",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1006,6 +857,44 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "4322de9b1ef45088",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "蘋果可能在 2026 年發布 M6 MacBook Pro",
+      "summary": "蘋果最快可能在 2026 年發布配備 M6 晶片的 14 吋 MacBook Pro，MacBook Air、iMac 和 Mac Mini 都將採用該晶片，同時該公司正在試用 M6 MacBook Pro。 Apple 計劃稍後推出 M6 系列…",
+      "original_title": "Apple Could Release M6 MacBook Pro In 2026",
+      "url": "https://www.ilounge.com/news/mac/macbook-pro/apple-could-release-m6-macbook-pro-in-2026",
+      "source": "iLounge",
+      "domain": "ilounge.com",
+      "published_at": "2026-06-29T16:46:50Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "8ebefa9f46629ab3",
@@ -1171,6 +1060,44 @@
       "source": "CNET",
       "domain": "cnet.com",
       "published_at": "2026-06-28T11:01:00Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "d07b0607169a9dbb",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "憑藉在人工智慧基礎設施領域的主導地位，英偉達股票將繼續創造價值",
+      "summary": "儘管 Blackwell 在中國被禁止，但其 GPU 價格仍在該國上漲，使 Nvidia 的股票成為人們關注的焦點。",
+      "original_title": "With a Dominant Position in AI Infrastructure, Nvidia Stock Will Continue to Create Value",
+      "url": "https://www.barchart.com/story/news/3016087/with-a-dominant-position-in-ai-infrastructure-nvidia-stock-will-continue-to-create-value",
+      "source": "Barchart.com",
+      "domain": "barchart.com",
+      "published_at": "2026-06-27T16:26:03Z",
       "importance": 55,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -1805,6 +1732,79 @@
       "source": "Android Central",
       "domain": "androidcentral.com",
       "published_at": "2026-06-23T19:53:56Z",
+      "importance": 55,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "abe6bac0ba38f381",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "韓國晶片工人的獎金如此之高，以致央行將其視為通膨風險",
+      "summary": "半導體超級週期使韓國晶片工人的薪資異常高，該國央行現在擔心這些錢衝擊到更廣泛的經濟時會發生什麼。韓國央行本月警告稱，績效獎金…",
+      "original_title": "South Korea’s chip worker bonuses are so large the central bank is treating them as an inflation risk",
+      "url": "https://thenextweb.com/news/south-korea-chip-bonuses-inflation-risk/",
+      "source": "The Next Web",
+      "domain": "thenextweb.com",
+      "published_at": "2026-06-23T16:50:03Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "d4cecb9f518e1ef0",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "為什麼台積電的 CoWoS 角色使台積電 (TSM) 成為 HBM 驅動的 AI 晶片熱潮的核心",
+      "summary": "台灣積體電路製造有限公司（NYSE：TSM）是成長最快的高頻寬記憶體股票之一。公司最新相關...",
+      "original_title": "Why TSMC’s CoWoS Role Keeps Taiwan Semiconductor (TSM) Central to the HBM-Driven AI Chip Boom",
+      "url": "https://finance.yahoo.com/technology/ai/articles/why-tsmc-cowos-role-keeps-161005521.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-06-23T16:10:05Z",
       "importance": 55,
       "impact": "positive",
       "timeframe": "short_term",
