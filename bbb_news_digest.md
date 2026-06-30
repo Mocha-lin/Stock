@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-30T11:44:33.735822+00:00
+> 更新時間：2026-06-30T15:22:01.939047+00:00
 
 ### 🚀 富士康子公司 ShunSin 已確認與台積電 COUPE 合作； CPO及OCS資本支出將達新台幣50億元
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -19,21 +19,21 @@
 
 ---
 
-### 🚀 為什麼蘋果要我為大型科技公司對人工智慧的執著支付更多費用？
-- **題材**: `AI伺服器` | **重要性**: `78`
-- **來源**: The Verge (2026-06-27T13:07:36Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 蒂姆·庫克最近表示，漲價是“不可避免的”，並稱該公司的定價“不可持續”。 16 吋 MacBook Pro 的價格上漲了 300 美元。 11 吋 iPad Air 從 599 美元漲到 749 美元。就連 HomePod Mini 也漲價了 30 美元，漲至 129 美元。 …
-- [原文連結](https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech)
-
----
-
 ### 🚀 聯訊科技傾力AI網路及高功率電源模組推動成長
 - **題材**: `光通訊與矽光子` | **重要性**: `73`
 - **來源**: Digitimes (2026-06-28T23:49:04Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 聯訊製造召開2026年年度股東大會，表示人工智慧的快速採用正在推動其高速網路、人工智慧資料中心電源、矽光子電源系統和LEO衛星地面接收器等磁性元件的需求，並且…
 - [原文連結](https://www.digitimes.com/news/a20260626PD225/high-power-growth-2026-revenue-equipment.html)
+
+---
+
+### 🚀 為什麼蘋果要我為大型科技公司對人工智慧的執著支付更多費用？
+- **題材**: `AI伺服器` | **重要性**: `73`
+- **來源**: The Verge (2026-06-27T13:07:36Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 蒂姆·庫克最近表示，漲價是“不可避免的”，並稱該公司的定價“不可持續”。 16 吋 MacBook Pro 的價格上漲了 300 美元。 11 吋 iPad Air 從 599 美元漲到 749 美元。就連 HomePod Mini 也漲價了 30 美元，漲至 129 美元。 …
+- [原文連結](https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech)
 
 ---
 
@@ -73,6 +73,15 @@
 
 ---
 
+### ⚖️ 韓國公佈與三星和 SK 海力士合作的 5,200 億美元投資計劃，以擴大記憶體晶片主導地位——在政府的大力支持下，該計劃包括四家新晶圓廠和 HBM 設施
+- **題材**: `HBM記憶體` | **重要性**: `67`
+- **來源**: Tom's Hardware UK (2026-06-29T14:12:23Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 李總統宣布了一項價值 800 萬億韓元（520B 美元）的公私合作計劃，用於建設四座新的三星和 SK 海力士晶圓廠，使美國晶片法案相形見絀十倍。
+- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/south-korea-unveils-usd520-billion-investment-plan-with-samsung-and-sk-hynix-to-expand-memory-chip-dominance-plan-includes-four-new-fabs-and-hbm-facilities-amid-strong-government-support)
+
+---
+
 ### 🚀 Tower Semiconductor 以 $38B 短暫成為以色列最有價值的公司
 - **題材**: `光通訊與矽光子` | **重要性**: `65`
 - **來源**: Crypto Briefing (2026-06-25T06:20:31Z)
@@ -89,6 +98,57 @@ Tower Semiconductor 以 $38B 短暫成為以色列最有價值公司的帖子首
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 富士康旗下封測公司順新召開2026年度股東大會，由董事長蔣尚義主持。蔣表示，順新將利用富士康「…」下的封裝、測試和光電整合能力。
 - [原文連結](https://www.digitimes.com/news/a20260626PD230/shunsin-cpo-testing-packaging-tsmc.html)
+
+---
+
+### ⚖️ 三星、SK 海力士和美光因內存成本創歷史新高而提起 DRAM 價格操縱訴訟 - 訴訟聲稱協調 HBM 轉移是為了減少 DDR3 和 DDR4 產量
+- **題材**: `HBM記憶體` | **重要性**: `62`
+- **來源**: Tom's Hardware UK (2026-06-29T13:18:54Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 三星、SK 海力士和美光於 6 月 25 日在美國加州北區地方法院被起訴。
+- [原文連結](https://www.tomshardware.com/tech-industry/samsung-sk-hynix-and-micron-sued-over-alleged-dram-price-fixing-amid-record-memory-costs)
+
+---
+
+### ⚠️ 集體訴訟指控三大記憶體製造商串通抬高價格
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: Kotaku (2026-06-29T14:22:42Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 三星、SK 海力士和美光科技正在加州北區法院被十七名原告起訴，指控這三家科技製造商串通一氣，人為提高 RAM 價格
+- [原文連結](https://kotaku.com/class-action-lawsuit-accuses-the-three-largest-ram-manufacturers-of-colluding-to-drive-up-prices-2000711373)
+
+---
+
+### ⚠️ 最大的 RAM 和儲存組件製造商因涉嫌操縱價格和煽動“超競爭價格”而被起訴
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: Eurogamer.net (2026-06-29T13:54:03Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 三星、SK 海力士和美光
+- [原文連結](https://www.eurogamer.net/sk-hynix-micron-samsung-ram-price-fixing-lawsuit)
+
+---
+
+### ⚠️ 三星、SK海力士、美光面臨反壟斷集體訴訟
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: Quartz India (2026-06-29T13:19:15Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 十七名原告指控晶片製造商協調轉向 HBM 生產，人為限製商品 DRAM 供應並推高價格
+- [原文連結](https://qz.com/samsung-sk-hynix-micron-antitrust-class-action-memory-price-fixing-062526)
+
+---
+
+### 🚀 洩漏的 A20 Pro 圖片暗示 iPhone 18 Pro 效能提升
+- **題材**: `半導體先進製程` | **重要性**: `60`
+- **來源**: MacRumors (2026-06-29T11:57:34Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 一張所謂的 iPhone 18 Pro 主機板圖片已在網路上洩露，顯示 A20 Pro 晶片將採用新的封裝技術，與先前的型號相比，性能應該會顯著提升。
+
+
+
+
+
+洩漏的圖像已被帳戶共享...
+- [原文連結](https://www.macrumors.com/2026/06/29/leaked-a20-pro-image-iphone-18-pro-performance/)
 
 ---
 
@@ -125,60 +185,6 @@ Tower Semiconductor 以 $38B 短暫成為以色列最有價值公司的帖子首
 - **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 美國表示，它已經打擊了多個目標，「以直接回應伊朗對商業航運的持續侵略」。
 - [原文連結](https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o)
-
----
-
-### ⚖️ 憑藉在人工智慧基礎設施領域的主導地位，英偉達股票將繼續創造價值
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: Barchart.com (2026-06-27T16:26:03Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 儘管 Blackwell 在中國被禁止，但其 GPU 價格仍在該國上漲，使 Nvidia 的股票成為人們關注的焦點。
-- [原文連結](https://www.barchart.com/story/news/3016087/with-a-dominant-position-in-ai-infrastructure-nvidia-stock-will-continue-to-create-value)
-
----
-
-### ⚖️ RAM 危機越來越嚴重 — 我會考慮價格何時會下跌，以及當價格下跌時您是否會看到節省
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: Windows Central (2026-06-27T13:00:00Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: RAM 危機不斷惡化，過去幾週影響尤其嚴重，因為各大公司宣布進一步提高 PC、遊戲機和其他技術的價格。有什麼辦法可以止血嗎？ PC價格會恢復正常嗎？
-- [原文連結](https://www.windowscentral.com/hardware/ram-crisis-when-end-prices-drop-analysis)
-
----
-
-### 🚀 忘記蘋果吧。亞馬遜剛剛讓人工智慧變得更加昂貴。
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: Business Insider (2026-06-26T17:12:04Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 亞馬遜網路服務將 AI 雲端價格提高 20%。該公司一月份就已經將價格提高了 15%。
-- [原文連結](https://www.businessinsider.com/amazon-raises-ai-cloud-prices-memory-chip-costs-soar-2026-6#article)
-
----
-
-### 🚀 摩根士丹利表示，AMD EPYC Venice 到 2027 年將以 675 萬顆的數量超越 NVIDIA Vera CPU，而 Zen 6 則將超越 575 萬顆的競爭對手
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: Wccftech (2026-06-26T01:05:02Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 到 2027 年，NVIDIA 將繼續保持台積電最大客戶的地位，但 AMD EPYC Venice 可能會超過其 Vera CPU。隨著 CPU 智慧人工智慧競賽的升溫，台積電看到 2.5D 先進封裝需求不斷成長
-- [原文連結](https://wccftech.com/amd-epyc-venice-to-outpace-nvidia-vera-cpus-2027/)
-
----
-
-### 🚀 IBM 歡呼超微型晶片的新「公寓」設計突破
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: BBC News (2026-06-25T10:04:43Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: IBM 表示，它已經創造了世界上第一個已知的 1 奈米以下晶片技術
-- [原文連結](https://www.bbc.co.uk/news/articles/cvg7vpyn5pxo)
-
----
-
-### 🚀 SK 海力士因納斯達克上市計劃而股價飆升，韓國 Kospi 股價上漲
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: Business Insider (2026-06-25T01:50:15Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 記憶體晶片製造商 SK 海力士正計劃在納斯達克上市，估值為 294 億美元。
-- [原文連結](https://www.businessinsider.com/south-korea-kospi-stock-market-today-sk-hynix-nasdaq-listing-2026-6#article)
 
 ---
 
