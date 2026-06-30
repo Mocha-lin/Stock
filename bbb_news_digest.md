@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-30T18:26:27.073049+00:00
+> 更新時間：2026-06-30T20:48:48.574318+00:00
 
 ### 🚀 富士康子公司 ShunSin 已確認與台積電 COUPE 合作； CPO及OCS資本支出將達新台幣50億元
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -73,15 +73,6 @@
 
 ---
 
-### ⚖️ 韓國公佈與三星和 SK 海力士合作的 5,200 億美元投資計劃，以擴大記憶體晶片主導地位——在政府的大力支持下，該計劃包括四家新晶圓廠和 HBM 設施
-- **題材**: `HBM記憶體` | **重要性**: `67`
-- **來源**: Tom's Hardware UK (2026-06-29T14:12:23Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 李總統宣布了一項價值 800 萬億韓元（520B 美元）的公私合作計劃，用於建設四座新的三星和 SK 海力士晶圓廠，使美國晶片法案相形見絀十倍。
-- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/south-korea-unveils-usd520-billion-investment-plan-with-samsung-and-sk-hynix-to-expand-memory-chip-dominance-plan-includes-four-new-fabs-and-hbm-facilities-amid-strong-government-support)
-
----
-
 ### ⚠️ 「DRAM 寡占者的行為削弱了扭曲的市場」：一項新的訴訟正在針對 RAM 製造商涉嫌價格和供應操縱而發起
 - **題材**: `HBM記憶體` | **重要性**: `65`
 - **來源**: Windows Central (2026-06-29T15:29:41Z)
@@ -116,6 +107,15 @@ Tower Semiconductor 以 $38B 短暫成為以色列最有價值公司的帖子首
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 三星、SK 海力士和美光於 6 月 25 日在美國加州北區地方法院被起訴。
 - [原文連結](https://www.tomshardware.com/tech-industry/samsung-sk-hynix-and-micron-sued-over-alleged-dram-price-fixing-amid-record-memory-costs)
+
+---
+
+### ⚖️ 蘋果供應商三星、SK 海力士和美光遭遇 RAM 價格壟斷訴訟
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: AppleInsider (2026-06-29T18:47:46Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 蘋果最大的記憶體供應商在加州被起訴，消費者和小型企業指控三星電子、SK 海力士和美光協調 DRAM 減產，推高了記憶體價格。蘋果為其產品配備了統一的記憶體架構。
+- [原文連結](https://appleinsider.com/articles/26/06/29/apple-suppliers-samsung-sk-hynix-micron-hit-by-ram-price-fixing-suit)
 
 ---
 
