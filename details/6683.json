@@ -1,13 +1,13 @@
 {
   "id": "6683",
   "name": "雍智科技",
-  "lastUpdated": "2026-06-29 19:54:05",
+  "lastUpdated": "2026-06-30 18:28:41",
   "reportDate": "2026-06-03 22:24:02",
   "ai_model": "Fact-Update",
   "basicInfo": {
-    "price": "1670.00",
-    "change": "-30.00",
-    "changePercent": "-1.76%"
+    "price": "1725.00",
+    "change": "55.00",
+    "changePercent": "3.29%"
   },
   "financials": {
     "revenue_trend": [
@@ -551,6 +551,14 @@
     ],
     "chips_table": [
       {
+        "date": "2026-06-30",
+        "foreign_lots": -14.992,
+        "it_lots": 0.0,
+        "dealer_lots": -8.158,
+        "sum_lots": -23.15,
+        "pct_float": -0.008400708344824584
+      },
+      {
         "date": "2026-06-29",
         "foreign_lots": 13.63,
         "it_lots": 0.0,
@@ -661,14 +669,6 @@
         "dealer_lots": 5.1370000000000005,
         "sum_lots": -13.099,
         "pct_float": -0.004753385685047828
-      },
-      {
-        "date": "2026-06-08",
-        "foreign_lots": 163.873,
-        "it_lots": 0.0,
-        "dealer_lots": -40.475,
-        "sum_lots": 123.398,
-        "pct_float": 0.04477885997125978
       }
     ],
     "c_score_data": {
@@ -676,7 +676,7 @@
       "dataset": "structure_c_score",
       "stock_id": "6683",
       "ticker": "6683.TWO",
-      "asof": "2026-06-29",
+      "asof": "2026-06-30",
       "c_score": 1.1948799240877501,
       "benchmark_pe": 75.87441101848496,
       "source": [
@@ -952,14 +952,14 @@
         },
         {
           "period": "2021Q2",
-          "avg_price": 369.5,
+          "avg_price": 363.0,
           "eps": 3.88,
           "revenue_q": null,
-          "pe_ratio": 95.2319587628866,
+          "pe_ratio": 93.55670103092784,
           "rev_growth": null,
           "eps_growth": null,
           "rt_weight": 1.0,
-          "deviation": 1.2551261681581376,
+          "deviation": 1.2330468174327576,
           "theo_price": 294.39271475172166
         }
       ],
@@ -975,8 +975,8 @@
     "returns_table": [
       {
         "year": 2026,
-        "return_pct": 298.09296781883194,
-        "period": "01/02~06/29"
+        "return_pct": 311.2038140643623,
+        "period": "01/02~06/30"
       },
       {
         "year": 2025,
@@ -1890,27 +1890,6 @@
       }
     ],
     "kline_data": [
-      {
-        "date": "2025-12-24",
-        "symbol": "6683.TWO",
-        "open": 418.0,
-        "high": 420.0,
-        "low": 414.5,
-        "close": 415.5,
-        "volume": 173391.0,
-        "adjclose": 415.5,
-        "dividends": 0.0,
-        "MA5": 414.3,
-        "MA20": 434.925,
-        "MA60": 403.51666666666665,
-        "bb_mid": 434.925,
-        "bb_up": 476.73083093301824,
-        "bb_dn": 393.1191690669818,
-        "DIF": 2.5284279839538613,
-        "DEA": 7.06140872885599,
-        "HIST": -9.065961489804256,
-        "volume_lot": 173.391
-      },
       {
         "date": "2025-12-26",
         "symbol": "6683.TWO",
@@ -4396,7 +4375,7 @@
         "high": 1700.0,
         "low": 1565.0,
         "close": 1670.0,
-        "volume": 508048.0,
+        "volume": 468264.0,
         "adjclose": 1670.0,
         "dividends": 0.0,
         "MA5": 1792.0,
@@ -4408,7 +4387,28 @@
         "DIF": -0.0790535023998018,
         "DEA": -26.5892214528036,
         "HIST": 53.0203359008076,
-        "volume_lot": 508.048
+        "volume_lot": 468.264
+      },
+      {
+        "date": "2026-06-30",
+        "symbol": "6683.TWO",
+        "open": 1735.0,
+        "high": 1735.0,
+        "low": 1680.0,
+        "close": 1725.0,
+        "volume": 380341.0,
+        "adjclose": 1725.0,
+        "dividends": 0.0,
+        "MA5": 1784.0,
+        "MA20": 1644.5,
+        "MA60": 1802.5833333333333,
+        "bb_mid": 1644.5,
+        "bb_up": 1927.0048672147204,
+        "bb_dn": 1361.9951327852796,
+        "DIF": 1.6430024992337169,
+        "DEA": -20.942776662396135,
+        "HIST": 45.17155832325971,
+        "volume_lot": 380.341
       }
     ],
     "valuation": {
