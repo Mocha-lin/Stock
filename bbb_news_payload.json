@@ -1,10 +1,48 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-06-30T00:04:47.910318+00:00",
+  "generated_at": "2026-06-30T04:57:20.941381+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 72,
   "items": [
+    {
+      "id": "50f968290c4455da",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "富士康子公司 ShunSin 已確認與台積電 COUPE 合作； CPO及OCS資本支出將達新台幣50億元",
+      "summary": "富士康旗下的半導體封裝和測試子公司順新科技控股有限公司正在加速向共封裝光學 (CPO) 轉型。該公司最新任命前台積電高管為獨立董事...",
+      "original_title": "Foxconn unit ShunSin confirms TSMC COUPE partnership; capex to hit NT$5 billion for CPO and OCS",
+      "url": "https://www.digitimes.com/news/a20260629PD211/cpo-shunsin-packaging-tsmc-foxconn.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-06-29T04:11:06Z",
+      "importance": 83,
+      "impact": "positive",
+      "timeframe": "short_to_mid_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
     {
       "id": "08956551f3f9ca26",
       "dataset": "market_news",
@@ -272,44 +310,6 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "5726ca6eb8ee9896",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "AuthenX 瞄準 AI 資料中心與 CPO 的即插即用 FAU 互連",
-      "summary": "人工智慧驅動的超大規模資料中心擴張正在推動全球人工智慧競賽超越原始 GPU 運算能力，轉向更廣泛的高速互連和光電整合競賽。隨著 Nvidia 的下一代 AI 工廠邁向 PB 級…",
-      "original_title": "AuthenX targets AI data center interconnects with plug-and-play FAU for CPO",
-      "url": "https://www.digitimes.com/news/a20260625PD231/data-center-cpo-expansion-silicon-packaging.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-06-26T06:35:26Z",
-      "importance": 68,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "2ef4df08b80260c8",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -384,6 +384,44 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "ba49aadde6495461",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Sophon PFG-1：單片 3D AI ASIC，具有 330 GB 片上 DRAM，無 HBM",
+      "summary": "PhantaField PFG-1 Sophon — 2D-TMD 單晶片 3D AI 晶片。修訂版 4.1，2026 年 6 月。",
+      "original_title": "Sophon PFG-1: a monolithic-3D AI ASIC with 330 GB of on-die DRAM and no HBM",
+      "url": "https://www.phantafield.com/whitepaper",
+      "source": "Phantafield.com",
+      "domain": "phantafield.com",
+      "published_at": "2026-06-29T01:23:38Z",
+      "importance": 60,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "7aa05dd6cd5dcc22",
@@ -1385,44 +1423,6 @@
       "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "ac6304c7483ac7a8",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "JAŸ-Z 和 Rick Rubin 搭檔拍攝 HBO 紀錄片",
-      "summary": "Rick Rubin 和 JAŸ-Z 在 HBO 的一部新紀錄片系列中重新審視他們長期的創意合作關係。 Rick Rubin 和 JAŸ-Z 在 HBO 的一部新紀錄片系列中重新審視他們長期的創意合作關係。",
-      "original_title": "JAŸ-Z, Rick Rubin Pair For HBO Documentary",
-      "url": "https://www.spinmagazine.com/2026/06/jay-z-rick-rubin-documentary/",
-      "source": "Spinmagazine.com",
-      "domain": "spinmagazine.com",
-      "published_at": "2026-06-25T16:21:51Z",
-      "importance": 55,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "e51e1dcff27aa8aa",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1719,44 +1719,6 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "f1f7f84ad8aa60cb",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "Credo Technology (CRDO) 獲得新的分析師評級，股價攀升至新高",
-      "summary": "Credo Technology Group Holding Ltd.（納斯達克股票代碼：CRDO）是回報豐厚的 10 隻股票之一。 Credo Technology 週一漲至歷史新高，...",
-      "original_title": "Credo Technology (CRDO) Earns New Analyst Upgrade, Shares Climb to Fresh Peak",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/credo-technology-crdo-earns-analyst-013425883.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-06-23T01:34:25Z",
-      "importance": 55,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "c2068cddd0e57df6",
@@ -2698,6 +2660,44 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "f1f7f84ad8aa60cb",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "Credo Technology (CRDO) 獲得新的分析師評級，股價攀升至新高",
+      "summary": "Credo Technology Group Holding Ltd.（納斯達克股票代碼：CRDO）是回報豐厚的 10 隻股票之一。 Credo Technology 週一漲至歷史新高，...",
+      "original_title": "Credo Technology (CRDO) Earns New Analyst Upgrade, Shares Climb to Fresh Peak",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/credo-technology-crdo-earns-analyst-013425883.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-06-23T01:34:25Z",
+      "importance": 50,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     }
   ]
 }

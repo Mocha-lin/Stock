@@ -1,5 +1,14 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-30T00:04:47.910318+00:00
+> 更新時間：2026-06-30T04:57:20.941381+00:00
+
+### 🚀 富士康子公司 ShunSin 已確認與台積電 COUPE 合作； CPO及OCS資本支出將達新台幣50億元
+- **題材**: `光通訊與矽光子` | **重要性**: `83`
+- **來源**: Digitimes (2026-06-29T04:11:06Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 富士康旗下的半導體封裝和測試子公司順新科技控股有限公司正在加速向共封裝光學 (CPO) 轉型。該公司最新任命前台積電高管為獨立董事...
+- [原文連結](https://www.digitimes.com/news/a20260629PD211/cpo-shunsin-packaging-tsmc-foxconn.html)
+
+---
 
 ### ⚖️ 由於需求使設施滿載，Sigurd 擴大了人工智慧測試能力
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -64,15 +73,6 @@
 
 ---
 
-### ⚖️ AuthenX 瞄準 AI 資料中心與 CPO 的即插即用 FAU 互連
-- **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-06-26T06:35:26Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 人工智慧驅動的超大規模資料中心擴張正在推動全球人工智慧競賽超越原始 GPU 運算能力，轉向更廣泛的高速互連和光電整合競賽。隨著 Nvidia 的下一代 AI 工廠邁向 PB 級…
-- [原文連結](https://www.digitimes.com/news/a20260625PD231/data-center-cpo-expansion-silicon-packaging.html)
-
----
-
 ### ⚖️ GlobalFoundries 擴大新加坡業務，瞄準實體 AI 硬體浪潮
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
 - **來源**: Digitimes (2026-06-25T23:51:21Z)
@@ -89,6 +89,15 @@
 - **摘要**: Tower Semiconductor 短暫的估值高峰凸顯了人工智慧驅動市場的波動性以及矽光子學的戰略重要性。
 Tower Semiconductor 以 $38B 短暫成為以色列最有價值公司的帖子首先出現在 Crypto Brie 上…
 - [原文連結](https://cryptobriefing.com/tower-semiconductor-israel-most-valuable-company/)
+
+---
+
+### ⚖️ Sophon PFG-1：單片 3D AI ASIC，具有 330 GB 片上 DRAM，無 HBM
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: Phantafield.com (2026-06-29T01:23:38Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: PhantaField PFG-1 Sophon — 2D-TMD 單晶片 3D AI 晶片。修訂版 4.1，2026 年 6 月。
+- [原文連結](https://www.phantafield.com/whitepaper)
 
 ---
 
@@ -170,15 +179,6 @@ Tower Semiconductor 以 $38B 短暫成為以色列最有價值公司的帖子首
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 半導體超級週期使韓國晶片工人的薪資異常高，該國央行現在擔心這些錢衝擊到更廣泛的經濟時會發生什麼。韓國央行本月警告稱，績效獎金…
 - [原文連結](https://thenextweb.com/news/south-korea-chip-bonuses-inflation-risk/)
-
----
-
-### 🚀 為什麼台積電的 CoWoS 角色使台積電 (TSM) 成為 HBM 驅動的 AI 晶片熱潮的核心
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-06-23T16:10:05Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 台灣積體電路製造有限公司（NYSE：TSM）是成長最快的高頻寬記憶體股票之一。公司最新相關...
-- [原文連結](https://finance.yahoo.com/technology/ai/articles/why-tsmc-cowos-role-keeps-161005521.html)
 
 ---
 
