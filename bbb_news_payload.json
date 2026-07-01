@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-07-01T05:15:25.470923+00:00",
+  "generated_at": "2026-07-01T08:57:33.991331+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 73,
@@ -56,6 +56,44 @@
       "domain": "digitimes.com",
       "published_at": "2026-06-25T08:16:28Z",
       "importance": 83,
+      "impact": "neutral",
+      "timeframe": "short_to_mid_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
+      "id": "ab407e27dfb0ae78",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "專訪：Qnity 台灣投資重點在於先進封裝、CPO 和冷卻",
+      "summary": "隨著台灣鞏固其在全球人工智慧硬體供應鏈中心的地位，從美國化學品巨頭杜邦公司剝離的獨立公司 Qnity 正在增加對台灣的投資。亞太區總裁 Dennis Chen 在接受 DIGITI 採訪時表示…",
+      "original_title": "Interview: Qnity's Taiwan investment to focus on advanced packaging, CPO, and cooling",
+      "url": "https://www.digitimes.com/news/a20260630PD227/packaging-investment-taiwan-cooling-cpo.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-06-30T07:15:00Z",
+      "importance": 78,
       "impact": "neutral",
       "timeframe": "short_to_mid_term",
       "tags": [
@@ -1832,44 +1870,6 @@
       "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "1369d7cdacb02183",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "長電科技將在上海興建先進晶片封裝新工廠",
-      "summary": "長電科技在先進晶片封裝領域的擴張可以增強中國的半導體能力，增強其全球競爭優勢。\nCrypto Briefing 率先通報了長電科技在上海興建先進晶片封裝新廠的消息。",
-      "original_title": "JCET to build new plant in Shanghai for advanced chip packaging",
-      "url": "https://cryptobriefing.com/jcet-shanghai-advanced-chip-packaging-plant/",
-      "source": "Crypto Briefing",
-      "domain": "cryptobriefing.com",
-      "published_at": "2026-06-25T01:43:02Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "eaf9ead18943ca4e",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2676,7 +2676,7 @@
       "source": "The Next Web",
       "domain": "thenextweb.com",
       "published_at": "2026-06-24T08:04:42Z",
-      "importance": 50,
+      "importance": 45,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -2697,7 +2697,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「HBM記憶體」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     },
     {
       "id": "c3ded2cedcccd9ce",
@@ -2711,7 +2711,7 @@
       "source": "AdExchanger",
       "domain": "adexchanger.com",
       "published_at": "2026-06-24T06:06:01Z",
-      "importance": 50,
+      "importance": 45,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -2735,7 +2735,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     }
   ]
 }
