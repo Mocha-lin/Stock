@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-01T15:33:23.517494+00:00
+> 更新時間：2026-07-01T18:53:05.258332+00:00
 
 ### 🚀 富士康子公司 ShunSin 已確認與台積電 COUPE 合作； CPO及OCS資本支出將達新台幣50億元
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -100,6 +100,15 @@
 
 ---
 
+### 🚀 高通瞄準 Nvidia、AMD、華為，推出搭載 43TB LPDDR5x 的 Dragonfly AI 加速器機架，未來幾代將突破 7PB/s 頻寬
+- **題材**: `AI伺服器` | **重要性**: `65`
+- **來源**: TechRadar (2026-06-30T18:25:00Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 高通即將推出的機架級推理平台 Dragonfly 擁有令人印象深刻的數字，因為它選擇跳過 HBM，因為其更具成本效益和能源效率的專有 HBC 產品。
+- [原文連結](https://www.techradar.com/pro/qualcomm-targets-nvidia-amd-huawei-with-dragonfly-ai-accelerator-rack-loaded-with-43tb-of-lpddr5x-future-generations-set-to-smash-7pb-s-bandwidth)
+
+---
+
 ### ⚠️ 「DRAM 寡占者的行為削弱了扭曲的市場」：一項新的訴訟正在針對 RAM 製造商涉嫌價格和供應操縱而發起
 - **題材**: `HBM記憶體` | **重要性**: `65`
 - **來源**: Windows Central (2026-06-29T15:29:41Z)
@@ -170,15 +179,6 @@ Tower Semiconductor 以 $38B 短暫成為以色列最有價值公司的帖子首
 - **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 三星、SK 海力士和美光
 - [原文連結](https://www.eurogamer.net/sk-hynix-micron-samsung-ram-price-fixing-lawsuit)
-
----
-
-### ⚠️ 三星、SK海力士、美光面臨反壟斷集體訴訟
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: Quartz India (2026-06-29T13:19:15Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 十七名原告指控晶片製造商協調轉向 HBM 生產，人為限製商品 DRAM 供應並推高價格
-- [原文連結](https://qz.com/samsung-sk-hynix-micron-antitrust-class-action-memory-price-fixing-062526)
 
 ---
 
