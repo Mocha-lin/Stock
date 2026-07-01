@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-06-30T20:48:48.574318+00:00
+> 更新時間：2026-07-01T00:05:50.379177+00:00
 
 ### 🚀 富士康子公司 ShunSin 已確認與台積電 COUPE 合作； CPO及OCS資本支出將達新台幣50億元
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -64,12 +64,30 @@
 
 ---
 
+### ⚖️ AuthenX 瞄準 AI 資料中心與 CPO 的即插即用 FAU 互連
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-06-26T06:35:26Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 人工智慧驅動的超大規模資料中心擴張正在推動全球人工智慧競賽超越原始 GPU 運算能力，轉向更廣泛的高速互連和光電整合競賽。隨著 Nvidia 的下一代 AI 工廠邁向 PB 級…
+- [原文連結](https://www.digitimes.com/news/a20260625PD231/data-center-cpo-expansion-silicon-packaging.html)
+
+---
+
 ### ⚖️ GlobalFoundries 擴大新加坡業務，瞄準實體 AI 硬體浪潮
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
 - **來源**: Digitimes (2026-06-25T23:51:21Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 格羅方德 (GF) 將其新加坡業務定位為物理人工智慧新興時代的核心樞紐，這家晶片製造商擴大了對製造能力和針對機器人、自主系統等的下一代半導體技術的投資。
 - [原文連結](https://www.digitimes.com/news/a20260625VL205/globalfoundries-data-technology-investment-manufacturing.html)
+
+---
+
+### ⚖️ 韓國公佈與三星和 SK 海力士合作的 5,200 億美元投資計劃，以擴大記憶體晶片主導地位——在政府的大力支持下，該計劃包括四家新晶圓廠和 HBM 設施
+- **題材**: `HBM記憶體` | **重要性**: `67`
+- **來源**: Tom's Hardware UK (2026-06-29T14:12:23Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 李總統宣布了一項價值 800 萬億韓元（520B 美元）的公私合作計劃，用於建設四座新的三星和 SK 海力士晶圓廠，使美國晶片法案相形見絀十倍。
+- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/south-korea-unveils-usd520-billion-investment-plan-with-samsung-and-sk-hynix-to-expand-memory-chip-dominance-plan-includes-four-new-fabs-and-hbm-facilities-amid-strong-government-support)
 
 ---
 
@@ -128,6 +146,15 @@ Tower Semiconductor 以 $38B 短暫成為以色列最有價值公司的帖子首
 
 ---
 
+### ⚠️ 最大的 RAM 和儲存組件製造商因涉嫌操縱價格和煽動“超競爭價格”而被起訴
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: Eurogamer.net (2026-06-29T13:54:03Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 三星、SK 海力士和美光
+- [原文連結](https://www.eurogamer.net/sk-hynix-micron-samsung-ram-price-fixing-lawsuit)
+
+---
+
 ### ⚠️ 三星、SK海力士、美光面臨反壟斷集體訴訟
 - **題材**: `HBM記憶體` | **重要性**: `60`
 - **來源**: Quartz India (2026-06-29T13:19:15Z)
@@ -158,33 +185,6 @@ Tower Semiconductor 以 $38B 短暫成為以色列最有價值公司的帖子首
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Nvidia 擴大了 Space-1 系統的空間運算團隊，專注於低地球軌道資料中心的人工智慧軟體開發。
 - [原文連結](https://www.businessinsider.com/nvidia-expands-space-1-project-with-new-ai-job-roles-2026-6#article)
-
----
-
-### ⚖️ Sophon PFG-1：單片 3D AI ASIC，具有 330 GB 片上 DRAM，無 HBM
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: Phantafield.com (2026-06-29T01:23:38Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: PhantaField PFG-1 Sophon — 2D-TMD 單晶片 3D AI 晶片。修訂版 4.1，2026 年 6 月。
-- [原文連結](https://www.phantafield.com/whitepaper)
-
----
-
-### ⚠️ 貿易緊張局勢動搖了巴西的凱匹林納精神
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: NPR (2026-06-28T15:45:42Z)
-- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 美國的關稅壓力正在推動歐洲和巴西更近——為從飛機零件到巴西卡查薩（凱匹林納雞尾酒的基料）等各種產品打開了新的全球大門。
-- [原文連結](https://www.npr.org/2026/06/28/nx-s1-5872458/brazil-trade-us-tariffs-europe)
-
----
-
-### 🚀 美國在第二次航運襲擊後對伊朗進行報復性打擊
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: BBC News (2026-06-27T23:06:40Z)
-- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 美國表示，它已經打擊了多個目標，「以直接回應伊朗對商業航運的持續侵略」。
-- [原文連結](https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o)
 
 ---
 
