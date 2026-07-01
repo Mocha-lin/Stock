@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-01T12:08:08.540865+00:00
+> 更新時間：2026-07-01T15:33:23.517494+00:00
 
 ### 🚀 富士康子公司 ShunSin 已確認與台積電 COUPE 合作； CPO及OCS資本支出將達新台幣50億元
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -82,15 +82,6 @@
 
 ---
 
-### 🚀 瑞穗表示，英特爾（INTC）先進封裝可以支援人工智慧資料中心的成長
-- **題材**: `半導體先進製程` | **重要性**: `70`
-- **來源**: Yahoo Entertainment (2026-06-24T13:47:19Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 英特爾（納斯達克股票代碼：INTC）是分析師關注的 15 隻人工智慧股票之一：微軟、英偉達等。英特爾公司可能會受益於…
-- [原文連結](https://finance.yahoo.com/technology/ai/articles/intel-intc-advanced-packaging-could-134719489.html)
-
----
-
 ### ⚖️ GlobalFoundries 擴大新加坡業務，瞄準實體 AI 硬體浪潮
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
 - **來源**: Digitimes (2026-06-25T23:51:21Z)
@@ -125,6 +116,15 @@
 - **摘要**: Tower Semiconductor 短暫的估值高峰凸顯了人工智慧驅動市場的波動性以及矽光子學的戰略重要性。
 Tower Semiconductor 以 $38B 短暫成為以色列最有價值公司的帖子首先出現在 Crypto Brie 上…
 - [原文連結](https://cryptobriefing.com/tower-semiconductor-israel-most-valuable-company/)
+
+---
+
+### 🚀 瑞穗表示，英特爾（INTC）先進封裝可以支援人工智慧資料中心的成長
+- **題材**: `半導體先進製程` | **重要性**: `65`
+- **來源**: Yahoo Entertainment (2026-06-24T13:47:19Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 英特爾（納斯達克股票代碼：INTC）是分析師關注的 15 隻人工智慧股票之一：微軟、英偉達等。英特爾公司可能會受益於…
+- [原文連結](https://finance.yahoo.com/technology/ai/articles/intel-intc-advanced-packaging-could-134719489.html)
 
 ---
 
