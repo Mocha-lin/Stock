@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-01T18:53:05.258332+00:00
+> 更新時間：2026-07-01T20:43:44.360894+00:00
 
 ### 🚀 富士康子公司 ShunSin 已確認與台積電 COUPE 合作； CPO及OCS資本支出將達新台幣50億元
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -73,15 +73,6 @@
 
 ---
 
-### 🚀 Marvell Technology (MRVL) 的 AI 光學評論如何強化其資料中心連接成長故事
-- **題材**: `光通訊與矽光子` | **重要性**: `70`
-- **來源**: Yahoo Entertainment (2026-06-24T18:53:20Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Marvell Technology, Inc.（纳斯达克股票代码：MRVL）是人工智能数据中心热潮中最值得买入的光纤股票之一。 2026年5月27日，公司公佈業績報告...
-- [原文連結](https://finance.yahoo.com/technology/ai/articles/marvell-technology-mrvl-ai-optics-185320797.html)
-
----
-
 ### ⚖️ GlobalFoundries 擴大新加坡業務，瞄準實體 AI 硬體浪潮
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
 - **來源**: Digitimes (2026-06-25T23:51:21Z)
@@ -125,6 +116,15 @@
 - **摘要**: Tower Semiconductor 短暫的估值高峰凸顯了人工智慧驅動市場的波動性以及矽光子學的戰略重要性。
 Tower Semiconductor 以 $38B 短暫成為以色列最有價值公司的帖子首先出現在 Crypto Brie 上…
 - [原文連結](https://cryptobriefing.com/tower-semiconductor-israel-most-valuable-company/)
+
+---
+
+### 🚀 Marvell Technology (MRVL) 的 AI 光學評論如何強化其資料中心連接成長故事
+- **題材**: `光通訊與矽光子` | **重要性**: `65`
+- **來源**: Yahoo Entertainment (2026-06-24T18:53:20Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Marvell Technology, Inc.（纳斯达克股票代码：MRVL）是人工智能数据中心热潮中最值得买入的光纤股票之一。 2026年5月27日，公司公佈業績報告...
+- [原文連結](https://finance.yahoo.com/technology/ai/articles/marvell-technology-mrvl-ai-optics-185320797.html)
 
 ---
 
