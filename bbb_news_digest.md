@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-01T20:43:44.360894+00:00
+> 更新時間：2026-07-02T00:07:14.718203+00:00
 
 ### 🚀 富士康子公司 ShunSin 已確認與台積電 COUPE 合作； CPO及OCS資本支出將達新台幣50億元
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -46,15 +46,6 @@
 
 ---
 
-### 🚀 聯訊科技傾力AI網路及高功率電源模組推動成長
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-06-28T23:49:04Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 聯訊製造召開2026年年度股東大會，表示人工智慧的快速採用正在推動其高速網路、人工智慧資料中心電源、矽光子電源系統和LEO衛星地面接收器等磁性元件的需求，並且…
-- [原文連結](https://www.digitimes.com/news/a20260626PD225/high-power-growth-2026-revenue-equipment.html)
-
----
-
 ### 🚀 為什麼蘋果要我為大型科技公司對人工智慧的執著支付更多費用？
 - **題材**: `AI伺服器` | **重要性**: `73`
 - **來源**: The Verge (2026-06-27T13:07:36Z)
@@ -73,6 +64,24 @@
 
 ---
 
+### 🚀 聯訊科技傾力AI網路及高功率電源模組推動成長
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-06-28T23:49:04Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 聯訊製造召開2026年年度股東大會，表示人工智慧的快速採用正在推動其高速網路、人工智慧資料中心電源、矽光子電源系統和LEO衛星地面接收器等磁性元件的需求，並且…
+- [原文連結](https://www.digitimes.com/news/a20260626PD225/high-power-growth-2026-revenue-equipment.html)
+
+---
+
+### ⚖️ AuthenX 瞄準 AI 資料中心與 CPO 的即插即用 FAU 互連
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-06-26T06:35:26Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 人工智慧驅動的超大規模資料中心擴張正在推動全球人工智慧競賽超越原始 GPU 運算能力，轉向更廣泛的高速互連和光電整合競賽。隨著 Nvidia 的下一代 AI 工廠邁向 PB 級…
+- [原文連結](https://www.digitimes.com/news/a20260625PD231/data-center-cpo-expansion-silicon-packaging.html)
+
+---
+
 ### ⚖️ GlobalFoundries 擴大新加坡業務，瞄準實體 AI 硬體浪潮
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
 - **來源**: Digitimes (2026-06-25T23:51:21Z)
@@ -88,6 +97,15 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 李總統宣布了一項價值 800 萬億韓元（520B 美元）的公私合作計劃，用於建設四座新的三星和 SK 海力士晶圓廠，使美國晶片法案相形見絀十倍。
 - [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/south-korea-unveils-usd520-billion-investment-plan-with-samsung-and-sk-hynix-to-expand-memory-chip-dominance-plan-includes-four-new-fabs-and-hbm-facilities-amid-strong-government-support)
+
+---
+
+### ⚖️ 高通提出的追趕人工智慧基礎設施的解決方案：將運算埋藏在 DRAM 下
+- **題材**: `半導體先進製程` | **重要性**: `65`
+- **來源**: Theregister.com (2026-06-30T20:25:00Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 憑藉下一代人工智慧加速器，SoC 供應商的目標是飛越記憶體牆
+- [原文連結](https://www.theregister.com/systems/2026/06/30/qualcomms-proposed-solution-to-catch-up-in-ai-infra-bury-the-compute-under-the-dram/5264071)
 
 ---
 
@@ -116,24 +134,6 @@
 - **摘要**: Tower Semiconductor 短暫的估值高峰凸顯了人工智慧驅動市場的波動性以及矽光子學的戰略重要性。
 Tower Semiconductor 以 $38B 短暫成為以色列最有價值公司的帖子首先出現在 Crypto Brie 上…
 - [原文連結](https://cryptobriefing.com/tower-semiconductor-israel-most-valuable-company/)
-
----
-
-### 🚀 Marvell Technology (MRVL) 的 AI 光學評論如何強化其資料中心連接成長故事
-- **題材**: `光通訊與矽光子` | **重要性**: `65`
-- **來源**: Yahoo Entertainment (2026-06-24T18:53:20Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Marvell Technology, Inc.（纳斯达克股票代码：MRVL）是人工智能数据中心热潮中最值得买入的光纤股票之一。 2026年5月27日，公司公佈業績報告...
-- [原文連結](https://finance.yahoo.com/technology/ai/articles/marvell-technology-mrvl-ai-optics-185320797.html)
-
----
-
-### 🚀 瑞穗表示，英特爾（INTC）先進封裝可以支援人工智慧資料中心的成長
-- **題材**: `半導體先進製程` | **重要性**: `65`
-- **來源**: Yahoo Entertainment (2026-06-24T13:47:19Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 英特爾（納斯達克股票代碼：INTC）是分析師關注的 15 隻人工智慧股票之一：微軟、英偉達等。英特爾公司可能會受益於…
-- [原文連結](https://finance.yahoo.com/technology/ai/articles/intel-intc-advanced-packaging-could-134719489.html)
 
 ---
 
