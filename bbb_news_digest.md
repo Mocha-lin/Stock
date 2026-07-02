@@ -1,14 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-02T00:07:14.718203+00:00
-
-### 🚀 富士康子公司 ShunSin 已確認與台積電 COUPE 合作； CPO及OCS資本支出將達新台幣50億元
-- **題材**: `光通訊與矽光子` | **重要性**: `83`
-- **來源**: Digitimes (2026-06-29T04:11:06Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 富士康旗下的半導體封裝和測試子公司順新科技控股有限公司正在加速向共封裝光學 (CPO) 轉型。該公司最新任命前台積電高管為獨立董事...
-- [原文連結](https://www.digitimes.com/news/a20260629PD211/cpo-shunsin-packaging-tsmc-foxconn.html)
-
----
+> 更新時間：2026-07-02T04:52:57.818168+00:00
 
 ### ⚖️ 由於需求使設施滿載，Sigurd 擴大了人工智慧測試能力
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -25,6 +16,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 隨著台灣鞏固其在全球人工智慧硬體供應鏈中心的地位，從美國化學品巨頭杜邦公司剝離的獨立公司 Qnity 正在增加對台灣的投資。亞太區總裁 Dennis Chen 在接受 DIGITI 採訪時表示…
 - [原文連結](https://www.digitimes.com/news/a20260630PD227/packaging-investment-taiwan-cooling-cpo.html)
+
+---
+
+### 🚀 富士康子公司 ShunSin 已確認與台積電 COUPE 合作； CPO及OCS資本支出將達新台幣50億元
+- **題材**: `光通訊與矽光子` | **重要性**: `78`
+- **來源**: Digitimes (2026-06-29T04:11:06Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 富士康旗下的半導體封裝和測試子公司順新科技控股有限公司正在加速向共封裝光學 (CPO) 轉型。該公司最新任命前台積電高管為獨立董事...
+- [原文連結](https://www.digitimes.com/news/a20260629PD211/cpo-shunsin-packaging-tsmc-foxconn.html)
 
 ---
 
@@ -55,15 +55,6 @@
 
 ---
 
-### ⚖️ Nvidia CPO 路線圖為台積電 COUPE 定位下一波 AI 基礎設施浪潮
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-06-25T03:01:10Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Co-packaged optics (CPO) is rapidly emerging as a foundational architecture for next-generation AI infrastructure. With Nvidia's latest Scale-Up CPO switch roadmap now taking shape, bandwidth per AI rack is set to increase from approximately 130 TB/s in the B…
-- [原文連結](https://www.digitimes.com/news/a20260625PD213/nvidia-cpo-infrastructure-optics-roadmap-tsmc.html)
-
----
-
 ### 🚀 聯訊科技傾力AI網路及高功率電源模組推動成長
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
 - **來源**: Digitimes (2026-06-28T23:49:04Z)
@@ -88,6 +79,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 格羅方德 (GF) 將其新加坡業務定位為物理人工智慧新興時代的核心樞紐，這家晶片製造商擴大了對製造能力和針對機器人、自主系統等的下一代半導體技術的投資。
 - [原文連結](https://www.digitimes.com/news/a20260625VL205/globalfoundries-data-technology-investment-manufacturing.html)
+
+---
+
+### ⚖️ Nvidia CPO 路線圖為台積電 COUPE 定位下一波 AI 基礎設施浪潮
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-06-25T03:01:10Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Co-packaged optics (CPO) is rapidly emerging as a foundational architecture for next-generation AI infrastructure. With Nvidia's latest Scale-Up CPO switch roadmap now taking shape, bandwidth per AI rack is set to increase from approximately 130 TB/s in the B…
+- [原文連結](https://www.digitimes.com/news/a20260625PD213/nvidia-cpo-infrastructure-optics-roadmap-tsmc.html)
 
 ---
 
