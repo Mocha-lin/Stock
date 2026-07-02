@@ -1,14 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-02T08:08:05.680221+00:00
-
-### ⚖️ 由於需求使設施滿載，Sigurd 擴大了人工智慧測試能力
-- **題材**: `光通訊與矽光子` | **重要性**: `83`
-- **來源**: Digitimes (2026-06-25T08:16:28Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 隨著人工智慧需求和穩定的客戶訂單使其設施充分利用，Sigurd 正在擴大測試和包裝能力。對全球讀者而言，此舉突顯了矽光子學 (SiPh)、人工智慧伺服器和先進晶片的供應鏈如何收緊…
-- [原文連結](https://www.digitimes.com/news/a20260624PD217/sigurd-capacity-testing-demand-revenue.html)
-
----
+> 更新時間：2026-07-02T11:33:29.739941+00:00
 
 ### ⚖️ 專訪：Qnity 台灣投資重點在於先進封裝、CPO 和冷卻
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -25,6 +16,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 富士康旗下的半導體封裝和測試子公司順新科技控股有限公司正在加速向共封裝光學 (CPO) 轉型。該公司最新任命前台積電高管為獨立董事...
 - [原文連結](https://www.digitimes.com/news/a20260629PD211/cpo-shunsin-packaging-tsmc-foxconn.html)
+
+---
+
+### ⚖️ 由於需求使設施滿載，Sigurd 擴大了人工智慧測試能力
+- **題材**: `光通訊與矽光子` | **重要性**: `78`
+- **來源**: Digitimes (2026-06-25T08:16:28Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 隨著人工智慧需求和穩定的客戶訂單使其設施充分利用，Sigurd 正在擴大測試和包裝能力。對全球讀者而言，此舉突顯了矽光子學 (SiPh)、人工智慧伺服器和先進晶片的供應鏈如何收緊…
+- [原文連結](https://www.digitimes.com/news/a20260624PD217/sigurd-capacity-testing-demand-revenue.html)
 
 ---
 
@@ -109,6 +109,15 @@
 
 ---
 
+### ⚠️ 美光和其他記憶體製造商因價格操縱指控而被起訴。這只不過是 MU 股票的頭條風險。
+- **題材**: `HBM記憶體` | **重要性**: `65`
+- **來源**: Barchart.com (2026-06-30T20:51:10Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 美光科技、三星和 SK 海力士面臨集體訴訟，指控其合謀透過限制舊晶片的生產來操縱 DRAM 價格。
+- [原文連結](https://www.barchart.com/story/news/3063961/micron-and-other-memory-makers-are-being-sued-over-price-fixing-claims-this-is-nothing-more-than-headline-risk-for-mu-stock)
+
+---
+
 ### ⚖️ 高通提出的追趕人工智慧基礎設施的解決方案：將運算埋藏在 DRAM 下
 - **題材**: `半導體先進製程` | **重要性**: `65`
 - **來源**: Theregister.com (2026-06-30T20:25:00Z)
@@ -154,30 +163,21 @@
 
 ---
 
+### ⚖️ SuperX Partners with TFC to Build a Core Ecosystem for Global AI Optical Interconnect, with Strategic Joint Venture Fully Launched
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: PRNewswire (2026-07-01T11:00:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 新加坡，2026 年 7 月 1 日 /美通社/ -- 納斯達克上市的全端人工智慧基礎設施解決方案供應商 SuperX AI Technology Limited（納斯達克股票代碼：SUPX）宣布 SuperX Optical Communications Pte.有限公司是由Super…共同設立的新加坡合資企業
+- [原文連結](https://www.prnewswire.com/news-releases/superx-partners-with-tfc-to-build-a-core-ecosystem-for-global-ai-optical-interconnect-with-strategic-joint-venture-fully-launched-302815757.html)
+
+---
+
 ### ⚖️ 蘋果供應商三星、SK 海力士和美光遭遇 RAM 價格壟斷訴訟
 - **題材**: `HBM記憶體` | **重要性**: `60`
 - **來源**: AppleInsider (2026-06-29T18:47:46Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 蘋果最大的記憶體供應商在加州被起訴，消費者和小型企業指控三星電子、SK 海力士和美光協調 DRAM 減產，推高了記憶體價格。蘋果為其產品配備了統一的記憶體架構。
 - [原文連結](https://appleinsider.com/articles/26/06/29/apple-suppliers-samsung-sk-hynix-micron-hit-by-ram-price-fixing-suit)
-
----
-
-### ⚠️ 集體訴訟指控三大記憶體製造商串通抬高價格
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: Kotaku (2026-06-29T14:22:42Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 三星、SK 海力士和美光科技正在加州北區法院被十七名原告起訴，指控這三家科技製造商串通一氣，人為提高 RAM 價格
-- [原文連結](https://kotaku.com/class-action-lawsuit-accuses-the-three-largest-ram-manufacturers-of-colluding-to-drive-up-prices-2000711373)
-
----
-
-### ⚠️ 最大的 RAM 和儲存組件製造商因涉嫌操縱價格和煽動“超競爭價格”而被起訴
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: Eurogamer.net (2026-06-29T13:54:03Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 三星、SK 海力士和美光
-- [原文連結](https://www.eurogamer.net/sk-hynix-micron-samsung-ram-price-fixing-lawsuit)
 
 ---
 
