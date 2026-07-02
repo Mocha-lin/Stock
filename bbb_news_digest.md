@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-02T15:02:33.825186+00:00
+> 更新時間：2026-07-02T18:21:33.323666+00:00
 
 ### ⚖️ 專訪：Qnity 台灣投資重點在於先進封裝、CPO 和冷卻
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -100,39 +100,21 @@
 
 ---
 
+### 🚀 魯賓天文台開始為期十年的宇宙調查
+- **題材**: `AI伺服器` | **重要性**: `65`
+- **來源**: Gizmodo.com (2026-07-01T16:15:47Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 魯賓將使用世界上最大的數位相機創建迄今為止最全面的宇宙記錄。
+- [原文連結](https://gizmodo.com/rubin-observatory-begins-its-10-year-survey-of-the-universe-2000780112)
+
+---
+
 ### ⚠️ 美光和其他記憶體製造商因價格操縱指控而被起訴。這只不過是 MU 股票的頭條風險。
 - **題材**: `HBM記憶體` | **重要性**: `65`
 - **來源**: Barchart.com (2026-06-30T20:51:10Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 美光科技、三星和 SK 海力士面臨集體訴訟，指控其合謀透過限制舊晶片的生產來操縱 DRAM 價格。
 - [原文連結](https://www.barchart.com/story/news/3063961/micron-and-other-memory-makers-are-being-sued-over-price-fixing-claims-this-is-nothing-more-than-headline-risk-for-mu-stock)
-
----
-
-### ⚖️ 高通提出的追趕人工智慧基礎設施的解決方案：將運算埋藏在 DRAM 下
-- **題材**: `半導體先進製程` | **重要性**: `65`
-- **來源**: Theregister.com (2026-06-30T20:25:00Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 憑藉下一代人工智慧加速器，SoC 供應商的目標是飛越記憶體牆
-- [原文連結](https://www.theregister.com/systems/2026/06/30/qualcomms-proposed-solution-to-catch-up-in-ai-infra-bury-the-compute-under-the-dram/5264071)
-
----
-
-### 🚀 高通瞄準 Nvidia、AMD、華為，推出搭載 43TB LPDDR5x 的 Dragonfly AI 加速器機架，未來幾代將突破 7PB/s 頻寬
-- **題材**: `AI伺服器` | **重要性**: `65`
-- **來源**: TechRadar (2026-06-30T18:25:00Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 高通即將推出的機架級推理平台 Dragonfly 擁有令人印象深刻的數字，因為它選擇跳過 HBM，因為其更具成本效益和能源效率的專有 HBC 產品。
-- [原文連結](https://www.techradar.com/pro/qualcomm-targets-nvidia-amd-huawei-with-dragonfly-ai-accelerator-rack-loaded-with-43tb-of-lpddr5x-future-generations-set-to-smash-7pb-s-bandwidth)
-
----
-
-### ⚠️ 「DRAM 寡占者的行為削弱了扭曲的市場」：一項新的訴訟正在針對 RAM 製造商涉嫌價格和供應操縱而發起
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: Windows Central (2026-06-29T15:29:41Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 三星、SK 海力士和美光控制著全球約 90% 的 DRAM 供應。一項新的訴訟稱，寡占一直在操縱供應和價格，導致整個科技市場的價格飆升。這是您需要了解的內容。
-- [原文連結](https://www.windowscentral.com/hardware/dram-lawsuit-samsung-sk-hynix-micron)
 
 ---
 
@@ -172,12 +154,30 @@
 
 ---
 
+### ⚠️ 「DRAM 寡占者的行為削弱了扭曲的市場」：一項新的訴訟正在針對 RAM 製造商涉嫌價格和供應操縱而發起
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: Windows Central (2026-06-29T15:29:41Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 三星、SK 海力士和美光控制著全球約 90% 的 DRAM 供應。一項新的訴訟稱，寡占一直在操縱供應和價格，導致整個科技市場的價格飆升。這是您需要了解的內容。
+- [原文連結](https://www.windowscentral.com/hardware/dram-lawsuit-samsung-sk-hynix-micron)
+
+---
+
 ### 🚀 忘記蘋果吧。亞馬遜剛剛讓人工智慧變得更加昂貴。
 - **題材**: `HBM記憶體` | **重要性**: `60`
 - **來源**: Business Insider (2026-06-26T17:12:04Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 亞馬遜網路服務將 AI 雲端價格提高 20%。該公司一月份就已經將價格提高了 15%。
 - [原文連結](https://www.businessinsider.com/amazon-raises-ai-cloud-prices-memory-chip-costs-soar-2026-6#article)
+
+---
+
+### 🚀 摩根士丹利表示，AMD EPYC Venice 到 2027 年將以 675 萬顆的數量超越 NVIDIA Vera CPU，而 Zen 6 則將超越 575 萬顆的競爭對手
+- **題材**: `半導體先進製程` | **重要性**: `60`
+- **來源**: Wccftech (2026-06-26T01:05:02Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 到 2027 年，NVIDIA 將繼續保持台積電最大客戶的地位，但 AMD EPYC Venice 可能會超過其 Vera CPU。隨著 CPU 智慧人工智慧競賽的升溫，台積電看到 2.5D 先進封裝需求不斷成長
+- [原文連結](https://wccftech.com/amd-epyc-venice-to-outpace-nvidia-vera-cpus-2027/)
 
 ---
 
