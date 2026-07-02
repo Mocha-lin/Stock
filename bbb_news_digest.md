@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-02T11:33:29.739941+00:00
+> 更新時間：2026-07-02T15:02:33.825186+00:00
 
 ### ⚖️ 專訪：Qnity 台灣投資重點在於先進封裝、CPO 和冷卻
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -100,15 +100,6 @@
 
 ---
 
-### ⚖️ 韓國公佈與三星和 SK 海力士合作的 5,200 億美元投資計劃，以擴大記憶體晶片主導地位——在政府的大力支持下，該計劃包括四家新晶圓廠和 HBM 設施
-- **題材**: `HBM記憶體` | **重要性**: `67`
-- **來源**: Tom's Hardware UK (2026-06-29T14:12:23Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 李總統宣布了一項價值 800 萬億韓元（520B 美元）的公私合作計劃，用於建設四座新的三星和 SK 海力士晶圓廠，使美國晶片法案相形見絀十倍。
-- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/south-korea-unveils-usd520-billion-investment-plan-with-samsung-and-sk-hynix-to-expand-memory-chip-dominance-plan-includes-four-new-fabs-and-hbm-facilities-amid-strong-government-support)
-
----
-
 ### ⚠️ 美光和其他記憶體製造商因價格操縱指控而被起訴。這只不過是 MU 股票的頭條風險。
 - **題材**: `HBM記憶體` | **重要性**: `65`
 - **來源**: Barchart.com (2026-06-30T20:51:10Z)
@@ -154,12 +145,12 @@
 
 ---
 
-### ⚖️ 三星、SK 海力士和美光因內存成本創歷史新高而提起 DRAM 價格操縱訴訟 - 訴訟聲稱協調 HBM 轉移是為了減少 DDR3 和 DDR4 產量
+### ⚖️ 韓國公佈與三星和 SK 海力士合作的 5,200 億美元投資計劃，以擴大記憶體晶片主導地位——在政府的大力支持下，該計劃包括四家新晶圓廠和 HBM 設施
 - **題材**: `HBM記憶體` | **重要性**: `62`
-- **來源**: Tom's Hardware UK (2026-06-29T13:18:54Z)
+- **來源**: Tom's Hardware UK (2026-06-29T14:12:23Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 三星、SK 海力士和美光於 6 月 25 日在美國加州北區地方法院被起訴。
-- [原文連結](https://www.tomshardware.com/tech-industry/samsung-sk-hynix-and-micron-sued-over-alleged-dram-price-fixing-amid-record-memory-costs)
+- **摘要**: 李總統宣布了一項價值 800 萬億韓元（520B 美元）的公私合作計劃，用於建設四座新的三星和 SK 海力士晶圓廠，使美國晶片法案相形見絀十倍。
+- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/south-korea-unveils-usd520-billion-investment-plan-with-samsung-and-sk-hynix-to-expand-memory-chip-dominance-plan-includes-four-new-fabs-and-hbm-facilities-amid-strong-government-support)
 
 ---
 
@@ -178,6 +169,15 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 蘋果最大的記憶體供應商在加州被起訴，消費者和小型企業指控三星電子、SK 海力士和美光協調 DRAM 減產，推高了記憶體價格。蘋果為其產品配備了統一的記憶體架構。
 - [原文連結](https://appleinsider.com/articles/26/06/29/apple-suppliers-samsung-sk-hynix-micron-hit-by-ram-price-fixing-suit)
+
+---
+
+### 🚀 忘記蘋果吧。亞馬遜剛剛讓人工智慧變得更加昂貴。
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: Business Insider (2026-06-26T17:12:04Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 亞馬遜網路服務將 AI 雲端價格提高 20%。該公司一月份就已經將價格提高了 15%。
+- [原文連結](https://www.businessinsider.com/amazon-raises-ai-cloud-prices-memory-chip-costs-soar-2026-6#article)
 
 ---
 
