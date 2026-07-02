@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-02T18:21:33.323666+00:00
+> 更新時間：2026-07-02T20:13:01.138852+00:00
 
 ### ⚖️ 專訪：Qnity 台灣投資重點在於先進封裝、CPO 和冷卻
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -100,6 +100,15 @@
 
 ---
 
+### ⚖️ 高通高頻寬運算旨在透過將 LPDDR 堆疊在 CPU 上方來“消除 HBM 稅”，從而與高頻寬快閃記憶體和記憶體競爭
+- **題材**: `HBM記憶體` | **重要性**: `65`
+- **來源**: TechRadar (2026-07-01T20:05:00Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 高通最新的資料中心推動以高頻寬運算（HBC）為中心，旨在解決高頻寬記憶體（HBM）成本不斷增加的問題
+- [原文連結](https://www.techradar.com/pro/qualcomm-high-bandwidth-compute-aims-to-compete-with-high-bandwidth-flash-and-memory-by-stacking-lpddr-just-above-the-cpu-to-eliminate-hbm-tax)
+
+---
+
 ### 🚀 魯賓天文台開始為期十年的宇宙調查
 - **題材**: `AI伺服器` | **重要性**: `65`
 - **來源**: Gizmodo.com (2026-07-01T16:15:47Z)
@@ -142,15 +151,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 新加坡，2026 年 7 月 1 日 /美通社/ -- 納斯達克上市的全端人工智慧基礎設施解決方案供應商 SuperX AI Technology Limited（納斯達克股票代碼：SUPX）宣布 SuperX Optical Communications Pte.有限公司是由Super…共同設立的新加坡合資企業
 - [原文連結](https://www.prnewswire.com/news-releases/superx-partners-with-tfc-to-build-a-core-ecosystem-for-global-ai-optical-interconnect-with-strategic-joint-venture-fully-launched-302815757.html)
-
----
-
-### ⚖️ 蘋果供應商三星、SK 海力士和美光遭遇 RAM 價格壟斷訴訟
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: AppleInsider (2026-06-29T18:47:46Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 蘋果最大的記憶體供應商在加州被起訴，消費者和小型企業指控三星電子、SK 海力士和美光協調 DRAM 減產，推高了記憶體價格。蘋果為其產品配備了統一的記憶體架構。
-- [原文連結](https://appleinsider.com/articles/26/06/29/apple-suppliers-samsung-sk-hynix-micron-hit-by-ram-price-fixing-suit)
 
 ---
 
