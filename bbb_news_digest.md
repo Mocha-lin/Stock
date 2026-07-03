@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-03T04:36:05.276349+00:00
+> 更新時間：2026-07-03T07:55:28.047570+00:00
 
 ### 🚀 台灣汽車 LED 製造商 EOI 為墨西哥人形機器人和矽光子技術做好準備
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -16,15 +16,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Broadcom（納斯達克股票代碼：AVGO）和 Marvell Technology（納斯達克股票代碼：MRVL）都公佈了以客製化人工智慧晶片為中心的收益。 Broadcom reported Q2 FY2026 revenue of $22.18...
 - [原文連結](https://247wallst.com/investing/2026/07/01/broadcom-vs-marvell-why-broadcoms-custom-silicon-dominance-crushes-marvells-premium-priced-ai-growth/)
-
----
-
-### ⚖️ 專訪：Qnity 台灣投資重點在於先進封裝、CPO 和冷卻
-- **題材**: `光通訊與矽光子` | **重要性**: `78`
-- **來源**: Digitimes (2026-06-30T07:15:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 隨著台灣鞏固其在全球人工智慧硬體供應鏈中心的地位，從美國化學品巨頭杜邦公司剝離的獨立公司 Qnity 正在增加對台灣的投資。亞太區總裁 Dennis Chen 在接受 DIGITI 採訪時表示…
-- [原文連結](https://www.digitimes.com/news/a20260630PD227/packaging-investment-taiwan-cooling-cpo.html)
 
 ---
 
@@ -55,6 +46,15 @@
 
 ---
 
+### ⚖️ 專訪：Qnity 台灣投資重點在於先進封裝、CPO 和冷卻
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-06-30T07:15:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 隨著台灣鞏固其在全球人工智慧硬體供應鏈中心的地位，從美國化學品巨頭杜邦公司剝離的獨立公司 Qnity 正在增加對台灣的投資。亞太區總裁 Dennis Chen 在接受 DIGITI 採訪時表示…
+- [原文連結](https://www.digitimes.com/news/a20260630PD227/packaging-investment-taiwan-cooling-cpo.html)
+
+---
+
 ### 🚀 為什麼蘋果要我為大型科技公司對人工智慧的執著支付更多費用？
 - **題材**: `AI伺服器` | **重要性**: `73`
 - **來源**: The Verge (2026-06-27T13:07:36Z)
@@ -79,15 +79,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 聯訊製造召開2026年年度股東大會，表示人工智慧的快速採用正在推動其高速網路、人工智慧資料中心電源、矽光子電源系統和LEO衛星地面接收器等磁性元件的需求，並且…
 - [原文連結](https://www.digitimes.com/news/a20260626PD225/high-power-growth-2026-revenue-equipment.html)
-
----
-
-### ⚖️ AuthenX 瞄準 AI 資料中心與 CPO 的即插即用 FAU 互連
-- **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-06-26T06:35:26Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 人工智慧驅動的超大規模資料中心擴張正在推動全球人工智慧競賽超越原始 GPU 運算能力，轉向更廣泛的高速互連和光電整合競賽。隨著 Nvidia 的下一代 AI 工廠邁向 PB 級…
-- [原文連結](https://www.digitimes.com/news/a20260625PD231/data-center-cpo-expansion-silicon-packaging.html)
 
 ---
 
@@ -145,12 +136,30 @@
 
 ---
 
+### ⚖️ AuthenX 瞄準 AI 資料中心與 CPO 的即插即用 FAU 互連
+- **題材**: `光通訊與矽光子` | **重要性**: `63`
+- **來源**: Digitimes (2026-06-26T06:35:26Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 人工智慧驅動的超大規模資料中心擴張正在推動全球人工智慧競賽超越原始 GPU 運算能力，轉向更廣泛的高速互連和光電整合競賽。隨著 Nvidia 的下一代 AI 工廠邁向 PB 級…
+- [原文連結](https://www.digitimes.com/news/a20260625PD231/data-center-cpo-expansion-silicon-packaging.html)
+
+---
+
 ### ⚖️ 韓國公佈與三星和 SK 海力士合作的 5,200 億美元投資計劃，以擴大記憶體晶片主導地位——在政府的大力支持下，該計劃包括四家新晶圓廠和 HBM 設施
 - **題材**: `HBM記憶體` | **重要性**: `62`
 - **來源**: Tom's Hardware UK (2026-06-29T14:12:23Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 李總統宣布了一項價值 800 萬億韓元（520B 美元）的公私合作計劃，用於建設四座新的三星和 SK 海力士晶圓廠，使美國晶片法案相形見絀十倍。
 - [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/south-korea-unveils-usd520-billion-investment-plan-with-samsung-and-sk-hynix-to-expand-memory-chip-dominance-plan-includes-four-new-fabs-and-hbm-facilities-amid-strong-government-support)
+
+---
+
+### ⚖️ 谷歌將電子垃圾視為具有成本效益的人工智慧伺服器解決方案
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: New Atlas (2026-07-02T05:03:00Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 每年，全球有数十亿部手机被丢弃，其中许多手机的处理器完全可用。与此同时，科技行业正准备花费数十亿美元购买新的人工智能计算硬件，但环境成本高昂。谷歌與 r 合作…
+- [原文連結](https://newatlas.com/computers/google-phone-cluster-computing/)
 
 ---
 
@@ -169,15 +178,6 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 三星代工廠是全球最先進的半導體晶片製造商之一，在過去幾年面臨良率相關問題。為了專注於解決這些問題，該公司退後一步，推遲了 1.4nm 晶片的量產…
 - [原文連結](https://www.sammobile.com/news/samsung-resumes-1-4nm-chip-development-2029-mass-production/)
-
----
-
-### ⚠️ 「DRAM 寡占者的行為削弱了扭曲的市場」：一項新的訴訟正在針對 RAM 製造商涉嫌價格和供應操縱而發起
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: Windows Central (2026-06-29T15:29:41Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 三星、SK 海力士和美光控制著全球約 90% 的 DRAM 供應。一項新的訴訟稱，寡占一直在操縱供應和價格，導致整個科技市場的價格飆升。這是您需要了解的內容。
-- [原文連結](https://www.windowscentral.com/hardware/dram-lawsuit-samsung-sk-hynix-micron)
 
 ---
 
