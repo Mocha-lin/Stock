@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-03T07:55:28.047570+00:00
+> 更新時間：2026-07-03T11:32:06.761853+00:00
 
 ### 🚀 台灣汽車 LED 製造商 EOI 為墨西哥人形機器人和矽光子技術做好準備
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -28,24 +28,6 @@
 
 ---
 
-### 🚀 能力光電透過 V 型槽和 MT 生產線瞄準 CPO 成長
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-06-30T09:25:16Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 光學製造商能力光電科技6月29日表示，隨著該公司大力推動，其用於共封裝光學(CPO)的V型槽和機械轉移(MT)產品很可能成為繼筆電相機模組之後的第二大產品線。
-- [原文連結](https://www.digitimes.com/news/a20260630PD224/ability-enterprise-cpo-optics-ability-opto-electronics-technology-growth.html)
-
----
-
-### ⚖️ 台積電2nm、CoWoS和CoPoS廣泛提升台灣設備、材料及封裝供應商
-- **題材**: `半導體先進製程` | **重要性**: `73`
-- **來源**: Digitimes (2026-06-30T09:09:58Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 隨著人工智慧需求持續推動全球半導體投資，客戶保持晶圓開工強勁，台積電正在加速推進2奈米及以下節點以及CoWoS等先進封裝技術。業內人士表示，人工智慧驅動的…
-- [原文連結](https://www.digitimes.com/news/a20260630PD235/equipment-tsmc-fuel-demand-cowos.html)
-
----
-
 ### ⚖️ 專訪：Qnity 台灣投資重點在於先進封裝、CPO 和冷卻
 - **題材**: `光通訊與矽光子` | **重要性**: `73`
 - **來源**: Digitimes (2026-06-30T07:15:00Z)
@@ -70,6 +52,24 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 三星電子和 SK 海力士計劃在韓國西南部進行記憶體投資，主要被視為推動平衡地區發展和利用當地再生能源。
 - [原文連結](https://www.digitimes.com/news/a20260701PD218/samsung-sk-hynix-siph-fab-region.html)
+
+---
+
+### 🚀 能力光電透過 V 型槽和 MT 生產線瞄準 CPO 成長
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-06-30T09:25:16Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 光學製造商能力光電科技6月29日表示，隨著該公司大力推動，其用於共封裝光學(CPO)的V型槽和機械轉移(MT)產品很可能成為繼筆電相機模組之後的第二大產品線。
+- [原文連結](https://www.digitimes.com/news/a20260630PD224/ability-enterprise-cpo-optics-ability-opto-electronics-technology-growth.html)
+
+---
+
+### ⚖️ 台積電2nm、CoWoS和CoPoS廣泛提升台灣設備、材料及封裝供應商
+- **題材**: `半導體先進製程` | **重要性**: `68`
+- **來源**: Digitimes (2026-06-30T09:09:58Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 隨著人工智慧需求持續推動全球半導體投資，客戶保持晶圓開工強勁，台積電正在加速推進2奈米及以下節點以及CoWoS等先進封裝技術。業內人士表示，人工智慧驅動的…
+- [原文連結](https://www.digitimes.com/news/a20260630PD235/equipment-tsmc-fuel-demand-cowos.html)
 
 ---
 
@@ -145,15 +145,6 @@
 
 ---
 
-### ⚖️ 韓國公佈與三星和 SK 海力士合作的 5,200 億美元投資計劃，以擴大記憶體晶片主導地位——在政府的大力支持下，該計劃包括四家新晶圓廠和 HBM 設施
-- **題材**: `HBM記憶體` | **重要性**: `62`
-- **來源**: Tom's Hardware UK (2026-06-29T14:12:23Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 李總統宣布了一項價值 800 萬億韓元（520B 美元）的公私合作計劃，用於建設四座新的三星和 SK 海力士晶圓廠，使美國晶片法案相形見絀十倍。
-- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/south-korea-unveils-usd520-billion-investment-plan-with-samsung-and-sk-hynix-to-expand-memory-chip-dominance-plan-includes-four-new-fabs-and-hbm-facilities-amid-strong-government-support)
-
----
-
 ### ⚖️ 谷歌將電子垃圾視為具有成本效益的人工智慧伺服器解決方案
 - **題材**: `AI伺服器` | **重要性**: `60`
 - **來源**: New Atlas (2026-07-02T05:03:00Z)
@@ -169,6 +160,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 新加坡，2026 年 7 月 1 日 /美通社/ -- 納斯達克上市的全端人工智慧基礎設施解決方案供應商 SuperX AI Technology Limited（納斯達克股票代碼：SUPX）宣布 SuperX Optical Communications Pte.有限公司是由Super…共同設立的新加坡合資企業
 - [原文連結](https://www.prnewswire.com/news-releases/superx-partners-with-tfc-to-build-a-core-ecosystem-for-global-ai-optical-interconnect-with-strategic-joint-venture-fully-launched-302815757.html)
+
+---
+
+### ⚖️ 與美光內存副總裁兼總經理的問答
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: Substack.com (2026-06-30T19:45:39Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: DRAM+HBM的機會與需求
+- [原文連結](https://morethanmoore.substack.com/p/q-and-a-with-microns-vp-and-gm-of)
 
 ---
 
