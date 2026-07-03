@@ -1,5 +1,14 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-02T20:13:01.138852+00:00
+> 更新時間：2026-07-03T00:05:47.783229+00:00
+
+### 🚀 博通VS。 Marvell：為什麼 Broadcom 的客製化晶片主導地位會壓垮 Marvell 的高價 AI 成長
+- **題材**: `光通訊與矽光子` | **重要性**: `80`
+- **來源**: 24/7 Wall St. (2026-07-01T15:20:15Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Broadcom（納斯達克股票代碼：AVGO）和 Marvell Technology（納斯達克股票代碼：MRVL）都公佈了以客製化人工智慧晶片為中心的收益。 Broadcom reported Q2 FY2026 revenue of $22.18...
+- [原文連結](https://247wallst.com/investing/2026/07/01/broadcom-vs-marvell-why-broadcoms-custom-silicon-dominance-crushes-marvells-premium-priced-ai-growth/)
+
+---
 
 ### ⚖️ 專訪：Qnity 台灣投資重點在於先進封裝、CPO 和冷卻
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -16,15 +25,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 富士康旗下的半導體封裝和測試子公司順新科技控股有限公司正在加速向共封裝光學 (CPO) 轉型。該公司最新任命前台積電高管為獨立董事...
 - [原文連結](https://www.digitimes.com/news/a20260629PD211/cpo-shunsin-packaging-tsmc-foxconn.html)
-
----
-
-### ⚖️ 由於需求使設施滿載，Sigurd 擴大了人工智慧測試能力
-- **題材**: `光通訊與矽光子` | **重要性**: `78`
-- **來源**: Digitimes (2026-06-25T08:16:28Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 隨著人工智慧需求和穩定的客戶訂單使其設施充分利用，Sigurd 正在擴大測試和包裝能力。對全球讀者而言，此舉突顯了矽光子學 (SiPh)、人工智慧伺服器和先進晶片的供應鏈如何收緊…
-- [原文連結](https://www.digitimes.com/news/a20260624PD217/sigurd-capacity-testing-demand-revenue.html)
 
 ---
 
@@ -82,24 +82,6 @@
 
 ---
 
-### ⚖️ GlobalFoundries 擴大新加坡業務，瞄準實體 AI 硬體浪潮
-- **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-06-25T23:51:21Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 格羅方德 (GF) 將其新加坡業務定位為物理人工智慧新興時代的核心樞紐，這家晶片製造商擴大了對製造能力和針對機器人、自主系統等的下一代半導體技術的投資。
-- [原文連結](https://www.digitimes.com/news/a20260625VL205/globalfoundries-data-technology-investment-manufacturing.html)
-
----
-
-### ⚖️ Nvidia CPO 路線圖為台積電 COUPE 定位下一波 AI 基礎設施浪潮
-- **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-06-25T03:01:10Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Co-packaged optics (CPO) is rapidly emerging as a foundational architecture for next-generation AI infrastructure. With Nvidia's latest Scale-Up CPO switch roadmap now taking shape, bandwidth per AI rack is set to increase from approximately 130 TB/s in the B…
-- [原文連結](https://www.digitimes.com/news/a20260625PD213/nvidia-cpo-infrastructure-optics-roadmap-tsmc.html)
-
----
-
 ### ⚖️ 高通高頻寬運算旨在透過將 LPDDR 堆疊在 CPU 上方來“消除 HBM 稅”，從而與高頻寬快閃記憶體和記憶體競爭
 - **題材**: `HBM記憶體` | **重要性**: `65`
 - **來源**: TechRadar (2026-07-01T20:05:00Z)
@@ -124,6 +106,33 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 美光科技、三星和 SK 海力士面臨集體訴訟，指控其合謀透過限制舊晶片的生產來操縱 DRAM 價格。
 - [原文連結](https://www.barchart.com/story/news/3063961/micron-and-other-memory-makers-are-being-sued-over-price-fixing-claims-this-is-nothing-more-than-headline-risk-for-mu-stock)
+
+---
+
+### ⚖️ 高通提出的追趕人工智慧基礎設施的解決方案：將運算埋藏在 DRAM 下
+- **題材**: `半導體先進製程` | **重要性**: `65`
+- **來源**: Theregister.com (2026-06-30T20:25:00Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 憑藉下一代人工智慧加速器，SoC 供應商的目標是飛越記憶體牆
+- [原文連結](https://www.theregister.com/systems/2026/06/30/qualcomms-proposed-solution-to-catch-up-in-ai-infra-bury-the-compute-under-the-dram/5264071)
+
+---
+
+### 🚀 高通瞄準 Nvidia、AMD、華為，推出搭載 43TB LPDDR5x 的 Dragonfly AI 加速器機架，未來幾代將突破 7PB/s 頻寬
+- **題材**: `AI伺服器` | **重要性**: `65`
+- **來源**: TechRadar (2026-06-30T18:25:00Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 高通即將推出的機架級推理平台 Dragonfly 擁有令人印象深刻的數字，因為它選擇跳過 HBM，因為其更具成本效益和能源效率的專有 HBC 產品。
+- [原文連結](https://www.techradar.com/pro/qualcomm-targets-nvidia-amd-huawei-with-dragonfly-ai-accelerator-rack-loaded-with-43tb-of-lpddr5x-future-generations-set-to-smash-7pb-s-bandwidth)
+
+---
+
+### ⚖️ 三星恢復1.4nm晶片研發，目標2029年量產
+- **題材**: `半導體先進製程` | **重要性**: `65`
+- **來源**: SamMobile (2026-06-30T04:33:09Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 三星代工廠是全球最先進的半導體晶片製造商之一，在過去幾年面臨良率相關問題。為了專注於解決這些問題，該公司退後一步，推遲了 1.4nm 晶片的量產…
+- [原文連結](https://www.sammobile.com/news/samsung-resumes-1-4nm-chip-development-2029-mass-production/)
 
 ---
 
@@ -169,15 +178,6 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 亞馬遜網路服務將 AI 雲端價格提高 20%。該公司一月份就已經將價格提高了 15%。
 - [原文連結](https://www.businessinsider.com/amazon-raises-ai-cloud-prices-memory-chip-costs-soar-2026-6#article)
-
----
-
-### 🚀 摩根士丹利表示，AMD EPYC Venice 到 2027 年將以 675 萬顆的數量超越 NVIDIA Vera CPU，而 Zen 6 則將超越 575 萬顆的競爭對手
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: Wccftech (2026-06-26T01:05:02Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 到 2027 年，NVIDIA 將繼續保持台積電最大客戶的地位，但 AMD EPYC Venice 可能會超過其 Vera CPU。隨著 CPU 智慧人工智慧競賽的升溫，台積電看到 2.5D 先進封裝需求不斷成長
-- [原文連結](https://wccftech.com/amd-epyc-venice-to-outpace-nvidia-vera-cpus-2027/)
 
 ---
 
