@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-03T18:06:29.083746+00:00
+> 更新時間：2026-07-03T20:07:28.130452+00:00
 
 ### 🚀 台灣汽車 LED 製造商 EOI 為墨西哥人形機器人和矽光子技術做好準備
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -82,6 +82,15 @@
 
 ---
 
+### 🚀 新澤西州成為最新通過反監管定價法的州
+- **題材**: `總體風險` | **重要性**: `65`
+- **來源**: Gizmodo.com (2026-07-02T19:55:59Z)
+- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 該立法僅適用於雜貨店，仍需州長簽署才能成為法律。
+- [原文連結](https://gizmodo.com/new-jersey-becomes-latest-state-to-pass-law-against-surveillance-pricing-2000780265)
+
+---
+
 ### ⚖️ 高通高頻寬運算旨在透過將 LPDDR 堆疊在 CPU 上方來“消除 HBM 稅”，從而與高頻寬快閃記憶體和記憶體競爭
 - **題材**: `HBM記憶體` | **重要性**: `65`
 - **來源**: TechRadar (2026-07-01T20:05:00Z)
@@ -115,15 +124,6 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 憑藉下一代人工智慧加速器，SoC 供應商的目標是飛越記憶體牆
 - [原文連結](https://www.theregister.com/systems/2026/06/30/qualcomms-proposed-solution-to-catch-up-in-ai-infra-bury-the-compute-under-the-dram/5264071)
-
----
-
-### 🚀 高通瞄準 Nvidia、AMD、華為，推出搭載 43TB LPDDR5x 的 Dragonfly AI 加速器機架，未來幾代將突破 7PB/s 頻寬
-- **題材**: `AI伺服器` | **重要性**: `65`
-- **來源**: TechRadar (2026-06-30T18:25:00Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 高通即將推出的機架級推理平台 Dragonfly 擁有令人印象深刻的數字，因為它選擇跳過 HBM，因為其更具成本效益和能源效率的專有 HBC 產品。
-- [原文連結](https://www.techradar.com/pro/qualcomm-targets-nvidia-amd-huawei-with-dragonfly-ai-accelerator-rack-loaded-with-43tb-of-lpddr5x-future-generations-set-to-smash-7pb-s-bandwidth)
 
 ---
 
@@ -172,12 +172,12 @@
 
 ---
 
-### ⚖️ 與美光內存副總裁兼總經理的問答
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: Substack.com (2026-06-30T19:45:39Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: DRAM+HBM的機會與需求
-- [原文連結](https://morethanmoore.substack.com/p/q-and-a-with-microns-vp-and-gm-of)
+### 🚀 高通瞄準 Nvidia、AMD、華為，推出搭載 43TB LPDDR5x 的 Dragonfly AI 加速器機架，未來幾代將突破 7PB/s 頻寬
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: TechRadar (2026-06-30T18:25:00Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 高通即將推出的機架級推理平台 Dragonfly 擁有令人印象深刻的數字，因為它選擇跳過 HBM，因為其更具成本效益和能源效率的專有 HBC 產品。
+- [原文連結](https://www.techradar.com/pro/qualcomm-targets-nvidia-amd-huawei-with-dragonfly-ai-accelerator-rack-loaded-with-43tb-of-lpddr5x-future-generations-set-to-smash-7pb-s-bandwidth)
 
 ---
 
