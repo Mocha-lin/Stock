@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-04T14:21:34.835433+00:00
+> 更新時間：2026-07-04T15:52:06.282935+00:00
 
 ### 🚀 台灣汽車 LED 製造商 EOI 為墨西哥人形機器人和矽光子技術做好準備
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -7,15 +7,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Excellence OptoElectronics Inc. (EOI) 預計，在 2025 年強勁基礎上，到 2026 年將實現兩位數增長，這得益於向北美汽車製造商強勁的汽車照明模組出貨量、新墨西哥產能以及計劃擴展到人工智慧人形機器人供應領域的支持。
 - [原文連結](https://www.digitimes.com/news/a20260701PD216/eoi-mexico-silicon-photonics-automotive-led.html)
-
----
-
-### 🚀 博通VS。 Marvell：為什麼 Broadcom 的客製化晶片主導地位會壓垮 Marvell 的高價 AI 成長
-- **題材**: `光通訊與矽光子` | **重要性**: `80`
-- **來源**: 24/7 Wall St. (2026-07-01T15:20:15Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Broadcom（納斯達克股票代碼：AVGO）和 Marvell Technology（納斯達克股票代碼：MRVL）都公佈了以客製化人工智慧晶片為中心的收益。 Broadcom reported Q2 FY2026 revenue of $22.18...
-- [原文連結](https://247wallst.com/investing/2026/07/01/broadcom-vs-marvell-why-broadcoms-custom-silicon-dominance-crushes-marvells-premium-priced-ai-growth/)
 
 ---
 
@@ -43,6 +34,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 富士康旗下的半導體封裝和測試子公司順新科技控股有限公司正在加速向共封裝光學 (CPO) 轉型。該公司最新任命前台積電高管為獨立董事...
 - [原文連結](https://www.digitimes.com/news/a20260629PD211/cpo-shunsin-packaging-tsmc-foxconn.html)
+
+---
+
+### 🚀 博通VS。 Marvell：為什麼 Broadcom 的客製化晶片主導地位會壓垮 Marvell 的高價 AI 成長
+- **題材**: `光通訊與矽光子` | **重要性**: `75`
+- **來源**: 24/7 Wall St. (2026-07-01T15:20:15Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Broadcom（納斯達克股票代碼：AVGO）和 Marvell Technology（納斯達克股票代碼：MRVL）都公佈了以客製化人工智慧晶片為中心的收益。 Broadcom reported Q2 FY2026 revenue of $22.18...
+- [原文連結](https://247wallst.com/investing/2026/07/01/broadcom-vs-marvell-why-broadcoms-custom-silicon-dominance-crushes-marvells-premium-priced-ai-growth/)
 
 ---
 
