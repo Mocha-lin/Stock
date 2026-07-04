@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-03T20:07:28.130452+00:00
+> 更新時間：2026-07-04T00:05:06.257775+00:00
 
 ### 🚀 台灣汽車 LED 製造商 EOI 為墨西哥人形機器人和矽光子技術做好準備
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -25,6 +25,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 富士康旗下的半導體封裝和測試子公司順新科技控股有限公司正在加速向共封裝光學 (CPO) 轉型。該公司最新任命前台積電高管為獨立董事...
 - [原文連結](https://www.digitimes.com/news/a20260629PD211/cpo-shunsin-packaging-tsmc-foxconn.html)
+
+---
+
+### ⚖️ 雲AI擠壓2nm產能，給移動SoC帶來壓力
+- **題材**: `半導體先進製程` | **重要性**: `73`
+- **來源**: Digitimes (2026-07-01T23:51:23Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 移動系統單晶片（SoC）供應商將在 2026 年集體將旗艦平台升級至 2nm。除了需要更好的規格之外，更大的目標是避免預訂最多的 3nm 製程並確保更多供應。
+- [原文連結](https://www.digitimes.com/news/a20260701PD220/capacity-2nm-soc-mobile-flagship.html)
 
 ---
 
@@ -82,6 +91,15 @@
 
 ---
 
+### ⚖️ SK海力士將在韓國業務投資7125億美元——清州NAND擴張、龍仁半導體DRAM集群詳細信息
+- **題材**: `HBM記憶體` | **重要性**: `67`
+- **來源**: Tom's Hardware UK (2026-07-02T16:28:35Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: SK 海力士宣布重大計劃，將斥資 7,125 億美元在韓國開展業務，但唯一的具體投資是新建 NAND 晶圓廠和封裝設施的支出。
+- [原文連結](https://www.tomshardware.com/pc-components/dram/sk-hynix-to-invest-usd712-5-billion-in-south-korean-operations-cheongju-nand-expansion-yongin-semiconductor-cluster-for-dram-detailed)
+
+---
+
 ### 🚀 新澤西州成為最新通過反監管定價法的州
 - **題材**: `總體風險` | **重要性**: `65`
 - **來源**: Gizmodo.com (2026-07-02T19:55:59Z)
@@ -109,39 +127,39 @@
 
 ---
 
-### ⚠️ 美光和其他記憶體製造商因價格操縱指控而被起訴。這只不過是 MU 股票的頭條風險。
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: Barchart.com (2026-06-30T20:51:10Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 美光科技、三星和 SK 海力士面臨集體訴訟，指控其合謀透過限制舊晶片的生產來操縱 DRAM 價格。
-- [原文連結](https://www.barchart.com/story/news/3063961/micron-and-other-memory-makers-are-being-sued-over-price-fixing-claims-this-is-nothing-more-than-headline-risk-for-mu-stock)
-
----
-
-### ⚖️ 高通提出的追趕人工智慧基礎設施的解決方案：將運算埋藏在 DRAM 下
-- **題材**: `半導體先進製程` | **重要性**: `65`
-- **來源**: Theregister.com (2026-06-30T20:25:00Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 憑藉下一代人工智慧加速器，SoC 供應商的目標是飛越記憶體牆
-- [原文連結](https://www.theregister.com/systems/2026/06/30/qualcomms-proposed-solution-to-catch-up-in-ai-infra-bury-the-compute-under-the-dram/5264071)
-
----
-
 ### ⚖️ ShunSin 看到 CPO 潛力，將台積電資深人士加入為獨立人士
-- **題材**: `光通訊與矽光子` | **重要性**: `63`
+- **題材**: `半導體先進製程` | **重要性**: `63`
 - **來源**: Digitimes (2026-06-27T08:30:09Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 富士康旗下封測公司順新召開2026年度股東大會，由董事長蔣尚義主持。蔣表示，順新將利用富士康「…」下的封裝、測試和光電整合能力。
 - [原文連結](https://www.digitimes.com/news/a20260626PD230/shunsin-cpo-testing-packaging-tsmc.html)
 
 ---
 
-### ⚖️ AuthenX 瞄準 AI 資料中心與 CPO 的即插即用 FAU 互連
-- **題材**: `光通訊與矽光子` | **重要性**: `63`
-- **來源**: Digitimes (2026-06-26T06:35:26Z)
+### ⚖️ 韓國公佈與三星和 SK 海力士合作的 5,200 億美元投資計劃，以擴大記憶體晶片主導地位——在政府的大力支持下，該計劃包括四家新晶圓廠和 HBM 設施
+- **題材**: `HBM記憶體` | **重要性**: `62`
+- **來源**: Tom's Hardware UK (2026-06-29T14:12:23Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 李總統宣布了一項價值 800 萬億韓元（520B 美元）的公私合作計劃，用於建設四座新的三星和 SK 海力士晶圓廠，使美國晶片法案相形見絀十倍。
+- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/south-korea-unveils-usd520-billion-investment-plan-with-samsung-and-sk-hynix-to-expand-memory-chip-dominance-plan-includes-four-new-fabs-and-hbm-facilities-amid-strong-government-support)
+
+---
+
+### ⚖️ 電可尋址準懸浮奈米光子孔徑的單片製造
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: Nature.com (2026-07-03T00:00:00Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 人工智慧驅動的超大規模資料中心擴張正在推動全球人工智慧競賽超越原始 GPU 運算能力，轉向更廣泛的高速互連和光電整合競賽。隨著 Nvidia 的下一代 AI 工廠邁向 PB 級…
-- [原文連結](https://www.digitimes.com/news/a20260625PD231/data-center-cpo-expansion-silicon-packaging.html)
+- **摘要**: 單晶片架構允許將載流子電注入光子結構而不擾亂光學模式。
+- [原文連結](https://www.nature.com/articles/s41565-026-02219-9)
+
+---
+
+### ⚖️ 蘋果預定 7 月 30 日發布 2026 年第三季財報
+- **題材**: `半導體先進製程` | **重要性**: `60`
+- **來源**: 9to5Mac (2026-07-02T21:59:14Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 蘋果將於 7 月 30 日星期四公佈 2026 年第三季財報。以下是我們的預期。
+- [原文連結](https://9to5mac.com/2026/07/02/apple-sets-q3-2026-earnings-release-for-july-30/)
 
 ---
 
@@ -154,30 +172,14 @@
 
 ---
 
-### ⚖️ 谷歌將電子垃圾視為具有成本效益的人工智慧伺服器解決方案
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: New Atlas (2026-07-02T05:03:00Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 每年，全球有数十亿部手机被丢弃，其中许多手机的处理器完全可用。与此同时，科技行业正准备花费数十亿美元购买新的人工智能计算硬件，但环境成本高昂。谷歌與 r 合作…
-- [原文連結](https://newatlas.com/computers/google-phone-cluster-computing/)
+### ⚖️ 三星詳細介紹了即將推出的 2nm 節點，並討論了未來的 1.4nm 節點（將於 2029 年推出）
+- **題材**: `半導體先進製程` | **重要性**: `60`
+- **來源**: GSMArena.com (2026-07-02T14:41:02Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 在 SAFE 论坛（三星先进代工生态系统）上，三星透露了其未来半导体节点的计划。去年，该公司推出了 Exynos 2600，这是第一款 2nm 智能手机芯片，该芯片是在三星称之为 SF2 节点上制造的。
 
----
-
-### ⚖️ SuperX Partners with TFC to Build a Core Ecosystem for Global AI Optical Interconnect, with Strategic Joint Venture Fully Launched
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: PRNewswire (2026-07-01T11:00:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 新加坡，2026 年 7 月 1 日 /美通社/ -- 納斯達克上市的全端人工智慧基礎設施解決方案供應商 SuperX AI Technology Limited（納斯達克股票代碼：SUPX）宣布 SuperX Optical Communications Pte.有限公司是由Super…共同設立的新加坡合資企業
-- [原文連結](https://www.prnewswire.com/news-releases/superx-partners-with-tfc-to-build-a-core-ecosystem-for-global-ai-optical-interconnect-with-strategic-joint-venture-fully-launched-302815757.html)
-
----
-
-### 🚀 高通瞄準 Nvidia、AMD、華為，推出搭載 43TB LPDDR5x 的 Dragonfly AI 加速器機架，未來幾代將突破 7PB/s 頻寬
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: TechRadar (2026-06-30T18:25:00Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 高通即將推出的機架級推理平台 Dragonfly 擁有令人印象深刻的數字，因為它選擇跳過 HBM，因為其更具成本效益和能源效率的專有 HBC 產品。
-- [原文連結](https://www.techradar.com/pro/qualcomm-targets-nvidia-amd-huawei-with-dragonfly-ai-accelerator-rack-loaded-with-43tb-of-lpddr5x-future-generations-set-to-smash-7pb-s-bandwidth)
+接下來…
+- [原文連結](https://www.gsmarena.com/samsung_details_upcoming_2nm_nodes_talks_of_future_14nm_nodes_coming_in_2029-news-73544.php)
 
 ---
 

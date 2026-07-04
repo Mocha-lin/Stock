@@ -1,9 +1,9 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-07-03T20:07:28.130452+00:00",
+  "generated_at": "2026-07-04T00:05:06.257775+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
-  "total_count": 74,
+  "total_count": 73,
   "items": [
     {
       "id": "ae277fc7ea891189",
@@ -118,6 +118,44 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
+      "id": "8a8d06a7195839fd",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "雲AI擠壓2nm產能，給移動SoC帶來壓力",
+      "summary": "移動系統單晶片（SoC）供應商將在 2026 年集體將旗艦平台升級至 2nm。除了需要更好的規格之外，更大的目標是避免預訂最多的 3nm 製程並確保更多供應。",
+      "original_title": "Cloud AI squeezes 2nm capacity, pressuring mobile SoCs",
+      "url": "https://www.digitimes.com/news/a20260701PD220/capacity-2nm-soc-mobile-flagship.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-07-01T23:51:23Z",
+      "importance": 73,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "ab407e27dfb0ae78",
@@ -348,6 +386,41 @@
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "4d169a4b232bc3ea",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "SK海力士將在韓國業務投資7125億美元——清州NAND擴張、龍仁半導體DRAM集群詳細信息",
+      "summary": "SK 海力士宣布重大計劃，將斥資 7,125 億美元在韓國開展業務，但唯一的具體投資是新建 NAND 晶圓廠和封裝設施的支出。",
+      "original_title": "SK hynix to invest $712.5 billion in South Korean operations — Cheongju NAND expansion, Yongin Semiconductor Cluster for DRAM detailed",
+      "url": "https://www.tomshardware.com/pc-components/dram/sk-hynix-to-invest-usd712-5-billion-in-south-korean-operations-cheongju-nand-expansion-yongin-semiconductor-cluster-for-dram-detailed",
+      "source": "Tom's Hardware UK",
+      "domain": "tomshardware.com",
+      "published_at": "2026-07-02T16:28:35Z",
+      "importance": 67,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "c2823826c65ba082",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -459,53 +532,18 @@
       "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "dbdc030ef6480901",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "美光和其他記憶體製造商因價格操縱指控而被起訴。這只不過是 MU 股票的頭條風險。",
-      "summary": "美光科技、三星和 SK 海力士面臨集體訴訟，指控其合謀透過限制舊晶片的生產來操縱 DRAM 價格。",
-      "original_title": "Micron and Other Memory Makers Are Being Sued Over Price Fixing Claims. This Is Nothing More Than Headline Risk for MU Stock.",
-      "url": "https://www.barchart.com/story/news/3063961/micron-and-other-memory-makers-are-being-sued-over-price-fixing-claims-this-is-nothing-more-than-headline-risk-for-mu-stock",
-      "source": "Barchart.com",
-      "domain": "barchart.com",
-      "published_at": "2026-06-30T20:51:10Z",
-      "importance": 65,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "2abce2b98f69dec9",
+      "id": "3eb7bd54cc584f28",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "半導體先進製程",
-      "title": "高通提出的追趕人工智慧基礎設施的解決方案：將運算埋藏在 DRAM 下",
-      "summary": "憑藉下一代人工智慧加速器，SoC 供應商的目標是飛越記憶體牆",
-      "original_title": "Qualcomm's proposed solution to catch up in AI infra: Bury the compute under the DRAM",
-      "url": "https://www.theregister.com/systems/2026/06/30/qualcomms-proposed-solution-to-catch-up-in-ai-infra-bury-the-compute-under-the-dram/5264071",
-      "source": "Theregister.com",
-      "domain": "theregister.com",
-      "published_at": "2026-06-30T20:25:00Z",
-      "importance": 65,
+      "title": "ShunSin 看到 CPO 潛力，將台積電資深人士加入為獨立人士",
+      "summary": "富士康旗下封測公司順新召開2026年度股東大會，由董事長蔣尚義主持。蔣表示，順新將利用富士康「…」下的封裝、測試和光電整合能力。",
+      "original_title": "ShunSin sees CPO potential, adds TSMC veterans as independents",
+      "url": "https://www.digitimes.com/news/a20260626PD230/shunsin-cpo-testing-packaging-tsmc.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-06-27T08:30:09Z",
+      "importance": 63,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -532,18 +570,53 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "3eb7bd54cc584f28",
+      "id": "64f9e5e21e7f871b",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "韓國公佈與三星和 SK 海力士合作的 5,200 億美元投資計劃，以擴大記憶體晶片主導地位——在政府的大力支持下，該計劃包括四家新晶圓廠和 HBM 設施",
+      "summary": "李總統宣布了一項價值 800 萬億韓元（520B 美元）的公私合作計劃，用於建設四座新的三星和 SK 海力士晶圓廠，使美國晶片法案相形見絀十倍。",
+      "original_title": "South Korea unveils $520 billion investment plan with Samsung and SK Hynix to expand memory chip dominance — plan includes four new fabs and HBM facilities, amid strong government support",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/south-korea-unveils-usd520-billion-investment-plan-with-samsung-and-sk-hynix-to-expand-memory-chip-dominance-plan-includes-four-new-fabs-and-hbm-facilities-amid-strong-government-support",
+      "source": "Tom's Hardware UK",
+      "domain": "tomshardware.com",
+      "published_at": "2026-06-29T14:12:23Z",
+      "importance": 62,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "9073039edbb3308f",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "光通訊與矽光子",
-      "title": "ShunSin 看到 CPO 潛力，將台積電資深人士加入為獨立人士",
-      "summary": "富士康旗下封測公司順新召開2026年度股東大會，由董事長蔣尚義主持。蔣表示，順新將利用富士康「…」下的封裝、測試和光電整合能力。",
-      "original_title": "ShunSin sees CPO potential, adds TSMC veterans as independents",
-      "url": "https://www.digitimes.com/news/a20260626PD230/shunsin-cpo-testing-packaging-tsmc.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-06-27T08:30:09Z",
-      "importance": 63,
+      "title": "電可尋址準懸浮奈米光子孔徑的單片製造",
+      "summary": "單晶片架構允許將載流子電注入光子結構而不擾亂光學模式。",
+      "original_title": "Monolithic manufacturing of an electrically addressable quasi-suspended nanophotonic aperture",
+      "url": "https://www.nature.com/articles/s41565-026-02219-9",
+      "source": "Nature.com",
+      "domain": "nature.com",
+      "published_at": "2026-07-03T00:00:00Z",
+      "importance": 60,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -570,32 +643,32 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "5726ca6eb8ee9896",
+      "id": "758b85dbe561c685",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "AuthenX 瞄準 AI 資料中心與 CPO 的即插即用 FAU 互連",
-      "summary": "人工智慧驅動的超大規模資料中心擴張正在推動全球人工智慧競賽超越原始 GPU 運算能力，轉向更廣泛的高速互連和光電整合競賽。隨著 Nvidia 的下一代 AI 工廠邁向 PB 級…",
-      "original_title": "AuthenX targets AI data center interconnects with plug-and-play FAU for CPO",
-      "url": "https://www.digitimes.com/news/a20260625PD231/data-center-cpo-expansion-silicon-packaging.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-06-26T06:35:26Z",
-      "importance": 63,
+      "theme": "半導體先進製程",
+      "title": "蘋果預定 7 月 30 日發布 2026 年第三季財報",
+      "summary": "蘋果將於 7 月 30 日星期四公佈 2026 年第三季財報。以下是我們的預期。",
+      "original_title": "Apple sets Q3 2026 earnings release for July 30",
+      "url": "https://9to5mac.com/2026/07/02/apple-sets-q3-2026-earnings-release-for-july-30/",
+      "source": "9to5Mac",
+      "domain": "9to5mac.com",
+      "published_at": "2026-07-02T21:59:14Z",
+      "importance": 60,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
+        "半導體",
+        "CoWoS",
+        "先進製程"
       ],
       "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
       ],
       "related_models": [
         "003",
@@ -605,7 +678,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "3e51761e2d94d559",
@@ -644,6 +717,44 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "590553b2ff05c2a2",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "三星詳細介紹了即將推出的 2nm 節點，並討論了未來的 1.4nm 節點（將於 2029 年推出）",
+      "summary": "在 SAFE 论坛（三星先进代工生态系统）上，三星透露了其未来半导体节点的计划。去年，该公司推出了 Exynos 2600，这是第一款 2nm 智能手机芯片，该芯片是在三星称之为 SF2 节点上制造的。\n\n接下來…",
+      "original_title": "Samsung details upcoming 2nm nodes, talks of future 1.4nm nodes (coming in 2029)",
+      "url": "https://www.gsmarena.com/samsung_details_upcoming_2nm_nodes_talks_of_future_14nm_nodes_coming_in_2029-news-73544.php",
+      "source": "GSMArena.com",
+      "domain": "gsmarena.com",
+      "published_at": "2026-07-02T14:41:02Z",
+      "importance": 60,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "16da53979cc5ec6f",
@@ -722,6 +833,79 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "dbdc030ef6480901",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "美光和其他記憶體製造商因價格操縱指控而被起訴。這只不過是 MU 股票的頭條風險。",
+      "summary": "美光科技、三星和 SK 海力士面臨集體訴訟，指控其合謀透過限制舊晶片的生產來操縱 DRAM 價格。",
+      "original_title": "Micron and Other Memory Makers Are Being Sued Over Price Fixing Claims. This Is Nothing More Than Headline Risk for MU Stock.",
+      "url": "https://www.barchart.com/story/news/3063961/micron-and-other-memory-makers-are-being-sued-over-price-fixing-claims-this-is-nothing-more-than-headline-risk-for-mu-stock",
+      "source": "Barchart.com",
+      "domain": "barchart.com",
+      "published_at": "2026-06-30T20:51:10Z",
+      "importance": 60,
+      "impact": "negative",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "2abce2b98f69dec9",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "高通提出的追趕人工智慧基礎設施的解決方案：將運算埋藏在 DRAM 下",
+      "summary": "憑藉下一代人工智慧加速器，SoC 供應商的目標是飛越記憶體牆",
+      "original_title": "Qualcomm's proposed solution to catch up in AI infra: Bury the compute under the DRAM",
+      "url": "https://www.theregister.com/systems/2026/06/30/qualcomms-proposed-solution-to-catch-up-in-ai-infra-bury-the-compute-under-the-dram/5264071",
+      "source": "Theregister.com",
+      "domain": "theregister.com",
+      "published_at": "2026-06-30T20:25:00Z",
+      "importance": 60,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "c8a27b9b914fc024",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -758,6 +942,82 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "d6b369690aa78031",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "石油市場已經從擔心短缺轉向以截然不同的未來定價",
+      "summary": "隨著布蘭特原油跌至 73 美元，全球石油供應復甦緩解了短缺擔憂。由於需求擔憂，華爾街正在下調預測。",
+      "original_title": "The oil market has moved from fearing shortages to pricing in a very different future",
+      "url": "https://www.businessinsider.com/crude-oil-prices-today-supply-demand-outlook-forecast-hormuz-exports-2026-6",
+      "source": "Business Insider",
+      "domain": "businessinsider.com",
+      "published_at": "2026-06-30T05:03:37Z",
+      "importance": 60,
+      "impact": "negative",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "de392764b5e660f3",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "三星恢復1.4nm晶片研發，目標2029年量產",
+      "summary": "三星代工廠是全球最先進的半導體晶片製造商之一，在過去幾年面臨良率相關問題。為了專注於解決這些問題，該公司退後一步，推遲了 1.4nm 晶片的量產…",
+      "original_title": "Samsung resumes 1.4nm chip development, targets 2029 mass production",
+      "url": "https://www.sammobile.com/news/samsung-resumes-1-4nm-chip-development-2029-mass-production/",
+      "source": "SamMobile",
+      "domain": "sammobile.com",
+      "published_at": "2026-06-30T04:33:09Z",
+      "importance": 60,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "9de9df80f5df6458",
@@ -841,6 +1101,44 @@
       "source": "Kotaku",
       "domain": "kotaku.com",
       "published_at": "2026-07-02T19:30:15Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "93773024d36008c5",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "截至 2026 年 7 月 2 日的當前油價",
+      "summary": "當油價變化時，它會影響您的能源成本，甚至日常用品的價格。原因如下。",
+      "original_title": "Current price of oil as of July 2, 2026",
+      "url": "https://finance.yahoo.com/energy/articles/current-price-oil-july-2-134058968.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-07-02T13:40:58Z",
       "importance": 55,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -1274,6 +1572,44 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "39abf8993e390382",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "儘管伊朗局勢持續存在不確定性，美國汽油價格仍下跌",
+      "summary": "美伊和平談判緩解了市場波動，但不確定性使油價徘徊不前，使復甦工作變得更加複雜。",
+      "original_title": "US petrol prices ease despite ongoing uncertainties with Iran",
+      "url": "https://www.aljazeera.com/economy/2026/6/29/us-petrol-prices-ease-despite-ongoing-uncertainties-with-iran",
+      "source": "Al Jazeera English",
+      "domain": "aljazeera.com",
+      "published_at": "2026-06-29T16:01:07Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "c80d89fac85dc53f",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1285,6 +1621,41 @@
       "source": "Kotaku",
       "domain": "kotaku.com",
       "published_at": "2026-06-29T14:22:42Z",
+      "importance": 55,
+      "impact": "negative",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "1e44d53ca603fefd",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "最大的 RAM 和儲存組件製造商因涉嫌操縱價格和煽動“超競爭價格”而被起訴",
+      "summary": "三星、SK 海力士和美光",
+      "original_title": "The largest RAM and storage component manufacturers are being sued for alleged price fixing and stoking \"supracompetitive prices\"",
+      "url": "https://www.eurogamer.net/sk-hynix-micron-samsung-ram-price-fixing-lawsuit",
+      "source": "Eurogamer.net",
+      "domain": "eurogamer.net",
+      "published_at": "2026-06-29T13:54:03Z",
       "importance": 55,
       "impact": "negative",
       "timeframe": "short_term",
@@ -1382,6 +1753,44 @@
       "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "03eecf4a86a149ab",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "華爾街公司表示，英特爾 (INTC) 在先進晶片封裝競賽中比台積電更具成本優勢",
+      "summary": "根據對沖基金的說法，英特爾公司（納斯達克股票代碼：INTC）是最值得購買的快速成長股之一。 6月26日，高盛發起對證券市場的通報。",
+      "original_title": "Wall Street Firm Says Intel (INTC) Has a Cost Edge Over TSMC in the Advanced Chip Packaging Race",
+      "url": "https://finance.yahoo.com/technology/articles/wall-street-firm-says-intel-101834662.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-06-29T10:18:34Z",
+      "importance": 55,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "a8ee447d783eed74",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1418,6 +1827,44 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "3df332cc55086604",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "美國和伊朗的攻擊威脅霍爾木茲海峽重新開放，油價上漲",
+      "summary": "隨著帝國主義在主要航道恢復正常，布蘭特原油價格小幅上漲。",
+      "original_title": "Oil prices rise as US, Iranian strikes threaten Strait of Hormuz reopening",
+      "url": "https://www.aljazeera.com/economy/2026/6/29/oil-prices-rise-as-us-iranian-strikes-threaten-strait-of-hormuz-reopening",
+      "source": "Al Jazeera English",
+      "domain": "aljazeera.com",
+      "published_at": "2026-06-29T03:55:02Z",
+      "importance": 55,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "ba49aadde6495461",
@@ -1607,29 +2054,32 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "9e0763feda9b861f",
+      "id": "9cd6c72fa41a2bf1",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "忘記蘋果吧。亞馬遜剛剛讓人工智慧變得更加昂貴。",
-      "summary": "亞馬遜網路服務將 AI 雲端價格提高 20%。該公司一月份就已經將價格提高了 15%。",
-      "original_title": "Forget Apple. Amazon just made AI a lot more expensive.",
-      "url": "https://www.businessinsider.com/amazon-raises-ai-cloud-prices-memory-chip-costs-soar-2026-6#article",
-      "source": "Business Insider",
-      "domain": "businessinsider.com",
-      "published_at": "2026-06-26T17:12:04Z",
-      "importance": 55,
-      "impact": "positive",
+      "theme": "AI伺服器",
+      "title": "終於開始了！維拉魯賓天文台打造有史以來最偉大的電影",
+      "summary": "維拉魯賓天文台期待已久的遺產時空調查已經開始。這部長達十年的宇宙電影將捕捉南方夜空中亮度、位置或兩者都改變的任何事物。它將研究諸如暗能量之類的宏大課題…",
+      "original_title": "It's Finally Begun! The Vera Rubin Observatory Creating What Will Be the Greatest Movie Ever Made",
+      "url": "https://www.universetoday.com/articles/its-finally-begun-the-vera-rubin-observatory-creating-what-will-be-the-greatest-movie-ever-made",
+      "source": "Universe Today",
+      "domain": "universetoday.com",
+      "published_at": "2026-06-30T21:20:00Z",
+      "importance": 50,
+      "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "HBM",
-        "記憶體"
+        "AI",
+        "伺服器",
+        "資料中心"
       ],
       "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
       ],
       "related_models": [
         "003",
@@ -1639,45 +2089,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "b8c6c10bf13c67fb",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "摩根士丹利表示，AMD EPYC Venice 到 2027 年將以 675 萬顆的數量超越 NVIDIA Vera CPU，而 Zen 6 則將超越 575 萬顆的競爭對手",
-      "summary": "到 2027 年，NVIDIA 將繼續保持台積電最大客戶的地位，但 AMD EPYC Venice 可能會超過其 Vera CPU。隨著 CPU 智慧人工智慧競賽的升溫，台積電看到 2.5D 先進封裝需求不斷成長",
-      "original_title": "AMD’s EPYC Venice To Outpace NVIDIA’s Vera CPUs With 6.75M Units by 2027, Morgan Stanley Says, as Zen 6 Eclipses a 5.75M Rival",
-      "url": "https://wccftech.com/amd-epyc-venice-to-outpace-nvidia-vera-cpus-2027/",
-      "source": "Wccftech",
-      "domain": "wccftech.com",
-      "published_at": "2026-06-26T01:05:02Z",
-      "importance": 55,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "7eec8558751cd8e2",
@@ -1832,6 +2244,44 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "a73e3d95265c9b60",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "適用於 Galaxy S27 和 Galaxy Z Fold 9 的 Snapdragon 晶片將於 9 月首次亮相",
+      "summary": "高通公司公佈了 2026 年 Snapdragon 高峰會活動的日期。該公司預計將在這裡推出用於筆記型電腦、智慧型手機和平板電腦的下一代高階晶片。其即將推出的旗艦智慧型手機晶片的更高主頻版本…",
+      "original_title": "Snapdragon chip for Galaxy S27 and Galaxy Z Fold 9 to debut in September",
+      "url": "https://www.sammobile.com/news/galaxy-s27-z-fold-9-snapdragon-chip-launch-september-2026/",
+      "source": "SamMobile",
+      "domain": "sammobile.com",
+      "published_at": "2026-06-30T06:01:56Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "e41e5f8fe2692a00",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1906,6 +2356,44 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "344b111939cec51d",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "泰瑞達公司（TER）現在是一支值得買的好股票嗎？",
+      "summary": "TER 是一支值得買入的好股票嗎？我們在 Jimmy Investor 的《Jimmy’s Journal’s Substack》上看到了一篇關於 Teradyne, Inc. 的看漲論文。在這篇文章中，我們將總結...",
+      "original_title": "Is Teradyne, Inc. (TER) A Good Stock To Buy Now?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/teradyne-inc-ter-good-stock-211241250.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-06-29T21:12:41Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "4322de9b1ef45088",
@@ -2098,6 +2586,120 @@
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "09bf714bb656f64f",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "新報告稱到 2040 年汽車市場將大幅萎縮",
+      "summary": "對於汽車公司和汽車購買者來說，前景幾乎一樣黯淡。",
+      "original_title": "New Report Says Car Market Will Have to Shrink Significantly by 2040",
+      "url": "https://gizmodo.com/new-report-says-car-market-will-have-to-shrink-significantly-by-2040-2000778724",
+      "source": "Gizmodo.com",
+      "domain": "gizmodo.com",
+      "published_at": "2026-06-28T20:19:56Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "18b2684b55158631",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "蘋果的漲價不只是人工智慧問題",
+      "summary": "解說：人工智慧的蓬勃發展正在導致記憶體晶片短缺。蘋果決定讓我們為此付出代價。",
+      "original_title": "Apple's Price Hikes Aren't Just an AI Problem",
+      "url": "https://www.cnet.com/tech/computing/apple-price-hikes-not-unavoidable-blame-ai-boom/",
+      "source": "CNET",
+      "domain": "cnet.com",
+      "published_at": "2026-06-28T11:01:00Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "28174f5b0e9f1ce4",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "「我們希望成為實體營運的作業系統」：Samsara 希望如何幫助最傳統的公司採用人工智慧",
+      "summary": "我們從 Samsara 了解到，該公司計劃讓各類手動操作公司跟上人工智慧的步伐。",
+      "original_title": "'We want to be the operating system for physical operations': How Samsara wants to help even the most traditional companies adopt AI",
+      "url": "https://www.techradar.com/pro/we-want-to-be-the-operating-system-for-physical-operations-how-samsara-wants-to-help-even-the-most-traditional-companies-adopt-ai",
+      "source": "TechRadar",
+      "domain": "techradar.com",
+      "published_at": "2026-06-27T16:00:00Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "5f5cee7dba3632e8",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2134,646 +2736,6 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "c2068cddd0e57df6",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "看天文學的最新望遠鏡：任天堂遊戲機相機",
-      "summary": "天文學家真正生活在一個大膽的新時代，突破性的相機技術可能會改變我們理解宇宙的方式。",
-      "original_title": "Behold Astronomy's Newest Telescope: A Nintendo Game Boy Camera",
-      "url": "https://www.jalopnik.com/2203039/astronomys-newest-telescope-nintendo-game-boy-camera/",
-      "source": "Jalopnik",
-      "domain": "jalopnik.com",
-      "published_at": "2026-06-26T22:40:18Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "a42b379cb5b7b7d1",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "大使稱，根據卡尼-習近平協議，中國吉利將於 7 月向加拿大運送首批路特斯電動車",
-      "summary": "渥太華，6 月 26 日（路透社）",
-      "original_title": "Exclusive-China's Geely to ship first Lotus EVs to Canada in July under Carney-Xi deal, ambassador says",
-      "url": "https://finance.yahoo.com/news/exclusive-chinas-geely-ship-first-222007648.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-06-26T22:28:33Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "7890349f07f5ed9a",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "敏感文件在線洩露後蘋果與供應商塔塔合作",
-      "summary": "路透社的一份新報告詳細介紹了蘋果及其印度供應商塔塔電子如何應對本月稍早洩露敏感文件的大規模資料外洩事件。以下是詳細資訊。",
-      "original_title": "Apple works with supplier Tata after sensitive files leak online",
-      "url": "https://9to5mac.com/2026/06/26/apple-works-with-supplier-tata-after-sensitive-files-leak-online/",
-      "source": "9to5Mac",
-      "domain": "9to5mac.com",
-      "published_at": "2026-06-26T20:18:09Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "14b8edf08717b876",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "川普威脅對任何徵收數位服務稅的國家徵收100%關稅",
-      "summary": "",
-      "original_title": "Trump threatens 100% tariff on any country that imposes digital services tax",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_5263b768-5d7c-41f6-a8b8-26160a6cc3b6",
-      "source": "Yahoo Entertainment",
-      "domain": "consent.yahoo.com",
-      "published_at": "2026-06-26T18:15:40Z",
-      "importance": 50,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "c4a6f4e343a5f36a",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "川普誓言如果各國徵收數位服務稅，立即徵收100%關稅",
-      "summary": "",
-      "original_title": "Trump vows immediate 100% tariff if countries levy digital services tax",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4b75a728-3440-434c-87bf-58adf2edec29",
-      "source": "Yahoo Entertainment",
-      "domain": "consent.yahoo.com",
-      "published_at": "2026-06-26T18:04:12Z",
-      "importance": 50,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "c9a5a1fdcbc7f225",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "高通 Snapdragon 8 系列路線圖公佈，揭示全新 3nm 晶片",
-      "summary": "有傳言稱，高通今年將在Snapdragon 8 Elite系列下推出兩款2nm晶片，分別為Snapdragon 8 Elite Gen 6（SM8950）和Snapdragon 8 Elite Gen 6 Pro（SM8975）。但現在我們了解到高通還有兩款 Snapdragon 8 系列晶片…",
-      "original_title": "Qualcomm's Snapdragon 8 series roadmap surfaces revealing new 3nm chips",
-      "url": "https://www.gsmarena.com/qualcomm_snapdragon_8_elite_gen_5xx_snapdragon_8_gen_5_pro_surface-news-73464.php",
-      "source": "GSMArena.com",
-      "domain": "gsmarena.com",
-      "published_at": "2026-06-26T17:49:02Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "76e1eb1432161804",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "伊隆馬斯克同意提姆庫克的觀點：記憶體短缺是前所未有的",
-      "summary": "伊隆馬斯克表示，記憶體成本飆升是“我所見過的最大的價格上漲”，而解決方案是“大幅提高產量”。",
-      "original_title": "Elon Musk agrees with Tim Cook: The memory shortage is unprecedented",
-      "url": "https://www.businessinsider.com/elon-musk-tim-cook-memory-shortage-chips-demand-rising-prices-2026-6#article",
-      "source": "Business Insider",
-      "domain": "businessinsider.com",
-      "published_at": "2026-06-26T17:14:07Z",
-      "importance": 50,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "de9b87758948b309",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "美光暗示蘋果幫助引發了記憶體價格危機",
-      "summary": "美光首席商務官暗示，蘋果與供應商的艱難談判導致了全球記憶體短缺，但沒有點名。\n\n\n\n\n\n週三，蘇米特·薩達納 (Sumit Sadana) 在向《華爾街日報》發表講話時...",
-      "original_title": "Micron Suggests Apple Helped Cause Memory Price Crisis",
-      "url": "https://www.macrumors.com/2026/06/26/micron-suggests-apple-helped-cause-memory-crisis/",
-      "source": "MacRumors",
-      "domain": "macrumors.com",
-      "published_at": "2026-06-26T16:15:03Z",
-      "importance": 50,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "7b393814043bfc5e",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "Arduino® UNO™ Q 板定價預告 – 直接來自 Marcello Majonchi",
-      "summary": "來自 Arduino CPO – Marcello Majonchi 的演講 親愛的建構者、工程師和創新者，Arduino 建立在一個信念之上：每個想要利用它進行製作、學習或創新的人都應該能夠使用強大的技術。永遠忠於這項原則…",
-      "original_title": "A heads-up on the Arduino® UNO™ Q board pricing – straight from Marcello Majonchi",
-      "url": "https://blog.arduino.cc/2026/06/26/a-heads-up-on-the-arduino-uno-q-board-pricing-straight-from-marcello-majonchi/",
-      "source": "Arduino.cc",
-      "domain": "blog.arduino.cc",
-      "published_at": "2026-06-26T14:10:35Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "43c121aa7680cb54",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "日本迎來雙重風暴 台灣部分地區暴雨封城",
-      "summary": "作者：Chang-Ran Kim 和 Ann Wang 東京/竹北，台灣，6 月 26 日（路透社）",
-      "original_title": "Japan braces for double storms, torrential rains shut down parts of Taiwan",
-      "url": "https://www.yahoo.com/news/weather-news/articles/torrential-rain-passing-typhoon-shuts-001209973.html",
-      "source": "Yahoo Entertainment",
-      "domain": "yahoo.com",
-      "published_at": "2026-06-26T13:08:11Z",
-      "importance": 50,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "9de6aa1ba674fb72",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "人工智慧伺服器需求強勁，高盛上調戴爾科技公司 (DELL) 的目標價",
-      "summary": "戴爾科技公司（NYSE：DELL）是「Vera Rubin」晶片週期目前最值得買入的科技股之一。繼戴爾科技公司（NYSE：DELL）之後…",
-      "original_title": "Goldman Sachs Raises Price Target on Dell Technologies (DELL) Following Strong AI Server Demand",
-      "url": "https://finance.yahoo.com/technology/ai/articles/goldman-sachs-raises-price-target-105021727.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-06-26T10:50:21Z",
-      "importance": 50,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "0d1a6202a583ee3c",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "報告稱，人工智慧熱潮重塑韓國，三星準備投入 6,480 億美元",
-      "summary": "作者：Hyunjoo Jin、Joyce Lee 和 Heejin Kim 首爾，6 月 26 日（路透社）",
-      "original_title": "Samsung readies $648 billion bet, report says, as AI boom reshapes South Korea",
-      "url": "https://finance.yahoo.com/technology/ai/articles/samsung-readies-648-billion-bet-030641266.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-06-26T03:06:41Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "1c63959c17c2f018",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "21k 英里 2016 年保時捷 Cayman GT4",
-      "summary": "這輛 2016 年保時捷 Cayman 是一輛黑底黑字的 GT4，賣方於 2024 年作為保時捷批准認證二手車 (CPO) 購買，目前擁有 21,000 英里。它由 3.8 升水平對臥六缸引擎和六速手排變速驅動橋提供動力。該…",
-      "original_title": "21k-Mile 2016 Porsche Cayman GT4",
-      "url": "https://bringatrailer.com/listing/2016-porsche-cayman-gt4-247/",
-      "source": "Bringatrailer.com",
-      "domain": "bringatrailer.com",
-      "published_at": "2026-06-26T17:50:09Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "595c3ceb67127ae6",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "轉虧為盈的故事與特質：美國銀行 8 檔小型股預計將在下半年上漲",
-      "summary": "儘管投資者關注人工智慧和科技，但美國銀行表示，他們也應該關注預計將上漲的中小型股。",
-      "original_title": "Turnaround stories and idiosyncrasies: BofA shares 8 small-cap stocks poised to rally in the 2nd half",
-      "url": "https://www.businessinsider.com/stock-picks-to-buy-bofa-small-caps-iot-ulta-elf-2026-6#article",
-      "source": "Business Insider",
-      "domain": "businessinsider.com",
-      "published_at": "2026-06-26T17:16:04Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "5477af83720de514",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "王室成員對於金錢的態度有多透明？",
-      "summary": "在國王透露了他繳納的稅款後，人們仍然對王室對其財富的公開程度有疑問。",
-      "original_title": "How transparent are the royals being about money?",
-      "url": "https://www.bbc.co.uk/news/articles/c77yzgnp5lvo",
-      "source": "BBC News",
-      "domain": "bbc.co.uk",
-      "published_at": "2026-06-26T15:03:39Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "db44bc96dfbfc034",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "「Snapdragon 8 Elite Gen 6 Pro」需要更多文字來證明其強大，另外三款旗艦晶片即將到來",
-      "summary": "高通的 Snapdragon 晶片組陣容永遠令人困惑，細微的變化產生了新的名稱和選項，但並沒有那麼不同。但聽起來接下來的幾個版本將會特別令人困惑，因為一些新晶片即將推出…",
-      "original_title": "‘Snapdragon 8 Elite Gen 6 Pro’ needed more words to prove its power, three other flagship chips coming",
-      "url": "http://9to5google.com/2026/06/26/snapdragon-8-elite-gen-6-pro-needed-more-words-to-prove-its-power-three-other-flagship-chips-coming/",
-      "source": "9to5google.com",
-      "domain": "9to5google.com",
-      "published_at": "2026-06-26T13:05:00Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "e3ab653c12ec045c",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "台積電位於新竹最先進的工廠利用地球上不存在的光來列印比人類頭髮細 25,000 倍的晶體管",
-      "summary": "在台積電的新竹工廠內，等離子驅動的 13.5 奈米極紫外光印刷電路的特性比人類頭髮細 25,000 倍——使用的光不會自然到達地球表面。\n後台積電新竹最先進晶圓廠印刷…",
-      "original_title": "TSMC’s most advanced fab in Hsinchu prints transistors 25,000 times thinner than a human hair — using light that doesn’t naturally exist on Earth",
-      "url": "https://spacedaily.com/sd-v-tsmcs-most-advanced-fab-in-hsinchu-prints-transistors-25-000-times-thinner-than-a-human-hair-using-light-that-doesnt-naturally-exist-on-earth/",
-      "source": "Space Daily",
-      "domain": "spacedaily.com",
-      "published_at": "2026-06-26T12:22:43Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     }
   ]
 }
