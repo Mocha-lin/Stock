@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-04T00:05:06.257775+00:00
+> 更新時間：2026-07-04T04:28:36.885151+00:00
 
 ### 🚀 台灣汽車 LED 製造商 EOI 為墨西哥人形機器人和矽光子技術做好準備
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -16,6 +16,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Broadcom（納斯達克股票代碼：AVGO）和 Marvell Technology（納斯達克股票代碼：MRVL）都公佈了以客製化人工智慧晶片為中心的收益。 Broadcom reported Q2 FY2026 revenue of $22.18...
 - [原文連結](https://247wallst.com/investing/2026/07/01/broadcom-vs-marvell-why-broadcoms-custom-silicon-dominance-crushes-marvells-premium-priced-ai-growth/)
+
+---
+
+### ⚖️ 資料中心光學元件的競爭路徑：XPO 可能會在 2027 年擊敗 CPO 實現量產
+- **題材**: `光通訊與矽光子` | **重要性**: `78`
+- **來源**: Digitimes (2026-07-03T02:24:04Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: DIGITIMES notes that Arista Networks unveiled XPO at The Optical Fiber Communication Conference and Exhibition 2026 (OFC 2026). Unlike CPO, which is associated with more disruptive innovation, XPO takes an engineering-led approach to improving pluggable optic…
+- [原文連結](https://www.digitimes.com/reports/item.php?id=20260622RS400)
 
 ---
 
@@ -145,15 +154,6 @@
 
 ---
 
-### ⚖️ 電可尋址準懸浮奈米光子孔徑的單片製造
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: Nature.com (2026-07-03T00:00:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 單晶片架構允許將載流子電注入光子結構而不擾亂光學模式。
-- [原文連結](https://www.nature.com/articles/s41565-026-02219-9)
-
----
-
 ### ⚖️ 蘋果預定 7 月 30 日發布 2026 年第三季財報
 - **題材**: `半導體先進製程` | **重要性**: `60`
 - **來源**: 9to5Mac (2026-07-02T21:59:14Z)
@@ -163,23 +163,21 @@
 
 ---
 
+### ⚠️ 油價現在已回到戰前水平，但市場卻沒有。接下來可能會發生什麼事。
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: MarketWatch (2026-07-02T18:17:00Z)
+- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 油價終於回落至伊朗戰爭前的水平——但原油市場遠未看到航運、石油供應和需求正常化…
+- [原文連結](https://www.marketwatch.com/story/oil-prices-are-now-back-to-prewar-levels-but-the-market-is-not-heres-what-could-happen-next-c2883aa7)
+
+---
+
 ### ⚠️ 隨著光子學股票重置，應用光電公司暴跌 17%，相干公司和 Lumentum 下跌 10%
 - **題材**: `光通訊與矽光子` | **重要性**: `60`
 - **來源**: 24/7 Wall St. (2026-07-02T17:34:11Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 週四中午，一些雄心勃勃的光子學公司的股價正在下滑。應用光電（NASDAQ：AAOI）股價下跌 17%，至 114.93 美元，創最大跌幅…
 - [原文連結](https://247wallst.com/investing/2026/07/02/applied-optoelectronics-plunges-17-coherent-and-lumentum-sink-10-as-photonics-stocks-reset/)
-
----
-
-### ⚖️ 三星詳細介紹了即將推出的 2nm 節點，並討論了未來的 1.4nm 節點（將於 2029 年推出）
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: GSMArena.com (2026-07-02T14:41:02Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 在 SAFE 论坛（三星先进代工生态系统）上，三星透露了其未来半导体节点的计划。去年，该公司推出了 Exynos 2600，这是第一款 2nm 智能手机芯片，该芯片是在三星称之为 SF2 节点上制造的。
-
-接下來…
-- [原文連結](https://www.gsmarena.com/samsung_details_upcoming_2nm_nodes_talks_of_future_14nm_nodes_coming_in_2029-news-73544.php)
 
 ---
 
