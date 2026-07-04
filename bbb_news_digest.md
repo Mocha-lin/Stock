@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-04T10:53:47.549088+00:00
+> 更新時間：2026-07-04T14:21:34.835433+00:00
 
 ### 🚀 台灣汽車 LED 製造商 EOI 為墨西哥人形機器人和矽光子技術做好準備
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -64,15 +64,6 @@
 
 ---
 
-### 🚀 為什麼蘋果要我為大型科技公司對人工智慧的執著支付更多費用？
-- **題材**: `AI伺服器` | **重要性**: `73`
-- **來源**: The Verge (2026-06-27T13:07:36Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 蒂姆·庫克最近表示，漲價是“不可避免的”，並稱該公司的定價“不可持續”。 16 吋 MacBook Pro 的價格上漲了 300 美元。 11 吋 iPad Air 從 599 美元漲到 749 美元。就連 HomePod Mini 也漲價了 30 美元，漲至 129 美元。 …
-- [原文連結](https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech)
-
----
-
 ### ⚖️ 京東方瞄準AI封裝Micro LED光學互連與玻璃基板CPO
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
 - **來源**: Digitimes (2026-07-03T04:48:50Z)
@@ -109,12 +100,12 @@
 
 ---
 
-### ⚖️ SK海力士將在韓國業務投資7125億美元——清州NAND擴張、龍仁半導體DRAM集群詳細信息
-- **題材**: `HBM記憶體` | **重要性**: `67`
-- **來源**: Tom's Hardware UK (2026-07-02T16:28:35Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: SK 海力士宣布重大計劃，將斥資 7,125 億美元在韓國開展業務，但唯一的具體投資是新建 NAND 晶圓廠和封裝設施的支出。
-- [原文連結](https://www.tomshardware.com/pc-components/dram/sk-hynix-to-invest-usd712-5-billion-in-south-korean-operations-cheongju-nand-expansion-yongin-semiconductor-cluster-for-dram-detailed)
+### 🚀 為什麼蘋果要我為大型科技公司對人工智慧的執著支付更多費用？
+- **題材**: `AI伺服器` | **重要性**: `68`
+- **來源**: The Verge (2026-06-27T13:07:36Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 蒂姆·庫克最近表示，漲價是“不可避免的”，並稱該公司的定價“不可持續”。 16 吋 MacBook Pro 的價格上漲了 300 美元。 11 吋 iPad Air 從 599 美元漲到 749 美元。就連 HomePod Mini 也漲價了 30 美元，漲至 129 美元。 …
+- [原文連結](https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech)
 
 ---
 
@@ -178,6 +169,15 @@
 - **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 油價終於回落至伊朗戰爭前的水平——但原油市場遠未看到航運、石油供應和需求正常化…
 - [原文連結](https://www.marketwatch.com/story/oil-prices-are-now-back-to-prewar-levels-but-the-market-is-not-heres-what-could-happen-next-c2883aa7)
+
+---
+
+### ⚠️ 隨著光子學股票重置，應用光電公司暴跌 17%，相干公司和 Lumentum 下跌 10%
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: 24/7 Wall St. (2026-07-02T17:34:11Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 週四中午，一些雄心勃勃的光子學公司的股價正在下滑。應用光電（NASDAQ：AAOI）股價下跌 17%，至 114.93 美元，創最大跌幅…
+- [原文連結](https://247wallst.com/investing/2026/07/02/applied-optoelectronics-plunges-17-coherent-and-lumentum-sink-10-as-photonics-stocks-reset/)
 
 ---
 
