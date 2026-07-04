@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-04T04:28:36.885151+00:00
+> 更新時間：2026-07-04T07:21:41.327824+00:00
 
 ### 🚀 台灣汽車 LED 製造商 EOI 為墨西哥人形機器人和矽光子技術做好準備
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -16,6 +16,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Broadcom（納斯達克股票代碼：AVGO）和 Marvell Technology（納斯達克股票代碼：MRVL）都公佈了以客製化人工智慧晶片為中心的收益。 Broadcom reported Q2 FY2026 revenue of $22.18...
 - [原文連結](https://247wallst.com/investing/2026/07/01/broadcom-vs-marvell-why-broadcoms-custom-silicon-dominance-crushes-marvells-premium-priced-ai-growth/)
+
+---
+
+### 🚀 台積電如何悄悄將供應鏈變成“第二艦隊”
+- **題材**: `半導體先進製程` | **重要性**: `78`
+- **來源**: Digitimes (2026-07-03T04:46:36Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 台積電近年來加速供應鏈在地化，透過共同開發、聯合驗證和長期合作夥伴關係，幫助台灣設備、材料和化學品供應商進入先進半導體供應鏈。這 …
+- [原文連結](https://www.digitimes.com/news/a20260703PD219/tsmc-supply-chain-equipment-development-materials.html)
 
 ---
 
@@ -37,12 +46,12 @@
 
 ---
 
-### ⚖️ 雲AI擠壓2nm產能，給移動SoC帶來壓力
+### ⚖️ Intel takes aim at TSMC's CoWoS lead with EMIB-T
 - **題材**: `半導體先進製程` | **重要性**: `73`
-- **來源**: Digitimes (2026-07-01T23:51:23Z)
+- **來源**: Digitimes (2026-07-03T05:44:58Z)
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 移動系統單晶片（SoC）供應商將在 2026 年集體將旗艦平台升級至 2nm。除了需要更好的規格之外，更大的目標是避免預訂最多的 3nm 製程並確保更多供應。
-- [原文連結](https://www.digitimes.com/news/a20260701PD220/capacity-2nm-soc-mobile-flagship.html)
+- **摘要**: 隨著電晶體密度縮小速度放緩，晶片製造商正在依靠先進封裝來不斷提高加速器性能。今年 IEEE 電子元件和技術會議的 SemiAnalysis 綜述描述了英特爾、Marvell 等公司的轉變。
+- [原文連結](https://www.digitimes.com/news/a20260703VL207/intel-transistor-tsmc-cowos-packaging.html)
 
 ---
 
@@ -61,6 +70,15 @@
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 蒂姆·庫克最近表示，漲價是“不可避免的”，並稱該公司的定價“不可持續”。 16 吋 MacBook Pro 的價格上漲了 300 美元。 11 吋 iPad Air 從 599 美元漲到 749 美元。就連 HomePod Mini 也漲價了 30 美元，漲至 129 美元。 …
 - [原文連結](https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech)
+
+---
+
+### ⚖️ 京東方瞄準AI封裝Micro LED光學互連與玻璃基板CPO
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-07-03T04:48:50Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 中國領先的顯示器面板製造商京東方正在加速進軍人工智慧時代的下一代封裝技術。該公司最近透露，已組建了專門的Micro LED光學互連系統和玻璃基板專案團隊…
+- [原文連結](https://www.digitimes.com/news/a20260703PD221/boe-glass-substrate-cpo-packaging-microled.html)
 
 ---
 
@@ -160,24 +178,6 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 蘋果將於 7 月 30 日星期四公佈 2026 年第三季財報。以下是我們的預期。
 - [原文連結](https://9to5mac.com/2026/07/02/apple-sets-q3-2026-earnings-release-for-july-30/)
-
----
-
-### ⚠️ 油價現在已回到戰前水平，但市場卻沒有。接下來可能會發生什麼事。
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: MarketWatch (2026-07-02T18:17:00Z)
-- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 油價終於回落至伊朗戰爭前的水平——但原油市場遠未看到航運、石油供應和需求正常化…
-- [原文連結](https://www.marketwatch.com/story/oil-prices-are-now-back-to-prewar-levels-but-the-market-is-not-heres-what-could-happen-next-c2883aa7)
-
----
-
-### ⚠️ 隨著光子學股票重置，應用光電公司暴跌 17%，相干公司和 Lumentum 下跌 10%
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: 24/7 Wall St. (2026-07-02T17:34:11Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 週四中午，一些雄心勃勃的光子學公司的股價正在下滑。應用光電（NASDAQ：AAOI）股價下跌 17%，至 114.93 美元，創最大跌幅…
-- [原文連結](https://247wallst.com/investing/2026/07/02/applied-optoelectronics-plunges-17-coherent-and-lumentum-sink-10-as-photonics-stocks-reset/)
 
 ---
 
