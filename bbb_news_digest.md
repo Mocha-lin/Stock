@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-05T17:53:24.734410+00:00
+> 更新時間：2026-07-05T20:04:50.715642+00:00
 
 ### 🚀 台積電如何悄悄將供應鏈變成“第二艦隊”
 - **題材**: `半導體先進製程` | **重要性**: `78`
@@ -109,15 +109,6 @@
 
 ---
 
-### 🚀 新澤西州成為最新通過反監管定價法的州
-- **題材**: `總體風險` | **重要性**: `65`
-- **來源**: Gizmodo.com (2026-07-02T19:55:59Z)
-- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 該立法僅適用於雜貨店，仍需州長簽署才能成為法律。
-- [原文連結](https://gizmodo.com/new-jersey-becomes-latest-state-to-pass-law-against-surveillance-pricing-2000780265)
-
----
-
 ### ⚖️ 三星、SK 海力士西南晶圓廠計畫聚焦光州矽光子學雄心
 - **題材**: `光通訊與矽光子` | **重要性**: `63`
 - **來源**: Digitimes (2026-07-01T07:31:39Z)
@@ -172,12 +163,21 @@
 
 ---
 
-### ⚠️ 油價現在已回到戰前水平，但市場卻沒有。接下來可能會發生什麼事。
+### 🚀 新澤西州成為最新通過反監管定價法的州
 - **題材**: `總體風險` | **重要性**: `60`
-- **來源**: MarketWatch (2026-07-02T18:17:00Z)
-- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 油價終於回落至伊朗戰爭前的水平——但原油市場遠未看到航運、石油供應和需求正常化…
-- [原文連結](https://www.marketwatch.com/story/oil-prices-are-now-back-to-prewar-levels-but-the-market-is-not-heres-what-could-happen-next-c2883aa7)
+- **來源**: Gizmodo.com (2026-07-02T19:55:59Z)
+- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 該立法僅適用於雜貨店，仍需州長簽署才能成為法律。
+- [原文連結](https://gizmodo.com/new-jersey-becomes-latest-state-to-pass-law-against-surveillance-pricing-2000780265)
+
+---
+
+### ⚖️ 高通高頻寬運算旨在透過將 LPDDR 堆疊在 CPU 上方來“消除 HBM 稅”，從而與高頻寬快閃記憶體和記憶體競爭
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: TechRadar (2026-07-01T20:05:00Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 高通最新的資料中心推動以高頻寬運算（HBC）為中心，旨在解決高頻寬記憶體（HBM）成本不斷增加的問題
+- [原文連結](https://www.techradar.com/pro/qualcomm-high-bandwidth-compute-aims-to-compete-with-high-bandwidth-flash-and-memory-by-stacking-lpddr-just-above-the-cpu-to-eliminate-hbm-tax)
 
 ---
 
