@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-07-05T11:03:35.839335+00:00",
+  "generated_at": "2026-07-05T14:22:40.980684+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 75,
@@ -603,6 +603,82 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "20ee219beddf1f09",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "據報道，三星正在洽談為 Anthropic 和 Meta 製造 2nm AI 晶片",
+      "summary": "據報道，三星代工廠正在與 Anthropic 和 Meta 洽談生產人工智慧晶片。兩家公司都在開發內部人工智慧加速器，三星可以使用其尖端的 2 奈米製程技術來幫助製造這些晶片。薩…",
+      "original_title": "Samsung reportedly in talks to make 2nm AI chips for Anthropic and Meta",
+      "url": "https://www.sammobile.com/2026/07/04/samsung-talks-make-2nm-ai-chips-anthropic-meta/",
+      "source": "SamMobile",
+      "domain": "sammobile.com",
+      "published_at": "2026-07-04T14:01:53Z",
+      "importance": 60,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "b1d6d9e3c1709f2e",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "川普贈送比利時鑽石集團贏得關稅減免的豪華戒指",
+      "summary": "",
+      "original_title": "Trump gifted lavish ring from Belgian diamond group that won tariff relief",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_9c514822-1e6e-4168-8c6c-158866eb268f",
+      "source": "Yahoo Entertainment",
+      "domain": "consent.yahoo.com",
+      "published_at": "2026-07-03T18:49:00Z",
+      "importance": 60,
+      "impact": "negative",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "758b85dbe561c685",
@@ -1312,120 +1388,6 @@
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "93773024d36008c5",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "截至 2026 年 7 月 2 日的當前油價",
-      "summary": "當油價變化時，它會影響您的能源成本，甚至日常用品的價格。原因如下。",
-      "original_title": "Current price of oil as of July 2, 2026",
-      "url": "https://finance.yahoo.com/energy/articles/current-price-oil-july-2-134058968.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-07-02T13:40:58Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "ac614c544565aab5",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "疑似洩漏的 A20 Pro 晶片影像顯示即將推出的設備性能有所改進",
-      "summary": "一張疑似 iPhone 18 Pro 主機板的照片已經洩漏。照片顯示了 A20 Pro 晶片的新封裝技術，可提高效能。該照片由Ice Universe和WHYLAB在中文社群媒體平台上傳…",
-      "original_title": "Supposed Leaked Images for A20 Pro Chip Show Improvements in Performance For Upcoming Device",
-      "url": "https://www.ilounge.com/news/iphone/supposed-leaked-images-for-a20-pro-chip-show-improvements-in-performance-for-upcoming-device",
-      "source": "iLounge",
-      "domain": "ilounge.com",
-      "published_at": "2026-07-02T13:21:19Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "46fe7f529177624a",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "通膨加劇，6 月招募情況遜於預期",
-      "summary": "六月招聘明顯放緩，低於經濟學家的預期，並顯示出在伊朗戰爭引發的通貨膨脹加劇的情況下勞動力市場不穩定。",
-      "original_title": "Hiring worse than expected in June amid elevated inflation",
-      "url": "https://abcnews.com/Business/jobs-report-set-show-hiring-robust-pace/story?id=134336526",
-      "source": "Abcnews.com",
-      "domain": "abcnews.com",
-      "published_at": "2026-07-02T12:44:18Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "3e045f64891d7731",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1829,44 +1791,6 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "3df332cc55086604",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "Oil prices rise as US, Iranian strikes threaten Strait of Hormuz reopening",
-      "summary": "Brent crude edges up as tit-for-tat strikes imperial return to normality in key waterway.",
-      "original_title": "Oil prices rise as US, Iranian strikes threaten Strait of Hormuz reopening",
-      "url": "https://www.aljazeera.com/economy/2026/6/29/oil-prices-rise-as-us-iranian-strikes-threaten-strait-of-hormuz-reopening",
-      "source": "Al Jazeera English",
-      "domain": "aljazeera.com",
-      "published_at": "2026-06-29T03:55:02Z",
-      "importance": 55,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "ba49aadde6495461",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1941,6 +1865,120 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "93773024d36008c5",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "截至 2026 年 7 月 2 日的當前油價",
+      "summary": "當油價變化時，它會影響您的能源成本，甚至日常用品的價格。原因如下。",
+      "original_title": "Current price of oil as of July 2, 2026",
+      "url": "https://finance.yahoo.com/energy/articles/current-price-oil-july-2-134058968.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-07-02T13:40:58Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "ac614c544565aab5",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "疑似洩漏的 A20 Pro 晶片影像顯示即將推出的設備性能有所改進",
+      "summary": "一張疑似 iPhone 18 Pro 主機板的照片已經洩漏。照片顯示了 A20 Pro 晶片的新封裝技術，可提高效能。該照片由Ice Universe和WHYLAB在中文社群媒體平台上傳…",
+      "original_title": "Supposed Leaked Images for A20 Pro Chip Show Improvements in Performance For Upcoming Device",
+      "url": "https://www.ilounge.com/news/iphone/supposed-leaked-images-for-a20-pro-chip-show-improvements-in-performance-for-upcoming-device",
+      "source": "iLounge",
+      "domain": "ilounge.com",
+      "published_at": "2026-07-02T13:21:19Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "46fe7f529177624a",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "通膨加劇，6 月招募情況遜於預期",
+      "summary": "六月招聘明顯放緩，低於經濟學家的預期，並顯示出在伊朗戰爭引發的通貨膨脹加劇的情況下勞動力市場不穩定。",
+      "original_title": "Hiring worse than expected in June amid elevated inflation",
+      "url": "https://abcnews.com/Business/jobs-report-set-show-hiring-robust-pace/story?id=134336526",
+      "source": "Abcnews.com",
+      "domain": "abcnews.com",
+      "published_at": "2026-07-02T12:44:18Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "df652b69ace0d269",
@@ -2391,44 +2429,6 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "a73e3d95265c9b60",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "適用於 Galaxy S27 和 Galaxy Z Fold 9 的 Snapdragon 晶片將於 9 月首次亮相",
-      "summary": "高通公司公佈了 2026 年 Snapdragon 高峰會活動的日期。該公司預計將在這裡推出用於筆記型電腦、智慧型手機和平板電腦的下一代高階晶片。其即將推出的旗艦智慧型手機晶片的更高主頻版本…",
-      "original_title": "Snapdragon chip for Galaxy S27 and Galaxy Z Fold 9 to debut in September",
-      "url": "https://www.sammobile.com/news/galaxy-s27-z-fold-9-snapdragon-chip-launch-september-2026/",
-      "source": "SamMobile",
-      "domain": "sammobile.com",
-      "published_at": "2026-06-30T06:01:56Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "e41e5f8fe2692a00",
