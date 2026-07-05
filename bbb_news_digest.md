@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-04T20:02:25.583859+00:00
+> 更新時間：2026-07-05T00:01:43.925528+00:00
 
 ### 🚀 台灣汽車 LED 製造商 EOI 為墨西哥人形機器人和矽光子技術做好準備
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -64,6 +64,15 @@
 
 ---
 
+### ⚠️ 深入了解 DRAM 價格壟斷訴訟的歷史 — HBM 分配如何在經歷了二十年的失敗案例後發揮作用
+- **題材**: `HBM記憶體` | **重要性**: `72`
+- **來源**: Tom's Hardware UK (2026-07-03T14:13:04Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Garciaguirre v. Samsung leans on HBM to prove an agreement that federal courts have twice declined to see in parallel production cuts.
+- [原文連結](https://www.tomshardware.com/pc-components/dram/samsung-sk-hynix-and-micron-face-a-third-dram-price-fixing-lawsuit)
+
+---
+
 ### ⚖️ 京東方瞄準AI封裝Micro LED光學互連與玻璃基板CPO
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
 - **來源**: Digitimes (2026-07-03T04:48:50Z)
@@ -100,12 +109,12 @@
 
 ---
 
-### 🚀 為什麼蘋果要我為大型科技公司對人工智慧的執著支付更多費用？
-- **題材**: `AI伺服器` | **重要性**: `68`
-- **來源**: The Verge (2026-06-27T13:07:36Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 蒂姆·庫克最近表示，漲價是“不可避免的”，並稱該公司的定價“不可持續”。 16 吋 MacBook Pro 的價格上漲了 300 美元。 11 吋 iPad Air 從 599 美元漲到 749 美元。就連 HomePod Mini 也漲價了 30 美元，漲至 129 美元。 …
-- [原文連結](https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech)
+### ⚖️ SK海力士將在韓國業務投資7125億美元——清州NAND擴張、龍仁半導體DRAM集群詳細信息
+- **題材**: `HBM記憶體` | **重要性**: `67`
+- **來源**: Tom's Hardware UK (2026-07-02T16:28:35Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: SK hynix announces major plan to spend $712.5 billion in its operations in South Korea, but the only detailed investments are spendings on a new NAND fab and a packaging facility.
+- [原文連結](https://www.tomshardware.com/pc-components/dram/sk-hynix-to-invest-usd712-5-billion-in-south-korean-operations-cheongju-nand-expansion-yongin-semiconductor-cluster-for-dram-detailed)
 
 ---
 
@@ -115,15 +124,6 @@
 - **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 該立法僅適用於雜貨店，仍需州長簽署才能成為法律。
 - [原文連結](https://gizmodo.com/new-jersey-becomes-latest-state-to-pass-law-against-surveillance-pricing-2000780265)
-
----
-
-### ⚖️ 高通高頻寬運算旨在透過將 LPDDR 堆疊在 CPU 上方來“消除 HBM 稅”，從而與高頻寬快閃記憶體和記憶體競爭
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: TechRadar (2026-07-01T20:05:00Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 高通最新的資料中心推動以高頻寬運算（HBC）為中心，旨在解決高頻寬記憶體（HBM）成本不斷增加的問題
-- [原文連結](https://www.techradar.com/pro/qualcomm-high-bandwidth-compute-aims-to-compete-with-high-bandwidth-flash-and-memory-by-stacking-lpddr-just-above-the-cpu-to-eliminate-hbm-tax)
 
 ---
 

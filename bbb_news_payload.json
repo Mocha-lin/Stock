@@ -1,9 +1,9 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-07-04T20:02:25.583859+00:00",
+  "generated_at": "2026-07-05T00:01:43.925528+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
-  "total_count": 74,
+  "total_count": 75,
   "items": [
     {
       "id": "ae277fc7ea891189",
@@ -272,6 +272,41 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
+      "id": "6208bf60dfef9a95",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "深入了解 DRAM 價格壟斷訴訟的歷史 — HBM 分配如何在經歷了二十年的失敗案例後發揮作用",
+      "summary": "Garciaguirre v. Samsung leans on HBM to prove an agreement that federal courts have twice declined to see in parallel production cuts.",
+      "original_title": "Inside the history of DRAM price-fixing lawsuits — how HBM allocations could make a difference after two decades of failed cases",
+      "url": "https://www.tomshardware.com/pc-components/dram/samsung-sk-hynix-and-micron-face-a-third-dram-price-fixing-lawsuit",
+      "source": "Tom's Hardware UK",
+      "domain": "tomshardware.com",
+      "published_at": "2026-07-03T14:13:04Z",
+      "importance": 72,
+      "impact": "negative",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
       "id": "a7d4e1ac96eede1e",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -424,32 +459,29 @@
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "1331bdef62679552",
+      "id": "4d169a4b232bc3ea",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "為什麼蘋果要我為大型科技公司對人工智慧的執著支付更多費用？",
-      "summary": "蒂姆·庫克最近表示，漲價是“不可避免的”，並稱該公司的定價“不可持續”。 16 吋 MacBook Pro 的價格上漲了 300 美元。 11 吋 iPad Air 從 599 美元漲到 749 美元。就連 HomePod Mini 也漲價了 30 美元，漲至 129 美元。 …",
-      "original_title": "Why is Apple asking me to pay more for Big Tech’s AI obsession?",
-      "url": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "published_at": "2026-06-27T13:07:36Z",
-      "importance": 68,
-      "impact": "positive",
+      "theme": "HBM記憶體",
+      "title": "SK海力士將在韓國業務投資7125億美元——清州NAND擴張、龍仁半導體DRAM集群詳細信息",
+      "summary": "SK hynix announces major plan to spend $712.5 billion in its operations in South Korea, but the only detailed investments are spendings on a new NAND fab and a packaging facility.",
+      "original_title": "SK hynix to invest $712.5 billion in South Korean operations — Cheongju NAND expansion, Yongin Semiconductor Cluster for DRAM detailed",
+      "url": "https://www.tomshardware.com/pc-components/dram/sk-hynix-to-invest-usd712-5-billion-in-south-korean-operations-cheongju-nand-expansion-yongin-semiconductor-cluster-for-dram-detailed",
+      "source": "Tom's Hardware UK",
+      "domain": "tomshardware.com",
+      "published_at": "2026-07-02T16:28:35Z",
+      "importance": 67,
+      "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
+        "HBM",
+        "記憶體"
       ],
       "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
       ],
       "related_models": [
         "003",
@@ -459,7 +491,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "c2823826c65ba082",
@@ -498,41 +530,6 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "c364cad4594e2566",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "高通高頻寬運算旨在透過將 LPDDR 堆疊在 CPU 上方來“消除 HBM 稅”，從而與高頻寬快閃記憶體和記憶體競爭",
-      "summary": "高通最新的資料中心推動以高頻寬運算（HBC）為中心，旨在解決高頻寬記憶體（HBM）成本不斷增加的問題",
-      "original_title": "Qualcomm High Bandwidth Compute aims to compete with High Bandwidth Flash and Memory by stacking LPDDR just above the CPU to 'eliminate HBM tax'",
-      "url": "https://www.techradar.com/pro/qualcomm-high-bandwidth-compute-aims-to-compete-with-high-bandwidth-flash-and-memory-by-stacking-lpddr-just-above-the-cpu-to-eliminate-hbm-tax",
-      "source": "TechRadar",
-      "domain": "techradar.com",
-      "published_at": "2026-07-01T20:05:00Z",
-      "importance": 65,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "da9ae22cb4e898d0",
@@ -760,6 +757,44 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "3e045f64891d7731",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "Europe growth hit more by China exports than bigger trade gap, Goldman says",
+      "summary": "By Akriti Shah and Rashika Singh July 2 (Reuters) - The bigger drag on European Union growth is losing market share to China rather than a widening trade def...",
+      "original_title": "Europe growth hit more by China exports than bigger trade gap, Goldman says",
+      "url": "https://uk.finance.yahoo.com/news/europe-growth-hit-more-china-093436822.html",
+      "source": "Yahoo Entertainment",
+      "domain": "uk.finance.yahoo.com",
+      "published_at": "2026-07-02T09:34:36Z",
+      "importance": 60,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "16da53979cc5ec6f",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -796,6 +831,41 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "c364cad4594e2566",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "高通高頻寬運算旨在透過將 LPDDR 堆疊在 CPU 上方來“消除 HBM 稅”，從而與高頻寬快閃記憶體和記憶體競爭",
+      "summary": "高通最新的資料中心推動以高頻寬運算（HBC）為中心，旨在解決高頻寬記憶體（HBM）成本不斷增加的問題",
+      "original_title": "Qualcomm High Bandwidth Compute aims to compete with High Bandwidth Flash and Memory by stacking LPDDR just above the CPU to 'eliminate HBM tax'",
+      "url": "https://www.techradar.com/pro/qualcomm-high-bandwidth-compute-aims-to-compete-with-high-bandwidth-flash-and-memory-by-stacking-lpddr-just-above-the-cpu-to-eliminate-hbm-tax",
+      "source": "TechRadar",
+      "domain": "techradar.com",
+      "published_at": "2026-07-01T20:05:00Z",
+      "importance": 60,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "221652cce55cd3ac",
@@ -1058,44 +1128,6 @@
       "reason": "屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "3eb7bd54cc584f28",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "ShunSin 看到 CPO 潛力，將台積電資深人士加入為獨立人士",
-      "summary": "富士康旗下封測公司順新召開2026年度股東大會，由董事長蔣尚義主持。蔣表示，順新將利用富士康「…」下的封裝、測試和光電整合能力。",
-      "original_title": "ShunSin sees CPO potential, adds TSMC veterans as independents",
-      "url": "https://www.digitimes.com/news/a20260626PD230/shunsin-cpo-testing-packaging-tsmc.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-06-27T08:30:09Z",
-      "importance": 58,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "7149ea4a61e12c2a",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1129,6 +1161,44 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "15a35ba900cdb026",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "AMD MI355X 上的 GLM5.2 為 2626 tok/s/節點，成本比 Blackwell 低 2 倍以上",
+      "summary": "最快的企業開源法學碩士。",
+      "original_title": "GLM5.2 on AMD MI355X at 2626 tok/s/node at over 2x lower cost than Blackwell",
+      "url": "https://www.wafer.ai/blog/glm52-amd",
+      "source": "Wafer.ai",
+      "domain": "wafer.ai",
+      "published_at": "2026-07-03T21:49:06Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "74ebd112a68c7233",
@@ -1202,6 +1272,44 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "4577f34947dfba15",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "「沉黙の組織から高め合う組織へ」改革の道筋を示すカンfuァlensu「U-ZERO DAY 2026」參加登入が定員1,000名席機、突破、増を",
+      "summary": "[株式会社U-ZERO]\n[画像: https://prcdn.freetls.fastly.net/release_image/157749/30/157749-30-f7f97fe372fb8ac41fbb4 08f9ef1a1bc-1200x520.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...",
+      "original_title": "「沈黙の組織から高め合う組織へ」改革の道筋を示すカンファレンス「U-ZERO DAY 2026」参加登録が定員1,000名を突破、増席を決定",
+      "url": "https://prtimes.jp/main/html/rd/p/000000030.000157749.html",
+      "source": "Prtimes.jp",
+      "domain": "prtimes.jp",
+      "published_at": "2026-07-03T02:00:00Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "ec8d18c56c3c15d5",
@@ -1794,6 +1902,44 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "3df332cc55086604",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "Oil prices rise as US, Iranian strikes threaten Strait of Hormuz reopening",
+      "summary": "Brent crude edges up as tit-for-tat strikes imperial return to normality in key waterway.",
+      "original_title": "Oil prices rise as US, Iranian strikes threaten Strait of Hormuz reopening",
+      "url": "https://www.aljazeera.com/economy/2026/6/29/oil-prices-rise-as-us-iranian-strikes-threaten-strait-of-hormuz-reopening",
+      "source": "Al Jazeera English",
+      "domain": "aljazeera.com",
+      "published_at": "2026-06-29T03:55:02Z",
+      "importance": 55,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "ba49aadde6495461",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1868,44 +2014,6 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "471dfaed302d80cf",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "美國在第二次航運襲擊後對伊朗進行報復性打擊",
-      "summary": "美國表示，它已經打擊了多個目標，「以直接回應伊朗對商業航運的持續侵略」。",
-      "original_title": "US conducts retaliatory strikes on Iran after second shipping attack",
-      "url": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o",
-      "source": "BBC News",
-      "domain": "bbc.co.uk",
-      "published_at": "2026-06-27T23:06:40Z",
-      "importance": 55,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "813abfe167c13f11",
@@ -2093,6 +2201,44 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "9cd6c72fa41a2bf1",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "終於開始了！ The Vera Rubin Observatory Creating What Will Be the Greatest Movie Ever Made",
+      "summary": "維拉魯賓天文台期待已久的遺產時空調查已經開始。這部長達十年的宇宙電影將捕捉南方夜空中亮度、位置或兩者都改變的任何事物。它將研究諸如暗能量之類的宏大課題…",
+      "original_title": "It's Finally Begun! The Vera Rubin Observatory Creating What Will Be the Greatest Movie Ever Made",
+      "url": "https://www.universetoday.com/articles/its-finally-begun-the-vera-rubin-observatory-creating-what-will-be-the-greatest-movie-ever-made",
+      "source": "Universe Today",
+      "domain": "universetoday.com",
+      "published_at": "2026-06-30T21:20:00Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "7eec8558751cd8e2",
@@ -2663,117 +2809,6 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "d07b0607169a9dbb",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "憑藉在人工智慧基礎設施領域的主導地位，英偉達股票將繼續創造價值",
-      "summary": "儘管 Blackwell 在中國被禁止，但其 GPU 價格仍在該國上漲，使 Nvidia 的股票成為人們關注的焦點。",
-      "original_title": "With a Dominant Position in AI Infrastructure, Nvidia Stock Will Continue to Create Value",
-      "url": "https://www.barchart.com/story/news/3016087/with-a-dominant-position-in-ai-infrastructure-nvidia-stock-will-continue-to-create-value",
-      "source": "Barchart.com",
-      "domain": "barchart.com",
-      "published_at": "2026-06-27T16:26:03Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "2f25f6ab1a0a8755",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "RAM 危機越來越嚴重 — 我會考慮價格何時會下跌，以及當價格下跌時您是否會看到節省",
-      "summary": "RAM 危機不斷惡化，過去幾週影響尤其嚴重，因為各大公司宣布進一步提高 PC、遊戲機和其他技術的價格。有什麼辦法可以止血嗎？ PC價格會恢復正常嗎？",
-      "original_title": "The RAM crisis is getting worse — I take a look at when prices might fall, and whether you'll ever see the savings when they do",
-      "url": "https://www.windowscentral.com/hardware/ram-crisis-when-end-prices-drop-analysis",
-      "source": "Windows Central",
-      "domain": "windowscentral.com",
-      "published_at": "2026-06-27T13:00:00Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "5f5cee7dba3632e8",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "霍爾木茲新船遇襲，伊朗和美國貿易攻擊升級為和平協定以來最嚴重",
-      "summary": "作者：Jana Choukeir 和 Eman Abouhassira 杜拜，6 月 27 日（路透社）",
-      "original_title": "Fresh ship struck in Hormuz as Iran, US trade attacks in worst escalation since peace deal",
-      "url": "https://www.yahoo.com/news/articles/iran-says-hits-us-linked-092540489.html",
-      "source": "Yahoo Entertainment",
-      "domain": "yahoo.com",
-      "published_at": "2026-06-27T11:50:10Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     }
   ]
 }
