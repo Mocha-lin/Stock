@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-05T15:58:05.581380+00:00
+> 更新時間：2026-07-05T17:53:24.734410+00:00
 
 ### 🚀 台積電如何悄悄將供應鏈變成“第二艦隊”
 - **題材**: `半導體先進製程` | **重要性**: `78`
@@ -109,15 +109,6 @@
 
 ---
 
-### ⚖️ SK海力士將在韓國業務投資7125億美元——清州NAND擴張、龍仁半導體DRAM集群詳細信息
-- **題材**: `HBM記憶體` | **重要性**: `67`
-- **來源**: Tom's Hardware UK (2026-07-02T16:28:35Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: SK hynix announces major plan to spend $712.5 billion in its operations in South Korea, but the only detailed investments are spendings on a new NAND fab and a packaging facility.
-- [原文連結](https://www.tomshardware.com/pc-components/dram/sk-hynix-to-invest-usd712-5-billion-in-south-korean-operations-cheongju-nand-expansion-yongin-semiconductor-cluster-for-dram-detailed)
-
----
-
 ### 🚀 新澤西州成為最新通過反監管定價法的州
 - **題材**: `總體風險` | **重要性**: `65`
 - **來源**: Gizmodo.com (2026-07-02T19:55:59Z)
@@ -133,6 +124,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 三星電子和 SK 海力士計劃在韓國西南部進行記憶體投資，主要被視為推動平衡地區發展和利用當地再生能源。
 - [原文連結](https://www.digitimes.com/news/a20260701PD218/samsung-sk-hynix-siph-fab-region.html)
+
+---
+
+### ⚖️ SK海力士將在韓國業務投資7125億美元——清州NAND擴張、龍仁半導體DRAM集群詳細信息
+- **題材**: `HBM記憶體` | **重要性**: `62`
+- **來源**: Tom's Hardware UK (2026-07-02T16:28:35Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: SK hynix announces major plan to spend $712.5 billion in its operations in South Korea, but the only detailed investments are spendings on a new NAND fab and a packaging facility.
+- [原文連結](https://www.tomshardware.com/pc-components/dram/sk-hynix-to-invest-usd712-5-billion-in-south-korean-operations-cheongju-nand-expansion-yongin-semiconductor-cluster-for-dram-detailed)
 
 ---
 
