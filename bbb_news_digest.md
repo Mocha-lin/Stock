@@ -1,14 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-05T00:01:43.925528+00:00
-
-### 🚀 台灣汽車 LED 製造商 EOI 為墨西哥人形機器人和矽光子技術做好準備
-- **題材**: `光通訊與矽光子` | **重要性**: `83`
-- **來源**: Digitimes (2026-07-02T03:27:05Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Excellence OptoElectronics Inc. (EOI) 預計，在 2025 年強勁基礎上，到 2026 年將實現兩位數增長，這得益於向北美汽車製造商強勁的汽車照明模組出貨量、新墨西哥產能以及計劃擴展到人工智慧人形機器人供應領域的支持。
-- [原文連結](https://www.digitimes.com/news/a20260701PD216/eoi-mexico-silicon-photonics-automotive-led.html)
-
----
+> 更新時間：2026-07-05T04:51:15.601228+00:00
 
 ### 🚀 台積電如何悄悄將供應鏈變成“第二艦隊”
 - **題材**: `半導體先進製程` | **重要性**: `78`
@@ -25,6 +16,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: DIGITIMES notes that Arista Networks unveiled XPO at The Optical Fiber Communication Conference and Exhibition 2026 (OFC 2026). Unlike CPO, which is associated with more disruptive innovation, XPO takes an engineering-led approach to improving pluggable optic…
 - [原文連結](https://www.digitimes.com/reports/item.php?id=20260622RS400)
+
+---
+
+### 🚀 台灣汽車 LED 製造商 EOI 為墨西哥人形機器人和矽光子技術做好準備
+- **題材**: `光通訊與矽光子` | **重要性**: `78`
+- **來源**: Digitimes (2026-07-02T03:27:05Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Excellence OptoElectronics Inc. (EOI) 預計，在 2025 年強勁基礎上，到 2026 年將實現兩位數增長，這得益於向北美汽車製造商強勁的汽車照明模組出貨量、新墨西哥產能以及計劃擴展到人工智慧人形機器人供應領域的支持。
+- [原文連結](https://www.digitimes.com/news/a20260701PD216/eoi-mexico-silicon-photonics-automotive-led.html)
 
 ---
 
