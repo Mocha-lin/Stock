@@ -1,23 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-06T00:05:24.510570+00:00
-
-### 🚀 台積電如何悄悄將供應鏈變成“第二艦隊”
-- **題材**: `半導體先進製程` | **重要性**: `78`
-- **來源**: Digitimes (2026-07-03T04:46:36Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 台積電近年來加速供應鏈在地化，透過共同開發、聯合驗證和長期合作夥伴關係，幫助台灣設備、材料和化學品供應商進入先進半導體供應鏈。這 …
-- [原文連結](https://www.digitimes.com/news/a20260703PD219/tsmc-supply-chain-equipment-development-materials.html)
-
----
-
-### ⚖️ 資料中心光學元件的競爭路徑：XPO 可能會在 2027 年擊敗 CPO 實現量產
-- **題材**: `光通訊與矽光子` | **重要性**: `78`
-- **來源**: Digitimes (2026-07-03T02:24:04Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: DIGITIMES notes that Arista Networks unveiled XPO at The Optical Fiber Communication Conference and Exhibition 2026 (OFC 2026). Unlike CPO, which is associated with more disruptive innovation, XPO takes an engineering-led approach to improving pluggable optic…
-- [原文連結](https://www.digitimes.com/reports/item.php?id=20260622RS400)
-
----
+> 更新時間：2026-07-06T05:02:57.870562+00:00
 
 ### 🚀 台灣汽車 LED 製造商 EOI 為墨西哥人形機器人和矽光子技術做好準備
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -25,15 +7,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Excellence OptoElectronics Inc. (EOI) 預計，在 2025 年強勁基礎上，到 2026 年將實現兩位數增長，這得益於向北美汽車製造商強勁的汽車照明模組出貨量、新墨西哥產能以及計劃擴展到人工智慧人形機器人供應領域的支持。
 - [原文連結](https://www.digitimes.com/news/a20260701PD216/eoi-mexico-silicon-photonics-automotive-led.html)
-
----
-
-### 🚀 富士康子公司 ShunSin 已確認與台積電 COUPE 合作； CPO及OCS資本支出將達新台幣50億元
-- **題材**: `光通訊與矽光子` | **重要性**: `78`
-- **來源**: Digitimes (2026-06-29T04:11:06Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 富士康旗下的半導體封裝和測試子公司順新科技控股有限公司正在加速向共封裝光學 (CPO) 轉型。該公司最新任命前台積電高管為獨立董事...
-- [原文連結](https://www.digitimes.com/news/a20260629PD211/cpo-shunsin-packaging-tsmc-foxconn.html)
 
 ---
 
@@ -46,12 +19,39 @@
 
 ---
 
+### ⚖️ Advantest和OpenLight聯手開發矽光子測試平台以實現量產
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-07-05T02:43:28Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Advantest表示，它已與OpenLight合作開發適用於大規模生產環境的可擴展矽光子（SiPh）測試解決方案。這項消息發布之際，人工智慧 (AI) 和高效能運算工作負載增加了對儲存的需求…
+- [原文連結](https://www.digitimes.com/news/a20260703PD236/advantest-siph-testing-demand-production.html)
+
+---
+
 ### ⚖️ Intel takes aim at TSMC's CoWoS lead with EMIB-T
 - **題材**: `半導體先進製程` | **重要性**: `73`
 - **來源**: Digitimes (2026-07-03T05:44:58Z)
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 隨著電晶體密度縮小速度放緩，晶片製造商正在依靠先進封裝來不斷提高加速器性能。今年 IEEE 電子元件和技術會議的 SemiAnalysis 綜述描述了英特爾、Marvell 等公司的轉變。
 - [原文連結](https://www.digitimes.com/news/a20260703VL207/intel-transistor-tsmc-cowos-packaging.html)
+
+---
+
+### 🚀 台積電如何悄悄將供應鏈變成“第二艦隊”
+- **題材**: `半導體先進製程` | **重要性**: `73`
+- **來源**: Digitimes (2026-07-03T04:46:36Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 台積電近年來加速供應鏈在地化，透過共同開發、聯合驗證和長期合作夥伴關係，幫助台灣設備、材料和化學品供應商進入先進半導體供應鏈。這 …
+- [原文連結](https://www.digitimes.com/news/a20260703PD219/tsmc-supply-chain-equipment-development-materials.html)
+
+---
+
+### ⚖️ 資料中心光學元件的競爭路徑：XPO 可能會在 2027 年擊敗 CPO 實現量產
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-07-03T02:24:04Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: DIGITIMES notes that Arista Networks unveiled XPO at The Optical Fiber Communication Conference and Exhibition 2026 (OFC 2026). Unlike CPO, which is associated with more disruptive innovation, XPO takes an engineering-led approach to improving pluggable optic…
+- [原文連結](https://www.digitimes.com/reports/item.php?id=20260622RS400)
 
 ---
 
@@ -64,21 +64,21 @@
 
 ---
 
+### 🚀 富士康子公司 ShunSin 已確認與台積電 COUPE 合作； CPO及OCS資本支出將達新台幣50億元
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-06-29T04:11:06Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 富士康旗下的半導體封裝和測試子公司順新科技控股有限公司正在加速向共封裝光學 (CPO) 轉型。該公司最新任命前台積電高管為獨立董事...
+- [原文連結](https://www.digitimes.com/news/a20260629PD211/cpo-shunsin-packaging-tsmc-foxconn.html)
+
+---
+
 ### ⚠️ 深入了解 DRAM 價格壟斷訴訟的歷史 — HBM 分配如何在經歷了二十年的失敗案例後發揮作用
 - **題材**: `HBM記憶體` | **重要性**: `72`
 - **來源**: Tom's Hardware UK (2026-07-03T14:13:04Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Garciaguirre v. Samsung leans on HBM to prove an agreement that federal courts have twice declined to see in parallel production cuts.
 - [原文連結](https://www.tomshardware.com/pc-components/dram/samsung-sk-hynix-and-micron-face-a-third-dram-price-fixing-lawsuit)
-
----
-
-### ⚖️ 京東方瞄準AI封裝Micro LED光學互連與玻璃基板CPO
-- **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-07-03T04:48:50Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 中國領先的顯示器面板製造商京東方正在加速進軍人工智慧時代的下一代封裝技術。該公司最近透露，已組建了專門的Micro LED光學互連系統和玻璃基板專案團隊…
-- [原文連結](https://www.digitimes.com/news/a20260703PD221/boe-glass-substrate-cpo-packaging-microled.html)
 
 ---
 
@@ -97,6 +97,15 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 隨著人工智慧需求持續推動全球半導體投資，客戶保持晶圓開工強勁，台積電正在加速推進2奈米及以下節點以及CoWoS等先進封裝技術。業內人士表示，人工智慧驅動的…
 - [原文連結](https://www.digitimes.com/news/a20260630PD235/equipment-tsmc-fuel-demand-cowos.html)
+
+---
+
+### ⚖️ 京東方瞄準AI封裝Micro LED光學互連與玻璃基板CPO
+- **題材**: `光通訊與矽光子` | **重要性**: `63`
+- **來源**: Digitimes (2026-07-03T04:48:50Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 中國領先的顯示器面板製造商京東方正在加速進軍人工智慧時代的下一代封裝技術。該公司最近透露，已組建了專門的Micro LED光學互連系統和玻璃基板專案團隊…
+- [原文連結](https://www.digitimes.com/news/a20260703PD221/boe-glass-substrate-cpo-packaging-microled.html)
 
 ---
 
@@ -169,15 +178,6 @@
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 魯賓將使用世界上最大的數位相機創建迄今為止最全面的宇宙記錄。
 - [原文連結](https://gizmodo.com/rubin-observatory-begins-its-10-year-survey-of-the-universe-2000780112)
-
----
-
-### ⚠️ 美光和其他記憶體製造商因價格操縱指控而被起訴。這只不過是 MU 股票的頭條風險。
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: Barchart.com (2026-06-30T20:51:10Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 美光科技、三星和 SK 海力士面臨集體訴訟，指控其合謀透過限制舊晶片的生產來操縱 DRAM 價格。
-- [原文連結](https://www.barchart.com/story/news/3063961/micron-and-other-memory-makers-are-being-sued-over-price-fixing-claims-this-is-nothing-more-than-headline-risk-for-mu-stock)
 
 ---
 
