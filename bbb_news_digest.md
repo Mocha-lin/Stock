@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-06T12:46:58.935659+00:00
+> 更新時間：2026-07-06T16:15:01.718518+00:00
 
 ### 🚀 台灣汽車 LED 製造商 EOI 為墨西哥人形機器人和矽光子技術做好準備
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -64,15 +64,6 @@
 
 ---
 
-### ⚠️ 深入了解 DRAM 價格壟斷訴訟的歷史 — HBM 分配如何在經歷了二十年的失敗案例後發揮作用
-- **題材**: `HBM記憶體` | **重要性**: `72`
-- **來源**: Tom's Hardware UK (2026-07-03T14:13:04Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Garciaguirre v. Samsung leans on HBM to prove an agreement that federal courts have twice declined to see in parallel production cuts.
-- [原文連結](https://www.tomshardware.com/pc-components/dram/samsung-sk-hynix-and-micron-face-a-third-dram-price-fixing-lawsuit)
-
----
-
 ### ⚖️ Intel takes aim at TSMC's CoWoS lead with EMIB-T
 - **題材**: `半導體先進製程` | **重要性**: `68`
 - **來源**: Digitimes (2026-07-03T05:44:58Z)
@@ -127,12 +118,12 @@
 
 ---
 
-### ⚖️ 韓國公佈與三星和 SK 海力士合作的 5,200 億美元投資計劃，以擴大記憶體晶片主導地位——在政府的大力支持下，該計劃包括四家新晶圓廠和 HBM 設施
-- **題材**: `HBM記憶體` | **重要性**: `62`
-- **來源**: Tom's Hardware UK (2026-06-29T14:12:23Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 李總統宣布了一項價值 800 萬億韓元（520B 美元）的公私合作計劃，用於建設四座新的三星和 SK 海力士晶圓廠，使美國晶片法案相形見絀十倍。
-- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/south-korea-unveils-usd520-billion-investment-plan-with-samsung-and-sk-hynix-to-expand-memory-chip-dominance-plan-includes-four-new-fabs-and-hbm-facilities-amid-strong-government-support)
+### ⚠️ 忘記微米？這支新的人工智慧記憶體股票可能是十年來最值得買的股票
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: 24/7 Wall St. (2026-07-05T16:13:48Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 人工智慧創造了不乏投資機會，但也暴露出一個又一個瓶頸。首先是 GPU。然後沒...
+- [原文連結](https://247wallst.com/investing/2026/07/05/forget-micron-this-new-ai-memory-stock-could-be-the-best-buy-of-the-decade/)
 
 ---
 
@@ -178,6 +169,15 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 高通最新的資料中心推動以高頻寬運算（HBC）為中心，旨在解決高頻寬記憶體（HBM）成本不斷增加的問題
 - [原文連結](https://www.techradar.com/pro/qualcomm-high-bandwidth-compute-aims-to-compete-with-high-bandwidth-flash-and-memory-by-stacking-lpddr-just-above-the-cpu-to-eliminate-hbm-tax)
+
+---
+
+### 🚀 魯賓天文台開始為期十年的宇宙調查
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: Gizmodo.com (2026-07-01T16:15:47Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 魯賓將使用世界上最大的數位相機創建迄今為止最全面的宇宙記錄。
+- [原文連結](https://gizmodo.com/rubin-observatory-begins-its-10-year-survey-of-the-universe-2000780112)
 
 ---
 
