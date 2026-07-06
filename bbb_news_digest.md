@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-06T05:02:57.870562+00:00
+> 更新時間：2026-07-06T09:14:46.947969+00:00
 
 ### 🚀 台灣汽車 LED 製造商 EOI 為墨西哥人形機器人和矽光子技術做好準備
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -25,15 +25,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Advantest表示，它已與OpenLight合作開發適用於大規模生產環境的可擴展矽光子（SiPh）測試解決方案。這項消息發布之際，人工智慧 (AI) 和高效能運算工作負載增加了對儲存的需求…
 - [原文連結](https://www.digitimes.com/news/a20260703PD236/advantest-siph-testing-demand-production.html)
-
----
-
-### ⚖️ Intel takes aim at TSMC's CoWoS lead with EMIB-T
-- **題材**: `半導體先進製程` | **重要性**: `73`
-- **來源**: Digitimes (2026-07-03T05:44:58Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 隨著電晶體密度縮小速度放緩，晶片製造商正在依靠先進封裝來不斷提高加速器性能。今年 IEEE 電子元件和技術會議的 SemiAnalysis 綜述描述了英特爾、Marvell 等公司的轉變。
-- [原文連結](https://www.digitimes.com/news/a20260703VL207/intel-transistor-tsmc-cowos-packaging.html)
 
 ---
 
@@ -79,6 +70,15 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Garciaguirre v. Samsung leans on HBM to prove an agreement that federal courts have twice declined to see in parallel production cuts.
 - [原文連結](https://www.tomshardware.com/pc-components/dram/samsung-sk-hynix-and-micron-face-a-third-dram-price-fixing-lawsuit)
+
+---
+
+### ⚖️ Intel takes aim at TSMC's CoWoS lead with EMIB-T
+- **題材**: `半導體先進製程` | **重要性**: `68`
+- **來源**: Digitimes (2026-07-03T05:44:58Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 隨著電晶體密度縮小速度放緩，晶片製造商正在依靠先進封裝來不斷提高加速器性能。今年 IEEE 電子元件和技術會議的 SemiAnalysis 綜述描述了英特爾、Marvell 等公司的轉變。
+- [原文連結](https://www.digitimes.com/news/a20260703VL207/intel-transistor-tsmc-cowos-packaging.html)
 
 ---
 
