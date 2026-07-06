@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-06T09:14:46.947969+00:00
+> 更新時間：2026-07-06T12:46:58.935659+00:00
 
 ### 🚀 台灣汽車 LED 製造商 EOI 為墨西哥人形機器人和矽光子技術做好準備
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -136,6 +136,15 @@
 
 ---
 
+### ⚠️ 美國不是由「關稅人」建立的，與川普白宮的這幅畫相反
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-07-05T11:00:04Z)
+- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 唐納德·川普總統在他的第一次總統競選中表示，自由貿易「是對我們開國元勳的直接侮辱」。
+- [原文連結](https://www.yahoo.com/news/politics/articles/america-not-founded-tariff-men-110004929.html)
+
+---
+
 ### ⚖️ 據報道，三星正在洽談為 Anthropic 和 Meta 製造 2nm AI 晶片
 - **題材**: `半導體先進製程` | **重要性**: `60`
 - **來源**: SamMobile (2026-07-04T14:01:53Z)
@@ -169,15 +178,6 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 高通最新的資料中心推動以高頻寬運算（HBC）為中心，旨在解決高頻寬記憶體（HBM）成本不斷增加的問題
 - [原文連結](https://www.techradar.com/pro/qualcomm-high-bandwidth-compute-aims-to-compete-with-high-bandwidth-flash-and-memory-by-stacking-lpddr-just-above-the-cpu-to-eliminate-hbm-tax)
-
----
-
-### 🚀 魯賓天文台開始為期十年的宇宙調查
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: Gizmodo.com (2026-07-01T16:15:47Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 魯賓將使用世界上最大的數位相機創建迄今為止最全面的宇宙記錄。
-- [原文連結](https://gizmodo.com/rubin-observatory-begins-its-10-year-survey-of-the-universe-2000780112)
 
 ---
 
