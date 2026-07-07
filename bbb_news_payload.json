@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-07-07T18:52:49.687943+00:00",
+  "generated_at": "2026-07-07T20:43:06.798801+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 73,
@@ -1119,44 +1119,6 @@
       "reason": "屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "2abce2b98f69dec9",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "高通提出的追趕人工智慧基礎設施的解決方案：將運算埋藏在 DRAM 下",
-      "summary": "憑藉下一代人工智慧加速器，SoC 供應商的目標是飛越記憶體牆",
-      "original_title": "Qualcomm's proposed solution to catch up in AI infra: Bury the compute under the DRAM",
-      "url": "https://www.theregister.com/systems/2026/06/30/qualcomms-proposed-solution-to-catch-up-in-ai-infra-bury-the-compute-under-the-dram/5264071",
-      "source": "Theregister.com",
-      "domain": "theregister.com",
-      "published_at": "2026-06-30T20:25:00Z",
-      "importance": 60,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "2a70e35fd562a54d",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1686,29 +1648,32 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "6b040c08d3888967",
+      "id": "2abce2b98f69dec9",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "與美光內存副總裁兼總經理的問答",
-      "summary": "DRAM+HBM的機會與需求",
-      "original_title": "Q&A with Micron's VP and GM of Memory",
-      "url": "https://morethanmoore.substack.com/p/q-and-a-with-microns-vp-and-gm-of",
-      "source": "Substack.com",
-      "domain": "morethanmoore.substack.com",
-      "published_at": "2026-06-30T19:45:39Z",
+      "theme": "半導體先進製程",
+      "title": "高通提出的追趕人工智慧基礎設施的解決方案：將運算埋藏在 DRAM 下",
+      "summary": "憑藉下一代人工智慧加速器，SoC 供應商的目標是飛越記憶體牆",
+      "original_title": "Qualcomm's proposed solution to catch up in AI infra: Bury the compute under the DRAM",
+      "url": "https://www.theregister.com/systems/2026/06/30/qualcomms-proposed-solution-to-catch-up-in-ai-infra-bury-the-compute-under-the-dram/5264071",
+      "source": "Theregister.com",
+      "domain": "theregister.com",
+      "published_at": "2026-06-30T20:25:00Z",
       "importance": 55,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "HBM",
-        "記憶體"
+        "半導體",
+        "CoWoS",
+        "先進製程"
       ],
       "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
       ],
       "related_models": [
         "003",
@@ -1718,7 +1683,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "c8a27b9b914fc024",
@@ -2507,6 +2472,41 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "6b040c08d3888967",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "與美光內存副總裁兼總經理的問答",
+      "summary": "DRAM+HBM的機會與需求",
+      "original_title": "Q&A with Micron's VP and GM of Memory",
+      "url": "https://morethanmoore.substack.com/p/q-and-a-with-microns-vp-and-gm-of",
+      "source": "Substack.com",
+      "domain": "morethanmoore.substack.com",
+      "published_at": "2026-06-30T19:45:39Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "160126c79949dbdc",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2518,7 +2518,7 @@
       "source": "Gizmodo.com",
       "domain": "gizmodo.com",
       "published_at": "2026-06-30T20:20:44Z",
-      "importance": 50,
+      "importance": 45,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -2542,7 +2542,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「總體風險」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     },
     {
       "id": "7eec8558751cd8e2",
