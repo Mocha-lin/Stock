@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-07T11:50:57.153349+00:00
+> 更新時間：2026-07-07T15:38:17.823213+00:00
 
 ### 🚀 LandMark OptoElectronics 6 月份營收創紀錄，為 2028 年後成長擴張
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -55,12 +55,12 @@
 
 ---
 
-### ⚖️ 隨著客製化晶片需求的成長，三星、SK 海力士和美光面臨 HBM4 競爭
-- **題材**: `HBM記憶體` | **重要性**: `68`
-- **來源**: Digitimes (2026-07-06T08:00:00Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 全球高頻寬記憶體市場預計將於 2026 年下半年從 HBM3E 轉向 HBM4，三星電子、SK 海力士和美光科技之間的市場份額爭奪將更加激烈。
-- [原文連結](https://www.digitimes.com/news/a20260706VL210/hbm4-sk-hynix-samsung-demand-market.html)
+### ⚖️ 隨著國家加強本地生產，英偉達和英特爾吹捧美國本土晶片供應鏈的實力，但差距仍然存在——隨著項目範圍和規模的擴大，關鍵的布萊克韋爾封裝步驟仍然在海外
+- **題材**: `AI伺服器` | **重要性**: `72`
+- **來源**: Tom's Hardware UK (2026-07-06T12:51:09Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 美國的人工智慧供應鏈現在開始和結束都在美國，而其最有價值的中間步驟至少在 2028 年之前仍然完全在海外。
+- [原文連結](https://www.tomshardware.com/tech-industry/nvidia-and-intel-tout-chips-built-in-america-but-every-arizona-made-blackwell-die-is-still-packaged-in-taiwan)
 
 ---
 
@@ -155,6 +155,15 @@ B. Riley 警告人工智慧網路扁平化可能會壓垮傳統收發器需求�
 
 ---
 
+### ⚖️ 據報道，Nvidia 的 Rubin Ultra 的 Kyber 機架推遲到 2028 年，權宜之計也因客戶的反對而被取消——分析公司 SemiAnalysis 表示 PCB 中板問題導致了推遲
+- **題材**: `AI伺服器` | **重要性**: `62`
+- **來源**: Tom's Hardware UK (2026-07-06T13:33:34Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 據報導，Nvidia 直到 2028 年才會發貨其 Kyber NVL144 機架，延遲了 12 個多月。
+- [原文連結](https://www.tomshardware.com/pc-components/gpus/nvidias-kyber-rack-for-rubin-ultra-slips-to-2028)
+
+---
+
 ### ⚖️ SK海力士將在韓國業務投資7125億美元——清州NAND擴張、龍仁半導體DRAM集群詳細信息
 - **題材**: `HBM記憶體` | **重要性**: `62`
 - **來源**: Tom's Hardware UK (2026-07-02T16:28:35Z)
@@ -164,21 +173,12 @@ B. Riley 警告人工智慧網路扁平化可能會壓垮傳統收發器需求�
 
 ---
 
-### ⚖️ SK海力士赴美上市 融資290億美元
+### 🚀 韓國的 590B 美元晶片賭注讓半導體 ETF 熱議，但內存週期之前已經讓信徒們傷心不已
 - **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: The Times of India (2026-07-06T00:20:07Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 韓國晶片製造商 SK 海力士 (SK Hynix) 將以 290 億美元的規模在美國股市首次亮相，旨在提高其估值並與美光等競爭對手競爭。  此舉迎合了蓬勃發展的人工智慧晶片市場，該市場對儲存晶片的需求正在飆升。  此前迪…
-- [原文連結](https://economictimes.indiatimes.com/markets/us-stocks/news/sk-hynix-makes-us-debut-with-29-billion-listing/articleshow/132204990.cms)
-
----
-
-### ⚖️ Amkor Technology (AMKR) 預計將從轉向先進封裝技術中受益
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-07-06T00:15:53Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Amkor Technology Inc.（納斯達克股票代碼：AMKR）是 BlackRock 目前最重要的 30 檔人工智慧股票之一。在 6 月 25 日的報告中，B. Riley 強調 Amkor 擅長...
-- [原文連結](https://finance.yahoo.com/markets/stocks/articles/amkor-technology-amkr-expected-benefit-001553298.html)
+- **來源**: 24/7 Wall St. (2026-07-06T15:00:12Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 雖然合理數量的 A.I.人們的注意力一直集中在更快、更強大的半導體處理晶片上，高頻寬記憶體 (HBM) 晶片...
+- [原文連結](https://247wallst.com/investing/2026/07/06/south-koreas-590b-chip-bet-has-semiconductor-etfs-buzzing-but-memory-cycles-have-burned-believers-before/)
 
 ---
 

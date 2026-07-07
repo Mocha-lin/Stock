@@ -1,9 +1,9 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-07-07T11:50:57.153349+00:00",
+  "generated_at": "2026-07-07T15:38:17.823213+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
-  "total_count": 74,
+  "total_count": 73,
   "items": [
     {
       "id": "35ccaea54b7d37a1",
@@ -234,29 +234,32 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
-      "id": "889654fc3cf3e61a",
+      "id": "c0bd5248828b33aa",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "隨著客製化晶片需求的成長，三星、SK 海力士和美光面臨 HBM4 競爭",
-      "summary": "全球高頻寬記憶體市場預計將於 2026 年下半年從 HBM3E 轉向 HBM4，三星電子、SK 海力士和美光科技之間的市場份額爭奪將更加激烈。",
-      "original_title": "Samsung, SK Hynix and Micron face HBM4 race as custom chip demand grows",
-      "url": "https://www.digitimes.com/news/a20260706VL210/hbm4-sk-hynix-samsung-demand-market.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-07-06T08:00:00Z",
-      "importance": 68,
+      "theme": "AI伺服器",
+      "title": "隨著國家加強本地生產，英偉達和英特爾吹捧美國本土晶片供應鏈的實力，但差距仍然存在——隨著項目範圍和規模的擴大，關鍵的布萊克韋爾封裝步驟仍然在海外",
+      "summary": "美國的人工智慧供應鏈現在開始和結束都在美國，而其最有價值的中間步驟至少在 2028 年之前仍然完全在海外。",
+      "original_title": "Nvidia and Intel tout homegrown American chip supply chain prowess as country bolsters local production, but gaps remain — crucial Blackwell packaging steps remain offshore as projects grow in scope and scale",
+      "url": "https://www.tomshardware.com/tech-industry/nvidia-and-intel-tout-chips-built-in-america-but-every-arizona-made-blackwell-die-is-still-packaged-in-taiwan",
+      "source": "Tom's Hardware UK",
+      "domain": "tomshardware.com",
+      "published_at": "2026-07-06T12:51:09Z",
+      "importance": 72,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "HBM",
-        "記憶體"
+        "AI",
+        "伺服器",
+        "資料中心"
       ],
       "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
       ],
       "related_models": [
         "003",
@@ -266,7 +269,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "1765994831e196f5",
@@ -643,6 +646,44 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "0f214b5df47ee21a",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "據報道，Nvidia 的 Rubin Ultra 的 Kyber 機架推遲到 2028 年，權宜之計也因客戶的反對而被取消——分析公司 SemiAnalysis 表示 PCB 中板問題導致了推遲",
+      "summary": "據報導，Nvidia 直到 2028 年才會發貨其 Kyber NVL144 機架，延遲了 12 個多月。",
+      "original_title": "Nvidia's Kyber rack for Rubin Ultra reportedly delayed to 2028, stopgap solution also axed due to customer pushback — Analyst firm SemiAnalysis says PCB midplane problems led to the delay",
+      "url": "https://www.tomshardware.com/pc-components/gpus/nvidias-kyber-rack-for-rubin-ultra-slips-to-2028",
+      "source": "Tom's Hardware UK",
+      "domain": "tomshardware.com",
+      "published_at": "2026-07-06T13:33:34Z",
+      "importance": 62,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "4d169a4b232bc3ea",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -676,6 +717,79 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "23086e4bbafa87e0",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "韓國的 590B 美元晶片賭注讓半導體 ETF 熱議，但內存週期之前已經讓信徒們傷心不已",
+      "summary": "雖然合理數量的 A.I.人們的注意力一直集中在更快、更強大的半導體處理晶片上，高頻寬記憶體 (HBM) 晶片...",
+      "original_title": "South Korea’s $590B Chip Bet Has Semiconductor ETFs Buzzing, but Memory Cycles Have Burned Believers Before",
+      "url": "https://247wallst.com/investing/2026/07/06/south-koreas-590b-chip-bet-has-semiconductor-etfs-buzzing-but-memory-cycles-have-burned-believers-before/",
+      "source": "24/7 Wall St.",
+      "domain": "247wallst.com",
+      "published_at": "2026-07-06T15:00:12Z",
+      "importance": 60,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "e35d9bbebbb2ddef",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "(g+)觀點：人工智慧熱潮正悄悄讓東亞民眾窒息",
+      "summary": "晶片和資料中心供電競賽正在復興整個地區的化石燃料 Von Yujie Xu（KI，台積電）",
+      "original_title": "(g+) Opinion: The AI boom is quietly choking people in East Asia",
+      "url": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fopinion-the-ai-boom-is-quietly-choking-people-in-east-asia-2607-210515.html&referer=https%3A%2F%2Ft.co%2F2ce62c1ab1",
+      "source": "Golem.de",
+      "domain": "golem.de",
+      "published_at": "2026-07-06T14:30:01Z",
+      "importance": 60,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "5dc04fb9be3f3a93",
@@ -824,82 +938,6 @@
       "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "20ee219beddf1f09",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "據報道，三星正在洽談為 Anthropic 和 Meta 製造 2nm AI 晶片",
-      "summary": "據報道，三星代工廠正在與 Anthropic 和 Meta 洽談生產人工智慧晶片。兩家公司都在開發內部人工智慧加速器，三星可以使用其尖端的 2 奈米製程技術來幫助製造這些晶片。薩…",
-      "original_title": "Samsung reportedly in talks to make 2nm AI chips for Anthropic and Meta",
-      "url": "https://www.sammobile.com/2026/07/04/samsung-talks-make-2nm-ai-chips-anthropic-meta/",
-      "source": "SamMobile",
-      "domain": "sammobile.com",
-      "published_at": "2026-07-04T14:01:53Z",
-      "importance": 60,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "0e30b93b9f94159c",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Nvidia 推出雙底資料中心融資計劃",
-      "summary": "還有什麼比一次性付款更好的呢？當然要付兩次錢",
-      "original_title": "Nvidia floats double-dipping datacenter financing scheme",
-      "url": "https://www.theregister.com/ai-and-ml/2026/07/02/nvidia-floats-double-dipping-datacenter-financing-scheme/5266184",
-      "source": "Theregister.com",
-      "domain": "theregister.com",
-      "published_at": "2026-07-02T21:55:31Z",
-      "importance": 60,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "c2823826c65ba082",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -971,44 +1009,6 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "1f5304eceddb97d2",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "為什麼我在 Nvidia 上重複積極地裝載卡車",
-      "summary": "我不斷按下 NVIDIA（納斯達克股票代碼：NVDA）的買入按鈕，而價格回調至 200.09 美元只會讓我更加激進。這是我每次添加的位置...",
-      "original_title": "Why I Am Aggressively Loading the Truck on Nvidia on Repeat",
-      "url": "https://247wallst.com/investing/2026/07/01/why-i-am-aggressively-loading-the-truck-on-nvidia-on-repeat/",
-      "source": "24/7 Wall St.",
-      "domain": "247wallst.com",
-      "published_at": "2026-07-01T19:23:13Z",
-      "importance": 60,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "221652cce55cd3ac",
@@ -1228,6 +1228,44 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "517cc9859975995c",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "據說這是淡紫色的 iPhone Air 2",
+      "summary": "第二代 iPhone Air 看起來將解決所有投訴。",
+      "original_title": "This Is Supposedly the iPhone Air 2 in Lavender",
+      "url": "https://gizmodo.com/this-is-supposedly-the-iphone-air-2-in-lavender-2000781690",
+      "source": "Gizmodo.com",
+      "domain": "gizmodo.com",
+      "published_at": "2026-07-06T14:15:38Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "40a0185a735c3f99",
@@ -1792,44 +1830,6 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "de392764b5e660f3",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "三星恢復1.4nm晶片研發，目標2029年量產",
-      "summary": "三星代工廠是全球最先進的半導體晶片製造商之一，在過去幾年面臨良率相關問題。為了專注於解決這些問題，該公司退後一步，推遲了 1.4nm 晶片的量產…",
-      "original_title": "Samsung resumes 1.4nm chip development, targets 2029 mass production",
-      "url": "https://www.sammobile.com/news/samsung-resumes-1-4nm-chip-development-2029-mass-production/",
-      "source": "SamMobile",
-      "domain": "sammobile.com",
-      "published_at": "2026-06-30T04:33:09Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "9d065df18b4d8594",
@@ -2594,7 +2594,7 @@
       "source": "PetaPixel",
       "domain": "petapixel.com",
       "published_at": "2026-06-30T15:00:50Z",
-      "importance": 50,
+      "importance": 45,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -2618,7 +2618,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「AI伺服器」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     },
     {
       "id": "2c0c6cd28950ccb8",
@@ -2632,7 +2632,7 @@
       "source": "Yahoo Entertainment",
       "domain": "finance.yahoo.com",
       "published_at": "2026-06-30T13:21:25Z",
-      "importance": 50,
+      "importance": 45,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -2656,7 +2656,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「總體風險」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     },
     {
       "id": "0e936a9ef1ae0650",
@@ -2695,44 +2695,6 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "a73e3d95265c9b60",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "適用於 Galaxy S27 和 Galaxy Z Fold 9 的 Snapdragon 晶片將於 9 月首次亮相",
-      "summary": "高通公司公佈了 2026 年 Snapdragon 高峰會活動的日期。該公司預計將在這裡推出用於筆記型電腦、智慧型手機和平板電腦的下一代高階晶片。其即將推出的旗艦智慧型手機晶片的更高主頻版本…",
-      "original_title": "Snapdragon chip for Galaxy S27 and Galaxy Z Fold 9 to debut in September",
-      "url": "https://www.sammobile.com/news/galaxy-s27-z-fold-9-snapdragon-chip-launch-september-2026/",
-      "source": "SamMobile",
-      "domain": "sammobile.com",
-      "published_at": "2026-06-30T06:01:56Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     },
     {
       "id": "e41e5f8fe2692a00",
