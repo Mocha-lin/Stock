@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-07T08:15:33.884166+00:00
+> 更新時間：2026-07-07T11:50:57.153349+00:00
 
 ### 🚀 LandMark OptoElectronics 6 月份營收創紀錄，為 2028 年後成長擴張
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -82,24 +82,6 @@
 
 ---
 
-### 🚀 能力光電透過 V 型槽和 MT 生產線瞄準 CPO 成長
-- **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-06-30T09:25:16Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 光學製造商能力光電科技6月29日表示，隨著該公司大力推動，其用於共封裝光學(CPO)的V型槽和機械轉移(MT)產品很可能成為繼筆電相機模組之後的第二大產品線。
-- [原文連結](https://www.digitimes.com/news/a20260630PD224/ability-enterprise-cpo-optics-ability-opto-electronics-technology-growth.html)
-
----
-
-### ⚖️ 台積電2nm、CoWoS和CoPoS廣泛提升台灣設備、材料及封裝供應商
-- **題材**: `半導體先進製程` | **重要性**: `68`
-- **來源**: Digitimes (2026-06-30T09:09:58Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 隨著人工智慧需求持續推動全球半導體投資，客戶保持晶圓開工強勁，台積電正在加速推進2奈米及以下節點以及CoWoS等先進封裝技術。業內人士表示，人工智慧驅動的…
-- [原文連結](https://www.digitimes.com/news/a20260630PD235/equipment-tsmc-fuel-demand-cowos.html)
-
----
-
 ### ⚖️ 專訪：Qnity 台灣投資重點在於先進封裝、CPO 和冷卻
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
 - **來源**: Digitimes (2026-06-30T07:15:00Z)
@@ -115,6 +97,16 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Garciaguirre v.三星案依賴 HBM 來證明聯邦法院曾兩度拒絕平行減產的協議。
 - [原文連結](https://www.tomshardware.com/pc-components/dram/samsung-sk-hynix-and-micron-face-a-third-dram-price-fixing-lawsuit)
+
+---
+
+### ⚖️ B. Riley 警告人工智慧網路扁平化可能會壓垮傳統收發器需求
+- **題材**: `光通訊與矽光子` | **重要性**: `65`
+- **來源**: Crypto Briefing (2026-07-06T09:55:24Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 人工智慧驅動的網路創新可能會重塑資料中心經濟，有利於高速收發器製造商並挑戰傳統供應商。
+B. Riley 警告人工智慧網路扁平化可能會壓垮傳統收發器需求的貼文首先出現在 Crypto Briefin 上…
+- [原文連結](https://cryptobriefing.com/b-riley-transceiver-headwinds-ai-network-flattening/)
 
 ---
 
@@ -145,6 +137,24 @@
 
 ---
 
+### 🚀 能力光電透過 V 型槽和 MT 生產線瞄準 CPO 成長
+- **題材**: `光通訊與矽光子` | **重要性**: `63`
+- **來源**: Digitimes (2026-06-30T09:25:16Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 光學製造商能力光電科技6月29日表示，隨著該公司大力推動，其用於共封裝光學(CPO)的V型槽和機械轉移(MT)產品很可能成為繼筆電相機模組之後的第二大產品線。
+- [原文連結](https://www.digitimes.com/news/a20260630PD224/ability-enterprise-cpo-optics-ability-opto-electronics-technology-growth.html)
+
+---
+
+### ⚖️ 台積電2nm、CoWoS和CoPoS廣泛提升台灣設備、材料及封裝供應商
+- **題材**: `半導體先進製程` | **重要性**: `63`
+- **來源**: Digitimes (2026-06-30T09:09:58Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 隨著人工智慧需求持續推動全球半導體投資，客戶保持晶圓開工強勁，台積電正在加速推進2奈米及以下節點以及CoWoS等先進封裝技術。業內人士表示，人工智慧驅動的…
+- [原文連結](https://www.digitimes.com/news/a20260630PD235/equipment-tsmc-fuel-demand-cowos.html)
+
+---
+
 ### ⚖️ SK海力士將在韓國業務投資7125億美元——清州NAND擴張、龍仁半導體DRAM集群詳細信息
 - **題材**: `HBM記憶體` | **重要性**: `62`
 - **來源**: Tom's Hardware UK (2026-07-02T16:28:35Z)
@@ -163,21 +173,12 @@
 
 ---
 
-### ⚠️ 忘記微米？這支新的人工智慧記憶體股票可能是十年來最值得買的股票
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: 24/7 Wall St. (2026-07-05T16:13:48Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 人工智慧創造了不乏投資機會，但也暴露出一個又一個瓶頸。首先是 GPU。然後沒...
-- [原文連結](https://247wallst.com/investing/2026/07/05/forget-micron-this-new-ai-memory-stock-could-be-the-best-buy-of-the-decade/)
-
----
-
-### ⚠️ 美國不是由「關稅人」建立的，與川普白宮的這幅畫相反
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-07-05T11:00:04Z)
-- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 唐納德·川普總統在他的第一次總統競選中表示，自由貿易「是對我們開國元勳的直接侮辱」。
-- [原文連結](https://www.yahoo.com/news/politics/articles/america-not-founded-tariff-men-110004929.html)
+### ⚖️ Amkor Technology (AMKR) 預計將從轉向先進封裝技術中受益
+- **題材**: `半導體先進製程` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-07-06T00:15:53Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Amkor Technology Inc.（納斯達克股票代碼：AMKR）是 BlackRock 目前最重要的 30 檔人工智慧股票之一。在 6 月 25 日的報告中，B. Riley 強調 Amkor 擅長...
+- [原文連結](https://finance.yahoo.com/markets/stocks/articles/amkor-technology-amkr-expected-benefit-001553298.html)
 
 ---
 
