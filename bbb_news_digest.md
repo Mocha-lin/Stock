@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-07T04:42:56.971739+00:00
+> 更新時間：2026-07-07T08:15:33.884166+00:00
 
 ### 🚀 LandMark OptoElectronics 6 月份營收創紀錄，為 2028 年後成長擴張
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -55,12 +55,12 @@
 
 ---
 
-### ⚖️ 專訪：Qnity 台灣投資重點在於先進封裝、CPO 和冷卻
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-06-30T07:15:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 隨著台灣鞏固其在全球人工智慧硬體供應鏈中心的地位，從美國化學品巨頭杜邦公司剝離的獨立公司 Qnity 正在增加對台灣的投資。亞太區總裁 Dennis Chen 在接受 DIGITI 採訪時表示…
-- [原文連結](https://www.digitimes.com/news/a20260630PD227/packaging-investment-taiwan-cooling-cpo.html)
+### ⚖️ 隨著客製化晶片需求的成長，三星、SK 海力士和美光面臨 HBM4 競爭
+- **題材**: `HBM記憶體` | **重要性**: `68`
+- **來源**: Digitimes (2026-07-06T08:00:00Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 全球高頻寬記憶體市場預計將於 2026 年下半年從 HBM3E 轉向 HBM4，三星電子、SK 海力士和美光科技之間的市場份額爭奪將更加激烈。
+- [原文連結](https://www.digitimes.com/news/a20260706VL210/hbm4-sk-hynix-samsung-demand-market.html)
 
 ---
 
@@ -100,12 +100,30 @@
 
 ---
 
+### ⚖️ 專訪：Qnity 台灣投資重點在於先進封裝、CPO 和冷卻
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-06-30T07:15:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 隨著台灣鞏固其在全球人工智慧硬體供應鏈中心的地位，從美國化學品巨頭杜邦公司剝離的獨立公司 Qnity 正在增加對台灣的投資。亞太區總裁 Dennis Chen 在接受 DIGITI 採訪時表示…
+- [原文連結](https://www.digitimes.com/news/a20260630PD227/packaging-investment-taiwan-cooling-cpo.html)
+
+---
+
 ### ⚠️ 深入了解 DRAM 價格壟斷訴訟的歷史 — HBM 分配如何在經歷了二十年的失敗案例後發揮作用
 - **題材**: `HBM記憶體` | **重要性**: `67`
 - **來源**: Tom's Hardware UK (2026-07-03T14:13:04Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Garciaguirre v.三星案依賴 HBM 來證明聯邦法院曾兩度拒絕平行減產的協議。
 - [原文連結](https://www.tomshardware.com/pc-components/dram/samsung-sk-hynix-and-micron-face-a-third-dram-price-fixing-lawsuit)
+
+---
+
+### ⚠️ 分析-世界吸收了歷史性的伊朗戰爭石油供應損失，但庫存枯竭帶來風險
+- **題材**: `總體風險` | **重要性**: `65`
+- **來源**: Yahoo Entertainment (2026-07-06T07:39:26Z)
+- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 作者：Dmitry Zhdannikov、Robert Harvey 和 Ahmad Ghaddar 倫敦，7 月 6 日（路透社）
+- [原文連結](https://finance.yahoo.com/energy/articles/analysis-world-absorbs-historic-iran-073926094.html)
 
 ---
 
@@ -160,24 +178,6 @@
 - **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 唐納德·川普總統在他的第一次總統競選中表示，自由貿易「是對我們開國元勳的直接侮辱」。
 - [原文連結](https://www.yahoo.com/news/politics/articles/america-not-founded-tariff-men-110004929.html)
-
----
-
-### ⚖️ 據報道，三星正在洽談為 Anthropic 和 Meta 製造 2nm AI 晶片
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: SamMobile (2026-07-04T14:01:53Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 據報道，三星代工廠正在與 Anthropic 和 Meta 洽談生產人工智慧晶片。兩家公司都在開發內部人工智慧加速器，三星可以使用其尖端的 2 奈米製程技術來幫助製造這些晶片。薩…
-- [原文連結](https://www.sammobile.com/2026/07/04/samsung-talks-make-2nm-ai-chips-anthropic-meta/)
-
----
-
-### ⚖️ Nvidia 推出雙底資料中心融資計劃
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: Theregister.com (2026-07-02T21:55:31Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 還有什麼比一次性付款更好的呢？當然要付兩次錢
-- [原文連結](https://www.theregister.com/ai-and-ml/2026/07/02/nvidia-floats-double-dipping-datacenter-financing-scheme/5266184)
 
 ---
 
