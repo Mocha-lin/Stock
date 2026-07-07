@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-06T20:45:30.560735+00:00
+> 更新時間：2026-07-07T00:08:57.421743+00:00
 
 ### 🚀 台灣汽車 LED 製造商 EOI 為墨西哥人形機器人和矽光子技術做好準備
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -55,21 +55,21 @@
 
 ---
 
-### 🚀 富士康子公司 ShunSin 已確認與台積電 COUPE 合作； CPO及OCS資本支出將達新台幣50億元
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-06-29T04:11:06Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 富士康旗下的半導體封裝和測試子公司順新科技控股有限公司正在加速向共封裝光學 (CPO) 轉型。該公司最新任命前台積電高管為獨立董事...
-- [原文連結](https://www.digitimes.com/news/a20260629PD211/cpo-shunsin-packaging-tsmc-foxconn.html)
-
----
-
 ### ⚖️ Intel takes aim at TSMC's CoWoS lead with EMIB-T
 - **題材**: `半導體先進製程` | **重要性**: `68`
 - **來源**: Digitimes (2026-07-03T05:44:58Z)
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 隨著電晶體密度縮小速度放緩，晶片製造商正在依靠先進封裝來不斷提高加速器性能。今年 IEEE 電子元件和技術會議的 SemiAnalysis 綜述描述了英特爾、Marvell 等公司的轉變。
 - [原文連結](https://www.digitimes.com/news/a20260703VL207/intel-transistor-tsmc-cowos-packaging.html)
+
+---
+
+### ⚖️ 三星HBM4E良率突破70%，與SK海力士、美光的AI記憶體競爭加劇
+- **題材**: `HBM記憶體` | **重要性**: `68`
+- **來源**: Digitimes (2026-07-02T23:56:27Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 內部測試顯示，三星電子第七代高頻寬記憶體 (HBM) HBM4E 的可靠性產率超過 70%，該公司距離商業化又近了一步，從而加強了其在 AI 記憶體市場的攻勢。
+- [原文連結](https://www.digitimes.com/news/a20260702PD226/samsung-hbm-hbm4-production-yield-rate.html)
 
 ---
 
@@ -88,6 +88,15 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 隨著人工智慧需求持續推動全球半導體投資，客戶保持晶圓開工強勁，台積電正在加速推進2奈米及以下節點以及CoWoS等先進封裝技術。業內人士表示，人工智慧驅動的…
 - [原文連結](https://www.digitimes.com/news/a20260630PD235/equipment-tsmc-fuel-demand-cowos.html)
+
+---
+
+### ⚠️ 深入了解 DRAM 價格壟斷訴訟的歷史 — HBM 分配如何在經歷了二十年的失敗案例後發揮作用
+- **題材**: `HBM記憶體` | **重要性**: `67`
+- **來源**: Tom's Hardware UK (2026-07-03T14:13:04Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Garciaguirre v.三星案依賴 HBM 來證明聯邦法院曾兩度拒絕平行減產的協議。
+- [原文連結](https://www.tomshardware.com/pc-components/dram/samsung-sk-hynix-and-micron-face-a-third-dram-price-fixing-lawsuit)
 
 ---
 
@@ -145,6 +154,15 @@
 
 ---
 
+### ⚖️ Nvidia 推出雙底資料中心融資計劃
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: Theregister.com (2026-07-02T21:55:31Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 還有什麼比一次性付款更好的呢？當然要付兩次錢
+- [原文連結](https://www.theregister.com/ai-and-ml/2026/07/02/nvidia-floats-double-dipping-datacenter-financing-scheme/5266184)
+
+---
+
 ### 🚀 新澤西州成為最新通過反監管定價法的州
 - **題材**: `總體風險` | **重要性**: `60`
 - **來源**: Gizmodo.com (2026-07-02T19:55:59Z)
@@ -160,24 +178,6 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 高通最新的資料中心推動以高頻寬運算（HBC）為中心，旨在解決高頻寬記憶體（HBM）成本不斷增加的問題
 - [原文連結](https://www.techradar.com/pro/qualcomm-high-bandwidth-compute-aims-to-compete-with-high-bandwidth-flash-and-memory-by-stacking-lpddr-just-above-the-cpu-to-eliminate-hbm-tax)
-
----
-
-### 🚀 魯賓天文台開始為期十年的宇宙調查
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: Gizmodo.com (2026-07-01T16:15:47Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 魯賓將使用世界上最大的數位相機創建迄今為止最全面的宇宙記錄。
-- [原文連結](https://gizmodo.com/rubin-observatory-begins-its-10-year-survey-of-the-universe-2000780112)
-
----
-
-### ⚠️ 美光和其他記憶體製造商因價格操縱指控而被起訴。這只不過是 MU 股票的頭條風險。
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: Barchart.com (2026-06-30T20:51:10Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 美光科技、三星和 SK 海力士面臨集體訴訟，指控其合謀透過限制舊晶片的生產來操縱 DRAM 價格。
-- [原文連結](https://www.barchart.com/story/news/3063961/micron-and-other-memory-makers-are-being-sued-over-price-fixing-claims-this-is-nothing-more-than-headline-risk-for-mu-stock)
 
 ---
 
