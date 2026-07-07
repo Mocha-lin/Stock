@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-07T15:38:17.823213+00:00
+> 更新時間：2026-07-07T18:52:49.687943+00:00
 
 ### 🚀 LandMark OptoElectronics 6 月份營收創紀錄，為 2028 年後成長擴張
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -16,15 +16,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Excellence OptoElectronics Inc. (EOI) 預計，在 2025 年強勁基礎上，到 2026 年將實現兩位數增長，這得益於向北美汽車製造商強勁的汽車照明模組出貨量、新墨西哥產能以及計劃擴展到人工智慧人形機器人供應領域的支持。
 - [原文連結](https://www.digitimes.com/news/a20260701PD216/eoi-mexico-silicon-photonics-automotive-led.html)
-
----
-
-### 🚀 博通VS。 Marvell：為什麼 Broadcom 的客製化晶片主導地位會壓垮 Marvell 的高價 AI 成長
-- **題材**: `光通訊與矽光子` | **重要性**: `75`
-- **來源**: 24/7 Wall St. (2026-07-01T15:20:15Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Broadcom（納斯達克股票代碼：AVGO）和 Marvell Technology（納斯達克股票代碼：MRVL）都公佈了以客製化人工智慧晶片為中心的收益。 Broadcom reported Q2 FY2026 revenue of $22.18...
-- [原文連結](https://247wallst.com/investing/2026/07/01/broadcom-vs-marvell-why-broadcoms-custom-silicon-dominance-crushes-marvells-premium-priced-ai-growth/)
 
 ---
 
@@ -170,6 +161,15 @@ B. Riley 警告人工智慧網路扁平化可能會壓垮傳統收發器需求�
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: SK hynix announces major plan to spend $712.5 billion in its operations in South Korea, but the only detailed investments are spendings on a new NAND fab and a packaging facility.
 - [原文連結](https://www.tomshardware.com/pc-components/dram/sk-hynix-to-invest-usd712-5-billion-in-south-korean-operations-cheongju-nand-expansion-yongin-semiconductor-cluster-for-dram-detailed)
+
+---
+
+### ⚖️ 世界對「痴迷」的痴迷剛剛達到另一個重大里程碑
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Gizmodo.com (2026-07-06T18:00:35Z)
+- **AI 判讀**: 屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 柯瑞巴克 (Curry Barker) 的這部病毒式恐怖片票房剛剛突破 4 億美元大關，躋身精英榜單。
+- [原文連結](https://gizmodo.com/the-worlds-obsession-with-obsession-just-hit-another-major-milestone-2000781783)
 
 ---
 
