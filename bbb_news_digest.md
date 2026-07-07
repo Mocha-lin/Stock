@@ -1,5 +1,14 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-07T00:08:57.421743+00:00
+> 更新時間：2026-07-07T04:42:56.971739+00:00
+
+### 🚀 LandMark OptoElectronics 6 月份營收創紀錄，為 2028 年後成長擴張
+- **題材**: `光通訊與矽光子` | **重要性**: `83`
+- **來源**: Digitimes (2026-07-06T03:30:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: LandMark OptoElectronics (LMOC) 在 2026 年 6 月公佈了創紀錄的單月收入，並正在加緊擴張計劃，為 2028 年以後的需求做好準備，因為矽光子 (SiPh) 收入預計在 2026 年將增加兩倍。光通信外延…
+- [原文連結](https://www.digitimes.com/news/a20260705PD200/revenue-lmoc-2026-growth-demand.html)
+
+---
 
 ### 🚀 台灣汽車 LED 製造商 EOI 為墨西哥人形機器人和矽光子技術做好準備
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -127,6 +136,15 @@
 
 ---
 
+### ⚖️ SK海力士赴美上市 融資290億美元
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: The Times of India (2026-07-06T00:20:07Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 韓國晶片製造商 SK 海力士 (SK Hynix) 將以 290 億美元的規模在美國股市首次亮相，旨在提高其估值並與美光等競爭對手競爭。  此舉迎合了蓬勃發展的人工智慧晶片市場，該市場對儲存晶片的需求正在飆升。  此前迪…
+- [原文連結](https://economictimes.indiatimes.com/markets/us-stocks/news/sk-hynix-makes-us-debut-with-29-billion-listing/articleshow/132204990.cms)
+
+---
+
 ### ⚠️ 忘記微米？這支新的人工智慧記憶體股票可能是十年來最值得買的股票
 - **題材**: `HBM記憶體` | **重要性**: `60`
 - **來源**: 24/7 Wall St. (2026-07-05T16:13:48Z)
@@ -160,24 +178,6 @@
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 還有什麼比一次性付款更好的呢？當然要付兩次錢
 - [原文連結](https://www.theregister.com/ai-and-ml/2026/07/02/nvidia-floats-double-dipping-datacenter-financing-scheme/5266184)
-
----
-
-### 🚀 新澤西州成為最新通過反監管定價法的州
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Gizmodo.com (2026-07-02T19:55:59Z)
-- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 該立法僅適用於雜貨店，仍需州長簽署才能成為法律。
-- [原文連結](https://gizmodo.com/new-jersey-becomes-latest-state-to-pass-law-against-surveillance-pricing-2000780265)
-
----
-
-### ⚖️ 高通高頻寬運算旨在透過將 LPDDR 堆疊在 CPU 上方來“消除 HBM 稅”，從而與高頻寬快閃記憶體和記憶體競爭
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: TechRadar (2026-07-01T20:05:00Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 高通最新的資料中心推動以高頻寬運算（HBC）為中心，旨在解決高頻寬記憶體（HBM）成本不斷增加的問題
-- [原文連結](https://www.techradar.com/pro/qualcomm-high-bandwidth-compute-aims-to-compete-with-high-bandwidth-flash-and-memory-by-stacking-lpddr-just-above-the-cpu-to-eliminate-hbm-tax)
 
 ---
 
