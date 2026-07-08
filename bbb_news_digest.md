@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-07T23:57:36.330741+00:00
+> 更新時間：2026-07-08T04:10:20.267887+00:00
 
 ### 🚀 LandMark OptoElectronics 6 月份營收創紀錄，為 2028 年後成長擴張
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -19,12 +19,12 @@
 
 ---
 
-### ⚖️ Advantest和OpenLight聯手開發矽光子測試平台以實現量產
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-07-05T02:43:28Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Advantest表示，它已與OpenLight合作開發適用於大規模生產環境的可擴展矽光子（SiPh）測試解決方案。這項消息發布之際，人工智慧 (AI) 和高效能運算工作負載增加了對儲存的需求…
-- [原文連結](https://www.digitimes.com/news/a20260703PD236/advantest-siph-testing-demand-production.html)
+### 🚀 博通VS。 Marvell：為什麼 Broadcom 的客製化晶片主導地位會壓垮 Marvell 的高價 AI 成長
+- **題材**: `光通訊與矽光子` | **重要性**: `75`
+- **來源**: 24/7 Wall St. (2026-07-01T15:20:15Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Broadcom（納斯達克股票代碼：AVGO）和 Marvell Technology（納斯達克股票代碼：MRVL）都公佈了以客製化人工智慧晶片為中心的收益。 Broadcom 公佈 2026 財年第二季營收為 22.18 美元...
+- [原文連結](https://247wallst.com/investing/2026/07/01/broadcom-vs-marvell-why-broadcoms-custom-silicon-dominance-crushes-marvells-premium-priced-ai-growth/)
 
 ---
 
@@ -55,6 +55,24 @@
 
 ---
 
+### ⚖️ 隨著客製化晶片需求的成長，三星、SK 海力士和美光面臨 HBM4 競爭
+- **題材**: `HBM記憶體` | **重要性**: `68`
+- **來源**: Digitimes (2026-07-06T08:00:00Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 全球高頻寬記憶體市場預計將於 2026 年下半年從 HBM3E 轉向 HBM4，三星電子、SK 海力士和美光科技之間的市場份額爭奪將更加激烈。
+- [原文連結](https://www.digitimes.com/news/a20260706VL210/hbm4-sk-hynix-samsung-demand-market.html)
+
+---
+
+### ⚖️ Advantest和OpenLight聯手開發矽光子測試平台以實現量產
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-07-05T02:43:28Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Advantest表示，它已與OpenLight合作開發適用於大規模生產環境的可擴展矽光子（SiPh）測試解決方案。這項消息發布之際，人工智慧 (AI) 和高效能運算工作負載增加了對儲存的需求…
+- [原文連結](https://www.digitimes.com/news/a20260703PD236/advantest-siph-testing-demand-production.html)
+
+---
+
 ### ⚖️ Intel takes aim at TSMC's CoWoS lead with EMIB-T
 - **題材**: `半導體先進製程` | **重要性**: `68`
 - **來源**: Digitimes (2026-07-03T05:44:58Z)
@@ -70,15 +88,6 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 內部測試顯示，三星電子第七代高頻寬記憶體 (HBM) HBM4E 的可靠性產率超過 70%，該公司距離商業化又近了一步，從而加強了其在 AI 記憶體市場的攻勢。
 - [原文連結](https://www.digitimes.com/news/a20260702PD226/samsung-hbm-hbm4-production-yield-rate.html)
-
----
-
-### ⚖️ 專訪：Qnity 台灣投資重點在於先進封裝、CPO 和冷卻
-- **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-06-30T07:15:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 隨著台灣鞏固其在全球人工智慧硬體供應鏈中心的地位，從美國化學品巨頭杜邦公司剝離的獨立公司 Qnity 正在增加對台灣的投資。亞太區總裁 Dennis Chen 在接受 DIGITI 採訪時表示…
-- [原文連結](https://www.digitimes.com/news/a20260630PD227/packaging-investment-taiwan-cooling-cpo.html)
 
 ---
 
@@ -128,24 +137,6 @@ B. Riley 警告人工智慧網路扁平化可能會壓垮傳統收發器需求�
 
 ---
 
-### 🚀 能力光電透過 V 型槽和 MT 生產線瞄準 CPO 成長
-- **題材**: `光通訊與矽光子` | **重要性**: `63`
-- **來源**: Digitimes (2026-06-30T09:25:16Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 光學製造商能力光電科技6月29日表示，隨著該公司大力推動，其用於共封裝光學(CPO)的V型槽和機械轉移(MT)產品很可能成為繼筆電相機模組之後的第二大產品線。
-- [原文連結](https://www.digitimes.com/news/a20260630PD224/ability-enterprise-cpo-optics-ability-opto-electronics-technology-growth.html)
-
----
-
-### ⚖️ 台積電2nm、CoWoS和CoPoS廣泛提升台灣設備、材料及封裝供應商
-- **題材**: `半導體先進製程` | **重要性**: `63`
-- **來源**: Digitimes (2026-06-30T09:09:58Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 隨著人工智慧需求持續推動全球半導體投資，客戶保持晶圓開工強勁，台積電正在加速推進2奈米及以下節點以及CoWoS等先進封裝技術。業內人士表示，人工智慧驅動的…
-- [原文連結](https://www.digitimes.com/news/a20260630PD235/equipment-tsmc-fuel-demand-cowos.html)
-
----
-
 ### ⚖️ 據報道，Nvidia 的 Rubin Ultra 的 Kyber 機架推遲到 2028 年，權宜之計也因客戶的反對而被取消——分析公司 SemiAnalysis 表示 PCB 中板問題導致了推遲
 - **題材**: `AI伺服器` | **重要性**: `62`
 - **來源**: Tom's Hardware UK (2026-07-06T13:33:34Z)
@@ -179,6 +170,15 @@ B. Riley 警告人工智慧網路扁平化可能會壓垮傳統收發器需求�
 - **AI 判讀**: 屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 柯瑞巴克 (Curry Barker) 的這部病毒式恐怖片票房剛剛突破 4 億美元大關，躋身精英榜單。
 - [原文連結](https://gizmodo.com/the-worlds-obsession-with-obsession-just-hit-another-major-milestone-2000781783)
+
+---
+
+### 🚀 韓國的 590B 美元晶片賭注讓半導體 ETF 熱議，但內存週期之前已經讓信徒們傷心不已
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: 24/7 Wall St. (2026-07-06T15:00:12Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 雖然合理數量的 A.I.人們的注意力一直集中在更快、更強大的半導體處理晶片上，高頻寬記憶體 (HBM) 晶片...
+- [原文連結](https://247wallst.com/investing/2026/07/06/south-koreas-590b-chip-bet-has-semiconductor-etfs-buzzing-but-memory-cycles-have-burned-believers-before/)
 
 ---
 
