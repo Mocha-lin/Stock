@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-07-08T06:43:35.652302+00:00",
+  "generated_at": "2026-07-08T11:04:16.537680+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 73,
@@ -96,6 +96,44 @@
       "importance": 75,
       "impact": "positive",
       "timeframe": "short_to_mid_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
+      "id": "9d68a304ba8becba",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "獨家：Geckos 押注奈米銅粉和 CPO 波導以外的 AI 材料",
+      "summary": "隨著生成式人工智慧推動高效能運算（HPC）需求的快速成長，半導體產業正從製程節點競爭轉向材料競爭。 Geckos 董事長 Raymond Shen 表示，一旦晶片製造進步到 2nm，...",
+      "original_title": "Exclusive: Geckos bets on AI materials beyond nano copper powders and CPO waveguides",
+      "url": "https://www.digitimes.com/news/a20260707PD222/copper-nanomaterial-cpo-hpc-growth.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-07-07T06:46:07Z",
+      "importance": 73,
+      "impact": "positive",
+      "timeframe": "short_term",
       "tags": [
         "光通訊",
         "CPO",
@@ -529,44 +567,6 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "da9ae22cb4e898d0",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "三星、SK 海力士西南晶圓廠計畫聚焦光州矽光子學雄心",
-      "summary": "三星電子和 SK 海力士計劃在韓國西南部進行記憶體投資，主要被視為推動平衡地區發展和利用當地再生能源。",
-      "original_title": "Samsung, SK Hynix southwest fab plans put Gwangju's silicon photonics ambitions in focus",
-      "url": "https://www.digitimes.com/news/a20260701PD218/samsung-sk-hynix-siph-fab-region.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-07-01T07:31:39Z",
-      "importance": 63,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "0f214b5df47ee21a",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -638,6 +638,44 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "6e2be32105fec906",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "iPhone Air 2 電池容量可提升 11%",
+      "summary": "據報道，蘋果正在開發第二代 iPhone Air，預計將於 2027 年春季推出，蘋果的主要目標之一是提高電池壽命。我們現在有了第一個謠言，表明可能會出現什麼樣的改進。\n\n\n\n\n\n在一篇關於…的貼文中",
+      "original_title": "iPhone Air 2 Could Get an 11% Battery Capacity Boost",
+      "url": "https://www.macrumors.com/2026/07/07/iphone-air-2-battery-capacity-3500mah/",
+      "source": "MacRumors",
+      "domain": "macrumors.com",
+      "published_at": "2026-07-07T10:04:21Z",
+      "importance": 60,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "004dca80d227edae",
@@ -929,44 +967,6 @@
       "reason": "屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "f1a2d13f0cfb79b0",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "美國不是由「關稅人」建立的，與川普白宮的這幅畫相反",
-      "summary": "唐納德·川普總統在他的第一次總統競選中表示，自由貿易「是對我們開國元勳的直接侮辱」。",
-      "original_title": "America Was Not Founded by 'Tariff Men,' Contrary to This Painting in Trump's White House",
-      "url": "https://www.yahoo.com/news/politics/articles/america-not-founded-tariff-men-110004929.html",
-      "source": "Yahoo Entertainment",
-      "domain": "yahoo.com",
-      "published_at": "2026-07-05T11:00:04Z",
-      "importance": 60,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "0e30b93b9f94159c",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1187,6 +1187,44 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "da9ae22cb4e898d0",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "三星、SK 海力士西南晶圓廠計畫聚焦光州矽光子學雄心",
+      "summary": "三星電子和 SK 海力士計劃在韓國西南部進行記憶體投資，主要被視為推動平衡地區發展和利用當地再生能源。",
+      "original_title": "Samsung, SK Hynix southwest fab plans put Gwangju's silicon photonics ambitions in focus",
+      "url": "https://www.digitimes.com/news/a20260701PD218/samsung-sk-hynix-siph-fab-region.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-07-01T07:31:39Z",
+      "importance": 58,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "9a533219a7c9108d",
@@ -1569,32 +1607,32 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "c5b99b5c303e476f",
+      "id": "f1a2d13f0cfb79b0",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "Miles Fitzroy 墨爾本 比較便宜",
-      "summary": "菲茨羅伊 (Fitzroy) 的 Cheaper by Miles 有一些 Baci 包。最好的可能是深色的，重 175 克，售價 4 美元。 （他們確實有一公斤一袋，售價 18 美元，但現在已經賣完了）。他們還有 150 克焦糖杏仁…",
-      "original_title": "Cheaper By Miles Fitzroy Melbourne - Baci 175g - $4",
-      "url": "https://www.ozbargain.com.au/node/966395",
-      "source": "Ozbargain.com.au",
-      "domain": "ozbargain.com.au",
-      "published_at": "2026-07-05T08:05:12Z",
+      "theme": "總體風險",
+      "title": "美國不是由「關稅人」建立的，與川普白宮的這幅畫相反",
+      "summary": "唐納德·川普總統在他的第一次總統競選中表示，自由貿易「是對我們開國元勳的直接侮辱」。",
+      "original_title": "America Was Not Founded by 'Tariff Men,' Contrary to This Painting in Trump's White House",
+      "url": "https://www.yahoo.com/news/politics/articles/america-not-founded-tariff-men-110004929.html",
+      "source": "Yahoo Entertainment",
+      "domain": "yahoo.com",
+      "published_at": "2026-07-05T11:00:04Z",
       "importance": 55,
-      "impact": "neutral",
+      "impact": "negative",
       "timeframe": "short_term",
       "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
       ],
       "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
       ],
       "related_models": [
         "003",
@@ -1604,45 +1642,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "20ee219beddf1f09",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "據報道，三星正在洽談為 Anthropic 和 Meta 製造 2nm AI 晶片",
-      "summary": "據報道，三星代工廠正在與 Anthropic 和 Meta 洽談生產人工智慧晶片。兩家公司都在開發內部人工智慧加速器，三星可以使用其尖端的 2 奈米製程技術來幫助製造這些晶片。薩…",
-      "original_title": "Samsung reportedly in talks to make 2nm AI chips for Anthropic and Meta",
-      "url": "https://www.sammobile.com/2026/07/04/samsung-talks-make-2nm-ai-chips-anthropic-meta/",
-      "source": "SamMobile",
-      "domain": "sammobile.com",
-      "published_at": "2026-07-04T14:01:53Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "b1d6d9e3c1709f2e",
@@ -1757,44 +1757,6 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "3e51761e2d94d559",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "隨著光子學股票重置，應用光電公司暴跌 17%，相干公司和 Lumentum 下跌 10%",
-      "summary": "週四中午，一些雄心勃勃的光子學公司的股價正在下滑。應用光電（NASDAQ：AAOI）股價下跌 17%，至 114.93 美元，創最大跌幅…",
-      "original_title": "Applied Optoelectronics Plunges 17%, Coherent and Lumentum Sink 10% as Photonics Stocks Reset",
-      "url": "https://247wallst.com/investing/2026/07/02/applied-optoelectronics-plunges-17-coherent-and-lumentum-sink-10-as-photonics-stocks-reset/",
-      "source": "24/7 Wall St.",
-      "domain": "247wallst.com",
-      "published_at": "2026-07-02T17:34:11Z",
-      "importance": 55,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "352c88eb0aacfa96",
@@ -1987,18 +1949,18 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "fb24cd4546cac172",
+      "id": "c5b99b5c303e476f",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "光通訊與矽光子",
-      "title": "SuperX Partners with TFC to Build a Core Ecosystem for Global AI Optical Interconnect, with Strategic Joint Venture Fully Launched",
-      "summary": "新加坡，2026 年 7 月 1 日 /美通社/ -- 納斯達克上市的全端人工智慧基礎設施解決方案供應商 SuperX AI Technology Limited（納斯達克股票代碼：SUPX）宣布 SuperX Optical Communications Pte.有限公司是由Super…共同設立的新加坡合資企業",
-      "original_title": "SuperX Partners with TFC to Build a Core Ecosystem for Global AI Optical Interconnect, with Strategic Joint Venture Fully Launched",
-      "url": "https://www.prnewswire.com/news-releases/superx-partners-with-tfc-to-build-a-core-ecosystem-for-global-ai-optical-interconnect-with-strategic-joint-venture-fully-launched-302815757.html",
-      "source": "PRNewswire",
-      "domain": "prnewswire.com",
-      "published_at": "2026-07-01T11:00:00Z",
-      "importance": 55,
+      "title": "Miles Fitzroy 墨爾本 比較便宜",
+      "summary": "菲茨羅伊 (Fitzroy) 的 Cheaper by Miles 有一些 Baci 包。最好的可能是深色的，重 175 克，售價 4 美元。 （他們確實有一公斤一袋，售價 18 美元，但現在已經賣完了）。他們還有 150 克焦糖杏仁…",
+      "original_title": "Cheaper By Miles Fitzroy Melbourne - Baci 175g - $4",
+      "url": "https://www.ozbargain.com.au/node/966395",
+      "source": "Ozbargain.com.au",
+      "domain": "ozbargain.com.au",
+      "published_at": "2026-07-05T08:05:12Z",
+      "importance": 50,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -2023,41 +1985,6 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "cf3c129673406803",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "大型科技公司花費數十億美元不僱用員工",
-      "summary": "亞馬遜在其最新年度報告中披露了預計遣散費為 27 億美元，而英特爾和甲骨文也報告支出了 18 億美元。",
-      "original_title": "Big Tech is spending billions to not employ people",
-      "url": "https://www.businessinsider.com/how-big-tech-is-spending-billions-to-not-employ-people-2026-7#article",
-      "source": "Business Insider",
-      "domain": "businessinsider.com",
-      "published_at": "2026-07-01T09:31:01Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "c225671b906bf8e8",
@@ -2673,6 +2600,79 @@
       "source": "Business Insider",
       "domain": "businessinsider.com",
       "published_at": "2026-07-01T13:43:30Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "fb24cd4546cac172",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "SuperX Partners with TFC to Build a Core Ecosystem for Global AI Optical Interconnect, with Strategic Joint Venture Fully Launched",
+      "summary": "新加坡，2026 年 7 月 1 日 /美通社/ -- 納斯達克上市的全端人工智慧基礎設施解決方案供應商 SuperX AI Technology Limited（納斯達克股票代碼：SUPX）宣布 SuperX Optical Communications Pte.有限公司是由Super…共同設立的新加坡合資企業",
+      "original_title": "SuperX Partners with TFC to Build a Core Ecosystem for Global AI Optical Interconnect, with Strategic Joint Venture Fully Launched",
+      "url": "https://www.prnewswire.com/news-releases/superx-partners-with-tfc-to-build-a-core-ecosystem-for-global-ai-optical-interconnect-with-strategic-joint-venture-fully-launched-302815757.html",
+      "source": "PRNewswire",
+      "domain": "prnewswire.com",
+      "published_at": "2026-07-01T11:00:00Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "cf3c129673406803",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "大型科技公司花費數十億美元不僱用員工",
+      "summary": "亞馬遜在其最新年度報告中披露了預計遣散費為 27 億美元，而英特爾和甲骨文也報告支出了 18 億美元。",
+      "original_title": "Big Tech is spending billions to not employ people",
+      "url": "https://www.businessinsider.com/how-big-tech-is-spending-billions-to-not-employ-people-2026-7#article",
+      "source": "Business Insider",
+      "domain": "businessinsider.com",
+      "published_at": "2026-07-01T09:31:01Z",
       "importance": 50,
       "impact": "neutral",
       "timeframe": "short_term",
