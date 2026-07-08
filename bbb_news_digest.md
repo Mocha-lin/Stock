@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-08T15:05:27.180555+00:00
+> 更新時間：2026-07-08T18:11:39.030366+00:00
 
 ### 🚀 LandMark OptoElectronics 6 月份營收創紀錄，為 2028 年後成長擴張
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -28,12 +28,12 @@
 
 ---
 
-### 🚀 博通VS。 Marvell：為什麼 Broadcom 的客製化晶片主導地位會壓垮 Marvell 的高價 AI 成長
-- **題材**: `光通訊與矽光子` | **重要性**: `75`
-- **來源**: 24/7 Wall St. (2026-07-01T15:20:15Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Broadcom（納斯達克股票代碼：AVGO）和 Marvell Technology（納斯達克股票代碼：MRVL）都公佈了以客製化人工智慧晶片為中心的收益。 Broadcom 公佈 2026 財年第二季營收為 22.18 美元...
-- [原文連結](https://247wallst.com/investing/2026/07/01/broadcom-vs-marvell-why-broadcoms-custom-silicon-dominance-crushes-marvells-premium-priced-ai-growth/)
+### 🚀 字母表與。台積電：現在最好買什麼股票
+- **題材**: `半導體先進製程` | **重要性**: `75`
+- **來源**: 24/7 Wall St. (2026-07-07T16:15:48Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Alphabet（納斯達克股票代碼：GOOGL）和台積電（NYSE：TSM）發布了 2026 年第一季重磅報告，揭示了 AI 晶片利潤的不同途徑。一個秤...
+- [原文連結](https://247wallst.com/investing/2026/07/07/alphabet-vs-taiwan-semiconductor-what-is-the-better-stock-to-buy-right-now/)
 
 ---
 
@@ -79,6 +79,15 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 週二早盤，內存和存儲類股大幅拋售，扭轉了周一的反彈勢頭。美光科技 (NASDAQ:MU) 股價下跌 7%，至 美元...
 - [原文連結](https://247wallst.com/investing/2026/07/07/micron-sandisk-and-western-digital-sink-7-as-samsung-earnings-spark-a-memory-selloff/)
+
+---
+
+### 🚀 博通VS。 Marvell：為什麼 Broadcom 的客製化晶片主導地位會壓垮 Marvell 的高價 AI 成長
+- **題材**: `光通訊與矽光子` | **重要性**: `70`
+- **來源**: 24/7 Wall St. (2026-07-01T15:20:15Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Broadcom（納斯達克股票代碼：AVGO）和 Marvell Technology（納斯達克股票代碼：MRVL）都公佈了以客製化人工智慧晶片為中心的收益。 Broadcom 公佈 2026 財年第二季營收為 22.18 美元...
+- [原文連結](https://247wallst.com/investing/2026/07/01/broadcom-vs-marvell-why-broadcoms-custom-silicon-dominance-crushes-marvells-premium-priced-ai-growth/)
 
 ---
 
@@ -170,21 +179,6 @@ B. Riley 警告人工智慧網路扁平化可能會壓垮傳統收發器需求�
 - **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 威斯康辛州居民對微軟提起集體訴訟，指控其高性能費爾沃特人工智慧資料中心發出持續的低頻「次聲」嗡嗡聲。微軟聲稱其最近的工程工作已經完全解決了這個問題。
 - [原文連結](https://www.windowscentral.com/microsoft/microsoft-hit-with-class-action-lawsuit-over-unreasonable-and-excessive-noise-from-datacenter)
-
----
-
-### ⚖️ iPhone Air 2 電池容量可提升 11%
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: MacRumors (2026-07-07T10:04:21Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 據報道，蘋果正在開發第二代 iPhone Air，預計將於 2027 年春季推出，蘋果的主要目標之一是提高電池壽命。我們現在有了第一個謠言，表明可能會出現什麼樣的改進。
-
-
-
-
-
-在一篇關於…的貼文中
-- [原文連結](https://www.macrumors.com/2026/07/07/iphone-air-2-battery-capacity-3500mah/)
 
 ---
 
