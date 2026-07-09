@@ -1,14 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-09T15:49:53.344684+00:00
-
-### 🚀 基礎建設繁榮面臨現實檢驗，人工智慧貿易失去動力
-- **題材**: `HBM記憶體` | **重要性**: `80`
-- **來源**: CoinDesk (2026-07-07T14:17:54Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 創紀錄的盈利、日益激烈的競爭以及對人工智慧支出放緩的擔憂迫使投資者重新評估市場上最大的交易之一。
-- [原文連結](https://www.coindesk.com/markets/2026/07/07/ai-trade-loses-steam-as-infrastructure-boom-faces-reality-check)
-
----
+> 更新時間：2026-07-09T18:44:38.490464+00:00
 
 ### 🚀 Msscorps 因人工智慧和晶片測試需求而創下第二季營收紀錄
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -91,15 +82,6 @@
 
 ---
 
-### 🚀 三星財報引發記憶體拋售，美光、閃迪和西部數據股價下跌 7%
-- **題材**: `HBM記憶體` | **重要性**: `70`
-- **來源**: 24/7 Wall St. (2026-07-07T13:41:46Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 週二早盤，內存和存儲類股大幅拋售，扭轉了周一的反彈勢頭。美光科技 (NASDAQ:MU) 股價下跌 7%，至 美元...
-- [原文連結](https://247wallst.com/investing/2026/07/07/micron-sandisk-and-western-digital-sink-7-as-samsung-earnings-spark-a-memory-selloff/)
-
----
-
 ### ⚖️ Advantest和OpenLight聯手開發矽光子測試平台以實現量產
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
 - **來源**: Digitimes (2026-07-05T02:43:28Z)
@@ -124,6 +106,15 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 內部測試顯示，三星電子第七代高頻寬記憶體 (HBM) HBM4E 的可靠性產率超過 70%，該公司距離商業化又近了一步，從而加強了其在 AI 記憶體市場的攻勢。
 - [原文連結](https://www.digitimes.com/news/a20260702PD226/samsung-hbm-hbm4-production-yield-rate.html)
+
+---
+
+### ⚖️ Rapidus 晶圓廠路線圖經過審查——幾十年來第一家新的領先晶片製造商擁有一座北海道晶圓廠，截止日期為 2027 年，擁有 60 個潛在客戶
+- **題材**: `半導體先進製程` | **重要性**: `67`
+- **來源**: Tom's Hardware UK (2026-07-08T16:29:26Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 日本的全國冠軍擁有 EUV 運行和 2nm GAA 原型，但仍然缺乏一個承諾的批量客戶。
+- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/rapidus-fab-roadmap-examined)
 
 ---
 
@@ -154,6 +145,15 @@
 
 ---
 
+### 🚀 索尼帶回超級變焦 RX10，堆疊感測器和高價
+- **題材**: `總體風險` | **重要性**: `63`
+- **來源**: The Verge (2026-07-08T17:00:36Z)
+- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 索尼在車型之間時隔近九年後，重新推出了 RX10 超級變焦相機。新發布的 RX10 V 保留了與前兩款相同的 24-600mm 等效 f/2.4-4 Zeiss Vario-Sonnar 25 倍變焦鏡頭，但它還有很多升級…
+- [原文連結](https://www.theverge.com/tech/962439/sony-rx10v-superzoom-camera-price-specs-hands-on)
+
+---
+
 ### ⚖️ 京東方瞄準AI封裝Micro LED光學互連與玻璃基板CPO
 - **題材**: `光通訊與矽光子` | **重要性**: `63`
 - **來源**: Digitimes (2026-07-03T04:48:50Z)
@@ -163,12 +163,12 @@
 
 ---
 
-### ⚖️ SK海力士將在韓國業務投資7125億美元——清州NAND擴張、龍仁半導體DRAM集群詳細信息
-- **題材**: `HBM記憶體` | **重要性**: `62`
-- **來源**: Tom's Hardware UK (2026-07-02T16:28:35Z)
+### ⚖️ 華爾街內部人士稱 SK 海力士 IPO 可能會壓倒市場。這是內存股票以外的風險。
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: 24/7 Wall St. (2026-07-08T16:17:13Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: SK hynix announces major plan to spend $712.5 billion in its operations in South Korea, but the only detailed investments are spendings on a new NAND fab and a packaging facility.
-- [原文連結](https://www.tomshardware.com/pc-components/dram/sk-hynix-to-invest-usd712-5-billion-in-south-korean-operations-cheongju-nand-expansion-yongin-semiconductor-cluster-for-dram-detailed)
+- **摘要**: CNBC 的 Jim Cramer 在 2026 年的大部分時間裡都在警告股市最大的短期風險在於不斷增加的 IPO 管道。他的擔憂沸騰了…
+- [原文連結](https://247wallst.com/investing/2026/07/08/wall-street-insider-says-sk-hynix-ipo-could-overwhelm-the-market-heres-the-risk-beyond-memory-stocks/)
 
 ---
 
