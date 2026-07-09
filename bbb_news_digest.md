@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-09T11:57:49.177383+00:00
+> 更新時間：2026-07-09T15:49:53.344684+00:00
 
 ### 🚀 基礎建設繁榮面臨現實檢驗，人工智慧貿易失去動力
 - **題材**: `HBM記憶體` | **重要性**: `80`
@@ -82,12 +82,12 @@
 
 ---
 
-### ⚖️ 隨著國家加強本地生產，英偉達和英特爾吹捧美國本土晶片供應鏈的實力，但差距仍然存在——隨著項目範圍和規模的擴大，關鍵的布萊克韋爾封裝步驟仍然在海外
-- **題材**: `AI伺服器` | **重要性**: `72`
-- **來源**: Tom's Hardware UK (2026-07-06T12:51:09Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 美國的人工智慧供應鏈現在開始和結束都在美國，而其最有價值的中間步驟至少在 2028 年之前仍然完全在海外。
-- [原文連結](https://www.tomshardware.com/tech-industry/nvidia-and-intel-tout-chips-built-in-america-but-every-arizona-made-blackwell-die-is-still-packaged-in-taiwan)
+### 🚀 這家被低估的 400 億美元公司已準備好起飛
+- **題材**: `光通訊與矽光子` | **重要性**: `70`
+- **來源**: 24/7 Wall St. (2026-07-08T15:27:49Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 400億美元。這是 Celestica (NYSE:CLS) 的市值，該公司最近將收入指引從 170 億美元提高到 190 億美元…
+- [原文連結](https://247wallst.com/investing/2026/07/08/this-undervalued-40-billion-company-is-ready-to-soar/)
 
 ---
 
@@ -127,21 +127,30 @@
 
 ---
 
+### ⚖️ JEDEC 發布新的 SPHBM4 標準以削減 AI 記憶體成本 - 窄 512 位元介面可以放棄用於有機基板的昂貴中介層
+- **題材**: `半導體先進製程` | **重要性**: `67`
+- **來源**: Tom's Hardware UK (2026-07-08T15:03:33Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: SPHBM4 承諾 HBM4 級頻寬，無需使用矽中介層和類似 CoWoS 的封裝。
+- [原文連結](https://www.tomshardware.com/pc-components/dram/jedec-releases-new-sphbm4-standard-to-slash-ai-memory-costs-narrow-512-bit-interface-enables-dropping-expensive-interposers-for-organic-substrates)
+
+---
+
+### ⚖️ 隨著國家加強本地生產，英偉達和英特爾吹捧美國本土晶片供應鏈的實力，但差距仍然存在——隨著項目範圍和規模的擴大，關鍵的布萊克韋爾封裝步驟仍然在海外
+- **題材**: `AI伺服器` | **重要性**: `67`
+- **來源**: Tom's Hardware UK (2026-07-06T12:51:09Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 美國的人工智慧供應鏈現在開始和結束都在美國，而其最有價值的中間步驟至少在 2028 年之前仍然完全在海外。
+- [原文連結](https://www.tomshardware.com/tech-industry/nvidia-and-intel-tout-chips-built-in-america-but-every-arizona-made-blackwell-die-is-still-packaged-in-taiwan)
+
+---
+
 ### ⚠️ 深入了解 DRAM 價格壟斷訴訟的歷史 — HBM 分配如何在經歷了二十年的失敗案例後發揮作用
 - **題材**: `HBM記憶體` | **重要性**: `67`
 - **來源**: Tom's Hardware UK (2026-07-03T14:13:04Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Garciaguirre v.三星案依賴 HBM 來證明聯邦法院曾兩度拒絕平行減產的協議。
 - [原文連結](https://www.tomshardware.com/pc-components/dram/samsung-sk-hynix-and-micron-face-a-third-dram-price-fixing-lawsuit)
-
----
-
-### ⚖️ 隨著客製化晶片需求的成長，三星、SK 海力士和美光面臨 HBM4 競爭
-- **題材**: `HBM記憶體` | **重要性**: `63`
-- **來源**: Digitimes (2026-07-06T08:00:00Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 全球高頻寬記憶體市場預計將於 2026 年下半年從 HBM3E 轉向 HBM4，三星電子、SK 海力士和美光科技之間的市場份額爭奪將更加激烈。
-- [原文連結](https://www.digitimes.com/news/a20260706VL210/hbm4-sk-hynix-samsung-demand-market.html)
 
 ---
 
@@ -154,15 +163,6 @@
 
 ---
 
-### ⚖️ 據報道，Nvidia 的 Rubin Ultra 的 Kyber 機架推遲到 2028 年，權宜之計也因客戶的反對而被取消——分析公司 SemiAnalysis 表示 PCB 中板問題導致了推遲
-- **題材**: `AI伺服器` | **重要性**: `62`
-- **來源**: Tom's Hardware UK (2026-07-06T13:33:34Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 據報導，Nvidia 直到 2028 年才會發貨其 Kyber NVL144 機架，延遲了 12 個多月。
-- [原文連結](https://www.tomshardware.com/pc-components/gpus/nvidias-kyber-rack-for-rubin-ultra-slips-to-2028)
-
----
-
 ### ⚖️ SK海力士將在韓國業務投資7125億美元——清州NAND擴張、龍仁半導體DRAM集群詳細信息
 - **題材**: `HBM記憶體` | **重要性**: `62`
 - **來源**: Tom's Hardware UK (2026-07-02T16:28:35Z)
@@ -172,12 +172,12 @@
 
 ---
 
-### ⚖️ 美光耗資 93 億美元的廣島記憶體晶片工廠破土動工
+### ⚠️ 投資人逢低買入，人工智慧內存股減少跌幅
 - **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: Naturalnews.com (2026-07-08T06:00:00Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 根據彭博社報道，美光科技於週六破土動工，其位於日本東廣島的工廠擴建工程耗資 1.5 兆日圓（93 億美元）[1]。這家總部位於愛達荷州博伊西的公司將生產用於人工智慧專業的高頻寬記憶體（HBM）晶片…
-- [原文連結](https://www.naturalnews.com/2026-07-08-micron-breaks-ground-hiroshima-memory-chip-plant.html)
+- **來源**: Yahoo Entertainment (2026-07-08T12:28:48Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 儘管整體市場下跌，但晶片股週三仍收窄跌幅。
+- [原文連結](https://finance.yahoo.com/markets/stocks/article/ai-memory-stocks-trim-losses-as-investors-buy-the-dip-122848703.html)
 
 ---
 
