@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-09T04:42:16.335635+00:00
+> 更新時間：2026-07-09T08:19:24.289037+00:00
 
 ### 🚀 基礎建設繁榮面臨現實檢驗，人工智慧貿易失去動力
 - **題材**: `HBM記憶體` | **重要性**: `80`
@@ -91,24 +91,6 @@
 
 ---
 
-### ⚖️ 閃崩還是現金？投資人不能忽視的人工智慧硬體重置
-- **題材**: `HBM記憶體` | **重要性**: `70`
-- **來源**: MarketBeat (2026-07-06T20:50:00Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 1,370 億美元的記憶體庫存拋售引發了人工智慧供應過剩的擔憂，但美光的 HBM 產能已售罄，SanDisk、西部數據和希嘉的利潤率也有所增長…
-- [原文連結](https://www.marketbeat.com/articles/flash-crash-or-cash-the-ai-hardware-reset-investors-cant-ignore/?utm_source=yahoofinance&amp;utm_medium=yahoofinance)
-
----
-
-### ⚖️ 隨著客製化晶片需求的成長，三星、SK 海力士和美光面臨 HBM4 競爭
-- **題材**: `HBM記憶體` | **重要性**: `68`
-- **來源**: Digitimes (2026-07-06T08:00:00Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 全球高頻寬記憶體市場預計將於 2026 年下半年從 HBM3E 轉向 HBM4，三星電子、SK 海力士和美光科技之間的市場份額爭奪將更加激烈。
-- [原文連結](https://www.digitimes.com/news/a20260706VL210/hbm4-sk-hynix-samsung-demand-market.html)
-
----
-
 ### ⚖️ Advantest和OpenLight聯手開發矽光子測試平台以實現量產
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
 - **來源**: Digitimes (2026-07-05T02:43:28Z)
@@ -155,12 +137,12 @@ B. Riley 警告人工智慧網路扁平化可能會壓垮傳統收發器需求�
 
 ---
 
-### ⚠️ 分析-世界吸收了歷史性的伊朗戰爭石油供應損失，但庫存枯竭帶來風險
-- **題材**: `總體風險` | **重要性**: `65`
-- **來源**: Yahoo Entertainment (2026-07-06T07:39:26Z)
-- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 作者：Dmitry Zhdannikov、Robert Harvey 和 Ahmad Ghaddar 倫敦，7 月 6 日（路透社）
-- [原文連結](https://finance.yahoo.com/energy/articles/analysis-world-absorbs-historic-iran-073926094.html)
+### ⚖️ 隨著客製化晶片需求的成長，三星、SK 海力士和美光面臨 HBM4 競爭
+- **題材**: `HBM記憶體` | **重要性**: `63`
+- **來源**: Digitimes (2026-07-06T08:00:00Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 全球高頻寬記憶體市場預計將於 2026 年下半年從 HBM3E 轉向 HBM4，三星電子、SK 海力士和美光科技之間的市場份額爭奪將更加激烈。
+- [原文連結](https://www.digitimes.com/news/a20260706VL210/hbm4-sk-hynix-samsung-demand-market.html)
 
 ---
 
@@ -179,6 +161,24 @@ B. Riley 警告人工智慧網路扁平化可能會壓垮傳統收發器需求�
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 據報導，Nvidia 直到 2028 年才會發貨其 Kyber NVL144 機架，延遲了 12 個多月。
 - [原文連結](https://www.tomshardware.com/pc-components/gpus/nvidias-kyber-rack-for-rubin-ultra-slips-to-2028)
+
+---
+
+### ⚖️ SK海力士將在韓國業務投資7125億美元——清州NAND擴張、龍仁半導體DRAM集群詳細信息
+- **題材**: `HBM記憶體` | **重要性**: `62`
+- **來源**: Tom's Hardware UK (2026-07-02T16:28:35Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: SK hynix announces major plan to spend $712.5 billion in its operations in South Korea, but the only detailed investments are spendings on a new NAND fab and a packaging facility.
+- [原文連結](https://www.tomshardware.com/pc-components/dram/sk-hynix-to-invest-usd712-5-billion-in-south-korean-operations-cheongju-nand-expansion-yongin-semiconductor-cluster-for-dram-detailed)
+
+---
+
+### ⚖️ 美光耗資 93 億美元的廣島記憶體晶片工廠破土動工
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: Naturalnews.com (2026-07-08T06:00:00Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 根據彭博社報道，美光科技於週六破土動工，其位於日本東廣島的工廠擴建工程耗資 1.5 兆日圓（93 億美元）[1]。這家總部位於愛達荷州博伊西的公司將生產用於人工智慧專業的高頻寬記憶體（HBM）晶片…
+- [原文連結](https://www.naturalnews.com/2026-07-08-micron-breaks-ground-hiroshima-memory-chip-plant.html)
 
 ---
 
