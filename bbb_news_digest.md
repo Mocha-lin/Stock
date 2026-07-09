@@ -1,14 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-09T00:10:43.881569+00:00
-
-### 🚀 LandMark OptoElectronics 6 月份營收創紀錄，為 2028 年後成長擴張
-- **題材**: `光通訊與矽光子` | **重要性**: `83`
-- **來源**: Digitimes (2026-07-06T03:30:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: LandMark OptoElectronics (LMOC) 在 2026 年 6 月公佈了創紀錄的單月收入，並正在加緊擴張計劃，為 2028 年以後的需求做好準備，因為矽光子 (SiPh) 收入預計在 2026 年將增加兩倍。光通信外延…
-- [原文連結](https://www.digitimes.com/news/a20260705PD200/revenue-lmoc-2026-growth-demand.html)
-
----
+> 更新時間：2026-07-09T04:42:16.335635+00:00
 
 ### 🚀 基礎建設繁榮面臨現實檢驗，人工智慧貿易失去動力
 - **題材**: `HBM記憶體` | **重要性**: `80`
@@ -19,12 +10,21 @@
 
 ---
 
-### 🚀 台灣汽車 LED 製造商 EOI 為墨西哥人形機器人和矽光子技術做好準備
+### 🚀 Msscorps 因人工智慧和晶片測試需求而創下第二季營收紀錄
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
-- **來源**: Digitimes (2026-07-02T03:27:05Z)
+- **來源**: Digitimes (2026-07-08T02:55:00Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Excellence OptoElectronics Inc. (EOI) 預計，在 2025 年強勁基礎上，到 2026 年將實現兩位數增長，這得益於向北美汽車製造商強勁的汽車照明模組出貨量、新墨西哥產能以及計劃擴展到人工智慧人形機器人供應領域的支持。
-- [原文連結](https://www.digitimes.com/news/a20260701PD216/eoi-mexico-silicon-photonics-automotive-led.html)
+- **摘要**: Msscorps reported record consolidated revenue in June, and for the first half of 2026, as demand from AI and semiconductor customers continued to expand. The Taiwan-based semiconductor inspection and analysis company also said on July 6 that its board had app…
+- [原文連結](https://www.digitimes.com/news/a20260706PD245/revenue-ai-chip-testing-demand-silicon.html)
+
+---
+
+### 🚀 LandMark OptoElectronics 6 月份營收創紀錄，為 2028 年後成長擴張
+- **題材**: `光通訊與矽光子` | **重要性**: `78`
+- **來源**: Digitimes (2026-07-06T03:30:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: LandMark OptoElectronics (LMOC) 在 2026 年 6 月公佈了創紀錄的單月收入，並正在加緊擴張計劃，為 2028 年以後的需求做好準備，因為矽光子 (SiPh) 收入預計在 2026 年將增加兩倍。光通信外延…
+- [原文連結](https://www.digitimes.com/news/a20260705PD200/revenue-lmoc-2026-growth-demand.html)
 
 ---
 
@@ -61,6 +61,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: DIGITIMES notes that Arista Networks unveiled XPO at The Optical Fiber Communication Conference and Exhibition 2026 (OFC 2026). Unlike CPO, which is associated with more disruptive innovation, XPO takes an engineering-led approach to improving pluggable optic…
 - [原文連結](https://www.digitimes.com/reports/item.php?id=20260622RS400)
+
+---
+
+### 🚀 台灣汽車 LED 製造商 EOI 為墨西哥人形機器人和矽光子技術做好準備
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-07-02T03:27:05Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Excellence OptoElectronics Inc. (EOI) 預計，在 2025 年強勁基礎上，到 2026 年將實現兩位數增長，這得益於向北美汽車製造商強勁的汽車照明模組出貨量、新墨西哥產能以及計劃擴展到人工智慧人形機器人供應領域的支持。
+- [原文連結](https://www.digitimes.com/news/a20260701PD216/eoi-mexico-silicon-photonics-automotive-led.html)
 
 ---
 
@@ -170,15 +179,6 @@ B. Riley 警告人工智慧網路扁平化可能會壓垮傳統收發器需求�
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 據報導，Nvidia 直到 2028 年才會發貨其 Kyber NVL144 機架，延遲了 12 個多月。
 - [原文連結](https://www.tomshardware.com/pc-components/gpus/nvidias-kyber-rack-for-rubin-ultra-slips-to-2028)
-
----
-
-### ⚖️ SK海力士將在韓國業務投資7125億美元——清州NAND擴張、龍仁半導體DRAM集群詳細信息
-- **題材**: `HBM記憶體` | **重要性**: `62`
-- **來源**: Tom's Hardware UK (2026-07-02T16:28:35Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: SK hynix announces major plan to spend $712.5 billion in its operations in South Korea, but the only detailed investments are spendings on a new NAND fab and a packaging facility.
-- [原文連結](https://www.tomshardware.com/pc-components/dram/sk-hynix-to-invest-usd712-5-billion-in-south-korean-operations-cheongju-nand-expansion-yongin-semiconductor-cluster-for-dram-detailed)
 
 ---
 
