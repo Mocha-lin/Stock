@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-10T00:05:30.776574+00:00
+> 更新時間：2026-07-10T04:43:27.063588+00:00
 
 ### 🚀 基礎建設繁榮面臨現實檢驗，人工智慧貿易失去動力
 - **題材**: `HBM記憶體` | **重要性**: `80`
@@ -64,15 +64,6 @@
 
 ---
 
-### ⚖️ 資料中心光學元件的競爭路徑：XPO 可能會在 2027 年擊敗 CPO 實現量產
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-07-03T02:24:04Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: DIGITIMES notes that Arista Networks unveiled XPO at The Optical Fiber Communication Conference and Exhibition 2026 (OFC 2026). Unlike CPO, which is associated with more disruptive innovation, XPO takes an engineering-led approach to improving pluggable optic…
-- [原文連結](https://www.digitimes.com/reports/item.php?id=20260622RS400)
-
----
-
 ### 🚀 這家被低估的 400 億美元公司已準備好起飛
 - **題材**: `光通訊與矽光子` | **重要性**: `70`
 - **來源**: 24/7 Wall St. (2026-07-08T15:27:49Z)
@@ -106,6 +97,15 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 隨著電晶體密度縮小速度放緩，晶片製造商正在依靠先進封裝來不斷提高加速器性能。今年 IEEE 電子元件和技術會議的 SemiAnalysis 綜述描述了英特爾、Marvell 等公司的轉變。
 - [原文連結](https://www.digitimes.com/news/a20260703VL207/intel-transistor-tsmc-cowos-packaging.html)
+
+---
+
+### ⚖️ 資料中心光學元件的競爭路徑：XPO 可能會在 2027 年擊敗 CPO 實現量產
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-07-03T02:24:04Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: DIGITIMES notes that Arista Networks unveiled XPO at The Optical Fiber Communication Conference and Exhibition 2026 (OFC 2026). Unlike CPO, which is associated with more disruptive innovation, XPO takes an engineering-led approach to improving pluggable optic…
+- [原文連結](https://www.digitimes.com/reports/item.php?id=20260622RS400)
 
 ---
 
