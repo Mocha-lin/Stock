@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-10T20:10:32.915041+00:00
+> 更新時間：2026-07-10T23:57:35.043542+00:00
 
 ### 🚀 Msscorps 因人工智慧和晶片測試需求而創下第二季營收紀錄
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -25,15 +25,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 在半導體股票領域，英偉達（納斯達克股票代碼：NVDA）無疑是大多數投資者密切關注的主角。也就是說，還有其他玩家...
 - [原文連結](https://247wallst.com/investing/2026/07/08/this-200-billion-semiconductor-giant-could-be-the-next-nvidia/)
-
----
-
-### 🚀 基礎建設繁榮面臨現實檢驗，人工智慧貿易失去動力
-- **題材**: `HBM記憶體` | **重要性**: `75`
-- **來源**: CoinDesk (2026-07-07T14:17:54Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 創紀錄的盈利、日益激烈的競爭以及對人工智慧支出放緩的擔憂迫使投資者重新評估市場上最大的交易之一。
-- [原文連結](https://www.coindesk.com/markets/2026/07/07/ai-trade-loses-steam-as-infrastructure-boom-faces-reality-check)
 
 ---
 
@@ -134,6 +125,15 @@ The post Tower Semiconductor ships 5 million photonic chips as AI data centers r
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 美國的人工智慧供應鏈現在開始和結束都在美國，而其最有價值的中間步驟至少在 2028 年之前仍然完全在海外。
 - [原文連結](https://www.tomshardware.com/tech-industry/nvidia-and-intel-tout-chips-built-in-america-but-every-arizona-made-blackwell-die-is-still-packaged-in-taiwan)
+
+---
+
+### 🚀 全球最大數位相機重3噸，10年內將拍攝788萬張天空照片；每個大小為 8GB，解析度為 3,200 兆像素
+- **題材**: `AI伺服器` | **重要性**: `65`
+- **來源**: TechRadar (2026-07-09T23:30:00Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 世界上最大的數位相機將反覆掃描夜空，為數十億天文發現創建前所未有的公共檔案。
+- [原文連結](https://www.techradar.com/pro/worlds-largest-digital-camera-weighs-3-tons-and-will-take-7-88-million-photos-of-the-sky-over-10-years-each-is-8gb-in-size-and-has-a-3200-megapixel-resolution)
 
 ---
 
