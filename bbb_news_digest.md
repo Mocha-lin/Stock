@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-10T18:14:33.915376+00:00
+> 更新時間：2026-07-10T20:10:32.915041+00:00
 
 ### 🚀 Msscorps 因人工智慧和晶片測試需求而創下第二季營收紀錄
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -34,6 +34,16 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 創紀錄的盈利、日益激烈的競爭以及對人工智慧支出放緩的擔憂迫使投資者重新評估市場上最大的交易之一。
 - [原文連結](https://www.coindesk.com/markets/2026/07/07/ai-trade-loses-steam-as-infrastructure-boom-faces-reality-check)
+
+---
+
+### ⚖️ 隨著人工智慧資料中心競相放棄銅，Tower Semiconductor 出貨 500 萬顆光子晶片
+- **題材**: `光通訊與矽光子` | **重要性**: `70`
+- **來源**: Crypto Briefing (2026-07-09T18:24:11Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: The shift to photonic chips in AI data centers signifies a major leap in energy efficiency and data speed, reshaping future tech infrastructure.
+The post Tower Semiconductor ships 5 million photonic chips as AI data centers race to ditch copper appeared first…
+- [原文連結](https://cryptobriefing.com/tower-semiconductor-photonics-ai-data-centers/)
 
 ---
 
@@ -175,15 +185,6 @@
 
 據法新社報道，…
 - [原文連結](https://www.macrumors.com/2026/07/09/apple-gets-boost-from-india-tariff-exemptions/)
-
----
-
-### 🚀 小米18 Pro可能是小米多年來最大的旗艦升級
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: Android Central (2026-07-09T15:06:00Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 小米 18 Pro 可配備 7,000mAh 的大電池、雙 200MP 相機和高通的下一代旗艦晶片。
-- [原文連結](https://www.androidcentral.com/phones/xiaomi/the-xiaomi-18-pro-could-be-xiaomis-biggest-flagship-upgrade-in-years)
 
 ---
 
