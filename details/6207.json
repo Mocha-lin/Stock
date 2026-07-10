@@ -1,7 +1,7 @@
 {
   "id": "6207",
   "name": "雷科",
-  "lastUpdated": "2026-07-09 18:19:41",
+  "lastUpdated": "2026-07-10 18:17:35",
   "basicInfo": {
     "price": "144.00",
     "change": "13.00",
@@ -98,6 +98,12 @@
   "ai_model": "Fact-Update",
   "financials": {
     "revenue_trend": [
+      {
+        "month": "2026/6",
+        "revenue": "0.86",
+        "mom": "-27.49",
+        "yoy": "-2.51"
+      },
       {
         "month": "2026/5",
         "revenue": "1.18",
@@ -235,12 +241,6 @@
         "revenue": "1.05",
         "mom": "5.59",
         "yoy": "-19.02"
-      },
-      {
-        "month": "2024/6",
-        "revenue": "0.99",
-        "mom": "-23.93",
-        "yoy": "28.76"
       }
     ],
     "eps_table": [
@@ -719,7 +719,7 @@
       "dataset": "structure_c_score",
       "stock_id": "6207",
       "ticker": "6207.TWO",
-      "asof": "2026-07-09",
+      "asof": "2026-07-10",
       "c_score": 2.6989049592889014,
       "benchmark_pe": 63.1954258892091,
       "source": [
@@ -983,14 +983,14 @@
         },
         {
           "period": "2021Q3",
-          "avg_price": 33.599818295445935,
+          "avg_price": 33.614958210995326,
           "eps": 0.98,
           "revenue_q": 3.2076,
-          "pe_ratio": 34.28552887290402,
+          "pe_ratio": 34.300977766321765,
           "rev_growth": null,
           "eps_growth": null,
           "rt_weight": 1.0,
-          "deviation": 0.5425318112898171,
+          "deviation": 0.5427762734989149,
           "theo_price": 61.93151737142492
         }
       ],
@@ -1026,7 +1026,7 @@
       },
       {
         "year": 2022,
-        "return_pct": -33.56643665462178,
+        "return_pct": -33.56642941072305,
         "period": "01/03~12/30"
       }
     ],
@@ -4437,7 +4437,7 @@
         "high": 144.0,
         "low": 130.5,
         "close": 144.0,
-        "volume": 8694254.0,
+        "volume": 8565649.0,
         "adjclose": 144.0,
         "dividends": 0.0,
         "MA5": 141.9,
@@ -4449,7 +4449,7 @@
         "DIF": 6.365976173320803,
         "DEA": 10.44159375009194,
         "HIST": -8.151235153542274,
-        "volume_lot": 8694.254
+        "volume_lot": 8565.649
       }
     ],
     "valuation": {
