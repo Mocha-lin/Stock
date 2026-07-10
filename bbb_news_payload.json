@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-07-10T04:43:27.063588+00:00",
+  "generated_at": "2026-07-10T08:16:05.324460+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 72,
@@ -193,56 +193,18 @@
       "reason": "屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
-      "id": "9d68a304ba8becba",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "獨家：Geckos 押注奈米銅粉和 CPO 波導以外的 AI 材料",
-      "summary": "隨著生成式人工智慧推動高效能運算（HPC）需求的快速成長，半導體產業正從製程節點競爭轉向材料競爭。 Geckos 董事長 Raymond Shen 表示，一旦晶片製造進步到 2nm，...",
-      "original_title": "Exclusive: Geckos bets on AI materials beyond nano copper powders and CPO waveguides",
-      "url": "https://www.digitimes.com/news/a20260707PD222/copper-nanomaterial-cpo-hpc-growth.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-07-07T06:46:07Z",
-      "importance": 73,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
-      "id": "3cc4a7c959830b36",
+      "id": "4856378f9a5a3fda",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "半導體先進製程",
-      "title": "台積電如何悄悄將供應鏈變成“第二艦隊”",
-      "summary": "台積電近年來加速供應鏈在地化，透過共同開發、聯合驗證和長期合作夥伴關係，幫助台灣設備、材料和化學品供應商進入先進半導體供應鏈。這 …",
-      "original_title": "How TSMC quietly turned its supply chain into a 'second fleet'",
-      "url": "https://www.digitimes.com/news/a20260703PD219/tsmc-supply-chain-equipment-development-materials.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-07-03T04:46:36Z",
-      "importance": 73,
+      "title": "由於需求超過產能，三星提高了晶片製造價格",
+      "summary": "就在幾個月前，三星還在努力為其晶片製造業務吸引客戶。據報道，現在該公司正在提高晶片生產價格，因為其製造能力受到客戶訂單激增的壓力。根據…",
+      "original_title": "Samsung raises chip manufacturing prices as demand outpaces capacity",
+      "url": "https://www.sammobile.com/news/samsung-raises-chip-manufacturing-prices-as-demand-outpaces-capacity/",
+      "source": "SamMobile",
+      "domain": "sammobile.com",
+      "published_at": "2026-07-09T07:20:23Z",
+      "importance": 70,
       "impact": "positive",
       "timeframe": "short_term",
       "tags": [
@@ -342,6 +304,79 @@
       "reason": "屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
+      "id": "bb6cb4090fb44526",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "長鑫儲存IPO將HBM移出融資名單，緩和中國AI記憶體炒作",
+      "summary": "長鑫儲存的科創板 IPO 表明，中國最大的 DRAM 製造商正在優先考慮商品內存，而不是近期積極進軍高頻寬內存 (HBM)。這緩解了人們對中國供應商即將挑戰三星電子主導地位的擔憂…",
+      "original_title": "CXMT IPO leaves HBM off the funding list, tempering China AI memory hype",
+      "url": "https://www.digitimes.com/news/a20260709VL216/cxmt-hbm-ipo-dram-funding.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-07-09T07:31:09Z",
+      "importance": 68,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "9d68a304ba8becba",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "獨家：Geckos 押注奈米銅粉和 CPO 波導以外的 AI 材料",
+      "summary": "隨著生成式人工智慧推動高效能運算（HPC）需求的快速成長，半導體產業正從製程節點競爭轉向材料競爭。 Geckos 董事長 Raymond Shen 表示，一旦晶片製造進步到 2nm，...",
+      "original_title": "Exclusive: Geckos bets on AI materials beyond nano copper powders and CPO waveguides",
+      "url": "https://www.digitimes.com/news/a20260707PD222/copper-nanomaterial-cpo-hpc-growth.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-07-07T06:46:07Z",
+      "importance": 68,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "0c8396ed0ba9613b",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -380,19 +415,19 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "1765994831e196f5",
+      "id": "3cc4a7c959830b36",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "半導體先進製程",
-      "title": "Intel takes aim at TSMC's CoWoS lead with EMIB-T",
-      "summary": "隨著電晶體密度縮小速度放緩，晶片製造商正在依靠先進封裝來不斷提高加速器性能。今年 IEEE 電子元件和技術會議的 SemiAnalysis 綜述描述了英特爾、Marvell 等公司的轉變。",
-      "original_title": "Intel takes aim at TSMC's CoWoS lead with EMIB-T",
-      "url": "https://www.digitimes.com/news/a20260703VL207/intel-transistor-tsmc-cowos-packaging.html",
+      "title": "台積電如何悄悄將供應鏈變成“第二艦隊”",
+      "summary": "台積電近年來加速供應鏈在地化，透過共同開發、聯合驗證和長期合作夥伴關係，幫助台灣設備、材料和化學品供應商進入先進半導體供應鏈。這 …",
+      "original_title": "How TSMC quietly turned its supply chain into a 'second fleet'",
+      "url": "https://www.digitimes.com/news/a20260703PD219/tsmc-supply-chain-equipment-development-materials.html",
       "source": "Digitimes",
       "domain": "digitimes.com",
-      "published_at": "2026-07-03T05:44:58Z",
+      "published_at": "2026-07-03T04:46:36Z",
       "importance": 68,
-      "impact": "neutral",
+      "impact": "positive",
       "timeframe": "short_term",
       "tags": [
         "半導體",
@@ -415,7 +450,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "4c6f62c5c0df8c88",
@@ -605,6 +640,44 @@
       "reason": "屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "10319e7a151c4169",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "聯發科鬼故事剛剛將世界上最強大的客製化矽巨頭納入 25% 折扣區",
+      "summary": "Broadcom（納斯達克股票代碼：AVGO）和 Marvell Technology（納斯達克股票代碼：MRVL）都向超大規模企業銷售客製化 AI 晶片和網路晶片。 Broadcom 股價接近 370 美元，粗略...",
+      "original_title": "The MediaTek Ghost Story Just Dropped the World’s Most Powerful Custom-Silicon Juggernaut Into a 25% Discount Zone",
+      "url": "https://247wallst.com/investing/2026/07/08/the-mediatek-ghost-story-just-dropped-the-worlds-most-powerful-custom-silicon-juggernaut-into-a-25-discount-zone/",
+      "source": "24/7 Wall St.",
+      "domain": "247wallst.com",
+      "published_at": "2026-07-08T19:36:29Z",
+      "importance": 65,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "3c0237316069b48d",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -643,32 +716,32 @@
       "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "a7d4e1ac96eede1e",
+      "id": "1765994831e196f5",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "京東方瞄準AI封裝Micro LED光學互連與玻璃基板CPO",
-      "summary": "中國領先的顯示器面板製造商京東方正在加速進軍人工智慧時代的下一代封裝技術。該公司最近透露，已組建了專門的Micro LED光學互連系統和玻璃基板專案團隊…",
-      "original_title": "BOE targets AI packaging with Micro LED optical interconnect and glass substrate CPO",
-      "url": "https://www.digitimes.com/news/a20260703PD221/boe-glass-substrate-cpo-packaging-microled.html",
+      "theme": "半導體先進製程",
+      "title": "Intel takes aim at TSMC's CoWoS lead with EMIB-T",
+      "summary": "隨著電晶體密度縮小速度放緩，晶片製造商正在依靠先進封裝來不斷提高加速器性能。今年 IEEE 電子元件和技術會議的 SemiAnalysis 綜述描述了英特爾、Marvell 等公司的轉變。",
+      "original_title": "Intel takes aim at TSMC's CoWoS lead with EMIB-T",
+      "url": "https://www.digitimes.com/news/a20260703VL207/intel-transistor-tsmc-cowos-packaging.html",
       "source": "Digitimes",
       "domain": "digitimes.com",
-      "published_at": "2026-07-03T04:48:50Z",
+      "published_at": "2026-07-03T05:44:58Z",
       "importance": 63,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
+        "半導體",
+        "CoWoS",
+        "先進製程"
       ],
       "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
       ],
       "related_models": [
         "003",
@@ -678,7 +751,83 @@
         "009",
         "010"
       ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "5d08d5820ef9d50d",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "全球能源市場如何打造「石油亞馬遜」物流以防止價格飆升",
+      "summary": "借助現代技術，國家和公司可以更輕鬆、更快速地將石油運輸轉移到熱點地區。",
+      "original_title": "How global energy markets built the ‘Amazon of oil’ logistics to keep prices from spiraling",
+      "url": "https://finance.yahoo.com/energy/articles/global-energy-markets-built-amazon-070800462.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-07-09T07:08:00Z",
+      "importance": 60,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "a1e5a349034e1c14",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "川普創造了一種「涓滴」關稅經濟，這意味著美國公司還沒有因進口稅而提高消費者價格",
+      "summary": "紐約聯邦儲備銀行發現，近一半的服務公司和製造商預計會因關稅而提高價格。",
+      "original_title": "Trump has created a ‘trickle up’ tariff economy that means U.S. companies aren’t done hiking consumer prices over import taxes",
+      "url": "https://finance.yahoo.com/economy/policy/articles/trump-created-trickle-tariff-economy-070000981.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-07-09T07:00:00Z",
+      "importance": 60,
+      "impact": "negative",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "d36e88cab6ea3efa",
@@ -822,44 +971,6 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "b6c3fbe45157df3f",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "美國打擊伊朗，油價飆升，扭轉跌勢至戰前水平",
-      "summary": "由於霍爾木茲海峽再次發生暴力事件，布蘭特原油兩週來首次升至每桶 76 美元以上。",
-      "original_title": "Oil prices surge as US strikes Iran, reversing slide to pre-war levels",
-      "url": "https://www.aljazeera.com/news/2026/7/8/oil-prices-surge-as-us-strikes-iran-reversing-fall-to-pre-war-levels",
-      "source": "Al Jazeera English",
-      "domain": "aljazeera.com",
-      "published_at": "2026-07-08T04:02:32Z",
-      "importance": 60,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "67a49ff05f5ba3e2",
@@ -1164,6 +1275,44 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "a7d4e1ac96eede1e",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "京東方瞄準AI封裝Micro LED光學互連與玻璃基板CPO",
+      "summary": "中國領先的顯示器面板製造商京東方正在加速進軍人工智慧時代的下一代封裝技術。該公司最近透露，已組建了專門的Micro LED光學互連系統和玻璃基板專案團隊…",
+      "original_title": "BOE targets AI packaging with Micro LED optical interconnect and glass substrate CPO",
+      "url": "https://www.digitimes.com/news/a20260703PD221/boe-glass-substrate-cpo-packaging-microled.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-07-03T04:48:50Z",
+      "importance": 58,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "0f214b5df47ee21a",
@@ -1540,44 +1689,6 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "56d5fbf376a0400e",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "更多的電動車充電器需要更多的變電站；政府不與 TNB、CPO 合作推進生態系統 – Sim",
-      "summary": "馬來西亞投資、貿易和工業（MITI）副部長 Sim Tze Tzin 今天在國會下議院表示，政府正在完善政策和激勵措施，以加速電動車生態系統的發展，包括在全國範圍內擴大充電設施，…",
-      "original_title": "More EV chargers require more substations; gov’t working with TNB, CPOs to advance ecosystem – Sim",
-      "url": "https://paultan.org/2026/07/08/more-ev-chargers-require-more-substations-govt-working-with-tnb-cpos-to-advance-ecosystem-sim/",
-      "source": "Paul Tan's Automotive News",
-      "domain": "paultan.org",
-      "published_at": "2026-07-08T06:35:15Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "004dca80d227edae",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1611,41 +1722,6 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "44f0d75b88ffac82",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "史上第二大股票交易週五登陸納斯達克，晶片股正在上漲",
-      "summary": "全球第二大記憶體晶片製造商 SK 海力士將於週五登陸納斯達克，其股票發售規模為多年來定價最高的一次，該公司...",
-      "original_title": "The Second-Biggest Stock Sale in History Hits the Nasdaq Friday, and Chip Stocks Are Ripping",
-      "url": "https://247wallst.com/investing/2026/07/06/the-second-biggest-stock-sale-in-history-hits-the-nasdaq-friday-and-chip-stocks-are-ripping/",
-      "source": "24/7 Wall St.",
-      "domain": "247wallst.com",
-      "published_at": "2026-07-06T18:50:36Z",
-      "importance": 55,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "b7bf70c2513f475b",
@@ -1903,44 +1979,6 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "20ee219beddf1f09",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "據報道，三星正在洽談為 Anthropic 和 Meta 製造 2nm AI 晶片",
-      "summary": "據報道，三星代工廠正在與 Anthropic 和 Meta 洽談生產人工智慧晶片。兩家公司都在開發內部人工智慧加速器，三星可以使用其尖端的 2 奈米製程技術來幫助製造這些晶片。薩…",
-      "original_title": "Samsung reportedly in talks to make 2nm AI chips for Anthropic and Meta",
-      "url": "https://www.sammobile.com/2026/07/04/samsung-talks-make-2nm-ai-chips-anthropic-meta/",
-      "source": "SamMobile",
-      "domain": "sammobile.com",
-      "published_at": "2026-07-04T14:01:53Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "b1d6d9e3c1709f2e",
@@ -2207,44 +2245,6 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "38ba0718f3f9a02e",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "「不再是金髮女孩市場」：一家華爾街公司公佈了新股票制度的投資手冊",
-      "summary": "BMO 認為新的股票制度由更高的利率、頑固的通膨壓力和更緊的流動性決定。以下是投資人需要了解的內容。",
-      "original_title": "'No longer a Goldilocks market': A Wall Street firm unveils its investing playbook for a new stock regime",
-      "url": "https://www.businessinsider.com/how-to-invest-stock-market-outlook-goldilocks-rates-inflation-2026-07",
-      "source": "Business Insider",
-      "domain": "businessinsider.com",
-      "published_at": "2026-07-06T13:59:25Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "ea55e32e555c30e7",

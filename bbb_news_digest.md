@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-10T04:43:27.063588+00:00
+> 更新時間：2026-07-10T08:16:05.324460+00:00
 
 ### 🚀 基礎建設繁榮面臨現實檢驗，人工智慧貿易失去動力
 - **題材**: `HBM記憶體` | **重要性**: `80`
@@ -46,21 +46,12 @@
 
 ---
 
-### 🚀 獨家：Geckos 押注奈米銅粉和 CPO 波導以外的 AI 材料
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-07-07T06:46:07Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 隨著生成式人工智慧推動高效能運算（HPC）需求的快速成長，半導體產業正從製程節點競爭轉向材料競爭。 Geckos 董事長 Raymond Shen 表示，一旦晶片製造進步到 2nm，...
-- [原文連結](https://www.digitimes.com/news/a20260707PD222/copper-nanomaterial-cpo-hpc-growth.html)
-
----
-
-### 🚀 台積電如何悄悄將供應鏈變成“第二艦隊”
-- **題材**: `半導體先進製程` | **重要性**: `73`
-- **來源**: Digitimes (2026-07-03T04:46:36Z)
+### 🚀 由於需求超過產能，三星提高了晶片製造價格
+- **題材**: `半導體先進製程` | **重要性**: `70`
+- **來源**: SamMobile (2026-07-09T07:20:23Z)
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 台積電近年來加速供應鏈在地化，透過共同開發、聯合驗證和長期合作夥伴關係，幫助台灣設備、材料和化學品供應商進入先進半導體供應鏈。這 …
-- [原文連結](https://www.digitimes.com/news/a20260703PD219/tsmc-supply-chain-equipment-development-materials.html)
+- **摘要**: 就在幾個月前，三星還在努力為其晶片製造業務吸引客戶。據報道，現在該公司正在提高晶片生產價格，因為其製造能力受到客戶訂單激增的壓力。根據…
+- [原文連結](https://www.sammobile.com/news/samsung-raises-chip-manufacturing-prices-as-demand-outpaces-capacity/)
 
 ---
 
@@ -82,6 +73,24 @@
 
 ---
 
+### ⚖️ 長鑫儲存IPO將HBM移出融資名單，緩和中國AI記憶體炒作
+- **題材**: `HBM記憶體` | **重要性**: `68`
+- **來源**: Digitimes (2026-07-09T07:31:09Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 長鑫儲存的科創板 IPO 表明，中國最大的 DRAM 製造商正在優先考慮商品內存，而不是近期積極進軍高頻寬內存 (HBM)。這緩解了人們對中國供應商即將挑戰三星電子主導地位的擔憂…
+- [原文連結](https://www.digitimes.com/news/a20260709VL216/cxmt-hbm-ipo-dram-funding.html)
+
+---
+
+### 🚀 獨家：Geckos 押注奈米銅粉和 CPO 波導以外的 AI 材料
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-07-07T06:46:07Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 隨著生成式人工智慧推動高效能運算（HPC）需求的快速成長，半導體產業正從製程節點競爭轉向材料競爭。 Geckos 董事長 Raymond Shen 表示，一旦晶片製造進步到 2nm，...
+- [原文連結](https://www.digitimes.com/news/a20260707PD222/copper-nanomaterial-cpo-hpc-growth.html)
+
+---
+
 ### ⚖️ Advantest和OpenLight聯手開發矽光子測試平台以實現量產
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
 - **來源**: Digitimes (2026-07-05T02:43:28Z)
@@ -91,12 +100,12 @@
 
 ---
 
-### ⚖️ Intel takes aim at TSMC's CoWoS lead with EMIB-T
+### 🚀 台積電如何悄悄將供應鏈變成“第二艦隊”
 - **題材**: `半導體先進製程` | **重要性**: `68`
-- **來源**: Digitimes (2026-07-03T05:44:58Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 隨著電晶體密度縮小速度放緩，晶片製造商正在依靠先進封裝來不斷提高加速器性能。今年 IEEE 電子元件和技術會議的 SemiAnalysis 綜述描述了英特爾、Marvell 等公司的轉變。
-- [原文連結](https://www.digitimes.com/news/a20260703VL207/intel-transistor-tsmc-cowos-packaging.html)
+- **來源**: Digitimes (2026-07-03T04:46:36Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 台積電近年來加速供應鏈在地化，透過共同開發、聯合驗證和長期合作夥伴關係，幫助台灣設備、材料和化學品供應商進入先進半導體供應鏈。這 …
+- [原文連結](https://www.digitimes.com/news/a20260703PD219/tsmc-supply-chain-equipment-development-materials.html)
 
 ---
 
@@ -145,6 +154,15 @@
 
 ---
 
+### ⚖️ 聯發科鬼故事剛剛將世界上最強大的客製化矽巨頭納入 25% 折扣區
+- **題材**: `光通訊與矽光子` | **重要性**: `65`
+- **來源**: 24/7 Wall St. (2026-07-08T19:36:29Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Broadcom（納斯達克股票代碼：AVGO）和 Marvell Technology（納斯達克股票代碼：MRVL）都向超大規模企業銷售客製化 AI 晶片和網路晶片。 Broadcom 股價接近 370 美元，粗略...
+- [原文連結](https://247wallst.com/investing/2026/07/08/the-mediatek-ghost-story-just-dropped-the-worlds-most-powerful-custom-silicon-juggernaut-into-a-25-discount-zone/)
+
+---
+
 ### 🚀 索尼帶回超級變焦 RX10，堆疊感測器和高價
 - **題材**: `總體風險` | **重要性**: `63`
 - **來源**: The Verge (2026-07-08T17:00:36Z)
@@ -154,30 +172,12 @@
 
 ---
 
-### ⚖️ 京東方瞄準AI封裝Micro LED光學互連與玻璃基板CPO
-- **題材**: `光通訊與矽光子` | **重要性**: `63`
-- **來源**: Digitimes (2026-07-03T04:48:50Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 中國領先的顯示器面板製造商京東方正在加速進軍人工智慧時代的下一代封裝技術。該公司最近透露，已組建了專門的Micro LED光學互連系統和玻璃基板專案團隊…
-- [原文連結](https://www.digitimes.com/news/a20260703PD221/boe-glass-substrate-cpo-packaging-microled.html)
-
----
-
-### ⚖️ 華爾街內部人士稱 SK 海力士 IPO 可能會壓倒市場。這是內存股票以外的風險。
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: 24/7 Wall St. (2026-07-08T16:17:13Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: CNBC 的 Jim Cramer 在 2026 年的大部分時間裡都在警告股市最大的短期風險在於不斷增加的 IPO 管道。他的擔憂沸騰了…
-- [原文連結](https://247wallst.com/investing/2026/07/08/wall-street-insider-says-sk-hynix-ipo-could-overwhelm-the-market-heres-the-risk-beyond-memory-stocks/)
-
----
-
-### ⚖️ HFCL 的新品牌 OptiQ AI 一站式提供光連接產品組合
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: BusinessLine (2026-07-08T12:54:49Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: OptiQ AI 匯集了 HFCL 成熟的資料中心光纖電纜和配件產品，包括光纖電纜組件、跳線、幹線、盒式磁帶和外殼面板
-- [原文連結](https://www.thehindubusinessline.com/info-tech/hfcls-new-brand-optiq-ai-brings-optical-connectivity-portfolio-under-one-roof/article71198198.ece)
+### ⚖️ Intel takes aim at TSMC's CoWoS lead with EMIB-T
+- **題材**: `半導體先進製程` | **重要性**: `63`
+- **來源**: Digitimes (2026-07-03T05:44:58Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 隨著電晶體密度縮小速度放緩，晶片製造商正在依靠先進封裝來不斷提高加速器性能。今年 IEEE 電子元件和技術會議的 SemiAnalysis 綜述描述了英特爾、Marvell 等公司的轉變。
+- [原文連結](https://www.digitimes.com/news/a20260703VL207/intel-transistor-tsmc-cowos-packaging.html)
 
 ---
 
