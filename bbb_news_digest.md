@@ -1,14 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-10T11:51:46.689914+00:00
-
-### 🚀 基礎建設繁榮面臨現實檢驗，人工智慧貿易失去動力
-- **題材**: `HBM記憶體` | **重要性**: `80`
-- **來源**: CoinDesk (2026-07-07T14:17:54Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 創紀錄的盈利、日益激烈的競爭以及對人工智慧支出放緩的擔憂迫使投資者重新評估市場上最大的交易之一。
-- [原文連結](https://www.coindesk.com/markets/2026/07/07/ai-trade-loses-steam-as-infrastructure-boom-faces-reality-check)
-
----
+> 更新時間：2026-07-10T15:24:32.561555+00:00
 
 ### 🚀 Msscorps 因人工智慧和晶片測試需求而創下第二季營收紀錄
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -46,6 +37,15 @@
 
 ---
 
+### 🚀 基礎建設繁榮面臨現實檢驗，人工智慧貿易失去動力
+- **題材**: `HBM記憶體` | **重要性**: `75`
+- **來源**: CoinDesk (2026-07-07T14:17:54Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 創紀錄的盈利、日益激烈的競爭以及對人工智慧支出放緩的擔憂迫使投資者重新評估市場上最大的交易之一。
+- [原文連結](https://www.coindesk.com/markets/2026/07/07/ai-trade-loses-steam-as-infrastructure-boom-faces-reality-check)
+
+---
+
 ### 🚀 由於需求超過產能，三星提高了晶片製造價格
 - **題材**: `半導體先進製程` | **重要性**: `70`
 - **來源**: SamMobile (2026-07-09T07:20:23Z)
@@ -61,24 +61,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 400億美元。這是 Celestica (NYSE:CLS) 的市值，該公司最近將收入指引從 170 億美元提高到 190 億美元…
 - [原文連結](https://247wallst.com/investing/2026/07/08/this-undervalued-40-billion-company-is-ready-to-soar/)
-
----
-
-### 🚀 三星財報引發記憶體拋售，美光、閃迪和西部數據股價下跌 7%
-- **題材**: `HBM記憶體` | **重要性**: `70`
-- **來源**: 24/7 Wall St. (2026-07-07T13:41:46Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 週二早盤，內存和存儲類股大幅拋售，扭轉了周一的反彈勢頭。美光科技 (NASDAQ:MU) 股價下跌 7%，至 美元...
-- [原文連結](https://247wallst.com/investing/2026/07/07/micron-sandisk-and-western-digital-sink-7-as-samsung-earnings-spark-a-memory-selloff/)
-
----
-
-### ⚖️ 長鑫儲存IPO將HBM移出融資名單，緩和中國AI記憶體炒作
-- **題材**: `HBM記憶體` | **重要性**: `68`
-- **來源**: Digitimes (2026-07-09T07:31:09Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 長鑫儲存的科創板 IPO 表明，中國最大的 DRAM 製造商正在優先考慮商品內存，而不是近期積極進軍高頻寬內存 (HBM)。這緩解了人們對中國供應商即將挑戰三星電子主導地位的擔憂…
-- [原文連結](https://www.digitimes.com/news/a20260709VL216/cxmt-hbm-ipo-dram-funding.html)
 
 ---
 
@@ -145,12 +127,12 @@
 
 ---
 
-### ⚠️ 深入了解 DRAM 價格壟斷訴訟的歷史 — HBM 分配如何在經歷了二十年的失敗案例後發揮作用
-- **題材**: `HBM記憶體` | **重要性**: `67`
-- **來源**: Tom's Hardware UK (2026-07-03T14:13:04Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Garciaguirre v.三星案依賴 HBM 來證明聯邦法院曾兩度拒絕平行減產的協議。
-- [原文連結](https://www.tomshardware.com/pc-components/dram/samsung-sk-hynix-and-micron-face-a-third-dram-price-fixing-lawsuit)
+### 🚀 記憶體拋售逆轉，西部數據和希捷股價飆升 7%，美光和 SanDisk 股價上漲 6%
+- **題材**: `HBM記憶體` | **重要性**: `65`
+- **來源**: 24/7 Wall St. (2026-07-09T13:15:16Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 週四上午，內存和儲存類股大幅反彈，扭轉了本週開局的不利局面。西部數據 (NASDAQ:WDC) 股價上漲 7%，至 10 美元...
+- [原文連結](https://247wallst.com/investing/2026/07/09/western-digital-and-seagate-surge-7-micron-and-sandisk-climb-6-as-memory-selloff-reverses/)
 
 ---
 
@@ -163,21 +145,39 @@
 
 ---
 
-### 🚀 索尼帶回超級變焦 RX10，堆疊感測器和高價
-- **題材**: `總體風險` | **重要性**: `63`
-- **來源**: The Verge (2026-07-08T17:00:36Z)
-- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 索尼在車型之間時隔近九年後，重新推出了 RX10 超級變焦相機。新發布的 RX10 V 保留了與前兩款相同的 24-600mm 等效 f/2.4-4 Zeiss Vario-Sonnar 25 倍變焦鏡頭，但它還有很多升級…
-- [原文連結](https://www.theverge.com/tech/962439/sony-rx10v-superzoom-camera-price-specs-hands-on)
-
----
-
 ### ⚖️ Intel takes aim at TSMC's CoWoS lead with EMIB-T
 - **題材**: `半導體先進製程` | **重要性**: `63`
 - **來源**: Digitimes (2026-07-03T05:44:58Z)
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 隨著電晶體密度縮小速度放緩，晶片製造商正在依靠先進封裝來不斷提高加速器性能。今年 IEEE 電子元件和技術會議的 SemiAnalysis 綜述描述了英特爾、Marvell 等公司的轉變。
 - [原文連結](https://www.digitimes.com/news/a20260703VL207/intel-transistor-tsmc-cowos-packaging.html)
+
+---
+
+### ⚠️ 深入了解 DRAM 價格壟斷訴訟的歷史 — HBM 分配如何在經歷了二十年的失敗案例後發揮作用
+- **題材**: `HBM記憶體` | **重要性**: `62`
+- **來源**: Tom's Hardware UK (2026-07-03T14:13:04Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Garciaguirre v.三星案依賴 HBM 來證明聯邦法院曾兩度拒絕平行減產的協議。
+- [原文連結](https://www.tomshardware.com/pc-components/dram/samsung-sk-hynix-and-micron-face-a-third-dram-price-fixing-lawsuit)
+
+---
+
+### 🚀 小米18 Pro可能是小米多年來最大的旗艦升級
+- **題材**: `半導體先進製程` | **重要性**: `60`
+- **來源**: Android Central (2026-07-09T15:06:00Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 小米 18 Pro 可配備 7,000mAh 的大電池、雙 200MP 相機和高通的下一代旗艦晶片。
+- [原文連結](https://www.androidcentral.com/phones/xiaomi/the-xiaomi-18-pro-could-be-xiaomis-biggest-flagship-upgrade-in-years)
+
+---
+
+### ⚠️ iPhone manufacturing in India gets a tariff boost
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: 9to5Mac (2026-07-09T13:32:54Z)
+- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 根據路透社報道，印度今天繼續努力成為一個更大的電子製造中心，取消了智慧型手機和其他設備中使用的部分零件的進口關稅。以下是詳細資訊。
+- [原文連結](https://9to5mac.com/2026/07/09/iphone-manufacturing-in-india-gets-a-tariff-boost/)
 
 ---
 
