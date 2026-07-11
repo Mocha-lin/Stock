@@ -1,10 +1,48 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-07-11T04:00:29.117485+00:00",
+  "generated_at": "2026-07-11T06:16:50.609828+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 71,
   "items": [
+    {
+      "id": "796ac018e6d31140",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "據報道台積電CoWoS產量到2027年將達到至少20萬片晶圓",
+      "summary": "由於供應仍然緊張，台積電正在加速先進封裝產能擴張，市場傳言其 CoWoS 月產量將在 2027 年達到至少 20 萬片晶圓。設備製造商仍在等待台積電最終確定訂單分配，…",
+      "original_title": "TSMC CoWoS output reportedly to reach at least 200K wafers in 2027",
+      "url": "https://www.digitimes.com/news/a20260710PD226/tsmc-cowos-2027-packaging-capacity.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-07-10T04:59:19Z",
+      "importance": 88,
+      "impact": "positive",
+      "timeframe": "short_to_mid_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之偏多消息。【重大事件】可能顯著影響產業評價、EPS預期或資金流向。"
+    },
     {
       "id": "35ccaea54b7d37a1",
       "dataset": "market_news",
@@ -1017,41 +1055,6 @@
       "reason": "屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "041a47afde4b8f56",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "美光耗資 93 億美元的廣島記憶體晶片工廠破土動工",
-      "summary": "根據彭博社報道，美光科技於週六破土動工，其位於日本東廣島的工廠擴建工程耗資 1.5 兆日圓（93 億美元）[1]。這家總部位於愛達荷州博伊西的公司將生產用於人工智慧專業的高頻寬記憶體（HBM）晶片…",
-      "original_title": "Micron Breaks Ground on $9.3 Billion Hiroshima Memory Chip Plant",
-      "url": "https://www.naturalnews.com/2026-07-08-micron-breaks-ground-hiroshima-memory-chip-plant.html",
-      "source": "Naturalnews.com",
-      "domain": "naturalnews.com",
-      "published_at": "2026-07-08T06:00:00Z",
-      "importance": 60,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "b0023cac5afe3fa2",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1762,6 +1765,41 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "041a47afde4b8f56",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "美光耗資 93 億美元的廣島記憶體晶片工廠破土動工",
+      "summary": "根據彭博社報道，美光科技於週六破土動工，其位於日本東廣島的工廠擴建工程耗資 1.5 兆日圓（93 億美元）[1]。這家總部位於愛達荷州博伊西的公司將生產用於人工智慧專業的高頻寬記憶體（HBM）晶片…",
+      "original_title": "Micron Breaks Ground on $9.3 Billion Hiroshima Memory Chip Plant",
+      "url": "https://www.naturalnews.com/2026-07-08-micron-breaks-ground-hiroshima-memory-chip-plant.html",
+      "source": "Naturalnews.com",
+      "domain": "naturalnews.com",
+      "published_at": "2026-07-08T06:00:00Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "3784d0f214e18be6",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2204,44 +2242,6 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "20ee219beddf1f09",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "據報道，三星正在洽談為 Anthropic 和 Meta 製造 2nm AI 晶片",
-      "summary": "據報道，三星代工廠正在與 Anthropic 和 Meta 洽談生產人工智慧晶片。兩家公司都在開發內部人工智慧加速器，三星可以使用其尖端的 2 奈米製程技術來幫助製造這些晶片。薩…",
-      "original_title": "Samsung reportedly in talks to make 2nm AI chips for Anthropic and Meta",
-      "url": "https://www.sammobile.com/2026/07/04/samsung-talks-make-2nm-ai-chips-anthropic-meta/",
-      "source": "SamMobile",
-      "domain": "sammobile.com",
-      "published_at": "2026-07-04T14:01:53Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "9a533219a7c9108d",
