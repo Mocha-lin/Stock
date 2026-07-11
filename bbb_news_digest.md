@@ -1,14 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-10T23:57:35.043542+00:00
-
-### 🚀 Msscorps 因人工智慧和晶片測試需求而創下第二季營收紀錄
-- **題材**: `光通訊與矽光子` | **重要性**: `78`
-- **來源**: Digitimes (2026-07-08T02:55:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Msscorps reported record consolidated revenue in June, and for the first half of 2026, as demand from AI and semiconductor customers continued to expand. The Taiwan-based semiconductor inspection and analysis company also said on July 6 that its board had app…
-- [原文連結](https://www.digitimes.com/news/a20260706PD245/revenue-ai-chip-testing-demand-silicon.html)
-
----
+> 更新時間：2026-07-11T04:00:29.117485+00:00
 
 ### 🚀 LandMark OptoElectronics 6 月份營收創紀錄，為 2028 年後成長擴張
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -25,6 +16,33 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 在半導體股票領域，英偉達（納斯達克股票代碼：NVDA）無疑是大多數投資者密切關注的主角。也就是說，還有其他玩家...
 - [原文連結](https://247wallst.com/investing/2026/07/08/this-200-billion-semiconductor-giant-could-be-the-next-nvidia/)
+
+---
+
+### 🚀 基礎建設繁榮面臨現實檢驗，人工智慧貿易失去動力
+- **題材**: `HBM記憶體` | **重要性**: `75`
+- **來源**: CoinDesk (2026-07-07T14:17:54Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 創紀錄的盈利、日益激烈的競爭以及對人工智慧支出放緩的擔憂迫使投資者重新評估市場上最大的交易之一。
+- [原文連結](https://www.coindesk.com/markets/2026/07/07/ai-trade-loses-steam-as-infrastructure-boom-faces-reality-check)
+
+---
+
+### ⚖️ 大立光預計將在 2026 年第三季實現可變孔徑斜坡，專注於 CPO 樣品
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-07-10T00:51:55Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 大立光電於 2026 年 7 月 9 日表示，其可變光圈鏡頭的出貨量將於第三季度開始增加，並且已收到批量客戶的共封裝光學器件 (CPO) 出貨量的正式規格，並將向…
+- [原文連結](https://www.digitimes.com/news/a20260709PD243/cpo-shipments-2026-optics-production.html)
+
+---
+
+### 🚀 Msscorps 因人工智慧和晶片測試需求而創下第二季營收紀錄
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-07-08T02:55:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Msscorps reported record consolidated revenue in June, and for the first half of 2026, as demand from AI and semiconductor customers continued to expand. The Taiwan-based semiconductor inspection and analysis company also said on July 6 that its board had app…
+- [原文連結](https://www.digitimes.com/news/a20260706PD245/revenue-ai-chip-testing-demand-silicon.html)
 
 ---
 
@@ -65,6 +83,15 @@ The post Tower Semiconductor ships 5 million photonic chips as AI data centers r
 
 ---
 
+### ⚖️ 前晶片設計師轉型為創投，對人工智慧、CPO 炒作進行現實檢驗
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-07-09T18:47:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 週三，一位資深晶片工程師轉型為風險投資家，他在台北亞洲創投峰會上利用一個小組挑戰了半導體行業最流行的兩種說法：人工智慧將解決晶片設計問題，而共封裝光學 (CPO) 已準備好…
+- [原文連結](https://www.digitimes.com/news/a20260709VL224/asia-venture-capital-ai-cpo-design-taipei.html)
+
+---
+
 ### 🚀 獨家：Geckos 押注奈米銅粉和 CPO 波導以外的 AI 材料
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
 - **來源**: Digitimes (2026-07-07T06:46:07Z)
@@ -80,24 +107,6 @@ The post Tower Semiconductor ships 5 million photonic chips as AI data centers r
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Advantest表示，它已與OpenLight合作開發適用於大規模生產環境的可擴展矽光子（SiPh）測試解決方案。這項消息發布之際，人工智慧 (AI) 和高效能運算工作負載增加了對儲存的需求…
 - [原文連結](https://www.digitimes.com/news/a20260703PD236/advantest-siph-testing-demand-production.html)
-
----
-
-### 🚀 台積電如何悄悄將供應鏈變成“第二艦隊”
-- **題材**: `半導體先進製程` | **重要性**: `68`
-- **來源**: Digitimes (2026-07-03T04:46:36Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 台積電近年來加速供應鏈在地化，透過共同開發、聯合驗證和長期合作夥伴關係，幫助台灣設備、材料和化學品供應商進入先進半導體供應鏈。這 …
-- [原文連結](https://www.digitimes.com/news/a20260703PD219/tsmc-supply-chain-equipment-development-materials.html)
-
----
-
-### ⚖️ 資料中心光學元件的競爭路徑：XPO 可能會在 2027 年擊敗 CPO 實現量產
-- **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-07-03T02:24:04Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: DIGITIMES notes that Arista Networks unveiled XPO at The Optical Fiber Communication Conference and Exhibition 2026 (OFC 2026). Unlike CPO, which is associated with more disruptive innovation, XPO takes an engineering-led approach to improving pluggable optic…
-- [原文連結](https://www.digitimes.com/reports/item.php?id=20260622RS400)
 
 ---
 
@@ -155,21 +164,12 @@ The post Tower Semiconductor ships 5 million photonic chips as AI data centers r
 
 ---
 
-### ⚖️ Intel takes aim at TSMC's CoWoS lead with EMIB-T
-- **題材**: `半導體先進製程` | **重要性**: `63`
-- **來源**: Digitimes (2026-07-03T05:44:58Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 隨著電晶體密度縮小速度放緩，晶片製造商正在依靠先進封裝來不斷提高加速器性能。今年 IEEE 電子元件和技術會議的 SemiAnalysis 綜述描述了英特爾、Marvell 等公司的轉變。
-- [原文連結](https://www.digitimes.com/news/a20260703VL207/intel-transistor-tsmc-cowos-packaging.html)
-
----
-
-### ⚠️ 深入了解 DRAM 價格壟斷訴訟的歷史 — HBM 分配如何在經歷了二十年的失敗案例後發揮作用
-- **題材**: `HBM記憶體` | **重要性**: `62`
-- **來源**: Tom's Hardware UK (2026-07-03T14:13:04Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Garciaguirre v.三星案依賴 HBM 來證明聯邦法院曾兩度拒絕平行減產的協議。
-- [原文連結](https://www.tomshardware.com/pc-components/dram/samsung-sk-hynix-and-micron-face-a-third-dram-price-fixing-lawsuit)
+### 🚀 三星財報引發記憶體拋售，美光、閃迪和西部數據股價下跌 7%
+- **題材**: `HBM記憶體` | **重要性**: `65`
+- **來源**: 24/7 Wall St. (2026-07-07T13:41:46Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 週二早盤，內存和存儲類股大幅拋售，扭轉了周一的反彈勢頭。美光科技 (NASDAQ:MU) 股價下跌 7%，至 美元...
+- [原文連結](https://247wallst.com/investing/2026/07/07/micron-sandisk-and-western-digital-sink-7-as-samsung-earnings-spark-a-memory-selloff/)
 
 ---
 
