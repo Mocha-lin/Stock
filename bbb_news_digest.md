@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-11T06:16:50.609828+00:00
+> 更新時間：2026-07-11T10:14:23.960362+00:00
 
 ### 🚀 據報道台積電CoWoS產量到2027年將達到至少20萬片晶圓
 - **題材**: `半導體先進製程` | **重要性**: `88`
@@ -25,15 +25,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 在半導體股票領域，英偉達（納斯達克股票代碼：NVDA）無疑是大多數投資者密切關注的主角。也就是說，還有其他玩家...
 - [原文連結](https://247wallst.com/investing/2026/07/08/this-200-billion-semiconductor-giant-could-be-the-next-nvidia/)
-
----
-
-### 🚀 基礎建設繁榮面臨現實檢驗，人工智慧貿易失去動力
-- **題材**: `HBM記憶體` | **重要性**: `75`
-- **來源**: CoinDesk (2026-07-07T14:17:54Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 創紀錄的盈利、日益激烈的競爭以及對人工智慧支出放緩的擔憂迫使投資者重新評估市場上最大的交易之一。
-- [原文連結](https://www.coindesk.com/markets/2026/07/07/ai-trade-loses-steam-as-infrastructure-boom-faces-reality-check)
 
 ---
 
@@ -92,6 +83,15 @@ The post Tower Semiconductor ships 5 million photonic chips as AI data centers r
 
 ---
 
+### ⚖️ 大立光將於 2026 年 7 月提供 CPO 產品樣品，著眼於 GC 優勢
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-07-10T09:20:07Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 2026年7月9日，大立光電錶示，將於7月正式開始為量產客戶提供光纖陣列（FA）產品樣品，林恩平董事長在市場關注康寧的情況下概述了公司在通用封裝光學（CPO）方面的優勢…
+- [原文連結](https://www.digitimes.com/news/a20260710PD235/largan-precision-cpo-equipment-market-production-2026.html)
+
+---
+
 ### ⚖️ 前晶片設計師轉型為創投，對人工智慧、CPO 炒作進行現實檢驗
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
 - **來源**: Digitimes (2026-07-09T18:47:00Z)
@@ -146,6 +146,15 @@ The post Tower Semiconductor ships 5 million photonic chips as AI data centers r
 
 ---
 
+### 🚀 SK 海力士將在美國首次亮相，測試人工智慧胃口
+- **題材**: `HBM記憶體` | **重要性**: `65`
+- **來源**: Yahoo Entertainment (2026-07-10T06:17:31Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 7 月 10 日（路透社）
+- [原文連結](https://finance.yahoo.com/technology/ai/articles/sk-hynix-set-marquee-us-061731678.html)
+
+---
+
 ### 🚀 全球最大數位相機重3噸，10年內將拍攝788萬張天空照片；每個大小為 8GB，解析度為 3,200 兆像素
 - **題材**: `AI伺服器` | **重要性**: `65`
 - **來源**: TechRadar (2026-07-09T23:30:00Z)
@@ -170,15 +179,6 @@ The post Tower Semiconductor ships 5 million photonic chips as AI data centers r
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Broadcom（納斯達克股票代碼：AVGO）和 Marvell Technology（納斯達克股票代碼：MRVL）都向超大規模企業銷售客製化 AI 晶片和網路晶片。 Broadcom 股價接近 370 美元，粗略...
 - [原文連結](https://247wallst.com/investing/2026/07/08/the-mediatek-ghost-story-just-dropped-the-worlds-most-powerful-custom-silicon-juggernaut-into-a-25-discount-zone/)
-
----
-
-### 🚀 三星財報引發記憶體拋售，美光、閃迪和西部數據股價下跌 7%
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: 24/7 Wall St. (2026-07-07T13:41:46Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 週二早盤，內存和存儲類股大幅拋售，扭轉了周一的反彈勢頭。美光科技 (NASDAQ:MU) 股價下跌 7%，至 美元...
-- [原文連結](https://247wallst.com/investing/2026/07/07/micron-sandisk-and-western-digital-sink-7-as-samsung-earnings-spark-a-memory-selloff/)
 
 ---
 
