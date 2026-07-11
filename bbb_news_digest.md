@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-11T14:15:37.146377+00:00
+> 更新時間：2026-07-11T15:42:00.737596+00:00
 
 ### 🚀 據報道台積電CoWoS產量到2027年將達到至少20萬片晶圓
 - **題材**: `半導體先進製程` | **重要性**: `88`
@@ -25,6 +25,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: LandMark OptoElectronics (LMOC) 在 2026 年 6 月公佈了創紀錄的單月收入，並正在加緊擴張計劃，為 2028 年以後的需求做好準備，因為矽光子 (SiPh) 收入預計在 2026 年將增加兩倍。光通信外延…
 - [原文連結](https://www.digitimes.com/news/a20260705PD200/revenue-lmoc-2026-growth-demand.html)
+
+---
+
+### 🚀 SK 海力士在具有歷史意義的美國 IPO 中籌集了創紀錄的 265 億美元——韓國內存巨頭為大規模 HBM 製造擴張提供資金
+- **題材**: `HBM記憶體` | **重要性**: `77`
+- **來源**: Tom's Hardware UK (2026-07-10T14:27:41Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: SK 海力士在創紀錄的納斯達克 IPO 中籌集了 265 億美元，該公司計劃將人工智慧需求激增和 HBM 供應售空帶來的意外收入用於資助新晶圓廠。
+- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-raises-a-record-usd26-5-billion-in-historic-u-s-ipo-south-korean-memory-giant-to-fund-massive-hbm-manufacturing-expansions)
 
 ---
 
@@ -71,15 +80,6 @@ The post Tower Semiconductor ships 5 million photonic chips as AI data centers r
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 就在幾個月前，三星還在努力為其晶片製造業務吸引客戶。據報道，現在該公司正在提高晶片生產價格，因為其製造能力受到客戶訂單激增的壓力。根據…
 - [原文連結](https://www.sammobile.com/news/samsung-raises-chip-manufacturing-prices-as-demand-outpaces-capacity/)
-
----
-
-### 🚀 這家被低估的 400 億美元公司已準備好起飛
-- **題材**: `光通訊與矽光子` | **重要性**: `70`
-- **來源**: 24/7 Wall St. (2026-07-08T15:27:49Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 400億美元。這是 Celestica (NYSE:CLS) 的市值，該公司最近將收入指引從 170 億美元提高到 190 億美元…
-- [原文連結](https://247wallst.com/investing/2026/07/08/this-undervalued-40-billion-company-is-ready-to-soar/)
 
 ---
 
@@ -155,15 +155,6 @@ The post Tower Semiconductor ships 5 million photonic chips as AI data centers r
 
 ---
 
-### ⚖️ JEDEC 發布新的 SPHBM4 標準以削減 AI 記憶體成本 - 窄 512 位元介面可以放棄用於有機基板的昂貴中介層
-- **題材**: `半導體先進製程` | **重要性**: `67`
-- **來源**: Tom's Hardware UK (2026-07-08T15:03:33Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: SPHBM4 承諾 HBM4 級頻寬，無需使用矽中介層和類似 CoWoS 的封裝。
-- [原文連結](https://www.tomshardware.com/pc-components/dram/jedec-releases-new-sphbm4-standard-to-slash-ai-memory-costs-narrow-512-bit-interface-enables-dropping-expensive-interposers-for-organic-substrates)
-
----
-
 ### ⚖️ 隨著國家加強本地生產，英偉達和英特爾吹捧美國本土晶片供應鏈的實力，但差距仍然存在——隨著項目範圍和規模的擴大，關鍵的布萊克韋爾封裝步驟仍然在海外
 - **題材**: `AI伺服器` | **重要性**: `67`
 - **來源**: Tom's Hardware UK (2026-07-06T12:51:09Z)
@@ -179,6 +170,15 @@ The post Tower Semiconductor ships 5 million photonic chips as AI data centers r
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 7 月 10 日（路透社）
 - [原文連結](https://finance.yahoo.com/technology/ai/articles/sk-hynix-set-marquee-us-061731678.html)
+
+---
+
+### 🚀 全球最大數位相機重3噸，10年內將拍攝788萬張天空照片；每個大小為 8GB，解析度為 3,200 兆像素
+- **題材**: `AI伺服器` | **重要性**: `65`
+- **來源**: TechRadar (2026-07-09T23:30:00Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 世界上最大的數位相機將反覆掃描夜空，為數十億天文發現創建前所未有的公共檔案。
+- [原文連結](https://www.techradar.com/pro/worlds-largest-digital-camera-weighs-3-tons-and-will-take-7-88-million-photos-of-the-sky-over-10-years-each-is-8gb-in-size-and-has-a-3200-megapixel-resolution)
 
 ---
 
