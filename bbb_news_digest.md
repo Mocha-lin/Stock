@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-11T10:14:23.960362+00:00
+> 更新時間：2026-07-11T14:15:37.146377+00:00
 
 ### 🚀 據報道台積電CoWoS產量到2027年將達到至少20萬片晶圓
 - **題材**: `半導體先進製程` | **重要性**: `88`
@@ -10,21 +10,21 @@
 
 ---
 
+### 🚀 由於 DRAM 價格將毛利率推至 79.5%，南亞科將於 2027 年將資本支出增加四倍至 62 億美元——隨著內存平均售價持續飆升，第二季度收入猛增
+- **題材**: `HBM記憶體` | **重要性**: `82`
+- **來源**: Tom's Hardware UK (2026-07-10T13:31:21Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 南亞科技計畫到 2027 年資本支出超過 2,000 億新台幣（62 億美元），大約是今年預算的四倍。
+- [原文連結](https://www.tomshardware.com/tech-industry/nanya-to-quadruple-capital-spending-to-6-2-billion-in-2027)
+
+---
+
 ### 🚀 LandMark OptoElectronics 6 月份營收創紀錄，為 2028 年後成長擴張
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
 - **來源**: Digitimes (2026-07-06T03:30:00Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: LandMark OptoElectronics (LMOC) 在 2026 年 6 月公佈了創紀錄的單月收入，並正在加緊擴張計劃，為 2028 年以後的需求做好準備，因為矽光子 (SiPh) 收入預計在 2026 年將增加兩倍。光通信外延…
 - [原文連結](https://www.digitimes.com/news/a20260705PD200/revenue-lmoc-2026-growth-demand.html)
-
----
-
-### 🚀 這家價值 2000 億美元的半導體巨頭可能成為下一個 Nvidia
-- **題材**: `光通訊與矽光子` | **重要性**: `75`
-- **來源**: 24/7 Wall St. (2026-07-08T11:45:45Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 在半導體股票領域，英偉達（納斯達克股票代碼：NVDA）無疑是大多數投資者密切關注的主角。也就是說，還有其他玩家...
-- [原文連結](https://247wallst.com/investing/2026/07/08/this-200-billion-semiconductor-giant-could-be-the-next-nvidia/)
 
 ---
 
@@ -43,6 +43,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Msscorps reported record consolidated revenue in June, and for the first half of 2026, as demand from AI and semiconductor customers continued to expand. The Taiwan-based semiconductor inspection and analysis company also said on July 6 that its board had app…
 - [原文連結](https://www.digitimes.com/news/a20260706PD245/revenue-ai-chip-testing-demand-silicon.html)
+
+---
+
+### 🚀 記憶體市場專家：「SK 海力士更大、更便宜、更接近 NVIDIA。」265 億美元納斯達克首秀內幕
+- **題材**: `HBM記憶體` | **重要性**: `70`
+- **來源**: 24/7 Wall St. (2026-07-10T13:57:09Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: SK 海力士剛剛完成了歷史上最大的股票銷售之一，一位內存市場專家表示，美國投資者一直錯過了最關鍵的一個...
+- [原文連結](https://247wallst.com/investing/2026/07/10/memory-market-expert-sk-hynix-is-bigger-cheaper-and-closer-to-nvidia-inside-its-26-5-billion-nasdaq-debut/)
 
 ---
 
@@ -71,6 +80,15 @@ The post Tower Semiconductor ships 5 million photonic chips as AI data centers r
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 400億美元。這是 Celestica (NYSE:CLS) 的市值，該公司最近將收入指引從 170 億美元提高到 190 億美元…
 - [原文連結](https://247wallst.com/investing/2026/07/08/this-undervalued-40-billion-company-is-ready-to-soar/)
+
+---
+
+### 🚀 這家價值 2000 億美元的半導體巨頭可能成為下一個 Nvidia
+- **題材**: `光通訊與矽光子` | **重要性**: `70`
+- **來源**: 24/7 Wall St. (2026-07-08T11:45:45Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 在半導體股票領域，英偉達（納斯達克股票代碼：NVDA）無疑是大多數投資者密切關注的主角。也就是說，還有其他玩家...
+- [原文連結](https://247wallst.com/investing/2026/07/08/this-200-billion-semiconductor-giant-could-be-the-next-nvidia/)
 
 ---
 
@@ -119,6 +137,15 @@ The post Tower Semiconductor ships 5 million photonic chips as AI data centers r
 
 ---
 
+### ⚖️ 日本晶片製造商 Rapidus 的晶圓定價將低於台積電——2027 年推出的 2nm 級矽片定價約為 2 萬美元
+- **題材**: `半導體先進製程` | **重要性**: `67`
+- **來源**: Tom's Hardware UK (2026-07-10T12:56:48Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 日本晶片製造商Rapidus透露了其策略的另一方面：提供比台積電更低的報價。
+- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/japanese-chipmaker-rapidus-to-offer-lower-wafer-pricing-than-tsmc-2nm-class-silicon-to-be-priced-around-usd20-000-on-2027-launch)
+
+---
+
 ### ⚖️ Rapidus 晶圓廠路線圖經過審查——幾十年來第一家新的領先晶片製造商擁有一座北海道晶圓廠，截止日期為 2027 年，擁有 60 個潛在客戶
 - **題材**: `半導體先進製程` | **重要性**: `67`
 - **來源**: Tom's Hardware UK (2026-07-08T16:29:26Z)
@@ -152,33 +179,6 @@ The post Tower Semiconductor ships 5 million photonic chips as AI data centers r
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 7 月 10 日（路透社）
 - [原文連結](https://finance.yahoo.com/technology/ai/articles/sk-hynix-set-marquee-us-061731678.html)
-
----
-
-### 🚀 全球最大數位相機重3噸，10年內將拍攝788萬張天空照片；每個大小為 8GB，解析度為 3,200 兆像素
-- **題材**: `AI伺服器` | **重要性**: `65`
-- **來源**: TechRadar (2026-07-09T23:30:00Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 世界上最大的數位相機將反覆掃描夜空，為數十億天文發現創建前所未有的公共檔案。
-- [原文連結](https://www.techradar.com/pro/worlds-largest-digital-camera-weighs-3-tons-and-will-take-7-88-million-photos-of-the-sky-over-10-years-each-is-8gb-in-size-and-has-a-3200-megapixel-resolution)
-
----
-
-### 🚀 記憶體拋售逆轉，西部數據和希捷股價飆升 7%，美光和 SanDisk 股價上漲 6%
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: 24/7 Wall St. (2026-07-09T13:15:16Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 週四上午，內存和儲存類股大幅反彈，扭轉了本週開局的不利局面。西部數據 (NASDAQ:WDC) 股價上漲 7%，至 10 美元...
-- [原文連結](https://247wallst.com/investing/2026/07/09/western-digital-and-seagate-surge-7-micron-and-sandisk-climb-6-as-memory-selloff-reverses/)
-
----
-
-### ⚖️ 聯發科鬼故事剛剛將世界上最強大的客製化矽巨頭納入 25% 折扣區
-- **題材**: `光通訊與矽光子` | **重要性**: `65`
-- **來源**: 24/7 Wall St. (2026-07-08T19:36:29Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Broadcom（納斯達克股票代碼：AVGO）和 Marvell Technology（納斯達克股票代碼：MRVL）都向超大規模企業銷售客製化 AI 晶片和網路晶片。 Broadcom 股價接近 370 美元，粗略...
-- [原文連結](https://247wallst.com/investing/2026/07/08/the-mediatek-ghost-story-just-dropped-the-worlds-most-powerful-custom-silicon-juggernaut-into-a-25-discount-zone/)
 
 ---
 
