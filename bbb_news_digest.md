@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-12T17:46:52.618180+00:00
+> 更新時間：2026-07-12T19:58:22.117377+00:00
 
 ### 🚀 據報道台積電CoWoS產量到2027年將達到至少20萬片晶圓
 - **題材**: `半導體先進製程` | **重要性**: `88`
@@ -82,16 +82,6 @@
 
 ---
 
-### ⚖️ 隨著人工智慧資料中心競相放棄銅，Tower Semiconductor 出貨 500 萬顆光子晶片
-- **題材**: `光通訊與矽光子` | **重要性**: `70`
-- **來源**: Crypto Briefing (2026-07-09T18:24:11Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: The shift to photonic chips in AI data centers signifies a major leap in energy efficiency and data speed, reshaping future tech infrastructure.
-The post Tower Semiconductor ships 5 million photonic chips as AI data centers race to ditch copper appeared first…
-- [原文連結](https://cryptobriefing.com/tower-semiconductor-photonics-ai-data-centers/)
-
----
-
 ### 🚀 這家價值 2000 億美元的半導體巨頭可能成為下一個 Nvidia
 - **題材**: `光通訊與矽光子` | **重要性**: `70`
 - **來源**: 24/7 Wall St. (2026-07-08T11:45:45Z)
@@ -152,6 +142,16 @@ The post Tower Semiconductor ships 5 million photonic chips as AI data centers r
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 世界上最大的數位相機將反覆掃描夜空，為數十億天文發現創建前所未有的公共檔案。
 - [原文連結](https://www.techradar.com/pro/worlds-largest-digital-camera-weighs-3-tons-and-will-take-7-88-million-photos-of-the-sky-over-10-years-each-is-8gb-in-size-and-has-a-3200-megapixel-resolution)
+
+---
+
+### ⚖️ 隨著人工智慧資料中心競相放棄銅，Tower Semiconductor 出貨 500 萬顆光子晶片
+- **題材**: `光通訊與矽光子` | **重要性**: `65`
+- **來源**: Crypto Briefing (2026-07-09T18:24:11Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: The shift to photonic chips in AI data centers signifies a major leap in energy efficiency and data speed, reshaping future tech infrastructure.
+The post Tower Semiconductor ships 5 million photonic chips as AI data centers race to ditch copper appeared first…
+- [原文連結](https://cryptobriefing.com/tower-semiconductor-photonics-ai-data-centers/)
 
 ---
 
