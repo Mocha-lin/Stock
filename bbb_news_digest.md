@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-12T07:07:16.565699+00:00
+> 更新時間：2026-07-12T10:27:48.866425+00:00
 
 ### 🚀 據報道台積電CoWoS產量到2027年將達到至少20萬片晶圓
 - **題材**: `半導體先進製程` | **重要性**: `88`
@@ -62,15 +62,6 @@
 - **摘要**: The shift to photonic chips in AI data centers signifies a major leap in energy efficiency and data speed, reshaping future tech infrastructure.
 The post Tower Semiconductor ships 5 million photonic chips as AI data centers race to ditch copper appeared first…
 - [原文連結](https://cryptobriefing.com/tower-semiconductor-photonics-ai-data-centers/)
-
----
-
-### 🚀 由於需求超過產能，三星提高了晶片製造價格
-- **題材**: `半導體先進製程` | **重要性**: `70`
-- **來源**: SamMobile (2026-07-09T07:20:23Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 就在幾個月前，三星還在努力為其晶片製造業務吸引客戶。據報道，現在該公司正在提高晶片生產價格，因為其製造能力受到客戶訂單激增的壓力。根據…
-- [原文連結](https://www.sammobile.com/news/samsung-raises-chip-manufacturing-prices-as-demand-outpaces-capacity/)
 
 ---
 
@@ -152,6 +143,15 @@ The post Tower Semiconductor ships 5 million photonic chips as AI data centers r
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 世界上最大的數位相機將反覆掃描夜空，為數十億天文發現創建前所未有的公共檔案。
 - [原文連結](https://www.techradar.com/pro/worlds-largest-digital-camera-weighs-3-tons-and-will-take-7-88-million-photos-of-the-sky-over-10-years-each-is-8gb-in-size-and-has-a-3200-megapixel-resolution)
+
+---
+
+### 🚀 由於需求超過產能，三星提高了晶片製造價格
+- **題材**: `半導體先進製程` | **重要性**: `65`
+- **來源**: SamMobile (2026-07-09T07:20:23Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 就在幾個月前，三星還在努力為其晶片製造業務吸引客戶。據報道，現在該公司正在提高晶片生產價格，因為其製造能力受到客戶訂單激增的壓力。根據…
+- [原文連結](https://www.sammobile.com/news/samsung-raises-chip-manufacturing-prices-as-demand-outpaces-capacity/)
 
 ---
 
