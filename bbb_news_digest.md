@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-12T15:45:06.945010+00:00
+> 更新時間：2026-07-12T17:46:52.618180+00:00
 
 ### 🚀 據報道台積電CoWoS產量到2027年將達到至少20萬片晶圓
 - **題材**: `半導體先進製程` | **重要性**: `88`
@@ -61,6 +61,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Msscorps reported record consolidated revenue in June, and for the first half of 2026, as demand from AI and semiconductor customers continued to expand. The Taiwan-based semiconductor inspection and analysis company also said on July 6 that its board had app…
 - [原文連結](https://www.digitimes.com/news/a20260706PD245/revenue-ai-chip-testing-demand-silicon.html)
+
+---
+
+### 🚀 Nvidia、CoreWeave 和 Nebius：GPU 繁榮的循環融資內部
+- **題材**: `AI伺服器` | **重要性**: `70`
+- **來源**: Io-fund.com (2026-07-11T17:21:49Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Neoclouds 是備受爭議的人工智慧商業模式之一，CoreWeave 和 Nebius 是兩個最廣泛認可的名字。這些公司的銷售額、積壓訂單和股價都在飆升。然而，支持他們的成長是極其昂貴的，...
+- [原文連結](https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom)
 
 ---
 
@@ -170,15 +179,6 @@ The post Tower Semiconductor ships 5 million photonic chips as AI data centers r
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Advantest表示，它已與OpenLight合作開發適用於大規模生產環境的可擴展矽光子（SiPh）測試解決方案。這項消息發布之際，人工智慧 (AI) 和高效能運算工作負載增加了對儲存的需求…
 - [原文連結](https://www.digitimes.com/news/a20260703PD236/advantest-siph-testing-demand-production.html)
-
----
-
-### ⚖️ Rapidus 晶圓廠路線圖經過審查——幾十年來第一家新的領先晶片製造商擁有一座北海道晶圓廠，截止日期為 2027 年，擁有 60 個潛在客戶
-- **題材**: `半導體先進製程` | **重要性**: `62`
-- **來源**: Tom's Hardware UK (2026-07-08T16:29:26Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 日本的全國冠軍擁有 EUV 運行和 2nm GAA 原型，但仍然缺乏一個承諾的批量客戶。
-- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/rapidus-fab-roadmap-examined)
 
 ---
 

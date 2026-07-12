@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-07-12T15:45:06.945010+00:00",
+  "generated_at": "2026-07-12T17:46:52.618180+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 72,
@@ -267,6 +267,44 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
+      "id": "f069ed43e2078752",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Nvidia、CoreWeave 和 Nebius：GPU 繁榮的循環融資內部",
+      "summary": "Neoclouds 是備受爭議的人工智慧商業模式之一，CoreWeave 和 Nebius 是兩個最廣泛認可的名字。這些公司的銷售額、積壓訂單和股價都在飆升。然而，支持他們的成長是極其昂貴的，...",
+      "original_title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
+      "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
+      "source": "Io-fund.com",
+      "domain": "io-fund.com",
+      "published_at": "2026-07-11T17:21:49Z",
+      "importance": 70,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "98fa2576d994c7e7",
@@ -865,44 +903,6 @@
       "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "218d6d565504adf5",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "蘋果在印度的製造業務因新關稅豁免而得到提振",
-      "summary": "蘋果將從印度決定取消智慧型手機製造中使用的一系列零件的進口關稅中受益，此舉可能會進一步降低該公司快速成長的印度供應鏈的成本。\n\n\n\n\n\n據法新社報道，…",
-      "original_title": "Apple's Manufacturing in India Gets Boost From New Tariff Exemptions",
-      "url": "https://www.macrumors.com/2026/07/09/apple-gets-boost-from-india-tariff-exemptions/",
-      "source": "MacRumors",
-      "domain": "macrumors.com",
-      "published_at": "2026-07-09T16:06:08Z",
-      "importance": 60,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "10319e7a151c4169",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1201,32 +1201,32 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "909db7c84bf508f7",
+      "id": "218d6d565504adf5",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "據報道，iPhone 18 Pro Max 零件成本可能上漲近 300 美元",
-      "summary": "Counterpoint Research 发布了 iPhone 18 Pro Max 材料清单的新估算，表明苹果下一代旗舰产品的制造成本可能比当前型号高得多。以下是詳細資訊。",
-      "original_title": "iPhone 18 Pro Max component costs could jump by nearly $300, per report",
-      "url": "https://9to5mac.com/2026/07/09/iphone-18-pro-max-component-costs-could-jump-by-nearly-300-per-report/",
-      "source": "9to5Mac",
-      "domain": "9to5mac.com",
-      "published_at": "2026-07-09T15:58:43Z",
+      "theme": "總體風險",
+      "title": "蘋果在印度的製造業務因新關稅豁免而得到提振",
+      "summary": "蘋果將從印度決定取消智慧型手機製造中使用的一系列零件的進口關稅中受益，此舉可能會進一步降低該公司快速成長的印度供應鏈的成本。\n\n\n\n\n\n據法新社報道，…",
+      "original_title": "Apple's Manufacturing in India Gets Boost From New Tariff Exemptions",
+      "url": "https://www.macrumors.com/2026/07/09/apple-gets-boost-from-india-tariff-exemptions/",
+      "source": "MacRumors",
+      "domain": "macrumors.com",
+      "published_at": "2026-07-09T16:06:08Z",
       "importance": 55,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
       ],
       "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
       ],
       "related_models": [
         "003",
@@ -1236,7 +1236,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "2a37bd73547ef702",
@@ -1797,29 +1797,32 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "b310dc89605c3dd7",
+      "id": "909db7c84bf508f7",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "忘記微米？這支新的人工智慧記憶體股票可能是十年來最值得買的股票",
-      "summary": "人工智慧創造了不乏投資機會，但也暴露出一個又一個瓶頸。首先是 GPU。然後沒...",
-      "original_title": "Forget Micron? This New AI Memory Stock Could Be the Best Buy of the Decade",
-      "url": "https://247wallst.com/investing/2026/07/05/forget-micron-this-new-ai-memory-stock-could-be-the-best-buy-of-the-decade/",
-      "source": "24/7 Wall St.",
-      "domain": "247wallst.com",
-      "published_at": "2026-07-05T16:13:48Z",
-      "importance": 55,
-      "impact": "negative",
+      "theme": "半導體先進製程",
+      "title": "據報道，iPhone 18 Pro Max 零件成本可能上漲近 300 美元",
+      "summary": "Counterpoint Research 发布了 iPhone 18 Pro Max 材料清单的新估算，表明苹果下一代旗舰产品的制造成本可能比当前型号高得多。以下是詳細資訊。",
+      "original_title": "iPhone 18 Pro Max component costs could jump by nearly $300, per report",
+      "url": "https://9to5mac.com/2026/07/09/iphone-18-pro-max-component-costs-could-jump-by-nearly-300-per-report/",
+      "source": "9to5Mac",
+      "domain": "9to5mac.com",
+      "published_at": "2026-07-09T15:58:43Z",
+      "importance": 50,
+      "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "HBM",
-        "記憶體"
+        "半導體",
+        "CoWoS",
+        "先進製程"
       ],
       "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
       ],
       "related_models": [
         "003",
@@ -1829,7 +1832,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "5ec369c256612c78",
@@ -1903,44 +1906,6 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "7872159a0046bc7a",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "NVIDIA 的 Rubin Ultra Rack 預計成本為 2,100 萬美元，光是 HBM4e 記憶體就將增加至每單位 150 萬美元",
-      "summary": "NVIDIA 的 Rubin 和 Rubin Ultra 伺服器將非常昂貴，其中很大一部分成本僅用於記憶體。 HBM 和 DRAM 成本推動 NVIDIA 的下一代 Rubin“Oberon”和 Rubin Ultra“Kyber”伺服器遠遠超過 Blackwell 價格上漲 DRAM 和...",
-      "original_title": "NVIDIA’s Rubin Ultra Rack Estimated To Cost $21 Million, With HBM4e Memory Alone Swelling To $1.5 Million Per Unit",
-      "url": "https://wccftech.com/nvidia-rubin-ultra-rack-estimated-to-cost-21-million-hbm4e-swelling-to-1-5m-per-unit/",
-      "source": "Wccftech",
-      "domain": "wccftech.com",
-      "published_at": "2026-07-09T10:40:03Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "87fb8a3c42ec0528",
@@ -2622,6 +2587,41 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "b310dc89605c3dd7",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "忘記微米？這支新的人工智慧記憶體股票可能是十年來最值得買的股票",
+      "summary": "人工智慧創造了不乏投資機會，但也暴露出一個又一個瓶頸。首先是 GPU。然後沒...",
+      "original_title": "Forget Micron? This New AI Memory Stock Could Be the Best Buy of the Decade",
+      "url": "https://247wallst.com/investing/2026/07/05/forget-micron-this-new-ai-memory-stock-could-be-the-best-buy-of-the-decade/",
+      "source": "24/7 Wall St.",
+      "domain": "247wallst.com",
+      "published_at": "2026-07-05T16:13:48Z",
+      "importance": 50,
+      "impact": "negative",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "f1a2d13f0cfb79b0",
