@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-12T10:27:48.866425+00:00
+> 更新時間：2026-07-12T14:20:19.974716+00:00
 
 ### 🚀 據報道台積電CoWoS產量到2027年將達到至少20萬片晶圓
 - **題材**: `半導體先進製程` | **重要性**: `88`
@@ -7,6 +7,15 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重大事件】可能顯著影響產業評價、EPS預期或資金流向。
 - **摘要**: 由於供應仍然緊張，台積電正在加速先進封裝產能擴張，市場傳言其 CoWoS 月產量將在 2027 年達到至少 20 萬片晶圓。設備製造商仍在等待台積電最終確定訂單分配，…
 - [原文連結](https://www.digitimes.com/news/a20260710PD226/tsmc-cowos-2027-packaging-capacity.html)
+
+---
+
+### 🚀 有 10,000 美元嗎？ Broadcom 與 Marvell：只有一個能與 AI 炒作相媲美
+- **題材**: `光通訊與矽光子` | **重要性**: `80`
+- **來源**: 24/7 Wall St. (2026-07-11T14:00:55Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Broadcom 和 Marvell 都乘坐人工智慧的順風車，實現了轟動的季度，但他們的現金流、成長策略和風險狀況卻指向完全不同的…
+- [原文連結](https://247wallst.com/investing/2026/07/11/got-10000-broadcom-vs-marvell-only-one-will-match-the-ai-hype/)
 
 ---
 
@@ -25,6 +34,15 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: SK 海力士在創紀錄的納斯達克 IPO 中籌集了 265 億美元，該公司計劃將人工智慧需求激增和 HBM 供應售空帶來的意外收入用於資助新晶圓廠。
 - [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-raises-a-record-usd26-5-billion-in-historic-u-s-ipo-south-korean-memory-giant-to-fund-massive-hbm-manufacturing-expansions)
+
+---
+
+### 🚀 5 家備受矚目的人工智慧晶片股推動資料中心繁榮
+- **題材**: `光通訊與矽光子` | **重要性**: `75`
+- **來源**: 24/7 Wall St. (2026-07-11T13:00:07Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 當投資者追逐 GPU 的名字時，一群安靜的半導體公司正在吸收流入人工智慧資料中心的真正資本，其中五家是…
+- [原文連結](https://247wallst.com/investing/2026/07/11/5-under-the-radar-ai-chip-stocks-powering-the-data-center-boom/)
 
 ---
 
@@ -89,24 +107,6 @@ The post Tower Semiconductor ships 5 million photonic chips as AI data centers r
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 2026年7月9日，大立光電錶示，將於7月正式開始為量產客戶提供光纖陣列（FA）產品樣品，林恩平董事長在市場關注康寧的情況下概述了公司在通用封裝光學（CPO）方面的優勢…
 - [原文連結](https://www.digitimes.com/news/a20260710PD235/largan-precision-cpo-equipment-market-production-2026.html)
-
----
-
-### ⚖️ 前晶片設計師轉型為創投，對人工智慧、CPO 炒作進行現實檢驗
-- **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-07-09T18:47:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 週三，一位資深晶片工程師轉型為風險投資家，他在台北亞洲創投峰會上利用一個小組挑戰了半導體行業最流行的兩種說法：人工智慧將解決晶片設計問題，而共封裝光學 (CPO) 已準備好…
-- [原文連結](https://www.digitimes.com/news/a20260709VL224/asia-venture-capital-ai-cpo-design-taipei.html)
-
----
-
-### 🚀 獨家：Geckos 押注奈米銅粉和 CPO 波導以外的 AI 材料
-- **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-07-07T06:46:07Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 隨著生成式人工智慧推動高效能運算（HPC）需求的快速成長，半導體產業正從製程節點競爭轉向材料競爭。 Geckos 董事長 Raymond Shen 表示，一旦晶片製造進步到 2nm，...
-- [原文連結](https://www.digitimes.com/news/a20260707PD222/copper-nanomaterial-cpo-hpc-growth.html)
 
 ---
 
