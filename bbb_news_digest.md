@@ -1,10 +1,10 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-13T04:24:38.956518+00:00
+> 更新時間：2026-07-13T07:46:42.633997+00:00
 
 ### 🚀 據報道台積電CoWoS產量到2027年將達到至少20萬片晶圓
-- **題材**: `半導體先進製程` | **重要性**: `88`
+- **題材**: `半導體先進製程` | **重要性**: `83`
 - **來源**: Digitimes (2026-07-10T04:59:19Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重大事件】可能顯著影響產業評價、EPS預期或資金流向。
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 由於供應仍然緊張，台積電正在加速先進封裝產能擴張，市場傳言其 CoWoS 月產量將在 2027 年達到至少 20 萬片晶圓。設備製造商仍在等待台積電最終確定訂單分配，…
 - [原文連結](https://www.digitimes.com/news/a20260710PD226/tsmc-cowos-2027-packaging-capacity.html)
 
@@ -136,15 +136,6 @@
 
 ---
 
-### 🚀 SK 海力士將在美國首次亮相，測試人工智慧胃口
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: Yahoo Entertainment (2026-07-10T06:17:31Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 7 月 10 日（路透社）
-- [原文連結](https://finance.yahoo.com/technology/ai/articles/sk-hynix-set-marquee-us-061731678.html)
-
----
-
 ### ⚖️ 隨著人工智慧資料中心競相放棄銅，Tower Semiconductor 出貨 500 萬顆光子晶片
 - **題材**: `光通訊與矽光子` | **重要性**: `65`
 - **來源**: Crypto Briefing (2026-07-09T18:24:11Z)
@@ -179,6 +170,15 @@ The post Tower Semiconductor ships 5 million photonic chips as AI data centers r
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 日本的全國冠軍擁有 EUV 運行和 2nm GAA 原型，但仍然缺乏一個承諾的批量客戶。
 - [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/rapidus-fab-roadmap-examined)
+
+---
+
+### ⚖️ JEDEC 發布新的 SPHBM4 標準以削減 AI 記憶體成本 - 窄 512 位元介面可以放棄用於有機基板的昂貴中介層
+- **題材**: `半導體先進製程` | **重要性**: `62`
+- **來源**: Tom's Hardware UK (2026-07-08T15:03:33Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: SPHBM4 承諾 HBM4 級頻寬，無需使用矽中介層和類似 CoWoS 的封裝。
+- [原文連結](https://www.tomshardware.com/pc-components/dram/jedec-releases-new-sphbm4-standard-to-slash-ai-memory-costs-narrow-512-bit-interface-enables-dropping-expensive-interposers-for-organic-substrates)
 
 ---
 
