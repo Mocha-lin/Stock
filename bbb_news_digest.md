@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-12T23:54:24.185577+00:00
+> 更新時間：2026-07-13T04:24:38.956518+00:00
 
 ### 🚀 據報道台積電CoWoS產量到2027年將達到至少20萬片晶圓
 - **題材**: `半導體先進製程` | **重要性**: `88`
@@ -16,15 +16,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Broadcom 和 Marvell 都乘坐人工智慧的順風車，實現了轟動的季度，但他們的現金流、成長策略和風險狀況卻指向完全不同的…
 - [原文連結](https://247wallst.com/investing/2026/07/11/got-10000-broadcom-vs-marvell-only-one-will-match-the-ai-hype/)
-
----
-
-### 🚀 LandMark OptoElectronics 6 月份營收創紀錄，為 2028 年後成長擴張
-- **題材**: `光通訊與矽光子` | **重要性**: `78`
-- **來源**: Digitimes (2026-07-06T03:30:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: LandMark OptoElectronics (LMOC) 在 2026 年 6 月公佈了創紀錄的單月收入，並正在加緊擴張計劃，為 2028 年以後的需求做好準備，因為矽光子 (SiPh) 收入預計在 2026 年將增加兩倍。光通信外延…
-- [原文連結](https://www.digitimes.com/news/a20260705PD200/revenue-lmoc-2026-growth-demand.html)
 
 ---
 
@@ -46,21 +37,21 @@
 
 ---
 
-### ⚖️ 大立光預計將在 2026 年第三季實現可變孔徑斜坡，專注於 CPO 樣品
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-07-10T00:51:55Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 大立光電於 2026 年 7 月 9 日表示，其可變光圈鏡頭的出貨量將於第三季度開始增加，並且已收到批量客戶的共封裝光學器件 (CPO) 出貨量的正式規格，並將向…
-- [原文連結](https://www.digitimes.com/news/a20260709PD243/cpo-shipments-2026-optics-production.html)
-
----
-
 ### 🚀 Msscorps 因人工智慧和晶片測試需求而創下第二季營收紀錄
 - **題材**: `光通訊與矽光子` | **重要性**: `73`
 - **來源**: Digitimes (2026-07-08T02:55:00Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Msscorps reported record consolidated revenue in June, and for the first half of 2026, as demand from AI and semiconductor customers continued to expand. The Taiwan-based semiconductor inspection and analysis company also said on July 6 that its board had app…
 - [原文連結](https://www.digitimes.com/news/a20260706PD245/revenue-ai-chip-testing-demand-silicon.html)
+
+---
+
+### 🚀 LandMark OptoElectronics 6 月份營收創紀錄，為 2028 年後成長擴張
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-07-06T03:30:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: LandMark OptoElectronics (LMOC) 在 2026 年 6 月公佈了創紀錄的單月收入，並正在加緊擴張計劃，為 2028 年以後的需求做好準備，因為矽光子 (SiPh) 收入預計在 2026 年將增加兩倍。光通信外延…
+- [原文連結](https://www.digitimes.com/news/a20260705PD200/revenue-lmoc-2026-growth-demand.html)
 
 ---
 
@@ -109,6 +100,15 @@
 
 ---
 
+### ⚖️ 大立光預計將在 2026 年第三季實現可變孔徑斜坡，專注於 CPO 樣品
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-07-10T00:51:55Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 大立光電於 2026 年 7 月 9 日表示，其可變光圈鏡頭的出貨量將於第三季度開始增加，並且已收到批量客戶的共封裝光學器件 (CPO) 出貨量的正式規格，並將向…
+- [原文連結](https://www.digitimes.com/news/a20260709PD243/cpo-shipments-2026-optics-production.html)
+
+---
+
 ### ⚖️ 日本晶片製造商 Rapidus 的晶圓定價將低於台積電——2027 年推出的 2nm 級矽片定價約為 2 萬美元
 - **題材**: `半導體先進製程` | **重要性**: `67`
 - **來源**: Tom's Hardware UK (2026-07-10T12:56:48Z)
@@ -124,6 +124,15 @@
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 美國的人工智慧供應鏈現在開始和結束都在美國，而其最有價值的中間步驟至少在 2028 年之前仍然完全在海外。
 - [原文連結](https://www.tomshardware.com/tech-industry/nvidia-and-intel-tout-chips-built-in-america-but-every-arizona-made-blackwell-die-is-still-packaged-in-taiwan)
+
+---
+
+### 🚀 SK 海力士股價飆升，成為外國公司有史以來最大規模的美國上市
+- **題材**: `HBM記憶體` | **重要性**: `65`
+- **來源**: Investopedia (2026-07-10T17:49:36Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 韓國記憶體晶片巨頭 SK 海力士週五在美國上市後股價飆升，這表明美國投資者仍然看好儲存股，儘管它們最近...
+- [原文連結](https://www.investopedia.com/sk-hynix-stock-soars-in-u-s-debut-12016226)
 
 ---
 
@@ -161,15 +170,6 @@ The post Tower Semiconductor ships 5 million photonic chips as AI data centers r
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 400億美元。這是 Celestica (NYSE:CLS) 的市值，該公司最近將收入指引從 170 億美元提高到 190 億美元…
 - [原文連結](https://247wallst.com/investing/2026/07/08/this-undervalued-40-billion-company-is-ready-to-soar/)
-
----
-
-### ⚖️ Advantest和OpenLight聯手開發矽光子測試平台以實現量產
-- **題材**: `光通訊與矽光子` | **重要性**: `63`
-- **來源**: Digitimes (2026-07-05T02:43:28Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Advantest表示，它已與OpenLight合作開發適用於大規模生產環境的可擴展矽光子（SiPh）測試解決方案。這項消息發布之際，人工智慧 (AI) 和高效能運算工作負載增加了對儲存的需求…
-- [原文連結](https://www.digitimes.com/news/a20260703PD236/advantest-siph-testing-demand-production.html)
 
 ---
 
