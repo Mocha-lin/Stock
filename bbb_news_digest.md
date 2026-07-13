@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-13T12:05:39.402074+00:00
+> 更新時間：2026-07-13T15:37:07.898958+00:00
 
 ### 🚀 據報道台積電CoWoS產量到2027年將達到至少20萬片晶圓
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -16,15 +16,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Broadcom 和 Marvell 都乘坐人工智慧的順風車，實現了轟動的季度，但他們的現金流、成長策略和風險狀況卻指向完全不同的…
 - [原文連結](https://247wallst.com/investing/2026/07/11/got-10000-broadcom-vs-marvell-only-one-will-match-the-ai-hype/)
-
----
-
-### 🚀 SK 海力士在具有歷史意義的美國 IPO 中籌集了創紀錄的 265 億美元——韓國內存巨頭為大規模 HBM 製造擴張提供資金
-- **題材**: `HBM記憶體` | **重要性**: `77`
-- **來源**: Tom's Hardware UK (2026-07-10T14:27:41Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: SK 海力士在創紀錄的納斯達克 IPO 中籌集了 265 億美元，該公司計劃將人工智慧需求激增和 HBM 供應售空帶來的意外收入用於資助新晶圓廠。
-- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-raises-a-record-usd26-5-billion-in-historic-u-s-ipo-south-korean-memory-giant-to-fund-massive-hbm-manufacturing-expansions)
 
 ---
 
@@ -55,21 +46,21 @@
 
 ---
 
+### 🚀 SK 海力士在具有歷史意義的美國 IPO 中籌集了創紀錄的 265 億美元——韓國內存巨頭為大規模 HBM 製造擴張提供資金
+- **題材**: `HBM記憶體` | **重要性**: `72`
+- **來源**: Tom's Hardware UK (2026-07-10T14:27:41Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: SK 海力士在創紀錄的納斯達克 IPO 中籌集了 265 億美元，該公司計劃將人工智慧需求激增和 HBM 供應售空帶來的意外收入用於資助新晶圓廠。
+- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-raises-a-record-usd26-5-billion-in-historic-u-s-ipo-south-korean-memory-giant-to-fund-massive-hbm-manufacturing-expansions)
+
+---
+
 ### 🚀 Nvidia、CoreWeave 和 Nebius：GPU 繁榮的循環融資內部
 - **題材**: `AI伺服器` | **重要性**: `70`
 - **來源**: Io-fund.com (2026-07-11T17:21:49Z)
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Neoclouds 是備受爭議的人工智慧商業模式之一，CoreWeave 和 Nebius 是兩個最廣泛認可的名字。這些公司的銷售額、積壓訂單和股價都在飆升。然而，支持他們的成長是極其昂貴的，...
 - [原文連結](https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom)
-
----
-
-### 🚀 記憶體市場專家：「SK 海力士更大、更便宜、更接近 NVIDIA。」265 億美元納斯達克首秀內幕
-- **題材**: `HBM記憶體` | **重要性**: `70`
-- **來源**: 24/7 Wall St. (2026-07-10T13:57:09Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: SK 海力士剛剛完成了歷史上最大的股票銷售之一，一位內存市場專家表示，美國投資者一直錯過了最關鍵的一個...
-- [原文連結](https://247wallst.com/investing/2026/07/10/memory-market-expert-sk-hynix-is-bigger-cheaper-and-closer-to-nvidia-inside-its-26-5-billion-nasdaq-debut/)
 
 ---
 
@@ -100,24 +91,6 @@
 
 ---
 
-### ⚖️ 日本晶片製造商 Rapidus 的晶圓定價將低於台積電——2027 年推出的 2nm 級矽片定價約為 2 萬美元
-- **題材**: `半導體先進製程` | **重要性**: `67`
-- **來源**: Tom's Hardware UK (2026-07-10T12:56:48Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 日本晶片製造商Rapidus透露了其策略的另一方面：提供比台積電更低的報價。
-- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/japanese-chipmaker-rapidus-to-offer-lower-wafer-pricing-than-tsmc-2nm-class-silicon-to-be-priced-around-usd20-000-on-2027-launch)
-
----
-
-### ⚖️ 隨著國家加強本地生產，英偉達和英特爾吹捧美國本土晶片供應鏈的實力，但差距仍然存在——隨著項目範圍和規模的擴大，關鍵的布萊克韋爾封裝步驟仍然在海外
-- **題材**: `AI伺服器` | **重要性**: `67`
-- **來源**: Tom's Hardware UK (2026-07-06T12:51:09Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 美國的人工智慧供應鏈現在開始和結束都在美國，而其最有價值的中間步驟至少在 2028 年之前仍然完全在海外。
-- [原文連結](https://www.tomshardware.com/tech-industry/nvidia-and-intel-tout-chips-built-in-america-but-every-arizona-made-blackwell-die-is-still-packaged-in-taiwan)
-
----
-
 ### ⚠️ 壟斷進口商在嘗試在美國生產產品時學到了什麼
 - **題材**: `總體風險` | **重要性**: `65`
 - **來源**: NPR (2026-07-12T09:00:00Z)
@@ -127,12 +100,12 @@
 
 ---
 
-### 🚀 SK 海力士股價飆升，成為外國公司有史以來最大規模的美國上市
+### 🚀 記憶體市場專家：「SK 海力士更大、更便宜、更接近 NVIDIA。」265 億美元納斯達克首秀內幕
 - **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: Investopedia (2026-07-10T17:49:36Z)
+- **來源**: 24/7 Wall St. (2026-07-10T13:57:09Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 韓國記憶體晶片巨頭 SK 海力士週五在美國上市後股價飆升，這表明美國投資者仍然看好儲存股，儘管它們最近...
-- [原文連結](https://www.investopedia.com/sk-hynix-stock-soars-in-u-s-debut-12016226)
+- **摘要**: SK 海力士剛剛完成了歷史上最大的股票銷售之一，一位內存市場專家表示，美國投資者一直錯過了最關鍵的一個...
+- [原文連結](https://247wallst.com/investing/2026/07/10/memory-market-expert-sk-hynix-is-bigger-cheaper-and-closer-to-nvidia-inside-its-26-5-billion-nasdaq-debut/)
 
 ---
 
@@ -173,12 +146,39 @@ The post Tower Semiconductor ships 5 million photonic chips as AI data centers r
 
 ---
 
+### ⚖️ 日本晶片製造商 Rapidus 的晶圓定價將低於台積電——2027 年推出的 2nm 級矽片定價約為 2 萬美元
+- **題材**: `半導體先進製程` | **重要性**: `62`
+- **來源**: Tom's Hardware UK (2026-07-10T12:56:48Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 日本晶片製造商Rapidus透露了其策略的另一方面：提供比台積電更低的報價。
+- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/japanese-chipmaker-rapidus-to-offer-lower-wafer-pricing-than-tsmc-2nm-class-silicon-to-be-priced-around-usd20-000-on-2027-launch)
+
+---
+
 ### ⚖️ Rapidus 晶圓廠路線圖經過審查——幾十年來第一家新的領先晶片製造商擁有一座北海道晶圓廠，截止日期為 2027 年，擁有 60 個潛在客戶
 - **題材**: `半導體先進製程` | **重要性**: `62`
 - **來源**: Tom's Hardware UK (2026-07-08T16:29:26Z)
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 日本的全國冠軍擁有 EUV 運行和 2nm GAA 原型，但仍然缺乏一個承諾的批量客戶。
 - [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/rapidus-fab-roadmap-examined)
+
+---
+
+### ⚖️ JEDEC 發布新的 SPHBM4 標準以削減 AI 記憶體成本 - 窄 512 位元介面可以放棄用於有機基板的昂貴中介層
+- **題材**: `半導體先進製程` | **重要性**: `62`
+- **來源**: Tom's Hardware UK (2026-07-08T15:03:33Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: SPHBM4 承諾 HBM4 級頻寬，無需使用矽中介層和類似 CoWoS 的封裝。
+- [原文連結](https://www.tomshardware.com/pc-components/dram/jedec-releases-new-sphbm4-standard-to-slash-ai-memory-costs-narrow-512-bit-interface-enables-dropping-expensive-interposers-for-organic-substrates)
+
+---
+
+### ⚖️ 隨著國家加強本地生產，英偉達和英特爾吹捧美國本土晶片供應鏈的實力，但差距仍然存在——隨著項目範圍和規模的擴大，關鍵的布萊克韋爾封裝步驟仍然在海外
+- **題材**: `AI伺服器` | **重要性**: `62`
+- **來源**: Tom's Hardware UK (2026-07-06T12:51:09Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 美國的人工智慧供應鏈現在開始和結束都在美國，而其最有價值的中間步驟至少在 2028 年之前仍然完全在海外。
+- [原文連結](https://www.tomshardware.com/tech-industry/nvidia-and-intel-tout-chips-built-in-america-but-every-arizona-made-blackwell-die-is-still-packaged-in-taiwan)
 
 ---
 
