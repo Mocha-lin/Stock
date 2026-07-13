@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-13T07:46:42.633997+00:00
+> 更新時間：2026-07-13T12:05:39.402074+00:00
 
 ### 🚀 據報道台積電CoWoS產量到2027年將達到至少20萬片晶圓
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -91,15 +91,6 @@
 
 ---
 
-### ⚖️ 大立光將於 2026 年 7 月提供 CPO 產品樣品，著眼於 GC 優勢
-- **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-07-10T09:20:07Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 2026年7月9日，大立光電錶示，將於7月正式開始為量產客戶提供光纖陣列（FA）產品樣品，林恩平董事長在市場關注康寧的情況下概述了公司在通用封裝光學（CPO）方面的優勢…
-- [原文連結](https://www.digitimes.com/news/a20260710PD235/largan-precision-cpo-equipment-market-production-2026.html)
-
----
-
 ### ⚖️ 大立光預計將在 2026 年第三季實現可變孔徑斜坡，專注於 CPO 樣品
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
 - **來源**: Digitimes (2026-07-10T00:51:55Z)
@@ -124,6 +115,15 @@
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 美國的人工智慧供應鏈現在開始和結束都在美國，而其最有價值的中間步驟至少在 2028 年之前仍然完全在海外。
 - [原文連結](https://www.tomshardware.com/tech-industry/nvidia-and-intel-tout-chips-built-in-america-but-every-arizona-made-blackwell-die-is-still-packaged-in-taiwan)
+
+---
+
+### ⚠️ 壟斷進口商在嘗試在美國生產產品時學到了什麼
+- **題材**: `總體風險` | **重要性**: `65`
+- **來源**: NPR (2026-07-12T09:00:00Z)
+- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 在因銷售的進口棋盤遊戲受到關稅打擊後，喬納森席爾瓦決定看看是否可以在美國製作大富翁遊戲的版本。這就是他學到的。
+- [原文連結](https://www.npr.org/2026/07/12/nx-s1-5887378/monopoly-tariffs-china-manufacturing-made-inusa)
 
 ---
 
@@ -164,21 +164,21 @@ The post Tower Semiconductor ships 5 million photonic chips as AI data centers r
 
 ---
 
+### ⚖️ 大立光將於 2026 年 7 月提供 CPO 產品樣品，著眼於 GC 優勢
+- **題材**: `光通訊與矽光子` | **重要性**: `63`
+- **來源**: Digitimes (2026-07-10T09:20:07Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 2026年7月9日，大立光電錶示，將於7月正式開始為量產客戶提供光纖陣列（FA）產品樣品，林恩平董事長在市場關注康寧的情況下概述了公司在通用封裝光學（CPO）方面的優勢…
+- [原文連結](https://www.digitimes.com/news/a20260710PD235/largan-precision-cpo-equipment-market-production-2026.html)
+
+---
+
 ### ⚖️ Rapidus 晶圓廠路線圖經過審查——幾十年來第一家新的領先晶片製造商擁有一座北海道晶圓廠，截止日期為 2027 年，擁有 60 個潛在客戶
 - **題材**: `半導體先進製程` | **重要性**: `62`
 - **來源**: Tom's Hardware UK (2026-07-08T16:29:26Z)
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 日本的全國冠軍擁有 EUV 運行和 2nm GAA 原型，但仍然缺乏一個承諾的批量客戶。
 - [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/rapidus-fab-roadmap-examined)
-
----
-
-### ⚖️ JEDEC 發布新的 SPHBM4 標準以削減 AI 記憶體成本 - 窄 512 位元介面可以放棄用於有機基板的昂貴中介層
-- **題材**: `半導體先進製程` | **重要性**: `62`
-- **來源**: Tom's Hardware UK (2026-07-08T15:03:33Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: SPHBM4 承諾 HBM4 級頻寬，無需使用矽中介層和類似 CoWoS 的封裝。
-- [原文連結](https://www.tomshardware.com/pc-components/dram/jedec-releases-new-sphbm4-standard-to-slash-ai-memory-costs-narrow-512-bit-interface-enables-dropping-expensive-interposers-for-organic-substrates)
 
 ---
 
