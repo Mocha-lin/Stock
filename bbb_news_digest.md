@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-14T16:06:36.512406+00:00
+> 更新時間：2026-07-14T17:54:18.630610+00:00
 
 ### 🚀 據報道台積電CoWoS產量到2027年將達到至少20萬片晶圓
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -55,15 +55,6 @@
 
 ---
 
-### 🚀 Nvidia、CoreWeave 和 Nebius：GPU 繁榮的循環融資內部
-- **題材**: `AI伺服器` | **重要性**: `70`
-- **來源**: Io-fund.com (2026-07-11T17:21:49Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Neoclouds 是備受爭議的人工智慧商業模式之一，CoreWeave 和 Nebius 是兩個最廣泛認可的名字。這些公司的銷售額、積壓訂單和股價都在飆升。然而，支持他們的成長是極其昂貴的，...
-- [原文連結](https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom)
-
----
-
 ### 🚀 5 家備受矚目的人工智慧晶片股推動資料中心繁榮
 - **題材**: `光通訊與矽光子` | **重要性**: `70`
 - **來源**: 24/7 Wall St. (2026-07-11T13:00:07Z)
@@ -79,15 +70,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 在半導體股票領域，英偉達（納斯達克股票代碼：NVDA）無疑是大多數投資者密切關注的主角。也就是說，還有其他玩家...
 - [原文連結](https://247wallst.com/investing/2026/07/08/this-200-billion-semiconductor-giant-could-be-the-next-nvidia/)
-
----
-
-### 🚀 字母表與。台積電：現在最好買什麼股票
-- **題材**: `半導體先進製程` | **重要性**: `70`
-- **來源**: 24/7 Wall St. (2026-07-07T16:15:48Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Alphabet（納斯達克股票代碼：GOOGL）和台積電（NYSE：TSM）發布了 2026 年第一季重磅報告，揭示了 AI 晶片利潤的不同途徑。一個秤...
-- [原文連結](https://247wallst.com/investing/2026/07/07/alphabet-vs-taiwan-semiconductor-what-is-the-better-stock-to-buy-right-now/)
 
 ---
 
@@ -115,6 +97,15 @@
 - **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 在因銷售的進口棋盤遊戲受到關稅打擊後，喬納森席爾瓦決定看看是否可以在美國製作大富翁遊戲的版本。這就是他學到的。
 - [原文連結](https://www.npr.org/2026/07/12/nx-s1-5887378/monopoly-tariffs-china-manufacturing-made-inusa)
+
+---
+
+### 🚀 Nvidia、CoreWeave 和 Nebius：GPU 繁榮的循環融資內部
+- **題材**: `AI伺服器` | **重要性**: `65`
+- **來源**: Io-fund.com (2026-07-11T17:21:49Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Neoclouds 是備受爭議的人工智慧商業模式之一，CoreWeave 和 Nebius 是兩個最廣泛認可的名字。這些公司的銷售額、積壓訂單和股價都在飆升。然而，支持他們的成長是極其昂貴的，...
+- [原文連結](https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom)
 
 ---
 
@@ -152,6 +143,15 @@ The post Tower Semiconductor ships 5 million photonic chips as AI data centers r
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 400億美元。這是 Celestica (NYSE:CLS) 的市值，該公司最近將收入指引從 170 億美元提高到 190 億美元…
 - [原文連結](https://247wallst.com/investing/2026/07/08/this-undervalued-40-billion-company-is-ready-to-soar/)
+
+---
+
+### 🚀 字母表與。台積電：現在最好買什麼股票
+- **題材**: `半導體先進製程` | **重要性**: `65`
+- **來源**: 24/7 Wall St. (2026-07-07T16:15:48Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Alphabet（納斯達克股票代碼：GOOGL）和台積電（NYSE：TSM）發布了 2026 年第一季重磅報告，揭示了 AI 晶片利潤的不同途徑。一個秤...
+- [原文連結](https://247wallst.com/investing/2026/07/07/alphabet-vs-taiwan-semiconductor-what-is-the-better-stock-to-buy-right-now/)
 
 ---
 
