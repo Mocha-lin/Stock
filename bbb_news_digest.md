@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-14T10:46:17.813699+00:00
+> 更新時間：2026-07-14T14:40:55.573010+00:00
 
 ### 🚀 據報道台積電CoWoS產量到2027年將達到至少20萬片晶圓
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -11,20 +11,11 @@
 ---
 
 ### 🚀 有 10,000 美元嗎？ Broadcom 與 Marvell：只有一個能與 AI 炒作相媲美
-- **題材**: `光通訊與矽光子` | **重要性**: `80`
+- **題材**: `光通訊與矽光子` | **重要性**: `75`
 - **來源**: 24/7 Wall St. (2026-07-11T14:00:55Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Broadcom 和 Marvell 都乘坐人工智慧的順風車，實現了轟動的季度，但他們的現金流、成長策略和風險狀況卻指向完全不同的…
 - [原文連結](https://247wallst.com/investing/2026/07/11/got-10000-broadcom-vs-marvell-only-one-will-match-the-ai-hype/)
-
----
-
-### 🚀 5 家備受矚目的人工智慧晶片股推動資料中心繁榮
-- **題材**: `光通訊與矽光子` | **重要性**: `75`
-- **來源**: 24/7 Wall St. (2026-07-11T13:00:07Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 當投資者追逐 GPU 的名字時，一群安靜的半導體公司正在吸收流入人工智慧資料中心的真正資本，其中五家是…
-- [原文連結](https://247wallst.com/investing/2026/07/11/5-under-the-radar-ai-chip-stocks-powering-the-data-center-boom/)
 
 ---
 
@@ -64,21 +55,21 @@
 
 ---
 
-### 🚀 台積電無法滿足 CoWoS 需求，先進封裝訂單流向英特爾及競爭對手台灣晶圓廠
-- **題材**: `半導體先進製程` | **重要性**: `70`
-- **來源**: Wccftech (2026-07-12T11:40:12Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 台積電正面臨使用 CoWoS 等先進封裝技術的人工智慧晶片訂單激增的局面，但英特爾等競爭對手卻受益，因為這家台灣半導體巨頭無法滿足需求。英特爾及其他先進封裝晶片製造商...
-- [原文連結](https://wccftech.com/tsmc-cant-keep-up-with-cowos-demand-advanced-packaging-orders-spilling-over-to-intel-rival-fabs/)
-
----
-
 ### 🚀 Nvidia、CoreWeave 和 Nebius：GPU 繁榮的循環融資內部
 - **題材**: `AI伺服器` | **重要性**: `70`
 - **來源**: Io-fund.com (2026-07-11T17:21:49Z)
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Neoclouds 是備受爭議的人工智慧商業模式之一，CoreWeave 和 Nebius 是兩個最廣泛認可的名字。這些公司的銷售額、積壓訂單和股價都在飆升。然而，支持他們的成長是極其昂貴的，...
 - [原文連結](https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom)
+
+---
+
+### 🚀 5 家備受矚目的人工智慧晶片股推動資料中心繁榮
+- **題材**: `光通訊與矽光子` | **重要性**: `70`
+- **來源**: 24/7 Wall St. (2026-07-11T13:00:07Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 當投資者追逐 GPU 的名字時，一群安靜的半導體公司正在吸收流入人工智慧資料中心的真正資本，其中五家是…
+- [原文連結](https://247wallst.com/investing/2026/07/11/5-under-the-radar-ai-chip-stocks-powering-the-data-center-boom/)
 
 ---
 
@@ -106,6 +97,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 大立光電於 2026 年 7 月 9 日表示，其可變光圈鏡頭的出貨量將於第三季度開始增加，並且已收到批量客戶的共封裝光學器件 (CPO) 出貨量的正式規格，並將向…
 - [原文連結](https://www.digitimes.com/news/a20260709PD243/cpo-shipments-2026-optics-production.html)
+
+---
+
+### ⚠️ 報告稱，蘋果傳聞中的 M7 Ultra 目標是 1.5TB 內存和 Blackwell 級人工智慧性能——2028 年的怪物產品將取決於內存短缺的緩解
+- **題材**: `AI伺服器` | **重要性**: `67`
+- **來源**: Tom's Hardware UK (2026-07-13T12:02:52Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 蘋果計劃推出的 M7 Ultra 晶片旨在支援高達 1.5 TB 的統一內存，並將 AI 性能推向 Nvidia Blackwell 加速器的水平。
+- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/apples-rumored-m7-ultra-targets-1-5tb-of-memory-and-blackwell-class-ai)
 
 ---
 
@@ -164,21 +164,21 @@ The post Tower Semiconductor ships 5 million photonic chips as AI data centers r
 
 ---
 
-### ⚖️ 前晶片設計師轉型為創投，對人工智慧、CPO 炒作進行現實檢驗
-- **題材**: `光通訊與矽光子` | **重要性**: `63`
-- **來源**: Digitimes (2026-07-09T18:47:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 週三，一位資深晶片工程師轉型為風險投資家，他在台北亞洲創投峰會上利用一個小組挑戰了半導體行業最流行的兩種說法：人工智慧將解決晶片設計問題，而共封裝光學 (CPO) 已準備好…
-- [原文連結](https://www.digitimes.com/news/a20260709VL224/asia-venture-capital-ai-cpo-design-taipei.html)
-
----
-
 ### 🚀 獨家：Geckos 押注奈米銅粉和 CPO 波導以外的 AI 材料
 - **題材**: `光通訊與矽光子` | **重要性**: `63`
 - **來源**: Digitimes (2026-07-07T06:46:07Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 隨著生成式人工智慧推動高效能運算（HPC）需求的快速成長，半導體產業正從製程節點競爭轉向材料競爭。 Geckos 董事長 Raymond Shen 表示，一旦晶片製造進步到 2nm，...
 - [原文連結](https://www.digitimes.com/news/a20260707PD222/copper-nanomaterial-cpo-hpc-growth.html)
+
+---
+
+### ⚖️ 日本晶片製造商 Rapidus 的晶圓定價將低於台積電——2027 年推出的 2nm 級矽片定價約為 2 萬美元
+- **題材**: `半導體先進製程` | **重要性**: `62`
+- **來源**: Tom's Hardware UK (2026-07-10T12:56:48Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 日本晶片製造商Rapidus透露了其策略的另一方面：提供比台積電更低的報價。
+- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/japanese-chipmaker-rapidus-to-offer-lower-wafer-pricing-than-tsmc-2nm-class-silicon-to-be-priced-around-usd20-000-on-2027-launch)
 
 ---
 
