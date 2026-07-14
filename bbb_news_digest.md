@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-13T23:54:16.524456+00:00
+> 更新時間：2026-07-14T03:52:44.116687+00:00
 
 ### 🚀 據報道台積電CoWoS產量到2027年將達到至少20萬片晶圓
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -28,21 +28,21 @@
 
 ---
 
+### ⚖️ CPO量產加速新型四階段測試設備市場
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-07-13T03:15:38Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: AI驅動的需求正在加速共封裝光學（CPO）從技術驗證到量產的轉變，引發新一波的設備需求。公司包括 FormFactor、Advantest、Tokyo Electron (TEL)、Teradyne、MPI、Keysight、Anritsu…
+- [原文連結](https://www.digitimes.com/news/a20260713PD209/cpo-testing-equipment-demand.html)
+
+---
+
 ### 🚀 Msscorps 因人工智慧和晶片測試需求而創下第二季營收紀錄
 - **題材**: `光通訊與矽光子` | **重要性**: `73`
 - **來源**: Digitimes (2026-07-08T02:55:00Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Msscorps reported record consolidated revenue in June, and for the first half of 2026, as demand from AI and semiconductor customers continued to expand. The Taiwan-based semiconductor inspection and analysis company also said on July 6 that its board had app…
 - [原文連結](https://www.digitimes.com/news/a20260706PD245/revenue-ai-chip-testing-demand-silicon.html)
-
----
-
-### 🚀 LandMark OptoElectronics 6 月份營收創紀錄，為 2028 年後成長擴張
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-07-06T03:30:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: LandMark OptoElectronics (LMOC) 在 2026 年 6 月公佈了創紀錄的單月收入，並正在加緊擴張計劃，為 2028 年以後的需求做好準備，因為矽光子 (SiPh) 收入預計在 2026 年將增加兩倍。光通信外延…
-- [原文連結](https://www.digitimes.com/news/a20260705PD200/revenue-lmoc-2026-growth-demand.html)
 
 ---
 
@@ -55,12 +55,30 @@
 
 ---
 
+### 🚀 台積電無法滿足 CoWoS 需求，先進封裝訂單流向英特爾及競爭對手台灣晶圓廠
+- **題材**: `半導體先進製程` | **重要性**: `70`
+- **來源**: Wccftech (2026-07-12T11:40:12Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 台積電正面臨使用 CoWoS 等先進封裝技術的人工智慧晶片訂單激增的局面，但英特爾等競爭對手卻受益，因為這家台灣半導體巨頭無法滿足需求。英特爾及其他先進封裝晶片製造商...
+- [原文連結](https://wccftech.com/tsmc-cant-keep-up-with-cowos-demand-advanced-packaging-orders-spilling-over-to-intel-rival-fabs/)
+
+---
+
 ### 🚀 Nvidia、CoreWeave 和 Nebius：GPU 繁榮的循環融資內部
 - **題材**: `AI伺服器` | **重要性**: `70`
 - **來源**: Io-fund.com (2026-07-11T17:21:49Z)
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Neoclouds 是備受爭議的人工智慧商業模式之一，CoreWeave 和 Nebius 是兩個最廣泛認可的名字。這些公司的銷售額、積壓訂單和股價都在飆升。然而，支持他們的成長是極其昂貴的，...
 - [原文連結](https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom)
+
+---
+
+### 🚀 SK 海力士在美國首秀股價飆漲 17%，創歷史新高：一般投資人應了解以下內容
+- **題材**: `HBM記憶體` | **重要性**: `70`
+- **來源**: Forbes (2026-07-10T15:46:30Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 韓國 SK 海力士在上市中籌集了 265 億美元，成為有史以來最大的上市交易之一。
+- [原文連結](https://www.forbes.com/sites/tylerroush/2026/07/10/sk-hynix-surges-17-in-record-setting-us-debut-heres-what-regular-investors-should-know/)
 
 ---
 
@@ -88,6 +106,24 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 大立光電於 2026 年 7 月 9 日表示，其可變光圈鏡頭的出貨量將於第三季度開始增加，並且已收到批量客戶的共封裝光學器件 (CPO) 出貨量的正式規格，並將向…
 - [原文連結](https://www.digitimes.com/news/a20260709PD243/cpo-shipments-2026-optics-production.html)
+
+---
+
+### 🚀 獨家：Geckos 押注奈米銅粉和 CPO 波導以外的 AI 材料
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-07-07T06:46:07Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 隨著生成式人工智慧推動高效能運算（HPC）需求的快速成長，半導體產業正從製程節點競爭轉向材料競爭。 Geckos 董事長 Raymond Shen 表示，一旦晶片製造進步到 2nm，...
+- [原文連結](https://www.digitimes.com/news/a20260707PD222/copper-nanomaterial-cpo-hpc-growth.html)
+
+---
+
+### ⚠️ 壟斷進口商在嘗試在美國生產產品時學到了什麼
+- **題材**: `總體風險` | **重要性**: `65`
+- **來源**: NPR (2026-07-12T09:00:00Z)
+- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 在因銷售的進口棋盤遊戲受到關稅打擊後，喬納森席爾瓦決定看看是否可以在美國製作大富翁遊戲的版本。這就是他學到的。
+- [原文連結](https://www.npr.org/2026/07/12/nx-s1-5887378/monopoly-tariffs-china-manufacturing-made-inusa)
 
 ---
 
@@ -137,48 +173,12 @@ The post Tower Semiconductor ships 5 million photonic chips as AI data centers r
 
 ---
 
-### ⚖️ 日本晶片製造商 Rapidus 的晶圓定價將低於台積電——2027 年推出的 2nm 級矽片定價約為 2 萬美元
-- **題材**: `半導體先進製程` | **重要性**: `62`
-- **來源**: Tom's Hardware UK (2026-07-10T12:56:48Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 日本晶片製造商Rapidus透露了其策略的另一方面：提供比台積電更低的報價。
-- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/japanese-chipmaker-rapidus-to-offer-lower-wafer-pricing-than-tsmc-2nm-class-silicon-to-be-priced-around-usd20-000-on-2027-launch)
-
----
-
-### ⚖️ Rapidus 晶圓廠路線圖經過審查——幾十年來第一家新的領先晶片製造商擁有一座北海道晶圓廠，截止日期為 2027 年，擁有 60 個潛在客戶
-- **題材**: `半導體先進製程` | **重要性**: `62`
-- **來源**: Tom's Hardware UK (2026-07-08T16:29:26Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 日本的全國冠軍擁有 EUV 運行和 2nm GAA 原型，但仍然缺乏一個承諾的批量客戶。
-- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/rapidus-fab-roadmap-examined)
-
----
-
-### ⚖️ JEDEC 發布新的 SPHBM4 標準以削減 AI 記憶體成本 - 窄 512 位元介面可以放棄用於有機基板的昂貴中介層
-- **題材**: `半導體先進製程` | **重要性**: `62`
-- **來源**: Tom's Hardware UK (2026-07-08T15:03:33Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: SPHBM4 承諾 HBM4 級頻寬，無需使用矽中介層和類似 CoWoS 的封裝。
-- [原文連結](https://www.tomshardware.com/pc-components/dram/jedec-releases-new-sphbm4-standard-to-slash-ai-memory-costs-narrow-512-bit-interface-enables-dropping-expensive-interposers-for-organic-substrates)
-
----
-
-### ⚖️ 隨著國家加強本地生產，英偉達和英特爾吹捧美國本土晶片供應鏈的實力，但差距仍然存在——隨著項目範圍和規模的擴大，關鍵的布萊克韋爾封裝步驟仍然在海外
-- **題材**: `AI伺服器` | **重要性**: `62`
-- **來源**: Tom's Hardware UK (2026-07-06T12:51:09Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 美國的人工智慧供應鏈現在開始和結束都在美國，而其最有價值的中間步驟至少在 2028 年之前仍然完全在海外。
-- [原文連結](https://www.tomshardware.com/tech-industry/nvidia-and-intel-tout-chips-built-in-america-but-every-arizona-made-blackwell-die-is-still-packaged-in-taiwan)
-
----
-
-### ⚠️ 一家公司試圖在美國製作大富翁，但無法獲得骰子
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Boing Boing (2026-07-12T15:00:35Z)
-- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 當 WS 遊戲公司從中國進口的棋盤遊戲被徵收七位數的關稅時，執行長 Jonathan Silva 決定看看是否可以在美國生產一款遊戲。他選擇了 250 歲生日版本，名為《大富翁：美國大富翁》…
-- [原文連結](https://boingboing.net/2026/07/12/made-in-usa-monopoly-dice.html)
+### ⚖️ 前晶片設計師轉型為創投，對人工智慧、CPO 炒作進行現實檢驗
+- **題材**: `光通訊與矽光子` | **重要性**: `63`
+- **來源**: Digitimes (2026-07-09T18:47:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 週三，一位資深晶片工程師轉型為風險投資家，他在台北亞洲創投峰會上利用一個小組挑戰了半導體行業最流行的兩種說法：人工智慧將解決晶片設計問題，而共封裝光學 (CPO) 已準備好…
+- [原文連結](https://www.digitimes.com/news/a20260709VL224/asia-venture-capital-ai-cpo-design-taipei.html)
 
 ---
 
