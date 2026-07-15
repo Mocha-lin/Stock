@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-14T23:53:16.141454+00:00
+> 更新時間：2026-07-15T03:52:54.857320+00:00
 
 ### 🚀 據報道台積電CoWoS產量到2027年將達到至少20萬片晶圓
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -28,21 +28,21 @@
 
 ---
 
+### ⚖️ 聯華電子在新加坡進軍矽光子學以應對人工智慧的連結危機
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-07-14T01:04:17Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 聯電 (UMC) 正在進軍矽光子學領域，定位於解決人工智慧資料中心的決定性瓶頸之一：晶片相互通訊的速度。在此過程中，成熟節點專業...
+- [原文連結](https://www.digitimes.com/news/a20260714VL201/umc-photonics-silicon-data-chips.html)
+
+---
+
 ### ⚖️ CPO量產加速新型四階段測試設備市場
 - **題材**: `光通訊與矽光子` | **重要性**: `73`
 - **來源**: Digitimes (2026-07-13T03:15:38Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: AI驅動的需求正在加速共封裝光學（CPO）從技術驗證到量產的轉變，引發新一波的設備需求。公司包括 FormFactor、Advantest、Tokyo Electron (TEL)、Teradyne、MPI、Keysight、Anritsu…
 - [原文連結](https://www.digitimes.com/news/a20260713PD209/cpo-testing-equipment-demand.html)
-
----
-
-### 🚀 Msscorps 因人工智慧和晶片測試需求而創下第二季營收紀錄
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-07-08T02:55:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Msscorps reported record consolidated revenue in June, and for the first half of 2026, as demand from AI and semiconductor customers continued to expand. The Taiwan-based semiconductor inspection and analysis company also said on July 6 that its board had app…
-- [原文連結](https://www.digitimes.com/news/a20260706PD245/revenue-ai-chip-testing-demand-silicon.html)
 
 ---
 
@@ -88,6 +88,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 大立光電於 2026 年 7 月 9 日表示，其可變光圈鏡頭的出貨量將於第三季度開始增加，並且已收到批量客戶的共封裝光學器件 (CPO) 出貨量的正式規格，並將向…
 - [原文連結](https://www.digitimes.com/news/a20260709PD243/cpo-shipments-2026-optics-production.html)
+
+---
+
+### 🚀 Msscorps 因人工智慧和晶片測試需求而創下第二季營收紀錄
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-07-08T02:55:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Msscorps reported record consolidated revenue in June, and for the first half of 2026, as demand from AI and semiconductor customers continued to expand. The Taiwan-based semiconductor inspection and analysis company also said on July 6 that its board had app…
+- [原文連結](https://www.digitimes.com/news/a20260706PD245/revenue-ai-chip-testing-demand-silicon.html)
 
 ---
 
@@ -152,15 +161,6 @@ The post Tower Semiconductor ships 5 million photonic chips as AI data centers r
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 400億美元。這是 Celestica (NYSE:CLS) 的市值，該公司最近將收入指引從 170 億美元提高到 190 億美元…
 - [原文連結](https://247wallst.com/investing/2026/07/08/this-undervalued-40-billion-company-is-ready-to-soar/)
-
----
-
-### 🚀 字母表與。台積電：現在最好買什麼股票
-- **題材**: `半導體先進製程` | **重要性**: `65`
-- **來源**: 24/7 Wall St. (2026-07-07T16:15:48Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Alphabet（納斯達克股票代碼：GOOGL）和台積電（NYSE：TSM）發布了 2026 年第一季重磅報告，揭示了 AI 晶片利潤的不同途徑。一個秤...
-- [原文連結](https://247wallst.com/investing/2026/07/07/alphabet-vs-taiwan-semiconductor-what-is-the-better-stock-to-buy-right-now/)
 
 ---
 
