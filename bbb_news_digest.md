@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-15T10:49:38.744829+00:00
+> 更新時間：2026-07-15T14:30:46.892734+00:00
 
 ### 🚀 據報道台積電CoWoS產量到2027年將達到至少20萬片晶圓
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -16,6 +16,16 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 三星電子正在開發結合高頻寬記憶體 (HBM)、邏輯晶片和矽光子 (SiPh) 的先進封裝技術，以解決人工智慧資料中心面臨的不斷上升的功耗和資料傳輸瓶頸。
 - [原文連結](https://www.digitimes.com/news/a20260713VL223/samsung-hbm-optics-siph-packaging-chips.html)
+
+---
+
+### ⚖️ 應用光電擴大德克薩斯州的製造能力以滿足人工智慧收發器的需求
+- **題材**: `光通訊與矽光子` | **重要性**: `75`
+- **來源**: Crypto Briefing (2026-07-14T11:32:25Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 此次擴張使 AOI 成為人工智慧基礎設施領域的關鍵參與者，有可能促進當地經濟發展並提升美國科技製造業的領先地位。
+後應用光電公司擴大德克薩斯州的製造能力，以滿足人工智慧收發器應用程式的需求…
+- [原文連結](https://cryptobriefing.com/aoi-texas-manufacturing-expansion-ai-transceivers/)
 
 ---
 
@@ -64,15 +74,6 @@
 
 ---
 
-### 🚀 這家價值 2000 億美元的半導體巨頭可能成為下一個 Nvidia
-- **題材**: `光通訊與矽光子` | **重要性**: `70`
-- **來源**: 24/7 Wall St. (2026-07-08T11:45:45Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 在半導體股票領域，英偉達（納斯達克股票代碼：NVDA）無疑是大多數投資者密切關注的主角。也就是說，還有其他玩家...
-- [原文連結](https://247wallst.com/investing/2026/07/08/this-200-billion-semiconductor-giant-could-be-the-next-nvidia/)
-
----
-
 ### 🚀 Msscorps 因人工智慧和晶片測試需求而創下第二季營收紀錄
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
 - **來源**: Digitimes (2026-07-08T02:55:00Z)
@@ -100,13 +101,21 @@
 
 ---
 
-### ⚖️ 聯華電子開始量產矽光子晶圓，AI基礎設施投資者需關注
+### 🚀 德州擴張推動人工智慧光學貿易，應用光電上漲 6%，Lumentum 上漲 5%
 - **題材**: `光通訊與矽光子` | **重要性**: `65`
-- **來源**: Crypto Briefing (2026-07-14T07:06:45Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 聯華電子的矽光子生產可以重塑人工智慧基礎設施投資，在地緣政治和市場變化中提供戰略優勢。
-聯華電子開始量產矽光子晶圓，AI基礎設施投資者需關注…
-- [原文連結](https://cryptobriefing.com/umc-silicon-photonics-mass-production/)
+- **來源**: 24/7 Wall St. (2026-07-14T14:30:18Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 週二，德克薩斯州皮爾蘭的一項破土動工給人工智能光學行業帶來了衝擊，同時提振了三隻光收發器股票，並重新點燃了...
+- [原文連結](https://247wallst.com/investing/2026/07/14/applied-optoelectronics-rallies-6-lumentum-climbs-5-as-texas-expansion-fuels-ai-optics-trade/)
+
+---
+
+### 🚀 三星將為 Anthropic 生產 2nm AI 晶片
+- **題材**: `半導體先進製程` | **重要性**: `65`
+- **來源**: SamMobile (2026-07-14T11:08:39Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 日前，有消息指出三星可能贏得為 Anthropic 製造高性能 AI 晶片的合約。現在一份新報告稱，三星代工廠已獲得為 Anthropic 製造晶片的合同，Anthropic 是廣受歡迎的 Claude 背後的人工智慧公司…
+- [原文連結](https://www.sammobile.com/news/samsung-anthropic-2nm-ai-chips/)
 
 ---
 
@@ -171,15 +180,6 @@ The post Tower Semiconductor ships 5 million photonic chips as AI data centers r
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: SPHBM4 承諾 HBM4 級頻寬，無需使用矽中介層和類似 CoWoS 的封裝。
 - [原文連結](https://www.tomshardware.com/pc-components/dram/jedec-releases-new-sphbm4-standard-to-slash-ai-memory-costs-narrow-512-bit-interface-enables-dropping-expensive-interposers-for-organic-substrates)
-
----
-
-### ⚖️ Tower Semiconductor 將在政府補助的支持下在日本投資 30 億美元
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-07-14T10:10:06Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 以色列晶片製造商 Tower Semiconductor 週二表示，將投資 30 億美元來支持日本的晶片製造，其中包括來自...的 10 億美元贈款
-- [原文連結](https://finance.yahoo.com/technology/articles/tower-semiconductor-invest-3-billion-101006912.html)
 
 ---
 
