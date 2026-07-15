@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-15T14:30:46.892734+00:00
+> 更新時間：2026-07-15T16:11:18.503211+00:00
 
 ### 🚀 據報道台積電CoWoS產量到2027年將達到至少20萬片晶圓
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -174,12 +174,12 @@ The post Tower Semiconductor ships 5 million photonic chips as AI data centers r
 
 ---
 
-### ⚖️ JEDEC 發布新的 SPHBM4 標準以削減 AI 記憶體成本 - 窄 512 位元介面可以放棄用於有機基板的昂貴中介層
-- **題材**: `半導體先進製程` | **重要性**: `62`
-- **來源**: Tom's Hardware UK (2026-07-08T15:03:33Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: SPHBM4 承諾 HBM4 級頻寬，無需使用矽中介層和類似 CoWoS 的封裝。
-- [原文連結](https://www.tomshardware.com/pc-components/dram/jedec-releases-new-sphbm4-standard-to-slash-ai-memory-costs-narrow-512-bit-interface-enables-dropping-expensive-interposers-for-organic-substrates)
+### ⚖️ 沃什稱聯準會「不能容忍」高通膨，但沒有提供下一步行動的暗示
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-07-14T12:36:09Z)
+- **AI 判讀**: 屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 美聯儲主席凱文沃什週二表示，美聯儲將讓高通膨“成為過去”，但他沒有提供有關央行...
+- [原文連結](https://finance.yahoo.com/economy/policy/articles/warsh-says-fed-no-tolerance-123609273.html)
 
 ---
 
