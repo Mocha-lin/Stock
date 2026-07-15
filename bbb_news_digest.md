@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-15T16:11:18.503211+00:00
+> 更新時間：2026-07-15T17:59:48.623505+00:00
 
 ### 🚀 據報道台積電CoWoS產量到2027年將達到至少20萬片晶圓
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -165,21 +165,21 @@ The post Tower Semiconductor ships 5 million photonic chips as AI data centers r
 
 ---
 
-### ⚖️ Rapidus 晶圓廠路線圖經過審查——幾十年來第一家新的領先晶片製造商擁有一座北海道晶圓廠，截止日期為 2027 年，擁有 60 個潛在客戶
-- **題材**: `半導體先進製程` | **重要性**: `62`
-- **來源**: Tom's Hardware UK (2026-07-08T16:29:26Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 日本的全國冠軍擁有 EUV 運行和 2nm GAA 原型，但仍然缺乏一個承諾的批量客戶。
-- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/rapidus-fab-roadmap-examined)
-
----
-
 ### ⚖️ 沃什稱聯準會「不能容忍」高通膨，但沒有提供下一步行動的暗示
 - **題材**: `總體風險` | **重要性**: `60`
 - **來源**: Yahoo Entertainment (2026-07-14T12:36:09Z)
 - **AI 判讀**: 屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 美聯儲主席凱文沃什週二表示，美聯儲將讓高通膨“成為過去”，但他沒有提供有關央行...
 - [原文連結](https://finance.yahoo.com/economy/policy/articles/warsh-says-fed-no-tolerance-123609273.html)
+
+---
+
+### ⚖️ Tower Semiconductor 將在政府補助的支持下在日本投資 30 億美元
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-07-14T10:10:06Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 以色列晶片製造商 Tower Semiconductor 週二表示，將投資 30 億美元來支持日本的晶片製造，其中包括來自...的 10 億美元贈款
+- [原文連結](https://finance.yahoo.com/technology/articles/tower-semiconductor-invest-3-billion-101006912.html)
 
 ---
 
