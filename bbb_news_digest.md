@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-15T19:59:13.677908+00:00
+> 更新時間：2026-07-15T23:57:44.173635+00:00
 
 ### 🚀 據報道台積電CoWoS產量到2027年將達到至少20萬片晶圓
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -71,15 +71,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 當投資者追逐 GPU 的名字時，一群安靜的半導體公司正在吸收流入人工智慧資料中心的真正資本，其中五家是…
 - [原文連結](https://247wallst.com/investing/2026/07/11/5-under-the-radar-ai-chip-stocks-powering-the-data-center-boom/)
-
----
-
-### 🚀 Msscorps 因人工智慧和晶片測試需求而創下第二季營收紀錄
-- **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-07-08T02:55:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Msscorps reported record consolidated revenue in June, and for the first half of 2026, as demand from AI and semiconductor customers continued to expand. The Taiwan-based semiconductor inspection and analysis company also said on July 6 that its board had app…
-- [原文連結](https://www.digitimes.com/news/a20260706PD245/revenue-ai-chip-testing-demand-silicon.html)
 
 ---
 
@@ -162,6 +153,15 @@ The post Tower Semiconductor ships 5 million photonic chips as AI data centers r
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 日本晶片製造商Rapidus透露了其策略的另一方面：提供比台積電更低的報價。
 - [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/japanese-chipmaker-rapidus-to-offer-lower-wafer-pricing-than-tsmc-2nm-class-silicon-to-be-priced-around-usd20-000-on-2027-launch)
+
+---
+
+### ⚖️ Tower Semiconductor 宣佈在日本擴張以提高矽光子產能，股價上漲
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-07-14T15:20:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 
+- [原文連結](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_cc1dad25-1672-4488-b130-f9900ed3c51e)
 
 ---
 
