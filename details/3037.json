@@ -1,11 +1,11 @@
 {
   "id": "3037",
   "name": "欣興",
-  "lastUpdated": "2026-07-14 17:00:35",
+  "lastUpdated": "2026-07-15 17:06:03",
   "basicInfo": {
-    "price": "903.00",
-    "change": "28.00",
-    "changePercent": "3.20%"
+    "price": "936.00",
+    "change": "62.00",
+    "changePercent": "7.09%"
   },
   "status": null,
   "themes": [],
@@ -265,6 +265,15 @@
     ],
     "cashflow_table": [
       {
+        "period": "2026Q1",
+        "ocf_m": null,
+        "capex_m": null,
+        "fcf_m": null,
+        "ocf": null,
+        "capex": null,
+        "fcf": null
+      },
+      {
         "period": "2025Q4",
         "ocf_m": 4006.747,
         "capex_m": -5821.119,
@@ -299,18 +308,18 @@
         "ocf": 2991.482,
         "capex": -6878.59,
         "fcf": -3887.108
-      },
-      {
-        "period": "2024Q4",
-        "ocf_m": 3564.364,
-        "capex_m": -7341.749,
-        "fcf_m": -3777.385,
-        "ocf": 3564.364,
-        "capex": -7341.749,
-        "fcf": -3777.385
       }
     ],
     "quality_table": [
+      {
+        "period": "2026Q1",
+        "net_income_m": null,
+        "ocf_m": null,
+        "cash_ratio_pct": null,
+        "net_income": null,
+        "ocf": null,
+        "ratio": null
+      },
       {
         "period": "2025Q4",
         "net_income_m": 3534.504,
@@ -346,18 +355,22 @@
         "net_income": 914.544,
         "ocf": 2991.482,
         "ratio": 327.1009377350898
-      },
-      {
-        "period": "2024Q4",
-        "net_income_m": 56.064,
-        "ocf_m": 3564.364,
-        "cash_ratio_pct": 6357.669805936073,
-        "net_income": 56.064,
-        "ocf": 3564.364,
-        "ratio": 6357.669805936073
       }
     ],
     "kpi_table": [
+      {
+        "period": "2026Q1",
+        "opm_pct": null,
+        "roe_pct": null,
+        "roa_pct": null,
+        "fcf_100m": null,
+        "net_income_100m": null,
+        "opm": null,
+        "roe": null,
+        "roa": null,
+        "fcf_b": null,
+        "net_b": null
+      },
       {
         "period": "2025Q4",
         "opm_pct": 6.819243532724993,
@@ -409,22 +422,22 @@
         "roa": 0.3894308684412607,
         "fcf_b": -38.87108,
         "net_b": 9.14544
-      },
-      {
-        "period": "2024Q4",
-        "opm_pct": 2.3122801633931584,
-        "roe_pct": 0.0601127351816677,
-        "roa_pct": 0.024286221226422464,
-        "fcf_100m": -37.77385,
-        "net_income_100m": 0.56064,
-        "opm": 2.3122801633931584,
-        "roe": 0.0601127351816677,
-        "roa": 0.024286221226422464,
-        "fcf_b": -37.77385,
-        "net_b": 0.56064
       }
     ],
     "structure_table": [
+      {
+        "period": "2026Q1",
+        "total_assets_b": null,
+        "equity_b": null,
+        "debt_ratio_pct": null,
+        "current_liab_b": null,
+        "doi_days": null,
+        "assets": null,
+        "equity": null,
+        "debt": null,
+        "cliab": null,
+        "doi": null
+      },
       {
         "period": "2025Q4",
         "total_assets_b": 2557.91612,
@@ -476,19 +489,6 @@
         "debt": 56.87009698401773,
         "cliab": 623.67028,
         "doi": 50.65437544156685
-      },
-      {
-        "period": "2024Q4",
-        "total_assets_b": 2308.46946,
-        "equity_b": 932.64763,
-        "debt_ratio_pct": 56.86012974154746,
-        "current_liab_b": 583.81858,
-        "doi_days": 52.1970749808325,
-        "assets": 2308.46946,
-        "equity": 932.64763,
-        "debt": 56.86012974154746,
-        "cliab": 583.81858,
-        "doi": 52.1970749808325
       }
     ],
     "pe_table": [
@@ -567,6 +567,14 @@
       }
     ],
     "chips_table": [
+      {
+        "date": "2026-07-15",
+        "foreign_lots": -2065.805,
+        "it_lots": 2539.189,
+        "dealer_lots": -189.216,
+        "sum_lots": 284.168,
+        "pct_float": 0.0017880674898450302
+      },
       {
         "date": "2026-07-14",
         "foreign_lots": -4335.957,
@@ -678,21 +686,13 @@
         "dealer_lots": -139.204,
         "sum_lots": -7812.106,
         "pct_float": -0.04915603715345605
-      },
-      {
-        "date": "2026-06-23",
-        "foreign_lots": 79.418,
-        "it_lots": -547.486,
-        "dealer_lots": -68.956,
-        "sum_lots": -537.024,
-        "pct_float": -0.0033791107924415753
       }
     ],
     "returns_table": [
       {
         "year": 2026,
-        "return_pct": 299.90395903667195,
-        "period": "01/02~07/14"
+        "return_pct": 328.27243210334666,
+        "period": "01/02~07/15"
       },
       {
         "year": 2025,
@@ -706,12 +706,12 @@
       },
       {
         "year": 2023,
-        "return_pct": 51.27887019418809,
+        "return_pct": 51.27884972072763,
         "period": "01/03~12/29"
       },
       {
         "year": 2022,
-        "return_pct": -46.88453199483483,
+        "return_pct": -46.8845356489527,
         "period": "01/03~12/30"
       }
     ],
@@ -720,7 +720,7 @@
       "dataset": "structure_c_score",
       "stock_id": "3037",
       "ticker": "3037.TW",
-      "asof": "2026-07-14",
+      "asof": "2026-07-15",
       "c_score": 11.400397227260532,
       "benchmark_pe": 78.6045559256175,
       "source": [
@@ -984,14 +984,14 @@
         },
         {
           "period": "2021Q3",
-          "avg_price": 142.6090909090909,
+          "avg_price": 142.60185185185185,
           "eps": 2.87,
           "revenue_q": 186.89314,
-          "pe_ratio": 49.68957871396895,
+          "pe_ratio": 49.687056394373464,
           "rev_growth": null,
           "eps_growth": null,
           "rt_weight": 1.0,
-          "deviation": 0.6321462939246113,
+          "deviation": 0.6321142052044884,
           "theo_price": 225.59507550652225
         }
       ],
@@ -1005,27 +1005,6 @@
       "stock_name": "欣興"
     },
     "kline_data": [
-      {
-        "date": "2026-01-12",
-        "symbol": "3037.TW",
-        "open": 234.5,
-        "high": 246.0,
-        "low": 234.5,
-        "close": 243.5,
-        "volume": 40888116.0,
-        "adjclose": 243.00241088867188,
-        "dividends": 0.0,
-        "MA5": 230.6,
-        "MA20": 221.5,
-        "MA60": 191.791322072347,
-        "bb_mid": 221.5,
-        "bb_up": 236.9434452114869,
-        "bb_dn": 206.0565547885131,
-        "DIF": 9.219266511457818,
-        "DEA": 9.113156184091771,
-        "HIST": 0.2122206547320928,
-        "volume_lot": 40888.116
-      },
       {
         "date": "2026-01-13",
         "symbol": "3037.TW",
@@ -3511,7 +3490,7 @@
         "high": 914.0,
         "low": 826.0,
         "close": 874.0,
-        "volume": 28305611.0,
+        "volume": 26823200.0,
         "adjclose": 874.0,
         "dividends": 0.0,
         "MA5": 878.0,
@@ -3523,7 +3502,28 @@
         "DIF": -15.655934650859647,
         "DEA": -1.0977205505498977,
         "HIST": -29.116428200619502,
-        "volume_lot": 28305.611
+        "volume_lot": 26823.2
+      },
+      {
+        "date": "2026-07-15",
+        "symbol": "3037.TW",
+        "open": 882.0,
+        "high": 960.0,
+        "low": 870.0,
+        "close": 936.0,
+        "volume": 37732054.0,
+        "adjclose": 936.0,
+        "dividends": 0.0,
+        "MA5": 892.6,
+        "MA20": 948.9,
+        "MA60": 915.75,
+        "bb_mid": 948.9,
+        "bb_up": 1072.0241649717937,
+        "bb_dn": 825.7758350282063,
+        "DIF": -12.6340545672723,
+        "DEA": -3.4049873538943785,
+        "HIST": -18.458134426755844,
+        "volume_lot": 37732.054
       }
     ]
   }
