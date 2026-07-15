@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-15T06:07:37.168749+00:00
+> 更新時間：2026-07-15T10:49:38.744829+00:00
 
 ### 🚀 據報道台積電CoWoS產量到2027年將達到至少20萬片晶圓
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -34,15 +34,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 聯電 (UMC) 正在進軍矽光子學領域，定位於解決人工智慧資料中心的決定性瓶頸之一：晶片相互通訊的速度。在此過程中，成熟節點專業...
 - [原文連結](https://www.digitimes.com/news/a20260714VL201/umc-photonics-silicon-data-chips.html)
-
----
-
-### ⚖️ CPO量產加速新型四階段測試設備市場
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-07-13T03:15:38Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: AI驅動的需求正在加速共封裝光學（CPO）從技術驗證到量產的轉變，引發新一波的設備需求。公司包括 FormFactor、Advantest、Tokyo Electron (TEL)、Teradyne、MPI、Keysight、Anritsu…
-- [原文連結](https://www.digitimes.com/news/a20260713PD209/cpo-testing-equipment-demand.html)
 
 ---
 
@@ -82,21 +73,21 @@
 
 ---
 
-### ⚖️ 大立光預計將在 2026 年第三季實現可變孔徑斜坡，專注於 CPO 樣品
-- **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-07-10T00:51:55Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 大立光電於 2026 年 7 月 9 日表示，其可變光圈鏡頭的出貨量將於第三季度開始增加，並且已收到批量客戶的共封裝光學器件 (CPO) 出貨量的正式規格，並將向…
-- [原文連結](https://www.digitimes.com/news/a20260709PD243/cpo-shipments-2026-optics-production.html)
-
----
-
 ### 🚀 Msscorps 因人工智慧和晶片測試需求而創下第二季營收紀錄
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
 - **來源**: Digitimes (2026-07-08T02:55:00Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Msscorps reported record consolidated revenue in June, and for the first half of 2026, as demand from AI and semiconductor customers continued to expand. The Taiwan-based semiconductor inspection and analysis company also said on July 6 that its board had app…
 - [原文連結](https://www.digitimes.com/news/a20260706PD245/revenue-ai-chip-testing-demand-silicon.html)
+
+---
+
+### 🚀 研究人員創造了可編程材料，可以在沒有電源的情況下控制熱量並記住其狀態——這一突破最終可能有助於人工智慧晶片冷卻和矽光子學
+- **題材**: `光通訊與矽光子` | **重要性**: `67`
+- **來源**: Tom's Hardware UK (2026-07-14T09:30:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 研究人員創造了一種可編程熱材料，可以控制熱量並在沒有電源的情況下保持其狀態，這一突破可能有利於人工智慧晶片、矽光子和紅外線設備。
+- [原文連結](https://www.tomshardware.com/tech-industry/manufacturing/researchers-create-programmable-material-that-can-steer-heat-and-remember-its-state-without-power-breakthrough-could-eventually-aid-ai-chip-cooling-and-silicon-photonics)
 
 ---
 
@@ -109,12 +100,13 @@
 
 ---
 
-### ⚠️ 壟斷進口商在嘗試在美國生產產品時學到了什麼
-- **題材**: `總體風險` | **重要性**: `65`
-- **來源**: NPR (2026-07-12T09:00:00Z)
-- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 在因銷售的進口棋盤遊戲受到關稅打擊後，喬納森席爾瓦決定看看是否可以在美國製作大富翁遊戲的版本。這就是他學到的。
-- [原文連結](https://www.npr.org/2026/07/12/nx-s1-5887378/monopoly-tariffs-china-manufacturing-made-inusa)
+### ⚖️ 聯華電子開始量產矽光子晶圓，AI基礎設施投資者需關注
+- **題材**: `光通訊與矽光子` | **重要性**: `65`
+- **來源**: Crypto Briefing (2026-07-14T07:06:45Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 聯華電子的矽光子生產可以重塑人工智慧基礎設施投資，在地緣政治和市場變化中提供戰略優勢。
+聯華電子開始量產矽光子晶圓，AI基礎設施投資者需關注…
+- [原文連結](https://cryptobriefing.com/umc-silicon-photonics-mass-production/)
 
 ---
 
@@ -155,30 +147,39 @@ The post Tower Semiconductor ships 5 million photonic chips as AI data centers r
 
 ---
 
-### 🚀 這家被低估的 400 億美元公司已準備好起飛
-- **題材**: `光通訊與矽光子` | **重要性**: `65`
-- **來源**: 24/7 Wall St. (2026-07-08T15:27:49Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 400億美元。這是 Celestica (NYSE:CLS) 的市值，該公司最近將收入指引從 170 億美元提高到 190 億美元…
-- [原文連結](https://247wallst.com/investing/2026/07/08/this-undervalued-40-billion-company-is-ready-to-soar/)
-
----
-
-### ⚖️ 大立光將於 2026 年 7 月提供 CPO 產品樣品，著眼於 GC 優勢
-- **題材**: `光通訊與矽光子` | **重要性**: `63`
-- **來源**: Digitimes (2026-07-10T09:20:07Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 2026年7月9日，大立光電錶示，將於7月正式開始為量產客戶提供光纖陣列（FA）產品樣品，林恩平董事長在市場關注康寧的情況下概述了公司在通用封裝光學（CPO）方面的優勢…
-- [原文連結](https://www.digitimes.com/news/a20260710PD235/largan-precision-cpo-equipment-market-production-2026.html)
-
----
-
 ### ⚖️ 日本晶片製造商 Rapidus 的晶圓定價將低於台積電——2027 年推出的 2nm 級矽片定價約為 2 萬美元
 - **題材**: `半導體先進製程` | **重要性**: `62`
 - **來源**: Tom's Hardware UK (2026-07-10T12:56:48Z)
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 日本晶片製造商Rapidus透露了其策略的另一方面：提供比台積電更低的報價。
 - [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/japanese-chipmaker-rapidus-to-offer-lower-wafer-pricing-than-tsmc-2nm-class-silicon-to-be-priced-around-usd20-000-on-2027-launch)
+
+---
+
+### ⚖️ Rapidus 晶圓廠路線圖經過審查——幾十年來第一家新的領先晶片製造商擁有一座北海道晶圓廠，截止日期為 2027 年，擁有 60 個潛在客戶
+- **題材**: `半導體先進製程` | **重要性**: `62`
+- **來源**: Tom's Hardware UK (2026-07-08T16:29:26Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 日本的全國冠軍擁有 EUV 運行和 2nm GAA 原型，但仍然缺乏一個承諾的批量客戶。
+- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/rapidus-fab-roadmap-examined)
+
+---
+
+### ⚖️ JEDEC 發布新的 SPHBM4 標準以削減 AI 記憶體成本 - 窄 512 位元介面可以放棄用於有機基板的昂貴中介層
+- **題材**: `半導體先進製程` | **重要性**: `62`
+- **來源**: Tom's Hardware UK (2026-07-08T15:03:33Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: SPHBM4 承諾 HBM4 級頻寬，無需使用矽中介層和類似 CoWoS 的封裝。
+- [原文連結](https://www.tomshardware.com/pc-components/dram/jedec-releases-new-sphbm4-standard-to-slash-ai-memory-costs-narrow-512-bit-interface-enables-dropping-expensive-interposers-for-organic-substrates)
+
+---
+
+### ⚖️ Tower Semiconductor 將在政府補助的支持下在日本投資 30 億美元
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-07-14T10:10:06Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 以色列晶片製造商 Tower Semiconductor 週二表示，將投資 30 億美元來支持日本的晶片製造，其中包括來自...的 10 億美元贈款
+- [原文連結](https://finance.yahoo.com/technology/articles/tower-semiconductor-invest-3-billion-101006912.html)
 
 ---
 
