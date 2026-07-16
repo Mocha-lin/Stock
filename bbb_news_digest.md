@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-16T17:58:09.701143+00:00
+> 更新時間：2026-07-16T19:53:31.717492+00:00
 
 ### 🚀 據報道台積電CoWoS產量到2027年將達到至少20萬片晶圓
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -44,6 +44,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 聯電 (UMC) 正在進軍矽光子學領域，定位於解決人工智慧資料中心的決定性瓶頸之一：晶片相互通訊的速度。在此過程中，成熟節點專業...
 - [原文連結](https://www.digitimes.com/news/a20260714VL201/umc-photonics-silicon-data-chips.html)
+
+---
+
+### ⚠️ Nvidia 的黃發誓將交付“大量”Vera Rubin——該公司表示“我們的路線圖完好無損”
+- **題材**: `AI伺服器` | **重要性**: `72`
+- **來源**: Tom's Hardware UK (2026-07-15T19:07:17Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Nvidia 執行長表示，該公司預計將生產「大量」基於 Vera Rubin 的機器，但未能解決傳聞中的 Kyber NVL144 機架從 2027 年推遲到 2028 年的問題。
+- [原文連結](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-huang-vows-to-deliver-giant-amounts-of-vera-rubin-company-says-that-our-roadmap-is-intact)
 
 ---
 
@@ -152,16 +161,6 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: SK 海力士剛剛完成了歷史上最大的股票銷售之一，一位內存市場專家表示，美國投資者一直錯過了最關鍵的一個...
 - [原文連結](https://247wallst.com/investing/2026/07/10/memory-market-expert-sk-hynix-is-bigger-cheaper-and-closer-to-nvidia-inside-its-26-5-billion-nasdaq-debut/)
-
----
-
-### ⚖️ 隨著人工智慧資料中心競相放棄銅，Tower Semiconductor 出貨 500 萬顆光子晶片
-- **題材**: `光通訊與矽光子` | **重要性**: `65`
-- **來源**: Crypto Briefing (2026-07-09T18:24:11Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: The shift to photonic chips in AI data centers signifies a major leap in energy efficiency and data speed, reshaping future tech infrastructure.
-The post Tower Semiconductor ships 5 million photonic chips as AI data centers race to ditch copper appeared first…
-- [原文連結](https://cryptobriefing.com/tower-semiconductor-photonics-ai-data-centers/)
 
 ---
 
