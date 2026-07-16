@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-15T23:57:44.173635+00:00
+> 更新時間：2026-07-16T03:56:47.220478+00:00
 
 ### 🚀 據報道台積電CoWoS產量到2027年將達到至少20萬片晶圓
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -110,6 +110,25 @@
 
 ---
 
+### ⚖️ 聯華電子開始量產矽光子晶圓，AI基礎設施投資者需關注
+- **題材**: `光通訊與矽光子` | **重要性**: `65`
+- **來源**: Crypto Briefing (2026-07-14T07:06:45Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 聯華電子的矽光子生產可以重塑人工智慧基礎設施投資，在地緣政治和市場變化中提供戰略優勢。
+聯華電子開始量產矽光子晶圓，AI基礎設施投資者需關注…
+- [原文連結](https://cryptobriefing.com/umc-silicon-photonics-mass-production/)
+
+---
+
+### 🚀 戴爾正在贏得人工智慧基礎設施競賽。這是年初至今 250% 的上漲之後接下來會發生的事情。
+- **題材**: `AI伺服器` | **重要性**: `65`
+- **來源**: Barchart.com (2026-07-13T11:30:02Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 受人工智慧優化伺服器需求飆升的推動，戴爾股價今年以來大幅上漲。
+- [原文連結](https://www.barchart.com/story/news/3250736/dell-is-winning-the-ai-infrastructure-race-heres-what-comes-next-after-a-250-ytd-rally)
+
+---
+
 ### 🚀 Nvidia、CoreWeave 和 Nebius：GPU 繁榮的循環融資內部
 - **題材**: `AI伺服器` | **重要性**: `65`
 - **來源**: Io-fund.com (2026-07-11T17:21:49Z)
@@ -156,30 +175,12 @@ The post Tower Semiconductor ships 5 million photonic chips as AI data centers r
 
 ---
 
-### ⚖️ Tower Semiconductor 宣佈在日本擴張以提高矽光子產能，股價上漲
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-07-14T15:20:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 
-- [原文連結](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_cc1dad25-1672-4488-b130-f9900ed3c51e)
-
----
-
-### ⚖️ 沃什稱聯準會「不能容忍」高通膨，但沒有提供下一步行動的暗示
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-07-14T12:36:09Z)
-- **AI 判讀**: 屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 美聯儲主席凱文沃什週二表示，美聯儲將讓高通膨“成為過去”，但他沒有提供有關央行...
-- [原文連結](https://finance.yahoo.com/economy/policy/articles/warsh-says-fed-no-tolerance-123609273.html)
-
----
-
-### ⚖️ Tower Semiconductor 將在政府補助的支持下在日本投資 30 億美元
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-07-14T10:10:06Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 以色列晶片製造商 Tower Semiconductor 週二表示，將投資 30 億美元來支持日本的晶片製造，其中包括來自...的 10 億美元贈款
-- [原文連結](https://finance.yahoo.com/technology/articles/tower-semiconductor-invest-3-billion-101006912.html)
+### ⚖️ IBM 陷入人工智慧驅動的記憶體晶片漩渦
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: Business Insider (2026-07-14T18:29:20Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: IBM 的警告顯示人工智慧基礎設施和網路安全支出正在如何重塑技術預算。
+- [原文連結](https://www.businessinsider.com/ibm-ai-biggest-winners-draining-tech-budgets-memory-prices-2026-7#article)
 
 ---
 
