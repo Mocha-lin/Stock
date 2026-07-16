@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-16T11:00:01.834965+00:00
+> 更新時間：2026-07-16T14:50:55.289088+00:00
 
 ### 🚀 據報道台積電CoWoS產量到2027年將達到至少20萬片晶圓
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -47,21 +47,21 @@
 
 ---
 
+### 🚀 Nvidia 和 Sega 聯手為未來的遊戲提供 RTX Spark 支援——明年即將推出的《Virtua Fighter Crossroads》將開啟合作關係
+- **題材**: `AI伺服器` | **重要性**: `72`
+- **來源**: Tom's Hardware UK (2026-07-15T11:20:09Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Nvidia 和 Sega 今天宣布，即將推出的《Virtua Fighter Crossroads》將在 2027 年推出時支援 RTX Spark 平台。 Sega 也承諾在未來的遊戲中支援 Spark。
+- [原文連結](https://www.tomshardware.com/video-games/pc-gaming/nvidia-and-sega-team-up-to-deliver-rtx-spark-support-for-future-games-partnership-kicks-off-next-year-with-upcoming-virtua-fighter-crossroads)
+
+---
+
 ### 🚀 SK 海力士在具有歷史意義的美國 IPO 中籌集了創紀錄的 265 億美元——韓國內存巨頭為大規模 HBM 製造擴張提供資金
 - **題材**: `HBM記憶體` | **重要性**: `72`
 - **來源**: Tom's Hardware UK (2026-07-10T14:27:41Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: SK 海力士在創紀錄的納斯達克 IPO 中籌集了 265 億美元，該公司計劃將人工智慧需求激增和 HBM 供應售空帶來的意外收入用於資助新晶圓廠。
 - [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-raises-a-record-usd26-5-billion-in-historic-u-s-ipo-south-korean-memory-giant-to-fund-massive-hbm-manufacturing-expansions)
-
----
-
-### 🚀 Aehr Test Systems 第四季財報電話會議亮點
-- **題材**: `光通訊與矽光子` | **重要性**: `70`
-- **來源**: MarketBeat (2026-07-14T23:02:26Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Aehr Test Systems（納斯達克股票代碼：AEHR）表示，進入 2027 財年時，積壓訂單創歷史新高，預計收入將增加一倍以上，理由是與...相關的需求加速增長。
-- [原文連結](https://www.marketbeat.com/instant-alerts/aehr-test-systems-q4-earnings-call-highlights-2026-07-14/?utm_source=yahoofinance&amp;utm_medium=yahoofinance)
 
 ---
 
@@ -92,15 +92,6 @@
 
 ---
 
-### ⚠️ 報告稱，蘋果傳聞中的 M7 Ultra 目標是 1.5TB 內存和 Blackwell 級人工智慧性能——2028 年的怪物產品將取決於內存短缺的緩解
-- **題材**: `AI伺服器` | **重要性**: `67`
-- **來源**: Tom's Hardware UK (2026-07-13T12:02:52Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 蘋果計劃推出的 M7 Ultra 晶片旨在支援高達 1.5 TB 的統一內存，並將 AI 性能推向 Nvidia Blackwell 加速器的水平。
-- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/apples-rumored-m7-ultra-targets-1-5tb-of-memory-and-blackwell-class-ai)
-
----
-
 ### 🚀 SK海力士推出槓桿ETF，股價飆漲19%，提振美光、SanDisk、西部數據
 - **題材**: `HBM記憶體` | **重要性**: `65`
 - **來源**: 24/7 Wall St. (2026-07-14T16:23:02Z)
@@ -125,15 +116,6 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 日前，有消息指出三星可能贏得為 Anthropic 製造高性能 AI 晶片的合約。現在一份新報告稱，三星代工廠已獲得為 Anthropic 製造晶片的合同，Anthropic 是廣受歡迎的 Claude 背後的人工智慧公司…
 - [原文連結](https://www.sammobile.com/news/samsung-anthropic-2nm-ai-chips/)
-
----
-
-### 🚀 戴爾正在贏得人工智慧基礎設施競賽。這是年初至今 250% 的上漲之後接下來會發生的事情。
-- **題材**: `AI伺服器` | **重要性**: `65`
-- **來源**: Barchart.com (2026-07-13T11:30:02Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 受人工智慧優化伺服器需求飆升的推動，戴爾股價今年以來大幅上漲。
-- [原文連結](https://www.barchart.com/story/news/3250736/dell-is-winning-the-ai-infrastructure-race-heres-what-comes-next-after-a-250-ytd-rally)
 
 ---
 
@@ -174,12 +156,30 @@ The post Tower Semiconductor ships 5 million photonic chips as AI data centers r
 
 ---
 
+### ⚠️ 報告稱，蘋果傳聞中的 M7 Ultra 目標是 1.5TB 內存和 Blackwell 級人工智慧性能——2028 年的怪物產品將取決於內存短缺的緩解
+- **題材**: `AI伺服器` | **重要性**: `62`
+- **來源**: Tom's Hardware UK (2026-07-13T12:02:52Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 蘋果計劃推出的 M7 Ultra 晶片旨在支援高達 1.5 TB 的統一內存，並將 AI 性能推向 Nvidia Blackwell 加速器的水平。
+- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/apples-rumored-m7-ultra-targets-1-5tb-of-memory-and-blackwell-class-ai)
+
+---
+
 ### ⚖️ 日本晶片製造商 Rapidus 的晶圓定價將低於台積電——2027 年推出的 2nm 級矽片定價約為 2 萬美元
 - **題材**: `半導體先進製程` | **重要性**: `62`
 - **來源**: Tom's Hardware UK (2026-07-10T12:56:48Z)
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 日本晶片製造商Rapidus透露了其策略的另一方面：提供比台積電更低的報價。
 - [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/japanese-chipmaker-rapidus-to-offer-lower-wafer-pricing-than-tsmc-2nm-class-silicon-to-be-priced-around-usd20-000-on-2027-launch)
+
+---
+
+### ⚖️ 2026-2036年全球矽光子和光子IC市場|人工智慧加速器出貨量、資料中心網路需求和每千兆成本趨勢
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: GlobeNewswire (2026-07-15T14:28:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 都柏林，2026 年 7 月 15 日（環球通訊社）—「2026-2036 年全球矽光子學和光子積體電路市場」已添加到 ResearchAndMarkets.com 的產品中。
+- [原文連結](https://www.globenewswire.com/news-release/2026/07/15/3327890/28124/en/The-Global-Silicon-Photonics-and-Photonics-ICs-Market-2026-2036-AI-Accelerator-Shipments-Data-Centre-Networking-Requirements-and-Cost-Per-Gigabit-Trends.html)
 
 ---
 
