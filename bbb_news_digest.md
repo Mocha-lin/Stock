@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-16T14:50:55.289088+00:00
+> 更新時間：2026-07-16T16:08:01.907178+00:00
 
 ### 🚀 據報道台積電CoWoS產量到2027年將達到至少20萬片晶圓
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -174,12 +174,12 @@ The post Tower Semiconductor ships 5 million photonic chips as AI data centers r
 
 ---
 
-### ⚖️ 2026-2036年全球矽光子和光子IC市場|人工智慧加速器出貨量、資料中心網路需求和每千兆成本趨勢
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: GlobeNewswire (2026-07-15T14:28:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 都柏林，2026 年 7 月 15 日（環球通訊社）—「2026-2036 年全球矽光子學和光子積體電路市場」已添加到 ResearchAndMarkets.com 的產品中。
-- [原文連結](https://www.globenewswire.com/news-release/2026/07/15/3327890/28124/en/The-Global-Silicon-Photonics-and-Photonics-ICs-Market-2026-2036-AI-Accelerator-Shipments-Data-Centre-Networking-Requirements-and-Cost-Per-Gigabit-Trends.html)
+### ⚖️ 報告：蘋果考慮收購晶片新創公司以加強其人工智慧基礎設施
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: 9to5Mac (2026-07-15T15:27:39Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 根據 The Information 報導，蘋果一直在與銀行家和半導體新創公司進行談判，探索透過收購來增強其人工智慧伺服器能力。以下是詳細資訊。
+- [原文連結](https://9to5mac.com/2026/07/15/report-apple-looking-into-buying-chip-startups-to-strengthen-its-ai-infrastructure/)
 
 ---
 
