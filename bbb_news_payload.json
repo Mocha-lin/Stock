@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-07-16T03:56:47.220478+00:00",
+  "generated_at": "2026-07-16T06:11:26.222154+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 75,
@@ -381,6 +381,41 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "39f405b0c560ed87",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "SK海力士推出槓桿ETF，股價飆漲19%，提振美光、SanDisk、西部數據",
+      "summary": "與 SK 海力士相關的新槓桿單一股票 ETF 剛剛登陸美國市場，這家韓國儲存巨頭在納斯達克上市的股票正在以可能的方式波動。",
+      "original_title": "SK Hynix Soars 19% as Leveraged ETFs Launch, Lifting Micron, SanDisk, Western Digital",
+      "url": "https://247wallst.com/investing/2026/07/14/sk-hynix-adr-soars-19-as-leveraged-etfs-launch-lifting-micron-sandisk-western-digital/",
+      "source": "24/7 Wall St.",
+      "domain": "247wallst.com",
+      "published_at": "2026-07-14T16:23:02Z",
+      "importance": 65,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "949143fe3b03a6f8",
@@ -1128,44 +1163,6 @@
       "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "6ba69924d1d9de82",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "Google Pixel 11 Pro Fold 與 Pixel 10 Pro Fold：（幾乎）是時候升級了",
-      "summary": "如果根據最新的洩漏資訊來看，Pixel 11 Pro Fold 今年應該會帶來相當大的升級。",
-      "original_title": "Google Pixel 11 Pro Fold vs. Pixel 10 Pro Fold: It's (almost) time to upgrade",
-      "url": "https://www.androidcentral.com/phones/google-pixel/google-pixel-11-pro-fold-vs-pixel-10-pro-fold",
-      "source": "Android Central",
-      "domain": "androidcentral.com",
-      "published_at": "2026-07-13T04:05:44Z",
-      "importance": 60,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "aaaee47d0454db01",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1237,41 +1234,6 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "8939848c33f6c2fe",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "炙手可熱的記憶體製造商 SK 海力士在美國上市後股價飆漲 14%",
-      "summary": "週五交易開始後，SK 海力士股價飆漲。這家韓國記憶體晶片製造商籌集了 265 億美元資金，其 ADR 定價為每股 149 美元。",
-      "original_title": "SK Hynix soars 14% after the red-hot memory maker's US debut",
-      "url": "https://www.businessinsider.com/sk-hynix-stock-price-skhyv-ipo-26-billion-offering-nasdaq-2026-7#article",
-      "source": "Business Insider",
-      "domain": "businessinsider.com",
-      "published_at": "2026-07-10T16:07:16Z",
-      "importance": 60,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "1e1731b89e6b739f",
@@ -1836,6 +1798,44 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "6ba69924d1d9de82",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "Google Pixel 11 Pro Fold 與 Pixel 10 Pro Fold：（幾乎）是時候升級了",
+      "summary": "如果根據最新的洩漏資訊來看，Pixel 11 Pro Fold 今年應該會帶來相當大的升級。",
+      "original_title": "Google Pixel 11 Pro Fold vs. Pixel 10 Pro Fold: It's (almost) time to upgrade",
+      "url": "https://www.androidcentral.com/phones/google-pixel/google-pixel-11-pro-fold-vs-pixel-10-pro-fold",
+      "source": "Android Central",
+      "domain": "androidcentral.com",
+      "published_at": "2026-07-13T04:05:44Z",
+      "importance": 55,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "157bc6a9ca7c3668",

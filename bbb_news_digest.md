@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-16T03:56:47.220478+00:00
+> 更新時間：2026-07-16T06:11:26.222154+00:00
 
 ### 🚀 據報道台積電CoWoS產量到2027年將達到至少20萬片晶圓
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -92,6 +92,15 @@
 
 ---
 
+### 🚀 SK海力士推出槓桿ETF，股價飆漲19%，提振美光、SanDisk、西部數據
+- **題材**: `HBM記憶體` | **重要性**: `65`
+- **來源**: 24/7 Wall St. (2026-07-14T16:23:02Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 與 SK 海力士相關的新槓桿單一股票 ETF 剛剛登陸美國市場，這家韓國儲存巨頭在納斯達克上市的股票正在以可能的方式波動。
+- [原文連結](https://247wallst.com/investing/2026/07/14/sk-hynix-adr-soars-19-as-leveraged-etfs-launch-lifting-micron-sandisk-western-digital/)
+
+---
+
 ### 🚀 德州擴張推動人工智慧光學貿易，應用光電上漲 6%，Lumentum 上漲 5%
 - **題材**: `光通訊與矽光子` | **重要性**: `65`
 - **來源**: 24/7 Wall St. (2026-07-14T14:30:18Z)
@@ -172,15 +181,6 @@ The post Tower Semiconductor ships 5 million photonic chips as AI data centers r
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 日本晶片製造商Rapidus透露了其策略的另一方面：提供比台積電更低的報價。
 - [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/japanese-chipmaker-rapidus-to-offer-lower-wafer-pricing-than-tsmc-2nm-class-silicon-to-be-priced-around-usd20-000-on-2027-launch)
-
----
-
-### ⚖️ IBM 陷入人工智慧驅動的記憶體晶片漩渦
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: Business Insider (2026-07-14T18:29:20Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: IBM 的警告顯示人工智慧基礎設施和網路安全支出正在如何重塑技術預算。
-- [原文連結](https://www.businessinsider.com/ibm-ai-biggest-winners-draining-tech-budgets-memory-prices-2026-7#article)
 
 ---
 
