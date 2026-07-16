@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-16T06:11:26.222154+00:00
+> 更新時間：2026-07-16T11:00:01.834965+00:00
 
 ### 🚀 據報道台積電CoWoS產量到2027年將達到至少20萬片晶圓
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -56,12 +56,21 @@
 
 ---
 
-### ⚖️ 台積電的財報可以告訴投資者其 2026 年的展望
-- **題材**: `半導體先進製程` | **重要性**: `70`
-- **來源**: Forbes (2026-07-13T10:30:00Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 台積電 (TSM) 正在準備 7 月中旬的第二季財報電話會議，以了解這些獲利和收入目標對其前景意味著什麼。
-- [原文連結](https://www.forbes.com/sites/investor-hub/article/taiwan-semiconductor-earnings-h2-2026-outlook/)
+### 🚀 Aehr Test Systems 第四季財報電話會議亮點
+- **題材**: `光通訊與矽光子` | **重要性**: `70`
+- **來源**: MarketBeat (2026-07-14T23:02:26Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Aehr Test Systems（納斯達克股票代碼：AEHR）表示，進入 2027 財年時，積壓訂單創歷史新高，預計收入將增加一倍以上，理由是與...相關的需求加速增長。
+- [原文連結](https://www.marketbeat.com/instant-alerts/aehr-test-systems-q4-earnings-call-highlights-2026-07-14/?utm_source=yahoofinance&amp;utm_medium=yahoofinance)
+
+---
+
+### ⚖️ 美國銀行表示，隨著人工智慧伺服器需求的激增，AMD 的季度業績似乎將迎來雙豐收
+- **題材**: `AI伺服器` | **重要性**: `70`
+- **來源**: Barchart.com (2026-07-14T19:46:37Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 美國銀行預計，受 AI 伺服器對其 EPYC CPU 和加速器需求激增的推動，Advanced Micro Devices 季度業績將實現超預期成長。
+- [原文連結](https://www.barchart.com/story/news/3281420/amd-looks-set-for-a-beat-and-raise-quarter-on-surging-ai-server-demand-according-to-bofa)
 
 ---
 
@@ -119,22 +128,21 @@
 
 ---
 
-### ⚖️ 聯華電子開始量產矽光子晶圓，AI基礎設施投資者需關注
-- **題材**: `光通訊與矽光子` | **重要性**: `65`
-- **來源**: Crypto Briefing (2026-07-14T07:06:45Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 聯華電子的矽光子生產可以重塑人工智慧基礎設施投資，在地緣政治和市場變化中提供戰略優勢。
-聯華電子開始量產矽光子晶圓，AI基礎設施投資者需關注…
-- [原文連結](https://cryptobriefing.com/umc-silicon-photonics-mass-production/)
-
----
-
 ### 🚀 戴爾正在贏得人工智慧基礎設施競賽。這是年初至今 250% 的上漲之後接下來會發生的事情。
 - **題材**: `AI伺服器` | **重要性**: `65`
 - **來源**: Barchart.com (2026-07-13T11:30:02Z)
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 受人工智慧優化伺服器需求飆升的推動，戴爾股價今年以來大幅上漲。
 - [原文連結](https://www.barchart.com/story/news/3250736/dell-is-winning-the-ai-infrastructure-race-heres-what-comes-next-after-a-250-ytd-rally)
+
+---
+
+### ⚖️ 台積電的財報可以告訴投資者其 2026 年的展望
+- **題材**: `半導體先進製程` | **重要性**: `65`
+- **來源**: Forbes (2026-07-13T10:30:00Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 台積電 (TSM) 正在準備 7 月中旬的第二季財報電話會議，以了解這些獲利和收入目標對其前景意味著什麼。
+- [原文連結](https://www.forbes.com/sites/investor-hub/article/taiwan-semiconductor-earnings-h2-2026-outlook/)
 
 ---
 
@@ -163,15 +171,6 @@
 - **摘要**: The shift to photonic chips in AI data centers signifies a major leap in energy efficiency and data speed, reshaping future tech infrastructure.
 The post Tower Semiconductor ships 5 million photonic chips as AI data centers race to ditch copper appeared first…
 - [原文連結](https://cryptobriefing.com/tower-semiconductor-photonics-ai-data-centers/)
-
----
-
-### 🚀 由於需求超過產能，三星提高了晶片製造價格
-- **題材**: `半導體先進製程` | **重要性**: `65`
-- **來源**: SamMobile (2026-07-09T07:20:23Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 就在幾個月前，三星還在努力為其晶片製造業務吸引客戶。據報道，現在該公司正在提高晶片生產價格，因為其製造能力受到客戶訂單激增的壓力。根據…
-- [原文連結](https://www.sammobile.com/news/samsung-raises-chip-manufacturing-prices-as-demand-outpaces-capacity/)
 
 ---
 
