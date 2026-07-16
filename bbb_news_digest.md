@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-16T16:08:01.907178+00:00
+> 更新時間：2026-07-16T17:58:09.701143+00:00
 
 ### 🚀 據報道台積電CoWoS產量到2027年將達到至少20萬片晶圓
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -92,6 +92,15 @@
 
 ---
 
+### 🚀 兩個人工智慧伺服器賭注，兩個結果：戴爾技術 vs 超微計算機
+- **題材**: `AI伺服器` | **重要性**: `65`
+- **來源**: 24/7 Wall St. (2026-07-15T17:00:13Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 戴爾和超微本季都掀起了人工智慧伺服器浪潮，但其中一家公司看起來像一個紀律嚴明的巨頭，而另一家公司卻笨手笨腳地講述了一個故事…
+- [原文連結](https://247wallst.com/investing/2026/07/15/two-ai-server-bets-two-outcomes-dell-technologies-vs-super-micro-computer/)
+
+---
+
 ### 🚀 SK海力士推出槓桿ETF，股價飆漲19%，提振美光、SanDisk、西部數據
 - **題材**: `HBM記憶體` | **重要性**: `65`
 - **來源**: 24/7 Wall St. (2026-07-14T16:23:02Z)
@@ -171,15 +180,6 @@ The post Tower Semiconductor ships 5 million photonic chips as AI data centers r
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 日本晶片製造商Rapidus透露了其策略的另一方面：提供比台積電更低的報價。
 - [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/japanese-chipmaker-rapidus-to-offer-lower-wafer-pricing-than-tsmc-2nm-class-silicon-to-be-priced-around-usd20-000-on-2027-launch)
-
----
-
-### ⚖️ 報告：蘋果考慮收購晶片新創公司以加強其人工智慧基礎設施
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: 9to5Mac (2026-07-15T15:27:39Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 根據 The Information 報導，蘋果一直在與銀行家和半導體新創公司進行談判，探索透過收購來增強其人工智慧伺服器能力。以下是詳細資訊。
-- [原文連結](https://9to5mac.com/2026/07/15/report-apple-looking-into-buying-chip-startups-to-strengthen-its-ai-infrastructure/)
 
 ---
 
