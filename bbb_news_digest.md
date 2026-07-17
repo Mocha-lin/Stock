@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-17T14:22:40.584930+00:00
+> 更新時間：2026-07-17T16:05:39.805645+00:00
 
 ### 🚀 台積電承諾向亞利桑那州再投資 1,000 億美元，建設至少四座 2nm 晶圓廠——繼創紀錄的季度盈利後，2026 年資本支出可能達到 640 億美元
 - **題材**: `半導體先進製程` | **重要性**: `92`
@@ -37,12 +37,12 @@
 
 ---
 
-### 🚀 有 10,000 美元嗎？ Broadcom 與 Marvell：只有一個能與 AI 炒作相媲美
-- **題材**: `光通訊與矽光子` | **重要性**: `75`
-- **來源**: 24/7 Wall St. (2026-07-11T14:00:55Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Broadcom 和 Marvell 都乘坐人工智慧的順風車，實現了轟動的季度，但他們的現金流、成長策略和風險狀況卻指向完全不同的…
-- [原文連結](https://247wallst.com/investing/2026/07/11/got-10000-broadcom-vs-marvell-only-one-will-match-the-ai-hype/)
+### ⚖️ Tower Semiconductor 斥資 30 億美元進行日本光子學擴張，重振關閉的松下時代晶圓廠 — 日本經濟產業省 (METI) 支持的計劃目標是到 2028 年收入達到 36 億美元
+- **題材**: `半導體先進製程` | **重要性**: `77`
+- **來源**: Tom's Hardware UK (2026-07-16T15:39:09Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Tower Semiconductor 宣佈在日本雙軌擴張其 300mm 矽光子、矽鍺和先進封裝業務
+- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/tower-semiconductor-revives-shuttered-panasonic-era-fab-in-3-billion-japan-photonics-expansion)
 
 ---
 
@@ -70,15 +70,6 @@
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Nvidia 和 Sega 今天宣布，即將推出的《Virtua Fighter Crossroads》將在 2027 年推出時支援 RTX Spark 平台。 Sega 也承諾在未來的遊戲中支援 Spark。
 - [原文連結](https://www.tomshardware.com/video-games/pc-gaming/nvidia-and-sega-team-up-to-deliver-rtx-spark-support-for-future-games-partnership-kicks-off-next-year-with-upcoming-virtua-fighter-crossroads)
-
----
-
-### 🚀 SK 海力士在具有歷史意義的美國 IPO 中籌集了創紀錄的 265 億美元——韓國內存巨頭為大規模 HBM 製造擴張提供資金
-- **題材**: `HBM記憶體` | **重要性**: `72`
-- **來源**: Tom's Hardware UK (2026-07-10T14:27:41Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: SK 海力士在創紀錄的納斯達克 IPO 中籌集了 265 億美元，該公司計劃將人工智慧需求激增和 HBM 供應售空帶來的意外收入用於資助新晶圓廠。
-- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-raises-a-record-usd26-5-billion-in-historic-u-s-ipo-south-korean-memory-giant-to-fund-massive-hbm-manufacturing-expansions)
 
 ---
 
@@ -118,6 +109,15 @@
 
 ---
 
+### 🚀 SK 海力士在具有歷史意義的美國 IPO 中籌集了創紀錄的 265 億美元——韓國內存巨頭為大規模 HBM 製造擴張提供資金
+- **題材**: `HBM記憶體` | **重要性**: `67`
+- **來源**: Tom's Hardware UK (2026-07-10T14:27:41Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: SK 海力士在創紀錄的納斯達克 IPO 中籌集了 265 億美元，該公司計劃將人工智慧需求激增和 HBM 供應售空帶來的意外收入用於資助新晶圓廠。
+- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-raises-a-record-usd26-5-billion-in-historic-u-s-ipo-south-korean-memory-giant-to-fund-massive-hbm-manufacturing-expansions)
+
+---
+
 ### ⚖️ 第二季獲利大幅上漲後，AEHR 股價飆升
 - **題材**: `光通訊與矽光子` | **重要性**: `65`
 - **來源**: Barchart.com (2026-07-15T21:41:13Z)
@@ -154,15 +154,6 @@
 
 ---
 
-### 🚀 德州擴張推動人工智慧光學貿易，應用光電上漲 6%，Lumentum 上漲 5%
-- **題材**: `光通訊與矽光子` | **重要性**: `65`
-- **來源**: 24/7 Wall St. (2026-07-14T14:30:18Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 週二，德克薩斯州皮爾蘭的一項破土動工給人工智能光學行業帶來了衝擊，同時提振了三隻光收發器股票，並重新點燃了...
-- [原文連結](https://247wallst.com/investing/2026/07/14/applied-optoelectronics-rallies-6-lumentum-climbs-5-as-texas-expansion-fuels-ai-optics-trade/)
-
----
-
 ### ⚖️ 台積電的財報可以告訴投資者其 2026 年的展望
 - **題材**: `半導體先進製程` | **重要性**: `65`
 - **來源**: Forbes (2026-07-13T10:30:00Z)
@@ -178,6 +169,15 @@
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Neoclouds 是備受爭議的人工智慧商業模式之一，CoreWeave 和 Nebius 是兩個最廣泛認可的名字。這些公司的銷售額、積壓訂單和股價都在飆升。然而，支持他們的成長是極其昂貴的，...
 - [原文連結](https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom)
+
+---
+
+### 🚀 研究人員創造了可編程材料，可以在沒有電源的情況下控制熱量並記住其狀態——這一突破最終可能有助於人工智慧晶片冷卻和矽光子學
+- **題材**: `光通訊與矽光子` | **重要性**: `62`
+- **來源**: Tom's Hardware UK (2026-07-14T09:30:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 研究人員創造了一種可編程熱材料，可以控制熱量並在沒有電源的情況下保持其狀態，這一突破可能有利於人工智慧晶片、矽光子和紅外線設備。
+- [原文連結](https://www.tomshardware.com/tech-industry/manufacturing/researchers-create-programmable-material-that-can-steer-heat-and-remember-its-state-without-power-breakthrough-could-eventually-aid-ai-chip-cooling-and-silicon-photonics)
 
 ---
 
