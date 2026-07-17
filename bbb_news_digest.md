@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-17T16:05:39.805645+00:00
+> 更新時間：2026-07-17T17:55:02.035804+00:00
 
 ### 🚀 台積電承諾向亞利桑那州再投資 1,000 億美元，建設至少四座 2nm 晶圓廠——繼創紀錄的季度盈利後，2026 年資本支出可能達到 640 億美元
 - **題材**: `半導體先進製程` | **重要性**: `92`
@@ -7,15 +7,6 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重大事件】可能顯著影響產業評價、EPS預期或資金流向。
 - **摘要**: 台積電將在美國追加投資 1,000 億美元，在亞利桑那州再建至少四個晶片製造廠和先進封裝設施。
 - [原文連結](https://www.tomshardware.com/tech-industry/tsmc-commits-another-100-billion-to-arizona-for-at-least-four-more-2nm-fabs)
-
----
-
-### 🚀 台積電稱2nm同階段流片數量是3nm的四倍
-- **題材**: `半導體先進製程` | **重要性**: `83`
-- **來源**: Digitimes (2026-07-16T08:21:40Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 台積電 N2 製程的客戶流片量已達到其 3nm 技術同期記錄數量的四倍，顯示出隨著該代工廠提高其首款 2nm 製程的產量，設計活動變得更快。
-- [原文連結](https://www.digitimes.com/news/a20260716VL228/tsmc-3nm-2nm-production-design.html)
 
 ---
 
@@ -70,6 +61,15 @@
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Nvidia 和 Sega 今天宣布，即將推出的《Virtua Fighter Crossroads》將在 2027 年推出時支援 RTX Spark 平台。 Sega 也承諾在未來的遊戲中支援 Spark。
 - [原文連結](https://www.tomshardware.com/video-games/pc-gaming/nvidia-and-sega-team-up-to-deliver-rtx-spark-support-for-future-games-partnership-kicks-off-next-year-with-upcoming-virtua-fighter-crossroads)
+
+---
+
+### 🚀 台積電計畫斥資 1,000 億美元在亞利桑那州擴建至少四座 2 奈米晶圓廠
+- **題材**: `半導體先進製程` | **重要性**: `70`
+- **來源**: TechSpot (2026-07-16T17:22:00Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 這項消息發布之際，這家台灣巨頭公佈了再創紀錄的季度利潤，並將 2026 年資本支出預測提高至 640 億美元。閱讀整篇文章
+- [原文連結](https://www.techspot.com/news/113141-tsmc-plans-least-four-more-2nm-fabs-100.html)
 
 ---
 
@@ -145,15 +145,6 @@
 
 ---
 
-### 🚀 SK海力士推出槓桿ETF，股價飆漲19%，提振美光、SanDisk、西部數據
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: 24/7 Wall St. (2026-07-14T16:23:02Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 與 SK 海力士相關的新槓桿單一股票 ETF 剛剛登陸美國市場，這家韓國儲存巨頭在納斯達克上市的股票正在以可能的方式波動。
-- [原文連結](https://247wallst.com/investing/2026/07/14/sk-hynix-adr-soars-19-as-leveraged-etfs-launch-lifting-micron-sandisk-western-digital/)
-
----
-
 ### ⚖️ 台積電的財報可以告訴投資者其 2026 年的展望
 - **題材**: `半導體先進製程` | **重要性**: `65`
 - **來源**: Forbes (2026-07-13T10:30:00Z)
@@ -178,6 +169,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 研究人員創造了一種可編程熱材料，可以控制熱量並在沒有電源的情況下保持其狀態，這一突破可能有利於人工智慧晶片、矽光子和紅外線設備。
 - [原文連結](https://www.tomshardware.com/tech-industry/manufacturing/researchers-create-programmable-material-that-can-steer-heat-and-remember-its-state-without-power-breakthrough-could-eventually-aid-ai-chip-cooling-and-silicon-photonics)
+
+---
+
+### ⚠️ 報告稱，蘋果傳聞中的 M7 Ultra 目標是 1.5TB 內存和 Blackwell 級人工智慧性能——2028 年的怪物產品將取決於內存短缺的緩解
+- **題材**: `AI伺服器` | **重要性**: `62`
+- **來源**: Tom's Hardware UK (2026-07-13T12:02:52Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 蘋果計劃推出的 M7 Ultra 晶片旨在支援高達 1.5 TB 的統一內存，並將 AI 性能推向 Nvidia Blackwell 加速器的水平。
+- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/apples-rumored-m7-ultra-targets-1-5tb-of-memory-and-blackwell-class-ai)
 
 ---
 
