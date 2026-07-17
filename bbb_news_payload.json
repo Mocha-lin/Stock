@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-07-17T19:55:35.885688+00:00",
+  "generated_at": "2026-07-17T23:52:19.874264+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 73,
@@ -2554,44 +2554,6 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "ad45abcde346e5d8",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "四慘痛教訓：平衡 NVFP4 RL 的穩定性與效能",
-      "summary": "我們開發並分享了一種低精度 RL 配方，可以保留更高精度的訓練動態。在這個秘技中，我們需要解決由於策略量化誤差而導致的前向傳遞、由於梯度不匹配而導致的後向傳遞的不穩定性…",
-      "original_title": "The 4-Bitter Lesson: Balancing Stability and Performance in NVFP4 RL",
-      "url": "https://humansand.ai/blog/nvfp4-rl.html",
-      "source": "Humansand.ai",
-      "domain": "humansand.ai",
-      "published_at": "2026-07-10T23:04:50Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "c166a817e2376528",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2660,6 +2622,44 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "ad45abcde346e5d8",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "四慘痛教訓：平衡 NVFP4 RL 的穩定性與效能",
+      "summary": "我們開發並分享了一種低精度 RL 配方，可以保留更高精度的訓練動態。在這個秘技中，我們需要解決由於策略量化誤差而導致的前向傳遞、由於梯度不匹配而導致的後向傳遞的不穩定性…",
+      "original_title": "The 4-Bitter Lesson: Balancing Stability and Performance in NVFP4 RL",
+      "url": "https://humansand.ai/blog/nvfp4-rl.html",
+      "source": "Humansand.ai",
+      "domain": "humansand.ai",
+      "published_at": "2026-07-10T23:04:50Z",
+      "importance": 45,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     },
     {
       "id": "7f66838fe3a5cc4c",
