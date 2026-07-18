@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-18T17:44:33.034848+00:00
+> 更新時間：2026-07-18T19:56:39.436837+00:00
 
 ### 🚀 台積電承諾向亞利桑那州再投資 1,000 億美元，建設至少四座 2nm 晶圓廠——繼創紀錄的季度盈利後，2026 年資本支出可能達到 640 億美元
 - **題材**: `半導體先進製程` | **重要性**: `92`
@@ -46,15 +46,6 @@
 
 ---
 
-### ⚠️ Nvidia 的黃發誓將交付“大量”Vera Rubin——該公司表示“我們的路線圖完好無損”
-- **題材**: `AI伺服器` | **重要性**: `72`
-- **來源**: Tom's Hardware UK (2026-07-15T19:07:17Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Nvidia 執行長表示，該公司預計將生產「大量」基於 Vera Rubin 的機器，但未能解決傳聞中的 Kyber NVL144 機架從 2027 年推遲到 2028 年的問題。
-- [原文連結](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-huang-vows-to-deliver-giant-amounts-of-vera-rubin-company-says-that-our-roadmap-is-intact)
-
----
-
 ### 🚀 台積電計畫斥資 1,000 億美元在亞利桑那州擴建至少四座 2 奈米晶圓廠
 - **題材**: `半導體先進製程` | **重要性**: `70`
 - **來源**: TechSpot (2026-07-16T17:22:00Z)
@@ -79,6 +70,15 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 隨著 AI 記憶體的競爭從堆疊容量轉向封裝密度、熱控制以及與 AI 加速器更緊密的集成，SK 海力士正在儘早為下一代高頻寬記憶體 (HBM) 準備混合鍵合技術。
 - [原文連結](https://www.digitimes.com/news/a20260710VL210/hbm-packaging-hbm4-bandwidth-equipment.html)
+
+---
+
+### ⚠️ Nvidia 的黃發誓將交付“大量”Vera Rubin——該公司表示“我們的路線圖完好無損”
+- **題材**: `AI伺服器` | **重要性**: `67`
+- **來源**: Tom's Hardware UK (2026-07-15T19:07:17Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Nvidia 執行長表示，該公司預計將生產「大量」基於 Vera Rubin 的機器，但未能解決傳聞中的 Kyber NVL144 機架從 2027 年推遲到 2028 年的問題。
+- [原文連結](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-huang-vows-to-deliver-giant-amounts-of-vera-rubin-company-says-that-our-roadmap-is-intact)
 
 ---
 
@@ -115,15 +115,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Aehr 股票因第二季業績強勁和令人印象深刻的未來指引而飆升。但華爾街認為 AEHR 股價目前水準被高估。
 - [原文連結](https://www.barchart.com/story/news/3305795/aehr-stock-skyrockets-after-q2-earnings-beat-and-raise)
-
----
-
-### ⚖️ 隨著技術轉變，利潤率擴張將引發聯華電子股票進一步上漲
-- **題材**: `光通訊與矽光子` | **重要性**: `65`
-- **來源**: Barchart.com (2026-07-15T18:44:01Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 聯電在新加坡開始矽光子量產。
-- [原文連結](https://www.barchart.com/story/news/3302581/with-a-technology-shift-margin-expansion-will-trigger-further-upside-for-umc-stock)
 
 ---
 
@@ -178,6 +169,15 @@
 - **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 蘋果計劃推出的 M7 Ultra 晶片旨在支援高達 1.5 TB 的統一內存，並將 AI 性能推向 Nvidia Blackwell 加速器的水平。
 - [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/apples-rumored-m7-ultra-targets-1-5tb-of-memory-and-blackwell-class-ai)
+
+---
+
+### 🚀 匯豐銀行重申 SK Hynix 為首選籌碼，SK Hynix 逢低吸收反彈，股價上漲 8%
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: 24/7 Wall St. (2026-07-17T16:51:50Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: SK 海力士股價在觸及新低點後剛剛上演了戲劇性逆轉，但反彈背後的力量引發了與他們回答的許多問題一樣多的問題...
+- [原文連結](https://247wallst.com/investing/2026/07/17/sk-hynix-jumps-8-on-bargain-hunting-rebound-as-hsbc-reaffirms-skhy-as-a-top-chip-pick/)
 
 ---
 
