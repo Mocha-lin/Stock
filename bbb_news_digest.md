@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-18T05:57:07.004522+00:00
+> 更新時間：2026-07-18T10:18:14.989244+00:00
 
 ### 🚀 台積電承諾向亞利桑那州再投資 1,000 億美元，建設至少四座 2nm 晶圓廠——繼創紀錄的季度盈利後，2026 年資本支出可能達到 640 億美元
 - **題材**: `半導體先進製程` | **重要性**: `92`
@@ -10,12 +10,21 @@
 
 ---
 
-### 🚀 台積電稱2nm同階段流片數量是3nm的四倍
+### ⚖️ 隨著OSAT合作夥伴加強擴張力度，台積電的CoWoS產能仍然“極度緊張”
 - **題材**: `半導體先進製程` | **重要性**: `83`
-- **來源**: Digitimes (2026-07-16T08:21:40Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 台積電 N2 製程的客戶流片量已達到其 3nm 技術同期記錄數量的四倍，顯示出隨著該代工廠提高其首款 2nm 製程的產量，設計活動變得更快。
-- [原文連結](https://www.digitimes.com/news/a20260716VL228/tsmc-3nm-2nm-production-design.html)
+- **來源**: Digitimes (2026-07-17T08:56:20Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 在 7 月 16 日的財報會議上，台積電 (TSMC) 對人工智慧需求前景表示樂觀。為因應英特爾 EMIB 先進封裝技術的競爭，董事長兼執行長 C.C.魏表示台積電CoWoS產能...
+- [原文連結](https://www.digitimes.com/news/a20260717PD220/tsmc-taiwan-capacity-cowos-earnings.html)
+
+---
+
+### ⚖️ 高功率連續雷射將於 2026 年第 4 季開始出貨，WST 瞄準 AI 光學繁榮
+- **題材**: `光通訊與矽光子` | **重要性**: `78`
+- **來源**: Digitimes (2026-07-17T07:08:21Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 受光通訊產品強勁出貨量的推動，台灣光通訊公司 WaveSplitter Technologies (WST) 2026 年第一季營收幾乎翻倍。董事長兼總裁 Sheau Chen 表示，不斷增長的 AI 運算需求將...
+- [原文連結](https://www.digitimes.com/news/a20260714PD222/shipments-laser-high-power-communications-growth.html)
 
 ---
 
@@ -109,6 +118,24 @@
 
 ---
 
+### ⚠️ 美國公司終於獲得了710億美元的關稅退款，但他們正在用它來抵消伊朗戰爭造成的通貨膨脹
+- **題材**: `總體風險` | **重要性**: `65`
+- **來源**: Yahoo Entertainment (2026-07-17T07:00:00Z)
+- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 
+- [原文連結](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2e9e97f1-e9c1-41c6-a0ef-9b9e65c3a230)
+
+---
+
+### ⚠️ Nvidia 執行長黃仁勳駁斥了 Vera Rubin 硬體延遲報告，並肯定了「巨大」的產量
+- **題材**: `AI伺服器` | **重要性**: `65`
+- **來源**: Yahoo Entertainment (2026-07-16T23:30:17Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Nvidia 公司執行長黃仁勳駁斥了有關該公司 Vera Rubin AI 硬體推出延遲的報道，並確認生產仍按計劃進行。
+- [原文連結](https://finance.yahoo.com/technology/ai/articles/nvidia-ceo-jensen-huang-dismisses-233017030.html)
+
+---
+
 ### ⚠️ 人工智慧產業的巨額獲利已經不夠了
 - **題材**: `HBM記憶體` | **重要性**: `65`
 - **來源**: Business Insider (2026-07-16T14:04:05Z)
@@ -151,33 +178,6 @@
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 美國銀行預計，受 AI 伺服器對其 EPYC CPU 和加速器需求激增的推動，Advanced Micro Devices 季度業績將實現超預期成長。
 - [原文連結](https://www.barchart.com/story/news/3281420/amd-looks-set-for-a-beat-and-raise-quarter-on-surging-ai-server-demand-according-to-bofa)
-
----
-
-### ⚖️ 台積電的財報可以告訴投資者其 2026 年的展望
-- **題材**: `半導體先進製程` | **重要性**: `65`
-- **來源**: Forbes (2026-07-13T10:30:00Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 台積電 (TSM) 正在準備 7 月中旬的第二季財報電話會議，以了解這些獲利和收入目標對其前景意味著什麼。
-- [原文連結](https://www.forbes.com/sites/investor-hub/article/taiwan-semiconductor-earnings-h2-2026-outlook/)
-
----
-
-### 🚀 Nvidia、CoreWeave 和 Nebius：GPU 繁榮的循環融資內部
-- **題材**: `AI伺服器` | **重要性**: `65`
-- **來源**: Io-fund.com (2026-07-11T17:21:49Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Neoclouds 是備受爭議的人工智慧商業模式之一，CoreWeave 和 Nebius 是兩個最廣泛認可的名字。這些公司的銷售額、積壓訂單和股價都在飆升。然而，支持他們的成長是極其昂貴的，...
-- [原文連結](https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom)
-
----
-
-### 🚀 研究人員創造了可編程材料，可以在沒有電源的情況下控制熱量並記住其狀態——這一突破最終可能有助於人工智慧晶片冷卻和矽光子學
-- **題材**: `光通訊與矽光子` | **重要性**: `62`
-- **來源**: Tom's Hardware UK (2026-07-14T09:30:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 研究人員創造了一種可編程熱材料，可以控制熱量並在沒有電源的情況下保持其狀態，這一突破可能有利於人工智慧晶片、矽光子和紅外線設備。
-- [原文連結](https://www.tomshardware.com/tech-industry/manufacturing/researchers-create-programmable-material-that-can-steer-heat-and-remember-its-state-without-power-breakthrough-could-eventually-aid-ai-chip-cooling-and-silicon-photonics)
 
 ---
 
