@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-18T15:42:10.551853+00:00
+> 更新時間：2026-07-18T17:44:33.034848+00:00
 
 ### 🚀 台積電承諾向亞利桑那州再投資 1,000 億美元，建設至少四座 2nm 晶圓廠——繼創紀錄的季度盈利後，2026 年資本支出可能達到 640 億美元
 - **題材**: `半導體先進製程` | **重要性**: `92`
@@ -109,15 +109,6 @@
 
 ---
 
-### ⚠️ 人工智慧產業的巨額獲利已經不夠了
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: Business Insider (2026-07-16T14:04:05Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 晶片股週四遭到拋售。在最近一些可靠的獲利報告出現下滑之後，投資人顯然越來越難以取悅。
-- [原文連結](https://www.businessinsider.com/tsmc-earnings-chip-stocks-selloff-ai-nvda-tsm-stock-market-2026-7#article)
-
----
-
 ### ⚖️ 第二季獲利大幅上漲後，AEHR 股價飆升
 - **題材**: `光通訊與矽光子` | **重要性**: `65`
 - **來源**: Barchart.com (2026-07-15T21:41:13Z)
@@ -133,15 +124,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 聯電在新加坡開始矽光子量產。
 - [原文連結](https://www.barchart.com/story/news/3302581/with-a-technology-shift-margin-expansion-will-trigger-further-upside-for-umc-stock)
-
----
-
-### 🚀 兩個人工智慧伺服器賭注，兩個結果：戴爾技術 vs 超微計算機
-- **題材**: `AI伺服器` | **重要性**: `65`
-- **來源**: 24/7 Wall St. (2026-07-15T17:00:13Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 戴爾和超微本季都掀起了人工智慧伺服器浪潮，但其中一家公司看起來像一個紀律嚴明的巨頭，而另一家公司卻笨手笨腳地講述了一個故事…
-- [原文連結](https://247wallst.com/investing/2026/07/15/two-ai-server-bets-two-outcomes-dell-technologies-vs-super-micro-computer/)
 
 ---
 
@@ -172,12 +154,30 @@
 
 ---
 
-### 🚀 Nvidia、CoreWeave 和 Nebius：GPU 繁榮的循環融資內部
-- **題材**: `AI伺服器` | **重要性**: `65`
-- **來源**: Io-fund.com (2026-07-11T17:21:49Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Neoclouds 是備受爭議的人工智慧商業模式之一，CoreWeave 和 Nebius 是兩個最廣泛認可的名字。這些公司的銷售額、積壓訂單和股價都在飆升。然而，支持他們的成長是極其昂貴的，...
-- [原文連結](https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom)
+### 🚀 5 家備受矚目的人工智慧晶片股推動資料中心繁榮
+- **題材**: `光通訊與矽光子` | **重要性**: `65`
+- **來源**: 24/7 Wall St. (2026-07-11T13:00:07Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 當投資者追逐 GPU 的名字時，一群安靜的半導體公司正在吸收流入人工智慧資料中心的真正資本，其中五家是…
+- [原文連結](https://247wallst.com/investing/2026/07/11/5-under-the-radar-ai-chip-stocks-powering-the-data-center-boom/)
+
+---
+
+### 🚀 研究人員創造了可編程材料，可以在沒有電源的情況下控制熱量並記住其狀態——這一突破最終可能有助於人工智慧晶片冷卻和矽光子學
+- **題材**: `光通訊與矽光子` | **重要性**: `62`
+- **來源**: Tom's Hardware UK (2026-07-14T09:30:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 研究人員創造了一種可編程熱材料，可以控制熱量並在沒有電源的情況下保持其狀態，這一突破可能有利於人工智慧晶片、矽光子和紅外線設備。
+- [原文連結](https://www.tomshardware.com/tech-industry/manufacturing/researchers-create-programmable-material-that-can-steer-heat-and-remember-its-state-without-power-breakthrough-could-eventually-aid-ai-chip-cooling-and-silicon-photonics)
+
+---
+
+### ⚠️ 報告稱，蘋果傳聞中的 M7 Ultra 目標是 1.5TB 內存和 Blackwell 級人工智慧性能——2028 年的怪物產品將取決於內存短缺的緩解
+- **題材**: `AI伺服器` | **重要性**: `62`
+- **來源**: Tom's Hardware UK (2026-07-13T12:02:52Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 蘋果計劃推出的 M7 Ultra 晶片旨在支援高達 1.5 TB 的統一內存，並將 AI 性能推向 Nvidia Blackwell 加速器的水平。
+- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/apples-rumored-m7-ultra-targets-1-5tb-of-memory-and-blackwell-class-ai)
 
 ---
 
