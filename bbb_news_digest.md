@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-18T10:18:14.989244+00:00
+> 更新時間：2026-07-18T14:12:53.360751+00:00
 
 ### 🚀 台積電承諾向亞利桑那州再投資 1,000 億美元，建設至少四座 2nm 晶圓廠——繼創紀錄的季度盈利後，2026 年資本支出可能達到 640 億美元
 - **題材**: `半導體先進製程` | **重要性**: `92`
@@ -64,39 +64,12 @@
 
 ---
 
-### 🚀 Nvidia 和 Sega 聯手為未來的遊戲提供 RTX Spark 支援——明年即將推出的《Virtua Fighter Crossroads》將開啟合作關係
-- **題材**: `AI伺服器` | **重要性**: `72`
-- **來源**: Tom's Hardware UK (2026-07-15T11:20:09Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Nvidia 和 Sega 今天宣布，即將推出的《Virtua Fighter Crossroads》將在 2027 年推出時支援 RTX Spark 平台。 Sega 也承諾在未來的遊戲中支援 Spark。
-- [原文連結](https://www.tomshardware.com/video-games/pc-gaming/nvidia-and-sega-team-up-to-deliver-rtx-spark-support-for-future-games-partnership-kicks-off-next-year-with-upcoming-virtua-fighter-crossroads)
-
----
-
 ### 🚀 台積電計畫斥資 1,000 億美元在亞利桑那州擴建至少四座 2 奈米晶圓廠
 - **題材**: `半導體先進製程` | **重要性**: `70`
 - **來源**: TechSpot (2026-07-16T17:22:00Z)
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 這項消息發布之際，這家台灣巨頭公佈了再創紀錄的季度利潤，並將 2026 年資本支出預測提高至 640 億美元。閱讀整篇文章
 - [原文連結](https://www.techspot.com/news/113141-tsmc-plans-least-four-more-2nm-fabs-100.html)
-
----
-
-### ⚠️ Nvidia 的 Vera Rubin 硬體推出可能會略有延遲，但分析師仍預計成長 62% - 原因如下
-- **題材**: `AI伺服器` | **重要性**: `70`
-- **來源**: Yahoo Entertainment (2026-07-15T12:01:15Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Nvidia 公司的投資者可能需要等待更長時間才能大規模出貨其下一代 Vera Rubin AI 硬件，但這種延遲不太可能損害...
-- [原文連結](https://finance.yahoo.com/technology/ai/articles/nvidias-vera-rubin-hardware-rollout-120115717.html)
-
----
-
-### 🚀 5 家備受矚目的人工智慧晶片股推動資料中心繁榮
-- **題材**: `光通訊與矽光子` | **重要性**: `70`
-- **來源**: 24/7 Wall St. (2026-07-11T13:00:07Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 當投資者追逐 GPU 的名字時，一群安靜的半導體公司正在吸收流入人工智慧資料中心的真正資本，其中五家是…
-- [原文連結](https://247wallst.com/investing/2026/07/11/5-under-the-radar-ai-chip-stocks-powering-the-data-center-boom/)
 
 ---
 
@@ -115,6 +88,15 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 隨著 AI 記憶體的競爭從堆疊容量轉向封裝密度、熱控制以及與 AI 加速器更緊密的集成，SK 海力士正在儘早為下一代高頻寬記憶體 (HBM) 準備混合鍵合技術。
 - [原文連結](https://www.digitimes.com/news/a20260710VL210/hbm-packaging-hbm4-bandwidth-equipment.html)
+
+---
+
+### 🚀 Nvidia 和 Sega 聯手為未來的遊戲提供 RTX Spark 支援——明年即將推出的《Virtua Fighter Crossroads》將開啟合作關係
+- **題材**: `AI伺服器` | **重要性**: `67`
+- **來源**: Tom's Hardware UK (2026-07-15T11:20:09Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Nvidia 和 Sega 今天宣布，即將推出的《Virtua Fighter Crossroads》將在 2027 年推出時支援 RTX Spark 平台。 Sega 也承諾在未來的遊戲中支援 Spark。
+- [原文連結](https://www.tomshardware.com/video-games/pc-gaming/nvidia-and-sega-team-up-to-deliver-rtx-spark-support-for-future-games-partnership-kicks-off-next-year-with-upcoming-virtua-fighter-crossroads)
 
 ---
 
@@ -172,12 +154,30 @@
 
 ---
 
+### ⚠️ Nvidia 的 Vera Rubin 硬體推出可能會略有延遲，但分析師仍預計成長 62% - 原因如下
+- **題材**: `AI伺服器` | **重要性**: `65`
+- **來源**: Yahoo Entertainment (2026-07-15T12:01:15Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Nvidia 公司的投資者可能需要等待更長時間才能大規模出貨其下一代 Vera Rubin AI 硬件，但這種延遲不太可能損害...
+- [原文連結](https://finance.yahoo.com/technology/ai/articles/nvidias-vera-rubin-hardware-rollout-120115717.html)
+
+---
+
 ### ⚖️ 美國銀行表示，隨著人工智慧伺服器需求的激增，AMD 的季度業績似乎將迎來雙豐收
 - **題材**: `AI伺服器` | **重要性**: `65`
 - **來源**: Barchart.com (2026-07-14T19:46:37Z)
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 美國銀行預計，受 AI 伺服器對其 EPYC CPU 和加速器需求激增的推動，Advanced Micro Devices 季度業績將實現超預期成長。
 - [原文連結](https://www.barchart.com/story/news/3281420/amd-looks-set-for-a-beat-and-raise-quarter-on-surging-ai-server-demand-according-to-bofa)
+
+---
+
+### ⚖️ 台積電的財報可以告訴投資者其 2026 年的展望
+- **題材**: `半導體先進製程` | **重要性**: `65`
+- **來源**: Forbes (2026-07-13T10:30:00Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 台積電 (TSM) 正在準備 7 月中旬的第二季財報電話會議，以了解這些獲利和收入目標對其前景意味著什麼。
+- [原文連結](https://www.forbes.com/sites/investor-hub/article/taiwan-semiconductor-earnings-h2-2026-outlook/)
 
 ---
 
