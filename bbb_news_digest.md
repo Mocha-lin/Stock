@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-17T23:52:19.874264+00:00
+> 更新時間：2026-07-18T03:49:17.405832+00:00
 
 ### 🚀 台積電承諾向亞利桑那州再投資 1,000 億美元，建設至少四座 2nm 晶圓廠——繼創紀錄的季度盈利後，2026 年資本支出可能達到 640 億美元
 - **題材**: `半導體先進製程` | **重要性**: `92`
@@ -10,21 +10,21 @@
 
 ---
 
+### 🚀 台積電稱2nm同階段流片數量是3nm的四倍
+- **題材**: `半導體先進製程` | **重要性**: `83`
+- **來源**: Digitimes (2026-07-16T08:21:40Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 台積電 N2 製程的客戶流片量已達到其 3nm 技術同期記錄數量的四倍，顯示出隨著該代工廠提高其首款 2nm 製程的產量，設計活動變得更快。
+- [原文連結](https://www.digitimes.com/news/a20260716VL228/tsmc-3nm-2nm-production-design.html)
+
+---
+
 ### 🚀 獨家：先進封裝超過前端成長，NPO 為商業 CPO 鋪平道路
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
 - **來源**: Digitimes (2026-07-16T01:48:57Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 生成式人工智慧正在加速對運算能力、記憶體和資料頻寬的需求，將半導體創新從前端製程轉向先進封裝、矽光子學 (SiPh) 和共封裝光學 (CPO)。本傑明·海因 (Benjamin Hein)，電子公司執行長…
 - [原文連結](https://www.digitimes.com/news/a20260716PD219/cpo-genai-packaging-growth-commercial.html)
-
----
-
-### 🚀 據報道台積電CoWoS產量到2027年將達到至少20萬片晶圓
-- **題材**: `半導體先進製程` | **重要性**: `78`
-- **來源**: Digitimes (2026-07-10T04:59:19Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 由於供應仍然緊張，台積電正在加速先進封裝產能擴張，市場傳言其 CoWoS 月產量將在 2027 年達到至少 20 萬片晶圓。設備製造商仍在等待台積電最終確定訂單分配，…
-- [原文連結](https://www.digitimes.com/news/a20260710PD226/tsmc-cowos-2027-packaging-capacity.html)
 
 ---
 
@@ -100,12 +100,21 @@
 
 ---
 
-### 🚀 SK 海力士在具有歷史意義的美國 IPO 中籌集了創紀錄的 265 億美元——韓國內存巨頭為大規模 HBM 製造擴張提供資金
-- **題材**: `HBM記憶體` | **重要性**: `67`
-- **來源**: Tom's Hardware UK (2026-07-10T14:27:41Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: SK 海力士在創紀錄的納斯達克 IPO 中籌集了 265 億美元，該公司計劃將人工智慧需求激增和 HBM 供應售空帶來的意外收入用於資助新晶圓廠。
-- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-raises-a-record-usd26-5-billion-in-historic-u-s-ipo-south-korean-memory-giant-to-fund-massive-hbm-manufacturing-expansions)
+### ⚖️ SK 海力士混合鍵結推動 HBM 封裝競賽的下一階段
+- **題材**: `HBM記憶體` | **重要性**: `68`
+- **來源**: Digitimes (2026-07-12T23:51:02Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 隨著 AI 記憶體的競爭從堆疊容量轉向封裝密度、熱控制以及與 AI 加速器更緊密的集成，SK 海力士正在儘早為下一代高頻寬記憶體 (HBM) 準備混合鍵合技術。
+- [原文連結](https://www.digitimes.com/news/a20260710VL210/hbm-packaging-hbm4-bandwidth-equipment.html)
+
+---
+
+### ⚠️ 人工智慧產業的巨額獲利已經不夠了
+- **題材**: `HBM記憶體` | **重要性**: `65`
+- **來源**: Business Insider (2026-07-16T14:04:05Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 晶片股週四遭到拋售。在最近一些可靠的獲利報告出現下滑之後，投資人顯然越來越難以取悅。
+- [原文連結](https://www.businessinsider.com/tsmc-earnings-chip-stocks-selloff-ai-nvda-tsm-stock-market-2026-7#article)
 
 ---
 
@@ -169,15 +178,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 研究人員創造了一種可編程熱材料，可以控制熱量並在沒有電源的情況下保持其狀態，這一突破可能有利於人工智慧晶片、矽光子和紅外線設備。
 - [原文連結](https://www.tomshardware.com/tech-industry/manufacturing/researchers-create-programmable-material-that-can-steer-heat-and-remember-its-state-without-power-breakthrough-could-eventually-aid-ai-chip-cooling-and-silicon-photonics)
-
----
-
-### ⚠️ 報告稱，蘋果傳聞中的 M7 Ultra 目標是 1.5TB 內存和 Blackwell 級人工智慧性能——2028 年的怪物產品將取決於內存短缺的緩解
-- **題材**: `AI伺服器` | **重要性**: `62`
-- **來源**: Tom's Hardware UK (2026-07-13T12:02:52Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 蘋果計劃推出的 M7 Ultra 晶片旨在支援高達 1.5 TB 的統一內存，並將 AI 性能推向 Nvidia Blackwell 加速器的水平。
-- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/apples-rumored-m7-ultra-targets-1-5tb-of-memory-and-blackwell-class-ai)
 
 ---
 

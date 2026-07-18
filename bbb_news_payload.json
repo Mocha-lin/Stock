@@ -1,9 +1,9 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-07-17T23:52:19.874264+00:00",
+  "generated_at": "2026-07-18T03:49:17.405832+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
-  "total_count": 73,
+  "total_count": 71,
   "items": [
     {
       "id": "87e7df5ca8c41943",
@@ -44,6 +44,44 @@
       "reason": "屬「半導體先進製程」題材之偏多消息。【重大事件】可能顯著影響產業評價、EPS預期或資金流向。"
     },
     {
+      "id": "2a2816537a593da2",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "台積電稱2nm同階段流片數量是3nm的四倍",
+      "summary": "台積電 N2 製程的客戶流片量已達到其 3nm 技術同期記錄數量的四倍，顯示出隨著該代工廠提高其首款 2nm 製程的產量，設計活動變得更快。",
+      "original_title": "TSMC says 2nm has four times as many tape-outs as 3nm at the same stage",
+      "url": "https://www.digitimes.com/news/a20260716VL228/tsmc-3nm-2nm-production-design.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-07-16T08:21:40Z",
+      "importance": 83,
+      "impact": "positive",
+      "timeframe": "short_to_mid_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
       "id": "094fd93d7491026a",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -80,44 +118,6 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
-      "id": "796ac018e6d31140",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "據報道台積電CoWoS產量到2027年將達到至少20萬片晶圓",
-      "summary": "由於供應仍然緊張，台積電正在加速先進封裝產能擴張，市場傳言其 CoWoS 月產量將在 2027 年達到至少 20 萬片晶圓。設備製造商仍在等待台積電最終確定訂單分配，…",
-      "original_title": "TSMC CoWoS output reportedly to reach at least 200K wafers in 2027",
-      "url": "https://www.digitimes.com/news/a20260710PD226/tsmc-cowos-2027-packaging-capacity.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-07-10T04:59:19Z",
-      "importance": 78,
-      "impact": "positive",
-      "timeframe": "short_to_mid_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "853d12d50d5d6128",
@@ -424,19 +424,19 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "4128c391a0cb09d1",
+      "id": "8020ccc5f508cfad",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "HBM記憶體",
-      "title": "SK 海力士在具有歷史意義的美國 IPO 中籌集了創紀錄的 265 億美元——韓國內存巨頭為大規模 HBM 製造擴張提供資金",
-      "summary": "SK 海力士在創紀錄的納斯達克 IPO 中籌集了 265 億美元，該公司計劃將人工智慧需求激增和 HBM 供應售空帶來的意外收入用於資助新晶圓廠。",
-      "original_title": "SK hynix raises a record $26.5 billion in historic U.S. IPO — South Korean memory giant to fund massive HBM manufacturing expansions",
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-raises-a-record-usd26-5-billion-in-historic-u-s-ipo-south-korean-memory-giant-to-fund-massive-hbm-manufacturing-expansions",
-      "source": "Tom's Hardware UK",
-      "domain": "tomshardware.com",
-      "published_at": "2026-07-10T14:27:41Z",
-      "importance": 67,
-      "impact": "positive",
+      "title": "SK 海力士混合鍵結推動 HBM 封裝競賽的下一階段",
+      "summary": "隨著 AI 記憶體的競爭從堆疊容量轉向封裝密度、熱控制以及與 AI 加速器更緊密的集成，SK 海力士正在儘早為下一代高頻寬記憶體 (HBM) 準備混合鍵合技術。",
+      "original_title": "SK hynix hybrid bonding push signals next phase of HBM packaging race",
+      "url": "https://www.digitimes.com/news/a20260710VL210/hbm-packaging-hbm4-bandwidth-equipment.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-07-12T23:51:02Z",
+      "importance": 68,
+      "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
         "HBM",
@@ -456,7 +456,42 @@
         "009",
         "010"
       ],
-      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "54bdffb5a19241b4",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "人工智慧產業的巨額獲利已經不夠了",
+      "summary": "晶片股週四遭到拋售。在最近一些可靠的獲利報告出現下滑之後，投資人顯然越來越難以取悅。",
+      "original_title": "Blockbuster earnings aren't good enough anymore in the AI trade",
+      "url": "https://www.businessinsider.com/tsmc-earnings-chip-stocks-selloff-ai-nvda-tsm-stock-market-2026-7#article",
+      "source": "Business Insider",
+      "domain": "businessinsider.com",
+      "published_at": "2026-07-16T14:04:05Z",
+      "importance": 65,
+      "impact": "negative",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "c16ca05be8fca702",
@@ -1102,6 +1137,76 @@
       "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "7066a1086068b06a",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "SK 海力士剛在 SKHY 股票歷史性的美國上市，發出了巨大的人工智慧需求訊號",
+      "summary": "SKHY 股票在美國上市首日上漲 13%，美國存託憑證 (ADR) 銷售創紀錄，達 265 億美元，顯示對人工智慧晶片的巨大需求。",
+      "original_title": "SK Hynix Just Sent a Huge AI Demand Signal With Historic U.S. Listing for SKHY Stock",
+      "url": "https://www.barchart.com/story/news/3255149/sk-hynix-just-sent-a-huge-ai-demand-signal-with-historic-u-s-listing-for-skhy-stock",
+      "source": "Barchart.com",
+      "domain": "barchart.com",
+      "published_at": "2026-07-13T14:35:05Z",
+      "importance": 60,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "6ebcad9278dde1b6",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "SK 海力士執行長 Kwak Noh-jung 警告 2027 年將出現有史以來最嚴重的記憶體短缺",
+      "summary": "執行長 Kwak Noh-jung 表示，到 2030 年後，客戶需求將遠遠超過公司的生產能力",
+      "original_title": "SK Hynix CEO Kwak Noh-jung warns of worst-ever memory shortage in 2027",
+      "url": "https://qz.com/sk-hynix-ceo-memory-shortage-2027-warning-071326",
+      "source": "Quartz India",
+      "domain": "qz.com",
+      "published_at": "2026-07-13T12:11:50Z",
+      "importance": 60,
+      "impact": "negative",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "e3cabd60d79a59f2",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1140,53 +1245,18 @@
       "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "98fa2576d994c7e7",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "記憶體市場專家：「SK 海力士更大、更便宜、更接近 NVIDIA。」265 億美元納斯達克首秀內幕",
-      "summary": "SK 海力士剛剛完成了歷史上最大的股票銷售之一，一位內存市場專家表示，美國投資者一直錯過了最關鍵的一個...",
-      "original_title": "Memory Market Expert: “SK Hynix Is Bigger, Cheaper and Closer to NVIDIA.” Inside Its $26.5 Billion Nasdaq Debut",
-      "url": "https://247wallst.com/investing/2026/07/10/memory-market-expert-sk-hynix-is-bigger-cheaper-and-closer-to-nvidia-inside-its-26-5-billion-nasdaq-debut/",
-      "source": "24/7 Wall St.",
-      "domain": "247wallst.com",
-      "published_at": "2026-07-10T13:57:09Z",
-      "importance": 60,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "83ed24c95d4770c4",
+      "id": "b02ecda825144331",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "半導體先進製程",
-      "title": "日本晶片製造商 Rapidus 的晶圓定價將低於台積電——2027 年推出的 2nm 級矽片定價約為 2 萬美元",
-      "summary": "日本晶片製造商Rapidus透露了其策略的另一方面：提供比台積電更低的報價。",
-      "original_title": "Japanese chipmaker Rapidus to offer lower wafer pricing than TSMC — 2nm class silicon to be priced around $20,000 on 2027 launch",
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/japanese-chipmaker-rapidus-to-offer-lower-wafer-pricing-than-tsmc-2nm-class-silicon-to-be-priced-around-usd20-000-on-2027-launch",
-      "source": "Tom's Hardware UK",
-      "domain": "tomshardware.com",
-      "published_at": "2026-07-10T12:56:48Z",
-      "importance": 57,
+      "title": "英特爾前執行長表示，這家晶片製造商「當它開始由商人經營時」就脫軌了",
+      "summary": "英特爾前執行長帕特·基辛格表示，十多年來，這家晶片製造商一直由錯誤類型的高階主管管理。",
+      "original_title": "Former Intel CEO says the chipmaker went off the rails ‘when it started to be run by business people’",
+      "url": "https://www.businessinsider.com/intel-decline-reasons-pat-gelsinger-former-ceo-2026-7#article",
+      "source": "Business Insider",
+      "domain": "businessinsider.com",
+      "published_at": "2026-07-16T19:08:41Z",
+      "importance": 55,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -1397,44 +1467,6 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "446906fbe19c251d",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "中國經濟成長大幅下滑，未達目標",
-      "summary": "國內需求疲軟以及伊朗戰爭對油價的影響掩蓋了該國強勁的出口。",
-      "original_title": "China economic growth falls sharply, missing target",
-      "url": "https://www.bbc.com/news/articles/cd959x4edy8o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "source": "BBC News",
-      "domain": "bbc.com",
-      "published_at": "2026-07-15T02:22:29Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "ddf1de180f08a557",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1468,6 +1500,44 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "318f0afb6d2dc574",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "由於能源成本下降，美國 6 月消費者物價下降",
+      "summary": "由於能源價格便宜，通貨膨脹有所緩解，但專家警告稱，在美伊關係再度緊張後，價格可能會再次上漲。",
+      "original_title": "US consumer prices drop in June as energy costs tumble",
+      "url": "https://www.aljazeera.com/economy/2026/7/14/us-consumer-prices-drop-in-june-as-energy-costs-tumble",
+      "source": "Al Jazeera English",
+      "domain": "aljazeera.com",
+      "published_at": "2026-07-14T16:57:42Z",
+      "importance": 55,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "1a150c5ad9fde1d1",
@@ -1841,6 +1911,76 @@
       "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "594af32674267423",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "為什麼美光科技 (MU) 透過 220 億美元的客戶承諾來確保長期 AI 記憶體需求",
+      "summary": "美光科技公司（納斯達克股票代碼：MU）是過去 3 年表現最好的人工智慧股票之一，3 年複合成長率為 152%。 6月24日，美光揭露了16項...",
+      "original_title": "Why Micron Technology (MU) Is Securing Long-Term AI Memory Demand With $22 Billion in Customer Commitments",
+      "url": "https://finance.yahoo.com/technology/ai/articles/why-micron-technology-nasdaq-mu-115645715.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-07-12T17:25:45Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "cfbb8fa3fbe1cb76",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "265 億美元的里程碑：SK 海力士在美國上市對人工智慧產業意味著什麼",
+      "summary": "SK 海力士剛剛創造了財務歷史。這家韓國記憶體晶片巨頭完成了外國公司有史以來最大規模的美國股票出售，籌集了 26.5 美元...",
+      "original_title": "A $26.5 Billion Milestone: What SK Hynix’s U.S. Debut Means for the AI Trade",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/26-5-billion-milestone-sk-154538410.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-07-12T15:45:38Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "d940e82923b2db6a",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1955,29 +2095,32 @@
       "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "04d64153bd317873",
+      "id": "446906fbe19c251d",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "SK 海力士股價飆升，成為外國公司有史以來最大規模的美國上市",
-      "summary": "韓國記憶體晶片巨頭 SK 海力士週五在美國上市後股價飆升，這表明美國投資者仍然看好儲存股，儘管它們最近...",
-      "original_title": "SK Hynix Stock Soars in Biggest US Listing Ever by a Foreign Company",
-      "url": "https://www.investopedia.com/sk-hynix-stock-soars-in-u-s-debut-12016226",
-      "source": "Investopedia",
-      "domain": "investopedia.com",
-      "published_at": "2026-07-10T17:49:36Z",
-      "importance": 55,
-      "impact": "positive",
+      "theme": "總體風險",
+      "title": "中國經濟成長大幅下滑，未達目標",
+      "summary": "國內需求疲軟以及伊朗戰爭對油價的影響掩蓋了該國強勁的出口。",
+      "original_title": "China economic growth falls sharply, missing target",
+      "url": "https://www.bbc.com/news/articles/cd959x4edy8o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "source": "BBC News",
+      "domain": "bbc.com",
+      "published_at": "2026-07-15T02:22:29Z",
+      "importance": 50,
+      "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "HBM",
-        "記憶體"
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
       ],
       "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
       ],
       "related_models": [
         "003",
@@ -1987,42 +2130,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "1e1731b89e6b739f",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "SK 海力士將在美國首次亮相，測試人工智慧胃口",
-      "summary": "7 月 10 日（路透社）",
-      "original_title": "SK Hynix set for marquee US debut in test for AI appetite",
-      "url": "https://finance.yahoo.com/technology/ai/articles/sk-hynix-set-marquee-us-061731678.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-07-10T06:17:31Z",
-      "importance": 55,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "2031a29fce64f80c",
@@ -2552,187 +2660,6 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "c166a817e2376528",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "關於韓國晶片製造商破壞美國人工智慧派對你需要知道的一切",
-      "summary": "SK 海力士的上市規模約為 265 億美元，是外國公司在美國交易所上市規模最大的一次。",
-      "original_title": "Everything you need to know about the Korean chipmaker crashing America's AI party",
-      "url": "https://www.businessinsider.com/sk-hynix-adr-nasdaq-listing-chipmaker-ai-trade-debut-2026-7",
-      "source": "Business Insider",
-      "domain": "businessinsider.com",
-      "published_at": "2026-07-10T09:50:01Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "7e10fb6018d94bbe",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "韓國 SK 海力士在美國 IPO 融資 265 億美元，創紀錄",
-      "summary": "韓國晶片巨頭成為外國公司有史以來在美國最大規模的首次公開募股，超過了阿里巴巴 2014 年的 IPO。",
-      "original_title": "South Korea’s SK Hynix raises $26.5bn in record-breaking US IPO",
-      "url": "https://www.aljazeera.com/economy/2026/7/10/south-koreas-sk-hynix-raises-26-5bn-in-record-breaking-us-ipo",
-      "source": "Al Jazeera English",
-      "domain": "aljazeera.com",
-      "published_at": "2026-07-10T07:02:05Z",
-      "importance": 50,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "ad45abcde346e5d8",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "四慘痛教訓：平衡 NVFP4 RL 的穩定性與效能",
-      "summary": "我們開發並分享了一種低精度 RL 配方，可以保留更高精度的訓練動態。在這個秘技中，我們需要解決由於策略量化誤差而導致的前向傳遞、由於梯度不匹配而導致的後向傳遞的不穩定性…",
-      "original_title": "The 4-Bitter Lesson: Balancing Stability and Performance in NVFP4 RL",
-      "url": "https://humansand.ai/blog/nvfp4-rl.html",
-      "source": "Humansand.ai",
-      "domain": "humansand.ai",
-      "published_at": "2026-07-10T23:04:50Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "7f66838fe3a5cc4c",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "避免人工智慧災難的新計劃出現",
-      "summary": "人工智慧未來計畫正在倡導美國和中國合作暫時停止前沿人工智慧研究，以便該產業可以建立一些鷹架…",
-      "original_title": "A new plan emerges for AI apocalypse avoidance",
-      "url": "https://www.semafor.com/article/07/10/2026/a-new-plan-emerges-for-ai-apocalypse-avoidance",
-      "source": "Semafor.com",
-      "domain": "semafor.com",
-      "published_at": "2026-07-10T17:24:32Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "273ca5a45c9f01e4",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "美國電動車市場起死回生。感謝高油價。",
-      "summary": "美國電動車銷量在第二季度出現反彈，原因是聯邦激勵措施結束後，汽油價格飆升使電動車更具吸引力。",
-      "original_title": "The US EV market comes back from the dead. Thank high gas prices.",
-      "url": "https://www.businessinsider.com/electric-vehicles-us-sales-rebound-gas-prices-tesla-2026-7#article",
-      "source": "Business Insider",
-      "domain": "businessinsider.com",
-      "published_at": "2026-07-10T15:49:47Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     }
   ]
 }
