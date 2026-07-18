@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-18T14:12:53.360751+00:00
+> 更新時間：2026-07-18T15:42:10.551853+00:00
 
 ### 🚀 台積電承諾向亞利桑那州再投資 1,000 億美元，建設至少四座 2nm 晶圓廠——繼創紀錄的季度盈利後，2026 年資本支出可能達到 640 億美元
 - **題材**: `半導體先進製程` | **重要性**: `92`
@@ -43,15 +43,6 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Tower Semiconductor 宣佈在日本雙軌擴張其 300mm 矽光子、矽鍺和先進封裝業務
 - [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/tower-semiconductor-revives-shuttered-panasonic-era-fab-in-3-billion-japan-photonics-expansion)
-
----
-
-### ⚖️ 三星將 HBM、邏輯和光學結合在一起推動封裝
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-07-13T23:02:43Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 三星電子正在開發結合高頻寬記憶體 (HBM)、邏輯晶片和矽光子 (SiPh) 的先進封裝技術，以解決人工智慧資料中心面臨的不斷上升的功耗和資料傳輸瓶頸。
-- [原文連結](https://www.digitimes.com/news/a20260713VL223/samsung-hbm-optics-siph-packaging-chips.html)
 
 ---
 
@@ -178,6 +169,15 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 台積電 (TSM) 正在準備 7 月中旬的第二季財報電話會議，以了解這些獲利和收入目標對其前景意味著什麼。
 - [原文連結](https://www.forbes.com/sites/investor-hub/article/taiwan-semiconductor-earnings-h2-2026-outlook/)
+
+---
+
+### 🚀 Nvidia、CoreWeave 和 Nebius：GPU 繁榮的循環融資內部
+- **題材**: `AI伺服器` | **重要性**: `65`
+- **來源**: Io-fund.com (2026-07-11T17:21:49Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Neoclouds 是備受爭議的人工智慧商業模式之一，CoreWeave 和 Nebius 是兩個最廣泛認可的名字。這些公司的銷售額、積壓訂單和股價都在飆升。然而，支持他們的成長是極其昂貴的，...
+- [原文連結](https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom)
 
 ---
 
