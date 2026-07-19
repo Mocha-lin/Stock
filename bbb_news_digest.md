@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-19T14:17:18.143965+00:00
+> 更新時間：2026-07-19T15:43:02.375918+00:00
 
 ### 🚀 台積電承諾向亞利桑那州再投資 1,000 億美元，建設至少四座 2nm 晶圓廠——繼創紀錄的季度盈利後，2026 年資本支出可能達到 640 億美元
 - **題材**: `半導體先進製程` | **重要性**: `87`
@@ -28,15 +28,6 @@
 
 ---
 
-### ⚖️ Tower Semiconductor 斥資 30 億美元進行日本光子學擴張，重振關閉的松下時代晶圓廠 — 日本經濟產業省 (METI) 支持的計劃目標是到 2028 年收入達到 36 億美元
-- **題材**: `半導體先進製程` | **重要性**: `77`
-- **來源**: Tom's Hardware UK (2026-07-16T15:39:09Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Tower Semiconductor 宣佈在日本雙軌擴張其 300mm 矽光子、矽鍺和先進封裝業務
-- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/tower-semiconductor-revives-shuttered-panasonic-era-fab-in-3-billion-japan-photonics-expansion)
-
----
-
 ### 🚀 獨家：先進封裝超過前端成長，NPO 為商業 CPO 鋪平道路
 - **題材**: `光通訊與矽光子` | **重要性**: `73`
 - **來源**: Digitimes (2026-07-16T01:48:57Z)
@@ -52,6 +43,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 三星電子正在開發結合高頻寬記憶體 (HBM)、邏輯晶片和矽光子 (SiPh) 的先進封裝技術，以解決人工智慧資料中心面臨的不斷上升的功耗和資料傳輸瓶頸。
 - [原文連結](https://www.digitimes.com/news/a20260713VL223/samsung-hbm-optics-siph-packaging-chips.html)
+
+---
+
+### ⚖️ Tower Semiconductor 斥資 30 億美元進行日本光子學擴張，重振關閉的松下時代晶圓廠 — 日本經濟產業省 (METI) 支持的計劃目標是到 2028 年收入達到 36 億美元
+- **題材**: `半導體先進製程` | **重要性**: `72`
+- **來源**: Tom's Hardware UK (2026-07-16T15:39:09Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Tower Semiconductor 宣佈在日本雙軌擴張其 300mm 矽光子、矽鍺和先進封裝業務
+- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/tower-semiconductor-revives-shuttered-panasonic-era-fab-in-3-billion-japan-photonics-expansion)
 
 ---
 
