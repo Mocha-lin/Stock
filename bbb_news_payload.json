@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-07-19T07:03:17.344370+00:00",
+  "generated_at": "2026-07-19T10:27:48.597352+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 73,
@@ -1169,44 +1169,6 @@
       "reason": "屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "e3cabd60d79a59f2",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "壟斷進口商在嘗試在美國生產產品時學到了什麼",
-      "summary": "在因銷售的進口棋盤遊戲受到關稅打擊後，喬納森席爾瓦決定看看是否可以在美國製作大富翁遊戲的版本。這就是他學到的。",
-      "original_title": "What a Monopoly importer learned when it tried to make things in the U.S.A.",
-      "url": "https://www.npr.org/2026/07/12/nx-s1-5887378/monopoly-tariffs-china-manufacturing-made-inusa",
-      "source": "NPR",
-      "domain": "npr.org",
-      "published_at": "2026-07-12T09:00:00Z",
-      "importance": 60,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "5a663b3a13b0d807",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1351,41 +1313,6 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "46dd7f5fb7d4a41a",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "韓國工會正在反抗機器人，或者可能正在向機器人投降",
-      "summary": "當現代汽車透過波士頓動力機器人威脅自動化時，有組織的勞工應該上鉤嗎？",
-      "original_title": "A South Korean Labor Union Is in Revolt Over Robots, or Maybe It’s Surrendering to Them",
-      "url": "https://gizmodo.com/a-south-korean-labor-union-is-in-revolt-over-robots-or-maybe-its-surrendering-to-them-2000786194",
-      "source": "Gizmodo.com",
-      "domain": "gizmodo.com",
-      "published_at": "2026-07-16T09:00:44Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "549883b4bf6e66c4",
@@ -2055,6 +1982,79 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "e3cabd60d79a59f2",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "壟斷進口商在嘗試在美國生產產品時學到了什麼",
+      "summary": "在因銷售的進口棋盤遊戲受到關稅打擊後，喬納森席爾瓦決定看看是否可以在美國製作大富翁遊戲的版本。這就是他學到的。",
+      "original_title": "What a Monopoly importer learned when it tried to make things in the U.S.A.",
+      "url": "https://www.npr.org/2026/07/12/nx-s1-5887378/monopoly-tariffs-china-manufacturing-made-inusa",
+      "source": "NPR",
+      "domain": "npr.org",
+      "published_at": "2026-07-12T09:00:00Z",
+      "importance": 55,
+      "impact": "negative",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "46dd7f5fb7d4a41a",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "韓國工會正在反抗機器人，或者可能正在向機器人投降",
+      "summary": "當現代汽車透過波士頓動力機器人威脅自動化時，有組織的勞工應該上鉤嗎？",
+      "original_title": "A South Korean Labor Union Is in Revolt Over Robots, or Maybe It’s Surrendering to Them",
+      "url": "https://gizmodo.com/a-south-korean-labor-union-is-in-revolt-over-robots-or-maybe-its-surrendering-to-them-2000786194",
+      "source": "Gizmodo.com",
+      "domain": "gizmodo.com",
+      "published_at": "2026-07-16T09:00:44Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "a047b9d136f07575",
