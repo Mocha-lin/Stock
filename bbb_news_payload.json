@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-07-19T15:43:02.375918+00:00",
+  "generated_at": "2026-07-19T17:45:16.991261+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 73,
@@ -234,32 +234,32 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
-      "id": "92e9623128164b4a",
+      "id": "8cb91ac1174acffc",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "台積電計畫斥資 1,000 億美元在亞利桑那州擴建至少四座 2 奈米晶圓廠",
-      "summary": "這項消息發布之際，這家台灣巨頭公佈了再創紀錄的季度利潤，並將 2026 年資本支出預測提高至 640 億美元。閱讀整篇文章",
-      "original_title": "TSMC plans include at least four more 2nm fabs in $100 billion Arizona expansion",
-      "url": "https://www.techspot.com/news/113141-tsmc-plans-least-four-more-2nm-fabs-100.html",
-      "source": "TechSpot",
-      "domain": "techspot.com",
-      "published_at": "2026-07-16T17:22:00Z",
+      "theme": "總體風險",
+      "title": "在最高法院駁回他的第一批關稅後，川普轉向新的法律變通辦法，對巴西和可能的其他國家徵收 25% 的關稅",
+      "summary": "由於最高法院二月的裁決，川普的關稅計劃已經從產生數十億美元變成了迫使數十億美元退款。",
+      "original_title": "After the Supreme Court killed his first tariffs, Trump turns to a new legal workaround to impose 25% tariffs on Brazil and possibly others",
+      "url": "https://finance.yahoo.com/economy/policy/articles/supreme-court-killed-first-tariffs-212852588.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-07-17T21:28:52Z",
       "importance": 70,
-      "impact": "positive",
+      "impact": "negative",
       "timeframe": "short_term",
       "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
       ],
       "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
       ],
       "related_models": [
         "003",
@@ -269,7 +269,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+      "reason": "屬「總體風險」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "a003e6867571f35e",
@@ -498,6 +498,44 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "92e9623128164b4a",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "台積電計畫斥資 1,000 億美元在亞利桑那州擴建至少四座 2 奈米晶圓廠",
+      "summary": "這項消息發布之際，這家台灣巨頭公佈了再創紀錄的季度利潤，並將 2026 年資本支出預測提高至 640 億美元。閱讀整篇文章",
+      "original_title": "TSMC plans include at least four more 2nm fabs in $100 billion Arizona expansion",
+      "url": "https://www.techspot.com/news/113141-tsmc-plans-least-four-more-2nm-fabs-100.html",
+      "source": "TechSpot",
+      "domain": "techspot.com",
+      "published_at": "2026-07-16T17:22:00Z",
+      "importance": 65,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "8b3b58f02c01823b",
@@ -1099,41 +1137,6 @@
       "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "7066a1086068b06a",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "SK 海力士剛在 SKHY 股票歷史性的美國上市，發出了巨大的人工智慧需求訊號",
-      "summary": "SKHY 股票在美國上市首日上漲 13%，美國存託憑證 (ADR) 銷售創紀錄，達 265 億美元，顯示對人工智慧晶片的巨大需求。",
-      "original_title": "SK Hynix Just Sent a Huge AI Demand Signal With Historic U.S. Listing for SKHY Stock",
-      "url": "https://www.barchart.com/story/news/3255149/sk-hynix-just-sent-a-huge-ai-demand-signal-with-historic-u-s-listing-for-skhy-stock",
-      "source": "Barchart.com",
-      "domain": "barchart.com",
-      "published_at": "2026-07-13T14:35:05Z",
-      "importance": 60,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "6ebcad9278dde1b6",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1167,6 +1170,41 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "51500297ad1d998d",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "Valve 表示零售內存價格“滯後”並且即將變得更加昂貴：“情況還在變得更糟”",
+      "summary": "Valve 的頂級 Steam Machine 工程師認為，在記憶體價格變得更加過高之前，我們還有「三到六個月」的時間",
+      "original_title": "Valve Says Retail Memory Prices Are ‘Lagging’ And Are About To Become Even More Expensive: ‘It’s Still Getting Worse’",
+      "url": "https://kotaku.com/valve-says-retail-memory-prices-are-lagging-and-are-about-to-become-even-more-expensive-its-still-getting-worse-2000717414",
+      "source": "Kotaku",
+      "domain": "kotaku.com",
+      "published_at": "2026-07-18T16:00:37Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "3b30df64b9318120",
@@ -1911,79 +1949,6 @@
       "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "cfbb8fa3fbe1cb76",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "265 億美元的里程碑：SK 海力士在美國上市對人工智慧產業意味著什麼",
-      "summary": "SK 海力士剛剛創造了財務歷史。這家韓國記憶體晶片巨頭完成了外國公司有史以來最大規模的美國股票出售，籌集了 26.5 美元...",
-      "original_title": "A $26.5 Billion Milestone: What SK Hynix’s U.S. Debut Means for the AI Trade",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/26-5-billion-milestone-sk-154538410.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-07-12T15:45:38Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "e3cabd60d79a59f2",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "壟斷進口商在嘗試在美國生產產品時學到了什麼",
-      "summary": "在因銷售的進口棋盤遊戲受到關稅打擊後，喬納森席爾瓦決定看看是否可以在美國製作大富翁遊戲的版本。這就是他學到的。",
-      "original_title": "What a Monopoly importer learned when it tried to make things in the U.S.A.",
-      "url": "https://www.npr.org/2026/07/12/nx-s1-5887378/monopoly-tariffs-china-manufacturing-made-inusa",
-      "source": "NPR",
-      "domain": "npr.org",
-      "published_at": "2026-07-12T09:00:00Z",
-      "importance": 55,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "ddb0e4d2456a003f",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2695,6 +2660,41 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "cfbb8fa3fbe1cb76",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "265 億美元的里程碑：SK 海力士在美國上市對人工智慧產業意味著什麼",
+      "summary": "SK 海力士剛剛創造了財務歷史。這家韓國記憶體晶片巨頭完成了外國公司有史以來最大規模的美國股票出售，籌集了 26.5 美元...",
+      "original_title": "A $26.5 Billion Milestone: What SK Hynix’s U.S. Debut Means for the AI Trade",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/26-5-billion-milestone-sk-154538410.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-07-12T15:45:38Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "d940e82923b2db6a",
