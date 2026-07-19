@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-07-19T10:27:48.597352+00:00",
+  "generated_at": "2026-07-19T14:17:18.143965+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 73,
@@ -17,7 +17,7 @@
       "source": "Tom's Hardware UK",
       "domain": "tomshardware.com",
       "published_at": "2026-07-16T12:10:51Z",
-      "importance": 92,
+      "importance": 87,
       "impact": "positive",
       "timeframe": "short_to_mid_term",
       "tags": [
@@ -384,6 +384,44 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "f347c13449533ee2",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "大型科技公司的財報季和資本支出螺旋式上升",
+      "summary": "大型科技公司的人工智慧支出正在飆升，但較高的資本支出可能反映了通膨以及本財報季的擴張。",
+      "original_title": "Big Tech earnings season and the capex spiral",
+      "url": "https://www.businessinsider.com/big-tech-spending-capex-earnings-season-memory-prices-ai-2026-7#article",
+      "source": "Business Insider",
+      "domain": "businessinsider.com",
+      "published_at": "2026-07-18T14:00:01Z",
+      "importance": 65,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "0e7b65ca93d51a83",
@@ -836,44 +874,6 @@
       "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "0315c99e7bf6f212",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "蘋果晶片製造商承諾為美國工廠追加 1,000 億美元",
-      "summary": "蘋果晶片供應商台積電宣布將美國晶片投資增加 1,000 億美元，使其承諾總額達到 2,650 億美元。\n\n\n\n\n\n白宮和商務部確認了這一增長，同時台積電第二季度盈利...",
-      "original_title": "Apple's Chipmaker Pledges $100 Billion More for US Plants",
-      "url": "https://www.macrumors.com/2026/07/16/tsmc-pledges-100-billion-for-us-plants/",
-      "source": "MacRumors",
-      "domain": "macrumors.com",
-      "published_at": "2026-07-16T12:49:55Z",
-      "importance": 60,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "c16ca05be8fca702",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1169,6 +1169,44 @@
       "reason": "屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "3b30df64b9318120",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "川普在應對伊朗、通貨膨脹和他自己的遺產問題時改變了對吉米卡特的態度",
+      "summary": "吉米·卡特曾經是唐納德·特朗普總統最喜歡的政治目標之一，是無能的民主黨人的包羅萬象的陪襯，他可以嘲笑他們，讓他…",
+      "original_title": "Trump shifts his tone on Jimmy Carter while grappling with Iran, inflation and his own legacy",
+      "url": "https://www.yahoo.com/news/politics/articles/trump-shifts-tone-jimmy-carter-131501080.html",
+      "source": "Yahoo Entertainment",
+      "domain": "yahoo.com",
+      "published_at": "2026-07-18T13:15:01Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "5a663b3a13b0d807",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1277,17 +1315,17 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "ddb0e4d2456a003f",
+      "id": "0315c99e7bf6f212",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "半導體先進製程",
-      "title": "台積電表示可能總共在亞利桑那州建造 12 座晶片工廠，但對此持懷疑態度",
-      "summary": "蘋果晶片製造商台積電先前曾表示將在亞利桑那州建造總共 8 家工廠，現在又宣布加大投資力度，工廠數量可能增至 12 家。\n這可能會導致更多的蘋果設備晶片在美國製造，但…",
-      "original_title": "TSMC says it may build 12 Arizona chip plants in total, but be skeptical",
-      "url": "https://9to5mac.com/2026/07/16/tsmc-says-it-may-build-12-arizona-chip-plants-in-total-but-be-skeptical/",
-      "source": "9to5Mac",
-      "domain": "9to5mac.com",
-      "published_at": "2026-07-16T11:03:15Z",
+      "title": "蘋果晶片製造商承諾為美國工廠追加 1,000 億美元",
+      "summary": "蘋果晶片供應商台積電宣布將美國晶片投資增加 1,000 億美元，使其承諾總額達到 2,650 億美元。\n\n\n\n\n\n白宮和商務部確認了這一增長，同時台積電第二季度盈利...",
+      "original_title": "Apple's Chipmaker Pledges $100 Billion More for US Plants",
+      "url": "https://www.macrumors.com/2026/07/16/tsmc-pledges-100-billion-for-us-plants/",
+      "source": "MacRumors",
+      "domain": "macrumors.com",
+      "published_at": "2026-07-16T12:49:55Z",
       "importance": 55,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -1500,44 +1538,6 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "318f0afb6d2dc574",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "由於能源成本下降，美國 6 月消費者物價下降",
-      "summary": "由於能源價格便宜，通貨膨脹有所緩解，但專家警告稱，在美伊關係再度緊張後，價格可能會再次上漲。",
-      "original_title": "US consumer prices drop in June as energy costs tumble",
-      "url": "https://www.aljazeera.com/economy/2026/7/14/us-consumer-prices-drop-in-june-as-energy-costs-tumble",
-      "source": "Al Jazeera English",
-      "domain": "aljazeera.com",
-      "published_at": "2026-07-14T16:57:42Z",
-      "importance": 55,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "1a150c5ad9fde1d1",
@@ -2020,6 +2020,44 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "ddb0e4d2456a003f",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "台積電表示可能總共在亞利桑那州建造 12 座晶片工廠，但對此持懷疑態度",
+      "summary": "蘋果晶片製造商台積電先前曾表示將在亞利桑那州建造總共 8 家工廠，現在又宣布加大投資力度，工廠數量可能增至 12 家。\n這可能會導致更多的蘋果設備晶片在美國製造，但…",
+      "original_title": "TSMC says it may build 12 Arizona chip plants in total, but be skeptical",
+      "url": "https://9to5mac.com/2026/07/16/tsmc-says-it-may-build-12-arizona-chip-plants-in-total-but-be-skeptical/",
+      "source": "9to5Mac",
+      "domain": "9to5mac.com",
+      "published_at": "2026-07-16T11:03:15Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "46dd7f5fb7d4a41a",
@@ -2619,44 +2657,6 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "28740e239330f201",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "隨著美國和伊朗對霍爾木茲海峽進行攻擊，油價上漲",
-      "summary": "Brent crude climbs more than 4 percent as Washington and Tehran clash over control of critical waterway.",
-      "original_title": "Oil prices jump as US and Iran trade attacks over Strait of Hormuz",
-      "url": "https://www.aljazeera.com/economy/2026/7/13/oil-prices-jump-as-us-and-iran-trade-attacks-over-strait-of-hormuz",
-      "source": "Al Jazeera English",
-      "domain": "aljazeera.com",
-      "published_at": "2026-07-13T02:58:05Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "1940a185ec6bd55c",
