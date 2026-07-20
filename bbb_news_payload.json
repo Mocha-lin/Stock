@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-07-19T23:56:50.462448+00:00",
+  "generated_at": "2026-07-20T04:31:49.792819+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 73,
@@ -690,6 +690,44 @@
       "reason": "屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "cec5a34d10750f05",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "俄羅斯人轉向現金，對戰時經濟放緩帶來更大壓力",
+      "summary": "俄羅斯人受到行動網路關閉的打擊，在與烏克蘭四年多的戰爭後，越來越多的企業正在尋求逃稅。",
+      "original_title": "Russians turn to cash, putting more strain on slowing wartime economy",
+      "url": "https://www.bbc.co.uk/news/articles/cglj255jk8ko",
+      "source": "BBC News",
+      "domain": "bbc.co.uk",
+      "published_at": "2026-07-18T23:59:26Z",
+      "importance": 60,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "611d125de0614d18",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1099,6 +1137,41 @@
       "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "7066a1086068b06a",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "SK 海力士剛在 SKHY 股票歷史性的美國上市，發出了巨大的人工智慧需求訊號",
+      "summary": "SKHY 股票在美國上市首日上漲 13%，美國存託憑證 (ADR) 銷售創紀錄，達 265 億美元，顯示對人工智慧晶片的巨大需求。",
+      "original_title": "SK Hynix Just Sent a Huge AI Demand Signal With Historic U.S. Listing for SKHY Stock",
+      "url": "https://www.barchart.com/story/news/3255149/sk-hynix-just-sent-a-huge-ai-demand-signal-with-historic-u-s-listing-for-skhy-stock",
+      "source": "Barchart.com",
+      "domain": "barchart.com",
+      "published_at": "2026-07-13T14:35:05Z",
+      "importance": 60,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "6ebcad9278dde1b6",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1132,6 +1205,44 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "455f070d3660de1c",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "借助新的快速響應系統，亞毫米陣列捕捉伽馬射線爆發",
+      "summary": "亞毫米陣列 (SMA) 的新型半自動警報系統展示了射電干涉儀如何快速響應天基望遠鏡的發現。",
+      "original_title": "Submillimeter Array Catches a Gamma-Ray Burst Thanks to new Fast-Response System",
+      "url": "https://www.universetoday.com/articles/submillimeter-array-catches-a-gamma-ray-burst-thanks-to-new-fast-response-system",
+      "source": "Universe Today",
+      "domain": "universetoday.com",
+      "published_at": "2026-07-18T20:41:09Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "51500297ad1d998d",
@@ -1911,44 +2022,6 @@
       "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "6ba69924d1d9de82",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "Google Pixel 11 Pro Fold 與 Pixel 10 Pro Fold：（幾乎）是時候升級了",
-      "summary": "如果根據最新的洩漏資訊來看，Pixel 11 Pro Fold 今年應該會帶來相當大的升級。",
-      "original_title": "Google Pixel 11 Pro Fold vs. Pixel 10 Pro Fold: It's (almost) time to upgrade",
-      "url": "https://www.androidcentral.com/phones/google-pixel/google-pixel-11-pro-fold-vs-pixel-10-pro-fold",
-      "source": "Android Central",
-      "domain": "androidcentral.com",
-      "published_at": "2026-07-13T04:05:44Z",
-      "importance": 55,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "ddb0e4d2456a003f",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2548,6 +2621,44 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "6ba69924d1d9de82",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "Google Pixel 11 Pro Fold 與 Pixel 10 Pro Fold：（幾乎）是時候升級了",
+      "summary": "如果根據最新的洩漏資訊來看，Pixel 11 Pro Fold 今年應該會帶來相當大的升級。",
+      "original_title": "Google Pixel 11 Pro Fold vs. Pixel 10 Pro Fold: It's (almost) time to upgrade",
+      "url": "https://www.androidcentral.com/phones/google-pixel/google-pixel-11-pro-fold-vs-pixel-10-pro-fold",
+      "source": "Android Central",
+      "domain": "androidcentral.com",
+      "published_at": "2026-07-13T04:05:44Z",
+      "importance": 50,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "2f5da077ad7005a6",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2559,7 +2670,7 @@
       "source": "Yahoo Entertainment",
       "domain": "finance.yahoo.com",
       "published_at": "2026-07-13T03:42:51Z",
-      "importance": 50,
+      "importance": 45,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -2583,93 +2694,20 @@
         "009",
         "010"
       ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「半導體先進製程」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     },
     {
-      "id": "cfbb8fa3fbe1cb76",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "265 億美元的里程碑：SK 海力士在美國上市對人工智慧產業意味著什麼",
-      "summary": "SK 海力士剛剛創造了財務歷史。這家韓國記憶體晶片巨頭完成了外國公司有史以來最大規模的美國股票出售，籌集了 26.5 美元...",
-      "original_title": "A $26.5 Billion Milestone: What SK Hynix’s U.S. Debut Means for the AI Trade",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/26-5-billion-milestone-sk-154538410.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-07-12T15:45:38Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "d940e82923b2db6a",
+      "id": "28740e239330f201",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "總體風險",
-      "title": "一家公司試圖在美國製作大富翁，但無法獲得骰子",
-      "summary": "當 WS 遊戲公司從中國進口的棋盤遊戲被徵收七位數的關稅時，執行長 Jonathan Silva 決定看看是否可以在美國生產一款遊戲。他選擇了 250 歲生日版本，名為《大富翁：美國大富翁》…",
-      "original_title": "A company tried to make Monopoly in America and couldn't get dice",
-      "url": "https://boingboing.net/2026/07/12/made-in-usa-monopoly-dice.html",
-      "source": "Boing Boing",
-      "domain": "boingboing.net",
-      "published_at": "2026-07-12T15:00:35Z",
-      "importance": 50,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "1940a185ec6bd55c",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "英特爾報告稱，俄羅斯經濟是建立在債務基礎上的“幻覺”，銀行業危機即將爆發，而克里姆林宮可能會沒收退休金",
-      "summary": "情報報告估計，俄羅斯10%的企業貸款可能無法償還，而一些頂級銀行的15%的零售貸款可能是不良貸款。",
-      "original_title": "Russia’s economy is an ‘illusion’ built on debt, and a banking crisis is ready to explode, intel report says, while the Kremlin may seize pensions",
-      "url": "https://finance.yahoo.com/economy/articles/russia-economy-illusion-built-debt-200254295.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-07-12T20:02:54Z",
+      "title": "隨著美國和伊朗對霍爾木茲海峽進行攻擊，油價上漲",
+      "summary": "由於華盛頓和德黑蘭在關鍵航道的控制權問題上發生衝突，布蘭特原油價格上漲逾 4%。",
+      "original_title": "Oil prices jump as US and Iran trade attacks over Strait of Hormuz",
+      "url": "https://www.aljazeera.com/economy/2026/7/13/oil-prices-jump-as-us-and-iran-trade-attacks-over-strait-of-hormuz",
+      "source": "Al Jazeera English",
+      "domain": "aljazeera.com",
+      "published_at": "2026-07-13T02:58:05Z",
       "importance": 45,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -2695,44 +2733,6 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "80547e9db13eb3cd",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "2028 年可能會推出史上最貴的蘋果產品",
-      "summary": "而這一切都是因為你知道的。",
-      "original_title": "2028 Could Bring the Most Mind-Bendingly Expensive Apple Product of All Time",
-      "url": "https://gizmodo.com/2028-could-bring-the-most-mind-bendingly-expensive-apple-product-of-all-time-2000784460",
-      "source": "Gizmodo.com",
-      "domain": "gizmodo.com",
-      "published_at": "2026-07-12T18:56:12Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     }
   ]
 }
