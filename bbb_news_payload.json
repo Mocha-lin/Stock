@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-07-20T04:31:49.792819+00:00",
+  "generated_at": "2026-07-20T07:52:15.029782+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 73,
@@ -93,9 +93,9 @@
       "source": "Digitimes",
       "domain": "digitimes.com",
       "published_at": "2026-07-17T07:08:21Z",
-      "importance": 78,
+      "importance": 73,
       "impact": "neutral",
-      "timeframe": "short_to_mid_term",
+      "timeframe": "short_term",
       "tags": [
         "光通訊",
         "CPO",
@@ -422,44 +422,6 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "0e7b65ca93d51a83",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "美國公司終於獲得了710億美元的關稅退款，但他們正在用它來抵消伊朗戰爭造成的通貨膨脹",
-      "summary": "",
-      "original_title": "U.S. companies have finally gotten $71 billion in tariff refunds, but they’re using it to offset inflation caused by the Iran war",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2e9e97f1-e9c1-41c6-a0ef-9b9e65c3a230",
-      "source": "Yahoo Entertainment",
-      "domain": "consent.yahoo.com",
-      "published_at": "2026-07-17T07:00:00Z",
-      "importance": 65,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "92e9623128164b4a",
@@ -872,6 +834,44 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "0e7b65ca93d51a83",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "美國公司終於獲得了710億美元的關稅退款，但他們正在用它來抵消伊朗戰爭造成的通貨膨脹",
+      "summary": "",
+      "original_title": "U.S. companies have finally gotten $71 billion in tariff refunds, but they’re using it to offset inflation caused by the Iran war",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2e9e97f1-e9c1-41c6-a0ef-9b9e65c3a230",
+      "source": "Yahoo Entertainment",
+      "domain": "consent.yahoo.com",
+      "published_at": "2026-07-17T07:00:00Z",
+      "importance": 60,
+      "impact": "negative",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "aa597956e03c5d32",
@@ -1946,82 +1946,6 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "0a63610643dea6e8",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "我是一名小企業主，支付了數千美元的關稅費用。我已經放棄了退款的想法。",
-      "summary": "銷售漫畫書和人偶的馬克鮑克 (Marc Bowker) 表示，他支付了數千美元的關稅，但預計不會收到任何退款。",
-      "original_title": "I'm a small-business owner who paid thousands in tariff fees. I've given up on the idea of getting any of it refunded.",
-      "url": "https://www.businessinsider.com/small-business-owner-paid-thousands-tariffs-given-up-refunds-2026-7#article",
-      "source": "Business Insider",
-      "domain": "businessinsider.com",
-      "published_at": "2026-07-13T07:36:01Z",
-      "importance": 55,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "5d1c864a06b30fb4",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "Pixel 11 Pro Fold FCC 檔案暗示Google迄今為止最大的數據機升級",
-      "summary": "谷歌終於可以放棄三星糟糕的調製解調器，轉而在 Pixel 11 Pro Fold 中進行聯發科升級，為我們提供真正應得的可靠信號和全天電池續航時間。",
-      "original_title": "Pixel 11 Pro Fold FCC filing hints at Google's biggest modem upgrade yet",
-      "url": "https://www.androidcentral.com/phones/google-pixel/pixel-11-pro-fold-fcc-filing-hints-at-googles-biggest-modem-upgrade-yet",
-      "source": "Android Central",
-      "domain": "androidcentral.com",
-      "published_at": "2026-07-13T07:10:00Z",
-      "importance": 55,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "ddb0e4d2456a003f",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2619,6 +2543,82 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "0a63610643dea6e8",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "我是一名小企業主，支付了數千美元的關稅費用。我已經放棄了退款的想法。",
+      "summary": "銷售漫畫書和人偶的馬克鮑克 (Marc Bowker) 表示，他支付了數千美元的關稅，但預計不會收到任何退款。",
+      "original_title": "I'm a small-business owner who paid thousands in tariff fees. I've given up on the idea of getting any of it refunded.",
+      "url": "https://www.businessinsider.com/small-business-owner-paid-thousands-tariffs-given-up-refunds-2026-7#article",
+      "source": "Business Insider",
+      "domain": "businessinsider.com",
+      "published_at": "2026-07-13T07:36:01Z",
+      "importance": 50,
+      "impact": "negative",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "5d1c864a06b30fb4",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "Pixel 11 Pro Fold FCC 檔案暗示Google迄今為止最大的數據機升級",
+      "summary": "谷歌終於可以放棄三星糟糕的調製解調器，轉而在 Pixel 11 Pro Fold 中進行聯發科升級，為我們提供真正應得的可靠信號和全天電池續航時間。",
+      "original_title": "Pixel 11 Pro Fold FCC filing hints at Google's biggest modem upgrade yet",
+      "url": "https://www.androidcentral.com/phones/google-pixel/pixel-11-pro-fold-fcc-filing-hints-at-googles-biggest-modem-upgrade-yet",
+      "source": "Android Central",
+      "domain": "androidcentral.com",
+      "published_at": "2026-07-13T07:10:00Z",
+      "importance": 50,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "6ba69924d1d9de82",
