@@ -1,9 +1,9 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-07-21T18:05:43.077862+00:00",
+  "generated_at": "2026-07-21T20:10:21.849303+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
-  "total_count": 73,
+  "total_count": 74,
   "items": [
     {
       "id": "87e7df5ca8c41943",
@@ -345,6 +345,44 @@
       "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "94e5f8952a48f350",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "台積電在美國投資1000億美元購買晶片",
+      "summary": "台積電宣佈在美國的晶片投資增加1000億美元，投資額達2650億美元。白宮在台積電和商務部的第二季財報電話會議上證實了這一點。他的…",
+      "original_title": "TSMC Invests $100 Billion for Chips in the U.S",
+      "url": "https://www.ilounge.com/news/tsmc-invests-100-billion-for-chips-in-the-u-s",
+      "source": "iLounge",
+      "domain": "ilounge.com",
+      "published_at": "2026-07-20T18:41:58Z",
+      "importance": 65,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "8cb91ac1174acffc",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -459,18 +497,18 @@
       "reason": "屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "fb0a1b26da44d6df",
+      "id": "34497187e6b79aaa",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "AI伺服器",
-      "title": "美國銀行表示，隨著人工智慧伺服器需求的激增，AMD 的季度業績似乎將迎來雙豐收",
-      "summary": "美國銀行預計，受 AI 伺服器對其 EPYC CPU 和加速器需求激增的推動，Advanced Micro Devices 季度業績將實現超預期成長。",
-      "original_title": "AMD Looks Set for a Beat-and-Raise Quarter on Surging AI Server Demand, According to BofA",
-      "url": "https://www.barchart.com/story/news/3281420/amd-looks-set-for-a-beat-and-raise-quarter-on-surging-ai-server-demand-according-to-bofa",
-      "source": "Barchart.com",
-      "domain": "barchart.com",
-      "published_at": "2026-07-14T19:46:37Z",
-      "importance": 65,
+      "title": "Nvidia 正在打造世界上第一個「國家人工智慧」——日本的 FRONTia 計畫可能是全球進步的下一個重大步驟，但這是否太過分了？",
+      "summary": "日本政府、Noetra Corp 和 Nvidia 正在建立一個人工智慧項目，相信該項目將提供物理人工智慧並支撐日本的整個人工智慧生態系統",
+      "original_title": "Nvidia is building the world's first 'national AI' — Japan's FRONTia Project could be the next big step forward in global progress, but is this a step too far?",
+      "url": "https://www.techradar.com/pro/nvidia-is-building-the-worlds-first-national-ai-japans-frontia-project-could-be-the-next-big-step-forward-in-global-progress-but-is-this-a-step-too-far",
+      "source": "TechRadar",
+      "domain": "techradar.com",
+      "published_at": "2026-07-20T19:05:00Z",
+      "importance": 60,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -912,7 +950,7 @@
       "id": "421ca5452d6fab92",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
+      "theme": "HBM記憶體",
       "title": "日益嚴重的計算短缺",
       "summary": "在過去的幾個月裡，我們看到圍繞人工智慧基礎設施的討論發生了顯著轉變，現在的爭論集中在世界是否能夠足夠快地建立足夠的計算來滿足需求。在整個人工智慧供應鏈中，限制因素同時出現…",
       "original_title": "The Growing Compute Shortage",
@@ -924,17 +962,14 @@
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
+        "HBM",
+        "記憶體"
       ],
       "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
       ],
       "related_models": [
         "003",
@@ -944,7 +979,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "c16ca05be8fca702",
@@ -1059,6 +1094,44 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "fb0a1b26da44d6df",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "美國銀行表示，隨著人工智慧伺服器需求的激增，AMD 的季度業績似乎將迎來雙豐收",
+      "summary": "美國銀行預計，受 AI 伺服器對其 EPYC CPU 和加速器需求激增的推動，Advanced Micro Devices 季度業績將實現超預期成長。",
+      "original_title": "AMD Looks Set for a Beat-and-Raise Quarter on Surging AI Server Demand, According to BofA",
+      "url": "https://www.barchart.com/story/news/3281420/amd-looks-set-for-a-beat-and-raise-quarter-on-surging-ai-server-demand-according-to-bofa",
+      "source": "Barchart.com",
+      "domain": "barchart.com",
+      "published_at": "2026-07-14T19:46:37Z",
+      "importance": 60,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "b2e63afa746d4eaa",
@@ -1584,41 +1657,6 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "ddf1de180f08a557",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "IBM 陷入人工智慧驅動的記憶體晶片漩渦",
-      "summary": "IBM 的警告顯示人工智慧基礎設施和網路安全支出正在如何重塑技術預算。",
-      "original_title": "IBM gets sucked into the AI-powered memory chip vortex",
-      "url": "https://www.businessinsider.com/ibm-ai-biggest-winners-draining-tech-budgets-memory-prices-2026-7#article",
-      "source": "Business Insider",
-      "domain": "businessinsider.com",
-      "published_at": "2026-07-14T18:29:20Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "39f405b0c560ed87",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2098,44 +2136,6 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "a047b9d136f07575",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "英格蘭隊比賽結束後，阿根廷球員揮舞著福克蘭群島政治旗幟",
-      "summary": "利桑德羅·馬丁內斯和喬瓦尼·洛塞爾索舉起的橫幅違反了國際足總的體育場行為準則。",
-      "original_title": "Argentina players brandish political Falklands flag after England match",
-      "url": "https://www.aljazeera.com/sports/2026/7/15/argentina-players-brandish-political-falklands-flag-after-england-match",
-      "source": "Al Jazeera English",
-      "domain": "aljazeera.com",
-      "published_at": "2026-07-15T23:36:16Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "a473644fb23864a8",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2245,6 +2245,41 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "ddf1de180f08a557",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "IBM 陷入人工智慧驅動的記憶體晶片漩渦",
+      "summary": "IBM 的警告顯示人工智慧基礎設施和網路安全支出正在如何重塑技術預算。",
+      "original_title": "IBM gets sucked into the AI-powered memory chip vortex",
+      "url": "https://www.businessinsider.com/ibm-ai-biggest-winners-draining-tech-budgets-memory-prices-2026-7#article",
+      "source": "Business Insider",
+      "domain": "businessinsider.com",
+      "published_at": "2026-07-14T18:29:20Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "318f0afb6d2dc574",
