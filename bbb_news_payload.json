@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-07-21T07:04:05.485729+00:00",
+  "generated_at": "2026-07-21T11:08:06.729139+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 72,
@@ -115,44 +115,6 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
-      "id": "0e41f13b42898b40",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "台灣晶片設計者等待轉移生產，台積電提振美國製造業",
-      "summary": "台積電董事長 C.C.魏先生於7月16日正式宣布，公司將在美國追加投資1000億美元，資助數家2納米及更先進的邏輯晶圓廠以及先進封裝廠，以支持主要…",
-      "original_title": "TSMC boosts US manufacturing as Taiwan chip designers wait on moving production",
-      "url": "https://www.digitimes.com/news/a20260717PD217/tsmc-production-manufacturing-taiwan-ic-design.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-07-17T03:20:19Z",
-      "importance": 78,
-      "impact": "positive",
-      "timeframe": "short_to_mid_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "2a2816537a593da2",
@@ -649,32 +611,29 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "b2e63afa746d4eaa",
+      "id": "5e09cdefe7528d3b",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "研究人員創造了可編程材料，可以在沒有電源的情況下控制熱量並記住其狀態——這一突破最終可能有助於人工智慧晶片冷卻和矽光子學",
-      "summary": "研究人員創造了一種可編程熱材料，可以控制熱量並在沒有電源的情況下保持其狀態，這一突破可能有利於人工智慧晶片、矽光子和紅外線設備。",
-      "original_title": "Researchers create programmable material that can steer heat and remember its state without power — breakthrough could eventually aid AI chip cooling and silicon photonics",
-      "url": "https://www.tomshardware.com/tech-industry/manufacturing/researchers-create-programmable-material-that-can-steer-heat-and-remember-its-state-without-power-breakthrough-could-eventually-aid-ai-chip-cooling-and-silicon-photonics",
-      "source": "Tom's Hardware UK",
-      "domain": "tomshardware.com",
-      "published_at": "2026-07-14T09:30:00Z",
-      "importance": 62,
-      "impact": "positive",
+      "theme": "HBM記憶體",
+      "title": "晶片製造商正尋求大幅利潤成長，但這就足夠了嗎？",
+      "summary": "作者：Caroline Valetkevitch 紐約，7 月 20 日（路透社）",
+      "original_title": "Chipmakers head for big profit gains, but will it be enough?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/chipmakers-head-big-profit-gains-100309070.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-07-20T10:09:51Z",
+      "importance": 60,
+      "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
+        "HBM",
+        "記憶體"
       ],
       "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
       ],
       "related_models": [
         "003",
@@ -684,7 +643,83 @@
         "009",
         "010"
       ],
-      "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "8e0bcf06426b773e",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "Google Pixel 11 Pro Fold 與摩托羅拉 Razr Fold：美國最好的可折疊手機是什麼？",
+      "summary": "摩托羅拉的 Razr Fold 是當今最好的可折疊手機之一。那麼 Google 需要對 Pixel 11 Pro Fold 做些什麼才能達到預期的效果呢？我們來看一下。",
+      "original_title": "Google Pixel 11 Pro Fold vs. Motorola Razr Fold: What's the best foldable in the US?",
+      "url": "https://www.androidcentral.com/phones/google-pixel/google-pixel-11-pro-fold-vs-motorola-razr-fold",
+      "source": "Android Central",
+      "domain": "androidcentral.com",
+      "published_at": "2026-07-20T08:06:24Z",
+      "importance": 60,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "c6b7a90a89007381",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "由於伊朗戰爭推遲了旅客出行並提高了燃油成本，瑞安航空利潤下降",
+      "summary": "這家愛爾蘭航空公司表示，油價增加了成本，同時布蘭特原油價格突破了 90 美元。",
+      "original_title": "Ryanair profits drop as Iran war puts off passengers and lifts fuel costs",
+      "url": "https://www.bbc.co.uk/news/articles/cn8nldwj12jo",
+      "source": "BBC News",
+      "domain": "bbc.co.uk",
+      "published_at": "2026-07-20T07:26:56Z",
+      "importance": 60,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "9d041bffdcbf65dd",
@@ -1134,6 +1169,44 @@
       "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "b2e63afa746d4eaa",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "研究人員創造了可編程材料，可以在沒有電源的情況下控制熱量並記住其狀態——這一突破最終可能有助於人工智慧晶片冷卻和矽光子學",
+      "summary": "研究人員創造了一種可編程熱材料，可以控制熱量並在沒有電源的情況下保持其狀態，這一突破可能有利於人工智慧晶片、矽光子和紅外線設備。",
+      "original_title": "Researchers create programmable material that can steer heat and remember its state without power — breakthrough could eventually aid AI chip cooling and silicon photonics",
+      "url": "https://www.tomshardware.com/tech-industry/manufacturing/researchers-create-programmable-material-that-can-steer-heat-and-remember-its-state-without-power-breakthrough-could-eventually-aid-ai-chip-cooling-and-silicon-photonics",
+      "source": "Tom's Hardware UK",
+      "domain": "tomshardware.com",
+      "published_at": "2026-07-14T09:30:00Z",
+      "importance": 57,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "e57c579c5fbb28c9",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1208,41 +1281,6 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "f2347ed2bc257f48",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "投資傳奇人物約翰鄧普頓 (John Templeton) 對美光和 SK 海力士投資者提出警告",
-      "summary": "",
-      "original_title": "Investing Legend John Templeton Has a Warning for Micron and SK Hynix Investors",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_145f0d8b-bc43-484a-a8c8-ce6154c3a8a8",
-      "source": "Yahoo Entertainment",
-      "domain": "consent.yahoo.com",
-      "published_at": "2026-07-18T18:20:00Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "4f08752168dc7b63",
@@ -1914,44 +1952,6 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "1be60a8af45dc957",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "Tower Semiconductor 將在政府補助的支持下在日本投資 30 億美元",
-      "summary": "以色列晶片製造商 Tower Semiconductor 週二表示，將投資 30 億美元來支持日本的晶片製造，其中包括來自...的 10 億美元贈款",
-      "original_title": "Tower Semiconductor to invest $3 billion in Japan, backed by government grants",
-      "url": "https://finance.yahoo.com/technology/articles/tower-semiconductor-invest-3-billion-101006912.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-07-14T10:10:06Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "2345d66cfa9301a8",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2510,55 +2510,17 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "cc17dec49c7c69a2",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "由於天然氣價格回落，六月通膨降幅超乎預期",
-      "summary": "由於美國和伊朗之間的談判，天然氣價格下跌。",
-      "original_title": "Inflation fell more than expected in June as gas prices eased",
-      "url": "https://abcnews.com/Business/inflation-fell-expected-june-gas-prices-eased/story?id=134740935",
-      "source": "Abcnews.com",
-      "domain": "abcnews.com",
-      "published_at": "2026-07-14T12:35:36Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "3ff3ff5117cb1be7",
+      "id": "1be60a8af45dc957",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "光通訊與矽光子",
-      "title": "AOI 開始擴建 Pearland 製造園區，擴大 800G 和 1.6T 光收發器生產規模",
-      "summary": "AOI 已開始在德克薩斯州皮爾蘭的兩個相鄰工廠進行建設，以增加其 800G 和 1.6T 光收發器的產量...",
-      "original_title": "AOI Begins Expansion of Pearland Manufacturing Campus to Scale 800G and 1.6T Optical Transceiver Production",
-      "url": "https://www.globenewswire.com/news-release/2026/07/14/3326701/9986/en/AOI-Begins-Expansion-of-Pearland-Manufacturing-Campus-to-Scale-800G-and-1-6T-Optical-Transceiver-Production.html",
-      "source": "GlobeNewswire",
-      "domain": "globenewswire.com",
-      "published_at": "2026-07-14T11:00:00Z",
+      "title": "Tower Semiconductor 將在政府補助的支持下在日本投資 30 億美元",
+      "summary": "以色列晶片製造商 Tower Semiconductor 週二表示，將投資 30 億美元來支持日本的晶片製造，其中包括來自...的 10 億美元贈款",
+      "original_title": "Tower Semiconductor to invest $3 billion in Japan, backed by government grants",
+      "url": "https://finance.yahoo.com/technology/articles/tower-semiconductor-invest-3-billion-101006912.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-07-14T10:10:06Z",
       "importance": 50,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -2584,6 +2546,44 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "3ff3ff5117cb1be7",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "AOI 開始擴建 Pearland 製造園區，擴大 800G 和 1.6T 光收發器生產規模",
+      "summary": "AOI 已開始在德克薩斯州皮爾蘭的兩個相鄰工廠進行建設，以增加其 800G 和 1.6T 光收發器的產量...",
+      "original_title": "AOI Begins Expansion of Pearland Manufacturing Campus to Scale 800G and 1.6T Optical Transceiver Production",
+      "url": "https://www.globenewswire.com/news-release/2026/07/14/3326701/9986/en/AOI-Begins-Expansion-of-Pearland-Manufacturing-Campus-to-Scale-800G-and-1-6T-Optical-Transceiver-Production.html",
+      "source": "GlobeNewswire",
+      "domain": "globenewswire.com",
+      "published_at": "2026-07-14T11:00:00Z",
+      "importance": 45,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     },
     {
       "id": "45b5508660b11d6b",

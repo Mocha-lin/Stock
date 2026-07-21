@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-21T07:04:05.485729+00:00
+> 更新時間：2026-07-21T11:08:06.729139+00:00
 
 ### 🚀 台積電承諾向亞利桑那州再投資 1,000 億美元，建設至少四座 2nm 晶圓廠——繼創紀錄的季度盈利後，2026 年資本支出可能達到 640 億美元
 - **題材**: `半導體先進製程` | **重要性**: `87`
@@ -25,15 +25,6 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 在 7 月 16 日的財報會議上，台積電 (TSMC) 對人工智慧需求前景表示樂觀。為因應英特爾 EMIB 先進封裝技術的競爭，董事長兼執行長 C.C.魏表示台積電CoWoS產能...
 - [原文連結](https://www.digitimes.com/news/a20260717PD220/tsmc-taiwan-capacity-cowos-earnings.html)
-
----
-
-### 🚀 台灣晶片設計者等待轉移生產，台積電提振美國製造業
-- **題材**: `半導體先進製程` | **重要性**: `78`
-- **來源**: Digitimes (2026-07-17T03:20:19Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 台積電董事長 C.C.魏先生於7月16日正式宣布，公司將在美國追加投資1000億美元，資助數家2納米及更先進的邏輯晶圓廠以及先進封裝廠，以支持主要…
-- [原文連結](https://www.digitimes.com/news/a20260717PD217/tsmc-production-manufacturing-taiwan-ic-design.html)
 
 ---
 
@@ -154,12 +145,30 @@
 
 ---
 
-### 🚀 研究人員創造了可編程材料，可以在沒有電源的情況下控制熱量並記住其狀態——這一突破最終可能有助於人工智慧晶片冷卻和矽光子學
-- **題材**: `光通訊與矽光子` | **重要性**: `62`
-- **來源**: Tom's Hardware UK (2026-07-14T09:30:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 研究人員創造了一種可編程熱材料，可以控制熱量並在沒有電源的情況下保持其狀態，這一突破可能有利於人工智慧晶片、矽光子和紅外線設備。
-- [原文連結](https://www.tomshardware.com/tech-industry/manufacturing/researchers-create-programmable-material-that-can-steer-heat-and-remember-its-state-without-power-breakthrough-could-eventually-aid-ai-chip-cooling-and-silicon-photonics)
+### ⚖️ 晶片製造商正尋求大幅利潤成長，但這就足夠了嗎？
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-07-20T10:09:51Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 作者：Caroline Valetkevitch 紐約，7 月 20 日（路透社）
+- [原文連結](https://finance.yahoo.com/markets/stocks/articles/chipmakers-head-big-profit-gains-100309070.html)
+
+---
+
+### ⚖️ Google Pixel 11 Pro Fold 與摩托羅拉 Razr Fold：美國最好的可折疊手機是什麼？
+- **題材**: `半導體先進製程` | **重要性**: `60`
+- **來源**: Android Central (2026-07-20T08:06:24Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 摩托羅拉的 Razr Fold 是當今最好的可折疊手機之一。那麼 Google 需要對 Pixel 11 Pro Fold 做些什麼才能達到預期的效果呢？我們來看一下。
+- [原文連結](https://www.androidcentral.com/phones/google-pixel/google-pixel-11-pro-fold-vs-motorola-razr-fold)
+
+---
+
+### ⚖️ 由於伊朗戰爭推遲了旅客出行並提高了燃油成本，瑞安航空利潤下降
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: BBC News (2026-07-20T07:26:56Z)
+- **AI 判讀**: 屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 這家愛爾蘭航空公司表示，油價增加了成本，同時布蘭特原油價格突破了 90 美元。
+- [原文連結](https://www.bbc.co.uk/news/articles/cn8nldwj12jo)
 
 ---
 
@@ -169,15 +178,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 
 - [原文連結](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_28f90823-dbfb-477d-9f47-5b37a21f5b42)
-
----
-
-### 🚀 以下是蘋果提高價格的所有方式以及原因
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: 9to5Mac (2026-07-19T03:37:48Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 蘋果六月的硬體漲價成本高且不受歡迎。這也只是蘋果產品和服務價格上漲浪潮的開端。過去幾週，蘋果出於不同原因在所有領域提高了價格。
-- [原文連結](https://9to5mac.com/2026/07/18/here-are-all-the-ways-apple-is-raising-prices-and-why/)
 
 ---
 
