@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-21T23:56:09.934746+00:00
+> 更新時間：2026-07-22T04:12:48.780040+00:00
 
 ### 🚀 台積電承諾向亞利桑那州再投資 1,000 億美元，建設至少四座 2nm 晶圓廠——繼創紀錄的季度盈利後，2026 年資本支出可能達到 640 億美元
 - **題材**: `半導體先進製程` | **重要性**: `87`
@@ -46,6 +46,15 @@
 
 ---
 
+### ⚖️ 到 2027 年，三星可能在 HBM 市場超越 SK 海力士
+- **題材**: `HBM記憶體` | **重要性**: `73`
+- **來源**: Digitimes (2026-07-20T23:48:46Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 《Money Today》和《財經新聞》引述瑞銀集團的預測稱，隨著 HBM4 出貨量的擴大，三星電子可能會在 2027 年超越 SK 海力士，成為全球高頻寬記憶體市場的領導者。
+- [原文連結](https://www.digitimes.com/news/a20260720PD215/samsung-2027-hbm4-market-sk-hynix.html)
+
+---
+
 ### ⚖️ 高功率連續雷射將於 2026 年第 4 季開始出貨，WST 瞄準 AI 光學繁榮
 - **題材**: `光通訊與矽光子` | **重要性**: `73`
 - **來源**: Digitimes (2026-07-17T07:08:21Z)
@@ -73,12 +82,30 @@
 
 ---
 
+### ⚖️ 每週新聞綜述：AI 晶片競賽在矽光子、HBM、記憶體工廠和前沿模型領域不斷擴大
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-07-20T03:55:12Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 隨著政府和供應商加強對整個堆疊的控制，人工智慧競爭正在從晶片擴大到連接、記憶體、人才、專利和模型存取。以下是 2026 年 7 月 13 日至 19 日這一週閱讀次數最多的 DIGITIMES 報告。
+- [原文連結](https://www.digitimes.com/news/a20260720VL214/photonics-silicon-hbm-competition-chips.html)
+
+---
+
 ### ⚠️ Nvidia 的黃發誓將交付“大量”Vera Rubin——該公司表示“我們的路線圖完好無損”
 - **題材**: `AI伺服器` | **重要性**: `67`
 - **來源**: Tom's Hardware UK (2026-07-15T19:07:17Z)
 - **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Nvidia 執行長表示，該公司預計將生產「大量」基於 Vera Rubin 的機器，但未能解決傳聞中的 Kyber NVL144 機架從 2027 年推遲到 2028 年的問題。
 - [原文連結](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-huang-vows-to-deliver-giant-amounts-of-vera-rubin-company-says-that-our-roadmap-is-intact)
+
+---
+
+### 🚀 Nvidia 和 Sega 聯手為未來的遊戲提供 RTX Spark 支援——明年即將推出的《Virtua Fighter Crossroads》將開啟合作關係
+- **題材**: `AI伺服器` | **重要性**: `67`
+- **來源**: Tom's Hardware UK (2026-07-15T11:20:09Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Nvidia 和 Sega 今天宣布，即將推出的《Virtua Fighter Crossroads》將在 2027 年推出時支援 RTX Spark 平台。 Sega 也承諾在未來的遊戲中支援 Spark。
+- [原文連結](https://www.tomshardware.com/video-games/pc-gaming/nvidia-and-sega-team-up-to-deliver-rtx-spark-support-for-future-games-partnership-kicks-off-next-year-with-upcoming-virtua-fighter-crossroads)
 
 ---
 
@@ -118,6 +145,15 @@
 
 ---
 
+### ⚖️ 台灣起訴前台積電經理涉嫌為中國竊取晶片機密——此類案件中首例將經理與中國半導體材料分析公司聯繫起來
+- **題材**: `半導體先進製程` | **重要性**: `62`
+- **來源**: Tom's Hardware UK (2026-07-20T18:13:21Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 台灣檢方週一起訴台積電一名前副經理，指控其涉嫌複製 21 份機密文件。
+- [原文連結](https://www.tomshardware.com/tech-industry/taiwan-inducts-ex-tsmc-manager-for-allegedly-stealing-chip-secrets-for-china)
+
+---
+
 ### ⚠️ 川普對某些加拿大商品加徵50%關稅
 - **題材**: `總體風險` | **重要性**: `60`
 - **來源**: Abcnews.com (2026-07-20T21:12:03Z)
@@ -142,42 +178,6 @@
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 日本政府、Noetra Corp 和 Nvidia 正在建立一個人工智慧項目，相信該項目將提供物理人工智慧並支撐日本的整個人工智慧生態系統
 - [原文連結](https://www.techradar.com/pro/nvidia-is-building-the-worlds-first-national-ai-japans-frontia-project-could-be-the-next-big-step-forward-in-global-progress-but-is-this-a-step-too-far)
-
----
-
-### ⚖️ (PR) IEEE 研究強調微轉移印刷如何帶來先進的矽光子學
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: Techpowerup.com (2026-07-20T14:38:56Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 矽光子學已成為解決傳統電氣互連的頻寬和延遲瓶頸的一項有前途的技術，因此正在為未來的人工智慧基礎設施進行探索。然而，異質集成...
-- [原文連結](https://www.techpowerup.com/350894/ieee-study-highlights-how-micro-transfer-printing-can-lead-to-advanced-silicon-photonics)
-
----
-
-### ⚖️ 執行長、創辦人和億萬富翁現身世界盃決賽
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: Business Insider (2026-07-20T11:51:19Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 新澤西州的貴賓包括鋼鐵大亨、體育高層和創造型企業家。
-- [原文連結](https://www.businessinsider.com/ceos-founders-billionaires-spotted-at-fifa-world-cup-final-2026-7#article)
-
----
-
-### ⚖️ 晶片製造商正尋求大幅利潤成長，但這就足夠了嗎？
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-07-20T10:09:51Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 作者：Caroline Valetkevitch 紐約，7 月 20 日（路透社）
-- [原文連結](https://finance.yahoo.com/markets/stocks/articles/chipmakers-head-big-profit-gains-100309070.html)
-
----
-
-### ⚖️ Google Pixel 11 Pro Fold 與摩托羅拉 Razr Fold：美國最好的可折疊手機是什麼？
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: Android Central (2026-07-20T08:06:24Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 摩托羅拉的 Razr Fold 是當今最好的可折疊手機之一。那麼 Google 需要對 Pixel 11 Pro Fold 做些什麼才能達到預期的效果呢？我們來看一下。
-- [原文連結](https://www.androidcentral.com/phones/google-pixel/google-pixel-11-pro-fold-vs-motorola-razr-fold)
 
 ---
 
