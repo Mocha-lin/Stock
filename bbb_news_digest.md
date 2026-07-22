@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-22T14:52:22.908576+00:00
+> 更新時間：2026-07-22T16:11:38.929628+00:00
 
 ### 🚀 台積電承諾向亞利桑那州再投資 1,000 億美元，建設至少四座 2nm 晶圓廠——繼創紀錄的季度盈利後，2026 年資本支出可能達到 640 億美元
 - **題材**: `半導體先進製程` | **重要性**: `87`
@@ -43,6 +43,15 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 在 7 月 16 日的財報會議上，台積電 (TSMC) 對人工智慧需求前景表示樂觀。為因應英特爾 EMIB 先進封裝技術的競爭，董事長兼執行長 C.C.魏表示台積電CoWoS產能...
 - [原文連結](https://www.digitimes.com/news/a20260717PD220/tsmc-taiwan-capacity-cowos-earnings.html)
+
+---
+
+### 🚀 SK 海力士的 HBM 帝國佔據了美國 65% 的收入——這是必須擁有的 AI 股票嗎？
+- **題材**: `HBM記憶體` | **重要性**: `75`
+- **來源**: 24/7 Wall St. (2026-07-21T15:31:10Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 當投資者追逐 GPU 製造商時，一家韓國晶片製造商已悄悄鎖定了人工智慧基礎設施中最關鍵的一個瓶頸，其最新版本...
+- [原文連結](https://247wallst.com/investing/2026/07/21/sk-hynixs-hbm-empire-powers-65-us-revenue-is-this-the-must-own-ai-stock/)
 
 ---
 
@@ -136,6 +145,15 @@
 
 ---
 
+### ⚖️ Nvidia 工程超級實驗室的幕後 — Vera Rubin NVL72 運行 OpenAI 工作負載、演示 800VDC 等
+- **題材**: `AI伺服器` | **重要性**: `62`
+- **來源**: Tom's Hardware UK (2026-07-21T15:15:00Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Nvidia 向 Tom’s Hardware Premium 獨家展示了其位於 Nvidia 總部附近的先前未公開的工程超級實驗室，我們在那裡看到了 Vera Rubin NVL72 的運作情況。
+- [原文連結](https://www.tomshardware.com/tech-industry/artificial-intelligence/behind-the-scenes-at-nvidias-engineering-superlab-vera-rubin-nvl72-running-openai-workloads-800vdc-demonstrated-and-more)
+
+---
+
 ### ⚖️ 使用戴爾 Pro Max GB10 進行本地 AI 叢集 — 連接兩個 Nvidia Grace Blackwell 以橫向擴展家庭 AI 運算
 - **題材**: `AI伺服器` | **重要性**: `62`
 - **來源**: Tom's Hardware UK (2026-07-21T14:30:00Z)
@@ -145,40 +163,21 @@
 
 ---
 
-### 🚀 Nvidia 和 Sega 聯手為未來的遊戲提供 RTX Spark 支援——明年即將推出的《Virtua Fighter Crossroads》將開啟合作關係
-- **題材**: `AI伺服器` | **重要性**: `62`
-- **來源**: Tom's Hardware UK (2026-07-15T11:20:09Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Nvidia 和 Sega 今天宣布，即將推出的《Virtua Fighter Crossroads》將在 2027 年推出時支援 RTX Spark 平台。 Sega 也承諾在未來的遊戲中支援 Spark。
-- [原文連結](https://www.tomshardware.com/video-games/pc-gaming/nvidia-and-sega-team-up-to-deliver-rtx-spark-support-for-future-games-partnership-kicks-off-next-year-with-upcoming-virtua-fighter-crossroads)
-
----
-
-### ⚠️ 摩根大通執行長傑米戴蒙表示，股票和債券面臨衝擊的風險正在增加
+### ⚠️ 川普對加拿大商品徵收50%的新關稅其實是承認貿易戰不起作用
 - **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Business Insider (2026-07-21T14:24:04Z)
+- **來源**: Yahoo Entertainment (2026-07-21T16:05:31Z)
 - **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 通膨加劇和利率上升是傑米戴蒙目前對市場最擔憂的兩個問題。
-- [原文連結](https://www.businessinsider.com/jamie-dimon-stock-market-shock-bond-vigilantes-investing-jpmorgan-ceo-2026-7)
+- **摘要**: 貿易戰導致對加拿大的出口下降。現在，川普用這一事實來證明徵收更多關稅的合理性。
+- [原文連結](https://finance.yahoo.com/economy/policy/articles/trumps-50-tariff-canadian-goods-160531267.html)
 
 ---
 
-### ⚖️ 伊朗戰爭：專家表示，要了解經濟狀況，不能只看股票
+### ⚠️ 任天堂明確表示您永遠不會獲得關稅退款
 - **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Al Jazeera English (2026-07-21T12:34:05Z)
-- **AI 判讀**: 屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 自伊朗戰爭爆發以來，作為通膨風向標的美國10年期公債殖利率已上漲60個基點。
-- [原文連結](https://www.aljazeera.com/economy/2026/7/21/iran-war-look-beyond-stocks-to-understand-state-of-economy-experts-say)
-
----
-
-### ⚖️ 台積電提高晶片成本，蘋果定價面臨更多壞消息
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: 9to5Mac (2026-07-21T11:26:09Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 在表示無法再承擔過高的記憶體成本後，蘋果已經大幅提高了大部分產品的價格。當今年的 iPhone 型號於 9 月推出時，預計價格也會上漲。
-大多數人已經採取了...
-- [原文連結](https://9to5mac.com/2026/07/21/more-bad-news-for-apple-pricing-as-tsmc-increases-chip-costs/)
+- **來源**: Gizmodo.com (2026-07-21T15:30:36Z)
+- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 川普的關稅和記憶體價格意味著你不應該指望遊戲會變得更便宜。
+- [原文連結](https://gizmodo.com/nintendo-makes-it-clear-you-were-never-going-to-get-a-tariff-refund-2000788452)
 
 ---
 
