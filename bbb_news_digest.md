@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-22T04:12:48.780040+00:00
+> 更新時間：2026-07-22T07:06:06.587851+00:00
 
 ### 🚀 台積電承諾向亞利桑那州再投資 1,000 億美元，建設至少四座 2nm 晶圓廠——繼創紀錄的季度盈利後，2026 年資本支出可能達到 640 億美元
 - **題材**: `半導體先進製程` | **重要性**: `87`
@@ -145,15 +145,6 @@
 
 ---
 
-### ⚖️ 台灣起訴前台積電經理涉嫌為中國竊取晶片機密——此類案件中首例將經理與中國半導體材料分析公司聯繫起來
-- **題材**: `半導體先進製程` | **重要性**: `62`
-- **來源**: Tom's Hardware UK (2026-07-20T18:13:21Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 台灣檢方週一起訴台積電一名前副經理，指控其涉嫌複製 21 份機密文件。
-- [原文連結](https://www.tomshardware.com/tech-industry/taiwan-inducts-ex-tsmc-manager-for-allegedly-stealing-chip-secrets-for-china)
-
----
-
 ### ⚠️ 川普對某些加拿大商品加徵50%關稅
 - **題材**: `總體風險` | **重要性**: `60`
 - **來源**: Abcnews.com (2026-07-20T21:12:03Z)
@@ -178,6 +169,15 @@
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 日本政府、Noetra Corp 和 Nvidia 正在建立一個人工智慧項目，相信該項目將提供物理人工智慧並支撐日本的整個人工智慧生態系統
 - [原文連結](https://www.techradar.com/pro/nvidia-is-building-the-worlds-first-national-ai-japans-frontia-project-could-be-the-next-big-step-forward-in-global-progress-but-is-this-a-step-too-far)
+
+---
+
+### ⚖️ (PR) IEEE 研究強調微轉移印刷如何帶來先進的矽光子學
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: Techpowerup.com (2026-07-20T14:38:56Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 矽光子學已成為解決傳統電氣互連的頻寬和延遲瓶頸的一項有前途的技術，因此正在為未來的人工智慧基礎設施進行探索。然而，異質集成...
+- [原文連結](https://www.techpowerup.com/350894/ieee-study-highlights-how-micro-transfer-printing-can-lead-to-advanced-silicon-photonics)
 
 ---
 
