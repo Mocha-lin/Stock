@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-22T17:58:58.667892+00:00
+> 更新時間：2026-07-22T20:03:46.663403+00:00
 
 ### 🚀 台積電承諾向亞利桑那州再投資 1,000 億美元，建設至少四座 2nm 晶圓廠——繼創紀錄的季度盈利後，2026 年資本支出可能達到 640 億美元
 - **題材**: `半導體先進製程` | **重要性**: `87`
@@ -100,15 +100,6 @@
 
 ---
 
-### ⚠️ Nvidia 的黃發誓將交付“大量”Vera Rubin——該公司表示“我們的路線圖完好無損”
-- **題材**: `AI伺服器` | **重要性**: `67`
-- **來源**: Tom's Hardware UK (2026-07-15T19:07:17Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Nvidia 執行長表示，該公司預計將生產「大量」基於 Vera Rubin 的機器，但未能解決傳聞中的 Kyber NVL144 機架從 2027 年推遲到 2028 年的問題。
-- [原文連結](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-huang-vows-to-deliver-giant-amounts-of-vera-rubin-company-says-that-our-roadmap-is-intact)
-
----
-
 ### ⚠️ 任天堂表示，在提高 Switch 價格後，它不欠客戶任何東西
 - **題材**: `總體風險` | **重要性**: `65`
 - **來源**: Kotaku (2026-07-21T11:55:04Z)
@@ -160,6 +151,15 @@
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 我們將一對戴爾 Pro Max 與 GB10 配對並進行了測試，看看一小群 Nvidia 的 Spark 晶片可以做什麼。截至撰寫本文時，它的價格為每台 6332 美元，仍然是一個昂貴的前景，但比裝滿 GPU 的大型伺服器盒子便宜得多，也更適合桌面使用…
 - [原文連結](https://www.tomshardware.com/pc-components/gpus/local-ai-clustering-with-dells-pro-max-gb10-connecting-two-nvidia-grace-blackwell-to-scale-out-ai-compute-at-home)
+
+---
+
+### ⚠️ Nvidia 的黃發誓將交付“大量”Vera Rubin——該公司表示“我們的路線圖完好無損”
+- **題材**: `AI伺服器` | **重要性**: `62`
+- **來源**: Tom's Hardware UK (2026-07-15T19:07:17Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Nvidia 執行長表示，該公司預計將生產「大量」基於 Vera Rubin 的機器，但未能解決傳聞中的 Kyber NVL144 機架從 2027 年推遲到 2028 年的問題。
+- [原文連結](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-huang-vows-to-deliver-giant-amounts-of-vera-rubin-company-says-that-our-roadmap-is-intact)
 
 ---
 
