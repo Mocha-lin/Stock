@@ -1,9 +1,9 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-07-22T11:09:32.722645+00:00",
+  "generated_at": "2026-07-22T14:52:22.908576+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
-  "total_count": 72,
+  "total_count": 73,
   "items": [
     {
       "id": "87e7df5ca8c41943",
@@ -415,32 +415,32 @@
       "reason": "屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "ceee7945c57cd6a8",
+      "id": "bc564b22c15e5a98",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Nvidia 和 Sega 聯手為未來的遊戲提供 RTX Spark 支援——明年即將推出的《Virtua Fighter Crossroads》將開啟合作關係",
-      "summary": "Nvidia 和 Sega 今天宣布，即將推出的《Virtua Fighter Crossroads》將在 2027 年推出時支援 RTX Spark 平台。 Sega 也承諾在未來的遊戲中支援 Spark。",
-      "original_title": "Nvidia and Sega team up to deliver RTX Spark support for future games — partnership kicks off next year with upcoming Virtua Fighter Crossroads",
-      "url": "https://www.tomshardware.com/video-games/pc-gaming/nvidia-and-sega-team-up-to-deliver-rtx-spark-support-for-future-games-partnership-kicks-off-next-year-with-upcoming-virtua-fighter-crossroads",
-      "source": "Tom's Hardware UK",
-      "domain": "tomshardware.com",
-      "published_at": "2026-07-15T11:20:09Z",
-      "importance": 67,
-      "impact": "positive",
+      "theme": "總體風險",
+      "title": "任天堂表示，在提高 Switch 價格後，它不欠客戶任何東西",
+      "summary": "這家日本公司已在美國提起集體訴訟，但被駁回",
+      "original_title": "Nintendo Says It Doesn’t Owe Customers Anything After Increasing Switch Prices For Tariffs It Didn’t Have To Pay",
+      "url": "https://kotaku.com/nintendo-switch-2-price-class-action-lawsuit-trump-tariffs-2000717971",
+      "source": "Kotaku",
+      "domain": "kotaku.com",
+      "published_at": "2026-07-21T11:55:04Z",
+      "importance": 65,
+      "impact": "negative",
       "timeframe": "short_term",
       "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
       ],
       "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
       ],
       "related_models": [
         "003",
@@ -450,7 +450,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "94e5f8952a48f350",
@@ -567,19 +567,19 @@
       "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "8b3b58f02c01823b",
+      "id": "76b76004de4b075d",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "AI伺服器",
-      "title": "Nvidia 的 Vera Rubin 硬體推出可能會略有延遲，但分析師仍預計成長 62% - 原因如下",
-      "summary": "Nvidia 公司的投資者可能需要等待更長時間才能大規模出貨其下一代 Vera Rubin AI 硬件，但這種延遲不太可能損害...",
-      "original_title": "Nvidia's Vera Rubin Hardware Rollout May Be Slightly Delayed, But Analyst Still Expects a 62% Upside—Here's Why",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidias-vera-rubin-hardware-rollout-120115717.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-07-15T12:01:15Z",
-      "importance": 65,
-      "impact": "negative",
+      "title": "使用戴爾 Pro Max GB10 進行本地 AI 叢集 — 連接兩個 Nvidia Grace Blackwell 以橫向擴展家庭 AI 運算",
+      "summary": "我們將一對戴爾 Pro Max 與 GB10 配對並進行了測試，看看一小群 Nvidia 的 Spark 晶片可以做什麼。截至撰寫本文時，它的價格為每台 6332 美元，仍然是一個昂貴的前景，但比裝滿 GPU 的大型伺服器盒子便宜得多，也更適合桌面使用…",
+      "original_title": "Local AI clustering with Dell's Pro Max GB10 — connecting two Nvidia Grace Blackwell to scale out AI compute at home",
+      "url": "https://www.tomshardware.com/pc-components/gpus/local-ai-clustering-with-dells-pro-max-gb10-connecting-two-nvidia-grace-blackwell-to-scale-out-ai-compute-at-home",
+      "source": "Tom's Hardware UK",
+      "domain": "tomshardware.com",
+      "published_at": "2026-07-21T14:30:00Z",
+      "importance": 62,
+      "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
         "AI",
@@ -602,7 +602,159 @@
         "009",
         "010"
       ],
-      "reason": "屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "ceee7945c57cd6a8",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Nvidia 和 Sega 聯手為未來的遊戲提供 RTX Spark 支援——明年即將推出的《Virtua Fighter Crossroads》將開啟合作關係",
+      "summary": "Nvidia 和 Sega 今天宣布，即將推出的《Virtua Fighter Crossroads》將在 2027 年推出時支援 RTX Spark 平台。 Sega 也承諾在未來的遊戲中支援 Spark。",
+      "original_title": "Nvidia and Sega team up to deliver RTX Spark support for future games — partnership kicks off next year with upcoming Virtua Fighter Crossroads",
+      "url": "https://www.tomshardware.com/video-games/pc-gaming/nvidia-and-sega-team-up-to-deliver-rtx-spark-support-for-future-games-partnership-kicks-off-next-year-with-upcoming-virtua-fighter-crossroads",
+      "source": "Tom's Hardware UK",
+      "domain": "tomshardware.com",
+      "published_at": "2026-07-15T11:20:09Z",
+      "importance": 62,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "be81633404a56669",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "摩根大通執行長傑米戴蒙表示，股票和債券面臨衝擊的風險正在增加",
+      "summary": "通膨加劇和利率上升是傑米戴蒙目前對市場最擔憂的兩個問題。",
+      "original_title": "JPMorgan chief Jamie Dimon says risks of a shock are building for stocks and bonds",
+      "url": "https://www.businessinsider.com/jamie-dimon-stock-market-shock-bond-vigilantes-investing-jpmorgan-ceo-2026-7",
+      "source": "Business Insider",
+      "domain": "businessinsider.com",
+      "published_at": "2026-07-21T14:24:04Z",
+      "importance": 60,
+      "impact": "negative",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "673291002d4e30ce",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "伊朗戰爭：專家表示，要了解經濟狀況，不能只看股票",
+      "summary": "自伊朗戰爭爆發以來，作為通膨風向標的美國10年期公債殖利率已上漲60個基點。",
+      "original_title": "Iran war: Look beyond stocks to understand state of economy, experts say",
+      "url": "https://www.aljazeera.com/economy/2026/7/21/iran-war-look-beyond-stocks-to-understand-state-of-economy-experts-say",
+      "source": "Al Jazeera English",
+      "domain": "aljazeera.com",
+      "published_at": "2026-07-21T12:34:05Z",
+      "importance": 60,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "0b50d0664c08664c",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "台積電提高晶片成本，蘋果定價面臨更多壞消息",
+      "summary": "在表示無法再承擔過高的記憶體成本後，蘋果已經大幅提高了大部分產品的價格。當今年的 iPhone 型號於 9 月推出時，預計價格也會上漲。\n大多數人已經採取了...",
+      "original_title": "More bad news for Apple pricing as TSMC increases chip costs",
+      "url": "https://9to5mac.com/2026/07/21/more-bad-news-for-apple-pricing-as-tsmc-increases-chip-costs/",
+      "source": "9to5Mac",
+      "domain": "9to5mac.com",
+      "published_at": "2026-07-21T11:26:09Z",
+      "importance": 60,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "f4556a419f950abf",
@@ -1280,6 +1432,82 @@
       "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "8b3b58f02c01823b",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Nvidia 的 Vera Rubin 硬體推出可能會略有延遲，但分析師仍預計成長 62% - 原因如下",
+      "summary": "Nvidia 公司的投資者可能需要等待更長時間才能大規模出貨其下一代 Vera Rubin AI 硬件，但這種延遲不太可能損害...",
+      "original_title": "Nvidia's Vera Rubin Hardware Rollout May Be Slightly Delayed, But Analyst Still Expects a 62% Upside—Here's Why",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidias-vera-rubin-hardware-rollout-120115717.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-07-15T12:01:15Z",
+      "importance": 60,
+      "impact": "negative",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "58a087d5926895e3",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "iPhone 18 謠言查核：20 種說法依可能性排名",
+      "summary": "蘋果的 iPhone 18 Pro 機型和首款可折疊 iPhone 距離發布還有不到兩個月的時間，標準版 iPhone 18、iPhone 18e 和 iPhone Air 2 預計將於 2027 年春季推出，作為該公司新的分拆發布策略的一部分。我們已經…",
+      "original_title": "iPhone 18 Rumor Check: 20 Claims Ranked by Likelihood",
+      "url": "https://www.macrumors.com/2026/07/21/ranked-best-features-rumored-iphone-18/",
+      "source": "MacRumors",
+      "domain": "macrumors.com",
+      "published_at": "2026-07-21T14:32:28Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "6c264df0355613b4",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1876,120 +2104,6 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "3f5bef316efb3689",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "2026-2036年全球矽光子和光子IC市場|人工智慧加速器出貨量、資料中心網路需求和每千兆成本趨勢",
-      "summary": "都柏林，2026 年 7 月 15 日（環球通訊社）—「2026-2036 年全球矽光子學和光子積體電路市場」已添加到 ResearchAndMarkets.com 的產品中。",
-      "original_title": "The Global Silicon Photonics and Photonics ICs Market 2026-2036 | AI Accelerator Shipments, Data-Centre Networking Requirements and Cost-Per-Gigabit Trends",
-      "url": "https://www.globenewswire.com/news-release/2026/07/15/3327890/28124/en/The-Global-Silicon-Photonics-and-Photonics-ICs-Market-2026-2036-AI-Accelerator-Shipments-Data-Centre-Networking-Requirements-and-Cost-Per-Gigabit-Trends.html",
-      "source": "GlobeNewswire",
-      "domain": "globenewswire.com",
-      "published_at": "2026-07-15T14:28:00Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "f6f9389f73c90170",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "「Landmaxxing」是億萬富翁的新靈活性——這就是它的含義",
-      "summary": "由於超級富豪競相收購鄰居並建造高端住宅區，今年豪華土地的搜尋量增加了 97%。",
-      "original_title": "‘Landmaxxing’ Is the New Flex for Billionaires — Here’s What It Is",
-      "url": "https://www.entrepreneur.com/business-news/landmaxxing-is-the-new-flex-for-billionaires-heres-what-it-is",
-      "source": "Entrepreneur",
-      "domain": "entrepreneur.com",
-      "published_at": "2026-07-15T14:15:00Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "86f2c524305fb883",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "Tower Semiconductor 的 AI 拉力賽建立在光速押注之上",
-      "summary": "Tower Semiconductor 宣佈在日本投資 30 億美元進行矽光子擴張，並得到 10 億美元的政府撥款和 13 億美元的支持，股價上漲。",
-      "original_title": "Tower Semiconductor’s AI Rally Is Built on a Light-Speed Bet",
-      "url": "https://www.marketbeat.com/articles/tower-semiconductors-ai-rally-is-built-on-a-light-speed-bet/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
-      "source": "MarketBeat",
-      "domain": "marketbeat.com",
-      "published_at": "2026-07-15T12:00:00Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "0a78a53771fa775f",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2001,44 +2115,6 @@
       "source": "Substack.com",
       "domain": "morethanmoore.substack.com",
       "published_at": "2026-07-18T19:56:33Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "4f08752168dc7b63",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "優惠：Pixel 10、10 Pro 和 10 Pro XL 促銷，Nothing Phone (4a) Pro 也有折扣",
-      "summary": "谷歌已經在預告 Pixel 11 系列，該系列將於 8 月 12 日發布。這些可能是第一款採用台積電 2nm 晶圓廠晶片組的手機，預計將三星數據機更換為聯發科調變解調器。我們甚至看到了美國的洩漏價格…",
-      "original_title": "Deals: Pixel 10, 10 Pro and 10 Pro XL are on sale, Nothing Phone (4a) Pro gets discounted too",
-      "url": "https://www.gsmarena.com/deals_pixel_10_10_pro_and_10_pro_xl_are_on_sale_nothing_phone_4a_pro_gets_discounted_too-news-73769.php",
-      "source": "GSMArena.com",
-      "domain": "gsmarena.com",
-      "published_at": "2026-07-18T18:00:02Z",
       "importance": 50,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -2112,44 +2188,6 @@
       "source": "Yahoo Entertainment",
       "domain": "yahoo.com",
       "published_at": "2026-07-18T13:15:01Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "e2de7ddcd6a4879a",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "美國軍方表示已完成對伊朗的最新攻擊，這是連續第七晚發生攻擊",
-      "summary": "作者：Kanishka Singh 和 Jasper Ward 華盛頓，7 月 17 日（路透社）",
-      "original_title": "US military says it completed latest strikes on Iran, marking 7th consecutive night of attacks",
-      "url": "https://www.yahoo.com/news/articles/us-military-says-completed-latest-023955394.html",
-      "source": "Yahoo Entertainment",
-      "domain": "yahoo.com",
-      "published_at": "2026-07-18T02:39:55Z",
       "importance": 50,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -2361,82 +2399,6 @@
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "cc8e14ac38ccea9a",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "美國軍方表示已完成對伊朗的最新攻擊，這是連續第六晚發生攻擊",
-      "summary": "作者：Kanishka Singh 華盛頓，7 月 16 日（路透社）",
-      "original_title": "US military says it completed latest strikes on Iran, marking 6th consecutive night of attacks",
-      "url": "https://www.yahoo.com/news/politics/articles/us-military-says-completed-latest-023024185.html",
-      "source": "Yahoo Entertainment",
-      "domain": "yahoo.com",
-      "published_at": "2026-07-17T02:30:24Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "b02ecda825144331",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "英特爾前執行長表示，這家晶片製造商「當它開始由商人經營時」就脫軌了",
-      "summary": "英特爾前執行長帕特·基辛格表示，十多年來，這家晶片製造商一直由錯誤類型的高階主管管理。",
-      "original_title": "Former Intel CEO says the chipmaker went off the rails ‘when it started to be run by business people’",
-      "url": "https://www.businessinsider.com/intel-decline-reasons-pat-gelsinger-former-ceo-2026-7#article",
-      "source": "Business Insider",
-      "domain": "businessinsider.com",
-      "published_at": "2026-07-16T19:08:41Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "39a65a321c564046",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2548,44 +2510,6 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "a047b9d136f07575",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "英格蘭隊比賽結束後，阿根廷球員揮舞著福克蘭群島政治旗幟",
-      "summary": "利桑德羅·馬丁內斯和喬瓦尼·洛塞爾索舉起的橫幅違反了國際足總的體育場行為準則。",
-      "original_title": "Argentina players brandish political Falklands flag after England match",
-      "url": "https://www.aljazeera.com/sports/2026/7/15/argentina-players-brandish-political-falklands-flag-after-england-match",
-      "source": "Al Jazeera English",
-      "domain": "aljazeera.com",
-      "published_at": "2026-07-15T23:36:16Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "a473644fb23864a8",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2657,6 +2581,120 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "3f5bef316efb3689",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "2026-2036年全球矽光子和光子IC市場|人工智慧加速器出貨量、資料中心網路需求和每千兆成本趨勢",
+      "summary": "都柏林，2026 年 7 月 15 日（環球通訊社）—「2026-2036 年全球矽光子學和光子積體電路市場」已添加到 ResearchAndMarkets.com 的產品中。",
+      "original_title": "The Global Silicon Photonics and Photonics ICs Market 2026-2036 | AI Accelerator Shipments, Data-Centre Networking Requirements and Cost-Per-Gigabit Trends",
+      "url": "https://www.globenewswire.com/news-release/2026/07/15/3327890/28124/en/The-Global-Silicon-Photonics-and-Photonics-ICs-Market-2026-2036-AI-Accelerator-Shipments-Data-Centre-Networking-Requirements-and-Cost-Per-Gigabit-Trends.html",
+      "source": "GlobeNewswire",
+      "domain": "globenewswire.com",
+      "published_at": "2026-07-15T14:28:00Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "f6f9389f73c90170",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "「Landmaxxing」是億萬富翁的新靈活性——這就是它的含義",
+      "summary": "由於超級富豪競相收購鄰居並建造高端住宅區，今年豪華土地的搜尋量增加了 97%。",
+      "original_title": "‘Landmaxxing’ Is the New Flex for Billionaires — Here’s What It Is",
+      "url": "https://www.entrepreneur.com/business-news/landmaxxing-is-the-new-flex-for-billionaires-heres-what-it-is",
+      "source": "Entrepreneur",
+      "domain": "entrepreneur.com",
+      "published_at": "2026-07-15T14:15:00Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "86f2c524305fb883",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "Tower Semiconductor 的 AI 拉力賽建立在光速押注之上",
+      "summary": "Tower Semiconductor 宣佈在日本投資 30 億美元進行矽光子擴張，並得到 10 億美元的政府撥款和 13 億美元的支持，股價上漲。",
+      "original_title": "Tower Semiconductor’s AI Rally Is Built on a Light-Speed Bet",
+      "url": "https://www.marketbeat.com/articles/tower-semiconductors-ai-rally-is-built-on-a-light-speed-bet/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
+      "source": "MarketBeat",
+      "domain": "marketbeat.com",
+      "published_at": "2026-07-15T12:00:00Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "446906fbe19c251d",

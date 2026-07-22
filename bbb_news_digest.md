@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-22T11:09:32.722645+00:00
+> 更新時間：2026-07-22T14:52:22.908576+00:00
 
 ### 🚀 台積電承諾向亞利桑那州再投資 1,000 億美元，建設至少四座 2nm 晶圓廠——繼創紀錄的季度盈利後，2026 年資本支出可能達到 640 億美元
 - **題材**: `半導體先進製程` | **重要性**: `87`
@@ -100,12 +100,12 @@
 
 ---
 
-### 🚀 Nvidia 和 Sega 聯手為未來的遊戲提供 RTX Spark 支援——明年即將推出的《Virtua Fighter Crossroads》將開啟合作關係
-- **題材**: `AI伺服器` | **重要性**: `67`
-- **來源**: Tom's Hardware UK (2026-07-15T11:20:09Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Nvidia 和 Sega 今天宣布，即將推出的《Virtua Fighter Crossroads》將在 2027 年推出時支援 RTX Spark 平台。 Sega 也承諾在未來的遊戲中支援 Spark。
-- [原文連結](https://www.tomshardware.com/video-games/pc-gaming/nvidia-and-sega-team-up-to-deliver-rtx-spark-support-for-future-games-partnership-kicks-off-next-year-with-upcoming-virtua-fighter-crossroads)
+### ⚠️ 任天堂表示，在提高 Switch 價格後，它不欠客戶任何東西
+- **題材**: `總體風險` | **重要性**: `65`
+- **來源**: Kotaku (2026-07-21T11:55:04Z)
+- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 這家日本公司已在美國提起集體訴訟，但被駁回
+- [原文連結](https://kotaku.com/nintendo-switch-2-price-class-action-lawsuit-trump-tariffs-2000717971)
 
 ---
 
@@ -136,48 +136,49 @@
 
 ---
 
-### ⚠️ Nvidia 的 Vera Rubin 硬體推出可能會略有延遲，但分析師仍預計成長 62% - 原因如下
-- **題材**: `AI伺服器` | **重要性**: `65`
-- **來源**: Yahoo Entertainment (2026-07-15T12:01:15Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Nvidia 公司的投資者可能需要等待更長時間才能大規模出貨其下一代 Vera Rubin AI 硬件，但這種延遲不太可能損害...
-- [原文連結](https://finance.yahoo.com/technology/ai/articles/nvidias-vera-rubin-hardware-rollout-120115717.html)
-
----
-
-### ⚠️ 川普對某些加拿大商品加徵50%關稅
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Abcnews.com (2026-07-20T21:12:03Z)
-- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 川普政府對進口到美國的某些加拿大商品加徵 50% 的關稅。
-- [原文連結](https://abcnews.com/Politics/trump-slaps-additional-50-tariff-canadian-goods/story?id=134929955)
-
----
-
-### 🚀 iPhone 18 Pro全新A20晶片傳將帶來兩大升級
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: 9to5Mac (2026-07-20T20:34:11Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 每年，蘋果都會為其最新 iPhone 準備一款新晶片。但今年秋季 iPhone 18 Pro 和 iPhone Ultra 的 A20 Pro 晶片聽起來可能會格外特別。以下是傳聞中的兩項重大升級。
-- [原文連結](https://9to5mac.com/2026/07/20/iphone-18-pros-new-a20-chip-rumored-to-bring-two-major-upgrades/)
-
----
-
-### ⚖️ Nvidia 正在打造世界上第一個「國家人工智慧」——日本的 FRONTia 計畫可能是全球進步的下一個重大步驟，但這是否太過分了？
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: TechRadar (2026-07-20T19:05:00Z)
+### ⚖️ 使用戴爾 Pro Max GB10 進行本地 AI 叢集 — 連接兩個 Nvidia Grace Blackwell 以橫向擴展家庭 AI 運算
+- **題材**: `AI伺服器` | **重要性**: `62`
+- **來源**: Tom's Hardware UK (2026-07-21T14:30:00Z)
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 日本政府、Noetra Corp 和 Nvidia 正在建立一個人工智慧項目，相信該項目將提供物理人工智慧並支撐日本的整個人工智慧生態系統
-- [原文連結](https://www.techradar.com/pro/nvidia-is-building-the-worlds-first-national-ai-japans-frontia-project-could-be-the-next-big-step-forward-in-global-progress-but-is-this-a-step-too-far)
+- **摘要**: 我們將一對戴爾 Pro Max 與 GB10 配對並進行了測試，看看一小群 Nvidia 的 Spark 晶片可以做什麼。截至撰寫本文時，它的價格為每台 6332 美元，仍然是一個昂貴的前景，但比裝滿 GPU 的大型伺服器盒子便宜得多，也更適合桌面使用…
+- [原文連結](https://www.tomshardware.com/pc-components/gpus/local-ai-clustering-with-dells-pro-max-gb10-connecting-two-nvidia-grace-blackwell-to-scale-out-ai-compute-at-home)
 
 ---
 
-### ⚖️ (PR) IEEE 研究強調微轉移印刷如何帶來先進的矽光子學
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: Techpowerup.com (2026-07-20T14:38:56Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 矽光子學已成為解決傳統電氣互連的頻寬和延遲瓶頸的一項有前途的技術，因此正在為未來的人工智慧基礎設施進行探索。然而，異質集成...
-- [原文連結](https://www.techpowerup.com/350894/ieee-study-highlights-how-micro-transfer-printing-can-lead-to-advanced-silicon-photonics)
+### 🚀 Nvidia 和 Sega 聯手為未來的遊戲提供 RTX Spark 支援——明年即將推出的《Virtua Fighter Crossroads》將開啟合作關係
+- **題材**: `AI伺服器` | **重要性**: `62`
+- **來源**: Tom's Hardware UK (2026-07-15T11:20:09Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Nvidia 和 Sega 今天宣布，即將推出的《Virtua Fighter Crossroads》將在 2027 年推出時支援 RTX Spark 平台。 Sega 也承諾在未來的遊戲中支援 Spark。
+- [原文連結](https://www.tomshardware.com/video-games/pc-gaming/nvidia-and-sega-team-up-to-deliver-rtx-spark-support-for-future-games-partnership-kicks-off-next-year-with-upcoming-virtua-fighter-crossroads)
+
+---
+
+### ⚠️ 摩根大通執行長傑米戴蒙表示，股票和債券面臨衝擊的風險正在增加
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Business Insider (2026-07-21T14:24:04Z)
+- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 通膨加劇和利率上升是傑米戴蒙目前對市場最擔憂的兩個問題。
+- [原文連結](https://www.businessinsider.com/jamie-dimon-stock-market-shock-bond-vigilantes-investing-jpmorgan-ceo-2026-7)
+
+---
+
+### ⚖️ 伊朗戰爭：專家表示，要了解經濟狀況，不能只看股票
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Al Jazeera English (2026-07-21T12:34:05Z)
+- **AI 判讀**: 屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 自伊朗戰爭爆發以來，作為通膨風向標的美國10年期公債殖利率已上漲60個基點。
+- [原文連結](https://www.aljazeera.com/economy/2026/7/21/iran-war-look-beyond-stocks-to-understand-state-of-economy-experts-say)
+
+---
+
+### ⚖️ 台積電提高晶片成本，蘋果定價面臨更多壞消息
+- **題材**: `半導體先進製程` | **重要性**: `60`
+- **來源**: 9to5Mac (2026-07-21T11:26:09Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 在表示無法再承擔過高的記憶體成本後，蘋果已經大幅提高了大部分產品的價格。當今年的 iPhone 型號於 9 月推出時，預計價格也會上漲。
+大多數人已經採取了...
+- [原文連結](https://9to5mac.com/2026/07/21/more-bad-news-for-apple-pricing-as-tsmc-increases-chip-costs/)
 
 ---
 
