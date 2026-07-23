@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-23T14:57:46.982083+00:00
+> 更新時間：2026-07-23T16:22:12.722954+00:00
 
 ### 🚀 台積電承諾向亞利桑那州再投資 1,000 億美元，建設至少四座 2nm 晶圓廠——繼創紀錄的季度盈利後，2026 年資本支出可能達到 640 億美元
 - **題材**: `半導體先進製程` | **重要性**: `82`
@@ -100,15 +100,6 @@
 
 ---
 
-### ⚖️ Tower Semiconductor 斥資 30 億美元進行日本光子學擴張，重振關閉的松下時代晶圓廠 — 日本經濟產業省 (METI) 支持的計劃目標是到 2028 年收入達到 36 億美元
-- **題材**: `半導體先進製程` | **重要性**: `72`
-- **來源**: Tom's Hardware UK (2026-07-16T15:39:09Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Tower Semiconductor 宣佈在日本雙軌擴張其 300mm 矽光子、矽鍺和先進封裝業務
-- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/tower-semiconductor-revives-shuttered-panasonic-era-fab-in-3-billion-japan-photonics-expansion)
-
----
-
 ### 🚀 Wedbush 相信 ASML 增加指導對 SK 海力士來說是個好兆頭。如何在這裡玩 SKHY 股票。
 - **題材**: `HBM記憶體` | **重要性**: `70`
 - **來源**: Barchart.com (2026-07-21T18:23:46Z)
@@ -124,6 +115,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 生成式人工智慧正在加速對運算能力、記憶體和資料頻寬的需求，將半導體創新從前端製程轉向先進封裝、矽光子學 (SiPh) 和共封裝光學 (CPO)。本傑明·海因 (Benjamin Hein)，電子公司執行長…
 - [原文連結](https://www.digitimes.com/news/a20260716PD219/cpo-genai-packaging-growth-commercial.html)
+
+---
+
+### ⚖️ Tower Semiconductor 斥資 30 億美元進行日本光子學擴張，重振關閉的松下時代晶圓廠 — 日本經濟產業省 (METI) 支持的計劃目標是到 2028 年收入達到 36 億美元
+- **題材**: `半導體先進製程` | **重要性**: `67`
+- **來源**: Tom's Hardware UK (2026-07-16T15:39:09Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Tower Semiconductor 宣佈在日本雙軌擴張其 300mm 矽光子、矽鍺和先進封裝業務
+- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/tower-semiconductor-revives-shuttered-panasonic-era-fab-in-3-billion-japan-photonics-expansion)
 
 ---
 
