@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-07-23T06:44:15.308405+00:00",
+  "generated_at": "2026-07-23T11:09:34.466188+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 74,
@@ -42,6 +42,44 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之偏多消息。【重大事件】可能顯著影響產業評價、EPS預期或資金流向。"
+    },
+    {
+      "id": "c9e00375fac6c09e",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "CPO 商業化為台灣 OSAT 開啟了新的 SiPh 封裝競賽",
+      "summary": "對AI伺服器運算能力的爆炸性需求正在推動資料中心架構以更快的速度升級，傳統的銅線訊號路徑正在接近其物理極限。隨著共封裝光學 (CPO) 和相關解決方案進入首次…",
+      "original_title": "CPO commercialization opens new SiPh packaging race for Taiwan OSATs",
+      "url": "https://www.digitimes.com/news/a20260722PD228/siph-packaging-demand-cpo-ai-server.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-07-22T07:45:00Z",
+      "importance": 78,
+      "impact": "positive",
+      "timeframe": "short_to_mid_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "e3d73d45d7b485ea",
@@ -1356,117 +1394,6 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "5e09cdefe7528d3b",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "晶片製造商正尋求大幅利潤成長，但這就足夠了嗎？",
-      "summary": "作者：Caroline Valetkevitch 紐約，7 月 20 日（路透社）",
-      "original_title": "Chipmakers head for big profit gains, but will it be enough?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/chipmakers-head-big-profit-gains-100309070.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-07-20T10:09:51Z",
-      "importance": 60,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "8e0bcf06426b773e",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "Google Pixel 11 Pro Fold 與摩托羅拉 Razr Fold：美國最好的可折疊手機是什麼？",
-      "summary": "摩托羅拉的 Razr Fold 是當今最好的可折疊手機之一。那麼 Google 需要對 Pixel 11 Pro Fold 做些什麼才能達到預期的效果呢？我們來看一下。",
-      "original_title": "Google Pixel 11 Pro Fold vs. Motorola Razr Fold: What's the best foldable in the US?",
-      "url": "https://www.androidcentral.com/phones/google-pixel/google-pixel-11-pro-fold-vs-motorola-razr-fold",
-      "source": "Android Central",
-      "domain": "androidcentral.com",
-      "published_at": "2026-07-20T08:06:24Z",
-      "importance": 60,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "c6b7a90a89007381",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "由於伊朗戰爭推遲了旅客出行並提高了燃油成本，瑞安航空利潤下降",
-      "summary": "這家愛爾蘭航空公司表示，油價增加了成本，同時布蘭特原油價格突破了 90 美元。",
-      "original_title": "Ryanair profits drop as Iran war puts off passengers and lifts fuel costs",
-      "url": "https://www.bbc.co.uk/news/articles/cn8nldwj12jo",
-      "source": "BBC News",
-      "domain": "bbc.co.uk",
-      "published_at": "2026-07-20T07:26:56Z",
-      "importance": 60,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "27ff59ea50093139",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2031,6 +1958,117 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "5e09cdefe7528d3b",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "晶片製造商正尋求大幅利潤成長，但這就足夠了嗎？",
+      "summary": "作者：Caroline Valetkevitch 紐約，7 月 20 日（路透社）",
+      "original_title": "Chipmakers head for big profit gains, but will it be enough?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/chipmakers-head-big-profit-gains-100309070.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-07-20T10:09:51Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "8e0bcf06426b773e",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "Google Pixel 11 Pro Fold 與摩托羅拉 Razr Fold：美國最好的可折疊手機是什麼？",
+      "summary": "摩托羅拉的 Razr Fold 是當今最好的可折疊手機之一。那麼 Google 需要對 Pixel 11 Pro Fold 做些什麼才能達到預期的效果呢？我們來看一下。",
+      "original_title": "Google Pixel 11 Pro Fold vs. Motorola Razr Fold: What's the best foldable in the US?",
+      "url": "https://www.androidcentral.com/phones/google-pixel/google-pixel-11-pro-fold-vs-motorola-razr-fold",
+      "source": "Android Central",
+      "domain": "androidcentral.com",
+      "published_at": "2026-07-20T08:06:24Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "c6b7a90a89007381",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "由於伊朗戰爭推遲了旅客出行並提高了燃油成本，瑞安航空利潤下降",
+      "summary": "這家愛爾蘭航空公司表示，油價增加了成本，同時布蘭特原油價格突破了 90 美元。",
+      "original_title": "Ryanair profits drop as Iran war puts off passengers and lifts fuel costs",
+      "url": "https://www.bbc.co.uk/news/articles/cn8nldwj12jo",
+      "source": "BBC News",
+      "domain": "bbc.co.uk",
+      "published_at": "2026-07-20T07:26:56Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "9d041bffdcbf65dd",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2367,44 +2405,6 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "50f3207a772f1693",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "2026 Omoda C7 再次在馬來西亞預覽 – CKD；第三季推出；1.6T、7DCT；2WD 和 AWD 變體？",
-      "summary": "在奧莫達 |在 Jaecoo Malaysia 的兩週年慶典上，該公司在 Omoda C7 最終推出之前再次預覽了這款 SUV。為了讓您快速熟悉 C7，這裡有一個簡短的回顧。 […]\n2026年後Omoda C7再次在馬來西亞預覽 – C…",
-      "original_title": "2026 Omoda C7 previewed in Malaysia again – CKD; launch in Q3; 1.6T, 7DCT; 2WD and AWD variants?",
-      "url": "https://paultan.org/2026/07/20/2026-omoda-c7-previewed-in-malaysia-again/",
-      "source": "Paul Tan's Automotive News",
-      "domain": "paultan.org",
-      "published_at": "2026-07-20T05:06:50Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "0a78a53771fa775f",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2711,7 +2711,7 @@
       "source": "9to5Mac",
       "domain": "9to5mac.com",
       "published_at": "2026-07-16T11:03:15Z",
-      "importance": 50,
+      "importance": 45,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -2735,7 +2735,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「半導體先進製程」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     },
     {
       "id": "46dd7f5fb7d4a41a",
@@ -2749,7 +2749,7 @@
       "source": "Gizmodo.com",
       "domain": "gizmodo.com",
       "published_at": "2026-07-16T09:00:44Z",
-      "importance": 50,
+      "importance": 45,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -2770,7 +2770,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「HBM記憶體」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     }
   ]
 }

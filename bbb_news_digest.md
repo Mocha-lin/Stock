@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-23T06:44:15.308405+00:00
+> 更新時間：2026-07-23T11:09:34.466188+00:00
 
 ### 🚀 台積電承諾向亞利桑那州再投資 1,000 億美元，建設至少四座 2nm 晶圓廠——繼創紀錄的季度盈利後，2026 年資本支出可能達到 640 億美元
 - **題材**: `半導體先進製程` | **重要性**: `87`
@@ -7,6 +7,15 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重大事件】可能顯著影響產業評價、EPS預期或資金流向。
 - **摘要**: 台積電將在美國追加投資 1,000 億美元，在亞利桑那州再建至少四個晶片製造廠和先進封裝設施。
 - [原文連結](https://www.tomshardware.com/tech-industry/tsmc-commits-another-100-billion-to-arizona-for-at-least-four-more-2nm-fabs)
+
+---
+
+### 🚀 CPO 商業化為台灣 OSAT 開啟了新的 SiPh 封裝競賽
+- **題材**: `光通訊與矽光子` | **重要性**: `78`
+- **來源**: Digitimes (2026-07-22T07:45:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 對AI伺服器運算能力的爆炸性需求正在推動資料中心架構以更快的速度升級，傳統的銅線訊號路徑正在接近其物理極限。隨著共封裝光學 (CPO) 和相關解決方案進入首次…
+- [原文連結](https://www.digitimes.com/news/a20260722PD228/siph-packaging-demand-cpo-ai-server.html)
 
 ---
 
@@ -169,15 +178,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 隨著AI伺服器互連向1.6T和共封裝光學（CPO）邁進，高功率連續波（CW）雷射正成為全球科技公司的戰略戰場。這些光學引擎的核心是磷化銦 (InP) 製造商…
 - [原文連結](https://www.digitimes.com/news/a20260715PD223/inp-ai-server-supply-chain-manufacturing-cpo.html)
-
----
-
-### ⚖️ Nvidia 工程超級實驗室的幕後 — Vera Rubin NVL72 運行 OpenAI 工作負載、演示 800VDC 等
-- **題材**: `AI伺服器` | **重要性**: `62`
-- **來源**: Tom's Hardware UK (2026-07-21T15:15:00Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Nvidia 向 Tom’s Hardware Premium 獨家展示了其位於 Nvidia 總部附近的先前未公開的工程超級實驗室，我們在那裡看到了 Vera Rubin NVL72 的運作情況。
-- [原文連結](https://www.tomshardware.com/tech-industry/artificial-intelligence/behind-the-scenes-at-nvidias-engineering-superlab-vera-rubin-nvl72-running-openai-workloads-800vdc-demonstrated-and-more)
 
 ---
 
