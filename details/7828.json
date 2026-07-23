@@ -1,11 +1,11 @@
 {
   "id": "7828",
   "name": "創新服務",
-  "lastUpdated": "2026-07-22 17:22:47",
+  "lastUpdated": "2026-07-23 17:21:14",
   "basicInfo": {
-    "price": "1910.00",
-    "change": "40.00",
-    "changePercent": "2.14%"
+    "price": "1890.00",
+    "change": "-20.00",
+    "changePercent": "-1.05%"
   },
   "status": null,
   "themes": [],
@@ -118,6 +118,15 @@
     ],
     "cashflow_table": [
       {
+        "period": "2026Q1",
+        "ocf_m": -30.359,
+        "capex_m": -21.048,
+        "fcf_m": -51.407,
+        "ocf": -30.359,
+        "capex": -21.048,
+        "fcf": -51.407
+      },
+      {
         "period": "2025Q4",
         "ocf_m": -64.673,
         "capex_m": -27.036,
@@ -137,24 +146,33 @@
       },
       {
         "period": "2025Q2",
-        "ocf_m": null,
-        "capex_m": null,
-        "fcf_m": null,
-        "ocf": null,
-        "capex": null,
-        "fcf": null
+        "ocf_m": 38.363,
+        "capex_m": -17.904,
+        "fcf_m": 20.459,
+        "ocf": 38.363,
+        "capex": -17.904,
+        "fcf": 20.459
       },
       {
-        "period": "2024Q4",
-        "ocf_m": 120.036,
-        "capex_m": -5.194,
-        "fcf_m": 114.842,
-        "ocf": 120.036,
-        "capex": -5.194,
-        "fcf": 114.842
+        "period": "2025Q1",
+        "ocf_m": -27.014,
+        "capex_m": -6.826,
+        "fcf_m": -33.84,
+        "ocf": -27.014,
+        "capex": -6.826,
+        "fcf": -33.84
       }
     ],
     "quality_table": [
+      {
+        "period": "2026Q1",
+        "net_income_m": 37.306,
+        "ocf_m": -30.359,
+        "cash_ratio_pct": -81.37833056344826,
+        "net_income": 37.306,
+        "ocf": -30.359,
+        "ratio": -81.37833056344826
+      },
       {
         "period": "2025Q4",
         "net_income_m": 176.925,
@@ -175,24 +193,37 @@
       },
       {
         "period": "2025Q2",
-        "net_income_m": null,
-        "ocf_m": null,
-        "cash_ratio_pct": null,
-        "net_income": null,
-        "ocf": null,
-        "ratio": null
+        "net_income_m": -15.866,
+        "ocf_m": 38.363,
+        "cash_ratio_pct": -241.79377284759863,
+        "net_income": -15.866,
+        "ocf": 38.363,
+        "ratio": -241.79377284759863
       },
       {
-        "period": "2024Q4",
-        "net_income_m": 191.949,
-        "ocf_m": 120.036,
-        "cash_ratio_pct": 62.535360955253736,
-        "net_income": 191.949,
-        "ocf": 120.036,
-        "ratio": 62.535360955253736
+        "period": "2025Q1",
+        "net_income_m": 16.863,
+        "ocf_m": -27.014,
+        "cash_ratio_pct": -160.19688074482593,
+        "net_income": 16.863,
+        "ocf": -27.014,
+        "ratio": -160.19688074482593
       }
     ],
     "kpi_table": [
+      {
+        "period": "2026Q1",
+        "opm_pct": 25.289930259131328,
+        "roe_pct": 3.52413502540181,
+        "roa_pct": 2.102441765248564,
+        "fcf_100m": -0.51407,
+        "net_income_100m": 0.37306,
+        "opm": 25.289930259131328,
+        "roe": 3.52413502540181,
+        "roa": 2.102441765248564,
+        "fcf_b": -0.51407,
+        "net_b": 0.37306
+      },
       {
         "period": "2025Q4",
         "opm_pct": 51.310067474877584,
@@ -221,32 +252,45 @@
       },
       {
         "period": "2025Q2",
-        "opm_pct": null,
-        "roe_pct": null,
-        "roa_pct": null,
-        "fcf_100m": null,
-        "net_income_100m": null,
-        "opm": null,
-        "roe": null,
-        "roa": null,
-        "fcf_b": null,
-        "net_b": null
+        "opm_pct": 10.572380140965068,
+        "roe_pct": -1.6910024939782151,
+        "roa_pct": -1.252931746570745,
+        "fcf_100m": 0.20459,
+        "net_income_100m": -0.15866,
+        "opm": 10.572380140965068,
+        "roe": -1.6910024939782151,
+        "roa": -1.252931746570745,
+        "fcf_b": 0.20459,
+        "net_b": -0.15866
       },
       {
-        "period": "2024Q4",
-        "opm_pct": 61.38689238781529,
-        "roe_pct": 30.612166784948208,
-        "roa_pct": 21.603325094877302,
-        "fcf_100m": 1.14842,
-        "net_income_100m": 1.91949,
-        "opm": 61.38689238781529,
-        "roe": 30.612166784948208,
-        "roa": 21.603325094877302,
-        "fcf_b": 1.14842,
-        "net_b": 1.91949
+        "period": "2025Q1",
+        "opm_pct": 15.556508386015993,
+        "roe_pct": null,
+        "roa_pct": null,
+        "fcf_100m": -0.3384,
+        "net_income_100m": 0.16863,
+        "opm": 15.556508386015993,
+        "roe": null,
+        "roa": null,
+        "fcf_b": -0.3384,
+        "net_b": 0.16863
       }
     ],
     "structure_table": [
+      {
+        "period": "2026Q1",
+        "total_assets_b": 17.74413,
+        "equity_b": 10.58586,
+        "debt_ratio_pct": 40.34162283527003,
+        "current_liab_b": 5.21938,
+        "doi_days": 927.2724561810411,
+        "assets": 17.74413,
+        "equity": 10.58586,
+        "debt": 40.34162283527003,
+        "cliab": 5.21938,
+        "doi": 927.2724561810411
+      },
       {
         "period": "2025Q4",
         "total_assets_b": 17.42594,
@@ -279,25 +323,25 @@
         "equity_b": 9.3826,
         "debt_ratio_pct": 25.905978788764205,
         "current_liab_b": 3.12863,
-        "doi_days": null,
+        "doi_days": 419.297562392784,
         "assets": 12.6631,
         "equity": 9.3826,
         "debt": 25.905978788764205,
         "cliab": 3.12863,
-        "doi": null
+        "doi": 419.297562392784
       },
       {
-        "period": "2024Q4",
-        "total_assets_b": 8.88516,
-        "equity_b": 6.27035,
-        "debt_ratio_pct": 29.428957947859125,
-        "current_liab_b": 2.48201,
-        "doi_days": 114.97107468664245,
-        "assets": 8.88516,
-        "equity": 6.27035,
-        "debt": 29.428957947859125,
-        "cliab": 2.48201,
-        "doi": 114.97107468664245
+        "period": "2025Q1",
+        "total_assets_b": null,
+        "equity_b": null,
+        "debt_ratio_pct": null,
+        "current_liab_b": null,
+        "doi_days": null,
+        "assets": null,
+        "equity": null,
+        "debt": null,
+        "cliab": null,
+        "doi": null
       }
     ],
     "pe_table": [
@@ -328,6 +372,14 @@
       }
     ],
     "chips_table": [
+      {
+        "date": "2026-07-23",
+        "foreign_lots": 27.113,
+        "it_lots": 0.0,
+        "dealer_lots": -11.0,
+        "sum_lots": 16.113,
+        "pct_float": 0.004392150662788701
+      },
       {
         "date": "2026-07-22",
         "foreign_lots": 14.938,
@@ -439,21 +491,13 @@
         "dealer_lots": -5.0,
         "sum_lots": 67.0,
         "pct_float": 0.018263147421761494
-      },
-      {
-        "date": "2026-07-01",
-        "foreign_lots": 24.5,
-        "it_lots": 3.0,
-        "dealer_lots": -1.0,
-        "sum_lots": 26.5,
-        "pct_float": 0.007223483681741487
       }
     ],
     "returns_table": [
       {
         "year": 2026,
-        "return_pct": 256.0109810886686,
-        "period": "01/02~07/22"
+        "return_pct": 252.28311741234748,
+        "period": "01/02~07/23"
       },
       {
         "year": 2025,
@@ -466,7 +510,7 @@
       "dataset": "structure_c_score",
       "stock_id": "7828",
       "ticker": "7828.TWO",
-      "asof": "2026-07-22",
+      "asof": "2026-07-23",
       "c_score": 1.0,
       "benchmark_pe": 82.16608632809934,
       "source": [
@@ -583,27 +627,6 @@
       "stock_name": "創新服務"
     },
     "kline_data": [
-      {
-        "date": "2026-01-20",
-        "symbol": "7828.TWO",
-        "open": 661.0,
-        "high": 668.0,
-        "low": 632.0,
-        "close": 650.0,
-        "volume": 451244.0,
-        "adjclose": 648.1880493164062,
-        "dividends": 0.0,
-        "MA5": 595.6,
-        "MA20": 530.75,
-        "MA60": 438.9333333333333,
-        "bb_mid": 530.75,
-        "bb_up": 637.1504229314896,
-        "bb_dn": 424.3495770685104,
-        "DIF": 46.13452750645104,
-        "DEA": 36.223249813073565,
-        "HIST": 19.822555386754946,
-        "volume_lot": 451.244
-      },
       {
         "date": "2026-01-21",
         "symbol": "7828.TWO",
@@ -3089,7 +3112,7 @@
         "high": 2010.0,
         "low": 1880.0,
         "close": 1910.0,
-        "volume": 317448.0,
+        "volume": 286237.0,
         "adjclose": 1910.0,
         "dividends": 0.0,
         "MA5": 1933.0,
@@ -3101,7 +3124,28 @@
         "DIF": 23.06485382680921,
         "DEA": 67.28376528653405,
         "HIST": -88.43782291944967,
-        "volume_lot": 317.448
+        "volume_lot": 286.237
+      },
+      {
+        "date": "2026-07-23",
+        "symbol": "7828.TWO",
+        "open": 1940.0,
+        "high": 1975.0,
+        "low": 1845.0,
+        "close": 1890.0,
+        "volume": 218729.0,
+        "adjclose": 1890.0,
+        "dividends": 0.0,
+        "MA5": 1879.0,
+        "MA20": 2008.75,
+        "MA60": 1681.5833333333333,
+        "bb_mid": 2008.75,
+        "bb_up": 2274.2471751262096,
+        "bb_dn": 1743.2528248737904,
+        "DIF": 15.227681361428267,
+        "DEA": 56.872548501512895,
+        "HIST": -83.28973428016926,
+        "volume_lot": 218.729
       }
     ]
   }
