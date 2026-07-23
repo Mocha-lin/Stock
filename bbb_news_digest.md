@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-22T20:03:46.663403+00:00
+> 更新時間：2026-07-23T00:01:14.288453+00:00
 
 ### 🚀 台積電承諾向亞利桑那州再投資 1,000 億美元，建設至少四座 2nm 晶圓廠——繼創紀錄的季度盈利後，2026 年資本支出可能達到 640 億美元
 - **題材**: `半導體先進製程` | **重要性**: `87`
@@ -100,6 +100,24 @@
 
 ---
 
+### ⚖️ 光引擎供應鏈洗牌，InP基板成為策略資產
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-07-16T06:29:43Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 隨著AI伺服器互連向1.6T和共封裝光學（CPO）邁進，高功率連續波（CW）雷射正成為全球科技公司的戰略戰場。這些光學引擎的核心是磷化銦 (InP) 製造商…
+- [原文連結](https://www.digitimes.com/news/a20260715PD223/inp-ai-server-supply-chain-manufacturing-cpo.html)
+
+---
+
+### ⚖️ 微軟將在 Azure 上「大規模」部署 AMD 的 Helios 機架級 AI 加速器 – Radeon Instinct MI455X 和 Epyc Venice 電源將透過雷德蒙德的雲端基礎設施提供
+- **題材**: `AI伺服器` | **重要性**: `67`
+- **來源**: Tom's Hardware UK (2026-07-20T13:05:00Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 微軟和 AMD 正在聯手為雷德蒙德提供更多的 AI FLOPS，供內部和外部使用。
+- [原文連結](https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-will-deploy-amds-helios-rack-scale-ai-accelerator-at-scale-on-azure-radeon-instinct-mi455x-and-epyc-venice-power-will-be-available-through-redmonds-cloud-infrastructure)
+
+---
+
 ### ⚠️ 任天堂表示，在提高 Switch 價格後，它不欠客戶任何東西
 - **題材**: `總體風險` | **重要性**: `65`
 - **來源**: Kotaku (2026-07-21T11:55:04Z)
@@ -154,30 +172,12 @@
 
 ---
 
-### ⚠️ Nvidia 的黃發誓將交付“大量”Vera Rubin——該公司表示“我們的路線圖完好無損”
-- **題材**: `AI伺服器` | **重要性**: `62`
-- **來源**: Tom's Hardware UK (2026-07-15T19:07:17Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Nvidia 執行長表示，該公司預計將生產「大量」基於 Vera Rubin 的機器，但未能解決傳聞中的 Kyber NVL144 機架從 2027 年推遲到 2028 年的問題。
-- [原文連結](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-huang-vows-to-deliver-giant-amounts-of-vera-rubin-company-says-that-our-roadmap-is-intact)
-
----
-
-### 🚀 報告：台積電計畫2027年提高晶片價格
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: GSMArena.com (2026-07-21T16:51:02Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 半導體產品價格的上漲並沒有放緩的跡象。日經亞洲報道稱，台積電將從明年開始將價格提高最多 10%，這對其客戶（例如英偉達、蘋果、高通、AMD 和英特爾等）來說是個壞消息。
-- [原文連結](https://www.gsmarena.com/report_tsmc_is_planning_to_raise_chip_prices_in_2027-news-73814.php)
-
----
-
-### ⚠️ 川普對加拿大商品徵收50%的新關稅其實是承認貿易戰不起作用
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-07-21T16:05:31Z)
-- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 貿易戰導致對加拿大的出口下降。現在，川普用這一事實來證明徵收更多關稅的合理性。
-- [原文連結](https://finance.yahoo.com/economy/policy/articles/trumps-50-tariff-canadian-goods-160531267.html)
+### ⚖️ Nvidia 進軍資料中心 CPU 挑戰英特爾和 AMD
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: 4sysops.com (2026-07-21T20:50:43Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Nvidia 透過推出 Vera CPU，積極擴展其產品組合，超越其主導的 GPU 系列。這項策略轉變旨在將公司定位為完整、垂直整合的人工智慧資料中心系統供應商。透過提供統一的...
+- [原文連結](https://4sysops.com/archives/nvidia-expands-into-data-center-cpus-to-challenge-intel-and-amd/)
 
 ---
 
