@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-07-23T11:09:34.466188+00:00",
+  "generated_at": "2026-07-23T14:57:46.982083+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 74,
@@ -17,7 +17,7 @@
       "source": "Tom's Hardware UK",
       "domain": "tomshardware.com",
       "published_at": "2026-07-16T12:10:51Z",
-      "importance": 87,
+      "importance": 82,
       "impact": "positive",
       "timeframe": "short_to_mid_term",
       "tags": [
@@ -41,7 +41,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「半導體先進製程」題材之偏多消息。【重大事件】可能顯著影響產業評價、EPS預期或資金流向。"
+      "reason": "屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "c9e00375fac6c09e",
@@ -229,6 +229,44 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
+      "id": "0bf11e887ee1228a",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Super Micro Computer 2026 年第四季利潤率超出預期，股價飆升",
+      "summary": "這家人工智慧伺服器製造商目前預計截至 6 月 30 日的季度毛利率為 15% 至 17%，而先前的指導值為 8.2% 至 8.4%",
+      "original_title": "Super Micro Computer Q4 2026 margins beat guidance, stock surges",
+      "url": "https://qz.com/super-micro-computer-stock-margins-guidance-orders-072226",
+      "source": "Quartz India",
+      "domain": "qz.com",
+      "published_at": "2026-07-22T12:08:20Z",
+      "importance": 75,
+      "impact": "positive",
+      "timeframe": "short_to_mid_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "03b66b83a314811a",
@@ -483,6 +521,82 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "d547452bcdcb0856",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "三星 Galaxy Watch Ultra 2 與 Galaxy Watch Ultra 2025：這是您想要的升級",
+      "summary": "Galaxy Watch Ultra 2 終於提供了我們一直在等待的升級。這款智慧手錶擁有更薄的設計和新的方形錶殼、更大的 800mAh 電池、更好的耐用性以及出色的全新高通晶片。",
+      "original_title": "Samsung Galaxy Watch Ultra 2 vs. Galaxy Watch Ultra 2025: This is the upgrade you want",
+      "url": "https://www.androidcentral.com/wearables/samsung-galaxy-watch/samsung-galaxy-watch-ultra-2-vs-galaxy-watch-ultra-2025",
+      "source": "Android Central",
+      "domain": "androidcentral.com",
+      "published_at": "2026-07-22T13:33:22Z",
+      "importance": 65,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "fb43502ab53d6fe4",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "三星 Galaxy Watch Ultra 2 與 Galaxy Watch 9：這是一個簡單的選擇",
+      "summary": "Galaxy Watch 9 有一些升級，但與去年非常相似。而 Galaxy Watch Ultra 2 則進行了全面升級。有興趣今年購買三星智慧手錶嗎？讀一下這個。",
+      "original_title": "Samsung Galaxy Watch Ultra 2 vs. Galaxy Watch 9: It's an easy choice",
+      "url": "https://www.androidcentral.com/wearables/samsung-galaxy-watch/samsung-galaxy-watch-ultra-2-vs-galaxy-watch-9",
+      "source": "Android Central",
+      "domain": "androidcentral.com",
+      "published_at": "2026-07-22T13:01:42Z",
+      "importance": 65,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "53c2e7529d266263",
@@ -865,44 +979,6 @@
       "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "562cd1bd6b2fd7dd",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Nvidia 進軍資料中心 CPU 挑戰英特爾和 AMD",
-      "summary": "Nvidia 透過推出 Vera CPU，積極擴展其產品組合，超越其主導的 GPU 系列。這項策略轉變旨在將公司定位為完整、垂直整合的人工智慧資料中心系統供應商。透過提供統一的...",
-      "original_title": "Nvidia expands into data center CPUs to challenge Intel and AMD",
-      "url": "https://4sysops.com/archives/nvidia-expands-into-data-center-cpus-to-challenge-intel-and-amd/",
-      "source": "4sysops.com",
-      "domain": "4sysops.com",
-      "published_at": "2026-07-21T20:50:43Z",
-      "importance": 60,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "3712d8d92b83018b",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1256,117 +1332,6 @@
       "source": "TechRadar",
       "domain": "techradar.com",
       "published_at": "2026-07-20T19:05:00Z",
-      "importance": 60,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "59a4c59c5ac859cd",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "(PR) IEEE 研究強調微轉移印刷如何帶來先進的矽光子學",
-      "summary": "矽光子學已成為解決傳統電氣互連的頻寬和延遲瓶頸的一項有前途的技術，因此正在為未來的人工智慧基礎設施進行探索。然而，異質集成...",
-      "original_title": "(PR) IEEE Study Highlights How Micro-Transfer Printing Can Lead to Advanced Silicon Photonics",
-      "url": "https://www.techpowerup.com/350894/ieee-study-highlights-how-micro-transfer-printing-can-lead-to-advanced-silicon-photonics",
-      "source": "Techpowerup.com",
-      "domain": "techpowerup.com",
-      "published_at": "2026-07-20T14:38:56Z",
-      "importance": 60,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "c0058742051d38f1",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "AMD、美光、SK 海力士股價攀升，半導體綜合體試圖復甦",
-      "summary": "在最近的拋售之後，半導體股票週一小幅走高。",
-      "original_title": "AMD, Micron, SK Hynix climb as semiconductor complex attempt recovery",
-      "url": "https://finance.yahoo.com/technology/article/amd-micron-sk-hynix-climb-as-semiconductor-complex-attempt-recovery-133110868.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-07-20T13:31:10Z",
-      "importance": 60,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "f363430373b12e84",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "執行長、創辦人和億萬富翁現身世界盃決賽",
-      "summary": "新澤西州的貴賓包括鋼鐵大亨、體育高層和創造型企業家。",
-      "original_title": "The CEOs, founders, and billionaires spotted at the World Cup final",
-      "url": "https://www.businessinsider.com/ceos-founders-billionaires-spotted-at-fifa-world-cup-final-2026-7#article",
-      "source": "Business Insider",
-      "domain": "businessinsider.com",
-      "published_at": "2026-07-20T11:51:19Z",
       "importance": 60,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -1885,52 +1850,17 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "e62dd661e0be678a",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "AMD、美光、SK海力士引領晶片庫存復甦",
-      "summary": "",
-      "original_title": "AMD, Micron, SK Hynix lead chip stock recovery",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4df93ffc-fb7c-4fb5-b4a9-3d0d726686db",
-      "source": "Yahoo Entertainment",
-      "domain": "consent.yahoo.com",
-      "published_at": "2026-07-20T13:31:10Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "5eaeff063a63070e",
+      "id": "59a4c59c5ac859cd",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "光通訊與矽光子",
-      "title": "IEEE 研究強調微轉移印刷如何帶來先進的矽光子學",
-      "summary": "微轉移印刷可以實現矽光子中不同材料系統的異質整合新澤西州皮斯卡塔韋，2026 年 7 月 20 日 /美通社/ -- 矽光子已成為解決頻寬和延遲瓶頸的一項有前景的技術…",
-      "original_title": "IEEE Study Highlights How Micro-Transfer Printing Can Lead to Advanced Silicon Photonics",
-      "url": "https://www.prnewswire.com/news-releases/ieee-study-highlights-how-micro-transfer-printing-can-lead-to-advanced-silicon-photonics-302828743.html",
-      "source": "PRNewswire",
-      "domain": "prnewswire.com",
-      "published_at": "2026-07-20T12:50:00Z",
+      "title": "(PR) IEEE 研究強調微轉移印刷如何帶來先進的矽光子學",
+      "summary": "矽光子學已成為解決傳統電氣互連的頻寬和延遲瓶頸的一項有前途的技術，因此正在為未來的人工智慧基礎設施進行探索。然而，異質集成...",
+      "original_title": "(PR) IEEE Study Highlights How Micro-Transfer Printing Can Lead to Advanced Silicon Photonics",
+      "url": "https://www.techpowerup.com/350894/ieee-study-highlights-how-micro-transfer-printing-can-lead-to-advanced-silicon-photonics",
+      "source": "Techpowerup.com",
+      "domain": "techpowerup.com",
+      "published_at": "2026-07-20T14:38:56Z",
       "importance": 55,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -1956,6 +1886,79 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "c0058742051d38f1",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "AMD、美光、SK 海力士股價攀升，半導體綜合體試圖復甦",
+      "summary": "在最近的拋售之後，半導體股票週一小幅走高。",
+      "original_title": "AMD, Micron, SK Hynix climb as semiconductor complex attempt recovery",
+      "url": "https://finance.yahoo.com/technology/article/amd-micron-sk-hynix-climb-as-semiconductor-complex-attempt-recovery-133110868.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-07-20T13:31:10Z",
+      "importance": 55,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "f363430373b12e84",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "執行長、創辦人和億萬富翁現身世界盃決賽",
+      "summary": "新澤西州的貴賓包括鋼鐵大亨、體育高層和創造型企業家。",
+      "original_title": "The CEOs, founders, and billionaires spotted at the World Cup final",
+      "url": "https://www.businessinsider.com/ceos-founders-billionaires-spotted-at-fifa-world-cup-final-2026-7#article",
+      "source": "Business Insider",
+      "domain": "businessinsider.com",
+      "published_at": "2026-07-20T11:51:19Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "5e09cdefe7528d3b",
@@ -2329,32 +2332,29 @@
       "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "0315c99e7bf6f212",
+      "id": "e62dd661e0be678a",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "蘋果晶片製造商承諾為美國工廠追加 1,000 億美元",
-      "summary": "蘋果晶片供應商台積電宣布將美國晶片投資增加 1,000 億美元，使其承諾總額達到 2,650 億美元。\n\n\n\n\n\n白宮和商務部確認了這一增長，同時台積電第二季度盈利...",
-      "original_title": "Apple's Chipmaker Pledges $100 Billion More for US Plants",
-      "url": "https://www.macrumors.com/2026/07/16/tsmc-pledges-100-billion-for-us-plants/",
-      "source": "MacRumors",
-      "domain": "macrumors.com",
-      "published_at": "2026-07-16T12:49:55Z",
-      "importance": 55,
+      "theme": "HBM記憶體",
+      "title": "AMD、美光、SK海力士引領晶片庫存復甦",
+      "summary": "",
+      "original_title": "AMD, Micron, SK Hynix lead chip stock recovery",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4df93ffc-fb7c-4fb5-b4a9-3d0d726686db",
+      "source": "Yahoo Entertainment",
+      "domain": "consent.yahoo.com",
+      "published_at": "2026-07-20T13:31:10Z",
+      "importance": 50,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
+        "HBM",
+        "記憶體"
       ],
       "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
       ],
       "related_models": [
         "003",
@@ -2364,7 +2364,45 @@
         "009",
         "010"
       ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "5eaeff063a63070e",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "IEEE 研究強調微轉移印刷如何帶來先進的矽光子學",
+      "summary": "微轉移印刷可以實現矽光子中不同材料系統的異質整合新澤西州皮斯卡塔韋，2026 年 7 月 20 日 /美通社/ -- 矽光子已成為解決頻寬和延遲瓶頸的一項有前景的技術…",
+      "original_title": "IEEE Study Highlights How Micro-Transfer Printing Can Lead to Advanced Silicon Photonics",
+      "url": "https://www.prnewswire.com/news-releases/ieee-study-highlights-how-micro-transfer-printing-can-lead-to-advanced-silicon-photonics-302828743.html",
+      "source": "PRNewswire",
+      "domain": "prnewswire.com",
+      "published_at": "2026-07-20T12:50:00Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "e57c579c5fbb28c9",
@@ -2403,44 +2441,6 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "0a78a53771fa775f",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "英特爾開始出貨高數值孔徑 EUV 晶片",
-      "summary": "來到您附近的 Panther Lake 筆記本！",
-      "original_title": "Intel Starts Shipping High-NA EUV Silicon",
-      "url": "https://morethanmoore.substack.com/p/intel-starts-shipping-high-na-euv",
-      "source": "Substack.com",
-      "domain": "morethanmoore.substack.com",
-      "published_at": "2026-07-18T19:56:33Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "51500297ad1d998d",
@@ -2514,44 +2514,6 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "2345d66cfa9301a8",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "What to know about the AI chip stock selloff",
-      "summary": "週五，人工智慧晶片製造商的股價繼續下跌。",
-      "original_title": "What to know about the AI chip stock selloff",
-      "url": "https://abcnews.com/Business/ai-chip-stock-selloff/story?id=134844421",
-      "source": "Abcnews.com",
-      "domain": "abcnews.com",
-      "published_at": "2026-07-17T20:43:38Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "5a663b3a13b0d807",
@@ -2662,6 +2624,44 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "0315c99e7bf6f212",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "蘋果晶片製造商承諾為美國工廠追加 1,000 億美元",
+      "summary": "蘋果晶片供應商台積電宣布將美國晶片投資增加 1,000 億美元，使其承諾總額達到 2,650 億美元。\n\n\n\n\n\n白宮和商務部確認了這一增長，同時台積電第二季度盈利...",
+      "original_title": "Apple's Chipmaker Pledges $100 Billion More for US Plants",
+      "url": "https://www.macrumors.com/2026/07/16/tsmc-pledges-100-billion-for-us-plants/",
+      "source": "MacRumors",
+      "domain": "macrumors.com",
+      "published_at": "2026-07-16T12:49:55Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "39a65a321c564046",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2673,7 +2673,7 @@
       "source": "Yahoo Entertainment",
       "domain": "consent.yahoo.com",
       "published_at": "2026-07-16T14:23:40Z",
-      "importance": 50,
+      "importance": 45,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -2697,7 +2697,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     },
     {
       "id": "ddb0e4d2456a003f",
