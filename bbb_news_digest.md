@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-23T04:09:48.868578+00:00
+> 更新時間：2026-07-23T06:44:15.308405+00:00
 
 ### 🚀 台積電承諾向亞利桑那州再投資 1,000 億美元，建設至少四座 2nm 晶圓廠——繼創紀錄的季度盈利後，2026 年資本支出可能達到 640 億美元
 - **題材**: `半導體先進製程` | **重要性**: `87`
@@ -91,12 +91,12 @@
 
 ---
 
-### ⚖️ 光引擎供應鏈洗牌，InP基板成為策略資產
-- **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-07-16T06:29:43Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 隨著AI伺服器互連向1.6T和共封裝光學（CPO）邁進，高功率連續波（CW）雷射正成為全球科技公司的戰略戰場。這些光學引擎的核心是磷化銦 (InP) 製造商…
-- [原文連結](https://www.digitimes.com/news/a20260715PD223/inp-ai-server-supply-chain-manufacturing-cpo.html)
+### 🚀 Wedbush 相信 ASML 增加指導對 SK 海力士來說是個好兆頭。如何在這裡玩 SKHY 股票。
+- **題材**: `HBM記憶體` | **重要性**: `70`
+- **來源**: Barchart.com (2026-07-21T18:23:46Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 分析師認為，營收前景的提高對記憶體晶片製造商來說是個好消息。
+- [原文連結](https://www.barchart.com/story/news/3389102/wedbush-believes-increased-guidance-from-asml-bodes-well-for-sk-hynix-how-to-play-skhy-stock-here)
 
 ---
 
@@ -106,6 +106,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 生成式人工智慧正在加速對運算能力、記憶體和資料頻寬的需求，將半導體創新從前端製程轉向先進封裝、矽光子學 (SiPh) 和共封裝光學 (CPO)。本傑明·海因 (Benjamin Hein)，電子公司執行長…
 - [原文連結](https://www.digitimes.com/news/a20260716PD219/cpo-genai-packaging-growth-commercial.html)
+
+---
+
+### ⚖️ 第一個 NVIDIA Vera Rubin NVL72 基準測試顯示比 Grace Blackwell 提高了 10 倍
+- **題材**: `AI伺服器` | **重要性**: `65`
+- **來源**: TweakTown (2026-07-22T05:26:08Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: CoreWeave 在 Vera Rubin NVL72 和 Grace Blackwell NVL72 系統上運行了相同的 DeepSeek-R1 基準測試，發現一個關鍵區域實現了 10 倍的改進。在 TweakTown 繼續閱讀
+- [原文連結](https://www.tweaktown.com/news/112758/first-nvidia-vera-rubin-nvl72-benchmarks-show-10x-improvement-over-grace-blackwell/index.html)
 
 ---
 
@@ -154,30 +163,21 @@
 
 ---
 
+### ⚖️ 光引擎供應鏈洗牌，InP基板成為策略資產
+- **題材**: `光通訊與矽光子` | **重要性**: `63`
+- **來源**: Digitimes (2026-07-16T06:29:43Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 隨著AI伺服器互連向1.6T和共封裝光學（CPO）邁進，高功率連續波（CW）雷射正成為全球科技公司的戰略戰場。這些光學引擎的核心是磷化銦 (InP) 製造商…
+- [原文連結](https://www.digitimes.com/news/a20260715PD223/inp-ai-server-supply-chain-manufacturing-cpo.html)
+
+---
+
 ### ⚖️ Nvidia 工程超級實驗室的幕後 — Vera Rubin NVL72 運行 OpenAI 工作負載、演示 800VDC 等
 - **題材**: `AI伺服器` | **重要性**: `62`
 - **來源**: Tom's Hardware UK (2026-07-21T15:15:00Z)
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Nvidia 向 Tom’s Hardware Premium 獨家展示了其位於 Nvidia 總部附近的先前未公開的工程超級實驗室，我們在那裡看到了 Vera Rubin NVL72 的運作情況。
 - [原文連結](https://www.tomshardware.com/tech-industry/artificial-intelligence/behind-the-scenes-at-nvidias-engineering-superlab-vera-rubin-nvl72-running-openai-workloads-800vdc-demonstrated-and-more)
-
----
-
-### ⚖️ 使用戴爾 Pro Max GB10 進行本地 AI 叢集 — 連接兩個 Nvidia Grace Blackwell 以橫向擴展家庭 AI 運算
-- **題材**: `AI伺服器` | **重要性**: `62`
-- **來源**: Tom's Hardware UK (2026-07-21T14:30:00Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 我們將一對戴爾 Pro Max 與 GB10 配對並進行了測試，看看一小群 Nvidia 的 Spark 晶片可以做什麼。截至撰寫本文時，它的價格為每台 6332 美元，仍然是一個昂貴的前景，但比裝滿 GPU 的大型伺服器盒子便宜得多，也更適合桌面使用…
-- [原文連結](https://www.tomshardware.com/pc-components/gpus/local-ai-clustering-with-dells-pro-max-gb10-connecting-two-nvidia-grace-blackwell-to-scale-out-ai-compute-at-home)
-
----
-
-### ⚠️ 據報道，在川普再次發出關稅威脅後，加拿大取消了與美國的聯合橋樑慶祝活動
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-07-22T01:58:55Z)
-- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 
-- [原文連結](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ff6d073c-db77-4ce0-ad88-5eee6c84a67d)
 
 ---
 
