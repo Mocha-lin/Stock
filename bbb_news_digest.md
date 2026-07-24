@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-24T04:08:18.472580+00:00
+> 更新時間：2026-07-24T06:44:17.988412+00:00
 
 ### 🚀 CPO 商業化為台灣 OSAT 開啟了新的 SiPh 封裝競賽
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -25,6 +25,15 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 在 7 月 16 日的財報會議上，台積電 (TSMC) 對人工智慧需求前景表示樂觀。為因應英特爾 EMIB 先進封裝技術的競爭，董事長兼執行長 C.C.魏表示台積電CoWoS產能...
 - [原文連結](https://www.digitimes.com/news/a20260717PD220/tsmc-taiwan-capacity-cowos-earnings.html)
+
+---
+
+### 🚀 價格預測：SMCI 在此日期將翻倍
+- **題材**: `AI伺服器` | **重要性**: `75`
+- **來源**: 24/7 Wall St. (2026-07-22T17:00:57Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Super Micro Computer 的營收成長了三位數，而其股價卻比一年前低了 54%，而脫節點背後的原因是…
+- [原文連結](https://247wallst.com/investing/2026/07/22/price-prediction-smci-will-double-on-this-date/)
 
 ---
 
@@ -170,15 +179,6 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Galaxy Watch 9 有一些升級，但與去年非常相似。而 Galaxy Watch Ultra 2 則進行了全面升級。有興趣今年購買三星智慧手錶嗎？讀一下這個。
 - [原文連結](https://www.androidcentral.com/wearables/samsung-galaxy-watch/samsung-galaxy-watch-ultra-2-vs-galaxy-watch-9)
-
----
-
-### ⚖️ 第一個 NVIDIA Vera Rubin NVL72 基準測試顯示比 Grace Blackwell 提高了 10 倍
-- **題材**: `AI伺服器` | **重要性**: `65`
-- **來源**: TweakTown (2026-07-22T05:26:08Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: CoreWeave 在 Vera Rubin NVL72 和 Grace Blackwell NVL72 系統上運行了相同的 DeepSeek-R1 基準測試，發現一個關鍵區域實現了 10 倍的改進。在 TweakTown 繼續閱讀
-- [原文連結](https://www.tweaktown.com/news/112758/first-nvidia-vera-rubin-nvl72-benchmarks-show-10x-improvement-over-grace-blackwell/index.html)
 
 ---
 
