@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-24T18:08:35.948385+00:00
+> 更新時間：2026-07-24T20:07:46.078490+00:00
 
 ### 🚀 CPO 商業化為台灣 OSAT 開啟了新的 SiPh 封裝競賽
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -82,31 +82,12 @@
 
 ---
 
-### 🚀 Wedbush 相信 ASML 增加指導對 SK 海力士來說是個好兆頭。如何在這裡玩 SKHY 股票。
-- **題材**: `HBM記憶體` | **重要性**: `70`
-- **來源**: Barchart.com (2026-07-21T18:23:46Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 分析師認為，營收前景的提高對記憶體晶片製造商來說是個好消息。
-- [原文連結](https://www.barchart.com/story/news/3389102/wedbush-believes-increased-guidance-from-asml-bodes-well-for-sk-hynix-how-to-play-skhy-stock-here)
-
----
-
 ### 🚀 SK 海力士的 HBM 帝國佔據了美國 65% 的收入——這是必須擁有的 AI 股票嗎？
 - **題材**: `HBM記憶體` | **重要性**: `70`
 - **來源**: 24/7 Wall St. (2026-07-21T15:31:10Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 當投資者追逐 GPU 製造商時，一家韓國晶片製造商已悄悄鎖定了人工智慧基礎設施中最關鍵的一個瓶頸，其最新版本...
 - [原文連結](https://247wallst.com/investing/2026/07/21/sk-hynixs-hbm-empire-powers-65-us-revenue-is-this-the-must-own-ai-stock/)
-
----
-
-### 🚀 隨著人工智慧集群的發展超過銅線，矽光子學投資激增
-- **題材**: `光通訊與矽光子` | **重要性**: `70`
-- **來源**: Crypto Briefing (2026-07-19T21:09:36Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 隨著人工智慧集群的發展超過銅線，重塑資料中心和加密基礎設施，Nvidia 已向矽光子公司投資超過 65 億美元。
-隨著人工智慧集群的發展超過銅線，矽光子學投資激增，這首先出現在 Cry 上…
-- [原文連結](https://cryptobriefing.com/silicon-photonics-investment-ai-clusters/)
 
 ---
 
@@ -125,6 +106,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 受光通訊產品強勁出貨量的推動，台灣光通訊公司 WaveSplitter Technologies (WST) 2026 年第一季營收幾乎翻倍。董事長兼總裁 Sheau Chen 表示，不斷增長的 AI 運算需求將...
 - [原文連結](https://www.digitimes.com/news/a20260714PD222/shipments-laser-high-power-communications-growth.html)
+
+---
+
+### ⚠️ RAMpocalypse 開始衝擊汽車產業
+- **題材**: `HBM記憶體` | **重要性**: `65`
+- **來源**: Gizmodo.com (2026-07-23T19:55:29Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 通用汽車警告稱，持續的記憶體短缺可能會給公司帶來數十億美元的損失。
+- [原文連結](https://gizmodo.com/the-rampocalypse-is-starting-to-hit-the-auto-industry-2000789990)
 
 ---
 
@@ -170,6 +160,15 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Galaxy Watch 9 有一些升級，但與去年非常相似。而 Galaxy Watch Ultra 2 則進行了全面升級。有興趣今年購買三星智慧手錶嗎？讀一下這個。
 - [原文連結](https://www.androidcentral.com/wearables/samsung-galaxy-watch/samsung-galaxy-watch-ultra-2-vs-galaxy-watch-9)
+
+---
+
+### 🚀 Wedbush 相信 ASML 增加指導對 SK 海力士來說是個好兆頭。如何在這裡玩 SKHY 股票。
+- **題材**: `HBM記憶體` | **重要性**: `65`
+- **來源**: Barchart.com (2026-07-21T18:23:46Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 分析師認為，營收前景的提高對記憶體晶片製造商來說是個好消息。
+- [原文連結](https://www.barchart.com/story/news/3389102/wedbush-believes-increased-guidance-from-asml-bodes-well-for-sk-hynix-how-to-play-skhy-stock-here)
 
 ---
 
