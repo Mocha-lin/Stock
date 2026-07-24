@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-24T11:03:01.414815+00:00
+> 更新時間：2026-07-24T14:40:36.982639+00:00
 
 ### 🚀 CPO 商業化為台灣 OSAT 開啟了新的 SiPh 封裝競賽
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -43,15 +43,6 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 當投資者追逐 GPU 製造商時，一家韓國晶片製造商已悄悄鎖定了人工智慧基礎設施中最關鍵的一個瓶頸，其最新版本...
 - [原文連結](https://247wallst.com/investing/2026/07/21/sk-hynixs-hbm-empire-powers-65-us-revenue-is-this-the-must-own-ai-stock/)
-
----
-
-### ⚖️ WAIC 2026：Lightelligence 透過 CPO、NPO、光子運算描繪 AI 的光學未來
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-07-23T02:44:50Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Lightelligence 將光互連、光交換和光運算定位為人工智慧基礎設施的下一個基礎，並認為該行業最大的挑戰已從更快的晶片轉移到在不斷增加的數據中有效地移動數據...
-- [原文連結](https://www.digitimes.com/news/a20260722VL207/cpo-waic-2026-chips-infrastructure.html)
 
 ---
 
@@ -137,12 +128,30 @@
 
 ---
 
-### ⚖️ 英特爾將在英特爾 4 上共同開發和製造 Fortinet 的下一代防火牆 ASIC——節點獲得第一個指定外部客戶
-- **題材**: `半導體先進製程` | **重要性**: `67`
-- **來源**: Tom's Hardware UK (2026-07-21T13:00:00Z)
+### ⚖️ Credo 或 Marvell：誰引領 AI 連結競賽？
+- **題材**: `光通訊與矽光子` | **重要性**: `65`
+- **來源**: 24/7 Wall St. (2026-07-23T14:30:56Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 兩家半導體巨頭正在以截然不同的策略追逐相同的超大規模美元，只有一家能夠在最佳選擇時維持其利潤優勢。
+- [原文連結](https://247wallst.com/investing/2026/07/23/credo-or-marvell-who-leads-the-ai-connectivity-race/)
+
+---
+
+### 🚀 歐洲央行維持利率不變，但為進一步升息敞開大門
+- **題材**: `總體風險` | **重要性**: `65`
+- **來源**: Yahoo Entertainment (2026-07-23T12:55:09Z)
+- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 倫敦，7 月 23 日（路透社）
+- [原文連結](https://finance.yahoo.com/economy/policy/articles/ecb-leaves-rates-hold-keeps-125509510.html)
+
+---
+
+### ⚖️ 台積電股票：人工智慧泡沫擔憂加劇，仍押注 640 億美元
+- **題材**: `半導體先進製程` | **重要性**: `65`
+- **來源**: Barchart.com (2026-07-22T18:05:25Z)
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: SP6將利用兩家公司所描述的英特爾在分類半導體設計和先進封裝方面的專業知識。
-- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/intel-to-co-develop-and-manufacture-fortinets-next-gen-firewall-asic)
+- **摘要**: 如果台積電相信人工智慧存在泡沫，它就不會花費 640 億美元。
+- [原文連結](https://www.barchart.com/story/news/3410056/tsmc-stock-a-64-billion-bet-even-as-ai-bubble-fears-grow)
 
 ---
 
@@ -170,15 +179,6 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Galaxy Watch 9 有一些升級，但與去年非常相似。而 Galaxy Watch Ultra 2 則進行了全面升級。有興趣今年購買三星智慧手錶嗎？讀一下這個。
 - [原文連結](https://www.androidcentral.com/wearables/samsung-galaxy-watch/samsung-galaxy-watch-ultra-2-vs-galaxy-watch-9)
-
----
-
-### ⚠️ 任天堂表示，在提高 Switch 價格後，它不欠客戶任何東西
-- **題材**: `總體風險` | **重要性**: `65`
-- **來源**: Kotaku (2026-07-21T11:55:04Z)
-- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 這家日本公司已在美國提起集體訴訟，但被駁回
-- [原文連結](https://kotaku.com/nintendo-switch-2-price-class-action-lawsuit-trump-tariffs-2000717971)
 
 ---
 
