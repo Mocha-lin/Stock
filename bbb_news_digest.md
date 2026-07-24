@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-24T06:44:17.988412+00:00
+> 更新時間：2026-07-24T11:03:01.414815+00:00
 
 ### 🚀 CPO 商業化為台灣 OSAT 開啟了新的 SiPh 封裝競賽
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -16,15 +16,6 @@
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Nvidia 新推出的 Vera Rubin NVL72 的定位不是更快的晶片，而是更便宜的 AI 輸出單位。對於目前界定產業成長上限的電力受限資料中心來說，這種轉變最為重要。在 7 月 21 日的公告中…
 - [原文連結](https://www.digitimes.com/news/a20260722VL206/nvidia-rubin-cpu.html)
-
----
-
-### ⚖️ 隨著OSAT合作夥伴加強擴張力度，台積電的CoWoS產能仍然“極度緊張”
-- **題材**: `半導體先進製程` | **重要性**: `78`
-- **來源**: Digitimes (2026-07-17T08:56:20Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 在 7 月 16 日的財報會議上，台積電 (TSMC) 對人工智慧需求前景表示樂觀。為因應英特爾 EMIB 先進封裝技術的競爭，董事長兼執行長 C.C.魏表示台積電CoWoS產能...
-- [原文連結](https://www.digitimes.com/news/a20260717PD220/tsmc-taiwan-capacity-cowos-earnings.html)
 
 ---
 
@@ -100,12 +91,12 @@
 
 ---
 
-### ⚖️ 高功率連續雷射將於 2026 年第 4 季開始出貨，WST 瞄準 AI 光學繁榮
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-07-17T07:08:21Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 受光通訊產品強勁出貨量的推動，台灣光通訊公司 WaveSplitter Technologies (WST) 2026 年第一季營收幾乎翻倍。董事長兼總裁 Sheau Chen 表示，不斷增長的 AI 運算需求將...
-- [原文連結](https://www.digitimes.com/news/a20260714PD222/shipments-laser-high-power-communications-growth.html)
+### ⚖️ 隨著OSAT合作夥伴加強擴張力度，台積電的CoWoS產能仍然“極度緊張”
+- **題材**: `半導體先進製程` | **重要性**: `73`
+- **來源**: Digitimes (2026-07-17T08:56:20Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 在 7 月 16 日的財報會議上，台積電 (TSMC) 對人工智慧需求前景表示樂觀。為因應英特爾 EMIB 先進封裝技術的競爭，董事長兼執行長 C.C.魏表示台積電CoWoS產能...
+- [原文連結](https://www.digitimes.com/news/a20260717PD220/tsmc-taiwan-capacity-cowos-earnings.html)
 
 ---
 
@@ -115,15 +106,6 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 分析師認為，營收前景的提高對記憶體晶片製造商來說是個好消息。
 - [原文連結](https://www.barchart.com/story/news/3389102/wedbush-believes-increased-guidance-from-asml-bodes-well-for-sk-hynix-how-to-play-skhy-stock-here)
-
----
-
-### ⚠️ 為什麼通用汽車的內存晶片指導有助於穩定美光和閃迪等股票
-- **題材**: `HBM記憶體` | **重要性**: `70`
-- **來源**: Yahoo Entertainment (2026-07-21T12:03:13Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Memory chip shortages continue to be a problem for most companies.
-- [原文連結](https://finance.yahoo.com/markets/stocks/article/why-gms-memory-chip-guidance-could-help-stabilize-stocks-like-micron-and-sandisk-120313927.html)
 
 ---
 
@@ -143,6 +125,15 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 《Money Today》和《財經新聞》引述瑞銀集團的預測稱，隨著 HBM4 出貨量的擴大，三星電子可能會在 2027 年超越 SK 海力士，成為全球高頻寬記憶體市場的領導者。
 - [原文連結](https://www.digitimes.com/news/a20260720PD215/samsung-2027-hbm4-market-sk-hynix.html)
+
+---
+
+### ⚖️ 高功率連續雷射將於 2026 年第 4 季開始出貨，WST 瞄準 AI 光學繁榮
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-07-17T07:08:21Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 受光通訊產品強勁出貨量的推動，台灣光通訊公司 WaveSplitter Technologies (WST) 2026 年第一季營收幾乎翻倍。董事長兼總裁 Sheau Chen 表示，不斷增長的 AI 運算需求將...
+- [原文連結](https://www.digitimes.com/news/a20260714PD222/shipments-laser-high-power-communications-growth.html)
 
 ---
 
@@ -179,6 +170,15 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Galaxy Watch 9 有一些升級，但與去年非常相似。而 Galaxy Watch Ultra 2 則進行了全面升級。有興趣今年購買三星智慧手錶嗎？讀一下這個。
 - [原文連結](https://www.androidcentral.com/wearables/samsung-galaxy-watch/samsung-galaxy-watch-ultra-2-vs-galaxy-watch-9)
+
+---
+
+### ⚠️ 任天堂表示，在提高 Switch 價格後，它不欠客戶任何東西
+- **題材**: `總體風險` | **重要性**: `65`
+- **來源**: Kotaku (2026-07-21T11:55:04Z)
+- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 這家日本公司已在美國提起集體訴訟，但被駁回
+- [原文連結](https://kotaku.com/nintendo-switch-2-price-class-action-lawsuit-trump-tariffs-2000717971)
 
 ---
 
