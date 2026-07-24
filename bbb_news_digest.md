@@ -1,14 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-23T20:05:19.544952+00:00
-
-### 🚀 台積電承諾向亞利桑那州再投資 1,000 億美元，建設至少四座 2nm 晶圓廠——繼創紀錄的季度盈利後，2026 年資本支出可能達到 640 億美元
-- **題材**: `半導體先進製程` | **重要性**: `82`
-- **來源**: Tom's Hardware UK (2026-07-16T12:10:51Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 台積電將在美國追加投資 1,000 億美元，在亞利桑那州再建至少四個晶片製造廠和先進封裝設施。
-- [原文連結](https://www.tomshardware.com/tech-industry/tsmc-commits-another-100-billion-to-arizona-for-at-least-four-more-2nm-fabs)
-
----
+> 更新時間：2026-07-24T00:01:14.519866+00:00
 
 ### 🚀 CPO 商業化為台灣 OSAT 開啟了新的 SiPh 封裝競賽
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -28,30 +19,21 @@
 
 ---
 
-### ⚖️ 三星、SK 海力士優先考慮 DDR5，因為利潤率接近 HBM 水平
-- **題材**: `HBM記憶體` | **重要性**: `78`
-- **來源**: Digitimes (2026-07-20T23:52:25Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 據報道，三星電子和 SK 海力士正在為伺服器 DDR5 和其他傳統記憶體產品分配額外或靈活的 DRAM 產能，同時維持已向客戶承諾的高頻寬記憶體 (HBM) 產量。
-- [原文連結](https://www.digitimes.com/news/a20260720VL213/samsung-hbm-sk-hynix-ddr5-dram.html)
-
----
-
-### ⚖️ 蔡司加速進軍AI晶片先進封裝，CPO
-- **題材**: `光通訊與矽光子` | **重要性**: `78`
-- **來源**: Digitimes (2026-07-20T23:48:21Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 隨著先進封裝和矽光子學在基於小晶片的架構、多晶片整合和高頻寬記憶體 (HBM) 的支持下崛起，蔡司正在進入新的 AI 晶片戰場。該公司表示正在擴展數十年的光刻技術…
-- [原文連結](https://www.digitimes.com/news/a20260720PD211/packaging-ai-chip-cpo-technology-equipment.html)
-
----
-
 ### ⚖️ 隨著OSAT合作夥伴加強擴張力度，台積電的CoWoS產能仍然“極度緊張”
 - **題材**: `半導體先進製程` | **重要性**: `78`
 - **來源**: Digitimes (2026-07-17T08:56:20Z)
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 在 7 月 16 日的財報會議上，台積電 (TSMC) 對人工智慧需求前景表示樂觀。為因應英特爾 EMIB 先進封裝技術的競爭，董事長兼執行長 C.C.魏表示台積電CoWoS產能...
 - [原文連結](https://www.digitimes.com/news/a20260717PD220/tsmc-taiwan-capacity-cowos-earnings.html)
+
+---
+
+### ⚖️ AMD 揭開了 Instinct MI455X AI 加速器的面紗——CDNA 5 和 Helios 機架級架構相結合，在資料中心與 Nvidia 競爭
+- **題材**: `AI伺服器` | **重要性**: `77`
+- **來源**: Tom's Hardware UK (2026-07-23T18:05:44Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: AMD在Advancing AI 2026活動上展示了MI455X加速器，展示了其強大的競爭性能、大HBM內存容量和Helios機架規模架構。
+- [原文連結](https://www.tomshardware.com/pc-components/gpus/amd-takes-the-wraps-off-its-instinct-mi455x-ai-accelerator-cdna-5-and-helios-rack-scale-architecture-combine-to-take-the-fight-to-nvidia-in-the-data-center)
 
 ---
 
@@ -73,12 +55,21 @@
 
 ---
 
-### ⚖️ 到 2027 年，三星可能在 HBM 市場超越 SK 海力士
+### ⚖️ 三星、SK 海力士優先考慮 DDR5，因為利潤率接近 HBM 水平
 - **題材**: `HBM記憶體` | **重要性**: `73`
-- **來源**: Digitimes (2026-07-20T23:48:46Z)
+- **來源**: Digitimes (2026-07-20T23:52:25Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 《Money Today》和《財經新聞》引述瑞銀集團的預測稱，隨著 HBM4 出貨量的擴大，三星電子可能會在 2027 年超越 SK 海力士，成為全球高頻寬記憶體市場的領導者。
-- [原文連結](https://www.digitimes.com/news/a20260720PD215/samsung-2027-hbm4-market-sk-hynix.html)
+- **摘要**: 據報道，三星電子和 SK 海力士正在為伺服器 DDR5 和其他傳統記憶體產品分配額外或靈活的 DRAM 產能，同時維持已向客戶承諾的高頻寬記憶體 (HBM) 產量。
+- [原文連結](https://www.digitimes.com/news/a20260720VL213/samsung-hbm-sk-hynix-ddr5-dram.html)
+
+---
+
+### ⚖️ 蔡司加速進軍AI晶片先進封裝，CPO
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-07-20T23:48:21Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 隨著先進封裝和矽光子學在基於小晶片的架構、多晶片整合和高頻寬記憶體 (HBM) 的支持下崛起，蔡司正在進入新的 AI 晶片戰場。該公司表示正在擴展數十年的光刻技術…
+- [原文連結](https://www.digitimes.com/news/a20260720PD211/packaging-ai-chip-cpo-technology-equipment.html)
 
 ---
 
@@ -109,21 +100,49 @@
 
 ---
 
-### 🚀 獨家：先進封裝超過前端成長，NPO 為商業 CPO 鋪平道路
-- **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-07-16T01:48:57Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 生成式人工智慧正在加速對運算能力、記憶體和資料頻寬的需求，將半導體創新從前端製程轉向先進封裝、矽光子學 (SiPh) 和共封裝光學 (CPO)。本傑明·海因 (Benjamin Hein)，電子公司執行長…
-- [原文連結](https://www.digitimes.com/news/a20260716PD219/cpo-genai-packaging-growth-commercial.html)
+### ⚠️ 為什麼通用汽車的內存晶片指導有助於穩定美光和閃迪等股票
+- **題材**: `HBM記憶體` | **重要性**: `70`
+- **來源**: Yahoo Entertainment (2026-07-21T12:03:13Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Memory chip shortages continue to be a problem for most companies.
+- [原文連結](https://finance.yahoo.com/markets/stocks/article/why-gms-memory-chip-guidance-could-help-stabilize-stocks-like-micron-and-sandisk-120313927.html)
 
 ---
 
-### ⚖️ Tower Semiconductor 斥資 30 億美元進行日本光子學擴張，重振關閉的松下時代晶圓廠 — 日本經濟產業省 (METI) 支持的計劃目標是到 2028 年收入達到 36 億美元
+### 🚀 隨著人工智慧集群的發展超過銅線，矽光子學投資激增
+- **題材**: `光通訊與矽光子` | **重要性**: `70`
+- **來源**: Crypto Briefing (2026-07-19T21:09:36Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 隨著人工智慧集群的發展超過銅線，重塑資料中心和加密基礎設施，Nvidia 已向矽光子公司投資超過 65 億美元。
+隨著人工智慧集群的發展超過銅線，矽光子學投資激增，這首先出現在 Cry 上…
+- [原文連結](https://cryptobriefing.com/silicon-photonics-investment-ai-clusters/)
+
+---
+
+### ⚖️ 到 2027 年，三星可能在 HBM 市場超越 SK 海力士
+- **題材**: `HBM記憶體` | **重要性**: `68`
+- **來源**: Digitimes (2026-07-20T23:48:46Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 《Money Today》和《財經新聞》引述瑞銀集團的預測稱，隨著 HBM4 出貨量的擴大，三星電子可能會在 2027 年超越 SK 海力士，成為全球高頻寬記憶體市場的領導者。
+- [原文連結](https://www.digitimes.com/news/a20260720PD215/samsung-2027-hbm4-market-sk-hynix.html)
+
+---
+
+### ⚖️ 英特爾將在英特爾 4 上共同開發和製造 Fortinet 的下一代防火牆 ASIC——節點獲得第一個指定外部客戶
 - **題材**: `半導體先進製程` | **重要性**: `67`
-- **來源**: Tom's Hardware UK (2026-07-16T15:39:09Z)
+- **來源**: Tom's Hardware UK (2026-07-21T13:00:00Z)
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Tower Semiconductor 宣佈在日本雙軌擴張其 300mm 矽光子、矽鍺和先進封裝業務
-- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/tower-semiconductor-revives-shuttered-panasonic-era-fab-in-3-billion-japan-photonics-expansion)
+- **摘要**: SP6將利用兩家公司所描述的英特爾在分類半導體設計和先進封裝方面的專業知識。
+- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/intel-to-co-develop-and-manufacture-fortinets-next-gen-firewall-asic)
+
+---
+
+### 🚀 AMD 押注人工智慧的下一個重大轉變，向英偉達發動攻擊
+- **題材**: `AI伺服器` | **重要性**: `65`
+- **來源**: Business Insider (2026-07-23T17:35:58Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: AMD 押注人工智慧的未來不會依賴單一晶片，並推出了 Cerebras 合作夥伴關係和新的 Helios 系統來挑戰 Nvidia。
+- [原文連結](https://www.businessinsider.com/amd-cerebras-partner-ai-inference-helios-system-2026-7#article)
 
 ---
 
@@ -160,24 +179,6 @@
 - **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 這家日本公司已在美國提起集體訴訟，但被駁回
 - [原文連結](https://kotaku.com/nintendo-switch-2-price-class-action-lawsuit-trump-tariffs-2000717971)
-
----
-
-### ⚠️ 在最高法院駁回他的第一批關稅後，川普轉向新的法律變通辦法，對巴西和可能的其他國家徵收 25% 的關稅
-- **題材**: `總體風險` | **重要性**: `65`
-- **來源**: Yahoo Entertainment (2026-07-17T21:28:52Z)
-- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 由於最高法院二月的裁決，川普的關稅計劃已經從產生數十億美元變成了迫使數十億美元退款。
-- [原文連結](https://finance.yahoo.com/economy/policy/articles/supreme-court-killed-first-tariffs-212852588.html)
-
----
-
-### ⚖️ 每週新聞綜述：AI 晶片競賽在矽光子、HBM、記憶體工廠和前沿模型領域不斷擴大
-- **題材**: `光通訊與矽光子` | **重要性**: `63`
-- **來源**: Digitimes (2026-07-20T03:55:12Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 隨著政府和供應商加強對整個堆疊的控制，人工智慧競爭正在從晶片擴大到連接、記憶體、人才、專利和模型存取。以下是 2026 年 7 月 13 日至 19 日這一週閱讀次數最多的 DIGITIMES 報告。
-- [原文連結](https://www.digitimes.com/news/a20260720VL214/photonics-silicon-hbm-competition-chips.html)
 
 ---
 
