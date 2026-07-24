@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-24T00:01:14.519866+00:00
+> 更新時間：2026-07-24T04:08:18.472580+00:00
 
 ### 🚀 CPO 商業化為台灣 OSAT 開啟了新的 SiPh 封裝競賽
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -28,15 +28,6 @@
 
 ---
 
-### ⚖️ AMD 揭開了 Instinct MI455X AI 加速器的面紗——CDNA 5 和 Helios 機架級架構相結合，在資料中心與 Nvidia 競爭
-- **題材**: `AI伺服器` | **重要性**: `77`
-- **來源**: Tom's Hardware UK (2026-07-23T18:05:44Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: AMD在Advancing AI 2026活動上展示了MI455X加速器，展示了其強大的競爭性能、大HBM內存容量和Helios機架規模架構。
-- [原文連結](https://www.tomshardware.com/pc-components/gpus/amd-takes-the-wraps-off-its-instinct-mi455x-ai-accelerator-cdna-5-and-helios-rack-scale-architecture-combine-to-take-the-fight-to-nvidia-in-the-data-center)
-
----
-
 ### 🚀 Super Micro Computer 2026 年第四季利潤率超出預期，股價飆升
 - **題材**: `AI伺服器` | **重要性**: `75`
 - **來源**: Quartz India (2026-07-22T12:08:20Z)
@@ -52,6 +43,24 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 當投資者追逐 GPU 製造商時，一家韓國晶片製造商已悄悄鎖定了人工智慧基礎設施中最關鍵的一個瓶頸，其最新版本...
 - [原文連結](https://247wallst.com/investing/2026/07/21/sk-hynixs-hbm-empire-powers-65-us-revenue-is-this-the-must-own-ai-stock/)
+
+---
+
+### ⚖️ WAIC 2026：Lightelligence 透過 CPO、NPO、光子運算描繪 AI 的光學未來
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-07-23T02:44:50Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Lightelligence 將光互連、光交換和光運算定位為人工智慧基礎設施的下一個基礎，並認為該行業最大的挑戰已從更快的晶片轉移到在不斷增加的數據中有效地移動數據...
+- [原文連結](https://www.digitimes.com/news/a20260722VL207/cpo-waic-2026-chips-infrastructure.html)
+
+---
+
+### ⚖️ 雷射源外包推遲了 CPO 的推出
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-07-23T00:01:21Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 儘管由人工智慧資料中心驅動的高速傳輸需求，共同封裝光學元件 (CPO) 的商業化時程並未如預期加快，但業內人士表示，隨著電訊號的發展，CPO 仍然是一個關鍵的長期技術趨勢。
+- [原文連結](https://www.digitimes.com/news/a20260722PD230/cpo-laser-data-demand-transmission.html)
 
 ---
 
@@ -137,12 +146,12 @@
 
 ---
 
-### 🚀 AMD 押注人工智慧的下一個重大轉變，向英偉達發動攻擊
+### ⚖️ OpenAI 將計劃到 2030 年的運算支出提高到 7,500 億美元：《華爾街日報》
 - **題材**: `AI伺服器` | **重要性**: `65`
-- **來源**: Business Insider (2026-07-23T17:35:58Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: AMD 押注人工智慧的未來不會依賴單一晶片，並推出了 Cerebras 合作夥伴關係和新的 Helios 系統來挑戰 Nvidia。
-- [原文連結](https://www.businessinsider.com/amd-cerebras-partner-ai-inference-helios-system-2026-7#article)
+- **來源**: Blockspace.media (2026-07-22T14:49:17Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 修訂後的預測比 OpenAI 2 月的目標高出 1500 億美元，反映了其訓練和營運過程中雲端容量和硬體需求的擴大…
+- [原文連結](https://blockspace.media/insight/openai-increases-compute-spending-750-billion-2030/)
 
 ---
 
@@ -170,15 +179,6 @@
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: CoreWeave 在 Vera Rubin NVL72 和 Grace Blackwell NVL72 系統上運行了相同的 DeepSeek-R1 基準測試，發現一個關鍵區域實現了 10 倍的改進。在 TweakTown 繼續閱讀
 - [原文連結](https://www.tweaktown.com/news/112758/first-nvidia-vera-rubin-nvl72-benchmarks-show-10x-improvement-over-grace-blackwell/index.html)
-
----
-
-### ⚠️ 任天堂表示，在提高 Switch 價格後，它不欠客戶任何東西
-- **題材**: `總體風險` | **重要性**: `65`
-- **來源**: Kotaku (2026-07-21T11:55:04Z)
-- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 這家日本公司已在美國提起集體訴訟，但被駁回
-- [原文連結](https://kotaku.com/nintendo-switch-2-price-class-action-lawsuit-trump-tariffs-2000717971)
 
 ---
 
