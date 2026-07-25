@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-25T10:26:29.389473+00:00
+> 更新時間：2026-07-25T14:24:25.275850+00:00
 
 ### 🚀 AI 炒作為英特爾帶來 15 年來最快的營收成長
 - **題材**: `HBM記憶體` | **重要性**: `75`
@@ -16,24 +16,6 @@
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Super Micro Computer 的營收成長了三位數，而其股價卻比一年前低了 54%，而脫節點背後的原因是…
 - [原文連結](https://247wallst.com/investing/2026/07/22/price-prediction-smci-will-double-on-this-date/)
-
----
-
-### 🚀 Super Micro Computer 2026 年第四季利潤率超出預期，股價飆升
-- **題材**: `AI伺服器` | **重要性**: `75`
-- **來源**: Quartz India (2026-07-22T12:08:20Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 這家人工智慧伺服器製造商目前預計截至 6 月 30 日的季度毛利率為 15% 至 17%，而先前的指導值為 8.2% 至 8.4%
-- [原文連結](https://qz.com/super-micro-computer-stock-margins-guidance-orders-072226)
-
----
-
-### ⚖️ WAIC 2026：Lightelligence 透過 CPO、NPO、光子運算描繪 AI 的光學未來
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-07-23T02:44:50Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Lightelligence 將光互連、光交換和光運算定位為人工智慧基礎設施的下一個基礎，並認為該行業最大的挑戰已從更快的晶片轉移到在不斷增加的數據中有效地移動數據...
-- [原文連結](https://www.digitimes.com/news/a20260722VL207/cpo-waic-2026-chips-infrastructure.html)
 
 ---
 
@@ -128,6 +110,15 @@
 
 ---
 
+### ⚖️ SK 海力士億萬富翁被判支付 6.45 億美元離婚和解金——韓國有史以來金額最大的離婚賠償金
+- **題材**: `HBM記憶體` | **重要性**: `65`
+- **來源**: Forbes (2026-07-24T10:40:56Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 法院裁定，SK集團會長崔泰源對其持有的部分SK股份擁有正當權利。
+- [原文連結](https://www.forbes.com/sites/siladityaray/2026/07/24/sk-hynix-billionaire-ordered-to-pay-645-million-divorce-settlement-koreas-largest-ever/)
+
+---
+
 ### ⚠️ RAMpocalypse 開始衝擊汽車產業
 - **題材**: `HBM記憶體` | **重要性**: `65`
 - **來源**: Gizmodo.com (2026-07-23T19:55:29Z)
@@ -173,12 +164,21 @@
 
 ---
 
-### 🚀 三星 Galaxy Watch Ultra 2 與 Galaxy Watch Ultra 2025：這是您想要的升級
-- **題材**: `半導體先進製程` | **重要性**: `65`
-- **來源**: Android Central (2026-07-22T13:33:22Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Galaxy Watch Ultra 2 終於提供了我們一直在等待的升級。這款智慧手錶擁有更薄的設計和新的方形錶殼、更大的 800mAh 電池、更好的耐用性以及出色的全新高通晶片。
-- [原文連結](https://www.androidcentral.com/wearables/samsung-galaxy-watch/samsung-galaxy-watch-ultra-2-vs-galaxy-watch-ultra-2025)
+### 🚀 Wedbush 相信 ASML 增加指導對 SK 海力士來說是個好兆頭。如何在這裡玩 SKHY 股票。
+- **題材**: `HBM記憶體` | **重要性**: `65`
+- **來源**: Barchart.com (2026-07-21T18:23:46Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 分析師認為，營收前景的提高對記憶體晶片製造商來說是個好消息。
+- [原文連結](https://www.barchart.com/story/news/3389102/wedbush-believes-increased-guidance-from-asml-bodes-well-for-sk-hynix-how-to-play-skhy-stock-here)
+
+---
+
+### ⚠️ 為什麼通用汽車的內存晶片指導有助於穩定美光和閃迪等股票
+- **題材**: `HBM記憶體` | **重要性**: `65`
+- **來源**: Yahoo Entertainment (2026-07-21T12:03:13Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 儲存晶片短缺仍然是大多數公司面臨的問題。
+- [原文連結](https://finance.yahoo.com/markets/stocks/article/why-gms-memory-chip-guidance-could-help-stabilize-stocks-like-micron-and-sandisk-120313927.html)
 
 ---
 
