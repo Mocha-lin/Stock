@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-24T20:07:46.078490+00:00
+> 更新時間：2026-07-25T00:03:33.472705+00:00
 
 ### 🚀 CPO 商業化為台灣 OSAT 開啟了新的 SiPh 封裝競賽
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -25,6 +25,24 @@
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Super Micro Computer 的營收成長了三位數，而其股價卻比一年前低了 54%，而脫節點背後的原因是…
 - [原文連結](https://247wallst.com/investing/2026/07/22/price-prediction-smci-will-double-on-this-date/)
+
+---
+
+### 🚀 Super Micro Computer 2026 年第四季利潤率超出預期，股價飆升
+- **題材**: `AI伺服器` | **重要性**: `75`
+- **來源**: Quartz India (2026-07-22T12:08:20Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 這家人工智慧伺服器製造商目前預計截至 6 月 30 日的季度毛利率為 15% 至 17%，而先前的指導值為 8.2% 至 8.4%
+- [原文連結](https://qz.com/super-micro-computer-stock-margins-guidance-orders-072226)
+
+---
+
+### ⚖️ WAIC 2026：Lightelligence 透過 CPO、NPO、光子運算描繪 AI 的光學未來
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-07-23T02:44:50Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Lightelligence 將光互連、光交換和光運算定位為人工智慧基礎設施的下一個基礎，並認為該行業最大的挑戰已從更快的晶片轉移到在不斷增加的數據中有效地移動數據...
+- [原文連結](https://www.digitimes.com/news/a20260722VL207/cpo-waic-2026-chips-infrastructure.html)
 
 ---
 
@@ -64,15 +82,6 @@
 
 ---
 
-### ⚖️ 隨著OSAT合作夥伴加強擴張力度，台積電的CoWoS產能仍然“極度緊張”
-- **題材**: `半導體先進製程` | **重要性**: `73`
-- **來源**: Digitimes (2026-07-17T08:56:20Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 在 7 月 16 日的財報會議上，台積電 (TSMC) 對人工智慧需求前景表示樂觀。為因應英特爾 EMIB 先進封裝技術的競爭，董事長兼執行長 C.C.魏表示台積電CoWoS產能...
-- [原文連結](https://www.digitimes.com/news/a20260717PD220/tsmc-taiwan-capacity-cowos-earnings.html)
-
----
-
 ### ⚖️ AMD 揭開了 Instinct MI455X AI 加速器的面紗——CDNA 5 和 Helios 機架級架構相結合，在資料中心與 Nvidia 競爭
 - **題材**: `AI伺服器` | **重要性**: `72`
 - **來源**: Tom's Hardware UK (2026-07-23T18:05:44Z)
@@ -91,21 +100,22 @@
 
 ---
 
+### 🚀 隨著人工智慧集群的發展超過銅線，矽光子學投資激增
+- **題材**: `光通訊與矽光子` | **重要性**: `70`
+- **來源**: Crypto Briefing (2026-07-19T21:09:36Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 隨著人工智慧集群的發展超過銅線，重塑資料中心和加密基礎設施，Nvidia 已向矽光子公司投資超過 65 億美元。
+隨著人工智慧集群的發展超過銅線，矽光子學投資激增，這首先出現在 Cry 上…
+- [原文連結](https://cryptobriefing.com/silicon-photonics-investment-ai-clusters/)
+
+---
+
 ### ⚖️ 到 2027 年，三星可能在 HBM 市場超越 SK 海力士
 - **題材**: `HBM記憶體` | **重要性**: `68`
 - **來源**: Digitimes (2026-07-20T23:48:46Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 《Money Today》和《財經新聞》引述瑞銀集團的預測稱，隨著 HBM4 出貨量的擴大，三星電子可能會在 2027 年超越 SK 海力士，成為全球高頻寬記憶體市場的領導者。
 - [原文連結](https://www.digitimes.com/news/a20260720PD215/samsung-2027-hbm4-market-sk-hynix.html)
-
----
-
-### ⚖️ 高功率連續雷射將於 2026 年第 4 季開始出貨，WST 瞄準 AI 光學繁榮
-- **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-07-17T07:08:21Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 受光通訊產品強勁出貨量的推動，台灣光通訊公司 WaveSplitter Technologies (WST) 2026 年第一季營收幾乎翻倍。董事長兼總裁 Sheau Chen 表示，不斷增長的 AI 運算需求將...
-- [原文連結](https://www.digitimes.com/news/a20260714PD222/shipments-laser-high-power-communications-growth.html)
 
 ---
 
@@ -136,6 +146,15 @@
 
 ---
 
+### ⚖️ 台積電股票：人工智慧泡沫擔憂加劇，仍押注 640 億美元
+- **題材**: `半導體先進製程` | **重要性**: `65`
+- **來源**: Barchart.com (2026-07-22T18:05:25Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 如果台積電相信人工智慧存在泡沫，它就不會花費 640 億美元。
+- [原文連結](https://www.barchart.com/story/news/3410056/tsmc-stock-a-64-billion-bet-even-as-ai-bubble-fears-grow)
+
+---
+
 ### ⚖️ OpenAI 將計劃到 2030 年的運算支出提高到 7,500 億美元：《華爾街日報》
 - **題材**: `AI伺服器` | **重要性**: `65`
 - **來源**: Blockspace.media (2026-07-22T14:49:17Z)
@@ -160,24 +179,6 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Galaxy Watch 9 有一些升級，但與去年非常相似。而 Galaxy Watch Ultra 2 則進行了全面升級。有興趣今年購買三星智慧手錶嗎？讀一下這個。
 - [原文連結](https://www.androidcentral.com/wearables/samsung-galaxy-watch/samsung-galaxy-watch-ultra-2-vs-galaxy-watch-9)
-
----
-
-### 🚀 Wedbush 相信 ASML 增加指導對 SK 海力士來說是個好兆頭。如何在這裡玩 SKHY 股票。
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: Barchart.com (2026-07-21T18:23:46Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 分析師認為，營收前景的提高對記憶體晶片製造商來說是個好消息。
-- [原文連結](https://www.barchart.com/story/news/3389102/wedbush-believes-increased-guidance-from-asml-bodes-well-for-sk-hynix-how-to-play-skhy-stock-here)
-
----
-
-### ⚠️ 在最高法院駁回他的第一批關稅後，川普轉向新的法律變通辦法，對巴西和可能的其他國家徵收 25% 的關稅
-- **題材**: `總體風險` | **重要性**: `65`
-- **來源**: Yahoo Entertainment (2026-07-17T21:28:52Z)
-- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 由於最高法院二月的裁決，川普的關稅計劃已經從產生數十億美元變成了迫使數十億美元退款。
-- [原文連結](https://finance.yahoo.com/economy/policy/articles/supreme-court-killed-first-tariffs-212852588.html)
 
 ---
 
