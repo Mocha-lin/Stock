@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-25T15:53:32.332871+00:00
+> 更新時間：2026-07-25T17:45:47.808011+00:00
 
 ### 🚀 AI 炒作為英特爾帶來 15 年來最快的營收成長
 - **題材**: `HBM記憶體` | **重要性**: `75`
@@ -7,15 +7,6 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 感謝人工智慧（可能還有川普），英特爾起死回生。
 - [原文連結](https://gizmodo.com/ai-hype-delivers-intel-its-fastest-revenue-growth-in-15-years-2000790071)
-
----
-
-### 🚀 價格預測：SMCI 在此日期將翻倍
-- **題材**: `AI伺服器` | **重要性**: `75`
-- **來源**: 24/7 Wall St. (2026-07-22T17:00:57Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Super Micro Computer 的營收成長了三位數，而其股價卻比一年前低了 54%，而脫節點背後的原因是…
-- [原文連結](https://247wallst.com/investing/2026/07/22/price-prediction-smci-will-double-on-this-date/)
 
 ---
 
@@ -79,6 +70,15 @@
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: AMD在Advancing AI 2026活動上展示了MI455X加速器，展示了其強大的競爭性能、大HBM內存容量和Helios機架規模架構。
 - [原文連結](https://www.tomshardware.com/pc-components/gpus/amd-takes-the-wraps-off-its-instinct-mi455x-ai-accelerator-cdna-5-and-helios-rack-scale-architecture-combine-to-take-the-fight-to-nvidia-in-the-data-center)
+
+---
+
+### 🚀 價格預測：SMCI 在此日期將翻倍
+- **題材**: `AI伺服器` | **重要性**: `70`
+- **來源**: 24/7 Wall St. (2026-07-22T17:00:57Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Super Micro Computer 的營收成長了三位數，而其股價卻比一年前低了 54%，而脫節點背後的原因是…
+- [原文連結](https://247wallst.com/investing/2026/07/22/price-prediction-smci-will-double-on-this-date/)
 
 ---
 
