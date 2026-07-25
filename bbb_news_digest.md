@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-25T00:03:33.472705+00:00
+> 更新時間：2026-07-25T03:56:59.010260+00:00
 
 ### 🚀 CPO 商業化為台灣 OSAT 開啟了新的 SiPh 封裝競賽
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -10,12 +10,12 @@
 
 ---
 
-### 🚀 Nvidia 詳細介紹了 Vera Rubin NVL72 和客製化 Vera CPU 的 AI 機架策略
-- **題材**: `AI伺服器` | **重要性**: `78`
-- **來源**: Digitimes (2026-07-22T02:33:53Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Nvidia 新推出的 Vera Rubin NVL72 的定位不是更快的晶片，而是更便宜的 AI 輸出單位。對於目前界定產業成長上限的電力受限資料中心來說，這種轉變最為重要。在 7 月 21 日的公告中…
-- [原文連結](https://www.digitimes.com/news/a20260722VL206/nvidia-rubin-cpu.html)
+### 🚀 AI 炒作為英特爾帶來 15 年來最快的營收成長
+- **題材**: `HBM記憶體` | **重要性**: `75`
+- **來源**: Gizmodo.com (2026-07-24T00:35:18Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 感謝人工智慧（可能還有川普），英特爾起死回生。
+- [原文連結](https://gizmodo.com/ai-hype-delivers-intel-its-fastest-revenue-growth-in-15-years-2000790071)
 
 ---
 
@@ -52,6 +52,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 儘管由人工智慧資料中心驅動的高速傳輸需求，共同封裝光學元件 (CPO) 的商業化時程並未如預期加快，但業內人士表示，隨著電訊號的發展，CPO 仍然是一個關鍵的長期技術趨勢。
 - [原文連結](https://www.digitimes.com/news/a20260722PD230/cpo-laser-data-demand-transmission.html)
+
+---
+
+### 🚀 Nvidia 詳細介紹了 Vera Rubin NVL72 和客製化 Vera CPU 的 AI 機架策略
+- **題材**: `AI伺服器` | **重要性**: `73`
+- **來源**: Digitimes (2026-07-22T02:33:53Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Nvidia 新推出的 Vera Rubin NVL72 的定位不是更快的晶片，而是更便宜的 AI 輸出單位。對於目前界定產業成長上限的電力受限資料中心來說，這種轉變最為重要。在 7 月 21 日的公告中…
+- [原文連結](https://www.digitimes.com/news/a20260722VL206/nvidia-rubin-cpu.html)
 
 ---
 
@@ -170,15 +179,6 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Galaxy Watch Ultra 2 終於提供了我們一直在等待的升級。這款智慧手錶擁有更薄的設計和新的方形錶殼、更大的 800mAh 電池、更好的耐用性以及出色的全新高通晶片。
 - [原文連結](https://www.androidcentral.com/wearables/samsung-galaxy-watch/samsung-galaxy-watch-ultra-2-vs-galaxy-watch-ultra-2025)
-
----
-
-### 🚀 三星 Galaxy Watch Ultra 2 與 Galaxy Watch 9：這是一個簡單的選擇
-- **題材**: `半導體先進製程` | **重要性**: `65`
-- **來源**: Android Central (2026-07-22T13:01:42Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Galaxy Watch 9 有一些升級，但與去年非常相似。而 Galaxy Watch Ultra 2 則進行了全面升級。有興趣今年購買三星智慧手錶嗎？讀一下這個。
-- [原文連結](https://www.androidcentral.com/wearables/samsung-galaxy-watch/samsung-galaxy-watch-ultra-2-vs-galaxy-watch-9)
 
 ---
 

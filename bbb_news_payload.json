@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-07-25T00:03:33.472705+00:00",
+  "generated_at": "2026-07-25T03:56:59.010260+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 75,
@@ -44,32 +44,29 @@
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
-      "id": "e3d73d45d7b485ea",
+      "id": "0f2f06d029a141d3",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Nvidia 詳細介紹了 Vera Rubin NVL72 和客製化 Vera CPU 的 AI 機架策略",
-      "summary": "Nvidia 新推出的 Vera Rubin NVL72 的定位不是更快的晶片，而是更便宜的 AI 輸出單位。對於目前界定產業成長上限的電力受限資料中心來說，這種轉變最為重要。在 7 月 21 日的公告中…",
-      "original_title": "Nvidia details AI rack strategy with Vera Rubin NVL72 and custom Vera CPU",
-      "url": "https://www.digitimes.com/news/a20260722VL206/nvidia-rubin-cpu.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-07-22T02:33:53Z",
-      "importance": 78,
+      "theme": "HBM記憶體",
+      "title": "AI 炒作為英特爾帶來 15 年來最快的營收成長",
+      "summary": "感謝人工智慧（可能還有川普），英特爾起死回生。",
+      "original_title": "AI Hype Delivers Intel Its Fastest Revenue Growth in 15 Years",
+      "url": "https://gizmodo.com/ai-hype-delivers-intel-its-fastest-revenue-growth-in-15-years-2000790071",
+      "source": "Gizmodo.com",
+      "domain": "gizmodo.com",
+      "published_at": "2026-07-24T00:35:18Z",
+      "importance": 75,
       "impact": "positive",
       "timeframe": "short_to_mid_term",
       "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
+        "HBM",
+        "記憶體"
       ],
       "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
       ],
       "related_models": [
         "003",
@@ -79,7 +76,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+      "reason": "屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "874a478916d4016f",
@@ -232,6 +229,44 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
+      "id": "e3d73d45d7b485ea",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Nvidia 詳細介紹了 Vera Rubin NVL72 和客製化 Vera CPU 的 AI 機架策略",
+      "summary": "Nvidia 新推出的 Vera Rubin NVL72 的定位不是更快的晶片，而是更便宜的 AI 輸出單位。對於目前界定產業成長上限的電力受限資料中心來說，這種轉變最為重要。在 7 月 21 日的公告中…",
+      "original_title": "Nvidia details AI rack strategy with Vera Rubin NVL72 and custom Vera CPU",
+      "url": "https://www.digitimes.com/news/a20260722VL206/nvidia-rubin-cpu.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-07-22T02:33:53Z",
+      "importance": 73,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "6707da3ef8a6350a",
@@ -2400,41 +2435,6 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "5702d0306c463030",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "Claude AI 表示 Michael Burry 的美光 (MU) 警告“值得尊重”",
-      "summary": "邁克爾·伯里 (Michael Burry) 最近做空了美光科技 (NASDAQ:MU)，並稱其為“獨一無二的周期性”。他的論點是：該股的漲勢達到了歷史最高水準...",
-      "original_title": "Claude AI Says Michael Burry’s Micron (MU) Warning “Deserves Respect”",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/claude-ai-says-michael-burry-222230187.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-07-20T22:22:30Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "7b22c3f98fdbd564",
