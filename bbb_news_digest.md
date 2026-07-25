@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-25T17:45:47.808011+00:00
+> 更新時間：2026-07-25T20:02:51.915058+00:00
 
 ### 🚀 AI 炒作為英特爾帶來 15 年來最快的營收成長
 - **題材**: `HBM記憶體` | **重要性**: `75`
@@ -146,15 +146,6 @@
 
 ---
 
-### ⚖️ 台積電股票：人工智慧泡沫擔憂加劇，仍押注 640 億美元
-- **題材**: `半導體先進製程` | **重要性**: `65`
-- **來源**: Barchart.com (2026-07-22T18:05:25Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 如果台積電相信人工智慧存在泡沫，它就不會花費 640 億美元。
-- [原文連結](https://www.barchart.com/story/news/3410056/tsmc-stock-a-64-billion-bet-even-as-ai-bubble-fears-grow)
-
----
-
 ### 🚀 Wedbush 相信 ASML 增加指導對 SK 海力士來說是個好兆頭。如何在這裡玩 SKHY 股票。
 - **題材**: `HBM記憶體` | **重要性**: `65`
 - **來源**: Barchart.com (2026-07-21T18:23:46Z)
@@ -179,6 +170,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 隨著政府和供應商加強對整個堆疊的控制，人工智慧競爭正在從晶片擴大到連接、記憶體、人才、專利和模型存取。以下是 2026 年 7 月 13 日至 19 日這一週閱讀次數最多的 DIGITIMES 報告。
 - [原文連結](https://www.digitimes.com/news/a20260720VL214/photonics-silicon-hbm-competition-chips.html)
+
+---
+
+### ⚖️ 新的半導體公司破土而出，獲得了 4300 萬美元的早期融資——TYLsemi 的目標是在不花太多錢的情況下向客戶提供客製化晶片
+- **題材**: `半導體先進製程` | **重要性**: `62`
+- **來源**: Tom's Hardware UK (2026-07-23T17:34:06Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: TYLsemi 將提供預先驗證的小晶片以及客製化 ASIC 設計服務，並以相對較低的成本建造高度客製化的多區塊處理器。
+- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/new-semiconductor-firm-breaks-cover-backed-by-usd43-million-in-early-stage-funding-tylsemi-aims-to-deliver-custom-silicon-to-customers-without-breaking-the-bank)
 
 ---
 
