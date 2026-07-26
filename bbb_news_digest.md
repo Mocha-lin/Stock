@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-26T15:51:53.046330+00:00
+> 更新時間：2026-07-26T17:50:36.029743+00:00
 
 ### 🚀 AI 炒作為英特爾帶來 15 年來最快的營收成長
 - **題材**: `HBM記憶體` | **重要性**: `75`
@@ -164,21 +164,21 @@
 
 ---
 
-### ⚖️ 新的半導體公司破土而出，獲得了 4300 萬美元的早期融資——TYLsemi 的目標是在不花太多錢的情況下向客戶提供客製化晶片
-- **題材**: `半導體先進製程` | **重要性**: `62`
-- **來源**: Tom's Hardware UK (2026-07-23T17:34:06Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: TYLsemi 將提供預先驗證的小晶片以及客製化 ASIC 設計服務，並以相對較低的成本建造高度客製化的多區塊處理器。
-- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/new-semiconductor-firm-breaks-cover-backed-by-usd43-million-in-early-stage-funding-tylsemi-aims-to-deliver-custom-silicon-to-customers-without-breaking-the-bank)
-
----
-
 ### ⚖️ 英特爾將在英特爾 4 上共同開發和製造 Fortinet 的下一代防火牆 ASIC——節點獲得第一個指定外部客戶
 - **題材**: `半導體先進製程` | **重要性**: `62`
 - **來源**: Tom's Hardware UK (2026-07-21T13:00:00Z)
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: SP6將利用兩家公司所描述的英特爾在分類半導體設計和先進封裝方面的專業知識。
 - [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/intel-to-co-develop-and-manufacture-fortinets-next-gen-firewall-asic)
+
+---
+
+### ⚠️ 川普對關稅一意孤行。這裡有 5 個意義
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: NPR (2026-07-25T09:00:00Z)
+- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 川普決心為其關稅尋找新的法律理由，這可能會延長美國和全球經濟面臨的不確定性。
+- [原文連結](https://www.npr.org/2026/07/25/nx-s1-5905692/trump-tariffs-economy-inflation)
 
 ---
 
