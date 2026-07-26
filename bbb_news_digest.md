@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-26T20:01:50.932899+00:00
+> 更新時間：2026-07-26T23:58:41.453236+00:00
 
 ### 🚀 AI 炒作為英特爾帶來 15 年來最快的營收成長
 - **題材**: `HBM記憶體` | **重要性**: `75`
@@ -73,16 +73,6 @@
 
 ---
 
-### 🚀 隨著人工智慧集群的發展超過銅線，矽光子學投資激增
-- **題材**: `光通訊與矽光子` | **重要性**: `70`
-- **來源**: Crypto Briefing (2026-07-19T21:09:36Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 隨著人工智慧集群的發展超過銅線，重塑資料中心和加密基礎設施，Nvidia 已向矽光子公司投資超過 65 億美元。
-隨著人工智慧集群的發展超過銅線，矽光子學投資激增，這首先出現在 Cry 上…
-- [原文連結](https://cryptobriefing.com/silicon-photonics-investment-ai-clusters/)
-
----
-
 ### ⚖️ 雷射源外包推遲了 CPO 的推出
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
 - **來源**: Digitimes (2026-07-23T00:01:21Z)
@@ -137,12 +127,13 @@
 
 ---
 
-### ⚠️ 為什麼通用汽車的內存晶片指導有助於穩定美光和閃迪等股票
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: Yahoo Entertainment (2026-07-21T12:03:13Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 儲存晶片短缺仍然是大多數公司面臨的問題。
-- [原文連結](https://finance.yahoo.com/markets/stocks/article/why-gms-memory-chip-guidance-could-help-stabilize-stocks-like-micron-and-sandisk-120313927.html)
+### 🚀 隨著人工智慧集群的發展超過銅線，矽光子學投資激增
+- **題材**: `光通訊與矽光子` | **重要性**: `65`
+- **來源**: Crypto Briefing (2026-07-19T21:09:36Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 隨著人工智慧集群的發展超過銅線，重塑資料中心和加密基礎設施，Nvidia 已向矽光子公司投資超過 65 億美元。
+隨著人工智慧集群的發展超過銅線，矽光子學投資激增，這首先出現在 Cry 上…
+- [原文連結](https://cryptobriefing.com/silicon-photonics-investment-ai-clusters/)
 
 ---
 
@@ -161,6 +152,15 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: SP6將利用兩家公司所描述的英特爾在分類半導體設計和先進封裝方面的專業知識。
 - [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/intel-to-co-develop-and-manufacture-fortinets-next-gen-firewall-asic)
+
+---
+
+### ⚖️ 華為正在建造自己的 DRAM 工廠，它可能會重塑 RAM 價格
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: XDA Developers (2026-07-25T23:00:10Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 市場對此求之不得，已經一年了
+- [原文連結](https://www.xda-developers.com/huawei-is-building-its-own-dram-fab-and-it-could-reshape-ram-prices-for-everyone/)
 
 ---
 
