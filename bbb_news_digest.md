@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-26T17:50:36.029743+00:00
+> 更新時間：2026-07-26T20:01:50.932899+00:00
 
 ### 🚀 AI 炒作為英特爾帶來 15 年來最快的營收成長
 - **題材**: `HBM記憶體` | **重要性**: `75`
@@ -55,15 +55,6 @@
 
 ---
 
-### ⚖️ AMD 揭開了 Instinct MI455X AI 加速器的面紗——CDNA 5 和 Helios 機架級架構相結合，在資料中心與 Nvidia 競爭
-- **題材**: `AI伺服器` | **重要性**: `72`
-- **來源**: Tom's Hardware UK (2026-07-23T18:05:44Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: AMD在Advancing AI 2026活動上展示了MI455X加速器，展示了其強大的競爭性能、大HBM內存容量和Helios機架規模架構。
-- [原文連結](https://www.tomshardware.com/pc-components/gpus/amd-takes-the-wraps-off-its-instinct-mi455x-ai-accelerator-cdna-5-and-helios-rack-scale-architecture-combine-to-take-the-fight-to-nvidia-in-the-data-center)
-
----
-
 ### 🚀 價格預測：SMCI 在此日期將翻倍
 - **題材**: `AI伺服器` | **重要性**: `70`
 - **來源**: 24/7 Wall St. (2026-07-22T17:00:57Z)
@@ -110,6 +101,15 @@
 
 ---
 
+### ⚖️ AMD 揭開了 Instinct MI455X AI 加速器的面紗——CDNA 5 和 Helios 機架級架構相結合，在資料中心與 Nvidia 競爭
+- **題材**: `AI伺服器` | **重要性**: `67`
+- **來源**: Tom's Hardware UK (2026-07-23T18:05:44Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: AMD在Advancing AI 2026活動上展示了MI455X加速器，展示了其強大的競爭性能、大HBM內存容量和Helios機架規模架構。
+- [原文連結](https://www.tomshardware.com/pc-components/gpus/amd-takes-the-wraps-off-its-instinct-mi455x-ai-accelerator-cdna-5-and-helios-rack-scale-architecture-combine-to-take-the-fight-to-nvidia-in-the-data-center)
+
+---
+
 ### 🚀 三星獲2000億美元為博通製造晶片
 - **題材**: `半導體先進製程` | **重要性**: `65`
 - **來源**: SamMobile (2026-07-25T13:39:38Z)
@@ -125,15 +125,6 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 法院裁定，SK集團會長崔泰源對其持有的部分SK股份擁有正當權利。
 - [原文連結](https://www.forbes.com/sites/siladityaray/2026/07/24/sk-hynix-billionaire-ordered-to-pay-645-million-divorce-settlement-koreas-largest-ever/)
-
----
-
-### ⚠️ RAMpocalypse 開始衝擊汽車產業
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: Gizmodo.com (2026-07-23T19:55:29Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 通用汽車警告稱，持續的記憶體短缺可能會給公司帶來數十億美元的損失。
-- [原文連結](https://gizmodo.com/the-rampocalypse-is-starting-to-hit-the-auto-industry-2000789990)
 
 ---
 
@@ -179,6 +170,15 @@
 - **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 川普決心為其關稅尋找新的法律理由，這可能會延長美國和全球經濟面臨的不確定性。
 - [原文連結](https://www.npr.org/2026/07/25/nx-s1-5905692/trump-tariffs-economy-inflation)
+
+---
+
+### 🚀 MaxLinear (MXL) 預計將受益於人工智慧收發器
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-07-24T14:03:15Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 全球股票管理公司 ClearBridge Investments 最近發布了其「小型股成長策略」的 2026 年第二季評論。 A copy of the letter...
+- [原文連結](https://finance.yahoo.com/markets/stocks/articles/maxlinear-mxl-poised-benefit-ai-140315573.html)
 
 ---
 
