@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-26T14:21:06.501157+00:00
+> 更新時間：2026-07-26T15:51:53.046330+00:00
 
 ### 🚀 AI 炒作為英特爾帶來 15 年來最快的營收成長
 - **題材**: `HBM記憶體` | **重要性**: `75`
@@ -137,15 +137,6 @@
 
 ---
 
-### ⚖️ Credo 或 Marvell：誰引領 AI 連結競賽？
-- **題材**: `光通訊與矽光子` | **重要性**: `65`
-- **來源**: 24/7 Wall St. (2026-07-23T14:30:56Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 兩家半導體巨頭正在以截然不同的策略追逐相同的超大規模美元，只有一家能夠在最佳選擇時維持其利潤優勢。
-- [原文連結](https://247wallst.com/investing/2026/07/23/credo-or-marvell-who-leads-the-ai-connectivity-race/)
-
----
-
 ### 🚀 Wedbush 相信 ASML 增加指導對 SK 海力士來說是個好兆頭。如何在這裡玩 SKHY 股票。
 - **題材**: `HBM記憶體` | **重要性**: `65`
 - **來源**: Barchart.com (2026-07-21T18:23:46Z)
@@ -179,6 +170,15 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: TYLsemi 將提供預先驗證的小晶片以及客製化 ASIC 設計服務，並以相對較低的成本建造高度客製化的多區塊處理器。
 - [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/new-semiconductor-firm-breaks-cover-backed-by-usd43-million-in-early-stage-funding-tylsemi-aims-to-deliver-custom-silicon-to-customers-without-breaking-the-bank)
+
+---
+
+### ⚖️ 英特爾將在英特爾 4 上共同開發和製造 Fortinet 的下一代防火牆 ASIC——節點獲得第一個指定外部客戶
+- **題材**: `半導體先進製程` | **重要性**: `62`
+- **來源**: Tom's Hardware UK (2026-07-21T13:00:00Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: SP6將利用兩家公司所描述的英特爾在分類半導體設計和先進封裝方面的專業知識。
+- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/intel-to-co-develop-and-manufacture-fortinets-next-gen-firewall-asic)
 
 ---
 
