@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-27T08:21:58.162125+00:00
+> 更新時間：2026-07-27T12:23:00.879450+00:00
 
 ### 🚀 CPO 商業化為台灣 OSAT 開啟了新的 SiPh 封裝競賽
 - **題材**: `光通訊與矽光子` | **重要性**: `73`
@@ -118,15 +118,6 @@
 
 ---
 
-### ⚖️ SK 海力士億萬富翁被判支付 6.45 億美元離婚和解金——韓國有史以來金額最大的離婚賠償金
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: Forbes (2026-07-24T10:40:56Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 法院裁定，SK集團會長崔泰源對其持有的部分SK股份擁有正當權利。
-- [原文連結](https://www.forbes.com/sites/siladityaray/2026/07/24/sk-hynix-billionaire-ordered-to-pay-645-million-divorce-settlement-koreas-largest-ever/)
-
----
-
 ### 🚀 Wedbush 相信 ASML 增加指導對 SK 海力士來說是個好兆頭。如何在這裡玩 SKHY 股票。
 - **題材**: `HBM記憶體` | **重要性**: `65`
 - **來源**: Barchart.com (2026-07-21T18:23:46Z)
@@ -178,6 +169,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 全球股票管理公司 ClearBridge Investments 最近發布了其「小型股成長策略」的 2026 年第二季評論。 A copy of the letter...
 - [原文連結](https://finance.yahoo.com/markets/stocks/articles/maxlinear-mxl-poised-benefit-ai-140315573.html)
+
+---
+
+### ⚖️ SK 海力士億萬富翁被判支付 6.45 億美元離婚和解金——韓國有史以來金額最大的離婚賠償金
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: Forbes (2026-07-24T10:40:56Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 法院裁定，SK集團會長崔泰源對其持有的部分SK股份擁有正當權利。
+- [原文連結](https://www.forbes.com/sites/siladityaray/2026/07/24/sk-hynix-billionaire-ordered-to-pay-645-million-divorce-settlement-koreas-largest-ever/)
 
 ---
 
