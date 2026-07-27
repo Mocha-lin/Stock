@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-27T12:23:00.879450+00:00
+> 更新時間：2026-07-27T15:33:56.523014+00:00
 
 ### 🚀 CPO 商業化為台灣 OSAT 開啟了新的 SiPh 封裝競賽
 - **題材**: `光通訊與矽光子` | **重要性**: `73`
@@ -163,21 +163,21 @@
 
 ---
 
-### 🚀 MaxLinear (MXL) 預計將受益於人工智慧收發器
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-07-24T14:03:15Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 全球股票管理公司 ClearBridge Investments 最近發布了其「小型股成長策略」的 2026 年第二季評論。 A copy of the letter...
-- [原文連結](https://finance.yahoo.com/markets/stocks/articles/maxlinear-mxl-poised-benefit-ai-140315573.html)
-
----
-
 ### ⚖️ SK 海力士億萬富翁被判支付 6.45 億美元離婚和解金——韓國有史以來金額最大的離婚賠償金
 - **題材**: `HBM記憶體` | **重要性**: `60`
 - **來源**: Forbes (2026-07-24T10:40:56Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 法院裁定，SK集團會長崔泰源對其持有的部分SK股份擁有正當權利。
 - [原文連結](https://www.forbes.com/sites/siladityaray/2026/07/24/sk-hynix-billionaire-ordered-to-pay-645-million-divorce-settlement-koreas-largest-ever/)
+
+---
+
+### ⚠️ RAMpocalypse 開始衝擊汽車產業
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: Gizmodo.com (2026-07-23T19:55:29Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 通用汽車警告稱，持續的記憶體短缺可能會給公司帶來數十億美元的損失。
+- [原文連結](https://gizmodo.com/the-rampocalypse-is-starting-to-hit-the-auto-industry-2000789990)
 
 ---
 
