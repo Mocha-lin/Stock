@@ -1,10 +1,48 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-07-28T03:54:41.187036+00:00",
+  "generated_at": "2026-07-28T06:18:44.208204+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 73,
   "items": [
+    {
+      "id": "15a1bb526fc73acc",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "獨家：Rapidus在AI代工策略中將2nm晶片、HBM和先進封裝連結起來",
+      "summary": "Rapidus 將先進封裝視為其 2 奈米代工策略的核心部分，而不是下游組裝服務。這家日本晶片製造商的目標是將設計支援、前端晶圓加工、小晶片整合、封裝、測試和製造連接起來…",
+      "original_title": "Exclusive: Rapidus links 2nm chips, HBM and advanced packaging in AI foundry strategy",
+      "url": "https://www.digitimes.com/news/a20260724VL214/rapidus-2nm-manufacturing-hbm-packaging.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-07-25T03:28:06Z",
+      "importance": 73,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
     {
       "id": "c9e00375fac6c09e",
       "dataset": "market_news",
@@ -669,44 +707,6 @@
       "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "abe9ed7c84557094",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "重新思考人工智慧優先架構的傳輸層",
-      "summary": "需要重新設計整個傳輸層以支援人工智慧優先的架構。",
-      "original_title": "Rethinking the transport layer for AI-first architecture",
-      "url": "https://www.techradar.com/pro/rethinking-the-transport-layer-for-ai-first-architecture",
-      "source": "TechRadar",
-      "domain": "techradar.com",
-      "published_at": "2026-07-24T14:13:21Z",
-      "importance": 60,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "6f9268f057d0c050",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -851,44 +851,6 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "168ecc6861949688",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "歐洲央行維持利率不變，但為進一步升息敞開大門",
-      "summary": "倫敦，7 月 23 日（路透社）",
-      "original_title": "ECB leaves rates on hold, but keeps door open to further rate hikes",
-      "url": "https://finance.yahoo.com/economy/policy/articles/ecb-leaves-rates-hold-keeps-125509510.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-07-23T12:55:09Z",
-      "importance": 60,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "bc55fdb09b0a5859",
@@ -1081,44 +1043,6 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "420499819ef0d4bf",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "台積電的人工智慧熱潮才剛開始：為什麼投資人應該立即買入回檔的台積電股票",
-      "summary": "台積電獲利、人工智慧需求和分析師目標均走高。這對投資者意味著什麼？",
-      "original_title": "TSMC’s AI Boom Is Just Getting Started: Why Investors Should Buy the Pullback in TSM Stock Now",
-      "url": "https://www.barchart.com/story/news/3382278/tsmcs-ai-boom-is-just-getting-started-why-investors-should-buy-the-pullback-in-tsm-stock-now",
-      "source": "Barchart.com",
-      "domain": "barchart.com",
-      "published_at": "2026-07-21T13:00:02Z",
-      "importance": 60,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "a549c7b3781fa397",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1231,6 +1155,82 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "639d712746db56f8",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "油價下跌 4%，亞洲股市上漲，中國晶片製造商長鑫儲存在上海交易首日飆升",
+      "summary": "週一亞洲股市大多走高，因美國和伊朗在討論可能恢復戰鬥時克制住戰鬥，導致油價下跌超過 4%。",
+      "original_title": "Oil prices sink 4% while Asian shares gain as Chinese chipmaker CXMT soars in Shanghai trading debut",
+      "url": "https://finance.yahoo.com/markets/articles/oil-prices-sink-4-while-053506103.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-07-27T05:35:06Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "1feddb05279bfd26",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "使用 AI 改造 CDP 並解決自身健康問題的 CPO",
+      "summary": "拉法·弗洛雷斯的職業生涯已經圓滿結束。 2016 年，他加入 Treasure Data（今年稍早更名為 Treasure AI），成為該公司有史以來第二位產品員工。當時，Treasure Data 作為資料管理公司才剛起步。 …",
+      "original_title": "The CPO Who Used AI To Revamp A CDP And Address His Own Health",
+      "url": "http://www.adexchanger.com/ai/the-cpo-who-used-ai-to-revamp-a-cdp-and-address-his-own-health/",
+      "source": "AdExchanger",
+      "domain": "adexchanger.com",
+      "published_at": "2026-07-27T05:00:22Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "d25f09e821d57838",
