@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-28T00:03:00.816193+00:00
+> 更新時間：2026-07-28T03:54:41.187036+00:00
 
 ### 🚀 CPO 商業化為台灣 OSAT 開啟了新的 SiPh 封裝競賽
 - **題材**: `光通訊與矽光子` | **重要性**: `73`
@@ -136,6 +136,15 @@
 
 ---
 
+### ⚠️ 隨著油價下跌，股票和債券漲幅謹慎
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-07-27T02:37:57Z)
+- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 作者：韋恩·科爾 悉尼，7 月 27 日（路透社）
+- [原文連結](https://finance.yahoo.com/economy/articles/shares-bonds-bounce-oil-skid-004056720.html)
+
+---
+
 ### ⚖️ 華為正在建造自己的 DRAM 工廠，它可能會重塑 RAM 價格
 - **題材**: `HBM記憶體` | **重要性**: `60`
 - **來源**: XDA Developers (2026-07-25T23:00:10Z)
@@ -169,15 +178,6 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 法院裁定，SK集團會長崔泰源對其持有的部分SK股份擁有正當權利。
 - [原文連結](https://www.forbes.com/sites/siladityaray/2026/07/24/sk-hynix-billionaire-ordered-to-pay-645-million-divorce-settlement-koreas-largest-ever/)
-
----
-
-### ⚖️ MaxLinear 第二季財報電話會議亮點
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: MarketBeat (2026-07-23T22:06:19Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: MaxLinear（納斯達克股票代碼：MXL）報告稱，2026 年第二季度收入大幅增長，並恢復了 GAAP 盈利能力，因為高管表示對該公司的需求...
-- [原文連結](https://www.marketbeat.com/instant-alerts/maxlinear-q2-earnings-call-highlights-2026-07-23/?utm_source=yahoofinance&amp;utm_medium=yahoofinance)
 
 ---
 
