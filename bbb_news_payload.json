@@ -1,48 +1,10 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-07-28T06:18:44.208204+00:00",
+  "generated_at": "2026-07-28T11:17:03.081485+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 73,
   "items": [
-    {
-      "id": "15a1bb526fc73acc",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "獨家：Rapidus在AI代工策略中將2nm晶片、HBM和先進封裝連結起來",
-      "summary": "Rapidus 將先進封裝視為其 2 奈米代工策略的核心部分，而不是下游組裝服務。這家日本晶片製造商的目標是將設計支援、前端晶圓加工、小晶片整合、封裝、測試和製造連接起來…",
-      "original_title": "Exclusive: Rapidus links 2nm chips, HBM and advanced packaging in AI foundry strategy",
-      "url": "https://www.digitimes.com/news/a20260724VL214/rapidus-2nm-manufacturing-hbm-packaging.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-07-25T03:28:06Z",
-      "importance": 73,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
     {
       "id": "c9e00375fac6c09e",
       "dataset": "market_news",
@@ -118,6 +80,44 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
+      "id": "e801d4721d0db343",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "三星與博通簽署諒解備忘錄以加強人工智慧記憶體和代工合作",
+      "summary": "此次合作旨在加速下一代人工智慧基礎設施所需的半導體解決方案的開發和供應。",
+      "original_title": "Samsung, Broadcom sign MOU to boost AI memory and foundry partnership",
+      "url": "https://www.verdict.co.uk/samsung-broadcom-sign-mou/",
+      "source": "Verdict",
+      "domain": "verdict.co.uk",
+      "published_at": "2026-07-27T10:29:15Z",
+      "importance": 70,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "d110bffee59720f4",
@@ -415,6 +415,41 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "121f3eac72ed433c",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "SK 集團與 Nvidia 簽署 5,000 億美元人工智慧基礎設施協議",
+      "summary": "兩家公司的目標是大規模人工智慧基礎設施建設，並計劃在韓國各地開展雲端和記憶體項目。",
+      "original_title": "SK Group, Nvidia sign $500bn deal for AI infrastructure",
+      "url": "https://www.verdict.co.uk/sk-group-nvidia-sign-deal/",
+      "source": "Verdict",
+      "domain": "verdict.co.uk",
+      "published_at": "2026-07-27T08:41:23Z",
+      "importance": 65,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "5d7cd460c7a9f4f0",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -523,41 +558,6 @@
       "reason": "屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "4bebfc1aab8304f2",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "威剛董事長稱 DRAM 短缺將再持續 10 年——駁斥人工智慧泡沫言論直至“2040 年或 2050 年”",
-      "summary": "陳說，電力，特別是綠色電力和記憶體將成為未來十年世界上最稀缺的兩種資源。",
-      "original_title": "Adata chairman says DRAM shortage will last another 10 years — dismisses AI bubble talk until '2040 or 2050'",
-      "url": "https://www.tomshardware.com/tech-industry/adata-chairman-says-dram-shortage-will-last-another-10-years",
-      "source": "Tom's Hardware UK",
-      "domain": "tomshardware.com",
-      "published_at": "2026-07-22T11:00:00Z",
-      "importance": 62,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "3e8efac92439c86c",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -594,6 +594,117 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "17e41ee53beb0400",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "受蘋果追捧的晶片製造商上市首秀飆升並短暫成為中國最有價值公司",
+      "summary": "長鑫儲存是中國最大的記憶體晶片製造商，其上市之際，人工智慧驅動的需求熱潮推高了其競爭對手美光、三星和SK海力士的股價。",
+      "original_title": "Chipmaker Courted By Apple Soars On Market Debut And Briefly Becomes China’s Most Valuable Company",
+      "url": "https://www.forbes.com/sites/siladityaray/2026/07/27/chipmaker-courted-by-apple-soars-on-market-debut-and-briefly-becomes-chinas-most-valuable-company/",
+      "source": "Forbes",
+      "domain": "forbes.com",
+      "published_at": "2026-07-27T09:50:51Z",
+      "importance": 60,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "619d2cf6c647ae1a",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "美伊和平樂觀情緒提振風險情緒，歐洲股市上漲",
+      "summary": "作者：Tharuniyaa Lakshmi 和 Purvi Agarwal 7 月 27 日（路透社）",
+      "original_title": "European shares gain as US-Iran peace optimism lifts risk sentiment",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/european-shares-gain-us-iran-092027730.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-07-27T09:20:27Z",
+      "importance": 60,
+      "impact": "negative",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "25165b1185efa8c6",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "厄爾尼諾現象迫在眉睫，新興市場面臨通膨風險",
+      "summary": "作者：Siddarth S 和 Johann M Cherian，7 月 27 日（路透社）",
+      "original_title": "Emerging markets stare at inflation risks as powerful El Niño looms",
+      "url": "https://finance.yahoo.com/economy/policy/articles/emerging-markets-stare-inflation-risks-064514843.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-07-27T06:45:14Z",
+      "importance": 60,
+      "impact": "negative",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "88ee26762f927730",
@@ -667,44 +778,6 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "0d15300b4c882e12",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "川普對關稅一意孤行。這裡有 5 個意義",
-      "summary": "川普決心為其關稅尋找新的法律理由，這可能會延長美國和全球經濟面臨的不確定性。",
-      "original_title": "Trump is hellbent on tariffs. Here are 5 implications",
-      "url": "https://www.npr.org/2026/07/25/nx-s1-5905692/trump-tariffs-economy-inflation",
-      "source": "NPR",
-      "domain": "npr.org",
-      "published_at": "2026-07-25T09:00:00Z",
-      "importance": 60,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "6f9268f057d0c050",
@@ -1157,6 +1230,44 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "5ca4738a8e72faf3",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "英國標誌性的喬德雷爾班克望遠鏡面臨科學削減",
+      "summary": "天文學家警告說，這將撕裂英國科學的核心，讓一代人失去訓練。",
+      "original_title": "UK's iconic Jodrell Bank telescope faces axe in science cuts",
+      "url": "https://www.bbc.co.uk/news/articles/c5y6r9rdxygo",
+      "source": "BBC News",
+      "domain": "bbc.co.uk",
+      "published_at": "2026-07-27T10:35:16Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "639d712746db56f8",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1344,29 +1455,32 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "9f0703eeba748e87",
+      "id": "0d15300b4c882e12",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "韓國晶片製造商在矽谷準備與美國的大型交易",
-      "summary": "三星電子和 SK 海力士正準備在李在明總統訪問期間公佈與美國科技公司的主要供應協議。",
-      "original_title": "Korea's chipmakers prepare big U.S. deals in Silicon Valley",
-      "url": "https://www.thestreet.com/latest-news/samsung-sk-hynix-us-memory-chip-deals",
-      "source": "TheStreet",
-      "domain": "thestreet.com",
-      "published_at": "2026-07-25T16:55:40Z",
+      "theme": "總體風險",
+      "title": "川普對關稅一意孤行。這裡有 5 個意義",
+      "summary": "川普決心為其關稅尋找新的法律理由，這可能會延長美國和全球經濟面臨的不確定性。",
+      "original_title": "Trump is hellbent on tariffs. Here are 5 implications",
+      "url": "https://www.npr.org/2026/07/25/nx-s1-5905692/trump-tariffs-economy-inflation",
+      "source": "NPR",
+      "domain": "npr.org",
+      "published_at": "2026-07-25T09:00:00Z",
       "importance": 55,
-      "impact": "neutral",
+      "impact": "negative",
       "timeframe": "short_term",
       "tags": [
-        "HBM",
-        "記憶體"
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
       ],
       "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
       ],
       "related_models": [
         "003",
@@ -1376,7 +1490,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "b59555a73b0acf1a",
@@ -2136,44 +2250,6 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "e6ac3a77594b3db4",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "美國六月新屋銷售回升，但負擔能力挑戰仍存在",
-      "summary": "作者：丹伯恩斯 7 月 24 日（路透社）",
-      "original_title": "US new home sales pick up in June, but affordability challenges remain",
-      "url": "https://finance.yahoo.com/real-estate/articles/us-home-sales-pick-june-141948032.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-07-24T15:53:29Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "a20a6d25a74e016e",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2220,44 +2296,6 @@
       "source": "Scientific American",
       "domain": "scientificamerican.com",
       "published_at": "2026-07-24T10:45:00Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "50e7a95fd8db8f5f",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Hetzner 正在研究 LLM Inference",
-      "summary": "Hetzner 推出了實驗性 LLM 推理 API。我測試了它的 Qwen 模型，並對該產品下一步的發展方向進行了一些猜測。",
-      "original_title": "Hetzner is working on LLM Inference",
-      "url": "https://sliplane.io/blog/hetzner-inference",
-      "source": "Sliplane.io",
-      "domain": "sliplane.io",
-      "published_at": "2026-07-24T09:24:44Z",
       "importance": 50,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -2543,44 +2581,6 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "a256a083f1be0946",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "「我開不起烤箱」：740萬家庭難以購買必需品",
-      "summary": "由於安迪·伯納姆承諾為家庭提供“喘息空間”，數百萬人無法購買衣服、暖氣和食品等物品。",
-      "original_title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
-      "url": "https://www.bbc.co.uk/news/articles/cglj9685nj0o",
-      "source": "BBC News",
-      "domain": "bbc.co.uk",
-      "published_at": "2026-07-21T23:57:49Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "c15a3e531051b41d",
