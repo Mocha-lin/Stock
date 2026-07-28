@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-28T11:17:03.081485+00:00
+> 更新時間：2026-07-28T15:08:58.955995+00:00
 
 ### 🚀 CPO 商業化為台灣 OSAT 開啟了新的 SiPh 封裝競賽
 - **題材**: `光通訊與矽光子` | **重要性**: `73`
@@ -25,15 +25,6 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 此次合作旨在加速下一代人工智慧基礎設施所需的半導體解決方案的開發和供應。
 - [原文連結](https://www.verdict.co.uk/samsung-broadcom-sign-mou/)
-
----
-
-### 🚀 美光科技的人工智慧重新定價是真實的——但市場仍不確定它能否持續
-- **題材**: `HBM記憶體` | **重要性**: `70`
-- **來源**: Yahoo Entertainment (2026-07-25T11:41:36Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 美光科技公司（納斯達克股票代碼：MU）最近的獲利成長如此之快，以至於它幾乎看起來像是一家新公司，而不是一家週期性記憶體製造商。特...
-- [原文連結](https://finance.yahoo.com/markets/stocks/articles/micron-ai-repricing-real-market-114136142.html)
 
 ---
 
@@ -109,15 +100,6 @@
 
 ---
 
-### 🚀 三星獲2000億美元為博通製造晶片
-- **題材**: `半導體先進製程` | **重要性**: `65`
-- **來源**: SamMobile (2026-07-25T13:39:38Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 這是三星半導體部門的又一次勝利。該公司今天稍早宣布，已簽署一項價值 2,000 億美元的協議，為美國博通供應和生產先進晶片，直至 2030 年。該協議還涵蓋記憶體晶片的供應…
-- [原文連結](https://www.sammobile.com/news/samsung-gets-200-billion-to-make-chips-for-broadcom/)
-
----
-
 ### 🚀 Wedbush 相信 ASML 增加指導對 SK 海力士來說是個好兆頭。如何在這裡玩 SKHY 股票。
 - **題材**: `HBM記憶體` | **重要性**: `65`
 - **來源**: Barchart.com (2026-07-21T18:23:46Z)
@@ -127,21 +109,12 @@
 
 ---
 
-### ⚠️ 為什麼通用汽車的內存晶片指導有助於穩定美光和閃迪等股票
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: Yahoo Entertainment (2026-07-21T12:03:13Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 儲存晶片短缺仍然是大多數公司面臨的問題。
-- [原文連結](https://finance.yahoo.com/markets/stocks/article/why-gms-memory-chip-guidance-could-help-stabilize-stocks-like-micron-and-sandisk-120313927.html)
-
----
-
-### ⚖️ 英特爾將在英特爾 4 上共同開發和製造 Fortinet 的下一代防火牆 ASIC——節點獲得第一個指定外部客戶
-- **題材**: `半導體先進製程` | **重要性**: `62`
-- **來源**: Tom's Hardware UK (2026-07-21T13:00:00Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: SP6將利用兩家公司所描述的英特爾在分類半導體設計和先進封裝方面的專業知識。
-- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/intel-to-co-develop-and-manufacture-fortinets-next-gen-firewall-asic)
+### ⚖️ 中國 RAM 公司長鑫儲存 (CXMT) 首次上市，市值 4,840 億美元
+- **題材**: `HBM記憶體` | **重要性**: `63`
+- **來源**: The Verge (2026-07-27T14:27:57Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 根據《華爾街日報》和 CNBC 早些時候報道，中國儲存公司長鑫儲存科技 (CXMT) 在上海證券交易所上市首日表現強勁，其股價飆升 466%。股市狂潮推升長鑫儲存估值
+- [原文連結](https://www.theverge.com/tech/971358/cxmt-china-ram-stock-market-debut)
 
 ---
 
@@ -178,6 +151,33 @@
 - **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 作者：韋恩·科爾 悉尼，7 月 27 日（路透社）
 - [原文連結](https://finance.yahoo.com/economy/articles/shares-bonds-bounce-oil-skid-004056720.html)
+
+---
+
+### ⚖️ 華為正在建造自己的 DRAM 工廠，它可能會重塑 RAM 價格
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: XDA Developers (2026-07-25T23:00:10Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 市場對此求之不得，已經一年了
+- [原文連結](https://www.xda-developers.com/huawei-is-building-its-own-dram-fab-and-it-could-reshape-ram-prices-for-everyone/)
+
+---
+
+### 🚀 三星獲2000億美元為博通製造晶片
+- **題材**: `半導體先進製程` | **重要性**: `60`
+- **來源**: SamMobile (2026-07-25T13:39:38Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 這是三星半導體部門的又一次勝利。該公司今天稍早宣布，已簽署一項價值 2,000 億美元的協議，為美國博通供應和生產先進晶片，直至 2030 年。該協議還涵蓋記憶體晶片的供應…
+- [原文連結](https://www.sammobile.com/news/samsung-gets-200-billion-to-make-chips-for-broadcom/)
+
+---
+
+### ⚖️ SK 海力士億萬富翁被判支付 6.45 億美元離婚和解金——韓國有史以來金額最大的離婚賠償金
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: Forbes (2026-07-24T10:40:56Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 法院裁定，SK集團會長崔泰源對其持有的部分SK股份擁有正當權利。
+- [原文連結](https://www.forbes.com/sites/siladityaray/2026/07/24/sk-hynix-billionaire-ordered-to-pay-645-million-divorce-settlement-koreas-largest-ever/)
 
 ---
 
