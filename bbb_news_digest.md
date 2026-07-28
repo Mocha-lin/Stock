@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-28T18:05:53.261658+00:00
+> 更新時間：2026-07-28T20:09:36.192402+00:00
 
 ### 🚀 CPO 商業化為台灣 OSAT 開啟了新的 SiPh 封裝競賽
 - **題材**: `光通訊與矽光子` | **重要性**: `73`
@@ -73,6 +73,15 @@
 
 ---
 
+### ⚖️ MSI 和七彩虹將 Nvidia RTX 50 系列在中國的整個產品線價格提高了 59%——分銷商定價的變化表明 GPU 價格即將上漲
+- **題材**: `AI伺服器` | **重要性**: `67`
+- **來源**: Tom's Hardware UK (2026-07-27T19:47:49Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 隨著中國官方經銷商宣布一夜之間增加整個 Blackwell 產品線，GPU 價格似乎再次上漲。與建議零售價相比，我們看到高端價格大幅上漲了 75%。
+- [原文連結](https://www.tomshardware.com/pc-components/gpus/msi-and-colorful-raise-nvidia-rtx-50-series-prices-in-china-by-up-to-59-percent-across-the-entire-lineup-change-in-distributer-pricing-suggests-gpu-price-hikes-are-on-the-way)
+
+---
+
 ### ⚖️ AMD 揭開了 Instinct MI455X AI 加速器的面紗——CDNA 5 和 Helios 機架級架構相結合，在資料中心與 Nvidia 競爭
 - **題材**: `AI伺服器` | **重要性**: `67`
 - **來源**: Tom's Hardware UK (2026-07-23T18:05:44Z)
@@ -88,15 +97,6 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 兩家公司的目標是大規模人工智慧基礎設施建設，並計劃在韓國各地開展雲端和記憶體項目。
 - [原文連結](https://www.verdict.co.uk/sk-group-nvidia-sign-deal/)
-
----
-
-### 🚀 Wedbush 相信 ASML 增加指導對 SK 海力士來說是個好兆頭。如何在這裡玩 SKHY 股票。
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: Barchart.com (2026-07-21T18:23:46Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 分析師認為，營收前景的提高對記憶體晶片製造商來說是個好消息。
-- [原文連結](https://www.barchart.com/story/news/3389102/wedbush-believes-increased-guidance-from-asml-bodes-well-for-sk-hynix-how-to-play-skhy-stock-here)
 
 ---
 
