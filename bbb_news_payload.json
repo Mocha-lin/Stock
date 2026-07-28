@@ -1,9 +1,9 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-07-28T15:08:58.955995+00:00",
+  "generated_at": "2026-07-28T18:05:53.261658+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
-  "total_count": 73,
+  "total_count": 74,
   "items": [
     {
       "id": "c9e00375fac6c09e",
@@ -231,41 +231,6 @@
       "reason": "屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
-      "id": "03b66b83a314811a",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "SK 海力士的 HBM 帝國佔據了美國 65% 的收入——這是必須擁有的 AI 股票嗎？",
-      "summary": "當投資者追逐 GPU 製造商時，一家韓國晶片製造商已悄悄鎖定了人工智慧基礎設施中最關鍵的一個瓶頸，其最新版本...",
-      "original_title": "SK Hynix’s HBM Empire Powers 65% US Revenue — Is This the Must-Own AI Stock?",
-      "url": "https://247wallst.com/investing/2026/07/21/sk-hynixs-hbm-empire-powers-65-us-revenue-is-this-the-must-own-ai-stock/",
-      "source": "24/7 Wall St.",
-      "domain": "247wallst.com",
-      "published_at": "2026-07-21T15:31:10Z",
-      "importance": 70,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
       "id": "e12edc687b66d40c",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -426,6 +391,41 @@
       "source": "Barchart.com",
       "domain": "barchart.com",
       "published_at": "2026-07-21T18:23:46Z",
+      "importance": 65,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "03b66b83a314811a",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "SK 海力士的 HBM 帝國佔據了美國 65% 的收入——這是必須擁有的 AI 股票嗎？",
+      "summary": "當投資者追逐 GPU 製造商時，一家韓國晶片製造商已悄悄鎖定了人工智慧基礎設施中最關鍵的一個瓶頸，其最新版本...",
+      "original_title": "SK Hynix’s HBM Empire Powers 65% US Revenue — Is This the Must-Own AI Stock?",
+      "url": "https://247wallst.com/investing/2026/07/21/sk-hynixs-hbm-empire-powers-65-us-revenue-is-this-the-must-own-ai-stock/",
+      "source": "24/7 Wall St.",
+      "domain": "247wallst.com",
+      "published_at": "2026-07-21T15:31:10Z",
       "importance": 65,
       "impact": "positive",
       "timeframe": "short_term",
@@ -1116,44 +1116,6 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "2f27f823c818a36a",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Nvidia 工程超級實驗室的幕後 — Vera Rubin NVL72 運行 OpenAI 工作負載、演示 800VDC 等",
-      "summary": "Nvidia 向 Tom’s Hardware Premium 獨家展示了其位於 Nvidia 總部附近的先前未公開的工程超級實驗室，我們在那裡看到了 Vera Rubin NVL72 的運作情況。",
-      "original_title": "Behind the scenes at Nvidia's Engineering SuperLab — Vera Rubin NVL72 running OpenAI workloads, 800VDC demonstrated, and more",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/behind-the-scenes-at-nvidias-engineering-superlab-vera-rubin-nvl72-running-openai-workloads-800vdc-demonstrated-and-more",
-      "source": "Tom's Hardware UK",
-      "domain": "tomshardware.com",
-      "published_at": "2026-07-21T15:15:00Z",
-      "importance": 57,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "3e8efac92439c86c",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1166,6 +1128,82 @@
       "domain": "tomshardware.com",
       "published_at": "2026-07-21T13:00:00Z",
       "importance": 57,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "820953ff4717c1dd",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "聯發科受蘋果啟發的天璣 9600 變體揭曉",
+      "summary": "MediaTek is expected to launch the Dimensity 9600 SoC this year, and a new rumor from China now claims there will actually be three versions. The Dimensity 9600s is said to be basically a Dimensity 9500+, a slightly improved version of the Dimensity 9500 that…",
+      "original_title": "MediaTek's Apple-inspired Dimensity 9600 variants revealed",
+      "url": "https://www.gsmarena.com/mediateks_appleinspired_dimensity_9600_variants_revealed-news-73893.php",
+      "source": "GSMArena.com",
+      "domain": "gsmarena.com",
+      "published_at": "2026-07-27T17:03:02Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "a1880b65c53cec84",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "NVIDIA 首款美國製造 GB300 GPU 在台積電位於亞利桑那州的 Fab 21 工廠下線，但仍飛往台灣進行封裝",
+      "summary": "NVIDIA 和台積電剛剛實現了一個重要里程碑，顯著增強了本土晶片製造的前景，使美國免受地緣政治衝擊。即便如此，仍有許多工作要做，包括先進封裝…",
+      "original_title": "NVIDIA’s First Made-In-America GB300 GPUs Roll Off TSMC’s Arizona-Based Fab 21, But Still Fly To Taiwan for Packaging",
+      "url": "https://wccftech.com/nvidias-first-made-in-america-gb300-gpus-roll-off-tsmcs-arizona-based-fab-21-but-still-fly-to-taiwan-for-packaging/",
+      "source": "Wccftech",
+      "domain": "wccftech.com",
+      "published_at": "2026-07-27T16:07:52Z",
+      "importance": 55,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -1645,44 +1683,6 @@
       "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "85d9255b8bede278",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "iPhone 18 Pro：您可能想從 iPhone 17 Pro 升級的三個原因",
-      "summary": "距離 iPhone 18 Pro 發布只有幾個月了，雖然大多數 iPhone 17 Pro 用戶不會這麼快升級，但對於那些考慮購買新 iPhone 的人來說，三個主要功能可能會激發他們的興趣。",
-      "original_title": "iPhone 18 Pro: Three reasons you might want to upgrade from iPhone 17 Pro",
-      "url": "https://9to5mac.com/2026/07/23/iphone-18-pro-three-reasons-you-might-want-to-upgrade-from-iphone-17-pro/",
-      "source": "9to5Mac",
-      "domain": "9to5mac.com",
-      "published_at": "2026-07-23T20:22:10Z",
-      "importance": 55,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "a61d24aeeefef2b8",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1911,82 +1911,6 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "3712d8d92b83018b",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "報告：台積電計畫2027年提高晶片價格",
-      "summary": "半導體產品價格的上漲並沒有放緩的跡象。日經亞洲報道稱，台積電將從明年開始將價格提高最多 10%，這對其客戶（例如英偉達、蘋果、高通、AMD 和英特爾等）來說是個壞消息。",
-      "original_title": "Report: TSMC is planning to raise chip prices in 2027",
-      "url": "https://www.gsmarena.com/report_tsmc_is_planning_to_raise_chip_prices_in_2027-news-73814.php",
-      "source": "GSMArena.com",
-      "domain": "gsmarena.com",
-      "published_at": "2026-07-21T16:51:02Z",
-      "importance": 55,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "f38fcbd78576a8a6",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "任天堂明確表示您永遠不會獲得關稅退款",
-      "summary": "川普的關稅和記憶體價格意味著你不應該指望遊戲會變得更便宜。",
-      "original_title": "Nintendo Makes It Clear You Were Never Going to Get a Tariff Refund",
-      "url": "https://gizmodo.com/nintendo-makes-it-clear-you-were-never-going-to-get-a-tariff-refund-2000788452",
-      "source": "Gizmodo.com",
-      "domain": "gizmodo.com",
-      "published_at": "2026-07-21T15:30:36Z",
-      "importance": 55,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "932a22ff019ddee9",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2023,6 +1947,44 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "2f27f823c818a36a",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Nvidia 工程超級實驗室的幕後 — Vera Rubin NVL72 運行 OpenAI 工作負載、演示 800VDC 等",
+      "summary": "Nvidia 向 Tom’s Hardware Premium 獨家展示了其位於 Nvidia 總部附近的先前未公開的工程超級實驗室，我們在那裡看到了 Vera Rubin NVL72 的運作情況。",
+      "original_title": "Behind the scenes at Nvidia's Engineering SuperLab — Vera Rubin NVL72 running OpenAI workloads, 800VDC demonstrated, and more",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/behind-the-scenes-at-nvidias-engineering-superlab-vera-rubin-nvl72-running-openai-workloads-800vdc-demonstrated-and-more",
+      "source": "Tom's Hardware UK",
+      "domain": "tomshardware.com",
+      "published_at": "2026-07-21T15:15:00Z",
+      "importance": 52,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "76b76004de4b075d",
@@ -2543,6 +2505,82 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "3712d8d92b83018b",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "報告：台積電計畫2027年提高晶片價格",
+      "summary": "半導體產品價格的上漲並沒有放緩的跡象。日經亞洲報道稱，台積電將從明年開始將價格提高最多 10%，這對其客戶（例如英偉達、蘋果、高通、AMD 和英特爾等）來說是個壞消息。",
+      "original_title": "Report: TSMC is planning to raise chip prices in 2027",
+      "url": "https://www.gsmarena.com/report_tsmc_is_planning_to_raise_chip_prices_in_2027-news-73814.php",
+      "source": "GSMArena.com",
+      "domain": "gsmarena.com",
+      "published_at": "2026-07-21T16:51:02Z",
+      "importance": 50,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "f38fcbd78576a8a6",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "任天堂明確表示您永遠不會獲得關稅退款",
+      "summary": "川普的關稅和記憶體價格意味著你不應該指望遊戲會變得更便宜。",
+      "original_title": "Nintendo Makes It Clear You Were Never Going to Get a Tariff Refund",
+      "url": "https://gizmodo.com/nintendo-makes-it-clear-you-were-never-going-to-get-a-tariff-refund-2000788452",
+      "source": "Gizmodo.com",
+      "domain": "gizmodo.com",
+      "published_at": "2026-07-21T15:30:36Z",
+      "importance": 50,
+      "impact": "negative",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "6ddc0966fa3e5737",
