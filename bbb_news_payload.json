@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-07-28T20:09:36.192402+00:00",
+  "generated_at": "2026-07-28T23:57:32.600357+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 74,
@@ -383,6 +383,44 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "8a7c0a6bb30bdca0",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "Rivian 起訴美國政府要求退還關稅",
+      "summary": "這家電動車製造商表示，最高法院取消「解放日」關稅的裁決還不夠——它希望獲得保證的退款和利息。",
+      "original_title": "Rivian Sues US Government for Tariff Refund",
+      "url": "https://www.cnet.com/home/electric-vehicles/rivian-sues-us-government-for-tariff-refund/",
+      "source": "CNET",
+      "domain": "cnet.com",
+      "published_at": "2026-07-27T23:26:06Z",
+      "importance": 65,
+      "impact": "negative",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "121f3eac72ed433c",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -635,41 +673,6 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "655e4615a019f1e0",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "華為正在建造自己的 DRAM 工廠，它可能會重塑 RAM 價格",
-      "summary": "市場對此求之不得，已經一年了",
-      "original_title": "Huawei is building its own DRAM fab, and it could reshape RAM prices for everyone",
-      "url": "https://www.xda-developers.com/huawei-is-building-its-own-dram-fab-and-it-could-reshape-ram-prices-for-everyone/",
-      "source": "XDA Developers",
-      "domain": "xda-developers.com",
-      "published_at": "2026-07-25T23:00:10Z",
-      "importance": 60,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "5d7cd460c7a9f4f0",
@@ -1455,6 +1458,41 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "655e4615a019f1e0",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "華為正在建造自己的 DRAM 工廠，它可能會重塑 RAM 價格",
+      "summary": "市場對此求之不得，已經一年了",
+      "original_title": "Huawei is building its own DRAM fab, and it could reshape RAM prices for everyone",
+      "url": "https://www.xda-developers.com/huawei-is-building-its-own-dram-fab-and-it-could-reshape-ram-prices-for-everyone/",
+      "source": "XDA Developers",
+      "domain": "xda-developers.com",
+      "published_at": "2026-07-25T23:00:10Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "0d15300b4c882e12",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1605,44 +1643,6 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "fff1eedd23542e3d",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "隨著與伊朗的戰爭擴大油價飆升",
-      "summary": "由於市場對也門胡塞武裝針對紅海船隻的新威脅做出反應，國際油價今日突破每桶 100 美元。 NBC 新聞頻道...",
-      "original_title": "Oil price surge as war with Iran expands",
-      "url": "https://www.yahoo.com/news/videos/oil-price-surge-war-iran-225258637.html",
-      "source": "Yahoo Entertainment",
-      "domain": "yahoo.com",
-      "published_at": "2026-07-23T22:52:58Z",
-      "importance": 55,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "5b63e31147814227",
@@ -1871,44 +1871,6 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "3979e6bcfb542cb7",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "應用光電公司 (AAOI) 獲利超預期飆升 15.8%；對沖基金持有量增加三倍以上",
-      "summary": "應用光電公司週二連續第三天上漲，上漲 15.76%，收於每股 119.26 美元，因為投資者開始配置該公司...",
-      "original_title": "Applied Optoelectronics (AAOI) Soars 15.8% Ahead of Earnings; Hedge Fund Holdings More Than Triple",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/applied-optoelectronics-aaoi-soars-15-222214097.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-07-21T22:22:14Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "932a22ff019ddee9",
@@ -2469,32 +2431,32 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "c15a3e531051b41d",
+      "id": "3979e6bcfb542cb7",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "HBM4 and Fab Limits Prevent 1,000 Vera Rubin Racks Per Day in 2026 or 2027",
-      "summary": "NVIDIA Vera Rubin 是該公司的下一代機架級 AI 平台（Grace Blackwell 的繼任者），針對代理 AI 工作負載進行了最佳化。與 Blackwell 相比，它每兆瓦的代理吞吐量/令牌提高了 10 倍，效率大幅提高…",
-      "original_title": "HBM4 and Fab Limits Prevent 1,000 Vera Rubin Racks Per Day in 2026 or 2027",
-      "url": "https://www.nextbigfuture.com/2026/07/hbm4-and-fab-limits-prevent-1000-vera-rubin-racks-per-day-in-2026-or-2027.html",
-      "source": "Next Big Future",
-      "domain": "nextbigfuture.com",
-      "published_at": "2026-07-21T20:09:38Z",
+      "theme": "光通訊與矽光子",
+      "title": "應用光電公司 (AAOI) 獲利超預期飆升 15.8%；對沖基金持有量增加三倍以上",
+      "summary": "應用光電公司週二連續第三天上漲，上漲 15.76%，收於每股 119.26 美元，因為投資者開始配置該公司...",
+      "original_title": "Applied Optoelectronics (AAOI) Soars 15.8% Ahead of Earnings; Hedge Fund Holdings More Than Triple",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/applied-optoelectronics-aaoi-soars-15-222214097.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-07-21T22:22:14Z",
       "importance": 50,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
+        "光通訊",
+        "CPO",
+        "矽光子"
       ],
       "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
       ],
       "related_models": [
         "003",
@@ -2504,7 +2466,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "3712d8d92b83018b",
@@ -2695,6 +2657,44 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "c15a3e531051b41d",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "HBM4 and Fab Limits Prevent 1,000 Vera Rubin Racks Per Day in 2026 or 2027",
+      "summary": "NVIDIA Vera Rubin 是該公司的下一代機架級 AI 平台（Grace Blackwell 的繼任者），針對代理 AI 工作負載進行了最佳化。與 Blackwell 相比，它每兆瓦的代理吞吐量/令牌提高了 10 倍，效率大幅提高…",
+      "original_title": "HBM4 and Fab Limits Prevent 1,000 Vera Rubin Racks Per Day in 2026 or 2027",
+      "url": "https://www.nextbigfuture.com/2026/07/hbm4-and-fab-limits-prevent-1000-vera-rubin-racks-per-day-in-2026-or-2027.html",
+      "source": "Next Big Future",
+      "domain": "nextbigfuture.com",
+      "published_at": "2026-07-21T20:09:38Z",
+      "importance": 45,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     },
     {
       "id": "58a087d5926895e3",
