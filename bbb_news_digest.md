@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-29T11:25:47.662576+00:00
+> 更新時間：2026-07-29T15:01:41.904691+00:00
 
 ### 🚀 SK海力士的HBM悖論：DDR5激增為HBM4漲價建立槓桿
 - **題材**: `HBM記憶體` | **重要性**: `78`
@@ -28,6 +28,15 @@
 
 ---
 
+### 🚀 天弘第二季財報電話會議亮點
+- **題材**: `光通訊與矽光子` | **重要性**: `70`
+- **來源**: MarketBeat (2026-07-28T13:03:01Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Celestica（NYSE：CLS）公佈的 2026 年第二季營收和調整後每股收益高於其指導上限，這得益於人工智慧侵權需求的支撐。
+- [原文連結](https://www.marketbeat.com/instant-alerts/celestica-q2-earnings-call-highlights-2026-07-28/?utm_source=yahoofinance&amp;utm_medium=yahoofinance)
+
+---
+
 ### 🚀 三星與博通簽署諒解備忘錄以加強人工智慧記憶體和代工合作
 - **題材**: `半導體先進製程` | **重要性**: `70`
 - **來源**: Verdict (2026-07-27T10:29:15Z)
@@ -52,15 +61,6 @@
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Super Micro Computer 的營收成長了三位數，而其股價卻比一年前低了 54%，而脫節點背後的原因是…
 - [原文連結](https://247wallst.com/investing/2026/07/22/price-prediction-smci-will-double-on-this-date/)
-
----
-
-### 🚀 Super Micro Computer 2026 年第四季利潤率超出預期，股價飆升
-- **題材**: `AI伺服器` | **重要性**: `70`
-- **來源**: Quartz India (2026-07-22T12:08:20Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 這家人工智慧伺服器製造商目前預計截至 6 月 30 日的季度毛利率為 15% 至 17%，而先前的指導值為 8.2% 至 8.4%
-- [原文連結](https://qz.com/super-micro-computer-stock-margins-guidance-orders-072226)
 
 ---
 
@@ -127,12 +127,30 @@
 
 ---
 
+### 🚀 Super Micro Computer 2026 年第四季利潤率超出預期，股價飆升
+- **題材**: `AI伺服器` | **重要性**: `65`
+- **來源**: Quartz India (2026-07-22T12:08:20Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 這家人工智慧伺服器製造商目前預計截至 6 月 30 日的季度毛利率為 15% 至 17%，而先前的指導值為 8.2% 至 8.4%
+- [原文連結](https://qz.com/super-micro-computer-stock-margins-guidance-orders-072226)
+
+---
+
 ### ⚖️ 中國 RAM 公司長鑫儲存 (CXMT) 首次上市，市值 4,840 億美元
 - **題材**: `HBM記憶體` | **重要性**: `63`
 - **來源**: The Verge (2026-07-27T14:27:57Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 根據《華爾街日報》和 CNBC 早些時候報道，中國儲存公司長鑫儲存科技 (CXMT) 在上海證券交易所上市首日表現強勁，其股價飆升 466%。股市狂潮推升長鑫儲存估值
 - [原文連結](https://www.theverge.com/tech/971358/cxmt-china-ram-stock-market-debut)
+
+---
+
+### 🚀 AMD 的 Helios 在機架層級的記憶體和運算方面擊敗了 Nvidia——前提是你在 GPU 層級上進行運算
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: TechRadar (2026-07-28T14:38:52Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: AMD 表示，Helios 在四個指標上擊敗了 Nvidia 的 Vera Rubin，但記憶體方面的優勢是機架級的且可驗證的，而 15% 的 FP4 優勢是針對每個 GPU 的，儘管 Nvidia 在機架級計算方面處於領先地位。
+- [原文連結](https://www.techradar.com/pro/amds-helios-beats-nvidia-on-memory-at-rack-level-and-on-compute-only-if-you-count-it-at-the-gpu-level)
 
 ---
 
@@ -160,24 +178,6 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 長鑫儲存是中國最大的記憶體晶片製造商，其上市之際，人工智慧驅動的需求熱潮推高了其競爭對手美光、三星和SK海力士的股價。
 - [原文連結](https://www.forbes.com/sites/siladityaray/2026/07/27/chipmaker-courted-by-apple-soars-on-market-debut-and-briefly-becomes-chinas-most-valuable-company/)
-
----
-
-### ⚠️ 美伊和平樂觀情緒提振風險情緒，歐洲股市上漲
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-07-27T09:20:27Z)
-- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 作者：Tharuniyaa Lakshmi 和 Purvi Agarwal 7 月 27 日（路透社）
-- [原文連結](https://finance.yahoo.com/markets/world-indices/articles/european-shares-gain-us-iran-092027730.html)
-
----
-
-### ⚠️ 厄爾尼諾現象迫在眉睫，新興市場面臨通膨風險
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-07-27T06:45:14Z)
-- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 作者：Siddarth S 和 Johann M Cherian，7 月 27 日（路透社）
-- [原文連結](https://finance.yahoo.com/economy/policy/articles/emerging-markets-stare-inflation-risks-064514843.html)
 
 ---
 

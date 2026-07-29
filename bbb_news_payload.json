@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-07-29T11:25:47.662576+00:00",
+  "generated_at": "2026-07-29T15:01:41.904691+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 74,
@@ -117,6 +117,44 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
+      "id": "6e1286e2e332c080",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "天弘第二季財報電話會議亮點",
+      "summary": "Celestica（NYSE：CLS）公佈的 2026 年第二季營收和調整後每股收益高於其指導上限，這得益於人工智慧侵權需求的支撐。",
+      "original_title": "Celestica Q2 Earnings Call Highlights",
+      "url": "https://www.marketbeat.com/instant-alerts/celestica-q2-earnings-call-highlights-2026-07-28/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
+      "source": "MarketBeat",
+      "domain": "marketbeat.com",
+      "published_at": "2026-07-28T13:03:01Z",
+      "importance": 70,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
       "id": "e801d4721d0db343",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -201,44 +239,6 @@
       "source": "24/7 Wall St.",
       "domain": "247wallst.com",
       "published_at": "2026-07-22T17:00:57Z",
-      "importance": 70,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
-      "id": "0bf11e887ee1228a",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Super Micro Computer 2026 年第四季利潤率超出預期，股價飆升",
-      "summary": "這家人工智慧伺服器製造商目前預計截至 6 月 30 日的季度毛利率為 15% 至 17%，而先前的指導值為 8.2% 至 8.4%",
-      "original_title": "Super Micro Computer Q4 2026 margins beat guidance, stock surges",
-      "url": "https://qz.com/super-micro-computer-stock-margins-guidance-orders-072226",
-      "source": "Quartz India",
-      "domain": "qz.com",
-      "published_at": "2026-07-22T12:08:20Z",
       "importance": 70,
       "impact": "positive",
       "timeframe": "short_term",
@@ -532,6 +532,44 @@
       "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "0bf11e887ee1228a",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Super Micro Computer 2026 年第四季利潤率超出預期，股價飆升",
+      "summary": "這家人工智慧伺服器製造商目前預計截至 6 月 30 日的季度毛利率為 15% 至 17%，而先前的指導值為 8.2% 至 8.4%",
+      "original_title": "Super Micro Computer Q4 2026 margins beat guidance, stock surges",
+      "url": "https://qz.com/super-micro-computer-stock-margins-guidance-orders-072226",
+      "source": "Quartz India",
+      "domain": "qz.com",
+      "published_at": "2026-07-22T12:08:20Z",
+      "importance": 65,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "1de7b779ff384c4c",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -565,6 +603,44 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "e0867b79429b5f90",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "AMD 的 Helios 在機架層級的記憶體和運算方面擊敗了 Nvidia——前提是你在 GPU 層級上進行運算",
+      "summary": "AMD 表示，Helios 在四個指標上擊敗了 Nvidia 的 Vera Rubin，但記憶體方面的優勢是機架級的且可驗證的，而 15% 的 FP4 優勢是針對每個 GPU 的，儘管 Nvidia 在機架級計算方面處於領先地位。",
+      "original_title": "AMD's Helios beats Nvidia on memory at rack level and on compute — only if you count it at the GPU level",
+      "url": "https://www.techradar.com/pro/amds-helios-beats-nvidia-on-memory-at-rack-level-and-on-compute-only-if-you-count-it-at-the-gpu-level",
+      "source": "TechRadar",
+      "domain": "techradar.com",
+      "published_at": "2026-07-28T14:38:52Z",
+      "importance": 60,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "e6c1a26d8060199e",
@@ -1052,120 +1128,6 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "fd142b4e5d169a15",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "OpenAI 將計劃到 2030 年的運算支出提高到 7,500 億美元：《華爾街日報》",
-      "summary": "修訂後的預測比 OpenAI 2 月的目標高出 1500 億美元，反映了其訓練和營運過程中雲端容量和硬體需求的擴大…",
-      "original_title": "OpenAI lifts planned compute spending to $750 billion through 2030: WSJ",
-      "url": "https://blockspace.media/insight/openai-increases-compute-spending-750-billion-2030/",
-      "source": "Blockspace.media",
-      "domain": "blockspace.media",
-      "published_at": "2026-07-22T14:49:17Z",
-      "importance": 60,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "d547452bcdcb0856",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "三星 Galaxy Watch Ultra 2 與 Galaxy Watch Ultra 2025：這是您想要的升級",
-      "summary": "Galaxy Watch Ultra 2 終於提供了我們一直在等待的升級。這款智慧手錶擁有更薄的設計和新的方形錶殼、更大的 800mAh 電池、更好的耐用性以及出色的全新高通晶片。",
-      "original_title": "Samsung Galaxy Watch Ultra 2 vs. Galaxy Watch Ultra 2025: This is the upgrade you want",
-      "url": "https://www.androidcentral.com/wearables/samsung-galaxy-watch/samsung-galaxy-watch-ultra-2-vs-galaxy-watch-ultra-2025",
-      "source": "Android Central",
-      "domain": "androidcentral.com",
-      "published_at": "2026-07-22T13:33:22Z",
-      "importance": 60,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "fb43502ab53d6fe4",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "三星 Galaxy Watch Ultra 2 與 Galaxy Watch 9：這是一個簡單的選擇",
-      "summary": "Galaxy Watch 9 有一些升級，但與去年非常相似。而 Galaxy Watch Ultra 2 則進行了全面升級。有興趣今年購買三星智慧手錶嗎？讀一下這個。",
-      "original_title": "Samsung Galaxy Watch Ultra 2 vs. Galaxy Watch 9: It's an easy choice",
-      "url": "https://www.androidcentral.com/wearables/samsung-galaxy-watch/samsung-galaxy-watch-ultra-2-vs-galaxy-watch-9",
-      "source": "Android Central",
-      "domain": "androidcentral.com",
-      "published_at": "2026-07-22T13:01:42Z",
-      "importance": 60,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "a549c7b3781fa397",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1202,6 +1164,41 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "d3ba9230ec85fc56",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "隨著晶片拋售加劇，美光和 SK 海力士股價下跌",
+      "summary": "週二半導體股票的拋售加劇。",
+      "original_title": "Micron, SK Hynix stocks fall as chip sell-off deepens",
+      "url": "https://finance.yahoo.com/markets/article/micron-sk-hynix-stocks-fall-as-chip-sell-off-deepens-125622548.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-07-28T12:56:22Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "174252cfaa932814",
@@ -1510,44 +1507,6 @@
       "source": "AdExchanger",
       "domain": "adexchanger.com",
       "published_at": "2026-07-27T05:00:22Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "dca024b29c282b2b",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "発売約2カ月で累計販賣売數50萬食を突破した「ポッポの冷凍食品shiriーズ」から「また食べたい」の聲に応え、『ポッポのお好み焼’が冷凍食品として復活！",
-      "summary": "[株式會社イトーヨーカ堂]\n[圖1：https://prcdn.freetls.fastly.net/release_image/18950/110/18950-110-22112f5dd0aaeb031d f626d08cfe89d0-464x159.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...",
-      "original_title": "発売約2カ月で累計販売数50万食を突破した「ポッポの冷凍食品シリーズ」から 「また食べたい」の声に応え、『ポッポのお好み焼』が冷凍食品として復活！",
-      "url": "https://prtimes.jp/main/html/rd/p/000000110.000018950.html",
-      "source": "Prtimes.jp",
-      "domain": "prtimes.jp",
-      "published_at": "2026-07-27T01:41:05Z",
       "importance": 55,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -2139,93 +2098,17 @@
       "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "0da7430067903eda",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "台積電計畫從 2027 年開始將先進和成熟節點的價格上漲最多 10%",
-      "summary": "消息人士告訴《日經亞洲》，台積電計畫在 2027 年初將先進和成熟的半導體製程節點的價格提高最多 10%。對於後期訂單，價格可能會進一步上漲，而且漲價可能會延伸到一些最成熟的節點…",
-      "original_title": "TSMC plans up to 10% price increases on advanced and mature nodes starting in 2027",
-      "url": "https://www.techspot.com/news/113195-tsmc-plans-up-10-price-increases-advanced-mature.html",
-      "source": "TechSpot",
-      "domain": "techspot.com",
-      "published_at": "2026-07-22T13:03:00Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "de31af7209c85f7d",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "台積電剛剛加倍努力順應人工智慧大趨勢。為什麼台積電仍有運作空間。",
-      "summary": "台積電超出獲利預期，上調全年預期，增強了對人工智慧長期繁榮的信心。",
-      "original_title": "Taiwan Semiconductor Just Doubled Down on the AI Megatrend. Why TSMC Still Has Room to Run.",
-      "url": "https://www.barchart.com/story/news/3403389/taiwan-semiconductor-just-doubled-down-on-the-ai-megatrend-why-tsmc-still-has-room-to-run",
-      "source": "Barchart.com",
-      "domain": "barchart.com",
-      "published_at": "2026-07-22T13:00:02Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "53c2e7529d266263",
+      "id": "fd142b4e5d169a15",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "AI伺服器",
-      "title": "第一個 NVIDIA Vera Rubin NVL72 基準測試顯示比 Grace Blackwell 提高了 10 倍",
-      "summary": "CoreWeave 在 Vera Rubin NVL72 和 Grace Blackwell NVL72 系統上運行了相同的 DeepSeek-R1 基準測試，發現一個關鍵區域實現了 10 倍的改進。在 TweakTown 繼續閱讀",
-      "original_title": "First NVIDIA Vera Rubin NVL72 benchmarks show 10X improvement over Grace Blackwell",
-      "url": "https://www.tweaktown.com/news/112758/first-nvidia-vera-rubin-nvl72-benchmarks-show-10x-improvement-over-grace-blackwell/index.html",
-      "source": "TweakTown",
-      "domain": "tweaktown.com",
-      "published_at": "2026-07-22T05:26:08Z",
+      "title": "OpenAI 將計劃到 2030 年的運算支出提高到 7,500 億美元：《華爾街日報》",
+      "summary": "修訂後的預測比 OpenAI 2 月的目標高出 1500 億美元，反映了其訓練和營運過程中雲端容量和硬體需求的擴大…",
+      "original_title": "OpenAI lifts planned compute spending to $750 billion through 2030: WSJ",
+      "url": "https://blockspace.media/insight/openai-increases-compute-spending-750-billion-2030/",
+      "source": "Blockspace.media",
+      "domain": "blockspace.media",
+      "published_at": "2026-07-22T14:49:17Z",
       "importance": 55,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -2251,6 +2134,82 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "d547452bcdcb0856",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "三星 Galaxy Watch Ultra 2 與 Galaxy Watch Ultra 2025：這是您想要的升級",
+      "summary": "Galaxy Watch Ultra 2 終於提供了我們一直在等待的升級。這款智慧手錶擁有更薄的設計和新的方形錶殼、更大的 800mAh 電池、更好的耐用性以及出色的全新高通晶片。",
+      "original_title": "Samsung Galaxy Watch Ultra 2 vs. Galaxy Watch Ultra 2025: This is the upgrade you want",
+      "url": "https://www.androidcentral.com/wearables/samsung-galaxy-watch/samsung-galaxy-watch-ultra-2-vs-galaxy-watch-ultra-2025",
+      "source": "Android Central",
+      "domain": "androidcentral.com",
+      "published_at": "2026-07-22T13:33:22Z",
+      "importance": 55,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "fb43502ab53d6fe4",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "三星 Galaxy Watch Ultra 2 與 Galaxy Watch 9：這是一個簡單的選擇",
+      "summary": "Galaxy Watch 9 有一些升級，但與去年非常相似。而 Galaxy Watch Ultra 2 則進行了全面升級。有興趣今年購買三星智慧手錶嗎？讀一下這個。",
+      "original_title": "Samsung Galaxy Watch Ultra 2 vs. Galaxy Watch 9: It's an easy choice",
+      "url": "https://www.androidcentral.com/wearables/samsung-galaxy-watch/samsung-galaxy-watch-ultra-2-vs-galaxy-watch-9",
+      "source": "Android Central",
+      "domain": "androidcentral.com",
+      "published_at": "2026-07-22T13:01:42Z",
+      "importance": 55,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "932a22ff019ddee9",
@@ -2438,41 +2397,6 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "a20a6d25a74e016e",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "韓國晶片拋售衝擊美國內存股，SK 海力士和美光股價下跌 6%，SanDisk 下跌 9%",
-      "summary": "SK 海力士 (NASDAQ:SKHY) ADR 在周五早盤交易中下跌 6%，至 158.56 美元，原因是韓國主導的內存拋售拉低了整個晶片市場。美光科技",
-      "original_title": "SK Hynix and Micron Sink 6%, SanDisk Drops 9% as Korea Chip Selloff Hits U.S. Memory Stocks",
-      "url": "https://247wallst.com/investing/2026/07/24/sk-hynix-and-micron-sink-6-sandisk-drops-9-as-korea-chip-selloff-hits-u-s-memory-stocks/",
-      "source": "24/7 Wall St.",
-      "domain": "247wallst.com",
-      "published_at": "2026-07-24T14:58:55Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "f755333e64068074",
@@ -2733,6 +2657,82 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "0da7430067903eda",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "台積電計畫從 2027 年開始將先進和成熟節點的價格上漲最多 10%",
+      "summary": "消息人士告訴《日經亞洲》，台積電計畫在 2027 年初將先進和成熟的半導體製程節點的價格提高最多 10%。對於後期訂單，價格可能會進一步上漲，而且漲價可能會延伸到一些最成熟的節點…",
+      "original_title": "TSMC plans up to 10% price increases on advanced and mature nodes starting in 2027",
+      "url": "https://www.techspot.com/news/113195-tsmc-plans-up-10-price-increases-advanced-mature.html",
+      "source": "TechSpot",
+      "domain": "techspot.com",
+      "published_at": "2026-07-22T13:03:00Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "de31af7209c85f7d",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "台積電剛剛加倍努力順應人工智慧大趨勢。為什麼台積電仍有運作空間。",
+      "summary": "台積電超出獲利預期，上調全年預期，增強了對人工智慧長期繁榮的信心。",
+      "original_title": "Taiwan Semiconductor Just Doubled Down on the AI Megatrend. Why TSMC Still Has Room to Run.",
+      "url": "https://www.barchart.com/story/news/3403389/taiwan-semiconductor-just-doubled-down-on-the-ai-megatrend-why-tsmc-still-has-room-to-run",
+      "source": "Barchart.com",
+      "domain": "barchart.com",
+      "published_at": "2026-07-22T13:00:02Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "c2d36ca262f96104",
