@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-29T06:30:24.705933+00:00
+> 更新時間：2026-07-29T11:25:47.662576+00:00
 
 ### 🚀 SK海力士的HBM悖論：DDR5激增為HBM4漲價建立槓桿
 - **題材**: `HBM記憶體` | **重要性**: `78`
@@ -25,15 +25,6 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Rapidus 正在擴大其北海道千歲代工廠周圍的半導體開發和生產網絡，增加晶片分析和先進封裝能力以及 2 奈米邏輯晶片的前端試驗線。
 - [原文連結](https://www.digitimes.com/news/a20260724VL210/rapidus-packaging-development-production-manufacturing.html)
-
----
-
-### 🚀 CPO 商業化為台灣 OSAT 開啟了新的 SiPh 封裝競賽
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-07-22T07:45:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 對AI伺服器運算能力的爆炸性需求正在推動資料中心架構以更快的速度升級，傳統的銅線訊號路徑正在接近其物理極限。隨著共封裝光學 (CPO) 和相關解決方案進入首次…
-- [原文連結](https://www.digitimes.com/news/a20260722PD228/siph-packaging-demand-cpo-ai-server.html)
 
 ---
 
@@ -91,6 +82,15 @@
 
 ---
 
+### 🚀 CPO 商業化為台灣 OSAT 開啟了新的 SiPh 封裝競賽
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-07-22T07:45:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 對AI伺服器運算能力的爆炸性需求正在推動資料中心架構以更快的速度升級，傳統的銅線訊號路徑正在接近其物理極限。隨著共封裝光學 (CPO) 和相關解決方案進入首次…
+- [原文連結](https://www.digitimes.com/news/a20260722PD228/siph-packaging-demand-cpo-ai-server.html)
+
+---
+
 ### 🚀 Nvidia 詳細介紹了 Vera Rubin NVL72 和客製化 Vera CPU 的 AI 機架策略
 - **題材**: `AI伺服器` | **重要性**: `68`
 - **來源**: Digitimes (2026-07-22T02:33:53Z)
@@ -127,30 +127,21 @@
 
 ---
 
-### 🚀 SK 集團與 Nvidia 簽署 5,000 億美元人工智慧基礎設施協議
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: Verdict (2026-07-27T08:41:23Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 兩家公司的目標是大規模人工智慧基礎設施建設，並計劃在韓國各地開展雲端和記憶體項目。
-- [原文連結](https://www.verdict.co.uk/sk-group-nvidia-sign-deal/)
-
----
-
-### 🚀 美光科技的人工智慧重新定價是真實的——但市場仍不確定它能否持續
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: Yahoo Entertainment (2026-07-25T11:41:36Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 美光科技公司（納斯達克股票代碼：MU）最近的獲利成長如此之快，以至於它幾乎看起來像是一家新公司，而不是一家週期性記憶體製造商。特...
-- [原文連結](https://finance.yahoo.com/markets/stocks/articles/micron-ai-repricing-real-market-114136142.html)
-
----
-
 ### ⚖️ 中國 RAM 公司長鑫儲存 (CXMT) 首次上市，市值 4,840 億美元
 - **題材**: `HBM記憶體` | **重要性**: `63`
 - **來源**: The Verge (2026-07-27T14:27:57Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 根據《華爾街日報》和 CNBC 早些時候報道，中國儲存公司長鑫儲存科技 (CXMT) 在上海證券交易所上市首日表現強勁，其股價飆升 466%。股市狂潮推升長鑫儲存估值
 - [原文連結](https://www.theverge.com/tech/971358/cxmt-china-ram-stock-market-debut)
+
+---
+
+### ⚠️ 據報道，台灣檢方在中國人工智慧晶片走私調查中拘留了英偉達員工
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: Forbes (2026-07-28T09:50:16Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 今年早些時候，美國司法部逮捕了人工智慧伺服器製造商超微公司的聯合創始人，罪名是涉嫌向中國走私英偉達的先進人工智慧晶片。
+- [原文連結](https://www.forbes.com/sites/siladityaray/2026/07/28/taiwan-prosecutors-reportedly-detain-nvidia-staffer-in-china-ai-chip-smuggling-probe/)
 
 ---
 
@@ -178,6 +169,15 @@
 - **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 作者：Tharuniyaa Lakshmi 和 Purvi Agarwal 7 月 27 日（路透社）
 - [原文連結](https://finance.yahoo.com/markets/world-indices/articles/european-shares-gain-us-iran-092027730.html)
+
+---
+
+### ⚠️ 厄爾尼諾現象迫在眉睫，新興市場面臨通膨風險
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-07-27T06:45:14Z)
+- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 作者：Siddarth S 和 Johann M Cherian，7 月 27 日（路透社）
+- [原文連結](https://finance.yahoo.com/economy/policy/articles/emerging-markets-stare-inflation-risks-064514843.html)
 
 ---
 
