@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-07-29T03:59:33.970181+00:00",
+  "generated_at": "2026-07-29T06:30:24.705933+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 74,
@@ -637,29 +637,32 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "4bebfc1aab8304f2",
+      "id": "c76cdb96387df8d8",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "威剛董事長稱 DRAM 短缺將再持續 10 年——駁斥人工智慧泡沫言論直至“2040 年或 2050 年”",
-      "summary": "陳說，電力，特別是綠色電力和記憶體將成為未來十年世界上最稀缺的兩種資源。",
-      "original_title": "Adata chairman says DRAM shortage will last another 10 years — dismisses AI bubble talk until '2040 or 2050'",
-      "url": "https://www.tomshardware.com/tech-industry/adata-chairman-says-dram-shortage-will-last-another-10-years",
-      "source": "Tom's Hardware UK",
-      "domain": "tomshardware.com",
-      "published_at": "2026-07-22T11:00:00Z",
-      "importance": 62,
-      "impact": "negative",
+      "theme": "AI伺服器",
+      "title": "像 100 億太陽一樣熾熱：NASA 的 Swift 觀測到一個正在吞噬恆星的徘徊黑洞",
+      "summary": "美國太空總署的斯威夫特天文台觀察到一個超大質量黑洞撕裂了距離遙遠星系中心 3 萬多光年的一顆恆星。這種非凡的耀斑在紫外光下短暫地超越了整個宿主星系，並揭示了一個黑洞...",
+      "original_title": "Blazing like 10 billion suns: NASA’s Swift sees a wandering black hole devouring a star",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260727214609.htm",
+      "source": "Science Daily",
+      "domain": "sciencedaily.com",
+      "published_at": "2026-07-28T05:54:39Z",
+      "importance": 60,
+      "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "HBM",
-        "記憶體"
+        "AI",
+        "伺服器",
+        "資料中心"
       ],
       "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
       ],
       "related_models": [
         "003",
@@ -669,7 +672,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "17e41ee53beb0400",
@@ -1195,44 +1198,6 @@
       "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "53c2e7529d266263",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "第一個 NVIDIA Vera Rubin NVL72 基準測試顯示比 Grace Blackwell 提高了 10 倍",
-      "summary": "CoreWeave 在 Vera Rubin NVL72 和 Grace Blackwell NVL72 系統上運行了相同的 DeepSeek-R1 基準測試，發現一個關鍵區域實現了 10 倍的改進。在 TweakTown 繼續閱讀",
-      "original_title": "First NVIDIA Vera Rubin NVL72 benchmarks show 10X improvement over Grace Blackwell",
-      "url": "https://www.tweaktown.com/news/112758/first-nvidia-vera-rubin-nvl72-benchmarks-show-10x-improvement-over-grace-blackwell/index.html",
-      "source": "TweakTown",
-      "domain": "tweaktown.com",
-      "published_at": "2026-07-22T05:26:08Z",
-      "importance": 60,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "a549c7b3781fa397",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1269,6 +1234,41 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "0c85a8a7937ab436",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "晶片製造股遭大量拋售，韓國 Kospi 指數下跌逾 10%",
+      "summary": "韓國 Kospi 指數週二暴跌逾 10%，因為晶片製造股遭到大量拋售，這些股最近因對永續發展的擔憂而出現波動。",
+      "original_title": "South Korea’s Kospi index sinks more than 10% on heavy selling of chipmaking stocks",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/south-korea-kospi-index-sinks-040623347.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-07-28T04:06:23Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "51458917489285ee",
@@ -2177,6 +2177,44 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "53c2e7529d266263",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "第一個 NVIDIA Vera Rubin NVL72 基準測試顯示比 Grace Blackwell 提高了 10 倍",
+      "summary": "CoreWeave 在 Vera Rubin NVL72 和 Grace Blackwell NVL72 系統上運行了相同的 DeepSeek-R1 基準測試，發現一個關鍵區域實現了 10 倍的改進。在 TweakTown 繼續閱讀",
+      "original_title": "First NVIDIA Vera Rubin NVL72 benchmarks show 10X improvement over Grace Blackwell",
+      "url": "https://www.tweaktown.com/news/112758/first-nvidia-vera-rubin-nvl72-benchmarks-show-10x-improvement-over-grace-blackwell/index.html",
+      "source": "TweakTown",
+      "domain": "tweaktown.com",
+      "published_at": "2026-07-22T05:26:08Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "932a22ff019ddee9",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2511,44 +2549,6 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "911b6103655548d9",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "AMD推出Helios系統，直接挑戰Nvidia的AI主導地位",
-      "summary": "AMD 推出了 Helios 機架規模系統，以與 Nvidia 的 Vera Rubin 平台競爭。",
-      "original_title": "AMD launches Helios system in direct challenge to Nvidia's AI dominance",
-      "url": "https://finance.yahoo.com/technology/article/amd-launches-helios-system-in-direct-challenge-to-nvidias-ai-dominance-183000104.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-07-23T18:30:00Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "1132be1667a32d4e",
