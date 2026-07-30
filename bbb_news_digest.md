@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-30T18:07:14.045770+00:00
+> 更新時間：2026-07-30T20:09:13.703783+00:00
 
 ### 🚀 康寧押注 SiPh 和 CPO 推動人工智慧資料中心成長
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -82,12 +82,12 @@
 
 ---
 
-### ⚖️ MSI 和七彩虹將 Nvidia RTX 50 系列在中國的整個產品線價格提高了 59%——分銷商定價的變化表明 GPU 價格即將上漲
-- **題材**: `AI伺服器` | **重要性**: `67`
-- **來源**: Tom's Hardware UK (2026-07-27T19:47:49Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 隨著中國官方經銷商宣布一夜之間增加整個 Blackwell 產品線，GPU 價格似乎再次上漲。與建議零售價相比，我們看到高端價格大幅上漲了 75%。
-- [原文連結](https://www.tomshardware.com/pc-components/gpus/msi-and-colorful-raise-nvidia-rtx-50-series-prices-in-china-by-up-to-59-percent-across-the-entire-lineup-change-in-distributer-pricing-suggests-gpu-price-hikes-are-on-the-way)
+### ⚖️ 台灣聯華電子提高2026年資本支出，擴大新加坡及台灣晶圓廠以滿足人工智慧需求
+- **題材**: `光通訊與矽光子` | **重要性**: `65`
+- **來源**: Yahoo Entertainment (2026-07-29T09:37:07Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 台灣晶片製造商聯華電子 (UMC) 週三表示，其董事會批准了一項擴張計劃，包括增加其無塵室產能。
+- [原文連結](https://finance.yahoo.com/technology/ai/articles/taiwans-umc-raises-2026-capex-093707401.html)
 
 ---
 
@@ -154,6 +154,15 @@
 
 ---
 
+### ⚖️ MSI 和七彩虹將 Nvidia RTX 50 系列在中國的整個產品線價格提高了 59%——分銷商定價的變化表明 GPU 價格即將上漲
+- **題材**: `AI伺服器` | **重要性**: `62`
+- **來源**: Tom's Hardware UK (2026-07-27T19:47:49Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 隨著中國官方經銷商宣布一夜之間增加整個 Blackwell 產品線，GPU 價格似乎再次上漲。與建議零售價相比，我們看到高端價格大幅上漲了 75%。
+- [原文連結](https://www.tomshardware.com/pc-components/gpus/msi-and-colorful-raise-nvidia-rtx-50-series-prices-in-china-by-up-to-59-percent-across-the-entire-lineup-change-in-distributer-pricing-suggests-gpu-price-hikes-are-on-the-way)
+
+---
+
 ### ⚖️ AMD 揭開了 Instinct MI455X AI 加速器的面紗——CDNA 5 和 Helios 機架級架構相結合，在資料中心與 Nvidia 競爭
 - **題材**: `AI伺服器` | **重要性**: `62`
 - **來源**: Tom's Hardware UK (2026-07-23T18:05:44Z)
@@ -169,15 +178,6 @@
 - **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 週三全球油價上漲 7%，突破每桶 90 美元。
 - [原文連結](https://abcnews.com/Business/oil-prices-surge-after-trump-vows-retaliation-iranian/story?id=135185546)
-
----
-
-### ⚖️ 儘管光學成長 32%，康寧 (GLW) 仍暴跌 20%。 Coherent (COHR) 投資人該擔心嗎？
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-07-29T15:11:27Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 康寧公司（NYSE：GLW）在 7 月 28 日實現了光學業務的快速增長，但由於其指引未能達到目標，其股價下跌了 20% 以上...
-- [原文連結](https://finance.yahoo.com/markets/stocks/articles/corning-glw-crashed-20-despite-151127643.html)
 
 ---
 
