@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-07-30T14:58:43.182183+00:00",
+  "generated_at": "2026-07-30T16:23:41.182337+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 74,
@@ -56,41 +56,6 @@
       "domain": "247wallst.com",
       "published_at": "2026-07-29T12:00:40Z",
       "importance": 80,
-      "impact": "positive",
-      "timeframe": "short_to_mid_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
-      "id": "e996257f284771bf",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "SK海力士的HBM悖論：DDR5激增為HBM4漲價建立槓桿",
-      "summary": "人工智慧支出正在擴大內存升級週期，超越高頻寬內存，提高傳統 DRAM、NAND 快閃記憶體和企業級 SSD 的價格，同時重塑 SK 海力士和三星電子的盈利。",
-      "original_title": "SK Hynix's HBM paradox: DDR5 surge builds leverage for HBM4 price hikes",
-      "url": "https://www.digitimes.com/news/a20260728VL205/hbm-sk-hynix-dram-ddr5-hbm4.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-07-28T03:33:35Z",
-      "importance": 78,
       "impact": "positive",
       "timeframe": "short_to_mid_term",
       "tags": [
@@ -188,6 +153,44 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
+      "id": "50587c89196483d2",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "英偉達員工涉嫌不斷升級的超微走私醜聞，但對英偉達硬體的需求只會增加",
+      "summary": "一名英偉達員工涉嫌超微走私醜聞，他的家和辦公桌都被搜查。他因偽造和違反信任的指控而被拘留。與此同時，英偉達正在縮減其買家名單，以根除潛在的自鳴得意的人…",
+      "original_title": "Nvidia employee implicated in escalating Supermicro smuggling scandal, but demand only intensifies for Nvidia hardware",
+      "url": "https://www.tomshardware.com/tech-industry/nvidia-employee-implicated-in-escalating-supermicro-smuggling-scandal-but-demand-only-intensifies-for-nvidia-hardware",
+      "source": "Tom's Hardware UK",
+      "domain": "tomshardware.com",
+      "published_at": "2026-07-29T15:10:06Z",
+      "importance": 72,
+      "impact": "negative",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "5e38af795a0c9049",
@@ -678,17 +681,17 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "91f3d03388f4e4ac",
+      "id": "9deac1c43d9c7860",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "光通訊與矽光子",
-      "title": "美國授予 GlobalFoundries 3 億美元用於開發更快的 AI 晶片鏈路",
-      "summary": "該獎項是唐納德·川普總統將《晶片法案》研究資金用於關鍵半導體技術的努力的一部分，因為華盛頓尋求加強其在與中國的全球競爭中的地位。",
-      "original_title": "US to award GlobalFoundries $300 million to develop faster AI chip links",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-to-award-globalfoundries-300-million-to-develop-faster-ai-chip-links/articleshow/132712854.cms",
-      "source": "The Times of India",
-      "domain": "economictimes.indiatimes.com",
-      "published_at": "2026-07-29T12:58:37Z",
+      "title": "儘管光學成長 32%，康寧 (GLW) 仍暴跌 20%。 Coherent (COHR) 投資人該擔心嗎？",
+      "summary": "康寧公司（NYSE：GLW）在 7 月 28 日實現了光學業務的快速增長，但由於其指引未能達到目標，其股價下跌了 20% 以上...",
+      "original_title": "Corning (GLW) Crashed 20% Despite 32% Optical Growth. Should Coherent (COHR) Investors Worry?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/corning-glw-crashed-20-despite-151127643.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-07-29T15:11:27Z",
       "importance": 60,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -1160,6 +1163,41 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "6ba2a4decd5950bd",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "馬克庫班 (Mark Cuban) 和米哈爾伯里 (Michal Burry) 警告稱，人工智慧熱潮嚴重依賴 Nvidia",
+      "summary": "馬克·庫班表示，英偉達正在“為所有人和任何人提供資金”，就像網路泡沫時期的首次公開募股一樣。邁克爾·伯里 (Michael Burry) 表示，該公司的交易「過度」。",
+      "original_title": "Mark Cuban and Michal Burry warn the AI boom is dangerously reliant on Nvidia",
+      "url": "https://www.businessinsider.com/mark-cuban-michael-burry-nvidia-ai-deals-boom-microchips-infrastructure-2026-7#article",
+      "source": "Business Insider",
+      "domain": "businessinsider.com",
+      "published_at": "2026-07-29T15:53:11Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "fad1533119367f65",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1247,44 +1285,6 @@
       "source": "Cool Hunting",
       "domain": "coolhunting.com",
       "published_at": "2026-07-29T01:02:35Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "71f90df1171a7dd3",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "如果我們想保護天文學，天空中的衛星不超過 10 萬顆",
-      "summary": "一位天文學家聲稱，現有的 170 萬顆衛星（包括極其明亮的衛星）的提議將對人類的宇宙觀產生「毀滅性的後果」。\n[閱讀更多]",
-      "original_title": "No More Than 100,000 Satellites in the Sky if We Want to Preserve Astronomy",
-      "url": "https://petapixel.com/2026/07/28/no-more-than-100000-satellites-in-the-sky-if-we-want-to-preserve-astronomy/",
-      "source": "PetaPixel",
-      "domain": "petapixel.com",
-      "published_at": "2026-07-28T13:33:43Z",
       "importance": 55,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -1504,44 +1504,6 @@
       "source": "CNET",
       "domain": "cnet.com",
       "published_at": "2026-07-27T16:24:04Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "a1880b65c53cec84",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "NVIDIA 首款美國製造 GB300 GPU 在台積電位於亞利桑那州的 Fab 21 工廠下線，但仍飛往台灣進行封裝",
-      "summary": "NVIDIA 和台積電剛剛實現了一個重要里程碑，顯著增強了本土晶片製造的前景，使美國免受地緣政治衝擊。即便如此，仍有許多工作要做，包括先進封裝…",
-      "original_title": "NVIDIA’s First Made-In-America GB300 GPUs Roll Off TSMC’s Arizona-Based Fab 21, But Still Fly To Taiwan for Packaging",
-      "url": "https://wccftech.com/nvidias-first-made-in-america-gb300-gpus-roll-off-tsmcs-arizona-based-fab-21-but-still-fly-to-taiwan-for-packaging/",
-      "source": "Wccftech",
-      "domain": "wccftech.com",
-      "published_at": "2026-07-27T16:07:52Z",
       "importance": 55,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -2060,44 +2022,6 @@
       "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "d1c08b31616380db",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "科技股獲利引發人工智慧支出擔憂，華爾街下跌；油價觸及100美元",
-      "summary": "作者：Ragini Mathur 和 Avinash P，7 月 23 日（路透社）",
-      "original_title": "Wall St falls as tech earnings spark AI spending worries; oil hits $100",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-ease-big-111336570.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-07-23T16:23:39Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "4a68f0362c74636b",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2172,6 +2096,44 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "a1880b65c53cec84",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "NVIDIA 首款美國製造 GB300 GPU 在台積電位於亞利桑那州的 Fab 21 工廠下線，但仍飛往台灣進行封裝",
+      "summary": "NVIDIA 和台積電剛剛實現了一個重要里程碑，顯著增強了本土晶片製造的前景，使美國免受地緣政治衝擊。即便如此，仍有許多工作要做，包括先進封裝…",
+      "original_title": "NVIDIA’s First Made-In-America GB300 GPUs Roll Off TSMC’s Arizona-Based Fab 21, But Still Fly To Taiwan for Packaging",
+      "url": "https://wccftech.com/nvidias-first-made-in-america-gb300-gpus-roll-off-tsmcs-arizona-based-fab-21-but-still-fly-to-taiwan-for-packaging/",
+      "source": "Wccftech",
+      "domain": "wccftech.com",
+      "published_at": "2026-07-27T16:07:52Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "5ca4738a8e72faf3",
@@ -2622,6 +2584,44 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "d1c08b31616380db",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "科技股獲利引發人工智慧支出擔憂，華爾街下跌；油價觸及100美元",
+      "summary": "作者：Ragini Mathur 和 Avinash P，7 月 23 日（路透社）",
+      "original_title": "Wall St falls as tech earnings spark AI spending worries; oil hits $100",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-ease-big-111336570.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-07-23T16:23:39Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "935448ede50fbe37",

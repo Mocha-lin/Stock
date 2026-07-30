@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-30T14:58:43.182183+00:00
+> 更新時間：2026-07-30T16:23:41.182337+00:00
 
 ### 🚀 康寧押注 SiPh 和 CPO 推動人工智慧資料中心成長
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -19,15 +19,6 @@
 
 ---
 
-### 🚀 SK海力士的HBM悖論：DDR5激增為HBM4漲價建立槓桿
-- **題材**: `HBM記憶體` | **重要性**: `78`
-- **來源**: Digitimes (2026-07-28T03:33:35Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 人工智慧支出正在擴大內存升級週期，超越高頻寬內存，提高傳統 DRAM、NAND 快閃記憶體和企業級 SSD 的價格，同時重塑 SK 海力士和三星電子的盈利。
-- [原文連結](https://www.digitimes.com/news/a20260728VL205/hbm-sk-hynix-dram-ddr5-hbm4.html)
-
----
-
 ### ⚖️ 獨家：Rapidus在AI代工策略中將2nm晶片、HBM和先進封裝連結起來
 - **題材**: `半導體先進製程` | **重要性**: `73`
 - **來源**: Digitimes (2026-07-25T03:28:06Z)
@@ -43,6 +34,15 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Rapidus 正在擴大其北海道千歲代工廠周圍的半導體開發和生產網絡，增加晶片分析和先進封裝能力以及 2 奈米邏輯晶片的前端試驗線。
 - [原文連結](https://www.digitimes.com/news/a20260724VL210/rapidus-packaging-development-production-manufacturing.html)
+
+---
+
+### ⚠️ 英偉達員工涉嫌不斷升級的超微走私醜聞，但對英偉達硬體的需求只會增加
+- **題材**: `AI伺服器` | **重要性**: `72`
+- **來源**: Tom's Hardware UK (2026-07-29T15:10:06Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 一名英偉達員工涉嫌超微走私醜聞，他的家和辦公桌都被搜查。他因偽造和違反信任的指控而被拘留。與此同時，英偉達正在縮減其買家名單，以根除潛在的自鳴得意的人…
+- [原文連結](https://www.tomshardware.com/tech-industry/nvidia-employee-implicated-in-escalating-supermicro-smuggling-scandal-but-demand-only-intensifies-for-nvidia-hardware)
 
 ---
 
@@ -163,12 +163,12 @@
 
 ---
 
-### ⚖️ 美國授予 GlobalFoundries 3 億美元用於開發更快的 AI 晶片鏈路
+### ⚖️ 儘管光學成長 32%，康寧 (GLW) 仍暴跌 20%。 Coherent (COHR) 投資人該擔心嗎？
 - **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: The Times of India (2026-07-29T12:58:37Z)
+- **來源**: Yahoo Entertainment (2026-07-29T15:11:27Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 該獎項是唐納德·川普總統將《晶片法案》研究資金用於關鍵半導體技術的努力的一部分，因為華盛頓尋求加強其在與中國的全球競爭中的地位。
-- [原文連結](https://economictimes.indiatimes.com/tech/artificial-intelligence/us-to-award-globalfoundries-300-million-to-develop-faster-ai-chip-links/articleshow/132712854.cms)
+- **摘要**: 康寧公司（NYSE：GLW）在 7 月 28 日實現了光學業務的快速增長，但由於其指引未能達到目標，其股價下跌了 20% 以上...
+- [原文連結](https://finance.yahoo.com/markets/stocks/articles/corning-glw-crashed-20-despite-151127643.html)
 
 ---
 
