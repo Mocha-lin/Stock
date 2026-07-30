@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-30T06:19:19.616997+00:00
+> 更新時間：2026-07-30T11:07:58.997117+00:00
 
 ### 🚀 康寧押注 SiPh 和 CPO 推動人工智慧資料中心成長
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -37,21 +37,21 @@
 
 ---
 
+### 🚀 智慧手錶和眼鏡能否變得更聰明？高通和聯發科的新穿戴式人工智慧遊戲內部
+- **題材**: `半導體先進製程` | **重要性**: `70`
+- **來源**: TechRadar (2026-07-29T06:20:00Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 高通和聯發科的新型 3nm 晶片如何在不影響電池壽命的情況下為智慧手錶和眼鏡帶來設備端人工智慧。
+- [原文連結](https://www.techradar.com/pro/can-smartwatches-and-glasses-get-smarter-inside-qualcomm-and-mediateks-new-wearable-ai-play)
+
+---
+
 ### 🚀 天弘第二季財報電話會議亮點
 - **題材**: `光通訊與矽光子` | **重要性**: `70`
 - **來源**: MarketBeat (2026-07-28T13:03:01Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Celestica（NYSE：CLS）公佈的 2026 年第二季營收和調整後每股收益高於其指導上限，這得益於人工智慧侵權需求的支撐。
 - [原文連結](https://www.marketbeat.com/instant-alerts/celestica-q2-earnings-call-highlights-2026-07-28/?utm_source=yahoofinance&amp;utm_medium=yahoofinance)
-
----
-
-### 🚀 三星與博通簽署諒解備忘錄以加強人工智慧記憶體和代工合作
-- **題材**: `半導體先進製程` | **重要性**: `70`
-- **來源**: Verdict (2026-07-27T10:29:15Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 此次合作旨在加速下一代人工智慧基礎設施所需的半導體解決方案的開發和供應。
-- [原文連結](https://www.verdict.co.uk/samsung-broadcom-sign-mou/)
 
 ---
 
@@ -82,12 +82,39 @@
 
 ---
 
+### 🚀 隨著天然氣價格上漲，聯準會將發布利率決定
+- **題材**: `總體風險` | **重要性**: `65`
+- **來源**: Abcnews.com (2026-07-29T09:25:55Z)
+- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 伊朗戰爭在時斷時續的戰鬥中引發了通貨膨脹的死灰復燃。
+- [原文連結](https://abcnews.com/Business/fed-issue-interest-rate-decision-gas-prices-rise/story?id=135130446)
+
+---
+
+### 🚀 SK 海力士創紀錄的利潤未達到投資者對人工智慧的崇高期望
+- **題材**: `HBM記憶體` | **重要性**: `65`
+- **來源**: Yahoo Entertainment (2026-07-28T22:51:42Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: （彭博）—SK 海力士公司季度利潤成長 557%，低於預期，加劇了人們對推動半導體產業發展的人工智慧熱潮的擔憂。
+- [原文連結](https://finance.yahoo.com/technology/ai/articles/sk-hynixs-record-profit-misses-investors-lofty-ai-expectations-225142990.html)
+
+---
+
 ### ⚠️ Rivian 起訴美國政府要求退還關稅
 - **題材**: `總體風險` | **重要性**: `65`
 - **來源**: CNET (2026-07-27T23:26:06Z)
 - **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 這家電動車製造商表示，最高法院取消「解放日」關稅的裁決還不夠——它希望獲得保證的退款和利息。
 - [原文連結](https://www.cnet.com/home/electric-vehicles/rivian-sues-us-government-for-tariff-refund/)
+
+---
+
+### 🚀 三星與博通簽署諒解備忘錄以加強人工智慧記憶體和代工合作
+- **題材**: `半導體先進製程` | **重要性**: `65`
+- **來源**: Verdict (2026-07-27T10:29:15Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 此次合作旨在加速下一代人工智慧基礎設施所需的半導體解決方案的開發和供應。
+- [原文連結](https://www.verdict.co.uk/samsung-broadcom-sign-mou/)
 
 ---
 
@@ -118,66 +145,39 @@
 
 ---
 
+### ⚖️ 據報道，中國的 Moonshot AI 使用 Nvidia Blackwell 晶片來訓練 Kimi K3——該公司規避美國出口和中國進口管制來獲取運算能力
+- **題材**: `AI伺服器` | **重要性**: `62`
+- **來源**: Tom's Hardware UK (2026-07-29T10:00:00Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 據報道，Moonshot AI 使用 Nvidia Blackwell 晶片來訓練 Kimi K3——有可能規避美國的出口和中國的進口管制
+- [原文連結](https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-moonshot-ai-reportedly-used-nvidia-blackwell-chips-for-training-kimi-k3-company-circumvented-both-u-s-export-and-chinese-import-controls-to-acquire-compute)
+
+---
+
+### 🚀 SK海力士業績令人失望，韓國2兆美元股市暴跌打破紀錄
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-07-29T08:47:59Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 作者：Gregor Stuart Hunter、Rae Wee 和 Jihoon Lee 新加坡/首爾，7 月 29 日（路透社）
+- [原文連結](https://finance.yahoo.com/markets/stocks/articles/south-korea-2-trillion-stock-084759110.html)
+
+---
+
+### 🚀 Google Pixel 11 Pro 與 Pixel 10 Pro：您是否應該在 Pixel Pro 推出時將其升級到最新款？
+- **題材**: `半導體先進製程` | **重要性**: `60`
+- **來源**: Android Central (2026-07-29T08:26:46Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Pixel 11 Pro 即將發布，這促使我們調查 Pixel 10 Pro 用戶是否應該升級。
+- [原文連結](https://www.androidcentral.com/phones/google-pixel/google-pixel-11-pro-vs-pixel-10-pro)
+
+---
+
 ### 🚀 8000 英里 2016 年保時捷 Boxster GTS
 - **題材**: `光通訊與矽光子` | **重要性**: `60`
 - **來源**: Bringatrailer.com (2026-07-28T18:49:52Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 這輛 2016 年保時捷 Boxster GTS 最初交付給南卡羅來納州格林維爾的保時捷，目前在該州的註冊歷史已達到 8,000 英里。該車搭載 3.4 升水平對臥六缸發動機，搭配七速 PDK 雙離合器自動變速箱。
 - [原文連結](https://bringatrailer.com/listing/2016-porsche-boxster-gts-11/)
-
----
-
-### 🚀 AMD 的 Helios 在機架層級的記憶體和運算方面擊敗了 Nvidia——前提是你在 GPU 層級上進行運算
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: TechRadar (2026-07-28T14:38:52Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: AMD 表示，Helios 在四個指標上擊敗了 Nvidia 的 Vera Rubin，但記憶體方面的優勢是機架級的且可驗證的，而 15% 的 FP4 優勢是針對每個 GPU 的，儘管 Nvidia 在機架級計算方面處於領先地位。
-- [原文連結](https://www.techradar.com/pro/amds-helios-beats-nvidia-on-memory-at-rack-level-and-on-compute-only-if-you-count-it-at-the-gpu-level)
-
----
-
-### ⚠️ 據報道，台灣檢方在中國人工智慧晶片走私調查中拘留了英偉達員工
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: Forbes (2026-07-28T09:50:16Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 今年早些時候，美國司法部逮捕了人工智慧伺服器製造商超微公司的聯合創始人，罪名是涉嫌向中國走私英偉達的先進人工智慧晶片。
-- [原文連結](https://www.forbes.com/sites/siladityaray/2026/07/28/taiwan-prosecutors-reportedly-detain-nvidia-staffer-in-china-ai-chip-smuggling-probe/)
-
----
-
-### ⚖️ 像 100 億太陽一樣熾熱：NASA 的 Swift 觀測到一個正在吞噬恆星的徘徊黑洞
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: Science Daily (2026-07-28T05:54:39Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 美國太空總署的斯威夫特天文台觀察到一個超大質量黑洞撕裂了距離遙遠星系中心 3 萬多光年的一顆恆星。這種非凡的耀斑在紫外光下短暫地超越了整個宿主星系，並揭示了一個黑洞...
-- [原文連結](https://www.sciencedaily.com/releases/2026/07/260727214609.htm)
-
----
-
-### ⚖️ AMD 的 Venice 是首款 2nm x86 伺服器晶片，但該堆疊要到 2027 年才能完全發貨
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: TechRadar (2026-07-27T21:40:00Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: AMD 的 Zen 6 Venice EPYC 是一款 2nm、256 核心、512 線程的主宰產品，它在 Nvidia 進軍資料中心 CPU 市場的同時發揮作用。
-- [原文連結](https://www.techradar.com/pro/amds-venice-is-the-first-2nm-x86-server-chip-but-the-stack-doesnt-fully-ship-until-2027)
-
----
-
-### 🚀 受蘋果追捧的晶片製造商上市首秀飆升並短暫成為中國最有價值公司
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: Forbes (2026-07-27T09:50:51Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 長鑫儲存是中國最大的記憶體晶片製造商，其上市之際，人工智慧驅動的需求熱潮推高了其競爭對手美光、三星和SK海力士的股價。
-- [原文連結](https://www.forbes.com/sites/siladityaray/2026/07/27/chipmaker-courted-by-apple-soars-on-market-debut-and-briefly-becomes-chinas-most-valuable-company/)
-
----
-
-### ⚠️ 美伊和平樂觀情緒提振風險情緒，歐洲股市上漲
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-07-27T09:20:27Z)
-- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 作者：Tharuniyaa Lakshmi 和 Purvi Agarwal 7 月 27 日（路透社）
-- [原文連結](https://finance.yahoo.com/markets/world-indices/articles/european-shares-gain-us-iran-092027730.html)
 
 ---
 
