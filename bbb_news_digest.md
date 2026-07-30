@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-30T11:07:58.997117+00:00
+> 更新時間：2026-07-30T14:58:43.182183+00:00
 
 ### 🚀 康寧押注 SiPh 和 CPO 推動人工智慧資料中心成長
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -7,6 +7,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 康寧預計人工智慧基礎設施將成為日益強大的成長引擎，概述了其玻璃技術將如何超越傳統光纖，進入矽光子學 (SiPh) 和共封裝光學 (CPO) 領域，用於下一代人工智慧資料中心…
 - [原文連結](https://www.digitimes.com/news/a20260729VL213/corning-siph-growth-cpo-photonics.html)
+
+---
+
+### 🚀 SK 海力士第二季創紀錄的 420 億美元利潤是否只是證明記憶體繁榮已經破滅？
+- **題材**: `HBM記憶體` | **重要性**: `80`
+- **來源**: 24/7 Wall St. (2026-07-29T12:00:40Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: SK 海力士剛剛公佈了晶片製造商多年來最爆炸性的利潤增長，但投資者的反應是以低於 IPO 價格的價格出售該股票。這...
+- [原文連結](https://247wallst.com/investing/2026/07/29/did-sk-hynixs-record-42-billion-q2-profit-just-prove-the-memory-boom-went-bust/)
 
 ---
 
@@ -64,6 +73,15 @@
 
 ---
 
+### ⚖️ 聯想北卡羅來納州人工智慧伺服器生產線擴建內部參觀—中國公司擴大美國本土生產以滿足爆炸性需求
+- **題材**: `AI伺服器` | **重要性**: `67`
+- **來源**: Tom's Hardware UK (2026-07-29T14:27:06Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 聯想正在滿足對國產伺服器的需求，以推動人工智慧的繁榮。
+- [原文連結](https://www.tomshardware.com/laptops/an-inside-tour-of-lenovos-north-carolina-ai-server-manufacturing-line-expansion-chinese-firm-expanding-us-native-production-to-meet-exploding-demand)
+
+---
+
 ### ⚖️ MSI 和七彩虹將 Nvidia RTX 50 系列在中國的整個產品線價格提高了 59%——分銷商定價的變化表明 GPU 價格即將上漲
 - **題材**: `AI伺服器` | **重要性**: `67`
 - **來源**: Tom's Hardware UK (2026-07-27T19:47:49Z)
@@ -118,15 +136,6 @@
 
 ---
 
-### ⚖️ 中國 RAM 公司長鑫儲存 (CXMT) 首次上市，市值 4,840 億美元
-- **題材**: `HBM記憶體` | **重要性**: `63`
-- **來源**: The Verge (2026-07-27T14:27:57Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 根據《華爾街日報》和 CNBC 早些時候報道，中國儲存公司長鑫儲存科技 (CXMT) 在上海證券交易所上市首日表現強勁，其股價飆升 466%。股市狂潮推升長鑫儲存估值
-- [原文連結](https://www.theverge.com/tech/971358/cxmt-china-ram-stock-market-debut)
-
----
-
 ### ⚖️ WAIC 2026：Lightelligence 透過 CPO、NPO、光子運算描繪 AI 的光學未來
 - **題材**: `光通訊與矽光子` | **重要性**: `63`
 - **來源**: Digitimes (2026-07-23T02:44:50Z)
@@ -154,30 +163,21 @@
 
 ---
 
+### ⚖️ 美國授予 GlobalFoundries 3 億美元用於開發更快的 AI 晶片鏈路
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: The Times of India (2026-07-29T12:58:37Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 該獎項是唐納德·川普總統將《晶片法案》研究資金用於關鍵半導體技術的努力的一部分，因為華盛頓尋求加強其在與中國的全球競爭中的地位。
+- [原文連結](https://economictimes.indiatimes.com/tech/artificial-intelligence/us-to-award-globalfoundries-300-million-to-develop-faster-ai-chip-links/articleshow/132712854.cms)
+
+---
+
 ### 🚀 SK海力士業績令人失望，韓國2兆美元股市暴跌打破紀錄
 - **題材**: `HBM記憶體` | **重要性**: `60`
 - **來源**: Yahoo Entertainment (2026-07-29T08:47:59Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 作者：Gregor Stuart Hunter、Rae Wee 和 Jihoon Lee 新加坡/首爾，7 月 29 日（路透社）
 - [原文連結](https://finance.yahoo.com/markets/stocks/articles/south-korea-2-trillion-stock-084759110.html)
-
----
-
-### 🚀 Google Pixel 11 Pro 與 Pixel 10 Pro：您是否應該在 Pixel Pro 推出時將其升級到最新款？
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: Android Central (2026-07-29T08:26:46Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Pixel 11 Pro 即將發布，這促使我們調查 Pixel 10 Pro 用戶是否應該升級。
-- [原文連結](https://www.androidcentral.com/phones/google-pixel/google-pixel-11-pro-vs-pixel-10-pro)
-
----
-
-### 🚀 8000 英里 2016 年保時捷 Boxster GTS
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: Bringatrailer.com (2026-07-28T18:49:52Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 這輛 2016 年保時捷 Boxster GTS 最初交付給南卡羅來納州格林維爾的保時捷，目前在該州的註冊歷史已達到 8,000 英里。該車搭載 3.4 升水平對臥六缸發動機，搭配七速 PDK 雙離合器自動變速箱。
-- [原文連結](https://bringatrailer.com/listing/2016-porsche-boxster-gts-11/)
 
 ---
 
