@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-30T16:23:41.182337+00:00
+> 更新時間：2026-07-30T18:07:14.045770+00:00
 
 ### 🚀 康寧押注 SiPh 和 CPO 推動人工智慧資料中心成長
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -91,15 +91,6 @@
 
 ---
 
-### ⚖️ AMD 揭開了 Instinct MI455X AI 加速器的面紗——CDNA 5 和 Helios 機架級架構相結合，在資料中心與 Nvidia 競爭
-- **題材**: `AI伺服器` | **重要性**: `67`
-- **來源**: Tom's Hardware UK (2026-07-23T18:05:44Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: AMD在Advancing AI 2026活動上展示了MI455X加速器，展示了其強大的競爭性能、大HBM內存容量和Helios機架規模架構。
-- [原文連結](https://www.tomshardware.com/pc-components/gpus/amd-takes-the-wraps-off-its-instinct-mi455x-ai-accelerator-cdna-5-and-helios-rack-scale-architecture-combine-to-take-the-fight-to-nvidia-in-the-data-center)
-
----
-
 ### 🚀 隨著天然氣價格上漲，聯準會將發布利率決定
 - **題材**: `總體風險` | **重要性**: `65`
 - **來源**: Abcnews.com (2026-07-29T09:25:55Z)
@@ -163,21 +154,30 @@
 
 ---
 
+### ⚖️ AMD 揭開了 Instinct MI455X AI 加速器的面紗——CDNA 5 和 Helios 機架級架構相結合，在資料中心與 Nvidia 競爭
+- **題材**: `AI伺服器` | **重要性**: `62`
+- **來源**: Tom's Hardware UK (2026-07-23T18:05:44Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: AMD在Advancing AI 2026活動上展示了MI455X加速器，展示了其強大的競爭性能、大HBM內存容量和Helios機架規模架構。
+- [原文連結](https://www.tomshardware.com/pc-components/gpus/amd-takes-the-wraps-off-its-instinct-mi455x-ai-accelerator-cdna-5-and-helios-rack-scale-architecture-combine-to-take-the-fight-to-nvidia-in-the-data-center)
+
+---
+
+### 🚀 川普誓言對伊朗攻擊進行報復後油價飆升
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Abcnews.com (2026-07-29T17:21:57Z)
+- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 週三全球油價上漲 7%，突破每桶 90 美元。
+- [原文連結](https://abcnews.com/Business/oil-prices-surge-after-trump-vows-retaliation-iranian/story?id=135185546)
+
+---
+
 ### ⚖️ 儘管光學成長 32%，康寧 (GLW) 仍暴跌 20%。 Coherent (COHR) 投資人該擔心嗎？
 - **題材**: `光通訊與矽光子` | **重要性**: `60`
 - **來源**: Yahoo Entertainment (2026-07-29T15:11:27Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 康寧公司（NYSE：GLW）在 7 月 28 日實現了光學業務的快速增長，但由於其指引未能達到目標，其股價下跌了 20% 以上...
 - [原文連結](https://finance.yahoo.com/markets/stocks/articles/corning-glw-crashed-20-despite-151127643.html)
-
----
-
-### 🚀 SK海力士業績令人失望，韓國2兆美元股市暴跌打破紀錄
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-07-29T08:47:59Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 作者：Gregor Stuart Hunter、Rae Wee 和 Jihoon Lee 新加坡/首爾，7 月 29 日（路透社）
-- [原文連結](https://finance.yahoo.com/markets/stocks/articles/south-korea-2-trillion-stock-084759110.html)
 
 ---
 
