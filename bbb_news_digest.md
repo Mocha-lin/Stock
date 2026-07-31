@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-31T07:20:29.695973+00:00
+> 更新時間：2026-07-31T11:28:45.694273+00:00
 
 ### 🚀 康寧押注 SiPh 和 CPO 推動人工智慧資料中心成長
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -16,6 +16,15 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: SK 海力士剛剛公佈了晶片製造商多年來最爆炸性的利潤增長，但投資者的反應是以低於 IPO 價格的價格出售該股票。這...
 - [原文連結](https://247wallst.com/investing/2026/07/29/did-sk-hynixs-record-42-billion-q2-profit-just-prove-the-memory-boom-went-bust/)
+
+---
+
+### 🚀 隨著人工智慧需求不斷增長，韓國晶片出口越來越多地流向台灣，由台積電封裝
+- **題材**: `半導體先進製程` | **重要性**: `78`
+- **來源**: Digitimes (2026-07-30T08:52:00Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 對人工智慧晶片不斷增長的需求正在將韓國半導體出口的更大份額推向台灣，韓國製造的高頻寬記憶體（HBM）進入了由台積電主導的先進封裝製程。
+- [原文連結](https://www.digitimes.com/news/a20260730VL232/chips-taiwan-demand-packaging-tsmc.html)
 
 ---
 
@@ -91,6 +100,24 @@
 
 ---
 
+### ⚖️ RAM製造商僅賺550億美元就遭受股市重創
+- **題材**: `HBM記憶體` | **重要性**: `65`
+- **來源**: Kotaku (2026-07-30T11:13:16Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: SK海力士被迫在2026年第二季財報中解釋為何其利潤僅比冰島全國GDP多100億美元
+- [原文連結](https://kotaku.com/ram-manufacturer-gets-pummeled-by-stock-market-for-only-making-55-billion-2000720432)
+
+---
+
+### ⚖️ 矽光子學如何照亮資料中心的道路
+- **題材**: `光通訊與矽光子` | **重要性**: `65`
+- **來源**: TechRadar (2026-07-30T10:20:56Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 隨著人工智慧為資料中心基礎設施帶來壓力，矽光子學希望提供更快、更節能的運算。
+- [原文連結](https://www.techradar.com/pro/how-silicon-photonics-lights-the-way-for-data-centers)
+
+---
+
 ### ⚖️ SpaceX 正在改進 220K GPU 模組化人工智慧資料中心
 - **題材**: `光通訊與矽光子` | **重要性**: `65`
 - **來源**: Next Big Future (2026-07-30T01:27:37Z)
@@ -151,33 +178,6 @@
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 據報道，Moonshot AI 使用 Nvidia Blackwell 晶片來訓練 Kimi K3——有可能規避美國的出口和中國的進口管制
 - [原文連結](https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-moonshot-ai-reportedly-used-nvidia-blackwell-chips-for-training-kimi-k3-company-circumvented-both-u-s-export-and-chinese-import-controls-to-acquire-compute)
-
----
-
-### ⚖️ MSI 和七彩虹將 Nvidia RTX 50 系列在中國的整個產品線價格提高了 59%——分銷商定價的變化表明 GPU 價格即將上漲
-- **題材**: `AI伺服器` | **重要性**: `62`
-- **來源**: Tom's Hardware UK (2026-07-27T19:47:49Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 隨著中國官方經銷商宣布一夜之間增加整個 Blackwell 產品線，GPU 價格似乎再次上漲。與建議零售價相比，我們看到高端價格大幅上漲了 75%。
-- [原文連結](https://www.tomshardware.com/pc-components/gpus/msi-and-colorful-raise-nvidia-rtx-50-series-prices-in-china-by-up-to-59-percent-across-the-entire-lineup-change-in-distributer-pricing-suggests-gpu-price-hikes-are-on-the-way)
-
----
-
-### 🚀 The Future of Tech Is Owning Nothing
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: Gizmodo.com (2026-07-29T20:50:45Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Apple’s lease program is just the beginning.
-- [原文連結](https://gizmodo.com/the-future-of-tech-is-owning-nothing-2000792593)
-
----
-
-### 🚀 川普誓言對伊朗攻擊進行報復後油價飆升
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Abcnews.com (2026-07-29T17:21:57Z)
-- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 週三全球油價上漲 7%，突破每桶 90 美元。
-- [原文連結](https://abcnews.com/Business/oil-prices-surge-after-trump-vows-retaliation-iranian/story?id=135185546)
 
 ---
 

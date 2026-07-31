@@ -1,9 +1,9 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-07-31T07:20:29.695973+00:00",
+  "generated_at": "2026-07-31T11:28:45.694273+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
-  "total_count": 72,
+  "total_count": 73,
   "items": [
     {
       "id": "2e16bf4a6f790638",
@@ -77,6 +77,44 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
+      "id": "7f309d16c0863efb",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "隨著人工智慧需求不斷增長，韓國晶片出口越來越多地流向台灣，由台積電封裝",
+      "summary": "對人工智慧晶片不斷增長的需求正在將韓國半導體出口的更大份額推向台灣，韓國製造的高頻寬記憶體（HBM）進入了由台積電主導的先進封裝製程。",
+      "original_title": "South Korean chip exports increasingly flow to Taiwan for TSMC packaging amid rising AI demand",
+      "url": "https://www.digitimes.com/news/a20260730VL232/chips-taiwan-demand-packaging-tsmc.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-07-30T08:52:00Z",
+      "importance": 78,
+      "impact": "positive",
+      "timeframe": "short_to_mid_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "a846a5ba5755675a",
@@ -381,6 +419,79 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "653544a0a90a44bd",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "RAM製造商僅賺550億美元就遭受股市重創",
+      "summary": "SK海力士被迫在2026年第二季財報中解釋為何其利潤僅比冰島全國GDP多100億美元",
+      "original_title": "RAM Manufacturer Gets Pummeled By Stock Market For Only Making $55 Billion",
+      "url": "https://kotaku.com/ram-manufacturer-gets-pummeled-by-stock-market-for-only-making-55-billion-2000720432",
+      "source": "Kotaku",
+      "domain": "kotaku.com",
+      "published_at": "2026-07-30T11:13:16Z",
+      "importance": 65,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "1ed2cc0b2972fd89",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "矽光子學如何照亮資料中心的道路",
+      "summary": "隨著人工智慧為資料中心基礎設施帶來壓力，矽光子學希望提供更快、更節能的運算。",
+      "original_title": "How silicon photonics lights the way for data centers",
+      "url": "https://www.techradar.com/pro/how-silicon-photonics-lights-the-way-for-data-centers",
+      "source": "TechRadar",
+      "domain": "techradar.com",
+      "published_at": "2026-07-30T10:20:56Z",
+      "importance": 65,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "132fc27b39eb51c0",
@@ -833,7 +944,7 @@
       "id": "c0c725b4dc704822",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
+      "theme": "HBM記憶體",
       "title": "SK海力士業績令人失望，韓國2兆美元股市暴跌打破紀錄",
       "summary": "作者：Gregor Stuart Hunter、Rae Wee 和 Jihoon Lee 新加坡/首爾，7 月 29 日（路透社）",
       "original_title": "South Korea $2 trillion stock rout breaks records as SK Hynix results disappoint",
@@ -845,17 +956,14 @@
       "impact": "positive",
       "timeframe": "short_term",
       "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
+        "HBM",
+        "記憶體"
       ],
       "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
       ],
       "related_models": [
         "003",
@@ -865,7 +973,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "559ad39a1a8a8e87",
@@ -982,44 +1090,6 @@
       "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "e6c1a26d8060199e",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "據報道，台灣檢方在中國人工智慧晶片走私調查中拘留了英偉達員工",
-      "summary": "今年早些時候，美國司法部逮捕了人工智慧伺服器製造商超微公司的聯合創始人，罪名是涉嫌向中國走私英偉達的先進人工智慧晶片。",
-      "original_title": "Taiwan Prosecutors Reportedly Detain Nvidia Staffer In China AI Chip Smuggling Probe",
-      "url": "https://www.forbes.com/sites/siladityaray/2026/07/28/taiwan-prosecutors-reportedly-detain-nvidia-staffer-in-china-ai-chip-smuggling-probe/",
-      "source": "Forbes",
-      "domain": "forbes.com",
-      "published_at": "2026-07-28T09:50:16Z",
-      "importance": 60,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "8a7c0a6bb30bdca0",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1096,41 +1166,6 @@
       "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "6f9268f057d0c050",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "SK 海力士億萬富翁被判支付 6.45 億美元離婚和解金——韓國有史以來金額最大的離婚賠償金",
-      "summary": "法院裁定，SK集團會長崔泰源對其持有的部分SK股份擁有正當權利。",
-      "original_title": "SK Hynix Billionaire Ordered To Pay $645 Million Divorce Settlement—Korea’s Largest Ever",
-      "url": "https://www.forbes.com/sites/siladityaray/2026/07/24/sk-hynix-billionaire-ordered-to-pay-645-million-divorce-settlement-koreas-largest-ever/",
-      "source": "Forbes",
-      "domain": "forbes.com",
-      "published_at": "2026-07-24T10:40:56Z",
-      "importance": 60,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "1de7b779ff384c4c",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1164,6 +1199,120 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "8e11ed341758c93f",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "iPhone 18 Pro：蘋果下一代旗艦將有十二項變化",
+      "summary": "距離蘋果高階下一代智慧型手機系列的發布還有不到兩個月的時間，雖然我們預計功能方面不會發生巨大變化，但仍有傳言稱 iPhone 18 Pro 將會有一些增強功能，並且…",
+      "original_title": "iPhone 18 Pro: Twelve Changes Coming to Apple's Next Flagship",
+      "url": "https://www.macrumors.com/2026/07/30/reasons-to-wait-iphone-18-pro/",
+      "source": "MacRumors",
+      "domain": "macrumors.com",
+      "published_at": "2026-07-30T10:43:11Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "2c68faccbe648b7e",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "無論你做什麼，現在都不要買 Google Pixel 手機",
+      "summary": "Google Pixel 系列是最好的 Android 系列之一。但在 2026 年的這個時候，你真的不應該買 Pixel。原因如下。",
+      "original_title": "Whatever you do, don’t buy a Google Pixel phone right now",
+      "url": "https://www.androidauthority.com/dont-buy-google-pixel-10-right-now-why-3691510/",
+      "source": "Android Authority",
+      "domain": "androidauthority.com",
+      "published_at": "2026-07-30T10:00:47Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "8dbd952646073a02",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Tinder 暫停人工智慧照片編輯工具，因一名女子被它嚇跑了",
+      "summary": "約會應用程式 Tinder 暫停了一款人工智慧照片增強工具，因為該工具開始自動編輯用戶的照片並讓人們感到不安。\n[閱讀更多]",
+      "original_title": "Tinder Pauses AI Photo Editing Tool After Woman Creeped Out By It",
+      "url": "https://petapixel.com/2026/07/30/tinder-pauses-ai-photo-editing-tool-after-woman-creeped-out-by-it/",
+      "source": "PetaPixel",
+      "domain": "petapixel.com",
+      "published_at": "2026-07-30T08:07:20Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "66074ebd569af6ee",
@@ -1202,44 +1351,6 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "680e79fe81b0df42",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "地震導致索尼熊本感測器工廠停工，富士軟片和台積電撤離",
-      "summary": "7 月 28 日，日本南部發生了 7.1 級地震，迫使影像感測器生產領域的三大巨頭進行疏散。此後，索尼確認其最大的感測器工廠仍停止生產，同時檢查現場是否有損壞…",
-      "original_title": "Earthquake Halts Sony's Kumamoto Sensor Plant as Fujifilm and TSMC Evacuate",
-      "url": "https://fstoppers.com/news/earthquake-halts-sonys-kumamoto-sensor-plant-fujifilm-and-tsmc-evacuate-903769",
-      "source": "Fstoppers",
-      "domain": "fstoppers.com",
-      "published_at": "2026-07-30T01:05:19Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "15d9069435eb38b9",
@@ -1502,19 +1613,19 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "71f90df1171a7dd3",
+      "id": "e6c1a26d8060199e",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "AI伺服器",
-      "title": "如果我們想保護天文學，天空中的衛星不超過 10 萬顆",
-      "summary": "一位天文學家聲稱，現有的 170 萬顆衛星（包括極其明亮的衛星）的提議將對人類的宇宙觀產生「毀滅性的後果」。\n[閱讀更多]",
-      "original_title": "No More Than 100,000 Satellites in the Sky if We Want to Preserve Astronomy",
-      "url": "https://petapixel.com/2026/07/28/no-more-than-100000-satellites-in-the-sky-if-we-want-to-preserve-astronomy/",
-      "source": "PetaPixel",
-      "domain": "petapixel.com",
-      "published_at": "2026-07-28T13:33:43Z",
+      "title": "據報道，台灣檢方在中國人工智慧晶片走私調查中拘留了英偉達員工",
+      "summary": "今年早些時候，美國司法部逮捕了人工智慧伺服器製造商超微公司的聯合創始人，罪名是涉嫌向中國走私英偉達的先進人工智慧晶片。",
+      "original_title": "Taiwan Prosecutors Reportedly Detain Nvidia Staffer In China AI Chip Smuggling Probe",
+      "url": "https://www.forbes.com/sites/siladityaray/2026/07/28/taiwan-prosecutors-reportedly-detain-nvidia-staffer-in-china-ai-chip-smuggling-probe/",
+      "source": "Forbes",
+      "domain": "forbes.com",
+      "published_at": "2026-07-28T09:50:16Z",
       "importance": 55,
-      "impact": "neutral",
+      "impact": "negative",
       "timeframe": "short_term",
       "tags": [
         "AI",
@@ -1537,77 +1648,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "174252cfaa932814",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "戴森 V16 活塞動物潛水艇評測：功能強大但價格昂貴",
-      "summary": "Dyson V16 活塞動物功能強大，具有大量功能，但它不是我用我辛苦賺來的錢購買的戴森。",
-      "original_title": "Dyson V16 Piston Animal Submarine Review: Powerful but Pricey",
-      "url": "https://www.wired.com/review/dyson-v16-piston-animal-submarine/",
-      "source": "Wired",
-      "domain": "wired.com",
-      "published_at": "2026-07-28T09:31:00Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "994fa83befda68c4",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "三星的晶片工人正在跳槽到競爭對手 SK 海力士",
-      "summary": "三星半導體部門的工程師李在下班時打卡下班。他過去常常工作更長的時間，加倍努力以出色地完成他的專案。但最近，他直接回家準備晶片製造商 So 的工作申請。",
-      "original_title": "Samsung’s chip workers are jumping ship to rival SK Hynix",
-      "url": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
-      "source": "MIT Technology Review",
-      "domain": "technologyreview.com",
-      "published_at": "2026-07-28T09:18:57Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "cd020f53c8f97132",
@@ -1684,44 +1725,6 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "7a904f25a99d72ed",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "AMD 的 Venice 是首款 2nm x86 伺服器晶片，但該堆疊要到 2027 年才能完全發貨",
-      "summary": "AMD 的 Zen 6 Venice EPYC 是一款 2nm、256 核心、512 線程的主宰產品，它在 Nvidia 進軍資料中心 CPU 市場的同時發揮作用。",
-      "original_title": "AMD's Venice is the first 2nm x86 server chip, but the stack doesn't fully ship until 2027",
-      "url": "https://www.techradar.com/pro/amds-venice-is-the-first-2nm-x86-server-chip-but-the-stack-doesnt-fully-ship-until-2027",
-      "source": "TechRadar",
-      "domain": "techradar.com",
-      "published_at": "2026-07-27T21:40:00Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "619d2cf6c647ae1a",
@@ -1987,6 +1990,41 @@
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "6f9268f057d0c050",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "SK 海力士億萬富翁被判支付 6.45 億美元離婚和解金——韓國有史以來金額最大的離婚賠償金",
+      "summary": "法院裁定，SK集團會長崔泰源對其持有的部分SK股份擁有正當權利。",
+      "original_title": "SK Hynix Billionaire Ordered To Pay $645 Million Divorce Settlement—Korea’s Largest Ever",
+      "url": "https://www.forbes.com/sites/siladityaray/2026/07/24/sk-hynix-billionaire-ordered-to-pay-645-million-divorce-settlement-koreas-largest-ever/",
+      "source": "Forbes",
+      "domain": "forbes.com",
+      "published_at": "2026-07-24T10:40:56Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "932a22ff019ddee9",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2023,6 +2061,76 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "174252cfaa932814",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "戴森 V16 活塞動物潛水艇評測：功能強大但價格昂貴",
+      "summary": "Dyson V16 活塞動物功能強大，具有大量功能，但它不是我用我辛苦賺來的錢購買的戴森。",
+      "original_title": "Dyson V16 Piston Animal Submarine Review: Powerful but Pricey",
+      "url": "https://www.wired.com/review/dyson-v16-piston-animal-submarine/",
+      "source": "Wired",
+      "domain": "wired.com",
+      "published_at": "2026-07-28T09:31:00Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "994fa83befda68c4",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "三星的晶片工人正在跳槽到競爭對手 SK 海力士",
+      "summary": "三星半導體部門的工程師李在下班時打卡下班。他過去常常工作更長的時間，加倍努力以出色地完成他的專案。但最近，他直接回家準備晶片製造商 So 的工作申請。",
+      "original_title": "Samsung’s chip workers are jumping ship to rival SK Hynix",
+      "url": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
+      "source": "MIT Technology Review",
+      "domain": "technologyreview.com",
+      "published_at": "2026-07-28T09:18:57Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "0c85a8a7937ab436",
@@ -2513,79 +2621,6 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "f002710ee67a3612",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "報告：蘋果和美光在川普面前就中國記憶體晶片發生衝突",
-      "summary": "根據《華爾街日報》報道，美光科技正在向川普政府施壓，要求其阻止蘋果公司使用中國供應商的記憶體晶片。以下是詳細資訊。",
-      "original_title": "Report: Apple and Micron clash before Trump over Chinese memory chips",
-      "url": "https://9to5mac.com/2026/07/24/report-apple-and-micron-clash-before-trump-over-chinese-memory-chips/",
-      "source": "9to5Mac",
-      "domain": "9to5mac.com",
-      "published_at": "2026-07-25T02:03:00Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "66caf62d041f65d9",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "Anthropic 是 ETF 發行人的新 SpaceX",
-      "summary": "推出三週後，一家光子基金在 IPO 之前將其 12% 的資產投入 Anthropic。",
-      "original_title": "Anthropic Is the New SpaceX for ETF Issuers",
-      "url": "http://www.etf.com/sections/features/anthropic-new-spacex-etf-issuers?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
-      "source": "Etf.com",
-      "domain": "etf.com",
-      "published_at": "2026-07-24T23:49:23Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "5f58b8f706478abd",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2673,7 +2708,7 @@
       "source": "Scientific American",
       "domain": "scientificamerican.com",
       "published_at": "2026-07-24T10:45:00Z",
-      "importance": 50,
+      "importance": 45,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -2697,7 +2732,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「AI伺服器」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     }
   ]
 }
