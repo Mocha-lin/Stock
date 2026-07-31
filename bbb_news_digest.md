@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-31T11:28:45.694273+00:00
+> 更新時間：2026-07-31T15:11:44.243631+00:00
 
 ### 🚀 康寧押注 SiPh 和 CPO 推動人工智慧資料中心成長
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -46,6 +46,15 @@
 
 ---
 
+### ⚖️ 分析師稱，到 2028 年，谷歌可能會製造出比 Nvidia 銷量還要多的人工智慧加速器，這可能會促使該公司使用英特爾代工來實現其目標
+- **題材**: `半導體先進製程` | **重要性**: `72`
+- **來源**: Tom's Hardware UK (2026-07-30T14:35:50Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 如果富邦研究院的報告準確的話，谷歌計劃在 2028 年建造比 Nvidia 更多的 TPU AI 加速器。
+- [原文連結](https://www.tomshardware.com/tech-industry/artificial-intelligence/google-could-build-more-ai-accelerators-than-nvidia-sells-in-2028-analyst-claims-could-push-the-company-to-use-intel-foundry-to-meet-its-goals)
+
+---
+
 ### ⚠️ 英偉達員工涉嫌不斷升級的超微走私醜聞，但對英偉達硬體的需求只會增加
 - **題材**: `AI伺服器` | **重要性**: `72`
 - **來源**: Tom's Hardware UK (2026-07-29T15:10:06Z)
@@ -61,15 +70,6 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 高通和聯發科的新型 3nm 晶片如何在不影響電池壽命的情況下為智慧手錶和眼鏡帶來設備端人工智慧。
 - [原文連結](https://www.techradar.com/pro/can-smartwatches-and-glasses-get-smarter-inside-qualcomm-and-mediateks-new-wearable-ai-play)
-
----
-
-### 🚀 天弘第二季財報電話會議亮點
-- **題材**: `光通訊與矽光子` | **重要性**: `70`
-- **來源**: MarketBeat (2026-07-28T13:03:01Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Celestica（NYSE：CLS）公佈的 2026 年第二季營收和調整後每股收益高於其指導上限，這得益於人工智慧侵權需求的支撐。
-- [原文連結](https://www.marketbeat.com/instant-alerts/celestica-q2-earnings-call-highlights-2026-07-28/?utm_source=yahoofinance&amp;utm_medium=yahoofinance)
 
 ---
 
@@ -154,6 +154,15 @@
 
 ---
 
+### 🚀 天弘第二季財報電話會議亮點
+- **題材**: `光通訊與矽光子` | **重要性**: `65`
+- **來源**: MarketBeat (2026-07-28T13:03:01Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Celestica（NYSE：CLS）公佈的 2026 年第二季營收和調整後每股收益高於其指導上限，這得益於人工智慧侵權需求的支撐。
+- [原文連結](https://www.marketbeat.com/instant-alerts/celestica-q2-earnings-call-highlights-2026-07-28/?utm_source=yahoofinance&amp;utm_medium=yahoofinance)
+
+---
+
 ### 🚀 三星與博通簽署諒解備忘錄以加強人工智慧記憶體和代工合作
 - **題材**: `半導體先進製程` | **重要性**: `65`
 - **來源**: Verdict (2026-07-27T10:29:15Z)
@@ -169,15 +178,6 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 感謝人工智慧（可能還有川普），英特爾起死回生。
 - [原文連結](https://gizmodo.com/ai-hype-delivers-intel-its-fastest-revenue-growth-in-15-years-2000790071)
-
----
-
-### ⚖️ 據報道，中國的 Moonshot AI 使用 Nvidia Blackwell 晶片來訓練 Kimi K3——該公司規避美國出口和中國進口管制來獲取運算能力
-- **題材**: `AI伺服器` | **重要性**: `62`
-- **來源**: Tom's Hardware UK (2026-07-29T10:00:00Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 據報道，Moonshot AI 使用 Nvidia Blackwell 晶片來訓練 Kimi K3——有可能規避美國的出口和中國的進口管制
-- [原文連結](https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-moonshot-ai-reportedly-used-nvidia-blackwell-chips-for-training-kimi-k3-company-circumvented-both-u-s-export-and-chinese-import-controls-to-acquire-compute)
 
 ---
 

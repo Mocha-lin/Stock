@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-07-31T11:28:45.694273+00:00",
+  "generated_at": "2026-07-31T15:11:44.243631+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 73,
@@ -193,6 +193,44 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
+      "id": "555fdf9ab11a5454",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "分析師稱，到 2028 年，谷歌可能會製造出比 Nvidia 銷量還要多的人工智慧加速器，這可能會促使該公司使用英特爾代工來實現其目標",
+      "summary": "如果富邦研究院的報告準確的話，谷歌計劃在 2028 年建造比 Nvidia 更多的 TPU AI 加速器。",
+      "original_title": "Google could build more AI accelerators than Nvidia sells in 2028, analyst claims — could push the company to use Intel Foundry to meet its goals",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-could-build-more-ai-accelerators-than-nvidia-sells-in-2028-analyst-claims-could-push-the-company-to-use-intel-foundry-to-meet-its-goals",
+      "source": "Tom's Hardware UK",
+      "domain": "tomshardware.com",
+      "published_at": "2026-07-30T14:35:50Z",
+      "importance": 72,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
       "id": "50587c89196483d2",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -267,44 +305,6 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
-      "id": "6e1286e2e332c080",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "天弘第二季財報電話會議亮點",
-      "summary": "Celestica（NYSE：CLS）公佈的 2026 年第二季營收和調整後每股收益高於其指導上限，這得益於人工智慧侵權需求的支撐。",
-      "original_title": "Celestica Q2 Earnings Call Highlights",
-      "url": "https://www.marketbeat.com/instant-alerts/celestica-q2-earnings-call-highlights-2026-07-28/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
-      "source": "MarketBeat",
-      "domain": "marketbeat.com",
-      "published_at": "2026-07-28T13:03:01Z",
-      "importance": 70,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "09b784092efd8576",
@@ -641,6 +641,44 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "6e1286e2e332c080",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "天弘第二季財報電話會議亮點",
+      "summary": "Celestica（NYSE：CLS）公佈的 2026 年第二季營收和調整後每股收益高於其指導上限，這得益於人工智慧侵權需求的支撐。",
+      "original_title": "Celestica Q2 Earnings Call Highlights",
+      "url": "https://www.marketbeat.com/instant-alerts/celestica-q2-earnings-call-highlights-2026-07-28/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
+      "source": "MarketBeat",
+      "domain": "marketbeat.com",
+      "published_at": "2026-07-28T13:03:01Z",
+      "importance": 65,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "e801d4721d0db343",
@@ -1052,44 +1090,6 @@
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "e0867b79429b5f90",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "AMD 的 Helios 在機架層級的記憶體和運算方面擊敗了 Nvidia——前提是你在 GPU 層級上進行運算",
-      "summary": "AMD 表示，Helios 在四個指標上擊敗了 Nvidia 的 Vera Rubin，但記憶體方面的優勢是機架級的且可驗證的，而 15% 的 FP4 優勢是針對每個 GPU 的，儘管 Nvidia 在機架級計算方面處於領先地位。",
-      "original_title": "AMD's Helios beats Nvidia on memory at rack level and on compute — only if you count it at the GPU level",
-      "url": "https://www.techradar.com/pro/amds-helios-beats-nvidia-on-memory-at-rack-level-and-on-compute-only-if-you-count-it-at-the-gpu-level",
-      "source": "TechRadar",
-      "domain": "techradar.com",
-      "published_at": "2026-07-28T14:38:52Z",
-      "importance": 60,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "8a7c0a6bb30bdca0",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1199,6 +1199,44 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "a7b00b8a42784435",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Nvidia 跌破 190 美元：一位華爾街專業人士預計此後漲幅為 165%",
+      "summary": "NVIDIA 剛剛打破了幾個月來最糟糕的一周的關鍵價格下限，但一位華爾街分析師比以往任何時候都更努力地敲擊桌子，目標是…",
+      "original_title": "Nvidia is Tanking Below $190: One Wall Street Pro Sees 165% Gains From Here",
+      "url": "https://247wallst.com/investing/2026/07/30/nvidia-is-tanking-below-190-one-wall-street-pro-sees-165-gains-from-here/",
+      "source": "24/7 Wall St.",
+      "domain": "247wallst.com",
+      "published_at": "2026-07-30T15:09:21Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "8e11ed341758c93f",
@@ -1613,6 +1651,44 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "e0867b79429b5f90",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "AMD 的 Helios 在機架層級的記憶體和運算方面擊敗了 Nvidia——前提是你在 GPU 層級上進行運算",
+      "summary": "AMD 表示，Helios 在四個指標上擊敗了 Nvidia 的 Vera Rubin，但記憶體方面的優勢是機架級的且可驗證的，而 15% 的 FP4 優勢是針對每個 GPU 的，儘管 Nvidia 在機架級計算方面處於領先地位。",
+      "original_title": "AMD's Helios beats Nvidia on memory at rack level and on compute — only if you count it at the GPU level",
+      "url": "https://www.techradar.com/pro/amds-helios-beats-nvidia-on-memory-at-rack-level-and-on-compute-only-if-you-count-it-at-the-gpu-level",
+      "source": "TechRadar",
+      "domain": "techradar.com",
+      "published_at": "2026-07-28T14:38:52Z",
+      "importance": 55,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "e6c1a26d8060199e",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1687,44 +1763,6 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "c76cdb96387df8d8",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "像 100 億太陽一樣熾熱：NASA 的 Swift 觀測到一個正在吞噬恆星的徘徊黑洞",
-      "summary": "美國太空總署的斯威夫特天文台觀察到一個超大質量黑洞撕裂了距離遙遠星系中心 3 萬多光年的一顆恆星。這種非凡的耀斑在紫外光下短暫地超越了整個宿主星系，並揭示了一個黑洞...",
-      "original_title": "Blazing like 10 billion suns: NASA’s Swift sees a wandering black hole devouring a star",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260727214609.htm",
-      "source": "Science Daily",
-      "domain": "sciencedaily.com",
-      "published_at": "2026-07-28T05:54:39Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "619d2cf6c647ae1a",
@@ -1912,82 +1950,6 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "d0f83a5ceef79a06",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "台積電漲價10%",
-      "summary": "蘋果晶片製造商台積電預計明年將服務價格提高 10%。與客戶就7nm等先進製程和成熟節點的漲價進行了討論。台積電選擇推...",
-      "original_title": "TSMC To Increase Prices by 10%",
-      "url": "https://www.ilounge.com/news/tsmc-to-increase-prices-by-10",
-      "source": "iLounge",
-      "domain": "ilounge.com",
-      "published_at": "2026-07-24T15:46:34Z",
-      "importance": 55,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "b59555a73b0acf1a",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "MaxLinear (MXL) 預計將受益於人工智慧收發器",
-      "summary": "全球股票管理公司 ClearBridge Investments 最近發布了其「小型股成長策略」的 2026 年第二季評論。 A copy of the letter...",
-      "original_title": "MaxLinear (MXL) Poised to Benefit from AI Transceivers",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/maxlinear-mxl-poised-benefit-ai-140315573.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-07-24T14:03:15Z",
-      "importance": 55,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "6f9268f057d0c050",
@@ -2695,6 +2657,44 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "b59555a73b0acf1a",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "MaxLinear (MXL) 預計將受益於人工智慧收發器",
+      "summary": "全球股票管理公司 ClearBridge Investments 最近發布了其「小型股成長策略」的 2026 年第二季評論。 A copy of the letter...",
+      "original_title": "MaxLinear (MXL) Poised to Benefit from AI Transceivers",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/maxlinear-mxl-poised-benefit-ai-140315573.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-07-24T14:03:15Z",
+      "importance": 50,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "f755333e64068074",
