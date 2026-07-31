@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-30T20:09:13.703783+00:00
+> 更新時間：2026-07-31T00:02:21.720812+00:00
 
 ### 🚀 康寧押注 SiPh 和 CPO 推動人工智慧資料中心成長
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -16,6 +16,24 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: SK 海力士剛剛公佈了晶片製造商多年來最爆炸性的利潤增長，但投資者的反應是以低於 IPO 價格的價格出售該股票。這...
 - [原文連結](https://247wallst.com/investing/2026/07/29/did-sk-hynixs-record-42-billion-q2-profit-just-prove-the-memory-boom-went-bust/)
+
+---
+
+### 🚀 SK海力士的HBM悖論：DDR5激增為HBM4漲價建立槓桿
+- **題材**: `HBM記憶體` | **重要性**: `78`
+- **來源**: Digitimes (2026-07-28T03:33:35Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: AI spending is broadening the memory upcycle beyond high-bandwidth memory, lifting prices for conventional DRAM, NAND flash and enterprise SSDs while reshaping earnings at SK Hynix and Samsung Electronics.
+- [原文連結](https://www.digitimes.com/news/a20260728VL205/hbm-sk-hynix-dram-ddr5-hbm4.html)
+
+---
+
+### ⚖️ 印度推出本土矽光子工具，以擴大研究人員和產業的使用範圍
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-07-29T23:58:01Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 印度推出了兩種自主開發的矽光子解決方案，以加強本地晶片設計和測試能力。此舉可能對印度以外的地區產生影響，因為它可以擴大全球供應鏈，降低發展壁壘，並加速…
+- [原文連結](https://www.digitimes.com/news/a20260729PR202/photonics-silicon-development-testing-technology.html)
 
 ---
 
@@ -109,39 +127,12 @@
 
 ---
 
-### ⚠️ Rivian 起訴美國政府要求退還關稅
-- **題材**: `總體風險` | **重要性**: `65`
-- **來源**: CNET (2026-07-27T23:26:06Z)
-- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 這家電動車製造商表示，最高法院取消「解放日」關稅的裁決還不夠——它希望獲得保證的退款和利息。
-- [原文連結](https://www.cnet.com/home/electric-vehicles/rivian-sues-us-government-for-tariff-refund/)
-
----
-
 ### 🚀 三星與博通簽署諒解備忘錄以加強人工智慧記憶體和代工合作
 - **題材**: `半導體先進製程` | **重要性**: `65`
 - **來源**: Verdict (2026-07-27T10:29:15Z)
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 此次合作旨在加速下一代人工智慧基礎設施所需的半導體解決方案的開發和供應。
 - [原文連結](https://www.verdict.co.uk/samsung-broadcom-sign-mou/)
-
----
-
-### ⚖️ WAIC 2026：Lightelligence 透過 CPO、NPO、光子運算描繪 AI 的光學未來
-- **題材**: `光通訊與矽光子` | **重要性**: `63`
-- **來源**: Digitimes (2026-07-23T02:44:50Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Lightelligence 將光互連、光交換和光運算定位為人工智慧基礎設施的下一個基礎，並認為該行業最大的挑戰已從更快的晶片轉移到在不斷增加的數據中有效地移動數據…
-- [原文連結](https://www.digitimes.com/news/a20260722VL207/cpo-waic-2026-chips-infrastructure.html)
-
----
-
-### ⚖️ 雷射源外包推遲了 CPO 的推出
-- **題材**: `光通訊與矽光子` | **重要性**: `63`
-- **來源**: Digitimes (2026-07-23T00:01:21Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 儘管由人工智慧資料中心驅動的高速傳輸需求，共同封裝光學元件 (CPO) 的商業化時程並未如預期加快，但業內人士表示，隨著電訊號的發展，CPO 仍然是一個關鍵的長期技術趨勢。
-- [原文連結](https://www.digitimes.com/news/a20260722PD230/cpo-laser-data-demand-transmission.html)
 
 ---
 
@@ -163,12 +154,12 @@
 
 ---
 
-### ⚖️ AMD 揭開了 Instinct MI455X AI 加速器的面紗——CDNA 5 和 Helios 機架級架構相結合，在資料中心與 Nvidia 競爭
-- **題材**: `AI伺服器` | **重要性**: `62`
-- **來源**: Tom's Hardware UK (2026-07-23T18:05:44Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: AMD在Advancing AI 2026活動上展示了MI455X加速器，展示了其強大的競爭性能、大HBM內存容量和Helios機架規模架構。
-- [原文連結](https://www.tomshardware.com/pc-components/gpus/amd-takes-the-wraps-off-its-instinct-mi455x-ai-accelerator-cdna-5-and-helios-rack-scale-architecture-combine-to-take-the-fight-to-nvidia-in-the-data-center)
+### 🚀 The Future of Tech Is Owning Nothing
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: Gizmodo.com (2026-07-29T20:50:45Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Apple’s lease program is just the beginning.
+- [原文連結](https://gizmodo.com/the-future-of-tech-is-owning-nothing-2000792593)
 
 ---
 
@@ -178,6 +169,15 @@
 - **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 週三全球油價上漲 7%，突破每桶 90 美元。
 - [原文連結](https://abcnews.com/Business/oil-prices-surge-after-trump-vows-retaliation-iranian/story?id=135185546)
+
+---
+
+### ⚖️ 儘管光學成長 32%，康寧 (GLW) 仍暴跌 20%。 Coherent (COHR) 投資人該擔心嗎？
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-07-29T15:11:27Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 康寧公司（NYSE：GLW）在 7 月 28 日實現了光學業務的快速增長，但由於其指引未能達到目標，其股價下跌了 20% 以上...
+- [原文連結](https://finance.yahoo.com/markets/stocks/articles/corning-glw-crashed-20-despite-151127643.html)
 
 ---
 
