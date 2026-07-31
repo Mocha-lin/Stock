@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-31T04:16:44.374674+00:00
+> 更新時間：2026-07-31T07:20:29.695973+00:00
 
 ### 🚀 康寧押注 SiPh 和 CPO 推動人工智慧資料中心成長
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -61,6 +61,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Celestica（NYSE：CLS）公佈的 2026 年第二季營收和調整後每股收益高於其指導上限，這得益於人工智慧侵權需求的支撐。
 - [原文連結](https://www.marketbeat.com/instant-alerts/celestica-q2-earnings-call-highlights-2026-07-28/?utm_source=yahoofinance&amp;utm_medium=yahoofinance)
+
+---
+
+### ⚖️ GlobalFoundries 獲得 3 億美元晶片支持，用於人工智慧矽光子學
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-07-30T06:48:06Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: GlobalFoundries 已與美國商務部簽署了一份意向書，可能獲得 3 億美元的獎勵，以加速美國人工智慧和高效能運算資料中心所用矽光子技術的開發。
+- [原文連結](https://www.digitimes.com/news/a20260730VL218/globalfoundries-photonics-silicon-award-optics.html)
 
 ---
 
@@ -169,15 +178,6 @@
 - **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 週三全球油價上漲 7%，突破每桶 90 美元。
 - [原文連結](https://abcnews.com/Business/oil-prices-surge-after-trump-vows-retaliation-iranian/story?id=135185546)
-
----
-
-### ⚖️ 儘管光學成長 32%，康寧 (GLW) 仍暴跌 20%。 Coherent (COHR) 投資人該擔心嗎？
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-07-29T15:11:27Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 康寧公司（NYSE：GLW）在 7 月 28 日實現了光學業務的快速增長，但由於其指引未能達到目標，其股價下跌了 20% 以上...
-- [原文連結](https://finance.yahoo.com/markets/stocks/articles/corning-glw-crashed-20-despite-151127643.html)
 
 ---
 
