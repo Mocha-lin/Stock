@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-31T00:02:21.720812+00:00
+> 更新時間：2026-07-31T04:16:44.374674+00:00
 
 ### 🚀 康寧押注 SiPh 和 CPO 推動人工智慧資料中心成長
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -19,15 +19,6 @@
 
 ---
 
-### 🚀 SK海力士的HBM悖論：DDR5激增為HBM4漲價建立槓桿
-- **題材**: `HBM記憶體` | **重要性**: `78`
-- **來源**: Digitimes (2026-07-28T03:33:35Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: AI spending is broadening the memory upcycle beyond high-bandwidth memory, lifting prices for conventional DRAM, NAND flash and enterprise SSDs while reshaping earnings at SK Hynix and Samsung Electronics.
-- [原文連結](https://www.digitimes.com/news/a20260728VL205/hbm-sk-hynix-dram-ddr5-hbm4.html)
-
----
-
 ### ⚖️ 印度推出本土矽光子工具，以擴大研究人員和產業的使用範圍
 - **題材**: `光通訊與矽光子` | **重要性**: `73`
 - **來源**: Digitimes (2026-07-29T23:58:01Z)
@@ -43,15 +34,6 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Rapidus 將先進封裝視為其 2 奈米代工策略的核心部分，而不是下游組裝服務。這家日本晶片製造商的目標是將設計支援、前端晶圓加工、小晶片整合、封裝、測試和製造連接起來…
 - [原文連結](https://www.digitimes.com/news/a20260724VL214/rapidus-2nm-manufacturing-hbm-packaging.html)
-
----
-
-### ⚖️ Rapidus 透過封裝和分析擴大北海道晶片中心
-- **題材**: `半導體先進製程` | **重要性**: `73`
-- **來源**: Digitimes (2026-07-24T03:56:57Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Rapidus 正在擴大其北海道千歲代工廠周圍的半導體開發和生產網絡，增加晶片分析和先進封裝能力以及 2 奈米邏輯晶片的前端試驗線。
-- [原文連結](https://www.digitimes.com/news/a20260724VL210/rapidus-packaging-development-production-manufacturing.html)
 
 ---
 
@@ -82,12 +64,12 @@
 
 ---
 
-### 🚀 AI 炒作為英特爾帶來 15 年來最快的營收成長
-- **題材**: `HBM記憶體` | **重要性**: `70`
-- **來源**: Gizmodo.com (2026-07-24T00:35:18Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 感謝人工智慧（可能還有川普），英特爾起死回生。
-- [原文連結](https://gizmodo.com/ai-hype-delivers-intel-its-fastest-revenue-growth-in-15-years-2000790071)
+### ⚖️ Rapidus 透過封裝和分析擴大北海道晶片中心
+- **題材**: `半導體先進製程` | **重要性**: `68`
+- **來源**: Digitimes (2026-07-24T03:56:57Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Rapidus 正在擴大其北海道千歲代工廠周圍的半導體開發和生產網絡，增加晶片分析和先進封裝能力以及 2 奈米邏輯晶片的前端試驗線。
+- [原文連結](https://www.digitimes.com/news/a20260724VL210/rapidus-packaging-development-production-manufacturing.html)
 
 ---
 
@@ -97,6 +79,15 @@
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 聯想正在滿足對國產伺服器的需求，以推動人工智慧的繁榮。
 - [原文連結](https://www.tomshardware.com/laptops/an-inside-tour-of-lenovos-north-carolina-ai-server-manufacturing-line-expansion-chinese-firm-expanding-us-native-production-to-meet-exploding-demand)
+
+---
+
+### ⚖️ SpaceX 正在改進 220K GPU 模組化人工智慧資料中心
+- **題材**: `光通訊與矽光子` | **重要性**: `65`
+- **來源**: Next Big Future (2026-07-30T01:27:37Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: SpaceX 正在製造 minihard，這是一種改進的模組化 220K GB300 資料中心。它將是 Macrohard 和 Macrohardrr 右側的一座小建築。這是 Elon 和 SpaceXAI 今年關於其基礎設施所說的最重要的事情。 Minihard 大約佔 25%...
+- [原文連結](https://www.nextbigfuture.com/2026/07/spacex-is-making-improved-220k-gpu-modular-ai-data-centers.html)
 
 ---
 
@@ -133,6 +124,15 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 此次合作旨在加速下一代人工智慧基礎設施所需的半導體解決方案的開發和供應。
 - [原文連結](https://www.verdict.co.uk/samsung-broadcom-sign-mou/)
+
+---
+
+### 🚀 AI 炒作為英特爾帶來 15 年來最快的營收成長
+- **題材**: `HBM記憶體` | **重要性**: `65`
+- **來源**: Gizmodo.com (2026-07-24T00:35:18Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 感謝人工智慧（可能還有川普），英特爾起死回生。
+- [原文連結](https://gizmodo.com/ai-hype-delivers-intel-its-fastest-revenue-growth-in-15-years-2000790071)
 
 ---
 
