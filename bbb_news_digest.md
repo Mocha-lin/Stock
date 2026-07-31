@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-31T15:11:44.243631+00:00
+> 更新時間：2026-07-31T18:13:40.555057+00:00
 
 ### 🚀 康寧押注 SiPh 和 CPO 推動人工智慧資料中心成長
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -16,15 +16,6 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: SK 海力士剛剛公佈了晶片製造商多年來最爆炸性的利潤增長，但投資者的反應是以低於 IPO 價格的價格出售該股票。這...
 - [原文連結](https://247wallst.com/investing/2026/07/29/did-sk-hynixs-record-42-billion-q2-profit-just-prove-the-memory-boom-went-bust/)
-
----
-
-### 🚀 隨著人工智慧需求不斷增長，韓國晶片出口越來越多地流向台灣，由台積電封裝
-- **題材**: `半導體先進製程` | **重要性**: `78`
-- **來源**: Digitimes (2026-07-30T08:52:00Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 對人工智慧晶片不斷增長的需求正在將韓國半導體出口的更大份額推向台灣，韓國製造的高頻寬記憶體（HBM）進入了由台積電主導的先進封裝製程。
-- [原文連結](https://www.digitimes.com/news/a20260730VL232/chips-taiwan-demand-packaging-tsmc.html)
 
 ---
 
@@ -61,6 +52,15 @@
 - **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 一名英偉達員工涉嫌超微走私醜聞，他的家和辦公桌都被搜查。他因偽造和違反信任的指控而被拘留。與此同時，英偉達正在縮減其買家名單，以根除潛在的自鳴得意的人…
 - [原文連結](https://www.tomshardware.com/tech-industry/nvidia-employee-implicated-in-escalating-supermicro-smuggling-scandal-but-demand-only-intensifies-for-nvidia-hardware)
+
+---
+
+### 🚀 台積電正在複製英特爾的最佳創意之一——這就是投資者應該關注的原因
+- **題材**: `半導體先進製程` | **重要性**: `70`
+- **來源**: 24/7 Wall St. (2026-07-30T15:13:34Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 台積電似乎借鑒了英特爾最不受重視的策略之一，此舉背後的原因揭示了一些...
+- [原文連結](https://247wallst.com/investing/2026/07/30/taiwan-semiconductor-is-copying-one-of-intels-best-ideas-heres-why-investors-should-pay-attention/)
 
 ---
 
