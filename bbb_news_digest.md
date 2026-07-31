@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-07-31T18:13:40.555057+00:00
+> 更新時間：2026-07-31T20:13:02.303832+00:00
 
 ### 🚀 康寧押注 SiPh 和 CPO 推動人工智慧資料中心成長
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -145,15 +145,6 @@
 
 ---
 
-### 🚀 SK 海力士創紀錄的利潤未達到投資者對人工智慧的崇高期望
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: Yahoo Entertainment (2026-07-28T22:51:42Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: （彭博）—SK 海力士公司季度利潤成長 557%，低於預期，加劇了人們對推動半導體產業發展的人工智慧熱潮的擔憂。
-- [原文連結](https://finance.yahoo.com/technology/ai/articles/sk-hynixs-record-profit-misses-investors-lofty-ai-expectations-225142990.html)
-
----
-
 ### 🚀 天弘第二季財報電話會議亮點
 - **題材**: `光通訊與矽光子` | **重要性**: `65`
 - **來源**: MarketBeat (2026-07-28T13:03:01Z)
@@ -178,6 +169,15 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 感謝人工智慧（可能還有川普），英特爾起死回生。
 - [原文連結](https://gizmodo.com/ai-hype-delivers-intel-its-fastest-revenue-growth-in-15-years-2000790071)
+
+---
+
+### ⚖️ 據報道，中國的 Moonshot AI 使用 Nvidia Blackwell 晶片來訓練 Kimi K3——該公司規避美國出口和中國進口管制來獲取運算能力
+- **題材**: `AI伺服器` | **重要性**: `62`
+- **來源**: Tom's Hardware UK (2026-07-29T10:00:00Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 據報道，Moonshot AI 使用 Nvidia Blackwell 晶片來訓練 Kimi K3——有可能規避美國的出口和中國的進口管制
+- [原文連結](https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-moonshot-ai-reportedly-used-nvidia-blackwell-chips-for-training-kimi-k3-company-circumvented-both-u-s-export-and-chinese-import-controls-to-acquire-compute)
 
 ---
 
