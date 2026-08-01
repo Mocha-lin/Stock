@@ -1,14 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-01T00:02:27.056340+00:00
-
-### 🚀 康寧押注 SiPh 和 CPO 推動人工智慧資料中心成長
-- **題材**: `光通訊與矽光子` | **重要性**: `83`
-- **來源**: Digitimes (2026-07-29T03:23:16Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 康寧預計人工智慧基礎設施將成為日益強大的成長引擎，概述了其玻璃技術將如何超越傳統光纖，進入矽光子學 (SiPh) 和共封裝光學 (CPO) 領域，用於下一代人工智慧資料中心…
-- [原文連結](https://www.digitimes.com/news/a20260729VL213/corning-siph-growth-cpo-photonics.html)
-
----
+> 更新時間：2026-08-01T04:16:44.215318+00:00
 
 ### 🚀 SK 海力士第二季創紀錄的 420 億美元利潤是否只是證明記憶體繁榮已經破滅？
 - **題材**: `HBM記憶體` | **重要性**: `80`
@@ -19,12 +10,21 @@
 
 ---
 
-### 🚀 隨著人工智慧需求不斷增長，韓國晶片出口越來越多地流向台灣，由台積電封裝
+### ⚖️ 欣興微電子稱英特爾EMIB-T要到2027年才能量產，先進封裝競爭加劇
 - **題材**: `半導體先進製程` | **重要性**: `78`
-- **來源**: Digitimes (2026-07-30T08:52:00Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 對人工智慧晶片不斷增長的需求正在將韓國半導體出口的更大份額推向台灣，韓國製造的高頻寬記憶體（HBM）進入了由台積電主導的先進封裝製程。
-- [原文連結](https://www.digitimes.com/news/a20260730VL232/chips-taiwan-demand-packaging-tsmc.html)
+- **來源**: Digitimes (2026-07-31T00:02:07Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 據欣興微電子稱，台積電的 CoWoS 產能依然緊張，對第二條供應路線的需求正在加強，英特爾的 EMIB-T 先進封裝平台要到 2027 年才能實現真正的量產。該基板製造商表示，新平台…
+- [原文連結](https://www.digitimes.com/news/a20260730PD212/packaging-cowos-unimicron-tsmc-production.html)
+
+---
+
+### 🚀 康寧押注 SiPh 和 CPO 推動人工智慧資料中心成長
+- **題材**: `光通訊與矽光子` | **重要性**: `78`
+- **來源**: Digitimes (2026-07-29T03:23:16Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 康寧預計人工智慧基礎設施將成為日益強大的成長引擎，概述了其玻璃技術將如何超越傳統光纖，進入矽光子學 (SiPh) 和共封裝光學 (CPO) 領域，用於下一代人工智慧資料中心…
+- [原文連結](https://www.digitimes.com/news/a20260729VL213/corning-siph-growth-cpo-photonics.html)
 
 ---
 
@@ -47,15 +47,6 @@
 
 ---
 
-### ⚖️ 獨家：Rapidus在AI代工策略中將2nm晶片、HBM和先進封裝連結起來
-- **題材**: `半導體先進製程` | **重要性**: `73`
-- **來源**: Digitimes (2026-07-25T03:28:06Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Rapidus 將先進封裝視為其 2 奈米代工策略的核心部分，而不是下游組裝服務。這家日本晶片製造商的目標是將設計支援、前端晶圓加工、小晶片整合、封裝、測試和製造連接起來…
-- [原文連結](https://www.digitimes.com/news/a20260724VL214/rapidus-2nm-manufacturing-hbm-packaging.html)
-
----
-
 ### ⚖️ 分析師稱，到 2028 年，谷歌可能會製造出比 Nvidia 銷量還要多的人工智慧加速器，這可能會促使該公司使用英特爾代工來實現其目標
 - **題材**: `半導體先進製程` | **重要性**: `72`
 - **來源**: Tom's Hardware UK (2026-07-30T14:35:50Z)
@@ -71,6 +62,15 @@
 - **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 一名英偉達員工涉嫌超微走私醜聞，他的家和辦公桌都被搜查。他因偽造和違反信任的指控而被拘留。與此同時，英偉達正在縮減其買家名單，以根除潛在的自鳴得意的人…
 - [原文連結](https://www.tomshardware.com/tech-industry/nvidia-employee-implicated-in-escalating-supermicro-smuggling-scandal-but-demand-only-intensifies-for-nvidia-hardware)
+
+---
+
+### 🚀 蘋果發布創紀錄的六月季度業績，警告即將到來的供應限制
+- **題材**: `HBM記憶體` | **重要性**: `70`
+- **來源**: Gizmodo.com (2026-07-31T02:55:18Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 提姆庫克表示，記憶體價格將繼續上漲。
+- [原文連結](https://gizmodo.com/apple-posts-record-june-quarter-warns-supply-constraints-are-coming-2000793192)
 
 ---
 
@@ -98,6 +98,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: GlobalFoundries 已與美國商務部簽署了一份意向書，可能獲得 3 億美元的獎勵，以加速美國人工智慧和高效能運算資料中心所用矽光子技術的開發。
 - [原文連結](https://www.digitimes.com/news/a20260730VL218/globalfoundries-photonics-silicon-award-optics.html)
+
+---
+
+### ⚖️ 獨家：Rapidus在AI代工策略中將2nm晶片、HBM和先進封裝連結起來
+- **題材**: `半導體先進製程` | **重要性**: `68`
+- **來源**: Digitimes (2026-07-25T03:28:06Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Rapidus 將先進封裝視為其 2 奈米代工策略的核心部分，而不是下游組裝服務。這家日本晶片製造商的目標是將設計支援、前端晶圓加工、小晶片整合、封裝、測試和製造連接起來…
+- [原文連結](https://www.digitimes.com/news/a20260724VL214/rapidus-2nm-manufacturing-hbm-packaging.html)
 
 ---
 
@@ -170,15 +179,6 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 此次合作旨在加速下一代人工智慧基礎設施所需的半導體解決方案的開發和供應。
 - [原文連結](https://www.verdict.co.uk/samsung-broadcom-sign-mou/)
-
----
-
-### ⚖️ 據報道，中國的 Moonshot AI 使用 Nvidia Blackwell 晶片來訓練 Kimi K3——該公司規避美國出口和中國進口管制來獲取運算能力
-- **題材**: `AI伺服器` | **重要性**: `62`
-- **來源**: Tom's Hardware UK (2026-07-29T10:00:00Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 據報道，Moonshot AI 使用 Nvidia Blackwell 晶片來訓練 Kimi K3——有可能規避美國的出口和中國的進口管制
-- [原文連結](https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-moonshot-ai-reportedly-used-nvidia-blackwell-chips-for-training-kimi-k3-company-circumvented-both-u-s-export-and-chinese-import-controls-to-acquire-compute)
 
 ---
 
