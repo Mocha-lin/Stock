@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-01T14:18:53.296813+00:00
+> 更新時間：2026-08-01T15:49:19.228248+00:00
 
 ### ⚖️ 欣興微電子稱英特爾EMIB-T要到2027年才能量產，先進封裝競爭加劇
 - **題材**: `半導體先進製程` | **重要性**: `78`
@@ -46,15 +46,6 @@
 
 ---
 
-### ⚠️ 英偉達員工涉嫌不斷升級的超微走私醜聞，但對英偉達硬體的需求只會增加
-- **題材**: `AI伺服器` | **重要性**: `72`
-- **來源**: Tom's Hardware UK (2026-07-29T15:10:06Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 一名英偉達員工涉嫌超微走私醜聞，他的家和辦公桌都被搜查。他因偽造和違反信任的指控而被拘留。與此同時，英偉達正在縮減其買家名單，以根除潛在的自鳴得意的人…
-- [原文連結](https://www.tomshardware.com/tech-industry/nvidia-employee-implicated-in-escalating-supermicro-smuggling-scandal-but-demand-only-intensifies-for-nvidia-hardware)
-
----
-
 ### 🚀 蘋果發布創紀錄的六月季度業績，警告即將到來的供應限制
 - **題材**: `HBM記憶體` | **重要性**: `70`
 - **來源**: Gizmodo.com (2026-07-31T02:55:18Z)
@@ -91,12 +82,12 @@
 
 ---
 
-### ⚖️ 聯想北卡羅來納州人工智慧伺服器生產線擴建內部參觀—中國公司擴大美國本土生產以滿足爆炸性需求
+### ⚠️ 英偉達員工涉嫌不斷升級的超微走私醜聞，但對英偉達硬體的需求只會增加
 - **題材**: `AI伺服器` | **重要性**: `67`
-- **來源**: Tom's Hardware UK (2026-07-29T14:27:06Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 聯想正在滿足對國產伺服器的需求，以推動人工智慧的繁榮。
-- [原文連結](https://www.tomshardware.com/laptops/an-inside-tour-of-lenovos-north-carolina-ai-server-manufacturing-line-expansion-chinese-firm-expanding-us-native-production-to-meet-exploding-demand)
+- **來源**: Tom's Hardware UK (2026-07-29T15:10:06Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 一名英偉達員工涉嫌超微走私醜聞，他的家和辦公桌都被搜查。他因偽造和違反信任的指控而被拘留。與此同時，英偉達正在縮減其買家名單，以根除潛在的自鳴得意的人…
+- [原文連結](https://www.tomshardware.com/tech-industry/nvidia-employee-implicated-in-escalating-supermicro-smuggling-scandal-but-demand-only-intensifies-for-nvidia-hardware)
 
 ---
 
@@ -145,15 +136,6 @@
 
 ---
 
-### 🚀 智慧手錶和眼鏡能否變得更聰明？高通和聯發科的新穿戴式人工智慧遊戲內部
-- **題材**: `半導體先進製程` | **重要性**: `65`
-- **來源**: TechRadar (2026-07-29T06:20:00Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 高通和聯發科的新型 3nm 晶片如何在不影響電池壽命的情況下為智慧手錶和眼鏡帶來設備端人工智慧。
-- [原文連結](https://www.techradar.com/pro/can-smartwatches-and-glasses-get-smarter-inside-qualcomm-and-mediateks-new-wearable-ai-play)
-
----
-
 ### 🚀 天弘第二季財報電話會議亮點
 - **題材**: `光通訊與矽光子` | **重要性**: `65`
 - **來源**: MarketBeat (2026-07-28T13:03:01Z)
@@ -172,12 +154,36 @@
 
 ---
 
+### ⚖️ 聯想北卡羅來納州人工智慧伺服器生產線擴建內部參觀—中國公司擴大美國本土生產以滿足爆炸性需求
+- **題材**: `AI伺服器` | **重要性**: `62`
+- **來源**: Tom's Hardware UK (2026-07-29T14:27:06Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 聯想正在滿足對國產伺服器的需求，以推動人工智慧的繁榮。
+- [原文連結](https://www.tomshardware.com/laptops/an-inside-tour-of-lenovos-north-carolina-ai-server-manufacturing-line-expansion-chinese-firm-expanding-us-native-production-to-meet-exploding-demand)
+
+---
+
 ### ⚖️ MSI 和七彩虹將 Nvidia RTX 50 系列在中國的整個產品線價格提高了 59%——分銷商定價的變化表明 GPU 價格即將上漲
 - **題材**: `AI伺服器` | **重要性**: `62`
 - **來源**: Tom's Hardware UK (2026-07-27T19:47:49Z)
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 隨著中國官方經銷商宣布一夜之間增加整個 Blackwell 產品線，GPU 價格似乎再次上漲。與建議零售價相比，我們看到高端價格大幅上漲了 75%。
 - [原文連結](https://www.tomshardware.com/pc-components/gpus/msi-and-colorful-raise-nvidia-rtx-50-series-prices-in-china-by-up-to-59-percent-across-the-entire-lineup-change-in-distributer-pricing-suggests-gpu-price-hikes-are-on-the-way)
+
+---
+
+### 🚀 iPhone Air 2 預計明年初推出 擁有五項新功能
+- **題材**: `半導體先進製程` | **重要性**: `60`
+- **來源**: MacRumors (2026-07-31T15:25:35Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 據研究蘋果的投資分析師 Jeff Pu 稱，蘋果計劃在 2027 年第一季發布第二代 iPhone Air。
+
+
+
+
+
+今天，浦在與廣發證券的一份研究報告中表示，iPhone Air 2 將具有以下五項新功能：
+- [原文連結](https://www.macrumors.com/2026/07/31/iphone-air-2-five-new-features-rumored/)
 
 ---
 
