@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-01T23:57:44.584436+00:00
+> 更新時間：2026-08-02T04:19:26.411908+00:00
 
 ### ⚖️ 欣興微電子稱英特爾EMIB-T要到2027年才能量產，先進封裝競爭加劇
 - **題材**: `半導體先進製程` | **重要性**: `78`
@@ -28,12 +28,12 @@
 
 ---
 
-### ⚖️ 印度推出本土矽光子工具，以擴大研究人員和產業的使用範圍
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-07-29T23:58:01Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 印度推出了兩種自主開發的矽光子解決方案，以加強本地晶片設計和測試能力。此舉可能對印度以外的地區產生影響，因為它可以擴大全球供應鏈，降低發展壁壘，並加速…
-- [原文連結](https://www.digitimes.com/news/a20260729PR202/photonics-silicon-development-testing-technology.html)
+### ⚖️ 在 OCP 台灣峰會上，伺服器讓位給光學和先進封裝
+- **題材**: `半導體先進製程` | **重要性**: `73`
+- **來源**: Digitimes (2026-07-31T17:57:00Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 當今年 OCP 亞太峰會的議程確定時，經驗豐富的觀察家注意到了一些不尋常的事情。台積電、應用材料、愛德萬測試和日月光與微軟、英偉達和谷歌同台。
+- [原文連結](https://www.digitimes.com/news/a20260729VL222/ocp-optics-packaging-infrastructure-servers-taiwan.html)
 
 ---
 
@@ -73,12 +73,12 @@
 
 ---
 
-### ⚖️ 獨家：Rapidus在AI代工策略中將2nm晶片、HBM和先進封裝連結起來
-- **題材**: `半導體先進製程` | **重要性**: `68`
-- **來源**: Digitimes (2026-07-25T03:28:06Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Rapidus 將先進封裝視為其 2 奈米代工策略的核心部分，而不是下游組裝服務。這家日本晶片製造商的目標是將設計支援、前端晶圓加工、小晶片整合、封裝、測試和製造連接起來…
-- [原文連結](https://www.digitimes.com/news/a20260724VL214/rapidus-2nm-manufacturing-hbm-packaging.html)
+### ⚖️ 印度推出本土矽光子工具，以擴大研究人員和產業的使用範圍
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-07-29T23:58:01Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 印度推出了兩種自主開發的矽光子解決方案，以加強本地晶片設計和測試能力。此舉可能對印度以外的地區產生影響，因為它可以擴大全球供應鏈，降低發展壁壘，並加速…
+- [原文連結](https://www.digitimes.com/news/a20260729PR202/photonics-silicon-development-testing-technology.html)
 
 ---
 
@@ -88,6 +88,15 @@
 - **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 一名英偉達員工涉嫌超微走私醜聞，他的家和辦公桌都被搜查。他因偽造和違反信任的指控而被拘留。與此同時，英偉達正在縮減其買家名單，以根除潛在的自鳴得意的人…
 - [原文連結](https://www.tomshardware.com/tech-industry/nvidia-employee-implicated-in-escalating-supermicro-smuggling-scandal-but-demand-only-intensifies-for-nvidia-hardware)
+
+---
+
+### 🚀 SanDisk 一個月內下跌 45%。內存投資者現在應該轉向美光還是 SK 海力士嗎？
+- **題材**: `HBM記憶體` | **重要性**: `65`
+- **來源**: 24/7 Wall St. (2026-07-31T18:36:06Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 內存股最近表現很殘酷，但並非所有股票都受到同樣的傷害，贏家和輸家之間的差距可能會告訴投資者到底在哪裡...
+- [原文連結](https://247wallst.com/investing/2026/07/31/sandisk-is-down-45-in-a-month-should-memory-investors-switch-to-micron-or-sk-hynix-now/)
 
 ---
 
@@ -127,12 +136,12 @@
 
 ---
 
-### ⚖️ SpaceX 正在改進 220K GPU 模組化人工智慧資料中心
-- **題材**: `光通訊與矽光子` | **重要性**: `65`
-- **來源**: Next Big Future (2026-07-30T01:27:37Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: SpaceX 正在製造 minihard，這是一種改進的模組化 220K GB300 資料中心。它將是 Macrohard 和 Macrohardrr 右側的一座小建築。這是 Elon 和 SpaceXAI 今年關於其基礎設施所說的最重要的事情。 Minihard 大約佔 25%...
-- [原文連結](https://www.nextbigfuture.com/2026/07/spacex-is-making-improved-220k-gpu-modular-ai-data-centers.html)
+### 🚀 智慧手錶和眼鏡能否變得更聰明？高通和聯發科的新穿戴式人工智慧遊戲
+- **題材**: `半導體先進製程` | **重要性**: `65`
+- **來源**: TechRadar (2026-07-29T06:20:00Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 高通和聯發科的新型 3nm 晶片如何在不影響電池壽命的情況下為智慧手錶和眼鏡帶來設備端人工智慧。
+- [原文連結](https://www.techradar.com/pro/can-smartwatches-and-glasses-get-smarter-inside-qualcomm-and-mediateks-new-wearable-ai-play)
 
 ---
 
@@ -169,21 +178,6 @@
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 隨著中國官方經銷商宣布一夜之間增加整個 Blackwell 產品線，GPU 價格似乎再次上漲。與建議零售價相比，我們看到高端價格大幅上漲了 75%。
 - [原文連結](https://www.tomshardware.com/pc-components/gpus/msi-and-colorful-raise-nvidia-rtx-50-series-prices-in-china-by-up-to-59-percent-across-the-entire-lineup-change-in-distributer-pricing-suggests-gpu-price-hikes-are-on-the-way)
-
----
-
-### 🚀 iPhone Air 2 預計明年初推出 擁有五項新功能
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: MacRumors (2026-07-31T15:25:35Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 據研究蘋果的投資分析師 Jeff Pu 稱，蘋果計劃在 2027 年第一季發布第二代 iPhone Air。
-
-
-
-
-
-今天，浦在與廣發證券的一份研究報告中表示，iPhone Air 2 將具有以下五項新功能：
-- [原文連結](https://www.macrumors.com/2026/07/31/iphone-air-2-five-new-features-rumored/)
 
 ---
 
