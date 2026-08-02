@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-02T07:07:44.366017+00:00
+> 更新時間：2026-08-02T10:40:26.490352+00:00
 
 ### ⚖️ 欣興微電子稱英特爾EMIB-T要到2027年才能量產，先進封裝競爭加劇
 - **題材**: `半導體先進製程` | **重要性**: `78`
@@ -118,15 +118,6 @@
 
 ---
 
-### ⚖️ 矽光子學如何照亮資料中心的道路
-- **題材**: `光通訊與矽光子` | **重要性**: `65`
-- **來源**: TechRadar (2026-07-30T10:20:56Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 隨著人工智慧為資料中心基礎設施帶來壓力，矽光子學希望提供更快、更節能的運算。
-- [原文連結](https://www.techradar.com/pro/how-silicon-photonics-lights-the-way-for-data-centers)
-
----
-
 ### 🚀 智慧手錶和眼鏡能否變得更聰明？高通和聯發科的新穿戴式人工智慧遊戲
 - **題材**: `半導體先進製程` | **重要性**: `65`
 - **來源**: TechRadar (2026-07-29T06:20:00Z)
@@ -178,6 +169,21 @@
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 隨著中國官方經銷商宣布一夜之間增加整個 Blackwell 產品線，GPU 價格似乎再次上漲。與建議零售價相比，我們看到高端價格大幅上漲了 75%。
 - [原文連結](https://www.tomshardware.com/pc-components/gpus/msi-and-colorful-raise-nvidia-rtx-50-series-prices-in-china-by-up-to-59-percent-across-the-entire-lineup-change-in-distributer-pricing-suggests-gpu-price-hikes-are-on-the-way)
+
+---
+
+### 🚀 iPhone Air 2 預計明年初推出 擁有五項新功能
+- **題材**: `半導體先進製程` | **重要性**: `60`
+- **來源**: MacRumors (2026-07-31T15:25:35Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 據研究蘋果的投資分析師 Jeff Pu 稱，蘋果計劃在 2027 年第一季發布第二代 iPhone Air。
+
+
+
+
+
+今天，浦在與廣發證券的一份研究報告中表示，iPhone Air 2 將具有以下五項新功能：
+- [原文連結](https://www.macrumors.com/2026/07/31/iphone-air-2-five-new-features-rumored/)
 
 ---
 

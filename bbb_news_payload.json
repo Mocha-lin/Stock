@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-08-02T07:07:44.366017+00:00",
+  "generated_at": "2026-08-02T10:40:26.490352+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 74,
@@ -488,44 +488,6 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "1ed2cc0b2972fd89",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "矽光子學如何照亮資料中心的道路",
-      "summary": "隨著人工智慧為資料中心基礎設施帶來壓力，矽光子學希望提供更快、更節能的運算。",
-      "original_title": "How silicon photonics lights the way for data centers",
-      "url": "https://www.techradar.com/pro/how-silicon-photonics-lights-the-way-for-data-centers",
-      "source": "TechRadar",
-      "domain": "techradar.com",
-      "published_at": "2026-07-30T10:20:56Z",
-      "importance": 65,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "5e38af795a0c9049",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -898,6 +860,44 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "1ed2cc0b2972fd89",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "矽光子學如何照亮資料中心的道路",
+      "summary": "隨著人工智慧為資料中心基礎設施帶來壓力，矽光子學希望提供更快、更節能的運算。",
+      "original_title": "How silicon photonics lights the way for data centers",
+      "url": "https://www.techradar.com/pro/how-silicon-photonics-lights-the-way-for-data-centers",
+      "source": "TechRadar",
+      "domain": "techradar.com",
+      "published_at": "2026-07-30T10:20:56Z",
+      "importance": 60,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "132fc27b39eb51c0",
@@ -1348,120 +1348,6 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "2c68faccbe648b7e",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "無論你做什麼，現在都不要買 Google Pixel 手機",
-      "summary": "Google Pixel 系列是最好的 Android 系列之一。但在 2026 年的這個時候，你真的不應該買 Pixel。原因如下。",
-      "original_title": "Whatever you do, don’t buy a Google Pixel phone right now",
-      "url": "https://www.androidauthority.com/dont-buy-google-pixel-10-right-now-why-3691510/",
-      "source": "Android Authority",
-      "domain": "androidauthority.com",
-      "published_at": "2026-07-30T10:00:47Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "4998e5940d44b711",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "美國商務部與 GlobalFoundries 簽署 3 億美元矽光子研發意向書",
-      "summary": "該資金旨在加速下一代矽光子晶圓技術和新型光學材料的開發。",
-      "original_title": "US DOC, GlobalFoundries sign LOI for $300m silicon photonics R&D",
-      "url": "https://www.verdict.co.uk/us-globalfoundries-loi-silicon-photonics/",
-      "source": "Verdict",
-      "domain": "verdict.co.uk",
-      "published_at": "2026-07-30T08:39:49Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "8dbd952646073a02",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Tinder 暫停人工智慧照片編輯工具，因一名女子被它嚇跑了",
-      "summary": "約會應用程式 Tinder 暫停了一款人工智慧照片增強工具，因為該工具開始自動編輯用戶的照片並讓人們感到不安。\n[閱讀更多]",
-      "original_title": "Tinder Pauses AI Photo Editing Tool After Woman Creeped Out By It",
-      "url": "https://petapixel.com/2026/07/30/tinder-pauses-ai-photo-editing-tool-after-woman-creeped-out-by-it/",
-      "source": "PetaPixel",
-      "domain": "petapixel.com",
-      "published_at": "2026-07-30T08:07:20Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "7e08b40dc66fab34",
@@ -1988,6 +1874,120 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "2c68faccbe648b7e",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "無論你做什麼，現在都不要買 Google Pixel 手機",
+      "summary": "Google Pixel 系列是最好的 Android 系列之一。但在 2026 年的這個時候，你真的不應該買 Pixel。原因如下。",
+      "original_title": "Whatever you do, don’t buy a Google Pixel phone right now",
+      "url": "https://www.androidauthority.com/dont-buy-google-pixel-10-right-now-why-3691510/",
+      "source": "Android Authority",
+      "domain": "androidauthority.com",
+      "published_at": "2026-07-30T10:00:47Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "4998e5940d44b711",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "美國商務部與 GlobalFoundries 簽署 3 億美元矽光子研發意向書",
+      "summary": "該資金旨在加速下一代矽光子晶圓技術和新型光學材料的開發。",
+      "original_title": "US DOC, GlobalFoundries sign LOI for $300m silicon photonics R&D",
+      "url": "https://www.verdict.co.uk/us-globalfoundries-loi-silicon-photonics/",
+      "source": "Verdict",
+      "domain": "verdict.co.uk",
+      "published_at": "2026-07-30T08:39:49Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "8dbd952646073a02",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Tinder 暫停人工智慧照片編輯工具，因一名女子被它嚇跑了",
+      "summary": "約會應用程式 Tinder 暫停了一款人工智慧照片增強工具，因為該工具開始自動編輯用戶的照片並讓人們感到不安。\n[閱讀更多]",
+      "original_title": "Tinder Pauses AI Photo Editing Tool After Woman Creeped Out By It",
+      "url": "https://petapixel.com/2026/07/30/tinder-pauses-ai-photo-editing-tool-after-woman-creeped-out-by-it/",
+      "source": "PetaPixel",
+      "domain": "petapixel.com",
+      "published_at": "2026-07-30T08:07:20Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "66074ebd569af6ee",
