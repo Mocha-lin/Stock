@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-02T14:20:33.463345+00:00
+> 更新時間：2026-08-02T15:49:47.791442+00:00
 
 ### ⚖️ 欣興微電子稱英特爾EMIB-T要到2027年才能量產，先進封裝競爭加劇
 - **題材**: `半導體先進製程` | **重要性**: `78`
@@ -37,15 +37,6 @@
 
 ---
 
-### ⚖️ 分析師稱，到 2028 年，谷歌可能會製造出比 Nvidia 銷量還要多的人工智慧加速器，這可能會促使該公司使用英特爾代工來實現其目標
-- **題材**: `半導體先進製程` | **重要性**: `72`
-- **來源**: Tom's Hardware UK (2026-07-30T14:35:50Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 如果富邦研究院的報告準確的話，谷歌計劃在 2028 年建造比 Nvidia 更多的 TPU AI 加速器。
-- [原文連結](https://www.tomshardware.com/tech-industry/artificial-intelligence/google-could-build-more-ai-accelerators-than-nvidia-sells-in-2028-analyst-claims-could-push-the-company-to-use-intel-foundry-to-meet-its-goals)
-
----
-
 ### 🚀 蘋果發布創紀錄的六月季度業績，警告即將到來的供應限制
 - **題材**: `HBM記憶體` | **重要性**: `70`
 - **來源**: Gizmodo.com (2026-07-31T02:55:18Z)
@@ -55,21 +46,21 @@
 
 ---
 
-### 🚀 台積電正在複製英特爾的最佳創意之一——這就是投資者應該關注的原因
-- **題材**: `半導體先進製程` | **重要性**: `70`
-- **來源**: 24/7 Wall St. (2026-07-30T15:13:34Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 台積電似乎借鑒了英特爾最不受重視的策略之一，此舉背後的原因揭示了一些...
-- [原文連結](https://247wallst.com/investing/2026/07/30/taiwan-semiconductor-is-copying-one-of-intels-best-ideas-heres-why-investors-should-pay-attention/)
-
----
-
 ### ⚖️ 印度推出本土矽光子工具，以擴大研究人員和產業的使用範圍
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
 - **來源**: Digitimes (2026-07-29T23:58:01Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 印度推出了兩種自主開發的矽光子解決方案，以加強本地晶片設計和測試能力。此舉可能對印度以外的地區產生影響，因為它可以擴大全球供應鏈，降低發展壁壘，並加速…
 - [原文連結](https://www.digitimes.com/news/a20260729PR202/photonics-silicon-development-testing-technology.html)
+
+---
+
+### ⚖️ 分析師稱，到 2028 年，谷歌可能會製造出比 Nvidia 銷量還要多的人工智慧加速器，這可能會促使該公司使用英特爾代工來實現其目標
+- **題材**: `半導體先進製程` | **重要性**: `67`
+- **來源**: Tom's Hardware UK (2026-07-30T14:35:50Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 如果富邦研究院的報告準確的話，谷歌計劃在 2028 年建造比 Nvidia 更多的 TPU AI 加速器。
+- [原文連結](https://www.tomshardware.com/tech-industry/artificial-intelligence/google-could-build-more-ai-accelerators-than-nvidia-sells-in-2028-analyst-claims-could-push-the-company-to-use-intel-foundry-to-meet-its-goals)
 
 ---
 
@@ -106,6 +97,15 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 如果這些數字成立，Google的產量將與英偉達的預計出貨量處於同一範圍。 Fubon 估計 Nvidia 在 2026 年供應了 820 萬個資料中心 GPU，到 2028 年可能達到 1,240 萬個。這將標誌著一個顯著的轉變，單一 c...
 - [原文連結](https://www.techspot.com/news/113307-google-plans-produce-up-15-million-ai-chips.html)
+
+---
+
+### 🚀 台積電正在複製英特爾的最佳創意之一——這就是投資者應該關注的原因
+- **題材**: `半導體先進製程` | **重要性**: `65`
+- **來源**: 24/7 Wall St. (2026-07-30T15:13:34Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 台積電似乎借鑒了英特爾最不受重視的策略之一，此舉背後的原因揭示了一些...
+- [原文連結](https://247wallst.com/investing/2026/07/30/taiwan-semiconductor-is-copying-one-of-intels-best-ideas-heres-why-investors-should-pay-attention/)
 
 ---
 
