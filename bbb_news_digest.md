@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-03T18:29:44.795511+00:00
+> 更新時間：2026-08-03T20:19:00.145777+00:00
 
 ### 🚀 康寧押注 SiPh 和 CPO 推動人工智慧資料中心成長
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -52,15 +52,6 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 據報道，台積電正在開發一種先進的封裝技術，這可能會削弱英特爾公司的競爭優勢。網際網路...
 - [原文連結](https://finance.yahoo.com/technology/articles/tsmc-reportedly-developing-advanced-chip-220022568.html)
-
----
-
-### 🚀 SanDisk 一個月內下跌 45%。內存投資者現在應該轉向美光還是 SK 海力士嗎？
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: 24/7 Wall St. (2026-07-31T18:36:06Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 內存股最近表現很殘酷，但並非所有股票都受到同樣的傷害，贏家和輸家之間的差距可能會告訴投資者到底在哪裡...
-- [原文連結](https://247wallst.com/investing/2026/07/31/sandisk-is-down-45-in-a-month-should-memory-investors-switch-to-micron-or-sk-hynix-now/)
 
 ---
 
@@ -118,15 +109,6 @@
 
 ---
 
-### ⚖️ MSI 和七彩虹將 Nvidia RTX 50 系列在中國的整個產品線價格提高了 59%——分銷商定價的變化表明 GPU 價格即將上漲
-- **題材**: `AI伺服器` | **重要性**: `62`
-- **來源**: Tom's Hardware UK (2026-07-27T19:47:49Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 隨著中國官方經銷商宣布一夜之間增加整個 Blackwell 產品線，GPU 價格似乎再次上漲。與建議零售價相比，我們看到高端價格大幅上漲了 75%。
-- [原文連結](https://www.tomshardware.com/pc-components/gpus/msi-and-colorful-raise-nvidia-rtx-50-series-prices-in-china-by-up-to-59-percent-across-the-entire-lineup-change-in-distributer-pricing-suggests-gpu-price-hikes-are-on-the-way)
-
----
-
 ### ⚖️ 新創公司將昂貴的 AI GPU 換成 Arm 核心和高達 128TB 的「便宜」LPDDR6 RAM，而不是昂貴的 HBM，以打破記憶體牆
 - **題材**: `AI伺服器` | **重要性**: `60`
 - **來源**: TechRadar (2026-08-02T00:25:00Z)
@@ -142,6 +124,15 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Etched 以 103 億美元的估值獲得 SK Hynix 的支持，同時利用低壓推理技術擴展客製化人工智慧推理硬體。
 - [原文連結](https://www.techradar.com/pro/usd10b-startup-gets-sk-hynix-backing-to-build-a-transformer-that-does-just-one-thing-but-exceedingly-well)
+
+---
+
+### 🚀 SanDisk 一個月內下跌 45%。內存投資者現在應該轉向美光還是 SK 海力士嗎？
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: 24/7 Wall St. (2026-07-31T18:36:06Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 內存股最近表現很殘酷，但並非所有股票都受到同樣的傷害，贏家和輸家之間的差距可能會告訴投資者到底在哪裡...
+- [原文連結](https://247wallst.com/investing/2026/07/31/sandisk-is-down-45-in-a-month-should-memory-investors-switch-to-micron-or-sk-hynix-now/)
 
 ---
 
@@ -178,6 +169,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 隨著人工智慧為資料中心基礎設施帶來壓力，矽光子學希望提供更快、更節能的運算。
 - [原文連結](https://www.techradar.com/pro/how-silicon-photonics-lights-the-way-for-data-centers)
+
+---
+
+### ⚖️ SpaceX 正在改進 220K GPU 模組化人工智慧資料中心
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: Next Big Future (2026-07-30T01:27:37Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: SpaceX 正在製造 minihard，這是一種改進的模組化 220K GB300 資料中心。它將是 Macrohard 和 Macrohardrr 右側的一座小建築。這是 Elon 和 SpaceXAI 今年關於其基礎設施所說的最重要的事情。 Minihard 大約佔 25%...
+- [原文連結](https://www.nextbigfuture.com/2026/07/spacex-is-making-improved-220k-gpu-modular-ai-data-centers.html)
 
 ---
 

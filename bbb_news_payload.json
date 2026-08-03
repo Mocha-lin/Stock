@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-08-03T18:29:44.795511+00:00",
+  "generated_at": "2026-08-03T20:19:00.145777+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 73,
@@ -234,41 +234,6 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "492d970c096fc3fd",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "SanDisk 一個月內下跌 45%。內存投資者現在應該轉向美光還是 SK 海力士嗎？",
-      "summary": "內存股最近表現很殘酷，但並非所有股票都受到同樣的傷害，贏家和輸家之間的差距可能會告訴投資者到底在哪裡...",
-      "original_title": "SanDisk Is Down 45% in a Month. Should Memory Investors Switch to Micron or SK Hynix Now?",
-      "url": "https://247wallst.com/investing/2026/07/31/sandisk-is-down-45-in-a-month-should-memory-investors-switch-to-micron-or-sk-hynix-now/",
-      "source": "24/7 Wall St.",
-      "domain": "247wallst.com",
-      "published_at": "2026-07-31T18:36:06Z",
-      "importance": 65,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "a83884f375d649c5",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -494,44 +459,6 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "101cada557f10bf1",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "MSI 和七彩虹將 Nvidia RTX 50 系列在中國的整個產品線價格提高了 59%——分銷商定價的變化表明 GPU 價格即將上漲",
-      "summary": "隨著中國官方經銷商宣布一夜之間增加整個 Blackwell 產品線，GPU 價格似乎再次上漲。與建議零售價相比，我們看到高端價格大幅上漲了 75%。",
-      "original_title": "MSI and Colorful raise Nvidia RTX 50-series prices in China by up to 59% across the entire lineup — change in distributer pricing suggests GPU price hikes are on the way",
-      "url": "https://www.tomshardware.com/pc-components/gpus/msi-and-colorful-raise-nvidia-rtx-50-series-prices-in-china-by-up-to-59-percent-across-the-entire-lineup-change-in-distributer-pricing-suggests-gpu-price-hikes-are-on-the-way",
-      "source": "Tom's Hardware UK",
-      "domain": "tomshardware.com",
-      "published_at": "2026-07-27T19:47:49Z",
-      "importance": 62,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "3d043248e6e5dd9d",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -603,6 +530,41 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "492d970c096fc3fd",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "SanDisk 一個月內下跌 45%。內存投資者現在應該轉向美光還是 SK 海力士嗎？",
+      "summary": "內存股最近表現很殘酷，但並非所有股票都受到同樣的傷害，贏家和輸家之間的差距可能會告訴投資者到底在哪裡...",
+      "original_title": "SanDisk Is Down 45% in a Month. Should Memory Investors Switch to Micron or SK Hynix Now?",
+      "url": "https://247wallst.com/investing/2026/07/31/sandisk-is-down-45-in-a-month-should-memory-investors-switch-to-micron-or-sk-hynix-now/",
+      "source": "24/7 Wall St.",
+      "domain": "247wallst.com",
+      "published_at": "2026-07-31T18:36:06Z",
+      "importance": 60,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "7ed46fde91a0821f",
@@ -955,6 +917,44 @@
       "source": "Tom's Hardware UK",
       "domain": "tomshardware.com",
       "published_at": "2026-07-29T10:00:00Z",
+      "importance": 57,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "101cada557f10bf1",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "MSI 和七彩虹將 Nvidia RTX 50 系列在中國的整個產品線價格提高了 59%——分銷商定價的變化表明 GPU 價格即將上漲",
+      "summary": "隨著中國官方經銷商宣布一夜之間增加整個 Blackwell 產品線，GPU 價格似乎再次上漲。與建議零售價相比，我們看到高端價格大幅上漲了 75%。",
+      "original_title": "MSI and Colorful raise Nvidia RTX 50-series prices in China by up to 59% across the entire lineup — change in distributer pricing suggests GPU price hikes are on the way",
+      "url": "https://www.tomshardware.com/pc-components/gpus/msi-and-colorful-raise-nvidia-rtx-50-series-prices-in-china-by-up-to-59-percent-across-the-entire-lineup-change-in-distributer-pricing-suggests-gpu-price-hikes-are-on-the-way",
+      "source": "Tom's Hardware UK",
+      "domain": "tomshardware.com",
+      "published_at": "2026-07-27T19:47:49Z",
       "importance": 57,
       "impact": "neutral",
       "timeframe": "short_term",
