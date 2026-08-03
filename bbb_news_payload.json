@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-08-03T12:22:40.165781+00:00",
+  "generated_at": "2026-08-03T15:34:11.775521+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 73,
@@ -42,6 +42,44 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
+      "id": "99d867c1b8cdd3d2",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "在 OCP 台灣峰會上，伺服器讓位給光學和先進封裝",
+      "summary": "當今年 OCP 亞太峰會的議程確定時，經驗豐富的觀察家注意到了一些不尋常的事情。台積電、應用材料、愛德萬測試和日月光與微軟、英偉達和谷歌同台。",
+      "original_title": "At OCP's Taiwan summit, servers take a back seat to optics and advanced packaging",
+      "url": "https://www.digitimes.com/news/a20260729VL222/ocp-optics-packaging-infrastructure-servers-taiwan.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-07-31T17:57:00Z",
+      "importance": 73,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "1138e7f56910411d",
@@ -269,44 +307,6 @@
       "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "7ed46fde91a0821f",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "Marvell 本月大幅下跌：專業人士在 12 個月內獲得 120% 的回報",
-      "summary": "Marvell Technology（納斯達克股票代碼：MRVL）目前的交易價格為 183.30 美元，而華爾街的平均 12 個月目標價為 256.91 美元。這使得庫存大致...",
-      "original_title": "Marvell Down Huge This Month: The Pros See 120% Returns in 12 Months",
-      "url": "https://247wallst.com/investing/2026/07/31/marvell-down-huge-this-month-the-pros-see-120-returns-in-12-months/",
-      "source": "24/7 Wall St.",
-      "domain": "247wallst.com",
-      "published_at": "2026-07-31T14:07:39Z",
-      "importance": 65,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "a83884f375d649c5",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -353,44 +353,6 @@
       "source": "24/7 Wall St.",
       "domain": "247wallst.com",
       "published_at": "2026-07-30T15:13:34Z",
-      "importance": 65,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "5e38af795a0c9049",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "智慧手錶和眼鏡能否變得更聰明？高通和聯發科的新穿戴式人工智慧遊戲",
-      "summary": "高通和聯發科的新型 3nm 晶片如何在不影響電池壽命的情況下為智慧手錶和眼鏡帶來設備端人工智慧。",
-      "original_title": "Can smartwatches and glasses get smarter? Inside Qualcomm and MediaTek’s new wearable AI play",
-      "url": "https://www.techradar.com/pro/can-smartwatches-and-glasses-get-smarter-inside-qualcomm-and-mediateks-new-wearable-ai-play",
-      "source": "TechRadar",
-      "domain": "techradar.com",
-      "published_at": "2026-07-29T06:20:00Z",
       "importance": 65,
       "impact": "positive",
       "timeframe": "short_term",
@@ -643,32 +605,32 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "fdd11cb7dec95f9a",
+      "id": "7ed46fde91a0821f",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "iPhone Air 2 預計明年初推出 擁有五項新功能",
-      "summary": "據研究蘋果的投資分析師 Jeff Pu 稱，蘋果計劃在 2027 年第一季發布第二代 iPhone Air。\n\n\n\n\n\n今天，浦在與廣發證券的一份研究報告中表示，iPhone Air 2 將具有以下五項新功能：",
-      "original_title": "iPhone Air 2 Expected to Launch Early Next Year With Five New Features",
-      "url": "https://www.macrumors.com/2026/07/31/iphone-air-2-five-new-features-rumored/",
-      "source": "MacRumors",
-      "domain": "macrumors.com",
-      "published_at": "2026-07-31T15:25:35Z",
+      "theme": "光通訊與矽光子",
+      "title": "Marvell 本月大幅下跌：專業人士在 12 個月內獲得 120% 的回報",
+      "summary": "Marvell Technology（納斯達克股票代碼：MRVL）目前的交易價格為 183.30 美元，而華爾街的平均 12 個月目標價為 256.91 美元。這使得庫存大致...",
+      "original_title": "Marvell Down Huge This Month: The Pros See 120% Returns in 12 Months",
+      "url": "https://247wallst.com/investing/2026/07/31/marvell-down-huge-this-month-the-pros-see-120-returns-in-12-months/",
+      "source": "24/7 Wall St.",
+      "domain": "247wallst.com",
+      "published_at": "2026-07-31T14:07:39Z",
       "importance": 60,
       "impact": "positive",
       "timeframe": "short_term",
       "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
+        "光通訊",
+        "CPO",
+        "矽光子"
       ],
       "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
       ],
       "related_models": [
         "003",
@@ -678,7 +640,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "66cd5a1c6e34fc7e",
@@ -982,41 +944,6 @@
       "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "1de7b779ff384c4c",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "中國 RAM 公司長鑫儲存 (CXMT) 首次上市，市值 4,840 億美元",
-      "summary": "根據《華爾街日報》和 CNBC 早些時候報道，中國儲存公司長鑫儲存科技 (CXMT) 在上海證券交易所上市首日表現強勁，其股價飆升 466%。股市狂潮推升長鑫儲存估值",
-      "original_title": "Chinese RAM company CXMT makes a $484 billion stock market debut",
-      "url": "https://www.theverge.com/tech/971358/cxmt-china-ram-stock-market-debut",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "published_at": "2026-07-27T14:27:57Z",
-      "importance": 58,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "2f4c72b5f04ddf14",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1029,6 +956,44 @@
       "domain": "tomshardware.com",
       "published_at": "2026-07-29T10:00:00Z",
       "importance": 57,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "89ffbb153d1fb086",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "3.2 吉像素 LSST 相機捕捉超過 50 萬個星系",
+      "summary": "來自 NSF-DOE Vera C. Rubin 天文台 32 兆像素 LSST 相機的新影像在其許多像素中呈現了數十萬個遙遠的星系，提供了宇宙中被觀測最多的斑塊之一的壯觀視圖。\n[閱讀更多]",
+      "original_title": "3.2-Gigapixel LSST Camera Captures Over Half a Million Galaxies",
+      "url": "https://petapixel.com/2026/08/02/3-2-gigapixel-lsst-camera-captures-over-half-a-million-galaxies/",
+      "source": "PetaPixel",
+      "domain": "petapixel.com",
+      "published_at": "2026-08-02T14:49:20Z",
+      "importance": 55,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -1204,32 +1169,32 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "ed2a2a5c30b21c27",
+      "id": "fdd11cb7dec95f9a",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "顯示卡可能會變得更加昂貴，而且不僅僅是 Nvidia",
-      "summary": "此時，電腦遊戲正成為一種純粹的奢侈品。",
-      "original_title": "Graphics Cards Could Get Even More Expensive, and It’s Not Just Nvidia",
-      "url": "https://gizmodo.com/graphics-cards-could-get-even-more-expensive-and-its-not-just-nvidia-2000793403",
-      "source": "Gizmodo.com",
-      "domain": "gizmodo.com",
-      "published_at": "2026-07-31T14:55:05Z",
+      "theme": "半導體先進製程",
+      "title": "iPhone Air 2 預計明年初推出 擁有五項新功能",
+      "summary": "據研究蘋果的投資分析師 Jeff Pu 稱，蘋果計劃在 2027 年第一季發布第二代 iPhone Air。\n\n\n\n\n\n今天，浦在與廣發證券的一份研究報告中表示，iPhone Air 2 將具有以下五項新功能：",
+      "original_title": "iPhone Air 2 Expected to Launch Early Next Year With Five New Features",
+      "url": "https://www.macrumors.com/2026/07/31/iphone-air-2-five-new-features-rumored/",
+      "source": "MacRumors",
+      "domain": "macrumors.com",
+      "published_at": "2026-07-31T15:25:35Z",
       "importance": 55,
-      "impact": "neutral",
+      "impact": "positive",
       "timeframe": "short_term",
       "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
+        "半導體",
+        "CoWoS",
+        "先進製程"
       ],
       "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
       ],
       "related_models": [
         "003",
@@ -1239,7 +1204,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "8c1ece4c2008efd3",
@@ -1610,44 +1575,6 @@
       "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "e6c1a26d8060199e",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "據報道，台灣檢方在中國人工智慧晶片走私調查中拘留了英偉達員工",
-      "summary": "今年早些時候，美國司法部逮捕了人工智慧伺服器製造商超微公司的聯合創始人，罪名是涉嫌向中國走私英偉達的先進人工智慧晶片。",
-      "original_title": "Taiwan Prosecutors Reportedly Detain Nvidia Staffer In China AI Chip Smuggling Probe",
-      "url": "https://www.forbes.com/sites/siladityaray/2026/07/28/taiwan-prosecutors-reportedly-detain-nvidia-staffer-in-china-ai-chip-smuggling-probe/",
-      "source": "Forbes",
-      "domain": "forbes.com",
-      "published_at": "2026-07-28T09:50:16Z",
-      "importance": 55,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "cd020f53c8f97132",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1722,6 +1649,79 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "1de7b779ff384c4c",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "中國 RAM 公司長鑫儲存 (CXMT) 首次上市，市值 4,840 億美元",
+      "summary": "根據《華爾街日報》和 CNBC 早些時候報道，中國儲存公司長鑫儲存科技 (CXMT) 在上海證券交易所上市首日表現強勁，其股價飆升 466%。股市狂潮推升長鑫儲存估值",
+      "original_title": "Chinese RAM company CXMT makes a $484 billion stock market debut",
+      "url": "https://www.theverge.com/tech/971358/cxmt-china-ram-stock-market-debut",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "published_at": "2026-07-27T14:27:57Z",
+      "importance": 53,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "ed2a2a5c30b21c27",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "顯示卡可能會變得更加昂貴，而且不僅僅是 Nvidia",
+      "summary": "此時，電腦遊戲正成為一種純粹的奢侈品。",
+      "original_title": "Graphics Cards Could Get Even More Expensive, and It’s Not Just Nvidia",
+      "url": "https://gizmodo.com/graphics-cards-could-get-even-more-expensive-and-its-not-just-nvidia-2000793403",
+      "source": "Gizmodo.com",
+      "domain": "gizmodo.com",
+      "published_at": "2026-07-31T14:55:05Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "7aae268a4b1561e0",
