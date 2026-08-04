@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-03T20:19:00.145777+00:00
+> 更新時間：2026-08-04T00:09:05.495056+00:00
 
 ### 🚀 康寧押注 SiPh 和 CPO 推動人工智慧資料中心成長
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -10,12 +10,39 @@
 
 ---
 
+### 🚀 Did SK Hynix’s Record $42 Billion Q2 Profit Just Prove the Memory Boom Went Bust?
+- **題材**: `HBM記憶體` | **重要性**: `75`
+- **來源**: 24/7 Wall St. (2026-07-29T12:00:40Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: SK 海力士剛剛公佈了晶片製造商多年來最爆炸性的利潤增長，但投資者的反應是以低於 IPO 價格的價格出售該股票。這...
+- [原文連結](https://247wallst.com/investing/2026/07/29/did-sk-hynixs-record-42-billion-q2-profit-just-prove-the-memory-boom-went-bust/)
+
+---
+
 ### ⚖️ 欣興微電子稱英特爾EMIB-T要到2027年才能量產，先進封裝競爭加劇
 - **題材**: `半導體先進製程` | **重要性**: `73`
 - **來源**: Digitimes (2026-07-31T00:02:07Z)
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 據欣興微電子稱，台積電的 CoWoS 產能依然緊張，對第二條供應路線的需求正在加強，英特爾的 EMIB-T 先進封裝平台要到 2027 年才能實現真正的量產。該基板製造商表示，新平台…
 - [原文連結](https://www.digitimes.com/news/a20260730PD212/packaging-cowos-unimicron-tsmc-production.html)
+
+---
+
+### 🚀 隨著人工智慧需求不斷增長，韓國晶片出口越來越多地流向台灣，由台積電封裝
+- **題材**: `半導體先進製程` | **重要性**: `73`
+- **來源**: Digitimes (2026-07-30T08:52:00Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Growing demand for AI chips is sending a larger share of South Korea's semiconductor exports to Taiwan, where Korean-made high-bandwidth memory (HBM) moves into advanced packaging processes led by TSMC.
+- [原文連結](https://www.digitimes.com/news/a20260730VL232/chips-taiwan-demand-packaging-tsmc.html)
+
+---
+
+### ⚖️ At OCP's Taiwan summit, servers take a back seat to optics and advanced packaging
+- **題材**: `半導體先進製程` | **重要性**: `68`
+- **來源**: Digitimes (2026-07-31T17:57:00Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: When the agenda for this year's OCP APAC Summit landed, seasoned observers noticed something unusual. TSMC, Applied Materials, Advantest, and ASE are sharing the stage with Microsoft, Nvidia, and Google.
+- [原文連結](https://www.digitimes.com/news/a20260729VL222/ocp-optics-packaging-infrastructure-servers-taiwan.html)
 
 ---
 
@@ -109,6 +136,15 @@
 
 ---
 
+### ⚠️ Amazon Will Give Tariff Refunds to Some Customers
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: CNET (2026-08-02T16:00:40Z)
+- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 這家線上零售巨頭沒有透露誰有資格獲得退款，也沒有透露每個接收者將收到多少金額。
+- [原文連結](https://www.cnet.com/tech/amazon-will-give-tariff-refunds-to-some-customers/)
+
+---
+
 ### ⚖️ 新創公司將昂貴的 AI GPU 換成 Arm 核心和高達 128TB 的「便宜」LPDDR6 RAM，而不是昂貴的 HBM，以打破記憶體牆
 - **題材**: `AI伺服器` | **重要性**: `60`
 - **來源**: TechRadar (2026-08-02T00:25:00Z)
@@ -127,57 +163,21 @@
 
 ---
 
+### ⚠️ 應用光電和相干公司上漲 7%，Lumentum 上漲 5%，風險情緒蔓延至光學股
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: 24/7 Wall St. (2026-07-31T19:17:49Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 隨著人工智慧資料中心的需求將估值推向三位數，光學股的漲幅遠遠超過了半導體股的整體​​漲幅，但光學股之間的差距...
+- [原文連結](https://247wallst.com/investing/2026/07/31/applied-optoelectronics-and-coherent-gain-7-lumentum-adds-5-as-risk-on-feeling-spreads-to-optics-stocks/)
+
+---
+
 ### 🚀 SanDisk 一個月內下跌 45%。內存投資者現在應該轉向美光還是 SK 海力士嗎？
 - **題材**: `HBM記憶體` | **重要性**: `60`
 - **來源**: 24/7 Wall St. (2026-07-31T18:36:06Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 內存股最近表現很殘酷，但並非所有股票都受到同樣的傷害，贏家和輸家之間的差距可能會告訴投資者到底在哪裡...
 - [原文連結](https://247wallst.com/investing/2026/07/31/sandisk-is-down-45-in-a-month-should-memory-investors-switch-to-micron-or-sk-hynix-now/)
-
----
-
-### 🚀 Marvell 本月大幅下跌：專業人士在 12 個月內獲得 120% 的回報
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: 24/7 Wall St. (2026-07-31T14:07:39Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Marvell Technology（納斯達克股票代碼：MRVL）目前的交易價格為 183.30 美元，而華爾街的平均 12 個月目標價為 256.91 美元。這使得庫存大致...
-- [原文連結](https://247wallst.com/investing/2026/07/31/marvell-down-huge-this-month-the-pros-see-120-returns-in-12-months/)
-
----
-
-### ⚖️ 谷歌計劃在 2028 年生產多達 1500 萬顆 AI 晶片，與 Nvidia 的加速器總量相媲美
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: TechSpot (2026-07-31T12:03:00Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 如果這些數字成立，Google的產量將與英偉達的預計出貨量處於同一範圍。 Fubon 估計 Nvidia 在 2026 年供應了 820 萬個資料中心 GPU，到 2028 年可能達到 1,240 萬個。這將標誌著一個顯著的轉變，單一 c...
-- [原文連結](https://www.techspot.com/news/113307-google-plans-produce-up-15-million-ai-chips.html)
-
----
-
-### ⚖️ RAM製造商僅賺550億美元就遭受股市重創
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: Kotaku (2026-07-30T11:13:16Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: SK海力士被迫在2026年第二季財報中解釋為何其利潤僅比冰島全國GDP多100億美元
-- [原文連結](https://kotaku.com/ram-manufacturer-gets-pummeled-by-stock-market-for-only-making-55-billion-2000720432)
-
----
-
-### ⚖️ 矽光子學如何照亮資料中心的道路
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: TechRadar (2026-07-30T10:20:56Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 隨著人工智慧為資料中心基礎設施帶來壓力，矽光子學希望提供更快、更節能的運算。
-- [原文連結](https://www.techradar.com/pro/how-silicon-photonics-lights-the-way-for-data-centers)
-
----
-
-### ⚖️ SpaceX 正在改進 220K GPU 模組化人工智慧資料中心
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: Next Big Future (2026-07-30T01:27:37Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: SpaceX 正在製造 minihard，這是一種改進的模組化 220K GB300 資料中心。它將是 Macrohard 和 Macrohardrr 右側的一座小建築。這是 Elon 和 SpaceXAI 今年關於其基礎設施所說的最重要的事情。 Minihard 大約佔 25%...
-- [原文連結](https://www.nextbigfuture.com/2026/07/spacex-is-making-improved-220k-gpu-modular-ai-data-centers.html)
 
 ---
 
