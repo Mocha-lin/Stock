@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-04T00:09:05.495056+00:00
+> 更新時間：2026-08-04T03:58:03.339654+00:00
 
 ### 🚀 康寧押注 SiPh 和 CPO 推動人工智慧資料中心成長
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -25,15 +25,6 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 據欣興微電子稱，台積電的 CoWoS 產能依然緊張，對第二條供應路線的需求正在加強，英特爾的 EMIB-T 先進封裝平台要到 2027 年才能實現真正的量產。該基板製造商表示，新平台…
 - [原文連結](https://www.digitimes.com/news/a20260730PD212/packaging-cowos-unimicron-tsmc-production.html)
-
----
-
-### 🚀 隨著人工智慧需求不斷增長，韓國晶片出口越來越多地流向台灣，由台積電封裝
-- **題材**: `半導體先進製程` | **重要性**: `73`
-- **來源**: Digitimes (2026-07-30T08:52:00Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Growing demand for AI chips is sending a larger share of South Korea's semiconductor exports to Taiwan, where Korean-made high-bandwidth memory (HBM) moves into advanced packaging processes led by TSMC.
-- [原文連結](https://www.digitimes.com/news/a20260730VL232/chips-taiwan-demand-packaging-tsmc.html)
 
 ---
 
@@ -178,6 +169,15 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 內存股最近表現很殘酷，但並非所有股票都受到同樣的傷害，贏家和輸家之間的差距可能會告訴投資者到底在哪裡...
 - [原文連結](https://247wallst.com/investing/2026/07/31/sandisk-is-down-45-in-a-month-should-memory-investors-switch-to-micron-or-sk-hynix-now/)
+
+---
+
+### 🚀 Marvell 本月大幅下跌：專業人士在 12 個月內獲得 120% 的回報
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: 24/7 Wall St. (2026-07-31T14:07:39Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Marvell Technology（納斯達克股票代碼：MRVL）目前的交易價格為 183.30 美元，而華爾街的平均 12 個月目標價為 256.91 美元。這使得庫存大致...
+- [原文連結](https://247wallst.com/investing/2026/07/31/marvell-down-huge-this-month-the-pros-see-120-returns-in-12-months/)
 
 ---
 
