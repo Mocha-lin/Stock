@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-04T15:13:14.353012+00:00
+> 更新時間：2026-08-04T18:20:33.223979+00:00
 
 ### 🚀 MA-tek出售上海子公司，擴大日本和美國的人工智慧市場
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -28,12 +28,21 @@
 
 ---
 
-### ⚖️ At OCP's Taiwan summit, servers take a back seat to optics and advanced packaging
-- **題材**: `半導體先進製程` | **重要性**: `68`
-- **來源**: Digitimes (2026-07-31T17:57:00Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: When the agenda for this year's OCP APAC Summit landed, seasoned observers noticed something unusual. TSMC, Applied Materials, Advantest, and ASE are sharing the stage with Microsoft, Nvidia, and Google.
-- [原文連結](https://www.digitimes.com/news/a20260729VL222/ocp-optics-packaging-infrastructure-servers-taiwan.html)
+### 🚀 雪佛龍在獲利井噴後發給員工特別獎金
+- **題材**: `總體風險` | **重要性**: `70`
+- **來源**: Yahoo Entertainment (2026-08-03T18:00:34Z)
+- **AI 判讀**: 屬「總體風險」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 休士頓，8 月 3 日（路透社）
+- [原文連結](https://finance.yahoo.com/energy/articles/chevron-awards-staff-special-bonus-180034093.html)
+
+---
+
+### 🚀 收購英特爾而不是台積電並不像看起來那麼瘋狂
+- **題材**: `半導體先進製程` | **重要性**: `70`
+- **來源**: 24/7 Wall St. (2026-08-03T16:06:51Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 台積電在每項傳統指標上都佔據主導地位，但一個被忽視的結構性因素正在悄悄使其鬥志旺盛的競爭對手成為未來 24 年更具吸引力的賭注…
+- [原文連結](https://247wallst.com/investing/2026/08/03/buying-intel-over-tsmc-isnt-as-crazy-as-it-might-seem/)
 
 ---
 
@@ -118,6 +127,15 @@
 
 ---
 
+### ⚠️ The Tariff Refunds Are Rolling in—but Gadget Prices Aren’t Dropping
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Gizmodo.com (2026-08-03T18:15:07Z)
+- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 亞馬遜承諾，您可以在“有限的情況下”獲得部分退款。
+- [原文連結](https://gizmodo.com/the-tariff-refunds-are-rolling-in-but-gadget-prices-arent-dropping-2000794037)
+
+---
+
 ### ⚠️ 記憶體晶片製造商三星表示，2027年零件短缺將繼續惡化，同時從中賺取了可觀的利潤
 - **題材**: `HBM記憶體` | **重要性**: `60`
 - **來源**: Eurogamer.net (2026-08-03T11:33:01Z)
@@ -161,24 +179,6 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 內存股最近表現很殘酷，但並非所有股票都受到同樣的傷害，贏家和輸家之間的差距可能會告訴投資者到底在哪裡...
 - [原文連結](https://247wallst.com/investing/2026/07/31/sandisk-is-down-45-in-a-month-should-memory-investors-switch-to-micron-or-sk-hynix-now/)
-
----
-
-### 🚀 Marvell 本月大幅下跌：專業人士在 12 個月內獲得 120% 的回報
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: 24/7 Wall St. (2026-07-31T14:07:39Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Marvell Technology（納斯達克股票代碼：MRVL）目前的交易價格為 183.30 美元，而華爾街的平均 12 個月目標價為 256.91 美元。這使得庫存大致...
-- [原文連結](https://247wallst.com/investing/2026/07/31/marvell-down-huge-this-month-the-pros-see-120-returns-in-12-months/)
-
----
-
-### ⚖️ 谷歌計劃在 2028 年生產多達 1500 萬顆 AI 晶片，與 Nvidia 的加速器總量相媲美
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: TechSpot (2026-07-31T12:03:00Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 如果這些數字成立，Google的產量將與英偉達的預計出貨量處於同一範圍。 Fubon 估計 Nvidia 在 2026 年供應了 820 萬個資料中心 GPU，到 2028 年可能達到 1,240 萬個。這將標誌著一個顯著的轉變，單一 c...
-- [原文連結](https://www.techspot.com/news/113307-google-plans-produce-up-15-million-ai-chips.html)
 
 ---
 

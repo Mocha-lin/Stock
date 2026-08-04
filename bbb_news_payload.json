@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-08-04T15:13:14.353012+00:00",
+  "generated_at": "2026-08-04T18:20:33.223979+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 73,
@@ -120,19 +120,57 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
-      "id": "99d867c1b8cdd3d2",
+      "id": "5c4509ae1504fd9a",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "雪佛龍在獲利井噴後發給員工特別獎金",
+      "summary": "休士頓，8 月 3 日（路透社）",
+      "original_title": "Chevron awards staff special bonus following earnings blowout",
+      "url": "https://finance.yahoo.com/energy/articles/chevron-awards-staff-special-bonus-180034093.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-08-03T18:00:34Z",
+      "importance": 70,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
+      "id": "09d97fedab576ece",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "半導體先進製程",
-      "title": "At OCP's Taiwan summit, servers take a back seat to optics and advanced packaging",
-      "summary": "When the agenda for this year's OCP APAC Summit landed, seasoned observers noticed something unusual. TSMC, Applied Materials, Advantest, and ASE are sharing the stage with Microsoft, Nvidia, and Google.",
-      "original_title": "At OCP's Taiwan summit, servers take a back seat to optics and advanced packaging",
-      "url": "https://www.digitimes.com/news/a20260729VL222/ocp-optics-packaging-infrastructure-servers-taiwan.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-07-31T17:57:00Z",
-      "importance": 68,
-      "impact": "neutral",
+      "title": "收購英特爾而不是台積電並不像看起來那麼瘋狂",
+      "summary": "台積電在每項傳統指標上都佔據主導地位，但一個被忽視的結構性因素正在悄悄使其鬥志旺盛的競爭對手成為未來 24 年更具吸引力的賭注…",
+      "original_title": "Buying Intel Over TSMC Isn’t as Crazy as It Might Seem",
+      "url": "https://247wallst.com/investing/2026/08/03/buying-intel-over-tsmc-isnt-as-crazy-as-it-might-seem/",
+      "source": "24/7 Wall St.",
+      "domain": "247wallst.com",
+      "published_at": "2026-08-03T16:06:51Z",
+      "importance": 70,
+      "impact": "positive",
       "timeframe": "short_term",
       "tags": [
         "半導體",
@@ -155,7 +193,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "a846a5ba5755675a",
@@ -495,6 +533,44 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "2d1cc46b8282989a",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "The Tariff Refunds Are Rolling in—but Gadget Prices Aren’t Dropping",
+      "summary": "亞馬遜承諾，您可以在“有限的情況下”獲得部分退款。",
+      "original_title": "The Tariff Refunds Are Rolling in—but Gadget Prices Aren’t Dropping",
+      "url": "https://gizmodo.com/the-tariff-refunds-are-rolling-in-but-gadget-prices-arent-dropping-2000794037",
+      "source": "Gizmodo.com",
+      "domain": "gizmodo.com",
+      "published_at": "2026-08-03T18:15:07Z",
+      "importance": 60,
+      "impact": "negative",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "0744cd32c4a898c4",
@@ -991,6 +1067,44 @@
       "domain": "tomshardware.com",
       "published_at": "2026-07-29T10:00:00Z",
       "importance": 57,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "e18091d7411c48fe",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "魯賓近距離觀察宇宙場，在一張影像中揭示了超過 65 萬個星系",
+      "summary": "該天文台最近開始使用世界上最大的數位相機對南方天空進行為期 10 年的調查。",
+      "original_title": "Rubin Gets a Closer Look at the COSMOS Field, Revealing More Than 650,000 Galaxies in One Image",
+      "url": "https://gizmodo.com/rubin-gets-a-closer-look-at-the-cosmos-field-revealing-more-than-650000-galaxies-in-one-image-2000793928",
+      "source": "Gizmodo.com",
+      "domain": "gizmodo.com",
+      "published_at": "2026-08-03T17:25:31Z",
+      "importance": 55,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -1949,44 +2063,6 @@
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "c391362bcc5052cf",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "經濟略有放緩，但美國人繼續消費",
-      "summary": "The U.S. economy grew at an annual rate of 1.5% in the spring, according to the Commerce Department. That's a modest slowdown from the previous quarter — but consumer spending picked up steam.",
-      "original_title": "The economy slowed a bit -- but Americans continued to spend",
-      "url": "https://www.npr.org/2026/07/30/nx-s1-5913230/economy-gdp-inflation",
-      "source": "NPR",
-      "domain": "npr.org",
-      "published_at": "2026-07-30T14:47:23Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "8e11ed341758c93f",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2364,44 +2440,6 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "deaf9c220031b099",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "Top US oil trade group opposes Hormuz tolls after Gulf-backed voluntary fee proposal",
-      "summary": "NEW YORK, July 28 (Reuters) - The American Petroleum Institute opposes tolls or transit fees for ‌vessels crossing the Strait of Hormuz, the top U. oil ‌indu...",
-      "original_title": "Top US oil trade group opposes Hormuz tolls after Gulf-backed voluntary fee proposal",
-      "url": "https://www.yahoo.com/news/politics/articles/top-us-oil-trade-group-225534792.html",
-      "source": "Yahoo Entertainment",
-      "domain": "yahoo.com",
-      "published_at": "2026-07-28T22:55:34Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "e0867b79429b5f90",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2438,44 +2476,6 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "e6c1a26d8060199e",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Taiwan Prosecutors Reportedly Detain Nvidia Staffer In China AI Chip Smuggling Probe",
-      "summary": "Earlier this year, the U.S. Justice Department arrested the co-founder of AI server maker Super Micro for allegedly smuggling Nvidia’s advanced AI chips to China.",
-      "original_title": "Taiwan Prosecutors Reportedly Detain Nvidia Staffer In China AI Chip Smuggling Probe",
-      "url": "https://www.forbes.com/sites/siladityaray/2026/07/28/taiwan-prosecutors-reportedly-detain-nvidia-staffer-in-china-ai-chip-smuggling-probe/",
-      "source": "Forbes",
-      "domain": "forbes.com",
-      "published_at": "2026-07-28T09:50:16Z",
-      "importance": 50,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "cd020f53c8f97132",
