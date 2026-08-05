@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-05T20:19:14.811460+00:00
+> 更新時間：2026-08-05T23:59:45.801925+00:00
 
 ### 🚀 MA-tek出售上海子公司，擴大日本和美國的人工智慧市場
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -28,6 +28,15 @@
 
 ---
 
+### 🚀 市場飆升至歷史新高
+- **題材**: `總體風險` | **重要性**: `70`
+- **來源**: Yahoo Entertainment (2026-08-04T23:36:32Z)
+- **AI 判讀**: 屬「總體風險」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 在企業獲利和油價下跌的推動下，道瓊斯指數和標準普爾指數收在創紀錄水準。 NBC News’ Allie Canal explains.
+- [原文連結](https://www.yahoo.com/news/videos/markets-surge-record-highs-233632229.html)
+
+---
+
 ### 🚀 雪佛龍在獲利井噴後發給員工特別獎金
 - **題材**: `總體風險` | **重要性**: `70`
 - **來源**: Yahoo Entertainment (2026-08-03T18:00:34Z)
@@ -46,21 +55,30 @@
 
 ---
 
-### ⚖️ 印度推出本土矽光子工具，以擴大研究人員和產業的使用範圍
-- **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-07-29T23:58:01Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 印度推出了兩種自主開發的矽光子解決方案，以加強本地晶片設計和測試能力。此舉可能對印度以外的地區產生影響，因為它可以擴大全球供應鏈，降低發展壁壘，並加速…
-- [原文連結](https://www.digitimes.com/news/a20260729PR202/photonics-silicon-development-testing-technology.html)
-
----
-
 ### ⚖️ 分析師稱，到 2028 年，谷歌可能會製造出比 Nvidia 銷量還要多的人工智慧加速器，這可能會促使該公司使用英特爾代工來實現其目標
 - **題材**: `半導體先進製程` | **重要性**: `67`
 - **來源**: Tom's Hardware UK (2026-07-30T14:35:50Z)
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 如果富邦研究院的報告準確的話，谷歌計劃在 2028 年建造比 Nvidia 更多的 TPU AI 加速器。
 - [原文連結](https://www.tomshardware.com/tech-industry/artificial-intelligence/google-could-build-more-ai-accelerators-than-nvidia-sells-in-2028-analyst-claims-could-push-the-company-to-use-intel-foundry-to-meet-its-goals)
+
+---
+
+### 🚀 伊朗談判和人工智慧相關獲利推動道瓊斯指數和標準普爾 500 指數創下歷史新高
+- **題材**: `總體風險` | **重要性**: `65`
+- **來源**: Yahoo Entertainment (2026-08-04T23:50:55Z)
+- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 由於人工智慧相關公司的獲利，道瓊指數和標準普爾 500 指數創下歷史新高，而原油價格則下跌至 6% 左右。 NBC 新聞的艾莉運河報導。
+- [原文連結](https://www.yahoo.com/news/videos/dow-p-500-hit-record-235055722.html)
+
+---
+
+### ⚖️ Tower Semiconductor 超越第二季預期並發布強勁的第三季營收前景
+- **題材**: `光通訊與矽光子` | **重要性**: `65`
+- **來源**: Advfn.com (2026-08-04T14:07:32Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Tower Semiconductor (NASDAQ:TSEM) reported second-quarter 2026 results that surpassed Wall Street expectations and issued third-quarter revenue guidance that...
+- [原文連結](https://investorshub.advfn.com/market-news/article/33371/tower-semiconductor-beats-second-quarter-estimates-and-issues-strong-q3-revenue-outlook)
 
 ---
 
@@ -100,6 +118,15 @@
 
 ---
 
+### ⚖️ 印度推出本土矽光子工具，以擴大研究人員和產業的使用範圍
+- **題材**: `光通訊與矽光子` | **重要性**: `63`
+- **來源**: Digitimes (2026-07-29T23:58:01Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 印度推出了兩種自主開發的矽光子解決方案，以加強本地晶片設計和測試能力。此舉可能對印度以外的地區產生影響，因為它可以擴大全球供應鏈，降低發展壁壘，並加速…
+- [原文連結](https://www.digitimes.com/news/a20260729PR202/photonics-silicon-development-testing-technology.html)
+
+---
+
 ### ⚠️ 英偉達員工涉嫌不斷升級的超微走私醜聞，但對英偉達硬體的需求只會增加
 - **題材**: `AI伺服器` | **重要性**: `62`
 - **來源**: Tom's Hardware UK (2026-07-29T15:10:06Z)
@@ -109,12 +136,30 @@
 
 ---
 
+### ⚖️ 川普稱埃克森美孚和雪佛龍在伊朗戰爭中“賺了太多錢”
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Abcnews.com (2026-08-04T20:37:26Z)
+- **AI 判讀**: 屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 唐納德·川普總統敦促石油巨頭埃克森美孚和雪佛龍削減零售燃料價格。
+- [原文連結](https://abcnews.com/Business/trump-exxon-chevron-making-money-high-oil-prices/story?id=135355761)
+
+---
+
 ### ⚖️ Corvex 簽署多年 NVIDIA Blackwell GPU 協議，無需額外發行股票
 - **題材**: `AI伺服器` | **重要性**: `60`
 - **來源**: Advfn.com (2026-08-04T15:27:28Z)
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Corvex（納斯達克股票代碼：MOVE）簽訂了一份多年期協議，提供 NVIDIA Blackwell GPU 基礎設施，透過債務、客戶預付款等方式為擴張提供資金…
 - [原文連結](https://investorshub.advfn.com/market-news/article/33399/corvex-signs-multi-year-nvidia-blackwell-gpu-agreement-without-additional-equity-issuance)
+
+---
+
+### 🚀 英特爾與台積電：英特爾正在贏得一場很少有投資者關注的與台積電的人工智慧大戰
+- **題材**: `半導體先進製程` | **重要性**: `60`
+- **來源**: Barchart.com (2026-08-04T14:41:39Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: TSMC is reportedly developing an Intel-inspired packaging technology, suggesting AI chip packaging is becoming a key battleground, giving Intel a rare chance...
+- [原文連結](https://www.barchart.com/story/news/3638932/intel-vs-tsmc-intel-is-winning-an-ai-battle-against-tsmc-that-few-investors-are-watching)
 
 ---
 
@@ -133,52 +178,6 @@
 - **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 亞馬遜承諾，您可以在“有限的情況下”獲得部分退款。
 - [原文連結](https://gizmodo.com/the-tariff-refunds-are-rolling-in-but-gadget-prices-arent-dropping-2000794037)
-
----
-
-### ⚠️ 記憶體晶片製造商三星表示，2027年零件短缺將繼續惡化，同時從中賺取了可觀的利潤
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: Eurogamer.net (2026-08-03T11:33:01Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 三星是全球最大的記憶體和儲存製造商之一，它給那些希望全球零件短缺問題很快就會緩解的人帶來了壞消息。三星佔據了全球約三分之一的內存供應，在一份報告中透露…
-- [原文連結](https://www.eurogamer.net/samsung-memory-shortage-2027-2028-q2-earnings)
-
----
-
-### ⚖️ 鑑於庫克的評論，大量使用 Siri AI 的成本可能超出我們的預期
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: 9to5Mac (2026-08-03T11:03:51Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 即將離任的蘋果執行長庫克在財報電話會議上發表的似乎是故意含糊其辭的言論表明，大量使用 Siri 人工智慧的成本可能比我們迄今為止預期的要高。
-雖然我們似乎一直很清楚我們無法無限制地…
-- [原文連結](https://9to5mac.com/2026/08/03/heavy-siri-ai-usage-could-cost-more-than-we-expected-given-cooks-comment/)
-
----
-
-### ⚖️ 據報道，台積電正在開發先進晶片封裝技術，挑戰英特爾的主導地位
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-08-01T22:00:22Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 據報道，台積電正在開發一種先進的封裝技術，這可能會削弱英特爾公司的競爭優勢。網際網路...
-- [原文連結](https://finance.yahoo.com/technology/articles/tsmc-reportedly-developing-advanced-chip-220022568.html)
-
----
-
-### 🚀 SanDisk 一個月內下跌 45%。內存投資者現在應該轉向美光還是 SK 海力士嗎？
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: 24/7 Wall St. (2026-07-31T18:36:06Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 內存股最近表現很殘酷，但並非所有股票都受到同樣的傷害，贏家和輸家之間的差距可能會告訴投資者到底在哪裡...
-- [原文連結](https://247wallst.com/investing/2026/07/31/sandisk-is-down-45-in-a-month-should-memory-investors-switch-to-micron-or-sk-hynix-now/)
-
----
-
-### 🚀 Marvell 本月大幅下跌：專業人士在 12 個月內獲得 120% 的回報
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: 24/7 Wall St. (2026-07-31T14:07:39Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Marvell Technology（納斯達克股票代碼：MRVL）目前的交易價格為 183.30 美元，而華爾街的平均 12 個月目標價為 256.91 美元。這使得庫存大致...
-- [原文連結](https://247wallst.com/investing/2026/07/31/marvell-down-huge-this-month-the-pros-see-120-returns-in-12-months/)
 
 ---
 
