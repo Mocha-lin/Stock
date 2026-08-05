@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-05T00:02:44.769685+00:00
+> 更新時間：2026-08-05T03:53:29.187408+00:00
 
 ### 🚀 MA-tek出售上海子公司，擴大日本和美國的人工智慧市場
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -7,15 +7,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: MA-tek 於 2026 年 7 月 31 日宣布，隨著全球半導體供應鏈重新洗牌以及人工智慧、高效能運算 (HPC)、先進製程等需求激增，將以約 19 億元人民幣（2.814 億美元）出售其上海子公司 80% 的股權。
 - [原文連結](https://www.digitimes.com/news/a20260803PD223/ma-tek-shanghai-market-2026-revenue.html)
-
----
-
-### 🚀 康寧押注 SiPh 和 CPO 推動人工智慧資料中心成長
-- **題材**: `光通訊與矽光子` | **重要性**: `78`
-- **來源**: Digitimes (2026-07-29T03:23:16Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 康寧預計人工智慧基礎設施將成為日益強大的成長引擎，概述了其玻璃技術將如何超越傳統光纖，進入矽光子學 (SiPh) 和共封裝光學 (CPO) 領域，用於下一代人工智慧資料中心…
-- [原文連結](https://www.digitimes.com/news/a20260729VL213/corning-siph-growth-cpo-photonics.html)
 
 ---
 
@@ -34,6 +25,15 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 據欣興微電子稱，台積電的 CoWoS 產能依然緊張，對第二條供應路線的需求正在加強，英特爾的 EMIB-T 先進封裝平台要到 2027 年才能實現真正的量產。該基板製造商表示，新平台…
 - [原文連結](https://www.digitimes.com/news/a20260730PD212/packaging-cowos-unimicron-tsmc-production.html)
+
+---
+
+### 🚀 康寧押注 SiPh 和 CPO 推動人工智慧資料中心成長
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-07-29T03:23:16Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 康寧預計人工智慧基礎設施將成為日益強大的成長引擎，概述了其玻璃技術將如何超越傳統光纖，進入矽光子學 (SiPh) 和共封裝光學 (CPO) 領域，用於下一代人工智慧資料中心…
+- [原文連結](https://www.digitimes.com/news/a20260729VL213/corning-siph-growth-cpo-photonics.html)
 
 ---
 
@@ -79,6 +79,15 @@
 - **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 一名英偉達員工涉嫌超微走私醜聞，他的家和辦公桌都被搜查。他因偽造和違反信任的指控而被拘留。與此同時，英偉達正在縮減其買家名單，以根除潛在的自鳴得意的人…
 - [原文連結](https://www.tomshardware.com/tech-industry/nvidia-employee-implicated-in-escalating-supermicro-smuggling-scandal-but-demand-only-intensifies-for-nvidia-hardware)
+
+---
+
+### 🚀 世界上最大的數位相機剛剛拍攝了一張包含超過五十萬個星系的影像
+- **題材**: `AI伺服器` | **重要性**: `65`
+- **來源**: Lightstalking.com (2026-08-04T02:45:18Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 智利的維拉·C·魯賓天文台最近發布了一張令人驚嘆的宇宙深空圖像，顯然包含超過 50 萬個星系。不是恆星，是星系！這張令人興奮的影像是使用 LSST 相機拍攝的，該相機保持著世界上最...
+- [原文連結](https://www.lightstalking.com/the-worlds-largest-digital-camera-just-produced-an-image-containing-more-than-half-a-million-galaxies/)
 
 ---
 
@@ -161,15 +170,6 @@
 - **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 這家線上零售巨頭沒有透露誰有資格獲得退款，也沒有透露每個接收者將收到多少金額。
 - [原文連結](https://www.cnet.com/tech/amazon-will-give-tariff-refunds-to-some-customers/)
-
----
-
-### ⚖️ 新創公司將昂貴的 AI GPU 換成 Arm 核心和高達 128TB 的「便宜」LPDDR6 RAM，而不是昂貴的 HBM，以打破記憶體牆
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: TechRadar (2026-08-02T00:25:00Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Majestic Labs 推出了一款基於 Arm 的 AI 伺服器，以統一的 LPDDR6 記憶體取代 GPU，聲稱成本更低，容量大幅增加。
-- [原文連結](https://www.techradar.com/pro/startup-swaps-costly-ai-gpus-for-arm-cores-and-up-to-128tb-of-cheap-lpddr6-ram-instead-of-expensive-hbm-to-smash-through-the-memory-wall)
 
 ---
 
