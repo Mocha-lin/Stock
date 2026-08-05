@@ -1,9 +1,9 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-08-04T20:15:31.430719+00:00",
+  "generated_at": "2026-08-05T00:02:44.769685+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
-  "total_count": 73,
+  "total_count": 74,
   "items": [
     {
       "id": "12ddf3db19ef75f2",
@@ -80,6 +80,41 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
+      "id": "8c10c3fc7b24e7ae",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "SK 海力士第二季創紀錄的 420 億美元利潤是否只是證明記憶體繁榮已經破滅？",
+      "summary": "SK 海力士剛剛公佈了晶片製造商多年來最爆炸性的利潤增長，但投資者的反應是以低於 IPO 價格的價格出售該股票。這...",
+      "original_title": "Did SK Hynix’s Record $42 Billion Q2 Profit Just Prove the Memory Boom Went Bust?",
+      "url": "https://247wallst.com/investing/2026/07/29/did-sk-hynixs-record-42-billion-q2-profit-just-prove-the-memory-boom-went-bust/",
+      "source": "24/7 Wall St.",
+      "domain": "247wallst.com",
+      "published_at": "2026-07-29T12:00:40Z",
+      "importance": 75,
+      "impact": "positive",
+      "timeframe": "short_to_mid_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "1138e7f56910411d",
@@ -308,44 +343,6 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "d584f11b95f0108a",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "據報道，台積電正在開發先進晶片封裝技術，挑戰英特爾的主導地位",
-      "summary": "據報道，台積電正在開發一種先進的封裝技術，這可能會削弱英特爾公司的競爭優勢。網際網路...",
-      "original_title": "TSMC Is Reportedly Developing Advanced Chip Packaging Tech to Challenge Intel's Dominance",
-      "url": "https://finance.yahoo.com/technology/articles/tsmc-reportedly-developing-advanced-chip-220022568.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-08-01T22:00:22Z",
-      "importance": 65,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "a83884f375d649c5",
@@ -646,6 +643,44 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "540aed6ca3a87f6d",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "亞馬遜將向部分客戶提供關稅退款",
+      "summary": "這家線上零售巨頭沒有透露誰有資格獲得退款，也沒有透露每個接收者將收到多少金額。",
+      "original_title": "Amazon Will Give Tariff Refunds to Some Customers",
+      "url": "https://www.cnet.com/tech/amazon-will-give-tariff-refunds-to-some-customers/",
+      "source": "CNET",
+      "domain": "cnet.com",
+      "published_at": "2026-08-02T16:00:40Z",
+      "importance": 60,
+      "impact": "negative",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "3d043248e6e5dd9d",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -684,29 +719,32 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "fc879e6375372245",
+      "id": "d584f11b95f0108a",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "價值 100 億美元的新創公司獲得 SK 海力士的支持，打造一款只做一件事但性能極其出色的變壓器",
-      "summary": "Etched 以 103 億美元的估值獲得 SK Hynix 的支持，同時利用低壓推理技術擴展客製化人工智慧推理硬體。",
-      "original_title": "$10 billion startup gets SK Hynix backing to build a transformer that does just one thing but exceedingly well",
-      "url": "https://www.techradar.com/pro/usd10b-startup-gets-sk-hynix-backing-to-build-a-transformer-that-does-just-one-thing-but-exceedingly-well",
-      "source": "TechRadar",
-      "domain": "techradar.com",
-      "published_at": "2026-08-01T22:30:00Z",
+      "theme": "半導體先進製程",
+      "title": "據報道，台積電正在開發先進晶片封裝技術，挑戰英特爾的主導地位",
+      "summary": "據報道，台積電正在開發一種先進的封裝技術，這可能會削弱英特爾公司的競爭優勢。網際網路...",
+      "original_title": "TSMC Is Reportedly Developing Advanced Chip Packaging Tech to Challenge Intel's Dominance",
+      "url": "https://finance.yahoo.com/technology/articles/tsmc-reportedly-developing-advanced-chip-220022568.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-08-01T22:00:22Z",
       "importance": 60,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "HBM",
-        "記憶體"
+        "半導體",
+        "CoWoS",
+        "先進製程"
       ],
       "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
       ],
       "related_models": [
         "003",
@@ -716,7 +754,45 @@
         "009",
         "010"
       ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "e2e56a67434b4c1d",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "應用光電和相干公司上漲 7%，Lumentum 上漲 5%，風險情緒蔓延至光學股",
+      "summary": "隨著人工智慧資料中心的需求將估值推向三位數，光學股的漲幅遠遠超過了半導體股的整體​​漲幅，但光學股之間的差距...",
+      "original_title": "Applied Optoelectronics and Coherent Gain 7%, Lumentum Adds 5% as Risk-On Feeling Spreads to Optics Stocks",
+      "url": "https://247wallst.com/investing/2026/07/31/applied-optoelectronics-and-coherent-gain-7-lumentum-adds-5-as-risk-on-feeling-spreads-to-optics-stocks/",
+      "source": "24/7 Wall St.",
+      "domain": "247wallst.com",
+      "published_at": "2026-07-31T19:17:49Z",
+      "importance": 60,
+      "impact": "negative",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "492d970c096fc3fd",
@@ -1017,44 +1093,6 @@
       "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "6e1286e2e332c080",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "天弘第二季財報電話會議亮點",
-      "summary": "Celestica（NYSE：CLS）公佈的 2026 年第二季營收和調整後每股收益高於其指導上限，這得益於人工智慧侵權需求的支撐。",
-      "original_title": "Celestica Q2 Earnings Call Highlights",
-      "url": "https://www.marketbeat.com/instant-alerts/celestica-q2-earnings-call-highlights-2026-07-28/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
-      "source": "MarketBeat",
-      "domain": "marketbeat.com",
-      "published_at": "2026-07-28T13:03:01Z",
-      "importance": 60,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "2f4c72b5f04ddf14",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1215,6 +1253,44 @@
       "source": "NPR",
       "domain": "npr.org",
       "published_at": "2026-08-03T11:57:06Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "d4e3aa313acf08b0",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "Iran says no talks are under way with United States after Trump calls off attacks",
+      "summary": "作者：Steve Holland、Elwely Elwelly 和 Parisa Hafezi 登上空軍一號/杜拜，8 月 3 日（路透社）",
+      "original_title": "Iran says no talks are under way with United States after Trump calls off attacks",
+      "url": "https://www.yahoo.com/news/articles/trump-says-iran-talks-place-232242846.html",
+      "source": "Yahoo Entertainment",
+      "domain": "yahoo.com",
+      "published_at": "2026-08-03T10:26:46Z",
       "importance": 55,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -1430,6 +1506,117 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "fc879e6375372245",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "價值 100 億美元的新創公司獲得 SK 海力士的支持，打造一款只做一件事但性能極其出色的變壓器",
+      "summary": "Etched 以 103 億美元的估值獲得 SK Hynix 的支持，同時利用低壓推理技術擴展客製化人工智慧推理硬體。",
+      "original_title": "$10 billion startup gets SK Hynix backing to build a transformer that does just one thing but exceedingly well",
+      "url": "https://www.techradar.com/pro/usd10b-startup-gets-sk-hynix-backing-to-build-a-transformer-that-does-just-one-thing-but-exceedingly-well",
+      "source": "TechRadar",
+      "domain": "techradar.com",
+      "published_at": "2026-08-01T22:30:00Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "1adc1bac864e1b7a",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "卡迪夫城在季前賽最後一場比賽中擊敗羅馬",
+      "summary": "卡迪夫城以4-1擊敗義大利豪門羅馬隊，結束了季前賽。",
+      "original_title": "Cardiff crush Roma in final pre-season outing",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cdj02vjlvp0o",
+      "source": "BBC News",
+      "domain": "bbc.co.uk",
+      "published_at": "2026-08-01T16:01:27Z",
+      "importance": 55,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "e0d52ae001181833",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "PlayStations Discs Are the Least of Sony’s Problems Right Now",
+      "summary": "由於記憶體價格如此之高，索尼希望宣稱其遊戲機在價格上取勝。",
+      "original_title": "PlayStations Discs Are the Least of Sony’s Problems Right Now",
+      "url": "https://gizmodo.com/playstations-discs-are-the-least-of-sonys-problems-right-now-2000793552",
+      "source": "Gizmodo.com",
+      "domain": "gizmodo.com",
+      "published_at": "2026-07-31T19:50:32Z",
+      "importance": 55,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "fdd11cb7dec95f9a",
@@ -1949,6 +2136,41 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "2574b39a4c2416cd",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "「這個月我們讓你們失望了：」閱讀利奧波德·阿申布倫納 (Leopold Aschenbrenner) 在其基金崩潰後致投資者的信",
+      "summary": "In a letter to investors, the founder of Situational Awareness wrote that his fund \"came closer to permanent capital impairment than is acceptable to us.\"",
+      "original_title": "‘We let you down this month:' Read Leopold Aschenbrenner's letter to investors after his fund’s meltdown",
+      "url": "https://www.businessinsider.com/leopold-aschenbrenners-letter-to-investors-after-hedge-fund-meltdown-2026-7#article",
+      "source": "Business Insider",
+      "domain": "businessinsider.com",
+      "published_at": "2026-07-31T19:18:21Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "ed2a2a5c30b21c27",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2036,6 +2258,82 @@
       "source": "BBC News",
       "domain": "bbc.co.uk",
       "published_at": "2026-07-30T17:26:01Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "a7b00b8a42784435",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Nvidia 跌破 190 美元：一位華爾街專業人士預計此後漲幅為 165%",
+      "summary": "NVIDIA 剛剛打破了幾個月來最糟糕的一周的關鍵價格下限，但一位華爾街分析師比以往任何時候都更努力地敲擊桌子，目標是…",
+      "original_title": "Nvidia is Tanking Below $190: One Wall Street Pro Sees 165% Gains From Here",
+      "url": "https://247wallst.com/investing/2026/07/30/nvidia-is-tanking-below-190-one-wall-street-pro-sees-165-gains-from-here/",
+      "source": "24/7 Wall St.",
+      "domain": "247wallst.com",
+      "published_at": "2026-07-30T15:09:21Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "c391362bcc5052cf",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "The economy slowed a bit -- but Americans continued to spend",
+      "summary": "The U.S. economy grew at an annual rate of 1.5% in the spring, according to the Commerce Department. That's a modest slowdown from the previous quarter — but consumer spending picked up steam.",
+      "original_title": "The economy slowed a bit -- but Americans continued to spend",
+      "url": "https://www.npr.org/2026/07/30/nx-s1-5913230/economy-gdp-inflation",
+      "source": "NPR",
+      "domain": "npr.org",
+      "published_at": "2026-07-30T14:47:23Z",
       "importance": 50,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -2402,6 +2700,41 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "6ba2a4decd5950bd",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "Mark Cuban and Michal Burry warn the AI boom is dangerously reliant on Nvidia",
+      "summary": "馬克·庫班表示，英偉達正在“為所有人和任何人提供資金”，就像網路泡沫時期的首次公開募股一樣。邁克爾·伯里 (Michael Burry) 表示，該公司的交易「過度」。",
+      "original_title": "Mark Cuban and Michal Burry warn the AI boom is dangerously reliant on Nvidia",
+      "url": "https://www.businessinsider.com/mark-cuban-michael-burry-nvidia-ai-deals-boom-microchips-infrastructure-2026-7#article",
+      "source": "Business Insider",
+      "domain": "businessinsider.com",
+      "published_at": "2026-07-29T15:53:11Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "240b61b6cd23fc8e",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2438,301 +2771,6 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "e0867b79429b5f90",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "AMD 的 Helios 在機架層級的記憶體和運算方面擊敗了 Nvidia——前提是你在 GPU 層級上進行運算",
-      "summary": "AMD 表示，Helios 在四個指標上擊敗了 Nvidia 的 Vera Rubin，但記憶體方面的優勢是機架級的且可驗證的，而 15% 的 FP4 優勢是針對每個 GPU 的，儘管 Nvidia 在機架級計算方面處於領先地位。",
-      "original_title": "AMD's Helios beats Nvidia on memory at rack level and on compute — only if you count it at the GPU level",
-      "url": "https://www.techradar.com/pro/amds-helios-beats-nvidia-on-memory-at-rack-level-and-on-compute-only-if-you-count-it-at-the-gpu-level",
-      "source": "TechRadar",
-      "domain": "techradar.com",
-      "published_at": "2026-07-28T14:38:52Z",
-      "importance": 50,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "cd020f53c8f97132",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "中國的出口如此巨大，正在降低其他國家的通膨",
-      "summary": "瑞銀的保羅·多諾萬指出，中國出口數據與美國進口數據之間的差異「並不是因為船隻在太平洋中部沉沒」。",
-      "original_title": "China’s exports are so huge they’re now lowering inflation in other countries",
-      "url": "https://finance.yahoo.com/economy/policy/articles/china-exports-huge-now-lowering-070600999.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-07-28T07:06:00Z",
-      "importance": 50,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "23c881005fae4c7a",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "隨著科技、通膨擔憂加劇，市場警訊再次凸顯…",
-      "summary": "By Amanda Cooper, Johann M Cherian and Niket Nishant July 28 (Reuters) - Several crucial market warning signals are close to crisis levels as investors grapple with high oil prices and Middle East",
-      "original_title": "Market warning signals flare again as tech, inflation fears intensify...",
-      "url": "https://www.aol.com/articles/market-warning-signals-flare-again-132557000.html",
-      "source": "AOL",
-      "domain": "aol.com",
-      "published_at": "2026-07-28T14:31:38Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "5d8eb19e2a0d4f79",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "由於通膨令聯準會前景黯淡，美國債券市場避免大額利率押注",
-      "summary": "By Gertrude Chavez-Dreyfuss NEW YORK, July 28 (Reuters) - Bond investors said they are heading into this week's Federal Reserve policy meeting cautiously pos...",
-      "original_title": "US bond market avoids big rate bets as inflation dims Fed outlook",
-      "url": "https://finance.yahoo.com/economy/policy/articles/us-bond-market-avoids-big-100800283.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-07-28T10:08:00Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "174252cfaa932814",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "戴森 V16 活塞動物潛水艇評測：功能強大但價格昂貴",
-      "summary": "Dyson V16 活塞動物功能強大，具有大量功能，但它不是我用我辛苦賺來的錢購買的戴森。",
-      "original_title": "Dyson V16 Piston Animal Submarine Review: Powerful but Pricey",
-      "url": "https://www.wired.com/review/dyson-v16-piston-animal-submarine/",
-      "source": "Wired",
-      "domain": "wired.com",
-      "published_at": "2026-07-28T09:31:00Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "994fa83befda68c4",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "三星的晶片工人正在跳槽到競爭對手 SK 海力士",
-      "summary": "三星半導體部門的工程師李在下班時打卡下班。他過去常常工作更長的時間，加倍努力以出色地完成他的專案。但最近，他直接回家準備晶片製造商 So 的工作申請。",
-      "original_title": "Samsung’s chip workers are jumping ship to rival SK Hynix",
-      "url": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
-      "source": "MIT Technology Review",
-      "domain": "technologyreview.com",
-      "published_at": "2026-07-28T09:18:57Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "0c85a8a7937ab436",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "晶片製造股遭大量拋售，韓國 Kospi 指數下跌逾 10%",
-      "summary": "韓國 Kospi 指數週二暴跌逾 10%，因為晶片製造股遭到大量拋售，這些股最近因對永續發展的擔憂而出現波動。",
-      "original_title": "South Korea’s Kospi index sinks more than 10% on heavy selling of chipmaking stocks",
-      "url": "https://finance.yahoo.com/markets/world-indices/articles/south-korea-kospi-index-sinks-040623347.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-07-28T04:06:23Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "51458917489285ee",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Nvidia 支援 OpenAI、開放 AI 和…超封閉 AI？",
-      "summary": "這家晶片巨頭正在支援開源人工智慧和 OpenAI，以及由 OpenAI 科學家 Ilya Sutskever 領導的超級秘密人工智慧新創公司。",
-      "original_title": "Nvidia Throws Its Support Behind OpenAI, Open AI, and… Super-Closed AI?",
-      "url": "https://gizmodo.com/nvidia-throws-its-support-behind-openai-open-ai-and-super-closed-ai-2000791353",
-      "source": "Gizmodo.com",
-      "domain": "gizmodo.com",
-      "published_at": "2026-07-28T00:26:09Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     }
   ]
 }

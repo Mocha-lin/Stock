@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-04T20:15:31.430719+00:00
+> 更新時間：2026-08-05T00:02:44.769685+00:00
 
 ### 🚀 MA-tek出售上海子公司，擴大日本和美國的人工智慧市場
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -16,6 +16,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 康寧預計人工智慧基礎設施將成為日益強大的成長引擎，概述了其玻璃技術將如何超越傳統光纖，進入矽光子學 (SiPh) 和共封裝光學 (CPO) 領域，用於下一代人工智慧資料中心…
 - [原文連結](https://www.digitimes.com/news/a20260729VL213/corning-siph-growth-cpo-photonics.html)
+
+---
+
+### 🚀 SK 海力士第二季創紀錄的 420 億美元利潤是否只是證明記憶體繁榮已經破滅？
+- **題材**: `HBM記憶體` | **重要性**: `75`
+- **來源**: 24/7 Wall St. (2026-07-29T12:00:40Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: SK 海力士剛剛公佈了晶片製造商多年來最爆炸性的利潤增長，但投資者的反應是以低於 IPO 價格的價格出售該股票。這...
+- [原文連結](https://247wallst.com/investing/2026/07/29/did-sk-hynixs-record-42-billion-q2-profit-just-prove-the-memory-boom-went-bust/)
 
 ---
 
@@ -70,15 +79,6 @@
 - **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 一名英偉達員工涉嫌超微走私醜聞，他的家和辦公桌都被搜查。他因偽造和違反信任的指控而被拘留。與此同時，英偉達正在縮減其買家名單，以根除潛在的自鳴得意的人…
 - [原文連結](https://www.tomshardware.com/tech-industry/nvidia-employee-implicated-in-escalating-supermicro-smuggling-scandal-but-demand-only-intensifies-for-nvidia-hardware)
-
----
-
-### ⚖️ 據報道，台積電正在開發先進晶片封裝技術，挑戰英特爾的主導地位
-- **題材**: `半導體先進製程` | **重要性**: `65`
-- **來源**: Yahoo Entertainment (2026-08-01T22:00:22Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 據報道，台積電正在開發一種先進的封裝技術，這可能會削弱英特爾公司的競爭優勢。網際網路...
-- [原文連結](https://finance.yahoo.com/technology/articles/tsmc-reportedly-developing-advanced-chip-220022568.html)
 
 ---
 
@@ -155,6 +155,15 @@
 
 ---
 
+### ⚠️ 亞馬遜將向部分客戶提供關稅退款
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: CNET (2026-08-02T16:00:40Z)
+- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 這家線上零售巨頭沒有透露誰有資格獲得退款，也沒有透露每個接收者將收到多少金額。
+- [原文連結](https://www.cnet.com/tech/amazon-will-give-tariff-refunds-to-some-customers/)
+
+---
+
 ### ⚖️ 新創公司將昂貴的 AI GPU 換成 Arm 核心和高達 128TB 的「便宜」LPDDR6 RAM，而不是昂貴的 HBM，以打破記憶體牆
 - **題材**: `AI伺服器` | **重要性**: `60`
 - **來源**: TechRadar (2026-08-02T00:25:00Z)
@@ -164,21 +173,12 @@
 
 ---
 
-### ⚖️ 價值 100 億美元的新創公司獲得 SK 海力士的支持，打造一款只做一件事但性能極其出色的變壓器
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: TechRadar (2026-08-01T22:30:00Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Etched 以 103 億美元的估值獲得 SK Hynix 的支持，同時利用低壓推理技術擴展客製化人工智慧推理硬體。
-- [原文連結](https://www.techradar.com/pro/usd10b-startup-gets-sk-hynix-backing-to-build-a-transformer-that-does-just-one-thing-but-exceedingly-well)
-
----
-
-### 🚀 SanDisk 一個月內下跌 45%。內存投資者現在應該轉向美光還是 SK 海力士嗎？
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: 24/7 Wall St. (2026-07-31T18:36:06Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 內存股最近表現很殘酷，但並非所有股票都受到同樣的傷害，贏家和輸家之間的差距可能會告訴投資者到底在哪裡...
-- [原文連結](https://247wallst.com/investing/2026/07/31/sandisk-is-down-45-in-a-month-should-memory-investors-switch-to-micron-or-sk-hynix-now/)
+### ⚖️ 據報道，台積電正在開發先進晶片封裝技術，挑戰英特爾的主導地位
+- **題材**: `半導體先進製程` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-08-01T22:00:22Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 據報道，台積電正在開發一種先進的封裝技術，這可能會削弱英特爾公司的競爭優勢。網際網路...
+- [原文連結](https://finance.yahoo.com/technology/articles/tsmc-reportedly-developing-advanced-chip-220022568.html)
 
 ---
 
