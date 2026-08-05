@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-05T06:19:55.736352+00:00
+> 更新時間：2026-08-05T11:20:36.803323+00:00
 
 ### 🚀 MA-tek出售上海子公司，擴大日本和美國的人工智慧市場
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -109,15 +109,6 @@
 
 ---
 
-### 🚀 智慧手錶和眼鏡能否變得更聰明？高通和聯發科的新穿戴式人工智慧遊戲
-- **題材**: `半導體先進製程` | **重要性**: `65`
-- **來源**: TechRadar (2026-07-29T06:20:00Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 高通和聯發科的新型 3nm 晶片如何在不影響電池壽命的情況下為智慧手錶和眼鏡帶來設備端人工智慧。
-- [原文連結](https://www.techradar.com/pro/can-smartwatches-and-glasses-get-smarter-inside-qualcomm-and-mediateks-new-wearable-ai-play)
-
----
-
 ### ⚖️ GlobalFoundries 獲得 3 億美元晶片支持，用於人工智慧矽光子學
 - **題材**: `光通訊與矽光子` | **重要性**: `63`
 - **來源**: Digitimes (2026-07-30T06:48:06Z)
@@ -133,6 +124,15 @@
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 聯想正在滿足對國產伺服器的需求，以推動人工智慧的繁榮。
 - [原文連結](https://www.tomshardware.com/laptops/an-inside-tour-of-lenovos-north-carolina-ai-server-manufacturing-line-expansion-chinese-firm-expanding-us-native-production-to-meet-exploding-demand)
+
+---
+
+### ⚖️ 應用光電 (AAOI) 飆升 18%，投資者關注另一個強勁季度
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-08-03T20:05:29Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 由於投資者恢復買盤，應用光電公司（納斯達克股票代碼：AAOI）週一股價上漲 17.6%，至每股 110.95 美元。
+- [原文連結](https://finance.yahoo.com/markets/stocks/articles/applied-optoelectronics-aaoi-rockets-18-200529294.html)
 
 ---
 
