@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-05T11:20:36.803323+00:00
+> 更新時間：2026-08-05T18:13:40.759728+00:00
 
 ### 🚀 MA-tek出售上海子公司，擴大日本和美國的人工智慧市場
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -7,15 +7,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: MA-tek 於 2026 年 7 月 31 日宣布，隨著全球半導體供應鏈重新洗牌以及人工智慧、高效能運算 (HPC)、先進製程等需求激增，將以約 19 億元人民幣（2.814 億美元）出售其上海子公司 80% 的股權。
 - [原文連結](https://www.digitimes.com/news/a20260803PD223/ma-tek-shanghai-market-2026-revenue.html)
-
----
-
-### 🚀 SK 海力士第二季創紀錄的 420 億美元利潤是否只是證明記憶體繁榮已經破滅？
-- **題材**: `HBM記憶體` | **重要性**: `75`
-- **來源**: 24/7 Wall St. (2026-07-29T12:00:40Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: SK 海力士剛剛公佈了晶片製造商多年來最爆炸性的利潤增長，但投資者的反應是以低於 IPO 價格的價格出售該股票。這...
-- [原文連結](https://247wallst.com/investing/2026/07/29/did-sk-hynixs-record-42-billion-q2-profit-just-prove-the-memory-boom-went-bust/)
 
 ---
 
@@ -73,15 +64,6 @@
 
 ---
 
-### ⚠️ 英偉達員工涉嫌不斷升級的超微走私醜聞，但對英偉達硬體的需求只會增加
-- **題材**: `AI伺服器` | **重要性**: `67`
-- **來源**: Tom's Hardware UK (2026-07-29T15:10:06Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 一名英偉達員工涉嫌超微走私醜聞，他的家和辦公桌都被搜查。他因偽造和違反信任的指控而被拘留。與此同時，英偉達正在縮減其買家名單，以根除潛在的自鳴得意的人…
-- [原文連結](https://www.tomshardware.com/tech-industry/nvidia-employee-implicated-in-escalating-supermicro-smuggling-scandal-but-demand-only-intensifies-for-nvidia-hardware)
-
----
-
 ### 🚀 世界上最大的數位相機剛剛拍攝了一張包含超過五十萬個星系的影像
 - **題材**: `AI伺服器` | **重要性**: `65`
 - **來源**: Lightstalking.com (2026-08-04T02:45:18Z)
@@ -118,12 +100,21 @@
 
 ---
 
-### ⚖️ 聯想北卡羅來納州人工智慧伺服器生產線擴建內部參觀—中國公司擴大美國本土生產以滿足爆炸性需求
+### ⚠️ 英偉達員工涉嫌不斷升級的超微走私醜聞，但對英偉達硬體的需求只會增加
 - **題材**: `AI伺服器` | **重要性**: `62`
-- **來源**: Tom's Hardware UK (2026-07-29T14:27:06Z)
+- **來源**: Tom's Hardware UK (2026-07-29T15:10:06Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 一名英偉達員工涉嫌超微走私醜聞，他的家和辦公桌都被搜查。他因偽造和違反信任的指控而被拘留。與此同時，英偉達正在縮減其買家名單，以根除潛在的自鳴得意的人…
+- [原文連結](https://www.tomshardware.com/tech-industry/nvidia-employee-implicated-in-escalating-supermicro-smuggling-scandal-but-demand-only-intensifies-for-nvidia-hardware)
+
+---
+
+### ⚖️ Corvex 簽署多年 NVIDIA Blackwell GPU 協議，無需額外發行股票
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: Advfn.com (2026-08-04T15:27:28Z)
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 聯想正在滿足對國產伺服器的需求，以推動人工智慧的繁榮。
-- [原文連結](https://www.tomshardware.com/laptops/an-inside-tour-of-lenovos-north-carolina-ai-server-manufacturing-line-expansion-chinese-firm-expanding-us-native-production-to-meet-exploding-demand)
+- **摘要**: Corvex（納斯達克股票代碼：MOVE）簽訂了一份多年期協議，提供 NVIDIA Blackwell GPU 基礎設施，透過債務、客戶預付款等方式為擴張提供資金…
+- [原文連結](https://investorshub.advfn.com/market-news/article/33399/corvex-signs-multi-year-nvidia-blackwell-gpu-agreement-without-additional-equity-issuance)
 
 ---
 
@@ -164,21 +155,30 @@
 
 ---
 
-### ⚠️ 亞馬遜將向部分客戶提供關稅退款
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: CNET (2026-08-02T16:00:40Z)
-- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 這家線上零售巨頭沒有透露誰有資格獲得退款，也沒有透露每個接收者將收到多少金額。
-- [原文連結](https://www.cnet.com/tech/amazon-will-give-tariff-refunds-to-some-customers/)
-
----
-
 ### ⚖️ 據報道，台積電正在開發先進晶片封裝技術，挑戰英特爾的主導地位
 - **題材**: `半導體先進製程` | **重要性**: `60`
 - **來源**: Yahoo Entertainment (2026-08-01T22:00:22Z)
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 據報道，台積電正在開發一種先進的封裝技術，這可能會削弱英特爾公司的競爭優勢。網際網路...
 - [原文連結](https://finance.yahoo.com/technology/articles/tsmc-reportedly-developing-advanced-chip-220022568.html)
+
+---
+
+### 🚀 SanDisk 一個月內下跌 45%。內存投資者現在應該轉向美光還是 SK 海力士嗎？
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: 24/7 Wall St. (2026-07-31T18:36:06Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 內存股最近表現很殘酷，但並非所有股票都受到同樣的傷害，贏家和輸家之間的差距可能會告訴投資者到底在哪裡...
+- [原文連結](https://247wallst.com/investing/2026/07/31/sandisk-is-down-45-in-a-month-should-memory-investors-switch-to-micron-or-sk-hynix-now/)
+
+---
+
+### 🚀 Marvell 本月大幅下跌：專業人士在 12 個月內獲得 120% 的回報
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: 24/7 Wall St. (2026-07-31T14:07:39Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Marvell Technology（納斯達克股票代碼：MRVL）目前的交易價格為 183.30 美元，而華爾街的平均 12 個月目標價為 256.91 美元。這使得庫存大致...
+- [原文連結](https://247wallst.com/investing/2026/07/31/marvell-down-huge-this-month-the-pros-see-120-returns-in-12-months/)
 
 ---
 
