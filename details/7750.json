@@ -1,11 +1,11 @@
 {
   "id": "7750",
   "name": "新代",
-  "lastUpdated": "2026-08-05 17:30:59",
+  "lastUpdated": "2026-08-06 17:35:25",
   "basicInfo": {
-    "price": "2460.00",
-    "change": "130.00",
-    "changePercent": "5.58%"
+    "price": "2365.00",
+    "change": "-95.00",
+    "changePercent": "-3.86%"
   },
   "status": "🟡 FLU",
   "themes": [],
@@ -174,6 +174,17 @@
     ],
     "eps_table": [
       {
+        "period": "2026Q2",
+        "gross_margin_pct": 44.09027576594489,
+        "net_margin_pct": 30.429034218114744,
+        "opm_pct": 28.927912629263584,
+        "eps": 27.15,
+        "eps_ytd": 42.53,
+        "gross": 44.09027576594489,
+        "net": 30.429034218114744,
+        "opm": 28.927912629263584
+      },
+      {
         "period": "2026Q1",
         "gross_margin_pct": 48.767695281511806,
         "net_margin_pct": 28.668848595632486,
@@ -249,17 +260,6 @@
         "gross": 44.122173023053655,
         "net": 14.4794031968629,
         "opm": 12.476050693431299
-      },
-      {
-        "period": "2024Q2",
-        "gross_margin_pct": 44.055328110066775,
-        "net_margin_pct": 18.63216202506834,
-        "opm_pct": 17.57099107426137,
-        "eps": 13.35,
-        "eps_ytd": 13.35,
-        "gross": 44.055328110066775,
-        "net": 18.63216202506834,
-        "opm": 17.57099107426137
       }
     ],
     "cashflow_table": [
@@ -492,6 +492,14 @@
     ],
     "pe_table": [
       {
+        "period": "2026Q2",
+        "deadline": "2026-08-14",
+        "price_basis": "asof往前3日(暫代)",
+        "avg_close_3d": 2385.0,
+        "ttm_eps": 60.51,
+        "pe": 39.41497273177987
+      },
+      {
         "period": "2026Q1",
         "deadline": "2026-05-15",
         "price_basis": "公告後3日",
@@ -542,7 +550,7 @@
     ],
     "capital_table": [
       {
-        "report_date": "2026-03-31",
+        "report_date": "2026-06-30",
         "capital_value_raw": 718430000.0,
         "par_value": 10,
         "shares_lots": 718430,
@@ -550,6 +558,14 @@
       }
     ],
     "chips_table": [
+      {
+        "date": "2026-08-06",
+        "foreign_lots": -133.603,
+        "it_lots": 0.0,
+        "dealer_lots": -15.666,
+        "sum_lots": -149.269,
+        "pct_float": -0.020777111200812885
+      },
       {
         "date": "2026-08-05",
         "foreign_lots": 49.384,
@@ -661,14 +677,6 @@
         "dealer_lots": -2.1830000000000003,
         "sum_lots": 10.012,
         "pct_float": 0.0013935943654914188
-      },
-      {
-        "date": "2026-07-16",
-        "foreign_lots": -7.985,
-        "it_lots": 0.0,
-        "dealer_lots": 0.7499999999999999,
-        "sum_lots": -7.235,
-        "pct_float": -0.001007057054967081
       }
     ],
     "c_score_data": {
@@ -676,9 +684,9 @@
       "dataset": "structure_c_score",
       "stock_id": "7750",
       "ticker": "7750.TW",
-      "asof": "2026-08-05",
+      "asof": "2026-08-06",
       "c_score": 1.0,
-      "benchmark_pe": 70.4925073639516,
+      "benchmark_pe": 72.59959806123655,
       "source": [
         "FinMind",
         "yahooquery"
@@ -723,6 +731,18 @@
       ],
       "rows": [
         {
+          "period": "2026Q2",
+          "avg_price": 2201.2295081967213,
+          "eps": 27.15,
+          "revenue_q": 78.56574,
+          "pe_ratio": 81.07659330374665,
+          "rev_growth": null,
+          "eps_growth": 185.18907563025212,
+          "rt_weight": 1.0,
+          "deviation": 1.1167636663134126,
+          "theo_price": 1971.0790873625722
+        },
+        {
           "period": "2026Q1",
           "avg_price": 1116.581818181818,
           "eps": 15.38,
@@ -731,8 +751,8 @@
           "rev_growth": null,
           "eps_growth": 100.2604166666667,
           "rt_weight": 1.0,
-          "deviation": 1.0298909880791454,
-          "theo_price": 1084.1747632575757
+          "deviation": 1.0,
+          "theo_price": 1116.581818181818
         },
         {
           "period": "2025Q4",
@@ -743,8 +763,8 @@
           "rev_growth": null,
           "eps_growth": 170.76923076923077,
           "rt_weight": 1.0,
-          "deviation": 0.9351286650412293,
-          "theo_price": 868.4676907238837
+          "deviation": 0.9079880063669089,
+          "theo_price": 894.4270481144343
         },
         {
           "period": "2025Q3",
@@ -755,8 +775,8 @@
           "rev_growth": null,
           "eps_growth": 26.62192393736018,
           "rt_weight": 1.0,
-          "deviation": 2.02865018080371,
-          "theo_price": 398.9875916799661
+          "deviation": 1.9697717567053918,
+          "theo_price": 410.91372502659885
         },
         {
           "period": "2025Q2",
@@ -767,8 +787,8 @@
           "rev_growth": null,
           "eps_growth": -28.689138576779026,
           "rt_weight": 1.0,
-          "deviation": 0.8801455962781518,
-          "theo_price": 671.0886701048192
+          "deviation": 0.8546007358698376,
+          "theo_price": 691.1481735429719
         },
         {
           "period": "2025Q1",
@@ -779,8 +799,8 @@
           "rev_growth": null,
           "eps_growth": -29.216589861751153,
           "rt_weight": 1.0,
-          "deviation": 0.9701090119208547,
-          "theo_price": 541.3824565551483
+          "deviation": 0.9419531029494781,
+          "theo_price": 557.5649131102966
         },
         {
           "period": "2024Q4",
@@ -791,8 +811,8 @@
           "rev_growth": null,
           "eps_growth": null,
           "rt_weight": 1.0,
-          "deviation": 1.5751835611022273,
-          "theo_price": 320.7409085059798
+          "deviation": 1.5294663020987393,
+          "theo_price": 330.3281711786263
         },
         {
           "period": "2024Q3",
@@ -803,8 +823,8 @@
           "rev_growth": null,
           "eps_growth": null,
           "rt_weight": 1.0,
-          "deviation": 1.3690725514098305,
-          "theo_price": 315.1015079168636
+          "deviation": 1.3293373446866394,
+          "theo_price": 324.52020333372735
         },
         {
           "period": "2024Q2",
@@ -815,8 +835,8 @@
           "rev_growth": null,
           "eps_growth": null,
           "rt_weight": 1.0,
-          "deviation": 0.4116450866043718,
-          "theo_price": 941.0749733087539
+          "deviation": 0.3996977266226332,
+          "theo_price": 969.2046341175079
         },
         {
           "period": "2023Q4",
@@ -828,7 +848,7 @@
           "eps_growth": null,
           "rt_weight": 1.0,
           "deviation": null,
-          "theo_price": 764.8437048988749
+          "theo_price": 787.7056389644165
         }
       ],
       "notes": [
@@ -843,8 +863,8 @@
     "returns_table": [
       {
         "year": 2026,
-        "return_pct": 183.1265003362355,
-        "period": "01/02~08/05"
+        "return_pct": 172.1927533720313,
+        "period": "01/02~08/06"
       },
       {
         "year": 2025,
@@ -1745,27 +1765,6 @@
       }
     ],
     "kline_data": [
-      {
-        "date": "2026-02-03",
-        "symbol": "7750.TW",
-        "open": 1000.0,
-        "high": 1000.0,
-        "low": 973.0,
-        "close": 996.0,
-        "volume": 328239.0,
-        "adjclose": 983.40234375,
-        "dividends": 0.0,
-        "MA5": 982.2,
-        "MA20": 905.35,
-        "MA60": 835.5666666666667,
-        "bb_mid": 905.35,
-        "bb_up": 1013.3153185055266,
-        "bb_dn": 797.3846814944734,
-        "DIF": 37.99842224215308,
-        "DEA": 27.93043989306205,
-        "HIST": 20.135964698182065,
-        "volume_lot": 328.239
-      },
       {
         "date": "2026-02-04",
         "symbol": "7750.TW",
@@ -4251,7 +4250,7 @@
         "high": 2485.0,
         "low": 2370.0,
         "close": 2460.0,
-        "volume": 471556.0,
+        "volume": 428199.0,
         "adjclose": 2460.0,
         "dividends": 0.0,
         "MA5": 2182.0,
@@ -4263,7 +4262,28 @@
         "DIF": 29.98546708691947,
         "DEA": -24.9218523230123,
         "HIST": 109.81463881986356,
-        "volume_lot": 471.556
+        "volume_lot": 428.199
+      },
+      {
+        "date": "2026-08-06",
+        "symbol": "7750.TW",
+        "open": 2465.0,
+        "high": 2515.0,
+        "low": 2315.0,
+        "close": 2365.0,
+        "volume": 519797.0,
+        "adjclose": 2365.0,
+        "dividends": 0.0,
+        "MA5": 2285.0,
+        "MA20": 2061.25,
+        "MA60": 2198.4166666666665,
+        "bb_mid": 2061.25,
+        "bb_up": 2394.054371966479,
+        "bb_dn": 1728.4456280335212,
+        "DIF": 46.44776475296703,
+        "DEA": -10.647928907816432,
+        "HIST": 114.19138732156694,
+        "volume_lot": 519.797
       }
     ],
     "valuation": {
