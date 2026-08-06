@@ -1,9 +1,9 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-08-06T06:29:46.213132+00:00",
+  "generated_at": "2026-08-06T11:22:32.709802+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
-  "total_count": 74,
+  "total_count": 73,
   "items": [
     {
       "id": "12ddf3db19ef75f2",
@@ -17,7 +17,7 @@
       "source": "Digitimes",
       "domain": "digitimes.com",
       "published_at": "2026-08-03T06:51:24Z",
-      "importance": 83,
+      "importance": 78,
       "impact": "positive",
       "timeframe": "short_to_mid_term",
       "tags": [
@@ -118,6 +118,44 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
+      "id": "2730e190cde6adf5",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "Tower Semiconductor Ltd. Q2 2026 Earnings Call Summary",
+      "summary": "Moby summary of Tower Semiconductor Ltd.'s Q2 2026 earnings call",
+      "original_title": "Tower Semiconductor Ltd. Q2 2026 Earnings Call Summary",
+      "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-tower-semiconductor-ltd-q2-2026-earnings-call-summary?utm_source=yahoo_finance&amp;utm_medium=rss",
+      "source": "Moby.co",
+      "domain": "app.moby.co",
+      "published_at": "2026-08-04T21:15:30Z",
+      "importance": 70,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "03f9f2a9196de54b",
@@ -570,32 +608,32 @@
       "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "09b784092efd8576",
+      "id": "efcc904322fb09c0",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "GlobalFoundries 獲得 3 億美元晶片支持，用於人工智慧矽光子學",
-      "summary": "GlobalFoundries 已與美國商務部簽署了一份意向書，可能獲得 3 億美元的獎勵，以加速美國人工智慧和高效能運算資料中心所用矽光子技術的開發。",
-      "original_title": "GlobalFoundries lands US$300M CHIPS backing for AI silicon photonics",
-      "url": "https://www.digitimes.com/news/a20260730VL218/globalfoundries-photonics-silicon-award-optics.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-07-30T06:48:06Z",
-      "importance": 63,
+      "theme": "AI伺服器",
+      "title": "SpaceX 和 Nvidia 正在採取獨家合作關係——以下是馬斯克對他們的新地位的評價",
+      "summary": "在周三的 SpaceX 財報電話會議上，執行長 Elon Musk 表示，他的公司致力於僅從 Nvidia 購買圖形處理單元。",
+      "original_title": "SpaceX and Nvidia are taking their relationship exclusive — here's what Musk said about their new status",
+      "url": "https://www.businessinsider.com/elon-musk-spacex-will-only-buy-from-nvidia-2026-8#article",
+      "source": "Business Insider",
+      "domain": "businessinsider.com",
+      "published_at": "2026-08-05T07:49:54Z",
+      "importance": 60,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
+        "AI",
+        "伺服器",
+        "資料中心"
       ],
       "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
       ],
       "related_models": [
         "003",
@@ -605,7 +643,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "8297277975893d82",
@@ -909,44 +947,6 @@
       "reason": "屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "6cfa6e5ff45dbd34",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "鑑於庫克的評論，大量使用 Siri AI 的成本可能超出我們的預期",
-      "summary": "即將離任的蘋果執行長庫克在財報電話會議上發表的似乎是故意含糊其辭的言論表明，大量使用 Siri 人工智慧的成本可能比我們迄今為止預期的要高。\n雖然我們似乎一直很清楚我們無法無限制地…",
-      "original_title": "Heavy Siri AI usage could cost more than we expected, given Cook’s comment",
-      "url": "https://9to5mac.com/2026/08/03/heavy-siri-ai-usage-could-cost-more-than-we-expected-given-cooks-comment/",
-      "source": "9to5Mac",
-      "domain": "9to5mac.com",
-      "published_at": "2026-08-03T11:03:51Z",
-      "importance": 60,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "d584f11b95f0108a",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -983,44 +983,6 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "e2e56a67434b4c1d",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "應用光電和相干公司上漲 7%，Lumentum 上漲 5%，風險情緒蔓延至光學股",
-      "summary": "隨著人工智慧資料中心的需求將估值推向三位數，光學股的漲幅遠遠超過了半導體股的整體​​漲幅，但光學股之間的差距...",
-      "original_title": "Applied Optoelectronics and Coherent Gain 7%, Lumentum Adds 5% as Risk-On Feeling Spreads to Optics Stocks",
-      "url": "https://247wallst.com/investing/2026/07/31/applied-optoelectronics-and-coherent-gain-7-lumentum-adds-5-as-risk-on-feeling-spreads-to-optics-stocks/",
-      "source": "24/7 Wall St.",
-      "domain": "247wallst.com",
-      "published_at": "2026-07-31T19:17:49Z",
-      "importance": 60,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "492d970c096fc3fd",
@@ -1134,53 +1096,18 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "653544a0a90a44bd",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "RAM製造商僅賺550億美元就遭受股市重創",
-      "summary": "SK海力士被迫在2026年第二季財報中解釋為何其利潤僅比冰島全國GDP多100億美元",
-      "original_title": "RAM Manufacturer Gets Pummeled By Stock Market For Only Making $55 Billion",
-      "url": "https://kotaku.com/ram-manufacturer-gets-pummeled-by-stock-market-for-only-making-55-billion-2000720432",
-      "source": "Kotaku",
-      "domain": "kotaku.com",
-      "published_at": "2026-07-30T11:13:16Z",
-      "importance": 60,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "1ed2cc0b2972fd89",
+      "id": "09b784092efd8576",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "光通訊與矽光子",
-      "title": "矽光子學如何照亮資料中心的道路",
-      "summary": "隨著人工智慧為資料中心基礎設施帶來壓力，矽光子學希望提供更快、更節能的運算。",
-      "original_title": "How silicon photonics lights the way for data centers",
-      "url": "https://www.techradar.com/pro/how-silicon-photonics-lights-the-way-for-data-centers",
-      "source": "TechRadar",
-      "domain": "techradar.com",
-      "published_at": "2026-07-30T10:20:56Z",
-      "importance": 60,
+      "title": "GlobalFoundries 獲得 3 億美元晶片支持，用於人工智慧矽光子學",
+      "summary": "GlobalFoundries 已與美國商務部簽署了一份意向書，可能獲得 3 億美元的獎勵，以加速美國人工智慧和高效能運算資料中心所用矽光子技術的開發。",
+      "original_title": "GlobalFoundries lands US$300M CHIPS backing for AI silicon photonics",
+      "url": "https://www.digitimes.com/news/a20260730VL218/globalfoundries-photonics-silicon-award-optics.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-07-30T06:48:06Z",
+      "importance": 58,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -1575,32 +1502,32 @@
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "d4e3aa313acf08b0",
+      "id": "6cfa6e5ff45dbd34",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "Iran says no talks are under way with United States after Trump calls off attacks",
-      "summary": "作者：Steve Holland、Elwely Elwelly 和 Parisa Hafezi 登上空軍一號/杜拜，8 月 3 日（路透社）",
-      "original_title": "Iran says no talks are under way with United States after Trump calls off attacks",
-      "url": "https://www.yahoo.com/news/articles/trump-says-iran-talks-place-232242846.html",
-      "source": "Yahoo Entertainment",
-      "domain": "yahoo.com",
-      "published_at": "2026-08-03T10:26:46Z",
+      "theme": "AI伺服器",
+      "title": "鑑於庫克的評論，大量使用 Siri AI 的成本可能超出我們的預期",
+      "summary": "即將離任的蘋果執行長庫克在財報電話會議上發表的似乎是故意含糊其辭的言論表明，大量使用 Siri 人工智慧的成本可能比我們迄今為止預期的要高。\n雖然我們似乎一直很清楚我們無法無限制地…",
+      "original_title": "Heavy Siri AI usage could cost more than we expected, given Cook’s comment",
+      "url": "https://9to5mac.com/2026/08/03/heavy-siri-ai-usage-could-cost-more-than-we-expected-given-cooks-comment/",
+      "source": "9to5Mac",
+      "domain": "9to5mac.com",
+      "published_at": "2026-08-03T11:03:51Z",
       "importance": 55,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
+        "AI",
+        "伺服器",
+        "資料中心"
       ],
       "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
       ],
       "related_models": [
         "003",
@@ -1610,45 +1537,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "82fdbe9eed11d878",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "凱文沃什面臨的不僅僅是溝通問題",
-      "summary": "約翰·卡西迪寫道，聯準會主席面臨的最大挑戰是證明他獨立於唐納德·川普。",
-      "original_title": "Kevin Warsh Is Facing More Than a Communication Problem",
-      "url": "https://www.newyorker.com/news/the-financial-page/kevin-warsh-is-facing-more-than-a-communication-problem",
-      "source": "The New Yorker",
-      "domain": "newyorker.com",
-      "published_at": "2026-08-03T10:00:00Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "540aed6ca3a87f6d",
@@ -1946,6 +1835,79 @@
       "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "653544a0a90a44bd",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "RAM製造商僅賺550億美元就遭受股市重創",
+      "summary": "SK海力士被迫在2026年第二季財報中解釋為何其利潤僅比冰島全國GDP多100億美元",
+      "original_title": "RAM Manufacturer Gets Pummeled By Stock Market For Only Making $55 Billion",
+      "url": "https://kotaku.com/ram-manufacturer-gets-pummeled-by-stock-market-for-only-making-55-billion-2000720432",
+      "source": "Kotaku",
+      "domain": "kotaku.com",
+      "published_at": "2026-07-30T11:13:16Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "1ed2cc0b2972fd89",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "矽光子學如何照亮資料中心的道路",
+      "summary": "隨著人工智慧為資料中心基礎設施帶來壓力，矽光子學希望提供更快、更節能的運算。",
+      "original_title": "How silicon photonics lights the way for data centers",
+      "url": "https://www.techradar.com/pro/how-silicon-photonics-lights-the-way-for-data-centers",
+      "source": "TechRadar",
+      "domain": "techradar.com",
+      "published_at": "2026-07-30T10:20:56Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "132fc27b39eb51c0",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1982,6 +1944,82 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "d4e3aa313acf08b0",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "Iran says no talks are under way with United States after Trump calls off attacks",
+      "summary": "作者：Steve Holland、Elwely Elwelly 和 Parisa Hafezi 登上空軍一號/杜拜，8 月 3 日（路透社）",
+      "original_title": "Iran says no talks are under way with United States after Trump calls off attacks",
+      "url": "https://www.yahoo.com/news/articles/trump-says-iran-talks-place-232242846.html",
+      "source": "Yahoo Entertainment",
+      "domain": "yahoo.com",
+      "published_at": "2026-08-03T10:26:46Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "82fdbe9eed11d878",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "凱文沃什面臨的不僅僅是溝通問題",
+      "summary": "約翰·卡西迪寫道，聯準會主席面臨的最大挑戰是證明他獨立於唐納德·川普。",
+      "original_title": "Kevin Warsh Is Facing More Than a Communication Problem",
+      "url": "https://www.newyorker.com/news/the-financial-page/kevin-warsh-is-facing-more-than-a-communication-problem",
+      "source": "The New Yorker",
+      "domain": "newyorker.com",
+      "published_at": "2026-08-03T10:00:00Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "ca70d278a77cb2a6",
@@ -2285,79 +2323,6 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "2574b39a4c2416cd",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "「這個月我們讓你們失望了：」閱讀利奧波德·阿申布倫納 (Leopold Aschenbrenner) 在其基金崩潰後致投資者的信",
-      "summary": "Situational Awareness 的創始人在給投資者的一封信中寫道，他的基金「接近永久性資本減值，超出了我們所能接受的範圍」。",
-      "original_title": "‘We let you down this month:' Read Leopold Aschenbrenner's letter to investors after his fund’s meltdown",
-      "url": "https://www.businessinsider.com/leopold-aschenbrenners-letter-to-investors-after-hedge-fund-meltdown-2026-7#article",
-      "source": "Business Insider",
-      "domain": "businessinsider.com",
-      "published_at": "2026-07-31T19:18:21Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "72f248e55b24f001",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "記者筆記本：在杜拜的陽光和沙灘上，人工智慧、伺服器群和樂觀情緒綻放",
-      "summary": "Walking around Dubai, it’s hard to believe a war is still going on in neighboring countries.\r\n\n\n\n\n没有导弹袭击这座城市，在最近的一次访问中可以明显看出，当地居民正在保持他们的日常生活。公眾最大的擔憂是…",
-      "original_title": "Reporter’s notebook: In Dubai’s sun and sand, AI, server farms, and optimism bloom",
-      "url": "https://www.computerworld.com/article/4204008/reporters-notebook-in-dubais-sun-and-sand-ai-server-farms-and-optimism-bloom.html",
-      "source": "Computerworld",
-      "domain": "computerworld.com",
-      "published_at": "2026-07-31T16:30:30Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "ed2a2a5c30b21c27",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2559,7 +2524,7 @@
       "source": "MacRumors",
       "domain": "macrumors.com",
       "published_at": "2026-07-30T10:43:11Z",
-      "importance": 50,
+      "importance": 45,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -2583,7 +2548,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「半導體先進製程」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     },
     {
       "id": "2c68faccbe648b7e",
@@ -2597,7 +2562,7 @@
       "source": "Android Authority",
       "domain": "androidauthority.com",
       "published_at": "2026-07-30T10:00:47Z",
-      "importance": 50,
+      "importance": 45,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -2621,7 +2586,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「半導體先進製程」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     },
     {
       "id": "4998e5940d44b711",
@@ -2635,7 +2600,7 @@
       "source": "Verdict",
       "domain": "verdict.co.uk",
       "published_at": "2026-07-30T08:39:49Z",
-      "importance": 50,
+      "importance": 45,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -2659,7 +2624,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     },
     {
       "id": "8dbd952646073a02",
@@ -2673,7 +2638,7 @@
       "source": "PetaPixel",
       "domain": "petapixel.com",
       "published_at": "2026-07-30T08:07:20Z",
-      "importance": 50,
+      "importance": 45,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -2697,7 +2662,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「AI伺服器」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     },
     {
       "id": "66074ebd569af6ee",

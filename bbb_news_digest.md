@@ -1,8 +1,8 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-06T06:29:46.213132+00:00
+> 更新時間：2026-08-06T11:22:32.709802+00:00
 
 ### 🚀 MA-tek出售上海子公司，擴大日本和美國的人工智慧市場
-- **題材**: `光通訊與矽光子` | **重要性**: `83`
+- **題材**: `光通訊與矽光子` | **重要性**: `78`
 - **來源**: Digitimes (2026-08-03T06:51:24Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: MA-tek 於 2026 年 7 月 31 日宣布，隨著全球半導體供應鏈重新洗牌以及人工智慧、高效能運算 (HPC)、先進製程等需求激增，將以約 19 億元人民幣（2.814 億美元）出售其上海子公司 80% 的股權。
@@ -25,6 +25,15 @@
 - **AI 判讀**: 屬「總體風險」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 在企業獲利和油價下跌的推動下，道瓊斯指數和標準普爾指數收在創紀錄水準。 NBC News’ Allie Canal explains.
 - [原文連結](https://www.yahoo.com/news/videos/markets-surge-record-highs-233632229.html)
+
+---
+
+### 🚀 Tower Semiconductor Ltd. Q2 2026 Earnings Call Summary
+- **題材**: `光通訊與矽光子` | **重要性**: `70`
+- **來源**: Moby.co (2026-08-04T21:15:30Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Moby summary of Tower Semiconductor Ltd.'s Q2 2026 earnings call
+- [原文連結](https://app.moby.co/home/research/tools/earningsCalendar/earnings-tower-semiconductor-ltd-q2-2026-earnings-call-summary?utm_source=yahoo_finance&amp;utm_medium=rss)
 
 ---
 
@@ -136,12 +145,12 @@
 
 ---
 
-### ⚖️ GlobalFoundries 獲得 3 億美元晶片支持，用於人工智慧矽光子學
-- **題材**: `光通訊與矽光子` | **重要性**: `63`
-- **來源**: Digitimes (2026-07-30T06:48:06Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: GlobalFoundries 已與美國商務部簽署了一份意向書，可能獲得 3 億美元的獎勵，以加速美國人工智慧和高效能運算資料中心所用矽光子技術的開發。
-- [原文連結](https://www.digitimes.com/news/a20260730VL218/globalfoundries-photonics-silicon-award-optics.html)
+### ⚖️ SpaceX 和 Nvidia 正在採取獨家合作關係——以下是馬斯克對他們的新地位的評價
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: Business Insider (2026-08-05T07:49:54Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 在周三的 SpaceX 財報電話會議上，執行長 Elon Musk 表示，他的公司致力於僅從 Nvidia 購買圖形處理單元。
+- [原文連結](https://www.businessinsider.com/elon-musk-spacex-will-only-buy-from-nvidia-2026-8#article)
 
 ---
 
@@ -169,15 +178,6 @@
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Corvex（納斯達克股票代碼：MOVE）簽訂了一份多年期協議，提供 NVIDIA Blackwell GPU 基礎設施，透過債務、客戶預付款等方式為擴張提供資金…
 - [原文連結](https://investorshub.advfn.com/market-news/article/33399/corvex-signs-multi-year-nvidia-blackwell-gpu-agreement-without-additional-equity-issuance)
-
----
-
-### 🚀 英特爾與台積電：英特爾正在贏得一場很少有投資者關注的與台積電的人工智慧大戰
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: Barchart.com (2026-08-04T14:41:39Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: TSMC is reportedly developing an Intel-inspired packaging technology, suggesting AI chip packaging is becoming a key battleground, giving Intel a rare chance...
-- [原文連結](https://www.barchart.com/story/news/3638932/intel-vs-tsmc-intel-is-winning-an-ai-battle-against-tsmc-that-few-investors-are-watching)
 
 ---
 
