@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-05T23:59:45.801925+00:00
+> 更新時間：2026-08-06T03:59:17.283178+00:00
 
 ### 🚀 MA-tek出售上海子公司，擴大日本和美國的人工智慧市場
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -19,21 +19,21 @@
 
 ---
 
-### 🚀 康寧押注 SiPh 和 CPO 推動人工智慧資料中心成長
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-07-29T03:23:16Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 康寧預計人工智慧基礎設施將成為日益強大的成長引擎，概述了其玻璃技術將如何超越傳統光纖，進入矽光子學 (SiPh) 和共封裝光學 (CPO) 領域，用於下一代人工智慧資料中心…
-- [原文連結](https://www.digitimes.com/news/a20260729VL213/corning-siph-growth-cpo-photonics.html)
-
----
-
 ### 🚀 市場飆升至歷史新高
 - **題材**: `總體風險` | **重要性**: `70`
 - **來源**: Yahoo Entertainment (2026-08-04T23:36:32Z)
 - **AI 判讀**: 屬「總體風險」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 在企業獲利和油價下跌的推動下，道瓊斯指數和標準普爾指數收在創紀錄水準。 NBC News’ Allie Canal explains.
 - [原文連結](https://www.yahoo.com/news/videos/markets-surge-record-highs-233632229.html)
+
+---
+
+### 🚀 這三隻晶片股可能正在進入新的成長週期
+- **題材**: `光通訊與矽光子` | **重要性**: `70`
+- **來源**: 24/7 Wall St. (2026-08-04T16:30:01Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: AMD、美光和 Marvell 已經在 2026 年實現了三位數的成長，但夏季的回檔引發了一個更大的問題：人工智慧基礎設施是否...
+- [原文連結](https://247wallst.com/investing/2026/08/04/these-3-chip-stocks-could-be-entering-a-new-growth-cycle/)
 
 ---
 
@@ -55,6 +55,15 @@
 
 ---
 
+### ⚖️ At OCP's Taiwan summit, servers take a back seat to optics and advanced packaging
+- **題材**: `半導體先進製程` | **重要性**: `68`
+- **來源**: Digitimes (2026-07-31T17:57:00Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 當今年 OCP 亞太峰會的議程確定時，經驗豐富的觀察家注意到了一些不尋常的事情。台積電、應用材料公司、Advantest 和 ASE 與微軟、Nvidia 和谷歌同台。
+- [原文連結](https://www.digitimes.com/news/a20260729VL222/ocp-optics-packaging-infrastructure-servers-taiwan.html)
+
+---
+
 ### ⚖️ 分析師稱，到 2028 年，谷歌可能會製造出比 Nvidia 銷量還要多的人工智慧加速器，這可能會促使該公司使用英特爾代工來實現其目標
 - **題材**: `半導體先進製程` | **重要性**: `67`
 - **來源**: Tom's Hardware UK (2026-07-30T14:35:50Z)
@@ -73,12 +82,30 @@
 
 ---
 
+### 🚀 華爾街因 AI 記憶體繁榮而上調目標價，Sandisk 股價上漲 8%，美光股價上漲 6%，SK Hynix 股價上漲 4%
+- **題材**: `HBM記憶體` | **重要性**: `65`
+- **來源**: 24/7 Wall St. (2026-08-04T14:52:31Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 週二上午，記憶體和儲存類股大幅上漲，SanDisk（納斯達克股票代碼：SNDK）引領整個板塊全面反彈。 SanDisk 股價上漲 8% 至 1,393 美元...
+- [原文連結](https://247wallst.com/investing/2026/08/04/sandisk-jumps-8-micron-gains-6-sk-hynix-climbs-4-as-wall-street-hikes-price-targets-on-ai-memory-boom/)
+
+---
+
 ### ⚖️ Tower Semiconductor 超越第二季預期並發布強勁的第三季營收前景
 - **題材**: `光通訊與矽光子` | **重要性**: `65`
 - **來源**: Advfn.com (2026-08-04T14:07:32Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Tower Semiconductor (NASDAQ:TSEM) reported second-quarter 2026 results that surpassed Wall Street expectations and issued third-quarter revenue guidance that...
 - [原文連結](https://investorshub.advfn.com/market-news/article/33371/tower-semiconductor-beats-second-quarter-estimates-and-issues-strong-q3-revenue-outlook)
+
+---
+
+### 🚀 華爾街痴迷這檔科技股的 1 個原因
+- **題材**: `光通訊與矽光子` | **重要性**: `65`
+- **來源**: 24/7 Wall St. (2026-08-04T13:30:36Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Marvell Technology 在一個月內下跌了近 21%，一位參與其中的分析師將這次拋售視為買入機會。原因是...
+- [原文連結](https://247wallst.com/investing/2026/08/04/1-reason-wall-street-is-obsessed-with-this-tech-stock/)
 
 ---
 
@@ -118,21 +145,12 @@
 
 ---
 
-### ⚖️ 印度推出本土矽光子工具，以擴大研究人員和產業的使用範圍
-- **題材**: `光通訊與矽光子` | **重要性**: `63`
-- **來源**: Digitimes (2026-07-29T23:58:01Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 印度推出了兩種自主開發的矽光子解決方案，以加強本地晶片設計和測試能力。此舉可能對印度以外的地區產生影響，因為它可以擴大全球供應鏈，降低發展壁壘，並加速…
-- [原文連結](https://www.digitimes.com/news/a20260729PR202/photonics-silicon-development-testing-technology.html)
-
----
-
-### ⚠️ 英偉達員工涉嫌不斷升級的超微走私醜聞，但對英偉達硬體的需求只會增加
-- **題材**: `AI伺服器` | **重要性**: `62`
-- **來源**: Tom's Hardware UK (2026-07-29T15:10:06Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 一名英偉達員工涉嫌超微走私醜聞，他的家和辦公桌都被搜查。他因偽造和違反信任的指控而被拘留。與此同時，英偉達正在縮減其買家名單，以根除潛在的自鳴得意的人…
-- [原文連結](https://www.tomshardware.com/tech-industry/nvidia-employee-implicated-in-escalating-supermicro-smuggling-scandal-but-demand-only-intensifies-for-nvidia-hardware)
+### 🚀 《Reacher》、《最後的日出》和《Sterling Point》是今年 8 月 Prime Video 的三部必看影片
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: CNET (2026-08-04T21:00:28Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 另外，您還可以觀看本月上映的新紀錄片《諾瓦克·喬科維奇：冬天的狼》。
+- [原文連結](https://www.cnet.com/culture/entertainment/reacher-the-last-sunrise-and-sterling-point-are-3-of-prime-videos-must-watch-releases-this-august/)
 
 ---
 
@@ -160,24 +178,6 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: TSMC is reportedly developing an Intel-inspired packaging technology, suggesting AI chip packaging is becoming a key battleground, giving Intel a rare chance...
 - [原文連結](https://www.barchart.com/story/news/3638932/intel-vs-tsmc-intel-is-winning-an-ai-battle-against-tsmc-that-few-investors-are-watching)
-
----
-
-### ⚖️ 應用光電 (AAOI) 飆升 18%，投資者關注另一個強勁季度
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-08-03T20:05:29Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 由於投資者恢復買盤，應用光電公司（納斯達克股票代碼：AAOI）週一股價上漲 17.6%，至每股 110.95 美元。
-- [原文連結](https://finance.yahoo.com/markets/stocks/articles/applied-optoelectronics-aaoi-rockets-18-200529294.html)
-
----
-
-### ⚠️ The Tariff Refunds Are Rolling in—but Gadget Prices Aren’t Dropping
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Gizmodo.com (2026-08-03T18:15:07Z)
-- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 亞馬遜承諾，您可以在“有限的情況下”獲得部分退款。
-- [原文連結](https://gizmodo.com/the-tariff-refunds-are-rolling-in-but-gadget-prices-arent-dropping-2000794037)
 
 ---
 
