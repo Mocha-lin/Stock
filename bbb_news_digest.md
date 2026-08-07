@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-07T10:01:16.327804+00:00
+> 更新時間：2026-08-07T14:03:08.237636+00:00
 
 ### 🚀 儘管LMOC收入創紀錄，但美國對中國光模組的限制令台灣供應商蒙受陰影
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -16,6 +16,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 川普政府正準備將美國的技術限制擴大到人工智慧供應鏈的更深處，聯邦通訊委員會正在考慮禁止資料中心使用的新型中國製造的光收發器模型。
 - [原文連結](https://www.digitimes.com/news/a20260805VL215/data-ban-technology-infrastructure-equipment.html)
+
+---
+
+### 🚀 高 Beta 亞軍：為何 AMD 和 Marvell 技術現在備受關注
+- **題材**: `光通訊與矽光子` | **重要性**: `80`
+- **來源**: 24/7 Wall St. (2026-08-06T12:51:31Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: AMD 和 Marvell 的獲利都大幅下滑，而年初至今的回報率則落後於 NVIDIA 和 Broadcom，但他們搶佔 AI 基礎設施的策略...
+- [原文連結](https://247wallst.com/investing/2026/08/06/high-beta-runners-up-why-amd-and-marvell-technology-now-command-attention/)
 
 ---
 
@@ -37,12 +46,21 @@
 
 ---
 
-### 🚀 SK海力士失去市場份額，DRAM價格飆升提振三星和美光
-- **題材**: `HBM記憶體` | **重要性**: `73`
-- **來源**: Digitimes (2026-08-06T00:00:42Z)
+### 🚀 人工智慧內存熱潮尚未結束。投資者只是按原樣定價
+- **題材**: `HBM記憶體` | **重要性**: `75`
+- **來源**: 24/7 Wall St. (2026-08-06T13:35:58Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 與 SK 海力士相比，三星電子和美光科技從傳統 DRAM 和 NAND 價格上漲中受益更大，儘管 SK 海力士在高頻寬記憶體 (HBM) 領域處於領先地位，但其傳統 DRAM 業務的擴張速度放緩。
-- [原文連結](https://www.digitimes.com/news/a20260805PD224/dram-samsung-micron-price-sk-hynix.html)
+- **摘要**: 儘管 SK 海力士、美光和 Sandisk 公佈了歷史上最好的財務業績，但內存股仍在暴跌。投資人的反應幾乎是…
+- [原文連結](https://247wallst.com/investing/2026/08/06/the-ai-memory-boom-isnt-over-investors-are-just-pricing-it-like-it-is/)
+
+---
+
+### ⚠️ 任天堂因美國關稅退款而超出盈利，但它不會與遊戲玩家分享
+- **題材**: `總體風險` | **重要性**: `73`
+- **來源**: The Verge (2026-08-06T10:58:20Z)
+- **AI 判讀**: 屬「總體風險」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 由於強勁的遊戲銷售和美國關稅退款，任天堂已經超越了本財年第一季的獲利預期，儘管其客戶可能不會從後者獲得任何東西。在其最新的財務業績中，任天堂報告稱...
+- [原文連結](https://www.theverge.com/games/976054/nintendo-earnings-q1-2027-tariff-refund)
 
 ---
 
@@ -52,6 +70,15 @@
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Elon Musk 的 SpaceX 和 xAI 將獨家使用 Nvidia AI 加速器進行訓練和推理，因為該公司相信 Vera Rubin 是當今最好的 AI 運算架構。
 - [原文連結](https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musk-says-spacex-will-exclusively-use-nvidia-gpus-because-they-are-the-best-says-optimized-vera-rubin-nvl72-will-be-launched-into-space-next-year)
+
+---
+
+### ⚖️ 2nm AI晶片訂單蓬勃發展，三星代工廠目標利用率達100%
+- **題材**: `半導體先進製程` | **重要性**: `70`
+- **來源**: SamMobile (2026-08-06T12:36:19Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 三星的晶片製造業務三星代工廠已經存在多年。然而，它並不是許多晶片設計者的首選，他們更喜歡台積電，因為它提供更先進的節點、更高的製造良率和...
+- [原文連結](https://www.sammobile.com/news/samsung-foundry-targets-100-utilization-amid-booming-2nm-ai-chip-orders/)
 
 ---
 
@@ -70,24 +97,6 @@
 - **AI 判讀**: 屬「總體風險」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 作者：Lewis Krauskopf 紐約，8 月 5 日（路透社）
 - [原文連結](https://finance.yahoo.com/markets/stocks/articles/analysis-us-stock-market-could-163115710.html)
-
----
-
-### 🚀 台積電2nm月產能達10萬片
-- **題材**: `半導體先進製程` | **重要性**: `70`
-- **來源**: TechNode (2026-08-05T05:55:28Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: As AI customers increasingly shift to more advanced 3nm and 2nm process technologies in pursuit of higher performance and lower power consumption, the surge in demand has prompted the world’s largest semiconductor foundry to adjust its production capacity pla…
-- [原文連結](https://technode.com/2026/08/05/tsmcs-2nm-monthly-capacity-to-reach-100000-wafers/)
-
----
-
-### 🚀 霍爾木茲海峽重新開放的希望推動美國股市創歷史新高
-- **題材**: `總體風險` | **重要性**: `70`
-- **來源**: Al Jazeera English (2026-08-05T02:09:06Z)
-- **AI 判讀**: 屬「總體風險」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 隨著美國官員宣稱重新開放關鍵水道的談判取得進展，油價下跌。
-- [原文連結](https://www.aljazeera.com/economy/2026/8/5/us-stock-market-hits-record-high-amid-hopes-for-strait-of-hormuz-reopening)
 
 ---
 
@@ -169,15 +178,6 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 在 Pixel 11 發布之前，我們對 Pixel 9、Pixel 9 Pro 和 Pixel 10 Pro 進行了視訊播放電池消耗測試。
 - [原文連結](https://www.androidcentral.com/phones/google-pixel/google-pixel-24-hour-video-battery-life-test)
-
----
-
-### ⚖️ GlobalFoundries 第二季財報電話會議亮點
-- **題材**: `光通訊與矽光子` | **重要性**: `65`
-- **來源**: MarketBeat (2026-08-05T15:04:26Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: GlobalFoundries（納斯達克股票代碼：GFS）報告稱，2026 財年第二季度營收為 17.86 億美元，環比增長 9%，同比增長 6%，因通訊需求增長。
-- [原文連結](https://www.marketbeat.com/instant-alerts/globalfoundries-q2-earnings-call-highlights-2026-08-05/?utm_source=yahoofinance&amp;utm_medium=yahoofinance)
 
 ---
 
