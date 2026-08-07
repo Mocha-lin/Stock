@@ -1,9 +1,9 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-08-07T19:41:42.808109+00:00",
+  "generated_at": "2026-08-07T23:33:00.888715+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
-  "total_count": 72,
+  "total_count": 73,
   "items": [
     {
       "id": "44b6df568f9402a7",
@@ -345,6 +345,44 @@
       "reason": "屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
+      "id": "6517934b07ebb323",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "親愛的應用材料公司股票粉絲，請在您的日曆上標記 8 月 13 日",
+      "summary": "應用材料公司在 8 月 13 日發布的收益報告中，隨著人工智慧驅動的記憶體、邏輯和先進封裝需求推動成長，人們的預期不斷飆升…",
+      "original_title": "Dear Applied Materials Stock Fans, Mark Your Calendars for August 13",
+      "url": "https://www.barchart.com/story/news/3693835/dear-applied-materials-stock-fans-mark-your-calendars-for-august-13",
+      "source": "Barchart.com",
+      "domain": "barchart.com",
+      "published_at": "2026-08-06T13:49:30Z",
+      "importance": 70,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
       "id": "0a529ffd7ec240de",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -495,44 +533,6 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
-      "id": "2730e190cde6adf5",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "Tower Semiconductor Ltd. Q2 2026 Earnings Call Summary",
-      "summary": "Moby summary of Tower Semiconductor Ltd.'s Q2 2026 earnings call",
-      "original_title": "Tower Semiconductor Ltd. Q2 2026 Earnings Call Summary",
-      "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-tower-semiconductor-ltd-q2-2026-earnings-call-summary?utm_source=yahoo_finance&amp;utm_medium=rss",
-      "source": "Moby.co",
-      "domain": "app.moby.co",
-      "published_at": "2026-08-04T21:15:30Z",
-      "importance": 70,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "a2b35069c59789d1",
@@ -837,6 +837,44 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "2730e190cde6adf5",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "Tower Semiconductor Ltd. Q2 2026 Earnings Call Summary",
+      "summary": "Moby summary of Tower Semiconductor Ltd.'s Q2 2026 earnings call",
+      "original_title": "Tower Semiconductor Ltd. Q2 2026 Earnings Call Summary",
+      "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-tower-semiconductor-ltd-q2-2026-earnings-call-summary?utm_source=yahoo_finance&amp;utm_medium=rss",
+      "source": "Moby.co",
+      "domain": "app.moby.co",
+      "published_at": "2026-08-04T21:15:30Z",
+      "importance": 65,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "5c4509ae1504fd9a",
@@ -1216,82 +1254,6 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "8297277975893d82",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "《Reacher》、《最後的日出》和《Sterling Point》是今年 8 月 Prime Video 的三部必看影片",
-      "summary": "另外，您還可以觀看本月上映的新紀錄片《諾瓦克·喬科維奇：冬天的狼》。",
-      "original_title": "‘Reacher,’ ‘The Last Sunrise’ and ‘Sterling Point’ Are 3 of Prime Video’s Must-Watch Releases This August",
-      "url": "https://www.cnet.com/culture/entertainment/reacher-the-last-sunrise-and-sterling-point-are-3-of-prime-videos-must-watch-releases-this-august/",
-      "source": "CNET",
-      "domain": "cnet.com",
-      "published_at": "2026-08-04T21:00:28Z",
-      "importance": 60,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "d12b278ce1044145",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "川普稱埃克森美孚和雪佛龍在伊朗戰爭中“賺了太多錢”",
-      "summary": "唐納德·川普總統敦促石油巨頭埃克森美孚和雪佛龍削減零售燃料價格。",
-      "original_title": "Trump says Exxon and Chevron are 'making too much money' amid Iran war",
-      "url": "https://abcnews.com/Business/trump-exxon-chevron-making-money-high-oil-prices/story?id=135355761",
-      "source": "Abcnews.com",
-      "domain": "abcnews.com",
-      "published_at": "2026-08-04T20:37:26Z",
-      "importance": 60,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "b69a4adf6e3cd80a",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1658,6 +1620,82 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "8297277975893d82",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "《Reacher》、《最後的日出》和《Sterling Point》是今年 8 月 Prime Video 的三部必看影片",
+      "summary": "另外，您還可以觀看本月上映的新紀錄片《諾瓦克·喬科維奇：冬天的狼》。",
+      "original_title": "‘Reacher,’ ‘The Last Sunrise’ and ‘Sterling Point’ Are 3 of Prime Video’s Must-Watch Releases This August",
+      "url": "https://www.cnet.com/culture/entertainment/reacher-the-last-sunrise-and-sterling-point-are-3-of-prime-videos-must-watch-releases-this-august/",
+      "source": "CNET",
+      "domain": "cnet.com",
+      "published_at": "2026-08-04T21:00:28Z",
+      "importance": 55,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "d12b278ce1044145",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "川普稱埃克森美孚和雪佛龍在伊朗戰爭中“賺了太多錢”",
+      "summary": "唐納德·川普總統敦促石油巨頭埃克森美孚和雪佛龍削減零售燃料價格。",
+      "original_title": "Trump says Exxon and Chevron are 'making too much money' amid Iran war",
+      "url": "https://abcnews.com/Business/trump-exxon-chevron-making-money-high-oil-prices/story?id=135355761",
+      "source": "Abcnews.com",
+      "domain": "abcnews.com",
+      "published_at": "2026-08-04T20:37:26Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "91681938f658dcc1",
@@ -2592,41 +2630,6 @@
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "b0a04aff4e1183c9",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "就在新郎利奧波德·阿申布倫納 (Leopold Aschenbrenner) 的對沖基金差點破產幾天后，這對人工智慧領域的有權勢夫婦即將在卡梅爾結婚",
-      "summary": "Leopold Aschenbrenner 將他的 Situational Awareness 公司的大部分股份以折扣價賣給了 Citadel，然後在蜜月期間為投資者提供了一對一的電話諮詢…",
-      "original_title": "The power couple of AI is getting married in Carmel, days after groom Leopold Aschenbrenner’s hedge fund nearly blew up",
-      "url": "https://finance.yahoo.com/technology/ai/articles/power-couple-ai-getting-married-210105389.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-07-31T21:01:05Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "fdd11cb7dec95f9a",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2663,6 +2666,41 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "b0a04aff4e1183c9",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "就在新郎利奧波德·阿申布倫納 (Leopold Aschenbrenner) 的對沖基金差點破產幾天后，這對人工智慧領域的有權勢夫婦即將在卡梅爾結婚",
+      "summary": "Leopold Aschenbrenner 將他的 Situational Awareness 公司的大部分股份以折扣價賣給了 Citadel，然後在蜜月期間為投資者提供了一對一的電話諮詢…",
+      "original_title": "The power couple of AI is getting married in Carmel, days after groom Leopold Aschenbrenner’s hedge fund nearly blew up",
+      "url": "https://finance.yahoo.com/technology/ai/articles/power-couple-ai-getting-married-210105389.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-07-31T21:01:05Z",
+      "importance": 45,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     },
     {
       "id": "ed2a2a5c30b21c27",

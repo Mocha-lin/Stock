@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-07T19:41:42.808109+00:00
+> 更新時間：2026-08-07T23:33:00.888715+00:00
 
 ### 🚀 儘管LMOC收入創紀錄，但美國對中國光模組的限制令台灣供應商蒙受陰影
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -82,6 +82,15 @@
 
 ---
 
+### 🚀 親愛的應用材料公司股票粉絲，請在您的日曆上標記 8 月 13 日
+- **題材**: `半導體先進製程` | **重要性**: `70`
+- **來源**: Barchart.com (2026-08-06T13:49:30Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 應用材料公司在 8 月 13 日發布的收益報告中，隨著人工智慧驅動的記憶體、邏輯和先進封裝需求推動成長，人們的預期不斷飆升…
+- [原文連結](https://www.barchart.com/story/news/3693835/dear-applied-materials-stock-fans-mark-your-calendars-for-august-13)
+
+---
+
 ### ⚖️ 2nm AI晶片訂單蓬勃發展，三星代工廠目標利用率達100%
 - **題材**: `半導體先進製程` | **重要性**: `70`
 - **來源**: SamMobile (2026-08-06T12:36:19Z)
@@ -115,15 +124,6 @@
 - **AI 判讀**: 屬「總體風險」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 在企業獲利和油價下跌的推動下，道瓊斯指數和標準普爾指數收在創紀錄水準。 NBC News’ Allie Canal explains.
 - [原文連結](https://www.yahoo.com/news/videos/markets-surge-record-highs-233632229.html)
-
----
-
-### 🚀 Tower Semiconductor Ltd. Q2 2026 Earnings Call Summary
-- **題材**: `光通訊與矽光子` | **重要性**: `70`
-- **來源**: Moby.co (2026-08-04T21:15:30Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Moby summary of Tower Semiconductor Ltd.'s Q2 2026 earnings call
-- [原文連結](https://app.moby.co/home/research/tools/earningsCalendar/earnings-tower-semiconductor-ltd-q2-2026-earnings-call-summary?utm_source=yahoo_finance&amp;utm_medium=rss)
 
 ---
 
