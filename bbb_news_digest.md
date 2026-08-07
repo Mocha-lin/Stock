@@ -1,5 +1,14 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-07T05:27:54.079254+00:00
+> 更新時間：2026-08-07T06:44:21.729941+00:00
+
+### 🚀 儘管LMOC收入創紀錄，但美國對中國光模組的限制令台灣供應商蒙受陰影
+- **題材**: `光通訊與矽光子` | **重要性**: `83`
+- **來源**: Digitimes (2026-08-06T05:55:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 據報道，美國聯邦通訊委員會正在起草禁止進口中國新型光模組的規定，計劃於2026年公佈實施，引起市場密切關注。業內人士預計…
+- [原文連結](https://www.digitimes.com/news/a20260806PD219/fcc-lmoc-revenue-market-2026.html)
+
+---
 
 ### ⚠️ 美國考慮對中國光模組實施禁令，人工智慧資料中心供應面臨風險
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -169,15 +178,6 @@
 - **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 由於人工智慧相關公司的獲利，道瓊指數和標準普爾 500 指數創下歷史新高，而原油價格則下跌至 6% 左右。 NBC 新聞的艾莉運河報導。
 - [原文連結](https://www.yahoo.com/news/videos/dow-p-500-hit-record-235055722.html)
-
----
-
-### ⚖️ Tower Semiconductor 超越第二季預期並發布強勁的第三季營收前景
-- **題材**: `光通訊與矽光子` | **重要性**: `65`
-- **來源**: Advfn.com (2026-08-04T14:07:32Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Tower Semiconductor (NASDAQ:TSEM) reported second-quarter 2026 results that surpassed Wall Street expectations and issued third-quarter revenue guidance that...
-- [原文連結](https://investorshub.advfn.com/market-news/article/33371/tower-semiconductor-beats-second-quarter-estimates-and-issues-strong-q3-revenue-outlook)
 
 ---
 
