@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-08-07T15:40:59.877156+00:00",
+  "generated_at": "2026-08-07T17:37:48.098408+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 72,
@@ -535,44 +535,6 @@
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
-      "id": "03f9f2a9196de54b",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "這三隻晶片股可能正在進入新的成長週期",
-      "summary": "AMD、美光和 Marvell 已經在 2026 年實現了三位數的成長，但夏季的回檔引發了一個更大的問題：人工智慧基礎設施是否...",
-      "original_title": "These 3 Chip Stocks Could Be Entering a New Growth Cycle",
-      "url": "https://247wallst.com/investing/2026/08/04/these-3-chip-stocks-could-be-entering-a-new-growth-cycle/",
-      "source": "24/7 Wall St.",
-      "domain": "247wallst.com",
-      "published_at": "2026-08-04T16:30:01Z",
-      "importance": 70,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
       "id": "a2b35069c59789d1",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -685,6 +647,44 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "042cda56cb8b3a53",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "川普的1000億美元關稅退款跳過了支付更高價格的人",
+      "summary": "Grandpa Pudding Brains 根據最高法院稱未授權徵收關稅的法律徵收了 1,660 億美元的關稅。政府現已退還其中 1000 億美元，但退款並未到達那些支付更高價格的人手中。\n橙色威脅聲稱…",
+      "original_title": "Trump's $100 billion tariff refund skips the people who paid higher prices",
+      "url": "https://boingboing.net/2026/08/06/trumps-100-billion-tariff-refund-skips-the-people-who-paid-higher-prices.html",
+      "source": "Boing Boing",
+      "domain": "boingboing.net",
+      "published_at": "2026-08-06T16:55:15Z",
+      "importance": 65,
+      "impact": "negative",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "e10e6c6657c16f29",
@@ -1438,6 +1438,120 @@
       "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "3bfd50e78433998a",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "經過一年半的努力，我賣掉了我的第一家公司。這就是我這次所做的不同的事情。",
+      "summary": "創投的真正回報並不總是退出；而是退出。有時是你在這個過程中成為的創始人。因此，請做出值得的賭注。",
+      "original_title": "I Sold My First Company After a Year and a Half of Trying to Make It Work. Here’s What I’m Doing Differently This Time Around.",
+      "url": "https://www.entrepreneur.com/building-a-business/sold-first-company-mistakes-what-im-doing-differently-now",
+      "source": "Entrepreneur",
+      "domain": "entrepreneur.com",
+      "published_at": "2026-08-06T17:00:00Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "31a55fc01c8d8009",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "川普政府可能很快就會創造「萬物之母」人工智慧瓶頸。這些股票可能會飆升。",
+      "summary": "中國控制全球50%以上的收發器市場，美國聯邦通訊委員會正在起草一項措施，禁止進口中國新...",
+      "original_title": "The Trump Administration Could Soon Create the ‘Mother of All’ AI Bottlenecks. These Stocks Could Soar.",
+      "url": "https://247wallst.com/investing/2026/08/06/the-trump-administration-could-soon-create-the-mother-of-all-ai-bottlenecks-these-stocks-could-soar/",
+      "source": "24/7 Wall St.",
+      "domain": "247wallst.com",
+      "published_at": "2026-08-06T16:14:42Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "1d99df8f17e7f659",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "抵押貸款利率連續第 5 週上升，連續第 2 週觸及 2025 年以來的最高水平",
+      "summary": "美國平均長期抵押貸款利率連續第五週上升至一年多以來的最高水平，標誌著未來的最新壓力...",
+      "original_title": "Mortgage rates rise for 5th straight week, hitting levels not seen since 2025 for 2nd week in a row",
+      "url": "https://finance.yahoo.com/real-estate/articles/mortgage-rates-rise-5th-straight-160205991.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-08-06T16:02:05Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "dd0aa539b5271a69",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1541,44 +1655,6 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "5bcd0ce0f02ad79b",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "The FCC Mulls Banning China-Sourced Optical Transceivers, Threatening Innolight’s 27% Global Market Share As Coherent And Lumentum Prepare To Pounce",
-      "summary": "又一天，美中競爭不斷加深，這次的焦點是為基於光纖的數據傳輸提供動力的光收發器，而中國的中際旭創目前控制著全球四分之一以上的市場…",
-      "original_title": "The FCC Mulls Banning China-Sourced Optical Transceivers, Threatening Innolight’s 27% Global Market Share As Coherent And Lumentum Prepare To Pounce",
-      "url": "https://wccftech.com/the-fcc-mulls-banning-china-sourced-optical-transceivers-threatening-innolights-27-global-market-share-as-coherent-and-lumentum-prepare-to-pounce/",
-      "source": "Wccftech",
-      "domain": "wccftech.com",
-      "published_at": "2026-08-04T16:27:51Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "91681938f658dcc1",
@@ -1842,44 +1918,6 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "540aed6ca3a87f6d",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "Amazon Will Give Tariff Refunds to Some Customers",
-      "summary": "這家線上零售巨頭沒有透露誰有資格獲得退款，也沒有透露每個接收者將收到多少金額。",
-      "original_title": "Amazon Will Give Tariff Refunds to Some Customers",
-      "url": "https://www.cnet.com/tech/amazon-will-give-tariff-refunds-to-some-customers/",
-      "source": "CNET",
-      "domain": "cnet.com",
-      "published_at": "2026-08-02T16:00:40Z",
-      "importance": 55,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "3d043248e6e5dd9d",
@@ -2261,44 +2299,6 @@
       "source": "NPR",
       "domain": "npr.org",
       "published_at": "2026-08-03T11:57:06Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "d4e3aa313acf08b0",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "Iran says no talks are under way with United States after Trump calls off attacks",
-      "summary": "作者：Steve Holland、Elwely Elwelly 和 Parisa Hafezi 登上空軍一號/杜拜，8 月 3 日（路透社）",
-      "original_title": "Iran says no talks are under way with United States after Trump calls off attacks",
-      "url": "https://www.yahoo.com/news/articles/trump-says-iran-talks-place-232242846.html",
-      "source": "Yahoo Entertainment",
-      "domain": "yahoo.com",
-      "published_at": "2026-08-03T10:26:46Z",
       "importance": 50,
       "impact": "neutral",
       "timeframe": "short_term",
