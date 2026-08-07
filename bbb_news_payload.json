@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-08-07T06:44:21.729941+00:00",
+  "generated_at": "2026-08-07T10:01:16.327804+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 74,
@@ -495,6 +495,44 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
+      "id": "a2b35069c59789d1",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "GlobalFoundries 2Q分析2/2：美國補貼、台灣言論與格芯矽光子測試",
+      "summary": "GlobalFoundries (GF) 经常将自己视为美国半导体主权的重要支柱。這種說法部分正確，但需要限定。",
+      "original_title": "GlobalFoundries 2Q analysis 2/2: US subsidies, Taiwan rhetoric and GF's silicon photonics test",
+      "url": "https://www.digitimes.com/news/a20260806VL208/globalfoundries-photonics-silicon-taiwan-subsidies.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-08-06T07:23:45Z",
+      "importance": 68,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "ca7ea43b30756910",
@@ -1765,41 +1803,6 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "364a67cfa267caeb",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "年輕的韓國投資者在社群媒體上分享損失，發現公司陷入集體痛苦",
-      "summary": "一位 Instagram 用戶表示，雖然她節食失敗了，但她的投資帳戶成功減肥了。",
-      "original_title": "Young South Korean investors are finding company in collective misery by sharing their losses on social media",
-      "url": "https://www.businessinsider.com/young-south-korean-investors-humor-cope-kospi-stock-market-rout-2026-8#article",
-      "source": "Business Insider",
-      "domain": "businessinsider.com",
-      "published_at": "2026-08-04T09:15:08Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "ed82c37d78c1d7de",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2134,6 +2137,41 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "364a67cfa267caeb",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "年輕的韓國投資者在社群媒體上分享損失，發現公司陷入集體痛苦",
+      "summary": "一位 Instagram 用戶表示，雖然她節食失敗了，但她的投資帳戶成功減肥了。",
+      "original_title": "Young South Korean investors are finding company in collective misery by sharing their losses on social media",
+      "url": "https://www.businessinsider.com/young-south-korean-investors-humor-cope-kospi-stock-market-rout-2026-8#article",
+      "source": "Business Insider",
+      "domain": "businessinsider.com",
+      "published_at": "2026-08-04T09:15:08Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "2f3d4fbf10ce04d5",
@@ -2625,44 +2663,6 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "10ebf718cd97a5de",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "ARRI CPO 夏季特賣",
-      "summary": "ARRI has a CPO Summer Sale that is running from July 31 until September 14. The campaign offers a unique opportunity to access high-quality ARRI equipment from the CPO (Certified Pre-Owned), Demo, and Open Box stock at reduced prices.  Please note that all it…",
-      "original_title": "ARRI CPO Summer Sale",
-      "url": "https://www.newsshooter.com/2026/07/31/arri-cpo-summer-sale/",
-      "source": "Newsshooter",
-      "domain": "newsshooter.com",
-      "published_at": "2026-08-01T02:54:17Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "b0a04aff4e1183c9",
