@@ -1,5 +1,14 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-06T11:22:32.709802+00:00
+> 更新時間：2026-08-07T00:35:49.934378+00:00
+
+### ⚠️ 美國考慮對中國光模組實施禁令，人工智慧資料中心供應面臨風險
+- **題材**: `光通訊與矽光子` | **重要性**: `83`
+- **來源**: Digitimes (2026-08-06T00:03:05Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 川普政府正準備將美國的技術限制擴大到人工智慧供應鏈的更深處，聯邦通訊委員會正在考慮禁止資料中心使用的新型中國製造的光收發器模型。
+- [原文連結](https://www.digitimes.com/news/a20260805VL215/data-ban-technology-infrastructure-equipment.html)
+
+---
 
 ### 🚀 MA-tek出售上海子公司，擴大日本和美國的人工智慧市場
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -10,12 +19,48 @@
 
 ---
 
-### ⚖️ 欣興微電子稱英特爾EMIB-T要到2027年才能量產，先進封裝競爭加劇
-- **題材**: `半導體先進製程` | **重要性**: `73`
-- **來源**: Digitimes (2026-07-31T00:02:07Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 據欣興微電子稱，台積電的 CoWoS 產能依然緊張，對第二條供應路線的需求正在加強，英特爾的 EMIB-T 先進封裝平台要到 2027 年才能實現真正的量產。該基板製造商表示，新平台…
-- [原文連結](https://www.digitimes.com/news/a20260730PD212/packaging-cowos-unimicron-tsmc-production.html)
+### 🚀 SK海力士失去市場份額，DRAM價格飆升提振三星和美光
+- **題材**: `HBM記憶體` | **重要性**: `73`
+- **來源**: Digitimes (2026-08-06T00:00:42Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 與 SK 海力士相比，三星電子和美光科技從傳統 DRAM 和 NAND 價格上漲中受益更大，儘管 SK 海力士在高頻寬記憶體 (HBM) 領域處於領先地位，但其傳統 DRAM 業務的擴張速度放緩。
+- [原文連結](https://www.digitimes.com/news/a20260805PD224/dram-samsung-micron-price-sk-hynix.html)
+
+---
+
+### ⚖️ 馬斯克 (Elon Musk) 表示 SpaceX 將專門使用 Nvidia GPU，「因為它們是最好的」——優化後的 Vera Rubin NVL72 將於明年發射升空
+- **題材**: `AI伺服器` | **重要性**: `72`
+- **來源**: Tom's Hardware UK (2026-08-05T11:50:34Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Elon Musk 的 SpaceX 和 xAI 將獨家使用 Nvidia AI 加速器進行訓練和推理，因為該公司相信 Vera Rubin 是當今最好的 AI 運算架構。
+- [原文連結](https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musk-says-spacex-will-exclusively-use-nvidia-gpus-because-they-are-the-best-says-optimized-vera-rubin-nvl72-will-be-launched-into-space-next-year)
+
+---
+
+### 🚀 分析-標準普爾 500 指數創歷史新高後，美國股市可能會利用獲利強勁而進一步上漲
+- **題材**: `總體風險` | **重要性**: `70`
+- **來源**: Yahoo Entertainment (2026-08-05T16:31:15Z)
+- **AI 判讀**: 屬「總體風險」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 作者：Lewis Krauskopf 紐約，8 月 5 日（路透社）
+- [原文連結](https://finance.yahoo.com/markets/stocks/articles/analysis-us-stock-market-could-163115710.html)
+
+---
+
+### 🚀 台積電2nm月產能達10萬片
+- **題材**: `半導體先進製程` | **重要性**: `70`
+- **來源**: TechNode (2026-08-05T05:55:28Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: As AI customers increasingly shift to more advanced 3nm and 2nm process technologies in pursuit of higher performance and lower power consumption, the surge in demand has prompted the world’s largest semiconductor foundry to adjust its production capacity pla…
+- [原文連結](https://technode.com/2026/08/05/tsmcs-2nm-monthly-capacity-to-reach-100000-wafers/)
+
+---
+
+### 🚀 霍爾木茲海峽重新開放的希望推動美國股市創歷史新高
+- **題材**: `總體風險` | **重要性**: `70`
+- **來源**: Al Jazeera English (2026-08-05T02:09:06Z)
+- **AI 判讀**: 屬「總體風險」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 隨著美國官員宣稱重新開放關鍵水道的談判取得進展，油價下跌。
+- [原文連結](https://www.aljazeera.com/economy/2026/8/5/us-stock-market-hits-record-high-amid-hopes-for-strait-of-hormuz-reopening)
 
 ---
 
@@ -46,21 +91,12 @@
 
 ---
 
-### 🚀 雪佛龍在獲利井噴後發給員工特別獎金
-- **題材**: `總體風險` | **重要性**: `70`
-- **來源**: Yahoo Entertainment (2026-08-03T18:00:34Z)
-- **AI 判讀**: 屬「總體風險」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 休士頓，8 月 3 日（路透社）
-- [原文連結](https://finance.yahoo.com/energy/articles/chevron-awards-staff-special-bonus-180034093.html)
-
----
-
-### 🚀 收購英特爾而不是台積電並不像看起來那麼瘋狂
-- **題材**: `半導體先進製程` | **重要性**: `70`
-- **來源**: 24/7 Wall St. (2026-08-03T16:06:51Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 台積電在每項傳統指標上都佔據主導地位，但一個被忽視的結構性因素正在悄悄使其鬥志旺盛的競爭對手成為未來 24 年更具吸引力的賭注…
-- [原文連結](https://247wallst.com/investing/2026/08/03/buying-intel-over-tsmc-isnt-as-crazy-as-it-might-seem/)
+### ⚖️ 訪談：Ayar Labs 執行長預計 2028 年至 2029 年原棕油規模化產量將上升
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-08-06T00:00:01Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: The 2026 Open Compute Project (OCP) APAC Summit will be held in Taipei on August 11-12, bringing together global cloud service providers (CSPs), semiconductor firms, silicon photonics (SiPh) players, system makers and many Taiwanese suppliers to share the lat…
+- [原文連結](https://www.digitimes.com/news/a20260805PD219/cpo-2026-ceo-apac-manufacturing.html)
 
 ---
 
@@ -73,12 +109,39 @@
 
 ---
 
-### ⚖️ 分析師稱，到 2028 年，谷歌可能會製造出比 Nvidia 銷量還要多的人工智慧加速器，這可能會促使該公司使用英特爾代工來實現其目標
-- **題材**: `半導體先進製程` | **重要性**: `67`
-- **來源**: Tom's Hardware UK (2026-07-30T14:35:50Z)
+### ⚖️ 欣興微電子稱英特爾EMIB-T要到2027年才能量產，先進封裝競爭加劇
+- **題材**: `半導體先進製程` | **重要性**: `68`
+- **來源**: Digitimes (2026-07-31T00:02:07Z)
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 如果富邦研究院的報告準確的話，谷歌計劃在 2028 年建造比 Nvidia 更多的 TPU AI 加速器。
-- [原文連結](https://www.tomshardware.com/tech-industry/artificial-intelligence/google-could-build-more-ai-accelerators-than-nvidia-sells-in-2028-analyst-claims-could-push-the-company-to-use-intel-foundry-to-meet-its-goals)
+- **摘要**: 據欣興微電子稱，台積電的 CoWoS 產能依然緊張，對第二條供應路線的需求正在加強，英特爾的 EMIB-T 先進封裝平台要到 2027 年才能實現真正的量產。該基板製造商表示，新平台…
+- [原文連結](https://www.digitimes.com/news/a20260730PD212/packaging-cowos-unimicron-tsmc-production.html)
+
+---
+
+### ⚠️ 川普政府支付了里程碑式的 1000 億美元關稅退款
+- **題材**: `總體風險` | **重要性**: `65`
+- **來源**: Abcnews.com (2026-08-05T20:18:17Z)
+- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 這是欠數千家美國企業所欠的 1,660 億美元的一半以上，這些企業支付了被最高法院駁回的關稅。
+- [原文連結](https://abcnews.com/Business/trump-administration-pays-milestone-100-billion-tariff-refunds/story?id=135399276)
+
+---
+
+### 🚀 我對 Pixel 手機進行了嚴格的 24 小時電池續航測試，看看它們是否能保持應有的性能，獲勝者可能會讓您大吃一驚
+- **題材**: `半導體先進製程` | **重要性**: `65`
+- **來源**: Android Central (2026-08-05T17:25:59Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 在 Pixel 11 發布之前，我們對 Pixel 9、Pixel 9 Pro 和 Pixel 10 Pro 進行了視訊播放電池消耗測試。
+- [原文連結](https://www.androidcentral.com/phones/google-pixel/google-pixel-24-hour-video-battery-life-test)
+
+---
+
+### ⚖️ GlobalFoundries 第二季財報電話會議亮點
+- **題材**: `光通訊與矽光子` | **重要性**: `65`
+- **來源**: MarketBeat (2026-08-05T15:04:26Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: GlobalFoundries（納斯達克股票代碼：GFS）報告稱，2026 財年第二季度營收為 17.86 億美元，環比增長 9%，同比增長 6%，因通訊需求增長。
+- [原文連結](https://www.marketbeat.com/instant-alerts/globalfoundries-q2-earnings-call-highlights-2026-08-05/?utm_source=yahoofinance&amp;utm_medium=yahoofinance)
 
 ---
 
@@ -88,15 +151,6 @@
 - **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 由於人工智慧相關公司的獲利，道瓊指數和標準普爾 500 指數創下歷史新高，而原油價格則下跌至 6% 左右。 NBC 新聞的艾莉運河報導。
 - [原文連結](https://www.yahoo.com/news/videos/dow-p-500-hit-record-235055722.html)
-
----
-
-### 🚀 華爾街因 AI 記憶體繁榮而上調目標價，Sandisk 股價上漲 8%，美光股價上漲 6%，SK Hynix 股價上漲 4%
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: 24/7 Wall St. (2026-08-04T14:52:31Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 週二上午，記憶體和儲存類股大幅上漲，SanDisk（納斯達克股票代碼：SNDK）引領整個板塊全面反彈。 SanDisk 股價上漲 8% 至 1,393 美元...
-- [原文連結](https://247wallst.com/investing/2026/08/04/sandisk-jumps-8-micron-gains-6-sk-hynix-climbs-4-as-wall-street-hikes-price-targets-on-ai-memory-boom/)
 
 ---
 
@@ -124,60 +178,6 @@
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 智利的維拉·C·魯賓天文台最近發布了一張令人驚嘆的宇宙深空圖像，顯然包含超過 50 萬個星系。不是恆星，是星系！這張令人興奮的影像是使用 LSST 相機拍攝的，該相機保持著世界上最...
 - [原文連結](https://www.lightstalking.com/the-worlds-largest-digital-camera-just-produced-an-image-containing-more-than-half-a-million-galaxies/)
-
----
-
-### 🚀 蘋果發布創紀錄的六月季度業績，警告即將到來的供應限制
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: Gizmodo.com (2026-07-31T02:55:18Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 提姆庫克表示，記憶體價格將繼續上漲。
-- [原文連結](https://gizmodo.com/apple-posts-record-june-quarter-warns-supply-constraints-are-coming-2000793192)
-
----
-
-### 🚀 台積電正在複製英特爾的最佳創意之一——這就是投資者應該關注的原因
-- **題材**: `半導體先進製程` | **重要性**: `65`
-- **來源**: 24/7 Wall St. (2026-07-30T15:13:34Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 台積電似乎借鑒了英特爾最不受重視的策略之一，此舉背後的原因揭示了一些...
-- [原文連結](https://247wallst.com/investing/2026/07/30/taiwan-semiconductor-is-copying-one-of-intels-best-ideas-heres-why-investors-should-pay-attention/)
-
----
-
-### ⚖️ SpaceX 和 Nvidia 正在採取獨家合作關係——以下是馬斯克對他們的新地位的評價
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: Business Insider (2026-08-05T07:49:54Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 在周三的 SpaceX 財報電話會議上，執行長 Elon Musk 表示，他的公司致力於僅從 Nvidia 購買圖形處理單元。
-- [原文連結](https://www.businessinsider.com/elon-musk-spacex-will-only-buy-from-nvidia-2026-8#article)
-
----
-
-### 🚀 《Reacher》、《最後的日出》和《Sterling Point》是今年 8 月 Prime Video 的三部必看影片
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: CNET (2026-08-04T21:00:28Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 另外，您還可以觀看本月上映的新紀錄片《諾瓦克·喬科維奇：冬天的狼》。
-- [原文連結](https://www.cnet.com/culture/entertainment/reacher-the-last-sunrise-and-sterling-point-are-3-of-prime-videos-must-watch-releases-this-august/)
-
----
-
-### ⚖️ 川普稱埃克森美孚和雪佛龍在伊朗戰爭中“賺了太多錢”
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Abcnews.com (2026-08-04T20:37:26Z)
-- **AI 判讀**: 屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 唐納德·川普總統敦促石油巨頭埃克森美孚和雪佛龍削減零售燃料價格。
-- [原文連結](https://abcnews.com/Business/trump-exxon-chevron-making-money-high-oil-prices/story?id=135355761)
-
----
-
-### ⚖️ Corvex 簽署多年 NVIDIA Blackwell GPU 協議，無需額外發行股票
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: Advfn.com (2026-08-04T15:27:28Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Corvex（納斯達克股票代碼：MOVE）簽訂了一份多年期協議，提供 NVIDIA Blackwell GPU 基礎設施，透過債務、客戶預付款等方式為擴張提供資金…
-- [原文連結](https://investorshub.advfn.com/market-news/article/33399/corvex-signs-multi-year-nvidia-blackwell-gpu-agreement-without-additional-equity-issuance)
 
 ---
 
