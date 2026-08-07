@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-07T14:03:08.237636+00:00
+> 更新時間：2026-08-07T15:40:59.877156+00:00
 
 ### 🚀 儘管LMOC收入創紀錄，但美國對中國光模組的限制令台灣供應商蒙受陰影
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -73,6 +73,15 @@
 
 ---
 
+### ⚖️ 了解不同的人工智慧資料中心租賃價格和類別
+- **題材**: `AI伺服器` | **重要性**: `70`
+- **來源**: Next Big Future (2026-08-06T15:02:20Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: xAI/SpaceX Colossus 和類似的優質、立即可用的 AI 集群的每吉瓦 500 億美元的高租賃費是因為缺乏即用型、大規模相干 GPU 容量。凱文·帕拉斯關於陰謀的說法是錯誤的。他正在與不同的人進行比較…
+- [原文連結](https://www.nextbigfuture.com/2026/08/understanding-different-ai-data-center-leasing-prices-and-categories.html)
+
+---
+
 ### ⚖️ 2nm AI晶片訂單蓬勃發展，三星代工廠目標利用率達100%
 - **題材**: `半導體先進製程` | **重要性**: `70`
 - **來源**: SamMobile (2026-08-06T12:36:19Z)
@@ -142,15 +151,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: The 2026 Open Compute Project (OCP) APAC Summit will be held in Taipei on August 11-12, bringing together global cloud service providers (CSPs), semiconductor firms, silicon photonics (SiPh) players, system makers and many Taiwanese suppliers to share the lat…
 - [原文連結](https://www.digitimes.com/news/a20260805PD219/cpo-2026-ceo-apac-manufacturing.html)
-
----
-
-### ⚖️ At OCP's Taiwan summit, servers take a back seat to optics and advanced packaging
-- **題材**: `半導體先進製程` | **重要性**: `68`
-- **來源**: Digitimes (2026-07-31T17:57:00Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 當今年 OCP 亞太峰會的議程確定時，經驗豐富的觀察家注意到了一些不尋常的事情。台積電、應用材料公司、Advantest 和 ASE 與微軟、Nvidia 和谷歌同台。
-- [原文連結](https://www.digitimes.com/news/a20260729VL222/ocp-optics-packaging-infrastructure-servers-taiwan.html)
 
 ---
 
