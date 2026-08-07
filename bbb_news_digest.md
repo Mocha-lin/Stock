@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-07T03:42:56.123714+00:00
+> 更新時間：2026-08-07T05:27:54.079254+00:00
 
 ### ⚠️ 美國考慮對中國光模組實施禁令，人工智慧資料中心供應面臨風險
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -7,6 +7,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 川普政府正準備將美國的技術限制擴大到人工智慧供應鏈的更深處，聯邦通訊委員會正在考慮禁止資料中心使用的新型中國製造的光收發器模型。
 - [原文連結](https://www.digitimes.com/news/a20260805VL215/data-ban-technology-infrastructure-equipment.html)
+
+---
+
+### ⚖️ 由於人工智慧封裝瓶頸仍然存在，台積電轉向 OSAT 以獲得更多 CoW 產能
+- **題材**: `半導體先進製程` | **重要性**: `78`
+- **來源**: Digitimes (2026-08-06T04:18:57Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 根據 ETNews 報導，台積電 (TSMC) 正在擴大將其 CoWoS 先進封裝的晶圓晶片 (CoW) 階段外包給外包半導體組裝和測試 (OSAT) 提供商，其中引用了半導體行業的消息。
+- [原文連結](https://www.digitimes.com/news/a20260806VL218/tsmc-cowos-outsourcing-osat-packaging-capacity-taiwan.html)
 
 ---
 
@@ -34,6 +43,15 @@
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Elon Musk 的 SpaceX 和 xAI 將獨家使用 Nvidia AI 加速器進行訓練和推理，因為該公司相信 Vera Rubin 是當今最好的 AI 運算架構。
 - [原文連結](https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musk-says-spacex-will-exclusively-use-nvidia-gpus-because-they-are-the-best-says-optimized-vera-rubin-nvl72-will-be-launched-into-space-next-year)
+
+---
+
+### 🚀 LITE 股票提醒：分析師認為 Lumentum 前景廣闊，因為川普旨在限制中國資料中心組件
+- **題材**: `光通訊與矽光子` | **重要性**: `70`
+- **來源**: Barchart.com (2026-08-05T17:54:09Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 到 2026 年，Lumentum 股價已上漲約 130%，而強勁的獲利成長和 1,100 美元的分析師目標表明華爾街預計會有進一步上漲。
+- [原文連結](https://www.barchart.com/story/news/3670467/lite-stock-alert-analysts-see-big-upside-ahead-for-lumentum-as-trump-aims-to-restrict-chinese-data-center-components)
 
 ---
 
@@ -160,24 +178,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Tower Semiconductor (NASDAQ:TSEM) reported second-quarter 2026 results that surpassed Wall Street expectations and issued third-quarter revenue guidance that...
 - [原文連結](https://investorshub.advfn.com/market-news/article/33371/tower-semiconductor-beats-second-quarter-estimates-and-issues-strong-q3-revenue-outlook)
-
----
-
-### 🚀 華爾街痴迷這檔科技股的 1 個原因
-- **題材**: `光通訊與矽光子` | **重要性**: `65`
-- **來源**: 24/7 Wall St. (2026-08-04T13:30:36Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Marvell Technology 在一個月內下跌了近 21%，一位參與其中的分析師將這次拋售視為買入機會。原因是...
-- [原文連結](https://247wallst.com/investing/2026/08/04/1-reason-wall-street-is-obsessed-with-this-tech-stock/)
-
----
-
-### 🚀 雪佛龍在獲利井噴後發給員工特別獎金
-- **題材**: `總體風險` | **重要性**: `65`
-- **來源**: Yahoo Entertainment (2026-08-03T18:00:34Z)
-- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 休士頓，8 月 3 日（路透社）
-- [原文連結](https://finance.yahoo.com/energy/articles/chevron-awards-staff-special-bonus-180034093.html)
 
 ---
 
