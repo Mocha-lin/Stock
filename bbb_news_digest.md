@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-08T17:18:28.664830+00:00
+> 更新時間：2026-08-08T19:19:47.996623+00:00
 
 ### ⚠️ 美國光收發器禁令可能會減緩人工智慧資料中心的建設
 - **題材**: `光通訊與矽光子` | **重要性**: `88`
@@ -118,15 +118,6 @@
 
 ---
 
-### 🚀 LITE 股票提醒：分析師認為 Lumentum 前景廣闊，因為川普旨在限制中國資料中心組件
-- **題材**: `光通訊與矽光子` | **重要性**: `70`
-- **來源**: Barchart.com (2026-08-05T17:54:09Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 到 2026 年，Lumentum 股價已上漲約 130%，而強勁的獲利成長和 1,100 美元的分析師目標表明華爾街預計會有進一步上漲。
-- [原文連結](https://www.barchart.com/story/news/3670467/lite-stock-alert-analysts-see-big-upside-ahead-for-lumentum-as-trump-aims-to-restrict-chinese-data-center-components)
-
----
-
 ### ⚖️ GlobalFoundries 2Q分析2/2：美國補貼、台灣言論與格芯矽光子測試
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
 - **來源**: Digitimes (2026-08-06T07:23:45Z)
@@ -185,6 +176,15 @@
 - **摘要**: Grandpa Pudding Brains 根據最高法院稱未授權徵收關稅的法律徵收了 1,660 億美元的關稅。政府現已退還其中 1000 億美元，但退款並未到達那些支付更高價格的人手中。
 橙色威脅聲稱…
 - [原文連結](https://boingboing.net/2026/08/06/trumps-100-billion-tariff-refund-skips-the-people-who-paid-higher-prices.html)
+
+---
+
+### ⚠️ 川普政府支付了里程碑式的 1000 億美元關稅退款
+- **題材**: `總體風險` | **重要性**: `65`
+- **來源**: Abcnews.com (2026-08-05T20:18:17Z)
+- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 這是欠數千家美國企業所欠的 1,660 億美元的一半以上，這些企業支付了被最高法院駁回的關稅。
+- [原文連結](https://abcnews.com/Business/trump-administration-pays-milestone-100-billion-tariff-refunds/story?id=135399276)
 
 ---
 
