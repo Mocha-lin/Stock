@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-08T09:37:04.393077+00:00
+> 更新時間：2026-08-08T13:36:07.316685+00:00
 
 ### ⚠️ 美國光收發器禁令可能會減緩人工智慧資料中心的建設
 - **題材**: `光通訊與矽光子` | **重要性**: `88`
@@ -10,21 +10,21 @@
 
 ---
 
-### 🚀 儘管LMOC收入創紀錄，但美國對中國光模組的限制令台灣供應商蒙受陰影
-- **題材**: `光通訊與矽光子` | **重要性**: `83`
-- **來源**: Digitimes (2026-08-06T05:55:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 據報道，美國聯邦通訊委員會正在起草禁止進口中國新型光模組的規定，計劃於2026年公佈實施，引起市場密切關注。業內人士預計…
-- [原文連結](https://www.digitimes.com/news/a20260806PD219/fcc-lmoc-revenue-market-2026.html)
-
----
-
 ### ⚠️ 美國考慮對中國光模組實施禁令，人工智慧資料中心供應面臨風險
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
 - **來源**: Digitimes (2026-08-06T00:03:05Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 川普政府正準備將美國的技術限制擴大到人工智慧供應鏈的更深處，聯邦通訊委員會正在考慮禁止資料中心使用的新型中國製造的光收發器模型。
 - [原文連結](https://www.digitimes.com/news/a20260805VL215/data-ban-technology-infrastructure-equipment.html)
+
+---
+
+### 🚀 GlobalFoundries 完成 Synopsys 交易，推動第二季營收達到 $1.79B
+- **題材**: `光通訊與矽光子` | **重要性**: `80`
+- **來源**: Manufacturingdive.com (2026-08-07T10:00:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 收入超出指導範圍的高端，部分原因是通訊基礎設施和資料中心終端市場年增 60%…
+- [原文連結](https://www.manufacturingdive.com/news/globalfoundries-revenue-q2-AI-chips-Synopsys/827197/)
 
 ---
 
@@ -91,15 +91,6 @@
 
 ---
 
-### ⚖️ 馬斯克 (Elon Musk) 表示 SpaceX 將專門使用 Nvidia GPU，「因為它們是最好的」——優化後的 Vera Rubin NVL72 將於明年發射升空
-- **題材**: `AI伺服器` | **重要性**: `72`
-- **來源**: Tom's Hardware UK (2026-08-05T11:50:34Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Elon Musk 的 SpaceX 和 xAI 將獨家使用 Nvidia AI 加速器進行訓練和推理，因為該公司相信 Vera Rubin 是當今最好的 AI 運算架構。
-- [原文連結](https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musk-says-spacex-will-exclusively-use-nvidia-gpus-because-they-are-the-best-says-optimized-vera-rubin-nvl72-will-be-launched-into-space-next-year)
-
----
-
 ### ⚖️ 了解不同的人工智慧資料中心租賃價格和類別
 - **題材**: `AI伺服器` | **重要性**: `70`
 - **來源**: Next Big Future (2026-08-06T15:02:20Z)
@@ -163,6 +154,24 @@
 
 ---
 
+### ⚖️ 馬斯克 (Elon Musk) 表示 SpaceX 將專門使用 Nvidia GPU，「因為它們是最好的」——優化後的 Vera Rubin NVL72 將於明年發射升空
+- **題材**: `AI伺服器` | **重要性**: `67`
+- **來源**: Tom's Hardware UK (2026-08-05T11:50:34Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Elon Musk 的 SpaceX 和 xAI 將獨家使用 Nvidia AI 加速器進行訓練和推理，因為該公司相信 Vera Rubin 是當今最好的 AI 運算架構。
+- [原文連結](https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musk-says-spacex-will-exclusively-use-nvidia-gpus-because-they-are-the-best-says-optimized-vera-rubin-nvl72-will-be-launched-into-space-next-year)
+
+---
+
+### ⚖️ 任天堂剛剛從關稅退款中獲得了不錯的提振
+- **題材**: `總體風險` | **重要性**: `65`
+- **來源**: Business Insider (2026-08-07T12:05:31Z)
+- **AI 判讀**: 屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 任天堂的關稅退款是更廣泛的財報季趨勢的一部分。公司正在採取不同的方法來獲得意外之財。
+- [原文連結](https://www.businessinsider.com/us-tariff-refunds-nintendo-companies-earnings-season-boost-2026-8#article)
+
+---
+
 ### ⚠️ iPhone 18 Pro和可折疊iPhone可能因記憶體短缺而快速售空
 - **題材**: `半導體先進製程` | **重要性**: `65`
 - **來源**: MacRumors (2026-08-07T00:10:27Z)
@@ -175,16 +184,6 @@
 
 半导体分析师 Tim Culpan 表示，苹果在获得足够的 DRAM 方面遇到了困难……
 - [原文連結](https://www.macrumors.com/2026/08/06/iphone-18-pro-possible-shortages/)
-
----
-
-### ⚠️ 川普的1000億美元關稅退款跳過了支付更高價格的人
-- **題材**: `總體風險` | **重要性**: `65`
-- **來源**: Boing Boing (2026-08-06T16:55:15Z)
-- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Grandpa Pudding Brains 根據最高法院稱未授權徵收關稅的法律徵收了 1,660 億美元的關稅。政府現已退還其中 1000 億美元，但退款並未到達那些支付更高價格的人手中。
-橙色威脅聲稱…
-- [原文連結](https://boingboing.net/2026/08/06/trumps-100-billion-tariff-refund-skips-the-people-who-paid-higher-prices.html)
 
 ---
 
