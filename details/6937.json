@@ -1,7 +1,7 @@
 {
   "id": "6937",
   "name": "天虹",
-  "lastUpdated": "2026-08-07 16:09:12",
+  "lastUpdated": "2026-08-08 15:42:20",
   "basicInfo": {
     "price": "246.00",
     "change": "-16.50",
@@ -176,14 +176,14 @@
     "eps_table": [
       {
         "period": "2026Q2",
-        "gross_margin_pct": null,
-        "net_margin_pct": null,
-        "opm_pct": null,
+        "gross_margin_pct": 41.65310676111506,
+        "net_margin_pct": 17.44362953549262,
+        "opm_pct": 16.043885375763658,
         "eps": 1.58,
         "eps_ytd": 2.54,
-        "gross": null,
-        "net": null,
-        "opm": null
+        "gross": 41.65310676111506,
+        "net": 17.44362953549262,
+        "opm": 16.043885375763658
       },
       {
         "period": "2026Q1",
@@ -496,9 +496,9 @@
         "period": "2026Q2",
         "deadline": "2026-08-14",
         "price_basis": "asof往前3日(暫代)",
-        "avg_close_3d": 258.8333333333333,
+        "avg_close_3d": 256.1666666666667,
         "ttm_eps": 4.54,
-        "pe": 57.01174743024963
+        "pe": 56.42437591776799
       },
       {
         "period": "2026Q1",
@@ -559,7 +559,7 @@
     ],
     "capital_table": [
       {
-        "report_date": "2026-03-31",
+        "report_date": "2026-06-30",
         "capital_value_raw": 676553000.0,
         "par_value": 10,
         "shares_lots": 676553,
@@ -567,6 +567,14 @@
       }
     ],
     "chips_table": [
+      {
+        "date": "2026-08-07",
+        "foreign_lots": -148.195,
+        "it_lots": -17.0,
+        "dealer_lots": -31.186,
+        "sum_lots": -196.381,
+        "pct_float": -0.029026698573504223
+      },
       {
         "date": "2026-08-06",
         "foreign_lots": 17.975,
@@ -678,21 +686,13 @@
         "dealer_lots": 1.626,
         "sum_lots": 16.136,
         "pct_float": 0.002385031180114492
-      },
-      {
-        "date": "2026-07-17",
-        "foreign_lots": 55.25,
-        "it_lots": 0.0,
-        "dealer_lots": -47.956,
-        "sum_lots": 7.293999999999997,
-        "pct_float": 0.0010781121360780303
       }
     ],
     "returns_table": [
       {
         "year": 2026,
-        "return_pct": 5.349091034016595,
-        "period": "01/02~08/06"
+        "return_pct": -1.2728518309787384,
+        "period": "01/02~08/07"
       },
       {
         "year": 2025,
@@ -701,7 +701,7 @@
       },
       {
         "year": 2024,
-        "return_pct": 62.34619505357686,
+        "return_pct": 62.34619247234801,
         "period": "01/02~12/31"
       },
       {
@@ -715,7 +715,7 @@
       "dataset": "structure_c_score",
       "stock_id": "6937",
       "ticker": "6937.TW",
-      "asof": "2026-08-06",
+      "asof": "2026-08-07",
       "c_score": 2.2478289885449847,
       "benchmark_pe": 157.1423237753883,
       "source": [
@@ -3470,7 +3470,7 @@
         "high": 261.0,
         "low": 246.0,
         "close": 246.0,
-        "volume": 424201.0,
+        "volume": 407133.0,
         "adjclose": 246.0,
         "dividends": 0.0,
         "MA5": 256.2,
@@ -3482,7 +3482,7 @@
         "DIF": -5.684676572242211,
         "DEA": -4.887863522768983,
         "HIST": -1.593626098946455,
-        "volume_lot": 424.201
+        "volume_lot": 407.133
       }
     ]
   }

@@ -1,7 +1,7 @@
 {
   "id": "4971",
   "name": "IET-KY",
-  "lastUpdated": "2026-08-07 16:09:12",
+  "lastUpdated": "2026-08-08 15:42:20",
   "basicInfo": {
     "price": "460.50",
     "change": "-19.50",
@@ -785,6 +785,14 @@
     ],
     "chips_table": [
       {
+        "date": "2026-08-07",
+        "foreign_lots": -326.372,
+        "it_lots": 0.0,
+        "dealer_lots": -7.071,
+        "sum_lots": -333.44300000000004,
+        "pct_float": -0.08339056212596005
+      },
+      {
         "date": "2026-08-06",
         "foreign_lots": -469.816,
         "it_lots": 0.0,
@@ -895,14 +903,6 @@
         "dealer_lots": 0.478,
         "sum_lots": 102.38799999999999,
         "pct_float": 0.025606154200126546
-      },
-      {
-        "date": "2026-07-17",
-        "foreign_lots": 139.089,
-        "it_lots": 0.0,
-        "dealer_lots": -1.179,
-        "sum_lots": 137.91,
-        "pct_float": 0.03448983011426585
       }
     ],
     "c_score_data": {
@@ -910,7 +910,7 @@
       "dataset": "structure_c_score",
       "stock_id": "4971",
       "ticker": "4971.TWO",
-      "asof": "2026-08-06",
+      "asof": "2026-08-07",
       "c_score": 14.138371872083756,
       "benchmark_pe": 64.0590658554664,
       "source": [
@@ -1197,8 +1197,8 @@
     "returns_table": [
       {
         "year": 2026,
-        "return_pct": 54.66686910472098,
-        "period": "01/02~08/06"
+        "return_pct": 48.3835275473417,
+        "period": "01/02~08/07"
       },
       {
         "year": 2025,
@@ -1217,7 +1217,7 @@
       },
       {
         "year": 2022,
-        "return_pct": -23.496350466300385,
+        "return_pct": -23.496359317231274,
         "period": "01/03~12/30"
       }
     ],
@@ -3728,7 +3728,7 @@
         "high": 499.0,
         "low": 450.0,
         "close": 460.5,
-        "volume": 2867616.0,
+        "volume": 2800303.0,
         "adjclose": 460.5,
         "dividends": 0.0,
         "MA5": 440.9,
@@ -3740,7 +3740,7 @@
         "DIF": -13.553033053916522,
         "DEA": -30.698528182302205,
         "HIST": 34.290990256771366,
-        "volume_lot": 2867.616
+        "volume_lot": 2800.303
       }
     ],
     "valuation": {
