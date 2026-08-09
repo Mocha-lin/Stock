@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-08-09T04:16:15.605192+00:00",
+  "generated_at": "2026-08-09T05:28:20.465331+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 71,
@@ -158,44 +158,6 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
-      "id": "463dee4ce1b0712b",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "由於人工智慧封裝瓶頸仍然存在，台積電轉向 OSAT 以獲得更多 CoW 產能",
-      "summary": "根據 ETNews 報導，台積電 (TSMC) 正在擴大將其 CoWoS 先進封裝的晶圓晶片 (CoW) 階段外包給外包半導體組裝和測試 (OSAT) 提供商，其中引用了半導體行業的消息。",
-      "original_title": "TSMC turns to OSATs for more CoW capacity as AI packaging bottleneck persists",
-      "url": "https://www.digitimes.com/news/a20260806VL218/tsmc-cowos-outsourcing-osat-packaging-capacity-taiwan.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-08-06T04:18:57Z",
-      "importance": 78,
-      "impact": "neutral",
-      "timeframe": "short_to_mid_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
       "id": "ba4221289b6349e6",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -343,6 +305,44 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
+      "id": "463dee4ce1b0712b",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "由於人工智慧封裝瓶頸仍然存在，台積電轉向 OSAT 以獲得更多 CoW 產能",
+      "summary": "根據 ETNews 報導，台積電 (TSMC) 正在擴大將其 CoWoS 先進封裝的晶圓晶片 (CoW) 階段外包給外包半導體組裝和測試 (OSAT) 提供商，其中引用了半導體行業的消息。",
+      "original_title": "TSMC turns to OSATs for more CoW capacity as AI packaging bottleneck persists",
+      "url": "https://www.digitimes.com/news/a20260806VL218/tsmc-cowos-outsourcing-osat-packaging-capacity-taiwan.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-08-06T04:18:57Z",
+      "importance": 73,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "3758f2e1bb40fa64",
@@ -1666,41 +1666,6 @@
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "dd0aa539b5271a69",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "傑米戴蒙表示，一種市場風險可能會放大市場波動",
-      "summary": "在韓國最近的市場動盪和形勢意識放鬆之後，槓桿率受到了新的審查。",
-      "original_title": "Jamie Dimon says one market risk could amplify market swings",
-      "url": "https://www.businessinsider.com/jp-morgan-jamie-dimon-leverage-market-risks-kospi-situational-awareness-2026-8#article",
-      "source": "Business Insider",
-      "domain": "businessinsider.com",
-      "published_at": "2026-08-06T05:00:11Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "db8a25332c57ab6c",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2149,6 +2114,41 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "dd0aa539b5271a69",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "傑米戴蒙表示，一種市場風險可能會放大市場波動",
+      "summary": "在韓國最近的市場動盪和形勢意識放鬆之後，槓桿率受到了新的審查。",
+      "original_title": "Jamie Dimon says one market risk could amplify market swings",
+      "url": "https://www.businessinsider.com/jp-morgan-jamie-dimon-leverage-market-risks-kospi-situational-awareness-2026-8#article",
+      "source": "Business Insider",
+      "domain": "businessinsider.com",
+      "published_at": "2026-08-06T05:00:11Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "cbf03b824ae559ac",
