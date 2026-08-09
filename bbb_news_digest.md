@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-09T13:39:12.234784+00:00
+> 更新時間：2026-08-09T15:18:37.861082+00:00
 
 ### ⚠️ 美國光收發器禁令可能會減緩人工智慧資料中心的建設
 - **題材**: `光通訊與矽光子` | **重要性**: `88`
@@ -61,24 +61,6 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 根據 ETNews 報導，台積電 (TSMC) 正在擴大將其 CoWoS 先進封裝的晶圓晶片 (CoW) 階段外包給外包半導體組裝和測試 (OSAT) 提供商，其中引用了半導體行業的消息。
 - [原文連結](https://www.digitimes.com/news/a20260806VL218/tsmc-cowos-outsourcing-osat-packaging-capacity-taiwan.html)
-
----
-
-### ⚖️ 了解不同的人工智慧資料中心租賃價格和類別
-- **題材**: `AI伺服器` | **重要性**: `70`
-- **來源**: Next Big Future (2026-08-06T15:02:20Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: xAI/SpaceX Colossus 和類似的優質、立即可用的 AI 集群的每吉瓦 500 億美元的高租賃費是因為缺乏即用型、大規模相干 GPU 容量。凱文·帕拉斯關於陰謀的說法是錯誤的。他正在與不同的人進行比較…
-- [原文連結](https://www.nextbigfuture.com/2026/08/understanding-different-ai-data-center-leasing-prices-and-categories.html)
-
----
-
-### 🚀 親愛的應用材料公司股票粉絲，請在您的日曆上標記 8 月 13 日
-- **題材**: `半導體先進製程` | **重要性**: `70`
-- **來源**: Barchart.com (2026-08-06T13:49:30Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 應用材料公司在 8 月 13 日發布的收益報告中，隨著人工智慧驅動的記憶體、邏輯和先進封裝需求推動成長，人們的預期不斷飆升…
-- [原文連結](https://www.barchart.com/story/news/3693835/dear-applied-materials-stock-fans-mark-your-calendars-for-august-13)
 
 ---
 
@@ -149,6 +131,24 @@
 - **摘要**: Grandpa Pudding Brains 根據最高法院稱未授權徵收關稅的法律徵收了 1,660 億美元的關稅。政府現已退還其中 1000 億美元，但退款並未到達那些支付更高價格的人手中。
 橙色威脅聲稱…
 - [原文連結](https://boingboing.net/2026/08/06/trumps-100-billion-tariff-refund-skips-the-people-who-paid-higher-prices.html)
+
+---
+
+### ⚖️ 了解不同的人工智慧資料中心租賃價格和類別
+- **題材**: `AI伺服器` | **重要性**: `65`
+- **來源**: Next Big Future (2026-08-06T15:02:20Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: xAI/SpaceX Colossus 和類似的優質、立即可用的 AI 集群的每吉瓦 500 億美元的高租賃費是因為缺乏即用型、大規模相干 GPU 容量。凱文·帕拉斯關於陰謀的說法是錯誤的。他正在與不同的人進行比較…
+- [原文連結](https://www.nextbigfuture.com/2026/08/understanding-different-ai-data-center-leasing-prices-and-categories.html)
+
+---
+
+### 🚀 親愛的應用材料公司股票粉絲，請在您的日曆上標記 8 月 13 日
+- **題材**: `半導體先進製程` | **重要性**: `65`
+- **來源**: Barchart.com (2026-08-06T13:49:30Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 應用材料公司在 8 月 13 日發布的收益報告中，隨著人工智慧驅動的記憶體、邏輯和先進封裝需求推動成長，人們的預期不斷飆升…
+- [原文連結](https://www.barchart.com/story/news/3693835/dear-applied-materials-stock-fans-mark-your-calendars-for-august-13)
 
 ---
 
