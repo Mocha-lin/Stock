@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-08T23:27:51.759658+00:00
+> 更新時間：2026-08-09T02:58:05.843454+00:00
 
 ### ⚠️ 美國光收發器禁令可能會減緩人工智慧資料中心的建設
 - **題材**: `光通訊與矽光子` | **重要性**: `88`
@@ -7,15 +7,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏空消息。【重大事件】可能顯著影響產業評價、EPS預期或資金流向。
 - **摘要**: 美國提議禁止新型中國光收發器，這可能會在西方供應商有足夠的能力取代中國生產之前擾亂人工智慧資料中心的建設，從而增加成本上升、叢集部署延遲和 GPU 擱淺的風險。
 - [原文連結](https://www.digitimes.com/news/a20260807VL210/optical-components-transceiver-module-production-usa-ban-china.html)
-
----
-
-### ⚠️ 美國考慮對中國光模組實施禁令，人工智慧資料中心供應面臨風險
-- **題材**: `光通訊與矽光子` | **重要性**: `83`
-- **來源**: Digitimes (2026-08-06T00:03:05Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 川普政府正準備將美國的技術限制擴大到人工智慧供應鏈的更深處，聯邦通訊委員會正在考慮禁止資料中心使用的新型中國製造的光收發器模型。
-- [原文連結](https://www.digitimes.com/news/a20260805VL215/data-ban-technology-infrastructure-equipment.html)
 
 ---
 
@@ -52,6 +43,15 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 根據 ETNews 報導，台積電 (TSMC) 正在擴大將其 CoWoS 先進封裝的晶圓晶片 (CoW) 階段外包給外包半導體組裝和測試 (OSAT) 提供商，其中引用了半導體行業的消息。
 - [原文連結](https://www.digitimes.com/news/a20260806VL218/tsmc-cowos-outsourcing-osat-packaging-capacity-taiwan.html)
+
+---
+
+### ⚠️ 美國考慮對中國光模組實施禁令，人工智慧資料中心供應面臨風險
+- **題材**: `光通訊與矽光子` | **重要性**: `78`
+- **來源**: Digitimes (2026-08-06T00:03:05Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 川普政府正準備將美國的技術限制擴大到人工智慧供應鏈的更深處，聯邦通訊委員會正在考慮禁止資料中心使用的新型中國製造的光收發器模型。
+- [原文連結](https://www.digitimes.com/news/a20260805VL215/data-ban-technology-infrastructure-equipment.html)
 
 ---
 
@@ -118,12 +118,12 @@
 
 ---
 
-### ⚖️ 訪談：Ayar Labs 執行長預計 2028 年至 2029 年原棕油規模化產量將上升
-- **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-08-06T00:00:01Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: The 2026 Open Compute Project (OCP) APAC Summit will be held in Taipei on August 11-12, bringing together global cloud service providers (CSPs), semiconductor firms, silicon photonics (SiPh) players, system makers and many Taiwanese suppliers to share the lat…
-- [原文連結](https://www.digitimes.com/news/a20260805PD219/cpo-2026-ceo-apac-manufacturing.html)
+### 🚀 SK海力士失去市場份額，DRAM價格飆升提振三星和美光
+- **題材**: `HBM記憶體` | **重要性**: `68`
+- **來源**: Digitimes (2026-08-06T00:00:42Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 與 SK 海力士相比，三星電子和美光科技從傳統 DRAM 和 NAND 價格上漲中受益更大，儘管 SK 海力士在高頻寬記憶體 (HBM) 領域處於領先地位，但其傳統 DRAM 業務的擴張速度放緩。
+- [原文連結](https://www.digitimes.com/news/a20260805PD224/dram-samsung-micron-price-sk-hynix.html)
 
 ---
 
@@ -179,12 +179,12 @@
 
 ---
 
-### 🚀 市場飆升至歷史新高
-- **題材**: `總體風險` | **重要性**: `65`
-- **來源**: Yahoo Entertainment (2026-08-04T23:36:32Z)
-- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 在企業獲利和油價下跌的推動下，道瓊斯指數和標準普爾指數收在創紀錄水準。 NBC News’ Allie Canal explains.
-- [原文連結](https://www.yahoo.com/news/videos/markets-surge-record-highs-233632229.html)
+### 🚀 TSMC’s 2nm monthly capacity to reach 100,000 wafers
+- **題材**: `半導體先進製程` | **重要性**: `65`
+- **來源**: TechNode (2026-08-05T05:55:28Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 隨著AI客戶越來越多地轉向更先進的3奈米和2奈米製程技術，以追求更高的性能和更低的功耗，需求的激增促使全球最大的半導體代工廠調整產能計畫。
+- [原文連結](https://technode.com/2026/08/05/tsmcs-2nm-monthly-capacity-to-reach-100000-wafers/)
 
 ---
 
