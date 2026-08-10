@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-10T15:45:51.233940+00:00
+> 更新時間：2026-08-10T17:40:52.528210+00:00
 
 ### ⚠️ 美國光收發器禁令可能會減緩人工智慧資料中心的建設
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -154,15 +154,6 @@
 
 ---
 
-### 🚀 收購英特爾而不是台積電並不像看起來那麼瘋狂
-- **題材**: `半導體先進製程` | **重要性**: `65`
-- **來源**: 24/7 Wall St. (2026-08-03T16:06:51Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 台積電在每項傳統指標上都佔據主導地位，但一個被忽視的結構性因素正在悄悄使其鬥志旺盛的競爭對手成為未來 24 年更具吸引力的賭注…
-- [原文連結](https://247wallst.com/investing/2026/08/03/buying-intel-over-tsmc-isnt-as-crazy-as-it-might-seem/)
-
----
-
 ### ⚖️ GlobalFoundries 2Q分析2/2：美國補貼、台灣言論與格芯矽光子測試
 - **題材**: `光通訊與矽光子` | **重要性**: `63`
 - **來源**: Digitimes (2026-08-06T07:23:45Z)
@@ -178,6 +169,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: The 2026 Open Compute Project (OCP) APAC Summit will be held in Taipei on August 11-12, bringing together global cloud service providers (CSPs), semiconductor firms, silicon photonics (SiPh) players, system makers and many Taiwanese suppliers to share the lat…
 - [原文連結](https://www.digitimes.com/news/a20260805PD219/cpo-2026-ceo-apac-manufacturing.html)
+
+---
+
+### ⚖️ Caviar 剛剛透露了 iPhone Ultra 和 iPhone 18 Pro 的設計、規格和發布日期嗎？
+- **題材**: `半導體先進製程` | **重要性**: `60`
+- **來源**: GSMArena.com (2026-08-08T23:31:02Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Caviar 在未宣布的客製化硬體上開始預訂的情況並不罕見。這在過去曾發生過。然而，即使對這家俄羅斯公司來說，這次的佈局方式也顯得有些大膽。它已經將其定制設計列為 b...
+- [原文連結](https://www.gsmarena.com/did_caviar_just_spill_the_beans_on_the_iphone_ultra_and_the_iphone_18_pro_design_specs_and_release_d-news-74082.php)
 
 ---
 
