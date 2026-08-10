@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-10T10:15:42.136766+00:00
+> 更新時間：2026-08-10T14:09:31.668152+00:00
 
 ### ⚠️ 美國光收發器禁令可能會減緩人工智慧資料中心的建設
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -100,15 +100,6 @@
 
 ---
 
-### ⚖️ 任天堂剛剛從關稅退款中獲得了不錯的提振
-- **題材**: `總體風險` | **重要性**: `65`
-- **來源**: Business Insider (2026-08-07T12:05:31Z)
-- **AI 判讀**: 屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 任天堂的關稅退款是更廣泛的財報季趨勢的一部分。公司正在採取不同的方法來獲得意外之財。
-- [原文連結](https://www.businessinsider.com/us-tariff-refunds-nintendo-companies-earnings-season-boost-2026-8#article)
-
----
-
 ### ⚖️ 了解不同的人工智慧資料中心租賃價格和類別
 - **題材**: `AI伺服器` | **重要性**: `65`
 - **來源**: Next Big Future (2026-08-06T15:02:20Z)
@@ -178,6 +169,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: GlobalFoundries (GF) 经常将自己视为美国半导体主权的重要支柱。這種說法部分正確，但需要限定。
 - [原文連結](https://www.digitimes.com/news/a20260806VL208/globalfoundries-photonics-silicon-taiwan-subsidies.html)
+
+---
+
+### ⚖️ 訪談：Ayar Labs 執行長預計 2028 年至 2029 年原棕油規模化產量將上升
+- **題材**: `光通訊與矽光子` | **重要性**: `63`
+- **來源**: Digitimes (2026-08-06T00:00:01Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: The 2026 Open Compute Project (OCP) APAC Summit will be held in Taipei on August 11-12, bringing together global cloud service providers (CSPs), semiconductor firms, silicon photonics (SiPh) players, system makers and many Taiwanese suppliers to share the lat…
+- [原文連結](https://www.digitimes.com/news/a20260805PD219/cpo-2026-ceo-apac-manufacturing.html)
 
 ---
 
