@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-11T19:51:48.793596+00:00
+> 更新時間：2026-08-11T23:39:29.351080+00:00
 
 ### ⚠️ 美國光收發器禁令可能會減緩人工智慧資料中心的建設
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -43,6 +43,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: AMD 和 Marvell 的獲利都大幅下滑，而年初至今的回報率則落後於 NVIDIA 和 Broadcom，但他們搶佔 AI 基礎設施的策略...
 - [原文連結](https://247wallst.com/investing/2026/08/06/high-beta-runners-up-why-amd-and-marvell-technology-now-command-attention/)
+
+---
+
+### ⚖️ 台積電子公司 VisEra 透過 1.6T 矽光子擴展 AI 光學
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-08-10T22:52:30Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 台積電旗下光元件供應商 VisEra 正在向 AI 光互連和矽光子領域拓展，其用於 800G 可插拔收發器的 MicroLens 產品已投入量產，其下一代 PIC 薄膜製程...
+- [原文連結](https://www.digitimes.com/news/a20260810PD234/visera-photonics-silicon-optics-production.html)
 
 ---
 
@@ -176,15 +185,6 @@
 - **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 作者：Lewis Krauskopf 紐約，8 月 5 日（路透社）
 - [原文連結](https://finance.yahoo.com/markets/stocks/articles/analysis-us-stock-market-could-163115710.html)
-
----
-
-### 🚀 市場飆升至歷史新高
-- **題材**: `總體風險` | **重要性**: `65`
-- **來源**: Yahoo Entertainment (2026-08-04T23:36:32Z)
-- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 在企業獲利和油價下跌的推動下，道瓊斯指數和標準普爾指數收在創紀錄水準。 NBC News’ Allie Canal explains.
-- [原文連結](https://www.yahoo.com/news/videos/markets-surge-record-highs-233632229.html)
 
 ---
 
