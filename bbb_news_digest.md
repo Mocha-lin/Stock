@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-11T17:45:22.269400+00:00
+> 更新時間：2026-08-11T19:51:48.793596+00:00
 
 ### ⚠️ 美國光收發器禁令可能會減緩人工智慧資料中心的建設
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -64,6 +64,30 @@
 
 ---
 
+### ⚠️ 蘋果因記憶體短缺削減 2026 年硬體出貨量
+- **題材**: `半導體先進製程` | **重要性**: `70`
+- **來源**: MacRumors (2026-08-10T18:38:55Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 蘋果分析師郭明池今天表示，由於 DRAM 短缺，蘋果正在縮減 2026 年的硬體出貨計畫。
+
+
+
+
+
+郭在一篇較長的文章中對最近的一份報告發表了評論，該報告暗示台積電有價值 10 億美元的未封裝處理器在等著我…
+- [原文連結](https://www.macrumors.com/2026/08/10/apple-cutting-2026-hardware-shipments/)
+
+---
+
+### 🚀 蘋果可能會廢棄其全玻璃 iPhone。自從史蒂夫賈伯斯去世以來，華爾街從未如此驚慌
+- **題材**: `HBM記憶體` | **重要性**: `70`
+- **來源**: Yahoo Entertainment (2026-08-10T18:19:42Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 投資公司 Jefferies 週一將蘋果的評級從持有下調至表現不佳，並將目標股價從 285.56 美元下調至 263.66 美元。
+- [原文連結](https://finance.yahoo.com/markets/stocks/articles/apple-may-scrap-glass-iphone-181942240.html)
+
+---
+
 ### 🚀 人工智慧內存熱潮尚未結束。投資者只是按原樣定價
 - **題材**: `HBM記憶體` | **重要性**: `70`
 - **來源**: 24/7 Wall St. (2026-08-06T13:35:58Z)
@@ -97,6 +121,16 @@
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Elon Musk 的 SpaceX 和 xAI 將獨家使用 Nvidia AI 加速器進行訓練和推理，因為該公司相信 Vera Rubin 是當今最好的 AI 運算架構。
 - [原文連結](https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musk-says-spacex-will-exclusively-use-nvidia-gpus-because-they-are-the-best-says-optimized-vera-rubin-nvl72-will-be-launched-into-space-next-year)
+
+---
+
+### ⚖️ 索尼和台積電正斥資數十億美元製造下一代影像感測器
+- **題材**: `半導體先進製程` | **重要性**: `65`
+- **來源**: PetaPixel (2026-08-10T19:38:53Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 根據《日經亞洲》報道，索尼集團和晶片巨頭台積電 (TSMC) 計劃最早於 2029 年在日本西南部開始大規模生產下一代影像感測器。
+[閱讀更多]
+- [原文連結](https://petapixel.com/2026/08/10/sony-and-tsmc-are-spending-billions-to-make-next-gen-image-sensors/)
 
 ---
 
@@ -151,33 +185,6 @@
 - **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 在企業獲利和油價下跌的推動下，道瓊斯指數和標準普爾指數收在創紀錄水準。 NBC News’ Allie Canal explains.
 - [原文連結](https://www.yahoo.com/news/videos/markets-surge-record-highs-233632229.html)
-
----
-
-### ⚖️ GlobalFoundries 2Q分析2/2：美國補貼、台灣言論與格芯矽光子測試
-- **題材**: `光通訊與矽光子` | **重要性**: `63`
-- **來源**: Digitimes (2026-08-06T07:23:45Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: GlobalFoundries (GF) 经常将自己视为美国半导体主权的重要支柱。這種說法部分正確，但需要限定。
-- [原文連結](https://www.digitimes.com/news/a20260806VL208/globalfoundries-photonics-silicon-taiwan-subsidies.html)
-
----
-
-### ⚖️ 訪談：Ayar Labs 執行長預計 2028 年至 2029 年原棕油規模化產量將上升
-- **題材**: `光通訊與矽光子` | **重要性**: `63`
-- **來源**: Digitimes (2026-08-06T00:00:01Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: The 2026 Open Compute Project (OCP) APAC Summit will be held in Taipei on August 11-12, bringing together global cloud service providers (CSPs), semiconductor firms, silicon photonics (SiPh) players, system makers and many Taiwanese suppliers to share the lat…
-- [原文連結](https://www.digitimes.com/news/a20260805PD219/cpo-2026-ceo-apac-manufacturing.html)
-
----
-
-### ⚖️ 蘋果向SK海力士和三星電子施壓適得其反
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: iLounge (2026-08-10T15:46:26Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 蘋果試圖利用中國記憶體製造商長鑫儲存來對抗 SK 海力士和三星電子，但似乎適得其反，導致定價更高。蘋果正在尋找 LPDDR5X 的報價，但被拒絕了，而且價格保持在…
-- [原文連結](https://www.ilounge.com/news/apple/apple-move-to-pressure-sk-hynix-and-samsung-electronics-backfires)
 
 ---
 
