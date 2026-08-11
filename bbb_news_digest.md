@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-11T05:32:47.777071+00:00
+> 更新時間：2026-08-11T10:00:10.712160+00:00
 
 ### ⚠️ 美國光收發器禁令可能會減緩人工智慧資料中心的建設
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -91,15 +91,6 @@
 
 ---
 
-### 🚀 SK海力士失去市場份額，DRAM價格飆升提振三星和美光
-- **題材**: `HBM記憶體` | **重要性**: `68`
-- **來源**: Digitimes (2026-08-06T00:00:42Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 與 SK 海力士相比，三星電子和美光科技從傳統 DRAM 和 NAND 價格上漲中受益更大，儘管 SK 海力士在高頻寬記憶體 (HBM) 領域處於領先地位，但其傳統 DRAM 業務的擴張速度放緩。
-- [原文連結](https://www.digitimes.com/news/a20260805PD224/dram-samsung-micron-price-sk-hynix.html)
-
----
-
 ### ⚖️ 馬斯克 (Elon Musk) 表示 SpaceX 將專門使用 Nvidia GPU，「因為它們是最好的」——優化後的 Vera Rubin NVL72 將於明年發射升空
 - **題材**: `AI伺服器` | **重要性**: `67`
 - **來源**: Tom's Hardware UK (2026-08-05T11:50:34Z)
@@ -178,6 +169,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: GlobalFoundries (GF) 经常将自己视为美国半导体主权的重要支柱。這種說法部分正確，但需要限定。
 - [原文連結](https://www.digitimes.com/news/a20260806VL208/globalfoundries-photonics-silicon-taiwan-subsidies.html)
+
+---
+
+### ⚖️ 訪談：Ayar Labs 執行長預計 2028 年至 2029 年原棕油規模化產量將上升
+- **題材**: `光通訊與矽光子` | **重要性**: `63`
+- **來源**: Digitimes (2026-08-06T00:00:01Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: The 2026 Open Compute Project (OCP) APAC Summit will be held in Taipei on August 11-12, bringing together global cloud service providers (CSPs), semiconductor firms, silicon photonics (SiPh) players, system makers and many Taiwanese suppliers to share the lat…
+- [原文連結](https://www.digitimes.com/news/a20260805PD219/cpo-2026-ceo-apac-manufacturing.html)
 
 ---
 

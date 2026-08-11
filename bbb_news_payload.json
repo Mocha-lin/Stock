@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-08-11T05:32:47.777071+00:00",
+  "generated_at": "2026-08-11T10:00:10.712160+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 70,
@@ -383,41 +383,6 @@
       "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "04654e6b6dc25163",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "SK海力士失去市場份額，DRAM價格飆升提振三星和美光",
-      "summary": "與 SK 海力士相比，三星電子和美光科技從傳統 DRAM 和 NAND 價格上漲中受益更大，儘管 SK 海力士在高頻寬記憶體 (HBM) 領域處於領先地位，但其傳統 DRAM 業務的擴張速度放緩。",
-      "original_title": "DRAM price surge lifts Samsung and Micron as SK Hynix loses share",
-      "url": "https://www.digitimes.com/news/a20260805PD224/dram-samsung-micron-price-sk-hynix.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-08-06T00:00:42Z",
-      "importance": 68,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "758123ea1f8ccddc",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -798,6 +763,114 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "8cdce71099f2670e",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "早晨新聞簡報",
+      "summary": "伊朗旨在在與阿曼的談判中向川普施壓，勞工部發布新的通貨膨脹報告，新報告揭露了與愛潑斯坦有關的藝術學校數十年的虐待行為。",
+      "original_title": "Morning news brief",
+      "url": "https://www.npr.org/2026/08/10/nx-s1-5921277/morning-news-brief",
+      "source": "NPR",
+      "domain": "npr.org",
+      "published_at": "2026-08-10T08:41:46Z",
+      "importance": 60,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "be72e2ca1e0dd700",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "三星在旗艦人工智慧記憶體晶片生產上跨越了重要里程碑",
+      "summary": "三星迄今為止最先進的人工智慧伺服器記憶體晶片 HBM4 已於今年稍早開始出貨。現在，在這些晶片開始大規模生產僅幾個月後，這家韓國公司就跨越了生產的一個重要里程碑。三星HBM4產品…",
+      "original_title": "Samsung crosses major milestone in flagship AI memory chip production",
+      "url": "https://www.sammobile.com/news/samsung-hbm4-production-yield-crossed-major-milestone/",
+      "source": "SamMobile",
+      "domain": "sammobile.com",
+      "published_at": "2026-08-10T06:48:02Z",
+      "importance": 60,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "1ff0231dac5f223b",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "韓國李明博希望在 2028 年中期之前搬遷軍事空軍基地以安裝晶片集群",
+      "summary": "SEOUL, Aug 10 (Reuters) - South Korean President Lee Jae Myung on Monday urged the Defence Ministry to relocate a military airbase in Gwangju city by mid-202...",
+      "original_title": "South Korea's Lee wants military airbase relocated by mid-2028 for chip cluster",
+      "url": "https://www.yahoo.com/news/articles/south-koreas-lee-wants-military-061609709.html",
+      "source": "Yahoo Entertainment",
+      "domain": "yahoo.com",
+      "published_at": "2026-08-10T06:16:09Z",
+      "importance": 60,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "46eef54d4ac9cb8e",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -869,44 +942,6 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "acd7f68286a5735f",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "With broad bipartisan support, Congress is about to give Trump ‘unchecked authority’ to impose new tariffs of up to 100% on top trading partners",
-      "summary": "\"We should not have to choose between putting a check on Putin's aggression and putting a check on this president's tariffs regime.\"",
-      "original_title": "With broad bipartisan support, Congress is about to give Trump ‘unchecked authority’ to impose new tariffs of up to 100% on top trading partners",
-      "url": "https://www.yahoo.com/news/politics/articles/broad-bipartisan-support-congress-trump-172327694.html",
-      "source": "Yahoo Entertainment",
-      "domain": "yahoo.com",
-      "published_at": "2026-08-08T17:23:27Z",
-      "importance": 60,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "47bed999b7bc896f",
@@ -1289,17 +1324,17 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "3eaf55b1ff0b4f79",
+      "id": "af9ce717ee1c321f",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "半導體先進製程",
-      "title": "Apple M 系列 MacBook 中的數字有何意義？",
-      "summary": "苹果公司向英特尔告别，转向自主研发的 M 系列芯片已经有一段时间了。晶片名稱中的數字表示其代次。",
-      "original_title": "What Does The Number In Apple's M-Series MacBooks Mean?",
-      "url": "https://www.bgr.com/2229044/what-m-series-means-macbook-air/",
-      "source": "BGR",
-      "domain": "bgr.com",
-      "published_at": "2026-08-09T17:17:00Z",
+      "title": "隨著裁員的增加，我持 F-1 簽證在亞馬遜工作。這就是我離開一家半導體公司的原因。",
+      "summary": "亞馬遜的一名工程師在權衡了大型科技公司的裁員、他的簽證狀況和長期職業發展後，解釋了他為何離開半導體產業。",
+      "original_title": "I worked at Amazon on an F-1 visa as layoffs mounted. Here's why I left for a semiconductor company.",
+      "url": "https://www.businessinsider.com/why-amazon-software-engineer-visa-left-tech-job-semiconductor-industry-2026-8#article",
+      "source": "Business Insider",
+      "domain": "businessinsider.com",
+      "published_at": "2026-08-10T09:15:01Z",
       "importance": 55,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -2414,41 +2449,6 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "cbf03b824ae559ac",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "為什麼 Cantor Fitzgerald 押注 SK 海力士股價會飆升至 300 美元",
-      "summary": "蓬勃發展的 AI 記憶體市場和 300 美元的市場高價目標讓 SK 海力士牢牢成為眾人矚目的焦點。",
-      "original_title": "Why Cantor Fitzgerald Is Betting SK Hynix Stock Can Soar to $300",
-      "url": "https://www.barchart.com/story/news/3671327/why-cantor-fitzgerald-is-betting-sk-hynix-stock-can-soar-to-300",
-      "source": "Barchart.com",
-      "domain": "barchart.com",
-      "published_at": "2026-08-05T18:40:35Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "d11dd27cbe7387ef",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2603,7 +2603,7 @@
       "source": "Business Insider",
       "domain": "businessinsider.com",
       "published_at": "2026-08-04T09:15:08Z",
-      "importance": 50,
+      "importance": 45,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -2624,7 +2624,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「HBM記憶體」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     }
   ]
 }
