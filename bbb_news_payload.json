@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-08-11T15:45:22.951928+00:00",
+  "generated_at": "2026-08-11T17:45:22.269400+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 72,
@@ -421,6 +421,44 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "2b1cad33cd096aa1",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "即將推出的可折疊 iPhone 和 iPhone 18 Pro 型號可能很快就會售空",
+      "summary": "據傳即將推出的可折疊 iPhone、iPhone 18 Pro Max 和 iPhone 18 Pro 在 2026 年將出現供應短缺，預訂單將面臨初期售空和延遲交付的情況。據傳蘋果正在努力確保足夠的 DRAM 來完成…的生產。",
+      "original_title": "Upcoming foldable iPhone and iPhone 18 Pro Models Might Sell Out Quickly",
+      "url": "https://www.ilounge.com/news/iphone/upcoming-foldable-iphone-and-iphone-18-pro-models-might-sell-out-quickly",
+      "source": "iLounge",
+      "domain": "ilounge.com",
+      "published_at": "2026-08-10T15:52:51Z",
+      "importance": 65,
+      "impact": "negative",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "3758f2e1bb40fa64",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -457,44 +495,6 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "6517934b07ebb323",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "親愛的應用材料公司股票粉絲，請在您的日曆上標記 8 月 13 日",
-      "summary": "應用材料公司在 8 月 13 日發布的收益報告中，隨著人工智慧驅動的記憶體、邏輯和先進封裝需求推動成長，人們的預期不斷飆升…",
-      "original_title": "Dear Applied Materials Stock Fans, Mark Your Calendars for August 13",
-      "url": "https://www.barchart.com/story/news/3693835/dear-applied-materials-stock-fans-mark-your-calendars-for-august-13",
-      "source": "Barchart.com",
-      "domain": "barchart.com",
-      "published_at": "2026-08-06T13:49:30Z",
-      "importance": 65,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "0a529ffd7ec240de",
@@ -725,6 +725,41 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "82d6005f5048ba3f",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "蘋果向SK海力士和三星電子施壓適得其反",
+      "summary": "蘋果試圖利用中國記憶體製造商長鑫儲存來對抗 SK 海力士和三星電子，但似乎適得其反，導致定價更高。蘋果正在尋找 LPDDR5X 的報價，但被拒絕了，而且價格保持在…",
+      "original_title": "Apple Move To Pressure SK Hynix and Samsung Electronics Backfires",
+      "url": "https://www.ilounge.com/news/apple/apple-move-to-pressure-sk-hynix-and-samsung-electronics-backfires",
+      "source": "iLounge",
+      "domain": "ilounge.com",
+      "published_at": "2026-08-10T15:46:26Z",
+      "importance": 60,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "31bbda4843ef37d1",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -885,41 +920,6 @@
       "source": "Yahoo Entertainment",
       "domain": "yahoo.com",
       "published_at": "2026-08-10T06:16:09Z",
-      "importance": 60,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "46eef54d4ac9cb8e",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "SK 海力士 380 億美元的擴建項目有一個名字：Nvidia",
-      "summary": "今年出貨的每一款高階 NvidiaAI 晶片都與其他公司的製造賭注捆綁在一起。堆疊記憶體纏繞在每個處理器周圍，...",
-      "original_title": "SK Hynix’s $38 billion buildout has a name attached: Nvidia",
-      "url": "https://www.thestreet.com/technology/sk-hynix-38-billion-nvidia-expansion",
-      "source": "TheStreet",
-      "domain": "thestreet.com",
-      "published_at": "2026-08-09T13:33:00Z",
       "importance": 60,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -1286,6 +1286,82 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "7b29b31ff8c86671",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "你應該等待 Google Pixel 11 嗎？這是你應該考慮的一切以及我將如何花錢",
+      "summary": "谷歌正準備推出新的 Pixel 11 手機，但 Pixel 10 不會很快消失。您應該等待新型號還是立即購買？",
+      "original_title": "Should you wait for the Google Pixel 11? Here's everything you should consider and how I'd spend my money",
+      "url": "https://www.androidcentral.com/phones/google-pixel/should-you-wait-for-google-pixel-11",
+      "source": "Android Central",
+      "domain": "androidcentral.com",
+      "published_at": "2026-08-10T17:36:28Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "3ed8ac6d225a6a65",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "Lumilens 退出隱密狀態，投資 7 億美元，AI 光學器件已交付給超大規模企業",
+      "summary": "Lumilens 以一系列光學互連產品脫穎而出，針對大型 AI 叢集中的兩個網路限制：機架之間的橫向擴展連接和運算域內 GPU 之間的縱向擴展連接。該公司表示…",
+      "original_title": "Lumilens Exits Stealth With $700M and AI Optics Already Shipping to a Hyperscaler",
+      "url": "https://www.storagereview.com/news/lumilens-exits-stealth-with-700m-and-ai-optics-already-shipping-to-a-hyperscaler",
+      "source": "Storagereview.com",
+      "domain": "storagereview.com",
+      "published_at": "2026-08-10T17:05:24Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "af9ce717ee1c321f",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1582,44 +1658,6 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "45d7bc7452c7f96c",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "浸沒式微影拯救了摩爾定律（2023）",
-      "summary": "了解浸沒式微影如何引發晶片製造的典範轉移。",
-      "original_title": "Immersion lithography saved Moore's Law (2023)",
-      "url": "https://www.asml.com/company/stories/2023/how-immersion-lithography-saved-moores-law",
-      "source": "Asml.com",
-      "domain": "asml.com",
-      "published_at": "2026-08-07T12:33:44Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "386e53923e3430dc",
@@ -2338,44 +2376,6 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "31a55fc01c8d8009",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "川普政府可能很快就會創造「萬物之母」人工智慧瓶頸。這些股票可能會飆升。",
-      "summary": "中國控制全球50%以上的收發器市場，美國聯邦通訊委員會正在起草一項措施，禁止進口中國新...",
-      "original_title": "The Trump Administration Could Soon Create the ‘Mother of All’ AI Bottlenecks. These Stocks Could Soar.",
-      "url": "https://247wallst.com/investing/2026/08/06/the-trump-administration-could-soon-create-the-mother-of-all-ai-bottlenecks-these-stocks-could-soar/",
-      "source": "24/7 Wall St.",
-      "domain": "247wallst.com",
-      "published_at": "2026-08-06T16:14:42Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "1d99df8f17e7f659",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2519,44 +2519,6 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "bd9c46e878d4b422",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Dell and Super Micro Rally 10%, Hewlett Packard Enterprise Climbs 6% as AI Server Stocks Surge",
-      "summary": "人工智慧伺服器股票週二大幅上漲，但看不到乾淨的公司催化劑，這引發了這樣的問題：這種風險浪潮是否會持續下去，或者…",
-      "original_title": "Dell and Super Micro Rally 10%, Hewlett Packard Enterprise Climbs 6% as AI Server Stocks Surge",
-      "url": "https://247wallst.com/investing/2026/08/04/dell-and-super-micro-rally-10-hewlett-packard-enterprise-climbs-6-as-ai-server-stocks-surge/",
-      "source": "24/7 Wall St.",
-      "domain": "247wallst.com",
-      "published_at": "2026-08-04T17:20:12Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "91681938f658dcc1",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2631,6 +2593,44 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "bd9c46e878d4b422",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Dell and Super Micro Rally 10%, Hewlett Packard Enterprise Climbs 6% as AI Server Stocks Surge",
+      "summary": "人工智慧伺服器股票週二大幅上漲，但看不到乾淨的公司催化劑，這引發了這樣的問題：這種風險浪潮是否會持續下去，或者…",
+      "original_title": "Dell and Super Micro Rally 10%, Hewlett Packard Enterprise Climbs 6% as AI Server Stocks Surge",
+      "url": "https://247wallst.com/investing/2026/08/04/dell-and-super-micro-rally-10-hewlett-packard-enterprise-climbs-6-as-ai-server-stocks-surge/",
+      "source": "24/7 Wall St.",
+      "domain": "247wallst.com",
+      "published_at": "2026-08-04T17:20:12Z",
+      "importance": 45,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     },
     {
       "id": "71da558ae41c95a8",
