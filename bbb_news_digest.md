@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-11T10:00:10.712160+00:00
+> 更新時間：2026-08-11T14:09:29.688031+00:00
 
 ### ⚠️ 美國光收發器禁令可能會減緩人工智慧資料中心的建設
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -11,9 +11,9 @@
 ---
 
 ### ⚖️ 每週新聞綜述：AI 基礎設施競賽涵蓋 HBM、DRAM、EMIB、光收發器和下一代光刻
-- **題材**: `半導體先進製程` | **重要性**: `78`
+- **題材**: `光通訊與矽光子` | **重要性**: `78`
 - **來源**: Digitimes (2026-08-10T01:42:06Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: AI infrastructure, memory supply, advanced packaging and US-China tech restrictions led this week's industry agenda. Below are the most-read DIGITIMES stories from the week of August 3-10, 2026.
 - [原文連結](https://www.digitimes.com/news/a20260810VL200/weekly-news-roundup-asml-dram-hbm-infrastructure-packaging.html)
 
@@ -145,15 +145,6 @@
 
 ---
 
-### 🚀 台積電2nm月產能達10萬片
-- **題材**: `半導體先進製程` | **重要性**: `65`
-- **來源**: TechNode (2026-08-05T05:55:28Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 隨著AI客戶越來越多地轉向更先進的3奈米和2奈米製程技術，以追求更高的性能和更低的功耗，需求的激增促使全球最大的半導體代工廠調整產能計畫。
-- [原文連結](https://technode.com/2026/08/05/tsmcs-2nm-monthly-capacity-to-reach-100000-wafers/)
-
----
-
 ### 🚀 市場飆升至歷史新高
 - **題材**: `總體風險` | **重要性**: `65`
 - **來源**: Yahoo Entertainment (2026-08-04T23:36:32Z)
@@ -178,6 +169,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: The 2026 Open Compute Project (OCP) APAC Summit will be held in Taipei on August 11-12, bringing together global cloud service providers (CSPs), semiconductor firms, silicon photonics (SiPh) players, system makers and many Taiwanese suppliers to share the lat…
 - [原文連結](https://www.digitimes.com/news/a20260805PD219/cpo-2026-ceo-apac-manufacturing.html)
+
+---
+
+### ⚖️ 英特爾推出 150 億美元股票發售，業績改善提振股價
+- **題材**: `半導體先進製程` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-08-10T12:05:06Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 美國晶片製造商英特爾週一表示，該公司計劃透過出售股票籌集 150 億美元資金，希望為其昂貴的晶片研發項目提供資金。
+- [原文連結](https://finance.yahoo.com/markets/stocks/articles/intel-launches-15-billion-share-120506693.html)
 
 ---
 
