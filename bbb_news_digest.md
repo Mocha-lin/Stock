@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-10T23:34:25.532544+00:00
+> 更新時間：2026-08-11T03:00:21.853333+00:00
 
 ### ⚠️ 美國光收發器禁令可能會減緩人工智慧資料中心的建設
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -7,6 +7,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 美國提議禁止新型中國光收發器，這可能會在西方供應商有足夠的能力取代中國生產之前擾亂人工智慧資料中心的建設，從而增加成本上升、叢集部署延遲和 GPU 擱淺的風險。
 - [原文連結](https://www.digitimes.com/news/a20260807VL210/optical-components-transceiver-module-production-usa-ban-china.html)
+
+---
+
+### ⚖️ 每週新聞綜述：AI 基礎設施競賽涵蓋 HBM、DRAM、EMIB、光收發器和下一代光刻
+- **題材**: `半導體先進製程` | **重要性**: `78`
+- **來源**: Digitimes (2026-08-10T01:42:06Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: AI infrastructure, memory supply, advanced packaging and US-China tech restrictions led this week's industry agenda. Below are the most-read DIGITIMES stories from the week of August 3-10, 2026.
+- [原文連結](https://www.digitimes.com/news/a20260810VL200/weekly-news-roundup-asml-dram-hbm-infrastructure-packaging.html)
 
 ---
 
@@ -82,6 +91,15 @@
 
 ---
 
+### 🚀 SK海力士失去市場份額，DRAM價格飆升提振三星和美光
+- **題材**: `HBM記憶體` | **重要性**: `68`
+- **來源**: Digitimes (2026-08-06T00:00:42Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 與 SK 海力士相比，三星電子和美光科技從傳統 DRAM 和 NAND 價格上漲中受益更大，儘管 SK 海力士在高頻寬記憶體 (HBM) 領域處於領先地位，但其傳統 DRAM 業務的擴張速度放緩。
+- [原文連結](https://www.digitimes.com/news/a20260805PD224/dram-samsung-micron-price-sk-hynix.html)
+
+---
+
 ### ⚖️ 馬斯克 (Elon Musk) 表示 SpaceX 將專門使用 Nvidia GPU，「因為它們是最好的」——優化後的 Vera Rubin NVL72 將於明年發射升空
 - **題材**: `AI伺服器` | **重要性**: `67`
 - **來源**: Tom's Hardware UK (2026-08-05T11:50:34Z)
@@ -127,6 +145,24 @@
 
 ---
 
+### 🚀 分析-標準普爾 500 指數創歷史新高後，美國股市可能會利用獲利強勁而進一步上漲
+- **題材**: `總體風險` | **重要性**: `65`
+- **來源**: Yahoo Entertainment (2026-08-05T16:31:15Z)
+- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 作者：Lewis Krauskopf 紐約，8 月 5 日（路透社）
+- [原文連結](https://finance.yahoo.com/markets/stocks/articles/analysis-us-stock-market-could-163115710.html)
+
+---
+
+### 🚀 台積電2nm月產能達10萬片
+- **題材**: `半導體先進製程` | **重要性**: `65`
+- **來源**: TechNode (2026-08-05T05:55:28Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 隨著AI客戶越來越多地轉向更先進的3奈米和2奈米製程技術，以追求更高的性能和更低的功耗，需求的激增促使全球最大的半導體代工廠調整產能計畫。
+- [原文連結](https://technode.com/2026/08/05/tsmcs-2nm-monthly-capacity-to-reach-100000-wafers/)
+
+---
+
 ### 🚀 市場飆升至歷史新高
 - **題材**: `總體風險` | **重要性**: `65`
 - **來源**: Yahoo Entertainment (2026-08-04T23:36:32Z)
@@ -142,42 +178,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: GlobalFoundries (GF) 经常将自己视为美国半导体主权的重要支柱。這種說法部分正確，但需要限定。
 - [原文連結](https://www.digitimes.com/news/a20260806VL208/globalfoundries-photonics-silicon-taiwan-subsidies.html)
-
----
-
-### ⚖️ 訪談：Ayar Labs 執行長預計 2028 年至 2029 年原棕油規模化產量將上升
-- **題材**: `光通訊與矽光子` | **重要性**: `63`
-- **來源**: Digitimes (2026-08-06T00:00:01Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: The 2026 Open Compute Project (OCP) APAC Summit will be held in Taipei on August 11-12, bringing together global cloud service providers (CSPs), semiconductor firms, silicon photonics (SiPh) players, system makers and many Taiwanese suppliers to share the lat…
-- [原文連結](https://www.digitimes.com/news/a20260805PD219/cpo-2026-ceo-apac-manufacturing.html)
-
----
-
-### ⚖️ SK 海力士 380 億美元的擴建項目有一個名字：Nvidia
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: TheStreet (2026-08-09T13:33:00Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 今年出貨的每一款高階 NvidiaAI 晶片都與其他公司的製造賭注捆綁在一起。堆疊記憶體纏繞在每個處理器周圍，...
-- [原文連結](https://www.thestreet.com/technology/sk-hynix-38-billion-nvidia-expansion)
-
----
-
-### ⚖️ Caviar 剛剛透露了 iPhone Ultra 和 iPhone 18 Pro 的設計、規格和發布日期嗎？
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: GSMArena.com (2026-08-08T23:31:02Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Caviar 在未宣布的客製化硬體上開始預訂的情況並不罕見。這在過去曾發生過。然而，即使對這家俄羅斯公司來說，這次的佈局方式也顯得有些大膽。它已經將其定制設計列為 b...
-- [原文連結](https://www.gsmarena.com/did_caviar_just_spill_the_beans_on_the_iphone_ultra_and_the_iphone_18_pro_design_specs_and_release_d-news-74082.php)
-
----
-
-### ⚠️ 隨著航班重新啟動，機場中斷陷入“混亂”
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: BBC News (2026-08-08T12:47:00Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 機場表示，航班在取消 14 小時後將重新啟動，但有延誤和改道。
-- [原文連結](https://www.bbc.com/news/articles/c1k1lyg94w9o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D)
 
 ---
 
