@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-12T15:45:55.111350+00:00
+> 更新時間：2026-08-12T17:47:16.011924+00:00
 
 ### 🚀 光通訊需求反彈，EOC 1H26扭虧為盈
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -152,15 +152,6 @@
 
 ---
 
-### ⚖️ SMCI價格預測：高風險、高報酬、巨大潛力
-- **題材**: `AI伺服器` | **重要性**: `65`
-- **來源**: 24/7 Wall St. (2026-08-10T16:00:15Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Super Micro Computer 的收入同比翻了一番，同時積累了 88 億美元的債務，並正在接受董事會的積極審查，這使得投資...
-- [原文連結](https://247wallst.com/investing/2026/08/10/smci-price-prediction-high-risk-high-reward-huge-potential/)
-
----
-
 ### ⚠️ 即將推出的可折疊 iPhone 和 iPhone 18 Pro 型號可能很快就會售空
 - **題材**: `半導體先進製程` | **重要性**: `65`
 - **來源**: iLounge (2026-08-10T15:52:51Z)
@@ -170,21 +161,30 @@
 
 ---
 
-### 🚀 Nvidia 與 SpaceX 的交易發出了關於人工智慧主導地位的明確信號
-- **題材**: `AI伺服器` | **重要性**: `65`
-- **來源**: Barchart.com (2026-08-09T17:30:02Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Elon Musk says SpaceX is going all in on Nvidia's Vera Rubin chips. Here is why that exclusive bet matters for AI investors.
-- [原文連結](https://www.barchart.com/story/news/3745602/the-nvidia-spacex-deal-is-sending-a-clear-signal-on-ai-dominance)
-
----
-
 ### ⚖️ 了解不同的人工智慧資料中心租賃價格和類別
 - **題材**: `AI伺服器` | **重要性**: `65`
 - **來源**: Next Big Future (2026-08-06T15:02:20Z)
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: xAI/SpaceX Colossus 和類似的優質、立即可用的 AI 集群的每吉瓦 500 億美元的高租賃費是因為缺乏即用型、大規模相干 GPU 容量。凱文·帕拉斯關於陰謀的說法是錯誤的。他正在與不同的人進行比較…
 - [原文連結](https://www.nextbigfuture.com/2026/08/understanding-different-ai-data-center-leasing-prices-and-categories.html)
+
+---
+
+### ⚖️ 2nm AI晶片訂單蓬勃發展，三星代工廠目標利用率達100%
+- **題材**: `半導體先進製程` | **重要性**: `65`
+- **來源**: SamMobile (2026-08-06T12:36:19Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 三星的晶片製造業務三星代工廠已經存在多年。然而，它並不是許多晶片設計者的首選，他們更喜歡台積電，因為它提供更先進的節點、更高的製造良率和...
+- [原文連結](https://www.sammobile.com/news/samsung-foundry-targets-100-utilization-amid-booming-2nm-ai-chip-orders/)
+
+---
+
+### 🚀 LITE 股票提醒：分析師認為 Lumentum 前景廣闊，因為川普旨在限制中國資料中心組件
+- **題材**: `光通訊與矽光子` | **重要性**: `65`
+- **來源**: Barchart.com (2026-08-05T17:54:09Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 到 2026 年，Lumentum 股價已上漲約 130%，而強勁的獲利成長和 1,100 美元的分析師目標表明華爾街預計會有進一步上漲。
+- [原文連結](https://www.barchart.com/story/news/3670467/lite-stock-alert-analysts-see-big-upside-ahead-for-lumentum-as-trump-aims-to-restrict-chinese-data-center-components)
 
 ---
 
