@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-12T10:04:05.496967+00:00
+> 更新時間：2026-08-12T14:10:08.421479+00:00
 
 ### 🚀 光通訊需求反彈，EOC 1H26扭虧為盈
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -133,15 +133,6 @@
 
 ---
 
-### ⚖️ 馬斯克 (Elon Musk) 表示 SpaceX 將專門使用 Nvidia GPU，「因為它們是最好的」——優化後的 Vera Rubin NVL72 將於明年發射升空
-- **題材**: `AI伺服器` | **重要性**: `67`
-- **來源**: Tom's Hardware UK (2026-08-05T11:50:34Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Elon Musk 的 SpaceX 和 xAI 將獨家使用 Nvidia AI 加速器進行訓練和推理，因為該公司相信 Vera Rubin 是當今最好的 AI 運算架構。
-- [原文連結](https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musk-says-spacex-will-exclusively-use-nvidia-gpus-because-they-are-the-best-says-optimized-vera-rubin-nvl72-will-be-launched-into-space-next-year)
-
----
-
 ### ⚖️ 最容易受到 2026 年晶片供應鏈危機影響的 ETF——贏家和輸家
 - **題材**: `HBM記憶體` | **重要性**: `65`
 - **來源**: Etf.com (2026-08-10T20:15:22Z)
@@ -185,6 +176,15 @@
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Elon Musk says SpaceX is going all in on Nvidia's Vera Rubin chips. Here is why that exclusive bet matters for AI investors.
 - [原文連結](https://www.barchart.com/story/news/3745602/the-nvidia-spacex-deal-is-sending-a-clear-signal-on-ai-dominance)
+
+---
+
+### ⚖️ 了解不同的人工智慧資料中心租賃價格和類別
+- **題材**: `AI伺服器` | **重要性**: `65`
+- **來源**: Next Big Future (2026-08-06T15:02:20Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: xAI/SpaceX Colossus 和類似的優質、立即可用的 AI 集群的每吉瓦 500 億美元的高租賃費是因為缺乏即用型、大規模相干 GPU 容量。凱文·帕拉斯關於陰謀的說法是錯誤的。他正在與不同的人進行比較…
+- [原文連結](https://www.nextbigfuture.com/2026/08/understanding-different-ai-data-center-leasing-prices-and-categories.html)
 
 ---
 
