@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-12T17:47:16.011924+00:00
+> 更新時間：2026-08-12T19:53:59.554710+00:00
 
 ### 🚀 光通訊需求反彈，EOC 1H26扭虧為盈
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -179,12 +179,12 @@
 
 ---
 
-### 🚀 LITE 股票提醒：分析師認為 Lumentum 前景廣闊，因為川普旨在限制中國資料中心組件
-- **題材**: `光通訊與矽光子` | **重要性**: `65`
-- **來源**: Barchart.com (2026-08-05T17:54:09Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 到 2026 年，Lumentum 股價已上漲約 130%，而強勁的獲利成長和 1,100 美元的分析師目標表明華爾街預計會有進一步上漲。
-- [原文連結](https://www.barchart.com/story/news/3670467/lite-stock-alert-analysts-see-big-upside-ahead-for-lumentum-as-trump-aims-to-restrict-chinese-data-center-components)
+### ⚖️ GlobalFoundries 2Q分析2/2：美國補貼、台灣言論與格芯矽光子測試
+- **題材**: `光通訊與矽光子` | **重要性**: `63`
+- **來源**: Digitimes (2026-08-06T07:23:45Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: GlobalFoundries (GF) 经常将自己视为美国半导体主权的重要支柱。這種說法部分正確，但需要限定。
+- [原文連結](https://www.digitimes.com/news/a20260806VL208/globalfoundries-photonics-silicon-taiwan-subsidies.html)
 
 ---
 
