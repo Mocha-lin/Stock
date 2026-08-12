@@ -1,5 +1,14 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-12T06:50:48.883361+00:00
+> 更新時間：2026-08-12T10:04:05.496967+00:00
+
+### 🚀 光通訊需求反彈，EOC 1H26扭虧為盈
+- **題材**: `光通訊與矽光子` | **重要性**: `83`
+- **來源**: Digitimes (2026-08-11T08:30:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 東騰光電 (EOC) 報告稱，在產品結構改善、產能利用率提高以及光通訊需求反彈的推動下，2026 年上半年扭虧為盈。該公司表示，光通訊需求...
+- [原文連結](https://www.digitimes.com/news/a20260811PD236/demand-communications-profit-capacity-2026.html)
+
+---
 
 ### ⚠️ 美國光收發器禁令可能會減緩人工智慧資料中心的建設
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -133,6 +142,15 @@
 
 ---
 
+### ⚖️ 最容易受到 2026 年晶片供應鏈危機影響的 ETF——贏家和輸家
+- **題材**: `HBM記憶體` | **重要性**: `65`
+- **來源**: Etf.com (2026-08-10T20:15:22Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 高頻寬內存在 2026 年全年都已售罄。 SK 海力士警告称，短缺可能会持续到 2030 年之后。汽车制造商正在削减预算模式的产量……
+- [原文連結](http://www.etf.com/sections/news/etfs-most-exposed-2026-chip-supply-chain-crisis-winners-and-losers?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss)
+
+---
+
 ### ⚖️ 索尼和台積電正斥資數十億美元製造下一代影像感測器
 - **題材**: `半導體先進製程` | **重要性**: `65`
 - **來源**: PetaPixel (2026-08-10T19:38:53Z)
@@ -167,24 +185,6 @@
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Elon Musk says SpaceX is going all in on Nvidia's Vera Rubin chips. Here is why that exclusive bet matters for AI investors.
 - [原文連結](https://www.barchart.com/story/news/3745602/the-nvidia-spacex-deal-is-sending-a-clear-signal-on-ai-dominance)
-
----
-
-### ⚖️ 了解不同的人工智慧資料中心租賃價格和類別
-- **題材**: `AI伺服器` | **重要性**: `65`
-- **來源**: Next Big Future (2026-08-06T15:02:20Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: xAI/SpaceX Colossus 和類似的優質、立即可用的 AI 集群的每吉瓦 500 億美元的高租賃費是因為缺乏即用型、大規模相干 GPU 容量。凱文·帕拉斯關於陰謀的說法是錯誤的。他正在與不同的人進行比較…
-- [原文連結](https://www.nextbigfuture.com/2026/08/understanding-different-ai-data-center-leasing-prices-and-categories.html)
-
----
-
-### ⚖️ 2nm AI晶片訂單蓬勃發展，三星代工廠目標利用率達100%
-- **題材**: `半導體先進製程` | **重要性**: `65`
-- **來源**: SamMobile (2026-08-06T12:36:19Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 三星的晶片製造業務三星代工廠已經存在多年。然而，它並不是許多晶片設計者的首選，他們更喜歡台積電，因為它提供更先進的節點、更高的製造良率和...
-- [原文連結](https://www.sammobile.com/news/samsung-foundry-targets-100-utilization-amid-booming-2nm-ai-chip-orders/)
 
 ---
 
