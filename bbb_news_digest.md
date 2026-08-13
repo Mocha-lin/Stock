@@ -1,14 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-13T10:05:06.938448+00:00
-
-### ⚠️ 台積電解決 CoWoS 材料風險，同時將 3DIC 開發週期縮短至一年
-- **題材**: `半導體先進製程` | **重要性**: `83`
-- **來源**: Digitimes (2026-08-12T00:02:58Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 人工智慧運算需求正在迅速增加晶片整合的複雜性，使先進封裝競爭從單一組件性能轉向跨封裝、PCB、系統甚至機架級基礎設施的可靠性和驗證。
-- [原文連結](https://www.digitimes.com/news/a20260811PD250/development-tsmc-demand-cowos-packaging.html)
-
----
+> 更新時間：2026-08-13T14:12:38.248158+00:00
 
 ### 🚀 光通訊需求反彈，EOC 1H26扭虧為盈
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -43,15 +34,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 收入超出指導範圍的高端，部分原因是通訊基礎設施和資料中心終端市場年增 60%…
 - [原文連結](https://www.manufacturingdive.com/news/globalfoundries-revenue-q2-AI-chips-Synopsys/827197/)
-
----
-
-### 🚀 高 Beta 亞軍：為何 AMD 和 Marvell 技術現在備受關注
-- **題材**: `光通訊與矽光子` | **重要性**: `75`
-- **來源**: 24/7 Wall St. (2026-08-06T12:51:31Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: AMD 和 Marvell 的獲利都大幅下滑，而年初至今的回報率則落後於 NVIDIA 和 Broadcom，但他們搶佔 AI 基礎設施的策略...
-- [原文連結](https://247wallst.com/investing/2026/08/06/high-beta-runners-up-why-amd-and-marvell-technology-now-command-attention/)
 
 ---
 
@@ -91,6 +73,24 @@
 
 ---
 
+### ⚖️ 光學互連和矽光子如何成為人工智慧的下一個熱門商品——即將舉行的中美峰會將光子學置於十字準線
+- **題材**: `光通訊與矽光子` | **重要性**: `72`
+- **來源**: Tom's Hardware UK (2026-08-12T12:42:23Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 美國希望中國的光收發器退出未來的人工智慧資料中心，但中國目前在快速發展的光子供應鏈中的主導地位可能會使禁令變得複雜
+- [原文連結](https://www.tomshardware.com/tech-industry/photonics/how-optical-interconnects-and-silicon-photonics-emerged-as-ais-next-hot-commodity-looming-us-china-summit-puts-photonics-into-the-crosshairs)
+
+---
+
+### 🚀 Lumentum 第​​四季度財報電話會議亮點
+- **題材**: `光通訊與矽光子` | **重要性**: `70`
+- **來源**: MarketBeat (2026-08-11T23:04:11Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Lumentum（納斯達克股票代碼：LITE）公佈第四財季營收為 10.1 億美元，年增 109%，環比增長 23%，原因是與人工智慧數據處理相關的需求...
+- [原文連結](https://www.marketbeat.com/instant-alerts/lumentum-q4-earnings-call-highlights-2026-08-11/?utm_source=yahoofinance&amp;utm_medium=yahoofinance)
+
+---
+
 ### ⚠️ 蘋果因記憶體短缺削減 2026 年硬體出貨量
 - **題材**: `半導體先進製程` | **重要性**: `70`
 - **來源**: MacRumors (2026-08-10T18:38:55Z)
@@ -115,12 +115,12 @@
 
 ---
 
-### 🚀 人工智慧內存熱潮尚未結束。投資者只是按原樣定價
-- **題材**: `HBM記憶體` | **重要性**: `70`
-- **來源**: 24/7 Wall St. (2026-08-06T13:35:58Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 儘管 SK 海力士、美光和 Sandisk 公佈了歷史上最好的財務業績，但內存股仍在暴跌。投資人的反應幾乎是…
-- [原文連結](https://247wallst.com/investing/2026/08/06/the-ai-memory-boom-isnt-over-investors-are-just-pricing-it-like-it-is/)
+### 🚀 高 Beta 亞軍：為何 AMD 和 Marvell 技術現在備受關注
+- **題材**: `光通訊與矽光子` | **重要性**: `70`
+- **來源**: 24/7 Wall St. (2026-08-06T12:51:31Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: AMD 和 Marvell 的獲利都大幅下滑，而年初至今的回報率則落後於 NVIDIA 和 Broadcom，但他們搶佔 AI 基礎設施的策略...
+- [原文連結](https://247wallst.com/investing/2026/08/06/high-beta-runners-up-why-amd-and-marvell-technology-now-command-attention/)
 
 ---
 
@@ -133,21 +133,21 @@
 
 ---
 
-### ⚠️ 任天堂因美國關稅退款而超出盈利，但它不會與遊戲玩家分享
-- **題材**: `總體風險` | **重要性**: `68`
-- **來源**: The Verge (2026-08-06T10:58:20Z)
-- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 由於強勁的遊戲銷售和美國關稅退款，任天堂已經超越了本財年第一季的獲利預期，儘管其客戶可能不會從後者獲得任何東西。在其最新的財務業績中，任天堂報告稱...
-- [原文連結](https://www.theverge.com/games/976054/nintendo-earnings-q1-2027-tariff-refund)
+### 🚀 Google Pixel 11 Pro Fold 與三星 Galaxy Z Fold 8 Ultra：並不像你想像的那麼簡單
+- **題材**: `半導體先進製程` | **重要性**: `65`
+- **來源**: Android Central (2026-08-12T14:11:28Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Pixel 11 Pro Fold 比 Galaxy Z Fold 8 Ultra 更重，電池更小，而且相機也沒有那麼好。對三星來說，這是一場輕鬆的勝利嗎？並不真地。
+- [原文連結](https://www.androidcentral.com/phones/google-pixel/google-pixel-11-pro-fold-vs-samsung-galaxy-z-fold-8-ultra)
 
 ---
 
-### ⚖️ 由於人工智慧封裝瓶頸仍然存在，台積電轉向 OSAT 以獲得更多 CoW 產能
-- **題材**: `半導體先進製程` | **重要性**: `68`
-- **來源**: Digitimes (2026-08-06T04:18:57Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 根據 ETNews 報導，台積電 (TSMC) 正在擴大將其 CoWoS 先進封裝的晶圓晶片 (CoW) 階段外包給外包半導體組裝和測試 (OSAT) 提供商，其中引用了半導體行業的消息。
-- [原文連結](https://www.digitimes.com/news/a20260806VL218/tsmc-cowos-outsourcing-osat-packaging-capacity-taiwan.html)
+### 🚀 Pixel 11系列來了，但Google保留了Pro型號的重大升級
+- **題材**: `半導體先進製程` | **重要性**: `65`
+- **來源**: Android Central (2026-08-12T14:00:00Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Pixel 11 系列正式發布，配備更亮的顯示器、新相機和 Tensor G6，但價格更高，並且僅對基本型號進行了適度升級。
+- [原文連結](https://www.androidcentral.com/phones/google-pixel/the-pixel-11-series-is-here-but-google-saved-the-big-upgrades-for-the-pro-models)
 
 ---
 
@@ -160,15 +160,6 @@
 
 ---
 
-### ⚖️ SMCI價格預測：高風險、高報酬、巨大潛力
-- **題材**: `AI伺服器` | **重要性**: `65`
-- **來源**: 24/7 Wall St. (2026-08-10T16:00:15Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Super Micro Computer 的收入同比翻了一番，同時積累了 88 億美元的債務，並正在接受董事會的積極審查，這使得投資...
-- [原文連結](https://247wallst.com/investing/2026/08/10/smci-price-prediction-high-risk-high-reward-huge-potential/)
-
----
-
 ### ⚖️ 了解不同的人工智慧資料中心租賃價格和類別
 - **題材**: `AI伺服器` | **重要性**: `65`
 - **來源**: Next Big Future (2026-08-06T15:02:20Z)
@@ -178,12 +169,21 @@
 
 ---
 
-### ⚖️ 2nm AI晶片訂單蓬勃發展，三星代工廠目標利用率達100%
-- **題材**: `半導體先進製程` | **重要性**: `65`
-- **來源**: SamMobile (2026-08-06T12:36:19Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 三星的晶片製造業務三星代工廠已經存在多年。然而，它並不是許多晶片設計者的首選，他們更喜歡台積電，因為它提供更先進的節點、更高的製造良率和...
-- [原文連結](https://www.sammobile.com/news/samsung-foundry-targets-100-utilization-amid-booming-2nm-ai-chip-orders/)
+### 🚀 人工智慧內存熱潮尚未結束。投資者只是按原樣定價
+- **題材**: `HBM記憶體` | **重要性**: `65`
+- **來源**: 24/7 Wall St. (2026-08-06T13:35:58Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 儘管 SK 海力士、美光和 Sandisk 公佈了歷史上最好的財務業績，但內存股仍在暴跌。投資人的反應幾乎是…
+- [原文連結](https://247wallst.com/investing/2026/08/06/the-ai-memory-boom-isnt-over-investors-are-just-pricing-it-like-it-is/)
+
+---
+
+### ⚠️ 任天堂因美國關稅退款而超出盈利，但它不會與遊戲玩家分享
+- **題材**: `總體風險` | **重要性**: `63`
+- **來源**: The Verge (2026-08-06T10:58:20Z)
+- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 由於強勁的遊戲銷售和美國關稅退款，任天堂已經超越了本財年第一季的獲利預期，儘管其客戶可能不會從後者獲得任何東西。在其最新的財務業績中，任天堂報告稱...
+- [原文連結](https://www.theverge.com/games/976054/nintendo-earnings-q1-2027-tariff-refund)
 
 ---
 
