@@ -1,5 +1,14 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-12T23:40:23.475228+00:00
+> 更新時間：2026-08-13T03:22:56.951360+00:00
+
+### ⚠️ 台積電解決 CoWoS 材料風險，同時將 3DIC 開發週期縮短至一年
+- **題材**: `半導體先進製程` | **重要性**: `83`
+- **來源**: Digitimes (2026-08-12T00:02:58Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 人工智慧運算需求正在迅速增加晶片整合的複雜性，使先進封裝競爭從單一組件性能轉向跨封裝、PCB、系統甚至機架級基礎設施的可靠性和驗證。
+- [原文連結](https://www.digitimes.com/news/a20260811PD250/development-tsmc-demand-cowos-packaging.html)
+
+---
 
 ### 🚀 光通訊需求反彈，EOC 1H26扭虧為盈
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -16,24 +25,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 美國提議禁止新型中國光收發器，這可能會在西方供應商有足夠的能力取代中國生產之前擾亂人工智慧資料中心的建設，從而增加成本上升、叢集部署延遲和 GPU 擱淺的風險。
 - [原文連結](https://www.digitimes.com/news/a20260807VL210/optical-components-transceiver-module-production-usa-ban-china.html)
-
----
-
-### ⚖️ 每週新聞綜述：AI 基礎設施競賽涵蓋 HBM、DRAM、EMIB、光收發器和下一代光刻
-- **題材**: `光通訊與矽光子` | **重要性**: `78`
-- **來源**: Digitimes (2026-08-10T01:42:06Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: AI infrastructure, memory supply, advanced packaging and US-China tech restrictions led this week's industry agenda. Below are the most-read DIGITIMES stories from the week of August 3-10, 2026.
-- [原文連結](https://www.digitimes.com/news/a20260810VL200/weekly-news-roundup-asml-dram-hbm-infrastructure-packaging.html)
-
----
-
-### ⚠️ 美國考慮對中國光模組實施禁令，人工智慧資料中心供應面臨風險
-- **題材**: `光通訊與矽光子` | **重要性**: `78`
-- **來源**: Digitimes (2026-08-06T00:03:05Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 川普政府正準備將美國的技術限制擴大到人工智慧供應鏈的更深處，聯邦通訊委員會正在考慮禁止資料中心使用的新型中國製造的光收發器模型。
-- [原文連結](https://www.digitimes.com/news/a20260805VL215/data-ban-technology-infrastructure-equipment.html)
 
 ---
 
@@ -64,6 +55,15 @@
 
 ---
 
+### ⚖️ 每週新聞綜述：AI 基礎設施競賽涵蓋 HBM、DRAM、EMIB、光收發器和下一代光刻
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-08-10T01:42:06Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: AI infrastructure, memory supply, advanced packaging and US-China tech restrictions led this week's industry agenda. Below are the most-read DIGITIMES stories from the week of August 3-10, 2026.
+- [原文連結](https://www.digitimes.com/news/a20260810VL200/weekly-news-roundup-asml-dram-hbm-infrastructure-packaging.html)
+
+---
+
 ### ⚖️ 中國光學供應商遭遇 FCC 威脅 US$19.1B 拋售
 - **題材**: `光通訊與矽光子` | **重要性**: `73`
 - **來源**: Digitimes (2026-08-07T00:00:20Z)
@@ -79,6 +79,15 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 根據 ETNews 報導，台積電 (TSMC) 正在擴大將其 CoWoS 先進封裝的晶圓晶片 (CoW) 階段外包給外包半導體組裝和測試 (OSAT) 提供商，其中引用了半導體行業的消息。
 - [原文連結](https://www.digitimes.com/news/a20260806VL218/tsmc-cowos-outsourcing-osat-packaging-capacity-taiwan.html)
+
+---
+
+### ⚠️ 美國考慮對中國光模組實施禁令，人工智慧資料中心供應面臨風險
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-08-06T00:03:05Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 川普政府正準備將美國的技術限制擴大到人工智慧供應鏈的更深處，聯邦通訊委員會正在考慮禁止資料中心使用的新型中國製造的光收發器模型。
+- [原文連結](https://www.digitimes.com/news/a20260805VL215/data-ban-technology-infrastructure-equipment.html)
 
 ---
 
@@ -152,6 +161,15 @@
 
 ---
 
+### ⚖️ SMCI價格預測：高風險、高報酬、巨大潛力
+- **題材**: `AI伺服器` | **重要性**: `65`
+- **來源**: 24/7 Wall St. (2026-08-10T16:00:15Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Super Micro Computer 的收入同比翻了一番，同時積累了 88 億美元的債務，並正在接受董事會的積極審查，這使得投資...
+- [原文連結](https://247wallst.com/investing/2026/08/10/smci-price-prediction-high-risk-high-reward-huge-potential/)
+
+---
+
 ### ⚠️ 即將推出的可折疊 iPhone 和 iPhone 18 Pro 型號可能很快就會售空
 - **題材**: `半導體先進製程` | **重要性**: `65`
 - **來源**: iLounge (2026-08-10T15:52:51Z)
@@ -167,24 +185,6 @@
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: xAI/SpaceX Colossus 和類似的優質、立即可用的 AI 集群的每吉瓦 500 億美元的高租賃費是因為缺乏即用型、大規模相干 GPU 容量。凱文·帕拉斯關於陰謀的說法是錯誤的。他正在與不同的人進行比較…
 - [原文連結](https://www.nextbigfuture.com/2026/08/understanding-different-ai-data-center-leasing-prices-and-categories.html)
-
----
-
-### ⚖️ 2nm AI晶片訂單蓬勃發展，三星代工廠目標利用率達100%
-- **題材**: `半導體先進製程` | **重要性**: `65`
-- **來源**: SamMobile (2026-08-06T12:36:19Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 三星的晶片製造業務三星代工廠已經存在多年。然而，它並不是許多晶片設計者的首選，他們更喜歡台積電，因為它提供更先進的節點、更高的製造良率和...
-- [原文連結](https://www.sammobile.com/news/samsung-foundry-targets-100-utilization-amid-booming-2nm-ai-chip-orders/)
-
----
-
-### ⚖️ GlobalFoundries 2Q分析2/2：美國補貼、台灣言論與格芯矽光子測試
-- **題材**: `光通訊與矽光子` | **重要性**: `63`
-- **來源**: Digitimes (2026-08-06T07:23:45Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: GlobalFoundries (GF) 经常将自己视为美国半导体主权的重要支柱。這種說法部分正確，但需要限定。
-- [原文連結](https://www.digitimes.com/news/a20260806VL208/globalfoundries-photonics-silicon-taiwan-subsidies.html)
 
 ---
 
