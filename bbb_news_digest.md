@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-13T15:45:00.700258+00:00
+> 更新時間：2026-08-13T17:45:51.205392+00:00
 
 ### 🚀 光通訊需求反彈，EOC 1H26扭虧為盈
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -70,6 +70,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 川普政府正準備將美國的技術限制擴大到人工智慧供應鏈的更深處，聯邦通訊委員會正在考慮禁止資料中心使用的新型中國製造的光收發器模型。
 - [原文連結](https://www.digitimes.com/news/a20260805VL215/data-ban-technology-infrastructure-equipment.html)
+
+---
+
+### ⚖️ Nvidia 將 RTX PRO 6000 Blackwell 的建議零售價提高了一倍，達到驚人的 16,000 美元——去年 96GB 卡的預訂價格低於 8,000 美元
+- **題材**: `AI伺服器` | **重要性**: `72`
+- **來源**: Tom's Hardware UK (2026-08-12T15:53:19Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 由於前所未有的資料中心擴建所帶來的人工智慧熱潮，資料中心 GPU 變得更加昂貴——令人震驚。 Nvidia 的 RTX 6000 Pro Blackwell 現在的價格是去年推出時的兩倍，比之前貴了 20%…
+- [原文連結](https://www.tomshardware.com/pc-components/gpus/nvidia-doubles-rtx-pro-6000-blackwells-msrp-to-a-staggering-usd16-000-96gb-card-started-pre-orders-below-usd8-000-last-year)
 
 ---
 
@@ -175,15 +184,6 @@
 - **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 由於強勁的遊戲銷售和美國關稅退款，任天堂已經超越了本財年第一季的獲利預期，儘管其客戶可能不會從後者獲得任何東西。在其最新的財務業績中，任天堂報告稱...
 - [原文連結](https://www.theverge.com/games/976054/nintendo-earnings-q1-2027-tariff-refund)
-
----
-
-### ⚖️ 研究顯示，長江儲存首次躋身 NAND 三大製造商行列，人工智慧伺服器吞併全快閃 48%，中國廠商佔有 14% 份額
-- **題材**: `HBM記憶體` | **重要性**: `62`
-- **來源**: Tom's Hardware UK (2026-08-12T12:35:44Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 三星以 25% 的份額領先，SK 海力士以 22% 緊隨其後，美光躋身前五名。
-- [原文連結](https://www.tomshardware.com/tech-industry/ymtc-breaks-into-the-top-three-nand-makers-for-the-first-time)
 
 ---
 
