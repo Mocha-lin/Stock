@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-13T19:48:33.272324+00:00
+> 更新時間：2026-08-13T23:40:14.720899+00:00
 
 ### 🚀 光通訊需求反彈，EOC 1H26扭虧為盈
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -34,15 +34,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 收入超出指導範圍的高端，部分原因是通訊基礎設施和資料中心終端市場年增 60%…
 - [原文連結](https://www.manufacturingdive.com/news/globalfoundries-revenue-q2-AI-chips-Synopsys/827197/)
-
----
-
-### ⚖️ 台積電子公司 VisEra 透過 1.6T 矽光子擴展 AI 光學
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-08-10T22:52:30Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 台積電旗下光元件供應商 VisEra 正在向 AI 光互連和矽光子領域拓展，其用於 800G 可插拔收發器的 MicroLens 產品已投入量產，其下一代 PIC 薄膜製程...
-- [原文連結](https://www.digitimes.com/news/a20260810PD234/visera-photonics-silicon-optics-production.html)
 
 ---
 
@@ -109,6 +100,15 @@
 
 ---
 
+### ⚖️ 台積電子公司 VisEra 透過 1.6T 矽光子擴展 AI 光學
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-08-10T22:52:30Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 台積電旗下光元件供應商 VisEra 正在向 AI 光互連和矽光子領域拓展，其用於 800G 可插拔收發器的 MicroLens 產品已投入量產，其下一代 PIC 薄膜製程...
+- [原文連結](https://www.digitimes.com/news/a20260810PD234/visera-photonics-silicon-optics-production.html)
+
+---
+
 ### ⚖️ 分析：台積電透過 3nm 晶圓廠和先進封裝推動擴大日本業務
 - **題材**: `半導體先進製程` | **重要性**: `68`
 - **來源**: Digitimes (2026-08-07T09:00:21Z)
@@ -133,15 +133,6 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Pixel 11 系列正式發布，配備更亮的顯示器、新相機和 Tensor G6，但價格更高，並且僅對基本型號進行了適度升級。
 - [原文連結](https://www.androidcentral.com/phones/google-pixel/the-pixel-11-series-is-here-but-google-saved-the-big-upgrades-for-the-pro-models)
-
----
-
-### ⚖️ 最容易受到 2026 年晶片供應鏈危機影響的 ETF——贏家和輸家
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: Etf.com (2026-08-10T20:15:22Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 高頻寬內存在 2026 年全年都已售罄。 SK 海力士警告称，短缺可能会持续到 2030 年之后。汽车制造商正在削减预算模式的产量……
-- [原文連結](http://www.etf.com/sections/news/etfs-most-exposed-2026-chip-supply-chain-crisis-winners-and-losers?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss)
 
 ---
 
@@ -184,6 +175,15 @@
 - **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 由於強勁的遊戲銷售和美國關稅退款，任天堂已經超越了本財年第一季的獲利預期，儘管其客戶可能不會從後者獲得任何東西。在其最新的財務業績中，任天堂報告稱...
 - [原文連結](https://www.theverge.com/games/976054/nintendo-earnings-q1-2027-tariff-refund)
+
+---
+
+### ⚖️ 研究顯示，長江儲存首次躋身 NAND 三大製造商行列，人工智慧伺服器吞併全快閃 48%，中國廠商佔有 14% 份額
+- **題材**: `HBM記憶體` | **重要性**: `62`
+- **來源**: Tom's Hardware UK (2026-08-12T12:35:44Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 三星以 25% 的份額領先，SK 海力士以 22% 緊隨其後，美光躋身前五名。
+- [原文連結](https://www.tomshardware.com/tech-industry/ymtc-breaks-into-the-top-three-nand-makers-for-the-first-time)
 
 ---
 
