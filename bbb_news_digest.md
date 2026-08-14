@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-14T19:40:01.418496+00:00
+> 更新時間：2026-08-14T23:20:14.870050+00:00
 
 ### 🚀 Qisda 將人工智慧基礎設施視為成長最快的商機
 - **題材**: `光通訊與矽光子` | **重要性**: `93`
@@ -37,15 +37,6 @@
 
 ---
 
-### ⚖️ 每週新聞綜述：AI 基礎設施競賽涵蓋 HBM、DRAM、EMIB、光收發器和下一代光刻
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-08-10T01:42:06Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: AI infrastructure, memory supply, advanced packaging and US-China tech restrictions led this week's industry agenda. Below are the most-read DIGITIMES stories from the week of August 3-10, 2026.
-- [原文連結](https://www.digitimes.com/news/a20260810VL200/weekly-news-roundup-asml-dram-hbm-infrastructure-packaging.html)
-
----
-
 ### 🚀 隨著產業對沖 CPO 的成長陣痛，近封裝光學 (NPO) 取得了進展——分析師表示，NPO 矽光子產品的銷售將持續到本世紀末
 - **題材**: `光通訊與矽光子` | **重要性**: `72`
 - **來源**: Tom's Hardware UK (2026-08-13T16:52:45Z)
@@ -61,15 +52,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 美國希望中國的光收發器退出未來的人工智慧資料中心，但中國目前在快速發展的光子供應鏈中的主導地位可能會使禁令變得複雜
 - [原文連結](https://www.tomshardware.com/tech-industry/photonics/how-optical-interconnects-and-silicon-photonics-emerged-as-ais-next-hot-commodity-looming-us-china-summit-puts-photonics-into-the-crosshairs)
-
----
-
-### 🚀 Lumentum 第​​四季度財報電話會議亮點
-- **題材**: `光通訊與矽光子` | **重要性**: `70`
-- **來源**: MarketBeat (2026-08-11T23:04:11Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Lumentum（納斯達克股票代碼：LITE）公佈第四財季營收為 10.1 億美元，年增 109%，環比增長 23%，原因是與人工智慧數據處理相關的需求...
-- [原文連結](https://www.marketbeat.com/instant-alerts/lumentum-q4-earnings-call-highlights-2026-08-11/?utm_source=yahoofinance&amp;utm_medium=yahoofinance)
 
 ---
 
@@ -145,6 +127,15 @@
 
 ---
 
+### 🚀 Lumentum 第​​四季度財報電話會議亮點
+- **題材**: `光通訊與矽光子` | **重要性**: `65`
+- **來源**: MarketBeat (2026-08-11T23:04:11Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Lumentum（納斯達克股票代碼：LITE）公佈第四財季營收為 10.1 億美元，年增 109%，環比增長 23%，原因是與人工智慧數據處理相關的需求...
+- [原文連結](https://www.marketbeat.com/instant-alerts/lumentum-q4-earnings-call-highlights-2026-08-11/?utm_source=yahoofinance&amp;utm_medium=yahoofinance)
+
+---
+
 ### ⚠️ 蘋果因記憶體短缺削減 2026 年硬體出貨量
 - **題材**: `半導體先進製程` | **重要性**: `65`
 - **來源**: MacRumors (2026-08-10T18:38:55Z)
@@ -184,6 +175,15 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 台積電正在擴大日本在其全球網路中的作用，準備在熊本增加 3 奈米生產，並深化當地在先進封裝、晶片設計和下一代圖像感測器方面的能力。
 - [原文連結](https://www.digitimes.com/news/a20260807VL221/tsmc-japan-kumamoto-3nm-fab-packaging.html)
+
+---
+
+### ⚖️ 研究顯示，長江儲存首次躋身 NAND 三大製造商行列，人工智慧伺服器吞併全快閃 48%，中國廠商佔有 14% 份額
+- **題材**: `HBM記憶體` | **重要性**: `62`
+- **來源**: Tom's Hardware UK (2026-08-12T12:35:44Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 三星以 25% 的份額領先，SK 海力士以 22% 緊隨其後，美光躋身前五名。
+- [原文連結](https://www.tomshardware.com/tech-industry/ymtc-breaks-into-the-top-three-nand-makers-for-the-first-time)
 
 ---
 
