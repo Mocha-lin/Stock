@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-14T17:42:11.130779+00:00
+> 更新時間：2026-08-14T19:40:01.418496+00:00
 
 ### 🚀 Qisda 將人工智慧基礎設施視為成長最快的商機
 - **題材**: `光通訊與矽光子` | **重要性**: `93`
@@ -52,15 +52,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 隨著共封裝光學元件 (CPO) 的成長煩惱變得越來越明顯，近封裝光學元件 (NPO) 的需求正在增強。隨著光學和矽光子在人工智慧產業掀起波瀾，我們解釋了這兩種技術之間的實質差異。
 - [原文連結](https://www.tomshardware.com/tech-industry/near-packaged-optics-gains-ground-aso-the-industry-hedges-against-co-packaged-optics-growing-pains)
-
----
-
-### ⚖️ Nvidia 將 RTX PRO 6000 Blackwell 的建議零售價提高了一倍，達到驚人的 16,000 美元——去年 96GB 卡的預訂價格低於 8,000 美元
-- **題材**: `AI伺服器` | **重要性**: `72`
-- **來源**: Tom's Hardware UK (2026-08-12T15:53:19Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 由於前所未有的資料中心擴建所帶來的人工智慧熱潮，資料中心 GPU 變得更加昂貴——令人震驚。 Nvidia 的 RTX 6000 Pro Blackwell 現在的價格是去年推出時的兩倍，比之前貴了 20%…
-- [原文連結](https://www.tomshardware.com/pc-components/gpus/nvidia-doubles-rtx-pro-6000-blackwells-msrp-to-a-staggering-usd16-000-96gb-card-started-pre-orders-below-usd8-000-last-year)
 
 ---
 
@@ -184,6 +175,15 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: SK 海力士剛剛宣布一項大規模新投資，以增強其 DRAM 和 NAND 快閃記憶體產品的製造能力。這家韓國公司是與三星和美光並列的全球三大內存製造商之一，將花費…
 - [原文連結](https://www.techspot.com/news/113403-sk-hynix-spending-38-billion-build-two-new.html)
+
+---
+
+### ⚖️ 分析：台積電透過 3nm 晶圓廠和先進封裝推動擴大日本業務
+- **題材**: `半導體先進製程` | **重要性**: `63`
+- **來源**: Digitimes (2026-08-07T09:00:21Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 台積電正在擴大日本在其全球網路中的作用，準備在熊本增加 3 奈米生產，並深化當地在先進封裝、晶片設計和下一代圖像感測器方面的能力。
+- [原文連結](https://www.digitimes.com/news/a20260807VL221/tsmc-japan-kumamoto-3nm-fab-packaging.html)
 
 ---
 
