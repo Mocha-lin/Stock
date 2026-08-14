@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-14T15:39:02.501021+00:00
+> 更新時間：2026-08-14T17:42:11.130779+00:00
 
 ### 🚀 Qisda 將人工智慧基礎設施視為成長最快的商機
 - **題材**: `光通訊與矽光子` | **重要性**: `93`
@@ -16,15 +16,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重大事件】可能顯著影響產業評價、EPS預期或資金流向。
 - **摘要**: LandMark OptoElectronics Corp. 報告稱，受矽光子產品強勁需求和出貨量增加的推動，2026 年第二季營收、利潤率和利潤大幅成長。這家光通訊外延晶圓製造商也表示…
 - [原文連結](https://www.digitimes.com/news/a20260813PD205/profit-silicon-revenue-photonics-2026.html)
-
----
-
-### 🚀 隨著 InP 限制的增加，GaAs 在短距離人工智慧光學領域取得進展
-- **題材**: `光通訊與矽光子` | **重要性**: `78`
-- **來源**: Digitimes (2026-08-13T04:39:35Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 隨著人工智慧工作負載將資料中心互連從 800G 推向 1.6T，磷化銦 (InP) 已成為高速光鏈路（尤其是長距離傳輸）的關鍵材料。但晶體生長面臨挑戰、供應限制和高…
-- [原文連結](https://www.digitimes.com/news/a20260813PD227/gaas-inp-data-center-transmission-growth.html)
 
 ---
 
@@ -52,6 +43,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: AI infrastructure, memory supply, advanced packaging and US-China tech restrictions led this week's industry agenda. Below are the most-read DIGITIMES stories from the week of August 3-10, 2026.
 - [原文連結](https://www.digitimes.com/news/a20260810VL200/weekly-news-roundup-asml-dram-hbm-infrastructure-packaging.html)
+
+---
+
+### 🚀 隨著產業對沖 CPO 的成長陣痛，近封裝光學 (NPO) 取得了進展——分析師表示，NPO 矽光子產品的銷售將持續到本世紀末
+- **題材**: `光通訊與矽光子` | **重要性**: `72`
+- **來源**: Tom's Hardware UK (2026-08-13T16:52:45Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 隨著共封裝光學元件 (CPO) 的成長煩惱變得越來越明顯，近封裝光學元件 (NPO) 的需求正在增強。隨著光學和矽光子在人工智慧產業掀起波瀾，我們解釋了這兩種技術之間的實質差異。
+- [原文連結](https://www.tomshardware.com/tech-industry/near-packaged-optics-gains-ground-aso-the-industry-hedges-against-co-packaged-optics-growing-pains)
 
 ---
 
