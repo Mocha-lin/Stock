@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-14T23:20:14.870050+00:00
+> 更新時間：2026-08-15T02:08:52.046365+00:00
 
 ### 🚀 Qisda 將人工智慧基礎設施視為成長最快的商機
 - **題材**: `光通訊與矽光子` | **重要性**: `93`
@@ -19,6 +19,33 @@
 
 ---
 
+### 🚀 隨著 InP 限制的增加，GaAs 在短距離人工智慧光學領域取得進展
+- **題材**: `光通訊與矽光子` | **重要性**: `78`
+- **來源**: Digitimes (2026-08-13T04:39:35Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 隨著人工智慧工作負載將資料中心互連從 800G 推向 1.6T，磷化銦 (InP) 已成為高速光鏈路（尤其是長距離傳輸）的關鍵材料。但晶體生長面臨挑戰、供應限制和高…
+- [原文連結](https://www.digitimes.com/news/a20260813PD227/gaas-inp-data-center-transmission-growth.html)
+
+---
+
+### 🚀 Hanmi pulls ahead of Hanwha as HBM4 orders rebound
+- **題材**: `HBM記憶體` | **重要性**: `78`
+- **來源**: Digitimes (2026-08-13T03:51:21Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 隨著 HBM4 設備訂單反彈，以及 Hanmi 與美光不斷增長的業務有助於減少其對 SK Hynix 的依賴，韓國 Hanmi Semiconductor 在高頻寬內存 (HBM) 熱壓 (TC) 鍵合機方面領先於競爭對手 Hanwha Semitech。
+- [原文連結](https://www.digitimes.com/news/a20260813VL208/hbm4-hanwha-hanmi-sk-hynix-equipment.html)
+
+---
+
+### ⚠️ 台積電解決 CoWoS 材料風險，同時將 3DIC 開發週期縮短至一年
+- **題材**: `半導體先進製程` | **重要性**: `78`
+- **來源**: Digitimes (2026-08-12T00:02:58Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 人工智慧運算需求正在迅速增加晶片整合的複雜性，使先進封裝競爭從單一組件性能轉向跨封裝、PCB、系統甚至機架級基礎設施的可靠性和驗證。
+- [原文連結](https://www.digitimes.com/news/a20260811PD250/development-tsmc-demand-cowos-packaging.html)
+
+---
+
 ### 🚀 光通訊需求反彈，EOC 1H26扭虧為盈
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
 - **來源**: Digitimes (2026-08-11T08:30:00Z)
@@ -28,12 +55,12 @@
 
 ---
 
-### ⚠️ 美國光收發器禁令可能會減緩人工智慧資料中心的建設
-- **題材**: `光通訊與矽光子` | **重要性**: `78`
-- **來源**: Digitimes (2026-08-07T04:44:33Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 美國提議禁止新型中國光收發器，這可能會在西方供應商有足夠的能力取代中國生產之前擾亂人工智慧資料中心的建設，從而增加成本上升、叢集部署延遲和 GPU 擱淺的風險。
-- [原文連結](https://www.digitimes.com/news/a20260807VL210/optical-components-transceiver-module-production-usa-ban-china.html)
+### ⚖️ 每週新聞綜述：AI 基礎設施競賽涵蓋 HBM、DRAM、EMIB、光收發器和下一代光刻
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-08-10T01:42:06Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 人工智慧基礎設施、記憶體供應、先進封裝和中美技術限制主導了本週的行業議程。以下是 2026 年 8 月 3 日至 10 日這一週閱讀次數最多的 DIGITIMES 故事。
+- [原文連結](https://www.digitimes.com/news/a20260810VL200/weekly-news-roundup-asml-dram-hbm-infrastructure-packaging.html)
 
 ---
 
@@ -46,6 +73,15 @@
 
 ---
 
+### ⚖️ Nvidia doubles RTX PRO 6000 Blackwell's MSRP to a staggering $16,000 — 96GB card started pre-orders below $8,000 last year
+- **題材**: `AI伺服器` | **重要性**: `72`
+- **來源**: Tom's Hardware UK (2026-08-12T15:53:19Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 由於前所未有的資料中心擴建所帶來的人工智慧熱潮，資料中心 GPU 變得更加昂貴——令人震驚。 Nvidia 的 RTX 6000 Pro Blackwell 現在的價格是去年推出時的兩倍，比之前貴了 20%…
+- [原文連結](https://www.tomshardware.com/pc-components/gpus/nvidia-doubles-rtx-pro-6000-blackwells-msrp-to-a-staggering-usd16-000-96gb-card-started-pre-orders-below-usd8-000-last-year)
+
+---
+
 ### ⚖️ 光學互連和矽光子如何成為人工智慧的下一個熱門商品——即將舉行的中美峰會將光子學置於十字準線
 - **題材**: `光通訊與矽光子` | **重要性**: `72`
 - **來源**: Tom's Hardware UK (2026-08-12T12:42:23Z)
@@ -55,12 +91,12 @@
 
 ---
 
-### 🚀 GlobalFoundries 完成 Synopsys 交易，推動第二季營收達到 $1.79B
-- **題材**: `光通訊與矽光子` | **重要性**: `70`
-- **來源**: Manufacturingdive.com (2026-08-07T10:00:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 收入超出指導範圍的高端，部分原因是通訊基礎設施和資料中心終端市場年增 60%…
-- [原文連結](https://www.manufacturingdive.com/news/globalfoundries-revenue-q2-AI-chips-Synopsys/827197/)
+### 🚀 Supermicro 2026 財年第四季獲利：利潤率飆升，2027 財年指引超出預期
+- **題材**: `AI伺服器` | **重要性**: `70`
+- **來源**: Quartz India (2026-08-11T20:51:45Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: The AI server maker projects $65 billion to $72 billion in fiscal 2027 revenue, well above the $54.4 billion analysts had expected
+- [原文連結](https://qz.com/supermicro-fiscal-2027-revenue-guidance-margins-earnings-081126)
 
 ---
 
@@ -88,15 +124,6 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: SK 海力士正面臨與 MonolithIC 3D 不斷擴大的美國專利糾紛。美國國際貿易委員會 (USITC) 的第二項調查涵蓋高頻寬記憶體 (HBM) 和 3D NAND 產品，以及聯邦法院的平行訴訟。
 - [原文連結](https://www.digitimes.com/news/a20260810VL205/sk-hynix-3d-patent-nand-hbm.html)
-
----
-
-### ⚖️ 中國光學供應商遭遇 FCC 威脅 US$19.1B 拋售
-- **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-08-07T00:00:20Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 有報導稱，美國聯邦通訊委員會（FCC）可能限制新的中國製造的資料中心組件，威脅到全球人工智慧基礎設施的核心供應鏈，中國光收發器供應商正試圖安撫投資者。
-- [原文連結](https://www.digitimes.com/news/a20260805VL223/data-center-fcc-regulation-capacity.html)
 
 ---
 
@@ -157,33 +184,6 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 投資公司 Jefferies 週一將蘋果的評級從持有下調至表現不佳，並將目標股價從 285.56 美元下調至 263.66 美元。
 - [原文連結](https://finance.yahoo.com/markets/stocks/articles/apple-may-scrap-glass-iphone-181942240.html)
-
----
-
-### ⚖️ SK海力士斥資380億美元興建兩座新晶片工廠
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: TechSpot (2026-08-08T14:37:00Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: SK 海力士剛剛宣布一項大規模新投資，以增強其 DRAM 和 NAND 快閃記憶體產品的製造能力。這家韓國公司是與三星和美光並列的全球三大內存製造商之一，將花費…
-- [原文連結](https://www.techspot.com/news/113403-sk-hynix-spending-38-billion-build-two-new.html)
-
----
-
-### ⚖️ 分析：台積電透過 3nm 晶圓廠和先進封裝推動擴大日本業務
-- **題材**: `半導體先進製程` | **重要性**: `63`
-- **來源**: Digitimes (2026-08-07T09:00:21Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 台積電正在擴大日本在其全球網路中的作用，準備在熊本增加 3 奈米生產，並深化當地在先進封裝、晶片設計和下一代圖像感測器方面的能力。
-- [原文連結](https://www.digitimes.com/news/a20260807VL221/tsmc-japan-kumamoto-3nm-fab-packaging.html)
-
----
-
-### ⚖️ 研究顯示，長江儲存首次躋身 NAND 三大製造商行列，人工智慧伺服器吞併全快閃 48%，中國廠商佔有 14% 份額
-- **題材**: `HBM記憶體` | **重要性**: `62`
-- **來源**: Tom's Hardware UK (2026-08-12T12:35:44Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 三星以 25% 的份額領先，SK 海力士以 22% 緊隨其後，美光躋身前五名。
-- [原文連結](https://www.tomshardware.com/tech-industry/ymtc-breaks-into-the-top-three-nand-makers-for-the-first-time)
 
 ---
 
