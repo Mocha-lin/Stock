@@ -1,7 +1,7 @@
 {
   "id": "6781",
   "name": "AES-KY",
-  "lastUpdated": "2026-08-14 16:08:48",
+  "lastUpdated": "2026-08-15 15:24:05",
   "basicInfo": {
     "price": "1120.00",
     "change": "-5.00",
@@ -639,6 +639,14 @@
     ],
     "chips_table": [
       {
+        "date": "2026-08-14",
+        "foreign_lots": 15.054,
+        "it_lots": 0.0,
+        "dealer_lots": -5.992,
+        "sum_lots": 9.062000000000001,
+        "pct_float": 0.0010608905767816922
+      },
+      {
         "date": "2026-08-13",
         "foreign_lots": 9.415,
         "it_lots": -0.14,
@@ -749,14 +757,6 @@
         "dealer_lots": -5.649,
         "sum_lots": -32.829,
         "pct_float": -0.0038432991332118926
-      },
-      {
-        "date": "2026-07-24",
-        "foreign_lots": -85.161,
-        "it_lots": 0.0,
-        "dealer_lots": -0.835,
-        "sum_lots": -85.996,
-        "pct_float": -0.0100675729464708
       }
     ],
     "c_score_data": {
@@ -764,7 +764,7 @@
       "dataset": "structure_c_score",
       "stock_id": "6781",
       "ticker": "6781.TW",
-      "asof": "2026-08-13",
+      "asof": "2026-08-14",
       "c_score": 0.9230867261422134,
       "benchmark_pe": 115.52871148459384,
       "source": [
@@ -1051,8 +1051,8 @@
     "returns_table": [
       {
         "year": 2026,
-        "return_pct": -12.019101477890072,
-        "period": "01/02~08/13"
+        "return_pct": -12.410127693543894,
+        "period": "01/02~08/14"
       },
       {
         "year": 2025,
@@ -1071,7 +1071,7 @@
       },
       {
         "year": 2022,
-        "return_pct": -66.36825774945738,
+        "return_pct": -66.36825544223083,
         "period": "01/03~12/30"
       }
     ],
@@ -4475,7 +4475,7 @@
         "high": 1140.0,
         "low": 1115.0,
         "close": 1120.0,
-        "volume": 492321.0,
+        "volume": 457584.0,
         "adjclose": 1120.0,
         "dividends": 0.0,
         "MA5": 1152.0,
@@ -4487,7 +4487,7 @@
         "DIF": 19.39460472669361,
         "DEA": -3.5468387126533387,
         "HIST": 45.88288687869391,
-        "volume_lot": 492.321
+        "volume_lot": 457.584
       }
     ],
     "valuation": {

@@ -1,7 +1,7 @@
 {
   "id": "3450",
   "name": "聯鈞",
-  "lastUpdated": "2026-08-14 16:08:48",
+  "lastUpdated": "2026-08-15 15:24:05",
   "basicInfo": {
     "price": "510.00",
     "change": "-17.00",
@@ -562,10 +562,10 @@
       {
         "period": "2026Q2",
         "deadline": "2026-08-14",
-        "price_basis": "asof往前3日(暫代)",
-        "avg_close_3d": 502.5,
+        "price_basis": "公告後3日",
+        "avg_close_3d": 510.0,
         "ttm_eps": 4.92,
-        "pe": 102.13414634146342
+        "pe": 103.65853658536585
       },
       {
         "period": "2026Q1",
@@ -634,6 +634,14 @@
       }
     ],
     "chips_table": [
+      {
+        "date": "2026-08-14",
+        "foreign_lots": 156.631,
+        "it_lots": 0.0,
+        "dealer_lots": 104.376,
+        "sum_lots": 261.007,
+        "pct_float": 0.017916288558457016
+      },
       {
         "date": "2026-08-13",
         "foreign_lots": 845.0,
@@ -745,14 +753,6 @@
         "dealer_lots": 25.814,
         "sum_lots": 297.81800000000004,
         "pct_float": 0.020443103924042468
-      },
-      {
-        "date": "2026-07-24",
-        "foreign_lots": -3421.124,
-        "it_lots": 814.0,
-        "dealer_lots": -63.339,
-        "sum_lots": -2670.4629999999997,
-        "pct_float": -0.18330843882609582
       }
     ],
     "c_score_data": {
@@ -760,7 +760,7 @@
       "dataset": "structure_c_score",
       "stock_id": "3450",
       "ticker": "3450.TW",
-      "asof": "2026-08-13",
+      "asof": "2026-08-14",
       "c_score": 1.8612289948760348,
       "benchmark_pe": 121.64910990231013,
       "source": [
@@ -1059,8 +1059,8 @@
     "returns_table": [
       {
         "year": 2026,
-        "return_pct": 93.42753021336272,
-        "period": "01/02~08/13"
+        "return_pct": 87.18793246454455,
+        "period": "01/02~08/14"
       },
       {
         "year": 2025,
@@ -4480,7 +4480,7 @@
         "high": 516.0,
         "low": 491.0,
         "close": 510.0,
-        "volume": 1404286.0,
+        "volume": 1336391.0,
         "adjclose": 510.0,
         "dividends": 0.0,
         "MA5": 508.3,
@@ -4492,7 +4492,7 @@
         "DIF": 10.43575243209267,
         "DEA": -2.6859681746532384,
         "HIST": 26.243441213491817,
-        "volume_lot": 1404.286
+        "volume_lot": 1336.391
       }
     ],
     "valuation": {

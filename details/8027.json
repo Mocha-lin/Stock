@@ -1,7 +1,7 @@
 {
   "id": "8027",
   "name": "鈦昇",
-  "lastUpdated": "2026-08-14 16:08:48",
+  "lastUpdated": "2026-08-15 15:24:05",
   "basicInfo": {
     "price": "186.50",
     "change": "-3.50",
@@ -557,10 +557,10 @@
       {
         "period": "2026Q2",
         "deadline": "2026-08-14",
-        "price_basis": "asof往前3日(暫代)",
-        "avg_close_3d": 187.83333333333334,
+        "price_basis": "公告後3日",
+        "avg_close_3d": 186.5,
         "ttm_eps": 0.32000000000000006,
-        "pe": 586.9791666666666
+        "pe": 582.8124999999999
       },
       {
         "period": "2026Q1",
@@ -629,6 +629,14 @@
       }
     ],
     "chips_table": [
+      {
+        "date": "2026-08-14",
+        "foreign_lots": 180.789,
+        "it_lots": 0.0,
+        "dealer_lots": -2.753,
+        "sum_lots": 178.036,
+        "pct_float": 0.015831501518805444
+      },
       {
         "date": "2026-08-13",
         "foreign_lots": 90.095,
@@ -740,14 +748,6 @@
         "dealer_lots": 15.158,
         "sum_lots": 36.108,
         "pct_float": 0.0032108329598565847
-      },
-      {
-        "date": "2026-07-24",
-        "foreign_lots": 36.0,
-        "it_lots": 0.0,
-        "dealer_lots": -9.625,
-        "sum_lots": 26.375,
-        "pct_float": 0.002345345056946312
       }
     ],
     "c_score_data": {
@@ -755,7 +755,7 @@
       "dataset": "structure_c_score",
       "stock_id": "8027",
       "ticker": "8027.TWO",
-      "asof": "2026-08-13",
+      "asof": "2026-08-14",
       "c_score": 3.2326155557147986,
       "benchmark_pe": 113.7445184222439,
       "source": [
@@ -1054,8 +1054,8 @@
     "returns_table": [
       {
         "year": 2026,
-        "return_pct": 68.14159292035397,
-        "period": "01/02~08/13"
+        "return_pct": 65.04424778761062,
+        "period": "01/02~08/14"
       },
       {
         "year": 2025,
@@ -4482,7 +4482,7 @@
         "high": 191.0,
         "low": 183.5,
         "close": 186.5,
-        "volume": 1768159.0,
+        "volume": 1707503.0,
         "adjclose": 186.5,
         "dividends": 0.0,
         "MA5": 186.4,
@@ -4494,7 +4494,7 @@
         "DIF": -8.792447006279247,
         "DEA": -12.27908038369614,
         "HIST": 6.973266754833787,
-        "volume_lot": 1768.159
+        "volume_lot": 1707.503
       }
     ],
     "valuation": {

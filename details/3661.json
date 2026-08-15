@@ -1,7 +1,7 @@
 {
   "id": "3661",
   "name": "世芯-KY",
-  "lastUpdated": "2026-08-14 16:08:48",
+  "lastUpdated": "2026-08-15 15:24:05",
   "basicInfo": {
     "price": "4210.00",
     "change": "20.00",
@@ -649,6 +649,14 @@
     ],
     "chips_table": [
       {
+        "date": "2026-08-14",
+        "foreign_lots": 745.987,
+        "it_lots": -277.014,
+        "dealer_lots": 70.12100000000001,
+        "sum_lots": 539.0939999999999,
+        "pct_float": 0.06611891971447494
+      },
+      {
         "date": "2026-08-13",
         "foreign_lots": 627.569,
         "it_lots": -281.014,
@@ -759,14 +767,6 @@
         "dealer_lots": 12.201,
         "sum_lots": 77.471,
         "pct_float": 0.009501680280619129
-      },
-      {
-        "date": "2026-07-24",
-        "foreign_lots": -137.301,
-        "it_lots": -43.0,
-        "dealer_lots": -13.009,
-        "sum_lots": -193.31,
-        "pct_float": -0.023709127480560258
       }
     ],
     "c_score_data": {
@@ -774,7 +774,7 @@
       "dataset": "structure_c_score",
       "stock_id": "3661",
       "ticker": "3661.TW",
-      "asof": "2026-08-13",
+      "asof": "2026-08-14",
       "c_score": 1.0686559249970073,
       "benchmark_pe": 146.002197265625,
       "source": [
@@ -1061,8 +1061,8 @@
     "returns_table": [
       {
         "year": 2026,
-        "return_pct": 15.26822558459422,
-        "period": "01/02~08/13"
+        "return_pct": 15.81843191196699,
+        "period": "01/02~08/14"
       },
       {
         "year": 2025,
@@ -4478,7 +4478,7 @@
         "high": 4530.0,
         "low": 4180.0,
         "close": 4210.0,
-        "volume": 3587212.0,
+        "volume": 3280920.0,
         "adjclose": 4210.0,
         "dividends": 0.0,
         "MA5": 4042.0,
@@ -4490,7 +4490,7 @@
         "DIF": 57.65019059742281,
         "DEA": -78.69471437581963,
         "HIST": 272.68980994648484,
-        "volume_lot": 3587.212
+        "volume_lot": 3280.92
       }
     ],
     "valuation": {

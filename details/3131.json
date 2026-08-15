@@ -1,7 +1,7 @@
 {
   "id": "3131",
   "name": "弘塑",
-  "lastUpdated": "2026-08-14 16:08:48",
+  "lastUpdated": "2026-08-15 15:24:05",
   "basicInfo": {
     "price": "2535.00",
     "change": "-100.00",
@@ -566,10 +566,10 @@
       {
         "period": "2026Q2",
         "deadline": "2026-08-14",
-        "price_basis": "asof往前3日(暫代)",
-        "avg_close_3d": 2526.6666666666665,
+        "price_basis": "公告後3日",
+        "avg_close_3d": 2535.0,
         "ttm_eps": 56.98,
-        "pe": 44.34304434304434
+        "pe": 44.489294489294494
       },
       {
         "period": "2026Q1",
@@ -638,6 +638,14 @@
       }
     ],
     "chips_table": [
+      {
+        "date": "2026-08-14",
+        "foreign_lots": -148.674,
+        "it_lots": 22.962,
+        "dealer_lots": -14.637,
+        "sum_lots": -140.349,
+        "pct_float": -0.04704709100417007
+      },
       {
         "date": "2026-08-13",
         "foreign_lots": -258.017,
@@ -749,14 +757,6 @@
         "dealer_lots": -11.296,
         "sum_lots": -68.33,
         "pct_float": -0.022905241421847973
-      },
-      {
-        "date": "2026-07-24",
-        "foreign_lots": 75.623,
-        "it_lots": -154.0,
-        "dealer_lots": -2.508,
-        "sum_lots": -80.88499999999999,
-        "pct_float": -0.027113865833545633
       }
     ],
     "c_score_data": {
@@ -764,7 +764,7 @@
       "dataset": "structure_c_score",
       "stock_id": "3131",
       "ticker": "3131.TWO",
-      "asof": "2026-08-13",
+      "asof": "2026-08-14",
       "c_score": 1.6073275448314484,
       "benchmark_pe": 77.77338207258492,
       "source": [
@@ -1063,8 +1063,8 @@
     "returns_table": [
       {
         "year": 2026,
-        "return_pct": 67.19607898723385,
-        "period": "01/02~08/13"
+        "return_pct": 60.85087674862915,
+        "period": "01/02~08/14"
       },
       {
         "year": 2025,
@@ -4490,7 +4490,7 @@
         "high": 2675.0,
         "low": 2535.0,
         "close": 2535.0,
-        "volume": 578499.0,
+        "volume": 530130.0,
         "adjclose": 2535.0,
         "dividends": 0.0,
         "MA5": 2517.0,
@@ -4502,7 +4502,7 @@
         "DIF": -160.45243753040722,
         "DEA": -196.6377430354997,
         "HIST": 72.37061101018497,
-        "volume_lot": 578.499
+        "volume_lot": 530.13
       }
     ],
     "valuation": {

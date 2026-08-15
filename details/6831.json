@@ -1,7 +1,7 @@
 {
   "id": "6831",
   "name": "邁科",
-  "lastUpdated": "2026-08-14 16:08:48",
+  "lastUpdated": "2026-08-15 15:24:05",
   "basicInfo": {
     "price": "683.00",
     "change": "5.00",
@@ -417,10 +417,10 @@
       {
         "period": "2026Q2",
         "deadline": "2026-08-14",
-        "price_basis": "asof往前3日(暫代)",
-        "avg_close_3d": 657.6666666666666,
+        "price_basis": "公告後3日",
+        "avg_close_3d": 683.0,
         "ttm_eps": 5.95,
-        "pe": 110.53221288515405
+        "pe": 114.78991596638654
       },
       {
         "period": "2026Q1",
@@ -489,6 +489,14 @@
       }
     ],
     "chips_table": [
+      {
+        "date": "2026-08-14",
+        "foreign_lots": 60.655,
+        "it_lots": 0.0,
+        "dealer_lots": 0.8600000000000001,
+        "sum_lots": 61.515,
+        "pct_float": 0.009113333333333333
+      },
       {
         "date": "2026-08-13",
         "foreign_lots": -99.866,
@@ -600,21 +608,13 @@
         "dealer_lots": 9.5,
         "sum_lots": -172.159,
         "pct_float": -0.025505037037037038
-      },
-      {
-        "date": "2026-07-24",
-        "foreign_lots": -16.857,
-        "it_lots": 0.0,
-        "dealer_lots": -0.8,
-        "sum_lots": -17.657,
-        "pct_float": -0.002615851851851852
       }
     ],
     "returns_table": [
       {
         "year": 2026,
-        "return_pct": 135.12379538062422,
-        "period": "01/02~08/13"
+        "return_pct": 136.85774667399167,
+        "period": "01/02~08/14"
       },
       {
         "year": 2025,
@@ -633,7 +633,7 @@
       },
       {
         "year": 2022,
-        "return_pct": -24.18031938575853,
+        "return_pct": -24.18032134851307,
         "period": "01/03~12/30"
       }
     ],
@@ -642,7 +642,7 @@
       "dataset": "structure_c_score",
       "stock_id": "6831",
       "ticker": "6831.TW",
-      "asof": "2026-08-13",
+      "asof": "2026-08-14",
       "c_score": 1.0,
       "benchmark_pe": 48.99948176775297,
       "source": [
@@ -3480,7 +3480,7 @@
         "high": 699.0,
         "low": 669.0,
         "close": 683.0,
-        "volume": 712929.0,
+        "volume": 691237.0,
         "adjclose": 683.0,
         "dividends": 0.0,
         "splits": 0.0,
@@ -3493,7 +3493,7 @@
         "DIF": -11.493260303060538,
         "DEA": -28.929408449837503,
         "HIST": 34.87229629355393,
-        "volume_lot": 712.929
+        "volume_lot": 691.237
       }
     ]
   }

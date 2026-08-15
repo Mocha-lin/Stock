@@ -1,7 +1,7 @@
 {
   "id": "4768",
   "name": "晶呈科技",
-  "lastUpdated": "2026-08-14 16:08:48",
+  "lastUpdated": "2026-08-15 15:24:05",
   "basicInfo": {
     "price": "298.00",
     "change": "-27.50",
@@ -495,8 +495,8 @@
       {
         "period": "2026Q2",
         "deadline": "2026-08-14",
-        "price_basis": "asof往前3日(暫代)",
-        "avg_close_3d": 320.6666666666667,
+        "price_basis": "公告後3日",
+        "avg_close_3d": 298.0,
         "ttm_eps": -0.6199999999999999,
         "pe": null
       },
@@ -567,6 +567,14 @@
       }
     ],
     "chips_table": [
+      {
+        "date": "2026-08-14",
+        "foreign_lots": -156.568,
+        "it_lots": 0.0,
+        "dealer_lots": -1.35,
+        "sum_lots": -157.918,
+        "pct_float": -0.032762934593632394
+      },
       {
         "date": "2026-08-13",
         "foreign_lots": 52.0,
@@ -678,21 +686,13 @@
         "dealer_lots": 0.481,
         "sum_lots": -89.479,
         "pct_float": -0.018564030854643757
-      },
-      {
-        "date": "2026-07-24",
-        "foreign_lots": -111.0,
-        "it_lots": 0.0,
-        "dealer_lots": 2.775,
-        "sum_lots": -108.225,
-        "pct_float": -0.022453226335160434
       }
     ],
     "returns_table": [
       {
         "year": 2026,
-        "return_pct": -16.64532650448144,
-        "period": "01/02~08/13"
+        "return_pct": -23.68758002560819,
+        "period": "01/02~08/14"
       },
       {
         "year": 2025,
@@ -720,7 +720,7 @@
       "dataset": "structure_c_score",
       "stock_id": "4768",
       "ticker": "4768.TWO",
-      "asof": "2026-08-13",
+      "asof": "2026-08-14",
       "c_score": 8.336709167184457,
       "benchmark_pe": 128.48486059562586,
       "source": [
@@ -3642,7 +3642,7 @@
         "high": 328.0,
         "low": 296.5,
         "close": 298.0,
-        "volume": 500508.0,
+        "volume": 463036.0,
         "adjclose": 298.0,
         "dividends": 0.0,
         "splits": 0.0,
@@ -3655,7 +3655,7 @@
         "DIF": -9.087832654203908,
         "DEA": -15.064818290305764,
         "HIST": 11.953971272203711,
-        "volume_lot": 500.508
+        "volume_lot": 463.036
       }
     ]
   }

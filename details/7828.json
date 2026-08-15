@@ -1,7 +1,7 @@
 {
   "id": "7828",
   "name": "創新服務",
-  "lastUpdated": "2026-08-14 16:08:48",
+  "lastUpdated": "2026-08-15 15:24:05",
   "basicInfo": {
     "price": "1720.00",
     "change": "-155.00",
@@ -365,10 +365,10 @@
       {
         "period": "2026Q2",
         "deadline": "2026-08-14",
-        "price_basis": "asof往前3日(暫代)",
-        "avg_close_3d": 1746.6666666666667,
+        "price_basis": "公告後3日",
+        "avg_close_3d": 1720.0,
         "ttm_eps": 10.71,
-        "pe": 163.08745720510427
+        "pe": 160.59757236227824
       },
       {
         "period": "2026Q1",
@@ -397,6 +397,14 @@
       }
     ],
     "chips_table": [
+      {
+        "date": "2026-08-14",
+        "foreign_lots": -51.262,
+        "it_lots": 1.0,
+        "dealer_lots": -1.597,
+        "sum_lots": -51.859,
+        "pct_float": -0.012806620256384295
+      },
       {
         "date": "2026-08-13",
         "foreign_lots": 65.232,
@@ -508,21 +516,13 @@
         "dealer_lots": -1.0,
         "sum_lots": 84.012,
         "pct_float": 0.020746828534668183
-      },
-      {
-        "date": "2026-07-24",
-        "foreign_lots": -34.76,
-        "it_lots": 0.0,
-        "dealer_lots": 0.0,
-        "sum_lots": -34.76,
-        "pct_float": -0.008584008949496097
       }
     ],
     "returns_table": [
       {
         "year": 2026,
-        "return_pct": 249.4872196551066,
-        "period": "01/02~08/13"
+        "return_pct": 220.5962761636178,
+        "period": "01/02~08/14"
       },
       {
         "year": 2025,
@@ -535,7 +535,7 @@
       "dataset": "structure_c_score",
       "stock_id": "7828",
       "ticker": "7828.TWO",
-      "asof": "2026-08-13",
+      "asof": "2026-08-14",
       "c_score": 1.0,
       "benchmark_pe": 82.16608632809934,
       "source": [
@@ -3170,7 +3170,7 @@
         "high": 1875.0,
         "low": 1720.0,
         "close": 1720.0,
-        "volume": 268683.0,
+        "volume": 220287.0,
         "adjclose": 1720.0,
         "dividends": 0.0,
         "MA5": 1723.0,
@@ -3182,7 +3182,7 @@
         "DIF": -27.535975366545244,
         "DEA": -59.179772746764826,
         "HIST": 63.28759476043916,
-        "volume_lot": 268.683
+        "volume_lot": 220.287
       }
     ]
   }
