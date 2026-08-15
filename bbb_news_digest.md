@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-15T13:20:44.701416+00:00
+> 更新時間：2026-08-15T15:08:19.630167+00:00
 
 ### 🚀 Qisda 將人工智慧基礎設施視為成長最快的商機
 - **題材**: `光通訊與矽光子` | **重要性**: `93`
@@ -16,6 +16,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重大事件】可能顯著影響產業評價、EPS預期或資金流向。
 - **摘要**: LandMark OptoElectronics Corp. 報告稱，受矽光子產品強勁需求和出貨量增加的推動，2026 年第二季營收、利潤率和利潤大幅成長。這家光通訊外延晶圓製造商也表示…
 - [原文連結](https://www.digitimes.com/news/a20260813PD205/profit-silicon-revenue-photonics-2026.html)
+
+---
+
+### 🚀 這家市值 5.2 兆美元的公司剛剛向華爾街追加 5,000 億美元
+- **題材**: `AI伺服器` | **重要性**: `80`
+- **來源**: 24/7 Wall St. (2026-08-14T15:00:33Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: NVIDIA 剛剛動員了 5000 億美元的外部資本來保證 AI 基礎設施的持續建設，而信貸市場的反應則...
+- [原文連結](https://247wallst.com/investing/2026/08/14/the-5-2-trillion-company-just-asked-wall-street-for-500-billion-more/)
 
 ---
 
@@ -73,15 +82,6 @@
 
 ---
 
-### ⚖️ Nvidia doubles RTX PRO 6000 Blackwell's MSRP to a staggering $16,000 — 96GB card started pre-orders below $8,000 last year
-- **題材**: `AI伺服器` | **重要性**: `72`
-- **來源**: Tom's Hardware UK (2026-08-12T15:53:19Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 由於前所未有的資料中心擴建所帶來的人工智慧熱潮，資料中心 GPU 變得更加昂貴——令人震驚。 Nvidia 的 RTX 6000 Pro Blackwell 現在的價格是去年推出時的兩倍，比之前貴了 20%…
-- [原文連結](https://www.tomshardware.com/pc-components/gpus/nvidia-doubles-rtx-pro-6000-blackwells-msrp-to-a-staggering-usd16-000-96gb-card-started-pre-orders-below-usd8-000-last-year)
-
----
-
 ### ⚖️ Arista 表示，409.6T 交換器可以推動產業走向 CPO
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
 - **來源**: Digitimes (2026-08-13T02:01:33Z)
@@ -127,24 +127,6 @@
 
 ---
 
-### 🚀 Google Pixel 11 Pro Fold 與三星 Galaxy Z Fold 8 Ultra：並不像你想像的那麼簡單
-- **題材**: `半導體先進製程` | **重要性**: `65`
-- **來源**: Android Central (2026-08-12T14:11:28Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Pixel 11 Pro Fold 比 Galaxy Z Fold 8 Ultra 更重，電池更小，而且相機也沒有那麼好。對三星來說，這是一場輕鬆的勝利嗎？並不真地。
-- [原文連結](https://www.androidcentral.com/phones/google-pixel/google-pixel-11-pro-fold-vs-samsung-galaxy-z-fold-8-ultra)
-
----
-
-### 🚀 Pixel 11系列來了，但Google保留了Pro型號的重大升級
-- **題材**: `半導體先進製程` | **重要性**: `65`
-- **來源**: Android Central (2026-08-12T14:00:00Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Pixel 11 系列正式發布，配備更亮的顯示器、新相機和 Tensor G6，但價格更高，並且僅對基本型號進行了適度升級。
-- [原文連結](https://www.androidcentral.com/phones/google-pixel/the-pixel-11-series-is-here-but-google-saved-the-big-upgrades-for-the-pro-models)
-
----
-
 ### 🚀 Lumentum 第​​四季度財報電話會議亮點
 - **題材**: `光通訊與矽光子` | **重要性**: `65`
 - **來源**: MarketBeat (2026-08-11T23:04:11Z)
@@ -178,12 +160,31 @@
 
 ---
 
-### ⚖️ SK海力士斥資380億美元興建兩座新晶片工廠
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: TechSpot (2026-08-08T14:37:00Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: SK 海力士剛剛宣布一項大規模新投資，以增強其 DRAM 和 NAND 快閃記憶體產品的製造能力。這家韓國公司是與三星和美光並列的全球三大內存製造商之一，將花費…
-- [原文連結](https://www.techspot.com/news/113403-sk-hynix-spending-38-billion-build-two-new.html)
+### ⚠️ 川普宣布對許多無人機和所有飛機零件徵收 100% 關稅
+- **題材**: `總體風險` | **重要性**: `63`
+- **來源**: The Verge (2026-08-14T01:06:15Z)
+- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: The United States has already banned future foreign drones from entering the United States unless their companies kiss the ring - as well as routers, robots, and Roombas. Now, President Donald Trump is targeting existing drone imports and aircraft parts, too.…
+- [原文連結](https://www.theverge.com/policy/979977/trump-declares-100-percent-tariffs-on-many-drones-and-all-aircraft-parts)
+
+---
+
+### ⚖️ Nvidia 將 RTX Pro 6000 Blackwell 價格提高至 16,000 美元，是發行價的兩倍多
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: Ghacks Technology News (2026-08-14T06:20:15Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Nvidia 將 RTX Pro 6000 96GB Blackwell 工作站 GPU 的價格提高至 16,000 美元，比預購價 7,600 美元上漲了 110%。
+感謝您成為 Ghacks 的讀者。 Nvidia 將 RTX Pro 6000 Blackwell 價格提高至 16,000 美元，是其價格的兩倍多...
+- [原文連結](https://www.ghacks.net/2026/08/14/nvidia-raises-rtx-pro-6000-blackwell-price-to-16000-more-than-double-its-launch-price/)
+
+---
+
+### 🚀 Streamers Are Telling Twitch How Much They Hate That Generative AI Training Is Opt-Out By Default
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: Kotaku (2026-08-13T21:29:44Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 'They know we don't want it, they do not care'
+- [原文連結](https://kotaku.com/twitch-gen-ai-opt-out-streamer-backlash-2000724227)
 
 ---
 

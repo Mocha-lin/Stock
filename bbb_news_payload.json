@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-08-15T13:20:44.701416+00:00",
+  "generated_at": "2026-08-15T15:08:19.630167+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 72,
@@ -80,6 +80,44 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【重大事件】可能顯著影響產業評價、EPS預期或資金流向。"
+    },
+    {
+      "id": "aae0e65fffdf606f",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "這家市值 5.2 兆美元的公司剛剛向華爾街追加 5,000 億美元",
+      "summary": "NVIDIA 剛剛動員了 5000 億美元的外部資本來保證 AI 基礎設施的持續建設，而信貸市場的反應則...",
+      "original_title": "The $5.2 Trillion Company Just Asked Wall Street for $500 Billion More",
+      "url": "https://247wallst.com/investing/2026/08/14/the-5-2-trillion-company-just-asked-wall-street-for-500-billion-more/",
+      "source": "24/7 Wall St.",
+      "domain": "247wallst.com",
+      "published_at": "2026-08-14T15:00:33Z",
+      "importance": 80,
+      "impact": "positive",
+      "timeframe": "short_to_mid_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "10f638699656fbd5",
@@ -307,44 +345,6 @@
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
-      "id": "3506b17b752dd137",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Nvidia doubles RTX PRO 6000 Blackwell's MSRP to a staggering $16,000 — 96GB card started pre-orders below $8,000 last year",
-      "summary": "由於前所未有的資料中心擴建所帶來的人工智慧熱潮，資料中心 GPU 變得更加昂貴——令人震驚。 Nvidia 的 RTX 6000 Pro Blackwell 現在的價格是去年推出時的兩倍，比之前貴了 20%…",
-      "original_title": "Nvidia doubles RTX PRO 6000 Blackwell's MSRP to a staggering $16,000 — 96GB card started pre-orders below $8,000 last year",
-      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-doubles-rtx-pro-6000-blackwells-msrp-to-a-staggering-usd16-000-96gb-card-started-pre-orders-below-usd8-000-last-year",
-      "source": "Tom's Hardware UK",
-      "domain": "tomshardware.com",
-      "published_at": "2026-08-12T15:53:19Z",
-      "importance": 72,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
       "id": "1ae660dd0774adcb",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -532,82 +532,6 @@
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "2633e05d1705b146",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "Google Pixel 11 Pro Fold 與三星 Galaxy Z Fold 8 Ultra：並不像你想像的那麼簡單",
-      "summary": "Pixel 11 Pro Fold 比 Galaxy Z Fold 8 Ultra 更重，電池更小，而且相機也沒有那麼好。對三星來說，這是一場輕鬆的勝利嗎？並不真地。",
-      "original_title": "Google Pixel 11 Pro Fold vs. Samsung Galaxy Z Fold 8 Ultra: Not as straightforward as you think",
-      "url": "https://www.androidcentral.com/phones/google-pixel/google-pixel-11-pro-fold-vs-samsung-galaxy-z-fold-8-ultra",
-      "source": "Android Central",
-      "domain": "androidcentral.com",
-      "published_at": "2026-08-12T14:11:28Z",
-      "importance": 65,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "c28271fcf83da9fe",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "Pixel 11系列來了，但Google保留了Pro型號的重大升級",
-      "summary": "Pixel 11 系列正式發布，配備更亮的顯示器、新相機和 Tensor G6，但價格更高，並且僅對基本型號進行了適度升級。",
-      "original_title": "The Pixel 11 series is here, but Google saved the big upgrades for the Pro models",
-      "url": "https://www.androidcentral.com/phones/google-pixel/the-pixel-11-series-is-here-but-google-saved-the-big-upgrades-for-the-pro-models",
-      "source": "Android Central",
-      "domain": "androidcentral.com",
-      "published_at": "2026-08-12T14:00:00Z",
-      "importance": 65,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "be2a61bd8b4aaecc",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -717,41 +641,6 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "35ef2b536b88a6c9",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "SK海力士斥資380億美元興建兩座新晶片工廠",
-      "summary": "SK 海力士剛剛宣布一項大規模新投資，以增強其 DRAM 和 NAND 快閃記憶體產品的製造能力。這家韓國公司是與三星和美光並列的全球三大內存製造商之一，將花費…",
-      "original_title": "SK Hynix is spending $38 billion to build two new chip fabs",
-      "url": "https://www.techspot.com/news/113403-sk-hynix-spending-38-billion-build-two-new.html",
-      "source": "TechSpot",
-      "domain": "techspot.com",
-      "published_at": "2026-08-08T14:37:00Z",
-      "importance": 65,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "2b39dba17672c670",
@@ -944,32 +833,32 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "3ceaa438fee9e228",
+      "id": "2633e05d1705b146",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "人工智慧伺服器指引井噴，超微上漲 13%，戴爾上漲 5%，HPE 上漲 3%",
-      "summary": "",
-      "original_title": "Super Micro Advances 13%, Dell Gains 5%, HPE Rises 3% on Blowout AI Server Guidance",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a8b592d4-a799-4072-a93b-5a21c00f8822",
-      "source": "Yahoo Entertainment",
-      "domain": "consent.yahoo.com",
-      "published_at": "2026-08-12T14:06:10Z",
+      "theme": "半導體先進製程",
+      "title": "Google Pixel 11 Pro Fold 與三星 Galaxy Z Fold 8 Ultra：並不像你想像的那麼簡單",
+      "summary": "Pixel 11 Pro Fold 比 Galaxy Z Fold 8 Ultra 更重，電池更小，而且相機也沒有那麼好。對三星來說，這是一場輕鬆的勝利嗎？並不真地。",
+      "original_title": "Google Pixel 11 Pro Fold vs. Samsung Galaxy Z Fold 8 Ultra: Not as straightforward as you think",
+      "url": "https://www.androidcentral.com/phones/google-pixel/google-pixel-11-pro-fold-vs-samsung-galaxy-z-fold-8-ultra",
+      "source": "Android Central",
+      "domain": "androidcentral.com",
+      "published_at": "2026-08-12T14:11:28Z",
       "importance": 60,
-      "impact": "neutral",
+      "impact": "positive",
       "timeframe": "short_term",
       "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
+        "半導體",
+        "CoWoS",
+        "先進製程"
       ],
       "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
       ],
       "related_models": [
         "003",
@@ -979,35 +868,35 @@
         "009",
         "010"
       ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "7812aed2a900cd74",
+      "id": "c28271fcf83da9fe",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "超微計算機股票上漲，獲利與前景最高預期",
-      "summary": "在人工智慧伺服器製造商超微電腦的利潤超出預期後，該公司的股價正在飆升。",
-      "original_title": "Super Micro Computer Stock Rallies as Profits, Outlook Top Estimates",
-      "url": "https://www.investopedia.com/market-update-super-micro-computer-stock-rallies-as-profits-outlook-top-estimates-smci-12057918",
-      "source": "Investopedia",
-      "domain": "investopedia.com",
-      "published_at": "2026-08-12T14:02:21Z",
+      "theme": "半導體先進製程",
+      "title": "Pixel 11系列來了，但Google保留了Pro型號的重大升級",
+      "summary": "Pixel 11 系列正式發布，配備更亮的顯示器、新相機和 Tensor G6，但價格更高，並且僅對基本型號進行了適度升級。",
+      "original_title": "The Pixel 11 series is here, but Google saved the big upgrades for the Pro models",
+      "url": "https://www.androidcentral.com/phones/google-pixel/the-pixel-11-series-is-here-but-google-saved-the-big-upgrades-for-the-pro-models",
+      "source": "Android Central",
+      "domain": "androidcentral.com",
+      "published_at": "2026-08-12T14:00:00Z",
       "importance": 60,
-      "impact": "neutral",
+      "impact": "positive",
       "timeframe": "short_term",
       "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
+        "半導體",
+        "CoWoS",
+        "先進製程"
       ],
       "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
       ],
       "related_models": [
         "003",
@@ -1017,7 +906,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "0a388e5fffd4dc8e",
@@ -1031,6 +920,41 @@
       "source": "Etf.com",
       "domain": "etf.com",
       "published_at": "2026-08-10T20:15:22Z",
+      "importance": 60,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "35ef2b536b88a6c9",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "SK海力士斥資380億美元興建兩座新晶片工廠",
+      "summary": "SK 海力士剛剛宣布一項大規模新投資，以增強其 DRAM 和 NAND 快閃記憶體產品的製造能力。這家韓國公司是與三星和美光並列的全球三大內存製造商之一，將花費…",
+      "original_title": "SK Hynix is spending $38 billion to build two new chip fabs",
+      "url": "https://www.techspot.com/news/113403-sk-hynix-spending-38-billion-build-two-new.html",
+      "source": "TechSpot",
+      "domain": "techspot.com",
+      "published_at": "2026-08-08T14:37:00Z",
       "importance": 60,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -1088,6 +1012,44 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "bf49b8d175f96c29",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "歐洲最大的五家公司剛剛購買了米斯特拉爾尚未建造的計算設備",
+      "summary": "Mistral set out the plan on 11 August. Its own announcement covers three things at once. Regional endpoints are now generally available, letting customers pick Europe or the US for inference. A Priority Tier in public preview adds custom rate limits and an up…",
+      "original_title": "Five of Europe’s biggest companies just bought compute Mistral has not built",
+      "url": "https://thenextweb.com/news/mistral-data-centre-buildout-asml-compute-units",
+      "source": "The Next Web",
+      "domain": "thenextweb.com",
+      "published_at": "2026-08-14T14:35:38Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "441813c8907c5a2c",
@@ -1240,44 +1202,6 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "cd140baa437313a2",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "卡迪夫城旨在證明懷疑者是錯的",
-      "summary": "Boss Brian Barry-Murphy says Cardiff City aims to disprove pundits who have dismissed them as possible relegation candidates in 2026-27",
-      "original_title": "Cardiff aim to prove doubters wrong - Barry-Murphy",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq56pxld8xyo",
-      "source": "BBC News",
-      "domain": "bbc.co.uk",
-      "published_at": "2026-08-13T17:08:27Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "7fab0b11cac041c6",
@@ -1541,6 +1465,82 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "3ceaa438fee9e228",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "人工智慧伺服器指引井噴，超微上漲 13%，戴爾上漲 5%，HPE 上漲 3%",
+      "summary": "",
+      "original_title": "Super Micro Advances 13%, Dell Gains 5%, HPE Rises 3% on Blowout AI Server Guidance",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a8b592d4-a799-4072-a93b-5a21c00f8822",
+      "source": "Yahoo Entertainment",
+      "domain": "consent.yahoo.com",
+      "published_at": "2026-08-12T14:06:10Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "7812aed2a900cd74",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "超微計算機股票上漲，獲利與前景最高預期",
+      "summary": "在人工智慧伺服器製造商超微電腦的利潤超出預期後，該公司的股價正在飆升。",
+      "original_title": "Super Micro Computer Stock Rallies as Profits, Outlook Top Estimates",
+      "url": "https://www.investopedia.com/market-update-super-micro-computer-stock-rallies-as-profits-outlook-top-estimates-smci-12057918",
+      "source": "Investopedia",
+      "domain": "investopedia.com",
+      "published_at": "2026-08-12T14:02:21Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "5682d8287429aba8",
@@ -2586,44 +2586,6 @@
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "ccbf2c7f963966d1",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "這就是蘋果跳過 M6 Pro 和 M6 Max 晶片以加速 M7 發布的原因",
-      "summary": "根據彭博社報道，蘋果將跳過 M6 Pro、M6 Max 和 M6 Ultra 晶片，轉而加速 M7 晶片的開發。這意味著 M6 系列中發布的唯一晶片將是基礎版 M6。原因如下。",
-      "original_title": "Here’s why Apple is skipping its M6 Pro and M6 Max chips to accelerate M7 launch",
-      "url": "https://9to5mac.com/2026/08/08/apple-m7-chip-heres-why-it-matters-ai/",
-      "source": "9to5Mac",
-      "domain": "9to5mac.com",
-      "published_at": "2026-08-08T14:21:00Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "47bed999b7bc896f",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2660,6 +2622,44 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "ccbf2c7f963966d1",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "這就是蘋果跳過 M6 Pro 和 M6 Max 晶片以加速 M7 發布的原因",
+      "summary": "根據彭博社報道，蘋果將跳過 M6 Pro、M6 Max 和 M6 Ultra 晶片，轉而加速 M7 晶片的開發。這意味著 M6 系列中發布的唯一晶片將是基礎版 M6。原因如下。",
+      "original_title": "Here’s why Apple is skipping its M6 Pro and M6 Max chips to accelerate M7 launch",
+      "url": "https://9to5mac.com/2026/08/08/apple-m7-chip-heres-why-it-matters-ai/",
+      "source": "9to5Mac",
+      "domain": "9to5mac.com",
+      "published_at": "2026-08-08T14:21:00Z",
+      "importance": 45,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     },
     {
       "id": "fd6362f3f392d8ca",
