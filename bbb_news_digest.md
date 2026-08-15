@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-15T15:08:19.630167+00:00
+> 更新時間：2026-08-15T17:09:59.519585+00:00
 
 ### 🚀 Qisda 將人工智慧基礎設施視為成長最快的商機
 - **題材**: `光通訊與矽光子` | **重要性**: `93`
@@ -169,6 +169,15 @@
 
 ---
 
+### ⚠️ 川普宣稱你仍然可以購買的少數無人機將花費更多
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Gizmodo.com (2026-08-14T16:00:58Z)
+- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 美國決心阻止您購買消費級無人機。
+- [原文連結](https://gizmodo.com/trump-declares-the-few-drones-you-can-still-buy-will-cost-25-more-2000798698)
+
+---
+
 ### ⚖️ Nvidia 將 RTX Pro 6000 Blackwell 價格提高至 16,000 美元，是發行價的兩倍多
 - **題材**: `AI伺服器` | **重要性**: `60`
 - **來源**: Ghacks Technology News (2026-08-14T06:20:15Z)
@@ -176,15 +185,6 @@
 - **摘要**: Nvidia 將 RTX Pro 6000 96GB Blackwell 工作站 GPU 的價格提高至 16,000 美元，比預購價 7,600 美元上漲了 110%。
 感謝您成為 Ghacks 的讀者。 Nvidia 將 RTX Pro 6000 Blackwell 價格提高至 16,000 美元，是其價格的兩倍多...
 - [原文連結](https://www.ghacks.net/2026/08/14/nvidia-raises-rtx-pro-6000-blackwell-price-to-16000-more-than-double-its-launch-price/)
-
----
-
-### 🚀 Streamers Are Telling Twitch How Much They Hate That Generative AI Training Is Opt-Out By Default
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: Kotaku (2026-08-13T21:29:44Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 'They know we don't want it, they do not care'
-- [原文連結](https://kotaku.com/twitch-gen-ai-opt-out-streamer-backlash-2000724227)
 
 ---
 
