@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-15T09:25:32.005830+00:00
+> 更新時間：2026-08-15T13:20:44.701416+00:00
 
 ### 🚀 Qisda 將人工智慧基礎設施視為成長最快的商機
 - **題材**: `光通訊與矽光子` | **重要性**: `93`
@@ -82,15 +82,6 @@
 
 ---
 
-### ⚖️ 光學互連和矽光子如何成為人工智慧的下一個熱門商品——即將舉行的中美峰會將光子學置於十字準線
-- **題材**: `光通訊與矽光子` | **重要性**: `72`
-- **來源**: Tom's Hardware UK (2026-08-12T12:42:23Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 美國希望中國的光收發器退出未來的人工智慧資料中心，但中國目前在快速發展的光子供應鏈中的主導地位可能會使禁令變得複雜
-- [原文連結](https://www.tomshardware.com/tech-industry/photonics/how-optical-interconnects-and-silicon-photonics-emerged-as-ais-next-hot-commodity-looming-us-china-summit-puts-photonics-into-the-crosshairs)
-
----
-
 ### ⚖️ Arista 表示，409.6T 交換器可以推動產業走向 CPO
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
 - **來源**: Digitimes (2026-08-13T02:01:33Z)
@@ -115,6 +106,15 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: SK 海力士正面臨與 MonolithIC 3D 不斷擴大的美國專利糾紛。美國國際貿易委員會 (USITC) 的第二項調查涵蓋高頻寬記憶體 (HBM) 和 3D NAND 產品，以及聯邦法院的平行訴訟。
 - [原文連結](https://www.digitimes.com/news/a20260810VL205/sk-hynix-3d-patent-nand-hbm.html)
+
+---
+
+### ⚖️ 光學互連和矽光子如何成為人工智慧的下一個熱門商品——即將舉行的中美峰會將光子學置於十字準線
+- **題材**: `光通訊與矽光子` | **重要性**: `67`
+- **來源**: Tom's Hardware UK (2026-08-12T12:42:23Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 美國希望中國的光收發器退出未來的人工智慧資料中心，但中國目前在快速發展的光子供應鏈中的主導地位可能會使禁令變得複雜
+- [原文連結](https://www.tomshardware.com/tech-industry/photonics/how-optical-interconnects-and-silicon-photonics-emerged-as-ais-next-hot-commodity-looming-us-china-summit-puts-photonics-into-the-crosshairs)
 
 ---
 
