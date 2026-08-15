@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-15T19:11:57.063972+00:00
+> 更新時間：2026-08-15T23:19:36.368001+00:00
 
 ### 🚀 Qisda 將人工智慧基礎設施視為成長最快的商機
 - **題材**: `光通訊與矽光子` | **重要性**: `93`
@@ -25,6 +25,15 @@
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: NVIDIA 剛剛動員了 5000 億美元的外部資本來保證 AI 基礎設施的持續建設，而信貸市場的反應則...
 - [原文連結](https://247wallst.com/investing/2026/08/14/the-5-2-trillion-company-just-asked-wall-street-for-500-billion-more/)
+
+---
+
+### ⚖️ Asia Vital Components 看到人工智慧伺服器需求更強勁，液冷採用速度更快
+- **題材**: `AI伺服器` | **重要性**: `78`
+- **來源**: Digitimes (2026-08-14T22:53:01Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Asia Vital Components 預計下半年全球人工智慧伺服器需求將增強，液體冷卻的採用將變得更加普遍，這一轉變將對全球資料中心營運商和供應商產生影響。該公司看到 A 的出貨量增加...
+- [原文連結](https://www.digitimes.com/news/a20260813PD220/avc-ai-server-liquid-cooling-demand-adoption.html)
 
 ---
 
@@ -175,16 +184,6 @@
 - **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 美國決心阻止您購買消費級無人機。
 - [原文連結](https://gizmodo.com/trump-declares-the-few-drones-you-can-still-buy-will-cost-25-more-2000798698)
-
----
-
-### ⚖️ Nvidia 將 RTX Pro 6000 Blackwell 價格提高至 16,000 美元，是發行價的兩倍多
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: Ghacks Technology News (2026-08-14T06:20:15Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Nvidia 將 RTX Pro 6000 96GB Blackwell 工作站 GPU 的價格提高至 16,000 美元，比預購價 7,600 美元上漲了 110%。
-感謝您成為 Ghacks 的讀者。 Nvidia 將 RTX Pro 6000 Blackwell 價格提高至 16,000 美元，是其價格的兩倍多...
-- [原文連結](https://www.ghacks.net/2026/08/14/nvidia-raises-rtx-pro-6000-blackwell-price-to-16000-more-than-double-its-launch-price/)
 
 ---
 
