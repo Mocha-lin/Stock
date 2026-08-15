@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-15T05:47:53.303714+00:00
+> 更新時間：2026-08-15T09:25:32.005830+00:00
 
 ### 🚀 Qisda 將人工智慧基礎設施視為成長最快的商機
 - **題材**: `光通訊與矽光子` | **重要性**: `93`
@@ -34,15 +34,6 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 隨著 HBM4 設備訂單反彈，以及 Hanmi 與美光不斷增長的業務有助於減少其對 SK Hynix 的依賴，韓國 Hanmi Semiconductor 在高頻寬內存 (HBM) 熱壓 (TC) 鍵合機方面領先於競爭對手 Hanwha Semitech。
 - [原文連結](https://www.digitimes.com/news/a20260813VL208/hbm4-hanwha-hanmi-sk-hynix-equipment.html)
-
----
-
-### ⚠️ 台積電解決 CoWoS 材料風險，同時將 3DIC 開發週期縮短至一年
-- **題材**: `半導體先進製程` | **重要性**: `78`
-- **來源**: Digitimes (2026-08-12T00:02:58Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 人工智慧運算需求正在迅速增加晶片整合的複雜性，使先進封裝競爭從單一組件性能轉向跨封裝、PCB、系統甚至機架級基礎設施的可靠性和驗證。
-- [原文連結](https://www.digitimes.com/news/a20260811PD250/development-tsmc-demand-cowos-packaging.html)
 
 ---
 
@@ -97,15 +88,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 美國希望中國的光收發器退出未來的人工智慧資料中心，但中國目前在快速發展的光子供應鏈中的主導地位可能會使禁令變得複雜
 - [原文連結](https://www.tomshardware.com/tech-industry/photonics/how-optical-interconnects-and-silicon-photonics-emerged-as-ais-next-hot-commodity-looming-us-china-summit-puts-photonics-into-the-crosshairs)
-
----
-
-### 🚀 Supermicro 2026 財年第四季獲利：利潤率飆升，2027 財年指引超出預期
-- **題材**: `AI伺服器` | **重要性**: `70`
-- **來源**: Quartz India (2026-08-11T20:51:45Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: The AI server maker projects $65 billion to $72 billion in fiscal 2027 revenue, well above the $54.4 billion analysts had expected
-- [原文連結](https://qz.com/supermicro-fiscal-2027-revenue-guidance-margins-earnings-081126)
 
 ---
 
@@ -184,6 +166,24 @@
 
 郭在一篇較長的文章中對最近的一份報告發表了評論，該報告暗示台積電有價值 10 億美元的未封裝處理器在等著我…
 - [原文連結](https://www.macrumors.com/2026/08/10/apple-cutting-2026-hardware-shipments/)
+
+---
+
+### 🚀 蘋果可能會廢棄其全玻璃 iPhone。自從史蒂夫賈伯斯去世以來，華爾街從未如此驚慌
+- **題材**: `HBM記憶體` | **重要性**: `65`
+- **來源**: Yahoo Entertainment (2026-08-10T18:19:42Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 投資公司 Jefferies 週一將蘋果的評級從持有下調至表現不佳，並將目標股價從 285.56 美元下調至 263.66 美元。
+- [原文連結](https://finance.yahoo.com/markets/stocks/articles/apple-may-scrap-glass-iphone-181942240.html)
+
+---
+
+### ⚖️ SK海力士斥資380億美元興建兩座新晶片工廠
+- **題材**: `HBM記憶體` | **重要性**: `65`
+- **來源**: TechSpot (2026-08-08T14:37:00Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: SK 海力士剛剛宣布一項大規模新投資，以增強其 DRAM 和 NAND 快閃記憶體產品的製造能力。這家韓國公司是與三星和美光並列的全球三大內存製造商之一，將花費…
+- [原文連結](https://www.techspot.com/news/113403-sk-hynix-spending-38-billion-build-two-new.html)
 
 ---
 
