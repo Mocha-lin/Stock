@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-16T03:25:00.095454+00:00
+> 更新時間：2026-08-16T04:05:30.365292+00:00
 
 ### 🚀 Qisda 將人工智慧基礎設施視為成長最快的商機
 - **題材**: `光通訊與矽光子` | **重要性**: `93`
@@ -46,15 +46,6 @@
 
 ---
 
-### 🚀 Hanmi pulls ahead of Hanwha as HBM4 orders rebound
-- **題材**: `HBM記憶體` | **重要性**: `78`
-- **來源**: Digitimes (2026-08-13T03:51:21Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 隨著 HBM4 設備訂單反彈，以及 Hanmi 與美光不斷增長的業務有助於減少其對 SK Hynix 的依賴，韓國 Hanmi Semiconductor 在高頻寬內存 (HBM) 熱壓 (TC) 鍵合機方面領先於競爭對手 Hanwha Semitech。
-- [原文連結](https://www.digitimes.com/news/a20260813VL208/hbm4-hanwha-hanmi-sk-hynix-equipment.html)
-
----
-
 ### 🚀 光通訊需求反彈，EOC 1H26扭虧為盈
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
 - **來源**: Digitimes (2026-08-11T08:30:00Z)
@@ -79,6 +70,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: LandMark OptoElectronics表示，其矽光子（SiPh）產品的需求極為強勁，隨著下游代工廠產能持續增加，預計未來幾季產量將持續成長。光通信外延片…
 - [原文連結](https://www.digitimes.com/news/a20260813PD231/siph-laser-capacity-demand.html)
+
+---
+
+### 🚀 Hanmi pulls ahead of Hanwha as HBM4 orders rebound
+- **題材**: `HBM記憶體` | **重要性**: `73`
+- **來源**: Digitimes (2026-08-13T03:51:21Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 隨著 HBM4 設備訂單反彈，以及 Hanmi 與美光不斷增長的業務有助於減少其對 SK Hynix 的依賴，韓國 Hanmi Semiconductor 在高頻寬內存 (HBM) 熱壓 (TC) 鍵合機方面領先於競爭對手 Hanwha Semitech。
+- [原文連結](https://www.digitimes.com/news/a20260813VL208/hbm4-hanwha-hanmi-sk-hynix-equipment.html)
 
 ---
 
