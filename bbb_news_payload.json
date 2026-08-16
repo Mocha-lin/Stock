@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-08-16T05:50:33.615485+00:00",
+  "generated_at": "2026-08-16T09:26:27.078818+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 72,
@@ -17,7 +17,7 @@
       "source": "Digitimes",
       "domain": "digitimes.com",
       "published_at": "2026-08-13T07:15:00Z",
-      "importance": 93,
+      "importance": 88,
       "impact": "positive",
       "timeframe": "short_to_mid_term",
       "tags": [
@@ -55,7 +55,7 @@
       "source": "Digitimes",
       "domain": "digitimes.com",
       "published_at": "2026-08-13T07:04:32Z",
-      "importance": 88,
+      "importance": 83,
       "impact": "positive",
       "timeframe": "short_to_mid_term",
       "tags": [
@@ -79,7 +79,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「光通訊與矽光子」題材之偏多消息。【重大事件】可能顯著影響產業評價、EPS預期或資金流向。"
+      "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "aae0e65fffdf606f",
@@ -752,6 +752,44 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "1c44a055eebdc984",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "應用光電 (AAOI) 預計下週公佈業務更新",
+      "summary": "應用光電公司（納斯達克股票代碼：AAOI）週五股價上漲 15.53%，收於每股 150.28 美元，因為投資者開始配置該公司的股票。",
+      "original_title": "Applied Optoelectronics (AAOI) Expected to Announce Business Updates Next Week",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/applied-optoelectronics-aaoi-expected-announce-033623370.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-08-15T03:36:23Z",
+      "importance": 60,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "ccecb001d8d70f47",
@@ -1543,82 +1581,6 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "9064660cee14055c",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "原油價格下跌抵消了地緣政治的不安情緒，歐洲股市小幅上漲",
-      "summary": "8月13日（路透）",
-      "original_title": "European shares inch up as lower crude offsets geopolitical unease",
-      "url": "https://finance.yahoo.com/markets/world-indices/articles/european-shares-inch-lower-crude-071956648.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-08-13T07:19:56Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "dd5bc9762da1c420",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "Coherent, Inc. 2026 年第四季財報電話會議摘要",
-      "summary": "Moby summary of Coherent, Inc.'s Q4 2026 earnings call",
-      "original_title": "Coherent, Inc. Q4 2026 Earnings Call Summary",
-      "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-coherent-inc-q4-2026-earnings-call-summary?utm_source=yahoo_finance&amp;utm_medium=rss",
-      "source": "Moby.co",
-      "domain": "app.moby.co",
-      "published_at": "2026-08-13T01:04:51Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "3ceaa438fee9e228",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2099,6 +2061,44 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "9064660cee14055c",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "原油價格下跌抵消了地緣政治的不安情緒，歐洲股市小幅上漲",
+      "summary": "8月13日（路透）",
+      "original_title": "European shares inch up as lower crude offsets geopolitical unease",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/european-shares-inch-lower-crude-071956648.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-08-13T07:19:56Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "d0a024d222c22687",
