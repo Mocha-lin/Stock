@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-08-16T17:09:32.678471+00:00",
+  "generated_at": "2026-08-16T19:11:34.936381+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 72,
@@ -1128,6 +1128,44 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "c5e5a8eec9ea04c4",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "LG’s humanoid robot arrives in 2027, running Nvidia’s Isaac GR00T",
+      "summary": "LG 將於 2027 年第一季推出一款雙足人形機器人，該機器人基於 Nvidia 的 Jetson Thor 處理器、Isaac GR00T 基礎模型和 Halos 安全系統構建。兩人於 8 月 13 日在英偉達聖克拉拉總部簽署了協議。 LG 將會展示...",
+      "original_title": "LG’s humanoid robot arrives in 2027, running Nvidia’s Isaac GR00T",
+      "url": "https://thenextweb.com/news/lg-nvidia-humanoid-robot-2027-isaac-groot",
+      "source": "The Next Web",
+      "domain": "thenextweb.com",
+      "published_at": "2026-08-15T17:28:39Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "5949ab12691b3985",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1356,82 +1394,6 @@
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "1d187f239a4d6e45",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "基米K3是什麼？ 2026 年完整開發者指南",
-      "summary": "近日，Moonshot AI 發表了 Kimi K3。在本指南中，我們將介紹 Kimi K3 規格、提供者以及如何將其與 OpenCode 結合使用。",
-      "original_title": "What Is Kimi K3? A Complete Developer Guide for 2026",
-      "url": "https://www.firecrawl.dev/blog/kimi-k3",
-      "source": "Firecrawl.dev",
-      "domain": "firecrawl.dev",
-      "published_at": "2026-08-13T18:39:52Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "7776bc37d80f4f1d",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "畢竟Google的新 Pixel 11 晶片可能不是 2nm",
-      "summary": "傳言似乎幾乎可以肯定 Tensor G6 將採用 2nm 晶片，但新的採訪稱谷歌再次採用 3nm 晶片。",
-      "original_title": "Google’s new Pixel 11 chip might not be 2nm, after all",
-      "url": "https://www.androidauthority.com/tensor-g6-3nm-3698349/",
-      "source": "Android Authority",
-      "domain": "androidauthority.com",
-      "published_at": "2026-08-13T17:25:57Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "c74ef70f2e5d509c",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1443,44 +1405,6 @@
       "source": "The Next Web",
       "domain": "thenextweb.com",
       "published_at": "2026-08-13T12:24:26Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "3ceaa438fee9e228",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "AI 伺服器指引井噴，超微股價上漲 13%，戴爾上漲 5%，HPE 上漲 3%",
-      "summary": "",
-      "original_title": "Super Micro Advances 13%, Dell Gains 5%, HPE Rises 3% on Blowout AI Server Guidance",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a8b592d4-a799-4072-a93b-5a21c00f8822",
-      "source": "Yahoo Entertainment",
-      "domain": "consent.yahoo.com",
-      "published_at": "2026-08-12T14:06:10Z",
       "importance": 55,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -1915,6 +1839,82 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "1d187f239a4d6e45",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "基米K3是什麼？ 2026 年完整開發者指南",
+      "summary": "近日，Moonshot AI 發表了 Kimi K3。在本指南中，我們將介紹 Kimi K3 規格、提供者以及如何將其與 OpenCode 結合使用。",
+      "original_title": "What Is Kimi K3? A Complete Developer Guide for 2026",
+      "url": "https://www.firecrawl.dev/blog/kimi-k3",
+      "source": "Firecrawl.dev",
+      "domain": "firecrawl.dev",
+      "published_at": "2026-08-13T18:39:52Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "7776bc37d80f4f1d",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "畢竟Google的新 Pixel 11 晶片可能不是 2nm",
+      "summary": "傳言似乎幾乎可以肯定 Tensor G6 將採用 2nm 晶片，但新的採訪稱谷歌再次採用 3nm 晶片。",
+      "original_title": "Google’s new Pixel 11 chip might not be 2nm, after all",
+      "url": "https://www.androidauthority.com/tensor-g6-3nm-3698349/",
+      "source": "Android Authority",
+      "domain": "androidauthority.com",
+      "published_at": "2026-08-13T17:25:57Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "7fab0b11cac041c6",
