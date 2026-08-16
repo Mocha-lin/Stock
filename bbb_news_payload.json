@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-08-15T23:19:36.368001+00:00",
+  "generated_at": "2026-08-16T02:15:59.036509+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 72,
@@ -269,6 +269,41 @@
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
+      "id": "821b91b826abe24d",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "SK 海力士透過新的全球成長團隊超越記憶",
+      "summary": "SK海力士成立了一個專門團隊來尋找核心記憶體業務之外的成長機會，並任命了一名高級集團高管負責，此舉旨在將公司在高頻寬記憶體（HBM）領域的領先地位轉變為在人工智慧基礎設施領域發揮更廣泛的作用。",
+      "original_title": "SK Hynix looks beyond memory with new global growth team",
+      "url": "https://www.digitimes.com/news/a20260814VL209/sk-hynix-growth-business-hbm-investment.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-08-14T03:02:26Z",
+      "importance": 73,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
       "id": "299a98665dae84db",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -381,44 +416,6 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
-      "id": "1ae660dd0774adcb",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "Arista 表示，409.6T 交換器可以推動產業走向 CPO",
-      "summary": "共封裝光學元件（CPO）已成為光網路產業的主要焦點，但可插拔模組仍是光互連的主流選擇。在 2026 年 OCP 亞太峰會期間的矽光子論壇上，小組成員表示供應商幾乎沒有…",
-      "original_title": "409.6T switches could push industry toward CPO, Arista says",
-      "url": "https://www.digitimes.com/news/a20260813PD224/cpo-optics-adoption-photonics-switch.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-08-13T02:01:33Z",
-      "importance": 68,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "77beae21a163046d",
@@ -719,6 +716,44 @@
       "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "1ae660dd0774adcb",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "Arista 表示，409.6T 交換器可以推動產業走向 CPO",
+      "summary": "共封裝光學元件（CPO）已成為光網路產業的主要焦點，但可插拔模組仍是光互連的主流選擇。在 2026 年 OCP 亞太峰會期間的矽光子論壇上，小組成員表示供應商幾乎沒有…",
+      "original_title": "409.6T switches could push industry toward CPO, Arista says",
+      "url": "https://www.digitimes.com/news/a20260813PD224/cpo-optics-adoption-photonics-switch.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-08-13T02:01:33Z",
+      "importance": 63,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "ccecb001d8d70f47",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -871,44 +906,6 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "dd5bc9762da1c420",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "Coherent, Inc. 2026 年第四季財報電話會議摘要",
-      "summary": "Moby summary of Coherent, Inc.'s Q4 2026 earnings call",
-      "original_title": "Coherent, Inc. Q4 2026 Earnings Call Summary",
-      "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-coherent-inc-q4-2026-earnings-call-summary?utm_source=yahoo_finance&amp;utm_medium=rss",
-      "source": "Moby.co",
-      "domain": "app.moby.co",
-      "published_at": "2026-08-13T01:04:51Z",
-      "importance": 60,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "2633e05d1705b146",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1020,41 +1017,6 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "35ef2b536b88a6c9",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "SK海力士斥資380億美元興建兩座新晶片工廠",
-      "summary": "SK 海力士剛剛宣布一項大規模新投資，以增強其 DRAM 和 NAND 快閃記憶體產品的製造能力。這家韓國公司是與三星和美光並列的全球三大內存製造商之一，將花費…",
-      "original_title": "SK Hynix is spending $38 billion to build two new chip fabs",
-      "url": "https://www.techspot.com/news/113403-sk-hynix-spending-38-billion-build-two-new.html",
-      "source": "TechSpot",
-      "domain": "techspot.com",
-      "published_at": "2026-08-08T14:37:00Z",
-      "importance": 60,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "a629f32994446e2b",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1126,6 +1088,44 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "34e3cd40bd7b141c",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "LLM 產生的 GPU 核心的合約級驗證器",
+      "summary": "使用語言模型產生 GPU 核心的系統報告了很高的正確率。這些速率來自單一鬆散測試：以一個固定形狀對一些隨機輸入運行內核，如果輸出接近參考值則接受它。核心可以通過...",
+      "original_title": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
+      "url": "https://arxiv.org/abs/2608.12700",
+      "source": "Arxiv.org",
+      "domain": "arxiv.org",
+      "published_at": "2026-08-14T16:57:14Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "62bee9f1ab6bc191",
@@ -1356,6 +1356,44 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "cd140baa437313a2",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "卡迪夫城旨在證明懷疑者是錯的",
+      "summary": "老闆布萊恩·巴里-墨菲表示，卡迪夫城的目標是反駁那些認為卡迪夫城可能是2026-27賽季降級候選人的專家。",
+      "original_title": "Cardiff aim to prove doubters wrong - Barry-Murphy",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq56pxld8xyo",
+      "source": "BBC News",
+      "domain": "bbc.co.uk",
+      "published_at": "2026-08-13T17:08:27Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "7fab0b11cac041c6",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1505,32 +1543,32 @@
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "d0a024d222c22687",
+      "id": "dd5bc9762da1c420",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "日本批發通膨持續高位，提振日本央行9月升息的可能性",
-      "summary": "作者：Leika Kihara 東京，8 月 13 日（路透社）",
-      "original_title": "Japan's wholesale inflation stays hot, bolstering odds of September BOJ hike",
-      "url": "https://finance.yahoo.com/economy/policy/articles/japans-wholesale-inflation-spikes-july-000616602.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-08-13T01:40:42Z",
+      "theme": "光通訊與矽光子",
+      "title": "Coherent, Inc. 2026 年第四季財報電話會議摘要",
+      "summary": "Moby summary of Coherent, Inc.'s Q4 2026 earnings call",
+      "original_title": "Coherent, Inc. Q4 2026 Earnings Call Summary",
+      "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-coherent-inc-q4-2026-earnings-call-summary?utm_source=yahoo_finance&amp;utm_medium=rss",
+      "source": "Moby.co",
+      "domain": "app.moby.co",
+      "published_at": "2026-08-13T01:04:51Z",
       "importance": 55,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
+        "光通訊",
+        "CPO",
+        "矽光子"
       ],
       "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
       ],
       "related_models": [
         "003",
@@ -1540,35 +1578,35 @@
         "009",
         "010"
       ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "c5909e4d5c3b3566",
+      "id": "3ceaa438fee9e228",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "美國通膨數據削弱聯準會九月升息預期，亞洲股市上漲",
-      "summary": "作者：Satoshi Sugiyama 東京，8 月 13 日（路透社）",
-      "original_title": "Asian stocks rise as US inflation data dents September Fed hike bets",
-      "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-rise-us-inflation-010444910.html",
+      "theme": "AI伺服器",
+      "title": "AI 伺服器指引井噴，超微股價上漲 13%，戴爾上漲 5%，HPE 上漲 3%",
+      "summary": "",
+      "original_title": "Super Micro Advances 13%, Dell Gains 5%, HPE Rises 3% on Blowout AI Server Guidance",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a8b592d4-a799-4072-a93b-5a21c00f8822",
       "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-08-13T01:04:44Z",
+      "domain": "consent.yahoo.com",
+      "published_at": "2026-08-12T14:06:10Z",
       "importance": 55,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
+        "AI",
+        "伺服器",
+        "資料中心"
       ],
       "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
       ],
       "related_models": [
         "003",
@@ -1578,7 +1616,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "7812aed2a900cd74",
@@ -2061,6 +2099,82 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "d0a024d222c22687",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "日本批發通膨持續高位，提振日本央行9月升息的可能性",
+      "summary": "作者：Leika Kihara 東京，8 月 13 日（路透社）",
+      "original_title": "Japan's wholesale inflation stays hot, bolstering odds of September BOJ hike",
+      "url": "https://finance.yahoo.com/economy/policy/articles/japans-wholesale-inflation-spikes-july-000616602.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-08-13T01:40:42Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "c5909e4d5c3b3566",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "美國通膨數據削弱聯準會九月升息預期，亞洲股市上漲",
+      "summary": "作者：Satoshi Sugiyama 東京，8 月 13 日（路透社）",
+      "original_title": "Asian stocks rise as US inflation data dents September Fed hike bets",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-rise-us-inflation-010444910.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-08-13T01:04:44Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "fa1009a31270428c",
@@ -2584,120 +2698,6 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "47bed999b7bc896f",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "隨著航班重新啟動，機場中斷陷入“混亂”",
-      "summary": "機場表示，航班在取消 14 小時後將重新啟動，但有延誤和改道。",
-      "original_title": "Airport disruption a 'shambles' as flights restart",
-      "url": "https://www.bbc.com/news/articles/c1k1lyg94w9o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "source": "BBC News",
-      "domain": "bbc.com",
-      "published_at": "2026-08-08T12:47:00Z",
-      "importance": 50,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "ccbf2c7f963966d1",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "這就是蘋果跳過 M6 Pro 和 M6 Max 晶片以加速 M7 發布的原因",
-      "summary": "根據彭博社報道，蘋果將跳過 M6 Pro、M6 Max 和 M6 Ultra 晶片，轉而加速 M7 晶片的開發。這意味著 M6 系列中發布的唯一晶片將是基礎版 M6。原因如下。",
-      "original_title": "Here’s why Apple is skipping its M6 Pro and M6 Max chips to accelerate M7 launch",
-      "url": "https://9to5mac.com/2026/08/08/apple-m7-chip-heres-why-it-matters-ai/",
-      "source": "9to5Mac",
-      "domain": "9to5mac.com",
-      "published_at": "2026-08-08T14:21:00Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "fd6362f3f392d8ca",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "亞美尼亞剛開設了該地區最大的人工智慧工廠。它的存在是因為華盛頓簽署了許可證。",
-      "summary": "總部位於美國的 AI 雲端公司 Firebird 於週六在亞美尼亞赫拉茲丹開設了 NVIDIA 稱為獨聯體地區最大的 AI 工廠。亞美尼亞總理尼科爾·帕辛揚、哈薩克斯坦副總理扎斯蘭·馬迪耶夫和大衛·艾倫出席…",
-      "original_title": "Armenia just opened the region’s biggest AI factory. It exists because Washington signed a licence.",
-      "url": "https://thenextweb.com/news/firebird-armenia-ai-factory-export-licence-compute-diplomacy",
-      "source": "The Next Web",
-      "domain": "thenextweb.com",
-      "published_at": "2026-08-08T12:21:11Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     }
   ]
 }
