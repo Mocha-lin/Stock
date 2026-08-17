@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-16T23:18:47.734248+00:00
+> 更新時間：2026-08-17T02:14:10.340817+00:00
 
 ### 🚀 Qisda 將人工智慧基礎設施視為成長最快的商機
 - **題材**: `光通訊與矽光子` | **重要性**: `88`
@@ -82,12 +82,12 @@
 
 ---
 
-### ⚖️ 每週新聞綜述：AI 基礎設施競賽涵蓋 HBM、DRAM、EMIB、光收發器和下一代光刻
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-08-10T01:42:06Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 人工智慧基礎設施、記憶體供應、先進封裝和中美技術限制主導了本週的行業議程。以下是 2026 年 8 月 3 日至 10 日這一週閱讀次數最多的 DIGITIMES 故事。
-- [原文連結](https://www.digitimes.com/news/a20260810VL200/weekly-news-roundup-asml-dram-hbm-infrastructure-packaging.html)
+### ⚖️ 基辛格稱 HBM“糟糕”，SK 海力士表示這不是記憶的最終答案
+- **題材**: `HBM記憶體` | **重要性**: `68`
+- **來源**: Digitimes (2026-08-14T22:53:33Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 高頻寬記憶體（HBM）是人工智慧半導體的核心組件，在英特爾前執行長 Pat Gelsinger（Pat Gelsinger）最近在巴黎舉行的人工智慧峰會上稱其「糟糕」後，它受到了新的審查。此類記憶體的市場領導者 SK 海力士也表示，它不是鰭...
+- [原文連結](https://www.digitimes.com/news/a20260814PD227/hbm-sk-hynix-pat-gelsinger-component-semiconductors.html)
 
 ---
 
@@ -106,6 +106,15 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: SK 海力士正面臨與 MonolithIC 3D 不斷擴大的美國專利糾紛。美國國際貿易委員會 (USITC) 的第二項調查涵蓋高頻寬記憶體 (HBM) 和 3D NAND 產品，以及聯邦法院的平行訴訟。
 - [原文連結](https://www.digitimes.com/news/a20260810VL205/sk-hynix-3d-patent-nand-hbm.html)
+
+---
+
+### ⚖️ 每週新聞綜述：AI 基礎設施競賽涵蓋 HBM、DRAM、EMIB、光收發器和下一代光刻
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-08-10T01:42:06Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 人工智慧基礎設施、記憶體供應、先進封裝和中美技術限制主導了本週的行業議程。以下是 2026 年 8 月 3 日至 10 日這一週閱讀次數最多的 DIGITIMES 故事。
+- [原文連結](https://www.digitimes.com/news/a20260810VL200/weekly-news-roundup-asml-dram-hbm-infrastructure-packaging.html)
 
 ---
 
@@ -157,15 +166,6 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 投資公司 Jefferies 週一將蘋果的評級從持有下調至表現不佳，並將目標股價從 285.56 美元下調至 263.66 美元。
 - [原文連結](https://finance.yahoo.com/markets/stocks/articles/apple-may-scrap-glass-iphone-181942240.html)
-
----
-
-### ⚠️ 川普宣布對許多無人機和所有飛機零件徵收 100% 關稅
-- **題材**: `總體風險` | **重要性**: `63`
-- **來源**: The Verge (2026-08-14T01:06:15Z)
-- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: The United States has already banned future foreign drones from entering the United States unless their companies kiss the ring - as well as routers, robots, and Roombas. Now, President Donald Trump is targeting existing drone imports and aircraft parts, too.…
-- [原文連結](https://www.theverge.com/policy/979977/trump-declares-100-percent-tariffs-on-many-drones-and-all-aircraft-parts)
 
 ---
 
