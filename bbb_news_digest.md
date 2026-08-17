@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-17T19:18:47.551007+00:00
+> 更新時間：2026-08-17T23:21:15.362384+00:00
 
 ### 🚀 Qisda 將人工智慧基礎設施視為成長最快的商機
 - **題材**: `光通訊與矽光子` | **重要性**: `88`
@@ -16,15 +16,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: LandMark OptoElectronics Corp. 報告稱，受矽光子產品強勁需求和出貨量增加的推動，2026 年第二季營收、利潤率和利潤大幅成長。這家光通訊外延晶圓製造商也表示…
 - [原文連結](https://www.digitimes.com/news/a20260813PD205/profit-silicon-revenue-photonics-2026.html)
-
----
-
-### ⚖️ Asia Vital Components 看到人工智慧伺服器需求更強勁，液冷採用速度更快
-- **題材**: `AI伺服器` | **重要性**: `78`
-- **來源**: Digitimes (2026-08-14T22:53:01Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Asia Vital Components 預計下半年全球人工智慧伺服器需求將增強，液體冷卻的採用將變得更加普遍，這一轉變將對全球資料中心營運商和供應商產生影響。該公司看到 A 的出貨量增加...
-- [原文連結](https://www.digitimes.com/news/a20260813PD220/avc-ai-server-liquid-cooling-demand-adoption.html)
 
 ---
 
@@ -55,21 +46,21 @@
 
 ---
 
+### ⚖️ Asia Vital Components 看到人工智慧伺服器需求更強勁，液冷採用速度更快
+- **題材**: `AI伺服器` | **重要性**: `73`
+- **來源**: Digitimes (2026-08-14T22:53:01Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Asia Vital Components 預計下半年全球人工智慧伺服器需求將增強，液體冷卻的採用將變得更加普遍，這一轉變將對全球資料中心營運商和供應商產生影響。該公司看到 A 的出貨量增加...
+- [原文連結](https://www.digitimes.com/news/a20260813PD220/avc-ai-server-liquid-cooling-demand-adoption.html)
+
+---
+
 ### 🚀 Hanmi pulls ahead of Hanwha as HBM4 orders rebound
 - **題材**: `HBM記憶體` | **重要性**: `73`
 - **來源**: Digitimes (2026-08-13T03:51:21Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 隨著 HBM4 設備訂單反彈，以及 Hanmi 與美光不斷增長的業務有助於減少其對 SK Hynix 的依賴，韓國 Hanmi Semiconductor 在高頻寬內存 (HBM) 熱壓 (TC) 鍵合機方面領先於競爭對手 Hanwha Semitech。
 - [原文連結](https://www.digitimes.com/news/a20260813VL208/hbm4-hanwha-hanmi-sk-hynix-equipment.html)
-
----
-
-### ⚖️ 基辛格稱 HBM“糟糕”，SK 海力士表示這不是記憶的最終答案
-- **題材**: `HBM記憶體` | **重要性**: `68`
-- **來源**: Digitimes (2026-08-14T22:53:33Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 高頻寬記憶體（HBM）是人工智慧半導體的核心組件，在英特爾前執行長 Pat Gelsinger（Pat Gelsinger）最近在巴黎舉行的人工智慧峰會上稱其「糟糕」後，它受到了新的審查。此類記憶體的市場領導者 SK 海力士也表示，它不是鰭...
-- [原文連結](https://www.digitimes.com/news/a20260814PD227/hbm-sk-hynix-pat-gelsinger-component-semiconductors.html)
 
 ---
 
@@ -88,15 +79,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: LandMark OptoElectronics表示，其矽光子（SiPh）產品的需求極為強勁，隨著下游代工廠產能持續增加，預計未來幾季產量將持續成長。光通信外延片…
 - [原文連結](https://www.digitimes.com/news/a20260813PD231/siph-laser-capacity-demand.html)
-
----
-
-### ⚖️ 台積電子公司 VisEra 透過 1.6T 矽光子擴展 AI 光學
-- **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-08-10T22:52:30Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 台積電旗下光元件供應商 VisEra 正在向 AI 光互連和矽光子領域拓展，其用於 800G 可插拔收發器的 MicroLens 產品已投入量產，其下一代 PIC 薄膜製程...
-- [原文連結](https://www.digitimes.com/news/a20260810PD234/visera-photonics-silicon-optics-production.html)
 
 ---
 
@@ -136,12 +118,30 @@
 
 ---
 
+### ⚖️ 基辛格稱 HBM“糟糕”，SK 海力士表示這不是記憶的最終答案
+- **題材**: `HBM記憶體` | **重要性**: `63`
+- **來源**: Digitimes (2026-08-14T22:53:33Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 高頻寬記憶體（HBM）是人工智慧半導體的核心組件，在英特爾前執行長 Pat Gelsinger（Pat Gelsinger）最近在巴黎舉行的人工智慧峰會上稱其「糟糕」後，它受到了新的審查。此類記憶體的市場領導者 SK 海力士也表示，它不是鰭...
+- [原文連結](https://www.digitimes.com/news/a20260814PD227/hbm-sk-hynix-pat-gelsinger-component-semiconductors.html)
+
+---
+
 ### ⚖️ Arista 表示，409.6T 交換器可以推動產業走向 CPO
 - **題材**: `光通訊與矽光子` | **重要性**: `63`
 - **來源**: Digitimes (2026-08-13T02:01:33Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 共封裝光學元件（CPO）已成為光網路產業的主要焦點，但可插拔模組仍是光互連的主流選擇。在 2026 年 OCP 亞太峰會期間的矽光子論壇上，小組成員表示供應商幾乎沒有…
 - [原文連結](https://www.digitimes.com/news/a20260813PD224/cpo-optics-adoption-photonics-switch.html)
+
+---
+
+### ⚖️ 台積電子公司 VisEra 透過 1.6T 矽光子擴展 AI 光學
+- **題材**: `光通訊與矽光子` | **重要性**: `63`
+- **來源**: Digitimes (2026-08-10T22:52:30Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 台積電旗下光元件供應商 VisEra 正在向 AI 光互連和矽光子領域拓展，其用於 800G 可插拔收發器的 MicroLens 產品已投入量產，其下一代 PIC 薄膜製程...
+- [原文連結](https://www.digitimes.com/news/a20260810PD234/visera-photonics-silicon-optics-production.html)
 
 ---
 
