@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-17T23:21:15.362384+00:00
+> 更新時間：2026-08-18T02:10:49.909750+00:00
 
 ### 🚀 Qisda 將人工智慧基礎設施視為成長最快的商機
 - **題材**: `光通訊與矽光子` | **重要性**: `88`
@@ -16,6 +16,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: LandMark OptoElectronics Corp. 報告稱，受矽光子產品強勁需求和出貨量增加的推動，2026 年第二季營收、利潤率和利潤大幅成長。這家光通訊外延晶圓製造商也表示…
 - [原文連結](https://www.digitimes.com/news/a20260813PD205/profit-silicon-revenue-photonics-2026.html)
+
+---
+
+### ⚠️ 台積電解決 CoWoS 材料風險，同時將 3DIC 開發週期縮短至一年
+- **題材**: `半導體先進製程` | **重要性**: `78`
+- **來源**: Digitimes (2026-08-12T00:02:58Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 人工智慧運算需求正在迅速增加晶片整合的複雜性，使先進封裝競爭從單一組件性能轉向跨封裝、PCB、系統甚至機架級基礎設施的可靠性和驗證。
+- [原文連結](https://www.digitimes.com/news/a20260811PD250/development-tsmc-demand-cowos-packaging.html)
 
 ---
 
@@ -55,12 +64,48 @@
 
 ---
 
+### 🚀 隨著 InP 限制的增加，GaAs 在短距離人工智慧光學領域取得進展
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-08-13T04:39:35Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 隨著人工智慧工作負載將資料中心互連從 800G 推向 1.6T，磷化銦 (InP) 已成為高速光鏈路（尤其是長距離傳輸）的關鍵材料。但晶體生長面臨挑戰、供應限制和高…
+- [原文連結](https://www.digitimes.com/news/a20260813PD227/gaas-inp-data-center-transmission-growth.html)
+
+---
+
 ### 🚀 Hanmi pulls ahead of Hanwha as HBM4 orders rebound
 - **題材**: `HBM記憶體` | **重要性**: `73`
 - **來源**: Digitimes (2026-08-13T03:51:21Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 隨著 HBM4 設備訂單反彈，以及 Hanmi 與美光不斷增長的業務有助於減少其對 SK Hynix 的依賴，韓國 Hanmi Semiconductor 在高頻寬內存 (HBM) 熱壓 (TC) 鍵合機方面領先於競爭對手 Hanwha Semitech。
 - [原文連結](https://www.digitimes.com/news/a20260813VL208/hbm4-hanwha-hanmi-sk-hynix-equipment.html)
+
+---
+
+### ⚖️ 三星HBM4良率接近80%，力壓競爭對手SK海力士
+- **題材**: `HBM記憶體` | **重要性**: `73`
+- **來源**: Digitimes (2026-08-12T01:55:00Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 據報道，三星電子第六代高頻寬記憶體HBM4的成品率已接近80%，自量產以來大幅提高，增強了其在數量和成本上與SK海力士競爭的能力。
+- [原文連結](https://www.digitimes.com/news/a20260812VL204/samsung-hbm4-sk-hynix-production-dram.html)
+
+---
+
+### 🚀 美光或閃迪在 9 月底之前是否能更好地實現上漲？
+- **題材**: `HBM記憶體` | **重要性**: `70`
+- **來源**: 24/7 Wall St. (2026-08-14T14:57:53Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Micron and Sandisk both just posted blowout memory quarters, but the two stocks face very different setups heading into late September. One looks like a high...
+- [原文連結](https://247wallst.com/investing/2026/08/14/is-micron-or-sandisk-better-poised-for-upside-through-the-end-of-september/)
+
+---
+
+### ⚖️ Kaynes Semicon 著眼於印度技術推廣中的光子學、量子安全和神經形態晶片
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-08-17T01:47:48Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Kaynes Semicon 執行長 Raghu Panicker 表示，隨著印度準備下一階段的半導體支援計劃，Kaynes Semicon 正在將矽光子 (SiPh) 和共封裝光學 (CPO)、後量子安全和神經形態計算視為潛在的擴張領域。
+- [原文連結](https://www.digitimes.com/news/a20260816VL200/kaynes-semicon-india-siph-cpo-chips-security.html)
 
 ---
 
@@ -82,12 +127,12 @@
 
 ---
 
-### ⚖️ 每週新聞綜述：AI 基礎設施競賽涵蓋 HBM、DRAM、EMIB、光收發器和下一代光刻
-- **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-08-10T01:42:06Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 人工智慧基礎設施、記憶體供應、先進封裝和中美技術限制主導了本週的行業議程。以下是 2026 年 8 月 3 日至 10 日這一週閱讀次數最多的 DIGITIMES 故事。
-- [原文連結](https://www.digitimes.com/news/a20260810VL200/weekly-news-roundup-asml-dram-hbm-infrastructure-packaging.html)
+### ⚖️ 台積電稱AI先進封裝進入系統級爭奪戰
+- **題材**: `半導體先進製程` | **重要性**: `68`
+- **來源**: Digitimes (2026-08-12T03:05:00Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 人工智慧運算需求正在迅速提高晶片整合的複雜性，推動先進封裝的競爭超越單一設備性能，進入封裝、電路板、系統甚至機架層級的整體可靠性和驗證。在2...
+- [原文連結](https://www.digitimes.com/news/a20260811PD258/packaging-tsmc-demand-design-development.html)
 
 ---
 
@@ -127,57 +172,12 @@
 
 ---
 
-### ⚖️ Arista 表示，409.6T 交換器可以推動產業走向 CPO
-- **題材**: `光通訊與矽光子` | **重要性**: `63`
-- **來源**: Digitimes (2026-08-13T02:01:33Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 共封裝光學元件（CPO）已成為光網路產業的主要焦點，但可插拔模組仍是光互連的主流選擇。在 2026 年 OCP 亞太峰會期間的矽光子論壇上，小組成員表示供應商幾乎沒有…
-- [原文連結](https://www.digitimes.com/news/a20260813PD224/cpo-optics-adoption-photonics-switch.html)
-
----
-
-### ⚖️ 台積電子公司 VisEra 透過 1.6T 矽光子擴展 AI 光學
-- **題材**: `光通訊與矽光子` | **重要性**: `63`
-- **來源**: Digitimes (2026-08-10T22:52:30Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 台積電旗下光元件供應商 VisEra 正在向 AI 光互連和矽光子領域拓展，其用於 800G 可插拔收發器的 MicroLens 產品已投入量產，其下一代 PIC 薄膜製程...
-- [原文連結](https://www.digitimes.com/news/a20260810PD234/visera-photonics-silicon-optics-production.html)
-
----
-
-### ⚠️ SK 海力士面臨美國 HBM、3D NAND 專利之爭
+### ⚖️ Rapidus targets 8-reticle interposers by 2030
 - **題材**: `HBM記憶體` | **重要性**: `63`
-- **來源**: Digitimes (2026-08-10T03:35:00Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: SK 海力士正面臨與 MonolithIC 3D 不斷擴大的美國專利糾紛。美國國際貿易委員會 (USITC) 的第二項調查涵蓋高頻寬記憶體 (HBM) 和 3D NAND 產品，以及聯邦法院的平行訴訟。
-- [原文連結](https://www.digitimes.com/news/a20260810VL205/sk-hynix-3d-patent-nand-hbm.html)
-
----
-
-### 🚀 責任止於其他地方：看看川普在事情出錯時避免受到指責的傾向
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-08-15T11:52:27Z)
-- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 問題纏身的林肯紀念堂倒影池改造？  伊朗戰爭日益不受歡迎，導致油價居高不下，川普的支持率...
-- [原文連結](https://www.yahoo.com/news/politics/articles/buck-stops-somewhere-else-look-115227385.html)
-
----
-
-### 🚀 應用光電 (AAOI) 預計下週公佈業務更新
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-08-15T03:36:23Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 應用光電公司（納斯達克股票代碼：AAOI）週五股價上漲 15.53%，收於每股 150.28 美元，因為投資者開始配置該公司的股票。
-- [原文連結](https://finance.yahoo.com/markets/stocks/articles/applied-optoelectronics-aaoi-expected-announce-033623370.html)
-
----
-
-### ⚖️ 伊朗更新：德黑蘭誓言將延長戰爭，直到川普下台
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Newsnationnow.com (2026-08-13T11:00:13Z)
-- **AI 判讀**: 屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 五角大廈的一項評估發現，美國的第一次封鎖使伊朗損失了約 48 億美元的石油收入。
-- [原文連結](https://www.newsnationnow.com/world/iran-vows-prolong-war-until-trump-leaves/)
+- **來源**: Digitimes (2026-08-13T23:30:23Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Rapidus 預計，隨著更大的小晶片和高頻寬記憶體 (HBM) 將先進封裝推向在傳統 300 毫米晶圓上製造效率越來越低的尺寸，高性能晶片的中介層將在 2030 年左右達到 8 掩模版規模。
+- [原文連結](https://www.digitimes.com/news/a20260813VL212/rapidus-panel-packaging-ocp-2030.html)
 
 ---
 
