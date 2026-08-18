@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-18T09:32:28.544335+00:00
+> 更新時間：2026-08-18T13:33:21.162298+00:00
 
 ### 🚀 Qisda 將人工智慧基礎設施視為成長最快的商機
 - **題材**: `光通訊與矽光子` | **重要性**: `88`
@@ -19,21 +19,21 @@
 
 ---
 
+### 🚀 根據新的預測，到 2030 年，人工智慧資料中心光學互連市場將達到 1,440 億美元，比 2024 年的數字增長十倍以上——在共同封裝光學元件的推動下，矽光子預計將佔收入的近三分之二
+- **題材**: `光通訊與矽光子` | **重要性**: `82`
+- **來源**: Tom's Hardware UK (2026-08-17T11:20:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: CIC的新預測預計，資料中心光互連市場將從2024年的137億美元成長到2030年的1,444億美元，其中矽光子佔營收的63.7%。
+- [原文連結](https://www.tomshardware.com/tech-industry/photonics/ai-data-center-optical-interconnect-market-to-hit-usd144-billion-by-2030-an-over-ten-fold-increase-from-2024-figures-according-to-new-projections-silicon-photonics-expected-to-account-for-nearly-two-thirds-of-revenue-driven-by-co-packaged-optics)
+
+---
+
 ### ⚠️ 台積電解決 CoWoS 材料風險，同時將 3DIC 開發週期縮短至一年
 - **題材**: `半導體先進製程` | **重要性**: `78`
 - **來源**: Digitimes (2026-08-12T00:02:58Z)
 - **AI 判讀**: 屬「半導體先進製程」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 人工智慧運算需求正在迅速增加晶片整合的複雜性，使先進封裝競爭從單一組件性能轉向跨封裝、PCB、系統甚至機架級基礎設施的可靠性和驗證。
 - [原文連結](https://www.digitimes.com/news/a20260811PD250/development-tsmc-demand-cowos-packaging.html)
-
----
-
-### 🚀 8 月份華爾街沉睡的 3 檔不為人知的晶片股
-- **題材**: `光通訊與矽光子` | **重要性**: `75`
-- **來源**: 24/7 Wall St. (2026-08-15T11:00:26Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 雖然華爾街湧入同樣的人工智慧巨頭，但真正的基礎設施建設貫穿大多數辦公桌很少接觸的專業晶片名稱，並且三...
-- [原文連結](https://247wallst.com/investing/2026/08/15/3-under-the-radar-chip-stocks-wall-street-is-sleeping-on-in-august/)
 
 ---
 
@@ -82,12 +82,12 @@
 
 ---
 
-### 🚀 美光或閃迪在 9 月底之前是否能更好地實現上漲？
-- **題材**: `HBM記憶體` | **重要性**: `70`
-- **來源**: 24/7 Wall St. (2026-08-14T14:57:53Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Micron and Sandisk both just posted blowout memory quarters, but the two stocks face very different setups heading into late September. One looks like a high...
-- [原文連結](https://247wallst.com/investing/2026/08/14/is-micron-or-sandisk-better-poised-for-upside-through-the-end-of-september/)
+### 🚀 8 月份華爾街沉睡的 3 檔不為人知的晶片股
+- **題材**: `光通訊與矽光子` | **重要性**: `70`
+- **來源**: 24/7 Wall St. (2026-08-15T11:00:26Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 雖然華爾街湧入同樣的人工智慧巨頭，但真正的基礎設施建設貫穿大多數辦公桌很少接觸的專業晶片名稱，並且三...
+- [原文連結](https://247wallst.com/investing/2026/08/15/3-under-the-radar-chip-stocks-wall-street-is-sleeping-on-in-august/)
 
 ---
 
@@ -145,6 +145,15 @@
 
 ---
 
+### ⚖️ 馬斯克 (Elon Musk) 的 5 個字聲明應該引起每個美光投資者的關注
+- **題材**: `HBM記憶體` | **重要性**: `65`
+- **來源**: 24/7 Wall St. (2026-08-17T10:39:57Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 當 Elon Musk 在現場財報電話會議上列出限制其人工智慧雄心的單一限制時，半導體供應鏈中的每個投資者都應該列出...
+- [原文連結](https://247wallst.com/investing/2026/08/17/elon-musks-5-word-statement-should-have-every-micron-investor-paying-attention/)
+
+---
+
 ### 🚀 Lumentum 第​​四季度財報電話會議亮點
 - **題材**: `光通訊與矽光子` | **重要性**: `65`
 - **來源**: MarketBeat (2026-08-11T23:04:11Z)
@@ -169,15 +178,6 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Rapidus 預計，隨著更大的小晶片和高頻寬記憶體 (HBM) 將先進封裝推向在傳統 300 毫米晶圓上製造效率越來越低的尺寸，高性能晶片的中介層將在 2030 年左右達到 8 掩模版規模。
 - [原文連結](https://www.digitimes.com/news/a20260813VL212/rapidus-panel-packaging-ocp-2030.html)
-
----
-
-### ⚖️ Arista 表示，409.6T 交換器可以推動產業走向 CPO
-- **題材**: `光通訊與矽光子` | **重要性**: `63`
-- **來源**: Digitimes (2026-08-13T02:01:33Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 共封裝光學元件（CPO）已成為光網路產業的主要焦點，但可插拔模組仍是光互連的主流選擇。在 2026 年 OCP 亞太峰會期間的矽光子論壇上，小組成員表示供應商幾乎沒有…
-- [原文連結](https://www.digitimes.com/news/a20260813PD224/cpo-optics-adoption-photonics-switch.html)
 
 ---
 
