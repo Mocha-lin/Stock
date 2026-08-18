@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-18T17:16:05.233682+00:00
+> 更新時間：2026-08-18T19:19:06.449055+00:00
 
 ### 🚀 Qisda 將人工智慧基礎設施視為成長最快的商機
 - **題材**: `光通訊與矽光子` | **重要性**: `88`
@@ -25,15 +25,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: CIC的新預測預計，資料中心光互連市場將從2024年的137億美元成長到2030年的1,444億美元，其中矽光子佔營收的63.7%。
 - [原文連結](https://www.tomshardware.com/tech-industry/photonics/ai-data-center-optical-interconnect-market-to-hit-usd144-billion-by-2030-an-over-ten-fold-increase-from-2024-figures-according-to-new-projections-silicon-photonics-expected-to-account-for-nearly-two-thirds-of-revenue-driven-by-co-packaged-optics)
-
----
-
-### ⚠️ 台積電解決 CoWoS 材料風險，同時將 3DIC 開發週期縮短至一年
-- **題材**: `半導體先進製程` | **重要性**: `78`
-- **來源**: Digitimes (2026-08-12T00:02:58Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 人工智慧運算需求正在迅速增加晶片整合的複雜性，使先進封裝競爭從單一組件性能轉向跨封裝、PCB、系統甚至機架級基礎設施的可靠性和驗證。
-- [原文連結](https://www.digitimes.com/news/a20260811PD250/development-tsmc-demand-cowos-packaging.html)
 
 ---
 
@@ -178,6 +169,15 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 高頻寬記憶體（HBM）是人工智慧半導體的核心組件，在英特爾前執行長 Pat Gelsinger（Pat Gelsinger）最近在巴黎舉行的人工智慧峰會上稱其「糟糕」後，它受到了新的審查。此類記憶體的市場領導者 SK 海力士也表示，它不是鰭...
 - [原文連結](https://www.digitimes.com/news/a20260814PD227/hbm-sk-hynix-pat-gelsinger-component-semiconductors.html)
+
+---
+
+### ⚖️ Arista 表示，409.6T 交換器可以推動產業走向 CPO
+- **題材**: `光通訊與矽光子` | **重要性**: `63`
+- **來源**: Digitimes (2026-08-13T02:01:33Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 共封裝光學元件（CPO）已成為光網路產業的主要焦點，但可插拔模組仍是光互連的主流選擇。在 2026 年 OCP 亞太峰會期間的矽光子論壇上，小組成員表示供應商幾乎沒有…
+- [原文連結](https://www.digitimes.com/news/a20260813PD224/cpo-optics-adoption-photonics-switch.html)
 
 ---
 
