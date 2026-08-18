@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-18T13:33:21.162298+00:00
+> 更新時間：2026-08-18T15:18:43.862487+00:00
 
 ### 🚀 Qisda 將人工智慧基礎設施視為成長最快的商機
 - **題材**: `光通訊與矽光子` | **重要性**: `88`
@@ -43,15 +43,6 @@
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: NVIDIA 剛剛動員了 5000 億美元的外部資本來保證 AI 基礎設施的持續建設，而信貸市場的反應則...
 - [原文連結](https://247wallst.com/investing/2026/08/14/the-5-2-trillion-company-just-asked-wall-street-for-500-billion-more/)
-
----
-
-### 🚀 隨著 InP 限制的增加，GaAs 在短距離人工智慧光學領域取得進展
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-08-13T04:39:35Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 隨著人工智慧工作負載將資料中心互連從 800G 推向 1.6T，磷化銦 (InP) 已成為高速光鏈路（尤其是長距離傳輸）的關鍵材料。但晶體生長面臨挑戰、供應限制和高…
-- [原文連結](https://www.digitimes.com/news/a20260813PD227/gaas-inp-data-center-transmission-growth.html)
 
 ---
 
@@ -118,15 +109,6 @@
 
 ---
 
-### ⚖️ 台積電稱AI先進封裝進入系統級爭奪戰
-- **題材**: `半導體先進製程` | **重要性**: `68`
-- **來源**: Digitimes (2026-08-12T03:05:00Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 人工智慧運算需求正在迅速提高晶片整合的複雜性，推動先進封裝的競爭超越單一設備性能，進入封裝、電路板、系統甚至機架層級的整體可靠性和驗證。在2...
-- [原文連結](https://www.digitimes.com/news/a20260811PD258/packaging-tsmc-demand-design-development.html)
-
----
-
 ### 🚀 隨著產業對沖 CPO 的成長陣痛，近封裝光學 (NPO) 取得了進展——分析師表示，NPO 矽光子產品的銷售將持續到本世紀末
 - **題材**: `光通訊與矽光子` | **重要性**: `67`
 - **來源**: Tom's Hardware UK (2026-08-13T16:52:45Z)
@@ -142,6 +124,24 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 美國希望中國的光收發器退出未來的人工智慧資料中心，但中國目前在快速發展的光子供應鏈中的主導地位可能會使禁令變得複雜
 - [原文連結](https://www.tomshardware.com/tech-industry/photonics/how-optical-interconnects-and-silicon-photonics-emerged-as-ais-next-hot-commodity-looming-us-china-summit-puts-photonics-into-the-crosshairs)
+
+---
+
+### ⚖️ KBW 在獲利超出預期後將 HIVE 維持在中性，並表示 GPU 資金需求為 2.76 億美元
+- **題材**: `AI伺服器` | **重要性**: `65`
+- **來源**: Blockspace.media (2026-08-17T14:20:13Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: HIVE 的合約 AI 雲端收入超出了 KBW 的預期，但沒有資金支持的 GPU 支出和 8,470 萬美元的瑞典納稅義務仍然是核心問題。
+- [原文連結](https://blockspace.media/insight/hive-earnings-beat-gpu-funding-concerns/)
+
+---
+
+### 🚀 24/7 Wall St. 的 Lumentum 推薦度上漲超過 1000%。這就是股票可以持續上漲的原因。
+- **題材**: `光通訊與矽光子` | **重要性**: `65`
+- **來源**: 24/7 Wall St. (2026-08-17T14:04:20Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Lumentum 的第四季財報引發了 5% 的拋售，隨後股價出現驚人逆轉，第二天股價飆升 14%。以下是電話會議透露的內容…
+- [原文連結](https://247wallst.com/investing/2026/08/17/24-7-wall-st-s-lumentum-recommendation-is-up-more-than-1000-heres-why-the-stock-can-keep-rallying/)
 
 ---
 
