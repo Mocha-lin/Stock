@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-08-18T15:18:43.862487+00:00",
+  "generated_at": "2026-08-18T17:16:05.233682+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 72,
@@ -304,6 +304,44 @@
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
+      "id": "bf2fdfa8d28b912c",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Ray Dalio 已向該股票投資超過 9 億美元。你應該購買嗎？",
+      "summary": "Ray Dalio 剛剛對一家晶片製造商下了 9 億美元的賭注，該公司今年股價已飆升超過 20%，華爾街正在密切關注，看看聰明人是否...",
+      "original_title": "Ray Dalio Has Invested Over $900 Million In This Stock. Should You Buy?",
+      "url": "https://247wallst.com/investing/2026/08/17/ray-dalio-has-invested-over-900-million-in-this-stock-should-you-buy/",
+      "source": "24/7 Wall St.",
+      "domain": "247wallst.com",
+      "published_at": "2026-08-17T16:30:55Z",
+      "importance": 70,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
       "id": "0164f38d1f534c4f",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -529,32 +567,32 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "027ff125463c5a2a",
+      "id": "04bc696d1dc927bc",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "KBW 在獲利超出預期後將 HIVE 維持在中性，並表示 GPU 資金需求為 2.76 億美元",
-      "summary": "HIVE 的合約 AI 雲端收入超出了 KBW 的預期，但沒有資金支持的 GPU 支出和 8,470 萬美元的瑞典納稅義務仍然是核心問題。",
-      "original_title": "KBW keeps HIVE at neutral after earnings beat, flags $276 million GPU funding need",
-      "url": "https://blockspace.media/insight/hive-earnings-beat-gpu-funding-concerns/",
-      "source": "Blockspace.media",
-      "domain": "blockspace.media",
-      "published_at": "2026-08-17T14:20:13Z",
+      "theme": "總體風險",
+      "title": "億萬富翁投資人 Leon Cooperman 預計 2027 年將出現經濟衰退，股市將下跌",
+      "summary": "億萬富翁投資人萊昂庫柏曼表示，許多投資人可能不會理會通膨加劇對美國經濟和股價的威脅。",
+      "original_title": "Billionaire investor Leon Cooperman sees a recession in 2027 and a stock drop ahead",
+      "url": "https://www.businessinsider.com/us-recession-2027-stock-market-outlook-leon-cooperman-2026-8",
+      "source": "Business Insider",
+      "domain": "businessinsider.com",
+      "published_at": "2026-08-17T17:15:51Z",
       "importance": 65,
-      "impact": "neutral",
+      "impact": "positive",
       "timeframe": "short_term",
       "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
       ],
       "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
       ],
       "related_models": [
         "003",
@@ -564,7 +602,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "945d6a89cdefa100",
@@ -713,41 +751,6 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "6e8f34c4ee834d1f",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "Rapidus targets 8-reticle interposers by 2030",
-      "summary": "Rapidus 預計，隨著更大的小晶片和高頻寬記憶體 (HBM) 將先進封裝推向在傳統 300 毫米晶圓上製造效率越來越低的尺寸，高性能晶片的中介層將在 2030 年左右達到 8 掩模版規模。",
-      "original_title": "Rapidus targets 8-reticle interposers by 2030",
-      "url": "https://www.digitimes.com/news/a20260813VL212/rapidus-panel-packaging-ocp-2030.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-08-13T23:30:23Z",
-      "importance": 63,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "1ae660dd0774adcb",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -860,44 +863,6 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "b0d34c5236761151",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "伊朗更新：德黑蘭誓言將延長戰爭，直到川普下台",
-      "summary": "五角大廈的一項評估發現，美國的第一次封鎖使伊朗損失了約 48 億美元的石油收入。",
-      "original_title": "Iran updates: Tehran vows to prolong war until Trump is out of office",
-      "url": "https://www.newsnationnow.com/world/iran-vows-prolong-war-until-trump-leaves/",
-      "source": "Newsnationnow.com",
-      "domain": "newsnationnow.com",
-      "published_at": "2026-08-13T11:00:13Z",
-      "importance": 60,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "2633e05d1705b146",
@@ -1049,6 +1014,117 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "699c5cefd48231b2",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "投資人記得為什麼他們喜歡儲存晶片股票",
+      "summary": "Investors drove memory-chip stocks higher on Monday for the fifth straight trading session. Micron, Sandisk and SK Hynix all advanced.",
+      "original_title": "Investors Remember Why They Love Memory-Chip Stocks",
+      "url": "https://www.investors.com/news/technology/sk-hynix-sandisk-micron-memory-chip-stocks/",
+      "source": "Investor's Business Daily",
+      "domain": "investors.com",
+      "published_at": "2026-08-17T16:06:20Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "da79361d27336350",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "伊朗戰爭拋售後黃金顯示出恢復避險吸引力的早期跡象",
+      "summary": "作者：Polina Devitt 倫敦，8 月 17 日（路透社）",
+      "original_title": "Gold shows early signs of reclaiming safe-haven appeal after Iran war selloff",
+      "url": "https://sg.finance.yahoo.com/news/gold-shows-early-signs-reclaiming-154522774.html",
+      "source": "Yahoo Entertainment",
+      "domain": "sg.finance.yahoo.com",
+      "published_at": "2026-08-17T15:45:22Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "70c0c826129e1374",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "iPhone 18 Pro：下個月將推出六項新功能",
+      "summary": "下個月的新 iPhone 系列將帶來全新的「iPhone Ultra」可折疊機型，但最受歡迎的機型無疑是 iPhone 18 Pro 和 Pro Max。以下是傳聞中的 iPhone 18 Pro 的六項新功能。",
+      "original_title": "iPhone 18 Pro: Six new features are coming next month",
+      "url": "https://9to5mac.com/2026/08/17/iphone-18-pro-six-new-features-are-coming-this-fall/",
+      "source": "9to5Mac",
+      "domain": "9to5mac.com",
+      "published_at": "2026-08-17T15:33:10Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "9943a6753e87fa2d",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1133,44 +1209,6 @@
       "source": "The Next Web",
       "domain": "thenextweb.com",
       "published_at": "2026-08-15T17:28:39Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "5949ab12691b3985",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "當你沉睡時，迪士尼潛入並檢修了千歲隼。這就是為什麼",
-      "summary": "迪士尼幻想工程師為更新迪士尼樂園的「走私者快跑」所做的工作比您想像的要多得多。",
-      "original_title": "Disney Snuck in and Overhauled the Millennium Falcon While You Were Sleeping. Here’s Why",
-      "url": "https://www.cnet.com/culture/entertainment/disney-snuck-in-and-overhauled-the-millennium-falcon-while-you-were-sleeping-heres-why/",
-      "source": "CNET",
-      "domain": "cnet.com",
-      "published_at": "2026-08-15T16:47:39Z",
       "importance": 55,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -1721,6 +1759,44 @@
       "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "5949ab12691b3985",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "當你沉睡時，迪士尼潛入並檢修了千歲隼。這就是為什麼",
+      "summary": "迪士尼幻想工程師為更新迪士尼樂園的「走私者快跑」所做的工作比您想像的要多得多。",
+      "original_title": "Disney Snuck in and Overhauled the Millennium Falcon While You Were Sleeping. Here’s Why",
+      "url": "https://www.cnet.com/culture/entertainment/disney-snuck-in-and-overhauled-the-millennium-falcon-while-you-were-sleeping-heres-why/",
+      "source": "CNET",
+      "domain": "cnet.com",
+      "published_at": "2026-08-15T16:47:39Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "25f7d1a54ade38d6",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1757,44 +1833,6 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "a18063bc7cfd58b8",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "川普在伊朗言論升級之際敦促美國人接受更高的天然氣價格",
-      "summary": "作者： Humeyra Pamuk 花園城市，紐約，8 月 14 日（路透社）",
-      "original_title": "Trump urges Americans to accept higher gas prices as he escalates Iran rhetoric",
-      "url": "https://www.yahoo.com/news/politics/articles/trump-urges-americans-accept-higher-203543611.html",
-      "source": "Yahoo Entertainment",
-      "domain": "yahoo.com",
-      "published_at": "2026-08-14T20:35:43Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "62bee9f1ab6bc191",
@@ -2288,44 +2326,6 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "e3fa066853f2ce68",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "Google Pixel 11 配備 Tensor G6 和更快的充電速度",
-      "summary": "Google Pixel 11 繼續跨越旗艦機和中端機之間的界限。它配備了 Google 設計的全新 Tensor G6（稍後會詳細介紹），該產品也為新的 Pro 型號提供動力。然而，它有一個更基本的顯示器和一個帶條帶的三重攝像頭…",
-      "original_title": "The Google Pixel 11 arrives with Tensor G6 and faster charging",
-      "url": "https://www.gsmarena.com/the_google_pixel_11_arrives_with_tensor_g6_and_faster_charging-news-74137.php",
-      "source": "GSMArena.com",
-      "domain": "gsmarena.com",
-      "published_at": "2026-08-12T14:33:02Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "37da125e3f33a9fd",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2478,82 +2478,6 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "4ac023c0dfe67ef5",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "IBM 斥資 2.4 億美元開發廉價開源推理技術，與超大規模企業抗衡",
-      "summary": "與新創公司 Together AI 達成的多年協議將把 Nvidia Blackwell 系統部署在 IBM Cloud 上，而企業現在更關心運行 AI 的成本，而不是運行該模型的聲譽。 IBM 決定把錢花在藝術上…",
-      "original_title": "IBM bets $240m on cheap, open-source inference to take on the hyperscalers",
-      "url": "https://thenextweb.com/news/ibm-together-ai-240m-nvidia-inference-cluster",
-      "source": "The Next Web",
-      "domain": "thenextweb.com",
-      "published_at": "2026-08-11T16:56:53Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "682e148283174fbc",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "A-level成績什麼時候出，Ucas什麼時候更新？",
-      "summary": "A-level 成績日的完整指南，包括如果您對成績不滿意該怎麼辦。",
-      "original_title": "When do A-level results come out and what time does Ucas update?",
-      "url": "https://www.bbc.co.uk/news/articles/c07dz891gy5o",
-      "source": "BBC News",
-      "domain": "bbc.co.uk",
-      "published_at": "2026-08-11T15:49:41Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "c9484d4825685ef1",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2590,6 +2514,82 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "4ac023c0dfe67ef5",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "IBM 斥資 2.4 億美元開發廉價開源推理技術，與超大規模企業抗衡",
+      "summary": "與新創公司 Together AI 達成的多年協議將把 Nvidia Blackwell 系統部署在 IBM Cloud 上，而企業現在更關心運行 AI 的成本，而不是運行該模型的聲譽。 IBM 決定把錢花在藝術上…",
+      "original_title": "IBM bets $240m on cheap, open-source inference to take on the hyperscalers",
+      "url": "https://thenextweb.com/news/ibm-together-ai-240m-nvidia-inference-cluster",
+      "source": "The Next Web",
+      "domain": "thenextweb.com",
+      "published_at": "2026-08-11T16:56:53Z",
+      "importance": 45,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
+    },
+    {
+      "id": "682e148283174fbc",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "A-level成績什麼時候出，Ucas什麼時候更新？",
+      "summary": "A-level 成績日的完整指南，包括如果您對成績不滿意該怎麼辦。",
+      "original_title": "When do A-level results come out and what time does Ucas update?",
+      "url": "https://www.bbc.co.uk/news/articles/c07dz891gy5o",
+      "source": "BBC News",
+      "domain": "bbc.co.uk",
+      "published_at": "2026-08-11T15:49:41Z",
+      "importance": 45,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     },
     {
       "id": "99849caa928dce15",
