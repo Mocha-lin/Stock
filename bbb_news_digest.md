@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-19T19:15:53.227155+00:00
+> 更新時間：2026-08-19T23:21:39.847849+00:00
 
 ### 🚀 Qisda 將人工智慧基礎設施視為成長最快的商機
 - **題材**: `光通訊與矽光子` | **重要性**: `88`
@@ -52,6 +52,15 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 隨著 HBM4 設備訂單反彈，以及 Hanmi 與美光不斷增長的業務有助於減少其對 SK Hynix 的依賴，韓國 Hanmi Semiconductor 在高頻寬內存 (HBM) 熱壓 (TC) 鍵合機方面領先於競爭對手 Hanwha Semitech。
 - [原文連結](https://www.digitimes.com/news/a20260813VL208/hbm4-hanwha-hanmi-sk-hynix-equipment.html)
+
+---
+
+### 🚀 微米對比。 SK海力士：新來者是合法威脅
+- **題材**: `HBM記憶體` | **重要性**: `70`
+- **來源**: 24/7 Wall St. (2026-08-18T12:19:17Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: SK Hynix just landed on NASDAQ with a record quarter and a $26.5 billion debut, putting it on the same exchange as Micron for the first time. Whether the HBM...
+- [原文連結](https://247wallst.com/investing/2026/08/18/micron-vs-sk-hynix-the-newcomer-is-a-legitimate-threat/)
 
 ---
 
@@ -142,15 +151,6 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 隨著記憶體和儲存製造商將重心轉向人工智慧客戶並賺取創紀錄的利潤，普通消費者卻無法就有故障的 RAM 和 SSD 提出適當的保固索賠。有什麼辦法嗎？
 - [原文連結](https://www.windowscentral.com/hardware/micron-crucial-ssd-warranty-claim-botched-ai-shortages)
-
----
-
-### 🚀 HBM 對馬來西亞的出貨量激增，得益於英特爾的「Project Pelican」設施
-- **題材**: `半導體先進製程` | **重要性**: `65`
-- **來源**: Techpowerup.com (2026-08-17T17:19:25Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 根據 SemiAnalysis Chipbook 有關韓國出口的數據，目前高頻寬記憶體出口的很大一部分流向馬來西亞，從而減少了對台灣的出貨量。這表明台積電為其 CoWoS 系列高級晶片使用的 HBM 內存...
-- [原文連結](https://www.techpowerup.com/351658/hbm-shipments-to-malaysia-surge-pointing-to-intels-project-pelican-facility)
 
 ---
 

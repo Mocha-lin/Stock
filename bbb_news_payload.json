@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-08-19T19:15:53.227155+00:00",
+  "generated_at": "2026-08-19T23:21:39.847849+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 72,
@@ -208,6 +208,41 @@
       "domain": "digitimes.com",
       "published_at": "2026-08-13T03:51:21Z",
       "importance": 73,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
+      "id": "b100f1d4ce03bb2d",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "微米對比。 SK海力士：新來者是合法威脅",
+      "summary": "SK Hynix just landed on NASDAQ with a record quarter and a $26.5 billion debut, putting it on the same exchange as Micron for the first time. Whether the HBM...",
+      "original_title": "Micron Vs. SK Hynix: The Newcomer is a Legitimate Threat",
+      "url": "https://247wallst.com/investing/2026/08/18/micron-vs-sk-hynix-the-newcomer-is-a-legitimate-threat/",
+      "source": "24/7 Wall St.",
+      "domain": "247wallst.com",
+      "published_at": "2026-08-18T12:19:17Z",
+      "importance": 70,
       "impact": "positive",
       "timeframe": "short_term",
       "tags": [
@@ -597,44 +632,6 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "d00d5eb1e7eead4e",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "HBM 對馬來西亞的出貨量激增，得益於英特爾的「Project Pelican」設施",
-      "summary": "根據 SemiAnalysis Chipbook 有關韓國出口的數據，目前高頻寬記憶體出口的很大一部分流向馬來西亞，從而減少了對台灣的出貨量。這表明台積電為其 CoWoS 系列高級晶片使用的 HBM 內存...",
-      "original_title": "HBM Shipments to Malaysia Surge, Pointing to Intel's \"Project Pelican\" Facility",
-      "url": "https://www.techpowerup.com/351658/hbm-shipments-to-malaysia-surge-pointing-to-intels-project-pelican-facility",
-      "source": "Techpowerup.com",
-      "domain": "techpowerup.com",
-      "published_at": "2026-08-17T17:19:25Z",
-      "importance": 65,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "04bc696d1dc927bc",
@@ -1087,29 +1084,32 @@
       "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "61e8bcc11b4750f2",
+      "id": "19a539365497e214",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "態勢感知同時進行兩次拍賣，一組競標者永遠不知道",
-      "summary": "態勢感知 7 月損失了約 300 億美元。服務台三週前報告了這一點。那六天內發生的事情還沒有發生。格雷戈里·祖克曼、朱麗葉·鐘和彼得·魯德傑爾為《華爾街日報》重建了它，序列是…",
-      "original_title": "Situational Awareness ran two auctions at once, and one set of bidders never knew",
-      "url": "https://thenextweb.com/news/situational-awareness-anthropic-stake-20-percent-discount-citadel",
-      "source": "The Next Web",
-      "domain": "thenextweb.com",
-      "published_at": "2026-08-18T12:42:21Z",
+      "theme": "半導體先進製程",
+      "title": "蘋果 iPhone 18 發佈時間表：即將發佈的內容與時間",
+      "summary": "自 2019 年以來，蘋果發布了更實惠的標準版 iPhone 和更高階的「Pro」變體，為客戶提供了多款旗艦 iPhone 可供選擇。蘋果今年偏離了標準發佈時間表，分開發布 iPhone 18。\n\n\n\n……",
+      "original_title": "Apple's iPhone 18 Release Schedule: What's Coming and When",
+      "url": "https://www.macrumors.com/guide/iphone-18-release-schedule/",
+      "source": "MacRumors",
+      "domain": "macrumors.com",
+      "published_at": "2026-08-18T22:58:50Z",
       "importance": 55,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "HBM",
-        "記憶體"
+        "半導體",
+        "CoWoS",
+        "先進製程"
       ],
       "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
       ],
       "related_models": [
         "003",
@@ -1119,7 +1119,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "7d47db09170161a0",
@@ -1759,41 +1759,6 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "73ab0a934bfced15",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "Apple’s CXMT Bet Could Strengthen Its Memory Supply, But Risks Remain",
-      "summary": "蘋果（納斯達克股票代碼：AAPL）正在多個產品線中測試中國長鑫儲存技術有限公司（CXMT）的 DRAM 晶片，包括 iPhone 和 MacBook。",
-      "original_title": "Apple’s CXMT Bet Could Strengthen Its Memory Supply, But Risks Remain",
-      "url": "https://finance.yahoo.com/technology/articles/apple-cxmt-bet-could-strengthen-201946243.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-08-12T20:19:46Z",
-      "importance": 55,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "2633e05d1705b146",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2396,32 +2361,29 @@
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "fa1009a31270428c",
+      "id": "73ab0a934bfced15",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "“如果選擇加入…沒有人會選擇加入。” Twitch CPO 局促不安，承認每個人都討厭其新的人工智能訓練“功能”",
-      "summary": "Twitch 的首席產品長承認每個人都討厭它的人工智慧“功能”，但同時又無恥地承認自己並不在乎。",
-      "original_title": "\"If it was opt in ... nobody would opt-in.\" Twitch CPO squirms, admits everyone hates its new AI training 'feature'",
-      "url": "https://www.windowscentral.com/artificial-intelligence/if-it-was-opt-in-nobody-would-opt-in-cringe-twitch-cpo-admits-everyone-hates-its-ai-training-feature-doesnt-care",
-      "source": "Windows Central",
-      "domain": "windowscentral.com",
-      "published_at": "2026-08-12T22:25:49Z",
+      "theme": "HBM記憶體",
+      "title": "Apple’s CXMT Bet Could Strengthen Its Memory Supply, But Risks Remain",
+      "summary": "蘋果（納斯達克股票代碼：AAPL）正在多個產品線中測試中國長鑫儲存技術有限公司（CXMT）的 DRAM 晶片，包括 iPhone 和 MacBook。",
+      "original_title": "Apple’s CXMT Bet Could Strengthen Its Memory Supply, But Risks Remain",
+      "url": "https://finance.yahoo.com/technology/articles/apple-cxmt-bet-could-strengthen-201946243.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-08-12T20:19:46Z",
       "importance": 50,
-      "impact": "neutral",
+      "impact": "negative",
       "timeframe": "short_term",
       "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
+        "HBM",
+        "記憶體"
       ],
       "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
       ],
       "related_models": [
         "003",
@@ -2431,7 +2393,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "5682d8287429aba8",
@@ -2546,6 +2508,44 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "fa1009a31270428c",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "“如果選擇加入…沒有人會選擇加入。” Twitch CPO 局促不安，承認每個人都討厭其新的人工智能訓練“功能”",
+      "summary": "Twitch 的首席產品長承認每個人都討厭它的人工智慧“功能”，但同時又無恥地承認自己並不在乎。",
+      "original_title": "\"If it was opt in ... nobody would opt-in.\" Twitch CPO squirms, admits everyone hates its new AI training 'feature'",
+      "url": "https://www.windowscentral.com/artificial-intelligence/if-it-was-opt-in-nobody-would-opt-in-cringe-twitch-cpo-admits-everyone-hates-its-ai-training-feature-doesnt-care",
+      "source": "Windows Central",
+      "domain": "windowscentral.com",
+      "published_at": "2026-08-12T22:25:49Z",
+      "importance": 45,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     },
     {
       "id": "37da125e3f33a9fd",
