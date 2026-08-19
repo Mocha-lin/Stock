@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-19T09:33:13.222783+00:00
+> 更新時間：2026-08-19T13:34:56.631735+00:00
 
 ### 🚀 Qisda 將人工智慧基礎設施視為成長最快的商機
 - **題材**: `光通訊與矽光子` | **重要性**: `88`
@@ -55,12 +55,12 @@
 
 ---
 
-### ⚖️ 美光和 SK 海力士承諾數十億美元的記憶體容量，但在 2028 年之前幾乎沒有任何進展
+### ⚠️ 記憶體緊縮導致經濟衰退加劇，小米獲利大幅下滑
 - **題材**: `HBM記憶體` | **重要性**: `70`
-- **來源**: Storagereview.com (2026-08-17T18:48:16Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 三大記憶體製造商中的兩家正在向生產鏈兩端的美國半導體基礎設施投入資金。美光科技 7 月承諾向國內供應鏈投資高達 30 億美元，以德州的一項原料矽晶圓交易為基礎…
-- [原文連結](https://www.storagereview.com/news/micron-and-sk-hynix-commit-billions-to-memory-capacity-but-almost-nothing-lands-before-2028)
+- **來源**: Yahoo Entertainment (2026-08-18T11:21:59Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 小米公司公佈利潤連續第三次下滑，突顯出持續的全球記憶體短缺對全球最大的企業之一造成的沉重打擊。
+- [原文連結](https://finance.yahoo.com/markets/stocks/articles/xiaomi-profit-dives-memory-crunch-112159230.html)
 
 ---
 
@@ -118,12 +118,12 @@
 
 ---
 
-### ⚖️ 光學互連和矽光子如何成為人工智慧的下一個熱門商品——即將舉行的中美峰會將光子學置於十字準線
-- **題材**: `光通訊與矽光子` | **重要性**: `67`
-- **來源**: Tom's Hardware UK (2026-08-12T12:42:23Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 美國希望中國的光收發器退出未來的人工智慧資料中心，但中國目前在快速發展的光子供應鏈中的主導地位可能會使禁令變得複雜
-- [原文連結](https://www.tomshardware.com/tech-industry/photonics/how-optical-interconnects-and-silicon-photonics-emerged-as-ais-next-hot-commodity-looming-us-china-summit-puts-photonics-into-the-crosshairs)
+### 🚀 Crucial 迴避 SSD 保固索賠，稱「我們的庫存已耗盡」——隨著內存和存儲製造商創紀錄的利潤滾滾而來，消費者被忽視
+- **題材**: `HBM記憶體` | **重要性**: `65`
+- **來源**: Windows Central (2026-08-18T13:17:41Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 隨著記憶體和儲存製造商將重心轉向人工智慧客戶並賺取創紀錄的利潤，普通消費者卻無法就有故障的 RAM 和 SSD 提出適當的保固索賠。有什麼辦法嗎？
+- [原文連結](https://www.windowscentral.com/hardware/micron-crucial-ssd-warranty-claim-botched-ai-shortages)
 
 ---
 
