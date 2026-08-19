@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-19T15:18:03.377510+00:00
+> 更新時間：2026-08-19T17:15:07.786750+00:00
 
 ### 🚀 Qisda 將人工智慧基礎設施視為成長最快的商機
 - **題材**: `光通訊與矽光子` | **重要性**: `88`
@@ -118,6 +118,24 @@
 
 ---
 
+### ⚖️ Applied Optoelectronics Bets on U.S. Laser Capacity to Capture AI Data Center Demand
+- **題材**: `光通訊與矽光子` | **重要性**: `65`
+- **來源**: MarketBeat (2026-08-18T16:02:04Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 應用光電子公司（納斯達克股票代碼：AAOI）將其位於美國的雷射製造和自動化生產能力定位為關鍵的差異化因素，因為數據...
+- [原文連結](https://www.marketbeat.com/instant-alerts/applied-optoelectronics-bets-on-us-laser-capacity-to-capture-ai-data-center-demand-2026-08-18/?utm_source=yahoofinance&amp;utm_medium=yahoofinance)
+
+---
+
+### 🚀 政府借貸成本創2007年以來最高水平
+- **題材**: `總體風險` | **重要性**: `65`
+- **來源**: Abcnews.com (2026-08-18T15:46:46Z)
+- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 高債券殖利率對抵押貸款和信用卡利率帶來上行壓力。
+- [原文連結](https://abcnews.com/Business/government-borrowing-costs-hit-highest-level-2007/story?id=135735000)
+
+---
+
 ### 🚀 Crucial 迴避 SSD 保固索賠，稱「我們的庫存已耗盡」——隨著內存和存儲製造商創紀錄的利潤滾滾而來，消費者被忽視
 - **題材**: `HBM記憶體` | **重要性**: `65`
 - **來源**: Windows Central (2026-08-18T13:17:41Z)
@@ -160,24 +178,6 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 當 Elon Musk 在現場財報電話會議上列出限制其人工智慧雄心的單一限制時，半導體供應鏈中的每個投資者都應該列出...
 - [原文連結](https://247wallst.com/investing/2026/08/17/elon-musks-5-word-statement-should-have-every-micron-investor-paying-attention/)
-
----
-
-### ⚖️ 基辛格稱 HBM“糟糕”，SK 海力士表示這不是記憶的最終答案
-- **題材**: `HBM記憶體` | **重要性**: `63`
-- **來源**: Digitimes (2026-08-14T22:53:33Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 高頻寬記憶體（HBM）是人工智慧半導體的核心組件，在英特爾前執行長 Pat Gelsinger（Pat Gelsinger）最近在巴黎舉行的人工智慧峰會上稱其「糟糕」後，它受到了新的審查。此類記憶體的市場領導者 SK 海力士也表示，它不是鰭...
-- [原文連結](https://www.digitimes.com/news/a20260814PD227/hbm-sk-hynix-pat-gelsinger-component-semiconductors.html)
-
----
-
-### ⚖️ Arista 表示，409.6T 交換器可以推動產業走向 CPO
-- **題材**: `光通訊與矽光子` | **重要性**: `63`
-- **來源**: Digitimes (2026-08-13T02:01:33Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 共封裝光學元件（CPO）已成為光網路產業的主要焦點，但可插拔模組仍是光互連的主流選擇。在 2026 年 OCP 亞太峰會期間的矽光子論壇上，小組成員表示供應商幾乎沒有…
-- [原文連結](https://www.digitimes.com/news/a20260813PD224/cpo-optics-adoption-photonics-switch.html)
 
 ---
 
