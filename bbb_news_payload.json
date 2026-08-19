@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-08-19T05:32:49.971325+00:00",
+  "generated_at": "2026-08-19T09:33:13.222783+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 72,
@@ -2548,44 +2548,6 @@
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "3e7008a78190808c",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "今天的 7 月 CPI 報告預計通膨將再次降溫",
-      "summary": "美國勞工統計局 (BLS) 於美國東部時間今天上午 8:30 發布 7 月 CPI 報告。經濟學家預計通膨率將降至 3.4%，其中能源價格是值得關注的關鍵領域。",
-      "original_title": "Inflation is expected to cool again in today's July CPI report",
-      "url": "https://www.businessinsider.com/cpi-inflation-july-consumer-price-index-2026-8#article",
-      "source": "Business Insider",
-      "domain": "businessinsider.com",
-      "published_at": "2026-08-12T09:00:01Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "d6516e67f479638c",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2622,6 +2584,44 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "3e7008a78190808c",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "今天的 7 月 CPI 報告預計通膨將再次降溫",
+      "summary": "美國勞工統計局 (BLS) 於美國東部時間今天上午 8:30 發布 7 月 CPI 報告。經濟學家預計通膨率將降至 3.4%，其中能源價格是值得關注的關鍵領域。",
+      "original_title": "Inflation is expected to cool again in today's July CPI report",
+      "url": "https://www.businessinsider.com/cpi-inflation-july-consumer-price-index-2026-8#article",
+      "source": "Business Insider",
+      "domain": "businessinsider.com",
+      "published_at": "2026-08-12T09:00:01Z",
+      "importance": 45,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     },
     {
       "id": "e4c087a2ce26e101",
