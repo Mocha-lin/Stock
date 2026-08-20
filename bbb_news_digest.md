@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-20T15:21:12.276909+00:00
+> 更新時間：2026-08-20T17:16:51.646412+00:00
 
 ### 🚀 Qisda 將人工智慧基礎設施視為成長最快的商機
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -109,15 +109,6 @@
 
 ---
 
-### 🚀 隨著產業對沖 CPO 的成長陣痛，近封裝光學 (NPO) 取得了進展——分析師表示，NPO 矽光子產品的銷售將持續到本世紀末
-- **題材**: `光通訊與矽光子` | **重要性**: `67`
-- **來源**: Tom's Hardware UK (2026-08-13T16:52:45Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 隨著共封裝光學元件 (CPO) 的成長煩惱變得越來越明顯，近封裝光學元件 (NPO) 的需求正在增強。隨著光學和矽光子在人工智慧產業掀起波瀾，我們解釋了這兩種技術之間的實質差異。
-- [原文連結](https://www.tomshardware.com/tech-industry/near-packaged-optics-gains-ground-aso-the-industry-hedges-against-co-packaged-optics-growing-pains)
-
----
-
 ### ⚖️ Applied Optoelectronics Bets on U.S. Laser Capacity to Capture AI Data Center Demand
 - **題材**: `光通訊與矽光子` | **重要性**: `65`
 - **來源**: MarketBeat (2026-08-18T16:02:04Z)
@@ -154,30 +145,39 @@
 
 ---
 
-### 🚀 億萬富翁投資人 Leon Cooperman 預計 2027 年將出現經濟衰退，股市將下跌
-- **題材**: `總體風險` | **重要性**: `65`
-- **來源**: Business Insider (2026-08-17T17:15:51Z)
-- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 億萬富翁投資人萊昂庫柏曼表示，許多投資人可能不會理會通膨加劇對美國經濟和股價的威脅。
-- [原文連結](https://www.businessinsider.com/us-recession-2027-stock-market-outlook-leon-cooperman-2026-8)
-
----
-
-### 🚀 台積電的內部收購浪潮為投資者帶來了更大的人工智慧問題
-- **題材**: `半導體先進製程` | **重要性**: `65`
-- **來源**: Insidertrades.com (2026-08-17T15:25:00Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 由於強勁的第二季指引、2nm 需求以及人工智慧驅動的分析師升級支援看漲，台積電內部人士正在加大公開市場股票購買力度。
-- [原文連結](https://www.insidertrades.com/education/tsmcs-insider-buying-wave-comes-with-a-bigger-ai-question-for-investors/?utm_source=yahoofinance&amp;utm_medium=yahoofinance)
-
----
-
 ### ⚖️ Kaynes Semicon 著眼於印度技術推廣中的光子學、量子安全和神經形態晶片
 - **題材**: `光通訊與矽光子` | **重要性**: `63`
 - **來源**: Digitimes (2026-08-17T01:47:48Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Kaynes Semicon 執行長 Raghu Panicker 表示，隨著印度準備下一階段的半導體支援計劃，Kaynes Semicon 正在將矽光子 (SiPh) 和共封裝光學 (CPO)、後量子安全和神經形態計算視為潛在的擴張領域。
 - [原文連結](https://www.digitimes.com/news/a20260816VL200/kaynes-semicon-india-siph-cpo-chips-security.html)
+
+---
+
+### ⚖️ 基辛格稱 HBM“糟糕”，SK 海力士表示這不是記憶的最終答案
+- **題材**: `HBM記憶體` | **重要性**: `63`
+- **來源**: Digitimes (2026-08-14T22:53:33Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 高頻寬記憶體（HBM）是人工智慧半導體的核心組件，在英特爾前執行長 Pat Gelsinger（Pat Gelsinger）最近在巴黎舉行的人工智慧峰會上稱其「糟糕」後，它受到了新的審查。此類記憶體的市場領導者 SK 海力士也表示，它不是鰭...
+- [原文連結](https://www.digitimes.com/news/a20260814PD227/hbm-sk-hynix-pat-gelsinger-component-semiconductors.html)
+
+---
+
+### 🚀 隨著產業對沖 CPO 的成長陣痛，近封裝光學 (NPO) 取得了進展——分析師表示，NPO 矽光子產品的銷售將持續到本世紀末
+- **題材**: `光通訊與矽光子` | **重要性**: `62`
+- **來源**: Tom's Hardware UK (2026-08-13T16:52:45Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 隨著共封裝光學元件 (CPO) 的成長煩惱變得越來越明顯，近封裝光學元件 (NPO) 的需求正在增強。隨著光學和矽光子在人工智慧產業掀起波瀾，我們解釋了這兩種技術之間的實質差異。
+- [原文連結](https://www.tomshardware.com/tech-industry/near-packaged-optics-gains-ground-aso-the-industry-hedges-against-co-packaged-optics-growing-pains)
+
+---
+
+### ⚖️ SK海力士啟動286億美元股票回購與註銷
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: Quartz India (2026-08-19T12:12:19Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 這家韓國晶片製造商董事會批准從 8 月 20 日開始的三個月內回購並註銷 40 兆韓元的股票
+- [原文連結](https://qz.com/sk-hynix-share-buyback-cancellation-shareholder-returns-081926)
 
 ---
 
