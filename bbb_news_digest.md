@@ -1,21 +1,12 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-20T05:53:35.272508+00:00
+> 更新時間：2026-08-20T09:33:44.440337+00:00
 
 ### 🚀 Qisda 將人工智慧基礎設施視為成長最快的商機
-- **題材**: `光通訊與矽光子` | **重要性**: `88`
+- **題材**: `光通訊與矽光子` | **重要性**: `83`
 - **來源**: Digitimes (2026-08-13T07:15:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重大事件】可能顯著影響產業評價、EPS預期或資金流向。
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 佳世達董事長陳彼得表示，隨著AI運算需求的激增，基礎設施是首先必須建造的基礎。他表示，佳世達不會缺席這場快速發展的競賽，該公司將加大在人工智慧伺服器、資料中心、1.6T交換器和矽...
 - [原文連結](https://www.digitimes.com/news/a20260811PD252/qisda-business-infrastructure-revenue-profit.html)
-
----
-
-### 🚀 LandMark Opto electronics 因矽光子需求而利潤激增
-- **題材**: `光通訊與矽光子` | **重要性**: `83`
-- **來源**: Digitimes (2026-08-13T07:04:32Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: LandMark OptoElectronics Corp. 報告稱，受矽光子產品強勁需求和出貨量增加的推動，2026 年第二季營收、利潤率和利潤大幅成長。這家光通訊外延晶圓製造商也表示…
-- [原文連結](https://www.digitimes.com/news/a20260813PD205/profit-silicon-revenue-photonics-2026.html)
 
 ---
 
@@ -25,6 +16,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: CIC的新預測預計，資料中心光互連市場將從2024年的137億美元成長到2030年的1,444億美元，其中矽光子佔營收的63.7%。
 - [原文連結](https://www.tomshardware.com/tech-industry/photonics/ai-data-center-optical-interconnect-market-to-hit-usd144-billion-by-2030-an-over-ten-fold-increase-from-2024-figures-according-to-new-projections-silicon-photonics-expected-to-account-for-nearly-two-thirds-of-revenue-driven-by-co-packaged-optics)
+
+---
+
+### 🚀 LandMark Opto electronics 因矽光子需求而利潤激增
+- **題材**: `光通訊與矽光子` | **重要性**: `78`
+- **來源**: Digitimes (2026-08-13T07:04:32Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: LandMark OptoElectronics Corp. 報告稱，受矽光子產品強勁需求和出貨量增加的推動，2026 年第二季營收、利潤率和利潤大幅成長。這家光通訊外延晶圓製造商也表示…
+- [原文連結](https://www.digitimes.com/news/a20260813PD205/profit-silicon-revenue-photonics-2026.html)
 
 ---
 
@@ -46,12 +46,12 @@
 
 ---
 
-### 🚀 微米對比。 SK海力士：新來者是合法威脅
+### 🚀 韓國 SK 海力士公佈創紀錄的 289 億美元股票回購計劃
 - **題材**: `HBM記憶體` | **重要性**: `70`
-- **來源**: 24/7 Wall St. (2026-08-18T12:19:17Z)
+- **來源**: CNA (2026-08-19T07:13:00Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: SK Hynix just landed on NASDAQ with a record quarter and a $26.5 billion debut, putting it on the same exchange as Micron for the first time. Whether the HBM...
-- [原文連結](https://247wallst.com/investing/2026/08/18/micron-vs-sk-hynix-the-newcomer-is-a-legitimate-threat/)
+- **摘要**: 首爾：韓國晶片巨頭 SK 海力士週三（8 月 19 日）表示，將回購創紀錄的 289 億美元股票，以安撫投資者，因為該公司因人工智慧投資熱潮日益增長的擔憂而受到打擊。該公司是廣告產品的主要生產商。
+- [原文連結](https://www.channelnewsasia.com/east-asia/south-koreas-sk-hynix-unveils-record-us289-billion-share-buyback-6328106)
 
 ---
 
