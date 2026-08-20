@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-20T09:33:44.440337+00:00
+> 更新時間：2026-08-20T13:36:23.894632+00:00
 
 ### 🚀 Qisda 將人工智慧基礎設施視為成長最快的商機
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -10,21 +10,21 @@
 
 ---
 
-### 🚀 根據新的預測，到 2030 年，人工智慧資料中心光學互連市場將達到 1,440 億美元，比 2024 年的數字增長十倍以上——在共同封裝光學元件的推動下，矽光子預計將佔收入的近三分之二
-- **題材**: `光通訊與矽光子` | **重要性**: `82`
-- **來源**: Tom's Hardware UK (2026-08-17T11:20:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: CIC的新預測預計，資料中心光互連市場將從2024年的137億美元成長到2030年的1,444億美元，其中矽光子佔營收的63.7%。
-- [原文連結](https://www.tomshardware.com/tech-industry/photonics/ai-data-center-optical-interconnect-market-to-hit-usd144-billion-by-2030-an-over-ten-fold-increase-from-2024-figures-according-to-new-projections-silicon-photonics-expected-to-account-for-nearly-two-thirds-of-revenue-driven-by-co-packaged-optics)
-
----
-
 ### 🚀 LandMark Opto electronics 因矽光子需求而利潤激增
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
 - **來源**: Digitimes (2026-08-13T07:04:32Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: LandMark OptoElectronics Corp. 報告稱，受矽光子產品強勁需求和出貨量增加的推動，2026 年第二季營收、利潤率和利潤大幅成長。這家光通訊外延晶圓製造商也表示…
 - [原文連結](https://www.digitimes.com/news/a20260813PD205/profit-silicon-revenue-photonics-2026.html)
+
+---
+
+### 🚀 根據新的預測，到 2030 年，人工智慧資料中心光學互連市場將達到 1,440 億美元，比 2024 年的數字增長十倍以上——在共同封裝光學元件的推動下，矽光子預計將佔收入的近三分之二
+- **題材**: `光通訊與矽光子` | **重要性**: `77`
+- **來源**: Tom's Hardware UK (2026-08-17T11:20:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: CIC的新預測預計，資料中心光互連市場將從2024年的137億美元成長到2030年的1,444億美元，其中矽光子佔營收的63.7%。
+- [原文連結](https://www.tomshardware.com/tech-industry/photonics/ai-data-center-optical-interconnect-market-to-hit-usd144-billion-by-2030-an-over-ten-fold-increase-from-2024-figures-according-to-new-projections-silicon-photonics-expected-to-account-for-nearly-two-thirds-of-revenue-driven-by-co-packaged-optics)
 
 ---
 
@@ -46,12 +46,12 @@
 
 ---
 
-### 🚀 韓國 SK 海力士公佈創紀錄的 289 億美元股票回購計劃
+### ⚠️ 記憶體危機擠壓小米手機利潤再次下滑
 - **題材**: `HBM記憶體` | **重要性**: `70`
-- **來源**: CNA (2026-08-19T07:13:00Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 首爾：韓國晶片巨頭 SK 海力士週三（8 月 19 日）表示，將回購創紀錄的 289 億美元股票，以安撫投資者，因為該公司因人工智慧投資熱潮日益增長的擔憂而受到打擊。該公司是廣告產品的主要生產商。
-- [原文連結](https://www.channelnewsasia.com/east-asia/south-koreas-sk-hynix-unveils-record-us289-billion-share-buyback-6328106)
+- **來源**: The Next Web (2026-08-19T12:05:27Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 小米第二季利潤再次下滑。全球記憶體短缺不斷推高其手機的成本。根據彭博社報道，這家中國公司連續第三個季度獲利下降。調整後淨利下降約 43% 至 6.22…
+- [原文連結](https://thenextweb.com/news/xiaomi-q2-2026-earnings-memory-crunch)
 
 ---
 
