@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-20T17:16:51.646412+00:00
+> 更新時間：2026-08-20T19:21:29.468059+00:00
 
 ### 🚀 Qisda 將人工智慧基礎設施視為成長最快的商機
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -46,12 +46,12 @@
 
 ---
 
-### ⚠️ 記憶體危機擠壓小米手機利潤再次下滑
-- **題材**: `HBM記憶體` | **重要性**: `70`
-- **來源**: The Next Web (2026-08-19T12:05:27Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 小米第二季利潤再次下滑。全球記憶體短缺不斷推高其手機的成本。根據彭博社報道，這家中國公司連續第三個季度獲利下降。調整後淨利下降約 43% 至 6.22…
-- [原文連結](https://thenextweb.com/news/xiaomi-q2-2026-earnings-memory-crunch)
+### 🚀 三星將代工價格上調至15%，其中中國支付幅度最大
+- **題材**: `半導體先進製程` | **重要性**: `70`
+- **來源**: The Next Web (2026-08-19T18:25:42Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Samsung has raised prices for some of its advanced contract chipmaking by as much as 15 percent for new orders, according to a Reuters report. Two people familiar with the matter said the increases follow a surge in demand for AI chips. That demand is tighten…
+- [原文連結](https://thenextweb.com/news/samsung-foundry-price-hike-15-percent-ai-demand)
 
 ---
 
@@ -136,15 +136,6 @@
 
 ---
 
-### 🚀 HBM 對馬來西亞的出貨量激增，得益於英特爾的「Project Pelican」設施
-- **題材**: `半導體先進製程` | **重要性**: `65`
-- **來源**: Techpowerup.com (2026-08-17T17:19:25Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 根據 SemiAnalysis Chipbook 有關韓國出口的數據，目前高頻寬記憶體出口的很大一部分流向馬來西亞，從而減少了對台灣的出貨量。這表明台積電為其 CoWoS 系列高級晶片使用的 HBM 內存...
-- [原文連結](https://www.techpowerup.com/351658/hbm-shipments-to-malaysia-surge-pointing-to-intels-project-pelican-facility)
-
----
-
 ### ⚖️ Kaynes Semicon 著眼於印度技術推廣中的光子學、量子安全和神經形態晶片
 - **題材**: `光通訊與矽光子` | **重要性**: `63`
 - **來源**: Digitimes (2026-08-17T01:47:48Z)
@@ -169,6 +160,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 隨著共封裝光學元件 (CPO) 的成長煩惱變得越來越明顯，近封裝光學元件 (NPO) 的需求正在增強。隨著光學和矽光子在人工智慧產業掀起波瀾，我們解釋了這兩種技術之間的實質差異。
 - [原文連結](https://www.tomshardware.com/tech-industry/near-packaged-optics-gains-ground-aso-the-industry-hedges-against-co-packaged-optics-growing-pains)
+
+---
+
+### ⚖️ 高通在 Snapdragon 峰會上展示「Dual 8 Elite」晶片：所有人的目光都集中在「Pro」上
+- **題材**: `半導體先進製程` | **重要性**: `60`
+- **來源**: Android Central (2026-08-19T18:36:11Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 高通在 Summit 2026 預告片中準備了兩款 Snapdragon 旗艦晶片，其中將展示「Dual 8 Elites」。
+- [原文連結](https://www.androidcentral.com/phones/qualcomm/qualcomm-teases-dual-8-elite-chips-for-snapdragon-summit-all-eyes-on-pro)
 
 ---
 
