@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-21T15:20:12.262887+00:00
+> 更新時間：2026-08-21T17:17:12.401284+00:00
 
 ### 🚀 AI測試需求激增，Sigurd 7月營收突破新台幣20億元
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -34,15 +34,6 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Samsung has raised prices for some of its advanced contract chipmaking by as much as 15 percent for new orders, according to a Reuters report. Two people familiar with the matter said the increases follow a surge in demand for AI chips. That demand is tighten…
 - [原文連結](https://thenextweb.com/news/samsung-foundry-price-hike-15-percent-ai-demand)
-
----
-
-### 🚀 這隻股票對於人工智慧革命來說已經變得太重要了，不容忽視
-- **題材**: `AI伺服器` | **重要性**: `70`
-- **來源**: 24/7 Wall St. (2026-08-19T17:00:37Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: OpenAI、Anthropic、Meta 和 AWS 都在爭奪同樣的稀缺晶片，而一家晶片製造商處於每筆交易的中心。無論那個位置只是...
-- [原文連結](https://247wallst.com/investing/2026/08/19/this-stock-has-become-too-important-to-the-ai-revolution-to-ignore/)
 
 ---
 
@@ -90,24 +81,6 @@
 - AI 驅動的光網路正在擴大 Viavi 的測試機會，因為 800G 和 1.6T 技術、光電路開關和共封裝光學元件需要在開發和生產過程中進行更複雜的測試。 
 - Viavi数据中心业务...
 - [原文連結](https://biztoc.com/x/02b1b7715ede5578)
-
----
-
-### ⚖️ Applied Optoelectronics Bets on U.S. Laser Capacity to Capture AI Data Center Demand
-- **題材**: `光通訊與矽光子` | **重要性**: `65`
-- **來源**: MarketBeat (2026-08-18T16:02:04Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 應用光電子公司（納斯達克股票代碼：AAOI）將其位於美國的雷射製造和自動化生產能力定位為關鍵的差異化因素，因為數據...
-- [原文連結](https://www.marketbeat.com/instant-alerts/applied-optoelectronics-bets-on-us-laser-capacity-to-capture-ai-data-center-demand-2026-08-18/?utm_source=yahoofinance&amp;utm_medium=yahoofinance)
-
----
-
-### 🚀 政府借貸成本創2007年以來最高水平
-- **題材**: `總體風險` | **重要性**: `65`
-- **來源**: Abcnews.com (2026-08-18T15:46:46Z)
-- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 高債券殖利率對抵押貸款和信用卡利率帶來上行壓力。
-- [原文連結](https://abcnews.com/Business/government-borrowing-costs-hit-highest-level-2007/story?id=135735000)
 
 ---
 
@@ -180,6 +153,35 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Moby 對是德科技 2026 年第三季財報電話會議的摘要
 - [原文連結](https://app.moby.co/home/research/tools/earningsCalendar/earnings-keysight-technologies-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&amp;utm_medium=rss)
+
+---
+
+### ⚖️ SK海力士啟動286億美元股票回購與註銷
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: Quartz India (2026-08-19T12:12:19Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 這家韓國晶片製造商董事會批准從 8 月 20 日開始的三個月內回購並註銷 40 兆韓元的股票
+- [原文連結](https://qz.com/sk-hynix-share-buyback-cancellation-shareholder-returns-081926)
+
+---
+
+### ⚖️ 據報道，谷歌希望很快停止在中國的所有 Pixel 生產
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: GSMArena.com (2026-08-19T04:46:02Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 根據一份新報告稱，谷歌希望明年停止在中國生產任何 Pixel 產品。當然，這包括智慧型手機，也包括智慧手錶和耳機。
+
+近年來，谷歌一直在擴大其在越南和印度的產能，以...
+- [原文連結](https://www.gsmarena.com/google_reportedly_wants_to_end_all_pixel_production_in_china_very_soon-news-74223.php)
+
+---
+
+### ⚖️ 金價上漲，關注聯準會會議紀要
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-08-19T00:59:10Z)
+- **AI 判讀**: 屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 8月19日（路透）
+- [原文連結](https://sg.finance.yahoo.com/news/gold-inches-higher-focus-fed-005910171.html)
 
 ---
 
