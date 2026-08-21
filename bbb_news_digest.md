@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-21T05:54:52.474426+00:00
+> 更新時間：2026-08-21T09:35:41.394900+00:00
 
 ### 🚀 AI測試需求激增，Sigurd 7月營收突破新台幣20億元
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -34,24 +34,6 @@
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: NVIDIA 剛剛動員了 5000 億美元的外部資本來保證 AI 基礎設施的持續建設，而信貸市場的反應則...
 - [原文連結](https://247wallst.com/investing/2026/08/14/the-5-2-trillion-company-just-asked-wall-street-for-500-billion-more/)
-
----
-
-### ⚖️ Xintec readies 12-inch IVR backside copper for TSMC's next-gen AI chips
-- **題材**: `半導體先進製程` | **重要性**: `73`
-- **來源**: Digitimes (2026-08-18T09:05:02Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 台積電正在擴大與封裝和測試子公司 Xintec 的合作，為 AI 晶片開發下一代電力傳輸和先進封裝，而市場猜測表明該公司在 CoWoS 後端組裝方面將發揮更廣泛的外包作用…
-- [原文連結](https://www.digitimes.com/news/a20260817PD219/tsmc-xintec-12-inch-copper-chips.html)
-
----
-
-### ⚖️ Huawei Hubble builds China's InP optical chip stack for the AI interconnect era
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-08-18T09:02:46Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 華為的半導體投資部門看到了早期的光學晶片策略與人工智慧基礎設施的繁榮相一致。自2019年以來，哈伯科技投資有限公司已投資了一系列中國光子學和高速互連公司，其中包括Ve…
-- [原文連結](https://www.digitimes.com/news/a20260817VL211/huawei-inp-investment-chips-substrate.html)
 
 ---
 
@@ -97,6 +79,24 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 雖然華爾街湧入同樣的人工智慧巨頭，但真正的基礎設施建設貫穿大多數辦公桌很少接觸的專業晶片名稱，並且三...
 - [原文連結](https://247wallst.com/investing/2026/08/15/3-under-the-radar-chip-stocks-wall-street-is-sleeping-on-in-august/)
+
+---
+
+### ⚖️ Xintec readies 12-inch IVR backside copper for TSMC's next-gen AI chips
+- **題材**: `半導體先進製程` | **重要性**: `68`
+- **來源**: Digitimes (2026-08-18T09:05:02Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 台積電正在擴大與封裝和測試子公司 Xintec 的合作，為 AI 晶片開發下一代電力傳輸和先進封裝，而市場猜測表明該公司在 CoWoS 後端組裝方面將發揮更廣泛的外包作用…
+- [原文連結](https://www.digitimes.com/news/a20260817PD219/tsmc-xintec-12-inch-copper-chips.html)
+
+---
+
+### ⚖️ Huawei Hubble builds China's InP optical chip stack for the AI interconnect era
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-08-18T09:02:46Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 華為的半導體投資部門看到了早期的光學晶片策略與人工智慧基礎設施的繁榮相一致。自2019年以來，哈伯科技投資有限公司已投資了一系列中國光子學和高速互連公司，其中包括Ve…
+- [原文連結](https://www.digitimes.com/news/a20260817VL211/huawei-inp-investment-chips-substrate.html)
 
 ---
 
@@ -174,12 +174,12 @@
 
 ---
 
-### ⚖️ 高通在 Snapdragon 峰會上展示「Dual 8 Elite」晶片：所有人的目光都集中在「Pro」上
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: Android Central (2026-08-19T18:36:11Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 高通在 Summit 2026 預告片中準備了兩款 Snapdragon 旗艦晶片，其中將展示「Dual 8 Elites」。
-- [原文連結](https://www.androidcentral.com/phones/qualcomm/qualcomm-teases-dual-8-elite-chips-for-snapdragon-summit-all-eyes-on-pro)
+### 🚀 一件大事正在拖累美國人對經濟的看法
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Business Insider (2026-08-20T09:00:01Z)
+- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 薪資成長低於通膨，影響了購買力，加劇了美國人相對低迷的情緒。
+- [原文連結](https://www.businessinsider.com/wage-growth-below-inflation-affecting-american-consumer-sentiment-2026-8#article)
 
 ---
 
