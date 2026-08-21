@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-21T02:18:42.123715+00:00
+> 更新時間：2026-08-21T03:27:28.354802+00:00
 
 ### 🚀 AI測試需求激增，Sigurd 7月營收突破新台幣20億元
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -100,24 +100,6 @@
 
 ---
 
-### 🚀 SK 海力士透過新的全球成長團隊超越記憶
-- **題材**: `HBM記憶體` | **重要性**: `68`
-- **來源**: Digitimes (2026-08-14T03:02:26Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: SK海力士成立了一個專門團隊來尋找核心記憶體業務之外的成長機會，並任命了一名高級集團高管負責，此舉旨在將公司在高頻寬記憶體（HBM）領域的領先地位轉變為在人工智慧基礎設施領域發揮更廣泛的作用。
-- [原文連結](https://www.digitimes.com/news/a20260814VL209/sk-hynix-growth-business-hbm-investment.html)
-
----
-
-### ⚖️ LandMark Opto electronics 表示矽光子產能“非常非常緊張”
-- **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-08-14T02:38:33Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: LandMark OptoElectronics表示，其矽光子（SiPh）產品的需求極為強勁，隨著下游代工廠產能持續增加，預計未來幾季產量將持續成長。光通信外延片…
-- [原文連結](https://www.digitimes.com/news/a20260813PD231/siph-laser-capacity-demand.html)
-
----
-
 ### ⚖️ Applied Optoelectronics Bets on U.S. Laser Capacity to Capture AI Data Center Demand
 - **題材**: `光通訊與矽光子` | **重要性**: `65`
 - **來源**: MarketBeat (2026-08-18T16:02:04Z)
@@ -160,6 +142,24 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 高頻寬記憶體（HBM）是人工智慧半導體的核心組件，在英特爾前執行長 Pat Gelsinger（Pat Gelsinger）最近在巴黎舉行的人工智慧峰會上稱其「糟糕」後，它受到了新的審查。此類記憶體的市場領導者 SK 海力士也表示，它不是鰭...
 - [原文連結](https://www.digitimes.com/news/a20260814PD227/hbm-sk-hynix-pat-gelsinger-component-semiconductors.html)
+
+---
+
+### 🚀 SK 海力士透過新的全球成長團隊超越記憶
+- **題材**: `HBM記憶體` | **重要性**: `63`
+- **來源**: Digitimes (2026-08-14T03:02:26Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: SK海力士成立了一個專門團隊來尋找核心記憶體業務之外的成長機會，並任命了一名高級集團高管負責，此舉旨在將公司在高頻寬記憶體（HBM）領域的領先地位轉變為在人工智慧基礎設施領域發揮更廣泛的作用。
+- [原文連結](https://www.digitimes.com/news/a20260814VL209/sk-hynix-growth-business-hbm-investment.html)
+
+---
+
+### ⚖️ LandMark Opto electronics 表示矽光子產能“非常非常緊張”
+- **題材**: `光通訊與矽光子` | **重要性**: `63`
+- **來源**: Digitimes (2026-08-14T02:38:33Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: LandMark OptoElectronics表示，其矽光子（SiPh）產品的需求極為強勁，隨著下游代工廠產能持續增加，預計未來幾季產量將持續成長。光通信外延片…
+- [原文連結](https://www.digitimes.com/news/a20260813PD231/siph-laser-capacity-demand.html)
 
 ---
 
