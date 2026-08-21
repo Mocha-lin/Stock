@@ -1,21 +1,12 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-20T23:24:39.626174+00:00
+> 更新時間：2026-08-21T02:18:42.123715+00:00
 
-### 🚀 Qisda 將人工智慧基礎設施視為成長最快的商機
+### 🚀 AI測試需求激增，Sigurd 7月營收突破新台幣20億元
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
-- **來源**: Digitimes (2026-08-13T07:15:00Z)
+- **來源**: Digitimes (2026-08-16T23:49:51Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 佳世達董事長陳彼得表示，隨著AI運算需求的激增，基礎設施是首先必須建造的基礎。他表示，佳世達不會缺席這場快速發展的競賽，該公司將加大在人工智慧伺服器、資料中心、1.6T交換器和矽...
-- [原文連結](https://www.digitimes.com/news/a20260811PD252/qisda-business-infrastructure-revenue-profit.html)
-
----
-
-### 🚀 LandMark Opto electronics 因矽光子需求而利潤激增
-- **題材**: `光通訊與矽光子` | **重要性**: `78`
-- **來源**: Digitimes (2026-08-13T07:04:32Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: LandMark OptoElectronics Corp. 報告稱，受矽光子產品強勁需求和出貨量增加的推動，2026 年第二季營收、利潤率和利潤大幅成長。這家光通訊外延晶圓製造商也表示…
-- [原文連結](https://www.digitimes.com/news/a20260813PD205/profit-silicon-revenue-photonics-2026.html)
+- **摘要**: IC 測試和封裝公司 Sigurd MicroElectronics 公佈了 2026 年 7 月創紀錄的收入，並表示人工智慧和人工智慧連接市場的需求推動了這一結果。該公司表示，高效能運算晶片的訂單包括CPU、GPU、ASIC…
+- [原文連結](https://www.digitimes.com/news/a20260814PD201/sigurd-revenue-demand-2026-testing.html)
 
 ---
 
@@ -37,6 +28,15 @@
 
 ---
 
+### ⚖️ CPO 需求不斷成長，SiPh 重塑半導體測試
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-08-20T00:12:57Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 畢馬威董事總經理傑西·陳 (Jesse Chen) 表示，隨著晶片功耗、傳輸速度和架構複雜性的增加，測試已從最終的發貨前質量關口轉變為產品開發和量產的早期階段。
+- [原文連結](https://www.digitimes.com/news/a20260819PD211/testing-demand-cpo-siph-transmission.html)
+
+---
+
 ### ⚖️ Xintec readies 12-inch IVR backside copper for TSMC's next-gen AI chips
 - **題材**: `半導體先進製程` | **重要性**: `73`
 - **來源**: Digitimes (2026-08-18T09:05:02Z)
@@ -46,12 +46,39 @@
 
 ---
 
+### ⚖️ Huawei Hubble builds China's InP optical chip stack for the AI interconnect era
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-08-18T09:02:46Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 華為的半導體投資部門看到了早期的光學晶片策略與人工智慧基礎設施的繁榮相一致。自2019年以來，哈伯科技投資有限公司已投資了一系列中國光子學和高速互連公司，其中包括Ve…
+- [原文連結](https://www.digitimes.com/news/a20260817VL211/huawei-inp-investment-chips-substrate.html)
+
+---
+
 ### 🚀 三星將代工價格上調至15%，其中中國支付幅度最大
 - **題材**: `半導體先進製程` | **重要性**: `70`
 - **來源**: The Next Web (2026-08-19T18:25:42Z)
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Samsung has raised prices for some of its advanced contract chipmaking by as much as 15 percent for new orders, according to a Reuters report. Two people familiar with the matter said the increases follow a surge in demand for AI chips. That demand is tighten…
 - [原文連結](https://thenextweb.com/news/samsung-foundry-price-hike-15-percent-ai-demand)
+
+---
+
+### 🚀 這隻股票對於人工智慧革命來說已經變得太重要了，不容忽視
+- **題材**: `AI伺服器` | **重要性**: `70`
+- **來源**: 24/7 Wall St. (2026-08-19T17:00:37Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: OpenAI、Anthropic、Meta 和 AWS 都在爭奪同樣的稀缺晶片，而一家晶片製造商處於每筆交易的中心。無論那個位置只是...
+- [原文連結](https://247wallst.com/investing/2026/08/19/this-stock-has-become-too-important-to-the-ai-revolution-to-ignore/)
+
+---
+
+### ⚠️ 記憶體危機擠壓小米手機利潤再次下滑
+- **題材**: `HBM記憶體` | **重要性**: `70`
+- **來源**: The Next Web (2026-08-19T12:05:27Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 小米第二季利潤再次下滑。全球記憶體短缺不斷推高其手機的成本。根據彭博社報道，這家中國公司連續第三個季度獲利下降。調整後淨利下降約 43% 至 6.22…
+- [原文連結](https://thenextweb.com/news/xiaomi-q2-2026-earnings-memory-crunch)
 
 ---
 
@@ -88,24 +115,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: LandMark OptoElectronics表示，其矽光子（SiPh）產品的需求極為強勁，隨著下游代工廠產能持續增加，預計未來幾季產量將持續成長。光通信外延片…
 - [原文連結](https://www.digitimes.com/news/a20260813PD231/siph-laser-capacity-demand.html)
-
----
-
-### 🚀 隨著 InP 限制的增加，GaAs 在短距離人工智慧光學領域取得進展
-- **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-08-13T04:39:35Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 隨著人工智慧工作負載將資料中心互連從 800G 推向 1.6T，磷化銦 (InP) 已成為高速光鏈路（尤其是長距離傳輸）的關鍵材料。但晶体生长面临挑战、供应限制和高……
-- [原文連結](https://www.digitimes.com/news/a20260813PD227/gaas-inp-data-center-transmission-growth.html)
-
----
-
-### 🚀 Hanmi pulls ahead of Hanwha as HBM4 orders rebound
-- **題材**: `HBM記憶體` | **重要性**: `68`
-- **來源**: Digitimes (2026-08-13T03:51:21Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 隨著 HBM4 設備訂單反彈，以及 Hanmi 與美光不斷增長的業務有助於減少其對 SK Hynix 的依賴，韓國 Hanmi Semiconductor 在高頻寬內存 (HBM) 熱壓 (TC) 鍵合機方面領先於競爭對手 Hanwha Semitech。
-- [原文連結](https://www.digitimes.com/news/a20260813VL208/hbm4-hanwha-hanmi-sk-hynix-equipment.html)
 
 ---
 
@@ -154,15 +163,6 @@
 
 ---
 
-### 🚀 隨著產業對沖 CPO 的成長陣痛，近封裝光學 (NPO) 取得了進展——分析師表示，NPO 矽光子產品的銷售將持續到本世紀末
-- **題材**: `光通訊與矽光子` | **重要性**: `62`
-- **來源**: Tom's Hardware UK (2026-08-13T16:52:45Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 隨著共封裝光學元件 (CPO) 的成長煩惱變得越來越明顯，近封裝光學元件 (NPO) 的需求正在增強。隨著光學和矽光子在人工智慧產業掀起波瀾，我們解釋了這兩種技術之間的實質差異。
-- [原文連結](https://www.tomshardware.com/tech-industry/near-packaged-optics-gains-ground-aso-the-industry-hedges-against-co-packaged-optics-growing-pains)
-
----
-
 ### ⚖️ 高通在 Snapdragon 峰會上展示「Dual 8 Elite」晶片：所有人的目光都集中在「Pro」上
 - **題材**: `半導體先進製程` | **重要性**: `60`
 - **來源**: Android Central (2026-08-19T18:36:11Z)
@@ -172,12 +172,12 @@
 
 ---
 
-### ⚖️ SK海力士啟動286億美元股票回購與註銷
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: Quartz India (2026-08-19T12:12:19Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 這家韓國晶片製造商董事會批准從 8 月 20 日開始的三個月內回購並註銷 40 兆韓元的股票
-- [原文連結](https://qz.com/sk-hynix-share-buyback-cancellation-shareholder-returns-081926)
+### ⚖️ 是德科技 2026 年第三季財報電話會議摘要
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: Moby.co (2026-08-19T12:30:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Moby 對是德科技 2026 年第三季財報電話會議的摘要
+- [原文連結](https://app.moby.co/home/research/tools/earningsCalendar/earnings-keysight-technologies-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&amp;utm_medium=rss)
 
 ---
 
