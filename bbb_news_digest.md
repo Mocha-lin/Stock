@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-21T09:35:41.394900+00:00
+> 更新時間：2026-08-21T13:35:24.242249+00:00
 
 ### 🚀 AI測試需求激增，Sigurd 7月營收突破新台幣20億元
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -64,15 +64,6 @@
 
 ---
 
-### ⚠️ 記憶體緊縮導致經濟衰退加劇，小米獲利大幅下滑
-- **題材**: `HBM記憶體` | **重要性**: `70`
-- **來源**: Yahoo Entertainment (2026-08-18T11:21:59Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 小米公司公佈利潤連續第三次下滑，突顯出持續的全球記憶體短缺對全球最大的企業之一造成的沉重打擊。
-- [原文連結](https://finance.yahoo.com/markets/stocks/articles/xiaomi-profit-dives-memory-crunch-112159230.html)
-
----
-
 ### 🚀 8 月份華爾街沉睡的 3 檔不為人知的晶片股
 - **題材**: `光通訊與矽光子` | **重要性**: `70`
 - **來源**: 24/7 Wall St. (2026-08-15T11:00:26Z)
@@ -129,12 +120,12 @@
 
 ---
 
-### 🚀 Crucial 迴避 SSD 保固索賠，稱「我們的庫存已耗盡」——隨著內存和存儲製造商創紀錄的利潤滾滾而來，消費者被忽視
+### ⚠️ 記憶體緊縮導致經濟衰退加劇，小米獲利大幅下滑
 - **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: Windows Central (2026-08-18T13:17:41Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 隨著記憶體和儲存製造商將重心轉向人工智慧客戶並賺取創紀錄的利潤，普通消費者卻無法就有故障的 RAM 和 SSD 提出適當的保固索賠。有什麼辦法嗎？
-- [原文連結](https://www.windowscentral.com/hardware/micron-crucial-ssd-warranty-claim-botched-ai-shortages)
+- **來源**: Yahoo Entertainment (2026-08-18T11:21:59Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 小米公司公佈利潤連續第三次下滑，突顯出持續的全球記憶體短缺對全球最大的企業之一造成的沉重打擊。
+- [原文連結](https://finance.yahoo.com/markets/stocks/articles/xiaomi-profit-dives-memory-crunch-112159230.html)
 
 ---
 
@@ -180,6 +171,15 @@
 - **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 薪資成長低於通膨，影響了購買力，加劇了美國人相對低迷的情緒。
 - [原文連結](https://www.businessinsider.com/wage-growth-below-inflation-affecting-american-consumer-sentiment-2026-8#article)
+
+---
+
+### ⚖️ 高通在 Snapdragon 峰會上展示「Dual 8 Elite」晶片：所有人的目光都集中在「Pro」上
+- **題材**: `半導體先進製程` | **重要性**: `60`
+- **來源**: Android Central (2026-08-19T18:36:11Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 高通在 Summit 2026 預告片中準備了兩款 Snapdragon 旗艦晶片，其中將展示「Dual 8 Elites」。
+- [原文連結](https://www.androidcentral.com/phones/qualcomm/qualcomm-teases-dual-8-elite-chips-for-snapdragon-summit-all-eyes-on-pro)
 
 ---
 
