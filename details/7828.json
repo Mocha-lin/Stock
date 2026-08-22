@@ -1,7 +1,7 @@
 {
   "id": "7828",
   "name": "創新服務",
-  "lastUpdated": "2026-08-21 15:36:16",
+  "lastUpdated": "2026-08-22 15:25:03",
   "basicInfo": {
     "price": "1610.00",
     "change": "-40.00",
@@ -398,6 +398,14 @@
     ],
     "chips_table": [
       {
+        "date": "2026-08-21",
+        "foreign_lots": -13.37,
+        "it_lots": 0.0,
+        "dealer_lots": -1.0,
+        "sum_lots": -14.37,
+        "pct_float": -0.0035486826410891514
+      },
+      {
         "date": "2026-08-20",
         "foreign_lots": 3.958,
         "it_lots": 0.0,
@@ -508,21 +516,13 @@
         "dealer_lots": -2.9,
         "sum_lots": 50.74,
         "pct_float": 0.012530282338821405
-      },
-      {
-        "date": "2026-07-31",
-        "foreign_lots": -98.035,
-        "it_lots": 0.125,
-        "dealer_lots": 19.0,
-        "sum_lots": -78.91,
-        "pct_float": -0.019486885679077588
       }
     ],
     "returns_table": [
       {
         "year": 2026,
-        "return_pct": 207.54875329649383,
-        "period": "01/02~08/20"
+        "return_pct": 200.09302594385156,
+        "period": "01/02~08/21"
       },
       {
         "year": 2025,
@@ -535,7 +535,7 @@
       "dataset": "structure_c_score",
       "stock_id": "7828",
       "ticker": "7828.TWO",
-      "asof": "2026-08-20",
+      "asof": "2026-08-21",
       "c_score": 1.0,
       "benchmark_pe": 82.16608632809934,
       "source": [
@@ -3170,7 +3170,7 @@
         "high": 1630.0,
         "low": 1580.0,
         "close": 1610.0,
-        "volume": 70600.0,
+        "volume": 59480.0,
         "adjclose": 1610.0,
         "dividends": 0.0,
         "MA5": 1646.0,
@@ -3182,7 +3182,7 @@
         "DIF": -33.63128481328022,
         "DEA": -39.67307884239358,
         "HIST": 12.083588058226724,
-        "volume_lot": 70.6
+        "volume_lot": 59.48
       }
     ]
   }

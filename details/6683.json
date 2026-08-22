@@ -1,7 +1,7 @@
 {
   "id": "6683",
   "name": "雍智科技",
-  "lastUpdated": "2026-08-21 15:36:16",
+  "lastUpdated": "2026-08-22 15:25:03",
   "reportDate": "2026-06-03 22:24:02",
   "ai_model": "Fact-Update",
   "basicInfo": {
@@ -551,6 +551,14 @@
     ],
     "chips_table": [
       {
+        "date": "2026-08-21",
+        "foreign_lots": 258.15,
+        "it_lots": -272.0,
+        "dealer_lots": 4.477,
+        "sum_lots": -9.373000000000022,
+        "pct_float": -0.0034012889553365444
+      },
+      {
         "date": "2026-08-20",
         "foreign_lots": 67.0,
         "it_lots": 0.0,
@@ -661,14 +669,6 @@
         "dealer_lots": 2.061,
         "sum_lots": -105.939,
         "pct_float": -0.03844331064113916
-      },
-      {
-        "date": "2026-07-31",
-        "foreign_lots": 8.0,
-        "it_lots": -86.0,
-        "dealer_lots": -3.273,
-        "sum_lots": -81.273,
-        "pct_float": -0.029492473836238806
       }
     ],
     "c_score_data": {
@@ -676,7 +676,7 @@
       "dataset": "structure_c_score",
       "stock_id": "6683",
       "ticker": "6683.TWO",
-      "asof": "2026-08-20",
+      "asof": "2026-08-21",
       "c_score": 1.3593647420959574,
       "benchmark_pe": 75.36917101804875,
       "source": [
@@ -975,8 +975,8 @@
     "returns_table": [
       {
         "year": 2026,
-        "return_pct": 173.13331279225883,
-        "period": "01/02~08/20"
+        "return_pct": 156.36196902431308,
+        "period": "01/02~08/21"
       },
       {
         "year": 2025,
@@ -985,17 +985,17 @@
       },
       {
         "year": 2024,
-        "return_pct": 41.0185812390572,
+        "return_pct": 41.018595941755784,
         "period": "01/02~12/31"
       },
       {
         "year": 2023,
-        "return_pct": 78.21591359633528,
+        "return_pct": 78.21593193903729,
         "period": "01/03~12/29"
       },
       {
         "year": 2022,
-        "return_pct": -41.08462845400515,
+        "return_pct": -41.08462199853985,
         "period": "01/03~12/30"
       }
     ],
@@ -4396,7 +4396,7 @@
         "high": 1160.0,
         "low": 1050.0,
         "close": 1070.0,
-        "volume": 880451.0,
+        "volume": 831135.0,
         "adjclose": 1070.0,
         "dividends": 0.0,
         "MA5": 1197.0,
@@ -4408,7 +4408,7 @@
         "DIF": -45.20369639059004,
         "DEA": -55.19112685996132,
         "HIST": 19.97486093874255,
-        "volume_lot": 880.451
+        "volume_lot": 831.135
       }
     ],
     "valuation": {

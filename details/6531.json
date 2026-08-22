@@ -1,7 +1,7 @@
 {
   "id": "6531",
   "name": "愛普*",
-  "lastUpdated": "2026-08-21 15:36:16",
+  "lastUpdated": "2026-08-22 15:25:03",
   "reportDate": "2026-06-03 22:24:02",
   "ai_model": "Fact-Update",
   "basicInfo": {
@@ -551,6 +551,14 @@
     ],
     "chips_table": [
       {
+        "date": "2026-08-21",
+        "foreign_lots": 37.894,
+        "it_lots": 226.0,
+        "dealer_lots": -32.816,
+        "sum_lots": 231.078,
+        "pct_float": 0.028318764100986656
+      },
+      {
         "date": "2026-08-20",
         "foreign_lots": 1530.812,
         "it_lots": -1142.932,
@@ -661,14 +669,6 @@
         "dealer_lots": 30.186,
         "sum_lots": -98.43100000000001,
         "pct_float": -0.012062785160094071
-      },
-      {
-        "date": "2026-07-31",
-        "foreign_lots": -1047.586,
-        "it_lots": -268.929,
-        "dealer_lots": 134.817,
-        "sum_lots": -1181.6979999999999,
-        "pct_float": -0.14481788357441092
       }
     ],
     "c_score_data": {
@@ -676,7 +676,7 @@
       "dataset": "structure_c_score",
       "stock_id": "6531",
       "ticker": "6531.TW",
-      "asof": "2026-08-20",
+      "asof": "2026-08-21",
       "c_score": 1.28093807366199,
       "benchmark_pe": 103.22773290865658,
       "source": [
@@ -975,8 +975,8 @@
     "returns_table": [
       {
         "year": 2026,
-        "return_pct": 93.68643123604595,
-        "period": "01/02~08/20"
+        "return_pct": 93.90603036443149,
+        "period": "01/02~08/21"
       },
       {
         "year": 2025,
@@ -4404,7 +4404,7 @@
         "high": 924.0,
         "low": 870.0,
         "close": 883.0,
-        "volume": 4135362.0,
+        "volume": 4057613.0,
         "adjclose": 883.0,
         "dividends": 0.0,
         "MA5": 867.6,
@@ -4416,7 +4416,7 @@
         "DIF": 3.729268923602831,
         "DEA": -4.81369812864804,
         "HIST": 17.085934104501742,
-        "volume_lot": 4135.362
+        "volume_lot": 4057.613
       }
     ],
     "valuation": {

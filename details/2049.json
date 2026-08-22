@@ -1,7 +1,7 @@
 {
   "id": "2049",
   "name": "上銀",
-  "lastUpdated": "2026-08-21 15:36:16",
+  "lastUpdated": "2026-08-22 15:25:03",
   "basicInfo": {
     "price": "349.00",
     "change": "-17.50",
@@ -788,6 +788,14 @@
     ],
     "chips_table": [
       {
+        "date": "2026-08-21",
+        "foreign_lots": -1687.795,
+        "it_lots": 537.0,
+        "dealer_lots": -119.889,
+        "sum_lots": -1270.684,
+        "pct_float": -0.035916101057032614
+      },
+      {
         "date": "2026-08-20",
         "foreign_lots": -1939.379,
         "it_lots": 1090.0,
@@ -898,14 +906,6 @@
         "dealer_lots": 124.316,
         "sum_lots": 1229.525,
         "pct_float": 0.034752734867321874
-      },
-      {
-        "date": "2026-07-31",
-        "foreign_lots": 331.027,
-        "it_lots": 2.0,
-        "dealer_lots": 13.717999999999998,
-        "sum_lots": 346.745,
-        "pct_float": 0.009800806857582825
       }
     ],
     "c_score_data": {
@@ -913,7 +913,7 @@
       "dataset": "structure_c_score",
       "stock_id": "2049",
       "ticker": "2049.TW",
-      "asof": "2026-08-20",
+      "asof": "2026-08-21",
       "c_score": 1.4176710946322308,
       "benchmark_pe": 135.9016393442623,
       "source": [
@@ -1212,8 +1212,8 @@
     "returns_table": [
       {
         "year": 2026,
-        "return_pct": 88.08170465582981,
-        "period": "01/02~08/20"
+        "return_pct": 79.10099570227722,
+        "period": "01/02~08/21"
       },
       {
         "year": 2025,
@@ -3743,7 +3743,7 @@
         "high": 368.5,
         "low": 348.0,
         "close": 349.0,
-        "volume": 5385029.0,
+        "volume": 5171069.0,
         "adjclose": 349.0,
         "dividends": 0.0,
         "MA5": 366.4,
@@ -3755,7 +3755,7 @@
         "DIF": 10.339917146452647,
         "DEA": 10.905994157400428,
         "HIST": -1.132154021895559,
-        "volume_lot": 5385.029
+        "volume_lot": 5171.069
       }
     ],
     "valuation": {
