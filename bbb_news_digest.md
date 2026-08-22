@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-22T17:09:53.607207+00:00
+> 更新時間：2026-08-22T19:13:08.053024+00:00
 
 ### 🚀 1.6T光模組激增，TXC轉向AI基礎設施
 - **題材**: `光通訊與矽光子` | **重要性**: `88`
@@ -55,15 +55,6 @@
 
 ---
 
-### 🚀 三星將代工價格上調至15%，其中中國支付幅度最大
-- **題材**: `半導體先進製程` | **重要性**: `70`
-- **來源**: The Next Web (2026-08-19T18:25:42Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Samsung has raised prices for some of its advanced contract chipmaking by as much as 15 percent for new orders, according to a Reuters report. Two people familiar with the matter said the increases follow a surge in demand for AI chips. That demand is tighten…
-- [原文連結](https://thenextweb.com/news/samsung-foundry-price-hike-15-percent-ai-demand)
-
----
-
 ### ⚠️ Trump says U.S. and Canada reached deal to delay 50% U.S. tariffs on Canadian imports
 - **題材**: `總體風險` | **重要性**: `70`
 - **來源**: NPR (2026-08-19T04:55:08Z)
@@ -99,6 +90,15 @@
 - AI 驅動的光網路正在擴大 Viavi 的測試機會，因為 800G 和 1.6T 技術、光電路開關和共封裝光學元件需要在開發和生產過程中進行更複雜的測試。 
 - Viavi数据中心业务...
 - [原文連結](https://biztoc.com/x/02b1b7715ede5578)
+
+---
+
+### 🚀 三星將代工價格上調至15%，其中中國支付幅度最大
+- **題材**: `半導體先進製程` | **重要性**: `65`
+- **來源**: The Next Web (2026-08-19T18:25:42Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Samsung has raised prices for some of its advanced contract chipmaking by as much as 15 percent for new orders, according to a Reuters report. Two people familiar with the matter said the increases follow a surge in demand for AI chips. That demand is tighten…
+- [原文連結](https://thenextweb.com/news/samsung-foundry-price-hike-15-percent-ai-demand)
 
 ---
 
@@ -165,21 +165,21 @@
 
 ---
 
-### ⚖️ 高通在 Snapdragon 峰會上展示「Dual 8 Elite」晶片：所有人的目光都集中在「Pro」上
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: Android Central (2026-08-19T18:36:11Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 高通在 Summit 2026 預告片中準備了兩款 Snapdragon 旗艦晶片，其中將展示「Dual 8 Elites」。
-- [原文連結](https://www.androidcentral.com/phones/qualcomm/qualcomm-teases-dual-8-elite-chips-for-snapdragon-summit-all-eyes-on-pro)
-
----
-
 ### ⚠️ 零售巨頭塔吉特 (Target) 因關稅退款獲得 10 億美元收益
 - **題材**: `總體風險` | **重要性**: `60`
 - **來源**: BBC News (2026-08-19T14:47:02Z)
 - **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: The US chain said it received a $994 million pre-tax reimbursement, which resulted in its second quarter operating income rising to $2.6bn.
 - [原文連結](https://www.bbc.co.uk/news/articles/c78gp4y8d3eo)
+
+---
+
+### ⚖️ Applied Optoelectronics Bets on U.S. Laser Capacity to Capture AI Data Center Demand
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: MarketBeat (2026-08-18T16:02:04Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 應用光電子公司（納斯達克股票代碼：AAOI）將其位於美國的雷射製造和自動化生產能力定位為關鍵的差異化因素，因為數據...
+- [原文連結](https://www.marketbeat.com/instant-alerts/applied-optoelectronics-bets-on-us-laser-capacity-to-capture-ai-data-center-demand-2026-08-18/?utm_source=yahoofinance&amp;utm_medium=yahoofinance)
 
 ---
 
