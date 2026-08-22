@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-22T13:22:19.201313+00:00
+> 更新時間：2026-08-22T15:08:28.729760+00:00
 
 ### 🚀 1.6T光模組激增，TXC轉向AI基礎設施
 - **題材**: `光通訊與矽光子` | **重要性**: `88`
@@ -19,21 +19,21 @@
 
 ---
 
-### 🚀 SK海力士新HBM團隊登陸Nvidia和AMD後院——協同設計正在成為贏得HBM4訂單的方式
-- **題材**: `HBM記憶體` | **重要性**: `78`
-- **來源**: Digitimes (2026-08-20T05:44:00Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: SK Hynix is reported to be assembling a high-bandwidth memory (HBM) design team in Silicon Valley, a move that would deepen its co-design work with major US chip customers. Analysts see it as evidence that HBM competition is shifting into a customized, jointl…
-- [原文連結](https://www.digitimes.com/news/a20260820PD219/sk-hynix-hbm-hbm4-design-amd.html)
-
----
-
 ### 🚀 根據新的預測，到 2030 年，人工智慧資料中心光學互連市場將達到 1,440 億美元，比 2024 年的數字增長十倍以上——在共同封裝光學元件的推動下，矽光子預計將佔收入的近三分之二
 - **題材**: `光通訊與矽光子` | **重要性**: `77`
 - **來源**: Tom's Hardware UK (2026-08-17T11:20:00Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: CIC的新預測預計，資料中心光互連市場將從2024年的137億美元成長到2030年的1,444億美元，其中矽光子佔營收的63.7%。
 - [原文連結](https://www.tomshardware.com/tech-industry/photonics/ai-data-center-optical-interconnect-market-to-hit-usd144-billion-by-2030-an-over-ten-fold-increase-from-2024-figures-according-to-new-projections-silicon-photonics-expected-to-account-for-nearly-two-thirds-of-revenue-driven-by-co-packaged-optics)
+
+---
+
+### ⚠️ 「混亂的關稅制度造成的損害無法退還」：1000億美元的退稅已經抹去了5月份以來進口稅帶來的收入
+- **題材**: `總體風險` | **重要性**: `70`
+- **來源**: Yahoo Entertainment (2026-08-21T14:37:33Z)
+- **AI 判讀**: 屬「總體風險」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 6 月份，由於關稅退款超過收入，川普政府的海關淨收入損失超過 250 億美元。
+- [原文連結](https://finance.yahoo.com/economy/policy/articles/damage-chaotic-tariff-regime-cannot-143733492.html)
 
 ---
 
@@ -91,15 +91,6 @@
 
 ---
 
-### 🚀 美國消費者到處都閃爍著危險訊號
-- **題材**: `總體風險` | **重要性**: `65`
-- **來源**: Business Insider (2026-08-21T09:50:01Z)
-- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 沃爾瑪的獲利、零售銷售、消費者信心和就業數據都顯示美國人面臨的壓力越來越大。
-- [原文連結](https://www.businessinsider.com/us-consumer-warning-signs-walmart-retail-sales-jobs-economic-slowdown-2026-8#article)
-
----
-
 ### ⚖️ Viavi 認為 AI 光學、CPO 測試將推動季度營收邁向 5 億美元
 - **題材**: `光通訊與矽光子` | **重要性**: `65`
 - **來源**: Biztoc.com (2026-08-20T04:27:52Z)
@@ -108,15 +99,6 @@
 - AI 驅動的光網路正在擴大 Viavi 的測試機會，因為 800G 和 1.6T 技術、光電路開關和共封裝光學元件需要在開發和生產過程中進行更複雜的測試。 
 - Viavi数据中心业务...
 - [原文連結](https://biztoc.com/x/02b1b7715ede5578)
-
----
-
-### ⚠️ 零售巨頭塔吉特 (Target) 因關稅退款獲得 10 億美元收益
-- **題材**: `總體風險` | **重要性**: `65`
-- **來源**: BBC News (2026-08-19T14:47:02Z)
-- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: The US chain said it received a $994 million pre-tax reimbursement, which resulted in its second quarter operating income rising to $2.6bn.
-- [原文連結](https://www.bbc.co.uk/news/articles/c78gp4y8d3eo)
 
 ---
 
@@ -144,6 +126,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Kaynes Semicon 執行長 Raghu Panicker 表示，隨著印度準備下一階段的半導體支援計劃，Kaynes Semicon 正在將矽光子 (SiPh) 和共封裝光學 (CPO)、後量子安全和神經形態計算視為潛在的擴張領域。
 - [原文連結](https://www.digitimes.com/news/a20260816VL200/kaynes-semicon-india-siph-cpo-chips-security.html)
+
+---
+
+### 🚀 Nvidia 正在與韓國推理晶片設計商 Rebellions 進行洽談
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: The Next Web (2026-08-21T14:58:28Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Nvidia is in early talks with the Korean AI chip designer Rebellions about a technical partnership, an investment or possibly an acquisition, Bloomberg reported on Friday. Jensen Huang met Rebellions co-founder and chief executive Sunghyun Park at Nvidia’s Sa…
+- [原文連結](https://thenextweb.com/news/nvidia-rebellions-talks-korea-inference-chips)
 
 ---
 
@@ -180,6 +171,15 @@
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: NVIDIA 公司（納斯達克股票代碼：NVDA）即將發布 8 月 26 日的收益報告，人們的預期已經有所提高。華爾街公司 Stifel 相信它可以...
 - [原文連結](https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-foxconn-super-micro-210152728.html)
+
+---
+
+### ⚖️ 高通在 Snapdragon 峰會上展示「Dual 8 Elite」晶片：所有人的目光都集中在「Pro」上
+- **題材**: `半導體先進製程` | **重要性**: `60`
+- **來源**: Android Central (2026-08-19T18:36:11Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 高通在 Summit 2026 預告片中準備了兩款 Snapdragon 旗艦晶片，其中將展示「Dual 8 Elites」。
+- [原文連結](https://www.androidcentral.com/phones/qualcomm/qualcomm-teases-dual-8-elite-chips-for-snapdragon-summit-all-eyes-on-pro)
 
 ---
 
