@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-22T15:08:28.729760+00:00
+> 更新時間：2026-08-22T17:09:53.607207+00:00
 
 ### 🚀 1.6T光模組激增，TXC轉向AI基礎設施
 - **題材**: `光通訊與矽光子` | **重要性**: `88`
@@ -28,6 +28,15 @@
 
 ---
 
+### 🚀 AMD vs. Nvidia: Is AMD Finally Closing the AI Gap?
+- **題材**: `AI伺服器` | **重要性**: `70`
+- **來源**: 24/7 Wall St. (2026-08-21T15:30:53Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: AMD 剛剛發布了有史以來最好的季度業績，而 Nvidia 正邁向萬億美元的跑道，現在每個超大規模企業都必須決定是否有一個可信的...
+- [原文連結](https://247wallst.com/investing/2026/08/21/amd-vs-nvidia-is-amd-finally-closing-the-ai-gap/)
+
+---
+
 ### ⚠️ 「混亂的關稅制度造成的損害無法退還」：1000億美元的退稅已經抹去了5月份以來進口稅帶來的收入
 - **題材**: `總體風險` | **重要性**: `70`
 - **來源**: Yahoo Entertainment (2026-08-21T14:37:33Z)
@@ -52,15 +61,6 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Samsung has raised prices for some of its advanced contract chipmaking by as much as 15 percent for new orders, according to a Reuters report. Two people familiar with the matter said the increases follow a surge in demand for AI chips. That demand is tighten…
 - [原文連結](https://thenextweb.com/news/samsung-foundry-price-hike-15-percent-ai-demand)
-
----
-
-### 🚀 這隻股票對於人工智慧革命來說已經變得太重要了，不容忽視
-- **題材**: `AI伺服器` | **重要性**: `70`
-- **來源**: 24/7 Wall St. (2026-08-19T17:00:37Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: OpenAI、Anthropic、Meta 和 AWS 都在爭奪同樣的稀缺晶片，而一家晶片製造商處於每筆交易的中心。無論那個位置只是...
-- [原文連結](https://247wallst.com/investing/2026/08/19/this-stock-has-become-too-important-to-the-ai-revolution-to-ignore/)
 
 ---
 
@@ -165,21 +165,21 @@
 
 ---
 
-### ⚖️ NVIDIA (NVDA)：富士康和超微告訴我們有關人工智慧熱潮的信息
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-08-19T21:01:52Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: NVIDIA 公司（納斯達克股票代碼：NVDA）即將發布 8 月 26 日的收益報告，人們的預期已經有所提高。華爾街公司 Stifel 相信它可以...
-- [原文連結](https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-foxconn-super-micro-210152728.html)
-
----
-
 ### ⚖️ 高通在 Snapdragon 峰會上展示「Dual 8 Elite」晶片：所有人的目光都集中在「Pro」上
 - **題材**: `半導體先進製程` | **重要性**: `60`
 - **來源**: Android Central (2026-08-19T18:36:11Z)
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 高通在 Summit 2026 預告片中準備了兩款 Snapdragon 旗艦晶片，其中將展示「Dual 8 Elites」。
 - [原文連結](https://www.androidcentral.com/phones/qualcomm/qualcomm-teases-dual-8-elite-chips-for-snapdragon-summit-all-eyes-on-pro)
+
+---
+
+### ⚠️ 零售巨頭塔吉特 (Target) 因關稅退款獲得 10 億美元收益
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: BBC News (2026-08-19T14:47:02Z)
+- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: The US chain said it received a $994 million pre-tax reimbursement, which resulted in its second quarter operating income rising to $2.6bn.
+- [原文連結](https://www.bbc.co.uk/news/articles/c78gp4y8d3eo)
 
 ---
 
