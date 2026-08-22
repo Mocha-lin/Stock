@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-21T23:23:03.575367+00:00
+> 更新時間：2026-08-22T02:10:16.501830+00:00
 
 ### 🚀 1.6T光模組激增，TXC轉向AI基礎設施
 - **題材**: `光通訊與矽光子` | **重要性**: `88`
@@ -37,6 +37,24 @@
 
 ---
 
+### ⚠️ Trump says U.S. and Canada reached deal to delay 50% U.S. tariffs on Canadian imports
+- **題材**: `總體風險` | **重要性**: `75`
+- **來源**: NPR (2026-08-19T04:55:08Z)
+- **AI 判讀**: 屬「總體風險」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 川普總統表示，在製裁生效前不到兩小時，兩國達成最後一刻協議後，他將推遲美國對加拿大進口產品徵收 50% 的關稅。
+- [原文連結](https://www.npr.org/2026/08/19/g-s1-139156/trump-canada-tariffs)
+
+---
+
+### 🚀 SK Hynix 回購創紀錄，股價上漲 4%，美光科技股價上漲，記憶體逆襲科技股拋售
+- **題材**: `HBM記憶體` | **重要性**: `70`
+- **來源**: 24/7 Wall St. (2026-08-20T18:31:39Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 雖然科技板塊的其他板塊週四都出現了虧損，但內存股卻在反抗重力，而推動最大贏家的催化劑與…無關。
+- [原文連結](https://247wallst.com/investing/2026/08/20/sk-hynix-climbs-4-on-record-buyback-micron-ticks-up-as-memory-defies-the-tech-selloff/)
+
+---
+
 ### 🚀 三星將代工價格上調至15%，其中中國支付幅度最大
 - **題材**: `半導體先進製程` | **重要性**: `70`
 - **來源**: The Next Web (2026-08-19T18:25:42Z)
@@ -46,21 +64,21 @@
 
 ---
 
+### 🚀 這隻股票對於人工智慧革命來說已經變得太重要了，不容忽視
+- **題材**: `AI伺服器` | **重要性**: `70`
+- **來源**: 24/7 Wall St. (2026-08-19T17:00:37Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: OpenAI、Anthropic、Meta 和 AWS 都在爭奪同樣的稀缺晶片，而一家晶片製造商處於每筆交易的中心。無論那個位置只是...
+- [原文連結](https://247wallst.com/investing/2026/08/19/this-stock-has-become-too-important-to-the-ai-revolution-to-ignore/)
+
+---
+
 ### 🚀 8 月份華爾街沉睡的 3 檔不為人知的晶片股
 - **題材**: `光通訊與矽光子` | **重要性**: `70`
 - **來源**: 24/7 Wall St. (2026-08-15T11:00:26Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 雖然華爾街湧入同樣的人工智慧巨頭，但真正的基礎設施建設貫穿大多數辦公桌很少接觸的專業晶片名稱，並且三...
 - [原文連結](https://247wallst.com/investing/2026/08/15/3-under-the-radar-chip-stocks-wall-street-is-sleeping-on-in-august/)
-
----
-
-### 🚀 這家市值 5.2 兆美元的公司剛剛向華爾街追加 5,000 億美元
-- **題材**: `AI伺服器` | **重要性**: `70`
-- **來源**: 24/7 Wall St. (2026-08-14T15:00:33Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: NVIDIA 剛剛動員了 5000 億美元的外部資本來保證 AI 基礎設施的持續建設，而信貸市場的反應則...
-- [原文連結](https://247wallst.com/investing/2026/08/14/the-5-2-trillion-company-just-asked-wall-street-for-500-billion-more/)
 
 ---
 
@@ -93,6 +111,15 @@
 
 ---
 
+### ⚠️ 零售巨頭塔吉特 (Target) 因關稅退款獲得 10 億美元收益
+- **題材**: `總體風險` | **重要性**: `65`
+- **來源**: BBC News (2026-08-19T14:47:02Z)
+- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: The US chain said it received a $994 million pre-tax reimbursement, which resulted in its second quarter operating income rising to $2.6bn.
+- [原文連結](https://www.bbc.co.uk/news/articles/c78gp4y8d3eo)
+
+---
+
 ### ⚠️ 記憶體緊縮導致經濟衰退加劇，小米獲利大幅下滑
 - **題材**: `HBM記憶體` | **重要性**: `65`
 - **來源**: Yahoo Entertainment (2026-08-18T11:21:59Z)
@@ -108,24 +135,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Kaynes Semicon 執行長 Raghu Panicker 表示，隨著印度準備下一階段的半導體支援計劃，Kaynes Semicon 正在將矽光子 (SiPh) 和共封裝光學 (CPO)、後量子安全和神經形態計算視為潛在的擴張領域。
 - [原文連結](https://www.digitimes.com/news/a20260816VL200/kaynes-semicon-india-siph-cpo-chips-security.html)
-
----
-
-### 🚀 SK 海力士透過新的全球成長團隊超越記憶
-- **題材**: `HBM記憶體` | **重要性**: `63`
-- **來源**: Digitimes (2026-08-14T03:02:26Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: SK海力士成立了一個專門團隊來尋找核心記憶體業務之外的成長機會，並任命了一名高級集團高管負責，此舉旨在將公司在高頻寬記憶體（HBM）領域的領先地位轉變為在人工智慧基礎設施領域發揮更廣泛的作用。
-- [原文連結](https://www.digitimes.com/news/a20260814VL209/sk-hynix-growth-business-hbm-investment.html)
-
----
-
-### ⚖️ LandMark Opto electronics 表示矽光子產能“非常非常緊張”
-- **題材**: `光通訊與矽光子` | **重要性**: `63`
-- **來源**: Digitimes (2026-08-14T02:38:33Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: LandMark OptoElectronics表示，其矽光子（SiPh）產品的需求極為強勁，隨著下游代工廠產能持續增加，預計未來幾季產量將持續成長。光通信外延片…
-- [原文連結](https://www.digitimes.com/news/a20260813PD231/siph-laser-capacity-demand.html)
 
 ---
 
@@ -147,6 +156,15 @@
 
 ---
 
+### ⚖️ NVIDIA (NVDA)：富士康和超微告訴我們有關人工智慧熱潮的信息
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-08-19T21:01:52Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: NVIDIA 公司（納斯達克股票代碼：NVDA）即將發布 8 月 26 日的收益報告，人們的預期已經有所提高。華爾街公司 Stifel 相信它可以...
+- [原文連結](https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-foxconn-super-micro-210152728.html)
+
+---
+
 ### ⚖️ 高通在 Snapdragon 峰會上展示「Dual 8 Elite」晶片：所有人的目光都集中在「Pro」上
 - **題材**: `半導體先進製程` | **重要性**: `60`
 - **來源**: Android Central (2026-08-19T18:36:11Z)
@@ -162,26 +180,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Moby 對是德科技 2026 年第三季財報電話會議的摘要
 - [原文連結](https://app.moby.co/home/research/tools/earningsCalendar/earnings-keysight-technologies-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&amp;utm_medium=rss)
-
----
-
-### ⚖️ SK海力士啟動286億美元股票回購與註銷
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: Quartz India (2026-08-19T12:12:19Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 這家韓國晶片製造商董事會批准從 8 月 20 日開始的三個月內回購並註銷 40 兆韓元的股票
-- [原文連結](https://qz.com/sk-hynix-share-buyback-cancellation-shareholder-returns-081926)
-
----
-
-### ⚖️ 據報道，谷歌希望很快停止在中國的所有 Pixel 生產
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: GSMArena.com (2026-08-19T04:46:02Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 根據一份新報告稱，谷歌希望明年停止在中國生產任何 Pixel 產品。當然，這包括智慧型手機，也包括智慧手錶和耳機。
-
-近年來，谷歌一直在擴大其在越南和印度的產能，以...
-- [原文連結](https://www.gsmarena.com/google_reportedly_wants_to_end_all_pixel_production_in_china_very_soon-news-74223.php)
 
 ---
 
