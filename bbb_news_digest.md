@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-23T15:09:40.121504+00:00
+> 更新時間：2026-08-23T17:10:32.889494+00:00
 
 ### 🚀 1.6T光模組激增，TXC轉向AI基礎設施
 - **題材**: `光通訊與矽光子` | **重要性**: `88`
@@ -34,6 +34,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 中芯國際本月稍早公佈了首個30億美元的季度業績，營收年增36.1%，淨利成長近兩倍，達到4.792億美元。
 - [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/smic-is-raising-wafer-prices-into-a-shortage-as-sanctions-wall-off-chinas-ai-demand)
+
+---
+
+### ⚖️ Oppenheimer has a blunt Nvidia stock message ahead of earnings
+- **題材**: `AI伺服器` | **重要性**: `70`
+- **來源**: TheStreet (2026-08-22T16:17:00Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: With Nvidia reporting August 26, Oppenheimer just published insights about the stock that cut through the noise around the trade.
+- [原文連結](https://www.thestreet.com/investing/stocks/oppenheimer-has-a-blunt-nvidia-stock-investors-message-ahead-of-earnings)
 
 ---
 
@@ -169,15 +178,6 @@
 - **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Goldman's Jan Hatzius warns that uncertainty around the Fed's monetary policy outlook could spark even bigger market swings going forward.
 - [原文連結](https://www.businessinsider.com/fed-interest-rates-kevin-warsh-market-volatility-goldman-sachs-2026-8#article)
-
----
-
-### 🚀 Anthropic 的目標是進行有史以來規模最大的 IPO
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: The Next Web (2026-08-20T18:34:26Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Anthropic 預計其 IPO 將追平或超過 SpaceX 創紀錄的 750 億美元融資規模，並可能最快於本月底公開提交申請。 2025 年，該公司淨虧損近 420 億美元，是前一年的五倍。 Anthropic 預計其股票首次亮相將匹配或...
-- [原文連結](https://thenextweb.com/news/anthropic-ipo-size-match-spacex-record)
 
 ---
 
