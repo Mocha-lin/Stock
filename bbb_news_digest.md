@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-23T02:19:16.730406+00:00
+> 更新時間：2026-08-23T03:27:14.563058+00:00
 
 ### 🚀 1.6T光模組激增，TXC轉向AI基礎設施
 - **題材**: `光通訊與矽光子` | **重要性**: `88`
@@ -100,15 +100,6 @@
 
 ---
 
-### 🚀 美國消費者到處都閃爍著危險訊號
-- **題材**: `總體風險` | **重要性**: `65`
-- **來源**: Business Insider (2026-08-21T09:50:01Z)
-- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 沃爾瑪的獲利、零售銷售、消費者信心和就業數據都顯示美國人面臨的壓力越來越大。
-- [原文連結](https://www.businessinsider.com/us-consumer-warning-signs-walmart-retail-sales-jobs-economic-slowdown-2026-8#article)
-
----
-
 ### ⚖️ Viavi 認為 AI 光學、CPO 測試將推動季度營收邁向 5 億美元
 - **題材**: `光通訊與矽光子` | **重要性**: `65`
 - **來源**: Biztoc.com (2026-08-20T04:27:52Z)
@@ -171,6 +162,15 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Samsung Electronics approved the largest shareholder return in South Korean corporate history on Friday. Its shares then fell as much as 2.6% in post-market trading. The board signed off on a Samsung shareholder return of between 90 trillion and 110 trillion …
 - [原文連結](https://thenextweb.com/news/samsung-shareholder-return-110-trillion-won-record)
+
+---
+
+### 🚀 高盛首席經濟學家表示，聯準會不透明的新溝通方式將激起市場“不和諧音”
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Business Insider (2026-08-21T09:40:01Z)
+- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 高盛的 Jan Hatzius 警告稱，聯準會貨幣政策前景的不確定性可能會引發未來更大的市場波動。
+- [原文連結](https://www.businessinsider.com/fed-interest-rates-kevin-warsh-market-volatility-goldman-sachs-2026-8#article)
 
 ---
 
