@@ -1,10 +1,10 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-23T19:12:32.885106+00:00
+> 更新時間：2026-08-23T23:20:12.055170+00:00
 
 ### 🚀 1.6T光模組激增，TXC轉向AI基礎設施
-- **題材**: `光通訊與矽光子` | **重要性**: `88`
+- **題材**: `光通訊與矽光子` | **重要性**: `83`
 - **來源**: Digitimes (2026-08-20T22:12:24Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重大事件】可能顯著影響產業評價、EPS預期或資金流向。
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 隨著對更快數據傳輸的需求不斷增長，石英組件領導者TXC瞄準了AI和汽車應用，預計1.6T光模組將在2026年下半年爆發式增長。該公司的目標是到年底將AI收入提升至20%…
 - [原文連結](https://www.digitimes.com/news/a20260820PD223/txc-component-infrastructure-automotive-2026.html)
 
@@ -145,6 +145,15 @@
 
 ---
 
+### ⚖️ Nvidia AI server prices are rising more than 15% from early next year
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: The Next Web (2026-08-22T21:25:33Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Nvidia’s largest customers have been notified that servers containing its AI chips will rise in price by more than 15% in many cases from early next year, driven by memory costs. The company reports quarterly earnings next week. Nvidia’s biggest customers hav…
+- [原文連結](https://thenextweb.com/news/nvidia-ai-server-price-increase-memory-costs)
+
+---
+
 ### ⚠️ America's largest association of cattle ranchers says Trump's plan to lower beef prices is 'undermining' farmers
 - **題材**: `總體風險` | **重要性**: `60`
 - **來源**: Business Insider (2026-08-22T18:55:00Z)
@@ -169,15 +178,6 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Nvidia is in early talks with the Korean AI chip designer Rebellions about a technical partnership, an investment or possibly an acquisition, Bloomberg reported on Friday. Jensen Huang met Rebellions co-founder and chief executive Sunghyun Park at Nvidia’s Sa…
 - [原文連結](https://thenextweb.com/news/nvidia-rebellions-talks-korea-inference-chips)
-
----
-
-### 🚀 三星批准創紀錄的 800 億美元股東回報，股價下跌
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: The Next Web (2026-08-21T11:15:26Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Samsung Electronics approved the largest shareholder return in South Korean corporate history on Friday. Its shares then fell as much as 2.6% in post-market trading. The board signed off on a Samsung shareholder return of between 90 trillion and 110 trillion …
-- [原文連結](https://thenextweb.com/news/samsung-shareholder-return-110-trillion-won-record)
 
 ---
 
