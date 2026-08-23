@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-23T04:58:47.984126+00:00
+> 更新時間：2026-08-23T05:29:27.468550+00:00
 
 ### 🚀 1.6T光模組激增，TXC轉向AI基礎設施
 - **題材**: `光通訊與矽光子` | **重要性**: `88`
@@ -100,15 +100,6 @@
 
 ---
 
-### 🚀 美國消費者到處都閃爍著危險訊號
-- **題材**: `總體風險` | **重要性**: `65`
-- **來源**: Business Insider (2026-08-21T09:50:01Z)
-- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 沃爾瑪的獲利、零售銷售、消費者信心和就業數據都顯示美國人面臨的壓力越來越大。
-- [原文連結](https://www.businessinsider.com/us-consumer-warning-signs-walmart-retail-sales-jobs-economic-slowdown-2026-8#article)
-
----
-
 ### 🚀 三星將代工價格上調至15%，其中中國支付幅度最大
 - **題材**: `半導體先進製程` | **重要性**: `65`
 - **來源**: The Next Web (2026-08-19T18:25:42Z)
@@ -160,6 +151,15 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Samsung Electronics approved the largest shareholder return in South Korean corporate history on Friday. Its shares then fell as much as 2.6% in post-market trading. The board signed off on a Samsung shareholder return of between 90 trillion and 110 trillion …
 - [原文連結](https://thenextweb.com/news/samsung-shareholder-return-110-trillion-won-record)
+
+---
+
+### 🚀 高盛首席經濟學家表示，聯準會不透明的新溝通方式將激起市場“不和諧音”
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Business Insider (2026-08-21T09:40:01Z)
+- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Goldman's Jan Hatzius warns that uncertainty around the Fed's monetary policy outlook could spark even bigger market swings going forward.
+- [原文連結](https://www.businessinsider.com/fed-interest-rates-kevin-warsh-market-volatility-goldman-sachs-2026-8#article)
 
 ---
 
