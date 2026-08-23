@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-23T09:26:34.340200+00:00
+> 更新時間：2026-08-23T13:23:23.671407+00:00
 
 ### 🚀 1.6T光模組激增，TXC轉向AI基礎設施
 - **題材**: `光通訊與矽光子` | **重要性**: `88`
@@ -19,21 +19,21 @@
 
 ---
 
-### ⚖️ 中芯國際創下創紀錄的 30 億美元季度業績並提高晶圓價格——美國制裁讓中國晶圓代工廠獲得了人工智慧市場
-- **題材**: `光通訊與矽光子` | **重要性**: `77`
-- **來源**: Tom's Hardware UK (2026-08-20T11:20:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 中芯國際本月稍早公佈了首個30億美元的季度業績，營收年增36.1%，淨利成長近兩倍，達到4.792億美元。
-- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/smic-is-raising-wafer-prices-into-a-shortage-as-sanctions-wall-off-chinas-ai-demand)
-
----
-
 ### 🚀 根據新的預測，到 2030 年，人工智慧資料中心光學互連市場將達到 1,440 億美元，比 2024 年的數字增長十倍以上——在共同封裝光學元件的推動下，矽光子預計將佔收入的近三分之二
 - **題材**: `光通訊與矽光子` | **重要性**: `77`
 - **來源**: Tom's Hardware UK (2026-08-17T11:20:00Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: CIC的新預測預計，資料中心光互連市場將從2024年的137億美元成長到2030年的1,444億美元，其中矽光子佔營收的63.7%。
 - [原文連結](https://www.tomshardware.com/tech-industry/photonics/ai-data-center-optical-interconnect-market-to-hit-usd144-billion-by-2030-an-over-ten-fold-increase-from-2024-figures-according-to-new-projections-silicon-photonics-expected-to-account-for-nearly-two-thirds-of-revenue-driven-by-co-packaged-optics)
+
+---
+
+### ⚖️ 中芯國際創下創紀錄的 30 億美元季度業績並提高晶圓價格——美國制裁讓中國晶圓代工廠獲得了人工智慧市場
+- **題材**: `光通訊與矽光子` | **重要性**: `72`
+- **來源**: Tom's Hardware UK (2026-08-20T11:20:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 中芯國際本月稍早公佈了首個30億美元的季度業績，營收年增36.1%，淨利成長近兩倍，達到4.792億美元。
+- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/smic-is-raising-wafer-prices-into-a-shortage-as-sanctions-wall-off-chinas-ai-demand)
 
 ---
 

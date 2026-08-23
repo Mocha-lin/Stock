@@ -1,9 +1,9 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-08-23T09:26:34.340200+00:00",
+  "generated_at": "2026-08-23T13:23:23.671407+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
-  "total_count": 71,
+  "total_count": 72,
   "items": [
     {
       "id": "78fdea5e47f16735",
@@ -82,44 +82,6 @@
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
-      "id": "baac9098fafea557",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "中芯國際創下創紀錄的 30 億美元季度業績並提高晶圓價格——美國制裁讓中國晶圓代工廠獲得了人工智慧市場",
-      "summary": "中芯國際本月稍早公佈了首個30億美元的季度業績，營收年增36.1%，淨利成長近兩倍，達到4.792億美元。",
-      "original_title": "SMIC posts record $3B quarter and hikes wafer prices — US sanctions hand Chinese foundry a captive AI market",
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/smic-is-raising-wafer-prices-into-a-shortage-as-sanctions-wall-off-chinas-ai-demand",
-      "source": "Tom's Hardware UK",
-      "domain": "tomshardware.com",
-      "published_at": "2026-08-20T11:20:00Z",
-      "importance": 77,
-      "impact": "neutral",
-      "timeframe": "short_to_mid_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
       "id": "c0c5184faa6c32b7",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -156,6 +118,44 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
+      "id": "baac9098fafea557",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "中芯國際創下創紀錄的 30 億美元季度業績並提高晶圓價格——美國制裁讓中國晶圓代工廠獲得了人工智慧市場",
+      "summary": "中芯國際本月稍早公佈了首個30億美元的季度業績，營收年增36.1%，淨利成長近兩倍，達到4.792億美元。",
+      "original_title": "SMIC posts record $3B quarter and hikes wafer prices — US sanctions hand Chinese foundry a captive AI market",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/smic-is-raising-wafer-prices-into-a-shortage-as-sanctions-wall-off-chinas-ai-demand",
+      "source": "Tom's Hardware UK",
+      "domain": "tomshardware.com",
+      "published_at": "2026-08-20T11:20:00Z",
+      "importance": 72,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "4e9138dfb0aff139",
@@ -1085,6 +1085,41 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "a464f450e41c92cb",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "AI data centres are taking the capacitors carmakers need",
+      "summary": "Chinese carmakers say printed circuit boards and multilayer ceramic capacitors are 20% to 30% short globally, with prices more than tripling over the past year because of AI data centre demand. Automotive memory prices rose about 180% in three months. The AI …",
+      "original_title": "AI data centres are taking the capacitors carmakers need",
+      "url": "https://thenextweb.com/news/china-carmakers-component-shortage-mlcc-memory",
+      "source": "The Next Web",
+      "domain": "thenextweb.com",
+      "published_at": "2026-08-22T11:34:03Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "22deb0a163c027c1",
