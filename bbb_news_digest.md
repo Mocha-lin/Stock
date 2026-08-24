@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-23T23:20:12.055170+00:00
+> 更新時間：2026-08-24T02:17:04.179120+00:00
 
 ### 🚀 1.6T光模組激增，TXC轉向AI基礎設施
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -7,15 +7,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 隨著對更快數據傳輸的需求不斷增長，石英組件領導者TXC瞄準了AI和汽車應用，預計1.6T光模組將在2026年下半年爆發式增長。該公司的目標是到年底將AI收入提升至20%…
 - [原文連結](https://www.digitimes.com/news/a20260820PD223/txc-component-infrastructure-automotive-2026.html)
-
----
-
-### 🚀 AI測試需求激增，Sigurd 7月營收突破新台幣20億元
-- **題材**: `光通訊與矽光子` | **重要性**: `83`
-- **來源**: Digitimes (2026-08-16T23:49:51Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: IC 測試和封裝公司 Sigurd MicroElectronics 公佈了 2026 年 7 月創紀錄的收入，並表示人工智慧和人工智慧連接市場的需求推動了這一結果。該公司表示，高效能運算晶片的訂單包括CPU、GPU、ASIC…
-- [原文連結](https://www.digitimes.com/news/a20260814PD201/sigurd-revenue-demand-2026-testing.html)
 
 ---
 
@@ -70,6 +61,15 @@
 - **AI 判讀**: 屬「總體風險」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 川普總統表示，在製裁生效前不到兩小時，兩國達成最後一刻協議後，他將推遲美國對加拿大進口產品徵收 50% 的關稅。
 - [原文連結](https://www.npr.org/2026/08/19/g-s1-139156/trump-canada-tariffs)
+
+---
+
+### ⚖️ CPO gains momentum as AI interconnect demands outpace chip gains
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-08-21T02:01:47Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: The AI industry is watching the rise of co-packaged optics (CPO) as faster AI systems now depend on more efficient links between chips and data centers. At DIGITIMES Tech Forum 2026 in Taipei, analyst Jerry Zheng said the technology is moving toward mainstrea…
+- [原文連結](https://www.digitimes.com/news/a20260821PD202/cpo-optics-2026-chips-taipei.html)
 
 ---
 
@@ -136,15 +136,6 @@
 
 ---
 
-### ⚖️ Kaynes Semicon 著眼於印度技術推廣中的光子學、量子安全和神經形態晶片
-- **題材**: `光通訊與矽光子` | **重要性**: `63`
-- **來源**: Digitimes (2026-08-17T01:47:48Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Kaynes Semicon 執行長 Raghu Panicker 表示，隨著印度準備下一階段的半導體支援計劃，Kaynes Semicon 正在將矽光子 (SiPh) 和共封裝光學 (CPO)、後量子安全和神經形態計算視為潛在的擴張領域。
-- [原文連結](https://www.digitimes.com/news/a20260816VL200/kaynes-semicon-india-siph-cpo-chips-security.html)
-
----
-
 ### ⚖️ Nvidia AI server prices are rising more than 15% from early next year
 - **題材**: `AI伺服器` | **重要性**: `60`
 - **來源**: The Next Web (2026-08-22T21:25:33Z)
@@ -178,6 +169,15 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Nvidia is in early talks with the Korean AI chip designer Rebellions about a technical partnership, an investment or possibly an acquisition, Bloomberg reported on Friday. Jensen Huang met Rebellions co-founder and chief executive Sunghyun Park at Nvidia’s Sa…
 - [原文連結](https://thenextweb.com/news/nvidia-rebellions-talks-korea-inference-chips)
+
+---
+
+### 🚀 三星批准創紀錄的 800 億美元股東回報，股價下跌
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: The Next Web (2026-08-21T11:15:26Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Samsung Electronics approved the largest shareholder return in South Korean corporate history on Friday. Its shares then fell as much as 2.6% in post-market trading. The board signed off on a Samsung shareholder return of between 90 trillion and 110 trillion …
+- [原文連結](https://thenextweb.com/news/samsung-shareholder-return-110-trillion-won-record)
 
 ---
 
