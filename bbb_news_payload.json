@@ -1,9 +1,9 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-08-24T09:46:09.086582+00:00",
+  "generated_at": "2026-08-24T13:56:26.666371+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
-  "total_count": 71,
+  "total_count": 72,
   "items": [
     {
       "id": "78fdea5e47f16735",
@@ -18,44 +18,6 @@
       "domain": "digitimes.com",
       "published_at": "2026-08-20T22:12:24Z",
       "importance": 83,
-      "impact": "positive",
-      "timeframe": "short_to_mid_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
-      "id": "c0c5184faa6c32b7",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "根據新的預測，到 2030 年，人工智慧資料中心光學互連市場將達到 1,440 億美元，比 2024 年的數字增長十倍以上——在共同封裝光學元件的推動下，矽光子預計將佔收入的近三分之二",
-      "summary": "CIC的新預測預計，資料中心光互連市場將從2024年的137億美元成長到2030年的1,444億美元，其中矽光子佔營收的63.7%。",
-      "original_title": "AI data center optical interconnect market to hit $144 billion by 2030, an over ten-fold increase from 2024 figures, according to new projections — silicon photonics expected to account for nearly two-thirds of revenue, driven by co-packaged optics",
-      "url": "https://www.tomshardware.com/tech-industry/photonics/ai-data-center-optical-interconnect-market-to-hit-usd144-billion-by-2030-an-over-ten-fold-increase-from-2024-figures-according-to-new-projections-silicon-photonics-expected-to-account-for-nearly-two-thirds-of-revenue-driven-by-co-packaged-optics",
-      "source": "Tom's Hardware UK",
-      "domain": "tomshardware.com",
-      "published_at": "2026-08-17T11:20:00Z",
-      "importance": 77,
       "impact": "positive",
       "timeframe": "short_to_mid_term",
       "tags": [
@@ -118,6 +80,44 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
+      "id": "c0c5184faa6c32b7",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "根據新的預測，到 2030 年，人工智慧資料中心光學互連市場將達到 1,440 億美元，比 2024 年的數字增長十倍以上——在共同封裝光學元件的推動下，矽光子預計將佔收入的近三分之二",
+      "summary": "CIC的新預測預計，資料中心光互連市場將從2024年的137億美元成長到2030年的1,444億美元，其中矽光子佔營收的63.7%。",
+      "original_title": "AI data center optical interconnect market to hit $144 billion by 2030, an over ten-fold increase from 2024 figures, according to new projections — silicon photonics expected to account for nearly two-thirds of revenue, driven by co-packaged optics",
+      "url": "https://www.tomshardware.com/tech-industry/photonics/ai-data-center-optical-interconnect-market-to-hit-usd144-billion-by-2030-an-over-ten-fold-increase-from-2024-figures-according-to-new-projections-silicon-photonics-expected-to-account-for-nearly-two-thirds-of-revenue-driven-by-co-packaged-optics",
+      "source": "Tom's Hardware UK",
+      "domain": "tomshardware.com",
+      "published_at": "2026-08-17T11:20:00Z",
+      "importance": 72,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "8c58d70468d7292e",
@@ -570,6 +570,82 @@
       "reason": "屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "4af2db2010dfeef6",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Nvidia reportedly warns biggest customers of 15% price hikes on AI servers — memory costs continue to soar",
+      "summary": "The increases will take effect on Grace Blackwell and Vera Rubin systems shipping early next year.",
+      "original_title": "Nvidia reportedly warns biggest customers of 15% price hikes on AI servers — memory costs continue to soar",
+      "url": "https://www.tomshardware.com/pc-components/dram/nvidia-reportedly-warns-biggest-customers-of-15-percent-price-hikes-on-ai-servers",
+      "source": "Tom's Hardware UK",
+      "domain": "tomshardware.com",
+      "published_at": "2026-08-23T13:15:00Z",
+      "importance": 62,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "11fba6ea7bb61189",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "Canada’s Prime Minister Vows to Fight Back Against Trump’s Tariffs",
+      "summary": "President Donald Trump imposed a 50% tariff on a wide number of Canadian goods, after trade talks collapsed on Friday. In a social media post he said, “Canad...",
+      "original_title": "Canada’s Prime Minister Vows to Fight Back Against Trump’s Tariffs",
+      "url": "https://www.yahoo.com/news/videos/canada-prime-minister-vows-fight-123116662.html",
+      "source": "Yahoo Entertainment",
+      "domain": "yahoo.com",
+      "published_at": "2026-08-23T12:31:16Z",
+      "importance": 60,
+      "impact": "negative",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "0047b95d1cf06cad",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -754,41 +830,6 @@
       "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "0dc17d9ac4eefdd7",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "三星批准創紀錄的 800 億美元股東回報，股價下跌",
-      "summary": "Samsung Electronics approved the largest shareholder return in South Korean corporate history on Friday. Its shares then fell as much as 2.6% in post-market trading. The board signed off on a Samsung shareholder return of between 90 trillion and 110 trillion …",
-      "original_title": "Samsung approves a record $80bn shareholder return, and the stock falls",
-      "url": "https://thenextweb.com/news/samsung-shareholder-return-110-trillion-won-record",
-      "source": "The Next Web",
-      "domain": "thenextweb.com",
-      "published_at": "2026-08-21T11:15:26Z",
-      "importance": 60,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "1a7f936342921f3e",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -825,44 +866,6 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "05a8edfd5a33477a",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "零售巨頭塔吉特 (Target) 因關稅退款獲得 10 億美元收益",
-      "summary": "The US chain said it received a $994 million pre-tax reimbursement, which resulted in its second quarter operating income rising to $2.6bn.",
-      "original_title": "Retail giant Target receives $1bn boost from tariff refunds",
-      "url": "https://www.bbc.co.uk/news/articles/c78gp4y8d3eo",
-      "source": "BBC News",
-      "domain": "bbc.co.uk",
-      "published_at": "2026-08-19T14:47:02Z",
-      "importance": 60,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "943f0d307f49e1d9",
@@ -1312,32 +1315,29 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "2207b69a61be7353",
+      "id": "0dc17d9ac4eefdd7",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "2nm芯片是谁的？報告稱台積電正在爭先恐後地在第四季度進行 1.6 奈米生產",
-      "summary": "距離我們從高通獲得 2nm 晶片還有一個月的時間；然而，有報道稱台積電在不久的將來將向 1.6nm 邁進。",
-      "original_title": "2nm chips who? Reports say TSMC is racing toward 1.6nm production in Q4",
-      "url": "https://www.androidcentral.com/phones/2nm-chips-who-reports-say-tsmc-is-racing-toward-1-6nm-production-in-q4",
-      "source": "Android Central",
-      "domain": "androidcentral.com",
-      "published_at": "2026-08-21T10:17:00Z",
+      "theme": "HBM記憶體",
+      "title": "三星批准創紀錄的 800 億美元股東回報，股價下跌",
+      "summary": "Samsung Electronics approved the largest shareholder return in South Korean corporate history on Friday. Its shares then fell as much as 2.6% in post-market trading. The board signed off on a Samsung shareholder return of between 90 trillion and 110 trillion …",
+      "original_title": "Samsung approves a record $80bn shareholder return, and the stock falls",
+      "url": "https://thenextweb.com/news/samsung-shareholder-return-110-trillion-won-record",
+      "source": "The Next Web",
+      "domain": "thenextweb.com",
+      "published_at": "2026-08-21T11:15:26Z",
       "importance": 55,
-      "impact": "neutral",
+      "impact": "positive",
       "timeframe": "short_term",
       "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
+        "HBM",
+        "記憶體"
       ],
       "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
       ],
       "related_models": [
         "003",
@@ -1347,7 +1347,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "12612f3628c17908",
@@ -1762,82 +1762,6 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "e0d67295857a9756",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "Google Tensor G6：您需要了解的一切",
-      "summary": "透過 Tensor G6，Google正在推出大量升級。今年是行動平台挑戰高通和聯發科的一年嗎？我們來看一下。",
-      "original_title": "Google Tensor G6: Everything you need to know",
-      "url": "https://www.androidcentral.com/phones/google-pixel/google-tensor-g6",
-      "source": "Android Central",
-      "domain": "androidcentral.com",
-      "published_at": "2026-08-17T13:49:29Z",
-      "importance": 55,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "0d3f33fb103217fc",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "利奧波德·阿申布倫納 (Leopold Aschenbrenner) 的態勢感知公司在閃迪 (SanDisk) 和美光 (Micron) 爆發之前就下了重註",
-      "summary": "Leopold Aschenbrenner 的對沖基金透露，上季押注了台積電和 Nebius 等人工智慧股票，並平倉了大部分看跌期權。",
-      "original_title": "Leopold Aschenbrenner's Situational Awareness bet big on SanDisk and Micron before it blew up",
-      "url": "https://www.businessinsider.com/situational-awareness-leopold-aschenbrenner-bet-big-sandisk-micron-before-blowup-2026-8",
-      "source": "Business Insider",
-      "domain": "businessinsider.com",
-      "published_at": "2026-08-17T13:48:21Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "cd1364c764f1628c",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1912,6 +1836,44 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "2207b69a61be7353",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "2nm芯片是谁的？報告稱台積電正在爭先恐後地在第四季度進行 1.6 奈米生產",
+      "summary": "距離我們從高通獲得 2nm 晶片還有一個月的時間；然而，有報道稱台積電在不久的將來將向 1.6nm 邁進。",
+      "original_title": "2nm chips who? Reports say TSMC is racing toward 1.6nm production in Q4",
+      "url": "https://www.androidcentral.com/phones/2nm-chips-who-reports-say-tsmc-is-racing-toward-1-6nm-production-in-q4",
+      "source": "Android Central",
+      "domain": "androidcentral.com",
+      "published_at": "2026-08-21T10:17:00Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "aa06f283eb208e9a",
@@ -2183,7 +2145,7 @@
       "id": "990cbc9b33da64f2",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
+      "theme": "HBM記憶體",
       "title": "SK海力士將回購價值286億美元的自有股票，這是韓國企業史上最大規模的回購",
       "summary": "SK 海力士將回購 40 兆韓元的自有股票，以現行匯率計算約為 286 億美元，韓國媒體稱之為該國上市公司有史以來宣布的最大規模的回購。董事會於週三批准了該計劃，並…",
       "original_title": "SK Hynix will buy back $28.6bn of its own shares, the biggest repurchase in Korean corporate history",
@@ -2195,17 +2157,14 @@
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
+        "HBM",
+        "記憶體"
       ],
       "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
       ],
       "related_models": [
         "003",
@@ -2215,7 +2174,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "19a539365497e214",
@@ -2595,6 +2554,82 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "e0d67295857a9756",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "Google Tensor G6：您需要了解的一切",
+      "summary": "透過 Tensor G6，Google正在推出大量升級。今年是行動平台挑戰高通和聯發科的一年嗎？我們來看一下。",
+      "original_title": "Google Tensor G6: Everything you need to know",
+      "url": "https://www.androidcentral.com/phones/google-pixel/google-tensor-g6",
+      "source": "Android Central",
+      "domain": "androidcentral.com",
+      "published_at": "2026-08-17T13:49:29Z",
+      "importance": 50,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "0d3f33fb103217fc",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "利奧波德·阿申布倫納 (Leopold Aschenbrenner) 的態勢感知公司在閃迪 (SanDisk) 和美光 (Micron) 爆發之前就下了重註",
+      "summary": "Leopold Aschenbrenner 的對沖基金透露，上季押注了台積電和 Nebius 等人工智慧股票，並平倉了大部分看跌期權。",
+      "original_title": "Leopold Aschenbrenner's Situational Awareness bet big on SanDisk and Micron before it blew up",
+      "url": "https://www.businessinsider.com/situational-awareness-leopold-aschenbrenner-bet-big-sandisk-micron-before-blowup-2026-8",
+      "source": "Business Insider",
+      "domain": "businessinsider.com",
+      "published_at": "2026-08-17T13:48:21Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "715a8835bba401b3",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2606,7 +2641,7 @@
       "source": "Yahoo Entertainment",
       "domain": "finance.yahoo.com",
       "published_at": "2026-08-17T12:48:20Z",
-      "importance": 50,
+      "importance": 45,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -2630,7 +2665,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「總體風險」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     },
     {
       "id": "e1d31a1f8d7e2cfb",

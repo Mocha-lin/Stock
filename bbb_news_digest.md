@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-24T09:46:09.086582+00:00
+> 更新時間：2026-08-24T13:56:26.666371+00:00
 
 ### 🚀 1.6T光模組激增，TXC轉向AI基礎設施
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -10,21 +10,21 @@
 
 ---
 
-### 🚀 根據新的預測，到 2030 年，人工智慧資料中心光學互連市場將達到 1,440 億美元，比 2024 年的數字增長十倍以上——在共同封裝光學元件的推動下，矽光子預計將佔收入的近三分之二
-- **題材**: `光通訊與矽光子` | **重要性**: `77`
-- **來源**: Tom's Hardware UK (2026-08-17T11:20:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: CIC的新預測預計，資料中心光互連市場將從2024年的137億美元成長到2030年的1,444億美元，其中矽光子佔營收的63.7%。
-- [原文連結](https://www.tomshardware.com/tech-industry/photonics/ai-data-center-optical-interconnect-market-to-hit-usd144-billion-by-2030-an-over-ten-fold-increase-from-2024-figures-according-to-new-projections-silicon-photonics-expected-to-account-for-nearly-two-thirds-of-revenue-driven-by-co-packaged-optics)
-
----
-
 ### ⚖️ 中芯國際創下創紀錄的 30 億美元季度業績並提高晶圓價格——美國制裁讓中國晶圓代工廠獲得了人工智慧市場
 - **題材**: `光通訊與矽光子` | **重要性**: `72`
 - **來源**: Tom's Hardware UK (2026-08-20T11:20:00Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 中芯國際本月稍早公佈了首個30億美元的季度業績，營收年增36.1%，淨利成長近兩倍，達到4.792億美元。
 - [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/smic-is-raising-wafer-prices-into-a-shortage-as-sanctions-wall-off-chinas-ai-demand)
+
+---
+
+### 🚀 根據新的預測，到 2030 年，人工智慧資料中心光學互連市場將達到 1,440 億美元，比 2024 年的數字增長十倍以上——在共同封裝光學元件的推動下，矽光子預計將佔收入的近三分之二
+- **題材**: `光通訊與矽光子` | **重要性**: `72`
+- **來源**: Tom's Hardware UK (2026-08-17T11:20:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: CIC的新預測預計，資料中心光互連市場將從2024年的137億美元成長到2030年的1,444億美元，其中矽光子佔營收的63.7%。
+- [原文連結](https://www.tomshardware.com/tech-industry/photonics/ai-data-center-optical-interconnect-market-to-hit-usd144-billion-by-2030-an-over-ten-fold-increase-from-2024-figures-according-to-new-projections-silicon-photonics-expected-to-account-for-nearly-two-thirds-of-revenue-driven-by-co-packaged-optics)
 
 ---
 
@@ -136,6 +136,24 @@
 
 ---
 
+### ⚖️ Nvidia reportedly warns biggest customers of 15% price hikes on AI servers — memory costs continue to soar
+- **題材**: `AI伺服器` | **重要性**: `62`
+- **來源**: Tom's Hardware UK (2026-08-23T13:15:00Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: The increases will take effect on Grace Blackwell and Vera Rubin systems shipping early next year.
+- [原文連結](https://www.tomshardware.com/pc-components/dram/nvidia-reportedly-warns-biggest-customers-of-15-percent-price-hikes-on-ai-servers)
+
+---
+
+### ⚠️ Canada’s Prime Minister Vows to Fight Back Against Trump’s Tariffs
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-08-23T12:31:16Z)
+- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: President Donald Trump imposed a 50% tariff on a wide number of Canadian goods, after trade talks collapsed on Friday. In a social media post he said, “Canad...
+- [原文連結](https://www.yahoo.com/news/videos/canada-prime-minister-vows-fight-123116662.html)
+
+---
+
 ### ⚖️ AI Chip Architectures
 - **題材**: `AI伺服器` | **重要性**: `60`
 - **來源**: Jepeake.com (2026-08-23T02:25:10Z)
@@ -160,24 +178,6 @@
 - **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: On Friday, Trump said the US would allow up to 300,000 metric tons of beef to be imported with no out-of-quota tariff over the next 90 days.
 - [原文連結](https://www.businessinsider.com/trump-beef-prices-cattle-ranchers-farmers-2026-8)
-
----
-
-### ⚖️ 美光執行長給投資人 100 億美元的聆聽理由
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: TheStreet (2026-08-21T22:07:00Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 美光正斥資塑造未來發展。
-- [原文連結](https://www.thestreet.com/investing/stocks/micron-10-billion-research-bet)
-
----
-
-### 🚀 Nvidia 正在與韓國推理晶片設計商 Rebellions 進行洽談
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: The Next Web (2026-08-21T14:58:28Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Nvidia is in early talks with the Korean AI chip designer Rebellions about a technical partnership, an investment or possibly an acquisition, Bloomberg reported on Friday. Jensen Huang met Rebellions co-founder and chief executive Sunghyun Park at Nvidia’s Sa…
-- [原文連結](https://thenextweb.com/news/nvidia-rebellions-talks-korea-inference-chips)
 
 ---
 
