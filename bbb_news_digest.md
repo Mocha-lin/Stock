@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-24T02:17:04.179120+00:00
+> 更新時間：2026-08-24T03:28:41.345758+00:00
 
 ### 🚀 1.6T光模組激增，TXC轉向AI基礎設施
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -136,6 +136,15 @@
 
 ---
 
+### ⚖️ AI Chip Architectures
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: Jepeake.com (2026-08-23T02:25:10Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: A look at AI Chip Architectures. NVIDIA, AMD, TPUs, Trainium, Groq, Cerebras.
+- [原文連結](https://www.jepeake.com/ai-chip-architectures)
+
+---
+
 ### ⚖️ Nvidia AI server prices are rising more than 15% from early next year
 - **題材**: `AI伺服器` | **重要性**: `60`
 - **來源**: The Next Web (2026-08-22T21:25:33Z)
@@ -169,15 +178,6 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Nvidia is in early talks with the Korean AI chip designer Rebellions about a technical partnership, an investment or possibly an acquisition, Bloomberg reported on Friday. Jensen Huang met Rebellions co-founder and chief executive Sunghyun Park at Nvidia’s Sa…
 - [原文連結](https://thenextweb.com/news/nvidia-rebellions-talks-korea-inference-chips)
-
----
-
-### 🚀 三星批准創紀錄的 800 億美元股東回報，股價下跌
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: The Next Web (2026-08-21T11:15:26Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Samsung Electronics approved the largest shareholder return in South Korean corporate history on Friday. Its shares then fell as much as 2.6% in post-market trading. The board signed off on a Samsung shareholder return of between 90 trillion and 110 trillion …
-- [原文連結](https://thenextweb.com/news/samsung-shareholder-return-110-trillion-won-record)
 
 ---
 

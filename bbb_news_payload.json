@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-08-24T02:17:04.179120+00:00",
+  "generated_at": "2026-08-24T03:28:41.345758+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 71,
@@ -568,6 +568,44 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "0047b95d1cf06cad",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "AI Chip Architectures",
+      "summary": "A look at AI Chip Architectures. NVIDIA, AMD, TPUs, Trainium, Groq, Cerebras.",
+      "original_title": "AI Chip Architectures",
+      "url": "https://www.jepeake.com/ai-chip-architectures",
+      "source": "Jepeake.com",
+      "domain": "jepeake.com",
+      "published_at": "2026-08-23T02:25:10Z",
+      "importance": 60,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "4402d5c15ccdf791",
@@ -2332,44 +2370,6 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "73b3198c91ee37fc",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Parkinson's double frustration as Wrexham denied",
-      "summary": "在第 98 分鐘的扳平比分否定了雷克瑟姆對卡迪夫的勝利後，菲爾·帕金森對他的球隊缺乏冷酷無情以及最後補時的時間感到遺憾。",
-      "original_title": "Parkinson's double frustration as Wrexham denied",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cpq80217wplo",
-      "source": "BBC News",
-      "domain": "bbc.co.uk",
-      "published_at": "2026-08-17T22:30:10Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "57139d1bfee449fd",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2644,7 +2644,7 @@
       "source": "Epfl.ch",
       "domain": "infoscience.epfl.ch",
       "published_at": "2026-08-17T02:55:20Z",
-      "importance": 50,
+      "importance": 45,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -2668,7 +2668,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「AI伺服器」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     }
   ]
 }
