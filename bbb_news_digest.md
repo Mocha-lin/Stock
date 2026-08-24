@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-24T13:56:26.666371+00:00
+> 更新時間：2026-08-24T15:26:07.273638+00:00
 
 ### 🚀 1.6T光模組激增，TXC轉向AI基礎設施
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -43,15 +43,6 @@
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: AMD 剛剛發布了有史以來最好的季度業績，而 Nvidia 正邁向萬億美元的跑道，現在每個超大規模企業都必須決定是否有一個可信的...
 - [原文連結](https://247wallst.com/investing/2026/08/21/amd-vs-nvidia-is-amd-finally-closing-the-ai-gap/)
-
----
-
-### ⚠️ 「混亂的關稅制度造成的損害無法退還」：1000億美元的退稅已經抹去了5月份以來進口稅帶來的收入
-- **題材**: `總體風險` | **重要性**: `70`
-- **來源**: Yahoo Entertainment (2026-08-21T14:37:33Z)
-- **AI 判讀**: 屬「總體風險」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 6 月份，由於關稅退款超過收入，川普政府的海關淨收入損失超過 250 億美元。
-- [原文連結](https://finance.yahoo.com/economy/policy/articles/damage-chaotic-tariff-regime-cannot-143733492.html)
 
 ---
 
@@ -106,6 +97,15 @@
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Nvidia heads into its Aug. 26 earnings report with a new $345 price target and Vera Rubin seen as a potential driver of its next growth cycle.
 - [原文連結](https://www.barchart.com/story/news/3987347/why-1-analyst-says-vera-rubin-is-key-for-nvidia-stock-in-q2)
+
+---
+
+### ⚠️ 「混亂的關稅制度造成的損害無法退還」：1000億美元的退稅已經抹去了5月份以來進口稅帶來的收入
+- **題材**: `總體風險` | **重要性**: `65`
+- **來源**: Yahoo Entertainment (2026-08-21T14:37:33Z)
+- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 6 月份，由於關稅退款超過收入，川普政府的海關淨收入損失超過 250 億美元。
+- [原文連結](https://finance.yahoo.com/economy/policy/articles/damage-chaotic-tariff-regime-cannot-143733492.html)
 
 ---
 
