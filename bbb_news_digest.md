@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-25T03:24:05.465418+00:00
+> 更新時間：2026-08-25T04:06:02.879262+00:00
 
 ### 🚀 1.6T光模組激增，TXC轉向AI基礎設施
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -91,6 +91,15 @@
 
 ---
 
+### ⚠️ 美國準備推出新的伊朗制裁令油價下跌
+- **題材**: `總體風險` | **重要性**: `65`
+- **來源**: Yahoo Entertainment (2026-08-24T03:49:47Z)
+- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 作者：Florence Tan 和 Trixie Yap 新加坡，8 月 24 日（路透社）
+- [原文連結](https://finance.yahoo.com/news/oil-falls-1-ahead-us-231835385.html)
+
+---
+
 ### 🚀 Why 1 Analyst Says Vera Rubin Is Key for Nvidia Stock in Q2
 - **題材**: `AI伺服器` | **重要性**: `65`
 - **來源**: Barchart.com (2026-08-22T17:41:06Z)
@@ -169,15 +178,6 @@
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: The increases will take effect on Grace Blackwell and Vera Rubin systems shipping early next year.
 - [原文連結](https://www.tomshardware.com/pc-components/dram/nvidia-reportedly-warns-biggest-customers-of-15-percent-price-hikes-on-ai-servers)
-
----
-
-### ⚠️ Canada’s Prime Minister Vows to Fight Back Against Trump’s Tariffs
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-08-23T12:31:16Z)
-- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: President Donald Trump imposed a 50% tariff on a wide number of Canadian goods, after trade talks collapsed on Friday. In a social media post he said, “Canad...
-- [原文連結](https://www.yahoo.com/news/videos/canada-prime-minister-vows-fight-123116662.html)
 
 ---
 
