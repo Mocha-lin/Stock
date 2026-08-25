@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-25T19:20:44.952110+00:00
+> 更新時間：2026-08-25T23:24:06.012027+00:00
 
 ### 🚀 1.6T光模組激增，TXC轉向AI基礎設施
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -71,6 +71,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 畢馬威董事總經理 Jesse Chen 表示，隨著晶片功耗、傳輸速度和架構複雜性的增加，測試已從最終的出貨前品質關卡轉變為產品開發和量產的早期階段。
 - [原文連結](https://www.digitimes.com/news/a20260819PD211/testing-demand-cpo-siph-transmission.html)
+
+---
+
+### ⚠️ How Trump's new trade war with Canada affects everything from building new homes to dog jackets
+- **題材**: `總體風險` | **重要性**: `65`
+- **來源**: Business Insider (2026-08-24T19:32:45Z)
+- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: New 50% tariffs on a slew of Canadian goods went into effect. They could affect Canadian jobs and businesses in states along the border.
+- [原文連結](https://www.businessinsider.com/new-tariffs-trade-war-us-canada-economy-2026-8#article)
 
 ---
 
@@ -156,30 +165,21 @@ The post Largan Precision and TSMC partner to chase AI opportunities in co-packa
 
 ---
 
-### ⚖️ 英偉達本月收購了第三家土地和電力公司
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: The Next Web (2026-08-24T15:46:32Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 英偉達週五收購了 Cloverleaf 基礎設施公司的少數股權。 Cloverleaf 為資料中心提供土地和電力保障。根據 The Information 報道，這是 Nvidia 快速連續收購的第三家此類公司。兩家公司均未透露...
-- [原文連結](https://thenextweb.com/news/nvidia-cloverleaf-lancium-sb-energy-land-power-dsx)
-
----
-
-### ⚠️ Explainer-What are Iran's options to escalate further in face of US economic threats?
+### ⚠️ Trump moves toward levying new tariff on China for flooding market with cheap goods, AP sources say
 - **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-08-24T15:33:41Z)
+- **來源**: Yahoo Entertainment (2026-08-24T21:52:22Z)
 - **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 8 月 24 日，倫敦
-- [原文連結](https://www.yahoo.com/news/articles/explainer-irans-options-escalate-further-153341041.html)
+- **摘要**: President Donald Trump is moving toward levying a new tariff on China that would penalize the world’s second-largest economy for flooding the global market w...
+- [原文連結](https://www.yahoo.com/news/politics/articles/trump-moves-toward-levying-tariff-215222117.html)
 
 ---
 
-### ⚖️ Hot Chips 2026: Samsung and HBM Base Die Opportunities
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: Chipsandcheese.com (2026-08-24T15:01:51Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Machine learning applications demand ever more memory capacity and bandwidth. Samsung responded by fabricating their HBM base dies on a logic node, which opens up more opportunities
-- [原文連結](https://chipsandcheese.com/p/hot-chips-2026-samsung-and-hbm-base)
+### ⚠️ Fentanyl, a Reagan ad and a near deal: Trump's trade war with Canada
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-08-24T20:47:01Z)
+- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: By Promit Mukherjee OTTAWA, Aug 24 (Reuters) - Canada and the United States have been locked in a tariff war since U.S. President Donald Trump returned to of...
+- [原文連結](https://ca.news.yahoo.com/fentanyl-reagan-ad-near-deal-204258138.html)
 
 ---
 
