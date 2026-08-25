@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-25T09:34:11.807369+00:00
+> 更新時間：2026-08-25T13:38:22.373118+00:00
 
 ### 🚀 1.6T光模組激增，TXC轉向AI基礎設施
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -146,15 +146,6 @@ The post Largan Precision and TSMC partner to chase AI opportunities in co-packa
 
 ---
 
-### ⚠️ 記憶體緊縮導致經濟衰退加劇，小米獲利大幅下滑
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: Yahoo Entertainment (2026-08-18T11:21:59Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 小米公司公佈利潤連續第三次下滑，突顯出持續的全球記憶體短缺對全球最大的企業之一造成的沉重打擊。
-- [原文連結](https://finance.yahoo.com/markets/stocks/articles/xiaomi-profit-dives-memory-crunch-112159230.html)
-
----
-
 ### ⚖️ Xintec readies 12-inch IVR backside copper for TSMC's next-gen AI chips
 - **題材**: `半導體先進製程` | **重要性**: `63`
 - **來源**: Digitimes (2026-08-18T09:05:02Z)
@@ -179,6 +170,15 @@ The post Largan Precision and TSMC partner to chase AI opportunities in co-packa
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: The increases will take effect on Grace Blackwell and Vera Rubin systems shipping early next year.
 - [原文連結](https://www.tomshardware.com/pc-components/dram/nvidia-reportedly-warns-biggest-customers-of-15-percent-price-hikes-on-ai-servers)
+
+---
+
+### ⚖️ Nvidia raising AI server prices more than 15% amid memory costs
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: Quartz India (2026-08-24T13:15:47Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: The increases will apply to systems containing Vera Rubin and Grace Blackwell chips and take effect on shipments early next year
+- [原文連結](https://qz.com/nvidia-ai-server-price-hike-memory-chips-082426)
 
 ---
 

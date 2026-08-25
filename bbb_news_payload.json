@@ -1,9 +1,9 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-08-25T09:34:11.807369+00:00",
+  "generated_at": "2026-08-25T13:38:22.373118+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
-  "total_count": 72,
+  "total_count": 71,
   "items": [
     {
       "id": "78fdea5e47f16735",
@@ -605,41 +605,6 @@
       "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "bc3890ffe6609382",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "記憶體緊縮導致經濟衰退加劇，小米獲利大幅下滑",
-      "summary": "小米公司公佈利潤連續第三次下滑，突顯出持續的全球記憶體短缺對全球最大的企業之一造成的沉重打擊。",
-      "original_title": "Xiaomi Profit Dives After Memory Crunch Worsens Downturn",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/xiaomi-profit-dives-memory-crunch-112159230.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-08-18T11:21:59Z",
-      "importance": 65,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "11d5d0349aa465d1",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -752,6 +717,82 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "98ae149b7691cf88",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Nvidia raising AI server prices more than 15% amid memory costs",
+      "summary": "The increases will apply to systems containing Vera Rubin and Grace Blackwell chips and take effect on shipments early next year",
+      "original_title": "Nvidia raising AI server prices more than 15% amid memory costs",
+      "url": "https://qz.com/nvidia-ai-server-price-hike-memory-chips-082426",
+      "source": "Quartz India",
+      "domain": "qz.com",
+      "published_at": "2026-08-24T13:15:47Z",
+      "importance": 60,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "6232c01927441381",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "Google Pixel 11 Pro XL vs Pixel 9 Pro XL: Is it actually an upgrade?",
+      "summary": "The Pixel 11 Pro XL is Google's latest phone, but how does it measure up against the Pixel 9 Pro XL? I used both phones, and I think the 9 Pro XL still has plenty to give.",
+      "original_title": "Google Pixel 11 Pro XL vs Pixel 9 Pro XL: Is it actually an upgrade?",
+      "url": "https://www.androidcentral.com/phones/google-pixel/google-pixel-11-pro-xl-vs-google-pixel-9-pro-xl",
+      "source": "Android Central",
+      "domain": "androidcentral.com",
+      "published_at": "2026-08-24T11:02:15Z",
+      "importance": 60,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "e610b7ccefbf9c86",
@@ -944,6 +985,44 @@
       "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "781c71490552f526",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "The US consumer is flashing red flags all over the place",
+      "summary": "Walmart earnings, retail sales, consumer sentiment, and jobs data are all pointing to growing strain on Americans.",
+      "original_title": "The US consumer is flashing red flags all over the place",
+      "url": "https://www.businessinsider.com/us-consumer-warning-signs-walmart-retail-sales-jobs-economic-slowdown-2026-8#article",
+      "source": "Business Insider",
+      "domain": "businessinsider.com",
+      "published_at": "2026-08-21T09:50:01Z",
+      "importance": 60,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "1a7f936342921f3e",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1096,19 +1175,19 @@
       "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "f3a4f4048f2020d7",
+      "id": "bc3890ffe6609382",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "HBM記憶體",
-      "title": "Crucial 迴避 SSD 保固索賠，稱「我們的庫存已耗盡」——隨著內存和存儲製造商創紀錄的利潤滾滾而來，消費者被忽視",
-      "summary": "隨著記憶體和儲存製造商將重心轉向人工智慧客戶並賺取創紀錄的利潤，普通消費者卻無法就有故障的 RAM 和 SSD 提出適當的保固索賠。有什麼辦法嗎？",
-      "original_title": "Crucial dodges SSD warranty claim, says \"our inventory is depleted\" — Consumers are being ignored as record profits roll in for memory and storage makers",
-      "url": "https://www.windowscentral.com/hardware/micron-crucial-ssd-warranty-claim-botched-ai-shortages",
-      "source": "Windows Central",
-      "domain": "windowscentral.com",
-      "published_at": "2026-08-18T13:17:41Z",
+      "title": "記憶體緊縮導致經濟衰退加劇，小米獲利大幅下滑",
+      "summary": "小米公司公佈利潤連續第三次下滑，突顯出持續的全球記憶體短缺對全球最大的企業之一造成的沉重打擊。",
+      "original_title": "Xiaomi Profit Dives After Memory Crunch Worsens Downturn",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/xiaomi-profit-dives-memory-crunch-112159230.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-08-18T11:21:59Z",
       "importance": 60,
-      "impact": "positive",
+      "impact": "negative",
       "timeframe": "short_term",
       "tags": [
         "HBM",
@@ -1128,7 +1207,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "5d65c7d840717b05",
@@ -1283,117 +1362,6 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "ee382620b5d1f0da",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "We’re just two months away from the first touchscreen MacBook: Here’s what to expect",
-      "summary": "After over a decade of not adopting touch displays on its Mac notebook lineup, Apple will finally be rolling out its first touchscreen MacBook as soon as October. This’ll come alongside the next MacBook Pro redesign, potentially dubbed MacBook Ultra.",
-      "original_title": "We’re just two months away from the first touchscreen MacBook: Here’s what to expect",
-      "url": "https://9to5mac.com/2026/08/22/touchscreen-macbook-ultra-coming-soon-heres-whats-coming/",
-      "source": "9to5Mac",
-      "domain": "9to5mac.com",
-      "published_at": "2026-08-22T17:58:00Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "070cf3ed40c91a31",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "Which do you plan to buy: iPhone 18 Pro or foldable iPhone Ultra? [Poll]",
-      "summary": "Apple’s fall iPhone event is expected to look different this year. Rather than unveiling four closely related models, rumors point to a flagship-only September lineup consisting of three premium models: iPhone 18 Pro, iPhone 18 Pro Max, and Apple’s first fold…",
-      "original_title": "Which do you plan to buy: iPhone 18 Pro or foldable iPhone Ultra? [Poll]",
-      "url": "https://9to5mac.com/2026/08/22/which-do-you-plan-to-buy-iphone-18-pro-or-foldable-iphone-ultra-poll/",
-      "source": "9to5Mac",
-      "domain": "9to5mac.com",
-      "published_at": "2026-08-22T13:00:00Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "a464f450e41c92cb",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "AI data centres are taking the capacitors carmakers need",
-      "summary": "Chinese carmakers say printed circuit boards and multilayer ceramic capacitors are 20% to 30% short globally, with prices more than tripling over the past year because of AI data centre demand. Automotive memory prices rose about 180% in three months. The AI …",
-      "original_title": "AI data centres are taking the capacitors carmakers need",
-      "url": "https://thenextweb.com/news/china-carmakers-component-shortage-mlcc-memory",
-      "source": "The Next Web",
-      "domain": "thenextweb.com",
-      "published_at": "2026-08-22T11:34:03Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "e5d07ee5e10d5088",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1497,44 +1465,6 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "71df307a421e5829",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "Goldman's top economist says the Fed's opaque new communication style will stir up market 'cacophony'",
-      "summary": "Goldman's Jan Hatzius warns that uncertainty around the Fed's monetary policy outlook could spark even bigger market swings going forward.",
-      "original_title": "Goldman's top economist says the Fed's opaque new communication style will stir up market 'cacophony'",
-      "url": "https://www.businessinsider.com/fed-interest-rates-kevin-warsh-market-volatility-goldman-sachs-2026-8#article",
-      "source": "Business Insider",
-      "domain": "businessinsider.com",
-      "published_at": "2026-08-21T09:40:01Z",
-      "importance": 55,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "12612f3628c17908",
@@ -1873,32 +1803,29 @@
       "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "3eb6a0d1443b30e6",
+      "id": "f3a4f4048f2020d7",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "卡迪夫有足夠的成長空間",
-      "summary": "卡迪夫城的魯賓·科爾威爾表示，他已盡一切努力適應新賽季，在布萊恩·巴里-墨菲的帶領下，藍鳥隊可以繼續進步。",
-      "original_title": "Cardiff have plenty of room for growth - Colwill",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5y34e4582no",
-      "source": "BBC News",
-      "domain": "bbc.co.uk",
-      "published_at": "2026-08-18T11:08:24Z",
+      "theme": "HBM記憶體",
+      "title": "Crucial 迴避 SSD 保固索賠，稱「我們的庫存已耗盡」——隨著內存和存儲製造商創紀錄的利潤滾滾而來，消費者被忽視",
+      "summary": "隨著記憶體和儲存製造商將重心轉向人工智慧客戶並賺取創紀錄的利潤，普通消費者卻無法就有故障的 RAM 和 SSD 提出適當的保固索賠。有什麼辦法嗎？",
+      "original_title": "Crucial dodges SSD warranty claim, says \"our inventory is depleted\" — Consumers are being ignored as record profits roll in for memory and storage makers",
+      "url": "https://www.windowscentral.com/hardware/micron-crucial-ssd-warranty-claim-botched-ai-shortages",
+      "source": "Windows Central",
+      "domain": "windowscentral.com",
+      "published_at": "2026-08-18T13:17:41Z",
       "importance": 55,
       "impact": "positive",
       "timeframe": "short_term",
       "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
+        "HBM",
+        "記憶體"
       ],
       "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
       ],
       "related_models": [
         "003",
@@ -1908,7 +1835,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "cd1364c764f1628c",
@@ -1985,6 +1912,79 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "070cf3ed40c91a31",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "Which do you plan to buy: iPhone 18 Pro or foldable iPhone Ultra? [Poll]",
+      "summary": "Apple’s fall iPhone event is expected to look different this year. Rather than unveiling four closely related models, rumors point to a flagship-only September lineup consisting of three premium models: iPhone 18 Pro, iPhone 18 Pro Max, and Apple’s first fold…",
+      "original_title": "Which do you plan to buy: iPhone 18 Pro or foldable iPhone Ultra? [Poll]",
+      "url": "https://9to5mac.com/2026/08/22/which-do-you-plan-to-buy-iphone-18-pro-or-foldable-iphone-ultra-poll/",
+      "source": "9to5Mac",
+      "domain": "9to5mac.com",
+      "published_at": "2026-08-22T13:00:00Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "a464f450e41c92cb",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "AI data centres are taking the capacitors carmakers need",
+      "summary": "Chinese carmakers say printed circuit boards and multilayer ceramic capacitors are 20% to 30% short globally, with prices more than tripling over the past year because of AI data centre demand. Automotive memory prices rose about 180% in three months. The AI …",
+      "original_title": "AI data centres are taking the capacitors carmakers need",
+      "url": "https://thenextweb.com/news/china-carmakers-component-shortage-mlcc-memory",
+      "source": "The Next Web",
+      "domain": "thenextweb.com",
+      "published_at": "2026-08-22T11:34:03Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "22deb0a163c027c1",
@@ -2402,48 +2402,10 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "bed18858310a5911",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "與瑞克魯賓的對話",
-      "summary": "你知道瑞克魯賓是誰嗎？他是超級暢銷書《創意行動》的作者……也是“嘻哈教父”，也是許多熱門歌曲的推動者，在南加州的香格里拉工作室工作。他也成為了一位好朋友（...",
-      "original_title": "A Conversation With Rick Rubin",
-      "url": "https://stevenpressfield.com/2026/08/a-conversation-with-rick-rubin/",
-      "source": "Stevenpressfield.com",
-      "domain": "stevenpressfield.com",
-      "published_at": "2026-08-19T08:25:00Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "990cbc9b33da64f2",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
+      "theme": "HBM記憶體",
       "title": "SK海力士將回購價值286億美元的自有股票，這是韓國企業史上最大規模的回購",
       "summary": "SK 海力士將回購 40 兆韓元的自有股票，以現行匯率計算約為 286 億美元，韓國媒體稱之為該國上市公司有史以來宣布的最大規模的回購。董事會於週三批准了該計劃，並…",
       "original_title": "SK Hynix will buy back $28.6bn of its own shares, the biggest repurchase in Korean corporate history",
@@ -2455,17 +2417,14 @@
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
+        "HBM",
+        "記憶體"
       ],
       "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
       ],
       "related_models": [
         "003",
@@ -2475,7 +2434,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "3947a857be19fc1e",
@@ -2592,44 +2551,6 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "a21f5f83bd3f7308",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "Leak suggests the Galaxy S26 FE’s hardware may not please everybody",
-      "summary": "The Samsung Galaxy S26 FE has just appeared in a massive leak, detailing nearly every hardware attribute of the mid-tier phone.",
-      "original_title": "Leak suggests the Galaxy S26 FE’s hardware may not please everybody",
-      "url": "https://www.androidauthority.com/samsung-galaxy-s26-fe-design-specs-features-leak-3699924/",
-      "source": "Android Authority",
-      "domain": "androidauthority.com",
-      "published_at": "2026-08-18T16:58:55Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "31f7fe53ddd8d163",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2666,6 +2587,44 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "3eb6a0d1443b30e6",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "卡迪夫有足夠的成長空間",
+      "summary": "卡迪夫城的魯賓·科爾威爾表示，他已盡一切努力適應新賽季，在布萊恩·巴里-墨菲的帶領下，藍鳥隊可以繼續進步。",
+      "original_title": "Cardiff have plenty of room for growth - Colwill",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5y34e4582no",
+      "source": "BBC News",
+      "domain": "bbc.co.uk",
+      "published_at": "2026-08-18T11:08:24Z",
+      "importance": 50,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "018c06122abd81b6",
