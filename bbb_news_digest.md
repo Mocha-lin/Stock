@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-24T23:21:09.636274+00:00
+> 更新時間：2026-08-25T02:13:03.860777+00:00
 
 ### 🚀 1.6T光模組激增，TXC轉向AI基礎設施
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -10,21 +10,30 @@
 
 ---
 
+### ⚖️ Weekly news roundup: Google diversifies custom chips, TSMC share falls, SK Hynix deepens HBM co-design
+- **題材**: `HBM記憶體` | **重要性**: `73`
+- **來源**: Digitimes (2026-08-24T01:34:40Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Semiconductor supply chains, custom silicon, high-bandwidth memory (HBM), robotics, and India's chip buildout shaped this week's technology agenda, with major moves from Google, Marvell, SK Hynix, Micron, Samsung, and Taiwan's chipmakers. Below are the most-r…
+- [原文連結](https://www.digitimes.com/news/a20260823VL200/hbm-google-sk-hynix-chips-silicon.html)
+
+---
+
+### 🚀 CPO hurdles linger as 800G and 1.6T SiPh surge, says analyst
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-08-23T23:36:41Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Challenges around co-packaged optics (CPO) remain unresolved, but they have not slowed the rapid rise of 800G and 1.6T silicon photonics, DIGITIMES analyst Kiwi Hsu said on August 20 at a semiconductor industry forum in Taipei. He said demand for AI cluster i…
+- [原文連結](https://www.digitimes.com/news/a20260821PD213/cpo-optics-silicon-photonics-demand.html)
+
+---
+
 ### ⚖️ 中芯國際創下創紀錄的 30 億美元季度業績並提高晶圓價格——美國制裁讓中國晶圓代工廠獲得了人工智慧市場
 - **題材**: `光通訊與矽光子` | **重要性**: `72`
 - **來源**: Tom's Hardware UK (2026-08-20T11:20:00Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 中芯國際本月稍早公佈了首個30億美元的季度業績，營收年增36.1%，淨利成長近兩倍，達到4.792億美元。
 - [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/smic-is-raising-wafer-prices-into-a-shortage-as-sanctions-wall-off-chinas-ai-demand)
-
----
-
-### 🚀 根據新的預測，到 2030 年，人工智慧資料中心光學互連市場將達到 1,440 億美元，比 2024 年的數字增長十倍以上——在共同封裝光學元件的推動下，矽光子預計將佔收入的近三分之二
-- **題材**: `光通訊與矽光子` | **重要性**: `72`
-- **來源**: Tom's Hardware UK (2026-08-17T11:20:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: CIC的新預測預計，資料中心光互連市場將從2024年的137億美元成長到2030年的1,444億美元，其中矽光子佔營收的63.7%。
-- [原文連結](https://www.tomshardware.com/tech-industry/photonics/ai-data-center-optical-interconnect-market-to-hit-usd144-billion-by-2030-an-over-ten-fold-increase-from-2024-figures-according-to-new-projections-silicon-photonics-expected-to-account-for-nearly-two-thirds-of-revenue-driven-by-co-packaged-optics)
 
 ---
 
@@ -109,6 +118,15 @@
 
 ---
 
+### 🚀 Fabrinet Sees AI Optical Demand Fueling Years of Growth, Expands Capacity
+- **題材**: `光通訊與矽光子` | **重要性**: `65`
+- **來源**: MarketBeat (2026-08-21T04:01:59Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Fabrinet (NYSE:FN) executives said demand across data center interconnect, datacom, automotive and industrial markets remains strong, with the company expand...
+- [原文連結](https://www.marketbeat.com/instant-alerts/fabrinet-sees-ai-optical-demand-fueling-years-of-growth-expands-capacity-2026-08-20/?utm_source=yahoofinance&amp;utm_medium=yahoofinance)
+
+---
+
 ### 🚀 SK Hynix 回購創紀錄，股價上漲 4%，美光科技股價上漲，記憶體逆襲科技股拋售
 - **題材**: `HBM記憶體` | **重要性**: `65`
 - **來源**: 24/7 Wall St. (2026-08-20T18:31:39Z)
@@ -124,6 +142,15 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Samsung has raised prices for some of its advanced contract chipmaking by as much as 15 percent for new orders, according to a Reuters report. Two people familiar with the matter said the increases follow a surge in demand for AI chips. That demand is tighten…
 - [原文連結](https://thenextweb.com/news/samsung-foundry-price-hike-15-percent-ai-demand)
+
+---
+
+### 🚀 This Stock Has Become Too Important to the AI Revolution to Ignore
+- **題材**: `AI伺服器` | **重要性**: `65`
+- **來源**: 24/7 Wall St. (2026-08-19T17:00:37Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: OpenAI, Anthropic, Meta, and AWS are all competing for the same scarce silicon, and one chipmaker sits at the center of every deal. Whether that position jus...
+- [原文連結](https://247wallst.com/investing/2026/08/19/this-stock-has-become-too-important-to-the-ai-revolution-to-ignore/)
 
 ---
 
@@ -151,33 +178,6 @@
 - **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: President Donald Trump imposed a 50% tariff on a wide number of Canadian goods, after trade talks collapsed on Friday. In a social media post he said, “Canad...
 - [原文連結](https://www.yahoo.com/news/videos/canada-prime-minister-vows-fight-123116662.html)
-
----
-
-### ⚖️ AI Chip Architectures
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: Jepeake.com (2026-08-23T02:25:10Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: A look at AI Chip Architectures. NVIDIA, AMD, TPUs, Trainium, Groq, Cerebras.
-- [原文連結](https://www.jepeake.com/ai-chip-architectures)
-
----
-
-### ⚖️ Nvidia AI server prices are rising more than 15% from early next year
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: The Next Web (2026-08-22T21:25:33Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Nvidia’s largest customers have been notified that servers containing its AI chips will rise in price by more than 15% in many cases from early next year, driven by memory costs. The company reports quarterly earnings next week. Nvidia’s biggest customers hav…
-- [原文連結](https://thenextweb.com/news/nvidia-ai-server-price-increase-memory-costs)
-
----
-
-### ⚠️ America's largest association of cattle ranchers says Trump's plan to lower beef prices is 'undermining' farmers
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Business Insider (2026-08-22T18:55:00Z)
-- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: On Friday, Trump said the US would allow up to 300,000 metric tons of beef to be imported with no out-of-quota tariff over the next 90 days.
-- [原文連結](https://www.businessinsider.com/trump-beef-prices-cattle-ranchers-farmers-2026-8)
 
 ---
 
