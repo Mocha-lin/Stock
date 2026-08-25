@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-25T15:30:31.874378+00:00
+> 更新時間：2026-08-25T17:20:54.007252+00:00
 
 ### 🚀 1.6T光模組激增，TXC轉向AI基礎設施
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -34,15 +34,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 中芯國際本月稍早公佈了首個30億美元的季度業績，營收年增36.1%，淨利成長近兩倍，達到4.792億美元。
 - [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/smic-is-raising-wafer-prices-into-a-shortage-as-sanctions-wall-off-chinas-ai-demand)
-
----
-
-### ⚖️ Oppenheimer has a blunt Nvidia stock message ahead of earnings
-- **題材**: `AI伺服器` | **重要性**: `70`
-- **來源**: TheStreet (2026-08-22T16:17:00Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: With Nvidia reporting August 26, Oppenheimer just published insights about the stock that cut through the noise around the trade.
-- [原文連結](https://www.thestreet.com/investing/stocks/oppenheimer-has-a-blunt-nvidia-stock-investors-message-ahead-of-earnings)
 
 ---
 
@@ -92,12 +83,12 @@ The post Largan Precision and TSMC partner to chase AI opportunities in co-packa
 
 ---
 
-### 🚀 Why 1 Analyst Says Vera Rubin Is Key for Nvidia Stock in Q2
+### ⚖️ Oppenheimer has a blunt Nvidia stock message ahead of earnings
 - **題材**: `AI伺服器` | **重要性**: `65`
-- **來源**: Barchart.com (2026-08-22T17:41:06Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Nvidia heads into its Aug. 26 earnings report with a new $345 price target and Vera Rubin seen as a potential driver of its next growth cycle.
-- [原文連結](https://www.barchart.com/story/news/3987347/why-1-analyst-says-vera-rubin-is-key-for-nvidia-stock-in-q2)
+- **來源**: TheStreet (2026-08-22T16:17:00Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: With Nvidia reporting August 26, Oppenheimer just published insights about the stock that cut through the noise around the trade.
+- [原文連結](https://www.thestreet.com/investing/stocks/oppenheimer-has-a-blunt-nvidia-stock-investors-message-ahead-of-earnings)
 
 ---
 
@@ -155,6 +146,24 @@ The post Largan Precision and TSMC partner to chase AI opportunities in co-packa
 
 ---
 
+### ⚖️ 英偉達本月收購了第三家土地和電力公司
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: The Next Web (2026-08-24T15:46:32Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 英偉達週五收購了 Cloverleaf 基礎設施公司的少數股權。 Cloverleaf 為資料中心提供土地和電力保障。根據 The Information 報道，這是 Nvidia 快速連續收購的第三家此類公司。兩家公司均未透露...
+- [原文連結](https://thenextweb.com/news/nvidia-cloverleaf-lancium-sb-energy-land-power-dsx)
+
+---
+
+### ⚠️ Explainer-What are Iran's options to escalate further in face of US economic threats?
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-08-24T15:33:41Z)
+- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 8 月 24 日，倫敦
+- [原文連結](https://www.yahoo.com/news/articles/explainer-irans-options-escalate-further-153341041.html)
+
+---
+
 ### ⚖️ Hot Chips 2026: Samsung and HBM Base Die Opportunities
 - **題材**: `HBM記憶體` | **重要性**: `60`
 - **來源**: Chipsandcheese.com (2026-08-24T15:01:51Z)
@@ -170,15 +179,6 @@ The post Largan Precision and TSMC partner to chase AI opportunities in co-packa
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Machine learning workloads have an insatiable appetite for DRAM capacity. Flash memory is cheaper per gigabyte of capacity than DRAM. Could it offer a way out?
 - [原文連結](https://chipsandcheese.com/p/hot-chips-2026-applying-high-bandwidth)
-
----
-
-### ⚖️ Dan Ives Says Investors Still Underestimate Nvidia Days Before Earnings
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: 24/7 Wall St. (2026-08-24T13:40:37Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: With NVIDIA reporting earnings Wednesday and shares already up big this year, Wedbush's Dan Ives insists the crowd still has the story wrong, and he named tw...
-- [原文連結](https://247wallst.com/investing/2026/08/24/dan-ives-says-investors-still-underestimate-nvidia-days-before-earnings/)
 
 ---
 
