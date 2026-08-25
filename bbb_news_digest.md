@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-25T13:38:22.373118+00:00
+> 更新時間：2026-08-25T15:30:31.874378+00:00
 
 ### 🚀 1.6T光模組激增，TXC轉向AI基礎設施
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -7,15 +7,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 隨著對更快數據傳輸的需求不斷增長，石英組件領導者TXC瞄準了AI和汽車應用，預計1.6T光模組將在2026年下半年爆發式增長。該公司的目標是到年底將AI收入提升至20%…
 - [原文連結](https://www.digitimes.com/news/a20260820PD223/txc-component-infrastructure-automotive-2026.html)
-
----
-
-### ⚖️ Analysis: SK Hynix pushes beyond HBM with HBF and CPO
-- **題材**: `HBM記憶體` | **重要性**: `73`
-- **來源**: Digitimes (2026-08-24T04:08:26Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: SK Hynix is moving on several fronts as it pushes deeper into system-level memory competition. From high-bandwidth memory (HBM) and high-bandwidth flash (HBF) to a recently published roadmap proposing to extend co-packaged optics (CPO) to the memory interface…
-- [原文連結](https://www.digitimes.com/news/a20260824PD216/sk-hynix-hbm-cpo-capacity-competition.html)
 
 ---
 
@@ -110,15 +101,6 @@ The post Largan Precision and TSMC partner to chase AI opportunities in co-packa
 
 ---
 
-### 🚀 AMD vs. Nvidia: Is AMD Finally Closing the AI Gap?
-- **題材**: `AI伺服器` | **重要性**: `65`
-- **來源**: 24/7 Wall St. (2026-08-21T15:30:53Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: AMD 剛剛發布了有史以來最好的季度業績，而 Nvidia 正邁向萬億美元的跑道，現在每個超大規模企業都必須決定是否有一個可信的...
-- [原文連結](https://247wallst.com/investing/2026/08/21/amd-vs-nvidia-is-amd-finally-closing-the-ai-gap/)
-
----
-
 ### ⚠️ 「混亂的關稅制度造成的損害無法退還」：1000億美元的退稅已經抹去了5月份以來進口稅帶來的收入
 - **題材**: `總體風險` | **重要性**: `65`
 - **來源**: Yahoo Entertainment (2026-08-21T14:37:33Z)
@@ -173,12 +155,30 @@ The post Largan Precision and TSMC partner to chase AI opportunities in co-packa
 
 ---
 
-### ⚖️ Nvidia raising AI server prices more than 15% amid memory costs
+### ⚖️ Hot Chips 2026: Samsung and HBM Base Die Opportunities
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: Chipsandcheese.com (2026-08-24T15:01:51Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Machine learning applications demand ever more memory capacity and bandwidth. Samsung responded by fabricating their HBM base dies on a logic node, which opens up more opportunities
+- [原文連結](https://chipsandcheese.com/p/hot-chips-2026-samsung-and-hbm-base)
+
+---
+
+### ⚖️ Hot Chips 2026: Applying High Bandwidth Flash (HBF)
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: Chipsandcheese.com (2026-08-24T14:48:58Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Machine learning workloads have an insatiable appetite for DRAM capacity. Flash memory is cheaper per gigabyte of capacity than DRAM. Could it offer a way out?
+- [原文連結](https://chipsandcheese.com/p/hot-chips-2026-applying-high-bandwidth)
+
+---
+
+### ⚖️ Dan Ives Says Investors Still Underestimate Nvidia Days Before Earnings
 - **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: Quartz India (2026-08-24T13:15:47Z)
+- **來源**: 24/7 Wall St. (2026-08-24T13:40:37Z)
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: The increases will apply to systems containing Vera Rubin and Grace Blackwell chips and take effect on shipments early next year
-- [原文連結](https://qz.com/nvidia-ai-server-price-hike-memory-chips-082426)
+- **摘要**: With NVIDIA reporting earnings Wednesday and shares already up big this year, Wedbush's Dan Ives insists the crowd still has the story wrong, and he named tw...
+- [原文連結](https://247wallst.com/investing/2026/08/24/dan-ives-says-investors-still-underestimate-nvidia-days-before-earnings/)
 
 ---
 
