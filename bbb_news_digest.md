@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-25T05:55:08.986034+00:00
+> 更新時間：2026-08-25T09:34:11.807369+00:00
 
 ### 🚀 1.6T光模組激增，TXC轉向AI基礎設施
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -82,24 +82,6 @@
 
 ---
 
-### ⚖️ Xintec readies 12-inch IVR backside copper for TSMC's next-gen AI chips
-- **題材**: `半導體先進製程` | **重要性**: `68`
-- **來源**: Digitimes (2026-08-18T09:05:02Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 台積電正在擴大與封裝和測試子公司 Xintec 的合作，為 AI 晶片開發下一代電力傳輸和先進封裝，而市場猜測表明該公司在 CoWoS 後端組裝方面將發揮更廣泛的外包作用…
-- [原文連結](https://www.digitimes.com/news/a20260817PD219/tsmc-xintec-12-inch-copper-chips.html)
-
----
-
-### ⚖️ Huawei Hubble builds China's InP optical chip stack for the AI interconnect era
-- **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-08-18T09:02:46Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 華為的半導體投資部門看到了早期的光學晶片策略與人工智慧基礎設施的繁榮相一致。自2019年以來，哈伯科技投資有限公司已投資了一系列中國光子學和高速互連公司，其中包括Ve…
-- [原文連結](https://www.digitimes.com/news/a20260817VL211/huawei-inp-investment-chips-substrate.html)
-
----
-
 ### ⚖️ Largan Precision and TSMC partner to chase AI opportunities in co-packaged optics
 - **題材**: `光通訊與矽光子` | **重要性**: `65`
 - **來源**: Crypto Briefing (2026-08-24T05:54:06Z)
@@ -170,6 +152,24 @@ The post Largan Precision and TSMC partner to chase AI opportunities in co-packa
 - **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 小米公司公佈利潤連續第三次下滑，突顯出持續的全球記憶體短缺對全球最大的企業之一造成的沉重打擊。
 - [原文連結](https://finance.yahoo.com/markets/stocks/articles/xiaomi-profit-dives-memory-crunch-112159230.html)
+
+---
+
+### ⚖️ Xintec readies 12-inch IVR backside copper for TSMC's next-gen AI chips
+- **題材**: `半導體先進製程` | **重要性**: `63`
+- **來源**: Digitimes (2026-08-18T09:05:02Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 台積電正在擴大與封裝和測試子公司 Xintec 的合作，為 AI 晶片開發下一代電力傳輸和先進封裝，而市場猜測表明該公司在 CoWoS 後端組裝方面將發揮更廣泛的外包作用…
+- [原文連結](https://www.digitimes.com/news/a20260817PD219/tsmc-xintec-12-inch-copper-chips.html)
+
+---
+
+### ⚖️ Huawei Hubble builds China's InP optical chip stack for the AI interconnect era
+- **題材**: `光通訊與矽光子` | **重要性**: `63`
+- **來源**: Digitimes (2026-08-18T09:02:46Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 華為的半導體投資部門看到了早期的光學晶片策略與人工智慧基礎設施的繁榮相一致。自2019年以來，哈伯科技投資有限公司已投資了一系列中國光子學和高速互連公司，其中包括Ve…
+- [原文連結](https://www.digitimes.com/news/a20260817VL211/huawei-inp-investment-chips-substrate.html)
 
 ---
 
