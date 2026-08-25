@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-25T04:06:02.879262+00:00
+> 更新時間：2026-08-25T05:01:37.774191+00:00
 
 ### 🚀 1.6T光模組激增，TXC轉向AI基礎設施
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -7,6 +7,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 隨著對更快數據傳輸的需求不斷增長，石英組件領導者TXC瞄準了AI和汽車應用，預計1.6T光模組將在2026年下半年爆發式增長。該公司的目標是到年底將AI收入提升至20%…
 - [原文連結](https://www.digitimes.com/news/a20260820PD223/txc-component-infrastructure-automotive-2026.html)
+
+---
+
+### ⚖️ Analysis: SK Hynix pushes beyond HBM with HBF and CPO
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-08-24T04:08:26Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: SK Hynix is moving on several fronts as it pushes deeper into system-level memory competition. From high-bandwidth memory (HBM) and high-bandwidth flash (HBF) to a recently published roadmap proposing to extend co-packaged optics (CPO) to the memory interface…
+- [原文連結](https://www.digitimes.com/news/a20260824PD216/sk-hynix-hbm-cpo-capacity-competition.html)
 
 ---
 
@@ -124,15 +133,6 @@
 - **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 6 月份，由於關稅退款超過收入，川普政府的海關淨收入損失超過 250 億美元。
 - [原文連結](https://finance.yahoo.com/economy/policy/articles/damage-chaotic-tariff-regime-cannot-143733492.html)
-
----
-
-### 🚀 Fabrinet Sees AI Optical Demand Fueling Years of Growth, Expands Capacity
-- **題材**: `光通訊與矽光子` | **重要性**: `65`
-- **來源**: MarketBeat (2026-08-21T04:01:59Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Fabrinet (NYSE:FN) executives said demand across data center interconnect, datacom, automotive and industrial markets remains strong, with the company expand...
-- [原文連結](https://www.marketbeat.com/instant-alerts/fabrinet-sees-ai-optical-demand-fueling-years-of-growth-expands-capacity-2026-08-20/?utm_source=yahoofinance&amp;utm_medium=yahoofinance)
 
 ---
 
