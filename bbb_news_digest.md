@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-26T16:07:07.972010+00:00
+> 更新時間：2026-08-26T18:31:40.598633+00:00
 
 ### 🚀 1.6T光模組激增，TXC轉向AI基礎設施
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -156,15 +156,6 @@ The post Largan Precision and TSMC partner to chase AI opportunities in co-packa
 
 ---
 
-### 🚀 三星將代工價格上調至15%，其中中國支付幅度最大
-- **題材**: `半導體先進製程` | **重要性**: `65`
-- **來源**: The Next Web (2026-08-19T18:25:42Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Samsung has raised prices for some of its advanced contract chipmaking by as much as 15 percent for new orders, according to a Reuters report. Two people familiar with the matter said the increases follow a surge in demand for AI chips. That demand is tighten…
-- [原文連結](https://thenextweb.com/news/samsung-foundry-price-hike-15-percent-ai-demand)
-
----
-
 ### ⚠️ Trump may hope sanctions will pressure Iran's regime, its leaders are betting otherwise
 - **題材**: `總體風險` | **重要性**: `60`
 - **來源**: BBC News (2026-08-25T12:37:53Z)
@@ -180,6 +171,15 @@ The post Largan Precision and TSMC partner to chase AI opportunities in co-packa
 - **AI 判讀**: 屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: That's a little over a quarter of its peak valuation.
 - [原文連結](https://gizmodo.com/sheins-ipo-plans-value-it-at-about-27-billion-thats-shockingly-low-2000802610)
+
+---
+
+### ⚠️ Trump moves toward levying new tariff on China for flooding market with cheap goods, AP sources say
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-08-24T21:52:22Z)
+- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: President Donald Trump is moving toward levying a new tariff on China that would penalize the world’s second-largest economy for flooding the global market w...
+- [原文連結](https://www.yahoo.com/news/politics/articles/trump-moves-toward-levying-tariff-215222117.html)
 
 ---
 
