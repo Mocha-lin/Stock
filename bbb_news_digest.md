@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-26T04:30:32.609068+00:00
+> 更新時間：2026-08-26T05:24:45.385177+00:00
 
 ### 🚀 1.6T光模組激增，TXC轉向AI基礎設施
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -62,15 +62,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 中芯國際本月稍早公佈了首個30億美元的季度業績，營收年增36.1%，淨利成長近兩倍，達到4.792億美元。
 - [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/smic-is-raising-wafer-prices-into-a-shortage-as-sanctions-wall-off-chinas-ai-demand)
-
----
-
-### ⚠️ Trump says U.S. and Canada reached deal to delay 50% U.S. tariffs on Canadian imports
-- **題材**: `總體風險` | **重要性**: `70`
-- **來源**: NPR (2026-08-19T04:55:08Z)
-- **AI 判讀**: 屬「總體風險」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 川普總統表示，在製裁生效前不到兩小時，兩國達成最後一刻協議後，他將推遲美國對加拿大進口產品徵收 50% 的關稅。
-- [原文連結](https://www.npr.org/2026/08/19/g-s1-139156/trump-canada-tariffs)
 
 ---
 
@@ -171,6 +162,15 @@ The post Largan Precision and TSMC partner to chase AI opportunities in co-packa
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Samsung has raised prices for some of its advanced contract chipmaking by as much as 15 percent for new orders, according to a Reuters report. Two people familiar with the matter said the increases follow a surge in demand for AI chips. That demand is tighten…
 - [原文連結](https://thenextweb.com/news/samsung-foundry-price-hike-15-percent-ai-demand)
+
+---
+
+### ⚠️ Trump says U.S. and Canada reached deal to delay 50% U.S. tariffs on Canadian imports
+- **題材**: `總體風險` | **重要性**: `65`
+- **來源**: NPR (2026-08-19T04:55:08Z)
+- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 川普總統表示，在製裁生效前不到兩小時，兩國達成最後一刻協議後，他將推遲美國對加拿大進口產品徵收 50% 的關稅。
+- [原文連結](https://www.npr.org/2026/08/19/g-s1-139156/trump-canada-tariffs)
 
 ---
 
