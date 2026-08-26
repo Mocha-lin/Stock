@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-25T23:24:06.012027+00:00
+> 更新時間：2026-08-26T02:19:17.898521+00:00
 
 ### 🚀 1.6T光模組激增，TXC轉向AI基礎設施
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -10,6 +10,15 @@
 
 ---
 
+### 🚀 Zhongji Innolight's 1.6T surge shows AI networking is becoming next hyperscaler bottleneck
+- **題材**: `光通訊與矽光子` | **重要性**: `78`
+- **來源**: Digitimes (2026-08-25T00:06:02Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: The AI infrastructure boom has long been defined by a race to secure GPUs, memory and power. Yet as cluster sizes continue expanding, another layer of the system is beginning to emerge as an equally decisive constraint: the optical links responsible for movin…
+- [原文連結](https://www.digitimes.com/news/a20260824VL217/infrastructure-revenue-growth-profit.html)
+
+---
+
 ### 🚀 Eoptolink Technology boosts inventory 61% to meet AI demand
 - **題材**: `光通訊與矽光子` | **重要性**: `75`
 - **來源**: Crypto Briefing (2026-08-24T17:31:01Z)
@@ -17,6 +26,15 @@
 - **摘要**: 新易盛科技 2026 年上半年庫存成長 61%，達到 17 億美元，淨利潤飆升 91%，滿足了人工智慧資料中心的持續需求。
 《新易盛科技將庫存增加 61% 以滿足 AI 需求》的消息首先出現在《Crypto Briefing》上。
 - [原文連結](https://cryptobriefing.com/eoptolink-inventory-surge-ai-demand/)
+
+---
+
+### ⚖️ Analysis: SK Hynix pushes beyond HBM with HBF and CPO
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-08-24T04:08:26Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: SK Hynix is moving on several fronts as it pushes deeper into system-level memory competition. From high-bandwidth memory (HBM) and high-bandwidth flash (HBF) to a recently published roadmap proposing to extend co-packaged optics (CPO) to the memory interface…
+- [原文連結](https://www.digitimes.com/news/a20260824PD216/sk-hynix-hbm-cpo-capacity-competition.html)
 
 ---
 
@@ -53,6 +71,15 @@
 - **AI 判讀**: 屬「總體風險」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 川普總統表示，在製裁生效前不到兩小時，兩國達成最後一刻協議後，他將推遲美國對加拿大進口產品徵收 50% 的關稅。
 - [原文連結](https://www.npr.org/2026/08/19/g-s1-139156/trump-canada-tariffs)
+
+---
+
+### ⚖️ Samsung pushes HBM toward logic, SK Hynix targets packaging at Hot Chips 2026
+- **題材**: `HBM記憶體` | **重要性**: `68`
+- **來源**: Digitimes (2026-08-25T00:04:43Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Samsung Electronics and SK Hynix outlined different areas of emphasis for overcoming the next high-bandwidth memory (HBM) bottleneck at Hot Chips 2026, with Samsung pushing more logic and customer-specific functions into the HBM base die while SK Hynix focuse…
+- [原文連結](https://www.digitimes.com/news/a20260824VL214/samsung-hbm-packaging-dram-design.html)
 
 ---
 
@@ -120,6 +147,15 @@ The post Largan Precision and TSMC partner to chase AI opportunities in co-packa
 
 ---
 
+### 🚀 Fabrinet Sees AI Optical Demand Fueling Years of Growth, Expands Capacity
+- **題材**: `光通訊與矽光子` | **重要性**: `65`
+- **來源**: MarketBeat (2026-08-21T04:01:59Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Fabrinet (NYSE:FN) executives said demand across data center interconnect, datacom, automotive and industrial markets remains strong, with the company expand...
+- [原文連結](https://www.marketbeat.com/instant-alerts/fabrinet-sees-ai-optical-demand-fueling-years-of-growth-expands-capacity-2026-08-20/?utm_source=yahoofinance&amp;utm_medium=yahoofinance)
+
+---
+
 ### 🚀 SK Hynix 回購創紀錄，股價上漲 4%，美光科技股價上漲，記憶體逆襲科技股拋售
 - **題材**: `HBM記憶體` | **重要性**: `65`
 - **來源**: 24/7 Wall St. (2026-08-20T18:31:39Z)
@@ -138,48 +174,12 @@ The post Largan Precision and TSMC partner to chase AI opportunities in co-packa
 
 ---
 
-### ⚖️ Xintec readies 12-inch IVR backside copper for TSMC's next-gen AI chips
-- **題材**: `半導體先進製程` | **重要性**: `63`
-- **來源**: Digitimes (2026-08-18T09:05:02Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 台積電正在擴大與封裝和測試子公司 Xintec 的合作，為 AI 晶片開發下一代電力傳輸和先進封裝，而市場猜測表明該公司在 CoWoS 後端組裝方面將發揮更廣泛的外包作用…
-- [原文連結](https://www.digitimes.com/news/a20260817PD219/tsmc-xintec-12-inch-copper-chips.html)
-
----
-
-### ⚖️ Huawei Hubble builds China's InP optical chip stack for the AI interconnect era
-- **題材**: `光通訊與矽光子` | **重要性**: `63`
-- **來源**: Digitimes (2026-08-18T09:02:46Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 華為的半導體投資部門看到了早期的光學晶片策略與人工智慧基礎設施的繁榮相一致。自2019年以來，哈伯科技投資有限公司已投資了一系列中國光子學和高速互連公司，其中包括Ve…
-- [原文連結](https://www.digitimes.com/news/a20260817VL211/huawei-inp-investment-chips-substrate.html)
-
----
-
 ### ⚖️ Nvidia reportedly warns biggest customers of 15% price hikes on AI servers — memory costs continue to soar
 - **題材**: `AI伺服器` | **重要性**: `62`
 - **來源**: Tom's Hardware UK (2026-08-23T13:15:00Z)
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: The increases will take effect on Grace Blackwell and Vera Rubin systems shipping early next year.
 - [原文連結](https://www.tomshardware.com/pc-components/dram/nvidia-reportedly-warns-biggest-customers-of-15-percent-price-hikes-on-ai-servers)
-
----
-
-### ⚠️ Trump moves toward levying new tariff on China for flooding market with cheap goods, AP sources say
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-08-24T21:52:22Z)
-- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: President Donald Trump is moving toward levying a new tariff on China that would penalize the world’s second-largest economy for flooding the global market w...
-- [原文連結](https://www.yahoo.com/news/politics/articles/trump-moves-toward-levying-tariff-215222117.html)
-
----
-
-### ⚠️ Fentanyl, a Reagan ad and a near deal: Trump's trade war with Canada
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-08-24T20:47:01Z)
-- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: By Promit Mukherjee OTTAWA, Aug 24 (Reuters) - Canada and the United States have been locked in a tariff war since U.S. President Donald Trump returned to of...
-- [原文連結](https://ca.news.yahoo.com/fentanyl-reagan-ad-near-deal-204258138.html)
 
 ---
 
