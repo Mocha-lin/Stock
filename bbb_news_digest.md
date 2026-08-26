@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-26T05:57:10.607001+00:00
+> 更新時間：2026-08-26T09:40:14.498991+00:00
 
 ### 🚀 1.6T光模組激增，TXC轉向AI基礎設施
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -65,6 +65,15 @@
 
 ---
 
+### ⚖️ Nvidia and SK Hynix CPO strategies diverge as 3D optics look toward a post-2030 horizon
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-08-25T06:47:15Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: On August 20, SK Hynix's global research team published a paper in Nature Electronics detailing its co-packaged optics (CPO) development for high-performance computing (HPC) and AI. Highlighting key technical hurdles and outlining the trajectory for next-gene…
+- [原文連結](https://www.digitimes.com/news/a20260825PD216/sk-hynix-cpo-nvidia-3d-optics.html)
+
+---
+
 ### ⚖️ Samsung pushes HBM toward logic, SK Hynix targets packaging at Hot Chips 2026
 - **題材**: `HBM記憶體` | **重要性**: `68`
 - **來源**: Digitimes (2026-08-25T00:04:43Z)
@@ -89,6 +98,24 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 畢馬威董事總經理 Jesse Chen 表示，隨著晶片功耗、傳輸速度和架構複雜性的增加，測試已從最終的出貨前品質關卡轉變為產品開發和量產的早期階段。
 - [原文連結](https://www.digitimes.com/news/a20260819PD211/testing-demand-cpo-siph-transmission.html)
+
+---
+
+### ⚖️ SK Hynix Next-Gen HBM Memory to Use Intel EMIB-T Packaging
+- **題材**: `半導體先進製程` | **重要性**: `65`
+- **來源**: Techpowerup.com (2026-08-25T08:23:41Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Intel Foundry is achieving another significant success as SK hynix, a leading memory maker, is reportedly becoming a customer for EMIB advanced packaging. During Hot Chips 2026, SK hynix mentioned that it is collaborating with TSMC to integrate HBM memory int…
+- [原文連結](https://www.techpowerup.com/351913/sk-hynix-next-gen-hbm-memory-to-use-intel-emib-t-packaging)
+
+---
+
+### ⚖️ Intel Secures SK hynix Next-Gen HBM Memory as EMIB Packaging Customer
+- **題材**: `半導體先進製程` | **重要性**: `65`
+- **來源**: Techpowerup.com (2026-08-25T08:23:41Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Intel Foundry is achieving another significant success as SK hynix, a leading memory maker, is reportedly becoming a customer for EMIB advanced packaging. During Hot Chips 2026, SK hynix mentioned that it is collaborating with TSMC to integrate HBM memory int…
+- [原文連結](https://www.techpowerup.com/351913/intel-secures-sk-hynix-next-gen-hbm-memory-as-emib-packaging-customer)
 
 ---
 
@@ -153,33 +180,6 @@ The post Largan Precision and TSMC partner to chase AI opportunities in co-packa
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 雖然科技板塊的其他板塊週四都出現了虧損，但內存股卻在反抗重力，而推動最大贏家的催化劑與…無關。
 - [原文連結](https://247wallst.com/investing/2026/08/20/sk-hynix-climbs-4-on-record-buyback-micron-ticks-up-as-memory-defies-the-tech-selloff/)
-
----
-
-### 🚀 三星將代工價格上調至15%，其中中國支付幅度最大
-- **題材**: `半導體先進製程` | **重要性**: `65`
-- **來源**: The Next Web (2026-08-19T18:25:42Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Samsung has raised prices for some of its advanced contract chipmaking by as much as 15 percent for new orders, according to a Reuters report. Two people familiar with the matter said the increases follow a surge in demand for AI chips. That demand is tighten…
-- [原文連結](https://thenextweb.com/news/samsung-foundry-price-hike-15-percent-ai-demand)
-
----
-
-### ⚠️ Trump says U.S. and Canada reached deal to delay 50% U.S. tariffs on Canadian imports
-- **題材**: `總體風險` | **重要性**: `65`
-- **來源**: NPR (2026-08-19T04:55:08Z)
-- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 川普總統表示，在製裁生效前不到兩小時，兩國達成最後一刻協議後，他將推遲美國對加拿大進口產品徵收 50% 的關稅。
-- [原文連結](https://www.npr.org/2026/08/19/g-s1-139156/trump-canada-tariffs)
-
----
-
-### ⚖️ Nvidia reportedly warns biggest customers of 15% price hikes on AI servers — memory costs continue to soar
-- **題材**: `AI伺服器` | **重要性**: `62`
-- **來源**: Tom's Hardware UK (2026-08-23T13:15:00Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: The increases will take effect on Grace Blackwell and Vera Rubin systems shipping early next year.
-- [原文連結](https://www.tomshardware.com/pc-components/dram/nvidia-reportedly-warns-biggest-customers-of-15-percent-price-hikes-on-ai-servers)
 
 ---
 
