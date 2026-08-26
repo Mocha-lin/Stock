@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-26T09:40:14.498991+00:00
+> 更新時間：2026-08-26T13:43:03.110853+00:00
 
 ### 🚀 1.6T光模組激增，TXC轉向AI基礎設施
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -101,24 +101,6 @@
 
 ---
 
-### ⚖️ SK Hynix Next-Gen HBM Memory to Use Intel EMIB-T Packaging
-- **題材**: `半導體先進製程` | **重要性**: `65`
-- **來源**: Techpowerup.com (2026-08-25T08:23:41Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Intel Foundry is achieving another significant success as SK hynix, a leading memory maker, is reportedly becoming a customer for EMIB advanced packaging. During Hot Chips 2026, SK hynix mentioned that it is collaborating with TSMC to integrate HBM memory int…
-- [原文連結](https://www.techpowerup.com/351913/sk-hynix-next-gen-hbm-memory-to-use-intel-emib-t-packaging)
-
----
-
-### ⚖️ Intel Secures SK hynix Next-Gen HBM Memory as EMIB Packaging Customer
-- **題材**: `半導體先進製程` | **重要性**: `65`
-- **來源**: Techpowerup.com (2026-08-25T08:23:41Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Intel Foundry is achieving another significant success as SK hynix, a leading memory maker, is reportedly becoming a customer for EMIB advanced packaging. During Hot Chips 2026, SK hynix mentioned that it is collaborating with TSMC to integrate HBM memory int…
-- [原文連結](https://www.techpowerup.com/351913/intel-secures-sk-hynix-next-gen-hbm-memory-as-emib-packaging-customer)
-
----
-
 ### ⚠️ How Trump's new trade war with Canada affects everything from building new homes to dog jackets
 - **題材**: `總體風險` | **重要性**: `65`
 - **來源**: Business Insider (2026-08-24T19:32:45Z)
@@ -180,6 +162,24 @@ The post Largan Precision and TSMC partner to chase AI opportunities in co-packa
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 雖然科技板塊的其他板塊週四都出現了虧損，但內存股卻在反抗重力，而推動最大贏家的催化劑與…無關。
 - [原文連結](https://247wallst.com/investing/2026/08/20/sk-hynix-climbs-4-on-record-buyback-micron-ticks-up-as-memory-defies-the-tech-selloff/)
+
+---
+
+### 🚀 三星將代工價格上調至15%，其中中國支付幅度最大
+- **題材**: `半導體先進製程` | **重要性**: `65`
+- **來源**: The Next Web (2026-08-19T18:25:42Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Samsung has raised prices for some of its advanced contract chipmaking by as much as 15 percent for new orders, according to a Reuters report. Two people familiar with the matter said the increases follow a surge in demand for AI chips. That demand is tighten…
+- [原文連結](https://thenextweb.com/news/samsung-foundry-price-hike-15-percent-ai-demand)
+
+---
+
+### ⚠️ Trump may hope sanctions will pressure Iran's regime, its leaders are betting otherwise
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: BBC News (2026-08-25T12:37:53Z)
+- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: The US says new sanctions ar an "economic D-Day", but Tehran's leaders have survived restrictions before.
+- [原文連結](https://www.bbc.co.uk/news/articles/cr50n9gnljgo)
 
 ---
 
