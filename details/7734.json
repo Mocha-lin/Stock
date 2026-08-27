@@ -1,11 +1,11 @@
 {
   "id": "7734",
   "name": "印能科技",
-  "lastUpdated": "2026-08-26 15:39:35",
+  "lastUpdated": "2026-08-28 02:00:39",
   "basicInfo": {
-    "price": "3100.00",
-    "change": "210.00",
-    "changePercent": "7.27%"
+    "price": "2870.00",
+    "change": "-230.00",
+    "changePercent": "-7.42%"
   },
   "status": null,
   "themes": [],
@@ -544,6 +544,22 @@
     ],
     "chips_table": [
       {
+        "date": "2026-08-27",
+        "foreign_lots": -115.876,
+        "it_lots": -72.5,
+        "dealer_lots": -3.917,
+        "sum_lots": -192.293,
+        "pct_float": -0.06867607142857143
+      },
+      {
+        "date": "2026-08-26",
+        "foreign_lots": 60.005,
+        "it_lots": -20.0,
+        "dealer_lots": 6.56,
+        "sum_lots": 46.565000000000005,
+        "pct_float": 0.016630357142857145
+      },
+      {
         "date": "2026-08-25",
         "foreign_lots": 46.993,
         "it_lots": -96.0,
@@ -646,29 +662,13 @@
         "dealer_lots": 0.472,
         "sum_lots": -16.520999999999997,
         "pct_float": -0.005900357142857141
-      },
-      {
-        "date": "2026-08-06",
-        "foreign_lots": -18.0,
-        "it_lots": 0.0,
-        "dealer_lots": -3.8760000000000003,
-        "sum_lots": -21.876,
-        "pct_float": -0.007812857142857144
-      },
-      {
-        "date": "2026-08-05",
-        "foreign_lots": 14.02,
-        "it_lots": -25.1,
-        "dealer_lots": -3.973,
-        "sum_lots": -15.053,
-        "pct_float": -0.005376071428571429
       }
     ],
     "returns_table": [
       {
         "year": 2026,
-        "return_pct": 191.3924271555241,
-        "period": "01/02~08/25"
+        "return_pct": 212.56627134329574,
+        "period": "01/02~08/26"
       },
       {
         "year": 2025,
@@ -686,7 +686,7 @@
       "dataset": "structure_c_score",
       "stock_id": "7734",
       "ticker": "7734.TWO",
-      "asof": "2026-08-25",
+      "asof": "2026-08-27",
       "c_score": 1.6284941761310694,
       "benchmark_pe": 96.15927669061183,
       "source": [
@@ -887,28 +887,6 @@
       "stock_name": "印能科技"
     },
     "kline_data": [
-      {
-        "date": "2026-03-06",
-        "symbol": "7734.TWO",
-        "open": 1640.0,
-        "high": 1755.0,
-        "low": 1615.0,
-        "close": 1685.0,
-        "volume": 372082.0,
-        "adjclose": 1674.5146484375,
-        "dividends": 0.0,
-        "splits": 0.0,
-        "MA5": 1692.0,
-        "MA20": 1467.25,
-        "MA60": 1113.3333333333333,
-        "bb_mid": 1467.25,
-        "bb_up": 1900.9719731579207,
-        "bb_dn": 1033.5280268420788,
-        "DIF": 168.87588794058,
-        "DEA": 162.10223232506442,
-        "HIST": 13.547311231031188,
-        "volume_lot": 372.082
-      },
       {
         "date": "2026-03-09",
         "symbol": "7734.TWO",
@@ -3512,7 +3490,7 @@
         "high": 3135.0,
         "low": 2890.0,
         "close": 3100.0,
-        "volume": 304755.0,
+        "volume": 277274.0,
         "adjclose": 3100.0,
         "dividends": 0.0,
         "splits": 0.0,
@@ -3525,7 +3503,29 @@
         "DIF": -80.78650139063348,
         "DEA": -46.327782399789164,
         "HIST": -68.91743798168862,
-        "volume_lot": 304.755
+        "volume_lot": 277.274
+      },
+      {
+        "date": "2026-08-27",
+        "symbol": "7734.TWO",
+        "open": 3105.0,
+        "high": 3165.0,
+        "low": 2870.0,
+        "close": null,
+        "volume": 407366.0,
+        "adjclose": null,
+        "dividends": 0.0,
+        "splits": 0.0,
+        "MA5": null,
+        "MA20": null,
+        "MA60": null,
+        "bb_mid": null,
+        "bb_up": null,
+        "bb_dn": null,
+        "DIF": -80.78650139063348,
+        "DEA": -53.21952619795803,
+        "HIST": -55.133950385350886,
+        "volume_lot": 407.366
       }
     ]
   }

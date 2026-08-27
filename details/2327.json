@@ -1,11 +1,11 @@
 {
   "id": "2327",
   "name": "國巨*",
-  "lastUpdated": "2026-08-26 15:39:35",
+  "lastUpdated": "2026-08-28 02:00:39",
   "basicInfo": {
-    "price": "537.00",
-    "change": "-7.00",
-    "changePercent": "-1.29%"
+    "price": "555.00",
+    "change": "18.00",
+    "changePercent": "3.35%"
   },
   "status": "⚡ BUY",
   "themes": [],
@@ -638,6 +638,22 @@
     ],
     "chips_table": [
       {
+        "date": "2026-08-27",
+        "foreign_lots": -839.785,
+        "it_lots": -5322.676,
+        "dealer_lots": 1129.844,
+        "sum_lots": -5032.617,
+        "pct_float": -0.09778096291171241
+      },
+      {
+        "date": "2026-08-26",
+        "foreign_lots": 49.769,
+        "it_lots": -2874.704,
+        "dealer_lots": 414.33399999999995,
+        "sum_lots": -2410.6010000000006,
+        "pct_float": -0.046836643236697104
+      },
+      {
         "date": "2026-08-25",
         "foreign_lots": 1451.89,
         "it_lots": -2342.195,
@@ -740,22 +756,6 @@
         "dealer_lots": 141.999,
         "sum_lots": -10721.046,
         "pct_float": -0.20830399001171013
-      },
-      {
-        "date": "2026-08-06",
-        "foreign_lots": -4366.559,
-        "it_lots": -1647.66,
-        "dealer_lots": 234.386,
-        "sum_lots": -5779.833,
-        "pct_float": -0.1122989562307029
-      },
-      {
-        "date": "2026-08-05",
-        "foreign_lots": -8196.014,
-        "it_lots": 1112.193,
-        "dealer_lots": -62.476,
-        "sum_lots": -7146.296999999999,
-        "pct_float": -0.13884859545502498
       }
     ],
     "c_score_data": {
@@ -763,7 +763,7 @@
       "dataset": "structure_c_score",
       "stock_id": "2327",
       "ticker": "2327.TW",
-      "asof": "2026-08-25",
+      "asof": "2026-08-27",
       "c_score": 2.632197820331705,
       "benchmark_pe": 11.465595903361242,
       "source": [
@@ -1039,14 +1039,14 @@
         },
         {
           "period": "2021Q3",
-          "avg_price": 123.70199680328369,
+          "avg_price": 123.77128899615744,
           "eps": 13.88,
           "revenue_q": 98.04555,
-          "pe_ratio": 8.91224760830574,
+          "pe_ratio": 8.917239841221717,
           "rev_growth": null,
           "eps_growth": null,
           "rt_weight": 1.0,
-          "deviation": 0.7773034810770747,
+          "deviation": 0.7777388908855184,
           "theo_price": 159.14247113865406
         }
       ],
@@ -1062,8 +1062,8 @@
     "returns_table": [
       {
         "year": 2026,
-        "return_pct": 127.34578541960109,
-        "period": "01/02~08/25"
+        "return_pct": 124.42038009251064,
+        "period": "01/02~08/26"
       },
       {
         "year": 2025,
@@ -1082,7 +1082,7 @@
       },
       {
         "year": 2022,
-        "return_pct": -23.712788832788835,
+        "return_pct": -23.712800800183242,
         "period": "01/03~12/30"
       }
     ],
@@ -1973,28 +1973,6 @@
     ],
     "facilities_data": [],
     "kline_data": [
-      {
-        "date": "2026-03-06",
-        "symbol": "2327.TW",
-        "open": 266.0,
-        "high": 269.5,
-        "low": 262.0,
-        "close": 265.0,
-        "volume": 15045724.0,
-        "adjclose": 263.11212158203125,
-        "dividends": 0.0,
-        "splits": 0.0,
-        "MA5": 272.8,
-        "MA20": 272.125,
-        "MA60": 255.575,
-        "bb_mid": 272.125,
-        "bb_up": 304.9957696898025,
-        "bb_dn": 239.2542303101975,
-        "DIF": 2.8050082970880226,
-        "DEA": 4.923630259065932,
-        "HIST": -4.23724392395582,
-        "volume_lot": 15045.724
-      },
       {
         "date": "2026-03-09",
         "symbol": "2327.TW",
@@ -4598,7 +4576,7 @@
         "high": 540.0,
         "low": 526.0,
         "close": 537.0,
-        "volume": 27507869.0,
+        "volume": 26535435.0,
         "adjclose": 537.0,
         "dividends": 0.0,
         "splits": 0.0,
@@ -4611,7 +4589,29 @@
         "DIF": -40.47495238742158,
         "DEA": -44.95219628501703,
         "HIST": 8.9544877951909,
-        "volume_lot": 27507.869
+        "volume_lot": 26535.435
+      },
+      {
+        "date": "2026-08-27",
+        "symbol": "2327.TW",
+        "open": 545.0,
+        "high": 560.0,
+        "low": 529.0,
+        "close": null,
+        "volume": 49491499.0,
+        "adjclose": null,
+        "dividends": 0.0,
+        "splits": 0.0,
+        "MA5": null,
+        "MA20": null,
+        "MA60": null,
+        "bb_mid": null,
+        "bb_up": null,
+        "bb_dn": null,
+        "DIF": -40.47495238742158,
+        "DEA": -44.056747505497945,
+        "HIST": 7.163590236152729,
+        "volume_lot": 49491.499
       }
     ],
     "valuation": {

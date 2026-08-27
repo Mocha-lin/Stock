@@ -1,11 +1,11 @@
 {
   "id": "3037",
   "name": "欣興",
-  "lastUpdated": "2026-08-26 15:39:35",
+  "lastUpdated": "2026-08-28 02:00:39",
   "basicInfo": {
-    "price": "1160.00",
-    "change": "65.00",
-    "changePercent": "5.94%"
+    "price": "1180.00",
+    "change": "20.00",
+    "changePercent": "1.72%"
   },
   "status": null,
   "themes": [],
@@ -568,6 +568,22 @@
     ],
     "chips_table": [
       {
+        "date": "2026-08-27",
+        "foreign_lots": 181.47,
+        "it_lots": 873.416,
+        "dealer_lots": 152.538,
+        "sum_lots": 1207.424,
+        "pct_float": 0.0075875501296845775
+      },
+      {
+        "date": "2026-08-26",
+        "foreign_lots": 2916.764,
+        "it_lots": 914.389,
+        "dealer_lots": 414.248,
+        "sum_lots": 4245.401,
+        "pct_float": 0.02667844345326334
+      },
+      {
         "date": "2026-08-25",
         "foreign_lots": 3068.442,
         "it_lots": -1212.0,
@@ -670,38 +686,22 @@
         "dealer_lots": -47.709,
         "sum_lots": -764.2639999999999,
         "pct_float": -0.004802696825898155
-      },
-      {
-        "date": "2026-08-06",
-        "foreign_lots": -615.618,
-        "it_lots": 581.0,
-        "dealer_lots": -27.881999999999998,
-        "sum_lots": -62.50000000000005,
-        "pct_float": -0.00039275505796247754
-      },
-      {
-        "date": "2026-08-05",
-        "foreign_lots": 8712.45,
-        "it_lots": 1817.592,
-        "dealer_lots": -181.894,
-        "sum_lots": 10348.148000000001,
-        "pct_float": 0.0650285994807087
       }
     ],
     "returns_table": [
       {
         "year": 2026,
-        "return_pct": 401.0238388388511,
-        "period": "01/02~08/25"
+        "return_pct": 430.764979957139,
+        "period": "01/02~08/26"
       },
       {
         "year": 2025,
-        "return_pct": 51.50069156584489,
+        "return_pct": 51.50070751784168,
         "period": "01/02~12/31"
       },
       {
         "year": 2024,
-        "return_pct": -17.090812518304897,
+        "return_pct": -17.090803417048505,
         "period": "01/02~12/31"
       },
       {
@@ -720,7 +720,7 @@
       "dataset": "structure_c_score",
       "stock_id": "3037",
       "ticker": "3037.TW",
-      "asof": "2026-08-25",
+      "asof": "2026-08-27",
       "c_score": 10.080905647779028,
       "benchmark_pe": 82.78893964318772,
       "source": [
@@ -996,14 +996,14 @@
         },
         {
           "period": "2021Q3",
-          "avg_price": 143.8125,
+          "avg_price": 144.0,
           "eps": 2.87,
           "revenue_q": 95.7101,
-          "pe_ratio": 50.1088850174216,
+          "pe_ratio": 50.174216027874564,
           "rev_growth": null,
           "eps_growth": null,
           "rt_weight": 1.0,
-          "deviation": 0.605260620964419,
+          "deviation": 0.6060497482407742,
           "theo_price": 237.60425677594876
         }
       ],
@@ -1017,27 +1017,6 @@
       "stock_name": "欣興"
     },
     "kline_data": [
-      {
-        "date": "2026-03-06",
-        "symbol": "3037.TW",
-        "open": 442.5,
-        "high": 450.5,
-        "low": 430.5,
-        "close": 432.0,
-        "volume": 13338280.0,
-        "adjclose": 431.1172180175781,
-        "dividends": 0.0,
-        "MA5": 448.6,
-        "MA20": 402.825,
-        "MA60": 294.9833333333333,
-        "bb_mid": 402.825,
-        "bb_up": 494.3745903868482,
-        "bb_dn": 311.2754096131518,
-        "DIF": 40.560745594272646,
-        "DEA": 41.808572934462255,
-        "HIST": -2.495654680379218,
-        "volume_lot": 13338.28
-      },
       {
         "date": "2026-03-09",
         "symbol": "3037.TW",
@@ -3523,7 +3502,7 @@
         "high": 1180.0,
         "low": 1080.0,
         "close": 1160.0,
-        "volume": 22498278.0,
+        "volume": 21470271.0,
         "adjclose": 1160.0,
         "dividends": 0.0,
         "MA5": 1111.0,
@@ -3535,7 +3514,28 @@
         "DIF": 63.8409960990673,
         "DEA": 52.65627343900742,
         "HIST": 22.369445320119752,
-        "volume_lot": 22498.278
+        "volume_lot": 21470.271
+      },
+      {
+        "date": "2026-08-27",
+        "symbol": "3037.TW",
+        "open": 1170.0,
+        "high": 1205.0,
+        "low": 1150.0,
+        "close": null,
+        "volume": 23967718.0,
+        "adjclose": null,
+        "dividends": 0.0,
+        "MA5": null,
+        "MA20": null,
+        "MA60": null,
+        "bb_mid": null,
+        "bb_up": null,
+        "bb_dn": null,
+        "DIF": 63.8409960990673,
+        "DEA": 54.8932179710194,
+        "HIST": 17.895556256095787,
+        "volume_lot": 23967.718
       }
     ]
   }

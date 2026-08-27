@@ -1,11 +1,11 @@
 {
   "id": "6937",
   "name": "天虹",
-  "lastUpdated": "2026-08-26 15:39:35",
+  "lastUpdated": "2026-08-28 02:00:39",
   "basicInfo": {
-    "price": "274.00",
-    "change": "12.00",
-    "changePercent": "4.58%"
+    "price": "281.00",
+    "change": "7.00",
+    "changePercent": "2.55%"
   },
   "status": null,
   "themes": [],
@@ -568,6 +568,22 @@
     ],
     "chips_table": [
       {
+        "date": "2026-08-27",
+        "foreign_lots": 69.513,
+        "it_lots": 0.0,
+        "dealer_lots": 28.823,
+        "sum_lots": 98.33600000000001,
+        "pct_float": 0.014534855362403242
+      },
+      {
+        "date": "2026-08-26",
+        "foreign_lots": 39.152,
+        "it_lots": 0.0,
+        "dealer_lots": 28.352,
+        "sum_lots": 67.504,
+        "pct_float": 0.009977636637484426
+      },
+      {
         "date": "2026-08-25",
         "foreign_lots": -74.395,
         "it_lots": 0.0,
@@ -670,29 +686,13 @@
         "dealer_lots": -31.186,
         "sum_lots": -196.381,
         "pct_float": -0.029026698573504223
-      },
-      {
-        "date": "2026-08-06",
-        "foreign_lots": 17.975,
-        "it_lots": -20.0,
-        "dealer_lots": 0.943,
-        "sum_lots": -1.0819999999999985,
-        "pct_float": -0.0001599283426427787
-      },
-      {
-        "date": "2026-08-05",
-        "foreign_lots": 65.0,
-        "it_lots": 0.0,
-        "dealer_lots": 8.711,
-        "sum_lots": 73.711,
-        "pct_float": 0.010895081390519293
       }
     ],
     "returns_table": [
       {
         "year": 2026,
-        "return_pct": 5.14842609871371,
-        "period": "01/02~08/25"
+        "return_pct": 9.96438454598303,
+        "period": "01/02~08/26"
       },
       {
         "year": 2025,
@@ -701,12 +701,12 @@
       },
       {
         "year": 2024,
-        "return_pct": 62.34619247234801,
+        "return_pct": 62.34620618266946,
         "period": "01/02~12/31"
       },
       {
         "year": 2023,
-        "return_pct": 20.09151771921136,
+        "return_pct": 20.091508168565774,
         "period": "03/30~12/29"
       }
     ],
@@ -715,7 +715,7 @@
       "dataset": "structure_c_score",
       "stock_id": "6937",
       "ticker": "6937.TW",
-      "asof": "2026-08-25",
+      "asof": "2026-08-27",
       "c_score": 2.2478289885449847,
       "benchmark_pe": 157.1423237753883,
       "source": [
@@ -964,27 +964,6 @@
       "stock_name": "天虹"
     },
     "kline_data": [
-      {
-        "date": "2026-03-06",
-        "symbol": "6937.TW",
-        "open": 247.0,
-        "high": 254.0,
-        "low": 242.0,
-        "close": 247.5,
-        "volume": 469710.0,
-        "adjclose": 246.1875,
-        "dividends": 0.0,
-        "MA5": 246.9,
-        "MA20": 226.975,
-        "MA60": 225.83333333333331,
-        "bb_mid": 226.975,
-        "bb_up": 254.73193607011245,
-        "bb_dn": 199.2180639298876,
-        "DIF": 5.907204964045263,
-        "DEA": 2.778962075189805,
-        "HIST": 6.256485777710917,
-        "volume_lot": 469.71
-      },
       {
         "date": "2026-03-09",
         "symbol": "6937.TW",
@@ -3470,7 +3449,7 @@
         "high": 275.5,
         "low": 262.0,
         "close": 274.0,
-        "volume": 267569.0,
+        "volume": 261004.0,
         "adjclose": 274.0,
         "dividends": 0.0,
         "MA5": 264.7,
@@ -3482,7 +3461,28 @@
         "DIF": -0.4283623346585727,
         "DEA": 0.0167370411130438,
         "HIST": -0.8901987515432331,
-        "volume_lot": 267.569
+        "volume_lot": 261.004
+      },
+      {
+        "date": "2026-08-27",
+        "symbol": "6937.TW",
+        "open": 275.0,
+        "high": 283.5,
+        "low": 272.0,
+        "close": null,
+        "volume": 330778.0,
+        "adjclose": null,
+        "dividends": 0.0,
+        "MA5": null,
+        "MA20": null,
+        "MA60": null,
+        "bb_mid": null,
+        "bb_up": null,
+        "bb_dn": null,
+        "DIF": -0.4283623346585727,
+        "DEA": -0.0722828340412795,
+        "HIST": -0.7121590012345865,
+        "volume_lot": 330.778
       }
     ]
   }

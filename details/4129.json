@@ -1,11 +1,11 @@
 {
   "id": "4129",
   "name": "聯合",
-  "lastUpdated": "2026-08-26 15:39:35",
+  "lastUpdated": "2026-08-28 02:00:39",
   "basicInfo": {
-    "price": "82.70",
-    "change": "-4.30",
-    "changePercent": "-4.94%"
+    "price": "82.30",
+    "change": "-0.40",
+    "changePercent": "-0.48%"
   },
   "status": "⚡ BUY",
   "themes": [],
@@ -638,6 +638,22 @@
     ],
     "chips_table": [
       {
+        "date": "2026-08-27",
+        "foreign_lots": -347.0,
+        "it_lots": 0.0,
+        "dealer_lots": -0.567,
+        "sum_lots": -347.567,
+        "pct_float": -0.03604061071615221
+      },
+      {
+        "date": "2026-08-26",
+        "foreign_lots": 336.0,
+        "it_lots": 0.0,
+        "dealer_lots": -2.003,
+        "sum_lots": 333.997,
+        "pct_float": 0.03463348320572059
+      },
+      {
         "date": "2026-08-25",
         "foreign_lots": -20.0,
         "it_lots": 0.0,
@@ -740,22 +756,6 @@
         "dealer_lots": 0.658,
         "sum_lots": -2.342,
         "pct_float": -0.00024285133599342997
-      },
-      {
-        "date": "2026-08-06",
-        "foreign_lots": 3.0,
-        "it_lots": 0.0,
-        "dealer_lots": -0.318,
-        "sum_lots": 2.682,
-        "pct_float": 0.00027810729425037535
-      },
-      {
-        "date": "2026-08-05",
-        "foreign_lots": -13.0,
-        "it_lots": 0.0,
-        "dealer_lots": 0.143,
-        "sum_lots": -12.857,
-        "pct_float": -0.0013331936920869037
       }
     ],
     "c_score_data": {
@@ -763,7 +763,7 @@
       "dataset": "structure_c_score",
       "stock_id": "4129",
       "ticker": "4129.TWO",
-      "asof": "2026-08-25",
+      "asof": "2026-08-27",
       "c_score": 1.167025392548962,
       "benchmark_pe": 67.08337487682982,
       "source": [
@@ -1039,14 +1039,14 @@
         },
         {
           "period": "2021Q3",
-          "avg_price": 30.264583349227905,
+          "avg_price": 30.230434832365617,
           "eps": 0.05,
           "revenue_q": 1.90908,
-          "pe_ratio": 605.2916669845581,
+          "pe_ratio": 604.6086966473123,
           "rev_growth": null,
           "eps_growth": null,
           "rt_weight": 1.0,
-          "deviation": 9.022975783432477,
+          "deviation": 9.012794865455412,
           "theo_price": 3.354168743841491
         }
       ],
@@ -1062,8 +1062,8 @@
     "returns_table": [
       {
         "year": 2026,
-        "return_pct": -16.44778466462912,
-        "period": "01/02~08/25"
+        "return_pct": -20.57737984765464,
+        "period": "01/02~08/26"
       },
       {
         "year": 2025,
@@ -1988,27 +1988,6 @@
     ],
     "facilities_data": [],
     "kline_data": [
-      {
-        "date": "2026-03-06",
-        "symbol": "4129.TWO",
-        "open": 103.5,
-        "high": 105.0,
-        "low": 103.5,
-        "close": 105.0,
-        "volume": 74011.0,
-        "adjclose": 99.84732818603516,
-        "dividends": 0.0,
-        "MA5": 105.5,
-        "MA20": 108.45,
-        "MA60": 112.425,
-        "bb_mid": 108.45,
-        "bb_up": 112.6559481689624,
-        "bb_dn": 104.2440518310376,
-        "DIF": -1.7585154710277775,
-        "DEA": -1.3550409918996862,
-        "HIST": -0.8069489582561831,
-        "volume_lot": 74.011
-      },
       {
         "date": "2026-03-09",
         "symbol": "4129.TWO",
@@ -4494,7 +4473,7 @@
         "high": 86.4000015258789,
         "low": 82.5,
         "close": 82.69999694824219,
-        "volume": 2707508.0,
+        "volume": 2688492.0,
         "adjclose": 82.69999694824219,
         "dividends": 0.0,
         "MA5": 86.81999969482422,
@@ -4506,7 +4485,28 @@
         "DIF": -0.6554060720529691,
         "DEA": -0.7542032444435661,
         "HIST": 0.1975943447811941,
-        "volume_lot": 2707.508
+        "volume_lot": 2688.492
+      },
+      {
+        "date": "2026-08-27",
+        "symbol": "4129.TWO",
+        "open": 83.19999694824219,
+        "high": 84.19999694824219,
+        "low": 81.0,
+        "close": null,
+        "volume": 1519754.0,
+        "adjclose": null,
+        "dividends": 0.0,
+        "MA5": null,
+        "MA20": null,
+        "MA60": null,
+        "bb_mid": null,
+        "bb_up": null,
+        "bb_dn": null,
+        "DIF": -0.6554060720529691,
+        "DEA": -0.7344438099654468,
+        "HIST": 0.1580754758249554,
+        "volume_lot": 1519.754
       }
     ],
     "valuation": {

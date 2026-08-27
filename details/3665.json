@@ -1,11 +1,11 @@
 {
   "id": "3665",
   "name": "貿聯-KY",
-  "lastUpdated": "2026-08-26 15:39:35",
+  "lastUpdated": "2026-08-28 02:00:39",
   "basicInfo": {
-    "price": "2005.00",
-    "change": "-70.00",
-    "changePercent": "-3.37%"
+    "price": "2055.00",
+    "change": "50.00",
+    "changePercent": "2.49%"
   },
   "status": null,
   "themes": [],
@@ -568,6 +568,22 @@
     ],
     "chips_table": [
       {
+        "date": "2026-08-27",
+        "foreign_lots": 85.614,
+        "it_lots": -301.07,
+        "dealer_lots": 48.894999999999996,
+        "sum_lots": -166.56099999999998,
+        "pct_float": -0.008538156966634953
+      },
+      {
+        "date": "2026-08-26",
+        "foreign_lots": -546.568,
+        "it_lots": -303.001,
+        "dealer_lots": -31.171,
+        "sum_lots": -880.74,
+        "pct_float": -0.045148002034054
+      },
+      {
         "date": "2026-08-25",
         "foreign_lots": -89.849,
         "it_lots": 202.992,
@@ -670,33 +686,17 @@
         "dealer_lots": -45.023,
         "sum_lots": -1125.1309999999999,
         "pct_float": -0.05767583699681768
-      },
-      {
-        "date": "2026-08-06",
-        "foreign_lots": -129.448,
-        "it_lots": 508.0,
-        "dealer_lots": -16.726,
-        "sum_lots": 361.826,
-        "pct_float": 0.018547722351628885
-      },
-      {
-        "date": "2026-08-05",
-        "foreign_lots": 596.198,
-        "it_lots": 131.996,
-        "dealer_lots": 5.787,
-        "sum_lots": 733.981,
-        "pct_float": 0.037624924133066506
       }
     ],
     "returns_table": [
       {
         "year": 2026,
-        "return_pct": 37.257878536338,
-        "period": "01/02~08/25"
+        "return_pct": 32.62749227246153,
+        "period": "01/02~08/26"
       },
       {
         "year": 2025,
-        "return_pct": 156.8119632077663,
+        "return_pct": 156.81193649271904,
         "period": "01/02~12/31"
       },
       {
@@ -706,12 +706,12 @@
       },
       {
         "year": 2023,
-        "return_pct": 17.09838387520144,
+        "return_pct": 17.09838508253656,
         "period": "01/03~12/29"
       },
       {
         "year": 2022,
-        "return_pct": -7.448562567949346,
+        "return_pct": -7.4485686802654545,
         "period": "01/03~12/30"
       }
     ],
@@ -720,7 +720,7 @@
       "dataset": "structure_c_score",
       "stock_id": "3665",
       "ticker": "3665.TW",
-      "asof": "2026-08-25",
+      "asof": "2026-08-27",
       "c_score": 1.1204499303998632,
       "benchmark_pe": 65.60283219417093,
       "source": [
@@ -996,14 +996,14 @@
         },
         {
           "period": "2021Q3",
-          "avg_price": 229.58476320902506,
+          "avg_price": 230.1590284264606,
           "eps": 4.54,
           "revenue_q": 24.78218,
-          "pe_ratio": 50.56933110330948,
+          "pe_ratio": 50.6958212393085,
           "rev_growth": null,
           "eps_growth": null,
           "rt_weight": 1.0,
-          "deviation": 0.7708406697082014,
+          "deviation": 0.7727687897568091,
           "theo_price": 297.83685816153604
         }
       ],
@@ -1017,28 +1017,6 @@
       "stock_name": "貿聯-KY"
     },
     "kline_data": [
-      {
-        "date": "2026-03-06",
-        "symbol": "3665.TW",
-        "open": 1735.0,
-        "high": 1785.0,
-        "low": 1710.0,
-        "close": 1770.0,
-        "volume": 4478302.0,
-        "adjclose": 1754.624755859375,
-        "dividends": 0.0,
-        "splits": 0.0,
-        "MA5": 1651.0,
-        "MA20": 1416.0,
-        "MA60": 1452.3333333333333,
-        "bb_mid": 1416.0,
-        "bb_up": 1718.1357310878684,
-        "bb_dn": 1113.8642689121316,
-        "DIF": 68.30871914374802,
-        "DEA": 15.447438187577292,
-        "HIST": 105.72256191234146,
-        "volume_lot": 4478.302
-      },
       {
         "date": "2026-03-09",
         "symbol": "3665.TW",
@@ -3642,7 +3620,7 @@
         "high": 2055.0,
         "low": 1930.0,
         "close": 2005.0,
-        "volume": 4871179.0,
+        "volume": 4573570.0,
         "adjclose": 2005.0,
         "dividends": 0.0,
         "splits": 0.0,
@@ -3655,7 +3633,29 @@
         "DIF": 4.572556930305382,
         "DEA": 31.092203973414676,
         "HIST": -53.03929408621858,
-        "volume_lot": 4871.179
+        "volume_lot": 4573.57
+      },
+      {
+        "date": "2026-08-27",
+        "symbol": "3665.TW",
+        "open": 2040.0,
+        "high": 2070.0,
+        "low": 1980.0,
+        "close": null,
+        "volume": 2888905.0,
+        "adjclose": null,
+        "dividends": 0.0,
+        "splits": 0.0,
+        "MA5": null,
+        "MA20": null,
+        "MA60": null,
+        "bb_mid": null,
+        "bb_up": null,
+        "bb_dn": null,
+        "DIF": 4.572556930305382,
+        "DEA": 25.78827456479281,
+        "HIST": -42.43143526897487,
+        "volume_lot": 2888.905
       }
     ]
   }

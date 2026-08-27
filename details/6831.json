@@ -1,11 +1,11 @@
 {
   "id": "6831",
   "name": "邁科",
-  "lastUpdated": "2026-08-26 15:39:35",
+  "lastUpdated": "2026-08-28 02:00:39",
   "basicInfo": {
-    "price": "576.00",
-    "change": "14.00",
-    "changePercent": "2.49%"
+    "price": "593.00",
+    "change": "17.00",
+    "changePercent": "2.95%"
   },
   "status": null,
   "themes": [],
@@ -490,6 +490,22 @@
     ],
     "chips_table": [
       {
+        "date": "2026-08-27",
+        "foreign_lots": -11.471,
+        "it_lots": 17.0,
+        "dealer_lots": 22.766999999999996,
+        "sum_lots": 28.295999999999996,
+        "pct_float": 0.0041919999999999995
+      },
+      {
+        "date": "2026-08-26",
+        "foreign_lots": -285.981,
+        "it_lots": -146.0,
+        "dealer_lots": 151.315,
+        "sum_lots": -280.666,
+        "pct_float": -0.041580148148148144
+      },
+      {
         "date": "2026-08-25",
         "foreign_lots": -18.825,
         "it_lots": -100.0,
@@ -592,33 +608,17 @@
         "dealer_lots": -22.701,
         "sum_lots": -162.39,
         "pct_float": -0.024057777777777775
-      },
-      {
-        "date": "2026-08-06",
-        "foreign_lots": -93.611,
-        "it_lots": 5.0,
-        "dealer_lots": 9.905000000000001,
-        "sum_lots": -78.706,
-        "pct_float": -0.011660148148148149
-      },
-      {
-        "date": "2026-08-05",
-        "foreign_lots": -268.133,
-        "it_lots": 9.0,
-        "dealer_lots": -25.570999999999998,
-        "sum_lots": -284.70399999999995,
-        "pct_float": -0.04217837037037036
       }
     ],
     "returns_table": [
       {
         "year": 2026,
-        "return_pct": 94.89612537449972,
-        "period": "01/02~08/25"
+        "return_pct": 99.75118899592854,
+        "period": "01/02~08/26"
       },
       {
         "year": 2025,
-        "return_pct": 259.2400827929149,
+        "return_pct": 259.2400491688184,
         "period": "01/02~12/31"
       },
       {
@@ -633,7 +633,7 @@
       },
       {
         "year": 2022,
-        "return_pct": -24.180313231355864,
+        "return_pct": -24.18031938575853,
         "period": "01/03~12/30"
       }
     ],
@@ -642,7 +642,7 @@
       "dataset": "structure_c_score",
       "stock_id": "6831",
       "ticker": "6831.TW",
-      "asof": "2026-08-25",
+      "asof": "2026-08-27",
       "c_score": 1.0,
       "benchmark_pe": 48.99948176775297,
       "source": [
@@ -855,28 +855,6 @@
       "stock_name": "邁科"
     },
     "kline_data": [
-      {
-        "date": "2026-03-06",
-        "symbol": "6831.TW",
-        "open": 313.5,
-        "high": 313.5,
-        "low": 296.5,
-        "close": 296.5,
-        "volume": 3079497.0,
-        "adjclose": 294.3144836425781,
-        "dividends": 0.0,
-        "splits": 0.0,
-        "MA5": 307.2,
-        "MA20": 274.0,
-        "MA60": 262.575,
-        "bb_mid": 274.0,
-        "bb_up": 332.68815894198866,
-        "bb_dn": 215.3118410580113,
-        "DIF": 15.731417700729423,
-        "DEA": 11.605244133811455,
-        "HIST": 8.252347133835933,
-        "volume_lot": 3079.497
-      },
       {
         "date": "2026-03-09",
         "symbol": "6831.TW",
@@ -3480,7 +3458,7 @@
         "high": 578.0,
         "low": 545.0,
         "close": 576.0,
-        "volume": 1527792.0,
+        "volume": 1508123.0,
         "adjclose": 576.0,
         "dividends": 0.0,
         "splits": 0.0,
@@ -3493,7 +3471,29 @@
         "DIF": -23.61128836603996,
         "DEA": -19.55700105093613,
         "HIST": -8.108574630207656,
-        "volume_lot": 1527.792
+        "volume_lot": 1508.123
+      },
+      {
+        "date": "2026-08-27",
+        "symbol": "6831.TW",
+        "open": 582.0,
+        "high": 612.0,
+        "low": 568.0,
+        "close": null,
+        "volume": 1159767.0,
+        "adjclose": null,
+        "dividends": 0.0,
+        "splits": 0.0,
+        "MA5": null,
+        "MA20": null,
+        "MA60": null,
+        "bb_mid": null,
+        "bb_up": null,
+        "bb_dn": null,
+        "DIF": -23.61128836603996,
+        "DEA": -20.367858513956897,
+        "HIST": -6.486859704166122,
+        "volume_lot": 1159.767
       }
     ]
   }

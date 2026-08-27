@@ -1,11 +1,11 @@
 {
   "id": "4971",
   "name": "IET-KY",
-  "lastUpdated": "2026-08-26 15:39:35",
+  "lastUpdated": "2026-08-28 02:00:39",
   "basicInfo": {
-    "price": "552.00",
-    "change": "-2.00",
-    "changePercent": "-0.36%"
+    "price": "567.00",
+    "change": "15.00",
+    "changePercent": "2.72%"
   },
   "status": "⚡ BUY",
   "themes": [],
@@ -382,6 +382,17 @@
     ],
     "eps_table": [
       {
+        "period": "2026Q2",
+        "gross_margin_pct": 33.997283308742595,
+        "net_margin_pct": 8.493173142228155,
+        "opm_pct": 8.427207506811245,
+        "eps": 0.43,
+        "eps_ytd": 2.4,
+        "gross": 33.997283308742595,
+        "net": 8.493173142228155,
+        "opm": 8.427207506811245
+      },
+      {
         "period": "2026Q1",
         "gross_margin_pct": 47.8411927105443,
         "net_margin_pct": 29.26108908297732,
@@ -457,17 +468,6 @@
         "gross": 16.779831298168013,
         "net": -32.56983729915245,
         "opm": -13.99038493955188
-      },
-      {
-        "period": "2024Q2",
-        "gross_margin_pct": 6.436676202961634,
-        "net_margin_pct": -29.61826835521515,
-        "opm_pct": -30.114241799970294,
-        "eps": -1.24,
-        "eps_ytd": -1.6,
-        "gross": 6.436676202961634,
-        "net": -29.61826835521515,
-        "opm": -30.114241799970294
       }
     ],
     "cashflow_table": [
@@ -700,6 +700,14 @@
     ],
     "pe_table": [
       {
+        "period": "2026Q2",
+        "deadline": "2026-08-14",
+        "price_basis": "公告後3日",
+        "avg_close_3d": 521.3333333333334,
+        "ttm_eps": 4.71,
+        "pe": 110.68648266100496
+      },
+      {
         "period": "2026Q1",
         "deadline": "2026-05-15",
         "price_basis": "公告後3日",
@@ -754,33 +762,41 @@
         "avg_close_3d": 80.60000101725261,
         "ttm_eps": -3.3,
         "pe": null
-      },
-      {
-        "period": "2024Q2",
-        "deadline": "2024-08-14",
-        "price_basis": "公告後3日",
-        "avg_close_3d": 52.09999974568685,
-        "ttm_eps": -0.83,
-        "pe": null
       }
     ],
     "capital_table": [
       {
-        "report_date": "2026-03-31",
-        "capital_value_raw": 399857000.0,
+        "report_date": "2026-06-30",
+        "capital_value_raw": 471857000.0,
         "par_value": 10,
-        "shares_lots": 399857,
+        "shares_lots": 471857,
         "method": "股數口徑：CapitalStock/1000"
       }
     ],
     "chips_table": [
+      {
+        "date": "2026-08-27",
+        "foreign_lots": -42.0,
+        "it_lots": 0.0,
+        "dealer_lots": 23.0,
+        "sum_lots": -19.0,
+        "pct_float": -0.004026643665347764
+      },
+      {
+        "date": "2026-08-26",
+        "foreign_lots": -101.0,
+        "it_lots": 0.0,
+        "dealer_lots": 58.85,
+        "sum_lots": -42.15,
+        "pct_float": -0.008932791078653066
+      },
       {
         "date": "2026-08-25",
         "foreign_lots": 74.75,
         "it_lots": 0.0,
         "dealer_lots": 17.0,
         "sum_lots": 91.75,
-        "pct_float": 0.022945703088854266
+        "pct_float": 0.019444450331350387
       },
       {
         "date": "2026-08-24",
@@ -788,7 +804,7 @@
         "it_lots": 0.0,
         "dealer_lots": -0.361,
         "sum_lots": -448.957,
-        "pct_float": -0.11227938988188277
+        "pct_float": -0.0951468347401861
       },
       {
         "date": "2026-08-21",
@@ -796,7 +812,7 @@
         "it_lots": 0.0,
         "dealer_lots": -7.465,
         "sum_lots": -668.3100000000001,
-        "pct_float": -0.16713725156743536
+        "pct_float": -0.14163401199939815
       },
       {
         "date": "2026-08-20",
@@ -804,7 +820,7 @@
         "it_lots": 0.0,
         "dealer_lots": 2.659,
         "sum_lots": 517.019,
-        "pct_float": 0.12930097509859775
+        "pct_float": 0.10957112006391768
       },
       {
         "date": "2026-08-19",
@@ -812,7 +828,7 @@
         "it_lots": 0.0,
         "dealer_lots": -2.338,
         "sum_lots": -502.63800000000003,
-        "pct_float": -0.125704439337063
+        "pct_float": -0.10652337466647735
       },
       {
         "date": "2026-08-18",
@@ -820,7 +836,7 @@
         "it_lots": 0.0,
         "dealer_lots": 14.63,
         "sum_lots": -452.347,
-        "pct_float": -0.11312719297148731
+        "pct_float": -0.09586527274152974
       },
       {
         "date": "2026-08-17",
@@ -828,7 +844,7 @@
         "it_lots": 0.0,
         "dealer_lots": -5.9,
         "sum_lots": 55.055,
-        "pct_float": 0.013768672300347375
+        "pct_float": 0.01166772984188006
       },
       {
         "date": "2026-08-14",
@@ -836,7 +852,7 @@
         "it_lots": 0.0,
         "dealer_lots": 2.0,
         "sum_lots": -27.782,
-        "pct_float": -0.006947983904245768
+        "pct_float": -0.005887800753194294
       },
       {
         "date": "2026-08-13",
@@ -844,7 +860,7 @@
         "it_lots": 0.0,
         "dealer_lots": 3.0,
         "sum_lots": 65.338,
-        "pct_float": 0.01634034167214779
+        "pct_float": 0.013846991779289063
       },
       {
         "date": "2026-08-12",
@@ -852,7 +868,7 @@
         "it_lots": 0.0,
         "dealer_lots": 1.0,
         "sum_lots": 90.267,
-        "pct_float": 0.022574820498328152
+        "pct_float": 0.0191301601968393
       },
       {
         "date": "2026-08-11",
@@ -860,7 +876,7 @@
         "it_lots": 0.0,
         "dealer_lots": 5.0,
         "sum_lots": 24.586,
-        "pct_float": 0.006148698159592054
+        "pct_float": 0.005210476902960007
       },
       {
         "date": "2026-08-10",
@@ -868,7 +884,7 @@
         "it_lots": 0.0,
         "dealer_lots": 7.807,
         "sum_lots": -233.58100000000002,
-        "pct_float": -0.058416133767822
+        "pct_float": -0.04950249757871559
       },
       {
         "date": "2026-08-07",
@@ -876,23 +892,7 @@
         "it_lots": 0.0,
         "dealer_lots": -7.071,
         "sum_lots": -333.44300000000004,
-        "pct_float": -0.08339056212596005
-      },
-      {
-        "date": "2026-08-06",
-        "foreign_lots": -469.816,
-        "it_lots": 0.0,
-        "dealer_lots": -23.714,
-        "sum_lots": -493.53,
-        "pct_float": -0.12342662501844408
-      },
-      {
-        "date": "2026-08-05",
-        "foreign_lots": -12.01,
-        "it_lots": 0.0,
-        "dealer_lots": 23.442,
-        "sum_lots": 11.432,
-        "pct_float": 0.0028590221004008935
+        "pct_float": -0.07066611282655551
       }
     ],
     "c_score_data": {
@@ -900,8 +900,8 @@
       "dataset": "structure_c_score",
       "stock_id": "4971",
       "ticker": "4971.TWO",
-      "asof": "2026-08-25",
-      "c_score": 14.138371872083756,
+      "asof": "2026-08-27",
+      "c_score": 15.577081585135959,
       "benchmark_pe": 64.0590658554664,
       "source": [
         "FinMind",
@@ -946,6 +946,18 @@
         }
       ],
       "rows": [
+        {
+          "period": "2026Q2",
+          "avg_price": 678.2868852459017,
+          "eps": 0.43,
+          "revenue_q": 2.93769,
+          "pe_ratio": 1577.4113610369807,
+          "rev_growth": 14.575833570595599,
+          "eps_growth": -48.80952380952381,
+          "rt_weight": 1.1,
+          "deviation": 24.624326626866885,
+          "theo_price": 27.54539831785055
+        },
         {
           "period": "2026Q1",
           "avg_price": 407.54545454545456,
@@ -1164,14 +1176,14 @@
         },
         {
           "period": "2021Q3",
-          "avg_price": 58.48333326975504,
+          "avg_price": 58.64347822769828,
           "eps": 0.95,
           "revenue_q": 0.59858,
-          "pe_ratio": 61.56140344184742,
+          "pe_ratio": 61.729977081787666,
           "rev_growth": null,
           "eps_growth": null,
           "rt_weight": 1.0,
-          "deviation": 0.9610100088057115,
+          "deviation": 0.963641543276111,
           "theo_price": 60.85611256269308
         }
       ],
@@ -1187,8 +1199,8 @@
     "returns_table": [
       {
         "year": 2026,
-        "return_pct": 78.51134475836548,
-        "period": "01/02~08/25"
+        "return_pct": 77.86689947042913,
+        "period": "01/02~08/26"
       },
       {
         "year": 2025,
@@ -1207,7 +1219,7 @@
       },
       {
         "year": 2022,
-        "return_pct": -23.496359317231274,
+        "return_pct": -23.496350466300385,
         "period": "01/03~12/30"
       }
     ],
@@ -2111,27 +2123,6 @@
     ],
     "facilities_data": [],
     "kline_data": [
-      {
-        "date": "2026-03-06",
-        "symbol": "4971.TWO",
-        "open": 420.0,
-        "high": 464.5,
-        "low": 411.5,
-        "close": 428.5,
-        "volume": 6172141.0,
-        "adjclose": 427.59674072265625,
-        "dividends": 0.0,
-        "MA5": 468.2,
-        "MA20": 422.575,
-        "MA60": 334.55,
-        "bb_mid": 422.575,
-        "bb_up": 508.3760926503844,
-        "bb_dn": 336.7739073496156,
-        "DIF": 32.59381850967213,
-        "DEA": 35.25957055551597,
-        "HIST": -5.331504091687677,
-        "volume_lot": 6172.141
-      },
       {
         "date": "2026-03-09",
         "symbol": "4971.TWO",
@@ -4617,7 +4608,7 @@
         "high": 562.0,
         "low": 538.0,
         "close": 552.0,
-        "volume": 525792.0,
+        "volume": 494983.0,
         "adjclose": 552.0,
         "dividends": 0.0,
         "MA5": 560.8,
@@ -4629,7 +4620,28 @@
         "DIF": 30.4880131083803,
         "DEA": 21.607839790169614,
         "HIST": 17.760346636421374,
-        "volume_lot": 525.792
+        "volume_lot": 494.983
+      },
+      {
+        "date": "2026-08-27",
+        "symbol": "4971.TWO",
+        "open": 552.0,
+        "high": 570.0,
+        "low": 531.0,
+        "close": null,
+        "volume": 719837.0,
+        "adjclose": null,
+        "dividends": 0.0,
+        "MA5": null,
+        "MA20": null,
+        "MA60": null,
+        "bb_mid": null,
+        "bb_up": null,
+        "bb_dn": null,
+        "DIF": 30.4880131083803,
+        "DEA": 23.383874453811757,
+        "HIST": 14.208277309137095,
+        "volume_lot": 719.837
       }
     ],
     "valuation": {

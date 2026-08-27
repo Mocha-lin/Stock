@@ -1,11 +1,11 @@
 {
   "id": "2345",
   "name": "智邦",
-  "lastUpdated": "2026-08-26 15:39:35",
+  "lastUpdated": "2026-08-28 02:00:39",
   "basicInfo": {
-    "price": "2055.00",
-    "change": "25.00",
-    "changePercent": "1.23%"
+    "price": "2090.00",
+    "change": "35.00",
+    "changePercent": "1.70%"
   },
   "status": null,
   "themes": [],
@@ -568,6 +568,22 @@
     ],
     "chips_table": [
       {
+        "date": "2026-08-27",
+        "foreign_lots": -115.778,
+        "it_lots": 21.818,
+        "dealer_lots": -50.658,
+        "sum_lots": -144.618,
+        "pct_float": -0.0025773193120376303
+      },
+      {
+        "date": "2026-08-26",
+        "foreign_lots": 325.725,
+        "it_lots": -616.231,
+        "dealer_lots": 28.695,
+        "sum_lots": -261.811,
+        "pct_float": -0.004665882161306919
+      },
+      {
         "date": "2026-08-25",
         "foreign_lots": -133.143,
         "it_lots": -139.5,
@@ -670,29 +686,13 @@
         "dealer_lots": -36.584,
         "sum_lots": -1278.371,
         "pct_float": -0.022782573858363814
-      },
-      {
-        "date": "2026-08-06",
-        "foreign_lots": 465.369,
-        "it_lots": 18.0,
-        "dealer_lots": 12.807,
-        "sum_lots": 496.17600000000004,
-        "pct_float": 0.008842633606947845
-      },
-      {
-        "date": "2026-08-05",
-        "foreign_lots": -64.484,
-        "it_lots": -66.736,
-        "dealer_lots": 48.203,
-        "sum_lots": -83.017,
-        "pct_float": -0.001479492990688766
       }
     ],
     "returns_table": [
       {
         "year": 2026,
-        "return_pct": 78.6959541706497,
-        "period": "01/02~08/25"
+        "return_pct": 80.89664326142123,
+        "period": "01/02~08/26"
       },
       {
         "year": 2025,
@@ -706,12 +706,12 @@
       },
       {
         "year": 2023,
-        "return_pct": 120.30387796254169,
+        "return_pct": 120.30389271032509,
         "period": "01/03~12/29"
       },
       {
         "year": 2022,
-        "return_pct": -7.971233142691048,
+        "return_pct": -7.971227291768612,
         "period": "01/03~12/30"
       }
     ],
@@ -720,7 +720,7 @@
       "dataset": "structure_c_score",
       "stock_id": "2345",
       "ticker": "2345.TW",
-      "asof": "2026-08-25",
+      "asof": "2026-08-27",
       "c_score": 1.0611858666172354,
       "benchmark_pe": 84.6683925370812,
       "source": [
@@ -996,14 +996,14 @@
         },
         {
           "period": "2021Q3",
-          "avg_price": 275.875,
+          "avg_price": 275.3478260869565,
           "eps": 1.96,
           "revenue_q": 55.22227,
-          "pe_ratio": 140.75255102040816,
+          "pe_ratio": 140.4835847382431,
           "rev_growth": null,
           "eps_growth": null,
           "rt_weight": 1.0,
-          "deviation": 1.6623978181558656,
+          "deviation": 1.6592211157985217,
           "theo_price": 165.95004937267916
         }
       ],
@@ -1017,27 +1017,6 @@
       "stock_name": "智邦"
     },
     "kline_data": [
-      {
-        "date": "2026-03-06",
-        "symbol": "2345.TW",
-        "open": 1435.0,
-        "high": 1515.0,
-        "low": 1415.0,
-        "close": 1465.0,
-        "volume": 6137414.0,
-        "adjclose": 1453.4947509765625,
-        "dividends": 0.0,
-        "MA5": 1405.0,
-        "MA20": 1305.25,
-        "MA60": 1203.05,
-        "bb_mid": 1305.25,
-        "bb_up": 1556.516293004054,
-        "bb_dn": 1053.983706995946,
-        "DIF": 65.81413765950856,
-        "DEA": 57.959952897782365,
-        "HIST": 15.70836952345239,
-        "volume_lot": 6137.414
-      },
       {
         "date": "2026-03-09",
         "symbol": "2345.TW",
@@ -3523,7 +3502,7 @@
         "high": 2070.0,
         "low": 1985.0,
         "close": 2055.0,
-        "volume": 3415568.0,
+        "volume": 3247188.0,
         "adjclose": 2055.0,
         "dividends": 0.0,
         "MA5": 2059.0,
@@ -3535,7 +3514,28 @@
         "DIF": -60.36049764492873,
         "DEA": -45.41069329240906,
         "HIST": -29.89960870503934,
-        "volume_lot": 3415.568
+        "volume_lot": 3247.188
+      },
+      {
+        "date": "2026-08-27",
+        "symbol": "2345.TW",
+        "open": 2120.0,
+        "high": 2130.0,
+        "low": 2065.0,
+        "close": null,
+        "volume": 2468425.0,
+        "adjclose": null,
+        "dividends": 0.0,
+        "MA5": null,
+        "MA20": null,
+        "MA60": null,
+        "bb_mid": null,
+        "bb_up": null,
+        "bb_dn": null,
+        "DIF": -60.36049764492873,
+        "DEA": -48.40065416291299,
+        "HIST": -23.91968696403147,
+        "volume_lot": 2468.425
       }
     ]
   }

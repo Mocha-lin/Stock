@@ -1,11 +1,11 @@
 {
   "id": "6442",
   "name": "光聖",
-  "lastUpdated": "2026-08-26 15:39:35",
+  "lastUpdated": "2026-08-28 02:00:39",
   "basicInfo": {
-    "price": "1610.00",
-    "change": "5.00",
-    "changePercent": "0.31%"
+    "price": "1595.00",
+    "change": "-15.00",
+    "changePercent": "-0.93%"
   },
   "status": "⚡ BUY",
   "themes": [],
@@ -638,6 +638,22 @@
     ],
     "chips_table": [
       {
+        "date": "2026-08-27",
+        "foreign_lots": -151.778,
+        "it_lots": -176.0,
+        "dealer_lots": 7.0760000000000005,
+        "sum_lots": -320.702,
+        "pct_float": -0.039197189846683356
+      },
+      {
+        "date": "2026-08-26",
+        "foreign_lots": -120.747,
+        "it_lots": -42.0,
+        "dealer_lots": -17.980999999999998,
+        "sum_lots": -180.728,
+        "pct_float": -0.02208913485607009
+      },
+      {
         "date": "2026-08-25",
         "foreign_lots": 203.472,
         "it_lots": -74.0,
@@ -740,22 +756,6 @@
         "dealer_lots": -1.403,
         "sum_lots": -261.11300000000006,
         "pct_float": -0.03191403805538173
-      },
-      {
-        "date": "2026-08-06",
-        "foreign_lots": -106.133,
-        "it_lots": -211.0,
-        "dealer_lots": 19.582,
-        "sum_lots": -297.551,
-        "pct_float": -0.03636760305851064
-      },
-      {
-        "date": "2026-08-05",
-        "foreign_lots": -458.875,
-        "it_lots": -2.0,
-        "dealer_lots": -41.166,
-        "sum_lots": -502.041,
-        "pct_float": -0.061361003011576966
       }
     ],
     "c_score_data": {
@@ -763,7 +763,7 @@
       "dataset": "structure_c_score",
       "stock_id": "6442",
       "ticker": "6442.TW",
-      "asof": "2026-08-25",
+      "asof": "2026-08-27",
       "c_score": 2.133928879111443,
       "benchmark_pe": 89.26079919633887,
       "source": [
@@ -1039,14 +1039,14 @@
         },
         {
           "period": "2021Q3",
-          "avg_price": 35.153394063313804,
+          "avg_price": 35.22275758826214,
           "eps": 0.34,
           "revenue_q": 2.57665,
-          "pe_ratio": 103.39233548033471,
+          "pe_ratio": 103.59634584782982,
           "rev_growth": null,
           "eps_growth": null,
           "rt_weight": 1.0,
-          "deviation": 1.1583173846887926,
+          "deviation": 1.1606029385862695,
           "theo_price": 30.348671726755217
         }
       ],
@@ -1062,8 +1062,8 @@
     "returns_table": [
       {
         "year": 2026,
-        "return_pct": 17.308713197604963,
-        "period": "01/02~08/25"
+        "return_pct": 17.67416090227041,
+        "period": "01/02~08/26"
       },
       {
         "year": 2025,
@@ -1082,7 +1082,7 @@
       },
       {
         "year": 2022,
-        "return_pct": 26.649143307876557,
+        "return_pct": 26.649150869095294,
         "period": "01/03~12/30"
       }
     ],
@@ -1982,27 +1982,6 @@
     ],
     "facilities_data": [],
     "kline_data": [
-      {
-        "date": "2026-03-06",
-        "symbol": "6442.TW",
-        "open": 1940.0,
-        "high": 2075.0,
-        "low": 1895.0,
-        "close": 1895.0,
-        "volume": 4922863.0,
-        "adjclose": 1878.7755126953125,
-        "dividends": 0.0,
-        "MA5": 2133.0,
-        "MA20": 1933.5,
-        "MA60": 1501.0,
-        "bb_mid": 1933.5,
-        "bb_up": 2337.2090536512783,
-        "bb_dn": 1529.790946348722,
-        "DIF": 167.87070533600354,
-        "DEA": 185.27842089306,
-        "HIST": -34.815431114112926,
-        "volume_lot": 4922.863
-      },
       {
         "date": "2026-03-09",
         "symbol": "6442.TW",
@@ -4488,7 +4467,7 @@
         "high": 1675.0,
         "low": 1575.0,
         "close": 1610.0,
-        "volume": 4250837.0,
+        "volume": 4130057.0,
         "adjclose": 1610.0,
         "dividends": 0.0,
         "MA5": 1551.0,
@@ -4500,7 +4479,28 @@
         "DIF": 37.17716888059681,
         "DEA": 17.13379000898305,
         "HIST": 40.08675774322752,
-        "volume_lot": 4250.837
+        "volume_lot": 4130.057
+      },
+      {
+        "date": "2026-08-27",
+        "symbol": "6442.TW",
+        "open": 1645.0,
+        "high": 1695.0,
+        "low": 1585.0,
+        "close": null,
+        "volume": 2931414.0,
+        "adjclose": null,
+        "dividends": 0.0,
+        "MA5": null,
+        "MA20": null,
+        "MA60": null,
+        "bb_mid": null,
+        "bb_up": null,
+        "bb_dn": null,
+        "DIF": 37.17716888059681,
+        "DEA": 21.1424657833058,
+        "HIST": 32.069406194582015,
+        "volume_lot": 2931.414
       }
     ],
     "valuation": {

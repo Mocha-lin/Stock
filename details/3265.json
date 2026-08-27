@@ -1,11 +1,11 @@
 {
   "id": "3265",
   "name": "台星科",
-  "lastUpdated": "2026-08-26 15:39:35",
+  "lastUpdated": "2026-08-28 02:00:39",
   "basicInfo": {
-    "price": "173.50",
-    "change": "5.50",
-    "changePercent": "3.27%"
+    "price": "176.50",
+    "change": "3.00",
+    "changePercent": "1.73%"
   },
   "status": "⚡ BUY",
   "themes": [],
@@ -634,6 +634,22 @@
     ],
     "chips_table": [
       {
+        "date": "2026-08-27",
+        "foreign_lots": 594.795,
+        "it_lots": -30.0,
+        "dealer_lots": 102.999,
+        "sum_lots": 667.794,
+        "pct_float": 0.04900819525956303
+      },
+      {
+        "date": "2026-08-26",
+        "foreign_lots": 267.264,
+        "it_lots": 0.0,
+        "dealer_lots": 52.639,
+        "sum_lots": 319.903,
+        "pct_float": 0.023477103250583255
+      },
+      {
         "date": "2026-08-25",
         "foreign_lots": -63.48,
         "it_lots": 22.0,
@@ -736,22 +752,6 @@
         "dealer_lots": -22.911,
         "sum_lots": -54.911,
         "pct_float": -0.004029819090764316
-      },
-      {
-        "date": "2026-08-06",
-        "foreign_lots": -46.0,
-        "it_lots": -98.0,
-        "dealer_lots": 16.456,
-        "sum_lots": -127.544,
-        "pct_float": -0.009360223745924202
-      },
-      {
-        "date": "2026-08-05",
-        "foreign_lots": -116.008,
-        "it_lots": 0.0,
-        "dealer_lots": 1.294,
-        "sum_lots": -114.714,
-        "pct_float": -0.008418653223906645
       }
     ],
     "c_score_data": {
@@ -759,7 +759,7 @@
       "dataset": "structure_c_score",
       "stock_id": "3265",
       "ticker": "3265.TWO",
-      "asof": "2026-08-25",
+      "asof": "2026-08-27",
       "c_score": 1.1272573896276739,
       "benchmark_pe": 59.71413212730771,
       "source": [
@@ -1035,14 +1035,14 @@
         },
         {
           "period": "2021Q3",
-          "avg_price": 32.731250047683716,
+          "avg_price": 32.85217392962912,
           "eps": 1.0,
           "revenue_q": 3.02834,
-          "pe_ratio": 32.731250047683716,
+          "pe_ratio": 32.85217392962912,
           "rev_growth": null,
           "eps_growth": null,
           "rt_weight": 1.0,
-          "deviation": 0.5481323914731313,
+          "deviation": 0.5501574377668227,
           "theo_price": 59.71413212730771
         }
       ],
@@ -1058,8 +1058,8 @@
     "returns_table": [
       {
         "year": 2026,
-        "return_pct": 37.940051590106094,
-        "period": "01/02~08/25"
+        "return_pct": 42.455946136210756,
+        "period": "01/02~08/26"
       },
       {
         "year": 2025,
@@ -1073,12 +1073,12 @@
       },
       {
         "year": 2023,
-        "return_pct": 114.23576412162953,
+        "return_pct": 114.23574425226461,
         "period": "01/03~12/29"
       },
       {
         "year": 2022,
-        "return_pct": 50.99558016367099,
+        "return_pct": 50.99556886313587,
         "period": "01/03~12/30"
       }
     ],
@@ -1971,27 +1971,6 @@
     ],
     "facilities_data": [],
     "kline_data": [
-      {
-        "date": "2026-03-06",
-        "symbol": "3265.TWO",
-        "open": 136.0,
-        "high": 140.0,
-        "low": 134.0,
-        "close": 138.0,
-        "volume": 937190.0,
-        "adjclose": 134.99839782714844,
-        "dividends": 0.0,
-        "MA5": 137.0,
-        "MA20": 139.225,
-        "MA60": 125.96166674296062,
-        "bb_mid": 139.225,
-        "bb_up": 150.08536371398156,
-        "bb_dn": 128.36463628601842,
-        "DIF": 1.5166517008470066,
-        "DEA": 2.8152765094287324,
-        "HIST": -2.597249617163452,
-        "volume_lot": 937.19
-      },
       {
         "date": "2026-03-09",
         "symbol": "3265.TWO",
@@ -4477,7 +4456,7 @@
         "high": 175.5,
         "low": 166.5,
         "close": 173.5,
-        "volume": 1494791.0,
+        "volume": 1472550.0,
         "adjclose": 173.5,
         "dividends": 0.0,
         "MA5": 169.9,
@@ -4489,7 +4468,28 @@
         "DIF": 2.165249593935925,
         "DEA": 1.2707113710031823,
         "HIST": 1.7890764458654864,
-        "volume_lot": 1494.791
+        "volume_lot": 1472.55
+      },
+      {
+        "date": "2026-08-27",
+        "symbol": "3265.TWO",
+        "open": 175.0,
+        "high": 181.5,
+        "low": 172.0,
+        "close": null,
+        "volume": 2179497.0,
+        "adjclose": null,
+        "dividends": 0.0,
+        "MA5": null,
+        "MA20": null,
+        "MA60": null,
+        "bb_mid": null,
+        "bb_up": null,
+        "bb_dn": null,
+        "DIF": 2.165249593935925,
+        "DEA": 1.449619015589731,
+        "HIST": 1.431261156692389,
+        "volume_lot": 2179.497
       }
     ],
     "valuation": {

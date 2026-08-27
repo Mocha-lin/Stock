@@ -1,11 +1,11 @@
 {
   "id": "2383",
   "name": "台光電",
-  "lastUpdated": "2026-08-26 15:39:35",
+  "lastUpdated": "2026-08-28 02:00:39",
   "basicInfo": {
-    "price": "5895.00",
-    "change": "300.00",
-    "changePercent": "5.36%"
+    "price": "5500.00",
+    "change": "-395.00",
+    "changePercent": "-6.70%"
   },
   "status": null,
   "themes": [],
@@ -568,6 +568,22 @@
     ],
     "chips_table": [
       {
+        "date": "2026-08-27",
+        "foreign_lots": -215.364,
+        "it_lots": -315.498,
+        "dealer_lots": 92.649,
+        "sum_lots": -438.21299999999997,
+        "pct_float": -0.012229617513453715
+      },
+      {
+        "date": "2026-08-26",
+        "foreign_lots": 52.099,
+        "it_lots": 43.848,
+        "dealer_lots": -20.685,
+        "sum_lots": 75.262,
+        "pct_float": 0.0021004065906250007
+      },
+      {
         "date": "2026-08-25",
         "foreign_lots": 18.706,
         "it_lots": -147.409,
@@ -670,29 +686,13 @@
         "dealer_lots": -1.404,
         "sum_lots": -49.681,
         "pct_float": -0.0013864938458829246
-      },
-      {
-        "date": "2026-08-06",
-        "foreign_lots": -20.664,
-        "it_lots": 102.516,
-        "dealer_lots": -24.626,
-        "sum_lots": 57.226,
-        "pct_float": 0.0015970591740201736
-      },
-      {
-        "date": "2026-08-05",
-        "foreign_lots": 101.233,
-        "it_lots": -96.859,
-        "dealer_lots": -33.475,
-        "sum_lots": -29.100999999999992,
-        "pct_float": -0.000812148656609951
       }
     ],
     "returns_table": [
       {
         "year": 2026,
-        "return_pct": 251.8867924528302,
-        "period": "01/02~08/25"
+        "return_pct": 270.7547169811321,
+        "period": "01/02~08/26"
       },
       {
         "year": 2025,
@@ -720,7 +720,7 @@
       "dataset": "structure_c_score",
       "stock_id": "2383",
       "ticker": "2383.TW",
-      "asof": "2026-08-25",
+      "asof": "2026-08-27",
       "c_score": 1.154853963718873,
       "benchmark_pe": 66.39200593362291,
       "source": [
@@ -996,14 +996,14 @@
         },
         {
           "period": "2021Q3",
-          "avg_price": 228.45833333333334,
+          "avg_price": 228.30434782608697,
           "eps": 5.38,
           "revenue_q": 36.82303,
-          "pe_ratio": 42.46437422552665,
+          "pe_ratio": 42.435752384031034,
           "rev_growth": null,
           "eps_growth": null,
           "rt_weight": 1.0,
-          "deviation": 0.6396007113865708,
+          "deviation": 0.6391696076551332,
           "theo_price": 357.18899192289126
         }
       ],
@@ -1017,27 +1017,6 @@
       "stock_name": "台光電"
     },
     "kline_data": [
-      {
-        "date": "2026-03-06",
-        "symbol": "2383.TW",
-        "open": 2340.0,
-        "high": 2470.0,
-        "low": 2325.0,
-        "close": 2360.0,
-        "volume": 2795898.0,
-        "adjclose": 2360.0,
-        "dividends": 0.0,
-        "MA5": 2323.0,
-        "MA20": 2116.5,
-        "MA60": 1766.9166666666667,
-        "bb_mid": 2116.5,
-        "bb_up": 2568.7289243292657,
-        "bb_dn": 1664.2710756707345,
-        "DIF": 170.385359674754,
-        "DEA": 163.5406322214168,
-        "HIST": 13.689454906674428,
-        "volume_lot": 2795.898
-      },
       {
         "date": "2026-03-09",
         "symbol": "2383.TW",
@@ -3523,7 +3502,7 @@
         "high": 5920.0,
         "low": 5555.0,
         "close": 5895.0,
-        "volume": 1869810.0,
+        "volume": 1753709.0,
         "adjclose": 5895.0,
         "dividends": 0.0,
         "MA5": 5717.0,
@@ -3535,7 +3514,28 @@
         "DIF": 200.56042009764587,
         "DEA": 205.2566113326546,
         "HIST": -9.392382470017424,
-        "volume_lot": 1869.81
+        "volume_lot": 1753.709
+      },
+      {
+        "date": "2026-08-27",
+        "symbol": "2383.TW",
+        "open": 5960.0,
+        "high": 5960.0,
+        "low": 5355.0,
+        "close": null,
+        "volume": 3464604.0,
+        "adjclose": null,
+        "dividends": 0.0,
+        "MA5": null,
+        "MA20": null,
+        "MA60": null,
+        "bb_mid": null,
+        "bb_up": null,
+        "bb_dn": null,
+        "DIF": 200.56042009764587,
+        "DEA": 204.31737308565283,
+        "HIST": -7.513905976013916,
+        "volume_lot": 3464.604
       }
     ]
   }

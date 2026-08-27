@@ -1,11 +1,11 @@
 {
   "id": "2467",
   "name": "志聖",
-  "lastUpdated": "2026-08-26 15:39:35",
+  "lastUpdated": "2026-08-28 02:00:39",
   "basicInfo": {
-    "price": "570.00",
-    "change": "35.00",
-    "changePercent": "6.54%"
+    "price": "585.00",
+    "change": "15.00",
+    "changePercent": "2.63%"
   },
   "status": "🟡 FLU",
   "themes": [],
@@ -638,6 +638,22 @@
     ],
     "chips_table": [
       {
+        "date": "2026-08-27",
+        "foreign_lots": 449.517,
+        "it_lots": -1.0,
+        "dealer_lots": 9.776,
+        "sum_lots": 458.293,
+        "pct_float": 0.028374868509606306
+      },
+      {
+        "date": "2026-08-26",
+        "foreign_lots": 159.115,
+        "it_lots": -1.0,
+        "dealer_lots": 32.041,
+        "sum_lots": 190.156,
+        "pct_float": 0.011773366593669763
+      },
+      {
         "date": "2026-08-25",
         "foreign_lots": -15.245,
         "it_lots": -25.0,
@@ -740,22 +756,6 @@
         "dealer_lots": -4.529,
         "sum_lots": -112.89999999999999,
         "pct_float": -0.006990119104447486
-      },
-      {
-        "date": "2026-08-06",
-        "foreign_lots": 24.389,
-        "it_lots": -43.217,
-        "dealer_lots": -0.31899999999999995,
-        "sum_lots": -19.147,
-        "pct_float": -0.0011854721921422144
-      },
-      {
-        "date": "2026-08-05",
-        "foreign_lots": 152.09,
-        "it_lots": -10.538,
-        "dealer_lots": -2.466,
-        "sum_lots": 139.08599999999998,
-        "pct_float": 0.008611405719762471
       }
     ],
     "c_score_data": {
@@ -763,7 +763,7 @@
       "dataset": "structure_c_score",
       "stock_id": "2467",
       "ticker": "2467.TW",
-      "asof": "2026-08-25",
+      "asof": "2026-08-27",
       "c_score": 1.2316429490677459,
       "benchmark_pe": 93.85246748213802,
       "source": [
@@ -1039,14 +1039,14 @@
         },
         {
           "period": "2021Q3",
-          "avg_price": 46.2297732035319,
+          "avg_price": 46.13761055987814,
           "eps": 1.02,
           "revenue_q": 4.44021,
-          "pe_ratio": 45.323307062286176,
+          "pe_ratio": 45.23295152929229,
           "rev_growth": null,
           "eps_growth": null,
           "rt_weight": 1.0,
-          "deviation": 0.48292078277976114,
+          "deviation": 0.48195804268972486,
           "theo_price": 95.72951683178078
         }
       ],
@@ -1062,8 +1062,8 @@
     "returns_table": [
       {
         "year": 2026,
-        "return_pct": 100.02877622650108,
-        "period": "01/02~08/25"
+        "return_pct": 113.11477093290767,
+        "period": "01/02~08/26"
       },
       {
         "year": 2025,
@@ -1980,27 +1980,6 @@
     ],
     "facilities_data": [],
     "kline_data": [
-      {
-        "date": "2026-03-06",
-        "symbol": "2467.TW",
-        "open": 392.0,
-        "high": 393.0,
-        "low": 377.0,
-        "close": 393.0,
-        "volume": 1086182.0,
-        "adjclose": 389.30511474609375,
-        "dividends": 0.0,
-        "MA5": 379.8,
-        "MA20": 298.05,
-        "MA60": 259.175,
-        "bb_mid": 298.05,
-        "bb_up": 400.2732361060836,
-        "bb_dn": 195.82676389391645,
-        "DIF": 35.199086613431234,
-        "DEA": 22.82051361647146,
-        "HIST": 24.75714599391955,
-        "volume_lot": 1086.182
-      },
       {
         "date": "2026-03-09",
         "symbol": "2467.TW",
@@ -4486,7 +4465,7 @@
         "high": 575.0,
         "low": 534.0,
         "close": 570.0,
-        "volume": 1131954.0,
+        "volume": 1080252.0,
         "adjclose": 570.0,
         "dividends": 0.0,
         "MA5": 551.6,
@@ -4498,7 +4477,28 @@
         "DIF": 3.348623654489643,
         "DEA": -0.4180602903155483,
         "HIST": 7.533367889610382,
-        "volume_lot": 1131.954
+        "volume_lot": 1080.252
+      },
+      {
+        "date": "2026-08-27",
+        "symbol": "2467.TW",
+        "open": 575.0,
+        "high": 592.0,
+        "low": 561.0,
+        "close": null,
+        "volume": 1558988.0,
+        "adjclose": null,
+        "dividends": 0.0,
+        "MA5": null,
+        "MA20": null,
+        "MA60": null,
+        "bb_mid": null,
+        "bb_up": null,
+        "bb_dn": null,
+        "DIF": 3.348623654489643,
+        "DEA": 0.3352764986454899,
+        "HIST": 6.026694311688306,
+        "volume_lot": 1558.988
       }
     ],
     "valuation": {

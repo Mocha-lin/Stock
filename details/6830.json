@@ -1,11 +1,11 @@
 {
   "id": "6830",
   "name": "汎銓",
-  "lastUpdated": "2026-08-26 15:39:35",
+  "lastUpdated": "2026-08-28 02:00:39",
   "basicInfo": {
-    "price": "526.00",
-    "change": "35.00",
-    "changePercent": "7.13%"
+    "price": "530.00",
+    "change": "4.00",
+    "changePercent": "0.76%"
   },
   "status": "⚡ BUY",
   "themes": [],
@@ -637,6 +637,22 @@
     ],
     "chips_table": [
       {
+        "date": "2026-08-27",
+        "foreign_lots": -373.099,
+        "it_lots": 150.0,
+        "dealer_lots": 8.866,
+        "sum_lots": -214.233,
+        "pct_float": -0.039371151015277404
+      },
+      {
+        "date": "2026-08-26",
+        "foreign_lots": -298.702,
+        "it_lots": 23.0,
+        "dealer_lots": -3.573,
+        "sum_lots": -279.275,
+        "pct_float": -0.05132439073248097
+      },
+      {
         "date": "2026-08-25",
         "foreign_lots": 62.751,
         "it_lots": 19.0,
@@ -739,22 +755,6 @@
         "dealer_lots": -33.459,
         "sum_lots": -346.976,
         "pct_float": -0.06376629415018645
-      },
-      {
-        "date": "2026-08-06",
-        "foreign_lots": 74.394,
-        "it_lots": 0.0,
-        "dealer_lots": 31.859,
-        "sum_lots": 106.25300000000001,
-        "pct_float": 0.019526883854617497
-      },
-      {
-        "date": "2026-08-05",
-        "foreign_lots": -298.542,
-        "it_lots": 110.0,
-        "dealer_lots": 8.756,
-        "sum_lots": -179.78599999999997,
-        "pct_float": -0.033040576178425644
       }
     ],
     "c_score_data": {
@@ -762,7 +762,7 @@
       "dataset": "structure_c_score",
       "stock_id": "6830",
       "ticker": "6830.TW",
-      "asof": "2026-08-25",
+      "asof": "2026-08-27",
       "c_score": 4.197226605589069,
       "benchmark_pe": 99.36921912331749,
       "source": [
@@ -1049,8 +1049,8 @@
     "returns_table": [
       {
         "year": 2026,
-        "return_pct": 174.7166450500733,
-        "period": "01/02~08/25"
+        "return_pct": 194.29929795588302,
+        "period": "01/02~08/26"
       },
       {
         "year": 2025,
@@ -1059,7 +1059,7 @@
       },
       {
         "year": 2024,
-        "return_pct": 14.802986116398609,
+        "return_pct": 14.802973299541478,
         "period": "01/02~12/31"
       },
       {
@@ -1069,7 +1069,7 @@
       },
       {
         "year": 2022,
-        "return_pct": -40.84181145864115,
+        "return_pct": -40.84180554865959,
         "period": "01/03~12/30"
       }
     ],
@@ -1975,27 +1975,6 @@
     ],
     "facilities_data": [],
     "kline_data": [
-      {
-        "date": "2026-03-06",
-        "symbol": "6830.TW",
-        "open": 381.0,
-        "high": 397.5,
-        "low": 381.0,
-        "close": 397.5,
-        "volume": 2567755.0,
-        "adjclose": 396.8995666503906,
-        "dividends": 0.0,
-        "MA5": 342.4,
-        "MA20": 246.425,
-        "MA60": 199.1083333333333,
-        "bb_mid": 246.425,
-        "bb_up": 373.4994958675824,
-        "bb_dn": 119.35050413241764,
-        "DIF": 44.727301469112376,
-        "DEA": 28.41448331605288,
-        "HIST": 32.62563630611899,
-        "volume_lot": 2567.755
-      },
       {
         "date": "2026-03-09",
         "symbol": "6830.TW",
@@ -4481,7 +4460,7 @@
         "high": 539.0,
         "low": 501.0,
         "close": 526.0,
-        "volume": 4619949.0,
+        "volume": 4454344.0,
         "adjclose": 526.0,
         "dividends": 0.0,
         "MA5": 469.1,
@@ -4493,7 +4472,28 @@
         "DIF": 16.744414778896385,
         "DEA": 2.8693589775755384,
         "HIST": 27.75011160264169,
-        "volume_lot": 4619.949
+        "volume_lot": 4454.344
+      },
+      {
+        "date": "2026-08-27",
+        "symbol": "6830.TW",
+        "open": 540.0,
+        "high": 544.0,
+        "low": 512.0,
+        "close": null,
+        "volume": 3483851.0,
+        "adjclose": null,
+        "dividends": 0.0,
+        "MA5": null,
+        "MA20": null,
+        "MA60": null,
+        "bb_mid": null,
+        "bb_up": null,
+        "bb_dn": null,
+        "DIF": 16.744414778896385,
+        "DEA": 5.644370137839708,
+        "HIST": 22.200089282113357,
+        "volume_lot": 3483.851
       }
     ],
     "valuation": {

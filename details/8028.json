@@ -1,11 +1,11 @@
 {
   "id": "8028",
   "name": "昇陽半導體",
-  "lastUpdated": "2026-08-26 15:39:35",
+  "lastUpdated": "2026-08-28 02:00:39",
   "basicInfo": {
-    "price": "246.50",
-    "change": "4.50",
-    "changePercent": "1.86%"
+    "price": "248.50",
+    "change": "2.00",
+    "changePercent": "0.81%"
   },
   "status": null,
   "themes": [],
@@ -557,6 +557,22 @@
     ],
     "chips_table": [
       {
+        "date": "2026-08-27",
+        "foreign_lots": -292.485,
+        "it_lots": 0.0,
+        "dealer_lots": 5.719,
+        "sum_lots": -286.766,
+        "pct_float": -0.015623292361821256
+      },
+      {
+        "date": "2026-08-26",
+        "foreign_lots": -164.951,
+        "it_lots": 0.0,
+        "dealer_lots": 10.335999999999999,
+        "sum_lots": -154.615,
+        "pct_float": -0.00842357653460659
+      },
+      {
         "date": "2026-08-25",
         "foreign_lots": -7.303,
         "it_lots": -148.0,
@@ -659,29 +675,13 @@
         "dealer_lots": -29.876,
         "sum_lots": -3003.6220000000003,
         "pct_float": -0.16364026645557106
-      },
-      {
-        "date": "2026-08-06",
-        "foreign_lots": -2018.558,
-        "it_lots": -11.0,
-        "dealer_lots": -27.176,
-        "sum_lots": -2056.734,
-        "pct_float": -0.11205288141724638
-      },
-      {
-        "date": "2026-08-05",
-        "foreign_lots": 266.479,
-        "it_lots": -185.0,
-        "dealer_lots": -45.461,
-        "sum_lots": 36.01799999999999,
-        "pct_float": 0.0019622958938231095
       }
     ],
     "returns_table": [
       {
         "year": 2026,
-        "return_pct": 30.922369797361338,
-        "period": "01/02~08/25"
+        "return_pct": 33.35687667375855,
+        "period": "01/02~08/26"
       },
       {
         "year": 2025,
@@ -695,7 +695,7 @@
       },
       {
         "year": 2023,
-        "return_pct": -4.48179410016607,
+        "return_pct": -4.48178673062446,
         "period": "01/03~12/29"
       },
       {
@@ -709,7 +709,7 @@
       "dataset": "structure_c_score",
       "stock_id": "8028",
       "ticker": "8028.TW",
-      "asof": "2026-08-25",
+      "asof": "2026-08-27",
       "c_score": 1.1651538777859238,
       "benchmark_pe": 113.73930245287913,
       "source": [
@@ -985,14 +985,14 @@
         },
         {
           "period": "2021Q3",
-          "avg_price": 48.155974706014,
+          "avg_price": 48.171011883279554,
           "eps": 0.39,
           "revenue_q": 2.41587,
-          "pe_ratio": 123.4768582205487,
+          "pe_ratio": 123.51541508533218,
           "rev_growth": null,
           "eps_growth": null,
           "rt_weight": 1.0,
-          "deviation": 1.0856129372843986,
+          "deviation": 1.0859519306134586,
           "theo_price": 44.358327956622865
         }
       ],
@@ -1006,27 +1006,6 @@
       "stock_name": "昇陽半導體"
     },
     "kline_data": [
-      {
-        "date": "2026-03-06",
-        "symbol": "8028.TW",
-        "open": 176.0,
-        "high": 179.5,
-        "low": 173.0,
-        "close": 176.0,
-        "volume": 2565947.0,
-        "adjclose": 174.43568420410156,
-        "dividends": 0.0,
-        "MA5": 177.6,
-        "MA20": 173.375,
-        "MA60": 174.89166666666668,
-        "bb_mid": 173.375,
-        "bb_up": 187.84177227304065,
-        "bb_dn": 158.90822772695935,
-        "DIF": 0.5928715402887406,
-        "DEA": 0.0336155818504331,
-        "HIST": 1.1185119168766149,
-        "volume_lot": 2565.947
-      },
       {
         "date": "2026-03-09",
         "symbol": "8028.TW",
@@ -3512,7 +3491,7 @@
         "high": 246.5,
         "low": 240.5,
         "close": 246.5,
-        "volume": 1319411.0,
+        "volume": 1277807.0,
         "adjclose": 246.5,
         "dividends": 0.0,
         "MA5": 244.1,
@@ -3524,7 +3503,28 @@
         "DIF": -12.091486509131016,
         "DEA": -11.767928555310096,
         "HIST": -0.6471159076418402,
-        "volume_lot": 1319.411
+        "volume_lot": 1277.807
+      },
+      {
+        "date": "2026-08-27",
+        "symbol": "8028.TW",
+        "open": 249.5,
+        "high": 251.5,
+        "low": 244.0,
+        "close": null,
+        "volume": 1894131.0,
+        "adjclose": null,
+        "dividends": 0.0,
+        "MA5": null,
+        "MA20": null,
+        "MA60": null,
+        "bb_mid": null,
+        "bb_up": null,
+        "bb_dn": null,
+        "DIF": -12.091486509131016,
+        "DEA": -11.83264014607428,
+        "HIST": -0.5176927261134701,
+        "volume_lot": 1894.131
       }
     ]
   }

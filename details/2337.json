@@ -1,11 +1,11 @@
 {
   "id": "2337",
   "name": "旺宏",
-  "lastUpdated": "2026-08-26 15:39:35",
+  "lastUpdated": "2026-08-28 02:00:39",
   "basicInfo": {
-    "price": "125.50",
-    "change": "3.50",
-    "changePercent": "2.87%"
+    "price": "127.50",
+    "change": "2.00",
+    "changePercent": "1.59%"
   },
   "status": null,
   "themes": [],
@@ -568,6 +568,22 @@
     ],
     "chips_table": [
       {
+        "date": "2026-08-27",
+        "foreign_lots": 7632.375,
+        "it_lots": -162.0,
+        "dealer_lots": 261.30899999999997,
+        "sum_lots": 7731.684,
+        "pct_float": 0.03901232813716189
+      },
+      {
+        "date": "2026-08-26",
+        "foreign_lots": 6522.497,
+        "it_lots": -25.0,
+        "dealer_lots": 245.151,
+        "sum_lots": 6742.648,
+        "pct_float": 0.03402187625482086
+      },
+      {
         "date": "2026-08-25",
         "foreign_lots": -4924.391,
         "it_lots": 3.0,
@@ -670,29 +686,13 @@
         "dealer_lots": -228.252,
         "sum_lots": -10549.107,
         "pct_float": -0.053228407141061564
-      },
-      {
-        "date": "2026-08-06",
-        "foreign_lots": 13592.952,
-        "it_lots": 5080.0,
-        "dealer_lots": 1110.483,
-        "sum_lots": 19783.434999999998,
-        "pct_float": 0.09982273692254019
-      },
-      {
-        "date": "2026-08-05",
-        "foreign_lots": -35273.087,
-        "it_lots": 10582.0,
-        "dealer_lots": -1690.9920000000002,
-        "sum_lots": -26382.078999999998,
-        "pct_float": -0.1331180015748869
       }
     ],
     "returns_table": [
       {
         "year": 2026,
-        "return_pct": 181.43022905255938,
-        "period": "01/02~08/25"
+        "return_pct": 189.50404709914923,
+        "period": "01/02~08/26"
       },
       {
         "year": 2025,
@@ -720,7 +720,7 @@
       "dataset": "structure_c_score",
       "stock_id": "2337",
       "ticker": "2337.TW",
-      "asof": "2026-08-25",
+      "asof": "2026-08-27",
       "c_score": 2.427975054396122,
       "benchmark_pe": 25.354965937392205,
       "source": [
@@ -996,14 +996,14 @@
         },
         {
           "period": "2021Q3",
-          "avg_price": 38.86875025431315,
+          "avg_price": 38.852174178413726,
           "eps": 2.94,
           "revenue_q": 50.11832,
-          "pe_ratio": 13.220663351807193,
+          "pe_ratio": 13.215025230752968,
           "rev_growth": null,
           "eps_growth": null,
           "rt_weight": 1.0,
-          "deviation": 0.5214230373825917,
+          "deviation": 0.521200669856319,
           "theo_price": 74.54359985593308
         }
       ],
@@ -1017,27 +1017,6 @@
       "stock_name": "旺宏"
     },
     "kline_data": [
-      {
-        "date": "2026-03-06",
-        "symbol": "2337.TW",
-        "open": 107.0,
-        "high": 110.5,
-        "low": 102.5,
-        "close": 102.5,
-        "volume": 172718919.0,
-        "adjclose": 102.5,
-        "dividends": 0.0,
-        "MA5": 105.7,
-        "MA20": 96.84000053405762,
-        "MA60": 65.06083374023437,
-        "bb_mid": 96.84000053405762,
-        "bb_up": 117.8471789650106,
-        "bb_dn": 75.83282210310463,
-        "DIF": 10.141844110245344,
-        "DEA": 11.08007949903628,
-        "HIST": -1.876470777581872,
-        "volume_lot": 172718.919
-      },
       {
         "date": "2026-03-09",
         "symbol": "2337.TW",
@@ -3523,7 +3502,7 @@
         "high": 125.5,
         "low": 121.5,
         "close": 125.5,
-        "volume": 23810571.0,
+        "volume": 23634227.0,
         "adjclose": 125.5,
         "dividends": 0.0,
         "MA5": 123.2,
@@ -3535,7 +3514,28 @@
         "DIF": -1.8311207098683155,
         "DEA": -2.310816896821307,
         "HIST": 0.9593923739059828,
-        "volume_lot": 23810.571
+        "volume_lot": 23634.227
+      },
+      {
+        "date": "2026-08-27",
+        "symbol": "2337.TW",
+        "open": 128.5,
+        "high": 131.0,
+        "low": 126.5,
+        "close": null,
+        "volume": 42696522.0,
+        "adjclose": null,
+        "dividends": 0.0,
+        "MA5": null,
+        "MA20": null,
+        "MA60": null,
+        "bb_mid": null,
+        "bb_up": null,
+        "bb_dn": null,
+        "DIF": -1.8311207098683155,
+        "DEA": -2.2148776594307087,
+        "HIST": 0.7675138991247863,
+        "volume_lot": 42696.522
       }
     ]
   }

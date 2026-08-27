@@ -1,11 +1,11 @@
 {
   "id": "8358",
   "name": "金居",
-  "lastUpdated": "2026-08-26 15:39:35",
+  "lastUpdated": "2026-08-28 02:00:39",
   "basicInfo": {
-    "price": "449.50",
-    "change": "20.50",
-    "changePercent": "4.78%"
+    "price": "494.00",
+    "change": "44.50",
+    "changePercent": "9.90%"
   },
   "status": null,
   "themes": [],
@@ -568,6 +568,22 @@
     ],
     "chips_table": [
       {
+        "date": "2026-08-27",
+        "foreign_lots": 3161.902,
+        "it_lots": 61.0,
+        "dealer_lots": 170.434,
+        "sum_lots": 3393.3360000000002,
+        "pct_float": 0.13434272411991072
+      },
+      {
+        "date": "2026-08-26",
+        "foreign_lots": 1530.753,
+        "it_lots": -85.0,
+        "dealer_lots": -51.235,
+        "sum_lots": 1394.518,
+        "pct_float": 0.05520919441937067
+      },
+      {
         "date": "2026-08-25",
         "foreign_lots": 130.251,
         "it_lots": -6.0,
@@ -670,48 +686,32 @@
         "dealer_lots": -188.692,
         "sum_lots": -7118.665,
         "pct_float": -0.28182910510396375
-      },
-      {
-        "date": "2026-08-06",
-        "foreign_lots": -1034.364,
-        "it_lots": -1966.0,
-        "dealer_lots": 102.671,
-        "sum_lots": -2897.693,
-        "pct_float": -0.11472013714032338
-      },
-      {
-        "date": "2026-08-05",
-        "foreign_lots": -2331.765,
-        "it_lots": -2134.3,
-        "dealer_lots": 131.48,
-        "sum_lots": -4334.585000000001,
-        "pct_float": -0.1716069251112484
       }
     ],
     "returns_table": [
       {
         "year": 2026,
-        "return_pct": 48.6080710808382,
-        "period": "01/02~08/25"
+        "return_pct": 55.70938916278967,
+        "period": "01/02~08/26"
       },
       {
         "year": 2025,
-        "return_pct": 386.3178917144991,
+        "return_pct": 386.31785899520963,
         "period": "01/02~12/31"
       },
       {
         "year": 2024,
-        "return_pct": -0.37426758347903766,
+        "return_pct": -0.3742742041007885,
         "period": "01/02~12/31"
       },
       {
         "year": 2023,
-        "return_pct": 21.636266141650353,
+        "return_pct": 21.63623866853326,
         "period": "01/03~12/29"
       },
       {
         "year": 2022,
-        "return_pct": -28.856331673117463,
+        "return_pct": -28.856340082589192,
         "period": "01/03~12/30"
       }
     ],
@@ -720,7 +720,7 @@
       "dataset": "structure_c_score",
       "stock_id": "8358",
       "ticker": "8358.TWO",
-      "asof": "2026-08-25",
+      "asof": "2026-08-27",
       "c_score": 1.2508939905243528,
       "benchmark_pe": 77.10515283169885,
       "source": [
@@ -996,14 +996,14 @@
         },
         {
           "period": "2021Q3",
-          "avg_price": 73.15833282470703,
+          "avg_price": 73.22173873237942,
           "eps": 1.74,
           "revenue_q": 8.10548,
-          "pe_ratio": 42.04501886477416,
+          "pe_ratio": 42.08145904159737,
           "rev_growth": null,
           "eps_growth": null,
           "rt_weight": 1.0,
-          "deviation": 0.5452945402565748,
+          "deviation": 0.5457671439086647,
           "theo_price": 134.162965927156
         }
       ],
@@ -1017,27 +1017,6 @@
       "stock_name": "金居"
     },
     "kline_data": [
-      {
-        "date": "2026-03-06",
-        "symbol": "8358.TWO",
-        "open": 247.5,
-        "high": 263.0,
-        "low": 247.5,
-        "close": 258.0,
-        "volume": 2581492.0,
-        "adjclose": 256.8245849609375,
-        "dividends": 0.0,
-        "MA5": 264.9,
-        "MA20": 264.9,
-        "MA60": 262.7333333333333,
-        "bb_mid": 264.9,
-        "bb_up": 298.1529697921852,
-        "bb_dn": 231.64703020781477,
-        "DIF": 0.5282548520158343,
-        "DEA": 2.2181512486744346,
-        "HIST": -3.3797927933172005,
-        "volume_lot": 2581.492
-      },
       {
         "date": "2026-03-09",
         "symbol": "8358.TWO",
@@ -3523,7 +3502,7 @@
         "high": 456.5,
         "low": 419.0,
         "close": 449.5,
-        "volume": 32223309.0,
+        "volume": 31514719.0,
         "adjclose": 449.5,
         "dividends": 0.0,
         "MA5": 429.0,
@@ -3535,7 +3514,28 @@
         "DIF": 2.3926031233770573,
         "DEA": -9.114078737716984,
         "HIST": 23.013363722188085,
-        "volume_lot": 32223.309
+        "volume_lot": 31514.719
+      },
+      {
+        "date": "2026-08-27",
+        "symbol": "8358.TWO",
+        "open": 454.0,
+        "high": 493.5,
+        "low": 446.0,
+        "close": null,
+        "volume": 38584835.0,
+        "adjclose": null,
+        "dividends": 0.0,
+        "MA5": null,
+        "MA20": null,
+        "MA60": null,
+        "bb_mid": null,
+        "bb_up": null,
+        "bb_dn": null,
+        "DIF": 2.3926031233770573,
+        "DEA": -6.812742365498178,
+        "HIST": 18.41069097775047,
+        "volume_lot": 38584.835
       }
     ]
   }

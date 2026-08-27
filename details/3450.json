@@ -1,11 +1,11 @@
 {
   "id": "3450",
   "name": "聯鈞",
-  "lastUpdated": "2026-08-26 15:39:35",
+  "lastUpdated": "2026-08-28 02:00:39",
   "basicInfo": {
-    "price": "574.00",
-    "change": "41.00",
-    "changePercent": "7.69%"
+    "price": "578.00",
+    "change": "4.00",
+    "changePercent": "0.70%"
   },
   "status": null,
   "themes": [],
@@ -568,6 +568,22 @@
     ],
     "chips_table": [
       {
+        "date": "2026-08-27",
+        "foreign_lots": 365.665,
+        "it_lots": 688.0,
+        "dealer_lots": -68.28,
+        "sum_lots": 985.385,
+        "pct_float": 0.06763972614211561
+      },
+      {
+        "date": "2026-08-26",
+        "foreign_lots": 569.441,
+        "it_lots": 989.0,
+        "dealer_lots": -35.43000000000001,
+        "sum_lots": 1523.011,
+        "pct_float": 0.10454395688124908
+      },
+      {
         "date": "2026-08-25",
         "foreign_lots": 1630.496,
         "it_lots": -2800.0,
@@ -670,29 +686,13 @@
         "dealer_lots": 53.41,
         "sum_lots": 1660.102,
         "pct_float": 0.11395428654584594
-      },
-      {
-        "date": "2026-08-06",
-        "foreign_lots": 2657.25,
-        "it_lots": -955.0,
-        "dealer_lots": 36.604,
-        "sum_lots": 1738.854,
-        "pct_float": 0.11936005557332645
-      },
-      {
-        "date": "2026-08-05",
-        "foreign_lots": 159.713,
-        "it_lots": -400.0,
-        "dealer_lots": 118.269,
-        "sum_lots": -122.018,
-        "pct_float": -0.00837567458851988
       }
     ],
     "returns_table": [
       {
         "year": 2026,
-        "return_pct": 95.62974118353382,
-        "period": "01/02~08/25"
+        "return_pct": 110.67818281303641,
+        "period": "01/02~08/26"
       },
       {
         "year": 2025,
@@ -706,7 +706,7 @@
       },
       {
         "year": 2023,
-        "return_pct": 72.04875677709425,
+        "return_pct": 72.04873857342511,
         "period": "01/03~12/29"
       },
       {
@@ -720,7 +720,7 @@
       "dataset": "structure_c_score",
       "stock_id": "3450",
       "ticker": "3450.TW",
-      "asof": "2026-08-25",
+      "asof": "2026-08-27",
       "c_score": 1.8612289948760348,
       "benchmark_pe": 121.64910990231013,
       "source": [
@@ -996,14 +996,14 @@
         },
         {
           "period": "2021Q3",
-          "avg_price": 53.96666653951009,
+          "avg_price": 53.95217381352963,
           "eps": 0.73,
           "revenue_q": 5.98424,
-          "pe_ratio": 73.92694046508232,
+          "pe_ratio": 73.90708741579402,
           "rev_growth": null,
           "eps_growth": null,
           "rt_weight": 1.0,
-          "deviation": 0.6077063821054596,
+          "deviation": 0.6075431828078712,
           "theo_price": 88.80385022868639
         }
       ],
@@ -1017,27 +1017,6 @@
       "stock_name": "聯鈞"
     },
     "kline_data": [
-      {
-        "date": "2026-03-06",
-        "symbol": "3450.TW",
-        "open": 282.5,
-        "high": 293.0,
-        "low": 276.5,
-        "close": 282.5,
-        "volume": 24276492.0,
-        "adjclose": 281.9344482421875,
-        "dividends": 0.0,
-        "MA5": 301.7,
-        "MA20": 270.15,
-        "MA60": 262.39166666666665,
-        "bb_mid": 270.15,
-        "bb_up": 321.22455335096,
-        "bb_dn": 219.07544664903995,
-        "DIF": 11.570931212992605,
-        "DEA": 8.50516996299834,
-        "HIST": 6.131522499988531,
-        "volume_lot": 24276.492
-      },
       {
         "date": "2026-03-09",
         "symbol": "3450.TW",
@@ -3523,7 +3502,7 @@
         "high": 584.0,
         "low": 527.0,
         "close": 574.0,
-        "volume": 17143782.0,
+        "volume": 16812181.0,
         "adjclose": 574.0,
         "dividends": 0.0,
         "MA5": 543.6,
@@ -3535,7 +3514,28 @@
         "DIF": 24.610695375097407,
         "DEA": 19.17588359031977,
         "HIST": 10.869623569555271,
-        "volume_lot": 17143.782
+        "volume_lot": 16812.181
+      },
+      {
+        "date": "2026-08-27",
+        "symbol": "3450.TW",
+        "open": 580.0,
+        "high": 598.0,
+        "low": 567.0,
+        "close": null,
+        "volume": 16713312.0,
+        "adjclose": null,
+        "dividends": 0.0,
+        "MA5": null,
+        "MA20": null,
+        "MA60": null,
+        "bb_mid": null,
+        "bb_up": null,
+        "bb_dn": null,
+        "DIF": 24.610695375097407,
+        "DEA": 20.2628459472753,
+        "HIST": 8.695698855644217,
+        "volume_lot": 16713.312
       }
     ]
   }

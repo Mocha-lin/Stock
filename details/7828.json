@@ -1,11 +1,11 @@
 {
   "id": "7828",
   "name": "創新服務",
-  "lastUpdated": "2026-08-26 15:39:35",
+  "lastUpdated": "2026-08-28 02:00:39",
   "basicInfo": {
-    "price": "1580.00",
-    "change": "60.00",
-    "changePercent": "3.95%"
+    "price": "1650.00",
+    "change": "70.00",
+    "changePercent": "4.43%"
   },
   "status": null,
   "themes": [],
@@ -398,6 +398,22 @@
     ],
     "chips_table": [
       {
+        "date": "2026-08-27",
+        "foreign_lots": 3.216,
+        "it_lots": -1.0,
+        "dealer_lots": -0.719,
+        "sum_lots": 1.4970000000000003,
+        "pct_float": 0.0003696853106270328
+      },
+      {
+        "date": "2026-08-26",
+        "foreign_lots": -9.066,
+        "it_lots": 0.0,
+        "dealer_lots": 1.0,
+        "sum_lots": -8.066,
+        "pct_float": -0.001991904953585602
+      },
+      {
         "date": "2026-08-25",
         "foreign_lots": 6.999,
         "it_lots": 0.0,
@@ -500,29 +516,13 @@
         "dealer_lots": 0.0,
         "sum_lots": 12.0,
         "pct_float": 0.0029634093036235085
-      },
-      {
-        "date": "2026-08-06",
-        "foreign_lots": 30.905,
-        "it_lots": 0.3,
-        "dealer_lots": 0.5,
-        "sum_lots": 31.705000000000002,
-        "pct_float": 0.007829574330948613
-      },
-      {
-        "date": "2026-08-05",
-        "foreign_lots": 81.35,
-        "it_lots": 0.0,
-        "dealer_lots": -3.831,
-        "sum_lots": 77.51899999999999,
-        "pct_float": 0.01914337715063256
       }
     ],
     "returns_table": [
       {
         "year": 2026,
-        "return_pct": 183.31763940040645,
-        "period": "01/02~08/25"
+        "return_pct": 194.50123042936985,
+        "period": "01/02~08/26"
       },
       {
         "year": 2025,
@@ -535,7 +535,7 @@
       "dataset": "structure_c_score",
       "stock_id": "7828",
       "ticker": "7828.TWO",
-      "asof": "2026-08-25",
+      "asof": "2026-08-27",
       "c_score": 1.0,
       "benchmark_pe": 82.16608632809934,
       "source": [
@@ -664,27 +664,6 @@
       "stock_name": "創新服務"
     },
     "kline_data": [
-      {
-        "date": "2026-03-06",
-        "symbol": "7828.TWO",
-        "open": 998.0,
-        "high": 1015.0,
-        "low": 957.0,
-        "close": 1005.0,
-        "volume": 201854.0,
-        "adjclose": 1002.198486328125,
-        "dividends": 0.0,
-        "MA5": 1014.8,
-        "MA20": 941.2,
-        "MA60": 655.075,
-        "bb_mid": 941.2,
-        "bb_up": 1224.6872836654215,
-        "bb_dn": 657.7127163345787,
-        "DIF": 100.6302515413663,
-        "DEA": 114.56866593867474,
-        "HIST": -27.87682879461687,
-        "volume_lot": 201.854
-      },
       {
         "date": "2026-03-09",
         "symbol": "7828.TWO",
@@ -3170,7 +3149,7 @@
         "high": 1595.0,
         "low": 1485.0,
         "close": 1580.0,
-        "volume": 94825.0,
+        "volume": 83206.0,
         "adjclose": 1580.0,
         "dividends": 0.0,
         "MA5": 1582.0,
@@ -3182,7 +3161,28 @@
         "DIF": -47.53646719142898,
         "DEA": -42.53612924625987,
         "HIST": -10.00067589033823,
-        "volume_lot": 94.825
+        "volume_lot": 83.206
+      },
+      {
+        "date": "2026-08-27",
+        "symbol": "7828.TWO",
+        "open": 1615.0,
+        "high": 1725.0,
+        "low": 1560.0,
+        "close": null,
+        "volume": 260944.0,
+        "adjclose": null,
+        "dividends": 0.0,
+        "MA5": null,
+        "MA20": null,
+        "MA60": null,
+        "bb_mid": null,
+        "bb_up": null,
+        "bb_dn": null,
+        "DIF": -47.53646719142898,
+        "DEA": -43.536196835293694,
+        "HIST": -8.000540712270578,
+        "volume_lot": 260.944
       }
     ]
   }
