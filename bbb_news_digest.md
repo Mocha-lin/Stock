@@ -1,14 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-27T19:27:06.522941+00:00
-
-### 🚀 1.6T光模組激增，TXC轉向AI基礎設施
-- **題材**: `光通訊與矽光子` | **重要性**: `83`
-- **來源**: Digitimes (2026-08-20T22:12:24Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 隨著對更快數據傳輸的需求不斷增長，石英組件領導者TXC瞄準了AI和汽車應用，預計1.6T光模組將在2026年下半年爆發式增長。該公司的目標是到年底將AI收入提升至20%…
-- [原文連結](https://www.digitimes.com/news/a20260820PD223/txc-component-infrastructure-automotive-2026.html)
-
----
+> 更新時間：2026-08-27T22:40:01.326902+00:00
 
 ### 🚀 Semtech 第二季財報電話會議亮點
 - **題材**: `光通訊與矽光子` | **重要性**: `80`
@@ -28,6 +19,24 @@
 
 ---
 
+### 🚀 1.6T光模組激增，TXC轉向AI基礎設施
+- **題材**: `光通訊與矽光子` | **重要性**: `78`
+- **來源**: Digitimes (2026-08-20T22:12:24Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 隨著對更快數據傳輸的需求不斷增長，石英組件領導者TXC瞄準了AI和汽車應用，預計1.6T光模組將在2026年下半年爆發式增長。該公司的目標是到年底將AI收入提升至20%…
+- [原文連結](https://www.digitimes.com/news/a20260820PD223/txc-component-infrastructure-automotive-2026.html)
+
+---
+
+### 🚀 Semtech 公司 2027 年第二季財報電話會議摘要
+- **題材**: `光通訊與矽光子` | **重要性**: `75`
+- **來源**: Moby.co (2026-08-26T12:30:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Semtech 公司 2027 年第二季財報電話會議的 Moby 摘要
+- [原文連結](https://app.moby.co/home/research/tools/earningsCalendar/earnings-semtech-corporation-q2-2027-earnings-call-summary?utm_source=yahoo_finance&amp;utm_medium=rss)
+
+---
+
 ### 🚀 Eoptolink Technology boosts inventory 61% to meet AI demand
 - **題材**: `光通訊與矽光子` | **重要性**: `70`
 - **來源**: Crypto Briefing (2026-08-24T17:31:01Z)
@@ -35,15 +44,6 @@
 - **摘要**: 新易盛科技 2026 年上半年庫存成長 61%，達到 17 億美元，淨利潤飆升 91%，滿足了人工智慧資料中心的持續需求。
 《新易盛科技將庫存增加 61% 以滿足 AI 需求》的消息首先出現在《Crypto Briefing》上。
 - [原文連結](https://cryptobriefing.com/eoptolink-inventory-surge-ai-demand/)
-
----
-
-### ⚖️ Nvidia and SK Hynix CPO strategies diverge as 3D optics look toward a post-2030 horizon
-- **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-08-25T06:47:15Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: On August 20, SK Hynix's global research team published a paper in Nature Electronics detailing its co-packaged optics (CPO) development for high-performance computing (HPC) and AI. Highlighting key technical hurdles and outlining the trajectory for next-gene…
-- [原文連結](https://www.digitimes.com/news/a20260825PD216/sk-hynix-cpo-nvidia-3d-optics.html)
 
 ---
 
@@ -119,15 +119,6 @@
 
 ---
 
-### ⚠️ How Trump's new trade war with Canada affects everything from building new homes to dog jackets
-- **題材**: `總體風險` | **重要性**: `65`
-- **來源**: Business Insider (2026-08-24T19:32:45Z)
-- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: New 50% tariffs on a slew of Canadian goods went into effect. They could affect Canadian jobs and businesses in states along the border.
-- [原文連結](https://www.businessinsider.com/new-tariffs-trade-war-us-canada-economy-2026-8#article)
-
----
-
 ### ⚠️ 「混亂的關稅制度造成的損害無法退還」：1000億美元的退稅已經抹去了5月份以來進口稅帶來的收入
 - **題材**: `總體風險` | **重要性**: `65`
 - **來源**: Yahoo Entertainment (2026-08-21T14:37:33Z)
@@ -143,6 +134,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 畢馬威董事總經理 Jesse Chen 表示，隨著晶片功耗、傳輸速度和架構複雜性的增加，測試已從最終的出貨前品質關卡轉變為產品開發和量產的早期階段。
 - [原文連結](https://www.digitimes.com/news/a20260819PD211/testing-demand-cpo-siph-transmission.html)
+
+---
+
+### ⚖️ 亞馬遜將購買 200 萬塊 Nvidia 晶片用於資料中心擴建
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-08-26T21:07:55Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 亞馬遜公司將在未來兩年內在其資料中心機群中額外增加 200 萬個 Nvidia 公司圖形處理單元，這表明該公司...
+- [原文連結](https://finance.yahoo.com/technology/ai/articles/amazon-buy-2-million-nvidia-210755805.html)
 
 ---
 
