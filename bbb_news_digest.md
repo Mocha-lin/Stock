@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-27T04:18:38.118186+00:00
+> 更新時間：2026-08-27T10:46:32.055965+00:00
 
 ### 🚀 1.6T光模組激增，TXC轉向AI基礎設施
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -10,21 +10,21 @@
 
 ---
 
+### 🚀 Semtech 第二季財報電話會議亮點
+- **題材**: `光通訊與矽光子` | **重要性**: `80`
+- **來源**: MarketBeat (2026-08-25T22:02:09Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Semtech（納斯達克股票代碼：SMTC）報告了創紀錄的第二財季收入，並預計其數據中心、LoRa 和消費者業務將進一步增長，同時...
+- [原文連結](https://www.marketbeat.com/instant-alerts/transcript-semtech-q2-earnings-call-highlights-2026-08-25/?utm_source=yahoofinance&amp;utm_medium=yahoofinance)
+
+---
+
 ### 🚀 Zhongji Innolight's 1.6T surge shows AI networking is becoming next hyperscaler bottleneck
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
 - **來源**: Digitimes (2026-08-25T00:06:02Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: The AI infrastructure boom has long been defined by a race to secure GPUs, memory and power. Yet as cluster sizes continue expanding, another layer of the system is beginning to emerge as an equally decisive constraint: the optical links responsible for movin…
 - [原文連結](https://www.digitimes.com/news/a20260824VL217/infrastructure-revenue-growth-profit.html)
-
----
-
-### 🚀 Nvidia 客戶面臨 15% 的價格上漲 |Google斥資2000億美元竊取它們
-- **題材**: `光通訊與矽光子` | **重要性**: `75`
-- **來源**: 24/7 Wall St. (2026-08-25T16:40:13Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Nvidia just warned its biggest customers to brace for a steep price jump on next-generation AI servers, and that threat hands at least two rivals a rare open...
-- [原文連結](https://247wallst.com/investing/2026/08/25/nvidia-customers-face-a-15-price-hike-google-is-spending-200-billion-to-steal-them/)
 
 ---
 
@@ -101,31 +101,30 @@
 
 ---
 
+### 🚀 英偉達即將公佈七季以來最快的成長
+- **題材**: `AI伺服器` | **重要性**: `65`
+- **來源**: The Next Web (2026-08-26T07:23:26Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 英偉達預計公佈季度營收 921.8 億美元，接近去年同期的兩倍，為七個季度以來最快的成長，分析師預計本季將進一步增至 1,042 億美元。數字並不是真正的問題…
+- [原文連結](https://thenextweb.com/news/nvidia-earnings-rubin-ai-financing-scrutiny)
+
+---
+
+### ⚖️ Finance giant sets aggressive Micron stock target after earnings
+- **題材**: `HBM記憶體` | **重要性**: `65`
+- **來源**: TheStreet (2026-08-25T22:33:00Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: BMO Capital 以出色的說服力開始對美光科技進行報道，這一數字令人矚目。
+- [原文連結](https://www.thestreet.com/investing/stocks/bmo-sets-micron-mu-stock-target-1300-outperform)
+
+---
+
 ### ⚠️ How Trump's new trade war with Canada affects everything from building new homes to dog jackets
 - **題材**: `總體風險` | **重要性**: `65`
 - **來源**: Business Insider (2026-08-24T19:32:45Z)
 - **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: New 50% tariffs on a slew of Canadian goods went into effect. They could affect Canadian jobs and businesses in states along the border.
 - [原文連結](https://www.businessinsider.com/new-tariffs-trade-war-us-canada-economy-2026-8#article)
-
----
-
-### ⚖️ Largan Precision and TSMC partner to chase AI opportunities in co-packaged optics
-- **題材**: `光通訊與矽光子` | **重要性**: `65`
-- **來源**: Crypto Briefing (2026-08-24T05:54:06Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Largan's strategic shift to CPO tech with TSMC could redefine AI data center efficiency, diversifying its market presence beyond smartphones.
-The post Largan Precision and TSMC partner to chase AI opportunities in co-packaged optics appeared first on Crypto B…
-- [原文連結](https://cryptobriefing.com/largan-tsmc-cpo-ai-partnership/)
-
----
-
-### ⚖️ Oppenheimer has a blunt Nvidia stock message ahead of earnings
-- **題材**: `AI伺服器` | **重要性**: `65`
-- **來源**: TheStreet (2026-08-22T16:17:00Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: With Nvidia reporting August 26, Oppenheimer just published insights about the stock that cut through the noise around the trade.
-- [原文連結](https://www.thestreet.com/investing/stocks/oppenheimer-has-a-blunt-nvidia-stock-investors-message-ahead-of-earnings)
 
 ---
 
