@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-28T12:23:36.163722+00:00
+> 更新時間：2026-08-28T20:43:10.875582+00:00
 
 ### 🚀 Semtech 第二季財報電話會議亮點
 - **題材**: `光通訊與矽光子` | **重要性**: `80`
@@ -37,15 +37,6 @@
 
 ---
 
-### 🚀 Zhongji Innolight's 1.6T surge shows AI networking is becoming next hyperscaler bottleneck
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-08-25T00:06:02Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: The AI infrastructure boom has long been defined by a race to secure GPUs, memory and power. Yet as cluster sizes continue expanding, another layer of the system is beginning to emerge as an equally decisive constraint: the optical links responsible for movin…
-- [原文連結](https://www.digitimes.com/news/a20260824VL217/infrastructure-revenue-growth-profit.html)
-
----
-
 ### 🚀 Eoptolink Technology boosts inventory 61% to meet AI demand
 - **題材**: `光通訊與矽光子` | **重要性**: `70`
 - **來源**: Crypto Briefing (2026-08-24T17:31:01Z)
@@ -53,15 +44,6 @@
 - **摘要**: 新易盛科技 2026 年上半年庫存成長 61%，達到 17 億美元，淨利潤飆升 91%，滿足了人工智慧資料中心的持續需求。
 《新易盛科技將庫存增加 61% 以滿足 AI 需求》的消息首先出現在《Crypto Briefing》上。
 - [原文連結](https://cryptobriefing.com/eoptolink-inventory-surge-ai-demand/)
-
----
-
-### ⚖️ Analysis: SK Hynix pushes beyond HBM with HBF and CPO
-- **題材**: `HBM記憶體` | **重要性**: `68`
-- **來源**: Digitimes (2026-08-24T04:08:26Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: SK Hynix is moving on several fronts as it pushes deeper into system-level memory competition. From high-bandwidth memory (HBM) and high-bandwidth flash (HBF) to a recently published roadmap proposing to extend co-packaged optics (CPO) to the memory interface…
-- [原文連結](https://www.digitimes.com/news/a20260824PD216/sk-hynix-hbm-cpo-capacity-competition.html)
 
 ---
 
@@ -80,6 +62,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Challenges around co-packaged optics (CPO) remain unresolved, but they have not slowed the rapid rise of 800G and 1.6T silicon photonics, DIGITIMES analyst Kiwi Hsu said on August 20 at a semiconductor industry forum in Taipei. He said demand for AI cluster i…
 - [原文連結](https://www.digitimes.com/news/a20260821PD213/cpo-optics-silicon-photonics-demand.html)
+
+---
+
+### 🚀 This Under-the-Radar AI Stock Could Be the Next Big Semiconductor Winner
+- **題材**: `光通訊與矽光子` | **重要性**: `65`
+- **來源**: 24/7 Wall St. (2026-08-27T15:32:15Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Credo Technology exploded from double digits to over $300 in a single year, but the setup heading into fiscal 2027 is a fundamentally different bet, and the...
+- [原文連結](https://247wallst.com/investing/2026/08/27/this-under-the-radar-ai-stock-could-be-the-next-big-semiconductor-winner/)
 
 ---
 
@@ -112,33 +103,6 @@ Adentris (Y Combinator) 為行為健康提供者建立人工智慧驅動的合�
 
 ---
 
-### ⚠️ 「混亂的關稅制度造成的損害無法退還」：1000億美元的退稅已經抹去了5月份以來進口稅帶來的收入
-- **題材**: `總體風險` | **重要性**: `65`
-- **來源**: Yahoo Entertainment (2026-08-21T14:37:33Z)
-- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 6 月份，由於關稅退款超過收入，川普政府的海關淨收入損失超過 250 億美元。
-- [原文連結](https://finance.yahoo.com/economy/policy/articles/damage-chaotic-tariff-regime-cannot-143733492.html)
-
----
-
-### ⚖️ 3D 光學展望 2030 年後，Nvidia 和 SK Hynix CPO 策略出現分歧
-- **題材**: `光通訊與矽光子` | **重要性**: `63`
-- **來源**: Digitimes (2026-08-25T06:47:15Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 8月20日，SK海力士全球研究團隊在《自然電子》雜誌上發表論文，詳細介紹了其高效能運算（HPC）和人工智慧的共封裝光學（CPO）開發。強調關鍵技術障礙並概述下一代的發展軌跡…
-- [原文連結](https://www.digitimes.com/news/a20260825PD216/sk-hynix-cpo-nvidia-3d-optics.html)
-
----
-
-### ⚖️ Samsung pushes HBM toward logic, SK Hynix targets packaging at Hot Chips 2026
-- **題材**: `HBM記憶體` | **重要性**: `63`
-- **來源**: Digitimes (2026-08-25T00:04:43Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Samsung Electronics and SK Hynix outlined different areas of emphasis for overcoming the next high-bandwidth memory (HBM) bottleneck at Hot Chips 2026, with Samsung pushing more logic and customer-specific functions into the HBM base die while SK Hynix focuse…
-- [原文連結](https://www.digitimes.com/news/a20260824VL214/samsung-hbm-packaging-dram-design.html)
-
----
-
 ### ⚖️ CPO gains momentum as AI interconnect demands outpace chip gains
 - **題材**: `光通訊與矽光子` | **重要性**: `63`
 - **來源**: Digitimes (2026-08-21T02:01:47Z)
@@ -154,6 +118,24 @@ Adentris (Y Combinator) 為行為健康提供者建立人工智慧驅動的合�
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Nvidia 推出了 NVHBM，這是一種客製化的高頻寬記憶體實現，可為在 NVLink Fusion 合作夥伴計劃中建立晶片的客戶提供更高的頻寬和更低的功耗。
 - [原文連結](https://www.tomshardware.com/pc-components/dram/nvidia-custom-nvhbm-promises-30-percent-higher-bandwidth-15-percent-lower-power-than-commodity-hbm4e-custom-base-die-and-phy-will-be-available-to-nvlink-fusion-partners)
+
+---
+
+### ⚠️ Panic Passes Trump Tariff Refunds Back to Playdate Customers
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Slashdot.org (2026-08-27T18:00:00Z)
+- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Panic is refunding Playdate customers the 19% tariff charges it passed along while the Trump administration's import duties were in effect, after the Supreme Court ruled the tariffs illegal and the company began receiving refunds from the government. Panic sa…
+- [原文連結](https://news.slashdot.org/story/26/08/27/1641246/panic-passes-trump-tariff-refunds-back-to-playdate-customers)
+
+---
+
+### ⚖️ The Nvidia effect: These areas of the market are getting a boost from the chipmaker’s blockbuster earnings
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: Business Insider (2026-08-27T14:08:59Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Investors cheered Nvidia's blowout earnings on Thursday, lifting other chip stocks and the broader tech sector as the AI trade sees renewed hype.
+- [原文連結](https://www.businessinsider.com/nvidia-earnings-q2-nvda-chips-memory-stock-rally-ndx-avgo-2026-8)
 
 ---
 
@@ -181,6 +163,24 @@ Adentris (Y Combinator) 為行為健康提供者建立人工智慧驅動的合�
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 英偉達報告本季營收為 962 億美元，比去年同期成長 106%，然後做了一些以前從未做過的事情，對全年進行了預測。消息發布後，該股下跌約 1.3%，直到財務長發布消息後，該股才大幅上漲。
 - [原文連結](https://thenextweb.com/news/nvidia-q2-fy27-results-year-ahead-forecast)
+
+---
+
+### 🚀 Google Pixel 11 Pro 與 Pixel 9 Pro：目前還沒有升級的理由
+- **題材**: `半導體先進製程` | **重要性**: `60`
+- **來源**: Android Central (2026-08-27T04:17:29Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Pixel 11 Pro 帶來了新的相機和其他調整，是一款出色的小型旗艦產品。也就是說，已經用了兩年的 Pixel 9 Pro 也同樣出色，我暫時還不想換。
+- [原文連結](https://www.androidcentral.com/phones/google-pixel/google-pixel-11-pro-vs-pixel-9-pro)
+
+---
+
+### ⚖️ 亞馬遜將購買 200 萬塊 Nvidia 晶片用於資料中心擴建
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-08-26T21:07:55Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 亞馬遜公司將在未來兩年內在其資料中心機群中額外增加 200 萬個 Nvidia 公司圖形處理單元，這表明該公司...
+- [原文連結](https://finance.yahoo.com/technology/ai/articles/amazon-buy-2-million-nvidia-210755805.html)
 
 ---
 
