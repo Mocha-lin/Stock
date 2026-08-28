@@ -1,108 +1,147 @@
 {
   "id": "6257",
   "name": "矽格",
-  "lastUpdated": "2026-08-28 02:00:39",
+  "lastUpdated": "2026-08-28 01:35:40",
   "basicInfo": {
-    "price": "204.00",
+    "price": 204,
     "change": "0.00",
     "changePercent": "0.00%"
   },
   "status": "⚡ BUY",
   "themes": [],
   "industry_analysis": {
-    "sector": "半導體封測",
-    "is_leader": false,
-    "market_share": "約 5-10% (台灣IC測試代工)",
+    "sector": "半導體封裝測試／AI ASIC／GPU／CPU／HPC／矽光子／高速網通／記憶體",
+    "is_leader": true,
+    "market_share": "台灣具規模之專業封裝測試廠與高階測試第一梯隊業者，核心能力集中邏輯IC、AI ASIC、CPU／GPU、HPC、矽光子、高速網通與記憶體測試；公開資料未揭露精確全球市佔率",
     "supply_chain": {
-      "upstream": "IC設計公司 (聯發科、瑞昱等)、晶圓代工廠",
-      "position": "IC測試與封裝代工 (OSAT)",
-      "downstream": "消費性電子、車用、網通品牌及系統廠"
+      "upstream": "ATE測試設備、Probe Card、Load Board、Socket、Handler、Tester介面、封裝材料、基板與晶圓製造",
+      "position": "提供IC測試、封裝與Burn-in服務，近年積極擴充AI ASIC、CPU／GPU、HPC、矽光子、高速光通訊與記憶體先進測試產能",
+      "downstream": "國際CPU／GPU設計公司、ASIC客戶、晶圓代工廠、AI伺服器供應鏈、網通與光通訊晶片商、記憶體廠及消費電子客戶"
     },
     "moat": {
-      "rating": 3,
-      "description": "具備穩定的客戶關係與多樣化測試平台，涵蓋手機、網通與HPC，但受半導體景氣波動影響大。"
+      "rating": 4,
+      "description": "高階半導體測試需整合ATE、Probe Card、Socket、測試程式、光電量測、自動化與大量量產能力，客戶認證週期長。矽格近年提早投入AI、ASIC、矽光子及高速運算測試平台，並以Early Engagement、Early Investment與Excellent Operation模式與客戶共同開發。規模、測試know-how及先進設備形成護城河，但OSAT產業仍具資本密集與同業競爭特性。"
     },
     "competitors": [
-      "京元電子",
       "日月光投控",
-      "欣銓"
+      "京元電子",
+      "力成",
+      "南茂",
+      "Amkor"
     ],
     "revenue_mix": [
       {
-        "name": "智慧型手機與無線通訊",
-        "pct": 40
+        "name": "智慧手機",
+        "pct": 31
       },
       {
-        "name": "AI與高效能運算 (HPC)",
-        "pct": 25
+        "name": "AI／ASIC／矽光子／HPC",
+        "pct": 23
       },
       {
-        "name": "車用及醫療",
-        "pct": 20
+        "name": "網通／物聯網",
+        "pct": 22
       },
       {
-        "name": "消費性電子及其他",
-        "pct": 15
+        "name": "消費電子／智慧家庭",
+        "pct": 18
+      },
+      {
+        "name": "車用／醫療",
+        "pct": 6
       }
     ],
     "main_products": [
       {
-        "name": "RF與混合訊號測試",
+        "name": "AI ASIC／CPU／GPU高階晶片測試",
         "status": "current",
-        "contribution": "40%"
+        "contribution": "2026年最主要成長動能之一，國際大型CPU／GPU客戶持續追加測試產能"
       },
       {
-        "name": "數位與記憶體測試",
+        "name": "矽光子高速光電測試",
         "status": "current",
-        "contribution": "35%"
+        "contribution": "支援PIC、EIC、Optical Engine與高速AI Connectivity測試"
+      },
+      {
+        "name": "PAM4 112G／224G高速測試",
+        "status": "current",
+        "contribution": "高速網通、AI交換器與光通訊晶片重要測試平台"
+      },
+      {
+        "name": "記憶體測試",
+        "status": "current",
+        "contribution": "2026年前五月約占集團營收10%，受記憶體市場回升帶動稼動率提升"
+      },
+      {
+        "name": "先進封裝與IC測試服務",
+        "status": "current",
+        "contribution": "涵蓋Logic、網通、PMIC、BMC與各類高階IC封裝測試"
       }
     ],
     "dev_pipeline": [
       {
-        "name": "AI/HPC 高階測試 (龍潭新廠)",
-        "status": "capacity_expansion",
-        "expected_mass_production": "2025Q3",
-        "order_status": "客戶驗證與設備導入中"
+        "name": "湖口新增AI高階測試產能",
+        "status": "mass_production_ramp",
+        "expected_mass_production": "2026H2",
+        "order_status": "新增無塵室與設備產能已由國外大型客戶提前預訂，部分產能自2026年7月加入量產"
       },
       {
-        "name": "北美在地化測試 (德州奧斯汀廠)",
-        "status": "planned",
-        "expected_mass_production": "2027",
-        "order_status": "規劃中"
+        "name": "美系CPU／GPU客戶追加測試產能",
+        "status": "capacity_expansion",
+        "expected_mass_production": "2026H2-2027",
+        "order_status": "子公司矽格聯測追加約20億元資本支出，用於測試設備及無塵室升級"
+      },
+      {
+        "name": "竹東中興新廠",
+        "status": "capacity_expansion",
+        "expected_mass_production": "2027Q1",
+        "order_status": "工程預計2026Q4完工，2027Q1加入量產以支援AI與高階測試需求"
+      },
+      {
+        "name": "PAM4 224G／PIC／Optical Engine測試平台",
+        "status": "development_and_ramp",
+        "expected_mass_production": "2026-2027",
+        "order_status": "配合AI Connectivity、矽光子與高速光通訊晶片升級持續擴充"
+      },
+      {
+        "name": "VCSEL 200G與下一代光電測試",
+        "status": "development_and_validation",
+        "expected_mass_production": "2026-2027",
+        "order_status": "持續布局高速光電、矽光子與下一代AI資料中心測試需求"
       }
     ],
-    "resource_summary": "結合最新財報綜合引擎顯示，矽格目前處於「高品質本業成長」階段。2026年Q2營收YoY達23.1%，毛利率與營益率同步攀升，稼動率爬升訊號明確。新竹科學園區廠貢獻高階產品主力，且龍潭新廠與美國德州廠的建置將填補未來AI、HPC與在地化供應的產能缺口。"
+    "resource_summary": "矽格基本面持續加速。2026年7月營收20.14億元、月增2.84%、年增26.62%，首次突破20億元，前7月累計年增19.31%。 Q2營收58.81億元、季增11.1%、年增23.1%，毛利率34.24%、營益率25.64%、EPS 2.55元，營收與獲利率同步改善。Block A判定正向獲利槓桿、高品質本業獲利與稼動率爬升；但Q2 CapEx達45.73億元、占營收77.8%，FCF轉負24.77億元，借款季增24.6%並由淨現金轉為13.29億元淨負債，因此v2仍列「專案型波動個案」。目前營運趨勢強，主要風控集中在高資本支出、法人同步賣超與股價仍低於60日線。"
   },
   "technical_analysis": {
-    "status": "打底盤整",
-    "support": "180",
-    "resistance": "218",
+    "status": "中期築底轉強／60日線前壓力測試",
+    "support": "197-203",
+    "resistance": "204.5-214",
     "indicators": {
       "macd": {
-        "status": "rebounding",
-        "desc": "MACD處於零軸之下，但DIF與MACD柱狀圖呈現金叉反彈收斂"
+        "status": "bullish_recovery_below_zero",
+        "desc": "8月27日DIF約-3.50、DEA約-4.40，DIF已高於DEA且柱狀體維持正值，低檔反彈動能持續；但雙線仍在零軸下方，尚未確認中期主升。"
       },
       "rsi": {
-        "value": 45,
+        "value": 48.3,
         "status": "neutral",
-        "desc": "RSI於中性區間弱勢震盪，尚待動能表態"
+        "desc": "RSI14約48，接近50中性線，市場已由弱勢修復但尚未形成明顯強勢動能。"
       },
       "bollinger": {
-        "status": "consolidation",
-        "desc": "股價於布林下軌反彈至中軌附近震盪，區間收斂"
+        "status": "upper_half",
+        "desc": "204元高於布林中軌202.18元、低於上軌214.02元，位於通道上半部；204.5-206元為分價直接壓力，再上方為214-218元中期關卡。"
       }
     },
-    "summary": "從技術面來看，股價自7月高點(273元)大幅回落後，目前於季線之下、月線(199.5元)附近進行打底。儘管基本面五力綜合引擎顯示「稼動率爬升」與「高品質本業成長」，但分價結構顯示上方201-209元區間有解套賣壓，且即時籌碼面遭逢法人賣出。操作上建議待站穩月線後再行佈局。",
+    "summary": "矽格的基本面明顯優於目前股價趨勢。204元已站回MA20 202.18及MA120 198.66，且近20日上漲17.6%，MACD低檔翻多；但MA60仍在217.88，法人近20日呈外資、投信同步賣超。分價最大量價199.5元，主成本區196.5-208元，目前正處成本區上緣，204.5-206已有短線解套壓力。若有效突破208，下一關看214-218；站穩218才可確認中期趨勢重新翻多。反之197-199為重要支撐，跌破190則築底結構失敗。財報結構偏多，但不宜忽略高CapEx與法人籌碼背離。",
     "predictions": {
-      "days1": 199,
-      "days7": 205,
-      "days30": 218,
+      "days1": 203,
+      "days7": 208,
+      "days30": 220,
       "days180": 245,
-      "days360": 260,
-      "entry_zone": "185-195",
-      "exit_zone": "225-245",
+      "days360": 275,
+      "entry_zone": "190-199",
+      "exit_zone": "240-270",
       "current_signal": "hold",
-      "model_name": "Gemini Pro Quant"
+      "model_name": "GPT-5.6 股神ww Risk-Adjusted"
     }
   },
   "ai_model": "Fact-Update",
@@ -258,9 +297,9 @@
         "period": "2026Q2",
         "gross_margin_pct": 34.23806735834204,
         "net_margin_pct": 26.796007344027416,
-        "opm_pct": 25.64471524378828,
         "eps": 2.55,
         "eps_ytd": 4.65,
+        "opm_pct": 25.64471524378828,
         "gross": 34.23806735834204,
         "net": 26.796007344027416,
         "opm": 25.64471524378828
@@ -269,9 +308,9 @@
         "period": "2026Q1",
         "gross_margin_pct": 31.658593034537162,
         "net_margin_pct": 26.06296526335833,
-        "opm_pct": 22.366208921571296,
         "eps": 2.1,
         "eps_ytd": 2.1,
+        "opm_pct": 22.366208921571296,
         "gross": 31.658593034537162,
         "net": 26.06296526335833,
         "opm": 22.366208921571296
@@ -280,9 +319,9 @@
         "period": "2025Q4",
         "gross_margin_pct": 29.709140682863662,
         "net_margin_pct": 24.010007474864135,
-        "opm_pct": 20.184372391317012,
         "eps": 2.2,
         "eps_ytd": 6.15,
+        "opm_pct": 20.184372391317012,
         "gross": 29.709140682863662,
         "net": 24.010007474864135,
         "opm": 20.184372391317012
@@ -291,9 +330,9 @@
         "period": "2025Q3",
         "gross_margin_pct": 27.219614519665857,
         "net_margin_pct": 23.02051752823859,
-        "opm_pct": 17.838210002645244,
         "eps": 1.68,
         "eps_ytd": 3.95,
+        "opm_pct": 17.838210002645244,
         "gross": 27.219614519665857,
         "net": 23.02051752823859,
         "opm": 17.838210002645244
@@ -302,9 +341,9 @@
         "period": "2025Q2",
         "gross_margin_pct": 31.439098437910673,
         "net_margin_pct": 8.99569927394905,
-        "opm_pct": 23.474782410716827,
         "eps": 0.7,
         "eps_ytd": 2.27,
+        "opm_pct": 23.474782410716827,
         "gross": 31.439098437910673,
         "net": 8.99569927394905,
         "opm": 23.474782410716827
@@ -313,9 +352,9 @@
         "period": "2025Q1",
         "gross_margin_pct": 28.477007930522703,
         "net_margin_pct": 23.07019429385732,
-        "opm_pct": 19.55771534860211,
         "eps": 1.57,
         "eps_ytd": 1.57,
+        "opm_pct": 19.55771534860211,
         "gross": 28.477007930522703,
         "net": 23.07019429385732,
         "opm": 19.55771534860211
@@ -324,9 +363,9 @@
         "period": "2024Q4",
         "gross_margin_pct": 26.111475545799955,
         "net_margin_pct": 20.59821451621854,
-        "opm_pct": 16.814250857686368,
         "eps": 1.63,
         "eps_ytd": 5.890000000000001,
+        "opm_pct": 16.814250857686368,
         "gross": 26.111475545799955,
         "net": 20.59821451621854,
         "opm": 16.814250857686368
@@ -335,9 +374,9 @@
         "period": "2024Q3",
         "gross_margin_pct": 26.451798650211387,
         "net_margin_pct": 15.940765525336978,
-        "opm_pct": 17.410947994823324,
         "eps": 1.02,
         "eps_ytd": 4.26,
+        "opm_pct": 17.410947994823324,
         "gross": 26.451798650211387,
         "net": 15.940765525336978,
         "opm": 17.410947994823324
@@ -585,8 +624,8 @@
         "deadline": "2026-05-15",
         "price_basis": "公告後3日",
         "avg_close_3d": 215.33333333333334,
-        "ttm_eps": 6.68,
-        "pe": 32.23552894211577
+        "ttm_eps": 6.680000000000001,
+        "pe": 32.235528942115764
       },
       {
         "period": "2025Q4",
@@ -617,8 +656,8 @@
         "deadline": "2025-05-15",
         "price_basis": "公告後3日",
         "avg_close_3d": 75.03333282470703,
-        "ttm_eps": 5.84,
-        "pe": 12.84817342888819
+        "ttm_eps": 5.840000000000001,
+        "pe": 12.848173428888188
       },
       {
         "period": "2024Q4",
@@ -640,7 +679,7 @@
     "capital_table": [
       {
         "report_date": "2026-06-30",
-        "capital_value_raw": 4839123000.0,
+        "capital_value_raw": 4839123000,
         "par_value": 10,
         "shares_lots": 4839123,
         "method": "股數口徑：CapitalStock/1000"
@@ -650,42 +689,42 @@
       {
         "date": "2026-08-27",
         "foreign_lots": -2246.447,
-        "it_lots": -21.0,
+        "it_lots": -21,
         "dealer_lots": -27.072,
         "sum_lots": -2294.5190000000002,
-        "pct_float": -0.04741600905783962
+        "pct_float": -0.4741600905783962
       },
       {
         "date": "2026-08-26",
         "foreign_lots": -658.733,
-        "it_lots": -7.0,
+        "it_lots": -7,
         "dealer_lots": 127.646,
         "sum_lots": -538.087,
-        "pct_float": -0.011119514837709229
+        "pct_float": -0.1111951483770923
       },
       {
         "date": "2026-08-25",
         "foreign_lots": -290.822,
-        "it_lots": 240.0,
+        "it_lots": 240,
         "dealer_lots": 8.445,
         "sum_lots": -42.377,
-        "pct_float": -0.0008757165296273727
+        "pct_float": -0.008757165296273725
       },
       {
         "date": "2026-08-24",
         "foreign_lots": -609.502,
-        "it_lots": -2.0,
+        "it_lots": -2,
         "dealer_lots": 19.373,
         "sum_lots": -592.1289999999999,
-        "pct_float": -0.012236287442993283
+        "pct_float": -0.12236287442993284
       },
       {
         "date": "2026-08-21",
         "foreign_lots": -862.87,
-        "it_lots": 6.0,
+        "it_lots": 6,
         "dealer_lots": 8.205,
         "sum_lots": -848.665,
-        "pct_float": -0.017537578606702083
+        "pct_float": -0.1753757860670208
       },
       {
         "date": "2026-08-20",
@@ -693,15 +732,15 @@
         "it_lots": -1666.871,
         "dealer_lots": -1.4319999999999986,
         "sum_lots": -1528.9620000000002,
-        "pct_float": -0.03159584908257137
+        "pct_float": -0.3159584908257137
       },
       {
         "date": "2026-08-19",
         "foreign_lots": 288.13,
-        "it_lots": -1585.0,
+        "it_lots": -1585,
         "dealer_lots": -206.47199999999998,
         "sum_lots": -1503.3419999999999,
-        "pct_float": -0.0310664143068899
+        "pct_float": -0.31066414306889906
       },
       {
         "date": "2026-08-18",
@@ -709,31 +748,31 @@
         "it_lots": -1037.544,
         "dealer_lots": -125.48,
         "sum_lots": -1903.8070000000002,
-        "pct_float": -0.039341984074387035
+        "pct_float": -0.39341984074387043
       },
       {
         "date": "2026-08-17",
         "foreign_lots": -97.473,
-        "it_lots": 89.0,
+        "it_lots": 89,
         "dealer_lots": -125.34,
         "sum_lots": -133.813,
-        "pct_float": -0.0027652324605098896
+        "pct_float": -0.027652324605098897
       },
       {
         "date": "2026-08-14",
         "foreign_lots": -481.033,
-        "it_lots": -7.0,
+        "it_lots": -7,
         "dealer_lots": 2.497,
         "sum_lots": -485.536,
-        "pct_float": -0.010033553600518112
+        "pct_float": -0.10033553600518111
       },
       {
         "date": "2026-08-13",
         "foreign_lots": -389.813,
-        "it_lots": -4.0,
+        "it_lots": -4,
         "dealer_lots": 69.952,
         "sum_lots": -323.861,
-        "pct_float": -0.0066925556552292625
+        "pct_float": -0.06692555655229264
       },
       {
         "date": "2026-08-12",
@@ -741,7 +780,7 @@
         "it_lots": 0.015,
         "dealer_lots": 102.975,
         "sum_lots": 365.76,
-        "pct_float": 0.007558394361953602
+        "pct_float": 0.07558394361953602
       },
       {
         "date": "2026-08-11",
@@ -749,7 +788,7 @@
         "it_lots": -43.602,
         "dealer_lots": -96.756,
         "sum_lots": -1777.4080000000001,
-        "pct_float": -0.03672996119338153
+        "pct_float": -0.36729961193381533
       },
       {
         "date": "2026-08-10",
@@ -757,15 +796,15 @@
         "it_lots": 14.269,
         "dealer_lots": 155.54,
         "sum_lots": -162.398,
-        "pct_float": -0.003355938669052223
+        "pct_float": -0.033559386690522226
       },
       {
         "date": "2026-08-07",
         "foreign_lots": -1894.357,
-        "it_lots": -85.0,
+        "it_lots": -85,
         "dealer_lots": -82.218,
         "sum_lots": -2061.575,
-        "pct_float": -0.04260224424962953
+        "pct_float": -0.4260224424962953
       }
     ],
     "c_score_data": {
@@ -773,7 +812,7 @@
       "dataset": "structure_c_score",
       "stock_id": "6257",
       "ticker": "6257.TW",
-      "asof": "2026-08-27",
+      "asof": "2026-08-28",
       "c_score": 1.358314882223507,
       "benchmark_pe": 47.3516978575416,
       "source": [
@@ -828,8 +867,7 @@
           "rev_growth": 21.648555471441444,
           "eps_growth": 264.2857142857143,
           "rt_weight": 0.9,
-          "deviation": 1.698242329309376,
-          "theo_price": 120.74682953673107
+          "deviation": 1.698242329309376
         },
         {
           "period": "2026Q1",
@@ -840,8 +878,7 @@
           "rev_growth": 11.344282878334933,
           "eps_growth": 33.757961783439484,
           "rt_weight": 0.9,
-          "deviation": 1.3136480003442197,
-          "theo_price": 99.43856550083737
+          "deviation": 1.3136480003442197
         },
         {
           "period": "2025Q4",
@@ -852,8 +889,7 @@
           "rev_growth": 4.706558108158676,
           "eps_growth": 34.96932515337426,
           "rt_weight": 0.9,
-          "deviation": 0.9328708908034283,
-          "theo_price": 104.17373528659154
+          "deviation": 0.9328708908034283
         },
         {
           "period": "2025Q3",
@@ -864,8 +900,7 @@
           "rev_growth": 7.196471409289429,
           "eps_growth": 64.70588235294117,
           "rt_weight": 0.9,
-          "deviation": 1.0377402963234117,
-          "theo_price": 79.55085240066988
+          "deviation": 1.0377402963234117
         },
         {
           "period": "2025Q2",
@@ -876,8 +911,7 @@
           "rev_growth": 5.131146180780277,
           "eps_growth": -56.790123456790134,
           "rt_weight": 1.1,
-          "deviation": 2.2301602298020637,
-          "theo_price": 33.146188500279116
+          "deviation": 2.2301602298020637
         },
         {
           "period": "2025Q1",
@@ -888,8 +922,7 @@
           "rev_growth": 16.19946772584795,
           "eps_growth": -3.0864197530864224,
           "rt_weight": 1.1,
-          "deviation": 1.0003621829781646,
-          "theo_price": 74.34216563634031
+          "deviation": 1.0003621829781646
         },
         {
           "period": "2024Q4",
@@ -900,8 +933,7 @@
           "rev_growth": 20.744174310103137,
           "eps_growth": 185.96491228070175,
           "rt_weight": 0.9,
-          "deviation": 0.9397407045542308,
-          "theo_price": 77.1832675077928
+          "deviation": 0.9397407045542308
         },
         {
           "period": "2024Q3",
@@ -912,8 +944,7 @@
           "rev_growth": 10.87322171861993,
           "eps_growth": -36.64596273291926,
           "rt_weight": 1.1,
-          "deviation": 1.5610518679289886,
-          "theo_price": 48.29873181469244
+          "deviation": 1.5610518679289886
         },
         {
           "period": "2024Q2",
@@ -924,8 +955,7 @@
           "rev_growth": 22.787744956739054,
           "eps_growth": 43.362831858407105,
           "rt_weight": 0.9,
-          "deviation": 0.9996378170218355,
-          "theo_price": 76.7097505292174
+          "deviation": 0.9996378170218355
         },
         {
           "period": "2024Q1",
@@ -936,8 +966,7 @@
           "rev_growth": 9.990504144115352,
           "eps_growth": 230.6122448979592,
           "rt_weight": 0.9,
-          "deviation": 0.8932325094713518,
-          "theo_price": 76.7097505292174
+          "deviation": 0.8932325094713518
         },
         {
           "period": "2023Q4",
@@ -948,8 +977,7 @@
           "rev_growth": -7.197593034813554,
           "eps_growth": 9.615384615384603,
           "rt_weight": 0.9,
-          "deviation": 2.3124566282229364,
-          "theo_price": 26.99046777879871
+          "deviation": 2.3124566282229364
         },
         {
           "period": "2023Q3",
@@ -960,8 +988,7 @@
           "rev_growth": -18.529144727085068,
           "eps_growth": -25.806451612903214,
           "rt_weight": 1.1,
-          "deviation": 0.7326433329731012,
-          "theo_price": 76.23623355064198
+          "deviation": 0.7326433329731012
         },
         {
           "period": "2023Q2",
@@ -972,8 +999,7 @@
           "rev_growth": -28.253887625267595,
           "eps_growth": -48.16513761467891,
           "rt_weight": 1.1,
-          "deviation": 1.017346652375343,
-          "theo_price": 53.50741857902201
+          "deviation": 1.017346652375343
         },
         {
           "period": "2023Q1",
@@ -984,8 +1010,7 @@
           "rev_growth": -16.454239845108376,
           "eps_growth": -73.07692307692308,
           "rt_weight": 1.1,
-          "deviation": 2.2811404384908185,
-          "theo_price": 23.202331950195383
+          "deviation": 2.2811404384908185
         },
         {
           "period": "2022Q4",
@@ -996,8 +1021,7 @@
           "rev_growth": 1.5179068628203618,
           "eps_growth": -65.56291390728477,
           "rt_weight": 1.1,
-          "deviation": 1.951912733589428,
-          "theo_price": 24.622882885921634
+          "deviation": 1.951912733589428
         },
         {
           "period": "2022Q3",
@@ -1008,8 +1032,7 @@
           "rev_growth": 212.97763504729414,
           "eps_growth": 13.020833333333325,
           "rt_weight": 1.1,
-          "deviation": 0.47901191869824516,
-          "theo_price": 102.75318435086527
+          "deviation": 0.47901191869824516
         },
         {
           "period": "2022Q2",
@@ -1019,9 +1042,8 @@
           "pe_ratio": 26.831102507475496,
           "rev_growth": null,
           "eps_growth": null,
-          "rt_weight": 1.0,
-          "deviation": 0.5666344338527698,
-          "theo_price": 103.2267013294407
+          "rt_weight": 1,
+          "deviation": 0.5666344338527698
         },
         {
           "period": "2022Q1",
@@ -1031,9 +1053,8 @@
           "pe_ratio": 32.05553377441933,
           "rev_growth": null,
           "eps_growth": null,
-          "rt_weight": 1.0,
-          "deviation": 0.6769669351848577,
-          "theo_price": 86.18009010072572
+          "rt_weight": 1,
+          "deviation": 0.6769669351848577
         },
         {
           "period": "2021Q4",
@@ -1043,21 +1064,19 @@
           "pe_ratio": 38.8410595868597,
           "rev_growth": null,
           "eps_growth": null,
-          "rt_weight": 1.0,
-          "deviation": 0.8202675161451167,
-          "theo_price": 71.50106376488782
+          "rt_weight": 1,
+          "deviation": 0.8202675161451167
         },
         {
           "period": "2021Q3",
-          "avg_price": 63.43478194527004,
+          "avg_price": 63.44999937577681,
           "eps": 1.92,
           "revenue_q": 15.89943,
-          "pe_ratio": 33.038948929828145,
+          "pe_ratio": 33.04687467488376,
           "rev_growth": null,
           "eps_growth": null,
-          "rt_weight": 1.0,
-          "deviation": 0.697735253954914,
-          "theo_price": 90.91525988647987
+          "rt_weight": 1,
+          "deviation": 0.6979026343322651
         }
       ],
       "notes": [
@@ -1072,17 +1091,17 @@
     "returns_table": [
       {
         "year": 2026,
-        "return_pct": 77.11607627175286,
-        "period": "01/02~08/26"
+        "return_pct": 77.11607627175285,
+        "period": "01/02~08/27"
       },
       {
         "year": 2025,
-        "return_pct": 80.20141861298539,
+        "return_pct": 80.2014186129854,
         "period": "01/02~12/31"
       },
       {
         "year": 2024,
-        "return_pct": 8.070991030838016,
+        "return_pct": 8.07099155829299,
         "period": "01/02~12/31"
       },
       {
@@ -1092,7 +1111,7 @@
       },
       {
         "year": 2022,
-        "return_pct": -10.094091700204933,
+        "return_pct": -10.094074820650514,
         "period": "01/03~12/30"
       }
     ],
@@ -1736,23 +1755,23 @@
         "inventory_structure_score": 0,
         "cashflow_score": 0,
         "capex_cycle_score": 2,
-        "profitability_score": 2,
+        "profitability_score": 3,
         "earnings_quality_score": 2,
         "utilization_asp_score": 2,
-        "historical_market_score": -2,
+        "historical_market_score": 0,
         "realtime_market_score": null,
         "governance_score": 0,
-        "financial_core_score": 6,
-        "quality_score": 6,
+        "financial_core_score": 7,
+        "quality_score": 7,
         "cash_and_capex_score": -2,
         "operating_structure_score": 2,
-        "market_replay_score": -2,
+        "market_replay_score": 0,
         "latest_market_score": null,
         "governance_adjustment": 0,
-        "integrated_structure_score": 4,
+        "integrated_structure_score": 7,
         "latest_integrated_score": null,
         "positive_evidence_count": 5,
-        "negative_evidence_count": 2,
+        "negative_evidence_count": 1,
         "missing_module_count": 1,
         "final_pattern": "project_volatility_case",
         "final_pattern_label": "專案型波動個案",
@@ -1762,7 +1781,7 @@
           "module_missing_5_3A",
           "module_missing_5G"
         ],
-        "final_summary": "【綜合結論】\n本季屬於「專案型波動個案」，系統建議策略為：require_manual_review。\n\n【財報核心】\n訂單:0 / 現金:-4 / 營運:2 / 存貨:0 / 現金流:0 / 擴產:2 / 獲利:2 / 業外:2 / 稼動率:2\n\n【現金流與擴產】\n現金流呈現「專案現金流波動」，資本支出呈現「有效擴產」\n\n【獲利品質】\n獲利趨勢為「正向獲利槓桿」，品質為「高品質本業獲利」，結構為「稼動率爬升」\n\n【營運與存貨】\n營運模式「主升前備貨」\n\n【市場確認】\n歷史回測分數:-2\n\n【風險訊號】\nmodule_missing_5_3A、module_missing_5G\n\n【限制】\n此為 5系列財報結構與市場確認綜合狀態，不等同買賣建議；仍需搭配股價位階、籌碼、產業題材、月營收更新與技術面判斷。"
+        "final_summary": "【綜合結論】\n本季屬於「專案型波動個案」，系統建議策略為：require_manual_review。\n\n【財報核心】\n訂單:0 / 現金:-4 / 營運:2 / 存貨:0 / 現金流:0 / 擴產:2 / 獲利:3 / 業外:2 / 稼動率:2\n\n【現金流與擴產】\n現金流呈現「專案現金流波動」，資本支出呈現「有效擴產」\n\n【獲利品質】\n獲利趨勢為「正向獲利槓桿」，品質為「高品質本業獲利」，結構為「稼動率爬升」\n\n【營運與存貨】\n營運模式「主升前備貨」\n\n【市場確認】\n歷史回測分數:0\n\n【風險訊號】\nmodule_missing_5_3A、module_missing_5G\n\n【限制】\n此為 5系列財報結構與市場確認綜合狀態，不等同買賣建議；仍需搭配股價位階、籌碼、產業題材、月營收更新與技術面判斷。"
       },
       {
         "period": "2026Q1",
@@ -1772,33 +1791,33 @@
         "inventory_structure_score": 0,
         "cashflow_score": 3,
         "capex_cycle_score": 0,
-        "profitability_score": 0,
+        "profitability_score": 1,
         "earnings_quality_score": 2,
         "utilization_asp_score": 2,
         "historical_market_score": 2,
         "realtime_market_score": null,
         "governance_score": 0,
-        "financial_core_score": 13,
-        "quality_score": 4,
+        "financial_core_score": 14,
+        "quality_score": 5,
         "cash_and_capex_score": 7,
         "operating_structure_score": 2,
         "market_replay_score": 2,
         "latest_market_score": null,
         "governance_adjustment": 0,
-        "integrated_structure_score": 15,
+        "integrated_structure_score": 16,
         "latest_integrated_score": null,
-        "positive_evidence_count": 6,
+        "positive_evidence_count": 7,
         "negative_evidence_count": 0,
         "missing_module_count": 1,
-        "final_pattern": "pre_rally_setup",
-        "final_pattern_label": "主升前整理",
+        "final_pattern": "high_quality_core_growth",
+        "final_pattern_label": "高品質本業成長",
         "final_confidence": "high",
-        "final_forward_hint": "monitor_next_revenue",
+        "final_forward_hint": "favorable",
         "final_warnings": [
           "module_missing_5_3A",
           "module_missing_5G"
         ],
-        "final_summary": "【綜合結論】\n本季屬於「主升前整理」，系統建議策略為：monitor_next_revenue。\n\n【財報核心】\n訂單:0 / 現金:4 / 營運:2 / 存貨:0 / 現金流:3 / 擴產:0 / 獲利:0 / 業外:2 / 稼動率:2\n\n【現金流與擴產】\n現金流呈現「高含金量獲利」，資本支出呈現「中性」\n\n【獲利品質】\n獲利趨勢為「中性」，品質為「高品質本業獲利」，結構為「稼動率爬升」\n\n【營運與存貨】\n營運模式「主升前備貨」\n\n【市場確認】\n歷史回測分數:2\n\n【風險訊號】\nmodule_missing_5_3A、module_missing_5G\n\n【限制】\n此為 5系列財報結構與市場確認綜合狀態，不等同買賣建議；仍需搭配股價位階、籌碼、產業題材、月營收更新與技術面判斷。"
+        "final_summary": "【綜合結論】\n本季屬於「高品質本業成長」，系統建議策略為：favorable。\n\n【財報核心】\n訂單:0 / 現金:4 / 營運:2 / 存貨:0 / 現金流:3 / 擴產:0 / 獲利:1 / 業外:2 / 稼動率:2\n\n【現金流與擴產】\n現金流呈現「高含金量獲利」，資本支出呈現「中性」\n\n【獲利品質】\n獲利趨勢為「中性」，品質為「高品質本業獲利」，結構為「稼動率爬升」\n\n【營運與存貨】\n營運模式「主升前備貨」\n\n【市場確認】\n歷史回測分數:2\n\n【風險訊號】\nmodule_missing_5_3A、module_missing_5G\n\n【限制】\n此為 5系列財報結構與市場確認綜合狀態，不等同買賣建議；仍需搭配股價位階、籌碼、產業題材、月營收更新與技術面判斷。"
       },
       {
         "period": "2025Q4",
@@ -1808,20 +1827,20 @@
         "inventory_structure_score": 0,
         "cashflow_score": 1,
         "capex_cycle_score": 0,
-        "profitability_score": 2,
+        "profitability_score": 3,
         "earnings_quality_score": 2,
         "utilization_asp_score": 2,
         "historical_market_score": 2,
         "realtime_market_score": null,
         "governance_score": 0,
-        "financial_core_score": 5,
-        "quality_score": 6,
+        "financial_core_score": 6,
+        "quality_score": 7,
         "cash_and_capex_score": -3,
         "operating_structure_score": 2,
         "market_replay_score": 2,
         "latest_market_score": null,
         "governance_adjustment": 0,
-        "integrated_structure_score": 7,
+        "integrated_structure_score": 8,
         "latest_integrated_score": null,
         "positive_evidence_count": 6,
         "negative_evidence_count": 1,
@@ -1834,7 +1853,7 @@
           "module_missing_5_3A",
           "module_missing_5G"
         ],
-        "final_summary": "【綜合結論】\n本季屬於「專案型波動個案」，系統建議策略為：require_manual_review。\n\n【財報核心】\n訂單:0 / 現金:-4 / 營運:2 / 存貨:0 / 現金流:1 / 擴產:0 / 獲利:2 / 業外:2 / 稼動率:2\n\n【現金流與擴產】\n現金流呈現「專案現金流波動」，資本支出呈現「中性」\n\n【獲利品質】\n獲利趨勢為「正向獲利槓桿」，品質為「高品質本業獲利」，結構為「稼動率爬升」\n\n【營運與存貨】\n營運模式「主升前備貨」\n\n【市場確認】\n歷史回測分數:2\n\n【風險訊號】\nmodule_missing_5_3A、module_missing_5G\n\n【限制】\n此為 5系列財報結構與市場確認綜合狀態，不等同買賣建議；仍需搭配股價位階、籌碼、產業題材、月營收更新與技術面判斷。"
+        "final_summary": "【綜合結論】\n本季屬於「專案型波動個案」，系統建議策略為：require_manual_review。\n\n【財報核心】\n訂單:0 / 現金:-4 / 營運:2 / 存貨:0 / 現金流:1 / 擴產:0 / 獲利:3 / 業外:2 / 稼動率:2\n\n【現金流與擴產】\n現金流呈現「專案現金流波動」，資本支出呈現「中性」\n\n【獲利品質】\n獲利趨勢為「正向獲利槓桿」，品質為「高品質本業獲利」，結構為「稼動率爬升」\n\n【營運與存貨】\n營運模式「主升前備貨」\n\n【市場確認】\n歷史回測分數:2\n\n【風險訊號】\nmodule_missing_5_3A、module_missing_5G\n\n【限制】\n此為 5系列財報結構與市場確認綜合狀態，不等同買賣建議；仍需搭配股價位階、籌碼、產業題材、月營收更新與技術面判斷。"
       },
       {
         "period": "2025Q3",
@@ -1844,22 +1863,22 @@
         "inventory_structure_score": 0,
         "cashflow_score": 1,
         "capex_cycle_score": 2,
-        "profitability_score": 0,
+        "profitability_score": 1,
         "earnings_quality_score": 1,
         "utilization_asp_score": -2,
         "historical_market_score": 0,
         "realtime_market_score": null,
         "governance_score": 0,
-        "financial_core_score": 0,
-        "quality_score": -1,
+        "financial_core_score": 1,
+        "quality_score": 0,
         "cash_and_capex_score": -1,
         "operating_structure_score": 2,
         "market_replay_score": 0,
         "latest_market_score": null,
         "governance_adjustment": 0,
-        "integrated_structure_score": 0,
+        "integrated_structure_score": 1,
         "latest_integrated_score": null,
-        "positive_evidence_count": 4,
+        "positive_evidence_count": 5,
         "negative_evidence_count": 2,
         "missing_module_count": 1,
         "final_pattern": "project_volatility_case",
@@ -1872,7 +1891,7 @@
           "fcf_negative_but_expansion",
           "price_competition_pressure"
         ],
-        "final_summary": "【綜合結論】\n本季屬於「專案型波動個案」，系統建議策略為：require_manual_review。\n\n【財報核心】\n訂單:0 / 現金:-4 / 營運:2 / 存貨:0 / 現金流:1 / 擴產:2 / 獲利:0 / 業外:1 / 稼動率:-2\n\n【現金流與擴產】\n現金流呈現「專案現金流波動」，資本支出呈現「擴張型負自由現金流」，自由現金流為負，但主要可能來自擴張型資本支出，不宜直接視為營運惡化。\n\n【獲利品質】\n獲利趨勢為「專案獲利波動」，品質為「本業與業外平衡」，結構為「價格競爭壓力」\n\n【營運與存貨】\n營運模式「健康主升」\n\n【市場確認】\n歷史回測分數:0\n\n【風險訊號】\nmodule_missing_5_3A、module_missing_5G、fcf_negative_but_expansion、price_competition_pressure\n\n【限制】\n此為 5系列財報結構與市場確認綜合狀態，不等同買賣建議；仍需搭配股價位階、籌碼、產業題材、月營收更新與技術面判斷。"
+        "final_summary": "【綜合結論】\n本季屬於「專案型波動個案」，系統建議策略為：require_manual_review。\n\n【財報核心】\n訂單:0 / 現金:-4 / 營運:2 / 存貨:0 / 現金流:1 / 擴產:2 / 獲利:1 / 業外:1 / 稼動率:-2\n\n【現金流與擴產】\n現金流呈現「專案現金流波動」，資本支出呈現「擴張型負自由現金流」，自由現金流為負，但主要可能來自擴張型資本支出，不宜直接視為營運惡化。\n\n【獲利品質】\n獲利趨勢為「專案獲利波動」，品質為「本業與業外平衡」，結構為「價格競爭壓力」\n\n【營運與存貨】\n營運模式「健康主升」\n\n【市場確認】\n歷史回測分數:0\n\n【風險訊號】\nmodule_missing_5_3A、module_missing_5G、fcf_negative_but_expansion、price_competition_pressure\n\n【限制】\n此為 5系列財報結構與市場確認綜合狀態，不等同買賣建議；仍需搭配股價位階、籌碼、產業題材、月營收更新與技術面判斷。"
       },
       {
         "period": "2025Q2",
@@ -1882,20 +1901,20 @@
         "inventory_structure_score": 0,
         "cashflow_score": -1,
         "capex_cycle_score": 0,
-        "profitability_score": -2,
+        "profitability_score": -1,
         "earnings_quality_score": 2,
         "utilization_asp_score": 2,
         "historical_market_score": 0,
         "realtime_market_score": null,
         "governance_score": 0,
-        "financial_core_score": 7,
-        "quality_score": 2,
+        "financial_core_score": 8,
+        "quality_score": 3,
         "cash_and_capex_score": 3,
         "operating_structure_score": 2,
         "market_replay_score": 0,
         "latest_market_score": null,
         "governance_adjustment": 0,
-        "integrated_structure_score": 7,
+        "integrated_structure_score": 8,
         "latest_integrated_score": null,
         "positive_evidence_count": 4,
         "negative_evidence_count": 2,
@@ -1909,7 +1928,7 @@
           "module_missing_5G",
           "weak_cashflow"
         ],
-        "final_summary": "【綜合結論】\n本季屬於「主升前整理」，系統建議策略為：monitor_next_revenue。\n\n【財報核心】\n訂單:0 / 現金:4 / 營運:2 / 存貨:0 / 現金流:-1 / 擴產:0 / 獲利:-2 / 業外:2 / 稼動率:2\n\n【現金流與擴產】\n現金流呈現「現金流轉弱」，資本支出呈現「中性」\n\n【獲利品質】\n獲利趨勢為「EPS 惡化」，品質為「高品質本業獲利」，結構為「稼動率爬升」\n\n【營運與存貨】\n營運模式「主升前備貨」\n\n【市場確認】\n歷史回測分數:0\n\n【風險訊號】\nmodule_missing_5_3A、module_missing_5G、weak_cashflow\n\n【限制】\n此為 5系列財報結構與市場確認綜合狀態，不等同買賣建議；仍需搭配股價位階、籌碼、產業題材、月營收更新與技術面判斷。"
+        "final_summary": "【綜合結論】\n本季屬於「主升前整理」，系統建議策略為：monitor_next_revenue。\n\n【財報核心】\n訂單:0 / 現金:4 / 營運:2 / 存貨:0 / 現金流:-1 / 擴產:0 / 獲利:-1 / 業外:2 / 稼動率:2\n\n【現金流與擴產】\n現金流呈現「現金流轉弱」，資本支出呈現「中性」\n\n【獲利品質】\n獲利趨勢為「EPS 惡化」，品質為「高品質本業獲利」，結構為「稼動率爬升」\n\n【營運與存貨】\n營運模式「主升前備貨」\n\n【市場確認】\n歷史回測分數:0\n\n【風險訊號】\nmodule_missing_5_3A、module_missing_5G、weak_cashflow\n\n【限制】\n此為 5系列財報結構與市場確認綜合狀態，不等同買賣建議；仍需搭配股價位階、籌碼、產業題材、月營收更新與技術面判斷。"
       },
       {
         "period": "2025Q1",
@@ -1919,20 +1938,20 @@
         "inventory_structure_score": 0,
         "cashflow_score": 3,
         "capex_cycle_score": 0,
-        "profitability_score": 2,
+        "profitability_score": 3,
         "earnings_quality_score": 2,
         "utilization_asp_score": 1,
         "historical_market_score": 1,
         "realtime_market_score": null,
         "governance_score": 0,
-        "financial_core_score": 11,
-        "quality_score": 5,
+        "financial_core_score": 12,
+        "quality_score": 6,
         "cash_and_capex_score": 7,
         "operating_structure_score": -1,
         "market_replay_score": 1,
         "latest_market_score": null,
         "governance_adjustment": 0,
-        "integrated_structure_score": 12,
+        "integrated_structure_score": 13,
         "latest_integrated_score": null,
         "positive_evidence_count": 6,
         "negative_evidence_count": 1,
@@ -1946,7 +1965,7 @@
           "module_missing_5G",
           "inventory_pressure"
         ],
-        "final_summary": "【綜合結論】\n本季屬於「高品質本業成長」，系統建議策略為：favorable。\n\n【財報核心】\n訂單:0 / 現金:4 / 營運:-1 / 存貨:0 / 現金流:3 / 擴產:0 / 獲利:2 / 業外:2 / 稼動率:1\n\n【現金流與擴產】\n現金流呈現「高含金量獲利」，資本支出呈現「中性」\n\n【獲利品質】\n獲利趨勢為「毛利擴張」，品質為「高品質本業獲利」，結構為「利潤率修復」\n\n【營運與存貨】\n營運模式「庫存壓力」\n\n【市場確認】\n歷史回測分數:1\n\n【風險訊號】\nmodule_missing_5_3A、module_missing_5G、inventory_pressure\n\n【限制】\n此為 5系列財報結構與市場確認綜合狀態，不等同買賣建議；仍需搭配股價位階、籌碼、產業題材、月營收更新與技術面判斷。"
+        "final_summary": "【綜合結論】\n本季屬於「高品質本業成長」，系統建議策略為：favorable。\n\n【財報核心】\n訂單:0 / 現金:4 / 營運:-1 / 存貨:0 / 現金流:3 / 擴產:0 / 獲利:3 / 業外:2 / 稼動率:1\n\n【現金流與擴產】\n現金流呈現「高含金量獲利」，資本支出呈現「中性」\n\n【獲利品質】\n獲利趨勢為「毛利擴張」，品質為「高品質本業獲利」，結構為「利潤率修復」\n\n【營運與存貨】\n營運模式「庫存壓力」\n\n【市場確認】\n歷史回測分數:1\n\n【風險訊號】\nmodule_missing_5_3A、module_missing_5G、inventory_pressure\n\n【限制】\n此為 5系列財報結構與市場確認綜合狀態，不等同買賣建議；仍需搭配股價位階、籌碼、產業題材、月營收更新與技術面判斷。"
       },
       {
         "period": "2024Q4",
@@ -1956,20 +1975,20 @@
         "inventory_structure_score": 0,
         "cashflow_score": 1,
         "capex_cycle_score": 0,
-        "profitability_score": -2,
+        "profitability_score": -1,
         "earnings_quality_score": 2,
         "utilization_asp_score": -2,
         "historical_market_score": 0,
         "realtime_market_score": null,
         "governance_score": 0,
-        "financial_core_score": -3,
-        "quality_score": -2,
+        "financial_core_score": -2,
+        "quality_score": -1,
         "cash_and_capex_score": -3,
         "operating_structure_score": 2,
         "market_replay_score": 0,
         "latest_market_score": null,
         "governance_adjustment": 0,
-        "integrated_structure_score": -3,
+        "integrated_structure_score": -2,
         "latest_integrated_score": null,
         "positive_evidence_count": 3,
         "negative_evidence_count": 3,
@@ -1983,21 +2002,19 @@
           "module_missing_5G",
           "price_competition_pressure"
         ],
-        "final_summary": "【綜合結論】\n本季屬於「專案型波動個案」，系統建議策略為：require_manual_review。\n\n【財報核心】\n訂單:0 / 現金:-4 / 營運:2 / 存貨:0 / 現金流:1 / 擴產:0 / 獲利:-2 / 業外:2 / 稼動率:-2\n\n【現金流與擴產】\n現金流呈現「專案現金流波動」，資本支出呈現「中性」\n\n【獲利品質】\n獲利趨勢為「獲利擠壓」，品質為「高品質本業獲利」，結構為「價格競爭壓力」\n\n【營運與存貨】\n營運模式「健康主升」\n\n【市場確認】\n歷史回測分數:0\n\n【風險訊號】\nmodule_missing_5_3A、module_missing_5G、price_competition_pressure\n\n【限制】\n此為 5系列財報結構與市場確認綜合狀態，不等同買賣建議；仍需搭配股價位階、籌碼、產業題材、月營收更新與技術面判斷。"
+        "final_summary": "【綜合結論】\n本季屬於「專案型波動個案」，系統建議策略為：require_manual_review。\n\n【財報核心】\n訂單:0 / 現金:-4 / 營運:2 / 存貨:0 / 現金流:1 / 擴產:0 / 獲利:-1 / 業外:2 / 稼動率:-2\n\n【現金流與擴產】\n現金流呈現「專案現金流波動」，資本支出呈現「中性」\n\n【獲利品質】\n獲利趨勢為「獲利擠壓」，品質為「高品質本業獲利」，結構為「價格競爭壓力」\n\n【營運與存貨】\n營運模式「健康主升」\n\n【市場確認】\n歷史回測分數:0\n\n【風險訊號】\nmodule_missing_5_3A、module_missing_5G、price_competition_pressure\n\n【限制】\n此為 5系列財報結構與市場確認綜合狀態，不等同買賣建議；仍需搭配股價位階、籌碼、產業題材、月營收更新與技術面判斷。"
       }
     ],
     "facilities_data": [],
     "kline_data": [
       {
         "date": "2026-03-09",
-        "symbol": "6257.TW",
         "open": 119.5,
-        "high": 122.0,
-        "low": 118.0,
-        "close": 118.0,
-        "volume": 8937371.0,
-        "adjclose": 116.16313934326172,
-        "dividends": 0.0,
+        "high": 122,
+        "low": 118,
+        "close": 118,
+        "volume": 8937371,
+        "volume_lot": 8937.371,
         "MA5": 128.9,
         "MA20": 129.775,
         "MA60": 118.71499989827474,
@@ -2006,19 +2023,16 @@
         "bb_dn": 116.19753705584304,
         "DIF": 1.304179597917113,
         "DEA": 2.861017719957692,
-        "HIST": -3.113676244081158,
-        "volume_lot": 8937.371
+        "HIST": -3.113676244081158
       },
       {
         "date": "2026-03-10",
-        "symbol": "6257.TW",
         "open": 123.5,
-        "high": 129.0,
+        "high": 129,
         "low": 121.5,
         "close": 125.5,
-        "volume": 10286701.0,
-        "adjclose": 123.54638671875,
-        "dividends": 0.0,
+        "volume": 10286701,
+        "volume_lot": 10286.701,
         "MA5": 126.8,
         "MA20": 129.475,
         "MA60": 119.29499994913736,
@@ -2027,19 +2041,16 @@
         "bb_dn": 115.79846900709262,
         "DIF": 0.8320037196372141,
         "DEA": 2.455214919893596,
-        "HIST": -3.246422400512764,
-        "volume_lot": 10286.701
+        "HIST": -3.246422400512764
       },
       {
         "date": "2026-03-11",
-        "symbol": "6257.TW",
-        "open": 129.0,
-        "high": 133.0,
-        "low": 129.0,
+        "open": 129,
+        "high": 133,
+        "low": 129,
         "close": 131.5,
-        "volume": 7069130.0,
-        "adjclose": 129.45298767089844,
-        "dividends": 0.0,
+        "volume": 7069130,
+        "volume_lot": 7069.13,
         "MA5": 127.8,
         "MA20": 129.55,
         "MA60": 119.95999997456867,
@@ -2048,19 +2059,16 @@
         "bb_dn": 115.84635085096106,
         "DIF": 0.931216308225487,
         "DEA": 2.1504151975599743,
-        "HIST": -2.438397778668975,
-        "volume_lot": 7069.13
+        "HIST": -2.438397778668975
       },
       {
         "date": "2026-03-12",
-        "symbol": "6257.TW",
         "open": 130.5,
         "high": 132.5,
-        "low": 129.0,
+        "low": 129,
         "close": 129.5,
-        "volume": 4120687.0,
-        "adjclose": 127.48411560058594,
-        "dividends": 0.0,
+        "volume": 4120687,
+        "volume_lot": 4120.687,
         "MA5": 127.1,
         "MA20": 129.75,
         "MA60": 120.57999992370604,
@@ -2069,19 +2077,16 @@
         "bb_dn": 116.17244499182728,
         "DIF": 0.8387906575954958,
         "DEA": 1.8880902895670788,
-        "HIST": -2.098599263943166,
-        "volume_lot": 4120.687
+        "HIST": -2.098599263943166
       },
       {
         "date": "2026-03-13",
-        "symbol": "6257.TW",
-        "open": 127.0,
-        "high": 133.0,
-        "low": 127.0,
-        "close": 131.0,
-        "volume": 5965720.0,
-        "adjclose": 128.9607696533203,
-        "dividends": 0.0,
+        "open": 127,
+        "high": 133,
+        "low": 127,
+        "close": 131,
+        "volume": 5965720,
+        "volume_lot": 5965.72,
         "MA5": 127.1,
         "MA20": 129.975,
         "MA60": 121.24333330790202,
@@ -2090,19 +2095,16 @@
         "bb_dn": 116.47138937172892,
         "DIF": 0.8764766503201997,
         "DEA": 1.6857675617177033,
-        "HIST": -1.618581822795007,
-        "volume_lot": 5965.72
+        "HIST": -1.618581822795007
       },
       {
         "date": "2026-03-16",
-        "symbol": "6257.TW",
-        "open": 132.0,
+        "open": 132,
         "high": 132.5,
         "low": 128.5,
-        "close": 130.0,
-        "volume": 5548716.0,
-        "adjclose": 127.97633361816406,
-        "dividends": 0.0,
+        "close": 130,
+        "volume": 5548716,
+        "volume_lot": 5548.716,
         "MA5": 129.5,
         "MA20": 130.05,
         "MA60": 121.74333330790202,
@@ -2111,19 +2113,16 @@
         "bb_dn": 116.56333992420824,
         "DIF": 0.8162422953287773,
         "DEA": 1.5118625084399182,
-        "HIST": -1.3912404262222815,
-        "volume_lot": 5548.716
+        "HIST": -1.3912404262222815
       },
       {
         "date": "2026-03-17",
-        "symbol": "6257.TW",
         "open": 132.5,
         "high": 132.5,
-        "low": 130.0,
+        "low": 130,
         "close": 132.5,
-        "volume": 4495512.0,
-        "adjclose": 130.4374237060547,
-        "dividends": 0.0,
+        "volume": 4495512,
+        "volume_lot": 4495.512,
         "MA5": 130.9,
         "MA20": 130.5,
         "MA60": 122.34666659037272,
@@ -2132,19 +2131,16 @@
         "bb_dn": 117.3204704181084,
         "DIF": 0.9591784297904552,
         "DEA": 1.4013256927100255,
-        "HIST": -0.8842945258391408,
-        "volume_lot": 4495.512
+        "HIST": -0.8842945258391408
       },
       {
         "date": "2026-03-18",
-        "symbol": "6257.TW",
-        "open": 135.0,
+        "open": 135,
         "high": 139.5,
-        "low": 134.0,
+        "low": 134,
         "close": 136.5,
-        "volume": 11540209.0,
-        "adjclose": 134.37515258789062,
-        "dividends": 0.0,
+        "volume": 11540209,
+        "volume_lot": 11540.209,
         "MA5": 131.9,
         "MA20": 131.3,
         "MA60": 122.9783332824707,
@@ -2153,19 +2149,16 @@
         "bb_dn": 118.7166777042009,
         "DIF": 1.3793229404964222,
         "DEA": 1.396925142267305,
-        "HIST": -0.0352044035417655,
-        "volume_lot": 11540.209
+        "HIST": -0.0352044035417655
       },
       {
         "date": "2026-03-19",
-        "symbol": "6257.TW",
-        "open": 134.0,
-        "high": 137.0,
+        "open": 134,
+        "high": 137,
         "low": 133.5,
         "close": 134.5,
-        "volume": 4486061.0,
-        "adjclose": 132.40628051757812,
-        "dividends": 0.0,
+        "volume": 4486061,
+        "volume_lot": 4486.061,
         "MA5": 132.9,
         "MA20": 131.7,
         "MA60": 123.5033332824707,
@@ -2174,40 +2167,34 @@
         "bb_dn": 119.24447913574248,
         "DIF": 1.533233050701995,
         "DEA": 1.424186723954243,
-        "HIST": 0.2180926534955034,
-        "volume_lot": 4486.061
+        "HIST": 0.2180926534955034
       },
       {
         "date": "2026-03-20",
-        "symbol": "6257.TW",
-        "open": 137.0,
-        "high": 137.0,
-        "low": 131.0,
+        "open": 137,
+        "high": 137,
+        "low": 131,
         "close": 132.5,
-        "volume": 4636504.0,
-        "adjclose": 130.4374237060547,
-        "dividends": 0.0,
+        "volume": 4636504,
+        "volume_lot": 4636.504,
         "MA5": 133.2,
-        "MA20": 132.0,
+        "MA20": 132,
         "MA60": 124.0033332824707,
-        "bb_mid": 132.0,
+        "bb_mid": 132,
         "bb_up": 144.2270192606356,
         "bb_dn": 119.7729807393644,
         "DIF": 1.4768009940174809,
         "DEA": 1.4347095779668906,
-        "HIST": 0.0841828321011801,
-        "volume_lot": 4636.504
+        "HIST": 0.0841828321011801
       },
       {
         "date": "2026-03-23",
-        "symbol": "6257.TW",
-        "open": 128.0,
+        "open": 128,
         "high": 128.5,
-        "low": 125.0,
+        "low": 125,
         "close": 125.5,
-        "volume": 4072378.0,
-        "adjclose": 123.54638671875,
-        "dividends": 0.0,
+        "volume": 4072378,
+        "volume_lot": 4072.378,
         "MA5": 132.3,
         "MA20": 131.9,
         "MA60": 124.45999997456867,
@@ -2216,19 +2203,16 @@
         "bb_dn": 119.4959683973333,
         "DIF": 0.8573536448313632,
         "DEA": 1.3192383913397852,
-        "HIST": -0.923769493016844,
-        "volume_lot": 4072.378
+        "HIST": -0.923769493016844
       },
       {
         "date": "2026-03-24",
-        "symbol": "6257.TW",
-        "open": 129.0,
-        "high": 131.0,
+        "open": 129,
+        "high": 131,
         "low": 125.5,
         "close": 126.5,
-        "volume": 3659907.0,
-        "adjclose": 124.53082275390624,
-        "dividends": 0.0,
+        "volume": 3659907,
+        "volume_lot": 3659.907,
         "MA5": 131.1,
         "MA20": 131.775,
         "MA60": 124.95999997456867,
@@ -2237,19 +2221,16 @@
         "bb_dn": 119.20728342140252,
         "DIF": 0.442033315470951,
         "DEA": 1.1437973761660185,
-        "HIST": -1.4035281213901345,
-        "volume_lot": 3659.907
+        "HIST": -1.4035281213901345
       },
       {
         "date": "2026-03-25",
-        "symbol": "6257.TW",
-        "open": 132.0,
+        "open": 132,
         "high": 138.5,
         "low": 130.5,
-        "close": 137.0,
-        "volume": 9695901.0,
-        "adjclose": 134.86737060546875,
-        "dividends": 0.0,
+        "close": 137,
+        "volume": 9695901,
+        "volume_lot": 9695.901,
         "MA5": 131.2,
         "MA20": 132.075,
         "MA60": 125.63499997456869,
@@ -2258,19 +2239,16 @@
         "bb_dn": 119.31069430012136,
         "DIF": 0.9492093159381908,
         "DEA": 1.1048797641204529,
-        "HIST": -0.3113408963645239,
-        "volume_lot": 9695.901
+        "HIST": -0.3113408963645239
       },
       {
         "date": "2026-03-26",
-        "symbol": "6257.TW",
         "open": 139.5,
         "high": 150.5,
-        "low": 137.0,
-        "close": 146.0,
-        "volume": 26942904.0,
-        "adjclose": 143.72726440429688,
-        "dividends": 0.0,
+        "low": 137,
+        "close": 146,
+        "volume": 26942904,
+        "volume_lot": 26942.904,
         "MA5": 133.5,
         "MA20": 132.525,
         "MA60": 126.48333333333332,
@@ -2279,19 +2257,16 @@
         "bb_dn": 118.52330367419884,
         "DIF": 2.0537009480314907,
         "DEA": 1.2946440009026603,
-        "HIST": 1.5181138942576604,
-        "volume_lot": 26942.904
+        "HIST": 1.5181138942576604
       },
       {
         "date": "2026-03-27",
-        "symbol": "6257.TW",
         "open": 142.5,
         "high": 148.5,
         "low": 137.5,
-        "close": 146.0,
-        "volume": 15545239.0,
-        "adjclose": 143.72726440429688,
-        "dividends": 0.0,
+        "close": 146,
+        "volume": 15545239,
+        "volume_lot": 15545.239,
         "MA5": 136.2,
         "MA20": 132.3,
         "MA60": 127.29499994913736,
@@ -2300,19 +2275,16 @@
         "bb_dn": 119.3562756518862,
         "DIF": 2.895639395420432,
         "DEA": 1.6148430798062148,
-        "HIST": 2.5615926312284336,
-        "volume_lot": 15545.239
+        "HIST": 2.5615926312284336
       },
       {
         "date": "2026-03-30",
-        "symbol": "6257.TW",
         "open": 141.5,
         "high": 149.5,
         "low": 138.5,
-        "close": 148.0,
-        "volume": 12979420.0,
-        "adjclose": 145.69613647460938,
-        "dividends": 0.0,
+        "close": 148,
+        "volume": 12979420,
+        "volume_lot": 12979.42,
         "MA5": 140.7,
         "MA20": 132.85,
         "MA60": 128.0783332824707,
@@ -2321,19 +2293,16 @@
         "bb_dn": 118.3169342532295,
         "DIF": 3.681823200122096,
         "DEA": 2.0282391038693914,
-        "HIST": 3.3071681925054097,
-        "volume_lot": 12979.42
+        "HIST": 3.3071681925054097
       },
       {
         "date": "2026-03-31",
-        "symbol": "6257.TW",
-        "open": 147.0,
-        "high": 162.0,
+        "open": 147,
+        "high": 162,
         "low": 146.5,
         "close": 149.5,
-        "volume": 43137261.0,
-        "adjclose": 147.17279052734375,
-        "dividends": 0.0,
+        "volume": 43137261,
+        "volume_lot": 43137.261,
         "MA5": 145.3,
         "MA20": 133.525,
         "MA60": 128.925,
@@ -2342,40 +2311,34 @@
         "bb_dn": 117.3124277179729,
         "DIF": 4.375479192978133,
         "DEA": 2.49768712169114,
-        "HIST": 3.755584142573987,
-        "volume_lot": 43137.261
+        "HIST": 3.755584142573987
       },
       {
         "date": "2026-04-01",
-        "symbol": "6257.TW",
-        "open": 161.0,
-        "high": 161.0,
+        "open": 161,
+        "high": 161,
         "low": 152.5,
-        "close": 156.0,
-        "volume": 27825901.0,
-        "adjclose": 153.5716094970703,
-        "dividends": 0.0,
+        "close": 156,
+        "volume": 27825901,
+        "volume_lot": 27825.901,
         "MA5": 149.1,
-        "MA20": 135.0,
+        "MA20": 135,
         "MA60": 129.84166666666667,
-        "bb_mid": 135.0,
+        "bb_mid": 135,
         "bb_up": 153.58224959470604,
         "bb_dn": 116.41775040529394,
         "DIF": 5.387597373216039,
         "DEA": 3.07566917199612,
-        "HIST": 4.623856402439838,
-        "volume_lot": 27825.901
+        "HIST": 4.623856402439838
       },
       {
         "date": "2026-04-02",
-        "symbol": "6257.TW",
-        "open": 157.0,
-        "high": 159.0,
+        "open": 157,
+        "high": 159,
         "low": 150.5,
-        "close": 151.0,
-        "volume": 16066842.0,
-        "adjclose": 148.64942932128906,
-        "dividends": 0.0,
+        "close": 151,
+        "volume": 16066842,
+        "volume_lot": 16066.842,
         "MA5": 150.1,
         "MA20": 135.9,
         "MA60": 130.53333333333333,
@@ -2384,19 +2347,16 @@
         "bb_dn": 116.08939677849378,
         "DIF": 5.720309937525315,
         "DEA": 3.60459732510196,
-        "HIST": 4.23142522484671,
-        "volume_lot": 16066.842
+        "HIST": 4.23142522484671
       },
       {
         "date": "2026-04-07",
-        "symbol": "6257.TW",
-        "open": 154.0,
-        "high": 161.0,
-        "low": 153.0,
-        "close": 155.0,
-        "volume": 19836648.0,
-        "adjclose": 152.58717346191406,
-        "dividends": 0.0,
+        "open": 154,
+        "high": 161,
+        "low": 153,
+        "close": 155,
+        "volume": 19836648,
+        "volume_lot": 19836.648,
         "MA5": 151.9,
         "MA20": 137.1,
         "MA60": 131.3,
@@ -2405,19 +2365,16 @@
         "bb_dn": 115.77255289538964,
         "DIF": 6.23488177637131,
         "DEA": 4.13065421535583,
-        "HIST": 4.20845512203096,
-        "volume_lot": 19836.648
+        "HIST": 4.20845512203096
       },
       {
         "date": "2026-04-08",
-        "symbol": "6257.TW",
-        "open": 161.0,
+        "open": 161,
         "high": 170.5,
         "low": 157.5,
         "close": 170.5,
-        "volume": 27017496.0,
-        "adjclose": 167.84588623046875,
-        "dividends": 0.0,
+        "volume": 27017496,
+        "volume_lot": 27017.496,
         "MA5": 156.4,
         "MA20": 139.725,
         "MA60": 132.225,
@@ -2426,40 +2383,34 @@
         "bb_dn": 115.69486267205382,
         "DIF": 7.803450803656688,
         "DEA": 4.865213533016002,
-        "HIST": 5.876474541281372,
-        "volume_lot": 27017.496
+        "HIST": 5.876474541281372
       },
       {
         "date": "2026-04-09",
-        "symbol": "6257.TW",
         "open": 172.5,
-        "high": 175.0,
-        "low": 167.0,
-        "close": 171.0,
-        "volume": 28459894.0,
-        "adjclose": 168.33810424804688,
-        "dividends": 0.0,
+        "high": 175,
+        "low": 167,
+        "close": 171,
+        "volume": 28459894,
+        "volume_lot": 28459.894,
         "MA5": 160.7,
-        "MA20": 142.0,
+        "MA20": 142,
         "MA60": 133.13333333333333,
-        "bb_mid": 142.0,
+        "bb_mid": 142,
         "bb_up": 168.68145423323008,
         "bb_dn": 115.31854576676992,
         "DIF": 8.983344476844309,
         "DEA": 5.688839721781664,
-        "HIST": 6.58900951012529,
-        "volume_lot": 28459.894
+        "HIST": 6.58900951012529
       },
       {
         "date": "2026-04-10",
-        "symbol": "6257.TW",
         "open": 177.5,
         "high": 180.5,
         "low": 171.5,
-        "close": 176.0,
-        "volume": 15450049.0,
-        "adjclose": 173.26026916503906,
-        "dividends": 0.0,
+        "close": 176,
+        "volume": 15450049,
+        "volume_lot": 15450.049,
         "MA5": 164.7,
         "MA20": 144.225,
         "MA60": 134.11666666666667,
@@ -2468,19 +2419,16 @@
         "bb_dn": 114.2042155332351,
         "DIF": 10.204248699691078,
         "DEA": 6.591921517363547,
-        "HIST": 7.224654364655063,
-        "volume_lot": 15450.049
+        "HIST": 7.224654364655063
       },
       {
         "date": "2026-04-13",
-        "symbol": "6257.TW",
         "open": 175.5,
-        "high": 181.0,
+        "high": 181,
         "low": 172.5,
         "close": 179.5,
-        "volume": 17126554.0,
-        "adjclose": 176.70578002929688,
-        "dividends": 0.0,
+        "volume": 17126554,
+        "volume_lot": 17126.554,
         "MA5": 170.4,
         "MA20": 146.725,
         "MA60": 135.225,
@@ -2489,19 +2437,16 @@
         "bb_dn": 113.835069930145,
         "DIF": 11.323712136967714,
         "DEA": 7.53827964128438,
-        "HIST": 7.570864991366667,
-        "volume_lot": 17126.554
+        "HIST": 7.570864991366667
       },
       {
         "date": "2026-04-14",
-        "symbol": "6257.TW",
         "open": 185.5,
-        "high": 191.0,
-        "low": 179.0,
-        "close": 182.0,
-        "volume": 19821939.0,
-        "adjclose": 179.1668701171875,
-        "dividends": 0.0,
+        "high": 191,
+        "low": 179,
+        "close": 182,
+        "volume": 19821939,
+        "volume_lot": 19821.939,
         "MA5": 175.8,
         "MA20": 149.275,
         "MA60": 136.325,
@@ -2510,19 +2455,16 @@
         "bb_dn": 113.84693908778029,
         "DIF": 12.271169677432653,
         "DEA": 8.484857648514035,
-        "HIST": 7.572624057837235,
-        "volume_lot": 19821.939
+        "HIST": 7.572624057837235
       },
       {
         "date": "2026-04-15",
-        "symbol": "6257.TW",
         "open": 181.5,
         "high": 184.5,
         "low": 174.5,
-        "close": 179.0,
-        "volume": 17405660.0,
-        "adjclose": 176.2135772705078,
-        "dividends": 0.0,
+        "close": 179,
+        "volume": 17405660,
+        "volume_lot": 17405.66,
         "MA5": 177.5,
         "MA20": 151.725,
         "MA60": 137.36666666666667,
@@ -2531,19 +2473,16 @@
         "bb_dn": 115.20723035288228,
         "DIF": 12.634321087455817,
         "DEA": 9.314750336302392,
-        "HIST": 6.639141502306849,
-        "volume_lot": 17405.66
+        "HIST": 6.639141502306849
       },
       {
         "date": "2026-04-16",
-        "symbol": "6257.TW",
-        "open": 178.0,
-        "high": 180.0,
+        "open": 178,
+        "high": 180,
         "low": 172.5,
-        "close": 180.0,
-        "volume": 17677938.0,
-        "adjclose": 177.197998046875,
-        "dividends": 0.0,
+        "close": 180,
+        "volume": 17677938,
+        "volume_lot": 17677.938,
         "MA5": 179.3,
         "MA20": 154.1,
         "MA60": 138.45,
@@ -2552,19 +2491,16 @@
         "bb_dn": 116.72407191787804,
         "DIF": 12.854632635622636,
         "DEA": 10.022726796166442,
-        "HIST": 5.6638116789123885,
-        "volume_lot": 17677.938
+        "HIST": 5.6638116789123885
       },
       {
         "date": "2026-04-17",
-        "symbol": "6257.TW",
         "open": 179.5,
-        "high": 182.0,
-        "low": 177.0,
+        "high": 182,
+        "low": 177,
         "close": 177.5,
-        "volume": 10065146.0,
-        "adjclose": 174.73692321777344,
-        "dividends": 0.0,
+        "volume": 10065146,
+        "volume_lot": 10065.146,
         "MA5": 179.6,
         "MA20": 156.15,
         "MA60": 139.45,
@@ -2573,19 +2509,16 @@
         "bb_dn": 118.36495004634833,
         "DIF": 12.681319658994113,
         "DEA": 10.554445368731976,
-        "HIST": 4.253748580524274,
-        "volume_lot": 10065.146
+        "HIST": 4.253748580524274
       },
       {
         "date": "2026-04-20",
-        "symbol": "6257.TW",
-        "open": 179.0,
-        "high": 185.0,
-        "low": 177.0,
+        "open": 179,
+        "high": 185,
+        "low": 177,
         "close": 179.5,
-        "volume": 14187526.0,
-        "adjclose": 176.70578002929688,
-        "dividends": 0.0,
+        "volume": 14187526,
+        "volume_lot": 14187.526,
         "MA5": 179.6,
         "MA20": 158.4,
         "MA60": 140.45,
@@ -2594,19 +2527,16 @@
         "bb_dn": 120.68050901722091,
         "DIF": 12.560560835037336,
         "DEA": 10.95566846199305,
-        "HIST": 3.209784746088573,
-        "volume_lot": 14187.526
+        "HIST": 3.209784746088573
       },
       {
         "date": "2026-04-21",
-        "symbol": "6257.TW",
-        "open": 181.0,
+        "open": 181,
         "high": 187.5,
         "low": 180.5,
-        "close": 187.0,
-        "volume": 19187401.0,
-        "adjclose": 184.0890350341797,
-        "dividends": 0.0,
+        "close": 187,
+        "volume": 19187401,
+        "volume_lot": 19187.401,
         "MA5": 180.6,
         "MA20": 161.125,
         "MA60": 141.44166666666666,
@@ -2615,19 +2545,16 @@
         "bb_dn": 123.40912138104228,
         "DIF": 12.921099524700423,
         "DEA": 11.348754674534524,
-        "HIST": 3.1446897003317997,
-        "volume_lot": 19187.401
+        "HIST": 3.1446897003317997
       },
       {
         "date": "2026-04-22",
-        "symbol": "6257.TW",
-        "open": 190.0,
-        "high": 194.0,
-        "low": 185.0,
+        "open": 190,
+        "high": 194,
+        "low": 185,
         "close": 186.5,
-        "volume": 21228565.0,
-        "adjclose": 183.5968170166016,
-        "dividends": 0.0,
+        "volume": 21228565,
+        "volume_lot": 21228.565,
         "MA5": 182.1,
         "MA20": 164.175,
         "MA60": 142.39166666666668,
@@ -2636,19 +2563,16 @@
         "bb_dn": 128.6753169028236,
         "DIF": 13.016437819738996,
         "DEA": 11.682291303575418,
-        "HIST": 2.6682930323271563,
-        "volume_lot": 21228.565
+        "HIST": 2.6682930323271563
       },
       {
         "date": "2026-04-23",
-        "symbol": "6257.TW",
-        "open": 189.0,
-        "high": 193.0,
+        "open": 189,
+        "high": 193,
         "low": 175.5,
-        "close": 181.0,
-        "volume": 24681437.0,
-        "adjclose": 178.18243408203125,
-        "dividends": 0.0,
+        "close": 181,
+        "volume": 24681437,
+        "volume_lot": 24681.437,
         "MA5": 182.3,
         "MA20": 166.9,
         "MA60": 143.15833333333333,
@@ -2657,19 +2581,16 @@
         "bb_dn": 135.22572021339784,
         "DIF": 12.50405115266392,
         "DEA": 11.846643273393118,
-        "HIST": 1.3148157585416025,
-        "volume_lot": 24681.437
+        "HIST": 1.3148157585416025
       },
       {
         "date": "2026-04-24",
-        "symbol": "6257.TW",
-        "open": 183.0,
-        "high": 191.0,
-        "low": 182.0,
-        "close": 185.0,
-        "volume": 17123182.0,
-        "adjclose": 182.1201629638672,
-        "dividends": 0.0,
+        "open": 183,
+        "high": 191,
+        "low": 182,
+        "close": 185,
+        "volume": 17123182,
+        "volume_lot": 17123.182,
         "MA5": 183.8,
         "MA20": 169.3,
         "MA60": 143.95,
@@ -2678,19 +2599,16 @@
         "bb_dn": 139.85615514237392,
         "DIF": 12.27920061689099,
         "DEA": 11.933154742092691,
-        "HIST": 0.6920917495965924,
-        "volume_lot": 17123.182
+        "HIST": 0.6920917495965924
       },
       {
         "date": "2026-04-27",
-        "symbol": "6257.TW",
-        "open": 187.0,
-        "high": 188.0,
+        "open": 187,
+        "high": 188,
         "low": 172.5,
-        "close": 178.0,
-        "volume": 17313387.0,
-        "adjclose": 175.22914123535156,
-        "dividends": 0.0,
+        "close": 178,
+        "volume": 17313387,
+        "volume_lot": 17313.387,
         "MA5": 183.5,
         "MA20": 170.9,
         "MA60": 144.60833333333332,
@@ -2699,19 +2617,16 @@
         "bb_dn": 143.27283945100484,
         "DIF": 11.404697198642792,
         "DEA": 11.827463233402714,
-        "HIST": -0.845532069519841,
-        "volume_lot": 17313.387
+        "HIST": -0.845532069519841
       },
       {
         "date": "2026-04-28",
-        "symbol": "6257.TW",
-        "open": 177.0,
-        "high": 182.0,
+        "open": 177,
+        "high": 182,
         "low": 175.5,
         "close": 180.5,
-        "volume": 7659130.0,
-        "adjclose": 177.69021606445312,
-        "dividends": 0.0,
+        "volume": 7659130,
+        "volume_lot": 7659.13,
         "MA5": 182.2,
         "MA20": 172.625,
         "MA60": 145.31666666666666,
@@ -2720,19 +2635,16 @@
         "bb_dn": 147.21265063989645,
         "DIF": 10.789007088064947,
         "DEA": 11.619772004335164,
-        "HIST": -1.6615298325404275,
-        "volume_lot": 7659.13
+        "HIST": -1.6615298325404275
       },
       {
         "date": "2026-04-29",
-        "symbol": "6257.TW",
-        "open": 178.0,
-        "high": 179.0,
+        "open": 178,
+        "high": 179,
         "low": 175.5,
         "close": 177.5,
-        "volume": 6611034.0,
-        "adjclose": 174.73692321777344,
-        "dividends": 0.0,
+        "volume": 6611034,
+        "volume_lot": 6611.034,
         "MA5": 180.4,
         "MA20": 174.1,
         "MA60": 146.03333333333333,
@@ -2741,19 +2653,16 @@
         "bb_dn": 151.28421598980313,
         "DIF": 9.944360909258194,
         "DEA": 11.284689785319769,
-        "HIST": -2.6806577521231496,
-        "volume_lot": 6611.034
+        "HIST": -2.6806577521231496
       },
       {
         "date": "2026-04-30",
-        "symbol": "6257.TW",
-        "open": 178.0,
-        "high": 183.0,
-        "low": 177.0,
-        "close": 180.0,
-        "volume": 8805249.0,
-        "adjclose": 177.197998046875,
-        "dividends": 0.0,
+        "open": 178,
+        "high": 183,
+        "low": 177,
+        "close": 180,
+        "volume": 8805249,
+        "volume_lot": 8805.249,
         "MA5": 180.2,
         "MA20": 175.625,
         "MA60": 146.78333333333333,
@@ -2762,19 +2671,16 @@
         "bb_dn": 155.69543653262934,
         "DIF": 9.368705231739966,
         "DEA": 10.901492874603807,
-        "HIST": -3.0655752857276823,
-        "volume_lot": 8805.249
+        "HIST": -3.0655752857276823
       },
       {
         "date": "2026-05-04",
-        "symbol": "6257.TW",
         "open": 183.5,
         "high": 193.5,
-        "low": 183.0,
+        "low": 183,
         "close": 190.5,
-        "volume": 17509690.0,
-        "adjclose": 187.53456115722656,
-        "dividends": 0.0,
+        "volume": 17509690,
+        "volume_lot": 17509.69,
         "MA5": 181.3,
         "MA20": 177.35,
         "MA60": 147.73333333333332,
@@ -2783,19 +2689,16 @@
         "bb_dn": 158.57475033455066,
         "DIF": 9.648533914804176,
         "DEA": 10.650901082643882,
-        "HIST": -2.0047343356794123,
-        "volume_lot": 17509.69
+        "HIST": -2.0047343356794123
       },
       {
         "date": "2026-05-05",
-        "symbol": "6257.TW",
-        "open": 194.0,
-        "high": 200.0,
-        "low": 191.0,
-        "close": 197.0,
-        "volume": 23808416.0,
-        "adjclose": 193.9333648681641,
-        "dividends": 0.0,
+        "open": 194,
+        "high": 200,
+        "low": 191,
+        "close": 197,
+        "volume": 23808416,
+        "volume_lot": 23808.416,
         "MA5": 185.1,
         "MA20": 179.65,
         "MA60": 148.75,
@@ -2804,19 +2707,16 @@
         "bb_dn": 163.2271500646217,
         "DIF": 10.276336627577509,
         "DEA": 10.575988191630609,
-        "HIST": -0.5993031281062002,
-        "volume_lot": 23808.416
+        "HIST": -0.5993031281062002
       },
       {
         "date": "2026-05-06",
-        "symbol": "6257.TW",
         "open": 202.5,
         "high": 204.5,
-        "low": 191.0,
+        "low": 191,
         "close": 203.5,
-        "volume": 23796348.0,
-        "adjclose": 200.33218383789065,
-        "dividends": 0.0,
+        "volume": 23796348,
+        "volume_lot": 23796.348,
         "MA5": 189.7,
         "MA20": 182.075,
         "MA60": 149.90833333333333,
@@ -2825,19 +2725,16 @@
         "bb_dn": 166.6339022410984,
         "DIF": 11.16961411903722,
         "DEA": 10.694713377111931,
-        "HIST": 0.9498014838505782,
-        "volume_lot": 23796.348
+        "HIST": 0.9498014838505782
       },
       {
         "date": "2026-05-07",
-        "symbol": "6257.TW",
-        "open": 205.0,
-        "high": 218.0,
-        "low": 197.0,
-        "close": 213.0,
-        "volume": 26582332.0,
-        "adjclose": 209.68431091308597,
-        "dividends": 0.0,
+        "open": 205,
+        "high": 218,
+        "low": 197,
+        "close": 213,
+        "volume": 26582332,
+        "volume_lot": 26582.332,
         "MA5": 196.8,
         "MA20": 184.2,
         "MA60": 151.23333333333332,
@@ -2846,20 +2743,17 @@
         "bb_dn": 164.58266073087495,
         "DIF": 12.500021109565068,
         "DEA": 11.05577492360256,
-        "HIST": 2.888492371925018,
-        "volume_lot": 26582.332
+        "HIST": 2.888492371925018
       },
       {
         "date": "2026-05-08",
-        "symbol": "6257.TW",
-        "open": 216.0,
+        "open": 216,
         "high": 218.5,
-        "low": 204.0,
-        "close": 211.0,
-        "volume": 17482790.0,
-        "adjclose": 207.71543884277344,
-        "dividends": 0.0,
-        "MA5": 203.0,
+        "low": 204,
+        "close": 211,
+        "volume": 17482790,
+        "volume_lot": 17482.79,
+        "MA5": 203,
         "MA20": 186.2,
         "MA60": 152.55833333333334,
         "bb_mid": 186.2,
@@ -2867,19 +2761,16 @@
         "bb_dn": 164.34502345002502,
         "DIF": 13.240368226251348,
         "DEA": 11.492693584132317,
-        "HIST": 3.495349284238064,
-        "volume_lot": 17482.79
+        "HIST": 3.495349284238064
       },
       {
         "date": "2026-05-11",
-        "symbol": "6257.TW",
         "open": 210.5,
         "high": 214.5,
         "low": 204.5,
         "close": 212.5,
-        "volume": 11632024.0,
-        "adjclose": 209.1920928955078,
-        "dividends": 0.0,
+        "volume": 11632024,
+        "volume_lot": 11632.024,
         "MA5": 207.4,
         "MA20": 188.025,
         "MA60": 153.93333333333334,
@@ -2888,20 +2779,17 @@
         "bb_dn": 163.90348470763175,
         "DIF": 13.789182996005565,
         "DEA": 11.951991466506966,
-        "HIST": 3.674383058997197,
-        "volume_lot": 11632.024
+        "HIST": 3.674383058997197
       },
       {
         "date": "2026-05-12",
-        "symbol": "6257.TW",
         "open": 213.5,
-        "high": 214.0,
-        "low": 208.0,
-        "close": 210.0,
-        "volume": 12641728.0,
-        "adjclose": 206.7310028076172,
-        "dividends": 0.0,
-        "MA5": 210.0,
+        "high": 214,
+        "low": 208,
+        "close": 210,
+        "volume": 12641728,
+        "volume_lot": 12641.728,
+        "MA5": 210,
         "MA20": 189.55,
         "MA60": 155.34166666666667,
         "bb_mid": 189.55,
@@ -2909,19 +2797,16 @@
         "bb_dn": 163.96504348254712,
         "DIF": 13.862594191727451,
         "DEA": 12.334112011551063,
-        "HIST": 3.0569643603527794,
-        "volume_lot": 12641.728
+        "HIST": 3.0569643603527794
       },
       {
         "date": "2026-05-13",
-        "symbol": "6257.TW",
-        "open": 208.0,
-        "high": 212.0,
-        "low": 204.0,
-        "close": 212.0,
-        "volume": 9067935.0,
-        "adjclose": 208.6998748779297,
-        "dividends": 0.0,
+        "open": 208,
+        "high": 212,
+        "low": 204,
+        "close": 212,
+        "volume": 9067935,
+        "volume_lot": 9067.935,
         "MA5": 211.7,
         "MA20": 191.05,
         "MA60": 156.76666666666668,
@@ -2930,19 +2815,16 @@
         "bb_dn": 163.9393010049546,
         "DIF": 13.92167596396851,
         "DEA": 12.651624802034554,
-        "HIST": 2.540102323867913,
-        "volume_lot": 9067.935
+        "HIST": 2.540102323867913
       },
       {
         "date": "2026-05-14",
-        "symbol": "6257.TW",
-        "open": 214.0,
+        "open": 214,
         "high": 217.5,
-        "low": 210.0,
+        "low": 210,
         "close": 210.5,
-        "volume": 9421811.0,
-        "adjclose": 207.2232208251953,
-        "dividends": 0.0,
+        "volume": 9421811,
+        "volume_lot": 9421.811,
         "MA5": 211.2,
         "MA20": 192.625,
         "MA60": 158.13333333333333,
@@ -2951,19 +2833,16 @@
         "bb_dn": 164.84573615086327,
         "DIF": 13.689655404169145,
         "DEA": 12.859230922461474,
-        "HIST": 1.66084896341534,
-        "volume_lot": 9421.811
+        "HIST": 1.66084896341534
       },
       {
         "date": "2026-05-15",
-        "symbol": "6257.TW",
         "open": 212.5,
-        "high": 226.0,
-        "low": 207.0,
-        "close": 217.0,
-        "volume": 22834445.0,
-        "adjclose": 213.62203979492188,
-        "dividends": 0.0,
+        "high": 226,
+        "low": 207,
+        "close": 217,
+        "volume": 22834445,
+        "volume_lot": 22834.445,
         "MA5": 212.4,
         "MA20": 194.475,
         "MA60": 159.69166666666666,
@@ -2972,19 +2851,16 @@
         "bb_dn": 165.4070193339827,
         "DIF": 13.870383963822974,
         "DEA": 13.061461530733776,
-        "HIST": 1.6178448661783982,
-        "volume_lot": 22834.445
+        "HIST": 1.6178448661783982
       },
       {
         "date": "2026-05-18",
-        "symbol": "6257.TW",
         "open": 215.5,
-        "high": 224.0,
-        "low": 212.0,
+        "high": 224,
+        "low": 212,
         "close": 218.5,
-        "volume": 12995667.0,
-        "adjclose": 215.09869384765625,
-        "dividends": 0.0,
+        "volume": 12995667,
+        "volume_lot": 12995.667,
         "MA5": 213.6,
         "MA20": 196.525,
         "MA60": 161.325,
@@ -2993,19 +2869,16 @@
         "bb_dn": 166.7601297667879,
         "DIF": 13.973571479633534,
         "DEA": 13.243883520513728,
-        "HIST": 1.4593759182396155,
-        "volume_lot": 12995.667
+        "HIST": 1.4593759182396155
       },
       {
         "date": "2026-05-19",
-        "symbol": "6257.TW",
         "open": 218.5,
         "high": 222.5,
         "low": 209.5,
         "close": 210.5,
-        "volume": 15730160.0,
-        "adjclose": 207.2232208251953,
-        "dividends": 0.0,
+        "volume": 15730160,
+        "volume_lot": 15730.16,
         "MA5": 213.7,
         "MA20": 198.075,
         "MA60": 162.725,
@@ -3014,19 +2887,16 @@
         "bb_dn": 168.79313701282047,
         "DIF": 13.256996781426636,
         "DEA": 13.24650617269631,
-        "HIST": 0.0209812174606511,
-        "volume_lot": 15730.16
+        "HIST": 0.0209812174606511
       },
       {
         "date": "2026-05-20",
-        "symbol": "6257.TW",
-        "open": 210.0,
+        "open": 210,
         "high": 212.5,
-        "low": 206.0,
-        "close": 207.0,
-        "volume": 12992270.0,
-        "adjclose": 203.7777099609375,
-        "dividends": 0.0,
+        "low": 206,
+        "close": 207,
+        "volume": 12992270,
+        "volume_lot": 12992.27,
         "MA5": 212.7,
         "MA20": 199.075,
         "MA60": 164.06666666666666,
@@ -3035,19 +2905,16 @@
         "bb_dn": 170.0090835341468,
         "DIF": 12.265298692729743,
         "DEA": 13.050264676702998,
-        "HIST": -1.5699319679465091,
-        "volume_lot": 12992.27
+        "HIST": -1.5699319679465091
       },
       {
         "date": "2026-05-21",
-        "symbol": "6257.TW",
         "open": 212.5,
-        "high": 221.0,
+        "high": 221,
         "low": 212.5,
         "close": 216.5,
-        "volume": 14453978.0,
-        "adjclose": 213.12982177734372,
-        "dividends": 0.0,
+        "volume": 14453978,
+        "volume_lot": 14453.978,
         "MA5": 213.9,
         "MA20": 200.575,
         "MA60": 165.55,
@@ -3056,19 +2923,16 @@
         "bb_dn": 171.1653502230993,
         "DIF": 12.10638652987342,
         "DEA": 12.861489047337082,
-        "HIST": -1.5102050349273275,
-        "volume_lot": 14453.978
+        "HIST": -1.5102050349273275
       },
       {
         "date": "2026-05-22",
-        "symbol": "6257.TW",
-        "open": 221.0,
-        "high": 235.0,
+        "open": 221,
+        "high": 235,
         "low": 219.5,
-        "close": 222.0,
-        "volume": 13313965.0,
-        "adjclose": 218.5442047119141,
-        "dividends": 0.0,
+        "close": 222,
+        "volume": 13313965,
+        "volume_lot": 13313.965,
         "MA5": 214.9,
         "MA20": 202.625,
         "MA60": 167.1,
@@ -3077,19 +2941,16 @@
         "bb_dn": 173.24324545742792,
         "DIF": 12.28266461846323,
         "DEA": 12.745724161562311,
-        "HIST": -0.9261190861981632,
-        "volume_lot": 13313.965
+        "HIST": -0.9261190861981632
       },
       {
         "date": "2026-05-25",
-        "symbol": "6257.TW",
-        "open": 225.0,
-        "high": 236.0,
-        "low": 224.0,
+        "open": 225,
+        "high": 236,
+        "low": 224,
         "close": 231.5,
-        "volume": 10218439.0,
-        "adjclose": 227.8963165283203,
-        "dividends": 0.0,
+        "volume": 10218439,
+        "volume_lot": 10218.439,
         "MA5": 217.5,
         "MA20": 204.95,
         "MA60": 168.775,
@@ -3098,19 +2959,16 @@
         "bb_dn": 174.18817300614356,
         "DIF": 13.038635603900104,
         "DEA": 12.804306450029872,
-        "HIST": 0.4686583077404656,
-        "volume_lot": 10218.439
+        "HIST": 0.4686583077404656
       },
       {
         "date": "2026-05-26",
-        "symbol": "6257.TW",
-        "open": 236.0,
+        "open": 236,
         "high": 239.5,
-        "low": 227.0,
-        "close": 237.0,
-        "volume": 14193672.0,
-        "adjclose": 233.31069946289065,
-        "dividends": 0.0,
+        "low": 227,
+        "close": 237,
+        "volume": 14193672,
+        "volume_lot": 14193.672,
         "MA5": 222.8,
         "MA20": 207.9,
         "MA60": 170.44166666666666,
@@ -3119,19 +2977,16 @@
         "bb_dn": 176.72853869322208,
         "DIF": 13.921078562816206,
         "DEA": 13.02766087258714,
-        "HIST": 1.7868353804581325,
-        "volume_lot": 14193.672
+        "HIST": 1.7868353804581325
       },
       {
         "date": "2026-05-27",
-        "symbol": "6257.TW",
-        "open": 242.0,
-        "high": 242.0,
+        "open": 242,
+        "high": 242,
         "low": 230.5,
         "close": 233.5,
-        "volume": 12046737.0,
-        "adjclose": 229.8651885986328,
-        "dividends": 0.0,
+        "volume": 12046737,
+        "volume_lot": 12046.737,
         "MA5": 228.1,
         "MA20": 210.55,
         "MA60": 171.825,
@@ -3140,19 +2995,16 @@
         "bb_dn": 180.1445728528614,
         "DIF": 14.174604202276754,
         "DEA": 13.257049538525065,
-        "HIST": 1.8351093275033816,
-        "volume_lot": 12046.737
+        "HIST": 1.8351093275033816
       },
       {
         "date": "2026-05-28",
-        "symbol": "6257.TW",
         "open": 233.5,
         "high": 240.5,
-        "low": 228.0,
-        "close": 229.0,
-        "volume": 12364930.0,
-        "adjclose": 225.43524169921875,
-        "dividends": 0.0,
+        "low": 228,
+        "close": 229,
+        "volume": 12364930,
+        "volume_lot": 12364.93,
         "MA5": 230.6,
         "MA20": 213.125,
         "MA60": 173.35833333333332,
@@ -3161,19 +3013,16 @@
         "bb_dn": 185.78295362450072,
         "DIF": 13.852727091286852,
         "DEA": 13.37618504907742,
-        "HIST": 0.9530840844188616,
-        "volume_lot": 12364.93
+        "HIST": 0.9530840844188616
       },
       {
         "date": "2026-05-29",
-        "symbol": "6257.TW",
-        "open": 234.0,
+        "open": 234,
         "high": 236.5,
         "low": 224.5,
         "close": 227.5,
-        "volume": 13075220.0,
-        "adjclose": 223.9585876464844,
-        "dividends": 0.0,
+        "volume": 13075220,
+        "volume_lot": 13075.22,
         "MA5": 231.7,
         "MA20": 215.5,
         "MA60": 174.88333333333333,
@@ -3182,19 +3031,16 @@
         "bb_dn": 192.1141068162887,
         "DIF": 13.323020214114848,
         "DEA": 13.365552082084909,
-        "HIST": -0.0850637359401176,
-        "volume_lot": 13075.22
+        "HIST": -0.0850637359401176
       },
       {
         "date": "2026-06-01",
-        "symbol": "6257.TW",
-        "open": 230.0,
-        "high": 230.0,
-        "low": 218.0,
+        "open": 230,
+        "high": 230,
+        "low": 218,
         "close": 219.5,
-        "volume": 12827920.0,
-        "adjclose": 216.08311462402344,
-        "dividends": 0.0,
+        "volume": 12827920,
+        "volume_lot": 12827.92,
         "MA5": 229.3,
         "MA20": 216.95,
         "MA60": 176.43333333333334,
@@ -3203,19 +3049,16 @@
         "bb_dn": 196.5370139372028,
         "DIF": 12.118001775144023,
         "DEA": 13.116042020696732,
-        "HIST": -1.9960804911054169,
-        "volume_lot": 12827.92
+        "HIST": -1.9960804911054169
       },
       {
         "date": "2026-06-02",
-        "symbol": "6257.TW",
         "open": 220.5,
-        "high": 227.0,
+        "high": 227,
         "low": 213.5,
-        "close": 215.0,
-        "volume": 12861520.0,
-        "adjclose": 211.65316772460935,
-        "dividends": 0.0,
+        "close": 215,
+        "volume": 12861520,
+        "volume_lot": 12861.52,
         "MA5": 224.9,
         "MA20": 217.85,
         "MA60": 177.8,
@@ -3224,19 +3067,16 @@
         "bb_dn": 199.55765187298377,
         "DIF": 10.676827764267813,
         "DEA": 12.628199169410948,
-        "HIST": -3.90274281028627,
-        "volume_lot": 12861.52
+        "HIST": -3.90274281028627
       },
       {
         "date": "2026-06-03",
-        "symbol": "6257.TW",
         "open": 220.5,
         "high": 234.5,
-        "low": 220.0,
-        "close": 230.0,
-        "volume": 14806975.0,
-        "adjclose": 226.419677734375,
-        "dividends": 0.0,
+        "low": 220,
+        "close": 230,
+        "volume": 14806975,
+        "volume_lot": 14806.975,
         "MA5": 224.2,
         "MA20": 219.175,
         "MA60": 179.45,
@@ -3245,20 +3085,17 @@
         "bb_dn": 201.40065050416885,
         "DIF": 10.622610772677971,
         "DEA": 12.227081490064354,
-        "HIST": -3.208941434772761,
-        "volume_lot": 14806.975
+        "HIST": -3.208941434772761
       },
       {
         "date": "2026-06-04",
-        "symbol": "6257.TW",
-        "open": 228.0,
-        "high": 237.0,
-        "low": 227.0,
-        "close": 228.0,
-        "volume": 11522053.0,
-        "adjclose": 224.4508056640625,
-        "dividends": 0.0,
-        "MA5": 224.0,
+        "open": 228,
+        "high": 237,
+        "low": 227,
+        "close": 228,
+        "volume": 11522053,
+        "volume_lot": 11522.053,
+        "MA5": 224,
         "MA20": 219.925,
         "MA60": 181.28333333333333,
         "bb_mid": 219.925,
@@ -3266,19 +3103,16 @@
         "bb_dn": 201.99102386530103,
         "DIF": 10.299533519749446,
         "DEA": 11.841571896001373,
-        "HIST": -3.0840767525038544,
-        "volume_lot": 11522.053
+        "HIST": -3.0840767525038544
       },
       {
         "date": "2026-06-05",
-        "symbol": "6257.TW",
-        "open": 228.0,
-        "high": 228.0,
-        "low": 219.0,
-        "close": 223.0,
-        "volume": 8586512.0,
-        "adjclose": 219.5286407470703,
-        "dividends": 0.0,
+        "open": 228,
+        "high": 228,
+        "low": 219,
+        "close": 223,
+        "volume": 8586512,
+        "volume_lot": 8586.512,
         "MA5": 223.1,
         "MA20": 220.525,
         "MA60": 182.90833333333333,
@@ -3287,19 +3121,16 @@
         "bb_dn": 203.02792881651467,
         "DIF": 9.53017631566297,
         "DEA": 11.379292779933692,
-        "HIST": -3.698232928541444,
-        "volume_lot": 8586.512
+        "HIST": -3.698232928541444
       },
       {
         "date": "2026-06-08",
-        "symbol": "6257.TW",
-        "open": 201.0,
+        "open": 201,
         "high": 205.5,
-        "low": 201.0,
-        "close": 201.0,
-        "volume": 11123636.0,
-        "adjclose": 197.87110900878903,
-        "dividends": 0.0,
+        "low": 201,
+        "close": 201,
+        "volume": 11123636,
+        "volume_lot": 11123.636,
         "MA5": 219.4,
         "MA20": 219.95,
         "MA60": 184.06666666666663,
@@ -3308,19 +3139,16 @@
         "bb_dn": 200.76172232846437,
         "DIF": 7.063811824533559,
         "DEA": 10.516196588853663,
-        "HIST": -6.904769528640212,
-        "volume_lot": 11123.636
+        "HIST": -6.904769528640212
       },
       {
         "date": "2026-06-09",
-        "symbol": "6257.TW",
         "open": 203.5,
         "high": 210.5,
-        "low": 200.0,
+        "low": 200,
         "close": 208.5,
-        "volume": 7919192.0,
-        "adjclose": 205.2543487548828,
-        "dividends": 0.0,
+        "volume": 7919192,
+        "volume_lot": 7919.192,
         "MA5": 218.1,
         "MA20": 219.875,
         "MA60": 185.38333333333333,
@@ -3329,19 +3157,16 @@
         "bb_dn": 200.52073690372188,
         "DIF": 5.649266290748017,
         "DEA": 9.542810529232536,
-        "HIST": -7.787088476969039,
-        "volume_lot": 7919.192
+        "HIST": -7.787088476969039
       },
       {
         "date": "2026-06-10",
-        "symbol": "6257.TW",
-        "open": 206.0,
-        "high": 218.0,
+        "open": 206,
+        "high": 218,
         "low": 203.5,
         "close": 203.5,
-        "volume": 7803446.0,
-        "adjclose": 200.33218383789065,
-        "dividends": 0.0,
+        "volume": 7803446,
+        "volume_lot": 7803.446,
         "MA5": 212.8,
         "MA20": 219.45,
         "MA60": 186.59166666666667,
@@ -3350,19 +3175,16 @@
         "bb_dn": 199.07624236916632,
         "DIF": 4.077764618514379,
         "DEA": 8.449801347088906,
-        "HIST": -8.744073457149053,
-        "volume_lot": 7803.446
+        "HIST": -8.744073457149053
       },
       {
         "date": "2026-06-11",
-        "symbol": "6257.TW",
         "open": 203.5,
-        "high": 208.0,
+        "high": 208,
         "low": 195.5,
         "close": 205.5,
-        "volume": 5875795.0,
-        "adjclose": 202.30105590820312,
-        "dividends": 0.0,
+        "volume": 5875795,
+        "volume_lot": 5875.795,
         "MA5": 208.3,
         "MA20": 219.2,
         "MA60": 187.85,
@@ -3371,20 +3193,17 @@
         "bb_dn": 198.2777630259106,
         "DIF": 2.959605022108917,
         "DEA": 7.351762082092908,
-        "HIST": -8.784314119967982,
-        "volume_lot": 5875.795
+        "HIST": -8.784314119967982
       },
       {
         "date": "2026-06-12",
-        "symbol": "6257.TW",
-        "open": 215.0,
-        "high": 224.0,
-        "low": 214.0,
+        "open": 215,
+        "high": 224,
+        "low": 214,
         "close": 221.5,
-        "volume": 8987109.0,
-        "adjclose": 218.05198669433597,
-        "dividends": 0.0,
-        "MA5": 208.0,
+        "volume": 8987109,
+        "volume_lot": 8987.109,
+        "MA5": 208,
         "MA20": 219.425,
         "MA60": 189.33333333333331,
         "bb_mid": 219.425,
@@ -3392,19 +3211,16 @@
         "bb_dn": 198.5054517257195,
         "DIF": 3.3261796400578305,
         "DEA": 6.546645593685893,
-        "HIST": -6.440931907256125,
-        "volume_lot": 8987.109
+        "HIST": -6.440931907256125
       },
       {
         "date": "2026-06-15",
-        "symbol": "6257.TW",
-        "open": 224.0,
+        "open": 224,
         "high": 227.5,
-        "low": 221.0,
-        "close": 222.0,
-        "volume": 6593324.0,
-        "adjclose": 218.5442047119141,
-        "dividends": 0.0,
+        "low": 221,
+        "close": 222,
+        "volume": 6593324,
+        "volume_lot": 6593.324,
         "MA5": 212.2,
         "MA20": 219.6,
         "MA60": 190.75833333333333,
@@ -3413,19 +3229,16 @@
         "bb_dn": 198.65578838915263,
         "DIF": 3.615362834860406,
         "DEA": 5.960389041920796,
-        "HIST": -4.69005241412078,
-        "volume_lot": 6593.324
+        "HIST": -4.69005241412078
       },
       {
         "date": "2026-06-16",
-        "symbol": "6257.TW",
-        "open": 224.0,
+        "open": 224,
         "high": 224.5,
-        "low": 214.0,
-        "close": 214.0,
-        "volume": 6501728.0,
-        "adjclose": 210.66873168945312,
-        "dividends": 0.0,
+        "low": 214,
+        "close": 214,
+        "volume": 6501728,
+        "volume_lot": 6501.728,
         "MA5": 213.3,
         "MA20": 219.775,
         "MA60": 192.08333333333331,
@@ -3434,19 +3247,16 @@
         "bb_dn": 199.0808583169064,
         "DIF": 3.1625535107329767,
         "DEA": 5.400821935683233,
-        "HIST": -4.476536849900512,
-        "volume_lot": 6501.728
+        "HIST": -4.476536849900512
       },
       {
         "date": "2026-06-17",
-        "symbol": "6257.TW",
-        "open": 212.0,
+        "open": 212,
         "high": 215.5,
-        "low": 209.0,
-        "close": 214.0,
-        "volume": 5761206.0,
-        "adjclose": 210.66873168945312,
-        "dividends": 0.0,
+        "low": 209,
+        "close": 214,
+        "volume": 5761206,
+        "volume_lot": 5761.206,
         "MA5": 215.4,
         "MA20": 220.125,
         "MA60": 193.44166666666663,
@@ -3455,19 +3265,16 @@
         "bb_dn": 200.08036231307847,
         "DIF": 2.771747874898324,
         "DEA": 4.875007123526252,
-        "HIST": -4.206518497255855,
-        "volume_lot": 5761.206
+        "HIST": -4.206518497255855
       },
       {
         "date": "2026-06-18",
-        "symbol": "6257.TW",
         "open": 216.5,
-        "high": 235.0,
+        "high": 235,
         "low": 216.5,
-        "close": 235.0,
-        "volume": 16673144.0,
-        "adjclose": 231.3418426513672,
-        "dividends": 0.0,
+        "close": 235,
+        "volume": 16673144,
+        "volume_lot": 16673.144,
         "MA5": 221.3,
         "MA20": 221.05,
         "MA60": 195.26666666666668,
@@ -3476,19 +3283,16 @@
         "bb_dn": 200.07406140359976,
         "DIF": 4.109187928020475,
         "DEA": 4.721843284425097,
-        "HIST": -1.225310712809243,
-        "volume_lot": 16673.144
+        "HIST": -1.225310712809243
       },
       {
         "date": "2026-06-22",
-        "symbol": "6257.TW",
-        "open": 244.0,
+        "open": 244,
         "high": 249.5,
         "low": 238.5,
         "close": 242.5,
-        "volume": 24673375.0,
-        "adjclose": 238.7250823974609,
-        "dividends": 0.0,
+        "volume": 24673375,
+        "volume_lot": 24673.375,
         "MA5": 225.5,
         "MA20": 222.075,
         "MA60": 197.2,
@@ -3497,19 +3301,16 @@
         "bb_dn": 199.10485633479945,
         "DIF": 5.708502067326776,
         "DEA": 4.919175041005433,
-        "HIST": 1.5786540526426869,
-        "volume_lot": 24673.375
+        "HIST": 1.5786540526426869
       },
       {
         "date": "2026-06-23",
-        "symbol": "6257.TW",
-        "open": 245.0,
+        "open": 245,
         "high": 252.5,
-        "low": 229.0,
-        "close": 237.0,
-        "volume": 14319886.0,
-        "adjclose": 233.31069946289065,
-        "dividends": 0.0,
+        "low": 229,
+        "close": 237,
+        "volume": 14319886,
+        "volume_lot": 14319.886,
         "MA5": 228.5,
         "MA20": 222.35,
         "MA60": 198.86666666666667,
@@ -3518,19 +3319,16 @@
         "bb_dn": 198.8104587980149,
         "DIF": 6.457725372283818,
         "DEA": 5.2268851072611096,
-        "HIST": 2.4616805300454168,
-        "volume_lot": 14319.886
+        "HIST": 2.4616805300454168
       },
       {
         "date": "2026-06-24",
-        "symbol": "6257.TW",
         "open": 234.5,
-        "high": 243.0,
-        "low": 233.0,
+        "high": 243,
+        "low": 233,
         "close": 242.5,
-        "volume": 11951409.0,
-        "adjclose": 238.7250823974609,
-        "dividends": 0.0,
+        "volume": 11951409,
+        "volume_lot": 11951.409,
         "MA5": 234.2,
         "MA20": 222.625,
         "MA60": 200.475,
@@ -3539,20 +3337,17 @@
         "bb_dn": 198.2921518313217,
         "DIF": 7.409877814944906,
         "DEA": 5.663483648797869,
-        "HIST": 3.492788332294074,
-        "volume_lot": 11951.409
+        "HIST": 3.492788332294074
       },
       {
         "date": "2026-06-25",
-        "symbol": "6257.TW",
         "open": 245.5,
-        "high": 253.0,
-        "low": 237.0,
-        "close": 238.0,
-        "volume": 12486208.0,
-        "adjclose": 234.29513549804688,
-        "dividends": 0.0,
-        "MA5": 239.0,
+        "high": 253,
+        "low": 237,
+        "close": 238,
+        "volume": 12486208,
+        "volume_lot": 12486.208,
+        "MA5": 239,
         "MA20": 222.85,
         "MA60": 202.00833333333333,
         "bb_mid": 222.85,
@@ -3560,19 +3355,16 @@
         "bb_dn": 198.04052600315853,
         "DIF": 7.712448784950681,
         "DEA": 6.073276676028431,
-        "HIST": 3.2783442178444986,
-        "volume_lot": 12486.208
+        "HIST": 3.2783442178444986
       },
       {
         "date": "2026-06-26",
-        "symbol": "6257.TW",
-        "open": 239.0,
-        "high": 247.0,
+        "open": 239,
+        "high": 247,
         "low": 221.5,
-        "close": 224.0,
-        "volume": 13382284.0,
-        "adjclose": 220.51307678222656,
-        "dividends": 0.0,
+        "close": 224,
+        "volume": 13382284,
+        "volume_lot": 13382.284,
         "MA5": 236.8,
         "MA20": 222.6,
         "MA60": 203.275,
@@ -3581,19 +3373,16 @@
         "bb_dn": 197.9431551085717,
         "DIF": 6.744805541679455,
         "DEA": 6.207582449158636,
-        "HIST": 1.0744461850416371,
-        "volume_lot": 13382.284
+        "HIST": 1.0744461850416371
       },
       {
         "date": "2026-06-29",
-        "symbol": "6257.TW",
-        "open": 222.0,
+        "open": 222,
         "high": 226.5,
-        "low": 220.0,
+        "low": 220,
         "close": 224.5,
-        "volume": 6443595.0,
-        "adjclose": 221.0052947998047,
-        "dividends": 0.0,
+        "volume": 6443595,
+        "volume_lot": 6443.595,
         "MA5": 233.2,
         "MA20": 222.45,
         "MA60": 204.525,
@@ -3602,19 +3391,16 @@
         "bb_dn": 197.8778613059434,
         "DIF": 5.949702652601644,
         "DEA": 6.156006489847238,
-        "HIST": -0.4126076744911877,
-        "volume_lot": 6443.595
+        "HIST": -0.4126076744911877
       },
       {
         "date": "2026-06-30",
-        "symbol": "6257.TW",
         "open": 229.5,
         "high": 239.5,
         "low": 227.5,
-        "close": 237.0,
-        "volume": 10621354.0,
-        "adjclose": 233.31069946289065,
-        "dividends": 0.0,
+        "close": 237,
+        "volume": 10621354,
+        "volume_lot": 10621.354,
         "MA5": 233.2,
         "MA20": 223.325,
         "MA60": 205.875,
@@ -3623,19 +3409,16 @@
         "bb_dn": 198.0005552874312,
         "DIF": 6.2561069115566,
         "DEA": 6.176026574189111,
-        "HIST": 0.1601606747349784,
-        "volume_lot": 10621.354
+        "HIST": 0.1601606747349784
       },
       {
         "date": "2026-07-01",
-        "symbol": "6257.TW",
-        "open": 241.0,
+        "open": 241,
         "high": 252.5,
-        "low": 240.0,
-        "close": 245.0,
-        "volume": 18786465.0,
-        "adjclose": 241.1861724853516,
-        "dividends": 0.0,
+        "low": 240,
+        "close": 245,
+        "volume": 18786465,
+        "volume_lot": 18786.465,
         "MA5": 233.7,
         "MA20": 224.825,
         "MA60": 207.44166666666663,
@@ -3644,19 +3427,16 @@
         "bb_dn": 198.133662453898,
         "DIF": 7.063049200919494,
         "DEA": 6.353431099535188,
-        "HIST": 1.4192362027686125,
-        "volume_lot": 18786.465
+        "HIST": 1.4192362027686125
       },
       {
         "date": "2026-07-02",
-        "symbol": "6257.TW",
         "open": 241.5,
-        "high": 251.0,
+        "high": 251,
         "low": 235.5,
-        "close": 251.0,
-        "volume": 6878065.0,
-        "adjclose": 247.0927734375,
-        "dividends": 0.0,
+        "close": 251,
+        "volume": 6878065,
+        "volume_lot": 6878.065,
         "MA5": 236.3,
         "MA20": 225.875,
         "MA60": 209.04166666666663,
@@ -3665,19 +3445,16 @@
         "bb_dn": 196.89763814630544,
         "DIF": 8.093410832746088,
         "DEA": 6.701427046177368,
-        "HIST": 2.7839675731374385,
-        "volume_lot": 6878.065
+        "HIST": 2.7839675731374385
       },
       {
         "date": "2026-07-03",
-        "symbol": "6257.TW",
         "open": 248.5,
         "high": 257.5,
         "low": 243.5,
         "close": 254.5,
-        "volume": 8312633.0,
-        "adjclose": 250.5382843017578,
-        "dividends": 0.0,
+        "volume": 8312633,
+        "volume_lot": 8312.633,
         "MA5": 242.4,
         "MA20": 227.2,
         "MA60": 210.44166666666663,
@@ -3686,19 +3463,16 @@
         "bb_dn": 195.64623635760776,
         "DIF": 9.087643896624511,
         "DEA": 7.178670416266797,
-        "HIST": 3.817946960715432,
-        "volume_lot": 8312.633
+        "HIST": 3.817946960715432
       },
       {
         "date": "2026-07-06",
-        "symbol": "6257.TW",
         "open": 267.5,
         "high": 279.5,
-        "low": 267.0,
-        "close": 273.0,
-        "volume": 21533525.0,
-        "adjclose": 268.75030517578125,
-        "dividends": 0.0,
+        "low": 267,
+        "close": 273,
+        "volume": 21533525,
+        "volume_lot": 21533.525,
         "MA5": 252.1,
         "MA20": 229.7,
         "MA60": 212.14166666666668,
@@ -3707,19 +3481,16 @@
         "bb_dn": 192.46238460910857,
         "DIF": 11.238822007678806,
         "DEA": 7.9907007345492,
-        "HIST": 6.496242546259213,
-        "volume_lot": 21533.525
+        "HIST": 6.496242546259213
       },
       {
         "date": "2026-07-07",
-        "symbol": "6257.TW",
-        "open": 270.0,
+        "open": 270,
         "high": 274.5,
-        "low": 242.0,
-        "close": 242.0,
-        "volume": 18358119.0,
-        "adjclose": 242.0,
-        "dividends": 4.249688,
+        "low": 242,
+        "close": 242,
+        "volume": 18358119,
+        "volume_lot": 18358.119,
         "MA5": 253.1,
         "MA20": 231.75,
         "MA60": 213.24166666666667,
@@ -3728,20 +3499,17 @@
         "bb_dn": 196.6024538552127,
         "DIF": 10.32320574702132,
         "DEA": 8.457201737043624,
-        "HIST": 3.732008019955391,
-        "volume_lot": 18358.119
+        "HIST": 3.732008019955391
       },
       {
         "date": "2026-07-08",
-        "symbol": "6257.TW",
-        "open": 243.0,
-        "high": 245.0,
-        "low": 236.0,
+        "open": 243,
+        "high": 245,
+        "low": 236,
         "close": 244.5,
-        "volume": 7180250.0,
-        "adjclose": 244.5,
-        "dividends": 0.0,
-        "MA5": 253.0,
+        "volume": 7180250,
+        "volume_lot": 7180.25,
+        "MA5": 253,
         "MA20": 233.55,
         "MA60": 214.325,
         "bb_mid": 233.55,
@@ -3749,19 +3517,16 @@
         "bb_dn": 199.68571202579403,
         "DIF": 9.687629408933304,
         "DEA": 8.70328727142156,
-        "HIST": 1.968684275023488,
-        "volume_lot": 7180.25
+        "HIST": 1.968684275023488
       },
       {
         "date": "2026-07-09",
-        "symbol": "6257.TW",
         "open": 245.5,
         "high": 249.5,
-        "low": 242.0,
+        "low": 242,
         "close": 244.5,
-        "volume": 5942846.0,
-        "adjclose": 244.5,
-        "dividends": 0.0,
+        "volume": 5942846,
+        "volume_lot": 5942.846,
         "MA5": 251.7,
         "MA20": 235.6,
         "MA60": 215.36666666666667,
@@ -3770,19 +3535,16 @@
         "bb_dn": 204.40128207762453,
         "DIF": 9.079270404346602,
         "DEA": 8.778483898006568,
-        "HIST": 0.6015730126800669,
-        "volume_lot": 5942.846
+        "HIST": 0.6015730126800669
       },
       {
         "date": "2026-07-10",
-        "symbol": "6257.TW",
         "open": 244.5,
         "high": 244.5,
         "low": 244.5,
         "close": 244.5,
-        "volume": 0.0,
-        "adjclose": 244.5,
-        "dividends": 0.0,
+        "volume": 0,
+        "volume_lot": 0,
         "MA5": 249.7,
         "MA20": 237.55,
         "MA60": 216.45833333333331,
@@ -3791,20 +3553,17 @@
         "bb_dn": 209.39347322555653,
         "DIF": 8.499168387598047,
         "DEA": 8.722620795924865,
-        "HIST": -0.4469048166536353,
-        "volume_lot": 0.0
+        "HIST": -0.4469048166536353
       },
       {
         "date": "2026-07-13",
-        "symbol": "6257.TW",
-        "open": 248.0,
-        "high": 249.0,
-        "low": 231.0,
+        "open": 248,
+        "high": 249,
+        "low": 231,
         "close": 234.5,
-        "volume": 6976613.0,
-        "adjclose": 234.5,
-        "dividends": 0.0,
-        "MA5": 242.0,
+        "volume": 6976613,
+        "volume_lot": 6976.613,
+        "MA5": 242,
         "MA20": 238.2,
         "MA60": 217.36666666666667,
         "bb_mid": 238.2,
@@ -3812,19 +3571,16 @@
         "bb_dn": 210.9706041198129,
         "DIF": 7.1500950880076175,
         "DEA": 8.408115654341415,
-        "HIST": -2.5160411326675955,
-        "volume_lot": 6976.613
+        "HIST": -2.5160411326675955
       },
       {
         "date": "2026-07-14",
-        "symbol": "6257.TW",
         "open": 233.5,
         "high": 235.5,
-        "low": 214.0,
-        "close": 225.0,
-        "volume": 8170430.0,
-        "adjclose": 225.0,
-        "dividends": 0.0,
+        "low": 214,
+        "close": 225,
+        "volume": 8170430,
+        "volume_lot": 8170.43,
         "MA5": 238.6,
         "MA20": 238.35,
         "MA60": 218.15833333333333,
@@ -3833,19 +3589,16 @@
         "bb_dn": 211.44814132815443,
         "DIF": 5.253811504704515,
         "DEA": 7.777254824414036,
-        "HIST": -5.046886639419041,
-        "volume_lot": 8170.43
+        "HIST": -5.046886639419041
       },
       {
         "date": "2026-07-15",
-        "symbol": "6257.TW",
         "open": 231.5,
         "high": 240.5,
         "low": 230.5,
         "close": 237.5,
-        "volume": 6684542.0,
-        "adjclose": 237.5,
-        "dividends": 0.0,
+        "volume": 6684542,
+        "volume_lot": 6684.542,
         "MA5": 237.2,
         "MA20": 239.525,
         "MA60": 219.125,
@@ -3854,19 +3607,16 @@
         "bb_dn": 215.0352572492084,
         "DIF": 4.705397739954748,
         "DEA": 7.162883407522179,
-        "HIST": -4.914971335134862,
-        "volume_lot": 6684.542
+        "HIST": -4.914971335134862
       },
       {
         "date": "2026-07-16",
-        "symbol": "6257.TW",
         "open": 235.5,
         "high": 242.5,
-        "low": 230.0,
-        "close": 238.0,
-        "volume": 4208930.0,
-        "adjclose": 238.0,
-        "dividends": 0.0,
+        "low": 230,
+        "close": 238,
+        "volume": 4208930,
+        "volume_lot": 4208.93,
         "MA5": 235.9,
         "MA20": 240.725,
         "MA60": 219.975,
@@ -3875,19 +3625,16 @@
         "bb_dn": 219.18091728571503,
         "DIF": 4.261992109567245,
         "DEA": 6.582705147931192,
-        "HIST": -4.641426076727894,
-        "volume_lot": 4208.93
+        "HIST": -4.641426076727894
       },
       {
         "date": "2026-07-17",
-        "symbol": "6257.TW",
         "open": 230.5,
         "high": 230.5,
         "low": 214.5,
         "close": 214.5,
-        "volume": 7607149.0,
-        "adjclose": 214.5,
-        "dividends": 0.0,
+        "volume": 7607149,
+        "volume_lot": 7607.149,
         "MA5": 229.9,
         "MA20": 239.7,
         "MA60": 220.44166666666663,
@@ -3896,19 +3643,16 @@
         "bb_dn": 215.39074250414149,
         "DIF": 1.9913809506076063,
         "DEA": 5.664440308466475,
-        "HIST": -7.346118715717738,
-        "volume_lot": 7607.149
+        "HIST": -7.346118715717738
       },
       {
         "date": "2026-07-20",
-        "symbol": "6257.TW",
         "open": 214.5,
         "high": 215.5,
-        "low": 198.0,
-        "close": 211.0,
-        "volume": 6382214.0,
-        "adjclose": 211.0,
-        "dividends": 0.0,
+        "low": 198,
+        "close": 211,
+        "volume": 6382214,
+        "volume_lot": 6382.214,
         "MA5": 225.2,
         "MA20": 238.125,
         "MA60": 220.94166666666663,
@@ -3917,19 +3661,16 @@
         "bb_dn": 210.84519978079103,
         "DIF": -0.0894839853363578,
         "DEA": 4.513655449705909,
-        "HIST": -9.206278870084532,
-        "volume_lot": 6382.214
+        "HIST": -9.206278870084532
       },
       {
         "date": "2026-07-21",
-        "symbol": "6257.TW",
-        "open": 215.0,
-        "high": 217.0,
-        "low": 211.0,
-        "close": 216.0,
-        "volume": 3850004.0,
-        "adjclose": 216.0,
-        "dividends": 0.0,
+        "open": 215,
+        "high": 217,
+        "low": 211,
+        "close": 216,
+        "volume": 3850004,
+        "volume_lot": 3850.004,
         "MA5": 223.4,
         "MA20": 237.075,
         "MA60": 221.45833333333331,
@@ -3938,19 +3679,16 @@
         "bb_dn": 208.1366603793522,
         "DIF": -1.3199111119552924,
         "DEA": 3.3469421373736687,
-        "HIST": -9.33370649865792,
-        "volume_lot": 3850.004
+        "HIST": -9.33370649865792
       },
       {
         "date": "2026-07-22",
-        "symbol": "6257.TW",
-        "open": 223.0,
+        "open": 223,
         "high": 227.5,
         "low": 221.5,
         "close": 223.5,
-        "volume": 4891816.0,
-        "adjclose": 223.5,
-        "dividends": 0.0,
+        "volume": 4891816,
+        "volume_lot": 4891.816,
         "MA5": 220.6,
         "MA20": 236.125,
         "MA60": 222.21666666666667,
@@ -3959,19 +3697,16 @@
         "bb_dn": 206.7177304905751,
         "DIF": -1.6705886486287511,
         "DEA": 2.3434359801731848,
-        "HIST": -8.028049257603872,
-        "volume_lot": 4891.816
+        "HIST": -8.028049257603872
       },
       {
         "date": "2026-07-23",
-        "symbol": "6257.TW",
         "open": 226.5,
-        "high": 232.0,
+        "high": 232,
         "low": 223.5,
-        "close": 226.0,
-        "volume": 5113177.0,
-        "adjclose": 226.0,
-        "dividends": 0.0,
+        "close": 226,
+        "volume": 5113177,
+        "volume_lot": 5113.177,
         "MA5": 218.2,
         "MA20": 235.525,
         "MA60": 222.975,
@@ -3980,19 +3715,16 @@
         "bb_dn": 205.80720230232475,
         "DIF": -1.7268677597133149,
         "DEA": 1.529375232195885,
-        "HIST": -6.512485983818399,
-        "volume_lot": 5113.177
+        "HIST": -6.512485983818399
       },
       {
         "date": "2026-07-24",
-        "symbol": "6257.TW",
-        "open": 223.0,
-        "high": 225.0,
+        "open": 223,
+        "high": 225,
         "low": 215.5,
-        "close": 217.0,
-        "volume": 5691501.0,
-        "adjclose": 217.0,
-        "dividends": 0.0,
+        "close": 217,
+        "volume": 5691501,
+        "volume_lot": 5691.501,
         "MA5": 218.7,
         "MA20": 235.175,
         "MA60": 223.63333333333333,
@@ -4001,19 +3733,16 @@
         "bb_dn": 204.7656675508989,
         "DIF": -2.469230393643244,
         "DEA": 0.7296541070280593,
-        "HIST": -6.397769001342606,
-        "volume_lot": 5691.501
+        "HIST": -6.397769001342606
       },
       {
         "date": "2026-07-27",
-        "symbol": "6257.TW",
-        "open": 217.0,
-        "high": 219.0,
+        "open": 217,
+        "high": 219,
         "low": 207.5,
         "close": 215.5,
-        "volume": 4077797.0,
-        "adjclose": 215.5,
-        "dividends": 0.0,
+        "volume": 4077797,
+        "volume_lot": 4077.797,
         "MA5": 219.6,
         "MA20": 234.725,
         "MA60": 224.225,
@@ -4022,19 +3751,16 @@
         "bb_dn": 203.4432561227806,
         "DIF": -3.142372281837396,
         "DEA": -0.0447511707450317,
-        "HIST": -6.195242222184729,
-        "volume_lot": 4077.797
+        "HIST": -6.195242222184729
       },
       {
         "date": "2026-07-28",
-        "symbol": "6257.TW",
-        "open": 208.0,
-        "high": 208.0,
-        "low": 195.0,
-        "close": 195.0,
-        "volume": 5748211.0,
-        "adjclose": 195.0,
-        "dividends": 0.0,
+        "open": 208,
+        "high": 208,
+        "low": 195,
+        "close": 195,
+        "volume": 5748211,
+        "volume_lot": 5748.211,
         "MA5": 215.4,
         "MA20": 232.625,
         "MA60": 224.3,
@@ -4043,20 +3769,17 @@
         "bb_dn": 196.91103214427227,
         "DIF": -5.269279775073983,
         "DEA": -1.089656891610822,
-        "HIST": -8.359245766926321,
-        "volume_lot": 5748.211
+        "HIST": -8.359245766926321
       },
       {
         "date": "2026-07-29",
-        "symbol": "6257.TW",
         "open": 196.5,
         "high": 198.5,
-        "low": 176.0,
+        "low": 176,
         "close": 181.5,
-        "volume": 8901115.0,
-        "adjclose": 181.5,
-        "dividends": 0.0,
-        "MA5": 207.0,
+        "volume": 8901115,
+        "volume_lot": 8901.115,
+        "MA5": 207,
         "MA20": 229.45,
         "MA60": 224.04166666666663,
         "bb_mid": 229.45,
@@ -4064,19 +3787,16 @@
         "bb_dn": 187.8893214684847,
         "DIF": -7.9525345942755905,
         "DEA": -2.462232432143776,
-        "HIST": -10.980604324263629,
-        "volume_lot": 8901.115
+        "HIST": -10.980604324263629
       },
       {
         "date": "2026-07-30",
-        "symbol": "6257.TW",
-        "open": 178.0,
+        "open": 178,
         "high": 186.5,
         "low": 171.5,
         "close": 173.5,
-        "volume": 7049098.0,
-        "adjclose": 173.5,
-        "dividends": 0.0,
+        "volume": 7049098,
+        "volume_lot": 7049.098,
         "MA5": 196.5,
         "MA20": 225.575,
         "MA60": 223.54166666666663,
@@ -4085,19 +3805,16 @@
         "bb_dn": 178.66628545781754,
         "DIF": -10.602349229327842,
         "DEA": -4.0902557915805895,
-        "HIST": -13.024186875494506,
-        "volume_lot": 7049.098
+        "HIST": -13.024186875494506
       },
       {
         "date": "2026-07-31",
-        "symbol": "6257.TW",
         "open": 188.5,
         "high": 190.5,
-        "low": 183.0,
+        "low": 183,
         "close": 186.5,
-        "volume": 7701463.0,
-        "adjclose": 186.5,
-        "dividends": 0.0,
+        "volume": 7701463,
+        "volume_lot": 7701.463,
         "MA5": 190.4,
         "MA20": 222.175,
         "MA60": 223.1,
@@ -4106,19 +3823,16 @@
         "bb_dn": 174.29778725740232,
         "DIF": -11.520553296912055,
         "DEA": -5.576315292646883,
-        "HIST": -11.888476008530343,
-        "volume_lot": 7701.463
+        "HIST": -11.888476008530343
       },
       {
         "date": "2026-08-03",
-        "symbol": "6257.TW",
-        "open": 184.0,
+        "open": 184,
         "high": 199.5,
-        "low": 184.0,
+        "low": 184,
         "close": 195.5,
-        "volume": 5279786.0,
-        "adjclose": 195.5,
-        "dividends": 0.0,
+        "volume": 5279786,
+        "volume_lot": 5279.786,
         "MA5": 186.4,
         "MA20": 218.3,
         "MA60": 222.84166666666667,
@@ -4127,19 +3841,16 @@
         "bb_dn": 175.19733186912947,
         "DIF": -11.390706873544616,
         "DEA": -6.7391936088264295,
-        "HIST": -9.303026529436371,
-        "volume_lot": 5279.786
+        "HIST": -9.303026529436371
       },
       {
         "date": "2026-08-04",
-        "symbol": "6257.TW",
-        "open": 192.0,
+        "open": 192,
         "high": 202.5,
-        "low": 190.0,
+        "low": 190,
         "close": 199.5,
-        "volume": 4497899.0,
-        "adjclose": 199.5,
-        "dividends": 0.0,
+        "volume": 4497899,
+        "volume_lot": 4497.899,
         "MA5": 187.3,
         "MA20": 216.175,
         "MA60": 222.625,
@@ -4148,19 +3859,16 @@
         "bb_dn": 173.77066649503894,
         "DIF": -10.84007840083737,
         "DEA": -7.559370567228619,
-        "HIST": -6.561415667217503,
-        "volume_lot": 4497.899
+        "HIST": -6.561415667217503
       },
       {
         "date": "2026-08-05",
-        "symbol": "6257.TW",
         "open": 206.5,
-        "high": 211.0,
-        "low": 202.0,
+        "high": 211,
+        "low": 202,
         "close": 202.5,
-        "volume": 4664845.0,
-        "adjclose": 202.5,
-        "dividends": 0.0,
+        "volume": 4664845,
+        "volume_lot": 4664.845,
         "MA5": 191.5,
         "MA20": 214.075,
         "MA60": 222.5,
@@ -4169,19 +3877,16 @@
         "bb_dn": 173.36348443007844,
         "DIF": -10.045824430473148,
         "DEA": -8.056661339877525,
-        "HIST": -3.9783261811912425,
-        "volume_lot": 4664.845
+        "HIST": -3.9783261811912425
       },
       {
         "date": "2026-08-06",
-        "symbol": "6257.TW",
-        "open": 203.0,
+        "open": 203,
         "high": 207.5,
         "low": 198.5,
-        "close": 207.0,
-        "volume": 3578301.0,
-        "adjclose": 207.0,
-        "dividends": 0.0,
+        "close": 207,
+        "volume": 3578301,
+        "volume_lot": 3578.301,
         "MA5": 198.2,
         "MA20": 212.2,
         "MA60": 222.41666666666663,
@@ -4190,19 +3895,16 @@
         "bb_dn": 173.88238003215795,
         "DIF": -8.950088990096958,
         "DEA": -8.235346869921411,
-        "HIST": -1.429484240351094,
-        "volume_lot": 3578.301
+        "HIST": -1.429484240351094
       },
       {
         "date": "2026-08-07",
-        "symbol": "6257.TW",
-        "open": 208.0,
-        "high": 210.0,
-        "low": 199.0,
+        "open": 208,
+        "high": 210,
+        "low": 199,
         "close": 199.5,
-        "volume": 4083800.0,
-        "adjclose": 199.5,
-        "dividends": 0.0,
+        "volume": 4083800,
+        "volume_lot": 4083.8,
         "MA5": 200.8,
         "MA20": 209.95,
         "MA60": 222.2333333333333,
@@ -4211,19 +3913,16 @@
         "bb_dn": 174.29063937757763,
         "DIF": -8.587902089630148,
         "DEA": -8.305857913863159,
-        "HIST": -0.5640883515339787,
-        "volume_lot": 4083.8
+        "HIST": -0.5640883515339787
       },
       {
         "date": "2026-08-10",
-        "symbol": "6257.TW",
-        "open": 203.0,
-        "high": 213.0,
+        "open": 203,
+        "high": 213,
         "low": 202.5,
         "close": 207.5,
-        "volume": 6358316.0,
-        "adjclose": 207.5,
-        "dividends": 0.0,
+        "volume": 6358316,
+        "volume_lot": 6358.316,
         "MA5": 203.2,
         "MA20": 208.6,
         "MA60": 222.075,
@@ -4232,19 +3931,16 @@
         "bb_dn": 174.7627424279099,
         "DIF": -7.568092955764371,
         "DEA": -8.158304922243403,
-        "HIST": 1.180423932958064,
-        "volume_lot": 6358.316
+        "HIST": 1.180423932958064
       },
       {
         "date": "2026-08-11",
-        "symbol": "6257.TW",
-        "open": 210.0,
-        "high": 210.0,
-        "low": 203.0,
+        "open": 210,
+        "high": 210,
+        "low": 203,
         "close": 204.5,
-        "volume": 4421466.0,
-        "adjclose": 204.5,
-        "dividends": 0.0,
+        "volume": 4421466,
+        "volume_lot": 4421.466,
         "MA5": 204.2,
         "MA20": 207.575,
         "MA60": 221.84166666666667,
@@ -4253,19 +3949,16 @@
         "bb_dn": 174.55489248957585,
         "DIF": -6.9221673613594135,
         "DEA": -7.911077410066605,
-        "HIST": 1.977820097414384,
-        "volume_lot": 4421.466
+        "HIST": 1.977820097414384
       },
       {
         "date": "2026-08-12",
-        "symbol": "6257.TW",
         "open": 206.5,
-        "high": 217.0,
-        "low": 206.0,
-        "close": 211.0,
-        "volume": 7148841.0,
-        "adjclose": 211.0,
-        "dividends": 0.0,
+        "high": 217,
+        "low": 206,
+        "close": 211,
+        "volume": 7148841,
+        "volume_lot": 7148.841,
         "MA5": 205.9,
         "MA20": 206.25,
         "MA60": 221.85,
@@ -4274,40 +3967,34 @@
         "bb_dn": 176.14103123652407,
         "DIF": -5.818696683562223,
         "DEA": -7.49260126476573,
-        "HIST": 3.347809162407014,
-        "volume_lot": 7148.841
+        "HIST": 3.347809162407014
       },
       {
         "date": "2026-08-13",
-        "symbol": "6257.TW",
         "open": 214.5,
-        "high": 224.0,
-        "low": 213.0,
-        "close": 213.0,
-        "volume": 7738078.0,
-        "adjclose": 213.0,
-        "dividends": 0.0,
+        "high": 224,
+        "low": 213,
+        "close": 213,
+        "volume": 7738078,
+        "volume_lot": 7738.078,
         "MA5": 207.1,
-        "MA20": 205.0,
+        "MA20": 205,
         "MA60": 221.95,
-        "bb_mid": 205.0,
+        "bb_mid": 205,
         "bb_up": 231.60451089571035,
         "bb_dn": 178.39548910428965,
         "DIF": -4.728300036472547,
         "DEA": -6.939741019107093,
-        "HIST": 4.422881965269093,
-        "volume_lot": 7738.078
+        "HIST": 4.422881965269093
       },
       {
         "date": "2026-08-14",
-        "symbol": "6257.TW",
-        "open": 216.0,
+        "open": 216,
         "high": 216.5,
         "low": 207.5,
-        "close": 208.0,
-        "volume": 5079086.0,
-        "adjclose": 208.0,
-        "dividends": 0.0,
+        "close": 208,
+        "volume": 5079086,
+        "volume_lot": 5079.086,
         "MA5": 208.8,
         "MA20": 204.675,
         "MA60": 221.8083333333333,
@@ -4316,19 +4003,16 @@
         "bb_dn": 178.38569609137645,
         "DIF": -4.218977306855607,
         "DEA": -6.395588276656797,
-        "HIST": 4.353221939602381,
-        "volume_lot": 5079.086
+        "HIST": 4.353221939602381
       },
       {
         "date": "2026-08-17",
-        "symbol": "6257.TW",
-        "open": 208.0,
+        "open": 208,
         "high": 210.5,
         "low": 206.5,
-        "close": 208.0,
-        "volume": 2815105.0,
-        "adjclose": 208.0,
-        "dividends": 0.0,
+        "close": 208,
+        "volume": 2815105,
+        "volume_lot": 2815.105,
         "MA5": 208.9,
         "MA20": 204.525,
         "MA60": 221.575,
@@ -4337,19 +4021,16 @@
         "bb_dn": 178.3477675259593,
         "DIF": -3.7718557687585417,
         "DEA": -5.870841775077146,
-        "HIST": 4.197972012637209,
-        "volume_lot": 2815.105
+        "HIST": 4.197972012637209
       },
       {
         "date": "2026-08-18",
-        "symbol": "6257.TW",
-        "open": 208.0,
+        "open": 208,
         "high": 208.5,
         "low": 199.5,
         "close": 199.5,
-        "volume": 6127713.0,
-        "adjclose": 199.5,
-        "dividends": 0.0,
+        "volume": 6127713,
+        "volume_lot": 6127.713,
         "MA5": 207.9,
         "MA20": 203.7,
         "MA60": 221.04166666666663,
@@ -4358,19 +4039,16 @@
         "bb_dn": 177.9854127001818,
         "DIF": -4.056625438126787,
         "DEA": -5.507998507687074,
-        "HIST": 2.902746139120575,
-        "volume_lot": 6127.713
+        "HIST": 2.902746139120575
       },
       {
         "date": "2026-08-19",
-        "symbol": "6257.TW",
-        "open": 194.0,
-        "high": 201.0,
+        "open": 194,
+        "high": 201,
         "low": 192.5,
         "close": 199.5,
-        "volume": 5398624.0,
-        "adjclose": 199.5,
-        "dividends": 0.0,
+        "volume": 5398624,
+        "volume_lot": 5398.624,
         "MA5": 205.6,
         "MA20": 202.5,
         "MA60": 220.41666666666663,
@@ -4379,19 +4057,16 @@
         "bb_dn": 178.40435724036456,
         "DIF": -4.2335062282229785,
         "DEA": -5.253100051794255,
-        "HIST": 2.039187647142553,
-        "volume_lot": 5398.624
+        "HIST": 2.039187647142553
       },
       {
         "date": "2026-08-20",
-        "symbol": "6257.TW",
-        "open": 203.0,
-        "high": 204.0,
-        "low": 197.0,
+        "open": 203,
+        "high": 204,
+        "low": 197,
         "close": 199.5,
-        "volume": 4914628.0,
-        "adjclose": 199.5,
-        "dividends": 0.0,
+        "volume": 4914628,
+        "volume_lot": 4914.628,
         "MA5": 202.9,
         "MA20": 201.175,
         "MA60": 219.85,
@@ -4400,20 +4075,17 @@
         "bb_dn": 179.61282246617998,
         "DIF": -4.323842958603535,
         "DEA": -5.067248633156111,
-        "HIST": 1.4868113491051511,
-        "volume_lot": 4914.628
+        "HIST": 1.4868113491051511
       },
       {
         "date": "2026-08-21",
-        "symbol": "6257.TW",
-        "open": 200.0,
-        "high": 200.0,
+        "open": 200,
+        "high": 200,
         "low": 196.5,
         "close": 198.5,
-        "volume": 4220743.0,
-        "adjclose": 198.5,
-        "dividends": 0.0,
-        "MA5": 201.0,
+        "volume": 4220743,
+        "volume_lot": 4220.743,
+        "MA5": 201,
         "MA20": 200.25,
         "MA60": 219.34166666666667,
         "bb_mid": 200.25,
@@ -4421,19 +4093,16 @@
         "bb_dn": 179.93128941098934,
         "DIF": -4.425117115356329,
         "DEA": -4.938822329596155,
-        "HIST": 1.0274104284796517,
-        "volume_lot": 4220.743
+        "HIST": 1.0274104284796517
       },
       {
         "date": "2026-08-24",
-        "symbol": "6257.TW",
         "open": 198.5,
         "high": 203.5,
         "low": 197.5,
         "close": 197.5,
-        "volume": 2223734.0,
-        "adjclose": 197.5,
-        "dividends": 0.0,
+        "volume": 2223734,
+        "volume_lot": 2223.734,
         "MA5": 198.9,
         "MA20": 199.35,
         "MA60": 218.84166666666667,
@@ -4442,19 +4111,16 @@
         "bb_dn": 180.25523631987093,
         "DIF": -4.533806359360852,
         "DEA": -4.857819135549095,
-        "HIST": 0.6480255523764846,
-        "volume_lot": 2223.734
+        "HIST": 0.6480255523764846
       },
       {
         "date": "2026-08-25",
-        "symbol": "6257.TW",
-        "open": 197.0,
+        "open": 197,
         "high": 199.5,
-        "low": 190.0,
+        "low": 190,
         "close": 198.5,
-        "volume": 4499061.0,
-        "adjclose": 198.5,
-        "dividends": 0.0,
+        "volume": 4499061,
+        "volume_lot": 4499.061,
         "MA5": 198.7,
         "MA20": 199.525,
         "MA60": 218.49166666666667,
@@ -4463,19 +4129,16 @@
         "bb_dn": 180.5290135818122,
         "DIF": -4.487522361252019,
         "DEA": -4.78375978068968,
-        "HIST": 0.5924748388753223,
-        "volume_lot": 4499.061
+        "HIST": 0.5924748388753223
       },
       {
         "date": "2026-08-26",
-        "symbol": "6257.TW",
         "open": 200.5,
-        "high": 205.0,
-        "low": 199.0,
-        "close": 204.0,
-        "volume": 4084859.0,
-        "adjclose": 204.0,
-        "dividends": 0.0,
+        "high": 205,
+        "low": 199,
+        "close": 204,
+        "volume": 4084859,
+        "volume_lot": 4084.859,
         "MA5": 199.6,
         "MA20": 200.65,
         "MA60": 218.3083333333333,
@@ -4484,29 +4147,25 @@
         "bb_dn": 183.4799679674156,
         "DIF": -3.9613736748561914,
         "DEA": -4.619282559522983,
-        "HIST": 1.3158177693335844,
-        "volume_lot": 4084.859
+        "HIST": 1.3158177693335844
       },
       {
         "date": "2026-08-27",
-        "symbol": "6257.TW",
-        "open": 206.0,
+        "open": 206,
         "high": 206.5,
         "low": 201.5,
-        "close": null,
-        "volume": 5338853.0,
-        "adjclose": null,
-        "dividends": 0.0,
-        "MA5": null,
-        "MA20": null,
-        "MA60": null,
-        "bb_mid": null,
-        "bb_up": null,
-        "bb_dn": null,
-        "DIF": -3.9613736748561914,
-        "DEA": -4.4877007825896245,
-        "HIST": 1.052654215466868,
-        "volume_lot": 5338.853
+        "close": 204,
+        "volume": 5222835,
+        "volume_lot": 5222.835,
+        "MA5": 200.5,
+        "MA20": 202.175,
+        "MA60": 217.875,
+        "bb_mid": 202.175,
+        "bb_up": 214.02099088299383,
+        "bb_dn": 190.3290091170062,
+        "DIF": -3.5040050610149365,
+        "DEA": -4.396227059821374,
+        "HIST": 1.7844439976128754
       }
     ],
     "valuation": {
@@ -4526,139 +4185,155 @@
   "revenue_predictions": {
     "latest_month_fill": {
       "month": "2026/07",
-      "revenue": 2014.2,
+      "revenue": 2014.186,
       "type": "actual"
     },
     "next_month_forecast": {
       "month": "2026/08",
       "revenue": 2080,
       "confidence": "high",
-      "basis": "HPC與高階測試拉貨動能延續，出貨型訊號顯示拉貨復甦"
+      "basis": "4月至7月單月營收皆維持19億元以上，7月首次突破20億元並年增26.6%；湖口新增產能已於7月加入量產，AI、ASIC、CPU／GPU、矽光子及高速網通需求仍強，因此預估8月維持溫和月增並再創高。"
     }
   },
   "eps_predictions": {
     "latest_quarter_fill": {
       "period": "2026Q2",
       "eps": 2.55,
-      "gross": 34.2,
-      "net": 26.8,
-      "opm": 25.6,
+      "gross": 34.24,
+      "net": 20.75,
+      "opm": 25.64,
       "eps_ytd": 4.65,
       "type": "actual"
     },
     "next_quarter_forecast": {
       "period": "2026Q3",
-      "eps": 2.75,
-      "gross": 34.5,
-      "net": 27,
-      "opm": 26,
-      "eps_ytd": 7.4,
-      "confidence": "medium"
+      "eps": 2.85,
+      "gross": 35,
+      "net": 21.5,
+      "opm": 26.5,
+      "eps_ytd": 7.5,
+      "confidence": "high"
     },
     "future_quarter_forecast": {
       "period": "2026Q4",
-      "eps": 2.85,
-      "gross": 34.8,
-      "net": 27.2,
-      "opm": 26.5,
-      "eps_ytd": 10.25,
+      "eps": 3.1,
+      "gross": 35.5,
+      "net": 22,
+      "opm": 27,
+      "eps_ytd": 10.6,
       "confidence": "medium"
     }
   },
   "ai_message_board": {
     "left_messages": [
       {
-        "date": "2026-08-25",
-        "content": "最新財報與籌碼數據顯示，三大法人近期呈現賣超，籌碼面短期承受外資與投信調節壓力。",
+        "date": "2026-08-27",
+        "content": "收盤204元，已重新站上20日線202.18與120日線198.66，但仍低於60日線217.88，屬中期修復而非完整多頭排列。",
+        "sentiment": 0,
+        "tag": "技術面"
+      },
+      {
+        "date": "2026-08-27",
+        "content": "近20日股價上漲約17.6%，但外資近20日賣超約1098萬股、投信賣超約420萬股，Block A判定aligned_selling。",
         "sentiment": -1,
         "tag": "籌碼"
       },
       {
-        "date": "2026-08-15",
-        "content": "第二季財報顯示獲利品質極佳，屬於『高品質本業獲利』，EPS達2.55元，毛利率跳升至34.2%。",
+        "date": "2026-08-05",
+        "content": "7月營收20.14億元創歷史新高，月增2.84%、年增26.62%，前7月累計營收年增19.31%。",
+        "sentiment": 1,
+        "tag": "月營收"
+      },
+      {
+        "date": "2026Q2",
+        "content": "Q2營收季增11.1%、EPS季增21.4%，毛利率季增2.6個百分點、營益率季增3.3個百分點，Block A判定正向獲利槓桿。",
         "sentiment": 1,
         "tag": "財報"
       },
       {
-        "date": "2026-07-20",
-        "content": "矽格龍潭新廠預計將帶來25%以上的產能提升，專注高速運算與通訊領域，佈局AI測試。",
+        "date": "2026Q2",
+        "content": "本業占稅前獲利約95.7%，獲利主要來自營業利益而非業外，屬高品質本業獲利。",
         "sentiment": 1,
-        "tag": "擴產"
+        "tag": "獲利品質"
       },
       {
-        "date": "2026-07-10",
-        "content": "月營收持續呈現雙位數YoY增長，出貨型訂單動能維持『拉貨復甦』格局。",
+        "date": "2026Q2",
+        "content": "DoI約17.6日，雖季增13.6%，但毛利率、營益率與營收同步提升，Block A仍判定稼動率爬升與ASP／產品組合改善。",
         "sentiment": 1,
-        "tag": "營收"
+        "tag": "稼動率"
       },
       {
-        "date": "2026-06-15",
-        "content": "公司宣佈赴美國德州奧斯汀設廠，服務北美客戶，強化在地化供應鏈，降低地緣政治風險。",
-        "sentiment": 1,
-        "tag": "擴產"
+        "date": "2026Q2",
+        "content": "CapEx約45.73億元、季增約201%，占營收77.8%；OCF約20.96億元但FCF轉為負24.77億元，擴產強度非常高。",
+        "sentiment": -1,
+        "tag": "資本支出"
       },
       {
-        "date": "2026-05-20",
-        "content": "內部人董監持股比率偏低(5.85%)，雖無質押風險，但經營層與股東利益一致性須持續觀察。",
+        "date": "2026-08",
+        "content": "內部人持股約5.85%、質押0%，無質押風險但持股偏低；Block A治理模組判定low_insider_alignment。",
         "sentiment": 0,
         "tag": "治理"
       }
     ],
     "right_events": [
       {
-        "date": "2026-09-10",
-        "event": "8月營收公告"
+        "date": "2026-09上旬",
+        "event": "公告2026年8月營收，驗證7月突破20億元後AI、ASIC與高速光通訊測試需求是否持續創高。"
       },
       {
-        "date": "2026-10-15",
-        "event": "Q3財報法說會 (預估)"
+        "date": "2026Q3財報窗口",
+        "event": "確認高額資本支出是否持續轉化為營收、毛利率及EPS成長，並觀察FCF與借款變化。"
+      },
+      {
+        "date": "2026Q4-2027Q1",
+        "event": "竹東中興新廠完工並加入量產，驗證新產能利用率與AI大客戶訂單去化速度。"
       }
     ]
   },
   "risk_evaluation": {
     "summary": {
-      "overall_risk_score": 45,
-      "risk_level_text": "中度風險",
-      "display_hint": "財報本業獲利極佳且稼動率爬升，但需留意淨負債營運槓桿、法人籌碼賣壓與董監持股偏低之治理訊號。"
+      "overall_risk_score": 61,
+      "risk_level_text": "中高風險",
+      "display_hint": "營運面強：Q2營收、EPS、毛利率、營益率同步改善，稼動率與產品組合訊號均正向，7月營收再創歷史新高。主要風控來自Q2 CapEx約占營收78%、借款季增24.6%、公司由淨現金轉淨負債，以及外資與投信20日同步賣超。股價雖重新站回20日與120日線，但尚未突破60日線，因此維持HOLD偏多；208、218依序為兩個升級確認點。"
     },
     "details": [
       {
         "name": "關稅與貿易風險 (TARIFF)",
         "risk_level": 1,
-        "description": "規劃德州奧斯汀廠以配合北美在地化需求，有效降低未來關稅壁壘干擾。",
-        "alert_logic": "美國設廠稀釋地緣貿易風險"
+        "description": "矽格主要提供半導體封裝測試服務，直接商品關稅曝險有限，影響主要透過客戶終端產品與全球供應鏈配置傳導。",
+        "alert_logic": "若半導體或AI伺服器相關關稅直接造成主要客戶縮減投片與測試需求，風險升至2-3。"
       },
       {
         "name": "匯率風險 (FX)",
-        "risk_level": 1,
-        "description": "半導體代工主要以美元計價，具備自然避險效果。",
-        "alert_logic": "進銷項幣別互抵機制穩定"
+        "risk_level": 2,
+        "description": "國際客戶與設備採購皆具有美元曝險，新台幣快速升值可能壓抑台幣營收與獲利，但設備、原料及部分成本亦具自然避險效果。",
+        "alert_logic": "若新台幣快速升值並伴隨毛利率由34%以上明顯回落，風險升至3。"
       },
       {
         "name": "地緣與供應鏈 (GEO)",
         "risk_level": 2,
-        "description": "主要高階產能(新竹、龍潭)集中於台灣，仍有基礎地緣波動風險。",
-        "alert_logic": "產能過度集中於單一島嶼"
+        "description": "核心產能與先進半導體供應鏈集中台灣，且主要AI客戶與設備供應跨美國、日本與台灣，科技管制及供應鏈中斷仍是重要外部風險。",
+        "alert_logic": "若先進晶圓、ATE設備或主要國際客戶受出口限制而延後產能需求，風險升至3。"
       },
       {
         "name": "產業循環 (CYCLE)",
         "risk_level": 1,
-        "description": "綜合引擎顯示『稼動率爬升』，目前處於需求回溫至主升段前期。",
-        "alert_logic": "營收連6月YoY轉正且毛利擴張"
+        "description": "AI ASIC、CPU／GPU、HPC、矽光子與高速網通測試需求仍處上升週期，Q2營收年增23.1%、7月年增26.6%，且新增產能已被客戶提前預訂。",
+        "alert_logic": "若連續兩月營收YoY降至10%以下、產能利用率顯著跌破70%或大客戶取消擴產，升至2-3。"
       },
       {
         "name": "估值與籌碼 (VAL)",
         "risk_level": 3,
-        "description": "近期外資與投信呈現賣超結帳，且分價結構顯示上方具備套牢壓力區。",
-        "alert_logic": "法人籌碼偏空與高檔回落壓力"
+        "description": "204元對TTM EPS約8.53元，本益比約23.9倍，高於2024至2025H1常見約13至17倍區間；外資近20日賣超約1098萬股、投信賣超約420萬股，法人仍呈同步賣出。",
+        "alert_logic": "若跌破190且法人續賣，維持3級；若站穩218且外資、投信轉為同步買超，可降至2。"
       },
       {
-        "name": "財務與治理風險 (GOV)",
+        "name": "全球戰爭影響風險 (WAR)",
         "risk_level": 2,
-        "description": "現金流防禦力下降轉為『淨負債(Net Debt)』營運，且董監持股比僅5.85%偏低。",
-        "alert_logic": "槓桿運用增加與內部人持股不足"
+        "description": "先進晶圓製造與封測產能高度集中台灣，台海衝突將直接影響矽格廠區、客戶投片與全球半導體供應鏈。",
+        "alert_logic": "若台海或台灣主要半導體生產區發生直接軍事衝突，風險立即升至3。"
       }
     ]
   },
-  "reportDate": "2026-08-26 01:09:56"
+  "reportDate": "2026-08-28 01:35:40"
 }
