@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-28T06:47:15.471672+00:00
+> 更新時間：2026-08-28T12:23:36.163722+00:00
 
 ### 🚀 Semtech 第二季財報電話會議亮點
 - **題材**: `光通訊與矽光子` | **重要性**: `80`
@@ -46,15 +46,6 @@
 
 ---
 
-### ⚖️ SK Hynix 繪製了先進的 HBM 封裝路徑：混合鍵合、英特爾 EMIB 和 3D 集成
-- **題材**: `HBM記憶體` | **重要性**: `73`
-- **來源**: Digitimes (2026-08-24T04:55:00Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 高頻寬記憶體 (HBM) 的競爭正在從原始記憶體效能轉向先進封裝。隨著頻寬、容量和堆疊高度的不斷攀升，熱管理、功耗和封裝已成為新的瓶頸。在熱C…
-- [原文連結](https://www.digitimes.com/news/a20260824PD224/hbm-packaging-sk-hynix-bandwidth-intel.html)
-
----
-
 ### 🚀 Eoptolink Technology boosts inventory 61% to meet AI demand
 - **題材**: `光通訊與矽光子` | **重要性**: `70`
 - **來源**: Crypto Briefing (2026-08-24T17:31:01Z)
@@ -65,19 +56,10 @@
 
 ---
 
-### ⚖️ 3D 光學展望 2030 年後，Nvidia 和 SK Hynix CPO 策略出現分歧
-- **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-08-25T06:47:15Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 8月20日，SK海力士全球研究團隊在《自然電子》雜誌上發表論文，詳細介紹了其高效能運算（HPC）和人工智慧的共封裝光學（CPO）開發。強調關鍵技術障礙並概述下一代的發展軌跡…
-- [原文連結](https://www.digitimes.com/news/a20260825PD216/sk-hynix-cpo-nvidia-3d-optics.html)
-
----
-
 ### ⚖️ Analysis: SK Hynix pushes beyond HBM with HBF and CPO
-- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **題材**: `HBM記憶體` | **重要性**: `68`
 - **來源**: Digitimes (2026-08-24T04:08:26Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: SK Hynix is moving on several fronts as it pushes deeper into system-level memory competition. From high-bandwidth memory (HBM) and high-bandwidth flash (HBF) to a recently published roadmap proposing to extend co-packaged optics (CPO) to the memory interface…
 - [原文連結](https://www.digitimes.com/news/a20260824PD216/sk-hynix-hbm-cpo-capacity-competition.html)
 
@@ -98,6 +80,17 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Challenges around co-packaged optics (CPO) remain unresolved, but they have not slowed the rapid rise of 800G and 1.6T silicon photonics, DIGITIMES analyst Kiwi Hsu said on August 20 at a semiconductor industry forum in Taipei. He said demand for AI cluster i…
 - [原文連結](https://www.digitimes.com/news/a20260821PD213/cpo-optics-silicon-photonics-demand.html)
+
+---
+
+### ⚖️ Adentris (YC P25) 正在招聘
+- **題材**: `光通訊與矽光子` | **重要性**: `65`
+- **來源**: Hacker News (2026-08-27T12:00:31Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 關於安德瑞斯
+
+Adentris (Y Combinator) 為行為健康提供者建立人工智慧驅動的合規性和收入誠信基礎設施。我們的系統讀取真實的病患記錄，發現臨床和監管風險，並將其擺在可以採取行動的人員面前…
+- [原文連結](https://www.ycombinator.com/companies/adentris/jobs/ZpMXZ0C-founding-engineer-ai-rcm-healthcare-platform-typescript-python)
 
 ---
 
@@ -128,6 +121,15 @@
 
 ---
 
+### ⚖️ 3D 光學展望 2030 年後，Nvidia 和 SK Hynix CPO 策略出現分歧
+- **題材**: `光通訊與矽光子` | **重要性**: `63`
+- **來源**: Digitimes (2026-08-25T06:47:15Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 8月20日，SK海力士全球研究團隊在《自然電子》雜誌上發表論文，詳細介紹了其高效能運算（HPC）和人工智慧的共封裝光學（CPO）開發。強調關鍵技術障礙並概述下一代的發展軌跡…
+- [原文連結](https://www.digitimes.com/news/a20260825PD216/sk-hynix-cpo-nvidia-3d-optics.html)
+
+---
+
 ### ⚖️ Samsung pushes HBM toward logic, SK Hynix targets packaging at Hot Chips 2026
 - **題材**: `HBM記憶體` | **重要性**: `63`
 - **來源**: Digitimes (2026-08-25T00:04:43Z)
@@ -155,30 +157,30 @@
 
 ---
 
-### 🚀 Google Pixel 11 Pro 與 Pixel 9 Pro：目前還沒有升級的理由
+### ⚠️ 美國半導體關稅目前涉及和不涉及的內容
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: The Next Web (2026-08-27T10:55:18Z)
+- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 美國一月對先進半導體徵收 25% 的關稅，但附帶一項豁免條款，禁止運往美國資料中心的相關產品觸及人工智慧建設。該豁免始終是臨時的，並且......
+- [原文連結](https://thenextweb.com/news/semiconductor-tariffs-data-centre-exemption-phase-two)
+
+---
+
+### 🚀 Apple 證實將於 9 月 9 日舉辦「驚喜與閃耀」活動
 - **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: Android Central (2026-08-27T04:17:29Z)
+- **來源**: The Next Web (2026-08-27T09:51:35Z)
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Pixel 11 Pro 帶來了新的相機和其他調整，是一款出色的小型旗艦產品。也就是說，已經用了兩年的 Pixel 9 Pro 也同樣出色，我暫時還不想換。
-- [原文連結](https://www.androidcentral.com/phones/google-pixel/google-pixel-11-pro-vs-pixel-9-pro)
+- **摘要**: Apple 已確認其秋季活動將於太平洋時間 9 月 9 日上午 10 點在 Apple Park 舉行，活動口號為“驚喜與閃耀”，邀請函上顯示太陽在公司徽標後面升起。期望它最終會展示…
+- [原文連結](https://thenextweb.com/news/apple-september-9-event-foldable-iphone-ultra)
 
 ---
 
-### ⚖️ 亞馬遜將購買 200 萬塊 Nvidia 晶片用於資料中心擴建
+### ⚖️ 英偉達公佈第二季營收 962 億美元
 - **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-08-26T21:07:55Z)
+- **來源**: The Next Web (2026-08-27T07:23:53Z)
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 亞馬遜公司將在未來兩年內在其資料中心機群中額外增加 200 萬個 Nvidia 公司圖形處理單元，這表明該公司...
-- [原文連結](https://finance.yahoo.com/technology/ai/articles/amazon-buy-2-million-nvidia-210755805.html)
-
----
-
-### ⚖️ SK 海力士剛剛擴大了相干公司的人工智慧優勢
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: 24/7 Wall St. (2026-08-26T16:33:31Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: SK 海力士剛剛發布了一份技術路線圖，重新繪製了人工智慧系統中光學元件的位置，一家公司幾乎提供了人工智慧系統所需的所有組件。
-- [原文連結](https://247wallst.com/investing/2026/08/26/sk-hynix-just-expanded-coherents-ai-upside/)
+- **摘要**: 英偉達報告本季營收為 962 億美元，比去年同期成長 106%，然後做了一些以前從未做過的事情，對全年進行了預測。消息發布後，該股下跌約 1.3%，直到財務長發布消息後，該股才大幅上漲。
+- [原文連結](https://thenextweb.com/news/nvidia-q2-fy27-results-year-ahead-forecast)
 
 ---
 
