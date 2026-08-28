@@ -1,14 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-28T20:43:10.875582+00:00
-
-### 🚀 Semtech 第二季財報電話會議亮點
-- **題材**: `光通訊與矽光子` | **重要性**: `80`
-- **來源**: MarketBeat (2026-08-25T22:02:09Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Semtech（納斯達克股票代碼：SMTC）報告了創紀錄的第二財季收入，並預計其數據中心、LoRa 和消費者業務將進一步增長，同時...
-- [原文連結](https://www.marketbeat.com/instant-alerts/transcript-semtech-q2-earnings-call-highlights-2026-08-25/?utm_source=yahoofinance&amp;utm_medium=yahoofinance)
-
----
+> 更新時間：2026-08-28T22:45:16.519788+00:00
 
 ### ⚖️ HTSI 透過 SiPh、CPO、封裝推動 AI 晶片需求
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -25,6 +16,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Semtech 公司 2027 年第二季財報電話會議的 Moby 摘要
 - [原文連結](https://app.moby.co/home/research/tools/earningsCalendar/earnings-semtech-corporation-q2-2027-earnings-call-summary?utm_source=yahoo_finance&amp;utm_medium=rss)
+
+---
+
+### 🚀 Semtech 第二季財報電話會議亮點
+- **題材**: `光通訊與矽光子` | **重要性**: `75`
+- **來源**: MarketBeat (2026-08-25T22:02:09Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Semtech（納斯達克股票代碼：SMTC）報告了創紀錄的第二財季收入，並預計其數據中心、LoRa 和消費者業務將進一步增長，同時...
+- [原文連結](https://www.marketbeat.com/instant-alerts/transcript-semtech-q2-earnings-call-highlights-2026-08-25/?utm_source=yahoofinance&amp;utm_medium=yahoofinance)
 
 ---
 
@@ -91,15 +91,6 @@ Adentris (Y Combinator) 為行為健康提供者建立人工智慧驅動的合�
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 英偉達預計公佈季度營收 921.8 億美元，接近去年同期的兩倍，為七個季度以來最快的成長，分析師預計本季將進一步增至 1,042 億美元。數字並不是真正的問題…
 - [原文連結](https://thenextweb.com/news/nvidia-earnings-rubin-ai-financing-scrutiny)
-
----
-
-### ⚖️ Finance giant sets aggressive Micron stock target after earnings
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: TheStreet (2026-08-25T22:33:00Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: BMO Capital 以出色的說服力開始對美光科技進行報道，這一數字令人矚目。
-- [原文連結](https://www.thestreet.com/investing/stocks/bmo-sets-micron-mu-stock-target-1300-outperform)
 
 ---
 
@@ -181,6 +172,15 @@ Adentris (Y Combinator) 為行為健康提供者建立人工智慧驅動的合�
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 亞馬遜公司將在未來兩年內在其資料中心機群中額外增加 200 萬個 Nvidia 公司圖形處理單元，這表明該公司...
 - [原文連結](https://finance.yahoo.com/technology/ai/articles/amazon-buy-2-million-nvidia-210755805.html)
+
+---
+
+### ⚖️ SK 海力士 (SKHY) 和三星電子：SK 海力士在記憶體晶片上花費 7,200 億美元。其股價已下跌 21%
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-08-26T20:39:11Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 2026 年 8 月 13 日，CNBC 報道 SK 海力士公司（納斯達克股票代碼：SKHY）正斥資 7,200 億美元建設其所謂的全球最大的記憶體工廠網路。
+- [原文連結](https://finance.yahoo.com/markets/stocks/articles/sk-hynix-skhy-samsung-electronics-203911366.html)
 
 ---
 
