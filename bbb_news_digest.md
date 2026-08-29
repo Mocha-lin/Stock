@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-29T07:32:28.548988+00:00
+> 更新時間：2026-08-29T14:10:59.982651+00:00
 
 ### ⚖️ SK Hynix breaks ground on US$4 billion Indiana plant that will package, not make, HBM
 - **題材**: `HBM記憶體` | **重要性**: `78`
@@ -16,15 +16,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 愛馬仕測試解決方案（HTSI）表示，隨著人工智慧和高效能運算（HPC）應用的不斷發展，2026年前7個月的營收達到27億新台幣（8,380萬美元），年成長128.2%，已經超過2025年全年規模…
 - [原文連結](https://www.digitimes.com/news/a20260826PD238/demand-packaging-testing-cpo-siph.html)
-
----
-
-### 🚀 Semtech 公司 2027 年第二季財報電話會議摘要
-- **題材**: `光通訊與矽光子` | **重要性**: `75`
-- **來源**: Moby.co (2026-08-26T12:30:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Semtech 公司 2027 年第二季財報電話會議的 Moby 摘要
-- [原文連結](https://app.moby.co/home/research/tools/earningsCalendar/earnings-semtech-corporation-q2-2027-earnings-call-summary?utm_source=yahoo_finance&amp;utm_medium=rss)
 
 ---
 
@@ -55,12 +46,30 @@
 
 ---
 
-### ⚖️ SK Hynix charts advanced HBM packaging path: hybrid bonding, Intel EMIB and 3D integration
-- **題材**: `HBM記憶體` | **重要性**: `73`
-- **來源**: Digitimes (2026-08-24T04:55:00Z)
+### 🚀 Micron workers increasingly support strike over bonus pay — labor union wants profit-sharing scheme, as employees at Samsung, SK hynix enjoy bonuses worth hundreds of thousands of dollars
+- **題材**: `HBM記憶體` | **重要性**: `72`
+- **來源**: Tom's Hardware UK (2026-08-28T13:07:55Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 80% of Micron workers in Taiwan have signaled that they're willing to go on strike if the company does not strike a deal over bonuses. The employees want to replace the current bonus system with a profit-sharing scheme, allowing them to take advantage of the …
+- [原文連結](https://www.tomshardware.com/tech-industry/micron-workers-increasingly-support-strike-over-bonus-pay-labor-union-wants-profit-sharing-scheme-as-employees-at-samsung-sk-hynix-enjoy-bonuses-worth-hundreds-of-thousands-of-dollars)
+
+---
+
+### ⚖️ 三星向Nvidia供應NVHBM晶片比競爭對手有優勢
+- **題材**: `HBM記憶體` | **重要性**: `70`
+- **來源**: SamMobile (2026-08-28T08:11:19Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Competition in high bandwidth memory (HBM) is shifting from raw memory performance to advanced packaging. As bandwidth, capacity and stack heights keep climbing, thermal management, power consumption and packaging have emerged as the new bottlenecks. At Hot C…
-- [原文連結](https://www.digitimes.com/news/a20260824PD224/hbm-packaging-sk-hynix-bandwidth-intel.html)
+- **摘要**: 今年，三星開始大量生產用於 NVIDIA 旗艦 Vera Rubin AI 平台的 HBM4 晶片。這筆交易將產生數十億美元的收入。現在，這家韓國公司在供應客製化 HBM 晶片方面似乎比競爭對手更具優勢…
+- [原文連結](https://www.sammobile.com/news/samsung-supply-nvhbm-chips-nvidia/)
+
+---
+
+### 🚀 Semtech 公司 2027 年第二季財報電話會議摘要
+- **題材**: `光通訊與矽光子` | **重要性**: `70`
+- **來源**: Moby.co (2026-08-26T12:30:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Semtech 公司 2027 年第二季財報電話會議的 Moby 摘要
+- [原文連結](https://app.moby.co/home/research/tools/earningsCalendar/earnings-semtech-corporation-q2-2027-earnings-call-summary?utm_source=yahoo_finance&amp;utm_medium=rss)
 
 ---
 
@@ -71,15 +80,6 @@
 - **摘要**: 新易盛科技 2026 年上半年庫存成長 61%，達到 17 億美元，淨利潤飆升 91%，滿足了人工智慧資料中心的持續需求。
 《新易盛科技將庫存增加 61% 以滿足 AI 需求》的消息首先出現在《Crypto Briefing》上。
 - [原文連結](https://cryptobriefing.com/eoptolink-inventory-surge-ai-demand/)
-
----
-
-### ⚖️ Analysis: SK Hynix pushes beyond HBM with HBF and CPO
-- **題材**: `HBM記憶體` | **重要性**: `68`
-- **來源**: Digitimes (2026-08-24T04:08:26Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: SK Hynix is moving on several fronts as it pushes deeper into system-level memory competition. From high-bandwidth memory (HBM) and high-bandwidth flash (HBF) to a recently published roadmap proposing to extend co-packaged optics (CPO) to the memory interface…
-- [原文連結](https://www.digitimes.com/news/a20260824PD216/sk-hynix-hbm-cpo-capacity-competition.html)
 
 ---
 
@@ -98,6 +98,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Challenges around co-packaged optics (CPO) remain unresolved, but they have not slowed the rapid rise of 800G and 1.6T silicon photonics, DIGITIMES analyst Kiwi Hsu said on August 20 at a semiconductor industry forum in Taipei. He said demand for AI cluster i…
 - [原文連結](https://www.digitimes.com/news/a20260821PD213/cpo-optics-silicon-photonics-demand.html)
+
+---
+
+### ⚠️ SK 海力士執行長警告晶片製造商在印第安納州建造 40 億美元晶圓廠，記憶體短缺將持續到 2030 年
+- **題材**: `HBM記憶體` | **重要性**: `65`
+- **來源**: Yahoo Entertainment (2026-08-28T07:04:58Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: South Korean chipmaker SK Hynix (NASDAQ:SKHY) said Thursday it will begin volume production of next-generation HBM4E chips at its Indiana facility in the thi...
+- [原文連結](https://finance.yahoo.com/technology/articles/sk-hynix-ceo-warns-memory-070458503.html)
 
 ---
 
@@ -121,12 +130,12 @@ Adentris (Y Combinator) 為行為健康提供者建立人工智慧驅動的合�
 
 ---
 
-### ⚖️ Samsung pushes HBM toward logic, SK Hynix targets packaging at Hot Chips 2026
-- **題材**: `HBM記憶體` | **重要性**: `63`
-- **來源**: Digitimes (2026-08-25T00:04:43Z)
+### ⚖️ SK hynix breaks ground on the first HBM plant in the US, bringing key AI component production to the States — says production starts in 2029
+- **題材**: `HBM記憶體` | **重要性**: `62`
+- **來源**: Tom's Hardware UK (2026-08-28T09:58:37Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Samsung Electronics and SK Hynix outlined different areas of emphasis for overcoming the next high-bandwidth memory (HBM) bottleneck at Hot Chips 2026, with Samsung pushing more logic and customer-specific functions into the HBM base die while SK Hynix focuse…
-- [原文連結](https://www.digitimes.com/news/a20260824VL214/samsung-hbm-packaging-dram-design.html)
+- **摘要**: SK海力士在美國的HBM組裝工廠破土動工，該工廠將在韓國生產的DRAM晶圓與其美國AI公司的消費者之間建立聯繫。
+- [原文連結](https://www.tomshardware.com/pc-components/dram/sk-hynix-breaks-ground-on-the-first-hbm-plant-in-the-us-bringing-key-ai-component-production-to-the-states-says-production-starts-in-2029)
 
 ---
 
@@ -136,6 +145,24 @@ Adentris (Y Combinator) 為行為健康提供者建立人工智慧驅動的合�
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Nvidia 推出了 NVHBM，這是一種客製化的高頻寬記憶體實現，可為在 NVLink Fusion 合作夥伴計劃中建立晶片的客戶提供更高的頻寬和更低的功耗。
 - [原文連結](https://www.tomshardware.com/pc-components/dram/nvidia-custom-nvhbm-promises-30-percent-higher-bandwidth-15-percent-lower-power-than-commodity-hbm4e-custom-base-die-and-phy-will-be-available-to-nvlink-fusion-partners)
+
+---
+
+### 🚀 一位特許經營商表示，他會「與自己的位置同死」——這就是酸奶地運營商拒絕兌現的原因
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Entrepreneur (2026-08-28T14:00:00Z)
+- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 這家冷凍優格連鎖店每家店每年的收入接近 100 萬美元，而且其特許經營權所有者也在不斷更新。
+- [原文連結](https://www.entrepreneur.com/business-news/one-franchisee-said-hed-die-with-his-locations-heres-why-yogurtland-operators-keep-renewing)
+
+---
+
+### ⚖️ 專家警告尼泊爾可能會遭受更多洪水襲擊。並且，聯準會主席將發表關鍵講話
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: NPR (2026-08-28T11:01:11Z)
+- **AI 判讀**: 屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 隨著襲擊尼泊爾和西藏邊境的山洪造成的死亡人數不斷上升，專家警告稱，可能還會出現更多洪水。預計聯準會主席凱文沃什今天將發表重要演說。
+- [原文連結](https://www.npr.org/2026/08/28/g-s1-140866/up-first-newsletter-nepal-tibet-floods-kevin-warsh-kennedy-center)
 
 ---
 
@@ -154,33 +181,6 @@ Adentris (Y Combinator) 為行為健康提供者建立人工智慧驅動的合�
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Investors cheered Nvidia's blowout earnings on Thursday, lifting other chip stocks and the broader tech sector as the AI trade sees renewed hype.
 - [原文連結](https://www.businessinsider.com/nvidia-earnings-q2-nvda-chips-memory-stock-rally-ndx-avgo-2026-8)
-
----
-
-### ⚠️ 美國半導體關稅目前涉及和不涉及的內容
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: The Next Web (2026-08-27T10:55:18Z)
-- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 美國一月對先進半導體徵收 25% 的關稅，但附帶一項豁免條款，禁止運往美國資料中心的相關產品觸及人工智慧建設。該豁免始終是臨時的，並且......
-- [原文連結](https://thenextweb.com/news/semiconductor-tariffs-data-centre-exemption-phase-two)
-
----
-
-### 🚀 Apple 證實將於 9 月 9 日舉辦「驚喜與閃耀」活動
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: The Next Web (2026-08-27T09:51:35Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Apple 已確認其秋季活動將於太平洋時間 9 月 9 日上午 10 點在 Apple Park 舉行，活動口號為“驚喜與閃耀”，邀請函上顯示太陽在公司徽標後面升起。期望它最終會展示…
-- [原文連結](https://thenextweb.com/news/apple-september-9-event-foldable-iphone-ultra)
-
----
-
-### ⚖️ 英偉達公佈第二季營收 962 億美元
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: The Next Web (2026-08-27T07:23:53Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 英偉達報告本季營收為 962 億美元，比去年同期成長 106%，然後做了一些以前從未做過的事情，對全年進行了預測。消息發布後，該股下跌約 1.3%，直到財務長發布消息後，該股才大幅上漲。
-- [原文連結](https://thenextweb.com/news/nvidia-q2-fy27-results-year-ahead-forecast)
 
 ---
 
