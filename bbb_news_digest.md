@@ -1,5 +1,14 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-28T22:45:16.519788+00:00
+> 更新時間：2026-08-29T04:01:46.262204+00:00
+
+### ⚖️ SK Hynix breaks ground on US$4 billion Indiana plant that will package, not make, HBM
+- **題材**: `HBM記憶體` | **重要性**: `78`
+- **來源**: Digitimes (2026-08-28T01:00:07Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: SK hynix broke ground on August 27 on a US$4 billion advanced packaging plant in Purdue Research Park, its first US high-bandwidth memory (HBM) site.
+- [原文連結](https://www.digitimes.com/news/a20260828VL202/sk-hynix-hbm-packaging-plant-usa-production.html)
+
+---
 
 ### ⚖️ HTSI 透過 SiPh、CPO、封裝推動 AI 晶片需求
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -37,6 +46,24 @@
 
 ---
 
+### 🚀 Zhongji Innolight's 1.6T surge shows AI networking is becoming next hyperscaler bottleneck
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-08-25T00:06:02Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 長期以來，人工智慧基礎設施的繁榮一直被定義為爭奪 GPU、記憶體和電源安全的競賽。然而，隨著集群規模不斷擴大，系統的另一層開始成為同樣決定性的限制：負責移動的光鏈路…
+- [原文連結](https://www.digitimes.com/news/a20260824VL217/infrastructure-revenue-growth-profit.html)
+
+---
+
+### ⚖️ SK Hynix charts advanced HBM packaging path: hybrid bonding, Intel EMIB and 3D integration
+- **題材**: `HBM記憶體` | **重要性**: `73`
+- **來源**: Digitimes (2026-08-24T04:55:00Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Competition in high bandwidth memory (HBM) is shifting from raw memory performance to advanced packaging. As bandwidth, capacity and stack heights keep climbing, thermal management, power consumption and packaging have emerged as the new bottlenecks. At Hot C…
+- [原文連結](https://www.digitimes.com/news/a20260824PD224/hbm-packaging-sk-hynix-bandwidth-intel.html)
+
+---
+
 ### 🚀 Eoptolink Technology boosts inventory 61% to meet AI demand
 - **題材**: `光通訊與矽光子` | **重要性**: `70`
 - **來源**: Crypto Briefing (2026-08-24T17:31:01Z)
@@ -44,6 +71,15 @@
 - **摘要**: 新易盛科技 2026 年上半年庫存成長 61%，達到 17 億美元，淨利潤飆升 91%，滿足了人工智慧資料中心的持續需求。
 《新易盛科技將庫存增加 61% 以滿足 AI 需求》的消息首先出現在《Crypto Briefing》上。
 - [原文連結](https://cryptobriefing.com/eoptolink-inventory-surge-ai-demand/)
+
+---
+
+### ⚖️ Analysis: SK Hynix pushes beyond HBM with HBF and CPO
+- **題材**: `HBM記憶體` | **重要性**: `68`
+- **來源**: Digitimes (2026-08-24T04:08:26Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: SK Hynix is moving on several fronts as it pushes deeper into system-level memory competition. From high-bandwidth memory (HBM) and high-bandwidth flash (HBF) to a recently published roadmap proposing to extend co-packaged optics (CPO) to the memory interface…
+- [原文連結](https://www.digitimes.com/news/a20260824PD216/sk-hynix-hbm-cpo-capacity-competition.html)
 
 ---
 
@@ -94,12 +130,12 @@ Adentris (Y Combinator) 為行為健康提供者建立人工智慧驅動的合�
 
 ---
 
-### ⚖️ CPO gains momentum as AI interconnect demands outpace chip gains
-- **題材**: `光通訊與矽光子` | **重要性**: `63`
-- **來源**: Digitimes (2026-08-21T02:01:47Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: The AI industry is watching the rise of co-packaged optics (CPO) as faster AI systems now depend on more efficient links between chips and data centers. At DIGITIMES Tech Forum 2026 in Taipei, analyst Jerry Zheng said the technology is moving toward mainstrea…
-- [原文連結](https://www.digitimes.com/news/a20260821PD202/cpo-optics-2026-chips-taipei.html)
+### ⚖️ Samsung pushes HBM toward logic, SK Hynix targets packaging at Hot Chips 2026
+- **題材**: `HBM記憶體` | **重要性**: `63`
+- **來源**: Digitimes (2026-08-25T00:04:43Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Samsung Electronics and SK Hynix outlined different areas of emphasis for overcoming the next high-bandwidth memory (HBM) bottleneck at Hot Chips 2026, with Samsung pushing more logic and customer-specific functions into the HBM base die while SK Hynix focuse…
+- [原文連結](https://www.digitimes.com/news/a20260824VL214/samsung-hbm-packaging-dram-design.html)
 
 ---
 
@@ -145,42 +181,6 @@ Adentris (Y Combinator) 為行為健康提供者建立人工智慧驅動的合�
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Apple 已確認其秋季活動將於太平洋時間 9 月 9 日上午 10 點在 Apple Park 舉行，活動口號為“驚喜與閃耀”，邀請函上顯示太陽在公司徽標後面升起。期望它最終會展示…
 - [原文連結](https://thenextweb.com/news/apple-september-9-event-foldable-iphone-ultra)
-
----
-
-### ⚖️ 英偉達公佈第二季營收 962 億美元
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: The Next Web (2026-08-27T07:23:53Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 英偉達報告本季營收為 962 億美元，比去年同期成長 106%，然後做了一些以前從未做過的事情，對全年進行了預測。消息發布後，該股下跌約 1.3%，直到財務長發布消息後，該股才大幅上漲。
-- [原文連結](https://thenextweb.com/news/nvidia-q2-fy27-results-year-ahead-forecast)
-
----
-
-### 🚀 Google Pixel 11 Pro 與 Pixel 9 Pro：目前還沒有升級的理由
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: Android Central (2026-08-27T04:17:29Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Pixel 11 Pro 帶來了新的相機和其他調整，是一款出色的小型旗艦產品。也就是說，已經用了兩年的 Pixel 9 Pro 也同樣出色，我暫時還不想換。
-- [原文連結](https://www.androidcentral.com/phones/google-pixel/google-pixel-11-pro-vs-pixel-9-pro)
-
----
-
-### ⚖️ 亞馬遜將購買 200 萬塊 Nvidia 晶片用於資料中心擴建
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-08-26T21:07:55Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 亞馬遜公司將在未來兩年內在其資料中心機群中額外增加 200 萬個 Nvidia 公司圖形處理單元，這表明該公司...
-- [原文連結](https://finance.yahoo.com/technology/ai/articles/amazon-buy-2-million-nvidia-210755805.html)
-
----
-
-### ⚖️ SK 海力士 (SKHY) 和三星電子：SK 海力士在記憶體晶片上花費 7,200 億美元。其股價已下跌 21%
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-08-26T20:39:11Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 2026 年 8 月 13 日，CNBC 報道 SK 海力士公司（納斯達克股票代碼：SKHY）正斥資 7,200 億美元建設其所謂的全球最大的記憶體工廠網路。
-- [原文連結](https://finance.yahoo.com/markets/stocks/articles/sk-hynix-skhy-samsung-electronics-203911366.html)
 
 ---
 
