@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-29T04:01:46.262204+00:00
+> 更新時間：2026-08-29T07:32:28.548988+00:00
 
 ### ⚖️ SK Hynix breaks ground on US$4 billion Indiana plant that will package, not make, HBM
 - **題材**: `HBM記憶體` | **重要性**: `78`
@@ -121,15 +121,6 @@ Adentris (Y Combinator) 為行為健康提供者建立人工智慧驅動的合�
 
 ---
 
-### 🚀 英偉達即將公佈七季以來最快的成長
-- **題材**: `AI伺服器` | **重要性**: `65`
-- **來源**: The Next Web (2026-08-26T07:23:26Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 英偉達預計公佈季度營收 921.8 億美元，接近去年同期的兩倍，為七個季度以來最快的成長，分析師預計本季將進一步增至 1,042 億美元。數字並不是真正的問題…
-- [原文連結](https://thenextweb.com/news/nvidia-earnings-rubin-ai-financing-scrutiny)
-
----
-
 ### ⚖️ Samsung pushes HBM toward logic, SK Hynix targets packaging at Hot Chips 2026
 - **題材**: `HBM記憶體` | **重要性**: `63`
 - **來源**: Digitimes (2026-08-25T00:04:43Z)
@@ -181,6 +172,15 @@ Adentris (Y Combinator) 為行為健康提供者建立人工智慧驅動的合�
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Apple 已確認其秋季活動將於太平洋時間 9 月 9 日上午 10 點在 Apple Park 舉行，活動口號為“驚喜與閃耀”，邀請函上顯示太陽在公司徽標後面升起。期望它最終會展示…
 - [原文連結](https://thenextweb.com/news/apple-september-9-event-foldable-iphone-ultra)
+
+---
+
+### ⚖️ 英偉達公佈第二季營收 962 億美元
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: The Next Web (2026-08-27T07:23:53Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 英偉達報告本季營收為 962 億美元，比去年同期成長 106%，然後做了一些以前從未做過的事情，對全年進行了預測。消息發布後，該股下跌約 1.3%，直到財務長發布消息後，該股才大幅上漲。
+- [原文連結](https://thenextweb.com/news/nvidia-q2-fy27-results-year-ahead-forecast)
 
 ---
 
