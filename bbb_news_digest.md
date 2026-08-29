@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-29T16:54:15.811397+00:00
+> 更新時間：2026-08-29T19:32:43.317190+00:00
 
 ### ⚖️ SK Hynix breaks ground on US$4 billion Indiana plant that will package, not make, HBM
 - **題材**: `HBM記憶體` | **重要性**: `78`
