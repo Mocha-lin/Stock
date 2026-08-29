@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-29T14:10:59.982651+00:00
+> 更新時間：2026-08-29T16:54:15.811397+00:00
 
 ### ⚖️ SK Hynix breaks ground on US$4 billion Indiana plant that will package, not make, HBM
 - **題材**: `HBM記憶體` | **重要性**: `78`
@@ -37,21 +37,21 @@
 
 ---
 
-### 🚀 Zhongji Innolight's 1.6T surge shows AI networking is becoming next hyperscaler bottleneck
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-08-25T00:06:02Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 長期以來，人工智慧基礎設施的繁榮一直被定義為爭奪 GPU、記憶體和電源安全的競賽。然而，隨著集群規模不斷擴大，系統的另一層開始成為同樣決定性的限制：負責移動的光鏈路…
-- [原文連結](https://www.digitimes.com/news/a20260824VL217/infrastructure-revenue-growth-profit.html)
-
----
-
 ### 🚀 Micron workers increasingly support strike over bonus pay — labor union wants profit-sharing scheme, as employees at Samsung, SK hynix enjoy bonuses worth hundreds of thousands of dollars
 - **題材**: `HBM記憶體` | **重要性**: `72`
 - **來源**: Tom's Hardware UK (2026-08-28T13:07:55Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 80% of Micron workers in Taiwan have signaled that they're willing to go on strike if the company does not strike a deal over bonuses. The employees want to replace the current bonus system with a profit-sharing scheme, allowing them to take advantage of the …
 - [原文連結](https://www.tomshardware.com/tech-industry/micron-workers-increasingly-support-strike-over-bonus-pay-labor-union-wants-profit-sharing-scheme-as-employees-at-samsung-sk-hynix-enjoy-bonuses-worth-hundreds-of-thousands-of-dollars)
+
+---
+
+### 🚀 Marvell Technology, Inc. 2027 年第 2 季財報電話會議摘要
+- **題材**: `光通訊與矽光子` | **重要性**: `70`
+- **來源**: Moby.co (2026-08-28T12:30:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Moby summary of Marvell Technology, Inc.'s Q2 2027 earnings call
+- [原文連結](https://app.moby.co/home/research/tools/earningsCalendar/earnings-marvell-technology-inc-q2-2027-earnings-call-summary?utm_source=yahoo_finance&amp;utm_medium=rss)
 
 ---
 
