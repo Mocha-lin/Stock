@@ -1,14 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-30T17:00:46.857090+00:00
-
-### ⚖️ SK Hynix breaks ground on US$4 billion Indiana plant that will package, not make, HBM
-- **題材**: `HBM記憶體` | **重要性**: `78`
-- **來源**: Digitimes (2026-08-28T01:00:07Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: SK hynix broke ground on August 27 on a US$4 billion advanced packaging plant in Purdue Research Park, its first US high-bandwidth memory (HBM) site.
-- [原文連結](https://www.digitimes.com/news/a20260828VL202/sk-hynix-hbm-packaging-plant-usa-production.html)
-
----
+> 更新時間：2026-08-30T21:41:40.039523+00:00
 
 ### 🚀 Semtech 第二季財報電話會議亮點
 - **題材**: `光通訊與矽光子` | **重要性**: `75`
@@ -155,15 +146,6 @@
 
 ---
 
-### ⚠️ Panic Passes Trump Tariff Refunds Back to Playdate Customers
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Slashdot.org (2026-08-27T18:00:00Z)
-- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Panic is refunding Playdate customers the 19% tariff charges it passed along while the Trump administration's import duties were in effect, after the Supreme Court ruled the tariffs illegal and the company began receiving refunds from the government. Panic sa…
-- [原文連結](https://news.slashdot.org/story/26/08/27/1641246/panic-passes-trump-tariff-refunds-back-to-playdate-customers)
-
----
-
 ### 🚀 This Under-the-Radar AI Stock Could Be the Next Big Semiconductor Winner
 - **題材**: `光通訊與矽光子` | **重要性**: `60`
 - **來源**: 24/7 Wall St. (2026-08-27T15:32:15Z)
@@ -181,6 +163,24 @@
 
 Adentris (Y Combinator) 為行為健康提供者建立人工智慧驅動的合規性和收入誠信基礎設施。我們的系統讀取真實的病患記錄，發現臨床和監管風險，並將其擺在可以採取行動的人員面前…
 - [原文連結](https://www.ycombinator.com/companies/adentris/jobs/ZpMXZ0C-founding-engineer-ai-rcm-healthcare-platform-typescript-python)
+
+---
+
+### 🚀 英偉達即將公佈七季以來最快的成長
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: The Next Web (2026-08-26T07:23:26Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 英偉達預計公佈季度營收 921.8 億美元，接近去年同期的兩倍，為七個季度以來最快的成長，分析師預計本季將進一步增至 1,042 億美元。數字並不是真正的問題…
+- [原文連結](https://thenextweb.com/news/nvidia-earnings-rubin-ai-financing-scrutiny)
+
+---
+
+### ⚠️ How Trump's new trade war with Canada affects everything from building new homes to dog jackets
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Business Insider (2026-08-24T19:32:45Z)
+- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: New 50% tariffs on a slew of Canadian goods went into effect. They could affect Canadian jobs and businesses in states along the border.
+- [原文連結](https://www.businessinsider.com/new-tariffs-trade-war-us-canada-economy-2026-8#article)
 
 ---
 
