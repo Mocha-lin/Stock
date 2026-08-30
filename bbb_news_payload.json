@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-08-30T14:17:19.315884+00:00",
+  "generated_at": "2026-08-30T17:00:46.857090+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 69,
@@ -412,6 +412,41 @@
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "b808e1abdec3e5ee",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "記憶體目前佔全球半導體收入的 50% — 但有一個問題",
+      "summary": "人工智慧已將記憶體從繁榮與蕭條的商品轉變為關鍵基礎設施，將預測提高到幾年前看似荒謬的水平...",
+      "original_title": "Memory Now Accounts for 50% of Global Semiconductor Revenue — But There’s a Catch",
+      "url": "https://247wallst.com/investing/2026/08/29/memory-now-accounts-for-50-of-global-semiconductor-revenue-but-theres-a-catch/",
+      "source": "24/7 Wall St.",
+      "domain": "247wallst.com",
+      "published_at": "2026-08-29T16:06:49Z",
+      "importance": 65,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "bacc7fde9afb5561",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -445,44 +480,6 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "e3033b20ae9c8ac8",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "This Under-the-Radar AI Stock Could Be the Next Big Semiconductor Winner",
-      "summary": "Credo Technology exploded from double digits to over $300 in a single year, but the setup heading into fiscal 2027 is a fundamentally different bet, and the...",
-      "original_title": "This Under-the-Radar AI Stock Could Be the Next Big Semiconductor Winner",
-      "url": "https://247wallst.com/investing/2026/08/27/this-under-the-radar-ai-stock-could-be-the-next-big-semiconductor-winner/",
-      "source": "24/7 Wall St.",
-      "domain": "247wallst.com",
-      "published_at": "2026-08-27T15:32:15Z",
-      "importance": 65,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "fcefdeef9584c291",
@@ -669,6 +666,44 @@
       "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "e3033b20ae9c8ac8",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "This Under-the-Radar AI Stock Could Be the Next Big Semiconductor Winner",
+      "summary": "Credo Technology exploded from double digits to over $300 in a single year, but the setup heading into fiscal 2027 is a fundamentally different bet, and the...",
+      "original_title": "This Under-the-Radar AI Stock Could Be the Next Big Semiconductor Winner",
+      "url": "https://247wallst.com/investing/2026/08/27/this-under-the-radar-ai-stock-could-be-the-next-big-semiconductor-winner/",
+      "source": "24/7 Wall St.",
+      "domain": "247wallst.com",
+      "published_at": "2026-08-27T15:32:15Z",
+      "importance": 60,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "f5cbf2e92fa247a4",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -743,41 +778,6 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "8ff8c96ad744e411",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "金融巨頭在財報公佈後設定了激進的美光股票目標",
-      "summary": "BMO Capital 以出色的說服力開始對美光科技進行報道，這一數字令人矚目。",
-      "original_title": "Finance giant sets aggressive Micron stock target after earnings",
-      "url": "https://www.thestreet.com/investing/stocks/bmo-sets-micron-mu-stock-target-1300-outperform",
-      "source": "TheStreet",
-      "domain": "thestreet.com",
-      "published_at": "2026-08-25T22:33:00Z",
-      "importance": 60,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "e2a825bdbddff84f",
@@ -906,6 +906,41 @@
       "domain": "tomshardware.com",
       "published_at": "2026-08-26T22:45:22Z",
       "importance": 57,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "14a992314d6de9c5",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "中國內存製造商長鑫儲存起訴五角大廈，要求從美國名單中除名",
+      "summary": "長鑫儲存已在華盛頓起訴美國國防部，要求將其從中國軍事公司的名單中刪除，該名單將阻止國防合約而不限製商業銷售。該公司是全球第四大 DR...",
+      "original_title": "Chinese memory maker CXMT sues Pentagon to get off US list",
+      "url": "https://thenextweb.com/news/cxmt-sues-pentagon-1260h-list-europe-memory-dram",
+      "source": "The Next Web",
+      "domain": "thenextweb.com",
+      "published_at": "2026-08-29T15:48:09Z",
+      "importance": 55,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -2169,41 +2204,6 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "d14028cf91377b21",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "Memory Shortage Deepens to Worst Levels Since 2017 — Here’s Why Micron Investors Will Cash In",
-      "summary": "Goldman Sachs just flagged a supply crunch tightening toward levels not seen in nearly a decade, and one chipmaker has already quietly locked in the contract...",
-      "original_title": "Memory Shortage Deepens to Worst Levels Since 2017 — Here’s Why Micron Investors Will Cash In",
-      "url": "https://247wallst.com/investing/2026/08/25/memory-shortage-deepens-to-worst-levels-since-2017-heres-why-micron-investors-will-cash-in/",
-      "source": "24/7 Wall St.",
-      "domain": "247wallst.com",
-      "published_at": "2026-08-25T14:37:32Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "f482362defbdbb54",
