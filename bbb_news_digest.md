@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-29T19:32:43.317190+00:00
+> 更新時間：2026-08-30T01:06:10.356819+00:00
 
 ### ⚖️ SK Hynix breaks ground on US$4 billion Indiana plant that will package, not make, HBM
 - **題材**: `HBM記憶體` | **重要性**: `78`
@@ -139,12 +139,12 @@ Adentris (Y Combinator) 為行為健康提供者建立人工智慧驅動的合�
 
 ---
 
-### ⚖️ Nvidia 客製化「NVHBM」承諾比商用 HBM4e 頻寬提高 30%，功耗降低 15% — 客製化基礎晶片和 PHY 將提供給 NVLink Fusion 合作夥伴
-- **題材**: `HBM記憶體` | **重要性**: `62`
-- **來源**: Tom's Hardware UK (2026-08-26T22:45:22Z)
+### ⚖️ 人工智慧資料中心如何讓一切變得更加昂貴
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: Business Insider (2026-08-28T21:26:32Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Nvidia 推出了 NVHBM，這是一種客製化的高頻寬記憶體實現，可為在 NVLink Fusion 合作夥伴計劃中建立晶片的客戶提供更高的頻寬和更低的功耗。
-- [原文連結](https://www.tomshardware.com/pc-components/dram/nvidia-custom-nvhbm-promises-30-percent-higher-bandwidth-15-percent-lower-power-than-commodity-hbm4e-custom-base-die-and-phy-will-be-available-to-nvlink-fusion-partners)
+- **摘要**: 人工智慧資料中心導致記憶體晶片短缺，這使得手機、筆記型電腦、相機和遊戲機變得更加昂貴。
+- [原文連結](https://www.businessinsider.com/how-ai-data-centers-are-making-everything-more-expensive-2026-8#article)
 
 ---
 
