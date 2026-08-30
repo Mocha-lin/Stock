@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-30T01:06:10.356819+00:00
+> 更新時間：2026-08-30T06:05:32.875979+00:00
 
 ### ⚖️ SK Hynix breaks ground on US$4 billion Indiana plant that will package, not make, HBM
 - **題材**: `HBM記憶體` | **重要性**: `78`
@@ -7,15 +7,6 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: SK hynix broke ground on August 27 on a US$4 billion advanced packaging plant in Purdue Research Park, its first US high-bandwidth memory (HBM) site.
 - [原文連結](https://www.digitimes.com/news/a20260828VL202/sk-hynix-hbm-packaging-plant-usa-production.html)
-
----
-
-### ⚖️ HTSI 透過 SiPh、CPO、封裝推動 AI 晶片需求
-- **題材**: `光通訊與矽光子` | **重要性**: `78`
-- **來源**: Digitimes (2026-08-27T01:41:38Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 愛馬仕測試解決方案（HTSI）表示，隨著人工智慧和高效能運算（HPC）應用的不斷發展，2026年前7個月的營收達到27億新台幣（8,380萬美元），年成長128.2%，已經超過2025年全年規模…
-- [原文連結](https://www.digitimes.com/news/a20260826PD238/demand-packaging-testing-cpo-siph.html)
 
 ---
 
@@ -28,12 +19,12 @@
 
 ---
 
-### ⚖️ Ligitek跳過800G，瞄準1.6T矽光子
+### ⚖️ HTSI 透過 SiPh、CPO、封裝推動 AI 晶片需求
 - **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-08-27T01:36:24Z)
+- **來源**: Digitimes (2026-08-27T01:41:38Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Ligitek Electronics 是一家台灣 LED 封裝製造商，近年來已擴展到半導體系統級封裝 (SiP) 和矽光子領域。該公司表示，2026年上半年，人工智慧相關產品約佔其收入的45%。 Ligi…
-- [原文連結](https://www.digitimes.com/news/a20260826PD219/photonics-silicon-ligitek-led-packaging-revenue.html)
+- **摘要**: 愛馬仕測試解決方案（HTSI）表示，隨著人工智慧和高效能運算（HPC）應用的不斷發展，2026年前7個月的營收達到27億新台幣（8,380萬美元），年成長128.2%，已經超過2025年全年規模…
+- [原文連結](https://www.digitimes.com/news/a20260826PD238/demand-packaging-testing-cpo-siph.html)
 
 ---
 
@@ -80,6 +71,15 @@
 - **摘要**: 新易盛科技 2026 年上半年庫存成長 61%，達到 17 億美元，淨利潤飆升 91%，滿足了人工智慧資料中心的持續需求。
 《新易盛科技將庫存增加 61% 以滿足 AI 需求》的消息首先出現在《Crypto Briefing》上。
 - [原文連結](https://cryptobriefing.com/eoptolink-inventory-surge-ai-demand/)
+
+---
+
+### ⚖️ Ligitek跳過800G，瞄準1.6T矽光子
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-08-27T01:36:24Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Ligitek Electronics 是一家台灣 LED 封裝製造商，近年來已擴展到半導體系統級封裝 (SiP) 和矽光子領域。該公司表示，2026年上半年，人工智慧相關產品約佔其收入的45%。 Ligi…
+- [原文連結](https://www.digitimes.com/news/a20260826PD219/photonics-silicon-ligitek-led-packaging-revenue.html)
 
 ---
 
