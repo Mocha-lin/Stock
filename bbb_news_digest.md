@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-30T06:05:32.875979+00:00
+> 更新時間：2026-08-30T14:17:19.315884+00:00
 
 ### ⚖️ SK Hynix breaks ground on US$4 billion Indiana plant that will package, not make, HBM
 - **題材**: `HBM記憶體` | **重要性**: `78`
@@ -119,17 +119,6 @@
 
 ---
 
-### ⚖️ Adentris (YC P25) 正在招聘
-- **題材**: `光通訊與矽光子` | **重要性**: `65`
-- **來源**: Hacker News (2026-08-27T12:00:31Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 關於安德瑞斯
-
-Adentris (Y Combinator) 為行為健康提供者建立人工智慧驅動的合規性和收入誠信基礎設施。我們的系統讀取真實的病患記錄，發現臨床和監管風險，並將其擺在可以採取行動的人員面前…
-- [原文連結](https://www.ycombinator.com/companies/adentris/jobs/ZpMXZ0C-founding-engineer-ai-rcm-healthcare-platform-typescript-python)
-
----
-
 ### ⚖️ SK hynix breaks ground on the first HBM plant in the US, bringing key AI component production to the States — says production starts in 2029
 - **題材**: `HBM記憶體` | **重要性**: `62`
 - **來源**: Tom's Hardware UK (2026-08-28T09:58:37Z)
@@ -175,12 +164,23 @@ Adentris (Y Combinator) 為行為健康提供者建立人工智慧驅動的合�
 
 ---
 
-### ⚖️ The Nvidia effect: These areas of the market are getting a boost from the chipmaker’s blockbuster earnings
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: Business Insider (2026-08-27T14:08:59Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Investors cheered Nvidia's blowout earnings on Thursday, lifting other chip stocks and the broader tech sector as the AI trade sees renewed hype.
-- [原文連結](https://www.businessinsider.com/nvidia-earnings-q2-nvda-chips-memory-stock-rally-ndx-avgo-2026-8)
+### ⚖️ Adentris (YC P25) 正在招聘
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: Hacker News (2026-08-27T12:00:31Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 關於安德瑞斯
+
+Adentris (Y Combinator) 為行為健康提供者建立人工智慧驅動的合規性和收入誠信基礎設施。我們的系統讀取真實的病患記錄，發現臨床和監管風險，並將其擺在可以採取行動的人員面前…
+- [原文連結](https://www.ycombinator.com/companies/adentris/jobs/ZpMXZ0C-founding-engineer-ai-rcm-healthcare-platform-typescript-python)
+
+---
+
+### 🚀 英偉達即將公佈七季以來最快的成長
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: The Next Web (2026-08-26T07:23:26Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 英偉達預計公佈季度營收 921.8 億美元，接近去年同期的兩倍，為七個季度以來最快的成長，分析師預計本季將進一步增至 1,042 億美元。數字並不是真正的問題…
+- [原文連結](https://thenextweb.com/news/nvidia-earnings-rubin-ai-financing-scrutiny)
 
 ---
 
