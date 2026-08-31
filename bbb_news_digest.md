@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-31T01:06:34.304776+00:00
+> 更新時間：2026-08-31T06:26:19.620089+00:00
 
 ### 🚀 Semtech 第二季財報電話會議亮點
 - **題材**: `光通訊與矽光子` | **重要性**: `75`
@@ -74,15 +74,6 @@
 
 ---
 
-### ⚖️ Weekly news roundup: Google diversifies custom chips, TSMC share falls, SK Hynix deepens HBM co-design
-- **題材**: `HBM記憶體` | **重要性**: `68`
-- **來源**: Digitimes (2026-08-24T01:34:40Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Semiconductor supply chains, custom silicon, high-bandwidth memory (HBM), robotics, and India's chip buildout shaped this week's technology agenda, with major moves from Google, Marvell, SK Hynix, Micron, Samsung, and Taiwan's chipmakers. Below are the most-r…
-- [原文連結](https://www.digitimes.com/news/a20260823VL200/hbm-google-sk-hynix-chips-silicon.html)
-
----
-
 ### ⚖️ 記憶體目前佔全球半導體收入的 50% — 但有一個問題
 - **題材**: `HBM記憶體` | **重要性**: `65`
 - **來源**: 24/7 Wall St. (2026-08-29T16:06:49Z)
@@ -98,6 +89,15 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: South Korean chipmaker SK Hynix (NASDAQ:SKHY) said Thursday it will begin volume production of next-generation HBM4E chips at its Indiana facility in the thi...
 - [原文連結](https://finance.yahoo.com/technology/articles/sk-hynix-ceo-warns-memory-070458503.html)
+
+---
+
+### ⚖️ Weekly news roundup: Google diversifies custom chips, TSMC share falls, SK Hynix deepens HBM co-design
+- **題材**: `HBM記憶體` | **重要性**: `63`
+- **來源**: Digitimes (2026-08-24T01:34:40Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Semiconductor supply chains, custom silicon, high-bandwidth memory (HBM), robotics, and India's chip buildout shaped this week's technology agenda, with major moves from Google, Marvell, SK Hynix, Micron, Samsung, and Taiwan's chipmakers. Below are the most-r…
+- [原文連結](https://www.digitimes.com/news/a20260823VL200/hbm-google-sk-hynix-chips-silicon.html)
 
 ---
 
@@ -172,16 +172,6 @@ Adentris (Y Combinator) 為行為健康提供者建立人工智慧驅動的合�
 - **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: New 50% tariffs on a slew of Canadian goods went into effect. They could affect Canadian jobs and businesses in states along the border.
 - [原文連結](https://www.businessinsider.com/new-tariffs-trade-war-us-canada-economy-2026-8#article)
-
----
-
-### ⚖️ Largan Precision and TSMC partner to chase AI opportunities in co-packaged optics
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: Crypto Briefing (2026-08-24T05:54:06Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Largan's strategic shift to CPO tech with TSMC could redefine AI data center efficiency, diversifying its market presence beyond smartphones.
-The post Largan Precision and TSMC partner to chase AI opportunities in co-packaged optics appeared first on Crypto B…
-- [原文連結](https://cryptobriefing.com/largan-tsmc-cpo-ai-partnership/)
 
 ---
 
