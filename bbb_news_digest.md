@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-31T16:44:31.507255+00:00
+> 更新時間：2026-08-31T19:16:20.660270+00:00
 
 ### 🚀 Semtech 第二季財報電話會議亮點
 - **題材**: `光通訊與矽光子` | **重要性**: `75`
@@ -25,16 +25,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Semtech 公司 2027 年第二季財報電話會議的 Moby 摘要
 - [原文連結](https://app.moby.co/home/research/tools/earningsCalendar/earnings-semtech-corporation-q2-2027-earnings-call-summary?utm_source=yahoo_finance&amp;utm_medium=rss)
-
----
-
-### 🚀 Eoptolink Technology boosts inventory 61% to meet AI demand
-- **題材**: `光通訊與矽光子` | **重要性**: `70`
-- **來源**: Crypto Briefing (2026-08-24T17:31:01Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 新易盛科技 2026 年上半年庫存成長 61%，達到 17 億美元，淨利潤飆升 91%，滿足了人工智慧資料中心的持續需求。
-《新易盛科技將庫存增加 61% 以滿足 AI 需求》的消息首先出現在《Crypto Briefing》上。
-- [原文連結](https://cryptobriefing.com/eoptolink-inventory-surge-ai-demand/)
 
 ---
 
@@ -80,6 +70,16 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 今年，三星開始大量生產用於 NVIDIA 旗艦 Vera Rubin AI 平台的 HBM4 晶片。這筆交易將產生數十億美元的收入。現在，這家韓國公司在供應客製化 HBM 晶片方面似乎比競爭對手更具優勢…
 - [原文連結](https://www.sammobile.com/news/samsung-supply-nvhbm-chips-nvidia/)
+
+---
+
+### 🚀 Eoptolink Technology boosts inventory 61% to meet AI demand
+- **題材**: `光通訊與矽光子` | **重要性**: `65`
+- **來源**: Crypto Briefing (2026-08-24T17:31:01Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 新易盛科技 2026 年上半年庫存成長 61%，達到 17 億美元，淨利潤飆升 91%，滿足了人工智慧資料中心的持續需求。
+《新易盛科技將庫存增加 61% 以滿足 AI 需求》的消息首先出現在《Crypto Briefing》上。
+- [原文連結](https://cryptobriefing.com/eoptolink-inventory-surge-ai-demand/)
 
 ---
 
