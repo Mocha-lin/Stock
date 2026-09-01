@@ -1,5 +1,14 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-08-31T19:16:20.660270+00:00
+> 更新時間：2026-09-01T01:42:09.958847+00:00
+
+### 🚀 隨著人工智慧和光學領域的擴張，德淵的特種化學品業務可能會重塑其成長組合
+- **題材**: `光通訊與矽光子` | **重要性**: `78`
+- **來源**: Digitimes (2026-08-30T23:22:48Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 德淵正在將其特殊化學品業務從液晶顯示器和電子產品擴展到人工智慧伺服器、車載電子產品、Mini LED 和光學鏡頭，同時也瞄準光通訊、矽光子 (SiPh) 和先進封裝。公司…
+- [原文連結](https://www.digitimes.com/news/a20260828PD222/tex-year-chemical-materials-optical-communications-siph-business-demand-growth.html)
+
+---
 
 ### 🚀 Semtech 第二季財報電話會議亮點
 - **題材**: `光通訊與矽光子` | **重要性**: `75`
@@ -7,6 +16,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Semtech（納斯達克股票代碼：SMTC）報告了創紀錄的第二財季收入，並預計其數據中心、LoRa 和消費者業務將進一步增長，同時...
 - [原文連結](https://www.marketbeat.com/instant-alerts/transcript-semtech-q2-earnings-call-highlights-2026-08-25/?utm_source=yahoofinance&amp;utm_medium=yahoofinance)
+
+---
+
+### ⚖️ SK 海力士耗資 40 億美元的印第安納工廠破土動工，該工廠將包裝而非製造 HBM
+- **題材**: `HBM記憶體` | **重要性**: `73`
+- **來源**: Digitimes (2026-08-28T01:00:07Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 8 月 27 日，SK 海力士在普渡研究園投資 40 億美元的先進封裝工廠破土動工，這是其在美國的第一個高頻寬記憶體 (HBM) 基地。
+- [原文連結](https://www.digitimes.com/news/a20260828VL202/sk-hynix-hbm-packaging-plant-usa-production.html)
 
 ---
 
@@ -34,6 +52,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Ligitek Electronics 是一家台灣 LED 封裝製造商，近年來已擴展到半導體系統級封裝 (SiP) 和矽光子領域。該公司表示，2026年上半年，人工智慧相關產品約佔其收入的45%。 Ligi…
 - [原文連結](https://www.digitimes.com/news/a20260826PD219/photonics-silicon-ligitek-led-packaging-revenue.html)
+
+---
+
+### 🚀 中際旭創1.6T激增顯示AI網路正成為下一個超大規模瓶頸
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-08-25T00:06:02Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 長期以來，人工智慧基礎設施的繁榮一直被定義為爭奪 GPU、記憶體和電源安全的競賽。然而，隨著集群規模不斷擴大，系統的另一層開始成為同樣決定性的限制：負責移動的光鏈路…
+- [原文連結](https://www.digitimes.com/news/a20260824VL217/infrastructure-revenue-growth-profit.html)
 
 ---
 
@@ -73,16 +100,6 @@
 
 ---
 
-### 🚀 Eoptolink Technology boosts inventory 61% to meet AI demand
-- **題材**: `光通訊與矽光子` | **重要性**: `65`
-- **來源**: Crypto Briefing (2026-08-24T17:31:01Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 新易盛科技 2026 年上半年庫存成長 61%，達到 17 億美元，淨利潤飆升 91%，滿足了人工智慧資料中心的持續需求。
-《新易盛科技將庫存增加 61% 以滿足 AI 需求》的消息首先出現在《Crypto Briefing》上。
-- [原文連結](https://cryptobriefing.com/eoptolink-inventory-surge-ai-demand/)
-
----
-
 ### 🚀 Why RAMageddon Might Force Apps and Operating Systems’ Performance to Suck Less
 - **題材**: `AI伺服器` | **重要性**: `60`
 - **來源**: CNET (2026-08-30T15:00:09Z)
@@ -92,12 +109,12 @@
 
 ---
 
-### ⚖️ 人工智慧資料中心如何讓一切變得更加昂貴
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: Business Insider (2026-08-28T21:26:32Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 人工智慧資料中心導致記憶體晶片短缺，這使得手機、筆記型電腦、相機和遊戲機變得更加昂貴。
-- [原文連結](https://www.businessinsider.com/how-ai-data-centers-are-making-everything-more-expensive-2026-8#article)
+### ⚠️ 美國新的製裁將對伊朗普通民眾造成沉重打擊。當經濟崩潰引發新的抗議活動時，這可能是重點
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-08-29T21:26:05Z)
+- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: “數位資產和黃金是普通伊朗人保護儲蓄免受通貨膨脹影響的方式。”
+- [原文連結](https://www.yahoo.com/news/us/articles/u-sanctions-hit-ordinary-iranians-212605033.html)
 
 ---
 
@@ -136,15 +153,6 @@ Adentris (Y Combinator) 為行為健康提供者建立人工智慧驅動的合�
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 英偉達預計公佈季度營收 921.8 億美元，接近去年同期的兩倍，為七個季度以來最快的成長，分析師預計本季將進一步增至 1,042 億美元。數字並不是真正的問題…
 - [原文連結](https://thenextweb.com/news/nvidia-earnings-rubin-ai-financing-scrutiny)
-
----
-
-### ⚠️ How Trump's new trade war with Canada affects everything from building new homes to dog jackets
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Business Insider (2026-08-24T19:32:45Z)
-- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: New 50% tariffs on a slew of Canadian goods went into effect. They could affect Canadian jobs and businesses in states along the border.
-- [原文連結](https://www.businessinsider.com/new-tariffs-trade-war-us-canada-economy-2026-8#article)
 
 ---
 
