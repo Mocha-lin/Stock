@@ -1,5 +1,23 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-01T05:53:21.653086+00:00
+> 更新時間：2026-09-01T13:57:18.451954+00:00
+
+### 🚀 台積電透過兩條 COUPE 頻寬路徑和更深層的異構整合攻克 AI I/O 牆
+- **題材**: `光通訊與矽光子` | **重要性**: `78`
+- **來源**: Digitimes (2026-08-31T08:50:51Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: TSMC is sharpening its silicon photonics (SiPh) roadmap to address the widening gap between AI compute growth and chip-to-chip data movement, unveiling two bandwidth-scaling paths for its next-generation COUPE platform and outlining a broader role for heterog…
+- [原文連結](https://www.digitimes.com/news/a20260831PD225/tsmc-bandwidth-silicon-photonics-siph.html)
+
+---
+
+### 🚀 台積電預計 SiPh 將在 2027 年成為主流
+- **題材**: `光通訊與矽光子` | **重要性**: `78`
+- **來源**: Digitimes (2026-08-31T08:28:42Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: K.C.表示，隨著AI橫向擴展推動光模組需求爆發式成長，矽光子（SiPh）將在2027年成為主流，市佔率將突破50%。台積電先進封裝技術開發副總裁 Hsu 在 Silicon Photo...
+- [原文連結](https://www.digitimes.com/news/a20260831PD217/siph-2027-photonics-tsmc-market-share.html)
+
+---
 
 ### 🚀 隨著人工智慧和光學領域的擴張，德淵的特種化學品業務可能會重塑其成長組合
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -19,6 +37,15 @@
 
 ---
 
+### ⚖️ ASE: CPO scale-out demands deeper supply-chain coordination for mass production
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-08-31T08:06:39Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: SEMICON Taiwan 2026 kicked off its pre-show program with the Silicon Photonics Global Summit.
+- [原文連結](https://www.digitimes.com/news/a20260831PD223/2026-taiwan-cpo-ase-siph.html)
+
+---
+
 ### ⚖️ SK 海力士耗資 40 億美元的印第安納工廠破土動工，該工廠將包裝而非製造 HBM
 - **題材**: `HBM記憶體` | **重要性**: `73`
 - **來源**: Digitimes (2026-08-28T01:00:07Z)
@@ -28,12 +55,12 @@
 
 ---
 
-### ⚖️ HTSI 透過 SiPh、CPO、封裝推動 AI 晶片需求
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-08-27T01:41:38Z)
+### ⚖️ 這家鮮為人知的人工智慧公司正在悄悄建設資料中心熱潮
+- **題材**: `光通訊與矽光子` | **重要性**: `70`
+- **來源**: 24/7 Wall St. (2026-08-31T13:00:22Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 愛馬仕測試解決方案（HTSI）表示，隨著人工智慧和高效能運算（HPC）應用的不斷發展，2026年前7個月的營收達到27億新台幣（8,380萬美元），年成長128.2%，已經超過2025年全年規模…
-- [原文連結](https://www.digitimes.com/news/a20260826PD238/demand-packaging-testing-cpo-siph.html)
+- **摘要**: 一家小型光子公司剛從超大規模供應商獲得了一份巨額採購訂單，其資產負債表突然給了它數年的時間來證明是否…
+- [原文連結](https://247wallst.com/investing/2026/08/31/this-little-known-ai-company-is-quietly-building-for-the-data-center-boom/)
 
 ---
 
@@ -55,21 +82,21 @@
 
 ---
 
-### 🚀 中際旭創1.6T激增顯示AI網路正成為下一個超大規模瓶頸
-- **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-08-25T00:06:02Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 長期以來，人工智慧基礎設施的繁榮一直被定義為爭奪 GPU、記憶體和電源安全的競賽。然而，隨著集群規模不斷擴大，系統的另一層開始成為同樣決定性的限制：負責移動的光鏈路…
-- [原文連結](https://www.digitimes.com/news/a20260824VL217/infrastructure-revenue-growth-profit.html)
-
----
-
 ### 🚀 Micron workers increasingly support strike over bonus pay — labor union wants profit-sharing scheme, as employees at Samsung, SK hynix enjoy bonuses worth hundreds of thousands of dollars
 - **題材**: `HBM記憶體` | **重要性**: `67`
 - **來源**: Tom's Hardware UK (2026-08-28T13:07:55Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 80% of Micron workers in Taiwan have signaled that they're willing to go on strike if the company does not strike a deal over bonuses. The employees want to replace the current bonus system with a profit-sharing scheme, allowing them to take advantage of the …
 - [原文連結](https://www.tomshardware.com/tech-industry/micron-workers-increasingly-support-strike-over-bonus-pay-labor-union-wants-profit-sharing-scheme-as-employees-at-samsung-sk-hynix-enjoy-bonuses-worth-hundreds-of-thousands-of-dollars)
+
+---
+
+### ⚠️ 谷歌將從 2027 年 2 月起限制 Android 應用程式可以使用的記憶體量
+- **題材**: `AI伺服器` | **重要性**: `65`
+- **來源**: The Next Web (2026-08-31T13:18:36Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 谷歌將開始監管 Android 應用程式使用的記憶體量，並表示原因是全球記憶體短缺。從 2027 年 2 月起，超過新限制的應用程式將面臨兩項處罰。 Android 可以減慢速度或關閉它。 Play 商店可以埋藏它。這…
+- [原文連結](https://thenextweb.com/news/google-android-app-memory-limits-play-store)
 
 ---
 
@@ -97,6 +124,15 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 今年，三星開始大量生產用於 NVIDIA 旗艦 Vera Rubin AI 平台的 HBM4 晶片。這筆交易將產生數十億美元的收入。現在，這家韓國公司在供應客製化 HBM 晶片方面似乎比競爭對手更具優勢…
 - [原文連結](https://www.sammobile.com/news/samsung-supply-nvhbm-chips-nvidia/)
+
+---
+
+### 🚀 今天之後，Nintendo Switch 2 可能再也不會是 450 美元了
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: Gizmodo.com (2026-08-31T13:45:26Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 唯一的出路就是上漲，包括主機價格。
+- [原文連結](https://gizmodo.com/after-today-the-nintendo-switch-2-may-never-be-450-ever-again-2000804957)
 
 ---
 
@@ -144,15 +180,6 @@
 
 Adentris (Y Combinator) 為行為健康提供者建立人工智慧驅動的合規性和收入誠信基礎設施。我們的系統讀取真實的病患記錄，發現臨床和監管風險，並將其擺在可以採取行動的人員面前…
 - [原文連結](https://www.ycombinator.com/companies/adentris/jobs/ZpMXZ0C-founding-engineer-ai-rcm-healthcare-platform-typescript-python)
-
----
-
-### 🚀 英偉達即將公佈七季以來最快的成長
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: The Next Web (2026-08-26T07:23:26Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 英偉達預計公佈季度營收 921.8 億美元，接近去年同期的兩倍，為七個季度以來最快的成長，分析師預計本季將進一步增至 1,042 億美元。數字並不是真正的問題…
-- [原文連結](https://thenextweb.com/news/nvidia-earnings-rubin-ai-financing-scrutiny)
 
 ---
 
