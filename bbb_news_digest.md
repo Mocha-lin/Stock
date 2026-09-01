@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-01T13:57:18.451954+00:00
+> 更新時間：2026-09-01T17:00:53.000380+00:00
 
 ### 🚀 台積電透過兩條 COUPE 頻寬路徑和更深層的異構整合攻克 AI I/O 牆
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -100,24 +100,6 @@
 
 ---
 
-### ⚖️ 記憶體目前佔全球半導體收入的 50% — 但有一個問題
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: 24/7 Wall St. (2026-08-29T16:06:49Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 人工智慧已將記憶體從繁榮與蕭條的商品轉變為關鍵基礎設施，將預測提高到幾年前看似荒謬的水平...
-- [原文連結](https://247wallst.com/investing/2026/08/29/memory-now-accounts-for-50-of-global-semiconductor-revenue-but-theres-a-catch/)
-
----
-
-### 🚀 Marvell Technology, Inc. 2027 年第 2 季財報電話會議摘要
-- **題材**: `光通訊與矽光子` | **重要性**: `65`
-- **來源**: Moby.co (2026-08-28T12:30:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Moby summary of Marvell Technology, Inc.'s Q2 2027 earnings call
-- [原文連結](https://app.moby.co/home/research/tools/earningsCalendar/earnings-marvell-technology-inc-q2-2027-earnings-call-summary?utm_source=yahoo_finance&amp;utm_medium=rss)
-
----
-
 ### ⚖️ 三星向Nvidia供應NVHBM晶片比競爭對手有優勢
 - **題材**: `HBM記憶體` | **重要性**: `65`
 - **來源**: SamMobile (2026-08-28T08:11:19Z)
@@ -154,6 +136,15 @@
 
 ---
 
+### ⚖️ 記憶體目前佔全球半導體收入的 50% — 但有一個問題
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: 24/7 Wall St. (2026-08-29T16:06:49Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 人工智慧已將記憶體從繁榮與蕭條的商品轉變為關鍵基礎設施，將預測提高到幾年前看似荒謬的水平...
+- [原文連結](https://247wallst.com/investing/2026/08/29/memory-now-accounts-for-50-of-global-semiconductor-revenue-but-theres-a-catch/)
+
+---
+
 ### ⚠️ SK 海力士執行長警告晶片製造商在印第安納州建造 40 億美元晶圓廠，記憶體短缺將持續到 2030 年
 - **題材**: `HBM記憶體` | **重要性**: `60`
 - **來源**: Yahoo Entertainment (2026-08-28T07:04:58Z)
@@ -180,6 +171,15 @@
 
 Adentris (Y Combinator) 為行為健康提供者建立人工智慧驅動的合規性和收入誠信基礎設施。我們的系統讀取真實的病患記錄，發現臨床和監管風險，並將其擺在可以採取行動的人員面前…
 - [原文連結](https://www.ycombinator.com/companies/adentris/jobs/ZpMXZ0C-founding-engineer-ai-rcm-healthcare-platform-typescript-python)
+
+---
+
+### 🚀 英偉達即將公佈七季以來最快的成長
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: The Next Web (2026-08-26T07:23:26Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 英偉達預計公佈季度營收 921.8 億美元，接近去年同期的兩倍，為七個季度以來最快的成長，分析師預計本季將進一步增至 1,042 億美元。數字並不是真正的問題…
+- [原文連結](https://thenextweb.com/news/nvidia-earnings-rubin-ai-financing-scrutiny)
 
 ---
 
