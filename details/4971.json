@@ -1,11 +1,11 @@
 {
   "id": "4971",
   "name": "IET-KY",
-  "lastUpdated": "2026-08-31 22:42:03",
+  "lastUpdated": "2026-09-01 20:16:39",
   "basicInfo": {
-    "price": "600.00",
-    "change": "32.00",
-    "changePercent": "5.63%"
+    "price": "660.00",
+    "change": "60.00",
+    "changePercent": "10.00%"
   },
   "status": "⚡ BUY",
   "themes": [],
@@ -836,6 +836,14 @@
     ],
     "chips_table": [
       {
+        "date": "2026-09-01",
+        "foreign_lots": 288.173,
+        "it_lots": 0.0,
+        "dealer_lots": -13.426,
+        "sum_lots": 274.747,
+        "pct_float": 0.058226750901226434
+      },
+      {
         "date": "2026-08-31",
         "foreign_lots": 52.838,
         "it_lots": 0.0,
@@ -946,14 +954,6 @@
         "dealer_lots": 1.0,
         "sum_lots": 90.267,
         "pct_float": 0.0191301601968393
-      },
-      {
-        "date": "2026-08-11",
-        "foreign_lots": 19.586,
-        "it_lots": 0.0,
-        "dealer_lots": 5.0,
-        "sum_lots": 24.586,
-        "pct_float": 0.005210476902960007
       }
     ],
     "c_score_data": {
@@ -961,8 +961,8 @@
       "dataset": "structure_c_score",
       "stock_id": "4971",
       "ticker": "4971.TWO",
-      "asof": "2026-08-31",
-      "c_score": 15.577081585135959,
+      "asof": "2026-09-01",
+      "c_score": 17.284942805921574,
       "benchmark_pe": 64.0590658554664,
       "source": [
         "FinMind",
@@ -1193,9 +1193,9 @@
           "eps": 0.62,
           "revenue_q": 2.16506,
           "pe_ratio": 111.47394525797728,
-          "rev_growth": 261.69935514049916,
+          "rev_growth": null,
           "eps_growth": -34.73684210526316,
-          "rt_weight": 1.1,
+          "rt_weight": 1.0,
           "deviation": 1.7401743807736902,
           "theo_price": 39.71662083038917
         },
@@ -1237,14 +1237,14 @@
         },
         {
           "period": "2021Q3",
-          "avg_price": 58.70000003633045,
+          "avg_price": 58.670000076293945,
           "eps": 0.95,
-          "revenue_q": 0.59858,
-          "pe_ratio": 61.78947372245311,
+          "revenue_q": null,
+          "pe_ratio": 61.757894817151524,
           "rev_growth": null,
           "eps_growth": null,
           "rt_weight": 1.0,
-          "deviation": 0.9645703211137348,
+          "deviation": 0.9640773556781658,
           "theo_price": 60.85611256269308
         }
       ],
@@ -1260,8 +1260,8 @@
     "returns_table": [
       {
         "year": 2026,
-        "return_pct": 93.33358638090124,
-        "period": "01/02~08/31"
+        "return_pct": 112.66694501899136,
+        "period": "01/02~09/01"
       },
       {
         "year": 2025,
@@ -2177,27 +2177,6 @@
     ],
     "facilities_data": [],
     "kline_data": [
-      {
-        "date": "2026-03-11",
-        "symbol": "4971.TWO",
-        "open": 475.0,
-        "high": 487.5,
-        "low": 471.0,
-        "close": 481.5,
-        "volume": 6654562.0,
-        "adjclose": 480.4850158691406,
-        "dividends": 0.0,
-        "MA5": 440.3,
-        "MA20": 431.025,
-        "MA60": 347.14166666666665,
-        "bb_mid": 431.025,
-        "bb_up": 517.2818692916676,
-        "bb_dn": 344.7681307083324,
-        "DIF": 28.529013819159445,
-        "DEA": 31.67753960000197,
-        "HIST": -6.297051561685059,
-        "volume_lot": 6654.562
-      },
       {
         "date": "2026-03-12",
         "symbol": "4971.TWO",
@@ -4683,7 +4662,7 @@
         "high": 600.0,
         "low": 555.0,
         "close": 600.0,
-        "volume": 852522.0,
+        "volume": 799953.0,
         "adjclose": 600.0,
         "dividends": 0.0,
         "MA5": 568.2,
@@ -4695,7 +4674,28 @@
         "DIF": 34.173837065962175,
         "DEA": 26.97705675454229,
         "HIST": 14.39356062283978,
-        "volume_lot": 852.522
+        "volume_lot": 799.953
+      },
+      {
+        "date": "2026-09-01",
+        "symbol": "4971.TWO",
+        "open": 612.0,
+        "high": 660.0,
+        "low": 600.0,
+        "close": 660.0,
+        "volume": 5517732.0,
+        "adjclose": 660.0,
+        "dividends": 0.0,
+        "MA5": 589.4,
+        "MA20": 532.725,
+        "MA60": 483.3083333333333,
+        "bb_mid": 532.725,
+        "bb_up": 636.3895913511446,
+        "bb_dn": 429.0604086488554,
+        "DIF": 40.51655983151227,
+        "DEA": 29.684957369936285,
+        "HIST": 21.66320492315197,
+        "volume_lot": 5517.732
       }
     ],
     "valuation": {
