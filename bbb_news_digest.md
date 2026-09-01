@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-01T17:00:53.000380+00:00
+> 更新時間：2026-09-01T21:28:06.465852+00:00
 
 ### 🚀 台積電透過兩條 COUPE 頻寬路徑和更深層的異構整合攻克 AI I/O 牆
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -124,15 +124,6 @@
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: AI demand is eating memory supplies, so Google is cracking down on Android memory hogs.
 - [原文連結](https://www.cnet.com/tech/services-and-software/why-ramageddon-might-force-apps-and-operating-systems-performance-to-suck-less/)
-
----
-
-### ⚠️ 美國新的製裁將對伊朗普通民眾造成沉重打擊。當經濟崩潰引發新的抗議活動時，這可能是重點
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-08-29T21:26:05Z)
-- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: “數位資產和黃金是普通伊朗人保護儲蓄免受通貨膨脹影響的方式。”
-- [原文連結](https://www.yahoo.com/news/us/articles/u-sanctions-hit-ordinary-iranians-212605033.html)
 
 ---
 
