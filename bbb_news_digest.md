@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-02T13:16:55.892734+00:00
+> 更新時間：2026-09-02T16:53:44.079755+00:00
 
 ### ⚠️ 隨著 CoPoS 計劃的成形，台積電推遲了 CoWoS 訂單
 - **題材**: `半導體先進製程` | **重要性**: `88`
@@ -73,24 +73,6 @@
 
 ---
 
-### ⚖️ SK 海力士耗資 40 億美元的印第安納工廠破土動工，該工廠將包裝而非製造 HBM
-- **題材**: `HBM記憶體` | **重要性**: `73`
-- **來源**: Digitimes (2026-08-28T01:00:07Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 8 月 27 日，SK 海力士在普渡研究園投資 40 億美元的先進封裝工廠破土動工，這是其在美國的第一個高頻寬記憶體 (HBM) 基地。
-- [原文連結](https://www.digitimes.com/news/a20260828VL202/sk-hynix-hbm-packaging-plant-usa-production.html)
-
----
-
-### ⚖️ Google, MediaTek embrace advanced packaging diversification
-- **題材**: `半導體先進製程` | **重要性**: `68`
-- **來源**: Digitimes (2026-08-27T02:17:23Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Google and MediaTek are moving toward advanced packaging diversification, as Intel's embedded multi-die interconnect bridge (EMIB) gains traction after Google's TPU was confirmed to adopt the packaging technology. The shift is fueling expectations that more a…
-- [原文連結](https://www.digitimes.com/news/a20260827PD212/google-mediatek-packaging-intel-tpu.html)
-
----
-
 ### ⚖️ Ligitek跳過800G，瞄準1.6T矽光子
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
 - **來源**: Digitimes (2026-08-27T01:36:24Z)
@@ -145,6 +127,15 @@
 
 ---
 
+### 🚀 德國財政部長稱不確定性是“經濟成長的毒藥”
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-09-01T14:55:23Z)
+- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 柏林，9 月 1 日（路透社）
+- [原文連結](https://finance.yahoo.com/economy/policy/articles/uncertainty-poison-economic-growth-german-145523306.html)
+
+---
+
 ### ⚖️ Nemotron 3 Ultra 解釋
 - **題材**: `AI伺服器` | **重要性**: `60`
 - **來源**: Miraflow.ai (2026-09-01T12:42:17Z)
@@ -163,21 +154,30 @@
 
 ---
 
-### 🚀 Why RAMageddon Might Force Apps and Operating Systems’ Performance to Suck Less
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: CNET (2026-08-30T15:00:09Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: AI demand is eating memory supplies, so Google is cracking down on Android memory hogs.
-- [原文連結](https://www.cnet.com/tech/services-and-software/why-ramageddon-might-force-apps-and-operating-systems-performance-to-suck-less/)
+### ⚠️ SK 海力士執行長警告晶片製造商在印第安納州建造 40 億美元晶圓廠，記憶體短缺將持續到 2030 年
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-08-28T07:04:58Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: South Korean chipmaker SK Hynix (NASDAQ:SKHY) said Thursday it will begin volume production of next-generation HBM4E chips at its Indiana facility in the thi...
+- [原文連結](https://finance.yahoo.com/technology/articles/sk-hynix-ceo-warns-memory-070458503.html)
 
 ---
 
-### ⚖️ 記憶體目前佔全球半導體收入的 50% — 但有一個問題
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: 24/7 Wall St. (2026-08-29T16:06:49Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 人工智慧已將記憶體從繁榮與蕭條的商品轉變為關鍵基礎設施，將預測提高到幾年前看似荒謬的水平...
-- [原文連結](https://247wallst.com/investing/2026/08/29/memory-now-accounts-for-50-of-global-semiconductor-revenue-but-theres-a-catch/)
+### ⚠️ 川普總統對關稅的熱愛與對資料中心的熱愛發生衝突
+- **題材**: `半導體先進製程` | **重要性**: `60`
+- **來源**: Gizmodo.com (2026-08-27T19:50:28Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 據報道，總統正在考慮對半導體徵收關稅。
+- [原文連結](https://gizmodo.com/president-trumps-love-of-tariffs-comes-into-conflict-with-his-love-of-data-centers-2000803876)
+
+---
+
+### 🚀 This Under-the-Radar AI Stock Could Be the Next Big Semiconductor Winner
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: 24/7 Wall St. (2026-08-27T15:32:15Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Credo Technology exploded from double digits to over $300 in a single year, but the setup heading into fiscal 2027 is a fundamentally different bet, and the...
+- [原文連結](https://247wallst.com/investing/2026/08/27/this-under-the-radar-ai-stock-could-be-the-next-big-semiconductor-winner/)
 
 ---
 
