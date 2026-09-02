@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-09-02T16:53:44.079755+00:00",
+  "generated_at": "2026-09-02T19:32:03.870375+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 68,
@@ -530,6 +530,44 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "dc32c4851ca1847e",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "OpenAI 揭開其內部 Jalapeo 晶片的面紗",
+      "summary": "OpenAI 表示，其 700W Jalapeo 晶片在效率上擊敗了 Nvidia 的 1,400W GB300，同時跳過了與後者 Vera Rubin 架構的關鍵正面交鋒。",
+      "original_title": "OpenAI lifts the lid on its in-house Jalapeño chip - with benchmarks claiming it beats Nvidia's GB300",
+      "url": "https://www.techradar.com/pro/openai-lifts-the-lid-on-its-in-house-jalapeno-chip-with-benchmarks-claiming-it-beats-nvidias-gb300",
+      "source": "TechRadar",
+      "domain": "techradar.com",
+      "published_at": "2026-09-01T17:50:00Z",
+      "importance": 60,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "7ed760a71cfd1f3b",
@@ -2104,120 +2142,6 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "261384e8ac095c5f",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "《JAŸ-Z In 8》將在 Mubi 上進行國際串流媒體播放",
-      "summary": "Mubi 已獲得 JAŸ-Z In 8 的國際版權，這是一部即將推出的八集紀錄片系列，講述這位傳奇說唱歌手與資深製作人 Rick Rubin 的對話。  由肖恩卡特 (Jaÿ-Z) 和魯賓擔任監製，魯賓也執導了兩部影片…",
-      "original_title": "‘JAŸ-Z In 8’ To Stream Internationally On Mubi",
-      "url": "http://deadline.com/2026/08/jay-z-in-8-mubi-rick-rubin-1237060755/",
-      "source": "Deadline",
-      "domain": "deadline.com",
-      "published_at": "2026-08-27T12:00:00Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "06e4e7a48566b2cc",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "用於高效張量計算的執行緒暫存器解耦 GPU 執行模型",
-      "summary": "現代 GPU 越來越多地將 Tensor Core 整合到執行管道中。儘管總張量吞吐量持續增長，但在操作數供應的幫助下，操作數供應已從 Ampere 中的基於寄存器發展到 Hopper 和 Black 中的無冗餘、基於內存…",
-      "original_title": "A Thread-Register Decoupled GPU Execution Model for Efficient Tensor Computation",
-      "url": "https://arxiv.org/abs/2608.19628",
-      "source": "Arxiv.org",
-      "domain": "arxiv.org",
-      "published_at": "2026-08-26T19:08:58Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "2ac3cb38af76c7d2",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Anthropic 與英國 Nscale 簽署 45B 美元計算協議",
-      "summary": "Anthropic 已同意在六年內花費 45B 美元從 Nscale 的旗艦西維吉尼亞資料中心開發租賃 AI 運算能力，覆蓋約 460 兆瓦。 Nscale 是一家倫敦公司，準備最快下個月在美國上市。人類有農業…",
-      "original_title": "Anthropic signs $45B compute deal with Britain’s Nscale",
-      "url": "https://thenextweb.com/news/anthropic-nscale-45b-compute-deal-london-ipo",
-      "source": "The Next Web",
-      "domain": "thenextweb.com",
-      "published_at": "2026-08-26T17:35:23Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "b19a4d109d3f3759",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2406,6 +2330,82 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "06e4e7a48566b2cc",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "用於高效張量計算的執行緒暫存器解耦 GPU 執行模型",
+      "summary": "現代 GPU 越來越多地將 Tensor Core 整合到執行管道中。儘管總張量吞吐量持續增長，但在操作數供應的幫助下，操作數供應已從 Ampere 中的基於寄存器發展到 Hopper 和 Black 中的無冗餘、基於內存…",
+      "original_title": "A Thread-Register Decoupled GPU Execution Model for Efficient Tensor Computation",
+      "url": "https://arxiv.org/abs/2608.19628",
+      "source": "Arxiv.org",
+      "domain": "arxiv.org",
+      "published_at": "2026-08-26T19:08:58Z",
+      "importance": 45,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
+    },
+    {
+      "id": "2ac3cb38af76c7d2",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Anthropic 與英國 Nscale 簽署 45B 美元計算協議",
+      "summary": "Anthropic 已同意在六年內花費 45B 美元從 Nscale 的旗艦西維吉尼亞資料中心開發租賃 AI 運算能力，覆蓋約 460 兆瓦。 Nscale 是一家倫敦公司，準備最快下個月在美國上市。人類有農業…",
+      "original_title": "Anthropic signs $45B compute deal with Britain’s Nscale",
+      "url": "https://thenextweb.com/news/anthropic-nscale-45b-compute-deal-london-ipo",
+      "source": "The Next Web",
+      "domain": "thenextweb.com",
+      "published_at": "2026-08-26T17:35:23Z",
+      "importance": 45,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     },
     {
       "id": "bdfc03b609c55562",

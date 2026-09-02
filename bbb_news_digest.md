@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-02T16:53:44.079755+00:00
+> 更新時間：2026-09-02T19:32:03.870375+00:00
 
 ### ⚠️ 隨著 CoPoS 計劃的成形，台積電推遲了 CoWoS 訂單
 - **題材**: `半導體先進製程` | **重要性**: `88`
@@ -127,6 +127,15 @@
 
 ---
 
+### ⚖️ OpenAI 揭開其內部 Jalapeo 晶片的面紗
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: TechRadar (2026-09-01T17:50:00Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: OpenAI 表示，其 700W Jalapeo 晶片在效率上擊敗了 Nvidia 的 1,400W GB300，同時跳過了與後者 Vera Rubin 架構的關鍵正面交鋒。
+- [原文連結](https://www.techradar.com/pro/openai-lifts-the-lid-on-its-in-house-jalapeno-chip-with-benchmarks-claiming-it-beats-nvidias-gb300)
+
+---
+
 ### 🚀 德國財政部長稱不確定性是“經濟成長的毒藥”
 - **題材**: `總體風險` | **重要性**: `60`
 - **來源**: Yahoo Entertainment (2026-09-01T14:55:23Z)
@@ -169,15 +178,6 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 據報道，總統正在考慮對半導體徵收關稅。
 - [原文連結](https://gizmodo.com/president-trumps-love-of-tariffs-comes-into-conflict-with-his-love-of-data-centers-2000803876)
-
----
-
-### 🚀 This Under-the-Radar AI Stock Could Be the Next Big Semiconductor Winner
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: 24/7 Wall St. (2026-08-27T15:32:15Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Credo Technology exploded from double digits to over $300 in a single year, but the setup heading into fiscal 2027 is a fundamentally different bet, and the...
-- [原文連結](https://247wallst.com/investing/2026/08/27/this-under-the-radar-ai-stock-could-be-the-next-big-semiconductor-winner/)
 
 ---
 
