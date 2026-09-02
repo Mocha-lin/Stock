@@ -1,10 +1,48 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-09-02T00:51:25.652267+00:00",
+  "generated_at": "2026-09-02T05:16:11.977769+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 70,
   "items": [
+    {
+      "id": "e43a4deeaf123151",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "隨著 CoPoS 計劃的成形，台積電推遲了 CoWoS 訂單",
+      "summary": "TSMC's reported delay in placing 2027 advanced packaging equipment orders has sparked market speculation that the company sees excess CoWoS capacity ahead. But equipment suppliers say CoWoS demand has not weakened, and TSMC's real challenge is instead how to …",
+      "original_title": "TSMC delays CoWoS orders as CoPoS plans take shape",
+      "url": "https://www.digitimes.com/news/a20260901PD219/tsmc-cowos-equipment-packaging-capacity.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-09-01T03:38:56Z",
+      "importance": 88,
+      "impact": "negative",
+      "timeframe": "short_to_mid_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之偏空消息。【重大事件】可能顯著影響產業評價、EPS預期或資金流向。"
+    },
     {
       "id": "04844f682187e063",
       "dataset": "market_news",
@@ -281,44 +319,6 @@
       "domain": "digitimes.com",
       "published_at": "2026-08-26T09:43:26Z",
       "importance": 73,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
-      "id": "fcd2499f50e7051c",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "Glass substrate roadmaps examined — Absolics in final qualification and a first product that keeps slipping",
-      "summary": "玻璃芯基板是英特爾於 2023 年 9 月承諾的有機晶片封裝的替代品，目前已進入最終資格認證階段，但仍未應用於單一商業產品中",
-      "original_title": "Glass substrate roadmaps examined — Absolics in final qualification and a first product that keeps slipping",
-      "url": "https://www.tomshardware.com/tech-industry/manufacturing/glass-substrate-roadmap-examined",
-      "source": "Tom's Hardware UK",
-      "domain": "tomshardware.com",
-      "published_at": "2026-08-27T15:40:11Z",
-      "importance": 72,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [

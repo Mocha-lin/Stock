@@ -1,5 +1,14 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-02T00:51:25.652267+00:00
+> 更新時間：2026-09-02T05:16:11.977769+00:00
+
+### ⚠️ 隨著 CoPoS 計劃的成形，台積電推遲了 CoWoS 訂單
+- **題材**: `半導體先進製程` | **重要性**: `88`
+- **來源**: Digitimes (2026-09-01T03:38:56Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏空消息。【重大事件】可能顯著影響產業評價、EPS預期或資金流向。
+- **摘要**: TSMC's reported delay in placing 2027 advanced packaging equipment orders has sparked market speculation that the company sees excess CoWoS capacity ahead. But equipment suppliers say CoWoS demand has not weakened, and TSMC's real challenge is instead how to …
+- [原文連結](https://www.digitimes.com/news/a20260901PD219/tsmc-cowos-equipment-packaging-capacity.html)
+
+---
 
 ### ⚖️ Luxnet eyes orders through 2028, DCI revenue set to double in 2027
 - **題材**: `光通訊與矽光子` | **重要性**: `88`
@@ -70,15 +79,6 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 摩根士丹利表示，台积电的先进封装配置预计将在 2027 年发生变化，因为与代理 AI 相关的处理器需求将提升 AMD 的 CoWoS 使用率并减少 Nvidia 的份额。 Wccftech 引用的這份報告將這一轉變歸因於台積電產能的不斷上升…
 - [原文連結](https://www.digitimes.com/news/a20260826PD243/amd-cowos-tsmc-nvidia-demand.html)
-
----
-
-### ⚖️ Glass substrate roadmaps examined — Absolics in final qualification and a first product that keeps slipping
-- **題材**: `半導體先進製程` | **重要性**: `72`
-- **來源**: Tom's Hardware UK (2026-08-27T15:40:11Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 玻璃芯基板是英特爾於 2023 年 9 月承諾的有機晶片封裝的替代品，目前已進入最終資格認證階段，但仍未應用於單一商業產品中
-- [原文連結](https://www.tomshardware.com/tech-industry/manufacturing/glass-substrate-roadmap-examined)
 
 ---
 
