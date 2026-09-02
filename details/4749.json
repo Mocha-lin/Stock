@@ -1,11 +1,11 @@
 {
   "id": "4749",
   "name": "新應材",
-  "lastUpdated": "2026-09-01 20:16:39",
+  "lastUpdated": "2026-09-02 19:53:37",
   "basicInfo": {
-    "price": "799.00",
-    "change": "30.00",
-    "changePercent": "3.90%"
+    "price": "787.00",
+    "change": "-12.00",
+    "changePercent": "-1.50%"
   },
   "status": "⚡ BUY",
   "themes": [],
@@ -135,6 +135,12 @@
   "ai_model": "Fact-Update",
   "financials": {
     "revenue_trend": [
+      {
+        "month": "2026/8",
+        "revenue": "4.85",
+        "mom": "16.86",
+        "yoy": "41.95"
+      },
       {
         "month": "2026/7",
         "revenue": "4.15",
@@ -657,6 +663,14 @@
     ],
     "chips_table": [
       {
+        "date": "2026-09-02",
+        "foreign_lots": -46.214,
+        "it_lots": -5.0,
+        "dealer_lots": -1.763,
+        "sum_lots": -52.977,
+        "pct_float": -0.0053017027856031304
+      },
+      {
         "date": "2026-09-01",
         "foreign_lots": 95.186,
         "it_lots": 15.0,
@@ -767,14 +781,6 @@
         "dealer_lots": 7.849,
         "sum_lots": -75.934,
         "pct_float": -0.007599137348698267
-      },
-      {
-        "date": "2026-08-12",
-        "foreign_lots": -31.54,
-        "it_lots": 0.0,
-        "dealer_lots": -5.343,
-        "sum_lots": -36.882999999999996,
-        "pct_float": -0.0036910867705117357
       }
     ],
     "c_score_data": {
@@ -782,7 +788,7 @@
       "dataset": "structure_c_score",
       "stock_id": "4749",
       "ticker": "4749.TWO",
-      "asof": "2026-09-01",
+      "asof": "2026-09-02",
       "c_score": 2.5089118862081436,
       "benchmark_pe": 115.5840557678552,
       "source": [
@@ -1030,7 +1036,33 @@
       "name": "新應材",
       "stock_name": "新應材"
     },
-    "returns_table": [],
+    "returns_table": [
+      {
+        "year": 2026,
+        "return_pct": -15.546187087132546,
+        "period": "01/02~09/02"
+      },
+      {
+        "year": 2025,
+        "return_pct": 33.7779105116798,
+        "period": "01/02~12/31"
+      },
+      {
+        "year": 2024,
+        "return_pct": 68.45780590374603,
+        "period": "01/02~12/31"
+      },
+      {
+        "year": 2023,
+        "return_pct": 115.29727541929927,
+        "period": "01/03~12/29"
+      },
+      {
+        "year": 2022,
+        "return_pct": 16.384424967064714,
+        "period": "02/16~12/30"
+      }
+    ],
     "contract_table": [
       {
         "period": "2026Q2",
@@ -1925,27 +1957,6 @@
     ],
     "facilities_data": [],
     "kline_data": [
-      {
-        "date": "2026-03-12",
-        "symbol": "4749.TWO",
-        "open": 985.0,
-        "high": 1005.0,
-        "low": 962.0,
-        "close": 983.0,
-        "volume": 3597019.0,
-        "adjclose": 974.4984130859376,
-        "dividends": 0.0,
-        "MA5": 961.2,
-        "MA20": 895.45,
-        "MA60": 865.9833333333333,
-        "bb_mid": 895.45,
-        "bb_up": 1009.4525876899132,
-        "bb_dn": 781.4474123100867,
-        "DIF": 28.47303774181023,
-        "DEA": 19.7432702213477,
-        "HIST": 17.45953504092506,
-        "volume_lot": 3597.019
-      },
       {
         "date": "2026-03-13",
         "symbol": "4749.TWO",
@@ -4431,7 +4442,7 @@
         "high": 814.0,
         "low": 773.0,
         "close": 799.0,
-        "volume": 639505.0,
+        "volume": 583146.0,
         "adjclose": 799.0,
         "dividends": 0.0,
         "MA5": 780.4,
@@ -4443,7 +4454,28 @@
         "DIF": -8.780382574301143,
         "DEA": -14.607619763210645,
         "HIST": 11.654474377819,
-        "volume_lot": 639.505
+        "volume_lot": 583.146
+      },
+      {
+        "date": "2026-09-02",
+        "symbol": "4749.TWO",
+        "open": 805.0,
+        "high": 808.0,
+        "low": 787.0,
+        "close": 787.0,
+        "volume": 750009.0,
+        "adjclose": 787.0,
+        "dividends": 0.0,
+        "MA5": 786.8,
+        "MA20": 782.3,
+        "MA60": 831.1,
+        "bb_mid": 782.3,
+        "bb_up": 823.7154560520202,
+        "bb_dn": 740.8845439479798,
+        "DIF": -7.328791417678531,
+        "DEA": -13.15185409410422,
+        "HIST": 11.646125352851382,
+        "volume_lot": 750.009
       }
     ],
     "valuation": {
