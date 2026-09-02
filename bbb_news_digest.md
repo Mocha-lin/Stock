@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-02T09:46:31.782920+00:00
+> 更新時間：2026-09-02T13:16:55.892734+00:00
 
 ### ⚠️ 隨著 CoPoS 計劃的成形，台積電推遲了 CoWoS 訂單
 - **題材**: `半導體先進製程` | **重要性**: `88`
@@ -28,15 +28,6 @@
 
 ---
 
-### 🚀 台積電透過兩條 COUPE 頻寬路徑和更深層的異構整合攻克 AI I/O 牆
-- **題材**: `光通訊與矽光子` | **重要性**: `78`
-- **來源**: Digitimes (2026-08-31T08:50:51Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: TSMC is sharpening its silicon photonics (SiPh) roadmap to address the widening gap between AI compute growth and chip-to-chip data movement, unveiling two bandwidth-scaling paths for its next-generation COUPE platform and outlining a broader role for heterog…
-- [原文連結](https://www.digitimes.com/news/a20260831PD225/tsmc-bandwidth-silicon-photonics-siph.html)
-
----
-
 ### 🚀 台積電預計 SiPh 將在 2027 年成為主流
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
 - **來源**: Digitimes (2026-08-31T08:28:42Z)
@@ -52,6 +43,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 德淵正在將其特殊化學品業務從液晶顯示器和電子產品擴展到人工智慧伺服器、車載電子產品、Mini LED 和光學鏡頭，同時也瞄準光通訊、矽光子 (SiPh) 和先進封裝。公司…
 - [原文連結](https://www.digitimes.com/news/a20260828PD222/tex-year-chemical-materials-optical-communications-siph-business-demand-growth.html)
+
+---
+
+### 🚀 在人工智慧熱潮中，國家電信業者出售回收銅可賺取 27 億美元——英國電信 (BT) 將從傳統網路中剝離 20 萬噸銅
+- **題材**: `光通訊與矽光子` | **重要性**: `77`
+- **來源**: Tom's Hardware UK (2026-09-01T12:00:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 英國最大的電信公司 BT 在升級到光纖時回收了網路中的所有舊銅線，因此可能賺取 27 億美元的收入。大量數據是由人工智慧熱潮推動的，因為數據中心營運商需要越來越多的合作…
+- [原文連結](https://www.tomshardware.com/networking/national-telecoms-provider-to-make-usd2-7-billion-selling-old-copper-in-ai-boom-bt-to-strip-200-000-tons-from-legacy-network)
 
 ---
 
@@ -79,15 +79,6 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 8 月 27 日，SK 海力士在普渡研究園投資 40 億美元的先進封裝工廠破土動工，這是其在美國的第一個高頻寬記憶體 (HBM) 基地。
 - [原文連結](https://www.digitimes.com/news/a20260828VL202/sk-hynix-hbm-packaging-plant-usa-production.html)
-
----
-
-### 🚀 Semtech 公司 2027 年第二季財報電話會議摘要
-- **題材**: `光通訊與矽光子` | **重要性**: `70`
-- **來源**: Moby.co (2026-08-26T12:30:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Semtech 公司 2027 年第二季財報電話會議的 Moby 摘要
-- [原文連結](https://app.moby.co/home/research/tools/earningsCalendar/earnings-semtech-corporation-q2-2027-earnings-call-summary?utm_source=yahoo_finance&amp;utm_medium=rss)
 
 ---
 
@@ -127,15 +118,6 @@
 
 ---
 
-### ⚖️ Hot Chips 2026：Nvidia 宣揚其 DSX MaxLPS 網站電源管理方法的優勢 — 此技術允許透過固定資料中心電源預算進行更多計算
-- **題材**: `AI伺服器` | **重要性**: `67`
-- **來源**: Tom's Hardware UK (2026-08-26T14:42:10Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 在 Nvidia 關於 Rubin GPU 的 Hot Chips 演示中，該公司強調功率是資料中心容量的硬性限制，並宣傳 Vera Rubin NVL72 系統可以在 100MW 固定設施功率預算範例中提供的運算量。
-- [原文連結](https://www.tomshardware.com/tech-industry/data-centers/hot-chips-2026-nvidia-touts-benefits-of-its-dsx-maxlps-site-power-management-approach-tech-allows-for-more-compute-from-fixed-data-center-power-budgets)
-
----
-
 ### ⚠️ 谷歌將從 2027 年 2 月起限制 Android 應用程式可以使用的記憶體量
 - **題材**: `AI伺服器` | **重要性**: `65`
 - **來源**: The Next Web (2026-08-31T13:18:36Z)
@@ -151,6 +133,24 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 今年，三星開始大量生產用於 NVIDIA 旗艦 Vera Rubin AI 平台的 HBM4 晶片。這筆交易將產生數十億美元的收入。現在，這家韓國公司在供應客製化 HBM 晶片方面似乎比競爭對手更具優勢…
 - [原文連結](https://www.sammobile.com/news/samsung-supply-nvhbm-chips-nvidia/)
+
+---
+
+### 🚀 Semtech 公司 2027 年第二季財報電話會議摘要
+- **題材**: `光通訊與矽光子` | **重要性**: `65`
+- **來源**: Moby.co (2026-08-26T12:30:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Semtech 公司 2027 年第二季財報電話會議的 Moby 摘要
+- [原文連結](https://app.moby.co/home/research/tools/earningsCalendar/earnings-semtech-corporation-q2-2027-earnings-call-summary?utm_source=yahoo_finance&amp;utm_medium=rss)
+
+---
+
+### ⚖️ Nemotron 3 Ultra 解釋
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: Miraflow.ai (2026-09-01T12:42:17Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: NVIDIA 的 Nemotron 3 Ultra 是一款 550B 開放式重量混合 Mamba-Attention MoE 模型，專為長時間代理運行而打造。以下是其架構、訓練和吞吐量資料的實際工作原理。
+- [原文連結](https://miraflow.ai/blog/nemotron-3-ultra-explained-nvidia-hybrid-mamba-moe-2026)
 
 ---
 
