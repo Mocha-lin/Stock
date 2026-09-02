@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-02T05:16:11.977769+00:00
+> 更新時間：2026-09-02T09:46:31.782920+00:00
 
 ### ⚠️ 隨著 CoPoS 計劃的成形，台積電推遲了 CoWoS 訂單
 - **題材**: `半導體先進製程` | **重要性**: `88`
@@ -55,6 +55,15 @@
 
 ---
 
+### ⚖️ Marvell CTO：功率和密度瓶頸正在推動 CPO 在 AI 資料中心的採用
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-09-01T06:55:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Marvell Technology 技術長 Radha Nagarajan 在 2026 年台灣半導體展之前的矽光子全球高峰會上發表演說時強調，AI 資料中心時代升級連結的核心焦點已堅定地轉向功耗。他指出，...
+- [原文連結](https://www.digitimes.com/news/a20260901PD231/marvell-cpo-siph-adoption-semicon-taiwan.html)
+
+---
+
 ### ⚖️ ASE: CPO scale-out demands deeper supply-chain coordination for mass production
 - **題材**: `光通訊與矽光子` | **重要性**: `73`
 - **來源**: Digitimes (2026-08-31T08:06:39Z)
@@ -70,24 +79,6 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 8 月 27 日，SK 海力士在普渡研究園投資 40 億美元的先進封裝工廠破土動工，這是其在美國的第一個高頻寬記憶體 (HBM) 基地。
 - [原文連結](https://www.digitimes.com/news/a20260828VL202/sk-hynix-hbm-packaging-plant-usa-production.html)
-
----
-
-### ⚖️ TSMC packaging shift could boost AMD CoWoS share and trim Nvidia's allocation
-- **題材**: `半導體先進製程` | **重要性**: `73`
-- **來源**: Digitimes (2026-08-26T09:43:26Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 摩根士丹利表示，台积电的先进封装配置预计将在 2027 年发生变化，因为与代理 AI 相关的处理器需求将提升 AMD 的 CoWoS 使用率并减少 Nvidia 的份额。 Wccftech 引用的這份報告將這一轉變歸因於台積電產能的不斷上升…
-- [原文連結](https://www.digitimes.com/news/a20260826PD243/amd-cowos-tsmc-nvidia-demand.html)
-
----
-
-### ⚖️ 這家鮮為人知的人工智慧公司正在悄悄建設資料中心熱潮
-- **題材**: `光通訊與矽光子` | **重要性**: `70`
-- **來源**: 24/7 Wall St. (2026-08-31T13:00:22Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 一家小型光子公司剛從超大規模供應商獲得了一份巨額採購訂單，其資產負債表突然給了它數年的時間來證明是否…
-- [原文連結](https://247wallst.com/investing/2026/08/31/this-little-known-ai-company-is-quietly-building-for-the-data-center-boom/)
 
 ---
 
@@ -115,6 +106,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Ligitek Electronics 是一家台灣 LED 封裝製造商，近年來已擴展到半導體系統級封裝 (SiP) 和矽光子領域。該公司表示，2026年上半年，人工智慧相關產品約佔其收入的45%。 Ligi…
 - [原文連結](https://www.digitimes.com/news/a20260826PD219/photonics-silicon-ligitek-led-packaging-revenue.html)
+
+---
+
+### ⚖️ TSMC packaging shift could boost AMD CoWoS share and trim Nvidia's allocation
+- **題材**: `半導體先進製程` | **重要性**: `68`
+- **來源**: Digitimes (2026-08-26T09:43:26Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 摩根士丹利表示，台积电的先进封装配置预计将在 2027 年发生变化，因为与代理 AI 相关的处理器需求将提升 AMD 的 CoWoS 使用率并减少 Nvidia 的份额。 Wccftech 引用的這份報告將這一轉變歸因於台積電產能的不斷上升…
+- [原文連結](https://www.digitimes.com/news/a20260826PD243/amd-cowos-tsmc-nvidia-demand.html)
 
 ---
 
