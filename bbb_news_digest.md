@@ -1,5 +1,23 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-01T21:28:06.465852+00:00
+> 更新時間：2026-09-02T00:51:25.652267+00:00
+
+### ⚖️ Luxnet eyes orders through 2028, DCI revenue set to double in 2027
+- **題材**: `光通訊與矽光子` | **重要性**: `88`
+- **來源**: Digitimes (2026-08-31T23:11:22Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重大事件】可能顯著影響產業評價、EPS預期或資金流向。
+- **摘要**: AI驅動的光模組需求快速上升，LuxNet表示2026年下半年業務將較上半年大幅成長。隨著 2027 年產能上線，資料中心互連 (DCI) 產品的收入將持續成長…
+- [原文連結](https://www.digitimes.com/news/a20260831PD224/2027-revenue-2028-demand-2026.html)
+
+---
+
+### 🚀 China specialty foundry XMC plans fourfold capacity growth around 3D integration, silicon photonics
+- **題材**: `光通訊與矽光子` | **重要性**: `83`
+- **來源**: Digitimes (2026-08-31T23:09:25Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 武漢新芯半導體製造有限公司（XMC）制定了以3D整合、矽光子（SiPh）和特種製程為核心的10年擴張策略，目標是將產能提高四倍，同時打造更廣泛的半導體產業鏈。
+- [原文連結](https://www.digitimes.com/news/a20260831VL211/xmc-3d-silicon-photonics-growth.html)
+
+---
 
 ### 🚀 台積電透過兩條 COUPE 頻寬路徑和更深層的異構整合攻克 AI I/O 牆
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -28,15 +46,6 @@
 
 ---
 
-### 🚀 Semtech 第二季財報電話會議亮點
-- **題材**: `光通訊與矽光子` | **重要性**: `75`
-- **來源**: MarketBeat (2026-08-25T22:02:09Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Semtech（納斯達克股票代碼：SMTC）報告了創紀錄的第二財季收入，並預計其數據中心、LoRa 和消費者業務將進一步增長，同時...
-- [原文連結](https://www.marketbeat.com/instant-alerts/transcript-semtech-q2-earnings-call-highlights-2026-08-25/?utm_source=yahoofinance&amp;utm_medium=yahoofinance)
-
----
-
 ### ⚖️ ASE: CPO scale-out demands deeper supply-chain coordination for mass production
 - **題材**: `光通訊與矽光子` | **重要性**: `73`
 - **來源**: Digitimes (2026-08-31T08:06:39Z)
@@ -52,6 +61,24 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 8 月 27 日，SK 海力士在普渡研究園投資 40 億美元的先進封裝工廠破土動工，這是其在美國的第一個高頻寬記憶體 (HBM) 基地。
 - [原文連結](https://www.digitimes.com/news/a20260828VL202/sk-hynix-hbm-packaging-plant-usa-production.html)
+
+---
+
+### ⚖️ TSMC packaging shift could boost AMD CoWoS share and trim Nvidia's allocation
+- **題材**: `半導體先進製程` | **重要性**: `73`
+- **來源**: Digitimes (2026-08-26T09:43:26Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 摩根士丹利表示，台积电的先进封装配置预计将在 2027 年发生变化，因为与代理 AI 相关的处理器需求将提升 AMD 的 CoWoS 使用率并减少 Nvidia 的份额。 Wccftech 引用的這份報告將這一轉變歸因於台積電產能的不斷上升…
+- [原文連結](https://www.digitimes.com/news/a20260826PD243/amd-cowos-tsmc-nvidia-demand.html)
+
+---
+
+### ⚖️ Glass substrate roadmaps examined — Absolics in final qualification and a first product that keeps slipping
+- **題材**: `半導體先進製程` | **重要性**: `72`
+- **來源**: Tom's Hardware UK (2026-08-27T15:40:11Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 玻璃芯基板是英特爾於 2023 年 9 月承諾的有機晶片封裝的替代品，目前已進入最終資格認證階段，但仍未應用於單一商業產品中
+- [原文連結](https://www.tomshardware.com/tech-industry/manufacturing/glass-substrate-roadmap-examined)
 
 ---
 
@@ -73,6 +100,15 @@
 
 ---
 
+### ⚖️ Google, MediaTek embrace advanced packaging diversification
+- **題材**: `半導體先進製程` | **重要性**: `68`
+- **來源**: Digitimes (2026-08-27T02:17:23Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Google and MediaTek are moving toward advanced packaging diversification, as Intel's embedded multi-die interconnect bridge (EMIB) gains traction after Google's TPU was confirmed to adopt the packaging technology. The shift is fueling expectations that more a…
+- [原文連結](https://www.digitimes.com/news/a20260827PD212/google-mediatek-packaging-intel-tpu.html)
+
+---
+
 ### ⚖️ Ligitek跳過800G，瞄準1.6T矽光子
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
 - **來源**: Digitimes (2026-08-27T01:36:24Z)
@@ -88,6 +124,15 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 80% of Micron workers in Taiwan have signaled that they're willing to go on strike if the company does not strike a deal over bonuses. The employees want to replace the current bonus system with a profit-sharing scheme, allowing them to take advantage of the …
 - [原文連結](https://www.tomshardware.com/tech-industry/micron-workers-increasingly-support-strike-over-bonus-pay-labor-union-wants-profit-sharing-scheme-as-employees-at-samsung-sk-hynix-enjoy-bonuses-worth-hundreds-of-thousands-of-dollars)
+
+---
+
+### ⚖️ Hot Chips 2026：Nvidia 宣揚其 DSX MaxLPS 網站電源管理方法的優勢 — 此技術允許透過固定資料中心電源預算進行更多計算
+- **題材**: `AI伺服器` | **重要性**: `67`
+- **來源**: Tom's Hardware UK (2026-08-26T14:42:10Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 在 Nvidia 關於 Rubin GPU 的 Hot Chips 演示中，該公司強調功率是資料中心容量的硬性限制，並宣傳 Vera Rubin NVL72 系統可以在 100MW 固定設施功率預算範例中提供的運算量。
+- [原文連結](https://www.tomshardware.com/tech-industry/data-centers/hot-chips-2026-nvidia-touts-benefits-of-its-dsx-maxlps-site-power-management-approach-tech-allows-for-more-compute-from-fixed-data-center-power-budgets)
 
 ---
 
@@ -133,44 +178,6 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 人工智慧已將記憶體從繁榮與蕭條的商品轉變為關鍵基礎設施，將預測提高到幾年前看似荒謬的水平...
 - [原文連結](https://247wallst.com/investing/2026/08/29/memory-now-accounts-for-50-of-global-semiconductor-revenue-but-theres-a-catch/)
-
----
-
-### ⚠️ SK 海力士執行長警告晶片製造商在印第安納州建造 40 億美元晶圓廠，記憶體短缺將持續到 2030 年
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-08-28T07:04:58Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: South Korean chipmaker SK Hynix (NASDAQ:SKHY) said Thursday it will begin volume production of next-generation HBM4E chips at its Indiana facility in the thi...
-- [原文連結](https://finance.yahoo.com/technology/articles/sk-hynix-ceo-warns-memory-070458503.html)
-
----
-
-### 🚀 This Under-the-Radar AI Stock Could Be the Next Big Semiconductor Winner
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: 24/7 Wall St. (2026-08-27T15:32:15Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Credo Technology exploded from double digits to over $300 in a single year, but the setup heading into fiscal 2027 is a fundamentally different bet, and the...
-- [原文連結](https://247wallst.com/investing/2026/08/27/this-under-the-radar-ai-stock-could-be-the-next-big-semiconductor-winner/)
-
----
-
-### ⚖️ Adentris (YC P25) 正在招聘
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: Hacker News (2026-08-27T12:00:31Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 關於安德瑞斯
-
-Adentris (Y Combinator) 為行為健康提供者建立人工智慧驅動的合規性和收入誠信基礎設施。我們的系統讀取真實的病患記錄，發現臨床和監管風險，並將其擺在可以採取行動的人員面前…
-- [原文連結](https://www.ycombinator.com/companies/adentris/jobs/ZpMXZ0C-founding-engineer-ai-rcm-healthcare-platform-typescript-python)
-
----
-
-### 🚀 英偉達即將公佈七季以來最快的成長
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: The Next Web (2026-08-26T07:23:26Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 英偉達預計公佈季度營收 921.8 億美元，接近去年同期的兩倍，為七個季度以來最快的成長，分析師預計本季將進一步增至 1,042 億美元。數字並不是真正的問題…
-- [原文連結](https://thenextweb.com/news/nvidia-earnings-rubin-ai-financing-scrutiny)
 
 ---
 
