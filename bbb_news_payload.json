@@ -1,9 +1,9 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-09-03T13:16:24.280357+00:00",
+  "generated_at": "2026-09-03T16:43:24.153106+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
-  "total_count": 66,
+  "total_count": 68,
   "items": [
     {
       "id": "e43a4deeaf123151",
@@ -80,6 +80,44 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之中性消息。【重大事件】可能顯著影響產業評價、EPS預期或資金流向。"
+    },
+    {
+      "id": "915d8b4b0a23b893",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Dell Stock Surges On Record Orders For AI Servers",
+      "summary": "Dell reported record fiscal Q2 results as AI server demand surged, booking $60.9 billion in AI server orders and ending the quarter with a $95 billion backlog. From a report: The company posted record revenue of $47 billion, up 58% year over year. Earnings pe…",
+      "original_title": "Dell Stock Surges On Record Orders For AI Servers",
+      "url": "https://slashdot.org/story/26/09/02/0551240/dell-stock-surges-on-record-orders-for-ai-servers",
+      "source": "Slashdot.org",
+      "domain": "slashdot.org",
+      "published_at": "2026-09-02T15:00:00Z",
+      "importance": 75,
+      "impact": "positive",
+      "timeframe": "short_to_mid_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "b4b74558e370a7cf",
@@ -421,44 +459,6 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
-      "id": "fcd2499f50e7051c",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "Glass substrate roadmaps examined — Absolics in final qualification and a first product that keeps slipping",
-      "summary": "Glass-core substrates, the replacement for organic chip packaging that Intel promised in September 2023, are now in final qualification but still not in a single commercial product",
-      "original_title": "Glass substrate roadmaps examined — Absolics in final qualification and a first product that keeps slipping",
-      "url": "https://www.tomshardware.com/tech-industry/manufacturing/glass-substrate-roadmap-examined",
-      "source": "Tom's Hardware UK",
-      "domain": "tomshardware.com",
-      "published_at": "2026-08-27T15:40:11Z",
-      "importance": 72,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
       "id": "906259a49d33d607",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -535,19 +535,19 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "77bba0adf144eceb",
+      "id": "e22ba4d3c59f26ef",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "半導體先進製程",
-      "title": "Podcast highlights: Xiaomi's 3nm chip cap, HBM in Malaysia, and Nvidia's margin tradeoff",
-      "summary": "Can Xiaomi's in-house chip reach 2nm? Is HBM rerouting to Malaysia TSMC giving Intel a pass? Can Nvidia hold a 75% gross margin or protect market share? Ahead of Apple's September 10 event, the pre-event technology lull was anything but quiet, and DIGITIMES a…",
-      "original_title": "Podcast highlights: Xiaomi's 3nm chip cap, HBM in Malaysia, and Nvidia's margin tradeoff",
-      "url": "https://www.digitimes.com/news/a20260828PD237/xiaomi-hbm-malaysia-nvidia-tsmc-chips.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-08-30T23:25:00Z",
-      "importance": 68,
-      "impact": "neutral",
+      "title": "The current state of Hybrid Bonding in 2026 — TSMC sits at 6 microns and the HBM delay that nobody expected",
+      "summary": "Hybrid bonding, the copper-to-copper joining technique that replaces solder microbumps in 3D chip stacks, is in high-volume production on logic and freshly postponed on memory.",
+      "original_title": "The current state of Hybrid Bonding in 2026 — TSMC sits at 6 microns and the HBM delay that nobody expected",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/hybrid-bonding-roadmap-examined",
+      "source": "Tom's Hardware UK",
+      "domain": "tomshardware.com",
+      "published_at": "2026-09-02T15:05:41Z",
+      "importance": 67,
+      "impact": "negative",
       "timeframe": "short_term",
       "tags": [
         "半導體",
@@ -570,7 +570,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「半導體先進製程」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "aeb483bf39acb31e",
@@ -608,32 +608,32 @@
       "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "444b7c38a53a8a5c",
+      "id": "fcd2499f50e7051c",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "谷歌將從 2027 年 2 月起限制 Android 應用程式可以使用的記憶體量",
-      "summary": "谷歌將開始監管 Android 應用程式使用的記憶體量，並表示原因是全球記憶體短缺。從 2027 年 2 月起，超過新限制的應用程式將面臨兩項處罰。 Android 可以減慢速度或關閉它。 Play 商店可以埋藏它。這…",
-      "original_title": "Google will limit how much memory Android apps can use from February 2027",
-      "url": "https://thenextweb.com/news/google-android-app-memory-limits-play-store",
-      "source": "The Next Web",
-      "domain": "thenextweb.com",
-      "published_at": "2026-08-31T13:18:36Z",
-      "importance": 65,
-      "impact": "negative",
+      "theme": "半導體先進製程",
+      "title": "Glass substrate roadmaps examined — Absolics in final qualification and a first product that keeps slipping",
+      "summary": "Glass-core substrates, the replacement for organic chip packaging that Intel promised in September 2023, are now in final qualification but still not in a single commercial product",
+      "original_title": "Glass substrate roadmaps examined — Absolics in final qualification and a first product that keeps slipping",
+      "url": "https://www.tomshardware.com/tech-industry/manufacturing/glass-substrate-roadmap-examined",
+      "source": "Tom's Hardware UK",
+      "domain": "tomshardware.com",
+      "published_at": "2026-08-27T15:40:11Z",
+      "importance": 67,
+      "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
+        "半導體",
+        "CoWoS",
+        "先進製程"
       ],
       "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
       ],
       "related_models": [
         "003",
@@ -643,7 +643,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "efd829a606403fa0",
@@ -755,6 +755,44 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "3df6ce0a0232ef4c",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "Bond selloff deepens as oil prices and public debt fears jolt markets",
+      "summary": "By Ankur Banerjee, Harry Robertson and Laura Matthews SINGAPORE/LONDON/NEW YORK, Sept 2 (Reuters) - Bond prices continued to slide in Asia and Europe on Wedn...",
+      "original_title": "Bond selloff deepens as oil prices and public debt fears jolt markets",
+      "url": "https://finance.yahoo.com/economy/policy/articles/bond-selloff-deepens-inflation-oil-031138640.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-09-02T15:24:01Z",
+      "importance": 60,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "b4899462594f4251",
@@ -1023,29 +1061,32 @@
       "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "d3cd310c9fbac328",
+      "id": "444b7c38a53a8a5c",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "今天之後，Nintendo Switch 2 可能再也不會是 450 美元了",
-      "summary": "唯一的出路就是上漲，包括主機價格。",
-      "original_title": "After Today, the Nintendo Switch 2 May Never Be $450 Ever Again",
-      "url": "https://gizmodo.com/after-today-the-nintendo-switch-2-may-never-be-450-ever-again-2000804957",
-      "source": "Gizmodo.com",
-      "domain": "gizmodo.com",
-      "published_at": "2026-08-31T13:45:26Z",
+      "theme": "AI伺服器",
+      "title": "谷歌將從 2027 年 2 月起限制 Android 應用程式可以使用的記憶體量",
+      "summary": "谷歌將開始監管 Android 應用程式使用的記憶體量，並表示原因是全球記憶體短缺。從 2027 年 2 月起，超過新限制的應用程式將面臨兩項處罰。 Android 可以減慢速度或關閉它。 Play 商店可以埋藏它。這…",
+      "original_title": "Google will limit how much memory Android apps can use from February 2027",
+      "url": "https://thenextweb.com/news/google-android-app-memory-limits-play-store",
+      "source": "The Next Web",
+      "domain": "thenextweb.com",
+      "published_at": "2026-08-31T13:18:36Z",
       "importance": 60,
-      "impact": "positive",
+      "impact": "negative",
       "timeframe": "short_term",
       "tags": [
-        "HBM",
-        "記憶體"
+        "AI",
+        "伺服器",
+        "資料中心"
       ],
       "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
       ],
       "related_models": [
         "003",
@@ -1055,7 +1096,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "b808e1abdec3e5ee",
@@ -1166,44 +1207,6 @@
       "reason": "屬「半導體先進製程」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "e3033b20ae9c8ac8",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "This Under-the-Radar AI Stock Could Be the Next Big Semiconductor Winner",
-      "summary": "Credo Technology exploded from double digits to over $300 in a single year, but the setup heading into fiscal 2027 is a fundamentally different bet, and the...",
-      "original_title": "This Under-the-Radar AI Stock Could Be the Next Big Semiconductor Winner",
-      "url": "https://247wallst.com/investing/2026/08/27/this-under-the-radar-ai-stock-could-be-the-next-big-semiconductor-winner/",
-      "source": "24/7 Wall St.",
-      "domain": "247wallst.com",
-      "published_at": "2026-08-27T15:32:15Z",
-      "importance": 60,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "fcefdeef9584c291",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1237,6 +1240,44 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "d089a28ef783f500",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "美國和委內瑞拉達成石油協議幾天后，雪佛龍將在委內瑞拉擴張",
+      "summary": "Chevron is the largest foreign oil operator in Venezuela. The deal will expand its footprint at a time of political and economic uncertainty for Venezuela.",
+      "original_title": "Chevron to expand in Venezuela, days after the U.S. and Venezuela strike oil deal",
+      "url": "https://www.npr.org/2026/09/02/nx-s1-5952190/chevron-venezuela-oil-deal",
+      "source": "NPR",
+      "domain": "npr.org",
+      "published_at": "2026-09-02T14:08:03Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "49c2190b076a946a",
@@ -1391,32 +1432,29 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "fd27c6fb76947b53",
+      "id": "d3cd310c9fbac328",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "我是一名專業組織者。我看到客戶一次又一次地犯這 6 個整理錯誤。",
-      "summary": "我是一名專業的組織者，我看到人們犯了許多整理錯誤，例如保留大量紀念品或將不相關的物品存放在一起。",
-      "original_title": "I'm a professional organizer. I see clients make these 6 decluttering mistakes again and again.",
-      "url": "https://www.businessinsider.com/most-common-decluttering-mistakes-from-professional-organizer-2026-8#article",
-      "source": "Business Insider",
-      "domain": "businessinsider.com",
-      "published_at": "2026-08-31T14:16:52Z",
+      "theme": "HBM記憶體",
+      "title": "今天之後，Nintendo Switch 2 可能再也不會是 450 美元了",
+      "summary": "唯一的出路就是上漲，包括主機價格。",
+      "original_title": "After Today, the Nintendo Switch 2 May Never Be $450 Ever Again",
+      "url": "https://gizmodo.com/after-today-the-nintendo-switch-2-may-never-be-450-ever-again-2000804957",
+      "source": "Gizmodo.com",
+      "domain": "gizmodo.com",
+      "published_at": "2026-08-31T13:45:26Z",
       "importance": 55,
-      "impact": "neutral",
+      "impact": "positive",
       "timeframe": "short_term",
       "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
+        "HBM",
+        "記憶體"
       ],
       "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
       ],
       "related_models": [
         "003",
@@ -1426,45 +1464,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "1df25e6c67cacb53",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "Hugging Face 正在出售一款帶有開源軟體的機器鴨，售價 399 美元",
-      "summary": "Pollen Robotics 推出了一款名為 Microduck 的雙足機器人，首發價為 399 美元（不含稅和運費）。這家波爾多公司隸屬於人工智慧平台 Hugging Face。它的新機器有一隻眼睛和 15 個電機，站立高度為 25 厘米，重量為 u…",
-      "original_title": "Hugging Face is selling a $399 robot duck with open-source software",
-      "url": "https://thenextweb.com/news/hugging-face-microduck-399-open-source-robot",
-      "source": "The Next Web",
-      "domain": "thenextweb.com",
-      "published_at": "2026-08-31T14:14:50Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "fb6bbf816e1ec7a5",
@@ -1576,44 +1576,6 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "8bdefc2e8697dd87",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "凱文沃什 (Kevin Warsh) 發誓通膨後，比特幣跌破 8 萬美元",
-      "summary": "聯準會主席凱文沃什承諾將通膨率帶回目標水平，推動短期國債殖利率上漲，比特幣週五回落至 8 萬美元以下。",
-      "original_title": "Bitcoin Slips Below $80,000 After Kevin Warsh Inflation Vow",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-slips-below-80-000-162446162.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-08-28T16:24:46Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "2109b30b2aac5106",
@@ -1806,29 +1768,32 @@
       "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "d6112052f79d7708",
+      "id": "e3033b20ae9c8ac8",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "The Nvidia effect: These areas of the market are getting a boost from the chipmaker’s blockbuster earnings",
-      "summary": "Investors cheered Nvidia's blowout earnings on Thursday, lifting other chip stocks and the broader tech sector as the AI trade sees renewed hype.",
-      "original_title": "The Nvidia effect: These areas of the market are getting a boost from the chipmaker’s blockbuster earnings",
-      "url": "https://www.businessinsider.com/nvidia-earnings-q2-nvda-chips-memory-stock-rally-ndx-avgo-2026-8",
-      "source": "Business Insider",
-      "domain": "businessinsider.com",
-      "published_at": "2026-08-27T14:08:59Z",
+      "theme": "光通訊與矽光子",
+      "title": "This Under-the-Radar AI Stock Could Be the Next Big Semiconductor Winner",
+      "summary": "Credo Technology exploded from double digits to over $300 in a single year, but the setup heading into fiscal 2027 is a fundamentally different bet, and the...",
+      "original_title": "This Under-the-Radar AI Stock Could Be the Next Big Semiconductor Winner",
+      "url": "https://247wallst.com/investing/2026/08/27/this-under-the-radar-ai-stock-could-be-the-next-big-semiconductor-winner/",
+      "source": "24/7 Wall St.",
+      "domain": "247wallst.com",
+      "published_at": "2026-08-27T15:32:15Z",
       "importance": 55,
-      "impact": "neutral",
+      "impact": "positive",
       "timeframe": "short_term",
       "tags": [
-        "HBM",
-        "記憶體"
+        "光通訊",
+        "CPO",
+        "矽光子"
       ],
       "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
       ],
       "related_models": [
         "003",
@@ -1838,7 +1803,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "f5cbf2e92fa247a4",
@@ -1853,6 +1818,82 @@
       "domain": "ycombinator.com",
       "published_at": "2026-08-27T12:00:31Z",
       "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "fd27c6fb76947b53",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "我是一名專業組織者。我看到客戶一次又一次地犯這 6 個整理錯誤。",
+      "summary": "我是一名專業的組織者，我看到人們犯了許多整理錯誤，例如保留大量紀念品或將不相關的物品存放在一起。",
+      "original_title": "I'm a professional organizer. I see clients make these 6 decluttering mistakes again and again.",
+      "url": "https://www.businessinsider.com/most-common-decluttering-mistakes-from-professional-organizer-2026-8#article",
+      "source": "Business Insider",
+      "domain": "businessinsider.com",
+      "published_at": "2026-08-31T14:16:52Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "1df25e6c67cacb53",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "Hugging Face 正在出售一款帶有開源軟體的機器鴨，售價 399 美元",
+      "summary": "Pollen Robotics 推出了一款名為 Microduck 的雙足機器人，首發價為 399 美元（不含稅和運費）。這家波爾多公司隸屬於人工智慧平台 Hugging Face。它的新機器有一隻眼睛和 15 個電機，站立高度為 25 厘米，重量為 u…",
+      "original_title": "Hugging Face is selling a $399 robot duck with open-source software",
+      "url": "https://thenextweb.com/news/hugging-face-microduck-399-open-source-robot",
+      "source": "The Next Web",
+      "domain": "thenextweb.com",
+      "published_at": "2026-08-31T14:14:50Z",
+      "importance": 50,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -2218,32 +2259,29 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "0f21e9de775daf3e",
+      "id": "d6112052f79d7708",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "摩根大通牽頭為 Volta 的人工智慧資料中心建設提供 50 億美元的債務計劃",
-      "summary": "摩根大通已開始就一項 50 億美元的債務計劃與貸方接洽，為 Volta Infra Holdings 的人工智慧資料中心建設提供資金，幾週前，這家成立僅 7 個月的公司以 2.4 億美元的估值籌集了 3 億美元。它的第一個主要站點是挪威租用的一個 121 兆瓦的園區…",
-      "original_title": "JPMorgan leads a $5B debt package for Volta’s AI data centre buildout",
-      "url": "https://thenextweb.com/news/jpmorgan-volta-5b-debt-package-norway-tydal-anthropic",
-      "source": "The Next Web",
-      "domain": "thenextweb.com",
-      "published_at": "2026-08-27T16:22:55Z",
+      "theme": "HBM記憶體",
+      "title": "The Nvidia effect: These areas of the market are getting a boost from the chipmaker’s blockbuster earnings",
+      "summary": "Investors cheered Nvidia's blowout earnings on Thursday, lifting other chip stocks and the broader tech sector as the AI trade sees renewed hype.",
+      "original_title": "The Nvidia effect: These areas of the market are getting a boost from the chipmaker’s blockbuster earnings",
+      "url": "https://www.businessinsider.com/nvidia-earnings-q2-nvda-chips-memory-stock-rally-ndx-avgo-2026-8",
+      "source": "Business Insider",
+      "domain": "businessinsider.com",
+      "published_at": "2026-08-27T14:08:59Z",
       "importance": 50,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
+        "HBM",
+        "記憶體"
       ],
       "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
       ],
       "related_models": [
         "003",
@@ -2253,7 +2291,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "568244a55f9fa6a3",
@@ -2444,6 +2482,44 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "0f21e9de775daf3e",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "摩根大通牽頭為 Volta 的人工智慧資料中心建設提供 50 億美元的債務計劃",
+      "summary": "摩根大通已開始就一項 50 億美元的債務計劃與貸方接洽，為 Volta Infra Holdings 的人工智慧資料中心建設提供資金，幾週前，這家成立僅 7 個月的公司以 2.4 億美元的估值籌集了 3 億美元。它的第一個主要站點是挪威租用的一個 121 兆瓦的園區…",
+      "original_title": "JPMorgan leads a $5B debt package for Volta’s AI data centre buildout",
+      "url": "https://thenextweb.com/news/jpmorgan-volta-5b-debt-package-norway-tydal-anthropic",
+      "source": "The Next Web",
+      "domain": "thenextweb.com",
+      "published_at": "2026-08-27T16:22:55Z",
+      "importance": 45,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     },
     {
       "id": "261384e8ac095c5f",

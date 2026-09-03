@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-03T13:16:24.280357+00:00
+> 更新時間：2026-09-03T16:43:24.153106+00:00
 
 ### ⚠️ 隨著 CoPoS 計劃的成形，台積電推遲了 CoWoS 訂單
 - **題材**: `半導體先進製程` | **重要性**: `88`
@@ -16,6 +16,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重大事件】可能顯著影響產業評價、EPS預期或資金流向。
 - **摘要**: AI驅動的光模組需求快速上升，LuxNet表示2026年下半年業務將較上半年大幅成長。隨著 2027 年產能上線，資料中心互連 (DCI) 產品的收入將持續成長…
 - [原文連結](https://www.digitimes.com/news/a20260831PD224/2027-revenue-2028-demand-2026.html)
+
+---
+
+### 🚀 Dell Stock Surges On Record Orders For AI Servers
+- **題材**: `AI伺服器` | **重要性**: `75`
+- **來源**: Slashdot.org (2026-09-02T15:00:00Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Dell reported record fiscal Q2 results as AI server demand surged, booking $60.9 billion in AI server orders and ending the quarter with a $95 billion backlog. From a report: The company posted record revenue of $47 billion, up 58% year over year. Earnings pe…
+- [原文連結](https://slashdot.org/story/26/09/02/0551240/dell-stock-surges-on-record-orders-for-ai-servers)
 
 ---
 
@@ -100,15 +109,6 @@
 
 ---
 
-### ⚖️ Glass substrate roadmaps examined — Absolics in final qualification and a first product that keeps slipping
-- **題材**: `半導體先進製程` | **重要性**: `72`
-- **來源**: Tom's Hardware UK (2026-08-27T15:40:11Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Glass-core substrates, the replacement for organic chip packaging that Intel promised in September 2023, are now in final qualification but still not in a single commercial product
-- [原文連結](https://www.tomshardware.com/tech-industry/manufacturing/glass-substrate-roadmap-examined)
-
----
-
 ### ⚖️ Marvell 預計矽光子學將從 2027 年底開始擴展，以台灣和台積電為中心
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
 - **來源**: Digitimes (2026-09-02T03:58:48Z)
@@ -127,12 +127,12 @@
 
 ---
 
-### ⚖️ Podcast highlights: Xiaomi's 3nm chip cap, HBM in Malaysia, and Nvidia's margin tradeoff
-- **題材**: `半導體先進製程` | **重要性**: `68`
-- **來源**: Digitimes (2026-08-30T23:25:00Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Can Xiaomi's in-house chip reach 2nm? Is HBM rerouting to Malaysia TSMC giving Intel a pass? Can Nvidia hold a 75% gross margin or protect market share? Ahead of Apple's September 10 event, the pre-event technology lull was anything but quiet, and DIGITIMES a…
-- [原文連結](https://www.digitimes.com/news/a20260828PD237/xiaomi-hbm-malaysia-nvidia-tsmc-chips.html)
+### ⚠️ The current state of Hybrid Bonding in 2026 — TSMC sits at 6 microns and the HBM delay that nobody expected
+- **題材**: `半導體先進製程` | **重要性**: `67`
+- **來源**: Tom's Hardware UK (2026-09-02T15:05:41Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Hybrid bonding, the copper-to-copper joining technique that replaces solder microbumps in 3D chip stacks, is in high-volume production on logic and freshly postponed on memory.
+- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/hybrid-bonding-roadmap-examined)
 
 ---
 
@@ -145,12 +145,12 @@
 
 ---
 
-### ⚠️ 谷歌將從 2027 年 2 月起限制 Android 應用程式可以使用的記憶體量
-- **題材**: `AI伺服器` | **重要性**: `65`
-- **來源**: The Next Web (2026-08-31T13:18:36Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 谷歌將開始監管 Android 應用程式使用的記憶體量，並表示原因是全球記憶體短缺。從 2027 年 2 月起，超過新限制的應用程式將面臨兩項處罰。 Android 可以減慢速度或關閉它。 Play 商店可以埋藏它。這…
-- [原文連結](https://thenextweb.com/news/google-android-app-memory-limits-play-store)
+### ⚖️ Glass substrate roadmaps examined — Absolics in final qualification and a first product that keeps slipping
+- **題材**: `半導體先進製程` | **重要性**: `67`
+- **來源**: Tom's Hardware UK (2026-08-27T15:40:11Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Glass-core substrates, the replacement for organic chip packaging that Intel promised in September 2023, are now in final qualification but still not in a single commercial product
+- [原文連結](https://www.tomshardware.com/tech-industry/manufacturing/glass-substrate-roadmap-examined)
 
 ---
 
