@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-02T19:32:03.870375+00:00
+> 更新時間：2026-09-03T00:58:41.457559+00:00
 
 ### ⚠️ 隨著 CoPoS 計劃的成形，台積電推遲了 CoWoS 訂單
 - **題材**: `半導體先進製程` | **重要性**: `88`
@@ -28,6 +28,15 @@
 
 ---
 
+### 🚀 台積電透過兩條 COUPE 頻寬路徑和更深層的異構整合攻克 AI I/O 牆
+- **題材**: `光通訊與矽光子` | **重要性**: `78`
+- **來源**: Digitimes (2026-08-31T08:50:51Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: TSMC is sharpening its silicon photonics (SiPh) roadmap to address the widening gap between AI compute growth and chip-to-chip data movement, unveiling two bandwidth-scaling paths for its next-generation COUPE platform and outlining a broader role for heterog…
+- [原文連結](https://www.digitimes.com/news/a20260831PD225/tsmc-bandwidth-silicon-photonics-siph.html)
+
+---
+
 ### 🚀 台積電預計 SiPh 將在 2027 年成為主流
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
 - **來源**: Digitimes (2026-08-31T08:28:42Z)
@@ -37,21 +46,30 @@
 
 ---
 
-### 🚀 隨著人工智慧和光學領域的擴張，德淵的特種化學品業務可能會重塑其成長組合
-- **題材**: `光通訊與矽光子` | **重要性**: `78`
-- **來源**: Digitimes (2026-08-30T23:22:48Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 德淵正在將其特殊化學品業務從液晶顯示器和電子產品擴展到人工智慧伺服器、車載電子產品、Mini LED 和光學鏡頭，同時也瞄準光通訊、矽光子 (SiPh) 和先進封裝。公司…
-- [原文連結](https://www.digitimes.com/news/a20260828PD222/tex-year-chemical-materials-optical-communications-siph-business-demand-growth.html)
-
----
-
 ### 🚀 在人工智慧熱潮中，國家電信業者出售回收銅可賺取 27 億美元——英國電信 (BT) 將從傳統網路中剝離 20 萬噸銅
 - **題材**: `光通訊與矽光子` | **重要性**: `77`
 - **來源**: Tom's Hardware UK (2026-09-01T12:00:00Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 英國最大的電信公司 BT 在升級到光纖時回收了網路中的所有舊銅線，因此可能賺取 27 億美元的收入。大量數據是由人工智慧熱潮推動的，因為數據中心營運商需要越來越多的合作…
 - [原文連結](https://www.tomshardware.com/networking/national-telecoms-provider-to-make-usd2-7-billion-selling-old-copper-in-ai-boom-bt-to-strip-200-000-tons-from-legacy-network)
+
+---
+
+### ⚖️ 聯電瞄準12吋TFLN突破400G SiPh瓶頸
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-09-02T00:33:04Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 隨著AI超大規模資料中心互連流量的攀升，光模組正朝向1.6T和3.2T世代發展。台灣第二大合約晶片製造商聯華電子 (UMC) 正在擴大其矽光子 (SiPh) 功效…
+- [原文連結](https://www.digitimes.com/news/a20260901PD230/siph-umc-12-inch-data-bandwidth.html)
+
+---
+
+### ⚖️ Micro LED maker PlayNitride targets Micro LED optical communications within two years
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-09-02T00:24:41Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Micro LED 製造商 PlayNitride Inc. 預計該技術將在兩年內進入商業光通訊應用，從顯示器擴展到人工智慧裝置、資料中心光傳輸、矽光子和共封裝光學 (CPO)。
+- [原文連結](https://www.digitimes.com/news/a20260901PD240/playnitride-communications-technology-transmission-data.html)
 
 ---
 
@@ -73,21 +91,57 @@
 
 ---
 
+### 🚀 隨著人工智慧和光學領域的擴張，德淵的特種化學品業務可能會重塑其成長組合
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-08-30T23:22:48Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 德淵正在將其特殊化學品業務從液晶顯示器和電子產品擴展到人工智慧伺服器、車載電子產品、Mini LED 和光學鏡頭，同時也瞄準光通訊、矽光子 (SiPh) 和先進封裝。公司…
+- [原文連結](https://www.digitimes.com/news/a20260828PD222/tex-year-chemical-materials-optical-communications-siph-business-demand-growth.html)
+
+---
+
+### ⚖️ SK 海力士耗資 40 億美元的印第安納工廠破土動工，該工廠將包裝而非製造 HBM
+- **題材**: `HBM記憶體` | **重要性**: `73`
+- **來源**: Digitimes (2026-08-28T01:00:07Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 8 月 27 日，SK 海力士在普渡研究園投資 40 億美元的先進封裝工廠破土動工，這是其在美國的第一個高頻寬記憶體 (HBM) 基地。
+- [原文連結](https://www.digitimes.com/news/a20260828VL202/sk-hynix-hbm-packaging-plant-usa-production.html)
+
+---
+
+### ⚖️ Glass substrate roadmaps examined — Absolics in final qualification and a first product that keeps slipping
+- **題材**: `半導體先進製程` | **重要性**: `72`
+- **來源**: Tom's Hardware UK (2026-08-27T15:40:11Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Glass-core substrates, the replacement for organic chip packaging that Intel promised in September 2023, are now in final qualification but still not in a single commercial product
+- [原文連結](https://www.tomshardware.com/tech-industry/manufacturing/glass-substrate-roadmap-examined)
+
+---
+
+### ⚖️ Podcast highlights: Xiaomi's 3nm chip cap, HBM in Malaysia, and Nvidia's margin tradeoff
+- **題材**: `半導體先進製程` | **重要性**: `68`
+- **來源**: Digitimes (2026-08-30T23:25:00Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Can Xiaomi's in-house chip reach 2nm? Is HBM rerouting to Malaysia TSMC giving Intel a pass? Can Nvidia hold a 75% gross margin or protect market share? Ahead of Apple's September 10 event, the pre-event technology lull was anything but quiet, and DIGITIMES a…
+- [原文連結](https://www.digitimes.com/news/a20260828PD237/xiaomi-hbm-malaysia-nvidia-tsmc-chips.html)
+
+---
+
+### ⚖️ Google、聯發科擁抱先進封裝多元化
+- **題材**: `半導體先進製程` | **重要性**: `68`
+- **來源**: Digitimes (2026-08-27T02:17:23Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Google and MediaTek are moving toward advanced packaging diversification, as Intel's embedded multi-die interconnect bridge (EMIB) gains traction after Google's TPU was confirmed to adopt the packaging technology. The shift is fueling expectations that more a…
+- [原文連結](https://www.digitimes.com/news/a20260827PD212/google-mediatek-packaging-intel-tpu.html)
+
+---
+
 ### ⚖️ Ligitek跳過800G，瞄準1.6T矽光子
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
 - **來源**: Digitimes (2026-08-27T01:36:24Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Ligitek Electronics 是一家台灣 LED 封裝製造商，近年來已擴展到半導體系統級封裝 (SiP) 和矽光子領域。該公司表示，2026年上半年，人工智慧相關產品約佔其收入的45%。 Ligi…
 - [原文連結](https://www.digitimes.com/news/a20260826PD219/photonics-silicon-ligitek-led-packaging-revenue.html)
-
----
-
-### ⚖️ TSMC packaging shift could boost AMD CoWoS share and trim Nvidia's allocation
-- **題材**: `半導體先進製程` | **重要性**: `68`
-- **來源**: Digitimes (2026-08-26T09:43:26Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 摩根士丹利表示，台积电的先进封装配置预计将在 2027 年发生变化，因为与代理 AI 相关的处理器需求将提升 AMD 的 CoWoS 使用率并减少 Nvidia 的份额。 Wccftech 引用的這份報告將這一轉變歸因於台積電產能的不斷上升…
-- [原文連結](https://www.digitimes.com/news/a20260826PD243/amd-cowos-tsmc-nvidia-demand.html)
 
 ---
 
@@ -118,66 +172,12 @@
 
 ---
 
-### 🚀 Semtech 公司 2027 年第二季財報電話會議摘要
-- **題材**: `光通訊與矽光子` | **重要性**: `65`
-- **來源**: Moby.co (2026-08-26T12:30:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Semtech 公司 2027 年第二季財報電話會議的 Moby 摘要
-- [原文連結](https://app.moby.co/home/research/tools/earningsCalendar/earnings-semtech-corporation-q2-2027-earnings-call-summary?utm_source=yahoo_finance&amp;utm_medium=rss)
-
----
-
-### ⚖️ OpenAI 揭開其內部 Jalapeo 晶片的面紗
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: TechRadar (2026-09-01T17:50:00Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: OpenAI 表示，其 700W Jalapeo 晶片在效率上擊敗了 Nvidia 的 1,400W GB300，同時跳過了與後者 Vera Rubin 架構的關鍵正面交鋒。
-- [原文連結](https://www.techradar.com/pro/openai-lifts-the-lid-on-its-in-house-jalapeno-chip-with-benchmarks-claiming-it-beats-nvidias-gb300)
-
----
-
-### 🚀 德國財政部長稱不確定性是“經濟成長的毒藥”
+### ⚠️ 伊朗戰爭、全球能源短缺 美國石油儲備創44年新低
 - **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-09-01T14:55:23Z)
-- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 柏林，9 月 1 日（路透社）
-- [原文連結](https://finance.yahoo.com/economy/policy/articles/uncertainty-poison-economic-growth-german-145523306.html)
-
----
-
-### ⚖️ Nemotron 3 Ultra 解釋
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: Miraflow.ai (2026-09-01T12:42:17Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: NVIDIA 的 Nemotron 3 Ultra 是一款 550B 開放式重量混合 Mamba-Attention MoE 模型，專為長時間代理運行而打造。以下是其架構、訓練和吞吐量資料的實際工作原理。
-- [原文連結](https://miraflow.ai/blog/nemotron-3-ultra-explained-nvidia-hybrid-mamba-moe-2026)
-
----
-
-### 🚀 今天之後，Nintendo Switch 2 可能再也不會是 450 美元了
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: Gizmodo.com (2026-08-31T13:45:26Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 唯一的出路就是上漲，包括主機價格。
-- [原文連結](https://gizmodo.com/after-today-the-nintendo-switch-2-may-never-be-450-ever-again-2000804957)
-
----
-
-### ⚠️ SK 海力士執行長警告晶片製造商在印第安納州建造 40 億美元晶圓廠，記憶體短缺將持續到 2030 年
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-08-28T07:04:58Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: South Korean chipmaker SK Hynix (NASDAQ:SKHY) said Thursday it will begin volume production of next-generation HBM4E chips at its Indiana facility in the thi...
-- [原文連結](https://finance.yahoo.com/technology/articles/sk-hynix-ceo-warns-memory-070458503.html)
-
----
-
-### ⚠️ 川普總統對關稅的熱愛與對資料中心的熱愛發生衝突
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: Gizmodo.com (2026-08-27T19:50:28Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 據報道，總統正在考慮對半導體徵收關稅。
-- [原文連結](https://gizmodo.com/president-trumps-love-of-tariffs-comes-into-conflict-with-his-love-of-data-centers-2000803876)
+- **來源**: Abcnews.com (2026-09-01T21:08:34Z)
+- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: The U.S. released millions of barrels of oil after a historic energy shock set off by the Iran war.
+- [原文連結](https://abcnews.com/Business/us-oil-reserve-hits-44-year-low-amid/story?id=136114464)
 
 ---
 
