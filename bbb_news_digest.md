@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-03T00:58:41.457559+00:00
+> 更新時間：2026-09-03T05:22:06.627651+00:00
 
 ### ⚠️ 隨著 CoPoS 計劃的成形，台積電推遲了 CoWoS 訂單
 - **題材**: `半導體先進製程` | **重要性**: `88`
@@ -28,15 +28,6 @@
 
 ---
 
-### 🚀 台積電透過兩條 COUPE 頻寬路徑和更深層的異構整合攻克 AI I/O 牆
-- **題材**: `光通訊與矽光子` | **重要性**: `78`
-- **來源**: Digitimes (2026-08-31T08:50:51Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: TSMC is sharpening its silicon photonics (SiPh) roadmap to address the widening gap between AI compute growth and chip-to-chip data movement, unveiling two bandwidth-scaling paths for its next-generation COUPE platform and outlining a broader role for heterog…
-- [原文連結](https://www.digitimes.com/news/a20260831PD225/tsmc-bandwidth-silicon-photonics-siph.html)
-
----
-
 ### 🚀 台積電預計 SiPh 將在 2027 年成為主流
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
 - **來源**: Digitimes (2026-08-31T08:28:42Z)
@@ -46,12 +37,21 @@
 
 ---
 
-### 🚀 在人工智慧熱潮中，國家電信業者出售回收銅可賺取 27 億美元——英國電信 (BT) 將從傳統網路中剝離 20 萬噸銅
-- **題材**: `光通訊與矽光子` | **重要性**: `77`
-- **來源**: Tom's Hardware UK (2026-09-01T12:00:00Z)
+### ⚖️ 硬體不是問題——台積電高層指出軟體、3D IC 中的基板間隙
+- **題材**: `半導體先進製程` | **重要性**: `73`
+- **來源**: Digitimes (2026-09-02T03:51:38Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 9月1日，台積電先進封裝技術與服務副總裁何俊在SEMI 3DIC先進製造聯盟（3DICAMA）全球峰會上發表講話時指出，雖然先進封裝領域提供了巨大的商機…
+- [原文連結](https://www.digitimes.com/news/a20260902PD230/semi-tsmc-hardware-software-3d-ic.html)
+
+---
+
+### 🚀 Gemtek 深化與印度 Dixon Technologies 的合作夥伴關係，以擴大光收發器和連接足跡
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-09-02T01:30:00Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 英國最大的電信公司 BT 在升級到光纖時回收了網路中的所有舊銅線，因此可能賺取 27 億美元的收入。大量數據是由人工智慧熱潮推動的，因為數據中心營運商需要越來越多的合作…
-- [原文連結](https://www.tomshardware.com/networking/national-telecoms-provider-to-make-usd2-7-billion-selling-old-copper-in-ai-boom-bt-to-strip-200-000-tons-from-legacy-network)
+- **摘要**: Gemtek Technology宣布，將透過在印度的合資企業深化與印度Dixon Technologies的策略合作，擴大其光收發器、雙向光組件（B…
+- [原文連結](https://www.digitimes.com/news/a20260901PD247/gemtek-dixon-manufacturing-market-joint-venture.html)
 
 ---
 
@@ -118,30 +118,21 @@
 
 ---
 
+### ⚖️ Marvell 預計矽光子學將從 2027 年底開始擴展，以台灣和台積電為中心
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-09-02T03:58:48Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Marvell 資深副總裁兼技術長 Radha Nagarajan 在 2026 年台灣 SEMICON 的媒體簡報會上，為共封裝光學元件 (CPO) 的商業化提供了更清晰的時間表。
+- [原文連結](https://www.digitimes.com/news/a20260902PD227/marvell-tsmc-silicon-taiwan-photonics.html)
+
+---
+
 ### ⚖️ Podcast highlights: Xiaomi's 3nm chip cap, HBM in Malaysia, and Nvidia's margin tradeoff
 - **題材**: `半導體先進製程` | **重要性**: `68`
 - **來源**: Digitimes (2026-08-30T23:25:00Z)
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Can Xiaomi's in-house chip reach 2nm? Is HBM rerouting to Malaysia TSMC giving Intel a pass? Can Nvidia hold a 75% gross margin or protect market share? Ahead of Apple's September 10 event, the pre-event technology lull was anything but quiet, and DIGITIMES a…
 - [原文連結](https://www.digitimes.com/news/a20260828PD237/xiaomi-hbm-malaysia-nvidia-tsmc-chips.html)
-
----
-
-### ⚖️ Google、聯發科擁抱先進封裝多元化
-- **題材**: `半導體先進製程` | **重要性**: `68`
-- **來源**: Digitimes (2026-08-27T02:17:23Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Google and MediaTek are moving toward advanced packaging diversification, as Intel's embedded multi-die interconnect bridge (EMIB) gains traction after Google's TPU was confirmed to adopt the packaging technology. The shift is fueling expectations that more a…
-- [原文連結](https://www.digitimes.com/news/a20260827PD212/google-mediatek-packaging-intel-tpu.html)
-
----
-
-### ⚖️ Ligitek跳過800G，瞄準1.6T矽光子
-- **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-08-27T01:36:24Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Ligitek Electronics 是一家台灣 LED 封裝製造商，近年來已擴展到半導體系統級封裝 (SiP) 和矽光子領域。該公司表示，2026年上半年，人工智慧相關產品約佔其收入的45%。 Ligi…
-- [原文連結](https://www.digitimes.com/news/a20260826PD219/photonics-silicon-ligitek-led-packaging-revenue.html)
 
 ---
 
@@ -172,12 +163,21 @@
 
 ---
 
-### ⚠️ 伊朗戰爭、全球能源短缺 美國石油儲備創44年新低
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Abcnews.com (2026-09-01T21:08:34Z)
-- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: The U.S. released millions of barrels of oil after a historic energy shock set off by the Iran war.
-- [原文連結](https://abcnews.com/Business/us-oil-reserve-hits-44-year-low-amid/story?id=136114464)
+### ⚖️ Google、聯發科擁抱先進封裝多元化
+- **題材**: `半導體先進製程` | **重要性**: `63`
+- **來源**: Digitimes (2026-08-27T02:17:23Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Google and MediaTek are moving toward advanced packaging diversification, as Intel's embedded multi-die interconnect bridge (EMIB) gains traction after Google's TPU was confirmed to adopt the packaging technology. The shift is fueling expectations that more a…
+- [原文連結](https://www.digitimes.com/news/a20260827PD212/google-mediatek-packaging-intel-tpu.html)
+
+---
+
+### ⚖️ Ligitek跳過800G，瞄準1.6T矽光子
+- **題材**: `光通訊與矽光子` | **重要性**: `63`
+- **來源**: Digitimes (2026-08-27T01:36:24Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Ligitek Electronics 是一家台灣 LED 封裝製造商，近年來已擴展到半導體系統級封裝 (SiP) 和矽光子領域。該公司表示，2026年上半年，人工智慧相關產品約佔其收入的45%。 Ligi…
+- [原文連結](https://www.digitimes.com/news/a20260826PD219/photonics-silicon-ligitek-led-packaging-revenue.html)
 
 ---
 

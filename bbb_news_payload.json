@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-09-03T00:58:41.457559+00:00",
+  "generated_at": "2026-09-03T05:22:06.627651+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 68,
@@ -120,44 +120,6 @@
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
-      "id": "368d74fa3d57f78d",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "台積電透過兩條 COUPE 頻寬路徑和更深層的異構整合攻克 AI I/O 牆",
-      "summary": "TSMC is sharpening its silicon photonics (SiPh) roadmap to address the widening gap between AI compute growth and chip-to-chip data movement, unveiling two bandwidth-scaling paths for its next-generation COUPE platform and outlining a broader role for heterog…",
-      "original_title": "TSMC tackles the AI I/O wall with two COUPE bandwidth paths and deeper heterogeneous integration",
-      "url": "https://www.digitimes.com/news/a20260831PD225/tsmc-bandwidth-silicon-photonics-siph.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-08-31T08:50:51Z",
-      "importance": 78,
-      "impact": "positive",
-      "timeframe": "short_to_mid_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
       "id": "13d49b9752038ca2",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -196,20 +158,58 @@
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
-      "id": "cd568c25cb7b375e",
+      "id": "67734f7cd58dc566",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "硬體不是問題——台積電高層指出軟體、3D IC 中的基板間隙",
+      "summary": "9月1日，台積電先進封裝技術與服務副總裁何俊在SEMI 3DIC先進製造聯盟（3DICAMA）全球峰會上發表講話時指出，雖然先進封裝領域提供了巨大的商機…",
+      "original_title": "Hardware isn't the problem — TSMC exec flags software, substrate gaps in 3D IC",
+      "url": "https://www.digitimes.com/news/a20260902PD230/semi-tsmc-hardware-software-3d-ic.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-09-02T03:51:38Z",
+      "importance": 73,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
+      "id": "22620d793605dc70",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "光通訊與矽光子",
-      "title": "在人工智慧熱潮中，國家電信業者出售回收銅可賺取 27 億美元——英國電信 (BT) 將從傳統網路中剝離 20 萬噸銅",
-      "summary": "英國最大的電信公司 BT 在升級到光纖時回收了網路中的所有舊銅線，因此可能賺取 27 億美元的收入。大量數據是由人工智慧熱潮推動的，因為數據中心營運商需要越來越多的合作…",
-      "original_title": "National telecoms provider could make $2.7 billion selling recycled copper in AI boom — BT to strip 200,000 tons from legacy network",
-      "url": "https://www.tomshardware.com/networking/national-telecoms-provider-to-make-usd2-7-billion-selling-old-copper-in-ai-boom-bt-to-strip-200-000-tons-from-legacy-network",
-      "source": "Tom's Hardware UK",
-      "domain": "tomshardware.com",
-      "published_at": "2026-09-01T12:00:00Z",
-      "importance": 77,
+      "title": "Gemtek 深化與印度 Dixon Technologies 的合作夥伴關係，以擴大光收發器和連接足跡",
+      "summary": "Gemtek Technology宣布，將透過在印度的合資企業深化與印度Dixon Technologies的策略合作，擴大其光收發器、雙向光組件（B…",
+      "original_title": "Gemtek deepens partnership with India's Dixon Technologies to expand optical transceiver, connectivity footprint",
+      "url": "https://www.digitimes.com/news/a20260901PD247/gemtek-dixon-manufacturing-market-joint-venture.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-09-02T01:30:00Z",
+      "importance": 73,
       "impact": "positive",
-      "timeframe": "short_to_mid_term",
+      "timeframe": "short_term",
       "tags": [
         "光通訊",
         "CPO",
@@ -497,6 +497,44 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
+      "id": "906259a49d33d607",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "Marvell 預計矽光子學將從 2027 年底開始擴展，以台灣和台積電為中心",
+      "summary": "Marvell 資深副總裁兼技術長 Radha Nagarajan 在 2026 年台灣 SEMICON 的媒體簡報會上，為共封裝光學元件 (CPO) 的商業化提供了更清晰的時間表。",
+      "original_title": "Marvell sees silicon photonics scaling from late 2027, with Taiwan and TSMC at the center",
+      "url": "https://www.digitimes.com/news/a20260902PD227/marvell-tsmc-silicon-taiwan-photonics.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-09-02T03:58:48Z",
+      "importance": 68,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "77bba0adf144eceb",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -533,82 +571,6 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "38cbe0928005fb7c",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "Google、聯發科擁抱先進封裝多元化",
-      "summary": "Google and MediaTek are moving toward advanced packaging diversification, as Intel's embedded multi-die interconnect bridge (EMIB) gains traction after Google's TPU was confirmed to adopt the packaging technology. The shift is fueling expectations that more a…",
-      "original_title": "Google, MediaTek embrace advanced packaging diversification",
-      "url": "https://www.digitimes.com/news/a20260827PD212/google-mediatek-packaging-intel-tpu.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-08-27T02:17:23Z",
-      "importance": 68,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "fa7bbd3f1e6d226d",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "Ligitek跳過800G，瞄準1.6T矽光子",
-      "summary": "Ligitek Electronics 是一家台灣 LED 封裝製造商，近年來已擴展到半導體系統級封裝 (SiP) 和矽光子領域。該公司表示，2026年上半年，人工智慧相關產品約佔其收入的45%。 Ligi…",
-      "original_title": "Ligitek skips 800G, targets 1.6T silicon photonics",
-      "url": "https://www.digitimes.com/news/a20260826PD219/photonics-silicon-ligitek-led-packaging-revenue.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-08-27T01:36:24Z",
-      "importance": 68,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "aeb483bf39acb31e",
@@ -717,6 +679,82 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "38cbe0928005fb7c",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "Google、聯發科擁抱先進封裝多元化",
+      "summary": "Google and MediaTek are moving toward advanced packaging diversification, as Intel's embedded multi-die interconnect bridge (EMIB) gains traction after Google's TPU was confirmed to adopt the packaging technology. The shift is fueling expectations that more a…",
+      "original_title": "Google, MediaTek embrace advanced packaging diversification",
+      "url": "https://www.digitimes.com/news/a20260827PD212/google-mediatek-packaging-intel-tpu.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-08-27T02:17:23Z",
+      "importance": 63,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "fa7bbd3f1e6d226d",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "Ligitek跳過800G，瞄準1.6T矽光子",
+      "summary": "Ligitek Electronics 是一家台灣 LED 封裝製造商，近年來已擴展到半導體系統級封裝 (SiP) 和矽光子領域。該公司表示，2026年上半年，人工智慧相關產品約佔其收入的45%。 Ligi…",
+      "original_title": "Ligitek skips 800G, targets 1.6T silicon photonics",
+      "url": "https://www.digitimes.com/news/a20260826PD219/photonics-silicon-ligitek-led-packaging-revenue.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-08-27T01:36:24Z",
+      "importance": 63,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "b4899462594f4251",
@@ -2069,44 +2107,6 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "c534f9fae8070666",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "Google Pixel 11 Pro 與 Pixel 9 Pro：目前還沒有升級的理由",
-      "summary": "Pixel 11 Pro 帶來了新的相機和其他調整，是一款出色的小型旗艦產品。也就是說，已經用了兩年的 Pixel 9 Pro 也同樣出色，我暫時還不想換。",
-      "original_title": "Google Pixel 11 Pro vs. Pixel 9 Pro: No reason to upgrade just yet",
-      "url": "https://www.androidcentral.com/phones/google-pixel/google-pixel-11-pro-vs-pixel-9-pro",
-      "source": "Android Central",
-      "domain": "androidcentral.com",
-      "published_at": "2026-08-27T04:17:29Z",
-      "importance": 55,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "14a992314d6de9c5",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2446,44 +2446,6 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "b06183bc233869b5",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "First 2nm Chip Revealed in M6 Chip",
-      "summary": "The M6 chip has been announced by Apple today. The chip was manufactured with the 2nm process with a Neural Engine with dual 16-core. With the 2nm process, transistor density is fit into a smaller die for improvements in power efficiency and performance. The …",
-      "original_title": "First 2nm Chip Revealed in M6 Chip",
-      "url": "https://www.ilounge.com/news/apple/first-2nm-chip-revealed-in-m6-chip",
-      "source": "iLounge",
-      "domain": "ilounge.com",
-      "published_at": "2026-08-27T15:58:41Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "dc89cdc22ea28fe4",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2558,6 +2520,44 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "c534f9fae8070666",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "Google Pixel 11 Pro 與 Pixel 9 Pro：目前還沒有升級的理由",
+      "summary": "Pixel 11 Pro 帶來了新的相機和其他調整，是一款出色的小型旗艦產品。也就是說，已經用了兩年的 Pixel 9 Pro 也同樣出色，我暫時還不想換。",
+      "original_title": "Google Pixel 11 Pro vs. Pixel 9 Pro: No reason to upgrade just yet",
+      "url": "https://www.androidcentral.com/phones/google-pixel/google-pixel-11-pro-vs-pixel-9-pro",
+      "source": "Android Central",
+      "domain": "androidcentral.com",
+      "published_at": "2026-08-27T04:17:29Z",
+      "importance": 50,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     }
   ]
 }
