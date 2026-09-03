@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-09-03T16:43:24.153106+00:00",
+  "generated_at": "2026-09-03T19:29:04.234222+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 68,
@@ -644,6 +644,82 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "76cb125020650403",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "債券大幅拋售對你的錢包意味著什麼",
+      "summary": "債券殖利率影響消費者和企業的借貸成本，進而影響股票、房貸和企業。",
+      "original_title": "What the big bond sell-off means for your wallet",
+      "url": "https://www.businessinsider.com/what-bond-yields-mean-for-your-wallet-mortgage-rates-stocks-2026-9#article",
+      "source": "Business Insider",
+      "domain": "businessinsider.com",
+      "published_at": "2026-09-02T18:50:50Z",
+      "importance": 65,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "9ff514f36748e583",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "在 G20 高峰會上，大型科技公司和全球領導者無法迴避人工智慧的資料中心問題",
+      "summary": "全國對人工智慧和資料中心的反對聲日益高漲，就在峰會召開之際。",
+      "original_title": "At G20, Big Tech and Global Leaders Can’t Escape AI’s Data Center Problem",
+      "url": "https://www.cnet.com/tech/services-and-software/g20-tech-government-leaders-ai-data-centers-protests/",
+      "source": "CNET",
+      "domain": "cnet.com",
+      "published_at": "2026-09-02T18:42:19Z",
+      "importance": 65,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "efd829a606403fa0",
@@ -1394,44 +1470,6 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "38c43a161dd50bec",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "運行 8x RTX PRO 6000 的實用指南",
-      "summary": "最大限度地提高 8 個 RTX PRO 6000 之間的並行性：高並發推理、模型佇列和 70B 微調。",
-      "original_title": "A practical guide to running 8x RTX PRO 6000's",
-      "url": "https://www.gpupartner.com/blog/a-practical-guide-to-running-8x-rtx-pro-6000s",
-      "source": "Gpupartner.com",
-      "domain": "gpupartner.com",
-      "published_at": "2026-08-31T17:48:07Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "d3cd310c9fbac328",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1503,44 +1541,6 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "1a405175ff6d6800",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "美國新的製裁將對伊朗普通民眾造成沉重打擊。當經濟崩潰引發新的抗議活動時，這可能是重點",
-      "summary": "“數位資產和黃金是普通伊朗人保護儲蓄免受通貨膨脹影響的方式。”",
-      "original_title": "New U.S. sanctions will hit ordinary Iranians hard. That may be the whole point as the crashing economy stirs fresh protests",
-      "url": "https://www.yahoo.com/news/us/articles/u-sanctions-hit-ordinary-iranians-212605033.html",
-      "source": "Yahoo Entertainment",
-      "domain": "yahoo.com",
-      "published_at": "2026-08-29T21:26:05Z",
-      "importance": 55,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "ab503d9c9b7eaadc",
@@ -1654,44 +1654,6 @@
       "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "10c1fd8e0c241546",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Nvidia 暫停了 7 月推出的部分收入分享計劃",
-      "summary": "Nvidia has halted some of the transactions under the financing programme it introduced eight weeks ago, in which it extends credit to AI cloud companies buying its chips and takes a cut of what those chips later earn, the Wall Street Journal reported on Thurs…",
-      "original_title": "Nvidia has paused parts of the revenue-sharing programme it launched in July",
-      "url": "https://thenextweb.com/news/nvidia-pauses-ai-cloud-revenue-sharing-deals",
-      "source": "The Next Web",
-      "domain": "thenextweb.com",
-      "published_at": "2026-08-28T11:19:39Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "ef76f7cd336fe1ea",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1728,44 +1690,6 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "7d448f0faa8436e1",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "Panic Passes Trump Tariff Refunds Back to Playdate Customers",
-      "summary": "Panic is refunding Playdate customers the 19% tariff charges it passed along while the Trump administration's import duties were in effect, after the Supreme Court ruled the tariffs illegal and the company began receiving refunds from the government. Panic sa…",
-      "original_title": "Panic Passes Trump Tariff Refunds Back to Playdate Customers",
-      "url": "https://news.slashdot.org/story/26/08/27/1641246/panic-passes-trump-tariff-refunds-back-to-playdate-customers",
-      "source": "Slashdot.org",
-      "domain": "news.slashdot.org",
-      "published_at": "2026-08-27T18:00:00Z",
-      "importance": 55,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "e3033b20ae9c8ac8",
@@ -1842,6 +1766,44 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "38c43a161dd50bec",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "運行 8x RTX PRO 6000 的實用指南",
+      "summary": "最大限度地提高 8 個 RTX PRO 6000 之間的並行性：高並發推理、模型佇列和 70B 微調。",
+      "original_title": "A practical guide to running 8x RTX PRO 6000's",
+      "url": "https://www.gpupartner.com/blog/a-practical-guide-to-running-8x-rtx-pro-6000s",
+      "source": "Gpupartner.com",
+      "domain": "gpupartner.com",
+      "published_at": "2026-08-31T17:48:07Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "fd27c6fb76947b53",
@@ -2221,32 +2183,32 @@
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "b9d4799982263e5e",
+      "id": "7d448f0faa8436e1",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "SK Hynix breaks ground on a $4B memory packaging hub in Indiana",
-      "summary": "SK Hynix has broken ground on a plant costing more than $4B in West Lafayette, Indiana, its first US base for packaging high-bandwidth memory, with production due in the second half of 2029. Intel’s equivalent assembly and testing plant near Wroclaw was cance…",
-      "original_title": "SK Hynix breaks ground on a $4B memory packaging hub in Indiana",
-      "url": "https://thenextweb.com/news/sk-hynix-indiana-hbm-packaging-europe-lost-wroclaw-plant",
-      "source": "The Next Web",
-      "domain": "thenextweb.com",
-      "published_at": "2026-08-27T17:02:39Z",
+      "theme": "總體風險",
+      "title": "Panic Passes Trump Tariff Refunds Back to Playdate Customers",
+      "summary": "Panic is refunding Playdate customers the 19% tariff charges it passed along while the Trump administration's import duties were in effect, after the Supreme Court ruled the tariffs illegal and the company began receiving refunds from the government. Panic sa…",
+      "original_title": "Panic Passes Trump Tariff Refunds Back to Playdate Customers",
+      "url": "https://news.slashdot.org/story/26/08/27/1641246/panic-passes-trump-tariff-refunds-back-to-playdate-customers",
+      "source": "Slashdot.org",
+      "domain": "news.slashdot.org",
+      "published_at": "2026-08-27T18:00:00Z",
       "importance": 50,
-      "impact": "neutral",
+      "impact": "negative",
       "timeframe": "short_term",
       "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
       ],
       "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
       ],
       "related_models": [
         "003",
@@ -2256,7 +2218,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "d6112052f79d7708",
@@ -2482,6 +2444,44 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "b9d4799982263e5e",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "SK Hynix breaks ground on a $4B memory packaging hub in Indiana",
+      "summary": "SK Hynix has broken ground on a plant costing more than $4B in West Lafayette, Indiana, its first US base for packaging high-bandwidth memory, with production due in the second half of 2029. Intel’s equivalent assembly and testing plant near Wroclaw was cance…",
+      "original_title": "SK Hynix breaks ground on a $4B memory packaging hub in Indiana",
+      "url": "https://thenextweb.com/news/sk-hynix-indiana-hbm-packaging-europe-lost-wroclaw-plant",
+      "source": "The Next Web",
+      "domain": "thenextweb.com",
+      "published_at": "2026-08-27T17:02:39Z",
+      "importance": 45,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     },
     {
       "id": "0f21e9de775daf3e",

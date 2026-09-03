@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-03T16:43:24.153106+00:00
+> 更新時間：2026-09-03T19:29:04.234222+00:00
 
 ### ⚠️ 隨著 CoPoS 計劃的成形，台積電推遲了 CoWoS 訂單
 - **題材**: `半導體先進製程` | **重要性**: `88`
@@ -154,30 +154,30 @@
 
 ---
 
+### 🚀 債券大幅拋售對你的錢包意味著什麼
+- **題材**: `總體風險` | **重要性**: `65`
+- **來源**: Business Insider (2026-09-02T18:50:50Z)
+- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 債券殖利率影響消費者和企業的借貸成本，進而影響股票、房貸和企業。
+- [原文連結](https://www.businessinsider.com/what-bond-yields-mean-for-your-wallet-mortgage-rates-stocks-2026-9#article)
+
+---
+
+### 🚀 在 G20 高峰會上，大型科技公司和全球領導者無法迴避人工智慧的資料中心問題
+- **題材**: `AI伺服器` | **重要性**: `65`
+- **來源**: CNET (2026-09-02T18:42:19Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 全國對人工智慧和資料中心的反對聲日益高漲，就在峰會召開之際。
+- [原文連結](https://www.cnet.com/tech/services-and-software/g20-tech-government-leaders-ai-data-centers-protests/)
+
+---
+
 ### ⚖️ 三星向Nvidia供應NVHBM晶片比競爭對手有優勢
 - **題材**: `HBM記憶體` | **重要性**: `65`
 - **來源**: SamMobile (2026-08-28T08:11:19Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 今年，三星開始大量生產用於 NVIDIA 旗艦 Vera Rubin AI 平台的 HBM4 晶片。這筆交易將產生數十億美元的收入。現在，這家韓國公司在供應客製化 HBM 晶片方面似乎比競爭對手更具優勢…
 - [原文連結](https://www.sammobile.com/news/samsung-supply-nvhbm-chips-nvidia/)
-
----
-
-### ⚖️ Google、聯發科擁抱先進封裝多元化
-- **題材**: `半導體先進製程` | **重要性**: `63`
-- **來源**: Digitimes (2026-08-27T02:17:23Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Google and MediaTek are moving toward advanced packaging diversification, as Intel's embedded multi-die interconnect bridge (EMIB) gains traction after Google's TPU was confirmed to adopt the packaging technology. The shift is fueling expectations that more a…
-- [原文連結](https://www.digitimes.com/news/a20260827PD212/google-mediatek-packaging-intel-tpu.html)
-
----
-
-### ⚖️ Ligitek跳過800G，瞄準1.6T矽光子
-- **題材**: `光通訊與矽光子` | **重要性**: `63`
-- **來源**: Digitimes (2026-08-27T01:36:24Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Ligitek Electronics 是一家台灣 LED 封裝製造商，近年來已擴展到半導體系統級封裝 (SiP) 和矽光子領域。該公司表示，2026年上半年，人工智慧相關產品約佔其收入的45%。 Ligi…
-- [原文連結](https://www.digitimes.com/news/a20260826PD219/photonics-silicon-ligitek-led-packaging-revenue.html)
 
 ---
 
