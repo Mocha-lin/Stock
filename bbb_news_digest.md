@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-03T09:58:51.790201+00:00
+> 更新時間：2026-09-03T13:16:24.280357+00:00
 
 ### ⚠️ 隨著 CoPoS 計劃的成形，台積電推遲了 CoWoS 訂單
 - **題材**: `半導體先進製程` | **重要性**: `88`
@@ -19,12 +19,12 @@
 
 ---
 
-### 🚀 China specialty foundry XMC plans fourfold capacity growth around 3D integration, silicon photonics
-- **題材**: `光通訊與矽光子` | **重要性**: `83`
-- **來源**: Digitimes (2026-08-31T23:09:25Z)
+### 🚀 Credo Technology Group Q1 Earnings Call Highlights
+- **題材**: `光通訊與矽光子` | **重要性**: `75`
+- **來源**: MarketBeat (2026-09-01T23:02:26Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 武漢新芯半導體製造有限公司（XMC）制定了以3D整合、矽光子（SiPh）和特種製程為核心的10年擴張策略，目標是將產能提高四倍，同時打造更廣泛的半導體產業鏈。
-- [原文連結](https://www.digitimes.com/news/a20260831VL211/xmc-3d-silicon-photonics-growth.html)
+- **摘要**: Credo Technology Group (NASDAQ:CRDO) reported record fiscal first-quarter 2027 revenue of $479 million, up 10% sequentially and 115% from a year earlier, as...
+- [原文連結](https://www.marketbeat.com/instant-alerts/transcript-credo-technology-group-q1-earnings-call-highlights-2026-09-01/?utm_source=yahoofinance&amp;utm_medium=yahoofinance)
 
 ---
 
