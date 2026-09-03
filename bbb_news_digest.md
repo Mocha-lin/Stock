@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-03T05:22:06.627651+00:00
+> 更新時間：2026-09-03T09:58:51.790201+00:00
 
 ### ⚠️ 隨著 CoPoS 計劃的成形，台積電推遲了 CoWoS 訂單
 - **題材**: `半導體先進製程` | **重要性**: `88`
@@ -28,21 +28,21 @@
 
 ---
 
-### 🚀 台積電預計 SiPh 將在 2027 年成為主流
-- **題材**: `光通訊與矽光子` | **重要性**: `78`
-- **來源**: Digitimes (2026-08-31T08:28:42Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: K.C.表示，隨著AI橫向擴展推動光模組需求爆發式成長，矽光子（SiPh）將在2027年成為主流，市佔率將突破50%。台積電先進封裝技術開發副總裁 Hsu 在 Silicon Photo...
-- [原文連結](https://www.digitimes.com/news/a20260831PD217/siph-2027-photonics-tsmc-market-share.html)
+### ⚖️ Zhen Ding launches 1.6T optical modules, 34-layer AI server boards at Semicon Taiwan to meet next-gen AI infrastructure demand
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-09-02T07:50:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 2026台灣半導體展AI科技展區，振鼎科技重點展示兩大核心產品線：800G、1.6T、XPO、NPO高階光模組，以及高達34層的超高層AI伺服器闆卡。該鞋…
+- [原文連結](https://www.digitimes.com/news/a20260902PD240/zhen-ding-ai-server-infrastructure-pcb.html)
 
 ---
 
-### ⚖️ 硬體不是問題——台積電高層指出軟體、3D IC 中的基板間隙
+### ⚖️ 台積電入駐白埔工業園區 大力發展先進封裝
 - **題材**: `半導體先進製程` | **重要性**: `73`
-- **來源**: Digitimes (2026-09-02T03:51:38Z)
+- **來源**: Digitimes (2026-09-02T06:45:00Z)
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 9月1日，台積電先進封裝技術與服務副總裁何俊在SEMI 3DIC先進製造聯盟（3DICAMA）全球峰會上發表講話時指出，雖然先進封裝領域提供了巨大的商機…
-- [原文連結](https://www.digitimes.com/news/a20260902PD230/semi-tsmc-hardware-software-3d-ic.html)
+- **摘要**: TSMC will set up operations in Kaohsiung's Baipu Industrial Park, helping create Taiwan's first advanced packaging materials and equipment supply-chain cluster. Closely watched by the industry, the move is expected to improve efficiency by 25% to 50% as the c…
+- [原文連結](https://www.digitimes.com/news/a20260902PD233/tsmc-packaging-equipment-kaohsiung-materials.html)
 
 ---
 
@@ -82,21 +82,12 @@
 
 ---
 
-### ⚖️ ASE: CPO scale-out demands deeper supply-chain coordination for mass production
+### 🚀 台積電預計 SiPh 將在 2027 年成為主流
 - **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-08-31T08:06:39Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: SEMICON Taiwan 2026 kicked off its pre-show program with the Silicon Photonics Global Summit.
-- [原文連結](https://www.digitimes.com/news/a20260831PD223/2026-taiwan-cpo-ase-siph.html)
-
----
-
-### 🚀 隨著人工智慧和光學領域的擴張，德淵的特種化學品業務可能會重塑其成長組合
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-08-30T23:22:48Z)
+- **來源**: Digitimes (2026-08-31T08:28:42Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 德淵正在將其特殊化學品業務從液晶顯示器和電子產品擴展到人工智慧伺服器、車載電子產品、Mini LED 和光學鏡頭，同時也瞄準光通訊、矽光子 (SiPh) 和先進封裝。公司…
-- [原文連結](https://www.digitimes.com/news/a20260828PD222/tex-year-chemical-materials-optical-communications-siph-business-demand-growth.html)
+- **摘要**: K.C.表示，隨著AI橫向擴展推動光模組需求爆發式成長，矽光子（SiPh）將在2027年成為主流，市佔率將突破50%。台積電先進封裝技術開發副總裁 Hsu 在 Silicon Photo...
+- [原文連結](https://www.digitimes.com/news/a20260831PD217/siph-2027-photonics-tsmc-market-share.html)
 
 ---
 
@@ -124,6 +115,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Marvell 資深副總裁兼技術長 Radha Nagarajan 在 2026 年台灣 SEMICON 的媒體簡報會上，為共封裝光學元件 (CPO) 的商業化提供了更清晰的時間表。
 - [原文連結](https://www.digitimes.com/news/a20260902PD227/marvell-tsmc-silicon-taiwan-photonics.html)
+
+---
+
+### ⚖️ ASE: CPO scale-out demands deeper supply-chain coordination for mass production
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-08-31T08:06:39Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: SEMICON Taiwan 2026 kicked off its pre-show program with the Silicon Photonics Global Summit.
+- [原文連結](https://www.digitimes.com/news/a20260831PD223/2026-taiwan-cpo-ase-siph.html)
 
 ---
 
