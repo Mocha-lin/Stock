@@ -1,10 +1,10 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-04T00:49:32.982247+00:00
+> 更新時間：2026-09-04T05:15:09.923888+00:00
 
 ### ⚠️ 隨著 CoPoS 計劃的成形，台積電推遲了 CoWoS 訂單
-- **題材**: `半導體先進製程` | **重要性**: `88`
+- **題材**: `半導體先進製程` | **重要性**: `83`
 - **來源**: Digitimes (2026-09-01T03:38:56Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏空消息。【重大事件】可能顯著影響產業評價、EPS預期或資金流向。
+- **AI 判讀**: 屬「半導體先進製程」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: TSMC's reported delay in placing 2027 advanced packaging equipment orders has sparked market speculation that the company sees excess CoWoS capacity ahead. But equipment suppliers say CoWoS demand has not weakened, and TSMC's real challenge is instead how to …
 - [原文連結](https://www.digitimes.com/news/a20260901PD219/tsmc-cowos-equipment-packaging-capacity.html)
 
@@ -16,6 +16,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: AI驅動的光模組需求快速上升，LuxNet表示2026年下半年業務將較上半年大幅成長。隨著 2027 年產能上線，資料中心互連 (DCI) 產品的收入將持續成長…
 - [原文連結](https://www.digitimes.com/news/a20260831PD224/2027-revenue-2028-demand-2026.html)
+
+---
+
+### ⚖️ China optical module makers ride AI boom as 800G, 1.6T orders stretch into 2027
+- **題材**: `光通訊與矽光子` | **重要性**: `78`
+- **來源**: Digitimes (2026-09-03T01:35:03Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: AI infrastructure expansion is accelerating demand for 800G and 1.6T optical modules, lifting first-half 2026 results across major Chinese suppliers and extending order visibility into 2027.
+- [原文連結](https://www.digitimes.com/news/a20260903PD216/china-optical-components-expansion-infrastructure-profit-2027.html)
 
 ---
 
@@ -52,6 +61,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Credo Technology Group (NASDAQ:CRDO) reported record fiscal first-quarter 2027 revenue of $479 million, up 10% sequentially and 115% from a year earlier, as...
 - [原文連結](https://www.marketbeat.com/instant-alerts/transcript-credo-technology-group-q1-earnings-call-highlights-2026-09-01/?utm_source=yahoofinance&amp;utm_medium=yahoofinance)
+
+---
+
+### ⚖️ Taiwan LED packaging provider Ligitek pivots to silicon photonics; 1.6T modules eye 2H27 revenue
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-09-03T03:43:46Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Ligitek is accelerating its move from LED packaging into silicon photonics (SiPh) and high-speed optical communications, with 1.6T product samples already tested and volume-production equipment due from late 2026 through the first quarter of 2027. Chairman I-…
+- [原文連結](https://www.digitimes.com/news/a20260903PD225/ligitek-led-packaging-siph-revenue-taiwan.html)
 
 ---
 
@@ -127,33 +145,6 @@
 
 ---
 
-### 🚀 Tex Year's specialty chemicals push could reshape its growth mix as AI and optics expand
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-08-30T23:22:48Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Tex Year is widening its specialty chemicals business beyond LCDs and electronics into AI servers, in-vehicle electronics, Mini LED, and optical lenses, while also targeting optical communications, silicon photonics (SiPh), and advanced packaging. The company…
-- [原文連結](https://www.digitimes.com/news/a20260828PD222/tex-year-chemical-materials-optical-communications-siph-business-demand-growth.html)
-
----
-
-### ⚖️ SK 海力士耗資 40 億美元的印第安納工廠破土動工，該工廠將包裝而非製造 HBM
-- **題材**: `HBM記憶體` | **重要性**: `73`
-- **來源**: Digitimes (2026-08-28T01:00:07Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 8 月 27 日，SK 海力士在普渡研究園投資 40 億美元的先進封裝工廠破土動工，這是其在美國的第一個高頻寬記憶體 (HBM) 基地。
-- [原文連結](https://www.digitimes.com/news/a20260828VL202/sk-hynix-hbm-packaging-plant-usa-production.html)
-
----
-
-### 🚀 Credo Technology Group Holding Ltd Q1 2027 Earnings Call Summary
-- **題材**: `光通訊與矽光子` | **重要性**: `70`
-- **來源**: Moby.co (2026-09-02T12:30:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Moby summary of Credo Technology Group Holding Ltd's Q1 2027 earnings call
-- [原文連結](https://app.moby.co/home/research/tools/earningsCalendar/earnings-credo-technology-group-holding-ltd-q1-2027-earnings-call-summary?utm_source=yahoo_finance&amp;utm_medium=rss)
-
----
-
 ### ⚖️ 台灣關注關鍵角色，原棕油原料競賽擴大
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
 - **來源**: Digitimes (2026-09-02T23:34:47Z)
@@ -178,6 +169,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Marvell 資深副總裁兼技術長 Radha Nagarajan 在 2026 年台灣 SEMICON 的媒體簡報會上，為共封裝光學元件 (CPO) 的商業化提供了更清晰的時間表。
 - [原文連結](https://www.digitimes.com/news/a20260902PD227/marvell-tsmc-silicon-taiwan-photonics.html)
+
+---
+
+### ⚖️ ASE: CPO scale-out demands deeper supply-chain coordination for mass production
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-08-31T08:06:39Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: SEMICON Taiwan 2026 kicked off its pre-show program with the Silicon Photonics Global Summit.
+- [原文連結](https://www.digitimes.com/news/a20260831PD223/2026-taiwan-cpo-ase-siph.html)
 
 ---
 
