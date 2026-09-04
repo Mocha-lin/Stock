@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-04T13:10:52.164359+00:00
+> 更新時間：2026-09-04T16:38:15.058476+00:00
 
 ### ⚠️ 隨著 CoPoS 計劃的成形，台積電推遲了 CoWoS 訂單
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -25,24 +25,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: AI infrastructure expansion is accelerating demand for 800G and 1.6T optical modules, lifting first-half 2026 results across major Chinese suppliers and extending order visibility into 2027.
 - [原文連結](https://www.digitimes.com/news/a20260903PD216/china-optical-components-expansion-infrastructure-profit-2027.html)
-
----
-
-### 🚀 China specialty foundry XMC plans fourfold capacity growth around 3D integration, silicon photonics
-- **題材**: `光通訊與矽光子` | **重要性**: `78`
-- **來源**: Digitimes (2026-08-31T23:09:25Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 武漢新芯半導體製造有限公司（XMC）制定了以3D整合、矽光子（SiPh）和特種製程為核心的10年擴張策略，目標是將產能提高四倍，同時打造更廣泛的半導體產業鏈。
-- [原文連結](https://www.digitimes.com/news/a20260831VL211/xmc-3d-silicon-photonics-growth.html)
-
----
-
-### 🚀 每週新聞綜述：美國施壓韓國晶片投資，聯發科拿下GoogleTPU，蘋果首度2nm M6
-- **題材**: `半導體先進製程` | **重要性**: `78`
-- **來源**: Digitimes (2026-08-31T01:27:24Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 半導體投資、人工智慧晶片、先進封裝和資料中心基礎設施主導了本週，韓國面臨美國壓力，印度擴大晶片製造規模，蘋果、高通、聯發科和台灣供應商推進新的人工智慧和2奈米戰略…
-- [原文連結](https://www.digitimes.com/news/a20260831VL200/2nm-apple-capacity-expansion-mediatek-semiconductor-industry.html)
 
 ---
 
@@ -136,6 +118,15 @@
 
 ---
 
+### 🚀 Credo Technology Group Holding Ltd 2027 年第一季財報電話會議摘要
+- **題材**: `光通訊與矽光子` | **重要性**: `70`
+- **來源**: Moby.co (2026-09-02T12:30:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Credo Technology Group Holding Ltd 2027 年第一季財報電話會議的 Moby 摘要
+- [原文連結](https://app.moby.co/home/research/tools/earningsCalendar/earnings-credo-technology-group-holding-ltd-q1-2027-earnings-call-summary?utm_source=yahoo_finance&amp;utm_medium=rss)
+
+---
+
 ### ⚖️ 台灣關注關鍵角色，原棕油原料競賽擴大
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
 - **來源**: Digitimes (2026-09-02T23:34:47Z)
@@ -178,6 +169,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: SEMICON Taiwan 2026 kicked off its pre-show program with the Silicon Photonics Global Summit.
 - [原文連結](https://www.digitimes.com/news/a20260831PD223/2026-taiwan-cpo-ase-siph.html)
+
+---
+
+### ⚖️ 播客亮點：小米的 3nm 晶片上限、馬來西亞的 HBM 以及英偉達的利潤權衡
+- **題材**: `半導體先進製程` | **重要性**: `68`
+- **來源**: Digitimes (2026-08-30T23:25:00Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 小米自研晶片能達到2nm嗎？ HBM 重路由馬來西亞台積電是否給英特爾通行證？ Nvidia 能否維持 75% 的毛利率或保護市場佔有率？在 Apple 9 月 10 日的活動之前，活動前的技術平靜期一點也不平靜，DIGITIMES ......
+- [原文連結](https://www.digitimes.com/news/a20260828PD237/xiaomi-hbm-malaysia-nvidia-tsmc-chips.html)
 
 ---
 
