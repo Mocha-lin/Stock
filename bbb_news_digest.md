@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-03T19:29:04.234222+00:00
+> 更新時間：2026-09-04T00:49:32.982247+00:00
 
 ### ⚠️ 隨著 CoPoS 計劃的成形，台積電推遲了 CoWoS 訂單
 - **題材**: `半導體先進製程` | **重要性**: `88`
@@ -11,11 +11,29 @@
 ---
 
 ### ⚖️ Luxnet eyes orders through 2028, DCI revenue set to double in 2027
-- **題材**: `光通訊與矽光子` | **重要性**: `88`
+- **題材**: `光通訊與矽光子` | **重要性**: `83`
 - **來源**: Digitimes (2026-08-31T23:11:22Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重大事件】可能顯著影響產業評價、EPS預期或資金流向。
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: AI驅動的光模組需求快速上升，LuxNet表示2026年下半年業務將較上半年大幅成長。隨著 2027 年產能上線，資料中心互連 (DCI) 產品的收入將持續成長…
 - [原文連結](https://www.digitimes.com/news/a20260831PD224/2027-revenue-2028-demand-2026.html)
+
+---
+
+### 🚀 中國特種晶圓代工廠武漢新芯計畫圍繞 3D 整合、矽光子學將產能成長四倍
+- **題材**: `光通訊與矽光子` | **重要性**: `78`
+- **來源**: Digitimes (2026-08-31T23:09:25Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 武漢新芯半導體製造有限公司（XMC）制定了以3D整合、矽光子（SiPh）和特種製程為核心的10年擴張策略，目標是將產能提高四倍，同時打造更廣泛的半導體產業鏈。
+- [原文連結](https://www.digitimes.com/news/a20260831VL211/xmc-3d-silicon-photonics-growth.html)
+
+---
+
+### 🚀 每週新聞綜述：美國施壓韓國晶片投資，聯發科拿下GoogleTPU，蘋果首度2nm M6
+- **題材**: `半導體先進製程` | **重要性**: `78`
+- **來源**: Digitimes (2026-08-31T01:27:24Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 半導體投資、人工智慧晶片、先進封裝和資料中心基礎設施主導了本週，韓國面臨美國壓力，印度擴大晶片製造規模，蘋果、高通、聯發科和台灣供應商推進新的人工智慧和2奈米戰略…
+- [原文連結](https://www.digitimes.com/news/a20260831VL200/2nm-apple-capacity-expansion-mediatek-semiconductor-industry.html)
 
 ---
 
@@ -52,6 +70,15 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: TSMC will set up operations in Kaohsiung's Baipu Industrial Park, helping create Taiwan's first advanced packaging materials and equipment supply-chain cluster. Closely watched by the industry, the move is expected to improve efficiency by 25% to 50% as the c…
 - [原文連結](https://www.digitimes.com/news/a20260902PD233/tsmc-packaging-equipment-kaohsiung-materials.html)
+
+---
+
+### ⚖️ 硬體不是問題——台積電高層指出軟體、3D IC 中的基板間隙
+- **題材**: `半導體先進製程` | **重要性**: `73`
+- **來源**: Digitimes (2026-09-02T03:51:38Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 9月1日，台積電先進封裝技術與服務副總裁何俊在SEMI 3DIC先進製造聯盟（3DICAMA）全球峰會上發表講話時指出，雖然先進封裝領域提供了巨大的商機…
+- [原文連結](https://www.digitimes.com/news/a20260902PD230/semi-tsmc-hardware-software-3d-ic.html)
 
 ---
 
@@ -92,11 +119,20 @@
 ---
 
 ### 🚀 台積電預計 SiPh 將在 2027 年成為主流
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **題材**: `半導體先進製程` | **重要性**: `73`
 - **來源**: Digitimes (2026-08-31T08:28:42Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: K.C.表示，隨著AI橫向擴展推動光模組需求爆發式成長，矽光子（SiPh）將在2027年成為主流，市佔率將突破50%。台積電先進封裝技術開發副總裁 Hsu 在 Silicon Photo...
 - [原文連結](https://www.digitimes.com/news/a20260831PD217/siph-2027-photonics-tsmc-market-share.html)
+
+---
+
+### 🚀 Tex Year's specialty chemicals push could reshape its growth mix as AI and optics expand
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-08-30T23:22:48Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Tex Year is widening its specialty chemicals business beyond LCDs and electronics into AI servers, in-vehicle electronics, Mini LED, and optical lenses, while also targeting optical communications, silicon photonics (SiPh), and advanced packaging. The company…
+- [原文連結](https://www.digitimes.com/news/a20260828PD222/tex-year-chemical-materials-optical-communications-siph-business-demand-growth.html)
 
 ---
 
@@ -109,75 +145,39 @@
 
 ---
 
+### 🚀 Credo Technology Group Holding Ltd Q1 2027 Earnings Call Summary
+- **題材**: `光通訊與矽光子` | **重要性**: `70`
+- **來源**: Moby.co (2026-09-02T12:30:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Moby summary of Credo Technology Group Holding Ltd's Q1 2027 earnings call
+- [原文連結](https://app.moby.co/home/research/tools/earningsCalendar/earnings-credo-technology-group-holding-ltd-q1-2027-earnings-call-summary?utm_source=yahoo_finance&amp;utm_medium=rss)
+
+---
+
+### ⚖️ 台灣關注關鍵角色，原棕油原料競賽擴大
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-09-02T23:34:47Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 在 2026 年半導體網路高峰會上，來自 Marvell、荷蘭應用科學研究組織霍爾斯特中心、英國半導體中心和台灣半導體工業協會 (TSIA) 的演講者討論了矽光電的未來…
+- [原文連結](https://www.digitimes.com/news/a20260902PD244/2026-taiwan-semicon-marvell-cpo.html)
+
+---
+
+### ⚖️ DRAM giants target 3D stacking to break memory wall and power bottlenecks
+- **題材**: `HBM記憶體` | **重要性**: `68`
+- **來源**: Digitimes (2026-09-02T08:45:00Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: At a shared stage at Semicon Taiwan 2026, executives from Samsung Electronics, SK Hynix, and Micron agreed that traditional 2.5D high-bandwidth memory (HBM) using interposers is approaching a performance ceiling. Consequently, the industry is transitioning to…
+- [原文連結](https://www.digitimes.com/news/a20260902PD241/dram-bandwidth-3d-data-demand-semicon-taiwan.html)
+
+---
+
 ### ⚖️ Marvell 預計矽光子學將從 2027 年底開始擴展，以台灣和台積電為中心
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
 - **來源**: Digitimes (2026-09-02T03:58:48Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Marvell 資深副總裁兼技術長 Radha Nagarajan 在 2026 年台灣 SEMICON 的媒體簡報會上，為共封裝光學元件 (CPO) 的商業化提供了更清晰的時間表。
 - [原文連結](https://www.digitimes.com/news/a20260902PD227/marvell-tsmc-silicon-taiwan-photonics.html)
-
----
-
-### ⚖️ ASE: CPO scale-out demands deeper supply-chain coordination for mass production
-- **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-08-31T08:06:39Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: SEMICON Taiwan 2026 kicked off its pre-show program with the Silicon Photonics Global Summit.
-- [原文連結](https://www.digitimes.com/news/a20260831PD223/2026-taiwan-cpo-ase-siph.html)
-
----
-
-### ⚠️ The current state of Hybrid Bonding in 2026 — TSMC sits at 6 microns and the HBM delay that nobody expected
-- **題材**: `半導體先進製程` | **重要性**: `67`
-- **來源**: Tom's Hardware UK (2026-09-02T15:05:41Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Hybrid bonding, the copper-to-copper joining technique that replaces solder microbumps in 3D chip stacks, is in high-volume production on logic and freshly postponed on memory.
-- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/hybrid-bonding-roadmap-examined)
-
----
-
-### 🚀 Micron workers increasingly support strike over bonus pay — labor union wants profit-sharing scheme, as employees at Samsung, SK hynix enjoy bonuses worth hundreds of thousands of dollars
-- **題材**: `HBM記憶體` | **重要性**: `67`
-- **來源**: Tom's Hardware UK (2026-08-28T13:07:55Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 80% of Micron workers in Taiwan have signaled that they're willing to go on strike if the company does not strike a deal over bonuses. The employees want to replace the current bonus system with a profit-sharing scheme, allowing them to take advantage of the …
-- [原文連結](https://www.tomshardware.com/tech-industry/micron-workers-increasingly-support-strike-over-bonus-pay-labor-union-wants-profit-sharing-scheme-as-employees-at-samsung-sk-hynix-enjoy-bonuses-worth-hundreds-of-thousands-of-dollars)
-
----
-
-### ⚖️ Glass substrate roadmaps examined — Absolics in final qualification and a first product that keeps slipping
-- **題材**: `半導體先進製程` | **重要性**: `67`
-- **來源**: Tom's Hardware UK (2026-08-27T15:40:11Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Glass-core substrates, the replacement for organic chip packaging that Intel promised in September 2023, are now in final qualification but still not in a single commercial product
-- [原文連結](https://www.tomshardware.com/tech-industry/manufacturing/glass-substrate-roadmap-examined)
-
----
-
-### 🚀 債券大幅拋售對你的錢包意味著什麼
-- **題材**: `總體風險` | **重要性**: `65`
-- **來源**: Business Insider (2026-09-02T18:50:50Z)
-- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 債券殖利率影響消費者和企業的借貸成本，進而影響股票、房貸和企業。
-- [原文連結](https://www.businessinsider.com/what-bond-yields-mean-for-your-wallet-mortgage-rates-stocks-2026-9#article)
-
----
-
-### 🚀 在 G20 高峰會上，大型科技公司和全球領導者無法迴避人工智慧的資料中心問題
-- **題材**: `AI伺服器` | **重要性**: `65`
-- **來源**: CNET (2026-09-02T18:42:19Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 全國對人工智慧和資料中心的反對聲日益高漲，就在峰會召開之際。
-- [原文連結](https://www.cnet.com/tech/services-and-software/g20-tech-government-leaders-ai-data-centers-protests/)
-
----
-
-### ⚖️ 三星向Nvidia供應NVHBM晶片比競爭對手有優勢
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: SamMobile (2026-08-28T08:11:19Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 今年，三星開始大量生產用於 NVIDIA 旗艦 Vera Rubin AI 平台的 HBM4 晶片。這筆交易將產生數十億美元的收入。現在，這家韓國公司在供應客製化 HBM 晶片方面似乎比競爭對手更具優勢…
-- [原文連結](https://www.sammobile.com/news/samsung-supply-nvhbm-chips-nvidia/)
 
 ---
 
