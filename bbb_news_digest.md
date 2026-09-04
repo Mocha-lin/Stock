@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-04T09:47:31.481284+00:00
+> 更新時間：2026-09-04T13:10:52.164359+00:00
 
 ### ⚠️ 隨著 CoPoS 計劃的成形，台積電推遲了 CoWoS 訂單
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -25,6 +25,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: AI infrastructure expansion is accelerating demand for 800G and 1.6T optical modules, lifting first-half 2026 results across major Chinese suppliers and extending order visibility into 2027.
 - [原文連結](https://www.digitimes.com/news/a20260903PD216/china-optical-components-expansion-infrastructure-profit-2027.html)
+
+---
+
+### 🚀 China specialty foundry XMC plans fourfold capacity growth around 3D integration, silicon photonics
+- **題材**: `光通訊與矽光子` | **重要性**: `78`
+- **來源**: Digitimes (2026-08-31T23:09:25Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 武漢新芯半導體製造有限公司（XMC）制定了以3D整合、矽光子（SiPh）和特種製程為核心的10年擴張策略，目標是將產能提高四倍，同時打造更廣泛的半導體產業鏈。
+- [原文連結](https://www.digitimes.com/news/a20260831VL211/xmc-3d-silicon-photonics-growth.html)
 
 ---
 
@@ -124,15 +133,6 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: K.C.表示，隨著AI橫向擴展推動光模組需求爆發式成長，矽光子（SiPh）將在2027年成為主流，市佔率將突破50%。台積電先進封裝技術開發副總裁 Hsu 在 Silicon Photo...
 - [原文連結](https://www.digitimes.com/news/a20260831PD217/siph-2027-photonics-tsmc-market-share.html)
-
----
-
-### 🚀 Credo Technology Group Holding Ltd 2027 年第一季財報電話會議摘要
-- **題材**: `光通訊與矽光子` | **重要性**: `70`
-- **來源**: Moby.co (2026-09-02T12:30:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Moby summary of Credo Technology Group Holding Ltd's Q1 2027 earnings call
-- [原文連結](https://app.moby.co/home/research/tools/earningsCalendar/earnings-credo-technology-group-holding-ltd-q1-2027-earnings-call-summary?utm_source=yahoo_finance&amp;utm_medium=rss)
 
 ---
 
