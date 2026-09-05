@@ -1,10 +1,48 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-09-05T00:38:04.784028+00:00",
+  "generated_at": "2026-09-05T05:04:43.484347+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 67,
   "items": [
+    {
+      "id": "f696472786c36987",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "Silicon photonics testing shift could reshape how CPO suppliers win business",
+      "summary": "As silicon photonics (SiPh) and co-packaged optics (CPO) move toward mass production, suppliers say testing is shifting earlier in the process to catch defects at the wafer stage, protect yields, and preserve data through final assembly. That change is also p…",
+      "original_title": "Silicon photonics testing shift could reshape how CPO suppliers win business",
+      "url": "https://www.digitimes.com/news/a20260904PD209/cpo-siph-wafer-testing.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-09-04T02:12:47Z",
+      "importance": 83,
+      "impact": "positive",
+      "timeframe": "short_to_mid_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
     {
       "id": "e43a4deeaf123151",
       "dataset": "market_news",
@@ -80,44 +118,6 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
-      "id": "a31b72ffafd70bb7",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "Electroninks, Merck, Qualipoly build advanced packaging ecosystem",
-      "summary": "Electroninks, a global provider of metal-composite conductive inks and advanced semiconductor packaging materials, has formed a strategic partnership with Merck and Taiwan-based Qualipoly Chemical to offer advanced packaging customers a more complete, faster,…",
-      "original_title": "Electroninks, Merck, Qualipoly build advanced packaging ecosystem",
-      "url": "https://www.digitimes.com/news/a20260903PD200/packaging-merck-materials-development-partnership.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-09-03T23:53:13Z",
-      "importance": 78,
-      "impact": "positive",
-      "timeframe": "short_to_mid_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "aff16e84708d9992",
@@ -234,6 +234,41 @@
       "reason": "屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
+      "id": "2d5633083dcf2ebb",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "Micron reportedly targets 2× HBM capacity by end-2026; Samsung, SK Hynix keep the scale edge",
+      "summary": "Micron is reportedly preparing to roughly double its high-bandwidth memory capacity by the end of 2026, targeting about 100,000 wafers a month while sharply increasing 12-high HBM4 output for Nvidia's Vera Rubin AI platform.",
+      "original_title": "Micron reportedly targets 2× HBM capacity by end-2026; Samsung, SK Hynix keep the scale edge",
+      "url": "https://www.digitimes.com/news/a20260904VL206/micron-hbm-capacity-sk-hynix-samsung.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-09-04T03:58:39Z",
+      "importance": 73,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
       "id": "f7d70430f3775fdc",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -348,82 +383,6 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
-      "id": "67734f7cd58dc566",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "硬體不是問題——台積電高層指出軟體、3D IC 中的基板間隙",
-      "summary": "9月1日，台積電先進封裝技術與服務副總裁何俊在SEMI 3DIC先進製造聯盟（3DICAMA）全球峰會上發表講話時指出，雖然先進封裝領域提供了巨大的商機…",
-      "original_title": "Hardware isn't the problem — TSMC exec flags software, substrate gaps in 3D IC",
-      "url": "https://www.digitimes.com/news/a20260902PD230/semi-tsmc-hardware-software-3d-ic.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-09-02T03:51:38Z",
-      "importance": 73,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
-      "id": "22620d793605dc70",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "Gemtek 深化與印度 Dixon Technologies 的合作夥伴關係，以擴大光收發器和連接足跡",
-      "summary": "Gemtek Technology宣布，將透過在印度的合資企業深化與印度Dixon Technologies的策略合作，擴大其光收發器、雙向光組件（B…",
-      "original_title": "Gemtek deepens partnership with India's Dixon Technologies to expand optical transceiver, connectivity footprint",
-      "url": "https://www.digitimes.com/news/a20260901PD247/gemtek-dixon-manufacturing-market-joint-venture.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-09-02T01:30:00Z",
-      "importance": 73,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
       "id": "13d49b9752038ca2",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -460,44 +419,6 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
-      "id": "5467d6e11febc280",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "Credo Technology Group Holding Ltd 2027 年第一季財報電話會議摘要",
-      "summary": "Credo Technology Group Holding Ltd 2027 年第一季財報電話會議的 Moby 摘要",
-      "original_title": "Credo Technology Group Holding Ltd Q1 2027 Earnings Call Summary",
-      "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-credo-technology-group-holding-ltd-q1-2027-earnings-call-summary?utm_source=yahoo_finance&amp;utm_medium=rss",
-      "source": "Moby.co",
-      "domain": "app.moby.co",
-      "published_at": "2026-09-02T12:30:00Z",
-      "importance": 70,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "b4b74558e370a7cf",
@@ -611,19 +532,57 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "906259a49d33d607",
+      "id": "67734f7cd58dc566",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "硬體不是問題——台積電高層指出軟體、3D IC 中的基板間隙",
+      "summary": "9月1日，台積電先進封裝技術與服務副總裁何俊在SEMI 3DIC先進製造聯盟（3DICAMA）全球峰會上發表講話時指出，雖然先進封裝領域提供了巨大的商機…",
+      "original_title": "Hardware isn't the problem — TSMC exec flags software, substrate gaps in 3D IC",
+      "url": "https://www.digitimes.com/news/a20260902PD230/semi-tsmc-hardware-software-3d-ic.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-09-02T03:51:38Z",
+      "importance": 68,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "22620d793605dc70",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "光通訊與矽光子",
-      "title": "Marvell 預計矽光子學將從 2027 年底開始擴展，以台灣和台積電為中心",
-      "summary": "Marvell 資深副總裁兼技術長 Radha Nagarajan 在 2026 年台灣 SEMICON 的媒體簡報會上，為共封裝光學元件 (CPO) 的商業化提供了更清晰的時間表。",
-      "original_title": "Marvell sees silicon photonics scaling from late 2027, with Taiwan and TSMC at the center",
-      "url": "https://www.digitimes.com/news/a20260902PD227/marvell-tsmc-silicon-taiwan-photonics.html",
+      "title": "Gemtek 深化與印度 Dixon Technologies 的合作夥伴關係，以擴大光收發器和連接足跡",
+      "summary": "Gemtek Technology宣布，將透過在印度的合資企業深化與印度Dixon Technologies的策略合作，擴大其光收發器、雙向光組件（B…",
+      "original_title": "Gemtek deepens partnership with India's Dixon Technologies to expand optical transceiver, connectivity footprint",
+      "url": "https://www.digitimes.com/news/a20260901PD247/gemtek-dixon-manufacturing-market-joint-venture.html",
       "source": "Digitimes",
       "domain": "digitimes.com",
-      "published_at": "2026-09-02T03:58:48Z",
+      "published_at": "2026-09-02T01:30:00Z",
       "importance": 68,
-      "impact": "neutral",
+      "impact": "positive",
       "timeframe": "short_term",
       "tags": [
         "光通訊",
@@ -646,7 +605,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "554a8ed9783c5dc8",
@@ -1061,19 +1020,57 @@
       "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "6b4bf4d365c106ed",
+      "id": "906259a49d33d607",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "Marvell 預計矽光子學將從 2027 年底開始擴展，以台灣和台積電為中心",
+      "summary": "Marvell 資深副總裁兼技術長 Radha Nagarajan 在 2026 年台灣 SEMICON 的媒體簡報會上，為共封裝光學元件 (CPO) 的商業化提供了更清晰的時間表。",
+      "original_title": "Marvell sees silicon photonics scaling from late 2027, with Taiwan and TSMC at the center",
+      "url": "https://www.digitimes.com/news/a20260902PD227/marvell-tsmc-silicon-taiwan-photonics.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-09-02T03:58:48Z",
+      "importance": 63,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "7b022873da15fa32",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "HBM記憶體",
-      "title": "Billionaire Philippe Laffont Increased Micron 19-Fold and Added 49% to Amazon. Is This One Giant AI Demand Bet?",
-      "summary": "Billionaire Philippe Laffont made two of Coatue Management’s most revealing second-quarter moves at opposite ends of the AI supply chain. The fund increased...",
-      "original_title": "Billionaire Philippe Laffont Increased Micron 19-Fold and Added 49% to Amazon. Is This One Giant AI Demand Bet?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-philippe-laffont-increased-micron-105607340.html",
+      "title": "South Korea says chip investments under discussion with US amid tariff concerns",
+      "summary": "By Heejin Kim and Hyunjoo Jin SEOUL, Sept 4 (Reuters) - South Korea and the United States are discussing semiconductor investments in the U.S. as part of bro...",
+      "original_title": "South Korea says chip investments under discussion with US amid tariff concerns",
+      "url": "https://finance.yahoo.com/technology/articles/south-korea-says-chip-investments-042343673.html",
       "source": "Yahoo Entertainment",
       "domain": "finance.yahoo.com",
-      "published_at": "2026-09-02T10:56:07Z",
-      "importance": 65,
-      "impact": "neutral",
+      "published_at": "2026-09-04T04:23:43Z",
+      "importance": 60,
+      "impact": "negative",
       "timeframe": "short_term",
       "tags": [
         "HBM",
@@ -1093,7 +1090,45 @@
         "009",
         "010"
       ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "3a55d894f3704163",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "iPhone 18 Pro 之前的六人睡眠：這是我們所知道的",
+      "summary": "距離蘋果發表新一代 iPhone 18 Pro 和 iPhone 18 Pro Max 機型僅剩六晚時間，當然還有首款可折疊 iPhone。\n\n\n\n\n\n蘋果預計將在今年的年度 iPhone 秋季活動中推出這些設備…",
+      "original_title": "Six Sleeps Until iPhone 18 Pro: Here's What We Know",
+      "url": "https://www.macrumors.com/2026/09/03/iphone-18-pro-heres-what-we-know/",
+      "source": "MacRumors",
+      "domain": "macrumors.com",
+      "published_at": "2026-09-04T02:25:46Z",
+      "importance": 60,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "c3b3c817db7e8db6",
@@ -2035,41 +2070,6 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "fee5117f6e2f16f0",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "Jim Cramer has strong message for Micron stock investors",
-      "summary": "Jim Cramer just went on record about Micron after visiting the company’s facilities.",
-      "original_title": "Jim Cramer has strong message for Micron stock investors",
-      "url": "https://www.thestreet.com/investing/stocks/jim-cramer-message-for-micron-stock-investors-samsung-chipmakers",
-      "source": "TheStreet",
-      "domain": "thestreet.com",
-      "published_at": "2026-08-31T18:33:00Z",
-      "importance": 55,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "d3cd310c9fbac328",

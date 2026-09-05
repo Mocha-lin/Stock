@@ -1,5 +1,14 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-05T00:38:04.784028+00:00
+> 更新時間：2026-09-05T05:04:43.484347+00:00
+
+### 🚀 Silicon photonics testing shift could reshape how CPO suppliers win business
+- **題材**: `光通訊與矽光子` | **重要性**: `83`
+- **來源**: Digitimes (2026-09-04T02:12:47Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: As silicon photonics (SiPh) and co-packaged optics (CPO) move toward mass production, suppliers say testing is shifting earlier in the process to catch defects at the wafer stage, protect yields, and preserve data through final assembly. That change is also p…
+- [原文連結](https://www.digitimes.com/news/a20260904PD209/cpo-siph-wafer-testing.html)
+
+---
 
 ### ⚠️ 隨著 CoPoS 計劃的成形，台積電推遲了 CoWoS 訂單
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -16,15 +25,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: AI驅動的光模組需求快速上升，LuxNet表示2026年下半年業務將較上半年大幅成長。隨著 2027 年產能上線，資料中心互連 (DCI) 產品的收入將持續成長…
 - [原文連結](https://www.digitimes.com/news/a20260831PD224/2027-revenue-2028-demand-2026.html)
-
----
-
-### 🚀 Electroninks, Merck, Qualipoly build advanced packaging ecosystem
-- **題材**: `半導體先進製程` | **重要性**: `78`
-- **來源**: Digitimes (2026-09-03T23:53:13Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Electroninks, a global provider of metal-composite conductive inks and advanced semiconductor packaging materials, has formed a strategic partnership with Merck and Taiwan-based Qualipoly Chemical to offer advanced packaging customers a more complete, faster,…
-- [原文連結](https://www.digitimes.com/news/a20260903PD200/packaging-merck-materials-development-partnership.html)
 
 ---
 
@@ -55,6 +55,15 @@
 
 ---
 
+### ⚖️ Micron reportedly targets 2× HBM capacity by end-2026; Samsung, SK Hynix keep the scale edge
+- **題材**: `HBM記憶體` | **重要性**: `73`
+- **來源**: Digitimes (2026-09-04T03:58:39Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Micron is reportedly preparing to roughly double its high-bandwidth memory capacity by the end of 2026, targeting about 100,000 wafers a month while sharply increasing 12-high HBM4 output for Nvidia's Vera Rubin AI platform.
+- [原文連結](https://www.digitimes.com/news/a20260904VL206/micron-hbm-capacity-sk-hynix-samsung.html)
+
+---
+
 ### ⚖️ Taiwan LED packaging provider Ligitek pivots to silicon photonics; 1.6T modules eye 2H27 revenue
 - **題材**: `光通訊與矽光子` | **重要性**: `73`
 - **來源**: Digitimes (2026-09-03T03:43:46Z)
@@ -82,39 +91,12 @@
 
 ---
 
-### ⚖️ 硬體不是問題——台積電高層指出軟體、3D IC 中的基板間隙
-- **題材**: `半導體先進製程` | **重要性**: `73`
-- **來源**: Digitimes (2026-09-02T03:51:38Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 9月1日，台積電先進封裝技術與服務副總裁何俊在SEMI 3DIC先進製造聯盟（3DICAMA）全球峰會上發表講話時指出，雖然先進封裝領域提供了巨大的商機…
-- [原文連結](https://www.digitimes.com/news/a20260902PD230/semi-tsmc-hardware-software-3d-ic.html)
-
----
-
-### 🚀 Gemtek 深化與印度 Dixon Technologies 的合作夥伴關係，以擴大光收發器和連接足跡
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-09-02T01:30:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Gemtek Technology宣布，將透過在印度的合資企業深化與印度Dixon Technologies的策略合作，擴大其光收發器、雙向光組件（B…
-- [原文連結](https://www.digitimes.com/news/a20260901PD247/gemtek-dixon-manufacturing-market-joint-venture.html)
-
----
-
 ### 🚀 台積電預計 SiPh 將在 2027 年成為主流
 - **題材**: `半導體先進製程` | **重要性**: `73`
 - **來源**: Digitimes (2026-08-31T08:28:42Z)
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: K.C.表示，隨著AI橫向擴展推動光模組需求爆發式成長，矽光子（SiPh）將在2027年成為主流，市佔率將突破50%。台積電先進封裝技術開發副總裁 Hsu 在 Silicon Photo...
 - [原文連結](https://www.digitimes.com/news/a20260831PD217/siph-2027-photonics-tsmc-market-share.html)
-
----
-
-### 🚀 Credo Technology Group Holding Ltd 2027 年第一季財報電話會議摘要
-- **題材**: `光通訊與矽光子` | **重要性**: `70`
-- **來源**: Moby.co (2026-09-02T12:30:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Credo Technology Group Holding Ltd 2027 年第一季財報電話會議的 Moby 摘要
-- [原文連結](https://app.moby.co/home/research/tools/earningsCalendar/earnings-credo-technology-group-holding-ltd-q1-2027-earnings-call-summary?utm_source=yahoo_finance&amp;utm_medium=rss)
 
 ---
 
@@ -145,12 +127,21 @@
 
 ---
 
-### ⚖️ Marvell 預計矽光子學將從 2027 年底開始擴展，以台灣和台積電為中心
+### ⚖️ 硬體不是問題——台積電高層指出軟體、3D IC 中的基板間隙
+- **題材**: `半導體先進製程` | **重要性**: `68`
+- **來源**: Digitimes (2026-09-02T03:51:38Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 9月1日，台積電先進封裝技術與服務副總裁何俊在SEMI 3DIC先進製造聯盟（3DICAMA）全球峰會上發表講話時指出，雖然先進封裝領域提供了巨大的商機…
+- [原文連結](https://www.digitimes.com/news/a20260902PD230/semi-tsmc-hardware-software-3d-ic.html)
+
+---
+
+### 🚀 Gemtek 深化與印度 Dixon Technologies 的合作夥伴關係，以擴大光收發器和連接足跡
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-09-02T03:58:48Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Marvell 資深副總裁兼技術長 Radha Nagarajan 在 2026 年台灣 SEMICON 的媒體簡報會上，為共封裝光學元件 (CPO) 的商業化提供了更清晰的時間表。
-- [原文連結](https://www.digitimes.com/news/a20260902PD227/marvell-tsmc-silicon-taiwan-photonics.html)
+- **來源**: Digitimes (2026-09-02T01:30:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Gemtek Technology宣布，將透過在印度的合資企業深化與印度Dixon Technologies的策略合作，擴大其光收發器、雙向光組件（B…
+- [原文連結](https://www.digitimes.com/news/a20260901PD247/gemtek-dixon-manufacturing-market-joint-venture.html)
 
 ---
 
@@ -178,6 +169,15 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: SK Hynix is pushing computation deeper into high-bandwidth memory (HBM), saying a custom HBM architecture that places compute functions in the base die could improve large language model inference performance by up to 5.15 times as data movement becomes a gro…
 - [原文連結](https://www.digitimes.com/news/a20260901VL220/sk-hynix-hbm-capacity-performance-ai-agent-semicon-taiwan.html)
+
+---
+
+### ⚖️ Marvell CTO：功率和密度瓶頸正在推動 CPO 在 AI 資料中心的採用
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-09-01T06:55:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Marvell Technology 技術長 Radha Nagarajan 在 2026 年台灣半導體展之前的矽光子全球高峰會上發表演說時強調，AI 資料中心時代升級連結的核心焦點已堅定地轉向功耗。他指出，...
+- [原文連結](https://www.digitimes.com/news/a20260901PD231/marvell-cpo-siph-adoption-semicon-taiwan.html)
 
 ---
 
