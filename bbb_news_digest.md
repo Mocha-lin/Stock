@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-05T12:25:04.917019+00:00
+> 更新時間：2026-09-05T15:40:25.914788+00:00
 
 ### 🚀 Silicon photonics testing shift could reshape how CPO suppliers win business
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -46,24 +46,6 @@
 
 ---
 
-### 🚀 Dell Stock Surges On Record Orders For AI Servers
-- **題材**: `AI伺服器` | **重要性**: `75`
-- **來源**: Slashdot.org (2026-09-02T15:00:00Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Dell reported record fiscal Q2 results as AI server demand surged, booking $60.9 billion in AI server orders and ending the quarter with a $95 billion backlog. From a report: The company posted record revenue of $47 billion, up 58% year over year. Earnings pe…
-- [原文連結](https://slashdot.org/story/26/09/02/0551240/dell-stock-surges-on-record-orders-for-ai-servers)
-
----
-
-### ⚖️ 隨著封裝變得越來越複雜，台積電敦促 HBM 製造商進行 X 光檢測設計
-- **題材**: `半導體先進製程` | **重要性**: `73`
-- **來源**: Digitimes (2026-09-04T09:19:18Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: TSMC is calling for future HBM and DRAM designs to become more compatible with X-ray inspection, as increasingly complex advanced packaging makes buried defects harder to detect while raising concerns over radiation exposure to sensitive memory devices.
-- [原文連結](https://www.digitimes.com/news/a20260904VL218/tsmc-inspection-hbm-packaging-design.html)
-
----
-
 ### ⚖️ Micron reportedly targets 2× HBM capacity by end-2026; Samsung, SK Hynix keep the scale edge
 - **題材**: `HBM記憶體` | **重要性**: `73`
 - **來源**: Digitimes (2026-09-04T03:58:39Z)
@@ -88,6 +70,15 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: K.C.表示，隨著AI橫向擴展推動光模組需求爆發式成長，矽光子（SiPh）將在2027年成為主流，市佔率將突破50%。台積電先進封裝技術開發副總裁 Hsu 在 Silicon Photo...
 - [原文連結](https://www.digitimes.com/news/a20260831PD217/siph-2027-photonics-tsmc-market-share.html)
+
+---
+
+### 🚀 Dell Stock Surges On Record Orders For AI Servers
+- **題材**: `AI伺服器` | **重要性**: `70`
+- **來源**: Slashdot.org (2026-09-02T15:00:00Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Dell reported record fiscal Q2 results as AI server demand surged, booking $60.9 billion in AI server orders and ending the quarter with a $95 billion backlog. From a report: The company posted record revenue of $47 billion, up 58% year over year. Earnings pe…
+- [原文連結](https://slashdot.org/story/26/09/02/0551240/dell-stock-surges-on-record-orders-for-ai-servers)
 
 ---
 
@@ -178,6 +169,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: SEMICON Taiwan 2026 kicked off its pre-show program with the Silicon Photonics Global Summit.
 - [原文連結](https://www.digitimes.com/news/a20260831PD223/2026-taiwan-cpo-ase-siph.html)
+
+---
+
+### ⚖️ 播客亮點：小米的 3nm 晶片上限、馬來西亞的 HBM 以及英偉達的利潤權衡
+- **題材**: `半導體先進製程` | **重要性**: `68`
+- **來源**: Digitimes (2026-08-30T23:25:00Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 小米自研晶片能達到2nm嗎？ HBM 重路由馬來西亞台積電是否給英特爾通行證？ Nvidia 能否維持 75% 的毛利率或保護市場佔有率？在 Apple 9 月 10 日的活動之前，活動前的技術平靜期一點也不平靜，DIGITIMES ......
+- [原文連結](https://www.digitimes.com/news/a20260828PD237/xiaomi-hbm-malaysia-nvidia-tsmc-chips.html)
 
 ---
 
