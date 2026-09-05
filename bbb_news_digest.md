@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-04T19:11:24.844207+00:00
+> 更新時間：2026-09-05T00:38:04.784028+00:00
 
 ### ⚠️ 隨著 CoPoS 計劃的成形，台積電推遲了 CoWoS 訂單
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -19,6 +19,15 @@
 
 ---
 
+### 🚀 Electroninks, Merck, Qualipoly build advanced packaging ecosystem
+- **題材**: `半導體先進製程` | **重要性**: `78`
+- **來源**: Digitimes (2026-09-03T23:53:13Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Electroninks, a global provider of metal-composite conductive inks and advanced semiconductor packaging materials, has formed a strategic partnership with Merck and Taiwan-based Qualipoly Chemical to offer advanced packaging customers a more complete, faster,…
+- [原文連結](https://www.digitimes.com/news/a20260903PD200/packaging-merck-materials-development-partnership.html)
+
+---
+
 ### ⚖️ China optical module makers ride AI boom as 800G, 1.6T orders stretch into 2027
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
 - **來源**: Digitimes (2026-09-03T01:35:03Z)
@@ -28,21 +37,21 @@
 
 ---
 
+### 🚀 每週新聞綜述：美國施壓韓國晶片投資，聯發科拿下GoogleTPU，蘋果先發2nm M6
+- **題材**: `半導體先進製程` | **重要性**: `78`
+- **來源**: Digitimes (2026-08-31T01:27:24Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Semiconductor investment, AI chips, advanced packaging and data center infrastructure dominated the week, with South Korea facing US pressure, India scaling chip manufacturing, and Apple, Qualcomm, MediaTek and Taiwan suppliers advancing new AI and 2nm strate…
+- [原文連結](https://www.digitimes.com/news/a20260831VL200/2nm-apple-capacity-expansion-mediatek-semiconductor-industry.html)
+
+---
+
 ### 🚀 Dell Stock Surges On Record Orders For AI Servers
 - **題材**: `AI伺服器` | **重要性**: `75`
 - **來源**: Slashdot.org (2026-09-02T15:00:00Z)
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Dell reported record fiscal Q2 results as AI server demand surged, booking $60.9 billion in AI server orders and ending the quarter with a $95 billion backlog. From a report: The company posted record revenue of $47 billion, up 58% year over year. Earnings pe…
 - [原文連結](https://slashdot.org/story/26/09/02/0551240/dell-stock-surges-on-record-orders-for-ai-servers)
-
----
-
-### 🚀 Credo Technology Group Q1 Earnings Call Highlights
-- **題材**: `光通訊與矽光子` | **重要性**: `75`
-- **來源**: MarketBeat (2026-09-01T23:02:26Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Credo Technology Group (NASDAQ:CRDO) reported record fiscal first-quarter 2027 revenue of $479 million, up 10% sequentially and 115% from a year earlier, as...
-- [原文連結](https://www.marketbeat.com/instant-alerts/transcript-credo-technology-group-q1-earnings-call-highlights-2026-09-01/?utm_source=yahoofinance&amp;utm_medium=yahoofinance)
 
 ---
 
@@ -91,24 +100,6 @@
 
 ---
 
-### ⚖️ 聯電瞄準12吋TFLN突破400G SiPh瓶頸
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-09-02T00:33:04Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 隨著AI超大規模資料中心互連流量的攀升，光模組正朝向1.6T和3.2T世代發展。台灣第二大合約晶片製造商聯華電子 (UMC) 正在擴大其矽光子 (SiPh) 功效…
-- [原文連結](https://www.digitimes.com/news/a20260901PD230/siph-umc-12-inch-data-bandwidth.html)
-
----
-
-### ⚖️ Micro LED maker PlayNitride targets Micro LED optical communications within two years
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-09-02T00:24:41Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Micro LED 製造商 PlayNitride Inc. 預計該技術將在兩年內進入商業光通訊應用，從顯示器擴展到人工智慧裝置、資料中心光傳輸、矽光子和共封裝光學 (CPO)。
-- [原文連結](https://www.digitimes.com/news/a20260901PD240/playnitride-communications-technology-transmission-data.html)
-
----
-
 ### 🚀 台積電預計 SiPh 將在 2027 年成為主流
 - **題材**: `半導體先進製程` | **重要性**: `73`
 - **來源**: Digitimes (2026-08-31T08:28:42Z)
@@ -124,6 +115,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Credo Technology Group Holding Ltd 2027 年第一季財報電話會議的 Moby 摘要
 - [原文連結](https://app.moby.co/home/research/tools/earningsCalendar/earnings-credo-technology-group-holding-ltd-q1-2027-earnings-call-summary?utm_source=yahoo_finance&amp;utm_medium=rss)
+
+---
+
+### 🚀 Credo Technology Group Q1 Earnings Call Highlights
+- **題材**: `光通訊與矽光子` | **重要性**: `70`
+- **來源**: MarketBeat (2026-09-01T23:02:26Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Credo Technology Group (NASDAQ:CRDO) reported record fiscal first-quarter 2027 revenue of $479 million, up 10% sequentially and 115% from a year earlier, as...
+- [原文連結](https://www.marketbeat.com/instant-alerts/transcript-credo-technology-group-q1-earnings-call-highlights-2026-09-01/?utm_source=yahoofinance&amp;utm_medium=yahoofinance)
 
 ---
 
@@ -154,30 +154,30 @@
 
 ---
 
-### ⚖️ Marvell CTO：功率和密度瓶頸正在推動 CPO 在 AI 資料中心的採用
+### ⚖️ 聯電瞄準12吋TFLN突破400G SiPh瓶頸
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-09-01T06:55:00Z)
+- **來源**: Digitimes (2026-09-02T00:33:04Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Marvell Technology 技術長 Radha Nagarajan 在 2026 年台灣半導體展之前的矽光子全球高峰會上發表演說時強調，AI 資料中心時代升級連結的核心焦點已堅定地轉向功耗。他指出，...
-- [原文連結](https://www.digitimes.com/news/a20260901PD231/marvell-cpo-siph-adoption-semicon-taiwan.html)
+- **摘要**: 隨著AI超大規模資料中心互連流量的攀升，光模組正朝向1.6T和3.2T世代發展。台灣第二大合約晶片製造商聯華電子 (UMC) 正在擴大其矽光子 (SiPh) 功效…
+- [原文連結](https://www.digitimes.com/news/a20260901PD230/siph-umc-12-inch-data-bandwidth.html)
 
 ---
 
-### ⚖️ ASE: CPO scale-out demands deeper supply-chain coordination for mass production
+### ⚖️ Micro LED maker PlayNitride targets Micro LED optical communications within two years
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-08-31T08:06:39Z)
+- **來源**: Digitimes (2026-09-02T00:24:41Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: SEMICON Taiwan 2026 kicked off its pre-show program with the Silicon Photonics Global Summit.
-- [原文連結](https://www.digitimes.com/news/a20260831PD223/2026-taiwan-cpo-ase-siph.html)
+- **摘要**: Micro LED 製造商 PlayNitride Inc. 預計該技術將在兩年內進入商業光通訊應用，從顯示器擴展到人工智慧裝置、資料中心光傳輸、矽光子和共封裝光學 (CPO)。
+- [原文連結](https://www.digitimes.com/news/a20260901PD240/playnitride-communications-technology-transmission-data.html)
 
 ---
 
-### ⚖️ 播客亮點：小米的 3nm 晶片上限、馬來西亞的 HBM 以及英偉達的利潤權衡
-- **題材**: `半導體先進製程` | **重要性**: `68`
-- **來源**: Digitimes (2026-08-30T23:25:00Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 小米自研晶片能達到2nm嗎？ HBM 重路由馬來西亞台積電是否給英特爾通行證？ Nvidia 能否維持 75% 的毛利率或保護市場佔有率？在 Apple 9 月 10 日的活動之前，活動前的技術平靜期一點也不平靜，DIGITIMES ......
-- [原文連結](https://www.digitimes.com/news/a20260828PD237/xiaomi-hbm-malaysia-nvidia-tsmc-chips.html)
+### ⚖️ SK Hynix touts up to 5.15x inference gains with custom HBM
+- **題材**: `HBM記憶體` | **重要性**: `68`
+- **來源**: Digitimes (2026-09-01T08:53:42Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: SK Hynix is pushing computation deeper into high-bandwidth memory (HBM), saying a custom HBM architecture that places compute functions in the base die could improve large language model inference performance by up to 5.15 times as data movement becomes a gro…
+- [原文連結](https://www.digitimes.com/news/a20260901VL220/sk-hynix-hbm-capacity-performance-ai-agent-semicon-taiwan.html)
 
 ---
 
