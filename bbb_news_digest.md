@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-05T18:38:09.247773+00:00
+> 更新時間：2026-09-05T20:46:20.589583+00:00
 
 ### 🚀 Silicon photonics testing shift could reshape how CPO suppliers win business
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -56,9 +56,9 @@
 ---
 
 ### 🚀 台積電預計 SiPh 將在 2027 年成為主流
-- **題材**: `半導體先進製程` | **重要性**: `73`
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
 - **來源**: Digitimes (2026-08-31T08:28:42Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: K.C.表示，隨著AI橫向擴展推動光模組需求爆發式成長，矽光子（SiPh）將在2027年成為主流，市佔率將突破50%。台積電先進封裝技術開發副總裁 Hsu 在 Silicon Photo...
 - [原文連結](https://www.digitimes.com/news/a20260831PD217/siph-2027-photonics-tsmc-market-share.html)
 
@@ -145,15 +145,6 @@
 
 ---
 
-### ⚖️ SK Hynix explores Intel as second source for HBM base dies
-- **題材**: `HBM記憶體` | **重要性**: `68`
-- **來源**: Digitimes (2026-08-31T23:09:10Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: SK Hynix is reportedly considering adding Intel Foundry as a second manufacturing source for high-bandwidth memory (HBM) base dies, a move that could reduce its reliance on TSMC as the logic layer beneath HBM becomes increasingly important to cost, performanc…
-- [原文連結](https://www.digitimes.com/news/a20260831VL222/sk-hynix-hbm-intel-manufacturing-accelerator.html)
-
----
-
 ### ⚖️ ASE: CPO scale-out demands deeper supply-chain coordination for mass production
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
 - **來源**: Digitimes (2026-08-31T08:06:39Z)
@@ -178,6 +169,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: GoPro is surging on a merger that turns a camera company into an optical-transceiver play, and a famous YouTuber just became its largest individual sharehold...
 - [原文連結](https://247wallst.com/investing/2026/09/04/gopro-zooms-34-higher-on-starman-optical-merger-and-markiplier-stake-coherent-climbs-7-lumentum-gains-3/)
+
+---
+
+### 🚀 討厭人工智慧資料中心？大型科技公司的新廣告活動旨在改變你的想法
+- **題材**: `AI伺服器` | **重要性**: `65`
+- **來源**: CNET (2026-09-02T23:06:27Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: A multimillion-dollar campaign is trying to reverse the trend of the public’s growing disdain for AI data centers.
+- [原文連結](https://www.cnet.com/tech/services-and-software/hate-ai-data-centers-big-techs-new-ad-campaign-will-try-to-change-your-mind/)
 
 ---
 
