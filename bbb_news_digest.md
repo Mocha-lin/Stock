@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-05T09:11:07.991556+00:00
+> 更新時間：2026-09-05T12:25:04.917019+00:00
 
 ### 🚀 Silicon photonics testing shift could reshape how CPO suppliers win business
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -46,21 +46,21 @@
 
 ---
 
-### 🚀 每週新聞綜述：美國施壓韓國晶片投資，聯發科拿下GoogleTPU，蘋果先發2nm M6
-- **題材**: `半導體先進製程` | **重要性**: `78`
-- **來源**: Digitimes (2026-08-31T01:27:24Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Semiconductor investment, AI chips, advanced packaging and data center infrastructure dominated the week, with South Korea facing US pressure, India scaling chip manufacturing, and Apple, Qualcomm, MediaTek and Taiwan suppliers advancing new AI and 2nm strate…
-- [原文連結](https://www.digitimes.com/news/a20260831VL200/2nm-apple-capacity-expansion-mediatek-semiconductor-industry.html)
-
----
-
 ### 🚀 Dell Stock Surges On Record Orders For AI Servers
 - **題材**: `AI伺服器` | **重要性**: `75`
 - **來源**: Slashdot.org (2026-09-02T15:00:00Z)
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Dell reported record fiscal Q2 results as AI server demand surged, booking $60.9 billion in AI server orders and ending the quarter with a $95 billion backlog. From a report: The company posted record revenue of $47 billion, up 58% year over year. Earnings pe…
 - [原文連結](https://slashdot.org/story/26/09/02/0551240/dell-stock-surges-on-record-orders-for-ai-servers)
+
+---
+
+### ⚖️ 隨著封裝變得越來越複雜，台積電敦促 HBM 製造商進行 X 光檢測設計
+- **題材**: `半導體先進製程` | **重要性**: `73`
+- **來源**: Digitimes (2026-09-04T09:19:18Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: TSMC is calling for future HBM and DRAM designs to become more compatible with X-ray inspection, as increasingly complex advanced packaging makes buried defects harder to detect while raising concerns over radiation exposure to sensitive memory devices.
+- [原文連結](https://www.digitimes.com/news/a20260904VL218/tsmc-inspection-hbm-packaging-design.html)
 
 ---
 
@@ -154,15 +154,6 @@
 
 ---
 
-### ⚖️ SK Hynix touts up to 5.15x inference gains with custom HBM
-- **題材**: `HBM記憶體` | **重要性**: `68`
-- **來源**: Digitimes (2026-09-01T08:53:42Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: SK Hynix is pushing computation deeper into high-bandwidth memory (HBM), saying a custom HBM architecture that places compute functions in the base die could improve large language model inference performance by up to 5.15 times as data movement becomes a gro…
-- [原文連結](https://www.digitimes.com/news/a20260901VL220/sk-hynix-hbm-capacity-performance-ai-agent-semicon-taiwan.html)
-
----
-
 ### ⚖️ Marvell CTO：功率和密度瓶頸正在推動 CPO 在 AI 資料中心的採用
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
 - **來源**: Digitimes (2026-09-01T06:55:00Z)
@@ -178,6 +169,15 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: SK Hynix is reportedly considering adding Intel Foundry as a second manufacturing source for high-bandwidth memory (HBM) base dies, a move that could reduce its reliance on TSMC as the logic layer beneath HBM becomes increasingly important to cost, performanc…
 - [原文連結](https://www.digitimes.com/news/a20260831VL222/sk-hynix-hbm-intel-manufacturing-accelerator.html)
+
+---
+
+### ⚖️ ASE: CPO scale-out demands deeper supply-chain coordination for mass production
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-08-31T08:06:39Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: SEMICON Taiwan 2026 kicked off its pre-show program with the Silicon Photonics Global Summit.
+- [原文連結](https://www.digitimes.com/news/a20260831PD223/2026-taiwan-cpo-ase-siph.html)
 
 ---
 

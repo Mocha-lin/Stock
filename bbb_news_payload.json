@@ -1,9 +1,9 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-09-05T09:11:07.991556+00:00",
+  "generated_at": "2026-09-05T12:25:04.917019+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
-  "total_count": 67,
+  "total_count": 66,
   "items": [
     {
       "id": "f696472786c36987",
@@ -196,44 +196,6 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
-      "id": "0229c0029c78548a",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "每週新聞綜述：美國施壓韓國晶片投資，聯發科拿下GoogleTPU，蘋果先發2nm M6",
-      "summary": "Semiconductor investment, AI chips, advanced packaging and data center infrastructure dominated the week, with South Korea facing US pressure, India scaling chip manufacturing, and Apple, Qualcomm, MediaTek and Taiwan suppliers advancing new AI and 2nm strate…",
-      "original_title": "Weekly news roundup: US pressures Korea chip investment, MediaTek wins Google TPU, Apple debuts 2nm M6",
-      "url": "https://www.digitimes.com/news/a20260831VL200/2nm-apple-capacity-expansion-mediatek-semiconductor-industry.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-08-31T01:27:24Z",
-      "importance": 78,
-      "impact": "positive",
-      "timeframe": "short_to_mid_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
       "id": "915d8b4b0a23b893",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -270,6 +232,44 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
+      "id": "2c7989beaa697eb7",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "隨著封裝變得越來越複雜，台積電敦促 HBM 製造商進行 X 光檢測設計",
+      "summary": "TSMC is calling for future HBM and DRAM designs to become more compatible with X-ray inspection, as increasingly complex advanced packaging makes buried defects harder to detect while raising concerns over radiation exposure to sensitive memory devices.",
+      "original_title": "TSMC urges HBM makers to design for X-ray inspection as packaging grows more complex",
+      "url": "https://www.digitimes.com/news/a20260904VL218/tsmc-inspection-hbm-packaging-design.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-09-04T09:19:18Z",
+      "importance": 73,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "2d5633083dcf2ebb",
@@ -649,41 +649,6 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "417a55444ccd9588",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "SK Hynix touts up to 5.15x inference gains with custom HBM",
-      "summary": "SK Hynix is pushing computation deeper into high-bandwidth memory (HBM), saying a custom HBM architecture that places compute functions in the base die could improve large language model inference performance by up to 5.15 times as data movement becomes a gro…",
-      "original_title": "SK Hynix touts up to 5.15x inference gains with custom HBM",
-      "url": "https://www.digitimes.com/news/a20260901VL220/sk-hynix-hbm-capacity-performance-ai-agent-semicon-taiwan.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-09-01T08:53:42Z",
-      "importance": 68,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "750f818fdd3e3e48",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1056,6 +1021,120 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "564b3e14d86121ca",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "Novo Nordisk Foundation to build $62M quantum chip plant in Copenhagen",
+      "summary": "歐洲正在建造一家量子晶片工廠，而不是另一台量子電腦。諾和諾德基金會旗下的哥本哈根量子鑄造廠正在丹麥首都建造一座佔地 5,300 平方米的設施，該設施將於 2027 年投入使用，並將提供...",
+      "original_title": "Novo Nordisk Foundation to build $62M quantum chip plant in Copenhagen",
+      "url": "https://thenextweb.com/news/quantum-foundry-copenhagen-novo-nordisk-foundation",
+      "source": "The Next Web",
+      "domain": "thenextweb.com",
+      "published_at": "2026-09-04T10:01:31Z",
+      "importance": 60,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "04b628b7ba0522f7",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "美國柴油價格創歷史新高",
+      "summary": "自二月底伊朗衝突爆發以來，燃料價格飆升，反映出批發石油價格的飆升。",
+      "original_title": "US diesel prices hit an all-time-high",
+      "url": "https://www.bbc.co.uk/news/articles/c7903r0grx0o",
+      "source": "BBC News",
+      "domain": "bbc.co.uk",
+      "published_at": "2026-09-04T09:59:50Z",
+      "importance": 60,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "20fcb01c5a4a221d",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "隨著關稅威脅加劇，韓國確認與美國進行晶片投資談判",
+      "summary": "韓國就其晶片製造商的關稅保護進行了談判，而華盛頓無論如何都在向美國工廠施壓。首爾的一位總統官員證實，半導體投資現已成為兩國政府之間更廣泛談判的一部分。該…",
+      "original_title": "South Korea confirms chip investment talks with US as tariff threat grows",
+      "url": "https://thenextweb.com/news/south-korea-us-chip-investment-tariff-talks",
+      "source": "The Next Web",
+      "domain": "thenextweb.com",
+      "published_at": "2026-09-04T09:28:30Z",
+      "importance": 60,
+      "impact": "negative",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "7b022873da15fa32",
@@ -1657,44 +1736,6 @@
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "3255f80da13b017b",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "iPhone Ultra's Very High Price and Features Revealed in New Report",
-      "summary": "在蘋果公司於 9 月 9 日星期三舉行的活動（預計將推出首款可折疊 iPhone）之前，台灣研究公司 TrendForce 今天概述了該設備的估計價格範圍、功能和其他一些關鍵細節。\n\n\n\n\n\n在美國，特倫...",
-      "original_title": "iPhone Ultra's Very High Price and Features Revealed in New Report",
-      "url": "https://www.macrumors.com/2026/09/03/iphone-ultra-features-price-specs/",
-      "source": "MacRumors",
-      "domain": "macrumors.com",
-      "published_at": "2026-09-03T14:33:59Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "0231358a417f2fd4",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1817,44 +1858,6 @@
       "source": "NPR",
       "domain": "npr.org",
       "published_at": "2026-09-02T14:08:03Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "49c2190b076a946a",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "How the Iran War is Driving Up Everyday American Costs",
-      "summary": "As the war between the United States and Iran ramps up again, it continues to have a major impact on American's wallets with rising oil prices, interest rate...",
-      "original_title": "How the Iran War is Driving Up Everyday American Costs",
-      "url": "https://www.yahoo.com/news/videos/iran-war-driving-everyday-american-121838554.html",
-      "source": "Yahoo Entertainment",
-      "domain": "yahoo.com",
-      "published_at": "2026-09-02T12:18:38Z",
       "importance": 55,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -2183,19 +2186,19 @@
       "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "1a405175ff6d6800",
+      "id": "49c2190b076a946a",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "總體風險",
-      "title": "New U.S. sanctions will hit ordinary Iranians hard. That may be the whole point as the crashing economy stirs fresh protests",
-      "summary": "\"Digital assets and gold are how ordinary Iranians protect their savings from inflation.\"",
-      "original_title": "New U.S. sanctions will hit ordinary Iranians hard. That may be the whole point as the crashing economy stirs fresh protests",
-      "url": "https://www.yahoo.com/news/us/articles/u-sanctions-hit-ordinary-iranians-212605033.html",
+      "title": "How the Iran War is Driving Up Everyday American Costs",
+      "summary": "As the war between the United States and Iran ramps up again, it continues to have a major impact on American's wallets with rising oil prices, interest rate...",
+      "original_title": "How the Iran War is Driving Up Everyday American Costs",
+      "url": "https://www.yahoo.com/news/videos/iran-war-driving-everyday-american-121838554.html",
       "source": "Yahoo Entertainment",
       "domain": "yahoo.com",
-      "published_at": "2026-08-29T21:26:05Z",
-      "importance": 55,
-      "impact": "negative",
+      "published_at": "2026-09-02T12:18:38Z",
+      "importance": 50,
+      "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
         "總體",
@@ -2218,45 +2221,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "fec24488b6018c61",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "The Galaxy S26 FE Beats Samsung’s Own Flagships to One UI 9 at $700",
-      "summary": "The Galaxy S26 FE Beats Samsung’s Own Flagships to One UI 9 at $700The “Fan Edition” label has historically meant a Samsung phone that trades some flagship firepower for a more accessible price. The Galaxy S26 FE keeps...",
-      "original_title": "The Galaxy S26 FE Beats Samsung’s Own Flagships to One UI 9 at $700",
-      "url": "https://www.yankodesign.com/2026/08/29/the-galaxy-s26-fe-beats-samsungs-own-flagships-to-one-ui-9-at-700/",
-      "source": "Yanko Design",
-      "domain": "yankodesign.com",
-      "published_at": "2026-08-29T20:45:03Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "86d606309f6dbda8",
