@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-05T05:04:43.484347+00:00
+> 更新時間：2026-09-05T09:11:07.991556+00:00
 
 ### 🚀 Silicon photonics testing shift could reshape how CPO suppliers win business
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -25,6 +25,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: AI驅動的光模組需求快速上升，LuxNet表示2026年下半年業務將較上半年大幅成長。隨著 2027 年產能上線，資料中心互連 (DCI) 產品的收入將持續成長…
 - [原文連結](https://www.digitimes.com/news/a20260831PD224/2027-revenue-2028-demand-2026.html)
+
+---
+
+### ⚖️ MSScorps August revenue hits new high on silicon photonics gains
+- **題材**: `光通訊與矽光子` | **重要性**: `78`
+- **來源**: Digitimes (2026-09-04T06:31:46Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: MSScorps saw August 2026 revenue post a new single-month high, as global artificial intelligence (AI) computing power continues to expand, driving demand for advanced process technologies, high-performance computing (HPC), advanced packaging, and high-speed o…
+- [原文連結](https://www.digitimes.com/news/a20260904PD200/msscorps-siph-revenue-2026.html)
 
 ---
 
@@ -73,24 +82,6 @@
 
 ---
 
-### ⚖️ Zhen Ding launches 1.6T optical modules, 34-layer AI server boards at Semicon Taiwan to meet next-gen AI infrastructure demand
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-09-02T07:50:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 2026台灣半導體展AI科技展區，振鼎科技重點展示兩大核心產品線：800G、1.6T、XPO、NPO高階光模組，以及高達34層的超高層AI伺服器闆卡。該鞋…
-- [原文連結](https://www.digitimes.com/news/a20260902PD240/zhen-ding-ai-server-infrastructure-pcb.html)
-
----
-
-### ⚖️ 台積電入駐白埔工業園區 大力發展先進封裝
-- **題材**: `半導體先進製程` | **重要性**: `73`
-- **來源**: Digitimes (2026-09-02T06:45:00Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: TSMC will set up operations in Kaohsiung's Baipu Industrial Park, helping create Taiwan's first advanced packaging materials and equipment supply-chain cluster. Closely watched by the industry, the move is expected to improve efficiency by 25% to 50% as the c…
-- [原文連結](https://www.digitimes.com/news/a20260902PD233/tsmc-packaging-equipment-kaohsiung-materials.html)
-
----
-
 ### 🚀 台積電預計 SiPh 將在 2027 年成為主流
 - **題材**: `半導體先進製程` | **重要性**: `73`
 - **來源**: Digitimes (2026-08-31T08:28:42Z)
@@ -118,12 +109,21 @@
 
 ---
 
-### ⚖️ DRAM giants target 3D stacking to break memory wall and power bottlenecks
-- **題材**: `HBM記憶體` | **重要性**: `68`
-- **來源**: Digitimes (2026-09-02T08:45:00Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: At a shared stage at Semicon Taiwan 2026, executives from Samsung Electronics, SK Hynix, and Micron agreed that traditional 2.5D high-bandwidth memory (HBM) using interposers is approaching a performance ceiling. Consequently, the industry is transitioning to…
-- [原文連結](https://www.digitimes.com/news/a20260902PD241/dram-bandwidth-3d-data-demand-semicon-taiwan.html)
+### ⚖️ Zhen Ding launches 1.6T optical modules, 34-layer AI server boards at Semicon Taiwan to meet next-gen AI infrastructure demand
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-09-02T07:50:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 2026台灣半導體展AI科技展區，振鼎科技重點展示兩大核心產品線：800G、1.6T、XPO、NPO高階光模組，以及高達34層的超高層AI伺服器闆卡。該鞋…
+- [原文連結](https://www.digitimes.com/news/a20260902PD240/zhen-ding-ai-server-infrastructure-pcb.html)
+
+---
+
+### ⚖️ 台積電入駐白埔工業園區 大力發展先進封裝
+- **題材**: `半導體先進製程` | **重要性**: `68`
+- **來源**: Digitimes (2026-09-02T06:45:00Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: TSMC will set up operations in Kaohsiung's Baipu Industrial Park, helping create Taiwan's first advanced packaging materials and equipment supply-chain cluster. Closely watched by the industry, the move is expected to improve efficiency by 25% to 50% as the c…
+- [原文連結](https://www.digitimes.com/news/a20260902PD233/tsmc-packaging-equipment-kaohsiung-materials.html)
 
 ---
 
@@ -133,15 +133,6 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 9月1日，台積電先進封裝技術與服務副總裁何俊在SEMI 3DIC先進製造聯盟（3DICAMA）全球峰會上發表講話時指出，雖然先進封裝領域提供了巨大的商機…
 - [原文連結](https://www.digitimes.com/news/a20260902PD230/semi-tsmc-hardware-software-3d-ic.html)
-
----
-
-### 🚀 Gemtek 深化與印度 Dixon Technologies 的合作夥伴關係，以擴大光收發器和連接足跡
-- **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-09-02T01:30:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Gemtek Technology宣布，將透過在印度的合資企業深化與印度Dixon Technologies的策略合作，擴大其光收發器、雙向光組件（B…
-- [原文連結](https://www.digitimes.com/news/a20260901PD247/gemtek-dixon-manufacturing-market-joint-venture.html)
 
 ---
 
@@ -178,6 +169,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Marvell Technology 技術長 Radha Nagarajan 在 2026 年台灣半導體展之前的矽光子全球高峰會上發表演說時強調，AI 資料中心時代升級連結的核心焦點已堅定地轉向功耗。他指出，...
 - [原文連結](https://www.digitimes.com/news/a20260901PD231/marvell-cpo-siph-adoption-semicon-taiwan.html)
+
+---
+
+### ⚖️ SK Hynix explores Intel as second source for HBM base dies
+- **題材**: `HBM記憶體` | **重要性**: `68`
+- **來源**: Digitimes (2026-08-31T23:09:10Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: SK Hynix is reportedly considering adding Intel Foundry as a second manufacturing source for high-bandwidth memory (HBM) base dies, a move that could reduce its reliance on TSMC as the logic layer beneath HBM becomes increasingly important to cost, performanc…
+- [原文連結](https://www.digitimes.com/news/a20260831VL222/sk-hynix-hbm-intel-manufacturing-accelerator.html)
 
 ---
 
