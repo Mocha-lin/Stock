@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-06T09:33:01.029860+00:00
+> 更新時間：2026-09-06T12:38:58.646058+00:00
 
 ### 🚀 Silicon photonics testing shift could reshape how CPO suppliers win business
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -52,6 +52,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: K.C.表示，隨著AI橫向擴展推動光模組需求爆發式成長，矽光子（SiPh）將在2027年成為主流，市佔率將突破50%。台積電先進封裝技術開發副總裁 Hsu 在 Silicon Photo...
 - [原文連結](https://www.digitimes.com/news/a20260831PD217/siph-2027-photonics-tsmc-market-share.html)
+
+---
+
+### 🚀 歐洲排隊下訂單，英偉達合作夥伴鴻海的銷售成長 52%
+- **題材**: `AI伺服器` | **重要性**: `70`
+- **來源**: The Next Web (2026-09-05T11:07:55Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Hon Hai reported August revenue of NT$921.8B, about $29.1B, up 52% year on year on AI server demand, well ahead of analyst expectations for the quarter. In June it signed a EUR 120M manufacturing partnership with Bull, the French state-owned computing firm, s…
+- [原文連結](https://thenextweb.com/news/hon-hai-foxconn-august-sales-up-52-percent-ai-servers-bull-partnership-angers-pardubice-eu-ai-gigafactories)
 
 ---
 
@@ -169,15 +178,6 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 小米自研晶片能達到2nm嗎？ HBM 重路由馬來西亞台積電是否給英特爾通行證？ Nvidia 能否維持 75% 的毛利率或保護市場佔有率？在 Apple 9 月 10 日的活動之前，活動前的技術平靜期一點也不平靜，DIGITIMES ......
 - [原文連結](https://www.digitimes.com/news/a20260828PD237/xiaomi-hbm-malaysia-nvidia-tsmc-chips.html)
-
----
-
-### 🚀 Starman Optical 合併和 Markiplier 入股後，GoPro 的變焦倍率提高了 34%； Coherent 上漲 7%，Lumentum 上漲 3%
-- **題材**: `光通訊與矽光子` | **重要性**: `65`
-- **來源**: 24/7 Wall St. (2026-09-04T16:20:33Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: GoPro is surging on a merger that turns a camera company into an optical-transceiver play, and a famous YouTuber just became its largest individual sharehold...
-- [原文連結](https://247wallst.com/investing/2026/09/04/gopro-zooms-34-higher-on-starman-optical-merger-and-markiplier-stake-coherent-climbs-7-lumentum-gains-3/)
 
 ---
 

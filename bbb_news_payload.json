@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-09-06T09:33:01.029860+00:00",
+  "generated_at": "2026-09-06T12:38:58.646058+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 68,
@@ -229,6 +229,44 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
+      "id": "a2aa83cd433a73bd",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "歐洲排隊下訂單，英偉達合作夥伴鴻海的銷售成長 52%",
+      "summary": "Hon Hai reported August revenue of NT$921.8B, about $29.1B, up 52% year on year on AI server demand, well ahead of analyst expectations for the quarter. In June it signed a EUR 120M manufacturing partnership with Bull, the French state-owned computing firm, s…",
+      "original_title": "Nvidia partner Hon Hai’s sales climb 52% as Europe lines up its own orders",
+      "url": "https://thenextweb.com/news/hon-hai-foxconn-august-sales-up-52-percent-ai-servers-bull-partnership-angers-pardubice-eu-ai-gigafactories",
+      "source": "The Next Web",
+      "domain": "thenextweb.com",
+      "published_at": "2026-09-05T11:07:55Z",
+      "importance": 70,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "915d8b4b0a23b893",
@@ -1204,120 +1242,6 @@
       "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "f33a7e96f04aa36c",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "蘋果 iPhone Ultra 與三星 Galaxy Z Fold 8：這可能歸結為一件事",
-      "summary": "The iPhone Ultra is set to debut soon, and the foldable will bring mainstream attention to this category in a way that Android phones haven't done so until now.",
-      "original_title": "Apple iPhone Ultra vs. Samsung Galaxy Z Fold 8: It could just come down to one thing",
-      "url": "https://www.androidcentral.com/phones/apple-iphone/apple-iphone-ultra-vs-samsung-galaxy-z-fold",
-      "source": "Android Central",
-      "domain": "androidcentral.com",
-      "published_at": "2026-09-03T10:41:18Z",
-      "importance": 60,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "12e501a5064d67ec",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "早晨競價：勞動節",
-      "summary": "By Mike Dolan Sept 3 (Reuters) - Some calm has returned to world markets over the past 24 hours as oil prices steadied and the angry bond market cooled down...",
-      "original_title": "Morning Bid: Labor days",
-      "url": "https://finance.yahoo.com/markets/articles/morning-bid-labor-days-103821254.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-09-03T10:38:21Z",
-      "importance": 60,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "f3ead6990fced9ad",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "討厭人工智慧資料中心？大型科技公司的新廣告活動旨在改變你的想法",
-      "summary": "A multimillion-dollar campaign is trying to reverse the trend of the public’s growing disdain for AI data centers.",
-      "original_title": "Hate AI Data Centers? Big Tech’s New Ad Campaign Aims to Change Your Mind",
-      "url": "https://www.cnet.com/tech/services-and-software/hate-ai-data-centers-big-techs-new-ad-campaign-will-try-to-change-your-mind/",
-      "source": "CNET",
-      "domain": "cnet.com",
-      "published_at": "2026-09-02T23:06:27Z",
-      "importance": 60,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "9ff514f36748e583",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1389,44 +1313,6 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "1652715415acd677",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Nvidia 的新款 RTX Spark 筆記型電腦將於 10 月推出，具有兩種不同的配置",
-      "summary": "All the rumors leading up to Nvidia's announcement of its Arm-based RTX Spark chips over the summer mentioned two specific chips: the N1X and N1. While the N1 won't be arriving this year, Nvidia says its N1X chip is arriving in RTX Spark laptops in two differ…",
-      "original_title": "Nvidia’s new RTX Spark laptops launch in October with two different configs",
-      "url": "https://www.theverge.com/news/989133/nvidia-rtx-spark-laptops-n1x-specifications",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "published_at": "2026-09-03T11:13:02Z",
-      "importance": 58,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "3b7a8ecd51bbabd5",
@@ -1844,6 +1730,82 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "f33a7e96f04aa36c",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "蘋果 iPhone Ultra 與三星 Galaxy Z Fold 8：這可能歸結為一件事",
+      "summary": "The iPhone Ultra is set to debut soon, and the foldable will bring mainstream attention to this category in a way that Android phones haven't done so until now.",
+      "original_title": "Apple iPhone Ultra vs. Samsung Galaxy Z Fold 8: It could just come down to one thing",
+      "url": "https://www.androidcentral.com/phones/apple-iphone/apple-iphone-ultra-vs-samsung-galaxy-z-fold",
+      "source": "Android Central",
+      "domain": "androidcentral.com",
+      "published_at": "2026-09-03T10:41:18Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "12e501a5064d67ec",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "早晨競價：勞動節",
+      "summary": "By Mike Dolan Sept 3 (Reuters) - Some calm has returned to world markets over the past 24 hours as oil prices steadied and the angry bond market cooled down...",
+      "original_title": "Morning Bid: Labor days",
+      "url": "https://finance.yahoo.com/markets/articles/morning-bid-labor-days-103821254.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-09-03T10:38:21Z",
+      "importance": 55,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "4f2a2bd0b47df761",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2254,6 +2216,44 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "1652715415acd677",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Nvidia 的新款 RTX Spark 筆記型電腦將於 10 月推出，具有兩種不同的配置",
+      "summary": "All the rumors leading up to Nvidia's announcement of its Arm-based RTX Spark chips over the summer mentioned two specific chips: the N1X and N1. While the N1 won't be arriving this year, Nvidia says its N1X chip is arriving in RTX Spark laptops in two differ…",
+      "original_title": "Nvidia’s new RTX Spark laptops launch in October with two different configs",
+      "url": "https://www.theverge.com/news/989133/nvidia-rtx-spark-laptops-n1x-specifications",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "published_at": "2026-09-03T11:13:02Z",
+      "importance": 53,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "d089a28ef783f500",
