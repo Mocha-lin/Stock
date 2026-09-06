@@ -1,9 +1,9 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-09-05T20:46:20.589583+00:00",
+  "generated_at": "2026-09-06T00:36:38.683037+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
-  "total_count": 67,
+  "total_count": 68,
   "items": [
     {
       "id": "f696472786c36987",
@@ -120,20 +120,20 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
-      "id": "aff16e84708d9992",
+      "id": "1c649f28873bc9fd",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "光通訊與矽光子",
-      "title": "China optical module makers ride AI boom as 800G, 1.6T orders stretch into 2027",
-      "summary": "AI infrastructure expansion is accelerating demand for 800G and 1.6T optical modules, lifting first-half 2026 results across major Chinese suppliers and extending order visibility into 2027.",
-      "original_title": "China optical module makers ride AI boom as 800G, 1.6T orders stretch into 2027",
-      "url": "https://www.digitimes.com/news/a20260903PD216/china-optical-components-expansion-infrastructure-profit-2027.html",
+      "title": "SiPh, optical lens demand ignite laser race",
+      "summary": "Silicon photonics (SiPh) is emerging as a core theme at SEMICON Taiwan 2026, and while the sector is still in an early, fast-growing stage, production-line investments are already under way. As optical makers move into co-packaged optics (CPO), the source and…",
+      "original_title": "SiPh, optical lens demand ignite laser race",
+      "url": "https://www.digitimes.com/news/a20260904PD221/laser-siph-photonics-demand-taiwan.html",
       "source": "Digitimes",
       "domain": "digitimes.com",
-      "published_at": "2026-09-03T01:35:03Z",
-      "importance": 78,
-      "impact": "neutral",
-      "timeframe": "short_to_mid_term",
+      "published_at": "2026-09-04T23:54:36Z",
+      "importance": 73,
+      "impact": "positive",
+      "timeframe": "short_term",
       "tags": [
         "光通訊",
         "CPO",
@@ -155,7 +155,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
+      "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "2d5633083dcf2ebb",
@@ -343,44 +343,6 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
-      "id": "023844159127381d",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "台灣關注關鍵角色，原棕油原料競賽擴大",
-      "summary": "在 2026 年半導體網路高峰會上，來自 Marvell、荷蘭應用科學研究組織霍爾斯特中心、英國半導體中心和台灣半導體工業協會 (TSIA) 的演講者討論了矽光電的未來…",
-      "original_title": "CPO material race widens as Taiwan eyes key role",
-      "url": "https://www.digitimes.com/news/a20260902PD244/2026-taiwan-semicon-marvell-cpo.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-09-02T23:34:47Z",
-      "importance": 68,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "88bb53571e888414",
@@ -573,6 +535,41 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "417a55444ccd9588",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "SK Hynix touts up to 5.15x inference gains with custom HBM",
+      "summary": "SK Hynix is pushing computation deeper into high-bandwidth memory (HBM), saying a custom HBM architecture that places compute functions in the base die could improve large language model inference performance by up to 5.15 times as data movement becomes a gro…",
+      "original_title": "SK Hynix touts up to 5.15x inference gains with custom HBM",
+      "url": "https://www.digitimes.com/news/a20260901VL220/sk-hynix-hbm-capacity-performance-ai-agent-semicon-taiwan.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-09-01T08:53:42Z",
+      "importance": 68,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "750f818fdd3e3e48",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -609,6 +606,41 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "eddca63520a2c819",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "SK Hynix explores Intel as second source for HBM base dies",
+      "summary": "SK Hynix is reportedly considering adding Intel Foundry as a second manufacturing source for high-bandwidth memory (HBM) base dies, a move that could reduce its reliance on TSMC as the logic layer beneath HBM becomes increasingly important to cost, performanc…",
+      "original_title": "SK Hynix explores Intel as second source for HBM base dies",
+      "url": "https://www.digitimes.com/news/a20260831VL222/sk-hynix-hbm-intel-manufacturing-accelerator.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-08-31T23:09:10Z",
+      "importance": 68,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "32a949656f4df985",
@@ -725,32 +757,32 @@
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "f3ead6990fced9ad",
+      "id": "023844159127381d",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "討厭人工智慧資料中心？大型科技公司的新廣告活動旨在改變你的想法",
-      "summary": "A multimillion-dollar campaign is trying to reverse the trend of the public’s growing disdain for AI data centers.",
-      "original_title": "Hate AI Data Centers? Big Tech’s New Ad Campaign Aims to Change Your Mind",
-      "url": "https://www.cnet.com/tech/services-and-software/hate-ai-data-centers-big-techs-new-ad-campaign-will-try-to-change-your-mind/",
-      "source": "CNET",
-      "domain": "cnet.com",
-      "published_at": "2026-09-02T23:06:27Z",
-      "importance": 65,
-      "impact": "positive",
+      "theme": "光通訊與矽光子",
+      "title": "台灣關注關鍵角色，原棕油原料競賽擴大",
+      "summary": "在 2026 年半導體網路高峰會上，來自 Marvell、荷蘭應用科學研究組織霍爾斯特中心、英國半導體中心和台灣半導體工業協會 (TSIA) 的演講者討論了矽光電的未來…",
+      "original_title": "CPO material race widens as Taiwan eyes key role",
+      "url": "https://www.digitimes.com/news/a20260902PD244/2026-taiwan-semicon-marvell-cpo.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-09-02T23:34:47Z",
+      "importance": 63,
+      "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
+        "光通訊",
+        "CPO",
+        "矽光子"
       ],
       "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
       ],
       "related_models": [
         "003",
@@ -760,7 +792,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "8f2a64ae3ab82bc6",
@@ -1210,29 +1242,32 @@
       "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "4f2a2bd0b47df761",
+      "id": "f3ead6990fced9ad",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "Billionaire David Tepper Cut Micron 41% and Kept Buying This AI Chip Stock for a Sixth Quarter",
-      "summary": "Billionaire David Tepper used the second quarter to make a striking trade within the AI hardware chain. Appaloosa Management cut its Micron Technology, Inc....",
-      "original_title": "Billionaire David Tepper Cut Micron 41% and Kept Buying This AI Chip Stock for a Sixth Quarter",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-david-tepper-cut-micron-220154130.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-09-02T22:01:54Z",
+      "theme": "AI伺服器",
+      "title": "討厭人工智慧資料中心？大型科技公司的新廣告活動旨在改變你的想法",
+      "summary": "A multimillion-dollar campaign is trying to reverse the trend of the public’s growing disdain for AI data centers.",
+      "original_title": "Hate AI Data Centers? Big Tech’s New Ad Campaign Aims to Change Your Mind",
+      "url": "https://www.cnet.com/tech/services-and-software/hate-ai-data-centers-big-techs-new-ad-campaign-will-try-to-change-your-mind/",
+      "source": "CNET",
+      "domain": "cnet.com",
+      "published_at": "2026-09-02T23:06:27Z",
       "importance": 60,
-      "impact": "neutral",
+      "impact": "positive",
       "timeframe": "short_term",
       "tags": [
-        "HBM",
-        "記憶體"
+        "AI",
+        "伺服器",
+        "資料中心"
       ],
       "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
       ],
       "related_models": [
         "003",
@@ -1242,7 +1277,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "9ff514f36748e583",
@@ -1281,6 +1316,41 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "6b4bf4d365c106ed",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "億萬富翁 Philippe Laffont 將美光的股價增加了 19 倍，亞馬遜的股價也增加了 49%。這是一場巨大的人工智慧需求賭注嗎？",
+      "summary": "億萬富翁 Philippe Laffont 在人工智慧供應鏈的兩端做出了 Coatue Management 第二季度最具啟發性的兩項舉措。基金增加...",
+      "original_title": "Billionaire Philippe Laffont Increased Micron 19-Fold and Added 49% to Amazon. Is This One Giant AI Demand Bet?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-philippe-laffont-increased-micron-105607340.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-09-02T10:56:07Z",
+      "importance": 60,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "1652715415acd677",
@@ -1774,6 +1844,41 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "4f2a2bd0b47df761",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "Billionaire David Tepper Cut Micron 41% and Kept Buying This AI Chip Stock for a Sixth Quarter",
+      "summary": "Billionaire David Tepper used the second quarter to make a striking trade within the AI hardware chain. Appaloosa Management cut its Micron Technology, Inc....",
+      "original_title": "Billionaire David Tepper Cut Micron 41% and Kept Buying This AI Chip Stock for a Sixth Quarter",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-david-tepper-cut-micron-220154130.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-09-02T22:01:54Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "e5fa817227a6b925",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2151,41 +2256,6 @@
       "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "b808e1abdec3e5ee",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "記憶體目前佔全球半導體收入的 50% — 但有一個問題",
-      "summary": "人工智慧已將記憶體從繁榮與蕭條的商品轉變為關鍵基礎設施，將預測提高到幾年前看似荒謬的水平...",
-      "original_title": "Memory Now Accounts for 50% of Global Semiconductor Revenue — But There’s a Catch",
-      "url": "https://247wallst.com/investing/2026/08/29/memory-now-accounts-for-50-of-global-semiconductor-revenue-but-theres-a-catch/",
-      "source": "24/7 Wall St.",
-      "domain": "247wallst.com",
-      "published_at": "2026-08-29T16:06:49Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "d089a28ef783f500",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2488,41 +2558,6 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "14a992314d6de9c5",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "中國內存製造商長鑫儲存起訴五角大廈，要求從美國名單中除名",
-      "summary": "長鑫儲存已在華盛頓起訴美國國防部，要求將其從中國軍事公司的名單中刪除，該名單將阻止國防合約而不限製商業銷售。該公司是全球第四大 DR...",
-      "original_title": "Chinese memory maker CXMT sues Pentagon to get off US list",
-      "url": "https://thenextweb.com/news/cxmt-sues-pentagon-1260h-list-europe-memory-dram",
-      "source": "The Next Web",
-      "domain": "thenextweb.com",
-      "published_at": "2026-08-29T15:48:09Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     }
   ]
 }
