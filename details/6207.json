@@ -1,7 +1,7 @@
 {
   "id": "6207",
   "name": "雷科",
-  "lastUpdated": "2026-09-05 19:04:40",
+  "lastUpdated": "2026-09-06 19:28:18",
   "basicInfo": {
     "price": "111.00",
     "change": "7.00",
@@ -265,6 +265,15 @@
     ],
     "cashflow_table": [
       {
+        "period": "2026Q2",
+        "ocf_m": 128.785,
+        "capex_m": -10.805,
+        "fcf_m": 117.98,
+        "ocf": 128.785,
+        "capex": -10.805,
+        "fcf": 117.98
+      },
+      {
         "period": "2026Q1",
         "ocf_m": 0.619,
         "capex_m": -2.947,
@@ -283,6 +292,15 @@
         "fcf": 5.492
       },
       {
+        "period": "2025Q3",
+        "ocf_m": null,
+        "capex_m": null,
+        "fcf_m": null,
+        "ocf": null,
+        "capex": null,
+        "fcf": null
+      },
+      {
         "period": "2025Q2",
         "ocf_m": 62.558,
         "capex_m": -7.75,
@@ -290,27 +308,18 @@
         "ocf": 62.558,
         "capex": -7.75,
         "fcf": 54.808
-      },
-      {
-        "period": "2025Q1",
-        "ocf_m": 19.123,
-        "capex_m": -1.242,
-        "fcf_m": 17.881,
-        "ocf": 19.123,
-        "capex": -1.242,
-        "fcf": 17.881
-      },
-      {
-        "period": "2024Q4",
-        "ocf_m": 109.476,
-        "capex_m": -0.491,
-        "fcf_m": 108.985,
-        "ocf": 109.476,
-        "capex": -0.491,
-        "fcf": 108.985
       }
     ],
     "quality_table": [
+      {
+        "period": "2026Q2",
+        "net_income_m": 85.236,
+        "ocf_m": 128.785,
+        "cash_ratio_pct": 151.09226148575718,
+        "net_income": 85.236,
+        "ocf": 128.785,
+        "ratio": 151.09226148575718
+      },
       {
         "period": "2026Q1",
         "net_income_m": 5.018,
@@ -330,6 +339,15 @@
         "ratio": 212.42149337055133
       },
       {
+        "period": "2025Q3",
+        "net_income_m": null,
+        "ocf_m": null,
+        "cash_ratio_pct": null,
+        "net_income": null,
+        "ocf": null,
+        "ratio": null
+      },
+      {
         "period": "2025Q2",
         "net_income_m": -4.97,
         "ocf_m": 62.558,
@@ -337,27 +355,22 @@
         "net_income": -4.97,
         "ocf": 62.558,
         "ratio": -1258.7122736418512
-      },
-      {
-        "period": "2025Q1",
-        "net_income_m": 26.599,
-        "ocf_m": 19.123,
-        "cash_ratio_pct": 71.89368021354187,
-        "net_income": 26.599,
-        "ocf": 19.123,
-        "ratio": 71.89368021354187
-      },
-      {
-        "period": "2024Q4",
-        "net_income_m": 36.867,
-        "ocf_m": 109.476,
-        "cash_ratio_pct": 296.94849051997727,
-        "net_income": 36.867,
-        "ocf": 109.476,
-        "ratio": 296.94849051997727
       }
     ],
     "kpi_table": [
+      {
+        "period": "2026Q2",
+        "opm_pct": 4.3965382158311535,
+        "roe_pct": 3.0473698040961232,
+        "roa_pct": 1.8603595394280938,
+        "fcf_100m": 1.1798,
+        "net_income_100m": 0.85236,
+        "opm": 4.3965382158311535,
+        "roe": 3.0473698040961232,
+        "roa": 1.8603595394280938,
+        "fcf_b": 1.1798,
+        "net_b": 0.85236
+      },
       {
         "period": "2026Q1",
         "opm_pct": 7.107306463621726,
@@ -385,6 +398,19 @@
         "net_b": 0.15763
       },
       {
+        "period": "2025Q3",
+        "opm_pct": null,
+        "roe_pct": null,
+        "roa_pct": null,
+        "fcf_100m": null,
+        "net_income_100m": null,
+        "opm": null,
+        "roe": null,
+        "roa": null,
+        "fcf_b": null,
+        "net_b": null
+      },
+      {
         "period": "2025Q2",
         "opm_pct": 5.428781316376425,
         "roe_pct": -0.29508455627179364,
@@ -396,35 +422,22 @@
         "roa": -0.1288430952933384,
         "fcf_b": 0.54808,
         "net_b": -0.0497
-      },
-      {
-        "period": "2025Q1",
-        "opm_pct": 8.791843085516387,
-        "roe_pct": 1.3853458234419742,
-        "roa_pct": 0.6530923119305792,
-        "fcf_100m": 0.17881,
-        "net_income_100m": 0.26599,
-        "opm": 8.791843085516387,
-        "roe": 1.3853458234419742,
-        "roa": 0.6530923119305792,
-        "fcf_b": 0.17881,
-        "net_b": 0.26599
-      },
-      {
-        "period": "2024Q4",
-        "opm_pct": 11.338204318062138,
-        "roe_pct": 1.85727959697733,
-        "roa_pct": 0.8876325176818651,
-        "fcf_100m": 1.08985,
-        "net_income_100m": 0.36867,
-        "opm": 11.338204318062138,
-        "roe": 1.85727959697733,
-        "roa": 0.8876325176818651,
-        "fcf_b": 1.08985,
-        "net_b": 0.36867
       }
     ],
     "structure_table": [
+      {
+        "period": "2026Q2",
+        "total_assets_b": 45.81695,
+        "equity_b": 27.97035,
+        "debt_ratio_pct": 38.917714950471385,
+        "current_liab_b": 14.51347,
+        "doi_days": 73.5393624572498,
+        "assets": 45.81695,
+        "equity": 27.97035,
+        "debt": 38.917714950471385,
+        "cliab": 14.51347,
+        "doi": 73.5393624572498
+      },
       {
         "period": "2026Q1",
         "total_assets_b": 43.46004,
@@ -452,6 +465,19 @@
         "doi": 99.18810471178588
       },
       {
+        "period": "2025Q3",
+        "total_assets_b": null,
+        "equity_b": null,
+        "debt_ratio_pct": null,
+        "current_liab_b": null,
+        "doi_days": null,
+        "assets": null,
+        "equity": null,
+        "debt": null,
+        "cliab": null,
+        "doi": null
+      },
+      {
         "period": "2025Q2",
         "total_assets_b": 38.57405,
         "equity_b": 16.84263,
@@ -463,32 +489,6 @@
         "debt": 56.25032891283129,
         "cliab": 18.80368,
         "doi": 82.14553351378801
-      },
-      {
-        "period": "2025Q1",
-        "total_assets_b": 40.72778,
-        "equity_b": 19.20026,
-        "debt_ratio_pct": 52.790527742980345,
-        "current_liab_b": 18.34184,
-        "doi_days": 106.57932497647239,
-        "assets": 40.72778,
-        "equity": 19.20026,
-        "debt": 52.790527742980345,
-        "cliab": 18.34184,
-        "doi": 106.57932497647239
-      },
-      {
-        "period": "2024Q4",
-        "total_assets_b": 41.53408,
-        "equity_b": 19.85,
-        "debt_ratio_pct": 52.13472887806832,
-        "current_liab_b": 18.16109,
-        "doi_days": 73.39030710817667,
-        "assets": 41.53408,
-        "equity": 19.85,
-        "debt": 52.13472887806832,
-        "cliab": 18.16109,
-        "doi": 73.39030710817667
       }
     ],
     "pe_table": [
@@ -706,12 +706,12 @@
       },
       {
         "year": 2023,
-        "return_pct": 34.82834771833909,
+        "return_pct": 34.82833651789405,
         "period": "01/03~12/29"
       },
       {
         "year": 2022,
-        "return_pct": -33.56642805266621,
+        "return_pct": -33.56643352814351,
         "period": "01/03~12/30"
       }
     ],
