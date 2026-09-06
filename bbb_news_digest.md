@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-06T05:19:10.857678+00:00
+> 更新時間：2026-09-06T09:33:01.029860+00:00
 
 ### 🚀 Silicon photonics testing shift could reshape how CPO suppliers win business
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
