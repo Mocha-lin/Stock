@@ -1,14 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-07T00:42:46.056050+00:00
-
-### 🚀 Silicon photonics testing shift could reshape how CPO suppliers win business
-- **題材**: `光通訊與矽光子` | **重要性**: `83`
-- **來源**: Digitimes (2026-09-04T02:12:47Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: As silicon photonics (SiPh) and co-packaged optics (CPO) move toward mass production, suppliers say testing is shifting earlier in the process to catch defects at the wafer stage, protect yields, and preserve data through final assembly. That change is also p…
-- [原文連結](https://www.digitimes.com/news/a20260904PD209/cpo-siph-wafer-testing.html)
-
----
+> 更新時間：2026-09-07T05:27:52.064322+00:00
 
 ### ⚠️ 隨著 CoPoS 計劃的成形，台積電推遲了 CoWoS 訂單
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -28,21 +19,21 @@
 
 ---
 
+### 🚀 Silicon photonics testing shift could reshape how CPO suppliers win business
+- **題材**: `光通訊與矽光子` | **重要性**: `78`
+- **來源**: Digitimes (2026-09-04T02:12:47Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: As silicon photonics (SiPh) and co-packaged optics (CPO) move toward mass production, suppliers say testing is shifting earlier in the process to catch defects at the wafer stage, protect yields, and preserve data through final assembly. That change is also p…
+- [原文連結](https://www.digitimes.com/news/a20260904PD209/cpo-siph-wafer-testing.html)
+
+---
+
 ### 🚀 SiPh, optical lens demand ignite laser race
 - **題材**: `光通訊與矽光子` | **重要性**: `73`
 - **來源**: Digitimes (2026-09-04T23:54:36Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Silicon photonics (SiPh) is emerging as a core theme at SEMICON Taiwan 2026, and while the sector is still in an early, fast-growing stage, production-line investments are already under way. As optical makers move into co-packaged optics (CPO), the source and…
 - [原文連結](https://www.digitimes.com/news/a20260904PD221/laser-siph-photonics-demand-taiwan.html)
-
----
-
-### ⚖️ Micron reportedly targets 2× HBM capacity by end-2026; Samsung, SK Hynix keep the scale edge
-- **題材**: `HBM記憶體` | **重要性**: `73`
-- **來源**: Digitimes (2026-09-04T03:58:39Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Micron is reportedly preparing to roughly double its high-bandwidth memory capacity by the end of 2026, targeting about 100,000 wafers a month while sharply increasing 12-high HBM4 output for Nvidia's Vera Rubin AI platform.
-- [原文連結](https://www.digitimes.com/news/a20260904VL206/micron-hbm-capacity-sk-hynix-samsung.html)
 
 ---
 
@@ -79,6 +70,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Credo Technology Group (NASDAQ:CRDO) reported record fiscal first-quarter 2027 revenue of $479 million, up 10% sequentially and 115% from a year earlier, as...
 - [原文連結](https://www.marketbeat.com/instant-alerts/transcript-credo-technology-group-q1-earnings-call-highlights-2026-09-01/?utm_source=yahoofinance&amp;utm_medium=yahoofinance)
+
+---
+
+### ⚖️ Micron reportedly targets 2× HBM capacity by end-2026; Samsung, SK Hynix keep the scale edge
+- **題材**: `HBM記憶體` | **重要性**: `68`
+- **來源**: Digitimes (2026-09-04T03:58:39Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Micron is reportedly preparing to roughly double its high-bandwidth memory capacity by the end of 2026, targeting about 100,000 wafers a month while sharply increasing 12-high HBM4 output for Nvidia's Vera Rubin AI platform.
+- [原文連結](https://www.digitimes.com/news/a20260904VL206/micron-hbm-capacity-sk-hynix-samsung.html)
 
 ---
 
@@ -172,12 +172,12 @@
 
 ---
 
-### 🚀 Starman Optical 合併和 Markiplier 入股後，GoPro 的變焦倍率提高了 34%； Coherent 上漲 7%，Lumentum 上漲 3%
-- **題材**: `光通訊與矽光子` | **重要性**: `65`
-- **來源**: 24/7 Wall St. (2026-09-04T16:20:33Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: GoPro is surging on a merger that turns a camera company into an optical-transceiver play, and a famous YouTuber just became its largest individual sharehold...
-- [原文連結](https://247wallst.com/investing/2026/09/04/gopro-zooms-34-higher-on-starman-optical-merger-and-markiplier-stake-coherent-climbs-7-lumentum-gains-3/)
+### 🚀 韓國今年迄今出口額突破全年紀錄，達 7,094 億美元
+- **題材**: `HBM記憶體` | **重要性**: `65`
+- **來源**: Yahoo Entertainment (2026-09-05T06:47:29Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: SEOUL, Sept 5 (Reuters) - South Korea's exports have reached $709.4 billion so far this year, surpassing last year's annual record, the customs office said o...
+- [原文連結](https://finance.yahoo.com/economy/articles/south-korea-exports-surpass-full-061313000.html)
 
 ---
 
