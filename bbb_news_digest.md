@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-07T10:36:07.446884+00:00
+> 更新時間：2026-09-07T14:49:39.384285+00:00
 
 ### ⚠️ 隨著 CoPoS 計劃的成形，台積電推遲了 CoWoS 訂單
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -127,15 +127,6 @@
 
 ---
 
-### ⚖️ SK Hynix touts up to 5.15x inference gains with custom HBM
-- **題材**: `HBM記憶體` | **重要性**: `68`
-- **來源**: Digitimes (2026-09-01T08:53:42Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: SK Hynix is pushing computation deeper into high-bandwidth memory (HBM), saying a custom HBM architecture that places compute functions in the base die could improve large language model inference performance by up to 5.15 times as data movement becomes a gro…
-- [原文連結](https://www.digitimes.com/news/a20260901VL220/sk-hynix-hbm-capacity-performance-ai-agent-semicon-taiwan.html)
-
----
-
 ### ⚖️ Marvell CTO：功率和密度瓶頸正在推動 CPO 在 AI 資料中心的採用
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
 - **來源**: Digitimes (2026-09-01T06:55:00Z)
@@ -178,6 +169,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: GoPro is surging on a merger that turns a camera company into an optical-transceiver play, and a famous YouTuber just became its largest individual sharehold...
 - [原文連結](https://247wallst.com/investing/2026/09/04/gopro-zooms-34-higher-on-starman-optical-merger-and-markiplier-stake-coherent-climbs-7-lumentum-gains-3/)
+
+---
+
+### ⚖️ 台灣關注關鍵角色，原棕油原料競賽擴大
+- **題材**: `光通訊與矽光子` | **重要性**: `63`
+- **來源**: Digitimes (2026-09-02T23:34:47Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 在 2026 年半導體網路高峰會上，來自 Marvell、荷蘭應用科學研究組織霍爾斯特中心、英國半導體中心和台灣半導體工業協會 (TSIA) 的演講者討論了矽光電的未來…
+- [原文連結](https://www.digitimes.com/news/a20260902PD244/2026-taiwan-semicon-marvell-cpo.html)
 
 ---
 
