@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-06T20:53:38.246376+00:00
+> 更新時間：2026-09-07T00:42:46.056050+00:00
 
 ### 🚀 Silicon photonics testing shift could reshape how CPO suppliers win business
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -109,6 +109,15 @@
 
 ---
 
+### ⚖️ Hardware isn't the problem — TSMC exec flags software, substrate gaps in 3D IC
+- **題材**: `半導體先進製程` | **重要性**: `68`
+- **來源**: Digitimes (2026-09-02T03:51:38Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Speaking at the SEMI 3DIC Advanced Manufacturing Alliance (3DICAMA) Global Summit on September 1, Jun He, TSMC Vice President of Advanced Packaging Technology and Service, noted that while the advanced packaging sector offers massive commercial opportunities …
+- [原文連結](https://www.digitimes.com/news/a20260902PD230/semi-tsmc-hardware-software-3d-ic.html)
+
+---
+
 ### ⚖️ 聯電瞄準12吋TFLN突破400G SiPh瓶頸
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
 - **來源**: Digitimes (2026-09-02T00:33:04Z)
@@ -160,15 +169,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: SEMICON Taiwan 2026 kicked off its pre-show program with the Silicon Photonics Global Summit.
 - [原文連結](https://www.digitimes.com/news/a20260831PD223/2026-taiwan-cpo-ase-siph.html)
-
----
-
-### ⚖️ 播客亮點：小米的 3nm 晶片上限、馬來西亞的 HBM 以及英偉達的利潤權衡
-- **題材**: `半導體先進製程` | **重要性**: `68`
-- **來源**: Digitimes (2026-08-30T23:25:00Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 小米自研晶片能達到2nm嗎？ HBM 重路由馬來西亞台積電是否給英特爾通行證？ Nvidia 能否維持 75% 的毛利率或保護市場佔有率？在 Apple 9 月 10 日的活動之前，活動前的技術平靜期一點也不平靜，DIGITIMES ......
-- [原文連結](https://www.digitimes.com/news/a20260828PD237/xiaomi-hbm-malaysia-nvidia-tsmc-chips.html)
 
 ---
 
