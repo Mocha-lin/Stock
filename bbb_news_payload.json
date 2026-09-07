@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-09-07T05:27:52.064322+00:00",
+  "generated_at": "2026-09-07T10:36:07.446884+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 69,
@@ -131,44 +131,6 @@
       "source": "Digitimes",
       "domain": "digitimes.com",
       "published_at": "2026-09-04T23:54:36Z",
-      "importance": 73,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
-      "id": "13d49b9752038ca2",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "台積電預計 SiPh 將在 2027 年成為主流",
-      "summary": "K.C.表示，隨著AI橫向擴展推動光模組需求爆發式成長，矽光子（SiPh）將在2027年成為主流，市佔率將突破50%。台積電先進封裝技術開發副總裁 Hsu 在 Silicon Photo...",
-      "original_title": "TSMC sees SiPh going mainstream in 2027",
-      "url": "https://www.digitimes.com/news/a20260831PD217/siph-2027-photonics-tsmc-market-share.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-08-31T08:28:42Z",
       "importance": 73,
       "impact": "positive",
       "timeframe": "short_term",
@@ -681,19 +643,19 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "32a949656f4df985",
+      "id": "13d49b9752038ca2",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "光通訊與矽光子",
-      "title": "ASE: CPO scale-out demands deeper supply-chain coordination for mass production",
-      "summary": "SEMICON Taiwan 2026 kicked off its pre-show program with the Silicon Photonics Global Summit.",
-      "original_title": "ASE: CPO scale-out demands deeper supply-chain coordination for mass production",
-      "url": "https://www.digitimes.com/news/a20260831PD223/2026-taiwan-cpo-ase-siph.html",
+      "title": "台積電預計 SiPh 將在 2027 年成為主流",
+      "summary": "K.C.表示，隨著AI橫向擴展推動光模組需求爆發式成長，矽光子（SiPh）將在2027年成為主流，市佔率將突破50%。台積電先進封裝技術開發副總裁 Hsu 在 Silicon Photo...",
+      "original_title": "TSMC sees SiPh going mainstream in 2027",
+      "url": "https://www.digitimes.com/news/a20260831PD217/siph-2027-photonics-tsmc-market-share.html",
       "source": "Digitimes",
       "domain": "digitimes.com",
-      "published_at": "2026-08-31T08:06:39Z",
+      "published_at": "2026-08-31T08:28:42Z",
       "importance": 68,
-      "impact": "neutral",
+      "impact": "positive",
       "timeframe": "short_term",
       "tags": [
         "光通訊",
@@ -716,7 +678,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "57bdbd9c00fd4679",
@@ -903,6 +865,44 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "32a949656f4df985",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "ASE: CPO scale-out demands deeper supply-chain coordination for mass production",
+      "summary": "SEMICON Taiwan 2026 kicked off its pre-show program with the Silicon Photonics Global Summit.",
+      "original_title": "ASE: CPO scale-out demands deeper supply-chain coordination for mass production",
+      "url": "https://www.digitimes.com/news/a20260831PD223/2026-taiwan-cpo-ase-siph.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-08-31T08:06:39Z",
+      "importance": 63,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "e22ba4d3c59f26ef",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -939,6 +939,44 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "a6059e24e8366719",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "遊戲機製造商表示買家無須獲得關稅退款",
+      "summary": "索尼、微軟和任天堂都已採取行動，駁回集體訴訟，這些訴訟主張他們應該將美國關稅退款退還給遊戲機買家，稱客戶支付了廣告價格並獲得了可用的遊戲機。歐洲買家吸收了同樣的成長，但有…",
+      "original_title": "Console makers say buyers are owed nothing from their tariff refunds",
+      "url": "https://thenextweb.com/news/console-makers-fight-tariff-refunds",
+      "source": "The Next Web",
+      "domain": "thenextweb.com",
+      "published_at": "2026-09-06T09:54:58Z",
+      "importance": 60,
+      "impact": "negative",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "0b1f70077a12ad15",
@@ -1088,82 +1126,6 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "04b628b7ba0522f7",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "美國柴油價格創歷史新高",
-      "summary": "自二月底伊朗衝突爆發以來，燃料價格飆升，反映出批發石油價格的飆升。",
-      "original_title": "US diesel prices hit an all-time-high",
-      "url": "https://www.bbc.co.uk/news/articles/c7903r0grx0o",
-      "source": "BBC News",
-      "domain": "bbc.co.uk",
-      "published_at": "2026-09-04T09:59:50Z",
-      "importance": 60,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "20fcb01c5a4a221d",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "隨著關稅威脅加劇，韓國確認與美國進行晶片投資談判",
-      "summary": "韓國就其晶片製造商的關稅保護進行了談判，而華盛頓無論如何都在向美國工廠施壓。首爾的一位總統官員證實，半導體投資現已成為兩國政府之間更廣泛談判的一部分。該…",
-      "original_title": "South Korea confirms chip investment talks with US as tariff threat grows",
-      "url": "https://thenextweb.com/news/south-korea-us-chip-investment-tariff-talks",
-      "source": "The Next Web",
-      "domain": "thenextweb.com",
-      "published_at": "2026-09-04T09:28:30Z",
-      "importance": 60,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "f3ead6990fced9ad",
@@ -1429,19 +1391,19 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "d593e98ec4f682c4",
+      "id": "04b628b7ba0522f7",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "總體風險",
-      "title": "Jobs report to show whether hiring bounced back from unexpected job loss",
-      "summary": "A jobs report on Friday is set to provide a key gauge of the U.S. economy as shoppers weather elevated inflation and central bankers weigh a possible interest rate hike.",
-      "original_title": "Jobs report to show whether hiring bounced back from unexpected job loss",
-      "url": "https://abcnews.com/Business/jobs-report-show-hiring-bounced-back-unexpected-job/story?id=136168560",
-      "source": "Abcnews.com",
-      "domain": "abcnews.com",
-      "published_at": "2026-09-04T09:01:44Z",
+      "title": "美國柴油價格創歷史新高",
+      "summary": "自二月底伊朗衝突爆發以來，燃料價格飆升，反映出批發石油價格的飆升。",
+      "original_title": "US diesel prices hit an all-time-high",
+      "url": "https://www.bbc.co.uk/news/articles/c7903r0grx0o",
+      "source": "BBC News",
+      "domain": "bbc.co.uk",
+      "published_at": "2026-09-04T09:59:50Z",
       "importance": 55,
-      "impact": "neutral",
+      "impact": "positive",
       "timeframe": "short_term",
       "tags": [
         "總體",
@@ -1464,35 +1426,35 @@
         "009",
         "010"
       ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "53a698c248f628de",
+      "id": "20fcb01c5a4a221d",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "Russia’s Sechin says China, not OPEC, calls shots on global energy markets",
-      "summary": "VLADIVOSTOK, Sept 4 (Reuters) - Igor Sechin, chief of Russia’s top oil producer Rosneft, said on Thursday that China, not OPEC, has stabilized global oil mar...",
-      "original_title": "Russia’s Sechin says China, not OPEC, calls shots on global energy markets",
-      "url": "https://www.yahoo.com/news/articles/russia-sechin-says-china-not-065030885.html",
-      "source": "Yahoo Entertainment",
-      "domain": "yahoo.com",
-      "published_at": "2026-09-04T06:50:30Z",
+      "theme": "半導體先進製程",
+      "title": "隨著關稅威脅加劇，韓國確認與美國進行晶片投資談判",
+      "summary": "韓國就其晶片製造商的關稅保護進行了談判，而華盛頓無論如何都在向美國工廠施壓。首爾的一位總統官員證實，半導體投資現已成為兩國政府之間更廣泛談判的一部分。該…",
+      "original_title": "South Korea confirms chip investment talks with US as tariff threat grows",
+      "url": "https://thenextweb.com/news/south-korea-us-chip-investment-tariff-talks",
+      "source": "The Next Web",
+      "domain": "thenextweb.com",
+      "published_at": "2026-09-04T09:28:30Z",
       "importance": 55,
-      "impact": "neutral",
+      "impact": "negative",
       "timeframe": "short_term",
       "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
+        "半導體",
+        "CoWoS",
+        "先進製程"
       ],
       "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
       ],
       "related_models": [
         "003",
@@ -1502,7 +1464,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「半導體先進製程」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "7b022873da15fa32",
@@ -2140,6 +2102,44 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "53a698c248f628de",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "Russia’s Sechin says China, not OPEC, calls shots on global energy markets",
+      "summary": "VLADIVOSTOK, Sept 4 (Reuters) - Igor Sechin, chief of Russia’s top oil producer Rosneft, said on Thursday that China, not OPEC, has stabilized global oil mar...",
+      "original_title": "Russia’s Sechin says China, not OPEC, calls shots on global energy markets",
+      "url": "https://www.yahoo.com/news/articles/russia-sechin-says-china-not-065030885.html",
+      "source": "Yahoo Entertainment",
+      "domain": "yahoo.com",
+      "published_at": "2026-09-04T06:50:30Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "a9e478dd6c13ff14",
