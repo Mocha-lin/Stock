@@ -1,5 +1,14 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-07T21:49:07.774861+00:00
+> 更新時間：2026-09-08T00:56:20.097515+00:00
+
+### 🚀 播客亮點：SoIC 與 CoWoS、HBM5 混合鍵結以及 EMIB-T 的良率問題
+- **題材**: `半導體先進製程` | **重要性**: `88`
+- **來源**: Digitimes (2026-09-05T20:17:00Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重大事件】可能顯著影響產業評價、EPS預期或資金流向。
+- **摘要**: DIGITIMES 分析師 Luke Lin 在播客中表示，混合鍵合在 2026 年台灣 SEMICON 上引起了新的關注，並可能成為 2027 年至 2028 年先進封裝產能擴張的關鍵驅動力。
+- [原文連結](https://www.digitimes.com/news/a20260904PD233/packaging-digitimes-expansion-2026-sram.html)
+
+---
 
 ### ⚠️ 隨著 CoPoS 計劃的成形，台積電推遲了 CoWoS 訂單
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -7,15 +16,6 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: TSMC's reported delay in placing 2027 advanced packaging equipment orders has sparked market speculation that the company sees excess CoWoS capacity ahead. But equipment suppliers say CoWoS demand has not weakened, and TSMC's real challenge is instead how to …
 - [原文連結](https://www.digitimes.com/news/a20260901PD219/tsmc-cowos-equipment-packaging-capacity.html)
-
----
-
-### ⚖️ Luxnet eyes orders through 2028, DCI revenue set to double in 2027
-- **題材**: `光通訊與矽光子` | **重要性**: `83`
-- **來源**: Digitimes (2026-08-31T23:11:22Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: AI驅動的光模組需求快速上升，LuxNet表示2026年下半年業務將較上半年大幅成長。隨著 2027 年產能上線，資料中心互連 (DCI) 產品的收入將持續成長…
-- [原文連結](https://www.digitimes.com/news/a20260831PD224/2027-revenue-2028-demand-2026.html)
 
 ---
 
@@ -28,12 +28,30 @@
 
 ---
 
-### 🚀 SiPh, optical lens demand ignite laser race
+### ⚖️ 台荷矽光子團隊目標2026年1.6T DR8，下一步3.2T光鏈路
 - **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-09-04T23:54:36Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Silicon photonics (SiPh) is emerging as a core theme at SEMICON Taiwan 2026, and while the sector is still in an early, fast-growing stage, production-line investments are already under way. As optical makers move into co-packaged optics (CPO), the source and…
-- [原文連結](https://www.digitimes.com/news/a20260904PD221/laser-siph-photonics-demand-taiwan.html)
+- **來源**: Digitimes (2026-09-06T23:40:22Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 人工智慧資料中心的需求正在加速向更快的光互連的轉變，將傳輸速度、功率效率和封裝整合置於下一代光通訊的中心。台灣力吉電子與畜牧科技…
+- [原文連結](https://www.digitimes.com/news/a20260904PD230/photonics-silicon-2026-data-center-packaging.html)
+
+---
+
+### ⚖️ MSScorps 8 月營收因矽光子學收益再創新高
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-09-04T06:31:46Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 隨著全球人工智慧 (AI) 運算能力持續擴大，推動對先進製程技術、高效能運算 (HPC)、先進封裝和高速運算的需求，MSScorps 2026 年 8 月收入創下單月新高。
+- [原文連結](https://www.digitimes.com/news/a20260904PD200/msscorps-siph-revenue-2026.html)
+
+---
+
+### ⚖️ 中國光模組製造商乘人工智慧熱潮，800G、1.6T訂單延續至2027年
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-09-03T01:35:03Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 人工智慧基礎設施的擴張正在加速對 800G 和 1.6T 光模組的需求，提升中國主要供應商 2026 年上半年的業績，並將訂單可見性延長至 2027 年。
+- [原文連結](https://www.digitimes.com/news/a20260903PD216/china-optical-components-expansion-infrastructure-profit-2027.html)
 
 ---
 
@@ -61,6 +79,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Credo Technology Group (NASDAQ:CRDO) reported record fiscal first-quarter 2027 revenue of $479 million, up 10% sequentially and 115% from a year earlier, as...
 - [原文連結](https://www.marketbeat.com/instant-alerts/transcript-credo-technology-group-q1-earnings-call-highlights-2026-09-01/?utm_source=yahoofinance&amp;utm_medium=yahoofinance)
+
+---
+
+### 🚀 SiPh, optical lens demand ignite laser race
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-09-04T23:54:36Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Silicon photonics (SiPh) is emerging as a core theme at SEMICON Taiwan 2026, and while the sector is still in an early, fast-growing stage, production-line investments are already under way. As optical makers move into co-packaged optics (CPO), the source and…
+- [原文連結](https://www.digitimes.com/news/a20260904PD221/laser-siph-photonics-demand-taiwan.html)
 
 ---
 
@@ -109,6 +136,15 @@
 
 ---
 
+### 🚀 Gemtek 深化與印度 Dixon Technologies 的合作夥伴關係，以擴大光收發器和連接足跡
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-09-02T01:30:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Gemtek Technology宣布，將透過在印度的合資企業深化與印度Dixon Technologies的策略合作，擴大其光收發器、雙向光組件（B…
+- [原文連結](https://www.digitimes.com/news/a20260901PD247/gemtek-dixon-manufacturing-market-joint-venture.html)
+
+---
+
 ### ⚖️ 聯電瞄準12吋TFLN突破400G SiPh瓶頸
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
 - **來源**: Digitimes (2026-09-02T00:33:04Z)
@@ -127,57 +163,21 @@
 
 ---
 
+### ⚖️ SK Hynix 透過客製化 HBM 實現高達 5.15 倍的推理增益
+- **題材**: `HBM記憶體` | **重要性**: `68`
+- **來源**: Digitimes (2026-09-01T08:53:42Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: SK Hynix 正在將運算更深入地推向高頻寬記憶體 (HBM)，表示隨著資料移動變得越來越普遍，將運算功能放置在基礎晶片中的客製化 HBM 架構可以將大型語言模型推理效能提高高達 5.15 倍。
+- [原文連結](https://www.digitimes.com/news/a20260901VL220/sk-hynix-hbm-capacity-performance-ai-agent-semicon-taiwan.html)
+
+---
+
 ### ⚖️ Marvell CTO：功率和密度瓶頸正在推動 CPO 在 AI 資料中心的採用
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
 - **來源**: Digitimes (2026-09-01T06:55:00Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Marvell Technology 技術長 Radha Nagarajan 在 2026 年台灣半導體展之前的矽光子全球高峰會上發表演說時強調，AI 資料中心時代升級連結的核心焦點已堅定地轉向功耗。他指出，...
 - [原文連結](https://www.digitimes.com/news/a20260901PD231/marvell-cpo-siph-adoption-semicon-taiwan.html)
-
----
-
-### ⚖️ SK Hynix explores Intel as second source for HBM base dies
-- **題材**: `HBM記憶體` | **重要性**: `68`
-- **來源**: Digitimes (2026-08-31T23:09:10Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: SK Hynix is reportedly considering adding Intel Foundry as a second manufacturing source for high-bandwidth memory (HBM) base dies, a move that could reduce its reliance on TSMC as the logic layer beneath HBM becomes increasingly important to cost, performanc…
-- [原文連結](https://www.digitimes.com/news/a20260831VL222/sk-hynix-hbm-intel-manufacturing-accelerator.html)
-
----
-
-### 🚀 台積電預計 SiPh 將在 2027 年成為主流
-- **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-08-31T08:28:42Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: K.C.表示，隨著AI橫向擴展推動光模組需求爆發式成長，矽光子（SiPh）將在2027年成為主流，市佔率將突破50%。台積電先進封裝技術開發副總裁 Hsu 在 Silicon Photo...
-- [原文連結](https://www.digitimes.com/news/a20260831PD217/siph-2027-photonics-tsmc-market-share.html)
-
----
-
-### 🚀 韓國今年迄今出口額突破全年紀錄，達 7,094 億美元
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: Yahoo Entertainment (2026-09-05T06:47:29Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: SEOUL, Sept 5 (Reuters) - South Korea's exports have reached $709.4 billion so far this year, surpassing last year's annual record, the customs office said o...
-- [原文連結](https://finance.yahoo.com/economy/articles/south-korea-exports-surpass-full-061313000.html)
-
----
-
-### ⚖️ 台灣關注關鍵角色，原棕油原料競賽擴大
-- **題材**: `光通訊與矽光子` | **重要性**: `63`
-- **來源**: Digitimes (2026-09-02T23:34:47Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 在 2026 年半導體網路高峰會上，來自 Marvell、荷蘭應用科學研究組織霍爾斯特中心、英國半導體中心和台灣半導體工業協會 (TSIA) 的演講者討論了矽光電的未來…
-- [原文連結](https://www.digitimes.com/news/a20260902PD244/2026-taiwan-semicon-marvell-cpo.html)
-
----
-
-### ⚖️ DRAM giants target 3D stacking to break memory wall and power bottlenecks
-- **題材**: `HBM記憶體` | **重要性**: `63`
-- **來源**: Digitimes (2026-09-02T08:45:00Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: At a shared stage at Semicon Taiwan 2026, executives from Samsung Electronics, SK Hynix, and Micron agreed that traditional 2.5D high-bandwidth memory (HBM) using interposers is approaching a performance ceiling. Consequently, the industry is transitioning to…
-- [原文連結](https://www.digitimes.com/news/a20260902PD241/dram-bandwidth-3d-data-demand-semicon-taiwan.html)
 
 ---
 
