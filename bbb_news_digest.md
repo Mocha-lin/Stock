@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-08T05:28:16.803897+00:00
+> 更新時間：2026-09-08T09:56:59.695862+00:00
 
 ### 🚀 Silicon photonics testing shift could reshape how CPO suppliers win business
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -118,24 +118,6 @@
 
 ---
 
-### ⚖️ Hardware isn't the problem — TSMC exec flags software, substrate gaps in 3D IC
-- **題材**: `半導體先進製程` | **重要性**: `68`
-- **來源**: Digitimes (2026-09-02T03:51:38Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Speaking at the SEMI 3DIC Advanced Manufacturing Alliance (3DICAMA) Global Summit on September 1, Jun He, TSMC Vice President of Advanced Packaging Technology and Service, noted that while the advanced packaging sector offers massive commercial opportunities …
-- [原文連結](https://www.digitimes.com/news/a20260902PD230/semi-tsmc-hardware-software-3d-ic.html)
-
----
-
-### 🚀 Gemtek 深化與印度 Dixon Technologies 的合作夥伴關係，以擴大光收發器和連接足跡
-- **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-09-02T01:30:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Gemtek Technology宣布，將透過在印度的合資企業深化與印度Dixon Technologies的策略合作，擴大其光收發器、雙向光組件（B…
-- [原文連結](https://www.digitimes.com/news/a20260901PD247/gemtek-dixon-manufacturing-market-joint-venture.html)
-
----
-
 ### ⚖️ 聯電瞄準12吋TFLN突破400G SiPh瓶頸
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
 - **來源**: Digitimes (2026-09-02T00:33:04Z)
@@ -154,8 +136,35 @@
 
 ---
 
+### ⚖️ 台灣關注關鍵角色，原棕油原料競賽擴大
+- **題材**: `光通訊與矽光子` | **重要性**: `63`
+- **來源**: Digitimes (2026-09-02T23:34:47Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 在 2026 年半導體網路高峰會上，來自 Marvell、荷蘭應用科學研究組織霍爾斯特中心、英國半導體中心和台灣半導體工業協會 (TSIA) 的演講者討論了矽光電的未來…
+- [原文連結](https://www.digitimes.com/news/a20260902PD244/2026-taiwan-semicon-marvell-cpo.html)
+
+---
+
+### ⚖️ DRAM giants target 3D stacking to break memory wall and power bottlenecks
+- **題材**: `HBM記憶體` | **重要性**: `63`
+- **來源**: Digitimes (2026-09-02T08:45:00Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: At a shared stage at Semicon Taiwan 2026, executives from Samsung Electronics, SK Hynix, and Micron agreed that traditional 2.5D high-bandwidth memory (HBM) using interposers is approaching a performance ceiling. Consequently, the industry is transitioning to…
+- [原文連結](https://www.digitimes.com/news/a20260902PD241/dram-bandwidth-3d-data-demand-semicon-taiwan.html)
+
+---
+
+### ⚖️ Marvell 預計矽光子學將從 2027 年底開始擴展，以台灣和台積電為中心
+- **題材**: `光通訊與矽光子` | **重要性**: `63`
+- **來源**: Digitimes (2026-09-02T03:58:48Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Marvell 資深副總裁兼技術長 Radha Nagarajan 在 2026 年台灣 SEMICON 的媒體簡報會上，為共封裝光學元件 (CPO) 的商業化提供了更清晰的時間表。
+- [原文連結](https://www.digitimes.com/news/a20260902PD227/marvell-tsmc-silicon-taiwan-photonics.html)
+
+---
+
 ### ⚖️ SK Hynix 透過客製化 HBM 實現高達 5.15 倍的推理增益
-- **題材**: `HBM記憶體` | **重要性**: `68`
+- **題材**: `HBM記憶體` | **重要性**: `63`
 - **來源**: Digitimes (2026-09-01T08:53:42Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: SK Hynix 正在將運算更深入地推向高頻寬記憶體 (HBM)，表示隨著資料移動變得越來越普遍，將運算功能放置在基礎晶片中的客製化 HBM 架構可以將大型語言模型推理效能提高高達 5.15 倍。
@@ -164,20 +173,11 @@
 ---
 
 ### ⚖️ Marvell CTO：功率和密度瓶頸正在推動 CPO 在 AI 資料中心的採用
-- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **題材**: `光通訊與矽光子` | **重要性**: `63`
 - **來源**: Digitimes (2026-09-01T06:55:00Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Marvell Technology 技術長 Radha Nagarajan 在 2026 年台灣半導體展之前的矽光子全球高峰會上發表演說時強調，AI 資料中心時代升級連結的核心焦點已堅定地轉向功耗。他指出，...
 - [原文連結](https://www.digitimes.com/news/a20260901PD231/marvell-cpo-siph-adoption-semicon-taiwan.html)
-
----
-
-### 🚀 韓國今年迄今出口額突破全年紀錄，達 7,094 億美元
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: Yahoo Entertainment (2026-09-05T06:47:29Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: SEOUL, Sept 5 (Reuters) - South Korea's exports have reached $709.4 billion so far this year, surpassing last year's annual record, the customs office said o...
-- [原文連結](https://finance.yahoo.com/economy/articles/south-korea-exports-surpass-full-061313000.html)
 
 ---
 
