@@ -1,23 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-08T00:56:20.097515+00:00
-
-### 🚀 播客亮點：SoIC 與 CoWoS、HBM5 混合鍵結以及 EMIB-T 的良率問題
-- **題材**: `半導體先進製程` | **重要性**: `88`
-- **來源**: Digitimes (2026-09-05T20:17:00Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重大事件】可能顯著影響產業評價、EPS預期或資金流向。
-- **摘要**: DIGITIMES 分析師 Luke Lin 在播客中表示，混合鍵合在 2026 年台灣 SEMICON 上引起了新的關注，並可能成為 2027 年至 2028 年先進封裝產能擴張的關鍵驅動力。
-- [原文連結](https://www.digitimes.com/news/a20260904PD233/packaging-digitimes-expansion-2026-sram.html)
-
----
-
-### ⚠️ 隨著 CoPoS 計劃的成形，台積電推遲了 CoWoS 訂單
-- **題材**: `半導體先進製程` | **重要性**: `83`
-- **來源**: Digitimes (2026-09-01T03:38:56Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: TSMC's reported delay in placing 2027 advanced packaging equipment orders has sparked market speculation that the company sees excess CoWoS capacity ahead. But equipment suppliers say CoWoS demand has not weakened, and TSMC's real challenge is instead how to …
-- [原文連結](https://www.digitimes.com/news/a20260901PD219/tsmc-cowos-equipment-packaging-capacity.html)
-
----
+> 更新時間：2026-09-08T05:28:16.803897+00:00
 
 ### 🚀 Silicon photonics testing shift could reshape how CPO suppliers win business
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -25,6 +7,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: As silicon photonics (SiPh) and co-packaged optics (CPO) move toward mass production, suppliers say testing is shifting earlier in the process to catch defects at the wafer stage, protect yields, and preserve data through final assembly. That change is also p…
 - [原文連結](https://www.digitimes.com/news/a20260904PD209/cpo-siph-wafer-testing.html)
+
+---
+
+### ⚠️ 隨著 CoPoS 計劃的成形，台積電推遲了 CoWoS 訂單
+- **題材**: `半導體先進製程` | **重要性**: `78`
+- **來源**: Digitimes (2026-09-01T03:38:56Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: TSMC's reported delay in placing 2027 advanced packaging equipment orders has sparked market speculation that the company sees excess CoWoS capacity ahead. But equipment suppliers say CoWoS demand has not weakened, and TSMC's real challenge is instead how to …
+- [原文連結](https://www.digitimes.com/news/a20260901PD219/tsmc-cowos-equipment-packaging-capacity.html)
 
 ---
 
@@ -178,6 +169,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Marvell Technology 技術長 Radha Nagarajan 在 2026 年台灣半導體展之前的矽光子全球高峰會上發表演說時強調，AI 資料中心時代升級連結的核心焦點已堅定地轉向功耗。他指出，...
 - [原文連結](https://www.digitimes.com/news/a20260901PD231/marvell-cpo-siph-adoption-semicon-taiwan.html)
+
+---
+
+### 🚀 韓國今年迄今出口額突破全年紀錄，達 7,094 億美元
+- **題材**: `HBM記憶體` | **重要性**: `65`
+- **來源**: Yahoo Entertainment (2026-09-05T06:47:29Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: SEOUL, Sept 5 (Reuters) - South Korea's exports have reached $709.4 billion so far this year, surpassing last year's annual record, the customs office said o...
+- [原文連結](https://finance.yahoo.com/economy/articles/south-korea-exports-surpass-full-061313000.html)
 
 ---
 

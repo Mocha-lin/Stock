@@ -1,86 +1,10 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-09-08T00:56:20.097515+00:00",
+  "generated_at": "2026-09-08T05:28:16.803897+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
-  "total_count": 69,
+  "total_count": 68,
   "items": [
-    {
-      "id": "f4cdbe0a5e522f37",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "播客亮點：SoIC 與 CoWoS、HBM5 混合鍵結以及 EMIB-T 的良率問題",
-      "summary": "DIGITIMES 分析師 Luke Lin 在播客中表示，混合鍵合在 2026 年台灣 SEMICON 上引起了新的關注，並可能成為 2027 年至 2028 年先進封裝產能擴張的關鍵驅動力。",
-      "original_title": "Podcast highlights: SoIC vs CoWoS, HBM5 hybrid bonding, and EMIB-T's yield problem",
-      "url": "https://www.digitimes.com/news/a20260904PD233/packaging-digitimes-expansion-2026-sram.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-09-05T20:17:00Z",
-      "importance": 88,
-      "impact": "positive",
-      "timeframe": "short_to_mid_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之偏多消息。【重大事件】可能顯著影響產業評價、EPS預期或資金流向。"
-    },
-    {
-      "id": "e43a4deeaf123151",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "隨著 CoPoS 計劃的成形，台積電推遲了 CoWoS 訂單",
-      "summary": "TSMC's reported delay in placing 2027 advanced packaging equipment orders has sparked market speculation that the company sees excess CoWoS capacity ahead. But equipment suppliers say CoWoS demand has not weakened, and TSMC's real challenge is instead how to …",
-      "original_title": "TSMC delays CoWoS orders as CoPoS plans take shape",
-      "url": "https://www.digitimes.com/news/a20260901PD219/tsmc-cowos-equipment-packaging-capacity.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-09-01T03:38:56Z",
-      "importance": 83,
-      "impact": "negative",
-      "timeframe": "short_to_mid_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
     {
       "id": "f696472786c36987",
       "dataset": "market_news",
@@ -118,6 +42,44 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
+      "id": "e43a4deeaf123151",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "隨著 CoPoS 計劃的成形，台積電推遲了 CoWoS 訂單",
+      "summary": "TSMC's reported delay in placing 2027 advanced packaging equipment orders has sparked market speculation that the company sees excess CoWoS capacity ahead. But equipment suppliers say CoWoS demand has not weakened, and TSMC's real challenge is instead how to …",
+      "original_title": "TSMC delays CoWoS orders as CoPoS plans take shape",
+      "url": "https://www.digitimes.com/news/a20260901PD219/tsmc-cowos-equipment-packaging-capacity.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-09-01T03:38:56Z",
+      "importance": 78,
+      "impact": "negative",
+      "timeframe": "short_to_mid_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "e9763efcecadf168",
@@ -1172,44 +1134,6 @@
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "f3ead6990fced9ad",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "討厭人工智慧資料中心？大型科技公司的新廣告活動旨在改變你的想法",
-      "summary": "一項耗資數百萬美元的活動正試圖扭轉大眾對人工智慧資料中心日益蔑視的趨勢。",
-      "original_title": "Hate AI Data Centers? Big Tech’s New Ad Campaign Aims to Change Your Mind",
-      "url": "https://www.cnet.com/tech/services-and-software/hate-ai-data-centers-big-techs-new-ad-campaign-will-try-to-change-your-mind/",
-      "source": "CNET",
-      "domain": "cnet.com",
-      "published_at": "2026-09-02T23:06:27Z",
-      "importance": 60,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "9ff514f36748e583",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1281,6 +1205,82 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "b7c30b1c7e450983",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "再升息，只是為了保險：向歐洲央行提出的五個問題",
+      "summary": "By Dhara Ranasinghe and Stefano Rebaudo LONDON, Sept 7 (Reuters) - The European Central Bank is widely expected to hike interest rates on Thursday, erring on...",
+      "original_title": "Another rate hike, just for insurance: Five questions for the ECB",
+      "url": "https://finance.yahoo.com/economy/policy/articles/another-rate-hike-just-insurance-040303890.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-09-07T04:03:03Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "5c01f503102454c8",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "台灣面臨與盟友分享人工智慧財富的壓力，展現晶片外交實力",
+      "summary": "作者：Ben Blanchard 和 Wen-Yee Lee 台北，9 月 7 日（路透社）",
+      "original_title": "Taiwan flexes chip diplomacy muscles as it faces pressure to share AI wealth with allies",
+      "url": "https://finance.yahoo.com/technology/ai/articles/taiwan-flexes-chip-diplomacy-muscles-022559044.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-09-07T02:30:14Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "3fb58778d77024cd",
@@ -2305,44 +2305,6 @@
       "source": "Gizmodo.com",
       "domain": "gizmodo.com",
       "published_at": "2026-09-03T18:40:16Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "0231358a417f2fd4",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "委內瑞拉人為自己的石油感到自豪，並將美國持有其石油儲備的股份視為投降",
-      "summary": "沒有什麼比石油更能塑造當今委內瑞拉人的意義了。  100多年來，無論順境或逆境，委內瑞拉人的身分都已經建立起來...",
-      "original_title": "Proud of their oil, Venezuelans view US stake in their reserves as a surrender",
-      "url": "https://www.yahoo.com/news/world/articles/venezuelans-pride-bruised-deal-us-142956959.html",
-      "source": "Yahoo Entertainment",
-      "domain": "yahoo.com",
-      "published_at": "2026-09-03T14:29:56Z",
       "importance": 50,
       "impact": "neutral",
       "timeframe": "short_term",
