@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-08T09:56:59.695862+00:00
+> 更新時間：2026-09-08T13:20:55.397161+00:00
 
 ### 🚀 Silicon photonics testing shift could reshape how CPO suppliers win business
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -43,15 +43,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 人工智慧基礎設施的擴張正在加速對 800G 和 1.6T 光模組的需求，提升中國主要供應商 2026 年上半年的業績，並將訂單可見性延長至 2027 年。
 - [原文連結](https://www.digitimes.com/news/a20260903PD216/china-optical-components-expansion-infrastructure-profit-2027.html)
-
----
-
-### 🚀 歐洲排隊下訂單，英偉達合作夥伴鴻海的銷售成長 52%
-- **題材**: `AI伺服器` | **重要性**: `70`
-- **來源**: The Next Web (2026-09-05T11:07:55Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Hon Hai reported August revenue of NT$921.8B, about $29.1B, up 52% year on year on AI server demand, well ahead of analyst expectations for the quarter. In June it signed a EUR 120M manufacturing partnership with Bull, the French state-owned computing firm, s…
-- [原文連結](https://thenextweb.com/news/hon-hai-foxconn-august-sales-up-52-percent-ai-servers-bull-partnership-angers-pardubice-eu-ai-gigafactories)
 
 ---
 
@@ -133,6 +124,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Micro LED 製造商 PlayNitride Inc. 預計該技術將在兩年內進入商業光通訊應用，從顯示器擴展到人工智慧裝置、資料中心光傳輸、矽光子和共封裝光學 (CPO)。
 - [原文連結](https://www.digitimes.com/news/a20260901PD240/playnitride-communications-technology-transmission-data.html)
+
+---
+
+### 🚀 歐洲排隊下訂單，英偉達合作夥伴鴻海的銷售成長 52%
+- **題材**: `AI伺服器` | **重要性**: `65`
+- **來源**: The Next Web (2026-09-05T11:07:55Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Hon Hai reported August revenue of NT$921.8B, about $29.1B, up 52% year on year on AI server demand, well ahead of analyst expectations for the quarter. In June it signed a EUR 120M manufacturing partnership with Bull, the French state-owned computing firm, s…
+- [原文連結](https://thenextweb.com/news/hon-hai-foxconn-august-sales-up-52-percent-ai-servers-bull-partnership-angers-pardubice-eu-ai-gigafactories)
 
 ---
 
