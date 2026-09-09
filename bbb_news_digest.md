@@ -1,5 +1,14 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-08T19:38:03.025368+00:00
+> 更新時間：2026-09-09T01:03:53.265599+00:00
+
+### 🚀 Hiwin Mikrosystem targets SiPh inspection gear as capacity expands 20%, order visibility extends to 2Q27
+- **題材**: `光通訊與矽光子` | **重要性**: `88`
+- **來源**: Digitimes (2026-09-06T01:16:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重大事件】可能顯著影響產業評價、EPS預期或資金流向。
+- **摘要**: Driven by the shift from copper to optical interconnects, silicon photonics (SiPh) and co-packaged optics (CPO) are moving rapidly toward mainstream adoption, fueling demand across the broader semiconductor equipment supply chain. Highlighting the trend at SE…
+- [原文連結](https://www.digitimes.com/news/a20260903PD234/siph-inspection-capacity-copper-silicon.html)
+
+---
 
 ### 🚀 Silicon photonics testing shift could reshape how CPO suppliers win business
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -7,15 +16,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: As silicon photonics (SiPh) and co-packaged optics (CPO) move toward mass production, suppliers say testing is shifting earlier in the process to catch defects at the wafer stage, protect yields, and preserve data through final assembly. That change is also p…
 - [原文連結](https://www.digitimes.com/news/a20260904PD209/cpo-siph-wafer-testing.html)
-
----
-
-### ⚠️ 隨著 CoPoS 計劃的成形，台積電推遲了 CoWoS 訂單
-- **題材**: `半導體先進製程` | **重要性**: `78`
-- **來源**: Digitimes (2026-09-01T03:38:56Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: TSMC's reported delay in placing 2027 advanced packaging equipment orders has sparked market speculation that the company sees excess CoWoS capacity ahead. But equipment suppliers say CoWoS demand has not weakened, and TSMC's real challenge is instead how to …
-- [原文連結](https://www.digitimes.com/news/a20260901PD219/tsmc-cowos-equipment-packaging-capacity.html)
 
 ---
 
@@ -52,15 +52,6 @@
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Dell reported record fiscal Q2 results as AI server demand surged, booking $60.9 billion in AI server orders and ending the quarter with a $95 billion backlog. From a report: The company posted record revenue of $47 billion, up 58% year over year. Earnings pe…
 - [原文連結](https://slashdot.org/story/26/09/02/0551240/dell-stock-surges-on-record-orders-for-ai-servers)
-
----
-
-### 🚀 Credo Technology Group Q1 Earnings Call Highlights
-- **題材**: `光通訊與矽光子` | **重要性**: `70`
-- **來源**: MarketBeat (2026-09-01T23:02:26Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Credo Technology Group (NASDAQ:CRDO) reported record fiscal first-quarter 2027 revenue of $479 million, up 10% sequentially and 115% from a year earlier, as...
-- [原文連結](https://www.marketbeat.com/instant-alerts/transcript-credo-technology-group-q1-earnings-call-highlights-2026-09-01/?utm_source=yahoofinance&amp;utm_medium=yahoofinance)
 
 ---
 
@@ -109,21 +100,12 @@
 
 ---
 
-### ⚖️ 聯電瞄準12吋TFLN突破400G SiPh瓶頸
+### 🚀 Gemtek deepens partnership with India's Dixon Technologies to expand optical transceiver, connectivity footprint
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-09-02T00:33:04Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 隨著AI超大規模資料中心互連流量的攀升，光模組正朝向1.6T和3.2T世代發展。台灣第二大合約晶片製造商聯華電子 (UMC) 正在擴大其矽光子 (SiPh) 功效…
-- [原文連結](https://www.digitimes.com/news/a20260901PD230/siph-umc-12-inch-data-bandwidth.html)
-
----
-
-### ⚖️ Micro LED maker PlayNitride targets Micro LED optical communications within two years
-- **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-09-02T00:24:41Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Micro LED 製造商 PlayNitride Inc. 預計該技術將在兩年內進入商業光通訊應用，從顯示器擴展到人工智慧裝置、資料中心光傳輸、矽光子和共封裝光學 (CPO)。
-- [原文連結](https://www.digitimes.com/news/a20260901PD240/playnitride-communications-technology-transmission-data.html)
+- **來源**: Digitimes (2026-09-02T01:30:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Gemtek Technology announced that it is deepening its strategic cooperation with India's Dixon Technologies through their joint venture in India, expanding the manufacturing and market presence of its optical transceivers, bidirectional optical sub-assembly (B…
+- [原文連結](https://www.digitimes.com/news/a20260901PD247/gemtek-dixon-manufacturing-market-joint-venture.html)
 
 ---
 
@@ -163,21 +145,39 @@
 
 ---
 
-### ⚖️ SK Hynix 透過客製化 HBM 實現高達 5.15 倍的推理增益
-- **題材**: `HBM記憶體` | **重要性**: `63`
-- **來源**: Digitimes (2026-09-01T08:53:42Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: SK Hynix 正在將運算更深入地推向高頻寬記憶體 (HBM)，表示隨著資料移動變得越來越普遍，將運算功能放置在基礎晶片中的客製化 HBM 架構可以將大型語言模型推理效能提高高達 5.15 倍。
-- [原文連結](https://www.digitimes.com/news/a20260901VL220/sk-hynix-hbm-capacity-performance-ai-agent-semicon-taiwan.html)
+### ⚖️ 聯電瞄準12吋TFLN突破400G SiPh瓶頸
+- **題材**: `光通訊與矽光子` | **重要性**: `63`
+- **來源**: Digitimes (2026-09-02T00:33:04Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 隨著AI超大規模資料中心互連流量的攀升，光模組正朝向1.6T和3.2T世代發展。台灣第二大合約晶片製造商聯華電子 (UMC) 正在擴大其矽光子 (SiPh) 功效…
+- [原文連結](https://www.digitimes.com/news/a20260901PD230/siph-umc-12-inch-data-bandwidth.html)
 
 ---
 
-### ⚖️ Marvell CTO：功率和密度瓶頸正在推動 CPO 在 AI 資料中心的採用
+### ⚖️ Micro LED maker PlayNitride targets Micro LED optical communications within two years
 - **題材**: `光通訊與矽光子` | **重要性**: `63`
-- **來源**: Digitimes (2026-09-01T06:55:00Z)
+- **來源**: Digitimes (2026-09-02T00:24:41Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Marvell Technology 技術長 Radha Nagarajan 在 2026 年台灣半導體展之前的矽光子全球高峰會上發表演說時強調，AI 資料中心時代升級連結的核心焦點已堅定地轉向功耗。他指出，...
-- [原文連結](https://www.digitimes.com/news/a20260901PD231/marvell-cpo-siph-adoption-semicon-taiwan.html)
+- **摘要**: Micro LED 製造商 PlayNitride Inc. 預計該技術將在兩年內進入商業光通訊應用，從顯示器擴展到人工智慧裝置、資料中心光傳輸、矽光子和共封裝光學 (CPO)。
+- [原文連結](https://www.digitimes.com/news/a20260901PD240/playnitride-communications-technology-transmission-data.html)
+
+---
+
+### ⚖️ CXMT allegedly used a written roadmap to steal Samsung DRAM tech — South Korean court says 'Project Hefei' lifted 620-step recipe to build 10% global market share
+- **題材**: `HBM記憶體` | **重要性**: `62`
+- **來源**: Tom's Hardware UK (2026-09-04T10:30:00Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: CXMT's alleged industrial espionage from Samsung had an actual roadmap — South Korean court says Project Hefei was responsible for CXMT's current position as major DRAM maker
+- [原文連結](https://www.tomshardware.com/pc-components/dram/chinas-cmxt-had-an-actual-roadmap-for-its-alleged-industrial-espionage-from-samsung-south-korean-court-says-project-hefei-was-responsible-for-cxmts-current-position-as-major-dram-maker)
+
+---
+
+### ⚠️ The current state of Hybrid Bonding in 2026 — TSMC sits at 6 microns and the HBM delay that nobody expected
+- **題材**: `半導體先進製程` | **重要性**: `62`
+- **來源**: Tom's Hardware UK (2026-09-02T15:05:41Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Hybrid bonding, the copper-to-copper joining technique that replaces solder microbumps in 3D chip stacks, is in high-volume production on logic and freshly postponed on memory.
+- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/hybrid-bonding-roadmap-examined)
 
 ---
 
