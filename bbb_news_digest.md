@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-09T16:55:23.039333+00:00
+> 更新時間：2026-09-09T19:32:01.118451+00:00
 
 ### 🚀 Silicon photonics testing shift could reshape how CPO suppliers win business
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -43,15 +43,6 @@
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 微軟的工程師通常會享受一個安靜的夏天來度假並與家人共度時光，這在許多公司都很常見。但今年，對於 Windows 和安全工程師來說，這個季節異常忙碌，這要歸功於新的人工智慧模型的發現…
 - [原文連結](https://www.theverge.com/tech/991178/microsoft-patch-tuesday-record-breaking-ai-notepad)
-
----
-
-### ⚖️ 三星與台積電審查的探針供應商加快矽光子測試計劃
-- **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-09-08T07:06:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 根據 The Elec 報告，三星電子已採取行動，透過使用台積電選擇的相同測試合作夥伴進行關鍵驗證工作，加速其矽光子技術的發展。這項工作的目的是完成晶圓級測試…
-- [原文連結](https://www.digitimes.com/news/a20260908PD221/samsung-silicon-photonics-probe-testing.html)
 
 ---
 
@@ -178,6 +169,15 @@
 - **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: DUBAI, Sept 8 (Reuters) - Operations at some energy facilities in Saudi Arabia, the world's top oil exporter, were halted on Tuesday following attacks by Yem...
 - [原文連結](https://www.yahoo.com/news/world/articles/saudi-led-coalition-yemen-says-041913121.html)
+
+---
+
+### ⚠️ 油價上漲和地緣政治風險導致通膨風險，股市下跌
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-09-07T13:13:54Z)
+- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: By Amanda Cooper LONDON, Sept 7 (Reuters) - Rising oil prices, conflict in the Middle East and political uncertainty in Europe kept investors on edge on Mond...
+- [原文連結](https://finance.yahoo.com/markets/world-indices/articles/asia-shares-bounce-others-cautious-010602533.html)
 
 ---
 
