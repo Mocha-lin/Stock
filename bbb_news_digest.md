@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-09T13:27:38.608209+00:00
+> 更新時間：2026-09-09T16:55:23.039333+00:00
 
 ### 🚀 Silicon photonics testing shift could reshape how CPO suppliers win business
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -34,15 +34,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 人工智慧基礎設施的擴張正在加速對 800G 和 1.6T 光模組的需求，提升中國主要供應商 2026 年上半年的業績，並將訂單可見性延長至 2027 年。
 - [原文連結](https://www.digitimes.com/news/a20260903PD216/china-optical-components-expansion-infrastructure-profit-2027.html)
-
----
-
-### 🚀 Dell Stock Surges On Record Orders For AI Servers
-- **題材**: `AI伺服器` | **重要性**: `70`
-- **來源**: Slashdot.org (2026-09-02T15:00:00Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Dell reported record fiscal Q2 results as AI server demand surged, booking $60.9 billion in AI server orders and ending the quarter with a $95 billion backlog. From a report: The company posted record revenue of $47 billion, up 58% year over year. Earnings pe…
-- [原文連結](https://slashdot.org/story/26/09/02/0551240/dell-stock-surges-on-record-orders-for-ai-servers)
 
 ---
 
@@ -100,6 +91,15 @@
 
 ---
 
+### 🚀 Dell Stock Surges On Record Orders For AI Servers
+- **題材**: `AI伺服器` | **重要性**: `65`
+- **來源**: Slashdot.org (2026-09-02T15:00:00Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Dell reported record fiscal Q2 results as AI server demand surged, booking $60.9 billion in AI server orders and ending the quarter with a $95 billion backlog. From a report: The company posted record revenue of $47 billion, up 58% year over year. Earnings pe…
+- [原文連結](https://slashdot.org/story/26/09/02/0551240/dell-stock-surges-on-record-orders-for-ai-servers)
+
+---
+
 ### ⚖️ 台灣關注關鍵角色，原棕油原料競賽擴大
 - **題材**: `光通訊與矽光子` | **重要性**: `63`
 - **來源**: Digitimes (2026-09-02T23:34:47Z)
@@ -154,12 +154,12 @@
 
 ---
 
-### ⚠️ The current state of Hybrid Bonding in 2026 — TSMC sits at 6 microns and the HBM delay that nobody expected
-- **題材**: `半導體先進製程` | **重要性**: `62`
-- **來源**: Tom's Hardware UK (2026-09-02T15:05:41Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Hybrid bonding, the copper-to-copper joining technique that replaces solder microbumps in 3D chip stacks, is in high-volume production on logic and freshly postponed on memory.
-- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/hybrid-bonding-roadmap-examined)
+### 🚀 What smart people are saying about oil prices surging back toward $100
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Business Insider (2026-09-08T15:18:59Z)
+- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Oil is creeping back toward $100 a barrel, fueling a Labor Day record for US gas prices over the long weekend.
+- [原文連結](https://www.businessinsider.com/oil-prices-today-100-barrel-gas-prices-iran-war-attacks-2026-9)
 
 ---
 
