@@ -1,10 +1,10 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-09T01:03:53.265599+00:00
+> 更新時間：2026-09-09T05:34:49.657063+00:00
 
 ### 🚀 Hiwin Mikrosystem targets SiPh inspection gear as capacity expands 20%, order visibility extends to 2Q27
-- **題材**: `光通訊與矽光子` | **重要性**: `88`
+- **題材**: `光通訊與矽光子` | **重要性**: `83`
 - **來源**: Digitimes (2026-09-06T01:16:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重大事件】可能顯著影響產業評價、EPS預期或資金流向。
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Driven by the shift from copper to optical interconnects, silicon photonics (SiPh) and co-packaged optics (CPO) are moving rapidly toward mainstream adoption, fueling demand across the broader semiconductor equipment supply chain. Highlighting the trend at SE…
 - [原文連結](https://www.digitimes.com/news/a20260903PD234/siph-inspection-capacity-copper-silicon.html)
 
@@ -100,15 +100,6 @@
 
 ---
 
-### 🚀 Gemtek deepens partnership with India's Dixon Technologies to expand optical transceiver, connectivity footprint
-- **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-09-02T01:30:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Gemtek Technology announced that it is deepening its strategic cooperation with India's Dixon Technologies through their joint venture in India, expanding the manufacturing and market presence of its optical transceivers, bidirectional optical sub-assembly (B…
-- [原文連結](https://www.digitimes.com/news/a20260901PD247/gemtek-dixon-manufacturing-market-joint-venture.html)
-
----
-
 ### 🚀 歐洲排隊下訂單，英偉達合作夥伴鴻海的銷售成長 52%
 - **題材**: `AI伺服器` | **重要性**: `65`
 - **來源**: The Next Web (2026-09-05T11:07:55Z)
@@ -136,12 +127,12 @@
 
 ---
 
-### ⚖️ Marvell 預計矽光子學將從 2027 年底開始擴展，以台灣和台積電為中心
+### 🚀 Gemtek deepens partnership with India's Dixon Technologies to expand optical transceiver, connectivity footprint
 - **題材**: `光通訊與矽光子` | **重要性**: `63`
-- **來源**: Digitimes (2026-09-02T03:58:48Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Marvell 資深副總裁兼技術長 Radha Nagarajan 在 2026 年台灣 SEMICON 的媒體簡報會上，為共封裝光學元件 (CPO) 的商業化提供了更清晰的時間表。
-- [原文連結](https://www.digitimes.com/news/a20260902PD227/marvell-tsmc-silicon-taiwan-photonics.html)
+- **來源**: Digitimes (2026-09-02T01:30:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Gemtek Technology announced that it is deepening its strategic cooperation with India's Dixon Technologies through their joint venture in India, expanding the manufacturing and market presence of its optical transceivers, bidirectional optical sub-assembly (B…
+- [原文連結](https://www.digitimes.com/news/a20260901PD247/gemtek-dixon-manufacturing-market-joint-venture.html)
 
 ---
 
@@ -178,6 +169,15 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Hybrid bonding, the copper-to-copper joining technique that replaces solder microbumps in 3D chip stacks, is in high-volume production on logic and freshly postponed on memory.
 - [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/hybrid-bonding-roadmap-examined)
+
+---
+
+### ⚠️ 油價上漲和地緣政治風險導致通膨風險，股市下跌
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-09-07T13:13:54Z)
+- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: By Amanda Cooper LONDON, Sept 7 (Reuters) - Rising oil prices, conflict in the Middle East and political uncertainty in Europe kept investors on edge on Mond...
+- [原文連結](https://finance.yahoo.com/markets/world-indices/articles/asia-shares-bounce-others-cautious-010602533.html)
 
 ---
 
