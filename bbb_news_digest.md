@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-10T00:53:03.906168+00:00
+> 更新時間：2026-09-10T05:26:49.601949+00:00
 
 ### 🚀 Hiwin Mikrosystem targets SiPh inspection gear as capacity expands 20%, order visibility extends to 2Q27
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -7,15 +7,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 在從銅互連轉向光學互連的推動下，矽光子 (SiPh) 和共封裝光學 (CPO) 正迅速走向主流採用，刺激了更廣泛的半導體設備供應鏈的需求。突出 SE 的趨勢…
 - [原文連結](https://www.digitimes.com/news/a20260903PD234/siph-inspection-capacity-copper-silicon.html)
-
----
-
-### ⚖️ 每週新聞綜述：AI內存競賽升溫，台灣製造業反彈，Nexperia裂痕加深
-- **題材**: `光通訊與矽光子` | **重要性**: `78`
-- **來源**: Digitimes (2026-09-07T00:57:28Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 本周，人工智能基础设施和半导体供应链引起了读者的兴趣，从台湾制造业的复苏和 Nexperia 的法律诉讼，到 Sandisk 的 HBF、美光的 HBM 扩张以及 Marvell 的硅光子路线图。三星還刷新了其智慧型手機...
-- [原文連結](https://www.digitimes.com/news/a20260907VL200/2026-micron-nexperia-samsung-taiwan.html)
 
 ---
 
@@ -37,21 +28,21 @@
 
 ---
 
+### ⚖️ 每週新聞綜述：AI內存競賽升溫，台灣製造業反彈，Nexperia裂痕加深
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-09-07T00:57:28Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 本周，人工智能基础设施和半导体供应链引起了读者的兴趣，从台湾制造业的复苏和 Nexperia 的法律诉讼，到 Sandisk 的 HBF、美光的 HBM 扩张以及 Marvell 的硅光子路线图。三星還刷新了其智慧型手機...
+- [原文連結](https://www.digitimes.com/news/a20260907VL200/2026-micron-nexperia-samsung-taiwan.html)
+
+---
+
 ### ⚖️ MSScorps 8 月營收因矽光子學收益再創新高
 - **題材**: `光通訊與矽光子` | **重要性**: `73`
 - **來源**: Digitimes (2026-09-04T06:31:46Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 隨著全球人工智慧 (AI) 運算能力持續擴大，推動對先進製程技術、高效能運算 (HPC)、先進封裝和高速運算的需求，MSScorps 2026 年 8 月收入創下單月新高。
 - [原文連結](https://www.digitimes.com/news/a20260904PD200/msscorps-siph-revenue-2026.html)
-
----
-
-### ⚖️ 中國光模組製造商乘人工智慧熱潮，800G、1.6T訂單延續至2027年
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-09-03T01:35:03Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 人工智慧基礎設施的擴張正在加速對 800G 和 1.6T 光模組的需求，提升中國主要供應商 2026 年上半年的業績，並將訂單可見性延長至 2027 年。
-- [原文連結](https://www.digitimes.com/news/a20260903PD216/china-optical-components-expansion-infrastructure-profit-2027.html)
 
 ---
 
@@ -100,12 +91,12 @@
 
 ---
 
-### ⚖️ Taiwan LED packaging provider Ligitek pivots to silicon photonics; 1.6T modules eye 2H27 revenue
+### ⚖️ 中國光模組製造商乘人工智慧熱潮，800G、1.6T訂單延續至2027年
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-09-03T03:43:46Z)
+- **來源**: Digitimes (2026-09-03T01:35:03Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Ligitek is accelerating its move from LED packaging into silicon photonics (SiPh) and high-speed optical communications, with 1.6T product samples already tested and volume-production equipment due from late 2026 through the first quarter of 2027. Chairman I-…
-- [原文連結](https://www.digitimes.com/news/a20260903PD225/ligitek-led-packaging-siph-revenue-taiwan.html)
+- **摘要**: 人工智慧基礎設施的擴張正在加速對 800G 和 1.6T 光模組的需求，提升中國主要供應商 2026 年上半年的業績，並將訂單可見性延長至 2027 年。
+- [原文連結](https://www.digitimes.com/news/a20260903PD216/china-optical-components-expansion-infrastructure-profit-2027.html)
 
 ---
 
@@ -133,6 +124,15 @@
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Hon Hai reported August revenue of NT$921.8B, about $29.1B, up 52% year on year on AI server demand, well ahead of analyst expectations for the quarter. In June it signed a EUR 120M manufacturing partnership with Bull, the French state-owned computing firm, s…
 - [原文連結](https://thenextweb.com/news/hon-hai-foxconn-august-sales-up-52-percent-ai-servers-bull-partnership-angers-pardubice-eu-ai-gigafactories)
+
+---
+
+### ⚖️ Taiwan LED packaging provider Ligitek pivots to silicon photonics; 1.6T modules eye 2H27 revenue
+- **題材**: `光通訊與矽光子` | **重要性**: `63`
+- **來源**: Digitimes (2026-09-03T03:43:46Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Ligitek is accelerating its move from LED packaging into silicon photonics (SiPh) and high-speed optical communications, with 1.6T product samples already tested and volume-production equipment due from late 2026 through the first quarter of 2027. Chairman I-…
+- [原文連結](https://www.digitimes.com/news/a20260903PD225/ligitek-led-packaging-siph-revenue-taiwan.html)
 
 ---
 
