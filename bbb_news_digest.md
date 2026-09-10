@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-10T13:20:17.120501+00:00
+> 更新時間：2026-09-10T16:42:59.847736+00:00
 
 ### 🚀 Hiwin Mikrosystem targets SiPh inspection gear as capacity expands 20%, order visibility extends to 2Q27
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -25,6 +25,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Ciena 以創紀錄的利潤率超出了第三季度盈利預期，但股價因利潤率擔憂而下跌，促使人們關注 AI 光學網絡的競爭對手 Lumentum 和 Coherent...
 - [原文連結](https://www.marketbeat.com/articles/3-ai-optical-networking-stocks-positioned-for-the-data-center-buildout/?utm_source=yahoofinance&amp;utm_medium=yahoofinance)
+
+---
+
+### ⚠️ 框架正在為一些客戶提供 RAM 退款
+- **題材**: `HBM記憶體` | **重要性**: `73`
+- **來源**: The Verge (2026-09-09T15:36:37Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 在組件持續短缺的情況下，Framework 降低了一些 Laptop 13 Pro 買家的 RAM 價格，這是一個“罕見的積極更新”
+- [原文連結](https://www.theverge.com/gadgets/992218/framework-lowers-ram-prices-refunds)
 
 ---
 
@@ -100,15 +109,6 @@
 
 ---
 
-### 🚀 SK 海力士股價在首爾飆漲 8%。美國投資者周二可能會面臨現實檢驗。
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: Barchart.com (2026-09-08T14:14:44Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: OpenAI 發布 Astra 消息後，繼週五美國晶片股上漲之後，週一 SK 海力士股價在首爾上漲 8%。但此舉是一個追蹤指標...
-- [原文連結](https://www.barchart.com/story/news/4491580/sk-hynix-stock-just-surged-8-in-seoul-u-s-investors-may-get-a-reality-check-tuesday)
-
----
-
 ### 🚀 歐洲排隊下訂單，英偉達合作夥伴鴻海的銷售成長 52%
 - **題材**: `AI伺服器` | **重要性**: `65`
 - **來源**: The Next Web (2026-09-05T11:07:55Z)
@@ -173,12 +173,12 @@
 
 ---
 
-### ⚖️ 哪隻光學股票在 2026 年佔據主導地位：Applied Opto electronics、Lumentum 還是 Coherent？
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: 24/7 Wall St. (2026-09-07T13:30:22Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: AI datacenter spending has turned optical networking into one of 2026's hottest trades, but the three biggest U.S. optics stocks have performed so differentl...
-- [原文連結](https://247wallst.com/investing/2026/09/07/which-optics-stock-has-dominated-in-2026-applied-optoelectronics-lumentum-or-coherent-2/)
+### 🚀 韓國今年迄今出口額突破全年紀錄，達 7,094 億美元
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-09-05T06:47:29Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: SEOUL, Sept 5 (Reuters) - South Korea's exports have reached $709.4 billion so far this year, surpassing last year's annual record, the customs office said o...
+- [原文連結](https://finance.yahoo.com/economy/articles/south-korea-exports-surpass-full-061313000.html)
 
 ---
 
