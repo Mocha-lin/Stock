@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-10T05:26:49.601949+00:00
+> 更新時間：2026-09-10T09:55:55.763449+00:00
 
 ### 🚀 Hiwin Mikrosystem targets SiPh inspection gear as capacity expands 20%, order visibility extends to 2Q27
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -136,6 +136,15 @@
 
 ---
 
+### ⚠️ 中東新一輪罷工加劇供應風險，油價逼近 100 美元
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-09-09T06:27:28Z)
+- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: By Sethuraman N R NEW DELHI, Sept 9 (Reuters) - Brent crude prices were trading close to $100 a barrel on Wednesday for the first time since July, as escalat...
+- [原文連結](https://finance.yahoo.com/energy/articles/oil-nears-100-fresh-middle-062728481.html)
+
+---
+
 ### 🚀 What smart people are saying about oil prices surging back toward $100
 - **題材**: `總體風險` | **重要性**: `60`
 - **來源**: Business Insider (2026-09-08T15:18:59Z)
@@ -170,15 +179,6 @@
 - **摘要**: 川普政府正在加強對為美國資料中心供電的中國製造設備的審查，理由是隨著運行人工智慧系統的電力需求激增，存在國家安全風險。
 后安全专家：AI数据中心蕴含隐藏风险……
 - [原文連結](https://www.breitbart.com/tech/2026/09/07/security-experts-ai-data-centers-contain-hidden-risks-from-china/)
-
----
-
-### ⚖️ 哪隻光學股票在 2026 年佔據主導地位：Applied Opto electronics、Lumentum 還是 Coherent？
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: 24/7 Wall St. (2026-09-07T13:30:22Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: AI datacenter spending has turned optical networking into one of 2026's hottest trades, but the three biggest U.S. optics stocks have performed so differentl...
-- [原文連結](https://247wallst.com/investing/2026/09/07/which-optics-stock-has-dominated-in-2026-applied-optoelectronics-lumentum-or-coherent-2/)
 
 ---
 
