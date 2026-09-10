@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-10T09:55:55.763449+00:00
+> 更新時間：2026-09-10T13:20:17.120501+00:00
 
 ### 🚀 Hiwin Mikrosystem targets SiPh inspection gear as capacity expands 20%, order visibility extends to 2Q27
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -25,15 +25,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Ciena 以創紀錄的利潤率超出了第三季度盈利預期，但股價因利潤率擔憂而下跌，促使人們關注 AI 光學網絡的競爭對手 Lumentum 和 Coherent...
 - [原文連結](https://www.marketbeat.com/articles/3-ai-optical-networking-stocks-positioned-for-the-data-center-buildout/?utm_source=yahoofinance&amp;utm_medium=yahoofinance)
-
----
-
-### ⚖️ 每週新聞綜述：AI內存競賽升溫，台灣製造業反彈，Nexperia裂痕加深
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-09-07T00:57:28Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 本周，人工智能基础设施和半导体供应链引起了读者的兴趣，从台湾制造业的复苏和 Nexperia 的法律诉讼，到 Sandisk 的 HBF、美光的 HBM 扩张以及 Marvell 的硅光子路线图。三星還刷新了其智慧型手機...
-- [原文連結](https://www.digitimes.com/news/a20260907VL200/2026-micron-nexperia-samsung-taiwan.html)
 
 ---
 
@@ -136,12 +127,12 @@
 
 ---
 
-### ⚠️ 中東新一輪罷工加劇供應風險，油價逼近 100 美元
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-09-09T06:27:28Z)
-- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: By Sethuraman N R NEW DELHI, Sept 9 (Reuters) - Brent crude prices were trading close to $100 a barrel on Wednesday for the first time since July, as escalat...
-- [原文連結](https://finance.yahoo.com/energy/articles/oil-nears-100-fresh-middle-062728481.html)
+### ⚖️ VIAVI 將在 ECOC 2026 上展示端到端資料中心測試產品組合，支援縱向擴展、橫向擴展和橫向擴展至 1.6T 及以上
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: PRNewswire (2026-09-09T10:30:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 演示內容包括 L0-3 和 AI 結構驗證、CPO 和矽光子測試、量子和混合網路評估以及光纖檢查、清潔和監控解決方案亞利桑那州錢德勒，2026 年 9 月 9 日 /美通社/ -- VIAVI Solutions Inc. (VIA…
+- [原文連結](https://www.prnewswire.com/news-releases/viavi-to-showcase-end-to-end-data-center-testing-portfolio-enabling-scale-up-scale-out-and-scale-across-to-1-6t-and-beyond-at-ecoc-2026--302870209.html)
 
 ---
 
@@ -179,6 +170,15 @@
 - **摘要**: 川普政府正在加強對為美國資料中心供電的中國製造設備的審查，理由是隨著運行人工智慧系統的電力需求激增，存在國家安全風險。
 后安全专家：AI数据中心蕴含隐藏风险……
 - [原文連結](https://www.breitbart.com/tech/2026/09/07/security-experts-ai-data-centers-contain-hidden-risks-from-china/)
+
+---
+
+### ⚖️ 哪隻光學股票在 2026 年佔據主導地位：Applied Opto electronics、Lumentum 還是 Coherent？
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: 24/7 Wall St. (2026-09-07T13:30:22Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: AI datacenter spending has turned optical networking into one of 2026's hottest trades, but the three biggest U.S. optics stocks have performed so differentl...
+- [原文連結](https://247wallst.com/investing/2026/09/07/which-optics-stock-has-dominated-in-2026-applied-optoelectronics-lumentum-or-coherent-2/)
 
 ---
 
