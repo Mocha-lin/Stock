@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-10T16:42:59.847736+00:00
+> 更新時間：2026-09-10T19:19:06.103601+00:00
 
 ### 🚀 Hiwin Mikrosystem targets SiPh inspection gear as capacity expands 20%, order visibility extends to 2Q27
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -127,6 +127,37 @@
 
 ---
 
+### 🚀 iPhone Duo 來了，它會說服你購買可折疊手機
+- **題材**: `半導體先進製程` | **重要性**: `60`
+- **來源**: Android Central (2026-09-09T19:00:05Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: iPhone Duo 現已正式上市，將於 10 月發售，起價為 1,999 美元。它採用全新加寬式設計和兩個面板，是您一直想要的可折疊 iPhone。
+- [原文連結](https://www.androidcentral.com/phones/apple-iphone/the-iphone-duo-is-here-and-it-will-convince-you-to-buy-a-foldable)
+
+---
+
+### 🚀 川普表示，因伊朗戰爭而飆升的油價可能要到中期選舉後才會回落
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-09-09T18:43:30Z)
+- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 美國總統川普週三表示，因伊朗戰爭而飆升的油價可能要到美國中期選舉後才會回落。  哎呀…
+- [原文連結](https://www.yahoo.com/news/politics/articles/trump-says-oil-prices-spiked-184330387.html)
+
+---
+
+### 🚀 蘋果發表 A20 Pro 晶片，採用 2nm 設計，效能大幅提升
+- **題材**: `半導體先進製程` | **重要性**: `60`
+- **來源**: 9to5Mac (2026-09-09T17:37:32Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 蘋果今天在「驚喜與閃耀」活動中推出了首款基於 2nm 技術打造的晶片 A20 Pro，為 iPhone 18 Pro 系列帶來了 CPU、GPU 和 AI 的重大升級。以下是詳細資訊。
+
+
+
+ 更多的…
+- [原文連結](https://9to5mac.com/2026/09/09/apple-announces-a20-pro-chip-with-2nm-design-and-major-performance-gains/)
+
+---
+
 ### ⚖️ VIAVI 將在 ECOC 2026 上展示端到端資料中心測試產品組合，支援縱向擴展、橫向擴展和橫向擴展至 1.6T 及以上
 - **題材**: `光通訊與矽光子` | **重要性**: `60`
 - **來源**: PRNewswire (2026-09-09T10:30:00Z)
@@ -151,34 +182,6 @@
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 内存价格终于放缓，原因并不是供应改善。問題是買家沒錢了。 TrendForce预计第三季度传统DRAM合约价格将环比上涨13%至18%。丹·罗宾逊 (Dan Robinson) 报告了对 Th 的预测……
 - [原文連結](https://thenextweb.com/news/dram-prices-q3-trendforce-european-pc-shipments)
-
----
-
-### 🚀 當局稱胡塞武裝攻擊擾亂沙烏地阿拉伯能源設施，造成 73 人受傷
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-09-08T06:53:27Z)
-- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: DUBAI, Sept 8 (Reuters) - Operations at some energy facilities in Saudi Arabia, the world's top oil exporter, were halted on Tuesday following attacks by Yem...
-- [原文連結](https://www.yahoo.com/news/world/articles/saudi-led-coalition-yemen-says-041913121.html)
-
----
-
-### ⚖️ Security Experts: AI Data Centers Contain Hidden Risks from China
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: Breitbart News (2026-09-07T16:57:50Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 川普政府正在加強對為美國資料中心供電的中國製造設備的審查，理由是隨著運行人工智慧系統的電力需求激增，存在國家安全風險。
-后安全专家：AI数据中心蕴含隐藏风险……
-- [原文連結](https://www.breitbart.com/tech/2026/09/07/security-experts-ai-data-centers-contain-hidden-risks-from-china/)
-
----
-
-### 🚀 韓國今年迄今出口額突破全年紀錄，達 7,094 億美元
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-09-05T06:47:29Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: SEOUL, Sept 5 (Reuters) - South Korea's exports have reached $709.4 billion so far this year, surpassing last year's annual record, the customs office said o...
-- [原文連結](https://finance.yahoo.com/economy/articles/south-korea-exports-surpass-full-061313000.html)
 
 ---
 
