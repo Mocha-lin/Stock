@@ -1,5 +1,14 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-11T00:51:04.097296+00:00
+> 更新時間：2026-09-11T05:26:25.958446+00:00
+
+### 🚀 Hermes 測試推出薄膜探針卡，目標為 SiPh 和 CPO
+- **題材**: `光通訊與矽光子` | **重要性**: `83`
+- **來源**: Digitimes (2026-09-10T04:17:55Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 赫爾墨斯測試解決方案表示，8月營收持續上升，首次突破新台幣5億元大關，創下半導體測試設備工程服務和客製化產品穩定成長的月度新紀錄。晶圓測試解決方案…
+- [原文連結](https://www.digitimes.com/news/a20260909PD240/revenue-probe-cpo-transmission-growth.html)
+
+---
 
 ### 🚀 Hiwin Mikrosystem targets SiPh inspection gear as capacity expands 20%, order visibility extends to 2Q27
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -7,15 +16,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 在從銅互連轉向光學互連的推動下，矽光子 (SiPh) 和共封裝光學 (CPO) 正迅速走向主流採用，刺激了更廣泛的半導體設備供應鏈的需求。突出 SE 的趨勢…
 - [原文連結](https://www.digitimes.com/news/a20260903PD234/siph-inspection-capacity-copper-silicon.html)
-
----
-
-### 🚀 Silicon photonics testing shift could reshape how CPO suppliers win business
-- **題材**: `光通訊與矽光子` | **重要性**: `78`
-- **來源**: Digitimes (2026-09-04T02:12:47Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: As silicon photonics (SiPh) and co-packaged optics (CPO) move toward mass production, suppliers say testing is shifting earlier in the process to catch defects at the wafer stage, protect yields, and preserve data through final assembly. That change is also p…
-- [原文連結](https://www.digitimes.com/news/a20260904PD209/cpo-siph-wafer-testing.html)
 
 ---
 
@@ -46,21 +46,21 @@
 
 ---
 
-### ⚖️ 每週新聞綜述：AI內存競賽升溫，台灣製造業反彈，Nexperia裂痕加深
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-09-07T00:57:28Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 本週，人工智慧基礎設施和半導體供應鏈引起了讀者的興趣，從台灣製造業的復甦和 Nexperia 的法律訴訟，到 Sandisk 的 HBF、美光的 HBM 擴張以及 Marvell 的矽光子路線圖。三星還刷新了其智慧型手機...
-- [原文連結](https://www.digitimes.com/news/a20260907VL200/2026-micron-nexperia-samsung-taiwan.html)
-
----
-
 ### ⚖️ MSScorps 8 月營收因矽光子學收益再創新高
 - **題材**: `光通訊與矽光子` | **重要性**: `73`
 - **來源**: Digitimes (2026-09-04T06:31:46Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 隨著全球人工智慧 (AI) 運算能力持續擴大，推動對先進製程技術、高效能運算 (HPC)、先進封裝和高速運算的需求，MSScorps 2026 年 8 月收入創下單月新高。
 - [原文連結](https://www.digitimes.com/news/a20260904PD200/msscorps-siph-revenue-2026.html)
+
+---
+
+### 🚀 Silicon photonics testing shift could reshape how CPO suppliers win business
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-09-04T02:12:47Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: As silicon photonics (SiPh) and co-packaged optics (CPO) move toward mass production, suppliers say testing is shifting earlier in the process to catch defects at the wafer stage, protect yields, and preserve data through final assembly. That change is also p…
+- [原文連結](https://www.digitimes.com/news/a20260904PD209/cpo-siph-wafer-testing.html)
 
 ---
 
@@ -109,15 +109,6 @@
 
 ---
 
-### ⚖️ Micron reportedly targets 2× HBM capacity by end-2026; Samsung, SK Hynix keep the scale edge
-- **題材**: `HBM記憶體` | **重要性**: `68`
-- **來源**: Digitimes (2026-09-04T03:58:39Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Micron is reportedly preparing to roughly double its high-bandwidth memory capacity by the end of 2026, targeting about 100,000 wafers a month while sharply increasing 12-high HBM4 output for Nvidia's Vera Rubin AI platform.
-- [原文連結](https://www.digitimes.com/news/a20260904VL206/micron-hbm-capacity-sk-hynix-samsung.html)
-
----
-
 ### 🚀 Diesel Hits Record High as Trump’s Forever War Against Iran Grinds On
 - **題材**: `總體風險` | **重要性**: `65`
 - **來源**: Gizmodo.com (2026-09-08T22:07:31Z)
@@ -142,6 +133,15 @@
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Hon Hai reported August revenue of NT$921.8B, about $29.1B, up 52% year on year on AI server demand, well ahead of analyst expectations for the quarter. In June it signed a EUR 120M manufacturing partnership with Bull, the French state-owned computing firm, s…
 - [原文連結](https://thenextweb.com/news/hon-hai-foxconn-august-sales-up-52-percent-ai-servers-bull-partnership-angers-pardubice-eu-ai-gigafactories)
+
+---
+
+### ⚖️ Micron reportedly targets 2× HBM capacity by end-2026; Samsung, SK Hynix keep the scale edge
+- **題材**: `HBM記憶體` | **重要性**: `63`
+- **來源**: Digitimes (2026-09-04T03:58:39Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Micron is reportedly preparing to roughly double its high-bandwidth memory capacity by the end of 2026, targeting about 100,000 wafers a month while sharply increasing 12-high HBM4 output for Nvidia's Vera Rubin AI platform.
+- [原文連結](https://www.digitimes.com/news/a20260904VL206/micron-hbm-capacity-sk-hynix-samsung.html)
 
 ---
 
