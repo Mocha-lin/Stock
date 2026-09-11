@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-11T13:17:34.189188+00:00
+> 更新時間：2026-09-11T16:47:53.197762+00:00
 
 ### 🚀 Hermes 測試推出薄膜探針卡，目標為 SiPh 和 CPO
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -16,15 +16,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 在從銅互連轉向光學互連的推動下，矽光子 (SiPh) 和共封裝光學 (CPO) 正迅速走向主流採用，刺激了更廣泛的半導體設備供應鏈的需求。突出 SE 的趨勢…
 - [原文連結](https://www.digitimes.com/news/a20260903PD234/siph-inspection-capacity-copper-silicon.html)
-
----
-
-### 🚀 3只面向資料中心擴建的人工智慧光網路股票
-- **題材**: `光通訊與矽光子` | **重要性**: `75`
-- **來源**: MarketBeat (2026-09-08T14:20:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Ciena 以創紀錄的利潤率超出了第三季度盈利預期，但股價因利潤率擔憂而下跌，促使人們關注 AI 光學網絡的競爭對手 Lumentum 和 Coherent...
-- [原文連結](https://www.marketbeat.com/articles/3-ai-optical-networking-stocks-positioned-for-the-data-center-buildout/?utm_source=yahoofinance&amp;utm_medium=yahoofinance)
 
 ---
 
@@ -52,6 +43,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: As silicon photonics (SiPh) and co-packaged optics (CPO) move toward mass production, suppliers say testing is shifting earlier in the process to catch defects at the wafer stage, protect yields, and preserve data through final assembly. That change is also p…
 - [原文連結](https://www.digitimes.com/news/a20260904PD209/cpo-siph-wafer-testing.html)
+
+---
+
+### 🚀 3只面向資料中心擴建的人工智慧光網路股票
+- **題材**: `光通訊與矽光子` | **重要性**: `70`
+- **來源**: MarketBeat (2026-09-08T14:20:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Ciena 以創紀錄的利潤率超出了第三季度盈利預期，但股價因利潤率擔憂而下跌，促使人們關注 AI 光學網絡的競爭對手 Lumentum 和 Coherent...
+- [原文連結](https://www.marketbeat.com/articles/3-ai-optical-networking-stocks-positioned-for-the-data-center-buildout/?utm_source=yahoofinance&amp;utm_medium=yahoofinance)
 
 ---
 
@@ -106,15 +106,6 @@
 - **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: “夏天結束了。和平並沒有發生。戰爭仍在繼續。”
 - [原文連結](https://gizmodo.com/diesel-hits-record-high-as-trumps-forever-war-against-iran-grinds-on-2000808763)
-
----
-
-### 🚀 SK 海力士股價在首爾飆漲 8%。美國投資者周二可能會面臨現實檢驗。
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: Barchart.com (2026-09-08T14:14:44Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: OpenAI 發布 Astra 消息後，繼週五美國晶片股上漲之後，週一 SK 海力士股價在首爾上漲 8%。但此舉是一個追蹤指標...
-- [原文連結](https://www.barchart.com/story/news/4491580/sk-hynix-stock-just-surged-8-in-seoul-u-s-investors-may-get-a-reality-check-tuesday)
 
 ---
 
@@ -178,6 +169,19 @@
 - **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 美國總統川普週三表示，因伊朗戰爭而飆升的油價可能要到美國中期選舉後才會回落。  哎呀…
 - [原文連結](https://www.yahoo.com/news/politics/articles/trump-says-oil-prices-spiked-184330387.html)
+
+---
+
+### 🚀 蘋果發表 A20 Pro 晶片，採用 2nm 設計，效能大幅提升
+- **題材**: `半導體先進製程` | **重要性**: `60`
+- **來源**: 9to5Mac (2026-09-09T17:37:32Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 蘋果今天在「驚喜與閃耀」活動中推出了首款基於 2nm 技術打造的晶片 A20 Pro，為 iPhone 18 Pro 系列帶來了 CPU、GPU 和 AI 的重大升級。以下是詳細資訊。
+
+
+
+ 更多的…
+- [原文連結](https://9to5mac.com/2026/09/09/apple-announces-a20-pro-chip-with-2nm-design-and-major-performance-gains/)
 
 ---
 
