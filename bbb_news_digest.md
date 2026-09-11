@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-11T09:53:07.447436+00:00
+> 更新時間：2026-09-11T13:17:34.189188+00:00
 
 ### 🚀 Hermes 測試推出薄膜探針卡，目標為 SiPh 和 CPO
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -64,15 +64,6 @@
 
 ---
 
-### 🚀 微軟週二打破了另一個補丁記錄
-- **題材**: `AI伺服器` | **重要性**: `68`
-- **來源**: The Verge (2026-09-08T10:13:24Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 微軟的工程師通常會享受一個安靜的夏天來度假並與家人共度時光，這在許多公司都很常見。但今年，對於 Windows 和安全工程師來說，這個季節異常忙碌，這要歸功於新的人工智慧模型的發現…
-- [原文連結](https://www.theverge.com/tech/991178/microsoft-patch-tuesday-record-breaking-ai-notepad)
-
----
-
 ### ⚖️ 台荷矽光子團隊目標2026年1.6T DR8，下一步3.2T光鏈路
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
 - **來源**: Digitimes (2026-09-06T23:40:22Z)
@@ -100,6 +91,15 @@
 
 ---
 
+### ⚖️ Nvidia and Palantir are selling a sovereign AI stack, starting with Nvidia’s own supply chain
+- **題材**: `AI伺服器` | **重要性**: `65`
+- **來源**: The Next Web (2026-09-10T10:45:19Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Nvidia and Palantir have announced today a joint product for running AI over corporate supply chains without handing the underlying data to anyone else, and the first customer is Nvidia, which is using it on its own. It pairs Palantir’s Foundry, its Artificia…
+- [原文連結](https://thenextweb.com/news/nvidia-palantir-sovereign-ai-supply-chains)
+
+---
+
 ### 🚀 Diesel Hits Record High as Trump’s Forever War Against Iran Grinds On
 - **題材**: `總體風險` | **重要性**: `65`
 - **來源**: Gizmodo.com (2026-09-08T22:07:31Z)
@@ -124,6 +124,15 @@
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Hon Hai reported August revenue of NT$921.8B, about $29.1B, up 52% year on year on AI server demand, well ahead of analyst expectations for the quarter. In June it signed a EUR 120M manufacturing partnership with Bull, the French state-owned computing firm, s…
 - [原文連結](https://thenextweb.com/news/hon-hai-foxconn-august-sales-up-52-percent-ai-servers-bull-partnership-angers-pardubice-eu-ai-gigafactories)
+
+---
+
+### 🚀 微軟週二打破了另一個補丁記錄
+- **題材**: `AI伺服器` | **重要性**: `63`
+- **來源**: The Verge (2026-09-08T10:13:24Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 微軟的工程師通常會享受一個安靜的夏天來度假並與家人共度時光，這在許多公司都很常見。但今年，對於 Windows 和安全工程師來說，這個季節異常忙碌，這要歸功於新的人工智慧模型的發現…
+- [原文連結](https://www.theverge.com/tech/991178/microsoft-patch-tuesday-record-breaking-ai-notepad)
 
 ---
 
@@ -169,19 +178,6 @@
 - **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 美國總統川普週三表示，因伊朗戰爭而飆升的油價可能要到美國中期選舉後才會回落。  哎呀…
 - [原文連結](https://www.yahoo.com/news/politics/articles/trump-says-oil-prices-spiked-184330387.html)
-
----
-
-### 🚀 蘋果發表 A20 Pro 晶片，採用 2nm 設計，效能大幅提升
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: 9to5Mac (2026-09-09T17:37:32Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 蘋果今天在「驚喜與閃耀」活動中推出了首款基於 2nm 技術打造的晶片 A20 Pro，為 iPhone 18 Pro 系列帶來了 CPU、GPU 和 AI 的重大升級。以下是詳細資訊。
-
-
-
- 更多的…
-- [原文連結](https://9to5mac.com/2026/09/09/apple-announces-a20-pro-chip-with-2nm-design-and-major-performance-gains/)
 
 ---
 
