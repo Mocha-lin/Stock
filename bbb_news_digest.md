@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-11T05:26:25.958446+00:00
+> 更新時間：2026-09-11T09:53:07.447436+00:00
 
 ### 🚀 Hermes 測試推出薄膜探針卡，目標為 SiPh 和 CPO
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -46,15 +46,6 @@
 
 ---
 
-### ⚖️ MSScorps 8 月營收因矽光子學收益再創新高
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-09-04T06:31:46Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 隨著全球人工智慧 (AI) 運算能力持續擴大，推動對先進製程技術、高效能運算 (HPC)、先進封裝和高速運算的需求，MSScorps 2026 年 8 月收入創下單月新高。
-- [原文連結](https://www.digitimes.com/news/a20260904PD200/msscorps-siph-revenue-2026.html)
-
----
-
 ### 🚀 Silicon photonics testing shift could reshape how CPO suppliers win business
 - **題材**: `光通訊與矽光子` | **重要性**: `73`
 - **來源**: Digitimes (2026-09-04T02:12:47Z)
@@ -82,15 +73,6 @@
 
 ---
 
-### ⚖️ 三星與台積電審查的探針供應商加快矽光子測試計劃
-- **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-09-08T07:06:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 根據 The Elec 報告，三星電子已採取行動，透過使用台積電選擇的相同測試合作夥伴進行關鍵驗證工作，加速其矽光子技術的發展。這項工作的目的是完成晶圓級測試…
-- [原文連結](https://www.digitimes.com/news/a20260908PD221/samsung-silicon-photonics-probe-testing.html)
-
----
-
 ### ⚖️ 台荷矽光子團隊目標2026年1.6T DR8，下一步3.2T光鏈路
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
 - **來源**: Digitimes (2026-09-06T23:40:22Z)
@@ -106,6 +88,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Silicon photonics (SiPh) is emerging as a core theme at SEMICON Taiwan 2026, and while the sector is still in an early, fast-growing stage, production-line investments are already under way. As optical makers move into co-packaged optics (CPO), the source and…
 - [原文連結](https://www.digitimes.com/news/a20260904PD221/laser-siph-photonics-demand-taiwan.html)
+
+---
+
+### ⚖️ MSScorps 8 月營收因矽光子學收益再創新高
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-09-04T06:31:46Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 隨著全球人工智慧 (AI) 運算能力持續擴大，推動對先進製程技術、高效能運算 (HPC)、先進封裝和高速運算的需求，MSScorps 2026 年 8 月收入創下單月新高。
+- [原文連結](https://www.digitimes.com/news/a20260904PD200/msscorps-siph-revenue-2026.html)
 
 ---
 
@@ -136,12 +127,30 @@
 
 ---
 
+### ⚖️ 三星與台積電審查的探針供應商加快矽光子測試計劃
+- **題材**: `光通訊與矽光子` | **重要性**: `63`
+- **來源**: Digitimes (2026-09-08T07:06:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 根據 The Elec 報告，三星電子已採取行動，透過使用台積電選擇的相同測試合作夥伴進行關鍵驗證工作，加速其矽光子技術的發展。這項工作的目的是完成晶圓級測試…
+- [原文連結](https://www.digitimes.com/news/a20260908PD221/samsung-silicon-photonics-probe-testing.html)
+
+---
+
 ### ⚖️ Micron reportedly targets 2× HBM capacity by end-2026; Samsung, SK Hynix keep the scale edge
 - **題材**: `HBM記憶體` | **重要性**: `63`
 - **來源**: Digitimes (2026-09-04T03:58:39Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Micron is reportedly preparing to roughly double its high-bandwidth memory capacity by the end of 2026, targeting about 100,000 wafers a month while sharply increasing 12-high HBM4 output for Nvidia's Vera Rubin AI platform.
 - [原文連結](https://www.digitimes.com/news/a20260904VL206/micron-hbm-capacity-sk-hynix-samsung.html)
+
+---
+
+### 🚀 Trump offers every American $5,000 If Republicans Win The Midterms
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Wired (2026-09-10T06:30:32Z)
+- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: The eye-catching proposal, delivered during the President's speech at the midterm convention, would cost $1.2 trillion and raised immediate ethical questions.
+- [原文連結](https://www.wired.com/story/trump-offers-every-american-dollar5000-if-republicans-win-the-midterms/)
 
 ---
 
@@ -173,15 +182,6 @@
 
  更多的…
 - [原文連結](https://9to5mac.com/2026/09/09/apple-announces-a20-pro-chip-with-2nm-design-and-major-performance-gains/)
-
----
-
-### ⚖️ VIAVI 將在 ECOC 2026 上展示端到端資料中心測試產品組合，支援縱向擴展、橫向擴展和橫向擴展至 1.6T 及以上
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: PRNewswire (2026-09-09T10:30:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 演示內容包括 L0-3 和 AI 結構驗證、CPO 和矽光子測試、量子和混合網路評估以及光纖檢查、清潔和監控解決方案亞利桑那州錢德勒，2026 年 9 月 9 日 /美通社/ -- VIAVI Solutions Inc. (VIA…
-- [原文連結](https://www.prnewswire.com/news-releases/viavi-to-showcase-end-to-end-data-center-testing-portfolio-enabling-scale-up-scale-out-and-scale-across-to-1-6t-and-beyond-at-ecoc-2026--302870209.html)
 
 ---
 
