@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-12T09:28:32.493098+00:00
+> 更新時間：2026-09-12T12:38:29.301224+00:00
 
 ### 🚀 Hermes 測試推出薄膜探針卡，目標為 SiPh 和 CPO
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -16,15 +16,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 在從銅互連轉向光學互連的推動下，矽光子 (SiPh) 和共封裝光學 (CPO) 正迅速走向主流採用，刺激了更廣泛的半導體設備供應鏈的需求。突出 SE 的趨勢…
 - [原文連結](https://www.digitimes.com/news/a20260903PD234/siph-inspection-capacity-copper-silicon.html)
-
----
-
-### 🚀 戴爾：AI伺服器成長支撐價值（評等升級）
-- **題材**: `AI伺服器` | **重要性**: `75`
-- **來源**: Seeking Alpha (2026-09-05T11:35:31Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 在人工智慧伺服器訂單激增和人工智慧驅動的收入積壓創紀錄的推動下，戴爾第二季度業績表現出色。點擊閱讀有關戴爾升級至「購買」的更多資訊。
-- [原文連結](https://seekingalpha.com/article/4943331-dell-ai-server-growth-backs-value-rating-upgrade)
 
 ---
 
@@ -73,6 +64,15 @@
 
 ---
 
+### 🚀 戴爾：AI伺服器成長支撐價值（評等升級）
+- **題材**: `AI伺服器` | **重要性**: `70`
+- **來源**: Seeking Alpha (2026-09-05T11:35:31Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 在人工智慧伺服器訂單激增和人工智慧驅動的收入積壓創紀錄的推動下，戴爾第二季度業績表現出色。點擊閱讀有關戴爾升級至「購買」的更多資訊。
+- [原文連結](https://seekingalpha.com/article/4943331-dell-ai-server-growth-backs-value-rating-upgrade)
+
+---
+
 ### ⚖️ ficonTEC打破CPO測試瓶頸，與Hermes測試團隊合作
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
 - **來源**: Digitimes (2026-09-11T09:19:25Z)
@@ -115,15 +115,6 @@
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Nvidia and Palantir have announced today a joint product for running AI over corporate supply chains without handing the underlying data to anyone else, and the first customer is Nvidia, which is using it on its own. It pairs Palantir’s Foundry, its Artificia…
 - [原文連結](https://thenextweb.com/news/nvidia-palantir-sovereign-ai-supply-chains)
-
----
-
-### 🚀 歐洲排隊下訂單，英偉達合作夥伴鴻海的銷售成長 52%
-- **題材**: `AI伺服器` | **重要性**: `65`
-- **來源**: The Next Web (2026-09-05T11:07:55Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Hon Hai reported August revenue of NT$921.8B, about $29.1B, up 52% year on year on AI server demand, well ahead of analyst expectations for the quarter. In June it signed a EUR 120M manufacturing partnership with Bull, the French state-owned computing firm, s…
-- [原文連結](https://thenextweb.com/news/hon-hai-foxconn-august-sales-up-52-percent-ai-servers-bull-partnership-angers-pardubice-eu-ai-gigafactories)
 
 ---
 
@@ -178,6 +169,15 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: iPhone Duo 現已正式上市，將於 10 月發售，起價為 1,999 美元。它採用全新加寬式設計和兩個面板，是您一直想要的可折疊 iPhone。
 - [原文連結](https://www.androidcentral.com/phones/apple-iphone/the-iphone-duo-is-here-and-it-will-convince-you-to-buy-a-foldable)
+
+---
+
+### 🚀 川普表示，因伊朗戰爭而飆升的油價可能要到中期選舉後才會回落
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-09-09T18:43:30Z)
+- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 美國總統川普週三表示，因伊朗戰爭而飆升的油價可能要到美國中期選舉後才會回落。  哎呀…
+- [原文連結](https://www.yahoo.com/news/politics/articles/trump-says-oil-prices-spiked-184330387.html)
 
 ---
 
