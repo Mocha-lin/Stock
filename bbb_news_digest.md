@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-12T00:56:18.404478+00:00
+> 更新時間：2026-09-12T05:16:44.183669+00:00
 
 ### 🚀 Hermes 測試推出薄膜探針卡，目標為 SiPh 和 CPO
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -55,15 +55,6 @@
 
 ---
 
-### ⚖️ 每週新聞綜述：AI內存競賽升溫，台灣製造業反彈，Nexperia裂痕加深
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-09-07T00:57:28Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: AI infrastructure and semiconductor supply chains led reader interest this week, from Taiwan's manufacturing recovery and Nexperia's legal battle to Sandisk's HBF, Micron's HBM expansion, and Marvell's silicon photonics roadmap. Samsung also refreshed its sma…
-- [原文連結](https://www.digitimes.com/news/a20260907VL200/2026-micron-nexperia-samsung-taiwan.html)
-
----
-
 ### 🚀 Forget the AI Headlines. AHBM Holders Should Be Watching Memory Chip Prices
 - **題材**: `HBM記憶體` | **重要性**: `70`
 - **來源**: 24/7 Wall St. (2026-09-10T14:00:22Z)
@@ -79,6 +70,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Ciena 以創紀錄的利潤率超出了第三季度盈利預期，但股價因利潤率擔憂而下跌，促使人們關注 AI 光學網絡的競爭對手 Lumentum 和 Coherent...
 - [原文連結](https://www.marketbeat.com/articles/3-ai-optical-networking-stocks-positioned-for-the-data-center-buildout/?utm_source=yahoofinance&amp;utm_medium=yahoofinance)
+
+---
+
+### ⚖️ Taiwan tech minister in Europe to advance semiconductor cooperation
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-09-11T03:01:46Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: National Science and Technology Council (NSTC) Minister Cheng-Wen Wu visited the UK and Belgium in early September to advance Taiwan-Europe cooperation on advanced semiconductor packaging, silicon photonics (SiPh), and talent exchange, while also strengthenin…
+- [原文連結](https://www.digitimes.com/news/a20260911PD215/taiwan-europe-nstc-manufacturing-semiconductors.html)
 
 ---
 
