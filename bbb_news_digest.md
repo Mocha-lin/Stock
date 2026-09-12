@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-12T12:38:29.301224+00:00
+> 更新時間：2026-09-12T15:54:30.577811+00:00
 
 ### 🚀 Hermes 測試推出薄膜探針卡，目標為 SiPh 和 CPO
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -25,15 +25,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 台灣2026年創新科技博覽會將於9月17日至19日於台北世界貿易中心一館舉行。經濟部工業發展管理局10日表示，AI資料中心需要更快的傳輸和更好的協作…
 - [原文連結](https://www.digitimes.com/news/a20260910PD242/taiwan-itri-taipei-photonics-silicon.html)
-
----
-
-### ⚠️ 框架正在為一些客戶提供 RAM 退款
-- **題材**: `HBM記憶體` | **重要性**: `73`
-- **來源**: The Verge (2026-09-09T15:36:37Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 在組件持續短缺的情況下，Framework 降低了一些 Laptop 13 Pro 買家的 RAM 價格，這是一個“罕見的積極更新”
-- [原文連結](https://www.theverge.com/gadgets/992218/framework-lowers-ram-prices-refunds)
 
 ---
 
@@ -91,6 +82,15 @@
 
 ---
 
+### ⚠️ 框架正在為一些客戶提供 RAM 退款
+- **題材**: `HBM記憶體` | **重要性**: `68`
+- **來源**: The Verge (2026-09-09T15:36:37Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 在組件持續短缺的情況下，Framework 降低了一些 Laptop 13 Pro 買家的 RAM 價格，這是一個“罕見的積極更新”
+- [原文連結](https://www.theverge.com/gadgets/992218/framework-lowers-ram-prices-refunds)
+
+---
+
 ### ⚖️ 三星轉向日本尋求封裝優勢，縮小與 SK 海力士的 HBM 差距
 - **題材**: `HBM記憶體` | **重要性**: `68`
 - **來源**: Digitimes (2026-09-09T07:46:21Z)
@@ -106,6 +106,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 人工智慧資料中心的需求正在加速向更快的光互連的轉變，將傳輸速度、功率效率和封裝整合置於下一代光通訊的中心。台灣力吉電子與畜牧科技…
 - [原文連結](https://www.digitimes.com/news/a20260904PD230/photonics-silicon-2026-data-center-packaging.html)
+
+---
+
+### 🚀 這個免費的應用程式會欺騙 DLSS 5 在它不適合的 GPU 上運行，Nvidia 需要做一些解釋
+- **題材**: `AI伺服器` | **重要性**: `65`
+- **來源**: MakeUseOf (2026-09-11T13:51:22Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Windows 11 應用程式在整個桌面上強制使用 Nvidia 的 DLSS 5 神經渲染器，處理遊戲、影片和照片。
+- [原文連結](https://www.makeuseof.com/this-free-app-shows-dlss-5s-best-use-case-might-have-nothing-to-do-with-games/)
 
 ---
 
@@ -136,6 +145,15 @@
 
 ---
 
+### ⚠️ 美國8月消費者通膨回升
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-09-11T12:41:18Z)
+- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 作者：Lucia Mutikani 華盛頓，9 月 11 日（路透社）
+- [原文連結](https://finance.yahoo.com/economy/policy/articles/us-consumer-inflation-picks-august-123741290.html)
+
+---
+
 ### 🚀 利率又要調高了嗎？
 - **題材**: `總體風險` | **重要性**: `60`
 - **來源**: BBC News (2026-09-10T23:34:38Z)
@@ -160,24 +178,6 @@
 - **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: The eye-catching proposal, delivered during the President's speech at the midterm convention, would cost $1.2 trillion and raised immediate ethical questions.
 - [原文連結](https://www.wired.com/story/trump-offers-every-american-dollar5000-if-republicans-win-the-midterms/)
-
----
-
-### 🚀 iPhone Duo 來了，它會說服你購買可折疊手機
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: Android Central (2026-09-09T19:00:05Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: iPhone Duo 現已正式上市，將於 10 月發售，起價為 1,999 美元。它採用全新加寬式設計和兩個面板，是您一直想要的可折疊 iPhone。
-- [原文連結](https://www.androidcentral.com/phones/apple-iphone/the-iphone-duo-is-here-and-it-will-convince-you-to-buy-a-foldable)
-
----
-
-### 🚀 川普表示，因伊朗戰爭而飆升的油價可能要到中期選舉後才會回落
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-09-09T18:43:30Z)
-- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 美國總統川普週三表示，因伊朗戰爭而飆升的油價可能要到美國中期選舉後才會回落。  哎呀…
-- [原文連結](https://www.yahoo.com/news/politics/articles/trump-says-oil-prices-spiked-184330387.html)
 
 ---
 
