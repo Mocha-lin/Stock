@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-09-12T05:16:44.183669+00:00",
+  "generated_at": "2026-09-12T09:28:32.493098+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 68,
@@ -193,29 +193,32 @@
       "reason": "屬「HBM記憶體」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
-      "id": "b84fa0844c1e58be",
+      "id": "c1c80ec5251c930c",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "三星轉向日本尋求封裝優勢，縮小與 SK 海力士的 HBM 差距",
-      "summary": "三星電子在橫濱開設了先進封裝研究中心，隨著該公司努力縮小其市場份額，使開發工作更接近為高頻寬記憶體（HBM）提供關鍵材料和設備的日本供應商。",
-      "original_title": "Samsung turns to Japan for packaging edge, narrows HBM gap with SK Hynix",
-      "url": "https://www.digitimes.com/news/a20260909VL223/samsung-packaging-hbm-sk-hynix-materials.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-09-09T07:46:21Z",
-      "importance": 73,
-      "impact": "neutral",
+      "theme": "AI伺服器",
+      "title": "隨著人工智慧需求激增，亞馬遜將其 NVIDIA GPU 訂單增加兩倍至 300 萬顆晶片",
+      "summary": "Amazon.com, Inc.（納斯達克股票代碼：AMZN）和 NVIDIA 公司（納斯達克股票代碼：NVDA）於 8 月 26 日宣布擴大交易，將額外獲得 200 萬 Nvidia GP...",
+      "original_title": "Amazon Triples Its NVIDIA GPU Orders to 3 Million Chips as AI Demand Surges",
+      "url": "https://finance.yahoo.com/technology/ai/articles/amazon-triples-nvidia-gpu-orders-050739503.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-09-11T05:07:39Z",
+      "importance": 70,
+      "impact": "positive",
       "timeframe": "short_term",
       "tags": [
-        "HBM",
-        "記憶體"
+        "AI",
+        "伺服器",
+        "資料中心"
       ],
       "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
       ],
       "related_models": [
         "003",
@@ -225,7 +228,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
+      "reason": "屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "5959bb7f3d60b22a",
@@ -301,17 +304,17 @@
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
-      "id": "3ceeb365660a4d99",
+      "id": "f2ab6baaa6d349bb",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "光通訊與矽光子",
-      "title": "Taiwan tech minister in Europe to advance semiconductor cooperation",
-      "summary": "National Science and Technology Council (NSTC) Minister Cheng-Wen Wu visited the UK and Belgium in early September to advance Taiwan-Europe cooperation on advanced semiconductor packaging, silicon photonics (SiPh), and talent exchange, while also strengthenin…",
-      "original_title": "Taiwan tech minister in Europe to advance semiconductor cooperation",
-      "url": "https://www.digitimes.com/news/a20260911PD215/taiwan-europe-nstc-manufacturing-semiconductors.html",
+      "title": "ficonTEC打破CPO測試瓶頸，與Hermes測試團隊合作",
+      "summary": "德國矽光子（SiPh）測試設備製造商ficonTEC突破了共封裝光學（CPO）「電入光出」測試的主要瓶頸，推出了業界首個Insertion 2自動化光學測試解決方案。一個…",
+      "original_title": "ficonTEC breaks CPO test bottleneck, teams with Hermes Testing",
+      "url": "https://www.digitimes.com/news/a20260910PD231/cpo-siph-silicon-testing-equipment.html",
       "source": "Digitimes",
       "domain": "digitimes.com",
-      "published_at": "2026-09-11T03:01:46Z",
+      "published_at": "2026-09-11T09:19:25Z",
       "importance": 68,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -375,6 +378,41 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "b84fa0844c1e58be",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "三星轉向日本尋求封裝優勢，縮小與 SK 海力士的 HBM 差距",
+      "summary": "三星電子在橫濱開設了先進封裝研究中心，隨著該公司努力縮小其市場份額，使開發工作更接近為高頻寬記憶體（HBM）提供關鍵材料和設備的日本供應商。",
+      "original_title": "Samsung turns to Japan for packaging edge, narrows HBM gap with SK Hynix",
+      "url": "https://www.digitimes.com/news/a20260909VL223/samsung-packaging-hbm-sk-hynix-materials.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-09-09T07:46:21Z",
+      "importance": 68,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "e9763efcecadf168",
@@ -830,44 +868,6 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "b2331bbe84716d5a",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "Diesel Hits Record High as Trump’s Forever War Against Iran Grinds On",
-      "summary": "“夏天結束了。和平並沒有發生。戰爭仍在繼續。”",
-      "original_title": "Diesel Hits Record High as Trump’s Forever War Against Iran Grinds On",
-      "url": "https://gizmodo.com/diesel-hits-record-high-as-trumps-forever-war-against-iran-grinds-on-2000808763",
-      "source": "Gizmodo.com",
-      "domain": "gizmodo.com",
-      "published_at": "2026-09-08T22:07:31Z",
-      "importance": 60,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "14c7d5933d4f1259",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -903,29 +903,32 @@
       "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "57bdbd9c00fd4679",
+      "id": "37073d4d1ac1a817",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "韓國今年迄今出口額突破全年紀錄，達 7,094 億美元",
-      "summary": "SEOUL, Sept 5 (Reuters) - South Korea's exports have reached $709.4 billion so far this year, surpassing last year's annual record, the customs office said o...",
-      "original_title": "South Korea exports surpass full-year record, hit $709.4 billion YTD",
-      "url": "https://finance.yahoo.com/economy/articles/south-korea-exports-surpass-full-061313000.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-09-05T06:47:29Z",
-      "importance": 60,
-      "impact": "positive",
+      "theme": "總體風險",
+      "title": "這些密西根州搖擺不定的選民正準備迎接與加拿大的貿易戰帶來的更高的價格",
+      "summary": "President Trump's tariff standoff with Canada is rankling some key voters ahead of this year's midterm elections.",
+      "original_title": "These Michigan swing voters are bracing for higher prices from trade war with Canada",
+      "url": "https://www.npr.org/2026/09/11/nx-s1-5963884/michigan-focus-groups-canada-trump-tariffs",
+      "source": "NPR",
+      "domain": "npr.org",
+      "published_at": "2026-09-11T09:00:00Z",
+      "importance": 55,
+      "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "HBM",
-        "記憶體"
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
       ],
       "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
       ],
       "related_models": [
         "003",
@@ -935,7 +938,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "69fdf2043be056fc",
@@ -1090,14 +1093,14 @@
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "7054de87d4cf552b",
+      "id": "a0eb995a996fda94",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "半導體先進製程",
       "title": "Apple iPhone 18 活動中我最喜歡的東西",
-      "summary": "iPhone 18 Pro 和 Pro Max 以及热门的可折叠 iPhone Duo 带来了一些很棒的东西。但也有一些缺點。",
+      "summary": "iPhone 18 Pro 和 Pro Max 以及熱門的可折疊 iPhone Duo 帶來了一些很棒的東西。但也有一些缺點。",
       "original_title": "My Favorite Things from Apple’s iPhone 18 Event",
-      "url": "https://www.cnet.com/tech/mobile/favorite-things-apples-iphone-18-duo-event/",
+      "url": "https://www.cnet.com/tech/mobile/favorite-things-apples-iphone-18-duo-event-2/",
       "source": "CNET",
       "domain": "cnet.com",
       "published_at": "2026-09-09T23:04:34Z",
@@ -1128,14 +1131,14 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "a0eb995a996fda94",
+      "id": "7054de87d4cf552b",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "半導體先進製程",
       "title": "Apple iPhone 18 活動中我最喜歡的東西",
-      "summary": "iPhone 18 Pro 和 Pro Max 以及熱門的可折疊 iPhone Duo 帶來了一些很棒的東西。但也有一些缺點。",
+      "summary": "iPhone 18 Pro 和 Pro Max 以及热门的可折叠 iPhone Duo 带来了一些很棒的东西。但也有一些缺點。",
       "original_title": "My Favorite Things from Apple’s iPhone 18 Event",
-      "url": "https://www.cnet.com/tech/mobile/favorite-things-apples-iphone-18-duo-event-2/",
+      "url": "https://www.cnet.com/tech/mobile/favorite-things-apples-iphone-18-duo-event/",
       "source": "CNET",
       "domain": "cnet.com",
       "published_at": "2026-09-09T23:04:34Z",
@@ -1806,32 +1809,29 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "1e1a2e54e6be1fb7",
+      "id": "57bdbd9c00fd4679",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "A veteran fund manager says micro-caps are the stock market's 'best-kept secret'",
-      "summary": "The micro-cap segment of the market has had a streak of stellar gains since the tariff meltdown of 2025, but still flies mostly under the radar.",
-      "original_title": "A veteran fund manager says micro-caps are the stock market's 'best-kept secret'",
-      "url": "https://www.businessinsider.com/micro-cap-stocks-investing-picks-ai-tech-dhx-jim-stoeffel-2026-9#article",
-      "source": "Business Insider",
-      "domain": "businessinsider.com",
-      "published_at": "2026-09-05T09:15:01Z",
+      "theme": "HBM記憶體",
+      "title": "韓國今年迄今出口額突破全年紀錄，達 7,094 億美元",
+      "summary": "SEOUL, Sept 5 (Reuters) - South Korea's exports have reached $709.4 billion so far this year, surpassing last year's annual record, the customs office said o...",
+      "original_title": "South Korea exports surpass full-year record, hit $709.4 billion YTD",
+      "url": "https://finance.yahoo.com/economy/articles/south-korea-exports-surpass-full-061313000.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-09-05T06:47:29Z",
       "importance": 55,
-      "impact": "negative",
+      "impact": "positive",
       "timeframe": "short_term",
       "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
+        "HBM",
+        "記憶體"
       ],
       "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
       ],
       "related_models": [
         "003",
@@ -1841,7 +1841,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "a9dbcda0f3e809a7",
@@ -2481,44 +2481,6 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "4f67ebec0726598a",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "根據 The Information 報道，Thinking Machines 正在洽談融資 60 億美元",
-      "summary": "米拉·穆拉蒂 (Mira Murati) 的思維機器實驗室再次籌集資金。上週在網路上流傳的數字是錯誤的。 The Information 於 9 月 3 日披露了這項消息。根據融資前估值，其當前版本將融資規模定為 50 億至 60 億美元…",
-      "original_title": "Thinking Machines is in talks to raise $6bn, The Information reports",
-      "url": "https://thenextweb.com/news/thinking-machines-lab-6bn-round-nvidia-accel",
-      "source": "The Next Web",
-      "domain": "thenextweb.com",
-      "published_at": "2026-09-06T19:15:41Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "52f2efafaec941ff",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2552,6 +2514,44 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "1e1a2e54e6be1fb7",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "A veteran fund manager says micro-caps are the stock market's 'best-kept secret'",
+      "summary": "The micro-cap segment of the market has had a streak of stellar gains since the tariff meltdown of 2025, but still flies mostly under the radar.",
+      "original_title": "A veteran fund manager says micro-caps are the stock market's 'best-kept secret'",
+      "url": "https://www.businessinsider.com/micro-cap-stocks-investing-picks-ai-tech-dhx-jim-stoeffel-2026-9#article",
+      "source": "Business Insider",
+      "domain": "businessinsider.com",
+      "published_at": "2026-09-05T09:15:01Z",
+      "importance": 50,
+      "impact": "negative",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     }
   ]
 }
