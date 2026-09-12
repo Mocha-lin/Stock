@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-11T19:19:57.820710+00:00
+> 更新時間：2026-09-12T00:56:18.404478+00:00
 
 ### 🚀 Hermes 測試推出薄膜探針卡，目標為 SiPh 和 CPO
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -28,6 +28,15 @@
 
 ---
 
+### ⚖️ 工研院展示3.2T矽光子及AI資料中心冷卻
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-09-10T12:29:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 台灣2026年創新科技博覽會將於9月17日至19日於台北世界貿易中心一館舉行。經濟部工業發展管理局10日表示，AI資料中心需要更快的傳輸和更好的協作…
+- [原文連結](https://www.digitimes.com/news/a20260910PD242/taiwan-itri-taipei-photonics-silicon.html)
+
+---
+
 ### ⚠️ 框架正在為一些客戶提供 RAM 退款
 - **題材**: `HBM記憶體` | **重要性**: `73`
 - **來源**: The Verge (2026-09-09T15:36:37Z)
@@ -37,12 +46,30 @@
 
 ---
 
-### 🚀 Silicon photonics testing shift could reshape how CPO suppliers win business
+### ⚖️ 三星轉向日本尋求封裝優勢，縮小與 SK 海力士的 HBM 差距
+- **題材**: `HBM記憶體` | **重要性**: `73`
+- **來源**: Digitimes (2026-09-09T07:46:21Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 三星電子在橫濱開設了先進封裝研究中心，隨著該公司努力縮小其市場份額，使開發工作更接近為高頻寬記憶體（HBM）提供關鍵材料和設備的日本供應商。
+- [原文連結](https://www.digitimes.com/news/a20260909VL223/samsung-packaging-hbm-sk-hynix-materials.html)
+
+---
+
+### ⚖️ 每週新聞綜述：AI內存競賽升溫，台灣製造業反彈，Nexperia裂痕加深
 - **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-09-04T02:12:47Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: As silicon photonics (SiPh) and co-packaged optics (CPO) move toward mass production, suppliers say testing is shifting earlier in the process to catch defects at the wafer stage, protect yields, and preserve data through final assembly. That change is also p…
-- [原文連結](https://www.digitimes.com/news/a20260904PD209/cpo-siph-wafer-testing.html)
+- **來源**: Digitimes (2026-09-07T00:57:28Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: AI infrastructure and semiconductor supply chains led reader interest this week, from Taiwan's manufacturing recovery and Nexperia's legal battle to Sandisk's HBF, Micron's HBM expansion, and Marvell's silicon photonics roadmap. Samsung also refreshed its sma…
+- [原文連結](https://www.digitimes.com/news/a20260907VL200/2026-micron-nexperia-samsung-taiwan.html)
+
+---
+
+### 🚀 Forget the AI Headlines. AHBM Holders Should Be Watching Memory Chip Prices
+- **題材**: `HBM記憶體` | **重要性**: `70`
+- **來源**: 24/7 Wall St. (2026-09-10T14:00:22Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: AHBM 在交易的頭幾週飆升，但推動其上漲的力量與 AI ETF 的炒作無關。一個不起眼的行業每月發布的數據...
+- [原文連結](https://247wallst.com/investing/etf/2026/09/10/forget-the-ai-headlines-ahbm-holders-should-be-watching-memory-chip-prices/)
 
 ---
 
@@ -73,39 +100,12 @@
 
 ---
 
-### 🚀 SiPh, optical lens demand ignite laser race
-- **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-09-04T23:54:36Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Silicon photonics (SiPh) is emerging as a core theme at SEMICON Taiwan 2026, and while the sector is still in an early, fast-growing stage, production-line investments are already under way. As optical makers move into co-packaged optics (CPO), the source and…
-- [原文連結](https://www.digitimes.com/news/a20260904PD221/laser-siph-photonics-demand-taiwan.html)
-
----
-
-### ⚖️ MSScorps 8 月營收因矽光子學收益再創新高
-- **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-09-04T06:31:46Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 隨著全球人工智慧 (AI) 運算能力持續擴大，推動對先進製程技術、高效能運算 (HPC)、先進封裝和高速運算的需求，MSScorps 2026 年 8 月收入創下單月新高。
-- [原文連結](https://www.digitimes.com/news/a20260904PD200/msscorps-siph-revenue-2026.html)
-
----
-
 ### ⚖️ Nvidia and Palantir are selling a sovereign AI stack, starting with Nvidia’s own supply chain
 - **題材**: `AI伺服器` | **重要性**: `65`
 - **來源**: The Next Web (2026-09-10T10:45:19Z)
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Nvidia and Palantir have announced today a joint product for running AI over corporate supply chains without handing the underlying data to anyone else, and the first customer is Nvidia, which is using it on its own. It pairs Palantir’s Foundry, its Artificia…
 - [原文連結](https://thenextweb.com/news/nvidia-palantir-sovereign-ai-supply-chains)
-
----
-
-### 🚀 Diesel Hits Record High as Trump’s Forever War Against Iran Grinds On
-- **題材**: `總體風險` | **重要性**: `65`
-- **來源**: Gizmodo.com (2026-09-08T22:07:31Z)
-- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: “夏天結束了。和平並沒有發生。戰爭仍在繼續。”
-- [原文連結](https://gizmodo.com/diesel-hits-record-high-as-trumps-forever-war-against-iran-grinds-on-2000808763)
 
 ---
 
@@ -136,12 +136,21 @@
 
 ---
 
-### ⚖️ Micron reportedly targets 2× HBM capacity by end-2026; Samsung, SK Hynix keep the scale edge
-- **題材**: `HBM記憶體` | **重要性**: `63`
-- **來源**: Digitimes (2026-09-04T03:58:39Z)
+### 🚀 利率又要調高了嗎？
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: BBC News (2026-09-10T23:34:38Z)
+- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 隨著各國努力因應能源成本推高通膨的問題，本月各國央行將如何因應。
+- [原文連結](https://www.bbc.com/news/articles/cew9nkx7v9eo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D)
+
+---
+
+### ⚖️ DeepSeek launches V4.1-Flash and retires V4-Pro, its flagship model
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: The Next Web (2026-09-10T15:48:12Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Micron is reportedly preparing to roughly double its high-bandwidth memory capacity by the end of 2026, targeting about 100,000 wafers a month while sharply increasing 12-high HBM4 output for Nvidia's Vera Rubin AI platform.
-- [原文連結](https://www.digitimes.com/news/a20260904VL206/micron-hbm-capacity-sk-hynix-samsung.html)
+- **摘要**: DeepSeek 於週四發布了 V4.1-Flash。該公司表示，這是一款較小的型號，在編碼和代理任務方面擊敗了自己的旗艦產品，而且價格更低。杭州實驗室在 X 的帖子中宣布了這一消息，並在 MIT 的 Hugging Face 上發布了權重…
+- [原文連結](https://thenextweb.com/news/deepseek-v4-1-flash-launch-v4-pro-retired-price-cut)
 
 ---
 
@@ -169,19 +178,6 @@
 - **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 美國總統川普週三表示，因伊朗戰爭而飆升的油價可能要到美國中期選舉後才會回落。  哎呀…
 - [原文連結](https://www.yahoo.com/news/politics/articles/trump-says-oil-prices-spiked-184330387.html)
-
----
-
-### 🚀 蘋果發表 A20 Pro 晶片，採用 2nm 設計，效能大幅提升
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: 9to5Mac (2026-09-09T17:37:32Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 蘋果今天在「驚喜與閃耀」活動中推出了首款基於 2nm 技術打造的晶片 A20 Pro，為 iPhone 18 Pro 系列帶來了 CPU、GPU 和 AI 的重大升級。以下是詳細資訊。
-
-
-
- 更多的…
-- [原文連結](https://9to5mac.com/2026/09/09/apple-announces-a20-pro-chip-with-2nm-design-and-major-performance-gains/)
 
 ---
 
