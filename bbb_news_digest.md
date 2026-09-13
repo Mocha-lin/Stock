@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-12T21:04:20.879191+00:00
+> 更新時間：2026-09-13T00:38:11.857226+00:00
 
 ### 🚀 Hermes 測試推出薄膜探針卡，目標為 SiPh 和 CPO
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -55,30 +55,12 @@
 
 ---
 
-### 🚀 戴爾：AI伺服器成長支撐價值（評等升級）
-- **題材**: `AI伺服器` | **重要性**: `70`
-- **來源**: Seeking Alpha (2026-09-05T11:35:31Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 在人工智慧伺服器訂單激增和人工智慧驅動的收入積壓創紀錄的推動下，戴爾第二季度業績表現出色。點擊閱讀有關戴爾升級至「購買」的更多資訊。
-- [原文連結](https://seekingalpha.com/article/4943331-dell-ai-server-growth-backs-value-rating-upgrade)
-
----
-
 ### ⚖️ ficonTEC打破CPO測試瓶頸，與Hermes測試團隊合作
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
 - **來源**: Digitimes (2026-09-11T09:19:25Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 德國矽光子（SiPh）測試設備製造商ficonTEC突破了共封裝光學（CPO）「電入光出」測試的主要瓶頸，推出了業界首個Insertion 2自動化光學測試解決方案。一個…
 - [原文連結](https://www.digitimes.com/news/a20260910PD231/cpo-siph-silicon-testing-equipment.html)
-
----
-
-### ⚖️ 矽光熱潮或將InP供需缺口推至70%以上，引發戰略光資源爭奪
-- **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-09-09T23:54:24Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 隨著人工智慧推動800G、1.6T等高速傳輸技術的轉型，矽光子在高速光通訊領域日益成為主流，吸引了各大產業廠商的投資。
-- [原文連結](https://www.digitimes.com/news/a20260909PD222/photonics-inp-silicon-transmission-communications.html)
 
 ---
 
@@ -118,12 +100,30 @@
 
 ---
 
+### 🚀 Micron Could Be the Next Nvidia For Patient Investors
+- **題材**: `HBM記憶體` | **重要性**: `65`
+- **來源**: 24/7 Wall St. (2026-09-10T14:00:27Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Micron has already posted a 662% one-year gain on the AI memory boom, but our proprietary model puts its 12-month price target below where the stock trades t...
+- [原文連結](https://247wallst.com/investing/2026/09/10/micron-could-be-the-next-nvidia-heres-where-mu-stock-could-go/)
+
+---
+
 ### ⚖️ Nvidia and Palantir are selling a sovereign AI stack, starting with Nvidia’s own supply chain
 - **題材**: `AI伺服器` | **重要性**: `65`
 - **來源**: The Next Web (2026-09-10T10:45:19Z)
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Nvidia and Palantir have announced today a joint product for running AI over corporate supply chains without handing the underlying data to anyone else, and the first customer is Nvidia, which is using it on its own. It pairs Palantir’s Foundry, its Artificia…
 - [原文連結](https://thenextweb.com/news/nvidia-palantir-sovereign-ai-supply-chains)
+
+---
+
+### ⚖️ 矽光熱潮或將InP供需缺口推至70%以上，引發戰略光資源爭奪
+- **題材**: `光通訊與矽光子` | **重要性**: `63`
+- **來源**: Digitimes (2026-09-09T23:54:24Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 隨著人工智慧推動800G、1.6T等高速傳輸技術的轉型，矽光子在高速光通訊領域日益成為主流，吸引了各大產業廠商的投資。
+- [原文連結](https://www.digitimes.com/news/a20260909PD222/photonics-inp-silicon-transmission-communications.html)
 
 ---
 
@@ -142,6 +142,20 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 根據 The Elec 報告，三星電子已採取行動，透過使用台積電選擇的相同測試合作夥伴進行關鍵驗證工作，加速其矽光子技術的發展。這項工作的目的是完成晶圓級測試…
 - [原文連結](https://www.digitimes.com/news/a20260908PD221/samsung-silicon-photonics-probe-testing.html)
+
+---
+
+### ⚖️ iPhone 18 Pro First Look: Same Design, Big Changes Inside
+- **題材**: `半導體先進製程` | **重要性**: `60`
+- **來源**: MacRumors (2026-09-11T18:32:50Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: After Wednesday's event, Apple let members of the media take a look at the new iPhone 18 Pro models, so we're able to share some early first impressions with you before pre-orders start tomorrow.
+
+
+
+
+Subscribe to the MacRumors YouTube channel for more videos…
+- [原文連結](https://www.macrumors.com/2026/09/11/iphone-18-pro-hands-on/)
 
 ---
 
@@ -169,15 +183,6 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: DeepSeek 於週四發布了 V4.1-Flash。該公司表示，這是一款較小的型號，在編碼和代理任務方面擊敗了自己的旗艦產品，而且價格更低。杭州實驗室在 X 的帖子中宣布了這一消息，並在 MIT 的 Hugging Face 上發布了權重…
 - [原文連結](https://thenextweb.com/news/deepseek-v4-1-flash-launch-v4-pro-retired-price-cut)
-
----
-
-### 🚀 Trump offers every American $5,000 If Republicans Win The Midterms
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Wired (2026-09-10T06:30:32Z)
-- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: The eye-catching proposal, delivered during the President's speech at the midterm convention, would cost $1.2 trillion and raised immediate ethical questions.
-- [原文連結](https://www.wired.com/story/trump-offers-every-american-dollar5000-if-republicans-win-the-midterms/)
 
 ---
 
