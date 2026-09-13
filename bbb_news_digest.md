@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-13T13:41:02.702263+00:00
+> 更新時間：2026-09-13T16:41:35.904461+00:00
 
 ### 🚀 Hermes 測試推出薄膜探針卡，目標為 SiPh 和 CPO
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -25,15 +25,6 @@
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Amazon.com, Inc.（納斯達克股票代碼：AMZN）和 NVIDIA 公司（納斯達克股票代碼：NVDA）於 8 月 26 日宣布擴大交易，將額外獲得 200 萬 Nvidia GP...
 - [原文連結](https://finance.yahoo.com/technology/ai/articles/amazon-triples-nvidia-gpu-orders-050739503.html)
-
----
-
-### 🚀 Forget the AI Headlines. AHBM Holders Should Be Watching Memory Chip Prices
-- **題材**: `HBM記憶體` | **重要性**: `70`
-- **來源**: 24/7 Wall St. (2026-09-10T14:00:22Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: AHBM 在交易的頭幾週飆升，但推動其上漲的力量與 AI ETF 的炒作無關。一個不起眼的行業每月發布的數據...
-- [原文連結](https://247wallst.com/investing/etf/2026/09/10/forget-the-ai-headlines-ahbm-holders-should-be-watching-memory-chip-prices/)
 
 ---
 
@@ -100,6 +91,15 @@
 
 ---
 
+### 🚀 Forget the AI Headlines. AHBM Holders Should Be Watching Memory Chip Prices
+- **題材**: `HBM記憶體` | **重要性**: `65`
+- **來源**: 24/7 Wall St. (2026-09-10T14:00:22Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: AHBM 在交易的頭幾週飆升，但推動其上漲的力量與 AI ETF 的炒作無關。一個不起眼的行業每月發布的數據...
+- [原文連結](https://247wallst.com/investing/etf/2026/09/10/forget-the-ai-headlines-ahbm-holders-should-be-watching-memory-chip-prices/)
+
+---
+
 ### ⚖️ 矽光熱潮或將InP供需缺口推至70%以上，引發戰略光資源爭奪
 - **題材**: `光通訊與矽光子` | **重要性**: `63`
 - **來源**: Digitimes (2026-09-09T23:54:24Z)
@@ -156,15 +156,6 @@ Subscribe to the MacRumors YouTube channel for more videos…
 - **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 隨著各國努力因應能源成本推高通膨的問題，本月各國央行將如何因應。
 - [原文連結](https://www.bbc.com/news/articles/cew9nkx7v9eo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D)
-
----
-
-### ⚖️ DeepSeek launches V4.1-Flash and retires V4-Pro, its flagship model
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: The Next Web (2026-09-10T15:48:12Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: DeepSeek 於週四發布了 V4.1-Flash。該公司表示，這是一款較小的型號，在編碼和代理任務方面擊敗了自己的旗艦產品，而且價格更低。杭州實驗室在 X 的帖子中宣布了這一消息，並在 MIT 的 Hugging Face 上發布了權重…
-- [原文連結](https://thenextweb.com/news/deepseek-v4-1-flash-launch-v4-pro-retired-price-cut)
 
 ---
 
