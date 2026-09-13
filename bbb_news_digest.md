@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-13T05:30:26.797957+00:00
+> 更新時間：2026-09-13T13:41:02.702263+00:00
 
 ### 🚀 Hermes 測試推出薄膜探針卡，目標為 SiPh 和 CPO
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -16,15 +16,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 在從銅互連轉向光學互連的推動下，矽光子 (SiPh) 和共封裝光學 (CPO) 正迅速走向主流採用，刺激了更廣泛的半導體設備供應鏈的需求。突出 SE 的趨勢…
 - [原文連結](https://www.digitimes.com/news/a20260903PD234/siph-inspection-capacity-copper-silicon.html)
-
----
-
-### ⚖️ 工研院展示3.2T矽光子及AI資料中心冷卻
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-09-10T12:29:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 台灣2026年創新科技博覽會將於9月17日至19日於台北世界貿易中心一館舉行。經濟部工業發展管理局10日表示，AI資料中心需要更快的傳輸和更好的協作…
-- [原文連結](https://www.digitimes.com/news/a20260910PD242/taiwan-itri-taipei-photonics-silicon.html)
 
 ---
 
@@ -64,6 +55,15 @@
 
 ---
 
+### ⚖️ 工研院展示3.2T矽光子及AI資料中心冷卻
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-09-10T12:29:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 台灣2026年創新科技博覽會將於9月17日至19日於台北世界貿易中心一館舉行。經濟部工業發展管理局10日表示，AI資料中心需要更快的傳輸和更好的協作…
+- [原文連結](https://www.digitimes.com/news/a20260910PD242/taiwan-itri-taipei-photonics-silicon.html)
+
+---
+
 ### ⚠️ 框架正在為一些客戶提供 RAM 退款
 - **題材**: `HBM記憶體` | **重要性**: `68`
 - **來源**: The Verge (2026-09-09T15:36:37Z)
@@ -97,24 +97,6 @@
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Windows 11 應用程式在整個桌面上強制使用 Nvidia 的 DLSS 5 神經渲染器，處理遊戲、影片和照片。
 - [原文連結](https://www.makeuseof.com/this-free-app-shows-dlss-5s-best-use-case-might-have-nothing-to-do-with-games/)
-
----
-
-### 🚀 Micron Could Be the Next Nvidia For Patient Investors
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: 24/7 Wall St. (2026-09-10T14:00:27Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Micron has already posted a 662% one-year gain on the AI memory boom, but our proprietary model puts its 12-month price target below where the stock trades t...
-- [原文連結](https://247wallst.com/investing/2026/09/10/micron-could-be-the-next-nvidia-heres-where-mu-stock-could-go/)
-
----
-
-### ⚖️ Nvidia and Palantir are selling a sovereign AI stack, starting with Nvidia’s own supply chain
-- **題材**: `AI伺服器` | **重要性**: `65`
-- **來源**: The Next Web (2026-09-10T10:45:19Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Nvidia and Palantir have announced today a joint product for running AI over corporate supply chains without handing the underlying data to anyone else, and the first customer is Nvidia, which is using it on its own. It pairs Palantir’s Foundry, its Artificia…
-- [原文連結](https://thenextweb.com/news/nvidia-palantir-sovereign-ai-supply-chains)
 
 ---
 
@@ -183,6 +165,24 @@ Subscribe to the MacRumors YouTube channel for more videos…
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: DeepSeek 於週四發布了 V4.1-Flash。該公司表示，這是一款較小的型號，在編碼和代理任務方面擊敗了自己的旗艦產品，而且價格更低。杭州實驗室在 X 的帖子中宣布了這一消息，並在 MIT 的 Hugging Face 上發布了權重…
 - [原文連結](https://thenextweb.com/news/deepseek-v4-1-flash-launch-v4-pro-retired-price-cut)
+
+---
+
+### ⚖️ Nvidia and Palantir are selling a sovereign AI stack, starting with Nvidia’s own supply chain
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: The Next Web (2026-09-10T10:45:19Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Nvidia and Palantir have announced today a joint product for running AI over corporate supply chains without handing the underlying data to anyone else, and the first customer is Nvidia, which is using it on its own. It pairs Palantir’s Foundry, its Artificia…
+- [原文連結](https://thenextweb.com/news/nvidia-palantir-sovereign-ai-supply-chains)
+
+---
+
+### 🚀 SK 海力士股價在首爾飆漲 8%。美國投資者周二可能會面臨現實檢驗。
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: Barchart.com (2026-09-08T14:14:44Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: OpenAI 發布 Astra 消息後，繼週五美國晶片股上漲之後，週一 SK 海力士股價在首爾上漲 8%。但此舉是一個追蹤指標...
+- [原文連結](https://www.barchart.com/story/news/4491580/sk-hynix-stock-just-surged-8-in-seoul-u-s-investors-may-get-a-reality-check-tuesday)
 
 ---
 
