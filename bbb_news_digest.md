@@ -1,5 +1,14 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-13T19:01:42.830138+00:00
+> 更新時間：2026-09-14T00:46:47.542122+00:00
+
+### ⚖️ AI server tracker: Taiwan optics race beyond 1.6T
+- **題材**: `光通訊與矽光子` | **重要性**: `78`
+- **來源**: Digitimes (2026-09-13T00:22:57Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Taiwan's optical communications supply chain is entering a more consequential phase of the AI infrastructure cycle. Demand is broadening beyond conventional pluggable transceivers toward continuous-wave (CW) lasers, fiber array units (FAUs), external laser so…
+- [原文連結](https://www.digitimes.com/news/a20260911VL216/taiwan-revenue-optics-cpo-communications.html)
+
+---
 
 ### 🚀 Hermes 測試推出薄膜探針卡，目標為 SiPh 和 CPO
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -10,12 +19,12 @@
 
 ---
 
-### 🚀 Hiwin Mikrosystem targets SiPh inspection gear as capacity expands 20%, order visibility extends to 2Q27
-- **題材**: `光通訊與矽光子` | **重要性**: `78`
-- **來源**: Digitimes (2026-09-06T01:16:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 在從銅互連轉向光學互連的推動下，矽光子 (SiPh) 和共封裝光學 (CPO) 正迅速走向主流採用，刺激了更廣泛的半導體設備供應鏈的需求。突出 SE 的趨勢…
-- [原文連結](https://www.digitimes.com/news/a20260903PD234/siph-inspection-capacity-copper-silicon.html)
+### ⚠️ AI server ODMs face widening component mismatches, with shortages reaching 15–20%
+- **題材**: `AI伺服器` | **重要性**: `73`
+- **來源**: Digitimes (2026-09-09T23:55:44Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Nvidia's Vera Rubin platform is entering its production ramp, and although server ODM shipments are still expected to ramp further, server ODMs delivered strong operating results in August. Industry sources said demand remains robust for both the H-series and…
+- [原文連結](https://www.digitimes.com/news/a20260909PD226/nvidia-rubin-component-revenue-ai-server.html)
 
 ---
 
@@ -25,6 +34,15 @@
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Amazon.com, Inc.（納斯達克股票代碼：AMZN）和 NVIDIA 公司（納斯達克股票代碼：NVDA）於 8 月 26 日宣布擴大交易，將額外獲得 200 萬 Nvidia GP...
 - [原文連結](https://finance.yahoo.com/technology/ai/articles/amazon-triples-nvidia-gpu-orders-050739503.html)
+
+---
+
+### 🚀 Time to Buy: Wall Street Says Dell Stock Could Climb 38% in a Year
+- **題材**: `AI伺服器` | **重要性**: `70`
+- **來源**: Barchart.com (2026-09-09T20:44:46Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Dell’s record AI server orders, accelerating enterprise infrastructure spending, and improving performance across storage and client solutions are giving the...
+- [原文連結](https://www.barchart.com/story/news/4522691/time-to-buy-wall-street-says-dell-stock-could-climb-38-in-a-year)
 
 ---
 
@@ -43,6 +61,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 德國矽光子（SiPh）測試設備製造商ficonTEC突破了共封裝光學（CPO）「電入光出」測試的主要瓶頸，推出了業界首個Insertion 2自動化光學測試解決方案。一個…
 - [原文連結](https://www.digitimes.com/news/a20260910PD231/cpo-siph-silicon-testing-equipment.html)
+
+---
+
+### ⚖️ Taiwan tech minister in Europe to advance semiconductor cooperation
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-09-11T03:01:46Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: National Science and Technology Council (NSTC) Minister Cheng-Wen Wu visited the UK and Belgium in early September to advance Taiwan-Europe cooperation on advanced semiconductor packaging, silicon photonics (SiPh), and talent exchange, while also strengthenin…
+- [原文連結](https://www.digitimes.com/news/a20260911PD215/taiwan-europe-nstc-manufacturing-semiconductors.html)
 
 ---
 
@@ -70,15 +97,6 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 三星電子在橫濱開設了先進封裝研究中心，隨著該公司努力縮小其市場份額，使開發工作更接近為高頻寬記憶體（HBM）提供關鍵材料和設備的日本供應商。
 - [原文連結](https://www.digitimes.com/news/a20260909VL223/samsung-packaging-hbm-sk-hynix-materials.html)
-
----
-
-### ⚖️ 台荷矽光子團隊目標2026年1.6T DR8，下一步3.2T光鏈路
-- **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-09-06T23:40:22Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 人工智慧資料中心的需求正在加速向更快的光互連的轉變，將傳輸速度、功率效率和封裝整合置於下一代光通訊的中心。台灣力吉電子與畜牧科技…
-- [原文連結](https://www.digitimes.com/news/a20260904PD230/photonics-silicon-2026-data-center-packaging.html)
 
 ---
 
@@ -150,30 +168,21 @@ Subscribe to the MacRumors YouTube channel for more videos…
 
 ---
 
-### 🚀 利率又要調高了嗎？
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: BBC News (2026-09-10T23:34:38Z)
-- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 隨著各國努力因應能源成本推高通膨的問題，本月各國央行將如何因應。
-- [原文連結](https://www.bbc.com/news/articles/cew9nkx7v9eo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D)
-
----
-
-### ⚖️ Nvidia and Palantir are selling a sovereign AI stack, starting with Nvidia’s own supply chain
+### ⚖️ Evercore ISI revamps Dell stock price target to $650
 - **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: The Next Web (2026-09-10T10:45:19Z)
+- **來源**: TheStreet (2026-09-11T03:33:00Z)
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Nvidia and Palantir have announced today a joint product for running AI over corporate supply chains without handing the underlying data to anyone else, and the first customer is Nvidia, which is using it on its own. It pairs Palantir’s Foundry, its Artificia…
-- [原文連結](https://thenextweb.com/news/nvidia-palantir-sovereign-ai-supply-chains)
+- **摘要**: Dell’s $95 billion AI server backlog is fueling the next leg of the stock’s rally.
+- [原文連結](https://www.thestreet.com/investing/stocks/dell-stock-price-target-evercore-650)
 
 ---
 
-### 🚀 SK 海力士股價在首爾飆漲 8%。美國投資者周二可能會面臨現實檢驗。
+### 🚀 Micron Could Be the Next Nvidia For Patient Investors
 - **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: Barchart.com (2026-09-08T14:14:44Z)
+- **來源**: 24/7 Wall St. (2026-09-10T14:00:27Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: OpenAI 發布 Astra 消息後，繼週五美國晶片股上漲之後，週一 SK 海力士股價在首爾上漲 8%。但此舉是一個追蹤指標...
-- [原文連結](https://www.barchart.com/story/news/4491580/sk-hynix-stock-just-surged-8-in-seoul-u-s-investors-may-get-a-reality-check-tuesday)
+- **摘要**: Micron has already posted a 662% one-year gain on the AI memory boom, but our proprietary model puts its 12-month price target below where the stock trades t...
+- [原文連結](https://247wallst.com/investing/2026/09/10/micron-could-be-the-next-nvidia-heres-where-mu-stock-could-go/)
 
 ---
 
