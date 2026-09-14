@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-14T05:34:32.183250+00:00
+> 更新時間：2026-09-14T15:41:37.366034+00:00
 
 ### ⚖️ AI server tracker: Taiwan optics race beyond 1.6T
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -46,15 +46,6 @@
 
 ---
 
-### ⚖️ ficonTEC打破CPO測試瓶頸，與Hermes測試團隊合作
-- **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-09-11T09:19:25Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 德國矽光子（SiPh）測試設備製造商ficonTEC突破了共封裝光學（CPO）「電入光出」測試的主要瓶頸，推出了業界首個Insertion 2自動化光學測試解決方案。一個…
-- [原文連結](https://www.digitimes.com/news/a20260910PD231/cpo-siph-silicon-testing-equipment.html)
-
----
-
 ### ⚖️ 工研院展示3.2T矽光子及AI資料中心冷卻
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
 - **來源**: Digitimes (2026-09-10T12:29:00Z)
@@ -82,15 +73,6 @@
 
 ---
 
-### 🚀 這個免費的應用程式會欺騙 DLSS 5 在它不適合的 GPU 上運行，Nvidia 需要做一些解釋
-- **題材**: `AI伺服器` | **重要性**: `65`
-- **來源**: MakeUseOf (2026-09-11T13:51:22Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Windows 11 應用程式在整個桌面上強制使用 Nvidia 的 DLSS 5 神經渲染器，處理遊戲、影片和照片。
-- [原文連結](https://www.makeuseof.com/this-free-app-shows-dlss-5s-best-use-case-might-have-nothing-to-do-with-games/)
-
----
-
 ### 🚀 隨著人工智慧需求激增，亞馬遜將其 NVIDIA GPU 訂單增加兩倍至 300 萬顆晶片
 - **題材**: `AI伺服器` | **重要性**: `65`
 - **來源**: Yahoo Entertainment (2026-09-11T05:07:39Z)
@@ -106,6 +88,15 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: AHBM 在交易的頭幾週飆升，但推動其上漲的力量與 AI ETF 的炒作無關。一個不起眼的行業每月發布的數據...
 - [原文連結](https://247wallst.com/investing/etf/2026/09/10/forget-the-ai-headlines-ahbm-holders-should-be-watching-memory-chip-prices/)
+
+---
+
+### ⚖️ ficonTEC打破CPO測試瓶頸，與Hermes測試團隊合作
+- **題材**: `光通訊與矽光子` | **重要性**: `63`
+- **來源**: Digitimes (2026-09-11T09:19:25Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 德國矽光子（SiPh）測試設備製造商ficonTEC突破了共封裝光學（CPO）「電入光出」測試的主要瓶頸，推出了業界首個Insertion 2自動化光學測試解決方案。一個…
+- [原文連結](https://www.digitimes.com/news/a20260910PD231/cpo-siph-silicon-testing-equipment.html)
 
 ---
 
@@ -159,12 +150,12 @@ Subscribe to the MacRumors YouTube channel for more videos…
 
 ---
 
-### ⚠️ 美國8月消費者通膨回升
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-09-11T12:41:18Z)
-- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 作者：Lucia Mutikani 華盛頓，9 月 11 日（路透社）
-- [原文連結](https://finance.yahoo.com/economy/policy/articles/us-consumer-inflation-picks-august-123741290.html)
+### 🚀 這個免費的應用程式會欺騙 DLSS 5 在它不適合的 GPU 上運行，Nvidia 需要做一些解釋
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: MakeUseOf (2026-09-11T13:51:22Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Windows 11 應用程式在整個桌面上強制使用 Nvidia 的 DLSS 5 神經渲染器，處理遊戲、影片和照片。
+- [原文連結](https://www.makeuseof.com/this-free-app-shows-dlss-5s-best-use-case-might-have-nothing-to-do-with-games/)
 
 ---
 
@@ -183,6 +174,15 @@ Subscribe to the MacRumors YouTube channel for more videos…
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Nvidia and Palantir have announced today a joint product for running AI over corporate supply chains without handing the underlying data to anyone else, and the first customer is Nvidia, which is using it on its own. It pairs Palantir’s Foundry, its Artificia…
 - [原文連結](https://thenextweb.com/news/nvidia-palantir-sovereign-ai-supply-chains)
+
+---
+
+### 🚀 Diesel Hits Record High as Trump’s Forever War Against Iran Grinds On
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Gizmodo.com (2026-09-08T22:07:31Z)
+- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: "Summer is over. Peace didn't happen. The war is still going on."
+- [原文連結](https://gizmodo.com/diesel-hits-record-high-as-trumps-forever-war-against-iran-grinds-on-2000808763)
 
 ---
 
