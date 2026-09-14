@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-14T18:14:02.373867+00:00
+> 更新時間：2026-09-14T22:10:00.207581+00:00
 
 ### ⚖️ AI server tracker: Taiwan optics race beyond 1.6T
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -136,17 +136,12 @@
 
 ---
 
-### ⚖️ iPhone 18 Pro First Look: Same Design, Big Changes Inside
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: MacRumors (2026-09-11T18:32:50Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: After Wednesday's event, Apple let members of the media take a look at the new iPhone 18 Pro models, so we're able to share some early first impressions with you before pre-orders start tomorrow.
-
-
-
-
-Subscribe to the MacRumors YouTube channel for more videos…
-- [原文連結](https://www.macrumors.com/2026/09/11/iphone-18-pro-hands-on/)
+### ⚠️ 'Culture shift' needed in how UK does business, PM urges
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: BBC News (2026-09-13T21:30:21Z)
+- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Burnham has said those who take risks should be backed by government, but his government has been criticised for increasing business costs.
+- [原文連結](https://www.bbc.co.uk/news/articles/clyl18x4734o)
 
 ---
 
@@ -177,12 +172,12 @@ Subscribe to the MacRumors YouTube channel for more videos…
 
 ---
 
-### 🚀 Diesel Hits Record High as Trump’s Forever War Against Iran Grinds On
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Gizmodo.com (2026-09-08T22:07:31Z)
-- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: "Summer is over. Peace didn't happen. The war is still going on."
-- [原文連結](https://gizmodo.com/diesel-hits-record-high-as-trumps-forever-war-against-iran-grinds-on-2000808763)
+### 🚀 SK 海力士股價在首爾飆漲 8%。美國投資者周二可能會面臨現實檢驗。
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: Barchart.com (2026-09-08T14:14:44Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: OpenAI 發布 Astra 消息後，繼週五美國晶片股上漲之後，週一 SK 海力士股價在首爾上漲 8%。但此舉是一個追蹤指標...
+- [原文連結](https://www.barchart.com/story/news/4491580/sk-hynix-stock-just-surged-8-in-seoul-u-s-investors-may-get-a-reality-check-tuesday)
 
 ---
 

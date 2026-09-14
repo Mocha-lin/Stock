@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-09-14T18:14:02.373867+00:00",
+  "generated_at": "2026-09-14T22:10:00.207581+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 68,
@@ -567,32 +567,32 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "1dc5a6ea165d960b",
+      "id": "9116987e538ca198",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "iPhone 18 Pro First Look: Same Design, Big Changes Inside",
-      "summary": "After Wednesday's event, Apple let members of the media take a look at the new iPhone 18 Pro models, so we're able to share some early first impressions with you before pre-orders start tomorrow.\n\n\n\n\r\nSubscribe to the MacRumors YouTube channel for more videos…",
-      "original_title": "iPhone 18 Pro First Look: Same Design, Big Changes Inside",
-      "url": "https://www.macrumors.com/2026/09/11/iphone-18-pro-hands-on/",
-      "source": "MacRumors",
-      "domain": "macrumors.com",
-      "published_at": "2026-09-11T18:32:50Z",
+      "theme": "總體風險",
+      "title": "'Culture shift' needed in how UK does business, PM urges",
+      "summary": "Burnham has said those who take risks should be backed by government, but his government has been criticised for increasing business costs.",
+      "original_title": "'Culture shift' needed in how UK does business, PM urges",
+      "url": "https://www.bbc.co.uk/news/articles/clyl18x4734o",
+      "source": "BBC News",
+      "domain": "bbc.co.uk",
+      "published_at": "2026-09-13T21:30:21Z",
       "importance": 60,
-      "impact": "neutral",
+      "impact": "negative",
       "timeframe": "short_term",
       "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
       ],
       "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
       ],
       "related_models": [
         "003",
@@ -602,7 +602,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "21b767cfa9ee7308",
@@ -716,44 +716,6 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "b2331bbe84716d5a",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "Diesel Hits Record High as Trump’s Forever War Against Iran Grinds On",
-      "summary": "\"Summer is over. Peace didn't happen. The war is still going on.\"",
-      "original_title": "Diesel Hits Record High as Trump’s Forever War Against Iran Grinds On",
-      "url": "https://gizmodo.com/diesel-hits-record-high-as-trumps-forever-war-against-iran-grinds-on-2000808763",
-      "source": "Gizmodo.com",
-      "domain": "gizmodo.com",
-      "published_at": "2026-09-08T22:07:31Z",
-      "importance": 60,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "14c7d5933d4f1259",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -822,6 +784,44 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "1dc5a6ea165d960b",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "iPhone 18 Pro First Look: Same Design, Big Changes Inside",
+      "summary": "After Wednesday's event, Apple let members of the media take a look at the new iPhone 18 Pro models, so we're able to share some early first impressions with you before pre-orders start tomorrow.\n\n\n\n\r\nSubscribe to the MacRumors YouTube channel for more videos…",
+      "original_title": "iPhone 18 Pro First Look: Same Design, Big Changes Inside",
+      "url": "https://www.macrumors.com/2026/09/11/iphone-18-pro-hands-on/",
+      "source": "MacRumors",
+      "domain": "macrumors.com",
+      "published_at": "2026-09-11T18:32:50Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "47278cdc0802e2ff",
