@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-14T00:46:47.542122+00:00
+> 更新時間：2026-09-14T05:34:32.183250+00:00
 
 ### ⚖️ AI server tracker: Taiwan optics race beyond 1.6T
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -28,15 +28,6 @@
 
 ---
 
-### 🚀 隨著人工智慧需求激增，亞馬遜將其 NVIDIA GPU 訂單增加兩倍至 300 萬顆晶片
-- **題材**: `AI伺服器` | **重要性**: `70`
-- **來源**: Yahoo Entertainment (2026-09-11T05:07:39Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Amazon.com, Inc.（納斯達克股票代碼：AMZN）和 NVIDIA 公司（納斯達克股票代碼：NVDA）於 8 月 26 日宣布擴大交易，將額外獲得 200 萬 Nvidia GP...
-- [原文連結](https://finance.yahoo.com/technology/ai/articles/amazon-triples-nvidia-gpu-orders-050739503.html)
-
----
-
 ### 🚀 Time to Buy: Wall Street Says Dell Stock Could Climb 38% in a Year
 - **題材**: `AI伺服器` | **重要性**: `70`
 - **來源**: Barchart.com (2026-09-09T20:44:46Z)
@@ -61,15 +52,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 德國矽光子（SiPh）測試設備製造商ficonTEC突破了共封裝光學（CPO）「電入光出」測試的主要瓶頸，推出了業界首個Insertion 2自動化光學測試解決方案。一個…
 - [原文連結](https://www.digitimes.com/news/a20260910PD231/cpo-siph-silicon-testing-equipment.html)
-
----
-
-### ⚖️ Taiwan tech minister in Europe to advance semiconductor cooperation
-- **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-09-11T03:01:46Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: National Science and Technology Council (NSTC) Minister Cheng-Wen Wu visited the UK and Belgium in early September to advance Taiwan-Europe cooperation on advanced semiconductor packaging, silicon photonics (SiPh), and talent exchange, while also strengthenin…
-- [原文連結](https://www.digitimes.com/news/a20260911PD215/taiwan-europe-nstc-manufacturing-semiconductors.html)
 
 ---
 
@@ -109,12 +91,30 @@
 
 ---
 
+### 🚀 隨著人工智慧需求激增，亞馬遜將其 NVIDIA GPU 訂單增加兩倍至 300 萬顆晶片
+- **題材**: `AI伺服器` | **重要性**: `65`
+- **來源**: Yahoo Entertainment (2026-09-11T05:07:39Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Amazon.com, Inc.（納斯達克股票代碼：AMZN）和 NVIDIA 公司（納斯達克股票代碼：NVDA）於 8 月 26 日宣布擴大交易，將額外獲得 200 萬 Nvidia GP...
+- [原文連結](https://finance.yahoo.com/technology/ai/articles/amazon-triples-nvidia-gpu-orders-050739503.html)
+
+---
+
 ### 🚀 Forget the AI Headlines. AHBM Holders Should Be Watching Memory Chip Prices
 - **題材**: `HBM記憶體` | **重要性**: `65`
 - **來源**: 24/7 Wall St. (2026-09-10T14:00:22Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: AHBM 在交易的頭幾週飆升，但推動其上漲的力量與 AI ETF 的炒作無關。一個不起眼的行業每月發布的數據...
 - [原文連結](https://247wallst.com/investing/etf/2026/09/10/forget-the-ai-headlines-ahbm-holders-should-be-watching-memory-chip-prices/)
+
+---
+
+### ⚖️ Taiwan tech minister in Europe to advance semiconductor cooperation
+- **題材**: `光通訊與矽光子` | **重要性**: `63`
+- **來源**: Digitimes (2026-09-11T03:01:46Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: National Science and Technology Council (NSTC) Minister Cheng-Wen Wu visited the UK and Belgium in early September to advance Taiwan-Europe cooperation on advanced semiconductor packaging, silicon photonics (SiPh), and talent exchange, while also strengthenin…
+- [原文連結](https://www.digitimes.com/news/a20260911PD215/taiwan-europe-nstc-manufacturing-semiconductors.html)
 
 ---
 
@@ -168,21 +168,21 @@ Subscribe to the MacRumors YouTube channel for more videos…
 
 ---
 
-### ⚖️ Evercore ISI revamps Dell stock price target to $650
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: TheStreet (2026-09-11T03:33:00Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Dell’s $95 billion AI server backlog is fueling the next leg of the stock’s rally.
-- [原文連結](https://www.thestreet.com/investing/stocks/dell-stock-price-target-evercore-650)
-
----
-
 ### 🚀 Micron Could Be the Next Nvidia For Patient Investors
 - **題材**: `HBM記憶體` | **重要性**: `60`
 - **來源**: 24/7 Wall St. (2026-09-10T14:00:27Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Micron has already posted a 662% one-year gain on the AI memory boom, but our proprietary model puts its 12-month price target below where the stock trades t...
 - [原文連結](https://247wallst.com/investing/2026/09/10/micron-could-be-the-next-nvidia-heres-where-mu-stock-could-go/)
+
+---
+
+### ⚖️ Nvidia and Palantir are selling a sovereign AI stack, starting with Nvidia’s own supply chain
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: The Next Web (2026-09-10T10:45:19Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Nvidia and Palantir have announced today a joint product for running AI over corporate supply chains without handing the underlying data to anyone else, and the first customer is Nvidia, which is using it on its own. It pairs Palantir’s Foundry, its Artificia…
+- [原文連結](https://thenextweb.com/news/nvidia-palantir-sovereign-ai-supply-chains)
 
 ---
 
