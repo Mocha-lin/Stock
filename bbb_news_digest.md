@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-15T17:21:24.855672+00:00
+> 更新時間：2026-09-15T21:48:21.234602+00:00
 
 ### 🚀 There Is No Off Switch for AI Capability Growth. Here Is Who Benefits Most From That.
 - **題材**: `AI伺服器` | **重要性**: `80`
@@ -55,15 +55,6 @@
 
 ---
 
-### 🚀 Time to Buy: Wall Street Says Dell Stock Could Climb 38% in a Year
-- **題材**: `AI伺服器` | **重要性**: `70`
-- **來源**: Barchart.com (2026-09-09T20:44:46Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Dell’s record AI server orders, accelerating enterprise infrastructure spending, and improving performance across storage and client solutions are giving the...
-- [原文連結](https://www.barchart.com/story/news/4522691/time-to-buy-wall-street-says-dell-stock-could-climb-38-in-a-year)
-
----
-
 ### ⚖️ 工研院展示3.2T矽光子及AI資料中心冷卻
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
 - **來源**: Digitimes (2026-09-10T12:29:00Z)
@@ -79,6 +70,15 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 在組件持續短缺的情況下，Framework 降低了一些 Laptop 13 Pro 買家的 RAM 價格，這是一個“罕見的積極更新”
 - [原文連結](https://www.theverge.com/gadgets/992218/framework-lowers-ram-prices-refunds)
+
+---
+
+### ⚖️ Gaming takes a backseat as Nvidia overhauls the RTX 5090 for maximum AI margins — RTX Pro 5500 delivers 2.6X VRAM at matching specs
+- **題材**: `AI伺服器` | **重要性**: `67`
+- **來源**: Tom's Hardware UK (2026-09-14T17:39:09Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Nvidia launches the RTX Pro 5500 Blackwell Workstation Edition graphics card for agentic and generative AI.
+- [原文連結](https://www.tomshardware.com/pc-components/gpus/gaming-takes-a-backseat-as-nvidia-overhauls-the-rtx-5090-for-maximum-ai-margins-rtx-pro-5500-delivers-2-6x-vram-at-matching-specs)
 
 ---
 
@@ -109,6 +109,15 @@
 
 ---
 
+### ⚠️ The best deals from Nintendo’s ‘customer appreciation’ sale
+- **題材**: `總體風險` | **重要性**: `63`
+- **來源**: The Verge (2026-09-14T19:30:58Z)
+- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: As promised, Nintendo has marked down a wide variety of Switch games and accessories at Amazon, Best Buy, and Walmart, as well as its own digital storefront. Its “Customer Appreciation” sale is happening because of tariff-related refunds it received from the …
+- [原文連結](https://www.theverge.com/gadgets/994892/nintendo-customer-appreciation-tariff-refund-deal-sale)
+
+---
+
 ### ⚖️ ficonTEC打破CPO測試瓶頸，與Hermes測試團隊合作
 - **題材**: `光通訊與矽光子` | **重要性**: `63`
 - **來源**: Digitimes (2026-09-11T09:19:25Z)
@@ -136,12 +145,12 @@
 
 ---
 
-### ⚖️ US 10-year yields reach 5%, highest since 2023
+### ⚖️ Spiking oil prices jolt U.S. bond yields past 5%, threatening to set off a vicious cycle of debt just as the Fed is expected to hike rates
 - **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-09-14T16:02:26Z)
+- **來源**: Yahoo Entertainment (2026-09-14T17:30:53Z)
 - **AI 判讀**: 屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: NEW YORK, Sept 14 (Reuters) - Benchmark 10-year U.S.
-- [原文連結](https://finance.yahoo.com/economy/policy/articles/us-10-yields-reach-5-142656910.html)
+- **摘要**: The 10-year topped 5% for the first time since 2023 as the war in its seventh month chokes oil supply — with the U.S. debt above 100% of GDP..
+- [原文連結](https://finance.yahoo.com/energy/articles/spiking-oil-prices-jolt-u-173053776.html)
 
 ---
 
@@ -169,15 +178,6 @@
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Windows 11 應用程式在整個桌面上強制使用 Nvidia 的 DLSS 5 神經渲染器，處理遊戲、影片和照片。
 - [原文連結](https://www.makeuseof.com/this-free-app-shows-dlss-5s-best-use-case-might-have-nothing-to-do-with-games/)
-
----
-
-### ⚖️ Nvidia and Palantir are selling a sovereign AI stack, starting with Nvidia’s own supply chain
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: The Next Web (2026-09-10T10:45:19Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Nvidia and Palantir have announced today a joint product for running AI over corporate supply chains without handing the underlying data to anyone else, and the first customer is Nvidia, which is using it on its own. It pairs Palantir’s Foundry, its Artificia…
-- [原文連結](https://thenextweb.com/news/nvidia-palantir-sovereign-ai-supply-chains)
 
 ---
 
