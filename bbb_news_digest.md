@@ -1,5 +1,14 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-15T01:11:29.520047+00:00
+> 更新時間：2026-09-15T05:35:44.572271+00:00
+
+### ⚖️ Foxconn subsidiary broadens AI interconnect role as 1.6T enters deployment
+- **題材**: `光通訊與矽光子` | **重要性**: `78`
+- **來源**: Digitimes (2026-09-14T04:55:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: AI data centers are moving decisively toward 1.6T connectivity, with 800G now mainstream in AI clusters and 400G remaining common in general cloud and enterprise deployments.
+- [原文連結](https://www.digitimes.com/news/a20260914PD225/data-design-fit-cpo-cooling.html)
+
+---
 
 ### ⚖️ AI server tracker: Taiwan optics race beyond 1.6T
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -169,15 +178,6 @@
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 微軟的工程師通常會享受一個安靜的夏天來度假並與家人共度時光，這在許多公司都很常見。但今年，對於 Windows 和安全工程師來說，這個季節異常忙碌，這要歸功於新的人工智慧模型的發現…
 - [原文連結](https://www.theverge.com/tech/991178/microsoft-patch-tuesday-record-breaking-ai-notepad)
-
----
-
-### ⚖️ 三星與台積電審查的探針供應商加快矽光子測試計劃
-- **題材**: `光通訊與矽光子` | **重要性**: `63`
-- **來源**: Digitimes (2026-09-08T07:06:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 根據 The Elec 報告，三星電子已採取行動，透過使用台積電選擇的相同測試合作夥伴進行關鍵驗證工作，加速其矽光子技術的發展。這項工作的目的是完成晶圓級測試…
-- [原文連結](https://www.digitimes.com/news/a20260908PD221/samsung-silicon-photonics-probe-testing.html)
 
 ---
 
