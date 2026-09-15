@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-14T22:10:00.207581+00:00
+> 更新時間：2026-09-15T01:11:29.520047+00:00
 
 ### ⚖️ AI server tracker: Taiwan optics race beyond 1.6T
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -19,12 +19,30 @@
 
 ---
 
+### 🚀 Samsung reportedly doesn’t want to make cheap chips for Qualcomm anymore
+- **題材**: `半導體先進製程` | **重要性**: `75`
+- **來源**: SamMobile (2026-09-11T16:53:53Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: There was a time when Samsung's Foundry division found it difficult to win orders from major chipmaking customers. It was sitting on ample capacity and burning billions of dollars every year. The situation has changed, as the foundry has picked up significant…
+- [原文連結](https://www.sammobile.com/news/samsung-reportedly-doesnt-want-to-make-cheap-chips-for-qualcomm-anymore/)
+
+---
+
 ### ⚠️ AI server ODMs face widening component mismatches, with shortages reaching 15–20%
 - **題材**: `AI伺服器` | **重要性**: `73`
 - **來源**: Digitimes (2026-09-09T23:55:44Z)
 - **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Nvidia's Vera Rubin platform is entering its production ramp, and although server ODM shipments are still expected to ramp further, server ODMs delivered strong operating results in August. Industry sources said demand remains robust for both the H-series and…
 - [原文連結](https://www.digitimes.com/news/a20260909PD226/nvidia-rubin-component-revenue-ai-server.html)
+
+---
+
+### 🚀 Wall Street Just Erased $57 Billion From Micron. The Shortage Behind Its Boom Is Getting Worse.
+- **題材**: `HBM記憶體` | **重要性**: `70`
+- **來源**: 24/7 Wall St. (2026-09-11T16:30:04Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Micron just posted the highest revenue guidance in its history while the shortage fueling its growth gets worse, yet Wall Street wiped out tens of billions i...
+- [原文連結](https://247wallst.com/investing/2026/09/11/wall-street-just-erased-57-billion-from-micron-the-shortage-behind-its-boom-is-getting-worse/)
 
 ---
 
@@ -73,6 +91,15 @@
 
 ---
 
+### 🚀 Dell Technologies (DELL) Raises its AI Server Forecast for the Second Time This Year
+- **題材**: `AI伺服器` | **重要性**: `65`
+- **來源**: Yahoo Entertainment (2026-09-11T23:39:09Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: On September 1, CNBC reported that Dell Technologies Inc. (NYSE:DELL) shares surged 9% after the firm raised its fiscal 2027 profit and revenue outlook for t...
+- [原文連結](https://finance.yahoo.com/technology/ai/articles/dell-technologies-dell-raises-ai-233909317.html)
+
+---
+
 ### 🚀 隨著人工智慧需求激增，亞馬遜將其 NVIDIA GPU 訂單增加兩倍至 300 萬顆晶片
 - **題材**: `AI伺服器` | **重要性**: `65`
 - **來源**: Yahoo Entertainment (2026-09-11T05:07:39Z)
@@ -82,12 +109,30 @@
 
 ---
 
+### 🚀 Dell (DELL) Reports $60.9B of AI Server Orders and a $95B Backlog. Can the Demand Surge Produce Durable Cash Flow?
+- **題材**: `AI伺服器` | **重要性**: `65`
+- **來源**: Yahoo Entertainment (2026-09-10T17:21:35Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Dell Technologies Inc. (NYSE:DELL) reported fiscal second-quarter 2027 revenue of $47.0 billion, up 58% year over year. AI server orders reached $60.9 billio...
+- [原文連結](https://finance.yahoo.com/technology/ai/articles/dell-dell-reports-60-9b-172135958.html)
+
+---
+
 ### 🚀 Forget the AI Headlines. AHBM Holders Should Be Watching Memory Chip Prices
 - **題材**: `HBM記憶體` | **重要性**: `65`
 - **來源**: 24/7 Wall St. (2026-09-10T14:00:22Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: AHBM 在交易的頭幾週飆升，但推動其上漲的力量與 AI ETF 的炒作無關。一個不起眼的行業每月發布的數據...
 - [原文連結](https://247wallst.com/investing/etf/2026/09/10/forget-the-ai-headlines-ahbm-holders-should-be-watching-memory-chip-prices/)
+
+---
+
+### 🚀 Qualcomm Shares Surge 9.5% on Amazon AI Partnership and 25 Million-Share Warrant
+- **題材**: `光通訊與矽光子` | **重要性**: `65`
+- **來源**: Advfn.com (2026-09-08T13:47:28Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Qualcomm Technologies (NASDAQ:QCOM) shares jumped 9. 5% after the company announced a multi-generational collaboration with Amazon (NASDAQ:AMZN) focused on c...
+- [原文連結](https://investorshub.advfn.com/market-news/article/35856/qualcomm-shares-surge-9-5-on-amazon-ai-partnership-and-25-million-share-warrant)
 
 ---
 
@@ -133,51 +178,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 根據 The Elec 報告，三星電子已採取行動，透過使用台積電選擇的相同測試合作夥伴進行關鍵驗證工作，加速其矽光子技術的發展。這項工作的目的是完成晶圓級測試…
 - [原文連結](https://www.digitimes.com/news/a20260908PD221/samsung-silicon-photonics-probe-testing.html)
-
----
-
-### ⚠️ 'Culture shift' needed in how UK does business, PM urges
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: BBC News (2026-09-13T21:30:21Z)
-- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Burnham has said those who take risks should be backed by government, but his government has been criticised for increasing business costs.
-- [原文連結](https://www.bbc.co.uk/news/articles/clyl18x4734o)
-
----
-
-### 🚀 這個免費的應用程式會欺騙 DLSS 5 在它不適合的 GPU 上運行，Nvidia 需要做一些解釋
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: MakeUseOf (2026-09-11T13:51:22Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Windows 11 應用程式在整個桌面上強制使用 Nvidia 的 DLSS 5 神經渲染器，處理遊戲、影片和照片。
-- [原文連結](https://www.makeuseof.com/this-free-app-shows-dlss-5s-best-use-case-might-have-nothing-to-do-with-games/)
-
----
-
-### 🚀 Micron Could Be the Next Nvidia For Patient Investors
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: 24/7 Wall St. (2026-09-10T14:00:27Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Micron has already posted a 662% one-year gain on the AI memory boom, but our proprietary model puts its 12-month price target below where the stock trades t...
-- [原文連結](https://247wallst.com/investing/2026/09/10/micron-could-be-the-next-nvidia-heres-where-mu-stock-could-go/)
-
----
-
-### ⚖️ Nvidia and Palantir are selling a sovereign AI stack, starting with Nvidia’s own supply chain
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: The Next Web (2026-09-10T10:45:19Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Nvidia and Palantir have announced today a joint product for running AI over corporate supply chains without handing the underlying data to anyone else, and the first customer is Nvidia, which is using it on its own. It pairs Palantir’s Foundry, its Artificia…
-- [原文連結](https://thenextweb.com/news/nvidia-palantir-sovereign-ai-supply-chains)
-
----
-
-### 🚀 SK 海力士股價在首爾飆漲 8%。美國投資者周二可能會面臨現實檢驗。
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: Barchart.com (2026-09-08T14:14:44Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: OpenAI 發布 Astra 消息後，繼週五美國晶片股上漲之後，週一 SK 海力士股價在首爾上漲 8%。但此舉是一個追蹤指標...
-- [原文連結](https://www.barchart.com/story/news/4491580/sk-hynix-stock-just-surged-8-in-seoul-u-s-investors-may-get-a-reality-check-tuesday)
 
 ---
 

@@ -1,9 +1,9 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-09-14T22:10:00.207581+00:00",
+  "generated_at": "2026-09-15T01:11:29.520047+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
-  "total_count": 68,
+  "total_count": 69,
   "items": [
     {
       "id": "c376fdb8b953b71e",
@@ -82,6 +82,44 @@
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
+      "id": "e69fd37d541cca4f",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "Samsung reportedly doesn’t want to make cheap chips for Qualcomm anymore",
+      "summary": "There was a time when Samsung's Foundry division found it difficult to win orders from major chipmaking customers. It was sitting on ample capacity and burning billions of dollars every year. The situation has changed, as the foundry has picked up significant…",
+      "original_title": "Samsung reportedly doesn’t want to make cheap chips for Qualcomm anymore",
+      "url": "https://www.sammobile.com/news/samsung-reportedly-doesnt-want-to-make-cheap-chips-for-qualcomm-anymore/",
+      "source": "SamMobile",
+      "domain": "sammobile.com",
+      "published_at": "2026-09-11T16:53:53Z",
+      "importance": 75,
+      "impact": "positive",
+      "timeframe": "short_to_mid_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
       "id": "209cacf39ebce8f9",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -118,6 +156,41 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
+      "id": "c67231e29767141c",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "Wall Street Just Erased $57 Billion From Micron. The Shortage Behind Its Boom Is Getting Worse.",
+      "summary": "Micron just posted the highest revenue guidance in its history while the shortage fueling its growth gets worse, yet Wall Street wiped out tens of billions i...",
+      "original_title": "Wall Street Just Erased $57 Billion From Micron. The Shortage Behind Its Boom Is Getting Worse.",
+      "url": "https://247wallst.com/investing/2026/09/11/wall-street-just-erased-57-billion-from-micron-the-shortage-behind-its-boom-is-getting-worse/",
+      "source": "24/7 Wall St.",
+      "domain": "247wallst.com",
+      "published_at": "2026-09-11T16:30:04Z",
+      "importance": 70,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "05943d10677cdc98",
@@ -304,6 +377,44 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "d1a5c6569587fefc",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Dell Technologies (DELL) Raises its AI Server Forecast for the Second Time This Year",
+      "summary": "On September 1, CNBC reported that Dell Technologies Inc. (NYSE:DELL) shares surged 9% after the firm raised its fiscal 2027 profit and revenue outlook for t...",
+      "original_title": "Dell Technologies (DELL) Raises its AI Server Forecast for the Second Time This Year",
+      "url": "https://finance.yahoo.com/technology/ai/articles/dell-technologies-dell-raises-ai-233909317.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-09-11T23:39:09Z",
+      "importance": 65,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "c1c80ec5251c930c",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -315,6 +426,44 @@
       "source": "Yahoo Entertainment",
       "domain": "finance.yahoo.com",
       "published_at": "2026-09-11T05:07:39Z",
+      "importance": 65,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "092e29188b7d53cf",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Dell (DELL) Reports $60.9B of AI Server Orders and a $95B Backlog. Can the Demand Surge Produce Durable Cash Flow?",
+      "summary": "Dell Technologies Inc. (NYSE:DELL) reported fiscal second-quarter 2027 revenue of $47.0 billion, up 58% year over year. AI server orders reached $60.9 billio...",
+      "original_title": "Dell (DELL) Reports $60.9B of AI Server Orders and a $95B Backlog. Can the Demand Surge Produce Durable Cash Flow?",
+      "url": "https://finance.yahoo.com/technology/ai/articles/dell-dell-reports-60-9b-172135958.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-09-10T17:21:35Z",
       "importance": 65,
       "impact": "positive",
       "timeframe": "short_term",
@@ -375,6 +524,44 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "5c21788415019028",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "Qualcomm Shares Surge 9.5% on Amazon AI Partnership and 25 Million-Share Warrant",
+      "summary": "Qualcomm Technologies (NASDAQ:QCOM) shares jumped 9. 5% after the company announced a multi-generational collaboration with Amazon (NASDAQ:AMZN) focused on c...",
+      "original_title": "Qualcomm Shares Surge 9.5% on Amazon AI Partnership and 25 Million-Share Warrant",
+      "url": "https://investorshub.advfn.com/market-news/article/35856/qualcomm-shares-surge-9-5-on-amazon-ai-partnership-and-25-million-share-warrant",
+      "source": "Advfn.com",
+      "domain": "investorshub.advfn.com",
+      "published_at": "2026-09-08T13:47:28Z",
+      "importance": 65,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "f2ab6baaa6d349bb",
@@ -716,6 +903,82 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "b2331bbe84716d5a",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "Diesel Hits Record High as Trump’s Forever War Against Iran Grinds On",
+      "summary": "\"Summer is over. Peace didn't happen. The war is still going on.\"",
+      "original_title": "Diesel Hits Record High as Trump’s Forever War Against Iran Grinds On",
+      "url": "https://gizmodo.com/diesel-hits-record-high-as-trumps-forever-war-against-iran-grinds-on-2000808763",
+      "source": "Gizmodo.com",
+      "domain": "gizmodo.com",
+      "published_at": "2026-09-08T22:07:31Z",
+      "importance": 60,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "c73193eb8e1368cc",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "Qualcomm Shares Climb on Amazon AI Infrastructure Deal",
+      "summary": "Qualcomm’s stock is getting a lift after the chipmaker announced a new partnership with Amazon.",
+      "original_title": "Qualcomm Shares Climb on Amazon AI Infrastructure Deal",
+      "url": "https://www.investopedia.com/market-update-qualcomm-shares-climb-on-amazon-ai-data-infrastructure-deal-qcom-amzn-12111514",
+      "source": "Investopedia",
+      "domain": "investopedia.com",
+      "published_at": "2026-09-08T19:04:36Z",
+      "importance": 60,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "14c7d5933d4f1259",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -751,29 +1014,32 @@
       "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "e13465aa7b1a219c",
+      "id": "734777ca5824d165",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "An Intel-Backed Startup Says It Can Beat HBM. Is Micron’s AI Memory Boom Vulnerable?",
-      "summary": "Micron Technology, Inc. (NASDAQ:MU) has become one of the AI boom’s biggest beneficiaries because high-bandwidth memory has turned into a scarce strategic re...",
-      "original_title": "An Intel-Backed Startup Says It Can Beat HBM. Is Micron’s AI Memory Boom Vulnerable?",
-      "url": "https://finance.yahoo.com/technology/articles/intel-backed-startup-says-beat-232338040.html",
+      "theme": "總體風險",
+      "title": "Oil prices jump more than $3 after new strikes on Saudi, Strait of Hormuz",
+      "summary": "By Colleen Howe BEIJING, Sept 14 (Reuters) - Oil prices jumped more than 2% on Monday, after new Houthi strikes on Saudi Arabia and Iranian attacks on ships...",
+      "original_title": "Oil prices jump more than $3 after new strikes on Saudi, Strait of Hormuz",
+      "url": "https://finance.yahoo.com/energy/articles/oil-prices-jump-more-3-224715375.html",
       "source": "Yahoo Entertainment",
       "domain": "finance.yahoo.com",
-      "published_at": "2026-09-11T23:23:38Z",
+      "published_at": "2026-09-13T22:47:15Z",
       "importance": 55,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "HBM",
-        "記憶體"
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
       ],
       "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
       ],
       "related_models": [
         "003",
@@ -783,7 +1049,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "1dc5a6ea165d960b",
@@ -822,6 +1088,44 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "132b5d3a30f14b6a",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "Inflation holds steady at elevated level as Iran war pushes up gas prices",
+      "summary": "Inflation stands more than a percentage point above the Fed's target rate of 2%.",
+      "original_title": "Inflation holds steady at elevated level as Iran war pushes up gas prices",
+      "url": "https://abcnews.com/Business/inflation-report-show-latest-prices-iran-war-pushes/story?id=136332071",
+      "source": "Abcnews.com",
+      "domain": "abcnews.com",
+      "published_at": "2026-09-11T12:53:42Z",
+      "importance": 55,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "47278cdc0802e2ff",
@@ -1239,6 +1543,44 @@
       "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "2ed36410826139d3",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Wistron stock falls after $1.47 billion global share sale",
+      "summary": "The Nvidia supplier priced 25 million global depositary receipts at $58.88 each, a 5.5% discount to its Monday closing price",
+      "original_title": "Wistron stock falls after $1.47 billion global share sale",
+      "url": "https://qz.com/wistron-stock-share-sale-discount-nvidia-090826",
+      "source": "Quartz India",
+      "domain": "qz.com",
+      "published_at": "2026-09-08T12:27:02Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "991fad859f323417",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1275,6 +1617,41 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "e13465aa7b1a219c",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "An Intel-Backed Startup Says It Can Beat HBM. Is Micron’s AI Memory Boom Vulnerable?",
+      "summary": "Micron Technology, Inc. (NASDAQ:MU) has become one of the AI boom’s biggest beneficiaries because high-bandwidth memory has turned into a scarce strategic re...",
+      "original_title": "An Intel-Backed Startup Says It Can Beat HBM. Is Micron’s AI Memory Boom Vulnerable?",
+      "url": "https://finance.yahoo.com/technology/articles/intel-backed-startup-says-beat-232338040.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-09-11T23:23:38Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "758f24a0ecbaa22f",
@@ -1429,6 +1806,79 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "ed003b74ca9bd17e",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "Memory Stocks Slide as Rates and Oil Swamp JPMorgan’s Overweight Call: SK Hynix Sinks 5%, Western Digital Drops 3%, Micron Slips",
+      "summary": "JPMorgan just slapped an Overweight rating on SK Hynix with a price target well above current levels, yet the stock is sinking anyway as surging Treasury yie...",
+      "original_title": "Memory Stocks Slide as Rates and Oil Swamp JPMorgan’s Overweight Call: SK Hynix Sinks 5%, Western Digital Drops 3%, Micron Slips",
+      "url": "https://247wallst.com/investing/2026/09/10/memory-stocks-slide-as-rates-and-oil-swamp-jpmorgans-overweight-call-sk-hynix-sinks-5-western-digital-drops-3-micron-slips/",
+      "source": "24/7 Wall St.",
+      "domain": "247wallst.com",
+      "published_at": "2026-09-10T13:22:16Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "ec06dcdd91db7507",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "Celero raises $275m to bring coherent optics inside AI data centres",
+      "summary": "Celero Communications, a two-year-old chip startup, has raised $275m in a Series C round that values it at more than $3bn. It makes the processors that push data down fibre optic cables between AI chips, racks and whole data centres. Atreides Management, Valo…",
+      "original_title": "Celero raises $275m to bring coherent optics inside AI data centres",
+      "url": "https://thenextweb.com/news/celero-275m-series-c-coherent-optics-ai-data-centres",
+      "source": "The Next Web",
+      "domain": "thenextweb.com",
+      "published_at": "2026-09-10T13:02:28Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "e1b24308e3d42b78",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1579,6 +2029,44 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "8201804a137b4af9",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "The US government is betting $300 million that quantum computing's real problem is manufacturing, not software",
+      "summary": "The awards are aimed at practical engineering work rather than quantum software. The companies are focused on building and manufacturing the components needed for larger, more reliable quantum systems, including processors, cryogenic equipment, semiconductor …",
+      "original_title": "The US government is betting $300 million that quantum computing's real problem is manufacturing, not software",
+      "url": "https://www.techspot.com/news/113784-us-government-betting-300-million-quantum-computing-real.html",
+      "source": "TechSpot",
+      "domain": "techspot.com",
+      "published_at": "2026-09-09T20:53:00Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "5134b0802574d9a2",
@@ -1955,6 +2443,44 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "6b420c4b98ee9897",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "Xiaomi Pad 9 Pro Max Launched: An iPad Pro Rival Under $700",
+      "summary": "Xiaomi has officially launched the Xiaomi Pad 9 Pro Max in China, targeting the ultra-premium tablet market. The flagship device debuts the company’s proprietary XRING O3 processor, a 3nm TSMC deca-core chip clocked up to 4.35 GHz, paired with a 16-core G2-Ul…",
+      "original_title": "Xiaomi Pad 9 Pro Max Launched: An iPad Pro Rival Under $700",
+      "url": "https://www.ubergizmo.com/2026/09/xiaomi-pad-9-pro-max/",
+      "source": "Ubergizmo",
+      "domain": "ubergizmo.com",
+      "published_at": "2026-09-08T14:50:02Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "affebc514dd74a21",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2064,494 +2590,6 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "68a3df645904ded0",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Rubin Observatory Peers Deep Into the Famous COSMOS Field",
-      "summary": "A new image from NSF–DOE Vera C. Rubin Observatory offers a spectacularly deep view into a famous region of sky known as the COSMOS field.",
-      "original_title": "Rubin Observatory Peers Deep Into the Famous COSMOS Field",
-      "url": "https://www.universetoday.com/articles/rubin-observatory-peers-deep-into-the-famous-cosmos-field",
-      "source": "Universe Today",
-      "domain": "universetoday.com",
-      "published_at": "2026-09-07T22:21:00Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "fe9d3a4f624bf3ad",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Jensen Huang says AGI has arrived, and 400,000 more GPUs are coming",
-      "summary": "Jensen Huang said it in four words. “AGI has arrived,” the Nvidia chief executive wrote on X late on Sunday, congratulating OpenAI on GPT-6 Astra. By Monday morning the post had passed 10 million views. The rest of the post is the part worth reading. Huang wr…",
-      "original_title": "Jensen Huang says AGI has arrived, and 400,000 more GPUs are coming",
-      "url": "https://thenextweb.com/news/jensen-huang-agi-has-arrived-gpt-6-astra",
-      "source": "The Next Web",
-      "domain": "thenextweb.com",
-      "published_at": "2026-09-07T22:10:31Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "7416a0a12a45c1ba",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "安全專家：AI資料中心隱藏來自中國的風險",
-      "summary": "川普政府正在加強對為美國資料中心供電的中國製造設備的審查，理由是隨著運行人工智慧系統的電力需求激增，存在國家安全風險。\n後安全專家：AI資料中心蘊含隱藏風險…",
-      "original_title": "Security Experts: AI Data Centers Contain Hidden Risks from China",
-      "url": "https://www.breitbart.com/tech/2026/09/07/security-experts-ai-data-centers-contain-hidden-risks-from-china/",
-      "source": "Breitbart News",
-      "domain": "breitbart.com",
-      "published_at": "2026-09-07T16:57:50Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "c1d0d49a68bf2ea3",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "哪隻光學股票在 2026 年佔據主導地位：Applied Opto electronics、Lumentum 還是 Coherent？",
-      "summary": "AI datacenter spending has turned optical networking into one of 2026's hottest trades, but the three biggest U.S. optics stocks have performed so differentl...",
-      "original_title": "Which Optics Stock Has Dominated in 2026: Applied Optoelectronics, Lumentum, or Coherent?",
-      "url": "https://247wallst.com/investing/2026/09/07/which-optics-stock-has-dominated-in-2026-applied-optoelectronics-lumentum-or-coherent-2/",
-      "source": "24/7 Wall St.",
-      "domain": "247wallst.com",
-      "published_at": "2026-09-07T13:30:22Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "2aaf1240599773d9",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "油價上漲和地緣政治風險導致通膨風險，股市下跌",
-      "summary": "By Amanda Cooper LONDON, Sept 7 (Reuters) - Rising oil prices, conflict in the Middle East and political uncertainty in Europe kept investors on edge on Mond...",
-      "original_title": "Stocks dented by inflation risk from rising oil, dicey geopolitics",
-      "url": "https://finance.yahoo.com/markets/world-indices/articles/asia-shares-bounce-others-cautious-010602533.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-09-07T13:13:54Z",
-      "importance": 50,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "7eb00fcb02260b93",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "Google Pixel 11 vs. Motorola Edge 2026：明顯的贏家",
-      "summary": "Looking to buy a phone and unable to decide? The Pixel 11 is my go-to choice if you need something that will last the better part of a decade.",
-      "original_title": "Google Pixel 11 vs. Motorola Edge 2026: There's an obvious winner",
-      "url": "https://www.androidcentral.com/phones/google-pixel/google-pixel-11-vs-motorola-edge-2026",
-      "source": "Android Central",
-      "domain": "androidcentral.com",
-      "published_at": "2026-09-07T12:09:12Z",
-      "importance": 50,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "bdebcc5805306a28",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "iPhone 18 Pro：今年不升級的九個理由",
-      "summary": "蘋果將在 9 月 9 日星期三推出新款 iPhone 18 Pro 和 iPhone 18 Pro Max 機型，預計這些設備的設計與 iPhone 17 Pro 機型基本相似，但內部將有一些增強功能。主要變化是沒有...",
-      "original_title": "iPhone 18 Pro: Nine Reasons Not to Upgrade This Year",
-      "url": "https://www.macrumors.com/2026/09/07/iphone-18-pro-reasons-not-to-upgrade-this-year/",
-      "source": "MacRumors",
-      "domain": "macrumors.com",
-      "published_at": "2026-09-07T12:01:37Z",
-      "importance": 50,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "c6524be14ac4e3a4",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "\"Many a brave knight are going to die\" - Riot Games head Marc Merrill speaks on in-development MMO after 2XKO's untimely demise",
-      "summary": "馬克·梅里爾",
-      "original_title": "\"Many a brave knight are going to die\" - Riot Games head Marc Merrill speaks on in-development MMO after 2XKO's untimely demise",
-      "url": "https://www.eurogamer.net/riot-games-mmo-the-grail-pax-2xko",
-      "source": "Eurogamer.net",
-      "domain": "eurogamer.net",
-      "published_at": "2026-09-07T09:30:34Z",
-      "importance": 50,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "d8b050ca5559b8f0",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "三星推出 zHBM 原型，將記憶體直接堆疊在 AI 加速器上",
-      "summary": "三星電子推出了下一代 3D 記憶體技術，包括 z 軸高頻寬記憶體 (zHBM) 和 zNAND-O，該公司尋求加強其在快速成長的人工智慧市場中的地位。三星於 8 月 5 日展示了 m…",
-      "original_title": "Samsung Debuts zHBM Prototype, Stacking Memory Directly on AI Accelerators",
-      "url": "https://www.thelec.net/news/articleView.html?idxno=12835",
-      "source": "Thelec.net",
-      "domain": "thelec.net",
-      "published_at": "2026-09-07T04:27:29Z",
-      "importance": 50,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "7dfdf53474249f52",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "路透社通報，台灣承諾在美國晶片投資上增加 200 億美元，同時討好歐盟",
-      "summary": "台灣在本週於台北舉行的 SEMICON 貿易展上兩次提出同樣的論點，一次向華盛頓，一次向布魯塞爾：其晶片抵達時附帶民主治理。論點的商業部分帶有數字和經濟…",
-      "original_title": "Taiwan pledges $20bn more in US chip investment while courting the EU, Reuters reports",
-      "url": "https://thenextweb.com/news/taiwan-chip-diplomacy-semicon-20bn-us-investment",
-      "source": "The Next Web",
-      "domain": "thenextweb.com",
-      "published_at": "2026-09-07T09:06:31Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "b7c30b1c7e450983",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "再升息，只是為了保險：向歐洲央行提出的五個問題",
-      "summary": "By Dhara Ranasinghe and Stefano Rebaudo LONDON, Sept 7 (Reuters) - The European Central Bank is widely expected to hike interest rates on Thursday, erring on...",
-      "original_title": "Another rate hike, just for insurance: Five questions for the ECB",
-      "url": "https://finance.yahoo.com/economy/policy/articles/another-rate-hike-just-insurance-040303890.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-09-07T04:03:03Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "5c01f503102454c8",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "台灣面臨與盟友分享人工智慧財富的壓力，展現晶片外交實力",
-      "summary": "作者：Ben Blanchard 和 Wen-Yee Lee 台北，9 月 7 日（路透社）",
-      "original_title": "Taiwan flexes chip diplomacy muscles as it faces pressure to share AI wealth with allies",
-      "url": "https://finance.yahoo.com/technology/ai/articles/taiwan-flexes-chip-diplomacy-muscles-022559044.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-09-07T02:30:14Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "3fb58778d77024cd",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "美國和伊朗襲擊船隻後油價延續漲勢",
-      "summary": "作者：Florence Tan 新加坡，9 月 7 日（路透社）",
-      "original_title": "Oil extends gains after US and Iran strike ships",
-      "url": "https://finance.yahoo.com/energy/articles/oil-extends-gains-us-iran-001532615.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-09-07T00:15:32Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     }
   ]
 }
