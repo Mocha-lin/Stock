@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-15T14:10:49.969329+00:00
+> 更新時間：2026-09-15T17:21:24.855672+00:00
 
 ### 🚀 There Is No Off Switch for AI Capability Growth. Here Is Who Benefits Most From That.
 - **題材**: `AI伺服器` | **重要性**: `80`
@@ -64,15 +64,6 @@
 
 ---
 
-### 🚀 3只面向資料中心擴建的人工智慧光網路股票
-- **題材**: `光通訊與矽光子` | **重要性**: `70`
-- **來源**: MarketBeat (2026-09-08T14:20:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Ciena 以創紀錄的利潤率超出了第三季度盈利預期，但股價因利潤率擔憂而下跌，促使人們關注 AI 光學網絡的競爭對手 Lumentum 和 Coherent...
-- [原文連結](https://www.marketbeat.com/articles/3-ai-optical-networking-stocks-positioned-for-the-data-center-buildout/?utm_source=yahoofinance&amp;utm_medium=yahoofinance)
-
----
-
 ### ⚖️ 工研院展示3.2T矽光子及AI資料中心冷卻
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
 - **來源**: Digitimes (2026-09-10T12:29:00Z)
@@ -109,6 +100,15 @@
 
 ---
 
+### 🚀 3只面向資料中心擴建的人工智慧光網路股票
+- **題材**: `光通訊與矽光子` | **重要性**: `65`
+- **來源**: MarketBeat (2026-09-08T14:20:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Ciena 以創紀錄的利潤率超出了第三季度盈利預期，但股價因利潤率擔憂而下跌，促使人們關注 AI 光學網絡的競爭對手 Lumentum 和 Coherent...
+- [原文連結](https://www.marketbeat.com/articles/3-ai-optical-networking-stocks-positioned-for-the-data-center-buildout/?utm_source=yahoofinance&amp;utm_medium=yahoofinance)
+
+---
+
 ### ⚖️ ficonTEC打破CPO測試瓶頸，與Hermes測試團隊合作
 - **題材**: `光通訊與矽光子` | **重要性**: `63`
 - **來源**: Digitimes (2026-09-11T09:19:25Z)
@@ -133,6 +133,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 隨著人工智慧推動800G、1.6T等高速傳輸技術的轉型，矽光子在高速光通訊領域日益成為主流，吸引了各大產業廠商的投資。
 - [原文連結](https://www.digitimes.com/news/a20260909PD222/photonics-inp-silicon-transmission-communications.html)
+
+---
+
+### ⚖️ US 10-year yields reach 5%, highest since 2023
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-09-14T16:02:26Z)
+- **AI 判讀**: 屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: NEW YORK, Sept 14 (Reuters) - Benchmark 10-year U.S.
+- [原文連結](https://finance.yahoo.com/economy/policy/articles/us-10-yields-reach-5-142656910.html)
 
 ---
 
@@ -169,15 +178,6 @@
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Nvidia and Palantir have announced today a joint product for running AI over corporate supply chains without handing the underlying data to anyone else, and the first customer is Nvidia, which is using it on its own. It pairs Palantir’s Foundry, its Artificia…
 - [原文連結](https://thenextweb.com/news/nvidia-palantir-sovereign-ai-supply-chains)
-
----
-
-### 🚀 Diesel Hits Record High as Trump’s Forever War Against Iran Grinds On
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Gizmodo.com (2026-09-08T22:07:31Z)
-- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: "Summer is over. Peace didn't happen. The war is still going on."
-- [原文連結](https://gizmodo.com/diesel-hits-record-high-as-trumps-forever-war-against-iran-grinds-on-2000808763)
 
 ---
 
