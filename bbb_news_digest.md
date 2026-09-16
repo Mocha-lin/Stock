@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-16T17:20:27.312129+00:00
+> 更新時間：2026-09-16T21:46:34.058925+00:00
 
 ### ⚖️ TSMC 3nm, 2nm, and CoWoS stay tight as AWS, MediaTek, TPU shift capacity
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -91,15 +91,6 @@
 
 ---
 
-### 🚀 Time to Buy: Wall Street Says Dell Stock Could Climb 38% in a Year
-- **題材**: `AI伺服器` | **重要性**: `70`
-- **來源**: Barchart.com (2026-09-09T20:44:46Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Dell’s record AI server orders, accelerating enterprise infrastructure spending, and improving performance across storage and client solutions are giving the...
-- [原文連結](https://www.barchart.com/story/news/4522691/time-to-buy-wall-street-says-dell-stock-could-climb-38-in-a-year)
-
----
-
 ### ⚖️ DIGITIMES Insight: Intel may lack a price edge over TSMC on SK Hynix HBM base dies
 - **題材**: `HBM記憶體` | **重要性**: `68`
 - **來源**: Digitimes (2026-09-15T16:15:00Z)
@@ -178,6 +169,15 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: AHBM 在交易的頭幾週飆升，但推動其上漲的力量與 AI ETF 的炒作無關。一個不起眼的行業每月發布的數據...
 - [原文連結](https://247wallst.com/investing/etf/2026/09/10/forget-the-ai-headlines-ahbm-holders-should-be-watching-memory-chip-prices/)
+
+---
+
+### 🚀 Time to Buy: Wall Street Says Dell Stock Could Climb 38% in a Year
+- **題材**: `AI伺服器` | **重要性**: `65`
+- **來源**: Barchart.com (2026-09-09T20:44:46Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Dell’s record AI server orders, accelerating enterprise infrastructure spending, and improving performance across storage and client solutions are giving the...
+- [原文連結](https://www.barchart.com/story/news/4522691/time-to-buy-wall-street-says-dell-stock-could-climb-38-in-a-year)
 
 ---
 
