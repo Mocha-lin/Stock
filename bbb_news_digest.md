@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-16T10:13:24.430735+00:00
+> 更新時間：2026-09-16T14:03:08.257897+00:00
 
 ### ⚖️ TSMC 3nm, 2nm, and CoWoS stay tight as AWS, MediaTek, TPU shift capacity
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -172,12 +172,12 @@
 
 ---
 
-### 🚀 Dell (DELL) Reports $60.9B of AI Server Orders and a $95B Backlog. Can the Demand Surge Produce Durable Cash Flow?
-- **題材**: `AI伺服器` | **重要性**: `65`
-- **來源**: Yahoo Entertainment (2026-09-10T17:21:35Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Dell Technologies Inc. (NYSE:DELL) reported fiscal second-quarter 2027 revenue of $47.0 billion, up 58% year over year. AI server orders reached $60.9 billio...
-- [原文連結](https://finance.yahoo.com/technology/ai/articles/dell-dell-reports-60-9b-172135958.html)
+### 🚀 Forget the AI Headlines. AHBM Holders Should Be Watching Memory Chip Prices
+- **題材**: `HBM記憶體` | **重要性**: `65`
+- **來源**: 24/7 Wall St. (2026-09-10T14:00:22Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: AHBM 在交易的頭幾週飆升，但推動其上漲的力量與 AI ETF 的炒作無關。一個不起眼的行業每月發布的數據...
+- [原文連結](https://247wallst.com/investing/etf/2026/09/10/forget-the-ai-headlines-ahbm-holders-should-be-watching-memory-chip-prices/)
 
 ---
 
