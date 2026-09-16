@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-16T14:03:08.257897+00:00
+> 更新時間：2026-09-16T17:20:27.312129+00:00
 
 ### ⚖️ TSMC 3nm, 2nm, and CoWoS stay tight as AWS, MediaTek, TPU shift capacity
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -100,6 +100,15 @@
 
 ---
 
+### ⚖️ DIGITIMES Insight: Intel may lack a price edge over TSMC on SK Hynix HBM base dies
+- **題材**: `HBM記憶體` | **重要性**: `68`
+- **來源**: Digitimes (2026-09-15T16:15:00Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: SK Hynix is reportedly considering Intel as an additional manufacturing source for high-bandwidth memory (HBM) base dies beginning with the HBM4E generation, a move that could reduce its reliance on TSMC and give the memory maker greater supply and cost flexi…
+- [原文連結](https://www.digitimes.com/news/a20260914PD224/sk-hynix-intel-tsmc-hbm-price.html)
+
+---
+
 ### ⚖️ Sivers Semiconductors positions laser arrays as solution to copper's limits
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
 - **來源**: Digitimes (2026-09-15T04:45:00Z)
@@ -124,15 +133,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 台灣2026年創新科技博覽會將於9月17日至19日於台北世界貿易中心一館舉行。經濟部工業發展管理局10日表示，AI資料中心需要更快的傳輸和更好的協作…
 - [原文連結](https://www.digitimes.com/news/a20260910PD242/taiwan-itri-taipei-photonics-silicon.html)
-
----
-
-### ⚠️ 框架正在為一些客戶提供 RAM 退款
-- **題材**: `HBM記憶體` | **重要性**: `68`
-- **來源**: The Verge (2026-09-09T15:36:37Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 在組件持續短缺的情況下，Framework 降低了一些 Laptop 13 Pro 買家的 RAM 價格，這是一個“罕見的積極更新”
-- [原文連結](https://www.theverge.com/gadgets/992218/framework-lowers-ram-prices-refunds)
 
 ---
 
