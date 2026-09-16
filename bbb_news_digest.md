@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-16T05:30:03.590343+00:00
+> 更新時間：2026-09-16T10:13:24.430735+00:00
 
 ### ⚖️ TSMC 3nm, 2nm, and CoWoS stay tight as AWS, MediaTek, TPU shift capacity
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -136,21 +136,21 @@
 
 ---
 
-### ⚖️ Samsung turns to Japan for packaging edge, narrows HBM gap with SK Hynix
-- **題材**: `HBM記憶體` | **重要性**: `68`
-- **來源**: Digitimes (2026-09-09T07:46:21Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Samsung Electronics has opened an advanced packaging research center in Yokohama, bringing development work closer to Japanese suppliers that provide critical materials and equipment for high-bandwidth memory (HBM) as the company works to narrow its market-sh…
-- [原文連結](https://www.digitimes.com/news/a20260909VL223/samsung-packaging-hbm-sk-hynix-materials.html)
-
----
-
 ### ⚖️ Gaming takes a backseat as Nvidia overhauls the RTX 5090 for maximum AI margins — RTX Pro 5500 delivers 2.6X VRAM at matching specs
 - **題材**: `AI伺服器` | **重要性**: `67`
 - **來源**: Tom's Hardware UK (2026-09-14T17:39:09Z)
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Nvidia launches the RTX Pro 5500 Blackwell Workstation Edition graphics card for agentic and generative AI.
 - [原文連結](https://www.tomshardware.com/pc-components/gpus/gaming-takes-a-backseat-as-nvidia-overhauls-the-rtx-5090-for-maximum-ai-margins-rtx-pro-5500-delivers-2-6x-vram-at-matching-specs)
+
+---
+
+### ⚖️ izmo Microsystems Unveils Silicon Photonics Modules at SEMICON India 2026
+- **題材**: `光通訊與矽光子` | **重要性**: `65`
+- **來源**: BusinessLine (2026-09-15T06:00:20Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: izmo Microsystems Unveils Silicon Photonics Modules at SEMICON India 2026
+- [原文連結](https://www.thehindubusinessline.com/brandhub/pr-release/izmo-microsystems-unveils-silicon-photonics-modules-at-semicon-india-2026/article71466905.ece)
 
 ---
 
