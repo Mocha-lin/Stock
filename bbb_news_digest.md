@@ -1,5 +1,14 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-16T01:08:00.605819+00:00
+> 更新時間：2026-09-16T05:30:03.590343+00:00
+
+### ⚖️ TSMC 3nm, 2nm, and CoWoS stay tight as AWS, MediaTek, TPU shift capacity
+- **題材**: `半導體先進製程` | **重要性**: `83`
+- **來源**: Digitimes (2026-09-15T03:30:07Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: TSMC's 3nm, 2nm, and CoWoS advanced packaging capacity remained in short supply in late 2026's third quarter, as changes in major customer orders and front-end and back-end supply models prompted the foundry to adjust its advanced capacity allocation. Supply …
+- [原文連結](https://www.digitimes.com/news/a20260915PD214/tsmc-3nm-2nm-capacity-cowos.html)
+
+---
 
 ### ⚖️ SiPh shifts optical module bottleneck upstream: from device manufacturing to laser-grade substrate supply
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -91,6 +100,15 @@
 
 ---
 
+### ⚖️ Sivers Semiconductors positions laser arrays as solution to copper's limits
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-09-15T04:45:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: At this year's China International Optoelectronic Expo (CIOE), Sivers Semiconductor brought two products to its booth that trace the trajectory of the optical networking industry: a 1.6T pluggable optical transceiver currently ramping toward mainstream adopti…
+- [原文連結](https://www.digitimes.com/news/a20260914VL219/laser-copper-expo-market-demand.html)
+
+---
+
 ### ⚖️ Commentary: CIOE 2026 reveals the harder race behind AI optical interconnects
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
 - **來源**: Digitimes (2026-09-14T23:33:31Z)
@@ -160,24 +178,6 @@
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Dell Technologies Inc. (NYSE:DELL) reported fiscal second-quarter 2027 revenue of $47.0 billion, up 58% year over year. AI server orders reached $60.9 billio...
 - [原文連結](https://finance.yahoo.com/technology/ai/articles/dell-dell-reports-60-9b-172135958.html)
-
----
-
-### 🚀 Forget the AI Headlines. AHBM Holders Should Be Watching Memory Chip Prices
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: 24/7 Wall St. (2026-09-10T14:00:22Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: AHBM 在交易的頭幾週飆升，但推動其上漲的力量與 AI ETF 的炒作無關。一個不起眼的行業每月發布的數據...
-- [原文連結](https://247wallst.com/investing/etf/2026/09/10/forget-the-ai-headlines-ahbm-holders-should-be-watching-memory-chip-prices/)
-
----
-
-### ⚠️ The best deals from Nintendo’s ‘customer appreciation’ sale
-- **題材**: `總體風險` | **重要性**: `63`
-- **來源**: The Verge (2026-09-14T19:30:58Z)
-- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: As promised, Nintendo has marked down a wide variety of Switch games and accessories at Amazon, Best Buy, and Walmart, as well as its own digital storefront. Its “Customer Appreciation” sale is happening because of tariff-related refunds it received from the …
-- [原文連結](https://www.theverge.com/gadgets/994892/nintendo-customer-appreciation-tariff-refund-deal-sale)
 
 ---
 
