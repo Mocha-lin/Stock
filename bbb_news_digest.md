@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-17T01:06:03.720030+00:00
+> 更新時間：2026-09-17T05:36:35.356146+00:00
 
 ### ⚖️ TSMC 3nm, 2nm, and CoWoS stay tight as AWS, MediaTek, TPU shift capacity
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -46,24 +46,6 @@
 
 ---
 
-### ⚖️ Foxconn subsidiary broadens AI interconnect role as 1.6T enters deployment
-- **題材**: `光通訊與矽光子` | **重要性**: `78`
-- **來源**: Digitimes (2026-09-14T04:55:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: AI data centers are moving decisively toward 1.6T connectivity, with 800G now mainstream in AI clusters and 400G remaining common in general cloud and enterprise deployments.
-- [原文連結](https://www.digitimes.com/news/a20260914PD225/data-design-fit-cpo-cooling.html)
-
----
-
-### 🚀 Hermes 測試推出薄膜探針卡，目標為 SiPh 和 CPO
-- **題材**: `光通訊與矽光子` | **重要性**: `78`
-- **來源**: Digitimes (2026-09-10T04:17:55Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 赫爾墨斯測試解決方案表示，8月營收持續上升，首次突破新台幣5億元大關，創下半導體測試設備工程服務和客製化產品穩定成長的月度新紀錄。晶圓測試解決方案…
-- [原文連結](https://www.digitimes.com/news/a20260909PD240/revenue-probe-cpo-transmission-growth.html)
-
----
-
 ### 🚀 Samsung reportedly doesn’t want to make cheap chips for Qualcomm anymore
 - **題材**: `半導體先進製程` | **重要性**: `75`
 - **來源**: SamMobile (2026-09-11T16:53:53Z)
@@ -73,12 +55,39 @@
 
 ---
 
+### ⚖️ Samsung reportedly taps TSMC for custom HBM base dies as new foundry dynamics emerge
+- **題材**: `HBM記憶體` | **重要性**: `73`
+- **來源**: Digitimes (2026-09-16T01:51:58Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: The logic die at the bottom of a high-bandwidth memory (HBM) stack has become the semiconductor industry's newest contested territory. Within weeks, SK Hynix has been reported to be weighing Intel alongside TSMC, Samsung Electronics has been reported to be pa…
+- [原文連結](https://www.digitimes.com/news/a20260916VL200/tsmc-hbm-samsung-sk-hynix-intel.html)
+
+---
+
+### ⚖️ Foxconn subsidiary broadens AI interconnect role as 1.6T enters deployment
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-09-14T04:55:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: AI data centers are moving decisively toward 1.6T connectivity, with 800G now mainstream in AI clusters and 400G remaining common in general cloud and enterprise deployments.
+- [原文連結](https://www.digitimes.com/news/a20260914PD225/data-design-fit-cpo-cooling.html)
+
+---
+
 ### ⚖️ AI server tracker: Taiwan optics race beyond 1.6T
 - **題材**: `光通訊與矽光子` | **重要性**: `73`
 - **來源**: Digitimes (2026-09-13T00:22:57Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Taiwan's optical communications supply chain is entering a more consequential phase of the AI infrastructure cycle. Demand is broadening beyond conventional pluggable transceivers toward continuous-wave (CW) lasers, fiber array units (FAUs), external laser so…
 - [原文連結](https://www.digitimes.com/news/a20260911VL216/taiwan-revenue-optics-cpo-communications.html)
+
+---
+
+### 🚀 Hermes 測試推出薄膜探針卡，目標為 SiPh 和 CPO
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-09-10T04:17:55Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 赫爾墨斯測試解決方案表示，8月營收持續上升，首次突破新台幣5億元大關，創下半導體測試設備工程服務和客製化產品穩定成長的月度新紀錄。晶圓測試解決方案…
+- [原文連結](https://www.digitimes.com/news/a20260909PD240/revenue-probe-cpo-transmission-growth.html)
 
 ---
 
@@ -169,15 +178,6 @@
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Amazon.com, Inc.（納斯達克股票代碼：AMZN）和 NVIDIA 公司（納斯達克股票代碼：NVDA）於 8 月 26 日宣布擴大交易，將額外獲得 200 萬 Nvidia GP...
 - [原文連結](https://finance.yahoo.com/technology/ai/articles/amazon-triples-nvidia-gpu-orders-050739503.html)
-
----
-
-### 🚀 Dell (DELL) Reports $60.9B of AI Server Orders and a $95B Backlog. Can the Demand Surge Produce Durable Cash Flow?
-- **題材**: `AI伺服器` | **重要性**: `65`
-- **來源**: Yahoo Entertainment (2026-09-10T17:21:35Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Dell Technologies Inc. (NYSE:DELL) reported fiscal second-quarter 2027 revenue of $47.0 billion, up 58% year over year. AI server orders reached $60.9 billio...
-- [原文連結](https://finance.yahoo.com/technology/ai/articles/dell-dell-reports-60-9b-172135958.html)
 
 ---
 
