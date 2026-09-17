@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-17T17:20:02.290339+00:00
+> 更新時間：2026-09-17T21:49:13.928509+00:00
 
 ### ⚖️ TSMC 3nm, 2nm, and CoWoS stay tight as AWS, MediaTek, TPU shift capacity
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -109,15 +109,6 @@
 
 ---
 
-### ⚖️ Gaming takes a backseat as Nvidia overhauls the RTX 5090 for maximum AI margins — RTX Pro 5500 delivers 2.6X VRAM at matching specs
-- **題材**: `AI伺服器` | **重要性**: `67`
-- **來源**: Tom's Hardware UK (2026-09-14T17:39:09Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Nvidia launches the RTX Pro 5500 Blackwell Workstation Edition graphics card for agentic and generative AI.
-- [原文連結](https://www.tomshardware.com/pc-components/gpus/gaming-takes-a-backseat-as-nvidia-overhauls-the-rtx-5090-for-maximum-ai-margins-rtx-pro-5500-delivers-2-6x-vram-at-matching-specs)
-
----
-
 ### 🚀 It’s All About the GPUs — 70% of Nvidia’s AI Supercomputer Cost Goes to Vera Rubin Chips
 - **題材**: `AI伺服器` | **重要性**: `65`
 - **來源**: 24/7 Wall St. (2026-09-15T16:09:32Z)
@@ -154,30 +145,39 @@
 
 ---
 
-### 🚀 Dell (DELL) Reports $60.9B of AI Server Orders and a $95B Backlog. Can the Demand Surge Produce Durable Cash Flow?
-- **題材**: `AI伺服器` | **重要性**: `65`
-- **來源**: Yahoo Entertainment (2026-09-10T17:21:35Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Dell Technologies Inc. (NYSE:DELL) reported fiscal second-quarter 2027 revenue of $47.0 billion, up 58% year over year. AI server orders reached $60.9 billio...
-- [原文連結](https://finance.yahoo.com/technology/ai/articles/dell-dell-reports-60-9b-172135958.html)
-
----
-
-### ⚠️ The best deals from Nintendo’s ‘customer appreciation’ sale
-- **題材**: `總體風險` | **重要性**: `63`
-- **來源**: The Verge (2026-09-14T19:30:58Z)
-- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: As promised, Nintendo has marked down a wide variety of Switch games and accessories at Amazon, Best Buy, and Walmart, as well as its own digital storefront. Its “Customer Appreciation” sale is happening because of tariff-related refunds it received from the …
-- [原文連結](https://www.theverge.com/gadgets/994892/nintendo-customer-appreciation-tariff-refund-deal-sale)
-
----
-
 ### ⚖️ ficonTEC打破CPO測試瓶頸，與Hermes測試團隊合作
 - **題材**: `光通訊與矽光子` | **重要性**: `63`
 - **來源**: Digitimes (2026-09-11T09:19:25Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: 德國矽光子（SiPh）測試設備製造商ficonTEC突破了共封裝光學（CPO）「電入光出」測試的主要瓶頸，推出了業界首個Insertion 2自動化光學測試解決方案。一個…
 - [原文連結](https://www.digitimes.com/news/a20260910PD231/cpo-siph-silicon-testing-equipment.html)
+
+---
+
+### ⚖️ Taiwan tech minister in Europe to advance semiconductor cooperation
+- **題材**: `光通訊與矽光子` | **重要性**: `63`
+- **來源**: Digitimes (2026-09-11T03:01:46Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: National Science and Technology Council (NSTC) Minister Cheng-Wen Wu visited the UK and Belgium in early September to advance Taiwan-Europe cooperation on advanced semiconductor packaging, silicon photonics (SiPh), and talent exchange, while also strengthenin…
+- [原文連結](https://www.digitimes.com/news/a20260911PD215/taiwan-europe-nstc-manufacturing-semiconductors.html)
+
+---
+
+### ⚖️ 工研院展示3.2T矽光子及AI資料中心冷卻
+- **題材**: `光通訊與矽光子` | **重要性**: `63`
+- **來源**: Digitimes (2026-09-10T12:29:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 台灣2026年創新科技博覽會將於9月17日至19日於台北世界貿易中心一館舉行。經濟部工業發展管理局10日表示，AI資料中心需要更快的傳輸和更好的協作…
+- [原文連結](https://www.digitimes.com/news/a20260910PD242/taiwan-itri-taipei-photonics-silicon.html)
+
+---
+
+### ⚖️ Gaming takes a backseat as Nvidia overhauls the RTX 5090 for maximum AI margins — RTX Pro 5500 delivers 2.6X VRAM at matching specs
+- **題材**: `AI伺服器` | **重要性**: `62`
+- **來源**: Tom's Hardware UK (2026-09-14T17:39:09Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Nvidia launches the RTX Pro 5500 Blackwell Workstation Edition graphics card for agentic and generative AI.
+- [原文連結](https://www.tomshardware.com/pc-components/gpus/gaming-takes-a-backseat-as-nvidia-overhauls-the-rtx-5090-for-maximum-ai-margins-rtx-pro-5500-delivers-2-6x-vram-at-matching-specs)
 
 ---
 
