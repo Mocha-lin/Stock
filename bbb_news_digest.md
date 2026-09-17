@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-17T14:08:00.970478+00:00
+> 更新時間：2026-09-17T17:20:02.290339+00:00
 
 ### ⚖️ TSMC 3nm, 2nm, and CoWoS stay tight as AWS, MediaTek, TPU shift capacity
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -91,15 +91,6 @@
 
 ---
 
-### ⚖️ DIGITIMES Insight: Intel may lack a price edge over TSMC on SK Hynix HBM base dies
-- **題材**: `HBM記憶體` | **重要性**: `68`
-- **來源**: Digitimes (2026-09-15T16:15:00Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: SK Hynix is reportedly considering Intel as an additional manufacturing source for high-bandwidth memory (HBM) base dies beginning with the HBM4E generation, a move that could reduce its reliance on TSMC and give the memory maker greater supply and cost flexi…
-- [原文連結](https://www.digitimes.com/news/a20260914PD224/sk-hynix-intel-tsmc-hbm-price.html)
-
----
-
 ### ⚖️ Sivers Semiconductors positions laser arrays as solution to copper's limits
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
 - **來源**: Digitimes (2026-09-15T04:45:00Z)
@@ -178,6 +169,15 @@
 - **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: As promised, Nintendo has marked down a wide variety of Switch games and accessories at Amazon, Best Buy, and Walmart, as well as its own digital storefront. Its “Customer Appreciation” sale is happening because of tariff-related refunds it received from the …
 - [原文連結](https://www.theverge.com/gadgets/994892/nintendo-customer-appreciation-tariff-refund-deal-sale)
+
+---
+
+### ⚖️ ficonTEC打破CPO測試瓶頸，與Hermes測試團隊合作
+- **題材**: `光通訊與矽光子` | **重要性**: `63`
+- **來源**: Digitimes (2026-09-11T09:19:25Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: 德國矽光子（SiPh）測試設備製造商ficonTEC突破了共封裝光學（CPO）「電入光出」測試的主要瓶頸，推出了業界首個Insertion 2自動化光學測試解決方案。一個…
+- [原文連結](https://www.digitimes.com/news/a20260910PD231/cpo-siph-silicon-testing-equipment.html)
 
 ---
 
