@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-17T05:36:35.356146+00:00
+> 更新時間：2026-09-17T14:08:00.970478+00:00
 
 ### ⚖️ TSMC 3nm, 2nm, and CoWoS stay tight as AWS, MediaTek, TPU shift capacity
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -28,12 +28,12 @@
 
 ---
 
-### 🚀 There Is No Off Switch for AI Capability Growth. Here Is Who Benefits Most From That.
-- **題材**: `AI伺服器` | **重要性**: `80`
-- **來源**: 24/7 Wall St. (2026-09-14T12:00:52Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: NVIDIA and Palantir both raised guidance and both accelerated, but they are capturing AI dollars at completely different layers of the stack. Which position...
-- [原文連結](https://247wallst.com/investing/2026/09/14/there-is-no-off-switch-for-ai-capability-growth-here-is-who-benefits-most-from-that/)
+### ⚠️ CPO ramp pushes silicon photonics testing upstream to catch defects early
+- **題材**: `光通訊與矽光子` | **重要性**: `78`
+- **來源**: Digitimes (2026-09-16T06:30:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: As AI servers drive demand for higher-speed optical interconnects and co-packaged optics (CPO) moves toward volume production, silicon photonics testing is shifting from component-performance verification toward wafer-yield protection and earlier risk screeni…
+- [原文連結](https://www.digitimes.com/news/a20260915PD211/testing-cpo-photonics-silicon-demand.html)
 
 ---
 
@@ -46,21 +46,21 @@
 
 ---
 
+### 🚀 There Is No Off Switch for AI Capability Growth. Here Is Who Benefits Most From That.
+- **題材**: `AI伺服器` | **重要性**: `75`
+- **來源**: 24/7 Wall St. (2026-09-14T12:00:52Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: NVIDIA and Palantir both raised guidance and both accelerated, but they are capturing AI dollars at completely different layers of the stack. Which position...
+- [原文連結](https://247wallst.com/investing/2026/09/14/there-is-no-off-switch-for-ai-capability-growth-here-is-who-benefits-most-from-that/)
+
+---
+
 ### 🚀 Samsung reportedly doesn’t want to make cheap chips for Qualcomm anymore
 - **題材**: `半導體先進製程` | **重要性**: `75`
 - **來源**: SamMobile (2026-09-11T16:53:53Z)
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: There was a time when Samsung's Foundry division found it difficult to win orders from major chipmaking customers. It was sitting on ample capacity and burning billions of dollars every year. The situation has changed, as the foundry has picked up significant…
 - [原文連結](https://www.sammobile.com/news/samsung-reportedly-doesnt-want-to-make-cheap-chips-for-qualcomm-anymore/)
-
----
-
-### ⚖️ Samsung reportedly taps TSMC for custom HBM base dies as new foundry dynamics emerge
-- **題材**: `HBM記憶體` | **重要性**: `73`
-- **來源**: Digitimes (2026-09-16T01:51:58Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: The logic die at the bottom of a high-bandwidth memory (HBM) stack has become the semiconductor industry's newest contested territory. Within weeks, SK Hynix has been reported to be weighing Intel alongside TSMC, Samsung Electronics has been reported to be pa…
-- [原文連結](https://www.digitimes.com/news/a20260916VL200/tsmc-hbm-samsung-sk-hynix-intel.html)
 
 ---
 
@@ -91,15 +91,6 @@
 
 ---
 
-### 🚀 Wall Street Just Erased $57 Billion From Micron. The Shortage Behind Its Boom Is Getting Worse.
-- **題材**: `HBM記憶體` | **重要性**: `70`
-- **來源**: 24/7 Wall St. (2026-09-11T16:30:04Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Micron just posted the highest revenue guidance in its history while the shortage fueling its growth gets worse, yet Wall Street wiped out tens of billions i...
-- [原文連結](https://247wallst.com/investing/2026/09/11/wall-street-just-erased-57-billion-from-micron-the-shortage-behind-its-boom-is-getting-worse/)
-
----
-
 ### ⚖️ DIGITIMES Insight: Intel may lack a price edge over TSMC on SK Hynix HBM base dies
 - **題材**: `HBM記憶體` | **重要性**: `68`
 - **來源**: Digitimes (2026-09-15T16:15:00Z)
@@ -124,15 +115,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: The 2026 China International Optoelectronic Exposition (CIOE) closed with 800G and 1.6T optical modules still dominating the show floor, while near-packaged optics (NPO), co-packaged optics (CPO), and eXtra-dense Pluggable Optics (XPO) gained a visibly larger…
 - [原文連結](https://www.digitimes.com/news/a20260914PD216/2026-cpo-chips-technology-demand.html)
-
----
-
-### ⚖️ 工研院展示3.2T矽光子及AI資料中心冷卻
-- **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-09-10T12:29:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 台灣2026年創新科技博覽會將於9月17日至19日於台北世界貿易中心一館舉行。經濟部工業發展管理局10日表示，AI資料中心需要更快的傳輸和更好的協作…
-- [原文連結](https://www.digitimes.com/news/a20260910PD242/taiwan-itri-taipei-photonics-silicon.html)
 
 ---
 
@@ -178,6 +160,24 @@
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Amazon.com, Inc.（納斯達克股票代碼：AMZN）和 NVIDIA 公司（納斯達克股票代碼：NVDA）於 8 月 26 日宣布擴大交易，將額外獲得 200 萬 Nvidia GP...
 - [原文連結](https://finance.yahoo.com/technology/ai/articles/amazon-triples-nvidia-gpu-orders-050739503.html)
+
+---
+
+### 🚀 Dell (DELL) Reports $60.9B of AI Server Orders and a $95B Backlog. Can the Demand Surge Produce Durable Cash Flow?
+- **題材**: `AI伺服器` | **重要性**: `65`
+- **來源**: Yahoo Entertainment (2026-09-10T17:21:35Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Dell Technologies Inc. (NYSE:DELL) reported fiscal second-quarter 2027 revenue of $47.0 billion, up 58% year over year. AI server orders reached $60.9 billio...
+- [原文連結](https://finance.yahoo.com/technology/ai/articles/dell-dell-reports-60-9b-172135958.html)
+
+---
+
+### ⚠️ The best deals from Nintendo’s ‘customer appreciation’ sale
+- **題材**: `總體風險` | **重要性**: `63`
+- **來源**: The Verge (2026-09-14T19:30:58Z)
+- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: As promised, Nintendo has marked down a wide variety of Switch games and accessories at Amazon, Best Buy, and Walmart, as well as its own digital storefront. Its “Customer Appreciation” sale is happening because of tariff-related refunds it received from the …
+- [原文連結](https://www.theverge.com/gadgets/994892/nintendo-customer-appreciation-tariff-refund-deal-sale)
 
 ---
 
