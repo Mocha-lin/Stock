@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-16T21:46:34.058925+00:00
+> 更新時間：2026-09-17T01:06:03.720030+00:00
 
 ### ⚖️ TSMC 3nm, 2nm, and CoWoS stay tight as AWS, MediaTek, TPU shift capacity
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -37,6 +37,15 @@
 
 ---
 
+### ⚖️ As AI data centers hit a transmission wall, GlobalFoundries pushes into silicon photonics
+- **題材**: `光通訊與矽光子` | **重要性**: `78`
+- **來源**: Digitimes (2026-09-16T00:28:56Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: At the China International Optoelectronics Expo (CIOE), a palm-sized metal transceiver represents the shift from copper to light in data center infrastructure, one of the biggest transformations in the industry amid the AI boom.
+- [原文連結](https://www.digitimes.com/news/a20260915VL227/silicon-photonics-globalfoundries-data-expo.html)
+
+---
+
 ### ⚖️ Foxconn subsidiary broadens AI interconnect role as 1.6T enters deployment
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
 - **來源**: Digitimes (2026-09-14T04:55:00Z)
@@ -70,15 +79,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Taiwan's optical communications supply chain is entering a more consequential phase of the AI infrastructure cycle. Demand is broadening beyond conventional pluggable transceivers toward continuous-wave (CW) lasers, fiber array units (FAUs), external laser so…
 - [原文連結](https://www.digitimes.com/news/a20260911VL216/taiwan-revenue-optics-cpo-communications.html)
-
----
-
-### ⚠️ AI server ODMs face widening component mismatches, with shortages reaching 15–20%
-- **題材**: `AI伺服器` | **重要性**: `73`
-- **來源**: Digitimes (2026-09-09T23:55:44Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Nvidia's Vera Rubin platform is entering its production ramp, and although server ODM shipments are still expected to ramp further, server ODMs delivered strong operating results in August. Industry sources said demand remains robust for both the H-series and…
-- [原文連結](https://www.digitimes.com/news/a20260909PD226/nvidia-rubin-component-revenue-ai-server.html)
 
 ---
 
@@ -136,6 +136,15 @@
 
 ---
 
+### 🚀 It’s All About the GPUs — 70% of Nvidia’s AI Supercomputer Cost Goes to Vera Rubin Chips
+- **題材**: `AI伺服器` | **重要性**: `65`
+- **來源**: 24/7 Wall St. (2026-09-15T16:09:32Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Inside Nvidia's newest rack-scale AI supercomputer, a single line item on the bill of materials is swallowing the lion's share of a $4 million build, and it...
+- [原文連結](https://247wallst.com/investing/2026/09/15/its-all-about-the-gpus-70-of-nvidias-ai-supercomputer-cost-goes-to-vera-rubin-chips/)
+
+---
+
 ### ⚖️ izmo Microsystems Unveils Silicon Photonics Modules at SEMICON India 2026
 - **題材**: `光通訊與矽光子` | **重要性**: `65`
 - **來源**: BusinessLine (2026-09-15T06:00:20Z)
@@ -163,21 +172,12 @@
 
 ---
 
-### 🚀 Forget the AI Headlines. AHBM Holders Should Be Watching Memory Chip Prices
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: 24/7 Wall St. (2026-09-10T14:00:22Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: AHBM 在交易的頭幾週飆升，但推動其上漲的力量與 AI ETF 的炒作無關。一個不起眼的行業每月發布的數據...
-- [原文連結](https://247wallst.com/investing/etf/2026/09/10/forget-the-ai-headlines-ahbm-holders-should-be-watching-memory-chip-prices/)
-
----
-
-### 🚀 Time to Buy: Wall Street Says Dell Stock Could Climb 38% in a Year
+### 🚀 Dell (DELL) Reports $60.9B of AI Server Orders and a $95B Backlog. Can the Demand Surge Produce Durable Cash Flow?
 - **題材**: `AI伺服器` | **重要性**: `65`
-- **來源**: Barchart.com (2026-09-09T20:44:46Z)
+- **來源**: Yahoo Entertainment (2026-09-10T17:21:35Z)
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Dell’s record AI server orders, accelerating enterprise infrastructure spending, and improving performance across storage and client solutions are giving the...
-- [原文連結](https://www.barchart.com/story/news/4522691/time-to-buy-wall-street-says-dell-stock-could-climb-38-in-a-year)
+- **摘要**: Dell Technologies Inc. (NYSE:DELL) reported fiscal second-quarter 2027 revenue of $47.0 billion, up 58% year over year. AI server orders reached $60.9 billio...
+- [原文連結](https://finance.yahoo.com/technology/ai/articles/dell-dell-reports-60-9b-172135958.html)
 
 ---
 
