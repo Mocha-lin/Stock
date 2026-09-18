@@ -1,12 +1,12 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-18T01:04:05.785259+00:00
+> 更新時間：2026-09-18T05:24:13.755325+00:00
 
-### ⚖️ TSMC 3nm, 2nm, and CoWoS stay tight as AWS, MediaTek, TPU shift capacity
-- **題材**: `半導體先進製程` | **重要性**: `83`
-- **來源**: Digitimes (2026-09-15T03:30:07Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: TSMC's 3nm, 2nm, and CoWoS advanced packaging capacity remained in short supply in late 2026's third quarter, as changes in major customer orders and front-end and back-end supply models prompted the foundry to adjust its advanced capacity allocation. Supply …
-- [原文連結](https://www.digitimes.com/news/a20260915PD214/tsmc-3nm-2nm-capacity-cowos.html)
+### 🚀 3 AI Infrastructure Stocks Institutions Love but Most Retail Investors Never Heard Of
+- **題材**: `光通訊與矽光子` | **重要性**: `80`
+- **來源**: 24/7 Wall St. (2026-09-16T13:00:16Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: The cables, chips, and switches connecting AI clusters are now the bottleneck the entire industry is racing to fix, and three mid-cap names are positioned at...
+- [原文連結](https://247wallst.com/investing/2026/09/16/3-ai-infrastructure-stocks-institutions-love-but-most-retail-investors-never-heard-of/)
 
 ---
 
@@ -25,6 +25,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: At the China International Optoelectronics Expo (CIOE), a palm-sized metal transceiver represents the shift from copper to light in data center infrastructure, one of the biggest transformations in the industry amid the AI boom.
 - [原文連結](https://www.digitimes.com/news/a20260915VL227/silicon-photonics-globalfoundries-data-expo.html)
+
+---
+
+### ⚖️ TSMC 3nm, 2nm, and CoWoS stay tight as AWS, MediaTek, TPU shift capacity
+- **題材**: `半導體先進製程` | **重要性**: `78`
+- **來源**: Digitimes (2026-09-15T03:30:07Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: TSMC's 3nm, 2nm, and CoWoS advanced packaging capacity remained in short supply in late 2026's third quarter, as changes in major customer orders and front-end and back-end supply models prompted the foundry to adjust its advanced capacity allocation. Supply …
+- [原文連結](https://www.digitimes.com/news/a20260915PD214/tsmc-3nm-2nm-capacity-cowos.html)
 
 ---
 
@@ -91,15 +100,6 @@
 
 ---
 
-### ⚖️ Sivers Semiconductors positions laser arrays as solution to copper's limits
-- **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-09-15T04:45:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: At this year's China International Optoelectronic Expo (CIOE), Sivers Semiconductor brought two products to its booth that trace the trajectory of the optical networking industry: a 1.6T pluggable optical transceiver currently ramping toward mainstream adopti…
-- [原文連結](https://www.digitimes.com/news/a20260914VL219/laser-copper-expo-market-demand.html)
-
----
-
 ### 🚀 It’s All About the GPUs — 70% of Nvidia’s AI Supercomputer Cost Goes to Vera Rubin Chips
 - **題材**: `AI伺服器` | **重要性**: `65`
 - **來源**: 24/7 Wall St. (2026-09-15T16:09:32Z)
@@ -127,12 +127,12 @@
 
 ---
 
-### 🚀 隨著人工智慧需求激增，亞馬遜將其 NVIDIA GPU 訂單增加兩倍至 300 萬顆晶片
-- **題材**: `AI伺服器` | **重要性**: `65`
-- **來源**: Yahoo Entertainment (2026-09-11T05:07:39Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Amazon.com, Inc.（納斯達克股票代碼：AMZN）和 NVIDIA 公司（納斯達克股票代碼：NVDA）於 8 月 26 日宣布擴大交易，將額外獲得 200 萬 Nvidia GP...
-- [原文連結](https://finance.yahoo.com/technology/ai/articles/amazon-triples-nvidia-gpu-orders-050739503.html)
+### ⚖️ Sivers Semiconductors positions laser arrays as solution to copper's limits
+- **題材**: `光通訊與矽光子` | **重要性**: `63`
+- **來源**: Digitimes (2026-09-15T04:45:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: At this year's China International Optoelectronic Expo (CIOE), Sivers Semiconductor brought two products to its booth that trace the trajectory of the optical networking industry: a 1.6T pluggable optical transceiver currently ramping toward mainstream adopti…
+- [原文連結](https://www.digitimes.com/news/a20260914VL219/laser-copper-expo-market-demand.html)
 
 ---
 
@@ -154,30 +154,30 @@
 
 ---
 
-### ⚖️ CPO startup Ayar Labs raises 2026 funding to US$650 million, adds Wiwynn as investor
-- **題材**: `光通訊與矽光子` | **重要性**: `63`
-- **來源**: Digitimes (2026-09-11T07:52:50Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Ayar Labs, a co-packaged optics (CPO) startup, has raised an additional US$150 million, bringing the primary capital it has raised so far in 2026 to US$650 million. The company says it will use the money to move its CPO products into high-volume manufacturing.
-- [原文連結](https://www.digitimes.com/news/a20260911VL222/cpo-startup-wiwynn-funding-2026.html)
-
----
-
-### ⚖️ Taiwan tech minister in Europe to advance semiconductor cooperation
-- **題材**: `光通訊與矽光子` | **重要性**: `63`
-- **來源**: Digitimes (2026-09-11T03:01:46Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: National Science and Technology Council (NSTC) Minister Cheng-Wen Wu visited the UK and Belgium in early September to advance Taiwan-Europe cooperation on advanced semiconductor packaging, silicon photonics (SiPh), and talent exchange, while also strengthenin…
-- [原文連結](https://www.digitimes.com/news/a20260911PD215/taiwan-europe-nstc-manufacturing-semiconductors.html)
-
----
-
 ### ⚖️ Gaming takes a backseat as Nvidia overhauls the RTX 5090 for maximum AI margins — RTX Pro 5500 delivers 2.6X VRAM at matching specs
 - **題材**: `AI伺服器` | **重要性**: `62`
 - **來源**: Tom's Hardware UK (2026-09-14T17:39:09Z)
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Nvidia launches the RTX Pro 5500 Blackwell Workstation Edition graphics card for agentic and generative AI.
 - [原文連結](https://www.tomshardware.com/pc-components/gpus/gaming-takes-a-backseat-as-nvidia-overhauls-the-rtx-5090-for-maximum-ai-margins-rtx-pro-5500-delivers-2-6x-vram-at-matching-specs)
+
+---
+
+### 🚀 Your Nvidia GPU has dozens of RISC-V cores inside it, and one of them took over a huge part of the graphics driver
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: XDA Developers (2026-09-16T20:30:16Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Nobody ever thinks of RISC-V when they think of Nvidia, but it's actually incredibly important to Nvidia's GPUs.
+- [原文連結](https://www.xda-developers.com/your-nvidia-gpu-dozens-risc-v-cores-one-took-over-graphics-driver/)
+
+---
+
+### 🚀 MediaTek goes all-in on flagships with its first 2nm smartphone chip
+- **題材**: `半導體先進製程` | **重要性**: `60`
+- **來源**: TechSpot (2026-09-16T15:06:00Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: The company also announced the Dimensity 9600M, a 3nm chip aimed at a wider range of flagship phones. MediaTek said handsets using both processors will launch soon, though it did not identify the manufacturers or provide a specific timeframe.Read Entire Artic…
+- [原文連結](https://www.techspot.com/news/113865-mediatek-goes-all-flagships-first-2nm-smartphone-chip.html)
 
 ---
 
