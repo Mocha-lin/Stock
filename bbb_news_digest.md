@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-17T21:49:13.928509+00:00
+> 更新時間：2026-09-18T01:04:05.785259+00:00
 
 ### ⚖️ TSMC 3nm, 2nm, and CoWoS stay tight as AWS, MediaTek, TPU shift capacity
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -7,24 +7,6 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: TSMC's 3nm, 2nm, and CoWoS advanced packaging capacity remained in short supply in late 2026's third quarter, as changes in major customer orders and front-end and back-end supply models prompted the foundry to adjust its advanced capacity allocation. Supply …
 - [原文連結](https://www.digitimes.com/news/a20260915PD214/tsmc-3nm-2nm-capacity-cowos.html)
-
----
-
-### ⚖️ SiPh shifts optical module bottleneck upstream: from device manufacturing to laser-grade substrate supply
-- **題材**: `光通訊與矽光子` | **重要性**: `83`
-- **來源**: Digitimes (2026-09-14T23:42:49Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: The market value of optical modules used in data centers is projected to grow from US$12.6 billion in 2025 to US$45.4 billion by 2030. Volume shipments of 1.6T modules are set to scale up starting in 2026, followed by initial revenue contributions from 3.2T m…
-- [原文連結](https://www.digitimes.com/news/a20260914PD232/market-siph-substrate-inp-manufacturing.html)
-
----
-
-### 🚀 Global data center capex could reach US$31.6 trillion by 2050 as AI demand surges
-- **題材**: `AI伺服器` | **重要性**: `83`
-- **來源**: Digitimes (2026-09-14T23:32:51Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: PwC and Oxford Economics jointly released their Global Data Centre Outlook 2026–50 in early September, projecting cumulative global data center capex of US$31.6 trillion by 2050 under the baseline scenario. If AI adoption accelerates, investment could approac…
-- [原文連結](https://www.digitimes.com/news/a20260914PD213/pwc-data-center-capex-demand-investment.html)
 
 ---
 
@@ -43,6 +25,24 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: At the China International Optoelectronics Expo (CIOE), a palm-sized metal transceiver represents the shift from copper to light in data center infrastructure, one of the biggest transformations in the industry amid the AI boom.
 - [原文連結](https://www.digitimes.com/news/a20260915VL227/silicon-photonics-globalfoundries-data-expo.html)
+
+---
+
+### ⚖️ SiPh shifts optical module bottleneck upstream: from device manufacturing to laser-grade substrate supply
+- **題材**: `光通訊與矽光子` | **重要性**: `78`
+- **來源**: Digitimes (2026-09-14T23:42:49Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: The market value of optical modules used in data centers is projected to grow from US$12.6 billion in 2025 to US$45.4 billion by 2030. Volume shipments of 1.6T modules are set to scale up starting in 2026, followed by initial revenue contributions from 3.2T m…
+- [原文連結](https://www.digitimes.com/news/a20260914PD232/market-siph-substrate-inp-manufacturing.html)
+
+---
+
+### 🚀 Global data center capex could reach US$31.6 trillion by 2050 as AI demand surges
+- **題材**: `AI伺服器` | **重要性**: `78`
+- **來源**: Digitimes (2026-09-14T23:32:51Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: PwC and Oxford Economics jointly released their Global Data Centre Outlook 2026–50 in early September, projecting cumulative global data center capex of US$31.6 trillion by 2050 under the baseline scenario. If AI adoption accelerates, investment could approac…
+- [原文連結](https://www.digitimes.com/news/a20260914PD213/pwc-data-center-capex-demand-investment.html)
 
 ---
 
@@ -82,12 +82,12 @@
 
 ---
 
-### 🚀 Hermes 測試推出薄膜探針卡，目標為 SiPh 和 CPO
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-09-10T04:17:55Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 赫爾墨斯測試解決方案表示，8月營收持續上升，首次突破新台幣5億元大關，創下半導體測試設備工程服務和客製化產品穩定成長的月度新紀錄。晶圓測試解決方案…
-- [原文連結](https://www.digitimes.com/news/a20260909PD240/revenue-probe-cpo-transmission-growth.html)
+### ⚖️ DIGITIMES Insight: Intel may lack a price edge over TSMC on SK Hynix HBM base dies
+- **題材**: `HBM記憶體` | **重要性**: `68`
+- **來源**: Digitimes (2026-09-15T16:15:00Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: SK Hynix is reportedly considering Intel as an additional manufacturing source for high-bandwidth memory (HBM) base dies beginning with the HBM4E generation, a move that could reduce its reliance on TSMC and give the memory maker greater supply and cost flexi…
+- [原文連結](https://www.digitimes.com/news/a20260914PD224/sk-hynix-intel-tsmc-hbm-price.html)
 
 ---
 
@@ -97,15 +97,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: At this year's China International Optoelectronic Expo (CIOE), Sivers Semiconductor brought two products to its booth that trace the trajectory of the optical networking industry: a 1.6T pluggable optical transceiver currently ramping toward mainstream adopti…
 - [原文連結](https://www.digitimes.com/news/a20260914VL219/laser-copper-expo-market-demand.html)
-
----
-
-### ⚖️ Commentary: CIOE 2026 reveals the harder race behind AI optical interconnects
-- **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-09-14T23:33:31Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: The 2026 China International Optoelectronic Exposition (CIOE) closed with 800G and 1.6T optical modules still dominating the show floor, while near-packaged optics (NPO), co-packaged optics (CPO), and eXtra-dense Pluggable Optics (XPO) gained a visibly larger…
-- [原文連結](https://www.digitimes.com/news/a20260914PD216/2026-cpo-chips-technology-demand.html)
 
 ---
 
@@ -145,6 +136,15 @@
 
 ---
 
+### ⚖️ Commentary: CIOE 2026 reveals the harder race behind AI optical interconnects
+- **題材**: `光通訊與矽光子` | **重要性**: `63`
+- **來源**: Digitimes (2026-09-14T23:33:31Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: The 2026 China International Optoelectronic Exposition (CIOE) closed with 800G and 1.6T optical modules still dominating the show floor, while near-packaged optics (NPO), co-packaged optics (CPO), and eXtra-dense Pluggable Optics (XPO) gained a visibly larger…
+- [原文連結](https://www.digitimes.com/news/a20260914PD216/2026-cpo-chips-technology-demand.html)
+
+---
+
 ### ⚖️ ficonTEC打破CPO測試瓶頸，與Hermes測試團隊合作
 - **題材**: `光通訊與矽光子` | **重要性**: `63`
 - **來源**: Digitimes (2026-09-11T09:19:25Z)
@@ -154,21 +154,21 @@
 
 ---
 
+### ⚖️ CPO startup Ayar Labs raises 2026 funding to US$650 million, adds Wiwynn as investor
+- **題材**: `光通訊與矽光子` | **重要性**: `63`
+- **來源**: Digitimes (2026-09-11T07:52:50Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Ayar Labs, a co-packaged optics (CPO) startup, has raised an additional US$150 million, bringing the primary capital it has raised so far in 2026 to US$650 million. The company says it will use the money to move its CPO products into high-volume manufacturing.
+- [原文連結](https://www.digitimes.com/news/a20260911VL222/cpo-startup-wiwynn-funding-2026.html)
+
+---
+
 ### ⚖️ Taiwan tech minister in Europe to advance semiconductor cooperation
 - **題材**: `光通訊與矽光子` | **重要性**: `63`
 - **來源**: Digitimes (2026-09-11T03:01:46Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: National Science and Technology Council (NSTC) Minister Cheng-Wen Wu visited the UK and Belgium in early September to advance Taiwan-Europe cooperation on advanced semiconductor packaging, silicon photonics (SiPh), and talent exchange, while also strengthenin…
 - [原文連結](https://www.digitimes.com/news/a20260911PD215/taiwan-europe-nstc-manufacturing-semiconductors.html)
-
----
-
-### ⚖️ 工研院展示3.2T矽光子及AI資料中心冷卻
-- **題材**: `光通訊與矽光子` | **重要性**: `63`
-- **來源**: Digitimes (2026-09-10T12:29:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 台灣2026年創新科技博覽會將於9月17日至19日於台北世界貿易中心一館舉行。經濟部工業發展管理局10日表示，AI資料中心需要更快的傳輸和更好的協作…
-- [原文連結](https://www.digitimes.com/news/a20260910PD242/taiwan-itri-taipei-photonics-silicon.html)
 
 ---
 
