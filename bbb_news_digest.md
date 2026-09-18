@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-18T13:25:18.251915+00:00
+> 更新時間：2026-09-18T16:45:42.789192+00:00
 
 ### ⚠️ CPO ramp pushes silicon photonics testing upstream to catch defects early
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -91,33 +91,6 @@
 
 ---
 
-### ⚠️ Top strategist thinks the Federal Reserve interest rate hike won't fix this huge earnings risk
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: Yahoo Entertainment (2026-09-17T12:16:19Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Investors are still eyeing memory chip inflation.
-- [原文連結](https://finance.yahoo.com/markets/article/top-strategist-thinks-the-federal-reserve-interest-rate-hike-wont-fix-this-huge-earnings-risk-121619669.html)
-
----
-
-### 🚀 It’s All About the GPUs — 70% of Nvidia’s AI Supercomputer Cost Goes to Vera Rubin Chips
-- **題材**: `AI伺服器` | **重要性**: `65`
-- **來源**: 24/7 Wall St. (2026-09-15T16:09:32Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Inside Nvidia's newest rack-scale AI supercomputer, a single line item on the bill of materials is swallowing the lion's share of a $4 million build, and it...
-- [原文連結](https://247wallst.com/investing/2026/09/15/its-all-about-the-gpus-70-of-nvidias-ai-supercomputer-cost-goes-to-vera-rubin-chips/)
-
----
-
-### 🚀 Dell Technologies (DELL) Raises its AI Server Forecast for the Second Time This Year
-- **題材**: `AI伺服器` | **重要性**: `65`
-- **來源**: Yahoo Entertainment (2026-09-11T23:39:09Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: On September 1, CNBC reported that Dell Technologies Inc. (NYSE:DELL) shares surged 9% after the firm raised its fiscal 2027 profit and revenue outlook for t...
-- [原文連結](https://finance.yahoo.com/technology/ai/articles/dell-technologies-dell-raises-ai-233909317.html)
-
----
-
 ### ⚖️ Sivers Semiconductors positions laser arrays as solution to copper's limits
 - **題材**: `光通訊與矽光子` | **重要性**: `63`
 - **來源**: Digitimes (2026-09-15T04:45:00Z)
@@ -142,6 +115,24 @@
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Nvidia launches the RTX Pro 5500 Blackwell Workstation Edition graphics card for agentic and generative AI.
 - [原文連結](https://www.tomshardware.com/pc-components/gpus/gaming-takes-a-backseat-as-nvidia-overhauls-the-rtx-5090-for-maximum-ai-margins-rtx-pro-5500-delivers-2-6x-vram-at-matching-specs)
+
+---
+
+### 🚀 iPhone 15 Pro vs. iPhone 18 Pro Buyer's Guide: Should You Upgrade?
+- **題材**: `半導體先進製程` | **重要性**: `60`
+- **來源**: MacRumors (2026-09-17T16:28:13Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Apple announced the iPhone 18 Pro and ‌iPhone 18 Pro‌ Max earlier this month, arriving three years after the iPhone 15 Pro and iPhone 15 Pro Max. Three generations of changes make for a substantial upgrade, bringing larger displays, an all-new design, improve…
+- [原文連結](https://www.macrumors.com/guide/iphone-15-pro-vs-18-pro/)
+
+---
+
+### 🚀 Intel Jumps 8%, SK Hynix Climbs 5% as Ohio Memory Talks Reignite; Micron Rises 6%
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: 24/7 Wall St. (2026-09-17T14:48:31Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Reports of Intel and SK Hynix teaming up to build memory chips in Ohio sent stocks surging across the sector, but the most revealing signal of the day has no...
+- [原文連結](https://247wallst.com/investing/2026/09/17/intel-jumps-8-sk-hynix-climbs-5-as-ohio-memory-talks-reignite-micron-rises-6/)
 
 ---
 
@@ -178,6 +169,15 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Intel stock inches higher on reports of a potential deal with SK Hynix. But does that warrant buying INTC shares today? Let’s find out!
 - [原文連結](https://www.barchart.com/story/news/4642723/intc-stock-alert-what-to-know-as-intel-reportedly-teams-up-with-sk-hynix)
+
+---
+
+### 🚀 MediaTek goes all-in on flagships with its first 2nm smartphone chip
+- **題材**: `半導體先進製程` | **重要性**: `60`
+- **來源**: TechSpot (2026-09-16T15:06:00Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: The company also announced the Dimensity 9600M, a 3nm chip aimed at a wider range of flagship phones. MediaTek said handsets using both processors will launch soon, though it did not identify the manufacturers or provide a specific timeframe.Read Entire Artic…
+- [原文連結](https://www.techspot.com/news/113865-mediatek-goes-all-flagships-first-2nm-smartphone-chip.html)
 
 ---
 
