@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-18T16:45:42.789192+00:00
+> 更新時間：2026-09-18T19:15:21.305952+00:00
 
 ### ⚠️ CPO ramp pushes silicon photonics testing upstream to catch defects early
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -55,15 +55,6 @@
 
 ---
 
-### 🚀 Samsung reportedly doesn’t want to make cheap chips for Qualcomm anymore
-- **題材**: `半導體先進製程` | **重要性**: `75`
-- **來源**: SamMobile (2026-09-11T16:53:53Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: There was a time when Samsung's Foundry division found it difficult to win orders from major chipmaking customers. It was sitting on ample capacity and burning billions of dollars every year. The situation has changed, as the foundry has picked up significant…
-- [原文連結](https://www.sammobile.com/news/samsung-reportedly-doesnt-want-to-make-cheap-chips-for-qualcomm-anymore/)
-
----
-
 ### ⚖️ Ardentec, Sigurd race into silicon photonics TIA testing as US client books capacity
 - **題材**: `光通訊與矽光子` | **重要性**: `73`
 - **來源**: Digitimes (2026-09-17T06:15:00Z)
@@ -88,6 +79,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Taiwan's optical communications supply chain is entering a more consequential phase of the AI infrastructure cycle. Demand is broadening beyond conventional pluggable transceivers toward continuous-wave (CW) lasers, fiber array units (FAUs), external laser so…
 - [原文連結](https://www.digitimes.com/news/a20260911VL216/taiwan-revenue-optics-cpo-communications.html)
+
+---
+
+### 🚀 Samsung reportedly doesn’t want to make cheap chips for Qualcomm anymore
+- **題材**: `半導體先進製程` | **重要性**: `70`
+- **來源**: SamMobile (2026-09-11T16:53:53Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: There was a time when Samsung's Foundry division found it difficult to win orders from major chipmaking customers. It was sitting on ample capacity and burning billions of dollars every year. The situation has changed, as the foundry has picked up significant…
+- [原文連結](https://www.sammobile.com/news/samsung-reportedly-doesnt-want-to-make-cheap-chips-for-qualcomm-anymore/)
 
 ---
 
