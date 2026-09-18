@@ -1,14 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-18T05:24:13.755325+00:00
-
-### 🚀 3 AI Infrastructure Stocks Institutions Love but Most Retail Investors Never Heard Of
-- **題材**: `光通訊與矽光子` | **重要性**: `80`
-- **來源**: 24/7 Wall St. (2026-09-16T13:00:16Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: The cables, chips, and switches connecting AI clusters are now the bottleneck the entire industry is racing to fix, and three mid-cap names are positioned at...
-- [原文連結](https://247wallst.com/investing/2026/09/16/3-ai-infrastructure-stocks-institutions-love-but-most-retail-investors-never-heard-of/)
-
----
+> 更新時間：2026-09-18T09:56:20.656656+00:00
 
 ### ⚠️ CPO ramp pushes silicon photonics testing upstream to catch defects early
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -73,6 +64,15 @@
 
 ---
 
+### ⚖️ Ardentec, Sigurd race into silicon photonics TIA testing as US client books capacity
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-09-17T06:15:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: The global optical communications module market continues to grow, and Taiwan's test and packaging companies are moving to capture demand in silicon photonics (SiPh) transimpedance amplifier (TIA) testing as AI data-center networks shift toward faster optical…
+- [原文連結](https://www.digitimes.com/news/a20260917PD223/sigurd-ardentec-siph-testing-capacity.html)
+
+---
+
 ### ⚖️ Foxconn subsidiary broadens AI interconnect role as 1.6T enters deployment
 - **題材**: `光通訊與矽光子` | **重要性**: `73`
 - **來源**: Digitimes (2026-09-14T04:55:00Z)
@@ -91,30 +91,12 @@
 
 ---
 
-### ⚖️ DIGITIMES Insight: Intel may lack a price edge over TSMC on SK Hynix HBM base dies
-- **題材**: `HBM記憶體` | **重要性**: `68`
-- **來源**: Digitimes (2026-09-15T16:15:00Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: SK Hynix is reportedly considering Intel as an additional manufacturing source for high-bandwidth memory (HBM) base dies beginning with the HBM4E generation, a move that could reduce its reliance on TSMC and give the memory maker greater supply and cost flexi…
-- [原文連結](https://www.digitimes.com/news/a20260914PD224/sk-hynix-intel-tsmc-hbm-price.html)
-
----
-
 ### 🚀 It’s All About the GPUs — 70% of Nvidia’s AI Supercomputer Cost Goes to Vera Rubin Chips
 - **題材**: `AI伺服器` | **重要性**: `65`
 - **來源**: 24/7 Wall St. (2026-09-15T16:09:32Z)
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Inside Nvidia's newest rack-scale AI supercomputer, a single line item on the bill of materials is swallowing the lion's share of a $4 million build, and it...
 - [原文連結](https://247wallst.com/investing/2026/09/15/its-all-about-the-gpus-70-of-nvidias-ai-supercomputer-cost-goes-to-vera-rubin-chips/)
-
----
-
-### ⚖️ izmo Microsystems Unveils Silicon Photonics Modules at SEMICON India 2026
-- **題材**: `光通訊與矽光子` | **重要性**: `65`
-- **來源**: BusinessLine (2026-09-15T06:00:20Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: izmo Microsystems Unveils Silicon Photonics Modules at SEMICON India 2026
-- [原文連結](https://www.thehindubusinessline.com/brandhub/pr-release/izmo-microsystems-unveils-silicon-photonics-modules-at-semicon-india-2026/article71466905.ece)
 
 ---
 
@@ -145,15 +127,6 @@
 
 ---
 
-### ⚖️ ficonTEC打破CPO測試瓶頸，與Hermes測試團隊合作
-- **題材**: `光通訊與矽光子` | **重要性**: `63`
-- **來源**: Digitimes (2026-09-11T09:19:25Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: 德國矽光子（SiPh）測試設備製造商ficonTEC突破了共封裝光學（CPO）「電入光出」測試的主要瓶頸，推出了業界首個Insertion 2自動化光學測試解決方案。一個…
-- [原文連結](https://www.digitimes.com/news/a20260910PD231/cpo-siph-silicon-testing-equipment.html)
-
----
-
 ### ⚖️ Gaming takes a backseat as Nvidia overhauls the RTX 5090 for maximum AI margins — RTX Pro 5500 delivers 2.6X VRAM at matching specs
 - **題材**: `AI伺服器` | **重要性**: `62`
 - **來源**: Tom's Hardware UK (2026-09-14T17:39:09Z)
@@ -172,12 +145,39 @@
 
 ---
 
+### 🚀 INTC Stock Alert: What to Know as Intel Reportedly Teams Up With SK hynix
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: Barchart.com (2026-09-16T20:09:29Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Intel stock inches higher on reports of a potential deal with SK Hynix. But does that warrant buying INTC shares today? Let’s find out!
+- [原文連結](https://www.barchart.com/story/news/4642723/intc-stock-alert-what-to-know-as-intel-reportedly-teams-up-with-sk-hynix)
+
+---
+
 ### 🚀 MediaTek goes all-in on flagships with its first 2nm smartphone chip
 - **題材**: `半導體先進製程` | **重要性**: `60`
 - **來源**: TechSpot (2026-09-16T15:06:00Z)
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: The company also announced the Dimensity 9600M, a 3nm chip aimed at a wider range of flagship phones. MediaTek said handsets using both processors will launch soon, though it did not identify the manufacturers or provide a specific timeframe.Read Entire Artic…
 - [原文連結](https://www.techspot.com/news/113865-mediatek-goes-all-flagships-first-2nm-smartphone-chip.html)
+
+---
+
+### 🚀 Oil slips as Saudi Arabia offers more crude via Oman; diesel near record high
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-09-16T09:42:24Z)
+- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: By Anushree Mukherjee Sept 16 (Reuters) - Oil prices fell on Wednesday as reports that Saudi Arabia was offering additional crude cargoes via Oman eased conc...
+- [原文連結](https://finance.yahoo.com/energy/articles/oil-slips-us-stock-build-050411696.html)
+
+---
+
+### ⚖️ The AI Boom Has a Bandwidth Problem
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: TechNode (2026-09-16T08:15:09Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Editor’s note: This article is republished from Jumpstart, a TechNode Group publication. The popular story of artificial intelligence begins with the processor. Bigger models require more GPUs, more power and ever-larger data centers. Yet once thousands of ac…
+- [原文連結](https://technode.com/2026/09/16/the-ai-boom-has-a-bandwidth-problem/)
 
 ---
 
