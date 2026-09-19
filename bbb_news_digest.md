@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-18T19:15:21.305952+00:00
+> 更新時間：2026-09-19T00:59:39.250743+00:00
 
 ### ⚠️ CPO ramp pushes silicon photonics testing upstream to catch defects early
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -7,15 +7,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: As AI servers drive demand for higher-speed optical interconnects and co-packaged optics (CPO) moves toward volume production, silicon photonics testing is shifting from component-performance verification toward wafer-yield protection and earlier risk screeni…
 - [原文連結](https://www.digitimes.com/news/a20260915PD211/testing-cpo-photonics-silicon-demand.html)
-
----
-
-### ⚖️ As AI data centers hit a transmission wall, GlobalFoundries pushes into silicon photonics
-- **題材**: `光通訊與矽光子` | **重要性**: `78`
-- **來源**: Digitimes (2026-09-16T00:28:56Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: At the China International Optoelectronics Expo (CIOE), a palm-sized metal transceiver represents the shift from copper to light in data center infrastructure, one of the biggest transformations in the industry amid the AI boom.
-- [原文連結](https://www.digitimes.com/news/a20260915VL227/silicon-photonics-globalfoundries-data-expo.html)
 
 ---
 
@@ -64,6 +55,15 @@
 
 ---
 
+### ⚖️ As AI data centers hit a transmission wall, GlobalFoundries pushes into silicon photonics
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-09-16T00:28:56Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: At the China International Optoelectronics Expo (CIOE), a palm-sized metal transceiver represents the shift from copper to light in data center infrastructure, one of the biggest transformations in the industry amid the AI boom.
+- [原文連結](https://www.digitimes.com/news/a20260915VL227/silicon-photonics-globalfoundries-data-expo.html)
+
+---
+
 ### ⚖️ Foxconn subsidiary broadens AI interconnect role as 1.6T enters deployment
 - **題材**: `光通訊與矽光子` | **重要性**: `73`
 - **來源**: Digitimes (2026-09-14T04:55:00Z)
@@ -82,12 +82,31 @@
 
 ---
 
-### 🚀 Samsung reportedly doesn’t want to make cheap chips for Qualcomm anymore
-- **題材**: `半導體先進製程` | **重要性**: `70`
-- **來源**: SamMobile (2026-09-11T16:53:53Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: There was a time when Samsung's Foundry division found it difficult to win orders from major chipmaking customers. It was sitting on ample capacity and burning billions of dollars every year. The situation has changed, as the foundry has picked up significant…
-- [原文連結](https://www.sammobile.com/news/samsung-reportedly-doesnt-want-to-make-cheap-chips-for-qualcomm-anymore/)
+### 🚀 There’s a Good Reason to Choose GLOBALFOUNDRIES Over Taiwan Semiconductor Manufacturing
+- **題材**: `光通訊與矽光子` | **重要性**: `70`
+- **來源**: 24/7 Wall St. (2026-09-17T16:02:30Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: TSMC dominates AI silicon and just raised its growth outlook, yet one corner of GlobalFoundries' business is quietly outpacing it on a percentage basis while...
+- [原文連結](https://247wallst.com/investing/2026/09/17/theres-a-good-reason-to-choose-globalfoundries-over-taiwan-semiconductor-manufacturing/)
+
+---
+
+### 🚀 What to Watch: KCHP
+- **題材**: `HBM記憶體` | **重要性**: `70`
+- **來源**: 24/7 Wall St. (2026-09-17T14:40:35Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Korea's newest chip ETF bets almost everything on two memory giants at the exact moment HBM pricing and AI capex commitments could swing either way, and the...
+- [原文連結](https://247wallst.com/investing/etf/2026/09/17/what-to-watch-kchp/)
+
+---
+
+### ⚖️ GlobalFoundries and Marvell expand collaboration on next-generation optical connectivity
+- **題材**: `光通訊與矽光子` | **重要性**: `65`
+- **來源**: Crypto Briefing (2026-09-17T12:42:23Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: The expanded collaboration accelerates advancements in AI data centers, addressing critical infrastructure challenges and enhancing efficiency.
+The post GlobalFoundries and Marvell expand collaboration on next-generation optical connectivity appeared first on…
+- [原文連結](https://cryptobriefing.com/globalfoundries-marvell-optical-connectivity/)
 
 ---
 
@@ -160,24 +179,6 @@
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Nobody ever thinks of RISC-V when they think of Nvidia, but it's actually incredibly important to Nvidia's GPUs.
 - [原文連結](https://www.xda-developers.com/your-nvidia-gpu-dozens-risc-v-cores-one-took-over-graphics-driver/)
-
----
-
-### 🚀 INTC Stock Alert: What to Know as Intel Reportedly Teams Up With SK hynix
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: Barchart.com (2026-09-16T20:09:29Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Intel stock inches higher on reports of a potential deal with SK Hynix. But does that warrant buying INTC shares today? Let’s find out!
-- [原文連結](https://www.barchart.com/story/news/4642723/intc-stock-alert-what-to-know-as-intel-reportedly-teams-up-with-sk-hynix)
-
----
-
-### 🚀 MediaTek goes all-in on flagships with its first 2nm smartphone chip
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: TechSpot (2026-09-16T15:06:00Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: The company also announced the Dimensity 9600M, a 3nm chip aimed at a wider range of flagship phones. MediaTek said handsets using both processors will launch soon, though it did not identify the manufacturers or provide a specific timeframe.Read Entire Artic…
-- [原文連結](https://www.techspot.com/news/113865-mediatek-goes-all-flagships-first-2nm-smartphone-chip.html)
 
 ---
 
