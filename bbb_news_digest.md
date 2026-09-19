@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-19T00:59:39.250743+00:00
+> 更新時間：2026-09-19T05:18:48.703500+00:00
 
 ### ⚠️ CPO ramp pushes silicon photonics testing upstream to catch defects early
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -91,25 +91,6 @@
 
 ---
 
-### 🚀 What to Watch: KCHP
-- **題材**: `HBM記憶體` | **重要性**: `70`
-- **來源**: 24/7 Wall St. (2026-09-17T14:40:35Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Korea's newest chip ETF bets almost everything on two memory giants at the exact moment HBM pricing and AI capex commitments could swing either way, and the...
-- [原文連結](https://247wallst.com/investing/etf/2026/09/17/what-to-watch-kchp/)
-
----
-
-### ⚖️ GlobalFoundries and Marvell expand collaboration on next-generation optical connectivity
-- **題材**: `光通訊與矽光子` | **重要性**: `65`
-- **來源**: Crypto Briefing (2026-09-17T12:42:23Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: The expanded collaboration accelerates advancements in AI data centers, addressing critical infrastructure challenges and enhancing efficiency.
-The post GlobalFoundries and Marvell expand collaboration on next-generation optical connectivity appeared first on…
-- [原文連結](https://cryptobriefing.com/globalfoundries-marvell-optical-connectivity/)
-
----
-
 ### ⚖️ Sivers Semiconductors positions laser arrays as solution to copper's limits
 - **題材**: `光通訊與矽光子` | **重要性**: `63`
 - **來源**: Digitimes (2026-09-15T04:45:00Z)
@@ -134,6 +115,15 @@ The post GlobalFoundries and Marvell expand collaboration on next-generation opt
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Nvidia launches the RTX Pro 5500 Blackwell Workstation Edition graphics card for agentic and generative AI.
 - [原文連結](https://www.tomshardware.com/pc-components/gpus/gaming-takes-a-backseat-as-nvidia-overhauls-the-rtx-5090-for-maximum-ai-margins-rtx-pro-5500-delivers-2-6x-vram-at-matching-specs)
+
+---
+
+### ⚖️ Micron Just Guided to $50 Billion in a Single Quarter. AI Memory Has Changed Everything.
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: Tikr.com (2026-09-17T20:59:01Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Key Stats for Micron Technology Stock52-Week Range: $154. 65 to $1,255.
+- [原文連結](https://www.tikr.com/blog/micron-just-guided-to-50-billion-in-a-single-quarter-ai-memory-has-changed-everything?ref=yahoofinance)
 
 ---
 
@@ -179,6 +169,15 @@ The post GlobalFoundries and Marvell expand collaboration on next-generation opt
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Nobody ever thinks of RISC-V when they think of Nvidia, but it's actually incredibly important to Nvidia's GPUs.
 - [原文連結](https://www.xda-developers.com/your-nvidia-gpu-dozens-risc-v-cores-one-took-over-graphics-driver/)
+
+---
+
+### 🚀 INTC Stock Alert: What to Know as Intel Reportedly Teams Up With SK hynix
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: Barchart.com (2026-09-16T20:09:29Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Intel stock inches higher on reports of a potential deal with SK Hynix. But does that warrant buying INTC shares today? Let’s find out!
+- [原文連結](https://www.barchart.com/story/news/4642723/intc-stock-alert-what-to-know-as-intel-reportedly-teams-up-with-sk-hynix)
 
 ---
 
