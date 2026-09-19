@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-09-19T09:37:49.865188+00:00",
+  "generated_at": "2026-09-19T12:54:26.892060+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 73,
@@ -795,44 +795,6 @@
       "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "ecc2f2c52b9687a9",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "Oil slips as Saudi Arabia offers more crude via Oman; diesel near record high",
-      "summary": "By Anushree Mukherjee Sept 16 (Reuters) - Oil prices fell on Wednesday as reports that Saudi Arabia was offering additional crude cargoes via Oman eased conc...",
-      "original_title": "Oil slips as Saudi Arabia offers more crude via Oman; diesel near record high",
-      "url": "https://finance.yahoo.com/energy/articles/oil-slips-us-stock-build-050411696.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-09-16T09:42:24Z",
-      "importance": 60,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "11377f34e7d92fe3",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -945,6 +907,44 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "04bafd1854f12783",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "Huawei’s answer to Nvidia isn’t a faster chip, it’s a much bigger machine",
+      "summary": "AI “may well be the final technological revolution in human history,” Huawei rotating chairman David Wang told Huawei Connect 2026 in Shanghai. His opening keynote ran under the title Advancing the Agentic World, Building a Solid Silicon Foundation. Huawei th…",
+      "original_title": "Huawei’s answer to Nvidia isn’t a faster chip, it’s a much bigger machine",
+      "url": "https://thenextweb.com/news/huawei-connect-2026-ascend-960-superpod-unifiedbus",
+      "source": "The Next Web",
+      "domain": "thenextweb.com",
+      "published_at": "2026-09-18T11:40:12Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "688c2de1d835980b",
@@ -1549,64 +1549,32 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "15c355eb1e9d44eb",
+      "id": "ecc2f2c52b9687a9",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "Intel Rises 4%, SK Hynix Climbs 3% on Reports of Talks to Make Memory Chips at Ohio Campus; Micron Holds Flat",
-      "summary": "A Reuters report about SK Hynix possibly producing memory chips on Intel's Ohio campus sent shares of both companies surging, but the real story is what the...",
-      "original_title": "Intel Rises 4%, SK Hynix Climbs 3% on Reports of Talks to Make Memory Chips at Ohio Campus; Micron Holds Flat",
-      "url": "https://247wallst.com/investing/2026/09/16/intel-rises-4-sk-hynix-climbs-3-as-reuters-reports-talks-to-make-memory-chips-at-ohio-campus-micron-holds-flat/",
-      "source": "24/7 Wall St.",
-      "domain": "247wallst.com",
-      "published_at": "2026-09-16T12:39:33Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "7940de3499095785",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "SK Hynix Says Exploring Options After Report of Intel Tie-Up",
-      "summary": "SK Hynix Inc. said that it’s exploring options to boost its global competitiveness after a report that it may team up with Intel Corp. to make semiconductors...",
-      "original_title": "SK Hynix Says Exploring Options After Report of Intel Tie-Up",
-      "url": "https://finance.yahoo.com/technology/articles/sk-hynix-says-exploring-options-113622083.html",
+      "theme": "總體風險",
+      "title": "Oil slips as Saudi Arabia offers more crude via Oman; diesel near record high",
+      "summary": "By Anushree Mukherjee Sept 16 (Reuters) - Oil prices fell on Wednesday as reports that Saudi Arabia was offering additional crude cargoes via Oman eased conc...",
+      "original_title": "Oil slips as Saudi Arabia offers more crude via Oman; diesel near record high",
+      "url": "https://finance.yahoo.com/energy/articles/oil-slips-us-stock-build-050411696.html",
       "source": "Yahoo Entertainment",
       "domain": "finance.yahoo.com",
-      "published_at": "2026-09-16T11:36:22Z",
+      "published_at": "2026-09-16T09:42:24Z",
       "importance": 55,
-      "impact": "neutral",
+      "impact": "positive",
       "timeframe": "short_term",
       "tags": [
-        "HBM",
-        "記憶體"
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
       ],
       "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
       ],
       "related_models": [
         "003",
@@ -1616,80 +1584,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "7dffd5d0cbac4df2",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "Samsung might stick to LPDDR5X memory for its lower-tier Galaxy S27 devices",
-      "summary": "Earlier reports claimed that the Samsung Galaxy S27 lineup will ship with the next-generation LPDDR6 memory, paired with Qualcomm's upcoming Snapdragon 8 Elite Extreme Gen 6, but the latest rumor suggests otherwise.\n\n\n\nThe Bell cites inside sources claiming t…",
-      "original_title": "Samsung might stick to LPDDR5X memory for its lower-tier Galaxy S27 devices",
-      "url": "https://www.gsmarena.com/samsung_might_stick_to_lpddr5x_memory_for_its_lowertier_galaxy_s27_devices-news-74636.php",
-      "source": "GSMArena.com",
-      "domain": "gsmarena.com",
-      "published_at": "2026-09-16T09:46:02Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "1fbb2d5a3845e284",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "The AI Boom Has a Bandwidth Problem",
-      "summary": "Editor’s note: This article is republished from Jumpstart, a TechNode Group publication. The popular story of artificial intelligence begins with the processor. Bigger models require more GPUs, more power and ever-larger data centers. Yet once thousands of ac…",
-      "original_title": "The AI Boom Has a Bandwidth Problem",
-      "url": "https://technode.com/2026/09/16/the-ai-boom-has-a-bandwidth-problem/",
-      "source": "TechNode",
-      "domain": "technode.com",
-      "published_at": "2026-09-16T08:15:09Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "129134d13da1ba0e",
@@ -2029,6 +1924,111 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "15c355eb1e9d44eb",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "Intel Rises 4%, SK Hynix Climbs 3% on Reports of Talks to Make Memory Chips at Ohio Campus; Micron Holds Flat",
+      "summary": "A Reuters report about SK Hynix possibly producing memory chips on Intel's Ohio campus sent shares of both companies surging, but the real story is what the...",
+      "original_title": "Intel Rises 4%, SK Hynix Climbs 3% on Reports of Talks to Make Memory Chips at Ohio Campus; Micron Holds Flat",
+      "url": "https://247wallst.com/investing/2026/09/16/intel-rises-4-sk-hynix-climbs-3-as-reuters-reports-talks-to-make-memory-chips-at-ohio-campus-micron-holds-flat/",
+      "source": "24/7 Wall St.",
+      "domain": "247wallst.com",
+      "published_at": "2026-09-16T12:39:33Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "7940de3499095785",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "SK Hynix Says Exploring Options After Report of Intel Tie-Up",
+      "summary": "SK Hynix Inc. said that it’s exploring options to boost its global competitiveness after a report that it may team up with Intel Corp. to make semiconductors...",
+      "original_title": "SK Hynix Says Exploring Options After Report of Intel Tie-Up",
+      "url": "https://finance.yahoo.com/technology/articles/sk-hynix-says-exploring-options-113622083.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-09-16T11:36:22Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "7dffd5d0cbac4df2",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "Samsung might stick to LPDDR5X memory for its lower-tier Galaxy S27 devices",
+      "summary": "Earlier reports claimed that the Samsung Galaxy S27 lineup will ship with the next-generation LPDDR6 memory, paired with Qualcomm's upcoming Snapdragon 8 Elite Extreme Gen 6, but the latest rumor suggests otherwise.\n\n\n\nThe Bell cites inside sources claiming t…",
+      "original_title": "Samsung might stick to LPDDR5X memory for its lower-tier Galaxy S27 devices",
+      "url": "https://www.gsmarena.com/samsung_might_stick_to_lpddr5x_memory_for_its_lowertier_galaxy_s27_devices-news-74636.php",
+      "source": "GSMArena.com",
+      "domain": "gsmarena.com",
+      "published_at": "2026-09-16T09:46:02Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "f60b423ab01da055",
