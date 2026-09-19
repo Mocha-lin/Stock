@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-09-19T12:54:26.892060+00:00",
+  "generated_at": "2026-09-19T16:07:17.338080+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 73,
@@ -757,44 +757,6 @@
       "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "00c0b24ceb9cc352",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "MediaTek goes all-in on flagships with its first 2nm smartphone chip",
-      "summary": "The company also announced the Dimensity 9600M, a 3nm chip aimed at a wider range of flagship phones. MediaTek said handsets using both processors will launch soon, though it did not identify the manufacturers or provide a specific timeframe.Read Entire Artic…",
-      "original_title": "MediaTek goes all-in on flagships with its first 2nm smartphone chip",
-      "url": "https://www.techspot.com/news/113865-mediatek-goes-all-flagships-first-2nm-smartphone-chip.html",
-      "source": "TechSpot",
-      "domain": "techspot.com",
-      "published_at": "2026-09-16T15:06:00Z",
-      "importance": 60,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "11377f34e7d92fe3",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -907,6 +869,44 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "78d59134816b3550",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Wilson major Wales injury concern for Nations League",
+      "summary": "Leeds United forward Harry Wilson is a major doubt for the start of Wales' Nations League campaign because of a leg muscle injury.",
+      "original_title": "Wilson major Wales injury concern for Nations League",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq62j7yrler2o",
+      "source": "BBC News",
+      "domain": "bbc.co.uk",
+      "published_at": "2026-09-18T14:23:38Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "04bafd1854f12783",
@@ -1248,44 +1248,6 @@
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "c65daeaeef89f8cb",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Apple Watch Series 12 Returns to Ceramic, Fired Three Times Over",
-      "summary": "Apple Watch Series 12 brings back ceramic for the first time since Series 5 in 2019, in Pearl White and Night Blue cases that pass through three separate heat treatments before diamond-tipped tools…",
-      "original_title": "Apple Watch Series 12 Returns to Ceramic, Fired Three Times Over",
-      "url": "http://coolhunting.com/tech/apple-watch-series-12-returns-to-ceramic-fired-three-times-over/",
-      "source": "Cool Hunting",
-      "domain": "coolhunting.com",
-      "published_at": "2026-09-17T02:14:39Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "ea18641f7d2bd087",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1435,19 +1397,19 @@
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "08d6cbc193035b5a",
+      "id": "00c0b24ceb9cc352",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "半導體先進製程",
-      "title": "Apple Memory Supplier Explores U.S. Manufacturing With Intel",
-      "summary": "Apple memory supplier SK Hynix is in exploratory talks with Intel about manufacturing memory chips in the United States for the first time, according to Reuters.\n\n\n\n\n\nOne option would see the South Korean chipmaker lease part of Intel's planned manufacturing …",
-      "original_title": "Apple Memory Supplier Explores U.S. Manufacturing With Intel",
-      "url": "https://www.macrumors.com/2026/09/16/apple-memory-supplier-explores-us-manufacturing/",
-      "source": "MacRumors",
-      "domain": "macrumors.com",
-      "published_at": "2026-09-16T15:16:01Z",
+      "title": "MediaTek goes all-in on flagships with its first 2nm smartphone chip",
+      "summary": "The company also announced the Dimensity 9600M, a 3nm chip aimed at a wider range of flagship phones. MediaTek said handsets using both processors will launch soon, though it did not identify the manufacturers or provide a specific timeframe.Read Entire Artic…",
+      "original_title": "MediaTek goes all-in on flagships with its first 2nm smartphone chip",
+      "url": "https://www.techspot.com/news/113865-mediatek-goes-all-flagships-first-2nm-smartphone-chip.html",
+      "source": "TechSpot",
+      "domain": "techspot.com",
+      "published_at": "2026-09-16T15:06:00Z",
       "importance": 55,
-      "impact": "neutral",
+      "impact": "positive",
       "timeframe": "short_term",
       "tags": [
         "半導體",
@@ -1470,83 +1432,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "d10e022dec959e93",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "iPhone 18 Pro Reviews: Excellent Yet... Meh?",
-      "summary": "The first iPhone 18 Pro and iPhone 18 Pro Max reviews have been published today by selected tech websites and YouTube channels, ahead of the devices beginning to arrive to customers and launching in stores this Friday, September 18.\n\n\n\n\n\nWhile the iPhone 17 P…",
-      "original_title": "iPhone 18 Pro Reviews: Excellent Yet... Meh?",
-      "url": "https://www.macrumors.com/review/iphone-18-pro/",
-      "source": "MacRumors",
-      "domain": "macrumors.com",
-      "published_at": "2026-09-16T14:31:14Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "5aa893ae1af3ee1a",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Apple May Return to Server Market With Nvidia Technology",
-      "summary": "Apple is considering offering an AI server built around \"M8\" series chips and has discussed incorporating Nvidia networking hardware, The Information reports.\n\n\n\n\n\n\n\nThe system would be sold to outside customers, potentially bringing Apple back into a busines…",
-      "original_title": "Apple May Return to Server Market With Nvidia Technology",
-      "url": "https://www.macrumors.com/2026/09/16/apple-may-return-to-server-market/",
-      "source": "MacRumors",
-      "domain": "macrumors.com",
-      "published_at": "2026-09-16T13:53:07Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "ecc2f2c52b9687a9",
@@ -1924,6 +1810,120 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "08d6cbc193035b5a",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "Apple Memory Supplier Explores U.S. Manufacturing With Intel",
+      "summary": "Apple memory supplier SK Hynix is in exploratory talks with Intel about manufacturing memory chips in the United States for the first time, according to Reuters.\n\n\n\n\n\nOne option would see the South Korean chipmaker lease part of Intel's planned manufacturing …",
+      "original_title": "Apple Memory Supplier Explores U.S. Manufacturing With Intel",
+      "url": "https://www.macrumors.com/2026/09/16/apple-memory-supplier-explores-us-manufacturing/",
+      "source": "MacRumors",
+      "domain": "macrumors.com",
+      "published_at": "2026-09-16T15:16:01Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "d10e022dec959e93",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "iPhone 18 Pro Reviews: Excellent Yet... Meh?",
+      "summary": "The first iPhone 18 Pro and iPhone 18 Pro Max reviews have been published today by selected tech websites and YouTube channels, ahead of the devices beginning to arrive to customers and launching in stores this Friday, September 18.\n\n\n\n\n\nWhile the iPhone 17 P…",
+      "original_title": "iPhone 18 Pro Reviews: Excellent Yet... Meh?",
+      "url": "https://www.macrumors.com/review/iphone-18-pro/",
+      "source": "MacRumors",
+      "domain": "macrumors.com",
+      "published_at": "2026-09-16T14:31:14Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "5aa893ae1af3ee1a",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Apple May Return to Server Market With Nvidia Technology",
+      "summary": "Apple is considering offering an AI server built around \"M8\" series chips and has discussed incorporating Nvidia networking hardware, The Information reports.\n\n\n\n\n\n\n\nThe system would be sold to outside customers, potentially bringing Apple back into a busines…",
+      "original_title": "Apple May Return to Server Market With Nvidia Technology",
+      "url": "https://www.macrumors.com/2026/09/16/apple-may-return-to-server-market/",
+      "source": "MacRumors",
+      "domain": "macrumors.com",
+      "published_at": "2026-09-16T13:53:07Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "15c355eb1e9d44eb",
