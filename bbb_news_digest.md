@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-19T16:07:17.338080+00:00
+> 更新時間：2026-09-19T19:00:58.626049+00:00
 
 ### ⚖️ TSMC 3nm, 2nm, and CoWoS stay tight as AWS, MediaTek, TPU shift capacity
 - **題材**: `半導體先進製程` | **重要性**: `78`
@@ -118,6 +118,15 @@
 
 ---
 
+### ⚖️ (PR) AI Chip Packaging Pushes Beyond Reticle Limits, with CoWoS-L Set to Remain the Mainstream Advanced Packaging Solution Through 2028
+- **題材**: `半導體先進製程` | **重要性**: `60`
+- **來源**: Techpowerup.com (2026-09-18T16:29:35Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: TrendForce's latest research into advanced semiconductor packaging reveals that GPU suppliers and hyperscale CSPs are continuing to develop increasingly powerful and versatile AI chips, making larger package sizes a key development priority for 2.5D packaging…
+- [原文連結](https://www.techpowerup.com/352835/ai-chip-packaging-pushes-beyond-reticle-limits-with-cowos-l-set-to-remain-the-mainstream-advanced-packaging-solution-through-2028)
+
+---
+
 ### ⚖️ Micron Just Guided to $50 Billion in a Single Quarter. AI Memory Has Changed Everything.
 - **題材**: `HBM記憶體` | **重要性**: `60`
 - **來源**: Tikr.com (2026-09-17T20:59:01Z)
@@ -169,15 +178,6 @@
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Nobody ever thinks of RISC-V when they think of Nvidia, but it's actually incredibly important to Nvidia's GPUs.
 - [原文連結](https://www.xda-developers.com/your-nvidia-gpu-dozens-risc-v-cores-one-took-over-graphics-driver/)
-
----
-
-### 🚀 INTC Stock Alert: What to Know as Intel Reportedly Teams Up With SK hynix
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: Barchart.com (2026-09-16T20:09:29Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Intel stock inches higher on reports of a potential deal with SK Hynix. But does that warrant buying INTC shares today? Let’s find out!
-- [原文連結](https://www.barchart.com/story/news/4642723/intc-stock-alert-what-to-know-as-intel-reportedly-teams-up-with-sk-hynix)
 
 ---
 
