@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-20T05:33:18.615883+00:00
+> 更新時間：2026-09-20T13:28:04.790971+00:00
 
 ### ⚖️ TSMC 3nm, 2nm, and CoWoS stay tight as AWS, MediaTek, TPU shift capacity
 - **題材**: `半導體先進製程` | **重要性**: `78`
@@ -151,15 +151,6 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Reports of Intel and SK Hynix teaming up to build memory chips in Ohio sent stocks surging across the sector, but the most revealing signal of the day has no...
 - [原文連結](https://247wallst.com/investing/2026/09/17/intel-jumps-8-sk-hynix-climbs-5-as-ohio-memory-talks-reignite-micron-rises-6/)
-
----
-
-### 🚀 Cardiff boosted by return of Wales defender Lawlor
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: BBC News (2026-09-17T10:25:58Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Wales defender Dylan Lawlor returns from injury to boost winless Cardiff City against Charlton Athletic in the Championship.
-- [原文連結](https://www.bbc.co.uk/sport/football/articles/c6ge481dq18do)
 
 ---
 
