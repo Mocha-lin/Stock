@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-20T00:42:29.887183+00:00
+> 更新時間：2026-09-20T05:33:18.615883+00:00
 
 ### ⚖️ TSMC 3nm, 2nm, and CoWoS stay tight as AWS, MediaTek, TPU shift capacity
 - **題材**: `半導體先進製程` | **重要性**: `78`
@@ -37,15 +37,6 @@
 
 ---
 
-### ⚖️ Ardentec, Sigurd race into silicon photonics TIA testing as US client books capacity
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-09-17T06:15:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: The global optical communications module market continues to grow, and Taiwan's test and packaging companies are moving to capture demand in silicon photonics (SiPh) transimpedance amplifier (TIA) testing as AI data-center networks shift toward faster optical…
-- [原文連結](https://www.digitimes.com/news/a20260917PD223/sigurd-ardentec-siph-testing-capacity.html)
-
----
-
 ### ⚠️ CPO ramp pushes silicon photonics testing upstream to catch defects early
 - **題材**: `光通訊與矽光子` | **重要性**: `73`
 - **來源**: Digitimes (2026-09-16T06:30:00Z)
@@ -70,15 +61,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: AI data centers are moving decisively toward 1.6T connectivity, with 800G now mainstream in AI clusters and 400G remaining common in general cloud and enterprise deployments.
 - [原文連結](https://www.digitimes.com/news/a20260914PD225/data-design-fit-cpo-cooling.html)
-
----
-
-### 🚀 There’s a Good Reason to Choose GLOBALFOUNDRIES Over Taiwan Semiconductor Manufacturing
-- **題材**: `光通訊與矽光子` | **重要性**: `70`
-- **來源**: 24/7 Wall St. (2026-09-17T16:02:30Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: TSMC dominates AI silicon and just raised its growth outlook, yet one corner of GlobalFoundries' business is quietly outpacing it on a percentage basis while...
-- [原文連結](https://247wallst.com/investing/2026/09/17/theres-a-good-reason-to-choose-globalfoundries-over-taiwan-semiconductor-manufacturing/)
 
 ---
 
@@ -124,6 +106,15 @@
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Nvidia launches the RTX Pro 5500 Blackwell Workstation Edition graphics card for agentic and generative AI.
 - [原文連結](https://www.tomshardware.com/pc-components/gpus/gaming-takes-a-backseat-as-nvidia-overhauls-the-rtx-5090-for-maximum-ai-margins-rtx-pro-5500-delivers-2-6x-vram-at-matching-specs)
+
+---
+
+### 🚀 The U.S. Government Is Preparing to Offload Over 9 Million GlobalFoundries Shares. How You Should Play GFS Stock in Response.
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: Barchart.com (2026-09-18T18:36:12Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: The federal government has filed to sell shares of GFS stock tied to a chip-funding deal, even as new federal awards keep flowing in.
+- [原文連結](https://www.barchart.com/story/news/4685122/the-u-s-government-is-preparing-to-offload-over-9-million-globalfoundries-shares-how-you-should-play-gfs-stock-in-response)
 
 ---
 
@@ -178,6 +169,15 @@
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Inside Nvidia's newest rack-scale AI supercomputer, a single line item on the bill of materials is swallowing the lion's share of a $4 million build, and it...
 - [原文連結](https://247wallst.com/investing/2026/09/15/its-all-about-the-gpus-70-of-nvidias-ai-supercomputer-cost-goes-to-vera-rubin-chips/)
+
+---
+
+### ⚖️ izmo Microsystems Unveils Silicon Photonics Modules at SEMICON India 2026
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: BusinessLine (2026-09-15T06:00:20Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: izmo Microsystems Unveils Silicon Photonics Modules at SEMICON India 2026
+- [原文連結](https://www.thehindubusinessline.com/brandhub/pr-release/izmo-microsystems-unveils-silicon-photonics-modules-at-semicon-india-2026/article71466905.ece)
 
 ---
 
