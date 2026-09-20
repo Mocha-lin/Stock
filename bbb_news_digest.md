@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-20T13:28:04.790971+00:00
+> 更新時間：2026-09-20T16:33:37.268935+00:00
 
 ### ⚖️ TSMC 3nm, 2nm, and CoWoS stay tight as AWS, MediaTek, TPU shift capacity
 - **題材**: `半導體先進製程` | **重要性**: `78`
@@ -109,6 +109,15 @@
 
 ---
 
+### ⚠️ Citi Forecasts Widening Memory Chip Shortages Through 2031 as AI Demand Expands
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: Advfn.com (2026-09-19T14:54:45Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Citi expects shortages across the global memory semiconductor market to deepen through 2031, driven by increasing demand for high-bandwidth memory (HBM), DRA...
+- [原文連結](https://investorshub.advfn.com/market-news/article/36526/citi-forecasts-widening-memory-chip-shortages-through-2031-as-ai-demand-expands)
+
+---
+
 ### 🚀 The U.S. Government Is Preparing to Offload Over 9 Million GlobalFoundries Shares. How You Should Play GFS Stock in Response.
 - **題材**: `光通訊與矽光子` | **重要性**: `60`
 - **來源**: Barchart.com (2026-09-18T18:36:12Z)
@@ -124,33 +133,6 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: TrendForce's latest research into advanced semiconductor packaging reveals that GPU suppliers and hyperscale CSPs are continuing to develop increasingly powerful and versatile AI chips, making larger package sizes a key development priority for 2.5D packaging…
 - [原文連結](https://www.techpowerup.com/352835/ai-chip-packaging-pushes-beyond-reticle-limits-with-cowos-l-set-to-remain-the-mainstream-advanced-packaging-solution-through-2028)
-
----
-
-### ⚖️ Micron Just Guided to $50 Billion in a Single Quarter. AI Memory Has Changed Everything.
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: Tikr.com (2026-09-17T20:59:01Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Key Stats for Micron Technology Stock52-Week Range: $154. 65 to $1,255.
-- [原文連結](https://www.tikr.com/blog/micron-just-guided-to-50-billion-in-a-single-quarter-ai-memory-has-changed-everything?ref=yahoofinance)
-
----
-
-### 🚀 iPhone 15 Pro vs. iPhone 18 Pro Buyer's Guide: Should You Upgrade?
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: MacRumors (2026-09-17T16:28:13Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Apple announced the iPhone 18 Pro and ‌iPhone 18 Pro‌ Max earlier this month, arriving three years after the iPhone 15 Pro and iPhone 15 Pro Max. Three generations of changes make for a substantial upgrade, bringing larger displays, an all-new design, improve…
-- [原文連結](https://www.macrumors.com/guide/iphone-15-pro-vs-18-pro/)
-
----
-
-### 🚀 Intel Jumps 8%, SK Hynix Climbs 5% as Ohio Memory Talks Reignite; Micron Rises 6%
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: 24/7 Wall St. (2026-09-17T14:48:31Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Reports of Intel and SK Hynix teaming up to build memory chips in Ohio sent stocks surging across the sector, but the most revealing signal of the day has no...
-- [原文連結](https://247wallst.com/investing/2026/09/17/intel-jumps-8-sk-hynix-climbs-5-as-ohio-memory-talks-reignite-micron-rises-6/)
 
 ---
 
