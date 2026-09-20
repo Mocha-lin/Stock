@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-19T19:00:58.626049+00:00
+> 更新時間：2026-09-20T00:42:29.887183+00:00
 
 ### ⚖️ TSMC 3nm, 2nm, and CoWoS stay tight as AWS, MediaTek, TPU shift capacity
 - **題材**: `半導體先進製程` | **重要性**: `78`
@@ -73,21 +73,30 @@
 
 ---
 
-### ⚖️ AI server tracker: Taiwan optics race beyond 1.6T
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-09-13T00:22:57Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Taiwan's optical communications supply chain is entering a more consequential phase of the AI infrastructure cycle. Demand is broadening beyond conventional pluggable transceivers toward continuous-wave (CW) lasers, fiber array units (FAUs), external laser so…
-- [原文連結](https://www.digitimes.com/news/a20260911VL216/taiwan-revenue-optics-cpo-communications.html)
-
----
-
 ### 🚀 There’s a Good Reason to Choose GLOBALFOUNDRIES Over Taiwan Semiconductor Manufacturing
 - **題材**: `光通訊與矽光子` | **重要性**: `70`
 - **來源**: 24/7 Wall St. (2026-09-17T16:02:30Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: TSMC dominates AI silicon and just raised its growth outlook, yet one corner of GlobalFoundries' business is quietly outpacing it on a percentage basis while...
 - [原文連結](https://247wallst.com/investing/2026/09/17/theres-a-good-reason-to-choose-globalfoundries-over-taiwan-semiconductor-manufacturing/)
+
+---
+
+### ⚖️ AI server tracker: Taiwan optics race beyond 1.6T
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-09-13T00:22:57Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Taiwan's optical communications supply chain is entering a more consequential phase of the AI infrastructure cycle. Demand is broadening beyond conventional pluggable transceivers toward continuous-wave (CW) lasers, fiber array units (FAUs), external laser so…
+- [原文連結](https://www.digitimes.com/news/a20260911VL216/taiwan-revenue-optics-cpo-communications.html)
+
+---
+
+### 🚀 GlobalFoundries and Marvell are scaling up silicon photonics efforts as data centers outgrow copper wiring
+- **題材**: `光通訊與矽光子` | **重要性**: `65`
+- **來源**: TechSpot (2026-09-18T20:25:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: GlobalFoundries and Marvell Technology have announced an expanded partnership in manufacturing novel connectivity solutions. The multi-year agreement centers on GlobalFoundries' silicon germanium (SiGe) technology, with the company increasing production capac…
+- [原文連結](https://www.techspot.com/news/113903-globalfoundries-marvell-scaling-up-silicon-photonics-efforts-data.html)
 
 ---
 
@@ -154,15 +163,6 @@
 
 ---
 
-### ⚖️ Coherent Corp. (COHR): A Critical Player in AI Data Center Buildouts
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-09-17T12:11:38Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Baron Capital, an investment management company, released its second-quarter 2026 investor letter for its “Baron SMID Cap ETF”. You can download the letter h...
-- [原文連結](https://finance.yahoo.com/technology/ai/articles/coherent-corp-cohr-critical-player-121138964.html)
-
----
-
 ### 🚀 Cardiff boosted by return of Wales defender Lawlor
 - **題材**: `AI伺服器` | **重要性**: `60`
 - **來源**: BBC News (2026-09-17T10:25:58Z)
@@ -172,12 +172,12 @@
 
 ---
 
-### 🚀 Your Nvidia GPU has dozens of RISC-V cores inside it, and one of them took over a huge part of the graphics driver
+### 🚀 It’s All About the GPUs — 70% of Nvidia’s AI Supercomputer Cost Goes to Vera Rubin Chips
 - **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: XDA Developers (2026-09-16T20:30:16Z)
+- **來源**: 24/7 Wall St. (2026-09-15T16:09:32Z)
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Nobody ever thinks of RISC-V when they think of Nvidia, but it's actually incredibly important to Nvidia's GPUs.
-- [原文連結](https://www.xda-developers.com/your-nvidia-gpu-dozens-risc-v-cores-one-took-over-graphics-driver/)
+- **摘要**: Inside Nvidia's newest rack-scale AI supercomputer, a single line item on the bill of materials is swallowing the lion's share of a $4 million build, and it...
+- [原文連結](https://247wallst.com/investing/2026/09/15/its-all-about-the-gpus-70-of-nvidias-ai-supercomputer-cost-goes-to-vera-rubin-chips/)
 
 ---
 
