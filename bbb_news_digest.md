@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-21T00:51:50.013976+00:00
+> 更新時間：2026-09-21T05:41:01.668234+00:00
 
 ### ⚖️ TSMC 3nm, 2nm, and CoWoS stay tight as AWS, MediaTek, TPU shift capacity
 - **題材**: `半導體先進製程` | **重要性**: `78`
@@ -55,21 +55,21 @@
 
 ---
 
-### ⚖️ Foxconn subsidiary broadens AI interconnect role as 1.6T enters deployment
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-09-14T04:55:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: AI data centers are moving decisively toward 1.6T connectivity, with 800G now mainstream in AI clusters and 400G remaining common in general cloud and enterprise deployments.
-- [原文連結](https://www.digitimes.com/news/a20260914PD225/data-design-fit-cpo-cooling.html)
-
----
-
 ### ⚖️ Ardentec, Sigurd race into silicon photonics TIA testing as US client books capacity
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
 - **來源**: Digitimes (2026-09-17T06:15:00Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: The global optical communications module market continues to grow, and Taiwan's test and packaging companies are moving to capture demand in silicon photonics (SiPh) transimpedance amplifier (TIA) testing as AI data-center networks shift toward faster optical…
 - [原文連結](https://www.digitimes.com/news/a20260917PD223/sigurd-ardentec-siph-testing-capacity.html)
+
+---
+
+### ⚖️ Foxconn subsidiary broadens AI interconnect role as 1.6T enters deployment
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-09-14T04:55:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: AI data centers are moving decisively toward 1.6T connectivity, with 800G now mainstream in AI clusters and 400G remaining common in general cloud and enterprise deployments.
+- [原文連結](https://www.digitimes.com/news/a20260914PD225/data-design-fit-cpo-cooling.html)
 
 ---
 
