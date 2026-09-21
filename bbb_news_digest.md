@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-20T19:07:19.518974+00:00
+> 更新時間：2026-09-21T00:51:50.013976+00:00
 
 ### ⚖️ TSMC 3nm, 2nm, and CoWoS stay tight as AWS, MediaTek, TPU shift capacity
 - **題材**: `半導體先進製程` | **重要性**: `78`
@@ -64,12 +64,21 @@
 
 ---
 
-### ⚖️ AI server tracker: Taiwan optics race beyond 1.6T
+### ⚖️ Ardentec, Sigurd race into silicon photonics TIA testing as US client books capacity
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-09-13T00:22:57Z)
+- **來源**: Digitimes (2026-09-17T06:15:00Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Taiwan's optical communications supply chain is entering a more consequential phase of the AI infrastructure cycle. Demand is broadening beyond conventional pluggable transceivers toward continuous-wave (CW) lasers, fiber array units (FAUs), external laser so…
-- [原文連結](https://www.digitimes.com/news/a20260911VL216/taiwan-revenue-optics-cpo-communications.html)
+- **摘要**: The global optical communications module market continues to grow, and Taiwan's test and packaging companies are moving to capture demand in silicon photonics (SiPh) transimpedance amplifier (TIA) testing as AI data-center networks shift toward faster optical…
+- [原文連結](https://www.digitimes.com/news/a20260917PD223/sigurd-ardentec-siph-testing-capacity.html)
+
+---
+
+### ⚖️ Samsung could follow Micron by outsourcing DDR5 and SSD production to third parties to focus on more lucrative HBM and enterprise products — could SanDisk follow suit?
+- **題材**: `半導體先進製程` | **重要性**: `65`
+- **來源**: TechRadar (2026-09-19T19:10:00Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Samsung is outsourcing additional DDR5 and SSD production while reserving internal capacity for HBM, advanced packaging, and higher-value memory products.
+- [原文連結](https://www.techradar.com/pro/samsung-could-follow-micron-by-outsourcing-ddr5-and-ssd-production-to-third-parties-to-focus-on-more-lucrative-hbm-and-enterprise-products-could-sandisk-follow-suit)
 
 ---
 
@@ -115,6 +124,15 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Citi expects shortages across the global memory semiconductor market to deepen through 2031, driven by increasing demand for high-bandwidth memory (HBM), DRA...
 - [原文連結](https://investorshub.advfn.com/market-news/article/36526/citi-forecasts-widening-memory-chip-shortages-through-2031-as-ai-demand-expands)
+
+---
+
+### 🚀 Surge in heating costs expected to worsen price crunch
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Abcnews.com (2026-09-19T10:06:25Z)
+- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Heating costs are set to rise at twice the pace of inflation, a report showed.
+- [原文連結](https://abcnews.com/Business/surge-heating-costs-expected-worsen-price-crunch/story?id=136561978)
 
 ---
 

@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-09-20T19:07:19.518974+00:00",
+  "generated_at": "2026-09-21T00:51:50.013976+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 75,
@@ -272,17 +272,17 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
-      "id": "c376fdb8b953b71e",
+      "id": "7bad39d530fe8186",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "光通訊與矽光子",
-      "title": "AI server tracker: Taiwan optics race beyond 1.6T",
-      "summary": "Taiwan's optical communications supply chain is entering a more consequential phase of the AI infrastructure cycle. Demand is broadening beyond conventional pluggable transceivers toward continuous-wave (CW) lasers, fiber array units (FAUs), external laser so…",
-      "original_title": "AI server tracker: Taiwan optics race beyond 1.6T",
-      "url": "https://www.digitimes.com/news/a20260911VL216/taiwan-revenue-optics-cpo-communications.html",
+      "title": "Ardentec, Sigurd race into silicon photonics TIA testing as US client books capacity",
+      "summary": "The global optical communications module market continues to grow, and Taiwan's test and packaging companies are moving to capture demand in silicon photonics (SiPh) transimpedance amplifier (TIA) testing as AI data-center networks shift toward faster optical…",
+      "original_title": "Ardentec, Sigurd race into silicon photonics TIA testing as US client books capacity",
+      "url": "https://www.digitimes.com/news/a20260917PD223/sigurd-ardentec-siph-testing-capacity.html",
       "source": "Digitimes",
       "domain": "digitimes.com",
-      "published_at": "2026-09-13T00:22:57Z",
+      "published_at": "2026-09-17T06:15:00Z",
       "importance": 68,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -308,6 +308,44 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "95992e37afab9591",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "Samsung could follow Micron by outsourcing DDR5 and SSD production to third parties to focus on more lucrative HBM and enterprise products — could SanDisk follow suit?",
+      "summary": "Samsung is outsourcing additional DDR5 and SSD production while reserving internal capacity for HBM, advanced packaging, and higher-value memory products.",
+      "original_title": "Samsung could follow Micron by outsourcing DDR5 and SSD production to third parties to focus on more lucrative HBM and enterprise products — could SanDisk follow suit?",
+      "url": "https://www.techradar.com/pro/samsung-could-follow-micron-by-outsourcing-ddr5-and-ssd-production-to-third-parties-to-focus-on-more-lucrative-hbm-and-enterprise-products-could-sandisk-follow-suit",
+      "source": "TechRadar",
+      "domain": "techradar.com",
+      "published_at": "2026-09-19T19:10:00Z",
+      "importance": 65,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "47b987431925823d",
@@ -495,6 +533,44 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "bd3ba0f6109cc9da",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "Surge in heating costs expected to worsen price crunch",
+      "summary": "Heating costs are set to rise at twice the pace of inflation, a report showed.",
+      "original_title": "Surge in heating costs expected to worsen price crunch",
+      "url": "https://abcnews.com/Business/surge-heating-costs-expected-worsen-price-crunch/story?id=136561978",
+      "source": "Abcnews.com",
+      "domain": "abcnews.com",
+      "published_at": "2026-09-19T10:06:25Z",
+      "importance": 60,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "63798c2f98a74a34",
@@ -986,44 +1062,6 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "8ca3c3d74d14d198",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "RTX 5090s are going for as much as $9000, as AI server builders reportedly buy Nvidia's flagship by the pallet, but the photos behind the story may be AI-generated",
-      "summary": "AI firms are reportedly buying RTX 5090s by the pallet, which Nvidia's own driver license has prohibited since 2017.",
-      "original_title": "RTX 5090s are going for as much as $9000, as AI server builders reportedly buy Nvidia's flagship by the pallet, but the photos behind the story may be AI-generated",
-      "url": "https://www.techradar.com/pro/rtx-5090s-are-going-for-as-much-as-usd9000-as-ai-server-builders-reportedly-buy-nvidias-flagship-by-the-pallet-but-the-photos-behind-the-story-may-be-ai-generated",
-      "source": "TechRadar",
-      "domain": "techradar.com",
-      "published_at": "2026-09-17T23:05:00Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "698143c167deb00c",
@@ -1549,17 +1587,17 @@
       "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "9116987e538ca198",
+      "id": "1f3d2989d519a3e7",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "總體風險",
-      "title": "'Culture shift' needed in how UK does business, PM urges",
-      "summary": "Burnham has said those who take risks should be backed by government, but his government has been criticised for increasing business costs.",
-      "original_title": "'Culture shift' needed in how UK does business, PM urges",
-      "url": "https://www.bbc.co.uk/news/articles/clyl18x4734o",
-      "source": "BBC News",
-      "domain": "bbc.co.uk",
-      "published_at": "2026-09-13T21:30:21Z",
+      "title": "Iran live updates: Oil prices rise after strikes in Saudi Arabia, Strait of Hormuz",
+      "summary": "The strategic Strait of Hormuz remains the conflict's primary flashpoint.",
+      "original_title": "Iran live updates: Oil prices rise after strikes in Saudi Arabia, Strait of Hormuz",
+      "url": "https://abcnews.com/International/live-updates/iran-live-updates-oil-prices-rise-after-strikes/?id=136415261",
+      "source": "Abcnews.com",
+      "domain": "abcnews.com",
+      "published_at": "2026-09-14T07:16:19Z",
       "importance": 55,
       "impact": "negative",
       "timeframe": "short_term",
@@ -1585,6 +1623,44 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "8ca3c3d74d14d198",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "RTX 5090s are going for as much as $9000, as AI server builders reportedly buy Nvidia's flagship by the pallet, but the photos behind the story may be AI-generated",
+      "summary": "AI firms are reportedly buying RTX 5090s by the pallet, which Nvidia's own driver license has prohibited since 2017.",
+      "original_title": "RTX 5090s are going for as much as $9000, as AI server builders reportedly buy Nvidia's flagship by the pallet, but the photos behind the story may be AI-generated",
+      "url": "https://www.techradar.com/pro/rtx-5090s-are-going-for-as-much-as-usd9000-as-ai-server-builders-reportedly-buy-nvidias-flagship-by-the-pallet-but-the-photos-behind-the-story-may-be-ai-generated",
+      "source": "TechRadar",
+      "domain": "techradar.com",
+      "published_at": "2026-09-17T23:05:00Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "fd606eb9144c2b1a",
@@ -2247,44 +2323,6 @@
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "9d4f5d42b46ba61c",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "The Oppo Find X10 Pro Max is one of the first Dimensity 9600 Pro phones and will be available globally",
-      "summary": "Oppo has confirmed that the Oppo Find X10 Pro Max will be available globally and that it will be one of the first flagships to use the fresh-out-of-the-oven Dimensity 9600 Pro. The phone itself hasn’t been fully unveiled yet – it will launch in China on Septe…",
-      "original_title": "The Oppo Find X10 Pro Max is one of the first Dimensity 9600 Pro phones and will be available globally",
-      "url": "https://www.gsmarena.com/the_oppo_find_x10_pro_max_is_one_of_the_first_dimensity_9600_pro_phones_will_be_available_globally-news-74621.php",
-      "source": "GSMArena.com",
-      "domain": "gsmarena.com",
-      "published_at": "2026-09-15T14:01:02Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "9188ae5e37132339",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2771,44 +2809,6 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "734777ca5824d165",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "Oil prices jump more than $3 after new strikes on Saudi, Strait of Hormuz",
-      "summary": "By Colleen Howe BEIJING, Sept 14 (Reuters) - Oil prices jumped more than 2% on Monday, after new Houthi strikes on Saudi Arabia and Iranian attacks on ships...",
-      "original_title": "Oil prices jump more than $3 after new strikes on Saudi, Strait of Hormuz",
-      "url": "https://finance.yahoo.com/energy/articles/oil-prices-jump-more-3-224715375.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-09-13T22:47:15Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     }
   ]
 }
