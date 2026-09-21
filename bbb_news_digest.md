@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-21T05:41:01.668234+00:00
+> 更新時間：2026-09-21T15:41:29.504538+00:00
 
 ### ⚖️ TSMC 3nm, 2nm, and CoWoS stay tight as AWS, MediaTek, TPU shift capacity
 - **題材**: `半導體先進製程` | **重要性**: `78`
@@ -28,15 +28,6 @@
 
 ---
 
-### 🚀 There Is No Off Switch for AI Capability Growth. Here Is Who Benefits Most From That.
-- **題材**: `AI伺服器` | **重要性**: `75`
-- **來源**: 24/7 Wall St. (2026-09-14T12:00:52Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: NVIDIA and Palantir both raised guidance and both accelerated, but they are capturing AI dollars at completely different layers of the stack. Which position...
-- [原文連結](https://247wallst.com/investing/2026/09/14/there-is-no-off-switch-for-ai-capability-growth-here-is-who-benefits-most-from-that/)
-
----
-
 ### ⚠️ CPO ramp pushes silicon photonics testing upstream to catch defects early
 - **題材**: `光通訊與矽光子` | **重要性**: `73`
 - **來源**: Digitimes (2026-09-16T06:30:00Z)
@@ -52,6 +43,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: At the China International Optoelectronics Expo (CIOE), a palm-sized metal transceiver represents the shift from copper to light in data center infrastructure, one of the biggest transformations in the industry amid the AI boom.
 - [原文連結](https://www.digitimes.com/news/a20260915VL227/silicon-photonics-globalfoundries-data-expo.html)
+
+---
+
+### 🚀 There Is No Off Switch for AI Capability Growth. Here Is Who Benefits Most From That.
+- **題材**: `AI伺服器` | **重要性**: `70`
+- **來源**: 24/7 Wall St. (2026-09-14T12:00:52Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: NVIDIA and Palantir both raised guidance and both accelerated, but they are capturing AI dollars at completely different layers of the stack. Which position...
+- [原文連結](https://247wallst.com/investing/2026/09/14/there-is-no-off-switch-for-ai-capability-growth-here-is-who-benefits-most-from-that/)
 
 ---
 
