@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-21T18:20:55.554976+00:00
+> 更新時間：2026-09-21T22:21:02.354665+00:00
 
 ### ⚖️ TSMC 3nm, 2nm, and CoWoS stay tight as AWS, MediaTek, TPU shift capacity
 - **題材**: `半導體先進製程` | **重要性**: `78`
@@ -82,15 +82,6 @@
 
 ---
 
-### 🚀 GlobalFoundries and Marvell are scaling up silicon photonics efforts as data centers outgrow copper wiring
-- **題材**: `光通訊與矽光子` | **重要性**: `65`
-- **來源**: TechSpot (2026-09-18T20:25:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: GlobalFoundries and Marvell Technology have announced an expanded partnership in manufacturing novel connectivity solutions. The multi-year agreement centers on GlobalFoundries' silicon germanium (SiGe) technology, with the company increasing production capac…
-- [原文連結](https://www.techspot.com/news/113903-globalfoundries-marvell-scaling-up-silicon-photonics-efforts-data.html)
-
----
-
 ### ⚖️ Sivers Semiconductors positions laser arrays as solution to copper's limits
 - **題材**: `光通訊與矽光子` | **重要性**: `63`
 - **來源**: Digitimes (2026-09-15T04:45:00Z)
@@ -127,12 +118,12 @@
 
 ---
 
-### 🚀 The U.S. Government Is Preparing to Offload Over 9 Million GlobalFoundries Shares. How You Should Play GFS Stock in Response.
+### 🚀 GlobalFoundries and Marvell are scaling up silicon photonics efforts as data centers outgrow copper wiring
 - **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: Barchart.com (2026-09-18T18:36:12Z)
+- **來源**: TechSpot (2026-09-18T20:25:00Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: The federal government has filed to sell shares of GFS stock tied to a chip-funding deal, even as new federal awards keep flowing in.
-- [原文連結](https://www.barchart.com/story/news/4685122/the-u-s-government-is-preparing-to-offload-over-9-million-globalfoundries-shares-how-you-should-play-gfs-stock-in-response)
+- **摘要**: GlobalFoundries and Marvell Technology have announced an expanded partnership in manufacturing novel connectivity solutions. The multi-year agreement centers on GlobalFoundries' silicon germanium (SiGe) technology, with the company increasing production capac…
+- [原文連結](https://www.techspot.com/news/113903-globalfoundries-marvell-scaling-up-silicon-photonics-efforts-data.html)
 
 ---
 
