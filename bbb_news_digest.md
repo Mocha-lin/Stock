@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-21T15:41:29.504538+00:00
+> 更新時間：2026-09-21T18:20:55.554976+00:00
 
 ### ⚖️ TSMC 3nm, 2nm, and CoWoS stay tight as AWS, MediaTek, TPU shift capacity
 - **題材**: `半導體先進製程` | **重要性**: `78`
@@ -109,15 +109,6 @@
 
 ---
 
-### ⚖️ Gaming takes a backseat as Nvidia overhauls the RTX 5090 for maximum AI margins — RTX Pro 5500 delivers 2.6X VRAM at matching specs
-- **題材**: `AI伺服器` | **重要性**: `62`
-- **來源**: Tom's Hardware UK (2026-09-14T17:39:09Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Nvidia launches the RTX Pro 5500 Blackwell Workstation Edition graphics card for agentic and generative AI.
-- [原文連結](https://www.tomshardware.com/pc-components/gpus/gaming-takes-a-backseat-as-nvidia-overhauls-the-rtx-5090-for-maximum-ai-margins-rtx-pro-5500-delivers-2-6x-vram-at-matching-specs)
-
----
-
 ### ⚠️ Citi Forecasts Widening Memory Chip Shortages Through 2031 as AI Demand Expands
 - **題材**: `HBM記憶體` | **重要性**: `60`
 - **來源**: Advfn.com (2026-09-19T14:54:45Z)
@@ -142,15 +133,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: The federal government has filed to sell shares of GFS stock tied to a chip-funding deal, even as new federal awards keep flowing in.
 - [原文連結](https://www.barchart.com/story/news/4685122/the-u-s-government-is-preparing-to-offload-over-9-million-globalfoundries-shares-how-you-should-play-gfs-stock-in-response)
-
----
-
-### ⚖️ (PR) AI Chip Packaging Pushes Beyond Reticle Limits, with CoWoS-L Set to Remain the Mainstream Advanced Packaging Solution Through 2028
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: Techpowerup.com (2026-09-18T16:29:35Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: TrendForce's latest research into advanced semiconductor packaging reveals that GPU suppliers and hyperscale CSPs are continuing to develop increasingly powerful and versatile AI chips, making larger package sizes a key development priority for 2.5D packaging…
-- [原文連結](https://www.techpowerup.com/352835/ai-chip-packaging-pushes-beyond-reticle-limits-with-cowos-l-set-to-remain-the-mainstream-advanced-packaging-solution-through-2028)
 
 ---
 
