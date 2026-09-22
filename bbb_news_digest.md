@@ -1,14 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-22T01:27:29.511227+00:00
-
-### ⚖️ TSMC 3nm, 2nm, and CoWoS stay tight as AWS, MediaTek, TPU shift capacity
-- **題材**: `半導體先進製程` | **重要性**: `78`
-- **來源**: Digitimes (2026-09-15T03:30:07Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: TSMC's 3nm, 2nm, and CoWoS advanced packaging capacity remained in short supply in late 2026's third quarter, as changes in major customer orders and front-end and back-end supply models prompted the foundry to adjust its advanced capacity allocation. Supply …
-- [原文連結](https://www.digitimes.com/news/a20260915PD214/tsmc-3nm-2nm-capacity-cowos.html)
-
----
+> 更新時間：2026-09-22T05:38:23.801837+00:00
 
 ### ⚠️ CPO ramp pushes silicon photonics testing upstream to catch defects early
 - **題材**: `光通訊與矽光子` | **重要性**: `73`
@@ -28,12 +19,30 @@
 
 ---
 
+### ⚖️ TSMC 3nm, 2nm, and CoWoS stay tight as AWS, MediaTek, TPU shift capacity
+- **題材**: `半導體先進製程` | **重要性**: `73`
+- **來源**: Digitimes (2026-09-15T03:30:07Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: TSMC's 3nm, 2nm, and CoWoS advanced packaging capacity remained in short supply in late 2026's third quarter, as changes in major customer orders and front-end and back-end supply models prompted the foundry to adjust its advanced capacity allocation. Supply …
+- [原文連結](https://www.digitimes.com/news/a20260915PD214/tsmc-3nm-2nm-capacity-cowos.html)
+
+---
+
 ### ⚖️ Ardentec, Sigurd race into silicon photonics TIA testing as US client books capacity
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
 - **來源**: Digitimes (2026-09-17T06:15:00Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: The global optical communications module market continues to grow, and Taiwan's test and packaging companies are moving to capture demand in silicon photonics (SiPh) transimpedance amplifier (TIA) testing as AI data-center networks shift toward faster optical…
 - [原文連結](https://www.digitimes.com/news/a20260917PD223/sigurd-ardentec-siph-testing-capacity.html)
+
+---
+
+### ⚠️ NVIDIA Just Named AI's Next Bottleneck—And These 3 Stocks Sit Right In It
+- **題材**: `光通訊與矽光子` | **重要性**: `65`
+- **來源**: MarketBeat (2026-09-20T15:45:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Memory and silicon photonics shortages run through 2030, and Micron, Coherent and Tower Semiconductor sit on the supply side of an AI buildout under strain.
+- [原文連結](https://www.marketbeat.com/articles/nvidia-just-named-ais-next-bottleneckand-these-3-stocks-sit-right-in-it/?utm_source=yahoofinance&amp;utm_medium=yahoofinance)
 
 ---
 
@@ -71,15 +80,6 @@ The post He Needed Business Class After Surgery — His Boss Said No, and It End
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: TSMC dominates AI silicon and just raised its growth outlook, yet one corner of GlobalFoundries' business is quietly outpacing it on a percentage basis while...
 - [原文連結](https://247wallst.com/investing/2026/09/17/theres-a-good-reason-to-choose-globalfoundries-over-taiwan-semiconductor-manufacturing/)
-
----
-
-### ⚖️ Sivers Semiconductors positions laser arrays as solution to copper's limits
-- **題材**: `光通訊與矽光子` | **重要性**: `63`
-- **來源**: Digitimes (2026-09-15T04:45:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: At this year's China International Optoelectronic Expo (CIOE), Sivers Semiconductor brought two products to its booth that trace the trajectory of the optical networking industry: a 1.6T pluggable optical transceiver currently ramping toward mainstream adopti…
-- [原文連結](https://www.digitimes.com/news/a20260914VL219/laser-copper-expo-market-demand.html)
 
 ---
 
