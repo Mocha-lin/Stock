@@ -1,5 +1,32 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-22T05:38:23.801837+00:00
+> 更新時間：2026-09-22T13:55:14.496151+00:00
+
+### ⚖️ Tower Semiconductor to make Japan its largest optical chip base
+- **題材**: `光通訊與矽光子` | **重要性**: `78`
+- **來源**: Digitimes (2026-09-21T07:24:06Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Tower Semiconductor plans to make Japan its largest manufacturing base for optical communications semiconductors after expanding silicon photonics (SiPh), silicon germanium (SiGe), and advanced packaging capacity in the Hokuriku region, as demand from AI data…
+- [原文連結](https://www.digitimes.com/news/a20260921VL217/tower-semiconductor-production-communications-silicon-manufacturing.html)
+
+---
+
+### 🚀 Nvidia's next-gen RTX 60 GPUs might not be released until 2028, prominent leaker claims — gaming takes a back seat as company focuses on delivering data center products
+- **題材**: `AI伺服器` | **重要性**: `77`
+- **來源**: Tom's Hardware UK (2026-09-21T09:52:19Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Leaker Kopite7kimi claims that Nvidia's next-gen RTX 60 series may not be released until 2028, meaning that consumers will have to wait three years between GPU generations
+- [原文連結](https://www.tomshardware.com/pc-components/gpus/nvidias-next-gen-rtx-60-gpus-might-not-be-released-until-2028-prominent-leaker-claims-gaming-takes-a-back-seat-as-company-focuses-on-delivering-data-center-products)
+
+---
+
+### ⚖️ TSMC builds Kaohsiung hub to speed advanced packaging tests
+- **題材**: `半導體先進製程` | **重要性**: `73`
+- **來源**: Digitimes (2026-09-21T06:24:56Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: TSMC is building an advanced packaging validation hub in southern Taiwan as rapid chip-on-wafer-on-substrate (CoWoS) expansion puts pressure on equipment and materials suppliers to qualify new technologies faster.
+- [原文連結](https://www.digitimes.com/news/a20260921VL215/tsmc-packaging-equipment-kaohsiung-taiwan.html)
+
+---
 
 ### ⚠️ CPO ramp pushes silicon photonics testing upstream to catch defects early
 - **題材**: `光通訊與矽光子` | **重要性**: `73`
@@ -55,31 +82,12 @@
 
 ---
 
-### 🚀 Keysight Technologies Sees AI Data-Center Boom, Targets 6G and Defense Growth
-- **題材**: `光通訊與矽光子` | **重要性**: `65`
-- **來源**: MarketBeat (2026-09-19T14:02:06Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Keysight Technologies (NYSE:KEYS) executives said the company is seeing strong demand tied to artificial intelligence data-center buildouts, while preparing...
-- [原文連結](https://www.marketbeat.com/instant-alerts/event-keysight-technologies-sees-ai-data-center-boom-targets-6g-and-defense-growth-2026-09-19/?utm_source=yahoofinance&amp;utm_medium=yahoofinance)
-
----
-
-### 🚀 He Needed Business Class After Surgery — His Boss Said No, and It Ended Up Costing the Company Tens of Thousands More
-- **題材**: `光通訊與矽光子` | **重要性**: `65`
-- **來源**: Twistedsifter.com (2026-09-19T11:55:27Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Upgrade unlocked. Genius.
-The post He Needed Business Class After Surgery — His Boss Said No, and It Ended Up Costing the Company Tens of Thousands More appeared first on TwistedSifter.
-- [原文連結](https://twistedsifter.com/2026/09/he-needed-business-class-after-surgery-his-boss-said-no-and-it-ended-up-costing-the-company-tens-of-thousands-more/)
-
----
-
-### 🚀 There’s a Good Reason to Choose GLOBALFOUNDRIES Over Taiwan Semiconductor Manufacturing
-- **題材**: `光通訊與矽光子` | **重要性**: `65`
-- **來源**: 24/7 Wall St. (2026-09-17T16:02:30Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: TSMC dominates AI silicon and just raised its growth outlook, yet one corner of GlobalFoundries' business is quietly outpacing it on a percentage basis while...
-- [原文連結](https://247wallst.com/investing/2026/09/17/theres-a-good-reason-to-choose-globalfoundries-over-taiwan-semiconductor-manufacturing/)
+### 🚀 M6 Mac Mini First Look: Bigger Power Packed in the Same Small Package
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: CNET (2026-09-21T13:00:04Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: People will be clawing to get Apple’s latest and tiniest Mac.
+- [原文連結](https://www.cnet.com/tech/computing/m6-mac-mini-first-look-bigger-power-packed-in-same-small-package/)
 
 ---
 
@@ -101,12 +109,13 @@ The post He Needed Business Class After Surgery — His Boss Said No, and It End
 
 ---
 
-### 🚀 Surge in heating costs expected to worsen price crunch
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Abcnews.com (2026-09-19T10:06:25Z)
-- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Heating costs are set to rise at twice the pace of inflation, a report showed.
-- [原文連結](https://abcnews.com/Business/surge-heating-costs-expected-worsen-price-crunch/story?id=136561978)
+### 🚀 He Needed Business Class After Surgery — His Boss Said No, and It Ended Up Costing the Company Tens of Thousands More
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: Twistedsifter.com (2026-09-19T11:55:27Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Upgrade unlocked. Genius.
+The post He Needed Business Class After Surgery — His Boss Said No, and It Ended Up Costing the Company Tens of Thousands More appeared first on TwistedSifter.
+- [原文連結](https://twistedsifter.com/2026/09/he-needed-business-class-after-surgery-his-boss-said-no-and-it-ended-up-costing-the-company-tens-of-thousands-more/)
 
 ---
 
@@ -134,15 +143,6 @@ The post He Needed Business Class After Surgery — His Boss Said No, and It End
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Inside Nvidia's newest rack-scale AI supercomputer, a single line item on the bill of materials is swallowing the lion's share of a $4 million build, and it...
 - [原文連結](https://247wallst.com/investing/2026/09/15/its-all-about-the-gpus-70-of-nvidias-ai-supercomputer-cost-goes-to-vera-rubin-chips/)
-
----
-
-### ⚖️ izmo Microsystems Unveils Silicon Photonics Modules at SEMICON India 2026
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: BusinessLine (2026-09-15T06:00:20Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: izmo Microsystems Unveils Silicon Photonics Modules at SEMICON India 2026
-- [原文連結](https://www.thehindubusinessline.com/brandhub/pr-release/izmo-microsystems-unveils-silicon-photonics-modules-at-semicon-india-2026/article71466905.ece)
 
 ---
 
