@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-22T17:23:37.962151+00:00
+> 更新時間：2026-09-22T21:42:19.131012+00:00
 
 ### ⚖️ Tower Semiconductor to make Japan its largest optical chip base
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -82,12 +82,21 @@
 
 ---
 
-### ⚖️ Samsung could follow Micron by outsourcing DDR5 and SSD production to third parties to focus on more lucrative HBM and enterprise products — could SanDisk follow suit?
-- **題材**: `半導體先進製程` | **重要性**: `65`
-- **來源**: TechRadar (2026-09-19T19:10:00Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Samsung is outsourcing additional DDR5 and SSD production while reserving internal capacity for HBM, advanced packaging, and higher-value memory products.
-- [原文連結](https://www.techradar.com/pro/samsung-could-follow-micron-by-outsourcing-ddr5-and-ssd-production-to-third-parties-to-focus-on-more-lucrative-hbm-and-enterprise-products-could-sandisk-follow-suit)
+### ⚖️ 1.58-million-staff Amazon will soon have more Nvidia GPUs than employees — AWS to buy more than 3 million additional chips before 2029 in addition to thousands of existing H100, H200
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: TechRadar (2026-09-21T20:15:00Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Amazon has fewer employees than the more than 3 million Nvidia GPUs on order for delivery before 2029, even as its Trainium3 chips are already nearly fully subscribed.
+- [原文連結](https://www.techradar.com/pro/1-58-million-staff-amazon-will-soon-have-more-nvidia-gpus-than-employees-aws-to-buy-more-than-3-million-additional-chips-before-2029-in-addition-to-thousands-of-existing-h100-h200)
+
+---
+
+### 🚀 I Help Clients Turn Idle Cash Into Cash-Flowing Assets. Here’s Why ‘Idle’ Is the Most Expensive Word in Investing.
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Entrepreneur (2026-09-21T20:00:00Z)
+- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Let's break down what inflation and low interest rates are doing to idle money right now and why "safe" and "stagnant" are not the same thing.
+- [原文連結](https://www.entrepreneur.com/building-a-business/i-help-clients-turn-idle-cash-into-cash-flowing-assets-heres-why-idle-is-the-most-expensive-word-in-investing)
 
 ---
 
@@ -100,12 +109,12 @@
 
 ---
 
-### 🚀 Colwill's 'surreal' Ronaldo and Haaland ambition
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: BBC News (2026-09-20T05:07:45Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: In just 12 months, the Cardiff City midfielder has gone from League One football to the prospect of facing Cristiano Ronaldo and Erling Haaland.
-- [原文連結](https://www.bbc.co.uk/sport/football/articles/cm4gj50qqlqwo)
+### ⚖️ Samsung could follow Micron by outsourcing DDR5 and SSD production to third parties to focus on more lucrative HBM and enterprise products — could SanDisk follow suit?
+- **題材**: `半導體先進製程` | **重要性**: `60`
+- **來源**: TechRadar (2026-09-19T19:10:00Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Samsung is outsourcing additional DDR5 and SSD production while reserving internal capacity for HBM, advanced packaging, and higher-value memory products.
+- [原文連結](https://www.techradar.com/pro/samsung-could-follow-micron-by-outsourcing-ddr5-and-ssd-production-to-third-parties-to-focus-on-more-lucrative-hbm-and-enterprise-products-could-sandisk-follow-suit)
 
 ---
 
@@ -125,15 +134,6 @@ The post He Needed Business Class After Surgery — His Boss Said No, and It End
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: GlobalFoundries and Marvell Technology have announced an expanded partnership in manufacturing novel connectivity solutions. The multi-year agreement centers on GlobalFoundries' silicon germanium (SiGe) technology, with the company increasing production capac…
 - [原文連結](https://www.techspot.com/news/113903-globalfoundries-marvell-scaling-up-silicon-photonics-efforts-data.html)
-
----
-
-### 🚀 Interest Rates Just Went Up. Here’s Why Consumer Tech Might Cost Even More
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: CNET (2026-09-16T23:03:14Z)
-- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: The Federal Reserve hiked interest rates. Now, if you want to finance a tech upgrade, you’ll pay more in interest.
-- [原文連結](https://www.cnet.com/tech/services-and-software/interest-rates-went-up-consumer-tech-might-cost-more/)
 
 ---
 
