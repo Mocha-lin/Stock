@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-22T13:55:14.496151+00:00
+> 更新時間：2026-09-22T17:23:37.962151+00:00
 
 ### ⚖️ Tower Semiconductor to make Japan its largest optical chip base
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -64,6 +64,15 @@
 
 ---
 
+### ⚖️ E-waste from AI boom and building data centers could stretch six times around the Earth by 2050, report warns
+- **題材**: `AI伺服器` | **重要性**: `65`
+- **來源**: TechRadar (2026-09-21T17:00:00Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: New report reveals just how much AI data center e-waste is likely unaccounted for, and how much each campus likely uses.
+- [原文連結](https://www.techradar.com/pro/e-waste-from-ai-boom-and-building-data-centers-could-stretch-six-times-around-the-earth-by-2050-report-warns)
+
+---
+
 ### ⚠️ NVIDIA Just Named AI's Next Bottleneck—And These 3 Stocks Sit Right In It
 - **題材**: `光通訊與矽光子` | **重要性**: `65`
 - **來源**: MarketBeat (2026-09-20T15:45:00Z)
@@ -100,15 +109,6 @@
 
 ---
 
-### ⚠️ Citi Forecasts Widening Memory Chip Shortages Through 2031 as AI Demand Expands
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: Advfn.com (2026-09-19T14:54:45Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Citi expects shortages across the global memory semiconductor market to deepen through 2031, driven by increasing demand for high-bandwidth memory (HBM), DRA...
-- [原文連結](https://investorshub.advfn.com/market-news/article/36526/citi-forecasts-widening-memory-chip-shortages-through-2031-as-ai-demand-expands)
-
----
-
 ### 🚀 He Needed Business Class After Surgery — His Boss Said No, and It Ended Up Costing the Company Tens of Thousands More
 - **題材**: `光通訊與矽光子` | **重要性**: `60`
 - **來源**: Twistedsifter.com (2026-09-19T11:55:27Z)
@@ -134,15 +134,6 @@ The post He Needed Business Class After Surgery — His Boss Said No, and It End
 - **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: The Federal Reserve hiked interest rates. Now, if you want to finance a tech upgrade, you’ll pay more in interest.
 - [原文連結](https://www.cnet.com/tech/services-and-software/interest-rates-went-up-consumer-tech-might-cost-more/)
-
----
-
-### 🚀 It’s All About the GPUs — 70% of Nvidia’s AI Supercomputer Cost Goes to Vera Rubin Chips
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: 24/7 Wall St. (2026-09-15T16:09:32Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Inside Nvidia's newest rack-scale AI supercomputer, a single line item on the bill of materials is swallowing the lion's share of a $4 million build, and it...
-- [原文連結](https://247wallst.com/investing/2026/09/15/its-all-about-the-gpus-70-of-nvidias-ai-supercomputer-cost-goes-to-vera-rubin-chips/)
 
 ---
 
