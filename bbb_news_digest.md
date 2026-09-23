@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-23T01:16:22.764546+00:00
+> 更新時間：2026-09-23T05:23:14.010097+00:00
 
 ### 🚀 Kaohsiung's new industrial park targets advanced packaging suppliers for the post-Moore era
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -34,6 +34,15 @@
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Leaker Kopite7kimi claims that Nvidia's next-gen RTX 60 series may not be released until 2028, meaning that consumers will have to wait three years between GPU generations
 - [原文連結](https://www.tomshardware.com/pc-components/gpus/nvidias-next-gen-rtx-60-gpus-might-not-be-released-until-2028-prominent-leaker-claims-gaming-takes-a-back-seat-as-company-focuses-on-delivering-data-center-products)
+
+---
+
+### ⚖️ TSMC anchors Kaohsiung's Baipu Park as ASE expansion spurs phase-two development
+- **題材**: `半導體先進製程` | **重要性**: `73`
+- **來源**: Digitimes (2026-09-22T03:58:07Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Rising demand for advanced packaging tied to AI and high-performance computing (HPC) is driving development at Baipu Industrial Park in Kaohsiung, where construction has formally begun on what is billed as Taiwan's first advanced packaging supply-chain cluste…
+- [原文連結](https://www.digitimes.com/news/a20260922PD212/packaging-tsmc-ase-kaohsiung-demand.html)
 
 ---
 
@@ -143,15 +152,6 @@
 - **摘要**: Marvell's 2nm optical interconnects could revolutionize AI data centers by significantly enhancing bandwidth efficiency and reducing energy use.
 The post Marvell demos 2nm optical interconnects for 3.2T AI data center links at ECOC 2026 appeared first on Cryp…
 - [原文連結](https://cryptobriefing.com/marvell-2nm-optics-3-2t-ecoc/)
-
----
-
-### 🚀 Colwill's 'surreal' Ronaldo and Haaland ambition
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: BBC News (2026-09-20T05:07:45Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: In just 12 months, the Cardiff City midfielder has gone from League One football to the prospect of facing Cristiano Ronaldo and Erling Haaland.
-- [原文連結](https://www.bbc.co.uk/sport/football/articles/cm4gj50qqlqwo)
 
 ---
 
