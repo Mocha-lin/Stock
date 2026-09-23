@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-23T10:10:17.900880+00:00
+> 更新時間：2026-09-23T14:05:44.866937+00:00
 
 ### 🚀 Kaohsiung's new industrial park targets advanced packaging suppliers for the post-Moore era
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -16,15 +16,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Tower Semiconductor plans to make Japan its largest manufacturing base for optical communications semiconductors after expanding silicon photonics (SiPh), silicon germanium (SiGe), and advanced packaging capacity in the Hokuriku region, as demand from AI data…
 - [原文連結](https://www.digitimes.com/news/a20260921VL217/tower-semiconductor-production-communications-silicon-manufacturing.html)
-
----
-
-### ⚖️ Google reportedly weighs CoWoS backup for 2027 TPU as EMIB-T substrate yields lag
-- **題材**: `半導體先進製程` | **重要性**: `78`
-- **來源**: Digitimes (2026-09-17T01:58:46Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Google's Humufish TPU project, scheduled to enter mass production by the end of 2027, is set to adopt Intel's EMIB-T advanced packaging technology with support from ASIC partner MediaTek. MediaTek has also stated during an earnings call that EMIB-T yields hav…
-- [原文連結](https://www.digitimes.com/news/a20260917PD208/google-tpu-cowos-substrate-2027.html)
 
 ---
 
@@ -55,12 +46,12 @@
 
 ---
 
-### 🚀 Tower Semiconductor (TSEM): $1.3 Billion in Silicon Photonics Contracts Puts AI Growth in Focus
+### 🚀 EWOR names a San Francisco team as US applications surge 237%
 - **題材**: `光通訊與矽光子` | **重要性**: `70`
-- **來源**: Yahoo Entertainment (2026-09-22T06:40:15Z)
+- **來源**: The Next Web (2026-09-22T12:40:35Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Tower Semiconductor Ltd. (NASDAQ:TSEM) is positioned to benefit from the rapid growth of optical connectivity as artificial intelligence (AI) infrastructure...
-- [原文連結](https://finance.yahoo.com/technology/ai/articles/tower-semiconductor-tsem-1-3-064015139.html)
+- **摘要**: EWOR, a founder fellowship harder to get into than Y Combinator, has named a senior leadership team in San Francisco. The appointments follow a record year of US applications, up 237% in twelve months. The team comprises Charles Ferguson, the Oscar-winning fi…
+- [原文連結](https://thenextweb.com/news/ewor-san-francisco-leadership-team-us-applications-237)
 
 ---
 
@@ -136,6 +127,21 @@
 
 ---
 
+### ⚖️ New Mac Mini and Mac Studio Now Available for Same-Day Pickup at Apple Stores
+- **題材**: `半導體先進製程` | **重要性**: `60`
+- **來源**: MacRumors (2026-09-22T12:00:42Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Apple launches its new Mac mini and Mac Studio models today in 30 countries and regions, including the U.S, and same-day pickup is now available at many Apple Store locations.
+
+
+
+
+
+To order a product with ‌Apple Store‌ pickup, add the product to your bag on A…
+- [原文連結](https://www.macrumors.com/2026/09/22/new-mac-mini-mac-studio-same-day-pickup/)
+
+---
+
 ### 🚀 Government borrowing rises by a fifth to £18bn in August
 - **題材**: `總體風險` | **重要性**: `60`
 - **來源**: BBC News (2026-09-22T06:46:35Z)
@@ -163,21 +169,22 @@
 
 ---
 
-### 🚀 M6 Mac Mini First Look: Bigger Power Packed in the Same Small Package
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: CNET (2026-09-21T13:00:04Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: People will be clawing to get Apple’s latest and tiniest Mac.
-- [原文連結](https://www.cnet.com/tech/computing/m6-mac-mini-first-look-bigger-power-packed-in-same-small-package/)
-
----
-
 ### ⚖️ Samsung could follow Micron by outsourcing DDR5 and SSD production to third parties to focus on more lucrative HBM and enterprise products — could SanDisk follow suit?
 - **題材**: `半導體先進製程` | **重要性**: `60`
 - **來源**: TechRadar (2026-09-19T19:10:00Z)
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Samsung is outsourcing additional DDR5 and SSD production while reserving internal capacity for HBM, advanced packaging, and higher-value memory products.
 - [原文連結](https://www.techradar.com/pro/samsung-could-follow-micron-by-outsourcing-ddr5-and-ssd-production-to-third-parties-to-focus-on-more-lucrative-hbm-and-enterprise-products-could-sandisk-follow-suit)
+
+---
+
+### 🚀 He Needed Business Class After Surgery — His Boss Said No, and It Ended Up Costing the Company Tens of Thousands More
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: Twistedsifter.com (2026-09-19T11:55:27Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Upgrade unlocked. Genius.
+The post He Needed Business Class After Surgery — His Boss Said No, and It Ended Up Costing the Company Tens of Thousands More appeared first on TwistedSifter.
+- [原文連結](https://twistedsifter.com/2026/09/he-needed-business-class-after-surgery-his-boss-said-no-and-it-ended-up-costing-the-company-tens-of-thousands-more/)
 
 ---
 
