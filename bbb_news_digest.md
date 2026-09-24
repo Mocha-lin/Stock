@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-24T01:08:16.904376+00:00
+> 更新時間：2026-09-24T05:39:24.161370+00:00
 
 ### 🚀 Win Semiconductors expands optical communications capacity with DUV tools
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
