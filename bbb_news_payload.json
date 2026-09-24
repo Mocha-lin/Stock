@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-09-24T17:36:43.365491+00:00",
+  "generated_at": "2026-09-24T21:52:02.531731+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 73,
@@ -158,44 +158,6 @@
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
-      "id": "f1c1583356f0efe1",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Rothschild Redburn Downgrades Nebius, CoreWeave to Sell on Lower GPU Prices",
-      "summary": "Rothschild Redburn just slapped Sell ratings on two of the hottest AI infrastructure plays in the market, and their reasoning cuts straight at the assumption...",
-      "original_title": "Rothschild Redburn Downgrades Nebius, CoreWeave to Sell on Lower GPU Prices",
-      "url": "https://247wallst.com/investing/2026/09/21/rothschild-redburn-downgrades-nebius-coreweave-to-sell-on-lower-gpu-prices/",
-      "source": "24/7 Wall St.",
-      "domain": "247wallst.com",
-      "published_at": "2026-09-21T18:56:19Z",
-      "importance": 70,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
       "id": "ffa34dcbcaa54026",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -232,6 +194,44 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "f1c1583356f0efe1",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Rothschild Redburn Downgrades Nebius, CoreWeave to Sell on Lower GPU Prices",
+      "summary": "Rothschild Redburn just slapped Sell ratings on two of the hottest AI infrastructure plays in the market, and their reasoning cuts straight at the assumption...",
+      "original_title": "Rothschild Redburn Downgrades Nebius, CoreWeave to Sell on Lower GPU Prices",
+      "url": "https://247wallst.com/investing/2026/09/21/rothschild-redburn-downgrades-nebius-coreweave-to-sell-on-lower-gpu-prices/",
+      "source": "24/7 Wall St.",
+      "domain": "247wallst.com",
+      "published_at": "2026-09-21T18:56:19Z",
+      "importance": 65,
+      "impact": "negative",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "e0b337e33d668aaa",
@@ -505,82 +505,6 @@
       "source": "BBC News",
       "domain": "bbc.co.uk",
       "published_at": "2026-09-22T06:46:35Z",
-      "importance": 60,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "c733a3a0ebf7e7c2",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "1.58-million-staff Amazon will soon have more Nvidia GPUs than employees — AWS to buy more than 3 million additional chips before 2029 in addition to thousands of existing H100, H200",
-      "summary": "Amazon has fewer employees than the more than 3 million Nvidia GPUs on order for delivery before 2029, even as its Trainium3 chips are already nearly fully subscribed.",
-      "original_title": "1.58-million-staff Amazon will soon have more Nvidia GPUs than employees — AWS to buy more than 3 million additional chips before 2029 in addition to thousands of existing H100, H200",
-      "url": "https://www.techradar.com/pro/1-58-million-staff-amazon-will-soon-have-more-nvidia-gpus-than-employees-aws-to-buy-more-than-3-million-additional-chips-before-2029-in-addition-to-thousands-of-existing-h100-h200",
-      "source": "TechRadar",
-      "domain": "techradar.com",
-      "published_at": "2026-09-21T20:15:00Z",
-      "importance": 60,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "94c301359e8ff1c2",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "I Help Clients Turn Idle Cash Into Cash-Flowing Assets. Here’s Why ‘Idle’ Is the Most Expensive Word in Investing.",
-      "summary": "Let's break down what inflation and low interest rates are doing to idle money right now and why \"safe\" and \"stagnant\" are not the same thing.",
-      "original_title": "I Help Clients Turn Idle Cash Into Cash-Flowing Assets. Here’s Why ‘Idle’ Is the Most Expensive Word in Investing.",
-      "url": "https://www.entrepreneur.com/building-a-business/i-help-clients-turn-idle-cash-into-cash-flowing-assets-heres-why-idle-is-the-most-expensive-word-in-investing",
-      "source": "Entrepreneur",
-      "domain": "entrepreneur.com",
-      "published_at": "2026-09-21T20:00:00Z",
       "importance": 60,
       "impact": "positive",
       "timeframe": "short_term",
@@ -1435,32 +1359,32 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "b46ed06d1c6a93ed",
+      "id": "c733a3a0ebf7e7c2",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "Jim Cramer on Credo (CRDO): “I Think You Can Buy the Stock”",
-      "summary": "On September 17, during the lightning round of Mad Money, a caller asked whether to buy, hold, or sell Credo Technology Group Holding Ltd (NASDAQ:CRDO) when...",
-      "original_title": "Jim Cramer on Credo (CRDO): “I Think You Can Buy the Stock”",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-credo-crdo-think-193721036.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-09-21T19:37:21Z",
+      "theme": "AI伺服器",
+      "title": "1.58-million-staff Amazon will soon have more Nvidia GPUs than employees — AWS to buy more than 3 million additional chips before 2029 in addition to thousands of existing H100, H200",
+      "summary": "Amazon has fewer employees than the more than 3 million Nvidia GPUs on order for delivery before 2029, even as its Trainium3 chips are already nearly fully subscribed.",
+      "original_title": "1.58-million-staff Amazon will soon have more Nvidia GPUs than employees — AWS to buy more than 3 million additional chips before 2029 in addition to thousands of existing H100, H200",
+      "url": "https://www.techradar.com/pro/1-58-million-staff-amazon-will-soon-have-more-nvidia-gpus-than-employees-aws-to-buy-more-than-3-million-additional-chips-before-2029-in-addition-to-thousands-of-existing-h100-h200",
+      "source": "TechRadar",
+      "domain": "techradar.com",
+      "published_at": "2026-09-21T20:15:00Z",
       "importance": 55,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
+        "AI",
+        "伺服器",
+        "資料中心"
       ],
       "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
       ],
       "related_models": [
         "003",
@@ -1470,7 +1394,45 @@
         "009",
         "010"
       ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "94c301359e8ff1c2",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "I Help Clients Turn Idle Cash Into Cash-Flowing Assets. Here’s Why ‘Idle’ Is the Most Expensive Word in Investing.",
+      "summary": "Let's break down what inflation and low interest rates are doing to idle money right now and why \"safe\" and \"stagnant\" are not the same thing.",
+      "original_title": "I Help Clients Turn Idle Cash Into Cash-Flowing Assets. Here’s Why ‘Idle’ Is the Most Expensive Word in Investing.",
+      "url": "https://www.entrepreneur.com/building-a-business/i-help-clients-turn-idle-cash-into-cash-flowing-assets-heres-why-idle-is-the-most-expensive-word-in-investing",
+      "source": "Entrepreneur",
+      "domain": "entrepreneur.com",
+      "published_at": "2026-09-21T20:00:00Z",
+      "importance": 55,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "907ad2412b9fe3e7",
@@ -1584,41 +1546,6 @@
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "f89fbde8115024b7",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "Micron Just Guided to $50 Billion in a Single Quarter. AI Memory Has Changed Everything.",
-      "summary": "Key Stats for Micron Technology Stock52-Week Range: $154. 65 to $1,255.",
-      "original_title": "Micron Just Guided to $50 Billion in a Single Quarter. AI Memory Has Changed Everything.",
-      "url": "https://www.tikr.com/blog/micron-just-guided-to-50-billion-in-a-single-quarter-ai-memory-has-changed-everything?ref=yahoofinance",
-      "source": "Tikr.com",
-      "domain": "tikr.com",
-      "published_at": "2026-09-17T20:59:01Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "547bd7495f4e02d6",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1725,6 +1652,44 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "b46ed06d1c6a93ed",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "Jim Cramer on Credo (CRDO): “I Think You Can Buy the Stock”",
+      "summary": "On September 17, during the lightning round of Mad Money, a caller asked whether to buy, hold, or sell Credo Technology Group Holding Ltd (NASDAQ:CRDO) when...",
+      "original_title": "Jim Cramer on Credo (CRDO): “I Think You Can Buy the Stock”",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-credo-crdo-think-193721036.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-09-21T19:37:21Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "549d00020b8772b1",
@@ -2326,32 +2291,29 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "6049c4224be4e1cb",
+      "id": "f89fbde8115024b7",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "Why have China’s oil prices reached a record high?",
-      "summary": "Why have China's oil prices reached a record high?",
-      "original_title": "Why have China’s oil prices reached a record high?",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/17/why-have-chinas-oil-prices-reached-a-record-high",
-      "source": "Al Jazeera English",
-      "domain": "aljazeera.com",
-      "published_at": "2026-09-17T20:30:39Z",
+      "theme": "HBM記憶體",
+      "title": "Micron Just Guided to $50 Billion in a Single Quarter. AI Memory Has Changed Everything.",
+      "summary": "Key Stats for Micron Technology Stock52-Week Range: $154. 65 to $1,255.",
+      "original_title": "Micron Just Guided to $50 Billion in a Single Quarter. AI Memory Has Changed Everything.",
+      "url": "https://www.tikr.com/blog/micron-just-guided-to-50-billion-in-a-single-quarter-ai-memory-has-changed-everything?ref=yahoofinance",
+      "source": "Tikr.com",
+      "domain": "tikr.com",
+      "published_at": "2026-09-17T20:59:01Z",
       "importance": 50,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
+        "HBM",
+        "記憶體"
       ],
       "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
       ],
       "related_models": [
         "003",
@@ -2361,45 +2323,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "fd606eb9144c2b1a",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Pinterest launches Visual Search Ads at its advertiser summit",
-      "summary": "“Traditional search advertising has long relied on keywords, but in an AI-driven world, people are expressing themselves in much richer ways,” said Bill Ready, chief executive of Pinterest. The company announced Visual Search Ads on 17 September at Pinterest …",
-      "original_title": "Pinterest launches Visual Search Ads at its advertiser summit",
-      "url": "https://thenextweb.com/news/pinterest-visual-search-ads-performance-restyle",
-      "source": "The Next Web",
-      "domain": "thenextweb.com",
-      "published_at": "2026-09-17T18:11:26Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "f0b199a3e55c0131",
@@ -2473,6 +2397,82 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "6049c4224be4e1cb",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "Why have China’s oil prices reached a record high?",
+      "summary": "Why have China's oil prices reached a record high?",
+      "original_title": "Why have China’s oil prices reached a record high?",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/17/why-have-chinas-oil-prices-reached-a-record-high",
+      "source": "Al Jazeera English",
+      "domain": "aljazeera.com",
+      "published_at": "2026-09-17T20:30:39Z",
+      "importance": 45,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
+    },
+    {
+      "id": "fd606eb9144c2b1a",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Pinterest launches Visual Search Ads at its advertiser summit",
+      "summary": "“Traditional search advertising has long relied on keywords, but in an AI-driven world, people are expressing themselves in much richer ways,” said Bill Ready, chief executive of Pinterest. The company announced Visual Search Ads on 17 September at Pinterest …",
+      "original_title": "Pinterest launches Visual Search Ads at its advertiser summit",
+      "url": "https://thenextweb.com/news/pinterest-visual-search-ads-performance-restyle",
+      "source": "The Next Web",
+      "domain": "thenextweb.com",
+      "published_at": "2026-09-17T18:11:26Z",
+      "importance": 45,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     },
     {
       "id": "ec41b50c7163d098",

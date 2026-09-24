@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-24T17:36:43.365491+00:00
+> 更新時間：2026-09-24T21:52:02.531731+00:00
 
 ### ⚖️ Hermes-Epitek eyes CPO test revenue in 2027
 - **題材**: `光通訊與矽光子` | **重要性**: `73`
@@ -37,21 +37,21 @@
 
 ---
 
-### ⚠️ Rothschild Redburn Downgrades Nebius, CoreWeave to Sell on Lower GPU Prices
-- **題材**: `AI伺服器` | **重要性**: `70`
-- **來源**: 24/7 Wall St. (2026-09-21T18:56:19Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Rothschild Redburn just slapped Sell ratings on two of the hottest AI infrastructure plays in the market, and their reasoning cuts straight at the assumption...
-- [原文連結](https://247wallst.com/investing/2026/09/21/rothschild-redburn-downgrades-nebius-coreweave-to-sell-on-lower-gpu-prices/)
-
----
-
 ### ⚖️ TSMC builds Kaohsiung hub to speed advanced packaging tests
 - **題材**: `半導體先進製程` | **重要性**: `68`
 - **來源**: Digitimes (2026-09-21T06:24:56Z)
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: TSMC is building an advanced packaging validation hub in southern Taiwan as rapid chip-on-wafer-on-substrate (CoWoS) expansion puts pressure on equipment and materials suppliers to qualify new technologies faster.
 - [原文連結](https://www.digitimes.com/news/a20260921VL215/tsmc-packaging-equipment-kaohsiung-taiwan.html)
+
+---
+
+### ⚠️ Rothschild Redburn Downgrades Nebius, CoreWeave to Sell on Lower GPU Prices
+- **題材**: `AI伺服器` | **重要性**: `65`
+- **來源**: 24/7 Wall St. (2026-09-21T18:56:19Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Rothschild Redburn just slapped Sell ratings on two of the hottest AI infrastructure plays in the market, and their reasoning cuts straight at the assumption...
+- [原文連結](https://247wallst.com/investing/2026/09/21/rothschild-redburn-downgrades-nebius-coreweave-to-sell-on-lower-gpu-prices/)
 
 ---
 
@@ -131,24 +131,6 @@ The Oppo Find X10 has …
 
 ---
 
-### ⚖️ 1.58-million-staff Amazon will soon have more Nvidia GPUs than employees — AWS to buy more than 3 million additional chips before 2029 in addition to thousands of existing H100, H200
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: TechRadar (2026-09-21T20:15:00Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Amazon has fewer employees than the more than 3 million Nvidia GPUs on order for delivery before 2029, even as its Trainium3 chips are already nearly fully subscribed.
-- [原文連結](https://www.techradar.com/pro/1-58-million-staff-amazon-will-soon-have-more-nvidia-gpus-than-employees-aws-to-buy-more-than-3-million-additional-chips-before-2029-in-addition-to-thousands-of-existing-h100-h200)
-
----
-
-### 🚀 I Help Clients Turn Idle Cash Into Cash-Flowing Assets. Here’s Why ‘Idle’ Is the Most Expensive Word in Investing.
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Entrepreneur (2026-09-21T20:00:00Z)
-- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Let's break down what inflation and low interest rates are doing to idle money right now and why "safe" and "stagnant" are not the same thing.
-- [原文連結](https://www.entrepreneur.com/building-a-business/i-help-clients-turn-idle-cash-into-cash-flowing-assets-heres-why-idle-is-the-most-expensive-word-in-investing)
-
----
-
 ### ⚖️ E-waste from AI boom and building data centers could stretch six times around the Earth by 2050, report warns
 - **題材**: `AI伺服器` | **重要性**: `60`
 - **來源**: TechRadar (2026-09-21T17:00:00Z)
@@ -182,6 +164,25 @@ The Oppo Find X10 has …
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Samsung is outsourcing additional DDR5 and SSD production while reserving internal capacity for HBM, advanced packaging, and higher-value memory products.
 - [原文連結](https://www.techradar.com/pro/samsung-could-follow-micron-by-outsourcing-ddr5-and-ssd-production-to-third-parties-to-focus-on-more-lucrative-hbm-and-enterprise-products-could-sandisk-follow-suit)
+
+---
+
+### 🚀 He Needed Business Class After Surgery — His Boss Said No, and It Ended Up Costing the Company Tens of Thousands More
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: Twistedsifter.com (2026-09-19T11:55:27Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Upgrade unlocked. Genius.
+The post He Needed Business Class After Surgery — His Boss Said No, and It Ended Up Costing the Company Tens of Thousands More appeared first on TwistedSifter.
+- [原文連結](https://twistedsifter.com/2026/09/he-needed-business-class-after-surgery-his-boss-said-no-and-it-ended-up-costing-the-company-tens-of-thousands-more/)
+
+---
+
+### 🚀 GlobalFoundries and Marvell are scaling up silicon photonics efforts as data centers outgrow copper wiring
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: TechSpot (2026-09-18T20:25:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: GlobalFoundries and Marvell Technology have announced an expanded partnership in manufacturing novel connectivity solutions. The multi-year agreement centers on GlobalFoundries' silicon germanium (SiGe) technology, with the company increasing production capac…
+- [原文連結](https://www.techspot.com/news/113903-globalfoundries-marvell-scaling-up-silicon-photonics-efforts-data.html)
 
 ---
 
