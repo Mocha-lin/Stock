@@ -1,17 +1,17 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-24T05:39:24.161370+00:00
+> 更新時間：2026-09-24T14:03:02.071569+00:00
 
-### 🚀 Win Semiconductors expands optical communications capacity with DUV tools
-- **題材**: `光通訊與矽光子` | **重要性**: `83`
-- **來源**: Digitimes (2026-09-23T00:13:50Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Optical communications capacity is in short supply as surging computing demand from AI data centers turns transmission into a bottleneck for AI infrastructure. The market is shifting toward combined optical-and-copper solutions, while optical communications r…
-- [原文連結](https://www.digitimes.com/news/a20260922PD242/communications-capacity-demand-duv-market.html)
+### ⚖️ Hermes-Epitek eyes CPO test revenue in 2027
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-09-23T06:14:58Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Archie Hwang, the founder and chairman of Hermes-Epitek, appeared before the media alongside Hermes Testing Solutions Inc. (HTSI) executives. The company outlined a major push into silicon photonics (SiPh) co-packaged optics (CPO) testing and said related rev…
+- [原文連結](https://www.digitimes.com/news/a20260923PD223/chairman-cpo-revenue-2027-testing.html)
 
 ---
 
 ### ⚖️ Tower Semiconductor to make Japan its largest optical chip base
-- **題材**: `光通訊與矽光子` | **重要性**: `78`
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
 - **來源**: Digitimes (2026-09-21T07:24:06Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Tower Semiconductor plans to make Japan its largest manufacturing base for optical communications semiconductors after expanding silicon photonics (SiPh), silicon germanium (SiGe), and advanced packaging capacity in the Hokuriku region, as demand from AI data…
@@ -20,20 +20,11 @@
 ---
 
 ### 🚀 Nvidia's next-gen RTX 60 GPUs might not be released until 2028, prominent leaker claims — gaming takes a back seat as company focuses on delivering data center products
-- **題材**: `AI伺服器` | **重要性**: `77`
+- **題材**: `AI伺服器` | **重要性**: `72`
 - **來源**: Tom's Hardware UK (2026-09-21T09:52:19Z)
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Leaker Kopite7kimi claims that Nvidia's next-gen RTX 60 series may not be released until 2028, meaning that consumers will have to wait three years between GPU generations
 - [原文連結](https://www.tomshardware.com/pc-components/gpus/nvidias-next-gen-rtx-60-gpus-might-not-be-released-until-2028-prominent-leaker-claims-gaming-takes-a-back-seat-as-company-focuses-on-delivering-data-center-products)
-
----
-
-### ⚖️ TSMC builds Kaohsiung hub to speed advanced packaging tests
-- **題材**: `半導體先進製程` | **重要性**: `73`
-- **來源**: Digitimes (2026-09-21T06:24:56Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: TSMC is building an advanced packaging validation hub in southern Taiwan as rapid chip-on-wafer-on-substrate (CoWoS) expansion puts pressure on equipment and materials suppliers to qualify new technologies faster.
-- [原文連結](https://www.digitimes.com/news/a20260921VL215/tsmc-packaging-equipment-kaohsiung-taiwan.html)
 
 ---
 
@@ -64,12 +55,12 @@
 
 ---
 
-### ⚖️ Ardentec, Sigurd race into silicon photonics TIA testing as US client books capacity
-- **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-09-17T06:15:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: The global optical communications module market continues to grow, and Taiwan's test and packaging companies are moving to capture demand in silicon photonics (SiPh) transimpedance amplifier (TIA) testing as AI data-center networks shift toward faster optical…
-- [原文連結](https://www.digitimes.com/news/a20260917PD223/sigurd-ardentec-siph-testing-capacity.html)
+### ⚖️ TSMC builds Kaohsiung hub to speed advanced packaging tests
+- **題材**: `半導體先進製程` | **重要性**: `68`
+- **來源**: Digitimes (2026-09-21T06:24:56Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: TSMC is building an advanced packaging validation hub in southern Taiwan as rapid chip-on-wafer-on-substrate (CoWoS) expansion puts pressure on equipment and materials suppliers to qualify new technologies faster.
+- [原文連結](https://www.digitimes.com/news/a20260921VL215/tsmc-packaging-equipment-kaohsiung-taiwan.html)
 
 ---
 
@@ -106,6 +97,15 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: AI is reshaping the global memory industry, tightening supply while creating an opening for China's domestic suppliers. With Samsung Electronics, SK Hynix, and Micron prioritizing high-bandwidth memory (HBM) and high-end server memory, ChangXin Memory Technol…
 - [原文連結](https://www.digitimes.com/news/a20260918VL210/hbm-nand-dram-cxmt-samsung.html)
+
+---
+
+### ⚖️ Ardentec, Sigurd race into silicon photonics TIA testing as US client books capacity
+- **題材**: `光通訊與矽光子` | **重要性**: `63`
+- **來源**: Digitimes (2026-09-17T06:15:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: The global optical communications module market continues to grow, and Taiwan's test and packaging companies are moving to capture demand in silicon photonics (SiPh) transimpedance amplifier (TIA) testing as AI data-center networks shift toward faster optical…
+- [原文連結](https://www.digitimes.com/news/a20260917PD223/sigurd-ardentec-siph-testing-capacity.html)
 
 ---
 
