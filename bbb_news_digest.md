@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-24T14:03:02.071569+00:00
+> 更新時間：2026-09-24T17:36:43.365491+00:00
 
 ### ⚖️ Hermes-Epitek eyes CPO test revenue in 2027
 - **題材**: `光通訊與矽光子` | **重要性**: `73`
@@ -37,15 +37,6 @@
 
 ---
 
-### 🚀 Tower Semiconductor (TSEM): $1.3 Billion in Silicon Photonics Contracts Puts AI Growth in Focus
-- **題材**: `光通訊與矽光子` | **重要性**: `70`
-- **來源**: Yahoo Entertainment (2026-09-22T06:40:15Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Tower Semiconductor Ltd. (NASDAQ:TSEM) is positioned to benefit from the rapid growth of optical connectivity as artificial intelligence (AI) infrastructure...
-- [原文連結](https://finance.yahoo.com/technology/ai/articles/tower-semiconductor-tsem-1-3-064015139.html)
-
----
-
 ### ⚠️ Rothschild Redburn Downgrades Nebius, CoreWeave to Sell on Lower GPU Prices
 - **題材**: `AI伺服器` | **重要性**: `70`
 - **來源**: 24/7 Wall St. (2026-09-21T18:56:19Z)
@@ -61,33 +52,6 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: TSMC is building an advanced packaging validation hub in southern Taiwan as rapid chip-on-wafer-on-substrate (CoWoS) expansion puts pressure on equipment and materials suppliers to qualify new technologies faster.
 - [原文連結](https://www.digitimes.com/news/a20260921VL215/tsmc-packaging-equipment-kaohsiung-taiwan.html)
-
----
-
-### ⚖️ E-waste from AI boom and building data centers could stretch six times around the Earth by 2050, report warns
-- **題材**: `AI伺服器` | **重要性**: `65`
-- **來源**: TechRadar (2026-09-21T17:00:00Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: New report reveals just how much AI data center e-waste is likely unaccounted for, and how much each campus likely uses.
-- [原文連結](https://www.techradar.com/pro/e-waste-from-ai-boom-and-building-data-centers-could-stretch-six-times-around-the-earth-by-2050-report-warns)
-
----
-
-### 🚀 There’s a Good Reason to Choose GLOBALFOUNDRIES Over Taiwan Semiconductor Manufacturing
-- **題材**: `光通訊與矽光子` | **重要性**: `65`
-- **來源**: 24/7 Wall St. (2026-09-17T16:02:30Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: TSMC dominates AI silicon and just raised its growth outlook, yet one corner of GlobalFoundries' business is quietly outpacing it on a percentage basis while...
-- [原文連結](https://247wallst.com/investing/2026/09/17/theres-a-good-reason-to-choose-globalfoundries-over-taiwan-semiconductor-manufacturing/)
-
----
-
-### 🚀 What to Watch: KCHP
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: 24/7 Wall St. (2026-09-17T14:40:35Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Korea's newest chip ETF bets almost everything on two memory giants at the exact moment HBM pricing and AI capex commitments could swing either way, and the...
-- [原文連結](https://247wallst.com/investing/etf/2026/09/17/what-to-watch-kchp/)
 
 ---
 
@@ -118,6 +82,24 @@
 
 ---
 
+### ⚖️ The Race to Mass-Produce Silicon Photonics
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: TechNode (2026-09-23T15:17:28Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Editor’s note: This article is republished from Jumpstart, a TechNode Group publication. The artificial intelligence boom is usually measured in chips. More powerful models require more accelerators, larger clusters and data centers capable of supplying extra…
+- [原文連結](https://technode.com/2026/09/23/the-race-to-mass-produce-silicon-photonics/)
+
+---
+
+### ⚖️ What Makes Semtech Corp. (SMTC) a Key Enabler of AI Data Infrastructure?
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-09-23T14:43:32Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Osterweis Capital Management, an investment management firm, released its Q2 2026 investor update for its “Osterweis Opportunity Fund”. You can download a co...
+- [原文連結](https://finance.yahoo.com/technology/articles/makes-semtech-corp-smtc-key-144332062.html)
+
+---
+
 ### 🚀 The Motorola Signature 27 is coming for Android's best flagships with some wild specs
 - **題材**: `半導體先進製程` | **重要性**: `60`
 - **來源**: Android Central (2026-09-22T20:00:00Z)
@@ -137,15 +119,6 @@ Find X10
 
 The Oppo Find X10 has …
 - [原文連結](https://www.gsmarena.com/oppo_find_x10_and_find_x10_e_are_official_too_here_are_their_specs_and_pricing_details-news-74716.php)
-
----
-
-### ⚖️ Rubio says Ukraine unintentionally hit 'American-linked' oil infrastructure
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Abcnews.com (2026-09-22T15:44:16Z)
-- **AI 判讀**: 屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Secretary of State Marco Rubio alleged U.S.-linked oil infrastructure has been targeted in recent weeks by Ukraine amid its war with Russia in an interview with Fox News.
-- [原文連結](https://abcnews.com/International/rubio-ukraine-unintentionally-hit-american-linked-oil-infrastructure/story?id=136648660)
 
 ---
 
@@ -176,12 +149,39 @@ The Oppo Find X10 has …
 
 ---
 
+### ⚖️ E-waste from AI boom and building data centers could stretch six times around the Earth by 2050, report warns
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: TechRadar (2026-09-21T17:00:00Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: New report reveals just how much AI data center e-waste is likely unaccounted for, and how much each campus likely uses.
+- [原文連結](https://www.techradar.com/pro/e-waste-from-ai-boom-and-building-data-centers-could-stretch-six-times-around-the-earth-by-2050-report-warns)
+
+---
+
 ### ⚠️ NVIDIA Just Named AI's Next Bottleneck—And These 3 Stocks Sit Right In It
 - **題材**: `光通訊與矽光子` | **重要性**: `60`
 - **來源**: MarketBeat (2026-09-20T15:45:00Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Memory and silicon photonics shortages run through 2030, and Micron, Coherent and Tower Semiconductor sit on the supply side of an AI buildout under strain.
 - [原文連結](https://www.marketbeat.com/articles/nvidia-just-named-ais-next-bottleneckand-these-3-stocks-sit-right-in-it/?utm_source=yahoofinance&amp;utm_medium=yahoofinance)
+
+---
+
+### 🚀 The double-whammy that's about to hit the US economy
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Business Insider (2026-09-20T08:47:01Z)
+- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Consumer spending is showing signs of slowing — right as the Fed starts raising interest rates. That's going to be a double drag on the US economy.
+- [原文連結](https://www.businessinsider.com/us-economy-slowdown-consumer-spending-federal-reserve-interest-rate-hikes-2026-9#article)
+
+---
+
+### ⚖️ Samsung could follow Micron by outsourcing DDR5 and SSD production to third parties to focus on more lucrative HBM and enterprise products — could SanDisk follow suit?
+- **題材**: `半導體先進製程` | **重要性**: `60`
+- **來源**: TechRadar (2026-09-19T19:10:00Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Samsung is outsourcing additional DDR5 and SSD production while reserving internal capacity for HBM, advanced packaging, and higher-value memory products.
+- [原文連結](https://www.techradar.com/pro/samsung-could-follow-micron-by-outsourcing-ddr5-and-ssd-production-to-third-parties-to-focus-on-more-lucrative-hbm-and-enterprise-products-could-sandisk-follow-suit)
 
 ---
 
