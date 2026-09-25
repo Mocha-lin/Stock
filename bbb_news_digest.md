@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-25T05:37:43.135046+00:00
+> 更新時間：2026-09-25T14:26:29.777079+00:00
 
 ### ⚠️ SK Hynix Indiana HBM plant faces lawsuit
 - **題材**: `HBM記憶體` | **重要性**: `78`
@@ -16,6 +16,15 @@
 - **AI 判讀**: 屬「總體風險」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Government bonds in Japan, Australia and New Zealand retreated, following declines in Treasuries during the New York session. Weak demand at a $70 billion sale of US five-year notes pushed the yield above 5% for the first time since 2007. The 10-year yield su…
 - [原文連結](https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-waver-as-oil-gains-fuel-inflation-rate-concerns/articleshow/134448968.cms)
+
+---
+
+### ⚖️ CXMT gains ground in DRAM as Samsung, SK Hynix shift more capacity to HBM
+- **題材**: `HBM記憶體` | **重要性**: `73`
+- **來源**: Digitimes (2026-09-24T07:55:00Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: China's ChangXin Memory Technologies (CXMT) is gaining ground in the global DRAM market as Samsung Electronics and SK Hynix allocate more production capacity to high-bandwidth memory (HBM), tightening conventional memory supply and giving the Chinese supplier…
+- [原文連結](https://www.digitimes.com/news/a20260924VL219/dram-cxmt-samsung-hbm-capacity.html)
 
 ---
 
@@ -55,24 +64,6 @@
 
 ---
 
-### 🚀 EWOR names a San Francisco team as US applications surge 237%
-- **題材**: `光通訊與矽光子` | **重要性**: `70`
-- **來源**: The Next Web (2026-09-22T12:40:35Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: EWOR, a founder fellowship harder to get into than Y Combinator, has named a senior leadership team in San Francisco. The appointments follow a record year of US applications, up 237% in twelve months. The team comprises Charles Ferguson, the Oscar-winning fi…
-- [原文連結](https://thenextweb.com/news/ewor-san-francisco-leadership-team-us-applications-237)
-
----
-
-### 🚀 Tower Semiconductor (TSEM): $1.3 Billion in Silicon Photonics Contracts Puts AI Growth in Focus
-- **題材**: `光通訊與矽光子` | **重要性**: `70`
-- **來源**: Yahoo Entertainment (2026-09-22T06:40:15Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Tower Semiconductor Ltd. (NASDAQ:TSEM) is positioned to benefit from the rapid growth of optical connectivity as artificial intelligence (AI) infrastructure...
-- [原文連結](https://finance.yahoo.com/technology/ai/articles/tower-semiconductor-tsem-1-3-064015139.html)
-
----
-
 ### ⚖️ TSMC builds Kaohsiung hub to speed advanced packaging tests
 - **題材**: `半導體先進製程` | **重要性**: `68`
 - **來源**: Digitimes (2026-09-21T06:24:56Z)
@@ -82,12 +73,21 @@
 
 ---
 
-### ⚖️ Micron Fell For 3 Months: Now One Wall Street Pro Says 110% Are About to Materialize
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: 24/7 Wall St. (2026-09-22T11:16:28Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Micron slid for three months while the S&P 500 climbed, reopening a price-to-target gap that one prominent analyst now believes is far larger than the Street...
-- [原文連結](https://247wallst.com/investing/2026/09/22/micron-fell-for-3-months-now-one-wall-street-pro-says-110-are-about-to-materialize/)
+### 🚀 EWOR names a San Francisco team as US applications surge 237%
+- **題材**: `光通訊與矽光子` | **重要性**: `65`
+- **來源**: The Next Web (2026-09-22T12:40:35Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: EWOR, a founder fellowship harder to get into than Y Combinator, has named a senior leadership team in San Francisco. The appointments follow a record year of US applications, up 237% in twelve months. The team comprises Charles Ferguson, the Oscar-winning fi…
+- [原文連結](https://thenextweb.com/news/ewor-san-francisco-leadership-team-us-applications-237)
+
+---
+
+### 🚀 Tower Semiconductor (TSEM): $1.3 Billion in Silicon Photonics Contracts Puts AI Growth in Focus
+- **題材**: `光通訊與矽光子` | **重要性**: `65`
+- **來源**: Yahoo Entertainment (2026-09-22T06:40:15Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Tower Semiconductor Ltd. (NASDAQ:TSEM) is positioned to benefit from the rapid growth of optical connectivity as artificial intelligence (AI) infrastructure...
+- [原文連結](https://finance.yahoo.com/technology/ai/articles/tower-semiconductor-tsem-1-3-064015139.html)
 
 ---
 
@@ -97,24 +97,6 @@
 - **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Rothschild Redburn just slapped Sell ratings on two of the hottest AI infrastructure plays in the market, and their reasoning cuts straight at the assumption...
 - [原文連結](https://247wallst.com/investing/2026/09/21/rothschild-redburn-downgrades-nebius-coreweave-to-sell-on-lower-gpu-prices/)
-
----
-
-### ⚖️ China's memory push gains ground across LPDDR6, advanced NAND, with HBM still the test
-- **題材**: `HBM記憶體` | **重要性**: `63`
-- **來源**: Digitimes (2026-09-18T05:56:22Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: AI is reshaping the global memory industry, tightening supply while creating an opening for China's domestic suppliers. With Samsung Electronics, SK Hynix, and Micron prioritizing high-bandwidth memory (HBM) and high-end server memory, ChangXin Memory Technol…
-- [原文連結](https://www.digitimes.com/news/a20260918VL210/hbm-nand-dram-cxmt-samsung.html)
-
----
-
-### ⚠️ US chip fabs face massive 157,000 worker shortfall, mere 3% of US engineering grads enter chipmaking — despite six-figure salaries, US chip manufacturers are in dire need of engineers and technicians
-- **題材**: `HBM記憶體` | **重要性**: `62`
-- **來源**: Tom's Hardware UK (2026-09-18T11:30:00Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: As many semiconductor fabs and facilities go online in the 2030s and beyond, a global consulting firm said that these sites will need thousands of engineers and technicians that the U.S. will be hard-pressed to fill.
-- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/us-chip-manufacturers-are-in-dire-need-of-engineers-and-technicians-experts-suggest-a-shortage-of-up-to-157-000-semiconductor-workers-by-2030)
 
 ---
 
@@ -176,12 +158,30 @@ The Oppo Find X10 has …
 
 ---
 
-### ⚖️ Here’s What Nebius’ Top Line AI Compute Expansion Means for Prices
+### ⚖️ Micron Fell For 3 Months: Now One Wall Street Pro Says 110% Are About to Materialize
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: 24/7 Wall St. (2026-09-22T11:16:28Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Micron slid for three months while the S&P 500 climbed, reopening a price-to-target gap that one prominent analyst now believes is far larger than the Street...
+- [原文連結](https://247wallst.com/investing/2026/09/22/micron-fell-for-3-months-now-one-wall-street-pro-says-110-are-about-to-materialize/)
+
+---
+
+### ⚖️ E-waste from AI boom and building data centers could stretch six times around the Earth by 2050, report warns
 - **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: 24/7 Wall St. (2026-09-22T13:40:03Z)
+- **來源**: TechRadar (2026-09-21T17:00:00Z)
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Nebius just cleared a capacity auction at prices that stunned even its own projections, and the gap between what customers are willing to pay and what the st...
-- [原文連結](https://247wallst.com/investing/2026/09/22/heres-what-nebius-top-line-ai-compute-expansion-means-for-prices/)
+- **摘要**: New report reveals just how much AI data center e-waste is likely unaccounted for, and how much each campus likely uses.
+- [原文連結](https://www.techradar.com/pro/e-waste-from-ai-boom-and-building-data-centers-could-stretch-six-times-around-the-earth-by-2050-report-warns)
+
+---
+
+### ⚠️ NVIDIA Just Named AI's Next Bottleneck—And These 3 Stocks Sit Right In It
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: MarketBeat (2026-09-20T15:45:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Memory and silicon photonics shortages run through 2030, and Micron, Coherent and Tower Semiconductor sit on the supply side of an AI buildout under strain.
+- [原文連結](https://www.marketbeat.com/articles/nvidia-just-named-ais-next-bottleneckand-these-3-stocks-sit-right-in-it/?utm_source=yahoofinance&amp;utm_medium=yahoofinance)
 
 ---
 
