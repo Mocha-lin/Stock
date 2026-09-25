@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-25T17:36:00.084410+00:00
+> 更新時間：2026-09-25T21:53:04.556421+00:00
 
 ### ⚠️ SK Hynix Indiana HBM plant faces lawsuit
 - **題材**: `HBM記憶體` | **重要性**: `78`
@@ -127,15 +127,6 @@
 
 ---
 
-### 🚀 The Motorola Signature 27 is coming for Android's best flagships with some wild specs
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: Android Central (2026-09-22T20:00:00Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Motorola's Signature 27 pairs Qualcomm's new 2nm Snapdragon flagship chip with a 200MP telephoto camera and upgraded cooling.
-- [原文連結](https://www.androidcentral.com/phones/motorola/this-is-motorola-snapdragon-8-elite-extreme-gen-6-smartphone-moto-signature-27)
-
----
-
 ### ⚖️ Micron Fell For 3 Months: Now One Wall Street Pro Says 110% Are About to Materialize
 - **題材**: `HBM記憶體` | **重要性**: `60`
 - **來源**: 24/7 Wall St. (2026-09-22T11:16:28Z)
@@ -178,6 +169,16 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Samsung is outsourcing additional DDR5 and SSD production while reserving internal capacity for HBM, advanced packaging, and higher-value memory products.
 - [原文連結](https://www.techradar.com/pro/samsung-could-follow-micron-by-outsourcing-ddr5-and-ssd-production-to-third-parties-to-focus-on-more-lucrative-hbm-and-enterprise-products-could-sandisk-follow-suit)
+
+---
+
+### 🚀 He Needed Business Class After Surgery — His Boss Said No, and It Ended Up Costing the Company Tens of Thousands More
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: Twistedsifter.com (2026-09-19T11:55:27Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Upgrade unlocked. Genius.
+The post He Needed Business Class After Surgery — His Boss Said No, and It Ended Up Costing the Company Tens of Thousands More appeared first on TwistedSifter.
+- [原文連結](https://twistedsifter.com/2026/09/he-needed-business-class-after-surgery-his-boss-said-no-and-it-ended-up-costing-the-company-tens-of-thousands-more/)
 
 ---
 
