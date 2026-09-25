@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-25T14:26:29.777079+00:00
+> 更新時間：2026-09-25T17:36:00.084410+00:00
 
 ### ⚠️ SK Hynix Indiana HBM plant faces lawsuit
 - **題材**: `HBM記憶體` | **重要性**: `78`
@@ -136,28 +136,6 @@
 
 ---
 
-### ⚖️ Oppo Find X10 and Find X10 E are official too, here are their specs and pricing details
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: GSMArena.com (2026-09-22T17:01:02Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Alongside the Find X10 Pro Max, today Oppo has also unveiled the Find X10 and Find X10 E in China. These are more affordable options than the X10 Pro Max, as you may have expected from their names. Let's take them one by one.
-
-Find X10
-
-The Oppo Find X10 has …
-- [原文連結](https://www.gsmarena.com/oppo_find_x10_and_find_x10_e_are_official_too_here_are_their_specs_and_pricing_details-news-74716.php)
-
----
-
-### ⚖️ Rubio says Ukraine unintentionally hit 'American-linked' oil infrastructure
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Abcnews.com (2026-09-22T15:44:16Z)
-- **AI 判讀**: 屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Secretary of State Marco Rubio alleged U.S.-linked oil infrastructure has been targeted in recent weeks by Ukraine amid its war with Russia in an interview with Fox News.
-- [原文連結](https://abcnews.com/International/rubio-ukraine-unintentionally-hit-american-linked-oil-infrastructure/story?id=136648660)
-
----
-
 ### ⚖️ Micron Fell For 3 Months: Now One Wall Street Pro Says 110% Are About to Materialize
 - **題材**: `HBM記憶體` | **重要性**: `60`
 - **來源**: 24/7 Wall St. (2026-09-22T11:16:28Z)
@@ -182,6 +160,24 @@ The Oppo Find X10 has …
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Memory and silicon photonics shortages run through 2030, and Micron, Coherent and Tower Semiconductor sit on the supply side of an AI buildout under strain.
 - [原文連結](https://www.marketbeat.com/articles/nvidia-just-named-ais-next-bottleneckand-these-3-stocks-sit-right-in-it/?utm_source=yahoofinance&amp;utm_medium=yahoofinance)
+
+---
+
+### 🚀 The double-whammy that's about to hit the US economy
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Business Insider (2026-09-20T08:47:01Z)
+- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Consumer spending is showing signs of slowing — right as the Fed starts raising interest rates. That's going to be a double drag on the US economy.
+- [原文連結](https://www.businessinsider.com/us-economy-slowdown-consumer-spending-federal-reserve-interest-rate-hikes-2026-9#article)
+
+---
+
+### ⚖️ Samsung could follow Micron by outsourcing DDR5 and SSD production to third parties to focus on more lucrative HBM and enterprise products — could SanDisk follow suit?
+- **題材**: `半導體先進製程` | **重要性**: `60`
+- **來源**: TechRadar (2026-09-19T19:10:00Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Samsung is outsourcing additional DDR5 and SSD production while reserving internal capacity for HBM, advanced packaging, and higher-value memory products.
+- [原文連結](https://www.techradar.com/pro/samsung-could-follow-micron-by-outsourcing-ddr5-and-ssd-production-to-third-parties-to-focus-on-more-lucrative-hbm-and-enterprise-products-could-sandisk-follow-suit)
 
 ---
 
