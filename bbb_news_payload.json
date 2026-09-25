@@ -1,10 +1,83 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-09-24T21:52:02.531731+00:00",
+  "generated_at": "2026-09-25T01:09:38.174878+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
-  "total_count": 73,
+  "total_count": 71,
   "items": [
+    {
+      "id": "d6e1573fa6c06e67",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "SK Hynix Indiana HBM plant faces lawsuit",
+      "summary": "SK Hynix's high-bandwidth memory (HBM) production site under construction in Indiana has been drawn into local litigation as the race for AI memory capacity intensifies. Local residents in the US are seeking to overturn a land-use change and halt construction…",
+      "original_title": "SK Hynix Indiana HBM plant faces lawsuit",
+      "url": "https://www.digitimes.com/news/a20260923PD230/sk-hynix-hbm-lawsuit-production-bandwidth.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-09-24T00:16:08Z",
+      "importance": 78,
+      "impact": "negative",
+      "timeframe": "short_to_mid_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
+      "id": "23675281c24364f1",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "Global Market Today: Asian stocks waver as oil gains fuel inflation, rate concerns",
+      "summary": "Government bonds in Japan, Australia and New Zealand retreated, following declines in Treasuries during the New York session. Weak demand at a $70 billion sale of US five-year notes pushed the yield above 5% for the first time since 2007. The 10-year yield su…",
+      "original_title": "Global Market Today: Asian stocks waver as oil gains fuel inflation, rate concerns",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-waver-as-oil-gains-fuel-inflation-rate-concerns/articleshow/134448968.cms",
+      "source": "The Times of India",
+      "domain": "economictimes.indiatimes.com",
+      "published_at": "2026-09-24T01:00:46Z",
+      "importance": 75,
+      "impact": "negative",
+      "timeframe": "short_to_mid_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
     {
       "id": "e934b0b150008b98",
       "dataset": "market_news",
@@ -80,6 +153,44 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
+      "id": "16c486ea7749dc9c",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "China's ByteDance gained access to over 2,000 Nvidia B200 chips through Norway data center",
+      "summary": "UK-based Nscale signed a deal with Spring (SG) Pte Ltd, which is a subsidiary of Chinese tech giant ByteDance. The company did not make any direct mention of the TikTok parent in its filings for a U.S. IPO, while a supporting document only labeled Spring as a…",
+      "original_title": "China's ByteDance gained access to over 2,000 Nvidia B200 chips through Norway data center",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/filing-reveals-how-bytedance-gained-access-to-over-2-000-nvidia-b200-chips-through-nscales-norway-data-center-singaporean-subsidiary-spring-contributed-73-percent-of-uk-neoclouds-2025-revenue",
+      "source": "Tom's Hardware UK",
+      "domain": "tomshardware.com",
+      "published_at": "2026-09-23T12:00:43Z",
+      "importance": 72,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "906a299a1264c4da",
@@ -158,6 +269,44 @@
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
+      "id": "84c94dd18c168489",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "Tower Semiconductor (TSEM): $1.3 Billion in Silicon Photonics Contracts Puts AI Growth in Focus",
+      "summary": "Tower Semiconductor Ltd. (NASDAQ:TSEM) is positioned to benefit from the rapid growth of optical connectivity as artificial intelligence (AI) infrastructure...",
+      "original_title": "Tower Semiconductor (TSEM): $1.3 Billion in Silicon Photonics Contracts Puts AI Growth in Focus",
+      "url": "https://finance.yahoo.com/technology/ai/articles/tower-semiconductor-tsem-1-3-064015139.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-09-22T06:40:15Z",
+      "importance": 70,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
       "id": "ffa34dcbcaa54026",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -194,6 +343,41 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "456caa53d59d1ed6",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "Micron Fell For 3 Months: Now One Wall Street Pro Says 110% Are About to Materialize",
+      "summary": "Micron slid for three months while the S&P 500 climbed, reopening a price-to-target gap that one prominent analyst now believes is far larger than the Street...",
+      "original_title": "Micron Fell For 3 Months: Now One Wall Street Pro Says 110% Are About to Materialize",
+      "url": "https://247wallst.com/investing/2026/09/22/micron-fell-for-3-months-now-one-wall-street-pro-says-110-are-about-to-materialize/",
+      "source": "24/7 Wall St.",
+      "domain": "247wallst.com",
+      "published_at": "2026-09-22T11:16:28Z",
+      "importance": 65,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "f1c1583356f0efe1",
@@ -269,44 +453,6 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "7bad39d530fe8186",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "Ardentec, Sigurd race into silicon photonics TIA testing as US client books capacity",
-      "summary": "The global optical communications module market continues to grow, and Taiwan's test and packaging companies are moving to capture demand in silicon photonics (SiPh) transimpedance amplifier (TIA) testing as AI data-center networks shift toward faster optical…",
-      "original_title": "Ardentec, Sigurd race into silicon photonics TIA testing as US client books capacity",
-      "url": "https://www.digitimes.com/news/a20260917PD223/sigurd-ardentec-siph-testing-capacity.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-09-17T06:15:00Z",
-      "importance": 63,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "ced3ddeb3161e1ca",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -340,6 +486,44 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "15a5307d885c83a6",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "The Galaxy Tab S12 Ultra and Plus have no secrets left, and they're not cheap",
+      "summary": "Samsung's next tablets have leaked in full: Dimensity 9500, 120Hz AMOLED, and a $1,200 starting price.",
+      "original_title": "The Galaxy Tab S12 Ultra and Plus have no secrets left, and they're not cheap",
+      "url": "https://www.androidcentral.com/tablets/samsung-galaxy-tab/the-galaxy-tab-s12-ultra-and-plus-have-no-secrets-left-and-theyre-not-cheap",
+      "source": "Android Central",
+      "domain": "androidcentral.com",
+      "published_at": "2026-09-23T22:01:20Z",
+      "importance": 60,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "e71c60488f42948f",
@@ -492,6 +676,82 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "eff568b7a37fe580",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "Rubio says Ukraine unintentionally hit 'American-linked' oil infrastructure",
+      "summary": "Secretary of State Marco Rubio alleged U.S.-linked oil infrastructure has been targeted in recent weeks by Ukraine amid its war with Russia in an interview with Fox News.",
+      "original_title": "Rubio says Ukraine unintentionally hit 'American-linked' oil infrastructure",
+      "url": "https://abcnews.com/International/rubio-ukraine-unintentionally-hit-american-linked-oil-infrastructure/story?id=136648660",
+      "source": "Abcnews.com",
+      "domain": "abcnews.com",
+      "published_at": "2026-09-22T15:44:16Z",
+      "importance": 60,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "936b894b43edd70e",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Here’s What Nebius’ Top Line AI Compute Expansion Means for Prices",
+      "summary": "Nebius just cleared a capacity auction at prices that stunned even its own projections, and the gap between what customers are willing to pay and what the st...",
+      "original_title": "Here’s What Nebius’ Top Line AI Compute Expansion Means for Prices",
+      "url": "https://247wallst.com/investing/2026/09/22/heres-what-nebius-top-line-ai-compute-expansion-means-for-prices/",
+      "source": "24/7 Wall St.",
+      "domain": "247wallst.com",
+      "published_at": "2026-09-22T13:40:03Z",
+      "importance": 60,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "0e63f6b513983ce8",
@@ -760,41 +1020,6 @@
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "146dd170fb701d97",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "What to Watch: KCHP",
-      "summary": "Korea's newest chip ETF bets almost everything on two memory giants at the exact moment HBM pricing and AI capex commitments could swing either way, and the...",
-      "original_title": "What to Watch: KCHP",
-      "url": "https://247wallst.com/investing/etf/2026/09/17/what-to-watch-kchp/",
-      "source": "24/7 Wall St.",
-      "domain": "247wallst.com",
-      "published_at": "2026-09-17T14:40:35Z",
-      "importance": 60,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "36e2e2d67641ee70",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -831,6 +1056,82 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "7542783436c2b85f",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "When Bellamy watched on as Ronaldo caused lockdown",
+      "summary": "Craig Bellamy says Cristiano Ronaldo is \"beyond a superstar\" before his Wales side face the Portugal legend in the opening match of their Nations League A campaign.",
+      "original_title": "When Bellamy watched on as Ronaldo caused lockdown",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmgqdjvvqp2no",
+      "source": "BBC News",
+      "domain": "bbc.co.uk",
+      "published_at": "2026-09-23T21:30:59Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "309846c66bbacb71",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "Iran's president rules out surrender as indirect talks with U.S. resume in New York",
+      "summary": "By Parisa Hafezi, Humeyra Pamuk and Jana Choukeir UNITED NATIONS/DUBAI, Sept 23 (Reuters) - Iran and the United States remain far apart on how to end their war but diplomacy must continue, a senior Iranian official told Reuters on Wednesday, after Iran's pres…",
+      "original_title": "Iran's president rules out surrender as indirect talks with U.S. resume in New York",
+      "url": "https://www.yahoo.com/news/articles/hope-progress-us-iran-hold-103122383.html",
+      "source": "Yahoo Entertainment",
+      "domain": "yahoo.com",
+      "published_at": "2026-09-23T17:29:38Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "93f4ac6d466ceedb",
@@ -1435,6 +1736,120 @@
       "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "2d3d3a9624bdae3a",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "M6 Mac Mini First Look: Bigger Power Packed in the Same Small Package",
+      "summary": "People will be clawing to get Apple’s latest and tiniest Mac.",
+      "original_title": "M6 Mac Mini First Look: Bigger Power Packed in the Same Small Package",
+      "url": "https://www.cnet.com/tech/computing/m6-mac-mini-first-look-bigger-power-packed-in-same-small-package/",
+      "source": "CNET",
+      "domain": "cnet.com",
+      "published_at": "2026-09-21T13:00:04Z",
+      "importance": 55,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "e06c529347573099",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "What are Iran’s latest conditions to end its war with the US?",
+      "summary": "Iran's latest set of conditions come as growing regional escalations causes oil prices to cross $100 per barrel.",
+      "original_title": "What are Iran’s latest conditions to end its war with the US?",
+      "url": "https://www.aljazeera.com/news/2026/9/20/what-are-irans-new-conditions-to-end-its-war-with-the-us",
+      "source": "Al Jazeera English",
+      "domain": "aljazeera.com",
+      "published_at": "2026-09-20T11:21:06Z",
+      "importance": 55,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "bfa0dd26c911884b",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Colwill's 'surreal' Ronaldo and Haaland ambition",
+      "summary": "In just 12 months, the Cardiff City midfielder has gone from League One football to the prospect of facing Cristiano Ronaldo and Erling Haaland.",
+      "original_title": "Colwill's 'surreal' Ronaldo and Haaland ambition",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm4gj50qqlqwo",
+      "source": "BBC News",
+      "domain": "bbc.co.uk",
+      "published_at": "2026-09-20T05:07:45Z",
+      "importance": 55,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "907ad2412b9fe3e7",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1546,52 +1961,17 @@
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "547bd7495f4e02d6",
+      "id": "19e7aa120ad22581",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "HBM記憶體",
-      "title": "Worker Tensions in Taiwan Are Rising at Micron. What This Means for MU Stock.",
-      "summary": "Worker tensions are rising at Micron’s Taiwan fabs, where unions representing about 10,000 employees have threatened a strike over bonuses after more than 80...",
-      "original_title": "Worker Tensions in Taiwan Are Rising at Micron. What This Means for MU Stock.",
-      "url": "https://www.barchart.com/story/news/4661165/worker-tensions-in-taiwan-are-rising-at-micron-what-this-means-for-mu-stock",
-      "source": "Barchart.com",
-      "domain": "barchart.com",
-      "published_at": "2026-09-17T15:10:05Z",
-      "importance": 55,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "4315950e76f54684",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "Top strategist thinks the Federal Reserve interest rate hike won't fix this huge earnings risk",
-      "summary": "Investors are still eyeing memory chip inflation.",
-      "original_title": "Top strategist thinks the Federal Reserve interest rate hike won't fix this huge earnings risk",
-      "url": "https://finance.yahoo.com/markets/article/top-strategist-thinks-the-federal-reserve-interest-rate-hike-wont-fix-this-huge-earnings-risk-121619669.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-09-17T12:16:19Z",
+      "title": "Samsung Offloads DDR5 Module Output To Shield PC Market From AI Shortages",
+      "summary": "If you have been reading the news in the last couple of months, probably you saw what is happening regarding the RAMmageddon, with memory prices going up given the shortage caused because the AI companies are buying massive loads of them. Trying to shield the…",
+      "original_title": "Samsung Offloads DDR5 Module Output To Shield PC Market From AI Shortages",
+      "url": "https://www.ubergizmo.com/2026/09/samsung-offloads-ddr5-module-output-to-shield-pc-market-from-ai-shortages/",
+      "source": "Ubergizmo",
+      "domain": "ubergizmo.com",
+      "published_at": "2026-09-18T15:00:05Z",
       "importance": 55,
       "impact": "negative",
       "timeframe": "short_term",
@@ -1806,6 +2186,44 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "56cbdee06b2a9e7e",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "The US has proposed an AI incident alert system to China",
+      "summary": "The United States has proposed that Washington and Beijing notify each other of AI incidents serious enough to qualify as national security events, an idea Treasury Secretary Scott Bessent put forward to Chinese officials during talks in Manhattan on Sunday. …",
+      "original_title": "The US has proposed an AI incident alert system to China",
+      "url": "https://thenextweb.com/news/us-china-ai-incident-alert-bessent-he-lifeng",
+      "source": "The Next Web",
+      "domain": "thenextweb.com",
+      "published_at": "2026-09-21T09:48:35Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "6475cf90c2a73532",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1990,44 +2408,6 @@
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "a0727a47fbef3788",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "I went hands-on with the iPhone Duo, and I'm genuinely excited",
-      "summary": "With the iPhone Duo, Apple once again proved that it knows how to stand out in a crowded category. I used the iPhone Duo for the better part of an hour, and I think that this foldable is unlike any other.",
-      "original_title": "I went hands-on with the iPhone Duo, and I'm genuinely excited",
-      "url": "https://www.androidcentral.com/phones/apple-iphone/apple-iphone-duo-hands-on",
-      "source": "Android Central",
-      "domain": "androidcentral.com",
-      "published_at": "2026-09-19T03:23:22Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "96964a0826a2bc42",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2064,6 +2444,41 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "4895df23f8086a92",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "Apple price hikes in 2027 could make your next iPhone cost even more",
+      "summary": "Apple price hikes 2027 may be next, as the company has reportedly agreed to pay Samsung more for RAM and storage chips.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+      "original_title": "Apple price hikes in 2027 could make your next iPhone cost even more",
+      "url": "https://www.cultofmac.com/news/apple-price-hikes-2027-rumors",
+      "source": "Cult of Mac",
+      "domain": "cultofmac.com",
+      "published_at": "2026-09-18T16:13:49Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "78d59134816b3550",
@@ -2226,7 +2641,7 @@
       "source": "Slickdeals.net",
       "domain": "slickdeals.net",
       "published_at": "2026-09-18T01:07:17Z",
-      "importance": 50,
+      "importance": 45,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -2250,492 +2665,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "8ca3c3d74d14d198",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "RTX 5090s are going for as much as $9000, as AI server builders reportedly buy Nvidia's flagship by the pallet, but the photos behind the story may be AI-generated",
-      "summary": "AI firms are reportedly buying RTX 5090s by the pallet, which Nvidia's own driver license has prohibited since 2017.",
-      "original_title": "RTX 5090s are going for as much as $9000, as AI server builders reportedly buy Nvidia's flagship by the pallet, but the photos behind the story may be AI-generated",
-      "url": "https://www.techradar.com/pro/rtx-5090s-are-going-for-as-much-as-usd9000-as-ai-server-builders-reportedly-buy-nvidias-flagship-by-the-pallet-but-the-photos-behind-the-story-may-be-ai-generated",
-      "source": "TechRadar",
-      "domain": "techradar.com",
-      "published_at": "2026-09-17T23:05:00Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "f89fbde8115024b7",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "Micron Just Guided to $50 Billion in a Single Quarter. AI Memory Has Changed Everything.",
-      "summary": "Key Stats for Micron Technology Stock52-Week Range: $154. 65 to $1,255.",
-      "original_title": "Micron Just Guided to $50 Billion in a Single Quarter. AI Memory Has Changed Everything.",
-      "url": "https://www.tikr.com/blog/micron-just-guided-to-50-billion-in-a-single-quarter-ai-memory-has-changed-everything?ref=yahoofinance",
-      "source": "Tikr.com",
-      "domain": "tikr.com",
-      "published_at": "2026-09-17T20:59:01Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "f0b199a3e55c0131",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "Intel Jumps 8%, SK Hynix Climbs 5% as Ohio Memory Talks Reignite; Micron Rises 6%",
-      "summary": "Reports of Intel and SK Hynix teaming up to build memory chips in Ohio sent stocks surging across the sector, but the most revealing signal of the day has no...",
-      "original_title": "Intel Jumps 8%, SK Hynix Climbs 5% as Ohio Memory Talks Reignite; Micron Rises 6%",
-      "url": "https://247wallst.com/investing/2026/09/17/intel-jumps-8-sk-hynix-climbs-5-as-ohio-memory-talks-reignite-micron-rises-6/",
-      "source": "24/7 Wall St.",
-      "domain": "247wallst.com",
-      "published_at": "2026-09-17T14:48:31Z",
-      "importance": 50,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "6c071faac3d0f010",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Cardiff boosted by return of Wales defender Lawlor",
-      "summary": "Wales defender Dylan Lawlor returns from injury to boost winless Cardiff City against Charlton Athletic in the Championship.",
-      "original_title": "Cardiff boosted by return of Wales defender Lawlor",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6ge481dq18do",
-      "source": "BBC News",
-      "domain": "bbc.co.uk",
-      "published_at": "2026-09-17T10:25:58Z",
-      "importance": 50,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "6049c4224be4e1cb",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "Why have China’s oil prices reached a record high?",
-      "summary": "Why have China's oil prices reached a record high?",
-      "original_title": "Why have China’s oil prices reached a record high?",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/17/why-have-chinas-oil-prices-reached-a-record-high",
-      "source": "Al Jazeera English",
-      "domain": "aljazeera.com",
-      "published_at": "2026-09-17T20:30:39Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "fd606eb9144c2b1a",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Pinterest launches Visual Search Ads at its advertiser summit",
-      "summary": "“Traditional search advertising has long relied on keywords, but in an AI-driven world, people are expressing themselves in much richer ways,” said Bill Ready, chief executive of Pinterest. The company announced Visual Search Ads on 17 September at Pinterest …",
-      "original_title": "Pinterest launches Visual Search Ads at its advertiser summit",
-      "url": "https://thenextweb.com/news/pinterest-visual-search-ads-performance-restyle",
-      "source": "The Next Web",
-      "domain": "thenextweb.com",
-      "published_at": "2026-09-17T18:11:26Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "ec41b50c7163d098",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Everybody Wants to Make Their Own Mac mini Now, and It’s Obvious Why",
-      "summary": "The era of the tiny AI boxes is setting off a different kind of PC arms race.",
-      "original_title": "Everybody Wants to Make Their Own Mac mini Now, and It’s Obvious Why",
-      "url": "https://gizmodo.com/everybody-wants-to-make-their-own-mac-mini-now-and-its-obvious-why-2000813269",
-      "source": "Gizmodo.com",
-      "domain": "gizmodo.com",
-      "published_at": "2026-09-17T15:15:09Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "f97a69a0a91d2957",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "Ghalibaf’s maths missile at Trump decoded: Is Iran fixing US interest rates?",
-      "summary": "Iran's speaker mocks US interest rates, citing the Taylor equation amidst rising global oil prices and inflation.",
-      "original_title": "Ghalibaf’s maths missile at Trump decoded: Is Iran fixing US interest rates?",
-      "url": "https://www.aljazeera.com/news/2026/9/17/ghalibafs-maths-missile-at-trump-decoded-is-iran-fixing-us-interest-rates",
-      "source": "Al Jazeera English",
-      "domain": "aljazeera.com",
-      "published_at": "2026-09-17T14:10:41Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "4e131c1626e6782a",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "Costco’s Motor Oil Price Jumped From $30 to $58. And Now There’s a Limit to How Much You Can Buy.",
-      "summary": "As oil prices continue to rise, Costco puts the brakes on how much shoppers can stock up on.",
-      "original_title": "Costco’s Motor Oil Price Jumped From $30 to $58. And Now There’s a Limit to How Much You Can Buy.",
-      "url": "https://www.entrepreneur.com/business-news/costcos-motor-oil-price-jumped-from-30-to-58-and-now-theres-a-limit-to-how-much-you-can-buy",
-      "source": "Entrepreneur",
-      "domain": "entrepreneur.com",
-      "published_at": "2026-09-17T13:18:00Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "e3424cd2c18d0879",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "Some memory for Apple devices may be made in the US for the first time",
-      "summary": "Some memory chips for Apple devices could be made in the US for the first time, if plans involving one of the company’s suppliers come to fruition.\n\n\n\nA new report says that Apple memory supplier SK Hynix is in talks with Intel over potential use of the compa…",
-      "original_title": "Some memory for Apple devices may be made in the US for the first time",
-      "url": "https://9to5mac.com/2026/09/17/some-memory-for-apple-devices-may-be-made-in-the-us-for-the-first-time/",
-      "source": "9to5Mac",
-      "domain": "9to5mac.com",
-      "published_at": "2026-09-17T11:37:56Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "dd48fca40c1eadef",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "The Fed raises interest rates. And, EU proposes Canada become an 'associate member'",
-      "summary": "The Federal Reserve has raised interest rates for the first time in years. And, the European Union has proposed that Canada become its first-ever \"associate member.\"",
-      "original_title": "The Fed raises interest rates. And, EU proposes Canada become an 'associate member'",
-      "url": "https://www.npr.org/2026/09/17/g-s1-143783/up-first-newsletter-federal-reserve-interest-rates-gas-prices-war-canada-european-union",
-      "source": "NPR",
-      "domain": "npr.org",
-      "published_at": "2026-09-17T10:54:18Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "80149984ffeef3c1",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "Trump threatens trade with Europe if it makes Canada an associate member of the EU",
-      "summary": "The EU has proposed making Canada its first associate member, drawing a tariff threat from President Donald Trump.",
-      "original_title": "Trump threatens trade with Europe if it makes Canada an associate member of the EU",
-      "url": "https://www.businessinsider.com/canada-eu-associate-member-trump-response-retaliates-us-trade-tariffs-2026-9#article",
-      "source": "Business Insider",
-      "domain": "businessinsider.com",
-      "published_at": "2026-09-17T05:09:54Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "c65daeaeef89f8cb",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Apple Watch Series 12 Returns to Ceramic, Fired Three Times Over",
-      "summary": "Apple Watch Series 12 brings back ceramic for the first time since Series 5 in 2019, in Pearl White and Night Blue cases that pass through three separate heat treatments before diamond-tipped tools…",
-      "original_title": "Apple Watch Series 12 Returns to Ceramic, Fired Three Times Over",
-      "url": "http://coolhunting.com/tech/apple-watch-series-12-returns-to-ceramic-fired-three-times-over/",
-      "source": "Cool Hunting",
-      "domain": "coolhunting.com",
-      "published_at": "2026-09-17T02:14:39Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     }
   ]
 }
