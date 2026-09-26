@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-26T01:13:09.595785+00:00
+> 更新時間：2026-09-26T05:42:11.058802+00:00
 
 ### 🚀 AI drives Episil GeSi, PMIC growth
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -154,15 +154,6 @@
 
 ---
 
-### ⚠️ Wall Street’s Nasdaq hits all-time high as AI frenzy gathers pace
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: Al Jazeera English (2026-09-23T02:50:36Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Investors shrug off AI safety concerns and Iran war, sending market to a new peak.
-- [原文連結](https://www.aljazeera.com/economy/2026/9/23/wall-streets-nasdaq-hits-all-time-high-as-ai-frenzy-gathers-pace)
-
----
-
 ### ⚖️ Micron Has Jumped Back Above $1,000: Here’s What I’m Doing
 - **題材**: `HBM記憶體` | **重要性**: `60`
 - **來源**: 24/7 Wall St. (2026-09-22T15:26:42Z)
@@ -178,6 +169,15 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Micron slid for three months while the S&P 500 climbed, reopening a price-to-target gap that one prominent analyst now believes is far larger than the Street...
 - [原文連結](https://247wallst.com/investing/2026/09/22/micron-fell-for-3-months-now-one-wall-street-pro-says-110-are-about-to-materialize/)
+
+---
+
+### ⚖️ E-waste from AI boom and building data centers could stretch six times around the Earth by 2050, report warns
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: TechRadar (2026-09-21T17:00:00Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: New report reveals just how much AI data center e-waste is likely unaccounted for, and how much each campus likely uses.
+- [原文連結](https://www.techradar.com/pro/e-waste-from-ai-boom-and-building-data-centers-could-stretch-six-times-around-the-earth-by-2050-report-warns)
 
 ---
 

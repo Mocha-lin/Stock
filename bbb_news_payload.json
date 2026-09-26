@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-09-26T01:13:09.595785+00:00",
+  "generated_at": "2026-09-26T05:42:11.058802+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 70,
@@ -644,41 +644,6 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "6f5f64e46498d80a",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "Wall Street’s Nasdaq hits all-time high as AI frenzy gathers pace",
-      "summary": "Investors shrug off AI safety concerns and Iran war, sending market to a new peak.",
-      "original_title": "Wall Street’s Nasdaq hits all-time high as AI frenzy gathers pace",
-      "url": "https://www.aljazeera.com/economy/2026/9/23/wall-streets-nasdaq-hits-all-time-high-as-ai-frenzy-gathers-pace",
-      "source": "Al Jazeera English",
-      "domain": "aljazeera.com",
-      "published_at": "2026-09-23T02:50:36Z",
-      "importance": 60,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "d03e66b5daf442a6",
@@ -1389,6 +1354,41 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "6f5f64e46498d80a",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "Wall Street’s Nasdaq hits all-time high as AI frenzy gathers pace",
+      "summary": "Investors shrug off AI safety concerns and Iran war, sending market to a new peak.",
+      "original_title": "Wall Street’s Nasdaq hits all-time high as AI frenzy gathers pace",
+      "url": "https://www.aljazeera.com/economy/2026/9/23/wall-streets-nasdaq-hits-all-time-high-as-ai-frenzy-gathers-pace",
+      "source": "Al Jazeera English",
+      "domain": "aljazeera.com",
+      "published_at": "2026-09-23T02:50:36Z",
+      "importance": 55,
+      "impact": "negative",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "e1e37ba410c59605",
@@ -2603,7 +2603,7 @@
       "source": "Yahoo Entertainment",
       "domain": "yahoo.com",
       "published_at": "2026-09-19T04:08:33Z",
-      "importance": 50,
+      "importance": 45,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -2627,7 +2627,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「總體風險」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     }
   ]
 }
