@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-26T05:42:11.058802+00:00
+> 更新時間：2026-09-26T13:37:45.257764+00:00
 
 ### 🚀 AI drives Episil GeSi, PMIC growth
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -37,21 +37,21 @@
 
 ---
 
+### ⚖️ Singapore deepens chip R&D ties with Applied Materials, KLA and GlobalFoundries
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-09-25T09:15:59Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Singapore is deepening semiconductor R&D ties with Applied Materials, KLA, GlobalFoundries (GF) and other industry players across advanced packaging and silicon photonics, as the city-state builds on its manufacturing base to strengthen technology development…
+- [原文連結](https://www.digitimes.com/news/a20260925PD201/kla-applied-materials-globalfoundries-manufacturing-silicon.html)
+
+---
+
 ### ⚖️ CXMT gains ground in DRAM as Samsung, SK Hynix shift more capacity to HBM
 - **題材**: `HBM記憶體` | **重要性**: `73`
 - **來源**: Digitimes (2026-09-24T07:55:00Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: China's ChangXin Memory Technologies (CXMT) is gaining ground in the global DRAM market as Samsung Electronics and SK Hynix allocate more production capacity to high-bandwidth memory (HBM), tightening conventional memory supply and giving the Chinese supplier…
 - [原文連結](https://www.digitimes.com/news/a20260924VL219/dram-cxmt-samsung-hbm-capacity.html)
-
----
-
-### ⚖️ Hermes-Epitek eyes CPO test revenue in 2027
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-09-23T06:14:58Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Archie Hwang, the founder and chairman of Hermes-Epitek, appeared before the media alongside Hermes Testing Solutions Inc. (HTSI) executives. The company outlined a major push into silicon photonics (SiPh) co-packaged optics (CPO) testing and said related rev…
-- [原文連結](https://www.digitimes.com/news/a20260923PD223/chairman-cpo-revenue-2027-testing.html)
 
 ---
 
@@ -64,15 +64,6 @@
 
 ---
 
-### ⚖️ China's ByteDance gained access to over 2,000 Nvidia B200 chips through Norway data center
-- **題材**: `AI伺服器` | **重要性**: `72`
-- **來源**: Tom's Hardware UK (2026-09-23T12:00:43Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: UK-based Nscale signed a deal with Spring (SG) Pte Ltd, which is a subsidiary of Chinese tech giant ByteDance. The company did not make any direct mention of the TikTok parent in its filings for a U.S. IPO, while a supporting document only labeled Spring as a…
-- [原文連結](https://www.tomshardware.com/tech-industry/data-centers/filing-reveals-how-bytedance-gained-access-to-over-2-000-nvidia-b200-chips-through-nscales-norway-data-center-singaporean-subsidiary-spring-contributed-73-percent-of-uk-neoclouds-2025-revenue)
-
----
-
 ### 🚀 Nvidia's next-gen RTX 60 GPUs might not be released until 2028, prominent leaker claims — gaming takes a back seat as company focuses on delivering data center products
 - **題材**: `AI伺服器` | **重要性**: `72`
 - **來源**: Tom's Hardware UK (2026-09-21T09:52:19Z)
@@ -82,12 +73,30 @@
 
 ---
 
+### ⚖️ Hermes-Epitek eyes CPO test revenue in 2027
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-09-23T06:14:58Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Archie Hwang, the founder and chairman of Hermes-Epitek, appeared before the media alongside Hermes Testing Solutions Inc. (HTSI) executives. The company outlined a major push into silicon photonics (SiPh) co-packaged optics (CPO) testing and said related rev…
+- [原文連結](https://www.digitimes.com/news/a20260923PD223/chairman-cpo-revenue-2027-testing.html)
+
+---
+
 ### ⚖️ TSMC builds Kaohsiung hub to speed advanced packaging tests
 - **題材**: `半導體先進製程` | **重要性**: `68`
 - **來源**: Digitimes (2026-09-21T06:24:56Z)
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: TSMC is building an advanced packaging validation hub in southern Taiwan as rapid chip-on-wafer-on-substrate (CoWoS) expansion puts pressure on equipment and materials suppliers to qualify new technologies faster.
 - [原文連結](https://www.digitimes.com/news/a20260921VL215/tsmc-packaging-equipment-kaohsiung-taiwan.html)
+
+---
+
+### ⚖️ China's ByteDance gained access to over 2,000 Nvidia B200 chips through Norway data center
+- **題材**: `AI伺服器` | **重要性**: `67`
+- **來源**: Tom's Hardware UK (2026-09-23T12:00:43Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: UK-based Nscale signed a deal with Spring (SG) Pte Ltd, which is a subsidiary of Chinese tech giant ByteDance. The company did not make any direct mention of the TikTok parent in its filings for a U.S. IPO, while a supporting document only labeled Spring as a…
+- [原文連結](https://www.tomshardware.com/tech-industry/data-centers/filing-reveals-how-bytedance-gained-access-to-over-2-000-nvidia-b200-chips-through-nscales-norway-data-center-singaporean-subsidiary-spring-contributed-73-percent-of-uk-neoclouds-2025-revenue)
 
 ---
 
@@ -127,6 +136,15 @@
 
 ---
 
+### ⚖️ SpaceX Beating Bull Case- Adding 880,000 chips in four month, 500MW Per Month (Elon Confirmed)
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: Next Big Future (2026-09-25T08:04:59Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: SpaceX will have FIVE Giant AI data centers completed by the end of 2026. The LEAD. SHOCKING NEWS. They are serial producing 450 MW AI data centers taking 4 months to build from start to finish with chips installed. They will work at four at time to complete …
+- [原文連結](https://www.nextbigfuture.com/2026/09/spacex-beating-bull-case-adding-880000-chips-in-four-month-500mw-per-month-elon-confirmed.html)
+
+---
+
 ### ⚖️ The Galaxy Tab S12 Ultra and Plus have no secrets left, and they're not cheap
 - **題材**: `半導體先進製程` | **重要性**: `60`
 - **來源**: Android Central (2026-09-23T22:01:20Z)
@@ -160,24 +178,6 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Micron just reclaimed four figures after a brutal pullback, and the bull case at this price rests on a structural shift in memory markets that most investors...
 - [原文連結](https://247wallst.com/investing/2026/09/22/micron-has-jumped-back-above-1000-heres-what-im-doing/)
-
----
-
-### ⚖️ Micron Fell For 3 Months: Now One Wall Street Pro Says 110% Are About to Materialize
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: 24/7 Wall St. (2026-09-22T11:16:28Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Micron slid for three months while the S&P 500 climbed, reopening a price-to-target gap that one prominent analyst now believes is far larger than the Street...
-- [原文連結](https://247wallst.com/investing/2026/09/22/micron-fell-for-3-months-now-one-wall-street-pro-says-110-are-about-to-materialize/)
-
----
-
-### ⚖️ E-waste from AI boom and building data centers could stretch six times around the Earth by 2050, report warns
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: TechRadar (2026-09-21T17:00:00Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: New report reveals just how much AI data center e-waste is likely unaccounted for, and how much each campus likely uses.
-- [原文連結](https://www.techradar.com/pro/e-waste-from-ai-boom-and-building-data-centers-could-stretch-six-times-around-the-earth-by-2050-report-warns)
 
 ---
 
