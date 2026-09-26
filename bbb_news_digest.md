@@ -1,5 +1,14 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-25T21:53:04.556421+00:00
+> 更新時間：2026-09-26T01:13:09.595785+00:00
+
+### 🚀 AI drives Episil GeSi, PMIC growth
+- **題材**: `光通訊與矽光子` | **重要性**: `83`
+- **來源**: Digitimes (2026-09-24T07:14:47Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Semiconductor epitaxy maker Episil Precision said on September 22 that rising demand from AI data centers has created two main growth engines. Demand for silicon photonics optical communication modules is driving a surge in germanium silicon (GeSi) epitaxy de…
+- [原文連結](https://www.digitimes.com/news/a20260923PD236/episil-demand-growth-silicon-photonics.html)
+
+---
 
 ### ⚠️ SK Hynix Indiana HBM plant faces lawsuit
 - **題材**: `HBM記憶體` | **重要性**: `78`
@@ -7,6 +16,15 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: SK Hynix's high-bandwidth memory (HBM) production site under construction in Indiana has been drawn into local litigation as the race for AI memory capacity intensifies. Local residents in the US are seeking to overturn a land-use change and halt construction…
 - [原文連結](https://www.digitimes.com/news/a20260923PD230/sk-hynix-hbm-lawsuit-production-bandwidth.html)
+
+---
+
+### 🚀 Win Semiconductors expands optical communications capacity with DUV tools
+- **題材**: `光通訊與矽光子` | **重要性**: `78`
+- **來源**: Digitimes (2026-09-23T00:13:50Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Optical communications capacity is in short supply as surging computing demand from AI data centers turns transmission into a bottleneck for AI infrastructure. The market is shifting toward combined optical-and-copper solutions, while optical communications r…
+- [原文連結](https://www.digitimes.com/news/a20260922PD242/communications-capacity-demand-duv-market.html)
 
 ---
 
@@ -73,6 +91,15 @@
 
 ---
 
+### 🚀 This Magnificent Seven Stock Could Turn $10,000 Into $20,000 by 2027
+- **題材**: `AI伺服器` | **重要性**: `65`
+- **來源**: 24/7 Wall St. (2026-09-23T15:00:09Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: One Magnificent Seven stock is quietly building a case that its biggest gains still lie ahead, and the math behind a potential doubling of your investment by...
+- [原文連結](https://247wallst.com/investing/2026/09/23/this-magnificent-seven-stock-could-turn-10000-into-20000-by-2027/)
+
+---
+
 ### 🚀 EWOR names a San Francisco team as US applications surge 237%
 - **題材**: `光通訊與矽光子` | **重要性**: `65`
 - **來源**: The Next Web (2026-09-22T12:40:35Z)
@@ -127,58 +154,30 @@
 
 ---
 
+### ⚠️ Wall Street’s Nasdaq hits all-time high as AI frenzy gathers pace
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: Al Jazeera English (2026-09-23T02:50:36Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Investors shrug off AI safety concerns and Iran war, sending market to a new peak.
+- [原文連結](https://www.aljazeera.com/economy/2026/9/23/wall-streets-nasdaq-hits-all-time-high-as-ai-frenzy-gathers-pace)
+
+---
+
+### ⚖️ Micron Has Jumped Back Above $1,000: Here’s What I’m Doing
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: 24/7 Wall St. (2026-09-22T15:26:42Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Micron just reclaimed four figures after a brutal pullback, and the bull case at this price rests on a structural shift in memory markets that most investors...
+- [原文連結](https://247wallst.com/investing/2026/09/22/micron-has-jumped-back-above-1000-heres-what-im-doing/)
+
+---
+
 ### ⚖️ Micron Fell For 3 Months: Now One Wall Street Pro Says 110% Are About to Materialize
 - **題材**: `HBM記憶體` | **重要性**: `60`
 - **來源**: 24/7 Wall St. (2026-09-22T11:16:28Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Micron slid for three months while the S&P 500 climbed, reopening a price-to-target gap that one prominent analyst now believes is far larger than the Street...
 - [原文連結](https://247wallst.com/investing/2026/09/22/micron-fell-for-3-months-now-one-wall-street-pro-says-110-are-about-to-materialize/)
-
----
-
-### ⚖️ E-waste from AI boom and building data centers could stretch six times around the Earth by 2050, report warns
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: TechRadar (2026-09-21T17:00:00Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: New report reveals just how much AI data center e-waste is likely unaccounted for, and how much each campus likely uses.
-- [原文連結](https://www.techradar.com/pro/e-waste-from-ai-boom-and-building-data-centers-could-stretch-six-times-around-the-earth-by-2050-report-warns)
-
----
-
-### ⚠️ NVIDIA Just Named AI's Next Bottleneck—And These 3 Stocks Sit Right In It
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: MarketBeat (2026-09-20T15:45:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Memory and silicon photonics shortages run through 2030, and Micron, Coherent and Tower Semiconductor sit on the supply side of an AI buildout under strain.
-- [原文連結](https://www.marketbeat.com/articles/nvidia-just-named-ais-next-bottleneckand-these-3-stocks-sit-right-in-it/?utm_source=yahoofinance&amp;utm_medium=yahoofinance)
-
----
-
-### 🚀 The double-whammy that's about to hit the US economy
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Business Insider (2026-09-20T08:47:01Z)
-- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Consumer spending is showing signs of slowing — right as the Fed starts raising interest rates. That's going to be a double drag on the US economy.
-- [原文連結](https://www.businessinsider.com/us-economy-slowdown-consumer-spending-federal-reserve-interest-rate-hikes-2026-9#article)
-
----
-
-### ⚖️ Samsung could follow Micron by outsourcing DDR5 and SSD production to third parties to focus on more lucrative HBM and enterprise products — could SanDisk follow suit?
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: TechRadar (2026-09-19T19:10:00Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Samsung is outsourcing additional DDR5 and SSD production while reserving internal capacity for HBM, advanced packaging, and higher-value memory products.
-- [原文連結](https://www.techradar.com/pro/samsung-could-follow-micron-by-outsourcing-ddr5-and-ssd-production-to-third-parties-to-focus-on-more-lucrative-hbm-and-enterprise-products-could-sandisk-follow-suit)
-
----
-
-### 🚀 He Needed Business Class After Surgery — His Boss Said No, and It Ended Up Costing the Company Tens of Thousands More
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: Twistedsifter.com (2026-09-19T11:55:27Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Upgrade unlocked. Genius.
-The post He Needed Business Class After Surgery — His Boss Said No, and It Ended Up Costing the Company Tens of Thousands More appeared first on TwistedSifter.
-- [原文連結](https://twistedsifter.com/2026/09/he-needed-business-class-after-surgery-his-boss-said-no-and-it-ended-up-costing-the-company-tens-of-thousands-more/)
 
 ---
 
