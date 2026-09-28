@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-28T06:07:15.944305+00:00
+> 更新時間：2026-09-28T17:23:33.867482+00:00
 
 ### 🚀 AI drives Episil GeSi, PMIC growth
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -19,15 +19,6 @@
 
 ---
 
-### ⚖️ Singapore deepens chip R&D ties with Applied Materials, KLA and GlobalFoundries
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-09-25T09:15:59Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Singapore is deepening semiconductor R&D ties with Applied Materials, KLA, GlobalFoundries (GF) and other industry players across advanced packaging and silicon photonics, as the city-state builds on its manufacturing base to strengthen technology development…
-- [原文連結](https://www.digitimes.com/news/a20260925PD201/kla-applied-materials-globalfoundries-manufacturing-silicon.html)
-
----
-
 ### ⚠️ SK Hynix Indiana HBM plant faces lawsuit
 - **題材**: `HBM記憶體` | **重要性**: `73`
 - **來源**: Digitimes (2026-09-24T00:16:08Z)
@@ -37,30 +28,21 @@
 
 ---
 
-### ⚖️ Tower Semiconductor to make Japan its largest optical chip base
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-09-21T07:24:06Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Tower Semiconductor plans to make Japan its largest manufacturing base for optical communications semiconductors after expanding silicon photonics (SiPh), silicon germanium (SiGe), and advanced packaging capacity in the Hokuriku region, as demand from AI data…
-- [原文連結](https://www.digitimes.com/news/a20260921VL217/tower-semiconductor-production-communications-silicon-manufacturing.html)
-
----
-
-### 🚀 Nvidia's next-gen RTX 60 GPUs might not be released until 2028, prominent leaker claims — gaming takes a back seat as company focuses on delivering data center products
-- **題材**: `AI伺服器` | **重要性**: `72`
-- **來源**: Tom's Hardware UK (2026-09-21T09:52:19Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Leaker Kopite7kimi claims that Nvidia's next-gen RTX 60 series may not be released until 2028, meaning that consumers will have to wait three years between GPU generations
-- [原文連結](https://www.tomshardware.com/pc-components/gpus/nvidias-next-gen-rtx-60-gpus-might-not-be-released-until-2028-prominent-leaker-claims-gaming-takes-a-back-seat-as-company-focuses-on-delivering-data-center-products)
-
----
-
 ### ⚠️ Global Market Today: Asian stocks waver as oil gains fuel inflation, rate concerns
 - **題材**: `總體風險` | **重要性**: `70`
 - **來源**: The Times of India (2026-09-24T01:00:46Z)
 - **AI 判讀**: 屬「總體風險」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Government bonds in Japan, Australia and New Zealand retreated, following declines in Treasuries during the New York session. Weak demand at a $70 billion sale of US five-year notes pushed the yield above 5% for the first time since 2007. The 10-year yield su…
 - [原文連結](https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-waver-as-oil-gains-fuel-inflation-rate-concerns/articleshow/134448968.cms)
+
+---
+
+### ⚖️ Singapore deepens chip R&D ties with Applied Materials, KLA and GlobalFoundries
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-09-25T09:15:59Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Singapore is deepening semiconductor R&D ties with Applied Materials, KLA, GlobalFoundries (GF) and other industry players across advanced packaging and silicon photonics, as the city-state builds on its manufacturing base to strengthen technology development…
+- [原文連結](https://www.digitimes.com/news/a20260925PD201/kla-applied-materials-globalfoundries-manufacturing-silicon.html)
 
 ---
 
@@ -82,30 +64,12 @@
 
 ---
 
-### ⚖️ TSMC builds Kaohsiung hub to speed advanced packaging tests
-- **題材**: `半導體先進製程` | **重要性**: `68`
-- **來源**: Digitimes (2026-09-21T06:24:56Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: TSMC is building an advanced packaging validation hub in southern Taiwan as rapid chip-on-wafer-on-substrate (CoWoS) expansion puts pressure on equipment and materials suppliers to qualify new technologies faster.
-- [原文連結](https://www.digitimes.com/news/a20260921VL215/tsmc-packaging-equipment-kaohsiung-taiwan.html)
-
----
-
-### ⚖️ Elon Musk's SpaceXAI to add another 660,000 AI GPUs this year, nearing a total of 1.44 million in operation
-- **題材**: `AI伺服器` | **重要性**: `67`
-- **來源**: Tom's Hardware UK (2026-09-25T15:40:00Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Elon Musk says that the Colossus 2 will receive 220,000 GB300 GPUs by next week, with another two tranches of the same amount expected to arrive later this year. This will put the site at over a million AI GPUs, finally hitting the goal the billionaire set tw…
-- [原文連結](https://www.tomshardware.com/tech-industry/data-centers/elon-musks-spacexai-to-add-another-660-000-ai-gpus-this-year-nearing-a-total-of-1-44-million-in-operation-firm-is-building-1-2-gigawatt-power-plant-to-bring-systems-fully-online)
-
----
-
-### ⚖️ Tower Semiconductor to invest $4 billion in Japanese ops to set up massive optical connectivity hub
-- **題材**: `光通訊與矽光子` | **重要性**: `67`
-- **來源**: Tom's Hardware UK (2026-09-25T15:00:22Z)
+### ⚖️ Tower Semiconductor to make Japan its largest optical chip base
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-09-21T07:24:06Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Tower's new optical connectivity hub in Japan will increase its output by 40 times in 2029 compared to 2025 level.
-- [原文連結](https://www.tomshardware.com/tech-industry/photonics/tower-semiconductor-to-invest-usd4-billion-in-japanese-ops-to-set-up-massive-optical-connectivity-hub-dual-track-expansion-aims-to-increase-output-by-40-times-by-2029)
+- **摘要**: Tower Semiconductor plans to make Japan its largest manufacturing base for optical communications semiconductors after expanding silicon photonics (SiPh), silicon germanium (SiGe), and advanced packaging capacity in the Hokuriku region, as demand from AI data…
+- [原文連結](https://www.digitimes.com/news/a20260921VL217/tower-semiconductor-production-communications-silicon-manufacturing.html)
 
 ---
 
@@ -115,6 +79,15 @@
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: UK-based Nscale signed a deal with Spring (SG) Pte Ltd, which is a subsidiary of Chinese tech giant ByteDance. The company did not make any direct mention of the TikTok parent in its filings for a U.S. IPO, while a supporting document only labeled Spring as a…
 - [原文連結](https://www.tomshardware.com/tech-industry/data-centers/filing-reveals-how-bytedance-gained-access-to-over-2-000-nvidia-b200-chips-through-nscales-norway-data-center-singaporean-subsidiary-spring-contributed-73-percent-of-uk-neoclouds-2025-revenue)
+
+---
+
+### 🚀 Nvidia's next-gen RTX 60 GPUs might not be released until 2028, prominent leaker claims — gaming takes a back seat as company focuses on delivering data center products
+- **題材**: `AI伺服器` | **重要性**: `67`
+- **來源**: Tom's Hardware UK (2026-09-21T09:52:19Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Leaker Kopite7kimi claims that Nvidia's next-gen RTX 60 series may not be released until 2028, meaning that consumers will have to wait three years between GPU generations
+- [原文連結](https://www.tomshardware.com/pc-components/gpus/nvidias-next-gen-rtx-60-gpus-might-not-be-released-until-2028-prominent-leaker-claims-gaming-takes-a-back-seat-as-company-focuses-on-delivering-data-center-products)
 
 ---
 
@@ -178,6 +151,33 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Hanmi Semiconductor said on September 22 that it has shipped its first FC Bonder 75 to a customer, expanding the South Korean equipment maker's reach beyond high-bandwidth memory (HBM) into the broader system semiconductor packaging market.
 - [原文連結](https://www.digitimes.com/news/a20260922PD231/hanmi-packaging-equipment-hbm-osat.html)
+
+---
+
+### ⚖️ TSMC builds Kaohsiung hub to speed advanced packaging tests
+- **題材**: `半導體先進製程` | **重要性**: `63`
+- **來源**: Digitimes (2026-09-21T06:24:56Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: TSMC is building an advanced packaging validation hub in southern Taiwan as rapid chip-on-wafer-on-substrate (CoWoS) expansion puts pressure on equipment and materials suppliers to qualify new technologies faster.
+- [原文連結](https://www.digitimes.com/news/a20260921VL215/tsmc-packaging-equipment-kaohsiung-taiwan.html)
+
+---
+
+### ⚖️ Elon Musk's SpaceXAI to add another 660,000 AI GPUs this year, nearing a total of 1.44 million in operation
+- **題材**: `AI伺服器` | **重要性**: `62`
+- **來源**: Tom's Hardware UK (2026-09-25T15:40:00Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Elon Musk says that the Colossus 2 will receive 220,000 GB300 GPUs by next week, with another two tranches of the same amount expected to arrive later this year. This will put the site at over a million AI GPUs, finally hitting the goal the billionaire set tw…
+- [原文連結](https://www.tomshardware.com/tech-industry/data-centers/elon-musks-spacexai-to-add-another-660-000-ai-gpus-this-year-nearing-a-total-of-1-44-million-in-operation-firm-is-building-1-2-gigawatt-power-plant-to-bring-systems-fully-online)
+
+---
+
+### ⚖️ Tower Semiconductor to invest $4 billion in Japanese ops to set up massive optical connectivity hub
+- **題材**: `光通訊與矽光子` | **重要性**: `62`
+- **來源**: Tom's Hardware UK (2026-09-25T15:00:22Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Tower's new optical connectivity hub in Japan will increase its output by 40 times in 2029 compared to 2025 level.
+- [原文連結](https://www.tomshardware.com/tech-industry/photonics/tower-semiconductor-to-invest-usd4-billion-in-japanese-ops-to-set-up-massive-optical-connectivity-hub-dual-track-expansion-aims-to-increase-output-by-40-times-by-2029)
 
 ---
 
