@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-28T17:23:33.867482+00:00
+> 更新時間：2026-09-28T19:52:27.330044+00:00
 
 ### 🚀 AI drives Episil GeSi, PMIC growth
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -136,15 +136,6 @@
 
 ---
 
-### ⚠️ Rothschild Redburn Downgrades Nebius, CoreWeave to Sell on Lower GPU Prices
-- **題材**: `AI伺服器` | **重要性**: `65`
-- **來源**: 24/7 Wall St. (2026-09-21T18:56:19Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Rothschild Redburn just slapped Sell ratings on two of the hottest AI infrastructure plays in the market, and their reasoning cuts straight at the assumption...
-- [原文連結](https://247wallst.com/investing/2026/09/21/rothschild-redburn-downgrades-nebius-coreweave-to-sell-on-lower-gpu-prices/)
-
----
-
 ### ⚖️ Hanmi Semiconductor ships first FC Bonder 75 for 2.5D packaging
 - **題材**: `HBM記憶體` | **重要性**: `63`
 - **來源**: Digitimes (2026-09-22T06:56:26Z)
@@ -178,6 +169,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Tower's new optical connectivity hub in Japan will increase its output by 40 times in 2029 compared to 2025 level.
 - [原文連結](https://www.tomshardware.com/tech-industry/photonics/tower-semiconductor-to-invest-usd4-billion-in-japanese-ops-to-set-up-massive-optical-connectivity-hub-dual-track-expansion-aims-to-increase-output-by-40-times-by-2029)
+
+---
+
+### 🚀 GlobalFoundries reportedly sees strong demand for Chinese optical modules
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: The Next Web (2026-09-27T14:56:15Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: US chipmaker GlobalFoundries says demand for Chinese optical modules is strong as more data centres are built, one of its top bosses told the South China Morning Post. Ann Cao reported the interview from Shanghai on Sunday. Optical modules turn data into ligh…
+- [原文連結](https://thenextweb.com/news/globalfoundries-chinese-optical-modules-demand)
 
 ---
 
