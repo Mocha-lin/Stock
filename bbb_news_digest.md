@@ -1,14 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-29T18:20:52.745263+00:00
-
-### ⚖️ Meta Muse fuels agentic AI demand, tightening CPU supply
-- **題材**: `HBM記憶體` | **重要性**: `78`
-- **來源**: Digitimes (2026-09-27T04:23:16Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Meta's AI assistant Muse is drawing strong market response, and the rise of agentic AI is drawing attention to AI infrastructure shortages beyond GPUs and high-bandwidth memory (HBM), including server CPUs. The trend is lifting order demand for AMD and Intel …
-- [原文連結](https://www.digitimes.com/news/a20260924PD224/meta-cpu-amd-demand-packaging.html)
-
----
+> 更新時間：2026-09-29T22:43:16.388344+00:00
 
 ### 🚀 AI drives Episil GeSi, PMIC growth
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -119,6 +110,24 @@ The post Mizuho initiates Tower Semiconductor at Outperform with $300 price targ
 
 ---
 
+### 🚀 Gold falls amid rising oil prices and higher US dollar
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Al Jazeera English (2026-09-28T21:34:51Z)
+- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Gold hits seven-week low; silver follows suit and records a nearly 5 percent loss.
+- [原文連結](https://www.aljazeera.com/economy/2026/9/28/gold-falls-amid-rising-oil-prices-and-higher-us-dollar)
+
+---
+
+### ⚖️ Qualcomm confirms it wants to use Samsung's 2nm process
+- **題材**: `半導體先進製程` | **重要性**: `60`
+- **來源**: GSMArena.com (2026-09-28T18:21:02Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: A couple of weeks or so ago, a rumor surfaced about Qualcomm still being in talks with Samsung about the latter's 2nm process node, and possibly using Samsung Foundry to make some of the recently launched Snapdragon 8 Elite Gen 6 chips. That has not panned ou…
+- [原文連結](https://www.gsmarena.com/qualcomm_confirms_it_wants_to_use_samsungs_2nm_process-news-74797.php)
+
+---
+
 ### 🚀 GlobalFoundries reportedly sees strong demand for Chinese optical modules
 - **題材**: `光通訊與矽光子` | **重要性**: `60`
 - **來源**: The Next Web (2026-09-27T14:56:15Z)
@@ -170,15 +179,6 @@ The post Mizuho initiates Tower Semiconductor at Outperform with $300 price targ
 - **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Garett Senez's company Quark Baby is based in Canada and manufactured in China. The tariffs required him to switch up his supply chain to survive.
 - [原文連結](https://www.businessinsider.com/baby-business-china-canada-tariffs-impact-2026-9#article)
-
----
-
-### 🚀 This Magnificent Seven Stock Could Turn $10,000 Into $20,000 by 2027
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: 24/7 Wall St. (2026-09-23T15:00:09Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: One Magnificent Seven stock is quietly building a case that its biggest gains still lie ahead, and the math behind a potential doubling of your investment by...
-- [原文連結](https://247wallst.com/investing/2026/09/23/this-magnificent-seven-stock-could-turn-10000-into-20000-by-2027/)
 
 ---
 

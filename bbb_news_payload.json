@@ -1,45 +1,10 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-09-29T18:20:52.745263+00:00",
+  "generated_at": "2026-09-29T22:43:16.388344+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
-  "total_count": 72,
+  "total_count": 73,
   "items": [
-    {
-      "id": "2e02fb001acbb078",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "Meta Muse fuels agentic AI demand, tightening CPU supply",
-      "summary": "Meta's AI assistant Muse is drawing strong market response, and the rise of agentic AI is drawing attention to AI infrastructure shortages beyond GPUs and high-bandwidth memory (HBM), including server CPUs. The trend is lifting order demand for AMD and Intel …",
-      "original_title": "Meta Muse fuels agentic AI demand, tightening CPU supply",
-      "url": "https://www.digitimes.com/news/a20260924PD224/meta-cpu-amd-demand-packaging.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-09-27T04:23:16Z",
-      "importance": 78,
-      "impact": "neutral",
-      "timeframe": "short_to_mid_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
     {
       "id": "7efebe7042637e5e",
       "dataset": "market_news",
@@ -491,6 +456,82 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "cd10b2eb524b3ac8",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "Gold falls amid rising oil prices and higher US dollar",
+      "summary": "Gold hits seven-week low; silver follows suit and records a nearly 5 percent loss.",
+      "original_title": "Gold falls amid rising oil prices and higher US dollar",
+      "url": "https://www.aljazeera.com/economy/2026/9/28/gold-falls-amid-rising-oil-prices-and-higher-us-dollar",
+      "source": "Al Jazeera English",
+      "domain": "aljazeera.com",
+      "published_at": "2026-09-28T21:34:51Z",
+      "importance": 60,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "aa906e930bb25b06",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "Qualcomm confirms it wants to use Samsung's 2nm process",
+      "summary": "A couple of weeks or so ago, a rumor surfaced about Qualcomm still being in talks with Samsung about the latter's 2nm process node, and possibly using Samsung Foundry to make some of the recently launched Snapdragon 8 Elite Gen 6 chips. That has not panned ou…",
+      "original_title": "Qualcomm confirms it wants to use Samsung's 2nm process",
+      "url": "https://www.gsmarena.com/qualcomm_confirms_it_wants_to_use_samsungs_2nm_process-news-74797.php",
+      "source": "GSMArena.com",
+      "domain": "gsmarena.com",
+      "published_at": "2026-09-28T18:21:02Z",
+      "importance": 60,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "3487eb46e8837bf1",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -906,6 +947,41 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "48230a57294c8505",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "SiMa.ai raises $150m at a $1.45bn valuation for physical AI chips",
+      "summary": "SiMa.ai has raised $150m in a Series C round that values the company at $1.45bn, it announced on Monday. The San Jose startup makes chips and software that let robots, drones and cars run AI on the device itself. Fidelity Management & Research Company and Amp…",
+      "original_title": "SiMa.ai raises $150m at a $1.45bn valuation for physical AI chips",
+      "url": "https://thenextweb.com/news/sima-ai-150m-series-c-1-45bn-valuation-physical-ai",
+      "source": "The Next Web",
+      "domain": "thenextweb.com",
+      "published_at": "2026-09-28T19:27:32Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "37e123e2d9332ace",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1031,44 +1107,6 @@
       "source": "The Next Web",
       "domain": "thenextweb.com",
       "published_at": "2026-09-27T18:16:51Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "bd661ef2c39bb23b",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "AMD might finally have the GPU Nvidia forgot to make",
-      "summary": "AMD's rumored AT2 is meant to be the RTX 5080 Super that is never coming out.",
-      "original_title": "AMD might finally have the GPU Nvidia forgot to make",
-      "url": "https://www.makeuseof.com/amd-might-finally-have-the-gpu-nvidia-forgot-to-make/",
-      "source": "MakeUseOf",
-      "domain": "makeuseof.com",
-      "published_at": "2026-09-26T18:30:14Z",
       "importance": 55,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -1318,79 +1356,6 @@
       "reason": "屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "e1e37ba410c59605",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "The Motorola Signature 27 is coming for Android's best flagships with some wild specs",
-      "summary": "Motorola's Signature 27 pairs Qualcomm's new 2nm Snapdragon flagship chip with a 200MP telephoto camera and upgraded cooling.",
-      "original_title": "The Motorola Signature 27 is coming for Android's best flagships with some wild specs",
-      "url": "https://www.androidcentral.com/phones/motorola/this-is-motorola-snapdragon-8-elite-extreme-gen-6-smartphone-moto-signature-27",
-      "source": "Android Central",
-      "domain": "androidcentral.com",
-      "published_at": "2026-09-22T20:00:00Z",
-      "importance": 55,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "6b73e48ae1232849",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "'We just don't see that there's enough technical people in the pipeline': US chip fabs are facing a huge worker shortfall — despite promise of huge paychecks, industry says it still needs over 150,000 workers",
-      "summary": "America is struggling to fill its semiconductor manufacturing facilities, but it's offering to pay workers six-figure salaries.",
-      "original_title": "'We just don't see that there's enough technical people in the pipeline': US chip fabs are facing a huge worker shortfall — despite promise of huge paychecks, industry says it still needs over 150,000 workers",
-      "url": "https://www.techradar.com/pro/we-just-dont-see-that-theres-enough-technical-people-in-the-pipeline-us-chip-fabs-are-facing-a-huge-worker-shortfall-despite-promise-of-huge-paychecks-industry-says-it-still-needs-over-150-000-workers",
-      "source": "TechRadar",
-      "domain": "techradar.com",
-      "published_at": "2026-09-22T18:55:00Z",
-      "importance": 55,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "d03e66b5daf442a6",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1459,6 +1424,44 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "bd661ef2c39bb23b",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "AMD might finally have the GPU Nvidia forgot to make",
+      "summary": "AMD's rumored AT2 is meant to be the RTX 5080 Super that is never coming out.",
+      "original_title": "AMD might finally have the GPU Nvidia forgot to make",
+      "url": "https://www.makeuseof.com/amd-might-finally-have-the-gpu-nvidia-forgot-to-make/",
+      "source": "MakeUseOf",
+      "domain": "makeuseof.com",
+      "published_at": "2026-09-26T18:30:14Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "6cd6b9dc9fab55b8",
@@ -1914,7 +1917,7 @@
       "id": "5fd37848e33fb845",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
+      "theme": "HBM記憶體",
       "title": "Asia's AI boom is spilling out of the stock market and into luxury spending",
       "summary": "Chipmakers sparked North Asia's AI boom. Retailers and luxury brands are reaping the rewards.",
       "original_title": "Asia's AI boom is spilling out of the stock market and into luxury spending",
@@ -1926,17 +1929,14 @@
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
+        "HBM",
+        "記憶體"
       ],
       "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
       ],
       "related_models": [
         "003",
@@ -1946,7 +1946,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "75bcaeb486b88c15",
@@ -2022,95 +2022,19 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "ec3f91de34a75a82",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Apple weighs its first server since the Xserve, and as always, Nvidia may hold the key",
-      "summary": "The chip might matter less than the wiring between chips, and that is where Nvidia comes into play.",
-      "original_title": "Apple weighs its first server since the Xserve, and as always, Nvidia may hold the key",
-      "url": "https://www.techradar.com/pro/apple-weighs-its-first-server-since-the-xserve-and-as-always-nvidia-may-hold-the-key",
-      "source": "TechRadar",
-      "domain": "techradar.com",
-      "published_at": "2026-09-22T22:15:00Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "d0a8a949c058f4b4",
+      "id": "e1e37ba410c59605",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "半導體先進製程",
-      "title": "Qualcomm Takes on the iPhone 18 Pro With Its Most ‘Extreme’ Chip Yet",
-      "summary": "The Snapdragon 8 Elite Gen 6 is not even the company's flagship anymore, and I want you to guess what makes it so ‘extreme.’",
-      "original_title": "Qualcomm Takes on the iPhone 18 Pro With Its Most ‘Extreme’ Chip Yet",
-      "url": "https://gizmodo.com/qualcomm-takes-on-the-iphone-18-pro-with-its-most-extreme-chip-yet-2000814816",
-      "source": "Gizmodo.com",
-      "domain": "gizmodo.com",
-      "published_at": "2026-09-22T20:00:41Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "bc8a7e2ac7a83001",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "Snapdragon 8 Elite Extreme Gen 6 is coming for the top Android phones",
-      "summary": "Qualcomm’s new Snapdragon 8 Elite Extreme processor wants to run AI agents directly on your phone.",
-      "original_title": "Snapdragon 8 Elite Extreme Gen 6 is coming for the top Android phones",
-      "url": "https://www.androidcentral.com/phones/qualcomm/snapdragon-8-elite-extreme-gen-6-is-coming-for-the-top-android-phones",
+      "title": "The Motorola Signature 27 is coming for Android's best flagships with some wild specs",
+      "summary": "Motorola's Signature 27 pairs Qualcomm's new 2nm Snapdragon flagship chip with a 200MP telephoto camera and upgraded cooling.",
+      "original_title": "The Motorola Signature 27 is coming for Android's best flagships with some wild specs",
+      "url": "https://www.androidcentral.com/phones/motorola/this-is-motorola-snapdragon-8-elite-extreme-gen-6-smartphone-moto-signature-27",
       "source": "Android Central",
       "domain": "androidcentral.com",
       "published_at": "2026-09-22T20:00:00Z",
       "importance": 50,
-      "impact": "neutral",
+      "impact": "positive",
       "timeframe": "short_term",
       "tags": [
         "半導體",
@@ -2133,35 +2057,32 @@
         "009",
         "010"
       ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "dd157cc4f9d26201",
+      "id": "6b73e48ae1232849",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "Qualcomm’s New Chips Power AI and 8K Video for Top Android Phones — and They’re Coming Soon",
-      "summary": "A pair of top-tier Snapdragon chips will empower AI, boost graphics and enable 8K video in next year’s phones.",
-      "original_title": "Qualcomm’s New Chips Power AI and 8K Video for Top Android Phones — and They’re Coming Soon",
-      "url": "https://www.cnet.com/tech/computing/qualcomm-snapdragon-8-elite-extreme-gen-6-chips-ai-8k-video-android-phones/",
-      "source": "CNET",
-      "domain": "cnet.com",
-      "published_at": "2026-09-22T20:00:00Z",
+      "theme": "HBM記憶體",
+      "title": "'We just don't see that there's enough technical people in the pipeline': US chip fabs are facing a huge worker shortfall — despite promise of huge paychecks, industry says it still needs over 150,000 workers",
+      "summary": "America is struggling to fill its semiconductor manufacturing facilities, but it's offering to pay workers six-figure salaries.",
+      "original_title": "'We just don't see that there's enough technical people in the pipeline': US chip fabs are facing a huge worker shortfall — despite promise of huge paychecks, industry says it still needs over 150,000 workers",
+      "url": "https://www.techradar.com/pro/we-just-dont-see-that-theres-enough-technical-people-in-the-pipeline-us-chip-fabs-are-facing-a-huge-worker-shortfall-despite-promise-of-huge-paychecks-industry-says-it-still-needs-over-150-000-workers",
+      "source": "TechRadar",
+      "domain": "techradar.com",
+      "published_at": "2026-09-22T18:55:00Z",
       "importance": 50,
-      "impact": "neutral",
+      "impact": "negative",
       "timeframe": "short_term",
       "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
+        "HBM",
+        "記憶體"
       ],
       "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
       ],
       "related_models": [
         "003",
@@ -2171,7 +2092,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "16d2000deba5aa79",
@@ -2210,44 +2131,6 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "eff568b7a37fe580",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "Rubio says Ukraine unintentionally hit 'American-linked' oil infrastructure",
-      "summary": "Secretary of State Marco Rubio alleged U.S.-linked oil infrastructure has been targeted in recent weeks by Ukraine amid its war with Russia in an interview with Fox News.",
-      "original_title": "Rubio says Ukraine unintentionally hit 'American-linked' oil infrastructure",
-      "url": "https://abcnews.com/International/rubio-ukraine-unintentionally-hit-american-linked-oil-infrastructure/story?id=136648660",
-      "source": "Abcnews.com",
-      "domain": "abcnews.com",
-      "published_at": "2026-09-22T15:44:16Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "a7bc4535628dc10b",
@@ -2411,6 +2294,158 @@
       "domain": "theverge.com",
       "published_at": "2026-09-22T16:25:43Z",
       "importance": 48,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
+    },
+    {
+      "id": "ec3f91de34a75a82",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Apple weighs its first server since the Xserve, and as always, Nvidia may hold the key",
+      "summary": "The chip might matter less than the wiring between chips, and that is where Nvidia comes into play.",
+      "original_title": "Apple weighs its first server since the Xserve, and as always, Nvidia may hold the key",
+      "url": "https://www.techradar.com/pro/apple-weighs-its-first-server-since-the-xserve-and-as-always-nvidia-may-hold-the-key",
+      "source": "TechRadar",
+      "domain": "techradar.com",
+      "published_at": "2026-09-22T22:15:00Z",
+      "importance": 45,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
+    },
+    {
+      "id": "d0a8a949c058f4b4",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "Qualcomm Takes on the iPhone 18 Pro With Its Most ‘Extreme’ Chip Yet",
+      "summary": "The Snapdragon 8 Elite Gen 6 is not even the company's flagship anymore, and I want you to guess what makes it so ‘extreme.’",
+      "original_title": "Qualcomm Takes on the iPhone 18 Pro With Its Most ‘Extreme’ Chip Yet",
+      "url": "https://gizmodo.com/qualcomm-takes-on-the-iphone-18-pro-with-its-most-extreme-chip-yet-2000814816",
+      "source": "Gizmodo.com",
+      "domain": "gizmodo.com",
+      "published_at": "2026-09-22T20:00:41Z",
+      "importance": 45,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
+    },
+    {
+      "id": "bc8a7e2ac7a83001",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "Snapdragon 8 Elite Extreme Gen 6 is coming for the top Android phones",
+      "summary": "Qualcomm’s new Snapdragon 8 Elite Extreme processor wants to run AI agents directly on your phone.",
+      "original_title": "Snapdragon 8 Elite Extreme Gen 6 is coming for the top Android phones",
+      "url": "https://www.androidcentral.com/phones/qualcomm/snapdragon-8-elite-extreme-gen-6-is-coming-for-the-top-android-phones",
+      "source": "Android Central",
+      "domain": "androidcentral.com",
+      "published_at": "2026-09-22T20:00:00Z",
+      "importance": 45,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
+    },
+    {
+      "id": "dd157cc4f9d26201",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "Qualcomm’s New Chips Power AI and 8K Video for Top Android Phones — and They’re Coming Soon",
+      "summary": "A pair of top-tier Snapdragon chips will empower AI, boost graphics and enable 8K video in next year’s phones.",
+      "original_title": "Qualcomm’s New Chips Power AI and 8K Video for Top Android Phones — and They’re Coming Soon",
+      "url": "https://www.cnet.com/tech/computing/qualcomm-snapdragon-8-elite-extreme-gen-6-chips-ai-8k-video-android-phones/",
+      "source": "CNET",
+      "domain": "cnet.com",
+      "published_at": "2026-09-22T20:00:00Z",
+      "importance": 45,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
