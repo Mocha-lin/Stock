@@ -1,10 +1,45 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-09-28T19:52:27.330044+00:00",
+  "generated_at": "2026-09-29T02:29:48.773391+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 72,
   "items": [
+    {
+      "id": "2e02fb001acbb078",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "Meta Muse fuels agentic AI demand, tightening CPU supply",
+      "summary": "Meta's AI assistant Muse is drawing strong market response, and the rise of agentic AI is drawing attention to AI infrastructure shortages beyond GPUs and high-bandwidth memory (HBM), including server CPUs. The trend is lifting order demand for AMD and Intel …",
+      "original_title": "Meta Muse fuels agentic AI demand, tightening CPU supply",
+      "url": "https://www.digitimes.com/news/a20260924PD224/meta-cpu-amd-demand-packaging.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-09-27T04:23:16Z",
+      "importance": 78,
+      "impact": "neutral",
+      "timeframe": "short_to_mid_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
     {
       "id": "7efebe7042637e5e",
       "dataset": "market_news",
@@ -266,32 +301,32 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "915d2e91e7f8c47d",
+      "id": "6304df8e31abae41",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "Tower Semiconductor to make Japan its largest optical chip base",
-      "summary": "Tower Semiconductor plans to make Japan its largest manufacturing base for optical communications semiconductors after expanding silicon photonics (SiPh), silicon germanium (SiGe), and advanced packaging capacity in the Hokuriku region, as demand from AI data…",
-      "original_title": "Tower Semiconductor to make Japan its largest optical chip base",
-      "url": "https://www.digitimes.com/news/a20260921VL217/tower-semiconductor-production-communications-silicon-manufacturing.html",
+      "theme": "半導體先進製程",
+      "title": "TSMC anchors Kaohsiung's Baipu Park as ASE expansion spurs phase-two development",
+      "summary": "Rising demand for advanced packaging tied to AI and high-performance computing (HPC) is driving development at Baipu Industrial Park in Kaohsiung, where construction has formally begun on what is billed as Taiwan's first advanced packaging supply-chain cluste…",
+      "original_title": "TSMC anchors Kaohsiung's Baipu Park as ASE expansion spurs phase-two development",
+      "url": "https://www.digitimes.com/news/a20260922PD212/packaging-tsmc-ase-kaohsiung-demand.html",
       "source": "Digitimes",
       "domain": "digitimes.com",
-      "published_at": "2026-09-21T07:24:06Z",
+      "published_at": "2026-09-22T03:58:07Z",
       "importance": 68,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
+        "半導體",
+        "CoWoS",
+        "先進製程"
       ],
       "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
       ],
       "related_models": [
         "003",
@@ -301,7 +336,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "16c486ea7749dc9c",
@@ -340,44 +375,6 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "906a299a1264c4da",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Nvidia's next-gen RTX 60 GPUs might not be released until 2028, prominent leaker claims — gaming takes a back seat as company focuses on delivering data center products",
-      "summary": "Leaker Kopite7kimi claims that Nvidia's next-gen RTX 60 series may not be released until 2028, meaning that consumers will have to wait three years between GPU generations",
-      "original_title": "Nvidia's next-gen RTX 60 GPUs might not be released until 2028, prominent leaker claims — gaming takes a back seat as company focuses on delivering data center products",
-      "url": "https://www.tomshardware.com/pc-components/gpus/nvidias-next-gen-rtx-60-gpus-might-not-be-released-until-2028-prominent-leaker-claims-gaming-takes-a-back-seat-as-company-focuses-on-delivering-data-center-products",
-      "source": "Tom's Hardware UK",
-      "domain": "tomshardware.com",
-      "published_at": "2026-09-21T09:52:19Z",
-      "importance": 67,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "e1f545d47de3dda1",
@@ -494,6 +491,44 @@
       "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "4856e0393057e906",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "Mizuho initiates Tower Semiconductor at Outperform with $300 price target, citing AI optical connectivity boom",
+      "summary": "Tower Semiconductor's strategic positioning in AI optical connectivity could significantly enhance its market influence and financial growth.\nThe post Mizuho initiates Tower Semiconductor at Outperform with $300 price target, citing AI optical connectivity bo…",
+      "original_title": "Mizuho initiates Tower Semiconductor at Outperform with $300 price target, citing AI optical connectivity boom",
+      "url": "https://cryptobriefing.com/mizuho-tower-semiconductor-outperform-ai-optics/",
+      "source": "Crypto Briefing",
+      "domain": "cryptobriefing.com",
+      "published_at": "2026-09-25T11:36:05Z",
+      "importance": 65,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "08b89820a9523ab9",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -605,32 +640,32 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "ffa34dcbcaa54026",
+      "id": "f5cb978eb7d24810",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "TSMC builds Kaohsiung hub to speed advanced packaging tests",
-      "summary": "TSMC is building an advanced packaging validation hub in southern Taiwan as rapid chip-on-wafer-on-substrate (CoWoS) expansion puts pressure on equipment and materials suppliers to qualify new technologies faster.",
-      "original_title": "TSMC builds Kaohsiung hub to speed advanced packaging tests",
-      "url": "https://www.digitimes.com/news/a20260921VL215/tsmc-packaging-equipment-kaohsiung-taiwan.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-09-21T06:24:56Z",
-      "importance": 63,
+      "theme": "光通訊與矽光子",
+      "title": "Novel attack slashes computing power needed to crack textbook RSA cryptography",
+      "summary": "Not very practical yet, but could serve as the basis for future improvements.",
+      "original_title": "Novel attack slashes computing power needed to crack textbook RSA cryptography",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/novel-attack-on-rsa-cryptography-might-bring-computation-requirements-for-cracking-down-to-manageable-levels",
+      "source": "Tom's Hardware UK",
+      "domain": "tomshardware.com",
+      "published_at": "2026-09-26T12:00:00Z",
+      "importance": 62,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
+        "光通訊",
+        "CPO",
+        "矽光子"
       ],
       "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
       ],
       "related_models": [
         "003",
@@ -640,7 +675,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "f692f4acdaf5a578",
@@ -757,6 +792,44 @@
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "752ce3ce6f5eb373",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "Can Credo Technology (CRDO) Turn 1.6T Optical Transceivers Into Its Next AI Growth Driver?",
+      "summary": "Credo Technology Group Holding Ltd (NASDAQ:CRDO) just broadened its ZeroFlap (ZF) optical transceiver offerings with a new 224G-based lineup. This move positions the company strongly within the ongoing AI network buildout, which is witnessing breakout demand …",
+      "original_title": "Can Credo Technology (CRDO) Turn 1.6T Optical Transceivers Into Its Next AI Growth Driver?",
+      "url": "https://biztoc.com/x/03f2deb2c7a657b9",
+      "source": "Biztoc.com",
+      "domain": "biztoc.com",
+      "published_at": "2026-09-27T10:04:08Z",
+      "importance": 60,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "62f68763aba5f49f",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -793,6 +866,44 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "63fcdc2a667d2334",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "This Magnificent Seven Stock Could Turn $10,000 Into $20,000 by 2027",
+      "summary": "One Magnificent Seven stock is quietly building a case that its biggest gains still lie ahead, and the math behind a potential doubling of your investment by...",
+      "original_title": "This Magnificent Seven Stock Could Turn $10,000 Into $20,000 by 2027",
+      "url": "https://247wallst.com/investing/2026/09/23/this-magnificent-seven-stock-could-turn-10000-into-20000-by-2027/",
+      "source": "24/7 Wall St.",
+      "domain": "247wallst.com",
+      "published_at": "2026-09-23T15:00:09Z",
+      "importance": 60,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "d03e66b5daf442a6",
@@ -865,32 +976,32 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "f1c1583356f0efe1",
+      "id": "f4c5c683a54fe2c8",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Rothschild Redburn Downgrades Nebius, CoreWeave to Sell on Lower GPU Prices",
-      "summary": "Rothschild Redburn just slapped Sell ratings on two of the hottest AI infrastructure plays in the market, and their reasoning cuts straight at the assumption...",
-      "original_title": "Rothschild Redburn Downgrades Nebius, CoreWeave to Sell on Lower GPU Prices",
-      "url": "https://247wallst.com/investing/2026/09/21/rothschild-redburn-downgrades-nebius-coreweave-to-sell-on-lower-gpu-prices/",
-      "source": "24/7 Wall St.",
-      "domain": "247wallst.com",
-      "published_at": "2026-09-21T18:56:19Z",
-      "importance": 60,
-      "impact": "negative",
+      "theme": "總體風險",
+      "title": "Inside Yemen's front-line city as Houthis battle for control",
+      "summary": "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers.",
+      "original_title": "Inside Yemen's front-line city as Houthis battle for control",
+      "url": "https://www.bbc.co.uk/news/articles/cw98005ndz7no",
+      "source": "BBC News",
+      "domain": "bbc.co.uk",
+      "published_at": "2026-09-27T21:16:31Z",
+      "importance": 55,
+      "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
       ],
       "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
       ],
       "related_models": [
         "003",
@@ -900,7 +1011,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "8d46487c4ff33377",
@@ -941,6 +1052,82 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "bd661ef2c39bb23b",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "AMD might finally have the GPU Nvidia forgot to make",
+      "summary": "AMD's rumored AT2 is meant to be the RTX 5080 Super that is never coming out.",
+      "original_title": "AMD might finally have the GPU Nvidia forgot to make",
+      "url": "https://www.makeuseof.com/amd-might-finally-have-the-gpu-nvidia-forgot-to-make/",
+      "source": "MakeUseOf",
+      "domain": "makeuseof.com",
+      "published_at": "2026-09-26T18:30:14Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "aa8740350888e564",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "Apple Watch Series 12 one week later: There’s so much more than meets the eye",
+      "summary": "When Apple unveiled the Apple Watch Series 12, two features stood out: the new Siri Recap feature, as well as the much improved heart rate monitor. While those two features were part of the reason I was compelled to buy the new Apple Watch, I’ve found myself …",
+      "original_title": "Apple Watch Series 12 one week later: There’s so much more than meets the eye",
+      "url": "https://9to5mac.com/2026/09/26/apple-watch-series-12-one-week-later/",
+      "source": "9to5Mac",
+      "domain": "9to5mac.com",
+      "published_at": "2026-09-26T16:59:27Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "98bdda3e89cb45e6",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -974,6 +1161,44 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "c60dac534a7c26ce",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "SpaceX Beating Bull Case- Adding 880,000 chips in four month, 500MW Per Month (Elon Confirmed)",
+      "summary": "SpaceX will have FIVE Giant AI data centers completed by the end of 2026. The LEAD. SHOCKING NEWS. They are serial producing 450 MW AI data centers taking 4 months to build from start to finish with chips installed. They will work at four at time to complete …",
+      "original_title": "SpaceX Beating Bull Case- Adding 880,000 chips in four month, 500MW Per Month (Elon Confirmed)",
+      "url": "https://www.nextbigfuture.com/2026/09/spacex-beating-bull-case-adding-880000-chips-in-four-month-500mw-per-month-elon-confirmed.html",
+      "source": "Next Big Future",
+      "domain": "nextbigfuture.com",
+      "published_at": "2026-09-25T08:04:59Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "15a5307d885c83a6",
@@ -1347,6 +1572,44 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "6b801e0ca6be3731",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "New Mac Mini and Mac Studio Now Available for Same-Day Pickup at Apple Stores",
+      "summary": "Apple launches its new Mac mini and Mac Studio models today in 30 countries and regions, including the U.S, and same-day pickup is now available at many Apple Store locations.\n\n\n\n\n\nTo order a product with ‌Apple Store‌ pickup, add the product to your bag on A…",
+      "original_title": "New Mac Mini and Mac Studio Now Available for Same-Day Pickup at Apple Stores",
+      "url": "https://www.macrumors.com/2026/09/22/new-mac-mini-mac-studio-same-day-pickup/",
+      "source": "MacRumors",
+      "domain": "macrumors.com",
+      "published_at": "2026-09-22T12:00:42Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "0e63f6b513983ce8",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1383,120 +1646,6 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "c733a3a0ebf7e7c2",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "1.58-million-staff Amazon will soon have more Nvidia GPUs than employees — AWS to buy more than 3 million additional chips before 2029 in addition to thousands of existing H100, H200",
-      "summary": "Amazon has fewer employees than the more than 3 million Nvidia GPUs on order for delivery before 2029, even as its Trainium3 chips are already nearly fully subscribed.",
-      "original_title": "1.58-million-staff Amazon will soon have more Nvidia GPUs than employees — AWS to buy more than 3 million additional chips before 2029 in addition to thousands of existing H100, H200",
-      "url": "https://www.techradar.com/pro/1-58-million-staff-amazon-will-soon-have-more-nvidia-gpus-than-employees-aws-to-buy-more-than-3-million-additional-chips-before-2029-in-addition-to-thousands-of-existing-h100-h200",
-      "source": "TechRadar",
-      "domain": "techradar.com",
-      "published_at": "2026-09-21T20:15:00Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "94c301359e8ff1c2",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "I Help Clients Turn Idle Cash Into Cash-Flowing Assets. Here’s Why ‘Idle’ Is the Most Expensive Word in Investing.",
-      "summary": "Let's break down what inflation and low interest rates are doing to idle money right now and why \"safe\" and \"stagnant\" are not the same thing.",
-      "original_title": "I Help Clients Turn Idle Cash Into Cash-Flowing Assets. Here’s Why ‘Idle’ Is the Most Expensive Word in Investing.",
-      "url": "https://www.entrepreneur.com/building-a-business/i-help-clients-turn-idle-cash-into-cash-flowing-assets-heres-why-idle-is-the-most-expensive-word-in-investing",
-      "source": "Entrepreneur",
-      "domain": "entrepreneur.com",
-      "published_at": "2026-09-21T20:00:00Z",
-      "importance": 55,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "229c91ac0e9dc494",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "E-waste from AI boom and building data centers could stretch six times around the Earth by 2050, report warns",
-      "summary": "New report reveals just how much AI data center e-waste is likely unaccounted for, and how much each campus likely uses.",
-      "original_title": "E-waste from AI boom and building data centers could stretch six times around the Earth by 2050, report warns",
-      "url": "https://www.techradar.com/pro/e-waste-from-ai-boom-and-building-data-centers-could-stretch-six-times-around-the-earth-by-2050-report-warns",
-      "source": "TechRadar",
-      "domain": "techradar.com",
-      "published_at": "2026-09-21T17:00:00Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "36e2e2d67641ee70",
@@ -1573,6 +1722,44 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "a646a9710a3f1091",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Vox’s Unexplainable and Scientific American explore the mystery of dark matter and the limits of science",
+      "summary": "What if the universe’s biggest mystery has no answer?",
+      "original_title": "Vox’s Unexplainable and Scientific American explore the mystery of dark matter and the limits of science",
+      "url": "https://www.scientificamerican.com/podcast/episode/voxs-unexplainable-and-scientific-american-explore-the-mystery-of-dark-matter-and-the-limits-of-science/",
+      "source": "Scientific American",
+      "domain": "scientificamerican.com",
+      "published_at": "2026-09-25T10:00:00Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "c7c655c87cd05db0",
@@ -1687,6 +1874,44 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "2dce435ff7aad784",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "Trump set to greet Xi for high-stakes state visit",
+      "summary": "It is the second time the leaders are meeting this year after the Beijing summit in May.",
+      "original_title": "Trump set to greet Xi for high-stakes state visit",
+      "url": "https://www.npr.org/2026/09/23/nx-s1-5978733/trump-xi-meeting-china",
+      "source": "NPR",
+      "domain": "npr.org",
+      "published_at": "2026-09-23T18:23:19Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "309846c66bbacb71",
@@ -1952,7 +2177,7 @@
       "id": "5fd37848e33fb845",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
+      "theme": "半導體先進製程",
       "title": "Asia's AI boom is spilling out of the stock market and into luxury spending",
       "summary": "Chipmakers sparked North Asia's AI boom. Retailers and luxury brands are reaping the rewards.",
       "original_title": "Asia's AI boom is spilling out of the stock market and into luxury spending",
@@ -1964,14 +2189,17 @@
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "HBM",
-        "記憶體"
+        "半導體",
+        "CoWoS",
+        "先進製程"
       ],
       "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
       ],
       "related_models": [
         "003",
@@ -1981,7 +2209,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "75bcaeb486b88c15",
@@ -2017,6 +2245,82 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "81adbb3c5dc65052",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "This Little-Known AI Chip Stock Doubled. Its New Chips Now Double Optical Speed",
+      "summary": "MACOM Technology Solutions is suddenly giving investors two numbers to think about: its stock has more than doubled over the past year, and its newest optica...",
+      "original_title": "This Little-Known AI Chip Stock Doubled. Its New Chips Now Double Optical Speed",
+      "url": "https://finance.yahoo.com/technology/ai/articles/little-known-ai-chip-stock-042916921.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-09-23T04:29:16Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "ec3f91de34a75a82",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Apple weighs its first server since the Xserve, and as always, Nvidia may hold the key",
+      "summary": "The chip might matter less than the wiring between chips, and that is where Nvidia comes into play.",
+      "original_title": "Apple weighs its first server since the Xserve, and as always, Nvidia may hold the key",
+      "url": "https://www.techradar.com/pro/apple-weighs-its-first-server-since-the-xserve-and-as-always-nvidia-may-hold-the-key",
+      "source": "TechRadar",
+      "domain": "techradar.com",
+      "published_at": "2026-09-22T22:15:00Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "d0a8a949c058f4b4",
@@ -2067,6 +2371,44 @@
       "url": "https://www.androidcentral.com/phones/qualcomm/snapdragon-8-elite-extreme-gen-6-is-coming-for-the-top-android-phones",
       "source": "Android Central",
       "domain": "androidcentral.com",
+      "published_at": "2026-09-22T20:00:00Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "dd157cc4f9d26201",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "Qualcomm’s New Chips Power AI and 8K Video for Top Android Phones — and They’re Coming Soon",
+      "summary": "A pair of top-tier Snapdragon chips will empower AI, boost graphics and enable 8K video in next year’s phones.",
+      "original_title": "Qualcomm’s New Chips Power AI and 8K Video for Top Android Phones — and They’re Coming Soon",
+      "url": "https://www.cnet.com/tech/computing/qualcomm-snapdragon-8-elite-extreme-gen-6-chips-ai-8k-video-android-phones/",
+      "source": "CNET",
+      "domain": "cnet.com",
       "published_at": "2026-09-22T20:00:00Z",
       "importance": 50,
       "impact": "neutral",
@@ -2356,348 +2698,6 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "2d3d3a9624bdae3a",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "M6 Mac Mini First Look: Bigger Power Packed in the Same Small Package",
-      "summary": "People will be clawing to get Apple’s latest and tiniest Mac.",
-      "original_title": "M6 Mac Mini First Look: Bigger Power Packed in the Same Small Package",
-      "url": "https://www.cnet.com/tech/computing/m6-mac-mini-first-look-bigger-power-packed-in-same-small-package/",
-      "source": "CNET",
-      "domain": "cnet.com",
-      "published_at": "2026-09-21T13:00:04Z",
-      "importance": 50,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "8b0d1c0d057f177f",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "Marvell demos 2nm optical interconnects for 3.2T AI data center links at ECOC 2026",
-      "summary": "Marvell's 2nm optical interconnects could revolutionize AI data centers by significantly enhancing bandwidth efficiency and reducing energy use.\nThe post Marvell demos 2nm optical interconnects for 3.2T AI data center links at ECOC 2026 appeared first on Cryp…",
-      "original_title": "Marvell demos 2nm optical interconnects for 3.2T AI data center links at ECOC 2026",
-      "url": "https://cryptobriefing.com/marvell-2nm-optics-3-2t-ecoc/",
-      "source": "Crypto Briefing",
-      "domain": "cryptobriefing.com",
-      "published_at": "2026-09-21T11:21:26Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "d4ee3ce751320af8",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "Vivo’s X500 Pro Max has 17 stops of dynamic range and 4K240 slo-mo",
-      "summary": "Vivo's new X500 flagship phones have arrived in China, and as usual the company's focus is firmly on photography. The X500 Pro Max - a new tier in its lineup - is the first phone to use new sensors and silicon from Sony and MediaTek that enable impressive dyn…",
-      "original_title": "Vivo’s X500 Pro Max has 17 stops of dynamic range and 4K240 slo-mo",
-      "url": "https://www.theverge.com/gadgets/998165/vivo-x500-pro-max-launch-specs-release-date-lofic-china",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "published_at": "2026-09-21T13:17:49Z",
-      "importance": 48,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "b46ed06d1c6a93ed",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "Jim Cramer on Credo (CRDO): “I Think You Can Buy the Stock”",
-      "summary": "On September 17, during the lightning round of Mad Money, a caller asked whether to buy, hold, or sell Credo Technology Group Holding Ltd (NASDAQ:CRDO) when...",
-      "original_title": "Jim Cramer on Credo (CRDO): “I Think You Can Buy the Stock”",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-credo-crdo-think-193721036.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-09-21T19:37:21Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "549d00020b8772b1",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "Vivo's X500 Pro Max just became the camera phone to beat",
-      "summary": "Vivo just unveiled the X500 Pro Max in China, and the phone will make its way to global markets later in the year. With a bigger OLED panel, massive battery, and groundbreaking cameras, it's clear that the X500 Pro Max is a true powerhouse.",
-      "original_title": "Vivo's X500 Pro Max just became the camera phone to beat",
-      "url": "https://www.androidcentral.com/phones/vivo/vivo-unleashes-the-x500-pro-max-launch-pricing-availability",
-      "source": "Android Central",
-      "domain": "androidcentral.com",
-      "published_at": "2026-09-21T14:01:38Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "3c38c49a7a4b9a76",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "The Missing Piece to the Googlebook Puzzle Could—Hopefully—Make a Cheap Laptop",
-      "summary": "A sub-$1,000 Googlebook may be on the horizon if we can get a laptop with this chip.",
-      "original_title": "The Missing Piece to the Googlebook Puzzle Could—Hopefully—Make a Cheap Laptop",
-      "url": "https://gizmodo.com/the-missing-piece-to-the-googlebook-puzzle-could-hopefully-make-a-cheap-laptop-2000814315",
-      "source": "Gizmodo.com",
-      "domain": "gizmodo.com",
-      "published_at": "2026-09-21T13:00:11Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "3ff4ce313a8d68f4",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "MediaTek's new 3nm chip wants to power fanless, AI-first Googlebooks",
-      "summary": "MediaTek's Dimensity CX C10 Max is the company's first high-end laptop chip, and it's headed for premium AI-first Googlebooks.",
-      "original_title": "MediaTek's new 3nm chip wants to power fanless, AI-first Googlebooks",
-      "url": "https://www.androidcentral.com/chromebooks-laptops/mediateks-new-3nm-chip-wants-to-power-fanless-ai-first-googlebooks",
-      "source": "Android Central",
-      "domain": "androidcentral.com",
-      "published_at": "2026-09-21T13:00:00Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "56cbdee06b2a9e7e",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "The US has proposed an AI incident alert system to China",
-      "summary": "The United States has proposed that Washington and Beijing notify each other of AI incidents serious enough to qualify as national security events, an idea Treasury Secretary Scott Bessent put forward to Chinese officials during talks in Manhattan on Sunday. …",
-      "original_title": "The US has proposed an AI incident alert system to China",
-      "url": "https://thenextweb.com/news/us-china-ai-incident-alert-bessent-he-lifeng",
-      "source": "The Next Web",
-      "domain": "thenextweb.com",
-      "published_at": "2026-09-21T09:48:35Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "6475cf90c2a73532",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "DoIT Unveils 3.2T Silicon Photonics Optical Engine at TIE",
-      "summary": "More Than 20 Partners Join Forces to Capture AI Computing Opportunities TAIPEI, Sept. 21, 2026 /PRNewswire/ -- The Taiwan Innotech Expo (TIE) 2026, a premier showcase of cutting-edge innovations, opens on September 17 at the Taipei World Trade Center Exhibiti…",
-      "original_title": "DoIT Unveils 3.2T Silicon Photonics Optical Engine at TIE",
-      "url": "https://www.prnewswire.com/news-releases/doit-unveils-3-2t-silicon-photonics-optical-engine-at-tie-302884557.html",
-      "source": "PRNewswire",
-      "domain": "prnewswire.com",
-      "published_at": "2026-09-21T09:41:00Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     }
   ]
 }

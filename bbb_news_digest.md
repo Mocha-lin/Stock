@@ -1,5 +1,14 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-28T19:52:27.330044+00:00
+> 更新時間：2026-09-29T02:29:48.773391+00:00
+
+### ⚖️ Meta Muse fuels agentic AI demand, tightening CPU supply
+- **題材**: `HBM記憶體` | **重要性**: `78`
+- **來源**: Digitimes (2026-09-27T04:23:16Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Meta's AI assistant Muse is drawing strong market response, and the rise of agentic AI is drawing attention to AI infrastructure shortages beyond GPUs and high-bandwidth memory (HBM), including server CPUs. The trend is lifting order demand for AMD and Intel …
+- [原文連結](https://www.digitimes.com/news/a20260924PD224/meta-cpu-amd-demand-packaging.html)
+
+---
 
 ### 🚀 AI drives Episil GeSi, PMIC growth
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -64,12 +73,12 @@
 
 ---
 
-### ⚖️ Tower Semiconductor to make Japan its largest optical chip base
-- **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-09-21T07:24:06Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Tower Semiconductor plans to make Japan its largest manufacturing base for optical communications semiconductors after expanding silicon photonics (SiPh), silicon germanium (SiGe), and advanced packaging capacity in the Hokuriku region, as demand from AI data…
-- [原文連結](https://www.digitimes.com/news/a20260921VL217/tower-semiconductor-production-communications-silicon-manufacturing.html)
+### ⚖️ TSMC anchors Kaohsiung's Baipu Park as ASE expansion spurs phase-two development
+- **題材**: `半導體先進製程` | **重要性**: `68`
+- **來源**: Digitimes (2026-09-22T03:58:07Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Rising demand for advanced packaging tied to AI and high-performance computing (HPC) is driving development at Baipu Industrial Park in Kaohsiung, where construction has formally begun on what is billed as Taiwan's first advanced packaging supply-chain cluste…
+- [原文連結](https://www.digitimes.com/news/a20260922PD212/packaging-tsmc-ase-kaohsiung-demand.html)
 
 ---
 
@@ -79,15 +88,6 @@
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: UK-based Nscale signed a deal with Spring (SG) Pte Ltd, which is a subsidiary of Chinese tech giant ByteDance. The company did not make any direct mention of the TikTok parent in its filings for a U.S. IPO, while a supporting document only labeled Spring as a…
 - [原文連結](https://www.tomshardware.com/tech-industry/data-centers/filing-reveals-how-bytedance-gained-access-to-over-2-000-nvidia-b200-chips-through-nscales-norway-data-center-singaporean-subsidiary-spring-contributed-73-percent-of-uk-neoclouds-2025-revenue)
-
----
-
-### 🚀 Nvidia's next-gen RTX 60 GPUs might not be released until 2028, prominent leaker claims — gaming takes a back seat as company focuses on delivering data center products
-- **題材**: `AI伺服器` | **重要性**: `67`
-- **來源**: Tom's Hardware UK (2026-09-21T09:52:19Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Leaker Kopite7kimi claims that Nvidia's next-gen RTX 60 series may not be released until 2028, meaning that consumers will have to wait three years between GPU generations
-- [原文連結](https://www.tomshardware.com/pc-components/gpus/nvidias-next-gen-rtx-60-gpus-might-not-be-released-until-2028-prominent-leaker-claims-gaming-takes-a-back-seat-as-company-focuses-on-delivering-data-center-products)
 
 ---
 
@@ -118,6 +118,16 @@
 
 ---
 
+### 🚀 Mizuho initiates Tower Semiconductor at Outperform with $300 price target, citing AI optical connectivity boom
+- **題材**: `光通訊與矽光子` | **重要性**: `65`
+- **來源**: Crypto Briefing (2026-09-25T11:36:05Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Tower Semiconductor's strategic positioning in AI optical connectivity could significantly enhance its market influence and financial growth.
+The post Mizuho initiates Tower Semiconductor at Outperform with $300 price target, citing AI optical connectivity bo…
+- [原文連結](https://cryptobriefing.com/mizuho-tower-semiconductor-outperform-ai-optics/)
+
+---
+
 ### 🚀 EWOR names a San Francisco team as US applications surge 237%
 - **題材**: `光通訊與矽光子` | **重要性**: `65`
 - **來源**: The Next Web (2026-09-22T12:40:35Z)
@@ -145,12 +155,12 @@
 
 ---
 
-### ⚖️ TSMC builds Kaohsiung hub to speed advanced packaging tests
-- **題材**: `半導體先進製程` | **重要性**: `63`
-- **來源**: Digitimes (2026-09-21T06:24:56Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: TSMC is building an advanced packaging validation hub in southern Taiwan as rapid chip-on-wafer-on-substrate (CoWoS) expansion puts pressure on equipment and materials suppliers to qualify new technologies faster.
-- [原文連結](https://www.digitimes.com/news/a20260921VL215/tsmc-packaging-equipment-kaohsiung-taiwan.html)
+### ⚖️ Novel attack slashes computing power needed to crack textbook RSA cryptography
+- **題材**: `光通訊與矽光子` | **重要性**: `62`
+- **來源**: Tom's Hardware UK (2026-09-26T12:00:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Not very practical yet, but could serve as the basis for future improvements.
+- [原文連結](https://www.tomshardware.com/tech-industry/cyber-security/novel-attack-on-rsa-cryptography-might-bring-computation-requirements-for-cracking-down-to-manageable-levels)
 
 ---
 
@@ -169,15 +179,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Tower's new optical connectivity hub in Japan will increase its output by 40 times in 2029 compared to 2025 level.
 - [原文連結](https://www.tomshardware.com/tech-industry/photonics/tower-semiconductor-to-invest-usd4-billion-in-japanese-ops-to-set-up-massive-optical-connectivity-hub-dual-track-expansion-aims-to-increase-output-by-40-times-by-2029)
-
----
-
-### 🚀 GlobalFoundries reportedly sees strong demand for Chinese optical modules
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: The Next Web (2026-09-27T14:56:15Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: US chipmaker GlobalFoundries says demand for Chinese optical modules is strong as more data centres are built, one of its top bosses told the South China Morning Post. Ann Cao reported the interview from Shanghai on Sunday. Optical modules turn data into ligh…
-- [原文連結](https://thenextweb.com/news/globalfoundries-chinese-optical-modules-demand)
 
 ---
 
