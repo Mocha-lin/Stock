@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-29T02:29:48.773391+00:00
+> 更新時間：2026-09-29T06:25:02.351692+00:00
 
 ### ⚖️ Meta Muse fuels agentic AI demand, tightening CPU supply
 - **題材**: `HBM記憶體` | **重要性**: `78`
@@ -73,15 +73,6 @@
 
 ---
 
-### ⚖️ TSMC anchors Kaohsiung's Baipu Park as ASE expansion spurs phase-two development
-- **題材**: `半導體先進製程` | **重要性**: `68`
-- **來源**: Digitimes (2026-09-22T03:58:07Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Rising demand for advanced packaging tied to AI and high-performance computing (HPC) is driving development at Baipu Industrial Park in Kaohsiung, where construction has formally begun on what is billed as Taiwan's first advanced packaging supply-chain cluste…
-- [原文連結](https://www.digitimes.com/news/a20260922PD212/packaging-tsmc-ase-kaohsiung-demand.html)
-
----
-
 ### ⚖️ China's ByteDance gained access to over 2,000 Nvidia B200 chips through Norway data center
 - **題材**: `AI伺服器` | **重要性**: `67`
 - **來源**: Tom's Hardware UK (2026-09-23T12:00:43Z)
@@ -152,6 +143,15 @@ The post Mizuho initiates Tower Semiconductor at Outperform with $300 price targ
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Hanmi Semiconductor said on September 22 that it has shipped its first FC Bonder 75 to a customer, expanding the South Korean equipment maker's reach beyond high-bandwidth memory (HBM) into the broader system semiconductor packaging market.
 - [原文連結](https://www.digitimes.com/news/a20260922PD231/hanmi-packaging-equipment-hbm-osat.html)
+
+---
+
+### ⚖️ TSMC anchors Kaohsiung's Baipu Park as ASE expansion spurs phase-two development
+- **題材**: `半導體先進製程` | **重要性**: `63`
+- **來源**: Digitimes (2026-09-22T03:58:07Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Rising demand for advanced packaging tied to AI and high-performance computing (HPC) is driving development at Baipu Industrial Park in Kaohsiung, where construction has formally begun on what is billed as Taiwan's first advanced packaging supply-chain cluste…
+- [原文連結](https://www.digitimes.com/news/a20260922PD212/packaging-tsmc-ase-kaohsiung-demand.html)
 
 ---
 
