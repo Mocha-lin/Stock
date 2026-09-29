@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-29T06:25:02.351692+00:00
+> 更新時間：2026-09-29T15:23:42.352405+00:00
 
 ### ⚖️ Meta Muse fuels agentic AI demand, tightening CPU supply
 - **題材**: `HBM記憶體` | **重要性**: `78`
@@ -82,30 +82,12 @@
 
 ---
 
-### ⚖️ Defying higher bond yields: Consumers keep spending and the economy keeps booming
+### ⚠️ 3 overlooked ways higher bond yields could be felt by everyday Americans
 - **題材**: `總體風險` | **重要性**: `65`
-- **來源**: Yahoo Entertainment (2026-09-26T11:40:59Z)
-- **AI 判讀**: 屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Higher bond yields, tariffs, and a spike in energy prices haven't been enough to slow the economy down. This week, the yield on the 10-year Treasury bond — which influences mortgage rates and other borrowing costs — rose to 5.2%, marking its highest level in …
-- [原文連結](https://finance.yahoo.com/economy/article/defying-higher-bond-yields-consumers-keep-spending-and-the-economy-keeps-booming-114059027.html)
-
----
-
-### ⚠️ China says it agrees to a $30B tariff cut and trade council with the U.S.
-- **題材**: `總體風險` | **重要性**: `65`
-- **來源**: Yahoo Entertainment (2026-09-26T11:35:10Z)
+- **來源**: Business Insider (2026-09-28T09:50:02Z)
 - **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: SHANGHAI, Sept 26 (Reuters) - China said on Saturday it had agreed with the US on a $30 billion reciprocal tariff-reduction arrangement and on launching a dialogue on ‌AI, under an eight-point consensus reached during President Xi Jinping's visit to Washingto…
-- [原文連結](https://www.yahoo.com/news/articles/china-us-agree-30-billion-083836628.html)
-
----
-
-### ⚠️ My baby business was pummeled by tariffs on China and Canada. It's taught me perseverance.
-- **題材**: `總體風險` | **重要性**: `65`
-- **來源**: Business Insider (2026-09-26T08:49:01Z)
-- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Garett Senez's company Quark Baby is based in Canada and manufactured in China. The tariffs required him to switch up his supply chain to survive.
-- [原文連結](https://www.businessinsider.com/baby-business-china-canada-tariffs-impact-2026-9#article)
+- **摘要**: Mortgage rates aren't the only risk from high bond yields. They can squeeze apartment construction, utility investment, and public works.
+- [原文連結](https://www.businessinsider.com/how-higher-bond-yields-affect-electric-bills-apartment-rents-taxes-2026-9#article)
 
 ---
 
@@ -119,48 +101,12 @@ The post Mizuho initiates Tower Semiconductor at Outperform with $300 price targ
 
 ---
 
-### 🚀 EWOR names a San Francisco team as US applications surge 237%
-- **題材**: `光通訊與矽光子` | **重要性**: `65`
-- **來源**: The Next Web (2026-09-22T12:40:35Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: EWOR, a founder fellowship harder to get into than Y Combinator, has named a senior leadership team in San Francisco. The appointments follow a record year of US applications, up 237% in twelve months. The team comprises Charles Ferguson, the Oscar-winning fi…
-- [原文連結](https://thenextweb.com/news/ewor-san-francisco-leadership-team-us-applications-237)
-
----
-
-### 🚀 Tower Semiconductor (TSEM): $1.3 Billion in Silicon Photonics Contracts Puts AI Growth in Focus
-- **題材**: `光通訊與矽光子` | **重要性**: `65`
-- **來源**: Yahoo Entertainment (2026-09-22T06:40:15Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Tower Semiconductor Ltd. (NASDAQ:TSEM) is positioned to benefit from the rapid growth of optical connectivity as artificial intelligence (AI) infrastructure...
-- [原文連結](https://finance.yahoo.com/technology/ai/articles/tower-semiconductor-tsem-1-3-064015139.html)
-
----
-
-### ⚖️ Hanmi Semiconductor ships first FC Bonder 75 for 2.5D packaging
-- **題材**: `HBM記憶體` | **重要性**: `63`
-- **來源**: Digitimes (2026-09-22T06:56:26Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Hanmi Semiconductor said on September 22 that it has shipped its first FC Bonder 75 to a customer, expanding the South Korean equipment maker's reach beyond high-bandwidth memory (HBM) into the broader system semiconductor packaging market.
-- [原文連結](https://www.digitimes.com/news/a20260922PD231/hanmi-packaging-equipment-hbm-osat.html)
-
----
-
 ### ⚖️ TSMC anchors Kaohsiung's Baipu Park as ASE expansion spurs phase-two development
 - **題材**: `半導體先進製程` | **重要性**: `63`
 - **來源**: Digitimes (2026-09-22T03:58:07Z)
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Rising demand for advanced packaging tied to AI and high-performance computing (HPC) is driving development at Baipu Industrial Park in Kaohsiung, where construction has formally begun on what is billed as Taiwan's first advanced packaging supply-chain cluste…
 - [原文連結](https://www.digitimes.com/news/a20260922PD212/packaging-tsmc-ase-kaohsiung-demand.html)
-
----
-
-### ⚖️ Novel attack slashes computing power needed to crack textbook RSA cryptography
-- **題材**: `光通訊與矽光子` | **重要性**: `62`
-- **來源**: Tom's Hardware UK (2026-09-26T12:00:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Not very practical yet, but could serve as the basis for future improvements.
-- [原文連結](https://www.tomshardware.com/tech-industry/cyber-security/novel-attack-on-rsa-cryptography-might-bring-computation-requirements-for-cracking-down-to-manageable-levels)
 
 ---
 
@@ -179,6 +125,60 @@ The post Mizuho initiates Tower Semiconductor at Outperform with $300 price targ
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Tower's new optical connectivity hub in Japan will increase its output by 40 times in 2029 compared to 2025 level.
 - [原文連結](https://www.tomshardware.com/tech-industry/photonics/tower-semiconductor-to-invest-usd4-billion-in-japanese-ops-to-set-up-massive-optical-connectivity-hub-dual-track-expansion-aims-to-increase-output-by-40-times-by-2029)
+
+---
+
+### 🚀 GlobalFoundries reportedly sees strong demand for Chinese optical modules
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: The Next Web (2026-09-27T14:56:15Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: US chipmaker GlobalFoundries says demand for Chinese optical modules is strong as more data centres are built, one of its top bosses told the South China Morning Post. Ann Cao reported the interview from Shanghai on Sunday. Optical modules turn data into ligh…
+- [原文連結](https://thenextweb.com/news/globalfoundries-chinese-optical-modules-demand)
+
+---
+
+### 🚀 Can Credo Technology (CRDO) Turn 1.6T Optical Transceivers Into Its Next AI Growth Driver?
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: Biztoc.com (2026-09-27T10:04:08Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Credo Technology Group Holding Ltd (NASDAQ:CRDO) just broadened its ZeroFlap (ZF) optical transceiver offerings with a new 224G-based lineup. This move positions the company strongly within the ongoing AI network buildout, which is witnessing breakout demand …
+- [原文連結](https://biztoc.com/x/03f2deb2c7a657b9)
+
+---
+
+### ⚖️ OpenAI (2015)
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: Openai.com (2026-09-27T00:44:48Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: OpenAI is a non-profit artificial intelligence research company. Our goal is to advance digital intelligence in the way that is most likely to benefit humanity as a whole, unconstrained by a need to generate financial return. Since our research is free from f…
+- [原文連結](https://openai.com/index/introducing-openai/)
+
+---
+
+### ⚖️ Defying higher bond yields: Consumers keep spending and the economy keeps booming
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-09-26T11:40:59Z)
+- **AI 判讀**: 屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Higher bond yields, tariffs, and a spike in energy prices haven't been enough to slow the economy down. This week, the yield on the 10-year Treasury bond — which influences mortgage rates and other borrowing costs — rose to 5.2%, marking its highest level in …
+- [原文連結](https://finance.yahoo.com/economy/article/defying-higher-bond-yields-consumers-keep-spending-and-the-economy-keeps-booming-114059027.html)
+
+---
+
+### ⚠️ China says it agrees to a $30B tariff cut and trade council with the U.S.
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-09-26T11:35:10Z)
+- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: SHANGHAI, Sept 26 (Reuters) - China said on Saturday it had agreed with the US on a $30 billion reciprocal tariff-reduction arrangement and on launching a dialogue on ‌AI, under an eight-point consensus reached during President Xi Jinping's visit to Washingto…
+- [原文連結](https://www.yahoo.com/news/articles/china-us-agree-30-billion-083836628.html)
+
+---
+
+### ⚠️ My baby business was pummeled by tariffs on China and Canada. It's taught me perseverance.
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Business Insider (2026-09-26T08:49:01Z)
+- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Garett Senez's company Quark Baby is based in Canada and manufactured in China. The tariffs required him to switch up his supply chain to survive.
+- [原文連結](https://www.businessinsider.com/baby-business-china-canada-tariffs-impact-2026-9#article)
 
 ---
 
