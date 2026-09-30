@@ -1,9 +1,9 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-09-30T15:40:55.675248+00:00",
+  "generated_at": "2026-09-30T18:10:28.843772+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
-  "total_count": 73,
+  "total_count": 72,
   "items": [
     {
       "id": "14080295c7698cd6",
@@ -482,44 +482,6 @@
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
-      "id": "23675281c24364f1",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "Global Market Today: Asian stocks waver as oil gains fuel inflation, rate concerns",
-      "summary": "Government bonds in Japan, Australia and New Zealand retreated, following declines in Treasuries during the New York session. Weak demand at a $70 billion sale of US five-year notes pushed the yield above 5% for the first time since 2007. The 10-year yield su…",
-      "original_title": "Global Market Today: Asian stocks waver as oil gains fuel inflation, rate concerns",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-waver-as-oil-gains-fuel-inflation-rate-concerns/articleshow/134448968.cms",
-      "source": "The Times of India",
-      "domain": "economictimes.indiatimes.com",
-      "published_at": "2026-09-24T01:00:46Z",
-      "importance": 70,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
       "id": "0a8507b6fcf5a6ba",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -935,6 +897,44 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "e14ad77c3d8a60ac",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "Mortgage rates hit 7.58%, approaching 3-year high",
+      "summary": "Mortgage rates closed in on 7.6% Tuesday as Treasury yields continued to move higher.The average 30-year fixed-rate mortgage rate hit 7.58% on Tuesday, per Mortgage News Daily. That's up 8 basis points from Monday, and is the highest level since November 2023…",
+      "original_title": "Mortgage rates hit 7.58%, approaching 3-year high",
+      "url": "https://finance.yahoo.com/markets/article/mortgage-rates-hit-758-approaching-3-year-high-165659395.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-09-29T16:56:59Z",
+      "importance": 60,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "efc5f787a78eccb3",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1236,6 +1236,44 @@
       "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "48fd0cdc62504f2f",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "Who Makes GPUs Besides Nvidia And AMD?",
+      "summary": "The headline-dominating Nvidia is known the world over for its stake in AI and its GPUs. But besides AMD, who are the other players in the graphics card space?",
+      "original_title": "Who Makes GPUs Besides Nvidia And AMD?",
+      "url": "https://www.bgr.com/2268272/who-makes-gpus-besides-nvidia-amd/",
+      "source": "BGR",
+      "domain": "bgr.com",
+      "published_at": "2026-09-29T16:32:00Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "c6b8605bf4e5b236",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1472,44 +1510,6 @@
       "source": "Android Central",
       "domain": "androidcentral.com",
       "published_at": "2026-09-28T04:24:26Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "1a5eefe10586596f",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "IBM ZがArmを取り込む衝撃！ 次世代メインフレーム「z18（仮）」のネイティブDual-ISA戦略の狙い",
-      "summary": "Hot Chipsの解説第4弾はIBMの\"The future IBM Z and LinuxONE processor and AI inference acceleration chipset\"である。妙に長いタイトルだが、次世代プロセッサーの名称がまだ発表されていないからだ。",
-      "original_title": "IBM ZがArmを取り込む衝撃！ 次世代メインフレーム「z18（仮）」のネイティブDual-ISA戦略の狙い",
-      "url": "https://weekly.ascii.jp/elem/000/004/436/4436516/",
-      "source": "Ascii.jp",
-      "domain": "weekly.ascii.jp",
-      "published_at": "2026-09-28T03:00:00Z",
       "importance": 55,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -2256,190 +2256,6 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "2dce435ff7aad784",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "Trump set to greet Xi for high-stakes state visit",
-      "summary": "It is the second time the leaders are meeting this year after the Beijing summit in May.",
-      "original_title": "Trump set to greet Xi for high-stakes state visit",
-      "url": "https://www.npr.org/2026/09/23/nx-s1-5978733/trump-xi-meeting-china",
-      "source": "NPR",
-      "domain": "npr.org",
-      "published_at": "2026-09-23T18:23:19Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "309846c66bbacb71",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "Iran's president rules out surrender as indirect talks with U.S. resume in New York",
-      "summary": "By Parisa Hafezi, Humeyra Pamuk and Jana Choukeir UNITED NATIONS/DUBAI, Sept 23 (Reuters) - Iran and the United States remain far apart on how to end their war but diplomacy must continue, a senior Iranian official told Reuters on Wednesday, after Iran's pres…",
-      "original_title": "Iran's president rules out surrender as indirect talks with U.S. resume in New York",
-      "url": "https://www.yahoo.com/news/articles/hope-progress-us-iran-hold-103122383.html",
-      "source": "Yahoo Entertainment",
-      "domain": "yahoo.com",
-      "published_at": "2026-09-23T17:29:38Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "93f4ac6d466ceedb",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "A new measure of financial conditions shows the US economy heading for a rough patch",
-      "summary": "Jim Paulsen unveiled a gauge to measure the relative tightness of financial conditions. He says the indicators point to a period of economic weakness.",
-      "original_title": "A new measure of financial conditions shows the US economy heading for a rough patch",
-      "url": "https://www.businessinsider.com/us-economy-outlook-financial-conditions-interest-rate-hike-recession-2026-9#article",
-      "source": "Business Insider",
-      "domain": "businessinsider.com",
-      "published_at": "2026-09-23T17:25:41Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "e766ad5587cb5ee6",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "XMG cites component cost rises across the board as it hikes laptop prices",
-      "summary": "The RAM crisis is kicking up yet another gear as XMG hikes its laptop prices substantially.",
-      "original_title": "XMG cites component cost rises across the board as it hikes laptop prices",
-      "url": "https://www.techradar.com/computing/memory/this-is-no-longer-just-about-ram-and-ssds-xmg-highlights-component-cost-rises-across-the-board-as-it-hikes-laptop-prices-and-nvidia-gpus-could-suffer-too",
-      "source": "TechRadar",
-      "domain": "techradar.com",
-      "published_at": "2026-09-23T16:40:11Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "da1c5ddb3f966949",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "The Raspberry Pi just got priced out of its own mission",
-      "summary": "AI ate the DRAM supply, and the $35 dream paid the price.",
-      "original_title": "The Raspberry Pi just got priced out of its own mission",
-      "url": "https://www.makeuseof.com/raspberry-pi-priced-out-of-its-own-mission/",
-      "source": "MakeUseOf",
-      "domain": "makeuseof.com",
-      "published_at": "2026-09-23T16:30:15Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "e71c60488f42948f",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2549,6 +2365,152 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "309846c66bbacb71",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "Iran's president rules out surrender as indirect talks with U.S. resume in New York",
+      "summary": "By Parisa Hafezi, Humeyra Pamuk and Jana Choukeir UNITED NATIONS/DUBAI, Sept 23 (Reuters) - Iran and the United States remain far apart on how to end their war but diplomacy must continue, a senior Iranian official told Reuters on Wednesday, after Iran's pres…",
+      "original_title": "Iran's president rules out surrender as indirect talks with U.S. resume in New York",
+      "url": "https://www.yahoo.com/news/articles/hope-progress-us-iran-hold-103122383.html",
+      "source": "Yahoo Entertainment",
+      "domain": "yahoo.com",
+      "published_at": "2026-09-23T17:29:38Z",
+      "importance": 45,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
+    },
+    {
+      "id": "93f4ac6d466ceedb",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "A new measure of financial conditions shows the US economy heading for a rough patch",
+      "summary": "Jim Paulsen unveiled a gauge to measure the relative tightness of financial conditions. He says the indicators point to a period of economic weakness.",
+      "original_title": "A new measure of financial conditions shows the US economy heading for a rough patch",
+      "url": "https://www.businessinsider.com/us-economy-outlook-financial-conditions-interest-rate-hike-recession-2026-9#article",
+      "source": "Business Insider",
+      "domain": "businessinsider.com",
+      "published_at": "2026-09-23T17:25:41Z",
+      "importance": 45,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
+    },
+    {
+      "id": "e766ad5587cb5ee6",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "XMG cites component cost rises across the board as it hikes laptop prices",
+      "summary": "The RAM crisis is kicking up yet another gear as XMG hikes its laptop prices substantially.",
+      "original_title": "XMG cites component cost rises across the board as it hikes laptop prices",
+      "url": "https://www.techradar.com/computing/memory/this-is-no-longer-just-about-ram-and-ssds-xmg-highlights-component-cost-rises-across-the-board-as-it-hikes-laptop-prices-and-nvidia-gpus-could-suffer-too",
+      "source": "TechRadar",
+      "domain": "techradar.com",
+      "published_at": "2026-09-23T16:40:11Z",
+      "importance": 45,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
+    },
+    {
+      "id": "da1c5ddb3f966949",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "The Raspberry Pi just got priced out of its own mission",
+      "summary": "AI ate the DRAM supply, and the $35 dream paid the price.",
+      "original_title": "The Raspberry Pi just got priced out of its own mission",
+      "url": "https://www.makeuseof.com/raspberry-pi-priced-out-of-its-own-mission/",
+      "source": "MakeUseOf",
+      "domain": "makeuseof.com",
+      "published_at": "2026-09-23T16:30:15Z",
+      "importance": 45,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     },
     {
       "id": "7b2041b631ce7520",

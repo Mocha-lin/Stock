@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-30T15:40:55.675248+00:00
+> 更新時間：2026-09-30T18:10:28.843772+00:00
 
 ### 🚀 Behind CoWoS (part 1)—How a 0% yield crisis led to TSMC's first advanced packaging win
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -118,15 +118,6 @@
 
 ---
 
-### ⚠️ Global Market Today: Asian stocks waver as oil gains fuel inflation, rate concerns
-- **題材**: `總體風險` | **重要性**: `70`
-- **來源**: The Times of India (2026-09-24T01:00:46Z)
-- **AI 判讀**: 屬「總體風險」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Government bonds in Japan, Australia and New Zealand retreated, following declines in Treasuries during the New York session. Weak demand at a $70 billion sale of US five-year notes pushed the yield above 5% for the first time since 2007. The 10-year yield su…
-- [原文連結](https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-waver-as-oil-gains-fuel-inflation-rate-concerns/articleshow/134448968.cms)
-
----
-
 ### ⚖️ RoboTechnik completes Hong Kong listing to fund ficonTEC expansion in silicon photonics
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
 - **來源**: Digitimes (2026-09-29T07:38:58Z)
@@ -178,6 +169,16 @@
 - **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Mortgage rates aren't the only risk from high bond yields. They can squeeze apartment construction, utility investment, and public works.
 - [原文連結](https://www.businessinsider.com/how-higher-bond-yields-affect-electric-bills-apartment-rents-taxes-2026-9#article)
+
+---
+
+### 🚀 Mizuho initiates Tower Semiconductor at Outperform with $300 price target, citing AI optical connectivity boom
+- **題材**: `光通訊與矽光子` | **重要性**: `65`
+- **來源**: Crypto Briefing (2026-09-25T11:36:05Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Tower Semiconductor's strategic positioning in AI optical connectivity could significantly enhance its market influence and financial growth.
+The post Mizuho initiates Tower Semiconductor at Outperform with $300 price target, citing AI optical connectivity bo…
+- [原文連結](https://cryptobriefing.com/mizuho-tower-semiconductor-outperform-ai-optics/)
 
 ---
 
