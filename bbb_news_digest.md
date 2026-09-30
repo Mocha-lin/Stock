@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-30T01:51:53.035125+00:00
+> 更新時間：2026-09-30T06:11:03.033633+00:00
 
 ### 🚀 Behind CoWoS (part 1)—How a 0% yield crisis led to TSMC's first advanced packaging win
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -10,21 +10,30 @@
 
 ---
 
-### ⚖️ Meta Muse fuels agentic AI demand, tightening CPU supply
-- **題材**: `HBM記憶體` | **重要性**: `78`
-- **來源**: Digitimes (2026-09-27T04:23:16Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Meta's AI assistant Muse is drawing strong market response, and the rise of agentic AI is drawing attention to AI infrastructure shortages beyond GPUs and high-bandwidth memory (HBM), including server CPUs. The trend is lifting order demand for AMD and Intel …
-- [原文連結](https://www.digitimes.com/news/a20260924PD224/meta-cpu-amd-demand-packaging.html)
-
----
-
 ### 🚀 AI drives Episil GeSi, PMIC growth
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
 - **來源**: Digitimes (2026-09-24T07:14:47Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Semiconductor epitaxy maker Episil Precision said on September 22 that rising demand from AI data centers has created two main growth engines. Demand for silicon photonics optical communication modules is driving a surge in germanium silicon (GeSi) epitaxy de…
 - [原文連結](https://www.digitimes.com/news/a20260923PD236/episil-demand-growth-silicon-photonics.html)
+
+---
+
+### ⚖️ Beyond 16 layers: HBM stacks test advanced packaging equipment makers
+- **題材**: `半導體先進製程` | **重要性**: `73`
+- **來源**: Digitimes (2026-09-29T03:55:16Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: At Singapore's Innovate Together 2026 conference on September 25, equipment makers including ASM, ASMPT, and KLA said the challenges facing next-generation advanced packaging are expanding beyond the performance of individual tools to hybrid bonding, interfac…
+- [原文連結](https://www.digitimes.com/news/a20260929PD221/packaging-equipment-hbm-2026-materials.html)
+
+---
+
+### ⚖️ HBM to take nearly 30% of DRAM capacity as Samsung speeds up P5
+- **題材**: `HBM記憶體` | **重要性**: `73`
+- **來源**: Digitimes (2026-09-29T03:07:49Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: High-bandwidth memory (HBM) is expected to account for nearly 30% of DRAM makers' total wafer capacity in 2027, up from about 20% currently, as Samsung Electronics moves to accelerate the rollout of new memory capacity amid tightening supplies of both HBM and…
+- [原文連結](https://www.digitimes.com/news/a20260929VL202/hbm-dram-capacity-samsung-2027.html)
 
 ---
 
@@ -52,6 +61,15 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: South Korea's exports of the customs category that carries high-bandwidth memory (HBM) are no longer a two-destination story. Unit-value data show that the chips going to Taiwan and Malaysia are worth several times more per kilogram than those shipped to Hong…
 - [原文連結](https://www.digitimes.com/news/a20260924VL201/exports-taiwan-hbm-packaging-data.html)
+
+---
+
+### ⚖️ Meta Muse fuels agentic AI demand, tightening CPU supply
+- **題材**: `HBM記憶體` | **重要性**: `73`
+- **來源**: Digitimes (2026-09-27T04:23:16Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Meta's AI assistant Muse is drawing strong market response, and the rise of agentic AI is drawing attention to AI infrastructure shortages beyond GPUs and high-bandwidth memory (HBM), including server CPUs. The trend is lifting order demand for AMD and Intel …
+- [原文連結](https://www.digitimes.com/news/a20260924PD224/meta-cpu-amd-demand-packaging.html)
 
 ---
 
@@ -161,24 +179,6 @@ The post Mizuho initiates Tower Semiconductor at Outperform with $300 price targ
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Elon Musk says that the Colossus 2 will receive 220,000 GB300 GPUs by next week, with another two tranches of the same amount expected to arrive later this year. This will put the site at over a million AI GPUs, finally hitting the goal the billionaire set tw…
 - [原文連結](https://www.tomshardware.com/tech-industry/data-centers/elon-musks-spacexai-to-add-another-660-000-ai-gpus-this-year-nearing-a-total-of-1-44-million-in-operation-firm-is-building-1-2-gigawatt-power-plant-to-bring-systems-fully-online)
-
----
-
-### ⚖️ Tower Semiconductor to invest $4 billion in Japanese ops to set up massive optical connectivity hub
-- **題材**: `光通訊與矽光子` | **重要性**: `62`
-- **來源**: Tom's Hardware UK (2026-09-25T15:00:22Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Tower's new optical connectivity hub in Japan will increase its output by 40 times in 2029 compared to 2025 level.
-- [原文連結](https://www.tomshardware.com/tech-industry/photonics/tower-semiconductor-to-invest-usd4-billion-in-japanese-ops-to-set-up-massive-optical-connectivity-hub-dual-track-expansion-aims-to-increase-output-by-40-times-by-2029)
-
----
-
-### ⚖️ Samsung Electronics says HBM to account for nearly 30% of industry DRAM capacity next year
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: CNA (2026-09-29T01:07:39Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: SEOUL, Sept 29 : A Samsung Electronics executive said on Tuesday that high-bandwidth memory (HBM) is expected to account for nearly 30 per cent of Dynamic Random-Access Memory (DRAM) chipmakers' total wafer capacity next year, up from about 20 per cent curren…
-- [原文連結](https://www.channelnewsasia.com/business/samsung-electronics-says-hbm-account-nearly-30-industry-dram-capacity-next-year-6417091)
 
 ---
 
