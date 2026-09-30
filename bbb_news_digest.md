@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-30T18:10:28.843772+00:00
+> 更新時間：2026-09-30T22:40:42.296316+00:00
 
 ### 🚀 Behind CoWoS (part 1)—How a 0% yield crisis led to TSMC's first advanced packaging win
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -70,15 +70,6 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: As chip design enters the AI era, heterogeneous integration is driving foundry giants like TSMC, Samsung, and Intel to bring advanced front-end fab capabilities into back-end packaging. In the second part of his interview with DIGITIMES, Dr. Shin-Puu Jeng, ch…
 - [原文連結](https://www.digitimes.com/news/a20260924PD238/tsmc-packaging-cowos-design-silicon.html)
-
----
-
-### 🚀 South Korea's HBM-linked exports surge as Taiwan, Malaysia emerge as high-value destinations
-- **題材**: `HBM記憶體` | **重要性**: `73`
-- **來源**: Digitimes (2026-09-28T01:12:02Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: South Korea's exports of the customs category that carries high-bandwidth memory (HBM) are no longer a two-destination story. Unit-value data show that the chips going to Taiwan and Malaysia are worth several times more per kilogram than those shipped to Hong…
-- [原文連結](https://www.digitimes.com/news/a20260924VL201/exports-taiwan-hbm-packaging-data.html)
 
 ---
 
@@ -179,6 +170,15 @@
 - **摘要**: Tower Semiconductor's strategic positioning in AI optical connectivity could significantly enhance its market influence and financial growth.
 The post Mizuho initiates Tower Semiconductor at Outperform with $300 price target, citing AI optical connectivity bo…
 - [原文連結](https://cryptobriefing.com/mizuho-tower-semiconductor-outperform-ai-optics/)
+
+---
+
+### ⚖️ Hermes-Epitek eyes CPO test revenue in 2027
+- **題材**: `光通訊與矽光子` | **重要性**: `63`
+- **來源**: Digitimes (2026-09-23T06:14:58Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Archie Hwang, the founder and chairman of Hermes-Epitek, appeared before the media alongside Hermes Testing Solutions Inc. (HTSI) executives. The company outlined a major push into silicon photonics (SiPh) co-packaged optics (CPO) testing and said related rev…
+- [原文連結](https://www.digitimes.com/news/a20260923PD223/chairman-cpo-revenue-2027-testing.html)
 
 ---
 
