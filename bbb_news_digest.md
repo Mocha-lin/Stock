@@ -1,5 +1,23 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-29T22:43:16.388344+00:00
+> 更新時間：2026-09-30T01:51:53.035125+00:00
+
+### 🚀 Behind CoWoS (part 1)—How a 0% yield crisis led to TSMC's first advanced packaging win
+- **題材**: `半導體先進製程` | **重要性**: `83`
+- **來源**: Digitimes (2026-09-28T23:18:40Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: In a recent interview on the DIGITIMES podcast, Dr. Shin-Puu Jeng, chairman of the International Microelectronics and Packaging Society (IMAPS) and a former longtime TSMC advanced packaging executive, reflected on the early development of CoWoS. In the first …
+- [原文連結](https://www.digitimes.com/news/a20260924PD236/tsmc-xilinx-digitimes-cowos-silicon.html)
+
+---
+
+### ⚖️ Meta Muse fuels agentic AI demand, tightening CPU supply
+- **題材**: `HBM記憶體` | **重要性**: `78`
+- **來源**: Digitimes (2026-09-27T04:23:16Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Meta's AI assistant Muse is drawing strong market response, and the rise of agentic AI is drawing attention to AI infrastructure shortages beyond GPUs and high-bandwidth memory (HBM), including server CPUs. The trend is lifting order demand for AMD and Intel …
+- [原文連結](https://www.digitimes.com/news/a20260924PD224/meta-cpu-amd-demand-packaging.html)
+
+---
 
 ### 🚀 AI drives Episil GeSi, PMIC growth
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -10,12 +28,48 @@
 
 ---
 
-### 🚀 Win Semiconductors expands optical communications capacity with DUV tools
-- **題材**: `光通訊與矽光子` | **重要性**: `78`
-- **來源**: Digitimes (2026-09-23T00:13:50Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Optical communications capacity is in short supply as surging computing demand from AI data centers turns transmission into a bottleneck for AI infrastructure. The market is shifting toward combined optical-and-copper solutions, while optical communications r…
-- [原文連結](https://www.digitimes.com/news/a20260922PD242/communications-capacity-demand-duv-market.html)
+### ⚖️ IDC says AI agent growth will widen global compute shortage by 2027
+- **題材**: `HBM記憶體` | **重要性**: `73`
+- **來源**: Digitimes (2026-09-29T01:39:32Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: AI agents are moving into enterprise workflows and driving a sharp rise in demand for AI infrastructure, with a new report from IDC and IEIT Systems warning that the global compute supply-demand gap will continue widening through 2030. The report, released at…
+- [原文連結](https://www.digitimes.com/news/a20260929PD202/idc-2027-growth-demand-2030.html)
+
+---
+
+### ⚖️ Behind CoWoS (part 2): How TSMC turned a niche packaging experiment into an industry standard
+- **題材**: `半導體先進製程` | **重要性**: `73`
+- **來源**: Digitimes (2026-09-28T23:18:56Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: As chip design enters the AI era, heterogeneous integration is driving foundry giants like TSMC, Samsung, and Intel to bring advanced front-end fab capabilities into back-end packaging. In the second part of his interview with DIGITIMES, Dr. Shin-Puu Jeng, ch…
+- [原文連結](https://www.digitimes.com/news/a20260924PD238/tsmc-packaging-cowos-design-silicon.html)
+
+---
+
+### 🚀 South Korea's HBM-linked exports surge as Taiwan, Malaysia emerge as high-value destinations
+- **題材**: `HBM記憶體` | **重要性**: `73`
+- **來源**: Digitimes (2026-09-28T01:12:02Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: South Korea's exports of the customs category that carries high-bandwidth memory (HBM) are no longer a two-destination story. Unit-value data show that the chips going to Taiwan and Malaysia are worth several times more per kilogram than those shipped to Hong…
+- [原文連結](https://www.digitimes.com/news/a20260924VL201/exports-taiwan-hbm-packaging-data.html)
+
+---
+
+### ⚖️ Qualcomm sticks with TSMC for both 2nm Snapdragon flagships as Samsung steps up foundry push
+- **題材**: `半導體先進製程` | **重要性**: `73`
+- **來源**: Digitimes (2026-09-24T04:52:55Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Qualcomm is sticking with TSMC for both of its newly launched 2nm Snapdragon flagship processors, extending the Taiwan foundry's hold on Qualcomm's top-tier mobile chips even as Samsung Electronics ramps its second-generation 2nm process and steps up efforts …
+- [原文連結](https://www.digitimes.com/news/a20260924VL210/qualcomm-tsmc-snapdragon-samsung-2nm.html)
+
+---
+
+### ⚖️ Supermicro begins shipping Nvidia Vera Rubin NVL72 AI racks
+- **題材**: `AI伺服器` | **重要性**: `73`
+- **來源**: Digitimes (2026-09-24T02:11:40Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Supermicro has begun shipping Nvidia's next-generation Vera Rubin NVL72 systems, moving the rack-scale platform from product demonstrations into customer deployments as AI infrastructure increasingly requires integrated computing, power, and liquid-cooling sy…
+- [原文連結](https://www.digitimes.com/news/a20260924VL200/supermicro-nvidia-rubin-shipping-infrastructure.html)
 
 ---
 
@@ -25,6 +79,15 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: SK Hynix's high-bandwidth memory (HBM) production site under construction in Indiana has been drawn into local litigation as the race for AI memory capacity intensifies. Local residents in the US are seeking to overturn a land-use change and halt construction…
 - [原文連結](https://www.digitimes.com/news/a20260923PD230/sk-hynix-hbm-lawsuit-production-bandwidth.html)
+
+---
+
+### 🚀 Win Semiconductors expands optical communications capacity with DUV tools
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-09-23T00:13:50Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Optical communications capacity is in short supply as surging computing demand from AI data centers turns transmission into a bottleneck for AI infrastructure. The market is shifting toward combined optical-and-copper solutions, while optical communications r…
+- [原文連結](https://www.digitimes.com/news/a20260922PD242/communications-capacity-demand-duv-market.html)
 
 ---
 
@@ -110,75 +173,12 @@ The post Mizuho initiates Tower Semiconductor at Outperform with $300 price targ
 
 ---
 
-### 🚀 Gold falls amid rising oil prices and higher US dollar
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Al Jazeera English (2026-09-28T21:34:51Z)
-- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Gold hits seven-week low; silver follows suit and records a nearly 5 percent loss.
-- [原文連結](https://www.aljazeera.com/economy/2026/9/28/gold-falls-amid-rising-oil-prices-and-higher-us-dollar)
-
----
-
-### ⚖️ Qualcomm confirms it wants to use Samsung's 2nm process
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: GSMArena.com (2026-09-28T18:21:02Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: A couple of weeks or so ago, a rumor surfaced about Qualcomm still being in talks with Samsung about the latter's 2nm process node, and possibly using Samsung Foundry to make some of the recently launched Snapdragon 8 Elite Gen 6 chips. That has not panned ou…
-- [原文連結](https://www.gsmarena.com/qualcomm_confirms_it_wants_to_use_samsungs_2nm_process-news-74797.php)
-
----
-
-### 🚀 GlobalFoundries reportedly sees strong demand for Chinese optical modules
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: The Next Web (2026-09-27T14:56:15Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: US chipmaker GlobalFoundries says demand for Chinese optical modules is strong as more data centres are built, one of its top bosses told the South China Morning Post. Ann Cao reported the interview from Shanghai on Sunday. Optical modules turn data into ligh…
-- [原文連結](https://thenextweb.com/news/globalfoundries-chinese-optical-modules-demand)
-
----
-
-### 🚀 Can Credo Technology (CRDO) Turn 1.6T Optical Transceivers Into Its Next AI Growth Driver?
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: Biztoc.com (2026-09-27T10:04:08Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Credo Technology Group Holding Ltd (NASDAQ:CRDO) just broadened its ZeroFlap (ZF) optical transceiver offerings with a new 224G-based lineup. This move positions the company strongly within the ongoing AI network buildout, which is witnessing breakout demand …
-- [原文連結](https://biztoc.com/x/03f2deb2c7a657b9)
-
----
-
-### ⚖️ OpenAI (2015)
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: Openai.com (2026-09-27T00:44:48Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: OpenAI is a non-profit artificial intelligence research company. Our goal is to advance digital intelligence in the way that is most likely to benefit humanity as a whole, unconstrained by a need to generate financial return. Since our research is free from f…
-- [原文連結](https://openai.com/index/introducing-openai/)
-
----
-
-### ⚖️ Defying higher bond yields: Consumers keep spending and the economy keeps booming
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-09-26T11:40:59Z)
-- **AI 判讀**: 屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Higher bond yields, tariffs, and a spike in energy prices haven't been enough to slow the economy down. This week, the yield on the 10-year Treasury bond — which influences mortgage rates and other borrowing costs — rose to 5.2%, marking its highest level in …
-- [原文連結](https://finance.yahoo.com/economy/article/defying-higher-bond-yields-consumers-keep-spending-and-the-economy-keeps-booming-114059027.html)
-
----
-
-### ⚠️ China says it agrees to a $30B tariff cut and trade council with the U.S.
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-09-26T11:35:10Z)
-- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: SHANGHAI, Sept 26 (Reuters) - China said on Saturday it had agreed with the US on a $30 billion reciprocal tariff-reduction arrangement and on launching a dialogue on ‌AI, under an eight-point consensus reached during President Xi Jinping's visit to Washingto…
-- [原文連結](https://www.yahoo.com/news/articles/china-us-agree-30-billion-083836628.html)
-
----
-
-### ⚠️ My baby business was pummeled by tariffs on China and Canada. It's taught me perseverance.
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Business Insider (2026-09-26T08:49:01Z)
-- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Garett Senez's company Quark Baby is based in Canada and manufactured in China. The tariffs required him to switch up his supply chain to survive.
-- [原文連結](https://www.businessinsider.com/baby-business-china-canada-tariffs-impact-2026-9#article)
+### ⚖️ Samsung Electronics says HBM to account for nearly 30% of industry DRAM capacity next year
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: CNA (2026-09-29T01:07:39Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: SEOUL, Sept 29 : A Samsung Electronics executive said on Tuesday that high-bandwidth memory (HBM) is expected to account for nearly 30 per cent of Dynamic Random-Access Memory (DRAM) chipmakers' total wafer capacity next year, up from about 20 per cent curren…
+- [原文連結](https://www.channelnewsasia.com/business/samsung-electronics-says-hbm-account-nearly-30-industry-dram-capacity-next-year-6417091)
 
 ---
 
