@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-30T06:11:03.033633+00:00
+> 更新時間：2026-09-30T15:40:55.675248+00:00
 
 ### 🚀 Behind CoWoS (part 1)—How a 0% yield crisis led to TSMC's first advanced packaging win
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -10,12 +10,30 @@
 
 ---
 
+### ⚖️ In global semiconductor race, Singapore bets on critical, mature technologies
+- **題材**: `光通訊與矽光子` | **重要性**: `78`
+- **來源**: Digitimes (2026-09-29T08:57:39Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Amid the ongoing restructuring of the global semiconductor supply chain, Singapore is focusing on advanced packaging, heterogeneous integration, silicon photonics, and optical interconnects, aiming to leverage nearly six decades' worth of manufacturing and su…
+- [原文連結](https://www.digitimes.com/news/a20260929PD244/packaging-manufacturing-equipment-supply-chain-materials.html)
+
+---
+
 ### 🚀 AI drives Episil GeSi, PMIC growth
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
 - **來源**: Digitimes (2026-09-24T07:14:47Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Semiconductor epitaxy maker Episil Precision said on September 22 that rising demand from AI data centers has created two main growth engines. Demand for silicon photonics optical communication modules is driving a surge in germanium silicon (GeSi) epitaxy de…
 - [原文連結](https://www.digitimes.com/news/a20260923PD236/episil-demand-growth-silicon-photonics.html)
+
+---
+
+### ⚖️ Samsung reshuffles DRAM roadmap, prioritizing B1b hybrid bonding for D0a, HBM5
+- **題材**: `HBM記憶體` | **重要性**: `73`
+- **來源**: Digitimes (2026-09-29T08:19:54Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Samsung Electronics is reshaping its next-generation dynamic random-access memory (DRAM) roadmap, elevating its B1b wafer-to-wafer (W2W) hybrid bonding technology from a project-specific development to the core technology behind D0a, its first sub-10nm DRAM g…
+- [原文連結](https://www.digitimes.com/news/a20260929PD238/samsung-dram-roadmap-technology-development.html)
 
 ---
 
@@ -82,15 +100,6 @@
 
 ---
 
-### ⚖️ Supermicro begins shipping Nvidia Vera Rubin NVL72 AI racks
-- **題材**: `AI伺服器` | **重要性**: `73`
-- **來源**: Digitimes (2026-09-24T02:11:40Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Supermicro has begun shipping Nvidia's next-generation Vera Rubin NVL72 systems, moving the rack-scale platform from product demonstrations into customer deployments as AI infrastructure increasingly requires integrated computing, power, and liquid-cooling sy…
-- [原文連結](https://www.digitimes.com/news/a20260924VL200/supermicro-nvidia-rubin-shipping-infrastructure.html)
-
----
-
 ### ⚠️ SK Hynix Indiana HBM plant faces lawsuit
 - **題材**: `HBM記憶體` | **重要性**: `73`
 - **來源**: Digitimes (2026-09-24T00:16:08Z)
@@ -118,6 +127,15 @@
 
 ---
 
+### ⚖️ RoboTechnik completes Hong Kong listing to fund ficonTEC expansion in silicon photonics
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-09-29T07:38:58Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: RoboTechnik completed a Hong Kong listing on September 29 and began trading on the Hong Kong stock exchange, according to its German photonics automation subsidiary ficonTEC. The new capital will be used for further investment in ficonTEC, which is expanding …
+- [原文連結](https://www.digitimes.com/news/a20260929PD241/photonics-silicon-automation-production-manufacturing.html)
+
+---
+
 ### ⚖️ Singapore deepens chip R&D ties with Applied Materials, KLA and GlobalFoundries
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
 - **來源**: Digitimes (2026-09-25T09:15:59Z)
@@ -136,21 +154,21 @@
 
 ---
 
-### ⚖️ Hermes-Epitek eyes CPO test revenue in 2027
-- **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-09-23T06:14:58Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Archie Hwang, the founder and chairman of Hermes-Epitek, appeared before the media alongside Hermes Testing Solutions Inc. (HTSI) executives. The company outlined a major push into silicon photonics (SiPh) co-packaged optics (CPO) testing and said related rev…
-- [原文連結](https://www.digitimes.com/news/a20260923PD223/chairman-cpo-revenue-2027-testing.html)
+### ⚖️ Meta signs deal for Firmus AI computing capacity in Southeast Asia
+- **題材**: `AI伺服器` | **重要性**: `65`
+- **來源**: The Next Web (2026-09-29T06:57:55Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Meta has signed deals to rent AI chips at data centers in Southeast Asia run by Firmus, an Australian company that builds them, the two companies announced. Meta has reserved a certain amount of capacity and can add more if needed. Also, the company plans to …
+- [原文連結](https://thenextweb.com/news/meta-signs-deal-for-firmus-ai-computing-capacity-in-southeast-asia)
 
 ---
 
-### ⚖️ China's ByteDance gained access to over 2,000 Nvidia B200 chips through Norway data center
-- **題材**: `AI伺服器` | **重要性**: `67`
-- **來源**: Tom's Hardware UK (2026-09-23T12:00:43Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: UK-based Nscale signed a deal with Spring (SG) Pte Ltd, which is a subsidiary of Chinese tech giant ByteDance. The company did not make any direct mention of the TikTok parent in its filings for a U.S. IPO, while a supporting document only labeled Spring as a…
-- [原文連結](https://www.tomshardware.com/tech-industry/data-centers/filing-reveals-how-bytedance-gained-access-to-over-2-000-nvidia-b200-chips-through-nscales-norway-data-center-singaporean-subsidiary-spring-contributed-73-percent-of-uk-neoclouds-2025-revenue)
+### ⚠️ Trump denies reports he offered Iran sanctions relief to end the war
+- **題材**: `總體風險` | **重要性**: `65`
+- **來源**: Yahoo Entertainment (2026-09-29T06:53:38Z)
+- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Sept 29 (Reuters) - US President Donald Trump said he has offered Iran nothing to end the war, rejecting media reports that cited US officials saying he was willing to ease sanctions and release frozen funds for "concrete" steps regarding Iran's nuclear ‌prog…
+- [原文連結](https://uk.news.yahoo.com/trump-denies-offering-iran-sanctions-064453242.html)
 
 ---
 
@@ -160,25 +178,6 @@
 - **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Mortgage rates aren't the only risk from high bond yields. They can squeeze apartment construction, utility investment, and public works.
 - [原文連結](https://www.businessinsider.com/how-higher-bond-yields-affect-electric-bills-apartment-rents-taxes-2026-9#article)
-
----
-
-### 🚀 Mizuho initiates Tower Semiconductor at Outperform with $300 price target, citing AI optical connectivity boom
-- **題材**: `光通訊與矽光子` | **重要性**: `65`
-- **來源**: Crypto Briefing (2026-09-25T11:36:05Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Tower Semiconductor's strategic positioning in AI optical connectivity could significantly enhance its market influence and financial growth.
-The post Mizuho initiates Tower Semiconductor at Outperform with $300 price target, citing AI optical connectivity bo…
-- [原文連結](https://cryptobriefing.com/mizuho-tower-semiconductor-outperform-ai-optics/)
-
----
-
-### ⚖️ Elon Musk's SpaceXAI to add another 660,000 AI GPUs this year, nearing a total of 1.44 million in operation
-- **題材**: `AI伺服器` | **重要性**: `62`
-- **來源**: Tom's Hardware UK (2026-09-25T15:40:00Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Elon Musk says that the Colossus 2 will receive 220,000 GB300 GPUs by next week, with another two tranches of the same amount expected to arrive later this year. This will put the site at over a million AI GPUs, finally hitting the goal the billionaire set tw…
-- [原文連結](https://www.tomshardware.com/tech-industry/data-centers/elon-musks-spacexai-to-add-another-660-000-ai-gpus-this-year-nearing-a-total-of-1-44-million-in-operation-firm-is-building-1-2-gigawatt-power-plant-to-bring-systems-fully-online)
 
 ---
 
