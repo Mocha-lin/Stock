@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-01T06:41:57.775648+00:00
+> 更新時間：2026-10-01T16:01:27.908706+00:00
 
 ### 🚀 GlobalFoundries Singapore capacity utilization tops 90% as silicon photonics expansion hits equipment lead-time bottleneck
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -7,15 +7,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: GlobalFoundries (GF) is expanding its Singapore footprint following its acquisition of local silicon photonics foundry Advanced Micro Foundry (AMF), integrating 200mm and 300mm silicon photonics technologies while transferring its existing US 300mm capabiliti…
 - [原文連結](https://www.digitimes.com/news/a20260929PD228/globalfoundries-silicon-photonics-equipment-capacity.html)
-
----
-
-### ⚖️ Column: Why Micron's US$250M venture fund is about more than HBM margins—Taiwan has a stake in it
-- **題材**: `HBM記憶體` | **重要性**: `83`
-- **來源**: Digitimes (2026-09-29T06:40:00Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Micron unveiled the Micron Ventures Paradigm Fund, a US$250 million venture vehicle, in mid-August 2026, as the memory maker pairs more than US$25 billion in fiscal 2026 capex with a pledge to invest more than US$250 billion in the US by 2035. The fund is des…
-- [原文連結](https://www.digitimes.com/news/a20260929PD229/micron-taiwan-manufacturing-2026-technology.html)
 
 ---
 
@@ -34,15 +25,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Amid the ongoing restructuring of the global semiconductor supply chain, Singapore is focusing on advanced packaging, heterogeneous integration, silicon photonics, and optical interconnects, aiming to leverage nearly six decades' worth of manufacturing and su…
 - [原文連結](https://www.digitimes.com/news/a20260929PD244/packaging-manufacturing-equipment-supply-chain-materials.html)
-
----
-
-### 🚀 AI drives Episil GeSi, PMIC growth
-- **題材**: `光通訊與矽光子` | **重要性**: `78`
-- **來源**: Digitimes (2026-09-24T07:14:47Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Semiconductor epitaxy maker Episil Precision said on September 22 that rising demand from AI data centers has created two main growth engines. Demand for silicon photonics optical communication modules is driving a surge in germanium silicon (GeSi) epitaxy de…
-- [原文連結](https://www.digitimes.com/news/a20260923PD236/episil-demand-growth-silicon-photonics.html)
 
 ---
 
@@ -100,6 +82,24 @@
 
 ---
 
+### 🚀 AI drives Episil GeSi, PMIC growth
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-09-24T07:14:47Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Semiconductor epitaxy maker Episil Precision said on September 22 that rising demand from AI data centers has created two main growth engines. Demand for silicon photonics optical communication modules is driving a surge in germanium silicon (GeSi) epitaxy de…
+- [原文連結](https://www.digitimes.com/news/a20260923PD236/episil-demand-growth-silicon-photonics.html)
+
+---
+
+### ⚖️ Netlist challenges Micron, Nvidia, Broadcom, Google over alleged HBM patent use
+- **題材**: `HBM記憶體` | **重要性**: `68`
+- **來源**: Digitimes (2026-09-30T08:42:54Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Netlist has begun legal proceedings against Micron and downstream customers Nvidia, Broadcom, and Google to stop them from allegedly using the company's patented high-bandwidth memory (HBM) technology without authorization. The case arrives as AI applications…
+- [原文連結](https://www.digitimes.com/news/a20260930VL219/micron-patent-nvidia-broadcom-hbm.html)
+
+---
+
 ### ⚖️ TSMC reportedly evaluates Texas fabs as US regional competition intensifies
 - **題材**: `半導體先進製程` | **重要性**: `68`
 - **來源**: Digitimes (2026-09-30T02:07:21Z)
@@ -136,24 +136,6 @@
 
 ---
 
-### ⚖️ Samsung, SK Hynix in the running for PS6 GDDR7 orders
-- **題材**: `HBM記憶體` | **重要性**: `68`
-- **來源**: Digitimes (2026-09-25T01:02:41Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Samsung Electronics and SK Hynix are reportedly in the running to supply 24Gb GDDR7 memory for Sony's next-generation PlayStation, as tight memory supply complicates planning for the Japanese company's next hardware platform.
-- [原文連結](https://www.digitimes.com/news/a20260924VL224/samsung-sk-hynix-sony-demand-launch.html)
-
----
-
-### ⚖️ CXMT gains ground in DRAM as Samsung, SK Hynix shift more capacity to HBM
-- **題材**: `HBM記憶體` | **重要性**: `68`
-- **來源**: Digitimes (2026-09-24T07:55:00Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: China's ChangXin Memory Technologies (CXMT) is gaining ground in the global DRAM market as Samsung Electronics and SK Hynix allocate more production capacity to high-bandwidth memory (HBM), tightening conventional memory supply and giving the Chinese supplier…
-- [原文連結](https://www.digitimes.com/news/a20260924VL219/dram-cxmt-samsung-hbm-capacity.html)
-
----
-
 ### ⚖️ Qualcomm sticks with TSMC for both 2nm Snapdragon flagships as Samsung steps up foundry push
 - **題材**: `半導體先進製程` | **重要性**: `68`
 - **來源**: Digitimes (2026-09-24T04:52:55Z)
@@ -178,6 +160,24 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: SK Hynix's high-bandwidth memory (HBM) production site under construction in Indiana has been drawn into local litigation as the race for AI memory capacity intensifies. Local residents in the US are seeking to overturn a land-use change and halt construction…
 - [原文連結](https://www.digitimes.com/news/a20260923PD230/sk-hynix-hbm-lawsuit-production-bandwidth.html)
+
+---
+
+### ⚖️ Meta signs deal for Firmus AI computing capacity in Southeast Asia
+- **題材**: `AI伺服器` | **重要性**: `65`
+- **來源**: The Next Web (2026-09-29T06:57:55Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Meta has signed deals to rent AI chips at data centers in Southeast Asia run by Firmus, an Australian company that builds them, the two companies announced. Meta has reserved a certain amount of capacity and can add more if needed. Also, the company plans to …
+- [原文連結](https://thenextweb.com/news/meta-signs-deal-for-firmus-ai-computing-capacity-in-southeast-asia)
+
+---
+
+### ⚠️ Trump denies reports he offered Iran sanctions relief to end the war
+- **題材**: `總體風險` | **重要性**: `65`
+- **來源**: Yahoo Entertainment (2026-09-29T06:53:38Z)
+- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Sept 29 (Reuters) - US President Donald Trump said he has offered Iran nothing to end the war, rejecting media reports that cited US officials saying he was willing to ease sanctions and release frozen funds for "concrete" steps regarding Iran's nuclear ‌prog…
+- [原文連結](https://uk.news.yahoo.com/trump-denies-offering-iran-sanctions-064453242.html)
 
 ---
 
