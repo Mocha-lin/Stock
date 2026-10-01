@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-01T16:01:27.908706+00:00
+> 更新時間：2026-10-01T18:36:03.025992+00:00
 
 ### 🚀 GlobalFoundries Singapore capacity utilization tops 90% as silicon photonics expansion hits equipment lead-time bottleneck
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -34,15 +34,6 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Samsung Electronics is reshaping its next-generation dynamic random-access memory (DRAM) roadmap, elevating its B1b wafer-to-wafer (W2W) hybrid bonding technology from a project-specific development to the core technology behind D0a, its first sub-10nm DRAM g…
 - [原文連結](https://www.digitimes.com/news/a20260929PD238/samsung-dram-roadmap-technology-development.html)
-
----
-
-### ⚖️ Beyond 16 layers: HBM stacks test advanced packaging equipment makers
-- **題材**: `半導體先進製程` | **重要性**: `73`
-- **來源**: Digitimes (2026-09-29T03:55:16Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: At Singapore's Innovate Together 2026 conference on September 25, equipment makers including ASM, ASMPT, and KLA said the challenges facing next-generation advanced packaging are expanding beyond the performance of individual tools to hybrid bonding, interfac…
-- [原文連結](https://www.digitimes.com/news/a20260929PD221/packaging-equipment-hbm-2026-materials.html)
 
 ---
 
@@ -136,15 +127,6 @@
 
 ---
 
-### ⚖️ Qualcomm sticks with TSMC for both 2nm Snapdragon flagships as Samsung steps up foundry push
-- **題材**: `半導體先進製程` | **重要性**: `68`
-- **來源**: Digitimes (2026-09-24T04:52:55Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Qualcomm is sticking with TSMC for both of its newly launched 2nm Snapdragon flagship processors, extending the Taiwan foundry's hold on Qualcomm's top-tier mobile chips even as Samsung Electronics ramps its second-generation 2nm process and steps up efforts …
-- [原文連結](https://www.digitimes.com/news/a20260924VL210/qualcomm-tsmc-snapdragon-samsung-2nm.html)
-
----
-
 ### ⚖️ Supermicro begins shipping Nvidia Vera Rubin NVL72 AI racks
 - **題材**: `AI伺服器` | **重要性**: `68`
 - **來源**: Digitimes (2026-09-24T02:11:40Z)
@@ -178,6 +160,25 @@
 - **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Sept 29 (Reuters) - US President Donald Trump said he has offered Iran nothing to end the war, rejecting media reports that cited US officials saying he was willing to ease sanctions and release frozen funds for "concrete" steps regarding Iran's nuclear ‌prog…
 - [原文連結](https://uk.news.yahoo.com/trump-denies-offering-iran-sanctions-064453242.html)
+
+---
+
+### 🚀 Mizuho initiates Tower Semiconductor at Outperform with $300 price target, citing AI optical connectivity boom
+- **題材**: `光通訊與矽光子` | **重要性**: `65`
+- **來源**: Crypto Briefing (2026-09-25T11:36:05Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Tower Semiconductor's strategic positioning in AI optical connectivity could significantly enhance its market influence and financial growth.
+The post Mizuho initiates Tower Semiconductor at Outperform with $300 price target, citing AI optical connectivity bo…
+- [原文連結](https://cryptobriefing.com/mizuho-tower-semiconductor-outperform-ai-optics/)
+
+---
+
+### ⚖️ CXMT gains ground in DRAM as Samsung, SK Hynix shift more capacity to HBM
+- **題材**: `HBM記憶體` | **重要性**: `63`
+- **來源**: Digitimes (2026-09-24T07:55:00Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: China's ChangXin Memory Technologies (CXMT) is gaining ground in the global DRAM market as Samsung Electronics and SK Hynix allocate more production capacity to high-bandwidth memory (HBM), tightening conventional memory supply and giving the Chinese supplier…
+- [原文連結](https://www.digitimes.com/news/a20260924VL219/dram-cxmt-samsung-hbm-capacity.html)
 
 ---
 
