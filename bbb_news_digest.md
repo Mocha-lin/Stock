@@ -1,5 +1,23 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-09-30T22:40:42.296316+00:00
+> 更新時間：2026-10-01T01:49:29.355178+00:00
+
+### 🚀 GlobalFoundries Singapore capacity utilization tops 90% as silicon photonics expansion hits equipment lead-time bottleneck
+- **題材**: `光通訊與矽光子` | **重要性**: `83`
+- **來源**: Digitimes (2026-09-30T00:38:31Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: GlobalFoundries (GF) is expanding its Singapore footprint following its acquisition of local silicon photonics foundry Advanced Micro Foundry (AMF), integrating 200mm and 300mm silicon photonics technologies while transferring its existing US 300mm capabiliti…
+- [原文連結](https://www.digitimes.com/news/a20260929PD228/globalfoundries-silicon-photonics-equipment-capacity.html)
+
+---
+
+### ⚖️ Column: Why Micron's US$250M venture fund is about more than HBM margins—Taiwan has a stake in it
+- **題材**: `HBM記憶體` | **重要性**: `83`
+- **來源**: Digitimes (2026-09-29T06:40:00Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Micron unveiled the Micron Ventures Paradigm Fund, a US$250 million venture vehicle, in mid-August 2026, as the memory maker pairs more than US$25 billion in fiscal 2026 capex with a pledge to invest more than US$250 billion in the US by 2035. The fund is des…
+- [原文連結](https://www.digitimes.com/news/a20260929PD229/micron-taiwan-manufacturing-2026-technology.html)
+
+---
 
 ### 🚀 Behind CoWoS (part 1)—How a 0% yield crisis led to TSMC's first advanced packaging win
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -11,9 +29,9 @@
 ---
 
 ### ⚖️ In global semiconductor race, Singapore bets on critical, mature technologies
-- **題材**: `光通訊與矽光子` | **重要性**: `78`
+- **題材**: `半導體先進製程` | **重要性**: `78`
 - **來源**: Digitimes (2026-09-29T08:57:39Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Amid the ongoing restructuring of the global semiconductor supply chain, Singapore is focusing on advanced packaging, heterogeneous integration, silicon photonics, and optical interconnects, aiming to leverage nearly six decades' worth of manufacturing and su…
 - [原文連結](https://www.digitimes.com/news/a20260929PD244/packaging-manufacturing-equipment-supply-chain-materials.html)
 
@@ -43,6 +61,15 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: At Singapore's Innovate Together 2026 conference on September 25, equipment makers including ASM, ASMPT, and KLA said the challenges facing next-generation advanced packaging are expanding beyond the performance of individual tools to hybrid bonding, interfac…
 - [原文連結](https://www.digitimes.com/news/a20260929PD221/packaging-equipment-hbm-2026-materials.html)
+
+---
+
+### ⚖️ SK Hynix tests HBM5 with TSMC as HBM4 enters Nvidia's next platform
+- **題材**: `半導體先進製程` | **重要性**: `73`
+- **來源**: Digitimes (2026-09-29T03:23:52Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: SK Hynix has validated its HBM5 memory with TSMC's CoWoS packaging, the company said in a September 28 post on its corporate newsroom. That means work on the generation after next is already underway with the foundry, while its HBM4 is only now being built in…
+- [原文連結](https://www.digitimes.com/news/a20260929VL203/tsmc-sk-hynix-nvidia-hbm4-packaging.html)
 
 ---
 
@@ -91,21 +118,12 @@
 
 ---
 
-### ⚠️ SK Hynix Indiana HBM plant faces lawsuit
-- **題材**: `HBM記憶體` | **重要性**: `73`
-- **來源**: Digitimes (2026-09-24T00:16:08Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: SK Hynix's high-bandwidth memory (HBM) production site under construction in Indiana has been drawn into local litigation as the race for AI memory capacity intensifies. Local residents in the US are seeking to overturn a land-use change and halt construction…
-- [原文連結](https://www.digitimes.com/news/a20260923PD230/sk-hynix-hbm-lawsuit-production-bandwidth.html)
-
----
-
-### 🚀 Win Semiconductors expands optical communications capacity with DUV tools
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-09-23T00:13:50Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Optical communications capacity is in short supply as surging computing demand from AI data centers turns transmission into a bottleneck for AI infrastructure. The market is shifting toward combined optical-and-copper solutions, while optical communications r…
-- [原文連結](https://www.digitimes.com/news/a20260922PD242/communications-capacity-demand-duv-market.html)
+### ⚖️ Supermicro begins shipping Nvidia Vera Rubin NVL72 AI racks
+- **題材**: `AI伺服器` | **重要性**: `73`
+- **來源**: Digitimes (2026-09-24T02:11:40Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Supermicro has begun shipping Nvidia's next-generation Vera Rubin NVL72 systems, moving the rack-scale platform from product demonstrations into customer deployments as AI infrastructure increasingly requires integrated computing, power, and liquid-cooling sy…
+- [原文連結](https://www.digitimes.com/news/a20260924VL200/supermicro-nvidia-rubin-shipping-infrastructure.html)
 
 ---
 
@@ -118,12 +136,30 @@
 
 ---
 
+### 🚀 South Korea's HBM-linked exports surge as Taiwan, Malaysia emerge as high-value destinations
+- **題材**: `HBM記憶體` | **重要性**: `68`
+- **來源**: Digitimes (2026-09-28T01:12:02Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: South Korea's exports of the customs category that carries high-bandwidth memory (HBM) are no longer a two-destination story. Unit-value data show that the chips going to Taiwan and Malaysia are worth several times more per kilogram than those shipped to Hong…
+- [原文連結](https://www.digitimes.com/news/a20260924VL201/exports-taiwan-hbm-packaging-data.html)
+
+---
+
 ### ⚖️ Singapore deepens chip R&D ties with Applied Materials, KLA and GlobalFoundries
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
 - **來源**: Digitimes (2026-09-25T09:15:59Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Singapore is deepening semiconductor R&D ties with Applied Materials, KLA, GlobalFoundries (GF) and other industry players across advanced packaging and silicon photonics, as the city-state builds on its manufacturing base to strengthen technology development…
 - [原文連結](https://www.digitimes.com/news/a20260925PD201/kla-applied-materials-globalfoundries-manufacturing-silicon.html)
+
+---
+
+### ⚖️ Samsung, SK Hynix in the running for PS6 GDDR7 orders
+- **題材**: `HBM記憶體` | **重要性**: `68`
+- **來源**: Digitimes (2026-09-25T01:02:41Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Samsung Electronics and SK Hynix are reportedly in the running to supply 24Gb GDDR7 memory for Sony's next-generation PlayStation, as tight memory supply complicates planning for the Japanese company's next hardware platform.
+- [原文連結](https://www.digitimes.com/news/a20260924VL224/samsung-sk-hynix-sony-demand-launch.html)
 
 ---
 
@@ -136,49 +172,12 @@
 
 ---
 
-### ⚖️ Meta signs deal for Firmus AI computing capacity in Southeast Asia
-- **題材**: `AI伺服器` | **重要性**: `65`
-- **來源**: The Next Web (2026-09-29T06:57:55Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Meta has signed deals to rent AI chips at data centers in Southeast Asia run by Firmus, an Australian company that builds them, the two companies announced. Meta has reserved a certain amount of capacity and can add more if needed. Also, the company plans to …
-- [原文連結](https://thenextweb.com/news/meta-signs-deal-for-firmus-ai-computing-capacity-in-southeast-asia)
-
----
-
-### ⚠️ Trump denies reports he offered Iran sanctions relief to end the war
-- **題材**: `總體風險` | **重要性**: `65`
-- **來源**: Yahoo Entertainment (2026-09-29T06:53:38Z)
-- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Sept 29 (Reuters) - US President Donald Trump said he has offered Iran nothing to end the war, rejecting media reports that cited US officials saying he was willing to ease sanctions and release frozen funds for "concrete" steps regarding Iran's nuclear ‌prog…
-- [原文連結](https://uk.news.yahoo.com/trump-denies-offering-iran-sanctions-064453242.html)
-
----
-
-### ⚠️ 3 overlooked ways higher bond yields could be felt by everyday Americans
-- **題材**: `總體風險` | **重要性**: `65`
-- **來源**: Business Insider (2026-09-28T09:50:02Z)
-- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Mortgage rates aren't the only risk from high bond yields. They can squeeze apartment construction, utility investment, and public works.
-- [原文連結](https://www.businessinsider.com/how-higher-bond-yields-affect-electric-bills-apartment-rents-taxes-2026-9#article)
-
----
-
-### 🚀 Mizuho initiates Tower Semiconductor at Outperform with $300 price target, citing AI optical connectivity boom
-- **題材**: `光通訊與矽光子` | **重要性**: `65`
-- **來源**: Crypto Briefing (2026-09-25T11:36:05Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Tower Semiconductor's strategic positioning in AI optical connectivity could significantly enhance its market influence and financial growth.
-The post Mizuho initiates Tower Semiconductor at Outperform with $300 price target, citing AI optical connectivity bo…
-- [原文連結](https://cryptobriefing.com/mizuho-tower-semiconductor-outperform-ai-optics/)
-
----
-
-### ⚖️ Hermes-Epitek eyes CPO test revenue in 2027
-- **題材**: `光通訊與矽光子` | **重要性**: `63`
-- **來源**: Digitimes (2026-09-23T06:14:58Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Archie Hwang, the founder and chairman of Hermes-Epitek, appeared before the media alongside Hermes Testing Solutions Inc. (HTSI) executives. The company outlined a major push into silicon photonics (SiPh) co-packaged optics (CPO) testing and said related rev…
-- [原文連結](https://www.digitimes.com/news/a20260923PD223/chairman-cpo-revenue-2027-testing.html)
+### ⚠️ SK Hynix Indiana HBM plant faces lawsuit
+- **題材**: `HBM記憶體` | **重要性**: `68`
+- **來源**: Digitimes (2026-09-24T00:16:08Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: SK Hynix's high-bandwidth memory (HBM) production site under construction in Indiana has been drawn into local litigation as the race for AI memory capacity intensifies. Local residents in the US are seeking to overturn a land-use change and halt construction…
+- [原文連結](https://www.digitimes.com/news/a20260923PD230/sk-hynix-hbm-lawsuit-production-bandwidth.html)
 
 ---
 
