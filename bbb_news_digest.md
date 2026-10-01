@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-01T18:36:03.025992+00:00
+> 更新時間：2026-10-01T22:56:26.227274+00:00
 
 ### 🚀 GlobalFoundries Singapore capacity utilization tops 90% as silicon photonics expansion hits equipment lead-time bottleneck
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -145,6 +145,15 @@
 
 ---
 
+### ⚖️ Micron's AI-fueled revenue forecast blows past estimates, backlog swells
+- **題材**: `HBM記憶體` | **重要性**: `65`
+- **來源**: CNA (2026-09-30T20:08:18Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Sept 30 : Micron Technology forecast quarterly revenue above estimates on Wednesday and said customers had increased commitments under its long-term supply agreements to $32 billion, signaling unabated demand for AI memory chips.The generative AI boom has mad…
+- [原文連結](https://www.channelnewsasia.com/business/microns-ai-fueled-revenue-forecast-blows-past-estimates-backlog-swells-6422616)
+
+---
+
 ### ⚖️ Meta signs deal for Firmus AI computing capacity in Southeast Asia
 - **題材**: `AI伺服器` | **重要性**: `65`
 - **來源**: The Next Web (2026-09-29T06:57:55Z)
@@ -170,15 +179,6 @@
 - **摘要**: Tower Semiconductor's strategic positioning in AI optical connectivity could significantly enhance its market influence and financial growth.
 The post Mizuho initiates Tower Semiconductor at Outperform with $300 price target, citing AI optical connectivity bo…
 - [原文連結](https://cryptobriefing.com/mizuho-tower-semiconductor-outperform-ai-optics/)
-
----
-
-### ⚖️ CXMT gains ground in DRAM as Samsung, SK Hynix shift more capacity to HBM
-- **題材**: `HBM記憶體` | **重要性**: `63`
-- **來源**: Digitimes (2026-09-24T07:55:00Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: China's ChangXin Memory Technologies (CXMT) is gaining ground in the global DRAM market as Samsung Electronics and SK Hynix allocate more production capacity to high-bandwidth memory (HBM), tightening conventional memory supply and giving the Chinese supplier…
-- [原文連結](https://www.digitimes.com/news/a20260924VL219/dram-cxmt-samsung-hbm-capacity.html)
 
 ---
 
