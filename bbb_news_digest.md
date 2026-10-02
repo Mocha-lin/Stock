@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-02T15:25:10.601869+00:00
+> 更新時間：2026-10-02T18:05:38.053096+00:00
 
 ### 🚀 GlobalFoundries Singapore capacity utilization tops 90% as silicon photonics expansion hits equipment lead-time bottleneck
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -73,21 +73,21 @@
 
 ---
 
-### ⚖️ Samsung reshuffles DRAM roadmap, prioritizing B1b hybrid bonding for D0a, HBM5
-- **題材**: `HBM記憶體` | **重要性**: `68`
-- **來源**: Digitimes (2026-09-29T08:19:54Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Samsung Electronics is reshaping its next-generation dynamic random-access memory (DRAM) roadmap, elevating its B1b wafer-to-wafer (W2W) hybrid bonding technology from a project-specific development to the core technology behind D0a, its first sub-10nm DRAM g…
-- [原文連結](https://www.digitimes.com/news/a20260929PD238/samsung-dram-roadmap-technology-development.html)
-
----
-
 ### ⚖️ HBM to take nearly 30% of DRAM capacity as Samsung speeds up P5
 - **題材**: `HBM記憶體` | **重要性**: `68`
 - **來源**: Digitimes (2026-09-29T03:07:49Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: High-bandwidth memory (HBM) is expected to account for nearly 30% of DRAM makers' total wafer capacity in 2027, up from about 20% currently, as Samsung Electronics moves to accelerate the rollout of new memory capacity amid tightening supplies of both HBM and…
 - [原文連結](https://www.digitimes.com/news/a20260929VL202/hbm-dram-capacity-samsung-2027.html)
+
+---
+
+### ⚖️ IDC says AI agent growth will widen global compute shortage by 2027
+- **題材**: `HBM記憶體` | **重要性**: `68`
+- **來源**: Digitimes (2026-09-29T01:39:32Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: AI agents are moving into enterprise workflows and driving a sharp rise in demand for AI infrastructure, with a new report from IDC and IEIT Systems warning that the global compute supply-demand gap will continue widening through 2030. The report, released at…
+- [原文連結](https://www.digitimes.com/news/a20260929PD202/idc-2027-growth-demand-2030.html)
 
 ---
 
@@ -163,27 +163,21 @@
 
 ---
 
-### ⚖️ Elon Musk's SpaceXAI to add another 660,000 AI GPUs this year, nearing a total of 1.44 million in operation
-- **題材**: `AI伺服器` | **重要性**: `62`
-- **來源**: Tom's Hardware UK (2026-09-25T15:40:00Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Elon Musk says that the Colossus 2 will receive 220,000 GB300 GPUs by next week, with another two tranches of the same amount expected to arrive later this year. This will put the site at over a million AI GPUs, finally hitting the goal the billionaire set tw…
-- [原文連結](https://www.tomshardware.com/tech-industry/data-centers/elon-musks-spacexai-to-add-another-660-000-ai-gpus-this-year-nearing-a-total-of-1-44-million-in-operation-firm-is-building-1-2-gigawatt-power-plant-to-bring-systems-fully-online)
+### ⚖️ TSMC eyes a multibillion-dollar Texas campus for more AI chips
+- **題材**: `半導體先進製程` | **重要性**: `60`
+- **來源**: The Next Web (2026-10-01T17:38:48Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: TSMC is weighing a new Texas campus of multiple fabs, each costing at least $20B, contingent on Congress extending a 35% manufacturing tax credit. Its only European plant, the Dresden joint venture, totals above EUR 10B and will run 28nm to 12nm nodes rather …
+- [原文連結](https://thenextweb.com/news/tsmc-texas-fabs-europe-gap)
 
 ---
 
-### 🚀 iPad Mini 8 to Offer These 10 New Features
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: MacRumors (2026-09-30T15:54:51Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Last week, our exclusive leak revealed that the next-generation iPad mini will feature Apple's latest A20 Pro chip, a landscape front camera, and a redesigned speaker system, but that is not all, as plenty of other upgrades have been rumored.
-
-
-
-
-
-Here are 10…
-- [原文連結](https://www.macrumors.com/2026/09/30/ipad-mini-8-rumored-features/)
+### ⚠️ Layoffs are down, but employers aren't rushing to hire for the holidays
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-10-01T16:11:59Z)
+- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: By Lucia Mutikani WASHINGTON, Oct 1 (Reuters) - New applications for US unemployment benefits drifted close to 57-year lows last week and layoffs decreased in September, suggesting labor market stability persisted even as employers remained cautious about boo…
+- [原文連結](https://finance.yahoo.com/economy/articles/us-weekly-jobless-claims-fall-124022508.html)
 
 ---
 
