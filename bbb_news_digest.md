@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-01T22:56:26.227274+00:00
+> 更新時間：2026-10-02T02:01:38.260946+00:00
 
 ### 🚀 GlobalFoundries Singapore capacity utilization tops 90% as silicon photonics expansion hits equipment lead-time bottleneck
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -10,12 +10,12 @@
 
 ---
 
-### 🚀 Behind CoWoS (part 1)—How a 0% yield crisis led to TSMC's first advanced packaging win
-- **題材**: `半導體先進製程` | **重要性**: `83`
-- **來源**: Digitimes (2026-09-28T23:18:40Z)
+### 🚀 DIGITIMES Insight: AI scaling is moving from chip shrinkage to system integration
+- **題材**: `半導體先進製程` | **重要性**: `78`
+- **來源**: Digitimes (2026-10-01T01:35:57Z)
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: In a recent interview on the DIGITIMES podcast, Dr. Shin-Puu Jeng, chairman of the International Microelectronics and Packaging Society (IMAPS) and a former longtime TSMC advanced packaging executive, reflected on the early development of CoWoS. In the first …
-- [原文連結](https://www.digitimes.com/news/a20260924PD236/tsmc-xilinx-digitimes-cowos-silicon.html)
+- **摘要**: TSMC said the next phase of AI performance growth will depend less on shrinking a single chip and more on combining multiple chips, memory, and advanced packaging inside larger systems. The shift could reshape semiconductor competition, as demand for compute,…
+- [原文連結](https://www.digitimes.com/news/a20261001PD204/tsmc-cowos-performance-packaging-technology.html)
 
 ---
 
@@ -25,6 +25,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Amid the ongoing restructuring of the global semiconductor supply chain, Singapore is focusing on advanced packaging, heterogeneous integration, silicon photonics, and optical interconnects, aiming to leverage nearly six decades' worth of manufacturing and su…
 - [原文連結](https://www.digitimes.com/news/a20260929PD244/packaging-manufacturing-equipment-supply-chain-materials.html)
+
+---
+
+### 🚀 Behind CoWoS (part 1)—How a 0% yield crisis led to TSMC's first advanced packaging win
+- **題材**: `半導體先進製程` | **重要性**: `78`
+- **來源**: Digitimes (2026-09-28T23:18:40Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: In a recent interview on the DIGITIMES podcast, Dr. Shin-Puu Jeng, chairman of the International Microelectronics and Packaging Society (IMAPS) and a former longtime TSMC advanced packaging executive, reflected on the early development of CoWoS. In the first …
+- [原文連結](https://www.digitimes.com/news/a20260924PD236/tsmc-xilinx-digitimes-cowos-silicon.html)
 
 ---
 
@@ -46,24 +55,6 @@
 
 ---
 
-### ⚖️ IDC says AI agent growth will widen global compute shortage by 2027
-- **題材**: `HBM記憶體` | **重要性**: `73`
-- **來源**: Digitimes (2026-09-29T01:39:32Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: AI agents are moving into enterprise workflows and driving a sharp rise in demand for AI infrastructure, with a new report from IDC and IEIT Systems warning that the global compute supply-demand gap will continue widening through 2030. The report, released at…
-- [原文連結](https://www.digitimes.com/news/a20260929PD202/idc-2027-growth-demand-2030.html)
-
----
-
-### ⚖️ Behind CoWoS (part 2): How TSMC turned a niche packaging experiment into an industry standard
-- **題材**: `半導體先進製程` | **重要性**: `73`
-- **來源**: Digitimes (2026-09-28T23:18:56Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: As chip design enters the AI era, heterogeneous integration is driving foundry giants like TSMC, Samsung, and Intel to bring advanced front-end fab capabilities into back-end packaging. In the second part of his interview with DIGITIMES, Dr. Shin-Puu Jeng, ch…
-- [原文連結](https://www.digitimes.com/news/a20260924PD238/tsmc-packaging-cowos-design-silicon.html)
-
----
-
 ### ⚖️ Meta Muse fuels agentic AI demand, tightening CPU supply
 - **題材**: `HBM記憶體` | **重要性**: `73`
 - **來源**: Digitimes (2026-09-27T04:23:16Z)
@@ -73,12 +64,21 @@
 
 ---
 
-### 🚀 AI drives Episil GeSi, PMIC growth
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-09-24T07:14:47Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Semiconductor epitaxy maker Episil Precision said on September 22 that rising demand from AI data centers has created two main growth engines. Demand for silicon photonics optical communication modules is driving a surge in germanium silicon (GeSi) epitaxy de…
-- [原文連結](https://www.digitimes.com/news/a20260923PD236/episil-demand-growth-silicon-photonics.html)
+### 🚀 Revenue Quintupled at AI Memory Maker Micron
+- **題材**: `HBM記憶體` | **重要性**: `70`
+- **來源**: The Information (2026-09-30T23:46:12Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: 
+- [原文連結](https://www.theinformation.com/briefings/revenue-quintupled-ai-memory-maker-micron)
+
+---
+
+### 🚀 Micron forecasts quarterly revenue, profit above estimates on AI memory demand
+- **題材**: `HBM記憶體` | **重要性**: `70`
+- **來源**: CNA (2026-09-30T20:08:18Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Sept 30 : Micron Technology forecast quarterly revenue above estimates on Wednesday, signaling it expects the AI-driven memory chip boom to continue powering its growth.Shares of the Boise, Idaho-based company rose over 1 per cent in extended trading. The sto…
+- [原文連結](https://www.channelnewsasia.com/business/micron-forecasts-quarterly-revenue-profit-above-estimates-ai-memory-demand-6422616)
 
 ---
 
@@ -109,6 +109,24 @@
 
 ---
 
+### ⚖️ IDC says AI agent growth will widen global compute shortage by 2027
+- **題材**: `HBM記憶體` | **重要性**: `68`
+- **來源**: Digitimes (2026-09-29T01:39:32Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: AI agents are moving into enterprise workflows and driving a sharp rise in demand for AI infrastructure, with a new report from IDC and IEIT Systems warning that the global compute supply-demand gap will continue widening through 2030. The report, released at…
+- [原文連結](https://www.digitimes.com/news/a20260929PD202/idc-2027-growth-demand-2030.html)
+
+---
+
+### ⚖️ Behind CoWoS (part 2): How TSMC turned a niche packaging experiment into an industry standard
+- **題材**: `半導體先進製程` | **重要性**: `68`
+- **來源**: Digitimes (2026-09-28T23:18:56Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: As chip design enters the AI era, heterogeneous integration is driving foundry giants like TSMC, Samsung, and Intel to bring advanced front-end fab capabilities into back-end packaging. In the second part of his interview with DIGITIMES, Dr. Shin-Puu Jeng, ch…
+- [原文連結](https://www.digitimes.com/news/a20260924PD238/tsmc-packaging-cowos-design-silicon.html)
+
+---
+
 ### 🚀 South Korea's HBM-linked exports surge as Taiwan, Malaysia emerge as high-value destinations
 - **題材**: `HBM記憶體` | **重要性**: `68`
 - **來源**: Digitimes (2026-09-28T01:12:02Z)
@@ -124,24 +142,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Singapore is deepening semiconductor R&D ties with Applied Materials, KLA, GlobalFoundries (GF) and other industry players across advanced packaging and silicon photonics, as the city-state builds on its manufacturing base to strengthen technology development…
 - [原文連結](https://www.digitimes.com/news/a20260925PD201/kla-applied-materials-globalfoundries-manufacturing-silicon.html)
-
----
-
-### ⚖️ Supermicro begins shipping Nvidia Vera Rubin NVL72 AI racks
-- **題材**: `AI伺服器` | **重要性**: `68`
-- **來源**: Digitimes (2026-09-24T02:11:40Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Supermicro has begun shipping Nvidia's next-generation Vera Rubin NVL72 systems, moving the rack-scale platform from product demonstrations into customer deployments as AI infrastructure increasingly requires integrated computing, power, and liquid-cooling sy…
-- [原文連結](https://www.digitimes.com/news/a20260924VL200/supermicro-nvidia-rubin-shipping-infrastructure.html)
-
----
-
-### ⚠️ SK Hynix Indiana HBM plant faces lawsuit
-- **題材**: `HBM記憶體` | **重要性**: `68`
-- **來源**: Digitimes (2026-09-24T00:16:08Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: SK Hynix's high-bandwidth memory (HBM) production site under construction in Indiana has been drawn into local litigation as the race for AI memory capacity intensifies. Local residents in the US are seeking to overturn a land-use change and halt construction…
-- [原文連結](https://www.digitimes.com/news/a20260923PD230/sk-hynix-hbm-lawsuit-production-bandwidth.html)
 
 ---
 

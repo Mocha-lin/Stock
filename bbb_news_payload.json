@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-10-01T22:56:26.227274+00:00",
+  "generated_at": "2026-10-02T02:01:38.260946+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 73,
@@ -44,18 +44,18 @@
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
-      "id": "14080295c7698cd6",
+      "id": "97b541c3389b0396",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "半導體先進製程",
-      "title": "Behind CoWoS (part 1)—How a 0% yield crisis led to TSMC's first advanced packaging win",
-      "summary": "In a recent interview on the DIGITIMES podcast, Dr. Shin-Puu Jeng, chairman of the International Microelectronics and Packaging Society (IMAPS) and a former longtime TSMC advanced packaging executive, reflected on the early development of CoWoS. In the first …",
-      "original_title": "Behind CoWoS (part 1)—How a 0% yield crisis led to TSMC's first advanced packaging win",
-      "url": "https://www.digitimes.com/news/a20260924PD236/tsmc-xilinx-digitimes-cowos-silicon.html",
+      "title": "DIGITIMES Insight: AI scaling is moving from chip shrinkage to system integration",
+      "summary": "TSMC said the next phase of AI performance growth will depend less on shrinking a single chip and more on combining multiple chips, memory, and advanced packaging inside larger systems. The shift could reshape semiconductor competition, as demand for compute,…",
+      "original_title": "DIGITIMES Insight: AI scaling is moving from chip shrinkage to system integration",
+      "url": "https://www.digitimes.com/news/a20261001PD204/tsmc-cowos-performance-packaging-technology.html",
       "source": "Digitimes",
       "domain": "digitimes.com",
-      "published_at": "2026-09-28T23:18:40Z",
-      "importance": 83,
+      "published_at": "2026-10-01T01:35:57Z",
+      "importance": 78,
       "impact": "positive",
       "timeframe": "short_to_mid_term",
       "tags": [
@@ -118,6 +118,44 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
+      "id": "14080295c7698cd6",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "Behind CoWoS (part 1)—How a 0% yield crisis led to TSMC's first advanced packaging win",
+      "summary": "In a recent interview on the DIGITIMES podcast, Dr. Shin-Puu Jeng, chairman of the International Microelectronics and Packaging Society (IMAPS) and a former longtime TSMC advanced packaging executive, reflected on the early development of CoWoS. In the first …",
+      "original_title": "Behind CoWoS (part 1)—How a 0% yield crisis led to TSMC's first advanced packaging win",
+      "url": "https://www.digitimes.com/news/a20260924PD236/tsmc-xilinx-digitimes-cowos-silicon.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-09-28T23:18:40Z",
+      "importance": 78,
+      "impact": "positive",
+      "timeframe": "short_to_mid_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "fec2a56964b4e12f",
@@ -190,79 +228,6 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
-      "id": "b86277ff2d28f463",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "IDC says AI agent growth will widen global compute shortage by 2027",
-      "summary": "AI agents are moving into enterprise workflows and driving a sharp rise in demand for AI infrastructure, with a new report from IDC and IEIT Systems warning that the global compute supply-demand gap will continue widening through 2030. The report, released at…",
-      "original_title": "IDC says AI agent growth will widen global compute shortage by 2027",
-      "url": "https://www.digitimes.com/news/a20260929PD202/idc-2027-growth-demand-2030.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-09-29T01:39:32Z",
-      "importance": 73,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
-      "id": "de7b372bb633b363",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "Behind CoWoS (part 2): How TSMC turned a niche packaging experiment into an industry standard",
-      "summary": "As chip design enters the AI era, heterogeneous integration is driving foundry giants like TSMC, Samsung, and Intel to bring advanced front-end fab capabilities into back-end packaging. In the second part of his interview with DIGITIMES, Dr. Shin-Puu Jeng, ch…",
-      "original_title": "Behind CoWoS (part 2): How TSMC turned a niche packaging experiment into an industry standard",
-      "url": "https://www.digitimes.com/news/a20260924PD238/tsmc-packaging-cowos-design-silicon.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-09-28T23:18:56Z",
-      "importance": 73,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
       "id": "2e02fb001acbb078",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -298,32 +263,29 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
-      "id": "7efebe7042637e5e",
+      "id": "7d697458bf9a8095",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "AI drives Episil GeSi, PMIC growth",
-      "summary": "Semiconductor epitaxy maker Episil Precision said on September 22 that rising demand from AI data centers has created two main growth engines. Demand for silicon photonics optical communication modules is driving a surge in germanium silicon (GeSi) epitaxy de…",
-      "original_title": "AI drives Episil GeSi, PMIC growth",
-      "url": "https://www.digitimes.com/news/a20260923PD236/episil-demand-growth-silicon-photonics.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-09-24T07:14:47Z",
-      "importance": 73,
+      "theme": "HBM記憶體",
+      "title": "Revenue Quintupled at AI Memory Maker Micron",
+      "summary": "",
+      "original_title": "Revenue Quintupled at AI Memory Maker Micron",
+      "url": "https://www.theinformation.com/briefings/revenue-quintupled-ai-memory-maker-micron",
+      "source": "The Information",
+      "domain": "theinformation.com",
+      "published_at": "2026-09-30T23:46:12Z",
+      "importance": 70,
       "impact": "positive",
       "timeframe": "short_term",
       "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
+        "HBM",
+        "記憶體"
       ],
       "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
       ],
       "related_models": [
         "003",
@@ -333,7 +295,42 @@
         "009",
         "010"
       ],
-      "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+      "reason": "屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
+      "id": "8d9e4e5e654681bf",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "Micron forecasts quarterly revenue, profit above estimates on AI memory demand",
+      "summary": "Sept 30 : Micron Technology forecast quarterly revenue above estimates on Wednesday, signaling it expects the AI-driven memory chip boom to continue powering its growth.Shares of the Boise, Idaho-based company rose over 1 per cent in extended trading. The sto…",
+      "original_title": "Micron forecasts quarterly revenue, profit above estimates on AI memory demand",
+      "url": "https://www.channelnewsasia.com/business/micron-forecasts-quarterly-revenue-profit-above-estimates-ai-memory-demand-6422616",
+      "source": "CNA",
+      "domain": "channelnewsasia.com",
+      "published_at": "2026-09-30T20:08:18Z",
+      "importance": 70,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "7e872b85da1aff87",
@@ -447,6 +444,79 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "b86277ff2d28f463",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "IDC says AI agent growth will widen global compute shortage by 2027",
+      "summary": "AI agents are moving into enterprise workflows and driving a sharp rise in demand for AI infrastructure, with a new report from IDC and IEIT Systems warning that the global compute supply-demand gap will continue widening through 2030. The report, released at…",
+      "original_title": "IDC says AI agent growth will widen global compute shortage by 2027",
+      "url": "https://www.digitimes.com/news/a20260929PD202/idc-2027-growth-demand-2030.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-09-29T01:39:32Z",
+      "importance": 68,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "de7b372bb633b363",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "Behind CoWoS (part 2): How TSMC turned a niche packaging experiment into an industry standard",
+      "summary": "As chip design enters the AI era, heterogeneous integration is driving foundry giants like TSMC, Samsung, and Intel to bring advanced front-end fab capabilities into back-end packaging. In the second part of his interview with DIGITIMES, Dr. Shin-Puu Jeng, ch…",
+      "original_title": "Behind CoWoS (part 2): How TSMC turned a niche packaging experiment into an industry standard",
+      "url": "https://www.digitimes.com/news/a20260924PD238/tsmc-packaging-cowos-design-silicon.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-09-28T23:18:56Z",
+      "importance": 68,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "e8b3c11ae55d0bce",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -518,79 +588,6 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "c15183305d65acfc",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Supermicro begins shipping Nvidia Vera Rubin NVL72 AI racks",
-      "summary": "Supermicro has begun shipping Nvidia's next-generation Vera Rubin NVL72 systems, moving the rack-scale platform from product demonstrations into customer deployments as AI infrastructure increasingly requires integrated computing, power, and liquid-cooling sy…",
-      "original_title": "Supermicro begins shipping Nvidia Vera Rubin NVL72 AI racks",
-      "url": "https://www.digitimes.com/news/a20260924VL200/supermicro-nvidia-rubin-shipping-infrastructure.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-09-24T02:11:40Z",
-      "importance": 68,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "d6e1573fa6c06e67",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "SK Hynix Indiana HBM plant faces lawsuit",
-      "summary": "SK Hynix's high-bandwidth memory (HBM) production site under construction in Indiana has been drawn into local litigation as the race for AI memory capacity intensifies. Local residents in the US are seeking to overturn a land-use change and halt construction…",
-      "original_title": "SK Hynix Indiana HBM plant faces lawsuit",
-      "url": "https://www.digitimes.com/news/a20260923PD230/sk-hynix-hbm-lawsuit-production-bandwidth.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-09-24T00:16:08Z",
-      "importance": 68,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "efb236f71b770104",
@@ -740,41 +737,6 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "e6dd5ab1e2b8909a",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "CXMT gains ground in DRAM as Samsung, SK Hynix shift more capacity to HBM",
-      "summary": "China's ChangXin Memory Technologies (CXMT) is gaining ground in the global DRAM market as Samsung Electronics and SK Hynix allocate more production capacity to high-bandwidth memory (HBM), tightening conventional memory supply and giving the Chinese supplier…",
-      "original_title": "CXMT gains ground in DRAM as Samsung, SK Hynix shift more capacity to HBM",
-      "url": "https://www.digitimes.com/news/a20260924VL219/dram-cxmt-samsung-hbm-capacity.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-09-24T07:55:00Z",
-      "importance": 63,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "f692f4acdaf5a578",
@@ -1081,41 +1043,6 @@
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "c095c129f1549655",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "Samsung Electronics says HBM to account for nearly 30% of industry DRAM capacity next year",
-      "summary": "SEOUL, Sept 29 : A Samsung Electronics executive said on Tuesday that high-bandwidth memory (HBM) is expected to account for nearly 30 per cent of Dynamic Random-Access Memory (DRAM) chipmakers' total wafer capacity next year, up from about 20 per cent curren…",
-      "original_title": "Samsung Electronics says HBM to account for nearly 30% of industry DRAM capacity next year",
-      "url": "https://www.channelnewsasia.com/business/samsung-electronics-says-hbm-account-nearly-30-industry-dram-capacity-next-year-6417091",
-      "source": "CNA",
-      "domain": "channelnewsasia.com",
-      "published_at": "2026-09-29T01:07:39Z",
-      "importance": 60,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "9fdf0ef71ebac430",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1306,6 +1233,82 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "53497160295f4a89",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "We’re bringing two roundtables to the London CPO Conference",
+      "summary": "Join us on October 29th - we're hosting two roundtables on Product leadership in the AI era",
+      "original_title": "We’re bringing two roundtables to the London CPO Conference",
+      "url": "https://thoughtbot.com/blog/we-re-bringing-two-roundtables-to-the-london-cpo-conference",
+      "source": "Thoughtbot.com",
+      "domain": "thoughtbot.com",
+      "published_at": "2026-10-01T00:00:00Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "c2571656c173b89e",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Amazon WorkSpaces Core Managed Instances adds support for NVIDIA Blackwell GPU",
+      "summary": "Amazon WorkSpaces Core Managed Instances now supports Graphics G7 instances, powered by NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs and Intel Xeon 6 processors. G7 instances deliver up to 2.1X better performance for graphics-intensive workloads compared…",
+      "original_title": "Amazon WorkSpaces Core Managed Instances adds support for NVIDIA Blackwell GPU",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-workspaces-cmi-g7/",
+      "source": "Amazon.com",
+      "domain": "aws.amazon.com",
+      "published_at": "2026-09-30T23:59:00Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "2df673c304e2f008",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1418,6 +1421,41 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "31c3b196e9657783",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "Samsung may clinch new deals as AMD’s Lisa Su heads to South Korea",
+      "summary": "South Korea is the place to be for any company that requires memory chips and other advanced semiconductor solutions. Two of the world's largest memory suppliers, Samsung Electronics and SK Hynix, are based there. AMD CEO Lisa Su is expected to visit South Ko…",
+      "original_title": "Samsung may clinch new deals as AMD’s Lisa Su heads to South Korea",
+      "url": "https://www.sammobile.com/news/samsung-may-clinch-new-deals-as-amds-lisa-su-heads-to-south-korea/",
+      "source": "SamMobile",
+      "domain": "sammobile.com",
+      "published_at": "2026-09-30T08:17:15Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "520fb28d86127e2d",
@@ -1604,6 +1642,44 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "aab89d9c3f797c3c",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "Faisal Islam: Triple lock move is significant, but it's a gamble",
+      "summary": "I had expected him to try to forge a political consensus on this thorny issue at this stage, but he has gone further than that.",
+      "original_title": "Faisal Islam: Triple lock move is significant, but it's a gamble",
+      "url": "https://www.bbc.co.uk/news/articles/cwp93d078j8no",
+      "source": "BBC News",
+      "domain": "bbc.co.uk",
+      "published_at": "2026-09-29T16:43:39Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "48fd0cdc62504f2f",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1756,32 +1832,29 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "eced5d3e0b7510db",
+      "id": "c095c129f1549655",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Diving into an Out-of-sync Galaxy",
-      "summary": "Galaxies are like snowflakes, no two exactly alike, even the spirals. The Hubble Space Telescope did a visual dive into the distant spiral NGC 4693 and found some intriguing hints to its past. For one thing, this member of the Virgo Cluster seems to have a ce…",
-      "original_title": "Diving into an Out-of-sync Galaxy",
-      "url": "https://www.universetoday.com/articles/diving-into-an-out-of-sync-galaxy",
-      "source": "Universe Today",
-      "domain": "universetoday.com",
-      "published_at": "2026-09-28T23:30:00Z",
+      "theme": "HBM記憶體",
+      "title": "Samsung Electronics says HBM to account for nearly 30% of industry DRAM capacity next year",
+      "summary": "SEOUL, Sept 29 : A Samsung Electronics executive said on Tuesday that high-bandwidth memory (HBM) is expected to account for nearly 30 per cent of Dynamic Random-Access Memory (DRAM) chipmakers' total wafer capacity next year, up from about 20 per cent curren…",
+      "original_title": "Samsung Electronics says HBM to account for nearly 30% of industry DRAM capacity next year",
+      "url": "https://www.channelnewsasia.com/business/samsung-electronics-says-hbm-account-nearly-30-industry-dram-capacity-next-year-6417091",
+      "source": "CNA",
+      "domain": "channelnewsasia.com",
+      "published_at": "2026-09-29T01:07:39Z",
       "importance": 55,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
+        "HBM",
+        "記憶體"
       ],
       "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
       ],
       "related_models": [
         "003",
@@ -1791,7 +1864,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "cd10b2eb524b3ac8",
@@ -2069,6 +2142,44 @@
       "domain": "nextbigfuture.com",
       "published_at": "2026-09-25T08:04:59Z",
       "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "eced5d3e0b7510db",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Diving into an Out-of-sync Galaxy",
+      "summary": "Galaxies are like snowflakes, no two exactly alike, even the spirals. The Hubble Space Telescope did a visual dive into the distant spiral NGC 4693 and found some intriguing hints to its past. For one thing, this member of the Virgo Cluster seems to have a ce…",
+      "original_title": "Diving into an Out-of-sync Galaxy",
+      "url": "https://www.universetoday.com/articles/diving-into-an-out-of-sync-galaxy",
+      "source": "Universe Today",
+      "domain": "universetoday.com",
+      "published_at": "2026-09-28T23:30:00Z",
+      "importance": 50,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -2622,117 +2733,6 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "c7c655c87cd05db0",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "Motorola just gave privacy fans a big reason to consider the Signature 27",
-      "summary": "GrapheneOS is expanding beyond Pixel phones, with official support planned for Motorola's flagship Signature 27.",
-      "original_title": "Motorola just gave privacy fans a big reason to consider the Signature 27",
-      "url": "https://www.androidcentral.com/phones/motorola/motorola-signature-27-will-support-graphene-os",
-      "source": "Android Central",
-      "domain": "androidcentral.com",
-      "published_at": "2026-09-24T20:18:03Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "77ded077aa9ca105",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "Mortgage rates have just surpassed 7% for the first time in well over a year",
-      "summary": "Rates have climbed more than a full percentage point since the U.S. war against Iran started.",
-      "original_title": "Mortgage rates have just surpassed 7% for the first time in well over a year",
-      "url": "https://www.npr.org/2026/09/24/nx-s1-5977796/mortgage-rates-freddie-mac-homebuying",
-      "source": "NPR",
-      "domain": "npr.org",
-      "published_at": "2026-09-24T16:01:44Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "7be6b1971639c836",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "The Era of Token Abundance Is Coming â and It Will Make Civilization Almost Unrecognizable",
-      "summary": "The Era of Token Abundance Is Coming I have spent years steeped in the artificial intelligence industry, and I have come to a conclusion that will sound strange to most people: I want the AI data-center speculative investment bubble to burst. I am rooting for…",
-      "original_title": "The Era of Token Abundance Is Coming â and It Will Make Civilization Almost Unrecognizable",
-      "url": "https://www.naturalnews.com/2026-09-24-the-era-of-token-abundance-is-coming.html",
-      "source": "Naturalnews.com",
-      "domain": "naturalnews.com",
-      "published_at": "2026-09-24T06:00:00Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     }
   ]
 }
