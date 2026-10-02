@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-02T06:28:30.149879+00:00
+> 更新時間：2026-10-02T15:25:10.601869+00:00
 
 ### 🚀 GlobalFoundries Singapore capacity utilization tops 90% as silicon photonics expansion hits equipment lead-time bottleneck
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -16,15 +16,6 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: TSMC said the next phase of AI performance growth will depend less on shrinking a single chip and more on combining multiple chips, memory, and advanced packaging inside larger systems. The shift could reshape semiconductor competition, as demand for compute,…
 - [原文連結](https://www.digitimes.com/news/a20261001PD204/tsmc-cowos-performance-packaging-technology.html)
-
----
-
-### ⚖️ In global semiconductor race, Singapore bets on critical, mature technologies
-- **題材**: `光通訊與矽光子` | **重要性**: `78`
-- **來源**: Digitimes (2026-09-29T08:57:39Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Amid the ongoing restructuring of the global semiconductor supply chain, Singapore is focusing on advanced packaging, heterogeneous integration, silicon photonics, and optical interconnects, aiming to leverage nearly six decades' worth of manufacturing and su…
-- [原文連結](https://www.digitimes.com/news/a20260929PD244/packaging-manufacturing-equipment-supply-chain-materials.html)
 
 ---
 
@@ -46,21 +37,12 @@
 
 ---
 
-### ⚖️ Samsung reshuffles DRAM roadmap, prioritizing B1b hybrid bonding for D0a, HBM5
-- **題材**: `HBM記憶體` | **重要性**: `73`
-- **來源**: Digitimes (2026-09-29T08:19:54Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Samsung Electronics is reshaping its next-generation dynamic random-access memory (DRAM) roadmap, elevating its B1b wafer-to-wafer (W2W) hybrid bonding technology from a project-specific development to the core technology behind D0a, its first sub-10nm DRAM g…
-- [原文連結](https://www.digitimes.com/news/a20260929PD238/samsung-dram-roadmap-technology-development.html)
-
----
-
-### ⚖️ Meta Muse fuels agentic AI demand, tightening CPU supply
-- **題材**: `HBM記憶體` | **重要性**: `73`
-- **來源**: Digitimes (2026-09-27T04:23:16Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Meta's AI assistant Muse is drawing strong market response, and the rise of agentic AI is drawing attention to AI infrastructure shortages beyond GPUs and high-bandwidth memory (HBM), including server CPUs. The trend is lifting order demand for AMD and Intel …
-- [原文連結](https://www.digitimes.com/news/a20260924PD224/meta-cpu-amd-demand-packaging.html)
+### ⚖️ In global semiconductor race, Singapore bets on critical, mature technologies
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-09-29T08:57:39Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Amid the ongoing restructuring of the global semiconductor supply chain, Singapore is focusing on advanced packaging, heterogeneous integration, silicon photonics, and optical interconnects, aiming to leverage nearly six decades' worth of manufacturing and su…
+- [原文連結](https://www.digitimes.com/news/a20260929PD244/packaging-manufacturing-equipment-supply-chain-materials.html)
 
 ---
 
@@ -91,12 +73,12 @@
 
 ---
 
-### ⚖️ RoboTechnik completes Hong Kong listing to fund ficonTEC expansion in silicon photonics
-- **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-09-29T07:38:58Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: RoboTechnik completed a Hong Kong listing on September 29 and began trading on the Hong Kong stock exchange, according to its German photonics automation subsidiary ficonTEC. The new capital will be used for further investment in ficonTEC, which is expanding …
-- [原文連結](https://www.digitimes.com/news/a20260929PD241/photonics-silicon-automation-production-manufacturing.html)
+### ⚖️ Samsung reshuffles DRAM roadmap, prioritizing B1b hybrid bonding for D0a, HBM5
+- **題材**: `HBM記憶體` | **重要性**: `68`
+- **來源**: Digitimes (2026-09-29T08:19:54Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Samsung Electronics is reshaping its next-generation dynamic random-access memory (DRAM) roadmap, elevating its B1b wafer-to-wafer (W2W) hybrid bonding technology from a project-specific development to the core technology behind D0a, its first sub-10nm DRAM g…
+- [原文連結](https://www.digitimes.com/news/a20260929PD238/samsung-dram-roadmap-technology-development.html)
 
 ---
 
@@ -109,15 +91,6 @@
 
 ---
 
-### ⚖️ IDC says AI agent growth will widen global compute shortage by 2027
-- **題材**: `HBM記憶體` | **重要性**: `68`
-- **來源**: Digitimes (2026-09-29T01:39:32Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: AI agents are moving into enterprise workflows and driving a sharp rise in demand for AI infrastructure, with a new report from IDC and IEIT Systems warning that the global compute supply-demand gap will continue widening through 2030. The report, released at…
-- [原文連結](https://www.digitimes.com/news/a20260929PD202/idc-2027-growth-demand-2030.html)
-
----
-
 ### ⚖️ Behind CoWoS (part 2): How TSMC turned a niche packaging experiment into an industry standard
 - **題材**: `半導體先進製程` | **重要性**: `68`
 - **來源**: Digitimes (2026-09-28T23:18:56Z)
@@ -127,12 +100,21 @@
 
 ---
 
-### ⚖️ Singapore deepens chip R&D ties with Applied Materials, KLA and GlobalFoundries
-- **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-09-25T09:15:59Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Singapore is deepening semiconductor R&D ties with Applied Materials, KLA, GlobalFoundries (GF) and other industry players across advanced packaging and silicon photonics, as the city-state builds on its manufacturing base to strengthen technology development…
-- [原文連結](https://www.digitimes.com/news/a20260925PD201/kla-applied-materials-globalfoundries-manufacturing-silicon.html)
+### ⚠️ Micron lawsuit claims Chinese memory maker YMTC poached its engineers, then sued it using its own stolen tech
+- **題材**: `HBM記憶體` | **重要性**: `67`
+- **來源**: Tom's Hardware UK (2026-10-01T11:00:00Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Micron files a lawsuit against Yangtze Memory, claims that some of the patents which YMTC uses against Micron in various courts were granted to former YMTC engineers who took crucial know-how from Micron and took it to YMTC.
+- [原文連結](https://www.tomshardware.com/pc-components/ssds/micron-lawsuit-claims-chinese-memory-maker-ymtc-poached-its-engineers-then-sued-it-using-its-own-stolen-tech-ex-employees-hid-roles-on-linkedin-patented-micron-tech-and-won-a-german-injunction)
+
+---
+
+### ⚖️ NVIDIA Could Account for 37% of 2027 HBM Capacity, Worth $279 Billion
+- **題材**: `HBM記憶體` | **重要性**: `65`
+- **來源**: Techpowerup.com (2026-10-01T15:24:29Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: NVIDIA's supply commitments climbed to $279 billion in the quarter ended July 26, up from $119 billion the quarter before. The company says the increase is primarily related to memory procurement. Morgan Stanley estimates that NVIDIA has claimed about 37.3% o…
+- [原文連結](https://www.techpowerup.com/353306/nvidia-could-account-for-37-of-2027-hbm-capacity-worth-usd-279-billion)
 
 ---
 
@@ -163,21 +145,45 @@
 
 ---
 
-### ⚖️ Meta signs deal for Firmus AI computing capacity in Southeast Asia
-- **題材**: `AI伺服器` | **重要性**: `65`
-- **來源**: The Next Web (2026-09-29T06:57:55Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Meta has signed deals to rent AI chips at data centers in Southeast Asia run by Firmus, an Australian company that builds them, the two companies announced. Meta has reserved a certain amount of capacity and can add more if needed. Also, the company plans to …
-- [原文連結](https://thenextweb.com/news/meta-signs-deal-for-firmus-ai-computing-capacity-in-southeast-asia)
+### ⚖️ RoboTechnik completes Hong Kong listing to fund ficonTEC expansion in silicon photonics
+- **題材**: `光通訊與矽光子` | **重要性**: `63`
+- **來源**: Digitimes (2026-09-29T07:38:58Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: RoboTechnik completed a Hong Kong listing on September 29 and began trading on the Hong Kong stock exchange, according to its German photonics automation subsidiary ficonTEC. The new capital will be used for further investment in ficonTEC, which is expanding …
+- [原文連結](https://www.digitimes.com/news/a20260929PD241/photonics-silicon-automation-production-manufacturing.html)
 
 ---
 
-### ⚠️ Trump denies reports he offered Iran sanctions relief to end the war
-- **題材**: `總體風險` | **重要性**: `65`
-- **來源**: Yahoo Entertainment (2026-09-29T06:53:38Z)
-- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Sept 29 (Reuters) - US President Donald Trump said he has offered Iran nothing to end the war, rejecting media reports that cited US officials saying he was willing to ease sanctions and release frozen funds for "concrete" steps regarding Iran's nuclear ‌prog…
-- [原文連結](https://uk.news.yahoo.com/trump-denies-offering-iran-sanctions-064453242.html)
+### ⚖️ Singapore deepens chip R&D ties with Applied Materials, KLA and GlobalFoundries
+- **題材**: `光通訊與矽光子` | **重要性**: `63`
+- **來源**: Digitimes (2026-09-25T09:15:59Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Singapore is deepening semiconductor R&D ties with Applied Materials, KLA, GlobalFoundries (GF) and other industry players across advanced packaging and silicon photonics, as the city-state builds on its manufacturing base to strengthen technology development…
+- [原文連結](https://www.digitimes.com/news/a20260925PD201/kla-applied-materials-globalfoundries-manufacturing-silicon.html)
+
+---
+
+### ⚖️ Elon Musk's SpaceXAI to add another 660,000 AI GPUs this year, nearing a total of 1.44 million in operation
+- **題材**: `AI伺服器` | **重要性**: `62`
+- **來源**: Tom's Hardware UK (2026-09-25T15:40:00Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Elon Musk says that the Colossus 2 will receive 220,000 GB300 GPUs by next week, with another two tranches of the same amount expected to arrive later this year. This will put the site at over a million AI GPUs, finally hitting the goal the billionaire set tw…
+- [原文連結](https://www.tomshardware.com/tech-industry/data-centers/elon-musks-spacexai-to-add-another-660-000-ai-gpus-this-year-nearing-a-total-of-1-44-million-in-operation-firm-is-building-1-2-gigawatt-power-plant-to-bring-systems-fully-online)
+
+---
+
+### 🚀 iPad Mini 8 to Offer These 10 New Features
+- **題材**: `半導體先進製程` | **重要性**: `60`
+- **來源**: MacRumors (2026-09-30T15:54:51Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Last week, our exclusive leak revealed that the next-generation iPad mini will feature Apple's latest A20 Pro chip, a landscape front camera, and a redesigned speaker system, but that is not all, as plenty of other upgrades have been rumored.
+
+
+
+
+
+Here are 10…
+- [原文連結](https://www.macrumors.com/2026/09/30/ipad-mini-8-rumored-features/)
 
 ---
 
