@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-02T02:01:38.260946+00:00
+> 更新時間：2026-10-02T06:28:30.149879+00:00
 
 ### 🚀 GlobalFoundries Singapore capacity utilization tops 90% as silicon photonics expansion hits equipment lead-time bottleneck
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -37,21 +37,21 @@
 
 ---
 
+### 🚀 Micron hikes 2027 HBM prices after missing 2026 memory surge on fixed contracts
+- **題材**: `HBM記憶體` | **重要性**: `73`
+- **來源**: Digitimes (2026-10-01T02:56:21Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Micron Technology has sharply raised 2027 prices for high-bandwidth memory (HBM), the stacked DRAM packaged with AI accelerators. The increase comes after a year in which fixed contract prices left HBM largely outside the memory price surge.
+- [原文連結](https://www.digitimes.com/news/a20261001VL206/micron-hbm-2027-dram-growth.html)
+
+---
+
 ### ⚖️ Samsung reshuffles DRAM roadmap, prioritizing B1b hybrid bonding for D0a, HBM5
 - **題材**: `HBM記憶體` | **重要性**: `73`
 - **來源**: Digitimes (2026-09-29T08:19:54Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Samsung Electronics is reshaping its next-generation dynamic random-access memory (DRAM) roadmap, elevating its B1b wafer-to-wafer (W2W) hybrid bonding technology from a project-specific development to the core technology behind D0a, its first sub-10nm DRAM g…
 - [原文連結](https://www.digitimes.com/news/a20260929PD238/samsung-dram-roadmap-technology-development.html)
-
----
-
-### ⚖️ HBM to take nearly 30% of DRAM capacity as Samsung speeds up P5
-- **題材**: `HBM記憶體` | **重要性**: `73`
-- **來源**: Digitimes (2026-09-29T03:07:49Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: High-bandwidth memory (HBM) is expected to account for nearly 30% of DRAM makers' total wafer capacity in 2027, up from about 20% currently, as Samsung Electronics moves to accelerate the rollout of new memory capacity amid tightening supplies of both HBM and…
-- [原文連結](https://www.digitimes.com/news/a20260929VL202/hbm-dram-capacity-samsung-2027.html)
 
 ---
 
@@ -70,15 +70,6 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 
 - [原文連結](https://www.theinformation.com/briefings/revenue-quintupled-ai-memory-maker-micron)
-
----
-
-### 🚀 Micron forecasts quarterly revenue, profit above estimates on AI memory demand
-- **題材**: `HBM記憶體` | **重要性**: `70`
-- **來源**: CNA (2026-09-30T20:08:18Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Sept 30 : Micron Technology forecast quarterly revenue above estimates on Wednesday, signaling it expects the AI-driven memory chip boom to continue powering its growth.Shares of the Boise, Idaho-based company rose over 1 per cent in extended trading. The sto…
-- [原文連結](https://www.channelnewsasia.com/business/micron-forecasts-quarterly-revenue-profit-above-estimates-ai-memory-demand-6422616)
 
 ---
 
@@ -109,6 +100,15 @@
 
 ---
 
+### ⚖️ HBM to take nearly 30% of DRAM capacity as Samsung speeds up P5
+- **題材**: `HBM記憶體` | **重要性**: `68`
+- **來源**: Digitimes (2026-09-29T03:07:49Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: High-bandwidth memory (HBM) is expected to account for nearly 30% of DRAM makers' total wafer capacity in 2027, up from about 20% currently, as Samsung Electronics moves to accelerate the rollout of new memory capacity amid tightening supplies of both HBM and…
+- [原文連結](https://www.digitimes.com/news/a20260929VL202/hbm-dram-capacity-samsung-2027.html)
+
+---
+
 ### ⚖️ IDC says AI agent growth will widen global compute shortage by 2027
 - **題材**: `HBM記憶體` | **重要性**: `68`
 - **來源**: Digitimes (2026-09-29T01:39:32Z)
@@ -127,21 +127,30 @@
 
 ---
 
-### 🚀 South Korea's HBM-linked exports surge as Taiwan, Malaysia emerge as high-value destinations
-- **題材**: `HBM記憶體` | **重要性**: `68`
-- **來源**: Digitimes (2026-09-28T01:12:02Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: South Korea's exports of the customs category that carries high-bandwidth memory (HBM) are no longer a two-destination story. Unit-value data show that the chips going to Taiwan and Malaysia are worth several times more per kilogram than those shipped to Hong…
-- [原文連結](https://www.digitimes.com/news/a20260924VL201/exports-taiwan-hbm-packaging-data.html)
-
----
-
 ### ⚖️ Singapore deepens chip R&D ties with Applied Materials, KLA and GlobalFoundries
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
 - **來源**: Digitimes (2026-09-25T09:15:59Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Singapore is deepening semiconductor R&D ties with Applied Materials, KLA, GlobalFoundries (GF) and other industry players across advanced packaging and silicon photonics, as the city-state builds on its manufacturing base to strengthen technology development…
 - [原文連結](https://www.digitimes.com/news/a20260925PD201/kla-applied-materials-globalfoundries-manufacturing-silicon.html)
+
+---
+
+### 🚀 South Korea’s exports hit record high on AI boom
+- **題材**: `HBM記憶體` | **重要性**: `65`
+- **來源**: Al Jazeera English (2026-10-01T04:08:15Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Exports jump 83.5 percent to top $120bn for the first time amid ferocious semiconductor demand.
+- [原文連結](https://www.aljazeera.com/economy/2026/10/1/south-koreas-exports-hit-record-high-on-ai-boom)
+
+---
+
+### ⚠️ Micron’s DRAM Revenue Shot Up 343% Compared to Last Year, Courtesy of RAM Shortage
+- **題材**: `HBM記憶體` | **重要性**: `65`
+- **來源**: Gizmodo.com (2026-10-01T02:56:04Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Soaring AI demand and surging RAM prices are making bank for Micron, the U.S.'s only high-bandwidth memory manufacturer.
+- [原文連結](https://gizmodo.com/microns-dram-revenue-shot-up-343-compared-to-last-year-courtesy-of-ram-shortage-2000819979)
 
 ---
 
@@ -169,16 +178,6 @@
 - **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Sept 29 (Reuters) - US President Donald Trump said he has offered Iran nothing to end the war, rejecting media reports that cited US officials saying he was willing to ease sanctions and release frozen funds for "concrete" steps regarding Iran's nuclear ‌prog…
 - [原文連結](https://uk.news.yahoo.com/trump-denies-offering-iran-sanctions-064453242.html)
-
----
-
-### 🚀 Mizuho initiates Tower Semiconductor at Outperform with $300 price target, citing AI optical connectivity boom
-- **題材**: `光通訊與矽光子` | **重要性**: `65`
-- **來源**: Crypto Briefing (2026-09-25T11:36:05Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Tower Semiconductor's strategic positioning in AI optical connectivity could significantly enhance its market influence and financial growth.
-The post Mizuho initiates Tower Semiconductor at Outperform with $300 price target, citing AI optical connectivity bo…
-- [原文連結](https://cryptobriefing.com/mizuho-tower-semiconductor-outperform-ai-optics/)
 
 ---
 
