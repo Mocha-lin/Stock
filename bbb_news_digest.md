@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-02T18:05:38.053096+00:00
+> 更新時間：2026-10-02T22:38:07.974436+00:00
 
 ### 🚀 GlobalFoundries Singapore capacity utilization tops 90% as silicon photonics expansion hits equipment lead-time bottleneck
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -25,6 +25,15 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: In a recent interview on the DIGITIMES podcast, Dr. Shin-Puu Jeng, chairman of the International Microelectronics and Packaging Society (IMAPS) and a former longtime TSMC advanced packaging executive, reflected on the early development of CoWoS. In the first …
 - [原文連結](https://www.digitimes.com/news/a20260924PD236/tsmc-xilinx-digitimes-cowos-silicon.html)
+
+---
+
+### 🚀 Micron says robots will keep RAM prices high, even if the AI bubble pops
+- **題材**: `HBM記憶體` | **重要性**: `75`
+- **來源**: TechSpot (2026-10-01T19:18:00Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: In its earnings guidance for FY27, Micron stated that it expects physical AI and humanoid robots to become even bigger drivers of memory and storage demand than AI data centers. According to CEO Sanjay Mehrotra, each humanoid robot would need at least around …
+- [原文連結](https://www.techspot.com/news/114060-micron-humanoid-robots-could-keep-memory-prices-high.html)
 
 ---
 
@@ -82,30 +91,12 @@
 
 ---
 
-### ⚖️ IDC says AI agent growth will widen global compute shortage by 2027
-- **題材**: `HBM記憶體` | **重要性**: `68`
-- **來源**: Digitimes (2026-09-29T01:39:32Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: AI agents are moving into enterprise workflows and driving a sharp rise in demand for AI infrastructure, with a new report from IDC and IEIT Systems warning that the global compute supply-demand gap will continue widening through 2030. The report, released at…
-- [原文連結](https://www.digitimes.com/news/a20260929PD202/idc-2027-growth-demand-2030.html)
-
----
-
 ### ⚖️ Behind CoWoS (part 2): How TSMC turned a niche packaging experiment into an industry standard
 - **題材**: `半導體先進製程` | **重要性**: `68`
 - **來源**: Digitimes (2026-09-28T23:18:56Z)
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: As chip design enters the AI era, heterogeneous integration is driving foundry giants like TSMC, Samsung, and Intel to bring advanced front-end fab capabilities into back-end packaging. In the second part of his interview with DIGITIMES, Dr. Shin-Puu Jeng, ch…
 - [原文連結](https://www.digitimes.com/news/a20260924PD238/tsmc-packaging-cowos-design-silicon.html)
-
----
-
-### ⚠️ Micron lawsuit claims Chinese memory maker YMTC poached its engineers, then sued it using its own stolen tech
-- **題材**: `HBM記憶體` | **重要性**: `67`
-- **來源**: Tom's Hardware UK (2026-10-01T11:00:00Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Micron files a lawsuit against Yangtze Memory, claims that some of the patents which YMTC uses against Micron in various courts were granted to former YMTC engineers who took crucial know-how from Micron and took it to YMTC.
-- [原文連結](https://www.tomshardware.com/pc-components/ssds/micron-lawsuit-claims-chinese-memory-maker-ymtc-poached-its-engineers-then-sued-it-using-its-own-stolen-tech-ex-employees-hid-roles-on-linkedin-patented-micron-tech-and-won-a-german-injunction)
 
 ---
 
@@ -160,6 +151,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Singapore is deepening semiconductor R&D ties with Applied Materials, KLA, GlobalFoundries (GF) and other industry players across advanced packaging and silicon photonics, as the city-state builds on its manufacturing base to strengthen technology development…
 - [原文連結](https://www.digitimes.com/news/a20260925PD201/kla-applied-materials-globalfoundries-manufacturing-silicon.html)
+
+---
+
+### ⚠️ Samsung Suddenly Raises Prices $100 on Most Galaxy S26 Phones
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: CNET (2026-10-01T18:54:17Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: An S26 Ultra with 1TB of storage now lists for $2,000.
+- [原文連結](https://www.cnet.com/tech/mobile/samsung-raises-galaxy-s26-prices/)
 
 ---
 
