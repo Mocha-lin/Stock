@@ -1,14 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-02T22:38:07.974436+00:00
-
-### 🚀 GlobalFoundries Singapore capacity utilization tops 90% as silicon photonics expansion hits equipment lead-time bottleneck
-- **題材**: `光通訊與矽光子` | **重要性**: `83`
-- **來源**: Digitimes (2026-09-30T00:38:31Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: GlobalFoundries (GF) is expanding its Singapore footprint following its acquisition of local silicon photonics foundry Advanced Micro Foundry (AMF), integrating 200mm and 300mm silicon photonics technologies while transferring its existing US 300mm capabiliti…
-- [原文連結](https://www.digitimes.com/news/a20260929PD228/globalfoundries-silicon-photonics-equipment-capacity.html)
-
----
+> 更新時間：2026-10-03T01:45:27.021237+00:00
 
 ### 🚀 DIGITIMES Insight: AI scaling is moving from chip shrinkage to system integration
 - **題材**: `半導體先進製程` | **重要性**: `78`
@@ -16,6 +7,15 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: TSMC said the next phase of AI performance growth will depend less on shrinking a single chip and more on combining multiple chips, memory, and advanced packaging inside larger systems. The shift could reshape semiconductor competition, as demand for compute,…
 - [原文連結](https://www.digitimes.com/news/a20261001PD204/tsmc-cowos-performance-packaging-technology.html)
+
+---
+
+### 🚀 GlobalFoundries Singapore capacity utilization tops 90% as silicon photonics expansion hits equipment lead-time bottleneck
+- **題材**: `光通訊與矽光子` | **重要性**: `78`
+- **來源**: Digitimes (2026-09-30T00:38:31Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: GlobalFoundries (GF) is expanding its Singapore footprint following its acquisition of local silicon photonics foundry Advanced Micro Foundry (AMF), integrating 200mm and 300mm silicon photonics technologies while transferring its existing US 300mm capabiliti…
+- [原文連結](https://www.digitimes.com/news/a20260929PD228/globalfoundries-silicon-photonics-equipment-capacity.html)
 
 ---
 
@@ -46,6 +46,15 @@
 
 ---
 
+### ⚖️ Amazon buys NT$1.59 billion stake in one of its Taiwanese AI server suppliers
+- **題材**: `AI伺服器` | **重要性**: `73`
+- **來源**: Digitimes (2026-09-29T15:01:23Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Amazon will take an equity stake in Gold Circuit Electronics (GCE), a Taiwanese maker of printed circuit boards (PCBs) for AI servers and network switches. GCE's board approved the pricing of a NT$1.589 billion private share placement on September 29, with Am…
+- [原文連結](https://www.digitimes.com/news/a20260929PD251/amazon-gce-ai-server-private-placement-taiwan.html)
+
+---
+
 ### ⚖️ In global semiconductor race, Singapore bets on critical, mature technologies
 - **題材**: `光通訊與矽光子` | **重要性**: `73`
 - **來源**: Digitimes (2026-09-29T08:57:39Z)
@@ -55,12 +64,31 @@
 
 ---
 
+### 🚀 RAM Maker Celebrates Record Profits And Predicts ‘Even Higher Prices’ And ‘Greater Tightness In The Industry’ In The Years Ahead
+- **題材**: `HBM記憶體` | **重要性**: `70`
+- **來源**: Kotaku (2026-10-01T23:00:22Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Micron doesn't see the AI bubble popping any time soon
+- [原文連結](https://kotaku.com/ram-maker-celebrates-record-profits-and-predicts-even-higher-prices-and-greater-tightness-in-the-industry-in-the-years-ahead-2000739125)
+
+---
+
 ### 🚀 Revenue Quintupled at AI Memory Maker Micron
 - **題材**: `HBM記憶體` | **重要性**: `70`
 - **來源**: The Information (2026-09-30T23:46:12Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: 
 - [原文連結](https://www.theinformation.com/briefings/revenue-quintupled-ai-memory-maker-micron)
+
+---
+
+### 🚀 Celestica poised for growth as Google and OpenAI push data center demand
+- **題材**: `光通訊與矽光子` | **重要性**: `70`
+- **來源**: Crypto Briefing (2026-09-30T16:38:16Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Celestica's growth hinges on hyperscaler investments, highlighting the critical role of custom hardware in the evolving AI infrastructure landscape.
+The post Celestica poised for growth as Google and OpenAI push data center demand appeared first on Crypto Bri…
+- [原文連結](https://cryptobriefing.com/celestica-growth-data-center-google-openai/)
 
 ---
 
@@ -109,6 +137,15 @@
 
 ---
 
+### 🚀 (PR) AI Server Demand Sustains Memory Contract Price Increases in 4Q26, While Consumer-Side Pressure Persists
+- **題材**: `AI伺服器` | **重要性**: `65`
+- **來源**: Techpowerup.com (2026-10-01T09:44:50Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: TrendForce's latest memory industry research reveals that DRAM suppliers continue to prioritize advanced-process capacity for high-performance server products in 4Q26, keeping the overall market undersupplied. However, the pace of contract price increases is …
+- [原文連結](https://www.techpowerup.com/353292/ai-server-demand-sustains-memory-contract-price-increases-in-4q26-while-consumer-side-pressure-persists)
+
+---
+
 ### 🚀 South Korea’s exports hit record high on AI boom
 - **題材**: `HBM記憶體` | **重要性**: `65`
 - **來源**: Al Jazeera English (2026-10-01T04:08:15Z)
@@ -142,42 +179,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: RoboTechnik completed a Hong Kong listing on September 29 and began trading on the Hong Kong stock exchange, according to its German photonics automation subsidiary ficonTEC. The new capital will be used for further investment in ficonTEC, which is expanding …
 - [原文連結](https://www.digitimes.com/news/a20260929PD241/photonics-silicon-automation-production-manufacturing.html)
-
----
-
-### ⚖️ Singapore deepens chip R&D ties with Applied Materials, KLA and GlobalFoundries
-- **題材**: `光通訊與矽光子` | **重要性**: `63`
-- **來源**: Digitimes (2026-09-25T09:15:59Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Singapore is deepening semiconductor R&D ties with Applied Materials, KLA, GlobalFoundries (GF) and other industry players across advanced packaging and silicon photonics, as the city-state builds on its manufacturing base to strengthen technology development…
-- [原文連結](https://www.digitimes.com/news/a20260925PD201/kla-applied-materials-globalfoundries-manufacturing-silicon.html)
-
----
-
-### ⚠️ Samsung Suddenly Raises Prices $100 on Most Galaxy S26 Phones
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: CNET (2026-10-01T18:54:17Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: An S26 Ultra with 1TB of storage now lists for $2,000.
-- [原文連結](https://www.cnet.com/tech/mobile/samsung-raises-galaxy-s26-prices/)
-
----
-
-### ⚖️ TSMC eyes a multibillion-dollar Texas campus for more AI chips
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: The Next Web (2026-10-01T17:38:48Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: TSMC is weighing a new Texas campus of multiple fabs, each costing at least $20B, contingent on Congress extending a 35% manufacturing tax credit. Its only European plant, the Dresden joint venture, totals above EUR 10B and will run 28nm to 12nm nodes rather …
-- [原文連結](https://thenextweb.com/news/tsmc-texas-fabs-europe-gap)
-
----
-
-### ⚠️ Layoffs are down, but employers aren't rushing to hire for the holidays
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-10-01T16:11:59Z)
-- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: By Lucia Mutikani WASHINGTON, Oct 1 (Reuters) - New applications for US unemployment benefits drifted close to 57-year lows last week and layoffs decreased in September, suggesting labor market stability persisted even as employers remained cautious about boo…
-- [原文連結](https://finance.yahoo.com/economy/articles/us-weekly-jobless-claims-fall-124022508.html)
 
 ---
 
