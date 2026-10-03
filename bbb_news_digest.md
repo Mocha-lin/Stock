@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-03T14:10:58.237712+00:00
+> 更新時間：2026-10-03T16:49:15.971475+00:00
 
 ### ⚖️ Global annual AI server shipments, 2025-2026
 - **題材**: `AI伺服器` | **重要性**: `78`
@@ -73,16 +73,6 @@
 
 ---
 
-### 🚀 Celestica poised for growth as Google and OpenAI push data center demand
-- **題材**: `光通訊與矽光子` | **重要性**: `70`
-- **來源**: Crypto Briefing (2026-09-30T16:38:16Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Celestica's growth hinges on hyperscaler investments, highlighting the critical role of custom hardware in the evolving AI infrastructure landscape.
-The post Celestica poised for growth as Google and OpenAI push data center demand appeared first on Crypto Bri…
-- [原文連結](https://cryptobriefing.com/celestica-growth-data-center-google-openai/)
-
----
-
 ### ⚖️ Nvidia weighs PTFE and HC for glass-free PCBs in Rubin Ultra
 - **題材**: `AI伺服器` | **重要性**: `68`
 - **來源**: Digitimes (2026-10-02T07:57:48Z)
@@ -119,15 +109,6 @@ The post Celestica poised for growth as Google and OpenAI push data center deman
 
 ---
 
-### 🚀 (PR) AI Server Demand Sustains Memory Contract Price Increases in 4Q26, While Consumer-Side Pressure Persists
-- **題材**: `AI伺服器` | **重要性**: `65`
-- **來源**: Techpowerup.com (2026-10-01T09:44:50Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: TrendForce's latest memory industry research reveals that DRAM suppliers continue to prioritize advanced-process capacity for high-performance server products in 4Q26, keeping the overall market undersupplied. However, the pace of contract price increases is …
-- [原文連結](https://www.techpowerup.com/353292/ai-server-demand-sustains-memory-contract-price-increases-in-4q26-while-consumer-side-pressure-persists)
-
----
-
 ### 🚀 South Korea’s exports hit record high on AI boom
 - **題材**: `HBM記憶體` | **重要性**: `65`
 - **來源**: Al Jazeera English (2026-10-01T04:08:15Z)
@@ -146,12 +127,13 @@ The post Celestica poised for growth as Google and OpenAI push data center deman
 
 ---
 
-### ⚖️ Micron's AI-fueled revenue forecast blows past estimates, backlog swells
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: CNA (2026-09-30T20:08:18Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Sept 30 : Micron Technology forecast quarterly revenue above estimates on Wednesday and said customers had increased commitments under its long-term supply agreements to $32 billion, signaling unabated demand for AI memory chips.The generative AI boom has mad…
-- [原文連結](https://www.channelnewsasia.com/business/microns-ai-fueled-revenue-forecast-blows-past-estimates-backlog-swells-6422616)
+### 🚀 Celestica poised for growth as Google and OpenAI push data center demand
+- **題材**: `光通訊與矽光子` | **重要性**: `65`
+- **來源**: Crypto Briefing (2026-09-30T16:38:16Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Celestica's growth hinges on hyperscaler investments, highlighting the critical role of custom hardware in the evolving AI infrastructure landscape.
+The post Celestica poised for growth as Google and OpenAI push data center demand appeared first on Crypto Bri…
+- [原文連結](https://cryptobriefing.com/celestica-growth-data-center-google-openai/)
 
 ---
 
@@ -179,6 +161,24 @@ The post Celestica poised for growth as Google and OpenAI push data center deman
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: RoboTechnik completed a Hong Kong listing on September 29 and began trading on the Hong Kong stock exchange, according to its German photonics automation subsidiary ficonTEC. The new capital will be used for further investment in ficonTEC, which is expanding …
 - [原文連結](https://www.digitimes.com/news/a20260929PD241/photonics-silicon-automation-production-manufacturing.html)
+
+---
+
+### ⚖️ Micron sees the memory shortage tightening into 2028 after a record quarter
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: The Next Web (2026-10-02T12:43:38Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Micron says the global memory shortage will get tighter over the next two years. The US chipmaker reported record results on Wednesday. Revenue for the quarter to 3 September rose nearly fivefold from a year earlier, to $54.23bn, the company said. Net income …
+- [原文連結](https://thenextweb.com/news/micron-record-quarter-memory-shortage-2028)
+
+---
+
+### 🚀 Jobs report to show whether hiring stayed resilient in September
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Abcnews.com (2026-10-02T09:10:23Z)
+- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: The jobs report will provide a gauge of the economy amid an inflation surge.
+- [原文連結](https://abcnews.com/Business/jobs-report-show-hiring-stayed-resilient-september/story?id=136915472)
 
 ---
 
