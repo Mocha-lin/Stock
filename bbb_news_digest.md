@@ -1,14 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-03T01:45:27.021237+00:00
-
-### 🚀 DIGITIMES Insight: AI scaling is moving from chip shrinkage to system integration
-- **題材**: `半導體先進製程` | **重要性**: `78`
-- **來源**: Digitimes (2026-10-01T01:35:57Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: TSMC said the next phase of AI performance growth will depend less on shrinking a single chip and more on combining multiple chips, memory, and advanced packaging inside larger systems. The shift could reshape semiconductor competition, as demand for compute,…
-- [原文連結](https://www.digitimes.com/news/a20261001PD204/tsmc-cowos-performance-packaging-technology.html)
-
----
+> 更新時間：2026-10-03T05:54:43.569565+00:00
 
 ### 🚀 GlobalFoundries Singapore capacity utilization tops 90% as silicon photonics expansion hits equipment lead-time bottleneck
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -28,12 +19,12 @@
 
 ---
 
-### 🚀 Micron says robots will keep RAM prices high, even if the AI bubble pops
-- **題材**: `HBM記憶體` | **重要性**: `75`
-- **來源**: TechSpot (2026-10-01T19:18:00Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: In its earnings guidance for FY27, Micron stated that it expects physical AI and humanoid robots to become even bigger drivers of memory and storage demand than AI data centers. According to CEO Sanjay Mehrotra, each humanoid robot would need at least around …
-- [原文連結](https://www.techspot.com/news/114060-micron-humanoid-robots-could-keep-memory-prices-high.html)
+### ⚖️ Micron eyes NVHBM profits with TSMC custom HBM push
+- **題材**: `HBM記憶體` | **重要性**: `73`
+- **來源**: Digitimes (2026-10-02T02:42:07Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Micron is using an externally manufactured base die in NVHBM, a custom high-bandwidth memory (HBM) product it is co-developing with Nvidia, as the company bets that customization can unlock added value even when manufacturing is outsourced. The move underscor…
+- [原文連結](https://www.digitimes.com/news/a20261002PD216/micron-hbm-dram-bandwidth-design.html)
 
 ---
 
@@ -92,30 +83,21 @@ The post Celestica poised for growth as Google and OpenAI push data center deman
 
 ---
 
+### ⚖️ California tech exec arrested in US$300M Nvidia AI server smuggling case
+- **題材**: `AI伺服器` | **重要性**: `68`
+- **來源**: Digitimes (2026-10-02T05:47:51Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: US federal prosecutors on October 1 arrested a 38-year-old California man accused of violating US export controls by smuggling computer servers containing US$300 million worth of Nvidia artificial intelligence chips to China.
+- [原文連結](https://www.digitimes.com/news/a20261002PD225/california-nvidia-chips-technology-2023.html)
+
+---
+
 ### ⚖️ Netlist challenges Micron, Nvidia, Broadcom, Google over alleged HBM patent use
 - **題材**: `HBM記憶體` | **重要性**: `68`
 - **來源**: Digitimes (2026-09-30T08:42:54Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Netlist has begun legal proceedings against Micron and downstream customers Nvidia, Broadcom, and Google to stop them from allegedly using the company's patented high-bandwidth memory (HBM) technology without authorization. The case arrives as AI applications…
 - [原文連結](https://www.digitimes.com/news/a20260930VL219/micron-patent-nvidia-broadcom-hbm.html)
-
----
-
-### ⚖️ TSMC reportedly evaluates Texas fabs as US regional competition intensifies
-- **題材**: `半導體先進製程` | **重要性**: `68`
-- **來源**: Digitimes (2026-09-30T02:07:21Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: TSMC is reportedly evaluating whether to build a second US manufacturing hub in Texas, potentially housing up to 6 advanced wafer fabs, as its US footprint continues to expand. The move follows the company's establishment of a massive semiconductor cluster in…
-- [原文連結](https://www.digitimes.com/news/a20260930PD215/tsmc-texas-fab-arizona-ic-manufacturing.html)
-
----
-
-### ⚖️ HBM to take nearly 30% of DRAM capacity as Samsung speeds up P5
-- **題材**: `HBM記憶體` | **重要性**: `68`
-- **來源**: Digitimes (2026-09-29T03:07:49Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: High-bandwidth memory (HBM) is expected to account for nearly 30% of DRAM makers' total wafer capacity in 2027, up from about 20% currently, as Samsung Electronics moves to accelerate the rollout of new memory capacity amid tightening supplies of both HBM and…
-- [原文連結](https://www.digitimes.com/news/a20260929VL202/hbm-dram-capacity-samsung-2027.html)
 
 ---
 
@@ -173,12 +155,30 @@ The post Celestica poised for growth as Google and OpenAI push data center deman
 
 ---
 
+### ⚖️ TSMC reportedly evaluates Texas fabs as US regional competition intensifies
+- **題材**: `半導體先進製程` | **重要性**: `63`
+- **來源**: Digitimes (2026-09-30T02:07:21Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: TSMC is reportedly evaluating whether to build a second US manufacturing hub in Texas, potentially housing up to 6 advanced wafer fabs, as its US footprint continues to expand. The move follows the company's establishment of a massive semiconductor cluster in…
+- [原文連結](https://www.digitimes.com/news/a20260930PD215/tsmc-texas-fab-arizona-ic-manufacturing.html)
+
+---
+
 ### ⚖️ RoboTechnik completes Hong Kong listing to fund ficonTEC expansion in silicon photonics
 - **題材**: `光通訊與矽光子` | **重要性**: `63`
 - **來源**: Digitimes (2026-09-29T07:38:58Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: RoboTechnik completed a Hong Kong listing on September 29 and began trading on the Hong Kong stock exchange, according to its German photonics automation subsidiary ficonTEC. The new capital will be used for further investment in ficonTEC, which is expanding …
 - [原文連結](https://www.digitimes.com/news/a20260929PD241/photonics-silicon-automation-production-manufacturing.html)
+
+---
+
+### ⚖️ AI server MLCC prices rise as Chinese suppliers gain ground in generic parts
+- **題材**: `AI伺服器` | **重要性**: `63`
+- **來源**: Digitimes (2026-09-29T01:39:06Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Multilayer ceramic capacitor (MLCC) prices for AI servers have continued to climb, while prices for general-purpose components used in consumer appliances have dropped sharply. The split in the market has opened more room for Chinese suppliers in midrange and…
+- [原文連結](https://www.digitimes.com/news/a20260929PD200/mlcc-ai-server-market-2026-demand.html)
 
 ---
 
