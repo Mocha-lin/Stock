@@ -1,5 +1,14 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-03T05:54:43.569565+00:00
+> 更新時間：2026-10-03T14:10:58.237712+00:00
+
+### ⚖️ Global annual AI server shipments, 2025-2026
+- **題材**: `AI伺服器` | **重要性**: `78`
+- **來源**: Digitimes (2026-10-02T10:10:30Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Continued advances in top-tier LLM capabilities, coupled with the potential for business automation enabled by agentic AI, are prompting major North American cloud providers, Neo Clouds, and leading AI labs to accelerate AI data center buildouts in 2026.
+- [原文連結](https://www.digitimes.com/reports/item.php?id=20261001RS400)
+
+---
 
 ### 🚀 GlobalFoundries Singapore capacity utilization tops 90% as silicon photonics expansion hits equipment lead-time bottleneck
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -16,6 +25,15 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: In a recent interview on the DIGITIMES podcast, Dr. Shin-Puu Jeng, chairman of the International Microelectronics and Packaging Society (IMAPS) and a former longtime TSMC advanced packaging executive, reflected on the early development of CoWoS. In the first …
 - [原文連結](https://www.digitimes.com/news/a20260924PD236/tsmc-xilinx-digitimes-cowos-silicon.html)
+
+---
+
+### 🚀 ficonTEC, Hermes Testing target CPO testing scale-up with INS-2 platform
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-10-02T08:34:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: ficonTEC, a maker of optoelectronic automation assembly and test equipment, has announced a strategic partnership with Hermes Testing Solutions Inc. (HTSI) to support Taiwan's rapidly expanding co-packaged optics (CPO) ecosystem. The collaboration will initia…
+- [原文連結](https://www.digitimes.com/news/a20261001PD245/testing-cpo-equipment-automation-manufacturing.html)
 
 ---
 
@@ -37,15 +55,6 @@
 
 ---
 
-### ⚖️ Amazon buys NT$1.59 billion stake in one of its Taiwanese AI server suppliers
-- **題材**: `AI伺服器` | **重要性**: `73`
-- **來源**: Digitimes (2026-09-29T15:01:23Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Amazon will take an equity stake in Gold Circuit Electronics (GCE), a Taiwanese maker of printed circuit boards (PCBs) for AI servers and network switches. GCE's board approved the pricing of a NT$1.589 billion private share placement on September 29, with Am…
-- [原文連結](https://www.digitimes.com/news/a20260929PD251/amazon-gce-ai-server-private-placement-taiwan.html)
-
----
-
 ### ⚖️ In global semiconductor race, Singapore bets on critical, mature technologies
 - **題材**: `光通訊與矽光子` | **重要性**: `73`
 - **來源**: Digitimes (2026-09-29T08:57:39Z)
@@ -64,15 +73,6 @@
 
 ---
 
-### 🚀 Revenue Quintupled at AI Memory Maker Micron
-- **題材**: `HBM記憶體` | **重要性**: `70`
-- **來源**: The Information (2026-09-30T23:46:12Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: 
-- [原文連結](https://www.theinformation.com/briefings/revenue-quintupled-ai-memory-maker-micron)
-
----
-
 ### 🚀 Celestica poised for growth as Google and OpenAI push data center demand
 - **題材**: `光通訊與矽光子` | **重要性**: `70`
 - **來源**: Crypto Briefing (2026-09-30T16:38:16Z)
@@ -83,21 +83,12 @@ The post Celestica poised for growth as Google and OpenAI push data center deman
 
 ---
 
-### ⚖️ California tech exec arrested in US$300M Nvidia AI server smuggling case
+### ⚖️ Nvidia weighs PTFE and HC for glass-free PCBs in Rubin Ultra
 - **題材**: `AI伺服器` | **重要性**: `68`
-- **來源**: Digitimes (2026-10-02T05:47:51Z)
+- **來源**: Digitimes (2026-10-02T07:57:48Z)
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: US federal prosecutors on October 1 arrested a 38-year-old California man accused of violating US export controls by smuggling computer servers containing US$300 million worth of Nvidia artificial intelligence chips to China.
-- [原文連結](https://www.digitimes.com/news/a20261002PD225/california-nvidia-chips-technology-2023.html)
-
----
-
-### ⚖️ Netlist challenges Micron, Nvidia, Broadcom, Google over alleged HBM patent use
-- **題材**: `HBM記憶體` | **重要性**: `68`
-- **來源**: Digitimes (2026-09-30T08:42:54Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Netlist has begun legal proceedings against Micron and downstream customers Nvidia, Broadcom, and Google to stop them from allegedly using the company's patented high-bandwidth memory (HBM) technology without authorization. The case arrives as AI applications…
-- [原文連結](https://www.digitimes.com/news/a20260930VL219/micron-patent-nvidia-broadcom-hbm.html)
+- **摘要**: Nvidia is testing glass-free PCB material systems for its next-generation AI server platforms, evaluating polytetrafluoroethylene (PTFE) and hydrocarbon (HC) resin formulations for possible use in the Rubin Ultra NVL576 Switch Tray, which is scheduled for mas…
+- [原文連結](https://www.digitimes.com/news/a20261002PD228/nvidia-rubin-pcb-testing-ai-server.html)
 
 ---
 
@@ -107,6 +98,15 @@ The post Celestica poised for growth as Google and OpenAI push data center deman
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: As chip design enters the AI era, heterogeneous integration is driving foundry giants like TSMC, Samsung, and Intel to bring advanced front-end fab capabilities into back-end packaging. In the second part of his interview with DIGITIMES, Dr. Shin-Puu Jeng, ch…
 - [原文連結](https://www.digitimes.com/news/a20260924PD238/tsmc-packaging-cowos-design-silicon.html)
+
+---
+
+### 🚀 Higher oil prices are just 1 way the Iran war is weighing on the U.S. economy
+- **題材**: `總體風險` | **重要性**: `65`
+- **來源**: Yahoo Entertainment (2026-10-02T10:00:00Z)
+- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: US bond yields have surged upward over the past month, as yields on both the 10-year Treasury (^TNX) and 30-year Treasury (^TYX) have reached levels not seen since 2002, surpassing 2007 high-water marks in the lead-up to the financial crisis.Investors have at…
+- [原文連結](https://finance.yahoo.com/markets/article/the-iran-war-is-driving-inflation-higher--and-its-not-just-because-of-oil-100000797.html)
 
 ---
 
@@ -155,6 +155,15 @@ The post Celestica poised for growth as Google and OpenAI push data center deman
 
 ---
 
+### ⚖️ Netlist challenges Micron, Nvidia, Broadcom, Google over alleged HBM patent use
+- **題材**: `HBM記憶體` | **重要性**: `63`
+- **來源**: Digitimes (2026-09-30T08:42:54Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Netlist has begun legal proceedings against Micron and downstream customers Nvidia, Broadcom, and Google to stop them from allegedly using the company's patented high-bandwidth memory (HBM) technology without authorization. The case arrives as AI applications…
+- [原文連結](https://www.digitimes.com/news/a20260930VL219/micron-patent-nvidia-broadcom-hbm.html)
+
+---
+
 ### ⚖️ TSMC reportedly evaluates Texas fabs as US regional competition intensifies
 - **題材**: `半導體先進製程` | **重要性**: `63`
 - **來源**: Digitimes (2026-09-30T02:07:21Z)
@@ -170,15 +179,6 @@ The post Celestica poised for growth as Google and OpenAI push data center deman
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: RoboTechnik completed a Hong Kong listing on September 29 and began trading on the Hong Kong stock exchange, according to its German photonics automation subsidiary ficonTEC. The new capital will be used for further investment in ficonTEC, which is expanding …
 - [原文連結](https://www.digitimes.com/news/a20260929PD241/photonics-silicon-automation-production-manufacturing.html)
-
----
-
-### ⚖️ AI server MLCC prices rise as Chinese suppliers gain ground in generic parts
-- **題材**: `AI伺服器` | **重要性**: `63`
-- **來源**: Digitimes (2026-09-29T01:39:06Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Multilayer ceramic capacitor (MLCC) prices for AI servers have continued to climb, while prices for general-purpose components used in consumer appliances have dropped sharply. The split in the market has opened more room for Chinese suppliers in midrange and…
-- [原文連結](https://www.digitimes.com/news/a20260929PD200/mlcc-ai-server-market-2026-demand.html)
 
 ---
 
