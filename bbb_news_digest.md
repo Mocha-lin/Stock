@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-04T02:25:01.917086+00:00
+> 更新時間：2026-10-04T06:31:40.496213+00:00
 
 ### ⚖️ Global annual AI server shipments, 2025-2026
 - **題材**: `AI伺服器` | **重要性**: `78`
@@ -46,15 +46,6 @@
 
 ---
 
-### 🚀 Micron hikes 2027 HBM prices after missing 2026 memory surge on fixed contracts
-- **題材**: `HBM記憶體` | **重要性**: `73`
-- **來源**: Digitimes (2026-10-01T02:56:21Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Micron Technology has sharply raised 2027 prices for high-bandwidth memory (HBM), the stacked DRAM packaged with AI accelerators. The increase comes after a year in which fixed contract prices left HBM largely outside the memory price surge.
-- [原文連結](https://www.digitimes.com/news/a20261001VL206/micron-hbm-2027-dram-growth.html)
-
----
-
 ### 🚀 DIGITIMES Insight: AI scaling is moving from chip shrinkage to system integration
 - **題材**: `半導體先進製程` | **重要性**: `73`
 - **來源**: Digitimes (2026-10-01T01:35:57Z)
@@ -91,6 +82,15 @@
 
 ---
 
+### 🚀 Micron hikes 2027 HBM prices after missing 2026 memory surge on fixed contracts
+- **題材**: `HBM記憶體` | **重要性**: `68`
+- **來源**: Digitimes (2026-10-01T02:56:21Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Micron Technology has sharply raised 2027 prices for high-bandwidth memory (HBM), the stacked DRAM packaged with AI accelerators. The increase comes after a year in which fixed contract prices left HBM largely outside the memory price surge.
+- [原文連結](https://www.digitimes.com/news/a20261001VL206/micron-hbm-2027-dram-growth.html)
+
+---
+
 ### ⚖️ Behind CoWoS (part 2): How TSMC turned a niche packaging experiment into an industry standard
 - **題材**: `半導體先進製程` | **重要性**: `68`
 - **來源**: Digitimes (2026-09-28T23:18:56Z)
@@ -115,24 +115,6 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: NVIDIA's supply commitments climbed to $279 billion in the quarter ended July 26, up from $119 billion the quarter before. The company says the increase is primarily related to memory procurement. Morgan Stanley estimates that NVIDIA has claimed about 37.3% o…
 - [原文連結](https://www.techpowerup.com/353306/nvidia-could-account-for-37-of-2027-hbm-capacity-worth-usd-279-billion)
-
----
-
-### 🚀 South Korea’s exports hit record high on AI boom
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: Al Jazeera English (2026-10-01T04:08:15Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Exports jump 83.5 percent to top $120bn for the first time amid ferocious semiconductor demand.
-- [原文連結](https://www.aljazeera.com/economy/2026/10/1/south-koreas-exports-hit-record-high-on-ai-boom)
-
----
-
-### ⚠️ Micron’s DRAM Revenue Shot Up 343% Compared to Last Year, Courtesy of RAM Shortage
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: Gizmodo.com (2026-10-01T02:56:04Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Soaring AI demand and surging RAM prices are making bank for Micron, the U.S.'s only high-bandwidth memory manufacturer.
-- [原文連結](https://gizmodo.com/microns-dram-revenue-shot-up-343-compared-to-last-year-courtesy-of-ram-shortage-2000819979)
 
 ---
 
@@ -173,12 +155,30 @@ The post Celestica poised for growth as Google and OpenAI push data center deman
 
 ---
 
+### 🚀 APOD: 2026 October 3 – Selfie at Vera Rubin Ridge
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: NASA (2026-10-03T04:05:00Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: APOD Science APOD APOD: 2026 October 3 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featu…
+- [原文連結](https://science.nasa.gov/image-article/apod-2026-october-3-selfie-at-vera-rubin-ridge/)
+
+---
+
 ### ⚖️ Micron sees the memory shortage tightening into 2028 after a record quarter
 - **題材**: `HBM記憶體` | **重要性**: `60`
 - **來源**: The Next Web (2026-10-02T12:43:38Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Micron says the global memory shortage will get tighter over the next two years. The US chipmaker reported record results on Wednesday. Revenue for the quarter to 3 September rose nearly fivefold from a year earlier, to $54.23bn, the company said. Net income …
 - [原文連結](https://thenextweb.com/news/micron-record-quarter-memory-shortage-2028)
+
+---
+
+### 🚀 Jobs report to show whether hiring stayed resilient in September
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Abcnews.com (2026-10-02T09:10:23Z)
+- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: The jobs report will provide a gauge of the economy amid an inflation surge.
+- [原文連結](https://abcnews.com/Business/jobs-report-show-hiring-stayed-resilient-september/story?id=136915472)
 
 ---
 
