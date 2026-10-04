@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-04T06:31:40.496213+00:00
+> 更新時間：2026-10-04T14:38:33.892976+00:00
 
 ### ⚖️ Global annual AI server shipments, 2025-2026
 - **題材**: `AI伺服器` | **重要性**: `78`
@@ -100,21 +100,21 @@
 
 ---
 
+### ⚠️ Memory shortages set to persist into 2028, warns Micron CEO
+- **題材**: `HBM記憶體` | **重要性**: `65`
+- **來源**: Eurogamer.net (2026-10-03T10:34:13Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Micron has warned that global RAM shortages show no sign of easing, telling investors on its earnings call that it has already sold most of next year's production. Read more
+- [原文連結](https://www.eurogamer.net/micron-ram-shortage-2028-earnings-ai-demand)
+
+---
+
 ### 🚀 Higher oil prices are just 1 way the Iran war is weighing on the U.S. economy
 - **題材**: `總體風險` | **重要性**: `65`
 - **來源**: Yahoo Entertainment (2026-10-02T10:00:00Z)
 - **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: US bond yields have surged upward over the past month, as yields on both the 10-year Treasury (^TNX) and 30-year Treasury (^TYX) have reached levels not seen since 2002, surpassing 2007 high-water marks in the lead-up to the financial crisis.Investors have at…
 - [原文連結](https://finance.yahoo.com/markets/article/the-iran-war-is-driving-inflation-higher--and-its-not-just-because-of-oil-100000797.html)
-
----
-
-### ⚖️ NVIDIA Could Account for 37% of 2027 HBM Capacity, Worth $279 Billion
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: Techpowerup.com (2026-10-01T15:24:29Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: NVIDIA's supply commitments climbed to $279 billion in the quarter ended July 26, up from $119 billion the quarter before. The company says the increase is primarily related to memory procurement. Morgan Stanley estimates that NVIDIA has claimed about 37.3% o…
-- [原文連結](https://www.techpowerup.com/353306/nvidia-could-account-for-37-of-2027-hbm-capacity-worth-usd-279-billion)
 
 ---
 
@@ -125,15 +125,6 @@
 - **摘要**: Celestica's growth hinges on hyperscaler investments, highlighting the critical role of custom hardware in the evolving AI infrastructure landscape.
 The post Celestica poised for growth as Google and OpenAI push data center demand appeared first on Crypto Bri…
 - [原文連結](https://cryptobriefing.com/celestica-growth-data-center-google-openai/)
-
----
-
-### ⚖️ Netlist challenges Micron, Nvidia, Broadcom, Google over alleged HBM patent use
-- **題材**: `HBM記憶體` | **重要性**: `63`
-- **來源**: Digitimes (2026-09-30T08:42:54Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Netlist has begun legal proceedings against Micron and downstream customers Nvidia, Broadcom, and Google to stop them from allegedly using the company's patented high-bandwidth memory (HBM) technology without authorization. The case arrives as AI applications…
-- [原文連結](https://www.digitimes.com/news/a20260930VL219/micron-patent-nvidia-broadcom-hbm.html)
 
 ---
 
@@ -152,6 +143,15 @@ The post Celestica poised for growth as Google and OpenAI push data center deman
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: RoboTechnik completed a Hong Kong listing on September 29 and began trading on the Hong Kong stock exchange, according to its German photonics automation subsidiary ficonTEC. The new capital will be used for further investment in ficonTEC, which is expanding …
 - [原文連結](https://www.digitimes.com/news/a20260929PD241/photonics-silicon-automation-production-manufacturing.html)
+
+---
+
+### ⚖️ AI agents use 5x more tokens than humans as cached prompts explode, headed for 10x
+- **題材**: `HBM記憶體` | **重要性**: `62`
+- **來源**: Tom's Hardware UK (2026-10-03T13:10:00Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Daniel Newman’s number comes from OpenRouter data, where agents passed humans in February and grew 14x by August.
+- [原文連結](https://www.tomshardware.com/tech-industry/artificial-intelligence/futurum-ceo-says-agents-use-ai-5x-more-than-humans-number-will-eventually-hit-10x-but-agents-are-mostly-rereading-what-theyve-already-seen)
 
 ---
 
