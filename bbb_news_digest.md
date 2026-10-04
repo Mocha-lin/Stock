@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-03T19:34:14.214693+00:00
+> 更新時間：2026-10-04T02:25:01.917086+00:00
 
 ### ⚖️ Global annual AI server shipments, 2025-2026
 - **題材**: `AI伺服器` | **重要性**: `78`
@@ -52,6 +52,15 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Micron Technology has sharply raised 2027 prices for high-bandwidth memory (HBM), the stacked DRAM packaged with AI accelerators. The increase comes after a year in which fixed contract prices left HBM largely outside the memory price surge.
 - [原文連結](https://www.digitimes.com/news/a20261001VL206/micron-hbm-2027-dram-growth.html)
+
+---
+
+### 🚀 DIGITIMES Insight: AI scaling is moving from chip shrinkage to system integration
+- **題材**: `半導體先進製程` | **重要性**: `73`
+- **來源**: Digitimes (2026-10-01T01:35:57Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: TSMC said the next phase of AI performance growth will depend less on shrinking a single chip and more on combining multiple chips, memory, and advanced packaging inside larger systems. The shift could reshape semiconductor competition, as demand for compute,…
+- [原文連結](https://www.digitimes.com/news/a20261001PD204/tsmc-cowos-performance-packaging-technology.html)
 
 ---
 
@@ -170,15 +179,6 @@ The post Celestica poised for growth as Google and OpenAI push data center deman
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Micron says the global memory shortage will get tighter over the next two years. The US chipmaker reported record results on Wednesday. Revenue for the quarter to 3 September rose nearly fivefold from a year earlier, to $54.23bn, the company said. Net income …
 - [原文連結](https://thenextweb.com/news/micron-record-quarter-memory-shortage-2028)
-
----
-
-### 🚀 Jobs report to show whether hiring stayed resilient in September
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Abcnews.com (2026-10-02T09:10:23Z)
-- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: The jobs report will provide a gauge of the economy amid an inflation surge.
-- [原文連結](https://abcnews.com/Business/jobs-report-show-hiring-stayed-resilient-september/story?id=136915472)
 
 ---
 
