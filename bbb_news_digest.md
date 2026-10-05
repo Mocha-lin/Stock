@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-04T22:02:10.391200+00:00
+> 更新時間：2026-10-05T01:38:57.076201+00:00
 
 ### ⚖️ Global annual AI server shipments, 2025-2026
 - **題材**: `AI伺服器` | **重要性**: `78`
@@ -64,15 +64,6 @@
 
 ---
 
-### 🚀 RAM Maker Celebrates Record Profits And Predicts ‘Even Higher Prices’ And ‘Greater Tightness In The Industry’ In The Years Ahead
-- **題材**: `HBM記憶體` | **重要性**: `70`
-- **來源**: Kotaku (2026-10-01T23:00:22Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Micron doesn't see the AI bubble popping any time soon
-- [原文連結](https://kotaku.com/ram-maker-celebrates-record-profits-and-predicts-even-higher-prices-and-greater-tightness-in-the-industry-in-the-years-ahead-2000739125)
-
----
-
 ### ⚖️ Nvidia weighs PTFE and HC for glass-free PCBs in Rubin Ultra
 - **題材**: `AI伺服器` | **重要性**: `68`
 - **來源**: Digitimes (2026-10-02T07:57:48Z)
@@ -115,6 +106,15 @@
 - **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: US bond yields have surged upward over the past month, as yields on both the 10-year Treasury (^TNX) and 30-year Treasury (^TYX) have reached levels not seen since 2002, surpassing 2007 high-water marks in the lead-up to the financial crisis.Investors have at…
 - [原文連結](https://finance.yahoo.com/markets/article/the-iran-war-is-driving-inflation-higher--and-its-not-just-because-of-oil-100000797.html)
+
+---
+
+### 🚀 RAM Maker Celebrates Record Profits And Predicts ‘Even Higher Prices’ And ‘Greater Tightness In The Industry’ In The Years Ahead
+- **題材**: `HBM記憶體` | **重要性**: `65`
+- **來源**: Kotaku (2026-10-01T23:00:22Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Micron doesn't see the AI bubble popping any time soon
+- [原文連結](https://kotaku.com/ram-maker-celebrates-record-profits-and-predicts-even-higher-prices-and-greater-tightness-in-the-industry-in-the-years-ahead-2000739125)
 
 ---
 
