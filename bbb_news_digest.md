@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-05T01:38:57.076201+00:00
+> 更新時間：2026-10-05T06:25:41.867695+00:00
 
 ### ⚖️ Global annual AI server shipments, 2025-2026
 - **題材**: `AI伺服器` | **重要性**: `78`
@@ -37,15 +37,6 @@
 
 ---
 
-### ⚖️ Micron eyes NVHBM profits with TSMC custom HBM push
-- **題材**: `HBM記憶體` | **重要性**: `73`
-- **來源**: Digitimes (2026-10-02T02:42:07Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Micron is using an externally manufactured base die in NVHBM, a custom high-bandwidth memory (HBM) product it is co-developing with Nvidia, as the company bets that customization can unlock added value even when manufacturing is outsourced. The move underscor…
-- [原文連結](https://www.digitimes.com/news/a20261002PD216/micron-hbm-dram-bandwidth-design.html)
-
----
-
 ### 🚀 DIGITIMES Insight: AI scaling is moving from chip shrinkage to system integration
 - **題材**: `半導體先進製程` | **重要性**: `73`
 - **來源**: Digitimes (2026-10-01T01:35:57Z)
@@ -70,6 +61,15 @@
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Nvidia is testing glass-free PCB material systems for its next-generation AI server platforms, evaluating polytetrafluoroethylene (PTFE) and hydrocarbon (HC) resin formulations for possible use in the Rubin Ultra NVL576 Switch Tray, which is scheduled for mas…
 - [原文連結](https://www.digitimes.com/news/a20261002PD228/nvidia-rubin-pcb-testing-ai-server.html)
+
+---
+
+### ⚖️ Micron eyes NVHBM profits with TSMC custom HBM push
+- **題材**: `HBM記憶體` | **重要性**: `68`
+- **來源**: Digitimes (2026-10-02T02:42:07Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Micron is using an externally manufactured base die in NVHBM, a custom high-bandwidth memory (HBM) product it is co-developing with Nvidia, as the company bets that customization can unlock added value even when manufacturing is outsourced. The move underscor…
+- [原文連結](https://www.digitimes.com/news/a20261002PD216/micron-hbm-dram-bandwidth-design.html)
 
 ---
 
@@ -155,6 +155,15 @@ The post Celestica poised for growth as Google and OpenAI push data center deman
 
 ---
 
+### 🚀 Madison Ryann Ward Is Doing Music Her Way
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: Relevantmagazine.com (2026-10-04T04:45:58Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: A 10-second cafeteria video got her signed by Rick Rubin. Then she walked away, went independent and built something better.
+- [原文連結](https://relevantmagazine.com/magazine/we-stand-a-lot-taller-when-were-standing-on-the-rock-madison-ryann-ward-is-doing-music-her-way/)
+
+---
+
 ### 🚀 APOD: 2026 October 3 – Selfie at Vera Rubin Ridge
 - **題材**: `AI伺服器` | **重要性**: `60`
 - **來源**: NASA (2026-10-03T04:05:00Z)
@@ -170,15 +179,6 @@ The post Celestica poised for growth as Google and OpenAI push data center deman
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Micron says the global memory shortage will get tighter over the next two years. The US chipmaker reported record results on Wednesday. Revenue for the quarter to 3 September rose nearly fivefold from a year earlier, to $54.23bn, the company said. Net income …
 - [原文連結](https://thenextweb.com/news/micron-record-quarter-memory-shortage-2028)
-
----
-
-### 🚀 Jobs report to show whether hiring stayed resilient in September
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Abcnews.com (2026-10-02T09:10:23Z)
-- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: The jobs report will provide a gauge of the economy amid an inflation surge.
-- [原文連結](https://abcnews.com/Business/jobs-report-show-hiring-stayed-resilient-september/story?id=136915472)
 
 ---
 
