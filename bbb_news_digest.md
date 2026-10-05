@@ -1,14 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-05T06:25:41.867695+00:00
-
-### ⚖️ Global annual AI server shipments, 2025-2026
-- **題材**: `AI伺服器` | **重要性**: `78`
-- **來源**: Digitimes (2026-10-02T10:10:30Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Continued advances in top-tier LLM capabilities, coupled with the potential for business automation enabled by agentic AI, are prompting major North American cloud providers, Neo Clouds, and leading AI labs to accelerate AI data center buildouts in 2026.
-- [原文連結](https://www.digitimes.com/reports/item.php?id=20261001RS400)
-
----
+> 更新時間：2026-10-05T17:57:52.158038+00:00
 
 ### 🚀 GlobalFoundries Singapore capacity utilization tops 90% as silicon photonics expansion hits equipment lead-time bottleneck
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -28,12 +19,12 @@
 
 ---
 
-### 🚀 ficonTEC, Hermes Testing target CPO testing scale-up with INS-2 platform
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-10-02T08:34:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: ficonTEC, a maker of optoelectronic automation assembly and test equipment, has announced a strategic partnership with Hermes Testing Solutions Inc. (HTSI) to support Taiwan's rapidly expanding co-packaged optics (CPO) ecosystem. The collaboration will initia…
-- [原文連結](https://www.digitimes.com/news/a20261001PD245/testing-cpo-equipment-automation-manufacturing.html)
+### ⚖️ Global annual AI server shipments, 2025-2026
+- **題材**: `AI伺服器` | **重要性**: `73`
+- **來源**: Digitimes (2026-10-02T10:10:30Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Continued advances in top-tier LLM capabilities, coupled with the potential for business automation enabled by agentic AI, are prompting major North American cloud providers, Neo Clouds, and leading AI labs to accelerate AI data center buildouts in 2026.
+- [原文連結](https://www.digitimes.com/reports/item.php?id=20261001RS400)
 
 ---
 
@@ -55,12 +46,12 @@
 
 ---
 
-### ⚖️ Nvidia weighs PTFE and HC for glass-free PCBs in Rubin Ultra
-- **題材**: `AI伺服器` | **重要性**: `68`
-- **來源**: Digitimes (2026-10-02T07:57:48Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Nvidia is testing glass-free PCB material systems for its next-generation AI server platforms, evaluating polytetrafluoroethylene (PTFE) and hydrocarbon (HC) resin formulations for possible use in the Rubin Ultra NVL576 Switch Tray, which is scheduled for mas…
-- [原文連結](https://www.digitimes.com/news/a20261002PD228/nvidia-rubin-pcb-testing-ai-server.html)
+### 🚀 ficonTEC, Hermes Testing target CPO testing scale-up with INS-2 platform
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-10-02T08:34:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: ficonTEC, a maker of optoelectronic automation assembly and test equipment, has announced a strategic partnership with Hermes Testing Solutions Inc. (HTSI) to support Taiwan's rapidly expanding co-packaged optics (CPO) ecosystem. The collaboration will initia…
+- [原文連結](https://www.digitimes.com/news/a20261001PD245/testing-cpo-equipment-automation-manufacturing.html)
 
 ---
 
@@ -100,15 +91,6 @@
 
 ---
 
-### 🚀 Higher oil prices are just 1 way the Iran war is weighing on the U.S. economy
-- **題材**: `總體風險` | **重要性**: `65`
-- **來源**: Yahoo Entertainment (2026-10-02T10:00:00Z)
-- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: US bond yields have surged upward over the past month, as yields on both the 10-year Treasury (^TNX) and 30-year Treasury (^TYX) have reached levels not seen since 2002, surpassing 2007 high-water marks in the lead-up to the financial crisis.Investors have at…
-- [原文連結](https://finance.yahoo.com/markets/article/the-iran-war-is-driving-inflation-higher--and-its-not-just-because-of-oil-100000797.html)
-
----
-
 ### 🚀 RAM Maker Celebrates Record Profits And Predicts ‘Even Higher Prices’ And ‘Greater Tightness In The Industry’ In The Years Ahead
 - **題材**: `HBM記憶體` | **重要性**: `65`
 - **來源**: Kotaku (2026-10-01T23:00:22Z)
@@ -125,6 +107,15 @@
 - **摘要**: Celestica's growth hinges on hyperscaler investments, highlighting the critical role of custom hardware in the evolving AI infrastructure landscape.
 The post Celestica poised for growth as Google and OpenAI push data center demand appeared first on Crypto Bri…
 - [原文連結](https://cryptobriefing.com/celestica-growth-data-center-google-openai/)
+
+---
+
+### ⚖️ Nvidia weighs PTFE and HC for glass-free PCBs in Rubin Ultra
+- **題材**: `AI伺服器` | **重要性**: `63`
+- **來源**: Digitimes (2026-10-02T07:57:48Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Nvidia is testing glass-free PCB material systems for its next-generation AI server platforms, evaluating polytetrafluoroethylene (PTFE) and hydrocarbon (HC) resin formulations for possible use in the Rubin Ultra NVL576 Switch Tray, which is scheduled for mas…
+- [原文連結](https://www.digitimes.com/news/a20261002PD228/nvidia-rubin-pcb-testing-ai-server.html)
 
 ---
 
@@ -173,12 +164,21 @@ The post Celestica poised for growth as Google and OpenAI push data center deman
 
 ---
 
-### ⚖️ Micron sees the memory shortage tightening into 2028 after a record quarter
+### 🚀 Higher oil prices are just 1 way the Iran war is weighing on the U.S. economy
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-10-02T10:00:00Z)
+- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: US bond yields have surged upward over the past month, as yields on both the 10-year Treasury (^TNX) and 30-year Treasury (^TYX) have reached levels not seen since 2002, surpassing 2007 high-water marks in the lead-up to the financial crisis.Investors have at…
+- [原文連結](https://finance.yahoo.com/markets/article/the-iran-war-is-driving-inflation-higher--and-its-not-just-because-of-oil-100000797.html)
+
+---
+
+### 🚀 South Korea’s exports hit record high on AI boom
 - **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: The Next Web (2026-10-02T12:43:38Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Micron says the global memory shortage will get tighter over the next two years. The US chipmaker reported record results on Wednesday. Revenue for the quarter to 3 September rose nearly fivefold from a year earlier, to $54.23bn, the company said. Net income …
-- [原文連結](https://thenextweb.com/news/micron-record-quarter-memory-shortage-2028)
+- **來源**: Al Jazeera English (2026-10-01T04:08:15Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Exports jump 83.5 percent to top $120bn for the first time amid ferocious semiconductor demand.
+- [原文連結](https://www.aljazeera.com/economy/2026/10/1/south-koreas-exports-hit-record-high-on-ai-boom)
 
 ---
 
