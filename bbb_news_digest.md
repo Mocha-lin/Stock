@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-05T17:57:52.158038+00:00
+> 更新時間：2026-10-05T20:55:53.999642+00:00
 
 ### 🚀 GlobalFoundries Singapore capacity utilization tops 90% as silicon photonics expansion hits equipment lead-time bottleneck
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
