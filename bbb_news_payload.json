@@ -1,9 +1,9 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-10-05T20:55:53.999642+00:00",
+  "generated_at": "2026-10-06T02:42:39.433568+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
-  "total_count": 73,
+  "total_count": 71,
   "items": [
     {
       "id": "623089ff4a4a74e5",
@@ -44,20 +44,20 @@
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
-      "id": "14080295c7698cd6",
+      "id": "b67975221f45cac7",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "半導體先進製程",
-      "title": "Behind CoWoS (part 1)—How a 0% yield crisis led to TSMC's first advanced packaging win",
-      "summary": "In a recent interview on the DIGITIMES podcast, Dr. Shin-Puu Jeng, chairman of the International Microelectronics and Packaging Society (IMAPS) and a former longtime TSMC advanced packaging executive, reflected on the early development of CoWoS. In the first …",
-      "original_title": "Behind CoWoS (part 1)—How a 0% yield crisis led to TSMC's first advanced packaging win",
-      "url": "https://www.digitimes.com/news/a20260924PD236/tsmc-xilinx-digitimes-cowos-silicon.html",
+      "title": "Podcast highlights: TSMC Texas plant talk is premature, Intel 18A hits backfiring criticism",
+      "summary": "This excerpt from DIGITIMES analyst Luke Lin's podcast looks at TSMC's rumored Texas expansion, Intel's 14A and 18A process debate, and Qualcomm's high bandwidth compute (HBC) push as AI workloads drive demand for hybrid bonding and advanced packaging.",
+      "original_title": "Podcast highlights: TSMC Texas plant talk is premature, Intel 18A hits backfiring criticism",
+      "url": "https://www.digitimes.com/news/a20261002PD227/tsmc-intel-texas-digitimes-arizona.html",
       "source": "Digitimes",
       "domain": "digitimes.com",
-      "published_at": "2026-09-28T23:18:40Z",
-      "importance": 78,
-      "impact": "positive",
-      "timeframe": "short_to_mid_term",
+      "published_at": "2026-10-04T23:44:58Z",
+      "importance": 73,
+      "impact": "neutral",
+      "timeframe": "short_term",
       "tags": [
         "半導體",
         "CoWoS",
@@ -79,7 +79,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+      "reason": "屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "115376494db6305d",
@@ -118,6 +118,44 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
+      "id": "283b1495beed8d3d",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "Advanced packaging race expands beyond chipmakers as display, materials, equipment suppliers chase new footholds",
+      "summary": "The race to commercialize advanced packaging is widening beyond traditional chipmakers and display panel makers. As fan-out panel-level packaging (FOPLP), through-glass via, and micro-LED optical communications move closer to mass production, semiconductor eq…",
+      "original_title": "Advanced packaging race expands beyond chipmakers as display, materials, equipment suppliers chase new footholds",
+      "url": "https://www.digitimes.com/news/a20261002PD208/packaging-equipment-materials-display-chipmakers.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-10-02T02:16:23Z",
+      "importance": 73,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "97b541c3389b0396",
@@ -161,7 +199,7 @@
       "id": "19f89b3f0ab289fb",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
+      "theme": "半導體先進製程",
       "title": "In global semiconductor race, Singapore bets on critical, mature technologies",
       "summary": "Amid the ongoing restructuring of the global semiconductor supply chain, Singapore is focusing on advanced packaging, heterogeneous integration, silicon photonics, and optical interconnects, aiming to leverage nearly six decades' worth of manufacturing and su…",
       "original_title": "In global semiconductor race, Singapore bets on critical, mature technologies",
@@ -173,17 +211,17 @@
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
+        "半導體",
+        "CoWoS",
+        "先進製程"
       ],
       "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
       ],
       "related_models": [
         "003",
@@ -193,7 +231,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
+      "reason": "屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "8419ed66a74a90a6",
@@ -304,17 +342,55 @@
       "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "de7b372bb633b363",
+      "id": "56adb17da543d400",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "半導體先進製程",
-      "title": "Behind CoWoS (part 2): How TSMC turned a niche packaging experiment into an industry standard",
-      "summary": "As chip design enters the AI era, heterogeneous integration is driving foundry giants like TSMC, Samsung, and Intel to bring advanced front-end fab capabilities into back-end packaging. In the second part of his interview with DIGITIMES, Dr. Shin-Puu Jeng, ch…",
-      "original_title": "Behind CoWoS (part 2): How TSMC turned a niche packaging experiment into an industry standard",
-      "url": "https://www.digitimes.com/news/a20260924PD238/tsmc-packaging-cowos-design-silicon.html",
+      "title": "Beyond 16 layers: HBM stacks test advanced packaging equipment makers",
+      "summary": "At Singapore's Innovate Together 2026 conference on September 25, equipment makers including ASM, ASMPT, and KLA said the challenges facing next-generation advanced packaging are expanding beyond the performance of individual tools to hybrid bonding, interfac…",
+      "original_title": "Beyond 16 layers: HBM stacks test advanced packaging equipment makers",
+      "url": "https://www.digitimes.com/news/a20260929PD221/packaging-equipment-hbm-2026-materials.html",
       "source": "Digitimes",
       "domain": "digitimes.com",
-      "published_at": "2026-09-28T23:18:56Z",
+      "published_at": "2026-09-29T03:55:16Z",
+      "importance": 68,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "94d270a64f0de05f",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "SK Hynix tests HBM5 with TSMC as HBM4 enters Nvidia's next platform",
+      "summary": "SK Hynix has validated its HBM5 memory with TSMC's CoWoS packaging, the company said in a September 28 post on its corporate newsroom. That means work on the generation after next is already underway with the foundry, while its HBM4 is only now being built in…",
+      "original_title": "SK Hynix tests HBM5 with TSMC as HBM4 enters Nvidia's next platform",
+      "url": "https://www.digitimes.com/news/a20260929VL203/tsmc-sk-hynix-nvidia-hbm4-packaging.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-09-29T03:23:52Z",
       "importance": 68,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -711,6 +787,44 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "3e2800aad987abaf",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "(PR) AI Server Demand Sustains Memory Contract Price Increases in 4Q26, While Consumer-Side Pressure Persists",
+      "summary": "TrendForce's latest memory industry research reveals that DRAM suppliers continue to prioritize advanced-process capacity for high-performance server products in 4Q26, keeping the overall market undersupplied. However, the pace of contract price increases is …",
+      "original_title": "(PR) AI Server Demand Sustains Memory Contract Price Increases in 4Q26, While Consumer-Side Pressure Persists",
+      "url": "https://www.techpowerup.com/353292/ai-server-demand-sustains-memory-contract-price-increases-in-4q26-while-consumer-side-pressure-persists",
+      "source": "Techpowerup.com",
+      "domain": "techpowerup.com",
+      "published_at": "2026-10-01T09:44:50Z",
+      "importance": 60,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "f0cf26ba661523e4",
@@ -1420,117 +1534,6 @@
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "c095c129f1549655",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "Samsung Electronics says HBM to account for nearly 30% of industry DRAM capacity next year",
-      "summary": "SEOUL, Sept 29 : A Samsung Electronics executive said on Tuesday that high-bandwidth memory (HBM) is expected to account for nearly 30 per cent of Dynamic Random-Access Memory (DRAM) chipmakers' total wafer capacity next year, up from about 20 per cent curren…",
-      "original_title": "Samsung Electronics says HBM to account for nearly 30% of industry DRAM capacity next year",
-      "url": "https://www.channelnewsasia.com/business/samsung-electronics-says-hbm-account-nearly-30-industry-dram-capacity-next-year-6417091",
-      "source": "CNA",
-      "domain": "channelnewsasia.com",
-      "published_at": "2026-09-29T01:07:39Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "cd10b2eb524b3ac8",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "Gold falls amid rising oil prices and higher US dollar",
-      "summary": "Gold hits seven-week low; silver follows suit and records a nearly 5 percent loss.",
-      "original_title": "Gold falls amid rising oil prices and higher US dollar",
-      "url": "https://www.aljazeera.com/economy/2026/9/28/gold-falls-amid-rising-oil-prices-and-higher-us-dollar",
-      "source": "Al Jazeera English",
-      "domain": "aljazeera.com",
-      "published_at": "2026-09-28T21:34:51Z",
-      "importance": 55,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "9fdf0ef71ebac430",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "3 overlooked ways higher bond yields could be felt by everyday Americans",
-      "summary": "Mortgage rates aren't the only risk from high bond yields. They can squeeze apartment construction, utility investment, and public works.",
-      "original_title": "3 overlooked ways higher bond yields could be felt by everyday Americans",
-      "url": "https://www.businessinsider.com/how-higher-bond-yields-affect-electric-bills-apartment-rents-taxes-2026-9#article",
-      "source": "Business Insider",
-      "domain": "businessinsider.com",
-      "published_at": "2026-09-28T09:50:02Z",
-      "importance": 55,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "e16c28f8f7e82fbd",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1830,6 +1833,44 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "e503b30e8a478bcd",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "Zack Polanski to call for three-year cap on private rent rises",
+      "summary": "In his speech to his party's conference, the Green leader will frame housing as a key issue of generational fairness.",
+      "original_title": "Zack Polanski to call for three-year cap on private rent rises",
+      "url": "https://www.bbc.co.uk/news/articles/cq74e4jg9leno",
+      "source": "BBC News",
+      "domain": "bbc.co.uk",
+      "published_at": "2026-10-02T05:31:54Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "95860e9057af96b0",
@@ -2209,6 +2250,44 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "95d818f4a9a8ff45",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "11月9日に開催決定！物流業界のダボス会議「Logistics DX SUMMIT 2026 ～不確実性を突破するデータドリブンの意思決定～」参加登録を開始",
+      "summary": "[株式会社Shippio]\n[画像1: https://prcdn.freetls.fastly.net/release_image/25761/228/25761-228-bf347aa52460695bb42e811640f66eb8-2000x1123.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
+      "original_title": "11月9日に開催決定！物流業界のダボス会議「Logistics DX SUMMIT 2026 ～不確実性を突破するデータドリブンの意思決定～」参加登録を開始",
+      "url": "https://prtimes.jp/main/html/rd/p/000000228.000025761.html",
+      "source": "Prtimes.jp",
+      "domain": "prtimes.jp",
+      "published_at": "2026-09-30T06:30:00Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "d34a811fe9bf525f",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2396,6 +2475,44 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "48fd0cdc62504f2f",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "Who Makes GPUs Besides Nvidia And AMD?",
+      "summary": "The headline-dominating Nvidia is known the world over for its stake in AI and its GPUs. But besides AMD, who are the other players in the graphics card space?",
+      "original_title": "Who Makes GPUs Besides Nvidia And AMD?",
+      "url": "https://www.bgr.com/2268272/who-makes-gpus-besides-nvidia-amd/",
+      "source": "BGR",
+      "domain": "bgr.com",
+      "published_at": "2026-09-29T16:32:00Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "c6b8605bf4e5b236",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2510,108 +2627,29 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "eced5d3e0b7510db",
+      "id": "c095c129f1549655",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Diving into an Out-of-sync Galaxy",
-      "summary": "Galaxies are like snowflakes, no two exactly alike, even the spirals. The Hubble Space Telescope did a visual dive into the distant spiral NGC 4693 and found some intriguing hints to its past. For one thing, this member of the Virgo Cluster seems to have a ce…",
-      "original_title": "Diving into an Out-of-sync Galaxy",
-      "url": "https://www.universetoday.com/articles/diving-into-an-out-of-sync-galaxy",
-      "source": "Universe Today",
-      "domain": "universetoday.com",
-      "published_at": "2026-09-28T23:30:00Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "aa906e930bb25b06",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "Qualcomm confirms it wants to use Samsung's 2nm process",
-      "summary": "A couple of weeks or so ago, a rumor surfaced about Qualcomm still being in talks with Samsung about the latter's 2nm process node, and possibly using Samsung Foundry to make some of the recently launched Snapdragon 8 Elite Gen 6 chips. That has not panned ou…",
-      "original_title": "Qualcomm confirms it wants to use Samsung's 2nm process",
-      "url": "https://www.gsmarena.com/qualcomm_confirms_it_wants_to_use_samsungs_2nm_process-news-74797.php",
-      "source": "GSMArena.com",
-      "domain": "gsmarena.com",
-      "published_at": "2026-09-28T18:21:02Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "19fc0c62c87f70df",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "Singapore semiconductor industry commits over S$500m to R&D as global chip race intensifies",
-      "summary": "This exceeds the more than S$400 million spent on such efforts between 2020 and 2025, according to the Agency for Science, Technology and Research (A*STAR).",
-      "original_title": "Singapore semiconductor industry commits over S$500m to R&D as global chip race intensifies",
-      "url": "https://www.channelnewsasia.com/singapore/semiconductor-chips-industry-research-development-6410456",
+      "theme": "HBM記憶體",
+      "title": "Samsung Electronics says HBM to account for nearly 30% of industry DRAM capacity next year",
+      "summary": "SEOUL, Sept 29 : A Samsung Electronics executive said on Tuesday that high-bandwidth memory (HBM) is expected to account for nearly 30 per cent of Dynamic Random-Access Memory (DRAM) chipmakers' total wafer capacity next year, up from about 20 per cent curren…",
+      "original_title": "Samsung Electronics says HBM to account for nearly 30% of industry DRAM capacity next year",
+      "url": "https://www.channelnewsasia.com/business/samsung-electronics-says-hbm-account-nearly-30-industry-dram-capacity-next-year-6417091",
       "source": "CNA",
       "domain": "channelnewsasia.com",
-      "published_at": "2026-09-28T05:53:02Z",
+      "published_at": "2026-09-29T01:07:39Z",
       "importance": 50,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
+        "HBM",
+        "記憶體"
       ],
       "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
       ],
       "related_models": [
         "003",
@@ -2621,121 +2659,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "bfb1e2afc15d1495",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "Qualcomm is working with Samsung again on 2nm chips",
-      "summary": "After ditching Samsung back in 2022, Qualcomm is quietly warming up to its old manufacturing partner for future Snapdragon chips",
-      "original_title": "Qualcomm is working with Samsung again on 2nm chips",
-      "url": "https://www.intomobile.com/2026/09/28/qualcomm-is-working-with-samsung-again-on-2nm-chips/",
-      "source": "Intomobile.com",
-      "domain": "intomobile.com",
-      "published_at": "2026-09-28T19:00:55Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "37e123e2d9332ace",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "Synopsys Certifies A14 EDA Flows With TSMC and Tapes Out 64G UCIe on 2nm and 3nm, With PCIe 7.0 and HBM4 IP on N2P",
-      "summary": "Synopsys has certified its digital and analog EDA flows on TSMC’s A14 process and completed 64G UCIe IP tape-outs on TSMC’s 2nm and 3nm nodes, the two hard milestones in a broader set of joint work the companies announced around TSMC’s Open Innovation Platfor…",
-      "original_title": "Synopsys Certifies A14 EDA Flows With TSMC and Tapes Out 64G UCIe on 2nm and 3nm, With PCIe 7.0 and HBM4 IP on N2P",
-      "url": "https://www.storagereview.com/news/synopsys-tsmc-a14-certification-64g-ucie-tape-outs",
-      "source": "Storagereview.com",
-      "domain": "storagereview.com",
-      "published_at": "2026-09-28T15:40:05Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "ca317ed2a08e6e1a",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "Qualcomm Snapdragon 8 Elite Extreme Gen 6 vs. MediaTek Dimensity 9600 Pro: Two sides of the same coin",
-      "summary": "Qualcomm and MediaTek have unveiled their 2027 flagship chipsets, and there's a lot to like. Let's take a look at all the features available, and when you can start using phones powered by these platforms.",
-      "original_title": "Qualcomm Snapdragon 8 Elite Extreme Gen 6 vs. MediaTek Dimensity 9600 Pro: Two sides of the same coin",
-      "url": "https://www.androidcentral.com/phones/qualcomm/snapdragon-8-elite-extreme-gen-6-vs-mediatek-dimensity-9600-pro",
-      "source": "Android Central",
-      "domain": "androidcentral.com",
-      "published_at": "2026-09-28T04:24:26Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     }
   ]
 }
