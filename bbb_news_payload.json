@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-10-06T02:42:39.433568+00:00",
+  "generated_at": "2026-10-06T07:01:31.583512+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 71,
@@ -120,44 +120,6 @@
       "reason": "屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
-      "id": "283b1495beed8d3d",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "Advanced packaging race expands beyond chipmakers as display, materials, equipment suppliers chase new footholds",
-      "summary": "The race to commercialize advanced packaging is widening beyond traditional chipmakers and display panel makers. As fan-out panel-level packaging (FOPLP), through-glass via, and micro-LED optical communications move closer to mass production, semiconductor eq…",
-      "original_title": "Advanced packaging race expands beyond chipmakers as display, materials, equipment suppliers chase new footholds",
-      "url": "https://www.digitimes.com/news/a20261002PD208/packaging-equipment-materials-display-chipmakers.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-10-02T02:16:23Z",
-      "importance": 73,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
       "id": "97b541c3389b0396",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -232,6 +194,44 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
+      "id": "a0480ebed3c12d2f",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "AI server lines accelerate automation, boosting cobot demand",
+      "summary": "The AI server boom is spreading into the market for collaborative robots (cobots). The share of cobots on AI server production lines is rising as Wiwynn expands their use at its Mexico and Texas plants, while Quanta has also deployed robotic arms from Techman…",
+      "original_title": "AI server lines accelerate automation, boosting cobot demand",
+      "url": "https://www.digitimes.com/news/a20261005PD223/ai-server-automation-production-demand-mexico.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-10-05T03:58:31Z",
+      "importance": 68,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "8419ed66a74a90a6",
@@ -340,82 +340,6 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "56adb17da543d400",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "Beyond 16 layers: HBM stacks test advanced packaging equipment makers",
-      "summary": "At Singapore's Innovate Together 2026 conference on September 25, equipment makers including ASM, ASMPT, and KLA said the challenges facing next-generation advanced packaging are expanding beyond the performance of individual tools to hybrid bonding, interfac…",
-      "original_title": "Beyond 16 layers: HBM stacks test advanced packaging equipment makers",
-      "url": "https://www.digitimes.com/news/a20260929PD221/packaging-equipment-hbm-2026-materials.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-09-29T03:55:16Z",
-      "importance": 68,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "94d270a64f0de05f",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "SK Hynix tests HBM5 with TSMC as HBM4 enters Nvidia's next platform",
-      "summary": "SK Hynix has validated its HBM5 memory with TSMC's CoWoS packaging, the company said in a September 28 post on its corporate newsroom. That means work on the generation after next is already underway with the foundry, while its HBM4 is only now being built in…",
-      "original_title": "SK Hynix tests HBM5 with TSMC as HBM4 enters Nvidia's next platform",
-      "url": "https://www.digitimes.com/news/a20260929VL203/tsmc-sk-hynix-nvidia-hbm4-packaging.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-09-29T03:23:52Z",
-      "importance": 68,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "63a0c85b2355261c",
@@ -640,6 +564,120 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "70250d7bff444e5f",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "Advanced packaging shifts toward system integration as AI renews semiconductor talent appeal",
+      "summary": "At Singapore's Innovate Together 2026 conference on September 25, executives and researchers from A*STAR's Institute of Microelectronics (IME), KLA, ASM International, the National University of Singapore (NUS), the SHINE Centre, and ASMPT discussed how advan…",
+      "original_title": "Advanced packaging shifts toward system integration as AI renews semiconductor talent appeal",
+      "url": "https://www.digitimes.com/news/a20260929PD225/packaging-talent-2026-equipment-kla.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-09-29T03:59:54Z",
+      "importance": 63,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "56adb17da543d400",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "Beyond 16 layers: HBM stacks test advanced packaging equipment makers",
+      "summary": "At Singapore's Innovate Together 2026 conference on September 25, equipment makers including ASM, ASMPT, and KLA said the challenges facing next-generation advanced packaging are expanding beyond the performance of individual tools to hybrid bonding, interfac…",
+      "original_title": "Beyond 16 layers: HBM stacks test advanced packaging equipment makers",
+      "url": "https://www.digitimes.com/news/a20260929PD221/packaging-equipment-hbm-2026-materials.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-09-29T03:55:16Z",
+      "importance": 63,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "94d270a64f0de05f",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "SK Hynix tests HBM5 with TSMC as HBM4 enters Nvidia's next platform",
+      "summary": "SK Hynix has validated its HBM5 memory with TSMC's CoWoS packaging, the company said in a September 28 post on its corporate newsroom. That means work on the generation after next is already underway with the foundry, while its HBM4 is only now being built in…",
+      "original_title": "SK Hynix tests HBM5 with TSMC as HBM4 enters Nvidia's next platform",
+      "url": "https://www.digitimes.com/news/a20260929VL203/tsmc-sk-hynix-nvidia-hbm4-packaging.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-09-29T03:23:52Z",
+      "importance": 63,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "3c0fb48b97820fad",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -713,44 +751,6 @@
       "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "a5f55897df4b1d41",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "APOD: 2026 October 3 – Selfie at Vera Rubin Ridge",
-      "summary": "APOD Science APOD APOD: 2026 October 3 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featu…",
-      "original_title": "APOD: 2026 October 3 – Selfie at Vera Rubin Ridge",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-3-selfie-at-vera-rubin-ridge/",
-      "source": "NASA",
-      "domain": "science.nasa.gov",
-      "published_at": "2026-10-03T04:05:00Z",
-      "importance": 60,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "09150601c9002959",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -787,44 +787,6 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "3e2800aad987abaf",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "(PR) AI Server Demand Sustains Memory Contract Price Increases in 4Q26, While Consumer-Side Pressure Persists",
-      "summary": "TrendForce's latest memory industry research reveals that DRAM suppliers continue to prioritize advanced-process capacity for high-performance server products in 4Q26, keeping the overall market undersupplied. However, the pace of contract price increases is …",
-      "original_title": "(PR) AI Server Demand Sustains Memory Contract Price Increases in 4Q26, While Consumer-Side Pressure Persists",
-      "url": "https://www.techpowerup.com/353292/ai-server-demand-sustains-memory-contract-price-increases-in-4q26-while-consumer-side-pressure-persists",
-      "source": "Techpowerup.com",
-      "domain": "techpowerup.com",
-      "published_at": "2026-10-01T09:44:50Z",
-      "importance": 60,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "f0cf26ba661523e4",
@@ -897,32 +859,32 @@
       "reason": "屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "ac489256a9c625bf",
+      "id": "4c13fb274ee9e7f4",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Meta signs deal for Firmus AI computing capacity in Southeast Asia",
-      "summary": "Meta has signed deals to rent AI chips at data centers in Southeast Asia run by Firmus, an Australian company that builds them, the two companies announced. Meta has reserved a certain amount of capacity and can add more if needed. Also, the company plans to …",
-      "original_title": "Meta signs deal for Firmus AI computing capacity in Southeast Asia",
-      "url": "https://thenextweb.com/news/meta-signs-deal-for-firmus-ai-computing-capacity-in-southeast-asia",
-      "source": "The Next Web",
-      "domain": "thenextweb.com",
-      "published_at": "2026-09-29T06:57:55Z",
-      "importance": 60,
+      "theme": "光通訊與矽光子",
+      "title": "JEDEC 發表首個矽光子可靠度標準，加速 AI 與資料中心大規模應用",
+      "summary": "JEDEC 固態技術協會（JEDEC Solid State Technology Association）美東時間 2 日發表 JESD264《Silicon Photonics Qualification and Reliability Requirements》，為矽光子元件建立一致的資格認證...",
+      "original_title": "JEDEC 發表首個矽光子可靠度標準，加速 AI 與資料中心大規模應用",
+      "url": "https://technews.tw/2026/10/05/jesd264-silicon-photonics-qualification-and-reliability-requirements/",
+      "source": "Technews.tw",
+      "domain": "technews.tw",
+      "published_at": "2026-10-05T03:50:13Z",
+      "importance": 55,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
+        "光通訊",
+        "CPO",
+        "矽光子"
       ],
       "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
       ],
       "related_models": [
         "003",
@@ -932,45 +894,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "f84e101aeeeb6f37",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "Trump denies reports he offered Iran sanctions relief to end the war",
-      "summary": "Sept 29 (Reuters) - US President Donald Trump said he has offered Iran nothing to end the war, rejecting media reports that cited US officials saying he was willing to ease sanctions and release frozen funds for \"concrete\" steps regarding Iran's nuclear ‌prog…",
-      "original_title": "Trump denies reports he offered Iran sanctions relief to end the war",
-      "url": "https://uk.news.yahoo.com/trump-denies-offering-iran-sanctions-064453242.html",
-      "source": "Yahoo Entertainment",
-      "domain": "uk.news.yahoo.com",
-      "published_at": "2026-09-29T06:53:38Z",
-      "importance": 60,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "391bfdd9f10c73b9",
@@ -1082,6 +1006,44 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "a5f55897df4b1d41",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "APOD: 2026 October 3 – Selfie at Vera Rubin Ridge",
+      "summary": "APOD Science APOD APOD: 2026 October 3 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featu…",
+      "original_title": "APOD: 2026 October 3 – Selfie at Vera Rubin Ridge",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-3-selfie-at-vera-rubin-ridge/",
+      "source": "NASA",
+      "domain": "science.nasa.gov",
+      "published_at": "2026-10-03T04:05:00Z",
+      "importance": 55,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "9e91671017c0a727",
@@ -1532,6 +1494,82 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "ac489256a9c625bf",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Meta signs deal for Firmus AI computing capacity in Southeast Asia",
+      "summary": "Meta has signed deals to rent AI chips at data centers in Southeast Asia run by Firmus, an Australian company that builds them, the two companies announced. Meta has reserved a certain amount of capacity and can add more if needed. Also, the company plans to …",
+      "original_title": "Meta signs deal for Firmus AI computing capacity in Southeast Asia",
+      "url": "https://thenextweb.com/news/meta-signs-deal-for-firmus-ai-computing-capacity-in-southeast-asia",
+      "source": "The Next Web",
+      "domain": "thenextweb.com",
+      "published_at": "2026-09-29T06:57:55Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "f84e101aeeeb6f37",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "Trump denies reports he offered Iran sanctions relief to end the war",
+      "summary": "Sept 29 (Reuters) - US President Donald Trump said he has offered Iran nothing to end the war, rejecting media reports that cited US officials saying he was willing to ease sanctions and release frozen funds for \"concrete\" steps regarding Iran's nuclear ‌prog…",
+      "original_title": "Trump denies reports he offered Iran sanctions relief to end the war",
+      "url": "https://uk.news.yahoo.com/trump-denies-offering-iran-sanctions-064453242.html",
+      "source": "Yahoo Entertainment",
+      "domain": "uk.news.yahoo.com",
+      "published_at": "2026-09-29T06:53:38Z",
+      "importance": 55,
+      "impact": "negative",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "e16c28f8f7e82fbd",
@@ -2248,44 +2286,6 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "95d818f4a9a8ff45",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "11月9日に開催決定！物流業界のダボス会議「Logistics DX SUMMIT 2026 ～不確実性を突破するデータドリブンの意思決定～」参加登録を開始",
-      "summary": "[株式会社Shippio]\n[画像1: https://prcdn.freetls.fastly.net/release_image/25761/228/25761-228-bf347aa52460695bb42e811640f66eb8-2000x1123.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
-      "original_title": "11月9日に開催決定！物流業界のダボス会議「Logistics DX SUMMIT 2026 ～不確実性を突破するデータドリブンの意思決定～」参加登録を開始",
-      "url": "https://prtimes.jp/main/html/rd/p/000000228.000025761.html",
-      "source": "Prtimes.jp",
-      "domain": "prtimes.jp",
-      "published_at": "2026-09-30T06:30:00Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "d34a811fe9bf525f",

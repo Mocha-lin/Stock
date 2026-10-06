@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-06T02:42:39.433568+00:00
+> 更新時間：2026-10-06T07:01:31.583512+00:00
 
 ### 🚀 GlobalFoundries Singapore capacity utilization tops 90% as silicon photonics expansion hits equipment lead-time bottleneck
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -28,15 +28,6 @@
 
 ---
 
-### ⚖️ Advanced packaging race expands beyond chipmakers as display, materials, equipment suppliers chase new footholds
-- **題材**: `半導體先進製程` | **重要性**: `73`
-- **來源**: Digitimes (2026-10-02T02:16:23Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: The race to commercialize advanced packaging is widening beyond traditional chipmakers and display panel makers. As fan-out panel-level packaging (FOPLP), through-glass via, and micro-LED optical communications move closer to mass production, semiconductor eq…
-- [原文連結](https://www.digitimes.com/news/a20261002PD208/packaging-equipment-materials-display-chipmakers.html)
-
----
-
 ### 🚀 DIGITIMES Insight: AI scaling is moving from chip shrinkage to system integration
 - **題材**: `半導體先進製程` | **重要性**: `73`
 - **來源**: Digitimes (2026-10-01T01:35:57Z)
@@ -52,6 +43,15 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Amid the ongoing restructuring of the global semiconductor supply chain, Singapore is focusing on advanced packaging, heterogeneous integration, silicon photonics, and optical interconnects, aiming to leverage nearly six decades' worth of manufacturing and su…
 - [原文連結](https://www.digitimes.com/news/a20260929PD244/packaging-manufacturing-equipment-supply-chain-materials.html)
+
+---
+
+### ⚖️ AI server lines accelerate automation, boosting cobot demand
+- **題材**: `AI伺服器` | **重要性**: `68`
+- **來源**: Digitimes (2026-10-05T03:58:31Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: The AI server boom is spreading into the market for collaborative robots (cobots). The share of cobots on AI server production lines is rising as Wiwynn expands their use at its Mexico and Texas plants, while Quanta has also deployed robotic arms from Techman…
+- [原文連結](https://www.digitimes.com/news/a20261005PD223/ai-server-automation-production-demand-mexico.html)
 
 ---
 
@@ -79,24 +79,6 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Micron Technology has sharply raised 2027 prices for high-bandwidth memory (HBM), the stacked DRAM packaged with AI accelerators. The increase comes after a year in which fixed contract prices left HBM largely outside the memory price surge.
 - [原文連結](https://www.digitimes.com/news/a20261001VL206/micron-hbm-2027-dram-growth.html)
-
----
-
-### ⚖️ Beyond 16 layers: HBM stacks test advanced packaging equipment makers
-- **題材**: `半導體先進製程` | **重要性**: `68`
-- **來源**: Digitimes (2026-09-29T03:55:16Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: At Singapore's Innovate Together 2026 conference on September 25, equipment makers including ASM, ASMPT, and KLA said the challenges facing next-generation advanced packaging are expanding beyond the performance of individual tools to hybrid bonding, interfac…
-- [原文連結](https://www.digitimes.com/news/a20260929PD221/packaging-equipment-hbm-2026-materials.html)
-
----
-
-### ⚖️ SK Hynix tests HBM5 with TSMC as HBM4 enters Nvidia's next platform
-- **題材**: `半導體先進製程` | **重要性**: `68`
-- **來源**: Digitimes (2026-09-29T03:23:52Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: SK Hynix has validated its HBM5 memory with TSMC's CoWoS packaging, the company said in a September 28 post on its corporate newsroom. That means work on the generation after next is already underway with the foundry, while its HBM4 is only now being built in…
-- [原文連結](https://www.digitimes.com/news/a20260929VL203/tsmc-sk-hynix-nvidia-hbm4-packaging.html)
 
 ---
 
@@ -155,6 +137,33 @@ The post Celestica poised for growth as Google and OpenAI push data center deman
 
 ---
 
+### ⚖️ Advanced packaging shifts toward system integration as AI renews semiconductor talent appeal
+- **題材**: `半導體先進製程` | **重要性**: `63`
+- **來源**: Digitimes (2026-09-29T03:59:54Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: At Singapore's Innovate Together 2026 conference on September 25, executives and researchers from A*STAR's Institute of Microelectronics (IME), KLA, ASM International, the National University of Singapore (NUS), the SHINE Centre, and ASMPT discussed how advan…
+- [原文連結](https://www.digitimes.com/news/a20260929PD225/packaging-talent-2026-equipment-kla.html)
+
+---
+
+### ⚖️ Beyond 16 layers: HBM stacks test advanced packaging equipment makers
+- **題材**: `半導體先進製程` | **重要性**: `63`
+- **來源**: Digitimes (2026-09-29T03:55:16Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: At Singapore's Innovate Together 2026 conference on September 25, equipment makers including ASM, ASMPT, and KLA said the challenges facing next-generation advanced packaging are expanding beyond the performance of individual tools to hybrid bonding, interfac…
+- [原文連結](https://www.digitimes.com/news/a20260929PD221/packaging-equipment-hbm-2026-materials.html)
+
+---
+
+### ⚖️ SK Hynix tests HBM5 with TSMC as HBM4 enters Nvidia's next platform
+- **題材**: `半導體先進製程` | **重要性**: `63`
+- **來源**: Digitimes (2026-09-29T03:23:52Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: SK Hynix has validated its HBM5 memory with TSMC's CoWoS packaging, the company said in a September 28 post on its corporate newsroom. That means work on the generation after next is already underway with the foundry, while its HBM4 is only now being built in…
+- [原文連結](https://www.digitimes.com/news/a20260929VL203/tsmc-sk-hynix-nvidia-hbm4-packaging.html)
+
+---
+
 ### ⚖️ AI agents use 5x more tokens than humans as cached prompts explode, headed for 10x
 - **題材**: `HBM記憶體` | **重要性**: `62`
 - **來源**: Tom's Hardware UK (2026-10-03T13:10:00Z)
@@ -170,15 +179,6 @@ The post Celestica poised for growth as Google and OpenAI push data center deman
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: A 10-second cafeteria video got her signed by Rick Rubin. Then she walked away, went independent and built something better.
 - [原文連結](https://relevantmagazine.com/magazine/we-stand-a-lot-taller-when-were-standing-on-the-rock-madison-ryann-ward-is-doing-music-her-way/)
-
----
-
-### 🚀 APOD: 2026 October 3 – Selfie at Vera Rubin Ridge
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: NASA (2026-10-03T04:05:00Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: APOD Science APOD APOD: 2026 October 3 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featu…
-- [原文連結](https://science.nasa.gov/image-article/apod-2026-october-3-selfie-at-vera-rubin-ridge/)
 
 ---
 
