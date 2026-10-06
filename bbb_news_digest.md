@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-06T18:39:56.898160+00:00
+> 更新時間：2026-10-06T22:49:14.028535+00:00
 
 ### ⚖️ Largan Precision sees steady smartphone lens demand as CPO fibre arrays near production
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
