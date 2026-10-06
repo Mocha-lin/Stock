@@ -1,5 +1,14 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-06T07:01:31.583512+00:00
+> 更新時間：2026-10-06T15:42:46.164226+00:00
+
+### ⚖️ Largan Precision sees steady smartphone lens demand as CPO fibre arrays near production
+- **題材**: `光通訊與矽光子` | **重要性**: `78`
+- **來源**: Digitimes (2026-10-05T10:08:21Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Largan Precision reported September consolidated revenue of NT$5.78 billion (US$181.99 million), up 15% from August but down 7% from a year earlier. Third-quarter revenue rose 15% sequentially to NT$15.65 billion.
+- [原文連結](https://www.digitimes.com/news/a20261005PD243/largan-precision-revenue-smartphone-demand-production.html)
+
+---
 
 ### 🚀 GlobalFoundries Singapore capacity utilization tops 90% as silicon photonics expansion hits equipment lead-time bottleneck
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -37,15 +46,6 @@
 
 ---
 
-### ⚖️ In global semiconductor race, Singapore bets on critical, mature technologies
-- **題材**: `半導體先進製程` | **重要性**: `73`
-- **來源**: Digitimes (2026-09-29T08:57:39Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Amid the ongoing restructuring of the global semiconductor supply chain, Singapore is focusing on advanced packaging, heterogeneous integration, silicon photonics, and optical interconnects, aiming to leverage nearly six decades' worth of manufacturing and su…
-- [原文連結](https://www.digitimes.com/news/a20260929PD244/packaging-manufacturing-equipment-supply-chain-materials.html)
-
----
-
 ### ⚖️ AI server lines accelerate automation, boosting cobot demand
 - **題材**: `AI伺服器` | **重要性**: `68`
 - **來源**: Digitimes (2026-10-05T03:58:31Z)
@@ -64,15 +64,6 @@
 
 ---
 
-### ⚖️ Micron eyes NVHBM profits with TSMC custom HBM push
-- **題材**: `HBM記憶體` | **重要性**: `68`
-- **來源**: Digitimes (2026-10-02T02:42:07Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Micron is using an externally manufactured base die in NVHBM, a custom high-bandwidth memory (HBM) product it is co-developing with Nvidia, as the company bets that customization can unlock added value even when manufacturing is outsourced. The move underscor…
-- [原文連結](https://www.digitimes.com/news/a20261002PD216/micron-hbm-dram-bandwidth-design.html)
-
----
-
 ### 🚀 Micron hikes 2027 HBM prices after missing 2026 memory surge on fixed contracts
 - **題材**: `HBM記憶體` | **重要性**: `68`
 - **來源**: Digitimes (2026-10-01T02:56:21Z)
@@ -82,12 +73,12 @@
 
 ---
 
-### ⚠️ Memory shortages set to persist into 2028, warns Micron CEO
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: Eurogamer.net (2026-10-03T10:34:13Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Micron has warned that global RAM shortages show no sign of easing, telling investors on its earnings call that it has already sold most of next year's production. Read more
-- [原文連結](https://www.eurogamer.net/micron-ram-shortage-2028-earnings-ai-demand)
+### ⚖️ In global semiconductor race, Singapore bets on critical, mature technologies
+- **題材**: `半導體先進製程` | **重要性**: `68`
+- **來源**: Digitimes (2026-09-29T08:57:39Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Amid the ongoing restructuring of the global semiconductor supply chain, Singapore is focusing on advanced packaging, heterogeneous integration, silicon photonics, and optical interconnects, aiming to leverage nearly six decades' worth of manufacturing and su…
+- [原文連結](https://www.digitimes.com/news/a20260929PD244/packaging-manufacturing-equipment-supply-chain-materials.html)
 
 ---
 
@@ -128,15 +119,6 @@ The post Celestica poised for growth as Google and OpenAI push data center deman
 
 ---
 
-### ⚖️ RoboTechnik completes Hong Kong listing to fund ficonTEC expansion in silicon photonics
-- **題材**: `光通訊與矽光子` | **重要性**: `63`
-- **來源**: Digitimes (2026-09-29T07:38:58Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: RoboTechnik completed a Hong Kong listing on September 29 and began trading on the Hong Kong stock exchange, according to its German photonics automation subsidiary ficonTEC. The new capital will be used for further investment in ficonTEC, which is expanding …
-- [原文連結](https://www.digitimes.com/news/a20260929PD241/photonics-silicon-automation-production-manufacturing.html)
-
----
-
 ### ⚖️ Advanced packaging shifts toward system integration as AI renews semiconductor talent appeal
 - **題材**: `半導體先進製程` | **重要性**: `63`
 - **來源**: Digitimes (2026-09-29T03:59:54Z)
@@ -164,12 +146,12 @@ The post Celestica poised for growth as Google and OpenAI push data center deman
 
 ---
 
-### ⚖️ AI agents use 5x more tokens than humans as cached prompts explode, headed for 10x
-- **題材**: `HBM記憶體` | **重要性**: `62`
-- **來源**: Tom's Hardware UK (2026-10-03T13:10:00Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Daniel Newman’s number comes from OpenRouter data, where agents passed humans in February and grew 14x by August.
-- [原文連結](https://www.tomshardware.com/tech-industry/artificial-intelligence/futurum-ceo-says-agents-use-ai-5x-more-than-humans-number-will-eventually-hit-10x-but-agents-are-mostly-rereading-what-theyve-already-seen)
+### 🚀 Is Iran charging a toll to allow oil traffic through Hormuz?
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Al Jazeera English (2026-10-05T13:11:42Z)
+- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Crude exports bypassing Hormuz surged in September, yet oil prices remain high. Could a secret fee be the reason?
+- [原文連結](https://www.aljazeera.com/news/2026/10/5/is-iran-charging-a-toll-to-allow-oil-traffic-through-hormuz)
 
 ---
 
@@ -179,6 +161,24 @@ The post Celestica poised for growth as Google and OpenAI push data center deman
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: A 10-second cafeteria video got her signed by Rick Rubin. Then she walked away, went independent and built something better.
 - [原文連結](https://relevantmagazine.com/magazine/we-stand-a-lot-taller-when-were-standing-on-the-rock-madison-ryann-ward-is-doing-music-her-way/)
+
+---
+
+### ⚠️ Memory shortages set to persist into 2028, warns Micron CEO
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: Eurogamer.net (2026-10-03T10:34:13Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Micron has warned that global RAM shortages show no sign of easing, telling investors on its earnings call that it has already sold most of next year's production. Read more
+- [原文連結](https://www.eurogamer.net/micron-ram-shortage-2028-earnings-ai-demand)
+
+---
+
+### 🚀 Higher oil prices are just 1 way the Iran war is weighing on the U.S. economy
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-10-02T10:00:00Z)
+- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: US bond yields have surged upward over the past month, as yields on both the 10-year Treasury (^TNX) and 30-year Treasury (^TYX) have reached levels not seen since 2002, surpassing 2007 high-water marks in the lead-up to the financial crisis.Investors have at…
+- [原文連結](https://finance.yahoo.com/markets/article/the-iran-war-is-driving-inflation-higher--and-its-not-just-because-of-oil-100000797.html)
 
 ---
 

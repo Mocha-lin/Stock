@@ -1,10 +1,48 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-10-06T07:01:31.583512+00:00",
+  "generated_at": "2026-10-06T15:42:46.164226+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
-  "total_count": 71,
+  "total_count": 72,
   "items": [
+    {
+      "id": "16948fe14be4c390",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "Largan Precision sees steady smartphone lens demand as CPO fibre arrays near production",
+      "summary": "Largan Precision reported September consolidated revenue of NT$5.78 billion (US$181.99 million), up 15% from August but down 7% from a year earlier. Third-quarter revenue rose 15% sequentially to NT$15.65 billion.",
+      "original_title": "Largan Precision sees steady smartphone lens demand as CPO fibre arrays near production",
+      "url": "https://www.digitimes.com/news/a20261005PD243/largan-precision-revenue-smartphone-demand-production.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-10-05T10:08:21Z",
+      "importance": 78,
+      "impact": "neutral",
+      "timeframe": "short_to_mid_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
     {
       "id": "623089ff4a4a74e5",
       "dataset": "market_news",
@@ -158,44 +196,6 @@
       "reason": "屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
-      "id": "19f89b3f0ab289fb",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "In global semiconductor race, Singapore bets on critical, mature technologies",
-      "summary": "Amid the ongoing restructuring of the global semiconductor supply chain, Singapore is focusing on advanced packaging, heterogeneous integration, silicon photonics, and optical interconnects, aiming to leverage nearly six decades' worth of manufacturing and su…",
-      "original_title": "In global semiconductor race, Singapore bets on critical, mature technologies",
-      "url": "https://www.digitimes.com/news/a20260929PD244/packaging-manufacturing-equipment-supply-chain-materials.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-09-29T08:57:39Z",
-      "importance": 73,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
       "id": "a0480ebed3c12d2f",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -272,41 +272,6 @@
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "f6774eba54f2df05",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "Micron eyes NVHBM profits with TSMC custom HBM push",
-      "summary": "Micron is using an externally manufactured base die in NVHBM, a custom high-bandwidth memory (HBM) product it is co-developing with Nvidia, as the company bets that customization can unlock added value even when manufacturing is outsourced. The move underscor…",
-      "original_title": "Micron eyes NVHBM profits with TSMC custom HBM push",
-      "url": "https://www.digitimes.com/news/a20261002PD216/micron-hbm-dram-bandwidth-design.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-10-02T02:42:07Z",
-      "importance": 68,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "a09e7917527c94a1",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -342,29 +307,32 @@
       "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "63a0c85b2355261c",
+      "id": "19f89b3f0ab289fb",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "Memory shortages set to persist into 2028, warns Micron CEO",
-      "summary": "Micron has warned that global RAM shortages show no sign of easing, telling investors on its earnings call that it has already sold most of next year's production. Read more",
-      "original_title": "Memory shortages set to persist into 2028, warns Micron CEO",
-      "url": "https://www.eurogamer.net/micron-ram-shortage-2028-earnings-ai-demand",
-      "source": "Eurogamer.net",
-      "domain": "eurogamer.net",
-      "published_at": "2026-10-03T10:34:13Z",
-      "importance": 65,
-      "impact": "negative",
+      "theme": "半導體先進製程",
+      "title": "In global semiconductor race, Singapore bets on critical, mature technologies",
+      "summary": "Amid the ongoing restructuring of the global semiconductor supply chain, Singapore is focusing on advanced packaging, heterogeneous integration, silicon photonics, and optical interconnects, aiming to leverage nearly six decades' worth of manufacturing and su…",
+      "original_title": "In global semiconductor race, Singapore bets on critical, mature technologies",
+      "url": "https://www.digitimes.com/news/a20260929PD244/packaging-manufacturing-equipment-supply-chain-materials.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-09-29T08:57:39Z",
+      "importance": 68,
+      "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "HBM",
-        "記憶體"
+        "半導體",
+        "CoWoS",
+        "先進製程"
       ],
       "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
       ],
       "related_models": [
         "003",
@@ -374,7 +342,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "a436059b58bb4744",
@@ -526,44 +494,6 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "0a8507b6fcf5a6ba",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "RoboTechnik completes Hong Kong listing to fund ficonTEC expansion in silicon photonics",
-      "summary": "RoboTechnik completed a Hong Kong listing on September 29 and began trading on the Hong Kong stock exchange, according to its German photonics automation subsidiary ficonTEC. The new capital will be used for further investment in ficonTEC, which is expanding …",
-      "original_title": "RoboTechnik completes Hong Kong listing to fund ficonTEC expansion in silicon photonics",
-      "url": "https://www.digitimes.com/news/a20260929PD241/photonics-silicon-automation-production-manufacturing.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-09-29T07:38:58Z",
-      "importance": 63,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "70250d7bff444e5f",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -678,29 +608,32 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "3c0fb48b97820fad",
+      "id": "b2e192e81caf853c",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "AI agents use 5x more tokens than humans as cached prompts explode, headed for 10x",
-      "summary": "Daniel Newman’s number comes from OpenRouter data, where agents passed humans in February and grew 14x by August.",
-      "original_title": "AI agents use 5x more tokens than humans as cached prompts explode, headed for 10x",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/futurum-ceo-says-agents-use-ai-5x-more-than-humans-number-will-eventually-hit-10x-but-agents-are-mostly-rereading-what-theyve-already-seen",
-      "source": "Tom's Hardware UK",
-      "domain": "tomshardware.com",
-      "published_at": "2026-10-03T13:10:00Z",
-      "importance": 62,
-      "impact": "neutral",
+      "theme": "總體風險",
+      "title": "Is Iran charging a toll to allow oil traffic through Hormuz?",
+      "summary": "Crude exports bypassing Hormuz surged in September, yet oil prices remain high. Could a secret fee be the reason?",
+      "original_title": "Is Iran charging a toll to allow oil traffic through Hormuz?",
+      "url": "https://www.aljazeera.com/news/2026/10/5/is-iran-charging-a-toll-to-allow-oil-traffic-through-hormuz",
+      "source": "Al Jazeera English",
+      "domain": "aljazeera.com",
+      "published_at": "2026-10-05T13:11:42Z",
+      "importance": 60,
+      "impact": "positive",
       "timeframe": "short_term",
       "tags": [
-        "HBM",
-        "記憶體"
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
       ],
       "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
       ],
       "related_models": [
         "003",
@@ -710,7 +643,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "b042ed2c287c90b1",
@@ -749,6 +682,41 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "63a0c85b2355261c",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "Memory shortages set to persist into 2028, warns Micron CEO",
+      "summary": "Micron has warned that global RAM shortages show no sign of easing, telling investors on its earnings call that it has already sold most of next year's production. Read more",
+      "original_title": "Memory shortages set to persist into 2028, warns Micron CEO",
+      "url": "https://www.eurogamer.net/micron-ram-shortage-2028-earnings-ai-demand",
+      "source": "Eurogamer.net",
+      "domain": "eurogamer.net",
+      "published_at": "2026-10-03T10:34:13Z",
+      "importance": 60,
+      "impact": "negative",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "09150601c9002959",
@@ -857,6 +825,152 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "0a8507b6fcf5a6ba",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "RoboTechnik completes Hong Kong listing to fund ficonTEC expansion in silicon photonics",
+      "summary": "RoboTechnik completed a Hong Kong listing on September 29 and began trading on the Hong Kong stock exchange, according to its German photonics automation subsidiary ficonTEC. The new capital will be used for further investment in ficonTEC, which is expanding …",
+      "original_title": "RoboTechnik completes Hong Kong listing to fund ficonTEC expansion in silicon photonics",
+      "url": "https://www.digitimes.com/news/a20260929PD241/photonics-silicon-automation-production-manufacturing.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-09-29T07:38:58Z",
+      "importance": 58,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "3c0fb48b97820fad",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "AI agents use 5x more tokens than humans as cached prompts explode, headed for 10x",
+      "summary": "Daniel Newman’s number comes from OpenRouter data, where agents passed humans in February and grew 14x by August.",
+      "original_title": "AI agents use 5x more tokens than humans as cached prompts explode, headed for 10x",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/futurum-ceo-says-agents-use-ai-5x-more-than-humans-number-will-eventually-hit-10x-but-agents-are-mostly-rereading-what-theyve-already-seen",
+      "source": "Tom's Hardware UK",
+      "domain": "tomshardware.com",
+      "published_at": "2026-10-03T13:10:00Z",
+      "importance": 57,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "5aa61e6490c36a4f",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "OpenAI’s chip chief tells More Than Moore he doesn’t fully trust AI design",
+      "summary": "OpenAI’s own AI models changed parts of its Jalapeño chip, and its engineers could not always say why. In one example, they saved more than 13% of die area, Richard Ho told Ian Cutress of More Than Moore. Ho leads OpenAI’s hardware team, and the interview was…",
+      "original_title": "OpenAI’s chip chief tells More Than Moore he doesn’t fully trust AI design",
+      "url": "https://thenextweb.com/news/openai-jalapeno-chip-richard-ho-ai-design",
+      "source": "The Next Web",
+      "domain": "thenextweb.com",
+      "published_at": "2026-10-05T14:17:02Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "a3136e978eb08905",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "The ‘Double Fill Up’ Is the Latest Hack Americans Are Using to Save Cash at the Gas Pump",
+      "summary": "With paychecks trailing inflation, consumers are getting creative about saving at the pump and the grocery store.",
+      "original_title": "The ‘Double Fill Up’ Is the Latest Hack Americans Are Using to Save Cash at the Gas Pump",
+      "url": "https://www.entrepreneur.com/business-news/the-double-fill-up-is-the-latest-hack-americans-are-using-to-save-cash-at-the-gas-pump",
+      "source": "Entrepreneur",
+      "domain": "entrepreneur.com",
+      "published_at": "2026-10-05T14:00:00Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "4c13fb274ee9e7f4",
@@ -971,41 +1085,6 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "e0b7a430a9e0f294",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "Words to live by?",
-      "summary": "In the past year American markets have digested the largest-ever initial public offering (SpaceX), equity raise by a public company (Google) or a foreign firm (SK Hynix), private-funding round (OpenAI) and private-debt deal (Broadcom), as well as most of the …",
-      "original_title": "Words to live by?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/words-to-live-by-2.html",
-      "source": "Marginalrevolution.com",
-      "domain": "marginalrevolution.com",
-      "published_at": "2026-10-03T07:15:58Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "a5f55897df4b1d41",
@@ -1458,44 +1537,6 @@
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "efc5f787a78eccb3",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "Rayon raises €10M to bring AI and 3D to its interior design software",
-      "summary": "Rayon, the Paris-based startup that has created software allowing interior designers to draw floor plans in a web browser, announced that it has raised 10 million euros in its Series A financing round, with Partech as the lead investor. Northzone, Foundamenta…",
-      "original_title": "Rayon raises €10M to bring AI and 3D to its interior design software",
-      "url": "https://thenextweb.com/news/rayon-10m-series-a-partech-interior-design-ai",
-      "source": "The Next Web",
-      "domain": "thenextweb.com",
-      "published_at": "2026-09-29T10:30:37Z",
-      "importance": 55,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "ac489256a9c625bf",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1570,6 +1611,41 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "e0b7a430a9e0f294",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "Words to live by?",
+      "summary": "In the past year American markets have digested the largest-ever initial public offering (SpaceX), equity raise by a public company (Google) or a foreign firm (SK Hynix), private-funding round (OpenAI) and private-debt deal (Broadcom), as well as most of the …",
+      "original_title": "Words to live by?",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/words-to-live-by-2.html",
+      "source": "Marginalrevolution.com",
+      "domain": "marginalrevolution.com",
+      "published_at": "2026-10-03T07:15:58Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "e16c28f8f7e82fbd",
@@ -1873,44 +1949,6 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "e503b30e8a478bcd",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "Zack Polanski to call for three-year cap on private rent rises",
-      "summary": "In his speech to his party's conference, the Green leader will frame housing as a key issue of generational fairness.",
-      "original_title": "Zack Polanski to call for three-year cap on private rent rises",
-      "url": "https://www.bbc.co.uk/news/articles/cq74e4jg9leno",
-      "source": "BBC News",
-      "domain": "bbc.co.uk",
-      "published_at": "2026-10-02T05:31:54Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "95860e9057af96b0",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1922,44 +1960,6 @@
       "source": "Cbinsights.com",
       "domain": "cbinsights.com",
       "published_at": "2026-10-01T19:39:14Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "c9330c342f3d86d3",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "Applied Optoelectronics Is Up 205% This Year. Is It Too Late to Buy AAOI Stock Now?",
-      "summary": "The post Applied Optoelectronics Is Up 205% This Year. Is It Too Late to Buy AAOI Stock Now? appeared first on 24/7 Wall St..\nFew hardware names have kept pace with Applied Optoelectronics (NASDAQ:AAOI) stock this year. Shares of the optical transceiver maker…",
-      "original_title": "Applied Optoelectronics Is Up 205% This Year. Is It Too Late to Buy AAOI Stock Now?",
-      "url": "https://biztoc.com/x/cba74bdabf828001",
-      "source": "Biztoc.com",
-      "domain": "biztoc.com",
-      "published_at": "2026-10-01T19:03:03Z",
       "importance": 50,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -2513,19 +2513,19 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "c6b8605bf4e5b236",
+      "id": "efc5f787a78eccb3",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "光通訊與矽光子",
-      "title": "Creator Business Motion Society Hires Ex-Spotify, Meta & Fullscreen Exec Chanel Simmons To Lead U.S. Operation",
-      "summary": "EXCLUSIVE: Creator economy business Motion Society has named former Spotify, Meta and Fullscreen exec Chanel Simmons as its new U.S. boss. She will become Managing Director, U.S., at the company, which works with around 650 creators and distributes more than …",
-      "original_title": "Creator Business Motion Society Hires Ex-Spotify, Meta & Fullscreen Exec Chanel Simmons To Lead U.S. Operation",
-      "url": "http://deadline.com/2026/09/motion-society-hires-ex-spotify-meta-fullscreen-exec-1237115983/",
-      "source": "Deadline",
-      "domain": "deadline.com",
-      "published_at": "2026-09-29T15:00:00Z",
+      "title": "Rayon raises €10M to bring AI and 3D to its interior design software",
+      "summary": "Rayon, the Paris-based startup that has created software allowing interior designers to draw floor plans in a web browser, announced that it has raised 10 million euros in its Series A financing round, with Partech as the lead investor. Northzone, Foundamenta…",
+      "original_title": "Rayon raises €10M to bring AI and 3D to its interior design software",
+      "url": "https://thenextweb.com/news/rayon-10m-series-a-partech-interior-design-ai",
+      "source": "The Next Web",
+      "domain": "thenextweb.com",
+      "published_at": "2026-09-29T10:30:37Z",
       "importance": 50,
-      "impact": "neutral",
+      "impact": "positive",
       "timeframe": "short_term",
       "tags": [
         "光通訊",
@@ -2548,83 +2548,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "3f6a16270ac676a3",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "Meta gives small businesses an AI agent that knows their work",
-      "summary": "Meta has introduced Muse for Small Business, adding skills and connectors to its personal AI agent to help business owners get work done using the tools they already use. Muse launched earlier this month in the US and Canada and can complete tasks on a user’s…",
-      "original_title": "Meta gives small businesses an AI agent that knows their work",
-      "url": "https://www.helpnetsecurity.com/2026/09/29/meta-muse-for-small-business/",
-      "source": "Help Net Security",
-      "domain": "helpnetsecurity.com",
-      "published_at": "2026-09-29T12:45:45Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "6f61ef610f4635bf",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Trump weakens fuel efficiency standards. And, Cornell fraternity rape case reopened",
-      "summary": "The Trump administration has weakened fuel efficiency standards for new cars. And, prosecutors have reopened a Cornell University fraternity rape case.",
-      "original_title": "Trump weakens fuel efficiency standards. And, Cornell fraternity rape case reopened",
-      "url": "https://www.npr.org/2026/09/29/g-s1-145422/up-first-newsletter-fuel-efficiency-standards-cornell-rape-case-terror-suspects",
-      "source": "NPR",
-      "domain": "npr.org",
-      "published_at": "2026-09-29T11:36:24Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "c095c129f1549655",
@@ -2660,6 +2584,120 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "c6b8605bf4e5b236",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "Creator Business Motion Society Hires Ex-Spotify, Meta & Fullscreen Exec Chanel Simmons To Lead U.S. Operation",
+      "summary": "EXCLUSIVE: Creator economy business Motion Society has named former Spotify, Meta and Fullscreen exec Chanel Simmons as its new U.S. boss. She will become Managing Director, U.S., at the company, which works with around 650 creators and distributes more than …",
+      "original_title": "Creator Business Motion Society Hires Ex-Spotify, Meta & Fullscreen Exec Chanel Simmons To Lead U.S. Operation",
+      "url": "http://deadline.com/2026/09/motion-society-hires-ex-spotify-meta-fullscreen-exec-1237115983/",
+      "source": "Deadline",
+      "domain": "deadline.com",
+      "published_at": "2026-09-29T15:00:00Z",
+      "importance": 45,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
+    },
+    {
+      "id": "3f6a16270ac676a3",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "Meta gives small businesses an AI agent that knows their work",
+      "summary": "Meta has introduced Muse for Small Business, adding skills and connectors to its personal AI agent to help business owners get work done using the tools they already use. Muse launched earlier this month in the US and Canada and can complete tasks on a user’s…",
+      "original_title": "Meta gives small businesses an AI agent that knows their work",
+      "url": "https://www.helpnetsecurity.com/2026/09/29/meta-muse-for-small-business/",
+      "source": "Help Net Security",
+      "domain": "helpnetsecurity.com",
+      "published_at": "2026-09-29T12:45:45Z",
+      "importance": 45,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
+    },
+    {
+      "id": "6f61ef610f4635bf",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Trump weakens fuel efficiency standards. And, Cornell fraternity rape case reopened",
+      "summary": "The Trump administration has weakened fuel efficiency standards for new cars. And, prosecutors have reopened a Cornell University fraternity rape case.",
+      "original_title": "Trump weakens fuel efficiency standards. And, Cornell fraternity rape case reopened",
+      "url": "https://www.npr.org/2026/09/29/g-s1-145422/up-first-newsletter-fuel-efficiency-standards-cornell-rape-case-terror-suspects",
+      "source": "NPR",
+      "domain": "npr.org",
+      "published_at": "2026-09-29T11:36:24Z",
+      "importance": 45,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     }
   ]
 }
