@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-07T02:08:33.193201+00:00
+> 更新時間：2026-10-07T06:42:20.413768+00:00
 
 ### ⚖️ Largan Precision sees steady smartphone lens demand as CPO fibre arrays near production
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -16,6 +16,33 @@
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Taiwanese suppliers currently control approximately 90% of the global AI server market. However, a recent survey by Taiwan's Ministry of Economic Affairs showed that the proportion of export orders produced overseas rose in August 2026, a clear reflection of …
 - [原文連結](https://www.digitimes.com/news/a20261005PD221/taiwan-production-exports-ai-server-growth.html)
+
+---
+
+### 🚀 3.2T optical upgrade triggers PCB redesign, shrinking supplier pool to 3
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-10-06T04:15:35Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: As AI computing clusters continue to expand, performance requirements for scale-out interconnects between racks are rising rapidly. This is pushing traditional pluggable optical transceivers from 800G to 1.6T and accelerating the transition toward future 3.2T…
+- [原文連結](https://www.digitimes.com/news/a20261006PD217/pcb-supplier-manufacturing-performance-hpc.html)
+
+---
+
+### ⚖️ Samsung steps up HBM cooling as TSMC expands CoWoS
+- **題材**: `半導體先進製程` | **重要性**: `73`
+- **來源**: Digitimes (2026-10-06T04:15:08Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Samsung Electronics is expanding its thermal-management efforts for high-bandwidth memory (HBM) beyond the memory stack as increasingly large chip packages raise heat-management challenges.
+- [原文連結](https://www.digitimes.com/news/a20261006VL210/samsung-hbm-cooling-tsmc-cowos.html)
+
+---
+
+### 🚀 Jedec unveils new standard for silicon photonics reliability qualification and testing
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-10-06T03:52:28Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Jedec released a new standard for silicon photonics (SiPh) testing and manufacturing controls to promote consistent reliability practices. The standard comes as SiPh experiences rapid growth due to its potential to replace copper interconnects amid AI infrast…
+- [原文連結](https://www.digitimes.com/news/a20261006VL209/jedec-siph-testing-manufacturing.html)
 
 ---
 
@@ -152,34 +179,6 @@ The post Celestica poised for growth as Google and OpenAI push data center deman
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Netlist has begun legal proceedings against Micron and downstream customers Nvidia, Broadcom, and Google to stop them from allegedly using the company's patented high-bandwidth memory (HBM) technology without authorization. The case arrives as AI applications…
 - [原文連結](https://www.digitimes.com/news/a20260930VL219/micron-patent-nvidia-broadcom-hbm.html)
-
----
-
-### 🚀 Is Iran charging a toll to allow oil traffic through Hormuz?
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Al Jazeera English (2026-10-05T13:11:42Z)
-- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Crude exports bypassing Hormuz surged in September, yet oil prices remain high. Could a secret fee be the reason?
-- [原文連結](https://www.aljazeera.com/news/2026/10/5/is-iran-charging-a-toll-to-allow-oil-traffic-through-hormuz)
-
----
-
-### ⚖️ Credo Has One Number That Could Change the Stock’s Long-Term Story
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: Biztoc.com (2026-10-05T11:28:54Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: The post Credo Has One Number That Could Change the Stock’s Long-Term Story appeared first on 24/7 Wall St..
-Credo Technology (NASDAQ:CRDO) sells the connectivity that keeps AI clusters talking. Its lineup covers active electrical cables, optical DSPs, retime…
-- [原文連結](https://biztoc.com/x/d9e7677e51f34655)
-
----
-
-### 🚀 Madison Ryann Ward Is Doing Music Her Way
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: Relevantmagazine.com (2026-10-04T04:45:58Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: A 10-second cafeteria video got her signed by Rick Rubin. Then she walked away, went independent and built something better.
-- [原文連結](https://relevantmagazine.com/magazine/we-stand-a-lot-taller-when-were-standing-on-the-rock-madison-ryann-ward-is-doing-music-her-way/)
 
 ---
 
