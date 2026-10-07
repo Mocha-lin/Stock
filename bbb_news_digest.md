@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-07T06:42:20.413768+00:00
+> 更新時間：2026-10-07T16:07:15.982982+00:00
 
 ### ⚖️ Largan Precision sees steady smartphone lens demand as CPO fibre arrays near production
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -10,12 +10,12 @@
 
 ---
 
-### 🚀 Global AI servers shift production nearshore, slowing direct Taiwan exports to US
-- **題材**: `AI伺服器` | **重要性**: `78`
-- **來源**: Digitimes (2026-10-05T04:48:48Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Taiwanese suppliers currently control approximately 90% of the global AI server market. However, a recent survey by Taiwan's Ministry of Economic Affairs showed that the proportion of export orders produced overseas rose in August 2026, a clear reflection of …
-- [原文連結](https://www.digitimes.com/news/a20261005PD221/taiwan-production-exports-ai-server-growth.html)
+### ⚖️ Taiwan bets on SiPh, CPO to tackle AI data center power bottlenecks
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-10-06T07:02:39Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Taiwan's National Science and Technology Council (NSTC) has launched two research programs targeting silicon photonics (SiPh) and next-generation AI data center power systems, seeking to address energy and performance bottlenecks as high-speed computing shift…
+- [原文連結](https://www.digitimes.com/news/a20261006PD216/siph-cpo-academia-data-center-taiwan.html)
 
 ---
 
@@ -127,15 +127,6 @@
 
 ---
 
-### ⚖️ BOE eyes closer ties with Samsung, LG as it pushes into chip packaging
-- **題材**: `半導體先進製程` | **重要性**: `68`
-- **來源**: Digitimes (2026-10-01T03:45:00Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: China's BOE Technology is seeking closer ties with Samsung Electronics and LG Electronics as the display maker expands beyond panels into semiconductor glass substrates and advanced packaging.
-- [原文連結](https://www.digitimes.com/news/a20260930VL222/boe-samsung-lg-packaging-display.html)
-
----
-
 ### 🚀 Micron hikes 2027 HBM prices after missing 2026 memory surge on fixed contracts
 - **題材**: `HBM記憶體` | **重要性**: `68`
 - **來源**: Digitimes (2026-10-01T02:56:21Z)
@@ -173,12 +164,21 @@ The post Celestica poised for growth as Google and OpenAI push data center deman
 
 ---
 
-### ⚖️ Netlist challenges Micron, Nvidia, Broadcom, Google over alleged HBM patent use
-- **題材**: `HBM記憶體` | **重要性**: `63`
-- **來源**: Digitimes (2026-09-30T08:42:54Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Netlist has begun legal proceedings against Micron and downstream customers Nvidia, Broadcom, and Google to stop them from allegedly using the company's patented high-bandwidth memory (HBM) technology without authorization. The case arrives as AI applications…
-- [原文連結](https://www.digitimes.com/news/a20260930VL219/micron-patent-nvidia-broadcom-hbm.html)
+### 🚀 ASML’s chip packaging move threatens Besi shares, Bank of America says
+- **題材**: `半導體先進製程` | **重要性**: `60`
+- **來源**: The Next Web (2026-10-06T15:35:44Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Bank of America cut BE Semiconductor Industries to neutral and nearly halved its price target, saying the share price does not reflect the threat of ASML entering hybrid bonding, the market Besi depends on for growth. Besi has also been approached by two Amer…
+- [原文連結](https://thenextweb.com/news/besi-asml-hybrid-bonding-dutch)
+
+---
+
+### 🚀 Is Iran charging a toll to allow oil traffic through Hormuz?
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Al Jazeera English (2026-10-05T13:11:42Z)
+- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Crude exports bypassing Hormuz surged in September, yet oil prices remain high. Could a secret fee be the reason?
+- [原文連結](https://www.aljazeera.com/news/2026/10/5/is-iran-charging-a-toll-to-allow-oil-traffic-through-hormuz)
 
 ---
 

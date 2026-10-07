@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-10-07T06:42:20.413768+00:00",
+  "generated_at": "2026-10-07T16:07:15.982982+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 72,
@@ -44,32 +44,32 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
-      "id": "4c6f5893dc20eea5",
+      "id": "dcf9f312e1c9902f",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Global AI servers shift production nearshore, slowing direct Taiwan exports to US",
-      "summary": "Taiwanese suppliers currently control approximately 90% of the global AI server market. However, a recent survey by Taiwan's Ministry of Economic Affairs showed that the proportion of export orders produced overseas rose in August 2026, a clear reflection of …",
-      "original_title": "Global AI servers shift production nearshore, slowing direct Taiwan exports to US",
-      "url": "https://www.digitimes.com/news/a20261005PD221/taiwan-production-exports-ai-server-growth.html",
+      "theme": "光通訊與矽光子",
+      "title": "Taiwan bets on SiPh, CPO to tackle AI data center power bottlenecks",
+      "summary": "Taiwan's National Science and Technology Council (NSTC) has launched two research programs targeting silicon photonics (SiPh) and next-generation AI data center power systems, seeking to address energy and performance bottlenecks as high-speed computing shift…",
+      "original_title": "Taiwan bets on SiPh, CPO to tackle AI data center power bottlenecks",
+      "url": "https://www.digitimes.com/news/a20261006PD216/siph-cpo-academia-data-center-taiwan.html",
       "source": "Digitimes",
       "domain": "digitimes.com",
-      "published_at": "2026-10-05T04:48:48Z",
-      "importance": 78,
-      "impact": "positive",
-      "timeframe": "short_to_mid_term",
+      "published_at": "2026-10-06T07:02:39Z",
+      "importance": 73,
+      "impact": "neutral",
+      "timeframe": "short_term",
       "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
+        "光通訊",
+        "CPO",
+        "矽光子"
       ],
       "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
       ],
       "related_models": [
         "003",
@@ -79,7 +79,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "693b4b9372b28801",
@@ -535,44 +535,6 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "d888b7a07fb7c0b7",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "BOE eyes closer ties with Samsung, LG as it pushes into chip packaging",
-      "summary": "China's BOE Technology is seeking closer ties with Samsung Electronics and LG Electronics as the display maker expands beyond panels into semiconductor glass substrates and advanced packaging.",
-      "original_title": "BOE eyes closer ties with Samsung, LG as it pushes into chip packaging",
-      "url": "https://www.digitimes.com/news/a20260930VL222/boe-samsung-lg-packaging-display.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-10-01T03:45:00Z",
-      "importance": 68,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "a09e7917527c94a1",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -719,29 +681,32 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "7e872b85da1aff87",
+      "id": "7ca5d733d0a8e0a8",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "Netlist challenges Micron, Nvidia, Broadcom, Google over alleged HBM patent use",
-      "summary": "Netlist has begun legal proceedings against Micron and downstream customers Nvidia, Broadcom, and Google to stop them from allegedly using the company's patented high-bandwidth memory (HBM) technology without authorization. The case arrives as AI applications…",
-      "original_title": "Netlist challenges Micron, Nvidia, Broadcom, Google over alleged HBM patent use",
-      "url": "https://www.digitimes.com/news/a20260930VL219/micron-patent-nvidia-broadcom-hbm.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-09-30T08:42:54Z",
-      "importance": 63,
-      "impact": "neutral",
+      "theme": "半導體先進製程",
+      "title": "ASML’s chip packaging move threatens Besi shares, Bank of America says",
+      "summary": "Bank of America cut BE Semiconductor Industries to neutral and nearly halved its price target, saying the share price does not reflect the threat of ASML entering hybrid bonding, the market Besi depends on for growth. Besi has also been approached by two Amer…",
+      "original_title": "ASML’s chip packaging move threatens Besi shares, Bank of America says",
+      "url": "https://thenextweb.com/news/besi-asml-hybrid-bonding-dutch",
+      "source": "The Next Web",
+      "domain": "thenextweb.com",
+      "published_at": "2026-10-06T15:35:44Z",
+      "importance": 60,
+      "impact": "positive",
       "timeframe": "short_term",
       "tags": [
-        "HBM",
-        "記憶體"
+        "半導體",
+        "CoWoS",
+        "先進製程"
       ],
       "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
       ],
       "related_models": [
         "003",
@@ -751,7 +716,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "b2e192e81caf853c",
@@ -973,6 +938,41 @@
       "reason": "屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "7e872b85da1aff87",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "Netlist challenges Micron, Nvidia, Broadcom, Google over alleged HBM patent use",
+      "summary": "Netlist has begun legal proceedings against Micron and downstream customers Nvidia, Broadcom, and Google to stop them from allegedly using the company's patented high-bandwidth memory (HBM) technology without authorization. The case arrives as AI applications…",
+      "original_title": "Netlist challenges Micron, Nvidia, Broadcom, Google over alleged HBM patent use",
+      "url": "https://www.digitimes.com/news/a20260930VL219/micron-patent-nvidia-broadcom-hbm.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-09-30T08:42:54Z",
+      "importance": 58,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "b7794304bdd02f89",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1044,6 +1044,120 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "59f3adf5cf33671d",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Europe’s Mistral launches Large 4 to challenge China’s lead in open AI models",
+      "summary": "Mistral has released a preview of Mistral Large 4, a 1T model that the Paris-based company says is the most powerful open-weight AI system outside China. Starting today, developers can access it via Mistral’s API. The model weights, which enable anyone to dow…",
+      "original_title": "Europe’s Mistral launches Large 4 to challenge China’s lead in open AI models",
+      "url": "https://thenextweb.com/news/mistral-releases-large-4-a-1-trillion-parameter-open-weight-ai-model",
+      "source": "The Next Web",
+      "domain": "thenextweb.com",
+      "published_at": "2026-10-06T13:00:45Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "8bdd38eb11257bae",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "Samsung's Galaxy S26 FE is a decent phone, but it makes too many compromises to be worth your money",
+      "summary": "Samsung's \"Fan Edition\" phones try to deliver a flagship \"Plus\" experience at lower prices, but the Galaxy S26 FE falls short amid a price hike.",
+      "original_title": "Samsung's Galaxy S26 FE is a decent phone, but it makes too many compromises to be worth your money",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-galaxy-s26-fe-review",
+      "source": "Android Central",
+      "domain": "androidcentral.com",
+      "published_at": "2026-10-06T12:00:00Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "88794e9bf593d120",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "Apple @ Work Podcast: Way too many apps are sitting outside SSO protection",
+      "summary": "Apple @ Work is exclusively brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional-grade platform all the solutions necessary to seamlessly and automatically deploy, manage & protect App…",
+      "original_title": "Apple @ Work Podcast: Way too many apps are sitting outside SSO protection",
+      "url": "https://9to5mac.com/2026/10/06/apple-work-podcast-way-too-many-apps-are-sitting-outside-sso-protection/",
+      "source": "9to5Mac",
+      "domain": "9to5mac.com",
+      "published_at": "2026-10-06T10:00:00Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "3a21fd1a1435c5a0",
@@ -1569,158 +1683,6 @@
       "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "16b64f61875903de",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "iPad Mini 8 to Offer These 10 New Features",
-      "summary": "Last week, our exclusive leak revealed that the next-generation iPad mini will feature Apple's latest A20 Pro chip, a landscape front camera, and a redesigned speaker system, but that is not all, as plenty of other upgrades have been rumored.\n\n\n\n\n\nHere are 10…",
-      "original_title": "iPad Mini 8 to Offer These 10 New Features",
-      "url": "https://www.macrumors.com/2026/09/30/ipad-mini-8-rumored-features/",
-      "source": "MacRumors",
-      "domain": "macrumors.com",
-      "published_at": "2026-09-30T15:54:51Z",
-      "importance": 55,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "0871b8aa1eaa3cc5",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Diners Are Back in Restaurants, but Popeyes and Buffalo Wild Wings Still Want a Spot in Your Pantry",
-      "summary": "The Franchise 500 chains are rolling out Pringles and take-home biscuits even as restaurant spending rebounds.",
-      "original_title": "Diners Are Back in Restaurants, but Popeyes and Buffalo Wild Wings Still Want a Spot in Your Pantry",
-      "url": "https://www.entrepreneur.com/buying-a-franchise/diners-are-back-in-restaurants-but-popeyes-and-buffalo-wild-wings-still-want-a-spot-in-your-pantry",
-      "source": "Entrepreneur",
-      "domain": "entrepreneur.com",
-      "published_at": "2026-09-30T14:00:00Z",
-      "importance": 55,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "57f2cb643f2d1de7",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "Trump's tariffs are back in court — again",
-      "summary": "Containers are seen at the container terminal of Nanjing Port, in China's eastern Jiangsu province on September 8, 2026. Most Chinese goods shipped to the United States have faced a minimum 12.5% tax. - AFP/Getty Images\r\nHere we go again: President Donald Tru…",
-      "original_title": "Trump's tariffs are back in court — again",
-      "url": "https://finance.yahoo.com/economy/policy/articles/trump-tariffs-back-court-again-090029904.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-09-30T13:08:31Z",
-      "importance": 55,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "94be38f1db169b2a",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "Trump's tariffs are back in court — again",
-      "summary": "Containers are seen at the container terminal of Nanjing Port, in China's eastern Jiangsu province on September 8, 2026. Most Chinese goods shipped to the United States have faced a minimum 12.5% tax. - AFP/Getty Images\r\n\nHere we go again: President Donald Tr…",
-      "original_title": "Trump's tariffs are back in court — again",
-      "url": "https://www.cnn.com/2026/09/30/economy/trumps-tariffs-are-back-in-court-again",
-      "source": "CNN",
-      "domain": "cnn.com",
-      "published_at": "2026-09-30T09:00:29Z",
-      "importance": 55,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "553abc6bf9659d11",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2171,44 +2133,6 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "c9330c342f3d86d3",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "Applied Optoelectronics Is Up 205% This Year. Is It Too Late to Buy AAOI Stock Now?",
-      "summary": "The post Applied Optoelectronics Is Up 205% This Year. Is It Too Late to Buy AAOI Stock Now? appeared first on 24/7 Wall St..\nFew hardware names have kept pace with Applied Optoelectronics (NASDAQ:AAOI) stock this year. Shares of the optical transceiver maker…",
-      "original_title": "Applied Optoelectronics Is Up 205% This Year. Is It Too Late to Buy AAOI Stock Now?",
-      "url": "https://biztoc.com/x/cba74bdabf828001",
-      "source": "Biztoc.com",
-      "domain": "biztoc.com",
-      "published_at": "2026-10-01T19:03:03Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "b8ee19eadc2adcd6",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2437,19 +2361,19 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "ad0e6cf497f10220",
+      "id": "16b64f61875903de",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "半導體先進製程",
-      "title": "Samsung Galaxy Tab S12 Series Debuts: Dimensity 9500, Ultra-Thin Design, And 7 Years Of Updates",
-      "summary": "Samsung has officially unveiled the Galaxy Tab S12 Plus and Galaxy Tab S12 Ultra, targeting the premium mobile productivity and creative segments. Both high-end Android tablets run on the flagship 3nm MediaTek Dimensity 9500 processor, delivering an impressiv…",
-      "original_title": "Samsung Galaxy Tab S12 Series Debuts: Dimensity 9500, Ultra-Thin Design, And 7 Years Of Updates",
-      "url": "https://www.ubergizmo.com/2026/09/samsung-galaxy-tab-s12-series-debuts-dimensity-9500-ultra-thin-design-and-7-years-of-updates/",
-      "source": "Ubergizmo",
-      "domain": "ubergizmo.com",
-      "published_at": "2026-09-30T15:40:56Z",
+      "title": "iPad Mini 8 to Offer These 10 New Features",
+      "summary": "Last week, our exclusive leak revealed that the next-generation iPad mini will feature Apple's latest A20 Pro chip, a landscape front camera, and a redesigned speaker system, but that is not all, as plenty of other upgrades have been rumored.\n\n\n\n\n\nHere are 10…",
+      "original_title": "iPad Mini 8 to Offer These 10 New Features",
+      "url": "https://www.macrumors.com/2026/09/30/ipad-mini-8-rumored-features/",
+      "source": "MacRumors",
+      "domain": "macrumors.com",
+      "published_at": "2026-09-30T15:54:51Z",
       "importance": 50,
-      "impact": "neutral",
+      "impact": "positive",
       "timeframe": "short_term",
       "tags": [
         "半導體",
@@ -2472,7 +2396,121 @@
         "009",
         "010"
       ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "0871b8aa1eaa3cc5",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Diners Are Back in Restaurants, but Popeyes and Buffalo Wild Wings Still Want a Spot in Your Pantry",
+      "summary": "The Franchise 500 chains are rolling out Pringles and take-home biscuits even as restaurant spending rebounds.",
+      "original_title": "Diners Are Back in Restaurants, but Popeyes and Buffalo Wild Wings Still Want a Spot in Your Pantry",
+      "url": "https://www.entrepreneur.com/buying-a-franchise/diners-are-back-in-restaurants-but-popeyes-and-buffalo-wild-wings-still-want-a-spot-in-your-pantry",
+      "source": "Entrepreneur",
+      "domain": "entrepreneur.com",
+      "published_at": "2026-09-30T14:00:00Z",
+      "importance": 50,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "57f2cb643f2d1de7",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "Trump's tariffs are back in court — again",
+      "summary": "Containers are seen at the container terminal of Nanjing Port, in China's eastern Jiangsu province on September 8, 2026. Most Chinese goods shipped to the United States have faced a minimum 12.5% tax. - AFP/Getty Images\r\nHere we go again: President Donald Tru…",
+      "original_title": "Trump's tariffs are back in court — again",
+      "url": "https://finance.yahoo.com/economy/policy/articles/trump-tariffs-back-court-again-090029904.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-09-30T13:08:31Z",
+      "importance": 50,
+      "impact": "negative",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "94be38f1db169b2a",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "Trump's tariffs are back in court — again",
+      "summary": "Containers are seen at the container terminal of Nanjing Port, in China's eastern Jiangsu province on September 8, 2026. Most Chinese goods shipped to the United States have faced a minimum 12.5% tax. - AFP/Getty Images\r\n\nHere we go again: President Donald Tr…",
+      "original_title": "Trump's tariffs are back in court — again",
+      "url": "https://www.cnn.com/2026/09/30/economy/trumps-tariffs-are-back-in-court-again",
+      "source": "CNN",
+      "domain": "cnn.com",
+      "published_at": "2026-09-30T09:00:29Z",
+      "importance": 50,
+      "impact": "negative",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "07614d5e2cb6ecc6",
@@ -2486,79 +2524,6 @@
       "source": "TechRadar",
       "domain": "techradar.com",
       "published_at": "2026-09-30T15:36:40Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "520fb28d86127e2d",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "NVIDIA CEO Jensen Huang happy to cooperate with Samsung for the next 33 years",
-      "summary": "NVIDIA has emerged as an instrumental part of the semiconductor industry. The company develops AI chips that are in high demand, and it also needs to work together with its industry partners like Samsung to maintain competitiveness. The company already has a …",
-      "original_title": "NVIDIA CEO Jensen Huang happy to cooperate with Samsung for the next 33 years",
-      "url": "https://www.sammobile.com/news/nvidia-ceo-jensen-huang-happy-to-cooperate-with-samsung-for-the-next-33-years/",
-      "source": "SamMobile",
-      "domain": "sammobile.com",
-      "published_at": "2026-09-30T08:06:34Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "95d818f4a9a8ff45",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "11月9日に開催決定！物流業界のダボス会議「Logistics DX SUMMIT 2026 ～不確実性を突破するデータドリブンの意思決定～」参加登録を開始",
-      "summary": "[株式会社Shippio]\n[画像1: https://prcdn.freetls.fastly.net/release_image/25761/228/25761-228-bf347aa52460695bb42e811640f66eb8-2000x1123.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
-      "original_title": "11月9日に開催決定！物流業界のダボス会議「Logistics DX SUMMIT 2026 ～不確実性を突破するデータドリブンの意思決定～」参加登録を開始",
-      "url": "https://prtimes.jp/main/html/rd/p/000000228.000025761.html",
-      "source": "Prtimes.jp",
-      "domain": "prtimes.jp",
-      "published_at": "2026-09-30T06:30:00Z",
       "importance": 45,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -2584,6 +2549,41 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
+    },
+    {
+      "id": "520fb28d86127e2d",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "NVIDIA CEO Jensen Huang happy to cooperate with Samsung for the next 33 years",
+      "summary": "NVIDIA has emerged as an instrumental part of the semiconductor industry. The company develops AI chips that are in high demand, and it also needs to work together with its industry partners like Samsung to maintain competitiveness. The company already has a …",
+      "original_title": "NVIDIA CEO Jensen Huang happy to cooperate with Samsung for the next 33 years",
+      "url": "https://www.sammobile.com/news/nvidia-ceo-jensen-huang-happy-to-cooperate-with-samsung-for-the-next-33-years/",
+      "source": "SamMobile",
+      "domain": "sammobile.com",
+      "published_at": "2026-09-30T08:06:34Z",
+      "importance": 45,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     },
     {
       "id": "d34a811fe9bf525f",
