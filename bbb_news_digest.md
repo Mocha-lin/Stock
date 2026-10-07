@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-07T16:07:15.982982+00:00
+> 更新時間：2026-10-07T19:06:26.931493+00:00
 
 ### ⚖️ Largan Precision sees steady smartphone lens demand as CPO fibre arrays near production
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -109,15 +109,6 @@
 
 ---
 
-### ⚖️ JCET Group partners with Wuxi to advance 2.5D advanced packaging facilities
-- **題材**: `半導體先進製程` | **重要性**: `68`
-- **來源**: Digitimes (2026-10-02T03:44:39Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: JCET Group signed an agreement on September 29 for a high-end advanced packaging and testing project in Wuxi, Jiangsu Province. Wuxi municipal leadership pledged operational support to help JCET scale its manufacturing footprint, promoting regional integratio…
-- [原文連結](https://www.digitimes.com/news/a20261002VL207/jcet-packaging-high-end-manufacturing-silicon.html)
-
----
-
 ### ⚖️ Micron eyes NVHBM profits with TSMC custom HBM push
 - **題材**: `HBM記憶體` | **重要性**: `68`
 - **來源**: Digitimes (2026-10-02T02:42:07Z)
@@ -136,22 +127,21 @@
 
 ---
 
+### ⚖️ Data Center Cables Market to Reach $27.29 Billion by 2035, DC Market Insights Finds
+- **題材**: `光通訊與矽光子` | **重要性**: `65`
+- **來源**: PRNewswire (2026-10-06T18:21:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: AI data centers are reshaping cabling economics, with cabling spend per MW more than twice that of conventional facilities; fiber optic cables held 47.6% of the global market in 2025 LONDON, Oct. 6, 2026 /PRNewswire/ -- The global Data Center Cables Market wa…
+- [原文連結](https://www.prnewswire.com/news-releases/data-center-cables-market-to-reach-27-29-billion-by-2035--dc-market-insights-finds-302900173.html)
+
+---
+
 ### 🚀 RAM Maker Celebrates Record Profits And Predicts ‘Even Higher Prices’ And ‘Greater Tightness In The Industry’ In The Years Ahead
 - **題材**: `HBM記憶體` | **重要性**: `65`
 - **來源**: Kotaku (2026-10-01T23:00:22Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Micron doesn't see the AI bubble popping any time soon
 - [原文連結](https://kotaku.com/ram-maker-celebrates-record-profits-and-predicts-even-higher-prices-and-greater-tightness-in-the-industry-in-the-years-ahead-2000739125)
-
----
-
-### 🚀 Celestica poised for growth as Google and OpenAI push data center demand
-- **題材**: `光通訊與矽光子` | **重要性**: `65`
-- **來源**: Crypto Briefing (2026-09-30T16:38:16Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Celestica's growth hinges on hyperscaler investments, highlighting the critical role of custom hardware in the evolving AI infrastructure landscape.
-The post Celestica poised for growth as Google and OpenAI push data center demand appeared first on Crypto Bri…
-- [原文連結](https://cryptobriefing.com/celestica-growth-data-center-google-openai/)
 
 ---
 
@@ -179,6 +169,15 @@ The post Celestica poised for growth as Google and OpenAI push data center deman
 - **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Crude exports bypassing Hormuz surged in September, yet oil prices remain high. Could a secret fee be the reason?
 - [原文連結](https://www.aljazeera.com/news/2026/10/5/is-iran-charging-a-toll-to-allow-oil-traffic-through-hormuz)
+
+---
+
+### ⚠️ Memory shortages set to persist into 2028, warns Micron CEO
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: Eurogamer.net (2026-10-03T10:34:13Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Micron has warned that global RAM shortages show no sign of easing, telling investors on its earnings call that it has already sold most of next year's production. Read more
+- [原文連結](https://www.eurogamer.net/micron-ram-shortage-2028-earnings-ai-demand)
 
 ---
 
