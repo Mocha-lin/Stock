@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-06T22:49:14.028535+00:00
+> 更新時間：2026-10-07T02:08:33.193201+00:00
 
 ### ⚖️ Largan Precision sees steady smartphone lens demand as CPO fibre arrays near production
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -10,12 +10,12 @@
 
 ---
 
-### 🚀 GlobalFoundries Singapore capacity utilization tops 90% as silicon photonics expansion hits equipment lead-time bottleneck
-- **題材**: `光通訊與矽光子` | **重要性**: `78`
-- **來源**: Digitimes (2026-09-30T00:38:31Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: GlobalFoundries (GF) is expanding its Singapore footprint following its acquisition of local silicon photonics foundry Advanced Micro Foundry (AMF), integrating 200mm and 300mm silicon photonics technologies while transferring its existing US 300mm capabiliti…
-- [原文連結](https://www.digitimes.com/news/a20260929PD228/globalfoundries-silicon-photonics-equipment-capacity.html)
+### 🚀 Global AI servers shift production nearshore, slowing direct Taiwan exports to US
+- **題材**: `AI伺服器` | **重要性**: `78`
+- **來源**: Digitimes (2026-10-05T04:48:48Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Taiwanese suppliers currently control approximately 90% of the global AI server market. However, a recent survey by Taiwan's Ministry of Economic Affairs showed that the proportion of export orders produced overseas rose in August 2026, a clear reflection of …
+- [原文連結](https://www.digitimes.com/news/a20261005PD221/taiwan-production-exports-ai-server-growth.html)
 
 ---
 
@@ -37,12 +37,30 @@
 
 ---
 
+### ⚖️ Advanced packaging race expands beyond chipmakers as display, materials, equipment suppliers chase new footholds
+- **題材**: `半導體先進製程` | **重要性**: `73`
+- **來源**: Digitimes (2026-10-02T02:16:23Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: The race to commercialize advanced packaging is widening beyond traditional chipmakers and display panel makers. As fan-out panel-level packaging (FOPLP), through-glass via, and micro-LED optical communications move closer to mass production, semiconductor eq…
+- [原文連結](https://www.digitimes.com/news/a20261002PD208/packaging-equipment-materials-display-chipmakers.html)
+
+---
+
 ### 🚀 DIGITIMES Insight: AI scaling is moving from chip shrinkage to system integration
 - **題材**: `半導體先進製程` | **重要性**: `73`
 - **來源**: Digitimes (2026-10-01T01:35:57Z)
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: TSMC said the next phase of AI performance growth will depend less on shrinking a single chip and more on combining multiple chips, memory, and advanced packaging inside larger systems. The shift could reshape semiconductor competition, as demand for compute,…
 - [原文連結](https://www.digitimes.com/news/a20261001PD204/tsmc-cowos-performance-packaging-technology.html)
+
+---
+
+### 🚀 GlobalFoundries Singapore capacity utilization tops 90% as silicon photonics expansion hits equipment lead-time bottleneck
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-09-30T00:38:31Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: GlobalFoundries (GF) is expanding its Singapore footprint following its acquisition of local silicon photonics foundry Advanced Micro Foundry (AMF), integrating 200mm and 300mm silicon photonics technologies while transferring its existing US 300mm capabiliti…
+- [原文連結](https://www.digitimes.com/news/a20260929PD228/globalfoundries-silicon-photonics-equipment-capacity.html)
 
 ---
 
@@ -64,21 +82,39 @@
 
 ---
 
+### ⚖️ JCET Group partners with Wuxi to advance 2.5D advanced packaging facilities
+- **題材**: `半導體先進製程` | **重要性**: `68`
+- **來源**: Digitimes (2026-10-02T03:44:39Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: JCET Group signed an agreement on September 29 for a high-end advanced packaging and testing project in Wuxi, Jiangsu Province. Wuxi municipal leadership pledged operational support to help JCET scale its manufacturing footprint, promoting regional integratio…
+- [原文連結](https://www.digitimes.com/news/a20261002VL207/jcet-packaging-high-end-manufacturing-silicon.html)
+
+---
+
+### ⚖️ Micron eyes NVHBM profits with TSMC custom HBM push
+- **題材**: `HBM記憶體` | **重要性**: `68`
+- **來源**: Digitimes (2026-10-02T02:42:07Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Micron is using an externally manufactured base die in NVHBM, a custom high-bandwidth memory (HBM) product it is co-developing with Nvidia, as the company bets that customization can unlock added value even when manufacturing is outsourced. The move underscor…
+- [原文連結](https://www.digitimes.com/news/a20261002PD216/micron-hbm-dram-bandwidth-design.html)
+
+---
+
+### ⚖️ BOE eyes closer ties with Samsung, LG as it pushes into chip packaging
+- **題材**: `半導體先進製程` | **重要性**: `68`
+- **來源**: Digitimes (2026-10-01T03:45:00Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: China's BOE Technology is seeking closer ties with Samsung Electronics and LG Electronics as the display maker expands beyond panels into semiconductor glass substrates and advanced packaging.
+- [原文連結](https://www.digitimes.com/news/a20260930VL222/boe-samsung-lg-packaging-display.html)
+
+---
+
 ### 🚀 Micron hikes 2027 HBM prices after missing 2026 memory surge on fixed contracts
 - **題材**: `HBM記憶體` | **重要性**: `68`
 - **來源**: Digitimes (2026-10-01T02:56:21Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Micron Technology has sharply raised 2027 prices for high-bandwidth memory (HBM), the stacked DRAM packaged with AI accelerators. The increase comes after a year in which fixed contract prices left HBM largely outside the memory price surge.
 - [原文連結](https://www.digitimes.com/news/a20261001VL206/micron-hbm-2027-dram-growth.html)
-
----
-
-### ⚖️ In global semiconductor race, Singapore bets on critical, mature technologies
-- **題材**: `半導體先進製程` | **重要性**: `68`
-- **來源**: Digitimes (2026-09-29T08:57:39Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Amid the ongoing restructuring of the global semiconductor supply chain, Singapore is focusing on advanced packaging, heterogeneous integration, silicon photonics, and optical interconnects, aiming to leverage nearly six decades' worth of manufacturing and su…
-- [原文連結](https://www.digitimes.com/news/a20260929PD244/packaging-manufacturing-equipment-supply-chain-materials.html)
 
 ---
 
@@ -110,39 +146,12 @@ The post Celestica poised for growth as Google and OpenAI push data center deman
 
 ---
 
-### ⚖️ TSMC reportedly evaluates Texas fabs as US regional competition intensifies
-- **題材**: `半導體先進製程` | **重要性**: `63`
-- **來源**: Digitimes (2026-09-30T02:07:21Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: TSMC is reportedly evaluating whether to build a second US manufacturing hub in Texas, potentially housing up to 6 advanced wafer fabs, as its US footprint continues to expand. The move follows the company's establishment of a massive semiconductor cluster in…
-- [原文連結](https://www.digitimes.com/news/a20260930PD215/tsmc-texas-fab-arizona-ic-manufacturing.html)
-
----
-
-### ⚖️ Advanced packaging shifts toward system integration as AI renews semiconductor talent appeal
-- **題材**: `半導體先進製程` | **重要性**: `63`
-- **來源**: Digitimes (2026-09-29T03:59:54Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: At Singapore's Innovate Together 2026 conference on September 25, executives and researchers from A*STAR's Institute of Microelectronics (IME), KLA, ASM International, the National University of Singapore (NUS), the SHINE Centre, and ASMPT discussed how advan…
-- [原文連結](https://www.digitimes.com/news/a20260929PD225/packaging-talent-2026-equipment-kla.html)
-
----
-
-### ⚖️ Beyond 16 layers: HBM stacks test advanced packaging equipment makers
-- **題材**: `半導體先進製程` | **重要性**: `63`
-- **來源**: Digitimes (2026-09-29T03:55:16Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: At Singapore's Innovate Together 2026 conference on September 25, equipment makers including ASM, ASMPT, and KLA said the challenges facing next-generation advanced packaging are expanding beyond the performance of individual tools to hybrid bonding, interfac…
-- [原文連結](https://www.digitimes.com/news/a20260929PD221/packaging-equipment-hbm-2026-materials.html)
-
----
-
-### ⚖️ SK Hynix tests HBM5 with TSMC as HBM4 enters Nvidia's next platform
-- **題材**: `半導體先進製程` | **重要性**: `63`
-- **來源**: Digitimes (2026-09-29T03:23:52Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: SK Hynix has validated its HBM5 memory with TSMC's CoWoS packaging, the company said in a September 28 post on its corporate newsroom. That means work on the generation after next is already underway with the foundry, while its HBM4 is only now being built in…
-- [原文連結](https://www.digitimes.com/news/a20260929VL203/tsmc-sk-hynix-nvidia-hbm4-packaging.html)
+### ⚖️ Netlist challenges Micron, Nvidia, Broadcom, Google over alleged HBM patent use
+- **題材**: `HBM記憶體` | **重要性**: `63`
+- **來源**: Digitimes (2026-09-30T08:42:54Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Netlist has begun legal proceedings against Micron and downstream customers Nvidia, Broadcom, and Google to stop them from allegedly using the company's patented high-bandwidth memory (HBM) technology without authorization. The case arrives as AI applications…
+- [原文連結](https://www.digitimes.com/news/a20260930VL219/micron-patent-nvidia-broadcom-hbm.html)
 
 ---
 
@@ -155,30 +164,22 @@ The post Celestica poised for growth as Google and OpenAI push data center deman
 
 ---
 
+### ⚖️ Credo Has One Number That Could Change the Stock’s Long-Term Story
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: Biztoc.com (2026-10-05T11:28:54Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: The post Credo Has One Number That Could Change the Stock’s Long-Term Story appeared first on 24/7 Wall St..
+Credo Technology (NASDAQ:CRDO) sells the connectivity that keeps AI clusters talking. Its lineup covers active electrical cables, optical DSPs, retime…
+- [原文連結](https://biztoc.com/x/d9e7677e51f34655)
+
+---
+
 ### 🚀 Madison Ryann Ward Is Doing Music Her Way
 - **題材**: `AI伺服器` | **重要性**: `60`
 - **來源**: Relevantmagazine.com (2026-10-04T04:45:58Z)
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: A 10-second cafeteria video got her signed by Rick Rubin. Then she walked away, went independent and built something better.
 - [原文連結](https://relevantmagazine.com/magazine/we-stand-a-lot-taller-when-were-standing-on-the-rock-madison-ryann-ward-is-doing-music-her-way/)
-
----
-
-### ⚠️ Memory shortages set to persist into 2028, warns Micron CEO
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: Eurogamer.net (2026-10-03T10:34:13Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Micron has warned that global RAM shortages show no sign of easing, telling investors on its earnings call that it has already sold most of next year's production. Read more
-- [原文連結](https://www.eurogamer.net/micron-ram-shortage-2028-earnings-ai-demand)
-
----
-
-### 🚀 Higher oil prices are just 1 way the Iran war is weighing on the U.S. economy
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-10-02T10:00:00Z)
-- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: US bond yields have surged upward over the past month, as yields on both the 10-year Treasury (^TNX) and 30-year Treasury (^TYX) have reached levels not seen since 2002, surpassing 2007 high-water marks in the lead-up to the financial crisis.Investors have at…
-- [原文連結](https://finance.yahoo.com/markets/article/the-iran-war-is-driving-inflation-higher--and-its-not-just-because-of-oil-100000797.html)
 
 ---
 

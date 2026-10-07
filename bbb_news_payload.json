@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-10-06T22:49:14.028535+00:00",
+  "generated_at": "2026-10-07T02:08:33.193201+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 72,
@@ -44,32 +44,32 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
-      "id": "623089ff4a4a74e5",
+      "id": "4c6f5893dc20eea5",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "GlobalFoundries Singapore capacity utilization tops 90% as silicon photonics expansion hits equipment lead-time bottleneck",
-      "summary": "GlobalFoundries (GF) is expanding its Singapore footprint following its acquisition of local silicon photonics foundry Advanced Micro Foundry (AMF), integrating 200mm and 300mm silicon photonics technologies while transferring its existing US 300mm capabiliti…",
-      "original_title": "GlobalFoundries Singapore capacity utilization tops 90% as silicon photonics expansion hits equipment lead-time bottleneck",
-      "url": "https://www.digitimes.com/news/a20260929PD228/globalfoundries-silicon-photonics-equipment-capacity.html",
+      "theme": "AI伺服器",
+      "title": "Global AI servers shift production nearshore, slowing direct Taiwan exports to US",
+      "summary": "Taiwanese suppliers currently control approximately 90% of the global AI server market. However, a recent survey by Taiwan's Ministry of Economic Affairs showed that the proportion of export orders produced overseas rose in August 2026, a clear reflection of …",
+      "original_title": "Global AI servers shift production nearshore, slowing direct Taiwan exports to US",
+      "url": "https://www.digitimes.com/news/a20261005PD221/taiwan-production-exports-ai-server-growth.html",
       "source": "Digitimes",
       "domain": "digitimes.com",
-      "published_at": "2026-09-30T00:38:31Z",
+      "published_at": "2026-10-05T04:48:48Z",
       "importance": 78,
       "impact": "positive",
       "timeframe": "short_to_mid_term",
       "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
+        "AI",
+        "伺服器",
+        "資料中心"
       ],
       "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
       ],
       "related_models": [
         "003",
@@ -79,7 +79,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+      "reason": "屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "b67975221f45cac7",
@@ -158,6 +158,44 @@
       "reason": "屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
+      "id": "283b1495beed8d3d",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "Advanced packaging race expands beyond chipmakers as display, materials, equipment suppliers chase new footholds",
+      "summary": "The race to commercialize advanced packaging is widening beyond traditional chipmakers and display panel makers. As fan-out panel-level packaging (FOPLP), through-glass via, and micro-LED optical communications move closer to mass production, semiconductor eq…",
+      "original_title": "Advanced packaging race expands beyond chipmakers as display, materials, equipment suppliers chase new footholds",
+      "url": "https://www.digitimes.com/news/a20261002PD208/packaging-equipment-materials-display-chipmakers.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-10-02T02:16:23Z",
+      "importance": 73,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
       "id": "97b541c3389b0396",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -194,6 +232,44 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
+      "id": "623089ff4a4a74e5",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "GlobalFoundries Singapore capacity utilization tops 90% as silicon photonics expansion hits equipment lead-time bottleneck",
+      "summary": "GlobalFoundries (GF) is expanding its Singapore footprint following its acquisition of local silicon photonics foundry Advanced Micro Foundry (AMF), integrating 200mm and 300mm silicon photonics technologies while transferring its existing US 300mm capabiliti…",
+      "original_title": "GlobalFoundries Singapore capacity utilization tops 90% as silicon photonics expansion hits equipment lead-time bottleneck",
+      "url": "https://www.digitimes.com/news/a20260929PD228/globalfoundries-silicon-photonics-equipment-capacity.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-09-30T00:38:31Z",
+      "importance": 73,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "a0480ebed3c12d2f",
@@ -272,6 +348,117 @@
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "d39a9e5294d1757c",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "JCET Group partners with Wuxi to advance 2.5D advanced packaging facilities",
+      "summary": "JCET Group signed an agreement on September 29 for a high-end advanced packaging and testing project in Wuxi, Jiangsu Province. Wuxi municipal leadership pledged operational support to help JCET scale its manufacturing footprint, promoting regional integratio…",
+      "original_title": "JCET Group partners with Wuxi to advance 2.5D advanced packaging facilities",
+      "url": "https://www.digitimes.com/news/a20261002VL207/jcet-packaging-high-end-manufacturing-silicon.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-10-02T03:44:39Z",
+      "importance": 68,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "f6774eba54f2df05",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "Micron eyes NVHBM profits with TSMC custom HBM push",
+      "summary": "Micron is using an externally manufactured base die in NVHBM, a custom high-bandwidth memory (HBM) product it is co-developing with Nvidia, as the company bets that customization can unlock added value even when manufacturing is outsourced. The move underscor…",
+      "original_title": "Micron eyes NVHBM profits with TSMC custom HBM push",
+      "url": "https://www.digitimes.com/news/a20261002PD216/micron-hbm-dram-bandwidth-design.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-10-02T02:42:07Z",
+      "importance": 68,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "d888b7a07fb7c0b7",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "BOE eyes closer ties with Samsung, LG as it pushes into chip packaging",
+      "summary": "China's BOE Technology is seeking closer ties with Samsung Electronics and LG Electronics as the display maker expands beyond panels into semiconductor glass substrates and advanced packaging.",
+      "original_title": "BOE eyes closer ties with Samsung, LG as it pushes into chip packaging",
+      "url": "https://www.digitimes.com/news/a20260930VL222/boe-samsung-lg-packaging-display.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-10-01T03:45:00Z",
+      "importance": 68,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "a09e7917527c94a1",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -305,44 +492,6 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "19f89b3f0ab289fb",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "In global semiconductor race, Singapore bets on critical, mature technologies",
-      "summary": "Amid the ongoing restructuring of the global semiconductor supply chain, Singapore is focusing on advanced packaging, heterogeneous integration, silicon photonics, and optical interconnects, aiming to leverage nearly six decades' worth of manufacturing and su…",
-      "original_title": "In global semiconductor race, Singapore bets on critical, mature technologies",
-      "url": "https://www.digitimes.com/news/a20260929PD244/packaging-manufacturing-equipment-supply-chain-materials.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-09-29T08:57:39Z",
-      "importance": 68,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "a436059b58bb4744",
@@ -456,32 +605,29 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "b7794304bdd02f89",
+      "id": "7e872b85da1aff87",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "TSMC reportedly evaluates Texas fabs as US regional competition intensifies",
-      "summary": "TSMC is reportedly evaluating whether to build a second US manufacturing hub in Texas, potentially housing up to 6 advanced wafer fabs, as its US footprint continues to expand. The move follows the company's establishment of a massive semiconductor cluster in…",
-      "original_title": "TSMC reportedly evaluates Texas fabs as US regional competition intensifies",
-      "url": "https://www.digitimes.com/news/a20260930PD215/tsmc-texas-fab-arizona-ic-manufacturing.html",
+      "theme": "HBM記憶體",
+      "title": "Netlist challenges Micron, Nvidia, Broadcom, Google over alleged HBM patent use",
+      "summary": "Netlist has begun legal proceedings against Micron and downstream customers Nvidia, Broadcom, and Google to stop them from allegedly using the company's patented high-bandwidth memory (HBM) technology without authorization. The case arrives as AI applications…",
+      "original_title": "Netlist challenges Micron, Nvidia, Broadcom, Google over alleged HBM patent use",
+      "url": "https://www.digitimes.com/news/a20260930VL219/micron-patent-nvidia-broadcom-hbm.html",
       "source": "Digitimes",
       "domain": "digitimes.com",
-      "published_at": "2026-09-30T02:07:21Z",
+      "published_at": "2026-09-30T08:42:54Z",
       "importance": 63,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
+        "HBM",
+        "記憶體"
       ],
       "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
       ],
       "related_models": [
         "003",
@@ -491,121 +637,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "70250d7bff444e5f",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "Advanced packaging shifts toward system integration as AI renews semiconductor talent appeal",
-      "summary": "At Singapore's Innovate Together 2026 conference on September 25, executives and researchers from A*STAR's Institute of Microelectronics (IME), KLA, ASM International, the National University of Singapore (NUS), the SHINE Centre, and ASMPT discussed how advan…",
-      "original_title": "Advanced packaging shifts toward system integration as AI renews semiconductor talent appeal",
-      "url": "https://www.digitimes.com/news/a20260929PD225/packaging-talent-2026-equipment-kla.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-09-29T03:59:54Z",
-      "importance": 63,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "56adb17da543d400",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "Beyond 16 layers: HBM stacks test advanced packaging equipment makers",
-      "summary": "At Singapore's Innovate Together 2026 conference on September 25, equipment makers including ASM, ASMPT, and KLA said the challenges facing next-generation advanced packaging are expanding beyond the performance of individual tools to hybrid bonding, interfac…",
-      "original_title": "Beyond 16 layers: HBM stacks test advanced packaging equipment makers",
-      "url": "https://www.digitimes.com/news/a20260929PD221/packaging-equipment-hbm-2026-materials.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-09-29T03:55:16Z",
-      "importance": 63,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "94d270a64f0de05f",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "SK Hynix tests HBM5 with TSMC as HBM4 enters Nvidia's next platform",
-      "summary": "SK Hynix has validated its HBM5 memory with TSMC's CoWoS packaging, the company said in a September 28 post on its corporate newsroom. That means work on the generation after next is already underway with the foundry, while its HBM4 is only now being built in…",
-      "original_title": "SK Hynix tests HBM5 with TSMC as HBM4 enters Nvidia's next platform",
-      "url": "https://www.digitimes.com/news/a20260929VL203/tsmc-sk-hynix-nvidia-hbm4-packaging.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-09-29T03:23:52Z",
-      "importance": 63,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "b2e192e81caf853c",
@@ -644,6 +676,44 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "59995b38647884d8",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "Credo Has One Number That Could Change the Stock’s Long-Term Story",
+      "summary": "The post Credo Has One Number That Could Change the Stock’s Long-Term Story appeared first on 24/7 Wall St..\nCredo Technology (NASDAQ:CRDO) sells the connectivity that keeps AI clusters talking. Its lineup covers active electrical cables, optical DSPs, retime…",
+      "original_title": "Credo Has One Number That Could Change the Stock’s Long-Term Story",
+      "url": "https://biztoc.com/x/d9e7677e51f34655",
+      "source": "Biztoc.com",
+      "domain": "biztoc.com",
+      "published_at": "2026-10-05T11:28:54Z",
+      "importance": 60,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "b042ed2c287c90b1",
@@ -757,6 +827,44 @@
       "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "3e2800aad987abaf",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "(PR) AI Server Demand Sustains Memory Contract Price Increases in 4Q26, While Consumer-Side Pressure Persists",
+      "summary": "TrendForce's latest memory industry research reveals that DRAM suppliers continue to prioritize advanced-process capacity for high-performance server products in 4Q26, keeping the overall market undersupplied. However, the pace of contract price increases is …",
+      "original_title": "(PR) AI Server Demand Sustains Memory Contract Price Increases in 4Q26, While Consumer-Side Pressure Persists",
+      "url": "https://www.techpowerup.com/353292/ai-server-demand-sustains-memory-contract-price-increases-in-4q26-while-consumer-side-pressure-persists",
+      "source": "Techpowerup.com",
+      "domain": "techpowerup.com",
+      "published_at": "2026-10-01T09:44:50Z",
+      "importance": 60,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "f0cf26ba661523e4",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -827,32 +935,32 @@
       "reason": "屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "0a8507b6fcf5a6ba",
+      "id": "b7794304bdd02f89",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "RoboTechnik completes Hong Kong listing to fund ficonTEC expansion in silicon photonics",
-      "summary": "RoboTechnik completed a Hong Kong listing on September 29 and began trading on the Hong Kong stock exchange, according to its German photonics automation subsidiary ficonTEC. The new capital will be used for further investment in ficonTEC, which is expanding …",
-      "original_title": "RoboTechnik completes Hong Kong listing to fund ficonTEC expansion in silicon photonics",
-      "url": "https://www.digitimes.com/news/a20260929PD241/photonics-silicon-automation-production-manufacturing.html",
+      "theme": "半導體先進製程",
+      "title": "TSMC reportedly evaluates Texas fabs as US regional competition intensifies",
+      "summary": "TSMC is reportedly evaluating whether to build a second US manufacturing hub in Texas, potentially housing up to 6 advanced wafer fabs, as its US footprint continues to expand. The move follows the company's establishment of a massive semiconductor cluster in…",
+      "original_title": "TSMC reportedly evaluates Texas fabs as US regional competition intensifies",
+      "url": "https://www.digitimes.com/news/a20260930PD215/tsmc-texas-fab-arizona-ic-manufacturing.html",
       "source": "Digitimes",
       "domain": "digitimes.com",
-      "published_at": "2026-09-29T07:38:58Z",
+      "published_at": "2026-09-30T02:07:21Z",
       "importance": 58,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
+        "半導體",
+        "CoWoS",
+        "先進製程"
       ],
       "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
       ],
       "related_models": [
         "003",
@@ -862,7 +970,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "3c0fb48b97820fad",
@@ -1087,6 +1195,44 @@
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "c22ecd352fbe1e5e",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "'Bond King' Bill Gross shares his best investment ever — and the brutal bet that lost him 50% in a month",
+      "summary": "Pimco billionaire Bill Gross told BI why he's a big fan of pipeline stocks, and walked through a terrible wager he made in 1969.",
+      "original_title": "'Bond King' Bill Gross shares his best investment ever — and the brutal bet that lost him 50% in a month",
+      "url": "https://www.businessinsider.com/bill-gross-best-worst-investment-mlp-energy-oil-stocks-bonds-2026-10#article",
+      "source": "Business Insider",
+      "domain": "businessinsider.com",
+      "published_at": "2026-10-03T12:00:01Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "a5f55897df4b1d41",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1123,6 +1269,44 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "ecf4a7387f12cbe9",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "Samsung starts mass producing Exynos 2700 chip, Galaxy S27 Ultra decision still up in the air",
+      "summary": "Samsung has begun mass production of the Exynos 2700 chipset, according to Korean publication The Elec. The company has reportedly set the production target “more than 10% higher” than the Exynos 2600 target to account for the new addition to the S-series fam…",
+      "original_title": "Samsung starts mass producing Exynos 2700 chip, Galaxy S27 Ultra decision still up in the air",
+      "url": "https://www.gsmarena.com/samsung_starts_mass_producing_exynos_2700_chip_galaxy_s27_ultra_decision_still_up_in_the_air-news-74879.php",
+      "source": "GSMArena.com",
+      "domain": "gsmarena.com",
+      "published_at": "2026-10-02T18:41:02Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "9e91671017c0a727",
@@ -1472,82 +1656,6 @@
       "source": "CNN",
       "domain": "cnn.com",
       "published_at": "2026-09-30T09:00:29Z",
-      "importance": 55,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "ac489256a9c625bf",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Meta signs deal for Firmus AI computing capacity in Southeast Asia",
-      "summary": "Meta has signed deals to rent AI chips at data centers in Southeast Asia run by Firmus, an Australian company that builds them, the two companies announced. Meta has reserved a certain amount of capacity and can add more if needed. Also, the company plans to …",
-      "original_title": "Meta signs deal for Firmus AI computing capacity in Southeast Asia",
-      "url": "https://thenextweb.com/news/meta-signs-deal-for-firmus-ai-computing-capacity-in-southeast-asia",
-      "source": "The Next Web",
-      "domain": "thenextweb.com",
-      "published_at": "2026-09-29T06:57:55Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "f84e101aeeeb6f37",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "Trump denies reports he offered Iran sanctions relief to end the war",
-      "summary": "Sept 29 (Reuters) - US President Donald Trump said he has offered Iran nothing to end the war, rejecting media reports that cited US officials saying he was willing to ease sanctions and release frozen funds for \"concrete\" steps regarding Iran's nuclear ‌prog…",
-      "original_title": "Trump denies reports he offered Iran sanctions relief to end the war",
-      "url": "https://uk.news.yahoo.com/trump-denies-offering-iran-sanctions-064453242.html",
-      "source": "Yahoo Entertainment",
-      "domain": "uk.news.yahoo.com",
-      "published_at": "2026-09-29T06:53:38Z",
       "importance": 55,
       "impact": "negative",
       "timeframe": "short_term",
@@ -1949,6 +2057,120 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "e503b30e8a478bcd",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "Zack Polanski to call for three-year cap on private rent rises",
+      "summary": "In his speech to his party's conference, the Green leader will frame housing as a key issue of generational fairness.",
+      "original_title": "Zack Polanski to call for three-year cap on private rent rises",
+      "url": "https://www.bbc.co.uk/news/articles/cq74e4jg9leno",
+      "source": "BBC News",
+      "domain": "bbc.co.uk",
+      "published_at": "2026-10-02T05:31:54Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "95860e9057af96b0",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "Executive Interview: ideaForge",
+      "summary": "Ezhilan Nanmaran, Chief Product Officer (CPO) of ideaForge, tells CB Insights how they view the market, customer needs, and their company.   How do you define your market and where does your company fit into that space? ideaForge is a …\nThe post Executive Int…",
+      "original_title": "Executive Interview: ideaForge",
+      "url": "https://www.cbinsights.com/research/executive-interview-ideaforge/",
+      "source": "Cbinsights.com",
+      "domain": "cbinsights.com",
+      "published_at": "2026-10-01T19:39:14Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "c9330c342f3d86d3",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "Applied Optoelectronics Is Up 205% This Year. Is It Too Late to Buy AAOI Stock Now?",
+      "summary": "The post Applied Optoelectronics Is Up 205% This Year. Is It Too Late to Buy AAOI Stock Now? appeared first on 24/7 Wall St..\nFew hardware names have kept pace with Applied Optoelectronics (NASDAQ:AAOI) stock this year. Shares of the optical transceiver maker…",
+      "original_title": "Applied Optoelectronics Is Up 205% This Year. Is It Too Late to Buy AAOI Stock Now?",
+      "url": "https://biztoc.com/x/cba74bdabf828001",
+      "source": "Biztoc.com",
+      "domain": "biztoc.com",
+      "published_at": "2026-10-01T19:03:03Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "b8ee19eadc2adcd6",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2177,6 +2399,44 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "ad0e6cf497f10220",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "Samsung Galaxy Tab S12 Series Debuts: Dimensity 9500, Ultra-Thin Design, And 7 Years Of Updates",
+      "summary": "Samsung has officially unveiled the Galaxy Tab S12 Plus and Galaxy Tab S12 Ultra, targeting the premium mobile productivity and creative segments. Both high-end Android tablets run on the flagship 3nm MediaTek Dimensity 9500 processor, delivering an impressiv…",
+      "original_title": "Samsung Galaxy Tab S12 Series Debuts: Dimensity 9500, Ultra-Thin Design, And 7 Years Of Updates",
+      "url": "https://www.ubergizmo.com/2026/09/samsung-galaxy-tab-s12-series-debuts-dimensity-9500-ultra-thin-design-and-7-years-of-updates/",
+      "source": "Ubergizmo",
+      "domain": "ubergizmo.com",
+      "published_at": "2026-09-30T15:40:56Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "07614d5e2cb6ecc6",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2250,6 +2510,44 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "95d818f4a9a8ff45",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "11月9日に開催決定！物流業界のダボス会議「Logistics DX SUMMIT 2026 ～不確実性を突破するデータドリブンの意思決定～」参加登録を開始",
+      "summary": "[株式会社Shippio]\n[画像1: https://prcdn.freetls.fastly.net/release_image/25761/228/25761-228-bf347aa52460695bb42e811640f66eb8-2000x1123.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
+      "original_title": "11月9日に開催決定！物流業界のダボス会議「Logistics DX SUMMIT 2026 ～不確実性を突破するデータドリブンの意思決定～」参加登録を開始",
+      "url": "https://prtimes.jp/main/html/rd/p/000000228.000025761.html",
+      "source": "Prtimes.jp",
+      "domain": "prtimes.jp",
+      "published_at": "2026-09-30T06:30:00Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "d34a811fe9bf525f",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2288,17 +2586,17 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "94f527b4f42e00e9",
+      "id": "cbfaeb34110f2dcf",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "光通訊與矽光子",
-      "title": "Kia Malaysia establishes Shah Alam parts warehouse",
-      "summary": "Kia Sales Malaysia (KSM) has partnered PKT Logistics Group to establish a centralised parts warehouse at One Logistics Hub in Shah Alam. The circa-20,000-square feet facility is supported by nine dedicated staff. The warehouse targets […]\nThe post Kia Malaysi…",
-      "original_title": "Kia Malaysia establishes Shah Alam parts warehouse",
-      "url": "https://paultan.org/2026/09/30/kia-malaysia-establishes-shah-alam-parts-warehouse/",
-      "source": "Paul Tan's Automotive News",
-      "domain": "paultan.org",
-      "published_at": "2026-09-30T01:44:53Z",
+      "title": "Microchip Nd:YAG laser with master-oscillator–power-amplifier architecture",
+      "summary": "This work reports an integrated Nd:Y3Al5O12 laser–amplifier system based on a microchip master-oscillator–power-amplifier architecture. A double-resonant microring seed with a 2.9 μW threshold is combined with waveguide amplifiers, enabling continuous-wave ou…",
+      "original_title": "Microchip Nd:YAG laser with master-oscillator–power-amplifier architecture",
+      "url": "https://www.nature.com/articles/s41566-026-01984-2",
+      "source": "Nature.com",
+      "domain": "nature.com",
+      "published_at": "2026-09-30T00:00:00Z",
       "importance": 50,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -2326,95 +2624,19 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "c53f2d7b74216abc",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "The Papers: 'Burnham's triple shock' and 'City face expulsion'",
-      "summary": "Every front page on Wednesday is dominated by Prime Minister Andy Burnham's speech at the Labour Party conference.",
-      "original_title": "The Papers: 'Burnham's triple shock' and 'City face expulsion'",
-      "url": "https://www.bbc.co.uk/news/articles/crd941kkejy4o",
-      "source": "BBC News",
-      "domain": "bbc.co.uk",
-      "published_at": "2026-09-30T01:04:00Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "e14ad77c3d8a60ac",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "Mortgage rates hit 7.58%, approaching 3-year high",
-      "summary": "Mortgage rates closed in on 7.6% Tuesday as Treasury yields continued to move higher.The average 30-year fixed-rate mortgage rate hit 7.58% on Tuesday, per Mortgage News Daily. That's up 8 basis points from Monday, and is the highest level since November 2023…",
-      "original_title": "Mortgage rates hit 7.58%, approaching 3-year high",
-      "url": "https://finance.yahoo.com/markets/article/mortgage-rates-hit-758-approaching-3-year-high-165659395.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-09-29T16:56:59Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "efc5f787a78eccb3",
+      "id": "94f527b4f42e00e9",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "光通訊與矽光子",
-      "title": "Rayon raises €10M to bring AI and 3D to its interior design software",
-      "summary": "Rayon, the Paris-based startup that has created software allowing interior designers to draw floor plans in a web browser, announced that it has raised 10 million euros in its Series A financing round, with Partech as the lead investor. Northzone, Foundamenta…",
-      "original_title": "Rayon raises €10M to bring AI and 3D to its interior design software",
-      "url": "https://thenextweb.com/news/rayon-10m-series-a-partech-interior-design-ai",
-      "source": "The Next Web",
-      "domain": "thenextweb.com",
-      "published_at": "2026-09-29T10:30:37Z",
-      "importance": 50,
-      "impact": "positive",
+      "title": "Kia Malaysia establishes Shah Alam parts warehouse",
+      "summary": "Kia Sales Malaysia (KSM) has partnered PKT Logistics Group to establish a centralised parts warehouse at One Logistics Hub in Shah Alam. The circa-20,000-square feet facility is supported by nine dedicated staff. The warehouse targets […]\nThe post Kia Malaysi…",
+      "original_title": "Kia Malaysia establishes Shah Alam parts warehouse",
+      "url": "https://paultan.org/2026/09/30/kia-malaysia-establishes-shah-alam-parts-warehouse/",
+      "source": "Paul Tan's Automotive News",
+      "domain": "paultan.org",
+      "published_at": "2026-09-30T01:44:53Z",
+      "importance": 45,
+      "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
         "光通訊",
@@ -2437,55 +2659,20 @@
         "009",
         "010"
       ],
-      "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     },
     {
-      "id": "c095c129f1549655",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "Samsung Electronics says HBM to account for nearly 30% of industry DRAM capacity next year",
-      "summary": "SEOUL, Sept 29 : A Samsung Electronics executive said on Tuesday that high-bandwidth memory (HBM) is expected to account for nearly 30 per cent of Dynamic Random-Access Memory (DRAM) chipmakers' total wafer capacity next year, up from about 20 per cent curren…",
-      "original_title": "Samsung Electronics says HBM to account for nearly 30% of industry DRAM capacity next year",
-      "url": "https://www.channelnewsasia.com/business/samsung-electronics-says-hbm-account-nearly-30-industry-dram-capacity-next-year-6417091",
-      "source": "CNA",
-      "domain": "channelnewsasia.com",
-      "published_at": "2026-09-29T01:07:39Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "0ca113f3790c3083",
+      "id": "c53f2d7b74216abc",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "總體風險",
-      "title": "Could changing the pension triple lock pay for Burnham's big social care plan?",
-      "summary": "Burnham said he wants to change the pensions triple lock from 2030 to pay for his social care reform, but analysts have questioned whether it will raise enough money.",
-      "original_title": "Could changing the pension triple lock pay for Burnham's big social care plan?",
-      "url": "https://www.bbc.co.uk/news/articles/c63reg9dnex9o",
+      "title": "The Papers: 'Burnham's triple shock' and 'City face expulsion'",
+      "summary": "Every front page on Wednesday is dominated by Prime Minister Andy Burnham's speech at the Labour Party conference.",
+      "original_title": "The Papers: 'Burnham's triple shock' and 'City face expulsion'",
+      "url": "https://www.bbc.co.uk/news/articles/crd941kkejy4o",
       "source": "BBC News",
       "domain": "bbc.co.uk",
-      "published_at": "2026-09-29T19:58:58Z",
+      "published_at": "2026-09-30T01:04:00Z",
       "importance": 45,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -2511,193 +2698,6 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "eaa43cfeb115512f",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "Memory Companies Have Destroyed the Consumer Market",
-      "summary": "News Features Memory Companies Have Destroyed the Consumer Market September 29, 2026 Last Updated: 2026-09-29 The cyclical nature of memory manufacturing may finally be broken -- and not in a good way for consumers The Highlights The memory manufacturers have…",
-      "original_title": "Memory Companies Have Destroyed the Consumer Market",
-      "url": "http://gamersnexus.net/news-features/memory-companies-have-destroyed-consumer-market",
-      "source": "Gamersnexus.net",
-      "domain": "gamersnexus.net",
-      "published_at": "2026-09-29T19:27:41Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "48fd0cdc62504f2f",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "Who Makes GPUs Besides Nvidia And AMD?",
-      "summary": "The headline-dominating Nvidia is known the world over for its stake in AI and its GPUs. But besides AMD, who are the other players in the graphics card space?",
-      "original_title": "Who Makes GPUs Besides Nvidia And AMD?",
-      "url": "https://www.bgr.com/2268272/who-makes-gpus-besides-nvidia-amd/",
-      "source": "BGR",
-      "domain": "bgr.com",
-      "published_at": "2026-09-29T16:32:00Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "c6b8605bf4e5b236",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "Creator Business Motion Society Hires Ex-Spotify, Meta & Fullscreen Exec Chanel Simmons To Lead U.S. Operation",
-      "summary": "EXCLUSIVE: Creator economy business Motion Society has named former Spotify, Meta and Fullscreen exec Chanel Simmons as its new U.S. boss. She will become Managing Director, U.S., at the company, which works with around 650 creators and distributes more than …",
-      "original_title": "Creator Business Motion Society Hires Ex-Spotify, Meta & Fullscreen Exec Chanel Simmons To Lead U.S. Operation",
-      "url": "http://deadline.com/2026/09/motion-society-hires-ex-spotify-meta-fullscreen-exec-1237115983/",
-      "source": "Deadline",
-      "domain": "deadline.com",
-      "published_at": "2026-09-29T15:00:00Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "3f6a16270ac676a3",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "Meta gives small businesses an AI agent that knows their work",
-      "summary": "Meta has introduced Muse for Small Business, adding skills and connectors to its personal AI agent to help business owners get work done using the tools they already use. Muse launched earlier this month in the US and Canada and can complete tasks on a user’s…",
-      "original_title": "Meta gives small businesses an AI agent that knows their work",
-      "url": "https://www.helpnetsecurity.com/2026/09/29/meta-muse-for-small-business/",
-      "source": "Help Net Security",
-      "domain": "helpnetsecurity.com",
-      "published_at": "2026-09-29T12:45:45Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "6f61ef610f4635bf",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Trump weakens fuel efficiency standards. And, Cornell fraternity rape case reopened",
-      "summary": "The Trump administration has weakened fuel efficiency standards for new cars. And, prosecutors have reopened a Cornell University fraternity rape case.",
-      "original_title": "Trump weakens fuel efficiency standards. And, Cornell fraternity rape case reopened",
-      "url": "https://www.npr.org/2026/09/29/g-s1-145422/up-first-newsletter-fuel-efficiency-standards-cornell-rape-case-terror-suspects",
-      "source": "NPR",
-      "domain": "npr.org",
-      "published_at": "2026-09-29T11:36:24Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     }
   ]
 }
