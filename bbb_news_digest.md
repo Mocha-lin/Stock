@@ -1,5 +1,14 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-08T06:50:51.003936+00:00
+> 更新時間：2026-10-08T16:09:11.940246+00:00
+
+### 🚀 Sigurd raises prices, signs long AI capacity contracts, eyes higher 2026 capex
+- **題材**: `光通訊與矽光子` | **重要性**: `83`
+- **來源**: Digitimes (2026-10-07T07:35:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Taiwanese OSAT provider Sigurd Microelectronics and its subsidiary Winstek Semiconductor held a joint investor briefing on October 6. President Charles Yeh reported that surging demand across AI CPUs, GPUs, ASICs, silicon photonics, and memory is severely tig…
+- [原文連結](https://www.digitimes.com/news/a20261007PD228/sigurd-2026-capacity-osat-capex.html)
+
+---
 
 ### ⚖️ Repon revenue slips in September as Vera Rubin, ASIC slide rail shipments ramp up
 - **題材**: `AI伺服器` | **重要性**: `83`
@@ -16,15 +25,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Largan Precision will hold its earnings call on October 8, when the optical lens maker is due to report third-quarter results and outline its fourth-quarter outlook. With September revenue recovering and the company stepping up property acquisitions, investor…
 - [原文連結](https://www.digitimes.com/news/a20261007PD219/largan-precision-cpo-optical-lens-expansion-earnings.html)
-
----
-
-### ⚖️ Largan Precision sees steady smartphone lens demand as CPO fibre arrays near production
-- **題材**: `光通訊與矽光子` | **重要性**: `78`
-- **來源**: Digitimes (2026-10-05T10:08:21Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Largan Precision reported September consolidated revenue of NT$5.78 billion (US$181.99 million), up 15% from August but down 7% from a year earlier. Third-quarter revenue rose 15% sequentially to NT$15.65 billion.
-- [原文連結](https://www.digitimes.com/news/a20261005PD243/largan-precision-revenue-smartphone-demand-production.html)
 
 ---
 
@@ -73,6 +73,15 @@
 
 ---
 
+### ⚖️ Largan Precision sees steady smartphone lens demand as CPO fibre arrays near production
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-10-05T10:08:21Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Largan Precision reported September consolidated revenue of NT$5.78 billion (US$181.99 million), up 15% from August but down 7% from a year earlier. Third-quarter revenue rose 15% sequentially to NT$15.65 billion.
+- [原文連結](https://www.digitimes.com/news/a20261005PD243/largan-precision-revenue-smartphone-demand-production.html)
+
+---
+
 ### ⚖️ Global annual AI server shipments, 2025-2026
 - **題材**: `AI伺服器` | **重要性**: `73`
 - **來源**: Digitimes (2026-10-02T10:10:30Z)
@@ -106,15 +115,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: ficonTEC, a maker of optoelectronic automation assembly and test equipment, has announced a strategic partnership with Hermes Testing Solutions Inc. (HTSI) to support Taiwan's rapidly expanding co-packaged optics (CPO) ecosystem. The collaboration will initia…
 - [原文連結](https://www.digitimes.com/news/a20261001PD245/testing-cpo-equipment-automation-manufacturing.html)
-
----
-
-### ⚖️ ASE stake, expansion open doors for Machvision
-- **題材**: `半導體先進製程` | **重要性**: `68`
-- **來源**: Digitimes (2026-10-02T05:33:00Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: AI servers and advanced packaging continue to drive demand for semiconductor manufacturing, outsourced semiconductor assembly and test (OSAT), and equipment. Machvision said Advanced Semiconductor Engineering's (ASE's) expansion is helping make semiconductors…
-- [原文連結](https://www.digitimes.com/news/a20261001PD242/machvision-ase-equipment-expansion-packaging.html)
 
 ---
 
@@ -163,21 +163,21 @@
 
 ---
 
-### ⚖️ AI server lines accelerate automation, boosting cobot demand
-- **題材**: `AI伺服器` | **重要性**: `63`
-- **來源**: Digitimes (2026-10-05T03:58:31Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: The AI server boom is spreading into the market for collaborative robots (cobots). The share of cobots on AI server production lines is rising as Wiwynn expands their use at its Mexico and Texas plants, while Quanta has also deployed robotic arms from Techman…
-- [原文連結](https://www.digitimes.com/news/a20261005PD223/ai-server-automation-production-demand-mexico.html)
-
----
-
 ### ⚖️ Nvidia weighs PTFE and HC for glass-free PCBs in Rubin Ultra
 - **題材**: `AI伺服器` | **重要性**: `63`
 - **來源**: Digitimes (2026-10-02T07:57:48Z)
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Nvidia is testing glass-free PCB material systems for its next-generation AI server platforms, evaluating polytetrafluoroethylene (PTFE) and hydrocarbon (HC) resin formulations for possible use in the Rubin Ultra NVL576 Switch Tray, which is scheduled for mas…
 - [原文連結](https://www.digitimes.com/news/a20261002PD228/nvidia-rubin-pcb-testing-ai-server.html)
+
+---
+
+### ⚖️ BOE eyes closer ties with Samsung, LG as it pushes into chip packaging
+- **題材**: `半導體先進製程` | **重要性**: `63`
+- **來源**: Digitimes (2026-10-01T03:45:00Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: China's BOE Technology is seeking closer ties with Samsung Electronics and LG Electronics as the display maker expands beyond panels into semiconductor glass substrates and advanced packaging.
+- [原文連結](https://www.digitimes.com/news/a20260930VL222/boe-samsung-lg-packaging-display.html)
 
 ---
 
