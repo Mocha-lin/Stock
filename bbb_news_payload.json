@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-10-08T02:34:11.091026+00:00",
+  "generated_at": "2026-10-08T06:50:51.003936+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 72,
@@ -42,6 +42,44 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
+      "id": "92025855096c340c",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "Commentary: Largan earnings call spotlight — CPO, expansion and 4Q26 order momentum",
+      "summary": "Largan Precision will hold its earnings call on October 8, when the optical lens maker is due to report third-quarter results and outline its fourth-quarter outlook. With September revenue recovering and the company stepping up property acquisitions, investor…",
+      "original_title": "Commentary: Largan earnings call spotlight — CPO, expansion and 4Q26 order momentum",
+      "url": "https://www.digitimes.com/news/a20261007PD219/largan-precision-cpo-optical-lens-expansion-earnings.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-10-07T03:05:33Z",
+      "importance": 78,
+      "impact": "neutral",
+      "timeframe": "short_to_mid_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "16948fe14be4c390",
@@ -348,44 +386,6 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
-      "id": "a0480ebed3c12d2f",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "AI server lines accelerate automation, boosting cobot demand",
-      "summary": "The AI server boom is spreading into the market for collaborative robots (cobots). The share of cobots on AI server production lines is rising as Wiwynn expands their use at its Mexico and Texas plants, while Quanta has also deployed robotic arms from Techman…",
-      "original_title": "AI server lines accelerate automation, boosting cobot demand",
-      "url": "https://www.digitimes.com/news/a20261005PD223/ai-server-automation-production-demand-mexico.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-10-05T03:58:31Z",
-      "importance": 68,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "b67975221f45cac7",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -573,79 +573,6 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "d888b7a07fb7c0b7",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "BOE eyes closer ties with Samsung, LG as it pushes into chip packaging",
-      "summary": "China's BOE Technology is seeking closer ties with Samsung Electronics and LG Electronics as the display maker expands beyond panels into semiconductor glass substrates and advanced packaging.",
-      "original_title": "BOE eyes closer ties with Samsung, LG as it pushes into chip packaging",
-      "url": "https://www.digitimes.com/news/a20260930VL222/boe-samsung-lg-packaging-display.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-10-01T03:45:00Z",
-      "importance": 68,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "a09e7917527c94a1",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "Micron hikes 2027 HBM prices after missing 2026 memory surge on fixed contracts",
-      "summary": "Micron Technology has sharply raised 2027 prices for high-bandwidth memory (HBM), the stacked DRAM packaged with AI accelerators. The increase comes after a year in which fixed contract prices left HBM largely outside the memory price surge.",
-      "original_title": "Micron hikes 2027 HBM prices after missing 2026 memory surge on fixed contracts",
-      "url": "https://www.digitimes.com/news/a20261001VL206/micron-hbm-2027-dram-growth.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-10-01T02:56:21Z",
-      "importance": 68,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "97b541c3389b0396",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -722,44 +649,6 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "5217cd3fa91820e1",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "Surge in imports pushed U.S. trade deficit above $100 billion in August",
-      "summary": "The US trade deficit jumped to more than $100 billion in August as importers wrestled with a new round of President Trump's tariffs and continued to bring in billions of dollars' worth of components for AI data centers.The total gap: $105.6 billion, a 13.8% i…",
-      "original_title": "Surge in imports pushed U.S. trade deficit above $100 billion in August",
-      "url": "https://finance.yahoo.com/economy/article/us-trade-deficit-jumped-above-100-billion-in-august-134000859.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-10-06T13:40:00Z",
-      "importance": 65,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "a436059b58bb4744",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -793,6 +682,44 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "a0480ebed3c12d2f",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "AI server lines accelerate automation, boosting cobot demand",
+      "summary": "The AI server boom is spreading into the market for collaborative robots (cobots). The share of cobots on AI server production lines is rising as Wiwynn expands their use at its Mexico and Texas plants, while Quanta has also deployed robotic arms from Techman…",
+      "original_title": "AI server lines accelerate automation, boosting cobot demand",
+      "url": "https://www.digitimes.com/news/a20261005PD223/ai-server-automation-production-demand-mexico.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-10-05T03:58:31Z",
+      "importance": 63,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "d2013f99b730b979",
@@ -831,6 +758,79 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "d888b7a07fb7c0b7",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "BOE eyes closer ties with Samsung, LG as it pushes into chip packaging",
+      "summary": "China's BOE Technology is seeking closer ties with Samsung Electronics and LG Electronics as the display maker expands beyond panels into semiconductor glass substrates and advanced packaging.",
+      "original_title": "BOE eyes closer ties with Samsung, LG as it pushes into chip packaging",
+      "url": "https://www.digitimes.com/news/a20260930VL222/boe-samsung-lg-packaging-display.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-10-01T03:45:00Z",
+      "importance": 63,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "a09e7917527c94a1",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "Micron hikes 2027 HBM prices after missing 2026 memory surge on fixed contracts",
+      "summary": "Micron Technology has sharply raised 2027 prices for high-bandwidth memory (HBM), the stacked DRAM packaged with AI accelerators. The increase comes after a year in which fixed contract prices left HBM largely outside the memory price surge.",
+      "original_title": "Micron hikes 2027 HBM prices after missing 2026 memory surge on fixed contracts",
+      "url": "https://www.digitimes.com/news/a20261001VL206/micron-hbm-2027-dram-growth.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-10-01T02:56:21Z",
+      "importance": 63,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "7ca5d733d0a8e0a8",
@@ -1055,76 +1055,6 @@
       "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "f0cf26ba661523e4",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "South Korea’s exports hit record high on AI boom",
-      "summary": "Exports jump 83.5 percent to top $120bn for the first time amid ferocious semiconductor demand.",
-      "original_title": "South Korea’s exports hit record high on AI boom",
-      "url": "https://www.aljazeera.com/economy/2026/10/1/south-koreas-exports-hit-record-high-on-ai-boom",
-      "source": "Al Jazeera English",
-      "domain": "aljazeera.com",
-      "published_at": "2026-10-01T04:08:15Z",
-      "importance": 60,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "854316dd24ecfa9c",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "Micron’s DRAM Revenue Shot Up 343% Compared to Last Year, Courtesy of RAM Shortage",
-      "summary": "Soaring AI demand and surging RAM prices are making bank for Micron, the U.S.'s only high-bandwidth memory manufacturer.",
-      "original_title": "Micron’s DRAM Revenue Shot Up 343% Compared to Last Year, Courtesy of RAM Shortage",
-      "url": "https://gizmodo.com/microns-dram-revenue-shot-up-343-compared-to-last-year-courtesy-of-ram-shortage-2000819979",
-      "source": "Gizmodo.com",
-      "domain": "gizmodo.com",
-      "published_at": "2026-10-01T02:56:04Z",
-      "importance": 60,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "3c0fb48b97820fad",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1158,6 +1088,44 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "c671042f88f6cd2c",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "US stock market hits all-time high as investors bet big on AI",
+      "summary": "The benchmark S&P 500 is up 14 percent this year despite elevated oil prices and US government debt sell-off.",
+      "original_title": "US stock market hits all-time high as investors bet big on AI",
+      "url": "https://www.aljazeera.com/economy/2026/10/7/us-stock-market-hits-all-time-high-as-investors-bet-big-on-ai",
+      "source": "Al Jazeera English",
+      "domain": "aljazeera.com",
+      "published_at": "2026-10-07T03:27:20Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "ffb4a1bd15246f51",
@@ -1234,44 +1202,6 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "8d5747210925c344",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "CIG and ml&s Group to Establish High-Speed Optical Module Production in Arteaga, Coahuila, Mexico",
-      "summary": "ARTEAGA, COAHUILA, Mexico — CIG and ml&s Group are pleased to announce that, through their joint venture and in collaboration with CPT, a key strategic partner, they will establish production of high-speed optical modules, including Near-Packaged Optics (NPO)…",
-      "original_title": "CIG and ml&s Group to Establish High-Speed Optical Module Production in Arteaga, Coahuila, Mexico",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/cig-and-mls-group-to-establish-high-speed-optical-module-production-in-arteaga-coahuila-mexico",
-      "source": "Financial Post",
-      "domain": "financialpost.com",
-      "published_at": "2026-10-06T17:08:52Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "0c5f0adfb219b1c5",
@@ -1535,44 +1465,6 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "4c13fb274ee9e7f4",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "JEDEC 發表首個矽光子可靠度標準，加速 AI 與資料中心大規模應用",
-      "summary": "JEDEC 固態技術協會（JEDEC Solid State Technology Association）美東時間 2 日發表 JESD264《Silicon Photonics Qualification and Reliability Requirements》，為矽光子元件建立一致的資格認證...",
-      "original_title": "JEDEC 發表首個矽光子可靠度標準，加速 AI 與資料中心大規模應用",
-      "url": "https://technews.tw/2026/10/05/jesd264-silicon-photonics-qualification-and-reliability-requirements/",
-      "source": "Technews.tw",
-      "domain": "technews.tw",
-      "published_at": "2026-10-05T03:50:13Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "88991d3abce18c0b",
@@ -1985,6 +1877,114 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "f0cf26ba661523e4",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "South Korea’s exports hit record high on AI boom",
+      "summary": "Exports jump 83.5 percent to top $120bn for the first time amid ferocious semiconductor demand.",
+      "original_title": "South Korea’s exports hit record high on AI boom",
+      "url": "https://www.aljazeera.com/economy/2026/10/1/south-koreas-exports-hit-record-high-on-ai-boom",
+      "source": "Al Jazeera English",
+      "domain": "aljazeera.com",
+      "published_at": "2026-10-01T04:08:15Z",
+      "importance": 55,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "854316dd24ecfa9c",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "Micron’s DRAM Revenue Shot Up 343% Compared to Last Year, Courtesy of RAM Shortage",
+      "summary": "Soaring AI demand and surging RAM prices are making bank for Micron, the U.S.'s only high-bandwidth memory manufacturer.",
+      "original_title": "Micron’s DRAM Revenue Shot Up 343% Compared to Last Year, Courtesy of RAM Shortage",
+      "url": "https://gizmodo.com/microns-dram-revenue-shot-up-343-compared-to-last-year-courtesy-of-ram-shortage-2000819979",
+      "source": "Gizmodo.com",
+      "domain": "gizmodo.com",
+      "published_at": "2026-10-01T02:56:04Z",
+      "importance": 55,
+      "impact": "negative",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "4c13fb274ee9e7f4",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "JEDEC 發表首個矽光子可靠度標準，加速 AI 與資料中心大規模應用",
+      "summary": "JEDEC 固態技術協會（JEDEC Solid State Technology Association）美東時間 2 日發表 JESD264《Silicon Photonics Qualification and Reliability Requirements》，為矽光子元件建立一致的資格認證...",
+      "original_title": "JEDEC 發表首個矽光子可靠度標準，加速 AI 與資料中心大規模應用",
+      "url": "https://technews.tw/2026/10/05/jesd264-silicon-photonics-qualification-and-reliability-requirements/",
+      "source": "Technews.tw",
+      "domain": "technews.tw",
+      "published_at": "2026-10-05T03:50:13Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "391bfdd9f10c73b9",

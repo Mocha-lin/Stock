@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-08T02:34:11.091026+00:00
+> 更新時間：2026-10-08T06:50:51.003936+00:00
 
 ### ⚖️ Repon revenue slips in September as Vera Rubin, ASIC slide rail shipments ramp up
 - **題材**: `AI伺服器` | **重要性**: `83`
@@ -7,6 +7,15 @@
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: The AI server supply chain is poised for a stronger quarter as Nvidia's Vera Rubin and AWS's Trainium 3 gradually ramp up, with momentum expected to strengthen across the supply chain from ODMs to component suppliers.
 - [原文連結](https://www.digitimes.com/news/a20261006PD237/repon-ai-server-slide-rails-asic-revenue-supply-chain.html)
+
+---
+
+### ⚖️ Commentary: Largan earnings call spotlight — CPO, expansion and 4Q26 order momentum
+- **題材**: `光通訊與矽光子` | **重要性**: `78`
+- **來源**: Digitimes (2026-10-07T03:05:33Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Largan Precision will hold its earnings call on October 8, when the optical lens maker is due to report third-quarter results and outline its fourth-quarter outlook. With September revenue recovering and the company stepping up property acquisitions, investor…
+- [原文連結](https://www.digitimes.com/news/a20261007PD219/largan-precision-cpo-optical-lens-expansion-earnings.html)
 
 ---
 
@@ -82,15 +91,6 @@
 
 ---
 
-### ⚖️ AI server lines accelerate automation, boosting cobot demand
-- **題材**: `AI伺服器` | **重要性**: `68`
-- **來源**: Digitimes (2026-10-05T03:58:31Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: The AI server boom is spreading into the market for collaborative robots (cobots). The share of cobots on AI server production lines is rising as Wiwynn expands their use at its Mexico and Texas plants, while Quanta has also deployed robotic arms from Techman…
-- [原文連結](https://www.digitimes.com/news/a20261005PD223/ai-server-automation-production-demand-mexico.html)
-
----
-
 ### ⚖️ Podcast highlights: TSMC Texas plant talk is premature, Intel 18A hits backfiring criticism
 - **題材**: `半導體先進製程` | **重要性**: `68`
 - **來源**: Digitimes (2026-10-04T23:44:58Z)
@@ -136,24 +136,6 @@
 
 ---
 
-### ⚖️ BOE eyes closer ties with Samsung, LG as it pushes into chip packaging
-- **題材**: `半導體先進製程` | **重要性**: `68`
-- **來源**: Digitimes (2026-10-01T03:45:00Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: China's BOE Technology is seeking closer ties with Samsung Electronics and LG Electronics as the display maker expands beyond panels into semiconductor glass substrates and advanced packaging.
-- [原文連結](https://www.digitimes.com/news/a20260930VL222/boe-samsung-lg-packaging-display.html)
-
----
-
-### 🚀 Micron hikes 2027 HBM prices after missing 2026 memory surge on fixed contracts
-- **題材**: `HBM記憶體` | **重要性**: `68`
-- **來源**: Digitimes (2026-10-01T02:56:21Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Micron Technology has sharply raised 2027 prices for high-bandwidth memory (HBM), the stacked DRAM packaged with AI accelerators. The increase comes after a year in which fixed contract prices left HBM largely outside the memory price surge.
-- [原文連結](https://www.digitimes.com/news/a20261001VL206/micron-hbm-2027-dram-growth.html)
-
----
-
 ### 🚀 DIGITIMES Insight: AI scaling is moving from chip shrinkage to system integration
 - **題材**: `半導體先進製程` | **重要性**: `68`
 - **來源**: Digitimes (2026-10-01T01:35:57Z)
@@ -172,12 +154,30 @@
 
 ---
 
-### ⚖️ Surge in imports pushed U.S. trade deficit above $100 billion in August
-- **題材**: `總體風險` | **重要性**: `65`
-- **來源**: Yahoo Entertainment (2026-10-06T13:40:00Z)
-- **AI 判讀**: 屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: The US trade deficit jumped to more than $100 billion in August as importers wrestled with a new round of President Trump's tariffs and continued to bring in billions of dollars' worth of components for AI data centers.The total gap: $105.6 billion, a 13.8% i…
-- [原文連結](https://finance.yahoo.com/economy/article/us-trade-deficit-jumped-above-100-billion-in-august-134000859.html)
+### 🚀 RAM Maker Celebrates Record Profits And Predicts ‘Even Higher Prices’ And ‘Greater Tightness In The Industry’ In The Years Ahead
+- **題材**: `HBM記憶體` | **重要性**: `65`
+- **來源**: Kotaku (2026-10-01T23:00:22Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Micron doesn't see the AI bubble popping any time soon
+- [原文連結](https://kotaku.com/ram-maker-celebrates-record-profits-and-predicts-even-higher-prices-and-greater-tightness-in-the-industry-in-the-years-ahead-2000739125)
+
+---
+
+### ⚖️ AI server lines accelerate automation, boosting cobot demand
+- **題材**: `AI伺服器` | **重要性**: `63`
+- **來源**: Digitimes (2026-10-05T03:58:31Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: The AI server boom is spreading into the market for collaborative robots (cobots). The share of cobots on AI server production lines is rising as Wiwynn expands their use at its Mexico and Texas plants, while Quanta has also deployed robotic arms from Techman…
+- [原文連結](https://www.digitimes.com/news/a20261005PD223/ai-server-automation-production-demand-mexico.html)
+
+---
+
+### ⚖️ Nvidia weighs PTFE and HC for glass-free PCBs in Rubin Ultra
+- **題材**: `AI伺服器` | **重要性**: `63`
+- **來源**: Digitimes (2026-10-02T07:57:48Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Nvidia is testing glass-free PCB material systems for its next-generation AI server platforms, evaluating polytetrafluoroethylene (PTFE) and hydrocarbon (HC) resin formulations for possible use in the Rubin Ultra NVL576 Switch Tray, which is scheduled for mas…
+- [原文連結](https://www.digitimes.com/news/a20261002PD228/nvidia-rubin-pcb-testing-ai-server.html)
 
 ---
 
