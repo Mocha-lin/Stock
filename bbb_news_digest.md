@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-08T16:09:11.940246+00:00
+> 更新時間：2026-10-08T19:02:49.839465+00:00
 
 ### 🚀 Sigurd raises prices, signs long AI capacity contracts, eyes higher 2026 capex
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -145,12 +145,12 @@
 
 ---
 
-### ⚖️ Data Center Cables Market to Reach $27.29 Billion by 2035, DC Market Insights Finds
-- **題材**: `光通訊與矽光子` | **重要性**: `65`
-- **來源**: PRNewswire (2026-10-06T18:21:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: AI data centers are reshaping cabling economics, with cabling spend per MW more than twice that of conventional facilities; fiber optic cables held 47.6% of the global market in 2025 LONDON, Oct. 6, 2026 /PRNewswire/ -- The global Data Center Cables Market wa…
-- [原文連結](https://www.prnewswire.com/news-releases/data-center-cables-market-to-reach-27-29-billion-by-2035--dc-market-insights-finds-302900173.html)
+### 🚀 Is the Surface Laptop Ultra a gaming PC? Let me explain.
+- **題材**: `AI伺服器` | **重要性**: `65`
+- **來源**: Windows Central (2026-10-07T17:50:47Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Microsoft's Surface Laptop Ultra is now available for preorder, and I know a lot of people are wondering if it's worth buying as a dedicated gaming PC. Here's why you probably want to think twice before making a final decision.
+- [原文連結](https://www.windowscentral.com/hardware/surface/surface-laptop-ultra-gaming-pc-rtx-spark)
 
 ---
 
