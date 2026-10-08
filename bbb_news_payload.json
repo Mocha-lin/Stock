@@ -1,10 +1,48 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-10-07T19:06:26.931493+00:00",
+  "generated_at": "2026-10-08T02:34:11.091026+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 72,
   "items": [
+    {
+      "id": "90671ba57b727194",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Repon revenue slips in September as Vera Rubin, ASIC slide rail shipments ramp up",
+      "summary": "The AI server supply chain is poised for a stronger quarter as Nvidia's Vera Rubin and AWS's Trainium 3 gradually ramp up, with momentum expected to strengthen across the supply chain from ODMs to component suppliers.",
+      "original_title": "Repon revenue slips in September as Vera Rubin, ASIC slide rail shipments ramp up",
+      "url": "https://www.digitimes.com/news/a20261006PD237/repon-ai-server-slide-rails-asic-revenue-supply-chain.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-10-07T00:42:51Z",
+      "importance": 83,
+      "impact": "neutral",
+      "timeframe": "short_to_mid_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
     {
       "id": "16948fe14be4c390",
       "dataset": "market_news",
@@ -20,6 +58,44 @@
       "importance": 78,
       "impact": "neutral",
       "timeframe": "short_to_mid_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
+      "id": "13a2de6d801f55ec",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "Huawei's NPO bet challenges CPO's path to AI scale",
+      "summary": "Huawei is backing near-packaged optics (NPO) rather than co-packaged optics (CPO) for its next-generation AI infrastructure, arguing that NPO offers a better balance of cost, manufacturability, reliability and serviceability as optical interconnects move deep…",
+      "original_title": "Huawei's NPO bet challenges CPO's path to AI scale",
+      "url": "https://www.digitimes.com/news/a20261007VL203/huawei-cpo-optics-ascend-cost.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-10-07T01:55:00Z",
+      "importance": 73,
+      "impact": "neutral",
+      "timeframe": "short_term",
       "tags": [
         "光通訊",
         "CPO",
@@ -196,44 +272,6 @@
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
-      "id": "b67975221f45cac7",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "Podcast highlights: TSMC Texas plant talk is premature, Intel 18A hits backfiring criticism",
-      "summary": "This excerpt from DIGITIMES analyst Luke Lin's podcast looks at TSMC's rumored Texas expansion, Intel's 14A and 18A process debate, and Qualcomm's high bandwidth compute (HBC) push as AI workloads drive demand for hybrid bonding and advanced packaging.",
-      "original_title": "Podcast highlights: TSMC Texas plant talk is premature, Intel 18A hits backfiring criticism",
-      "url": "https://www.digitimes.com/news/a20261002PD227/tsmc-intel-texas-digitimes-arizona.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-10-04T23:44:58Z",
-      "importance": 73,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
       "id": "115376494db6305d",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -310,82 +348,6 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
-      "id": "97b541c3389b0396",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "DIGITIMES Insight: AI scaling is moving from chip shrinkage to system integration",
-      "summary": "TSMC said the next phase of AI performance growth will depend less on shrinking a single chip and more on combining multiple chips, memory, and advanced packaging inside larger systems. The shift could reshape semiconductor competition, as demand for compute,…",
-      "original_title": "DIGITIMES Insight: AI scaling is moving from chip shrinkage to system integration",
-      "url": "https://www.digitimes.com/news/a20261001PD204/tsmc-cowos-performance-packaging-technology.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-10-01T01:35:57Z",
-      "importance": 73,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
-      "id": "623089ff4a4a74e5",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "GlobalFoundries Singapore capacity utilization tops 90% as silicon photonics expansion hits equipment lead-time bottleneck",
-      "summary": "GlobalFoundries (GF) is expanding its Singapore footprint following its acquisition of local silicon photonics foundry Advanced Micro Foundry (AMF), integrating 200mm and 300mm silicon photonics technologies while transferring its existing US 300mm capabiliti…",
-      "original_title": "GlobalFoundries Singapore capacity utilization tops 90% as silicon photonics expansion hits equipment lead-time bottleneck",
-      "url": "https://www.digitimes.com/news/a20260929PD228/globalfoundries-silicon-photonics-equipment-capacity.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-09-30T00:38:31Z",
-      "importance": 73,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
       "id": "a0480ebed3c12d2f",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -422,6 +384,44 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "b67975221f45cac7",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "Podcast highlights: TSMC Texas plant talk is premature, Intel 18A hits backfiring criticism",
+      "summary": "This excerpt from DIGITIMES analyst Luke Lin's podcast looks at TSMC's rumored Texas expansion, Intel's 14A and 18A process debate, and Qualcomm's high bandwidth compute (HBC) push as AI workloads drive demand for hybrid bonding and advanced packaging.",
+      "original_title": "Podcast highlights: TSMC Texas plant talk is premature, Intel 18A hits backfiring criticism",
+      "url": "https://www.digitimes.com/news/a20261002PD227/tsmc-intel-texas-digitimes-arizona.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-10-04T23:44:58Z",
+      "importance": 68,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "8419ed66a74a90a6",
@@ -462,6 +462,82 @@
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "881edefb48217321",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "ASE stake, expansion open doors for Machvision",
+      "summary": "AI servers and advanced packaging continue to drive demand for semiconductor manufacturing, outsourced semiconductor assembly and test (OSAT), and equipment. Machvision said Advanced Semiconductor Engineering's (ASE's) expansion is helping make semiconductors…",
+      "original_title": "ASE stake, expansion open doors for Machvision",
+      "url": "https://www.digitimes.com/news/a20261001PD242/machvision-ase-equipment-expansion-packaging.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-10-02T05:33:00Z",
+      "importance": 68,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "d39a9e5294d1757c",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "JCET Group partners with Wuxi to advance 2.5D advanced packaging facilities",
+      "summary": "JCET Group signed an agreement on September 29 for a high-end advanced packaging and testing project in Wuxi, Jiangsu Province. Wuxi municipal leadership pledged operational support to help JCET scale its manufacturing footprint, promoting regional integratio…",
+      "original_title": "JCET Group partners with Wuxi to advance 2.5D advanced packaging facilities",
+      "url": "https://www.digitimes.com/news/a20261002VL207/jcet-packaging-high-end-manufacturing-silicon.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-10-02T03:44:39Z",
+      "importance": 68,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "f6774eba54f2df05",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -497,6 +573,44 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "d888b7a07fb7c0b7",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "BOE eyes closer ties with Samsung, LG as it pushes into chip packaging",
+      "summary": "China's BOE Technology is seeking closer ties with Samsung Electronics and LG Electronics as the display maker expands beyond panels into semiconductor glass substrates and advanced packaging.",
+      "original_title": "BOE eyes closer ties with Samsung, LG as it pushes into chip packaging",
+      "url": "https://www.digitimes.com/news/a20260930VL222/boe-samsung-lg-packaging-display.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-10-01T03:45:00Z",
+      "importance": 68,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "a09e7917527c94a1",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -530,6 +644,44 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "97b541c3389b0396",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "DIGITIMES Insight: AI scaling is moving from chip shrinkage to system integration",
+      "summary": "TSMC said the next phase of AI performance growth will depend less on shrinking a single chip and more on combining multiple chips, memory, and advanced packaging inside larger systems. The shift could reshape semiconductor competition, as demand for compute,…",
+      "original_title": "DIGITIMES Insight: AI scaling is moving from chip shrinkage to system integration",
+      "url": "https://www.digitimes.com/news/a20261001PD204/tsmc-cowos-performance-packaging-technology.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-10-01T01:35:57Z",
+      "importance": 68,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "dd5fd0811afa630f",
@@ -568,6 +720,44 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "5217cd3fa91820e1",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "Surge in imports pushed U.S. trade deficit above $100 billion in August",
+      "summary": "The US trade deficit jumped to more than $100 billion in August as importers wrestled with a new round of President Trump's tariffs and continued to bring in billions of dollars' worth of components for AI data centers.The total gap: $105.6 billion, a 13.8% i…",
+      "original_title": "Surge in imports pushed U.S. trade deficit above $100 billion in August",
+      "url": "https://finance.yahoo.com/economy/article/us-trade-deficit-jumped-above-100-billion-in-august-134000859.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-10-06T13:40:00Z",
+      "importance": 65,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "a436059b58bb4744",
@@ -792,6 +982,79 @@
       "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "6ad8fe15883a638b",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "NVIDIA Could Account for 37% of 2027 HBM Capacity, Worth $279 Billion",
+      "summary": "NVIDIA's supply commitments climbed to $279 billion in the quarter ended July 26, up from $119 billion the quarter before. The company says the increase is primarily related to memory procurement. Morgan Stanley estimates that NVIDIA has claimed about 37.3% o…",
+      "original_title": "NVIDIA Could Account for 37% of 2027 HBM Capacity, Worth $279 Billion",
+      "url": "https://www.techpowerup.com/353306/nvidia-could-account-for-37-of-2027-hbm-capacity-worth-usd-279-billion",
+      "source": "Techpowerup.com",
+      "domain": "techpowerup.com",
+      "published_at": "2026-10-01T15:24:29Z",
+      "importance": 60,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "3e2800aad987abaf",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "(PR) AI Server Demand Sustains Memory Contract Price Increases in 4Q26, While Consumer-Side Pressure Persists",
+      "summary": "TrendForce's latest memory industry research reveals that DRAM suppliers continue to prioritize advanced-process capacity for high-performance server products in 4Q26, keeping the overall market undersupplied. However, the pace of contract price increases is …",
+      "original_title": "(PR) AI Server Demand Sustains Memory Contract Price Increases in 4Q26, While Consumer-Side Pressure Persists",
+      "url": "https://www.techpowerup.com/353292/ai-server-demand-sustains-memory-contract-price-increases-in-4q26-while-consumer-side-pressure-persists",
+      "source": "Techpowerup.com",
+      "domain": "techpowerup.com",
+      "published_at": "2026-10-01T09:44:50Z",
+      "importance": 60,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "f0cf26ba661523e4",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -862,117 +1125,6 @@
       "reason": "屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "b2ecaddfb938dbfc",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "Celestica poised for growth as Google and OpenAI push data center demand",
-      "summary": "Celestica's growth hinges on hyperscaler investments, highlighting the critical role of custom hardware in the evolving AI infrastructure landscape.\nThe post Celestica poised for growth as Google and OpenAI push data center demand appeared first on Crypto Bri…",
-      "original_title": "Celestica poised for growth as Google and OpenAI push data center demand",
-      "url": "https://cryptobriefing.com/celestica-growth-data-center-google-openai/",
-      "source": "Crypto Briefing",
-      "domain": "cryptobriefing.com",
-      "published_at": "2026-09-30T16:38:16Z",
-      "importance": 60,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "7e872b85da1aff87",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "Netlist challenges Micron, Nvidia, Broadcom, Google over alleged HBM patent use",
-      "summary": "Netlist has begun legal proceedings against Micron and downstream customers Nvidia, Broadcom, and Google to stop them from allegedly using the company's patented high-bandwidth memory (HBM) technology without authorization. The case arrives as AI applications…",
-      "original_title": "Netlist challenges Micron, Nvidia, Broadcom, Google over alleged HBM patent use",
-      "url": "https://www.digitimes.com/news/a20260930VL219/micron-patent-nvidia-broadcom-hbm.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-09-30T08:42:54Z",
-      "importance": 58,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "b7794304bdd02f89",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "TSMC reportedly evaluates Texas fabs as US regional competition intensifies",
-      "summary": "TSMC is reportedly evaluating whether to build a second US manufacturing hub in Texas, potentially housing up to 6 advanced wafer fabs, as its US footprint continues to expand. The move follows the company's establishment of a massive semiconductor cluster in…",
-      "original_title": "TSMC reportedly evaluates Texas fabs as US regional competition intensifies",
-      "url": "https://www.digitimes.com/news/a20260930PD215/tsmc-texas-fab-arizona-ic-manufacturing.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-09-30T02:07:21Z",
-      "importance": 58,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "3c0fb48b97820fad",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1006,6 +1158,44 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "ffb4a1bd15246f51",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "AMD CEO Lisa Su Says 2027 Will Bring a \"Substantial\" Supply Increase",
+      "summary": "AMD will \"substantially\" increase its chip supply in 2027, CEO Lisa Su told reporters in Taipei on Tuesday, while admitting that demand is still running ahead of what the company can ship. Su is on her third trip to Taiwan this year, meeting partners such as …",
+      "original_title": "AMD CEO Lisa Su Says 2027 Will Bring a \"Substantial\" Supply Increase",
+      "url": "https://www.techpowerup.com/353445/amd-ceo-lisa-su-says-2027-will-bring-a-substantial-supply-increase",
+      "source": "Techpowerup.com",
+      "domain": "techpowerup.com",
+      "published_at": "2026-10-06T23:01:27Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "665cbcf71f9f25ea",
@@ -1044,6 +1234,44 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "8d5747210925c344",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "CIG and ml&s Group to Establish High-Speed Optical Module Production in Arteaga, Coahuila, Mexico",
+      "summary": "ARTEAGA, COAHUILA, Mexico — CIG and ml&s Group are pleased to announce that, through their joint venture and in collaboration with CPT, a key strategic partner, they will establish production of high-speed optical modules, including Near-Packaged Optics (NPO)…",
+      "original_title": "CIG and ml&s Group to Establish High-Speed Optical Module Production in Arteaga, Coahuila, Mexico",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/cig-and-mls-group-to-establish-high-speed-optical-module-production-in-arteaga-coahuila-mexico",
+      "source": "Financial Post",
+      "domain": "financialpost.com",
+      "published_at": "2026-10-06T17:08:52Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "0c5f0adfb219b1c5",
@@ -1347,19 +1575,19 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "391bfdd9f10c73b9",
+      "id": "88991d3abce18c0b",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "總體風險",
-      "title": "'Money-grab' or celebration? NFL kicks off London series",
-      "summary": "The NFL kicked off this season's series of London games on Sunday but the build-up was overshadowed by anger from long-term fans over ticket prices.",
-      "original_title": "'Money-grab' or celebration? NFL kicks off London series",
-      "url": "https://www.bbc.co.uk/sport/american-football/articles/cqwyrlk27e7ro",
-      "source": "BBC News",
-      "domain": "bbc.co.uk",
-      "published_at": "2026-10-04T20:36:03Z",
+      "title": "Heating oil costs could jump 50% this winter and add nearly $900 to bills",
+      "summary": "The ongoing global energy crunch doesn't just cause pain at the gas pump: As winter approaches, millions of Americans are facing dramatic spikes in their home heating costs.  The price of heating oil, which some 4.8 million households, mostly in the Northeast…",
+      "original_title": "Heating oil costs could jump 50% this winter and add nearly $900 to bills",
+      "url": "https://finance.yahoo.com/economy/article/a-lot-of-sticker-shock-home-heating-costs-soar-for-millions-amid-oil-crisis-160853971.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-10-04T16:08:53Z",
       "importance": 55,
-      "impact": "neutral",
+      "impact": "positive",
       "timeframe": "short_term",
       "tags": [
         "總體",
@@ -1382,7 +1610,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "b042ed2c287c90b1",
@@ -1497,6 +1725,44 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "ecf4a7387f12cbe9",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "Samsung starts mass producing Exynos 2700 chip, Galaxy S27 Ultra decision still up in the air",
+      "summary": "Samsung has begun mass production of the Exynos 2700 chipset, according to Korean publication The Elec. The company has reportedly set the production target “more than 10% higher” than the Exynos 2600 target to account for the new addition to the S-series fam…",
+      "original_title": "Samsung starts mass producing Exynos 2700 chip, Galaxy S27 Ultra decision still up in the air",
+      "url": "https://www.gsmarena.com/samsung_starts_mass_producing_exynos_2700_chip_galaxy_s27_ultra_decision_still_up_in_the_air-news-74879.php",
+      "source": "GSMArena.com",
+      "domain": "gsmarena.com",
+      "published_at": "2026-10-02T18:41:02Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "9e91671017c0a727",
@@ -1721,6 +1987,44 @@
       "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "391bfdd9f10c73b9",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "'Money-grab' or celebration? NFL kicks off London series",
+      "summary": "The NFL kicked off this season's series of London games on Sunday but the build-up was overshadowed by anger from long-term fans over ticket prices.",
+      "original_title": "'Money-grab' or celebration? NFL kicks off London series",
+      "url": "https://www.bbc.co.uk/sport/american-football/articles/cqwyrlk27e7ro",
+      "source": "BBC News",
+      "domain": "bbc.co.uk",
+      "published_at": "2026-10-04T20:36:03Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "553abc6bf9659d11",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1792,6 +2096,44 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "139d2e4f472475d2",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "G7 nations bow to US pressure and avoid crippling diesel ban",
+      "summary": "Crude oil prices eased after G7 leaders bowed to US President Donald Trump’s demand to release oil and diesel reserves.",
+      "original_title": "G7 nations bow to US pressure and avoid crippling diesel ban",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/g7-nations-bow-to-us-pressure-and-avoid-crippling-diesel-ban",
+      "source": "Al Jazeera English",
+      "domain": "aljazeera.com",
+      "published_at": "2026-10-03T03:54:58Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "e16c28f8f7e82fbd",
@@ -2133,6 +2475,120 @@
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "95860e9057af96b0",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "Executive Interview: ideaForge",
+      "summary": "Ezhilan Nanmaran, Chief Product Officer (CPO) of ideaForge, tells CB Insights how they view the market, customer needs, and their company.   How do you define your market and where does your company fit into that space? ideaForge is a …\nThe post Executive Int…",
+      "original_title": "Executive Interview: ideaForge",
+      "url": "https://www.cbinsights.com/research/executive-interview-ideaforge/",
+      "source": "Cbinsights.com",
+      "domain": "cbinsights.com",
+      "published_at": "2026-10-01T19:39:14Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "c9330c342f3d86d3",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "Applied Optoelectronics Is Up 205% This Year. Is It Too Late to Buy AAOI Stock Now?",
+      "summary": "The post Applied Optoelectronics Is Up 205% This Year. Is It Too Late to Buy AAOI Stock Now? appeared first on 24/7 Wall St..\nFew hardware names have kept pace with Applied Optoelectronics (NASDAQ:AAOI) stock this year. Shares of the optical transceiver maker…",
+      "original_title": "Applied Optoelectronics Is Up 205% This Year. Is It Too Late to Buy AAOI Stock Now?",
+      "url": "https://biztoc.com/x/cba74bdabf828001",
+      "source": "Biztoc.com",
+      "domain": "biztoc.com",
+      "published_at": "2026-10-01T19:03:03Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "fedf25d1657114d7",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "Raising Your Prices Can Help You Fight Rising Customer Acquisition Costs (But Only If You’re Careful)",
+      "summary": "Acquiring new customers costs more than ever. But you can only raise your prices if the value you’re offering is clear.",
+      "original_title": "Raising Your Prices Can Help You Fight Rising Customer Acquisition Costs (But Only If You’re Careful)",
+      "url": "https://www.entrepreneur.com/building-a-business/raising-your-prices-can-help-you-fight-rising-customer-acquisition-costs-but-only-if-youre-careful",
+      "source": "Entrepreneur",
+      "domain": "entrepreneur.com",
+      "published_at": "2026-10-01T17:00:00Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "b8ee19eadc2adcd6",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2220,310 +2676,6 @@
       "source": "Thoughtbot.com",
       "domain": "thoughtbot.com",
       "published_at": "2026-10-01T00:00:00Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "c2571656c173b89e",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Amazon WorkSpaces Core Managed Instances adds support for NVIDIA Blackwell GPU",
-      "summary": "Amazon WorkSpaces Core Managed Instances now supports Graphics G7 instances, powered by NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs and Intel Xeon 6 processors. G7 instances deliver up to 2.1X better performance for graphics-intensive workloads compared…",
-      "original_title": "Amazon WorkSpaces Core Managed Instances adds support for NVIDIA Blackwell GPU",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-workspaces-cmi-g7/",
-      "source": "Amazon.com",
-      "domain": "aws.amazon.com",
-      "published_at": "2026-09-30T23:59:00Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "16b64f61875903de",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "iPad Mini 8 to Offer These 10 New Features",
-      "summary": "Last week, our exclusive leak revealed that the next-generation iPad mini will feature Apple's latest A20 Pro chip, a landscape front camera, and a redesigned speaker system, but that is not all, as plenty of other upgrades have been rumored.\n\n\n\n\n\nHere are 10…",
-      "original_title": "iPad Mini 8 to Offer These 10 New Features",
-      "url": "https://www.macrumors.com/2026/09/30/ipad-mini-8-rumored-features/",
-      "source": "MacRumors",
-      "domain": "macrumors.com",
-      "published_at": "2026-09-30T15:54:51Z",
-      "importance": 50,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "0871b8aa1eaa3cc5",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Diners Are Back in Restaurants, but Popeyes and Buffalo Wild Wings Still Want a Spot in Your Pantry",
-      "summary": "The Franchise 500 chains are rolling out Pringles and take-home biscuits even as restaurant spending rebounds.",
-      "original_title": "Diners Are Back in Restaurants, but Popeyes and Buffalo Wild Wings Still Want a Spot in Your Pantry",
-      "url": "https://www.entrepreneur.com/buying-a-franchise/diners-are-back-in-restaurants-but-popeyes-and-buffalo-wild-wings-still-want-a-spot-in-your-pantry",
-      "source": "Entrepreneur",
-      "domain": "entrepreneur.com",
-      "published_at": "2026-09-30T14:00:00Z",
-      "importance": 50,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "57f2cb643f2d1de7",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "Trump's tariffs are back in court — again",
-      "summary": "Containers are seen at the container terminal of Nanjing Port, in China's eastern Jiangsu province on September 8, 2026. Most Chinese goods shipped to the United States have faced a minimum 12.5% tax. - AFP/Getty Images\r\nHere we go again: President Donald Tru…",
-      "original_title": "Trump's tariffs are back in court — again",
-      "url": "https://finance.yahoo.com/economy/policy/articles/trump-tariffs-back-court-again-090029904.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-09-30T13:08:31Z",
-      "importance": 50,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "94be38f1db169b2a",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "Trump's tariffs are back in court — again",
-      "summary": "Containers are seen at the container terminal of Nanjing Port, in China's eastern Jiangsu province on September 8, 2026. Most Chinese goods shipped to the United States have faced a minimum 12.5% tax. - AFP/Getty Images\r\n\nHere we go again: President Donald Tr…",
-      "original_title": "Trump's tariffs are back in court — again",
-      "url": "https://www.cnn.com/2026/09/30/economy/trumps-tariffs-are-back-in-court-again",
-      "source": "CNN",
-      "domain": "cnn.com",
-      "published_at": "2026-09-30T09:00:29Z",
-      "importance": 50,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "2df673c304e2f008",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "Samsung’s new tablets arrive more expensive, and its tracker lasts longer",
-      "summary": "Samsung’s Galaxy Tab S12+ and S12 Ultra reach Europe on 7 October at 1,299 and 1,539 euros, roughly 180 euros above the model the first replaces, against a 100 dollar rise in America. The entry-level 11-inch tablet was not updated, which is what the memory sh…",
-      "original_title": "Samsung’s new tablets arrive more expensive, and its tracker lasts longer",
-      "url": "https://thenextweb.com/news/samsung-tab-s12-europe-price-memory",
-      "source": "The Next Web",
-      "domain": "thenextweb.com",
-      "published_at": "2026-09-30T17:41:29Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "2d4877273da77de0",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "Glass arc OPPO Find X10 series wallpapers",
-      "summary": "Download OPPO Find X10 Pro Max series wallpapers in blue, gray, salmon, and olive, featuring a glass-arc slab for your iPhone or Android.",
-      "original_title": "Glass arc OPPO Find X10 series wallpapers",
-      "url": "https://www.idownloadblog.com/2026/09/30/oppo-find-x10-wallpapers/",
-      "source": "Idownloadblog.com",
-      "domain": "idownloadblog.com",
-      "published_at": "2026-09-30T17:30:55Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "07614d5e2cb6ecc6",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "Could a treadmill make you a better runner than an Apple Watch? Peloton CPO Nick Caldwell and CMO Megan Imbres believe the Peloton Tread Vision's AI cameras offer 'much higher accuracy' than wearables",
-      "summary": "I tried Peloton's new redesigned Tread Vision and its AI feedback, and interviewed the company's chief product and marketing officers about its new features.",
-      "original_title": "Could a treadmill make you a better runner than an Apple Watch? Peloton CPO Nick Caldwell and CMO Megan Imbres believe the Peloton Tread Vision's AI cameras offer 'much higher accuracy' than wearables",
-      "url": "https://www.techradar.com/health-fitness/exercise-equipment/could-a-treadmill-make-you-a-better-runner-than-an-apple-watch-peloton-cpo-nick-caldwell-and-cmo-megan-imbres-believe-the-peloton-tread-visions-ai-cameras-offer-much-higher-accuracy-than-wearables",
-      "source": "TechRadar",
-      "domain": "techradar.com",
-      "published_at": "2026-09-30T15:36:40Z",
       "importance": 45,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -2549,155 +2701,6 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "520fb28d86127e2d",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "NVIDIA CEO Jensen Huang happy to cooperate with Samsung for the next 33 years",
-      "summary": "NVIDIA has emerged as an instrumental part of the semiconductor industry. The company develops AI chips that are in high demand, and it also needs to work together with its industry partners like Samsung to maintain competitiveness. The company already has a …",
-      "original_title": "NVIDIA CEO Jensen Huang happy to cooperate with Samsung for the next 33 years",
-      "url": "https://www.sammobile.com/news/nvidia-ceo-jensen-huang-happy-to-cooperate-with-samsung-for-the-next-33-years/",
-      "source": "SamMobile",
-      "domain": "sammobile.com",
-      "published_at": "2026-09-30T08:06:34Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "d34a811fe9bf525f",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "The iQOO 16 raises the bar with a 165Hz display and 8,400mAh cell",
-      "summary": "Forget the Galaxy S26 Ultra — the iQOO 16 just set the battery bar higher.",
-      "original_title": "The iQOO 16 raises the bar with a 165Hz display and 8,400mAh cell",
-      "url": "https://www.androidcentral.com/phones/vivo/the-iqoo-16-raises-the-bar-with-a-165hz-display-and-8-400mah-cell",
-      "source": "Android Central",
-      "domain": "androidcentral.com",
-      "published_at": "2026-09-30T06:28:52Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "94f527b4f42e00e9",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "Kia Malaysia establishes Shah Alam parts warehouse",
-      "summary": "Kia Sales Malaysia (KSM) has partnered PKT Logistics Group to establish a centralised parts warehouse at One Logistics Hub in Shah Alam. The circa-20,000-square feet facility is supported by nine dedicated staff. The warehouse targets […]\nThe post Kia Malaysi…",
-      "original_title": "Kia Malaysia establishes Shah Alam parts warehouse",
-      "url": "https://paultan.org/2026/09/30/kia-malaysia-establishes-shah-alam-parts-warehouse/",
-      "source": "Paul Tan's Automotive News",
-      "domain": "paultan.org",
-      "published_at": "2026-09-30T01:44:53Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "c53f2d7b74216abc",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "The Papers: 'Burnham's triple shock' and 'City face expulsion'",
-      "summary": "Every front page on Wednesday is dominated by Prime Minister Andy Burnham's speech at the Labour Party conference.",
-      "original_title": "The Papers: 'Burnham's triple shock' and 'City face expulsion'",
-      "url": "https://www.bbc.co.uk/news/articles/crd941kkejy4o",
-      "source": "BBC News",
-      "domain": "bbc.co.uk",
-      "published_at": "2026-09-30T01:04:00Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     }
   ]
 }
