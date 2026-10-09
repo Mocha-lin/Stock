@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-09T02:48:43.915256+00:00
+> 更新時間：2026-10-09T06:59:35.609019+00:00
 
 ### 🚀 Sigurd raises prices, signs long AI capacity contracts, eyes higher 2026 capex
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -46,6 +46,15 @@
 
 ---
 
+### 🚀 AUO subsidiary Darwin shifts toward high-end manufacturing, explores CPO and semiconductor opportunities
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-10-08T03:59:06Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: As AUO deepens its push into co-packaged optics (CPO), its subsidiary Darwin Precisions is also exploring opportunities in the semiconductor sector, leveraging its expertise in precision and ultra-precision machining and precision molds.
+- [原文連結](https://www.digitimes.com/news/a20261008PD220/auo-cpo-subsidiary-manufacturing-optics.html)
+
+---
+
 ### ⚖️ DIGITIMES Insight: HBM expansion raises the bar for memory offload
 - **題材**: `HBM記憶體` | **重要性**: `73`
 - **來源**: Digitimes (2026-10-07T06:55:00Z)
@@ -70,33 +79,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Taiwan's National Science and Technology Council (NSTC) has launched two research programs targeting silicon photonics (SiPh) and next-generation AI data center power systems, seeking to address energy and performance bottlenecks as high-speed computing shift…
 - [原文連結](https://www.digitimes.com/news/a20261006PD216/siph-cpo-academia-data-center-taiwan.html)
-
----
-
-### 🚀 3.2T optical upgrade triggers PCB redesign, shrinking supplier pool to 3
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-10-06T04:15:35Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: As AI computing clusters continue to expand, performance requirements for scale-out interconnects between racks are rising rapidly. This is pushing traditional pluggable optical transceivers from 800G to 1.6T and accelerating the transition toward future 3.2T…
-- [原文連結](https://www.digitimes.com/news/a20261006PD217/pcb-supplier-manufacturing-performance-hpc.html)
-
----
-
-### ⚖️ Samsung steps up HBM cooling as TSMC expands CoWoS
-- **題材**: `半導體先進製程` | **重要性**: `73`
-- **來源**: Digitimes (2026-10-06T04:15:08Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Samsung Electronics is expanding its thermal-management efforts for high-bandwidth memory (HBM) beyond the memory stack as increasingly large chip packages raise heat-management challenges.
-- [原文連結](https://www.digitimes.com/news/a20261006VL210/samsung-hbm-cooling-tsmc-cowos.html)
-
----
-
-### 🚀 Jedec unveils new standard for silicon photonics reliability qualification and testing
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-10-06T03:52:28Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Jedec released a new standard for silicon photonics (SiPh) testing and manufacturing controls to promote consistent reliability practices. The standard comes as SiPh experiences rapid growth due to its potential to replace copper interconnects amid AI infrast…
-- [原文連結](https://www.digitimes.com/news/a20261006VL209/jedec-siph-testing-manufacturing.html)
 
 ---
 
@@ -127,6 +109,33 @@
 
 ---
 
+### 🚀 3.2T optical upgrade triggers PCB redesign, shrinking supplier pool to 3
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-10-06T04:15:35Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: As AI computing clusters continue to expand, performance requirements for scale-out interconnects between racks are rising rapidly. This is pushing traditional pluggable optical transceivers from 800G to 1.6T and accelerating the transition toward future 3.2T…
+- [原文連結](https://www.digitimes.com/news/a20261006PD217/pcb-supplier-manufacturing-performance-hpc.html)
+
+---
+
+### ⚖️ Samsung steps up HBM cooling as TSMC expands CoWoS
+- **題材**: `半導體先進製程` | **重要性**: `68`
+- **來源**: Digitimes (2026-10-06T04:15:08Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Samsung Electronics is expanding its thermal-management efforts for high-bandwidth memory (HBM) beyond the memory stack as increasingly large chip packages raise heat-management challenges.
+- [原文連結](https://www.digitimes.com/news/a20261006VL210/samsung-hbm-cooling-tsmc-cowos.html)
+
+---
+
+### 🚀 Jedec unveils new standard for silicon photonics reliability qualification and testing
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-10-06T03:52:28Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Jedec released a new standard for silicon photonics (SiPh) testing and manufacturing controls to promote consistent reliability practices. The standard comes as SiPh experiences rapid growth due to its potential to replace copper interconnects amid AI infrast…
+- [原文連結](https://www.digitimes.com/news/a20261006VL209/jedec-siph-testing-manufacturing.html)
+
+---
+
 ### ⚖️ Podcast highlights: TSMC Texas plant talk is premature, Intel 18A hits backfiring criticism
 - **題材**: `半導體先進製程` | **重要性**: `68`
 - **來源**: Digitimes (2026-10-04T23:44:58Z)
@@ -145,24 +154,6 @@
 
 ---
 
-### ⚖️ ASE stake, expansion open doors for Machvision
-- **題材**: `半導體先進製程` | **重要性**: `68`
-- **來源**: Digitimes (2026-10-02T05:33:00Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: AI servers and advanced packaging continue to drive demand for semiconductor manufacturing, outsourced semiconductor assembly and test (OSAT), and equipment. Machvision said Advanced Semiconductor Engineering's (ASE's) expansion is helping make semiconductors…
-- [原文連結](https://www.digitimes.com/news/a20261001PD242/machvision-ase-equipment-expansion-packaging.html)
-
----
-
-### ⚖️ JCET Group partners with Wuxi to advance 2.5D advanced packaging facilities
-- **題材**: `半導體先進製程` | **重要性**: `68`
-- **來源**: Digitimes (2026-10-02T03:44:39Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: JCET Group signed an agreement on September 29 for a high-end advanced packaging and testing project in Wuxi, Jiangsu Province. Wuxi municipal leadership pledged operational support to help JCET scale its manufacturing footprint, promoting regional integratio…
-- [原文連結](https://www.digitimes.com/news/a20261002VL207/jcet-packaging-high-end-manufacturing-silicon.html)
-
----
-
 ### ⚖️ Advanced packaging race expands beyond chipmakers as display, materials, equipment suppliers chase new footholds
 - **題材**: `半導體先進製程` | **重要性**: `68`
 - **來源**: Digitimes (2026-10-02T02:16:23Z)
@@ -172,12 +163,21 @@
 
 ---
 
-### ⚖️ Data Center Cables Market to Reach $27.29 Billion by 2035, DC Market Insights Finds
-- **題材**: `光通訊與矽光子` | **重要性**: `65`
-- **來源**: PRNewswire (2026-10-06T18:21:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: AI data centers are reshaping cabling economics, with cabling spend per MW more than twice that of conventional facilities; fiber optic cables held 47.6% of the global market in 2025 LONDON, Oct. 6, 2026 /PRNewswire/ -- The global Data Center Cables Market wa…
-- [原文連結](https://www.prnewswire.com/news-releases/data-center-cables-market-to-reach-27-29-billion-by-2035--dc-market-insights-finds-302900173.html)
+### ⚖️ Nvidia weighs PTFE and HC for glass-free PCBs in Rubin Ultra
+- **題材**: `AI伺服器` | **重要性**: `63`
+- **來源**: Digitimes (2026-10-02T07:57:48Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Nvidia is testing glass-free PCB material systems for its next-generation AI server platforms, evaluating polytetrafluoroethylene (PTFE) and hydrocarbon (HC) resin formulations for possible use in the Rubin Ultra NVL576 Switch Tray, which is scheduled for mas…
+- [原文連結](https://www.digitimes.com/news/a20261002PD228/nvidia-rubin-pcb-testing-ai-server.html)
+
+---
+
+### ⚖️ ASE stake, expansion open doors for Machvision
+- **題材**: `半導體先進製程` | **重要性**: `63`
+- **來源**: Digitimes (2026-10-02T05:33:00Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: AI servers and advanced packaging continue to drive demand for semiconductor manufacturing, outsourced semiconductor assembly and test (OSAT), and equipment. Machvision said Advanced Semiconductor Engineering's (ASE's) expansion is helping make semiconductors…
+- [原文連結](https://www.digitimes.com/news/a20261001PD242/machvision-ase-equipment-expansion-packaging.html)
 
 ---
 

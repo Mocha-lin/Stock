@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-10-09T02:48:43.915256+00:00",
+  "generated_at": "2026-10-09T06:59:35.609019+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 72,
@@ -193,6 +193,44 @@
       "reason": "屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
+      "id": "b19f7a10d3199b04",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "AUO subsidiary Darwin shifts toward high-end manufacturing, explores CPO and semiconductor opportunities",
+      "summary": "As AUO deepens its push into co-packaged optics (CPO), its subsidiary Darwin Precisions is also exploring opportunities in the semiconductor sector, leveraging its expertise in precision and ultra-precision machining and precision molds.",
+      "original_title": "AUO subsidiary Darwin shifts toward high-end manufacturing, explores CPO and semiconductor opportunities",
+      "url": "https://www.digitimes.com/news/a20261008PD220/auo-cpo-subsidiary-manufacturing-optics.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-10-08T03:59:06Z",
+      "importance": 73,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
       "id": "4ebb836ab98f3b64",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -304,120 +342,6 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
-      "id": "693b4b9372b28801",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "3.2T optical upgrade triggers PCB redesign, shrinking supplier pool to 3",
-      "summary": "As AI computing clusters continue to expand, performance requirements for scale-out interconnects between racks are rising rapidly. This is pushing traditional pluggable optical transceivers from 800G to 1.6T and accelerating the transition toward future 3.2T…",
-      "original_title": "3.2T optical upgrade triggers PCB redesign, shrinking supplier pool to 3",
-      "url": "https://www.digitimes.com/news/a20261006PD217/pcb-supplier-manufacturing-performance-hpc.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-10-06T04:15:35Z",
-      "importance": 73,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
-      "id": "769a636e3ec278c9",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "Samsung steps up HBM cooling as TSMC expands CoWoS",
-      "summary": "Samsung Electronics is expanding its thermal-management efforts for high-bandwidth memory (HBM) beyond the memory stack as increasingly large chip packages raise heat-management challenges.",
-      "original_title": "Samsung steps up HBM cooling as TSMC expands CoWoS",
-      "url": "https://www.digitimes.com/news/a20261006VL210/samsung-hbm-cooling-tsmc-cowos.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-10-06T04:15:08Z",
-      "importance": 73,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
-      "id": "1a2ee5eea8978f0f",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "Jedec unveils new standard for silicon photonics reliability qualification and testing",
-      "summary": "Jedec released a new standard for silicon photonics (SiPh) testing and manufacturing controls to promote consistent reliability practices. The standard comes as SiPh experiences rapid growth due to its potential to replace copper interconnects amid AI infrast…",
-      "original_title": "Jedec unveils new standard for silicon photonics reliability qualification and testing",
-      "url": "https://www.digitimes.com/news/a20261006VL209/jedec-siph-testing-manufacturing.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-10-06T03:52:28Z",
-      "importance": 73,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
       "id": "16948fe14be4c390",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -526,6 +450,120 @@
       "reason": "屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
+      "id": "693b4b9372b28801",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "3.2T optical upgrade triggers PCB redesign, shrinking supplier pool to 3",
+      "summary": "As AI computing clusters continue to expand, performance requirements for scale-out interconnects between racks are rising rapidly. This is pushing traditional pluggable optical transceivers from 800G to 1.6T and accelerating the transition toward future 3.2T…",
+      "original_title": "3.2T optical upgrade triggers PCB redesign, shrinking supplier pool to 3",
+      "url": "https://www.digitimes.com/news/a20261006PD217/pcb-supplier-manufacturing-performance-hpc.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-10-06T04:15:35Z",
+      "importance": 68,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "769a636e3ec278c9",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "Samsung steps up HBM cooling as TSMC expands CoWoS",
+      "summary": "Samsung Electronics is expanding its thermal-management efforts for high-bandwidth memory (HBM) beyond the memory stack as increasingly large chip packages raise heat-management challenges.",
+      "original_title": "Samsung steps up HBM cooling as TSMC expands CoWoS",
+      "url": "https://www.digitimes.com/news/a20261006VL210/samsung-hbm-cooling-tsmc-cowos.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-10-06T04:15:08Z",
+      "importance": 68,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "1a2ee5eea8978f0f",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "Jedec unveils new standard for silicon photonics reliability qualification and testing",
+      "summary": "Jedec released a new standard for silicon photonics (SiPh) testing and manufacturing controls to promote consistent reliability practices. The standard comes as SiPh experiences rapid growth due to its potential to replace copper interconnects amid AI infrast…",
+      "original_title": "Jedec unveils new standard for silicon photonics reliability qualification and testing",
+      "url": "https://www.digitimes.com/news/a20261006VL209/jedec-siph-testing-manufacturing.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-10-06T03:52:28Z",
+      "importance": 68,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "b67975221f45cac7",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -602,82 +640,6 @@
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "881edefb48217321",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "ASE stake, expansion open doors for Machvision",
-      "summary": "AI servers and advanced packaging continue to drive demand for semiconductor manufacturing, outsourced semiconductor assembly and test (OSAT), and equipment. Machvision said Advanced Semiconductor Engineering's (ASE's) expansion is helping make semiconductors…",
-      "original_title": "ASE stake, expansion open doors for Machvision",
-      "url": "https://www.digitimes.com/news/a20261001PD242/machvision-ase-equipment-expansion-packaging.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-10-02T05:33:00Z",
-      "importance": 68,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "d39a9e5294d1757c",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "JCET Group partners with Wuxi to advance 2.5D advanced packaging facilities",
-      "summary": "JCET Group signed an agreement on September 29 for a high-end advanced packaging and testing project in Wuxi, Jiangsu Province. Wuxi municipal leadership pledged operational support to help JCET scale its manufacturing footprint, promoting regional integratio…",
-      "original_title": "JCET Group partners with Wuxi to advance 2.5D advanced packaging facilities",
-      "url": "https://www.digitimes.com/news/a20261002VL207/jcet-packaging-high-end-manufacturing-silicon.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-10-02T03:44:39Z",
-      "importance": 68,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "283b1495beed8d3d",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -716,44 +678,6 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "dd5fd0811afa630f",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "Data Center Cables Market to Reach $27.29 Billion by 2035, DC Market Insights Finds",
-      "summary": "AI data centers are reshaping cabling economics, with cabling spend per MW more than twice that of conventional facilities; fiber optic cables held 47.6% of the global market in 2025 LONDON, Oct. 6, 2026 /PRNewswire/ -- The global Data Center Cables Market wa…",
-      "original_title": "Data Center Cables Market to Reach $27.29 Billion by 2035, DC Market Insights Finds",
-      "url": "https://www.prnewswire.com/news-releases/data-center-cables-market-to-reach-27-29-billion-by-2035--dc-market-insights-finds-302900173.html",
-      "source": "PRNewswire",
-      "domain": "prnewswire.com",
-      "published_at": "2026-10-06T18:21:00Z",
-      "importance": 65,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "d2013f99b730b979",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -790,6 +714,82 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "881edefb48217321",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "ASE stake, expansion open doors for Machvision",
+      "summary": "AI servers and advanced packaging continue to drive demand for semiconductor manufacturing, outsourced semiconductor assembly and test (OSAT), and equipment. Machvision said Advanced Semiconductor Engineering's (ASE's) expansion is helping make semiconductors…",
+      "original_title": "ASE stake, expansion open doors for Machvision",
+      "url": "https://www.digitimes.com/news/a20261001PD242/machvision-ase-equipment-expansion-packaging.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-10-02T05:33:00Z",
+      "importance": 63,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "d39a9e5294d1757c",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "JCET Group partners with Wuxi to advance 2.5D advanced packaging facilities",
+      "summary": "JCET Group signed an agreement on September 29 for a high-end advanced packaging and testing project in Wuxi, Jiangsu Province. Wuxi municipal leadership pledged operational support to help JCET scale its manufacturing footprint, promoting regional integratio…",
+      "original_title": "JCET Group partners with Wuxi to advance 2.5D advanced packaging facilities",
+      "url": "https://www.digitimes.com/news/a20261002VL207/jcet-packaging-high-end-manufacturing-silicon.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-10-02T03:44:39Z",
+      "importance": 63,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "f6774eba54f2df05",
@@ -2627,44 +2627,6 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "e503b30e8a478bcd",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "Zack Polanski to call for three-year cap on private rent rises",
-      "summary": "In his speech to his party's conference, the Green leader will frame housing as a key issue of generational fairness.",
-      "original_title": "Zack Polanski to call for three-year cap on private rent rises",
-      "url": "https://www.bbc.co.uk/news/articles/cq74e4jg9leno",
-      "source": "BBC News",
-      "domain": "bbc.co.uk",
-      "published_at": "2026-10-02T05:31:54Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "9d022ae586fbd934",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2701,6 +2663,44 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "e503b30e8a478bcd",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "Zack Polanski to call for three-year cap on private rent rises",
+      "summary": "In his speech to his party's conference, the Green leader will frame housing as a key issue of generational fairness.",
+      "original_title": "Zack Polanski to call for three-year cap on private rent rises",
+      "url": "https://www.bbc.co.uk/news/articles/cq74e4jg9leno",
+      "source": "BBC News",
+      "domain": "bbc.co.uk",
+      "published_at": "2026-10-02T05:31:54Z",
+      "importance": 45,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     }
   ]
 }
