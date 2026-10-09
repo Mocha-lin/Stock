@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-09T15:50:42.542260+00:00
+> 更新時間：2026-10-09T18:33:24.931648+00:00
 
 ### 🚀 Sigurd raises prices, signs long AI capacity contracts, eyes higher 2026 capex
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -7,15 +7,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Taiwanese OSAT provider Sigurd Microelectronics and its subsidiary Winstek Semiconductor held a joint investor briefing on October 6. President Charles Yeh reported that surging demand across AI CPUs, GPUs, ASICs, silicon photonics, and memory is severely tig…
 - [原文連結](https://www.digitimes.com/news/a20261007PD228/sigurd-2026-capacity-osat-capex.html)
-
----
-
-### ⚖️ Repon revenue slips in September as Vera Rubin, ASIC slide rail shipments ramp up
-- **題材**: `AI伺服器` | **重要性**: `83`
-- **來源**: Digitimes (2026-10-07T00:42:51Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: The AI server supply chain is poised for a stronger quarter as Nvidia's Vera Rubin and AWS's Trainium 3 gradually ramp up, with momentum expected to strengthen across the supply chain from ODMs to component suppliers.
-- [原文連結](https://www.digitimes.com/news/a20261006PD237/repon-ai-server-slide-rails-asic-revenue-supply-chain.html)
 
 ---
 
@@ -37,6 +28,15 @@
 
 ---
 
+### ⚖️ GlobalFoundries to produce silicon interposers for TSMC's CoWoS in the US — Five-year agreement valued at $2 billion
+- **題材**: `半導體先進製程` | **重要性**: `77`
+- **來源**: Tom's Hardware UK (2026-10-08T18:23:28Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: GlobalFoundries becomes a part of TSMC's CoWoS supply chain in the U.S.: set to participate in production of leading-edge AI and HPC accelerators without investing in leading-edge process technologies.
+- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/globalfoundries-to-produce-silicon-interposers-for-tsmcs-cowos-in-the-us-five-year-agreement-valued-at-usd2-billion)
+
+---
+
 ### 🚀 AMD seeks 'broader partnership' with Samsung as it looks to secure memory supply
 - **題材**: `半導體先進製程` | **重要性**: `77`
 - **來源**: Tom's Hardware UK (2026-10-08T12:30:00Z)
@@ -46,21 +46,21 @@
 
 ---
 
+### 🚀 TSMC taps GlobalFoundries to bolster US silicon interposer production in $2B deal
+- **題材**: `AI伺服器` | **重要性**: `75`
+- **來源**: Theregister.com (2026-10-08T17:22:32Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Advanced packaging tech is essential to the domestic production of high-performance semiconductors used in AI datacenters
+- [原文連結](https://www.theregister.com/systems/2026/10/08/tsmc-taps-globalfoundries-to-bolster-us-silicon-interposer-production-in-2b-deal/5302061)
+
+---
+
 ### 🚀 AUO subsidiary Darwin shifts toward high-end manufacturing, explores CPO and semiconductor opportunities
 - **題材**: `光通訊與矽光子` | **重要性**: `73`
 - **來源**: Digitimes (2026-10-08T03:59:06Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: As AUO deepens its push into co-packaged optics (CPO), its subsidiary Darwin Precisions is also exploring opportunities in the semiconductor sector, leveraging its expertise in precision and ultra-precision machining and precision molds.
 - [原文連結](https://www.digitimes.com/news/a20261008PD220/auo-cpo-subsidiary-manufacturing-optics.html)
-
----
-
-### ⚖️ DIGITIMES Insight: HBM expansion raises the bar for memory offload
-- **題材**: `HBM記憶體` | **重要性**: `73`
-- **來源**: Digitimes (2026-10-07T06:55:00Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: The boundary for adopting external capacity is changing, as workloads that previously needed memory offload because of insufficient high-bandwidth memory (HBM) can now run directly on next-generation GPUs. As a result, demand for external capacity is shifting…
-- [原文連結](https://www.digitimes.com/news/a20261007PD233/capacity-hbm-expansion-data-gpu.html)
 
 ---
 
