@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-08T19:02:49.839465+00:00
+> 更新時間：2026-10-09T02:48:43.915256+00:00
 
 ### 🚀 Sigurd raises prices, signs long AI capacity contracts, eyes higher 2026 capex
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -19,12 +19,39 @@
 
 ---
 
+### ⚠️ 27 Samsung, SK Hynix veterans joined China's CXMT, study shows
+- **題材**: `HBM記憶體` | **重要性**: `78`
+- **來源**: Digitimes (2026-10-07T23:51:01Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: An investigation by a South Korean lawmaker's office revealed that former Samsung Electronics and SK Hynix personnel who transitioned to Chinese DRAM maker ChangXin Memory Technologies (CXMT) spanned key stages of semiconductor development and mass production…
+- [原文連結](https://www.digitimes.com/news/a20261007PD234/cxmt-samsung-sk-hynix-talent-poaching.html)
+
+---
+
 ### ⚖️ Commentary: Largan earnings call spotlight — CPO, expansion and 4Q26 order momentum
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
 - **來源**: Digitimes (2026-10-07T03:05:33Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Largan Precision will hold its earnings call on October 8, when the optical lens maker is due to report third-quarter results and outline its fourth-quarter outlook. With September revenue recovering and the company stepping up property acquisitions, investor…
 - [原文連結](https://www.digitimes.com/news/a20261007PD219/largan-precision-cpo-optical-lens-expansion-earnings.html)
+
+---
+
+### 🚀 Hua Yang, Zeiss launch COSMA-M for chip metrology
+- **題材**: `半導體先進製程` | **重要性**: `78`
+- **來源**: Digitimes (2026-10-07T00:44:08Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Hua Yang Precision Machinery has teamed up with Zeiss to launch COSMA-M, a high-precision measurement system aimed at the semiconductor metrology market as demand surges from AI, high-performance computing (HPC), and advanced packaging.
+- [原文連結](https://www.digitimes.com/news/a20261006PD231/metrology-launch-packaging-equipment-inspection.html)
+
+---
+
+### ⚖️ DIGITIMES Insight: HBM expansion raises the bar for memory offload
+- **題材**: `HBM記憶體` | **重要性**: `73`
+- **來源**: Digitimes (2026-10-07T06:55:00Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: The boundary for adopting external capacity is changing, as workloads that previously needed memory offload because of insufficient high-bandwidth memory (HBM) can now run directly on next-generation GPUs. As a result, demand for external capacity is shifting…
+- [原文連結](https://www.digitimes.com/news/a20261007PD233/capacity-hbm-expansion-data-gpu.html)
 
 ---
 
@@ -82,21 +109,21 @@
 
 ---
 
-### ⚖️ Global annual AI server shipments, 2025-2026
-- **題材**: `AI伺服器` | **重要性**: `73`
-- **來源**: Digitimes (2026-10-02T10:10:30Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Continued advances in top-tier LLM capabilities, coupled with the potential for business automation enabled by agentic AI, are prompting major North American cloud providers, Neo Clouds, and leading AI labs to accelerate AI data center buildouts in 2026.
-- [原文連結](https://www.digitimes.com/reports/item.php?id=20261001RS400)
+### 🚀 Nanya Tech expands 3D OSAT to chase HBM-like demand
+- **題材**: `HBM記憶體` | **重要性**: `73`
+- **來源**: Digitimes (2026-10-04T23:45:53Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Nanya Technology is stepping up investment in new factory capacity to expand packaging and testing as some customers move into trial production for specification-based designs. The company said it has won approval from the National Science and Technology Coun…
+- [原文連結](https://www.digitimes.com/news/a20261002PD230/nanya-technology-3d-demand-osat-plant.html)
 
 ---
 
-### ⚖️ Advanced packaging race expands beyond chipmakers as display, materials, equipment suppliers chase new footholds
-- **題材**: `半導體先進製程` | **重要性**: `73`
-- **來源**: Digitimes (2026-10-02T02:16:23Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: The race to commercialize advanced packaging is widening beyond traditional chipmakers and display panel makers. As fan-out panel-level packaging (FOPLP), through-glass via, and micro-LED optical communications move closer to mass production, semiconductor eq…
-- [原文連結](https://www.digitimes.com/news/a20261002PD208/packaging-equipment-materials-display-chipmakers.html)
+### 🚀 AI chip boom pushes Samsung profits to record $80bn
+- **題材**: `HBM記憶體` | **重要性**: `70`
+- **來源**: BBC News (2026-10-08T01:31:56Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: The tech giant is also expected to get a boost from its latest folding devices that were launched in August.
+- [原文連結](https://www.bbc.co.uk/news/articles/c687z8127302o)
 
 ---
 
@@ -118,6 +145,15 @@
 
 ---
 
+### ⚖️ ASE stake, expansion open doors for Machvision
+- **題材**: `半導體先進製程` | **重要性**: `68`
+- **來源**: Digitimes (2026-10-02T05:33:00Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: AI servers and advanced packaging continue to drive demand for semiconductor manufacturing, outsourced semiconductor assembly and test (OSAT), and equipment. Machvision said Advanced Semiconductor Engineering's (ASE's) expansion is helping make semiconductors…
+- [原文連結](https://www.digitimes.com/news/a20261001PD242/machvision-ase-equipment-expansion-packaging.html)
+
+---
+
 ### ⚖️ JCET Group partners with Wuxi to advance 2.5D advanced packaging facilities
 - **題材**: `半導體先進製程` | **重要性**: `68`
 - **來源**: Digitimes (2026-10-02T03:44:39Z)
@@ -127,57 +163,21 @@
 
 ---
 
-### ⚖️ Micron eyes NVHBM profits with TSMC custom HBM push
-- **題材**: `HBM記憶體` | **重要性**: `68`
-- **來源**: Digitimes (2026-10-02T02:42:07Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Micron is using an externally manufactured base die in NVHBM, a custom high-bandwidth memory (HBM) product it is co-developing with Nvidia, as the company bets that customization can unlock added value even when manufacturing is outsourced. The move underscor…
-- [原文連結](https://www.digitimes.com/news/a20261002PD216/micron-hbm-dram-bandwidth-design.html)
-
----
-
-### 🚀 DIGITIMES Insight: AI scaling is moving from chip shrinkage to system integration
+### ⚖️ Advanced packaging race expands beyond chipmakers as display, materials, equipment suppliers chase new footholds
 - **題材**: `半導體先進製程` | **重要性**: `68`
-- **來源**: Digitimes (2026-10-01T01:35:57Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: TSMC said the next phase of AI performance growth will depend less on shrinking a single chip and more on combining multiple chips, memory, and advanced packaging inside larger systems. The shift could reshape semiconductor competition, as demand for compute,…
-- [原文連結](https://www.digitimes.com/news/a20261001PD204/tsmc-cowos-performance-packaging-technology.html)
-
----
-
-### 🚀 Is the Surface Laptop Ultra a gaming PC? Let me explain.
-- **題材**: `AI伺服器` | **重要性**: `65`
-- **來源**: Windows Central (2026-10-07T17:50:47Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Microsoft's Surface Laptop Ultra is now available for preorder, and I know a lot of people are wondering if it's worth buying as a dedicated gaming PC. Here's why you probably want to think twice before making a final decision.
-- [原文連結](https://www.windowscentral.com/hardware/surface/surface-laptop-ultra-gaming-pc-rtx-spark)
-
----
-
-### 🚀 RAM Maker Celebrates Record Profits And Predicts ‘Even Higher Prices’ And ‘Greater Tightness In The Industry’ In The Years Ahead
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: Kotaku (2026-10-01T23:00:22Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Micron doesn't see the AI bubble popping any time soon
-- [原文連結](https://kotaku.com/ram-maker-celebrates-record-profits-and-predicts-even-higher-prices-and-greater-tightness-in-the-industry-in-the-years-ahead-2000739125)
-
----
-
-### ⚖️ Nvidia weighs PTFE and HC for glass-free PCBs in Rubin Ultra
-- **題材**: `AI伺服器` | **重要性**: `63`
-- **來源**: Digitimes (2026-10-02T07:57:48Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Nvidia is testing glass-free PCB material systems for its next-generation AI server platforms, evaluating polytetrafluoroethylene (PTFE) and hydrocarbon (HC) resin formulations for possible use in the Rubin Ultra NVL576 Switch Tray, which is scheduled for mas…
-- [原文連結](https://www.digitimes.com/news/a20261002PD228/nvidia-rubin-pcb-testing-ai-server.html)
-
----
-
-### ⚖️ BOE eyes closer ties with Samsung, LG as it pushes into chip packaging
-- **題材**: `半導體先進製程` | **重要性**: `63`
-- **來源**: Digitimes (2026-10-01T03:45:00Z)
+- **來源**: Digitimes (2026-10-02T02:16:23Z)
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: China's BOE Technology is seeking closer ties with Samsung Electronics and LG Electronics as the display maker expands beyond panels into semiconductor glass substrates and advanced packaging.
-- [原文連結](https://www.digitimes.com/news/a20260930VL222/boe-samsung-lg-packaging-display.html)
+- **摘要**: The race to commercialize advanced packaging is widening beyond traditional chipmakers and display panel makers. As fan-out panel-level packaging (FOPLP), through-glass via, and micro-LED optical communications move closer to mass production, semiconductor eq…
+- [原文連結](https://www.digitimes.com/news/a20261002PD208/packaging-equipment-materials-display-chipmakers.html)
+
+---
+
+### ⚖️ Data Center Cables Market to Reach $27.29 Billion by 2035, DC Market Insights Finds
+- **題材**: `光通訊與矽光子` | **重要性**: `65`
+- **來源**: PRNewswire (2026-10-06T18:21:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: AI data centers are reshaping cabling economics, with cabling spend per MW more than twice that of conventional facilities; fiber optic cables held 47.6% of the global market in 2025 LONDON, Oct. 6, 2026 /PRNewswire/ -- The global Data Center Cables Market wa…
+- [原文連結](https://www.prnewswire.com/news-releases/data-center-cables-market-to-reach-27-29-billion-by-2035--dc-market-insights-finds-302900173.html)
 
 ---
 
