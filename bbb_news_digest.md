@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-10T17:30:04.950249+00:00
+> 更新時間：2026-10-10T22:04:11.057321+00:00
 
 ### 🚀 GlobalFoundries wins US$2 billion TSMC interposer deal, closing a US packaging gap
 - **題材**: `半導體先進製程` | **重要性**: `78`
