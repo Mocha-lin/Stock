@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-10-10T02:08:17.402569+00:00",
+  "generated_at": "2026-10-10T06:32:44.241192+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 70,
@@ -44,6 +44,44 @@
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
+      "id": "d5745da4d199287c",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "GlobalFoundries wins US$2 billion TSMC interposer deal, closing a US packaging gap",
+      "summary": "GF said on October 8, 2026, that it has signed a multi-year, US$2 billion manufacturing agreement with TSMC to produce silicon interposers for TSMC's CoWoS ecosystem at its Malta, New York fab, which GF says will become the first US-based source of silicon in…",
+      "original_title": "GlobalFoundries wins US$2 billion TSMC interposer deal, closing a US packaging gap",
+      "url": "https://www.digitimes.com/news/a20261009VL200/tsmc-globalfoundries-packaging-cowos-silicon.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-10-09T02:43:17Z",
+      "importance": 78,
+      "impact": "positive",
+      "timeframe": "short_to_mid_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
       "id": "e549beb359a1d0d1",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -77,44 +115,6 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
-      "id": "92025855096c340c",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "Commentary: Largan earnings call spotlight — CPO, expansion and 4Q26 order momentum",
-      "summary": "Largan Precision will hold its earnings call on October 8, when the optical lens maker is due to report third-quarter results and outline its fourth-quarter outlook. With September revenue recovering and the company stepping up property acquisitions, investor…",
-      "original_title": "Commentary: Largan earnings call spotlight — CPO, expansion and 4Q26 order momentum",
-      "url": "https://www.digitimes.com/news/a20261007PD219/largan-precision-cpo-optical-lens-expansion-earnings.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-10-07T03:05:33Z",
-      "importance": 78,
-      "impact": "neutral",
-      "timeframe": "short_to_mid_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "90671ba57b727194",
@@ -378,6 +378,44 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
+      "id": "92025855096c340c",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "Commentary: Largan earnings call spotlight — CPO, expansion and 4Q26 order momentum",
+      "summary": "Largan Precision will hold its earnings call on October 8, when the optical lens maker is due to report third-quarter results and outline its fourth-quarter outlook. With September revenue recovering and the company stepping up property acquisitions, investor…",
+      "original_title": "Commentary: Largan earnings call spotlight — CPO, expansion and 4Q26 order momentum",
+      "url": "https://www.digitimes.com/news/a20261007PD219/largan-precision-cpo-optical-lens-expansion-earnings.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-10-07T03:05:33Z",
+      "importance": 73,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "eff1222f5cd425a8",
@@ -865,44 +903,6 @@
       "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "5f6fd1a28b1f59f2",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "TSMC Will Put 30% of Its Most Advanced Chipmaking in Arizona. Taiwan Is Keeping the Other 70%, and the Lab.",
-      "summary": "TSMC's $265 billion Arizona buildout will hold about 30 percent of its most advanced capacity. Taiwan backs the expansion but insists core R&D stays home, a modern version of its \"silicon shield.\" Whether that is enough for the U.S. depends on what you think …",
-      "original_title": "TSMC Will Put 30% of Its Most Advanced Chipmaking in Arizona. Taiwan Is Keeping the Other 70%, and the Lab.",
-      "url": "https://techpinions.com/tsmc-arizona-30-percent-taiwan-keeps-rd/",
-      "source": "Techpinions.com",
-      "domain": "techpinions.com",
-      "published_at": "2026-10-07T15:00:00Z",
-      "importance": 65,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "f2fed3e1b8e0aa6a",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1283,44 +1283,6 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "5217cd3fa91820e1",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "Surge in imports pushed U.S. trade deficit above $100 billion in August",
-      "summary": "The US trade deficit jumped to more than $100 billion in August as importers wrestled with a new round of President Trump's tariffs and continued to bring in billions of dollars' worth of components for AI data centers.The total gap: $105.6 billion, a 13.8% i…",
-      "original_title": "Surge in imports pushed U.S. trade deficit above $100 billion in August",
-      "url": "https://finance.yahoo.com/economy/article/us-trade-deficit-jumped-above-100-billion-in-august-134000859.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-10-06T13:40:00Z",
-      "importance": 60,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "63a0c85b2355261c",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1389,6 +1351,82 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "d702916b75abd321",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "Trump says US will not strike Iran before midterm elections",
+      "summary": "Oil prices drop as Trump dismisses speculation of pre-midterm military action against Iran.",
+      "original_title": "Trump says US will not strike Iran before midterm elections",
+      "url": "https://www.aljazeera.com/news/2026/10/9/trump-says-us-will-not-strike-iran-before-midterm-elections",
+      "source": "Al Jazeera English",
+      "domain": "aljazeera.com",
+      "published_at": "2026-10-09T06:22:07Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "5a59788b014c14d0",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Sleeping Beauties: David Byrne on Why Transformative Ideas Fall Dormant and How They Awaken to Change the World",
+      "summary": "Each time you look up at the night sky, you see only ancient signals — by the time a photon has reached your pupil, the star that emitted it may be long dead. The great wonder is that its light can traverse immense expanses of space and time to gladden the da…",
+      "original_title": "Sleeping Beauties: David Byrne on Why Transformative Ideas Fall Dormant and How They Awaken to Change the World",
+      "url": "https://www.themarginalian.org/2026/10/08/david-byrne-sleeping-beauties/",
+      "source": "Themarginalian.org",
+      "domain": "themarginalian.org",
+      "published_at": "2026-10-09T03:21:41Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "4877d27c10343fb3",
@@ -1844,44 +1882,6 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "c671042f88f6cd2c",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "US stock market hits all-time high as investors bet big on AI",
-      "summary": "The benchmark S&P 500 is up 14 percent this year despite elevated oil prices and US government debt sell-off.",
-      "original_title": "US stock market hits all-time high as investors bet big on AI",
-      "url": "https://www.aljazeera.com/economy/2026/10/7/us-stock-market-hits-all-time-high-as-investors-bet-big-on-ai",
-      "source": "Al Jazeera English",
-      "domain": "aljazeera.com",
-      "published_at": "2026-10-07T03:27:20Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "7ca5d733d0a8e0a8",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1996,44 +1996,6 @@
       "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "b042ed2c287c90b1",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Madison Ryann Ward Is Doing Music Her Way",
-      "summary": "A 10-second cafeteria video got her signed by Rick Rubin. Then she walked away, went independent and built something better.",
-      "original_title": "Madison Ryann Ward Is Doing Music Her Way",
-      "url": "https://relevantmagazine.com/magazine/we-stand-a-lot-taller-when-were-standing-on-the-rock-madison-ryann-ward-is-doing-music-her-way/",
-      "source": "Relevantmagazine.com",
-      "domain": "relevantmagazine.com",
-      "published_at": "2026-10-04T04:45:58Z",
-      "importance": 55,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "c22ecd352fbe1e5e",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2072,32 +2034,32 @@
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "a5f55897df4b1d41",
+      "id": "c671042f88f6cd2c",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "APOD: 2026 October 3 – Selfie at Vera Rubin Ridge",
-      "summary": "APOD Science APOD APOD: 2026 October 3 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featu…",
-      "original_title": "APOD: 2026 October 3 – Selfie at Vera Rubin Ridge",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-3-selfie-at-vera-rubin-ridge/",
-      "source": "NASA",
-      "domain": "science.nasa.gov",
-      "published_at": "2026-10-03T04:05:00Z",
-      "importance": 55,
-      "impact": "positive",
+      "theme": "總體風險",
+      "title": "US stock market hits all-time high as investors bet big on AI",
+      "summary": "The benchmark S&P 500 is up 14 percent this year despite elevated oil prices and US government debt sell-off.",
+      "original_title": "US stock market hits all-time high as investors bet big on AI",
+      "url": "https://www.aljazeera.com/economy/2026/10/7/us-stock-market-hits-all-time-high-as-investors-bet-big-on-ai",
+      "source": "Al Jazeera English",
+      "domain": "aljazeera.com",
+      "published_at": "2026-10-07T03:27:20Z",
+      "importance": 50,
+      "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
       ],
       "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
       ],
       "related_models": [
         "003",
@@ -2107,7 +2069,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "ffb4a1bd15246f51",
@@ -2595,6 +2557,44 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "a5f55897df4b1d41",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "APOD: 2026 October 3 – Selfie at Vera Rubin Ridge",
+      "summary": "APOD Science APOD APOD: 2026 October 3 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featu…",
+      "original_title": "APOD: 2026 October 3 – Selfie at Vera Rubin Ridge",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-3-selfie-at-vera-rubin-ridge/",
+      "source": "NASA",
+      "domain": "science.nasa.gov",
+      "published_at": "2026-10-03T04:05:00Z",
+      "importance": 50,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "139d2e4f472475d2",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2606,7 +2606,7 @@
       "source": "Al Jazeera English",
       "domain": "aljazeera.com",
       "published_at": "2026-10-03T03:54:58Z",
-      "importance": 50,
+      "importance": 45,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -2630,7 +2630,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「總體風險」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     }
   ]
 }

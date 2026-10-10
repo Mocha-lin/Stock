@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-10T02:08:17.402569+00:00
+> 更新時間：2026-10-10T06:32:44.241192+00:00
 
 ### 🚀 Sigurd raises prices, signs long AI capacity contracts, eyes higher 2026 capex
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -10,21 +10,21 @@
 
 ---
 
+### 🚀 GlobalFoundries wins US$2 billion TSMC interposer deal, closing a US packaging gap
+- **題材**: `半導體先進製程` | **重要性**: `78`
+- **來源**: Digitimes (2026-10-09T02:43:17Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: GF said on October 8, 2026, that it has signed a multi-year, US$2 billion manufacturing agreement with TSMC to produce silicon interposers for TSMC's CoWoS ecosystem at its Malta, New York fab, which GF says will become the first US-based source of silicon in…
+- [原文連結](https://www.digitimes.com/news/a20261009VL200/tsmc-globalfoundries-packaging-cowos-silicon.html)
+
+---
+
 ### ⚠️ 27 Samsung, SK Hynix veterans joined China's CXMT, study shows
 - **題材**: `HBM記憶體` | **重要性**: `78`
 - **來源**: Digitimes (2026-10-07T23:51:01Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: An investigation by a South Korean lawmaker's office revealed that former Samsung Electronics and SK Hynix personnel who transitioned to Chinese DRAM maker ChangXin Memory Technologies (CXMT) spanned key stages of semiconductor development and mass production…
 - [原文連結](https://www.digitimes.com/news/a20261007PD234/cxmt-samsung-sk-hynix-talent-poaching.html)
-
----
-
-### ⚖️ Commentary: Largan earnings call spotlight — CPO, expansion and 4Q26 order momentum
-- **題材**: `光通訊與矽光子` | **重要性**: `78`
-- **來源**: Digitimes (2026-10-07T03:05:33Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Largan Precision will hold its earnings call on October 8, when the optical lens maker is due to report third-quarter results and outline its fourth-quarter outlook. With September revenue recovering and the company stepping up property acquisitions, investor…
-- [原文連結](https://www.digitimes.com/news/a20261007PD219/largan-precision-cpo-optical-lens-expansion-earnings.html)
 
 ---
 
@@ -88,6 +88,15 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: The boundary for adopting external capacity is changing, as workloads that previously needed memory offload because of insufficient high-bandwidth memory (HBM) can now run directly on next-generation GPUs. As a result, demand for external capacity is shifting…
 - [原文連結](https://www.digitimes.com/news/a20261007PD233/capacity-hbm-expansion-data-gpu.html)
+
+---
+
+### ⚖️ Commentary: Largan earnings call spotlight — CPO, expansion and 4Q26 order momentum
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-10-07T03:05:33Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Largan Precision will hold its earnings call on October 8, when the optical lens maker is due to report third-quarter results and outline its fourth-quarter outlook. With September revenue recovering and the company stepping up property acquisitions, investor…
+- [原文連結](https://www.digitimes.com/news/a20261007PD219/largan-precision-cpo-optical-lens-expansion-earnings.html)
 
 ---
 
@@ -169,15 +178,6 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Samsung Electronics is expanding its thermal-management efforts for high-bandwidth memory (HBM) beyond the memory stack as increasingly large chip packages raise heat-management challenges.
 - [原文連結](https://www.digitimes.com/news/a20261006VL210/samsung-hbm-cooling-tsmc-cowos.html)
-
----
-
-### 🚀 Jedec unveils new standard for silicon photonics reliability qualification and testing
-- **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-10-06T03:52:28Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Jedec released a new standard for silicon photonics (SiPh) testing and manufacturing controls to promote consistent reliability practices. The standard comes as SiPh experiences rapid growth due to its potential to replace copper interconnects amid AI infrast…
-- [原文連結](https://www.digitimes.com/news/a20261006VL209/jedec-siph-testing-manufacturing.html)
 
 ---
 
