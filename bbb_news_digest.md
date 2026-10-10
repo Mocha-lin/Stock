@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-09T22:57:01.620827+00:00
+> 更新時間：2026-10-10T02:08:17.402569+00:00
 
 ### 🚀 Sigurd raises prices, signs long AI capacity contracts, eyes higher 2026 capex
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -25,6 +25,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Largan Precision will hold its earnings call on October 8, when the optical lens maker is due to report third-quarter results and outline its fourth-quarter outlook. With September revenue recovering and the company stepping up property acquisitions, investor…
 - [原文連結](https://www.digitimes.com/news/a20261007PD219/largan-precision-cpo-optical-lens-expansion-earnings.html)
+
+---
+
+### ⚖️ Repon revenue slips in September as Vera Rubin, ASIC slide rail shipments ramp up
+- **題材**: `AI伺服器` | **重要性**: `78`
+- **來源**: Digitimes (2026-10-07T00:42:51Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: The AI server supply chain is poised for a stronger quarter as Nvidia's Vera Rubin and AWS's Trainium 3 gradually ramp up, with momentum expected to strengthen across the supply chain from ODMs to component suppliers.
+- [原文連結](https://www.digitimes.com/news/a20261006PD237/repon-ai-server-slide-rails-asic-revenue-supply-chain.html)
 
 ---
 
@@ -55,6 +64,15 @@
 
 ---
 
+### ⚖️ Applied Materials, Intel target AI chip bottlenecks with interconnect scaling and Foveros 3D
+- **題材**: `半導體先進製程` | **重要性**: `73`
+- **來源**: Digitimes (2026-10-09T01:42:39Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: AI chip manufacturing demands are accelerating development of advanced logic and packaging technologies, prompting Applied Materials and Intel to expand their collaboration on next-generation transistors, interconnects, and advanced packaging.
+- [原文連結](https://www.digitimes.com/news/a20261007PD242/applied-materials-intel-ai-chip-manufacturing-development.html)
+
+---
+
 ### 🚀 AUO subsidiary Darwin shifts toward high-end manufacturing, explores CPO and semiconductor opportunities
 - **題材**: `光通訊與矽光子` | **重要性**: `73`
 - **來源**: Digitimes (2026-10-08T03:59:06Z)
@@ -64,12 +82,21 @@
 
 ---
 
-### ⚖️ Huawei's NPO bet challenges CPO's path to AI scale
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-10-07T01:55:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Huawei is backing near-packaged optics (NPO) rather than co-packaged optics (CPO) for its next-generation AI infrastructure, arguing that NPO offers a better balance of cost, manufacturability, reliability and serviceability as optical interconnects move deep…
-- [原文連結](https://www.digitimes.com/news/a20261007VL203/huawei-cpo-optics-ascend-cost.html)
+### ⚖️ DIGITIMES Insight: HBM expansion raises the bar for memory offload
+- **題材**: `HBM記憶體` | **重要性**: `73`
+- **來源**: Digitimes (2026-10-07T06:55:00Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: The boundary for adopting external capacity is changing, as workloads that previously needed memory offload because of insufficient high-bandwidth memory (HBM) can now run directly on next-generation GPUs. As a result, demand for external capacity is shifting…
+- [原文連結](https://www.digitimes.com/news/a20261007PD233/capacity-hbm-expansion-data-gpu.html)
+
+---
+
+### 🚀 Hua Yang, Zeiss launch COSMA-M for chip metrology
+- **題材**: `半導體先進製程` | **重要性**: `73`
+- **來源**: Digitimes (2026-10-07T00:44:08Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Hua Yang Precision Machinery has teamed up with Zeiss to launch COSMA-M, a high-precision measurement system aimed at the semiconductor metrology market as demand surges from AI, high-performance computing (HPC), and advanced packaging.
+- [原文連結](https://www.digitimes.com/news/a20261006PD231/metrology-launch-packaging-equipment-inspection.html)
 
 ---
 
@@ -79,6 +106,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Largan Precision reported September consolidated revenue of NT$5.78 billion (US$181.99 million), up 15% from August but down 7% from a year earlier. Third-quarter revenue rose 15% sequentially to NT$15.65 billion.
 - [原文連結](https://www.digitimes.com/news/a20261005PD243/largan-precision-revenue-smartphone-demand-production.html)
+
+---
+
+### 🚀 Nanya Tech expands 3D OSAT to chase HBM-like demand
+- **題材**: `HBM記憶體` | **重要性**: `73`
+- **來源**: Digitimes (2026-10-04T23:45:53Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Nanya Technology is stepping up investment in new factory capacity to expand packaging and testing as some customers move into trial production for specification-based designs. The company said it has won approval from the National Science and Technology Coun…
+- [原文連結](https://www.digitimes.com/news/a20261002PD230/nanya-technology-3d-demand-osat-plant.html)
 
 ---
 
@@ -97,6 +133,15 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: The tech giant is also expected to get a boost from its latest folding devices that were launched in August.
 - [原文連結](https://www.bbc.co.uk/news/articles/c687z8127302o)
+
+---
+
+### ⚖️ Huawei's NPO bet challenges CPO's path to AI scale
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-10-07T01:55:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Huawei is backing near-packaged optics (NPO) rather than co-packaged optics (CPO) for its next-generation AI infrastructure, arguing that NPO offers a better balance of cost, manufacturability, reliability and serviceability as optical interconnects move deep…
+- [原文連結](https://www.digitimes.com/news/a20261007VL203/huawei-cpo-optics-ascend-cost.html)
 
 ---
 
@@ -133,51 +178,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Jedec released a new standard for silicon photonics (SiPh) testing and manufacturing controls to promote consistent reliability practices. The standard comes as SiPh experiences rapid growth due to its potential to replace copper interconnects amid AI infrast…
 - [原文連結](https://www.digitimes.com/news/a20261006VL209/jedec-siph-testing-manufacturing.html)
-
----
-
-### ⚖️ Podcast highlights: TSMC Texas plant talk is premature, Intel 18A hits backfiring criticism
-- **題材**: `半導體先進製程` | **重要性**: `68`
-- **來源**: Digitimes (2026-10-04T23:44:58Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: This excerpt from DIGITIMES analyst Luke Lin's podcast looks at TSMC's rumored Texas expansion, Intel's 14A and 18A process debate, and Qualcomm's high bandwidth compute (HBC) push as AI workloads drive demand for hybrid bonding and advanced packaging.
-- [原文連結](https://www.digitimes.com/news/a20261002PD227/tsmc-intel-texas-digitimes-arizona.html)
-
----
-
-### ⚖️ Advanced packaging race expands beyond chipmakers as display, materials, equipment suppliers chase new footholds
-- **題材**: `半導體先進製程` | **重要性**: `68`
-- **來源**: Digitimes (2026-10-02T02:16:23Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: The race to commercialize advanced packaging is widening beyond traditional chipmakers and display panel makers. As fan-out panel-level packaging (FOPLP), through-glass via, and micro-LED optical communications move closer to mass production, semiconductor eq…
-- [原文連結](https://www.digitimes.com/news/a20261002PD208/packaging-equipment-materials-display-chipmakers.html)
-
----
-
-### 🚀 Surface Laptop Ultra
-- **題材**: `AI伺服器` | **重要性**: `65`
-- **來源**: Windows Central (2026-10-08T14:35:40Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Microsoft's Surface Laptop Ultra is part of a new wave of Windows laptops running on NVIDIA's RTX Spark platform.
-- [原文連結](https://www.windowscentral.com/tag/surface-laptop-ultra)
-
----
-
-### 🚀 Samsung expects record $80bn quarterly profit as AI memory demand soars
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: The Next Web (2026-10-08T09:47:15Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Samsung Electronics expects its operating profit for the third quarter to reach a record level of about 107.4 trillion won ($80bn), a significant increase from 12.17 trillion won a year earlier. The South Korean company released its preliminary figures today.…
-- [原文連結](https://thenextweb.com/news/samsung-q3-2026-record-profit-ai-memory)
-
----
-
-### 🚀 ficonTEC, Hermes Testing target CPO testing scale-up with INS-2 platform
-- **題材**: `光通訊與矽光子` | **重要性**: `63`
-- **來源**: Digitimes (2026-10-02T08:34:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: ficonTEC, a maker of optoelectronic automation assembly and test equipment, has announced a strategic partnership with Hermes Testing Solutions Inc. (HTSI) to support Taiwan's rapidly expanding co-packaged optics (CPO) ecosystem. The collaboration will initia…
-- [原文連結](https://www.digitimes.com/news/a20261001PD245/testing-cpo-equipment-automation-manufacturing.html)
 
 ---
 
