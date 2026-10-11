@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-11T15:21:10.226723+00:00
+> 更新時間：2026-10-11T17:49:23.307357+00:00
 
 ### 🚀 GlobalFoundries wins US$2 billion TSMC interposer deal, closing a US packaging gap
 - **題材**: `半導體先進製程` | **重要性**: `78`
@@ -55,15 +55,6 @@
 
 ---
 
-### 🚀 TSMC taps GlobalFoundries to bolster US silicon interposer production in $2B deal
-- **題材**: `AI伺服器` | **重要性**: `75`
-- **來源**: Theregister.com (2026-10-08T17:22:32Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Advanced packaging tech is essential to the domestic production of high-performance semiconductors used in AI datacenters
-- [原文連結](https://www.theregister.com/systems/2026/10/08/tsmc-taps-globalfoundries-to-bolster-us-silicon-interposer-production-in-2b-deal/5302061)
-
----
-
 ### ⚠️ 27 Samsung, SK Hynix veterans joined China's CXMT, study shows
 - **題材**: `HBM記憶體` | **重要性**: `73`
 - **來源**: Digitimes (2026-10-07T23:51:01Z)
@@ -106,6 +97,15 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: AMD is pursuing a 'broader partnership' with Samsung as memory company wants to tie advanced memory supply to its orders at its foundry unit.
 - [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/amd-seeks-broader-partnership-with-samsung-as-it-looks-to-secure-memory-supply-samsung-reportedly-hopes-to-turn-its-memory-supply-relationship-with-amd-into-foundry-orders-for-logic-chips)
+
+---
+
+### 🚀 TSMC taps GlobalFoundries to bolster US silicon interposer production in $2B deal
+- **題材**: `AI伺服器` | **重要性**: `70`
+- **來源**: Theregister.com (2026-10-08T17:22:32Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Advanced packaging tech is essential to the domestic production of high-performance semiconductors used in AI datacenters
+- [原文連結](https://www.theregister.com/systems/2026/10/08/tsmc-taps-globalfoundries-to-bolster-us-silicon-interposer-production-in-2b-deal/5302061)
 
 ---
 
