@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-10T22:04:11.057321+00:00
+> 更新時間：2026-10-11T01:34:39.729499+00:00
 
 ### 🚀 GlobalFoundries wins US$2 billion TSMC interposer deal, closing a US packaging gap
 - **題材**: `半導體先進製程` | **重要性**: `78`
@@ -10,12 +10,21 @@
 
 ---
 
-### ⚠️ 27 Samsung, SK Hynix veterans joined China's CXMT, study shows
+### 🚀 Samsung HBM4E wins NVIDIA nod for AI accelerator push
 - **題材**: `HBM記憶體` | **重要性**: `78`
-- **來源**: Digitimes (2026-10-07T23:51:01Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: An investigation by a South Korean lawmaker's office revealed that former Samsung Electronics and SK Hynix personnel who transitioned to Chinese DRAM maker ChangXin Memory Technologies (CXMT) spanned key stages of semiconductor development and mass production…
-- [原文連結](https://www.digitimes.com/news/a20261007PD234/cxmt-samsung-sk-hynix-talent-poaching.html)
+- **來源**: Digitimes (2026-10-09T01:46:25Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Samsung Electronics' next-generation 12-layer HBM4E product, a type of high-bandwidth memory (HBM), has reportedly cleared customer quality validation from Nvidia and major hyperscale data center operators. If confirmed, the result would strengthen Samsung's …
+- [原文連結](https://www.digitimes.com/news/a20261008PD231/samsung-hbm-production-data-data-center.html)
+
+---
+
+### 🚀 Samsung Electronics posts record quarterly profit in preliminary results
+- **題材**: `HBM記憶體` | **重要性**: `78`
+- **來源**: Digitimes (2026-10-08T01:15:00Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Samsung Electronics has become the first South Korean company to clear KRW100 trillion in operating profit in a single quarter, a milestone that shows how heavily the company now leans on a memory market where, by analysts' reckoning, suppliers hold pricing p…
+- [原文連結](https://www.digitimes.com/news/a20261008VL203/samsung-profit-operating-profit-hbm-market.html)
 
 ---
 
@@ -82,6 +91,15 @@
 
 ---
 
+### ⚠️ 27 Samsung, SK Hynix veterans joined China's CXMT, study shows
+- **題材**: `HBM記憶體` | **重要性**: `73`
+- **來源**: Digitimes (2026-10-07T23:51:01Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: An investigation by a South Korean lawmaker's office revealed that former Samsung Electronics and SK Hynix personnel who transitioned to Chinese DRAM maker ChangXin Memory Technologies (CXMT) spanned key stages of semiconductor development and mass production…
+- [原文連結](https://www.digitimes.com/news/a20261007PD234/cxmt-samsung-sk-hynix-talent-poaching.html)
+
+---
+
 ### ⚖️ Commentary: Largan earnings call spotlight — CPO, expansion and 4Q26 order momentum
 - **題材**: `光通訊與矽光子` | **重要性**: `73`
 - **來源**: Digitimes (2026-10-07T03:05:33Z)
@@ -127,15 +145,6 @@
 
 ---
 
-### 🚀 AI chip boom pushes Samsung profits to record $80bn
-- **題材**: `HBM記憶體` | **重要性**: `70`
-- **來源**: BBC News (2026-10-08T01:31:56Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: The tech giant is also expected to get a boost from its latest folding devices that were launched in August.
-- [原文連結](https://www.bbc.co.uk/news/articles/c687z8127302o)
-
----
-
 ### ⚖️ DIGITIMES Insight: HBM expansion raises the bar for memory offload
 - **題材**: `HBM記憶體` | **重要性**: `68`
 - **來源**: Digitimes (2026-10-07T06:55:00Z)
@@ -169,15 +178,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: As AI computing clusters continue to expand, performance requirements for scale-out interconnects between racks are rising rapidly. This is pushing traditional pluggable optical transceivers from 800G to 1.6T and accelerating the transition toward future 3.2T…
 - [原文連結](https://www.digitimes.com/news/a20261006PD217/pcb-supplier-manufacturing-performance-hpc.html)
-
----
-
-### ⚖️ Samsung steps up HBM cooling as TSMC expands CoWoS
-- **題材**: `半導體先進製程` | **重要性**: `68`
-- **來源**: Digitimes (2026-10-06T04:15:08Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Samsung Electronics is expanding its thermal-management efforts for high-bandwidth memory (HBM) beyond the memory stack as increasingly large chip packages raise heat-management challenges.
-- [原文連結](https://www.digitimes.com/news/a20261006VL210/samsung-hbm-cooling-tsmc-cowos.html)
 
 ---
 
