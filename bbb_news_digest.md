@@ -1,14 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-11T06:38:40.126651+00:00
-
-### 🚀 Advanced packaging leads Malaysia's push up the chip value chain as AI reshapes demand, says Yole analyst
-- **題材**: `半導體先進製程` | **重要性**: `78`
-- **來源**: Digitimes (2026-10-10T06:26:21Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Malaysia is moving from traditional semiconductor back-end manufacturing toward higher value-added work, with advanced packaging set to drive growth over the next two to three years, according to Nur Hilwani, Technology & Market Analyst, Semiconductor Equipme…
-- [原文連結](https://www.digitimes.com/news/a20261008VL226/malaysia-packaging-manufacturing-growth-yole.html)
-
----
+> 更新時間：2026-10-11T15:21:10.226723+00:00
 
 ### 🚀 GlobalFoundries wins US$2 billion TSMC interposer deal, closing a US packaging gap
 - **題材**: `半導體先進製程` | **重要性**: `78`
@@ -64,15 +55,6 @@
 
 ---
 
-### 🚀 AMD seeks 'broader partnership' with Samsung as it looks to secure memory supply
-- **題材**: `半導體先進製程` | **重要性**: `77`
-- **來源**: Tom's Hardware UK (2026-10-08T12:30:00Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: AMD is pursuing a 'broader partnership' with Samsung as memory company wants to tie advanced memory supply to its orders at its foundry unit.
-- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/amd-seeks-broader-partnership-with-samsung-as-it-looks-to-secure-memory-supply-samsung-reportedly-hopes-to-turn-its-memory-supply-relationship-with-amd-into-foundry-orders-for-logic-chips)
-
----
-
 ### 🚀 TSMC taps GlobalFoundries to bolster US silicon interposer production in $2B deal
 - **題材**: `AI伺服器` | **重要性**: `75`
 - **來源**: Theregister.com (2026-10-08T17:22:32Z)
@@ -100,15 +82,6 @@
 
 ---
 
-### 🚀 Hua Yang, Zeiss launch COSMA-M for chip metrology
-- **題材**: `半導體先進製程` | **重要性**: `73`
-- **來源**: Digitimes (2026-10-07T00:44:08Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Hua Yang Precision Machinery has teamed up with Zeiss to launch COSMA-M, a high-precision measurement system aimed at the semiconductor metrology market as demand surges from AI, high-performance computing (HPC), and advanced packaging.
-- [原文連結](https://www.digitimes.com/news/a20261006PD231/metrology-launch-packaging-equipment-inspection.html)
-
----
-
 ### ⚖️ Largan Precision sees steady smartphone lens demand as CPO fibre arrays near production
 - **題材**: `光通訊與矽光子` | **重要性**: `73`
 - **來源**: Digitimes (2026-10-05T10:08:21Z)
@@ -127,12 +100,12 @@
 
 ---
 
-### ⚖️ SpaceX reportedly seeking $40 billion debt package for Nvidia AI hardware
-- **題材**: `AI伺服器` | **重要性**: `72`
-- **來源**: Tom's Hardware UK (2026-10-08T11:00:00Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: SpaceX reportedly intends to borrow $40 billion to procure 360,000 Nvidia Rubin AI accelerators, infrastructure.
-- [原文連結](https://www.tomshardware.com/tech-industry/artificial-intelligence/spacex-reportedly-seeking-usd40-billion-debt-package-for-nvidia-ai-hardware-massive-raise-could-fund-roughly-360-000-vera-rubin-gpus-across-5-000-nvl72-racks)
+### 🚀 AMD seeks 'broader partnership' with Samsung as it looks to secure memory supply
+- **題材**: `半導體先進製程` | **重要性**: `72`
+- **來源**: Tom's Hardware UK (2026-10-08T12:30:00Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: AMD is pursuing a 'broader partnership' with Samsung as memory company wants to tie advanced memory supply to its orders at its foundry unit.
+- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/amd-seeks-broader-partnership-with-samsung-as-it-looks-to-secure-memory-supply-samsung-reportedly-hopes-to-turn-its-memory-supply-relationship-with-amd-into-foundry-orders-for-logic-chips)
 
 ---
 
@@ -178,6 +151,33 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: As AI computing clusters continue to expand, performance requirements for scale-out interconnects between racks are rising rapidly. This is pushing traditional pluggable optical transceivers from 800G to 1.6T and accelerating the transition toward future 3.2T…
 - [原文連結](https://www.digitimes.com/news/a20261006PD217/pcb-supplier-manufacturing-performance-hpc.html)
+
+---
+
+### ⚖️ Samsung steps up HBM cooling as TSMC expands CoWoS
+- **題材**: `半導體先進製程` | **重要性**: `68`
+- **來源**: Digitimes (2026-10-06T04:15:08Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Samsung Electronics is expanding its thermal-management efforts for high-bandwidth memory (HBM) beyond the memory stack as increasingly large chip packages raise heat-management challenges.
+- [原文連結](https://www.digitimes.com/news/a20261006VL210/samsung-hbm-cooling-tsmc-cowos.html)
+
+---
+
+### 🚀 Jedec unveils new standard for silicon photonics reliability qualification and testing
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-10-06T03:52:28Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Jedec released a new standard for silicon photonics (SiPh) testing and manufacturing controls to promote consistent reliability practices. The standard comes as SiPh experiences rapid growth due to its potential to replace copper interconnects amid AI infrast…
+- [原文連結](https://www.digitimes.com/news/a20261006VL209/jedec-siph-testing-manufacturing.html)
+
+---
+
+### ⚖️ Podcast highlights: TSMC Texas plant talk is premature, Intel 18A hits backfiring criticism
+- **題材**: `半導體先進製程` | **重要性**: `68`
+- **來源**: Digitimes (2026-10-04T23:44:58Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: This excerpt from DIGITIMES analyst Luke Lin's podcast looks at TSMC's rumored Texas expansion, Intel's 14A and 18A process debate, and Qualcomm's high bandwidth compute (HBC) push as AI workloads drive demand for hybrid bonding and advanced packaging.
+- [原文連結](https://www.digitimes.com/news/a20261002PD227/tsmc-intel-texas-digitimes-arizona.html)
 
 ---
 
