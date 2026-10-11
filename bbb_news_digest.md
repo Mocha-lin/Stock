@@ -1,5 +1,14 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-11T01:34:39.729499+00:00
+> 更新時間：2026-10-11T06:38:40.126651+00:00
+
+### 🚀 Advanced packaging leads Malaysia's push up the chip value chain as AI reshapes demand, says Yole analyst
+- **題材**: `半導體先進製程` | **重要性**: `78`
+- **來源**: Digitimes (2026-10-10T06:26:21Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Malaysia is moving from traditional semiconductor back-end manufacturing toward higher value-added work, with advanced packaging set to drive growth over the next two to three years, according to Nur Hilwani, Technology & Market Analyst, Semiconductor Equipme…
+- [原文連結](https://www.digitimes.com/news/a20261008VL226/malaysia-packaging-manufacturing-growth-yole.html)
+
+---
 
 ### 🚀 GlobalFoundries wins US$2 billion TSMC interposer deal, closing a US packaging gap
 - **題材**: `半導體先進製程` | **重要性**: `78`
@@ -73,24 +82,6 @@
 
 ---
 
-### ⚖️ Applied Materials, Intel target AI chip bottlenecks with interconnect scaling and Foveros 3D
-- **題材**: `半導體先進製程` | **重要性**: `73`
-- **來源**: Digitimes (2026-10-09T01:42:39Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: AI chip manufacturing demands are accelerating development of advanced logic and packaging technologies, prompting Applied Materials and Intel to expand their collaboration on next-generation transistors, interconnects, and advanced packaging.
-- [原文連結](https://www.digitimes.com/news/a20261007PD242/applied-materials-intel-ai-chip-manufacturing-development.html)
-
----
-
-### 🚀 AUO subsidiary Darwin shifts toward high-end manufacturing, explores CPO and semiconductor opportunities
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-10-08T03:59:06Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: As AUO deepens its push into co-packaged optics (CPO), its subsidiary Darwin Precisions is also exploring opportunities in the semiconductor sector, leveraging its expertise in precision and ultra-precision machining and precision molds.
-- [原文連結](https://www.digitimes.com/news/a20261008PD220/auo-cpo-subsidiary-manufacturing-optics.html)
-
----
-
 ### ⚠️ 27 Samsung, SK Hynix veterans joined China's CXMT, study shows
 - **題材**: `HBM記憶體` | **重要性**: `73`
 - **來源**: Digitimes (2026-10-07T23:51:01Z)
@@ -142,6 +133,15 @@
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: SpaceX reportedly intends to borrow $40 billion to procure 360,000 Nvidia Rubin AI accelerators, infrastructure.
 - [原文連結](https://www.tomshardware.com/tech-industry/artificial-intelligence/spacex-reportedly-seeking-usd40-billion-debt-package-for-nvidia-ai-hardware-massive-raise-could-fund-roughly-360-000-vera-rubin-gpus-across-5-000-nvl72-racks)
+
+---
+
+### 🚀 AUO subsidiary Darwin shifts toward high-end manufacturing, explores CPO and semiconductor opportunities
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-10-08T03:59:06Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: As AUO deepens its push into co-packaged optics (CPO), its subsidiary Darwin Precisions is also exploring opportunities in the semiconductor sector, leveraging its expertise in precision and ultra-precision machining and precision molds.
+- [原文連結](https://www.digitimes.com/news/a20261008PD220/auo-cpo-subsidiary-manufacturing-optics.html)
 
 ---
 
