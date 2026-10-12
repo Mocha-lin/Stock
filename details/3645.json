@@ -1,11 +1,11 @@
 {
   "id": "3645",
   "name": "達邁",
-  "lastUpdated": "2026-10-11 21:41:56",
+  "lastUpdated": "2026-10-13 00:22:32",
   "basicInfo": {
-    "price": "73.00",
-    "change": "-1.30",
-    "changePercent": "-1.75%"
+    "price": "75.00",
+    "change": "2.00",
+    "changePercent": "2.74%"
   },
   "status": null,
   "themes": [],
@@ -568,6 +568,14 @@
     ],
     "chips_table": [
       {
+        "date": "2026-10-12",
+        "foreign_lots": 67.0,
+        "it_lots": 0.0,
+        "dealer_lots": -5.225,
+        "sum_lots": 61.775,
+        "pct_float": 0.004517228721311667
+      },
+      {
         "date": "2026-10-08",
         "foreign_lots": 83.032,
         "it_lots": 0.0,
@@ -678,14 +686,6 @@
         "dealer_lots": 2.818,
         "sum_lots": 114.235,
         "pct_float": 0.008353308344460353
-      },
-      {
-        "date": "2026-09-16",
-        "foreign_lots": 135.259,
-        "it_lots": 0.0,
-        "dealer_lots": 1.896,
-        "sum_lots": 137.15499999999997,
-        "pct_float": 0.010029308057814676
       }
     ],
     "returns_table": [
@@ -706,12 +706,12 @@
       },
       {
         "year": 2023,
-        "return_pct": 39.28385600842974,
+        "return_pct": 39.283843429736656,
         "period": "01/03~12/29"
       },
       {
         "year": 2022,
-        "return_pct": -24.04048533404276,
+        "return_pct": -24.04049508732872,
         "period": "01/03~12/30"
       }
     ],
@@ -720,7 +720,7 @@
       "dataset": "structure_c_score",
       "stock_id": "3645",
       "ticker": "3645.TW",
-      "asof": "2026-10-09",
+      "asof": "2026-10-12",
       "c_score": 1.6248853427151893,
       "benchmark_pe": 98.21347606425383,
       "source": [
@@ -984,14 +984,14 @@
         },
         {
           "period": "2021Q4",
-          "avg_price": 41.80084745762712,
+          "avg_price": 41.813793116602405,
           "eps": 0.41,
           "revenue_q": 3.55044,
-          "pe_ratio": 101.95328648201738,
+          "pe_ratio": 101.98486126000587,
           "rev_growth": null,
           "eps_growth": null,
           "rt_weight": 1.0,
-          "deviation": 1.0380783836152674,
+          "deviation": 1.0383998749141585,
           "theo_price": 40.267525186344066
         }
       ],
@@ -1005,27 +1005,6 @@
       "stock_name": "達邁"
     },
     "kline_data": [
-      {
-        "date": "2026-04-17",
-        "symbol": "3645.TW",
-        "open": 99.5,
-        "high": 109.5,
-        "low": 98.5,
-        "close": 104.5,
-        "volume": 42374084.0,
-        "adjclose": 102.92263793945312,
-        "dividends": 0.0,
-        "MA5": 95.56000061035157,
-        "MA20": 80.72000007629394,
-        "MA60": 70.72666664123535,
-        "bb_mid": 80.72000007629394,
-        "bb_up": 99.6639812125048,
-        "bb_dn": 61.77601894008308,
-        "DIF": 6.661956616473574,
-        "DEA": 4.048527844661469,
-        "HIST": 5.226857543624211,
-        "volume_lot": 42374.084
-      },
       {
         "date": "2026-04-20",
         "symbol": "3645.TW",
@@ -3524,6 +3503,27 @@
         "DEA": 0.7649600699763264,
         "HIST": 0.5884878677807404,
         "volume_lot": 1237.8
+      },
+      {
+        "date": "2026-10-12",
+        "symbol": "3645.TW",
+        "open": 71.0,
+        "high": 75.5,
+        "low": 71.0,
+        "close": null,
+        "volume": 2814999.0,
+        "adjclose": null,
+        "dividends": 0.0,
+        "MA5": null,
+        "MA20": null,
+        "MA60": null,
+        "bb_mid": null,
+        "bb_up": null,
+        "bb_dn": null,
+        "DIF": 1.0592040038666966,
+        "DEA": 0.8238088567544005,
+        "HIST": 0.470790294224592,
+        "volume_lot": 2814.999
       }
     ]
   }

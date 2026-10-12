@@ -1,11 +1,11 @@
 {
   "id": "6831",
   "name": "邁科",
-  "lastUpdated": "2026-10-11 21:41:56",
+  "lastUpdated": "2026-10-13 00:22:32",
   "basicInfo": {
-    "price": "476.00",
-    "change": "-12.00",
-    "changePercent": "-2.46%"
+    "price": "492.50",
+    "change": "16.50",
+    "changePercent": "3.47%"
   },
   "status": null,
   "themes": [],
@@ -179,8 +179,8 @@
         "gross_margin_pct": 22.980499909475277,
         "net_margin_pct": 5.218096812077451,
         "opm_pct": 6.963432852438892,
-        "eps": 1.8,
-        "eps_ytd": 3.01,
+        "eps": 0.59,
+        "eps_ytd": 1.7999999999999998,
         "gross": 22.980499909475277,
         "net": 5.218096812077451,
         "opm": 6.963432852438892
@@ -455,40 +455,40 @@
         "deadline": "2025-11-14",
         "price_basis": "公告後3日",
         "avg_close_3d": 159.83333333333334,
-        "ttm_eps": 4.93,
-        "pe": 32.42055442866802
+        "ttm_eps": 3.72,
+        "pe": 42.96594982078853
       },
       {
         "period": "2025Q2",
         "deadline": "2025-08-14",
         "price_basis": "公告後3日",
         "avg_close_3d": 182.33333333333334,
-        "ttm_eps": 3.65,
-        "pe": 49.95433789954338
+        "ttm_eps": 2.44,
+        "pe": 74.72677595628416
       },
       {
         "period": "2025Q1",
         "deadline": "2025-05-15",
         "price_basis": "公告後3日",
         "avg_close_3d": 76.7999979654948,
-        "ttm_eps": 5.26,
-        "pe": 14.600760069485704
+        "ttm_eps": 3.19,
+        "pe": 24.075234471941943
       },
       {
         "period": "2024Q4",
         "deadline": "2025-03-31",
         "price_basis": "公告後3日",
         "avg_close_3d": 87.76666768391927,
-        "ttm_eps": 5.8999999999999995,
-        "pe": 14.875706387104962
+        "ttm_eps": 3.8299999999999996,
+        "pe": 22.915579029743935
       },
       {
         "period": "2024Q2",
         "deadline": "2024-08-14",
         "price_basis": "公告後3日",
         "avg_close_3d": 86.03943125406902,
-        "ttm_eps": 6.3,
-        "pe": 13.657052580010955
+        "ttm_eps": 3.2399999999999998,
+        "pe": 26.55538001668797
       }
     ],
     "capital_table": [
@@ -501,6 +501,14 @@
       }
     ],
     "chips_table": [
+      {
+        "date": "2026-10-12",
+        "foreign_lots": 125.139,
+        "it_lots": 0.0,
+        "dealer_lots": 2.3600000000000003,
+        "sum_lots": 127.499,
+        "pct_float": 0.01888874074074074
+      },
       {
         "date": "2026-10-08",
         "foreign_lots": -309.902,
@@ -612,14 +620,6 @@
         "dealer_lots": -6.605,
         "sum_lots": -3.7720000000000002,
         "pct_float": -0.0005588148148148148
-      },
-      {
-        "date": "2026-09-16",
-        "foreign_lots": -2.164,
-        "it_lots": 0.0,
-        "dealer_lots": 3.8440000000000003,
-        "sum_lots": 1.6800000000000002,
-        "pct_float": 0.0002488888888888889
       }
     ],
     "returns_table": [
@@ -630,12 +630,12 @@
       },
       {
         "year": 2025,
-        "return_pct": 259.2400491688184,
+        "return_pct": 259.2400827929149,
         "period": "01/02~12/31"
       },
       {
         "year": 2024,
-        "return_pct": 29.628020253508524,
+        "return_pct": 29.62800480439767,
         "period": "01/02~12/31"
       },
       {
@@ -645,7 +645,7 @@
       },
       {
         "year": 2022,
-        "return_pct": -24.180327502915077,
+        "return_pct": -24.18031938575853,
         "period": "01/03~12/30"
       }
     ],
@@ -654,9 +654,9 @@
       "dataset": "structure_c_score",
       "stock_id": "6831",
       "ticker": "6831.TW",
-      "asof": "2026-10-09",
+      "asof": "2026-10-12",
       "c_score": 1.0,
-      "benchmark_pe": 48.99948176775297,
+      "benchmark_pe": 72.76645087239672,
       "source": [
         "FinMind",
         "yahooquery"
@@ -709,8 +709,8 @@
           "rev_growth": null,
           "eps_growth": 138.0952380952381,
           "rt_weight": 1.0,
-          "deviation": 13.04446716757291,
-          "theo_price": 48.99948176775297
+          "deviation": 8.783884928899356,
+          "theo_price": 72.76645087239672
         },
         {
           "period": "2026Q1",
@@ -721,8 +721,8 @@
           "rev_growth": null,
           "eps_growth": 200.0,
           "rt_weight": 1.0,
-          "deviation": 8.917281020059407,
-          "theo_price": 32.33965796671696
+          "deviation": 6.004719805924745,
+          "theo_price": 48.025857575781835
         },
         {
           "period": "2025Q4",
@@ -731,10 +731,10 @@
           "revenue_q": 9.59783,
           "pe_ratio": 113.37365591397848,
           "rev_growth": null,
-          "eps_growth": 0.0,
+          "eps_growth": 205.0847457627119,
           "rt_weight": 1.0,
-          "deviation": 2.313772550725032,
-          "theo_price": 88.19906718195534
+          "deviation": 1.5580484489038855,
+          "theo_price": 130.9796115703141
         },
         {
           "period": "2025Q3",
@@ -745,8 +745,8 @@
           "rev_growth": null,
           "eps_growth": 105.78512396694215,
           "rt_weight": 1.0,
-          "deviation": 1.3972491230873392,
-          "theo_price": 122.00870960170491
+          "deviation": 0.9408797888437112,
+          "theo_price": 181.18846267226783
         },
         {
           "period": "2025Q2",
@@ -755,10 +755,10 @@
           "revenue_q": null,
           "pe_ratio": 199.1764247277861,
           "rev_growth": null,
-          "eps_growth": -79.3103448275862,
+          "eps_growth": -64.1025641025641,
           "rt_weight": 1.0,
-          "deviation": 4.064867985172571,
-          "theo_price": 20.579782342456244
+          "deviation": 2.737201311041842,
+          "theo_price": 30.56190936640662
         },
         {
           "period": "2025Q1",
@@ -769,20 +769,20 @@
           "rev_growth": null,
           "eps_growth": -74.4186046511628,
           "rt_weight": 1.0,
-          "deviation": 9.212780851249313,
-          "theo_price": 10.779885988905653
+          "deviation": 6.203703519121845,
+          "theo_price": 16.008619191927277
         },
         {
           "period": "2024Q4",
           "avg_price": 83.98225821218183,
-          "eps": 1.8,
+          "eps": 0.59,
           "revenue_q": null,
-          "pe_ratio": 46.6568101178788,
+          "pe_ratio": 142.34281052912175,
           "rev_growth": null,
-          "eps_growth": -18.181818181818187,
+          "eps_growth": null,
           "rt_weight": 1.0,
-          "deviation": 0.95218986884437,
-          "theo_price": 88.19906718195534
+          "deviation": 1.9561598624444962,
+          "theo_price": 42.93220601471406
         },
         {
           "period": "2024Q2",
@@ -793,20 +793,20 @@
           "rev_growth": null,
           "eps_growth": -45.00000000000001,
           "rt_weight": 1.0,
-          "deviation": 1.4850453157299517,
-          "theo_price": 59.28937293898109
+          "deviation": 1.0,
+          "theo_price": 88.04740555560002
         },
         {
           "period": "2023Q4",
           "avg_price": 64.16646073356507,
-          "eps": 2.03,
+          "eps": 1.17,
           "revenue_q": null,
-          "pe_ratio": 31.609093957421223,
+          "pe_ratio": 54.843128832106906,
           "rev_growth": null,
-          "eps_growth": 66.39344262295081,
+          "eps_growth": 216.2162162162162,
           "rt_weight": 1.0,
-          "deviation": 0.6450903727358086,
-          "theo_price": 99.46894798853852
+          "deviation": 0.7536870106291133,
+          "theo_price": 85.13674752070415
         },
         {
           "period": "2023Q2",
@@ -817,20 +817,20 @@
           "rev_growth": null,
           "eps_growth": null,
           "rt_weight": 1.0,
-          "deviation": 1.0478101311556298,
-          "theo_price": 42.13955432026755
+          "deviation": 0.7055745168561368,
+          "theo_price": 62.57914775026118
         },
         {
           "period": "2022Q4",
           "avg_price": 36.2751961350441,
-          "eps": 2.2,
+          "eps": 0.0,
           "revenue_q": null,
-          "pe_ratio": 16.488725515929133,
+          "pe_ratio": null,
           "rev_growth": null,
           "eps_growth": null,
           "rt_weight": 1.0,
-          "deviation": 0.33650816133285155,
-          "theo_price": 107.79885988905654
+          "deviation": null,
+          "theo_price": 0
         },
         {
           "period": "2022Q2",
@@ -841,20 +841,20 @@
           "rev_growth": null,
           "eps_growth": null,
           "rt_weight": 1.0,
-          "deviation": 0.37202574525981374,
-          "theo_price": 107.79885988905654
+          "deviation": 0.25051474276187335,
+          "theo_price": 160.08619191927278
         },
         {
           "period": "2021Q4",
-          "avg_price": 45.44612826331187,
-          "eps": 1.22,
+          "avg_price": 45.537443555634596,
+          "eps": 0.37,
           "revenue_q": null,
-          "pe_ratio": 37.250924805993336,
+          "pe_ratio": 123.07417177198539,
           "rev_growth": null,
           "eps_growth": null,
           "rt_weight": 1.0,
-          "deviation": 0.7602309955553148,
-          "theo_price": 59.77936775665862
+          "deviation": 1.6913587277715154,
+          "theo_price": 26.923586822786785
         }
       ],
       "notes": [
@@ -867,28 +867,6 @@
       "stock_name": "邁科"
     },
     "kline_data": [
-      {
-        "date": "2026-04-17",
-        "symbol": "6831.TW",
-        "open": 437.5,
-        "high": 475.0,
-        "low": 435.0,
-        "close": 475.0,
-        "volume": 1615059.0,
-        "adjclose": 475.0,
-        "dividends": 0.0,
-        "splits": 0.0,
-        "MA5": 447.5,
-        "MA20": 398.6,
-        "MA60": 314.0083333333333,
-        "bb_mid": 398.6,
-        "bb_up": 477.10006369424326,
-        "bb_dn": 320.0999363057568,
-        "DIF": 36.50088350578284,
-        "DEA": 33.26859919029726,
-        "HIST": 6.464568630971158,
-        "volume_lot": 1615.059
-      },
       {
         "date": "2026-04-20",
         "symbol": "6831.TW",
@@ -3506,6 +3484,28 @@
         "DEA": -29.122304091957137,
         "HIST": 1.886278829822721,
         "volume_lot": 1841.438
+      },
+      {
+        "date": "2026-10-12",
+        "symbol": "6831.TW",
+        "open": 476.0,
+        "high": 497.0,
+        "low": 465.0,
+        "close": null,
+        "volume": 680734.0,
+        "adjclose": null,
+        "dividends": 0.0,
+        "splits": 0.0,
+        "MA5": null,
+        "MA20": null,
+        "MA60": null,
+        "bb_mid": null,
+        "bb_up": null,
+        "bb_dn": null,
+        "DIF": -28.179164677045776,
+        "DEA": -28.933676208974862,
+        "HIST": 1.50902306385818,
+        "volume_lot": 680.734
       }
     ]
   }

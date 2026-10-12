@@ -1,11 +1,11 @@
 {
   "id": "3580",
   "name": "友威科",
-  "lastUpdated": "2026-10-11 21:41:56",
+  "lastUpdated": "2026-10-13 00:22:32",
   "basicInfo": {
-    "price": "102.50",
-    "change": "-1.00",
-    "changePercent": "-0.97%"
+    "price": "112.50",
+    "change": "10.00",
+    "changePercent": "9.76%"
   },
   "status": null,
   "themes": [],
@@ -568,6 +568,14 @@
     ],
     "chips_table": [
       {
+        "date": "2026-10-12",
+        "foreign_lots": 574.0,
+        "it_lots": 0.0,
+        "dealer_lots": 27.518,
+        "sum_lots": 601.518,
+        "pct_float": 0.15239608114373449
+      },
+      {
         "date": "2026-10-08",
         "foreign_lots": -36.475,
         "it_lots": 0.0,
@@ -678,14 +686,6 @@
         "dealer_lots": 3.159,
         "sum_lots": -176.96200000000002,
         "pct_float": -0.04483376276579843
-      },
-      {
-        "date": "2026-09-16",
-        "foreign_lots": -194.615,
-        "it_lots": 0.0,
-        "dealer_lots": 0.754,
-        "sum_lots": -193.86100000000002,
-        "pct_float": -0.0491151664399162
       }
     ],
     "returns_table": [
@@ -711,7 +711,7 @@
       },
       {
         "year": 2022,
-        "return_pct": 2.900911766488301,
+        "return_pct": 2.900919844252048,
         "period": "01/03~12/30"
       }
     ],
@@ -720,7 +720,7 @@
       "dataset": "structure_c_score",
       "stock_id": "3580",
       "ticker": "3580.TWO",
-      "asof": "2026-10-09",
+      "asof": "2026-10-12",
       "c_score": 2.0130775609102463,
       "benchmark_pe": 68.21827196591943,
       "source": [
@@ -984,14 +984,14 @@
         },
         {
           "period": "2021Q4",
-          "avg_price": 53.47203406641039,
+          "avg_price": 53.62844842055748,
           "eps": 1.09,
           "revenue_q": 1.46685,
-          "pe_ratio": 49.05691198753246,
+          "pe_ratio": 49.20041139500686,
           "rev_growth": null,
           "eps_growth": null,
           "rt_weight": 1.0,
-          "deviation": 0.7191168960134372,
+          "deviation": 0.7212204293240742,
           "theo_price": 74.35791644285219
         }
       ],
@@ -1005,27 +1005,6 @@
       "stock_name": "友威科"
     },
     "kline_data": [
-      {
-        "date": "2026-04-17",
-        "symbol": "3580.TWO",
-        "open": 81.9000015258789,
-        "high": 85.5,
-        "low": 81.4000015258789,
-        "close": 84.0,
-        "volume": 1371339.0,
-        "adjclose": 82.90196228027344,
-        "dividends": 0.0,
-        "MA5": 83.36000061035156,
-        "MA20": 75.84500045776367,
-        "MA60": 70.96500027974447,
-        "bb_mid": 75.84500045776367,
-        "bb_up": 86.42922914220401,
-        "bb_dn": 65.26077177332334,
-        "DIF": 3.5883274701046304,
-        "DEA": 2.6965223690895117,
-        "HIST": 1.7836102020302382,
-        "volume_lot": 1371.339
-      },
       {
         "date": "2026-04-20",
         "symbol": "3580.TWO",
@@ -3524,6 +3503,27 @@
         "DEA": 5.692786590196814,
         "HIST": -0.423805647716442,
         "volume_lot": 385.712
+      },
+      {
+        "date": "2026-10-12",
+        "symbol": "3580.TWO",
+        "open": 112.5,
+        "high": 112.5,
+        "low": 111.0,
+        "close": null,
+        "volume": 1582963.0,
+        "adjclose": null,
+        "dividends": 0.0,
+        "MA5": null,
+        "MA20": null,
+        "MA60": null,
+        "bb_mid": null,
+        "bb_up": null,
+        "bb_dn": null,
+        "DIF": 5.480883766338593,
+        "DEA": 5.65040602542517,
+        "HIST": -0.3390445181731536,
+        "volume_lot": 1582.963
       }
     ]
   }

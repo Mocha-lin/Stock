@@ -1,11 +1,11 @@
 {
   "id": "7828",
   "name": "創新服務",
-  "lastUpdated": "2026-10-11 21:41:56",
+  "lastUpdated": "2026-10-13 00:22:32",
   "basicInfo": {
-    "price": "1840.00",
-    "change": "40.00",
-    "changePercent": "2.22%"
+    "price": "1830.00",
+    "change": "-10.00",
+    "changePercent": "-0.54%"
   },
   "status": null,
   "themes": [],
@@ -410,6 +410,14 @@
     ],
     "chips_table": [
       {
+        "date": "2026-10-12",
+        "foreign_lots": 37.653,
+        "it_lots": -45.0,
+        "dealer_lots": 2.265,
+        "sum_lots": -5.082000000000001,
+        "pct_float": -0.0012550038400845562
+      },
+      {
         "date": "2026-10-08",
         "foreign_lots": 2.0,
         "it_lots": 0.0,
@@ -520,14 +528,6 @@
         "dealer_lots": -1.776,
         "sum_lots": -10.44,
         "pct_float": -0.0025781660941524526
-      },
-      {
-        "date": "2026-09-16",
-        "foreign_lots": 30.159,
-        "it_lots": 0.0,
-        "dealer_lots": 2.624,
-        "sum_lots": 32.783,
-        "pct_float": 0.008095787266724124
       }
     ],
     "returns_table": [
@@ -547,7 +547,7 @@
       "dataset": "structure_c_score",
       "stock_id": "7828",
       "ticker": "7828.TWO",
-      "asof": "2026-10-09",
+      "asof": "2026-10-12",
       "c_score": 1.0,
       "benchmark_pe": 82.16608632809934,
       "source": [
@@ -676,27 +676,6 @@
       "stock_name": "創新服務"
     },
     "kline_data": [
-      {
-        "date": "2026-04-17",
-        "symbol": "7828.TWO",
-        "open": 1375.0,
-        "high": 1455.0,
-        "low": 1335.0,
-        "close": 1430.0,
-        "volume": 686696.0,
-        "adjclose": 1426.0137939453125,
-        "dividends": 0.0,
-        "MA5": 1354.0,
-        "MA20": 1352.75,
-        "MA60": 1026.9,
-        "bb_mid": 1352.75,
-        "bb_up": 1469.7745700697003,
-        "bb_dn": 1235.7254299302997,
-        "DIF": 79.76618167925812,
-        "DEA": 91.19574487404606,
-        "HIST": -22.859126389575863,
-        "volume_lot": 686.696
-      },
       {
         "date": "2026-04-20",
         "symbol": "7828.TWO",
@@ -3195,6 +3174,27 @@
         "DEA": 26.742972841332136,
         "HIST": -49.85605998569182,
         "volume_lot": 132.443
+      },
+      {
+        "date": "2026-10-12",
+        "symbol": "7828.TWO",
+        "open": 1795.0,
+        "high": 1880.0,
+        "low": 1795.0,
+        "close": null,
+        "volume": 238610.0,
+        "adjclose": null,
+        "dividends": 0.0,
+        "MA5": null,
+        "MA20": null,
+        "MA60": null,
+        "bb_mid": null,
+        "bb_up": null,
+        "bb_dn": null,
+        "DIF": 1.8149428484862256,
+        "DEA": 21.75736684276296,
+        "HIST": -39.88484798855346,
+        "volume_lot": 238.61
       }
     ]
   }

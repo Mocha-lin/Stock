@@ -1,11 +1,11 @@
 {
   "id": "2359",
   "name": "所羅門",
-  "lastUpdated": "2026-10-11 21:41:56",
+  "lastUpdated": "2026-10-13 00:22:32",
   "basicInfo": {
-    "price": "127.00",
-    "change": "-0.50",
-    "changePercent": "-0.39%"
+    "price": "127.50",
+    "change": "0.50",
+    "changePercent": "0.39%"
   },
   "status": null,
   "themes": [],
@@ -568,6 +568,14 @@
     ],
     "chips_table": [
       {
+        "date": "2026-10-12",
+        "foreign_lots": -835.29,
+        "it_lots": 0.0,
+        "dealer_lots": 4.705,
+        "sum_lots": -830.5849999999999,
+        "pct_float": -0.04843877481394823
+      },
+      {
         "date": "2026-10-08",
         "foreign_lots": -205.279,
         "it_lots": 0.0,
@@ -678,14 +686,6 @@
         "dealer_lots": 52.89,
         "sum_lots": -529.38,
         "pct_float": -0.030872840962704505
-      },
-      {
-        "date": "2026-09-16",
-        "foreign_lots": -148.744,
-        "it_lots": 0.0,
-        "dealer_lots": 17.948,
-        "sum_lots": -130.796,
-        "pct_float": -0.007627874318179565
       }
     ],
     "returns_table": [
@@ -711,7 +711,7 @@
       },
       {
         "year": 2022,
-        "return_pct": 3.236481466432939,
+        "return_pct": 3.2364734047150012,
         "period": "01/03~12/30"
       }
     ],
@@ -720,7 +720,7 @@
       "dataset": "structure_c_score",
       "stock_id": "2359",
       "ticker": "2359.TW",
-      "asof": "2026-10-09",
+      "asof": "2026-10-12",
       "c_score": 9.046417944126112,
       "benchmark_pe": 40.33031020950578,
       "source": [
@@ -984,14 +984,14 @@
         },
         {
           "period": "2021Q4",
-          "avg_price": 17.832203396296098,
+          "avg_price": 17.846551730714996,
           "eps": 0.5,
           "revenue_q": 6.91349,
-          "pe_ratio": 35.664406792592196,
+          "pe_ratio": 35.69310346142999,
           "rev_growth": null,
           "eps_growth": null,
           "rt_weight": 1.0,
-          "deviation": 0.884307772673322,
+          "deviation": 0.8850193136629331,
           "theo_price": 20.16515510475289
         }
       ],
@@ -1005,27 +1005,6 @@
       "stock_name": "所羅門"
     },
     "kline_data": [
-      {
-        "date": "2026-04-17",
-        "symbol": "2359.TW",
-        "open": 114.0,
-        "high": 116.0,
-        "low": 114.0,
-        "close": 115.0,
-        "volume": 769346.0,
-        "adjclose": 114.17266082763672,
-        "dividends": 0.0,
-        "MA5": 113.8,
-        "MA20": 112.3,
-        "MA60": 122.025,
-        "bb_mid": 112.3,
-        "bb_up": 117.6888774341287,
-        "bb_dn": 106.9111225658713,
-        "DIF": -1.5748208362459764,
-        "DEA": -2.64328353071356,
-        "HIST": 2.1369253889351665,
-        "volume_lot": 769.346
-      },
       {
         "date": "2026-04-20",
         "symbol": "2359.TW",
@@ -3524,6 +3503,27 @@
         "DEA": -3.8425109376391298,
         "HIST": 0.7059770921927608,
         "volume_lot": 1534.337
+      },
+      {
+        "date": "2026-10-12",
+        "symbol": "2359.TW",
+        "open": 127.5,
+        "high": 131.0,
+        "low": 127.5,
+        "close": null,
+        "volume": 2866608.0,
+        "adjclose": null,
+        "dividends": 0.0,
+        "MA5": null,
+        "MA20": null,
+        "MA60": null,
+        "bb_mid": null,
+        "bb_up": null,
+        "bb_dn": null,
+        "DIF": -3.4895223915427493,
+        "DEA": -3.7719132284198538,
+        "HIST": 0.5647816737542088,
+        "volume_lot": 2866.608
       }
     ]
   }

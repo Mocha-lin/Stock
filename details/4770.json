@@ -1,11 +1,11 @@
 {
   "id": "4770",
   "name": "上品",
-  "lastUpdated": "2026-10-11 21:41:56",
+  "lastUpdated": "2026-10-13 00:22:32",
   "basicInfo": {
-    "price": "282.00",
-    "change": "14.50",
-    "changePercent": "5.42%"
+    "price": "270.00",
+    "change": "-12.00",
+    "changePercent": "-4.26%"
   },
   "status": null,
   "themes": [],
@@ -568,6 +568,14 @@
     ],
     "chips_table": [
       {
+        "date": "2026-10-12",
+        "foreign_lots": -38.042,
+        "it_lots": 0.0,
+        "dealer_lots": 0.34399999999999986,
+        "sum_lots": -37.698,
+        "pct_float": -0.004713664099229769
+      },
+      {
         "date": "2026-10-08",
         "foreign_lots": -194.496,
         "it_lots": 0.0,
@@ -678,14 +686,6 @@
         "dealer_lots": -5.7940000000000005,
         "sum_lots": 424.384,
         "pct_float": 0.053063919175752726
-      },
-      {
-        "date": "2026-09-16",
-        "foreign_lots": 9.0,
-        "it_lots": 0.0,
-        "dealer_lots": -0.6620000000000008,
-        "sum_lots": 8.338,
-        "pct_float": 0.001042562768830649
       }
     ],
     "returns_table": [
@@ -706,12 +706,12 @@
       },
       {
         "year": 2023,
-        "return_pct": 3.288324663772735,
+        "return_pct": 3.2883356299867827,
         "period": "01/03~12/29"
       },
       {
         "year": 2022,
-        "return_pct": 14.670151393803765,
+        "return_pct": 14.670156701372328,
         "period": "01/03~12/30"
       }
     ],
@@ -720,7 +720,7 @@
       "dataset": "structure_c_score",
       "stock_id": "4770",
       "ticker": "4770.TW",
-      "asof": "2026-10-09",
+      "asof": "2026-10-12",
       "c_score": 1.2570443223141334,
       "benchmark_pe": 62.412132024977694,
       "source": [
@@ -984,14 +984,14 @@
         },
         {
           "period": "2021Q4",
-          "avg_price": 252.4915254237288,
+          "avg_price": 252.93965517241378,
           "eps": 4.09,
           "revenue_q": 7.37973,
-          "pe_ratio": 61.73386929675521,
+          "pe_ratio": 61.84343647247281,
           "rev_growth": null,
           "eps_growth": null,
           "rt_weight": 1.0,
-          "deviation": 0.9891325178900948,
+          "deviation": 0.990888060797582,
           "theo_price": 255.26561998215877
         }
       ],
@@ -1005,27 +1005,6 @@
       "stock_name": "上品"
     },
     "kline_data": [
-      {
-        "date": "2026-04-17",
-        "symbol": "4770.TW",
-        "open": 228.5,
-        "high": 232.5,
-        "low": 227.0,
-        "close": 230.5,
-        "volume": 399001.0,
-        "adjclose": 230.5,
-        "dividends": 0.0,
-        "MA5": 228.4,
-        "MA20": 224.9,
-        "MA60": 236.225,
-        "bb_mid": 224.9,
-        "bb_up": 236.42215257665157,
-        "bb_dn": 213.37784742334847,
-        "DIF": -1.9724530476599968,
-        "DEA": -3.139171715716558,
-        "HIST": 2.333437336113123,
-        "volume_lot": 399.001
-      },
       {
         "date": "2026-04-20",
         "symbol": "4770.TW",
@@ -3524,6 +3503,27 @@
         "DEA": 13.258077758370762,
         "HIST": 0.7790548517914111,
         "volume_lot": 1878.715
+      },
+      {
+        "date": "2026-10-12",
+        "symbol": "4770.TW",
+        "open": 278.5,
+        "high": 284.0,
+        "low": 270.0,
+        "close": null,
+        "volume": 833204.0,
+        "adjclose": null,
+        "dividends": 0.0,
+        "MA5": null,
+        "MA20": null,
+        "MA60": null,
+        "bb_mid": null,
+        "bb_up": null,
+        "bb_dn": null,
+        "DIF": 13.647605184266467,
+        "DEA": 13.335983243549904,
+        "HIST": 0.623243881433126,
+        "volume_lot": 833.204
       }
     ]
   }
