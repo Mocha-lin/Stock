@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-12T02:05:18.325429+00:00
+> 更新時間：2026-10-12T06:47:45.173764+00:00
 
 ### 🚀 Advanced packaging leads Malaysia's push up the chip value chain as AI reshapes demand, says Yole analyst
 - **題材**: `半導體先進製程` | **重要性**: `78`
@@ -7,15 +7,6 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Malaysia is moving from traditional semiconductor back-end manufacturing toward higher value-added work, with advanced packaging set to drive growth over the next two to three years, according to Nur Hilwani, Technology & Market Analyst, Semiconductor Equipme…
 - [原文連結](https://www.digitimes.com/news/a20261008VL226/malaysia-packaging-manufacturing-growth-yole.html)
-
----
-
-### 🚀 GlobalFoundries wins US$2 billion TSMC interposer deal, closing a US packaging gap
-- **題材**: `半導體先進製程` | **重要性**: `78`
-- **來源**: Digitimes (2026-10-09T02:43:17Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: GF said on October 8, 2026, that it has signed a multi-year, US$2 billion manufacturing agreement with TSMC to produce silicon interposers for TSMC's CoWoS ecosystem at its Malta, New York fab, which GF says will become the first US-based source of silicon in…
-- [原文連結](https://www.digitimes.com/news/a20261009VL200/tsmc-globalfoundries-packaging-cowos-silicon.html)
 
 ---
 
@@ -43,6 +34,15 @@
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: The AI server supply chain is poised for a stronger quarter as Nvidia's Vera Rubin and AWS's Trainium 3 gradually ramp up, with momentum expected to strengthen across the supply chain from ODMs to component suppliers.
 - [原文連結](https://www.digitimes.com/news/a20261006PD237/repon-ai-server-slide-rails-asic-revenue-supply-chain.html)
+
+---
+
+### 🚀 GlobalFoundries wins US$2 billion TSMC interposer deal, closing a US packaging gap
+- **題材**: `半導體先進製程` | **重要性**: `73`
+- **來源**: Digitimes (2026-10-09T02:43:17Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: GF said on October 8, 2026, that it has signed a multi-year, US$2 billion manufacturing agreement with TSMC to produce silicon interposers for TSMC's CoWoS ecosystem at its Malta, New York fab, which GF says will become the first US-based source of silicon in…
+- [原文連結](https://www.digitimes.com/news/a20261009VL200/tsmc-globalfoundries-packaging-cowos-silicon.html)
 
 ---
 
