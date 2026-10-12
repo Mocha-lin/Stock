@@ -1,5 +1,14 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-11T22:32:48.921752+00:00
+> 更新時間：2026-10-12T02:05:18.325429+00:00
+
+### 🚀 Advanced packaging leads Malaysia's push up the chip value chain as AI reshapes demand, says Yole analyst
+- **題材**: `半導體先進製程` | **重要性**: `78`
+- **來源**: Digitimes (2026-10-10T06:26:21Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Malaysia is moving from traditional semiconductor back-end manufacturing toward higher value-added work, with advanced packaging set to drive growth over the next two to three years, according to Nur Hilwani, Technology & Market Analyst, Semiconductor Equipme…
+- [原文連結](https://www.digitimes.com/news/a20261008VL226/malaysia-packaging-manufacturing-growth-yole.html)
+
+---
 
 ### 🚀 GlobalFoundries wins US$2 billion TSMC interposer deal, closing a US packaging gap
 - **題材**: `半導體先進製程` | **重要性**: `78`
@@ -7,15 +16,6 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: GF said on October 8, 2026, that it has signed a multi-year, US$2 billion manufacturing agreement with TSMC to produce silicon interposers for TSMC's CoWoS ecosystem at its Malta, New York fab, which GF says will become the first US-based source of silicon in…
 - [原文連結](https://www.digitimes.com/news/a20261009VL200/tsmc-globalfoundries-packaging-cowos-silicon.html)
-
----
-
-### 🚀 Samsung HBM4E wins NVIDIA nod for AI accelerator push
-- **題材**: `HBM記憶體` | **重要性**: `78`
-- **來源**: Digitimes (2026-10-09T01:46:25Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Samsung Electronics' next-generation 12-layer HBM4E product, a type of high-bandwidth memory (HBM), has reportedly cleared customer quality validation from Nvidia and major hyperscale data center operators. If confirmed, the result would strengthen Samsung's …
-- [原文連結](https://www.digitimes.com/news/a20261008PD231/samsung-hbm-production-data-data-center.html)
 
 ---
 
@@ -46,6 +46,15 @@
 
 ---
 
+### 🚀 Samsung HBM4E wins NVIDIA nod for AI accelerator push
+- **題材**: `HBM記憶體` | **重要性**: `73`
+- **來源**: Digitimes (2026-10-09T01:46:25Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Samsung Electronics' next-generation 12-layer HBM4E product, a type of high-bandwidth memory (HBM), has reportedly cleared customer quality validation from Nvidia and major hyperscale data center operators. If confirmed, the result would strengthen Samsung's …
+- [原文連結](https://www.digitimes.com/news/a20261008PD231/samsung-hbm-production-data-data-center.html)
+
+---
+
 ### ⚠️ 27 Samsung, SK Hynix veterans joined China's CXMT, study shows
 - **題材**: `HBM記憶體` | **重要性**: `73`
 - **來源**: Digitimes (2026-10-07T23:51:01Z)
@@ -70,15 +79,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Largan Precision reported September consolidated revenue of NT$5.78 billion (US$181.99 million), up 15% from August but down 7% from a year earlier. Third-quarter revenue rose 15% sequentially to NT$15.65 billion.
 - [原文連結](https://www.digitimes.com/news/a20261005PD243/largan-precision-revenue-smartphone-demand-production.html)
-
----
-
-### 🚀 Nanya Tech expands 3D OSAT to chase HBM-like demand
-- **題材**: `HBM記憶體` | **重要性**: `73`
-- **來源**: Digitimes (2026-10-04T23:45:53Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Nanya Technology is stepping up investment in new factory capacity to expand packaging and testing as some customers move into trial production for specification-based designs. The company said it has won approval from the National Science and Technology Coun…
-- [原文連結](https://www.digitimes.com/news/a20261002PD230/nanya-technology-3d-demand-osat-plant.html)
 
 ---
 
@@ -172,12 +172,12 @@
 
 ---
 
-### ⚖️ Podcast highlights: TSMC Texas plant talk is premature, Intel 18A hits backfiring criticism
-- **題材**: `半導體先進製程` | **重要性**: `68`
-- **來源**: Digitimes (2026-10-04T23:44:58Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: This excerpt from DIGITIMES analyst Luke Lin's podcast looks at TSMC's rumored Texas expansion, Intel's 14A and 18A process debate, and Qualcomm's high bandwidth compute (HBC) push as AI workloads drive demand for hybrid bonding and advanced packaging.
-- [原文連結](https://www.digitimes.com/news/a20261002PD227/tsmc-intel-texas-digitimes-arizona.html)
+### ⚖️ SpaceX reportedly seeking $40 billion debt package for Nvidia AI hardware
+- **題材**: `AI伺服器` | **重要性**: `67`
+- **來源**: Tom's Hardware UK (2026-10-08T11:00:00Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: SpaceX reportedly intends to borrow $40 billion to procure 360,000 Nvidia Rubin AI accelerators, infrastructure.
+- [原文連結](https://www.tomshardware.com/tech-industry/artificial-intelligence/spacex-reportedly-seeking-usd40-billion-debt-package-for-nvidia-ai-hardware-massive-raise-could-fund-roughly-360-000-vera-rubin-gpus-across-5-000-nvl72-racks)
 
 ---
 
