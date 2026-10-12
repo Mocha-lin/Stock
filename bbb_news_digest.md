@@ -1,14 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-12T18:39:11.134659+00:00
-
-### 🚀 Advanced packaging leads Malaysia's push up the chip value chain as AI reshapes demand, says Yole analyst
-- **題材**: `半導體先進製程` | **重要性**: `78`
-- **來源**: Digitimes (2026-10-10T06:26:21Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Malaysia is moving from traditional semiconductor back-end manufacturing toward higher value-added work, with advanced packaging set to drive growth over the next two to three years, according to Nur Hilwani, Technology & Market Analyst, Semiconductor Equipme…
-- [原文連結](https://www.digitimes.com/news/a20261008VL226/malaysia-packaging-manufacturing-growth-yole.html)
-
----
+> 更新時間：2026-10-12T21:26:17.771505+00:00
 
 ### 🚀 Samsung Electronics posts record quarterly profit in preliminary results
 - **題材**: `HBM記憶體` | **重要性**: `78`
@@ -178,6 +169,15 @@
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: SpaceX reportedly intends to borrow $40 billion to procure 360,000 Nvidia Rubin AI accelerators, infrastructure.
 - [原文連結](https://www.tomshardware.com/tech-industry/artificial-intelligence/spacex-reportedly-seeking-usd40-billion-debt-package-for-nvidia-ai-hardware-massive-raise-could-fund-roughly-360-000-vera-rubin-gpus-across-5-000-nvl72-racks)
+
+---
+
+### 🚀 AI chip boom pushes Samsung profits to record $80bn
+- **題材**: `HBM記憶體` | **重要性**: `65`
+- **來源**: BBC News (2026-10-08T01:31:56Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: The tech giant is also expected to get a boost from its latest folding devices that were launched in August.
+- [原文連結](https://www.bbc.co.uk/news/articles/c687z8127302o)
 
 ---
 
