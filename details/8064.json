@@ -1,11 +1,11 @@
 {
   "id": "8064",
   "name": "東捷",
-  "lastUpdated": "2026-10-13 00:22:32",
+  "lastUpdated": "2026-10-13 22:43:21",
   "basicInfo": {
-    "price": "128.00",
-    "change": "-5.50",
-    "changePercent": "-4.12%"
+    "price": "121.00",
+    "change": "-7.00",
+    "changePercent": "-5.47%"
   },
   "status": null,
   "themes": [],
@@ -568,6 +568,14 @@
     ],
     "chips_table": [
       {
+        "date": "2026-10-13",
+        "foreign_lots": 1917.941,
+        "it_lots": 0.0,
+        "dealer_lots": -30.639999999999997,
+        "sum_lots": 1887.301,
+        "pct_float": 0.10211684155963333
+      },
+      {
         "date": "2026-10-12",
         "foreign_lots": 747.334,
         "it_lots": 0.0,
@@ -678,21 +686,13 @@
         "dealer_lots": -8.908999999999999,
         "sum_lots": 3288.812,
         "pct_float": 0.1779488772185363
-      },
-      {
-        "date": "2026-09-17",
-        "foreign_lots": 696.99,
-        "it_lots": 0.0,
-        "dealer_lots": 134.91899999999998,
-        "sum_lots": 831.909,
-        "pct_float": 0.04501238517069243
       }
     ],
     "returns_table": [
       {
         "year": 2026,
-        "return_pct": 177.57381920443837,
-        "period": "01/02~10/08"
+        "return_pct": 151.58376122649472,
+        "period": "01/02~10/13"
       },
       {
         "year": 2025,
@@ -706,12 +706,12 @@
       },
       {
         "year": 2023,
-        "return_pct": 15.582041903647447,
+        "return_pct": 15.582066716764341,
         "period": "01/03~12/29"
       },
       {
         "year": 2022,
-        "return_pct": -19.31974356906482,
+        "return_pct": -19.319741553433712,
         "period": "01/03~12/30"
       }
     ],
@@ -720,7 +720,7 @@
       "dataset": "structure_c_score",
       "stock_id": "8064",
       "ticker": "8064.TWO",
-      "asof": "2026-10-12",
+      "asof": "2026-10-13",
       "c_score": 3.4753232624279216,
       "benchmark_pe": 52.27332670636842,
       "source": [
@@ -984,14 +984,14 @@
         },
         {
           "period": "2021Q4",
-          "avg_price": 20.670689615710028,
+          "avg_price": 20.704385924757574,
           "eps": 0.76,
           "revenue_q": 6.63872,
-          "pe_ratio": 27.198275810144775,
+          "pe_ratio": 27.242613058891543,
           "rev_growth": null,
           "eps_growth": null,
           "rt_weight": 1.0,
-          "deviation": 0.5203088749817645,
+          "deviation": 0.5211570561009005,
           "theo_price": 39.72772829684
         }
       ],
@@ -3505,25 +3505,25 @@
         "volume_lot": 1720.611
       },
       {
-        "date": "2026-10-12",
+        "date": "2026-10-13",
         "symbol": "8064.TWO",
-        "open": 130.0,
-        "high": 132.0,
-        "low": 127.0,
-        "close": null,
-        "volume": 3570185.0,
-        "adjclose": null,
+        "open": 125.0,
+        "high": 128.0,
+        "low": 118.5,
+        "close": 121.0,
+        "volume": 5741396.0,
+        "adjclose": 121.0,
         "dividends": 0.0,
-        "MA5": null,
-        "MA20": null,
-        "MA60": null,
-        "bb_mid": null,
-        "bb_up": null,
-        "bb_dn": null,
-        "DIF": 6.4100839115460815,
-        "DEA": 7.069700259744644,
-        "HIST": -1.3192326963971244,
-        "volume_lot": 3570.185
+        "MA5": 132.5,
+        "MA20": 131.3,
+        "MA60": 113.82499987284342,
+        "bb_mid": 131.3,
+        "bb_up": 152.21267558204838,
+        "bb_dn": 110.38732441795166,
+        "DIF": 4.800058898472685,
+        "DEA": 6.747695257129965,
+        "HIST": -3.89527271731456,
+        "volume_lot": 5741.396
       }
     ]
   }

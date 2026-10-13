@@ -1,11 +1,11 @@
 {
   "id": "8028",
   "name": "昇陽半導體",
-  "lastUpdated": "2026-10-13 00:22:32",
+  "lastUpdated": "2026-10-13 22:43:21",
   "basicInfo": {
-    "price": "281.50",
-    "change": "-3.50",
-    "changePercent": "-1.23%"
+    "price": "276.00",
+    "change": "-5.50",
+    "changePercent": "-1.95%"
   },
   "status": null,
   "themes": [],
@@ -557,6 +557,14 @@
     ],
     "chips_table": [
       {
+        "date": "2026-10-13",
+        "foreign_lots": 604.09,
+        "it_lots": 0.0,
+        "dealer_lots": -51.438,
+        "sum_lots": 552.652,
+        "pct_float": 0.03010902188664361
+      },
+      {
         "date": "2026-10-12",
         "foreign_lots": 82.739,
         "it_lots": 0.0,
@@ -667,21 +675,13 @@
         "dealer_lots": 10.826999999999998,
         "sum_lots": 409.551,
         "pct_float": 0.022312739341749918
-      },
-      {
-        "date": "2026-09-17",
-        "foreign_lots": -1870.975,
-        "it_lots": 1971.0,
-        "dealer_lots": 78.686,
-        "sum_lots": 178.7110000000001,
-        "pct_float": 0.009736350199373148
       }
     ],
     "returns_table": [
       {
         "year": 2026,
-        "return_pct": 54.18543550515695,
-        "period": "01/02~10/08"
+        "return_pct": 49.31642175236253,
+        "period": "01/02~10/13"
       },
       {
         "year": 2025,
@@ -700,7 +700,7 @@
       },
       {
         "year": 2022,
-        "return_pct": 5.287450951125905,
+        "return_pct": 5.2874505357609625,
         "period": "01/03~12/30"
       }
     ],
@@ -709,7 +709,7 @@
       "dataset": "structure_c_score",
       "stock_id": "8028",
       "ticker": "8028.TW",
-      "asof": "2026-10-12",
+      "asof": "2026-10-13",
       "c_score": 1.209629310649403,
       "benchmark_pe": 112.37154150197627,
       "source": [
@@ -973,14 +973,14 @@
         },
         {
           "period": "2021Q4",
-          "avg_price": 46.36438021166571,
+          "avg_price": 46.43388252927546,
           "eps": 0.83,
           "revenue_q": 5.08616,
-          "pe_ratio": 55.860699050199656,
+          "pe_ratio": 55.944436782259594,
           "rev_growth": null,
           "eps_growth": null,
           "rt_weight": 1.0,
-          "deviation": 0.49710717058390835,
+          "deviation": 0.49785235687343227,
           "theo_price": 93.2683794466403
         }
       ],
@@ -3494,25 +3494,25 @@
         "volume_lot": 2608.817
       },
       {
-        "date": "2026-10-12",
+        "date": "2026-10-13",
         "symbol": "8028.TW",
-        "open": 280.0,
-        "high": 284.0,
-        "low": 279.5,
-        "close": null,
-        "volume": 1674069.0,
-        "adjclose": null,
+        "open": 276.0,
+        "high": 279.5,
+        "low": 268.5,
+        "close": 276.0,
+        "volume": 3494638.0,
+        "adjclose": 276.0,
         "dividends": 0.0,
-        "MA5": null,
-        "MA20": null,
-        "MA60": null,
-        "bb_mid": null,
-        "bb_up": null,
-        "bb_dn": null,
-        "DIF": 9.47142052928416,
-        "DEA": 6.79542349338713,
-        "HIST": 5.35199407179406,
-        "volume_lot": 1674.069
+        "MA5": 281.5,
+        "MA20": 261.375,
+        "MA60": 263.31666666666666,
+        "bb_mid": 261.375,
+        "bb_up": 307.0968492626881,
+        "bb_dn": 215.6531507373119,
+        "DIF": 8.874201725602461,
+        "DEA": 6.67597973265079,
+        "HIST": 4.396443985903343,
+        "volume_lot": 3494.638
       }
     ]
   }

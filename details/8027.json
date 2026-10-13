@@ -1,11 +1,11 @@
 {
   "id": "8027",
   "name": "鈦昇",
-  "lastUpdated": "2026-10-13 00:22:32",
+  "lastUpdated": "2026-10-13 22:43:21",
   "basicInfo": {
-    "price": "198.50",
-    "change": "-4.00",
-    "changePercent": "-1.98%"
+    "price": "192.00",
+    "change": "-6.50",
+    "changePercent": "-3.27%"
   },
   "status": "🟡 FLU",
   "themes": [],
@@ -568,6 +568,14 @@
     ],
     "chips_table": [
       {
+        "date": "2026-10-13",
+        "foreign_lots": 63.145,
+        "it_lots": 0.0,
+        "dealer_lots": -0.083,
+        "sum_lots": 63.062000000000005,
+        "pct_float": 0.005607664454261548
+      },
+      {
         "date": "2026-10-12",
         "foreign_lots": 374.652,
         "it_lots": 0.0,
@@ -678,21 +686,13 @@
         "dealer_lots": 0.14,
         "sum_lots": 361.911,
         "pct_float": 0.032182224640928785
-      },
-      {
-        "date": "2026-09-17",
-        "foreign_lots": 86.342,
-        "it_lots": 0.0,
-        "dealer_lots": 0.055,
-        "sum_lots": 86.397,
-        "pct_float": 0.00768268348379111
       }
     ],
     "returns_table": [
       {
         "year": 2026,
-        "return_pct": 79.20353982300885,
-        "period": "01/02~10/08"
+        "return_pct": 69.91150442477876,
+        "period": "01/02~10/13"
       },
       {
         "year": 2025,
@@ -720,7 +720,7 @@
       "dataset": "structure_c_score",
       "stock_id": "8027",
       "ticker": "8027.TWO",
-      "asof": "2026-10-12",
+      "asof": "2026-10-13",
       "c_score": 4.1316543868828255,
       "benchmark_pe": 106.6351568267382,
       "source": [
@@ -984,14 +984,14 @@
         },
         {
           "period": "2021Q4",
-          "avg_price": 68.75689644649111,
+          "avg_price": 68.86315777427272,
           "eps": 0.41,
           "revenue_q": 3.86641,
-          "pe_ratio": 167.69974743046615,
+          "pe_ratio": 167.9589214006652,
           "rev_growth": null,
           "eps_growth": null,
           "rt_weight": 1.0,
-          "deviation": 1.5726497003511353,
+          "deviation": 1.5750801742952976,
           "theo_price": 43.72041429896266
         }
       ],
@@ -3505,25 +3505,25 @@
         "volume_lot": 2013.94
       },
       {
-        "date": "2026-10-12",
+        "date": "2026-10-13",
         "symbol": "8027.TWO",
-        "open": 198.5,
-        "high": 201.5,
-        "low": 195.0,
-        "close": null,
-        "volume": 1893440.0,
-        "adjclose": null,
+        "open": 195.5,
+        "high": 199.5,
+        "low": 187.5,
+        "close": 192.0,
+        "volume": 2212677.0,
+        "adjclose": 192.0,
         "dividends": 0.0,
-        "MA5": null,
-        "MA20": null,
-        "MA60": null,
-        "bb_mid": null,
-        "bb_up": null,
-        "bb_dn": null,
-        "DIF": 7.973759291978354,
-        "DEA": 6.076966563629448,
-        "HIST": 3.793585456697812,
-        "volume_lot": 1893.44
+        "MA5": 204.4,
+        "MA20": 189.425,
+        "MA60": 184.6,
+        "bb_mid": 189.425,
+        "bb_up": 225.2736750103814,
+        "bb_dn": 153.57632498961863,
+        "DIF": 6.703538200278501,
+        "DEA": 5.822922345289477,
+        "HIST": 1.7612317099780483,
+        "volume_lot": 2212.677
       }
     ]
   }

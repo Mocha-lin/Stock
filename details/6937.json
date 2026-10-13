@@ -1,11 +1,11 @@
 {
   "id": "6937",
   "name": "天虹",
-  "lastUpdated": "2026-10-13 00:22:32",
+  "lastUpdated": "2026-10-13 22:43:21",
   "basicInfo": {
-    "price": "291.50",
-    "change": "5.00",
-    "changePercent": "1.75%"
+    "price": "289.50",
+    "change": "-2.00",
+    "changePercent": "-0.69%"
   },
   "status": null,
   "themes": [],
@@ -568,6 +568,14 @@
     ],
     "chips_table": [
       {
+        "date": "2026-10-13",
+        "foreign_lots": -22.88,
+        "it_lots": 0.0,
+        "dealer_lots": -0.833,
+        "sum_lots": -23.712999999999997,
+        "pct_float": -0.0035049730028541737
+      },
+      {
         "date": "2026-10-12",
         "foreign_lots": -40.921,
         "it_lots": 0.0,
@@ -678,21 +686,13 @@
         "dealer_lots": 43.682,
         "sum_lots": 339.957,
         "pct_float": 0.05024839147856856
-      },
-      {
-        "date": "2026-09-17",
-        "foreign_lots": 20.563,
-        "it_lots": 0.0,
-        "dealer_lots": 8.59,
-        "sum_lots": 29.153,
-        "pct_float": 0.004309048958470364
       }
     ],
     "returns_table": [
       {
         "year": 2026,
-        "return_pct": 14.981007928555258,
-        "period": "01/02~10/08"
+        "return_pct": 16.184997540372592,
+        "period": "01/02~10/13"
       },
       {
         "year": 2025,
@@ -715,7 +715,7 @@
       "dataset": "structure_c_score",
       "stock_id": "6937",
       "ticker": "6937.TW",
-      "asof": "2026-10-12",
+      "asof": "2026-10-13",
       "c_score": 2.2478289885449847,
       "benchmark_pe": 157.1423237753883,
       "source": [
@@ -3464,25 +3464,25 @@
         "volume_lot": 293.167
       },
       {
-        "date": "2026-10-12",
+        "date": "2026-10-13",
         "symbol": "6937.TW",
         "open": 285.0,
-        "high": 291.5,
-        "low": 282.0,
-        "close": null,
-        "volume": 252907.0,
-        "adjclose": null,
+        "high": 293.0,
+        "low": 282.5,
+        "close": 289.5,
+        "volume": 272134.0,
+        "adjclose": 289.5,
         "dividends": 0.0,
-        "MA5": null,
-        "MA20": null,
-        "MA60": null,
-        "bb_mid": null,
-        "bb_up": null,
-        "bb_dn": null,
-        "DIF": 3.632495344674169,
-        "DEA": 5.237987276232721,
-        "HIST": -3.210983863117104,
-        "volume_lot": 252.907
+        "MA5": 293.4,
+        "MA20": 296.025,
+        "MA60": 280.775,
+        "bb_mid": 296.025,
+        "bb_up": 312.2745384549869,
+        "bb_dn": 279.775461545013,
+        "DIF": 2.804659990010009,
+        "DEA": 5.072420205299888,
+        "HIST": -4.535520430579759,
+        "volume_lot": 272.134
       }
     ]
   }

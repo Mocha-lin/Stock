@@ -1,11 +1,11 @@
 {
   "id": "1514",
   "name": "亞力",
-  "lastUpdated": "2026-10-13 00:22:32",
+  "lastUpdated": "2026-10-13 22:43:21",
   "basicInfo": {
-    "price": "105.00",
-    "change": "2.50",
-    "changePercent": "2.44%"
+    "price": "102.00",
+    "change": "-3.00",
+    "changePercent": "-2.86%"
   },
   "status": "⚡ BUY",
   "themes": [
@@ -689,6 +689,14 @@
     ],
     "chips_table": [
       {
+        "date": "2026-10-13",
+        "foreign_lots": -314.82,
+        "it_lots": 20.0,
+        "dealer_lots": -25.456,
+        "sum_lots": -320.276,
+        "pct_float": -0.011497117248870755
+      },
+      {
         "date": "2026-10-12",
         "foreign_lots": -220.64,
         "it_lots": -111.0,
@@ -799,14 +807,6 @@
         "dealer_lots": 11.0,
         "sum_lots": 102.141,
         "pct_float": 0.0036666095895943112
-      },
-      {
-        "date": "2026-09-17",
-        "foreign_lots": 411.456,
-        "it_lots": -0.679,
-        "dealer_lots": 3.003,
-        "sum_lots": 413.78000000000003,
-        "pct_float": 0.01485367987372685
       }
     ],
     "c_score_data": {
@@ -814,7 +814,7 @@
       "dataset": "structure_c_score",
       "stock_id": "1514",
       "ticker": "1514.TW",
-      "asof": "2026-10-12",
+      "asof": "2026-10-13",
       "c_score": 1.3681370990648474,
       "benchmark_pe": 83.77260709015331,
       "source": [
@@ -1078,14 +1078,14 @@
         },
         {
           "period": "2021Q4",
-          "avg_price": 20.97966039591822,
+          "avg_price": 21.001408928319027,
           "eps": 0.34,
           "revenue_q": 11.14074,
-          "pe_ratio": 61.70488351740652,
+          "pe_ratio": 61.7688497891736,
           "rev_growth": null,
           "eps_growth": null,
           "rt_weight": 1.0,
-          "deviation": 0.7365759006521281,
+          "deviation": 0.737339470916788,
           "theo_price": 28.48268641065213
         }
       ],
@@ -1101,8 +1101,8 @@
     "returns_table": [
       {
         "year": 2026,
-        "return_pct": 8.824176468625144,
-        "period": "01/02~10/08"
+        "return_pct": 8.293326827314784,
+        "period": "01/02~10/13"
       },
       {
         "year": 2025,
@@ -1116,7 +1116,7 @@
       },
       {
         "year": 2023,
-        "return_pct": 158.53866874089664,
+        "return_pct": 158.53868768407304,
         "period": "01/03~12/29"
       },
       {
@@ -4635,26 +4635,26 @@
         "volume_lot": 763.261
       },
       {
-        "date": "2026-10-12",
+        "date": "2026-10-13",
         "symbol": "1514.TW",
-        "open": 103.0,
-        "high": 107.5,
-        "low": 102.5,
-        "close": null,
-        "volume": 4404735.0,
-        "adjclose": null,
+        "open": 104.0,
+        "high": 105.0,
+        "low": 102.0,
+        "close": 102.0,
+        "volume": 1417904.0,
+        "adjclose": 102.0,
         "dividends": 0.0,
         "splits": 0.0,
-        "MA5": null,
-        "MA20": null,
-        "MA60": null,
-        "bb_mid": null,
-        "bb_up": null,
-        "bb_dn": null,
-        "DIF": 0.1411009767829938,
-        "DEA": -0.0015771220467604,
-        "HIST": 0.2853561976595086,
-        "volume_lot": 4404.735
+        "MA5": 102.7,
+        "MA20": 101.92000007629396,
+        "MA60": 101.72611134847006,
+        "bb_mid": 101.92000007629396,
+        "bb_up": 104.46841111616344,
+        "bb_dn": 99.37158903642444,
+        "DIF": 0.0898230736289349,
+        "DEA": -0.0118327026775722,
+        "HIST": 0.2033115526130144,
+        "volume_lot": 1417.904
       }
     ],
     "valuation": {

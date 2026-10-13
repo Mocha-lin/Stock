@@ -1,11 +1,11 @@
 {
   "id": "8358",
   "name": "金居",
-  "lastUpdated": "2026-10-13 00:22:32",
+  "lastUpdated": "2026-10-13 22:43:21",
   "basicInfo": {
-    "price": "522.00",
-    "change": "-13.00",
-    "changePercent": "-2.43%"
+    "price": "493.00",
+    "change": "-29.00",
+    "changePercent": "-5.56%"
   },
   "status": null,
   "themes": [],
@@ -568,6 +568,14 @@
     ],
     "chips_table": [
       {
+        "date": "2026-10-13",
+        "foreign_lots": 272.223,
+        "it_lots": -164.0,
+        "dealer_lots": -438.039,
+        "sum_lots": -329.816,
+        "pct_float": -0.013057469080082979
+      },
+      {
         "date": "2026-10-12",
         "foreign_lots": 76.319,
         "it_lots": -192.0,
@@ -678,21 +686,13 @@
         "dealer_lots": 438.135,
         "sum_lots": 1886.149,
         "pct_float": 0.0746729456664608
-      },
-      {
-        "date": "2026-09-17",
-        "foreign_lots": -6582.309,
-        "it_lots": 12.0,
-        "dealer_lots": -1026.796,
-        "sum_lots": -7597.1050000000005,
-        "pct_float": -0.3007706225157173
       }
     ],
     "returns_table": [
       {
         "year": 2026,
-        "return_pct": 85.32708165092875,
-        "period": "01/02~10/08"
+        "return_pct": 70.7780397269306,
+        "period": "01/02~10/13"
       },
       {
         "year": 2025,
@@ -706,12 +706,12 @@
       },
       {
         "year": 2023,
-        "return_pct": 21.636256406739072,
+        "return_pct": 21.636266141650353,
         "period": "01/03~12/29"
       },
       {
         "year": 2022,
-        "return_pct": -28.856340082589192,
+        "return_pct": -28.8563459927931,
         "period": "01/03~12/30"
       }
     ],
@@ -720,7 +720,7 @@
       "dataset": "structure_c_score",
       "stock_id": "8358",
       "ticker": "8358.TWO",
-      "asof": "2026-10-12",
+      "asof": "2026-10-13",
       "c_score": 1.2199598106855407,
       "benchmark_pe": 77.77947641327825,
       "source": [
@@ -984,14 +984,14 @@
         },
         {
           "period": "2021Q4",
-          "avg_price": 75.84999965799265,
+          "avg_price": 75.96842073139392,
           "eps": 1.83,
           "revenue_q": 16.29065,
-          "pe_ratio": 41.448087244804725,
+          "pe_ratio": 41.51279821387646,
           "rev_growth": null,
           "eps_growth": null,
           "rt_weight": 1.0,
-          "deviation": 0.5328923407065884,
+          "deviation": 0.5337243207102579,
           "theo_price": 142.3364418362992
         }
       ],
@@ -3505,25 +3505,25 @@
         "volume_lot": 3348.518
       },
       {
-        "date": "2026-10-12",
+        "date": "2026-10-13",
         "symbol": "8358.TWO",
-        "open": 535.0,
-        "high": 536.0,
-        "low": 519.0,
-        "close": null,
-        "volume": 2182807.0,
-        "adjclose": null,
+        "open": 505.0,
+        "high": 508.0,
+        "low": 478.5,
+        "close": 493.0,
+        "volume": 4064237.0,
+        "adjclose": 493.0,
         "dividends": 0.0,
-        "MA5": null,
-        "MA20": null,
-        "MA60": null,
-        "bb_mid": null,
-        "bb_up": null,
-        "bb_dn": null,
-        "DIF": 18.60056064252592,
-        "DEA": 16.608461747464784,
-        "HIST": 3.984197790122274,
-        "volume_lot": 2182.807
+        "MA5": 539.6,
+        "MA20": 510.0,
+        "MA60": 447.3416666666666,
+        "bb_mid": 510.0,
+        "bb_up": 558.4602930242955,
+        "bb_dn": 461.53970697570446,
+        "DIF": 14.68602118568424,
+        "DEA": 15.825553856096446,
+        "HIST": -2.2790653408244133,
+        "volume_lot": 4064.237
       }
     ]
   }

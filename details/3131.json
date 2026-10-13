@@ -1,11 +1,11 @@
 {
   "id": "3131",
   "name": "弘塑",
-  "lastUpdated": "2026-10-13 00:22:32",
+  "lastUpdated": "2026-10-13 22:43:21",
   "basicInfo": {
-    "price": "2525.00",
-    "change": "60.00",
-    "changePercent": "2.43%"
+    "price": "2360.00",
+    "change": "-165.00",
+    "changePercent": "-6.53%"
   },
   "status": null,
   "themes": [],
@@ -568,6 +568,14 @@
     ],
     "chips_table": [
       {
+        "date": "2026-10-13",
+        "foreign_lots": -244.106,
+        "it_lots": 1.1,
+        "dealer_lots": -28.424999999999997,
+        "sum_lots": -271.431,
+        "pct_float": -0.09098774453934752
+      },
+      {
         "date": "2026-10-12",
         "foreign_lots": 63.074,
         "it_lots": -16.968,
@@ -678,21 +686,13 @@
         "dealer_lots": 0.659,
         "sum_lots": 6.0040000000000004,
         "pct_float": 0.0020126309014601965
-      },
-      {
-        "date": "2026-09-17",
-        "foreign_lots": -19.066,
-        "it_lots": 1.063,
-        "dealer_lots": 4.769,
-        "sum_lots": -13.234,
-        "pct_float": -0.004436235401386449
       }
     ],
     "returns_table": [
       {
         "year": 2026,
-        "return_pct": 56.40923518160585,
-        "period": "01/02~10/08"
+        "return_pct": 49.74677283107092,
+        "period": "01/02~10/13"
       },
       {
         "year": 2025,
@@ -701,17 +701,17 @@
       },
       {
         "year": 2024,
-        "return_pct": 163.86599699085244,
+        "return_pct": 163.86597457467548,
         "period": "01/02~12/31"
       },
       {
         "year": 2023,
-        "return_pct": 168.86035822115412,
+        "return_pct": 168.8603388840661,
         "period": "01/03~12/29"
       },
       {
         "year": 2022,
-        "return_pct": -34.241872917579116,
+        "return_pct": -34.2418791650195,
         "period": "01/03~12/30"
       }
     ],
@@ -720,7 +720,7 @@
       "dataset": "structure_c_score",
       "stock_id": "3131",
       "ticker": "3131.TWO",
-      "asof": "2026-10-12",
+      "asof": "2026-10-13",
       "c_score": 1.6803928670960355,
       "benchmark_pe": 78.29204693611473,
       "source": [
@@ -984,14 +984,14 @@
         },
         {
           "period": "2021Q4",
-          "avg_price": 362.7931034482759,
+          "avg_price": 363.36842105263156,
           "eps": 8.45,
           "revenue_q": 7.43515,
-          "pe_ratio": 42.934095082636205,
+          "pe_ratio": 43.00218000622859,
           "rev_growth": null,
           "eps_growth": null,
           "rt_weight": 1.0,
-          "deviation": 0.5483838622544873,
+          "deviation": 0.5492534898380904,
           "theo_price": 661.5677966101695
         }
       ],
@@ -3505,25 +3505,25 @@
         "volume_lot": 205.091
       },
       {
-        "date": "2026-10-12",
+        "date": "2026-10-13",
         "symbol": "3131.TWO",
-        "open": 2440.0,
-        "high": 2530.0,
-        "low": 2420.0,
-        "close": null,
-        "volume": 282207.0,
-        "adjclose": null,
+        "open": 2505.0,
+        "high": 2505.0,
+        "low": 2355.0,
+        "close": 2360.0,
+        "volume": 442799.0,
+        "adjclose": 2360.0,
         "dividends": 0.0,
-        "MA5": null,
-        "MA20": null,
-        "MA60": null,
-        "bb_mid": null,
-        "bb_up": null,
-        "bb_dn": null,
-        "DIF": 0.0825823411028068,
-        "DEA": -10.28107329512238,
-        "HIST": 20.72731127245037,
-        "volume_lot": 282.207
+        "MA5": 2467.0,
+        "MA20": 2418.75,
+        "MA60": 2498.5,
+        "bb_mid": 2418.75,
+        "bb_up": 2556.368131072917,
+        "bb_dn": 2281.1318689270825,
+        "DIF": -7.635117301455466,
+        "DEA": -11.824613223634037,
+        "HIST": 8.378991844357138,
+        "volume_lot": 442.799
       }
     ]
   }
