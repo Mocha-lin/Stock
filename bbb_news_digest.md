@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-13T16:44:37.636834+00:00
+> 更新時間：2026-10-13T19:35:16.060968+00:00
 
 ### ⚖️ Commentary: Largan plays defense in phones, presses CPO offensive
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -91,15 +91,6 @@
 
 ---
 
-### 🚀 Powering the AI revolution: Inside the grid, thermal, and interconnect challenges limiting data center growth
-- **題材**: `光通訊與矽光子` | **重要性**: `70`
-- **來源**: TechRadar (2026-10-11T17:20:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: We take a deep dive into the electrical, thermal, and infrastructural bottlenecks affecting the next-generation computing revolution.
-- [原文連結](https://www.techradar.com/pro/powering-the-ai-revolution-inside-the-grid-thermal-and-interconnect-challenges-limiting-data-center-growth)
-
----
-
 ### 🚀 TSMC taps GlobalFoundries to bolster US silicon interposer production in $2B deal
 - **題材**: `AI伺服器` | **重要性**: `70`
 - **來源**: Theregister.com (2026-10-08T17:22:32Z)
@@ -179,6 +170,15 @@ The post Nvidia, Cisco and partners introduce new pluggable optics format for AI
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Samsung Electronics is expanding its thermal-management efforts for high-bandwidth memory (HBM) beyond the memory stack as increasingly large chip packages raise heat-management challenges.
 - [原文連結](https://www.digitimes.com/news/a20261006VL210/samsung-hbm-cooling-tsmc-cowos.html)
+
+---
+
+### 🚀 Jedec unveils new standard for silicon photonics reliability qualification and testing
+- **題材**: `光通訊與矽光子` | **重要性**: `63`
+- **來源**: Digitimes (2026-10-06T03:52:28Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Jedec released a new standard for silicon photonics (SiPh) testing and manufacturing controls to promote consistent reliability practices. The standard comes as SiPh experiences rapid growth due to its potential to replace copper interconnects amid AI infrast…
+- [原文連結](https://www.digitimes.com/news/a20261006VL209/jedec-siph-testing-manufacturing.html)
 
 ---
 
