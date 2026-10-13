@@ -1,5 +1,23 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-12T21:26:17.771505+00:00
+> 更新時間：2026-10-13T03:22:06.207492+00:00
+
+### ⚖️ Commentary: Could a 65% US-content rule redraw China's 3.2T optical supply chain?
+- **題材**: `光通訊與矽光子` | **重要性**: `78`
+- **來源**: Digitimes (2026-10-12T02:16:08Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: AI data centers are shifting toward faster networking architectures, with optical transceivers advancing from 800G and 1.6T toward 3.2T. Yet China's ability to retain its position in the global AI data center supply chain may increasingly depend on more than …
+- [原文連結](https://www.digitimes.com/news/a20261012PD207/supply-chain-data-manufacturing-capacity-component.html)
+
+---
+
+### 🚀 CyberTAN enters 1.6T AI switch race with Marvell-backed platform
+- **題材**: `光通訊與矽光子` | **重要性**: `78`
+- **來源**: Digitimes (2026-10-12T02:07:24Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: CyberTAN Technology is moving into the fast-growing AI data center switch market, joining Marvell Technology on a new 3nm Pallas 1.6T platform. The effort underscores rising global demand for high-speed networking, while tight chip supply and cooling demands …
+- [原文連結](https://www.digitimes.com/news/a20261012PD203/switch-cybertan-data-center-marvell-demand.html)
+
+---
 
 ### 🚀 Samsung Electronics posts record quarterly profit in preliminary results
 - **題材**: `HBM記憶體` | **重要性**: `78`
@@ -16,15 +34,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Taiwanese OSAT provider Sigurd Microelectronics and its subsidiary Winstek Semiconductor held a joint investor briefing on October 6. President Charles Yeh reported that surging demand across AI CPUs, GPUs, ASICs, silicon photonics, and memory is severely tig…
 - [原文連結](https://www.digitimes.com/news/a20261007PD228/sigurd-2026-capacity-osat-capex.html)
-
----
-
-### ⚖️ Repon revenue slips in September as Vera Rubin, ASIC slide rail shipments ramp up
-- **題材**: `AI伺服器` | **重要性**: `78`
-- **來源**: Digitimes (2026-10-07T00:42:51Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: The AI server supply chain is poised for a stronger quarter as Nvidia's Vera Rubin and AWS's Trainium 3 gradually ramp up, with momentum expected to strengthen across the supply chain from ODMs to component suppliers.
-- [原文連結](https://www.digitimes.com/news/a20261006PD237/repon-ai-server-slide-rails-asic-revenue-supply-chain.html)
 
 ---
 
@@ -52,6 +61,24 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: An investigation by a South Korean lawmaker's office revealed that former Samsung Electronics and SK Hynix personnel who transitioned to Chinese DRAM maker ChangXin Memory Technologies (CXMT) spanned key stages of semiconductor development and mass production…
 - [原文連結](https://www.digitimes.com/news/a20261007PD234/cxmt-samsung-sk-hynix-talent-poaching.html)
+
+---
+
+### ⚖️ Commentary: Largan earnings call spotlight — CPO, expansion and 4Q26 order momentum
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-10-07T03:05:33Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Largan Precision will hold its earnings call on October 8, when the optical lens maker is due to report third-quarter results and outline its fourth-quarter outlook. With September revenue recovering and the company stepping up property acquisitions, investor…
+- [原文連結](https://www.digitimes.com/news/a20261007PD219/largan-precision-cpo-optical-lens-expansion-earnings.html)
+
+---
+
+### ⚠️ PC shipments tumble over 20% in 3Q26 as chip shortages bite
+- **題材**: `HBM記憶體` | **重要性**: `72`
+- **來源**: Tom's Hardware UK (2026-10-09T11:10:05Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: PC shipments for the third quarter of 2026 drop by 15.8 million units, with Lenovo, HP, and Dell being hit the hardest. Memory chip manufacturers estimate that the situation will not improve until 2028 or 2029, even as Acer believes that PC prices will declin…
+- [原文連結](https://www.tomshardware.com/tech-industry/pc-shipments-tumble-over-20-percent-in-3q26-as-chip-shortages-bite-top-three-pc-vendors-ship-11-6-million-fewer-units-year-over-year)
 
 ---
 
@@ -88,6 +115,15 @@
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Advanced packaging tech is essential to the domestic production of high-performance semiconductors used in AI datacenters
 - [原文連結](https://www.theregister.com/systems/2026/10/08/tsmc-taps-globalfoundries-to-bolster-us-silicon-interposer-production-in-2b-deal/5302061)
+
+---
+
+### ⚖️ TSMC, ASML eye 12-inch photomasks to unlock High-NA EUV's full-field potential
+- **題材**: `半導體先進製程` | **重要性**: `68`
+- **來源**: Digitimes (2026-10-12T03:06:33Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Advanced semiconductor manufacturing is progressing toward 2nm and angstrom-era nodes (Å; where 1 nm equals 10 Å), bringing high-numerical-aperture extreme ultraviolet (High-NA EUV) lithography into focus.
+- [原文連結](https://www.digitimes.com/news/a20261012PD204/tsmc-asml-high-na-euv-12-inch-manufacturing.html)
 
 ---
 
@@ -142,42 +178,6 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Samsung Electronics is expanding its thermal-management efforts for high-bandwidth memory (HBM) beyond the memory stack as increasingly large chip packages raise heat-management challenges.
 - [原文連結](https://www.digitimes.com/news/a20261006VL210/samsung-hbm-cooling-tsmc-cowos.html)
-
----
-
-### 🚀 Jedec unveils new standard for silicon photonics reliability qualification and testing
-- **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-10-06T03:52:28Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Jedec released a new standard for silicon photonics (SiPh) testing and manufacturing controls to promote consistent reliability practices. The standard comes as SiPh experiences rapid growth due to its potential to replace copper interconnects amid AI infrast…
-- [原文連結](https://www.digitimes.com/news/a20261006VL209/jedec-siph-testing-manufacturing.html)
-
----
-
-### ⚖️ Largan Precision sees steady smartphone lens demand as CPO fibre arrays near production
-- **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-10-05T10:08:21Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Largan Precision reported September consolidated revenue of NT$5.78 billion (US$181.99 million), up 15% from August but down 7% from a year earlier. Third-quarter revenue rose 15% sequentially to NT$15.65 billion.
-- [原文連結](https://www.digitimes.com/news/a20261005PD243/largan-precision-revenue-smartphone-demand-production.html)
-
----
-
-### ⚖️ SpaceX reportedly seeking $40 billion debt package for Nvidia AI hardware
-- **題材**: `AI伺服器` | **重要性**: `67`
-- **來源**: Tom's Hardware UK (2026-10-08T11:00:00Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: SpaceX reportedly intends to borrow $40 billion to procure 360,000 Nvidia Rubin AI accelerators, infrastructure.
-- [原文連結](https://www.tomshardware.com/tech-industry/artificial-intelligence/spacex-reportedly-seeking-usd40-billion-debt-package-for-nvidia-ai-hardware-massive-raise-could-fund-roughly-360-000-vera-rubin-gpus-across-5-000-nvl72-racks)
-
----
-
-### 🚀 AI chip boom pushes Samsung profits to record $80bn
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: BBC News (2026-10-08T01:31:56Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: The tech giant is also expected to get a boost from its latest folding devices that were launched in August.
-- [原文連結](https://www.bbc.co.uk/news/articles/c687z8127302o)
 
 ---
 
