@@ -1,5 +1,14 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-13T19:35:16.060968+00:00
+> 更新時間：2026-10-14T01:37:00.364430+00:00
+
+### ⚖️ Samsung, SK Hynix NAND profits seen surging on enterprise SSD demand
+- **題材**: `HBM記憶體` | **重要性**: `78`
+- **來源**: Digitimes (2026-10-13T00:08:27Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Samsung Electronics and SK Hynix are expected to see a sharp increase in NAND flash profits in 2026 as surging demand for enterprise solid-state drives (SSDs) drives up memory prices and improves profitability, adding another earnings boost beyond high-bandwi…
+- [原文連結](https://www.digitimes.com/news/a20261012VL227/nand-samsung-sk-hynix-demand-ssd.html)
+
+---
 
 ### ⚖️ Commentary: Largan plays defense in phones, presses CPO offensive
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -25,6 +34,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: CyberTAN Technology is moving into the fast-growing AI data center switch market, joining Marvell Technology on a new 3nm Pallas 1.6T platform. The effort underscores rising global demand for high-speed networking, while tight chip supply and cooling demands …
 - [原文連結](https://www.digitimes.com/news/a20261012PD203/switch-cybertan-data-center-marvell-demand.html)
+
+---
+
+### 🚀 Samsung Electronics posts record quarterly profit in preliminary results
+- **題材**: `HBM記憶體` | **重要性**: `78`
+- **來源**: Digitimes (2026-10-08T01:15:00Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Samsung Electronics has become the first South Korean company to clear KRW100 trillion in operating profit in a single quarter, a milestone that shows how heavily the company now leans on a memory market where, by analysts' reckoning, suppliers hold pricing p…
+- [原文連結](https://www.digitimes.com/news/a20261008VL203/samsung-profit-operating-profit-hbm-market.html)
 
 ---
 
@@ -73,6 +91,15 @@
 
 ---
 
+### ⚖️ Commentary: Largan earnings call spotlight — CPO, expansion and 4Q26 order momentum
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-10-07T03:05:33Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Largan Precision will hold its earnings call on October 8, when the optical lens maker is due to report third-quarter results and outline its fourth-quarter outlook. With September revenue recovering and the company stepping up property acquisitions, investor…
+- [原文連結](https://www.digitimes.com/news/a20261007PD219/largan-precision-cpo-optical-lens-expansion-earnings.html)
+
+---
+
 ### ⚖️ GlobalFoundries to produce silicon interposers for TSMC's CoWoS in the US — Five-year agreement valued at $2 billion
 - **題材**: `半導體先進製程` | **重要性**: `72`
 - **來源**: Tom's Hardware UK (2026-10-08T18:23:28Z)
@@ -88,6 +115,15 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: AMD is pursuing a 'broader partnership' with Samsung as memory company wants to tie advanced memory supply to its orders at its foundry unit.
 - [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/amd-seeks-broader-partnership-with-samsung-as-it-looks-to-secure-memory-supply-samsung-reportedly-hopes-to-turn-its-memory-supply-relationship-with-amd-into-foundry-orders-for-logic-chips)
+
+---
+
+### 🚀 Powering the AI revolution: Inside the grid, thermal, and interconnect challenges limiting data center growth
+- **題材**: `光通訊與矽光子` | **重要性**: `70`
+- **來源**: TechRadar (2026-10-11T17:20:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: We take a deep dive into the electrical, thermal, and infrastructural bottlenecks affecting the next-generation computing revolution.
+- [原文連結](https://www.techradar.com/pro/powering-the-ai-revolution-inside-the-grid-thermal-and-interconnect-challenges-limiting-data-center-growth)
 
 ---
 
@@ -109,6 +145,24 @@
 
 ---
 
+### ⚖️ TSMC, ASML eye 12-inch photomasks to unlock High-NA EUV's full-field potential
+- **題材**: `半導體先進製程` | **重要性**: `68`
+- **來源**: Digitimes (2026-10-12T03:06:33Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Advanced semiconductor manufacturing is progressing toward 2nm and angstrom-era nodes (Å; where 1 nm equals 10 Å), bringing high-numerical-aperture extreme ultraviolet (High-NA EUV) lithography into focus.
+- [原文連結](https://www.digitimes.com/news/a20261012PD204/tsmc-asml-high-na-euv-12-inch-manufacturing.html)
+
+---
+
+### 🚀 AUO subsidiary Darwin shifts toward high-end manufacturing, explores CPO and semiconductor opportunities
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-10-08T03:59:06Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: As AUO deepens its push into co-packaged optics (CPO), its subsidiary Darwin Precisions is also exploring opportunities in the semiconductor sector, leveraging its expertise in precision and ultra-precision machining and precision molds.
+- [原文連結](https://www.digitimes.com/news/a20261008PD220/auo-cpo-subsidiary-manufacturing-optics.html)
+
+---
+
 ### ⚖️ DIGITIMES Insight: HBM expansion raises the bar for memory offload
 - **題材**: `HBM記憶體` | **重要性**: `68`
 - **來源**: Digitimes (2026-10-07T06:55:00Z)
@@ -118,67 +172,12 @@
 
 ---
 
-### ⚖️ SpaceX reportedly seeking $40 billion debt package for Nvidia AI hardware
-- **題材**: `AI伺服器` | **重要性**: `67`
-- **來源**: Tom's Hardware UK (2026-10-08T11:00:00Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: SpaceX reportedly intends to borrow $40 billion to procure 360,000 Nvidia Rubin AI accelerators, infrastructure.
-- [原文連結](https://www.tomshardware.com/tech-industry/artificial-intelligence/spacex-reportedly-seeking-usd40-billion-debt-package-for-nvidia-ai-hardware-massive-raise-could-fund-roughly-360-000-vera-rubin-gpus-across-5-000-nvl72-racks)
-
----
-
-### ⚖️ Nvidia, Cisco and partners introduce new pluggable optics format for AI data centers
-- **題材**: `光通訊與矽光子` | **重要性**: `65`
-- **來源**: Crypto Briefing (2026-10-12T15:04:47Z)
+### ⚖️ Huawei's NPO bet challenges CPO's path to AI scale
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-10-07T01:55:00Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: The new optics format could significantly reduce data center power consumption and enhance flexibility, impacting AI infrastructure efficiency.
-The post Nvidia, Cisco and partners introduce new pluggable optics format for AI data centers appeared first on Cry…
-- [原文連結](https://cryptobriefing.com/nvidia-cisco-pluggable-optics-ai-data-centers/)
-
----
-
-### 🚀 AI chip boom pushes Samsung profits to record $80bn
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: BBC News (2026-10-08T01:31:56Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: The tech giant is also expected to get a boost from its latest folding devices that were launched in August.
-- [原文連結](https://www.bbc.co.uk/news/articles/c687z8127302o)
-
----
-
-### ⚖️ Taiwan bets on SiPh, CPO to tackle AI data center power bottlenecks
-- **題材**: `光通訊與矽光子` | **重要性**: `63`
-- **來源**: Digitimes (2026-10-06T07:02:39Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Taiwan's National Science and Technology Council (NSTC) has launched two research programs targeting silicon photonics (SiPh) and next-generation AI data center power systems, seeking to address energy and performance bottlenecks as high-speed computing shift…
-- [原文連結](https://www.digitimes.com/news/a20261006PD216/siph-cpo-academia-data-center-taiwan.html)
-
----
-
-### 🚀 3.2T optical upgrade triggers PCB redesign, shrinking supplier pool to 3
-- **題材**: `光通訊與矽光子` | **重要性**: `63`
-- **來源**: Digitimes (2026-10-06T04:15:35Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: As AI computing clusters continue to expand, performance requirements for scale-out interconnects between racks are rising rapidly. This is pushing traditional pluggable optical transceivers from 800G to 1.6T and accelerating the transition toward future 3.2T…
-- [原文連結](https://www.digitimes.com/news/a20261006PD217/pcb-supplier-manufacturing-performance-hpc.html)
-
----
-
-### ⚖️ Samsung steps up HBM cooling as TSMC expands CoWoS
-- **題材**: `半導體先進製程` | **重要性**: `63`
-- **來源**: Digitimes (2026-10-06T04:15:08Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Samsung Electronics is expanding its thermal-management efforts for high-bandwidth memory (HBM) beyond the memory stack as increasingly large chip packages raise heat-management challenges.
-- [原文連結](https://www.digitimes.com/news/a20261006VL210/samsung-hbm-cooling-tsmc-cowos.html)
-
----
-
-### 🚀 Jedec unveils new standard for silicon photonics reliability qualification and testing
-- **題材**: `光通訊與矽光子` | **重要性**: `63`
-- **來源**: Digitimes (2026-10-06T03:52:28Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Jedec released a new standard for silicon photonics (SiPh) testing and manufacturing controls to promote consistent reliability practices. The standard comes as SiPh experiences rapid growth due to its potential to replace copper interconnects amid AI infrast…
-- [原文連結](https://www.digitimes.com/news/a20261006VL209/jedec-siph-testing-manufacturing.html)
+- **摘要**: Huawei is backing near-packaged optics (NPO) rather than co-packaged optics (CPO) for its next-generation AI infrastructure, arguing that NPO offers a better balance of cost, manufacturability, reliability and serviceability as optical interconnects move deep…
+- [原文連結](https://www.digitimes.com/news/a20261007VL203/huawei-cpo-optics-ascend-cost.html)
 
 ---
 
