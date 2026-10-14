@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-14T14:21:05.080856+00:00
+> 更新時間：2026-10-14T17:38:51.839067+00:00
 
 ### ⚖️ Samsung, SK Hynix NAND profits seen surging on enterprise SSD demand
 - **題材**: `HBM記憶體` | **重要性**: `78`
@@ -100,15 +100,6 @@
 
 ---
 
-### 🚀 Powering the AI revolution: Inside the grid, thermal, and interconnect challenges limiting data center growth
-- **題材**: `光通訊與矽光子` | **重要性**: `70`
-- **來源**: TechRadar (2026-10-11T17:20:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: We take a deep dive into the electrical, thermal, and infrastructural bottlenecks affecting the next-generation computing revolution.
-- [原文連結](https://www.techradar.com/pro/powering-the-ai-revolution-inside-the-grid-thermal-and-interconnect-challenges-limiting-data-center-growth)
-
----
-
 ### 🚀 TSMC taps GlobalFoundries to bolster US silicon interposer production in $2B deal
 - **題材**: `AI伺服器` | **重要性**: `70`
 - **來源**: Theregister.com (2026-10-08T17:22:32Z)
@@ -152,6 +143,15 @@
 - **摘要**: The new optics format could significantly reduce data center power consumption and enhance flexibility, impacting AI infrastructure efficiency.
 The post Nvidia, Cisco and partners introduce new pluggable optics format for AI data centers appeared first on Cry…
 - [原文連結](https://cryptobriefing.com/nvidia-cisco-pluggable-optics-ai-data-centers/)
+
+---
+
+### 🚀 Powering the AI revolution: Inside the grid, thermal, and interconnect challenges limiting data center growth
+- **題材**: `光通訊與矽光子` | **重要性**: `65`
+- **來源**: TechRadar (2026-10-11T17:20:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: We take a deep dive into the electrical, thermal, and infrastructural bottlenecks affecting the next-generation computing revolution.
+- [原文連結](https://www.techradar.com/pro/powering-the-ai-revolution-inside-the-grid-thermal-and-interconnect-challenges-limiting-data-center-growth)
 
 ---
 
