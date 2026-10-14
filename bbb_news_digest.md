@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-14T01:37:00.364430+00:00
+> 更新時間：2026-10-14T05:38:08.227346+00:00
 
 ### ⚖️ Samsung, SK Hynix NAND profits seen surging on enterprise SSD demand
 - **題材**: `HBM記憶體` | **重要性**: `78`
@@ -37,21 +37,21 @@
 
 ---
 
-### 🚀 Samsung Electronics posts record quarterly profit in preliminary results
-- **題材**: `HBM記憶體` | **重要性**: `78`
-- **來源**: Digitimes (2026-10-08T01:15:00Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Samsung Electronics has become the first South Korean company to clear KRW100 trillion in operating profit in a single quarter, a milestone that shows how heavily the company now leans on a memory market where, by analysts' reckoning, suppliers hold pricing p…
-- [原文連結](https://www.digitimes.com/news/a20261008VL203/samsung-profit-operating-profit-hbm-market.html)
-
----
-
 ### 🚀 Sigurd raises prices, signs long AI capacity contracts, eyes higher 2026 capex
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
 - **來源**: Digitimes (2026-10-07T07:35:00Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Taiwanese OSAT provider Sigurd Microelectronics and its subsidiary Winstek Semiconductor held a joint investor briefing on October 6. President Charles Yeh reported that surging demand across AI CPUs, GPUs, ASICs, silicon photonics, and memory is severely tig…
 - [原文連結](https://www.digitimes.com/news/a20261007PD228/sigurd-2026-capacity-osat-capex.html)
+
+---
+
+### ⚖️ TSMC power plant funding talks still conceptual, says Taipower
+- **題材**: `半導體先進製程` | **重要性**: `73`
+- **來源**: Digitimes (2026-10-13T02:44:16Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Electricity demand from semiconductor manufacturing, memory production, advanced packaging, and server assembly is rising rapidly, fueling reports that Taiwan Power Company (Taipower) is seeking financial contributions from major industrial customers, includi…
+- [原文連結](https://www.digitimes.com/news/a20261013PD212/taiwan-power-company-electricity-demand-tsmc-manufacturing.html)
 
 ---
 
@@ -88,15 +88,6 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: An investigation by a South Korean lawmaker's office revealed that former Samsung Electronics and SK Hynix personnel who transitioned to Chinese DRAM maker ChangXin Memory Technologies (CXMT) spanned key stages of semiconductor development and mass production…
 - [原文連結](https://www.digitimes.com/news/a20261007PD234/cxmt-samsung-sk-hynix-talent-poaching.html)
-
----
-
-### ⚖️ Commentary: Largan earnings call spotlight — CPO, expansion and 4Q26 order momentum
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-10-07T03:05:33Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Largan Precision will hold its earnings call on October 8, when the optical lens maker is due to report third-quarter results and outline its fourth-quarter outlook. With September revenue recovering and the company stepping up property acquisitions, investor…
-- [原文連結](https://www.digitimes.com/news/a20261007PD219/largan-precision-cpo-optical-lens-expansion-earnings.html)
 
 ---
 
@@ -172,12 +163,22 @@
 
 ---
 
-### ⚖️ Huawei's NPO bet challenges CPO's path to AI scale
-- **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-10-07T01:55:00Z)
+### ⚖️ SpaceX reportedly seeking $40 billion debt package for Nvidia AI hardware
+- **題材**: `AI伺服器` | **重要性**: `67`
+- **來源**: Tom's Hardware UK (2026-10-08T11:00:00Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: SpaceX reportedly intends to borrow $40 billion to procure 360,000 Nvidia Rubin AI accelerators, infrastructure.
+- [原文連結](https://www.tomshardware.com/tech-industry/artificial-intelligence/spacex-reportedly-seeking-usd40-billion-debt-package-for-nvidia-ai-hardware-massive-raise-could-fund-roughly-360-000-vera-rubin-gpus-across-5-000-nvl72-racks)
+
+---
+
+### ⚖️ Nvidia, Cisco and partners introduce new pluggable optics format for AI data centers
+- **題材**: `光通訊與矽光子` | **重要性**: `65`
+- **來源**: Crypto Briefing (2026-10-12T15:04:47Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Huawei is backing near-packaged optics (NPO) rather than co-packaged optics (CPO) for its next-generation AI infrastructure, arguing that NPO offers a better balance of cost, manufacturability, reliability and serviceability as optical interconnects move deep…
-- [原文連結](https://www.digitimes.com/news/a20261007VL203/huawei-cpo-optics-ascend-cost.html)
+- **摘要**: The new optics format could significantly reduce data center power consumption and enhance flexibility, impacting AI infrastructure efficiency.
+The post Nvidia, Cisco and partners introduce new pluggable optics format for AI data centers appeared first on Cry…
+- [原文連結](https://cryptobriefing.com/nvidia-cisco-pluggable-optics-ai-data-centers/)
 
 ---
 
