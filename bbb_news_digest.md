@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-14T17:38:51.839067+00:00
+> 更新時間：2026-10-14T21:58:08.893717+00:00
 
 ### ⚖️ Samsung, SK Hynix NAND profits seen surging on enterprise SSD demand
 - **題材**: `HBM記憶體` | **重要性**: `78`
@@ -109,24 +109,6 @@
 
 ---
 
-### ⚖️ TSMC, ASML eye 12-inch photomasks to unlock High-NA EUV's full-field potential
-- **題材**: `半導體先進製程` | **重要性**: `68`
-- **來源**: Digitimes (2026-10-12T03:06:33Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Advanced semiconductor manufacturing is progressing toward 2nm and angstrom-era nodes (Å; where 1 nm equals 10 Å), bringing high-numerical-aperture extreme ultraviolet (High-NA EUV) lithography into focus.
-- [原文連結](https://www.digitimes.com/news/a20261012PD204/tsmc-asml-high-na-euv-12-inch-manufacturing.html)
-
----
-
-### 🚀 AUO subsidiary Darwin shifts toward high-end manufacturing, explores CPO and semiconductor opportunities
-- **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-10-08T03:59:06Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: As AUO deepens its push into co-packaged optics (CPO), its subsidiary Darwin Precisions is also exploring opportunities in the semiconductor sector, leveraging its expertise in precision and ultra-precision machining and precision molds.
-- [原文連結](https://www.digitimes.com/news/a20261008PD220/auo-cpo-subsidiary-manufacturing-optics.html)
-
----
-
 ### ⚖️ SpaceX reportedly seeking $40 billion debt package for Nvidia AI hardware
 - **題材**: `AI伺服器` | **重要性**: `67`
 - **來源**: Tom's Hardware UK (2026-10-08T11:00:00Z)
@@ -179,6 +161,24 @@ The post Nvidia, Cisco and partners introduce new pluggable optics format for AI
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Huawei is backing near-packaged optics (NPO) rather than co-packaged optics (CPO) for its next-generation AI infrastructure, arguing that NPO offers a better balance of cost, manufacturability, reliability and serviceability as optical interconnects move deep…
 - [原文連結](https://www.digitimes.com/news/a20261007VL203/huawei-cpo-optics-ascend-cost.html)
+
+---
+
+### ⚖️ Diamond-infused watercooling coldplates for 2,300W Nvidia Rubin drop temps by up to 22C
+- **題材**: `AI伺服器` | **重要性**: `62`
+- **來源**: Tom's Hardware UK (2026-10-12T13:30:00Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: A bespoke coldplate for custom designed AI servers: Frore's LiquidJet Diamond.
+- [原文連結](https://www.tomshardware.com/pc-components/liquid-cooling/diamond-infused-watercooling-coldplates-for-2-300w-nvidia-rubin-drop-temps-by-up-to-22c-bespoke-frore-liquidjet-diamond-cooling-tames-770-w-cm2-hotspots)
+
+---
+
+### ⚖️ Trump says Houthis trying to increase oil prices before US elections
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Al Jazeera English (2026-10-13T19:33:11Z)
+- **AI 判讀**: 屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: US president suggests that Yemen-based group are 'purposefully trying to drive up oil prices' before November vote.
+- [原文連結](https://www.aljazeera.com/news/2026/10/13/trump-says-houthis-trying-to-increase-oil-prices-before-us-elections)
 
 ---
 
