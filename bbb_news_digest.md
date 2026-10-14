@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-14T05:38:08.227346+00:00
+> 更新時間：2026-10-14T14:21:05.080856+00:00
 
 ### ⚖️ Samsung, SK Hynix NAND profits seen surging on enterprise SSD demand
 - **題材**: `HBM記憶體` | **重要性**: `78`
@@ -37,15 +37,6 @@
 
 ---
 
-### 🚀 Sigurd raises prices, signs long AI capacity contracts, eyes higher 2026 capex
-- **題材**: `光通訊與矽光子` | **重要性**: `78`
-- **來源**: Digitimes (2026-10-07T07:35:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Taiwanese OSAT provider Sigurd Microelectronics and its subsidiary Winstek Semiconductor held a joint investor briefing on October 6. President Charles Yeh reported that surging demand across AI CPUs, GPUs, ASICs, silicon photonics, and memory is severely tig…
-- [原文連結](https://www.digitimes.com/news/a20261007PD228/sigurd-2026-capacity-osat-capex.html)
-
----
-
 ### ⚖️ TSMC power plant funding talks still conceptual, says Taipower
 - **題材**: `半導體先進製程` | **重要性**: `73`
 - **來源**: Digitimes (2026-10-13T02:44:16Z)
@@ -73,21 +64,21 @@
 
 ---
 
-### 🚀 Samsung HBM4E wins NVIDIA nod for AI accelerator push
-- **題材**: `HBM記憶體` | **重要性**: `73`
-- **來源**: Digitimes (2026-10-09T01:46:25Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Samsung Electronics' next-generation 12-layer HBM4E product, a type of high-bandwidth memory (HBM), has reportedly cleared customer quality validation from Nvidia and major hyperscale data center operators. If confirmed, the result would strengthen Samsung's …
-- [原文連結](https://www.digitimes.com/news/a20261008PD231/samsung-hbm-production-data-data-center.html)
-
----
-
 ### ⚠️ 27 Samsung, SK Hynix veterans joined China's CXMT, study shows
 - **題材**: `HBM記憶體` | **重要性**: `73`
 - **來源**: Digitimes (2026-10-07T23:51:01Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: An investigation by a South Korean lawmaker's office revealed that former Samsung Electronics and SK Hynix personnel who transitioned to Chinese DRAM maker ChangXin Memory Technologies (CXMT) spanned key stages of semiconductor development and mass production…
 - [原文連結](https://www.digitimes.com/news/a20261007PD234/cxmt-samsung-sk-hynix-talent-poaching.html)
+
+---
+
+### 🚀 Sigurd raises prices, signs long AI capacity contracts, eyes higher 2026 capex
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-10-07T07:35:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Taiwanese OSAT provider Sigurd Microelectronics and its subsidiary Winstek Semiconductor held a joint investor briefing on October 6. President Charles Yeh reported that surging demand across AI CPUs, GPUs, ASICs, silicon photonics, and memory is severely tig…
+- [原文連結](https://www.digitimes.com/news/a20261007PD228/sigurd-2026-capacity-osat-capex.html)
 
 ---
 
@@ -127,15 +118,6 @@
 
 ---
 
-### ⚖️ Samsung reportedly locks up to 80% of 2027 memory supply into long-term deals
-- **題材**: `HBM記憶體` | **重要性**: `68`
-- **來源**: Digitimes (2026-10-12T08:45:32Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Samsung Electronics has committed 75–80% of its 2027 memory supply, including high-bandwidth memory (HBM), to long-term agreements (LTAs), the Korea Economic Daily reported on October 9, 2026, citing industry sources. Nvidia, Google and Microsoft were among t…
-- [原文連結](https://www.digitimes.com/news/a20261012VL226/samsung-2027-2026-hbm-data-center.html)
-
----
-
 ### ⚖️ TSMC, ASML eye 12-inch photomasks to unlock High-NA EUV's full-field potential
 - **題材**: `半導體先進製程` | **重要性**: `68`
 - **來源**: Digitimes (2026-10-12T03:06:33Z)
@@ -151,15 +133,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: As AUO deepens its push into co-packaged optics (CPO), its subsidiary Darwin Precisions is also exploring opportunities in the semiconductor sector, leveraging its expertise in precision and ultra-precision machining and precision molds.
 - [原文連結](https://www.digitimes.com/news/a20261008PD220/auo-cpo-subsidiary-manufacturing-optics.html)
-
----
-
-### ⚖️ DIGITIMES Insight: HBM expansion raises the bar for memory offload
-- **題材**: `HBM記憶體` | **重要性**: `68`
-- **來源**: Digitimes (2026-10-07T06:55:00Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: The boundary for adopting external capacity is changing, as workloads that previously needed memory offload because of insufficient high-bandwidth memory (HBM) can now run directly on next-generation GPUs. As a result, demand for external capacity is shifting…
-- [原文連結](https://www.digitimes.com/news/a20261007PD233/capacity-hbm-expansion-data-gpu.html)
 
 ---
 
@@ -179,6 +152,33 @@
 - **摘要**: The new optics format could significantly reduce data center power consumption and enhance flexibility, impacting AI infrastructure efficiency.
 The post Nvidia, Cisco and partners introduce new pluggable optics format for AI data centers appeared first on Cry…
 - [原文連結](https://cryptobriefing.com/nvidia-cisco-pluggable-optics-ai-data-centers/)
+
+---
+
+### 🚀 AI chip boom pushes Samsung profits to record $80bn
+- **題材**: `HBM記憶體` | **重要性**: `65`
+- **來源**: BBC News (2026-10-08T01:31:56Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: The tech giant is also expected to get a boost from its latest folding devices that were launched in August.
+- [原文連結](https://www.bbc.co.uk/news/articles/c687z8127302o)
+
+---
+
+### ⚖️ DIGITIMES Insight: HBM expansion raises the bar for memory offload
+- **題材**: `HBM記憶體` | **重要性**: `63`
+- **來源**: Digitimes (2026-10-07T06:55:00Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: The boundary for adopting external capacity is changing, as workloads that previously needed memory offload because of insufficient high-bandwidth memory (HBM) can now run directly on next-generation GPUs. As a result, demand for external capacity is shifting…
+- [原文連結](https://www.digitimes.com/news/a20261007PD233/capacity-hbm-expansion-data-gpu.html)
+
+---
+
+### ⚖️ Huawei's NPO bet challenges CPO's path to AI scale
+- **題材**: `光通訊與矽光子` | **重要性**: `63`
+- **來源**: Digitimes (2026-10-07T01:55:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Huawei is backing near-packaged optics (NPO) rather than co-packaged optics (CPO) for its next-generation AI infrastructure, arguing that NPO offers a better balance of cost, manufacturability, reliability and serviceability as optical interconnects move deep…
+- [原文連結](https://www.digitimes.com/news/a20261007VL203/huawei-cpo-optics-ascend-cost.html)
 
 ---
 
