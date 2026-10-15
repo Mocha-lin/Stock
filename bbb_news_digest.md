@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-15T01:14:01.502724+00:00
+> 更新時間：2026-10-15T05:24:38.119024+00:00
 
 ### ⚖️ TSMC-GF interposer deal reshapes US AI supply chain, from CoWoS to HBM
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -7,6 +7,15 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: GlobalFoundries (GF) and TSMC have reached a manufacturing agreement to establish a US-based supply source for silicon interposers supporting TSMC's CoWoS advanced packaging ecosystem. The US$2 billion, five-year agreement will expand advanced packaging capac…
 - [原文連結](https://www.digitimes.com/news/a20261013PD248/tsmc-globalfoundries-packaging-capacity-silicon.html)
+
+---
+
+### ⚖️ HBM capacity shift sends DDR4 contract prices rising faster than DDR5
+- **題材**: `HBM記憶體` | **重要性**: `78`
+- **來源**: Digitimes (2026-10-14T02:25:41Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: DDR4 contract prices are rising faster than those of the newer DDR5 standard, reversing the usual pricing pattern in the memory market. The artificial intelligence (AI) boom has prompted memory manufacturers to expand high-bandwidth memory (HBM) production wh…
+- [原文連結](https://www.digitimes.com/news/a20261014PD214/ddr4-ddr5-market-capacity-hbm.html)
 
 ---
 
@@ -28,33 +37,6 @@
 
 ---
 
-### ⚖️ Commentary: Largan plays defense in phones, presses CPO offensive
-- **題材**: `光通訊與矽光子` | **重要性**: `78`
-- **來源**: Digitimes (2026-10-12T03:27:14Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Largan chairman Adam Lin spoke about the company's cautious smartphone outlook while taking a more aggressive stance on co-packaged optics (CPO) during a recent online earnings briefing. His comments on order trends, gross margins, and 2026 visibility highlig…
-- [原文連結](https://www.digitimes.com/news/a20261012PD219/smartphone-cpo-ceo-2027-production.html)
-
----
-
-### ⚖️ Commentary: Could a 65% US-content rule redraw China's 3.2T optical supply chain?
-- **題材**: `光通訊與矽光子` | **重要性**: `78`
-- **來源**: Digitimes (2026-10-12T02:16:08Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: AI data centers are shifting toward faster networking architectures, with optical transceivers advancing from 800G and 1.6T toward 3.2T. Yet China's ability to retain its position in the global AI data center supply chain may increasingly depend on more than …
-- [原文連結](https://www.digitimes.com/news/a20261012PD207/supply-chain-data-manufacturing-capacity-component.html)
-
----
-
-### 🚀 CyberTAN enters 1.6T AI switch race with Marvell-backed platform
-- **題材**: `光通訊與矽光子` | **重要性**: `78`
-- **來源**: Digitimes (2026-10-12T02:07:24Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: CyberTAN Technology is moving into the fast-growing AI data center switch market, joining Marvell Technology on a new 3nm Pallas 1.6T platform. The effort underscores rising global demand for high-speed networking, while tight chip supply and cooling demands …
-- [原文連結](https://www.digitimes.com/news/a20261012PD203/switch-cybertan-data-center-marvell-demand.html)
-
----
-
 ### ⚖️ TSMC power plant funding talks still conceptual, says Taipower
 - **題材**: `半導體先進製程` | **重要性**: `73`
 - **來源**: Digitimes (2026-10-13T02:44:16Z)
@@ -73,12 +55,30 @@
 
 ---
 
-### 🚀 Sigurd, Winstek align optical testing push as AI demand shifts toward connectivity
+### ⚖️ Commentary: Largan plays defense in phones, presses CPO offensive
 - **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-10-12T02:33:27Z)
+- **來源**: Digitimes (2026-10-12T03:27:14Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Largan chairman Adam Lin spoke about the company's cautious smartphone outlook while taking a more aggressive stance on co-packaged optics (CPO) during a recent online earnings briefing. His comments on order trends, gross margins, and 2026 visibility highlig…
+- [原文連結](https://www.digitimes.com/news/a20261012PD219/smartphone-cpo-ceo-2027-production.html)
+
+---
+
+### ⚖️ Commentary: Could a 65% US-content rule redraw China's 3.2T optical supply chain?
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-10-12T02:16:08Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: AI data centers are shifting toward faster networking architectures, with optical transceivers advancing from 800G and 1.6T toward 3.2T. Yet China's ability to retain its position in the global AI data center supply chain may increasingly depend on more than …
+- [原文連結](https://www.digitimes.com/news/a20261012PD207/supply-chain-data-manufacturing-capacity-component.html)
+
+---
+
+### 🚀 CyberTAN enters 1.6T AI switch race with Marvell-backed platform
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-10-12T02:07:24Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Optical communications is becoming a key global bottleneck as AI workloads expand, and Sigurd is positioning itself to benefit. The IC test and packaging company said demand is rising for co-packaged optics (CPO) and related transition technologies, with more…
-- [原文連結](https://www.digitimes.com/news/a20261012PD205/testing-communications-sigurd-demand-winstek.html)
+- **摘要**: CyberTAN Technology is moving into the fast-growing AI data center switch market, joining Marvell Technology on a new 3nm Pallas 1.6T platform. The effort underscores rising global demand for high-speed networking, while tight chip supply and cooling demands …
+- [原文連結](https://www.digitimes.com/news/a20261012PD203/switch-cybertan-data-center-marvell-demand.html)
 
 ---
 
@@ -118,30 +118,12 @@
 
 ---
 
-### ⚖️ Samsung reportedly locks up to 80% of 2027 memory supply into long-term deals
-- **題材**: `HBM記憶體` | **重要性**: `68`
-- **來源**: Digitimes (2026-10-12T08:45:32Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Samsung Electronics has committed 75–80% of its 2027 memory supply, including high-bandwidth memory (HBM), to long-term agreements (LTAs), the Korea Economic Daily reported on October 9, 2026, citing industry sources. Nvidia, Google and Microsoft were among t…
-- [原文連結](https://www.digitimes.com/news/a20261012VL226/samsung-2027-2026-hbm-data-center.html)
-
----
-
-### ⚖️ TSMC, ASML eye 12-inch photomasks to unlock High-NA EUV's full-field potential
-- **題材**: `半導體先進製程` | **重要性**: `68`
-- **來源**: Digitimes (2026-10-12T03:06:33Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Advanced semiconductor manufacturing is progressing toward 2nm and angstrom-era nodes (Å; where 1 nm equals 10 Å), bringing high-numerical-aperture extreme ultraviolet (High-NA EUV) lithography into focus.
-- [原文連結](https://www.digitimes.com/news/a20261012PD204/tsmc-asml-high-na-euv-12-inch-manufacturing.html)
-
----
-
-### 🚀 AUO subsidiary Darwin shifts toward high-end manufacturing, explores CPO and semiconductor opportunities
+### 🚀 Sigurd, Winstek align optical testing push as AI demand shifts toward connectivity
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-10-08T03:59:06Z)
+- **來源**: Digitimes (2026-10-12T02:33:27Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: As AUO deepens its push into co-packaged optics (CPO), its subsidiary Darwin Precisions is also exploring opportunities in the semiconductor sector, leveraging its expertise in precision and ultra-precision machining and precision molds.
-- [原文連結](https://www.digitimes.com/news/a20261008PD220/auo-cpo-subsidiary-manufacturing-optics.html)
+- **摘要**: Optical communications is becoming a key global bottleneck as AI workloads expand, and Sigurd is positioning itself to benefit. The IC test and packaging company said demand is rising for co-packaged optics (CPO) and related transition technologies, with more…
+- [原文連結](https://www.digitimes.com/news/a20261012PD205/testing-communications-sigurd-demand-winstek.html)
 
 ---
 
@@ -173,12 +155,30 @@ The post Nvidia, Cisco and partners introduce new pluggable optics format for AI
 
 ---
 
-### 🚀 AI chip boom pushes Samsung profits to record $80bn
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: BBC News (2026-10-08T01:31:56Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: The tech giant is also expected to get a boost from its latest folding devices that were launched in August.
-- [原文連結](https://www.bbc.co.uk/news/articles/c687z8127302o)
+### ⚖️ TSMC, ASML eye 12-inch photomasks to unlock High-NA EUV's full-field potential
+- **題材**: `半導體先進製程` | **重要性**: `63`
+- **來源**: Digitimes (2026-10-12T03:06:33Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Advanced semiconductor manufacturing is progressing toward 2nm and angstrom-era nodes (Å; where 1 nm equals 10 Å), bringing high-numerical-aperture extreme ultraviolet (High-NA EUV) lithography into focus.
+- [原文連結](https://www.digitimes.com/news/a20261012PD204/tsmc-asml-high-na-euv-12-inch-manufacturing.html)
+
+---
+
+### 🚀 AUO subsidiary Darwin shifts toward high-end manufacturing, explores CPO and semiconductor opportunities
+- **題材**: `光通訊與矽光子` | **重要性**: `63`
+- **來源**: Digitimes (2026-10-08T03:59:06Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: As AUO deepens its push into co-packaged optics (CPO), its subsidiary Darwin Precisions is also exploring opportunities in the semiconductor sector, leveraging its expertise in precision and ultra-precision machining and precision molds.
+- [原文連結](https://www.digitimes.com/news/a20261008PD220/auo-cpo-subsidiary-manufacturing-optics.html)
+
+---
+
+### ⚖️ Diamond-infused watercooling coldplates for 2,300W Nvidia Rubin drop temps by up to 22C
+- **題材**: `AI伺服器` | **重要性**: `62`
+- **來源**: Tom's Hardware UK (2026-10-12T13:30:00Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: A bespoke coldplate for custom designed AI servers: Frore's LiquidJet Diamond.
+- [原文連結](https://www.tomshardware.com/pc-components/liquid-cooling/diamond-infused-watercooling-coldplates-for-2-300w-nvidia-rubin-drop-temps-by-up-to-22c-bespoke-frore-liquidjet-diamond-cooling-tames-770-w-cm2-hotspots)
 
 ---
 
