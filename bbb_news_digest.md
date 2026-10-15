@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-15T13:59:13.118959+00:00
+> 更新時間：2026-10-15T17:25:07.809383+00:00
 
 ### ⚖️ TSMC-GF interposer deal reshapes US AI supply chain, from CoWoS to HBM
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -82,15 +82,6 @@
 
 ---
 
-### 🚀 TSMC taps GlobalFoundries to bolster US silicon interposer production in $2B deal
-- **題材**: `AI伺服器` | **重要性**: `70`
-- **來源**: Theregister.com (2026-10-08T17:22:32Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Advanced packaging tech is essential to the domestic production of high-performance semiconductors used in AI datacenters
-- [原文連結](https://www.theregister.com/systems/2026/10/08/tsmc-taps-globalfoundries-to-bolster-us-silicon-interposer-production-in-2b-deal/5302061)
-
----
-
 ### ⚖️ Wiwynn unveils CPO compute system with GUC and Ayar Labs
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
 - **來源**: Digitimes (2026-10-14T08:38:13Z)
@@ -127,22 +118,21 @@
 
 ---
 
-### ⚖️ Nvidia, Cisco and partners introduce new pluggable optics format for AI data centers
-- **題材**: `光通訊與矽光子` | **重要性**: `65`
-- **來源**: Crypto Briefing (2026-10-12T15:04:47Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: The new optics format could significantly reduce data center power consumption and enhance flexibility, impacting AI infrastructure efficiency.
-The post Nvidia, Cisco and partners introduce new pluggable optics format for AI data centers appeared first on Cry…
-- [原文連結](https://cryptobriefing.com/nvidia-cisco-pluggable-optics-ai-data-centers/)
-
----
-
 ### 🚀 Powering the AI revolution: Inside the grid, thermal, and interconnect challenges limiting data center growth
 - **題材**: `光通訊與矽光子` | **重要性**: `65`
 - **來源**: TechRadar (2026-10-11T17:20:00Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: We take a deep dive into the electrical, thermal, and infrastructural bottlenecks affecting the next-generation computing revolution.
 - [原文連結](https://www.techradar.com/pro/powering-the-ai-revolution-inside-the-grid-thermal-and-interconnect-challenges-limiting-data-center-growth)
+
+---
+
+### 🚀 TSMC taps GlobalFoundries to bolster US silicon interposer production in $2B deal
+- **題材**: `AI伺服器` | **重要性**: `65`
+- **來源**: Theregister.com (2026-10-08T17:22:32Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Advanced packaging tech is essential to the domestic production of high-performance semiconductors used in AI datacenters
+- [原文連結](https://www.theregister.com/systems/2026/10/08/tsmc-taps-globalfoundries-to-bolster-us-silicon-interposer-production-in-2b-deal/5302061)
 
 ---
 
@@ -164,6 +154,15 @@ The post Nvidia, Cisco and partners introduce new pluggable optics format for AI
 
 ---
 
+### ⚖️ SK hynix to place custom tiny CPU cores in its SSD controllers to ease Arm load as drive speeds rocket
+- **題材**: `HBM記憶體` | **重要性**: `62`
+- **來源**: Tom's Hardware UK (2026-10-14T14:00:00Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: SK hynix detailed H-TPU, tiny in-house cores that offload routine I/O from the Arm CPUs in its next enterprise SSD controllers.
+- [原文連結](https://www.tomshardware.com/pc-components/ssds/sk-hynix-to-place-custom-tiny-cpu-cores-in-its-ssd-controllers-to-ease-arm-load-as-drive-speeds-rocket-each-h-tpu-reportedly-draws-2-5-percent-of-a-cpu-cores-power)
+
+---
+
 ### ⚖️ SpaceX reportedly seeking $40 billion debt package for Nvidia AI hardware
 - **題材**: `AI伺服器` | **重要性**: `62`
 - **來源**: Tom's Hardware UK (2026-10-08T11:00:00Z)
@@ -173,12 +172,12 @@ The post Nvidia, Cisco and partners introduce new pluggable optics format for AI
 
 ---
 
-### ⚖️ Elon Musk hints at Samsung charging too much for memory chips
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: SamMobile (2026-10-14T13:01:12Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Samsung has generated significant profit selling DRAM, high-bandwidth memory (HBM), and NAND flash chips to top AI firms like AMD, Nvidia, and Grok. However, Elon Musk recently hinted that the tech giant might be overcharging for its memory components. Respon…
-- [原文連結](https://www.sammobile.com/news/elon-musk-samsung-charging-too-much-memory-chips/)
+### ⚖️ Supermicro OCP Accepted Portfolio Adds 48V Busbar ORv3 Racks, a 250 kW In-Rack CDU, and a 102.4 Tbps CPO Switch
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: Storagereview.com (2026-10-14T15:26:03Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Supermicro announced an expanded line of Open Compute Project Accepted systems, racks, and rear door heat exchangers, all delivered through its Data Center Building Block Solutions (DCBBS) program and on display at booth B4 at the OCP Global Summit in San Jos…
+- [原文連結](https://www.storagereview.com/news/supermicro-ocp-accepted-portfolio-48v-busbar-orv3-racks-250-kw-cdu-cpo-switch)
 
 ---
 
