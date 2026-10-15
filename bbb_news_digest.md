@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-15T17:25:07.809383+00:00
+> 更新時間：2026-10-15T21:51:32.133782+00:00
 
 ### ⚖️ TSMC-GF interposer deal reshapes US AI supply chain, from CoWoS to HBM
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -73,15 +73,6 @@
 
 ---
 
-### ⚖️ GlobalFoundries to produce silicon interposers for TSMC's CoWoS in the US — Five-year agreement valued at $2 billion
-- **題材**: `半導體先進製程` | **重要性**: `72`
-- **來源**: Tom's Hardware UK (2026-10-08T18:23:28Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: GlobalFoundries becomes a part of TSMC's CoWoS supply chain in the U.S.: set to participate in production of leading-edge AI and HPC accelerators without investing in leading-edge process technologies.
-- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/globalfoundries-to-produce-silicon-interposers-for-tsmcs-cowos-in-the-us-five-year-agreement-valued-at-usd2-billion)
-
----
-
 ### ⚖️ Wiwynn unveils CPO compute system with GUC and Ayar Labs
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
 - **來源**: Digitimes (2026-10-14T08:38:13Z)
@@ -109,21 +100,21 @@
 
 ---
 
+### ⚖️ GlobalFoundries to produce silicon interposers for TSMC's CoWoS in the US — Five-year agreement valued at $2 billion
+- **題材**: `半導體先進製程` | **重要性**: `67`
+- **來源**: Tom's Hardware UK (2026-10-08T18:23:28Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: GlobalFoundries becomes a part of TSMC's CoWoS supply chain in the U.S.: set to participate in production of leading-edge AI and HPC accelerators without investing in leading-edge process technologies.
+- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/globalfoundries-to-produce-silicon-interposers-for-tsmcs-cowos-in-the-us-five-year-agreement-valued-at-usd2-billion)
+
+---
+
 ### 🚀 AMD seeks 'broader partnership' with Samsung as it looks to secure memory supply
 - **題材**: `半導體先進製程` | **重要性**: `67`
 - **來源**: Tom's Hardware UK (2026-10-08T12:30:00Z)
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: AMD is pursuing a 'broader partnership' with Samsung as memory company wants to tie advanced memory supply to its orders at its foundry unit.
 - [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/amd-seeks-broader-partnership-with-samsung-as-it-looks-to-secure-memory-supply-samsung-reportedly-hopes-to-turn-its-memory-supply-relationship-with-amd-into-foundry-orders-for-logic-chips)
-
----
-
-### 🚀 Powering the AI revolution: Inside the grid, thermal, and interconnect challenges limiting data center growth
-- **題材**: `光通訊與矽光子` | **重要性**: `65`
-- **來源**: TechRadar (2026-10-11T17:20:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: We take a deep dive into the electrical, thermal, and infrastructural bottlenecks affecting the next-generation computing revolution.
-- [原文連結](https://www.techradar.com/pro/powering-the-ai-revolution-inside-the-grid-thermal-and-interconnect-challenges-limiting-data-center-growth)
 
 ---
 
@@ -145,12 +136,12 @@
 
 ---
 
-### 🚀 AUO subsidiary Darwin shifts toward high-end manufacturing, explores CPO and semiconductor opportunities
-- **題材**: `光通訊與矽光子` | **重要性**: `63`
-- **來源**: Digitimes (2026-10-08T03:59:06Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: As AUO deepens its push into co-packaged optics (CPO), its subsidiary Darwin Precisions is also exploring opportunities in the semiconductor sector, leveraging its expertise in precision and ultra-precision machining and precision molds.
-- [原文連結](https://www.digitimes.com/news/a20261008PD220/auo-cpo-subsidiary-manufacturing-optics.html)
+### ⚖️ Grace Hopper Celebration canceled two weeks out as AnitaB.org runs short of funds
+- **題材**: `光通訊與矽光子` | **重要性**: `62`
+- **來源**: Tom's Hardware UK (2026-10-14T18:09:38Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: AnitaB.org canceled this month’s Grace Hopper Celebration in Anaheim, saying registrations and sponsorships couldn’t cover its costs.
+- [原文連結](https://www.tomshardware.com/tech-industry/grace-hopper-celebration-for-women-in-computing-canceled-two-weeks-out-anitab-org-says-registrations-and-sponsorships-fell-short-of-covering-costs)
 
 ---
 
@@ -169,6 +160,15 @@
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: SpaceX reportedly intends to borrow $40 billion to procure 360,000 Nvidia Rubin AI accelerators, infrastructure.
 - [原文連結](https://www.tomshardware.com/tech-industry/artificial-intelligence/spacex-reportedly-seeking-usd40-billion-debt-package-for-nvidia-ai-hardware-massive-raise-could-fund-roughly-360-000-vera-rubin-gpus-across-5-000-nvl72-racks)
+
+---
+
+### 🚀 Americans brace for brutal winter amid surging cost of heating oil
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Abcnews.com (2026-10-14T19:23:30Z)
+- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Amid surging inflation and a rise in fuel prices, Americans who rely on heating oil to warm up their homes this winter are bracing for increased financial strains.
+- [原文連結](https://abcnews.com/US/americans-brace-brutal-winter-heating-oil-costs-rise/story?id=137101907)
 
 ---
 
