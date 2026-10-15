@@ -1,10 +1,83 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-10-14T21:58:08.893717+00:00",
+  "generated_at": "2026-10-15T01:14:01.502724+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 70,
   "items": [
+    {
+      "id": "a57f97688670fb95",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "TSMC-GF interposer deal reshapes US AI supply chain, from CoWoS to HBM",
+      "summary": "GlobalFoundries (GF) and TSMC have reached a manufacturing agreement to establish a US-based supply source for silicon interposers supporting TSMC's CoWoS advanced packaging ecosystem. The US$2 billion, five-year agreement will expand advanced packaging capac…",
+      "original_title": "TSMC-GF interposer deal reshapes US AI supply chain, from CoWoS to HBM",
+      "url": "https://www.digitimes.com/news/a20261013PD248/tsmc-globalfoundries-packaging-capacity-silicon.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-10-14T00:51:56Z",
+      "importance": 83,
+      "impact": "neutral",
+      "timeframe": "short_to_mid_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
+      "id": "2213f91d8c96dacc",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "SK Hynix, Micron confront AI memory bottlenecks with HBM standardization, chip integration",
+      "summary": "AI infrastructure expansion is shifting semiconductor competition beyond individual chip performance towards memory bandwidth, data-transfer power consumption, transistor scaling, chip interconnects, and system integration through advanced packaging.",
+      "original_title": "SK Hynix, Micron confront AI memory bottlenecks with HBM standardization, chip integration",
+      "url": "https://www.digitimes.com/news/a20261013PD239/hbm-micron-development-infrastructure-expansion.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-10-14T01:09:30Z",
+      "importance": 78,
+      "impact": "neutral",
+      "timeframe": "short_to_mid_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
     {
       "id": "f9b97f9fd65cc4b4",
       "dataset": "market_news",
@@ -228,6 +301,44 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
+      "id": "2595066d26bbb7f4",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "Sigurd, Winstek align optical testing push as AI demand shifts toward connectivity",
+      "summary": "Optical communications is becoming a key global bottleneck as AI workloads expand, and Sigurd is positioning itself to benefit. The IC test and packaging company said demand is rising for co-packaged optics (CPO) and related transition technologies, with more…",
+      "original_title": "Sigurd, Winstek align optical testing push as AI demand shifts toward connectivity",
+      "url": "https://www.digitimes.com/news/a20261012PD205/testing-communications-sigurd-demand-winstek.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-10-12T02:33:27Z",
+      "importance": 73,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
       "id": "d5745da4d199287c",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -264,79 +375,6 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
-      "id": "e549beb359a1d0d1",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "27 Samsung, SK Hynix veterans joined China's CXMT, study shows",
-      "summary": "An investigation by a South Korean lawmaker's office revealed that former Samsung Electronics and SK Hynix personnel who transitioned to Chinese DRAM maker ChangXin Memory Technologies (CXMT) spanned key stages of semiconductor development and mass production…",
-      "original_title": "27 Samsung, SK Hynix veterans joined China's CXMT, study shows",
-      "url": "https://www.digitimes.com/news/a20261007PD234/cxmt-samsung-sk-hynix-talent-poaching.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-10-07T23:51:01Z",
-      "importance": 73,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
-      "id": "9c783aa0fb6ae7bf",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "Sigurd raises prices, signs long AI capacity contracts, eyes higher 2026 capex",
-      "summary": "Taiwanese OSAT provider Sigurd Microelectronics and its subsidiary Winstek Semiconductor held a joint investor briefing on October 6. President Charles Yeh reported that surging demand across AI CPUs, GPUs, ASICs, silicon photonics, and memory is severely tig…",
-      "original_title": "Sigurd raises prices, signs long AI capacity contracts, eyes higher 2026 capex",
-      "url": "https://www.digitimes.com/news/a20261007PD228/sigurd-2026-capacity-osat-capex.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-10-07T07:35:00Z",
-      "importance": 73,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "1ec627ae43445fd9",
@@ -451,6 +489,117 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
+      "id": "1547025d9c3caa2d",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "Samsung reportedly locks up to 80% of 2027 memory supply into long-term deals",
+      "summary": "Samsung Electronics has committed 75–80% of its 2027 memory supply, including high-bandwidth memory (HBM), to long-term agreements (LTAs), the Korea Economic Daily reported on October 9, 2026, citing industry sources. Nvidia, Google and Microsoft were among t…",
+      "original_title": "Samsung reportedly locks up to 80% of 2027 memory supply into long-term deals",
+      "url": "https://www.digitimes.com/news/a20261012VL226/samsung-2027-2026-hbm-data-center.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-10-12T08:45:32Z",
+      "importance": 68,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "f91e443c9c307fca",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "TSMC, ASML eye 12-inch photomasks to unlock High-NA EUV's full-field potential",
+      "summary": "Advanced semiconductor manufacturing is progressing toward 2nm and angstrom-era nodes (Å; where 1 nm equals 10 Å), bringing high-numerical-aperture extreme ultraviolet (High-NA EUV) lithography into focus.",
+      "original_title": "TSMC, ASML eye 12-inch photomasks to unlock High-NA EUV's full-field potential",
+      "url": "https://www.digitimes.com/news/a20261012PD204/tsmc-asml-high-na-euv-12-inch-manufacturing.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-10-12T03:06:33Z",
+      "importance": 68,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "b19f7a10d3199b04",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "AUO subsidiary Darwin shifts toward high-end manufacturing, explores CPO and semiconductor opportunities",
+      "summary": "As AUO deepens its push into co-packaged optics (CPO), its subsidiary Darwin Precisions is also exploring opportunities in the semiconductor sector, leveraging its expertise in precision and ultra-precision machining and precision molds.",
+      "original_title": "AUO subsidiary Darwin shifts toward high-end manufacturing, explores CPO and semiconductor opportunities",
+      "url": "https://www.digitimes.com/news/a20261008PD220/auo-cpo-subsidiary-manufacturing-optics.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-10-08T03:59:06Z",
+      "importance": 68,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "d59897b468411c5a",
@@ -602,79 +751,6 @@
       "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "4ebb836ab98f3b64",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "DIGITIMES Insight: HBM expansion raises the bar for memory offload",
-      "summary": "The boundary for adopting external capacity is changing, as workloads that previously needed memory offload because of insufficient high-bandwidth memory (HBM) can now run directly on next-generation GPUs. As a result, demand for external capacity is shifting…",
-      "original_title": "DIGITIMES Insight: HBM expansion raises the bar for memory offload",
-      "url": "https://www.digitimes.com/news/a20261007PD233/capacity-hbm-expansion-data-gpu.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-10-07T06:55:00Z",
-      "importance": 63,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "13a2de6d801f55ec",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "Huawei's NPO bet challenges CPO's path to AI scale",
-      "summary": "Huawei is backing near-packaged optics (NPO) rather than co-packaged optics (CPO) for its next-generation AI infrastructure, arguing that NPO offers a better balance of cost, manufacturability, reliability and serviceability as optical interconnects move deep…",
-      "original_title": "Huawei's NPO bet challenges CPO's path to AI scale",
-      "url": "https://www.digitimes.com/news/a20261007VL203/huawei-cpo-optics-ascend-cost.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-10-07T01:55:00Z",
-      "importance": 63,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "bab0fcc72eebe5c2",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -711,6 +787,44 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "5c9dc4cd8104f400",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "Lawsuit Alleges Expedia Is to Blame for Rising Hotel Prices",
+      "summary": "Book a court date.",
+      "original_title": "Lawsuit Alleges Expedia Is to Blame for Rising Hotel Prices",
+      "url": "https://gizmodo.com/lawsuit-alleges-expedia-is-to-blame-for-hotel-prices-2000825490",
+      "source": "Gizmodo.com",
+      "domain": "gizmodo.com",
+      "published_at": "2026-10-13T21:45:40Z",
+      "importance": 60,
+      "impact": "negative",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "040cbe206e03c5b8",
@@ -976,6 +1090,196 @@
       "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "7dc218daa3c7d22b",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "Iran shifting tactics to step up attacks on shipping before U.S. vote, officials say",
+      "summary": "By Parisa Hafezi, Jonathan Saul and Phil Stewart DUBAI/LONDON/WASHINGTON, Oct 14 (Reuters) - Iran is deploying new tactics to target ships sailing through the Strait of Hormuz as it seeks to keep oil prices high and influence the US midterm elections, two sen…",
+      "original_title": "Iran shifting tactics to step up attacks on shipping before U.S. vote, officials say",
+      "url": "https://www.yahoo.com/news/us/articles/iran-shifting-tactics-step-attacks-000632093.html",
+      "source": "Yahoo Entertainment",
+      "domain": "yahoo.com",
+      "published_at": "2026-10-14T00:11:56Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "51035562a94ba34a",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "2020 Porsche Cayenne",
+      "summary": "This 2020 Porsche Cayenne is finished in White over a Black and Mojave Beige standard interior and is powered by a turbocharged 3.0-liter V6 that drives all four wheels through an eight-speed Tiptronic S automatic transmission. Factory equipment includes a pa…",
+      "original_title": "2020 Porsche Cayenne",
+      "url": "https://bringatrailer.com/listing/2020-porsche-cayenne-7/",
+      "source": "Bringatrailer.com",
+      "domain": "bringatrailer.com",
+      "published_at": "2026-10-13T22:59:09Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "7281aaab878a608d",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Art of Play co-owner says Kelly Clarkson's post was 'like she threw a Molotov cocktail at us'",
+      "summary": "\"We had no idea what would happen to us,\" Art of Play's co-owner said of Kelly Clarkson. \"She did. She's the superstar.\"",
+      "original_title": "Art of Play co-owner says Kelly Clarkson's post was 'like she threw a Molotov cocktail at us'",
+      "url": "https://www.businessinsider.com/art-of-play-co-owner-response-kelly-clarkson-molotov-cocktail-2026-10#article",
+      "source": "Business Insider",
+      "domain": "businessinsider.com",
+      "published_at": "2026-10-13T22:36:26Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "f65700d5df38e27f",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "How Much Has the Iran War Cost the Average Family So Far?",
+      "summary": "About $2,000 per household, according to Moody's.",
+      "original_title": "How Much Has the Iran War Cost the Average Family So Far?",
+      "url": "https://gizmodo.com/how-much-has-the-iran-war-cost-the-average-family-so-far-2000825516",
+      "source": "Gizmodo.com",
+      "domain": "gizmodo.com",
+      "published_at": "2026-10-13T22:01:36Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "5b3d6de2e6e11d72",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Probability Theory Pioneer Mark Kac on the Unpredictability of Creativity and the Two Types of Geniuses",
+      "summary": "\"Creative people live in two worlds. One is the ordinary world which they share with others and in which they are not in any special way set apart from their fellow men. The other is private and it is in this world that the creative acts take place.\"",
+      "original_title": "Probability Theory Pioneer Mark Kac on the Unpredictability of Creativity and the Two Types of Geniuses",
+      "url": "https://www.themarginalian.org/2026/10/13/mark-kac-enigmas-of-chance-geniuses/",
+      "source": "Themarginalian.org",
+      "domain": "themarginalian.org",
+      "published_at": "2026-10-13T20:58:26Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "352d8421172414d8",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1160,6 +1464,41 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "92ac8e78bba019ef",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "Bitcoin diverges from South Korean stocks as AI concerns deepen the Kospi selloff",
+      "summary": "South Korea’s chipmakers lead another sharp selloff as concerns over AI spending and Chinese competition grow, while bitcoin holds well above its summer lows.",
+      "original_title": "Bitcoin diverges from South Korean stocks as AI concerns deepen the Kospi selloff",
+      "url": "https://www.coindesk.com/markets/2026/10/13/bitcoin-diverges-from-south-korean-stocks-as-ai-concerns-deepen-the-kospi-selloff",
+      "source": "CoinDesk",
+      "domain": "coindesk.com",
+      "published_at": "2026-10-13T10:38:51Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "09e37846da23f4a6",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1279,6 +1618,44 @@
       "source": "Storagereview.com",
       "domain": "storagereview.com",
       "published_at": "2026-10-12T19:17:59Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "db74b9ccbfd5737e",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "Executive Interview: Teal",
+      "summary": "André Saavedra Pinto, Chief Product Officer (CPO) and Co-founder of Teal, tells CB Insights how they view the market, customer needs, and their company.   How do you define your market and where does your company fit into that space? …\nThe post Executive Inte…",
+      "original_title": "Executive Interview: Teal",
+      "url": "https://www.cbinsights.com/research/executive-interview-teal/",
+      "source": "Cbinsights.com",
+      "domain": "cbinsights.com",
+      "published_at": "2026-10-12T13:12:57Z",
       "importance": 55,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -1496,82 +1873,6 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "430c61b1e33b139d",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "5 '80s Sci-Fi Movies That Deserved More Attention",
-      "summary": "For a variety of reasons, these '80s sci-fi movies (all of which are either good or great) didn't receive the attention they deserved.",
-      "original_title": "5 '80s Sci-Fi Movies That Deserved More Attention",
-      "url": "https://www.slashfilm.com/2280547/sci-fi-movies-80s-deserve-more-attention/",
-      "source": "/FILM",
-      "domain": "slashfilm.com",
-      "published_at": "2026-10-11T23:30:00Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "bb5ca851329f67a2",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "Oil theft is on the rise in U.S. shale country as thieves cash in on soaring prices",
-      "summary": "The spike in oil prices since the Iran war began this year has attracted more thieves, and they are increasingly professional criminals.\n\n\n\nWest Texas Intermediate crude is up 60% so far this year, and fuel prices have risen even more as global refining capac…",
-      "original_title": "Oil theft is on the rise in U.S. shale country as thieves cash in on soaring prices",
-      "url": "https://finance.yahoo.com/energy/articles/oil-theft-rise-heart-u-222558567.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-10-11T22:25:58Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "6f4118ced2264808",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1762,18 +2063,132 @@
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "e9a83411fdad69eb",
+      "id": "bc6200efc9b1e8e1",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Transcript: Trump Rage at Fox Backfires as Cringe Motive for It Leaks",
+      "summary": "The following is a lightly edited transcript of the October 9 episode of the Daily Blast podcast. Listen to it here.Greg Sargent: This is The Daily Blast from The New Republic, produced and presented by the DSR Network. I’m your host, Greg Sargent.Donald Trum…",
+      "original_title": "Transcript: Trump Rage at Fox Backfires as Cringe Motive for It Leaks",
+      "url": "https://newrepublic.com/article/216445/transcript-trump-rage-fox-backfires-cringe-motive-leaks",
+      "source": "The New Republic",
+      "domain": "newrepublic.com",
+      "published_at": "2026-10-09T10:23:06Z",
+      "importance": 55,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "f2fed3e1b8e0aa6a",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "SpaceX Needs $40 Billion To Buy Chips From Nvidia — Here's Why",
+      "summary": "SpaceX wants to spend billions on Nvidia chips, but these aren't the graphics cards you'd put in a gaming PC. The company has something much bigger in mind.",
+      "original_title": "SpaceX Needs $40 Billion To Buy Chips From Nvidia — Here's Why",
+      "url": "https://www.bgr.com/2281034/spacex-needs-40-billion-for-nvidia-chips/",
+      "source": "BGR",
+      "domain": "bgr.com",
+      "published_at": "2026-10-08T14:47:00Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "d3e53a2992c1071b",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Microsoft reveals Surface Laptop Ultra price and availability",
+      "summary": "Announced at Computex earlier this year, the Microsoft Surface Laptop Ultra is finally available for pre-order. The flagship laptop is powered by Nvidia’s RTX Spark SoC and is set to compete with Apple’s rumored MacBook Ultra.\n\nThe Surface Laptop Ultra is cur…",
+      "original_title": "Microsoft reveals Surface Laptop Ultra price and availability",
+      "url": "https://www.gsmarena.com/microsoft_reveals_surface_laptop_ultra_price_and_availability-news-74953.php",
+      "source": "GSMArena.com",
+      "domain": "gsmarena.com",
+      "published_at": "2026-10-08T09:03:02Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "a737d64ee2c306d4",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "總體風險",
-      "title": "US stocks slide as oil prices fluctuate over renewed Iran war fears",
-      "summary": "Oil prices rose on fresh concerns about Middle East supplies, before falling on the possible release of more reserves.",
-      "original_title": "US stocks slide as oil prices fluctuate over renewed Iran war fears",
-      "url": "https://www.aljazeera.com/news/2026/10/8/us-stocks-slide-as-oil-prices-fluctuate-over-renewed-iran-war-fears",
-      "source": "Al Jazeera English",
-      "domain": "aljazeera.com",
-      "published_at": "2026-10-08T00:33:03Z",
-      "importance": 55,
+      "title": "George A. Romero’s Season of the Witch is a slow-burn feminist occult drama",
+      "summary": "George A. Romero is obviously best known as the father of the modern zombie movie. But between inventing the genre with Night of the Living Dead and his outbreak horror, The Crazies, Romero made two much lesser-known films: There's Always Vanilla, which I'll …",
+      "original_title": "George A. Romero’s Season of the Witch is a slow-burn feminist occult drama",
+      "url": "https://www.theverge.com/entertainment/1009346/george-a-romero-season-of-the-witch-feminist-horror-review",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "published_at": "2026-10-11T15:12:52Z",
+      "importance": 53,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -1800,18 +2215,56 @@
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "a737d64ee2c306d4",
+      "id": "430c61b1e33b139d",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "5 '80s Sci-Fi Movies That Deserved More Attention",
+      "summary": "For a variety of reasons, these '80s sci-fi movies (all of which are either good or great) didn't receive the attention they deserved.",
+      "original_title": "5 '80s Sci-Fi Movies That Deserved More Attention",
+      "url": "https://www.slashfilm.com/2280547/sci-fi-movies-80s-deserve-more-attention/",
+      "source": "/FILM",
+      "domain": "slashfilm.com",
+      "published_at": "2026-10-11T23:30:00Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "bb5ca851329f67a2",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "總體風險",
-      "title": "George A. Romero’s Season of the Witch is a slow-burn feminist occult drama",
-      "summary": "George A. Romero is obviously best known as the father of the modern zombie movie. But between inventing the genre with Night of the Living Dead and his outbreak horror, The Crazies, Romero made two much lesser-known films: There's Always Vanilla, which I'll …",
-      "original_title": "George A. Romero’s Season of the Witch is a slow-burn feminist occult drama",
-      "url": "https://www.theverge.com/entertainment/1009346/george-a-romero-season-of-the-witch-feminist-horror-review",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "published_at": "2026-10-11T15:12:52Z",
-      "importance": 53,
+      "title": "Oil theft is on the rise in U.S. shale country as thieves cash in on soaring prices",
+      "summary": "The spike in oil prices since the Iran war began this year has attracted more thieves, and they are increasingly professional criminals.\n\n\n\nWest Texas Intermediate crude is up 60% so far this year, and fuel prices have risen even more as global refining capac…",
+      "original_title": "Oil theft is on the rise in U.S. shale country as thieves cash in on soaring prices",
+      "url": "https://finance.yahoo.com/energy/articles/oil-theft-rise-heart-u-222558567.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-10-11T22:25:58Z",
+      "importance": 50,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -2104,283 +2557,17 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "b206e4c6e0aba6db",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "Apple’s iPhone 18 is getting a ‘cheaper’ A20 chip to keep the overall phone affordable",
-      "summary": "https://youtu.be/OQVA2Suzrb0 Apple has a long habit of handing last year's brain to this year's regular iPhone. The iPhone 15 shipped with the A16 chip while the 15 Pro got the shiny new A17 Pro, and nobody stormed Cupertino with pitchforks. It works because …",
-      "original_title": "Apple’s iPhone 18 is getting a ‘cheaper’ A20 chip to keep the overall phone affordable",
-      "url": "https://www.yankodesign.com/2026/10/07/apples-iphone-18-is-getting-a-cheaper-a20-chip-to-keep-the-overall-phone-affordable/",
-      "source": "Yanko Design",
-      "domain": "yankodesign.com",
-      "published_at": "2026-10-08T00:30:55Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "8df1cd5f3ef101db",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "The Surface Laptop Ultra Is Here: Microsoft and Nvidia Built a Premium Computer for the AI Age",
-      "summary": "With Nvidia’s RTX Spark chip and platform, Microsoft’s newest laptop is ready to compete with AI heavyweights.",
-      "original_title": "The Surface Laptop Ultra Is Here: Microsoft and Nvidia Built a Premium Computer for the AI Age",
-      "url": "https://www.cnet.com/tech/computing/microsoft-surface-laptop-ultra-release-nvidia-rtx-spark/",
-      "source": "CNET",
-      "domain": "cnet.com",
-      "published_at": "2026-10-07T23:25:24Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "653d1f991af8269d",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Microsoft says new $2,599 laptop with Nvidia chip outperforms MacBooks",
-      "summary": "Microsoft priced its first Nvidia-powered Surface at $2,599.99 and claimed on stage that it doubles a MacBook Pro M5 on local AI prompts, without publishing how either figure was measured. The chip inside is built on Arm’s architecture, from the Cambridge com…",
-      "original_title": "Microsoft says new $2,599 laptop with Nvidia chip outperforms MacBooks",
-      "url": "https://thenextweb.com/news/surface-laptop-ultra-nvidia-europe",
-      "source": "The Next Web",
-      "domain": "thenextweb.com",
-      "published_at": "2026-10-07T19:26:33Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "dae11e84a99eb095",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Surface Laptop Ultra preorders are live!",
-      "summary": "The Surface Laptop Ultra with NVIDIA RTX Spark chip is now available to preorder. Here's the best place to pick one up, as well as a breakdown of the configurations and costs.",
-      "original_title": "Surface Laptop Ultra preorders are live!",
-      "url": "https://www.windowscentral.com/hardware/surface/surface-laptop-ultra-preorders-live",
-      "source": "Windows Central",
-      "domain": "windowscentral.com",
-      "published_at": "2026-10-07T17:49:15Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "75f031258204f546",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "CoreWeave plans its first India data centres with 240MW from AdaniConneX",
-      "summary": "CoreWeave will open its first data centres in India, using 240 megawatts of capacity at an AdaniConneX campus in Navi Mumbai. The US AI cloud provider announced the deal on Wednesday. CoreWeave expects the first phase to come online in mid-2028. AdaniConneX i…",
-      "original_title": "CoreWeave plans its first India data centres with 240MW from AdaniConneX",
-      "url": "https://thenextweb.com/news/coreweave-india-adaniconnex-240mw-navi-mumbai",
-      "source": "The Next Web",
-      "domain": "thenextweb.com",
-      "published_at": "2026-10-07T13:43:19Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "d98d231b8c1056ec",
+      "id": "e9a83411fdad69eb",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "總體風險",
-      "title": "India's first bank rate hike since 2023 signals growing inflation concerns",
-      "summary": "The hike reflects a global shift towards tighter monetary policy as central banks battle inflation fuelled by Middle East conflict.",
-      "original_title": "India's first bank rate hike since 2023 signals growing inflation concerns",
-      "url": "https://www.bbc.co.uk/news/articles/c5j9kngz3j1go",
-      "source": "BBC News",
-      "domain": "bbc.co.uk",
-      "published_at": "2026-10-07T10:44:02Z",
-      "importance": 50,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "49941de5820c7e9a",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "Japan’s Rapidus teams up with 17 firms to win customers for 2nm chips",
-      "summary": "Rapidus, Japan’s state-backed chipmaker, has signed up 17 chip design firms to help it win customers before it starts making 2-nanometre chips. They include Synopsys and Cadence from the US, India’s Infosys, and Japan’s Dai Nippon Printing and Toppan, Jiji Pr…",
-      "original_title": "Japan’s Rapidus teams up with 17 firms to win customers for 2nm chips",
-      "url": "https://thenextweb.com/news/rapidus-17-design-partners-2nm-customers",
-      "source": "The Next Web",
-      "domain": "thenextweb.com",
-      "published_at": "2026-10-07T08:55:29Z",
-      "importance": 50,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "143eaf2be679f689",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "Bessent says inflation and bond yields will drop after the Iran war. Others aren't so sure.",
-      "summary": "Treasury Secretary Scott Bessent says the economy is \"accelerating\" and inflation, along with bond yields, will come back down once the conflict in Iran ends. \"Right now, we have this energy shock that's generated by the Iran conflict, and headline inflation …",
-      "original_title": "Bessent says inflation and bond yields will drop after the Iran war. Others aren't so sure.",
-      "url": "https://finance.yahoo.com/economy/policy/article/bessent-says-inflation-and-bond-yields-will-drop-when-the-iran-war-ends-others-arent-so-sure-202312285.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-10-07T08:34:07Z",
+      "title": "US stocks slide as oil prices fluctuate over renewed Iran war fears",
+      "summary": "Oil prices rose on fresh concerns about Middle East supplies, before falling on the possible release of more reserves.",
+      "original_title": "US stocks slide as oil prices fluctuate over renewed Iran war fears",
+      "url": "https://www.aljazeera.com/news/2026/10/8/us-stocks-slide-as-oil-prices-fluctuate-over-renewed-iran-war-fears",
+      "source": "Al Jazeera English",
+      "domain": "aljazeera.com",
+      "published_at": "2026-10-08T00:33:03Z",
       "importance": 50,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -2408,204 +2595,17 @@
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "387f65741f0384e3",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "The Fed was unanimous about raising rates in September. Things have since changed.",
-      "summary": "Minutes from the Federal Reserve's September policy meeting reflect unanimous agreement among officials that interest rates needed to be higher to combat persistent inflation.\"Participants generally emphasized that inflation remained elevated while the labor …",
-      "original_title": "The Fed was unanimous about raising rates in September. Things have since changed.",
-      "url": "https://finance.yahoo.com/economy/policy/article/the-fed-was-unanimous-about-raising-rates-in-september-economic-signals-have-since-changed-184839972.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-10-07T18:48:39Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "c12bdd302f688e12",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "Claude Haiku 5.5",
-      "summary": "Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use.",
-      "original_title": "Claude Haiku 5.5",
-      "url": "https://www.anthropic.com/claude-haiku-5-5",
-      "source": "Anthropic.com",
-      "domain": "anthropic.com",
-      "published_at": "2026-10-07T18:01:32Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "7c19220bfa81626a",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "SK hynix Reportedly Faces Difficulties in HBM Hybrid Bonding, Trailing Samsung",
-      "summary": "According to a process development engineer at SK hynix's future technology research institute, who spoke with Damnang, SK hynix is reportedly facing challenges in developing hybrid bonding technology for its HBM memory. These issues are significant enough th…",
-      "original_title": "SK hynix Reportedly Faces Difficulties in HBM Hybrid Bonding, Trailing Samsung",
-      "url": "https://www.techpowerup.com/353458/sk-hynix-reportedly-faces-difficulties-in-hbm-hybrid-bonding-trailing-samsung",
-      "source": "Techpowerup.com",
-      "domain": "techpowerup.com",
-      "published_at": "2026-10-07T12:31:02Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "c01170ce53bf925f",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Microsoft and Nvidia CEOs to launch Surface Laptop Ultra on Wednesday",
-      "summary": "Microsoft chief executive Satya Nadella and Nvidia’s Jensen Huang will present the Surface Laptop Ultra in San Francisco on Wednesday, the first Surface built around Nvidia’s RTX Spark chip. The laptop is designed to let AI agents run on the device rather tha…",
-      "original_title": "Microsoft and Nvidia CEOs to launch Surface Laptop Ultra on Wednesday",
-      "url": "https://thenextweb.com/news/microsoft-nvidia-surface-laptop-ultra-launch",
-      "source": "The Next Web",
-      "domain": "thenextweb.com",
-      "published_at": "2026-10-07T12:29:22Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "01a5401597ee3b1f",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "Dixon Technologies signs JV pact with Gemtek to manufacture optical transceivers",
-      "summary": "The joint venture firm will manufacture and supply Optical Transceiver - SFP n(Small Form-Factor Pluggable) and BOSA (Bidirectional Optical Subassembly), as well as other telecom products in India",
-      "original_title": "Dixon Technologies signs JV pact with Gemtek to manufacture optical transceivers",
-      "url": "https://www.thehindubusinessline.com/companies/dixon-technologies-signs-jv-pact-with-gemtek-to-manufacture-optical-transceivers/article71555186.ece",
-      "source": "BusinessLine",
-      "domain": "thehindubusinessline.com",
-      "published_at": "2026-10-07T11:49:12Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "8250378b57474768",
+      "id": "b206e4c6e0aba6db",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "半導體先進製程",
-      "title": "Intel will stay on Musk’s Terafab chip project, CEO tells Bloomberg",
-      "summary": "Intel will keep working with Elon Musk on Terafab, his project to make advanced chips in Texas, chief executive Lip-Bu Tan told Bloomberg. Tan made the comments before a Tokyo event on Wednesday celebrating 50 years of Intel’s operations in Japan. His comment…",
-      "original_title": "Intel will stay on Musk’s Terafab chip project, CEO tells Bloomberg",
-      "url": "https://thenextweb.com/news/intel-terafab-musk-lip-bu-tan-tsmc",
-      "source": "The Next Web",
-      "domain": "thenextweb.com",
-      "published_at": "2026-10-07T08:19:22Z",
+      "title": "Apple’s iPhone 18 is getting a ‘cheaper’ A20 chip to keep the overall phone affordable",
+      "summary": "https://youtu.be/OQVA2Suzrb0 Apple has a long habit of handing last year's brain to this year's regular iPhone. The iPhone 15 shipped with the A16 chip while the 15 Pro got the shiny new A17 Pro, and nobody stormed Cupertino with pitchforks. It works because …",
+      "original_title": "Apple’s iPhone 18 is getting a ‘cheaper’ A20 chip to keep the overall phone affordable",
+      "url": "https://www.yankodesign.com/2026/10/07/apples-iphone-18-is-getting-a-cheaper-a20-chip-to-keep-the-overall-phone-affordable/",
+      "source": "Yanko Design",
+      "domain": "yankodesign.com",
+      "published_at": "2026-10-08T00:30:55Z",
       "importance": 45,
       "impact": "neutral",
       "timeframe": "short_term",
