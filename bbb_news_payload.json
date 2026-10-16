@@ -1,9 +1,9 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-10-15T21:51:32.133782+00:00",
+  "generated_at": "2026-10-16T01:00:42.115911+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
-  "total_count": 70,
+  "total_count": 72,
   "items": [
     {
       "id": "a57f97688670fb95",
@@ -44,17 +44,52 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
-      "id": "2213f91d8c96dacc",
+      "id": "b1e9634b99329681",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "HBM記憶體",
-      "title": "SK Hynix, Micron confront AI memory bottlenecks with HBM standardization, chip integration",
-      "summary": "AI infrastructure expansion is shifting semiconductor competition beyond individual chip performance towards memory bandwidth, data-transfer power consumption, transistor scaling, chip interconnects, and system integration through advanced packaging.",
-      "original_title": "SK Hynix, Micron confront AI memory bottlenecks with HBM standardization, chip integration",
-      "url": "https://www.digitimes.com/news/a20261013PD239/hbm-micron-development-infrastructure-expansion.html",
+      "title": "Memory bottlenecks drive HBM shift to 8-layer stacks",
+      "summary": "As the gap between memory supply and demand widens due to the surge in AI applications, supply chain sources report that major GPU and custom ASIC vendors are considering lower-spec high-bandwidth memory (HBM) configurations for their next-generation architec…",
+      "original_title": "Memory bottlenecks drive HBM shift to 8-layer stacks",
+      "url": "https://www.digitimes.com/news/a20261014PD220/hbm-capacity-demand-2027-supply-chain.html",
       "source": "Digitimes",
       "domain": "digitimes.com",
-      "published_at": "2026-10-14T01:09:30Z",
+      "published_at": "2026-10-14T02:35:20Z",
+      "importance": 78,
+      "impact": "positive",
+      "timeframe": "short_to_mid_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
+      "id": "b1a5c35c4e515b63",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "HBM capacity shift sends DDR4 contract prices rising faster than DDR5",
+      "summary": "DDR4 contract prices are rising faster than those of the newer DDR5 standard, reversing the usual pricing pattern in the memory market. The artificial intelligence (AI) boom has prompted memory manufacturers to expand high-bandwidth memory (HBM) production wh…",
+      "original_title": "HBM capacity shift sends DDR4 contract prices rising faster than DDR5",
+      "url": "https://www.digitimes.com/news/a20261014PD214/ddr4-ddr5-market-capacity-hbm.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-10-14T02:25:41Z",
       "importance": 78,
       "impact": "neutral",
       "timeframe": "short_to_mid_term",
@@ -79,29 +114,32 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
-      "id": "f9b97f9fd65cc4b4",
+      "id": "2213f91d8c96dacc",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "Samsung, SK Hynix NAND profits seen surging on enterprise SSD demand",
-      "summary": "Samsung Electronics and SK Hynix are expected to see a sharp increase in NAND flash profits in 2026 as surging demand for enterprise solid-state drives (SSDs) drives up memory prices and improves profitability, adding another earnings boost beyond high-bandwi…",
-      "original_title": "Samsung, SK Hynix NAND profits seen surging on enterprise SSD demand",
-      "url": "https://www.digitimes.com/news/a20261012VL227/nand-samsung-sk-hynix-demand-ssd.html",
+      "theme": "半導體先進製程",
+      "title": "SK Hynix, Micron confront AI memory bottlenecks with HBM standardization, chip integration",
+      "summary": "AI infrastructure expansion is shifting semiconductor competition beyond individual chip performance towards memory bandwidth, data-transfer power consumption, transistor scaling, chip interconnects, and system integration through advanced packaging.",
+      "original_title": "SK Hynix, Micron confront AI memory bottlenecks with HBM standardization, chip integration",
+      "url": "https://www.digitimes.com/news/a20261013PD239/hbm-micron-development-infrastructure-expansion.html",
       "source": "Digitimes",
       "domain": "digitimes.com",
-      "published_at": "2026-10-13T00:08:27Z",
+      "published_at": "2026-10-14T01:09:30Z",
       "importance": 78,
       "impact": "neutral",
       "timeframe": "short_to_mid_term",
       "tags": [
-        "HBM",
-        "記憶體"
+        "半導體",
+        "CoWoS",
+        "先進製程"
       ],
       "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
       ],
       "related_models": [
         "003",
@@ -111,7 +149,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
+      "reason": "屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "fec14a164a738c30",
@@ -150,6 +188,41 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
+      "id": "f9b97f9fd65cc4b4",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "Samsung, SK Hynix NAND profits seen surging on enterprise SSD demand",
+      "summary": "Samsung Electronics and SK Hynix are expected to see a sharp increase in NAND flash profits in 2026 as surging demand for enterprise solid-state drives (SSDs) drives up memory prices and improves profitability, adding another earnings boost beyond high-bandwi…",
+      "original_title": "Samsung, SK Hynix NAND profits seen surging on enterprise SSD demand",
+      "url": "https://www.digitimes.com/news/a20261012VL227/nand-samsung-sk-hynix-demand-ssd.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-10-13T00:08:27Z",
+      "importance": 73,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "dc0f3a81c305cfac",
@@ -412,108 +485,32 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "1ec627ae43445fd9",
+      "id": "c1e289e247f17dfb",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "GlobalFoundries to produce silicon interposers for TSMC's CoWoS in the US — Five-year agreement valued at $2 billion",
-      "summary": "GlobalFoundries becomes a part of TSMC's CoWoS supply chain in the U.S.: set to participate in production of leading-edge AI and HPC accelerators without investing in leading-edge process technologies.",
-      "original_title": "GlobalFoundries to produce silicon interposers for TSMC's CoWoS in the US — Five-year agreement valued at $2 billion",
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/globalfoundries-to-produce-silicon-interposers-for-tsmcs-cowos-in-the-us-five-year-agreement-valued-at-usd2-billion",
-      "source": "Tom's Hardware UK",
-      "domain": "tomshardware.com",
-      "published_at": "2026-10-08T18:23:28Z",
-      "importance": 67,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "6e6c2b6249fa8c3f",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "AMD seeks 'broader partnership' with Samsung as it looks to secure memory supply",
-      "summary": "AMD is pursuing a 'broader partnership' with Samsung as memory company wants to tie advanced memory supply to its orders at its foundry unit.",
-      "original_title": "AMD seeks 'broader partnership' with Samsung as it looks to secure memory supply",
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/amd-seeks-broader-partnership-with-samsung-as-it-looks-to-secure-memory-supply-samsung-reportedly-hopes-to-turn-its-memory-supply-relationship-with-amd-into-foundry-orders-for-logic-chips",
-      "source": "Tom's Hardware UK",
-      "domain": "tomshardware.com",
-      "published_at": "2026-10-08T12:30:00Z",
-      "importance": 67,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "11f3b303dbe26e2b",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "TSMC taps GlobalFoundries to bolster US silicon interposer production in $2B deal",
-      "summary": "Advanced packaging tech is essential to the domestic production of high-performance semiconductors used in AI datacenters",
-      "original_title": "TSMC taps GlobalFoundries to bolster US silicon interposer production in $2B deal",
-      "url": "https://www.theregister.com/systems/2026/10/08/tsmc-taps-globalfoundries-to-bolster-us-silicon-interposer-production-in-2b-deal/5302061",
-      "source": "Theregister.com",
-      "domain": "theregister.com",
-      "published_at": "2026-10-08T17:22:32Z",
+      "theme": "光通訊與矽光子",
+      "title": "Powering the AI revolution: Inside the grid, thermal, and interconnect challenges limiting data center growth",
+      "summary": "We take a deep dive into the electrical, thermal, and infrastructural bottlenecks affecting the next-generation computing revolution.",
+      "original_title": "Powering the AI revolution: Inside the grid, thermal, and interconnect challenges limiting data center growth",
+      "url": "https://www.techradar.com/pro/powering-the-ai-revolution-inside-the-grid-thermal-and-interconnect-challenges-limiting-data-center-growth",
+      "source": "TechRadar",
+      "domain": "techradar.com",
+      "published_at": "2026-10-11T17:20:00Z",
       "importance": 65,
       "impact": "positive",
       "timeframe": "short_term",
       "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
+        "光通訊",
+        "CPO",
+        "矽光子"
       ],
       "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
       ],
       "related_models": [
         "003",
@@ -523,7 +520,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "f91e443c9c307fca",
@@ -637,44 +634,6 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "d59897b468411c5a",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "SpaceX reportedly seeking $40 billion debt package for Nvidia AI hardware",
-      "summary": "SpaceX reportedly intends to borrow $40 billion to procure 360,000 Nvidia Rubin AI accelerators, infrastructure.",
-      "original_title": "SpaceX reportedly seeking $40 billion debt package for Nvidia AI hardware",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/spacex-reportedly-seeking-usd40-billion-debt-package-for-nvidia-ai-hardware-massive-raise-could-fund-roughly-360-000-vera-rubin-gpus-across-5-000-nvl72-racks",
-      "source": "Tom's Hardware UK",
-      "domain": "tomshardware.com",
-      "published_at": "2026-10-08T11:00:00Z",
-      "importance": 62,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "ce0b8bc99f428d9a",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -751,6 +710,41 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "95d192fb8450a167",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "SK hynix Could Be Prioritizing DRAM’s Lucrative Returns, Giving Rise To Speculations Surrounding HBM4’s Technical Problems As Backend Equipment Orders Slip To 2027",
+      "summary": "The milestone surrounding HBM4’s successful development was completed last year by SK hynix, but that doesn’t mean the memory maker is in calmer waters, because the latest report states that backend equipment for next-generation High-Bandwidth Memory has been…",
+      "original_title": "SK hynix Could Be Prioritizing DRAM’s Lucrative Returns, Giving Rise To Speculations Surrounding HBM4’s Technical Problems As Backend Equipment Orders Slip To 2027",
+      "url": "https://wccftech.com/sk-hynix-dram-priority-hbm4-backend-equipment-orders-2027/",
+      "source": "Wccftech",
+      "domain": "wccftech.com",
+      "published_at": "2026-10-14T14:55:14Z",
+      "importance": 60,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "fc7b6cbb651ea97b",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -784,6 +778,82 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "cf9bf35b97513e20",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "Inflation climbs in September as gas prices stay high",
+      "summary": "Wednesday's inflation report provided the latest snapshot of prices as a monthlong surge in costs for gasoline and other essentials continues to weigh on shoppers.",
+      "original_title": "Inflation climbs in September as gas prices stay high",
+      "url": "https://abcnews.com/Business/inflation-report-provide-snapshot-prices-midterms-approach/story?id=137221675",
+      "source": "Abcnews.com",
+      "domain": "abcnews.com",
+      "published_at": "2026-10-14T12:32:30Z",
+      "importance": 60,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "040cbe206e03c5b8",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "Trump says Houthis trying to increase oil prices before US elections",
+      "summary": "US president suggests that Yemen-based group are 'purposefully trying to drive up oil prices' before November vote.",
+      "original_title": "Trump says Houthis trying to increase oil prices before US elections",
+      "url": "https://www.aljazeera.com/news/2026/10/13/trump-says-houthis-trying-to-increase-oil-prices-before-us-elections",
+      "source": "Al Jazeera English",
+      "domain": "aljazeera.com",
+      "published_at": "2026-10-13T19:33:11Z",
+      "importance": 60,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "b31c7aa2484694da",
@@ -862,6 +932,44 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "8f4d77d17479a72c",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "iPhone Duo's A20 Pro Chip Benchmarked Ahead of Launch",
+      "summary": "The iPhone Duo unsurprisingly offers performance similar to the iPhone 18 Pro, according to an early iPhone Duo benchmark shared on Geekbench 7. Both devices are equipped with Apple's 2nm A20 Pro chip with a 6-core CPU and a 7-core GPU.\n\n\n\n\n\nThe benchmarked ‌…",
+      "original_title": "iPhone Duo's A20 Pro Chip Benchmarked Ahead of Launch",
+      "url": "https://www.macrumors.com/2026/10/14/iphone-duo-benchmark/",
+      "source": "MacRumors",
+      "domain": "macrumors.com",
+      "published_at": "2026-10-15T00:20:32Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "ea6154661f5b87ee",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -903,7 +1011,7 @@
       "id": "5970b9dbc8925225",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
+      "theme": "半導體先進製程",
       "title": "GlobalFoundries to Operate Two New Semiconductor Fabs in New York",
       "summary": "GlobalFoundries announced that it has been selected to provide the technology and to operate two planned semiconductor fabs at its Malta, New York, site. This is not a direct investment from GF but rather came as a new U.S.-Japan initiative involving up to $2…",
       "original_title": "GlobalFoundries to Operate Two New Semiconductor Fabs in New York",
@@ -915,17 +1023,17 @@
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
+        "半導體",
+        "CoWoS",
+        "先進製程"
       ],
       "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
       ],
       "related_models": [
         "003",
@@ -935,7 +1043,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "ca5d0376571437ae",
@@ -1356,6 +1464,82 @@
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "5b3d6de2e6e11d72",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Probability Theory Pioneer Mark Kac on the Unpredictability of Creativity and the Two Types of Geniuses",
+      "summary": "\"Creative people live in two worlds. One is the ordinary world which they share with others and in which they are not in any special way set apart from their fellow men. The other is private and it is in this world that the creative acts take place.\"",
+      "original_title": "Probability Theory Pioneer Mark Kac on the Unpredictability of Creativity and the Two Types of Geniuses",
+      "url": "https://www.themarginalian.org/2026/10/13/mark-kac-enigmas-of-chance-geniuses/",
+      "source": "Themarginalian.org",
+      "domain": "themarginalian.org",
+      "published_at": "2026-10-13T20:58:26Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "30f1755aaf4f5ff6",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "A visit to Art of Play, the BK store in an animatronic bird beef with Kelly Clarkson",
+      "summary": "\"Molly,\" the animatronic bird at the center of the ongoing disagreement between Art of Play and Kelly Clarkson.\n \n\n\"Kelly Clarkson has put us in danger,\" says the co-owner of Art of Play. [ more › ]",
+      "original_title": "A visit to Art of Play, the BK store in an animatronic bird beef with Kelly Clarkson",
+      "url": "https://gothamist.com/arts-entertainment/a-visit-to-art-of-play-the-bk-store-in-an-animatronic-bird-beef-with-kelly-clarkson",
+      "source": "Gothamist",
+      "domain": "gothamist.com",
+      "published_at": "2026-10-13T19:17:05Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "352d8421172414d8",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1516,6 +1700,41 @@
       "source": "The Next Web",
       "domain": "thenextweb.com",
       "published_at": "2026-10-13T11:55:51Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "92ac8e78bba019ef",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "Bitcoin diverges from South Korean stocks as AI concerns deepen the Kospi selloff",
+      "summary": "South Korea’s chipmakers lead another sharp selloff as concerns over AI spending and Chinese competition grow, while bitcoin holds well above its summer lows.",
+      "original_title": "Bitcoin diverges from South Korean stocks as AI concerns deepen the Kospi selloff",
+      "url": "https://www.coindesk.com/markets/2026/10/13/bitcoin-diverges-from-south-korean-stocks-as-ai-concerns-deepen-the-kospi-selloff",
+      "source": "CoinDesk",
+      "domain": "coindesk.com",
+      "published_at": "2026-10-13T10:38:51Z",
       "importance": 55,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -1952,17 +2171,17 @@
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "a1ec5d81c2623a84",
+      "id": "bc6200efc9b1e8e1",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "AI伺服器",
-      "title": "Surface Laptop Ultra",
-      "summary": "Microsoft's Surface Laptop Ultra is part of a new wave of Windows laptops running on NVIDIA's RTX Spark platform.",
-      "original_title": "Surface Laptop Ultra",
-      "url": "https://www.windowscentral.com/tag/surface-laptop-ultra",
-      "source": "Windows Central",
-      "domain": "windowscentral.com",
-      "published_at": "2026-10-08T14:35:40Z",
+      "title": "Transcript: Trump Rage at Fox Backfires as Cringe Motive for It Leaks",
+      "summary": "The following is a lightly edited transcript of the October 9 episode of the Daily Blast podcast. Listen to it here.Greg Sargent: This is The Daily Blast from The New Republic, produced and presented by the DSR Network. I’m your host, Greg Sargent.Donald Trum…",
+      "original_title": "Transcript: Trump Rage at Fox Backfires as Cringe Motive for It Leaks",
+      "url": "https://newrepublic.com/article/216445/transcript-trump-rage-fox-backfires-cringe-motive-leaks",
+      "source": "The New Republic",
+      "domain": "newrepublic.com",
+      "published_at": "2026-10-09T10:23:06Z",
       "importance": 55,
       "impact": "positive",
       "timeframe": "short_term",
@@ -1988,41 +2207,6 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "b83ca685df4a9c0c",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "Samsung expects record $80bn quarterly profit as AI memory demand soars",
-      "summary": "Samsung Electronics expects its operating profit for the third quarter to reach a record level of about 107.4 trillion won ($80bn), a significant increase from 12.17 trillion won a year earlier. The South Korean company released its preliminary figures today.…",
-      "original_title": "Samsung expects record $80bn quarterly profit as AI memory demand soars",
-      "url": "https://thenextweb.com/news/samsung-q3-2026-record-profit-ai-memory",
-      "source": "The Next Web",
-      "domain": "thenextweb.com",
-      "published_at": "2026-10-08T09:47:15Z",
-      "importance": 55,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "a737d64ee2c306d4",
@@ -2099,6 +2283,44 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "3bc97c63c81ac301",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "What Season Is It, America? Bring Your Answer to the Table",
+      "summary": "What season is America in right now? Is it a moment of loss, emergence, quiet reflection or celebration? From 21–25 October 2026, the Brooklyn Museum’s Beaux Arts Court will host What Season Is It,…",
+      "original_title": "What Season Is It, America? Bring Your Answer to the Table",
+      "url": "http://coolhunting.com/culture/what-season-is-it-america-bring-your-answer-to-the-table/",
+      "source": "Cool Hunting",
+      "domain": "coolhunting.com",
+      "published_at": "2026-10-12T17:46:10Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "44cb7d4e46e62196",
@@ -2291,6 +2513,44 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "25160770f2d449b5",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "New insider tip claims the Samsung Galaxy S27 Ultra will only be available with a Qualcomm chipset",
+      "summary": "This always seems to be a pressing question as pretty much every new Galaxy S family of devices is on the horizon – what chipsets will they use? We already know that the Exynos 2700 is, by early accounts, an excellent chip. The Exynos 2700 will be fabbed on S…",
+      "original_title": "New insider tip claims the Samsung Galaxy S27 Ultra will only be available with a Qualcomm chipset",
+      "url": "https://www.gsmarena.com/new_insider_tip_claims_the_samsung_galaxy_s27_ultra_will_only_be_available_with_a_qualcomm_chipset-news-74995.php",
+      "source": "GSMArena.com",
+      "domain": "gsmarena.com",
+      "published_at": "2026-10-11T20:31:02Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "2f042edf1b3acfdf",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2405,17 +2665,17 @@
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "f2fed3e1b8e0aa6a",
+      "id": "5a59788b014c14d0",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "AI伺服器",
-      "title": "SpaceX Needs $40 Billion To Buy Chips From Nvidia — Here's Why",
-      "summary": "SpaceX wants to spend billions on Nvidia chips, but these aren't the graphics cards you'd put in a gaming PC. The company has something much bigger in mind.",
-      "original_title": "SpaceX Needs $40 Billion To Buy Chips From Nvidia — Here's Why",
-      "url": "https://www.bgr.com/2281034/spacex-needs-40-billion-for-nvidia-chips/",
-      "source": "BGR",
-      "domain": "bgr.com",
-      "published_at": "2026-10-08T14:47:00Z",
+      "title": "Sleeping Beauties: David Byrne on Why Transformative Ideas Fall Dormant and How They Awaken to Change the World",
+      "summary": "Each time you look up at the night sky, you see only ancient signals — by the time a photon has reached your pupil, the star that emitted it may be long dead. The great wonder is that its light can traverse immense expanses of space and time to gladden the da…",
+      "original_title": "Sleeping Beauties: David Byrne on Why Transformative Ideas Fall Dormant and How They Awaken to Change the World",
+      "url": "https://www.themarginalian.org/2026/10/08/david-byrne-sleeping-beauties/",
+      "source": "Themarginalian.org",
+      "domain": "themarginalian.org",
+      "published_at": "2026-10-09T03:21:41Z",
       "importance": 50,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -2441,196 +2701,6 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "e9a83411fdad69eb",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "US stocks slide as oil prices fluctuate over renewed Iran war fears",
-      "summary": "Oil prices rose on fresh concerns about Middle East supplies, before falling on the possible release of more reserves.",
-      "original_title": "US stocks slide as oil prices fluctuate over renewed Iran war fears",
-      "url": "https://www.aljazeera.com/news/2026/10/8/us-stocks-slide-as-oil-prices-fluctuate-over-renewed-iran-war-fears",
-      "source": "Al Jazeera English",
-      "domain": "aljazeera.com",
-      "published_at": "2026-10-08T00:33:03Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "583ad29e2ef98a47",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "Why are gas prices still high even as traffic improves in the Strait of Hormuz?",
-      "summary": "Gas prices stand above $4.30, marking an increase of 46% from pre-war levels.",
-      "original_title": "Why are gas prices still high even as traffic improves in the Strait of Hormuz?",
-      "url": "https://abcnews.com/Business/gas-prices-high-traffic-improves-strait-hormuz/story?id=137064093",
-      "source": "Abcnews.com",
-      "domain": "abcnews.com",
-      "published_at": "2026-10-08T20:05:09Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "8f2155a23850a395",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Apple moves its deal team back under the CFO after seven years",
-      "summary": "Apple is moving its mergers and acquisitions team back under chief financial officer Kevan Parekh, who ended the company’s net cash neutral policy in May in a move analysts read as room to buy things. It also promoted Carson Oliver to run the App Store, a job…",
-      "original_title": "Apple moves its deal team back under the CFO after seven years",
-      "url": "https://thenextweb.com/news/apple-ma-chief-smith-parekh-europe",
-      "source": "The Next Web",
-      "domain": "thenextweb.com",
-      "published_at": "2026-10-08T18:13:43Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "020decdae4a75d12",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "Akhetonics Photonic Computing: 1,000x Faster CPUs",
-      "summary": "Learn about Akhetonics’ prototype that turns photons into a programmable, terahertz-class processor — and the memory, packaging, and power…",
-      "original_title": "Akhetonics Photonic Computing: 1,000x Faster CPUs",
-      "url": "https://medium.com/@timventura/akhetonics-photonic-computing-1-000x-faster-cpus-b9e91c470079",
-      "source": "Medium",
-      "domain": "medium.com",
-      "published_at": "2026-10-08T17:08:05Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "b206e4c6e0aba6db",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "Apple’s iPhone 18 is getting a ‘cheaper’ A20 chip to keep the overall phone affordable",
-      "summary": "https://youtu.be/OQVA2Suzrb0 Apple has a long habit of handing last year's brain to this year's regular iPhone. The iPhone 15 shipped with the A16 chip while the 15 Pro got the shiny new A17 Pro, and nobody stormed Cupertino with pitchforks. It works because …",
-      "original_title": "Apple’s iPhone 18 is getting a ‘cheaper’ A20 chip to keep the overall phone affordable",
-      "url": "https://www.yankodesign.com/2026/10/07/apples-iphone-18-is-getting-a-cheaper-a20-chip-to-keep-the-overall-phone-affordable/",
-      "source": "Yanko Design",
-      "domain": "yankodesign.com",
-      "published_at": "2026-10-08T00:30:55Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     }
   ]
 }
