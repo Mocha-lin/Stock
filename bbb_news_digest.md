@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-16T13:45:38.363561+00:00
+> 更新時間：2026-10-16T17:01:12.144982+00:00
 
 ### 🚀 TSMC investor conference: TSMC lifts 2026 revenue growth forecast to 44%, 2nm expansion, new 3nm fab
 - **題材**: `半導體先進製程` | **重要性**: `88`
