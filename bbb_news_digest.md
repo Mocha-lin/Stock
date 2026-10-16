@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-16T09:59:47.588147+00:00
+> 更新時間：2026-10-16T13:45:38.363561+00:00
 
 ### 🚀 TSMC investor conference: TSMC lifts 2026 revenue growth forecast to 44%, 2nm expansion, new 3nm fab
 - **題材**: `半導體先進製程` | **重要性**: `88`
@@ -127,15 +127,6 @@
 
 ---
 
-### ⚖️ Wiwynn unveils CPO compute system with GUC and Ayar Labs
-- **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-10-14T08:38:13Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Wiwynn Corporation, CPO solutions provider Ayar Labs and Global Unichip Corp. (GUC) will stage the first live demonstration of an integrated compute system with real-time telemetry monitoring at the 2026 OCP Global Summit, marking a new milestone in their str…
-- [原文連結](https://www.digitimes.com/news/a20261014PD247/cpo-guc-wiwynn-laser.html)
-
----
-
 ### ⚖️ SK Hynix HBM4 equipment installations reportedly face partial deferral to 2027
 - **題材**: `HBM記憶體` | **重要性**: `68`
 - **來源**: Digitimes (2026-10-14T07:25:32Z)
@@ -178,6 +169,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: AnitaB.org canceled this month’s Grace Hopper Celebration in Anaheim, saying registrations and sponsorships couldn’t cover its costs.
 - [原文連結](https://www.tomshardware.com/tech-industry/grace-hopper-celebration-for-women-in-computing-canceled-two-weeks-out-anitab-org-says-registrations-and-sponsorships-fell-short-of-covering-costs)
+
+---
+
+### ⚖️ SK hynix to place custom tiny CPU cores in its SSD controllers to ease Arm load as drive speeds rocket
+- **題材**: `HBM記憶體` | **重要性**: `62`
+- **來源**: Tom's Hardware UK (2026-10-14T14:00:00Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: SK hynix detailed H-TPU, tiny in-house cores that offload routine I/O from the Arm CPUs in its next enterprise SSD controllers.
+- [原文連結](https://www.tomshardware.com/pc-components/ssds/sk-hynix-to-place-custom-tiny-cpu-cores-in-its-ssd-controllers-to-ease-arm-load-as-drive-speeds-rocket-each-h-tpu-reportedly-draws-2-5-percent-of-a-cpu-cores-power)
 
 ---
 
