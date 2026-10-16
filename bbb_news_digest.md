@@ -1,5 +1,14 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-16T05:17:38.166131+00:00
+> 更新時間：2026-10-16T09:59:47.588147+00:00
+
+### 🚀 TSMC investor conference: TSMC lifts 2026 revenue growth forecast to 44%, 2nm expansion, new 3nm fab
+- **題材**: `半導體先進製程` | **重要性**: `88`
+- **來源**: Digitimes (2026-10-15T09:15:13Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重大事件】可能顯著影響產業評價、EPS預期或資金流向。
+- **摘要**: TSMC Chairman and CEO C.C. Wei announced that, driven by relentless AI momentum and strong demand for advanced process technologies, the company has raised its full-year 2026 US dollar revenue growth guidance to approximately 44%. AI and leading-edge nodes co…
+- [原文連結](https://www.digitimes.com/news/a20261015PD243/tsmc-growth-3nm-2026-fab.html)
+
+---
 
 ### 🚀 Applied Materials targets US$5 billion advanced packaging revenue
 - **題材**: `半導體先進製程` | **重要性**: `88`
@@ -52,6 +61,24 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: AI infrastructure expansion is shifting semiconductor competition beyond individual chip performance towards memory bandwidth, data-transfer power consumption, transistor scaling, chip interconnects, and system integration through advanced packaging.
 - [原文連結](https://www.digitimes.com/news/a20261013PD239/hbm-micron-development-infrastructure-expansion.html)
+
+---
+
+### ⚖️ FIC Group opens Malaysia plant as optical module capacity targets 18 SMT lines
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-10-15T08:39:50Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: FIC Group opened its PRO3C (Malaysia) Sdn. Bhd. manufacturing facility in Johor, Malaysia, on October 15, expanding its optical communications production footprint in Southeast Asia. The Johor Bahru site is designed to support global customers with 800G, 1.6T…
+- [原文連結](https://www.digitimes.com/news/a20261015PD242/smt-plant-production-johor-manufacturing.html)
+
+---
+
+### ⚖️ Touch Taiwan 2027 expands tech scope with advanced packaging and SiPh shows
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-10-15T08:25:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Touch Taiwan 2027 will take place on April 21–23, 2027, and will expand its scope with two dedicated co-located shows: the Advanced Packaging & Testing Expo and the Silicon Photonics Technology Applications Expo. Spurred by surging demand for AI, high-perform…
+- [原文連結](https://www.digitimes.com/news/a20261015PD237/2027-touch-taiwan-packaging-siph-expo.html)
 
 ---
 
@@ -145,39 +172,12 @@
 
 ---
 
-### 🚀 Powering the AI revolution: Inside the grid, thermal, and interconnect challenges limiting data center growth
-- **題材**: `光通訊與矽光子` | **重要性**: `65`
-- **來源**: TechRadar (2026-10-11T17:20:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: We take a deep dive into the electrical, thermal, and infrastructural bottlenecks affecting the next-generation computing revolution.
-- [原文連結](https://www.techradar.com/pro/powering-the-ai-revolution-inside-the-grid-thermal-and-interconnect-challenges-limiting-data-center-growth)
-
----
-
-### ⚖️ TSMC, ASML eye 12-inch photomasks to unlock High-NA EUV's full-field potential
-- **題材**: `半導體先進製程` | **重要性**: `63`
-- **來源**: Digitimes (2026-10-12T03:06:33Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Advanced semiconductor manufacturing is progressing toward 2nm and angstrom-era nodes (Å; where 1 nm equals 10 Å), bringing high-numerical-aperture extreme ultraviolet (High-NA EUV) lithography into focus.
-- [原文連結](https://www.digitimes.com/news/a20261012PD204/tsmc-asml-high-na-euv-12-inch-manufacturing.html)
-
----
-
 ### ⚖️ Grace Hopper Celebration canceled two weeks out as AnitaB.org runs short of funds
 - **題材**: `光通訊與矽光子` | **重要性**: `62`
 - **來源**: Tom's Hardware UK (2026-10-14T18:09:38Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: AnitaB.org canceled this month’s Grace Hopper Celebration in Anaheim, saying registrations and sponsorships couldn’t cover its costs.
 - [原文連結](https://www.tomshardware.com/tech-industry/grace-hopper-celebration-for-women-in-computing-canceled-two-weeks-out-anitab-org-says-registrations-and-sponsorships-fell-short-of-covering-costs)
-
----
-
-### ⚖️ SK hynix to place custom tiny CPU cores in its SSD controllers to ease Arm load as drive speeds rocket
-- **題材**: `HBM記憶體` | **重要性**: `62`
-- **來源**: Tom's Hardware UK (2026-10-14T14:00:00Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: SK hynix detailed H-TPU, tiny in-house cores that offload routine I/O from the Arm CPUs in its next enterprise SSD controllers.
-- [原文連結](https://www.tomshardware.com/pc-components/ssds/sk-hynix-to-place-custom-tiny-cpu-cores-in-its-ssd-controllers-to-ease-arm-load-as-drive-speeds-rocket-each-h-tpu-reportedly-draws-2-5-percent-of-a-cpu-cores-power)
 
 ---
 
