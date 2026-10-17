@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-17T01:05:51.883255+00:00
+> 更新時間：2026-10-17T05:12:06.395788+00:00
 
 ### 🚀 TSMC investor conference: TSMC lifts 2026 revenue growth forecast to 44%, 2nm expansion, new 3nm fab
 - **題材**: `半導體先進製程` | **重要性**: `88`
@@ -10,12 +10,12 @@
 
 ---
 
-### 🚀 Applied Materials targets US$5 billion advanced packaging revenue
-- **題材**: `半導體先進製程` | **重要性**: `88`
-- **來源**: Digitimes (2026-10-15T02:23:47Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重大事件】可能顯著影響產業評價、EPS預期或資金流向。
-- **摘要**: Applied Materials sees advanced packaging as a key growth lever as AI chips move to multi-die designs, with the company projecting more than US$5 billion in related revenue in the coming years. The forecast underscores how hybrid bonding, metrology, and servi…
-- [原文連結](https://www.digitimes.com/news/a20261015PD211/applied-materials-packaging-revenue-growth-equipment.html)
+### ⚖️ TSMC details pricing, confirms agentic AI boosts CPU demand
+- **題材**: `半導體先進製程` | **重要性**: `83`
+- **來源**: Digitimes (2026-10-16T02:07:43Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: TSMC addressed pricing adjustments, CPUs, and advanced packaging at its earnings briefing on October 15, 2026, confirming that demand for CPUs related to agentic AI continues to rise as overall AI demand remains strong.
+- [原文連結](https://www.digitimes.com/news/a20261016PD219/tsmc-demand-cpu-packaging-capacity.html)
 
 ---
 
@@ -25,6 +25,15 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Global DRAM demand for humanoid robots is projected to increase more than 20-fold by 2030 as robot deployments expand and memory capacity per unit doubles, potentially opening a new growth market for Samsung Electronics and SK Hynix beyond high-bandwidth memo…
 - [原文連結](https://www.digitimes.com/news/a20261014VL221/dram-demand-robot-2030-samsung.html)
+
+---
+
+### 🚀 Analysis: TSMC-GF deal moves mature nodes into AI packaging: What it means for China
+- **題材**: `半導體先進製程` | **重要性**: `78`
+- **來源**: Digitimes (2026-10-16T03:53:56Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: As global wafer capacity expands rapidly, TSMC and GlobalFoundries (GF) are highlighting a fast-growing market for mature processes serving advanced applications. In particular, demand for silicon interposers, through-silicon vias (TSVs), and embedded deep tr…
+- [原文連結](https://www.digitimes.com/news/a20261016PD220/capacity-globalfoundries-packaging-tsmc-wafer.html)
 
 ---
 
@@ -43,15 +52,6 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: GlobalFoundries (GF) has reached a multiyear manufacturing agreement with TSMC to expand silicon interposer capacity at its Malta fab in New York, supplying TSMC's Chip-on-Wafer-on-Substrate (CoWoS) advanced-packaging ecosystem. The agreement is expected to b…
 - [原文連結](https://www.digitimes.com/news/a20261015PD220/tsmc-globalfoundries-cowos-manufacturing-silicon.html)
-
----
-
-### ⚖️ SK Hynix, Micron confront AI memory bottlenecks with HBM standardization, chip integration
-- **題材**: `HBM記憶體` | **重要性**: `78`
-- **來源**: Digitimes (2026-10-14T01:09:30Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: AI infrastructure expansion is shifting semiconductor competition beyond individual chip performance towards memory bandwidth, data-transfer power consumption, transistor scaling, chip interconnects, and system integration through advanced packaging.
-- [原文連結](https://www.digitimes.com/news/a20261013PD239/hbm-micron-development-infrastructure-expansion.html)
 
 ---
 
@@ -79,6 +79,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Touch Taiwan 2027 will take place on April 21–23, 2027, and will expand its scope with two dedicated co-located shows: the Advanced Packaging & Testing Expo and the Silicon Photonics Technology Applications Expo. Spurred by surging demand for AI, high-perform…
 - [原文連結](https://www.digitimes.com/news/a20261015PD237/2027-touch-taiwan-packaging-siph-expo.html)
+
+---
+
+### ⚖️ SK Hynix, Micron confront AI memory bottlenecks with HBM standardization, chip integration
+- **題材**: `HBM記憶體` | **重要性**: `73`
+- **來源**: Digitimes (2026-10-14T01:09:30Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: AI infrastructure expansion is shifting semiconductor competition beyond individual chip performance towards memory bandwidth, data-transfer power consumption, transistor scaling, chip interconnects, and system integration through advanced packaging.
+- [原文連結](https://www.digitimes.com/news/a20261013PD239/hbm-micron-development-infrastructure-expansion.html)
 
 ---
 
@@ -169,15 +178,6 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: SK hynix reportedly conditions building new Solidigm 3D NAND fab in the U.S. to equipment exports to the Solidigm fab in Dalian, China.
 - [原文連結](https://www.tomshardware.com/pc-components/ssds/sk-hynix-reportedly-playing-hardball-with-trump-admin-over-3d-nand-fab-company-demands-increased-chipmaking-equipment-exports-to-china-in-exchange-for-us-fab)
-
----
-
-### ⚖️ Grace Hopper Celebration canceled two weeks out as AnitaB.org runs short of funds
-- **題材**: `光通訊與矽光子` | **重要性**: `62`
-- **來源**: Tom's Hardware UK (2026-10-14T18:09:38Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: AnitaB.org canceled this month’s Grace Hopper Celebration in Anaheim, saying registrations and sponsorships couldn’t cover its costs.
-- [原文連結](https://www.tomshardware.com/tech-industry/grace-hopper-celebration-for-women-in-computing-canceled-two-weeks-out-anitab-org-says-registrations-and-sponsorships-fell-short-of-covering-costs)
 
 ---
 
