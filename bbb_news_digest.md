@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-17T05:12:06.395788+00:00
+> 更新時間：2026-10-17T09:31:41.290572+00:00
 
 ### 🚀 TSMC investor conference: TSMC lifts 2026 revenue growth forecast to 44%, 2nm expansion, new 3nm fab
 - **題材**: `半導體先進製程` | **重要性**: `88`
@@ -61,6 +61,15 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: GlobalFoundries (GF) and TSMC have reached a manufacturing agreement to establish a US-based supply source for silicon interposers supporting TSMC's CoWoS advanced packaging ecosystem. The US$2 billion, five-year agreement will expand advanced packaging capac…
 - [原文連結](https://www.digitimes.com/news/a20261013PD248/tsmc-globalfoundries-packaging-capacity-silicon.html)
+
+---
+
+### 🚀 Samsung, SK Hynix aim to ease AI memory bottlenecks with zHBM, HBF
+- **題材**: `HBM記憶體` | **重要性**: `73`
+- **來源**: Digitimes (2026-10-16T06:57:00Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Samsung Electronics and SK Hynix are developing new memory technologies to address growing bottlenecks in AI systems, with Samsung exploring a design that stacks high-bandwidth memory (HBM) directly above graphics processors and SK Hynix advancing high-bandwi…
+- [原文連結](https://www.digitimes.com/news/a20261016PD214/samsung-sk-hynix-hbm-data-capacity.html)
 
 ---
 
@@ -136,24 +145,6 @@
 
 ---
 
-### ⚖️ Wiwynn unveils CPO compute system with GUC and Ayar Labs
-- **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-10-14T08:38:13Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Wiwynn Corporation, CPO solutions provider Ayar Labs and Global Unichip Corp. (GUC) will stage the first live demonstration of an integrated compute system with real-time telemetry monitoring at the 2026 OCP Global Summit, marking a new milestone in their str…
-- [原文連結](https://www.digitimes.com/news/a20261014PD247/cpo-guc-wiwynn-laser.html)
-
----
-
-### ⚖️ SK Hynix HBM4 equipment installations reportedly face partial deferral to 2027
-- **題材**: `HBM記憶體` | **重要性**: `68`
-- **來源**: Digitimes (2026-10-14T07:25:32Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Some back-end manufacturing equipment intended for SK Hynix's sixth-generation high-bandwidth memory (HBM4) production may be deferred from the second half of 2026 into 2027, raising questions about the chipmaker's expansion plans as rising conventional DRAM …
-- [原文連結](https://www.digitimes.com/news/a20261014VL213/equipment-hbm4-sk-hynix-2027-investment.html)
-
----
-
 ### ⚖️ TSMC power plant funding talks still conceptual, says Taipower
 - **題材**: `半導體先進製程` | **重要性**: `68`
 - **來源**: Digitimes (2026-10-13T02:44:16Z)
@@ -172,12 +163,21 @@
 
 ---
 
-### ⚖️ SK hynix reportedly playing hardball with Trump admin over 3D NAND fab — company demands increased chipmaking equipment exports to China in exchange for US fab
-- **題材**: `HBM記憶體` | **重要性**: `62`
-- **來源**: Tom's Hardware UK (2026-10-15T17:40:09Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: SK hynix reportedly conditions building new Solidigm 3D NAND fab in the U.S. to equipment exports to the Solidigm fab in Dalian, China.
-- [原文連結](https://www.tomshardware.com/pc-components/ssds/sk-hynix-reportedly-playing-hardball-with-trump-admin-over-3d-nand-fab-company-demands-increased-chipmaking-equipment-exports-to-china-in-exchange-for-us-fab)
+### ⚠️ If you've gotten a raise in the past two years, it's now been nearly all eaten away by inflation
+- **題材**: `總體風險` | **重要性**: `65`
+- **來源**: Business Insider (2026-10-16T09:00:01Z)
+- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Inflation-adjusted average hourly earnings have declined to about the level they were at when President Donald Trump took office for his second term.
+- [原文連結](https://www.businessinsider.com/paycheck-raise-increase-inflation-prices-president-trump-2026-10#article)
+
+---
+
+### ⚖️ Wiwynn unveils CPO compute system with GUC and Ayar Labs
+- **題材**: `光通訊與矽光子` | **重要性**: `63`
+- **來源**: Digitimes (2026-10-14T08:38:13Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Wiwynn Corporation, CPO solutions provider Ayar Labs and Global Unichip Corp. (GUC) will stage the first live demonstration of an integrated compute system with real-time telemetry monitoring at the 2026 OCP Global Summit, marking a new milestone in their str…
+- [原文連結](https://www.digitimes.com/news/a20261014PD247/cpo-guc-wiwynn-laser.html)
 
 ---
 
