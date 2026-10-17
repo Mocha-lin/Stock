@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-16T21:47:43.004556+00:00
+> 更新時間：2026-10-17T01:05:51.883255+00:00
 
 ### 🚀 TSMC investor conference: TSMC lifts 2026 revenue growth forecast to 44%, 2nm expansion, new 3nm fab
 - **題材**: `半導體先進製程` | **重要性**: `88`
@@ -28,15 +28,6 @@
 
 ---
 
-### ⚖️ TSMC-GF interposer deal reshapes US AI supply chain, from CoWoS to HBM
-- **題材**: `半導體先進製程` | **重要性**: `83`
-- **來源**: Digitimes (2026-10-14T00:51:56Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: GlobalFoundries (GF) and TSMC have reached a manufacturing agreement to establish a US-based supply source for silicon interposers supporting TSMC's CoWoS advanced packaging ecosystem. The US$2 billion, five-year agreement will expand advanced packaging capac…
-- [原文連結](https://www.digitimes.com/news/a20261013PD248/tsmc-globalfoundries-packaging-capacity-silicon.html)
-
----
-
 ### ⚖️ Micron opens second Taiwan advanced packaging plant as HBM supply tightens
 - **題材**: `HBM記憶體` | **重要性**: `78`
 - **來源**: Digitimes (2026-10-15T04:57:23Z)
@@ -61,6 +52,15 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: AI infrastructure expansion is shifting semiconductor competition beyond individual chip performance towards memory bandwidth, data-transfer power consumption, transistor scaling, chip interconnects, and system integration through advanced packaging.
 - [原文連結](https://www.digitimes.com/news/a20261013PD239/hbm-micron-development-infrastructure-expansion.html)
+
+---
+
+### ⚖️ TSMC-GF interposer deal reshapes US AI supply chain, from CoWoS to HBM
+- **題材**: `半導體先進製程` | **重要性**: `78`
+- **來源**: Digitimes (2026-10-14T00:51:56Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: GlobalFoundries (GF) and TSMC have reached a manufacturing agreement to establish a US-based supply source for silicon interposers supporting TSMC's CoWoS advanced packaging ecosystem. The US$2 billion, five-year agreement will expand advanced packaging capac…
+- [原文連結](https://www.digitimes.com/news/a20261013PD248/tsmc-globalfoundries-packaging-capacity-silicon.html)
 
 ---
 
@@ -127,6 +127,15 @@
 
 ---
 
+### ⚖️ Wiwynn unveils CPO compute system with GUC and Ayar Labs
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-10-14T08:38:13Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Wiwynn Corporation, CPO solutions provider Ayar Labs and Global Unichip Corp. (GUC) will stage the first live demonstration of an integrated compute system with real-time telemetry monitoring at the 2026 OCP Global Summit, marking a new milestone in their str…
+- [原文連結](https://www.digitimes.com/news/a20261014PD247/cpo-guc-wiwynn-laser.html)
+
+---
+
 ### ⚖️ SK Hynix HBM4 equipment installations reportedly face partial deferral to 2027
 - **題材**: `HBM記憶體` | **重要性**: `68`
 - **來源**: Digitimes (2026-10-14T07:25:32Z)
@@ -151,15 +160,6 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Samsung Electronics could overtake SK Hynix as the world's largest supplier of high-bandwidth memory (HBM) in 2027, as HBM4 prices climb and memory manufacturers compete for limited DRAM production capacity, according to forecasts presented at an October 6 se…
 - [原文連結](https://www.digitimes.com/news/a20261012VL220/samsung-sk-hynix-hbm-hbm4-2027.html)
-
----
-
-### 🚀 GlobalFoundries wins US$2 billion TSMC interposer deal, closing a US packaging gap
-- **題材**: `半導體先進製程` | **重要性**: `68`
-- **來源**: Digitimes (2026-10-09T02:43:17Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: GF said on October 8, 2026, that it has signed a multi-year, US$2 billion manufacturing agreement with TSMC to produce silicon interposers for TSMC's CoWoS ecosystem at its Malta, New York fab, which GF says will become the first US-based source of silicon in…
-- [原文連結](https://www.digitimes.com/news/a20261009VL200/tsmc-globalfoundries-packaging-cowos-silicon.html)
 
 ---
 
