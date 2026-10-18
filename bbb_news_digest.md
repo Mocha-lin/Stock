@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-18T00:40:26.277189+00:00
+> 更新時間：2026-10-18T05:16:17.760697+00:00
 
 ### 🚀 TSMC investor conference: TSMC lifts 2026 revenue growth forecast to 44%, 2nm expansion, new 3nm fab
 - **題材**: `半導體先進製程` | **重要性**: `88`
@@ -20,29 +20,11 @@
 ---
 
 ### 🚀 Samsung, SK Hynix stand to benefit as humanoid robot DRAM demand is forecast to jump 20-fold by 2030
-- **題材**: `HBM記憶體` | **重要性**: `83`
+- **題材**: `HBM記憶體` | **重要性**: `78`
 - **來源**: Digitimes (2026-10-15T01:34:10Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Global DRAM demand for humanoid robots is projected to increase more than 20-fold by 2030 as robot deployments expand and memory capacity per unit doubles, potentially opening a new growth market for Samsung Electronics and SK Hynix beyond high-bandwidth memo…
 - [原文連結](https://www.digitimes.com/news/a20261014VL221/dram-demand-robot-2030-samsung.html)
-
----
-
-### ⚖️ Micron opens second Taiwan advanced packaging plant as HBM supply tightens
-- **題材**: `HBM記憶體` | **重要性**: `78`
-- **來源**: Digitimes (2026-10-15T04:57:23Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Micron Technology on October 15 opened Micron Advanced Assembly and Test Taiwan 2 (AATT2) in Taichung, its second advanced assembly and test facility in Taiwan. The plant expands the company's packaging and testing capacity for high-bandwidth memory (HBM) as …
-- [原文連結](https://www.digitimes.com/news/a20261015VL216/micron-taiwan-hbm-packaging-plant.html)
-
----
-
-### ⚖️ Analysis: GlobalFoundries' calculus behind US$2 billion entry into TSMC's CoWoS ecosystem
-- **題材**: `半導體先進製程` | **重要性**: `78`
-- **來源**: Digitimes (2026-10-15T04:00:19Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: GlobalFoundries (GF) has reached a multiyear manufacturing agreement with TSMC to expand silicon interposer capacity at its Malta fab in New York, supplying TSMC's Chip-on-Wafer-on-Substrate (CoWoS) advanced-packaging ecosystem. The agreement is expected to b…
-- [原文連結](https://www.digitimes.com/news/a20261015PD220/tsmc-globalfoundries-cowos-manufacturing-silicon.html)
 
 ---
 
@@ -79,6 +61,24 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Touch Taiwan 2027 will take place on April 21–23, 2027, and will expand its scope with two dedicated co-located shows: the Advanced Packaging & Testing Expo and the Silicon Photonics Technology Applications Expo. Spurred by surging demand for AI, high-perform…
 - [原文連結](https://www.digitimes.com/news/a20261015PD237/2027-touch-taiwan-packaging-siph-expo.html)
+
+---
+
+### ⚖️ Micron opens second Taiwan advanced packaging plant as HBM supply tightens
+- **題材**: `HBM記憶體` | **重要性**: `73`
+- **來源**: Digitimes (2026-10-15T04:57:23Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Micron Technology on October 15 opened Micron Advanced Assembly and Test Taiwan 2 (AATT2) in Taichung, its second advanced assembly and test facility in Taiwan. The plant expands the company's packaging and testing capacity for high-bandwidth memory (HBM) as …
+- [原文連結](https://www.digitimes.com/news/a20261015VL216/micron-taiwan-hbm-packaging-plant.html)
+
+---
+
+### ⚖️ Analysis: GlobalFoundries' calculus behind US$2 billion entry into TSMC's CoWoS ecosystem
+- **題材**: `半導體先進製程` | **重要性**: `73`
+- **來源**: Digitimes (2026-10-15T04:00:19Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: GlobalFoundries (GF) has reached a multiyear manufacturing agreement with TSMC to expand silicon interposer capacity at its Malta fab in New York, supplying TSMC's Chip-on-Wafer-on-Substrate (CoWoS) advanced-packaging ecosystem. The agreement is expected to b…
+- [原文連結](https://www.digitimes.com/news/a20261015PD220/tsmc-globalfoundries-cowos-manufacturing-silicon.html)
 
 ---
 
@@ -136,15 +136,6 @@
 
 ---
 
-### ⚖️ Nvidia's Rubin expected to use mostly 12-layer HBM4 despite reported 8-layer shift
-- **題材**: `HBM記憶體` | **重要性**: `68`
-- **來源**: Digitimes (2026-10-15T01:32:09Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Nvidia's next-generation Rubin AI accelerators are expected to rely predominantly on 12-layer HBM4 high-bandwidth memory, despite reports that the chipmaker has asked Samsung Electronics and SK hynix to increase supplies of 8-layer products. The differing ass…
-- [原文連結](https://www.digitimes.com/news/a20261014VL224/nvidia-hbm4-rubin-hbm-dram.html)
-
----
-
 ### ⚖️ TSMC power plant funding talks still conceptual, says Taipower
 - **題材**: `半導體先進製程` | **重要性**: `68`
 - **來源**: Digitimes (2026-10-13T02:44:16Z)
@@ -169,6 +160,15 @@
 - **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Inflation-adjusted average hourly earnings have declined to about the level they were at when President Donald Trump took office for his second term.
 - [原文連結](https://www.businessinsider.com/paycheck-raise-increase-inflation-prices-president-trump-2026-10#article)
+
+---
+
+### ⚖️ Nvidia's Rubin expected to use mostly 12-layer HBM4 despite reported 8-layer shift
+- **題材**: `HBM記憶體` | **重要性**: `63`
+- **來源**: Digitimes (2026-10-15T01:32:09Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Nvidia's next-generation Rubin AI accelerators are expected to rely predominantly on 12-layer HBM4 high-bandwidth memory, despite reports that the chipmaker has asked Samsung Electronics and SK hynix to increase supplies of 8-layer products. The differing ass…
+- [原文連結](https://www.digitimes.com/news/a20261014VL224/nvidia-hbm4-rubin-hbm-dram.html)
 
 ---
 
