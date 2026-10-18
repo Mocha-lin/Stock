@@ -1,48 +1,10 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-10-18T05:16:17.760697+00:00",
+  "generated_at": "2026-10-18T09:45:01.682737+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 73,
   "items": [
-    {
-      "id": "5d921e5848e5c352",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "TSMC investor conference: TSMC lifts 2026 revenue growth forecast to 44%, 2nm expansion, new 3nm fab",
-      "summary": "TSMC Chairman and CEO C.C. Wei announced that, driven by relentless AI momentum and strong demand for advanced process technologies, the company has raised its full-year 2026 US dollar revenue growth guidance to approximately 44%. AI and leading-edge nodes co…",
-      "original_title": "TSMC investor conference: TSMC lifts 2026 revenue growth forecast to 44%, 2nm expansion, new 3nm fab",
-      "url": "https://www.digitimes.com/news/a20261015PD243/tsmc-growth-3nm-2026-fab.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-10-15T09:15:13Z",
-      "importance": 88,
-      "impact": "positive",
-      "timeframe": "short_to_mid_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之偏多消息。【重大事件】可能顯著影響產業評價、EPS預期或資金流向。"
-    },
     {
       "id": "881cb7aa56bef56e",
       "dataset": "market_news",
@@ -80,6 +42,44 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
+      "id": "5d921e5848e5c352",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "TSMC investor conference: TSMC lifts 2026 revenue growth forecast to 44%, 2nm expansion, new 3nm fab",
+      "summary": "TSMC Chairman and CEO C.C. Wei announced that, driven by relentless AI momentum and strong demand for advanced process technologies, the company has raised its full-year 2026 US dollar revenue growth guidance to approximately 44%. AI and leading-edge nodes co…",
+      "original_title": "TSMC investor conference: TSMC lifts 2026 revenue growth forecast to 44%, 2nm expansion, new 3nm fab",
+      "url": "https://www.digitimes.com/news/a20261015PD243/tsmc-growth-3nm-2026-fab.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-10-15T09:15:13Z",
+      "importance": 83,
+      "impact": "positive",
+      "timeframe": "short_to_mid_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "3a0895289231e4b6",
@@ -188,82 +188,6 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
-      "id": "f38a8a283612ae2a",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "FIC Group opens Malaysia plant as optical module capacity targets 18 SMT lines",
-      "summary": "FIC Group opened its PRO3C (Malaysia) Sdn. Bhd. manufacturing facility in Johor, Malaysia, on October 15, expanding its optical communications production footprint in Southeast Asia. The Johor Bahru site is designed to support global customers with 800G, 1.6T…",
-      "original_title": "FIC Group opens Malaysia plant as optical module capacity targets 18 SMT lines",
-      "url": "https://www.digitimes.com/news/a20261015PD242/smt-plant-production-johor-manufacturing.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-10-15T08:39:50Z",
-      "importance": 73,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
-      "id": "015e2180dd818607",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "Touch Taiwan 2027 expands tech scope with advanced packaging and SiPh shows",
-      "summary": "Touch Taiwan 2027 will take place on April 21–23, 2027, and will expand its scope with two dedicated co-located shows: the Advanced Packaging & Testing Expo and the Silicon Photonics Technology Applications Expo. Spurred by surging demand for AI, high-perform…",
-      "original_title": "Touch Taiwan 2027 expands tech scope with advanced packaging and SiPh shows",
-      "url": "https://www.digitimes.com/news/a20261015PD237/2027-touch-taiwan-packaging-siph-expo.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-10-15T08:25:00Z",
-      "importance": 73,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "644e11a68be57fe8",
@@ -559,6 +483,82 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
+      "id": "f38a8a283612ae2a",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "FIC Group opens Malaysia plant as optical module capacity targets 18 SMT lines",
+      "summary": "FIC Group opened its PRO3C (Malaysia) Sdn. Bhd. manufacturing facility in Johor, Malaysia, on October 15, expanding its optical communications production footprint in Southeast Asia. The Johor Bahru site is designed to support global customers with 800G, 1.6T…",
+      "original_title": "FIC Group opens Malaysia plant as optical module capacity targets 18 SMT lines",
+      "url": "https://www.digitimes.com/news/a20261015PD242/smt-plant-production-johor-manufacturing.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-10-15T08:39:50Z",
+      "importance": 68,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "015e2180dd818607",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "Touch Taiwan 2027 expands tech scope with advanced packaging and SiPh shows",
+      "summary": "Touch Taiwan 2027 will take place on April 21–23, 2027, and will expand its scope with two dedicated co-located shows: the Advanced Packaging & Testing Expo and the Silicon Photonics Technology Applications Expo. Spurred by surging demand for AI, high-perform…",
+      "original_title": "Touch Taiwan 2027 expands tech scope with advanced packaging and SiPh shows",
+      "url": "https://www.digitimes.com/news/a20261015PD237/2027-touch-taiwan-packaging-siph-expo.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-10-15T08:25:00Z",
+      "importance": 68,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "fec14a164a738c30",
@@ -889,120 +889,6 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "45ae4650a755ede8",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "TSMC is open to working on Musk’s Terafab but says it must run the fab",
-      "summary": "TSMC is willing to work with Elon Musk’s Terafab chip project, but any fab involved would have to be run by TSMC, chairman and chief executive C.C. Wei said on the company’s third-quarter earnings call on Thursday. He added that the two sides have not yet rea…",
-      "original_title": "TSMC is open to working on Musk’s Terafab but says it must run the fab",
-      "url": "https://thenextweb.com/news/tsmc-terafab-musk-wei-must-run-fab",
-      "source": "The Next Web",
-      "domain": "thenextweb.com",
-      "published_at": "2026-10-15T09:29:28Z",
-      "importance": 60,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "71a21366ca4dac0a",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "Get ready for grocery prices to get even more painful",
-      "summary": "Attacks on tankers and oil infrastructure are causing diesel prices to soar, and that has a significant impact on the cost of transporting food.",
-      "original_title": "Get ready for grocery prices to get even more painful",
-      "url": "https://www.businessinsider.com/groceries-get-more-expensive-iran-conflict-fuel-costs-2026-10#article",
-      "source": "Business Insider",
-      "domain": "businessinsider.com",
-      "published_at": "2026-10-15T09:11:01Z",
-      "importance": 60,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "405e2f534c68fb2e",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "Jensen Huang couldn't get TSMC to return his calls. Then its founder called.",
-      "summary": "TSMC manufactures Nvidia's advanced AI chips.",
-      "original_title": "Jensen Huang couldn't get TSMC to return his calls. Then its founder called.",
-      "url": "https://www.businessinsider.com/jensen-huang-nvidia-tsmc-morris-chang-cold-calls-ai-chips-2026-10#article",
-      "source": "Business Insider",
-      "domain": "businessinsider.com",
-      "published_at": "2026-10-15T06:18:50Z",
-      "importance": 60,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "b31c7aa2484694da",
@@ -1420,17 +1306,55 @@
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "36409a6894723196",
+      "id": "45ae4650a755ede8",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "TSMC is open to working on Musk’s Terafab but says it must run the fab",
+      "summary": "TSMC is willing to work with Elon Musk’s Terafab chip project, but any fab involved would have to be run by TSMC, chairman and chief executive C.C. Wei said on the company’s third-quarter earnings call on Thursday. He added that the two sides have not yet rea…",
+      "original_title": "TSMC is open to working on Musk’s Terafab but says it must run the fab",
+      "url": "https://thenextweb.com/news/tsmc-terafab-musk-wei-must-run-fab",
+      "source": "The Next Web",
+      "domain": "thenextweb.com",
+      "published_at": "2026-10-15T09:29:28Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "71a21366ca4dac0a",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "總體風險",
-      "title": "The oil market is facing a transportation crisis that suggests energy costs aren't falling soon",
-      "summary": "Oil prices are inching lower, but energy experts are now focused on a broader shipping crisis that could keep energy costs high.",
-      "original_title": "The oil market is facing a transportation crisis that suggests energy costs aren't falling soon",
-      "url": "https://www.businessinsider.com/oil-market-tanker-rates-crisis-energy-costs-inflation-2026-10#article",
+      "title": "Get ready for grocery prices to get even more painful",
+      "summary": "Attacks on tankers and oil infrastructure are causing diesel prices to soar, and that has a significant impact on the cost of transporting food.",
+      "original_title": "Get ready for grocery prices to get even more painful",
+      "url": "https://www.businessinsider.com/groceries-get-more-expensive-iran-conflict-fuel-costs-2026-10#article",
       "source": "Business Insider",
       "domain": "businessinsider.com",
-      "published_at": "2026-10-15T09:15:02Z",
+      "published_at": "2026-10-15T09:11:01Z",
       "importance": 55,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -1456,6 +1380,44 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "405e2f534c68fb2e",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "Jensen Huang couldn't get TSMC to return his calls. Then its founder called.",
+      "summary": "TSMC manufactures Nvidia's advanced AI chips.",
+      "original_title": "Jensen Huang couldn't get TSMC to return his calls. Then its founder called.",
+      "url": "https://www.businessinsider.com/jensen-huang-nvidia-tsmc-morris-chang-cold-calls-ai-chips-2026-10#article",
+      "source": "Business Insider",
+      "domain": "businessinsider.com",
+      "published_at": "2026-10-15T06:18:50Z",
+      "importance": 55,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "ce0b8bc99f428d9a",
@@ -1719,6 +1681,44 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "36409a6894723196",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "The oil market is facing a transportation crisis that suggests energy costs aren't falling soon",
+      "summary": "Oil prices are inching lower, but energy experts are now focused on a broader shipping crisis that could keep energy costs high.",
+      "original_title": "The oil market is facing a transportation crisis that suggests energy costs aren't falling soon",
+      "url": "https://www.businessinsider.com/oil-market-tanker-rates-crisis-energy-costs-inflation-2026-10#article",
+      "source": "Business Insider",
+      "domain": "businessinsider.com",
+      "published_at": "2026-10-15T09:15:02Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "8f4d77d17479a72c",
