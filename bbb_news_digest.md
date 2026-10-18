@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-18T16:11:23.822024+00:00
+> 更新時間：2026-10-18T19:02:16.851736+00:00
 
 ### ⚖️ TSMC details pricing, confirms agentic AI boosts CPU demand
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -16,6 +16,15 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: TSMC Chairman and CEO C.C. Wei announced that, driven by relentless AI momentum and strong demand for advanced process technologies, the company has raised its full-year 2026 US dollar revenue growth guidance to approximately 44%. AI and leading-edge nodes co…
 - [原文連結](https://www.digitimes.com/news/a20261015PD243/tsmc-growth-3nm-2026-fab.html)
+
+---
+
+### ⚖️ Exclusive: EnterpriseSG positions Singapore's semiconductor SMEs for bigger roles in global chip supply chains
+- **題材**: `光通訊與矽光子` | **重要性**: `78`
+- **來源**: Digitimes (2026-10-17T18:39:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Singapore is targeting high-value semiconductor manufacturing, advanced packaging, and silicon photonics, building on its strengths in engineering, precision manufacturing, and reliability, according to Zeng Yi Wong, assistant managing director for manufactur…
+- [原文連結](https://www.digitimes.com/news/a20261012PD215/manufacturing-equipment-packaging-testing-silicon.html)
 
 ---
 
@@ -169,15 +178,6 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Nvidia's next-generation Rubin AI accelerators are expected to rely predominantly on 12-layer HBM4 high-bandwidth memory, despite reports that the chipmaker has asked Samsung Electronics and SK hynix to increase supplies of 8-layer products. The differing ass…
 - [原文連結](https://www.digitimes.com/news/a20261014VL224/nvidia-hbm4-rubin-hbm-dram.html)
-
----
-
-### ⚖️ Wiwynn unveils CPO compute system with GUC and Ayar Labs
-- **題材**: `光通訊與矽光子` | **重要性**: `63`
-- **來源**: Digitimes (2026-10-14T08:38:13Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Wiwynn Corporation, CPO solutions provider Ayar Labs and Global Unichip Corp. (GUC) will stage the first live demonstration of an integrated compute system with real-time telemetry monitoring at the 2026 OCP Global Summit, marking a new milestone in their str…
-- [原文連結](https://www.digitimes.com/news/a20261014PD247/cpo-guc-wiwynn-laser.html)
 
 ---
 
