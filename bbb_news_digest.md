@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-19T18:51:54.560577+00:00
+> 更新時間：2026-10-19T22:39:59.173818+00:00
 
 ### 🚀 TSMC investor conference: TSMC lifts 2026 revenue growth forecast to 44%, 2nm expansion, new 3nm fab
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -172,12 +172,12 @@
 
 ---
 
-### ⚖️ Trump and Elon Agree: It Must Have Been the Dog That Ate Ukraine’s Starshield
+### ⚠️ If you've gotten a raise in the past two years, it's now been nearly all eaten away by inflation
 - **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Gizmodo.com (2026-10-16T22:07:29Z)
-- **AI 判讀**: 屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Both billionaires denied being responsible for the decision to partially paralyze Ukraine's military satellite network this week.
-- [原文連結](https://gizmodo.com/trump-and-elon-agree-it-must-have-been-the-dog-that-ate-ukraines-starshield-2000827186)
+- **來源**: Business Insider (2026-10-16T09:00:01Z)
+- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Inflation-adjusted average hourly earnings have declined to about the level they were at when President Donald Trump took office for his second term.
+- [原文連結](https://www.businessinsider.com/paycheck-raise-increase-inflation-prices-president-trump-2026-10#article)
 
 ---
 
