@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-19T05:29:57.894757+00:00
+> 更新時間：2026-10-19T11:05:39.217529+00:00
 
 ### 🚀 TSMC investor conference: TSMC lifts 2026 revenue growth forecast to 44%, 2nm expansion, new 3nm fab
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -43,15 +43,6 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: GlobalFoundries (GF) and TSMC have reached a manufacturing agreement to establish a US-based supply source for silicon interposers supporting TSMC's CoWoS advanced packaging ecosystem. The US$2 billion, five-year agreement will expand advanced packaging capac…
 - [原文連結](https://www.digitimes.com/news/a20261013PD248/tsmc-globalfoundries-packaging-capacity-silicon.html)
-
----
-
-### 🚀 Samsung, SK Hynix aim to ease AI memory bottlenecks with zHBM, HBF
-- **題材**: `HBM記憶體` | **重要性**: `73`
-- **來源**: Digitimes (2026-10-16T06:57:00Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Samsung Electronics and SK Hynix are developing new memory technologies to address growing bottlenecks in AI systems, with Samsung exploring a design that stacks high-bandwidth memory (HBM) directly above graphics processors and SK Hynix advancing high-bandwi…
-- [原文連結](https://www.digitimes.com/news/a20261016PD214/samsung-sk-hynix-hbm-data-capacity.html)
 
 ---
 
@@ -100,6 +91,15 @@
 
 ---
 
+### 🚀 Samsung, SK Hynix aim to ease AI memory bottlenecks with zHBM, HBF
+- **題材**: `HBM記憶體` | **重要性**: `68`
+- **來源**: Digitimes (2026-10-16T06:57:00Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Samsung Electronics and SK Hynix are developing new memory technologies to address growing bottlenecks in AI systems, with Samsung exploring a design that stacks high-bandwidth memory (HBM) directly above graphics processors and SK Hynix advancing high-bandwi…
+- [原文連結](https://www.digitimes.com/news/a20261016PD214/samsung-sk-hynix-hbm-data-capacity.html)
+
+---
+
 ### ⚖️ FIC Group opens Malaysia plant as optical module capacity targets 18 SMT lines
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
 - **來源**: Digitimes (2026-10-15T08:39:50Z)
@@ -124,15 +124,6 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Electricity demand from semiconductor manufacturing, memory production, advanced packaging, and server assembly is rising rapidly, fueling reports that Taiwan Power Company (Taipower) is seeking financial contributions from major industrial customers, includi…
 - [原文連結](https://www.digitimes.com/news/a20261013PD212/taiwan-power-company-electricity-demand-tsmc-manufacturing.html)
-
----
-
-### ⚖️ Samsung could unseat SK Hynix as HBM leader in 2027
-- **題材**: `HBM記憶體` | **重要性**: `68`
-- **來源**: Digitimes (2026-10-12T06:31:44Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Samsung Electronics could overtake SK Hynix as the world's largest supplier of high-bandwidth memory (HBM) in 2027, as HBM4 prices climb and memory manufacturers compete for limited DRAM production capacity, according to forecasts presented at an October 6 se…
-- [原文連結](https://www.digitimes.com/news/a20261012VL220/samsung-sk-hynix-hbm-hbm4-2027.html)
 
 ---
 
@@ -163,21 +154,30 @@
 
 ---
 
-### ⚠️ If you've gotten a raise in the past two years, it's now been nearly all eaten away by inflation
-- **題材**: `總體風險` | **重要性**: `65`
-- **來源**: Business Insider (2026-10-16T09:00:01Z)
-- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Inflation-adjusted average hourly earnings have declined to about the level they were at when President Donald Trump took office for his second term.
-- [原文連結](https://www.businessinsider.com/paycheck-raise-increase-inflation-prices-president-trump-2026-10#article)
-
----
-
 ### ⚖️ Nvidia's Rubin expected to use mostly 12-layer HBM4 despite reported 8-layer shift
 - **題材**: `HBM記憶體` | **重要性**: `63`
 - **來源**: Digitimes (2026-10-15T01:32:09Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Nvidia's next-generation Rubin AI accelerators are expected to rely predominantly on 12-layer HBM4 high-bandwidth memory, despite reports that the chipmaker has asked Samsung Electronics and SK hynix to increase supplies of 8-layer products. The differing ass…
 - [原文連結](https://www.digitimes.com/news/a20261014VL224/nvidia-hbm4-rubin-hbm-dram.html)
+
+---
+
+### ⚖️ SK Hynix HBM4 equipment installations reportedly face partial deferral to 2027
+- **題材**: `HBM記憶體` | **重要性**: `63`
+- **來源**: Digitimes (2026-10-14T07:25:32Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Some back-end manufacturing equipment intended for SK Hynix's sixth-generation high-bandwidth memory (HBM4) production may be deferred from the second half of 2026 into 2027, raising questions about the chipmaker's expansion plans as rising conventional DRAM …
+- [原文連結](https://www.digitimes.com/news/a20261014VL213/equipment-hbm4-sk-hynix-2027-investment.html)
+
+---
+
+### ⚖️ Samsung could unseat SK Hynix as HBM leader in 2027
+- **題材**: `HBM記憶體` | **重要性**: `63`
+- **來源**: Digitimes (2026-10-12T06:31:44Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Samsung Electronics could overtake SK Hynix as the world's largest supplier of high-bandwidth memory (HBM) in 2027, as HBM4 prices climb and memory manufacturers compete for limited DRAM production capacity, according to forecasts presented at an October 6 se…
+- [原文連結](https://www.digitimes.com/news/a20261012VL220/samsung-sk-hynix-hbm-hbm4-2027.html)
 
 ---
 
