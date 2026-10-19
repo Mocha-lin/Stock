@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-19T11:05:39.217529+00:00
+> 更新時間：2026-10-19T16:13:48.096794+00:00
 
 ### 🚀 TSMC investor conference: TSMC lifts 2026 revenue growth forecast to 44%, 2nm expansion, new 3nm fab
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -64,30 +64,12 @@
 
 ---
 
-### ⚖️ SK Hynix, Micron confront AI memory bottlenecks with HBM standardization, chip integration
-- **題材**: `HBM記憶體` | **重要性**: `73`
-- **來源**: Digitimes (2026-10-14T01:09:30Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: AI infrastructure expansion is shifting semiconductor competition beyond individual chip performance towards memory bandwidth, data-transfer power consumption, transistor scaling, chip interconnects, and system integration through advanced packaging.
-- [原文連結](https://www.digitimes.com/news/a20261013PD239/hbm-micron-development-infrastructure-expansion.html)
-
----
-
 ### ⚖️ Samsung, SK Hynix NAND profits seen surging on enterprise SSD demand
 - **題材**: `HBM記憶體` | **重要性**: `73`
 - **來源**: Digitimes (2026-10-13T00:08:27Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Samsung Electronics and SK Hynix are expected to see a sharp increase in NAND flash profits in 2026 as surging demand for enterprise solid-state drives (SSDs) drives up memory prices and improves profitability, adding another earnings boost beyond high-bandwi…
 - [原文連結](https://www.digitimes.com/news/a20261012VL227/nand-samsung-sk-hynix-demand-ssd.html)
-
----
-
-### ⚖️ Taiwan raising $4 billion to build industrial park in Texas to support US chipmaking supply chain
-- **題材**: `半導體先進製程` | **重要性**: `72`
-- **來源**: Tom's Hardware UK (2026-10-16T11:57:18Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: This $4 billion industrial park would make it easier for smaller Taiwanese companies who can't afford to build their own sites in the U.S. to expand and follow major Taiwanese manufacturers like TSMC and Foxconn.
-- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/taiwan-raising-usd4-billion-to-build-industrial-park-in-texas-to-support-us-chipmaking-supply-chain-project-to-support-countless-small-manufacturers-crucial-to-tsmc-foxconn-supply-chain)
 
 ---
 
@@ -127,15 +109,6 @@
 
 ---
 
-### ⚖️ Commentary: Largan plays defense in phones, presses CPO offensive
-- **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-10-12T03:27:14Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Largan chairman Adam Lin spoke about the company's cautious smartphone outlook while taking a more aggressive stance on co-packaged optics (CPO) during a recent online earnings briefing. His comments on order trends, gross margins, and 2026 visibility highlig…
-- [原文連結](https://www.digitimes.com/news/a20261012PD219/smartphone-cpo-ceo-2027-production.html)
-
----
-
 ### ⚖️ Commentary: Could a 65% US-content rule redraw China's 3.2T optical supply chain?
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
 - **來源**: Digitimes (2026-10-12T02:16:08Z)
@@ -154,6 +127,15 @@
 
 ---
 
+### ⚖️ Taiwan raising $4 billion to build industrial park in Texas to support US chipmaking supply chain
+- **題材**: `半導體先進製程` | **重要性**: `67`
+- **來源**: Tom's Hardware UK (2026-10-16T11:57:18Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: This $4 billion industrial park would make it easier for smaller Taiwanese companies who can't afford to build their own sites in the U.S. to expand and follow major Taiwanese manufacturers like TSMC and Foxconn.
+- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/taiwan-raising-usd4-billion-to-build-industrial-park-in-texas-to-support-us-chipmaking-supply-chain-project-to-support-countless-small-manufacturers-crucial-to-tsmc-foxconn-supply-chain)
+
+---
+
 ### ⚖️ Nvidia's Rubin expected to use mostly 12-layer HBM4 despite reported 8-layer shift
 - **題材**: `HBM記憶體` | **重要性**: `63`
 - **來源**: Digitimes (2026-10-15T01:32:09Z)
@@ -163,21 +145,39 @@
 
 ---
 
-### ⚖️ SK Hynix HBM4 equipment installations reportedly face partial deferral to 2027
-- **題材**: `HBM記憶體` | **重要性**: `63`
-- **來源**: Digitimes (2026-10-14T07:25:32Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Some back-end manufacturing equipment intended for SK Hynix's sixth-generation high-bandwidth memory (HBM4) production may be deferred from the second half of 2026 into 2027, raising questions about the chipmaker's expansion plans as rising conventional DRAM …
-- [原文連結](https://www.digitimes.com/news/a20261014VL213/equipment-hbm4-sk-hynix-2027-investment.html)
-
----
-
 ### ⚖️ Samsung could unseat SK Hynix as HBM leader in 2027
 - **題材**: `HBM記憶體` | **重要性**: `63`
 - **來源**: Digitimes (2026-10-12T06:31:44Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Samsung Electronics could overtake SK Hynix as the world's largest supplier of high-bandwidth memory (HBM) in 2027, as HBM4 prices climb and memory manufacturers compete for limited DRAM production capacity, according to forecasts presented at an October 6 se…
 - [原文連結](https://www.digitimes.com/news/a20261012VL220/samsung-sk-hynix-hbm-hbm4-2027.html)
+
+---
+
+### 🚀 Linktel Technologies Highlights Breakthrough 1.6T LPO Performance & Strong Market Pull at OCP 2026
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: PRNewswire (2026-10-18T11:53:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: SAN JOSE, Calif., Oct. 18, 2026 /PRNewswire/ -- At the recent 2026 OCP Global Summit, Linktel Technologies showcased its cutting-edge optical interconnect portfolios engineered specifically for next-generation AI computing networks. Among the heavy lineup, Li…
+- [原文連結](https://www.prnewswire.com/news-releases/linktel-technologies-highlights-breakthrough-1-6t-lpo-performance--strong-market-pull-at-ocp-2026--302911973.html)
+
+---
+
+### 🚀 I made an impulsive decision to quit a great job in Hollywood. It felt like a mistake — but here's what I learned.
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: Business Insider (2026-10-18T10:00:03Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Peter Csathy made an impulsive decision to leave Hollywood, which led him on a completely different, non-linear entrepreneurial path.
+- [原文連結](https://www.businessinsider.com/quit-hollywood-job-career-mistake-worked-out-risks-reward-2026-10#article)
+
+---
+
+### ⚖️ Trump and Elon Agree: It Must Have Been the Dog That Ate Ukraine’s Starshield
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Gizmodo.com (2026-10-16T22:07:29Z)
+- **AI 判讀**: 屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Both billionaires denied being responsible for the decision to partially paralyze Ukraine's military satellite network this week.
+- [原文連結](https://gizmodo.com/trump-and-elon-agree-it-must-have-been-the-dog-that-ate-ukraines-starshield-2000827186)
 
 ---
 
