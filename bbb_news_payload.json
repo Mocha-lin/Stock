@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-10-20T01:36:10.729317+00:00",
+  "generated_at": "2026-10-20T05:33:30.463152+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 74,
@@ -488,44 +488,6 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "fec14a164a738c30",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "TSMC power plant funding talks still conceptual, says Taipower",
-      "summary": "Electricity demand from semiconductor manufacturing, memory production, advanced packaging, and server assembly is rising rapidly, fueling reports that Taiwan Power Company (Taipower) is seeking financial contributions from major industrial customers, includi…",
-      "original_title": "TSMC power plant funding talks still conceptual, says Taipower",
-      "url": "https://www.digitimes.com/news/a20261013PD212/taiwan-power-company-electricity-demand-tsmc-manufacturing.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-10-13T02:44:16Z",
-      "importance": 68,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "f9b97f9fd65cc4b4",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -672,29 +634,32 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "86a1bf340e548504",
+      "id": "fec14a164a738c30",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "SK Hynix HBM4 equipment installations reportedly face partial deferral to 2027",
-      "summary": "Some back-end manufacturing equipment intended for SK Hynix's sixth-generation high-bandwidth memory (HBM4) production may be deferred from the second half of 2026 into 2027, raising questions about the chipmaker's expansion plans as rising conventional DRAM …",
-      "original_title": "SK Hynix HBM4 equipment installations reportedly face partial deferral to 2027",
-      "url": "https://www.digitimes.com/news/a20261014VL213/equipment-hbm4-sk-hynix-2027-investment.html",
+      "theme": "半導體先進製程",
+      "title": "TSMC power plant funding talks still conceptual, says Taipower",
+      "summary": "Electricity demand from semiconductor manufacturing, memory production, advanced packaging, and server assembly is rising rapidly, fueling reports that Taiwan Power Company (Taipower) is seeking financial contributions from major industrial customers, includi…",
+      "original_title": "TSMC power plant funding talks still conceptual, says Taipower",
+      "url": "https://www.digitimes.com/news/a20261013PD212/taiwan-power-company-electricity-demand-tsmc-manufacturing.html",
       "source": "Digitimes",
       "domain": "digitimes.com",
-      "published_at": "2026-10-14T07:25:32Z",
+      "published_at": "2026-10-13T02:44:16Z",
       "importance": 63,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "HBM",
-        "記憶體"
+        "半導體",
+        "CoWoS",
+        "先進製程"
       ],
       "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
       ],
       "related_models": [
         "003",
@@ -704,7 +669,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "d47d6296e5ca970c",
@@ -906,6 +871,41 @@
       "domain": "tomshardware.com",
       "published_at": "2026-10-14T14:00:00Z",
       "importance": 57,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "aa8a68a441154053",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "Nvidia Tells Suppliers to Tap TSMC Process for Next-Generation Memory Chips",
+      "summary": "",
+      "original_title": "Nvidia Tells Suppliers to Tap TSMC Process for Next-Generation Memory Chips",
+      "url": "https://www.theinformation.com/briefings/nvidia-tells-suppliers-tap-tsmc-process-next-generation-memory-chips",
+      "source": "The Information",
+      "domain": "theinformation.com",
+      "published_at": "2026-10-19T04:55:18Z",
+      "importance": 55,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -2711,7 +2711,7 @@
       "source": "Business Insider",
       "domain": "businessinsider.com",
       "published_at": "2026-10-13T05:28:08Z",
-      "importance": 50,
+      "importance": 45,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -2732,7 +2732,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「HBM記憶體」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     },
     {
       "id": "69a58b00744ec4a1",
@@ -2746,7 +2746,7 @@
       "source": "PRNewswire",
       "domain": "prnewswire.com",
       "published_at": "2026-10-13T02:17:00Z",
-      "importance": 50,
+      "importance": 45,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -2770,7 +2770,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     }
   ]
 }

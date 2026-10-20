@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-20T01:36:10.729317+00:00
+> 更新時間：2026-10-20T05:33:30.463152+00:00
 
 ### 🚀 TSMC investor conference: TSMC lifts 2026 revenue growth forecast to 44%, 2nm expansion, new 3nm fab
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -118,15 +118,6 @@
 
 ---
 
-### ⚖️ TSMC power plant funding talks still conceptual, says Taipower
-- **題材**: `半導體先進製程` | **重要性**: `68`
-- **來源**: Digitimes (2026-10-13T02:44:16Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Electricity demand from semiconductor manufacturing, memory production, advanced packaging, and server assembly is rising rapidly, fueling reports that Taiwan Power Company (Taipower) is seeking financial contributions from major industrial customers, includi…
-- [原文連結](https://www.digitimes.com/news/a20261013PD212/taiwan-power-company-electricity-demand-tsmc-manufacturing.html)
-
----
-
 ### ⚖️ Samsung, SK Hynix NAND profits seen surging on enterprise SSD demand
 - **題材**: `HBM記憶體` | **重要性**: `68`
 - **來源**: Digitimes (2026-10-13T00:08:27Z)
@@ -163,12 +154,12 @@
 
 ---
 
-### ⚖️ SK Hynix HBM4 equipment installations reportedly face partial deferral to 2027
-- **題材**: `HBM記憶體` | **重要性**: `63`
-- **來源**: Digitimes (2026-10-14T07:25:32Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Some back-end manufacturing equipment intended for SK Hynix's sixth-generation high-bandwidth memory (HBM4) production may be deferred from the second half of 2026 into 2027, raising questions about the chipmaker's expansion plans as rising conventional DRAM …
-- [原文連結](https://www.digitimes.com/news/a20261014VL213/equipment-hbm4-sk-hynix-2027-investment.html)
+### ⚖️ TSMC power plant funding talks still conceptual, says Taipower
+- **題材**: `半導體先進製程` | **重要性**: `63`
+- **來源**: Digitimes (2026-10-13T02:44:16Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Electricity demand from semiconductor manufacturing, memory production, advanced packaging, and server assembly is rising rapidly, fueling reports that Taiwan Power Company (Taipower) is seeking financial contributions from major industrial customers, includi…
+- [原文連結](https://www.digitimes.com/news/a20261013PD212/taiwan-power-company-electricity-demand-tsmc-manufacturing.html)
 
 ---
 
@@ -178,6 +169,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: SAN JOSE, Calif., Oct. 18, 2026 /PRNewswire/ -- At the recent 2026 OCP Global Summit, Linktel Technologies showcased its cutting-edge optical interconnect portfolios engineered specifically for next-generation AI computing networks. Among the heavy lineup, Li…
 - [原文連結](https://www.prnewswire.com/news-releases/linktel-technologies-highlights-breakthrough-1-6t-lpo-performance--strong-market-pull-at-ocp-2026--302911973.html)
+
+---
+
+### 🚀 I made an impulsive decision to quit a great job in Hollywood. It felt like a mistake — but here's what I learned.
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: Business Insider (2026-10-18T10:00:03Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Peter Csathy made an impulsive decision to leave Hollywood, which led him on a completely different, non-linear entrepreneurial path.
+- [原文連結](https://www.businessinsider.com/quit-hollywood-job-career-mistake-worked-out-risks-reward-2026-10#article)
 
 ---
 
