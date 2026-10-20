@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-20T14:07:58.704850+00:00
+> 更新時間：2026-10-20T17:35:47.386866+00:00
 
 ### ⚖️ DIGITIMES Insight: Microsoft Maia 300 leads 2nm race, TSMC's US strategy shifts, Intel EMIB-T faces yield challenge
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -118,12 +118,12 @@
 
 ---
 
-### ⚖️ Nvidia's Rubin expected to use mostly 12-layer HBM4 despite reported 8-layer shift
+### ⚖️ Elon Musk promises to give one SpaceX share to every child in the US
 - **題材**: `HBM記憶體` | **重要性**: `63`
-- **來源**: Digitimes (2026-10-15T01:32:09Z)
+- **來源**: The Verge (2026-10-19T14:20:11Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Nvidia's next-generation Rubin AI accelerators are expected to rely predominantly on 12-layer HBM4 high-bandwidth memory, despite reports that the chipmaker has asked Samsung Electronics and SK hynix to increase supplies of 8-layer products. The differing ass…
-- [原文連結](https://www.digitimes.com/news/a20261014VL224/nvidia-hbm4-rubin-hbm-dram.html)
+- **摘要**: Elon Musk says he plans to give one of his SpaceX shares to every child in the US starting next year. With around 72 million children in the US as of July 2025, Musk would be giving away about $10.5 billion worth of shares, according to a report from CNBC. Mu…
+- [原文連結](https://www.theverge.com/tech/1013667/elon-musk-space-x-shares-us-children)
 
 ---
 
