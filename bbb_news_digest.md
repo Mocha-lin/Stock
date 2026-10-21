@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-21T17:42:57.753662+00:00
+> 更新時間：2026-10-21T22:01:20.336354+00:00
 
 ### ⚖️ DIGITIMES Insight: Microsoft Maia 300 leads 2nm race, TSMC's US strategy shifts, Intel EMIB-T faces yield challenge
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -52,15 +52,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Singapore is targeting high-value semiconductor manufacturing, advanced packaging, and silicon photonics, building on its strengths in engineering, precision manufacturing, and reliability, according to Zeng Yi Wong, assistant managing director for manufactur…
 - [原文連結](https://www.digitimes.com/news/a20261012PD215/manufacturing-equipment-packaging-testing-silicon.html)
-
----
-
-### 🚀 Analysis: TSMC-GF deal moves mature nodes into AI packaging: What it means for China
-- **題材**: `半導體先進製程` | **重要性**: `73`
-- **來源**: Digitimes (2026-10-16T03:53:56Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: As global wafer capacity expands rapidly, TSMC and GlobalFoundries (GF) are highlighting a fast-growing market for mature processes serving advanced applications. In particular, demand for silicon interposers, through-silicon vias (TSVs), and embedded deep tr…
-- [原文連結](https://www.digitimes.com/news/a20261016PD220/capacity-globalfoundries-packaging-tsmc-wafer.html)
 
 ---
 
@@ -178,6 +169,15 @@
 - **AI 判讀**: 屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Global oil prices have climbed more than 55% since the outbreak of the Iran war.
 - [原文連結](https://abcnews.com/Business/global-oil-prices-hit-highest-level-5-months/story?id=137408427)
+
+---
+
+### ⚠️ AI Agent Adoption Creates Risk as Oversight Struggles to Keep Pace, Splunk Finds
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: Infosecurity Magazine (2026-10-20T12:05:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Rapid adoption of agentic AI comes with potential business benefits. But if done incorrectly it also carries risks around AI activity management and security
+- [原文連結](https://www.infosecurity-magazine.com/news/ai-agent-adoption-oversight/)
 
 ---
 
