@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-21T01:19:40.988673+00:00
+> 更新時間：2026-10-21T05:33:24.276272+00:00
 
 ### ⚖️ DIGITIMES Insight: Microsoft Maia 300 leads 2nm race, TSMC's US strategy shifts, Intel EMIB-T faces yield challenge
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -16,6 +16,15 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: TSMC Chairman and CEO C.C. Wei announced that, driven by relentless AI momentum and strong demand for advanced process technologies, the company has raised its full-year 2026 US dollar revenue growth guidance to approximately 44%. AI and leading-edge nodes co…
 - [原文連結](https://www.digitimes.com/news/a20261015PD243/tsmc-growth-3nm-2026-fab.html)
+
+---
+
+### ⚖️ Intel says it is the only high-volume fab for 12-inch InP silicon photonics as co-packaged optics nears deployment
+- **題材**: `光通訊與矽光子` | **重要性**: `78`
+- **來源**: Digitimes (2026-10-20T03:40:08Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Intel is pitching its foundry as the industry's supplier of light sources for AI data center optics, claiming at the 2026 Open Compute Project (OCP) Global Summit that it is the only high-volume fab that can deliver 12-inch indium phosphide (InP) silicon phot…
+- [原文連結](https://www.digitimes.com/news/a20261020VL204/intel-12-inch-inp-siph-cpo-ocp.html)
 
 ---
 
@@ -79,6 +88,15 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: GlobalFoundries (GF) and TSMC have reached a manufacturing agreement to establish a US-based supply source for silicon interposers supporting TSMC's CoWoS advanced packaging ecosystem. The US$2 billion, five-year agreement will expand advanced packaging capac…
 - [原文連結](https://www.digitimes.com/news/a20261013PD248/tsmc-globalfoundries-packaging-capacity-silicon.html)
+
+---
+
+### 🚀 How is the US economy really doing under President Trump?
+- **題材**: `總體風險` | **重要性**: `70`
+- **來源**: BBC News (2026-10-20T05:00:45Z)
+- **AI 判讀**: 屬「總體風險」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Ahead of the midterms Trump has boasted about the performance of the US economy. BBC Verify looks at inflation, jobs and economic growth in the country.
+- [原文連結](https://www.bbc.co.uk/news/articles/cv98ze40jz18o)
 
 ---
 
@@ -160,24 +178,6 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Some back-end manufacturing equipment intended for SK Hynix's sixth-generation high-bandwidth memory (HBM4) production may be deferred from the second half of 2026 into 2027, raising questions about the chipmaker's expansion plans as rising conventional DRAM …
 - [原文連結](https://www.digitimes.com/news/a20261014VL213/equipment-hbm4-sk-hynix-2027-investment.html)
-
----
-
-### ⚖️ Inside Prometheus: Meta’s Journey to a Gigawatt-Scale Supercluster
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: Fb.com (2026-10-19T13:00:10Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: With the recent release of the Muse family of foundational models, we want to take you inside the infrastructure that has made it all possible. The first phase of Prometheus, our gigawatt-scale supercluster, is already complete and we’re working toward scalin…
-- [原文連結](https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/)
-
----
-
-### 🚀 Tom Petty Had a Clear Favorite Among His Own Albums
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: Mental Floss (2026-10-19T12:00:00Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: The late musician called this 1994 album “the most me.”
-- [原文連結](https://www.mentalfloss.com/entertainment/music/tom-petty-clear-favorite-album)
 
 ---
 
