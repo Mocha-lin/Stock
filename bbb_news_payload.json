@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-10-21T05:33:24.276272+00:00",
+  "generated_at": "2026-10-21T14:21:32.890382+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 73,
@@ -672,19 +672,57 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "1495b2ff42066087",
+      "id": "d4968f052270e47c",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "Global oil prices hit highest level in 5 months amid attacks on ships, facilities",
+      "summary": "Global oil prices have climbed more than 55% since the outbreak of the Iran war.",
+      "original_title": "Global oil prices hit highest level in 5 months amid attacks on ships, facilities",
+      "url": "https://abcnews.com/Business/global-oil-prices-hit-highest-level-5-months/story?id=137408427",
+      "source": "Abcnews.com",
+      "domain": "abcnews.com",
+      "published_at": "2026-10-20T13:53:03Z",
+      "importance": 60,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "b7853ff52b68981d",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "光通訊與矽光子",
-      "title": "Wiwynn unveils CPO compute system with GUC and Ayar Labs",
-      "summary": "Wiwynn Corporation, CPO solutions provider Ayar Labs and Global Unichip Corp. (GUC) will stage the first live demonstration of an integrated compute system with real-time telemetry monitoring at the 2026 OCP Global Summit, marking a new milestone in their str…",
-      "original_title": "Wiwynn unveils CPO compute system with GUC and Ayar Labs",
-      "url": "https://www.digitimes.com/news/a20261014PD247/cpo-guc-wiwynn-laser.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-10-14T08:38:13Z",
-      "importance": 63,
-      "impact": "neutral",
+      "title": "AI Agent Adoption Creates Risk as Oversight Struggles to Keep Pace, Splunk Finds",
+      "summary": "Rapid adoption of agentic AI comes with potential business benefits. But if done incorrectly it also carries risks around AI activity management and security",
+      "original_title": "AI Agent Adoption Creates Risk as Oversight Struggles to Keep Pace, Splunk Finds",
+      "url": "https://www.infosecurity-magazine.com/news/ai-agent-adoption-oversight/",
+      "source": "Infosecurity Magazine",
+      "domain": "infosecurity-magazine.com",
+      "published_at": "2026-10-20T12:05:00Z",
+      "importance": 60,
+      "impact": "negative",
       "timeframe": "short_term",
       "tags": [
         "光通訊",
@@ -707,42 +745,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "86a1bf340e548504",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "SK Hynix HBM4 equipment installations reportedly face partial deferral to 2027",
-      "summary": "Some back-end manufacturing equipment intended for SK Hynix's sixth-generation high-bandwidth memory (HBM4) production may be deferred from the second half of 2026 into 2027, raising questions about the chipmaker's expansion plans as rising conventional DRAM …",
-      "original_title": "SK Hynix HBM4 equipment installations reportedly face partial deferral to 2027",
-      "url": "https://www.digitimes.com/news/a20261014VL213/equipment-hbm4-sk-hynix-2027-investment.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-10-14T07:25:32Z",
-      "importance": 63,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「光通訊與矽光子」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "3e18b69d6662bcad",
@@ -859,82 +862,6 @@
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "d47d6296e5ca970c",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "Linktel Technologies Highlights Breakthrough 1.6T LPO Performance & Strong Market Pull at OCP 2026",
-      "summary": "SAN JOSE, Calif., Oct. 18, 2026 /PRNewswire/ -- At the recent 2026 OCP Global Summit, Linktel Technologies showcased its cutting-edge optical interconnect portfolios engineered specifically for next-generation AI computing networks. Among the heavy lineup, Li…",
-      "original_title": "Linktel Technologies Highlights Breakthrough 1.6T LPO Performance & Strong Market Pull at OCP 2026",
-      "url": "https://www.prnewswire.com/news-releases/linktel-technologies-highlights-breakthrough-1-6t-lpo-performance--strong-market-pull-at-ocp-2026--302911973.html",
-      "source": "PRNewswire",
-      "domain": "prnewswire.com",
-      "published_at": "2026-10-18T11:53:00Z",
-      "importance": 60,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "b65de32fdaf9c515",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "I made an impulsive decision to quit a great job in Hollywood. It felt like a mistake — but here's what I learned.",
-      "summary": "Peter Csathy made an impulsive decision to leave Hollywood, which led him on a completely different, non-linear entrepreneurial path.",
-      "original_title": "I made an impulsive decision to quit a great job in Hollywood. It felt like a mistake — but here's what I learned.",
-      "url": "https://www.businessinsider.com/quit-hollywood-job-career-mistake-worked-out-risks-reward-2026-10#article",
-      "source": "Business Insider",
-      "domain": "businessinsider.com",
-      "published_at": "2026-10-18T10:00:03Z",
-      "importance": 60,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "886ce3d4a59561a6",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -971,6 +898,44 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "1495b2ff42066087",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "Wiwynn unveils CPO compute system with GUC and Ayar Labs",
+      "summary": "Wiwynn Corporation, CPO solutions provider Ayar Labs and Global Unichip Corp. (GUC) will stage the first live demonstration of an integrated compute system with real-time telemetry monitoring at the 2026 OCP Global Summit, marking a new milestone in their str…",
+      "original_title": "Wiwynn unveils CPO compute system with GUC and Ayar Labs",
+      "url": "https://www.digitimes.com/news/a20261014PD247/cpo-guc-wiwynn-laser.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-10-14T08:38:13Z",
+      "importance": 58,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "01a6ca5ed1f9e403",
@@ -1046,18 +1011,18 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "7f52b769ee7cebf6",
+      "id": "a89e9a3487d6b3c1",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "HBM記憶體",
-      "title": "SK hynix to place custom tiny CPU cores in its SSD controllers to ease Arm load as drive speeds rocket",
-      "summary": "SK hynix detailed H-TPU, tiny in-house cores that offload routine I/O from the Arm CPUs in its next enterprise SSD controllers.",
-      "original_title": "SK hynix to place custom tiny CPU cores in its SSD controllers to ease Arm load as drive speeds rocket",
-      "url": "https://www.tomshardware.com/pc-components/ssds/sk-hynix-to-place-custom-tiny-cpu-cores-in-its-ssd-controllers-to-ease-arm-load-as-drive-speeds-rocket-each-h-tpu-reportedly-draws-2-5-percent-of-a-cpu-cores-power",
-      "source": "Tom's Hardware UK",
-      "domain": "tomshardware.com",
-      "published_at": "2026-10-14T14:00:00Z",
-      "importance": 57,
+      "title": "Samsung signs huge DRAM and HBM contracts",
+      "summary": "Samsung has reportedly signed a massive five-year long-term memory chip deal that will see the majority of its general-purpose DRAM and HBM memory chips go to “global big tech companies”. A new report from Yonhap News suggests that 70% of Samsung’s DRAM suppl…",
+      "original_title": "Samsung signs huge DRAM and HBM contracts",
+      "url": "https://www.gsmarena.com/samsung_signs_huge_dram_and_hbm_contracts-news-75124.php",
+      "source": "GSMArena.com",
+      "domain": "gsmarena.com",
+      "published_at": "2026-10-20T12:28:02Z",
+      "importance": 55,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -1079,6 +1044,44 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "fabd7dc000f2ec9c",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Dell’s Pro Max Tower T2 workstation costs less than the Nvidia Blackwell GPU inside it",
+      "summary": "The Dell Pro Max T2 scored 4.5 stars in our tests. Now you can configure it with an Nvidia RTX Pro Blackwell 6000 that's cheaper than buying the GPU on its own.",
+      "original_title": "Dell’s Pro Max Tower T2 workstation costs less than the Nvidia Blackwell GPU inside it",
+      "url": "https://www.techradar.com/pro/dells-pro-max-tower-t2-workstation-costs-less-than-the-nvidia-blackwell-gpu-inside-it",
+      "source": "TechRadar",
+      "domain": "techradar.com",
+      "published_at": "2026-10-20T11:27:12Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "c780e923684f84bd",
@@ -1341,89 +1344,19 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "607b73214e07718b",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "RepRapMicron",
-      "summary": "μRepRap -  A 3D printer project designed to work at the micron scale - VikOlliver/RepRapMicron",
-      "original_title": "RepRapMicron",
-      "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
-      "source": "Github.com",
-      "domain": "github.com",
-      "published_at": "2026-10-18T13:48:48Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "095756d8f23db3e9",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "Samsung to use TSMC technology for Nvidia's next-generation memory chips, Seoul newspaper reports",
-      "summary": "SEOUL, Oct 18 : Samsung Electronics will use TSMC's 3-nanometre process to produce base dies for Nvidia's next-generation custom high-bandwidth memory (HBM) chips, the Seoul Economic Daily reported on Sunday.The move would mark the first time Samsung has work…",
-      "original_title": "Samsung to use TSMC technology for Nvidia's next-generation memory chips, Seoul newspaper reports",
-      "url": "https://www.channelnewsasia.com/business/samsung-use-tsmc-technology-nvidias-next-generation-memory-chips-seoul-newspaper-reports-6469576",
-      "source": "CNA",
-      "domain": "channelnewsasia.com",
-      "published_at": "2026-10-18T12:08:28Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "62c52b637fb8a9ed",
+      "id": "d47d6296e5ca970c",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "光通訊與矽光子",
-      "title": "Intel Says Silicon Photonics Are The “Golden Hammer” Of Next-Gen Systems As They Are The Only High-Volume Fab Delivering 300mm Indium Phosphide Photonics At Scale",
-      "summary": "Intel has shared its vision of silicon photonics, saying that it is the only volume fab that can provide 300mm InP Silicon at scale to the entire industry. Intel Goes All In On Silicon Photonics With Its Fabs Delivering a 300mm InP Volume Required By Entire I…",
-      "original_title": "Intel Says Silicon Photonics Are The “Golden Hammer” Of Next-Gen Systems As They Are The Only High-Volume Fab Delivering 300mm Indium Phosphide Photonics At Scale",
-      "url": "https://wccftech.com/intel-silicon-photonics-are-the-golden-hammer-of-next-gen-systems/",
-      "source": "Wccftech",
-      "domain": "wccftech.com",
-      "published_at": "2026-10-18T11:25:03Z",
+      "title": "Linktel Technologies Highlights Breakthrough 1.6T LPO Performance & Strong Market Pull at OCP 2026",
+      "summary": "SAN JOSE, Calif., Oct. 18, 2026 /PRNewswire/ -- At the recent 2026 OCP Global Summit, Linktel Technologies showcased its cutting-edge optical interconnect portfolios engineered specifically for next-generation AI computing networks. Among the heavy lineup, Li…",
+      "original_title": "Linktel Technologies Highlights Breakthrough 1.6T LPO Performance & Strong Market Pull at OCP 2026",
+      "url": "https://www.prnewswire.com/news-releases/linktel-technologies-highlights-breakthrough-1-6t-lpo-performance--strong-market-pull-at-ocp-2026--302911973.html",
+      "source": "PRNewswire",
+      "domain": "prnewswire.com",
+      "published_at": "2026-10-18T11:53:00Z",
       "importance": 55,
-      "impact": "neutral",
+      "impact": "positive",
       "timeframe": "short_term",
       "tags": [
         "光通訊",
@@ -1446,22 +1379,22 @@
         "009",
         "010"
       ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "27ac88b90b168266",
+      "id": "b65de32fdaf9c515",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "AI伺服器",
-      "title": "Art of Play Co-Owner Adam Rubin Says Molly’s New Price Is $15 Million, With $1 Million of a Sale Going to Its Maker",
-      "summary": "If someone actually pays $15 million for Molly, the hand-cranked singing bird at the center of Kelly Clarkson‘s feud with Brooklyn’s Art of Play, co-owner Adam Rubin says the money gets split: $1 million to the artist who built her,…",
-      "original_title": "Art of Play Co-Owner Adam Rubin Says Molly’s New Price Is $15 Million, With $1 Million of a Sale Going to Its Maker",
-      "url": "https://thoughtcatalog.com/january-nelson/2026/10/art-of-play-co-owner-adam-rubin-says-mollys-new-price-is-15-million-with-1-million-of-a-sale-going-to-its-maker/",
-      "source": "Thoughtcatalog.com",
-      "domain": "thoughtcatalog.com",
-      "published_at": "2026-10-18T09:20:55Z",
+      "title": "I made an impulsive decision to quit a great job in Hollywood. It felt like a mistake — but here's what I learned.",
+      "summary": "Peter Csathy made an impulsive decision to leave Hollywood, which led him on a completely different, non-linear entrepreneurial path.",
+      "original_title": "I made an impulsive decision to quit a great job in Hollywood. It felt like a mistake — but here's what I learned.",
+      "url": "https://www.businessinsider.com/quit-hollywood-job-career-mistake-worked-out-risks-reward-2026-10#article",
+      "source": "Business Insider",
+      "domain": "businessinsider.com",
+      "published_at": "2026-10-18T10:00:03Z",
       "importance": 55,
-      "impact": "neutral",
+      "impact": "positive",
       "timeframe": "short_term",
       "tags": [
         "AI",
@@ -1484,7 +1417,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "783c73900ccbbb28",
@@ -1523,44 +1456,6 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "1c424220c27dbcc4",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "Wholesale prices soar at fastest pace since 2022",
-      "summary": "An inflation report a day earlier showed accelerating consumer prices.",
-      "original_title": "Wholesale prices soar at fastest pace since 2022",
-      "url": "https://abcnews.com/Business/wholesale-prices-rise-fastest-pace-2022-fuel-costs/story?id=137284717",
-      "source": "Abcnews.com",
-      "domain": "abcnews.com",
-      "published_at": "2026-10-15T15:42:11Z",
-      "importance": 55,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "2a603cb0bd612581",
@@ -1867,79 +1762,6 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "fc7b6cbb651ea97b",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "Elon Musk hints at Samsung charging too much for memory chips",
-      "summary": "Samsung has generated significant profit selling DRAM, high-bandwidth memory (HBM), and NAND flash chips to top AI firms like AMD, Nvidia, and Grok. However, Elon Musk recently hinted that the tech giant might be overcharging for its memory components. Respon…",
-      "original_title": "Elon Musk hints at Samsung charging too much for memory chips",
-      "url": "https://www.sammobile.com/news/elon-musk-samsung-charging-too-much-memory-chips/",
-      "source": "SamMobile",
-      "domain": "sammobile.com",
-      "published_at": "2026-10-14T13:01:12Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "a7a8e68b07046fad",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "Passkey Authentications Double but Adoption Remains Slow",
-      "summary": "Dashlane data finds that passkey adoption is growing but not quickly enough",
-      "original_title": "Passkey Authentications Double but Adoption Remains Slow",
-      "url": "https://www.infosecurity-magazine.com/news/passkey-authentications-double/",
-      "source": "Infosecurity Magazine",
-      "domain": "infosecurity-magazine.com",
-      "published_at": "2026-10-14T10:15:00Z",
-      "importance": 55,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "389214518d957f3c",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1978,17 +1800,160 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "8073809e5bc5171b",
+      "id": "7f52b769ee7cebf6",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "SK hynix to place custom tiny CPU cores in its SSD controllers to ease Arm load as drive speeds rocket",
+      "summary": "SK hynix detailed H-TPU, tiny in-house cores that offload routine I/O from the Arm CPUs in its next enterprise SSD controllers.",
+      "original_title": "SK hynix to place custom tiny CPU cores in its SSD controllers to ease Arm load as drive speeds rocket",
+      "url": "https://www.tomshardware.com/pc-components/ssds/sk-hynix-to-place-custom-tiny-cpu-cores-in-its-ssd-controllers-to-ease-arm-load-as-drive-speeds-rocket-each-h-tpu-reportedly-draws-2-5-percent-of-a-cpu-cores-power",
+      "source": "Tom's Hardware UK",
+      "domain": "tomshardware.com",
+      "published_at": "2026-10-14T14:00:00Z",
+      "importance": 52,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "607b73214e07718b",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "RepRapMicron",
+      "summary": "μRepRap -  A 3D printer project designed to work at the micron scale - VikOlliver/RepRapMicron",
+      "original_title": "RepRapMicron",
+      "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
+      "source": "Github.com",
+      "domain": "github.com",
+      "published_at": "2026-10-18T13:48:48Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "095756d8f23db3e9",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "Samsung to use TSMC technology for Nvidia's next-generation memory chips, Seoul newspaper reports",
+      "summary": "SEOUL, Oct 18 : Samsung Electronics will use TSMC's 3-nanometre process to produce base dies for Nvidia's next-generation custom high-bandwidth memory (HBM) chips, the Seoul Economic Daily reported on Sunday.The move would mark the first time Samsung has work…",
+      "original_title": "Samsung to use TSMC technology for Nvidia's next-generation memory chips, Seoul newspaper reports",
+      "url": "https://www.channelnewsasia.com/business/samsung-use-tsmc-technology-nvidias-next-generation-memory-chips-seoul-newspaper-reports-6469576",
+      "source": "CNA",
+      "domain": "channelnewsasia.com",
+      "published_at": "2026-10-18T12:08:28Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "62c52b637fb8a9ed",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "Intel Says Silicon Photonics Are The “Golden Hammer” Of Next-Gen Systems As They Are The Only High-Volume Fab Delivering 300mm Indium Phosphide Photonics At Scale",
+      "summary": "Intel has shared its vision of silicon photonics, saying that it is the only volume fab that can provide 300mm InP Silicon at scale to the entire industry. Intel Goes All In On Silicon Photonics With Its Fabs Delivering a 300mm InP Volume Required By Entire I…",
+      "original_title": "Intel Says Silicon Photonics Are The “Golden Hammer” Of Next-Gen Systems As They Are The Only High-Volume Fab Delivering 300mm Indium Phosphide Photonics At Scale",
+      "url": "https://wccftech.com/intel-silicon-photonics-are-the-golden-hammer-of-next-gen-systems/",
+      "source": "Wccftech",
+      "domain": "wccftech.com",
+      "published_at": "2026-10-18T11:25:03Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "27ac88b90b168266",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "AI伺服器",
-      "title": "'This computer is going to be incredible': Nvidia CEO Jensen Huang explains why the new Surface Laptop Ultra is \"really a work of love\"",
-      "summary": "It took four years to build, but Jensen Huang has high hopes for the Surface Laptop Ultra.",
-      "original_title": "'This computer is going to be incredible': Nvidia CEO Jensen Huang explains why the new Surface Laptop Ultra is \"really a work of love\"",
-      "url": "https://www.techradar.com/pro/this-computer-is-going-to-be-incredible-nvidia-ceo-jensen-huang-explains-why-the-new-surface-laptop-ultra-is-really-a-work-of-love",
-      "source": "TechRadar",
-      "domain": "techradar.com",
-      "published_at": "2026-10-18T01:05:00Z",
+      "title": "Art of Play Co-Owner Adam Rubin Says Molly’s New Price Is $15 Million, With $1 Million of a Sale Going to Its Maker",
+      "summary": "If someone actually pays $15 million for Molly, the hand-cranked singing bird at the center of Kelly Clarkson‘s feud with Brooklyn’s Art of Play, co-owner Adam Rubin says the money gets split: $1 million to the artist who built her,…",
+      "original_title": "Art of Play Co-Owner Adam Rubin Says Molly’s New Price Is $15 Million, With $1 Million of a Sale Going to Its Maker",
+      "url": "https://thoughtcatalog.com/january-nelson/2026/10/art-of-play-co-owner-adam-rubin-says-mollys-new-price-is-15-million-with-1-million-of-a-sale-going-to-its-maker/",
+      "source": "Thoughtcatalog.com",
+      "domain": "thoughtcatalog.com",
+      "published_at": "2026-10-18T09:20:55Z",
       "importance": 50,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -2624,6 +2589,41 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "fc7b6cbb651ea97b",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "Elon Musk hints at Samsung charging too much for memory chips",
+      "summary": "Samsung has generated significant profit selling DRAM, high-bandwidth memory (HBM), and NAND flash chips to top AI firms like AMD, Nvidia, and Grok. However, Elon Musk recently hinted that the tech giant might be overcharging for its memory components. Respon…",
+      "original_title": "Elon Musk hints at Samsung charging too much for memory chips",
+      "url": "https://www.sammobile.com/news/elon-musk-samsung-charging-too-much-memory-chips/",
+      "source": "SamMobile",
+      "domain": "sammobile.com",
+      "published_at": "2026-10-14T13:01:12Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "525950a820d47eff",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2635,7 +2635,7 @@
       "source": "NPR",
       "domain": "npr.org",
       "published_at": "2026-10-14T13:33:44Z",
-      "importance": 50,
+      "importance": 45,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -2659,7 +2659,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「總體風險」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     },
     {
       "id": "7ea841a418b6a01e",
@@ -2673,7 +2673,7 @@
       "source": "Yahoo Entertainment",
       "domain": "finance.yahoo.com",
       "published_at": "2026-10-14T12:35:58Z",
-      "importance": 50,
+      "importance": 45,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -2697,7 +2697,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「總體風險」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     },
     {
       "id": "7dc218daa3c7d22b",
