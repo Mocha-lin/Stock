@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-22T14:22:27.959168+00:00
+> 更新時間：2026-10-22T17:41:56.388447+00:00
 
 ### 🚀 TSMC and others turn LCD plants into AI assets as LG Innotek weighs acquisition
 - **題材**: `半導體先進製程` | **重要性**: `83`
