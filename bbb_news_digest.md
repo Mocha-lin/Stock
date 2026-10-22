@@ -1,5 +1,14 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-22T01:16:13.867350+00:00
+> 更新時間：2026-10-22T05:37:09.195783+00:00
+
+### 🚀 TSMC and others turn LCD plants into AI assets as LG Innotek weighs acquisition
+- **題材**: `半導體先進製程` | **重要性**: `83`
+- **來源**: Digitimes (2026-10-21T03:45:00Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Growing demand for AI servers, advanced packaging, and data centers is reviving interest in idle LCD plants, with companies acquiring and converting existing sites into semiconductor packaging substrate lines, advanced packaging facilities, and AI computing h…
+- [原文連結](https://www.digitimes.com/news/a20261021PD232/lcd-acquisition-packaging-plant-demand.html)
+
+---
 
 ### ⚖️ DIGITIMES Insight: Microsoft Maia 300 leads 2nm race, TSMC's US strategy shifts, Intel EMIB-T faces yield challenge
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -37,15 +46,6 @@
 
 ---
 
-### 🚀 Samsung, SK Hynix stand to benefit as humanoid robot DRAM demand is forecast to jump 20-fold by 2030
-- **題材**: `HBM記憶體` | **重要性**: `78`
-- **來源**: Digitimes (2026-10-15T01:34:10Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Global DRAM demand for humanoid robots is projected to increase more than 20-fold by 2030 as robot deployments expand and memory capacity per unit doubles, potentially opening a new growth market for Samsung Electronics and SK Hynix beyond high-bandwidth memo…
-- [原文連結](https://www.digitimes.com/news/a20261014VL221/dram-demand-robot-2030-samsung.html)
-
----
-
 ### ⚖️ Exclusive: EnterpriseSG positions Singapore's semiconductor SMEs for bigger roles in global chip supply chains
 - **題材**: `光通訊與矽光子` | **重要性**: `73`
 - **來源**: Digitimes (2026-10-17T18:39:00Z)
@@ -55,30 +55,12 @@
 
 ---
 
-### 🚀 Analysis: TSMC-GF deal moves mature nodes into AI packaging: What it means for China
-- **題材**: `半導體先進製程` | **重要性**: `73`
-- **來源**: Digitimes (2026-10-16T03:53:56Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: As global wafer capacity expands rapidly, TSMC and GlobalFoundries (GF) are highlighting a fast-growing market for mature processes serving advanced applications. In particular, demand for silicon interposers, through-silicon vias (TSVs), and embedded deep tr…
-- [原文連結](https://www.digitimes.com/news/a20261016PD220/capacity-globalfoundries-packaging-tsmc-wafer.html)
-
----
-
-### ⚖️ Micron opens second Taiwan advanced packaging plant as HBM supply tightens
+### 🚀 Samsung, SK Hynix stand to benefit as humanoid robot DRAM demand is forecast to jump 20-fold by 2030
 - **題材**: `HBM記憶體` | **重要性**: `73`
-- **來源**: Digitimes (2026-10-15T04:57:23Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Micron Technology on October 15 opened Micron Advanced Assembly and Test Taiwan 2 (AATT2) in Taichung, its second advanced assembly and test facility in Taiwan. The plant expands the company's packaging and testing capacity for high-bandwidth memory (HBM) as …
-- [原文連結](https://www.digitimes.com/news/a20261015VL216/micron-taiwan-hbm-packaging-plant.html)
-
----
-
-### ⚖️ Analysis: GlobalFoundries' calculus behind US$2 billion entry into TSMC's CoWoS ecosystem
-- **題材**: `半導體先進製程` | **重要性**: `73`
-- **來源**: Digitimes (2026-10-15T04:00:19Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: GlobalFoundries (GF) has reached a multiyear manufacturing agreement with TSMC to expand silicon interposer capacity at its Malta fab in New York, supplying TSMC's Chip-on-Wafer-on-Substrate (CoWoS) advanced-packaging ecosystem. The agreement is expected to b…
-- [原文連結](https://www.digitimes.com/news/a20261015PD220/tsmc-globalfoundries-cowos-manufacturing-silicon.html)
+- **來源**: Digitimes (2026-10-15T01:34:10Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Global DRAM demand for humanoid robots is projected to increase more than 20-fold by 2030 as robot deployments expand and memory capacity per unit doubles, potentially opening a new growth market for Samsung Electronics and SK Hynix beyond high-bandwidth memo…
+- [原文連結](https://www.digitimes.com/news/a20261014VL221/dram-demand-robot-2030-samsung.html)
 
 ---
 
@@ -127,6 +109,24 @@
 
 ---
 
+### ⚖️ Micron opens second Taiwan advanced packaging plant as HBM supply tightens
+- **題材**: `HBM記憶體` | **重要性**: `68`
+- **來源**: Digitimes (2026-10-15T04:57:23Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Micron Technology on October 15 opened Micron Advanced Assembly and Test Taiwan 2 (AATT2) in Taichung, its second advanced assembly and test facility in Taiwan. The plant expands the company's packaging and testing capacity for high-bandwidth memory (HBM) as …
+- [原文連結](https://www.digitimes.com/news/a20261015VL216/micron-taiwan-hbm-packaging-plant.html)
+
+---
+
+### ⚖️ Analysis: GlobalFoundries' calculus behind US$2 billion entry into TSMC's CoWoS ecosystem
+- **題材**: `半導體先進製程` | **重要性**: `68`
+- **來源**: Digitimes (2026-10-15T04:00:19Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: GlobalFoundries (GF) has reached a multiyear manufacturing agreement with TSMC to expand silicon interposer capacity at its Malta fab in New York, supplying TSMC's Chip-on-Wafer-on-Substrate (CoWoS) advanced-packaging ecosystem. The agreement is expected to b…
+- [原文連結](https://www.digitimes.com/news/a20261015PD220/tsmc-globalfoundries-cowos-manufacturing-silicon.html)
+
+---
+
 ### ⚖️ Taiwan raising $4 billion to build industrial park in Texas to support US chipmaking supply chain
 - **題材**: `半導體先進製程` | **重要性**: `67`
 - **來源**: Tom's Hardware UK (2026-10-16T11:57:18Z)
@@ -145,12 +145,12 @@
 
 ---
 
-### ⚖️ Nvidia's Rubin expected to use mostly 12-layer HBM4 despite reported 8-layer shift
-- **題材**: `HBM記憶體` | **重要性**: `63`
-- **來源**: Digitimes (2026-10-15T01:32:09Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Nvidia's next-generation Rubin AI accelerators are expected to rely predominantly on 12-layer HBM4 high-bandwidth memory, despite reports that the chipmaker has asked Samsung Electronics and SK hynix to increase supplies of 8-layer products. The differing ass…
-- [原文連結](https://www.digitimes.com/news/a20261014VL224/nvidia-hbm4-rubin-hbm-dram.html)
+### ⚠️ Ken Griffin calls Trump’s tariffs on US allies 'a disaster' and predicts it will hurt Republicans in the midterms
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Business Insider (2026-10-21T04:01:01Z)
+- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Citadel's Ken Griffin called Trump's tariffs "pro-inflation" and predicts that Republicans would lose at least one chamber in the midterms.
+- [原文連結](https://www.businessinsider.com/ken-griffin-citadel-calls-trumps-tariffs-us-allies-a-disaster-2026-10#article)
 
 ---
 

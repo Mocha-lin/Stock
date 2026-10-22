@@ -1,10 +1,48 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-10-22T01:16:13.867350+00:00",
+  "generated_at": "2026-10-22T05:37:09.195783+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 73,
   "items": [
+    {
+      "id": "9b464336ce8ca52c",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "TSMC and others turn LCD plants into AI assets as LG Innotek weighs acquisition",
+      "summary": "Growing demand for AI servers, advanced packaging, and data centers is reviving interest in idle LCD plants, with companies acquiring and converting existing sites into semiconductor packaging substrate lines, advanced packaging facilities, and AI computing h…",
+      "original_title": "TSMC and others turn LCD plants into AI assets as LG Innotek weighs acquisition",
+      "url": "https://www.digitimes.com/news/a20261021PD232/lcd-acquisition-packaging-plant-demand.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-10-21T03:45:00Z",
+      "importance": 83,
+      "impact": "positive",
+      "timeframe": "short_to_mid_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
     {
       "id": "7790dc10a03a9d3a",
       "dataset": "market_news",
@@ -158,41 +196,6 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
-      "id": "3a0895289231e4b6",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "Samsung, SK Hynix stand to benefit as humanoid robot DRAM demand is forecast to jump 20-fold by 2030",
-      "summary": "Global DRAM demand for humanoid robots is projected to increase more than 20-fold by 2030 as robot deployments expand and memory capacity per unit doubles, potentially opening a new growth market for Samsung Electronics and SK Hynix beyond high-bandwidth memo…",
-      "original_title": "Samsung, SK Hynix stand to benefit as humanoid robot DRAM demand is forecast to jump 20-fold by 2030",
-      "url": "https://www.digitimes.com/news/a20261014VL221/dram-demand-robot-2030-samsung.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-10-15T01:34:10Z",
-      "importance": 78,
-      "impact": "positive",
-      "timeframe": "short_to_mid_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
       "id": "70126763087aaf75",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -231,57 +234,19 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
-      "id": "f3273fcf95a98ad6",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "Analysis: TSMC-GF deal moves mature nodes into AI packaging: What it means for China",
-      "summary": "As global wafer capacity expands rapidly, TSMC and GlobalFoundries (GF) are highlighting a fast-growing market for mature processes serving advanced applications. In particular, demand for silicon interposers, through-silicon vias (TSVs), and embedded deep tr…",
-      "original_title": "Analysis: TSMC-GF deal moves mature nodes into AI packaging: What it means for China",
-      "url": "https://www.digitimes.com/news/a20261016PD220/capacity-globalfoundries-packaging-tsmc-wafer.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-10-16T03:53:56Z",
-      "importance": 73,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
-      "id": "644e11a68be57fe8",
+      "id": "3a0895289231e4b6",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "HBM記憶體",
-      "title": "Micron opens second Taiwan advanced packaging plant as HBM supply tightens",
-      "summary": "Micron Technology on October 15 opened Micron Advanced Assembly and Test Taiwan 2 (AATT2) in Taichung, its second advanced assembly and test facility in Taiwan. The plant expands the company's packaging and testing capacity for high-bandwidth memory (HBM) as …",
-      "original_title": "Micron opens second Taiwan advanced packaging plant as HBM supply tightens",
-      "url": "https://www.digitimes.com/news/a20261015VL216/micron-taiwan-hbm-packaging-plant.html",
+      "title": "Samsung, SK Hynix stand to benefit as humanoid robot DRAM demand is forecast to jump 20-fold by 2030",
+      "summary": "Global DRAM demand for humanoid robots is projected to increase more than 20-fold by 2030 as robot deployments expand and memory capacity per unit doubles, potentially opening a new growth market for Samsung Electronics and SK Hynix beyond high-bandwidth memo…",
+      "original_title": "Samsung, SK Hynix stand to benefit as humanoid robot DRAM demand is forecast to jump 20-fold by 2030",
+      "url": "https://www.digitimes.com/news/a20261014VL221/dram-demand-robot-2030-samsung.html",
       "source": "Digitimes",
       "domain": "digitimes.com",
-      "published_at": "2026-10-15T04:57:23Z",
+      "published_at": "2026-10-15T01:34:10Z",
       "importance": 73,
-      "impact": "neutral",
+      "impact": "positive",
       "timeframe": "short_term",
       "tags": [
         "HBM",
@@ -301,45 +266,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
-      "id": "b9afb0a96b74b56b",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "Analysis: GlobalFoundries' calculus behind US$2 billion entry into TSMC's CoWoS ecosystem",
-      "summary": "GlobalFoundries (GF) has reached a multiyear manufacturing agreement with TSMC to expand silicon interposer capacity at its Malta fab in New York, supplying TSMC's Chip-on-Wafer-on-Substrate (CoWoS) advanced-packaging ecosystem. The agreement is expected to b…",
-      "original_title": "Analysis: GlobalFoundries' calculus behind US$2 billion entry into TSMC's CoWoS ecosystem",
-      "url": "https://www.digitimes.com/news/a20261015PD220/tsmc-globalfoundries-cowos-manufacturing-silicon.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-10-15T04:00:19Z",
-      "importance": 73,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
+      "reason": "屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "79b488e849d50b0b",
@@ -529,6 +456,79 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "644e11a68be57fe8",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "Micron opens second Taiwan advanced packaging plant as HBM supply tightens",
+      "summary": "Micron Technology on October 15 opened Micron Advanced Assembly and Test Taiwan 2 (AATT2) in Taichung, its second advanced assembly and test facility in Taiwan. The plant expands the company's packaging and testing capacity for high-bandwidth memory (HBM) as …",
+      "original_title": "Micron opens second Taiwan advanced packaging plant as HBM supply tightens",
+      "url": "https://www.digitimes.com/news/a20261015VL216/micron-taiwan-hbm-packaging-plant.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-10-15T04:57:23Z",
+      "importance": 68,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "b9afb0a96b74b56b",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "Analysis: GlobalFoundries' calculus behind US$2 billion entry into TSMC's CoWoS ecosystem",
+      "summary": "GlobalFoundries (GF) has reached a multiyear manufacturing agreement with TSMC to expand silicon interposer capacity at its Malta fab in New York, supplying TSMC's Chip-on-Wafer-on-Substrate (CoWoS) advanced-packaging ecosystem. The agreement is expected to b…",
+      "original_title": "Analysis: GlobalFoundries' calculus behind US$2 billion entry into TSMC's CoWoS ecosystem",
+      "url": "https://www.digitimes.com/news/a20261015PD220/tsmc-globalfoundries-cowos-manufacturing-silicon.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-10-15T04:00:19Z",
+      "importance": 68,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "3255479a7afd8fb1",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -602,29 +602,32 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "d437d215dff4992f",
+      "id": "95fd0377d3b732b3",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "Nvidia's Rubin expected to use mostly 12-layer HBM4 despite reported 8-layer shift",
-      "summary": "Nvidia's next-generation Rubin AI accelerators are expected to rely predominantly on 12-layer HBM4 high-bandwidth memory, despite reports that the chipmaker has asked Samsung Electronics and SK hynix to increase supplies of 8-layer products. The differing ass…",
-      "original_title": "Nvidia's Rubin expected to use mostly 12-layer HBM4 despite reported 8-layer shift",
-      "url": "https://www.digitimes.com/news/a20261014VL224/nvidia-hbm4-rubin-hbm-dram.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-10-15T01:32:09Z",
-      "importance": 63,
-      "impact": "neutral",
+      "theme": "總體風險",
+      "title": "Ken Griffin calls Trump’s tariffs on US allies 'a disaster' and predicts it will hurt Republicans in the midterms",
+      "summary": "Citadel's Ken Griffin called Trump's tariffs \"pro-inflation\" and predicts that Republicans would lose at least one chamber in the midterms.",
+      "original_title": "Ken Griffin calls Trump’s tariffs on US allies 'a disaster' and predicts it will hurt Republicans in the midterms",
+      "url": "https://www.businessinsider.com/ken-griffin-citadel-calls-trumps-tariffs-us-allies-a-disaster-2026-10#article",
+      "source": "Business Insider",
+      "domain": "businessinsider.com",
+      "published_at": "2026-10-21T04:01:01Z",
+      "importance": 60,
+      "impact": "negative",
       "timeframe": "short_term",
       "tags": [
-        "HBM",
-        "記憶體"
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
       ],
       "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
       ],
       "related_models": [
         "003",
@@ -634,7 +637,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "b94c699c01ca80c3",
@@ -1014,6 +1017,41 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "d437d215dff4992f",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "Nvidia's Rubin expected to use mostly 12-layer HBM4 despite reported 8-layer shift",
+      "summary": "Nvidia's next-generation Rubin AI accelerators are expected to rely predominantly on 12-layer HBM4 high-bandwidth memory, despite reports that the chipmaker has asked Samsung Electronics and SK hynix to increase supplies of 8-layer products. The differing ass…",
+      "original_title": "Nvidia's Rubin expected to use mostly 12-layer HBM4 despite reported 8-layer shift",
+      "url": "https://www.digitimes.com/news/a20261014VL224/nvidia-hbm4-rubin-hbm-dram.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-10-15T01:32:09Z",
+      "importance": 58,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "01a6ca5ed1f9e403",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1026,6 +1064,79 @@
       "domain": "tomshardware.com",
       "published_at": "2026-10-15T17:40:09Z",
       "importance": 57,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "01e0bcea3b6dd7ef",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "iPhone Duo Is Delightful, and Different",
+      "summary": "A passport-sized iPhone opens into a 7.6-inch canvas and, unexpectedly, hands back a measure of attention After a week with iPhone Duo, I’m pleased that Apple‘s first foldable can work as both …",
+      "original_title": "iPhone Duo Is Delightful, and Different",
+      "url": "http://coolhunting.com/tech/iphone-duo-is-delightful-and-different/",
+      "source": "Cool Hunting",
+      "domain": "coolhunting.com",
+      "published_at": "2026-10-21T03:35:26Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "3ff570b4820e64c2",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "Using Ultrasound and Microbubbles to Make Tiny Devices",
+      "summary": "Although we generally do not look at bubbles in fluids as more than a curiosity – if not an outright annoyance – in certain contexts they can be very useful. If you can namely control t…",
+      "original_title": "Using Ultrasound and Microbubbles to Make Tiny Devices",
+      "url": "https://hackaday.com/2026/10/20/using-ultrasound-and-microbubbles-to-make-tiny-devices/",
+      "source": "Hackaday",
+      "domain": "hackaday.com",
+      "published_at": "2026-10-21T02:00:33Z",
+      "importance": 55,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -1271,44 +1382,6 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "b439587624334bcc",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Meta Prometheus: Inside the Gigawatt Supercluster Scaling to 1 Million GPUs on GB200 and GB300 NVL72",
-      "summary": "Meta published a detailed look inside Prometheus today, the gigawatt-scale AI supercluster it is building in New Albany, Ohio. The first phase is complete and has trained the Muse family of foundation models, including the Muse Wonder models, and Meta says th…",
-      "original_title": "Meta Prometheus: Inside the Gigawatt Supercluster Scaling to 1 Million GPUs on GB200 and GB300 NVL72",
-      "url": "https://www.storagereview.com/news/meta-prometheus-gigawatt-supercluster-1-million-gpus-gb200-gb300-nvl72",
-      "source": "Storagereview.com",
-      "domain": "storagereview.com",
-      "published_at": "2026-10-19T16:17:27Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "c927e0ebaa519f88",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1421,41 +1494,6 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "aa8a68a441154053",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "Nvidia Tells Suppliers to Tap TSMC Process for Next-Generation Memory Chips",
-      "summary": "",
-      "original_title": "Nvidia Tells Suppliers to Tap TSMC Process for Next-Generation Memory Chips",
-      "url": "https://www.theinformation.com/briefings/nvidia-tells-suppliers-tap-tsmc-process-next-generation-memory-chips",
-      "source": "The Information",
-      "domain": "theinformation.com",
-      "published_at": "2026-10-19T04:55:18Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "d47d6296e5ca970c",
@@ -1572,44 +1610,6 @@
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "d57120ff6ab16573",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "U.S. deficit nears $2 trillion as government spending keeps climbing",
-      "summary": "The US federal budget deficit for 2026 officially came in Friday at $1.992 trillion, a final tabulation to close out the government's fiscal year and another reminder of Washington's spiraling reliance on red ink.This deficit number represents about 6% of the…",
-      "original_title": "U.S. deficit nears $2 trillion as government spending keeps climbing",
-      "url": "https://finance.yahoo.com/economy/policy/article/the-us-federal-budget-deficit-for-2026-just-came-in-its-1992-trillion-191917669.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-10-16T19:19:17Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "8061f98be9ba4e40",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1646,41 +1646,6 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "fff4493dfa10d448",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "WaPo: Apple revealed as one of the top donors to Trump’s White House ballroom",
-      "summary": "A new investigation by The Washington Post reveals that Apple and Nvidia each pledged $25 million toward Trump’s new White House ballroom, making them two of the project’s largest donors. Here are the details.\n\n\n\n more…",
-      "original_title": "WaPo: Apple revealed as one of the top donors to Trump’s White House ballroom",
-      "url": "https://9to5mac.com/2026/10/15/wapo-apple-revealed-as-one-of-the-top-donors-to-trumps-white-house-ballroom/",
-      "source": "9to5Mac",
-      "domain": "9to5mac.com",
-      "published_at": "2026-10-15T21:22:49Z",
-      "importance": 55,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "1c424220c27dbcc4",
@@ -1947,6 +1912,41 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "aa8a68a441154053",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "Nvidia Tells Suppliers to Tap TSMC Process for Next-Generation Memory Chips",
+      "summary": "",
+      "original_title": "Nvidia Tells Suppliers to Tap TSMC Process for Next-Generation Memory Chips",
+      "url": "https://www.theinformation.com/briefings/nvidia-tells-suppliers-tap-tsmc-process-next-generation-memory-chips",
+      "source": "The Information",
+      "domain": "theinformation.com",
+      "published_at": "2026-10-19T04:55:18Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "16d8a24ff8d0e033",
