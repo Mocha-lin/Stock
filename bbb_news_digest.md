@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-22T17:41:56.388447+00:00
+> 更新時間：2026-10-22T21:57:39.659047+00:00
 
 ### 🚀 TSMC and others turn LCD plants into AI assets as LG Innotek weighs acquisition
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -28,15 +28,6 @@
 
 ---
 
-### ⚖️ TSMC details pricing, confirms agentic AI boosts CPU demand
-- **題材**: `半導體先進製程` | **重要性**: `78`
-- **來源**: Digitimes (2026-10-16T02:07:43Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: TSMC addressed pricing adjustments, CPUs, and advanced packaging at its earnings briefing on October 15, 2026, confirming that demand for CPUs related to agentic AI continues to rise as overall AI demand remains strong.
-- [原文連結](https://www.digitimes.com/news/a20261016PD219/tsmc-demand-cpu-packaging-capacity.html)
-
----
-
 ### 🚀 TSMC investor conference: TSMC lifts 2026 revenue growth forecast to 44%, 2nm expansion, new 3nm fab
 - **題材**: `半導體先進製程` | **重要性**: `78`
 - **來源**: Digitimes (2026-10-15T09:15:13Z)
@@ -61,6 +52,15 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Global DRAM demand for humanoid robots is projected to increase more than 20-fold by 2030 as robot deployments expand and memory capacity per unit doubles, potentially opening a new growth market for Samsung Electronics and SK Hynix beyond high-bandwidth memo…
 - [原文連結](https://www.digitimes.com/news/a20261014VL221/dram-demand-robot-2030-samsung.html)
+
+---
+
+### ⚖️ Intel installs production tools at Fab 62 in Arizona, provides updates on Ohio chip fab
+- **題材**: `半導體先進製程` | **重要性**: `72`
+- **來源**: Tom's Hardware UK (2026-10-21T19:35:53Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Intel makes progress on its manufacturing expansion in Arizona and Ohio as it continues to expand advanced semiconductor manufacturing capacity in the U.S.
+- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/intel-installs-production-tools-at-fab-62-in-arizona-provides-updates-on-ohio-chip-fab-confirms-high-na-euv-for-high-volume-manufacturing-in-2028)
 
 ---
 
