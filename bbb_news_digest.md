@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-21T22:01:20.336354+00:00
+> 更新時間：2026-10-22T01:16:13.867350+00:00
 
 ### ⚖️ DIGITIMES Insight: Microsoft Maia 300 leads 2nm race, TSMC's US strategy shifts, Intel EMIB-T faces yield challenge
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -55,6 +55,15 @@
 
 ---
 
+### 🚀 Analysis: TSMC-GF deal moves mature nodes into AI packaging: What it means for China
+- **題材**: `半導體先進製程` | **重要性**: `73`
+- **來源**: Digitimes (2026-10-16T03:53:56Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: As global wafer capacity expands rapidly, TSMC and GlobalFoundries (GF) are highlighting a fast-growing market for mature processes serving advanced applications. In particular, demand for silicon interposers, through-silicon vias (TSVs), and embedded deep tr…
+- [原文連結](https://www.digitimes.com/news/a20261016PD220/capacity-globalfoundries-packaging-tsmc-wafer.html)
+
+---
+
 ### ⚖️ Micron opens second Taiwan advanced packaging plant as HBM supply tightens
 - **題材**: `HBM記憶體` | **重要性**: `73`
 - **來源**: Digitimes (2026-10-15T04:57:23Z)
@@ -70,15 +79,6 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: GlobalFoundries (GF) has reached a multiyear manufacturing agreement with TSMC to expand silicon interposer capacity at its Malta fab in New York, supplying TSMC's Chip-on-Wafer-on-Substrate (CoWoS) advanced-packaging ecosystem. The agreement is expected to b…
 - [原文連結](https://www.digitimes.com/news/a20261015PD220/tsmc-globalfoundries-cowos-manufacturing-silicon.html)
-
----
-
-### ⚖️ TSMC-GF interposer deal reshapes US AI supply chain, from CoWoS to HBM
-- **題材**: `半導體先進製程` | **重要性**: `73`
-- **來源**: Digitimes (2026-10-14T00:51:56Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: GlobalFoundries (GF) and TSMC have reached a manufacturing agreement to establish a US-based supply source for silicon interposers supporting TSMC's CoWoS advanced packaging ecosystem. The US$2 billion, five-year agreement will expand advanced packaging capac…
-- [原文連結](https://www.digitimes.com/news/a20261013PD248/tsmc-globalfoundries-packaging-capacity-silicon.html)
 
 ---
 
@@ -127,15 +127,6 @@
 
 ---
 
-### ⚖️ SK Hynix, Micron confront AI memory bottlenecks with HBM standardization, chip integration
-- **題材**: `HBM記憶體` | **重要性**: `68`
-- **來源**: Digitimes (2026-10-14T01:09:30Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: AI infrastructure expansion is shifting semiconductor competition beyond individual chip performance towards memory bandwidth, data-transfer power consumption, transistor scaling, chip interconnects, and system integration through advanced packaging.
-- [原文連結](https://www.digitimes.com/news/a20261013PD239/hbm-micron-development-infrastructure-expansion.html)
-
----
-
 ### ⚖️ Taiwan raising $4 billion to build industrial park in Texas to support US chipmaking supply chain
 - **題材**: `半導體先進製程` | **重要性**: `67`
 - **來源**: Tom's Hardware UK (2026-10-16T11:57:18Z)
@@ -163,6 +154,15 @@
 
 ---
 
+### 🚀 Retirees are getting a 3.6% raise in Social Security. People staying in their jobs are getting only 3.4%.
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Business Insider (2026-10-20T15:30:10Z)
+- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Social Security beneficiaries, including retirees, are getting a 3.6% raise in 2027. Recent wage growth for job stayers was less than that.
+- [原文連結](https://www.businessinsider.com/retirees-social-security-cola-increase-job-stayers-workers-wage-growth-2026-10#article)
+
+---
+
 ### ⚖️ Global oil prices hit highest level in 5 months amid attacks on ships, facilities
 - **題材**: `總體風險` | **重要性**: `60`
 - **來源**: Abcnews.com (2026-10-20T13:53:03Z)
@@ -172,12 +172,12 @@
 
 ---
 
-### ⚠️ AI Agent Adoption Creates Risk as Oversight Struggles to Keep Pace, Splunk Finds
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: Infosecurity Magazine (2026-10-20T12:05:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Rapid adoption of agentic AI comes with potential business benefits. But if done incorrectly it also carries risks around AI activity management and security
-- [原文連結](https://www.infosecurity-magazine.com/news/ai-agent-adoption-oversight/)
+### ⚖️ Why Rubio is visiting Reliance’s oil refinery in India, the world’s largest
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Al Jazeera English (2026-10-20T12:37:06Z)
+- **AI 判讀**: 屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Reliance is central to Washington’s efforts to punish Russian energy buyers and contain oil prices amid the war on Iran.
+- [原文連結](https://www.aljazeera.com/news/2026/10/20/why-rubio-is-visiting-reliances-oil-refinery-in-india-the-worlds-largest)
 
 ---
 
