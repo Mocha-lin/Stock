@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-10-23T17:32:10.311142+00:00",
+  "generated_at": "2026-10-23T21:44:16.209186+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 73,
@@ -567,6 +567,44 @@
       "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "9587e1ccc1efa72c",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "PC shipments dropped over 20 percent in Q3 due to RAM price hikes",
+      "summary": "Demand for new PCs took a hit after months of price hikes, with Counterpoint Research reporting global PC shipments fell 21 percent year-over-year in Q3 2026. That's in line with earlier reports from IDC and Omdia. It's not just PCs, either - that same quarte…",
+      "original_title": "PC shipments dropped over 20 percent in Q3 due to RAM price hikes",
+      "url": "https://www.theverge.com/gadgets/1017144/global-pc-shipments-dropped-q3-2026-ram",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "published_at": "2026-10-22T21:30:39Z",
+      "importance": 63,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "a8dbb4108bc07f2c",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -676,6 +714,44 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "a95232bca6937860",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Meta's massive deal for Zuckerberg proves execs aren't exempt from IRL work",
+      "summary": "The tech giant's effort to dissuade its CEO from relocating reflects a common belief that the best work happens when everyone is together in person.",
+      "original_title": "Meta's massive deal for Zuckerberg proves execs aren't exempt from IRL work",
+      "url": "https://www.businessinsider.com/meta-board-zuckerberg-california-office-rto-2026-10#article",
+      "source": "Business Insider",
+      "domain": "businessinsider.com",
+      "published_at": "2026-10-22T21:30:32Z",
+      "importance": 60,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "93d5dfc793519099",
@@ -1274,44 +1350,6 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "b9aa65931653b987",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "iPad Mini 8 Expected Next Week With These 10 New Features",
-      "summary": "Apple reportedly plans to unveil an iPad mini 8 with an OLED display next week, with those invited to Apple's Los Angeles experience on Wednesday, October 28 expected to receive hands-on time with the device, alongside MacBook Pro models with touch-enabled OL…",
-      "original_title": "iPad Mini 8 Expected Next Week With These 10 New Features",
-      "url": "https://www.macrumors.com/2026/10/20/ipad-mini-8-10-rumored-features/",
-      "source": "MacRumors",
-      "domain": "macrumors.com",
-      "published_at": "2026-10-20T20:19:56Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "b94c699c01ca80c3",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1497,44 +1535,6 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "3e18b69d6662bcad",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Inside Prometheus: Meta’s Journey to a Gigawatt-Scale Supercluster",
-      "summary": "With the recent release of the Muse family of foundational models, we want to take you inside the infrastructure that has made it all possible. The first phase of Prometheus, our gigawatt-scale supercluster, is already complete and we’re working toward scalin…",
-      "original_title": "Inside Prometheus: Meta’s Journey to a Gigawatt-Scale Supercluster",
-      "url": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/",
-      "source": "Fb.com",
-      "domain": "engineering.fb.com",
-      "published_at": "2026-10-19T13:00:10Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "43b61882f4b899ae",
@@ -1727,44 +1727,6 @@
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "d57120ff6ab16573",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "U.S. deficit nears $2 trillion as government spending keeps climbing",
-      "summary": "The US federal budget deficit for 2026 officially came in Friday at $1.992 trillion, a final tabulation to close out the government's fiscal year and another reminder of Washington's spiraling reliance on red ink.This deficit number represents about 6% of the…",
-      "original_title": "U.S. deficit nears $2 trillion as government spending keeps climbing",
-      "url": "https://finance.yahoo.com/economy/policy/article/the-us-federal-budget-deficit-for-2026-just-came-in-its-1992-trillion-191917669.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-10-16T19:19:17Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "886ce3d4a59561a6",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1801,6 +1763,44 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "b9aa65931653b987",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "iPad Mini 8 Expected Next Week With These 10 New Features",
+      "summary": "Apple reportedly plans to unveil an iPad mini 8 with an OLED display next week, with those invited to Apple's Los Angeles experience on Wednesday, October 28 expected to receive hands-on time with the device, alongside MacBook Pro models with touch-enabled OL…",
+      "original_title": "iPad Mini 8 Expected Next Week With These 10 New Features",
+      "url": "https://www.macrumors.com/2026/10/20/ipad-mini-8-10-rumored-features/",
+      "source": "MacRumors",
+      "domain": "macrumors.com",
+      "published_at": "2026-10-20T20:19:56Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "a89e9a3487d6b3c1",
@@ -2510,32 +2510,32 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "4120d9875763279b",
+      "id": "d57120ff6ab16573",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "Overheating issues may force Galaxy S27 Ultra to switch from Snapdragon to Exynos",
-      "summary": "The Galaxy S27 Ultra is reportedly overheating severely in tests with Qualcomm's Extreme Snapdragon chip. If unfixed, Samsung could be faced with an important decision.",
-      "original_title": "Overheating issues may force Galaxy S27 Ultra to switch from Snapdragon to Exynos",
-      "url": "https://www.androidcentral.com/phones/samsung-galaxy/overheating-issues-may-force-galaxy-s27-ultra-to-switch-from-snapdragon-to-exynos",
-      "source": "Android Central",
-      "domain": "androidcentral.com",
-      "published_at": "2026-10-16T17:35:05Z",
+      "theme": "總體風險",
+      "title": "U.S. deficit nears $2 trillion as government spending keeps climbing",
+      "summary": "The US federal budget deficit for 2026 officially came in Friday at $1.992 trillion, a final tabulation to close out the government's fiscal year and another reminder of Washington's spiraling reliance on red ink.This deficit number represents about 6% of the…",
+      "original_title": "U.S. deficit nears $2 trillion as government spending keeps climbing",
+      "url": "https://finance.yahoo.com/economy/policy/article/the-us-federal-budget-deficit-for-2026-just-came-in-its-1992-trillion-191917669.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-10-16T19:19:17Z",
       "importance": 50,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
       ],
       "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
       ],
       "related_models": [
         "003",
@@ -2545,7 +2545,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "a4caa70c6c1a34d4",
@@ -2624,6 +2624,44 @@
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "4120d9875763279b",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "Overheating issues may force Galaxy S27 Ultra to switch from Snapdragon to Exynos",
+      "summary": "The Galaxy S27 Ultra is reportedly overheating severely in tests with Qualcomm's Extreme Snapdragon chip. If unfixed, Samsung could be faced with an important decision.",
+      "original_title": "Overheating issues may force Galaxy S27 Ultra to switch from Snapdragon to Exynos",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/overheating-issues-may-force-galaxy-s27-ultra-to-switch-from-snapdragon-to-exynos",
+      "source": "Android Central",
+      "domain": "androidcentral.com",
+      "published_at": "2026-10-16T17:35:05Z",
+      "importance": 45,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
+    },
+    {
       "id": "adbde8d5b33bf5ca",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2698,44 +2736,6 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "4aa01e7bce8a8b35",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "Middle-income Americans are feeling the squeeze",
-      "summary": "A Pew Research Center survey showed that some Americans are cutting back on spending on extras and don't have months of rainy-day funds.",
-      "original_title": "Middle-income Americans are feeling the squeeze",
-      "url": "https://www.businessinsider.com/middle-income-americans-are-feeling-the-squeeze-2026-10#article",
-      "source": "Business Insider",
-      "domain": "businessinsider.com",
-      "published_at": "2026-10-16T09:00:01Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     }
   ]
 }
