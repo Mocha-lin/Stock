@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-23T05:34:49.065913+00:00
+> 更新時間：2026-10-23T14:04:44.731578+00:00
 
 ### ⚖️ 2nm and CoWoS expansion lifts Chi Yi Hsin Technology backlog to NT$4.5B
 - **題材**: `半導體先進製程` | **重要性**: `88`
@@ -91,30 +91,12 @@
 
 ---
 
-### 🚀 Samsung, SK Hynix aim to ease AI memory bottlenecks with zHBM, HBF
-- **題材**: `HBM記憶體` | **重要性**: `68`
-- **來源**: Digitimes (2026-10-16T06:57:00Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Samsung Electronics and SK Hynix are developing new memory technologies to address growing bottlenecks in AI systems, with Samsung exploring a design that stacks high-bandwidth memory (HBM) directly above graphics processors and SK Hynix advancing high-bandwi…
-- [原文連結](https://www.digitimes.com/news/a20261016PD214/samsung-sk-hynix-hbm-data-capacity.html)
-
----
-
 ### 🚀 Analysis: TSMC-GF deal moves mature nodes into AI packaging: What it means for China
 - **題材**: `半導體先進製程` | **重要性**: `68`
 - **來源**: Digitimes (2026-10-16T03:53:56Z)
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: As global wafer capacity expands rapidly, TSMC and GlobalFoundries (GF) are highlighting a fast-growing market for mature processes serving advanced applications. In particular, demand for silicon interposers, through-silicon vias (TSVs), and embedded deep tr…
 - [原文連結](https://www.digitimes.com/news/a20261016PD220/capacity-globalfoundries-packaging-tsmc-wafer.html)
-
----
-
-### ⚖️ Taiwan raising $4 billion to build industrial park in Texas to support US chipmaking supply chain
-- **題材**: `半導體先進製程` | **重要性**: `67`
-- **來源**: Tom's Hardware UK (2026-10-16T11:57:18Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: This $4 billion industrial park would make it easier for smaller Taiwanese companies who can't afford to build their own sites in the U.S. to expand and follow major Taiwanese manufacturers like TSMC and Foxconn.
-- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/taiwan-raising-usd4-billion-to-build-industrial-park-in-texas-to-support-us-chipmaking-supply-chain-project-to-support-countless-small-manufacturers-crucial-to-tsmc-foxconn-supply-chain)
 
 ---
 
@@ -155,12 +137,30 @@ The post Nvidia and SPIL plan to expand optical engine capacity in Taiwan appear
 
 ---
 
+### 🚀 Samsung, SK Hynix aim to ease AI memory bottlenecks with zHBM, HBF
+- **題材**: `HBM記憶體` | **重要性**: `63`
+- **來源**: Digitimes (2026-10-16T06:57:00Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Samsung Electronics and SK Hynix are developing new memory technologies to address growing bottlenecks in AI systems, with Samsung exploring a design that stacks high-bandwidth memory (HBM) directly above graphics processors and SK Hynix advancing high-bandwi…
+- [原文連結](https://www.digitimes.com/news/a20261016PD214/samsung-sk-hynix-hbm-data-capacity.html)
+
+---
+
 ### ⚖️ Three workers killed, one in intensive care after fall at TSMC’s 2nm fab construction site
 - **題材**: `半導體先進製程` | **重要性**: `62`
 - **來源**: Tom's Hardware UK (2026-10-21T10:00:00Z)
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Three contract workers died, and one is in intensive care after a fall at TSMC’s Fab 22 construction site in Kaohsiung, Taiwan.
 - [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/three-workers-killed-one-in-intensive-care-after-fall-at-tsmcs-2nm-fab-construction-site-in-kaohsiung-broken-bolt-on-a-steel-connection-plate-suspected-as-cause-behind-tragic-accident)
+
+---
+
+### ⚖️ Taiwan raising $4 billion to build industrial park in Texas to support US chipmaking supply chain
+- **題材**: `半導體先進製程` | **重要性**: `62`
+- **來源**: Tom's Hardware UK (2026-10-16T11:57:18Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: This $4 billion industrial park would make it easier for smaller Taiwanese companies who can't afford to build their own sites in the U.S. to expand and follow major Taiwanese manufacturers like TSMC and Foxconn.
+- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/taiwan-raising-usd4-billion-to-build-industrial-park-in-texas-to-support-us-chipmaking-supply-chain-project-to-support-countless-small-manufacturers-crucial-to-tsmc-foxconn-supply-chain)
 
 ---
 
