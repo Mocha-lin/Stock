@@ -1,5 +1,14 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-22T21:57:39.659047+00:00
+> 更新時間：2026-10-23T01:15:29.033713+00:00
+
+### ⚖️ 2nm and CoWoS expansion lifts Chi Yi Hsin Technology backlog to NT$4.5B
+- **題材**: `半導體先進製程` | **重要性**: `88`
+- **來源**: Digitimes (2026-10-21T23:48:10Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重大事件】可能顯著影響產業評價、EPS預期或資金流向。
+- **摘要**: The expansion of advanced semiconductor processes and packaging is driving demand for facility engineering, with Chi Yi Hsin Technology securing NT$4.5 billion (US$138.9 million) in orders as it joins the supply chains supporting leading foundry construction …
+- [原文連結](https://www.digitimes.com/news/a20261021PD257/expansion-packaging-demand-2026-business.html)
+
+---
 
 ### 🚀 TSMC and others turn LCD plants into AI assets as LG Innotek weighs acquisition
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -7,6 +16,15 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Growing demand for AI servers, advanced packaging, and data centers is reviving interest in idle LCD plants, with companies acquiring and converting existing sites into semiconductor packaging substrate lines, advanced packaging facilities, and AI computing h…
 - [原文連結](https://www.digitimes.com/news/a20261021PD232/lcd-acquisition-packaging-plant-demand.html)
+
+---
+
+### 🚀 Samsung's Nvidia HBM bid raises four strategic concerns
+- **題材**: `HBM記憶體` | **重要性**: `78`
+- **來源**: Digitimes (2026-10-21T23:51:37Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Samsung Electronics is reportedly turning to TSMC's 3nm process to produce base dies for Nvidia's custom high-bandwidth memory (NVHBM), abandoning its long-standing turnkey integration model to win a place in Nvidia's supply chain. The move could meet custome…
+- [原文連結](https://www.digitimes.com/news/a20261021PD243/samsung-hbm-nvidia-tsmc-design.html)
 
 ---
 
@@ -28,12 +46,12 @@
 
 ---
 
-### 🚀 TSMC investor conference: TSMC lifts 2026 revenue growth forecast to 44%, 2nm expansion, new 3nm fab
+### ⚖️ TSMC details pricing, confirms agentic AI boosts CPU demand
 - **題材**: `半導體先進製程` | **重要性**: `78`
-- **來源**: Digitimes (2026-10-15T09:15:13Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: TSMC Chairman and CEO C.C. Wei announced that, driven by relentless AI momentum and strong demand for advanced process technologies, the company has raised its full-year 2026 US dollar revenue growth guidance to approximately 44%. AI and leading-edge nodes co…
-- [原文連結](https://www.digitimes.com/news/a20261015PD243/tsmc-growth-3nm-2026-fab.html)
+- **來源**: Digitimes (2026-10-16T02:07:43Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: TSMC addressed pricing adjustments, CPUs, and advanced packaging at its earnings briefing on October 15, 2026, confirming that demand for CPUs related to agentic AI continues to rise as overall AI demand remains strong.
+- [原文連結](https://www.digitimes.com/news/a20261016PD219/tsmc-demand-cpu-packaging-capacity.html)
 
 ---
 
@@ -46,12 +64,12 @@
 
 ---
 
-### 🚀 Samsung, SK Hynix stand to benefit as humanoid robot DRAM demand is forecast to jump 20-fold by 2030
-- **題材**: `HBM記憶體` | **重要性**: `73`
-- **來源**: Digitimes (2026-10-15T01:34:10Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Global DRAM demand for humanoid robots is projected to increase more than 20-fold by 2030 as robot deployments expand and memory capacity per unit doubles, potentially opening a new growth market for Samsung Electronics and SK Hynix beyond high-bandwidth memo…
-- [原文連結](https://www.digitimes.com/news/a20261014VL221/dram-demand-robot-2030-samsung.html)
+### 🚀 Analysis: TSMC-GF deal moves mature nodes into AI packaging: What it means for China
+- **題材**: `半導體先進製程` | **重要性**: `73`
+- **來源**: Digitimes (2026-10-16T03:53:56Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: As global wafer capacity expands rapidly, TSMC and GlobalFoundries (GF) are highlighting a fast-growing market for mature processes serving advanced applications. In particular, demand for silicon interposers, through-silicon vias (TSVs), and embedded deep tr…
+- [原文連結](https://www.digitimes.com/news/a20261016PD220/capacity-globalfoundries-packaging-tsmc-wafer.html)
 
 ---
 
@@ -100,24 +118,6 @@
 
 ---
 
-### ⚖️ Micron opens second Taiwan advanced packaging plant as HBM supply tightens
-- **題材**: `HBM記憶體` | **重要性**: `68`
-- **來源**: Digitimes (2026-10-15T04:57:23Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Micron Technology on October 15 opened Micron Advanced Assembly and Test Taiwan 2 (AATT2) in Taichung, its second advanced assembly and test facility in Taiwan. The plant expands the company's packaging and testing capacity for high-bandwidth memory (HBM) as …
-- [原文連結](https://www.digitimes.com/news/a20261015VL216/micron-taiwan-hbm-packaging-plant.html)
-
----
-
-### ⚖️ Analysis: GlobalFoundries' calculus behind US$2 billion entry into TSMC's CoWoS ecosystem
-- **題材**: `半導體先進製程` | **重要性**: `68`
-- **來源**: Digitimes (2026-10-15T04:00:19Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: GlobalFoundries (GF) has reached a multiyear manufacturing agreement with TSMC to expand silicon interposer capacity at its Malta fab in New York, supplying TSMC's Chip-on-Wafer-on-Substrate (CoWoS) advanced-packaging ecosystem. The agreement is expected to b…
-- [原文連結](https://www.digitimes.com/news/a20261015PD220/tsmc-globalfoundries-cowos-manufacturing-silicon.html)
-
----
-
 ### ⚖️ Taiwan raising $4 billion to build industrial park in Texas to support US chipmaking supply chain
 - **題材**: `半導體先進製程` | **重要性**: `67`
 - **來源**: Tom's Hardware UK (2026-10-16T11:57:18Z)
@@ -136,6 +136,15 @@
 
 ---
 
+### ⚖️ SK hynix Starts Discussing Mass Production Plans For iHBM Memory Chips That Aim To Improve Heat Resistance By 30%, Says Report
+- **題材**: `HBM記憶體` | **重要性**: `65`
+- **來源**: Wccftech (2026-10-21T11:04:55Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Korean memory giant SK hynix, which is among the earliest firms to make high-bandwidth memory (HBM), is reportedly consulting supply chain partners for its next-generation HBM memory called iHBM. HBM memory chips stack layers of DRAM on top of each other and …
+- [原文連結](https://wccftech.com/sk-hynix-starts-discussing-mass-production-plans-for-ihbm-memory-chips-that-aim-to-improve-heat-resistance-by-30-says-report/)
+
+---
+
 ### ⚖️ Nvidia and SPIL plan to expand optical engine capacity in Taiwan
 - **題材**: `光通訊與矽光子` | **重要性**: `65`
 - **來源**: Crypto Briefing (2026-10-21T10:43:57Z)
@@ -143,24 +152,6 @@
 - **摘要**: The expansion in Taiwan signifies a strategic shift in AI hardware production, enhancing Nvidia's supply chain and Taiwan's tech role.
 The post Nvidia and SPIL plan to expand optical engine capacity in Taiwan appeared first on Crypto Briefing.
 - [原文連結](https://cryptobriefing.com/nvidia-spil-optical-engine-capacity-taiwan/)
-
----
-
-### ⚖️ FIC Group opens Malaysia plant as optical module capacity targets 18 SMT lines
-- **題材**: `光通訊與矽光子` | **重要性**: `63`
-- **來源**: Digitimes (2026-10-15T08:39:50Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: FIC Group opened its PRO3C (Malaysia) Sdn. Bhd. manufacturing facility in Johor, Malaysia, on October 15, expanding its optical communications production footprint in Southeast Asia. The Johor Bahru site is designed to support global customers with 800G, 1.6T…
-- [原文連結](https://www.digitimes.com/news/a20261015PD242/smt-plant-production-johor-manufacturing.html)
-
----
-
-### ⚖️ Touch Taiwan 2027 expands tech scope with advanced packaging and SiPh shows
-- **題材**: `光通訊與矽光子` | **重要性**: `63`
-- **來源**: Digitimes (2026-10-15T08:25:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Touch Taiwan 2027 will take place on April 21–23, 2027, and will expand its scope with two dedicated co-located shows: the Advanced Packaging & Testing Expo and the Silicon Photonics Technology Applications Expo. Spurred by surging demand for AI, high-perform…
-- [原文連結](https://www.digitimes.com/news/a20261015PD237/2027-touch-taiwan-packaging-siph-expo.html)
 
 ---
 
@@ -173,12 +164,21 @@ The post Nvidia and SPIL plan to expand optical engine capacity in Taiwan appear
 
 ---
 
-### ⚠️ Massive study of 460,000 people challenges ultra-processed food cancer fears
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: Science Daily (2026-10-21T13:22:17Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: A massive study of more than 460,000 Americans found that ultra-processed foods were not associated with increased colorectal cancer risk overall, challenging a widely held assumption. While processed meat was linked to higher cancer incidence, ultra-processe…
-- [原文連結](https://www.sciencedaily.com/releases/2026/10/261020085014.htm)
+### ⚖️ US State Department orders some staff to leave Saudi Arabia as attacks escalate
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: BBC News (2026-10-22T01:07:34Z)
+- **AI 判讀**: 屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: The warning to US officials comes as at least three people die in the latest strikes at an airport and an oil field.
+- [原文連結](https://www.bbc.co.uk/news/articles/c6x2vpk93770o)
+
+---
+
+### ⚖️ AI and Data Centers Will Impact Midterm Voting, According to Experts
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: CNET (2026-10-22T00:24:08Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Americans are mostly negative on AI and oppose new data centers near them, another poll shows.
+- [原文連結](https://www.cnet.com/news/politics/polls-experts-ai-data-centers-midterm-voting/)
 
 ---
 
