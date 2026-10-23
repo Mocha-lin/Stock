@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-23T14:04:44.731578+00:00
+> 更新時間：2026-10-23T17:32:10.311142+00:00
 
 ### ⚖️ 2nm and CoWoS expansion lifts Chi Yi Hsin Technology backlog to NT$4.5B
 - **題材**: `半導體先進製程` | **重要性**: `88`
@@ -82,15 +82,6 @@
 
 ---
 
-### 🚀 Nscale, Anthropic In Talks For New $45 Billion AI Cloud Deal
-- **題材**: `AI伺服器` | **重要性**: `70`
-- **來源**: Slashdot.org (2026-10-20T15:00:00Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: An anonymous reader quotes a report from Reuters: Nscale is in talks to sell AI computing power to Claude maker Anthropic in a new deal that could be worth about $45 billion, a person familiar with the matter told Reuters on Monday. The data center developer …
-- [原文連結](https://slashdot.org/story/26/10/20/0536218/nscale-anthropic-in-talks-for-new-45-billion-ai-cloud-deal)
-
----
-
 ### 🚀 Analysis: TSMC-GF deal moves mature nodes into AI packaging: What it means for China
 - **題材**: `半導體先進製程` | **重要性**: `68`
 - **來源**: Digitimes (2026-10-16T03:53:56Z)
@@ -125,6 +116,15 @@
 - **摘要**: The expansion in Taiwan signifies a strategic shift in AI hardware production, enhancing Nvidia's supply chain and Taiwan's tech role.
 The post Nvidia and SPIL plan to expand optical engine capacity in Taiwan appeared first on Crypto Briefing.
 - [原文連結](https://cryptobriefing.com/nvidia-spil-optical-engine-capacity-taiwan/)
+
+---
+
+### 🚀 Nscale, Anthropic In Talks For New $45 Billion AI Cloud Deal
+- **題材**: `AI伺服器` | **重要性**: `65`
+- **來源**: Slashdot.org (2026-10-20T15:00:00Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: An anonymous reader quotes a report from Reuters: Nscale is in talks to sell AI computing power to Claude maker Anthropic in a new deal that could be worth about $45 billion, a person familiar with the matter told Reuters on Monday. The data center developer …
+- [原文連結](https://slashdot.org/story/26/10/20/0536218/nscale-anthropic-in-talks-for-new-45-billion-ai-cloud-deal)
 
 ---
 
