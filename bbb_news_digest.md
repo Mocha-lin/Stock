@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-23T01:15:29.033713+00:00
+> 更新時間：2026-10-23T05:34:49.065913+00:00
 
 ### ⚖️ 2nm and CoWoS expansion lifts Chi Yi Hsin Technology backlog to NT$4.5B
 - **題材**: `半導體先進製程` | **重要性**: `88`
@@ -28,15 +28,6 @@
 
 ---
 
-### ⚖️ Intel says it is the only high-volume fab for 12-inch InP silicon photonics as co-packaged optics nears deployment
-- **題材**: `光通訊與矽光子` | **重要性**: `78`
-- **來源**: Digitimes (2026-10-20T03:40:08Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Intel is pitching its foundry as the industry's supplier of light sources for AI data center optics, claiming at the 2026 Open Compute Project (OCP) Global Summit that it is the only high-volume fab that can deliver 12-inch indium phosphide (InP) silicon phot…
-- [原文連結](https://www.digitimes.com/news/a20261020VL204/intel-12-inch-inp-siph-cpo-ocp.html)
-
----
-
 ### ⚖️ DIGITIMES Insight: Microsoft Maia 300 leads 2nm race, TSMC's US strategy shifts, Intel EMIB-T faces yield challenge
 - **題材**: `半導體先進製程` | **重要性**: `78`
 - **來源**: Digitimes (2026-10-19T08:55:00Z)
@@ -46,12 +37,12 @@
 
 ---
 
-### ⚖️ TSMC details pricing, confirms agentic AI boosts CPU demand
-- **題材**: `半導體先進製程` | **重要性**: `78`
-- **來源**: Digitimes (2026-10-16T02:07:43Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: TSMC addressed pricing adjustments, CPUs, and advanced packaging at its earnings briefing on October 15, 2026, confirming that demand for CPUs related to agentic AI continues to rise as overall AI demand remains strong.
-- [原文連結](https://www.digitimes.com/news/a20261016PD219/tsmc-demand-cpu-packaging-capacity.html)
+### ⚖️ Intel says it is the only high-volume fab for 12-inch InP silicon photonics as co-packaged optics nears deployment
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-10-20T03:40:08Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Intel is pitching its foundry as the industry's supplier of light sources for AI data center optics, claiming at the 2026 Open Compute Project (OCP) Global Summit that it is the only high-volume fab that can deliver 12-inch indium phosphide (InP) silicon phot…
+- [原文連結](https://www.digitimes.com/news/a20261020VL204/intel-12-inch-inp-siph-cpo-ocp.html)
 
 ---
 
@@ -64,12 +55,12 @@
 
 ---
 
-### 🚀 Analysis: TSMC-GF deal moves mature nodes into AI packaging: What it means for China
+### ⚖️ TSMC details pricing, confirms agentic AI boosts CPU demand
 - **題材**: `半導體先進製程` | **重要性**: `73`
-- **來源**: Digitimes (2026-10-16T03:53:56Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: As global wafer capacity expands rapidly, TSMC and GlobalFoundries (GF) are highlighting a fast-growing market for mature processes serving advanced applications. In particular, demand for silicon interposers, through-silicon vias (TSVs), and embedded deep tr…
-- [原文連結](https://www.digitimes.com/news/a20261016PD220/capacity-globalfoundries-packaging-tsmc-wafer.html)
+- **來源**: Digitimes (2026-10-16T02:07:43Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: TSMC addressed pricing adjustments, CPUs, and advanced packaging at its earnings briefing on October 15, 2026, confirming that demand for CPUs related to agentic AI continues to rise as overall AI demand remains strong.
+- [原文連結](https://www.digitimes.com/news/a20261016PD219/tsmc-demand-cpu-packaging-capacity.html)
 
 ---
 
@@ -100,21 +91,21 @@
 
 ---
 
-### 🚀 How is the US economy really doing under President Trump?
-- **題材**: `總體風險` | **重要性**: `70`
-- **來源**: BBC News (2026-10-20T05:00:45Z)
-- **AI 判讀**: 屬「總體風險」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Ahead of the midterms Trump has boasted about the performance of the US economy. BBC Verify looks at inflation, jobs and economic growth in the country.
-- [原文連結](https://www.bbc.co.uk/news/articles/cv98ze40jz18o)
-
----
-
 ### 🚀 Samsung, SK Hynix aim to ease AI memory bottlenecks with zHBM, HBF
 - **題材**: `HBM記憶體` | **重要性**: `68`
 - **來源**: Digitimes (2026-10-16T06:57:00Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Samsung Electronics and SK Hynix are developing new memory technologies to address growing bottlenecks in AI systems, with Samsung exploring a design that stacks high-bandwidth memory (HBM) directly above graphics processors and SK Hynix advancing high-bandwi…
 - [原文連結](https://www.digitimes.com/news/a20261016PD214/samsung-sk-hynix-hbm-data-capacity.html)
+
+---
+
+### 🚀 Analysis: TSMC-GF deal moves mature nodes into AI packaging: What it means for China
+- **題材**: `半導體先進製程` | **重要性**: `68`
+- **來源**: Digitimes (2026-10-16T03:53:56Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: As global wafer capacity expands rapidly, TSMC and GlobalFoundries (GF) are highlighting a fast-growing market for mature processes serving advanced applications. In particular, demand for silicon interposers, through-silicon vias (TSVs), and embedded deep tr…
+- [原文連結](https://www.digitimes.com/news/a20261016PD220/capacity-globalfoundries-packaging-tsmc-wafer.html)
 
 ---
 
@@ -152,6 +143,15 @@
 - **摘要**: The expansion in Taiwan signifies a strategic shift in AI hardware production, enhancing Nvidia's supply chain and Taiwan's tech role.
 The post Nvidia and SPIL plan to expand optical engine capacity in Taiwan appeared first on Crypto Briefing.
 - [原文連結](https://cryptobriefing.com/nvidia-spil-optical-engine-capacity-taiwan/)
+
+---
+
+### 🚀 How is the US economy really doing under President Trump?
+- **題材**: `總體風險` | **重要性**: `65`
+- **來源**: BBC News (2026-10-20T05:00:45Z)
+- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Ahead of the midterms Trump has boasted about the performance of the US economy. BBC Verify looks at inflation, jobs and economic growth in the country.
+- [原文連結](https://www.bbc.co.uk/news/articles/cv98ze40jz18o)
 
 ---
 
