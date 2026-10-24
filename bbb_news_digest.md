@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-23T21:44:16.209186+00:00
+> 更新時間：2026-10-24T01:23:44.653759+00:00
 
 ### ⚖️ 2nm and CoWoS expansion lifts Chi Yi Hsin Technology backlog to NT$4.5B
 - **題材**: `半導體先進製程` | **重要性**: `88`
@@ -55,15 +55,6 @@
 
 ---
 
-### ⚖️ TSMC details pricing, confirms agentic AI boosts CPU demand
-- **題材**: `半導體先進製程` | **重要性**: `73`
-- **來源**: Digitimes (2026-10-16T02:07:43Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: TSMC addressed pricing adjustments, CPUs, and advanced packaging at its earnings briefing on October 15, 2026, confirming that demand for CPUs related to agentic AI continues to rise as overall AI demand remains strong.
-- [原文連結](https://www.digitimes.com/news/a20261016PD219/tsmc-demand-cpu-packaging-capacity.html)
-
----
-
 ### ⚖️ Intel installs production tools at Fab 62 in Arizona, provides updates on Ohio chip fab
 - **題材**: `半導體先進製程` | **重要性**: `72`
 - **來源**: Tom's Hardware UK (2026-10-21T19:35:53Z)
@@ -82,12 +73,21 @@
 
 ---
 
-### 🚀 Analysis: TSMC-GF deal moves mature nodes into AI packaging: What it means for China
+### 🚀 Breaking AI's memory wall: former TSMC VP charts a path with HBM, optical links and 3D stacking
 - **題材**: `半導體先進製程` | **重要性**: `68`
-- **來源**: Digitimes (2026-10-16T03:53:56Z)
+- **來源**: Digitimes (2026-10-21T01:15:00Z)
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: As global wafer capacity expands rapidly, TSMC and GlobalFoundries (GF) are highlighting a fast-growing market for mature processes serving advanced applications. In particular, demand for silicon interposers, through-silicon vias (TSVs), and embedded deep tr…
-- [原文連結](https://www.digitimes.com/news/a20261016PD220/capacity-globalfoundries-packaging-tsmc-wafer.html)
+- **摘要**: AI processor performance continues to improve, but memory bandwidth is growing more slowly, making data supply a major constraint on AI chip performance and energy efficiency. Efforts to shorten the distance between memory and compute units and increase die-t…
+- [原文連結](https://www.digitimes.com/news/a20261021PD215/hbm-3d-bandwidth-data-performance.html)
+
+---
+
+### ⚖️ Contrel, FSE combine laser and plasma processes for advanced packaging
+- **題材**: `半導體先進製程` | **重要性**: `68`
+- **來源**: Digitimes (2026-10-21T00:37:05Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Contrel Technology and FSE jointly showcased dual-core laser micromachining and plasma process technologies at TPCA Show 2026, targeting advanced packaging and high-end substrate manufacturing. The companies' solutions span key processes from surface treatmen…
+- [原文連結](https://www.digitimes.com/news/a20261021PD203/contrel-laser-packaging-high-end-dual-core.html)
 
 ---
 
@@ -146,15 +146,6 @@ The post Nvidia and SPIL plan to expand optical engine capacity in Taiwan appear
 
 ---
 
-### 🚀 Samsung, SK Hynix aim to ease AI memory bottlenecks with zHBM, HBF
-- **題材**: `HBM記憶體` | **重要性**: `63`
-- **來源**: Digitimes (2026-10-16T06:57:00Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Samsung Electronics and SK Hynix are developing new memory technologies to address growing bottlenecks in AI systems, with Samsung exploring a design that stacks high-bandwidth memory (HBM) directly above graphics processors and SK Hynix advancing high-bandwi…
-- [原文連結](https://www.digitimes.com/news/a20261016PD214/samsung-sk-hynix-hbm-data-capacity.html)
-
----
-
 ### ⚖️ Three workers killed, one in intensive care after fall at TSMC’s 2nm fab construction site
 - **題材**: `半導體先進製程` | **重要性**: `62`
 - **來源**: Tom's Hardware UK (2026-10-21T10:00:00Z)
@@ -164,21 +155,31 @@ The post Nvidia and SPIL plan to expand optical engine capacity in Taiwan appear
 
 ---
 
-### ⚖️ Taiwan raising $4 billion to build industrial park in Texas to support US chipmaking supply chain
-- **題材**: `半導體先進製程` | **重要性**: `62`
-- **來源**: Tom's Hardware UK (2026-10-16T11:57:18Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: This $4 billion industrial park would make it easier for smaller Taiwanese companies who can't afford to build their own sites in the U.S. to expand and follow major Taiwanese manufacturers like TSMC and Foxconn.
-- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/taiwan-raising-usd4-billion-to-build-industrial-park-in-texas-to-support-us-chipmaking-supply-chain-project-to-support-countless-small-manufacturers-crucial-to-tsmc-foxconn-supply-chain)
-
----
-
 ### ⚖️ Meta's massive deal for Zuckerberg proves execs aren't exempt from IRL work
 - **題材**: `AI伺服器` | **重要性**: `60`
 - **來源**: Business Insider (2026-10-22T21:30:32Z)
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: The tech giant's effort to dissuade its CEO from relocating reflects a common belief that the best work happens when everyone is together in person.
 - [原文連結](https://www.businessinsider.com/meta-board-zuckerberg-california-office-rto-2026-10#article)
+
+---
+
+### ⚠️ Bitcoin falls below $82,000 as investors retreat from risk assets
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-10-22T15:31:42Z)
+- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Bitcoin (BTC
+) fell below $82,000 early Thursday as crypto joined a broader sell-off in riskier assets amid rising geopolitical tensions.The world's largest cryptocurrency traded around $81,600 Thursday morning, down more than 3% for the last 24 hours. Other…
+- [原文連結](https://finance.yahoo.com/markets/article/bitcoin-falls-below-82000-as-investors-retreat-from-risk-assets-153142669.html)
+
+---
+
+### ⚖️ US State Department orders some staff to leave Saudi Arabia as attacks escalate
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: BBC News (2026-10-22T01:07:34Z)
+- **AI 判讀**: 屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: The warning to US officials comes as at least three people die in the latest strikes at an airport and an oil field.
+- [原文連結](https://www.bbc.co.uk/news/articles/c6x2vpk93770o)
 
 ---
 
