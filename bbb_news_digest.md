@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-24T13:07:44.411069+00:00
+> 更新時間：2026-10-24T16:18:54.454604+00:00
 
 ### ⚖️ 2nm and CoWoS expansion lifts Chi Yi Hsin Technology backlog to NT$4.5B
 - **題材**: `半導體先進製程` | **重要性**: `88`
@@ -7,6 +7,16 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重大事件】可能顯著影響產業評價、EPS預期或資金流向。
 - **摘要**: The expansion of advanced semiconductor processes and packaging is driving demand for facility engineering, with Chi Yi Hsin Technology securing NT$4.5 billion (US$138.9 million) in orders as it joins the supply chains supporting leading foundry construction …
 - [原文連結](https://www.digitimes.com/news/a20261021PD257/expansion-packaging-demand-2026-business.html)
+
+---
+
+### 🚀 MaxLinear raises 2026 optical data center revenue forecast to $250M-$270M
+- **題材**: `光通訊與矽光子` | **重要性**: `80`
+- **來源**: Crypto Briefing (2026-10-23T15:04:43Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: MaxLinear's revised forecast highlights robust growth in optical data centers, underscoring the sector's pivotal role in future tech infrastructure.
+The post MaxLinear raises 2026 optical data center revenue forecast to $250M-$270M appeared first on Crypto Br…
+- [原文連結](https://cryptobriefing.com/maxlinear-raises-optical-data-center-forecast/)
 
 ---
 
@@ -100,6 +110,16 @@
 
 ---
 
+### ⚖️ Credo Technology Group unveils 1.6-terabit optical cable, targets AI market
+- **題材**: `光通訊與矽光子` | **重要性**: `65`
+- **來源**: Crypto Briefing (2026-10-23T13:53:56Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Credo's innovation could redefine AI infrastructure, enhancing efficiency and reliability while potentially setting new industry standards.
+The post Credo Technology Group unveils 1.6-terabit optical cable, targets AI market appeared first on Crypto Briefing.
+- [原文連結](https://cryptobriefing.com/credo-1-6t-active-light-cable-ai/)
+
+---
+
 ### 🚀 Nscale, Anthropic In Talks For New $45 Billion AI Cloud Deal
 - **題材**: `AI伺服器` | **重要性**: `65`
 - **來源**: Slashdot.org (2026-10-20T15:00:00Z)
@@ -160,24 +180,6 @@
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Americans are mostly negative on AI and oppose new data centers near them, another poll shows.
 - [原文連結](https://www.cnet.com/news/politics/polls-experts-ai-data-centers-midterm-voting/)
-
----
-
-### ⚠️ Massive study of 460,000 people challenges ultra-processed food cancer fears
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: Science Daily (2026-10-21T13:22:17Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: A massive study of more than 460,000 Americans found that ultra-processed foods were not associated with increased colorectal cancer risk overall, challenging a widely held assumption. While processed meat was linked to higher cancer incidence, ultra-processe…
-- [原文連結](https://www.sciencedaily.com/releases/2026/10/261020085014.htm)
-
----
-
-### ⚖️ Nvidia reveals plans to build AI data centers in 14 days instead of 6 months
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-10-21T11:30:00Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Nvidia (NVDA) wants to reduce the time it takes for its customers to start generating revenue from its AI systems.At its GTC event in Berlin on Wednesday, the company unveiled its DSX POD, a reference design for an AI data center packed into a box about the s…
-- [原文連結](https://finance.yahoo.com/technology/article/nvidia-reveals-plans-for-an-ai-factory-in-a-shipping-container-to-build-data-centers-in-weeks-not-months-125029004.html)
 
 ---
 
