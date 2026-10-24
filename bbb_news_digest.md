@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-24T16:18:54.454604+00:00
+> 更新時間：2026-10-24T19:07:00.126849+00:00
 
 ### ⚖️ 2nm and CoWoS expansion lifts Chi Yi Hsin Technology backlog to NT$4.5B
 - **題材**: `半導體先進製程` | **重要性**: `88`
@@ -65,15 +65,6 @@ The post MaxLinear raises 2026 optical data center revenue forecast to $250M-$27
 
 ---
 
-### ⚖️ Exclusive: EnterpriseSG positions Singapore's semiconductor SMEs for bigger roles in global chip supply chains
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-10-17T18:39:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Singapore is targeting high-value semiconductor manufacturing, advanced packaging, and silicon photonics, building on its strengths in engineering, precision manufacturing, and reliability, according to Zeng Yi Wong, assistant managing director for manufactur…
-- [原文連結](https://www.digitimes.com/news/a20261012PD215/manufacturing-equipment-packaging-testing-silicon.html)
-
----
-
 ### ⚖️ Intel installs production tools at Fab 62 in Arizona, provides updates on Ohio chip fab
 - **題材**: `半導體先進製程` | **重要性**: `72`
 - **來源**: Tom's Hardware UK (2026-10-21T19:35:53Z)
@@ -98,6 +89,15 @@ The post MaxLinear raises 2026 optical data center revenue forecast to $250M-$27
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Contrel Technology and FSE jointly showcased dual-core laser micromachining and plasma process technologies at TPCA Show 2026, targeting advanced packaging and high-end substrate manufacturing. The companies' solutions span key processes from surface treatmen…
 - [原文連結](https://www.digitimes.com/news/a20261021PD203/contrel-laser-packaging-high-end-dual-core.html)
+
+---
+
+### ⚖️ Exclusive: EnterpriseSG positions Singapore's semiconductor SMEs for bigger roles in global chip supply chains
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-10-17T18:39:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Singapore is targeting high-value semiconductor manufacturing, advanced packaging, and silicon photonics, building on its strengths in engineering, precision manufacturing, and reliability, according to Zeng Yi Wong, assistant managing director for manufactur…
+- [原文連結](https://www.digitimes.com/news/a20261012PD215/manufacturing-equipment-packaging-testing-silicon.html)
 
 ---
 
