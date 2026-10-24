@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-24T09:39:26.193584+00:00
+> 更新時間：2026-10-24T13:07:44.411069+00:00
 
 ### ⚖️ 2nm and CoWoS expansion lifts Chi Yi Hsin Technology backlog to NT$4.5B
 - **題材**: `半導體先進製程` | **重要性**: `88`
@@ -73,15 +73,6 @@
 
 ---
 
-### 🚀 Samsung and SK Hynix are upgrading Chinese factories to produce advanced RAM chips as AI data center competition ramps up
-- **題材**: `HBM記憶體` | **重要性**: `72`
-- **來源**: Tom's Hardware UK (2026-10-21T11:49:44Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Samsung and SK Hynix are reportedly upgrading their factories to produce more advanced RAM chips designed for AI data centers in an attempt to fend off competition from Chinese companies.
-- [原文連結](https://www.tomshardware.com/pc-components/dram/samsung-and-sk-hynix-are-upgrading-chinese-factories-to-produce-advanced-ram-chips-as-ai-data-center-competition-ramps-up-big-players-move-to-fight-off-the-threat-from-cxmt-and-co)
-
----
-
 ### 🚀 Breaking AI's memory wall: former TSMC VP charts a path with HBM, optical links and 3D stacking
 - **題材**: `半導體先進製程` | **重要性**: `68`
 - **來源**: Digitimes (2026-10-21T01:15:00Z)
@@ -100,31 +91,12 @@
 
 ---
 
-### ⚖️ Nvidia reveals plans to build AI data centers in 14 days instead of 6 months
-- **題材**: `AI伺服器` | **重要性**: `65`
-- **來源**: Yahoo Entertainment (2026-10-21T11:30:00Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Nvidia (NVDA) wants to reduce the time it takes for its customers to start generating revenue from its AI systems.At its GTC event in Berlin on Wednesday, the company unveiled its DSX POD, a reference design for an AI data center packed into a box about the s…
-- [原文連結](https://finance.yahoo.com/technology/article/nvidia-reveals-plans-for-an-ai-factory-in-a-shipping-container-to-build-data-centers-in-weeks-not-months-125029004.html)
-
----
-
-### ⚖️ SK hynix Starts Discussing Mass Production Plans For iHBM Memory Chips That Aim To Improve Heat Resistance By 30%, Says Report
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: Wccftech (2026-10-21T11:04:55Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Korean memory giant SK hynix, which is among the earliest firms to make high-bandwidth memory (HBM), is reportedly consulting supply chain partners for its next-generation HBM memory called iHBM. HBM memory chips stack layers of DRAM on top of each other and …
-- [原文連結](https://wccftech.com/sk-hynix-starts-discussing-mass-production-plans-for-ihbm-memory-chips-that-aim-to-improve-heat-resistance-by-30-says-report/)
-
----
-
-### ⚖️ Nvidia and SPIL plan to expand optical engine capacity in Taiwan
-- **題材**: `光通訊與矽光子` | **重要性**: `65`
-- **來源**: Crypto Briefing (2026-10-21T10:43:57Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: The expansion in Taiwan signifies a strategic shift in AI hardware production, enhancing Nvidia's supply chain and Taiwan's tech role.
-The post Nvidia and SPIL plan to expand optical engine capacity in Taiwan appeared first on Crypto Briefing.
-- [原文連結](https://cryptobriefing.com/nvidia-spil-optical-engine-capacity-taiwan/)
+### 🚀 Samsung and SK Hynix are upgrading Chinese factories to produce advanced RAM chips as AI data center competition ramps up
+- **題材**: `HBM記憶體` | **重要性**: `67`
+- **來源**: Tom's Hardware UK (2026-10-21T11:49:44Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Samsung and SK Hynix are reportedly upgrading their factories to produce more advanced RAM chips designed for AI data centers in an attempt to fend off competition from Chinese companies.
+- [原文連結](https://www.tomshardware.com/pc-components/dram/samsung-and-sk-hynix-are-upgrading-chinese-factories-to-produce-advanced-ram-chips-as-ai-data-center-competition-ramps-up-big-players-move-to-fight-off-the-threat-from-cxmt-and-co)
 
 ---
 
@@ -155,12 +127,12 @@ The post Nvidia and SPIL plan to expand optical engine capacity in Taiwan appear
 
 ---
 
-### ⚖️ Three workers killed, one in intensive care after fall at TSMC’s 2nm fab construction site
-- **題材**: `半導體先進製程` | **重要性**: `62`
-- **來源**: Tom's Hardware UK (2026-10-21T10:00:00Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Three contract workers died, and one is in intensive care after a fall at TSMC’s Fab 22 construction site in Kaohsiung, Taiwan.
-- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/three-workers-killed-one-in-intensive-care-after-fall-at-tsmcs-2nm-fab-construction-site-in-kaohsiung-broken-bolt-on-a-steel-connection-plate-suspected-as-cause-behind-tragic-accident)
+### ⚖️ Illegal Nvidia Blackwell Ultra B300 GPUs found inside state-owned China Telecom's network
+- **題材**: `AI伺服器` | **重要性**: `62`
+- **來源**: Tom's Hardware UK (2026-10-23T12:26:23Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: A security firm has been able to identify 32 Nvidia Blackwell Ultra B300 AI chips running inside a China Telecom network, but it's unclear where the export-barred components are physically located.
+- [原文連結](https://www.tomshardware.com/tech-industry/data-centers/illegal-nvidia-blackwell-ultra-b300-gpus-found-inside-state-owned-china-telecoms-network-nvidia-says-chip-smuggling-a-drop-in-the-bucket-insists-smuggling-remains-a-nonfactor)
 
 ---
 
@@ -179,6 +151,33 @@ The post Nvidia and SPIL plan to expand optical engine capacity in Taiwan appear
 - **AI 判讀**: 屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: The warning to US officials comes as at least three people die in the latest strikes at an airport and an oil field.
 - [原文連結](https://www.bbc.co.uk/news/articles/c6x2vpk93770o)
+
+---
+
+### ⚖️ AI and Data Centers Will Impact Midterm Voting, According to Experts
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: CNET (2026-10-22T00:24:08Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Americans are mostly negative on AI and oppose new data centers near them, another poll shows.
+- [原文連結](https://www.cnet.com/news/politics/polls-experts-ai-data-centers-midterm-voting/)
+
+---
+
+### ⚠️ Massive study of 460,000 people challenges ultra-processed food cancer fears
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: Science Daily (2026-10-21T13:22:17Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: A massive study of more than 460,000 Americans found that ultra-processed foods were not associated with increased colorectal cancer risk overall, challenging a widely held assumption. While processed meat was linked to higher cancer incidence, ultra-processe…
+- [原文連結](https://www.sciencedaily.com/releases/2026/10/261020085014.htm)
+
+---
+
+### ⚖️ Nvidia reveals plans to build AI data centers in 14 days instead of 6 months
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-10-21T11:30:00Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Nvidia (NVDA) wants to reduce the time it takes for its customers to start generating revenue from its AI systems.At its GTC event in Berlin on Wednesday, the company unveiled its DSX POD, a reference design for an AI data center packed into a box about the s…
+- [原文連結](https://finance.yahoo.com/technology/article/nvidia-reveals-plans-for-an-ai-factory-in-a-shipping-container-to-build-data-centers-in-weeks-not-months-125029004.html)
 
 ---
 
