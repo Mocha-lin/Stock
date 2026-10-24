@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-24T01:23:44.653759+00:00
+> 更新時間：2026-10-24T05:13:38.615114+00:00
 
 ### ⚖️ 2nm and CoWoS expansion lifts Chi Yi Hsin Technology backlog to NT$4.5B
 - **題材**: `半導體先進製程` | **重要性**: `88`
@@ -10,21 +10,21 @@
 
 ---
 
-### 🚀 TSMC and others turn LCD plants into AI assets as LG Innotek weighs acquisition
-- **題材**: `半導體先進製程` | **重要性**: `83`
-- **來源**: Digitimes (2026-10-21T03:45:00Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Growing demand for AI servers, advanced packaging, and data centers is reviving interest in idle LCD plants, with companies acquiring and converting existing sites into semiconductor packaging substrate lines, advanced packaging facilities, and AI computing h…
-- [原文連結](https://www.digitimes.com/news/a20261021PD232/lcd-acquisition-packaging-plant-demand.html)
-
----
-
 ### 🚀 Samsung's Nvidia HBM bid raises four strategic concerns
 - **題材**: `HBM記憶體` | **重要性**: `78`
 - **來源**: Digitimes (2026-10-21T23:51:37Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Samsung Electronics is reportedly turning to TSMC's 3nm process to produce base dies for Nvidia's custom high-bandwidth memory (NVHBM), abandoning its long-standing turnkey integration model to win a place in Nvidia's supply chain. The move could meet custome…
 - [原文連結](https://www.digitimes.com/news/a20261021PD243/samsung-hbm-nvidia-tsmc-design.html)
+
+---
+
+### 🚀 TSMC and others turn LCD plants into AI assets as LG Innotek weighs acquisition
+- **題材**: `半導體先進製程` | **重要性**: `78`
+- **來源**: Digitimes (2026-10-21T03:45:00Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Growing demand for AI servers, advanced packaging, and data centers is reviving interest in idle LCD plants, with companies acquiring and converting existing sites into semiconductor packaging substrate lines, advanced packaging facilities, and AI computing h…
+- [原文連結](https://www.digitimes.com/news/a20261021PD232/lcd-acquisition-packaging-plant-demand.html)
 
 ---
 
@@ -164,22 +164,21 @@ The post Nvidia and SPIL plan to expand optical engine capacity in Taiwan appear
 
 ---
 
-### ⚠️ Bitcoin falls below $82,000 as investors retreat from risk assets
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-10-22T15:31:42Z)
-- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Bitcoin (BTC
-) fell below $82,000 early Thursday as crypto joined a broader sell-off in riskier assets amid rising geopolitical tensions.The world's largest cryptocurrency traded around $81,600 Thursday morning, down more than 3% for the last 24 hours. Other…
-- [原文連結](https://finance.yahoo.com/markets/article/bitcoin-falls-below-82000-as-investors-retreat-from-risk-assets-153142669.html)
-
----
-
 ### ⚖️ US State Department orders some staff to leave Saudi Arabia as attacks escalate
 - **題材**: `總體風險` | **重要性**: `60`
 - **來源**: BBC News (2026-10-22T01:07:34Z)
 - **AI 判讀**: 屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: The warning to US officials comes as at least three people die in the latest strikes at an airport and an oil field.
 - [原文連結](https://www.bbc.co.uk/news/articles/c6x2vpk93770o)
+
+---
+
+### ⚖️ AI and Data Centers Will Impact Midterm Voting, According to Experts
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: CNET (2026-10-22T00:24:08Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Americans are mostly negative on AI and oppose new data centers near them, another poll shows.
+- [原文連結](https://www.cnet.com/news/politics/polls-experts-ai-data-centers-midterm-voting/)
 
 ---
 
