@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-25T00:52:08.651210+00:00
+> 更新時間：2026-10-25T05:31:26.965228+00:00
 
 ### ⚖️ 2nm and CoWoS expansion lifts Chi Yi Hsin Technology backlog to NT$4.5B
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -101,16 +101,6 @@ The post MaxLinear raises 2026 optical data center revenue forecast to $250M-$27
 
 ---
 
-### ⚖️ Credo Technology Group unveils 1.6-terabit optical cable, targets AI market
-- **題材**: `光通訊與矽光子` | **重要性**: `65`
-- **來源**: Crypto Briefing (2026-10-23T13:53:56Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Credo's innovation could redefine AI infrastructure, enhancing efficiency and reliability while potentially setting new industry standards.
-The post Credo Technology Group unveils 1.6-terabit optical cable, targets AI market appeared first on Crypto Briefing.
-- [原文連結](https://cryptobriefing.com/credo-1-6t-active-light-cable-ai/)
-
----
-
 ### 🚀 Nscale, Anthropic In Talks For New $45 Billion AI Cloud Deal
 - **題材**: `AI伺服器` | **重要性**: `65`
 - **來源**: Slashdot.org (2026-10-20T15:00:00Z)
@@ -174,12 +164,21 @@ The post Credo Technology Group unveils 1.6-terabit optical cable, targets AI ma
 
 ---
 
-### ⚖️ US State Department orders some staff to leave Saudi Arabia as attacks escalate
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: BBC News (2026-10-22T01:07:34Z)
-- **AI 判讀**: 屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: The warning to US officials comes as at least three people die in the latest strikes at an airport and an oil field.
-- [原文連結](https://www.bbc.co.uk/news/articles/c6x2vpk93770o)
+### ⚖️ Nvidia reveals plans to build AI data centers in 14 days instead of 6 months
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-10-21T11:30:00Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Nvidia (NVDA) wants to reduce the time it takes for its customers to start generating revenue from its AI systems.At its GTC event in Berlin on Wednesday, the company unveiled its DSX POD, a reference design for an AI data center packed into a box about the s…
+- [原文連結](https://finance.yahoo.com/technology/article/nvidia-reveals-plans-for-an-ai-factory-in-a-shipping-container-to-build-data-centers-in-weeks-not-months-125029004.html)
+
+---
+
+### ⚖️ SK hynix Starts Discussing Mass Production Plans For iHBM Memory Chips That Aim To Improve Heat Resistance By 30%, Says Report
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: Wccftech (2026-10-21T11:04:55Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Korean memory giant SK hynix, which is among the earliest firms to make high-bandwidth memory (HBM), is reportedly consulting supply chain partners for its next-generation HBM memory called iHBM. HBM memory chips stack layers of DRAM on top of each other and …
+- [原文連結](https://wccftech.com/sk-hynix-starts-discussing-mass-production-plans-for-ihbm-memory-chips-that-aim-to-improve-heat-resistance-by-30-says-report/)
 
 ---
 
