@@ -1,10 +1,10 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-24T19:07:00.126849+00:00
+> 更新時間：2026-10-25T00:52:08.651210+00:00
 
 ### ⚖️ 2nm and CoWoS expansion lifts Chi Yi Hsin Technology backlog to NT$4.5B
-- **題材**: `半導體先進製程` | **重要性**: `88`
+- **題材**: `半導體先進製程` | **重要性**: `83`
 - **來源**: Digitimes (2026-10-21T23:48:10Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重大事件】可能顯著影響產業評價、EPS預期或資金流向。
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: The expansion of advanced semiconductor processes and packaging is driving demand for facility engineering, with Chi Yi Hsin Technology securing NT$4.5 billion (US$138.9 million) in orders as it joins the supply chains supporting leading foundry construction …
 - [原文連結](https://www.digitimes.com/news/a20261021PD257/expansion-packaging-demand-2026-business.html)
 
@@ -17,15 +17,6 @@
 - **摘要**: MaxLinear's revised forecast highlights robust growth in optical data centers, underscoring the sector's pivotal role in future tech infrastructure.
 The post MaxLinear raises 2026 optical data center revenue forecast to $250M-$270M appeared first on Crypto Br…
 - [原文連結](https://cryptobriefing.com/maxlinear-raises-optical-data-center-forecast/)
-
----
-
-### 🚀 Samsung's Nvidia HBM bid raises four strategic concerns
-- **題材**: `HBM記憶體` | **重要性**: `78`
-- **來源**: Digitimes (2026-10-21T23:51:37Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Samsung Electronics is reportedly turning to TSMC's 3nm process to produce base dies for Nvidia's custom high-bandwidth memory (NVHBM), abandoning its long-standing turnkey integration model to win a place in Nvidia's supply chain. The move could meet custome…
-- [原文連結](https://www.digitimes.com/news/a20261021PD243/samsung-hbm-nvidia-tsmc-design.html)
 
 ---
 
@@ -56,21 +47,21 @@ The post MaxLinear raises 2026 optical data center revenue forecast to $250M-$27
 
 ---
 
+### 🚀 Samsung's Nvidia HBM bid raises four strategic concerns
+- **題材**: `HBM記憶體` | **重要性**: `73`
+- **來源**: Digitimes (2026-10-21T23:51:37Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Samsung Electronics is reportedly turning to TSMC's 3nm process to produce base dies for Nvidia's custom high-bandwidth memory (NVHBM), abandoning its long-standing turnkey integration model to win a place in Nvidia's supply chain. The move could meet custome…
+- [原文連結](https://www.digitimes.com/news/a20261021PD243/samsung-hbm-nvidia-tsmc-design.html)
+
+---
+
 ### ⚖️ Intel says it is the only high-volume fab for 12-inch InP silicon photonics as co-packaged optics nears deployment
 - **題材**: `光通訊與矽光子` | **重要性**: `73`
 - **來源**: Digitimes (2026-10-20T03:40:08Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Intel is pitching its foundry as the industry's supplier of light sources for AI data center optics, claiming at the 2026 Open Compute Project (OCP) Global Summit that it is the only high-volume fab that can deliver 12-inch indium phosphide (InP) silicon phot…
 - [原文連結](https://www.digitimes.com/news/a20261020VL204/intel-12-inch-inp-siph-cpo-ocp.html)
-
----
-
-### ⚖️ Intel installs production tools at Fab 62 in Arizona, provides updates on Ohio chip fab
-- **題材**: `半導體先進製程` | **重要性**: `72`
-- **來源**: Tom's Hardware UK (2026-10-21T19:35:53Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Intel makes progress on its manufacturing expansion in Arizona and Ohio as it continues to expand advanced semiconductor manufacturing capacity in the U.S.
-- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/intel-installs-production-tools-at-fab-62-in-arizona-provides-updates-on-ohio-chip-fab-confirms-high-na-euv-for-high-volume-manufacturing-in-2028)
 
 ---
 
@@ -92,12 +83,12 @@ The post MaxLinear raises 2026 optical data center revenue forecast to $250M-$27
 
 ---
 
-### ⚖️ Exclusive: EnterpriseSG positions Singapore's semiconductor SMEs for bigger roles in global chip supply chains
-- **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-10-17T18:39:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Singapore is targeting high-value semiconductor manufacturing, advanced packaging, and silicon photonics, building on its strengths in engineering, precision manufacturing, and reliability, according to Zeng Yi Wong, assistant managing director for manufactur…
-- [原文連結](https://www.digitimes.com/news/a20261012PD215/manufacturing-equipment-packaging-testing-silicon.html)
+### ⚖️ Intel installs production tools at Fab 62 in Arizona, provides updates on Ohio chip fab
+- **題材**: `半導體先進製程` | **重要性**: `67`
+- **來源**: Tom's Hardware UK (2026-10-21T19:35:53Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Intel makes progress on its manufacturing expansion in Arizona and Ohio as it continues to expand advanced semiconductor manufacturing capacity in the U.S.
+- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/intel-installs-production-tools-at-fab-62-in-arizona-provides-updates-on-ohio-chip-fab-confirms-high-na-euv-for-high-volume-manufacturing-in-2028)
 
 ---
 
@@ -156,6 +147,24 @@ The post Credo Technology Group unveils 1.6-terabit optical cable, targets AI ma
 
 ---
 
+### 🚀 NVIDIA vs. AMD vs. Apple — Here’s What the Numbers Actually Say About Which AI Machine Is Right For You
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: Entrepreneur (2026-10-23T23:30:00Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Before you buy a local AI machine, know what you're actually optimizing for. Here's a breakdown of NVIDIA, AMD and Apple.
+- [原文連結](https://www.entrepreneur.com/business-news/nvidia-vs-amd-vs-apple-heres-what-the-numbers-actually-say-about-which-ai-machine-is-right-for-you)
+
+---
+
+### ⚖️ 32 TB RAM for your GPUs: Marvell shows revolutionary Photonic Fabric Memory Module that uses light to link up to 16 GPUs and slash CAPEX — but Nvidia won't stick around doing nothing
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: TechRadar (2026-10-23T21:35:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Marvell wants to stop GPUs acting as "the world's most expensive memory controller" with 32TB of optically pooled memory, but sampling doesn't start until 2027.
+- [原文連結](https://www.techradar.com/pro/32-tb-ram-for-your-gpus-marvell-shows-revolutionary-photonic-fabric-memory-module-that-uses-light-to-link-up-to-16-gpus-and-slash-capex-but-nvidia-wont-stick-around-doing-nothing)
+
+---
+
 ### ⚖️ Meta's massive deal for Zuckerberg proves execs aren't exempt from IRL work
 - **題材**: `AI伺服器` | **重要性**: `60`
 - **來源**: Business Insider (2026-10-22T21:30:32Z)
@@ -171,15 +180,6 @@ The post Credo Technology Group unveils 1.6-terabit optical cable, targets AI ma
 - **AI 判讀**: 屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: The warning to US officials comes as at least three people die in the latest strikes at an airport and an oil field.
 - [原文連結](https://www.bbc.co.uk/news/articles/c6x2vpk93770o)
-
----
-
-### ⚖️ AI and Data Centers Will Impact Midterm Voting, According to Experts
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: CNET (2026-10-22T00:24:08Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Americans are mostly negative on AI and oppose new data centers near them, another poll shows.
-- [原文連結](https://www.cnet.com/news/politics/polls-experts-ai-data-centers-midterm-voting/)
 
 ---
 
