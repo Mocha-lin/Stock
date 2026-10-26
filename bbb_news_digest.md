@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-26T18:53:57.422794+00:00
+> 更新時間：2026-10-26T22:54:52.884109+00:00
 
 ### ⚖️ 2nm and CoWoS expansion lifts Chi Yi Hsin Technology backlog to NT$4.5B
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -134,15 +134,6 @@ The post MaxLinear raises 2026 optical data center revenue forecast to $250M-$27
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Before you buy a local AI machine, know what you're actually optimizing for. Here's a breakdown of NVIDIA, AMD and Apple.
 - [原文連結](https://www.entrepreneur.com/business-news/nvidia-vs-amd-vs-apple-heres-what-the-numbers-actually-say-about-which-ai-machine-is-right-for-you)
-
----
-
-### ⚖️ 32 TB RAM for your GPUs: Marvell shows revolutionary Photonic Fabric Memory Module that uses light to link up to 16 GPUs and slash CAPEX — but Nvidia won't stick around doing nothing
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: TechRadar (2026-10-23T21:35:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Marvell wants to stop GPUs acting as "the world's most expensive memory controller" with 32TB of optically pooled memory, but sampling doesn't start until 2027.
-- [原文連結](https://www.techradar.com/pro/32-tb-ram-for-your-gpus-marvell-shows-revolutionary-photonic-fabric-memory-module-that-uses-light-to-link-up-to-16-gpus-and-slash-capex-but-nvidia-wont-stick-around-doing-nothing)
 
 ---
 
