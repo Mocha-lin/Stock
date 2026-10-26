@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-26T05:36:46.542469+00:00
+> 更新時間：2026-10-26T15:52:55.613655+00:00
 
 ### ⚖️ 2nm and CoWoS expansion lifts Chi Yi Hsin Technology backlog to NT$4.5B
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -7,16 +7,6 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: The expansion of advanced semiconductor processes and packaging is driving demand for facility engineering, with Chi Yi Hsin Technology securing NT$4.5 billion (US$138.9 million) in orders as it joins the supply chains supporting leading foundry construction …
 - [原文連結](https://www.digitimes.com/news/a20261021PD257/expansion-packaging-demand-2026-business.html)
-
----
-
-### 🚀 MaxLinear raises 2026 optical data center revenue forecast to $250M-$270M
-- **題材**: `光通訊與矽光子` | **重要性**: `80`
-- **來源**: Crypto Briefing (2026-10-23T15:04:43Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: MaxLinear's revised forecast highlights robust growth in optical data centers, underscoring the sector's pivotal role in future tech infrastructure.
-The post MaxLinear raises 2026 optical data center revenue forecast to $250M-$270M appeared first on Crypto Br…
-- [原文連結](https://cryptobriefing.com/maxlinear-raises-optical-data-center-forecast/)
 
 ---
 
@@ -29,21 +19,13 @@ The post MaxLinear raises 2026 optical data center revenue forecast to $250M-$27
 
 ---
 
-### ⚖️ DIGITIMES Insight: Microsoft Maia 300 leads 2nm race, TSMC's US strategy shifts, Intel EMIB-T faces yield challenge
-- **題材**: `半導體先進製程` | **重要性**: `78`
-- **來源**: Digitimes (2026-10-19T08:55:00Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Microsoft's early adoption of TSMC's 2nm process, a US$2 billion manufacturing partnership between TSMC and GlobalFoundries, and delays to Google's next-gen TPU highlight diverging strategies in AI chip development and advanced packaging.
-- [原文連結](https://www.digitimes.com/news/a20261019PD235/microsoft-tsmc-2nm-intel-digitimes.html)
-
----
-
-### ⚠️ TSMC advances CoPoS packaging at Taoyuan Longtan site
-- **題材**: `半導體先進製程` | **重要性**: `73`
-- **來源**: Digitimes (2026-10-23T06:30:52Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: TSMC's Longtan Science Park Phase 3 in Taoyuan is restarting after nearly three years of delays, with Taiwan's National Development Council approving its development plan on September 17, 2026. The 104.65-hectare site is expected to focus first on advanced pa…
-- [原文連結](https://www.digitimes.com/news/a20261023PD227/tsmc-packaging-southern-taiwan-science-park-capacity-national-development-council.html)
+### 🚀 MaxLinear raises 2026 optical data center revenue forecast to $250M-$270M
+- **題材**: `光通訊與矽光子` | **重要性**: `75`
+- **來源**: Crypto Briefing (2026-10-23T15:04:43Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: MaxLinear's revised forecast highlights robust growth in optical data centers, underscoring the sector's pivotal role in future tech infrastructure.
+The post MaxLinear raises 2026 optical data center revenue forecast to $250M-$270M appeared first on Crypto Br…
+- [原文連結](https://cryptobriefing.com/maxlinear-raises-optical-data-center-forecast/)
 
 ---
 
@@ -65,12 +47,30 @@ The post MaxLinear raises 2026 optical data center revenue forecast to $250M-$27
 
 ---
 
+### ⚖️ DIGITIMES Insight: Microsoft Maia 300 leads 2nm race, TSMC's US strategy shifts, Intel EMIB-T faces yield challenge
+- **題材**: `半導體先進製程` | **重要性**: `73`
+- **來源**: Digitimes (2026-10-19T08:55:00Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Microsoft's early adoption of TSMC's 2nm process, a US$2 billion manufacturing partnership between TSMC and GlobalFoundries, and delays to Google's next-gen TPU highlight diverging strategies in AI chip development and advanced packaging.
+- [原文連結](https://www.digitimes.com/news/a20261019PD235/microsoft-tsmc-2nm-intel-digitimes.html)
+
+---
+
 ### ⚖️ Nvidia unveils OOI CPO prototype for post-2028 AI needs
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
 - **來源**: Digitimes (2026-10-25T00:45:44Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Nvidia has unveiled a prototype of its next-generation co-packaged optics (CPO) technology, Optics-on-Interposer (OOI), at SEMICON West 2026. The design moves the optical engine from a conventional organic package substrate to the silicon interposer carrying …
 - [原文連結](https://www.digitimes.com/news/a20261023PD240/nvidia-cpo-interposer-technology-2026.html)
+
+---
+
+### ⚠️ TSMC advances CoPoS packaging at Taoyuan Longtan site
+- **題材**: `半導體先進製程` | **重要性**: `68`
+- **來源**: Digitimes (2026-10-23T06:30:52Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: TSMC's Longtan Science Park Phase 3 in Taoyuan is restarting after nearly three years of delays, with Taiwan's National Development Council approving its development plan on September 17, 2026. The 104.65-hectare site is expected to focus first on advanced pa…
+- [原文連結](https://www.digitimes.com/news/a20261023PD227/tsmc-packaging-southern-taiwan-science-park-capacity-national-development-council.html)
 
 ---
 
@@ -110,16 +110,6 @@ The post MaxLinear raises 2026 optical data center revenue forecast to $250M-$27
 
 ---
 
-### ⚖️ Credo Technology Group unveils 1.6-terabit optical cable, targets AI market
-- **題材**: `光通訊與矽光子` | **重要性**: `65`
-- **來源**: Crypto Briefing (2026-10-23T13:53:56Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Credo's innovation could redefine AI infrastructure, enhancing efficiency and reliability while potentially setting new industry standards.
-The post Credo Technology Group unveils 1.6-terabit optical cable, targets AI market appeared first on Crypto Briefing.
-- [原文連結](https://cryptobriefing.com/credo-1-6t-active-light-cable-ai/)
-
----
-
 ### 🚀 Nscale, Anthropic In Talks For New $45 Billion AI Cloud Deal
 - **題材**: `AI伺服器` | **重要性**: `65`
 - **來源**: Slashdot.org (2026-10-20T15:00:00Z)
@@ -135,15 +125,6 @@ The post Credo Technology Group unveils 1.6-terabit optical cable, targets AI ma
 - **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Ahead of the midterms Trump has boasted about the performance of the US economy. BBC Verify looks at inflation, jobs and economic growth in the country.
 - [原文連結](https://www.bbc.co.uk/news/articles/cv98ze40jz18o)
-
----
-
-### ⚖️ Illegal Nvidia Blackwell Ultra B300 GPUs found inside state-owned China Telecom's network
-- **題材**: `AI伺服器` | **重要性**: `62`
-- **來源**: Tom's Hardware UK (2026-10-23T12:26:23Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: A security firm has been able to identify 32 Nvidia Blackwell Ultra B300 AI chips running inside a China Telecom network, but it's unclear where the export-barred components are physically located.
-- [原文連結](https://www.tomshardware.com/tech-industry/data-centers/illegal-nvidia-blackwell-ultra-b300-gpus-found-inside-state-owned-china-telecoms-network-nvidia-says-chip-smuggling-a-drop-in-the-bucket-insists-smuggling-remains-a-nonfactor)
 
 ---
 
@@ -174,12 +155,31 @@ The post Credo Technology Group unveils 1.6-terabit optical cable, targets AI ma
 
 ---
 
+### ⚖️ Credo Technology Group unveils 1.6-terabit optical cable, targets AI market
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: Crypto Briefing (2026-10-23T13:53:56Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Credo's innovation could redefine AI infrastructure, enhancing efficiency and reliability while potentially setting new industry standards.
+The post Credo Technology Group unveils 1.6-terabit optical cable, targets AI market appeared first on Crypto Briefing.
+- [原文連結](https://cryptobriefing.com/credo-1-6t-active-light-cable-ai/)
+
+---
+
 ### ⚖️ Nvidia reveals plans to build AI data centers in 14 days instead of 6 months
 - **題材**: `AI伺服器` | **重要性**: `60`
 - **來源**: Yahoo Entertainment (2026-10-21T11:30:00Z)
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Nvidia (NVDA) wants to reduce the time it takes for its customers to start generating revenue from its AI systems.At its GTC event in Berlin on Wednesday, the company unveiled its DSX POD, a reference design for an AI data center packed into a box about the s…
 - [原文連結](https://finance.yahoo.com/technology/article/nvidia-reveals-plans-for-an-ai-factory-in-a-shipping-container-to-build-data-centers-in-weeks-not-months-125029004.html)
+
+---
+
+### ⚖️ SK hynix Starts Discussing Mass Production Plans For iHBM Memory Chips That Aim To Improve Heat Resistance By 30%, Says Report
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: Wccftech (2026-10-21T11:04:55Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Korean memory giant SK hynix, which is among the earliest firms to make high-bandwidth memory (HBM), is reportedly consulting supply chain partners for its next-generation HBM memory called iHBM. HBM memory chips stack layers of DRAM on top of each other and …
+- [原文連結](https://wccftech.com/sk-hynix-starts-discussing-mass-production-plans-for-ihbm-memory-chips-that-aim-to-improve-heat-resistance-by-30-says-report/)
 
 ---
 
