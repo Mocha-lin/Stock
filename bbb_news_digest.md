@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-26T15:52:55.613655+00:00
+> 更新時間：2026-10-26T18:53:57.422794+00:00
 
 ### ⚖️ 2nm and CoWoS expansion lifts Chi Yi Hsin Technology backlog to NT$4.5B
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -80,15 +80,6 @@ The post MaxLinear raises 2026 optical data center revenue forecast to $250M-$27
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: AI processor performance continues to improve, but memory bandwidth is growing more slowly, making data supply a major constraint on AI chip performance and energy efficiency. Efforts to shorten the distance between memory and compute units and increase die-t…
 - [原文連結](https://www.digitimes.com/news/a20261021PD215/hbm-3d-bandwidth-data-performance.html)
-
----
-
-### ⚖️ Contrel, FSE combine laser and plasma processes for advanced packaging
-- **題材**: `半導體先進製程` | **重要性**: `68`
-- **來源**: Digitimes (2026-10-21T00:37:05Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Contrel Technology and FSE jointly showcased dual-core laser micromachining and plasma process technologies at TPCA Show 2026, targeting advanced packaging and high-end substrate manufacturing. The companies' solutions span key processes from surface treatmen…
-- [原文連結](https://www.digitimes.com/news/a20261021PD203/contrel-laser-packaging-high-end-dual-core.html)
 
 ---
 
@@ -180,6 +171,16 @@ The post Credo Technology Group unveils 1.6-terabit optical cable, targets AI ma
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Korean memory giant SK hynix, which is among the earliest firms to make high-bandwidth memory (HBM), is reportedly consulting supply chain partners for its next-generation HBM memory called iHBM. HBM memory chips stack layers of DRAM on top of each other and …
 - [原文連結](https://wccftech.com/sk-hynix-starts-discussing-mass-production-plans-for-ihbm-memory-chips-that-aim-to-improve-heat-resistance-by-30-says-report/)
+
+---
+
+### ⚖️ Nvidia and SPIL plan to expand optical engine capacity in Taiwan
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: Crypto Briefing (2026-10-21T10:43:57Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: The expansion in Taiwan signifies a strategic shift in AI hardware production, enhancing Nvidia's supply chain and Taiwan's tech role.
+The post Nvidia and SPIL plan to expand optical engine capacity in Taiwan appeared first on Crypto Briefing.
+- [原文連結](https://cryptobriefing.com/nvidia-spil-optical-engine-capacity-taiwan/)
 
 ---
 
