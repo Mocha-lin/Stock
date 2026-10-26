@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-25T19:21:27.403988+00:00
+> 更新時間：2026-10-26T00:59:42.204914+00:00
 
 ### ⚖️ 2nm and CoWoS expansion lifts Chi Yi Hsin Technology backlog to NT$4.5B
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -65,6 +65,15 @@ The post MaxLinear raises 2026 optical data center revenue forecast to $250M-$27
 
 ---
 
+### ⚖️ Nvidia unveils OOI CPO prototype for post-2028 AI needs
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-10-25T00:45:44Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Nvidia has unveiled a prototype of its next-generation co-packaged optics (CPO) technology, Optics-on-Interposer (OOI), at SEMICON West 2026. The design moves the optical engine from a conventional organic package substrate to the silicon interposer carrying …
+- [原文連結](https://www.digitimes.com/news/a20261023PD240/nvidia-cpo-interposer-technology-2026.html)
+
+---
+
 ### 🚀 Breaking AI's memory wall: former TSMC VP charts a path with HBM, optical links and 3D stacking
 - **題材**: `半導體先進製程` | **重要性**: `68`
 - **來源**: Digitimes (2026-10-21T01:15:00Z)
@@ -101,6 +110,16 @@ The post MaxLinear raises 2026 optical data center revenue forecast to $250M-$27
 
 ---
 
+### ⚖️ Credo Technology Group unveils 1.6-terabit optical cable, targets AI market
+- **題材**: `光通訊與矽光子` | **重要性**: `65`
+- **來源**: Crypto Briefing (2026-10-23T13:53:56Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Credo's innovation could redefine AI infrastructure, enhancing efficiency and reliability while potentially setting new industry standards.
+The post Credo Technology Group unveils 1.6-terabit optical cable, targets AI market appeared first on Crypto Briefing.
+- [原文連結](https://cryptobriefing.com/credo-1-6t-active-light-cable-ai/)
+
+---
+
 ### 🚀 Nscale, Anthropic In Talks For New $45 Billion AI Cloud Deal
 - **題材**: `AI伺服器` | **重要性**: `65`
 - **來源**: Slashdot.org (2026-10-20T15:00:00Z)
@@ -119,21 +138,21 @@ The post MaxLinear raises 2026 optical data center revenue forecast to $250M-$27
 
 ---
 
-### ⚖️ PC shipments dropped over 20 percent in Q3 due to RAM price hikes
-- **題材**: `總體風險` | **重要性**: `63`
-- **來源**: The Verge (2026-10-22T21:30:39Z)
-- **AI 判讀**: 屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Demand for new PCs took a hit after months of price hikes, with Counterpoint Research reporting global PC shipments fell 21 percent year-over-year in Q3 2026. That's in line with earlier reports from IDC and Omdia. It's not just PCs, either - that same quarte…
-- [原文連結](https://www.theverge.com/gadgets/1017144/global-pc-shipments-dropped-q3-2026-ram)
-
----
-
 ### ⚖️ Illegal Nvidia Blackwell Ultra B300 GPUs found inside state-owned China Telecom's network
 - **題材**: `AI伺服器` | **重要性**: `62`
 - **來源**: Tom's Hardware UK (2026-10-23T12:26:23Z)
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: A security firm has been able to identify 32 Nvidia Blackwell Ultra B300 AI chips running inside a China Telecom network, but it's unclear where the export-barred components are physically located.
 - [原文連結](https://www.tomshardware.com/tech-industry/data-centers/illegal-nvidia-blackwell-ultra-b300-gpus-found-inside-state-owned-china-telecoms-network-nvidia-says-chip-smuggling-a-drop-in-the-bucket-insists-smuggling-remains-a-nonfactor)
+
+---
+
+### ⚖️ SK hynix will build a US fab for Solidigm, but scraps IPO plans
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: TechSpot (2026-10-24T16:35:00Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: A new facility would support Solidigm's high-capacity enterprise SSD business. Its existing manufacturing capacity barely covers projected requirements, making additional production a priority for parent company SK hynix.Read Entire Article
+- [原文連結](https://www.techspot.com/news/114321-sk-hynix-build-us-fab-solidigm-but-scraps.html)
 
 ---
 
@@ -155,30 +174,12 @@ The post MaxLinear raises 2026 optical data center revenue forecast to $250M-$27
 
 ---
 
-### ⚖️ Meta's massive deal for Zuckerberg proves execs aren't exempt from IRL work
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: Business Insider (2026-10-22T21:30:32Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: The tech giant's effort to dissuade its CEO from relocating reflects a common belief that the best work happens when everyone is together in person.
-- [原文連結](https://www.businessinsider.com/meta-board-zuckerberg-california-office-rto-2026-10#article)
-
----
-
 ### ⚖️ Nvidia reveals plans to build AI data centers in 14 days instead of 6 months
 - **題材**: `AI伺服器` | **重要性**: `60`
 - **來源**: Yahoo Entertainment (2026-10-21T11:30:00Z)
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Nvidia (NVDA) wants to reduce the time it takes for its customers to start generating revenue from its AI systems.At its GTC event in Berlin on Wednesday, the company unveiled its DSX POD, a reference design for an AI data center packed into a box about the s…
 - [原文連結](https://finance.yahoo.com/technology/article/nvidia-reveals-plans-for-an-ai-factory-in-a-shipping-container-to-build-data-centers-in-weeks-not-months-125029004.html)
-
----
-
-### ⚖️ SK hynix Starts Discussing Mass Production Plans For iHBM Memory Chips That Aim To Improve Heat Resistance By 30%, Says Report
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: Wccftech (2026-10-21T11:04:55Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Korean memory giant SK hynix, which is among the earliest firms to make high-bandwidth memory (HBM), is reportedly consulting supply chain partners for its next-generation HBM memory called iHBM. HBM memory chips stack layers of DRAM on top of each other and …
-- [原文連結](https://wccftech.com/sk-hynix-starts-discussing-mass-production-plans-for-ihbm-memory-chips-that-aim-to-improve-heat-resistance-by-30-says-report/)
 
 ---
 
