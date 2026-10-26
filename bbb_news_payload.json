@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-10-26T00:59:42.204914+00:00",
+  "generated_at": "2026-10-26T05:36:46.542469+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 70,
@@ -1163,44 +1163,6 @@
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "5d7bf41d01a2b110",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "Chancellor plans to cut 'pointless paperwork' to save businesses up to £800m",
-      "summary": "Ministers say the changes in regulations will reduce unnecessary bureaucracy.",
-      "original_title": "Chancellor plans to cut 'pointless paperwork' to save businesses up to £800m",
-      "url": "https://www.bbc.co.uk/news/articles/cm5ynpywq1e3o",
-      "source": "BBC News",
-      "domain": "bbc.co.uk",
-      "published_at": "2026-10-23T05:00:32Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "a95232bca6937860",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1742,6 +1704,44 @@
       "domain": "businessinsider.com",
       "published_at": "2026-10-19T10:00:01Z",
       "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "5d7bf41d01a2b110",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "Chancellor plans to cut 'pointless paperwork' to save businesses up to £800m",
+      "summary": "Ministers say the changes in regulations will reduce unnecessary bureaucracy.",
+      "original_title": "Chancellor plans to cut 'pointless paperwork' to save businesses up to £800m",
+      "url": "https://www.bbc.co.uk/news/articles/cm5ynpywq1e3o",
+      "source": "BBC News",
+      "domain": "bbc.co.uk",
+      "published_at": "2026-10-23T05:00:32Z",
+      "importance": 50,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -2600,7 +2600,7 @@
       "source": "The Information",
       "domain": "theinformation.com",
       "published_at": "2026-10-19T04:55:18Z",
-      "importance": 50,
+      "importance": 45,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -2621,7 +2621,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「HBM記憶體」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     }
   ]
 }
