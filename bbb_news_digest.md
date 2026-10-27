@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-27T05:48:48.098496+00:00
+> 更新時間：2026-10-27T15:09:12.181615+00:00
 
 ### ⚖️ 2nm and CoWoS expansion lifts Chi Yi Hsin Technology backlog to NT$4.5B
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -11,9 +11,9 @@
 ---
 
 ### 🚀 Podcast highlights: TSMC's 3nm demand story, Samsung HBM shift, and A14 ramp
-- **題材**: `半導體先進製程` | **重要性**: `78`
+- **題材**: `HBM記憶體` | **重要性**: `78`
 - **來源**: Digitimes (2026-10-26T02:57:50Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Following TSMC's third-quarter 2026 earnings call, DIGITIMES analyst Luke Lin provided in a podcast additional analysis of several details that received limited attention in market coverage, including a new 3nm fab at the Southern Taiwan Science Park (STSP), …
 - [原文連結](https://www.digitimes.com/news/a20261023PD235/tsmc-3nm-demand-samsung-hbm.html)
 
@@ -25,6 +25,15 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Growing demand for AI servers, advanced packaging, and data centers is reviving interest in idle LCD plants, with companies acquiring and converting existing sites into semiconductor packaging substrate lines, advanced packaging facilities, and AI computing h…
 - [原文連結](https://www.digitimes.com/news/a20261021PD232/lcd-acquisition-packaging-plant-demand.html)
+
+---
+
+### 🚀 S&P 500: Two AI Chipmakers Make Up 34% of America’s Earnings Boom
+- **題材**: `HBM記憶體` | **重要性**: `75`
+- **來源**: Faz.net (2026-10-26T10:49:19Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Ten companies—including Nvidia, Micron and other AI giants—account for roughly two-thirds of corporate profit growth.
+- [原文連結](https://www.faz.net/aktuell/wall-street-journal/nvidia-micron-and-other-ai-giants-account-for-two-thirds-of-corporate-profit-growth-201621423.html)
 
 ---
 
@@ -44,6 +53,15 @@ The post MaxLinear raises 2026 optical data center revenue forecast to $250M-$27
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Samsung Electronics is reportedly turning to TSMC's 3nm process to produce base dies for Nvidia's custom high-bandwidth memory (NVHBM), abandoning its long-standing turnkey integration model to win a place in Nvidia's supply chain. The move could meet custome…
 - [原文連結](https://www.digitimes.com/news/a20261021PD243/samsung-hbm-nvidia-tsmc-design.html)
+
+---
+
+### ⚖️ Intel explores potential collaboration with AMD as Lip-Bu Tan pushes customer-focused turnaround
+- **題材**: `光通訊與矽光子` | **重要性**: `72`
+- **來源**: Tom's Hardware UK (2026-10-26T12:40:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Intel CEO Lip-Bu Tan has reportedly discussed potential areas of cooperation with AMD chief Lisa Su as Intel works to rebuild its CPU business and expand its foundry operations. The companies have already collaborated on x86 standards and CPU software, includ…
+- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/intel-explores-potential-collaboration-with-amd-as-lip-bu-tan-pushes-customer-focused-turnaround-ceo-targets-custom-chips-advanced-packaging-and-stronger-foundry-business)
 
 ---
 
@@ -120,15 +138,6 @@ The post Nvidia and SPIL plan 15x expansion of co-packaged optics capacity by mi
 
 ---
 
-### 🚀 Nscale, Anthropic In Talks For New $45 Billion AI Cloud Deal
-- **題材**: `AI伺服器` | **重要性**: `65`
-- **來源**: Slashdot.org (2026-10-20T15:00:00Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: An anonymous reader quotes a report from Reuters: Nscale is in talks to sell AI computing power to Claude maker Anthropic in a new deal that could be worth about $45 billion, a person familiar with the matter told Reuters on Monday. The data center developer …
-- [原文連結](https://slashdot.org/story/26/10/20/0536218/nscale-anthropic-in-talks-for-new-45-billion-ai-cloud-deal)
-
----
-
 ### ⚖️ SK hynix will build a US fab for Solidigm, but scraps IPO plans
 - **題材**: `HBM記憶體` | **重要性**: `60`
 - **來源**: TechSpot (2026-10-24T16:35:00Z)
@@ -172,16 +181,6 @@ The post Credo Technology Group unveils 1.6-terabit optical cable, targets AI ma
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Korean memory giant SK hynix, which is among the earliest firms to make high-bandwidth memory (HBM), is reportedly consulting supply chain partners for its next-generation HBM memory called iHBM. HBM memory chips stack layers of DRAM on top of each other and …
 - [原文連結](https://wccftech.com/sk-hynix-starts-discussing-mass-production-plans-for-ihbm-memory-chips-that-aim-to-improve-heat-resistance-by-30-says-report/)
-
----
-
-### ⚖️ Nvidia and SPIL plan to expand optical engine capacity in Taiwan
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: Crypto Briefing (2026-10-21T10:43:57Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: The expansion in Taiwan signifies a strategic shift in AI hardware production, enhancing Nvidia's supply chain and Taiwan's tech role.
-The post Nvidia and SPIL plan to expand optical engine capacity in Taiwan appeared first on Crypto Briefing.
-- [原文連結](https://cryptobriefing.com/nvidia-spil-optical-engine-capacity-taiwan/)
 
 ---
 
