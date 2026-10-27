@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-26T22:54:52.884109+00:00
+> 更新時間：2026-10-27T01:50:22.774104+00:00
 
 ### ⚖️ 2nm and CoWoS expansion lifts Chi Yi Hsin Technology backlog to NT$4.5B
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -47,12 +47,13 @@ The post MaxLinear raises 2026 optical data center revenue forecast to $250M-$27
 
 ---
 
-### ⚖️ DIGITIMES Insight: Microsoft Maia 300 leads 2nm race, TSMC's US strategy shifts, Intel EMIB-T faces yield challenge
-- **題材**: `半導體先進製程` | **重要性**: `73`
-- **來源**: Digitimes (2026-10-19T08:55:00Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Microsoft's early adoption of TSMC's 2nm process, a US$2 billion manufacturing partnership between TSMC and GlobalFoundries, and delays to Google's next-gen TPU highlight diverging strategies in AI chip development and advanced packaging.
-- [原文連結](https://www.digitimes.com/news/a20261019PD235/microsoft-tsmc-2nm-intel-digitimes.html)
+### 🚀 Nvidia and SPIL plan 15x expansion of co-packaged optics capacity by mid-2027
+- **題材**: `光通訊與矽光子` | **重要性**: `70`
+- **來源**: Crypto Briefing (2026-10-24T21:23:06Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: The expansion of optical networking capacity could significantly enhance AI data center efficiency, driving technological and infrastructure growth.
+The post Nvidia and SPIL plan 15x expansion of co-packaged optics capacity by mid-2027 appeared first on Crypt…
+- [原文連結](https://cryptobriefing.com/nvidia-jensen-huang-optical-volume-ai-data-centers/)
 
 ---
 
@@ -74,12 +75,30 @@ The post MaxLinear raises 2026 optical data center revenue forecast to $250M-$27
 
 ---
 
+### ⚖️ Micron faces potential Taiwan strike, union cites Samsung, SK Hynix profit-sharing benchmark
+- **題材**: `HBM記憶體` | **重要性**: `68`
+- **來源**: Digitimes (2026-10-21T03:17:57Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Micron Technology's Taoyuan union has announced a one-day warning strike for October 22, coinciding with a second round of labour mediation between the company and its Taichung union. The Taoyuan union is demanding a concrete response to its profit-sharing pr…
+- [原文連結](https://www.digitimes.com/news/a20261021PD230/micron-strike-taiwan-samsung-sk-hynix.html)
+
+---
+
 ### 🚀 Breaking AI's memory wall: former TSMC VP charts a path with HBM, optical links and 3D stacking
 - **題材**: `半導體先進製程` | **重要性**: `68`
 - **來源**: Digitimes (2026-10-21T01:15:00Z)
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: AI processor performance continues to improve, but memory bandwidth is growing more slowly, making data supply a major constraint on AI chip performance and energy efficiency. Efforts to shorten the distance between memory and compute units and increase die-t…
 - [原文連結](https://www.digitimes.com/news/a20261021PD215/hbm-3d-bandwidth-data-performance.html)
+
+---
+
+### ⚖️ Contrel, FSE combine laser and plasma processes for advanced packaging
+- **題材**: `半導體先進製程` | **重要性**: `68`
+- **來源**: Digitimes (2026-10-21T00:37:05Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Contrel Technology and FSE jointly showcased dual-core laser micromachining and plasma process technologies at TPCA Show 2026, targeting advanced packaging and high-end substrate manufacturing. The companies' solutions span key processes from surface treatmen…
+- [原文連結](https://www.digitimes.com/news/a20261021PD203/contrel-laser-packaging-high-end-dual-core.html)
 
 ---
 
@@ -128,12 +147,12 @@ The post MaxLinear raises 2026 optical data center revenue forecast to $250M-$27
 
 ---
 
-### 🚀 NVIDIA vs. AMD vs. Apple — Here’s What the Numbers Actually Say About Which AI Machine Is Right For You
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: Entrepreneur (2026-10-23T23:30:00Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Before you buy a local AI machine, know what you're actually optimizing for. Here's a breakdown of NVIDIA, AMD and Apple.
-- [原文連結](https://www.entrepreneur.com/business-news/nvidia-vs-amd-vs-apple-heres-what-the-numbers-actually-say-about-which-ai-machine-is-right-for-you)
+### 🚀 Micron's 2027 roadmap: DDR6 with 2x DDR5 bandwidth, 1TB RDIMMs, and 400+ layer NAND
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: TechSpot (2026-10-23T20:12:00Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Micron has detailed its 1δ (1-Delta) node as the follow-up to 1γ (1-Gamma). The new node, which features angstrom-level process control and HKMG CMOS structure, will reportedly deliver roughly 25% higher bit density than its predecessor when manufacturing adv…
+- [原文連結](https://www.techspot.com/news/114313-micron-2027-roadmap-ddr6-2x-ddr5-bandwidth-1tb.html)
 
 ---
 
@@ -162,16 +181,6 @@ The post Credo Technology Group unveils 1.6-terabit optical cable, targets AI ma
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Korean memory giant SK hynix, which is among the earliest firms to make high-bandwidth memory (HBM), is reportedly consulting supply chain partners for its next-generation HBM memory called iHBM. HBM memory chips stack layers of DRAM on top of each other and …
 - [原文連結](https://wccftech.com/sk-hynix-starts-discussing-mass-production-plans-for-ihbm-memory-chips-that-aim-to-improve-heat-resistance-by-30-says-report/)
-
----
-
-### ⚖️ Nvidia and SPIL plan to expand optical engine capacity in Taiwan
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: Crypto Briefing (2026-10-21T10:43:57Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: The expansion in Taiwan signifies a strategic shift in AI hardware production, enhancing Nvidia's supply chain and Taiwan's tech role.
-The post Nvidia and SPIL plan to expand optical engine capacity in Taiwan appeared first on Crypto Briefing.
-- [原文連結](https://cryptobriefing.com/nvidia-spil-optical-engine-capacity-taiwan/)
 
 ---
 
