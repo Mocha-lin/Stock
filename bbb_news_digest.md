@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-27T01:50:22.774104+00:00
+> 更新時間：2026-10-27T05:48:48.098496+00:00
 
 ### ⚖️ 2nm and CoWoS expansion lifts Chi Yi Hsin Technology backlog to NT$4.5B
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -7,6 +7,15 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: The expansion of advanced semiconductor processes and packaging is driving demand for facility engineering, with Chi Yi Hsin Technology securing NT$4.5 billion (US$138.9 million) in orders as it joins the supply chains supporting leading foundry construction …
 - [原文連結](https://www.digitimes.com/news/a20261021PD257/expansion-packaging-demand-2026-business.html)
+
+---
+
+### 🚀 Podcast highlights: TSMC's 3nm demand story, Samsung HBM shift, and A14 ramp
+- **題材**: `半導體先進製程` | **重要性**: `78`
+- **來源**: Digitimes (2026-10-26T02:57:50Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Following TSMC's third-quarter 2026 earnings call, DIGITIMES analyst Luke Lin provided in a podcast additional analysis of several details that received limited attention in market coverage, including a new 3nm fab at the Southern Taiwan Science Park (STSP), …
+- [原文連結](https://www.digitimes.com/news/a20261023PD235/tsmc-3nm-demand-samsung-hbm.html)
 
 ---
 
@@ -38,15 +47,6 @@ The post MaxLinear raises 2026 optical data center revenue forecast to $250M-$27
 
 ---
 
-### ⚖️ Intel says it is the only high-volume fab for 12-inch InP silicon photonics as co-packaged optics nears deployment
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-10-20T03:40:08Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Intel is pitching its foundry as the industry's supplier of light sources for AI data center optics, claiming at the 2026 Open Compute Project (OCP) Global Summit that it is the only high-volume fab that can deliver 12-inch indium phosphide (InP) silicon phot…
-- [原文連結](https://www.digitimes.com/news/a20261020VL204/intel-12-inch-inp-siph-cpo-ocp.html)
-
----
-
 ### 🚀 Nvidia and SPIL plan 15x expansion of co-packaged optics capacity by mid-2027
 - **題材**: `光通訊與矽光子` | **重要性**: `70`
 - **來源**: Crypto Briefing (2026-10-24T21:23:06Z)
@@ -75,15 +75,6 @@ The post Nvidia and SPIL plan 15x expansion of co-packaged optics capacity by mi
 
 ---
 
-### ⚖️ Micron faces potential Taiwan strike, union cites Samsung, SK Hynix profit-sharing benchmark
-- **題材**: `HBM記憶體` | **重要性**: `68`
-- **來源**: Digitimes (2026-10-21T03:17:57Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Micron Technology's Taoyuan union has announced a one-day warning strike for October 22, coinciding with a second round of labour mediation between the company and its Taichung union. The Taoyuan union is demanding a concrete response to its profit-sharing pr…
-- [原文連結](https://www.digitimes.com/news/a20261021PD230/micron-strike-taiwan-samsung-sk-hynix.html)
-
----
-
 ### 🚀 Breaking AI's memory wall: former TSMC VP charts a path with HBM, optical links and 3D stacking
 - **題材**: `半導體先進製程` | **重要性**: `68`
 - **來源**: Digitimes (2026-10-21T01:15:00Z)
@@ -99,6 +90,15 @@ The post Nvidia and SPIL plan 15x expansion of co-packaged optics capacity by mi
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Contrel Technology and FSE jointly showcased dual-core laser micromachining and plasma process technologies at TPCA Show 2026, targeting advanced packaging and high-end substrate manufacturing. The companies' solutions span key processes from surface treatmen…
 - [原文連結](https://www.digitimes.com/news/a20261021PD203/contrel-laser-packaging-high-end-dual-core.html)
+
+---
+
+### ⚖️ Intel says it is the only high-volume fab for 12-inch InP silicon photonics as co-packaged optics nears deployment
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-10-20T03:40:08Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Intel is pitching its foundry as the industry's supplier of light sources for AI data center optics, claiming at the 2026 Open Compute Project (OCP) Global Summit that it is the only high-volume fab that can deliver 12-inch indium phosphide (InP) silicon phot…
+- [原文連結](https://www.digitimes.com/news/a20261020VL204/intel-12-inch-inp-siph-cpo-ocp.html)
 
 ---
 
@@ -126,15 +126,6 @@ The post Nvidia and SPIL plan 15x expansion of co-packaged optics capacity by mi
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: An anonymous reader quotes a report from Reuters: Nscale is in talks to sell AI computing power to Claude maker Anthropic in a new deal that could be worth about $45 billion, a person familiar with the matter told Reuters on Monday. The data center developer …
 - [原文連結](https://slashdot.org/story/26/10/20/0536218/nscale-anthropic-in-talks-for-new-45-billion-ai-cloud-deal)
-
----
-
-### 🚀 How is the US economy really doing under President Trump?
-- **題材**: `總體風險` | **重要性**: `65`
-- **來源**: BBC News (2026-10-20T05:00:45Z)
-- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Ahead of the midterms Trump has boasted about the performance of the US economy. BBC Verify looks at inflation, jobs and economic growth in the country.
-- [原文連結](https://www.bbc.co.uk/news/articles/cv98ze40jz18o)
 
 ---
 
@@ -181,6 +172,16 @@ The post Credo Technology Group unveils 1.6-terabit optical cable, targets AI ma
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Korean memory giant SK hynix, which is among the earliest firms to make high-bandwidth memory (HBM), is reportedly consulting supply chain partners for its next-generation HBM memory called iHBM. HBM memory chips stack layers of DRAM on top of each other and …
 - [原文連結](https://wccftech.com/sk-hynix-starts-discussing-mass-production-plans-for-ihbm-memory-chips-that-aim-to-improve-heat-resistance-by-30-says-report/)
+
+---
+
+### ⚖️ Nvidia and SPIL plan to expand optical engine capacity in Taiwan
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: Crypto Briefing (2026-10-21T10:43:57Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: The expansion in Taiwan signifies a strategic shift in AI hardware production, enhancing Nvidia's supply chain and Taiwan's tech role.
+The post Nvidia and SPIL plan to expand optical engine capacity in Taiwan appeared first on Crypto Briefing.
+- [原文連結](https://cryptobriefing.com/nvidia-spil-optical-engine-capacity-taiwan/)
 
 ---
 

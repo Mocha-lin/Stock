@@ -1,9 +1,9 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-10-27T01:50:22.774104+00:00",
+  "generated_at": "2026-10-27T05:48:48.098496+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
-  "total_count": 71,
+  "total_count": 70,
   "items": [
     {
       "id": "d778b72a8fa891bb",
@@ -42,6 +42,44 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
+      "id": "3fd6d2aea34ac31b",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "Podcast highlights: TSMC's 3nm demand story, Samsung HBM shift, and A14 ramp",
+      "summary": "Following TSMC's third-quarter 2026 earnings call, DIGITIMES analyst Luke Lin provided in a podcast additional analysis of several details that received limited attention in market coverage, including a new 3nm fab at the Southern Taiwan Science Park (STSP), …",
+      "original_title": "Podcast highlights: TSMC's 3nm demand story, Samsung HBM shift, and A14 ramp",
+      "url": "https://www.digitimes.com/news/a20261023PD235/tsmc-3nm-demand-samsung-hbm.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-10-26T02:57:50Z",
+      "importance": 78,
+      "impact": "positive",
+      "timeframe": "short_to_mid_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "9b464336ce8ca52c",
@@ -153,44 +191,6 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
-      "id": "e0f3fa9b11513763",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "Intel says it is the only high-volume fab for 12-inch InP silicon photonics as co-packaged optics nears deployment",
-      "summary": "Intel is pitching its foundry as the industry's supplier of light sources for AI data center optics, claiming at the 2026 Open Compute Project (OCP) Global Summit that it is the only high-volume fab that can deliver 12-inch indium phosphide (InP) silicon phot…",
-      "original_title": "Intel says it is the only high-volume fab for 12-inch InP silicon photonics as co-packaged optics nears deployment",
-      "url": "https://www.digitimes.com/news/a20261020VL204/intel-12-inch-inp-siph-cpo-ocp.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-10-20T03:40:08Z",
-      "importance": 73,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "0d99e1e9ed95cad9",
@@ -307,41 +307,6 @@
       "reason": "屬「半導體先進製程」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "0af20a4356210009",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "Micron faces potential Taiwan strike, union cites Samsung, SK Hynix profit-sharing benchmark",
-      "summary": "Micron Technology's Taoyuan union has announced a one-day warning strike for October 22, coinciding with a second round of labour mediation between the company and its Taichung union. The Taoyuan union is demanding a concrete response to its profit-sharing pr…",
-      "original_title": "Micron faces potential Taiwan strike, union cites Samsung, SK Hynix profit-sharing benchmark",
-      "url": "https://www.digitimes.com/news/a20261021PD230/micron-strike-taiwan-samsung-sk-hynix.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-10-21T03:17:57Z",
-      "importance": 68,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "c83abfae3fd0dca0",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -416,6 +381,44 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "e0f3fa9b11513763",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "Intel says it is the only high-volume fab for 12-inch InP silicon photonics as co-packaged optics nears deployment",
+      "summary": "Intel is pitching its foundry as the industry's supplier of light sources for AI data center optics, claiming at the 2026 Open Compute Project (OCP) Global Summit that it is the only high-volume fab that can deliver 12-inch indium phosphide (InP) silicon phot…",
+      "original_title": "Intel says it is the only high-volume fab for 12-inch InP silicon photonics as co-packaged optics nears deployment",
+      "url": "https://www.digitimes.com/news/a20261020VL204/intel-12-inch-inp-siph-cpo-ocp.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-10-20T03:40:08Z",
+      "importance": 68,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "da35a5fceeb4be51",
@@ -527,44 +530,6 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "f76d916fba546716",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "How is the US economy really doing under President Trump?",
-      "summary": "Ahead of the midterms Trump has boasted about the performance of the US economy. BBC Verify looks at inflation, jobs and economic growth in the country.",
-      "original_title": "How is the US economy really doing under President Trump?",
-      "url": "https://www.bbc.co.uk/news/articles/cv98ze40jz18o",
-      "source": "BBC News",
-      "domain": "bbc.co.uk",
-      "published_at": "2026-10-20T05:00:45Z",
-      "importance": 65,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "5e5d19b53bf43a37",
@@ -784,6 +749,44 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "f76d916fba546716",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "How is the US economy really doing under President Trump?",
+      "summary": "Ahead of the midterms Trump has boasted about the performance of the US economy. BBC Verify looks at inflation, jobs and economic growth in the country.",
+      "original_title": "How is the US economy really doing under President Trump?",
+      "url": "https://www.bbc.co.uk/news/articles/cv98ze40jz18o",
+      "source": "BBC News",
+      "domain": "bbc.co.uk",
+      "published_at": "2026-10-20T05:00:45Z",
+      "importance": 60,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "9587e1ccc1efa72c",
@@ -1277,44 +1280,6 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "c8cff08d4b051b52",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "OPPO Find X10 Series Goes Global, But Europe Gets A Smaller Battery",
-      "summary": "OPPO launched the Find X10 and Find X10 Pro Max globally. European units get a 7,150mAh battery, not the 8,000mAh on OPPO's global spec pages.",
-      "original_title": "OPPO Find X10 Series Goes Global, But Europe Gets A Smaller Battery",
-      "url": "https://www.ubergizmo.com/2026/10/oppo-find-x10-series-goes-global-but-europe-gets-a-smaller-battery/",
-      "source": "Ubergizmo",
-      "domain": "ubergizmo.com",
-      "published_at": "2026-10-21T18:28:54Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "114edaf5fc5d8e6d",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1617,41 +1582,6 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "3cade5cc2014258b",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "Samsung secures its profits for the next 5 years amid AI boom",
-      "summary": "Due to the ongoing artificial intelligence (AI) boom, there has been a severe shortage of memory chips globally. This has caused memory chip prices to rise exponentially, allowing Samsung, the world's biggest memory chip maker, to reap immense profits. Now, t…",
-      "original_title": "Samsung secures its profits for the next 5 years amid AI boom",
-      "url": "https://www.sammobile.com/news/samsung-secures-5-year-revenue-dram-memory-chips-supply/",
-      "source": "SamMobile",
-      "domain": "sammobile.com",
-      "published_at": "2026-10-20T05:28:45Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "c8544466322398e6",
@@ -2589,17 +2519,17 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "c780e923684f84bd",
+      "id": "3cade5cc2014258b",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "HBM記憶體",
-      "title": "Ukraine identified a slew of foreign parts in Russia's anti-jamming tech. Over 75% are American.",
-      "summary": "Russia's Kometa systems for Shahed drones and Iskander-M missiles were found with 28 chips and other electronics made by US firms, per GUR.",
-      "original_title": "Ukraine identified a slew of foreign parts in Russia's anti-jamming tech. Over 75% are American.",
-      "url": "https://www.businessinsider.com/ukraine-foreign-parts-russian-anti-jamming-kometa-us-tech-2026-10#article",
-      "source": "Business Insider",
-      "domain": "businessinsider.com",
-      "published_at": "2026-10-20T05:10:38Z",
+      "title": "Samsung secures its profits for the next 5 years amid AI boom",
+      "summary": "Due to the ongoing artificial intelligence (AI) boom, there has been a severe shortage of memory chips globally. This has caused memory chip prices to rise exponentially, allowing Samsung, the world's biggest memory chip maker, to reap immense profits. Now, t…",
+      "original_title": "Samsung secures its profits for the next 5 years amid AI boom",
+      "url": "https://www.sammobile.com/news/samsung-secures-5-year-revenue-dram-memory-chips-supply/",
+      "source": "SamMobile",
+      "domain": "sammobile.com",
+      "published_at": "2026-10-20T05:28:45Z",
       "importance": 50,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -2624,6 +2554,41 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "c780e923684f84bd",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "Ukraine identified a slew of foreign parts in Russia's anti-jamming tech. Over 75% are American.",
+      "summary": "Russia's Kometa systems for Shahed drones and Iskander-M missiles were found with 28 chips and other electronics made by US firms, per GUR.",
+      "original_title": "Ukraine identified a slew of foreign parts in Russia's anti-jamming tech. Over 75% are American.",
+      "url": "https://www.businessinsider.com/ukraine-foreign-parts-russian-anti-jamming-kometa-us-tech-2026-10#article",
+      "source": "Business Insider",
+      "domain": "businessinsider.com",
+      "published_at": "2026-10-20T05:10:38Z",
+      "importance": 45,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
+    },
+    {
       "id": "61572eda848fcbde",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2635,7 +2600,7 @@
       "source": "Yahoo Entertainment",
       "domain": "yahoo.com",
       "published_at": "2026-10-20T04:01:10Z",
-      "importance": 50,
+      "importance": 45,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -2659,7 +2624,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「總體風險」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     }
   ]
 }
