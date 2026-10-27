@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-27T18:25:19.493055+00:00
+> 更新時間：2026-10-27T22:41:48.477030+00:00
 
 ### ⚖️ 2nm and CoWoS expansion lifts Chi Yi Hsin Technology backlog to NT$4.5B
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -7,15 +7,6 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: The expansion of advanced semiconductor processes and packaging is driving demand for facility engineering, with Chi Yi Hsin Technology securing NT$4.5 billion (US$138.9 million) in orders as it joins the supply chains supporting leading foundry construction …
 - [原文連結](https://www.digitimes.com/news/a20261021PD257/expansion-packaging-demand-2026-business.html)
-
----
-
-### 🚀 Podcast highlights: TSMC's 3nm demand story, Samsung HBM shift, and A14 ramp
-- **題材**: `HBM記憶體` | **重要性**: `78`
-- **來源**: Digitimes (2026-10-26T02:57:50Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Following TSMC's third-quarter 2026 earnings call, DIGITIMES analyst Luke Lin provided in a podcast additional analysis of several details that received limited attention in market coverage, including a new 3nm fab at the Southern Taiwan Science Park (STSP), …
-- [原文連結](https://www.digitimes.com/news/a20261023PD235/tsmc-3nm-demand-samsung-hbm.html)
 
 ---
 
@@ -119,22 +110,30 @@ The post MaxLinear raises 2026 optical data center revenue forecast to $250M-$27
 
 ---
 
+### ⚖️ iPronics Names Co-Founder & Photonics Pioneer Dr. Daniel Pérez-López as CEO to Drive Commercial Scale for AI Optical Circuit Switching
+- **題材**: `光通訊與矽光子` | **重要性**: `65`
+- **來源**: Financial Post (2026-10-26T21:18:14Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Former CTO steps up to CEO role alongside industry veteran Geoffrey Tate as Chairman of the Board to accelerate volume deployment of silicon photonics optical circuit switches VALENCIA, Spain and SANTA CLARA, Calif., Oct. 26, 2026 (GLOBE NEWSWIRE) — iPronics,…
+- [原文連結](https://financialpost.com/globe-newswire/ipronics-names-co-founder-photonics-pioneer-dr-daniel-perez-lopez-as-ceo-to-drive-commercial-scale-for-ai-optical-circuit-switching)
+
+---
+
+### ⚠️ Amid sweeping layoffs at Xbox and massive AI investments, Microsoft introduces a "Voluntary Exit Offer" to 60,000 workers
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: Eurogamer.net (2026-10-26T18:44:22Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Xbox isn't the only Microsoft division looking to massively reduce worker headcounts. In fact, Microsoft has just announced a "Voluntary Exit Offer" that will essentially pay staff to move in front of any potential layoffs and voluntarily leave their jobs. Re…
+- [原文連結](https://www.eurogamer.net/xbox-ai-microsoft-voluntary-exit-offer-60000)
+
+---
+
 ### 🚀 Micron's 2027 roadmap: DDR6 with 2x DDR5 bandwidth, 1TB RDIMMs, and 400+ layer NAND
 - **題材**: `HBM記憶體` | **重要性**: `60`
 - **來源**: TechSpot (2026-10-23T20:12:00Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Micron has detailed its 1δ (1-Delta) node as the follow-up to 1γ (1-Gamma). The new node, which features angstrom-level process control and HKMG CMOS structure, will reportedly deliver roughly 25% higher bit density than its predecessor when manufacturing adv…
 - [原文連結](https://www.techspot.com/news/114313-micron-2027-roadmap-ddr6-2x-ddr5-bandwidth-1tb.html)
-
----
-
-### ⚖️ Credo Technology Group unveils 1.6-terabit optical cable, targets AI market
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: Crypto Briefing (2026-10-23T13:53:56Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Credo's innovation could redefine AI infrastructure, enhancing efficiency and reliability while potentially setting new industry standards.
-The post Credo Technology Group unveils 1.6-terabit optical cable, targets AI market appeared first on Crypto Briefing.
-- [原文連結](https://cryptobriefing.com/credo-1-6t-active-light-cable-ai/)
 
 ---
 
