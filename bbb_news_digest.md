@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-28T18:32:32.546056+00:00
+> 更新時間：2026-10-28T22:54:17.473521+00:00
 
 ### 🚀 OPTOELEC seeks AI data center orders as Himax advances CPO optics
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -7,15 +7,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: South Korean optics maker Optoelec is seeing growing interest from AI data center customers as it seeks to expand its wafer-level optics (WLO) business into high-speed optical communications, a market where Taiwanese suppliers are already moving toward commer…
 - [原文連結](https://www.digitimes.com/news/a20261024VL202/optics-cpo-data-center-himax-production.html)
-
----
-
-### ⚖️ 2nm and CoWoS expansion lifts Chi Yi Hsin Technology backlog to NT$4.5B
-- **題材**: `半導體先進製程` | **重要性**: `83`
-- **來源**: Digitimes (2026-10-21T23:48:10Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: The expansion of advanced semiconductor processes and packaging is driving demand for facility engineering, with Chi Yi Hsin Technology securing NT$4.5 billion (US$138.9 million) in orders as it joins the supply chains supporting leading foundry construction …
-- [原文連結](https://www.digitimes.com/news/a20261021PD257/expansion-packaging-demand-2026-business.html)
 
 ---
 
@@ -65,39 +56,12 @@ The post MaxLinear raises 2026 optical data center revenue forecast to $250M-$27
 
 ---
 
-### 🚀 TSMC and others turn LCD plants into AI assets as LG Innotek weighs acquisition
-- **題材**: `半導體先進製程` | **重要性**: `73`
-- **來源**: Digitimes (2026-10-21T03:45:00Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Growing demand for AI servers, advanced packaging, and data centers is reviving interest in idle LCD plants, with companies acquiring and converting existing sites into semiconductor packaging substrate lines, advanced packaging facilities, and AI computing h…
-- [原文連結](https://www.digitimes.com/news/a20261021PD232/lcd-acquisition-packaging-plant-demand.html)
-
----
-
 ### ⚖️ Intel explores potential collaboration with AMD as Lip-Bu Tan pushes customer-focused turnaround
 - **題材**: `光通訊與矽光子` | **重要性**: `72`
 - **來源**: Tom's Hardware UK (2026-10-26T12:40:00Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Intel CEO Lip-Bu Tan has reportedly discussed potential areas of cooperation with AMD chief Lisa Su as Intel works to rebuild its CPU business and expand its foundry operations. The companies have already collaborated on x86 standards and CPU software, includ…
 - [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/intel-explores-potential-collaboration-with-amd-as-lip-bu-tan-pushes-customer-focused-turnaround-ceo-targets-custom-chips-advanced-packaging-and-stronger-foundry-business)
-
----
-
-### ⚠️ TSMC advances CoPoS packaging at Taoyuan Longtan site
-- **題材**: `半導體先進製程` | **重要性**: `68`
-- **來源**: Digitimes (2026-10-23T06:30:52Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: TSMC's Longtan Science Park Phase 3 in Taoyuan is restarting after nearly three years of delays, with Taiwan's National Development Council approving its development plan on September 17, 2026. The 104.65-hectare site is expected to focus first on advanced pa…
-- [原文連結](https://www.digitimes.com/news/a20261023PD227/tsmc-packaging-southern-taiwan-science-park-capacity-national-development-council.html)
-
----
-
-### ⚖️ Intel installs production tools at Fab 62 in Arizona, provides updates on Ohio chip fab
-- **題材**: `半導體先進製程` | **重要性**: `67`
-- **來源**: Tom's Hardware UK (2026-10-21T19:35:53Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Intel makes progress on its manufacturing expansion in Arizona and Ohio as it continues to expand advanced semiconductor manufacturing capacity in the U.S.
-- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/intel-installs-production-tools-at-fab-62-in-arizona-provides-updates-on-ohio-chip-fab-confirms-high-na-euv-for-high-volume-manufacturing-in-2028)
 
 ---
 
@@ -128,12 +92,30 @@ The post MaxLinear raises 2026 optical data center revenue forecast to $250M-$27
 
 ---
 
+### ⚖️ Intel installs production tools at Fab 62 in Arizona, provides updates on Ohio chip fab
+- **題材**: `半導體先進製程` | **重要性**: `62`
+- **來源**: Tom's Hardware UK (2026-10-21T19:35:53Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Intel makes progress on its manufacturing expansion in Arizona and Ohio as it continues to expand advanced semiconductor manufacturing capacity in the U.S.
+- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/intel-installs-production-tools-at-fab-62-in-arizona-provides-updates-on-ohio-chip-fab-confirms-high-na-euv-for-high-volume-manufacturing-in-2028)
+
+---
+
 ### 🚀 Samsung and SK Hynix are upgrading Chinese factories to produce advanced RAM chips as AI data center competition ramps up
 - **題材**: `HBM記憶體` | **重要性**: `62`
 - **來源**: Tom's Hardware UK (2026-10-21T11:49:44Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Samsung and SK Hynix are reportedly upgrading their factories to produce more advanced RAM chips designed for AI data centers in an attempt to fend off competition from Chinese companies.
 - [原文連結](https://www.tomshardware.com/pc-components/dram/samsung-and-sk-hynix-are-upgrading-chinese-factories-to-produce-advanced-ram-chips-as-ai-data-center-competition-ramps-up-big-players-move-to-fight-off-the-threat-from-cxmt-and-co)
+
+---
+
+### ⚖️ Big Red gets cozy with Google to offer TPUs to AI customers
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: Theregister.com (2026-10-27T20:20:27Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Oracle plans to add those chips alongside new Nvidia hardware and OpenAI services as businesses await AI payoffs
+- [原文連結](https://www.theregister.com/ai-and-ml/2026/10/27/big-red-gets-cozy-with-google-to-offer-tpus-to-ai-customers/5305846)
 
 ---
 
@@ -193,6 +175,24 @@ The M6 iMac starts at $1,49…
 - **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Jio's IPO promises a windfall for investors, but could signal the end of cheap mobile data for millions.
 - [原文連結](https://www.bbc.co.uk/news/articles/cw78pe7vlej5o)
+
+---
+
+### ⚠️ Amid sweeping layoffs at Xbox and massive AI investments, Microsoft introduces a "Voluntary Exit Offer" to 60,000 workers
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: Eurogamer.net (2026-10-26T18:44:22Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Xbox isn't the only Microsoft division looking to massively reduce worker headcounts. In fact, Microsoft has just announced a "Voluntary Exit Offer" that will essentially pay staff to move in front of any potential layoffs and voluntarily leave their jobs. Re…
+- [原文連結](https://www.eurogamer.net/xbox-ai-microsoft-voluntary-exit-offer-60000)
+
+---
+
+### 🚀 Micron's 2027 roadmap: DDR6 with 2x DDR5 bandwidth, 1TB RDIMMs, and 400+ layer NAND
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: TechSpot (2026-10-23T20:12:00Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Micron has detailed its 1δ (1-Delta) node as the follow-up to 1γ (1-Gamma). The new node, which features angstrom-level process control and HKMG CMOS structure, will reportedly deliver roughly 25% higher bit density than its predecessor when manufacturing adv…
+- [原文連結](https://www.techspot.com/news/114313-micron-2027-roadmap-ddr6-2x-ddr5-bandwidth-1tb.html)
 
 ---
 
