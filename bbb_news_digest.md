@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-28T15:45:13.528135+00:00
+> 更新時間：2026-10-28T18:32:32.546056+00:00
 
 ### 🚀 OPTOELEC seeks AI data center orders as Himax advances CPO optics
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
