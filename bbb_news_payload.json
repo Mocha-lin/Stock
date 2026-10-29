@@ -1,9 +1,9 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-10-28T22:54:17.473521+00:00",
+  "generated_at": "2026-10-29T02:08:28.860394+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
-  "total_count": 71,
+  "total_count": 68,
   "items": [
     {
       "id": "4bde6c0ee8ecc6e3",
@@ -190,19 +190,19 @@
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
-      "id": "2a3b1f74b6067f99",
+      "id": "a7430a4338f6f0f6",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "HBM記憶體",
-      "title": "Samsung's Nvidia HBM bid raises four strategic concerns",
-      "summary": "Samsung Electronics is reportedly turning to TSMC's 3nm process to produce base dies for Nvidia's custom high-bandwidth memory (NVHBM), abandoning its long-standing turnkey integration model to win a place in Nvidia's supply chain. The move could meet custome…",
-      "original_title": "Samsung's Nvidia HBM bid raises four strategic concerns",
-      "url": "https://www.digitimes.com/news/a20261021PD243/samsung-hbm-nvidia-tsmc-design.html",
+      "title": "AI demand squeezes automotive memory, pushing automakers to take control of chip supply",
+      "summary": "Expanding investment in AI data centers is putting pressure on memory supply and demand across the automotive industry. As semiconductor companies prioritize high-bandwidth memory (HBM) and server products, automotive memory faces rising prices and tighter su…",
+      "original_title": "AI demand squeezes automotive memory, pushing automakers to take control of chip supply",
+      "url": "https://www.digitimes.com/news/a20261027PD220/automakers-automotive-demand-investment-data.html",
       "source": "Digitimes",
       "domain": "digitimes.com",
-      "published_at": "2026-10-21T23:51:37Z",
+      "published_at": "2026-10-27T04:20:00Z",
       "importance": 73,
-      "impact": "positive",
+      "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
         "HBM",
@@ -222,7 +222,45 @@
         "009",
         "010"
       ],
-      "reason": "屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+      "reason": "屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
+      "id": "d405a684ed345a4a",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "Cheng Mei develops materials for advanced packaging glass substrates",
+      "summary": "As advanced packaging shifts toward large-size glass substrates, Cheng Mei Materials Technology is developing materials to address warpage, heat resistance, and drilling challenges. Its cutting and grinding tapes have entered customer validation and small-vol…",
+      "original_title": "Cheng Mei develops materials for advanced packaging glass substrates",
+      "url": "https://www.digitimes.com/news/a20261023PD229/packaging-materials-large-size-loss-substrate.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-10-26T23:50:23Z",
+      "importance": 73,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "2a583fe670001205",
@@ -261,6 +299,79 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
+      "id": "44baa68b9445bc32",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "TSMC advances CoPoS packaging at Taoyuan Longtan site",
+      "summary": "TSMC's Longtan Science Park Phase 3 in Taoyuan is restarting after nearly three years of delays, with Taiwan's National Development Council approving its development plan on September 17, 2026. The 104.65-hectare site is expected to focus first on advanced pa…",
+      "original_title": "TSMC advances CoPoS packaging at Taoyuan Longtan site",
+      "url": "https://www.digitimes.com/news/a20261023PD227/tsmc-packaging-southern-taiwan-science-park-capacity-national-development-council.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-10-23T06:30:52Z",
+      "importance": 68,
+      "impact": "negative",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "736e4b25139e0239",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "Chinese tech giants seek 10-year memory chip contracts with Samsung",
+      "summary": "There has been a severe shortage of memory chips for the past couple of years, and Samsung is making full use of its dominant position in this segment to increase profits and secure its near future. The world's largest memory chip maker can now rest assured t…",
+      "original_title": "Chinese tech giants seek 10-year memory chip contracts with Samsung",
+      "url": "https://www.sammobile.com/news/chinese-tech-giants-buy-samsung-memory-chips-long-time/",
+      "source": "SamMobile",
+      "domain": "sammobile.com",
+      "published_at": "2026-10-27T09:11:42Z",
+      "importance": 65,
+      "impact": "negative",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "b5565b96a7d77c1f",
@@ -377,57 +488,19 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "da35a5fceeb4be51",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "Intel installs production tools at Fab 62 in Arizona, provides updates on Ohio chip fab",
-      "summary": "Intel makes progress on its manufacturing expansion in Arizona and Ohio as it continues to expand advanced semiconductor manufacturing capacity in the U.S.",
-      "original_title": "Intel installs production tools at Fab 62 in Arizona, provides updates on Ohio chip fab",
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/intel-installs-production-tools-at-fab-62-in-arizona-provides-updates-on-ohio-chip-fab-confirms-high-na-euv-for-high-volume-manufacturing-in-2028",
-      "source": "Tom's Hardware UK",
-      "domain": "tomshardware.com",
-      "published_at": "2026-10-21T19:35:53Z",
-      "importance": 62,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "f3aeca900d8bffb4",
+      "id": "c246f89b2ee81cc6",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "HBM記憶體",
-      "title": "Samsung and SK Hynix are upgrading Chinese factories to produce advanced RAM chips as AI data center competition ramps up",
-      "summary": "Samsung and SK Hynix are reportedly upgrading their factories to produce more advanced RAM chips designed for AI data centers in an attempt to fend off competition from Chinese companies.",
-      "original_title": "Samsung and SK Hynix are upgrading Chinese factories to produce advanced RAM chips as AI data center competition ramps up",
-      "url": "https://www.tomshardware.com/pc-components/dram/samsung-and-sk-hynix-are-upgrading-chinese-factories-to-produce-advanced-ram-chips-as-ai-data-center-competition-ramps-up-big-players-move-to-fight-off-the-threat-from-cxmt-and-co",
-      "source": "Tom's Hardware UK",
-      "domain": "tomshardware.com",
-      "published_at": "2026-10-21T11:49:44Z",
-      "importance": 62,
-      "impact": "positive",
+      "title": "SK Hynix reportedly engages suppliers to bring 30% more efficient iHBM cooling to HBM5 production",
+      "summary": "SK Hynix is reportedly working with materials and equipment suppliers to commercialise its next-generation iHBM cooling technology, targeting a reduction of more than 30% in thermal resistance. The initiative aims to address mounting heat dissipation challeng…",
+      "original_title": "SK Hynix reportedly engages suppliers to bring 30% more efficient iHBM cooling to HBM5 production",
+      "url": "https://www.digitimes.com/news/a20261022VL218/sk-hynix-cooling-production-materials-equipment.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-10-23T00:31:36Z",
+      "importance": 63,
+      "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
         "HBM",
@@ -447,7 +520,45 @@
         "009",
         "010"
       ],
-      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "c88ebc30d9cf39b4",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "etalon-photonics 0.2.0",
+      "summary": "Etalon — an open-source silicon photonics design toolkit: material models, waveguide mode solvers, S-matrix photonic circuit simulation, optical link budgets for AI-datacenter interconnects (co-packaged optics, pluggables), and Monte Carlo yield analysis for …",
+      "original_title": "etalon-photonics 0.2.0",
+      "url": "https://pypi.org/project/etalon-photonics/0.2.0/",
+      "source": "Pypi.org",
+      "domain": "pypi.org",
+      "published_at": "2026-10-27T22:07:40Z",
+      "importance": 60,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "e6af47eb662d19d5",
@@ -745,6 +856,44 @@
       "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "71014a613a552170",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "Credo Technology Group unveils 1.6-terabit optical cable, targets AI market",
+      "summary": "Credo's innovation could redefine AI infrastructure, enhancing efficiency and reliability while potentially setting new industry standards.\nThe post Credo Technology Group unveils 1.6-terabit optical cable, targets AI market appeared first on Crypto Briefing.",
+      "original_title": "Credo Technology Group unveils 1.6-terabit optical cable, targets AI market",
+      "url": "https://cryptobriefing.com/credo-1-6t-active-light-cable-ai/",
+      "source": "Crypto Briefing",
+      "domain": "cryptobriefing.com",
+      "published_at": "2026-10-23T13:53:56Z",
+      "importance": 60,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "9587e1ccc1efa72c",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -819,6 +968,44 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "08a02baaf406081f",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "Touchscreen MacBook Pro to Reportedly Start at $2,899 for 14-Inch, $3,399 for 16-Inch",
+      "summary": "Anonymous sources tell Bloomberg Apple has “discussed” some wild prices.",
+      "original_title": "Touchscreen MacBook Pro to Reportedly Start at $2,899 for 14-Inch, $3,399 for 16-Inch",
+      "url": "https://gizmodo.com/touchscreen-macbook-pro-to-reportedly-start-at-2899-for-14-inch-3399-for-16-inch-2000831512",
+      "source": "Gizmodo.com",
+      "domain": "gizmodo.com",
+      "published_at": "2026-10-28T00:47:33Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "6e8b0af3c688c2a8",
@@ -1022,6 +1209,44 @@
       "source": "NPR",
       "domain": "npr.org",
       "published_at": "2026-10-27T14:15:21Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "394eb40594722d5b",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Jay-Z to Headline Super Bowl LXI Halftime Show",
+      "summary": "The rapper confirmed he would headline the gig, which his company Roc Nation has had a hand in producing since 2019",
+      "original_title": "Jay-Z to Headline Super Bowl LXI Halftime Show",
+      "url": "http://www.rollingstone.com/music/music-news/jay-z-headline-2027-super-bowl-halftime-show-1235648064/",
+      "source": "Rolling Stone",
+      "domain": "rollingstone.com",
+      "published_at": "2026-10-27T01:51:31Z",
       "importance": 55,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -1312,6 +1537,44 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "5cfa3b6a6d94f833",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "Former Intel CEO Pat Gelsinger bets on Nagare Labs to vault the memory wall",
+      "summary": "SRAM-like bandwidth, DRAM-like density, and NAND-like manufacturing: Z2RAM makes big promises, but the road ahead is arduous and littered with the ruins of failed memory vendors",
+      "original_title": "Former Intel CEO Pat Gelsinger bets on Nagare Labs to vault the memory wall",
+      "url": "https://www.theregister.com/systems/2026/10/26/former-intel-ceo-pat-gelsinger-bets-on-nagare-labs-to-vault-the-memory-wall/5305181",
+      "source": "Theregister.com",
+      "domain": "theregister.com",
+      "published_at": "2026-10-26T12:00:00Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "c3382425e1f06f7e",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1350,19 +1613,19 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "426557b1ec0d0ba8",
+      "id": "676db126482f56e4",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "總體風險",
-      "title": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
-      "summary": "The economic is positive now but come January things could become trickier for the Labour government",
-      "original_title": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
-      "url": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o",
-      "source": "BBC News",
-      "domain": "bbc.co.uk",
-      "published_at": "2026-10-26T00:26:49Z",
+      "title": "Trump on high gas prices: 'We're making a freaking fortune'",
+      "summary": "Americans, meanwhile, are paying record prices at the pump, according to AAA.",
+      "original_title": "Trump on high gas prices: 'We're making a freaking fortune'",
+      "url": "https://www.businessinsider.com/high-gas-prices-donald-trump-oil-companies-midterm-election-2026-10#article",
+      "source": "Business Insider",
+      "domain": "businessinsider.com",
+      "published_at": "2026-10-25T18:04:55Z",
       "importance": 55,
-      "impact": "neutral",
+      "impact": "positive",
       "timeframe": "short_term",
       "tags": [
         "總體",
@@ -1385,7 +1648,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "5e5d19b53bf43a37",
@@ -1499,6 +1762,41 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "1bfbc355c4dcbb5d",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "The tech selloff is forcing companies to rethink IPO plans",
+      "summary": "South Korean chipmaker SK Hynix is the latest AI winner to shelve an IPO as the tech rout spreads.",
+      "original_title": "The tech selloff is forcing companies to rethink IPO plans",
+      "url": "https://www.businessinsider.com/ai-selloff-companies-rethink-ipo-sk-hynix-kospi-2026-10#article",
+      "source": "Business Insider",
+      "domain": "businessinsider.com",
+      "published_at": "2026-10-23T04:22:00Z",
+      "importance": 55,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "a95232bca6937860",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1537,18 +1835,18 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "93d5dfc793519099",
+      "id": "426557b1ec0d0ba8",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "總體風險",
-      "title": "US State Department orders some staff to leave Saudi Arabia as attacks escalate",
-      "summary": "The warning to US officials comes as at least three people die in the latest strikes at an airport and an oil field.",
-      "original_title": "US State Department orders some staff to leave Saudi Arabia as attacks escalate",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2vpk93770o",
+      "title": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
+      "summary": "The economic is positive now but come January things could become trickier for the Labour government",
+      "original_title": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
+      "url": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o",
       "source": "BBC News",
       "domain": "bbc.co.uk",
-      "published_at": "2026-10-22T01:07:34Z",
-      "importance": 55,
+      "published_at": "2026-10-26T00:26:49Z",
+      "importance": 50,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -1573,193 +1871,6 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "9cf0aba844af446d",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "AI and Data Centers Will Impact Midterm Voting, According to Experts",
-      "summary": "Americans are mostly negative on AI and oppose new data centers near them, another poll shows.",
-      "original_title": "AI and Data Centers Will Impact Midterm Voting, According to Experts",
-      "url": "https://www.cnet.com/news/politics/polls-experts-ai-data-centers-midterm-voting/",
-      "source": "CNET",
-      "domain": "cnet.com",
-      "published_at": "2026-10-22T00:24:08Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "795f6c6583a745d7",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Nvidia reveals plans to build AI data centers in 14 days instead of 6 months",
-      "summary": "Nvidia (NVDA) wants to reduce the time it takes for its customers to start generating revenue from its AI systems.At its GTC event in Berlin on Wednesday, the company unveiled its DSX POD, a reference design for an AI data center packed into a box about the s…",
-      "original_title": "Nvidia reveals plans to build AI data centers in 14 days instead of 6 months",
-      "url": "https://finance.yahoo.com/technology/article/nvidia-reveals-plans-for-an-ai-factory-in-a-shipping-container-to-build-data-centers-in-weeks-not-months-125029004.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-10-21T11:30:00Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "665b804a61d2b012",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "SK hynix Starts Discussing Mass Production Plans For iHBM Memory Chips That Aim To Improve Heat Resistance By 30%, Says Report",
-      "summary": "Korean memory giant SK hynix, which is among the earliest firms to make high-bandwidth memory (HBM), is reportedly consulting supply chain partners for its next-generation HBM memory called iHBM. HBM memory chips stack layers of DRAM on top of each other and …",
-      "original_title": "SK hynix Starts Discussing Mass Production Plans For iHBM Memory Chips That Aim To Improve Heat Resistance By 30%, Says Report",
-      "url": "https://wccftech.com/sk-hynix-starts-discussing-mass-production-plans-for-ihbm-memory-chips-that-aim-to-improve-heat-resistance-by-30-says-report/",
-      "source": "Wccftech",
-      "domain": "wccftech.com",
-      "published_at": "2026-10-21T11:04:55Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "fcef117342893901",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "Nvidia and SPIL plan to expand optical engine capacity in Taiwan",
-      "summary": "The expansion in Taiwan signifies a strategic shift in AI hardware production, enhancing Nvidia's supply chain and Taiwan's tech role.\nThe post Nvidia and SPIL plan to expand optical engine capacity in Taiwan appeared first on Crypto Briefing.",
-      "original_title": "Nvidia and SPIL plan to expand optical engine capacity in Taiwan",
-      "url": "https://cryptobriefing.com/nvidia-spil-optical-engine-capacity-taiwan/",
-      "source": "Crypto Briefing",
-      "domain": "cryptobriefing.com",
-      "published_at": "2026-10-21T10:43:57Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "05df11fc42dabf64",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "Three workers killed, one in intensive care after fall at TSMC’s 2nm fab construction site",
-      "summary": "Three contract workers died, and one is in intensive care after a fall at TSMC’s Fab 22 construction site in Kaohsiung, Taiwan.",
-      "original_title": "Three workers killed, one in intensive care after fall at TSMC’s 2nm fab construction site",
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/three-workers-killed-one-in-intensive-care-after-fall-at-tsmcs-2nm-fab-construction-site-in-kaohsiung-broken-bolt-on-a-steel-connection-plate-suspected-as-cause-behind-tragic-accident",
-      "source": "Tom's Hardware UK",
-      "domain": "tomshardware.com",
-      "published_at": "2026-10-21T10:00:00Z",
-      "importance": 52,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "62049cbada6e5ee8",
@@ -1949,6 +2060,120 @@
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "de1e6164a1d28e3b",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Robert Rubin, Faux Statesman",
+      "summary": "His seemingly high-minded piece in the Times is a reminder of who really governs.\nThe post Robert Rubin, Faux Statesman appeared first on The American Prospect.",
+      "original_title": "Robert Rubin, Faux Statesman",
+      "url": "https://prospect.org/2026/10/23/robert-rubin-faux-statesman/",
+      "source": "The American Prospect",
+      "domain": "prospect.org",
+      "published_at": "2026-10-23T19:00:00Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "e23e4b311d5e6d30",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Battlefield 6, One Year Later",
+      "summary": "It's been quite an up and down year for EA's big military shooter",
+      "original_title": "Battlefield 6, One Year Later",
+      "url": "https://kotaku.com/battlefield-6-one-year-later-2000749095",
+      "source": "Kotaku",
+      "domain": "kotaku.com",
+      "published_at": "2026-10-23T18:44:13Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "63163e02339b8592",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "Credo slides 7.5% as competition, slower 1.6T rollout weigh",
+      "summary": "Investing.com -- Credo Technology Group shares fell 7.5% on Friday as comments from MaxLinear management highlighted potential competition in the active electrical cable (AEC) market, while third-party data pointed to limited near-term adoption of next-genera…",
+      "original_title": "Credo slides 7.5% as competition, slower 1.6T rollout weigh",
+      "url": "https://biztoc.com/x/97e265f2821580d1",
+      "source": "Biztoc.com",
+      "domain": "biztoc.com",
+      "published_at": "2026-10-23T14:42:58Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "d45d447a7cfd04c2",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1985,6 +2210,44 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "3b380202708de518",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "Military reinforcements move to Mideast. And, millions of Americans vote early",
+      "summary": "Military reinforcements are heading to the Middle East and some personnel have left the region, pointing to a potential attack on Iran. And, millions of Americans have already voted in the midterms.",
+      "original_title": "Military reinforcements move to Mideast. And, millions of Americans vote early",
+      "url": "https://www.npr.org/2026/10/23/g-s1-149514/up-first-newsletter-iran-war-midterm-voting-trump-bbc",
+      "source": "NPR",
+      "domain": "npr.org",
+      "published_at": "2026-10-23T11:22:25Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "7cecf802ee62d587",
@@ -2098,6 +2361,44 @@
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "2c153b5fa8a3facd",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "NASA Invites Media to 2026 von Braun Space Exploration Symposium",
+      "summary": "Members of the media are invited to join NASA at the 2026 von Braun Space Exploration Symposium from Monday, Oct. 26, to Wednesday, Oct. 28, at the University of Alabama in Huntsville. This year’s symposium is focused on humanity’s return to the Moon, sustain…",
+      "original_title": "NASA Invites Media to 2026 von Braun Space Exploration Symposium",
+      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-2026-von-braun-space-exploration-symposium/",
+      "source": "NASA",
+      "domain": "nasa.gov",
+      "published_at": "2026-10-22T21:39:58Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "25d57633931a105f",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2136,55 +2437,17 @@
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "114edaf5fc5d8e6d",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "Massive study of 460,000 people challenges ultra-processed food cancer fears",
-      "summary": "A massive study of more than 460,000 Americans found that ultra-processed foods were not associated with increased colorectal cancer risk overall, challenging a widely held assumption. While processed meat was linked to higher cancer incidence, ultra-processe…",
-      "original_title": "Massive study of 460,000 people challenges ultra-processed food cancer fears",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261020085014.htm",
-      "source": "Science Daily",
-      "domain": "sciencedaily.com",
-      "published_at": "2026-10-21T13:22:17Z",
-      "importance": 50,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "8ab55a82d039fc95",
+      "id": "0fa055f346253c5d",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "AI伺服器",
-      "title": "Nvidia's grand plan for speeding up datacenter deployments: AI trailer parks",
-      "summary": "GPUzilla boasts modular bit barns could speed up deployments from six months to just two weeks",
-      "original_title": "Nvidia's grand plan for speeding up datacenter deployments: AI trailer parks",
-      "url": "https://www.theregister.com/on-prem/2026/10/21/nvidias-grand-plan-for-speeding-up-datacenter-deployments-ai-trailer-parks/5304303",
-      "source": "Theregister.com",
-      "domain": "theregister.com",
-      "published_at": "2026-10-21T11:30:00Z",
+      "title": "Even the Rubin's Test Camera Produces Stunning Images",
+      "summary": "The Vera Rubin Observatory's Commissioning Camera operated for about 7 weeks in 2024, before the observatory released its well-known first look images. It's an engineering camera, and its job was to test the VRO's equipment and procedures. Now, the VRO has re…",
+      "original_title": "Even the Rubin's Test Camera Produces Stunning Images",
+      "url": "https://www.universetoday.com/articles/even-the-rubins-test-camera-produces-stunning-images",
+      "source": "Universe Today",
+      "domain": "universetoday.com",
+      "published_at": "2026-10-22T21:04:01Z",
       "importance": 50,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -2212,17 +2475,55 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "84faac26ea5e9901",
+      "id": "93d5dfc793519099",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "US State Department orders some staff to leave Saudi Arabia as attacks escalate",
+      "summary": "The warning to US officials comes as at least three people die in the latest strikes at an airport and an oil field.",
+      "original_title": "US State Department orders some staff to leave Saudi Arabia as attacks escalate",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2vpk93770o",
+      "source": "BBC News",
+      "domain": "bbc.co.uk",
+      "published_at": "2026-10-22T01:07:34Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "9cf0aba844af446d",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "AI伺服器",
-      "title": "Nvidia picks OpenShell to tame AI gents",
-      "summary": "Give your agents freedom to do useful work by locking them down",
-      "original_title": "Nvidia picks OpenShell to tame AI gents",
-      "url": "https://www.theregister.com/ai-and-ml/2026/10/21/nvidia-picks-openshell-to-tame-ai-gents/5304319",
-      "source": "Theregister.com",
-      "domain": "theregister.com",
-      "published_at": "2026-10-21T11:30:00Z",
+      "title": "AI and Data Centers Will Impact Midterm Voting, According to Experts",
+      "summary": "Americans are mostly negative on AI and oppose new data centers near them, another poll shows.",
+      "original_title": "AI and Data Centers Will Impact Midterm Voting, According to Experts",
+      "url": "https://www.cnet.com/news/politics/polls-experts-ai-data-centers-midterm-voting/",
+      "source": "CNET",
+      "domain": "cnet.com",
+      "published_at": "2026-10-22T00:24:08Z",
       "importance": 50,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -2248,415 +2549,6 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "95fd0377d3b732b3",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "Ken Griffin calls Trump’s tariffs on US allies 'a disaster' and predicts it will hurt Republicans in the midterms",
-      "summary": "Citadel's Ken Griffin called Trump's tariffs \"pro-inflation\" and predicts that Republicans would lose at least one chamber in the midterms.",
-      "original_title": "Ken Griffin calls Trump’s tariffs on US allies 'a disaster' and predicts it will hurt Republicans in the midterms",
-      "url": "https://www.businessinsider.com/ken-griffin-citadel-calls-trumps-tariffs-us-allies-a-disaster-2026-10#article",
-      "source": "Business Insider",
-      "domain": "businessinsider.com",
-      "published_at": "2026-10-21T04:01:01Z",
-      "importance": 50,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "f3120bf79390b0c7",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "The US Has Retreated From Climate Action. A New Report Reveals the Global Consequences",
-      "summary": "Rising U.S. emissions are pushing best-case climate scenarios out of reach.",
-      "original_title": "The US Has Retreated From Climate Action. A New Report Reveals the Global Consequences",
-      "url": "https://gizmodo.com/the-us-has-retreated-from-climate-action-a-new-report-reveals-the-global-consequences-2000828866",
-      "source": "Gizmodo.com",
-      "domain": "gizmodo.com",
-      "published_at": "2026-10-21T19:55:00Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "ddb2c8fc59e85601",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "The AI-Hacking Apocalypse Began Last Night",
-      "summary": "Websites across the internet are going dark to protect themselves against a newly discovered vulnerability.",
-      "original_title": "The AI-Hacking Apocalypse Began Last Night",
-      "url": "https://www.theatlantic.com/technology/2026/10/ai-hacking-apocalypse-began-last-night/689106/?utm_source=feed",
-      "source": "The Atlantic",
-      "domain": "theatlantic.com",
-      "published_at": "2026-10-21T19:21:21Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "42bd3817d02d7735",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "Samsung and SK Hynix are upgrading their NAND factories in China",
-      "summary": "Chinese memory maker YMTC became China’s biggest producer of NAND flash chips this year with a market share of 38.5%, up from 28% last year. This allowed it to overtake Samsung, which is #2 with 33.5% share (down from 36%) and SK Hynix, which is #3 with 17% (…",
-      "original_title": "Samsung and SK Hynix are upgrading their NAND factories in China",
-      "url": "https://www.gsmarena.com/samsung_and_sk_hynix_are_upgrading_their_nand_factories_in_china-news-75149.php",
-      "source": "GSMArena.com",
-      "domain": "gsmarena.com",
-      "published_at": "2026-10-21T17:18:02Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "b3c15c0e0043fe66",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "As Trump’s Popularity Plunges, FCC Head Threatens Networks That Broadcast ‘Fake Polls’",
-      "summary": "\"Broadcasters are prohibited by the terms of their federal licenses from engaging in News Distortion or promoting Broadcast Hoaxes.\"",
-      "original_title": "As Trump’s Popularity Plunges, FCC Head Threatens Networks That Broadcast ‘Fake Polls’",
-      "url": "https://gizmodo.com/as-trumps-popularity-plunges-fcc-head-threatens-networks-that-broadcast-fake-polls-2000828871",
-      "source": "Gizmodo.com",
-      "domain": "gizmodo.com",
-      "published_at": "2026-10-21T16:40:00Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "041c6e0f29294f9f",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "Which Phones Are Equivalent To The OnePlus 16?",
-      "summary": "While the OnePlus 16 isn't coming to the U.S., the upcoming RedMagic 12 Pro and Motorola Signature 27 use the same Snapdragon 8 Elite Extreme Gen 6 chipset.",
-      "original_title": "Which Phones Are Equivalent To The OnePlus 16?",
-      "url": "https://www.bgr.com/2289094/phone-equivalent-to-oneplus-16/",
-      "source": "BGR",
-      "domain": "bgr.com",
-      "published_at": "2026-10-21T16:17:00Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "079a3c5dfe15904f",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "Oppo's Find X10 Pro Max goes all out with three 200MP cameras and a massive battery",
-      "summary": "Oppo's new Find X10 Pro Max packs three 200MP cameras, an 8,000mAh battery, and MediaTek's latest 2nm flagship chipset.",
-      "original_title": "Oppo's Find X10 Pro Max goes all out with three 200MP cameras and a massive battery",
-      "url": "https://www.androidcentral.com/phones/oppo-phones/embargo-oppo-launches-find-x10-and-find-x10-pro-max",
-      "source": "Android Central",
-      "domain": "androidcentral.com",
-      "published_at": "2026-10-21T15:00:05Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "b0a7ca566c556e2d",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "秋から冬にかけて楽しみたい、手作り甘酒。炊飯器で簡単に作れる甘酒レシピと、自然な甘さが魅力のMyLOHAS「米こうじ」をご紹介",
-      "summary": "[株式会社オーイズミピュアルズ]\n[画像1: https://prcdn.freetls.fastly.net/release_image/50276/36/50276-36-e2643ae30be738e8247b7133895706a3-1672x941.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&amp...",
-      "original_title": "秋から冬にかけて楽しみたい、手作り甘酒。炊飯器で簡単に作れる甘酒レシピと、自然な甘さが魅力のMyLOHAS「米こうじ」をご紹介",
-      "url": "https://prtimes.jp/main/html/rd/p/000000036.000050276.html",
-      "source": "Prtimes.jp",
-      "domain": "prtimes.jp",
-      "published_at": "2026-10-21T14:40:02Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "0d104eeda81c4b56",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "‘Only the Paranoid Survive’: How FanFeed’s C0-Founder Plans to Outrun the Big Players in Ticketing",
-      "summary": "FanFeed co-founder Cole Rubin explains why being the least technical person in the room, thinking like your customer and keeping a healthy dose of suspicion can give a startup its edge.",
-      "original_title": "‘Only the Paranoid Survive’: How FanFeed’s C0-Founder Plans to Outrun the Big Players in Ticketing",
-      "url": "https://www.entrepreneur.com/business-news/how-fanfeeds-co-founder-plans-to-outrun-the-big-players-in-ticketing",
-      "source": "Entrepreneur",
-      "domain": "entrepreneur.com",
-      "published_at": "2026-10-21T14:30:00Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "01e0bcea3b6dd7ef",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "iPhone Duo Is Delightful, and Different",
-      "summary": "A passport-sized iPhone opens into a 7.6-inch canvas and, unexpectedly, hands back a measure of attention After a week with iPhone Duo, I’m pleased that Apple‘s first foldable can work as both …",
-      "original_title": "iPhone Duo Is Delightful, and Different",
-      "url": "http://coolhunting.com/tech/iphone-duo-is-delightful-and-different/",
-      "source": "Cool Hunting",
-      "domain": "coolhunting.com",
-      "published_at": "2026-10-21T03:35:26Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "3ff570b4820e64c2",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "Using Ultrasound and Microbubbles to Make Tiny Devices",
-      "summary": "Although we generally do not look at bubbles in fluids as more than a curiosity – if not an outright annoyance – in certain contexts they can be very useful. If you can namely control t…",
-      "original_title": "Using Ultrasound and Microbubbles to Make Tiny Devices",
-      "url": "https://hackaday.com/2026/10/20/using-ultrasound-and-microbubbles-to-make-tiny-devices/",
-      "source": "Hackaday",
-      "domain": "hackaday.com",
-      "published_at": "2026-10-21T02:00:33Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     }
   ]
 }

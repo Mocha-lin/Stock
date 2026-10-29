@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-28T22:54:17.473521+00:00
+> 更新時間：2026-10-29T02:08:28.860394+00:00
 
 ### 🚀 OPTOELEC seeks AI data center orders as Himax advances CPO optics
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -47,12 +47,21 @@ The post MaxLinear raises 2026 optical data center revenue forecast to $250M-$27
 
 ---
 
-### 🚀 Samsung's Nvidia HBM bid raises four strategic concerns
+### ⚖️ AI demand squeezes automotive memory, pushing automakers to take control of chip supply
 - **題材**: `HBM記憶體` | **重要性**: `73`
-- **來源**: Digitimes (2026-10-21T23:51:37Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Samsung Electronics is reportedly turning to TSMC's 3nm process to produce base dies for Nvidia's custom high-bandwidth memory (NVHBM), abandoning its long-standing turnkey integration model to win a place in Nvidia's supply chain. The move could meet custome…
-- [原文連結](https://www.digitimes.com/news/a20261021PD243/samsung-hbm-nvidia-tsmc-design.html)
+- **來源**: Digitimes (2026-10-27T04:20:00Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Expanding investment in AI data centers is putting pressure on memory supply and demand across the automotive industry. As semiconductor companies prioritize high-bandwidth memory (HBM) and server products, automotive memory faces rising prices and tighter su…
+- [原文連結](https://www.digitimes.com/news/a20261027PD220/automakers-automotive-demand-investment-data.html)
+
+---
+
+### ⚖️ Cheng Mei develops materials for advanced packaging glass substrates
+- **題材**: `半導體先進製程` | **重要性**: `73`
+- **來源**: Digitimes (2026-10-26T23:50:23Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: As advanced packaging shifts toward large-size glass substrates, Cheng Mei Materials Technology is developing materials to address warpage, heat resistance, and drilling challenges. Its cutting and grinding tapes have entered customer validation and small-vol…
+- [原文連結](https://www.digitimes.com/news/a20261023PD229/packaging-materials-large-size-loss-substrate.html)
 
 ---
 
@@ -62,6 +71,24 @@ The post MaxLinear raises 2026 optical data center revenue forecast to $250M-$27
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Intel CEO Lip-Bu Tan has reportedly discussed potential areas of cooperation with AMD chief Lisa Su as Intel works to rebuild its CPU business and expand its foundry operations. The companies have already collaborated on x86 standards and CPU software, includ…
 - [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/intel-explores-potential-collaboration-with-amd-as-lip-bu-tan-pushes-customer-focused-turnaround-ceo-targets-custom-chips-advanced-packaging-and-stronger-foundry-business)
+
+---
+
+### ⚠️ TSMC advances CoPoS packaging at Taoyuan Longtan site
+- **題材**: `半導體先進製程` | **重要性**: `68`
+- **來源**: Digitimes (2026-10-23T06:30:52Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: TSMC's Longtan Science Park Phase 3 in Taoyuan is restarting after nearly three years of delays, with Taiwan's National Development Council approving its development plan on September 17, 2026. The 104.65-hectare site is expected to focus first on advanced pa…
+- [原文連結](https://www.digitimes.com/news/a20261023PD227/tsmc-packaging-southern-taiwan-science-park-capacity-national-development-council.html)
+
+---
+
+### ⚠️ Chinese tech giants seek 10-year memory chip contracts with Samsung
+- **題材**: `HBM記憶體` | **重要性**: `65`
+- **來源**: SamMobile (2026-10-27T09:11:42Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: There has been a severe shortage of memory chips for the past couple of years, and Samsung is making full use of its dominant position in this segment to increase profits and secure its near future. The world's largest memory chip maker can now rest assured t…
+- [原文連結](https://www.sammobile.com/news/chinese-tech-giants-buy-samsung-memory-chips-long-time/)
 
 ---
 
@@ -92,21 +119,21 @@ The post MaxLinear raises 2026 optical data center revenue forecast to $250M-$27
 
 ---
 
-### ⚖️ Intel installs production tools at Fab 62 in Arizona, provides updates on Ohio chip fab
-- **題材**: `半導體先進製程` | **重要性**: `62`
-- **來源**: Tom's Hardware UK (2026-10-21T19:35:53Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Intel makes progress on its manufacturing expansion in Arizona and Ohio as it continues to expand advanced semiconductor manufacturing capacity in the U.S.
-- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/intel-installs-production-tools-at-fab-62-in-arizona-provides-updates-on-ohio-chip-fab-confirms-high-na-euv-for-high-volume-manufacturing-in-2028)
+### ⚖️ SK Hynix reportedly engages suppliers to bring 30% more efficient iHBM cooling to HBM5 production
+- **題材**: `HBM記憶體` | **重要性**: `63`
+- **來源**: Digitimes (2026-10-23T00:31:36Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: SK Hynix is reportedly working with materials and equipment suppliers to commercialise its next-generation iHBM cooling technology, targeting a reduction of more than 30% in thermal resistance. The initiative aims to address mounting heat dissipation challeng…
+- [原文連結](https://www.digitimes.com/news/a20261022VL218/sk-hynix-cooling-production-materials-equipment.html)
 
 ---
 
-### 🚀 Samsung and SK Hynix are upgrading Chinese factories to produce advanced RAM chips as AI data center competition ramps up
-- **題材**: `HBM記憶體` | **重要性**: `62`
-- **來源**: Tom's Hardware UK (2026-10-21T11:49:44Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Samsung and SK Hynix are reportedly upgrading their factories to produce more advanced RAM chips designed for AI data centers in an attempt to fend off competition from Chinese companies.
-- [原文連結](https://www.tomshardware.com/pc-components/dram/samsung-and-sk-hynix-are-upgrading-chinese-factories-to-produce-advanced-ram-chips-as-ai-data-center-competition-ramps-up-big-players-move-to-fight-off-the-threat-from-cxmt-and-co)
+### ⚖️ etalon-photonics 0.2.0
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: Pypi.org (2026-10-27T22:07:40Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Etalon — an open-source silicon photonics design toolkit: material models, waveguide mode solvers, S-matrix photonic circuit simulation, optical link budgets for AI-datacenter interconnects (co-packaged optics, pluggables), and Monte Carlo yield analysis for …
+- [原文連結](https://pypi.org/project/etalon-photonics/0.2.0/)
 
 ---
 
@@ -166,33 +193,6 @@ The M6 iMac starts at $1,49…
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Asia's fourth-largest economy grows 3.4 percent year-on-year amid strong semiconductor demand.
 - [原文連結](https://www.aljazeera.com/economy/2026/10/27/south-koreas-gdp-growth-beats-forecasts-amid-ai-boom)
-
----
-
-### 🚀 India's largest share sale could end cheap mobile internet for millions
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: BBC News (2026-10-27T00:00:30Z)
-- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Jio's IPO promises a windfall for investors, but could signal the end of cheap mobile data for millions.
-- [原文連結](https://www.bbc.co.uk/news/articles/cw78pe7vlej5o)
-
----
-
-### ⚠️ Amid sweeping layoffs at Xbox and massive AI investments, Microsoft introduces a "Voluntary Exit Offer" to 60,000 workers
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: Eurogamer.net (2026-10-26T18:44:22Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Xbox isn't the only Microsoft division looking to massively reduce worker headcounts. In fact, Microsoft has just announced a "Voluntary Exit Offer" that will essentially pay staff to move in front of any potential layoffs and voluntarily leave their jobs. Re…
-- [原文連結](https://www.eurogamer.net/xbox-ai-microsoft-voluntary-exit-offer-60000)
-
----
-
-### 🚀 Micron's 2027 roadmap: DDR6 with 2x DDR5 bandwidth, 1TB RDIMMs, and 400+ layer NAND
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: TechSpot (2026-10-23T20:12:00Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Micron has detailed its 1δ (1-Delta) node as the follow-up to 1γ (1-Gamma). The new node, which features angstrom-level process control and HKMG CMOS structure, will reportedly deliver roughly 25% higher bit density than its predecessor when manufacturing adv…
-- [原文連結](https://www.techspot.com/news/114313-micron-2027-roadmap-ddr6-2x-ddr5-bandwidth-1tb.html)
 
 ---
 
