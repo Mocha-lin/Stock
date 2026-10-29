@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-29T18:41:37.789570+00:00
+> 更新時間：2026-10-29T23:01:37.593480+00:00
 
 ### 🚀 OPTOELEC seeks AI data center orders as Himax advances CPO optics
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -128,21 +128,30 @@ The post MaxLinear raises 2026 optical data center revenue forecast to $250M-$27
 
 ---
 
-### ⚖️ iPronics Names Co-Founder & Photonics Pioneer Dr. Daniel Pérez-López as CEO to Drive Commercial Scale for AI Optical Circuit Switching
-- **題材**: `光通訊與矽光子` | **重要性**: `65`
-- **來源**: Financial Post (2026-10-26T21:18:14Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Former CTO steps up to CEO role alongside industry veteran Geoffrey Tate as Chairman of the Board to accelerate volume deployment of silicon photonics optical circuit switches VALENCIA, Spain and SANTA CLARA, Calif., Oct. 26, 2026 (GLOBE NEWSWIRE) — iPronics,…
-- [原文連結](https://financialpost.com/globe-newswire/ipronics-names-co-founder-photonics-pioneer-dr-daniel-perez-lopez-as-ceo-to-drive-commercial-scale-for-ai-optical-circuit-switching)
-
----
-
 ### ⚖️ Nvidia unveils OOI CPO prototype for post-2028 AI needs
 - **題材**: `光通訊與矽光子` | **重要性**: `63`
 - **來源**: Digitimes (2026-10-25T00:45:44Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Nvidia has unveiled a prototype of its next-generation co-packaged optics (CPO) technology, Optics-on-Interposer (OOI), at SEMICON West 2026. The design moves the optical engine from a conventional organic package substrate to the silicon interposer carrying …
 - [原文連結](https://www.digitimes.com/news/a20261023PD240/nvidia-cpo-interposer-technology-2026.html)
+
+---
+
+### 🚀 Dissents, rising prices, and a change to the meeting schedule: 3 takeaways from the October Fed meeting
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Business Insider (2026-10-28T20:16:55Z)
+- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: The Fed held interest rates steady in its latest decision, following the September rate hike. The FOMC decision wasn't unanimous this time.
+- [原文連結](https://www.businessinsider.com/takeaways-october-fed-meeting-interest-rates-2026-10#article)
+
+---
+
+### 🚀 What smart people are saying after the Fed held rates steady
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Business Insider (2026-10-28T19:50:38Z)
+- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: The Fed held rates steady as expected, buying time for more data. Yet, many still expect a rate hike in December.
+- [原文連結](https://www.businessinsider.com/october-fed-meeting-fomc-what-smart-people-are-saying-2026-10#article)
 
 ---
 
@@ -174,19 +183,6 @@ The post MaxLinear raises 2026 optical data center revenue forecast to $250M-$27
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Astronomers using the Vera C. Rubin Observatory have discovered 2026 ED138, a large object beyond Neptune that could become the solar system's sixth recognized dwarf planet if further observations confirm it is massive enough to be round. Located about 46 tim…
 - [原文連結](https://science.slashdot.org/story/26/10/28/035218/astronomers-may-have-just-discovered-our-solar-systems-sixth-dwarf-planet)
-
----
-
-### ⚖️ Apple memory supplier expects price increases through at least 2030
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: 9to5Mac (2026-10-28T10:57:20Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Key Apple memory supplier SK Hynix has warned that RAM and flash memory shortages are likely to last through at least 2030, keeping product prices high.
-
-
-
-Apple is believed to be one of 14 customers who have locked in priority orders, but the contract does n…
-- [原文連結](https://9to5mac.com/2026/10/28/apple-memory-supplier-expects-price-increases-through-at-least-2030/)
 
 ---
 
