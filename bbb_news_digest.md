@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-29T15:53:07.067104+00:00
+> 更新時間：2026-10-29T18:41:37.789570+00:00
 
 ### 🚀 OPTOELEC seeks AI data center orders as Himax advances CPO optics
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -119,15 +119,6 @@ The post MaxLinear raises 2026 optical data center revenue forecast to $250M-$27
 
 ---
 
-### 🚀 Infosys, TechM, TCS, other IT stocks plunge up to 5%, extend losses as global AI trade rebounds. What lies ahead?
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: The Times of India (2026-10-28T06:46:27Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Indian IT stocks fell sharply on Wednsday as renewed optimism around the global AI trade weighed on sentiment. Strong earnings from SK Hynix and Anthropic’s IPO filing fuelled gains in AI-linked stocks globally. However, concerns over an AI bubble persist, wi…
-- [原文連結](https://economictimes.indiatimes.com/markets/stocks/news/infosys-techm-tcs-other-it-stocks-plunge-up-to-5-extend-losses-as-global-ai-trade-rebounds-what-lies-ahead/articleshow/135255322.cms)
-
----
-
 ### ⚖️ Nvidia reveals its mega DSX POD modular 'AI factory' — so could the latest Vera Rubin hardware actually help make data centers more energy efficient?
 - **題材**: `AI伺服器` | **重要性**: `65`
 - **來源**: TechRadar (2026-10-26T23:35:00Z)
@@ -152,6 +143,15 @@ The post MaxLinear raises 2026 optical data center revenue forecast to $250M-$27
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Nvidia has unveiled a prototype of its next-generation co-packaged optics (CPO) technology, Optics-on-Interposer (OOI), at SEMICON West 2026. The design moves the optical engine from a conventional organic package substrate to the silicon interposer carrying …
 - [原文連結](https://www.digitimes.com/news/a20261023PD240/nvidia-cpo-interposer-technology-2026.html)
+
+---
+
+### ⚠️ China Is So Desperate for AI Memory That It’s Producing Chips With a 70% Failure Rate
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: Gizmodo.com (2026-10-28T16:10:31Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: The country’s largest DRAM maker is expected to push ahead with limited production of advanced memory chips in the next two months.
+- [原文連結](https://gizmodo.com/china-is-so-desperate-for-ai-memory-that-its-producing-chips-with-a-70-failure-rate-2000831791)
 
 ---
 
