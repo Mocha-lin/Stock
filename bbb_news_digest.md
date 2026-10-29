@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-29T02:08:28.860394+00:00
+> 更新時間：2026-10-29T06:38:31.486515+00:00
 
 ### 🚀 OPTOELEC seeks AI data center orders as Himax advances CPO optics
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -7,15 +7,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: South Korean optics maker Optoelec is seeing growing interest from AI data center customers as it seeks to expand its wafer-level optics (WLO) business into high-speed optical communications, a market where Taiwanese suppliers are already moving toward commer…
 - [原文連結](https://www.digitimes.com/news/a20261024VL202/optics-cpo-data-center-himax-production.html)
-
----
-
-### 🚀 Podcast highlights: TSMC's 3nm demand story, Samsung HBM shift, and A14 ramp
-- **題材**: `HBM記憶體` | **重要性**: `78`
-- **來源**: Digitimes (2026-10-26T02:57:50Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Following TSMC's third-quarter 2026 earnings call, DIGITIMES analyst Luke Lin provided in a podcast additional analysis of several details that received limited attention in market coverage, including a new 3nm fab at the Southern Taiwan Science Park (STSP), …
-- [原文連結](https://www.digitimes.com/news/a20261023PD235/tsmc-3nm-demand-samsung-hbm.html)
 
 ---
 
@@ -47,6 +38,24 @@ The post MaxLinear raises 2026 optical data center revenue forecast to $250M-$27
 
 ---
 
+### ⚖️ SK Hynix's next bet goes beyond memory chips
+- **題材**: `HBM記憶體` | **重要性**: `73`
+- **來源**: Digitimes (2026-10-28T02:57:37Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: SK Hynix is looking beyond its position as a leading supplier of high-bandwidth memory (HBM), using venture investments to gain a greater say in how next-generation AI infrastructure is designed.
+- [原文連結](https://www.digitimes.com/news/a20261027PD248/sk-hynix-chips-hbm-supplier-investment.html)
+
+---
+
+### 🚀 SK Hynix bets on high-bandwidth flash to tackle AI memory bottlenecks
+- **題材**: `HBM記憶體` | **重要性**: `73`
+- **來源**: Digitimes (2026-10-28T02:38:42Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: SK Hynix is turning to high-bandwidth flash (HBF) to address growing memory bottlenecks in AI inference, as increasingly complex AI agents generate more data than can be economically stored in high-bandwidth memory (HBM) and DRAM alone.
+- [原文連結](https://www.digitimes.com/news/a20261028VL212/sk-hynix-flash-data-hbm-nand.html)
+
+---
+
 ### ⚖️ AI demand squeezes automotive memory, pushing automakers to take control of chip supply
 - **題材**: `HBM記憶體` | **重要性**: `73`
 - **來源**: Digitimes (2026-10-27T04:20:00Z)
@@ -65,6 +74,15 @@ The post MaxLinear raises 2026 optical data center revenue forecast to $250M-$27
 
 ---
 
+### 🚀 Podcast highlights: TSMC's 3nm demand story, Samsung HBM shift, and A14 ramp
+- **題材**: `HBM記憶體` | **重要性**: `73`
+- **來源**: Digitimes (2026-10-26T02:57:50Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Following TSMC's third-quarter 2026 earnings call, DIGITIMES analyst Luke Lin provided in a podcast additional analysis of several details that received limited attention in market coverage, including a new 3nm fab at the Southern Taiwan Science Park (STSP), …
+- [原文連結](https://www.digitimes.com/news/a20261023PD235/tsmc-3nm-demand-samsung-hbm.html)
+
+---
+
 ### ⚖️ Intel explores potential collaboration with AMD as Lip-Bu Tan pushes customer-focused turnaround
 - **題材**: `光通訊與矽光子` | **重要性**: `72`
 - **來源**: Tom's Hardware UK (2026-10-26T12:40:00Z)
@@ -80,15 +98,6 @@ The post MaxLinear raises 2026 optical data center revenue forecast to $250M-$27
 - **AI 判讀**: 屬「半導體先進製程」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: TSMC's Longtan Science Park Phase 3 in Taoyuan is restarting after nearly three years of delays, with Taiwan's National Development Council approving its development plan on September 17, 2026. The 104.65-hectare site is expected to focus first on advanced pa…
 - [原文連結](https://www.digitimes.com/news/a20261023PD227/tsmc-packaging-southern-taiwan-science-park-capacity-national-development-council.html)
-
----
-
-### ⚠️ Chinese tech giants seek 10-year memory chip contracts with Samsung
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: SamMobile (2026-10-27T09:11:42Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: There has been a severe shortage of memory chips for the past couple of years, and Samsung is making full use of its dominant position in this segment to increase profits and secure its near future. The world's largest memory chip maker can now rest assured t…
-- [原文連結](https://www.sammobile.com/news/chinese-tech-giants-buy-samsung-memory-chips-long-time/)
 
 ---
 
@@ -119,12 +128,12 @@ The post MaxLinear raises 2026 optical data center revenue forecast to $250M-$27
 
 ---
 
-### ⚖️ SK Hynix reportedly engages suppliers to bring 30% more efficient iHBM cooling to HBM5 production
-- **題材**: `HBM記憶體` | **重要性**: `63`
-- **來源**: Digitimes (2026-10-23T00:31:36Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: SK Hynix is reportedly working with materials and equipment suppliers to commercialise its next-generation iHBM cooling technology, targeting a reduction of more than 30% in thermal resistance. The initiative aims to address mounting heat dissipation challeng…
-- [原文連結](https://www.digitimes.com/news/a20261022VL218/sk-hynix-cooling-production-materials-equipment.html)
+### 🚀 Global stock markets rise as investors continue to bet on AI
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: Al Jazeera English (2026-10-28T03:14:31Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Asian stock markets rise, following gains on Wall Street.
+- [原文連結](https://www.aljazeera.com/news/2026/10/28/global-stock-markets-rise-as-investors-continue-to-bet-on-ai)
 
 ---
 
@@ -184,15 +193,6 @@ The M6 iMac starts at $1,49…
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Amazon forecast a $612 million gross loss for its own devices as rising memory costs squeeze hardware margins, internal document shows.
 - [原文連結](https://www.businessinsider.com/amazon-alexia-memory-chip-costs-losses-2026-10#article)
-
----
-
-### 🚀 South Korea’s GDP growth beats forecasts amid AI boom
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: Al Jazeera English (2026-10-27T06:50:53Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Asia's fourth-largest economy grows 3.4 percent year-on-year amid strong semiconductor demand.
-- [原文連結](https://www.aljazeera.com/economy/2026/10/27/south-koreas-gdp-growth-beats-forecasts-amid-ai-boom)
 
 ---
 
