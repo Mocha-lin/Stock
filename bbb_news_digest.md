@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-29T06:38:31.486515+00:00
+> 更新時間：2026-10-29T15:53:07.067104+00:00
 
 ### 🚀 OPTOELEC seeks AI data center orders as Himax advances CPO optics
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -19,15 +19,6 @@
 
 ---
 
-### 🚀 S&P 500: Two AI Chipmakers Make Up 34% of America’s Earnings Boom
-- **題材**: `HBM記憶體` | **重要性**: `75`
-- **來源**: Faz.net (2026-10-26T10:49:19Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Ten companies—including Nvidia, Micron and other AI giants—account for roughly two-thirds of corporate profit growth.
-- [原文連結](https://www.faz.net/aktuell/wall-street-journal/nvidia-micron-and-other-ai-giants-account-for-two-thirds-of-corporate-profit-growth-201621423.html)
-
----
-
 ### 🚀 MaxLinear raises 2026 optical data center revenue forecast to $250M-$270M
 - **題材**: `光通訊與矽光子` | **重要性**: `75`
 - **來源**: Crypto Briefing (2026-10-23T15:04:43Z)
@@ -35,6 +26,15 @@
 - **摘要**: MaxLinear's revised forecast highlights robust growth in optical data centers, underscoring the sector's pivotal role in future tech infrastructure.
 The post MaxLinear raises 2026 optical data center revenue forecast to $250M-$270M appeared first on Crypto Br…
 - [原文連結](https://cryptobriefing.com/maxlinear-raises-optical-data-center-forecast/)
+
+---
+
+### ⚠️ SK Hynix says customers want more than twice the HBM it can supply
+- **題材**: `HBM記憶體` | **重要性**: `73`
+- **來源**: Digitimes (2026-10-28T15:18:23Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: SK Hynix said customers are seeking more than twice the high-bandwidth memory (HBM) volume it can currently supply, as moves toward shorter memory stacks reflect supply shortages rather than weakening demand.
+- [原文連結](https://www.digitimes.com/news/a20261028VL222/sk-hynix-hbm-dram-hbm4-manufacturing.html)
 
 ---
 
@@ -56,39 +56,21 @@ The post MaxLinear raises 2026 optical data center revenue forecast to $250M-$27
 
 ---
 
-### ⚖️ AI demand squeezes automotive memory, pushing automakers to take control of chip supply
-- **題材**: `HBM記憶體` | **重要性**: `73`
-- **來源**: Digitimes (2026-10-27T04:20:00Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Expanding investment in AI data centers is putting pressure on memory supply and demand across the automotive industry. As semiconductor companies prioritize high-bandwidth memory (HBM) and server products, automotive memory faces rising prices and tighter su…
-- [原文連結](https://www.digitimes.com/news/a20261027PD220/automakers-automotive-demand-investment-data.html)
-
----
-
-### ⚖️ Cheng Mei develops materials for advanced packaging glass substrates
-- **題材**: `半導體先進製程` | **重要性**: `73`
-- **來源**: Digitimes (2026-10-26T23:50:23Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: As advanced packaging shifts toward large-size glass substrates, Cheng Mei Materials Technology is developing materials to address warpage, heat resistance, and drilling challenges. Its cutting and grinding tapes have entered customer validation and small-vol…
-- [原文連結](https://www.digitimes.com/news/a20261023PD229/packaging-materials-large-size-loss-substrate.html)
-
----
-
-### 🚀 Podcast highlights: TSMC's 3nm demand story, Samsung HBM shift, and A14 ramp
-- **題材**: `HBM記憶體` | **重要性**: `73`
-- **來源**: Digitimes (2026-10-26T02:57:50Z)
+### 🚀 Kospi surges 7% as SK Hynix earnings fuel AI stock rebound
+- **題材**: `HBM記憶體` | **重要性**: `70`
+- **來源**: CoinDesk (2026-10-28T09:59:25Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Following TSMC's third-quarter 2026 earnings call, DIGITIMES analyst Luke Lin provided in a podcast additional analysis of several details that received limited attention in market coverage, including a new 3nm fab at the Southern Taiwan Science Park (STSP), …
-- [原文連結](https://www.digitimes.com/news/a20261023PD235/tsmc-3nm-demand-samsung-hbm.html)
+- **摘要**: South Korean chipmakers led a broader AI recovery after SK Hynix reported a sevenfold profit surge and announced another $45 billion in shareholder returns.
+- [原文連結](https://www.coindesk.com/markets/2026/10/28/kospi-surges-7-as-sk-hynix-earnings-fuel-ai-stock-rebound)
 
 ---
 
-### ⚖️ Intel explores potential collaboration with AMD as Lip-Bu Tan pushes customer-focused turnaround
-- **題材**: `光通訊與矽光子` | **重要性**: `72`
-- **來源**: Tom's Hardware UK (2026-10-26T12:40:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Intel CEO Lip-Bu Tan has reportedly discussed potential areas of cooperation with AMD chief Lisa Su as Intel works to rebuild its CPU business and expand its foundry operations. The companies have already collaborated on x86 standards and CPU software, includ…
-- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/intel-explores-potential-collaboration-with-amd-as-lip-bu-tan-pushes-customer-focused-turnaround-ceo-targets-custom-chips-advanced-packaging-and-stronger-foundry-business)
+### 🚀 S&P 500: Two AI Chipmakers Make Up 34% of America’s Earnings Boom
+- **題材**: `HBM記憶體` | **重要性**: `70`
+- **來源**: Faz.net (2026-10-26T10:49:19Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Ten companies—including Nvidia, Micron and other AI giants—account for roughly two-thirds of corporate profit growth.
+- [原文連結](https://www.faz.net/aktuell/wall-street-journal/nvidia-micron-and-other-ai-giants-account-for-two-thirds-of-corporate-profit-growth-201621423.html)
 
 ---
 
@@ -98,6 +80,51 @@ The post MaxLinear raises 2026 optical data center revenue forecast to $250M-$27
 - **AI 判讀**: 屬「半導體先進製程」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: TSMC's Longtan Science Park Phase 3 in Taoyuan is restarting after nearly three years of delays, with Taiwan's National Development Council approving its development plan on September 17, 2026. The 104.65-hectare site is expected to focus first on advanced pa…
 - [原文連結](https://www.digitimes.com/news/a20261023PD227/tsmc-packaging-southern-taiwan-science-park-capacity-national-development-council.html)
+
+---
+
+### ⚖️ SK hynix-owned Solidigm is plotting a new $45 billion flash memory factory for the US, report claims
+- **題材**: `HBM記憶體` | **重要性**: `67`
+- **來源**: Tom's Hardware UK (2026-10-28T13:01:21Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Solidigm, an American subsidiary of SK hynix, is in discussions about potentially investing $45 billion in a new flash chip factory that would be built in the United States.
+- [原文連結](https://www.tomshardware.com/tech-industry/manufacturing/sk-hynix-owned-solidigm-is-plotting-a-new-usd45-billion-flash-memory-factory-for-the-us-report-claims-wants-go-ahead-to-export-equipment-for-china-upgrades-in-return)
+
+---
+
+### ⚖️ IT vendor lists massive $60 million AI supercomputer on eBay with 300 racks of decommissioned GPUs
+- **題材**: `AI伺服器` | **重要性**: `67`
+- **來源**: Tom's Hardware UK (2026-10-28T10:30:00Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Someone listed a massive 300-rack AI supercomputer on eBay for $59.7M. Packed with 9,600 A100 GPUs and 4,200 EPYC CPUs, it even ships for free.
+- [原文連結](https://www.tomshardware.com/desktops/servers/it-vendor-lists-massive-usd60-million-ai-cluster-on-ebay-300x-racks-of-decommissioned-gpus-includes-9-600-nvidia-a100-gpus-and-4-200-amd-epyc-cpus-plus-free-shipping)
+
+---
+
+### ⚖️ Intel explores potential collaboration with AMD as Lip-Bu Tan pushes customer-focused turnaround
+- **題材**: `光通訊與矽光子` | **重要性**: `67`
+- **來源**: Tom's Hardware UK (2026-10-26T12:40:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Intel CEO Lip-Bu Tan has reportedly discussed potential areas of cooperation with AMD chief Lisa Su as Intel works to rebuild its CPU business and expand its foundry operations. The companies have already collaborated on x86 standards and CPU software, includ…
+- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/intel-explores-potential-collaboration-with-amd-as-lip-bu-tan-pushes-customer-focused-turnaround-ceo-targets-custom-chips-advanced-packaging-and-stronger-foundry-business)
+
+---
+
+### ⚖️ TSMC Could Charge Up to 20% More for CoWoS Packaging Amid AI Crunch
+- **題材**: `半導體先進製程` | **重要性**: `65`
+- **來源**: Techpowerup.com (2026-10-28T12:06:41Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: TSMC is reportedly considering raising prices for its CoWoS (Chip on Wafer on Substrate) advanced packaging by as much as 20%, according to supply chain sources cited by Taiwan's Commercial Times. Foundries and outsourced packaging firms are apparently weighi…
+- [原文連結](https://www.techpowerup.com/354217/tsmc-could-charge-up-to-20-more-for-cowos-packaging-amid-ai-crunch)
+
+---
+
+### 🚀 Infosys, TechM, TCS, other IT stocks plunge up to 5%, extend losses as global AI trade rebounds. What lies ahead?
+- **題材**: `HBM記憶體` | **重要性**: `65`
+- **來源**: The Times of India (2026-10-28T06:46:27Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Indian IT stocks fell sharply on Wednsday as renewed optimism around the global AI trade weighed on sentiment. Strong earnings from SK Hynix and Anthropic’s IPO filing fuelled gains in AI-linked stocks globally. However, concerns over an AI bubble persist, wi…
+- [原文連結](https://economictimes.indiatimes.com/markets/stocks/news/infosys-techm-tcs-other-it-stocks-plunge-up-to-5-extend-losses-as-global-ai-trade-rebounds-what-lies-ahead/articleshow/135255322.cms)
 
 ---
 
@@ -128,71 +155,38 @@ The post MaxLinear raises 2026 optical data center revenue forecast to $250M-$27
 
 ---
 
-### 🚀 Global stock markets rise as investors continue to bet on AI
+### ⚖️ RAMageddon is ready to rage on through 2030
 - **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: Al Jazeera English (2026-10-28T03:14:31Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Asian stock markets rise, following gains on Wall Street.
-- [原文連結](https://www.aljazeera.com/news/2026/10/28/global-stock-markets-rise-as-investors-continue-to-bet-on-ai)
-
----
-
-### ⚖️ etalon-photonics 0.2.0
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: Pypi.org (2026-10-27T22:07:40Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Etalon — an open-source silicon photonics design toolkit: material models, waveguide mode solvers, S-matrix photonic circuit simulation, optical link budgets for AI-datacenter interconnects (co-packaged optics, pluggables), and Monte Carlo yield analysis for …
-- [原文連結](https://pypi.org/project/etalon-photonics/0.2.0/)
-
----
-
-### ⚖️ Big Red gets cozy with Google to offer TPUs to AI customers
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: Theregister.com (2026-10-27T20:20:27Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Oracle plans to add those chips alongside new Nvidia hardware and OpenAI services as businesses await AI payoffs
-- [原文連結](https://www.theregister.com/ai-and-ml/2026/10/27/big-red-gets-cozy-with-google-to-offer-tpus-to-ai-customers/5305846)
-
----
-
-### 🚀 M5 vs. M6 MacBook Pro Buyer's Guide: All Differences Compared
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: MacRumors (2026-10-27T15:42:54Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Apple today replaced the entry-level 14-inch MacBook Pro with a new M6 model, bringing more CPU and GPU cores, upgraded wireless connectivity, and more. How much has changed, and is it worth upgrading or choosing the newer model?
-
-
-
-
-
-
-
-The M6 ‌MacBook Pro‌ r…
-- [原文連結](https://www.macrumors.com/guide/m5-vs-m6-macbook-pro/)
-
----
-
-### 🚀 M4 vs. M6 iMac Buyer's Guide: Should You Upgrade?
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: MacRumors (2026-10-27T15:30:15Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Apple's latest iMac skips the M5 chip and moves directly to the M6, bringing faster performance, improved connectivity, and faster storage. So how much has changed since the M4 model arrived in 2024, and is it worth upgrading?
-
-
-
-
-
-The M6 iMac starts at $1,49…
-- [原文連結](https://www.macrumors.com/guide/m4-vs-m6-imac/)
-
----
-
-### ⚖️ Amazon weighed ‘difficult trade-offs’ as memory costs squeezed its devices business, internal document shows
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: Business Insider (2026-10-27T09:00:04Z)
+- **來源**: 9to5google.com (2026-10-28T15:25:00Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Amazon forecast a $612 million gross loss for its own devices as rising memory costs squeeze hardware margins, internal document shows.
-- [原文連結](https://www.businessinsider.com/amazon-alexia-memory-chip-costs-losses-2026-10#article)
+- **摘要**: SK Hynix, one of the major companies behind memory production, says that it’s sold out through 2029, leaving RAMageddon ready to rage on for at least the next three years.
+
+
+
+ more…
+- [原文連結](http://9to5google.com/2026/10/28/ramageddon-sk-hynix-earnings-call-2030/)
+
+---
+
+### ⚖️ Astronomers May Have Just Discovered Our Solar System's Sixth Dwarf Planet
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: Slashdot.org (2026-10-28T11:00:00Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Astronomers using the Vera C. Rubin Observatory have discovered 2026 ED138, a large object beyond Neptune that could become the solar system's sixth recognized dwarf planet if further observations confirm it is massive enough to be round. Located about 46 tim…
+- [原文連結](https://science.slashdot.org/story/26/10/28/035218/astronomers-may-have-just-discovered-our-solar-systems-sixth-dwarf-planet)
+
+---
+
+### ⚖️ Apple memory supplier expects price increases through at least 2030
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: 9to5Mac (2026-10-28T10:57:20Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Key Apple memory supplier SK Hynix has warned that RAM and flash memory shortages are likely to last through at least 2030, keeping product prices high.
+
+
+
+Apple is believed to be one of 14 customers who have locked in priority orders, but the contract does n…
+- [原文連結](https://9to5mac.com/2026/10/28/apple-memory-supplier-expects-price-increases-through-at-least-2030/)
 
 ---
 

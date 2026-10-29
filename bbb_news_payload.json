@@ -1,9 +1,9 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-10-29T06:38:31.486515+00:00",
+  "generated_at": "2026-10-29T15:53:07.067104+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
-  "total_count": 68,
+  "total_count": 71,
   "items": [
     {
       "id": "4bde6c0ee8ecc6e3",
@@ -82,41 +82,6 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
-      "id": "66827e31fd9643b9",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "S&P 500: Two AI Chipmakers Make Up 34% of America’s Earnings Boom",
-      "summary": "Ten companies—including Nvidia, Micron and other AI giants—account for roughly two-thirds of corporate profit growth.",
-      "original_title": "S&P 500: Two AI Chipmakers Make Up 34% of America’s Earnings Boom",
-      "url": "https://www.faz.net/aktuell/wall-street-journal/nvidia-micron-and-other-ai-giants-account-for-two-thirds-of-corporate-profit-growth-201621423.html",
-      "source": "Faz.net",
-      "domain": "faz.net",
-      "published_at": "2026-10-26T10:49:19Z",
-      "importance": 75,
-      "impact": "positive",
-      "timeframe": "short_to_mid_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
       "id": "64de5ab4a4c27c62",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -153,6 +118,41 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
+      "id": "5ab46cb439216cbe",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "SK Hynix says customers want more than twice the HBM it can supply",
+      "summary": "SK Hynix said customers are seeking more than twice the high-bandwidth memory (HBM) volume it can currently supply, as moves toward shorter memory stacks reflect supply shortages rather than weakening demand.",
+      "original_title": "SK Hynix says customers want more than twice the HBM it can supply",
+      "url": "https://www.digitimes.com/news/a20261028VL222/sk-hynix-hbm-dram-hbm4-manufacturing.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-10-28T15:18:23Z",
+      "importance": 73,
+      "impact": "negative",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "a61a6e027134e145",
@@ -225,91 +225,18 @@
       "reason": "屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
-      "id": "a7430a4338f6f0f6",
+      "id": "0a3ea34a077a87d3",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "HBM記憶體",
-      "title": "AI demand squeezes automotive memory, pushing automakers to take control of chip supply",
-      "summary": "Expanding investment in AI data centers is putting pressure on memory supply and demand across the automotive industry. As semiconductor companies prioritize high-bandwidth memory (HBM) and server products, automotive memory faces rising prices and tighter su…",
-      "original_title": "AI demand squeezes automotive memory, pushing automakers to take control of chip supply",
-      "url": "https://www.digitimes.com/news/a20261027PD220/automakers-automotive-demand-investment-data.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-10-27T04:20:00Z",
-      "importance": 73,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
-      "id": "d405a684ed345a4a",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "Cheng Mei develops materials for advanced packaging glass substrates",
-      "summary": "As advanced packaging shifts toward large-size glass substrates, Cheng Mei Materials Technology is developing materials to address warpage, heat resistance, and drilling challenges. Its cutting and grinding tapes have entered customer validation and small-vol…",
-      "original_title": "Cheng Mei develops materials for advanced packaging glass substrates",
-      "url": "https://www.digitimes.com/news/a20261023PD229/packaging-materials-large-size-loss-substrate.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-10-26T23:50:23Z",
-      "importance": 73,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
-      "id": "3fd6d2aea34ac31b",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "Podcast highlights: TSMC's 3nm demand story, Samsung HBM shift, and A14 ramp",
-      "summary": "Following TSMC's third-quarter 2026 earnings call, DIGITIMES analyst Luke Lin provided in a podcast additional analysis of several details that received limited attention in market coverage, including a new 3nm fab at the Southern Taiwan Science Park (STSP), …",
-      "original_title": "Podcast highlights: TSMC's 3nm demand story, Samsung HBM shift, and A14 ramp",
-      "url": "https://www.digitimes.com/news/a20261023PD235/tsmc-3nm-demand-samsung-hbm.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-10-26T02:57:50Z",
-      "importance": 73,
+      "title": "Kospi surges 7% as SK Hynix earnings fuel AI stock rebound",
+      "summary": "South Korean chipmakers led a broader AI recovery after SK Hynix reported a sevenfold profit surge and announced another $45 billion in shareholder returns.",
+      "original_title": "Kospi surges 7% as SK Hynix earnings fuel AI stock rebound",
+      "url": "https://www.coindesk.com/markets/2026/10/28/kospi-surges-7-as-sk-hynix-earnings-fuel-ai-stock-rebound",
+      "source": "CoinDesk",
+      "domain": "coindesk.com",
+      "published_at": "2026-10-28T09:59:25Z",
+      "importance": 70,
       "impact": "positive",
       "timeframe": "short_term",
       "tags": [
@@ -333,32 +260,29 @@
       "reason": "屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
-      "id": "2a583fe670001205",
+      "id": "66827e31fd9643b9",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "Intel explores potential collaboration with AMD as Lip-Bu Tan pushes customer-focused turnaround",
-      "summary": "Intel CEO Lip-Bu Tan has reportedly discussed potential areas of cooperation with AMD chief Lisa Su as Intel works to rebuild its CPU business and expand its foundry operations. The companies have already collaborated on x86 standards and CPU software, includ…",
-      "original_title": "Intel explores potential collaboration with AMD as Lip-Bu Tan pushes customer-focused turnaround",
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/intel-explores-potential-collaboration-with-amd-as-lip-bu-tan-pushes-customer-focused-turnaround-ceo-targets-custom-chips-advanced-packaging-and-stronger-foundry-business",
-      "source": "Tom's Hardware UK",
-      "domain": "tomshardware.com",
-      "published_at": "2026-10-26T12:40:00Z",
-      "importance": 72,
-      "impact": "neutral",
+      "theme": "HBM記憶體",
+      "title": "S&P 500: Two AI Chipmakers Make Up 34% of America’s Earnings Boom",
+      "summary": "Ten companies—including Nvidia, Micron and other AI giants—account for roughly two-thirds of corporate profit growth.",
+      "original_title": "S&P 500: Two AI Chipmakers Make Up 34% of America’s Earnings Boom",
+      "url": "https://www.faz.net/aktuell/wall-street-journal/nvidia-micron-and-other-ai-giants-account-for-two-thirds-of-corporate-profit-growth-201621423.html",
+      "source": "Faz.net",
+      "domain": "faz.net",
+      "published_at": "2026-10-26T10:49:19Z",
+      "importance": 70,
+      "impact": "positive",
       "timeframe": "short_term",
       "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
+        "HBM",
+        "記憶體"
       ],
       "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
       ],
       "related_models": [
         "003",
@@ -368,7 +292,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
+      "reason": "屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "44baa68b9445bc32",
@@ -407,6 +331,190 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "ba20d3d058e0e08b",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "SK hynix-owned Solidigm is plotting a new $45 billion flash memory factory for the US, report claims",
+      "summary": "Solidigm, an American subsidiary of SK hynix, is in discussions about potentially investing $45 billion in a new flash chip factory that would be built in the United States.",
+      "original_title": "SK hynix-owned Solidigm is plotting a new $45 billion flash memory factory for the US, report claims",
+      "url": "https://www.tomshardware.com/tech-industry/manufacturing/sk-hynix-owned-solidigm-is-plotting-a-new-usd45-billion-flash-memory-factory-for-the-us-report-claims-wants-go-ahead-to-export-equipment-for-china-upgrades-in-return",
+      "source": "Tom's Hardware UK",
+      "domain": "tomshardware.com",
+      "published_at": "2026-10-28T13:01:21Z",
+      "importance": 67,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "802fc1089ddce127",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "IT vendor lists massive $60 million AI supercomputer on eBay with 300 racks of decommissioned GPUs",
+      "summary": "Someone listed a massive 300-rack AI supercomputer on eBay for $59.7M. Packed with 9,600 A100 GPUs and 4,200 EPYC CPUs, it even ships for free.",
+      "original_title": "IT vendor lists massive $60 million AI supercomputer on eBay with 300 racks of decommissioned GPUs",
+      "url": "https://www.tomshardware.com/desktops/servers/it-vendor-lists-massive-usd60-million-ai-cluster-on-ebay-300x-racks-of-decommissioned-gpus-includes-9-600-nvidia-a100-gpus-and-4-200-amd-epyc-cpus-plus-free-shipping",
+      "source": "Tom's Hardware UK",
+      "domain": "tomshardware.com",
+      "published_at": "2026-10-28T10:30:00Z",
+      "importance": 67,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "2a583fe670001205",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "Intel explores potential collaboration with AMD as Lip-Bu Tan pushes customer-focused turnaround",
+      "summary": "Intel CEO Lip-Bu Tan has reportedly discussed potential areas of cooperation with AMD chief Lisa Su as Intel works to rebuild its CPU business and expand its foundry operations. The companies have already collaborated on x86 standards and CPU software, includ…",
+      "original_title": "Intel explores potential collaboration with AMD as Lip-Bu Tan pushes customer-focused turnaround",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/intel-explores-potential-collaboration-with-amd-as-lip-bu-tan-pushes-customer-focused-turnaround-ceo-targets-custom-chips-advanced-packaging-and-stronger-foundry-business",
+      "source": "Tom's Hardware UK",
+      "domain": "tomshardware.com",
+      "published_at": "2026-10-26T12:40:00Z",
+      "importance": 67,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "356b695a37f2e216",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "TSMC Could Charge Up to 20% More for CoWoS Packaging Amid AI Crunch",
+      "summary": "TSMC is reportedly considering raising prices for its CoWoS (Chip on Wafer on Substrate) advanced packaging by as much as 20%, according to supply chain sources cited by Taiwan's Commercial Times. Foundries and outsourced packaging firms are apparently weighi…",
+      "original_title": "TSMC Could Charge Up to 20% More for CoWoS Packaging Amid AI Crunch",
+      "url": "https://www.techpowerup.com/354217/tsmc-could-charge-up-to-20-more-for-cowos-packaging-amid-ai-crunch",
+      "source": "Techpowerup.com",
+      "domain": "techpowerup.com",
+      "published_at": "2026-10-28T12:06:41Z",
+      "importance": 65,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "b068891620f06fbb",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "Infosys, TechM, TCS, other IT stocks plunge up to 5%, extend losses as global AI trade rebounds. What lies ahead?",
+      "summary": "Indian IT stocks fell sharply on Wednsday as renewed optimism around the global AI trade weighed on sentiment. Strong earnings from SK Hynix and Anthropic’s IPO filing fuelled gains in AI-linked stocks globally. However, concerns over an AI bubble persist, wi…",
+      "original_title": "Infosys, TechM, TCS, other IT stocks plunge up to 5%, extend losses as global AI trade rebounds. What lies ahead?",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/infosys-techm-tcs-other-it-stocks-plunge-up-to-5-extend-losses-as-global-ai-trade-rebounds-what-lies-ahead/articleshow/135255322.cms",
+      "source": "The Times of India",
+      "domain": "economictimes.indiatimes.com",
+      "published_at": "2026-10-28T06:46:27Z",
+      "importance": 65,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "b5565b96a7d77c1f",
@@ -521,6 +629,114 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "066200b2687f381a",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "RAMageddon is ready to rage on through 2030",
+      "summary": "SK Hynix, one of the major companies behind memory production, says that it’s sold out through 2029, leaving RAMageddon ready to rage on for at least the next three years.\n\n\n\n more…",
+      "original_title": "RAMageddon is ready to rage on through 2030",
+      "url": "http://9to5google.com/2026/10/28/ramageddon-sk-hynix-earnings-call-2030/",
+      "source": "9to5google.com",
+      "domain": "9to5google.com",
+      "published_at": "2026-10-28T15:25:00Z",
+      "importance": 60,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "c71dc97026e2e6fa",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Astronomers May Have Just Discovered Our Solar System's Sixth Dwarf Planet",
+      "summary": "Astronomers using the Vera C. Rubin Observatory have discovered 2026 ED138, a large object beyond Neptune that could become the solar system's sixth recognized dwarf planet if further observations confirm it is massive enough to be round. Located about 46 tim…",
+      "original_title": "Astronomers May Have Just Discovered Our Solar System's Sixth Dwarf Planet",
+      "url": "https://science.slashdot.org/story/26/10/28/035218/astronomers-may-have-just-discovered-our-solar-systems-sixth-dwarf-planet",
+      "source": "Slashdot.org",
+      "domain": "science.slashdot.org",
+      "published_at": "2026-10-28T11:00:00Z",
+      "importance": 60,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "f60a2ddda6b3b589",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "Apple memory supplier expects price increases through at least 2030",
+      "summary": "Key Apple memory supplier SK Hynix has warned that RAM and flash memory shortages are likely to last through at least 2030, keeping product prices high.\n\n\n\nApple is believed to be one of 14 customers who have locked in priority orders, but the contract does n…",
+      "original_title": "Apple memory supplier expects price increases through at least 2030",
+      "url": "https://9to5mac.com/2026/10/28/apple-memory-supplier-expects-price-increases-through-at-least-2030/",
+      "source": "9to5Mac",
+      "domain": "9to5mac.com",
+      "published_at": "2026-10-28T10:57:20Z",
+      "importance": 60,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "b3dd8b3c97a02d10",
@@ -856,41 +1072,6 @@
       "reason": "屬「光通訊與矽光子」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "2541ebe3017b7435",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "Micron's 2027 roadmap: DDR6 with 2x DDR5 bandwidth, 1TB RDIMMs, and 400+ layer NAND",
-      "summary": "Micron has detailed its 1δ (1-Delta) node as the follow-up to 1γ (1-Gamma). The new node, which features angstrom-level process control and HKMG CMOS structure, will reportedly deliver roughly 25% higher bit density than its predecessor when manufacturing adv…",
-      "original_title": "Micron's 2027 roadmap: DDR6 with 2x DDR5 bandwidth, 1TB RDIMMs, and 400+ layer NAND",
-      "url": "https://www.techspot.com/news/114313-micron-2027-roadmap-ddr6-2x-ddr5-bandwidth-1tb.html",
-      "source": "TechSpot",
-      "domain": "techspot.com",
-      "published_at": "2026-10-23T20:12:00Z",
-      "importance": 60,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "71014a613a552170",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -979,6 +1160,44 @@
       "domain": "tomshardware.com",
       "published_at": "2026-10-23T12:26:23Z",
       "importance": 57,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "ff56e2c669496a73",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "The Rubin Observatory Finds Its First Dwarf Planet Candidate",
+      "summary": "The Vera Rubin Observatory found a distant Solar System object before its decade-long Legacy Survey of Space and Time even got started. The object is a dwarf planet candidate named 2026 ED138, and if confirmed, it will be one of the largest dwarf planets beyo…",
+      "original_title": "The Rubin Observatory Finds Its First Dwarf Planet Candidate",
+      "url": "https://www.universetoday.com/articles/the-rubin-observatory-finds-its-first-dwarf-planet-candidate",
+      "source": "Universe Today",
+      "domain": "universetoday.com",
+      "published_at": "2026-10-28T15:34:33Z",
+      "importance": 55,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -1271,44 +1490,6 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "394eb40594722d5b",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Jay-Z to Headline Super Bowl LXI Halftime Show",
-      "summary": "The rapper confirmed he would headline the gig, which his company Roc Nation has had a hand in producing since 2019",
-      "original_title": "Jay-Z to Headline Super Bowl LXI Halftime Show",
-      "url": "http://www.rollingstone.com/music/music-news/jay-z-headline-2027-super-bowl-halftime-show-1235648064/",
-      "source": "Rolling Stone",
-      "domain": "rollingstone.com",
-      "published_at": "2026-10-27T01:51:31Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "005d57855db9d574",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1420,234 +1601,6 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "156099c1bfdd7b84",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "New iPad Mini Announced Today Has More Than 12 New Features",
-      "summary": "The new eight-generation iPad mini unveiled today has a long list of new features and changes, as outlined in our all-in-one summary below.\n\n\n\n\n\nHere is what is new for the iPad mini:<ul>\n\n <li>Larger, brighter, and more vivid 8.5-inch OLED display, up from 8…",
-      "original_title": "New iPad Mini Announced Today Has More Than 12 New Features",
-      "url": "https://www.macrumors.com/2026/10/26/new-ipad-mini-12-new-features/",
-      "source": "MacRumors",
-      "domain": "macrumors.com",
-      "published_at": "2026-10-26T15:35:40Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "760a9a6066e4cd29",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "FastEV activates new DC chargers in Kuching and Sebangan with 90 sen per min promo rate",
-      "summary": "Sarawak’s homegrown Charge Point Operator (CPO), FastEV, has added two new DC charging locations to its network. Located in Kuching and Sebangan, the additions bring the CPO’s footprint to 8 locations statewide. Operated by SDEC Karuna JV Sdn Bhd (SKJV)—a joi…",
-      "original_title": "FastEV activates new DC chargers in Kuching and Sebangan with 90 sen per min promo rate",
-      "url": "https://soyacincau.com/2026/10/26/fastev-urban-residences-kuching-rtc-sampat-live/",
-      "source": "SoyaCincau.com",
-      "domain": "soyacincau.com",
-      "published_at": "2026-10-26T15:16:22Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "74e635d81f51db7f",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Christiane Amanpour’s ‘The Ex Files’ Pod Adds Tina Brown As Co-Host For Season 2",
-      "summary": "EXCLUSIVE: With legendary international anchor Christiane Amanpour set to depart CNN next year, Amanpour has been joined by a very special guest host for her The Ex Files podcast. Tina Brown is stepping into The Ex Files hosting shoes alongside Amanpour and h…",
-      "original_title": "Christiane Amanpour’s ‘The Ex Files’ Pod Adds Tina Brown As Co-Host For Season 2",
-      "url": "http://deadline.com/2026/10/christiane-amanpour-pod-the-ex-files-tina-brown-season-2-1237172950/",
-      "source": "Deadline",
-      "domain": "deadline.com",
-      "published_at": "2026-10-26T13:00:00Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "bea4e8b517f9a5c9",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "iPad Mini 8 With These 10 New Features Expected Today or Tomorrow",
-      "summary": "Apple reportedly plans to unveil an iPad mini 8 with an OLED display this week, with those invited to Apple's Los Angeles experience on Wednesday, October 28 expected to receive hands-on time with the device, alongside MacBook Pro models with touch-enabled OL…",
-      "original_title": "iPad Mini 8 With These 10 New Features Expected Today or Tomorrow",
-      "url": "https://www.macrumors.com/2026/10/26/ipad-mini-8-10-rumored-features/",
-      "source": "MacRumors",
-      "domain": "macrumors.com",
-      "published_at": "2026-10-26T12:15:00Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "5cfa3b6a6d94f833",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "Former Intel CEO Pat Gelsinger bets on Nagare Labs to vault the memory wall",
-      "summary": "SRAM-like bandwidth, DRAM-like density, and NAND-like manufacturing: Z2RAM makes big promises, but the road ahead is arduous and littered with the ruins of failed memory vendors",
-      "original_title": "Former Intel CEO Pat Gelsinger bets on Nagare Labs to vault the memory wall",
-      "url": "https://www.theregister.com/systems/2026/10/26/former-intel-ceo-pat-gelsinger-bets-on-nagare-labs-to-vault-the-memory-wall/5305181",
-      "source": "Theregister.com",
-      "domain": "theregister.com",
-      "published_at": "2026-10-26T12:00:00Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "c3382425e1f06f7e",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "Business News: Audemars Piguet Unveils 'The Watch Keepers' - A Digital Platform Offering Certified Pre-Owned Watches",
-      "summary": "The Le Brassus watchmaker will facilitate sales and auctions of brand-certified timepieces on a digital platform launching in Switzerland and Europe, with plans for expansion to other markets, including the U.S.",
-      "original_title": "Business News: Audemars Piguet Unveils 'The Watch Keepers' - A Digital Platform Offering Certified Pre-Owned Watches",
-      "url": "https://www.hodinkee.com/articles/audemars-piguet-unveils-the-watch-keepers-a-digital-platform-offering-certified-pre-owned-watches",
-      "source": "HODINKEE",
-      "domain": "hodinkee.com",
-      "published_at": "2026-10-26T07:00:00Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "676db126482f56e4",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1684,41 +1637,6 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "5e5d19b53bf43a37",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "SK hynix will build a US fab for Solidigm, but scraps IPO plans",
-      "summary": "A new facility would support Solidigm's high-capacity enterprise SSD business. Its existing manufacturing capacity barely covers projected requirements, making additional production a priority for parent company SK hynix.Read Entire Article",
-      "original_title": "SK hynix will build a US fab for Solidigm, but scraps IPO plans",
-      "url": "https://www.techspot.com/news/114321-sk-hynix-build-us-fab-solidigm-but-scraps.html",
-      "source": "TechSpot",
-      "domain": "techspot.com",
-      "published_at": "2026-10-24T16:35:00Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "9e6488f632d4d38e",
@@ -1833,6 +1751,234 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "156099c1bfdd7b84",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "New iPad Mini Announced Today Has More Than 12 New Features",
+      "summary": "The new eight-generation iPad mini unveiled today has a long list of new features and changes, as outlined in our all-in-one summary below.\n\n\n\n\n\nHere is what is new for the iPad mini:<ul>\n\n <li>Larger, brighter, and more vivid 8.5-inch OLED display, up from 8…",
+      "original_title": "New iPad Mini Announced Today Has More Than 12 New Features",
+      "url": "https://www.macrumors.com/2026/10/26/new-ipad-mini-12-new-features/",
+      "source": "MacRumors",
+      "domain": "macrumors.com",
+      "published_at": "2026-10-26T15:35:40Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "760a9a6066e4cd29",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "FastEV activates new DC chargers in Kuching and Sebangan with 90 sen per min promo rate",
+      "summary": "Sarawak’s homegrown Charge Point Operator (CPO), FastEV, has added two new DC charging locations to its network. Located in Kuching and Sebangan, the additions bring the CPO’s footprint to 8 locations statewide. Operated by SDEC Karuna JV Sdn Bhd (SKJV)—a joi…",
+      "original_title": "FastEV activates new DC chargers in Kuching and Sebangan with 90 sen per min promo rate",
+      "url": "https://soyacincau.com/2026/10/26/fastev-urban-residences-kuching-rtc-sampat-live/",
+      "source": "SoyaCincau.com",
+      "domain": "soyacincau.com",
+      "published_at": "2026-10-26T15:16:22Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "74e635d81f51db7f",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Christiane Amanpour’s ‘The Ex Files’ Pod Adds Tina Brown As Co-Host For Season 2",
+      "summary": "EXCLUSIVE: With legendary international anchor Christiane Amanpour set to depart CNN next year, Amanpour has been joined by a very special guest host for her The Ex Files podcast. Tina Brown is stepping into The Ex Files hosting shoes alongside Amanpour and h…",
+      "original_title": "Christiane Amanpour’s ‘The Ex Files’ Pod Adds Tina Brown As Co-Host For Season 2",
+      "url": "http://deadline.com/2026/10/christiane-amanpour-pod-the-ex-files-tina-brown-season-2-1237172950/",
+      "source": "Deadline",
+      "domain": "deadline.com",
+      "published_at": "2026-10-26T13:00:00Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "bea4e8b517f9a5c9",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "iPad Mini 8 With These 10 New Features Expected Today or Tomorrow",
+      "summary": "Apple reportedly plans to unveil an iPad mini 8 with an OLED display this week, with those invited to Apple's Los Angeles experience on Wednesday, October 28 expected to receive hands-on time with the device, alongside MacBook Pro models with touch-enabled OL…",
+      "original_title": "iPad Mini 8 With These 10 New Features Expected Today or Tomorrow",
+      "url": "https://www.macrumors.com/2026/10/26/ipad-mini-8-10-rumored-features/",
+      "source": "MacRumors",
+      "domain": "macrumors.com",
+      "published_at": "2026-10-26T12:15:00Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "5cfa3b6a6d94f833",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "Former Intel CEO Pat Gelsinger bets on Nagare Labs to vault the memory wall",
+      "summary": "SRAM-like bandwidth, DRAM-like density, and NAND-like manufacturing: Z2RAM makes big promises, but the road ahead is arduous and littered with the ruins of failed memory vendors",
+      "original_title": "Former Intel CEO Pat Gelsinger bets on Nagare Labs to vault the memory wall",
+      "url": "https://www.theregister.com/systems/2026/10/26/former-intel-ceo-pat-gelsinger-bets-on-nagare-labs-to-vault-the-memory-wall/5305181",
+      "source": "Theregister.com",
+      "domain": "theregister.com",
+      "published_at": "2026-10-26T12:00:00Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "c3382425e1f06f7e",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "Business News: Audemars Piguet Unveils 'The Watch Keepers' - A Digital Platform Offering Certified Pre-Owned Watches",
+      "summary": "The Le Brassus watchmaker will facilitate sales and auctions of brand-certified timepieces on a digital platform launching in Switzerland and Europe, with plans for expansion to other markets, including the U.S.",
+      "original_title": "Business News: Audemars Piguet Unveils 'The Watch Keepers' - A Digital Platform Offering Certified Pre-Owned Watches",
+      "url": "https://www.hodinkee.com/articles/audemars-piguet-unveils-the-watch-keepers-a-digital-platform-offering-certified-pre-owned-watches",
+      "source": "HODINKEE",
+      "domain": "hodinkee.com",
+      "published_at": "2026-10-26T07:00:00Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "426557b1ec0d0ba8",
@@ -2359,44 +2505,6 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "2c153b5fa8a3facd",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "NASA Invites Media to 2026 von Braun Space Exploration Symposium",
-      "summary": "Members of the media are invited to join NASA at the 2026 von Braun Space Exploration Symposium from Monday, Oct. 26, to Wednesday, Oct. 28, at the University of Alabama in Huntsville. This year’s symposium is focused on humanity’s return to the Moon, sustain…",
-      "original_title": "NASA Invites Media to 2026 von Braun Space Exploration Symposium",
-      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-2026-von-braun-space-exploration-symposium/",
-      "source": "NASA",
-      "domain": "nasa.gov",
-      "published_at": "2026-10-22T21:39:58Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "25d57633931a105f",
