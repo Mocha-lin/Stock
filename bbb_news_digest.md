@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-30T15:35:11.307198+00:00
+> 更新時間：2026-10-30T18:17:55.473778+00:00
 
 ### 🚀 OPTOELEC seeks AI data center orders as Himax advances CPO optics
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -148,6 +148,15 @@ Better still, the company has margins that we can all be envious o…
 
 ---
 
+### ⚖️ Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: Skypilot.ai (2026-10-29T15:45:05Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: NVL72 puts all 72 GPUs in a rack on one NVLink fabric, but only rack-local jobs get the speedup. How SkyPilot keeps multi-node training and inference on NVLink with topology-aware placement, in-place recovery from GPU failures, and automatic defragmentation.
+- [原文連結](https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler)
+
+---
+
 ### 🚀 Dissents, rising prices, and a change to the meeting schedule: 3 takeaways from the October Fed meeting
 - **題材**: `總體風險` | **重要性**: `60`
 - **來源**: Business Insider (2026-10-28T20:16:55Z)
@@ -172,19 +181,6 @@ Better still, the company has margins that we can all be envious o…
 - **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: The country’s largest DRAM maker is expected to push ahead with limited production of advanced memory chips in the next two months.
 - [原文連結](https://gizmodo.com/china-is-so-desperate-for-ai-memory-that-its-producing-chips-with-a-70-failure-rate-2000831791)
-
----
-
-### ⚖️ RAMageddon is ready to rage on through 2030
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: 9to5google.com (2026-10-28T15:25:00Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: SK Hynix, one of the major companies behind memory production, says that it’s sold out through 2029, leaving RAMageddon ready to rage on for at least the next three years.
-
-
-
- more…
-- [原文連結](http://9to5google.com/2026/10/28/ramageddon-sk-hynix-earnings-call-2030/)
 
 ---
 
