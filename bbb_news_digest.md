@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-30T06:38:47.491480+00:00
+> 更新時間：2026-10-30T15:35:11.307198+00:00
 
 ### 🚀 OPTOELEC seeks AI data center orders as Himax advances CPO optics
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -7,25 +7,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: South Korean optics maker Optoelec is seeing growing interest from AI data center customers as it seeks to expand its wafer-level optics (WLO) business into high-speed optical communications, a market where Taiwanese suppliers are already moving toward commer…
 - [原文連結](https://www.digitimes.com/news/a20261024VL202/optics-cpo-data-center-himax-production.html)
-
----
-
-### ⚖️ Nvidia is bankrolling AI accelerator supply chain buildout to reserve production capacity
-- **題材**: `半導體先進製程` | **重要性**: `77`
-- **來源**: Tom's Hardware UK (2026-10-27T11:00:00Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Nvidia is committing billions to expand substrate, co-packaged optics, advanced packaging, and chip-testing capacity through 2028, reserving capacity at nearly every stage of its AI accelerator supply chain.
-- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/nvidia-is-bankrolling-ai-accelerator-supply-chain-buildout-to-reserve-production-capacity-announces-billion-dollar-deals-with-six-major-suppliers-across-substrates-advanced-packaging-semiconductor-testing-and-optical-engines)
-
----
-
-### 🚀 MaxLinear raises 2026 optical data center revenue forecast to $250M-$270M
-- **題材**: `光通訊與矽光子` | **重要性**: `75`
-- **來源**: Crypto Briefing (2026-10-23T15:04:43Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: MaxLinear's revised forecast highlights robust growth in optical data centers, underscoring the sector's pivotal role in future tech infrastructure.
-The post MaxLinear raises 2026 optical data center revenue forecast to $250M-$270M appeared first on Crypto Br…
-- [原文連結](https://cryptobriefing.com/maxlinear-raises-optical-data-center-forecast/)
 
 ---
 
@@ -56,6 +37,24 @@ The post MaxLinear raises 2026 optical data center revenue forecast to $250M-$27
 
 ---
 
+### ⚖️ Nvidia is bankrolling AI accelerator supply chain buildout to reserve production capacity
+- **題材**: `半導體先進製程` | **重要性**: `72`
+- **來源**: Tom's Hardware UK (2026-10-27T11:00:00Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Nvidia is committing billions to expand substrate, co-packaged optics, advanced packaging, and chip-testing capacity through 2028, reserving capacity at nearly every stage of its AI accelerator supply chain.
+- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/nvidia-is-bankrolling-ai-accelerator-supply-chain-buildout-to-reserve-production-capacity-announces-billion-dollar-deals-with-six-major-suppliers-across-substrates-advanced-packaging-semiconductor-testing-and-optical-engines)
+
+---
+
+### ⚠️ Tariffs, diesel and computer chips are driving up costs for automakers
+- **題材**: `總體風險` | **重要性**: `70`
+- **來源**: NPR (2026-10-29T09:00:00Z)
+- **AI 判讀**: 屬「總體風險」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: American auto companies say they are paying more for key components like computer chips, steel and copper — plus the fuel needed to transport their products.
+- [原文連結](https://www.npr.org/2026/10/29/nx-s1-6008066/automakers-inflation-tariffs-chips-diesel-earnings)
+
+---
+
 ### 🚀 Kospi surges 7% as SK Hynix earnings fuel AI stock rebound
 - **題材**: `HBM記憶體` | **重要性**: `70`
 - **來源**: CoinDesk (2026-10-28T09:59:25Z)
@@ -71,6 +70,16 @@ The post MaxLinear raises 2026 optical data center revenue forecast to $250M-$27
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Ten companies—including Nvidia, Micron and other AI giants—account for roughly two-thirds of corporate profit growth.
 - [原文連結](https://www.faz.net/aktuell/wall-street-journal/nvidia-micron-and-other-ai-giants-account-for-two-thirds-of-corporate-profit-growth-201621423.html)
+
+---
+
+### 🚀 MaxLinear raises 2026 optical data center revenue forecast to $250M-$270M
+- **題材**: `光通訊與矽光子` | **重要性**: `70`
+- **來源**: Crypto Briefing (2026-10-23T15:04:43Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: MaxLinear's revised forecast highlights robust growth in optical data centers, underscoring the sector's pivotal role in future tech infrastructure.
+The post MaxLinear raises 2026 optical data center revenue forecast to $250M-$270M appeared first on Crypto Br…
+- [原文連結](https://cryptobriefing.com/maxlinear-raises-optical-data-center-forecast/)
 
 ---
 
@@ -176,15 +185,6 @@ Better still, the company has margins that we can all be envious o…
 
  more…
 - [原文連結](http://9to5google.com/2026/10/28/ramageddon-sk-hynix-earnings-call-2030/)
-
----
-
-### ⚖️ Astronomers May Have Just Discovered Our Solar System's Sixth Dwarf Planet
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: Slashdot.org (2026-10-28T11:00:00Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Astronomers using the Vera C. Rubin Observatory have discovered 2026 ED138, a large object beyond Neptune that could become the solar system's sixth recognized dwarf planet if further observations confirm it is massive enough to be round. Located about 46 tim…
-- [原文連結](https://science.slashdot.org/story/26/10/28/035218/astronomers-may-have-just-discovered-our-solar-systems-sixth-dwarf-planet)
 
 ---
 

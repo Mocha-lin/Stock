@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-10-30T06:38:47.491480+00:00",
+  "generated_at": "2026-10-30T15:35:11.307198+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 72,
@@ -18,82 +18,6 @@
       "domain": "digitimes.com",
       "published_at": "2026-10-27T01:52:39Z",
       "importance": 78,
-      "impact": "positive",
-      "timeframe": "short_to_mid_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
-      "id": "c45459c265915c4c",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "Nvidia is bankrolling AI accelerator supply chain buildout to reserve production capacity",
-      "summary": "Nvidia is committing billions to expand substrate, co-packaged optics, advanced packaging, and chip-testing capacity through 2028, reserving capacity at nearly every stage of its AI accelerator supply chain.",
-      "original_title": "Nvidia is bankrolling AI accelerator supply chain buildout to reserve production capacity",
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/nvidia-is-bankrolling-ai-accelerator-supply-chain-buildout-to-reserve-production-capacity-announces-billion-dollar-deals-with-six-major-suppliers-across-substrates-advanced-packaging-semiconductor-testing-and-optical-engines",
-      "source": "Tom's Hardware UK",
-      "domain": "tomshardware.com",
-      "published_at": "2026-10-27T11:00:00Z",
-      "importance": 77,
-      "impact": "neutral",
-      "timeframe": "short_to_mid_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
-      "id": "64de5ab4a4c27c62",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "MaxLinear raises 2026 optical data center revenue forecast to $250M-$270M",
-      "summary": "MaxLinear's revised forecast highlights robust growth in optical data centers, underscoring the sector's pivotal role in future tech infrastructure.\nThe post MaxLinear raises 2026 optical data center revenue forecast to $250M-$270M appeared first on Crypto Br…",
-      "original_title": "MaxLinear raises 2026 optical data center revenue forecast to $250M-$270M",
-      "url": "https://cryptobriefing.com/maxlinear-raises-optical-data-center-forecast/",
-      "source": "Crypto Briefing",
-      "domain": "cryptobriefing.com",
-      "published_at": "2026-10-23T15:04:43Z",
-      "importance": 75,
       "impact": "positive",
       "timeframe": "short_to_mid_term",
       "tags": [
@@ -225,6 +149,82 @@
       "reason": "屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
+      "id": "c45459c265915c4c",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "Nvidia is bankrolling AI accelerator supply chain buildout to reserve production capacity",
+      "summary": "Nvidia is committing billions to expand substrate, co-packaged optics, advanced packaging, and chip-testing capacity through 2028, reserving capacity at nearly every stage of its AI accelerator supply chain.",
+      "original_title": "Nvidia is bankrolling AI accelerator supply chain buildout to reserve production capacity",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/nvidia-is-bankrolling-ai-accelerator-supply-chain-buildout-to-reserve-production-capacity-announces-billion-dollar-deals-with-six-major-suppliers-across-substrates-advanced-packaging-semiconductor-testing-and-optical-engines",
+      "source": "Tom's Hardware UK",
+      "domain": "tomshardware.com",
+      "published_at": "2026-10-27T11:00:00Z",
+      "importance": 72,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
+      "id": "2af07b8ada62485f",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "Tariffs, diesel and computer chips are driving up costs for automakers",
+      "summary": "American auto companies say they are paying more for key components like computer chips, steel and copper — plus the fuel needed to transport their products.",
+      "original_title": "Tariffs, diesel and computer chips are driving up costs for automakers",
+      "url": "https://www.npr.org/2026/10/29/nx-s1-6008066/automakers-inflation-tariffs-chips-diesel-earnings",
+      "source": "NPR",
+      "domain": "npr.org",
+      "published_at": "2026-10-29T09:00:00Z",
+      "importance": 70,
+      "impact": "negative",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
       "id": "0a3ea34a077a87d3",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -293,6 +293,44 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
+      "id": "64de5ab4a4c27c62",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "MaxLinear raises 2026 optical data center revenue forecast to $250M-$270M",
+      "summary": "MaxLinear's revised forecast highlights robust growth in optical data centers, underscoring the sector's pivotal role in future tech infrastructure.\nThe post MaxLinear raises 2026 optical data center revenue forecast to $250M-$270M appeared first on Crypto Br…",
+      "original_title": "MaxLinear raises 2026 optical data center revenue forecast to $250M-$270M",
+      "url": "https://cryptobriefing.com/maxlinear-raises-optical-data-center-forecast/",
+      "source": "Crypto Briefing",
+      "domain": "cryptobriefing.com",
+      "published_at": "2026-10-23T15:04:43Z",
+      "importance": 70,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "ba20d3d058e0e08b",
@@ -888,114 +926,6 @@
       "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "f159e91d5413336a",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "M4 vs. M6 iMac Buyer's Guide: Should You Upgrade?",
-      "summary": "Apple's latest iMac skips the M5 chip and moves directly to the M6, bringing faster performance, improved connectivity, and faster storage. So how much has changed since the M4 model arrived in 2024, and is it worth upgrading?\n\n\n\n\n\nThe M6 iMac starts at $1,49…",
-      "original_title": "M4 vs. M6 iMac Buyer's Guide: Should You Upgrade?",
-      "url": "https://www.macrumors.com/guide/m4-vs-m6-imac/",
-      "source": "MacRumors",
-      "domain": "macrumors.com",
-      "published_at": "2026-10-27T15:30:15Z",
-      "importance": 60,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "d6c651842e17584c",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "Amazon weighed ‘difficult trade-offs’ as memory costs squeezed its devices business, internal document shows",
-      "summary": "Amazon forecast a $612 million gross loss for its own devices as rising memory costs squeeze hardware margins, internal document shows.",
-      "original_title": "Amazon weighed ‘difficult trade-offs’ as memory costs squeezed its devices business, internal document shows",
-      "url": "https://www.businessinsider.com/amazon-alexia-memory-chip-costs-losses-2026-10#article",
-      "source": "Business Insider",
-      "domain": "businessinsider.com",
-      "published_at": "2026-10-27T09:00:04Z",
-      "importance": 60,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "7d28465db8d2c76f",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "South Korea’s GDP growth beats forecasts amid AI boom",
-      "summary": "Asia's fourth-largest economy grows 3.4 percent year-on-year amid strong semiconductor demand.",
-      "original_title": "South Korea’s GDP growth beats forecasts amid AI boom",
-      "url": "https://www.aljazeera.com/economy/2026/10/27/south-koreas-gdp-growth-beats-forecasts-amid-ai-boom",
-      "source": "Al Jazeera English",
-      "domain": "aljazeera.com",
-      "published_at": "2026-10-27T06:50:53Z",
-      "importance": 60,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "b5565b96a7d77c1f",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1072,18 +1002,94 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "968dd4ad21a1be42",
+      "id": "c1a126aff1eedaa9",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "With days to go before the midterms, data shows the U.S. economy is doing well",
+      "summary": "GDP grew at an annual rate of 3.4% in the third quarter in the last major read on the economy ahead of the midterm elections — but many Americans continue to struggle with affordability.",
+      "original_title": "With days to go before the midterms, data shows the U.S. economy is doing well",
+      "url": "https://www.npr.org/2026/10/29/nx-s1-6021008/economy-gdp-inflation-midterms-voters-affordability",
+      "source": "NPR",
+      "domain": "npr.org",
+      "published_at": "2026-10-29T13:05:03Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "fe2ee4c8fc939b4a",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "AI伺服器",
-      "title": "Illegal Nvidia Blackwell Ultra B300 GPUs found inside state-owned China Telecom's network",
-      "summary": "A security firm has been able to identify 32 Nvidia Blackwell Ultra B300 AI chips running inside a China Telecom network, but it's unclear where the export-barred components are physically located.",
-      "original_title": "Illegal Nvidia Blackwell Ultra B300 GPUs found inside state-owned China Telecom's network",
-      "url": "https://www.tomshardware.com/tech-industry/data-centers/illegal-nvidia-blackwell-ultra-b300-gpus-found-inside-state-owned-china-telecoms-network-nvidia-says-chip-smuggling-a-drop-in-the-bucket-insists-smuggling-remains-a-nonfactor",
-      "source": "Tom's Hardware UK",
-      "domain": "tomshardware.com",
-      "published_at": "2026-10-23T12:26:23Z",
-      "importance": 57,
+      "title": "Scientists may have found a new dwarf planet in a distant world beyond Pluto",
+      "summary": "Scientists from the NSF–DOE Vera C. Rubin Observatory have announced that they have spotted a possible new dwarf planet known (for now) as 2026 ED138 orbiting the sun, located just beyond Pluto.Meet our Solar System's newest dwarf planet candidate: 2026 ED138…",
+      "original_title": "Scientists may have found a new dwarf planet in a distant world beyond Pluto",
+      "url": "https://www.newsweek.com/scientists-may-have-found-new-dwarf-planet-12634224",
+      "source": "Newsweek",
+      "domain": "newsweek.com",
+      "published_at": "2026-10-29T11:20:10Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "51ef90af287671ae",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Astronomers Discover a Possible New Dwarf Planet in Our Solar System",
+      "summary": "Lying beyond Pluto, 2026 ED138 could be as large as 1,500 kilometers in diameter. Astronomers are still working to confirm whether it meets the criteria for a dwarf planet.",
+      "original_title": "Astronomers Discover a Possible New Dwarf Planet in Our Solar System",
+      "url": "https://www.wired.com/story/astronomers-discover-a-possible-new-dwarf-planet-in-our-solar-system/",
+      "source": "Wired",
+      "domain": "wired.com",
+      "published_at": "2026-10-29T09:00:00Z",
+      "importance": 55,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -1300,44 +1306,6 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "9a3924b51e1dcd5b",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "Federal Reserve holds interest rates steady in split vote ahead of midterm elections",
-      "summary": "With the midterm elections less than a week away, the Federal Reserve held interest rates steady on Wednesday, even as the latest inflation reports show prices rising again. The central bank voted in a split decision to hold its benchmark interest rate steady…",
-      "original_title": "Federal Reserve holds interest rates steady in split vote ahead of midterm elections",
-      "url": "https://finance.yahoo.com/economy/policy/article/fed-votes-in-split-decision-to-hold-interest-rates-steady-despite-sticky-inflation-180108960.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-10-28T19:39:27Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "8f757ae9051ca7ae",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1414,44 +1382,6 @@
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "83078961a467f286",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "Chris Mason: Budget felt cautious despite its range of small measures",
-      "summary": "The chancellor has had to grapple with a mix of public finances and household finances being a mess.",
-      "original_title": "Chris Mason: Budget felt cautious despite its range of small measures",
-      "url": "https://www.bbc.co.uk/news/articles/cm78pljvqvxeo",
-      "source": "BBC News",
-      "domain": "bbc.co.uk",
-      "published_at": "2026-10-28T16:52:16Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "8a3c5539351a0718",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1498,44 +1428,6 @@
       "source": "Universe Today",
       "domain": "universetoday.com",
       "published_at": "2026-10-28T15:34:33Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "ab96debf62ebdc9b",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Nvidia Nemotron 3.5 Transcribe: open ASR for 40 languages",
-      "summary": "A Blog post by NVIDIA on Hugging Face",
-      "original_title": "Nvidia Nemotron 3.5 Transcribe: open ASR for 40 languages",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-      "source": "Huggingface.co",
-      "domain": "huggingface.co",
-      "published_at": "2026-10-28T15:17:53Z",
       "importance": 55,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -1791,32 +1683,32 @@
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "f443d49291443026",
+      "id": "f159e91d5413336a",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Discursive Verses: Jay-Z, the Super Bowl and playing with house money",
-      "summary": "NPR Music culture critic and reporter Rodney Carmichael ruminates on the latest in rap culture. This week: Is the rap mogul's self-selection a crowning achievement or a final affront?",
-      "original_title": "Discursive Verses: Jay-Z, the Super Bowl and playing with house money",
-      "url": "https://www.npr.org/2026/10/27/nx-s1-6019093/the-week-in-hip-hop-jay-z-super-bowl",
-      "source": "NPR",
-      "domain": "npr.org",
-      "published_at": "2026-10-27T14:15:21Z",
+      "theme": "半導體先進製程",
+      "title": "M4 vs. M6 iMac Buyer's Guide: Should You Upgrade?",
+      "summary": "Apple's latest iMac skips the M5 chip and moves directly to the M6, bringing faster performance, improved connectivity, and faster storage. So how much has changed since the M4 model arrived in 2024, and is it worth upgrading?\n\n\n\n\n\nThe M6 iMac starts at $1,49…",
+      "original_title": "M4 vs. M6 iMac Buyer's Guide: Should You Upgrade?",
+      "url": "https://www.macrumors.com/guide/m4-vs-m6-imac/",
+      "source": "MacRumors",
+      "domain": "macrumors.com",
+      "published_at": "2026-10-27T15:30:15Z",
       "importance": 55,
-      "impact": "neutral",
+      "impact": "positive",
       "timeframe": "short_term",
       "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
+        "半導體",
+        "CoWoS",
+        "先進製程"
       ],
       "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
       ],
       "related_models": [
         "003",
@@ -1826,7 +1718,77 @@
         "009",
         "010"
       ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "d6c651842e17584c",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "Amazon weighed ‘difficult trade-offs’ as memory costs squeezed its devices business, internal document shows",
+      "summary": "Amazon forecast a $612 million gross loss for its own devices as rising memory costs squeeze hardware margins, internal document shows.",
+      "original_title": "Amazon weighed ‘difficult trade-offs’ as memory costs squeezed its devices business, internal document shows",
+      "url": "https://www.businessinsider.com/amazon-alexia-memory-chip-costs-losses-2026-10#article",
+      "source": "Business Insider",
+      "domain": "businessinsider.com",
+      "published_at": "2026-10-27T09:00:04Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "7d28465db8d2c76f",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "South Korea’s GDP growth beats forecasts amid AI boom",
+      "summary": "Asia's fourth-largest economy grows 3.4 percent year-on-year amid strong semiconductor demand.",
+      "original_title": "South Korea’s GDP growth beats forecasts amid AI boom",
+      "url": "https://www.aljazeera.com/economy/2026/10/27/south-koreas-gdp-growth-beats-forecasts-amid-ai-boom",
+      "source": "Al Jazeera English",
+      "domain": "aljazeera.com",
+      "published_at": "2026-10-27T06:50:53Z",
+      "importance": 55,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "ae0de6a040e2092f",
@@ -1979,6 +1941,82 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "968dd4ad21a1be42",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Illegal Nvidia Blackwell Ultra B300 GPUs found inside state-owned China Telecom's network",
+      "summary": "A security firm has been able to identify 32 Nvidia Blackwell Ultra B300 AI chips running inside a China Telecom network, but it's unclear where the export-barred components are physically located.",
+      "original_title": "Illegal Nvidia Blackwell Ultra B300 GPUs found inside state-owned China Telecom's network",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/illegal-nvidia-blackwell-ultra-b300-gpus-found-inside-state-owned-china-telecoms-network-nvidia-says-chip-smuggling-a-drop-in-the-bucket-insists-smuggling-remains-a-nonfactor",
+      "source": "Tom's Hardware UK",
+      "domain": "tomshardware.com",
+      "published_at": "2026-10-23T12:26:23Z",
+      "importance": 52,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "f443d49291443026",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Discursive Verses: Jay-Z, the Super Bowl and playing with house money",
+      "summary": "NPR Music culture critic and reporter Rodney Carmichael ruminates on the latest in rap culture. This week: Is the rap mogul's self-selection a crowning achievement or a final affront?",
+      "original_title": "Discursive Verses: Jay-Z, the Super Bowl and playing with house money",
+      "url": "https://www.npr.org/2026/10/27/nx-s1-6019093/the-week-in-hip-hop-jay-z-super-bowl",
+      "source": "NPR",
+      "domain": "npr.org",
+      "published_at": "2026-10-27T14:15:21Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "61e94b2145e17fe7",
@@ -2472,44 +2510,6 @@
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "de1e6164a1d28e3b",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Robert Rubin, Faux Statesman",
-      "summary": "His seemingly high-minded piece in the Times is a reminder of who really governs.\nThe post Robert Rubin, Faux Statesman appeared first on The American Prospect.",
-      "original_title": "Robert Rubin, Faux Statesman",
-      "url": "https://prospect.org/2026/10/23/robert-rubin-faux-statesman/",
-      "source": "The American Prospect",
-      "domain": "prospect.org",
-      "published_at": "2026-10-23T19:00:00Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "e23e4b311d5e6d30",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2559,7 +2559,7 @@
       "source": "Business Insider",
       "domain": "businessinsider.com",
       "published_at": "2026-10-23T13:02:27Z",
-      "importance": 50,
+      "importance": 45,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -2583,7 +2583,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「半導體先進製程」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     },
     {
       "id": "7cecf802ee62d587",
@@ -2597,7 +2597,7 @@
       "source": "Business Insider",
       "domain": "markets.businessinsider.com",
       "published_at": "2026-10-23T10:42:29Z",
-      "importance": 50,
+      "importance": 45,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -2618,7 +2618,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「HBM記憶體」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     },
     {
       "id": "615a38f0e7748b8d",
@@ -2632,7 +2632,7 @@
       "source": "BBC News",
       "domain": "bbc.co.uk",
       "published_at": "2026-10-23T08:39:42Z",
-      "importance": 50,
+      "importance": 45,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -2656,7 +2656,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「總體風險」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     },
     {
       "id": "5d7bf41d01a2b110",
