@@ -1,8 +1,8 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-29T23:01:37.593480+00:00
+> 更新時間：2026-10-30T02:24:52.742557+00:00
 
 ### 🚀 OPTOELEC seeks AI data center orders as Himax advances CPO optics
-- **題材**: `光通訊與矽光子` | **重要性**: `83`
+- **題材**: `光通訊與矽光子` | **重要性**: `78`
 - **來源**: Digitimes (2026-10-27T01:52:39Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: South Korean optics maker Optoelec is seeing growing interest from AI data center customers as it seeks to expand its wafer-level optics (WLO) business into high-speed optical communications, a market where Taiwanese suppliers are already moving toward commer…
@@ -74,15 +74,6 @@ The post MaxLinear raises 2026 optical data center revenue forecast to $250M-$27
 
 ---
 
-### ⚠️ TSMC advances CoPoS packaging at Taoyuan Longtan site
-- **題材**: `半導體先進製程` | **重要性**: `68`
-- **來源**: Digitimes (2026-10-23T06:30:52Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: TSMC's Longtan Science Park Phase 3 in Taoyuan is restarting after nearly three years of delays, with Taiwan's National Development Council approving its development plan on September 17, 2026. The 104.65-hectare site is expected to focus first on advanced pa…
-- [原文連結](https://www.digitimes.com/news/a20261023PD227/tsmc-packaging-southern-taiwan-science-park-capacity-national-development-council.html)
-
----
-
 ### ⚖️ SK hynix-owned Solidigm is plotting a new $45 billion flash memory factory for the US, report claims
 - **題材**: `HBM記憶體` | **重要性**: `67`
 - **來源**: Tom's Hardware UK (2026-10-28T13:01:21Z)
@@ -110,6 +101,17 @@ The post MaxLinear raises 2026 optical data center revenue forecast to $250M-$27
 
 ---
 
+### ⚖️ SK hynix reports record Q3 numbers, warns that the memory shortage will last through 2030
+- **題材**: `HBM記憶體` | **重要性**: `65`
+- **來源**: GSMArena.com (2026-10-29T01:02:02Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: SK hynix had a stellar quarter – the financial report for Q3 reports revenues of KRW 104.6 trillion. This is the first time that the quarterly sales have gone above the KRW 100 trillion mark.
+
+Better still, the company has margins that we can all be envious o…
+- [原文連結](https://www.gsmarena.com/sk_hynix_reports_record_q3_numbers_warns_that_the_memory_shortage_will_last_through_2030-news-75249.php)
+
+---
+
 ### ⚖️ TSMC Could Charge Up to 20% More for CoWoS Packaging Amid AI Crunch
 - **題材**: `半導體先進製程` | **重要性**: `65`
 - **來源**: Techpowerup.com (2026-10-28T12:06:41Z)
@@ -119,12 +121,12 @@ The post MaxLinear raises 2026 optical data center revenue forecast to $250M-$27
 
 ---
 
-### ⚖️ Nvidia reveals its mega DSX POD modular 'AI factory' — so could the latest Vera Rubin hardware actually help make data centers more energy efficient?
-- **題材**: `AI伺服器` | **重要性**: `65`
-- **來源**: TechRadar (2026-10-26T23:35:00Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Nvidia's DSX POD combines Vera Rubin hardware with factory-built containers, promising faster AI data center deployment and reduced installation work.
-- [原文連結](https://www.techradar.com/pro/nvidia-reveals-its-mega-dsx-pod-modular-ai-factory-featuring-the-latest-vera-rubin-hardware-and-a-promise-to-make-data-centers-more-energy-efficient)
+### 🚀 Anduril now says its BlueChip laptop will meet Buy American standards at launch
+- **題材**: `半導體先進製程` | **重要性**: `63`
+- **來源**: The Verge (2026-10-29T02:22:46Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: On Tuesday, defense contractor Anduril and chipmaker Qualcomm announced a partnership to build laptops entirely in the United States, starting with a single model in 2027. They also announced a "long-term goal" of pushing the computer industry to create "a fu…
+- [原文連結](https://www.theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-american)
 
 ---
 

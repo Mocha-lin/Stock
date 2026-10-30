@@ -1,9 +1,9 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-10-29T23:01:37.593480+00:00",
+  "generated_at": "2026-10-30T02:24:52.742557+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
-  "total_count": 71,
+  "total_count": 72,
   "items": [
     {
       "id": "4bde6c0ee8ecc6e3",
@@ -17,7 +17,7 @@
       "source": "Digitimes",
       "domain": "digitimes.com",
       "published_at": "2026-10-27T01:52:39Z",
-      "importance": 83,
+      "importance": 78,
       "impact": "positive",
       "timeframe": "short_to_mid_term",
       "tags": [
@@ -295,44 +295,6 @@
       "reason": "屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
-      "id": "44baa68b9445bc32",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "TSMC advances CoPoS packaging at Taoyuan Longtan site",
-      "summary": "TSMC's Longtan Science Park Phase 3 in Taoyuan is restarting after nearly three years of delays, with Taiwan's National Development Council approving its development plan on September 17, 2026. The 104.65-hectare site is expected to focus first on advanced pa…",
-      "original_title": "TSMC advances CoPoS packaging at Taoyuan Longtan site",
-      "url": "https://www.digitimes.com/news/a20261023PD227/tsmc-packaging-southern-taiwan-science-park-capacity-national-development-council.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-10-23T06:30:52Z",
-      "importance": 68,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "ba20d3d058e0e08b",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -444,6 +406,41 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "5f8ffc9b9ff3c8bd",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "SK hynix reports record Q3 numbers, warns that the memory shortage will last through 2030",
+      "summary": "SK hynix had a stellar quarter – the financial report for Q3 reports revenues of KRW 104.6 trillion. This is the first time that the quarterly sales have gone above the KRW 100 trillion mark.\n\nBetter still, the company has margins that we can all be envious o…",
+      "original_title": "SK hynix reports record Q3 numbers, warns that the memory shortage will last through 2030",
+      "url": "https://www.gsmarena.com/sk_hynix_reports_record_q3_numbers_warns_that_the_memory_shortage_will_last_through_2030-news-75249.php",
+      "source": "GSMArena.com",
+      "domain": "gsmarena.com",
+      "published_at": "2026-10-29T01:02:02Z",
+      "importance": 65,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "356b695a37f2e216",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -482,32 +479,32 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "b5565b96a7d77c1f",
+      "id": "d6dec1d070e4bc19",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Nvidia reveals its mega DSX POD modular 'AI factory' — so could the latest Vera Rubin hardware actually help make data centers more energy efficient?",
-      "summary": "Nvidia's DSX POD combines Vera Rubin hardware with factory-built containers, promising faster AI data center deployment and reduced installation work.",
-      "original_title": "Nvidia reveals its mega DSX POD modular 'AI factory' — so could the latest Vera Rubin hardware actually help make data centers more energy efficient?",
-      "url": "https://www.techradar.com/pro/nvidia-reveals-its-mega-dsx-pod-modular-ai-factory-featuring-the-latest-vera-rubin-hardware-and-a-promise-to-make-data-centers-more-energy-efficient",
-      "source": "TechRadar",
-      "domain": "techradar.com",
-      "published_at": "2026-10-26T23:35:00Z",
-      "importance": 65,
-      "impact": "neutral",
+      "theme": "半導體先進製程",
+      "title": "Anduril now says its BlueChip laptop will meet Buy American standards at launch",
+      "summary": "On Tuesday, defense contractor Anduril and chipmaker Qualcomm announced a partnership to build laptops entirely in the United States, starting with a single model in 2027. They also announced a \"long-term goal\" of pushing the computer industry to create \"a fu…",
+      "original_title": "Anduril now says its BlueChip laptop will meet Buy American standards at launch",
+      "url": "https://www.theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-american",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "published_at": "2026-10-29T02:22:46Z",
+      "importance": 63,
+      "impact": "positive",
       "timeframe": "short_term",
       "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
+        "半導體",
+        "CoWoS",
+        "先進製程"
       ],
       "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
       ],
       "related_models": [
         "003",
@@ -517,7 +514,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "b800ea26c334229e",
@@ -999,32 +996,32 @@
       "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "ae0de6a040e2092f",
+      "id": "b5565b96a7d77c1f",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "India's largest share sale could end cheap mobile internet for millions",
-      "summary": "Jio's IPO promises a windfall for investors, but could signal the end of cheap mobile data for millions.",
-      "original_title": "India's largest share sale could end cheap mobile internet for millions",
-      "url": "https://www.bbc.co.uk/news/articles/cw78pe7vlej5o",
-      "source": "BBC News",
-      "domain": "bbc.co.uk",
-      "published_at": "2026-10-27T00:00:30Z",
+      "theme": "AI伺服器",
+      "title": "Nvidia reveals its mega DSX POD modular 'AI factory' — so could the latest Vera Rubin hardware actually help make data centers more energy efficient?",
+      "summary": "Nvidia's DSX POD combines Vera Rubin hardware with factory-built containers, promising faster AI data center deployment and reduced installation work.",
+      "original_title": "Nvidia reveals its mega DSX POD modular 'AI factory' — so could the latest Vera Rubin hardware actually help make data centers more energy efficient?",
+      "url": "https://www.techradar.com/pro/nvidia-reveals-its-mega-dsx-pod-modular-ai-factory-featuring-the-latest-vera-rubin-hardware-and-a-promise-to-make-data-centers-more-energy-efficient",
+      "source": "TechRadar",
+      "domain": "techradar.com",
+      "published_at": "2026-10-26T23:35:00Z",
       "importance": 60,
-      "impact": "positive",
+      "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
+        "AI",
+        "伺服器",
+        "資料中心"
       ],
       "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
       ],
       "related_models": [
         "003",
@@ -1034,7 +1031,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "7432b158af974134",
@@ -1048,44 +1045,6 @@
       "source": "Financial Post",
       "domain": "financialpost.com",
       "published_at": "2026-10-26T21:18:14Z",
-      "importance": 60,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "71014a613a552170",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "Credo Technology Group unveils 1.6-terabit optical cable, targets AI market",
-      "summary": "Credo's innovation could redefine AI infrastructure, enhancing efficiency and reliability while potentially setting new industry standards.\nThe post Credo Technology Group unveils 1.6-terabit optical cable, targets AI market appeared first on Crypto Briefing.",
-      "original_title": "Credo Technology Group unveils 1.6-terabit optical cable, targets AI market",
-      "url": "https://cryptobriefing.com/credo-1-6t-active-light-cable-ai/",
-      "source": "Crypto Briefing",
-      "domain": "cryptobriefing.com",
-      "published_at": "2026-10-23T13:53:56Z",
       "importance": 60,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -1149,6 +1108,82 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "02a24f22c784f4d0",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "大きいのに、すっきり見える。MORLENの本革トートバッグがMakuakeで先行販売を開始",
+      "summary": "[近江グローバルサービス株式会社]\n[画像1: https://prcdn.freetls.fastly.net/release_image/192784/9/192784-9-af402bdf319ca459167598b544e538b9-1380x776.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&amp...",
+      "original_title": "大きいのに、すっきり見える。MORLENの本革トートバッグがMakuakeで先行販売を開始",
+      "url": "https://prtimes.jp/main/html/rd/p/000000009.000192784.html",
+      "source": "Prtimes.jp",
+      "domain": "prtimes.jp",
+      "published_at": "2026-10-29T01:40:51Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "68776c0b2a72c8f0",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "Europe's youth take to the streets - they feel locked out of a promising future",
+      "summary": "The last month has seen youth-driven demonstrations across Europe. What connects them?",
+      "original_title": "Europe's youth take to the streets - they feel locked out of a promising future",
+      "url": "https://www.bbc.co.uk/news/articles/cm2ke80nd929o",
+      "source": "BBC News",
+      "domain": "bbc.co.uk",
+      "published_at": "2026-10-29T00:33:11Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "e93e049cf9fea10f",
@@ -1227,6 +1262,44 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "9a3924b51e1dcd5b",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "Federal Reserve holds interest rates steady in split vote ahead of midterm elections",
+      "summary": "With the midterm elections less than a week away, the Federal Reserve held interest rates steady on Wednesday, even as the latest inflation reports show prices rising again. The central bank voted in a split decision to hold its benchmark interest rate steady…",
+      "original_title": "Federal Reserve holds interest rates steady in split vote ahead of midterm elections",
+      "url": "https://finance.yahoo.com/economy/policy/article/fed-votes-in-split-decision-to-hold-interest-rates-steady-despite-sticky-inflation-180108960.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-10-28T19:39:27Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "8f757ae9051ca7ae",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1303,6 +1376,44 @@
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "83078961a467f286",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "Chris Mason: Budget felt cautious despite its range of small measures",
+      "summary": "The chancellor has had to grapple with a mix of public finances and household finances being a mess.",
+      "original_title": "Chris Mason: Budget felt cautious despite its range of small measures",
+      "url": "https://www.bbc.co.uk/news/articles/cm78pljvqvxeo",
+      "source": "BBC News",
+      "domain": "bbc.co.uk",
+      "published_at": "2026-10-28T16:52:16Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "8a3c5539351a0718",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1349,6 +1460,44 @@
       "source": "Universe Today",
       "domain": "universetoday.com",
       "published_at": "2026-10-28T15:34:33Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "ab96debf62ebdc9b",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Nvidia Nemotron 3.5 Transcribe: open ASR for 40 languages",
+      "summary": "A Blog post by NVIDIA on Hugging Face",
+      "original_title": "Nvidia Nemotron 3.5 Transcribe: open ASR for 40 languages",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+      "source": "Huggingface.co",
+      "domain": "huggingface.co",
+      "published_at": "2026-10-28T15:17:53Z",
       "importance": 55,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -1642,6 +1791,44 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "ae0de6a040e2092f",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "India's largest share sale could end cheap mobile internet for millions",
+      "summary": "Jio's IPO promises a windfall for investors, but could signal the end of cheap mobile data for millions.",
+      "original_title": "India's largest share sale could end cheap mobile internet for millions",
+      "url": "https://www.bbc.co.uk/news/articles/cw78pe7vlej5o",
+      "source": "BBC News",
+      "domain": "bbc.co.uk",
+      "published_at": "2026-10-27T00:00:30Z",
+      "importance": 55,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "8746b716d6c61294",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1756,67 +1943,32 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "9587e1ccc1efa72c",
+      "id": "394eb40594722d5b",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "PC shipments dropped over 20 percent in Q3 due to RAM price hikes",
-      "summary": "Demand for new PCs took a hit after months of price hikes, with Counterpoint Research reporting global PC shipments fell 21 percent year-over-year in Q3 2026. That's in line with earlier reports from IDC and Omdia. It's not just PCs, either - that same quarte…",
-      "original_title": "PC shipments dropped over 20 percent in Q3 due to RAM price hikes",
-      "url": "https://www.theverge.com/gadgets/1017144/global-pc-shipments-dropped-q3-2026-ram",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "published_at": "2026-10-22T21:30:39Z",
-      "importance": 53,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "005d57855db9d574",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "Laptop makers finally have an excuse to stop soldering down RAM",
-      "summary": "Soldered RAM has many benefits, but it could be time to switch.",
-      "original_title": "Laptop makers finally have an excuse to stop soldering down RAM",
-      "url": "https://www.makeuseof.com/laptop-makers-finally-have-an-excuse-to-stop-soldering-down-ram/",
-      "source": "MakeUseOf",
-      "domain": "makeuseof.com",
-      "published_at": "2026-10-26T19:31:16Z",
+      "theme": "AI伺服器",
+      "title": "Jay-Z to Headline Super Bowl LXI Halftime Show",
+      "summary": "The rapper confirmed he would headline the gig, which his company Roc Nation has had a hand in producing since 2019",
+      "original_title": "Jay-Z to Headline Super Bowl LXI Halftime Show",
+      "url": "http://www.rollingstone.com/music/music-news/jay-z-headline-2027-super-bowl-halftime-show-1235648064/",
+      "source": "Rolling Stone",
+      "domain": "rollingstone.com",
+      "published_at": "2026-10-27T01:51:31Z",
       "importance": 50,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "HBM",
-        "記憶體"
+        "AI",
+        "伺服器",
+        "資料中心"
       ],
       "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
       ],
       "related_models": [
         "003",
@@ -1826,7 +1978,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "61e94b2145e17fe7",
@@ -2320,6 +2472,44 @@
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "de1e6164a1d28e3b",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Robert Rubin, Faux Statesman",
+      "summary": "His seemingly high-minded piece in the Times is a reminder of who really governs.\nThe post Robert Rubin, Faux Statesman appeared first on The American Prospect.",
+      "original_title": "Robert Rubin, Faux Statesman",
+      "url": "https://prospect.org/2026/10/23/robert-rubin-faux-statesman/",
+      "source": "The American Prospect",
+      "domain": "prospect.org",
+      "published_at": "2026-10-23T19:00:00Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "e23e4b311d5e6d30",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2505,158 +2695,6 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "a95232bca6937860",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Meta's massive deal for Zuckerberg proves execs aren't exempt from IRL work",
-      "summary": "The tech giant's effort to dissuade its CEO from relocating reflects a common belief that the best work happens when everyone is together in person.",
-      "original_title": "Meta's massive deal for Zuckerberg proves execs aren't exempt from IRL work",
-      "url": "https://www.businessinsider.com/meta-board-zuckerberg-california-office-rto-2026-10#article",
-      "source": "Business Insider",
-      "domain": "businessinsider.com",
-      "published_at": "2026-10-22T21:30:32Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "93d5dfc793519099",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "US State Department orders some staff to leave Saudi Arabia as attacks escalate",
-      "summary": "The warning to US officials comes as at least three people die in the latest strikes at an airport and an oil field.",
-      "original_title": "US State Department orders some staff to leave Saudi Arabia as attacks escalate",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2vpk93770o",
-      "source": "BBC News",
-      "domain": "bbc.co.uk",
-      "published_at": "2026-10-22T01:07:34Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "9cf0aba844af446d",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "AI and Data Centers Will Impact Midterm Voting, According to Experts",
-      "summary": "Americans are mostly negative on AI and oppose new data centers near them, another poll shows.",
-      "original_title": "AI and Data Centers Will Impact Midterm Voting, According to Experts",
-      "url": "https://www.cnet.com/news/politics/polls-experts-ai-data-centers-midterm-voting/",
-      "source": "CNET",
-      "domain": "cnet.com",
-      "published_at": "2026-10-22T00:24:08Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "0fa055f346253c5d",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Even the Rubin's Test Camera Produces Stunning Images",
-      "summary": "The Vera Rubin Observatory's Commissioning Camera operated for about 7 weeks in 2024, before the observatory released its well-known first look images. It's an engineering camera, and its job was to test the VRO's equipment and procedures. Now, the VRO has re…",
-      "original_title": "Even the Rubin's Test Camera Produces Stunning Images",
-      "url": "https://www.universetoday.com/articles/even-the-rubins-test-camera-produces-stunning-images",
-      "source": "Universe Today",
-      "domain": "universetoday.com",
-      "published_at": "2026-10-22T21:04:01Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     }
   ]
 }
