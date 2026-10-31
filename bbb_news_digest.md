@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-31T17:24:19.292530+00:00
+> 更新時間：2026-10-31T21:58:41.073748+00:00
 
 ### 🚀 OPTOELEC seeks AI data center orders as Himax advances CPO optics
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -10,12 +10,12 @@
 
 ---
 
-### 🚀 Rivian’s R2 is officially its best-selling vehicle
-- **題材**: `總體風險` | **重要性**: `73`
-- **來源**: The Verge (2026-10-29T19:21:58Z)
-- **AI 判讀**: 屬「總體風險」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Rivian reported its third quarter earnings of 2026, providing us a closer look at the company's financial health as it ramps up production of its all-important R2 electric vehicle - which is now, for the first time, outselling all of Rivian's other EVs. Rivia…
-- [原文連結](https://www.theverge.com/transportation/1022420/rivian-q3-earnings-r2-sales-volkswagen-software)
+### ⚠️ Sam Altman says it’s better for RAM to be in a data center than on your desk
+- **題材**: `HBM記憶體` | **重要性**: `73`
+- **來源**: The Verge (2026-10-30T20:48:43Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's "terrible" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where he also commented o…
+- [原文連結](https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers)
 
 ---
 
@@ -120,21 +120,39 @@ Better still, the company has margins that we can all be envious o…
 
 ---
 
-### ⚖️ SK hynix-owned Solidigm is plotting a new $45 billion flash memory factory for the US, report claims
-- **題材**: `HBM記憶體` | **重要性**: `62`
-- **來源**: Tom's Hardware UK (2026-10-28T13:01:21Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Solidigm, an American subsidiary of SK hynix, is in discussions about potentially investing $45 billion in a new flash chip factory that would be built in the United States.
-- [原文連結](https://www.tomshardware.com/tech-industry/manufacturing/sk-hynix-owned-solidigm-is-plotting-a-new-usd45-billion-flash-memory-factory-for-the-us-report-claims-wants-go-ahead-to-export-equipment-for-china-upgrades-in-return)
-
----
-
 ### ⚖️ IT vendor lists massive $60 million AI supercomputer on eBay with 300 racks of decommissioned GPUs
 - **題材**: `AI伺服器` | **重要性**: `62`
 - **來源**: Tom's Hardware UK (2026-10-28T10:30:00Z)
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Someone listed a massive 300-rack AI supercomputer on eBay for $59.7M. Packed with 9,600 A100 GPUs and 4,200 EPYC CPUs, it even ships for free.
 - [原文連結](https://www.tomshardware.com/desktops/servers/it-vendor-lists-massive-usd60-million-ai-cluster-on-ebay-300x-racks-of-decommissioned-gpus-includes-9-600-nvidia-a100-gpus-and-4-200-amd-epyc-cpus-plus-free-shipping)
+
+---
+
+### ⚖️ The AI Gold Rush Is Turning Into a Wall Street Bloodbath
+- **題材**: `半導體先進製程` | **重要性**: `60`
+- **來源**: Gizmodo.com (2026-10-30T20:30:34Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Alphabet lost roughly $500 billion in market value as investors grow increasingly worried about Silicon Valley's massive AI spending spree.
+- [原文連結](https://gizmodo.com/the-ai-gold-rush-is-turning-into-a-wall-street-bloodbath-2000833300)
+
+---
+
+### ⚖️ Stocks plunge as Amazon, Intel and Alphabet fuel a broad tech sell-off
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-10-30T19:14:29Z)
+- **AI 判讀**: 屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: US stocks plunged in the final trading day of the month as earnings from Amazon (AMZN) and Alphabet (GOOG, GOOGL) this week rekindled concerns about the amount of money Big Tech is spending on its AI ambitions.The Nasdaq Composite (^IXIC) tumbled 3.3% as a te…
+- [原文連結](https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-ai-sell-off-191429143.html)
+
+---
+
+### ⚖️ Stocks plunge as Amazon, Intel and Alphabet fuel a broad tech sell-off
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-10-30T18:01:04Z)
+- **AI 判讀**: 屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: US stocks plunged in the final trading day of the month as earnings from Amazon (AMZN) and Alphabet (GOOG, GOOGL) this week rekindled concerns about the amount of money Big Tech is spending on its AI ambitions.The Nasdaq Composite (^IXIC) tumbled 3.3% as a te…
+- [原文連結](https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-131609630.html)
 
 ---
 
@@ -162,24 +180,6 @@ Better still, the company has margins that we can all be envious o…
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Microsoft and SK Hynix stood out, but Amazon, Alphabet, Meta, Tesla, and Caterpillar raised fresh AI-spending doubts.
 - [原文連結](https://www.businessinsider.com/ai-trade-earnings-winners-losers-amazon-alphabet-microsoft-meta-tesla-2026-10#article)
-
----
-
-### ⚖️ Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: Skypilot.ai (2026-10-29T15:45:05Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: NVL72 puts all 72 GPUs in a rack on one NVLink fabric, but only rack-local jobs get the speedup. How SkyPilot keeps multi-node training and inference on NVLink with topology-aware placement, in-place recovery from GPU failures, and automatic defragmentation.
-- [原文連結](https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler)
-
----
-
-### 🚀 Dissents, rising prices, and a change to the meeting schedule: 3 takeaways from the October Fed meeting
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Business Insider (2026-10-28T20:16:55Z)
-- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: The Fed held interest rates steady in its latest decision, following the September rate hike. The FOMC decision wasn't unanimous this time.
-- [原文連結](https://www.businessinsider.com/takeaways-october-fed-meeting-interest-rates-2026-10#article)
 
 ---
 
