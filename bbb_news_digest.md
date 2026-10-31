@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-31T06:28:27.230377+00:00
+> 更新時間：2026-10-31T15:05:19.173459+00:00
 
 ### 🚀 OPTOELEC seeks AI data center orders as Himax advances CPO optics
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -55,21 +55,12 @@
 
 ---
 
-### 🚀 Kospi surges 7% as SK Hynix earnings fuel AI stock rebound
-- **題材**: `HBM記憶體` | **重要性**: `70`
-- **來源**: CoinDesk (2026-10-28T09:59:25Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: South Korean chipmakers led a broader AI recovery after SK Hynix reported a sevenfold profit surge and announced another $45 billion in shareholder returns.
-- [原文連結](https://www.coindesk.com/markets/2026/10/28/kospi-surges-7-as-sk-hynix-earnings-fuel-ai-stock-rebound)
-
----
-
-### 🚀 S&P 500: Two AI Chipmakers Make Up 34% of America’s Earnings Boom
-- **題材**: `HBM記憶體` | **重要性**: `70`
-- **來源**: Faz.net (2026-10-26T10:49:19Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Ten companies—including Nvidia, Micron and other AI giants—account for roughly two-thirds of corporate profit growth.
-- [原文連結](https://www.faz.net/aktuell/wall-street-journal/nvidia-micron-and-other-ai-giants-account-for-two-thirds-of-corporate-profit-growth-201621423.html)
+### ⚖️ SK Hynix taps HBM veteran to lead new American unit
+- **題材**: `HBM記憶體` | **重要性**: `68`
+- **來源**: Digitimes (2026-10-30T08:48:07Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: SK Hynix has appointed its AI memory development chief to lead a newly established Americas unit based in the US, putting a technology veteran closer to major US customers as the industry shifts toward customized high-bandwidth memory (HBM) and deeper collabo…
+- [原文連結](https://www.digitimes.com/news/a20261030VL227/sk-hynix-hbm-development-americas-technology.html)
 
 ---
 
@@ -88,24 +79,6 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: SK Hynix is turning to high-bandwidth flash (HBF) to address growing memory bottlenecks in AI inference, as increasingly complex AI agents generate more data than can be economically stored in high-bandwidth memory (HBM) and DRAM alone.
 - [原文連結](https://www.digitimes.com/news/a20261028VL212/sk-hynix-flash-data-hbm-nand.html)
-
----
-
-### ⚖️ SK hynix-owned Solidigm is plotting a new $45 billion flash memory factory for the US, report claims
-- **題材**: `HBM記憶體` | **重要性**: `67`
-- **來源**: Tom's Hardware UK (2026-10-28T13:01:21Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Solidigm, an American subsidiary of SK hynix, is in discussions about potentially investing $45 billion in a new flash chip factory that would be built in the United States.
-- [原文連結](https://www.tomshardware.com/tech-industry/manufacturing/sk-hynix-owned-solidigm-is-plotting-a-new-usd45-billion-flash-memory-factory-for-the-us-report-claims-wants-go-ahead-to-export-equipment-for-china-upgrades-in-return)
-
----
-
-### ⚖️ IT vendor lists massive $60 million AI supercomputer on eBay with 300 racks of decommissioned GPUs
-- **題材**: `AI伺服器` | **重要性**: `67`
-- **來源**: Tom's Hardware UK (2026-10-28T10:30:00Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Someone listed a massive 300-rack AI supercomputer on eBay for $59.7M. Packed with 9,600 A100 GPUs and 4,200 EPYC CPUs, it even ships for free.
-- [原文連結](https://www.tomshardware.com/desktops/servers/it-vendor-lists-massive-usd60-million-ai-cluster-on-ebay-300x-racks-of-decommissioned-gpus-includes-9-600-nvidia-a100-gpus-and-4-200-amd-epyc-cpus-plus-free-shipping)
 
 ---
 
@@ -129,12 +102,12 @@ Better still, the company has margins that we can all be envious o…
 
 ---
 
-### ⚖️ TSMC Could Charge Up to 20% More for CoWoS Packaging Amid AI Crunch
-- **題材**: `半導體先進製程` | **重要性**: `65`
-- **來源**: Techpowerup.com (2026-10-28T12:06:41Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: TSMC is reportedly considering raising prices for its CoWoS (Chip on Wafer on Substrate) advanced packaging by as much as 20%, according to supply chain sources cited by Taiwan's Commercial Times. Foundries and outsourced packaging firms are apparently weighi…
-- [原文連結](https://www.techpowerup.com/354217/tsmc-could-charge-up-to-20-more-for-cowos-packaging-amid-ai-crunch)
+### 🚀 Kospi surges 7% as SK Hynix earnings fuel AI stock rebound
+- **題材**: `HBM記憶體` | **重要性**: `65`
+- **來源**: CoinDesk (2026-10-28T09:59:25Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: South Korean chipmakers led a broader AI recovery after SK Hynix reported a sevenfold profit surge and announced another $45 billion in shareholder returns.
+- [原文連結](https://www.coindesk.com/markets/2026/10/28/kospi-surges-7-as-sk-hynix-earnings-fuel-ai-stock-rebound)
 
 ---
 
@@ -156,6 +129,42 @@ Better still, the company has margins that we can all be envious o…
 
 ---
 
+### ⚖️ SK hynix-owned Solidigm is plotting a new $45 billion flash memory factory for the US, report claims
+- **題材**: `HBM記憶體` | **重要性**: `62`
+- **來源**: Tom's Hardware UK (2026-10-28T13:01:21Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Solidigm, an American subsidiary of SK hynix, is in discussions about potentially investing $45 billion in a new flash chip factory that would be built in the United States.
+- [原文連結](https://www.tomshardware.com/tech-industry/manufacturing/sk-hynix-owned-solidigm-is-plotting-a-new-usd45-billion-flash-memory-factory-for-the-us-report-claims-wants-go-ahead-to-export-equipment-for-china-upgrades-in-return)
+
+---
+
+### ⚖️ IT vendor lists massive $60 million AI supercomputer on eBay with 300 racks of decommissioned GPUs
+- **題材**: `AI伺服器` | **重要性**: `62`
+- **來源**: Tom's Hardware UK (2026-10-28T10:30:00Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Someone listed a massive 300-rack AI supercomputer on eBay for $59.7M. Packed with 9,600 A100 GPUs and 4,200 EPYC CPUs, it even ships for free.
+- [原文連結](https://www.tomshardware.com/desktops/servers/it-vendor-lists-massive-usd60-million-ai-cluster-on-ebay-300x-racks-of-decommissioned-gpus-includes-9-600-nvidia-a100-gpus-and-4-200-amd-epyc-cpus-plus-free-shipping)
+
+---
+
+### 🚀 Here’s Why Independent Watch Dealers Aren’t Worried About More Certified Pre-Owned Programs
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: Robb Report (2026-10-30T14:00:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Eric Wind and Robertino Altieri are not worried about Rolex and Audemars Piguet joining the secondary market, as they have different customer bases.
+- [原文連結](http://robbreport.com/style/watch-collector/independent-watch-dealers-certified-pre-owned-programs-1238798604/)
+
+---
+
+### ⚖️ The AI trade’s earnings scoreboard is getting ugly
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: Business Insider (2026-10-30T09:50:01Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Microsoft and SK Hynix stood out, but Amazon, Alphabet, Meta, Tesla, and Caterpillar raised fresh AI-spending doubts.
+- [原文連結](https://www.businessinsider.com/ai-trade-earnings-winners-losers-amazon-alphabet-microsoft-meta-tesla-2026-10#article)
+
+---
+
 ### ⚖️ Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks
 - **題材**: `AI伺服器` | **重要性**: `60`
 - **來源**: Skypilot.ai (2026-10-29T15:45:05Z)
@@ -171,15 +180,6 @@ Better still, the company has margins that we can all be envious o…
 - **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: The Fed held interest rates steady in its latest decision, following the September rate hike. The FOMC decision wasn't unanimous this time.
 - [原文連結](https://www.businessinsider.com/takeaways-october-fed-meeting-interest-rates-2026-10#article)
-
----
-
-### 🚀 What smart people are saying after the Fed held rates steady
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Business Insider (2026-10-28T19:50:38Z)
-- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: The Fed held rates steady as expected, buying time for more data. Yet, many still expect a rate hike in December.
-- [原文連結](https://www.businessinsider.com/october-fed-meeting-fomc-what-smart-people-are-saying-2026-10#article)
 
 ---
 
