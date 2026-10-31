@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-31T02:02:03.107565+00:00
+> 更新時間：2026-10-31T06:28:27.230377+00:00
 
 ### 🚀 OPTOELEC seeks AI data center orders as Himax advances CPO optics
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -37,24 +37,6 @@
 
 ---
 
-### ⚖️ SK Hynix's next bet goes beyond memory chips
-- **題材**: `HBM記憶體` | **重要性**: `73`
-- **來源**: Digitimes (2026-10-28T02:57:37Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: SK Hynix is looking beyond its position as a leading supplier of high-bandwidth memory (HBM), using venture investments to gain a greater say in how next-generation AI infrastructure is designed.
-- [原文連結](https://www.digitimes.com/news/a20261027PD248/sk-hynix-chips-hbm-supplier-investment.html)
-
----
-
-### 🚀 SK Hynix bets on high-bandwidth flash to tackle AI memory bottlenecks
-- **題材**: `HBM記憶體` | **重要性**: `73`
-- **來源**: Digitimes (2026-10-28T02:38:42Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: SK Hynix is turning to high-bandwidth flash (HBF) to address growing memory bottlenecks in AI inference, as increasingly complex AI agents generate more data than can be economically stored in high-bandwidth memory (HBM) and DRAM alone.
-- [原文連結](https://www.digitimes.com/news/a20261028VL212/sk-hynix-flash-data-hbm-nand.html)
-
----
-
 ### ⚖️ Nvidia is bankrolling AI accelerator supply chain buildout to reserve production capacity
 - **題材**: `半導體先進製程` | **重要性**: `72`
 - **來源**: Tom's Hardware UK (2026-10-27T11:00:00Z)
@@ -88,6 +70,24 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Ten companies—including Nvidia, Micron and other AI giants—account for roughly two-thirds of corporate profit growth.
 - [原文連結](https://www.faz.net/aktuell/wall-street-journal/nvidia-micron-and-other-ai-giants-account-for-two-thirds-of-corporate-profit-growth-201621423.html)
+
+---
+
+### ⚖️ SK Hynix's next bet goes beyond memory chips
+- **題材**: `HBM記憶體` | **重要性**: `68`
+- **來源**: Digitimes (2026-10-28T02:57:37Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: SK Hynix is looking beyond its position as a leading supplier of high-bandwidth memory (HBM), using venture investments to gain a greater say in how next-generation AI infrastructure is designed.
+- [原文連結](https://www.digitimes.com/news/a20261027PD248/sk-hynix-chips-hbm-supplier-investment.html)
+
+---
+
+### 🚀 SK Hynix bets on high-bandwidth flash to tackle AI memory bottlenecks
+- **題材**: `HBM記憶體` | **重要性**: `68`
+- **來源**: Digitimes (2026-10-28T02:38:42Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: SK Hynix is turning to high-bandwidth flash (HBF) to address growing memory bottlenecks in AI inference, as increasingly complex AI agents generate more data than can be economically stored in high-bandwidth memory (HBM) and DRAM alone.
+- [原文連結](https://www.digitimes.com/news/a20261028VL212/sk-hynix-flash-data-hbm-nand.html)
 
 ---
 
