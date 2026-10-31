@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-30T22:41:41.767505+00:00
+> 更新時間：2026-10-31T02:02:03.107565+00:00
 
 ### 🚀 OPTOELEC seeks AI data center orders as Himax advances CPO optics
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -7,6 +7,24 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: South Korean optics maker Optoelec is seeing growing interest from AI data center customers as it seeks to expand its wafer-level optics (WLO) business into high-speed optical communications, a market where Taiwanese suppliers are already moving toward commer…
 - [原文連結](https://www.digitimes.com/news/a20261024VL202/optics-cpo-data-center-himax-production.html)
+
+---
+
+### 🚀 Rivian’s R2 is officially its best-selling vehicle
+- **題材**: `總體風險` | **重要性**: `73`
+- **來源**: The Verge (2026-10-29T19:21:58Z)
+- **AI 判讀**: 屬「總體風險」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Rivian reported its third quarter earnings of 2026, providing us a closer look at the company's financial health as it ramps up production of its all-important R2 electric vehicle - which is now, for the first time, outselling all of Rivian's other EVs. Rivia…
+- [原文連結](https://www.theverge.com/transportation/1022420/rivian-q3-earnings-r2-sales-volkswagen-software)
+
+---
+
+### ⚖️ Kinsus explores AlN ceramics beyond glass for AI advanced packaging
+- **題材**: `半導體先進製程` | **重要性**: `73`
+- **來源**: Digitimes (2026-10-28T23:50:04Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Kinsus Interconnect Technology is exploring aluminum nitride (AlN) ceramics as a core material for substrates used in large-scale advanced packaging, seeking an alternative to glass amid ongoing brittleness and reliability challenges, according to R&D vice pr…
+- [原文連結](https://www.digitimes.com/news/a20261028PD217/packaging-kinsus-substrate-aluminum-materials.html)
 
 ---
 
@@ -70,16 +88,6 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Ten companies—including Nvidia, Micron and other AI giants—account for roughly two-thirds of corporate profit growth.
 - [原文連結](https://www.faz.net/aktuell/wall-street-journal/nvidia-micron-and-other-ai-giants-account-for-two-thirds-of-corporate-profit-growth-201621423.html)
-
----
-
-### 🚀 MaxLinear raises 2026 optical data center revenue forecast to $250M-$270M
-- **題材**: `光通訊與矽光子` | **重要性**: `70`
-- **來源**: Crypto Briefing (2026-10-23T15:04:43Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: MaxLinear's revised forecast highlights robust growth in optical data centers, underscoring the sector's pivotal role in future tech infrastructure.
-The post MaxLinear raises 2026 optical data center revenue forecast to $250M-$270M appeared first on Crypto Br…
-- [原文連結](https://cryptobriefing.com/maxlinear-raises-optical-data-center-forecast/)
 
 ---
 
@@ -172,15 +180,6 @@ Better still, the company has margins that we can all be envious o…
 - **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: The Fed held rates steady as expected, buying time for more data. Yet, many still expect a rate hike in December.
 - [原文連結](https://www.businessinsider.com/october-fed-meeting-fomc-what-smart-people-are-saying-2026-10#article)
-
----
-
-### ⚠️ China Is So Desperate for AI Memory That It’s Producing Chips With a 70% Failure Rate
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: Gizmodo.com (2026-10-28T16:10:31Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: The country’s largest DRAM maker is expected to push ahead with limited production of advanced memory chips in the next two months.
-- [原文連結](https://gizmodo.com/china-is-so-desperate-for-ai-memory-that-its-producing-chips-with-a-70-failure-rate-2000831791)
 
 ---
 

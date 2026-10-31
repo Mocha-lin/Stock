@@ -1,9 +1,9 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-10-30T22:41:41.767505+00:00",
+  "generated_at": "2026-10-31T02:02:03.107565+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
-  "total_count": 72,
+  "total_count": 73,
   "items": [
     {
       "id": "4bde6c0ee8ecc6e3",
@@ -42,6 +42,82 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
+      "id": "ae972d5710c5efed",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "Rivian’s R2 is officially its best-selling vehicle",
+      "summary": "Rivian reported its third quarter earnings of 2026, providing us a closer look at the company's financial health as it ramps up production of its all-important R2 electric vehicle - which is now, for the first time, outselling all of Rivian's other EVs. Rivia…",
+      "original_title": "Rivian’s R2 is officially its best-selling vehicle",
+      "url": "https://www.theverge.com/transportation/1022420/rivian-q3-earnings-r2-sales-volkswagen-software",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "published_at": "2026-10-29T19:21:58Z",
+      "importance": 73,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
+      "id": "cdc08bdfda1bc46b",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "Kinsus explores AlN ceramics beyond glass for AI advanced packaging",
+      "summary": "Kinsus Interconnect Technology is exploring aluminum nitride (AlN) ceramics as a core material for substrates used in large-scale advanced packaging, seeking an alternative to glass amid ongoing brittleness and reliability challenges, according to R&D vice pr…",
+      "original_title": "Kinsus explores AlN ceramics beyond glass for AI advanced packaging",
+      "url": "https://www.digitimes.com/news/a20261028PD217/packaging-kinsus-substrate-aluminum-materials.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-10-28T23:50:04Z",
+      "importance": 73,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "5ab46cb439216cbe",
@@ -293,44 +369,6 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
-      "id": "64de5ab4a4c27c62",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "MaxLinear raises 2026 optical data center revenue forecast to $250M-$270M",
-      "summary": "MaxLinear's revised forecast highlights robust growth in optical data centers, underscoring the sector's pivotal role in future tech infrastructure.\nThe post MaxLinear raises 2026 optical data center revenue forecast to $250M-$270M appeared first on Crypto Br…",
-      "original_title": "MaxLinear raises 2026 optical data center revenue forecast to $250M-$270M",
-      "url": "https://cryptobriefing.com/maxlinear-raises-optical-data-center-forecast/",
-      "source": "Crypto Briefing",
-      "domain": "cryptobriefing.com",
-      "published_at": "2026-10-23T15:04:43Z",
-      "importance": 70,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "ba20d3d058e0e08b",
@@ -1078,6 +1116,82 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "dfb9f6c6a8ef1528",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "FADU wants to take the CPU out of AI storage by putting the file system inside the SSD, but the proof won't arrive until 2027",
+      "summary": "FADU's new SSD runs its own file system, so GPUs and DPUs can read files without CPU intervention, but samples won't land until Q3 2027.",
+      "original_title": "FADU wants to take the CPU out of AI storage by putting the file system inside the SSD, but the proof won't arrive until 2027",
+      "url": "https://www.techradar.com/pro/fadu-wants-to-take-the-cpu-out-of-ai-storage-by-putting-the-file-system-inside-the-ssd-but-the-proof-wont-arrive-until-2027",
+      "source": "TechRadar",
+      "domain": "techradar.com",
+      "published_at": "2026-10-29T04:00:00Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "e4c0a7d19a23f122",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "World's largest digital camera snaps new world beyond Pluto",
+      "summary": "Space was so much simpler when I was a kid. Back in the 1980s, we still hoped to find habitable planets around every star. Nine planets orbited our own Sun. And “dwarf planet” sounded like a Saturday morning cartoon begging for its own toy line.Continue Readi…",
+      "original_title": "World's largest digital camera snaps new world beyond Pluto",
+      "url": "https://newatlas.com/space/largest-camera-new-world-beyond-pluto/",
+      "source": "New Atlas",
+      "domain": "newatlas.com",
+      "published_at": "2026-10-29T03:47:00Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "02a24f22c784f4d0",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1089,6 +1203,44 @@
       "source": "Prtimes.jp",
       "domain": "prtimes.jp",
       "published_at": "2026-10-29T01:40:51Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "87bcbb99faa504e6",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "HRTechカンファレンス 2026（ラスベガス）出展レポートを速報公開。出展企業解析と、日本企業にとって「本当に価値のあるHRテクノロジー」と「気をつけるべきポイント」を詳細解説",
+      "summary": "[freecracy]\n[画像1: https://prcdn.freetls.fastly.net/release_image/37201/29/37201-29-c4ccdc7a5fd31bce2f9fe511f217af0c-2206x1654.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...",
+      "original_title": "HRTechカンファレンス 2026（ラスベガス）出展レポートを速報公開。出展企業解析と、日本企業にとって「本当に価値のあるHRテクノロジー」と「気をつけるべきポイント」を詳細解説",
+      "url": "https://prtimes.jp/main/html/rd/p/000000029.000037201.html",
+      "source": "Prtimes.jp",
+      "domain": "prtimes.jp",
+      "published_at": "2026-10-29T00:40:45Z",
       "importance": 55,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -1230,6 +1382,44 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "9a3924b51e1dcd5b",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "Federal Reserve holds interest rates steady in split vote ahead of midterm elections",
+      "summary": "With the midterm elections less than a week away, the Federal Reserve held interest rates steady on Wednesday, even as the latest inflation reports show prices rising again. The central bank voted in a split decision to hold its benchmark interest rate steady…",
+      "original_title": "Federal Reserve holds interest rates steady in split vote ahead of midterm elections",
+      "url": "https://finance.yahoo.com/economy/policy/article/fed-votes-in-split-decision-to-hold-interest-rates-steady-despite-sticky-inflation-180108960.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-10-28T19:39:27Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "8f757ae9051ca7ae",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1279,6 +1469,44 @@
       "source": "NPR",
       "domain": "npr.org",
       "published_at": "2026-10-28T18:04:42Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "83078961a467f286",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "Chris Mason: Budget felt cautious despite its range of small measures",
+      "summary": "The chancellor has had to grapple with a mix of public finances and household finances being a mess.",
+      "original_title": "Chris Mason: Budget felt cautious despite its range of small measures",
+      "url": "https://www.bbc.co.uk/news/articles/cm78pljvqvxeo",
+      "source": "BBC News",
+      "domain": "bbc.co.uk",
+      "published_at": "2026-10-28T16:52:16Z",
       "importance": 55,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -1379,32 +1607,32 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "08a02baaf406081f",
+      "id": "ab96debf62ebdc9b",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "Touchscreen MacBook Pro to Reportedly Start at $2,899 for 14-Inch, $3,399 for 16-Inch",
-      "summary": "Anonymous sources tell Bloomberg Apple has “discussed” some wild prices.",
-      "original_title": "Touchscreen MacBook Pro to Reportedly Start at $2,899 for 14-Inch, $3,399 for 16-Inch",
-      "url": "https://gizmodo.com/touchscreen-macbook-pro-to-reportedly-start-at-2899-for-14-inch-3399-for-16-inch-2000831512",
-      "source": "Gizmodo.com",
-      "domain": "gizmodo.com",
-      "published_at": "2026-10-28T00:47:33Z",
+      "theme": "AI伺服器",
+      "title": "Nvidia Nemotron 3.5 Transcribe: open ASR for 40 languages",
+      "summary": "A Blog post by NVIDIA on Hugging Face",
+      "original_title": "Nvidia Nemotron 3.5 Transcribe: open ASR for 40 languages",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+      "source": "Huggingface.co",
+      "domain": "huggingface.co",
+      "published_at": "2026-10-28T15:17:53Z",
       "importance": 55,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
+        "AI",
+        "伺服器",
+        "資料中心"
       ],
       "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
       ],
       "related_models": [
         "003",
@@ -1414,7 +1642,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "c88ebc30d9cf39b4",
@@ -1715,70 +1943,32 @@
       "reason": "屬「光通訊與矽光子」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "9e6488f632d4d38e",
+      "id": "08a02baaf406081f",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "NVIDIA vs. AMD vs. Apple — Here’s What the Numbers Actually Say About Which AI Machine Is Right For You",
-      "summary": "Before you buy a local AI machine, know what you're actually optimizing for. Here's a breakdown of NVIDIA, AMD and Apple.",
-      "original_title": "NVIDIA vs. AMD vs. Apple — Here’s What the Numbers Actually Say About Which AI Machine Is Right For You",
-      "url": "https://www.entrepreneur.com/business-news/nvidia-vs-amd-vs-apple-heres-what-the-numbers-actually-say-about-which-ai-machine-is-right-for-you",
-      "source": "Entrepreneur",
-      "domain": "entrepreneur.com",
-      "published_at": "2026-10-23T23:30:00Z",
-      "importance": 55,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "968dd4ad21a1be42",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Illegal Nvidia Blackwell Ultra B300 GPUs found inside state-owned China Telecom's network",
-      "summary": "A security firm has been able to identify 32 Nvidia Blackwell Ultra B300 AI chips running inside a China Telecom network, but it's unclear where the export-barred components are physically located.",
-      "original_title": "Illegal Nvidia Blackwell Ultra B300 GPUs found inside state-owned China Telecom's network",
-      "url": "https://www.tomshardware.com/tech-industry/data-centers/illegal-nvidia-blackwell-ultra-b300-gpus-found-inside-state-owned-china-telecoms-network-nvidia-says-chip-smuggling-a-drop-in-the-bucket-insists-smuggling-remains-a-nonfactor",
-      "source": "Tom's Hardware UK",
-      "domain": "tomshardware.com",
-      "published_at": "2026-10-23T12:26:23Z",
-      "importance": 52,
+      "theme": "總體風險",
+      "title": "Touchscreen MacBook Pro to Reportedly Start at $2,899 for 14-Inch, $3,399 for 16-Inch",
+      "summary": "Anonymous sources tell Bloomberg Apple has “discussed” some wild prices.",
+      "original_title": "Touchscreen MacBook Pro to Reportedly Start at $2,899 for 14-Inch, $3,399 for 16-Inch",
+      "url": "https://gizmodo.com/touchscreen-macbook-pro-to-reportedly-start-at-2899-for-14-inch-3399-for-16-inch-2000831512",
+      "source": "Gizmodo.com",
+      "domain": "gizmodo.com",
+      "published_at": "2026-10-28T00:47:33Z",
+      "importance": 50,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
       ],
       "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
       ],
       "related_models": [
         "003",
@@ -1788,7 +1978,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "6e8b0af3c688c2a8",
@@ -2017,6 +2207,41 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "005d57855db9d574",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "Laptop makers finally have an excuse to stop soldering down RAM",
+      "summary": "Soldered RAM has many benefits, but it could be time to switch.",
+      "original_title": "Laptop makers finally have an excuse to stop soldering down RAM",
+      "url": "https://www.makeuseof.com/laptop-makers-finally-have-an-excuse-to-stop-soldering-down-ram/",
+      "source": "MakeUseOf",
+      "domain": "makeuseof.com",
+      "published_at": "2026-10-26T19:31:16Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "61e94b2145e17fe7",
@@ -2323,6 +2548,44 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "426557b1ec0d0ba8",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
+      "summary": "The economic is positive now but come January things could become trickier for the Labour government",
+      "original_title": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
+      "url": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o",
+      "source": "BBC News",
+      "domain": "bbc.co.uk",
+      "published_at": "2026-10-26T00:26:49Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "62049cbada6e5ee8",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2470,231 +2733,6 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "5b2eb87401f4879a",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "32 TB RAM for your GPUs: Marvell shows revolutionary Photonic Fabric Memory Module that uses light to link up to 16 GPUs and slash CAPEX — but Nvidia won't stick around doing nothing",
-      "summary": "Marvell wants to stop GPUs acting as \"the world's most expensive memory controller\" with 32TB of optically pooled memory, but sampling doesn't start until 2027.",
-      "original_title": "32 TB RAM for your GPUs: Marvell shows revolutionary Photonic Fabric Memory Module that uses light to link up to 16 GPUs and slash CAPEX — but Nvidia won't stick around doing nothing",
-      "url": "https://www.techradar.com/pro/32-tb-ram-for-your-gpus-marvell-shows-revolutionary-photonic-fabric-memory-module-that-uses-light-to-link-up-to-16-gpus-and-slash-capex-but-nvidia-wont-stick-around-doing-nothing",
-      "source": "TechRadar",
-      "domain": "techradar.com",
-      "published_at": "2026-10-23T21:35:00Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "c8544466322398e6",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "Oil prices hit 6-month high over fears of escalating fighting in the Middle East",
-      "summary": "Oil prices climbed to a 6-month high on Friday as traders priced the odds of escalating fighting in the Middle East. Attacks near the Red Sea also stoked worries of further constraints on oil supplies from the region. Brent crude (BZ=F) futures for December d…",
-      "original_title": "Oil prices hit 6-month high over fears of escalating fighting in the Middle East",
-      "url": "https://finance.yahoo.com/markets/article/brent-crude-tops-116-as-traders-price-in-middle-east-escalation-192101547.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-10-23T19:28:00Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "d45d447a7cfd04c2",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "The CEO of Europe's most valuable company says he is tying his pay to employee satisfaction",
-      "summary": "In an internal memo, Christophe Fouquet said ASML will incorporate employee satisfaction into its compensation strategy for top executives.",
-      "original_title": "The CEO of Europe's most valuable company says he is tying his pay to employee satisfaction",
-      "url": "https://www.businessinsider.com/asml-ceo-exec-pay-linked-employee-satisfaction-survey-2026-10#article",
-      "source": "Business Insider",
-      "domain": "businessinsider.com",
-      "published_at": "2026-10-23T13:02:27Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "7cecf802ee62d587",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "US stock futures slide after tech sell-off as oil climbs to 5-month highs",
-      "summary": "US stock futures slid Friday after Thursday's tech rout. Brent crude touched 5-month highs as investors worried about AI spending and geopolitics.",
-      "original_title": "US stock futures slide after tech sell-off as oil climbs to 5-month highs",
-      "url": "https://markets.businessinsider.com/news/stocks/stock-market-futures-brent-crude-oil-price-nasdaq-tech-ai-2026-10#article",
-      "source": "Business Insider",
-      "domain": "markets.businessinsider.com",
-      "published_at": "2026-10-23T10:42:29Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "615a38f0e7748b8d",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "Rubio turns to small Indian town as US faces high oil prices",
-      "summary": "US Secretary of State Marco Rubio pushed a business and energy agenda over diplomacy on his second trip to India this year.",
-      "original_title": "Rubio turns to small Indian town as US faces high oil prices",
-      "url": "https://www.bbc.co.uk/news/articles/c3x2wnk8ejq5o",
-      "source": "BBC News",
-      "domain": "bbc.co.uk",
-      "published_at": "2026-10-23T08:39:42Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "5d7bf41d01a2b110",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "Chancellor plans to cut 'pointless paperwork' to save businesses up to £800m",
-      "summary": "Ministers say the changes in regulations will reduce unnecessary bureaucracy.",
-      "original_title": "Chancellor plans to cut 'pointless paperwork' to save businesses up to £800m",
-      "url": "https://www.bbc.co.uk/news/articles/cm5ynpywq1e3o",
-      "source": "BBC News",
-      "domain": "bbc.co.uk",
-      "published_at": "2026-10-23T05:00:32Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     }
   ]
 }
