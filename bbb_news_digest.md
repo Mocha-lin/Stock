@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-01T01:53:34.136889+00:00
+> 更新時間：2026-11-01T07:00:04.208809+00:00
 
 ### 🚀 Marvell-Lumentum talks put optical supply chain in focus
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -109,21 +109,21 @@
 
 ---
 
-### 🚀 Anduril now says its BlueChip laptop will meet Buy American standards at launch
-- **題材**: `半導體先進製程` | **重要性**: `63`
-- **來源**: The Verge (2026-10-29T02:22:46Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: On Tuesday, defense contractor Anduril and chipmaker Qualcomm announced a partnership to build laptops entirely in the United States, starting with a single model in 2027. They also announced a "long-term goal" of pushing the computer industry to create "a fu…
-- [原文連結](https://www.theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-american)
-
----
-
 ### ⚖️ IT vendor lists massive $60 million AI supercomputer on eBay with 300 racks of decommissioned GPUs
 - **題材**: `AI伺服器` | **重要性**: `62`
 - **來源**: Tom's Hardware UK (2026-10-28T10:30:00Z)
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Someone listed a massive 300-rack AI supercomputer on eBay for $59.7M. Packed with 9,600 A100 GPUs and 4,200 EPYC CPUs, it even ships for free.
 - [原文連結](https://www.tomshardware.com/desktops/servers/it-vendor-lists-massive-usd60-million-ai-cluster-on-ebay-300x-racks-of-decommissioned-gpus-includes-9-600-nvidia-a100-gpus-and-4-200-amd-epyc-cpus-plus-free-shipping)
+
+---
+
+### ⚠️ Trump's tariffs could shutter this Canadian town - its residents are fighting to save it
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: BBC News (2026-10-31T02:39:25Z)
+- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: A century-old paper mill in Témiscaming, Quebec is indefinitely closed after the US imposed 50% tariffs on its products, putting hundreds out of work.
+- [原文連結](https://www.bbc.co.uk/news/articles/cmly016ep243o)
 
 ---
 
