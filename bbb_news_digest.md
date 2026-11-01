@@ -1,5 +1,23 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-10-31T21:58:41.073748+00:00
+> 更新時間：2026-11-01T01:53:34.136889+00:00
+
+### 🚀 Marvell-Lumentum talks put optical supply chain in focus
+- **題材**: `光通訊與矽光子` | **重要性**: `78`
+- **來源**: Digitimes (2026-10-30T23:33:24Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Marvell is reportedly in talks to acquire Lumentum, drawing attention across the optical communications supply chain. The deal would offer strong strategic synergies, particularly through Lumentum's expertise in critical optical transceiver components, but Lu…
+- [原文連結](https://www.digitimes.com/news/a20261030PD240/marvell-acquisition-communications-supply-chain-apple.html)
+
+---
+
+### ⚖️ Radiant targets next-gen CPO above 6.4T, eyes 2028 mass production
+- **題材**: `光通訊與矽光子` | **重要性**: `78`
+- **來源**: Digitimes (2026-10-30T23:32:58Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Radiant Opto-Electronics, a major backlight module maker, is expanding into new businesses and targeting next-generation optical communications architecture, particularly co-packaged optics (CPO) applications above 6.4T. Chairman and General Manager Yu-Chao W…
+- [原文連結](https://www.digitimes.com/news/a20261030PD236/radiant-cpo-production-2028-backlight.html)
+
+---
 
 ### 🚀 OPTOELEC seeks AI data center orders as Himax advances CPO optics
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -82,17 +100,6 @@
 
 ---
 
-### ⚖️ SK hynix reports record Q3 numbers, warns that the memory shortage will last through 2030
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: GSMArena.com (2026-10-29T01:02:02Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: SK hynix had a stellar quarter – the financial report for Q3 reports revenues of KRW 104.6 trillion. This is the first time that the quarterly sales have gone above the KRW 100 trillion mark.
-
-Better still, the company has margins that we can all be envious o…
-- [原文連結](https://www.gsmarena.com/sk_hynix_reports_record_q3_numbers_warns_that_the_memory_shortage_will_last_through_2030-news-75249.php)
-
----
-
 ### 🚀 Kospi surges 7% as SK Hynix earnings fuel AI stock rebound
 - **題材**: `HBM記憶體` | **重要性**: `65`
 - **來源**: CoinDesk (2026-10-28T09:59:25Z)
@@ -108,15 +115,6 @@ Better still, the company has margins that we can all be envious o…
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: On Tuesday, defense contractor Anduril and chipmaker Qualcomm announced a partnership to build laptops entirely in the United States, starting with a single model in 2027. They also announced a "long-term goal" of pushing the computer industry to create "a fu…
 - [原文連結](https://www.theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-american)
-
----
-
-### ⚖️ Nvidia unveils OOI CPO prototype for post-2028 AI needs
-- **題材**: `光通訊與矽光子` | **重要性**: `63`
-- **來源**: Digitimes (2026-10-25T00:45:44Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Nvidia has unveiled a prototype of its next-generation co-packaged optics (CPO) technology, Optics-on-Interposer (OOI), at SEMICON West 2026. The design moves the optical engine from a conventional organic package substrate to the silicon interposer carrying …
-- [原文連結](https://www.digitimes.com/news/a20261023PD240/nvidia-cpo-interposer-technology-2026.html)
 
 ---
 
