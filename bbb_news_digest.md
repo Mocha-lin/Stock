@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-01T18:09:38.145902+00:00
+> 更新時間：2026-11-01T22:29:35.800351+00:00
 
 ### 🚀 Marvell-Lumentum talks put optical supply chain in focus
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -163,21 +163,21 @@
 
 ---
 
-### 🚀 Halloween’s Lost Heroes: Michael Pollan on Radical Gardening and the Insurgent Botanical Origin of the Broomstick in Flying-Witch Legends
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: Themarginalian.org (2026-10-30T16:41:25Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: "For most of their history... gardens have been more concerned with the power of plants than with their beauty — with the power, that is, to change us in various ways, for good and for ill."
-- [原文連結](https://www.themarginalian.org/2026/10/30/michael-pollan-witch-broomstick/)
-
----
-
 ### 🚀 Here’s Why Independent Watch Dealers Aren’t Worried About More Certified Pre-Owned Programs
 - **題材**: `光通訊與矽光子` | **重要性**: `60`
 - **來源**: Robb Report (2026-10-30T14:00:00Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Eric Wind and Robertino Altieri are not worried about Rolex and Audemars Piguet joining the secondary market, as they have different customer bases.
 - [原文連結](http://robbreport.com/style/watch-collector/independent-watch-dealers-certified-pre-owned-programs-1238798604/)
+
+---
+
+### ⚖️ The AI trade’s earnings scoreboard is getting ugly
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: Business Insider (2026-10-30T09:50:01Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Microsoft and SK Hynix stood out, but Amazon, Alphabet, Meta, Tesla, and Caterpillar raised fresh AI-spending doubts.
+- [原文連結](https://www.businessinsider.com/ai-trade-earnings-winners-losers-amazon-alphabet-microsoft-meta-tesla-2026-10#article)
 
 ---
 
