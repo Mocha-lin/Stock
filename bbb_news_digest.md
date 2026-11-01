@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-01T07:00:04.208809+00:00
+> 更新時間：2026-11-01T15:48:17.626927+00:00
 
 ### 🚀 Marvell-Lumentum talks put optical supply chain in focus
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -28,6 +28,15 @@
 
 ---
 
+### ⚠️ Intel shifts production capacity from consumer to server CPUs in face of 'unprecedented' AI demand — company navigating 'one of the most significant supply shortages in history'
+- **題材**: `半導體先進製程` | **重要性**: `77`
+- **來源**: Tom's Hardware UK (2026-10-31T13:00:00Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Intel is expanding chipmaking and advanced packaging capacity across the U.S., Ireland, and Malaysia to meet surging AI-driven demand for data center CPUs amid shrinking PC market and persistent supply constraints.
+- [原文連結](https://www.tomshardware.com/pc-components/cpus/intel-shifts-production-capacity-from-consumer-to-server-cpus-in-face-of-unprecedented-ai-demand-company-navigating-one-of-the-most-significant-supply-shortages-in-history)
+
+---
+
 ### ⚠️ Sam Altman says it’s better for RAM to be in a data center than on your desk
 - **題材**: `HBM記憶體` | **重要性**: `73`
 - **來源**: The Verge (2026-10-30T20:48:43Z)
@@ -43,15 +52,6 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Nvidia is committing billions to expand substrate, co-packaged optics, advanced packaging, and chip-testing capacity through 2028, reserving capacity at nearly every stage of its AI accelerator supply chain.
 - [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/nvidia-is-bankrolling-ai-accelerator-supply-chain-buildout-to-reserve-production-capacity-announces-billion-dollar-deals-with-six-major-suppliers-across-substrates-advanced-packaging-semiconductor-testing-and-optical-engines)
-
----
-
-### ⚠️ Tariffs, diesel and computer chips are driving up costs for automakers
-- **題材**: `總體風險` | **重要性**: `70`
-- **來源**: NPR (2026-10-29T09:00:00Z)
-- **AI 判讀**: 屬「總體風險」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: American auto companies say they are paying more for key components like computer chips, steel and copper — plus the fuel needed to transport their products.
-- [原文連結](https://www.npr.org/2026/10/29/nx-s1-6008066/automakers-inflation-tariffs-chips-diesel-earnings)
 
 ---
 
@@ -97,6 +97,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Intel CEO Lip-Bu Tan has reportedly discussed potential areas of cooperation with AMD chief Lisa Su as Intel works to rebuild its CPU business and expand its foundry operations. The companies have already collaborated on x86 standards and CPU software, includ…
 - [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/intel-explores-potential-collaboration-with-amd-as-lip-bu-tan-pushes-customer-focused-turnaround-ceo-targets-custom-chips-advanced-packaging-and-stronger-foundry-business)
+
+---
+
+### ⚠️ Tariffs, diesel and computer chips are driving up costs for automakers
+- **題材**: `總體風險` | **重要性**: `65`
+- **來源**: NPR (2026-10-29T09:00:00Z)
+- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: American auto companies say they are paying more for key components like computer chips, steel and copper — plus the fuel needed to transport their products.
+- [原文連結](https://www.npr.org/2026/10/29/nx-s1-6008066/automakers-inflation-tariffs-chips-diesel-earnings)
 
 ---
 
@@ -169,15 +178,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Eric Wind and Robertino Altieri are not worried about Rolex and Audemars Piguet joining the secondary market, as they have different customer bases.
 - [原文連結](http://robbreport.com/style/watch-collector/independent-watch-dealers-certified-pre-owned-programs-1238798604/)
-
----
-
-### ⚖️ The AI trade’s earnings scoreboard is getting ugly
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: Business Insider (2026-10-30T09:50:01Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Microsoft and SK Hynix stood out, but Amazon, Alphabet, Meta, Tesla, and Caterpillar raised fresh AI-spending doubts.
-- [原文連結](https://www.businessinsider.com/ai-trade-earnings-winners-losers-amazon-alphabet-microsoft-meta-tesla-2026-10#article)
 
 ---
 

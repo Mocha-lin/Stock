@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-11-01T07:00:04.208809+00:00",
+  "generated_at": "2026-11-01T15:48:17.626927+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 73,
@@ -120,6 +120,44 @@
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
+      "id": "d0a98f05434b23e6",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "Intel shifts production capacity from consumer to server CPUs in face of 'unprecedented' AI demand — company navigating 'one of the most significant supply shortages in history'",
+      "summary": "Intel is expanding chipmaking and advanced packaging capacity across the U.S., Ireland, and Malaysia to meet surging AI-driven demand for data center CPUs amid shrinking PC market and persistent supply constraints.",
+      "original_title": "Intel shifts production capacity from consumer to server CPUs in face of 'unprecedented' AI demand — company navigating 'one of the most significant supply shortages in history'",
+      "url": "https://www.tomshardware.com/pc-components/cpus/intel-shifts-production-capacity-from-consumer-to-server-cpus-in-face-of-unprecedented-ai-demand-company-navigating-one-of-the-most-significant-supply-shortages-in-history",
+      "source": "Tom's Hardware UK",
+      "domain": "tomshardware.com",
+      "published_at": "2026-10-31T13:00:00Z",
+      "importance": 77,
+      "impact": "negative",
+      "timeframe": "short_to_mid_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
       "id": "8bf2ab2e21a380d5",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -191,44 +229,6 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
-      "id": "2af07b8ada62485f",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "Tariffs, diesel and computer chips are driving up costs for automakers",
-      "summary": "American auto companies say they are paying more for key components like computer chips, steel and copper — plus the fuel needed to transport their products.",
-      "original_title": "Tariffs, diesel and computer chips are driving up costs for automakers",
-      "url": "https://www.npr.org/2026/10/29/nx-s1-6008066/automakers-inflation-tariffs-chips-diesel-earnings",
-      "source": "NPR",
-      "domain": "npr.org",
-      "published_at": "2026-10-29T09:00:00Z",
-      "importance": 70,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "36694be4e5bb1233",
@@ -407,6 +407,44 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "2af07b8ada62485f",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "Tariffs, diesel and computer chips are driving up costs for automakers",
+      "summary": "American auto companies say they are paying more for key components like computer chips, steel and copper — plus the fuel needed to transport their products.",
+      "original_title": "Tariffs, diesel and computer chips are driving up costs for automakers",
+      "url": "https://www.npr.org/2026/10/29/nx-s1-6008066/automakers-inflation-tariffs-chips-diesel-earnings",
+      "source": "NPR",
+      "domain": "npr.org",
+      "published_at": "2026-10-29T09:00:00Z",
+      "importance": 65,
+      "impact": "negative",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "0a3ea34a077a87d3",
@@ -745,44 +783,6 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "e18357f5423f039a",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks",
-      "summary": "NVL72 puts all 72 GPUs in a rack on one NVLink fabric, but only rack-local jobs get the speedup. How SkyPilot keeps multi-node training and inference on NVLink with topology-aware placement, in-place recovery from GPU failures, and automatic defragmentation.",
-      "original_title": "Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks",
-      "url": "https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler",
-      "source": "Skypilot.ai",
-      "domain": "skypilot.ai",
-      "published_at": "2026-10-29T15:45:05Z",
-      "importance": 60,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "5f8ffc9b9ff3c8bd",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1008,6 +1008,44 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "68ed68dcfb216e89",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "Boo: Inflation means an hour of work buys fewer candy bars in 2026",
+      "summary": "People celebrating Halloween are likely facing higher prices, and their paychecks won't go as far as they used to for candy.",
+      "original_title": "Boo: Inflation means an hour of work buys fewer candy bars in 2026",
+      "url": "https://www.businessinsider.com/inflation-halloween-candy-rising-prices-2026-10#article",
+      "source": "Business Insider",
+      "domain": "businessinsider.com",
+      "published_at": "2026-10-31T09:00:01Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "3d442500d24cd5fb",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1195,44 +1233,6 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "77b9664b9f3f1da4",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "What to know about the US economy as midterm elections near",
-      "summary": "The economy ranks as a top concern among voters as campaigns race toward the midterm elections early next month.",
-      "original_title": "What to know about the US economy as midterm elections near",
-      "url": "https://abcnews.com/Business/us-economy-midterm-elections/story?id=137478975",
-      "source": "Abcnews.com",
-      "domain": "abcnews.com",
-      "published_at": "2026-10-30T09:33:47Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "8ccc3d276dad6996",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1347,93 +1347,17 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "c1a126aff1eedaa9",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "With days to go before the midterms, data shows the U.S. economy is doing well",
-      "summary": "GDP grew at an annual rate of 3.4% in the third quarter in the last major read on the economy ahead of the midterm elections — but many Americans continue to struggle with affordability.",
-      "original_title": "With days to go before the midterms, data shows the U.S. economy is doing well",
-      "url": "https://www.npr.org/2026/10/29/nx-s1-6021008/economy-gdp-inflation-midterms-voters-affordability",
-      "source": "NPR",
-      "domain": "npr.org",
-      "published_at": "2026-10-29T13:05:03Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "fe2ee4c8fc939b4a",
+      "id": "e18357f5423f039a",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "AI伺服器",
-      "title": "Scientists may have found a new dwarf planet in a distant world beyond Pluto",
-      "summary": "Scientists from the NSF–DOE Vera C. Rubin Observatory have announced that they have spotted a possible new dwarf planet known (for now) as 2026 ED138 orbiting the sun, located just beyond Pluto.Meet our Solar System's newest dwarf planet candidate: 2026 ED138…",
-      "original_title": "Scientists may have found a new dwarf planet in a distant world beyond Pluto",
-      "url": "https://www.newsweek.com/scientists-may-have-found-new-dwarf-planet-12634224",
-      "source": "Newsweek",
-      "domain": "newsweek.com",
-      "published_at": "2026-10-29T11:20:10Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "51ef90af287671ae",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Astronomers Discover a Possible New Dwarf Planet in Our Solar System",
-      "summary": "Lying beyond Pluto, 2026 ED138 could be as large as 1,500 kilometers in diameter. Astronomers are still working to confirm whether it meets the criteria for a dwarf planet.",
-      "original_title": "Astronomers Discover a Possible New Dwarf Planet in Our Solar System",
-      "url": "https://www.wired.com/story/astronomers-discover-a-possible-new-dwarf-planet-in-our-solar-system/",
-      "source": "Wired",
-      "domain": "wired.com",
-      "published_at": "2026-10-29T09:00:00Z",
+      "title": "Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks",
+      "summary": "NVL72 puts all 72 GPUs in a rack on one NVLink fabric, but only rack-local jobs get the speedup. How SkyPilot keeps multi-node training and inference on NVLink with topology-aware placement, in-place recovery from GPU failures, and automatic defragmentation.",
+      "original_title": "Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks",
+      "url": "https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler",
+      "source": "Skypilot.ai",
+      "domain": "skypilot.ai",
+      "published_at": "2026-10-29T15:45:05Z",
       "importance": 55,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -1938,6 +1862,120 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "c1a126aff1eedaa9",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "With days to go before the midterms, data shows the U.S. economy is doing well",
+      "summary": "GDP grew at an annual rate of 3.4% in the third quarter in the last major read on the economy ahead of the midterm elections — but many Americans continue to struggle with affordability.",
+      "original_title": "With days to go before the midterms, data shows the U.S. economy is doing well",
+      "url": "https://www.npr.org/2026/10/29/nx-s1-6021008/economy-gdp-inflation-midterms-voters-affordability",
+      "source": "NPR",
+      "domain": "npr.org",
+      "published_at": "2026-10-29T13:05:03Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "fe2ee4c8fc939b4a",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Scientists may have found a new dwarf planet in a distant world beyond Pluto",
+      "summary": "Scientists from the NSF–DOE Vera C. Rubin Observatory have announced that they have spotted a possible new dwarf planet known (for now) as 2026 ED138 orbiting the sun, located just beyond Pluto.Meet our Solar System's newest dwarf planet candidate: 2026 ED138…",
+      "original_title": "Scientists may have found a new dwarf planet in a distant world beyond Pluto",
+      "url": "https://www.newsweek.com/scientists-may-have-found-new-dwarf-planet-12634224",
+      "source": "Newsweek",
+      "domain": "newsweek.com",
+      "published_at": "2026-10-29T11:20:10Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "51ef90af287671ae",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Astronomers Discover a Possible New Dwarf Planet in Our Solar System",
+      "summary": "Lying beyond Pluto, 2026 ED138 could be as large as 1,500 kilometers in diameter. Astronomers are still working to confirm whether it meets the criteria for a dwarf planet.",
+      "original_title": "Astronomers Discover a Possible New Dwarf Planet in Our Solar System",
+      "url": "https://www.wired.com/story/astronomers-discover-a-possible-new-dwarf-planet-in-our-solar-system/",
+      "source": "Wired",
+      "domain": "wired.com",
+      "published_at": "2026-10-29T09:00:00Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "68776c0b2a72c8f0",
@@ -2670,7 +2708,7 @@
       "source": "Yahoo Entertainment",
       "domain": "finance.yahoo.com",
       "published_at": "2026-10-25T12:00:43Z",
-      "importance": 50,
+      "importance": 45,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -2694,45 +2732,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "c07dcfe30bee9ace",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "Weekly poll: are you interested in the Oppo Find X10 or the Oppo Find X10 Pro Max?",
-      "summary": "Oppo is working on faster launches for its new models in Europe – the Find X10 series launched in China a month ago and it arrived in Europe and in India earlier this week.\n\nAre you interested in one of the Find X10 phones? Did your answer remain the same aft…",
-      "original_title": "Weekly poll: are you interested in the Oppo Find X10 or the Oppo Find X10 Pro Max?",
-      "url": "https://www.gsmarena.com/weekly_poll_are_you_interested_in_the_oppo_find_x10_or_the_oppo_find_x10_pro_max-news-75168.php",
-      "source": "GSMArena.com",
-      "domain": "gsmarena.com",
-      "published_at": "2026-10-25T06:01:02Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
+      "reason": "屬「總體風險」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     }
   ]
 }
