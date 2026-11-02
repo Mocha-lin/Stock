@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-02T19:13:16.895430+00:00
+> 更新時間：2026-11-02T21:58:16.596947+00:00
 
 ### 🚀 Marvell-Lumentum talks put optical supply chain in focus
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -46,21 +46,21 @@
 
 ---
 
-### ⚠️ Sam Altman says it’s better for RAM to be in a data center than on your desk
-- **題材**: `HBM記憶體` | **重要性**: `73`
-- **來源**: The Verge (2026-10-30T20:48:43Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's "terrible" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where he also commented o…
-- [原文連結](https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers)
-
----
-
 ### ⚖️ Nvidia is bankrolling AI accelerator supply chain buildout to reserve production capacity
 - **題材**: `半導體先進製程` | **重要性**: `72`
 - **來源**: Tom's Hardware UK (2026-10-27T11:00:00Z)
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Nvidia is committing billions to expand substrate, co-packaged optics, advanced packaging, and chip-testing capacity through 2028, reserving capacity at nearly every stage of its AI accelerator supply chain.
 - [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/nvidia-is-bankrolling-ai-accelerator-supply-chain-buildout-to-reserve-production-capacity-announces-billion-dollar-deals-with-six-major-suppliers-across-substrates-advanced-packaging-semiconductor-testing-and-optical-engines)
+
+---
+
+### ⚠️ Sam Altman says it’s better for RAM to be in a data center than on your desk
+- **題材**: `HBM記憶體` | **重要性**: `68`
+- **來源**: The Verge (2026-10-30T20:48:43Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's "terrible" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where he also commented o…
+- [原文連結](https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers)
 
 ---
 
@@ -133,24 +133,6 @@
 - **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: A century-old paper mill in Témiscaming, Quebec is indefinitely closed after the US imposed 50% tariffs on its products, putting hundreds out of work.
 - [原文連結](https://www.bbc.co.uk/news/articles/cmly016ep243o)
-
----
-
-### ⚖️ The AI Gold Rush Is Turning Into a Wall Street Bloodbath
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: Gizmodo.com (2026-10-30T20:30:34Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Alphabet lost roughly $500 billion in market value as investors grow increasingly worried about Silicon Valley's massive AI spending spree.
-- [原文連結](https://gizmodo.com/the-ai-gold-rush-is-turning-into-a-wall-street-bloodbath-2000833300)
-
----
-
-### ⚖️ Stocks plunge as Amazon, Intel and Alphabet fuel a broad tech sell-off
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-10-30T19:14:29Z)
-- **AI 判讀**: 屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: US stocks plunged in the final trading day of the month as earnings from Amazon (AMZN) and Alphabet (GOOG, GOOGL) this week rekindled concerns about the amount of money Big Tech is spending on its AI ambitions.The Nasdaq Composite (^IXIC) tumbled 3.3% as a te…
-- [原文連結](https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-ai-sell-off-191429143.html)
 
 ---
 

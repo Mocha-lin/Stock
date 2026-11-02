@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-11-02T19:13:16.895430+00:00",
+  "generated_at": "2026-11-02T21:58:16.596947+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 73,
@@ -193,41 +193,6 @@
       "reason": "屬「半導體先進製程」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
-      "id": "8bf2ab2e21a380d5",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
-      "summary": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where he also commented o…",
-      "original_title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "published_at": "2026-10-30T20:48:43Z",
-      "importance": 73,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
       "id": "c45459c265915c4c",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -264,6 +229,41 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
+      "id": "8bf2ab2e21a380d5",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+      "summary": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where he also commented o…",
+      "original_title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "published_at": "2026-10-30T20:48:43Z",
+      "importance": 68,
+      "impact": "negative",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "5ab46cb439216cbe",
@@ -558,82 +558,6 @@
       "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "010433eae1b54f43",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "The AI Gold Rush Is Turning Into a Wall Street Bloodbath",
-      "summary": "Alphabet lost roughly $500 billion in market value as investors grow increasingly worried about Silicon Valley's massive AI spending spree.",
-      "original_title": "The AI Gold Rush Is Turning Into a Wall Street Bloodbath",
-      "url": "https://gizmodo.com/the-ai-gold-rush-is-turning-into-a-wall-street-bloodbath-2000833300",
-      "source": "Gizmodo.com",
-      "domain": "gizmodo.com",
-      "published_at": "2026-10-30T20:30:34Z",
-      "importance": 60,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "ada1c8caece9ca57",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "Stocks plunge as Amazon, Intel and Alphabet fuel a broad tech sell-off",
-      "summary": "US stocks plunged in the final trading day of the month as earnings from Amazon (AMZN) and Alphabet (GOOG, GOOGL) this week rekindled concerns about the amount of money Big Tech is spending on its AI ambitions.The Nasdaq Composite (^IXIC) tumbled 3.3% as a te…",
-      "original_title": "Stocks plunge as Amazon, Intel and Alphabet fuel a broad tech sell-off",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-ai-sell-off-191429143.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-10-30T19:14:29Z",
-      "importance": 60,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "5f8ffc9b9ff3c8bd",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -743,44 +667,6 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "7432b158af974134",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "iPronics Names Co-Founder & Photonics Pioneer Dr. Daniel Pérez-López as CEO to Drive Commercial Scale for AI Optical Circuit Switching",
-      "summary": "Former CTO steps up to CEO role alongside industry veteran Geoffrey Tate as Chairman of the Board to accelerate volume deployment of silicon photonics optical circuit switches VALENCIA, Spain and SANTA CLARA, Calif., Oct. 26, 2026 (GLOBE NEWSWIRE) — iPronics,…",
-      "original_title": "iPronics Names Co-Founder & Photonics Pioneer Dr. Daniel Pérez-López as CEO to Drive Commercial Scale for AI Optical Circuit Switching",
-      "url": "https://financialpost.com/globe-newswire/ipronics-names-co-founder-photonics-pioneer-dr-daniel-perez-lopez-as-ceo-to-drive-commercial-scale-for-ai-optical-circuit-switching",
-      "source": "Financial Post",
-      "domain": "financialpost.com",
-      "published_at": "2026-10-26T21:18:14Z",
-      "importance": 60,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "d6dec1d070e4bc19",
@@ -973,32 +859,32 @@
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "3d442500d24cd5fb",
+      "id": "010433eae1b54f43",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Queen's University Belfast Students Find Neptune's Elusive Trojan Asteroids",
-      "summary": "Astronomers at Queen’s University Belfast have led an international team studying new solar system bodies near Neptune, helping to unravel the mysteries of our solar system’s evolution.",
-      "original_title": "Queen's University Belfast Students Find Neptune's Elusive Trojan Asteroids",
-      "url": "https://www.universetoday.com/articles/queens-university-belfast-students-find-neptunes-elusive-trojan-asteroids",
-      "source": "Universe Today",
-      "domain": "universetoday.com",
-      "published_at": "2026-10-30T20:59:00Z",
+      "theme": "半導體先進製程",
+      "title": "The AI Gold Rush Is Turning Into a Wall Street Bloodbath",
+      "summary": "Alphabet lost roughly $500 billion in market value as investors grow increasingly worried about Silicon Valley's massive AI spending spree.",
+      "original_title": "The AI Gold Rush Is Turning Into a Wall Street Bloodbath",
+      "url": "https://gizmodo.com/the-ai-gold-rush-is-turning-into-a-wall-street-bloodbath-2000833300",
+      "source": "Gizmodo.com",
+      "domain": "gizmodo.com",
+      "published_at": "2026-10-30T20:30:34Z",
       "importance": 55,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
+        "半導體",
+        "CoWoS",
+        "先進製程"
       ],
       "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
       ],
       "related_models": [
         "003",
@@ -1008,32 +894,35 @@
         "009",
         "010"
       ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "13afeb10ff2168ab",
+      "id": "ada1c8caece9ca57",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "Apple's Flash Storage Suppliers Are Finally 'Getting Their Revenge'",
-      "summary": "The Wall Street Journal's Rolfe Winkler this week reported that flash storage suppliers once \"bullied\" by Apple have been \"getting their revenge\" on the company over the past year due to a severe memory chip shortage, which stems from AI companies building ou…",
-      "original_title": "Apple's Flash Storage Suppliers Are Finally 'Getting Their Revenge'",
-      "url": "https://www.macrumors.com/2026/10/30/apple-flash-storage-suppliers-revenge-report/",
-      "source": "MacRumors",
-      "domain": "macrumors.com",
-      "published_at": "2026-10-30T20:28:37Z",
+      "theme": "總體風險",
+      "title": "Stocks plunge as Amazon, Intel and Alphabet fuel a broad tech sell-off",
+      "summary": "US stocks plunged in the final trading day of the month as earnings from Amazon (AMZN) and Alphabet (GOOG, GOOGL) this week rekindled concerns about the amount of money Big Tech is spending on its AI ambitions.The Nasdaq Composite (^IXIC) tumbled 3.3% as a te…",
+      "original_title": "Stocks plunge as Amazon, Intel and Alphabet fuel a broad tech sell-off",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-ai-sell-off-191429143.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-10-30T19:14:29Z",
       "importance": 55,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "HBM",
-        "記憶體"
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
       ],
       "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
       ],
       "related_models": [
         "003",
@@ -1043,7 +932,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "a090d73d0644d71a",
@@ -1634,6 +1523,117 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "7432b158af974134",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "iPronics Names Co-Founder & Photonics Pioneer Dr. Daniel Pérez-López as CEO to Drive Commercial Scale for AI Optical Circuit Switching",
+      "summary": "Former CTO steps up to CEO role alongside industry veteran Geoffrey Tate as Chairman of the Board to accelerate volume deployment of silicon photonics optical circuit switches VALENCIA, Spain and SANTA CLARA, Calif., Oct. 26, 2026 (GLOBE NEWSWIRE) — iPronics,…",
+      "original_title": "iPronics Names Co-Founder & Photonics Pioneer Dr. Daniel Pérez-López as CEO to Drive Commercial Scale for AI Optical Circuit Switching",
+      "url": "https://financialpost.com/globe-newswire/ipronics-names-co-founder-photonics-pioneer-dr-daniel-perez-lopez-as-ceo-to-drive-commercial-scale-for-ai-optical-circuit-switching",
+      "source": "Financial Post",
+      "domain": "financialpost.com",
+      "published_at": "2026-10-26T21:18:14Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "3d442500d24cd5fb",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Queen's University Belfast Students Find Neptune's Elusive Trojan Asteroids",
+      "summary": "Astronomers at Queen’s University Belfast have led an international team studying new solar system bodies near Neptune, helping to unravel the mysteries of our solar system’s evolution.",
+      "original_title": "Queen's University Belfast Students Find Neptune's Elusive Trojan Asteroids",
+      "url": "https://www.universetoday.com/articles/queens-university-belfast-students-find-neptunes-elusive-trojan-asteroids",
+      "source": "Universe Today",
+      "domain": "universetoday.com",
+      "published_at": "2026-10-30T20:59:00Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "13afeb10ff2168ab",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "Apple's Flash Storage Suppliers Are Finally 'Getting Their Revenge'",
+      "summary": "The Wall Street Journal's Rolfe Winkler this week reported that flash storage suppliers once \"bullied\" by Apple have been \"getting their revenge\" on the company over the past year due to a severe memory chip shortage, which stems from AI companies building ou…",
+      "original_title": "Apple's Flash Storage Suppliers Are Finally 'Getting Their Revenge'",
+      "url": "https://www.macrumors.com/2026/10/30/apple-flash-storage-suppliers-revenge-report/",
+      "source": "MacRumors",
+      "domain": "macrumors.com",
+      "published_at": "2026-10-30T20:28:37Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "4ecd20491b579f35",
