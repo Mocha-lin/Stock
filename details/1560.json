@@ -1,11 +1,11 @@
 {
   "id": "1560",
   "name": "中砂",
-  "lastUpdated": "2026-11-01 21:57:20",
+  "lastUpdated": "2026-11-03 00:43:43",
   "basicInfo": {
-    "price": "867.00",
-    "change": "-21.00",
-    "changePercent": "-2.36%"
+    "price": "864.00",
+    "change": "-3.00",
+    "changePercent": "-0.35%"
   },
   "status": null,
   "themes": [],
@@ -568,6 +568,14 @@
     ],
     "chips_table": [
       {
+        "date": "2026-11-02",
+        "foreign_lots": -397.339,
+        "it_lots": 300.0,
+        "dealer_lots": 14.577,
+        "sum_lots": -82.762,
+        "pct_float": -0.0055068384684226115
+      },
+      {
         "date": "2026-10-30",
         "foreign_lots": -177.27,
         "it_lots": 164.0,
@@ -678,14 +686,6 @@
         "dealer_lots": -28.822999999999997,
         "sum_lots": 118.99900000000001,
         "pct_float": 0.007917984955702163
-      },
-      {
-        "date": "2026-10-07",
-        "foreign_lots": 272.068,
-        "it_lots": -100.234,
-        "dealer_lots": -6.441,
-        "sum_lots": 165.393,
-        "pct_float": 0.011004960426377093
       }
     ],
     "returns_table": [
@@ -720,7 +720,7 @@
       "dataset": "structure_c_score",
       "stock_id": "1560",
       "ticker": "1560.TW",
-      "asof": "2026-10-30",
+      "asof": "2026-11-02",
       "c_score": 1.0343172674933927,
       "benchmark_pe": 128.10734463276836,
       "source": [
@@ -940,7 +940,7 @@
           "eps": 1.36,
           "revenue_q": 16.5138,
           "pe_ratio": 81.5062040791792,
-          "rev_growth": 63.527904254708154,
+          "rev_growth": 214.47010365032725,
           "eps_growth": -16.049382716049386,
           "rt_weight": 1.1,
           "deviation": 0.6362336547746292,
@@ -984,14 +984,14 @@
         },
         {
           "period": "2021Q4",
-          "avg_price": 90.42045385187322,
+          "avg_price": 90.68139471009721,
           "eps": 1.62,
-          "revenue_q": 10.09846,
-          "pe_ratio": 55.81509497029211,
+          "revenue_q": 5.25131,
+          "pe_ratio": 55.976169574134076,
           "rev_growth": null,
           "eps_growth": null,
           "rt_weight": 1.0,
-          "deviation": 0.43569004673612804,
+          "deviation": 0.4369473876349165,
           "theo_price": 207.53389830508476
         }
       ],
@@ -1005,27 +1005,6 @@
       "stock_name": "中砂"
     },
     "kline_data": [
-      {
-        "date": "2026-05-08",
-        "symbol": "1560.TW",
-        "open": 588.0,
-        "high": 617.0,
-        "low": 568.0,
-        "close": 572.0,
-        "volume": 3161323.0,
-        "adjclose": 568.190185546875,
-        "dividends": 0.0,
-        "MA5": 570.8,
-        "MA20": 538.5,
-        "MA60": 484.225,
-        "bb_mid": 538.5,
-        "bb_up": 580.8343831890747,
-        "bb_dn": 496.16561681092526,
-        "DIF": 23.36889202993109,
-        "DEA": 20.645030452200984,
-        "HIST": 5.44772315546021,
-        "volume_lot": 3161.323
-      },
       {
         "date": "2026-05-11",
         "symbol": "1560.TW",
@@ -3524,6 +3503,27 @@
         "DEA": 13.046538326598425,
         "HIST": -25.66759905446012,
         "volume_lot": 1210.355
+      },
+      {
+        "date": "2026-11-02",
+        "symbol": "1560.TW",
+        "open": 855.0,
+        "high": 881.0,
+        "low": 834.0,
+        "close": null,
+        "volume": 1611644.0,
+        "adjclose": null,
+        "dividends": 0.0,
+        "MA5": null,
+        "MA20": null,
+        "MA60": null,
+        "bb_mid": null,
+        "bb_up": null,
+        "bb_dn": null,
+        "DIF": 0.2127387993683669,
+        "DEA": 10.479778421152414,
+        "HIST": -20.53407924356809,
+        "volume_lot": 1611.644
       }
     ]
   }

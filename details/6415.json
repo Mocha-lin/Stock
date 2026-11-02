@@ -1,11 +1,11 @@
 {
   "id": "6415",
   "name": "矽力*-KY",
-  "lastUpdated": "2026-11-01 21:57:20",
+  "lastUpdated": "2026-11-03 00:43:43",
   "basicInfo": {
-    "price": "502.00",
-    "change": "-22.00",
-    "changePercent": "-4.20%"
+    "price": "501.00",
+    "change": "-1.00",
+    "changePercent": "-0.20%"
   },
   "status": null,
   "themes": [],
@@ -568,6 +568,14 @@
     ],
     "chips_table": [
       {
+        "date": "2026-11-02",
+        "foreign_lots": -529.756,
+        "it_lots": 156.0,
+        "dealer_lots": 6.904999999999999,
+        "sum_lots": -366.851,
+        "pct_float": -0.037678609577335175
+      },
+      {
         "date": "2026-10-30",
         "foreign_lots": 219.159,
         "it_lots": 241.0,
@@ -678,14 +686,6 @@
         "dealer_lots": -0.7640000000000002,
         "sum_lots": 268.217,
         "pct_float": 0.02754808798396108
-      },
-      {
-        "date": "2026-10-07",
-        "foreign_lots": 232.565,
-        "it_lots": 2.0,
-        "dealer_lots": -30.26,
-        "sum_lots": 204.305,
-        "pct_float": 0.020983800861105635
       }
     ],
     "returns_table": [
@@ -701,7 +701,7 @@
       },
       {
         "year": 2024,
-        "return_pct": -13.184141482499612,
+        "return_pct": -13.184129040130033,
         "period": "01/02~12/31"
       },
       {
@@ -711,7 +711,7 @@
       },
       {
         "year": 2022,
-        "return_pct": -65.47898374550074,
+        "return_pct": -65.47898717588563,
         "period": "01/03~12/30"
       }
     ],
@@ -720,7 +720,7 @@
       "dataset": "structure_c_score",
       "stock_id": "6415",
       "ticker": "6415.TW",
-      "asof": "2026-10-30",
+      "asof": "2026-11-02",
       "c_score": 3.518859047633097,
       "benchmark_pe": 127.16412289649853,
       "source": [
@@ -940,7 +940,7 @@
           "eps": 2.36,
           "revenue_q": 50.82136,
           "pe_ratio": 189.45643538135593,
-          "rev_growth": 31.713045333007116,
+          "rev_growth": 161.2484173611943,
           "eps_growth": -83.97827562797013,
           "rt_weight": 1.1,
           "deviation": 1.4898576034339372,
@@ -984,14 +984,14 @@
         },
         {
           "period": "2021Q4",
-          "avg_price": 1188.6647727272727,
+          "avg_price": 1189.6511627906978,
           "eps": 14.73,
-          "revenue_q": 38.58491,
-          "pe_ratio": 80.69686169227921,
+          "revenue_q": 19.45327,
+          "pe_ratio": 80.7638263944805,
           "rev_growth": null,
           "eps_growth": null,
           "rt_weight": 1.0,
-          "deviation": 0.6345882773709691,
+          "deviation": 0.6351148779614186,
           "theo_price": 1873.1275302654233
         }
       ],
@@ -1005,27 +1005,6 @@
       "stock_name": "矽力-KY"
     },
     "kline_data": [
-      {
-        "date": "2026-05-08",
-        "symbol": "6415.TW",
-        "open": 426.0,
-        "high": 438.0,
-        "low": 419.5,
-        "close": 425.5,
-        "volume": 2206909.0,
-        "adjclose": 425.5,
-        "dividends": 0.0,
-        "MA5": 429.0,
-        "MA20": 377.175,
-        "MA60": 309.6083333333333,
-        "bb_mid": 377.175,
-        "bb_up": 499.9843135718941,
-        "bb_dn": 254.3656864281059,
-        "DIF": 36.61122582615667,
-        "DEA": 35.61183172115648,
-        "HIST": 1.9987882100003844,
-        "volume_lot": 2206.909
-      },
       {
         "date": "2026-05-11",
         "symbol": "6415.TW",
@@ -3524,6 +3503,27 @@
         "DEA": 14.005359571112605,
         "HIST": 10.054518352655894,
         "volume_lot": 7125.492
+      },
+      {
+        "date": "2026-11-02",
+        "symbol": "6415.TW",
+        "open": 495.5,
+        "high": 510.0,
+        "low": 488.0,
+        "close": null,
+        "volume": 5598327.0,
+        "adjclose": null,
+        "dividends": 0.0,
+        "MA5": null,
+        "MA20": null,
+        "MA60": null,
+        "bb_mid": null,
+        "bb_up": null,
+        "bb_dn": null,
+        "DIF": 19.03261874744055,
+        "DEA": 15.010811406378195,
+        "HIST": 8.043614682124712,
+        "volume_lot": 5598.327
       }
     ]
   }

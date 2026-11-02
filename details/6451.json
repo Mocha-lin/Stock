@@ -1,11 +1,11 @@
 {
   "id": "6451",
   "name": "訊芯-KY",
-  "lastUpdated": "2026-11-01 21:57:20",
+  "lastUpdated": "2026-11-03 00:43:43",
   "basicInfo": {
-    "price": "329.00",
-    "change": "-31.00",
-    "changePercent": "-8.61%"
+    "price": "326.00",
+    "change": "-3.00",
+    "changePercent": "-0.91%"
   },
   "status": null,
   "themes": [],
@@ -568,6 +568,14 @@
     ],
     "chips_table": [
       {
+        "date": "2026-11-02",
+        "foreign_lots": 153.587,
+        "it_lots": 0.0,
+        "dealer_lots": 0.712,
+        "sum_lots": 154.29899999999998,
+        "pct_float": 0.01350473281373763
+      },
+      {
         "date": "2026-10-30",
         "foreign_lots": 208.214,
         "it_lots": 0.0,
@@ -678,14 +686,6 @@
         "dealer_lots": -10.158,
         "sum_lots": -167.243,
         "pct_float": -0.014637632324045668
-      },
-      {
-        "date": "2026-10-07",
-        "foreign_lots": 120.377,
-        "it_lots": 0.0,
-        "dealer_lots": 8.982999999999999,
-        "sum_lots": 129.35999999999999,
-        "pct_float": 0.011321993251965987
       }
     ],
     "returns_table": [
@@ -696,12 +696,12 @@
       },
       {
         "year": 2025,
-        "return_pct": -27.48881763144847,
+        "return_pct": -27.488822466911532,
         "period": "01/02~12/31"
       },
       {
         "year": 2024,
-        "return_pct": 75.15863009365454,
+        "return_pct": 75.15861892409434,
         "period": "01/02~12/31"
       },
       {
@@ -711,7 +711,7 @@
       },
       {
         "year": 2022,
-        "return_pct": -8.244790872054363,
+        "return_pct": -8.244782794335793,
         "period": "01/03~12/30"
       }
     ],
@@ -720,7 +720,7 @@
       "dataset": "structure_c_score",
       "stock_id": "6451",
       "ticker": "6451.TW",
-      "asof": "2026-10-30",
+      "asof": "2026-11-02",
       "c_score": 6.190944918421904,
       "benchmark_pe": 102.86553309634864,
       "source": [
@@ -940,7 +940,7 @@
           "eps": -0.18,
           "revenue_q": 16.47594,
           "pe_ratio": -466.0243093967438,
-          "rev_growth": 132.43623005006793,
+          "rev_growth": 373.9613718349242,
           "eps_growth": -58.139534883720934,
           "rt_weight": 1.1,
           "deviation": -4.53042234234322,
@@ -984,14 +984,14 @@
         },
         {
           "period": "2021Q4",
-          "avg_price": 94.63409059697932,
+          "avg_price": 94.70930197072583,
           "eps": -0.43,
-          "revenue_q": 7.08837,
-          "pe_ratio": -220.07928045809143,
+          "revenue_q": 3.47622,
+          "pe_ratio": -220.25419062959497,
           "rev_growth": null,
           "eps_growth": null,
           "rt_weight": 1.0,
-          "deviation": -2.139485149529677,
+          "deviation": -2.141185526383212,
           "theo_price": -44.23217923142992
         }
       ],
@@ -1005,27 +1005,6 @@
       "stock_name": "訊芯-KY"
     },
     "kline_data": [
-      {
-        "date": "2026-05-08",
-        "symbol": "6451.TW",
-        "open": 478.0,
-        "high": 490.0,
-        "low": 441.0,
-        "close": 441.0,
-        "volume": 5636465.0,
-        "adjclose": 440.7805786132813,
-        "dividends": 0.0,
-        "MA5": 480.7,
-        "MA20": 459.0,
-        "MA60": 312.425,
-        "bb_mid": 459.0,
-        "bb_up": 538.2792532759988,
-        "bb_dn": 379.7207467240012,
-        "DIF": 34.06001057541147,
-        "DEA": 39.29341953337501,
-        "HIST": -10.46681791592708,
-        "volume_lot": 5636.465
-      },
       {
         "date": "2026-05-11",
         "symbol": "6451.TW",
@@ -3524,6 +3503,27 @@
         "DEA": -17.653808585581892,
         "HIST": -5.231790274297836,
         "volume_lot": 1390.935
+      },
+      {
+        "date": "2026-11-02",
+        "symbol": "6451.TW",
+        "open": 320.0,
+        "high": 334.0,
+        "low": 320.0,
+        "close": null,
+        "volume": 1163023.0,
+        "adjclose": null,
+        "dividends": 0.0,
+        "MA5": null,
+        "MA20": null,
+        "MA60": null,
+        "bb_mid": null,
+        "bb_up": null,
+        "bb_dn": null,
+        "DIF": -20.26970372273081,
+        "DEA": -18.17698761301168,
+        "HIST": -4.185432219438269,
+        "volume_lot": 1163.023
       }
     ]
   }

@@ -1,11 +1,11 @@
 {
   "id": "6683",
   "name": "雍智科技",
-  "lastUpdated": "2026-11-01 21:57:20",
+  "lastUpdated": "2026-11-03 00:43:43",
   "basicInfo": {
-    "price": "1070.00",
-    "change": "-65.00",
-    "changePercent": "-5.73%"
+    "price": "1045.00",
+    "change": "-25.00",
+    "changePercent": "-2.34%"
   },
   "status": null,
   "themes": [],
@@ -568,6 +568,14 @@
     ],
     "chips_table": [
       {
+        "date": "2026-11-02",
+        "foreign_lots": -56.237,
+        "it_lots": 1.0,
+        "dealer_lots": 0.205,
+        "sum_lots": -55.032000000000004,
+        "pct_float": -0.019970098558634408
+      },
+      {
         "date": "2026-10-30",
         "foreign_lots": 160.102,
         "it_lots": -2.0,
@@ -678,14 +686,6 @@
         "dealer_lots": 12.18,
         "sum_lots": 1.681000000000001,
         "pct_float": 0.000610003919120956
-      },
-      {
-        "date": "2026-10-07",
-        "foreign_lots": -71.78,
-        "it_lots": 0.0,
-        "dealer_lots": -4.5600000000000005,
-        "sum_lots": -76.34,
-        "pct_float": -0.02770237905157273
       }
     ],
     "returns_table": [
@@ -701,7 +701,7 @@
       },
       {
         "year": 2024,
-        "return_pct": 41.01857081298643,
+        "return_pct": 41.0185812390572,
         "period": "01/02~12/31"
       },
       {
@@ -711,7 +711,7 @@
       },
       {
         "year": 2022,
-        "return_pct": -41.08462297541406,
+        "return_pct": -41.08462199853985,
         "period": "01/03~12/30"
       }
     ],
@@ -720,7 +720,7 @@
       "dataset": "structure_c_score",
       "stock_id": "6683",
       "ticker": "6683.TWO",
-      "asof": "2026-10-30",
+      "asof": "2026-11-02",
       "c_score": 1.41007266637655,
       "benchmark_pe": 74.86393101761252,
       "source": [
@@ -940,7 +940,7 @@
           "eps": 3.04,
           "revenue_q": 3.84456,
           "pe_ratio": 58.418996710526315,
-          "rev_growth": 62.35952920905601,
+          "rev_growth": 216.54453537964991,
           "eps_growth": -20.209973753280842,
           "rt_weight": 1.1,
           "deviation": 0.780335682570324,
@@ -984,14 +984,14 @@
         },
         {
           "period": "2021Q4",
-          "avg_price": 326.3863636363636,
+          "avg_price": 326.25581395348837,
           "eps": 3.81,
-          "revenue_q": 2.36793,
-          "pe_ratio": 85.66571224051539,
+          "revenue_q": 1.21454,
+          "pe_ratio": 85.63144723188671,
           "rev_growth": null,
           "eps_growth": null,
           "rt_weight": 1.0,
-          "deviation": 1.144285520090598,
+          "deviation": 1.143827822930391,
           "theo_price": 285.2315771771037
         }
       ],
@@ -1005,27 +1005,6 @@
       "stock_name": "雍智科技"
     },
     "kline_data": [
-      {
-        "date": "2026-05-08",
-        "symbol": "6683.TWO",
-        "open": 2320.0,
-        "high": 2320.0,
-        "low": 2150.0,
-        "close": 2210.0,
-        "volume": 257214.0,
-        "adjclose": 2198.823974609375,
-        "dividends": 0.0,
-        "MA5": 2378.0,
-        "MA20": 1992.25,
-        "MA60": 1357.5666666666666,
-        "bb_mid": 1992.25,
-        "bb_up": 2482.3058641624534,
-        "bb_dn": 1502.1941358375464,
-        "DIF": 247.33693713992488,
-        "DEA": 228.1776322126492,
-        "HIST": 38.31860985455137,
-        "volume_lot": 257.214
-      },
       {
         "date": "2026-05-11",
         "symbol": "6683.TWO",
@@ -3524,6 +3503,27 @@
         "DEA": -51.06434123249055,
         "HIST": -56.93949499546525,
         "volume_lot": 467.021
+      },
+      {
+        "date": "2026-11-02",
+        "symbol": "6683.TWO",
+        "open": 1030.0,
+        "high": 1085.0,
+        "low": 1015.0,
+        "close": null,
+        "volume": 436901.0,
+        "adjclose": null,
+        "dividends": 0.0,
+        "MA5": null,
+        "MA20": null,
+        "MA60": null,
+        "bb_mid": null,
+        "bb_up": null,
+        "bb_dn": null,
+        "DIF": -79.53408873022317,
+        "DEA": -56.75829073203708,
+        "HIST": -45.551595996372185,
+        "volume_lot": 436.901
       }
     ]
   }

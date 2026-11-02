@@ -1,11 +1,11 @@
 {
   "id": "3131",
   "name": "弘塑",
-  "lastUpdated": "2026-11-01 21:57:20",
+  "lastUpdated": "2026-11-03 00:43:43",
   "basicInfo": {
-    "price": "1880.00",
-    "change": "-120.00",
-    "changePercent": "-6.00%"
+    "price": "1905.00",
+    "change": "25.00",
+    "changePercent": "1.33%"
   },
   "status": null,
   "themes": [],
@@ -568,6 +568,14 @@
     ],
     "chips_table": [
       {
+        "date": "2026-11-02",
+        "foreign_lots": 59.24,
+        "it_lots": 52.0,
+        "dealer_lots": 5.293,
+        "sum_lots": 116.53300000000002,
+        "pct_float": 0.03906361039971038
+      },
+      {
         "date": "2026-10-30",
         "foreign_lots": -21.443,
         "it_lots": 4.05,
@@ -678,14 +686,6 @@
         "dealer_lots": -2.3689999999999998,
         "sum_lots": -8.518,
         "pct_float": -0.0028553614288204456
-      },
-      {
-        "date": "2026-10-07",
-        "foreign_lots": -94.33,
-        "it_lots": -5.03,
-        "dealer_lots": -19.644,
-        "sum_lots": -119.00399999999999,
-        "pct_float": -0.03989192668177369
       }
     ],
     "returns_table": [
@@ -706,12 +706,12 @@
       },
       {
         "year": 2023,
-        "return_pct": 168.86031011509743,
+        "return_pct": 168.8603294521834,
         "period": "01/03~12/29"
       },
       {
         "year": 2022,
-        "return_pct": -34.24187766789763,
+        "return_pct": -34.24186667013757,
         "period": "01/03~12/30"
       }
     ],
@@ -720,7 +720,7 @@
       "dataset": "structure_c_score",
       "stock_id": "3131",
       "ticker": "3131.TWO",
-      "asof": "2026-10-30",
+      "asof": "2026-11-02",
       "c_score": 1.6803928670960355,
       "benchmark_pe": 78.29204693611473,
       "source": [
@@ -940,7 +940,7 @@
           "eps": 5.22,
           "revenue_q": 10.40197,
           "pe_ratio": 40.9108596743295,
-          "rev_growth": 39.902624694861565,
+          "rev_growth": 198.64801235709245,
           "eps_growth": -38.22485207100591,
           "rt_weight": 1.1,
           "deviation": 0.5225417047495542,
@@ -984,14 +984,14 @@
         },
         {
           "period": "2021Q4",
-          "avg_price": 370.77272727272725,
+          "avg_price": 370.83720930232556,
           "eps": 8.45,
-          "revenue_q": 7.43515,
-          "pe_ratio": 43.87842926304465,
+          "revenue_q": 3.48302,
+          "pe_ratio": 43.88606027246457,
           "rev_growth": null,
           "eps_growth": null,
           "rt_weight": 1.0,
-          "deviation": 0.5604455494547085,
+          "deviation": 0.560543017968032,
           "theo_price": 661.5677966101695
         }
       ],
@@ -1005,27 +1005,6 @@
       "stock_name": "弘塑"
     },
     "kline_data": [
-      {
-        "date": "2026-05-08",
-        "symbol": "3131.TWO",
-        "open": 3120.0,
-        "high": 3140.0,
-        "low": 2900.0,
-        "close": 2940.0,
-        "volume": 395303.0,
-        "adjclose": 2886.8671875,
-        "dividends": 0.0,
-        "MA5": 3047.0,
-        "MA20": 3132.0,
-        "MA60": 2459.583333333333,
-        "bb_mid": 3132.0,
-        "bb_up": 3483.985795167938,
-        "bb_dn": 2780.014204832062,
-        "DIF": 76.93877168269364,
-        "DEA": 127.38789382041388,
-        "HIST": -100.89824427544048,
-        "volume_lot": 395.303
-      },
       {
         "date": "2026-05-11",
         "symbol": "3131.TWO",
@@ -3524,6 +3503,27 @@
         "DEA": -98.78483512213636,
         "HIST": -58.305398649988206,
         "volume_lot": 230.213
+      },
+      {
+        "date": "2026-11-02",
+        "symbol": "3131.TWO",
+        "open": 1800.0,
+        "high": 1935.0,
+        "low": 1800.0,
+        "close": null,
+        "volume": 342750.0,
+        "adjclose": null,
+        "dividends": 0.0,
+        "MA5": null,
+        "MA20": null,
+        "MA60": null,
+        "bb_mid": null,
+        "bb_up": null,
+        "bb_dn": null,
+        "DIF": -127.93753444713047,
+        "DEA": -104.6153749871352,
+        "HIST": -46.64431891999055,
+        "volume_lot": 342.75
       }
     ]
   }
