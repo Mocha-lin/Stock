@@ -1,30 +1,12 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-02T21:58:16.596947+00:00
+> 更新時間：2026-11-03T03:50:52.072394+00:00
 
-### 🚀 Marvell-Lumentum talks put optical supply chain in focus
+### 🚀 Dixon maps AI hardware expansion through Inventec, Gemtek, prospective packaging partners
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
-- **來源**: Digitimes (2026-10-30T23:33:24Z)
+- **來源**: Digitimes (2026-11-02T03:35:54Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Marvell is reportedly in talks to acquire Lumentum, drawing attention across the optical communications supply chain. The deal would offer strong strategic synergies, particularly through Lumentum's expertise in critical optical transceiver components, but Lu…
-- [原文連結](https://www.digitimes.com/news/a20261030PD240/marvell-acquisition-communications-supply-chain-apple.html)
-
----
-
-### ⚖️ Radiant targets next-gen CPO above 6.4T, eyes 2028 mass production
-- **題材**: `光通訊與矽光子` | **重要性**: `78`
-- **來源**: Digitimes (2026-10-30T23:32:58Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Radiant Opto-Electronics, a major backlight module maker, is expanding into new businesses and targeting next-generation optical communications architecture, particularly co-packaged optics (CPO) applications above 6.4T. Chairman and General Manager Yu-Chao W…
-- [原文連結](https://www.digitimes.com/news/a20261030PD236/radiant-cpo-production-2028-backlight.html)
-
----
-
-### 🚀 OPTOELEC seeks AI data center orders as Himax advances CPO optics
-- **題材**: `光通訊與矽光子` | **重要性**: `78`
-- **來源**: Digitimes (2026-10-27T01:52:39Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: South Korean optics maker Optoelec is seeing growing interest from AI data center customers as it seeks to expand its wafer-level optics (WLO) business into high-speed optical communications, a market where Taiwanese suppliers are already moving toward commer…
-- [原文連結](https://www.digitimes.com/news/a20261024VL202/optics-cpo-data-center-himax-production.html)
+- **摘要**: Dixon Technologies is pursuing separate partnerships for servers, optical communications, and advanced semiconductor packaging as it seeks a role in AI infrastructure manufacturing, although its most ambitious silicon-photonics plans remain at the evaluation …
+- [原文連結](https://www.digitimes.com/news/a20261102VL203/dixon-packaging-gemtek-inventec-hardware.html)
 
 ---
 
@@ -46,6 +28,33 @@
 
 ---
 
+### 🚀 Marvell-Lumentum talks put optical supply chain in focus
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-10-30T23:33:24Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Marvell is reportedly in talks to acquire Lumentum, drawing attention across the optical communications supply chain. The deal would offer strong strategic synergies, particularly through Lumentum's expertise in critical optical transceiver components, but Lu…
+- [原文連結](https://www.digitimes.com/news/a20261030PD240/marvell-acquisition-communications-supply-chain-apple.html)
+
+---
+
+### ⚖️ Radiant targets next-gen CPO above 6.4T, eyes 2028 mass production
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-10-30T23:32:58Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Radiant Opto-Electronics, a major backlight module maker, is expanding into new businesses and targeting next-generation optical communications architecture, particularly co-packaged optics (CPO) applications above 6.4T. Chairman and General Manager Yu-Chao W…
+- [原文連結](https://www.digitimes.com/news/a20261030PD236/radiant-cpo-production-2028-backlight.html)
+
+---
+
+### 🚀 OPTOELEC seeks AI data center orders as Himax advances CPO optics
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-10-27T01:52:39Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: South Korean optics maker Optoelec is seeing growing interest from AI data center customers as it seeks to expand its wafer-level optics (WLO) business into high-speed optical communications, a market where Taiwanese suppliers are already moving toward commer…
+- [原文連結](https://www.digitimes.com/news/a20261024VL202/optics-cpo-data-center-himax-production.html)
+
+---
+
 ### ⚖️ Nvidia is bankrolling AI accelerator supply chain buildout to reserve production capacity
 - **題材**: `半導體先進製程` | **重要性**: `72`
 - **來源**: Tom's Hardware UK (2026-10-27T11:00:00Z)
@@ -61,6 +70,15 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's "terrible" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where he also commented o…
 - [原文連結](https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers)
+
+---
+
+### ⚖️ Kinsus explores AlN ceramics beyond glass for AI advanced packaging
+- **題材**: `半導體先進製程` | **重要性**: `68`
+- **來源**: Digitimes (2026-10-28T23:50:04Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Kinsus Interconnect Technology is exploring aluminum nitride (AlN) ceramics as a core material for substrates used in large-scale advanced packaging, seeking an alternative to glass amid ongoing brittleness and reliability challenges, according to R&D vice pr…
+- [原文連結](https://www.digitimes.com/news/a20261028PD217/packaging-kinsus-substrate-aluminum-materials.html)
 
 ---
 
@@ -118,24 +136,6 @@
 
 ---
 
-### ⚖️ Intel explores potential collaboration with AMD as Lip-Bu Tan pushes customer-focused turnaround
-- **題材**: `光通訊與矽光子` | **重要性**: `62`
-- **來源**: Tom's Hardware UK (2026-10-26T12:40:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Intel CEO Lip-Bu Tan has reportedly discussed potential areas of cooperation with AMD chief Lisa Su as Intel works to rebuild its CPU business and expand its foundry operations. The companies have already collaborated on x86 standards and CPU software, includ…
-- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/intel-explores-potential-collaboration-with-amd-as-lip-bu-tan-pushes-customer-focused-turnaround-ceo-targets-custom-chips-advanced-packaging-and-stronger-foundry-business)
-
----
-
-### ⚠️ Trump's tariffs could shutter this Canadian town - its residents are fighting to save it
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: BBC News (2026-10-31T02:39:25Z)
-- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: A century-old paper mill in Témiscaming, Quebec is indefinitely closed after the US imposed 50% tariffs on its products, putting hundreds out of work.
-- [原文連結](https://www.bbc.co.uk/news/articles/cmly016ep243o)
-
----
-
 ### ⚖️ SK hynix reports record Q3 numbers, warns that the memory shortage will last through 2030
 - **題材**: `HBM記憶體` | **重要性**: `60`
 - **來源**: GSMArena.com (2026-10-29T01:02:02Z)
@@ -153,15 +153,6 @@ Better still, the company has margins that we can all be envious o…
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: TSMC is reportedly considering raising prices for its CoWoS (Chip on Wafer on Substrate) advanced packaging by as much as 20%, according to supply chain sources cited by Taiwan's Commercial Times. Foundries and outsourced packaging firms are apparently weighi…
 - [原文連結](https://www.techpowerup.com/354217/tsmc-could-charge-up-to-20-more-for-cowos-packaging-amid-ai-crunch)
-
----
-
-### ⚖️ Nvidia reveals its mega DSX POD modular 'AI factory' — so could the latest Vera Rubin hardware actually help make data centers more energy efficient?
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: TechRadar (2026-10-26T23:35:00Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Nvidia's DSX POD combines Vera Rubin hardware with factory-built containers, promising faster AI data center deployment and reduced installation work.
-- [原文連結](https://www.techradar.com/pro/nvidia-reveals-its-mega-dsx-pod-modular-ai-factory-featuring-the-latest-vera-rubin-hardware-and-a-promise-to-make-data-centers-more-energy-efficient)
 
 ---
 
