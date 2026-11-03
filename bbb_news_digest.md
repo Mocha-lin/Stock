@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-03T03:50:52.072394+00:00
+> 更新時間：2026-11-03T07:23:44.036165+00:00
 
 ### 🚀 Dixon maps AI hardware expansion through Inventec, Gemtek, prospective packaging partners
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
