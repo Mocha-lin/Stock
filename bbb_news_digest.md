@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-03T16:50:50.148889+00:00
+> 更新時間：2026-11-03T19:52:22.686184+00:00
 
 ### 🚀 Dixon maps AI hardware expansion through Inventec, Gemtek, prospective packaging partners
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -82,15 +82,6 @@
 
 ---
 
-### 🚀 SK Hynix bets on high-bandwidth flash to tackle AI memory bottlenecks
-- **題材**: `HBM記憶體` | **重要性**: `68`
-- **來源**: Digitimes (2026-10-28T02:38:42Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: SK Hynix is turning to high-bandwidth flash (HBF) to address growing memory bottlenecks in AI inference, as increasingly complex AI agents generate more data than can be economically stored in high-bandwidth memory (HBM) and DRAM alone.
-- [原文連結](https://www.digitimes.com/news/a20261028VL212/sk-hynix-flash-data-hbm-nand.html)
-
----
-
 ### ⚖️ Nvidia is bankrolling AI accelerator supply chain buildout to reserve production capacity
 - **題材**: `半導體先進製程` | **重要性**: `67`
 - **來源**: Tom's Hardware UK (2026-10-27T11:00:00Z)
@@ -133,6 +124,15 @@
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Someone listed a massive 300-rack AI supercomputer on eBay for $59.7M. Packed with 9,600 A100 GPUs and 4,200 EPYC CPUs, it even ships for free.
 - [原文連結](https://www.tomshardware.com/desktops/servers/it-vendor-lists-massive-usd60-million-ai-cluster-on-ebay-300x-racks-of-decommissioned-gpus-includes-9-600-nvidia-a100-gpus-and-4-200-amd-epyc-cpus-plus-free-shipping)
+
+---
+
+### ⚖️ Why Rolex, Audemars Piguet, and Patek Philippe Dominate the $26.6 Billion Secondary Watch Market
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: Robb Report (2026-11-02T17:00:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Rolex, Patek, and Audemars Piguet make up more than 60 percent of sales on the secondary watch market, according to the Secondary Market Report 2026.
+- [原文連結](http://robbreport.com/style/watch-collector/rolex-patek-audemars-piguet-secondary-watch-market-1238794281/)
 
 ---
 
