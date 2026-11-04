@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-04T16:52:49.308734+00:00
+> 更新時間：2026-11-04T20:06:14.075415+00:00
 
 ### 🚀 Eternal Materials posts record revenue in advanced packaging, precision equipment
 - **題材**: `半導體先進製程` | **重要性**: `83`
