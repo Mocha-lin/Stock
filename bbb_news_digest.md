@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-04T02:55:34.087826+00:00
+> 更新時間：2026-11-04T07:05:57.216555+00:00
 
 ### 🚀 Eternal Materials posts record revenue in advanced packaging, precision equipment
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -64,6 +64,15 @@
 
 ---
 
+### 🚀 Taiwan’s AI stock boom is making early-stage startups a harder sell
+- **題材**: `半導體先進製程` | **重要性**: `70`
+- **來源**: Business Insider (2026-11-03T05:01:01Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Taiwan's AI stock boom could be making it harder for young startups to win their first funding checks.
+- [原文連結](https://www.businessinsider.com/taiwan-stock-exchange-taiex-ai-boom-early-stage-startups-challenges-2026-11#article)
+
+---
+
 ### ⚠️ Sam Altman says it’s better for RAM to be in a data center than on your desk
 - **題材**: `HBM記憶體` | **重要性**: `68`
 - **來源**: The Verge (2026-10-30T20:48:43Z)
@@ -88,6 +97,15 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: SK Hynix said customers are seeking more than twice the high-bandwidth memory (HBM) volume it can currently supply, as moves toward shorter memory stacks reflect supply shortages rather than weakening demand.
 - [原文連結](https://www.digitimes.com/news/a20261028VL222/sk-hynix-hbm-dram-hbm4-manufacturing.html)
+
+---
+
+### ⚖️ Apple Says Even Higher Memory Prices and Siri AI Push Will Weigh On Profits
+- **題材**: `HBM記憶體` | **重要性**: `65`
+- **來源**: Gizmodo.com (2026-11-03T03:25:14Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: In his first earnings call as CEO, John Ternus warned of worsening memory prices.
+- [原文連結](https://gizmodo.com/apple-says-even-higher-memory-prices-and-siri-ai-push-will-weigh-on-profits-2000834048)
 
 ---
 
@@ -138,15 +156,6 @@ Our analysts just identified a stock with the potential to be the next Nvidia. T
 
 ---
 
-### 🚀 SK Hynix bets on high-bandwidth flash to tackle AI memory bottlenecks
-- **題材**: `HBM記憶體` | **重要性**: `63`
-- **來源**: Digitimes (2026-10-28T02:38:42Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: SK Hynix is turning to high-bandwidth flash (HBF) to address growing memory bottlenecks in AI inference, as increasingly complex AI agents generate more data than can be economically stored in high-bandwidth memory (HBM) and DRAM alone.
-- [原文連結](https://www.digitimes.com/news/a20261028VL212/sk-hynix-flash-data-hbm-nand.html)
-
----
-
 ### ⚖️ IT vendor lists massive $60 million AI supercomputer on eBay with 300 racks of decommissioned GPUs
 - **題材**: `AI伺服器` | **重要性**: `62`
 - **來源**: Tom's Hardware UK (2026-10-28T10:30:00Z)
@@ -156,30 +165,22 @@ Our analysts just identified a stock with the potential to be the next Nvidia. T
 
 ---
 
+### ⚖️ 世界のAIデータセンター向けシリコンフォトニクス市場、2034年に146億米ドルへ拡大予測 ― 年平均18.0％成長、生成AIと高速光通信需要が市場を牽引
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: Prtimes.jp (2026-11-03T05:55:36Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: [STRATISTICS MARKET RESEARCH CONSULTING]
+Stratistics Market Research Consulting Pvt Ltd（以下、Stratistics MRC）は、最新の市場調査レポート「Silicon Photonics for AI Data Centers Market Forecasts to 2034 - Global Analysis」を発表しました。...
+- [原文連結](https://prtimes.jp/main/html/rd/p/000000018.000189317.html)
+
+---
+
 ### ⚖️ Why Rolex, Audemars Piguet, and Patek Philippe Dominate the $26.6 Billion Secondary Watch Market
 - **題材**: `光通訊與矽光子` | **重要性**: `60`
 - **來源**: Robb Report (2026-11-02T17:00:00Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Rolex, Patek, and Audemars Piguet make up more than 60 percent of sales on the secondary watch market, according to the Secondary Market Report 2026.
 - [原文連結](http://robbreport.com/style/watch-collector/rolex-patek-audemars-piguet-secondary-watch-market-1238794281/)
-
----
-
-### ⚖️ Bizarre Dell Pro Max Tower T2 workstation pricing quirk makes it cheaper than the Nvidia Blackwell GPU inside it
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: TechRadar (2026-11-02T12:35:09Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: The Dell Pro Max T2 scored 4.5 stars in our tests. By getting the newsletter, it has the same cost as the Nvidia RTX Pro Blackwell 6000 GPU it's equipped with.
-- [原文連結](https://www.techradar.com/pro/bizarre-dell-pro-max-tower-t2-workstation-pricing-quirk-makes-it-cheaper-than-the-nvidia-blackwell-gpu-inside-it)
-
----
-
-### ⚖️ Optical Circuit Switch Technology Built on Low-Loss Silicon Photonics Platform
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: Psiquantum.com (2026-11-02T01:34:16Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: PsiQuantum today unveiled its Optical Circuit Switching (OCS) technology, demonstrating how the company’s advanced, low-loss silicon photonics platform can be applied to some of the most significant scaling challenges facing AI infrastructure.&nbsp;
-- [原文連結](https://www.psiquantum.com/news-import/psiquantum-unveils-optical-circuit-switch-technology-built-on-advanced-low-loss-silicon-photonics-platform)
 
 ---
 

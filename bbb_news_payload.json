@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-11-04T02:55:34.087826+00:00",
+  "generated_at": "2026-11-04T07:05:57.216555+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 75,
@@ -269,6 +269,44 @@
       "reason": "屬「半導體先進製程」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
+      "id": "b5dd9ababc8a3b0a",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "Taiwan’s AI stock boom is making early-stage startups a harder sell",
+      "summary": "Taiwan's AI stock boom could be making it harder for young startups to win their first funding checks.",
+      "original_title": "Taiwan’s AI stock boom is making early-stage startups a harder sell",
+      "url": "https://www.businessinsider.com/taiwan-stock-exchange-taiex-ai-boom-early-stage-startups-challenges-2026-11#article",
+      "source": "Business Insider",
+      "domain": "businessinsider.com",
+      "published_at": "2026-11-03T05:01:01Z",
+      "importance": 70,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
       "id": "8bf2ab2e21a380d5",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -375,6 +413,41 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "b46583a9ecb9928c",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "Apple Says Even Higher Memory Prices and Siri AI Push Will Weigh On Profits",
+      "summary": "In his first earnings call as CEO, John Ternus warned of worsening memory prices.",
+      "original_title": "Apple Says Even Higher Memory Prices and Siri AI Push Will Weigh On Profits",
+      "url": "https://gizmodo.com/apple-says-even-higher-memory-prices-and-siri-ai-push-will-weigh-on-profits-2000834048",
+      "source": "Gizmodo.com",
+      "domain": "gizmodo.com",
+      "published_at": "2026-11-03T03:25:14Z",
+      "importance": 65,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "36f4a71700f901f9",
@@ -558,41 +631,6 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "f745bbe76bd7345b",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "SK Hynix bets on high-bandwidth flash to tackle AI memory bottlenecks",
-      "summary": "SK Hynix is turning to high-bandwidth flash (HBF) to address growing memory bottlenecks in AI inference, as increasingly complex AI agents generate more data than can be economically stored in high-bandwidth memory (HBM) and DRAM alone.",
-      "original_title": "SK Hynix bets on high-bandwidth flash to tackle AI memory bottlenecks",
-      "url": "https://www.digitimes.com/news/a20261028VL212/sk-hynix-flash-data-hbm-nand.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-10-28T02:38:42Z",
-      "importance": 63,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "802fc1089ddce127",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -629,6 +667,44 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "eacba43c17df73a9",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "世界のAIデータセンター向けシリコンフォトニクス市場、2034年に146億米ドルへ拡大予測 ― 年平均18.0％成長、生成AIと高速光通信需要が市場を牽引",
+      "summary": "[STRATISTICS MARKET RESEARCH CONSULTING]\nStratistics Market Research Consulting Pvt Ltd（以下、Stratistics MRC）は、最新の市場調査レポート「Silicon Photonics for AI Data Centers Market Forecasts to 2034 - Global Analysis」を発表しました。...",
+      "original_title": "世界のAIデータセンター向けシリコンフォトニクス市場、2034年に146億米ドルへ拡大予測 ― 年平均18.0％成長、生成AIと高速光通信需要が市場を牽引",
+      "url": "https://prtimes.jp/main/html/rd/p/000000018.000189317.html",
+      "source": "Prtimes.jp",
+      "domain": "prtimes.jp",
+      "published_at": "2026-11-03T05:55:36Z",
+      "importance": 60,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "ce4d08f56ed9832f",
@@ -2206,44 +2282,6 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "fb5e7158d8ad2c8a",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "M6 MacBook Pro Hands On: Non-OLED Macs Live On, for Now",
-      "summary": "What's there to say about a Mac without OLED? More than you might think.",
-      "original_title": "M6 MacBook Pro Hands On: Non-OLED Macs Live On, for Now",
-      "url": "https://gizmodo.com/m6-macbook-pro-hands-on-2000832402",
-      "source": "Gizmodo.com",
-      "domain": "gizmodo.com",
-      "published_at": "2026-10-29T14:15:55Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "c1a126aff1eedaa9",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2356,44 +2394,6 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "dfb9f6c6a8ef1528",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "FADU wants to take the CPU out of AI storage by putting the file system inside the SSD, but the proof won't arrive until 2027",
-      "summary": "FADU's new SSD runs its own file system, so GPUs and DPUs can read files without CPU intervention, but samples won't land until Q3 2027.",
-      "original_title": "FADU wants to take the CPU out of AI storage by putting the file system inside the SSD, but the proof won't arrive until 2027",
-      "url": "https://www.techradar.com/pro/fadu-wants-to-take-the-cpu-out-of-ai-storage-by-putting-the-file-system-inside-the-ssd-but-the-proof-wont-arrive-until-2027",
-      "source": "TechRadar",
-      "domain": "techradar.com",
-      "published_at": "2026-10-29T04:00:00Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "e4c0a7d19a23f122",
