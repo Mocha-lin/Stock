@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-04T07:05:57.216555+00:00
+> 更新時間：2026-11-04T16:52:49.308734+00:00
 
 ### 🚀 Eternal Materials posts record revenue in advanced packaging, precision equipment
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -16,15 +16,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Dixon Technologies is pursuing separate partnerships for servers, optical communications, and advanced semiconductor packaging as it seeks a role in AI infrastructure manufacturing, although its most ambitious silicon-photonics plans remain at the evaluation …
 - [原文連結](https://www.digitimes.com/news/a20261102VL203/dixon-packaging-gemtek-inventec-hardware.html)
-
----
-
-### ⚠️ Sam Altman meets with Samsung leadership to secure more RAM for data centers amid crushing shortages
-- **題材**: `HBM記憶體` | **重要性**: `77`
-- **來源**: Tom's Hardware UK (2026-11-01T14:21:23Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: OpenAI CEO Sam Altman met with around 50 Samsung executives in South Korea on October 31 to discuss AI's future, business opportunities and the technology's impact on corporate operations. The meeting comes as demand for memory chips grows alongside AI infras…
-- [原文連結](https://www.tomshardware.com/tech-industry/data-centers/sam-altman-travels-to-south-korea-to-meet-samsung-leadership-to-secure-more-ram-for-data-centers-amid-crushing-shortages-openai-ceo-meets-samsung-leadership-to-discuss-future-ai-data-centers)
 
 ---
 
@@ -52,6 +43,15 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Rising demand for high-end AI chips is accelerating Powertech's transformation into an advanced packaging strategic partner. Powertech said its utilization rate exceeded 90% in the third quarter of 2026 and is expected to rise further in the fourth quarter as…
 - [原文連結](https://www.digitimes.com/news/a20261028PD225/powertech-demand-packaging-growth-revenue.html)
+
+---
+
+### ⚠️ Sam Altman meets with Samsung leadership to secure more RAM for data centers amid crushing shortages
+- **題材**: `HBM記憶體` | **重要性**: `72`
+- **來源**: Tom's Hardware UK (2026-11-01T14:21:23Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: OpenAI CEO Sam Altman met with around 50 Samsung executives in South Korea on October 31 to discuss AI's future, business opportunities and the technology's impact on corporate operations. The meeting comes as demand for memory chips grows alongside AI infras…
+- [原文連結](https://www.tomshardware.com/tech-industry/data-centers/sam-altman-travels-to-south-korea-to-meet-samsung-leadership-to-secure-more-ram-for-data-centers-amid-crushing-shortages-openai-ceo-meets-samsung-leadership-to-discuss-future-ai-data-centers)
 
 ---
 
@@ -88,15 +88,6 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Kinsus Interconnect Technology is exploring aluminum nitride (AlN) ceramics as a core material for substrates used in large-scale advanced packaging, seeking an alternative to glass amid ongoing brittleness and reliability challenges, according to R&D vice pr…
 - [原文連結](https://www.digitimes.com/news/a20261028PD217/packaging-kinsus-substrate-aluminum-materials.html)
-
----
-
-### ⚠️ SK Hynix says customers want more than twice the HBM it can supply
-- **題材**: `HBM記憶體` | **重要性**: `68`
-- **來源**: Digitimes (2026-10-28T15:18:23Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: SK Hynix said customers are seeking more than twice the high-bandwidth memory (HBM) volume it can currently supply, as moves toward shorter memory stacks reflect supply shortages rather than weakening demand.
-- [原文連結](https://www.digitimes.com/news/a20261028VL222/sk-hynix-hbm-dram-hbm4-manufacturing.html)
 
 ---
 
@@ -138,15 +129,6 @@ Our analysts just identified a stock with the potential to be the next Nvidia. T
 
 ---
 
-### 🚀 Kospi surges 7% as SK Hynix earnings fuel AI stock rebound
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: CoinDesk (2026-10-28T09:59:25Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: South Korean chipmakers led a broader AI recovery after SK Hynix reported a sevenfold profit surge and announced another $45 billion in shareholder returns.
-- [原文連結](https://www.coindesk.com/markets/2026/10/28/kospi-surges-7-as-sk-hynix-earnings-fuel-ai-stock-rebound)
-
----
-
 ### ⚖️ SK Hynix taps HBM veteran to lead new American unit
 - **題材**: `HBM記憶體` | **重要性**: `63`
 - **來源**: Digitimes (2026-10-30T08:48:07Z)
@@ -156,12 +138,45 @@ Our analysts just identified a stock with the potential to be the next Nvidia. T
 
 ---
 
-### ⚖️ IT vendor lists massive $60 million AI supercomputer on eBay with 300 racks of decommissioned GPUs
-- **題材**: `AI伺服器` | **重要性**: `62`
-- **來源**: Tom's Hardware UK (2026-10-28T10:30:00Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Someone listed a massive 300-rack AI supercomputer on eBay for $59.7M. Packed with 9,600 A100 GPUs and 4,200 EPYC CPUs, it even ships for free.
-- [原文連結](https://www.tomshardware.com/desktops/servers/it-vendor-lists-massive-usd60-million-ai-cluster-on-ebay-300x-racks-of-decommissioned-gpus-includes-9-600-nvidia-a100-gpus-and-4-200-amd-epyc-cpus-plus-free-shipping)
+### ⚠️ SK Hynix says customers want more than twice the HBM it can supply
+- **題材**: `HBM記憶體` | **重要性**: `63`
+- **來源**: Digitimes (2026-10-28T15:18:23Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: SK Hynix said customers are seeking more than twice the high-bandwidth memory (HBM) volume it can currently supply, as moves toward shorter memory stacks reflect supply shortages rather than weakening demand.
+- [原文連結](https://www.digitimes.com/news/a20261028VL222/sk-hynix-hbm-dram-hbm4-manufacturing.html)
+
+---
+
+### 🚀 iPhone 18 Rumored to Get Larger Battery and Potential Price Increase
+- **題材**: `半導體先進製程` | **重要性**: `60`
+- **來源**: MacRumors (2026-11-03T15:50:21Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Apple's upcoming iPhone 18 will feature a larger battery and potentially a higher price, according to the leaker known as "Digital Chat Station."
+
+
+
+
+
+In a new post on Weibo today, the leaker claimed that the standard ‌iPhone 18‌ will continue to feature a hi…
+- [原文連結](https://www.macrumors.com/2026/11/03/iphone-18-rumored-to-get-larger-battery/)
+
+---
+
+### 🚀 Davies hamstring injury deepens Cardiff crisis
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: BBC News (2026-11-03T11:02:06Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Isaak Davies becomes the latest player to be added to Cardiff City's growing list of injuries, with a hamstring issue ruling him out for four weeks.
+- [原文連結](https://www.bbc.co.uk/sport/football/articles/ck87znw5q9q0o)
+
+---
+
+### 🚀 Elon Musk, angry voters, and the AI backlash: What's at stake in the 2026 midterms
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Business Insider (2026-11-03T11:01:50Z)
+- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: From inflation and AI backlash to Elon Musk's record spending on Republicans, here's what's at stake in the 2026 midterm elections.
+- [原文連結](https://www.businessinsider.com/2026-midterms-elon-musk-tech-ai-economy-2026-11#article)
 
 ---
 
@@ -172,15 +187,6 @@ Our analysts just identified a stock with the potential to be the next Nvidia. T
 - **摘要**: [STRATISTICS MARKET RESEARCH CONSULTING]
 Stratistics Market Research Consulting Pvt Ltd（以下、Stratistics MRC）は、最新の市場調査レポート「Silicon Photonics for AI Data Centers Market Forecasts to 2034 - Global Analysis」を発表しました。...
 - [原文連結](https://prtimes.jp/main/html/rd/p/000000018.000189317.html)
-
----
-
-### ⚖️ Why Rolex, Audemars Piguet, and Patek Philippe Dominate the $26.6 Billion Secondary Watch Market
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: Robb Report (2026-11-02T17:00:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Rolex, Patek, and Audemars Piguet make up more than 60 percent of sales on the secondary watch market, according to the Secondary Market Report 2026.
-- [原文連結](http://robbreport.com/style/watch-collector/rolex-patek-audemars-piguet-secondary-watch-market-1238794281/)
 
 ---
 
