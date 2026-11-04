@@ -1,5 +1,14 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-03T19:52:22.686184+00:00
+> 更新時間：2026-11-04T02:55:34.087826+00:00
+
+### 🚀 Eternal Materials posts record revenue in advanced packaging, precision equipment
+- **題材**: `半導體先進製程` | **重要性**: `83`
+- **來源**: Digitimes (2026-10-30T01:28:25Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Eternal Materials posted earnings before taxes (EBT) of NT$388 million (approx. US$11.92 million) in September 2026, surging 158.28% year-over-year and up 44.47% from August, as revenue from semiconductor advanced packaging materials and precision equipment b…
+- [原文連結](https://www.digitimes.com/news/a20261029PD249/eternal-materials-revenue-equipment-packaging-materials.html)
+
+---
 
 ### 🚀 Dixon maps AI hardware expansion through Inventec, Gemtek, prospective packaging partners
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
@@ -37,12 +46,12 @@
 
 ---
 
-### 🚀 OPTOELEC seeks AI data center orders as Himax advances CPO optics
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-10-27T01:52:39Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: South Korean optics maker Optoelec is seeing growing interest from AI data center customers as it seeks to expand its wafer-level optics (WLO) business into high-speed optical communications, a market where Taiwanese suppliers are already moving toward commer…
-- [原文連結](https://www.digitimes.com/news/a20261024VL202/optics-cpo-data-center-himax-production.html)
+### 🚀 Powertech shifts to advanced packaging as AI demand drives growth
+- **題材**: `半導體先進製程` | **重要性**: `73`
+- **來源**: Digitimes (2026-10-28T23:53:14Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Rising demand for high-end AI chips is accelerating Powertech's transformation into an advanced packaging strategic partner. Powertech said its utilization rate exceeded 90% in the third quarter of 2026 and is expected to rise further in the fourth quarter as…
+- [原文連結](https://www.digitimes.com/news/a20261028PD225/powertech-demand-packaging-growth-revenue.html)
 
 ---
 
@@ -82,12 +91,23 @@
 
 ---
 
-### ⚖️ Nvidia is bankrolling AI accelerator supply chain buildout to reserve production capacity
-- **題材**: `半導體先進製程` | **重要性**: `67`
-- **來源**: Tom's Hardware UK (2026-10-27T11:00:00Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Nvidia is committing billions to expand substrate, co-packaged optics, advanced packaging, and chip-testing capacity through 2028, reserving capacity at nearly every stage of its AI accelerator supply chain.
-- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/nvidia-is-bankrolling-ai-accelerator-supply-chain-buildout-to-reserve-production-capacity-announces-billion-dollar-deals-with-six-major-suppliers-across-substrates-advanced-packaging-semiconductor-testing-and-optical-engines)
+### ⚖️ Apple says it's 'really hard' to predict when iPhone Duo supply will catch up to demand
+- **題材**: `HBM記憶體` | **重要性**: `65`
+- **來源**: Business Insider (2026-11-03T00:48:53Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Apple's chief operating officer said during Monday's earnings call that "it's really hard to predict when supply and demand will be in balance."
+- [原文連結](https://www.businessinsider.com/apple-iphone-duo-supply-demand-earnings-2026-11#article)
+
+---
+
+### 🚀 Tower Semiconductor Ltd. Q3 2026 Earnings Call Summary
+- **題材**: `光通訊與矽光子` | **重要性**: `65`
+- **來源**: Biztoc.com (2026-11-02T22:59:31Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Strategic Growth Drivers and Operational Execution
+Our analysts just identified a stock with the potential to be the next Nvidia. Tell us how you invest and we'll show you why it's our #1 pick. Tap here.
+- Growth is primarily driven by silicon photonics (SiPh…
+- [原文連結](https://biztoc.com/x/28acc90f514c3026)
 
 ---
 
@@ -118,6 +138,15 @@
 
 ---
 
+### 🚀 SK Hynix bets on high-bandwidth flash to tackle AI memory bottlenecks
+- **題材**: `HBM記憶體` | **重要性**: `63`
+- **來源**: Digitimes (2026-10-28T02:38:42Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: SK Hynix is turning to high-bandwidth flash (HBF) to address growing memory bottlenecks in AI inference, as increasingly complex AI agents generate more data than can be economically stored in high-bandwidth memory (HBM) and DRAM alone.
+- [原文連結](https://www.digitimes.com/news/a20261028VL212/sk-hynix-flash-data-hbm-nand.html)
+
+---
+
 ### ⚖️ IT vendor lists massive $60 million AI supercomputer on eBay with 300 racks of decommissioned GPUs
 - **題材**: `AI伺服器` | **重要性**: `62`
 - **來源**: Tom's Hardware UK (2026-10-28T10:30:00Z)
@@ -136,32 +165,21 @@
 
 ---
 
+### ⚖️ Bizarre Dell Pro Max Tower T2 workstation pricing quirk makes it cheaper than the Nvidia Blackwell GPU inside it
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: TechRadar (2026-11-02T12:35:09Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: The Dell Pro Max T2 scored 4.5 stars in our tests. By getting the newsletter, it has the same cost as the Nvidia RTX Pro Blackwell 6000 GPU it's equipped with.
+- [原文連結](https://www.techradar.com/pro/bizarre-dell-pro-max-tower-t2-workstation-pricing-quirk-makes-it-cheaper-than-the-nvidia-blackwell-gpu-inside-it)
+
+---
+
 ### ⚖️ Optical Circuit Switch Technology Built on Low-Loss Silicon Photonics Platform
 - **題材**: `光通訊與矽光子` | **重要性**: `60`
 - **來源**: Psiquantum.com (2026-11-02T01:34:16Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: PsiQuantum today unveiled its Optical Circuit Switching (OCS) technology, demonstrating how the company’s advanced, low-loss silicon photonics platform can be applied to some of the most significant scaling challenges facing AI infrastructure.&nbsp;
 - [原文連結](https://www.psiquantum.com/news-import/psiquantum-unveils-optical-circuit-switch-technology-built-on-advanced-low-loss-silicon-photonics-platform)
-
----
-
-### ⚖️ SK hynix reports record Q3 numbers, warns that the memory shortage will last through 2030
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: GSMArena.com (2026-10-29T01:02:02Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: SK hynix had a stellar quarter – the financial report for Q3 reports revenues of KRW 104.6 trillion. This is the first time that the quarterly sales have gone above the KRW 100 trillion mark.
-
-Better still, the company has margins that we can all be envious o…
-- [原文連結](https://www.gsmarena.com/sk_hynix_reports_record_q3_numbers_warns_that_the_memory_shortage_will_last_through_2030-news-75249.php)
-
----
-
-### ⚖️ TSMC Could Charge Up to 20% More for CoWoS Packaging Amid AI Crunch
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: Techpowerup.com (2026-10-28T12:06:41Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: TSMC is reportedly considering raising prices for its CoWoS (Chip on Wafer on Substrate) advanced packaging by as much as 20%, according to supply chain sources cited by Taiwan's Commercial Times. Foundries and outsourced packaging firms are apparently weighi…
-- [原文連結](https://www.techpowerup.com/354217/tsmc-could-charge-up-to-20-more-for-cowos-packaging-amid-ai-crunch)
 
 ---
 

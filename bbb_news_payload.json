@@ -1,10 +1,48 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-11-03T19:52:22.686184+00:00",
+  "generated_at": "2026-11-04T02:55:34.087826+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
-  "total_count": 73,
+  "total_count": 75,
   "items": [
+    {
+      "id": "e5415c41e6be07d3",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "Eternal Materials posts record revenue in advanced packaging, precision equipment",
+      "summary": "Eternal Materials posted earnings before taxes (EBT) of NT$388 million (approx. US$11.92 million) in September 2026, surging 158.28% year-over-year and up 44.47% from August, as revenue from semiconductor advanced packaging materials and precision equipment b…",
+      "original_title": "Eternal Materials posts record revenue in advanced packaging, precision equipment",
+      "url": "https://www.digitimes.com/news/a20261029PD249/eternal-materials-revenue-equipment-packaging-materials.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-10-30T01:28:25Z",
+      "importance": 83,
+      "impact": "positive",
+      "timeframe": "short_to_mid_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
     {
       "id": "3a246ef165d569ca",
       "dataset": "market_news",
@@ -155,32 +193,32 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
-      "id": "4bde6c0ee8ecc6e3",
+      "id": "6d2d6b6905e94b38",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "OPTOELEC seeks AI data center orders as Himax advances CPO optics",
-      "summary": "South Korean optics maker Optoelec is seeing growing interest from AI data center customers as it seeks to expand its wafer-level optics (WLO) business into high-speed optical communications, a market where Taiwanese suppliers are already moving toward commer…",
-      "original_title": "OPTOELEC seeks AI data center orders as Himax advances CPO optics",
-      "url": "https://www.digitimes.com/news/a20261024VL202/optics-cpo-data-center-himax-production.html",
+      "theme": "半導體先進製程",
+      "title": "Powertech shifts to advanced packaging as AI demand drives growth",
+      "summary": "Rising demand for high-end AI chips is accelerating Powertech's transformation into an advanced packaging strategic partner. Powertech said its utilization rate exceeded 90% in the third quarter of 2026 and is expected to rise further in the fourth quarter as…",
+      "original_title": "Powertech shifts to advanced packaging as AI demand drives growth",
+      "url": "https://www.digitimes.com/news/a20261028PD225/powertech-demand-packaging-growth-revenue.html",
       "source": "Digitimes",
       "domain": "digitimes.com",
-      "published_at": "2026-10-27T01:52:39Z",
+      "published_at": "2026-10-28T23:53:14Z",
       "importance": 73,
       "impact": "positive",
       "timeframe": "short_term",
       "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
+        "半導體",
+        "CoWoS",
+        "先進製程"
       ],
       "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
       ],
       "related_models": [
         "003",
@@ -190,7 +228,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+      "reason": "屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "d0a98f05434b23e6",
@@ -339,32 +377,29 @@
       "reason": "屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "c45459c265915c4c",
+      "id": "36f4a71700f901f9",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "Nvidia is bankrolling AI accelerator supply chain buildout to reserve production capacity",
-      "summary": "Nvidia is committing billions to expand substrate, co-packaged optics, advanced packaging, and chip-testing capacity through 2028, reserving capacity at nearly every stage of its AI accelerator supply chain.",
-      "original_title": "Nvidia is bankrolling AI accelerator supply chain buildout to reserve production capacity",
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/nvidia-is-bankrolling-ai-accelerator-supply-chain-buildout-to-reserve-production-capacity-announces-billion-dollar-deals-with-six-major-suppliers-across-substrates-advanced-packaging-semiconductor-testing-and-optical-engines",
-      "source": "Tom's Hardware UK",
-      "domain": "tomshardware.com",
-      "published_at": "2026-10-27T11:00:00Z",
-      "importance": 67,
+      "theme": "HBM記憶體",
+      "title": "Apple says it's 'really hard' to predict when iPhone Duo supply will catch up to demand",
+      "summary": "Apple's chief operating officer said during Monday's earnings call that \"it's really hard to predict when supply and demand will be in balance.\"",
+      "original_title": "Apple says it's 'really hard' to predict when iPhone Duo supply will catch up to demand",
+      "url": "https://www.businessinsider.com/apple-iphone-duo-supply-demand-earnings-2026-11#article",
+      "source": "Business Insider",
+      "domain": "businessinsider.com",
+      "published_at": "2026-11-03T00:48:53Z",
+      "importance": 65,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
+        "HBM",
+        "記憶體"
       ],
       "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
       ],
       "related_models": [
         "003",
@@ -374,7 +409,45 @@
         "009",
         "010"
       ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "88783423cf3a2db3",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "Tower Semiconductor Ltd. Q3 2026 Earnings Call Summary",
+      "summary": "Strategic Growth Drivers and Operational Execution\nOur analysts just identified a stock with the potential to be the next Nvidia. Tell us how you invest and we'll show you why it's our #1 pick. Tap here.\n- Growth is primarily driven by silicon photonics (SiPh…",
+      "original_title": "Tower Semiconductor Ltd. Q3 2026 Earnings Call Summary",
+      "url": "https://biztoc.com/x/28acc90f514c3026",
+      "source": "Biztoc.com",
+      "domain": "biztoc.com",
+      "published_at": "2026-11-02T22:59:31Z",
+      "importance": 65,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "2af07b8ada62485f",
@@ -485,6 +558,41 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "f745bbe76bd7345b",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "SK Hynix bets on high-bandwidth flash to tackle AI memory bottlenecks",
+      "summary": "SK Hynix is turning to high-bandwidth flash (HBF) to address growing memory bottlenecks in AI inference, as increasingly complex AI agents generate more data than can be economically stored in high-bandwidth memory (HBM) and DRAM alone.",
+      "original_title": "SK Hynix bets on high-bandwidth flash to tackle AI memory bottlenecks",
+      "url": "https://www.digitimes.com/news/a20261028VL212/sk-hynix-flash-data-hbm-nand.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-10-28T02:38:42Z",
+      "importance": 63,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "802fc1089ddce127",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -561,6 +669,44 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "2ca33d7f42aadd14",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Bizarre Dell Pro Max Tower T2 workstation pricing quirk makes it cheaper than the Nvidia Blackwell GPU inside it",
+      "summary": "The Dell Pro Max T2 scored 4.5 stars in our tests. By getting the newsletter, it has the same cost as the Nvidia RTX Pro Blackwell 6000 GPU it's equipped with.",
+      "original_title": "Bizarre Dell Pro Max Tower T2 workstation pricing quirk makes it cheaper than the Nvidia Blackwell GPU inside it",
+      "url": "https://www.techradar.com/pro/bizarre-dell-pro-max-tower-t2-workstation-pricing-quirk-makes-it-cheaper-than-the-nvidia-blackwell-gpu-inside-it",
+      "source": "TechRadar",
+      "domain": "techradar.com",
+      "published_at": "2026-11-02T12:35:09Z",
+      "importance": 60,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "484df3cbfc3d72eb",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -597,6 +743,44 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "fd8e32a1104f6aef",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "Samsung announces another record-breaking quarter, driven by its memory business",
+      "summary": "Samsung Electronics just announced another all-time high quarterly result – revenue grew by 14% quarter-on-quarter (compared to Q3). The press release claims that Samsung Electronics is the world’s first tech company to exceed KRW 100 trillion in quarterly op…",
+      "original_title": "Samsung announces another record-breaking quarter, driven by its memory business",
+      "url": "https://www.gsmarena.com/samsung_announces_another_recordbreaking_quarter_driven_by_its_memory_business-news-75291.php",
+      "source": "GSMArena.com",
+      "domain": "gsmarena.com",
+      "published_at": "2026-10-30T18:31:02Z",
+      "importance": 60,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "5f8ffc9b9ff3c8bd",
@@ -708,6 +892,82 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "f4a9c6250bc1f136",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "The Vera Rubin Has Found Two More of the Milky Way's Dim Satellites",
+      "summary": "The Vera Rubin Observatory has detected two more of the Milky Ways' dim, hard to see satellites. One is an ultra-faint dwarf galaxy, and one is a globular cluster. Each one is a missing piece of the puzzle in the Milky Way's merger history. By finding more of…",
+      "original_title": "The Vera Rubin Has Found Two More of the Milky Way's Dim Satellites",
+      "url": "https://www.universetoday.com/articles/the-vera-rubin-has-found-two-more-of-the-milky-ways-dim-satellites",
+      "source": "Universe Today",
+      "domain": "universetoday.com",
+      "published_at": "2026-11-03T01:33:59Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "d60739c0d72f06c8",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "How do midterm candidates plan to fight inflation? Economists evaluate proposals",
+      "summary": "Proposals include tax cuts and an end to the Iran war.",
+      "original_title": "How do midterm candidates plan to fight inflation? Economists evaluate proposals",
+      "url": "https://abcnews.com/Business/midterm-candidates-plan-fight-inflation-economists-evaluate-proposals/story?id=137570780",
+      "source": "Abcnews.com",
+      "domain": "abcnews.com",
+      "published_at": "2026-11-02T21:22:59Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "225d5c870c5b2186",
@@ -895,44 +1155,6 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "24036139718510af",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Nvidia forced to dial back key bandwidth targets on Vera Rubin hardware — tweaks will affect target specifications for memory and interconnect fabric",
-      "summary": "HBM4 bandwidth dropped 13% while NVLink dropped 17%, and it took six weeks for anyone to notice.",
-      "original_title": "Nvidia forced to dial back key bandwidth targets on Vera Rubin hardware — tweaks will affect target specifications for memory and interconnect fabric",
-      "url": "https://www.techradar.com/pro/nvidia-forced-to-dial-back-key-bandwidth-targets-on-vera-rubin-hardware-tweaks-will-affect-target-specifications-for-memory-and-interconnect-fabric",
-      "source": "TechRadar",
-      "domain": "techradar.com",
-      "published_at": "2026-10-31T20:35:00Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "7295c6fce771fa30",
@@ -1198,6 +1420,44 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "dd8f70d315fcb96b",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "Taiwan Plans $4 Billion Texas Industrial Park to Serve Nvidia, TSMC Suppliers",
+      "summary": "Taiwan’s Ministry of Economic Affairs announced plans for an industrial park in Texas that would cost between $2 billion and $4 billion to build, according to a statement from the ministry [1]. The facility is intended to host smaller Taiwanese suppliers that…",
+      "original_title": "Taiwan Plans $4 Billion Texas Industrial Park to Serve Nvidia, TSMC Suppliers",
+      "url": "https://www.naturalnews.com/2026-10-30-taiwan-plans-texas-industrial-park-serve-nvidia.html",
+      "source": "Naturalnews.com",
+      "domain": "naturalnews.com",
+      "published_at": "2026-10-30T06:00:00Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "e18357f5423f039a",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1455,56 +1715,18 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "c88ebc30d9cf39b4",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "etalon-photonics 0.2.0",
-      "summary": "Etalon — an open-source silicon photonics design toolkit: material models, waveguide mode solvers, S-matrix photonic circuit simulation, optical link budgets for AI-datacenter interconnects (co-packaged optics, pluggables), and Monte Carlo yield analysis for …",
-      "original_title": "etalon-photonics 0.2.0",
-      "url": "https://pypi.org/project/etalon-photonics/0.2.0/",
-      "source": "Pypi.org",
-      "domain": "pypi.org",
-      "published_at": "2026-10-27T22:07:40Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "e6af47eb662d19d5",
+      "id": "24036139718510af",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "AI伺服器",
-      "title": "Big Red gets cozy with Google to offer TPUs to AI customers",
-      "summary": "Oracle plans to add those chips alongside new Nvidia hardware and OpenAI services as businesses await AI payoffs",
-      "original_title": "Big Red gets cozy with Google to offer TPUs to AI customers",
-      "url": "https://www.theregister.com/ai-and-ml/2026/10/27/big-red-gets-cozy-with-google-to-offer-tpus-to-ai-customers/5305846",
-      "source": "Theregister.com",
-      "domain": "theregister.com",
-      "published_at": "2026-10-27T20:20:27Z",
-      "importance": 55,
+      "title": "Nvidia forced to dial back key bandwidth targets on Vera Rubin hardware — tweaks will affect target specifications for memory and interconnect fabric",
+      "summary": "HBM4 bandwidth dropped 13% while NVLink dropped 17%, and it took six weeks for anyone to notice.",
+      "original_title": "Nvidia forced to dial back key bandwidth targets on Vera Rubin hardware — tweaks will affect target specifications for memory and interconnect fabric",
+      "url": "https://www.techradar.com/pro/nvidia-forced-to-dial-back-key-bandwidth-targets-on-vera-rubin-hardware-tweaks-will-affect-target-specifications-for-memory-and-interconnect-fabric",
+      "source": "TechRadar",
+      "domain": "techradar.com",
+      "published_at": "2026-10-31T20:35:00Z",
+      "importance": 50,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -1529,6 +1751,44 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "ce3e5402b1b64a73",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "Motorola Signature 27 flexes muscle on Geekbench ahead of November 5 launch",
+      "summary": "Motorola announced the Signature 27 in September at the Snapdragon Summit, where Qualcomm introduced the Snapdragon 8 Elite Gen 6 and Snapdragon 8 Elite Extreme Gen 6 chips. The Signature 27, slated to launch on November 5, will be powered by the 2nm Snapdrag…",
+      "original_title": "Motorola Signature 27 flexes muscle on Geekbench ahead of November 5 launch",
+      "url": "https://www.gsmarena.com/motorola_signature_27_key_specs_geekbench-news-75301.php",
+      "source": "GSMArena.com",
+      "domain": "gsmarena.com",
+      "published_at": "2026-10-31T15:31:02Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "68ed68dcfb216e89",
@@ -1870,6 +2130,44 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "44e1072701aef4f0",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "iPhone Air 2 specs surface again in new leak",
+      "summary": "The iPhone Air 2 is expected to launch alongside the iPhone 18 and iPhone 18e next spring. While recent rumours have pointed to a slimmer design and dual-rear cameras, a new leak has once again detailed the main specs.\n\nWell-known tipster Digital Chat Station…",
+      "original_title": "iPhone Air 2 specs surface again in new leak",
+      "url": "https://www.gsmarena.com/iphone_air_2_specs_surface_again_in_new_leak-news-75274.php",
+      "source": "GSMArena.com",
+      "domain": "gsmarena.com",
+      "published_at": "2026-10-30T01:01:01Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "3ae93214fb47357a",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1906,6 +2204,82 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "fb5e7158d8ad2c8a",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "M6 MacBook Pro Hands On: Non-OLED Macs Live On, for Now",
+      "summary": "What's there to say about a Mac without OLED? More than you might think.",
+      "original_title": "M6 MacBook Pro Hands On: Non-OLED Macs Live On, for Now",
+      "url": "https://gizmodo.com/m6-macbook-pro-hands-on-2000832402",
+      "source": "Gizmodo.com",
+      "domain": "gizmodo.com",
+      "published_at": "2026-10-29T14:15:55Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "c1a126aff1eedaa9",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "With days to go before the midterms, data shows the U.S. economy is doing well",
+      "summary": "GDP grew at an annual rate of 3.4% in the third quarter in the last major read on the economy ahead of the midterm elections — but many Americans continue to struggle with affordability.",
+      "original_title": "With days to go before the midterms, data shows the U.S. economy is doing well",
+      "url": "https://www.npr.org/2026/10/29/nx-s1-6021008/economy-gdp-inflation-midterms-voters-affordability",
+      "source": "NPR",
+      "domain": "npr.org",
+      "published_at": "2026-10-29T13:05:03Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "fe2ee4c8fc939b4a",
@@ -1984,6 +2358,82 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "dfb9f6c6a8ef1528",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "FADU wants to take the CPU out of AI storage by putting the file system inside the SSD, but the proof won't arrive until 2027",
+      "summary": "FADU's new SSD runs its own file system, so GPUs and DPUs can read files without CPU intervention, but samples won't land until Q3 2027.",
+      "original_title": "FADU wants to take the CPU out of AI storage by putting the file system inside the SSD, but the proof won't arrive until 2027",
+      "url": "https://www.techradar.com/pro/fadu-wants-to-take-the-cpu-out-of-ai-storage-by-putting-the-file-system-inside-the-ssd-but-the-proof-wont-arrive-until-2027",
+      "source": "TechRadar",
+      "domain": "techradar.com",
+      "published_at": "2026-10-29T04:00:00Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "e4c0a7d19a23f122",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "World's largest digital camera snaps new world beyond Pluto",
+      "summary": "Space was so much simpler when I was a kid. Back in the 1980s, we still hoped to find habitable planets around every star. Nine planets orbited our own Sun. And “dwarf planet” sounded like a Saturday morning cartoon begging for its own toy line.Continue Readi…",
+      "original_title": "World's largest digital camera snaps new world beyond Pluto",
+      "url": "https://newatlas.com/space/largest-camera-new-world-beyond-pluto/",
+      "source": "New Atlas",
+      "domain": "newatlas.com",
+      "published_at": "2026-10-29T03:47:00Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "02a24f22c784f4d0",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1995,6 +2445,44 @@
       "source": "Prtimes.jp",
       "domain": "prtimes.jp",
       "published_at": "2026-10-29T01:40:51Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "87bcbb99faa504e6",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "HRTechカンファレンス 2026（ラスベガス）出展レポートを速報公開。出展企業解析と、日本企業にとって「本当に価値のあるHRテクノロジー」と「気をつけるべきポイント」を詳細解説",
+      "summary": "[freecracy]\n[画像1: https://prcdn.freetls.fastly.net/release_image/37201/29/37201-29-c4ccdc7a5fd31bce2f9fe511f217af0c-2206x1654.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...",
+      "original_title": "HRTechカンファレンス 2026（ラスベガス）出展レポートを速報公開。出展企業解析と、日本企業にとって「本当に価値のあるHRテクノロジー」と「気をつけるべきポイント」を詳細解説",
+      "url": "https://prtimes.jp/main/html/rd/p/000000029.000037201.html",
+      "source": "Prtimes.jp",
+      "domain": "prtimes.jp",
+      "published_at": "2026-10-29T00:40:45Z",
       "importance": 50,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -2296,380 +2784,6 @@
       "source": "Gizmodo.com",
       "domain": "gizmodo.com",
       "published_at": "2026-10-28T00:47:33Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "6e8b0af3c688c2a8",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "Apple’s new M6 iMac is faster, not different",
-      "summary": "Apple's October has turned into a full-on home makeover. First came HomeView, a $299 smart display for the kitchen with a generous helping of iMac nostalgia baked into its design. Now the iMac itself is back with the M6 chip, which feels a bit like the origin…",
-      "original_title": "Apple’s new M6 iMac is faster, not different",
-      "url": "https://www.yankodesign.com/2026/10/27/apples-new-m6-imac-is-faster-not-different/",
-      "source": "Yanko Design",
-      "domain": "yankodesign.com",
-      "published_at": "2026-10-27T21:30:48Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "db2e3ea80a96fac4",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "The Vera C. Rubin Observatory may have just discovered our solar system’s sixth dwarf planet",
-      "summary": "Located farther away from Earth than Pluto, the object was hidden in the light of the Milky Way’s stars",
-      "original_title": "The Vera C. Rubin Observatory may have just discovered our solar system’s sixth dwarf planet",
-      "url": "https://www.scientificamerican.com/article/the-vera-c-rubin-observatory-may-have-just-discovered-our-solar-systems-sixth-dwarf-planet/",
-      "source": "Scientific American",
-      "domain": "scientificamerican.com",
-      "published_at": "2026-10-27T21:00:00Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "88c4f17a6c1f4c01",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "Apple just launched a MacBook Pro 24-hours before its MacBook Pro event",
-      "summary": "https://youtu.be/vT-o5hh1cVc On Monday, the day the new iPad mini landed, I begged John Ternus to take a break. On Tuesday morning, Apple responded by dropping a brand-new 14-inch MacBook Pro with the M6 chip, roughly 24 hours before its Pro and Tell event in…",
-      "original_title": "Apple just launched a MacBook Pro 24-hours before its MacBook Pro event",
-      "url": "https://www.yankodesign.com/2026/10/27/apple-just-launched-a-macbook-pro-24-hours-before-its-macbook-pro-event/",
-      "source": "Yanko Design",
-      "domain": "yankodesign.com",
-      "published_at": "2026-10-27T20:30:44Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "b5db2e4b356b9576",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "M5 vs. M6 MacBook Pro Buyer's Guide: All Differences Compared",
-      "summary": "Apple today replaced the entry-level 14-inch MacBook Pro with a new M6 model, bringing more CPU and GPU cores, upgraded wireless connectivity, and more. How much has changed, and is it worth upgrading or choosing the newer model?\n\n\n\n\n\n\n\nThe M6 ‌MacBook Pro‌ r…",
-      "original_title": "M5 vs. M6 MacBook Pro Buyer's Guide: All Differences Compared",
-      "url": "https://www.macrumors.com/guide/m5-vs-m6-macbook-pro/",
-      "source": "MacRumors",
-      "domain": "macrumors.com",
-      "published_at": "2026-10-27T15:42:54Z",
-      "importance": 50,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "f159e91d5413336a",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "M4 vs. M6 iMac Buyer's Guide: Should You Upgrade?",
-      "summary": "Apple's latest iMac skips the M5 chip and moves directly to the M6, bringing faster performance, improved connectivity, and faster storage. So how much has changed since the M4 model arrived in 2024, and is it worth upgrading?\n\n\n\n\n\nThe M6 iMac starts at $1,49…",
-      "original_title": "M4 vs. M6 iMac Buyer's Guide: Should You Upgrade?",
-      "url": "https://www.macrumors.com/guide/m4-vs-m6-imac/",
-      "source": "MacRumors",
-      "domain": "macrumors.com",
-      "published_at": "2026-10-27T15:30:15Z",
-      "importance": 50,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "d6c651842e17584c",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "Amazon weighed ‘difficult trade-offs’ as memory costs squeezed its devices business, internal document shows",
-      "summary": "Amazon forecast a $612 million gross loss for its own devices as rising memory costs squeeze hardware margins, internal document shows.",
-      "original_title": "Amazon weighed ‘difficult trade-offs’ as memory costs squeezed its devices business, internal document shows",
-      "url": "https://www.businessinsider.com/amazon-alexia-memory-chip-costs-losses-2026-10#article",
-      "source": "Business Insider",
-      "domain": "businessinsider.com",
-      "published_at": "2026-10-27T09:00:04Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "7d28465db8d2c76f",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "South Korea’s GDP growth beats forecasts amid AI boom",
-      "summary": "Asia's fourth-largest economy grows 3.4 percent year-on-year amid strong semiconductor demand.",
-      "original_title": "South Korea’s GDP growth beats forecasts amid AI boom",
-      "url": "https://www.aljazeera.com/economy/2026/10/27/south-koreas-gdp-growth-beats-forecasts-amid-ai-boom",
-      "source": "Al Jazeera English",
-      "domain": "aljazeera.com",
-      "published_at": "2026-10-27T06:50:53Z",
-      "importance": 50,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "ae0de6a040e2092f",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "India's largest share sale could end cheap mobile internet for millions",
-      "summary": "Jio's IPO promises a windfall for investors, but could signal the end of cheap mobile data for millions.",
-      "original_title": "India's largest share sale could end cheap mobile internet for millions",
-      "url": "https://www.bbc.co.uk/news/articles/cw78pe7vlej5o",
-      "source": "BBC News",
-      "domain": "bbc.co.uk",
-      "published_at": "2026-10-27T00:00:30Z",
-      "importance": 50,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "8a7979dce3d9e9af",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "Apple’s low-cost iPhone 18 details revealed by leaker",
-      "summary": "Apple reportedly plans to introduce a low-cost iPhone 18e next spring alongside iPhone 18 and iPhone Air 2. Here are the details on what to expect from iPhone 18e, per a new leak.\n\n\n\n more…",
-      "original_title": "Apple’s low-cost iPhone 18 details revealed by leaker",
-      "url": "https://9to5mac.com/2026/10/27/apples-low-cost-iphone-18-details-revealed-by-leaker/",
-      "source": "9to5Mac",
-      "domain": "9to5mac.com",
-      "published_at": "2026-10-27T19:28:53Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "8ce519e997ada2d4",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "Republican voters are getting worried about high costs as inflation stings and the midterms approach",
-      "summary": "Republicans are increasingly feeling the drag of high costs, and more say that the president's economic policies have made conditions worse.",
-      "original_title": "Republican voters are getting worried about high costs as inflation stings and the midterms approach",
-      "url": "https://www.businessinsider.com/republicans-feel-inflation-crunch-midterm-elections-consumer-sentiment-2026-10#article",
-      "source": "Business Insider",
-      "domain": "businessinsider.com",
-      "published_at": "2026-10-27T17:00:28Z",
       "importance": 45,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -2695,44 +2809,6 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "f443d49291443026",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Discursive Verses: Jay-Z, the Super Bowl and playing with house money",
-      "summary": "NPR Music culture critic and reporter Rodney Carmichael ruminates on the latest in rap culture. This week: Is the rap mogul's self-selection a crowning achievement or a final affront?",
-      "original_title": "Discursive Verses: Jay-Z, the Super Bowl and playing with house money",
-      "url": "https://www.npr.org/2026/10/27/nx-s1-6019093/the-week-in-hip-hop-jay-z-super-bowl",
-      "source": "NPR",
-      "domain": "npr.org",
-      "published_at": "2026-10-27T14:15:21Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     }
   ]
 }
