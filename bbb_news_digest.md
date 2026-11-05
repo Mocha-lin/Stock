@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-05T17:07:51.783756+00:00
+> 更新時間：2026-11-05T20:21:07.388871+00:00
 
 ### ⚖️ Zhongji InnoLight revenue and profit more than double in 3Q26
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -118,12 +118,12 @@
 
 ---
 
-### 🚀 Rivian’s R2 is officially its best-selling vehicle
-- **題材**: `總體風險` | **重要性**: `68`
-- **來源**: The Verge (2026-10-29T19:21:58Z)
-- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Rivian reported its third quarter earnings of 2026, providing us a closer look at the company's financial health as it ramps up production of its all-important R2 electric vehicle - which is now, for the first time, outselling all of Rivian's other EVs. Rivia…
-- [原文連結](https://www.theverge.com/transportation/1022420/rivian-q3-earnings-r2-sales-volkswagen-software)
+### ⚖️ Foxconn reveals bid to grab 50% of the global AI server market within the next few years
+- **題材**: `AI伺服器` | **重要性**: `65`
+- **來源**: TechRadar (2026-11-04T18:45:00Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Foxconn aims to capture half the global AI server market while expanding American manufacturing and increasing investment in artificial intelligence infrastructure.
+- [原文連結](https://www.techradar.com/pro/foxconn-reveals-bid-to-grab-50-of-the-global-ai-server-market-within-the-next-few-years)
 
 ---
 
@@ -165,6 +165,15 @@ Our analysts just identified a stock with the potential to be the next Nvidia. T
 
 ---
 
+### 🚀 Rivian’s R2 is officially its best-selling vehicle
+- **題材**: `總體風險` | **重要性**: `63`
+- **來源**: The Verge (2026-10-29T19:21:58Z)
+- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Rivian reported its third quarter earnings of 2026, providing us a closer look at the company's financial health as it ramps up production of its all-important R2 electric vehicle - which is now, for the first time, outselling all of Rivian's other EVs. Rivia…
+- [原文連結](https://www.theverge.com/transportation/1022420/rivian-q3-earnings-r2-sales-volkswagen-software)
+
+---
+
 ### 🚀 iPhone 18 is getting two major upgrades, but also another price hike
 - **題材**: `半導體先進製程` | **重要性**: `60`
 - **來源**: GSMArena.com (2026-11-04T10:09:02Z)
@@ -175,15 +184,6 @@ Our analysts just identified a stock with the potential to be the next Nvidia. T
 
 This year Apple shook things around by announcing only the Pro models from the iPhone 18 lineu…
 - [原文連結](https://www.gsmarena.com/iphone_18_is_getting_two_major_upgrades_but_also_another_price_hike-news-75333.php)
-
----
-
-### ⚖️ AI Data Centers Have a PR Problem. OpenAI Is Proposing a Rebrand
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: CNET (2026-11-04T00:22:47Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: As part of the company’s post-midterms marketing campaign, data centers could be called “AI compute campuses.”
-- [原文連結](https://www.cnet.com/tech/services-and-software/openai-data-centers-rebrand-midterms-pr-campaign/)
 
 ---
 
