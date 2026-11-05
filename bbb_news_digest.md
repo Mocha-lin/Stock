@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-04T20:06:14.075415+00:00
+> 更新時間：2026-11-05T03:12:47.443162+00:00
 
 ### 🚀 Eternal Materials posts record revenue in advanced packaging, precision equipment
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -7,6 +7,15 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Eternal Materials posted earnings before taxes (EBT) of NT$388 million (approx. US$11.92 million) in September 2026, surging 158.28% year-over-year and up 44.47% from August, as revenue from semiconductor advanced packaging materials and precision equipment b…
 - [原文連結](https://www.digitimes.com/news/a20261029PD249/eternal-materials-revenue-equipment-packaging-materials.html)
+
+---
+
+### 🚀 AMD rides data center riches to ‘largest and most profitable’ quarter in history
+- **題材**: `HBM記憶體` | **重要性**: `78`
+- **來源**: The Verge (2026-11-04T01:17:17Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: AMD CEO Lisa Su said in the company's quarterly earnings call on Tuesday that Q3 2026 was "was the largest and most profitable in our history." AMD reported a record $13.4 billion in quarterly revenue, and it's predicting it will hit another record high next …
+- [原文連結](https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc)
 
 ---
 
@@ -37,15 +46,6 @@
 
 ---
 
-### 🚀 Powertech shifts to advanced packaging as AI demand drives growth
-- **題材**: `半導體先進製程` | **重要性**: `73`
-- **來源**: Digitimes (2026-10-28T23:53:14Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Rising demand for high-end AI chips is accelerating Powertech's transformation into an advanced packaging strategic partner. Powertech said its utilization rate exceeded 90% in the third quarter of 2026 and is expected to rise further in the fourth quarter as…
-- [原文連結](https://www.digitimes.com/news/a20261028PD225/powertech-demand-packaging-growth-revenue.html)
-
----
-
 ### ⚠️ Sam Altman meets with Samsung leadership to secure more RAM for data centers amid crushing shortages
 - **題材**: `HBM記憶體` | **重要性**: `72`
 - **來源**: Tom's Hardware UK (2026-11-01T14:21:23Z)
@@ -64,12 +64,39 @@
 
 ---
 
+### 🚀 Drax wants to feed Britain's AI habit with £20B datacenter at biomass power station
+- **題材**: `AI伺服器` | **重要性**: `70`
+- **來源**: Theregister.com (2026-11-03T13:27:33Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: But first it needs planning permission, government approval and, rather importantly, a customer
+- [原文連結](https://www.theregister.com/on-prem/2026/11/03/drax-wants-to-feed-britains-ai-habit-with-20b-datacenter-at-biomass-power-station/5307237)
+
+---
+
 ### 🚀 Taiwan’s AI stock boom is making early-stage startups a harder sell
 - **題材**: `半導體先進製程` | **重要性**: `70`
 - **來源**: Business Insider (2026-11-03T05:01:01Z)
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Taiwan's AI stock boom could be making it harder for young startups to win their first funding checks.
 - [原文連結](https://www.businessinsider.com/taiwan-stock-exchange-taiex-ai-boom-early-stage-startups-challenges-2026-11#article)
+
+---
+
+### ⚖️ Decoy processors carry Korean HBM past US export controls into China
+- **題材**: `HBM記憶體` | **重要性**: `68`
+- **來源**: Digitimes (2026-11-04T02:59:03Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: A loophole in US export controls reportedly lets high-bandwidth memory (HBM) made by Samsung Electronics and SK Hynix reach China's AI chip industry. The loophole shows how much Huawei's next-generation processors still depend on foreign memory, while China's…
+- [原文連結](https://www.digitimes.com/news/a20261104VL216/hbm-us-chip-restrictions-huawei-china-chips.html)
+
+---
+
+### ⚖️ Weekly news roundup: Taiwan debates talent distribution; SK Hynix looks beyond HBM
+- **題材**: `HBM記憶體` | **重要性**: `68`
+- **來源**: Digitimes (2026-11-02T01:11:14Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: This week’s coverage highlights intensifying competition and capacity constraints across the global semiconductor industry. Taiwan faces debate over whether public R&D funding should prioritize universities and talent development. Micron workers receive unusu…
+- [原文連結](https://www.digitimes.com/news/a20261102VL200/2026-sk-hynix-taiwan-competition-capacity.html)
 
 ---
 
@@ -82,12 +109,12 @@
 
 ---
 
-### ⚖️ Kinsus explores AlN ceramics beyond glass for AI advanced packaging
-- **題材**: `半導體先進製程` | **重要性**: `68`
-- **來源**: Digitimes (2026-10-28T23:50:04Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Kinsus Interconnect Technology is exploring aluminum nitride (AlN) ceramics as a core material for substrates used in large-scale advanced packaging, seeking an alternative to glass amid ongoing brittleness and reliability challenges, according to R&D vice pr…
-- [原文連結](https://www.digitimes.com/news/a20261028PD217/packaging-kinsus-substrate-aluminum-materials.html)
+### 🚀 Rivian’s R2 is officially its best-selling vehicle
+- **題材**: `總體風險` | **重要性**: `68`
+- **來源**: The Verge (2026-10-29T19:21:58Z)
+- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Rivian reported its third quarter earnings of 2026, providing us a closer look at the company's financial health as it ramps up production of its all-important R2 electric vehicle - which is now, for the first time, outselling all of Rivian's other EVs. Rivia…
+- [原文連結](https://www.theverge.com/transportation/1022420/rivian-q3-earnings-r2-sales-volkswagen-software)
 
 ---
 
@@ -138,12 +165,12 @@ Our analysts just identified a stock with the potential to be the next Nvidia. T
 
 ---
 
-### ⚠️ SK Hynix says customers want more than twice the HBM it can supply
-- **題材**: `HBM記憶體` | **重要性**: `63`
-- **來源**: Digitimes (2026-10-28T15:18:23Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: SK Hynix said customers are seeking more than twice the high-bandwidth memory (HBM) volume it can currently supply, as moves toward shorter memory stacks reflect supply shortages rather than weakening demand.
-- [原文連結](https://www.digitimes.com/news/a20261028VL222/sk-hynix-hbm-dram-hbm4-manufacturing.html)
+### ⚖️ AI Data Centers Have a PR Problem. OpenAI Is Proposing a Rebrand
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: CNET (2026-11-04T00:22:47Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: As part of the company’s post-midterms marketing campaign, data centers could be called “AI compute campuses.”
+- [原文連結](https://www.cnet.com/tech/services-and-software/openai-data-centers-rebrand-midterms-pr-campaign/)
 
 ---
 
@@ -159,34 +186,6 @@ Our analysts just identified a stock with the potential to be the next Nvidia. T
 
 In a new post on Weibo today, the leaker claimed that the standard ‌iPhone 18‌ will continue to feature a hi…
 - [原文連結](https://www.macrumors.com/2026/11/03/iphone-18-rumored-to-get-larger-battery/)
-
----
-
-### 🚀 Davies hamstring injury deepens Cardiff crisis
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: BBC News (2026-11-03T11:02:06Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Isaak Davies becomes the latest player to be added to Cardiff City's growing list of injuries, with a hamstring issue ruling him out for four weeks.
-- [原文連結](https://www.bbc.co.uk/sport/football/articles/ck87znw5q9q0o)
-
----
-
-### 🚀 Elon Musk, angry voters, and the AI backlash: What's at stake in the 2026 midterms
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Business Insider (2026-11-03T11:01:50Z)
-- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: From inflation and AI backlash to Elon Musk's record spending on Republicans, here's what's at stake in the 2026 midterm elections.
-- [原文連結](https://www.businessinsider.com/2026-midterms-elon-musk-tech-ai-economy-2026-11#article)
-
----
-
-### ⚖️ 世界のAIデータセンター向けシリコンフォトニクス市場、2034年に146億米ドルへ拡大予測 ― 年平均18.0％成長、生成AIと高速光通信需要が市場を牽引
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: Prtimes.jp (2026-11-03T05:55:36Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: [STRATISTICS MARKET RESEARCH CONSULTING]
-Stratistics Market Research Consulting Pvt Ltd（以下、Stratistics MRC）は、最新の市場調査レポート「Silicon Photonics for AI Data Centers Market Forecasts to 2034 - Global Analysis」を発表しました。...
-- [原文連結](https://prtimes.jp/main/html/rd/p/000000018.000189317.html)
 
 ---
 
