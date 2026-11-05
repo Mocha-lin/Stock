@@ -1,5 +1,14 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-05T03:12:47.443162+00:00
+> 更新時間：2026-11-05T07:34:46.170829+00:00
+
+### ⚖️ Zhongji InnoLight revenue and profit more than double in 3Q26
+- **題材**: `光通訊與矽光子` | **重要性**: `83`
+- **來源**: Digitimes (2026-11-04T03:35:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: China-based optical communications module maker Zhongji InnoLight reported strong results for the third quarter of 2026 as global AI infrastructure expansion drove robust demand for high-speed optical transceiver modules and increased shipments of 800G and 1.…
+- [原文連結](https://www.digitimes.com/news/a20261104PD232/2026-demand-profit-communications-revenue.html)
+
+---
 
 ### 🚀 Eternal Materials posts record revenue in advanced packaging, precision equipment
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -19,8 +28,17 @@
 
 ---
 
+### ⚖️ Samsung to reportedly make AMD, Nvidia HBM base dies at second Texas fab
+- **題材**: `HBM記憶體` | **重要性**: `73`
+- **來源**: Digitimes (2026-11-04T06:57:15Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Samsung Electronics plans to produce high-bandwidth memory (HBM) base dies for AMD at its second foundry plant in Taylor, Texas, with the US chipmaker accounting for most of the facility's planned output, South Korea's Maeil Business Newspaper reported on Nov…
+- [原文連結](https://www.digitimes.com/news/a20261104VL220/samsung-hbm-amd-texas-fab.html)
+
+---
+
 ### 🚀 Dixon maps AI hardware expansion through Inventec, Gemtek, prospective packaging partners
-- **題材**: `光通訊與矽光子` | **重要性**: `78`
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
 - **來源**: Digitimes (2026-11-02T03:35:54Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Dixon Technologies is pursuing separate partnerships for servers, optical communications, and advanced semiconductor packaging as it seeks a role in AI infrastructure manufacturing, although its most ambitious silicon-photonics plans remain at the evaluation …
@@ -162,30 +180,6 @@ Our analysts just identified a stock with the potential to be the next Nvidia. T
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: SK Hynix has appointed its AI memory development chief to lead a newly established Americas unit based in the US, putting a technology veteran closer to major US customers as the industry shifts toward customized high-bandwidth memory (HBM) and deeper collabo…
 - [原文連結](https://www.digitimes.com/news/a20261030VL227/sk-hynix-hbm-development-americas-technology.html)
-
----
-
-### ⚖️ AI Data Centers Have a PR Problem. OpenAI Is Proposing a Rebrand
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: CNET (2026-11-04T00:22:47Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: As part of the company’s post-midterms marketing campaign, data centers could be called “AI compute campuses.”
-- [原文連結](https://www.cnet.com/tech/services-and-software/openai-data-centers-rebrand-midterms-pr-campaign/)
-
----
-
-### 🚀 iPhone 18 Rumored to Get Larger Battery and Potential Price Increase
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: MacRumors (2026-11-03T15:50:21Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Apple's upcoming iPhone 18 will feature a larger battery and potentially a higher price, according to the leaker known as "Digital Chat Station."
-
-
-
-
-
-In a new post on Weibo today, the leaker claimed that the standard ‌iPhone 18‌ will continue to feature a hi…
-- [原文連結](https://www.macrumors.com/2026/11/03/iphone-18-rumored-to-get-larger-battery/)
 
 ---
 
