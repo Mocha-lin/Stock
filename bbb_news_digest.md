@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-06T03:13:16.887409+00:00
+> 更新時間：2026-11-06T07:30:14.192589+00:00
 
 ### 🚀 Asia Optical posts record Q3 profit, ramps CPO and AI optics push
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -43,6 +43,15 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Eternal Materials posted earnings before taxes (EBT) of NT$388 million (approx. US$11.92 million) in September 2026, surging 158.28% year-over-year and up 44.47% from August, as revenue from semiconductor advanced packaging materials and precision equipment b…
 - [原文連結](https://www.digitimes.com/news/a20261029PD249/eternal-materials-revenue-equipment-packaging-materials.html)
+
+---
+
+### ⚖️ Commentary: AOI locks in China's InP substrates for AI optics, but export controls threaten supply
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-11-05T03:35:25Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: AI data centers are accelerating demand for high-speed optical communications, extending competition in the optical transceiver market beyond chips and module manufacturing to critical upstream materials. Indium phosphide (InP), a key substrate for high-speed…
+- [原文連結](https://www.digitimes.com/news/a20261105PD220/aoi-inp-substrate-optical-communications-demand.html)
 
 ---
 
@@ -109,15 +118,6 @@
 
 ---
 
-### 🚀 Taiwan’s AI stock boom is making early-stage startups a harder sell
-- **題材**: `半導體先進製程` | **重要性**: `70`
-- **來源**: Business Insider (2026-11-03T05:01:01Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Taiwan's AI stock boom could be making it harder for young startups to win their first funding checks.
-- [原文連結](https://www.businessinsider.com/taiwan-stock-exchange-taiex-ai-boom-early-stage-startups-challenges-2026-11#article)
-
----
-
 ### ⚖️ Nintendo is losing a Switch cartridge supplier
 - **題材**: `HBM記憶體` | **重要性**: `68`
 - **來源**: The Verge (2026-11-04T17:03:32Z)
@@ -176,12 +176,12 @@
 
 ---
 
-### ⚖️ Apple Says Even Higher Memory Prices and Siri AI Push Will Weigh On Profits
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: Gizmodo.com (2026-11-03T03:25:14Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: In his first earnings call as CEO, John Ternus warned of worsening memory prices.
-- [原文連結](https://gizmodo.com/apple-says-even-higher-memory-prices-and-siri-ai-push-will-weigh-on-profits-2000834048)
+### 🚀 Taiwan’s AI stock boom is making early-stage startups a harder sell
+- **題材**: `半導體先進製程` | **重要性**: `65`
+- **來源**: Business Insider (2026-11-03T05:01:01Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Taiwan's AI stock boom could be making it harder for young startups to win their first funding checks.
+- [原文連結](https://www.businessinsider.com/taiwan-stock-exchange-taiex-ai-boom-early-stage-startups-challenges-2026-11#article)
 
 ---
 

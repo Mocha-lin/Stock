@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-11-06T03:13:16.887409+00:00",
+  "generated_at": "2026-11-06T07:30:14.192589+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 75,
@@ -188,6 +188,44 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
+      "id": "30384d5d590e5101",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "Commentary: AOI locks in China's InP substrates for AI optics, but export controls threaten supply",
+      "summary": "AI data centers are accelerating demand for high-speed optical communications, extending competition in the optical transceiver market beyond chips and module manufacturing to critical upstream materials. Indium phosphide (InP), a key substrate for high-speed…",
+      "original_title": "Commentary: AOI locks in China's InP substrates for AI optics, but export controls threaten supply",
+      "url": "https://www.digitimes.com/news/a20261105PD220/aoi-inp-substrate-optical-communications-demand.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-11-05T03:35:25Z",
+      "importance": 73,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "ba54161a9069cd31",
@@ -453,44 +491,6 @@
       "reason": "屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
-      "id": "b5dd9ababc8a3b0a",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "Taiwan’s AI stock boom is making early-stage startups a harder sell",
-      "summary": "Taiwan's AI stock boom could be making it harder for young startups to win their first funding checks.",
-      "original_title": "Taiwan’s AI stock boom is making early-stage startups a harder sell",
-      "url": "https://www.businessinsider.com/taiwan-stock-exchange-taiex-ai-boom-early-stage-startups-challenges-2026-11#article",
-      "source": "Business Insider",
-      "domain": "businessinsider.com",
-      "published_at": "2026-11-03T05:01:01Z",
-      "importance": 70,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
       "id": "c60d200caa9025a7",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -707,29 +707,32 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "b46583a9ecb9928c",
+      "id": "b5dd9ababc8a3b0a",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "Apple Says Even Higher Memory Prices and Siri AI Push Will Weigh On Profits",
-      "summary": "In his first earnings call as CEO, John Ternus warned of worsening memory prices.",
-      "original_title": "Apple Says Even Higher Memory Prices and Siri AI Push Will Weigh On Profits",
-      "url": "https://gizmodo.com/apple-says-even-higher-memory-prices-and-siri-ai-push-will-weigh-on-profits-2000834048",
-      "source": "Gizmodo.com",
-      "domain": "gizmodo.com",
-      "published_at": "2026-11-03T03:25:14Z",
+      "theme": "半導體先進製程",
+      "title": "Taiwan’s AI stock boom is making early-stage startups a harder sell",
+      "summary": "Taiwan's AI stock boom could be making it harder for young startups to win their first funding checks.",
+      "original_title": "Taiwan’s AI stock boom is making early-stage startups a harder sell",
+      "url": "https://www.businessinsider.com/taiwan-stock-exchange-taiex-ai-boom-early-stage-startups-challenges-2026-11#article",
+      "source": "Business Insider",
+      "domain": "businessinsider.com",
+      "published_at": "2026-11-03T05:01:01Z",
       "importance": 65,
-      "impact": "neutral",
+      "impact": "positive",
       "timeframe": "short_term",
       "tags": [
-        "HBM",
-        "記憶體"
+        "半導體",
+        "CoWoS",
+        "先進製程"
       ],
       "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
       ],
       "related_models": [
         "003",
@@ -739,7 +742,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "36694be4e5bb1233",
@@ -1043,32 +1046,29 @@
       "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "eacba43c17df73a9",
+      "id": "b46583a9ecb9928c",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "世界のAIデータセンター向けシリコンフォトニクス市場、2034年に146億米ドルへ拡大予測 ― 年平均18.0％成長、生成AIと高速光通信需要が市場を牽引",
-      "summary": "[STRATISTICS MARKET RESEARCH CONSULTING]\nStratistics Market Research Consulting Pvt Ltd（以下、Stratistics MRC）は、最新の市場調査レポート「Silicon Photonics for AI Data Centers Market Forecasts to 2034 - Global Analysis」を発表しました。...",
-      "original_title": "世界のAIデータセンター向けシリコンフォトニクス市場、2034年に146億米ドルへ拡大予測 ― 年平均18.0％成長、生成AIと高速光通信需要が市場を牽引",
-      "url": "https://prtimes.jp/main/html/rd/p/000000018.000189317.html",
-      "source": "Prtimes.jp",
-      "domain": "prtimes.jp",
-      "published_at": "2026-11-03T05:55:36Z",
+      "theme": "HBM記憶體",
+      "title": "Apple Says Even Higher Memory Prices and Siri AI Push Will Weigh On Profits",
+      "summary": "In his first earnings call as CEO, John Ternus warned of worsening memory prices.",
+      "original_title": "Apple Says Even Higher Memory Prices and Siri AI Push Will Weigh On Profits",
+      "url": "https://gizmodo.com/apple-says-even-higher-memory-prices-and-siri-ai-push-will-weigh-on-profits-2000834048",
+      "source": "Gizmodo.com",
+      "domain": "gizmodo.com",
+      "published_at": "2026-11-03T03:25:14Z",
       "importance": 60,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
+        "HBM",
+        "記憶體"
       ],
       "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
       ],
       "related_models": [
         "003",
@@ -1078,7 +1078,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "36f4a71700f901f9",
@@ -1225,6 +1225,44 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "a459f0c7deae6926",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "Most consumers aren’t ready to let AI agents shop unsupervised",
+      "summary": "Customer control, account security and ease of use are influencing the adoption of AI agents that make purchases, book services and access personal information, according to Okta’s 2026 Customer Identity Trends Report. Consumers’ willingness to delegate depen…",
+      "original_title": "Most consumers aren’t ready to let AI agents shop unsupervised",
+      "url": "https://www.helpnetsecurity.com/2026/11/05/okta-ai-customer-experiences-report/",
+      "source": "Help Net Security",
+      "domain": "helpnetsecurity.com",
+      "published_at": "2026-11-05T05:00:30Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "42af7b489c949054",
@@ -1528,17 +1566,17 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "ce4d08f56ed9832f",
+      "id": "eacba43c17df73a9",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "光通訊與矽光子",
-      "title": "Why Rolex, Audemars Piguet, and Patek Philippe Dominate the $26.6 Billion Secondary Watch Market",
-      "summary": "Rolex, Patek, and Audemars Piguet make up more than 60 percent of sales on the secondary watch market, according to the Secondary Market Report 2026.",
-      "original_title": "Why Rolex, Audemars Piguet, and Patek Philippe Dominate the $26.6 Billion Secondary Watch Market",
-      "url": "http://robbreport.com/style/watch-collector/rolex-patek-audemars-piguet-secondary-watch-market-1238794281/",
-      "source": "Robb Report",
-      "domain": "robbreport.com",
-      "published_at": "2026-11-02T17:00:00Z",
+      "title": "世界のAIデータセンター向けシリコンフォトニクス市場、2034年に146億米ドルへ拡大予測 ― 年平均18.0％成長、生成AIと高速光通信需要が市場を牽引",
+      "summary": "[STRATISTICS MARKET RESEARCH CONSULTING]\nStratistics Market Research Consulting Pvt Ltd（以下、Stratistics MRC）は、最新の市場調査レポート「Silicon Photonics for AI Data Centers Market Forecasts to 2034 - Global Analysis」を発表しました。...",
+      "original_title": "世界のAIデータセンター向けシリコンフォトニクス市場、2034年に146億米ドルへ拡大予測 ― 年平均18.0％成長、生成AIと高速光通信需要が市場を牽引",
+      "url": "https://prtimes.jp/main/html/rd/p/000000018.000189317.html",
+      "source": "Prtimes.jp",
+      "domain": "prtimes.jp",
+      "published_at": "2026-11-03T05:55:36Z",
       "importance": 55,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -1566,17 +1604,17 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "dab833748553883c",
+      "id": "ce4d08f56ed9832f",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "光通訊與矽光子",
-      "title": "(PR) Marvell Acquires Lumentum for $115 Billion All-Stock Deal",
-      "summary": "Marvell Technology, Inc. (NASDAQ: MRVL) and Lumentum (NASDAQ: LITE) today announced that they have entered into a definitive agreement for Marvell to acquire Lumentum in an all-stock transaction. Under the terms of the agreement, Lumentum stockholders will re…",
-      "original_title": "(PR) Marvell Acquires Lumentum for $115 Billion All-Stock Deal",
-      "url": "https://www.techpowerup.com/354410/marvell-acquires-lumentum-for-usd-115-billion-all-stock-deal",
-      "source": "Techpowerup.com",
-      "domain": "techpowerup.com",
-      "published_at": "2026-11-02T16:53:01Z",
+      "title": "Why Rolex, Audemars Piguet, and Patek Philippe Dominate the $26.6 Billion Secondary Watch Market",
+      "summary": "Rolex, Patek, and Audemars Piguet make up more than 60 percent of sales on the secondary watch market, according to the Secondary Market Report 2026.",
+      "original_title": "Why Rolex, Audemars Piguet, and Patek Philippe Dominate the $26.6 Billion Secondary Watch Market",
+      "url": "http://robbreport.com/style/watch-collector/rolex-patek-audemars-piguet-secondary-watch-market-1238794281/",
+      "source": "Robb Report",
+      "domain": "robbreport.com",
+      "published_at": "2026-11-02T17:00:00Z",
       "importance": 55,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -2052,44 +2090,6 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "3b66a4b52859a0b0",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "【Rimo合同会社】プロダクト体制を強化 保坂駿が新CPOに就任、CEO・CTO・CPOの3者体制へ",
-      "summary": "[Rimo]\n[画像1: https://prcdn.freetls.fastly.net/release_image/64239/59/64239-59-83ec9905b2ea61c38497df8cd0abd755-1882x1258.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...",
-      "original_title": "【Rimo合同会社】プロダクト体制を強化 保坂駿が新CPOに就任、CEO・CTO・CPOの3者体制へ",
-      "url": "https://prtimes.jp/main/html/rd/p/000000059.000064239.html",
-      "source": "Prtimes.jp",
-      "domain": "prtimes.jp",
-      "published_at": "2026-11-02T02:00:00Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "0345746dff967254",
