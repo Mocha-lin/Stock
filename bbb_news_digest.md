@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-06T16:36:40.288526+00:00
+> 更新時間：2026-11-06T19:44:28.364288+00:00
 
 ### 🚀 Asia Optical posts record Q3 profit, ramps CPO and AI optics push
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -25,15 +25,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Largan Technology reported October revenue of NT$5.846 billion (US$178.1 million) on November 5, down 7.0% year-over-year, while moving to consolidate its camera actuator subsidiary and advance co-packaged optics (CPO) products. Revenue for the first 10 month…
 - [原文連結](https://www.digitimes.com/news/a20261105PD243/revenue-camera-cpo-subsidiary-2027.html)
-
----
-
-### 🚀 SK Hynix leads HBM4 yield at 60%, expands DRAM supply
-- **題材**: `HBM記憶體` | **重要性**: `78`
-- **來源**: Digitimes (2026-11-05T02:45:00Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: SK Hynix's sixth-generation high-bandwidth memory (HBM4) yield has reportedly reached the mid-60% range, the highest in the industry. Analysts say improved yield has lifted production efficiency, allowing the company to expand server DRAM supply even as it co…
-- [原文連結](https://www.digitimes.com/news/a20261105PD211/sk-hynix-hbm4-dram-hbm-capacity.html)
 
 ---
 
@@ -136,6 +127,15 @@
 
 ---
 
+### 🚀 Counterpoint: global DRAM revenue grows by 369% in Q3
+- **題材**: `HBM記憶體` | **重要性**: `70`
+- **來源**: GSMArena.com (2026-11-05T19:11:03Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Global DRAM revenue has increased by an insane 369% year-over-year thanks to strong demand for the stuff, which goes towards building new AI accelerators and data centers. The Average Selling Price (ASP) has reached $1.9 per gigabit (i.e. 1/8th of a gigabyte)…
+- [原文連結](https://www.gsmarena.com/counterpoint_global_dram_revenue_grows_by_369_in_q3-news-75368.php)
+
+---
+
 ### ⚖️ Memory makers mint megabucks while buyers beg for mercy
 - **題材**: `HBM記憶體` | **重要性**: `70`
 - **來源**: Theregister.com (2026-11-05T15:07:34Z)
@@ -163,6 +163,15 @@
 
 ---
 
+### ⚖️ Chinese AI lab Moonshot reportedly looked at European data centers to access Nvidia chips, report claims
+- **題材**: `AI伺服器` | **重要性**: `67`
+- **來源**: Tom's Hardware UK (2026-11-05T16:48:30Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: The lab is reportedly interested in renting at least 8,000 Nvidia Blackwell GPUs.
+- [原文連結](https://www.tomshardware.com/tech-industry/policy/chinese-ai-lab-moonshot-reportedly-looked-at-european-data-centers-to-access-nvidia-chips-report-claims-kimi-maker-primarily-interested-in-inferencing-capacity-but-also-asked-about-training-clusters)
+
+---
+
 ### ⚠️ Report: Apple and Samsung outperform rivals as smartphone chip shipments tumble 21%
 - **題材**: `半導體先進製程` | **重要性**: `65`
 - **來源**: 9to5Mac (2026-11-04T23:59:10Z)
@@ -173,15 +182,6 @@
 
  more…
 - [原文連結](https://9to5mac.com/2026/11/04/report-apple-and-samsung-outperform-rivals-as-smartphone-chip-shipments-tumble-21/)
-
----
-
-### ⚖️ Foxconn reveals bid to grab 50% of the global AI server market within the next few years
-- **題材**: `AI伺服器` | **重要性**: `65`
-- **來源**: TechRadar (2026-11-04T18:45:00Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Foxconn aims to capture half the global AI server market while expanding American manufacturing and increasing investment in artificial intelligence infrastructure.
-- [原文連結](https://www.techradar.com/pro/foxconn-reveals-bid-to-grab-50-of-the-global-ai-server-market-within-the-next-few-years)
 
 ---
 
