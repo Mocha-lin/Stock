@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-06T07:30:14.192589+00:00
+> 更新時間：2026-11-06T16:36:40.288526+00:00
 
 ### 🚀 Asia Optical posts record Q3 profit, ramps CPO and AI optics push
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -16,6 +16,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: China-based optical communications module maker Zhongji InnoLight reported strong results for the third quarter of 2026 as global AI infrastructure expansion drove robust demand for high-speed optical transceiver modules and increased shipments of 800G and 1.…
 - [原文連結](https://www.digitimes.com/news/a20261104PD232/2026-demand-profit-communications-revenue.html)
+
+---
+
+### ⚖️ Largan consolidates camera actuator unit as optical business expands into CPO
+- **題材**: `光通訊與矽光子` | **重要性**: `78`
+- **來源**: Digitimes (2026-11-05T10:29:45Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Largan Technology reported October revenue of NT$5.846 billion (US$178.1 million) on November 5, down 7.0% year-over-year, while moving to consolidate its camera actuator subsidiary and advance co-packaged optics (CPO) products. Revenue for the first 10 month…
+- [原文連結](https://www.digitimes.com/news/a20261105PD243/revenue-camera-cpo-subsidiary-2027.html)
 
 ---
 
@@ -91,6 +100,24 @@
 
 ---
 
+### ⚖️ Micron's $4.5 billion Taoyuan plant construction halted amidst labor dispute
+- **題材**: `HBM記憶體` | **重要性**: `72`
+- **來源**: Tom's Hardware UK (2026-11-05T14:28:30Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Micron and the Taoyuan labor union is set to meet again on November 6 as the two parties engage in a protracted labor dispute regarding profit-sharing.
+- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/microns-usd4-5-billion-taoyuan-plant-construction-halted-amidst-labor-dispute-company-and-union-still-havent-reached-agreement-as-latter-asks-for-clearer-profit-sharing-terms)
+
+---
+
+### ⚖️ Marvell to buy Lumentum in $115 billion all-stock deal
+- **題材**: `光通訊與矽光子` | **重要性**: `72`
+- **來源**: Tom's Hardware UK (2026-11-05T12:00:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Marvell has agreed to acquire Lumentum for $115 billion, combining its optical DSPs, SerDes, silicon photonics, and networking silicon with Lumentum’s lasers, transceivers, optical switches, and InP manufacturing footprint.
+- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/marvell-to-buy-lumentum-in-usd115-billion-all-stock-deal-combined-company-to-supply-scale-up-and-scale-in-optics-for-ai-data-centers)
+
+---
+
 ### ⚠️ Sam Altman meets with Samsung leadership to secure more RAM for data centers amid crushing shortages
 - **題材**: `HBM記憶體` | **重要性**: `72`
 - **來源**: Tom's Hardware UK (2026-11-01T14:21:23Z)
@@ -109,12 +136,12 @@
 
 ---
 
-### 🚀 Drax wants to feed Britain's AI habit with £20B datacenter at biomass power station
-- **題材**: `AI伺服器` | **重要性**: `70`
-- **來源**: Theregister.com (2026-11-03T13:27:33Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: But first it needs planning permission, government approval and, rather importantly, a customer
-- [原文連結](https://www.theregister.com/on-prem/2026/11/03/drax-wants-to-feed-britains-ai-habit-with-20b-datacenter-at-biomass-power-station/5307237)
+### ⚖️ Memory makers mint megabucks while buyers beg for mercy
+- **題材**: `HBM記憶體` | **重要性**: `70`
+- **來源**: Theregister.com (2026-11-05T15:07:34Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: DRAM revenue jumps 369 percent as AI demand keeps supplies tight and prices climbing
+- [原文連結](https://www.theregister.com/systems/2026/11/05/memory-makers-mint-megabucks-while-buyers-beg-for-mercy/5307846)
 
 ---
 
@@ -124,24 +151,6 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Nintendo is about to lose a major memory supplier for its Switch cartridges. The supplier, Macronix, announced during a recent quarterly earnings call that it would be gradually phasing out ROM production and is instead focusing on NOR flash memory for data c…
 - [原文連結](https://www.theverge.com/games/1026426/nintendo-switch-cartridges-rom-supplier-data-center)
-
----
-
-### ⚖️ Decoy processors carry Korean HBM past US export controls into China
-- **題材**: `HBM記憶體` | **重要性**: `68`
-- **來源**: Digitimes (2026-11-04T02:59:03Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: A loophole in US export controls reportedly lets high-bandwidth memory (HBM) made by Samsung Electronics and SK Hynix reach China's AI chip industry. The loophole shows how much Huawei's next-generation processors still depend on foreign memory, while China's…
-- [原文連結](https://www.digitimes.com/news/a20261104VL216/hbm-us-chip-restrictions-huawei-china-chips.html)
-
----
-
-### ⚖️ Weekly news roundup: Taiwan debates talent distribution; SK Hynix looks beyond HBM
-- **題材**: `HBM記憶體` | **重要性**: `68`
-- **來源**: Digitimes (2026-11-02T01:11:14Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: This week’s coverage highlights intensifying competition and capacity constraints across the global semiconductor industry. Taiwan faces debate over whether public R&D funding should prioritize universities and talent development. Micron workers receive unusu…
-- [原文連結](https://www.digitimes.com/news/a20261102VL200/2026-sk-hynix-taiwan-competition-capacity.html)
 
 ---
 
@@ -173,15 +182,6 @@
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Foxconn aims to capture half the global AI server market while expanding American manufacturing and increasing investment in artificial intelligence infrastructure.
 - [原文連結](https://www.techradar.com/pro/foxconn-reveals-bid-to-grab-50-of-the-global-ai-server-market-within-the-next-few-years)
-
----
-
-### 🚀 Taiwan’s AI stock boom is making early-stage startups a harder sell
-- **題材**: `半導體先進製程` | **重要性**: `65`
-- **來源**: Business Insider (2026-11-03T05:01:01Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Taiwan's AI stock boom could be making it harder for young startups to win their first funding checks.
-- [原文連結](https://www.businessinsider.com/taiwan-stock-exchange-taiex-ai-boom-early-stage-startups-challenges-2026-11#article)
 
 ---
 

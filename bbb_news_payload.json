@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-11-06T07:30:14.192589+00:00",
+  "generated_at": "2026-11-06T16:36:40.288526+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 75,
@@ -56,6 +56,44 @@
       "domain": "digitimes.com",
       "published_at": "2026-11-04T03:35:00Z",
       "importance": 83,
+      "impact": "neutral",
+      "timeframe": "short_to_mid_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
+      "id": "281e74dd8033cd68",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "Largan consolidates camera actuator unit as optical business expands into CPO",
+      "summary": "Largan Technology reported October revenue of NT$5.846 billion (US$178.1 million) on November 5, down 7.0% year-over-year, while moving to consolidate its camera actuator subsidiary and advance co-packaged optics (CPO) products. Revenue for the first 10 month…",
+      "original_title": "Largan consolidates camera actuator unit as optical business expands into CPO",
+      "url": "https://www.digitimes.com/news/a20261105PD243/revenue-camera-cpo-subsidiary-2027.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-11-05T10:29:45Z",
+      "importance": 78,
       "impact": "neutral",
       "timeframe": "short_to_mid_term",
       "tags": [
@@ -380,6 +418,79 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
+      "id": "cbf8428f3fc80c19",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "Micron's $4.5 billion Taoyuan plant construction halted amidst labor dispute",
+      "summary": "Micron and the Taoyuan labor union is set to meet again on November 6 as the two parties engage in a protracted labor dispute regarding profit-sharing.",
+      "original_title": "Micron's $4.5 billion Taoyuan plant construction halted amidst labor dispute",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/microns-usd4-5-billion-taoyuan-plant-construction-halted-amidst-labor-dispute-company-and-union-still-havent-reached-agreement-as-latter-asks-for-clearer-profit-sharing-terms",
+      "source": "Tom's Hardware UK",
+      "domain": "tomshardware.com",
+      "published_at": "2026-11-05T14:28:30Z",
+      "importance": 72,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
+      "id": "d2b1df2f2c408e05",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "Marvell to buy Lumentum in $115 billion all-stock deal",
+      "summary": "Marvell has agreed to acquire Lumentum for $115 billion, combining its optical DSPs, SerDes, silicon photonics, and networking silicon with Lumentum’s lasers, transceivers, optical switches, and InP manufacturing footprint.",
+      "original_title": "Marvell to buy Lumentum in $115 billion all-stock deal",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/marvell-to-buy-lumentum-in-usd115-billion-all-stock-deal-combined-company-to-supply-scale-up-and-scale-in-optics-for-ai-data-centers",
+      "source": "Tom's Hardware UK",
+      "domain": "tomshardware.com",
+      "published_at": "2026-11-05T12:00:00Z",
+      "importance": 72,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
       "id": "65ad0e202e9b940b",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -453,32 +564,29 @@
       "reason": "屬「半導體先進製程」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
-      "id": "d02060a7292a9dcb",
+      "id": "549f2110f18db97f",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Drax wants to feed Britain's AI habit with £20B datacenter at biomass power station",
-      "summary": "But first it needs planning permission, government approval and, rather importantly, a customer",
-      "original_title": "Drax wants to feed Britain's AI habit with £20B datacenter at biomass power station",
-      "url": "https://www.theregister.com/on-prem/2026/11/03/drax-wants-to-feed-britains-ai-habit-with-20b-datacenter-at-biomass-power-station/5307237",
+      "theme": "HBM記憶體",
+      "title": "Memory makers mint megabucks while buyers beg for mercy",
+      "summary": "DRAM revenue jumps 369 percent as AI demand keeps supplies tight and prices climbing",
+      "original_title": "Memory makers mint megabucks while buyers beg for mercy",
+      "url": "https://www.theregister.com/systems/2026/11/05/memory-makers-mint-megabucks-while-buyers-beg-for-mercy/5307846",
       "source": "Theregister.com",
       "domain": "theregister.com",
-      "published_at": "2026-11-03T13:27:33Z",
+      "published_at": "2026-11-05T15:07:34Z",
       "importance": 70,
-      "impact": "positive",
+      "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
+        "HBM",
+        "記憶體"
       ],
       "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
       ],
       "related_models": [
         "003",
@@ -488,7 +596,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+      "reason": "屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "c60d200caa9025a7",
@@ -502,76 +610,6 @@
       "source": "The Verge",
       "domain": "theverge.com",
       "published_at": "2026-11-04T17:03:32Z",
-      "importance": 68,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "5a3c00e14cb8deac",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "Decoy processors carry Korean HBM past US export controls into China",
-      "summary": "A loophole in US export controls reportedly lets high-bandwidth memory (HBM) made by Samsung Electronics and SK Hynix reach China's AI chip industry. The loophole shows how much Huawei's next-generation processors still depend on foreign memory, while China's…",
-      "original_title": "Decoy processors carry Korean HBM past US export controls into China",
-      "url": "https://www.digitimes.com/news/a20261104VL216/hbm-us-chip-restrictions-huawei-china-chips.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-11-04T02:59:03Z",
-      "importance": 68,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "b2bbd41b260ebfbc",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "Weekly news roundup: Taiwan debates talent distribution; SK Hynix looks beyond HBM",
-      "summary": "This week’s coverage highlights intensifying competition and capacity constraints across the global semiconductor industry. Taiwan faces debate over whether public R&D funding should prioritize universities and talent development. Micron workers receive unusu…",
-      "original_title": "Weekly news roundup: Taiwan debates talent distribution; SK Hynix looks beyond HBM",
-      "url": "https://www.digitimes.com/news/a20261102VL200/2026-sk-hynix-taiwan-competition-capacity.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-11-02T01:11:14Z",
       "importance": 68,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -707,6 +745,44 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "d02060a7292a9dcb",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Drax wants to feed Britain's AI habit with £20B datacenter at biomass power station",
+      "summary": "But first it needs planning permission, government approval and, rather importantly, a customer",
+      "original_title": "Drax wants to feed Britain's AI habit with £20B datacenter at biomass power station",
+      "url": "https://www.theregister.com/on-prem/2026/11/03/drax-wants-to-feed-britains-ai-habit-with-20b-datacenter-at-biomass-power-station/5307237",
+      "source": "Theregister.com",
+      "domain": "theregister.com",
+      "published_at": "2026-11-03T13:27:33Z",
+      "importance": 65,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "b5dd9ababc8a3b0a",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -743,41 +819,6 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "36694be4e5bb1233",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "SK Hynix taps HBM veteran to lead new American unit",
-      "summary": "SK Hynix has appointed its AI memory development chief to lead a newly established Americas unit based in the US, putting a technology veteran closer to major US customers as the industry shifts toward customized high-bandwidth memory (HBM) and deeper collabo…",
-      "original_title": "SK Hynix taps HBM veteran to lead new American unit",
-      "url": "https://www.digitimes.com/news/a20261030VL227/sk-hynix-hbm-development-americas-technology.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-10-30T08:48:07Z",
-      "importance": 63,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "a8725f789b2da574",
@@ -856,44 +897,6 @@
       "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "2eebfd07de36afc6",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "Republican Byron Donalds wins governor's race in Florida",
-      "summary": "Donalds, who was backed early by President Trump, will become the state's first Black governor.",
-      "original_title": "Republican Byron Donalds wins governor's race in Florida",
-      "url": "https://www.npr.org/2026/11/03/g-s1-151260/florida-governor-donalds-jolly",
-      "source": "NPR",
-      "domain": "npr.org",
-      "published_at": "2026-11-04T02:10:59Z",
-      "importance": 60,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "ee0a449232a2afc9",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -930,120 +933,6 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "56fcd6b3776f2e7d",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "iPhone 18 Rumored to Get Larger Battery and Potential Price Increase",
-      "summary": "Apple's upcoming iPhone 18 will feature a larger battery and potentially a higher price, according to the leaker known as \"Digital Chat Station.\"\n\n\n\n\n\nIn a new post on Weibo today, the leaker claimed that the standard ‌iPhone 18‌ will continue to feature a hi…",
-      "original_title": "iPhone 18 Rumored to Get Larger Battery and Potential Price Increase",
-      "url": "https://www.macrumors.com/2026/11/03/iphone-18-rumored-to-get-larger-battery/",
-      "source": "MacRumors",
-      "domain": "macrumors.com",
-      "published_at": "2026-11-03T15:50:21Z",
-      "importance": 60,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "247a98fe6e66996b",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Davies hamstring injury deepens Cardiff crisis",
-      "summary": "Isaak Davies becomes the latest player to be added to Cardiff City's growing list of injuries, with a hamstring issue ruling him out for four weeks.",
-      "original_title": "Davies hamstring injury deepens Cardiff crisis",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck87znw5q9q0o",
-      "source": "BBC News",
-      "domain": "bbc.co.uk",
-      "published_at": "2026-11-03T11:02:06Z",
-      "importance": 60,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "372e5cfa036cc4b2",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "Elon Musk, angry voters, and the AI backlash: What's at stake in the 2026 midterms",
-      "summary": "From inflation and AI backlash to Elon Musk's record spending on Republicans, here's what's at stake in the 2026 midterm elections.",
-      "original_title": "Elon Musk, angry voters, and the AI backlash: What's at stake in the 2026 midterms",
-      "url": "https://www.businessinsider.com/2026-midterms-elon-musk-tech-ai-economy-2026-11#article",
-      "source": "Business Insider",
-      "domain": "businessinsider.com",
-      "published_at": "2026-11-03T11:01:50Z",
-      "importance": 60,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "b46583a9ecb9928c",
@@ -1116,82 +1005,6 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "88783423cf3a2db3",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "Tower Semiconductor Ltd. Q3 2026 Earnings Call Summary",
-      "summary": "Strategic Growth Drivers and Operational Execution\nOur analysts just identified a stock with the potential to be the next Nvidia. Tell us how you invest and we'll show you why it's our #1 pick. Tap here.\n- Growth is primarily driven by silicon photonics (SiPh…",
-      "original_title": "Tower Semiconductor Ltd. Q3 2026 Earnings Call Summary",
-      "url": "https://biztoc.com/x/28acc90f514c3026",
-      "source": "Biztoc.com",
-      "domain": "biztoc.com",
-      "published_at": "2026-11-02T22:59:31Z",
-      "importance": 60,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "fd8e32a1104f6aef",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "Samsung announces another record-breaking quarter, driven by its memory business",
-      "summary": "Samsung Electronics just announced another all-time high quarterly result – revenue grew by 14% quarter-on-quarter (compared to Q3). The press release claims that Samsung Electronics is the world’s first tech company to exceed KRW 100 trillion in quarterly op…",
-      "original_title": "Samsung announces another record-breaking quarter, driven by its memory business",
-      "url": "https://www.gsmarena.com/samsung_announces_another_recordbreaking_quarter_driven_by_its_memory_business-news-75291.php",
-      "source": "GSMArena.com",
-      "domain": "gsmarena.com",
-      "published_at": "2026-10-30T18:31:02Z",
-      "importance": 60,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "79ba447676d84590",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1225,6 +1038,155 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "36694be4e5bb1233",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "SK Hynix taps HBM veteran to lead new American unit",
+      "summary": "SK Hynix has appointed its AI memory development chief to lead a newly established Americas unit based in the US, putting a technology veteran closer to major US customers as the industry shifts toward customized high-bandwidth memory (HBM) and deeper collabo…",
+      "original_title": "SK Hynix taps HBM veteran to lead new American unit",
+      "url": "https://www.digitimes.com/news/a20261030VL227/sk-hynix-hbm-development-americas-technology.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-10-30T08:48:07Z",
+      "importance": 58,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "9a95852e8f1df899",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "Markets plunge as Wall Street heads for its worst post-midterm day since 1896",
+      "summary": "US stocks fell suddenly on Thursday as AI and chip stocks sold off, erasing the gains from Wednesday’s post-election rally.The Dow Jones Industrial Average (^DJI\r\n) tumbled 2.2%, or over 1,200 points. The S&P 500 (^GSPC\r\n) fell 3.3%, and the tech-heavy Nasdaq…",
+      "original_title": "Markets plunge as Wall Street heads for its worst post-midterm day since 1896",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-oil-rises-chip-stocks-141439950.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-11-05T16:17:42Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "81a4e087f1e02365",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Ubuntu Pro is now available on AWS Deep Learning Amazon Machine Images (DLAMI)",
+      "summary": "In September 2026, Amazon Web Services (AWS) published its first DLAMIs built on Ubuntu Pro in the Base GPU family. By choosing Ubuntu Pro, enterprises launching DLAMIs gain a stronger security maintenance posture at launch thanks to Expanded Security Mainten…",
+      "original_title": "Ubuntu Pro is now available on AWS Deep Learning Amazon Machine Images (DLAMI)",
+      "url": "https://ubuntu.com/blog/ubuntu-pro-available-on-dlami",
+      "source": "Ubuntu.com",
+      "domain": "ubuntu.com",
+      "published_at": "2026-11-05T13:53:49Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "c854dcac4e261d5f",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "Samsung's new Galaxy S27 Pro could come with one disappointing compromise",
+      "summary": "Rumored Galaxy S27 Pro could feature the Snapdragon 8 Elite Gen 6 chipset instead of the more powerful Extreme variant.",
+      "original_title": "Samsung's new Galaxy S27 Pro could come with one disappointing compromise",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/s27-pro-might-miss-out-on-the-snapdragon-8-elite-extreme-gen-6",
+      "source": "Android Central",
+      "domain": "androidcentral.com",
+      "published_at": "2026-11-05T09:29:52Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "a459f0c7deae6926",
@@ -1301,44 +1263,6 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "dbdb68707c5b79d0",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Wilson returns as Wales call up uncapped Duncan",
-      "summary": "Harry Wilson is back in Wales' squad for their Nations League matches against Norway and Portugal, while goalkeeper Joe Duncan earns his first call.",
-      "original_title": "Wilson returns as Wales call up uncapped Duncan",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwly4ee53mgyo",
-      "source": "BBC News",
-      "domain": "bbc.co.uk",
-      "published_at": "2026-11-04T10:30:19Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "0a20cfd79cbd03f0",
@@ -1528,19 +1452,19 @@
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "001761e5252cd8af",
+      "id": "56fcd6b3776f2e7d",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "半導體先進製程",
-      "title": "iPad mini OLED Review: Apple’s Smallest Tablet Is Also Its Best",
-      "summary": "Apple's eighth-gen iPad mini with the A20 Pro chip and an OLED screen is the perfect on-the-go companion.",
-      "original_title": "iPad mini OLED Review: Apple’s Smallest Tablet Is Also Its Best",
-      "url": "https://gizmodo.com/a20-pro-ipad-mini-review-apples-smallest-tablet-is-also-its-best-2000833963",
-      "source": "Gizmodo.com",
-      "domain": "gizmodo.com",
-      "published_at": "2026-11-03T14:00:09Z",
+      "title": "iPhone 18 Rumored to Get Larger Battery and Potential Price Increase",
+      "summary": "Apple's upcoming iPhone 18 will feature a larger battery and potentially a higher price, according to the leaker known as \"Digital Chat Station.\"\n\n\n\n\n\nIn a new post on Weibo today, the leaker claimed that the standard ‌iPhone 18‌ will continue to feature a hi…",
+      "original_title": "iPhone 18 Rumored to Get Larger Battery and Potential Price Increase",
+      "url": "https://www.macrumors.com/2026/11/03/iphone-18-rumored-to-get-larger-battery/",
+      "source": "MacRumors",
+      "domain": "macrumors.com",
+      "published_at": "2026-11-03T15:50:21Z",
       "importance": 55,
-      "impact": "neutral",
+      "impact": "positive",
       "timeframe": "short_term",
       "tags": [
         "半導體",
@@ -1563,7 +1487,83 @@
         "009",
         "010"
       ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "247a98fe6e66996b",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Davies hamstring injury deepens Cardiff crisis",
+      "summary": "Isaak Davies becomes the latest player to be added to Cardiff City's growing list of injuries, with a hamstring issue ruling him out for four weeks.",
+      "original_title": "Davies hamstring injury deepens Cardiff crisis",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck87znw5q9q0o",
+      "source": "BBC News",
+      "domain": "bbc.co.uk",
+      "published_at": "2026-11-03T11:02:06Z",
+      "importance": 55,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "372e5cfa036cc4b2",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "Elon Musk, angry voters, and the AI backlash: What's at stake in the 2026 midterms",
+      "summary": "From inflation and AI backlash to Elon Musk's record spending on Republicans, here's what's at stake in the 2026 midterm elections.",
+      "original_title": "Elon Musk, angry voters, and the AI backlash: What's at stake in the 2026 midterms",
+      "url": "https://www.businessinsider.com/2026-midterms-elon-musk-tech-ai-economy-2026-11#article",
+      "source": "Business Insider",
+      "domain": "businessinsider.com",
+      "published_at": "2026-11-03T11:01:50Z",
+      "importance": 55,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "eacba43c17df73a9",
@@ -1577,44 +1577,6 @@
       "source": "Prtimes.jp",
       "domain": "prtimes.jp",
       "published_at": "2026-11-03T05:55:36Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "ce4d08f56ed9832f",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "Why Rolex, Audemars Piguet, and Patek Philippe Dominate the $26.6 Billion Secondary Watch Market",
-      "summary": "Rolex, Patek, and Audemars Piguet make up more than 60 percent of sales on the secondary watch market, according to the Secondary Market Report 2026.",
-      "original_title": "Why Rolex, Audemars Piguet, and Patek Philippe Dominate the $26.6 Billion Secondary Watch Market",
-      "url": "http://robbreport.com/style/watch-collector/rolex-patek-audemars-piguet-secondary-watch-market-1238794281/",
-      "source": "Robb Report",
-      "domain": "robbreport.com",
-      "published_at": "2026-11-02T17:00:00Z",
       "importance": 55,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -1908,67 +1870,32 @@
       "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "b98e95a496837807",
+      "id": "001761e5252cd8af",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "Here’s Why Independent Watch Dealers Aren’t Worried About More Certified Pre-Owned Programs",
-      "summary": "Eric Wind and Robertino Altieri are not worried about Rolex and Audemars Piguet joining the secondary market, as they have different customer bases.",
-      "original_title": "Here’s Why Independent Watch Dealers Aren’t Worried About More Certified Pre-Owned Programs",
-      "url": "http://robbreport.com/style/watch-collector/independent-watch-dealers-certified-pre-owned-programs-1238798604/",
-      "source": "Robb Report",
-      "domain": "robbreport.com",
-      "published_at": "2026-10-30T14:00:00Z",
-      "importance": 55,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "5ed6b7279f8d63be",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "The AI trade’s earnings scoreboard is getting ugly",
-      "summary": "Microsoft and SK Hynix stood out, but Amazon, Alphabet, Meta, Tesla, and Caterpillar raised fresh AI-spending doubts.",
-      "original_title": "The AI trade’s earnings scoreboard is getting ugly",
-      "url": "https://www.businessinsider.com/ai-trade-earnings-winners-losers-amazon-alphabet-microsoft-meta-tesla-2026-10#article",
-      "source": "Business Insider",
-      "domain": "businessinsider.com",
-      "published_at": "2026-10-30T09:50:01Z",
-      "importance": 55,
+      "theme": "半導體先進製程",
+      "title": "iPad mini OLED Review: Apple’s Smallest Tablet Is Also Its Best",
+      "summary": "Apple's eighth-gen iPad mini with the A20 Pro chip and an OLED screen is the perfect on-the-go companion.",
+      "original_title": "iPad mini OLED Review: Apple’s Smallest Tablet Is Also Its Best",
+      "url": "https://gizmodo.com/a20-pro-ipad-mini-review-apples-smallest-tablet-is-also-its-best-2000833963",
+      "source": "Gizmodo.com",
+      "domain": "gizmodo.com",
+      "published_at": "2026-11-03T14:00:09Z",
+      "importance": 50,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "HBM",
-        "記憶體"
+        "半導體",
+        "CoWoS",
+        "先進製程"
       ],
       "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
       ],
       "related_models": [
         "003",
@@ -1978,7 +1905,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "f4a9c6250bc1f136",
@@ -2621,6 +2548,79 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "b98e95a496837807",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "Here’s Why Independent Watch Dealers Aren’t Worried About More Certified Pre-Owned Programs",
+      "summary": "Eric Wind and Robertino Altieri are not worried about Rolex and Audemars Piguet joining the secondary market, as they have different customer bases.",
+      "original_title": "Here’s Why Independent Watch Dealers Aren’t Worried About More Certified Pre-Owned Programs",
+      "url": "http://robbreport.com/style/watch-collector/independent-watch-dealers-certified-pre-owned-programs-1238798604/",
+      "source": "Robb Report",
+      "domain": "robbreport.com",
+      "published_at": "2026-10-30T14:00:00Z",
+      "importance": 50,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "5ed6b7279f8d63be",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "The AI trade’s earnings scoreboard is getting ugly",
+      "summary": "Microsoft and SK Hynix stood out, but Amazon, Alphabet, Meta, Tesla, and Caterpillar raised fresh AI-spending doubts.",
+      "original_title": "The AI trade’s earnings scoreboard is getting ugly",
+      "url": "https://www.businessinsider.com/ai-trade-earnings-winners-losers-amazon-alphabet-microsoft-meta-tesla-2026-10#article",
+      "source": "Business Insider",
+      "domain": "businessinsider.com",
+      "published_at": "2026-10-30T09:50:01Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "77b9664b9f3f1da4",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2632,7 +2632,7 @@
       "source": "Abcnews.com",
       "domain": "abcnews.com",
       "published_at": "2026-10-30T09:33:47Z",
-      "importance": 50,
+      "importance": 45,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -2656,7 +2656,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「總體風險」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     },
     {
       "id": "8ccc3d276dad6996",
