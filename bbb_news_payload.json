@@ -1,10 +1,48 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-11-05T20:21:07.388871+00:00",
+  "generated_at": "2026-11-06T03:13:16.887409+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 75,
   "items": [
+    {
+      "id": "8993b666a87ca7cd",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "Asia Optical posts record Q3 profit, ramps CPO and AI optics push",
+      "summary": "Asia Optical Group reported record third-quarter profit for 2026 on November 4, as revenue reached approximately NT$7.846 billion (US$239.4 million), while gross profit, operating profit, and net profit attributable to owners of the company all hit new highs …",
+      "original_title": "Asia Optical posts record Q3 profit, ramps CPO and AI optics push",
+      "url": "https://www.digitimes.com/news/a20261104PD246/asia-optical-profit-cpo-2025-2026.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-11-05T00:53:32Z",
+      "importance": 83,
+      "impact": "positive",
+      "timeframe": "short_to_mid_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
     {
       "id": "53991254818cbbb1",
       "dataset": "market_news",
@@ -44,32 +82,29 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
-      "id": "e5415c41e6be07d3",
+      "id": "be1fa35863d16775",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "Eternal Materials posts record revenue in advanced packaging, precision equipment",
-      "summary": "Eternal Materials posted earnings before taxes (EBT) of NT$388 million (approx. US$11.92 million) in September 2026, surging 158.28% year-over-year and up 44.47% from August, as revenue from semiconductor advanced packaging materials and precision equipment b…",
-      "original_title": "Eternal Materials posts record revenue in advanced packaging, precision equipment",
-      "url": "https://www.digitimes.com/news/a20261029PD249/eternal-materials-revenue-equipment-packaging-materials.html",
+      "theme": "HBM記憶體",
+      "title": "SK Hynix leads HBM4 yield at 60%, expands DRAM supply",
+      "summary": "SK Hynix's sixth-generation high-bandwidth memory (HBM4) yield has reportedly reached the mid-60% range, the highest in the industry. Analysts say improved yield has lifted production efficiency, allowing the company to expand server DRAM supply even as it co…",
+      "original_title": "SK Hynix leads HBM4 yield at 60%, expands DRAM supply",
+      "url": "https://www.digitimes.com/news/a20261105PD211/sk-hynix-hbm4-dram-hbm-capacity.html",
       "source": "Digitimes",
       "domain": "digitimes.com",
-      "published_at": "2026-10-30T01:28:25Z",
-      "importance": 83,
+      "published_at": "2026-11-05T02:45:00Z",
+      "importance": 78,
       "impact": "positive",
       "timeframe": "short_to_mid_term",
       "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
+        "HBM",
+        "記憶體"
       ],
       "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
       ],
       "related_models": [
         "003",
@@ -79,7 +114,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+      "reason": "屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "40a1d5aa7b0b2bee",
@@ -115,6 +150,82 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
+      "id": "e5415c41e6be07d3",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "Eternal Materials posts record revenue in advanced packaging, precision equipment",
+      "summary": "Eternal Materials posted earnings before taxes (EBT) of NT$388 million (approx. US$11.92 million) in September 2026, surging 158.28% year-over-year and up 44.47% from August, as revenue from semiconductor advanced packaging materials and precision equipment b…",
+      "original_title": "Eternal Materials posts record revenue in advanced packaging, precision equipment",
+      "url": "https://www.digitimes.com/news/a20261029PD249/eternal-materials-revenue-equipment-packaging-materials.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-10-30T01:28:25Z",
+      "importance": 78,
+      "impact": "positive",
+      "timeframe": "short_to_mid_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
+      "id": "ba54161a9069cd31",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "Samsung reportedly plans 2nm fab to boost HBM base-die output",
+      "summary": "Samsung Electronics is preparing to build a 2nm- and 4nm-class foundry fab at its Giheung campus in Yongin, South Korea, to expand production of logic base dies used in high-bandwidth memory (HBM). The fab is estimated to cost KRW25 trillion (approx. US$18.6 …",
+      "original_title": "Samsung reportedly plans 2nm fab to boost HBM base-die output",
+      "url": "https://www.digitimes.com/news/a20261105VL216/samsung-fab-hbm-2nm-production.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-11-05T02:55:00Z",
+      "importance": 73,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "3a246ef165d569ca",
@@ -304,6 +415,44 @@
       "reason": "屬「半導體先進製程」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
+      "id": "d02060a7292a9dcb",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Drax wants to feed Britain's AI habit with £20B datacenter at biomass power station",
+      "summary": "But first it needs planning permission, government approval and, rather importantly, a customer",
+      "original_title": "Drax wants to feed Britain's AI habit with £20B datacenter at biomass power station",
+      "url": "https://www.theregister.com/on-prem/2026/11/03/drax-wants-to-feed-britains-ai-habit-with-20b-datacenter-at-biomass-power-station/5307237",
+      "source": "Theregister.com",
+      "domain": "theregister.com",
+      "published_at": "2026-11-03T13:27:33Z",
+      "importance": 70,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
       "id": "b5dd9ababc8a3b0a",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -482,6 +631,44 @@
       "reason": "屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "aaf00e3460a0b187",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "Report: Apple and Samsung outperform rivals as smartphone chip shipments tumble 21%",
+      "summary": "According to Counterpoint Research, Apple and Samsung were the only major smartphone chip vendors to gain market share in Q3 2026, as global shipments declined 21% year-over-year. Here are the details.\n\n\n\n more…",
+      "original_title": "Report: Apple and Samsung outperform rivals as smartphone chip shipments tumble 21%",
+      "url": "https://9to5mac.com/2026/11/04/report-apple-and-samsung-outperform-rivals-as-smartphone-chip-shipments-tumble-21/",
+      "source": "9to5Mac",
+      "domain": "9to5mac.com",
+      "published_at": "2026-11-04T23:59:10Z",
+      "importance": 65,
+      "impact": "negative",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "ed6204f46f96fe1b",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -555,79 +742,6 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "36f4a71700f901f9",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "Apple says it's 'really hard' to predict when iPhone Duo supply will catch up to demand",
-      "summary": "Apple's chief operating officer said during Monday's earnings call that \"it's really hard to predict when supply and demand will be in balance.\"",
-      "original_title": "Apple says it's 'really hard' to predict when iPhone Duo supply will catch up to demand",
-      "url": "https://www.businessinsider.com/apple-iphone-duo-supply-demand-earnings-2026-11#article",
-      "source": "Business Insider",
-      "domain": "businessinsider.com",
-      "published_at": "2026-11-03T00:48:53Z",
-      "importance": 65,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "88783423cf3a2db3",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "Tower Semiconductor Ltd. Q3 2026 Earnings Call Summary",
-      "summary": "Strategic Growth Drivers and Operational Execution\nOur analysts just identified a stock with the potential to be the next Nvidia. Tell us how you invest and we'll show you why it's our #1 pick. Tap here.\n- Growth is primarily driven by silicon photonics (SiPh…",
-      "original_title": "Tower Semiconductor Ltd. Q3 2026 Earnings Call Summary",
-      "url": "https://biztoc.com/x/28acc90f514c3026",
-      "source": "Biztoc.com",
-      "domain": "biztoc.com",
-      "published_at": "2026-11-02T22:59:31Z",
-      "importance": 65,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "36694be4e5bb1233",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -663,19 +777,19 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "ae972d5710c5efed",
+      "id": "a8725f789b2da574",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "總體風險",
-      "title": "Rivian’s R2 is officially its best-selling vehicle",
-      "summary": "Rivian reported its third quarter earnings of 2026, providing us a closer look at the company's financial health as it ramps up production of its all-important R2 electric vehicle - which is now, for the first time, outselling all of Rivian's other EVs. Rivia…",
-      "original_title": "Rivian’s R2 is officially its best-selling vehicle",
-      "url": "https://www.theverge.com/transportation/1022420/rivian-q3-earnings-r2-sales-volkswagen-software",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "published_at": "2026-10-29T19:21:58Z",
-      "importance": 63,
-      "impact": "positive",
+      "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
+      "summary": "With Canada-US trade talks back on, Tuesday’s midterm Democratic wave puts pressure on the White House to come to a deal.",
+      "original_title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
+      "url": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo",
+      "source": "BBC News",
+      "domain": "bbc.co.uk",
+      "published_at": "2026-11-04T17:02:44Z",
+      "importance": 60,
+      "impact": "negative",
       "timeframe": "short_term",
       "tags": [
         "總體",
@@ -698,7 +812,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "2bc092be776b2b40",
@@ -737,6 +851,44 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "2eebfd07de36afc6",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "Republican Byron Donalds wins governor's race in Florida",
+      "summary": "Donalds, who was backed early by President Trump, will become the state's first Black governor.",
+      "original_title": "Republican Byron Donalds wins governor's race in Florida",
+      "url": "https://www.npr.org/2026/11/03/g-s1-151260/florida-governor-donalds-jolly",
+      "source": "NPR",
+      "domain": "npr.org",
+      "published_at": "2026-11-04T02:10:59Z",
+      "importance": 60,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "ee0a449232a2afc9",
@@ -929,6 +1081,79 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "36f4a71700f901f9",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "Apple says it's 'really hard' to predict when iPhone Duo supply will catch up to demand",
+      "summary": "Apple's chief operating officer said during Monday's earnings call that \"it's really hard to predict when supply and demand will be in balance.\"",
+      "original_title": "Apple says it's 'really hard' to predict when iPhone Duo supply will catch up to demand",
+      "url": "https://www.businessinsider.com/apple-iphone-duo-supply-demand-earnings-2026-11#article",
+      "source": "Business Insider",
+      "domain": "businessinsider.com",
+      "published_at": "2026-11-03T00:48:53Z",
+      "importance": 60,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "88783423cf3a2db3",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "Tower Semiconductor Ltd. Q3 2026 Earnings Call Summary",
+      "summary": "Strategic Growth Drivers and Operational Execution\nOur analysts just identified a stock with the potential to be the next Nvidia. Tell us how you invest and we'll show you why it's our #1 pick. Tap here.\n- Growth is primarily driven by silicon photonics (SiPh…",
+      "original_title": "Tower Semiconductor Ltd. Q3 2026 Earnings Call Summary",
+      "url": "https://biztoc.com/x/28acc90f514c3026",
+      "source": "Biztoc.com",
+      "domain": "biztoc.com",
+      "published_at": "2026-11-02T22:59:31Z",
+      "importance": 60,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "fd8e32a1104f6aef",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -967,44 +1192,6 @@
       "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "2af07b8ada62485f",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "Tariffs, diesel and computer chips are driving up costs for automakers",
-      "summary": "American auto companies say they are paying more for key components like computer chips, steel and copper — plus the fuel needed to transport their products.",
-      "original_title": "Tariffs, diesel and computer chips are driving up costs for automakers",
-      "url": "https://www.npr.org/2026/10/29/nx-s1-6008066/automakers-inflation-tariffs-chips-diesel-earnings",
-      "source": "NPR",
-      "domain": "npr.org",
-      "published_at": "2026-10-29T09:00:00Z",
-      "importance": 60,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "79ba447676d84590",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1038,6 +1225,82 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "42af7b489c949054",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "Analysis: Vance walks Trump tightrope with scathing election critique blaming Iran war",
+      "summary": "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory.",
+      "original_title": "Analysis: Vance walks Trump tightrope with scathing election critique blaming Iran war",
+      "url": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o",
+      "source": "BBC News",
+      "domain": "bbc.co.uk",
+      "published_at": "2026-11-05T02:33:40Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "dbdb68707c5b79d0",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Wilson returns as Wales call up uncapped Duncan",
+      "summary": "Harry Wilson is back in Wales' squad for their Nations League matches against Norway and Portugal, while goalkeeper Joe Duncan earns his first call.",
+      "original_title": "Wilson returns as Wales call up uncapped Duncan",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwly4ee53mgyo",
+      "source": "BBC News",
+      "domain": "bbc.co.uk",
+      "published_at": "2026-11-04T10:30:19Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "0a20cfd79cbd03f0",
@@ -1114,6 +1377,44 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "aa9f684ebe18b7f3",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "eBay lists a $60 million AI supercomputer with 9,600 Nvidia A100 GPUs and 4,200 AMD EPYC CPUs — but you do get free shipping",
+      "summary": "Core 4 Solutions listed a 300-rack AI supercomputer on eBay, seeking $59.7 million for its Nvidia and AMD hardware",
+      "original_title": "eBay lists a $60 million AI supercomputer with 9,600 Nvidia A100 GPUs and 4,200 AMD EPYC CPUs — but you do get free shipping",
+      "url": "https://www.techradar.com/pro/ebay-lists-a-usd60-million-ai-supercomputer-with-9-600-nvidia-a100-gpus-and-4-200-amd-epyc-cpus-but-you-do-get-free-shipping",
+      "source": "TechRadar",
+      "domain": "techradar.com",
+      "published_at": "2026-11-04T01:05:00Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "2775eee805435c80",
@@ -1227,82 +1528,6 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "f4a9c6250bc1f136",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "The Vera Rubin Has Found Two More of the Milky Way's Dim Satellites",
-      "summary": "The Vera Rubin Observatory has detected two more of the Milky Ways' dim, hard to see satellites. One is an ultra-faint dwarf galaxy, and one is a globular cluster. Each one is a missing piece of the puzzle in the Milky Way's merger history. By finding more of…",
-      "original_title": "The Vera Rubin Has Found Two More of the Milky Way's Dim Satellites",
-      "url": "https://www.universetoday.com/articles/the-vera-rubin-has-found-two-more-of-the-milky-ways-dim-satellites",
-      "source": "Universe Today",
-      "domain": "universetoday.com",
-      "published_at": "2026-11-03T01:33:59Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "d60739c0d72f06c8",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "How do midterm candidates plan to fight inflation? Economists evaluate proposals",
-      "summary": "Proposals include tax cuts and an end to the Iran war.",
-      "original_title": "How do midterm candidates plan to fight inflation? Economists evaluate proposals",
-      "url": "https://abcnews.com/Business/midterm-candidates-plan-fight-inflation-economists-evaluate-proposals/story?id=137570780",
-      "source": "Abcnews.com",
-      "domain": "abcnews.com",
-      "published_at": "2026-11-02T21:22:59Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "ce4d08f56ed9832f",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1314,6 +1539,44 @@
       "source": "Robb Report",
       "domain": "robbreport.com",
       "published_at": "2026-11-02T17:00:00Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "dab833748553883c",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "(PR) Marvell Acquires Lumentum for $115 Billion All-Stock Deal",
+      "summary": "Marvell Technology, Inc. (NASDAQ: MRVL) and Lumentum (NASDAQ: LITE) today announced that they have entered into a definitive agreement for Marvell to acquire Lumentum in an all-stock transaction. Under the terms of the agreement, Lumentum stockholders will re…",
+      "original_title": "(PR) Marvell Acquires Lumentum for $115 Billion All-Stock Deal",
+      "url": "https://www.techpowerup.com/354410/marvell-acquires-lumentum-for-usd-115-billion-all-stock-deal",
+      "source": "Techpowerup.com",
+      "domain": "techpowerup.com",
+      "published_at": "2026-11-02T16:53:01Z",
       "importance": 55,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -1680,32 +1943,32 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "dd8f70d315fcb96b",
+      "id": "f4a9c6250bc1f136",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "Taiwan Plans $4 Billion Texas Industrial Park to Serve Nvidia, TSMC Suppliers",
-      "summary": "Taiwan’s Ministry of Economic Affairs announced plans for an industrial park in Texas that would cost between $2 billion and $4 billion to build, according to a statement from the ministry [1]. The facility is intended to host smaller Taiwanese suppliers that…",
-      "original_title": "Taiwan Plans $4 Billion Texas Industrial Park to Serve Nvidia, TSMC Suppliers",
-      "url": "https://www.naturalnews.com/2026-10-30-taiwan-plans-texas-industrial-park-serve-nvidia.html",
-      "source": "Naturalnews.com",
-      "domain": "naturalnews.com",
-      "published_at": "2026-10-30T06:00:00Z",
-      "importance": 55,
+      "theme": "AI伺服器",
+      "title": "The Vera Rubin Has Found Two More of the Milky Way's Dim Satellites",
+      "summary": "The Vera Rubin Observatory has detected two more of the Milky Ways' dim, hard to see satellites. One is an ultra-faint dwarf galaxy, and one is a globular cluster. Each one is a missing piece of the puzzle in the Milky Way's merger history. By finding more of…",
+      "original_title": "The Vera Rubin Has Found Two More of the Milky Way's Dim Satellites",
+      "url": "https://www.universetoday.com/articles/the-vera-rubin-has-found-two-more-of-the-milky-ways-dim-satellites",
+      "source": "Universe Today",
+      "domain": "universetoday.com",
+      "published_at": "2026-11-03T01:33:59Z",
+      "importance": 50,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
+        "AI",
+        "伺服器",
+        "資料中心"
       ],
       "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
       ],
       "related_models": [
         "003",
@@ -1715,32 +1978,35 @@
         "009",
         "010"
       ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "5f8ffc9b9ff3c8bd",
+      "id": "d60739c0d72f06c8",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "SK hynix reports record Q3 numbers, warns that the memory shortage will last through 2030",
-      "summary": "SK hynix had a stellar quarter – the financial report for Q3 reports revenues of KRW 104.6 trillion. This is the first time that the quarterly sales have gone above the KRW 100 trillion mark.\n\nBetter still, the company has margins that we can all be envious o…",
-      "original_title": "SK hynix reports record Q3 numbers, warns that the memory shortage will last through 2030",
-      "url": "https://www.gsmarena.com/sk_hynix_reports_record_q3_numbers_warns_that_the_memory_shortage_will_last_through_2030-news-75249.php",
-      "source": "GSMArena.com",
-      "domain": "gsmarena.com",
-      "published_at": "2026-10-29T01:02:02Z",
-      "importance": 55,
+      "theme": "總體風險",
+      "title": "How do midterm candidates plan to fight inflation? Economists evaluate proposals",
+      "summary": "Proposals include tax cuts and an end to the Iran war.",
+      "original_title": "How do midterm candidates plan to fight inflation? Economists evaluate proposals",
+      "url": "https://abcnews.com/Business/midterm-candidates-plan-fight-inflation-economists-evaluate-proposals/story?id=137570780",
+      "source": "Abcnews.com",
+      "domain": "abcnews.com",
+      "published_at": "2026-11-02T21:22:59Z",
+      "importance": 50,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "HBM",
-        "記憶體"
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
       ],
       "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
       ],
       "related_models": [
         "003",
@@ -1750,45 +2016,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "d6dec1d070e4bc19",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "Anduril now says its BlueChip laptop will meet Buy American standards at launch",
-      "summary": "On Tuesday, defense contractor Anduril and chipmaker Qualcomm announced a partnership to build laptops entirely in the United States, starting with a single model in 2027. They also announced a \"long-term goal\" of pushing the computer industry to create \"a fu…",
-      "original_title": "Anduril now says its BlueChip laptop will meet Buy American standards at launch",
-      "url": "https://www.theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-american",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "published_at": "2026-10-29T02:22:46Z",
-      "importance": 53,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "225d5c870c5b2186",
@@ -1862,6 +2090,44 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "0345746dff967254",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "The Bridge “X” Marks 10 Years On The Car Show Scene",
+      "summary": "Set on the site of a former race circuit, The Bridge showcases an unexpected mix of rare and collector cars at a relaxed golf course setting in Bridgehampton Since watching the sun …",
+      "original_title": "The Bridge “X” Marks 10 Years On The Car Show Scene",
+      "url": "http://coolhunting.com/culture/the-bridge-x-marks-10-years-on-the-car-show-scene/",
+      "source": "Cool Hunting",
+      "domain": "coolhunting.com",
+      "published_at": "2026-11-01T20:59:55Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "ecdb0bc1bcdd927c",
@@ -2052,6 +2318,44 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "ea4ac4e843d1ce61",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "CUDA Oxide 0.3 Vastly Improves Rust Support For NVIDIA CUDA Programming",
+      "summary": "NVIDIA software engineers released CUDA Oxide 0.3 for closing out October. CUDA Oxide as a reminder is their experimental Rust to CUDA compiler that has been seeing a lot of activity in recent months...",
+      "original_title": "CUDA Oxide 0.3 Vastly Improves Rust Support For NVIDIA CUDA Programming",
+      "url": "https://www.phoronix.com/news/CUDA-Oxide-0.3",
+      "source": "Phoronix",
+      "domain": "phoronix.com",
+      "published_at": "2026-10-31T09:50:00Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "68ed68dcfb216e89",
@@ -2366,7 +2670,7 @@
       "source": "Prtimes.jp",
       "domain": "prtimes.jp",
       "published_at": "2026-10-30T02:43:29Z",
-      "importance": 50,
+      "importance": 45,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -2390,7 +2694,45 @@
         "009",
         "010"
       ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
+    },
+    {
+      "id": "a90908ae0fe6dcc6",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "Democrats have an identity crisis - it won't be an easy fix",
+      "summary": "Whatever the result of the midterm elections, the party is facing tough questions over what they stand for and who should represent them.",
+      "original_title": "Democrats have an identity crisis - it won't be an easy fix",
+      "url": "https://www.bbc.co.uk/news/articles/cknv08980d3vo",
+      "source": "BBC News",
+      "domain": "bbc.co.uk",
+      "published_at": "2026-10-30T02:14:41Z",
+      "importance": 45,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     },
     {
       "id": "bfe6c98057eb39b4",
@@ -2404,7 +2746,7 @@
       "source": "CNA",
       "domain": "cnaluxury.channelnewsasia.com",
       "published_at": "2026-10-30T02:13:00Z",
-      "importance": 50,
+      "importance": 45,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -2428,7 +2770,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     },
     {
       "id": "44e1072701aef4f0",
@@ -2442,7 +2784,7 @@
       "source": "GSMArena.com",
       "domain": "gsmarena.com",
       "published_at": "2026-10-30T01:01:01Z",
-      "importance": 50,
+      "importance": 45,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -2466,349 +2808,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "3ae93214fb47357a",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Getac says its new rugged notebooks offer faster AI-powered processing than ever — and seem to be targeting military and defense customers",
-      "summary": "Panther Lake, Copilot+ and an Nvidia Blackwell option: here's what Getac's 180 TOPS rugged laptop claim really means.",
-      "original_title": "Getac says its new rugged notebooks offer faster AI-powered processing than ever — and seem to be targeting military and defense customers",
-      "url": "https://www.techradar.com/pro/getac-says-its-new-rugged-notebooks-offer-faster-ai-powered-processing-than-ever-and-seem-to-be-targeting-military-and-defense-customers",
-      "source": "TechRadar",
-      "domain": "techradar.com",
-      "published_at": "2026-10-29T22:30:00Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "e18357f5423f039a",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks",
-      "summary": "NVL72 puts all 72 GPUs in a rack on one NVLink fabric, but only rack-local jobs get the speedup. How SkyPilot keeps multi-node training and inference on NVLink with topology-aware placement, in-place recovery from GPU failures, and automatic defragmentation.",
-      "original_title": "Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks",
-      "url": "https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler",
-      "source": "Skypilot.ai",
-      "domain": "skypilot.ai",
-      "published_at": "2026-10-29T15:45:05Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "c1a126aff1eedaa9",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "With days to go before the midterms, data shows the U.S. economy is doing well",
-      "summary": "GDP grew at an annual rate of 3.4% in the third quarter in the last major read on the economy ahead of the midterm elections — but many Americans continue to struggle with affordability.",
-      "original_title": "With days to go before the midterms, data shows the U.S. economy is doing well",
-      "url": "https://www.npr.org/2026/10/29/nx-s1-6021008/economy-gdp-inflation-midterms-voters-affordability",
-      "source": "NPR",
-      "domain": "npr.org",
-      "published_at": "2026-10-29T13:05:03Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "fe2ee4c8fc939b4a",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Scientists may have found a new dwarf planet in a distant world beyond Pluto",
-      "summary": "Scientists from the NSF–DOE Vera C. Rubin Observatory have announced that they have spotted a possible new dwarf planet known (for now) as 2026 ED138 orbiting the sun, located just beyond Pluto.Meet our Solar System's newest dwarf planet candidate: 2026 ED138…",
-      "original_title": "Scientists may have found a new dwarf planet in a distant world beyond Pluto",
-      "url": "https://www.newsweek.com/scientists-may-have-found-new-dwarf-planet-12634224",
-      "source": "Newsweek",
-      "domain": "newsweek.com",
-      "published_at": "2026-10-29T11:20:10Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "51ef90af287671ae",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Astronomers Discover a Possible New Dwarf Planet in Our Solar System",
-      "summary": "Lying beyond Pluto, 2026 ED138 could be as large as 1,500 kilometers in diameter. Astronomers are still working to confirm whether it meets the criteria for a dwarf planet.",
-      "original_title": "Astronomers Discover a Possible New Dwarf Planet in Our Solar System",
-      "url": "https://www.wired.com/story/astronomers-discover-a-possible-new-dwarf-planet-in-our-solar-system/",
-      "source": "Wired",
-      "domain": "wired.com",
-      "published_at": "2026-10-29T09:00:00Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "e4c0a7d19a23f122",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "World's largest digital camera snaps new world beyond Pluto",
-      "summary": "Space was so much simpler when I was a kid. Back in the 1980s, we still hoped to find habitable planets around every star. Nine planets orbited our own Sun. And “dwarf planet” sounded like a Saturday morning cartoon begging for its own toy line.Continue Readi…",
-      "original_title": "World's largest digital camera snaps new world beyond Pluto",
-      "url": "https://newatlas.com/space/largest-camera-new-world-beyond-pluto/",
-      "source": "New Atlas",
-      "domain": "newatlas.com",
-      "published_at": "2026-10-29T03:47:00Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "02a24f22c784f4d0",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "大きいのに、すっきり見える。MORLENの本革トートバッグがMakuakeで先行販売を開始",
-      "summary": "[近江グローバルサービス株式会社]\n[画像1: https://prcdn.freetls.fastly.net/release_image/192784/9/192784-9-af402bdf319ca459167598b544e538b9-1380x776.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&amp...",
-      "original_title": "大きいのに、すっきり見える。MORLENの本革トートバッグがMakuakeで先行販売を開始",
-      "url": "https://prtimes.jp/main/html/rd/p/000000009.000192784.html",
-      "source": "Prtimes.jp",
-      "domain": "prtimes.jp",
-      "published_at": "2026-10-29T01:40:51Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "87bcbb99faa504e6",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "HRTechカンファレンス 2026（ラスベガス）出展レポートを速報公開。出展企業解析と、日本企業にとって「本当に価値のあるHRテクノロジー」と「気をつけるべきポイント」を詳細解説",
-      "summary": "[freecracy]\n[画像1: https://prcdn.freetls.fastly.net/release_image/37201/29/37201-29-c4ccdc7a5fd31bce2f9fe511f217af0c-2206x1654.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...",
-      "original_title": "HRTechカンファレンス 2026（ラスベガス）出展レポートを速報公開。出展企業解析と、日本企業にとって「本当に価値のあるHRテクノロジー」と「気をつけるべきポイント」を詳細解説",
-      "url": "https://prtimes.jp/main/html/rd/p/000000029.000037201.html",
-      "source": "Prtimes.jp",
-      "domain": "prtimes.jp",
-      "published_at": "2026-10-29T00:40:45Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "68776c0b2a72c8f0",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "Europe's youth take to the streets - they feel locked out of a promising future",
-      "summary": "The last month has seen youth-driven demonstrations across Europe. What connects them?",
-      "original_title": "Europe's youth take to the streets - they feel locked out of a promising future",
-      "url": "https://www.bbc.co.uk/news/articles/cm2ke80nd929o",
-      "source": "BBC News",
-      "domain": "bbc.co.uk",
-      "published_at": "2026-10-29T00:33:11Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
+      "reason": "屬「半導體先進製程」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     }
   ]
 }

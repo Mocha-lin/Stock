@@ -1,5 +1,14 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-05T20:21:07.388871+00:00
+> 更新時間：2026-11-06T03:13:16.887409+00:00
+
+### 🚀 Asia Optical posts record Q3 profit, ramps CPO and AI optics push
+- **題材**: `光通訊與矽光子` | **重要性**: `83`
+- **來源**: Digitimes (2026-11-05T00:53:32Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Asia Optical Group reported record third-quarter profit for 2026 on November 4, as revenue reached approximately NT$7.846 billion (US$239.4 million), while gross profit, operating profit, and net profit attributable to owners of the company all hit new highs …
+- [原文連結](https://www.digitimes.com/news/a20261104PD246/asia-optical-profit-cpo-2025-2026.html)
+
+---
 
 ### ⚖️ Zhongji InnoLight revenue and profit more than double in 3Q26
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -10,12 +19,12 @@
 
 ---
 
-### 🚀 Eternal Materials posts record revenue in advanced packaging, precision equipment
-- **題材**: `半導體先進製程` | **重要性**: `83`
-- **來源**: Digitimes (2026-10-30T01:28:25Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Eternal Materials posted earnings before taxes (EBT) of NT$388 million (approx. US$11.92 million) in September 2026, surging 158.28% year-over-year and up 44.47% from August, as revenue from semiconductor advanced packaging materials and precision equipment b…
-- [原文連結](https://www.digitimes.com/news/a20261029PD249/eternal-materials-revenue-equipment-packaging-materials.html)
+### 🚀 SK Hynix leads HBM4 yield at 60%, expands DRAM supply
+- **題材**: `HBM記憶體` | **重要性**: `78`
+- **來源**: Digitimes (2026-11-05T02:45:00Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: SK Hynix's sixth-generation high-bandwidth memory (HBM4) yield has reportedly reached the mid-60% range, the highest in the industry. Analysts say improved yield has lifted production efficiency, allowing the company to expand server DRAM supply even as it co…
+- [原文連結](https://www.digitimes.com/news/a20261105PD211/sk-hynix-hbm4-dram-hbm-capacity.html)
 
 ---
 
@@ -25,6 +34,24 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: AMD CEO Lisa Su said in the company's quarterly earnings call on Tuesday that Q3 2026 was "was the largest and most profitable in our history." AMD reported a record $13.4 billion in quarterly revenue, and it's predicting it will hit another record high next …
 - [原文連結](https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc)
+
+---
+
+### 🚀 Eternal Materials posts record revenue in advanced packaging, precision equipment
+- **題材**: `半導體先進製程` | **重要性**: `78`
+- **來源**: Digitimes (2026-10-30T01:28:25Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Eternal Materials posted earnings before taxes (EBT) of NT$388 million (approx. US$11.92 million) in September 2026, surging 158.28% year-over-year and up 44.47% from August, as revenue from semiconductor advanced packaging materials and precision equipment b…
+- [原文連結](https://www.digitimes.com/news/a20261029PD249/eternal-materials-revenue-equipment-packaging-materials.html)
+
+---
+
+### ⚖️ Samsung reportedly plans 2nm fab to boost HBM base-die output
+- **題材**: `半導體先進製程` | **重要性**: `73`
+- **來源**: Digitimes (2026-11-05T02:55:00Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Samsung Electronics is preparing to build a 2nm- and 4nm-class foundry fab at its Giheung campus in Yongin, South Korea, to expand production of logic base dies used in high-bandwidth memory (HBM). The fab is estimated to cost KRW25 trillion (approx. US$18.6 …
+- [原文連結](https://www.digitimes.com/news/a20261105VL216/samsung-fab-hbm-2nm-production.html)
 
 ---
 
@@ -73,6 +100,15 @@
 
 ---
 
+### 🚀 Drax wants to feed Britain's AI habit with £20B datacenter at biomass power station
+- **題材**: `AI伺服器` | **重要性**: `70`
+- **來源**: Theregister.com (2026-11-03T13:27:33Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: But first it needs planning permission, government approval and, rather importantly, a customer
+- [原文連結](https://www.theregister.com/on-prem/2026/11/03/drax-wants-to-feed-britains-ai-habit-with-20b-datacenter-at-biomass-power-station/5307237)
+
+---
+
 ### 🚀 Taiwan’s AI stock boom is making early-stage startups a harder sell
 - **題材**: `半導體先進製程` | **重要性**: `70`
 - **來源**: Business Insider (2026-11-03T05:01:01Z)
@@ -118,6 +154,19 @@
 
 ---
 
+### ⚠️ Report: Apple and Samsung outperform rivals as smartphone chip shipments tumble 21%
+- **題材**: `半導體先進製程` | **重要性**: `65`
+- **來源**: 9to5Mac (2026-11-04T23:59:10Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: According to Counterpoint Research, Apple and Samsung were the only major smartphone chip vendors to gain market share in Q3 2026, as global shipments declined 21% year-over-year. Here are the details.
+
+
+
+ more…
+- [原文連結](https://9to5mac.com/2026/11/04/report-apple-and-samsung-outperform-rivals-as-smartphone-chip-shipments-tumble-21/)
+
+---
+
 ### ⚖️ Foxconn reveals bid to grab 50% of the global AI server market within the next few years
 - **題材**: `AI伺服器` | **重要性**: `65`
 - **來源**: TechRadar (2026-11-04T18:45:00Z)
@@ -133,57 +182,6 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: In his first earnings call as CEO, John Ternus warned of worsening memory prices.
 - [原文連結](https://gizmodo.com/apple-says-even-higher-memory-prices-and-siri-ai-push-will-weigh-on-profits-2000834048)
-
----
-
-### ⚖️ Apple says it's 'really hard' to predict when iPhone Duo supply will catch up to demand
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: Business Insider (2026-11-03T00:48:53Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Apple's chief operating officer said during Monday's earnings call that "it's really hard to predict when supply and demand will be in balance."
-- [原文連結](https://www.businessinsider.com/apple-iphone-duo-supply-demand-earnings-2026-11#article)
-
----
-
-### 🚀 Tower Semiconductor Ltd. Q3 2026 Earnings Call Summary
-- **題材**: `光通訊與矽光子` | **重要性**: `65`
-- **來源**: Biztoc.com (2026-11-02T22:59:31Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Strategic Growth Drivers and Operational Execution
-Our analysts just identified a stock with the potential to be the next Nvidia. Tell us how you invest and we'll show you why it's our #1 pick. Tap here.
-- Growth is primarily driven by silicon photonics (SiPh…
-- [原文連結](https://biztoc.com/x/28acc90f514c3026)
-
----
-
-### ⚖️ SK Hynix taps HBM veteran to lead new American unit
-- **題材**: `HBM記憶體` | **重要性**: `63`
-- **來源**: Digitimes (2026-10-30T08:48:07Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: SK Hynix has appointed its AI memory development chief to lead a newly established Americas unit based in the US, putting a technology veteran closer to major US customers as the industry shifts toward customized high-bandwidth memory (HBM) and deeper collabo…
-- [原文連結](https://www.digitimes.com/news/a20261030VL227/sk-hynix-hbm-development-americas-technology.html)
-
----
-
-### 🚀 Rivian’s R2 is officially its best-selling vehicle
-- **題材**: `總體風險` | **重要性**: `63`
-- **來源**: The Verge (2026-10-29T19:21:58Z)
-- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Rivian reported its third quarter earnings of 2026, providing us a closer look at the company's financial health as it ramps up production of its all-important R2 electric vehicle - which is now, for the first time, outselling all of Rivian's other EVs. Rivia…
-- [原文連結](https://www.theverge.com/transportation/1022420/rivian-q3-earnings-r2-sales-volkswagen-software)
-
----
-
-### 🚀 iPhone 18 is getting two major upgrades, but also another price hike
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: GSMArena.com (2026-11-04T10:09:02Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: According to a renowned Chinese leaker on Weibo, the upcoming iPhone 18 will get performance and battery upgrades, in line with the current iPhone 18 Pro lineup.
-
-
-
-This year Apple shook things around by announcing only the Pro models from the iPhone 18 lineu…
-- [原文連結](https://www.gsmarena.com/iphone_18_is_getting_two_major_upgrades_but_also_another_price_hike-news-75333.php)
 
 ---
 
