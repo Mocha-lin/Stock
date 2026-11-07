@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-07T15:26:59.675287+00:00
+> 更新時間：2026-11-07T17:53:19.362149+00:00
 
 ### 🚀 Hua Hong Grace eyes silicon photonics expansion as AI chip shortages lift pricing power
 - **題材**: `光通訊與矽光子` | **重要性**: `98`
@@ -154,15 +154,6 @@
 
 ---
 
-### ⚖️ Nintendo is losing a Switch cartridge supplier
-- **題材**: `HBM記憶體` | **重要性**: `68`
-- **來源**: The Verge (2026-11-04T17:03:32Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Nintendo is about to lose a major memory supplier for its Switch cartridges. The supplier, Macronix, announced during a recent quarterly earnings call that it would be gradually phasing out ROM production and is instead focusing on NOR flash memory for data c…
-- [原文連結](https://www.theverge.com/games/1026426/nintendo-switch-cartridges-rom-supplier-data-center)
-
----
-
 ### ⚖️ Samsung chairman Lee Jae-yong turns to Japan for AI chip packaging edge
 - **題材**: `半導體先進製程` | **重要性**: `68`
 - **來源**: Digitimes (2026-11-02T04:09:11Z)
@@ -178,6 +169,15 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: This week’s coverage highlights intensifying competition and capacity constraints across the global semiconductor industry. Taiwan faces debate over whether public R&D funding should prioritize universities and talent development. Micron workers receive unusu…
 - [原文連結](https://www.digitimes.com/news/a20261102VL200/2026-sk-hynix-taiwan-competition-capacity.html)
+
+---
+
+### ⚖️ Chinese AI lab Moonshot reportedly looked at European data centers to access Nvidia chips, report claims
+- **題材**: `AI伺服器` | **重要性**: `67`
+- **來源**: Tom's Hardware UK (2026-11-05T16:48:30Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: The lab is reportedly interested in renting at least 8,000 Nvidia Blackwell GPUs.
+- [原文連結](https://www.tomshardware.com/tech-industry/policy/chinese-ai-lab-moonshot-reportedly-looked-at-european-data-centers-to-access-nvidia-chips-report-claims-kimi-maker-primarily-interested-in-inferencing-capacity-but-also-asked-about-training-clusters)
 
 ---
 
