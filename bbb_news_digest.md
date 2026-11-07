@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-07T06:43:01.958620+00:00
+> 更新時間：2026-11-07T15:26:59.675287+00:00
 
 ### 🚀 Hua Hong Grace eyes silicon photonics expansion as AI chip shortages lift pricing power
 - **題材**: `光通訊與矽光子` | **重要性**: `98`
@@ -118,15 +118,6 @@
 
 ---
 
-### ⚠️ Intel shifts production capacity from consumer to server CPUs in face of 'unprecedented' AI demand — company navigating 'one of the most significant supply shortages in history'
-- **題材**: `半導體先進製程` | **重要性**: `72`
-- **來源**: Tom's Hardware UK (2026-10-31T13:00:00Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Intel is expanding chipmaking and advanced packaging capacity across the U.S., Ireland, and Malaysia to meet surging AI-driven demand for data center CPUs amid shrinking PC market and persistent supply constraints.
-- [原文連結](https://www.tomshardware.com/pc-components/cpus/intel-shifts-production-capacity-from-consumer-to-server-cpus-in-face-of-unprecedented-ai-demand-company-navigating-one-of-the-most-significant-supply-shortages-in-history)
-
----
-
 ### ⚖️ AI boom turns advanced chip packaging into the next battleground
 - **題材**: `半導體先進製程` | **重要性**: `70`
 - **來源**: BusinessLine (2026-11-06T06:17:42Z)
@@ -178,6 +169,15 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Samsung Electronics chairman Lee Jae-yong visited the company's Advanced Package Lab (APL) in Yokohama, Japan, on November 1, as the chipmaker looks to Japan's semiconductor materials and equipment industry to strengthen its advanced packaging capabilities fo…
 - [原文連結](https://www.digitimes.com/news/a20261102VL212/samsung-chairman-japan-ai-chip-packaging-materials.html)
+
+---
+
+### ⚖️ Weekly news roundup: Taiwan debates talent distribution; SK Hynix looks beyond HBM
+- **題材**: `HBM記憶體` | **重要性**: `68`
+- **來源**: Digitimes (2026-11-02T01:11:14Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: This week’s coverage highlights intensifying competition and capacity constraints across the global semiconductor industry. Taiwan faces debate over whether public R&D funding should prioritize universities and talent development. Micron workers receive unusu…
+- [原文連結](https://www.digitimes.com/news/a20261102VL200/2026-sk-hynix-taiwan-competition-capacity.html)
 
 ---
 
