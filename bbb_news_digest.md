@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-07T02:33:21.063456+00:00
+> 更新時間：2026-11-07T06:43:01.958620+00:00
 
 ### 🚀 Hua Hong Grace eyes silicon photonics expansion as AI chip shortages lift pricing power
 - **題材**: `光通訊與矽光子` | **重要性**: `98`
@@ -19,12 +19,12 @@
 
 ---
 
-### ⚖️ Zhongji InnoLight revenue and profit more than double in 3Q26
-- **題材**: `光通訊與矽光子` | **重要性**: `83`
-- **來源**: Digitimes (2026-11-04T03:35:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: China-based optical communications module maker Zhongji InnoLight reported strong results for the third quarter of 2026 as global AI infrastructure expansion drove robust demand for high-speed optical transceiver modules and increased shipments of 800G and 1.…
-- [原文連結](https://www.digitimes.com/news/a20261104PD232/2026-demand-profit-communications-revenue.html)
+### 🚀 China's NSIG sees silicon wafer prices rebound, but profitability remains elusive
+- **題材**: `光通訊與矽光子` | **重要性**: `78`
+- **來源**: Digitimes (2026-11-06T03:59:06Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: National Silicon Industry Group (NSIG) expects to complete its expansion to 1.2 million 300mm silicon wafers per month by the end of 2026, positioning the Chinese semiconductor materials supplier to benefit from recovering wafer prices and growing demand for …
+- [原文連結](https://www.digitimes.com/news/a20261106VL208/nsig-silicon-wafer-300mm-expansion.html)
 
 ---
 
@@ -46,12 +46,12 @@
 
 ---
 
-### 🚀 Murata, Samsung Electro-Mechanics reportedly secure Winbond's silicon capacitor capacity
-- **題材**: `半導體先進製程` | **重要性**: `78`
-- **來源**: Digitimes (2026-11-04T23:37:41Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Murata Manufacturing and Samsung Electro-Mechanics (Semco) have reportedly secured silicon capacitor production capacity from Winbond Electronics to meet demand from their end customers, as the Taiwanese memory maker expands into components used in AI advance…
-- [原文連結](https://www.digitimes.com/news/a20261104PD228/murata-silicon-semco-winbond-capacitor.html)
+### ⚖️ Zhongji InnoLight revenue and profit more than double in 3Q26
+- **題材**: `光通訊與矽光子` | **重要性**: `78`
+- **來源**: Digitimes (2026-11-04T03:35:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: China-based optical communications module maker Zhongji InnoLight reported strong results for the third quarter of 2026 as global AI infrastructure expansion drove robust demand for high-speed optical transceiver modules and increased shipments of 800G and 1.…
+- [原文連結](https://www.digitimes.com/news/a20261104PD232/2026-demand-profit-communications-revenue.html)
 
 ---
 
@@ -127,6 +127,15 @@
 
 ---
 
+### ⚖️ AI boom turns advanced chip packaging into the next battleground
+- **題材**: `半導體先進製程` | **重要性**: `70`
+- **來源**: BusinessLine (2026-11-06T06:17:42Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Chipmakers and equipment manufacturers are accelerating investments in new technologies as packaging capacity struggles to keep pace with demand
+- [原文連結](https://www.thehindubusinessline.com/info-tech/ai-boom-turns-advanced-chip-packaging-into-the-next-battleground/article71673081.ece)
+
+---
+
 ### 🚀 Counterpoint: global DRAM revenue grows by 369% in Q3
 - **題材**: `HBM記憶體` | **重要性**: `70`
 - **來源**: GSMArena.com (2026-11-05T19:11:03Z)
@@ -160,15 +169,6 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Nintendo is about to lose a major memory supplier for its Switch cartridges. The supplier, Macronix, announced during a recent quarterly earnings call that it would be gradually phasing out ROM production and is instead focusing on NOR flash memory for data c…
 - [原文連結](https://www.theverge.com/games/1026426/nintendo-switch-cartridges-rom-supplier-data-center)
-
----
-
-### ⚖️ Decoy processors carry Korean HBM past US export controls into China
-- **題材**: `HBM記憶體` | **重要性**: `68`
-- **來源**: Digitimes (2026-11-04T02:59:03Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: A loophole in US export controls reportedly lets high-bandwidth memory (HBM) made by Samsung Electronics and SK Hynix reach China's AI chip industry. The loophole shows how much Huawei's next-generation processors still depend on foreign memory, while China's…
-- [原文連結](https://www.digitimes.com/news/a20261104VL216/hbm-us-chip-restrictions-huawei-china-chips.html)
 
 ---
 
