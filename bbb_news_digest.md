@@ -1,5 +1,14 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-06T19:44:28.364288+00:00
+> 更新時間：2026-11-07T02:33:21.063456+00:00
+
+### 🚀 Hua Hong Grace eyes silicon photonics expansion as AI chip shortages lift pricing power
+- **題材**: `光通訊與矽光子` | **重要性**: `98`
+- **來源**: Digitimes (2026-11-06T01:57:16Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重大事件】可能顯著影響產業評價、EPS預期或資金流向。
+- **摘要**: China's second-largest contract chipmaker, Hua Hong Grace Semiconductor, is expanding into silicon photonics and power management chips to capitalise on AI infrastructure demand, following record third-quarter 2026 revenue and a 147.1% surge in profit.
+- [原文連結](https://www.digitimes.com/news/a20261106VL204/photonics-silicon-expansion-revenue-demand.html)
+
+---
 
 ### 🚀 Asia Optical posts record Q3 profit, ramps CPO and AI optics push
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -28,21 +37,21 @@
 
 ---
 
-### 🚀 AMD rides data center riches to ‘largest and most profitable’ quarter in history
+### 🚀 SK Hynix leads HBM4 yield at 60%, expands DRAM supply
 - **題材**: `HBM記憶體` | **重要性**: `78`
-- **來源**: The Verge (2026-11-04T01:17:17Z)
+- **來源**: Digitimes (2026-11-05T02:45:00Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: AMD CEO Lisa Su said in the company's quarterly earnings call on Tuesday that Q3 2026 was "was the largest and most profitable in our history." AMD reported a record $13.4 billion in quarterly revenue, and it's predicting it will hit another record high next …
-- [原文連結](https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc)
+- **摘要**: SK Hynix's sixth-generation high-bandwidth memory (HBM4) yield has reportedly reached the mid-60% range, the highest in the industry. Analysts say improved yield has lifted production efficiency, allowing the company to expand server DRAM supply even as it co…
+- [原文連結](https://www.digitimes.com/news/a20261105PD211/sk-hynix-hbm4-dram-hbm-capacity.html)
 
 ---
 
-### 🚀 Eternal Materials posts record revenue in advanced packaging, precision equipment
+### 🚀 Murata, Samsung Electro-Mechanics reportedly secure Winbond's silicon capacitor capacity
 - **題材**: `半導體先進製程` | **重要性**: `78`
-- **來源**: Digitimes (2026-10-30T01:28:25Z)
+- **來源**: Digitimes (2026-11-04T23:37:41Z)
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Eternal Materials posted earnings before taxes (EBT) of NT$388 million (approx. US$11.92 million) in September 2026, surging 158.28% year-over-year and up 44.47% from August, as revenue from semiconductor advanced packaging materials and precision equipment b…
-- [原文連結](https://www.digitimes.com/news/a20261029PD249/eternal-materials-revenue-equipment-packaging-materials.html)
+- **摘要**: Murata Manufacturing and Samsung Electro-Mechanics (Semco) have reportedly secured silicon capacitor production capacity from Winbond Electronics to meet demand from their end customers, as the Taiwanese memory maker expands into components used in AI advance…
+- [原文連結](https://www.digitimes.com/news/a20261104PD228/murata-silicon-semco-winbond-capacitor.html)
 
 ---
 
@@ -64,30 +73,21 @@
 
 ---
 
+### 🚀 AMD rides data center riches to ‘largest and most profitable’ quarter in history
+- **題材**: `HBM記憶體` | **重要性**: `73`
+- **來源**: The Verge (2026-11-04T01:17:17Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: AMD CEO Lisa Su said in the company's quarterly earnings call on Tuesday that Q3 2026 was "was the largest and most profitable in our history." AMD reported a record $13.4 billion in quarterly revenue, and it's predicting it will hit another record high next …
+- [原文連結](https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc)
+
+---
+
 ### 🚀 Dixon maps AI hardware expansion through Inventec, Gemtek, prospective packaging partners
 - **題材**: `光通訊與矽光子` | **重要性**: `73`
 - **來源**: Digitimes (2026-11-02T03:35:54Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Dixon Technologies is pursuing separate partnerships for servers, optical communications, and advanced semiconductor packaging as it seeks a role in AI infrastructure manufacturing, although its most ambitious silicon-photonics plans remain at the evaluation …
 - [原文連結](https://www.digitimes.com/news/a20261102VL203/dixon-packaging-gemtek-inventec-hardware.html)
-
----
-
-### 🚀 Marvell-Lumentum talks put optical supply chain in focus
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-10-30T23:33:24Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Marvell is reportedly in talks to acquire Lumentum, drawing attention across the optical communications supply chain. The deal would offer strong strategic synergies, particularly through Lumentum's expertise in critical optical transceiver components, but Lu…
-- [原文連結](https://www.digitimes.com/news/a20261030PD240/marvell-acquisition-communications-supply-chain-apple.html)
-
----
-
-### ⚖️ Radiant targets next-gen CPO above 6.4T, eyes 2028 mass production
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-10-30T23:32:58Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Radiant Opto-Electronics, a major backlight module maker, is expanding into new businesses and targeting next-generation optical communications architecture, particularly co-packaged optics (CPO) applications above 6.4T. Chairman and General Manager Yu-Chao W…
-- [原文連結](https://www.digitimes.com/news/a20261030PD236/radiant-cpo-production-2028-backlight.html)
 
 ---
 
@@ -145,6 +145,15 @@
 
 ---
 
+### ⚖️ Innolight starts US NPO pilot production with Tower for AI optical interconnects
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-11-06T01:55:23Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: China-based optical communications provider Innolight has advanced its next-generation AI optical interconnect strategy. Tower Semiconductor and Innolight said their first jointly developed near-package optics (NPO) product, built using Tower's PH18M silicon …
+- [原文連結](https://www.digitimes.com/news/a20261106PD202/production-communications-data-packaging-development.html)
+
+---
+
 ### ⚖️ Nintendo is losing a Switch cartridge supplier
 - **題材**: `HBM記憶體` | **重要性**: `68`
 - **來源**: The Verge (2026-11-04T17:03:32Z)
@@ -154,34 +163,21 @@
 
 ---
 
-### ⚠️ Sam Altman says it’s better for RAM to be in a data center than on your desk
+### ⚖️ Decoy processors carry Korean HBM past US export controls into China
 - **題材**: `HBM記憶體` | **重要性**: `68`
-- **來源**: The Verge (2026-10-30T20:48:43Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's "terrible" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where he also commented o…
-- [原文連結](https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers)
+- **來源**: Digitimes (2026-11-04T02:59:03Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: A loophole in US export controls reportedly lets high-bandwidth memory (HBM) made by Samsung Electronics and SK Hynix reach China's AI chip industry. The loophole shows how much Huawei's next-generation processors still depend on foreign memory, while China's…
+- [原文連結](https://www.digitimes.com/news/a20261104VL216/hbm-us-chip-restrictions-huawei-china-chips.html)
 
 ---
 
-### ⚖️ Chinese AI lab Moonshot reportedly looked at European data centers to access Nvidia chips, report claims
-- **題材**: `AI伺服器` | **重要性**: `67`
-- **來源**: Tom's Hardware UK (2026-11-05T16:48:30Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: The lab is reportedly interested in renting at least 8,000 Nvidia Blackwell GPUs.
-- [原文連結](https://www.tomshardware.com/tech-industry/policy/chinese-ai-lab-moonshot-reportedly-looked-at-european-data-centers-to-access-nvidia-chips-report-claims-kimi-maker-primarily-interested-in-inferencing-capacity-but-also-asked-about-training-clusters)
-
----
-
-### ⚠️ Report: Apple and Samsung outperform rivals as smartphone chip shipments tumble 21%
-- **題材**: `半導體先進製程` | **重要性**: `65`
-- **來源**: 9to5Mac (2026-11-04T23:59:10Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: According to Counterpoint Research, Apple and Samsung were the only major smartphone chip vendors to gain market share in Q3 2026, as global shipments declined 21% year-over-year. Here are the details.
-
-
-
- more…
-- [原文連結](https://9to5mac.com/2026/11/04/report-apple-and-samsung-outperform-rivals-as-smartphone-chip-shipments-tumble-21/)
+### ⚖️ Samsung chairman Lee Jae-yong turns to Japan for AI chip packaging edge
+- **題材**: `半導體先進製程` | **重要性**: `68`
+- **來源**: Digitimes (2026-11-02T04:09:11Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Samsung Electronics chairman Lee Jae-yong visited the company's Advanced Package Lab (APL) in Yokohama, Japan, on November 1, as the chipmaker looks to Japan's semiconductor materials and equipment industry to strengthen its advanced packaging capabilities fo…
+- [原文連結](https://www.digitimes.com/news/a20261102VL212/samsung-chairman-japan-ai-chip-packaging-materials.html)
 
 ---
 
