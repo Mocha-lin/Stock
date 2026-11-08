@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-08T15:48:43.133572+00:00
+> 更新時間：2026-11-08T18:07:20.270523+00:00
 
 ### 🚀 Hua Hong Grace eyes silicon photonics expansion as AI chip shortages lift pricing power
 - **題材**: `光通訊與矽光子` | **重要性**: `98`
@@ -154,15 +154,6 @@
 
 ---
 
-### ⚖️ Chinese AI lab Moonshot reportedly looked at European data centers to access Nvidia chips, report claims
-- **題材**: `AI伺服器` | **重要性**: `67`
-- **來源**: Tom's Hardware UK (2026-11-05T16:48:30Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: The lab is reportedly interested in renting at least 8,000 Nvidia Blackwell GPUs.
-- [原文連結](https://www.tomshardware.com/tech-industry/policy/chinese-ai-lab-moonshot-reportedly-looked-at-european-data-centers-to-access-nvidia-chips-report-claims-kimi-maker-primarily-interested-in-inferencing-capacity-but-also-asked-about-training-clusters)
-
----
-
 ### ⚖️ Micron's $4.5 billion Taoyuan plant construction halted amidst labor dispute
 - **題材**: `HBM記憶體` | **重要性**: `67`
 - **來源**: Tom's Hardware UK (2026-11-05T14:28:30Z)
@@ -178,6 +169,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Marvell has agreed to acquire Lumentum for $115 billion, combining its optical DSPs, SerDes, silicon photonics, and networking silicon with Lumentum’s lasers, transceivers, optical switches, and InP manufacturing footprint.
 - [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/marvell-to-buy-lumentum-in-usd115-billion-all-stock-deal-combined-company-to-supply-scale-up-and-scale-in-optics-for-ai-data-centers)
+
+---
+
+### ⚠️ Sam Altman meets with Samsung leadership to secure more RAM for data centers amid crushing shortages
+- **題材**: `HBM記憶體` | **重要性**: `67`
+- **來源**: Tom's Hardware UK (2026-11-01T14:21:23Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: OpenAI CEO Sam Altman met with around 50 Samsung executives in South Korea on October 31 to discuss AI's future, business opportunities and the technology's impact on corporate operations. The meeting comes as demand for memory chips grows alongside AI infras…
+- [原文連結](https://www.tomshardware.com/tech-industry/data-centers/sam-altman-travels-to-south-korea-to-meet-samsung-leadership-to-secure-more-ram-for-data-centers-amid-crushing-shortages-openai-ceo-meets-samsung-leadership-to-discuss-future-ai-data-centers)
 
 ---
 
