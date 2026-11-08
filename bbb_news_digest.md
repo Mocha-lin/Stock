@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-07T22:24:02.197404+00:00
+> 更新時間：2026-11-08T02:03:45.791460+00:00
 
 ### 🚀 Hua Hong Grace eyes silicon photonics expansion as AI chip shortages lift pricing power
 - **題材**: `光通訊與矽光子` | **重要性**: `98`
@@ -7,15 +7,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重大事件】可能顯著影響產業評價、EPS預期或資金流向。
 - **摘要**: China's second-largest contract chipmaker, Hua Hong Grace Semiconductor, is expanding into silicon photonics and power management chips to capitalise on AI infrastructure demand, following record third-quarter 2026 revenue and a 147.1% surge in profit.
 - [原文連結](https://www.digitimes.com/news/a20261106VL204/photonics-silicon-expansion-revenue-demand.html)
-
----
-
-### 🚀 Asia Optical posts record Q3 profit, ramps CPO and AI optics push
-- **題材**: `光通訊與矽光子` | **重要性**: `83`
-- **來源**: Digitimes (2026-11-05T00:53:32Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Asia Optical Group reported record third-quarter profit for 2026 on November 4, as revenue reached approximately NT$7.846 billion (US$239.4 million), while gross profit, operating profit, and net profit attributable to owners of the company all hit new highs …
-- [原文連結](https://www.digitimes.com/news/a20261104PD246/asia-optical-profit-cpo-2025-2026.html)
 
 ---
 
@@ -46,6 +37,15 @@
 
 ---
 
+### 🚀 Asia Optical posts record Q3 profit, ramps CPO and AI optics push
+- **題材**: `光通訊與矽光子` | **重要性**: `78`
+- **來源**: Digitimes (2026-11-05T00:53:32Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Asia Optical Group reported record third-quarter profit for 2026 on November 4, as revenue reached approximately NT$7.846 billion (US$239.4 million), while gross profit, operating profit, and net profit attributable to owners of the company all hit new highs …
+- [原文連結](https://www.digitimes.com/news/a20261104PD246/asia-optical-profit-cpo-2025-2026.html)
+
+---
+
 ### ⚖️ Zhongji InnoLight revenue and profit more than double in 3Q26
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
 - **來源**: Digitimes (2026-11-04T03:35:00Z)
@@ -73,12 +73,30 @@
 
 ---
 
+### 🚀 Murata, Samsung Electro-Mechanics reportedly secure Winbond's silicon capacitor capacity
+- **題材**: `半導體先進製程` | **重要性**: `73`
+- **來源**: Digitimes (2026-11-04T23:37:41Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Murata Manufacturing and Samsung Electro-Mechanics (Semco) have reportedly secured silicon capacitor production capacity from Winbond Electronics to meet demand from their end customers, as the Taiwanese memory maker expands into components used in AI advance…
+- [原文連結](https://www.digitimes.com/news/a20261104PD228/murata-silicon-semco-winbond-capacitor.html)
+
+---
+
 ### 🚀 AMD rides data center riches to ‘largest and most profitable’ quarter in history
 - **題材**: `HBM記憶體` | **重要性**: `73`
 - **來源**: The Verge (2026-11-04T01:17:17Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: AMD CEO Lisa Su said in the company's quarterly earnings call on Tuesday that Q3 2026 was "was the largest and most profitable in our history." AMD reported a record $13.4 billion in quarterly revenue, and it's predicting it will hit another record high next …
 - [原文連結](https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc)
+
+---
+
+### 🚀 MediaTek, Marvell, Broadcom battle for ASIC supply through 2028
+- **題材**: `半導體先進製程` | **重要性**: `73`
+- **來源**: Digitimes (2026-11-03T01:52:39Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Competition in the AI application-specific integrated circuit (ASIC) market will extend beyond 2028, industry sources said, with MediaTek, Broadcom, and Marvell competing not only for design wins, but also for secure access to wafers, advanced packaging, subs…
+- [原文連結](https://www.digitimes.com/news/a20261103PD211/2028-mediatek-market-asic-broadcom.html)
 
 ---
 
@@ -160,24 +178,6 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Samsung Electronics chairman Lee Jae-yong visited the company's Advanced Package Lab (APL) in Yokohama, Japan, on November 1, as the chipmaker looks to Japan's semiconductor materials and equipment industry to strengthen its advanced packaging capabilities fo…
 - [原文連結](https://www.digitimes.com/news/a20261102VL212/samsung-chairman-japan-ai-chip-packaging-materials.html)
-
----
-
-### ⚖️ Weekly news roundup: Taiwan debates talent distribution; SK Hynix looks beyond HBM
-- **題材**: `HBM記憶體` | **重要性**: `68`
-- **來源**: Digitimes (2026-11-02T01:11:14Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: This week’s coverage highlights intensifying competition and capacity constraints across the global semiconductor industry. Taiwan faces debate over whether public R&D funding should prioritize universities and talent development. Micron workers receive unusu…
-- [原文連結](https://www.digitimes.com/news/a20261102VL200/2026-sk-hynix-taiwan-competition-capacity.html)
-
----
-
-### ⚖️ Chinese AI lab Moonshot reportedly looked at European data centers to access Nvidia chips, report claims
-- **題材**: `AI伺服器` | **重要性**: `67`
-- **來源**: Tom's Hardware UK (2026-11-05T16:48:30Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: The lab is reportedly interested in renting at least 8,000 Nvidia Blackwell GPUs.
-- [原文連結](https://www.tomshardware.com/tech-industry/policy/chinese-ai-lab-moonshot-reportedly-looked-at-european-data-centers-to-access-nvidia-chips-report-claims-kimi-maker-primarily-interested-in-inferencing-capacity-but-also-asked-about-training-clusters)
 
 ---
 
