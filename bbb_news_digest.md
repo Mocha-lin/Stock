@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-08T18:07:20.270523+00:00
+> 更新時間：2026-11-08T22:33:20.167410+00:00
 
 ### 🚀 Hua Hong Grace eyes silicon photonics expansion as AI chip shortages lift pricing power
 - **題材**: `光通訊與矽光子` | **重要性**: `98`
@@ -100,15 +100,6 @@
 
 ---
 
-### 🚀 Counterpoint: global DRAM revenue grows by 369% in Q3
-- **題材**: `HBM記憶體` | **重要性**: `70`
-- **來源**: GSMArena.com (2026-11-05T19:11:03Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Global DRAM revenue has increased by an insane 369% year-over-year thanks to strong demand for the stuff, which goes towards building new AI accelerators and data centers. The Average Selling Price (ASP) has reached $1.9 per gigabit (i.e. 1/8th of a gigabyte)…
-- [原文連結](https://www.gsmarena.com/counterpoint_global_dram_revenue_grows_by_369_in_q3-news-75368.php)
-
----
-
 ### ⚖️ Innolight starts US NPO pilot production with Tower for AI optical interconnects
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
 - **來源**: Digitimes (2026-11-06T01:55:23Z)
@@ -178,6 +169,15 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: OpenAI CEO Sam Altman met with around 50 Samsung executives in South Korea on October 31 to discuss AI's future, business opportunities and the technology's impact on corporate operations. The meeting comes as demand for memory chips grows alongside AI infras…
 - [原文連結](https://www.tomshardware.com/tech-industry/data-centers/sam-altman-travels-to-south-korea-to-meet-samsung-leadership-to-secure-more-ram-for-data-centers-amid-crushing-shortages-openai-ceo-meets-samsung-leadership-to-discuss-future-ai-data-centers)
+
+---
+
+### 🚀 Counterpoint: global DRAM revenue grows by 369% in Q3
+- **題材**: `HBM記憶體` | **重要性**: `65`
+- **來源**: GSMArena.com (2026-11-05T19:11:03Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Global DRAM revenue has increased by an insane 369% year-over-year thanks to strong demand for the stuff, which goes towards building new AI accelerators and data centers. The Average Selling Price (ASP) has reached $1.9 per gigabit (i.e. 1/8th of a gigabyte)…
+- [原文連結](https://www.gsmarena.com/counterpoint_global_dram_revenue_grows_by_369_in_q3-news-75368.php)
 
 ---
 
