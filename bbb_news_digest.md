@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-08T02:03:45.791460+00:00
+> 更新時間：2026-11-08T06:49:37.893403+00:00
 
 ### 🚀 Hua Hong Grace eyes silicon photonics expansion as AI chip shortages lift pricing power
 - **題材**: `光通訊與矽光子` | **重要性**: `98`
@@ -28,15 +28,6 @@
 
 ---
 
-### 🚀 SK Hynix leads HBM4 yield at 60%, expands DRAM supply
-- **題材**: `HBM記憶體` | **重要性**: `78`
-- **來源**: Digitimes (2026-11-05T02:45:00Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: SK Hynix's sixth-generation high-bandwidth memory (HBM4) yield has reportedly reached the mid-60% range, the highest in the industry. Analysts say improved yield has lifted production efficiency, allowing the company to expand server DRAM supply even as it co…
-- [原文連結](https://www.digitimes.com/news/a20261105PD211/sk-hynix-hbm4-dram-hbm-capacity.html)
-
----
-
 ### 🚀 Asia Optical posts record Q3 profit, ramps CPO and AI optics push
 - **題材**: `光通訊與矽光子` | **重要性**: `78`
 - **來源**: Digitimes (2026-11-05T00:53:32Z)
@@ -55,21 +46,12 @@
 
 ---
 
-### ⚖️ Commentary: AOI locks in China's InP substrates for AI optics, but export controls threaten supply
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-11-05T03:35:25Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: AI data centers are accelerating demand for high-speed optical communications, extending competition in the optical transceiver market beyond chips and module manufacturing to critical upstream materials. Indium phosphide (InP), a key substrate for high-speed…
-- [原文連結](https://www.digitimes.com/news/a20261105PD220/aoi-inp-substrate-optical-communications-demand.html)
-
----
-
-### ⚖️ Samsung reportedly plans 2nm fab to boost HBM base-die output
-- **題材**: `半導體先進製程` | **重要性**: `73`
-- **來源**: Digitimes (2026-11-05T02:55:00Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Samsung Electronics is preparing to build a 2nm- and 4nm-class foundry fab at its Giheung campus in Yongin, South Korea, to expand production of logic base dies used in high-bandwidth memory (HBM). The fab is estimated to cost KRW25 trillion (approx. US$18.6 …
-- [原文連結](https://www.digitimes.com/news/a20261105VL216/samsung-fab-hbm-2nm-production.html)
+### 🚀 SK Hynix leads HBM4 yield at 60%, expands DRAM supply
+- **題材**: `HBM記憶體` | **重要性**: `73`
+- **來源**: Digitimes (2026-11-05T02:45:00Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: SK Hynix's sixth-generation high-bandwidth memory (HBM4) yield has reportedly reached the mid-60% range, the highest in the industry. Analysts say improved yield has lifted production efficiency, allowing the company to expand server DRAM supply even as it co…
+- [原文連結](https://www.digitimes.com/news/a20261105PD211/sk-hynix-hbm4-dram-hbm-capacity.html)
 
 ---
 
@@ -169,6 +151,24 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: China-based optical communications provider Innolight has advanced its next-generation AI optical interconnect strategy. Tower Semiconductor and Innolight said their first jointly developed near-package optics (NPO) product, built using Tower's PH18M silicon …
 - [原文連結](https://www.digitimes.com/news/a20261106PD202/production-communications-data-packaging-development.html)
+
+---
+
+### ⚖️ Commentary: AOI locks in China's InP substrates for AI optics, but export controls threaten supply
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-11-05T03:35:25Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: AI data centers are accelerating demand for high-speed optical communications, extending competition in the optical transceiver market beyond chips and module manufacturing to critical upstream materials. Indium phosphide (InP), a key substrate for high-speed…
+- [原文連結](https://www.digitimes.com/news/a20261105PD220/aoi-inp-substrate-optical-communications-demand.html)
+
+---
+
+### ⚖️ Samsung reportedly plans 2nm fab to boost HBM base-die output
+- **題材**: `半導體先進製程` | **重要性**: `68`
+- **來源**: Digitimes (2026-11-05T02:55:00Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Samsung Electronics is preparing to build a 2nm- and 4nm-class foundry fab at its Giheung campus in Yongin, South Korea, to expand production of logic base dies used in high-bandwidth memory (HBM). The fab is estimated to cost KRW25 trillion (approx. US$18.6 …
+- [原文連結](https://www.digitimes.com/news/a20261105VL216/samsung-fab-hbm-2nm-production.html)
 
 ---
 
