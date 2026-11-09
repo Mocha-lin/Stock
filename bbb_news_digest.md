@@ -1,8 +1,8 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-08T22:33:20.167410+00:00
+> 更新時間：2026-11-09T02:23:55.955794+00:00
 
 ### 🚀 Hua Hong Grace eyes silicon photonics expansion as AI chip shortages lift pricing power
-- **題材**: `光通訊與矽光子` | **重要性**: `98`
+- **題材**: `光通訊與矽光子` | **重要性**: `93`
 - **來源**: Digitimes (2026-11-06T01:57:16Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重大事件】可能顯著影響產業評價、EPS預期或資金流向。
 - **摘要**: China's second-largest contract chipmaker, Hua Hong Grace Semiconductor, is expanding into silicon photonics and power management chips to capitalise on AI infrastructure demand, following record third-quarter 2026 revenue and a 147.1% surge in profit.
@@ -100,15 +100,6 @@
 
 ---
 
-### ⚖️ Innolight starts US NPO pilot production with Tower for AI optical interconnects
-- **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-11-06T01:55:23Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: China-based optical communications provider Innolight has advanced its next-generation AI optical interconnect strategy. Tower Semiconductor and Innolight said their first jointly developed near-package optics (NPO) product, built using Tower's PH18M silicon …
-- [原文連結](https://www.digitimes.com/news/a20261106PD202/production-communications-data-packaging-development.html)
-
----
-
 ### ⚖️ Commentary: AOI locks in China's InP substrates for AI optics, but export controls threaten supply
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
 - **來源**: Digitimes (2026-11-05T03:35:25Z)
@@ -163,21 +154,30 @@
 
 ---
 
-### ⚠️ Sam Altman meets with Samsung leadership to secure more RAM for data centers amid crushing shortages
-- **題材**: `HBM記憶體` | **重要性**: `67`
-- **來源**: Tom's Hardware UK (2026-11-01T14:21:23Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: OpenAI CEO Sam Altman met with around 50 Samsung executives in South Korea on October 31 to discuss AI's future, business opportunities and the technology's impact on corporate operations. The meeting comes as demand for memory chips grows alongside AI infras…
-- [原文連結](https://www.tomshardware.com/tech-industry/data-centers/sam-altman-travels-to-south-korea-to-meet-samsung-leadership-to-secure-more-ram-for-data-centers-amid-crushing-shortages-openai-ceo-meets-samsung-leadership-to-discuss-future-ai-data-centers)
-
----
-
 ### 🚀 Counterpoint: global DRAM revenue grows by 369% in Q3
 - **題材**: `HBM記憶體` | **重要性**: `65`
 - **來源**: GSMArena.com (2026-11-05T19:11:03Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Global DRAM revenue has increased by an insane 369% year-over-year thanks to strong demand for the stuff, which goes towards building new AI accelerators and data centers. The Average Selling Price (ASP) has reached $1.9 per gigabit (i.e. 1/8th of a gigabyte)…
 - [原文連結](https://www.gsmarena.com/counterpoint_global_dram_revenue_grows_by_369_in_q3-news-75368.php)
+
+---
+
+### ⚖️ Memory makers mint megabucks while buyers beg for mercy
+- **題材**: `HBM記憶體` | **重要性**: `65`
+- **來源**: Theregister.com (2026-11-05T15:07:34Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: DRAM revenue jumps 369 percent as AI demand keeps supplies tight and prices climbing
+- [原文連結](https://www.theregister.com/systems/2026/11/05/memory-makers-mint-megabucks-while-buyers-beg-for-mercy/5307846)
+
+---
+
+### 🚀 Drax wants to feed Britain's AI habit with £20B datacenter at biomass power station
+- **題材**: `AI伺服器` | **重要性**: `65`
+- **來源**: Theregister.com (2026-11-03T13:27:33Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: But first it needs planning permission, government approval and, rather importantly, a customer
+- [原文連結](https://www.theregister.com/on-prem/2026/11/03/drax-wants-to-feed-britains-ai-habit-with-20b-datacenter-at-biomass-power-station/5307237)
 
 ---
 
