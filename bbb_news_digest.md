@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-09T02:23:55.955794+00:00
+> 更新時間：2026-11-09T07:27:50.517482+00:00
 
 ### 🚀 Hua Hong Grace eyes silicon photonics expansion as AI chip shortages lift pricing power
 - **題材**: `光通訊與矽光子` | **重要性**: `93`
@@ -7,15 +7,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重大事件】可能顯著影響產業評價、EPS預期或資金流向。
 - **摘要**: China's second-largest contract chipmaker, Hua Hong Grace Semiconductor, is expanding into silicon photonics and power management chips to capitalise on AI infrastructure demand, following record third-quarter 2026 revenue and a 147.1% surge in profit.
 - [原文連結](https://www.digitimes.com/news/a20261106VL204/photonics-silicon-expansion-revenue-demand.html)
-
----
-
-### 🚀 China's NSIG sees silicon wafer prices rebound, but profitability remains elusive
-- **題材**: `光通訊與矽光子` | **重要性**: `78`
-- **來源**: Digitimes (2026-11-06T03:59:06Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: National Silicon Industry Group (NSIG) expects to complete its expansion to 1.2 million 300mm silicon wafers per month by the end of 2026, positioning the Chinese semiconductor materials supplier to benefit from recovering wafer prices and growing demand for …
-- [原文連結](https://www.digitimes.com/news/a20261106VL208/nsig-silicon-wafer-300mm-expansion.html)
 
 ---
 
@@ -34,6 +25,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: China-based optical communications module maker Zhongji InnoLight reported strong results for the third quarter of 2026 as global AI infrastructure expansion drove robust demand for high-speed optical transceiver modules and increased shipments of 800G and 1.…
 - [原文連結](https://www.digitimes.com/news/a20261104PD232/2026-demand-profit-communications-revenue.html)
+
+---
+
+### 🚀 China's NSIG sees silicon wafer prices rebound, but profitability remains elusive
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-11-06T03:59:06Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: National Silicon Industry Group (NSIG) expects to complete its expansion to 1.2 million 300mm silicon wafers per month by the end of 2026, positioning the Chinese semiconductor materials supplier to benefit from recovering wafer prices and growing demand for …
+- [原文連結](https://www.digitimes.com/news/a20261106VL208/nsig-silicon-wafer-300mm-expansion.html)
 
 ---
 
@@ -82,24 +82,6 @@
 
 ---
 
-### 🚀 Dixon maps AI hardware expansion through Inventec, Gemtek, prospective packaging partners
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-11-02T03:35:54Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Dixon Technologies is pursuing separate partnerships for servers, optical communications, and advanced semiconductor packaging as it seeks a role in AI infrastructure manufacturing, although its most ambitious silicon-photonics plans remain at the evaluation …
-- [原文連結](https://www.digitimes.com/news/a20261102VL203/dixon-packaging-gemtek-inventec-hardware.html)
-
----
-
-### ⚖️ AI boom turns advanced chip packaging into the next battleground
-- **題材**: `半導體先進製程` | **重要性**: `70`
-- **來源**: BusinessLine (2026-11-06T06:17:42Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Chipmakers and equipment manufacturers are accelerating investments in new technologies as packaging capacity struggles to keep pace with demand
-- [原文連結](https://www.thehindubusinessline.com/info-tech/ai-boom-turns-advanced-chip-packaging-into-the-next-battleground/article71673081.ece)
-
----
-
 ### ⚖️ Commentary: AOI locks in China's InP substrates for AI optics, but export controls threaten supply
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
 - **來源**: Digitimes (2026-11-05T03:35:25Z)
@@ -118,12 +100,12 @@
 
 ---
 
-### ⚖️ Samsung chairman Lee Jae-yong turns to Japan for AI chip packaging edge
-- **題材**: `半導體先進製程` | **重要性**: `68`
-- **來源**: Digitimes (2026-11-02T04:09:11Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Samsung Electronics chairman Lee Jae-yong visited the company's Advanced Package Lab (APL) in Yokohama, Japan, on November 1, as the chipmaker looks to Japan's semiconductor materials and equipment industry to strengthen its advanced packaging capabilities fo…
-- [原文連結](https://www.digitimes.com/news/a20261102VL212/samsung-chairman-japan-ai-chip-packaging-materials.html)
+### 🚀 Dixon maps AI hardware expansion through Inventec, Gemtek, prospective packaging partners
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-11-02T03:35:54Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Dixon Technologies is pursuing separate partnerships for servers, optical communications, and advanced semiconductor packaging as it seeks a role in AI infrastructure manufacturing, although its most ambitious silicon-photonics plans remain at the evaluation …
+- [原文連結](https://www.digitimes.com/news/a20261102VL203/dixon-packaging-gemtek-inventec-hardware.html)
 
 ---
 
@@ -154,6 +136,15 @@
 
 ---
 
+### ⚖️ AI boom turns advanced chip packaging into the next battleground
+- **題材**: `半導體先進製程` | **重要性**: `65`
+- **來源**: BusinessLine (2026-11-06T06:17:42Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Chipmakers and equipment manufacturers are accelerating investments in new technologies as packaging capacity struggles to keep pace with demand
+- [原文連結](https://www.thehindubusinessline.com/info-tech/ai-boom-turns-advanced-chip-packaging-into-the-next-battleground/article71673081.ece)
+
+---
+
 ### 🚀 Counterpoint: global DRAM revenue grows by 369% in Q3
 - **題材**: `HBM記憶體` | **重要性**: `65`
 - **來源**: GSMArena.com (2026-11-05T19:11:03Z)
@@ -178,6 +169,15 @@
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: But first it needs planning permission, government approval and, rather importantly, a customer
 - [原文連結](https://www.theregister.com/on-prem/2026/11/03/drax-wants-to-feed-britains-ai-habit-with-20b-datacenter-at-biomass-power-station/5307237)
+
+---
+
+### 🚀 Taiwan’s AI stock boom is making early-stage startups a harder sell
+- **題材**: `半導體先進製程` | **重要性**: `65`
+- **來源**: Business Insider (2026-11-03T05:01:01Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Taiwan's AI stock boom could be making it harder for young startups to win their first funding checks.
+- [原文連結](https://www.businessinsider.com/taiwan-stock-exchange-taiex-ai-boom-early-stage-startups-challenges-2026-11#article)
 
 ---
 
