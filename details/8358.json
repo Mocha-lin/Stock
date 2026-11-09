@@ -1,11 +1,11 @@
 {
   "id": "8358",
   "name": "金居",
-  "lastUpdated": "2026-11-08 21:59:48",
+  "lastUpdated": "2026-11-10 01:01:22",
   "basicInfo": {
-    "price": "303.00",
-    "change": "-31.00",
-    "changePercent": "-9.28%"
+    "price": "333.00",
+    "change": "30.00",
+    "changePercent": "9.90%"
   },
   "status": null,
   "themes": [],
@@ -568,6 +568,14 @@
     ],
     "chips_table": [
       {
+        "date": "2026-11-09",
+        "foreign_lots": 408.059,
+        "it_lots": 0.0,
+        "dealer_lots": -33.101,
+        "sum_lots": 374.958,
+        "pct_float": 0.014844648201814813
+      },
+      {
         "date": "2026-11-06",
         "foreign_lots": -1780.558,
         "it_lots": 132.5,
@@ -678,14 +686,6 @@
         "dealer_lots": -1033.323,
         "sum_lots": -3468.928,
         "pct_float": -0.13733542369392052
-      },
-      {
-        "date": "2026-10-15",
-        "foreign_lots": -801.949,
-        "it_lots": -149.9,
-        "dealer_lots": -205.238,
-        "sum_lots": -1157.087,
-        "pct_float": -0.04580926251445041
       }
     ],
     "returns_table": [
@@ -706,12 +706,12 @@
       },
       {
         "year": 2023,
-        "return_pct": 21.63623866853326,
+        "return_pct": 21.636258138352993,
         "period": "01/03~12/29"
       },
       {
         "year": 2022,
-        "return_pct": -28.856331673117463,
+        "return_pct": -28.8563459927931,
         "period": "01/03~12/30"
       }
     ],
@@ -720,7 +720,7 @@
       "dataset": "structure_c_score",
       "stock_id": "8358",
       "ticker": "8358.TWO",
-      "asof": "2026-11-06",
+      "asof": "2026-11-09",
       "c_score": 1.2199598106855407,
       "benchmark_pe": 77.77947641327825,
       "source": [
@@ -984,14 +984,14 @@
         },
         {
           "period": "2021Q4",
-          "avg_price": 77.01538457625952,
+          "avg_price": 77.09473680195056,
           "eps": 1.83,
           "revenue_q": 8.14685,
-          "pe_ratio": 42.0849096045134,
+          "pe_ratio": 42.12827147647572,
           "rev_growth": null,
           "eps_growth": null,
           "rt_weight": 1.0,
-          "deviation": 0.541079877947453,
+          "deviation": 0.5416373755543014,
           "theo_price": 142.3364418362992
         }
       ],
@@ -1005,27 +1005,6 @@
       "stock_name": "金居"
     },
     "kline_data": [
-      {
-        "date": "2026-05-15",
-        "symbol": "8358.TWO",
-        "open": 417.0,
-        "high": 417.0,
-        "low": 388.0,
-        "close": 389.5,
-        "volume": 2974589.0,
-        "adjclose": 387.7254943847656,
-        "dividends": 0.0,
-        "MA5": 442.3,
-        "MA20": 408.625,
-        "MA60": 309.18333333333334,
-        "bb_mid": 408.625,
-        "bb_up": 492.1389958330348,
-        "bb_dn": 325.11100416696524,
-        "DIF": 35.95839411040623,
-        "DEA": 40.39769956005459,
-        "HIST": -8.878610899296717,
-        "volume_lot": 2974.589
-      },
       {
         "date": "2026-05-18",
         "symbol": "8358.TWO",
@@ -3524,6 +3503,27 @@
         "DEA": -24.013780552983054,
         "HIST": -31.24169825891979,
         "volume_lot": 15937.638
+      },
+      {
+        "date": "2026-11-09",
+        "symbol": "8358.TWO",
+        "open": 311.0,
+        "high": 333.0,
+        "low": 309.0,
+        "close": null,
+        "volume": 4765822.0,
+        "adjclose": null,
+        "dividends": 0.0,
+        "MA5": null,
+        "MA20": null,
+        "MA60": null,
+        "bb_mid": null,
+        "bb_up": null,
+        "bb_dn": null,
+        "DIF": -39.63462968244295,
+        "DEA": -27.13795037887504,
+        "HIST": -24.993358607135825,
+        "volume_lot": 4765.822
       }
     ]
   }

@@ -1,11 +1,11 @@
 {
   "id": "3374",
   "name": "精材",
-  "lastUpdated": "2026-11-08 21:59:48",
+  "lastUpdated": "2026-11-10 01:01:22",
   "basicInfo": {
-    "price": "375.00",
-    "change": "-27.50",
-    "changePercent": "-6.83%"
+    "price": "404.00",
+    "change": "29.00",
+    "changePercent": "7.73%"
   },
   "status": null,
   "themes": [],
@@ -568,6 +568,14 @@
     ],
     "chips_table": [
       {
+        "date": "2026-11-09",
+        "foreign_lots": 220.955,
+        "it_lots": 0.0,
+        "dealer_lots": -15.868000000000002,
+        "sum_lots": 205.08700000000002,
+        "pct_float": 0.007557626408484831
+      },
+      {
         "date": "2026-11-06",
         "foreign_lots": -263.15,
         "it_lots": 2.0,
@@ -678,14 +686,6 @@
         "dealer_lots": -485.697,
         "sum_lots": -2557.217,
         "pct_float": -0.09423557188620611
-      },
-      {
-        "date": "2026-10-15",
-        "foreign_lots": -2688.452,
-        "it_lots": 0.626,
-        "dealer_lots": -446.526,
-        "sum_lots": -3134.352,
-        "pct_float": -0.11550347632315672
       }
     ],
     "returns_table": [
@@ -701,17 +701,17 @@
       },
       {
         "year": 2024,
-        "return_pct": 58.918480429693474,
+        "return_pct": 58.91847784671882,
         "period": "01/02~12/31"
       },
       {
         "year": 2023,
-        "return_pct": 33.47209866439786,
+        "return_pct": 33.47209037115337,
         "period": "01/03~12/29"
       },
       {
         "year": 2022,
-        "return_pct": -31.23459404259735,
+        "return_pct": -31.234615765086303,
         "period": "01/03~12/30"
       }
     ],
@@ -720,7 +720,7 @@
       "dataset": "structure_c_score",
       "stock_id": "3374",
       "ticker": "3374.TWO",
-      "asof": "2026-11-06",
+      "asof": "2026-11-09",
       "c_score": 1.3393452662089211,
       "benchmark_pe": 105.8184523809524,
       "source": [
@@ -996,14 +996,14 @@
         },
         {
           "period": "2021Q4",
-          "avg_price": 140.3846153846154,
+          "avg_price": 140.44736842105263,
           "eps": 1.67,
           "revenue_q": 5.99758,
-          "pe_ratio": 84.06264394288347,
+          "pe_ratio": 84.10022061140876,
           "rev_growth": null,
           "eps_growth": null,
           "rt_weight": 1.0,
-          "deviation": 0.7944043978289647,
+          "deviation": 0.7947595028950454,
           "theo_price": 176.7168154761905
         }
       ],
@@ -1017,27 +1017,6 @@
       "stock_name": "精材"
     },
     "kline_data": [
-      {
-        "date": "2026-05-15",
-        "symbol": "3374.TWO",
-        "open": 279.5,
-        "high": 285.0,
-        "low": 273.0,
-        "close": 278.0,
-        "volume": 46670832.0,
-        "adjclose": 275.7100524902344,
-        "dividends": 0.0,
-        "MA5": 255.8,
-        "MA20": 215.175,
-        "MA60": 184.9833333333333,
-        "bb_mid": 215.175,
-        "bb_up": 267.547965354274,
-        "bb_dn": 162.80203464572605,
-        "DIF": 21.165695227508337,
-        "DEA": 14.98956044339181,
-        "HIST": 12.352269568233057,
-        "volume_lot": 46670.832
-      },
       {
         "date": "2026-05-18",
         "symbol": "3374.TWO",
@@ -3536,6 +3515,27 @@
         "DEA": 4.035396879530483,
         "HIST": -22.471076288691624,
         "volume_lot": 2982.761
+      },
+      {
+        "date": "2026-11-09",
+        "symbol": "3374.TWO",
+        "open": 375.0,
+        "high": 406.0,
+        "low": 375.0,
+        "close": null,
+        "volume": 1932654.0,
+        "adjclose": null,
+        "dividends": 0.0,
+        "MA5": null,
+        "MA20": null,
+        "MA60": null,
+        "bb_mid": null,
+        "bb_up": null,
+        "bb_dn": null,
+        "DIF": -7.200141264815329,
+        "DEA": 1.7882892506613204,
+        "HIST": -17.976861030953298,
+        "volume_lot": 1932.654
       }
     ]
   }

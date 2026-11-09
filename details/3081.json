@@ -1,11 +1,11 @@
 {
   "id": "3081",
   "name": "聯亞",
-  "lastUpdated": "2026-11-08 21:59:48",
+  "lastUpdated": "2026-11-10 01:01:22",
   "basicInfo": {
-    "price": "1750.00",
-    "change": "-140.00",
-    "changePercent": "-7.41%"
+    "price": "1925.00",
+    "change": "175.00",
+    "changePercent": "10.00%"
   },
   "status": "⚡ BUY",
   "themes": [],
@@ -832,6 +832,14 @@
     ],
     "chips_table": [
       {
+        "date": "2026-11-09",
+        "foreign_lots": -318.031,
+        "it_lots": -39.0,
+        "dealer_lots": 13.891,
+        "sum_lots": -343.14,
+        "pct_float": -0.03368443785646271
+      },
+      {
         "date": "2026-11-06",
         "foreign_lots": 444.714,
         "it_lots": -10.438,
@@ -942,14 +950,6 @@
         "dealer_lots": -326.916,
         "sum_lots": -653.768,
         "pct_float": -0.0641773257811503
-      },
-      {
-        "date": "2026-10-15",
-        "foreign_lots": -122.879,
-        "it_lots": 24.6,
-        "dealer_lots": -85.903,
-        "sum_lots": -184.18200000000002,
-        "pct_float": -0.018080279574747962
       }
     ],
     "c_score_data": {
@@ -957,7 +957,7 @@
       "dataset": "structure_c_score",
       "stock_id": "3081",
       "ticker": "3081.TWO",
-      "asof": "2026-11-06",
+      "asof": "2026-11-09",
       "c_score": 7.116560906025681,
       "benchmark_pe": 119.96410559439352,
       "source": [
@@ -1233,14 +1233,14 @@
         },
         {
           "period": "2021Q4",
-          "avg_price": 177.82051164675983,
+          "avg_price": 177.83492720754523,
           "eps": 0.07,
           "revenue_q": 1.10422,
-          "pe_ratio": 2540.29302352514,
+          "pe_ratio": 2540.4989601077887,
           "rev_growth": null,
           "eps_growth": null,
           "rt_weight": 1.0,
-          "deviation": 21.175442528734695,
+          "deviation": 21.177159180408363,
           "theo_price": 8.397487391607546
         }
       ],
@@ -2170,28 +2170,6 @@
     ],
     "facilities_data": [],
     "kline_data": [
-      {
-        "date": "2026-05-15",
-        "symbol": "3081.TWO",
-        "open": 2727.272705078125,
-        "high": 2727.272705078125,
-        "low": 2413.636474609375,
-        "close": 2413.636474609375,
-        "volume": 3060361.0,
-        "adjclose": 2409.498779296875,
-        "dividends": 0.0,
-        "splits": 0.0,
-        "MA5": 2594.545458984375,
-        "MA20": 2506.136376953125,
-        "MA60": 1797.0454559326172,
-        "bb_mid": 2506.136376953125,
-        "bb_up": 2822.746442149913,
-        "bb_dn": 2189.5263117563363,
-        "DIF": 172.71658907636356,
-        "DEA": 203.05855455274457,
-        "HIST": -60.68393095276201,
-        "volume_lot": 3060.361
-      },
       {
         "date": "2026-05-18",
         "symbol": "3081.TWO",
@@ -4809,6 +4787,28 @@
         "DEA": -131.8240803028622,
         "HIST": -153.919374238613,
         "volume_lot": 3708.638
+      },
+      {
+        "date": "2026-11-09",
+        "symbol": "3081.TWO",
+        "open": 1870.0,
+        "high": 1925.0,
+        "low": 1825.0,
+        "close": null,
+        "volume": 1028033.0,
+        "adjclose": null,
+        "dividends": 0.0,
+        "splits": 0.0,
+        "MA5": null,
+        "MA20": null,
+        "MA60": null,
+        "bb_mid": null,
+        "bb_up": null,
+        "bb_dn": null,
+        "DIF": -208.7837674221687,
+        "DEA": -147.21601772672352,
+        "HIST": -123.13549939089036,
+        "volume_lot": 1028.033
       }
     ],
     "valuation": {

@@ -1,11 +1,11 @@
 {
   "id": "2467",
   "name": "志聖",
-  "lastUpdated": "2026-11-08 21:59:48",
+  "lastUpdated": "2026-11-10 01:01:22",
   "basicInfo": {
-    "price": "304.50",
-    "change": "-33.50",
-    "changePercent": "-9.91%"
+    "price": "308.50",
+    "change": "4.00",
+    "changePercent": "1.31%"
   },
   "status": "🟡 FLU",
   "themes": [],
@@ -687,6 +687,14 @@
     ],
     "chips_table": [
       {
+        "date": "2026-11-09",
+        "foreign_lots": -101.986,
+        "it_lots": -363.788,
+        "dealer_lots": -25.72,
+        "sum_lots": -491.494,
+        "pct_float": -0.030372920989891226
+      },
+      {
         "date": "2026-11-06",
         "foreign_lots": -348.64,
         "it_lots": 1.0,
@@ -797,14 +805,6 @@
         "dealer_lots": -25.305,
         "sum_lots": -48.748,
         "pct_float": -0.0030124867290652934
-      },
-      {
-        "date": "2026-10-15",
-        "foreign_lots": -691.618,
-        "it_lots": -5.0,
-        "dealer_lots": -24.787,
-        "sum_lots": -721.4050000000001,
-        "pct_float": -0.04458076205754797
       }
     ],
     "c_score_data": {
@@ -812,7 +812,7 @@
       "dataset": "structure_c_score",
       "stock_id": "2467",
       "ticker": "2467.TW",
-      "asof": "2026-11-06",
+      "asof": "2026-11-09",
       "c_score": 1.2411296770056346,
       "benchmark_pe": 100.39684475030535,
       "source": [
@@ -1088,14 +1088,14 @@
         },
         {
           "period": "2021Q4",
-          "avg_price": 48.37814272367037,
+          "avg_price": 48.45298907631322,
           "eps": 1.11,
           "revenue_q": 5.12851,
-          "pe_ratio": 43.583912363667,
+          "pe_ratio": 43.65134151019209,
           "rev_growth": null,
           "eps_growth": null,
           "rt_weight": 1.0,
-          "deviation": 0.43411635566898077,
+          "deviation": 0.4347879818211053,
           "theo_price": 111.44049767283894
         }
       ],
@@ -1126,7 +1126,7 @@
       },
       {
         "year": 2023,
-        "return_pct": 53.70694091340087,
+        "return_pct": 53.70692542849789,
         "period": "01/03~12/29"
       },
       {
@@ -2029,27 +2029,6 @@
     ],
     "facilities_data": [],
     "kline_data": [
-      {
-        "date": "2026-05-15",
-        "symbol": "2467.TW",
-        "open": 628.0,
-        "high": 634.0,
-        "low": 572.0,
-        "close": 587.0,
-        "volume": 2665181.0,
-        "adjclose": 581.481201171875,
-        "dividends": 0.0,
-        "MA5": 612.4,
-        "MA20": 571.375,
-        "MA60": 447.65833333333336,
-        "bb_mid": 571.375,
-        "bb_up": 641.1065387755093,
-        "bb_dn": 501.6434612244906,
-        "DIF": 36.85121246274275,
-        "DEA": 38.94192143840203,
-        "HIST": -4.181417951318551,
-        "volume_lot": 2665.181
-      },
       {
         "date": "2026-05-18",
         "symbol": "2467.TW",
@@ -4548,6 +4527,27 @@
         "DEA": -34.84514019085891,
         "HIST": -31.76265792510341,
         "volume_lot": 1064.099
+      },
+      {
+        "date": "2026-11-09",
+        "symbol": "2467.TW",
+        "open": 293.0,
+        "high": 317.0,
+        "low": 283.0,
+        "close": null,
+        "volume": 4355847.0,
+        "adjclose": null,
+        "dividends": 0.0,
+        "MA5": null,
+        "MA20": null,
+        "MA60": null,
+        "bb_mid": null,
+        "bb_up": null,
+        "bb_dn": null,
+        "DIF": -50.72646915341062,
+        "DEA": -38.021405983369256,
+        "HIST": -25.410126340082726,
+        "volume_lot": 4355.847
       }
     ],
     "valuation": {

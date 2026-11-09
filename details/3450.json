@@ -1,11 +1,11 @@
 {
   "id": "3450",
   "name": "聯鈞",
-  "lastUpdated": "2026-11-08 21:59:48",
+  "lastUpdated": "2026-11-10 01:01:22",
   "basicInfo": {
-    "price": "309.00",
-    "change": "-33.00",
-    "changePercent": "-9.65%"
+    "price": "339.50",
+    "change": "30.50",
+    "changePercent": "9.87%"
   },
   "status": null,
   "themes": [],
@@ -568,6 +568,14 @@
     ],
     "chips_table": [
       {
+        "date": "2026-11-09",
+        "foreign_lots": 928.007,
+        "it_lots": -52.0,
+        "dealer_lots": 13.397000000000002,
+        "sum_lots": 889.404,
+        "pct_float": 0.06105130785398822
+      },
+      {
         "date": "2026-11-06",
         "foreign_lots": 1596.254,
         "it_lots": -200.0,
@@ -678,14 +686,6 @@
         "dealer_lots": -169.086,
         "sum_lots": -1063.772,
         "pct_float": -0.07302044049549222
-      },
-      {
-        "date": "2026-10-15",
-        "foreign_lots": -105.401,
-        "it_lots": -1168.0,
-        "dealer_lots": -152.26600000000002,
-        "sum_lots": -1425.6670000000001,
-        "pct_float": -0.0978619782621529
       }
     ],
     "returns_table": [
@@ -706,7 +706,7 @@
       },
       {
         "year": 2023,
-        "return_pct": 72.04875677709425,
+        "return_pct": 72.04873857342511,
         "period": "01/03~12/29"
       },
       {
@@ -720,7 +720,7 @@
       "dataset": "structure_c_score",
       "stock_id": "3450",
       "ticker": "3450.TW",
-      "asof": "2026-11-06",
+      "asof": "2026-11-09",
       "c_score": 1.9642776144772536,
       "benchmark_pe": 122.75835275835276,
       "source": [
@@ -984,14 +984,14 @@
         },
         {
           "period": "2021Q4",
-          "avg_price": 56.72564110389123,
+          "avg_price": 56.68947380467465,
           "eps": 0.45,
           "revenue_q": 5.82621,
-          "pe_ratio": 126.05698023086939,
+          "pe_ratio": 125.97660845483254,
           "rev_growth": null,
           "eps_growth": null,
           "rt_weight": 1.0,
-          "deviation": 1.0268709004185639,
+          "deviation": 1.026216185083673,
           "theo_price": 55.24125874125874
         }
       ],
@@ -1005,27 +1005,6 @@
       "stock_name": "聯鈞"
     },
     "kline_data": [
-      {
-        "date": "2026-05-15",
-        "symbol": "3450.TW",
-        "open": 430.0,
-        "high": 430.0,
-        "low": 392.0,
-        "close": 395.5,
-        "volume": 4451008.0,
-        "adjclose": 394.7082214355469,
-        "dividends": 0.0,
-        "MA5": 431.4,
-        "MA20": 367.0,
-        "MA60": 307.93333333333334,
-        "bb_mid": 367.0,
-        "bb_up": 464.9499872383879,
-        "bb_dn": 269.0500127616121,
-        "DIF": 32.546072270379454,
-        "DEA": 26.78940002702928,
-        "HIST": 11.513344486700348,
-        "volume_lot": 4451.008
-      },
       {
         "date": "2026-05-18",
         "symbol": "3450.TW",
@@ -3524,6 +3503,27 @@
         "DEA": -31.88953561545359,
         "HIST": -21.08241528985654,
         "volume_lot": 6099.256
+      },
+      {
+        "date": "2026-11-09",
+        "symbol": "3450.TW",
+        "open": 319.0,
+        "high": 339.5,
+        "low": 319.0,
+        "close": null,
+        "volume": 3292232.0,
+        "adjclose": null,
+        "dividends": 0.0,
+        "MA5": null,
+        "MA20": null,
+        "MA60": null,
+        "bb_mid": null,
+        "bb_up": null,
+        "bb_dn": null,
+        "DIF": -42.43074326038186,
+        "DEA": -33.99777714443925,
+        "HIST": -16.865932231885225,
+        "volume_lot": 3292.232
       }
     ]
   }

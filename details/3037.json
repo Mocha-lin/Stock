@@ -1,11 +1,11 @@
 {
   "id": "3037",
   "name": "欣興",
-  "lastUpdated": "2026-11-08 21:59:48",
+  "lastUpdated": "2026-11-10 01:01:22",
   "basicInfo": {
-    "price": "727.00",
-    "change": "-73.00",
-    "changePercent": "-9.13%"
+    "price": "757.00",
+    "change": "30.00",
+    "changePercent": "4.13%"
   },
   "status": null,
   "themes": [],
@@ -568,6 +568,14 @@
     ],
     "chips_table": [
       {
+        "date": "2026-11-09",
+        "foreign_lots": -10836.034,
+        "it_lots": 1310.464,
+        "dealer_lots": -162.212,
+        "sum_lots": -9687.782,
+        "pct_float": -0.058931100341033084
+      },
+      {
         "date": "2026-11-06",
         "foreign_lots": -5859.317,
         "it_lots": 614.106,
@@ -678,14 +686,6 @@
         "dealer_lots": -209.73,
         "sum_lots": -1928.11,
         "pct_float": -0.011728757302605418
-      },
-      {
-        "date": "2026-10-15",
-        "foreign_lots": -8532.335,
-        "it_lots": 1752.3,
-        "dealer_lots": 507.966,
-        "sum_lots": -6272.068999999999,
-        "pct_float": -0.03815320447806144
       }
     ],
     "returns_table": [
@@ -706,12 +706,12 @@
       },
       {
         "year": 2023,
-        "return_pct": 51.27884972072763,
+        "return_pct": 51.27885995745716,
         "period": "01/03~12/29"
       },
       {
         "year": 2022,
-        "return_pct": -46.8845354212672,
+        "return_pct": -46.8845356489527,
         "period": "01/03~12/30"
       }
     ],
@@ -720,7 +720,7 @@
       "dataset": "structure_c_score",
       "stock_id": "3037",
       "ticker": "3037.TW",
-      "asof": "2026-11-06",
+      "asof": "2026-11-09",
       "c_score": 9.272829487040644,
       "benchmark_pe": 90.95302452760117,
       "source": [
@@ -996,14 +996,14 @@
         },
         {
           "period": "2021Q4",
-          "avg_price": 214.1153846153846,
+          "avg_price": 214.75,
           "eps": 3.38,
           "revenue_q": 102.75831,
-          "pe_ratio": 63.347746927628585,
+          "pe_ratio": 63.53550295857988,
           "rev_growth": null,
           "eps_growth": null,
           "rt_weight": 1.0,
-          "deviation": 0.6964886242832384,
+          "deviation": 0.6985529430008015,
           "theo_price": 307.42122290329195
         }
       ],
@@ -1017,27 +1017,6 @@
       "stock_name": "欣興"
     },
     "kline_data": [
-      {
-        "date": "2026-05-15",
-        "symbol": "3037.TW",
-        "open": 901.0,
-        "high": 902.0,
-        "low": 814.0,
-        "close": 821.0,
-        "volume": 28486986.0,
-        "adjclose": 819.3223266601562,
-        "dividends": 0.0,
-        "MA5": 866.0,
-        "MA20": 816.55,
-        "MA60": 603.6333333333333,
-        "bb_mid": 816.55,
-        "bb_up": 974.1475570876626,
-        "bb_dn": 658.9524429123373,
-        "DIF": 69.1060188303511,
-        "DEA": 79.46712462550059,
-        "HIST": -20.72221159029897,
-        "volume_lot": 28486.986
-      },
       {
         "date": "2026-05-18",
         "symbol": "3037.TW",
@@ -3536,6 +3515,27 @@
         "DEA": -34.5575646672378,
         "HIST": -82.42885462487877,
         "volume_lot": 36012.454
+      },
+      {
+        "date": "2026-11-09",
+        "symbol": "3037.TW",
+        "open": 735.0,
+        "high": 782.0,
+        "low": 722.0,
+        "close": null,
+        "volume": 42401649.0,
+        "adjclose": null,
+        "dividends": 0.0,
+        "MA5": null,
+        "MA20": null,
+        "MA60": null,
+        "bb_mid": null,
+        "bb_up": null,
+        "bb_dn": null,
+        "DIF": -75.77199197967718,
+        "DEA": -42.80045012972568,
+        "HIST": -65.94308369990301,
+        "volume_lot": 42401.649
       }
     ]
   }

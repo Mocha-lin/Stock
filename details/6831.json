@@ -1,11 +1,11 @@
 {
   "id": "6831",
   "name": "邁科",
-  "lastUpdated": "2026-11-08 21:59:48",
+  "lastUpdated": "2026-11-10 01:01:22",
   "basicInfo": {
-    "price": "278.50",
-    "change": "-21.00",
-    "changePercent": "-7.01%"
+    "price": "295.50",
+    "change": "17.00",
+    "changePercent": "6.10%"
   },
   "status": null,
   "themes": [],
@@ -502,6 +502,14 @@
     ],
     "chips_table": [
       {
+        "date": "2026-11-09",
+        "foreign_lots": -61.24,
+        "it_lots": 0.0,
+        "dealer_lots": -1.223,
+        "sum_lots": -62.463,
+        "pct_float": -0.009253777777777777
+      },
+      {
         "date": "2026-11-06",
         "foreign_lots": 183.23,
         "it_lots": 0.0,
@@ -612,14 +620,6 @@
         "dealer_lots": -2.201,
         "sum_lots": 26.830000000000005,
         "pct_float": 0.003974814814814816
-      },
-      {
-        "date": "2026-10-15",
-        "foreign_lots": -413.985,
-        "it_lots": -62.0,
-        "dealer_lots": -3.56,
-        "sum_lots": -479.545,
-        "pct_float": -0.0710437037037037
       }
     ],
     "returns_table": [
@@ -645,7 +645,7 @@
       },
       {
         "year": 2022,
-        "return_pct": -24.180327502915077,
+        "return_pct": -24.18031938575853,
         "period": "01/03~12/30"
       }
     ],
@@ -654,7 +654,7 @@
       "dataset": "structure_c_score",
       "stock_id": "6831",
       "ticker": "6831.TW",
-      "asof": "2026-11-06",
+      "asof": "2026-11-09",
       "c_score": 1.0,
       "benchmark_pe": 72.76645087239672,
       "source": [
@@ -846,14 +846,14 @@
         },
         {
           "period": "2021Q4",
-          "avg_price": 47.758172646546974,
+          "avg_price": 47.76475665443822,
           "eps": 0.37,
           "revenue_q": null,
-          "pe_ratio": 129.07614228796479,
+          "pe_ratio": 129.09393690388708,
           "rev_growth": null,
           "eps_growth": null,
           "rt_weight": 1.0,
-          "deviation": 1.7738413889982456,
+          "deviation": 1.7740859332313221,
           "theo_price": 26.923586822786785
         }
       ],
@@ -867,28 +867,6 @@
       "stock_name": "邁科"
     },
     "kline_data": [
-      {
-        "date": "2026-05-15",
-        "symbol": "6831.TW",
-        "open": 745.0,
-        "high": 745.0,
-        "low": 700.0,
-        "close": 725.0,
-        "volume": 762647.0,
-        "adjclose": 725.0,
-        "dividends": 0.0,
-        "splits": 0.0,
-        "MA5": 671.0,
-        "MA20": 547.375,
-        "MA60": 410.85,
-        "bb_mid": 547.375,
-        "bb_up": 709.4659852521114,
-        "bb_dn": 385.2840147478886,
-        "DIF": 71.50382279663336,
-        "DEA": 52.79720526533978,
-        "HIST": 37.41323506258716,
-        "volume_lot": 762.647
-      },
       {
         "date": "2026-05-18",
         "symbol": "6831.TW",
@@ -3506,6 +3484,28 @@
         "DEA": -43.131806779847125,
         "HIST": -16.568891819050805,
         "volume_lot": 681.022
+      },
+      {
+        "date": "2026-11-09",
+        "symbol": "6831.TW",
+        "open": 282.5,
+        "high": 299.0,
+        "low": 280.5,
+        "close": null,
+        "volume": 498017.0,
+        "adjclose": null,
+        "dividends": 0.0,
+        "splits": 0.0,
+        "MA5": null,
+        "MA20": null,
+        "MA60": null,
+        "bb_mid": null,
+        "bb_up": null,
+        "bb_dn": null,
+        "DIF": -51.41625268937253,
+        "DEA": -44.78869596175221,
+        "HIST": -13.255113455240632,
+        "volume_lot": 498.017
       }
     ]
   }

@@ -1,11 +1,11 @@
 {
   "id": "3653",
   "name": "健策",
-  "lastUpdated": "2026-11-08 21:59:48",
+  "lastUpdated": "2026-11-10 01:01:22",
   "basicInfo": {
-    "price": "5225.00",
-    "change": "-580.00",
-    "changePercent": "-9.99%"
+    "price": "5635.00",
+    "change": "410.00",
+    "changePercent": "7.85%"
   },
   "status": null,
   "themes": [],
@@ -568,6 +568,14 @@
     ],
     "chips_table": [
       {
+        "date": "2026-11-09",
+        "foreign_lots": -518.176,
+        "it_lots": 47.017,
+        "dealer_lots": -40.185,
+        "sum_lots": -511.34400000000005,
+        "pct_float": -0.03484865006324422
+      },
+      {
         "date": "2026-11-06",
         "foreign_lots": -104.568,
         "it_lots": 224.014,
@@ -678,14 +686,6 @@
         "dealer_lots": -34.613,
         "sum_lots": -92.969,
         "pct_float": -0.006335938522266323
-      },
-      {
-        "date": "2026-10-15",
-        "foreign_lots": -401.111,
-        "it_lots": 277.38,
-        "dealer_lots": 112.079,
-        "sum_lots": -11.652000000000001,
-        "pct_float": -0.0007940964801325949
       }
     ],
     "returns_table": [
@@ -720,7 +720,7 @@
       "dataset": "structure_c_score",
       "stock_id": "3653",
       "ticker": "3653.TW",
-      "asof": "2026-11-06",
+      "asof": "2026-11-09",
       "c_score": 1.3534019855978856,
       "benchmark_pe": 133.99563939709924,
       "source": [
@@ -984,14 +984,14 @@
         },
         {
           "period": "2021Q4",
-          "avg_price": 373.2409910544371,
+          "avg_price": 373.9838698537726,
           "eps": 2.75,
           "revenue_q": 8.14408,
-          "pe_ratio": 135.723996747068,
+          "pe_ratio": 135.99413449228095,
           "rev_growth": null,
           "eps_growth": null,
           "rt_weight": 1.0,
-          "deviation": 1.0128986089229872,
+          "deviation": 1.014914627850382,
           "theo_price": 368.4880083420229
         }
       ],
@@ -1005,27 +1005,6 @@
       "stock_name": "健策"
     },
     "kline_data": [
-      {
-        "date": "2026-05-15",
-        "symbol": "3653.TW",
-        "open": 3365.0,
-        "high": 3470.0,
-        "low": 3350.0,
-        "close": 3465.0,
-        "volume": 748176.0,
-        "adjclose": 3443.61865234375,
-        "dividends": 0.0,
-        "MA5": 3659.0,
-        "MA20": 4599.25,
-        "MA60": 3932.0,
-        "bb_mid": 4599.25,
-        "bb_up": 6075.641800979672,
-        "bb_dn": 3122.8581990203284,
-        "DIF": -190.1437644686266,
-        "DEA": 22.65411507707333,
-        "HIST": -425.5957590913999,
-        "volume_lot": 748.176
-      },
       {
         "date": "2026-05-18",
         "symbol": "3653.TW",
@@ -3524,6 +3503,27 @@
         "DEA": 16.38400574562111,
         "HIST": -276.8298438092537,
         "volume_lot": 1565.735
+      },
+      {
+        "date": "2026-11-09",
+        "symbol": "3653.TW",
+        "open": 5010.0,
+        "high": 5745.0,
+        "low": 4970.0,
+        "close": null,
+        "volume": 3812692.0,
+        "adjclose": null,
+        "dividends": 0.0,
+        "MA5": null,
+        "MA20": null,
+        "MA60": null,
+        "bb_mid": null,
+        "bb_up": null,
+        "bb_dn": null,
+        "DIF": -122.03091615900576,
+        "DEA": -11.298978635304262,
+        "HIST": -221.46387504740295,
+        "volume_lot": 3812.692
       }
     ]
   }
