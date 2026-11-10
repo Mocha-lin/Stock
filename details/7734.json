@@ -1,11 +1,11 @@
 {
   "id": "7734",
   "name": "印能科技",
-  "lastUpdated": "2026-11-10 01:01:22",
+  "lastUpdated": "2026-11-10 23:20:26",
   "basicInfo": {
-    "price": "1675.00",
+    "price": "1785.00",
     "change": "110.00",
-    "changePercent": "7.03%"
+    "changePercent": "6.57%"
   },
   "status": null,
   "themes": [],
@@ -28,6 +28,12 @@
   },
   "financials": {
     "revenue_trend": [
+      {
+        "month": "2026/10",
+        "revenue": "4.10",
+        "mom": "-8.62",
+        "yoy": "215.85"
+      },
       {
         "month": "2026/9",
         "revenue": "4.49",
@@ -163,6 +169,17 @@
     ],
     "eps_table": [
       {
+        "period": "2026Q3",
+        "gross_margin_pct": 65.52622082909201,
+        "net_margin_pct": 59.341871641721376,
+        "opm_pct": 56.57508989819019,
+        "eps": 18.74,
+        "eps_ytd": 47.449999999999996,
+        "gross": 65.52622082909201,
+        "net": 59.341871641721376,
+        "opm": 56.57508989819019
+      },
+      {
         "period": "2026Q2",
         "gross_margin_pct": 67.31348218410812,
         "net_margin_pct": 56.27196468571203,
@@ -238,17 +255,6 @@
         "gross": 65.64412345535462,
         "net": 67.46384653037342,
         "opm": 50.35061035646168
-      },
-      {
-        "period": "2024Q3",
-        "gross_margin_pct": 61.80432929428241,
-        "net_margin_pct": 33.34652621323753,
-        "opm_pct": 41.92189815096714,
-        "eps": 4.87,
-        "eps_ytd": 30.28,
-        "gross": 61.80432929428241,
-        "net": 33.34652621323753,
-        "opm": 41.92189815096714
       }
     ],
     "cashflow_table": [
@@ -481,6 +487,14 @@
     ],
     "pe_table": [
       {
+        "period": "2026Q3",
+        "deadline": "2026-11-14",
+        "price_basis": "asof往前3日(暫代)",
+        "avg_close_3d": 1675.0,
+        "ttm_eps": 54.36,
+        "pe": 30.813097866078
+      },
+      {
         "period": "2026Q2",
         "deadline": "2026-08-14",
         "price_basis": "公告後3日",
@@ -535,19 +549,11 @@
         "avg_close_3d": 886.0528564453125,
         "ttm_eps": 52.82,
         "pe": 16.77494995163409
-      },
-      {
-        "period": "2024Q3",
-        "deadline": "2024-11-14",
-        "price_basis": "公告後3日",
-        "avg_close_3d": 1301.2243245442708,
-        "ttm_eps": 61.99999999999999,
-        "pe": 20.987489105552758
       }
     ],
     "capital_table": [
       {
-        "report_date": "2026-06-30",
+        "report_date": "2026-09-30",
         "capital_value_raw": 280000000.0,
         "par_value": 10,
         "shares_lots": 280000,
@@ -555,6 +561,14 @@
       }
     ],
     "chips_table": [
+      {
+        "date": "2026-11-10",
+        "foreign_lots": -6.804,
+        "it_lots": 0.0,
+        "dealer_lots": -0.04000000000000001,
+        "sum_lots": -6.844,
+        "pct_float": -0.0024442857142857144
+      },
       {
         "date": "2026-11-09",
         "foreign_lots": -19.291,
@@ -666,21 +680,13 @@
         "dealer_lots": -1.871,
         "sum_lots": 39.963,
         "pct_float": 0.0142725
-      },
-      {
-        "date": "2026-10-16",
-        "foreign_lots": -44.157,
-        "it_lots": 25.0,
-        "dealer_lots": -7.103,
-        "sum_lots": -26.259999999999998,
-        "pct_float": -0.009378571428571427
       }
     ],
     "returns_table": [
       {
         "year": 2026,
-        "return_pct": 57.795553113631556,
-        "period": "01/02~11/06"
+        "return_pct": 79.977675596059,
+        "period": "01/02~11/10"
       },
       {
         "year": 2025,
@@ -698,9 +704,9 @@
       "dataset": "structure_c_score",
       "stock_id": "7734",
       "ticker": "7734.TWO",
-      "asof": "2026-11-09",
-      "c_score": 1.6284941761310694,
-      "benchmark_pe": 96.15927669061183,
+      "asof": "2026-11-10",
+      "c_score": 1.4450453667949905,
+      "benchmark_pe": 105.20571452639611,
       "source": [
         "FinMind",
         "yahooquery"
@@ -745,6 +751,18 @@
       ],
       "rows": [
         {
+          "period": "2026Q3",
+          "avg_price": 2975.3174603174602,
+          "eps": 18.74,
+          "revenue_q": 8.94946,
+          "pe_ratio": 158.76827429655606,
+          "rev_growth": 18.232404767629596,
+          "eps_growth": 53.48075348075345,
+          "rt_weight": 0.9,
+          "deviation": 1.5091221518838798,
+          "theo_price": 1971.555090224663
+        },
+        {
           "period": "2026Q2",
           "avg_price": 3233.3606557377047,
           "eps": 14.03,
@@ -753,8 +771,8 @@
           "rev_growth": 78.71194010149306,
           "eps_growth": 143.57638888888889,
           "rt_weight": 0.9,
-          "deviation": 2.39665372473571,
-          "theo_price": 1349.1146519692838
+          "deviation": 2.190570062528533,
+          "theo_price": 1476.0361748053374
         },
         {
           "period": "2026Q1",
@@ -765,8 +783,8 @@
           "rev_growth": 60.1575075548682,
           "eps_growth": 36.051899907321605,
           "rt_weight": 1.1,
-          "deviation": 1.0,
-          "theo_price": 1411.6181818181817
+          "deviation": 0.9140119158307268,
+          "theo_price": 1544.419889247495
         },
         {
           "period": "2025Q4",
@@ -777,8 +795,8 @@
           "rev_growth": null,
           "eps_growth": -51.50877192982456,
           "rt_weight": 1.0,
-          "deviation": 1.4084429324904828,
-          "theo_price": 664.4606019321278
+          "deviation": 1.2873336230638732,
+          "theo_price": 726.9714873773971
         },
         {
           "period": "2025Q3",
@@ -789,8 +807,8 @@
           "rev_growth": null,
           "eps_growth": 150.7186858316222,
           "rt_weight": 1.0,
-          "deviation": 0.8863697397472159,
-          "theo_price": 1174.1047683923705
+          "deviation": 0.8101525039607356,
+          "theo_price": 1284.5617743672965
         },
         {
           "period": "2025Q2",
@@ -801,8 +819,8 @@
           "rev_growth": null,
           "eps_growth": -77.33175914994096,
           "rt_weight": 1.0,
-          "deviation": 1.5534801539961984,
-          "theo_price": 553.8774337379241
+          "deviation": 1.4198993717590778,
+          "theo_price": 605.9849156720416
         },
         {
           "period": "2025Q1",
@@ -813,8 +831,8 @@
           "rev_growth": null,
           "eps_growth": 30.15681544028952,
           "rt_weight": 1.0,
-          "deviation": 1.1881552804289652,
-          "theo_price": 1037.5585954917017
+          "deviation": 1.0859880841692733,
+          "theo_price": 1135.1696597398138
         },
         {
           "period": "2024Q4",
@@ -825,8 +843,8 @@
           "rev_growth": null,
           "eps_growth": -39.180537772087064,
           "rt_weight": 1.0,
-          "deviation": 0.9746706451184513,
-          "theo_price": 1370.2696928412186
+          "deviation": 0.890860583648686,
+          "theo_price": 1499.1814320011445
         },
         {
           "period": "2024Q3",
@@ -837,8 +855,8 @@
           "rev_growth": null,
           "eps_growth": -90.25610244097639,
           "rt_weight": 1.0,
-          "deviation": 2.410931724893536,
-          "theo_price": 468.29567748327963
+          "deviation": 2.2036203248070194,
+          "theo_price": 512.351829743549
         },
         {
           "period": "2024Q2",
@@ -849,8 +867,8 @@
           "rev_growth": null,
           "eps_growth": null,
           "rt_weight": 1.0,
-          "deviation": 0.5040849441720682,
-          "theo_price": 2443.407220708447
+          "deviation": 0.46073964556413705,
+          "theo_price": 2673.277206115725
         },
         {
           "period": "2023Q4",
@@ -862,7 +880,7 @@
           "eps_growth": null,
           "rt_weight": 1.0,
           "deviation": null,
-          "theo_price": 797.160403765172
+          "theo_price": 872.1553734238237
         },
         {
           "period": "2023Q2",
@@ -874,7 +892,7 @@
           "eps_growth": null,
           "rt_weight": 1.0,
           "deviation": null,
-          "theo_price": 2253.011852861035
+          "theo_price": 2464.9698913534608
         },
         {
           "period": "2022Q4",
@@ -886,7 +904,7 @@
           "eps_growth": null,
           "rt_weight": 1.0,
           "deviation": null,
-          "theo_price": 4806.040648996779
+          "theo_price": 5258.181612029277
         }
       ],
       "notes": [
@@ -899,28 +917,6 @@
       "stock_name": "印能科技"
     },
     "kline_data": [
-      {
-        "date": "2026-05-18",
-        "symbol": "7734.TWO",
-        "open": 3590.0,
-        "high": 3800.0,
-        "low": 3375.0,
-        "close": 3705.0,
-        "volume": 494190.0,
-        "adjclose": 3681.944580078125,
-        "dividends": 0.0,
-        "splits": 0.0,
-        "MA5": 3950.0,
-        "MA20": 3568.0,
-        "MA60": 2469.1666666666665,
-        "bb_mid": 3568.0,
-        "bb_up": 4350.357974331445,
-        "bb_dn": 2785.642025668555,
-        "DIF": 374.45258325910527,
-        "DEA": 408.5899694421381,
-        "HIST": -68.27477236606569,
-        "volume_lot": 494.19
-      },
       {
         "date": "2026-05-19",
         "symbol": "7734.TWO",
@@ -3523,21 +3519,43 @@
         "open": 1610.0,
         "high": 1685.0,
         "low": 1585.0,
-        "close": null,
-        "volume": 192178.0,
-        "adjclose": null,
+        "close": 1675.0,
+        "volume": 177245.0,
+        "adjclose": 1675.0,
         "dividends": 0.0,
         "splits": 0.0,
-        "MA5": null,
-        "MA20": null,
-        "MA60": null,
-        "bb_mid": null,
-        "bb_up": null,
-        "bb_dn": null,
-        "DIF": -252.18738299437427,
-        "DEA": -198.82928096350625,
-        "HIST": -106.71620406173604,
-        "volume_lot": 192.178
+        "MA5": 1723.0,
+        "MA20": 2212.75,
+        "MA60": 2610.833333333333,
+        "bb_mid": 2212.75,
+        "bb_up": 2918.075988462074,
+        "bb_dn": 1507.424011537926,
+        "DIF": -259.9024775318567,
+        "DEA": -200.37229987100272,
+        "HIST": -119.0603553217079,
+        "volume_lot": 177.245
+      },
+      {
+        "date": "2026-11-10",
+        "symbol": "7734.TWO",
+        "open": 1720.0,
+        "high": 1810.0,
+        "low": 1695.0,
+        "close": 1785.0,
+        "volume": 155356.0,
+        "adjclose": 1785.0,
+        "dividends": 0.0,
+        "splits": 0.0,
+        "MA5": 1710.0,
+        "MA20": 2156.25,
+        "MA60": 2584.75,
+        "bb_mid": 2156.25,
+        "bb_up": 2806.387485459808,
+        "bb_dn": 1506.1125145401925,
+        "DIF": -254.21028689846707,
+        "DEA": -211.1398972764956,
+        "HIST": -86.14077924394292,
+        "volume_lot": 155.356
       }
     ]
   }
