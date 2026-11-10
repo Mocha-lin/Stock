@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-09T22:45:23.481613+00:00
+> 更新時間：2026-11-10T04:29:45.467035+00:00
 
 ### 🚀 Hua Hong Grace eyes silicon photonics expansion as AI chip shortages lift pricing power
 - **題材**: `光通訊與矽光子` | **重要性**: `93`
@@ -7,6 +7,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重大事件】可能顯著影響產業評價、EPS預期或資金流向。
 - **摘要**: China's second-largest contract chipmaker, Hua Hong Grace Semiconductor, is expanding into silicon photonics and power management chips to capitalise on AI infrastructure demand, following record third-quarter 2026 revenue and a 147.1% surge in profit.
 - [原文連結](https://www.digitimes.com/news/a20261106VL204/photonics-silicon-expansion-revenue-demand.html)
+
+---
+
+### ⚖️ Surging AI demand turns CoWoS into a headache; securing packaging capacity becomes top priority, says MediaTek deputy GM
+- **題材**: `半導體先進製程` | **重要性**: `78`
+- **來源**: Digitimes (2026-11-09T03:25:11Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Surging demand for advanced packaging driven by artificial intelligence (AI) has turned chip-on-wafer-on-substrate (CoWoS) from an "interesting" technology into a headache, making it an urgent priority for MediaTek to secure wafer, packaging, and substrate ca…
+- [原文連結](https://www.digitimes.com/news/a20261108PD200/mediatek-cowos-packaging-demand-capacity.html)
 
 ---
 
@@ -73,15 +82,6 @@
 
 ---
 
-### 🚀 MediaTek, Marvell, Broadcom battle for ASIC supply through 2028
-- **題材**: `半導體先進製程` | **重要性**: `73`
-- **來源**: Digitimes (2026-11-03T01:52:39Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Competition in the AI application-specific integrated circuit (ASIC) market will extend beyond 2028, industry sources said, with MediaTek, Broadcom, and Marvell competing not only for design wins, but also for secure access to wafers, advanced packaging, subs…
-- [原文連結](https://www.digitimes.com/news/a20261103PD211/2028-mediatek-market-asic-broadcom.html)
-
----
-
 ### ⚖️ Commentary: AOI locks in China's InP substrates for AI optics, but export controls threaten supply
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
 - **來源**: Digitimes (2026-11-05T03:35:25Z)
@@ -100,12 +100,12 @@
 
 ---
 
-### 🚀 Dixon maps AI hardware expansion through Inventec, Gemtek, prospective packaging partners
-- **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-11-02T03:35:54Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Dixon Technologies is pursuing separate partnerships for servers, optical communications, and advanced semiconductor packaging as it seeks a role in AI infrastructure manufacturing, although its most ambitious silicon-photonics plans remain at the evaluation …
-- [原文連結](https://www.digitimes.com/news/a20261102VL203/dixon-packaging-gemtek-inventec-hardware.html)
+### 🚀 MediaTek, Marvell, Broadcom battle for ASIC supply through 2028
+- **題材**: `半導體先進製程` | **重要性**: `68`
+- **來源**: Digitimes (2026-11-03T01:52:39Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Competition in the AI application-specific integrated circuit (ASIC) market will extend beyond 2028, industry sources said, with MediaTek, Broadcom, and Marvell competing not only for design wins, but also for secure access to wafers, advanced packaging, subs…
+- [原文連結](https://www.digitimes.com/news/a20261103PD211/2028-mediatek-market-asic-broadcom.html)
 
 ---
 
