@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-10T04:29:45.467035+00:00
+> 更新時間：2026-11-10T07:54:06.906611+00:00
 
 ### 🚀 Hua Hong Grace eyes silicon photonics expansion as AI chip shortages lift pricing power
 - **題材**: `光通訊與矽光子` | **重要性**: `93`
@@ -7,6 +7,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重大事件】可能顯著影響產業評價、EPS預期或資金流向。
 - **摘要**: China's second-largest contract chipmaker, Hua Hong Grace Semiconductor, is expanding into silicon photonics and power management chips to capitalise on AI infrastructure demand, following record third-quarter 2026 revenue and a 147.1% surge in profit.
 - [原文連結](https://www.digitimes.com/news/a20261106VL204/photonics-silicon-expansion-revenue-demand.html)
+
+---
+
+### 🚀 Paras Semiconductors teams with US-based BroadPak on advanced packaging plant in India
+- **題材**: `半導體先進製程` | **重要性**: `78`
+- **來源**: Digitimes (2026-11-09T06:53:51Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Paras Semiconductors, a subsidiary of Indian defense company Paras Defence & Space Technologies, announced a strategic technology partnership with US-based BroadPak Corporation on November 6 to build advanced semiconductor packaging capabilities in India, anc…
+- [原文連結](https://www.digitimes.com/news/a20261109VL209/packaging-plant-subsidiary-technology-incentives.html)
 
 ---
 
@@ -100,15 +109,6 @@
 
 ---
 
-### 🚀 MediaTek, Marvell, Broadcom battle for ASIC supply through 2028
-- **題材**: `半導體先進製程` | **重要性**: `68`
-- **來源**: Digitimes (2026-11-03T01:52:39Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Competition in the AI application-specific integrated circuit (ASIC) market will extend beyond 2028, industry sources said, with MediaTek, Broadcom, and Marvell competing not only for design wins, but also for secure access to wafers, advanced packaging, subs…
-- [原文連結](https://www.digitimes.com/news/a20261103PD211/2028-mediatek-market-asic-broadcom.html)
-
----
-
 ### ⚠️ TSMC denies exploring 3D DRAM at Nvidia's request
 - **題材**: `半導體先進製程` | **重要性**: `67`
 - **來源**: Tom's Hardware UK (2026-11-07T13:00:00Z)
@@ -172,12 +172,12 @@
 
 ---
 
-### 🚀 Taiwan’s AI stock boom is making early-stage startups a harder sell
-- **題材**: `半導體先進製程` | **重要性**: `65`
-- **來源**: Business Insider (2026-11-03T05:01:01Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Taiwan's AI stock boom could be making it harder for young startups to win their first funding checks.
-- [原文連結](https://www.businessinsider.com/taiwan-stock-exchange-taiex-ai-boom-early-stage-startups-challenges-2026-11#article)
+### ⚖️ Innolight starts US NPO pilot production with Tower for AI optical interconnects
+- **題材**: `光通訊與矽光子` | **重要性**: `63`
+- **來源**: Digitimes (2026-11-06T01:55:23Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: China-based optical communications provider Innolight has advanced its next-generation AI optical interconnect strategy. Tower Semiconductor and Innolight said their first jointly developed near-package optics (NPO) product, built using Tower's PH18M silicon …
+- [原文連結](https://www.digitimes.com/news/a20261106PD202/production-communications-data-packaging-development.html)
 
 ---
 
