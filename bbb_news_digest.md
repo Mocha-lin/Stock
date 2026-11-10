@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-10T07:54:06.906611+00:00
+> 更新時間：2026-11-10T16:48:34.025923+00:00
 
 ### 🚀 Hua Hong Grace eyes silicon photonics expansion as AI chip shortages lift pricing power
 - **題材**: `光通訊與矽光子` | **重要性**: `93`
@@ -7,15 +7,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重大事件】可能顯著影響產業評價、EPS預期或資金流向。
 - **摘要**: China's second-largest contract chipmaker, Hua Hong Grace Semiconductor, is expanding into silicon photonics and power management chips to capitalise on AI infrastructure demand, following record third-quarter 2026 revenue and a 147.1% surge in profit.
 - [原文連結](https://www.digitimes.com/news/a20261106VL204/photonics-silicon-expansion-revenue-demand.html)
-
----
-
-### 🚀 Paras Semiconductors teams with US-based BroadPak on advanced packaging plant in India
-- **題材**: `半導體先進製程` | **重要性**: `78`
-- **來源**: Digitimes (2026-11-09T06:53:51Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Paras Semiconductors, a subsidiary of Indian defense company Paras Defence & Space Technologies, announced a strategic technology partnership with US-based BroadPak Corporation on November 6 to build advanced semiconductor packaging capabilities in India, anc…
-- [原文連結](https://www.digitimes.com/news/a20261109VL209/packaging-plant-subsidiary-technology-incentives.html)
 
 ---
 
@@ -73,15 +64,6 @@
 
 ---
 
-### 🚀 Murata, Samsung Electro-Mechanics reportedly secure Winbond's silicon capacitor capacity
-- **題材**: `半導體先進製程` | **重要性**: `73`
-- **來源**: Digitimes (2026-11-04T23:37:41Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Murata Manufacturing and Samsung Electro-Mechanics (Semco) have reportedly secured silicon capacitor production capacity from Winbond Electronics to meet demand from their end customers, as the Taiwanese memory maker expands into components used in AI advance…
-- [原文連結](https://www.digitimes.com/news/a20261104PD228/murata-silicon-semco-winbond-capacitor.html)
-
----
-
 ### 🚀 AMD rides data center riches to ‘largest and most profitable’ quarter in history
 - **題材**: `HBM記憶體` | **重要性**: `73`
 - **來源**: The Verge (2026-11-04T01:17:17Z)
@@ -109,15 +91,6 @@
 
 ---
 
-### ⚠️ TSMC denies exploring 3D DRAM at Nvidia's request
-- **題材**: `半導體先進製程` | **重要性**: `67`
-- **來源**: Tom's Hardware UK (2026-11-07T13:00:00Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Nvidia reportedly asks TSMC to produce '3D DRAM' to address memory shortages.
-- [原文連結](https://www.tomshardware.com/pc-components/dram/tsmc-denies-exploring-3d-dram-at-nvidias-request-advanced-memory-tech-is-still-years-from-market-viability)
-
----
-
 ### ⚖️ Micron's $4.5 billion Taoyuan plant construction halted amidst labor dispute
 - **題材**: `HBM記憶體` | **重要性**: `67`
 - **來源**: Tom's Hardware UK (2026-11-05T14:28:30Z)
@@ -133,6 +106,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Marvell has agreed to acquire Lumentum for $115 billion, combining its optical DSPs, SerDes, silicon photonics, and networking silicon with Lumentum’s lasers, transceivers, optical switches, and InP manufacturing footprint.
 - [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/marvell-to-buy-lumentum-in-usd115-billion-all-stock-deal-combined-company-to-supply-scale-up-and-scale-in-optics-for-ai-data-centers)
+
+---
+
+### 🚀 Nvidia Shares Dip By Hundreds Of Billions Following CEO’s Statement On Affair With Possible Chinese Spy
+- **題材**: `半導體先進製程` | **重要性**: `65`
+- **來源**: Kotaku (2026-11-09T11:30:08Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: The markets have not been kind to Nvidia this morning as CEO Jensen Huang's statement takes its toll on the company's stocks
+- [原文連結](https://kotaku.com/nvidia-share-price-jensen-huang-ai-affair-alice-megaspeed-markets-2000755054)
 
 ---
 
@@ -163,21 +145,39 @@
 
 ---
 
-### 🚀 Drax wants to feed Britain's AI habit with £20B datacenter at biomass power station
-- **題材**: `AI伺服器` | **重要性**: `65`
-- **來源**: Theregister.com (2026-11-03T13:27:33Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: But first it needs planning permission, government approval and, rather importantly, a customer
-- [原文連結](https://www.theregister.com/on-prem/2026/11/03/drax-wants-to-feed-britains-ai-habit-with-20b-datacenter-at-biomass-power-station/5307237)
-
----
-
 ### ⚖️ Innolight starts US NPO pilot production with Tower for AI optical interconnects
 - **題材**: `光通訊與矽光子` | **重要性**: `63`
 - **來源**: Digitimes (2026-11-06T01:55:23Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: China-based optical communications provider Innolight has advanced its next-generation AI optical interconnect strategy. Tower Semiconductor and Innolight said their first jointly developed near-package optics (NPO) product, built using Tower's PH18M silicon …
 - [原文連結](https://www.digitimes.com/news/a20261106PD202/production-communications-data-packaging-development.html)
+
+---
+
+### ⚖️ Nintendo is losing a Switch cartridge supplier
+- **題材**: `HBM記憶體` | **重要性**: `63`
+- **來源**: The Verge (2026-11-04T17:03:32Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Nintendo is about to lose a major memory supplier for its Switch cartridges. The supplier, Macronix, announced during a recent quarterly earnings call that it would be gradually phasing out ROM production and is instead focusing on NOR flash memory for data c…
+- [原文連結](https://www.theverge.com/games/1026426/nintendo-switch-cartridges-rom-supplier-data-center)
+
+---
+
+### ⚖️ Nvidia RTX PRO 6000 user’s cables almost melted, even when limited to 500W
+- **題材**: `AI伺服器` | **重要性**: `62`
+- **來源**: Tom's Hardware UK (2026-11-09T14:00:00Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: The 12V-2x6 connector nearly took out two RTX PRO 6000 Blackwell Workstation GPUs; luckily, the owner spotted the damaged cables before they melted the GPU connectors.
+- [原文連結](https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-pro-6000-users-cables-almost-melted-even-when-limited-to-500w-12v-2x6-cables-appear-to-still-cause-problems-show-clear-signs-of-melting)
+
+---
+
+### ⚠️ TSMC denies exploring 3D DRAM at Nvidia's request
+- **題材**: `半導體先進製程` | **重要性**: `62`
+- **來源**: Tom's Hardware UK (2026-11-07T13:00:00Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Nvidia reportedly asks TSMC to produce '3D DRAM' to address memory shortages.
+- [原文連結](https://www.tomshardware.com/pc-components/dram/tsmc-denies-exploring-3d-dram-at-nvidias-request-advanced-memory-tech-is-still-years-from-market-viability)
 
 ---
 
