@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-11T07:22:24.931476+00:00
+> 更新時間：2026-11-11T16:54:56.678454+00:00
 
 ### 🚀 Hua Hong Grace eyes silicon photonics expansion as AI chip shortages lift pricing power
 - **題材**: `光通訊與矽光子` | **重要性**: `93`
@@ -100,15 +100,6 @@
 
 ---
 
-### 🚀 Murata, Samsung Electro-Mechanics reportedly secure Winbond's silicon capacitor capacity
-- **題材**: `半導體先進製程` | **重要性**: `73`
-- **來源**: Digitimes (2026-11-04T23:37:41Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Murata Manufacturing and Samsung Electro-Mechanics (Semco) have reportedly secured silicon capacitor production capacity from Winbond Electronics to meet demand from their end customers, as the Taiwanese memory maker expands into components used in AI advance…
-- [原文連結](https://www.digitimes.com/news/a20261104PD228/murata-silicon-semco-winbond-capacitor.html)
-
----
-
 ### ⚖️ Zhongji InnoLight revenue and profit more than double in 3Q26
 - **題材**: `光通訊與矽光子` | **重要性**: `73`
 - **來源**: Digitimes (2026-11-04T03:35:00Z)
@@ -178,6 +169,15 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: The markets have not been kind to Nvidia this morning as CEO Jensen Huang's statement takes its toll on the company's stocks
 - [原文連結](https://kotaku.com/nvidia-share-price-jensen-huang-ai-affair-alice-megaspeed-markets-2000755054)
+
+---
+
+### ⚖️ AI boom turns advanced chip packaging into the next battleground
+- **題材**: `半導體先進製程` | **重要性**: `65`
+- **來源**: BusinessLine (2026-11-06T06:17:42Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Chipmakers and equipment manufacturers are accelerating investments in new technologies as packaging capacity struggles to keep pace with demand
+- [原文連結](https://www.thehindubusinessline.com/info-tech/ai-boom-turns-advanced-chip-packaging-into-the-next-battleground/article71673081.ece)
 
 ---
 
