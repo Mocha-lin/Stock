@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-11T02:33:12.696720+00:00
+> 更新時間：2026-11-11T07:22:24.931476+00:00
 
 ### 🚀 Hua Hong Grace eyes silicon photonics expansion as AI chip shortages lift pricing power
 - **題材**: `光通訊與矽光子` | **重要性**: `93`
@@ -7,6 +7,24 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重大事件】可能顯著影響產業評價、EPS預期或資金流向。
 - **摘要**: China's second-largest contract chipmaker, Hua Hong Grace Semiconductor, is expanding into silicon photonics and power management chips to capitalise on AI infrastructure demand, following record third-quarter 2026 revenue and a 147.1% surge in profit.
 - [原文連結](https://www.digitimes.com/news/a20261106VL204/photonics-silicon-expansion-revenue-demand.html)
+
+---
+
+### ⚖️ Nvidia, SPIL target CPO volume shipments in 2027
+- **題材**: `光通訊與矽光子` | **重要性**: `78`
+- **來源**: Digitimes (2026-11-10T03:41:37Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: AI infrastructure investment is accelerating the shift toward optical connectivity, as rising data-center traffic exposes the power and bandwidth limits of conventional electrical signals. Nvidia and ASE's SPIL are expanding the supply of optical engines for …
+- [原文連結](https://www.digitimes.com/news/a20261110PD223/cpo-spil-nvidia-infrastructure-investment.html)
+
+---
+
+### ⚠️ Nvidia probe fuels push for China chip curbs, raising risks for Samsung, SK Hynix
+- **題材**: `HBM記憶體` | **重要性**: `78`
+- **來源**: Digitimes (2026-11-10T03:20:55Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Samsung Electronics and SK Hynix face uncertainty over demand for high-bandwidth memory (HBM) as US lawmakers press for tighter controls on AI chip exports to China following allegations involving Nvidia CEO Jensen Huang.
+- [原文連結](https://www.digitimes.com/news/a20261110VL203/nvidia-samsung-investigation-sk-hynix-ceo.html)
 
 ---
 
@@ -37,12 +55,12 @@
 
 ---
 
-### ⚖️ Zhongji InnoLight revenue and profit more than double in 3Q26
-- **題材**: `光通訊與矽光子` | **重要性**: `78`
-- **來源**: Digitimes (2026-11-04T03:35:00Z)
+### ⚖️ Taiwan's GIS targets 800G/1.6T AI optics, with laser packaging ramp-up starting 4Q26
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-11-10T04:21:06Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: China-based optical communications module maker Zhongji InnoLight reported strong results for the third quarter of 2026 as global AI infrastructure expansion drove robust demand for high-speed optical transceiver modules and increased shipments of 800G and 1.…
-- [原文連結](https://www.digitimes.com/news/a20261104PD232/2026-demand-profit-communications-revenue.html)
+- **摘要**: GIS is shifting from touch displays to semiconductor optics, with laser packaging entering small-volume production in the fourth quarter of 2026 and full capacity expected by the second or third quarter of 2027. Chairman Hsien-ying Chou said production lines …
+- [原文連結](https://www.digitimes.com/news/a20261110PD226/gis-optics-laser-packaging-taiwan.html)
 
 ---
 
@@ -88,6 +106,24 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Murata Manufacturing and Samsung Electro-Mechanics (Semco) have reportedly secured silicon capacitor production capacity from Winbond Electronics to meet demand from their end customers, as the Taiwanese memory maker expands into components used in AI advance…
 - [原文連結](https://www.digitimes.com/news/a20261104PD228/murata-silicon-semco-winbond-capacitor.html)
+
+---
+
+### ⚖️ Zhongji InnoLight revenue and profit more than double in 3Q26
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-11-04T03:35:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: China-based optical communications module maker Zhongji InnoLight reported strong results for the third quarter of 2026 as global AI infrastructure expansion drove robust demand for high-speed optical transceiver modules and increased shipments of 800G and 1.…
+- [原文連結](https://www.digitimes.com/news/a20261104PD232/2026-demand-profit-communications-revenue.html)
+
+---
+
+### ⚖️ Intel looks beyond 18A and 14A to reshape computing
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-11-10T04:21:43Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Intel has fallen noticeably behind rivals including Nvidia and AMD in the generative AI boom. Rather than concentrating all its resources on catching current market leaders, the company is pursuing quantum computing, neuromorphic computing, silicon photonics,…
+- [原文連結](https://www.digitimes.com/news/a20261110PD225/intel-quantum-computing-chips-technology.html)
 
 ---
 
@@ -142,42 +178,6 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: The markets have not been kind to Nvidia this morning as CEO Jensen Huang's statement takes its toll on the company's stocks
 - [原文連結](https://kotaku.com/nvidia-share-price-jensen-huang-ai-affair-alice-megaspeed-markets-2000755054)
-
----
-
-### ⚖️ AI boom turns advanced chip packaging into the next battleground
-- **題材**: `半導體先進製程` | **重要性**: `65`
-- **來源**: BusinessLine (2026-11-06T06:17:42Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Chipmakers and equipment manufacturers are accelerating investments in new technologies as packaging capacity struggles to keep pace with demand
-- [原文連結](https://www.thehindubusinessline.com/info-tech/ai-boom-turns-advanced-chip-packaging-into-the-next-battleground/article71673081.ece)
-
----
-
-### 🚀 Counterpoint: global DRAM revenue grows by 369% in Q3
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: GSMArena.com (2026-11-05T19:11:03Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Global DRAM revenue has increased by an insane 369% year-over-year thanks to strong demand for the stuff, which goes towards building new AI accelerators and data centers. The Average Selling Price (ASP) has reached $1.9 per gigabit (i.e. 1/8th of a gigabyte)…
-- [原文連結](https://www.gsmarena.com/counterpoint_global_dram_revenue_grows_by_369_in_q3-news-75368.php)
-
----
-
-### ⚖️ Memory makers mint megabucks while buyers beg for mercy
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: Theregister.com (2026-11-05T15:07:34Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: DRAM revenue jumps 369 percent as AI demand keeps supplies tight and prices climbing
-- [原文連結](https://www.theregister.com/systems/2026/11/05/memory-makers-mint-megabucks-while-buyers-beg-for-mercy/5307846)
-
----
-
-### ⚖️ Innolight starts US NPO pilot production with Tower for AI optical interconnects
-- **題材**: `光通訊與矽光子` | **重要性**: `63`
-- **來源**: Digitimes (2026-11-06T01:55:23Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: China-based optical communications provider Innolight has advanced its next-generation AI optical interconnect strategy. Tower Semiconductor and Innolight said their first jointly developed near-package optics (NPO) product, built using Tower's PH18M silicon …
-- [原文連結](https://www.digitimes.com/news/a20261106PD202/production-communications-data-packaging-development.html)
 
 ---
 
