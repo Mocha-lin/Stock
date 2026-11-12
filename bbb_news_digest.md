@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-12T07:51:56.478126+00:00
+> 更新時間：2026-11-12T17:22:54.205737+00:00
 
 ### 🚀 Hua Hong Grace eyes silicon photonics expansion as AI chip shortages lift pricing power
 - **題材**: `光通訊與矽光子` | **重要性**: `93`
@@ -82,15 +82,6 @@
 
 ---
 
-### ⚖️ Largan consolidates camera actuator unit as optical business expands into CPO
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-11-05T10:29:45Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Largan Technology reported October revenue of NT$5.846 billion (US$178.1 million) on November 5, down 7.0% year-over-year, while moving to consolidate its camera actuator subsidiary and advance co-packaged optics (CPO) products. Revenue for the first 10 month…
-- [原文連結](https://www.digitimes.com/news/a20261105PD243/revenue-camera-cpo-subsidiary-2027.html)
-
----
-
 ### 🚀 Asia Optical posts record Q3 profit, ramps CPO and AI optics push
 - **題材**: `光通訊與矽光子` | **重要性**: `73`
 - **來源**: Digitimes (2026-11-05T00:53:32Z)
@@ -109,6 +100,15 @@
 
 ---
 
+### ⚖️ Largan consolidates camera actuator unit as optical business expands into CPO
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-11-05T10:29:45Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Largan Technology reported October revenue of NT$5.846 billion (US$178.1 million) on November 5, down 7.0% year-over-year, while moving to consolidate its camera actuator subsidiary and advance co-packaged optics (CPO) products. Revenue for the first 10 month…
+- [原文連結](https://www.digitimes.com/news/a20261105PD243/revenue-camera-cpo-subsidiary-2027.html)
+
+---
+
 ### 🚀 SK Hynix leads HBM4 yield at 60%, expands DRAM supply
 - **題材**: `HBM記憶體` | **重要性**: `68`
 - **來源**: Digitimes (2026-11-05T02:45:00Z)
@@ -118,21 +118,21 @@
 
 ---
 
-### ⚖️ Micron's $4.5 billion Taoyuan plant construction halted amidst labor dispute
-- **題材**: `HBM記憶體` | **重要性**: `67`
-- **來源**: Tom's Hardware UK (2026-11-05T14:28:30Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Micron and the Taoyuan labor union is set to meet again on November 6 as the two parties engage in a protracted labor dispute regarding profit-sharing.
-- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/microns-usd4-5-billion-taoyuan-plant-construction-halted-amidst-labor-dispute-company-and-union-still-havent-reached-agreement-as-latter-asks-for-clearer-profit-sharing-terms)
+### ⚖️ SpaceX develops its own ‘Kessel’ rack-scale system featuring 72 Nvidia Rubin GPUs for data centers in space, report claims
+- **題材**: `AI伺服器` | **重要性**: `67`
+- **來源**: Tom's Hardware UK (2026-11-11T15:03:08Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: SpaceX is reportedly developing a 'Kessel' rack-scale system design with 72 Nvidia Rubin GPUs that relies on a massive 84-layer PCB midplane.
+- [原文連結](https://www.tomshardware.com/tech-industry/artificial-intelligence/spacex-develops-its-own-kessel-rack-scale-system-featuring-72-nvidia-rubin-gpus-for-data-centers-in-space-report-claims-replaces-conventional-nvlink-cable-assemblies-with-a-massive-84-layer-printed-circuit-board)
 
 ---
 
-### ⚖️ Marvell to buy Lumentum in $115 billion all-stock deal
-- **題材**: `光通訊與矽光子` | **重要性**: `67`
-- **來源**: Tom's Hardware UK (2026-11-05T12:00:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Marvell has agreed to acquire Lumentum for $115 billion, combining its optical DSPs, SerDes, silicon photonics, and networking silicon with Lumentum’s lasers, transceivers, optical switches, and InP manufacturing footprint.
-- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/marvell-to-buy-lumentum-in-usd115-billion-all-stock-deal-combined-company-to-supply-scale-up-and-scale-in-optics-for-ai-data-centers)
+### 🚀 The “upgrade the RAM yourself later” plan has stopped saving money
+- **題材**: `HBM記憶體` | **重要性**: `65`
+- **來源**: MakeUseOf (2026-11-11T13:00:16Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Upgrading laptop RAM was an easy upgrade, but RAMaggedon means you'll struggle to make that work.
+- [原文連結](https://www.makeuseof.com/upgrading-laptop-ram-later-stopped-saving-money/)
 
 ---
 
@@ -142,15 +142,6 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: After facing several setbacks in contract chip manufacturing business over the past few years, Samsung's foundry division is getting back on its feet. Beyond improving its technology, the company is winning new clients. In the latest win, a new on-device AI i…
 - [原文連結](https://www.sammobile.com/news/deepx-ai-chip-use-samsung-2nm-tech-uses-5-watts-power/)
-
----
-
-### 🚀 Nvidia Shares Dip By Hundreds Of Billions Following CEO’s Statement On Affair With Possible Chinese Spy
-- **題材**: `半導體先進製程` | **重要性**: `65`
-- **來源**: Kotaku (2026-11-09T11:30:08Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: The markets have not been kind to Nvidia this morning as CEO Jensen Huang's statement takes its toll on the company's stocks
-- [原文連結](https://kotaku.com/nvidia-share-price-jensen-huang-ai-affair-alice-megaspeed-markets-2000755054)
 
 ---
 
@@ -172,12 +163,21 @@
 
 ---
 
-### ⚖️ Memory makers mint megabucks while buyers beg for mercy
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: Theregister.com (2026-11-05T15:07:34Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: DRAM revenue jumps 369 percent as AI demand keeps supplies tight and prices climbing
-- [原文連結](https://www.theregister.com/systems/2026/11/05/memory-makers-mint-megabucks-while-buyers-beg-for-mercy/5307846)
+### ⚖️ Innolight starts US NPO pilot production with Tower for AI optical interconnects
+- **題材**: `光通訊與矽光子` | **重要性**: `63`
+- **來源**: Digitimes (2026-11-06T01:55:23Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: China-based optical communications provider Innolight has advanced its next-generation AI optical interconnect strategy. Tower Semiconductor and Innolight said their first jointly developed near-package optics (NPO) product, built using Tower's PH18M silicon …
+- [原文連結](https://www.digitimes.com/news/a20261106PD202/production-communications-data-packaging-development.html)
+
+---
+
+### ⚖️ Commentary: AOI locks in China's InP substrates for AI optics, but export controls threaten supply
+- **題材**: `光通訊與矽光子` | **重要性**: `63`
+- **來源**: Digitimes (2026-11-05T03:35:25Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: AI data centers are accelerating demand for high-speed optical communications, extending competition in the optical transceiver market beyond chips and module manufacturing to critical upstream materials. Indium phosphide (InP), a key substrate for high-speed…
+- [原文連結](https://www.digitimes.com/news/a20261105PD220/aoi-inp-substrate-optical-communications-demand.html)
 
 ---
 
