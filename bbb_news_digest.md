@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-12T03:38:01.379446+00:00
+> 更新時間：2026-11-12T07:51:56.478126+00:00
 
 ### 🚀 Hua Hong Grace eyes silicon photonics expansion as AI chip shortages lift pricing power
 - **題材**: `光通訊與矽光子` | **重要性**: `93`
@@ -37,15 +37,6 @@
 
 ---
 
-### 🚀 Paras Semiconductors teams with US-based BroadPak on advanced packaging plant in India
-- **題材**: `半導體先進製程` | **重要性**: `78`
-- **來源**: Digitimes (2026-11-09T06:53:51Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Paras Semiconductors, a subsidiary of Indian defense company Paras Defence & Space Technologies, announced a strategic technology partnership with US-based BroadPak Corporation on November 6 to build advanced semiconductor packaging capabilities in India, anc…
-- [原文連結](https://www.digitimes.com/news/a20261109VL209/packaging-plant-subsidiary-technology-incentives.html)
-
----
-
 ### ⚖️ Taiwan's GIS targets 800G/1.6T AI optics, with laser packaging ramp-up starting 4Q26
 - **題材**: `光通訊與矽光子` | **重要性**: `73`
 - **來源**: Digitimes (2026-11-10T04:21:06Z)
@@ -61,6 +52,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: As the global semiconductor industry continues to focus on Nvidia, Intel is looking beyond GPUs to determine where next-generation computing architectures will go. In an interview with Japanese publication PC Watch, Intel chief technology officer Pushkar Rana…
 - [原文連結](https://www.digitimes.com/news/a20261109PD207/intel-photonics-silicon-in-memory-computing-technology.html)
+
+---
+
+### 🚀 Paras Semiconductors teams with US-based BroadPak on advanced packaging plant in India
+- **題材**: `半導體先進製程` | **重要性**: `73`
+- **來源**: Digitimes (2026-11-09T06:53:51Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Paras Semiconductors, a subsidiary of Indian defense company Paras Defence & Space Technologies, announced a strategic technology partnership with US-based BroadPak Corporation on November 6 to build advanced semiconductor packaging capabilities in India, anc…
+- [原文連結](https://www.digitimes.com/news/a20261109VL209/packaging-plant-subsidiary-technology-incentives.html)
 
 ---
 
