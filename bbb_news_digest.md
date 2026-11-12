@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-12T17:22:54.205737+00:00
+> 更新時間：2026-11-12T20:30:37.768073+00:00
 
 ### 🚀 Hua Hong Grace eyes silicon photonics expansion as AI chip shortages lift pricing power
 - **題材**: `光通訊與矽光子` | **重要性**: `93`
@@ -34,6 +34,15 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Samsung Electronics and SK Hynix face uncertainty over demand for high-bandwidth memory (HBM) as US lawmakers press for tighter controls on AI chip exports to China following allegations involving Nvidia CEO Jensen Huang.
 - [原文連結](https://www.digitimes.com/news/a20261110VL203/nvidia-samsung-investigation-sk-hynix-ceo.html)
+
+---
+
+### 🚀 Memory price skyrockets as demand for AI data centers drives 369% year-over-year surge
+- **題材**: `HBM記憶體` | **重要性**: `75`
+- **來源**: TechRadar (2026-11-11T20:25:00Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Memory makers aren't selling much more; they're charging much more.
+- [原文連結](https://www.techradar.com/pro/memory-price-skyrockets-as-demand-for-ai-data-centers-drives-369-percent-year-over-year-surge)
 
 ---
 
@@ -136,30 +145,12 @@
 
 ---
 
-### 🚀 New AI chip made using Samsung’s 2nm tech uses just 5 watts of power
-- **題材**: `半導體先進製程` | **重要性**: `65`
-- **來源**: SamMobile (2026-11-10T07:57:10Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: After facing several setbacks in contract chip manufacturing business over the past few years, Samsung's foundry division is getting back on its feet. Beyond improving its technology, the company is winning new clients. In the latest win, a new on-device AI i…
-- [原文連結](https://www.sammobile.com/news/deepx-ai-chip-use-samsung-2nm-tech-uses-5-watts-power/)
-
----
-
 ### ⚖️ AI boom turns advanced chip packaging into the next battleground
 - **題材**: `半導體先進製程` | **重要性**: `65`
 - **來源**: BusinessLine (2026-11-06T06:17:42Z)
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Chipmakers and equipment manufacturers are accelerating investments in new technologies as packaging capacity struggles to keep pace with demand
 - [原文連結](https://www.thehindubusinessline.com/info-tech/ai-boom-turns-advanced-chip-packaging-into-the-next-battleground/article71673081.ece)
-
----
-
-### 🚀 Counterpoint: global DRAM revenue grows by 369% in Q3
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: GSMArena.com (2026-11-05T19:11:03Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Global DRAM revenue has increased by an insane 369% year-over-year thanks to strong demand for the stuff, which goes towards building new AI accelerators and data centers. The Average Selling Price (ASP) has reached $1.9 per gigabit (i.e. 1/8th of a gigabyte)…
-- [原文連結](https://www.gsmarena.com/counterpoint_global_dram_revenue_grows_by_369_in_q3-news-75368.php)
 
 ---
 
@@ -178,6 +169,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: AI data centers are accelerating demand for high-speed optical communications, extending competition in the optical transceiver market beyond chips and module manufacturing to critical upstream materials. Indium phosphide (InP), a key substrate for high-speed…
 - [原文連結](https://www.digitimes.com/news/a20261105PD220/aoi-inp-substrate-optical-communications-demand.html)
+
+---
+
+### ⚖️ Samsung reportedly plans 2nm fab to boost HBM base-die output
+- **題材**: `半導體先進製程` | **重要性**: `63`
+- **來源**: Digitimes (2026-11-05T02:55:00Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Samsung Electronics is preparing to build a 2nm- and 4nm-class foundry fab at its Giheung campus in Yongin, South Korea, to expand production of logic base dies used in high-bandwidth memory (HBM). The fab is estimated to cost KRW25 trillion (approx. US$18.6 …
+- [原文連結](https://www.digitimes.com/news/a20261105VL216/samsung-fab-hbm-2nm-production.html)
 
 ---
 
