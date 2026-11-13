@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-13T07:28:51.909331+00:00
+> 更新時間：2026-11-13T16:57:48.198267+00:00
 
 ### 🚀 Hua Hong Grace eyes silicon photonics expansion as AI chip shortages lift pricing power
 - **題材**: `光通訊與矽光子` | **重要性**: `88`
@@ -136,6 +136,33 @@
 
 ---
 
+### ⚠️ Mexico's president rebuts Trump's migrant caravan claims as he threatens new tariffs
+- **題材**: `總體風險` | **重要性**: `65`
+- **來源**: Yahoo Entertainment (2026-11-12T16:05:49Z)
+- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: MEXICO CITY (AP) — Mexican President Claudia Sheinbaum said Thursday that no migrant caravans have reached the U.S. border since U.S. President Donald Trump returned to office in 2025, responding to his threat to double tariffs on Mexican goods unless Mexico …
+- [原文連結](https://www.yahoo.com/news/us/articles/sheinbaum-rebuts-trump-says-no-160549220.html)
+
+---
+
+### 🚀 AMD plans equity investment in PsiQuantum to develop utility-scale quantum computers
+- **題材**: `光通訊與矽光子` | **重要性**: `65`
+- **來源**: BusinessLine (2026-11-12T13:09:19Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: The expanded partnership will combine AMD’s computing technologies with PsiQuantum’s silicon photonics platform to advance quantum computing and drug discovery
+- [原文連結](https://www.thehindubusinessline.com/info-tech/amd-plans-equity-investment-in-psiquantum-to-develop-utility-scale-quantum-computers/article71693912.ece)
+
+---
+
+### 🚀 AMD to invest in PsiQuantum to advance quantum computing infrastructure
+- **題材**: `光通訊與矽光子` | **重要性**: `65`
+- **來源**: CNA (2026-11-12T13:01:43Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Nov 12 : AMD plans to make an equity investment in quantum computing company PsiQuantum as part of an expanded partnership to develop the infrastructure required for utility-scale quantum computers, the companies said on Thursday.The deal comes when quantum c…
+- [原文連結](https://www.channelnewsasia.com/business/amd-invest-in-psiquantum-advance-quantum-computing-infrastructure-6546391)
+
+---
+
 ### 🚀 The “upgrade the RAM yourself later” plan has stopped saving money
 - **題材**: `HBM記憶體` | **重要性**: `65`
 - **來源**: MakeUseOf (2026-11-11T13:00:16Z)
@@ -145,40 +172,12 @@
 
 ---
 
-### 🚀 Wall Street May Be Underestimating This AI Chip Stock’s Next Growth Phase
-- **題材**: `光通訊與矽光子` | **重要性**: `65`
-- **來源**: Biztoc.com (2026-11-10T14:47:50Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: The post Wall Street May Be Underestimating This AI Chip Stock’s Next Growth Phase appeared first on 24/7 Wall St..
-Credo Technology Group (NASDAQ:CRDO) makes the connectivity hardware inside AI data centers: active electrical cables, optical DSPs, silicon ph…
-- [原文連結](https://biztoc.com/x/ebb646237fac2930)
-
----
-
-### 🚀 New AI chip made using Samsung’s 2nm tech uses just 5 watts of power
-- **題材**: `半導體先進製程` | **重要性**: `65`
-- **來源**: SamMobile (2026-11-10T07:57:10Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: After facing several setbacks in contract chip manufacturing business over the past few years, Samsung's foundry division is getting back on its feet. Beyond improving its technology, the company is winning new clients. In the latest win, a new on-device AI i…
-- [原文連結](https://www.sammobile.com/news/deepx-ai-chip-use-samsung-2nm-tech-uses-5-watts-power/)
-
----
-
 ### ⚖️ Intel looks beyond 18A and 14A to reshape computing
 - **題材**: `光通訊與矽光子` | **重要性**: `63`
 - **來源**: Digitimes (2026-11-10T04:21:43Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Intel has fallen noticeably behind rivals including Nvidia and AMD in the generative AI boom. Rather than concentrating all its resources on catching current market leaders, the company is pursuing quantum computing, neuromorphic computing, silicon photonics,…
 - [原文連結](https://www.digitimes.com/news/a20261110PD225/intel-quantum-computing-chips-technology.html)
-
----
-
-### ⚠️ TSMC denies exploring 3D DRAM at Nvidia's request
-- **題材**: `半導體先進製程` | **重要性**: `62`
-- **來源**: Tom's Hardware UK (2026-11-07T13:00:00Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Nvidia reportedly asks TSMC to produce '3D DRAM' to address memory shortages.
-- [原文連結](https://www.tomshardware.com/pc-components/dram/tsmc-denies-exploring-3d-dram-at-nvidias-request-advanced-memory-tech-is-still-years-from-market-viability)
 
 ---
 
