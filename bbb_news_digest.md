@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-13T16:57:48.198267+00:00
+> 更新時間：2026-11-13T20:07:21.354947+00:00
 
 ### 🚀 Hua Hong Grace eyes silicon photonics expansion as AI chip shortages lift pricing power
 - **題材**: `光通訊與矽光子` | **重要性**: `88`
@@ -91,15 +91,6 @@
 
 ---
 
-### ⚖️ Hanwha Semitech taps new CEO as chip equipment sales more than double in 3Q26
-- **題材**: `HBM記憶體` | **重要性**: `68`
-- **來源**: Digitimes (2026-11-10T01:18:58Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Hanwha Semitech has named chief business officer Kim Jin-woo as its incoming CEO after semiconductor equipment revenue more than doubled in the third quarter of 2026. The South Korean company announced the appointment on November 9 as it moves to expand its h…
-- [原文連結](https://www.digitimes.com/news/a20261109VL232/hanwha-ceo-equipment-sales-business.html)
-
----
-
 ### ⚖️ China's lithography ambitions gain ground as SMEE claims 90% local sourcing in chipmaking tools
 - **題材**: `半導體先進製程` | **重要性**: `68`
 - **來源**: Digitimes (2026-11-09T04:33:05Z)
@@ -133,6 +124,15 @@
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: SpaceX is reportedly developing a 'Kessel' rack-scale system design with 72 Nvidia Rubin GPUs that relies on a massive 84-layer PCB midplane.
 - [原文連結](https://www.tomshardware.com/tech-industry/artificial-intelligence/spacex-develops-its-own-kessel-rack-scale-system-featuring-72-nvidia-rubin-gpus-for-data-centers-in-space-report-claims-replaces-conventional-nvlink-cable-assemblies-with-a-massive-84-layer-printed-circuit-board)
+
+---
+
+### ⚠️ The company that makes your RAM says 2027 will be the worst shortage in history
+- **題材**: `HBM記憶體` | **重要性**: `65`
+- **來源**: MakeUseOf (2026-11-12T18:30:17Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: TeamGroup's CEO warns that we're reaching a point where "money can't even buy goods."
+- [原文連結](https://www.makeuseof.com/2027-will-be-worst-ram-shortage-in-history/)
 
 ---
 

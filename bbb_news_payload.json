@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-11-13T16:57:48.198267+00:00",
+  "generated_at": "2026-11-13T20:07:21.354947+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 71,
@@ -374,41 +374,6 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "2ecb71176afdf9c4",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "Hanwha Semitech taps new CEO as chip equipment sales more than double in 3Q26",
-      "summary": "Hanwha Semitech has named chief business officer Kim Jin-woo as its incoming CEO after semiconductor equipment revenue more than doubled in the third quarter of 2026. The South Korean company announced the appointment on November 9 as it moves to expand its h…",
-      "original_title": "Hanwha Semitech taps new CEO as chip equipment sales more than double in 3Q26",
-      "url": "https://www.digitimes.com/news/a20261109VL232/hanwha-ceo-equipment-sales-business.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-11-10T01:18:58Z",
-      "importance": 68,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "8d3ac7b10f433ce1",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -559,6 +524,41 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "91dd1fc9bc1dea94",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "The company that makes your RAM says 2027 will be the worst shortage in history",
+      "summary": "TeamGroup's CEO warns that we're reaching a point where \"money can't even buy goods.\"",
+      "original_title": "The company that makes your RAM says 2027 will be the worst shortage in history",
+      "url": "https://www.makeuseof.com/2027-will-be-worst-ram-shortage-in-history/",
+      "source": "MakeUseOf",
+      "domain": "makeuseof.com",
+      "published_at": "2026-11-12T18:30:17Z",
+      "importance": 65,
+      "impact": "negative",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "e84d6fd450b85f42",
@@ -786,6 +786,44 @@
       "reason": "屬「半導體先進製程」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "f345e9007d6b36f5",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "'Punch in the gut': Homes sales fall to their lowest in 16 years",
+      "summary": "Existing homes sales in October declined 8.8% from a year earlier, according to the National Association of Realtors.",
+      "original_title": "'Punch in the gut': Homes sales fall to their lowest in 16 years",
+      "url": "https://www.npr.org/2026/11/12/nx-s1-6038940/punch-in-the-gut-homes-sales-fall-to-their-lowest-in-16-years",
+      "source": "NPR",
+      "domain": "npr.org",
+      "published_at": "2026-11-12T18:44:00Z",
+      "importance": 60,
+      "impact": "negative",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "fb4a89cef25a799c",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -936,82 +974,6 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "05a7bb1eba6e67d1",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "HP built a desktop around a data center chip, and it carries 748 GB of memory",
-      "summary": "HP’s ZGX Fury G1n AI Station is on sale in the US, and the price is public now: $132,000 for the base machine. A data center chip sits inside the tower, NVIDIA’s GB300 Grace Blackwell Ultra, next to more memory…",
-      "original_title": "HP built a desktop around a data center chip, and it carries 748 GB of memory",
-      "url": "https://the-gadgeteer.com/2026/11/10/hp-zgx-fury-gb300-desktop-748gb-memory/",
-      "source": "The Gadgeteer",
-      "domain": "the-gadgeteer.com",
-      "published_at": "2026-11-10T18:10:00Z",
-      "importance": 60,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "ca072299c14bca2a",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "iPad Mini 2021 vs. 2026 Buyer's Guide: Is It Worth Upgrading?",
-      "summary": "Apple's eighth-generation iPad mini went on sale earlier this month with a larger OLED display, a thinner and lighter design, the A20 Pro chip, and water and dust resistance. If you still use the sixth-generation ‌iPad mini‌ from 2021, the upgrade also brings…",
-      "original_title": "iPad Mini 2021 vs. 2026 Buyer's Guide: Is It Worth Upgrading?",
-      "url": "https://www.macrumors.com/guide/ipad-mini-2021-vs-2026/",
-      "source": "MacRumors",
-      "domain": "macrumors.com",
-      "published_at": "2026-11-10T17:11:48Z",
-      "importance": 60,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "04a4240475611729",
@@ -1242,6 +1204,44 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "9b967a39cceba6c6",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "Trump Claiming 'We Don't Need A Deal With Iran' Officially Bad For Both Oil Prices And That Elusive Deal With Iran",
+      "summary": "it sure sounds like his idea of giving up without giving up is for the Navy to continue blockading the Strait of Hormuz, even if it's costing us a fortune.",
+      "original_title": "Trump Claiming 'We Don't Need A Deal With Iran' Officially Bad For Both Oil Prices And That Elusive Deal With Iran",
+      "url": "https://www.jalopnik.com/2315318/trump-claiming-we-dont-need-iran-deal-bad-for-oil-prices/",
+      "source": "Jalopnik",
+      "domain": "jalopnik.com",
+      "published_at": "2026-11-12T19:57:22Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "088b25e9e337fe39",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1329,44 +1329,6 @@
       "source": "Al Jazeera English",
       "domain": "aljazeera.com",
       "published_at": "2026-11-11T20:45:30Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "2c53f8abe73f0f61",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "PS5 Sales Just Won’t Quit",
-      "summary": "Sony's current console just crossed the 100 million mark",
-      "original_title": "PS5 Sales Just Won’t Quit",
-      "url": "https://kotaku.com/ps5-sales-just-wont-quit-2000755917",
-      "source": "Kotaku",
-      "domain": "kotaku.com",
-      "published_at": "2026-11-11T17:00:36Z",
       "importance": 55,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -1579,6 +1541,82 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "05a7bb1eba6e67d1",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "HP built a desktop around a data center chip, and it carries 748 GB of memory",
+      "summary": "HP’s ZGX Fury G1n AI Station is on sale in the US, and the price is public now: $132,000 for the base machine. A data center chip sits inside the tower, NVIDIA’s GB300 Grace Blackwell Ultra, next to more memory…",
+      "original_title": "HP built a desktop around a data center chip, and it carries 748 GB of memory",
+      "url": "https://the-gadgeteer.com/2026/11/10/hp-zgx-fury-gb300-desktop-748gb-memory/",
+      "source": "The Gadgeteer",
+      "domain": "the-gadgeteer.com",
+      "published_at": "2026-11-10T18:10:00Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "ca072299c14bca2a",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "iPad Mini 2021 vs. 2026 Buyer's Guide: Is It Worth Upgrading?",
+      "summary": "Apple's eighth-generation iPad mini went on sale earlier this month with a larger OLED display, a thinner and lighter design, the A20 Pro chip, and water and dust resistance. If you still use the sixth-generation ‌iPad mini‌ from 2021, the upgrade also brings…",
+      "original_title": "iPad Mini 2021 vs. 2026 Buyer's Guide: Is It Worth Upgrading?",
+      "url": "https://www.macrumors.com/guide/ipad-mini-2021-vs-2026/",
+      "source": "MacRumors",
+      "domain": "macrumors.com",
+      "published_at": "2026-11-10T17:11:48Z",
+      "importance": 55,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "57edc96df4db350c",
@@ -2527,44 +2565,6 @@
       "source": "BBC News",
       "domain": "bbc.co.uk",
       "published_at": "2026-11-06T06:06:00Z",
-      "importance": 50,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "6571221fe183a226",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "Oil Price Today (November 6): Crude oil nears $100 again as fresh attacks dent peace talk hopes. What are experts saying?",
-      "summary": "Crude oil price : Oil prices are making a comeback as fears of supply interruptions grow following recent tanker attacks. President Donald Trump has reiterated that Iran must obtain US consent for its nuclear activities. Concerns about potential supply challe…",
-      "original_title": "Oil Price Today (November 6): Crude oil nears $100 again as fresh attacks dent peace talk hopes. What are experts saying?",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-november-6-crude-oil-nears-100-again-as-fresh-attacks-dent-peace-talk-hopes-what-are-experts-saying/articleshow/135590647.cms",
-      "source": "The Times of India",
-      "domain": "economictimes.indiatimes.com",
-      "published_at": "2026-11-06T02:22:11Z",
       "importance": 50,
       "impact": "positive",
       "timeframe": "short_term",
