@@ -1,8 +1,17 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-12T20:30:37.768073+00:00
+> 更新時間：2026-11-13T03:10:13.633375+00:00
+
+### 🚀 AI server tracker: Taiwan's AI server supply shows no sign of cooling despite industry uncertainty
+- **題材**: `AI伺服器` | **重要性**: `88`
+- **來源**: Digitimes (2026-11-11T01:34:29Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重大事件】可能顯著影響產業評價、EPS預期或資金流向。
+- **摘要**: Combined October revenue at 49 Taiwanese companies in the AI server supply chain rose 63.8% from a year earlier to a record NT$3.22 trillion (approx. US$98.23 billion), according to a compilation of the companies' monthly sales filings, suggesting that orders…
+- [原文連結](https://www.digitimes.com/news/a20261111VL202/ai-server-supply-chain-revenue-sales-taiwan.html)
+
+---
 
 ### 🚀 Hua Hong Grace eyes silicon photonics expansion as AI chip shortages lift pricing power
-- **題材**: `光通訊與矽光子` | **重要性**: `93`
+- **題材**: `光通訊與矽光子` | **重要性**: `88`
 - **來源**: Digitimes (2026-11-06T01:57:16Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重大事件】可能顯著影響產業評價、EPS預期或資金流向。
 - **摘要**: China's second-largest contract chipmaker, Hua Hong Grace Semiconductor, is expanding into silicon photonics and power management chips to capitalise on AI infrastructure demand, following record third-quarter 2026 revenue and a 147.1% surge in profit.
@@ -10,12 +19,12 @@
 
 ---
 
-### 🚀 DDR, LPDDR revenue growth outpaces HBM as DRAM market nears US$200 billion
+### 🚀 Sino-American Silicon Products posts record revenue in first three quarters of 2026 on AI, energy demand
 - **題材**: `HBM記憶體` | **重要性**: `83`
-- **來源**: Digitimes (2026-11-06T02:30:00Z)
+- **來源**: Digitimes (2026-11-09T01:50:38Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Revenue from conventional DDR and LPDDR memory grew faster than that from high-bandwidth memory (HBM) in the third quarter of 2026, as global DRAM revenue surged 369% year over year to nearly US$200 billion, according to Counterpoint Research.
-- [原文連結](https://www.digitimes.com/news/a20261106VL206/revenue-dram-ddr-hbm-market.html)
+- **摘要**: Sino-American Silicon Products (SAS) is focusing on computing power and electricity, as construction of artificial intelligence (AI) data centers accelerates, demand for high-bandwidth memory (HBM) surges, and the global energy transition continues to advance…
+- [原文連結](https://www.digitimes.com/news/a20261107PD200/sas-revenue-demand-2026-electricity.html)
 
 ---
 
@@ -37,6 +46,15 @@
 
 ---
 
+### 🚀 DDR, LPDDR revenue growth outpaces HBM as DRAM market nears US$200 billion
+- **題材**: `HBM記憶體` | **重要性**: `78`
+- **來源**: Digitimes (2026-11-06T02:30:00Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Revenue from conventional DDR and LPDDR memory grew faster than that from high-bandwidth memory (HBM) in the third quarter of 2026, as global DRAM revenue surged 369% year over year to nearly US$200 billion, according to Counterpoint Research.
+- [原文連結](https://www.digitimes.com/news/a20261106VL206/revenue-dram-ddr-hbm-market.html)
+
+---
+
 ### 🚀 Memory price skyrockets as demand for AI data centers drives 369% year-over-year surge
 - **題材**: `HBM記憶體` | **重要性**: `75`
 - **來源**: TechRadar (2026-11-11T20:25:00Z)
@@ -52,15 +70,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: GIS is shifting from touch displays to semiconductor optics, with laser packaging entering small-volume production in the fourth quarter of 2026 and full capacity expected by the second or third quarter of 2027. Chairman Hsien-ying Chou said production lines …
 - [原文連結](https://www.digitimes.com/news/a20261110PD226/gis-optics-laser-packaging-taiwan.html)
-
----
-
-### ⚖️ Intel targets silicon photonics, in-memory computing beyond GPUs
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-11-10T01:21:36Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: As the global semiconductor industry continues to focus on Nvidia, Intel is looking beyond GPUs to determine where next-generation computing architectures will go. In an interview with Japanese publication PC Watch, Intel chief technology officer Pushkar Rana…
-- [原文連結](https://www.digitimes.com/news/a20261109PD207/intel-photonics-silicon-in-memory-computing-technology.html)
 
 ---
 
@@ -91,15 +100,6 @@
 
 ---
 
-### 🚀 Asia Optical posts record Q3 profit, ramps CPO and AI optics push
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-11-05T00:53:32Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Asia Optical Group reported record third-quarter profit for 2026 on November 4, as revenue reached approximately NT$7.846 billion (US$239.4 million), while gross profit, operating profit, and net profit attributable to owners of the company all hit new highs …
-- [原文連結](https://www.digitimes.com/news/a20261104PD246/asia-optical-profit-cpo-2025-2026.html)
-
----
-
 ### ⚖️ Intel looks beyond 18A and 14A to reshape computing
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
 - **來源**: Digitimes (2026-11-10T04:21:43Z)
@@ -109,21 +109,39 @@
 
 ---
 
-### ⚖️ Largan consolidates camera actuator unit as optical business expands into CPO
+### ⚖️ Intel targets silicon photonics, in-memory computing beyond GPUs
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-11-05T10:29:45Z)
+- **來源**: Digitimes (2026-11-10T01:21:36Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Largan Technology reported October revenue of NT$5.846 billion (US$178.1 million) on November 5, down 7.0% year-over-year, while moving to consolidate its camera actuator subsidiary and advance co-packaged optics (CPO) products. Revenue for the first 10 month…
-- [原文連結](https://www.digitimes.com/news/a20261105PD243/revenue-camera-cpo-subsidiary-2027.html)
+- **摘要**: As the global semiconductor industry continues to focus on Nvidia, Intel is looking beyond GPUs to determine where next-generation computing architectures will go. In an interview with Japanese publication PC Watch, Intel chief technology officer Pushkar Rana…
+- [原文連結](https://www.digitimes.com/news/a20261109PD207/intel-photonics-silicon-in-memory-computing-technology.html)
 
 ---
 
-### 🚀 SK Hynix leads HBM4 yield at 60%, expands DRAM supply
+### ⚖️ Hanwha Semitech taps new CEO as chip equipment sales more than double in 3Q26
 - **題材**: `HBM記憶體` | **重要性**: `68`
-- **來源**: Digitimes (2026-11-05T02:45:00Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: SK Hynix's sixth-generation high-bandwidth memory (HBM4) yield has reportedly reached the mid-60% range, the highest in the industry. Analysts say improved yield has lifted production efficiency, allowing the company to expand server DRAM supply even as it co…
-- [原文連結](https://www.digitimes.com/news/a20261105PD211/sk-hynix-hbm4-dram-hbm-capacity.html)
+- **來源**: Digitimes (2026-11-10T01:18:58Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Hanwha Semitech has named chief business officer Kim Jin-woo as its incoming CEO after semiconductor equipment revenue more than doubled in the third quarter of 2026. The South Korean company announced the appointment on November 9 as it moves to expand its h…
+- [原文連結](https://www.digitimes.com/news/a20261109VL232/hanwha-ceo-equipment-sales-business.html)
+
+---
+
+### ⚖️ China's lithography ambitions gain ground as SMEE claims 90% local sourcing in chipmaking tools
+- **題材**: `半導體先進製程` | **重要性**: `68`
+- **來源**: Digitimes (2026-11-09T04:33:05Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Shanghai Micro Electronics Equipment (SMEE) has showcased a new generation of domestically developed lithography systems spanning front-end wafer fabrication and advanced packaging, marking further progress in China's semiconductor equipment localisation. The…
+- [原文連結](https://www.digitimes.com/news/a20261109PD235/smee-lithography-packaging-equipment-2026.html)
+
+---
+
+### ⚖️ Weekly news roundup: AI compute race intensifies as DRAM rivals diverge and chipmakers expand investments
+- **題材**: `半導體先進製程` | **重要性**: `68`
+- **來源**: Digitimes (2026-11-09T01:41:32Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: This week's coverage highlights accelerating competition across AI infrastructure, semiconductor manufacturing and advanced memory. Sweden launched the NVIDIA-based Sferical One supercomputer as leaders urged transformational AI adoption. DRAM makers remain d…
+- [原文連結](https://www.digitimes.com/news/a20261109VL201/2026-competition-dram-cxmt-packaging.html)
 
 ---
 
@@ -145,39 +163,22 @@
 
 ---
 
-### ⚖️ AI boom turns advanced chip packaging into the next battleground
+### 🚀 Wall Street May Be Underestimating This AI Chip Stock’s Next Growth Phase
+- **題材**: `光通訊與矽光子` | **重要性**: `65`
+- **來源**: Biztoc.com (2026-11-10T14:47:50Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: The post Wall Street May Be Underestimating This AI Chip Stock’s Next Growth Phase appeared first on 24/7 Wall St..
+Credo Technology Group (NASDAQ:CRDO) makes the connectivity hardware inside AI data centers: active electrical cables, optical DSPs, silicon ph…
+- [原文連結](https://biztoc.com/x/ebb646237fac2930)
+
+---
+
+### 🚀 New AI chip made using Samsung’s 2nm tech uses just 5 watts of power
 - **題材**: `半導體先進製程` | **重要性**: `65`
-- **來源**: BusinessLine (2026-11-06T06:17:42Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Chipmakers and equipment manufacturers are accelerating investments in new technologies as packaging capacity struggles to keep pace with demand
-- [原文連結](https://www.thehindubusinessline.com/info-tech/ai-boom-turns-advanced-chip-packaging-into-the-next-battleground/article71673081.ece)
-
----
-
-### ⚖️ Innolight starts US NPO pilot production with Tower for AI optical interconnects
-- **題材**: `光通訊與矽光子` | **重要性**: `63`
-- **來源**: Digitimes (2026-11-06T01:55:23Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: China-based optical communications provider Innolight has advanced its next-generation AI optical interconnect strategy. Tower Semiconductor and Innolight said their first jointly developed near-package optics (NPO) product, built using Tower's PH18M silicon …
-- [原文連結](https://www.digitimes.com/news/a20261106PD202/production-communications-data-packaging-development.html)
-
----
-
-### ⚖️ Commentary: AOI locks in China's InP substrates for AI optics, but export controls threaten supply
-- **題材**: `光通訊與矽光子` | **重要性**: `63`
-- **來源**: Digitimes (2026-11-05T03:35:25Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: AI data centers are accelerating demand for high-speed optical communications, extending competition in the optical transceiver market beyond chips and module manufacturing to critical upstream materials. Indium phosphide (InP), a key substrate for high-speed…
-- [原文連結](https://www.digitimes.com/news/a20261105PD220/aoi-inp-substrate-optical-communications-demand.html)
-
----
-
-### ⚖️ Samsung reportedly plans 2nm fab to boost HBM base-die output
-- **題材**: `半導體先進製程` | **重要性**: `63`
-- **來源**: Digitimes (2026-11-05T02:55:00Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Samsung Electronics is preparing to build a 2nm- and 4nm-class foundry fab at its Giheung campus in Yongin, South Korea, to expand production of logic base dies used in high-bandwidth memory (HBM). The fab is estimated to cost KRW25 trillion (approx. US$18.6 …
-- [原文連結](https://www.digitimes.com/news/a20261105VL216/samsung-fab-hbm-2nm-production.html)
+- **來源**: SamMobile (2026-11-10T07:57:10Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: After facing several setbacks in contract chip manufacturing business over the past few years, Samsung's foundry division is getting back on its feet. Beyond improving its technology, the company is winning new clients. In the latest win, a new on-device AI i…
+- [原文連結](https://www.sammobile.com/news/deepx-ai-chip-use-samsung-2nm-tech-uses-5-watts-power/)
 
 ---
 
