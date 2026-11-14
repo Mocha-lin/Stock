@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-14T02:55:13.739724+00:00
+> 更新時間：2026-11-14T07:12:49.948272+00:00
 
 ### 🚀 Sino-American Silicon Products posts record revenue in first three quarters of 2026 on AI, energy demand
 - **題材**: `HBM記憶體` | **重要性**: `83`
@@ -127,6 +127,15 @@
 
 ---
 
+### ⚠️ Oil Prices Fall as Optimism Over Conflict Resolution Builds
+- **題材**: `總體風險` | **重要性**: `65`
+- **來源**: Naturalnews.com (2026-11-13T06:00:00Z)
+- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Crude oil prices extended their decline on Tuesday, Nov. 10, 2026, as traders reacted to diplomatic signals suggesting progress toward ending the U.S.-Iran conflict, according to exchange data and market analysts. The pullback reversed part of a risk premium …
+- [原文連結](https://www.naturalnews.com/2026-11-13-oil-cost-falls-optimism-conflict-resolution-builds.html)
+
+---
+
 ### ⚠️ The company that makes your RAM says 2027 will be the worst shortage in history
 - **題材**: `HBM記憶體` | **重要性**: `65`
 - **來源**: MakeUseOf (2026-11-12T18:30:17Z)
@@ -169,15 +178,6 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Upgrading laptop RAM was an easy upgrade, but RAMaggedon means you'll struggle to make that work.
 - [原文連結](https://www.makeuseof.com/upgrading-laptop-ram-later-stopped-saving-money/)
-
----
-
-### ⚖️ Intel looks beyond 18A and 14A to reshape computing
-- **題材**: `光通訊與矽光子` | **重要性**: `63`
-- **來源**: Digitimes (2026-11-10T04:21:43Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Intel has fallen noticeably behind rivals including Nvidia and AMD in the generative AI boom. Rather than concentrating all its resources on catching current market leaders, the company is pursuing quantum computing, neuromorphic computing, silicon photonics,…
-- [原文連結](https://www.digitimes.com/news/a20261110PD225/intel-quantum-computing-chips-technology.html)
 
 ---
 
