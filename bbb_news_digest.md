@@ -1,14 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-13T20:07:21.354947+00:00
-
-### 🚀 Hua Hong Grace eyes silicon photonics expansion as AI chip shortages lift pricing power
-- **題材**: `光通訊與矽光子` | **重要性**: `88`
-- **來源**: Digitimes (2026-11-06T01:57:16Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重大事件】可能顯著影響產業評價、EPS預期或資金流向。
-- **摘要**: China's second-largest contract chipmaker, Hua Hong Grace Semiconductor, is expanding into silicon photonics and power management chips to capitalise on AI infrastructure demand, following record third-quarter 2026 revenue and a 147.1% surge in profit.
-- [原文連結](https://www.digitimes.com/news/a20261106VL204/photonics-silicon-expansion-revenue-demand.html)
-
----
+> 更新時間：2026-11-14T02:55:13.739724+00:00
 
 ### 🚀 Sino-American Silicon Products posts record revenue in first three quarters of 2026 on AI, energy demand
 - **題材**: `HBM記憶體` | **重要性**: `83`
@@ -19,12 +10,12 @@
 
 ---
 
-### 🚀 DDR, LPDDR revenue growth outpaces HBM as DRAM market nears US$200 billion
-- **題材**: `HBM記憶體` | **重要性**: `78`
-- **來源**: Digitimes (2026-11-06T02:30:00Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Revenue from conventional DDR and LPDDR memory grew faster than that from high-bandwidth memory (HBM) in the third quarter of 2026, as global DRAM revenue surged 369% year over year to nearly US$200 billion, according to Counterpoint Research.
-- [原文連結](https://www.digitimes.com/news/a20261106VL206/revenue-dram-ddr-hbm-market.html)
+### 🚀 Taiwanese engineering company Yankey holds NT$57.1 billion orders, Kumamoto wafer fab project to boost 2027 revenue
+- **題材**: `半導體先進製程` | **重要性**: `78`
+- **來源**: Digitimes (2026-11-10T01:21:41Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Yankey Engineering’s order backlog reached a record NT$57.1 billion (US$1.74 billion) as of the end of September, with its subcontracting project for the second wafer fab in Kumamoto, Japan, expected to contribute revenue from 2027. The company said strong gl…
+- [原文連結](https://www.digitimes.com/news/a20261109PD208/revenue-2027-kumamoto-wafer-fab.html)
 
 ---
 
@@ -91,6 +82,15 @@
 
 ---
 
+### ⚖️ Hanwha Semitech taps new CEO as chip equipment sales more than double in 3Q26
+- **題材**: `HBM記憶體` | **重要性**: `68`
+- **來源**: Digitimes (2026-11-10T01:18:58Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Hanwha Semitech has named chief business officer Kim Jin-woo as its incoming CEO after semiconductor equipment revenue more than doubled in the third quarter of 2026. The South Korean company announced the appointment on November 9 as it moves to expand its h…
+- [原文連結](https://www.digitimes.com/news/a20261109VL232/hanwha-ceo-equipment-sales-business.html)
+
+---
+
 ### ⚖️ China's lithography ambitions gain ground as SMEE claims 90% local sourcing in chipmaking tools
 - **題材**: `半導體先進製程` | **重要性**: `68`
 - **來源**: Digitimes (2026-11-09T04:33:05Z)
@@ -109,12 +109,12 @@
 
 ---
 
-### 🚀 China's NSIG sees silicon wafer prices rebound, but profitability remains elusive
-- **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-11-06T03:59:06Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: National Silicon Industry Group (NSIG) expects to complete its expansion to 1.2 million 300mm silicon wafers per month by the end of 2026, positioning the Chinese semiconductor materials supplier to benefit from recovering wafer prices and growing demand for …
-- [原文連結](https://www.digitimes.com/news/a20261106VL208/nsig-silicon-wafer-300mm-expansion.html)
+### ⚠️ Global AI memory crunch drives Taiwan to launch advanced memory initiative
+- **題材**: `HBM記憶體` | **重要性**: `68`
+- **來源**: Digitimes (2026-11-07T12:42:00Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: The boom in AI demand has triggered a global memory crunch, creating persistent supply shortages and price hikes. The market is currently dominated by Samsung Electronics, SK Hynix, and Micron Technology. While China's ChangXin Memory Technologies (CXMT) has …
+- [原文連結](https://www.digitimes.com/news/a20261106PD231/memory-chips-demand-taiwan-government-2027.html)
 
 ---
 

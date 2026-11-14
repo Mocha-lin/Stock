@@ -1,48 +1,10 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-11-13T20:07:21.354947+00:00",
+  "generated_at": "2026-11-14T02:55:13.739724+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
-  "total_count": 71,
+  "total_count": 72,
   "items": [
-    {
-      "id": "a7e27c2b9a78a0a9",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "Hua Hong Grace eyes silicon photonics expansion as AI chip shortages lift pricing power",
-      "summary": "China's second-largest contract chipmaker, Hua Hong Grace Semiconductor, is expanding into silicon photonics and power management chips to capitalise on AI infrastructure demand, following record third-quarter 2026 revenue and a 147.1% surge in profit.",
-      "original_title": "Hua Hong Grace eyes silicon photonics expansion as AI chip shortages lift pricing power",
-      "url": "https://www.digitimes.com/news/a20261106VL204/photonics-silicon-expansion-revenue-demand.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-11-06T01:57:16Z",
-      "importance": 88,
-      "impact": "positive",
-      "timeframe": "short_to_mid_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之偏多消息。【重大事件】可能顯著影響產業評價、EPS預期或資金流向。"
-    },
     {
       "id": "5078a9ffd605fd79",
       "dataset": "market_news",
@@ -79,29 +41,32 @@
       "reason": "屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
-      "id": "a7dafc06f23dc488",
+      "id": "e99a160c45044a14",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "DDR, LPDDR revenue growth outpaces HBM as DRAM market nears US$200 billion",
-      "summary": "Revenue from conventional DDR and LPDDR memory grew faster than that from high-bandwidth memory (HBM) in the third quarter of 2026, as global DRAM revenue surged 369% year over year to nearly US$200 billion, according to Counterpoint Research.",
-      "original_title": "DDR, LPDDR revenue growth outpaces HBM as DRAM market nears US$200 billion",
-      "url": "https://www.digitimes.com/news/a20261106VL206/revenue-dram-ddr-hbm-market.html",
+      "theme": "半導體先進製程",
+      "title": "Taiwanese engineering company Yankey holds NT$57.1 billion orders, Kumamoto wafer fab project to boost 2027 revenue",
+      "summary": "Yankey Engineering’s order backlog reached a record NT$57.1 billion (US$1.74 billion) as of the end of September, with its subcontracting project for the second wafer fab in Kumamoto, Japan, expected to contribute revenue from 2027. The company said strong gl…",
+      "original_title": "Taiwanese engineering company Yankey holds NT$57.1 billion orders, Kumamoto wafer fab project to boost 2027 revenue",
+      "url": "https://www.digitimes.com/news/a20261109PD208/revenue-2027-kumamoto-wafer-fab.html",
       "source": "Digitimes",
       "domain": "digitimes.com",
-      "published_at": "2026-11-06T02:30:00Z",
+      "published_at": "2026-11-10T01:21:41Z",
       "importance": 78,
       "impact": "positive",
       "timeframe": "short_to_mid_term",
       "tags": [
-        "HBM",
-        "記憶體"
+        "半導體",
+        "CoWoS",
+        "先進製程"
       ],
       "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
       ],
       "related_models": [
         "003",
@@ -111,7 +76,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+      "reason": "屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "17c8a35616447d5a",
@@ -374,6 +339,41 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "2ecb71176afdf9c4",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "Hanwha Semitech taps new CEO as chip equipment sales more than double in 3Q26",
+      "summary": "Hanwha Semitech has named chief business officer Kim Jin-woo as its incoming CEO after semiconductor equipment revenue more than doubled in the third quarter of 2026. The South Korean company announced the appointment on November 9 as it moves to expand its h…",
+      "original_title": "Hanwha Semitech taps new CEO as chip equipment sales more than double in 3Q26",
+      "url": "https://www.digitimes.com/news/a20261109VL232/hanwha-ceo-equipment-sales-business.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-11-10T01:18:58Z",
+      "importance": 68,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "8d3ac7b10f433ce1",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -450,32 +450,29 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "fbd5158fcfaedd83",
+      "id": "1e285542ae0ed8e8",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "China's NSIG sees silicon wafer prices rebound, but profitability remains elusive",
-      "summary": "National Silicon Industry Group (NSIG) expects to complete its expansion to 1.2 million 300mm silicon wafers per month by the end of 2026, positioning the Chinese semiconductor materials supplier to benefit from recovering wafer prices and growing demand for …",
-      "original_title": "China's NSIG sees silicon wafer prices rebound, but profitability remains elusive",
-      "url": "https://www.digitimes.com/news/a20261106VL208/nsig-silicon-wafer-300mm-expansion.html",
+      "theme": "HBM記憶體",
+      "title": "Global AI memory crunch drives Taiwan to launch advanced memory initiative",
+      "summary": "The boom in AI demand has triggered a global memory crunch, creating persistent supply shortages and price hikes. The market is currently dominated by Samsung Electronics, SK Hynix, and Micron Technology. While China's ChangXin Memory Technologies (CXMT) has …",
+      "original_title": "Global AI memory crunch drives Taiwan to launch advanced memory initiative",
+      "url": "https://www.digitimes.com/news/a20261106PD231/memory-chips-demand-taiwan-government-2027.html",
       "source": "Digitimes",
       "domain": "digitimes.com",
-      "published_at": "2026-11-06T03:59:06Z",
+      "published_at": "2026-11-07T12:42:00Z",
       "importance": 68,
-      "impact": "positive",
+      "impact": "negative",
       "timeframe": "short_term",
       "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
+        "HBM",
+        "記憶體"
       ],
       "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
       ],
       "related_models": [
         "003",
@@ -485,7 +482,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "99f3340f36610258",
@@ -748,6 +745,41 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "07f526c3eade89f4",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "Samsung, SK Hynix, Micron forge rare alliance to pave way for unmanned chip fabs",
+      "summary": "Samsung Electronics, SK Hynix and Micron are reportedly collaborating on charging standards for mobile robots used in semiconductor fabs, seeking to accelerate factory automation and lay the groundwork for unmanned manufacturing. The initiative is unusual as …",
+      "original_title": "Samsung, SK Hynix, Micron forge rare alliance to pave way for unmanned chip fabs",
+      "url": "https://www.digitimes.com/news/a20261109PD252/sk-hynix-samsung-micron-ic-manufacturing-robot.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-11-09T06:51:32Z",
+      "importance": 63,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "9de5b464dd893da0",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -822,6 +854,44 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "8d3d1336fa7b18d3",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Nvidia board reportedly preparing to oust embattled CEO amid new affair allegations",
+      "summary": "Nvidia (NVDA) stock tanked in premarket trading following a report from The New York Times that embattled Nvidia (NVDA) CEO Jensen Huang was allegedly involved in a second extramarital affair. The company's board was reportedly meeting on Wednesday night to d…",
+      "original_title": "Nvidia board reportedly preparing to oust embattled CEO amid new affair allegations",
+      "url": "https://finance.yahoo.com/technology/live/nvidia-live-updates-stock-tanks-after-new-affair-allegations-board-reportedly-preparing-to-oust-jensen-huang-130056785.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-11-12T13:00:56Z",
+      "importance": 60,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "fb4a89cef25a799c",
@@ -938,44 +1008,6 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "1333efaa964e6fa3",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "Epigenetic heterogeneity in breast tumours informs diagnosis and prognosis",
-      "summary": "Single-cell epigenetic analyses reveal a conserved epigenetic signature across patients that may help identify those at increased risk for disease relapse in breast cancer.",
-      "original_title": "Epigenetic heterogeneity in breast tumours informs diagnosis and prognosis",
-      "url": "https://www.nature.com/articles/s41586-026-11230-y",
-      "source": "Nature.com",
-      "domain": "nature.com",
-      "published_at": "2026-11-11T00:00:00Z",
-      "importance": 60,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "04a4240475611729",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1090,82 +1122,6 @@
       "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "3c40cfeedf5e282c",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "AI boom turns advanced chip packaging into the next battleground",
-      "summary": "Chipmakers and equipment manufacturers are accelerating investments in new technologies as packaging capacity struggles to keep pace with demand",
-      "original_title": "AI boom turns advanced chip packaging into the next battleground",
-      "url": "https://www.thehindubusinessline.com/info-tech/ai-boom-turns-advanced-chip-packaging-into-the-next-battleground/article71673081.ece",
-      "source": "BusinessLine",
-      "domain": "thehindubusinessline.com",
-      "published_at": "2026-11-06T06:17:42Z",
-      "importance": 60,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "25c266fc40f80040",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "Innolight starts US NPO pilot production with Tower for AI optical interconnects",
-      "summary": "China-based optical communications provider Innolight has advanced its next-generation AI optical interconnect strategy. Tower Semiconductor and Innolight said their first jointly developed near-package optics (NPO) product, built using Tower's PH18M silicon …",
-      "original_title": "Innolight starts US NPO pilot production with Tower for AI optical interconnects",
-      "url": "https://www.digitimes.com/news/a20261106PD202/production-communications-data-packaging-development.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-11-06T01:55:23Z",
-      "importance": 58,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "434b2de25795145c",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1202,6 +1158,44 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "f2c5679e3ab5ceae",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "BSc High Protein Powder Vanilla 800g $39.95 ($35.95 Sub & Save) + Delivery ($0 with Prime/$59 Spend) @ Amazon AU",
+      "summary": "Features: HASTA tested for purity and safety 5 x Digestive Enzymes to aid in a healthy gut Fast and Slow protein blend Ideal protein blend to improve muscle repair and build …",
+      "original_title": "BSc High Protein Powder Vanilla 800g $39.95 ($35.95 Sub & Save) + Delivery ($0 with Prime/$59 Spend) @ Amazon AU",
+      "url": "https://www.ozbargain.com.au/node/982912",
+      "source": "Ozbargain.com.au",
+      "domain": "ozbargain.com.au",
+      "published_at": "2026-11-13T01:17:23Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "9b967a39cceba6c6",
@@ -1280,6 +1274,44 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "e3d20f741f559057",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "I run a small local model on my laptop's integrated graphics, so my dedicated GPU stays free for other work",
+      "summary": "The RTX mobile GPU has its hands full",
+      "original_title": "I run a small local model on my laptop's integrated graphics, so my dedicated GPU stays free for other work",
+      "url": "https://www.xda-developers.com/i-run-a-small-local-model-on-my-laptops-integrated-graphics-my-dedicated-gpu-stays-free-for-other-work/",
+      "source": "XDA Developers",
+      "domain": "xda-developers.com",
+      "published_at": "2026-11-12T12:30:21Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "fd4d07d9515ca161",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1329,6 +1361,44 @@
       "source": "Al Jazeera English",
       "domain": "aljazeera.com",
       "published_at": "2026-11-11T20:45:30Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "2c53f8abe73f0f61",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "PS5 Sales Just Won’t Quit",
+      "summary": "Sony's current console just crossed the 100 million mark",
+      "original_title": "PS5 Sales Just Won’t Quit",
+      "url": "https://kotaku.com/ps5-sales-just-wont-quit-2000755917",
+      "source": "Kotaku",
+      "domain": "kotaku.com",
+      "published_at": "2026-11-11T17:00:36Z",
       "importance": 55,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -1467,32 +1537,32 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "d801a4e64eddc794",
+      "id": "1333efaa964e6fa3",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Apple's Claris Testing 'Harbor' App for Local AI on Macs",
-      "summary": "Apple's Claris subsidiary is testing an app called Harbor, which turns Apple silicon Macs into a private AI server.\n\n\n\n\n\nHarbor works with a single Apple silicon Mac, but it also supports connecting multiple Mac computers over Thunderbolt 5 to pool unified me…",
-      "original_title": "Apple's Claris Testing 'Harbor' App for Local AI on Macs",
-      "url": "https://www.macrumors.com/2026/11/10/apple-claris-harbor-app/",
-      "source": "MacRumors",
-      "domain": "macrumors.com",
-      "published_at": "2026-11-10T23:34:51Z",
+      "theme": "光通訊與矽光子",
+      "title": "Epigenetic heterogeneity in breast tumours informs diagnosis and prognosis",
+      "summary": "Single-cell epigenetic analyses reveal a conserved epigenetic signature across patients that may help identify those at increased risk for disease relapse in breast cancer.",
+      "original_title": "Epigenetic heterogeneity in breast tumours informs diagnosis and prognosis",
+      "url": "https://www.nature.com/articles/s41586-026-11230-y",
+      "source": "Nature.com",
+      "domain": "nature.com",
+      "published_at": "2026-11-11T00:00:00Z",
       "importance": 55,
-      "impact": "neutral",
+      "impact": "negative",
       "timeframe": "short_term",
       "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
+        "光通訊",
+        "CPO",
+        "矽光子"
       ],
       "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
       ],
       "related_models": [
         "003",
@@ -1502,45 +1572,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "9d6f723b9a7fa0cc",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Bailee Madison To Lead Indie Film ‘In The Blue’; Adam Goldberg, Nat Faxon & Veronica Falcón Also Among 8 Cast",
-      "summary": "EXCLUSIVE: Bailee Madison (Pretty Little Liars: Original Sin) has been cast as the lead in In the Blue, the darkly comic thriller from writer-director duo Delilah Napier and Lucy Powers. Uri Singer’s Passage Pictures is producing. Rounding out the cast are Ma…",
-      "original_title": "Bailee Madison To Lead Indie Film ‘In The Blue’; Adam Goldberg, Nat Faxon & Veronica Falcón Also Among 8 Cast",
-      "url": "http://deadline.com/2026/11/bailee-madison-cast-in-the-blue-film-1237218964/",
-      "source": "Deadline",
-      "domain": "deadline.com",
-      "published_at": "2026-11-10T21:21:10Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「光通訊與矽光子」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "05a7bb1eba6e67d1",
@@ -1809,29 +1841,32 @@
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "a515cd7a4bfec8ca",
+      "id": "0101371ef309791a",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "OpenAI CEO Sam Altman chats up Samsung to try and secure more RAM — as concerns grow over AI capacity",
-      "summary": "Days after calling the RAM in your PC \"quite terrible,\" Sam Altman spent Saturday with Samsung's chip chief, but no deal has been reported yet.",
-      "original_title": "OpenAI CEO Sam Altman chats up Samsung to try and secure more RAM — as concerns grow over AI capacity",
-      "url": "https://www.techradar.com/pro/openai-ceo-sam-altman-chats-up-samsung-to-try-and-secure-more-ram-as-concerns-grow-over-ai-capacity",
-      "source": "TechRadar",
-      "domain": "techradar.com",
-      "published_at": "2026-11-06T23:05:00Z",
+      "theme": "總體風險",
+      "title": "Abdul El-Sayed slams Trump’s tariff war with Canada",
+      "summary": "Michigan Senator-elect Abdul El-Sayed has criticised Trump’s trade war with Canada.",
+      "original_title": "Abdul El-Sayed slams Trump’s tariff war with Canada",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/abdul-el-sayed-slams-trumps-tariff-war-with-canada",
+      "source": "Al Jazeera English",
+      "domain": "aljazeera.com",
+      "published_at": "2026-11-07T20:44:34Z",
       "importance": 55,
-      "impact": "neutral",
+      "impact": "negative",
       "timeframe": "short_term",
       "tags": [
-        "HBM",
-        "記憶體"
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
       ],
       "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
       ],
       "related_models": [
         "003",
@@ -1841,7 +1876,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "090be3fc955876c6",
@@ -1880,6 +1915,158 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "d801a4e64eddc794",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Apple's Claris Testing 'Harbor' App for Local AI on Macs",
+      "summary": "Apple's Claris subsidiary is testing an app called Harbor, which turns Apple silicon Macs into a private AI server.\n\n\n\n\n\nHarbor works with a single Apple silicon Mac, but it also supports connecting multiple Mac computers over Thunderbolt 5 to pool unified me…",
+      "original_title": "Apple's Claris Testing 'Harbor' App for Local AI on Macs",
+      "url": "https://www.macrumors.com/2026/11/10/apple-claris-harbor-app/",
+      "source": "MacRumors",
+      "domain": "macrumors.com",
+      "published_at": "2026-11-10T23:34:51Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "9d6f723b9a7fa0cc",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Bailee Madison To Lead Indie Film ‘In The Blue’; Adam Goldberg, Nat Faxon & Veronica Falcón Also Among 8 Cast",
+      "summary": "EXCLUSIVE: Bailee Madison (Pretty Little Liars: Original Sin) has been cast as the lead in In the Blue, the darkly comic thriller from writer-director duo Delilah Napier and Lucy Powers. Uri Singer’s Passage Pictures is producing. Rounding out the cast are Ma…",
+      "original_title": "Bailee Madison To Lead Indie Film ‘In The Blue’; Adam Goldberg, Nat Faxon & Veronica Falcón Also Among 8 Cast",
+      "url": "http://deadline.com/2026/11/bailee-madison-cast-in-the-blue-film-1237218964/",
+      "source": "Deadline",
+      "domain": "deadline.com",
+      "published_at": "2026-11-10T21:21:10Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "34135980c5ddfcec",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "Microsoft presses Trump to scuttle expected ban on Chinese data centre technology",
+      "summary": "Optical transceivers targeted.",
+      "original_title": "Microsoft presses Trump to scuttle expected ban on Chinese data centre technology",
+      "url": "https://www.itnews.com.au/news/microsoft-presses-trump-to-scuttle-expected-ban-on-chinese-data-centre-technology-630259?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
+      "source": "iTnews",
+      "domain": "itnews.com.au",
+      "published_at": "2026-11-10T18:51:14Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "b541f2fa760db7a1",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "Here's How Much It Would Cost To Buy A Fitbit In 2009 Vs. 2026",
+      "summary": "A modern Fitbit might cost more than the original, but it also does a lot more. Factor in inflation, and the price gap starts to get even smaller.",
+      "original_title": "Here's How Much It Would Cost To Buy A Fitbit In 2009 Vs. 2026",
+      "url": "https://www.bgr.com/2308210/how-much-would-it-cost-buy-fitbit-2009-vs-2026/",
+      "source": "BGR",
+      "domain": "bgr.com",
+      "published_at": "2026-11-10T16:17:00Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "5c3c97d472dc3967",
@@ -2221,6 +2408,44 @@
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "c858f1f43053ff7d",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "The AI Chip Boom Has a Hidden Beneficiary. Here’s Where Its Stock Could Be by 2030",
+      "summary": "The post The AI Chip Boom Has a Hidden Beneficiary. Here’s Where Its Stock Could Be by 2030 appeared first on 24/7 Wall St..\nCredo (NASDAQ:CRDO) makes the connections that let AI chips talk to each other. Its active electrical cables, optical DSPs and silicon…",
+      "original_title": "The AI Chip Boom Has a Hidden Beneficiary. Here’s Where Its Stock Could Be by 2030",
+      "url": "https://biztoc.com/x/2545c57505853089",
+      "source": "Biztoc.com",
+      "domain": "biztoc.com",
+      "published_at": "2026-11-09T15:09:22Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "a1c187b10385c2c2",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2476,196 +2701,6 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "1d8f3764c56c7526",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "U.S. added 165,000 jobs in October as 'blowout' report trounces expectations",
-      "summary": "The US added 165,000 jobs in October, blowing past economists' expectations as the labor market showed strength despite the Federal Reserve's recent rate hikes. The unemployment rate ticked down to 4.1% even amid a slight increase in labor force participation…",
-      "original_title": "U.S. added 165,000 jobs in October as 'blowout' report trounces expectations",
-      "url": "https://finance.yahoo.com/economy/article/a-blowout-us-added-165000-jobs-in-october-trouncing-expectations-135651705.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-11-06T14:41:19Z",
-      "importance": 50,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "87c347901eec2934",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Have astronomers spotted Planet Nine?",
-      "summary": "Archived observations appear to show a moving object in the far-distant outer solar system, but its reality is unclear",
-      "original_title": "Have astronomers spotted Planet Nine?",
-      "url": "https://www.scientificamerican.com/article/have-astronomers-spotted-planet-nine/",
-      "source": "Scientific American",
-      "domain": "scientificamerican.com",
-      "published_at": "2026-11-06T11:45:00Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "79b0f2434add4f8d",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "'I've taken an extra job to pay for heating oil'",
-      "summary": "People in Sussex say they are taking on extra work and not heating their homes due to oil prices.",
-      "original_title": "'I've taken an extra job to pay for heating oil'",
-      "url": "https://www.bbc.co.uk/news/articles/cmj47j7e92gvo",
-      "source": "BBC News",
-      "domain": "bbc.co.uk",
-      "published_at": "2026-11-06T06:06:00Z",
-      "importance": 50,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "aecdb8273bfef3a6",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "GPU-Accelerated Weight Teleportation",
-      "summary": "Lossless GPU Compression for Instant RL Weight Sync",
-      "original_title": "GPU-Accelerated Weight Teleportation",
-      "url": "https://humansand.ai/blog/gpu-accelerated-weight-teleportation",
-      "source": "Humansand.ai",
-      "domain": "humansand.ai",
-      "published_at": "2026-11-06T16:49:00Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "2b4faa876d26dbad",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "Jobs report to provide latest snapshot of hiring days after midterms",
-      "summary": "The jobs report is the first major economic data release since the midterms.",
-      "original_title": "Jobs report to provide latest snapshot of hiring days after midterms",
-      "url": "https://abcnews.com/Business/jobs-report-provide-latest-snapshot-hiring-days-after/story?id=137874249",
-      "source": "Abcnews.com",
-      "domain": "abcnews.com",
-      "published_at": "2026-11-06T12:45:37Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     }
   ]
 }
