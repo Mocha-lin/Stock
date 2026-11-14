@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-14T15:35:35.876108+00:00
+> 更新時間：2026-11-14T18:32:57.602393+00:00
 
 ### 🚀 Sino-American Silicon Products posts record revenue in first three quarters of 2026 on AI, energy demand
 - **題材**: `HBM記憶體` | **重要性**: `83`
@@ -101,15 +101,6 @@ The post TSMC signs seven-year deal with Xintec to expand CoWoS packaging appear
 
 ---
 
-### ⚠️ Oil Prices Fall as Optimism Over Conflict Resolution Builds
-- **題材**: `總體風險` | **重要性**: `65`
-- **來源**: Naturalnews.com (2026-11-13T06:00:00Z)
-- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Crude oil prices extended their decline on Tuesday, Nov. 10, 2026, as traders reacted to diplomatic signals suggesting progress toward ending the U.S.-Iran conflict, according to exchange data and market analysts. The pullback reversed part of a risk premium …
-- [原文連結](https://www.naturalnews.com/2026-11-13-oil-cost-falls-optimism-conflict-resolution-builds.html)
-
----
-
 ### ⚠️ The company that makes your RAM says 2027 will be the worst shortage in history
 - **題材**: `HBM記憶體` | **重要性**: `65`
 - **來源**: MakeUseOf (2026-11-12T18:30:17Z)
@@ -179,6 +170,15 @@ The post TSMC signs seven-year deal with Xintec to expand CoWoS packaging appear
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: SpaceX is reportedly developing a 'Kessel' rack-scale system design with 72 Nvidia Rubin GPUs that relies on a massive 84-layer PCB midplane.
 - [原文連結](https://www.tomshardware.com/tech-industry/artificial-intelligence/spacex-develops-its-own-kessel-rack-scale-system-featuring-72-nvidia-rubin-gpus-for-data-centers-in-space-report-claims-replaces-conventional-nvlink-cable-assemblies-with-a-massive-84-layer-printed-circuit-board)
+
+---
+
+### 🚀 Scott Colom Pushes Back on Schumer After Historic Mississippi Win
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: The New Republic (2026-11-13T16:41:33Z)
+- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Newly elected Democratic Senator Scott Colom is pushing back after Senator Chuck Schumer took credit for his win, refusing to commit to backing him for Senate majority leader next year.Colom told MS NOW’s Symone Sanders-Townsend Thursday that he spoke to Schu…
+- [原文連結](https://newrepublic.com/post/217987/scott-colom-pushes-back-schumer-recruit-mississippi-senate-win)
 
 ---
 
