@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-14T18:32:57.602393+00:00
+> 更新時間：2026-11-14T22:46:38.886013+00:00
 
 ### 🚀 Sino-American Silicon Products posts record revenue in first three quarters of 2026 on AI, energy demand
 - **題材**: `HBM記憶體` | **重要性**: `83`
@@ -7,15 +7,6 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Sino-American Silicon Products (SAS) is focusing on computing power and electricity, as construction of artificial intelligence (AI) data centers accelerates, demand for high-bandwidth memory (HBM) surges, and the global energy transition continues to advance…
 - [原文連結](https://www.digitimes.com/news/a20261107PD200/sas-revenue-demand-2026-electricity.html)
-
----
-
-### 🚀 Memory price skyrockets as demand for AI data centers drives 369% year-over-year surge
-- **題材**: `HBM記憶體` | **重要性**: `75`
-- **來源**: TechRadar (2026-11-11T20:25:00Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Memory makers aren't selling much more; they're charging much more.
-- [原文連結](https://www.techradar.com/pro/memory-price-skyrockets-as-demand-for-ai-data-centers-drives-369-percent-year-over-year-surge)
 
 ---
 
@@ -61,6 +52,15 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Did Nvidia over order wafers and is now holding the bag? According to a new WSJ report the company has exposed itself to financial risk due to over orders of prepaid wafers from TSMC.
 - [原文連結](https://respawnfirst.com/before-resigning-jensen-huang-admitted-he-was-facing-an-avalanche-of-excess-wafers-and-memory-new-report-sheds-more-light-on-the-gpu-ram-crisis/)
+
+---
+
+### 🚀 Memory price skyrockets as demand for AI data centers drives 369% year-over-year surge
+- **題材**: `HBM記憶體` | **重要性**: `70`
+- **來源**: TechRadar (2026-11-11T20:25:00Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Memory makers aren't selling much more; they're charging much more.
+- [原文連結](https://www.techradar.com/pro/memory-price-skyrockets-as-demand-for-ai-data-centers-drives-369-percent-year-over-year-surge)
 
 ---
 
@@ -173,12 +173,12 @@ The post TSMC signs seven-year deal with Xintec to expand CoWoS packaging appear
 
 ---
 
-### 🚀 Scott Colom Pushes Back on Schumer After Historic Mississippi Win
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: The New Republic (2026-11-13T16:41:33Z)
-- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Newly elected Democratic Senator Scott Colom is pushing back after Senator Chuck Schumer took credit for his win, refusing to commit to backing him for Senate majority leader next year.Colom told MS NOW’s Symone Sanders-Townsend Thursday that he spoke to Schu…
-- [原文連結](https://newrepublic.com/post/217987/scott-colom-pushes-back-schumer-recruit-mississippi-senate-win)
+### ⚖️ Chinese AI labs are training models on Nvidia's Blackwell despite export controls, says ex-OpenAI engineer
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: Theregister.com (2026-11-13T21:16:22Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Forensic report finds Blackwell's fingerprint in DeepSeek, Moonshot AI, MiniMax and Ant Group models
+- [原文連結](https://www.theregister.com/ai-and-ml/2026/11/13/chinese-ai-labs-are-training-models-on-nvidias-blackwell-despite-export-controls-says-ex-openai-engineer/5309891)
 
 ---
 
