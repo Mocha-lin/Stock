@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-15T16:05:34.944601+00:00
+> 更新時間：2026-11-15T19:09:37.967283+00:00
 
 ### 🚀 Sino-American Silicon Products posts record revenue in first three quarters of 2026 on AI, energy demand
 - **題材**: `HBM記憶體` | **重要性**: `83`
@@ -110,24 +110,6 @@ The post GlobalFoundries posts record gross margin as optical networking takes c
 
 ---
 
-### ⚠️ The company that makes your RAM says 2027 will be the worst shortage in history
-- **題材**: `HBM記憶體` | **重要性**: `65`
-- **來源**: MakeUseOf (2026-11-12T18:30:17Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: TeamGroup's CEO warns that we're reaching a point where "money can't even buy goods."
-- [原文連結](https://www.makeuseof.com/2027-will-be-worst-ram-shortage-in-history/)
-
----
-
-### ⚠️ Mexico's president rebuts Trump's migrant caravan claims as he threatens new tariffs
-- **題材**: `總體風險` | **重要性**: `65`
-- **來源**: Yahoo Entertainment (2026-11-12T16:05:49Z)
-- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: MEXICO CITY (AP) — Mexican President Claudia Sheinbaum said Thursday that no migrant caravans have reached the U.S. border since U.S. President Donald Trump returned to office in 2025, responding to his threat to double tariffs on Mexican goods unless Mexico …
-- [原文連結](https://www.yahoo.com/news/us/articles/sheinbaum-rebuts-trump-says-no-160549220.html)
-
----
-
 ### ⚠️ Jensen Huang and the decline of the visionary showman founder CEO
 - **題材**: `AI伺服器` | **重要性**: `63`
 - **來源**: The Verge (2026-11-14T01:34:37Z)
@@ -164,6 +146,15 @@ The post GlobalFoundries posts record gross margin as optical networking takes c
 
 ---
 
+### ⚖️ How Much Does It Cost To Build A Data Center?
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: BGR (2026-11-14T16:17:00Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: With AI data centers sprouting up everywhere, they seem inexpensive, but when you have to buy the land, build the structure, and add the servers, it's costly.
+- [原文連結](https://www.bgr.com/2312606/how-much-it-cost-build-data-center/)
+
+---
+
 ### ⚖️ Chinese AI labs are training models on Nvidia's Blackwell despite export controls, says ex-OpenAI engineer
 - **題材**: `AI伺服器` | **重要性**: `60`
 - **來源**: Theregister.com (2026-11-13T21:16:22Z)
@@ -179,6 +170,15 @@ The post GlobalFoundries posts record gross margin as optical networking takes c
 - **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Newly elected Democratic Senator Scott Colom is pushing back after Senator Chuck Schumer took credit for his win, refusing to commit to backing him for Senate majority leader next year.Colom told MS NOW’s Symone Sanders-Townsend Thursday that he spoke to Schu…
 - [原文連結](https://newrepublic.com/post/217987/scott-colom-pushes-back-schumer-recruit-mississippi-senate-win)
+
+---
+
+### ⚠️ Howard Lutnick's friendship with Trump may not save him from Nvidia scrutiny
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-11-13T00:55:10Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: President Donald Trump is again facing pressure over his Commerce secretary and longtime friend Howard Lutnick as the department and its leaders face mounting bipartisan criticism in the wake of the Nvidia scandal, according to multiple current and former off…
+- [原文連結](https://www.yahoo.com/news/politics/articles/lutnick-longtime-friendship-trump-may-005510690.html)
 
 ---
 
