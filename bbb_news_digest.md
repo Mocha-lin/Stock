@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-14T22:46:38.886013+00:00
+> 更新時間：2026-11-15T02:25:01.490582+00:00
 
 ### 🚀 Sino-American Silicon Products posts record revenue in first three quarters of 2026 on AI, energy demand
 - **題材**: `HBM記憶體` | **重要性**: `83`
@@ -7,6 +7,16 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Sino-American Silicon Products (SAS) is focusing on computing power and electricity, as construction of artificial intelligence (AI) data centers accelerates, demand for high-bandwidth memory (HBM) surges, and the global energy transition continues to advance…
 - [原文連結](https://www.digitimes.com/news/a20261107PD200/sas-revenue-demand-2026-electricity.html)
+
+---
+
+### 🚀 GlobalFoundries posts record gross margin as optical networking takes center stage
+- **題材**: `光通訊與矽光子` | **重要性**: `75`
+- **來源**: Crypto Briefing (2026-11-14T02:19:57Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: GlobalFoundries' strategic pivot to optical networking and AI data centers signals a transformative shift in semiconductor industry dynamics.
+The post GlobalFoundries posts record gross margin as optical networking takes center stage appeared first on Crypto …
+- [原文連結](https://cryptobriefing.com/globalfoundries-record-margin-optical-networking/)
 
 ---
 
@@ -137,6 +147,15 @@ The post TSMC signs seven-year deal with Xintec to expand CoWoS packaging appear
 
 ---
 
+### ⚠️ Jensen Huang and the decline of the visionary showman founder CEO
+- **題材**: `AI伺服器` | **重要性**: `63`
+- **來源**: The Verge (2026-11-14T01:34:37Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and cheers of a 14,000-person arena absolutely packed with influencers and fans, their faces awash in blue glow…
+- [原文連結](https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo)
+
+---
+
 ### ⚖️ Intel looks beyond 18A and 14A to reshape computing
 - **題材**: `光通訊與矽光子` | **重要性**: `63`
 - **來源**: Digitimes (2026-11-10T04:21:43Z)
@@ -155,30 +174,12 @@ The post TSMC signs seven-year deal with Xintec to expand CoWoS packaging appear
 
 ---
 
-### ⚠️ Global AI memory crunch drives Taiwan to launch advanced memory initiative
-- **題材**: `HBM記憶體` | **重要性**: `63`
-- **來源**: Digitimes (2026-11-07T12:42:00Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: The boom in AI demand has triggered a global memory crunch, creating persistent supply shortages and price hikes. The market is currently dominated by Samsung Electronics, SK Hynix, and Micron Technology. While China's ChangXin Memory Technologies (CXMT) has …
-- [原文連結](https://www.digitimes.com/news/a20261106PD231/memory-chips-demand-taiwan-government-2027.html)
-
----
-
 ### ⚖️ SpaceX develops its own ‘Kessel’ rack-scale system featuring 72 Nvidia Rubin GPUs for data centers in space, report claims
 - **題材**: `AI伺服器` | **重要性**: `62`
 - **來源**: Tom's Hardware UK (2026-11-11T15:03:08Z)
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: SpaceX is reportedly developing a 'Kessel' rack-scale system design with 72 Nvidia Rubin GPUs that relies on a massive 84-layer PCB midplane.
 - [原文連結](https://www.tomshardware.com/tech-industry/artificial-intelligence/spacex-develops-its-own-kessel-rack-scale-system-featuring-72-nvidia-rubin-gpus-for-data-centers-in-space-report-claims-replaces-conventional-nvlink-cable-assemblies-with-a-massive-84-layer-printed-circuit-board)
-
----
-
-### ⚖️ Chinese AI labs are training models on Nvidia's Blackwell despite export controls, says ex-OpenAI engineer
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: Theregister.com (2026-11-13T21:16:22Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Forensic report finds Blackwell's fingerprint in DeepSeek, Moonshot AI, MiniMax and Ant Group models
-- [原文連結](https://www.theregister.com/ai-and-ml/2026/11/13/chinese-ai-labs-are-training-models-on-nvidias-blackwell-despite-export-controls-says-ex-openai-engineer/5309891)
 
 ---
 
