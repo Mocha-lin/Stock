@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-15T02:25:01.490582+00:00
+> 更新時間：2026-11-15T07:22:10.812369+00:00
 
 ### 🚀 Sino-American Silicon Products posts record revenue in first three quarters of 2026 on AI, energy demand
 - **題材**: `HBM記憶體` | **重要性**: `83`
