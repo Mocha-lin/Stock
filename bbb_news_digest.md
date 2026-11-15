@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-15T07:22:10.812369+00:00
+> 更新時間：2026-11-15T16:05:34.944601+00:00
 
 ### 🚀 Sino-American Silicon Products posts record revenue in first three quarters of 2026 on AI, energy demand
 - **題材**: `HBM記憶體` | **重要性**: `83`
@@ -101,13 +101,12 @@ The post GlobalFoundries posts record gross margin as optical networking takes c
 
 ---
 
-### 🚀 TSMC signs seven-year deal with Xintec to expand CoWoS packaging
-- **題材**: `半導體先進製程` | **重要性**: `65`
-- **來源**: Crypto Briefing (2026-11-13T12:08:53Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: TSMC's strategic expansion with Xintec highlights the growing demand for advanced chip packaging, underscoring long-term industry reliance on CoWoS.
-The post TSMC signs seven-year deal with Xintec to expand CoWoS packaging appeared first on Crypto Briefing.
-- [原文連結](https://cryptobriefing.com/tsmc-xintec-seven-year-cowos-deal/)
+### ⚖️ Researchers allege DeepSeek, Kimi, and other Chinese AI models were trained using banned Nvidia Blackwell GPUs
+- **題材**: `AI伺服器` | **重要性**: `67`
+- **來源**: Tom's Hardware UK (2026-11-14T14:50:00Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Researchers pinpoint that DeepSeek, Kimi, and other Chinese AI models were trained on export-controlled Nvidia Blackwell chips — statistical analysis on model weights reveals high correlation to Nvidia hardware
+- [原文連結](https://www.tomshardware.com/tech-industry/artificial-intelligence/researchers-allege-deepseek-kimi-and-other-chinese-ai-models-were-trained-on-export-controlled-nvidia-blackwell-chips-statistical-analysis-on-model-weights-reveals-high-correlation-to-nvidia-hardware)
 
 ---
 
@@ -126,24 +125,6 @@ The post TSMC signs seven-year deal with Xintec to expand CoWoS packaging appear
 - **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: MEXICO CITY (AP) — Mexican President Claudia Sheinbaum said Thursday that no migrant caravans have reached the U.S. border since U.S. President Donald Trump returned to office in 2025, responding to his threat to double tariffs on Mexican goods unless Mexico …
 - [原文連結](https://www.yahoo.com/news/us/articles/sheinbaum-rebuts-trump-says-no-160549220.html)
-
----
-
-### 🚀 AMD plans equity investment in PsiQuantum to develop utility-scale quantum computers
-- **題材**: `光通訊與矽光子` | **重要性**: `65`
-- **來源**: BusinessLine (2026-11-12T13:09:19Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: The expanded partnership will combine AMD’s computing technologies with PsiQuantum’s silicon photonics platform to advance quantum computing and drug discovery
-- [原文連結](https://www.thehindubusinessline.com/info-tech/amd-plans-equity-investment-in-psiquantum-to-develop-utility-scale-quantum-computers/article71693912.ece)
-
----
-
-### 🚀 AMD to invest in PsiQuantum to advance quantum computing infrastructure
-- **題材**: `光通訊與矽光子` | **重要性**: `65`
-- **來源**: CNA (2026-11-12T13:01:43Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Nov 12 : AMD plans to make an equity investment in quantum computing company PsiQuantum as part of an expanded partnership to develop the infrastructure required for utility-scale quantum computers, the companies said on Thursday.The deal comes when quantum c…
-- [原文連結](https://www.channelnewsasia.com/business/amd-invest-in-psiquantum-advance-quantum-computing-infrastructure-6546391)
 
 ---
 
@@ -180,6 +161,24 @@ The post TSMC signs seven-year deal with Xintec to expand CoWoS packaging appear
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: SpaceX is reportedly developing a 'Kessel' rack-scale system design with 72 Nvidia Rubin GPUs that relies on a massive 84-layer PCB midplane.
 - [原文連結](https://www.tomshardware.com/tech-industry/artificial-intelligence/spacex-develops-its-own-kessel-rack-scale-system-featuring-72-nvidia-rubin-gpus-for-data-centers-in-space-report-claims-replaces-conventional-nvlink-cable-assemblies-with-a-massive-84-layer-printed-circuit-board)
+
+---
+
+### ⚖️ Chinese AI labs are training models on Nvidia's Blackwell despite export controls, says ex-OpenAI engineer
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: Theregister.com (2026-11-13T21:16:22Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Forensic report finds Blackwell's fingerprint in DeepSeek, Moonshot AI, MiniMax and Ant Group models
+- [原文連結](https://www.theregister.com/ai-and-ml/2026/11/13/chinese-ai-labs-are-training-models-on-nvidias-blackwell-despite-export-controls-says-ex-openai-engineer/5309891)
+
+---
+
+### 🚀 Scott Colom Pushes Back on Schumer After Historic Mississippi Win
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: The New Republic (2026-11-13T16:41:33Z)
+- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Newly elected Democratic Senator Scott Colom is pushing back after Senator Chuck Schumer took credit for his win, refusing to commit to backing him for Senate majority leader next year.Colom told MS NOW’s Symone Sanders-Townsend Thursday that he spoke to Schu…
+- [原文連結](https://newrepublic.com/post/217987/scott-colom-pushes-back-schumer-recruit-mississippi-senate-win)
 
 ---
 
