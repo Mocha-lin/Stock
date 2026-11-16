@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-16T02:34:25.162602+00:00
+> 更新時間：2026-11-16T07:28:36.546274+00:00
 
 ### 🚀 Sino-American Silicon Products posts record revenue in first three quarters of 2026 on AI, energy demand
 - **題材**: `HBM記憶體` | **重要性**: `78`
@@ -35,24 +35,6 @@ The post GlobalFoundries posts record gross margin as optical networking takes c
 - **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Samsung Electronics and SK Hynix face uncertainty over demand for high-bandwidth memory (HBM) as US lawmakers press for tighter controls on AI chip exports to China following allegations involving Nvidia CEO Jensen Huang.
 - [原文連結](https://www.digitimes.com/news/a20261110VL203/nvidia-samsung-investigation-sk-hynix-ceo.html)
-
----
-
-### 🚀 Paras Semiconductors teams with US-based BroadPak on advanced packaging plant in India
-- **題材**: `半導體先進製程` | **重要性**: `73`
-- **來源**: Digitimes (2026-11-09T06:53:51Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Paras Semiconductors, a subsidiary of Indian defense company Paras Defence & Space Technologies, announced a strategic technology partnership with US-based BroadPak Corporation on November 6 to build advanced semiconductor packaging capabilities in India, anc…
-- [原文連結](https://www.digitimes.com/news/a20261109VL209/packaging-plant-subsidiary-technology-incentives.html)
-
----
-
-### ⚖️ Surging AI demand turns CoWoS into a headache; securing packaging capacity becomes top priority, says MediaTek deputy GM
-- **題材**: `半導體先進製程` | **重要性**: `73`
-- **來源**: Digitimes (2026-11-09T03:25:11Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Surging demand for advanced packaging driven by artificial intelligence (AI) has turned chip-on-wafer-on-substrate (CoWoS) from an "interesting" technology into a headache, making it an urgent priority for MediaTek to secure wafer, packaging, and substrate ca…
-- [原文連結](https://www.digitimes.com/news/a20261108PD200/mediatek-cowos-packaging-demand-capacity.html)
 
 ---
 
@@ -101,22 +83,30 @@ The post GlobalFoundries posts record gross margin as optical networking takes c
 
 ---
 
+### 🚀 Paras Semiconductors teams with US-based BroadPak on advanced packaging plant in India
+- **題材**: `半導體先進製程` | **重要性**: `68`
+- **來源**: Digitimes (2026-11-09T06:53:51Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Paras Semiconductors, a subsidiary of Indian defense company Paras Defence & Space Technologies, announced a strategic technology partnership with US-based BroadPak Corporation on November 6 to build advanced semiconductor packaging capabilities in India, anc…
+- [原文連結](https://www.digitimes.com/news/a20261109VL209/packaging-plant-subsidiary-technology-incentives.html)
+
+---
+
+### ⚖️ Surging AI demand turns CoWoS into a headache; securing packaging capacity becomes top priority, says MediaTek deputy GM
+- **題材**: `半導體先進製程` | **重要性**: `68`
+- **來源**: Digitimes (2026-11-09T03:25:11Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Surging demand for advanced packaging driven by artificial intelligence (AI) has turned chip-on-wafer-on-substrate (CoWoS) from an "interesting" technology into a headache, making it an urgent priority for MediaTek to secure wafer, packaging, and substrate ca…
+- [原文連結](https://www.digitimes.com/news/a20261108PD200/mediatek-cowos-packaging-demand-capacity.html)
+
+---
+
 ### ⚖️ Researchers allege DeepSeek, Kimi, and other Chinese AI models were trained using banned Nvidia Blackwell GPUs
 - **題材**: `AI伺服器` | **重要性**: `67`
 - **來源**: Tom's Hardware UK (2026-11-14T14:50:00Z)
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Researchers pinpoint that DeepSeek, Kimi, and other Chinese AI models were trained on export-controlled Nvidia Blackwell chips — statistical analysis on model weights reveals high correlation to Nvidia hardware
 - [原文連結](https://www.tomshardware.com/tech-industry/artificial-intelligence/researchers-allege-deepseek-kimi-and-other-chinese-ai-models-were-trained-on-export-controlled-nvidia-blackwell-chips-statistical-analysis-on-model-weights-reveals-high-correlation-to-nvidia-hardware)
-
----
-
-### 🚀 TSMC signs seven-year deal with Xintec to expand CoWoS packaging
-- **題材**: `半導體先進製程` | **重要性**: `65`
-- **來源**: Crypto Briefing (2026-11-13T12:08:53Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: TSMC's strategic expansion with Xintec highlights the growing demand for advanced chip packaging, underscoring long-term industry reliance on CoWoS.
-The post TSMC signs seven-year deal with Xintec to expand CoWoS packaging appeared first on Crypto Briefing.
-- [原文連結](https://cryptobriefing.com/tsmc-xintec-seven-year-cowos-deal/)
 
 ---
 
@@ -180,6 +170,15 @@ The post TSMC signs seven-year deal with Xintec to expand CoWoS packaging appear
 - **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: TeamGroup's CEO warns that we're reaching a point where "money can't even buy goods."
 - [原文連結](https://www.makeuseof.com/2027-will-be-worst-ram-shortage-in-history/)
+
+---
+
+### ⚠️ Mexico's president rebuts Trump's migrant caravan claims as he threatens new tariffs
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-11-12T16:05:49Z)
+- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: MEXICO CITY (AP) — Mexican President Claudia Sheinbaum said Thursday that no migrant caravans have reached the U.S. border since U.S. President Donald Trump returned to office in 2025, responding to his threat to double tariffs on Mexican goods unless Mexico …
+- [原文連結](https://www.yahoo.com/news/us/articles/sheinbaum-rebuts-trump-says-no-160549220.html)
 
 ---
 
