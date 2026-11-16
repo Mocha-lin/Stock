@@ -1,14 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-16T07:28:36.546274+00:00
-
-### 🚀 Sino-American Silicon Products posts record revenue in first three quarters of 2026 on AI, energy demand
-- **題材**: `HBM記憶體` | **重要性**: `78`
-- **來源**: Digitimes (2026-11-09T01:50:38Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Sino-American Silicon Products (SAS) is focusing on computing power and electricity, as construction of artificial intelligence (AI) data centers accelerates, demand for high-bandwidth memory (HBM) surges, and the global energy transition continues to advance…
-- [原文連結](https://www.digitimes.com/news/a20261107PD200/sas-revenue-demand-2026-electricity.html)
-
----
+> 更新時間：2026-11-16T19:18:11.755431+00:00
 
 ### 🚀 GlobalFoundries posts record gross margin as optical networking takes center stage
 - **題材**: `光通訊與矽光子` | **重要性**: `75`
@@ -35,15 +26,6 @@ The post GlobalFoundries posts record gross margin as optical networking takes c
 - **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Samsung Electronics and SK Hynix face uncertainty over demand for high-bandwidth memory (HBM) as US lawmakers press for tighter controls on AI chip exports to China following allegations involving Nvidia CEO Jensen Huang.
 - [原文連結](https://www.digitimes.com/news/a20261110VL203/nvidia-samsung-investigation-sk-hynix-ceo.html)
-
----
-
-### ⚠️ Jensen Huang Admitted He Was Facing an "Avalanche" of Excess Wafers and Memory
-- **題材**: `半導體先進製程` | **重要性**: `70`
-- **來源**: Respawnfirst.com (2026-11-13T13:08:48Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Did Nvidia over order wafers and is now holding the bag? According to a new WSJ report the company has exposed itself to financial risk due to over orders of prepaid wafers from TSMC.
-- [原文連結](https://respawnfirst.com/before-resigning-jensen-huang-admitted-he-was-facing-an-avalanche-of-excess-wafers-and-memory-new-report-sheds-more-light-on-the-gpu-ram-crisis/)
 
 ---
 
@@ -74,15 +56,6 @@ The post GlobalFoundries posts record gross margin as optical networking takes c
 
 ---
 
-### ⚖️ Hanwha Semitech taps new CEO as chip equipment sales more than double in 3Q26
-- **題材**: `HBM記憶體` | **重要性**: `68`
-- **來源**: Digitimes (2026-11-10T01:18:58Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Hanwha Semitech has named chief business officer Kim Jin-woo as its incoming CEO after semiconductor equipment revenue more than doubled in the third quarter of 2026. The South Korean company announced the appointment on November 9 as it moves to expand its h…
-- [原文連結](https://www.digitimes.com/news/a20261109VL232/hanwha-ceo-equipment-sales-business.html)
-
----
-
 ### 🚀 Paras Semiconductors teams with US-based BroadPak on advanced packaging plant in India
 - **題材**: `半導體先進製程` | **重要性**: `68`
 - **來源**: Digitimes (2026-11-09T06:53:51Z)
@@ -101,12 +74,30 @@ The post GlobalFoundries posts record gross margin as optical networking takes c
 
 ---
 
+### ⚠️ Judge denies motion to dismiss DRAM price-fixing lawsuit against Micron, Samsung, and SK hynix
+- **題材**: `HBM記憶體` | **重要性**: `67`
+- **來源**: Tom's Hardware UK (2026-11-15T15:09:50Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: The judge characterized the three companies as "hawks flying in formation" when it came to their business decisions.
+- [原文連結](https://www.tomshardware.com/tech-industry/big-tech/judge-denies-motion-to-dismiss-dram-price-fixing-lawsuit-against-micron-samsung-and-sk-hynix-says-chipmakers-acted-like-hawks-flying-in-formation-finds-evidence-of-dram-collusion-plausible-after-500-percent-price-surge)
+
+---
+
 ### ⚖️ Researchers allege DeepSeek, Kimi, and other Chinese AI models were trained using banned Nvidia Blackwell GPUs
 - **題材**: `AI伺服器` | **重要性**: `67`
 - **來源**: Tom's Hardware UK (2026-11-14T14:50:00Z)
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Researchers pinpoint that DeepSeek, Kimi, and other Chinese AI models were trained on export-controlled Nvidia Blackwell chips — statistical analysis on model weights reveals high correlation to Nvidia hardware
 - [原文連結](https://www.tomshardware.com/tech-industry/artificial-intelligence/researchers-allege-deepseek-kimi-and-other-chinese-ai-models-were-trained-on-export-controlled-nvidia-blackwell-chips-statistical-analysis-on-model-weights-reveals-high-correlation-to-nvidia-hardware)
+
+---
+
+### ⚠️ Jensen Huang Admitted He Was Facing an "Avalanche" of Excess Wafers and Memory
+- **題材**: `半導體先進製程` | **重要性**: `65`
+- **來源**: Respawnfirst.com (2026-11-13T13:08:48Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Did Nvidia over order wafers and is now holding the bag? According to a new WSJ report the company has exposed itself to financial risk due to over orders of prepaid wafers from TSMC.
+- [原文連結](https://respawnfirst.com/before-resigning-jensen-huang-admitted-he-was-facing-an-avalanche-of-excess-wafers-and-memory-new-report-sheds-more-light-on-the-gpu-ram-crisis/)
 
 ---
 
@@ -137,6 +128,34 @@ The post GlobalFoundries posts record gross margin as optical networking takes c
 
 ---
 
+### ⚠️ Samsung, SK hynix, and Micron Fail to Get DRAM Antitrust Suit Dismissed
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: Techpowerup.com (2026-11-15T18:13:01Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: The class-action lawsuit accusing Samsung, SK hynix, and Micron of restricting DRAM supply is moving forward. On November 14, U.S. District Judge Noël Wise of the Northern District of California denied the three companies' joint motion to dismiss, finding the…
+- [原文連結](https://www.techpowerup.com/354863/samsung-sk-hynix-and-micron-fail-to-get-dram-antitrust-suit-dismissed)
+
+---
+
+### 🚀 Wu-Tang Clan, Billy Idol, Phil Collins Enter Rock Hall at All-Star Induction Ceremony
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: Rolling Stone (2026-11-15T14:36:30Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Bearded Red Hot Chili Peppers honor Rick Rubin, U2 serve as surprise openers, Aerosmith and Run-D.M.C. reunite, Oprah Winfrey inducts Luther Vandross and more at 2026 ceremony
+- [原文連結](http://www.rollingstone.com/music/music-live-reviews/rock-hall-2026-induction-ceremony-recap-1235658494/)
+
+---
+
+### ⚖️ Heads Into An $82.1 Billion All Stock Takeover
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: Biztoc.com (2026-11-15T09:39:35Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Lumentum Holdings (NasdaqGS:LITE) agreed to be acquired by Marvell Technology in an all stock transaction valued at $82.1b.
+- Both boards unanimously approved a definitive merger agreement that aims to combine silicon photonics and compound semiconductor oper…
+- [原文連結](https://biztoc.com/x/2ee8d5ab98c5a7a3)
+
+---
+
 ### ⚖️ How Much Does It Cost To Build A Data Center?
 - **題材**: `AI伺服器` | **重要性**: `60`
 - **來源**: BGR (2026-11-14T16:17:00Z)
@@ -155,30 +174,12 @@ The post GlobalFoundries posts record gross margin as optical networking takes c
 
 ---
 
-### 🚀 Scott Colom Pushes Back on Schumer After Historic Mississippi Win
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: The New Republic (2026-11-13T16:41:33Z)
-- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Newly elected Democratic Senator Scott Colom is pushing back after Senator Chuck Schumer took credit for his win, refusing to commit to backing him for Senate majority leader next year.Colom told MS NOW’s Symone Sanders-Townsend Thursday that he spoke to Schu…
-- [原文連結](https://newrepublic.com/post/217987/scott-colom-pushes-back-schumer-recruit-mississippi-senate-win)
-
----
-
 ### ⚠️ The company that makes your RAM says 2027 will be the worst shortage in history
 - **題材**: `HBM記憶體` | **重要性**: `60`
 - **來源**: MakeUseOf (2026-11-12T18:30:17Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: TeamGroup's CEO warns that we're reaching a point where "money can't even buy goods."
 - [原文連結](https://www.makeuseof.com/2027-will-be-worst-ram-shortage-in-history/)
-
----
-
-### ⚠️ Mexico's president rebuts Trump's migrant caravan claims as he threatens new tariffs
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-11-12T16:05:49Z)
-- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: MEXICO CITY (AP) — Mexican President Claudia Sheinbaum said Thursday that no migrant caravans have reached the U.S. border since U.S. President Donald Trump returned to office in 2025, responding to his threat to double tariffs on Mexican goods unless Mexico …
-- [原文連結](https://www.yahoo.com/news/us/articles/sheinbaum-rebuts-trump-says-no-160549220.html)
 
 ---
 
