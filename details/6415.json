@@ -1,11 +1,11 @@
 {
   "id": "6415",
   "name": "矽力*-KY",
-  "lastUpdated": "2026-11-15 22:27:01",
+  "lastUpdated": "2026-11-17 00:40:11",
   "basicInfo": {
-    "price": "437.50",
-    "change": "0.50",
-    "changePercent": "0.11%"
+    "price": "394.00",
+    "change": "-43.50",
+    "changePercent": "-9.94%"
   },
   "status": null,
   "themes": [],
@@ -495,10 +495,10 @@
       {
         "period": "2026Q3",
         "deadline": "2026-11-14",
-        "price_basis": "asof往前3日(暫代)",
-        "avg_close_3d": 447.3333333333333,
+        "price_basis": "公告後3日",
+        "avg_close_3d": 394.0,
         "ttm_eps": 10.46,
-        "pe": 42.76609305289993
+        "pe": 37.66730401529637
       },
       {
         "period": "2026Q2",
@@ -567,6 +567,14 @@
       }
     ],
     "chips_table": [
+      {
+        "date": "2026-11-16",
+        "foreign_lots": -616.049,
+        "it_lots": -5.0,
+        "dealer_lots": -57.699,
+        "sum_lots": -678.7479999999999,
+        "pct_float": -0.06955047970759508
+      },
       {
         "date": "2026-11-13",
         "foreign_lots": -121.967,
@@ -678,14 +686,6 @@
         "dealer_lots": 38.577,
         "sum_lots": -287.283,
         "pct_float": -0.029437538617921588
-      },
-      {
-        "date": "2026-10-22",
-        "foreign_lots": -389.712,
-        "it_lots": -51.0,
-        "dealer_lots": -98.984,
-        "sum_lots": -539.696,
-        "pct_float": -0.05530199086593293
       }
     ],
     "returns_table": [
@@ -701,17 +701,17 @@
       },
       {
         "year": 2024,
-        "return_pct": -13.184129040130033,
+        "return_pct": -13.184141482499612,
         "period": "01/02~12/31"
       },
       {
         "year": 2023,
-        "return_pct": 11.229956117647898,
+        "return_pct": 11.229949191006373,
         "period": "01/03~12/29"
       },
       {
         "year": 2022,
-        "return_pct": -65.47898469161281,
+        "return_pct": -65.47898717588563,
         "period": "01/03~12/30"
       }
     ],
@@ -720,7 +720,7 @@
       "dataset": "structure_c_score",
       "stock_id": "6415",
       "ticker": "6415.TW",
-      "asof": "2026-11-13",
+      "asof": "2026-11-16",
       "c_score": 3.245839939764565,
       "benchmark_pe": 132.3186409550046,
       "source": [
@@ -996,14 +996,14 @@
         },
         {
           "period": "2021Q4",
-          "avg_price": 1184.6691176470588,
+          "avg_price": 1181.628787878788,
           "eps": 14.73,
           "revenue_q": 19.45327,
-          "pe_ratio": 80.42560201269917,
+          "pe_ratio": 80.21919809088853,
           "rev_growth": null,
           "eps_growth": null,
           "rt_weight": 1.0,
-          "deviation": 0.6078176244271444,
+          "deviation": 0.6062577238695137,
           "theo_price": 1949.053581267218
         }
       ],
@@ -1017,27 +1017,6 @@
       "stock_name": "矽力-KY"
     },
     "kline_data": [
-      {
-        "date": "2026-05-22",
-        "symbol": "6415.TW",
-        "open": 564.0,
-        "high": 573.0,
-        "low": 547.0,
-        "close": 562.0,
-        "volume": 12004658.0,
-        "adjclose": 562.0,
-        "dividends": 0.0,
-        "MA5": 524.4,
-        "MA20": 461.95,
-        "MA60": 346.43333333333334,
-        "bb_mid": 461.95,
-        "bb_up": 554.21261431371,
-        "bb_dn": 369.6873856862901,
-        "DIF": 49.895184092091256,
-        "DEA": 43.93307652332589,
-        "HIST": 11.924215137530735,
-        "volume_lot": 12004.658
-      },
       {
         "date": "2026-05-25",
         "symbol": "6415.TW",
@@ -3536,6 +3515,27 @@
         "DEA": 0.9396305857617584,
         "HIST": -10.689817003413332,
         "volume_lot": 5608.54
+      },
+      {
+        "date": "2026-11-16",
+        "symbol": "6415.TW",
+        "open": 420.0,
+        "high": 422.5,
+        "low": 394.0,
+        "close": null,
+        "volume": 4090667.0,
+        "adjclose": null,
+        "dividends": 0.0,
+        "MA5": null,
+        "MA20": null,
+        "MA60": null,
+        "bb_mid": null,
+        "bb_up": null,
+        "bb_dn": null,
+        "DIF": -4.405277915944907,
+        "DEA": -0.1293511145795747,
+        "HIST": -8.551853602730665,
+        "volume_lot": 4090.667
       }
     ]
   }

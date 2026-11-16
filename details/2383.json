@@ -1,11 +1,11 @@
 {
   "id": "2383",
   "name": "台光電",
-  "lastUpdated": "2026-11-15 22:27:01",
+  "lastUpdated": "2026-11-17 00:40:11",
   "basicInfo": {
-    "price": "4215.00",
-    "change": "110.00",
-    "changePercent": "2.68%"
+    "price": "3795.00",
+    "change": "-420.00",
+    "changePercent": "-9.96%"
   },
   "status": null,
   "themes": [],
@@ -495,10 +495,10 @@
       {
         "period": "2026Q3",
         "deadline": "2026-11-14",
-        "price_basis": "asof往前3日(暫代)",
-        "avg_close_3d": 4273.333333333333,
+        "price_basis": "公告後3日",
+        "avg_close_3d": 3795.0,
         "ttm_eps": 93.36,
-        "pe": 45.772636389602965
+        "pe": 40.649100257069406
       },
       {
         "period": "2026Q2",
@@ -567,6 +567,14 @@
       }
     ],
     "chips_table": [
+      {
+        "date": "2026-11-16",
+        "foreign_lots": -170.273,
+        "it_lots": -10.257,
+        "dealer_lots": 4.038000000000001,
+        "sum_lots": -176.492,
+        "pct_float": -0.004925526294711643
+      },
       {
         "date": "2026-11-13",
         "foreign_lots": -75.109,
@@ -678,14 +686,6 @@
         "dealer_lots": 148.242,
         "sum_lots": -759.7820000000002,
         "pct_float": -0.02120394249738573
-      },
-      {
-        "date": "2026-10-22",
-        "foreign_lots": 162.97,
-        "it_lots": 36.4,
-        "dealer_lots": 63.728,
-        "sum_lots": 263.098,
-        "pct_float": 0.007342520437674477
       }
     ],
     "returns_table": [
@@ -706,12 +706,12 @@
       },
       {
         "year": 2023,
-        "return_pct": 120.62691469906466,
+        "return_pct": 120.62687611943473,
         "period": "01/03~12/29"
       },
       {
         "year": 2022,
-        "return_pct": -34.59790508003386,
+        "return_pct": -34.59791937045047,
         "period": "01/03~12/30"
       }
     ],
@@ -720,7 +720,7 @@
       "dataset": "structure_c_score",
       "stock_id": "2383",
       "ticker": "2383.TW",
-      "asof": "2026-11-13",
+      "asof": "2026-11-16",
       "c_score": 1.202937941604897,
       "benchmark_pe": 67.63940762925915,
       "source": [
@@ -996,14 +996,14 @@
         },
         {
           "period": "2021Q4",
-          "avg_price": 266.6029411764706,
+          "avg_price": 267.59090909090907,
           "eps": 4.47,
           "revenue_q": 33.93849,
-          "pe_ratio": 59.64271614686144,
+          "pe_ratio": 59.86373805165751,
           "rev_growth": null,
           "eps_growth": null,
           "rt_weight": 1.0,
-          "deviation": 0.8817746671255805,
+          "deviation": 0.8850423170436212,
           "theo_price": 302.3481521027884
         }
       ],
@@ -1017,27 +1017,6 @@
       "stock_name": "台光電"
     },
     "kline_data": [
-      {
-        "date": "2026-05-22",
-        "symbol": "2383.TW",
-        "open": 4925.0,
-        "high": 5085.0,
-        "low": 4800.0,
-        "close": 5005.0,
-        "volume": 2735717.0,
-        "adjclose": 4982.25,
-        "dividends": 0.0,
-        "MA5": 4634.0,
-        "MA20": 4704.75,
-        "MA60": 3518.583333333333,
-        "bb_mid": 4704.75,
-        "bb_up": 5103.064887996935,
-        "bb_dn": 4306.435112003065,
-        "DIF": 270.8889900358536,
-        "DEA": 339.5187239241324,
-        "HIST": -137.2594677765577,
-        "volume_lot": 2735.717
-      },
       {
         "date": "2026-05-25",
         "symbol": "2383.TW",
@@ -3536,6 +3515,27 @@
         "DEA": -254.333756098546,
         "HIST": -64.02268082161851,
         "volume_lot": 3351.469
+      },
+      {
+        "date": "2026-11-16",
+        "symbol": "2383.TW",
+        "open": 4195.0,
+        "high": 4195.0,
+        "low": 3795.0,
+        "close": null,
+        "volume": 2989866.0,
+        "adjclose": null,
+        "dividends": 0.0,
+        "MA5": null,
+        "MA20": null,
+        "MA60": null,
+        "bb_mid": null,
+        "bb_up": null,
+        "bb_dn": null,
+        "DIF": -286.34509650935524,
+        "DEA": -260.7360241807079,
+        "HIST": -51.21814465729472,
+        "volume_lot": 2989.866
       }
     ]
   }

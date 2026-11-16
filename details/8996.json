@@ -1,11 +1,11 @@
 {
   "id": "8996",
   "name": "高力",
-  "lastUpdated": "2026-11-15 22:27:01",
+  "lastUpdated": "2026-11-17 00:40:11",
   "basicInfo": {
-    "price": "1440.00",
-    "change": "15.00",
-    "changePercent": "1.05%"
+    "price": "1300.00",
+    "change": "-140.00",
+    "changePercent": "-9.72%"
   },
   "status": null,
   "themes": [],
@@ -495,10 +495,10 @@
       {
         "period": "2026Q3",
         "deadline": "2026-11-14",
-        "price_basis": "asof往前3日(暫代)",
-        "avg_close_3d": 1441.6666666666667,
+        "price_basis": "公告後3日",
+        "avg_close_3d": 1300.0,
         "ttm_eps": 17.85,
-        "pe": 80.765639589169
+        "pe": 72.82913165266106
       },
       {
         "period": "2026Q2",
@@ -567,6 +567,14 @@
       }
     ],
     "chips_table": [
+      {
+        "date": "2026-11-16",
+        "foreign_lots": -149.735,
+        "it_lots": 127.196,
+        "dealer_lots": -15.264000000000001,
+        "sum_lots": -37.80300000000002,
+        "pct_float": -0.004037604416660527
+      },
       {
         "date": "2026-11-13",
         "foreign_lots": -409.64,
@@ -678,14 +686,6 @@
         "dealer_lots": -81.776,
         "sum_lots": 155.12100000000004,
         "pct_float": 0.016567924099060855
-      },
-      {
-        "date": "2026-10-22",
-        "foreign_lots": -360.799,
-        "it_lots": 341.0,
-        "dealer_lots": -68.125,
-        "sum_lots": -87.92399999999998,
-        "pct_float": -0.00939085074545565
       }
     ],
     "returns_table": [
@@ -696,7 +696,7 @@
       },
       {
         "year": 2025,
-        "return_pct": 89.3418195819432,
+        "return_pct": 89.34180061651571,
         "period": "01/02~12/31"
       },
       {
@@ -720,7 +720,7 @@
       "dataset": "structure_c_score",
       "stock_id": "8996",
       "ticker": "8996.TW",
-      "asof": "2026-11-13",
+      "asof": "2026-11-16",
       "c_score": 1.6652328771777227,
       "benchmark_pe": 134.19363310768574,
       "source": [
@@ -996,14 +996,14 @@
         },
         {
           "period": "2021Q4",
-          "avg_price": 59.80588239781997,
+          "avg_price": 59.912121281479344,
           "eps": 0.34,
           "revenue_q": 1.91649,
-          "pe_ratio": 175.8996541112352,
+          "pe_ratio": 176.2121214161157,
           "rev_growth": null,
           "eps_growth": null,
           "rt_weight": 1.0,
-          "deviation": 1.310789864151616,
+          "deviation": 1.3131183450015962,
           "theo_price": 45.62583525661316
         }
       ],
@@ -1017,27 +1017,6 @@
       "stock_name": "高力"
     },
     "kline_data": [
-      {
-        "date": "2026-05-22",
-        "symbol": "8996.TW",
-        "open": 1110.0,
-        "high": 1170.0,
-        "low": 1110.0,
-        "close": 1170.0,
-        "volume": 3120531.0,
-        "adjclose": 1170.0,
-        "dividends": 0.0,
-        "MA5": 1062.8,
-        "MA20": 1100.2,
-        "MA60": 991.5166666666668,
-        "bb_mid": 1100.2,
-        "bb_up": 1249.1531469959696,
-        "bb_dn": 951.2468530040304,
-        "DIF": 4.808785569003703,
-        "DEA": 10.96489533409524,
-        "HIST": -12.312219530183077,
-        "volume_lot": 3120.531
-      },
       {
         "date": "2026-05-25",
         "symbol": "8996.TW",
@@ -3536,6 +3515,27 @@
         "DEA": -24.64479668515088,
         "HIST": -11.967194504497805,
         "volume_lot": 4386.782
+      },
+      {
+        "date": "2026-11-16",
+        "symbol": "8996.TW",
+        "open": 1400.0,
+        "high": 1410.0,
+        "low": 1300.0,
+        "close": null,
+        "volume": 1895004.0,
+        "adjclose": null,
+        "dividends": 0.0,
+        "MA5": null,
+        "MA20": null,
+        "MA60": null,
+        "bb_mid": null,
+        "bb_up": null,
+        "bb_dn": null,
+        "DIF": -30.62839393739978,
+        "DEA": -25.841516135600656,
+        "HIST": -9.573755603598244,
+        "volume_lot": 1895.004
       }
     ]
   }

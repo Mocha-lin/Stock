@@ -1,11 +1,11 @@
 {
   "id": "7750",
   "name": "新代",
-  "lastUpdated": "2026-11-15 22:27:01",
+  "lastUpdated": "2026-11-17 00:40:11",
   "basicInfo": {
-    "price": "1495.00",
-    "change": "40.00",
-    "changePercent": "2.75%"
+    "price": "1380.00",
+    "change": "-115.00",
+    "changePercent": "-7.69%"
   },
   "status": "🟡 FLU",
   "themes": [],
@@ -495,10 +495,10 @@
       {
         "period": "2026Q3",
         "deadline": "2026-11-14",
-        "price_basis": "asof往前3日(暫代)",
-        "avg_close_3d": 1506.6666666666667,
+        "price_basis": "公告後3日",
+        "avg_close_3d": 1380.0,
         "ttm_eps": 78.91,
-        "pe": 19.093482025936723
+        "pe": 17.48827778481815
       },
       {
         "period": "2026Q2",
@@ -567,6 +567,14 @@
       }
     ],
     "chips_table": [
+      {
+        "date": "2026-11-16",
+        "foreign_lots": -28.834,
+        "it_lots": 6.0,
+        "dealer_lots": 1.7080000000000002,
+        "sum_lots": -21.125999999999998,
+        "pct_float": -0.0029405787620227436
+      },
       {
         "date": "2026-11-13",
         "foreign_lots": -14.541,
@@ -678,14 +686,6 @@
         "dealer_lots": -0.708,
         "sum_lots": 114.768,
         "pct_float": 0.015974834013056247
-      },
-      {
-        "date": "2026-10-22",
-        "foreign_lots": 4.519,
-        "it_lots": 0.0,
-        "dealer_lots": -4.498,
-        "sum_lots": 0.020999999999999908,
-        "pct_float": 2.9230405189092755e-06
       }
     ],
     "returns_table": [
@@ -710,7 +710,7 @@
       "dataset": "structure_c_score",
       "stock_id": "7750",
       "ticker": "7750.TW",
-      "asof": "2026-11-13",
+      "asof": "2026-11-16",
       "c_score": 1.0234998344509239,
       "benchmark_pe": 76.8380956824916,
       "source": [
@@ -899,27 +899,6 @@
       "stock_name": "新代"
     },
     "kline_data": [
-      {
-        "date": "2026-05-22",
-        "symbol": "7750.TW",
-        "open": 2380.0,
-        "high": 2440.0,
-        "low": 2340.0,
-        "close": 2390.0,
-        "volume": 367605.0,
-        "adjclose": 2390.0,
-        "dividends": 0.0,
-        "MA5": 2436.0,
-        "MA20": 2542.75,
-        "MA60": 1808.9166666666667,
-        "bb_mid": 2542.75,
-        "bb_up": 2966.217531222882,
-        "bb_dn": 2119.282468777118,
-        "DIF": 157.34758586123098,
-        "DEA": 233.7026003975048,
-        "HIST": -152.71002907254763,
-        "volume_lot": 367.605
-      },
       {
         "date": "2026-05-25",
         "symbol": "7750.TW",
@@ -3418,6 +3397,27 @@
         "DEA": -106.72414737139144,
         "HIST": -45.73217759424813,
         "volume_lot": 257.266
+      },
+      {
+        "date": "2026-11-16",
+        "symbol": "7750.TW",
+        "open": 1500.0,
+        "high": 1500.0,
+        "low": 1380.0,
+        "close": null,
+        "volume": 198856.0,
+        "adjclose": null,
+        "dividends": 0.0,
+        "MA5": null,
+        "MA20": null,
+        "MA60": null,
+        "bb_mid": null,
+        "bb_up": null,
+        "bb_dn": null,
+        "DIF": -129.5902361685155,
+        "DEA": -111.29736513081626,
+        "HIST": -36.585742075398485,
+        "volume_lot": 198.856
       }
     ]
   }

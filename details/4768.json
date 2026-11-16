@@ -1,11 +1,11 @@
 {
   "id": "4768",
   "name": "晶呈科技",
-  "lastUpdated": "2026-11-15 22:27:01",
+  "lastUpdated": "2026-11-17 00:40:11",
   "basicInfo": {
-    "price": "301.00",
-    "change": "14.00",
-    "changePercent": "4.88%"
+    "price": "271.50",
+    "change": "-29.50",
+    "changePercent": "-9.80%"
   },
   "status": null,
   "themes": [],
@@ -495,8 +495,8 @@
       {
         "period": "2026Q3",
         "deadline": "2026-11-14",
-        "price_basis": "asof往前3日(暫代)",
-        "avg_close_3d": 292.3333333333333,
+        "price_basis": "公告後3日",
+        "avg_close_3d": 271.5,
         "ttm_eps": -0.76,
         "pe": null
       },
@@ -567,6 +567,14 @@
       }
     ],
     "chips_table": [
+      {
+        "date": "2026-11-16",
+        "foreign_lots": -87.897,
+        "it_lots": 0.0,
+        "dealer_lots": -19.401,
+        "sum_lots": -107.298,
+        "pct_float": -0.02226090348172829
+      },
       {
         "date": "2026-11-13",
         "foreign_lots": 66.858,
@@ -678,14 +686,6 @@
         "dealer_lots": -2.653,
         "sum_lots": -4.421,
         "pct_float": -0.0009172161111364683
-      },
-      {
-        "date": "2026-10-22",
-        "foreign_lots": -16.913,
-        "it_lots": 0.0,
-        "dealer_lots": -13.732,
-        "sum_lots": -30.645,
-        "pct_float": -0.006357857436276197
       }
     ],
     "returns_table": [
@@ -706,7 +706,7 @@
       },
       {
         "year": 2023,
-        "return_pct": 38.17209746905055,
+        "return_pct": 38.172106097773685,
         "period": "01/03~12/29"
       },
       {
@@ -720,7 +720,7 @@
       "dataset": "structure_c_score",
       "stock_id": "4768",
       "ticker": "4768.TWO",
-      "asof": "2026-11-13",
+      "asof": "2026-11-16",
       "c_score": 10.425672644810758,
       "benchmark_pe": 112.24505264368426,
       "source": [
@@ -996,14 +996,14 @@
         },
         {
           "period": "2021Q4",
-          "avg_price": 113.66900567447438,
+          "avg_price": 113.76117382627545,
           "eps": 0.43,
           "revenue_q": 0.51512,
-          "pe_ratio": 264.346524824359,
+          "pe_ratio": 264.56086936343127,
           "rev_growth": null,
           "eps_growth": null,
           "rt_weight": 1.0,
-          "deviation": 2.3550839756253,
+          "deviation": 2.3569935879781285,
           "theo_price": 48.26537263678423
         }
       ],
@@ -1017,28 +1017,6 @@
       "stock_name": "晶呈科技"
     },
     "kline_data": [
-      {
-        "date": "2026-05-22",
-        "symbol": "4768.TWO",
-        "open": 468.472900390625,
-        "high": 482.7586059570313,
-        "low": 441.3793029785156,
-        "close": 448.2758483886719,
-        "volume": 3281097.0,
-        "adjclose": 447.0480651855469,
-        "dividends": 0.0,
-        "splits": 0.0,
-        "MA5": 424.2364501953125,
-        "MA20": 469.9507369995117,
-        "MA60": 464.24466400146486,
-        "bb_mid": 469.9507369995117,
-        "bb_up": 538.3928021766928,
-        "bb_dn": 401.50867182233054,
-        "DIF": -13.106655444893534,
-        "DEA": -6.316231995241498,
-        "HIST": -13.58084689930407,
-        "volume_lot": 3281.097
-      },
       {
         "date": "2026-05-25",
         "symbol": "4768.TWO",
@@ -3656,6 +3634,28 @@
         "DEA": -12.62386801691289,
         "HIST": -2.1314878326082365,
         "volume_lot": 299.339
+      },
+      {
+        "date": "2026-11-16",
+        "symbol": "4768.TWO",
+        "open": 298.0,
+        "high": 298.0,
+        "low": 271.5,
+        "close": null,
+        "volume": 398850.0,
+        "adjclose": null,
+        "dividends": 0.0,
+        "splits": 0.0,
+        "MA5": null,
+        "MA20": null,
+        "MA60": null,
+        "bb_mid": null,
+        "bb_up": null,
+        "bb_dn": null,
+        "DIF": -13.689611933217009,
+        "DEA": -12.837016800173714,
+        "HIST": -1.7051902660865892,
+        "volume_lot": 398.85
       }
     ]
   }

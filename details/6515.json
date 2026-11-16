@@ -1,11 +1,11 @@
 {
   "id": "6515",
   "name": "穎崴",
-  "lastUpdated": "2026-11-15 22:27:01",
+  "lastUpdated": "2026-11-17 00:40:11",
   "basicInfo": {
-    "price": "4115.00",
-    "change": "140.00",
-    "changePercent": "3.52%"
+    "price": "3705.00",
+    "change": "-410.00",
+    "changePercent": "-9.96%"
   },
   "status": "🟡 FLU",
   "themes": [
@@ -620,10 +620,10 @@
       {
         "period": "2026Q3",
         "deadline": "2026-11-14",
-        "price_basis": "asof往前3日(暫代)",
-        "avg_close_3d": 4060.0,
+        "price_basis": "公告後3日",
+        "avg_close_3d": 3705.0,
         "ttm_eps": 80.32,
-        "pe": 50.54780876494024
+        "pe": 46.12798804780877
       },
       {
         "period": "2026Q2",
@@ -692,6 +692,14 @@
       }
     ],
     "chips_table": [
+      {
+        "date": "2026-11-16",
+        "foreign_lots": 0.07,
+        "it_lots": -4.0,
+        "dealer_lots": 12.165000000000001,
+        "sum_lots": 8.235000000000001,
+        "pct_float": 0.0022574817633303824
+      },
       {
         "date": "2026-11-13",
         "foreign_lots": -80.04,
@@ -803,14 +811,6 @@
         "dealer_lots": 0.248,
         "sum_lots": 214.808,
         "pct_float": 0.05888587038463542
-      },
-      {
-        "date": "2026-10-22",
-        "foreign_lots": -46.949,
-        "it_lots": -17.0,
-        "dealer_lots": -0.1409999999999999,
-        "sum_lots": -64.09,
-        "pct_float": -0.017569156795609494
       }
     ],
     "c_score_data": {
@@ -818,7 +818,7 @@
       "dataset": "structure_c_score",
       "stock_id": "6515",
       "ticker": "6515.TW",
-      "asof": "2026-11-13",
+      "asof": "2026-11-16",
       "c_score": 1.3809566868771341,
       "benchmark_pe": 125.37140332855262,
       "source": [
@@ -1094,14 +1094,14 @@
         },
         {
           "period": "2021Q4",
-          "avg_price": 392.38235294117646,
+          "avg_price": 393.07575757575756,
           "eps": 7.0,
           "revenue_q": 3.38367,
-          "pe_ratio": 56.054621848739494,
+          "pe_ratio": 56.15367965367965,
           "rev_growth": null,
           "eps_growth": null,
           "rt_weight": 1.0,
-          "deviation": 0.447108514067126,
+          "deviation": 0.4478986288964269,
           "theo_price": 877.5998232998684
         }
       ],
@@ -1122,7 +1122,7 @@
       },
       {
         "year": 2025,
-        "return_pct": 165.63928366605958,
+        "return_pct": 165.6392531115082,
         "period": "01/02~12/31"
       },
       {
@@ -1137,7 +1137,7 @@
       },
       {
         "year": 2022,
-        "return_pct": 0.5920620771013185,
+        "return_pct": 0.5920463641839069,
         "period": "01/03~12/30"
       }
     ],
@@ -2038,27 +2038,6 @@
     ],
     "facilities_data": [],
     "kline_data": [
-      {
-        "date": "2026-05-22",
-        "symbol": "6515.TW",
-        "open": 9590.0,
-        "high": 9700.0,
-        "low": 8615.0,
-        "close": 8700.0,
-        "volume": 715641.0,
-        "adjclose": 8636.138671875,
-        "dividends": 0.0,
-        "MA5": 9404.0,
-        "MA20": 9898.75,
-        "MA60": 8172.5,
-        "bb_mid": 9898.75,
-        "bb_up": 10826.380718551276,
-        "bb_dn": 8971.119281448724,
-        "DIF": 114.69301811633704,
-        "DEA": 361.4268724510448,
-        "HIST": -493.4677086694155,
-        "volume_lot": 715.641
-      },
       {
         "date": "2026-05-25",
         "symbol": "6515.TW",
@@ -4557,6 +4536,27 @@
         "DEA": -514.6747631324638,
         "HIST": 60.34884186777799,
         "volume_lot": 581.332
+      },
+      {
+        "date": "2026-11-16",
+        "symbol": "6515.TW",
+        "open": 4085.0,
+        "high": 4085.0,
+        "low": 3705.0,
+        "close": null,
+        "volume": 421422.0,
+        "adjclose": null,
+        "dividends": 0.0,
+        "MA5": null,
+        "MA20": null,
+        "MA60": null,
+        "bb_mid": null,
+        "bb_up": null,
+        "bb_dn": null,
+        "DIF": -484.5003421985748,
+        "DEA": -508.639878945686,
+        "HIST": 48.279073494222416,
+        "volume_lot": 421.422
       }
     ],
     "valuation": {
