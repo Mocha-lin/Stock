@@ -1,8 +1,8 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-15T19:09:37.967283+00:00
+> 更新時間：2026-11-16T02:34:25.162602+00:00
 
 ### 🚀 Sino-American Silicon Products posts record revenue in first three quarters of 2026 on AI, energy demand
-- **題材**: `HBM記憶體` | **重要性**: `83`
+- **題材**: `HBM記憶體` | **重要性**: `78`
 - **來源**: Digitimes (2026-11-09T01:50:38Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Sino-American Silicon Products (SAS) is focusing on computing power and electricity, as construction of artificial intelligence (AI) data centers accelerates, demand for high-bandwidth memory (HBM) surges, and the global energy transition continues to advance…
@@ -110,6 +110,16 @@ The post GlobalFoundries posts record gross margin as optical networking takes c
 
 ---
 
+### 🚀 TSMC signs seven-year deal with Xintec to expand CoWoS packaging
+- **題材**: `半導體先進製程` | **重要性**: `65`
+- **來源**: Crypto Briefing (2026-11-13T12:08:53Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: TSMC's strategic expansion with Xintec highlights the growing demand for advanced chip packaging, underscoring long-term industry reliance on CoWoS.
+The post TSMC signs seven-year deal with Xintec to expand CoWoS packaging appeared first on Crypto Briefing.
+- [原文連結](https://cryptobriefing.com/tsmc-xintec-seven-year-cowos-deal/)
+
+---
+
 ### ⚠️ Jensen Huang and the decline of the visionary showman founder CEO
 - **題材**: `AI伺服器` | **重要性**: `63`
 - **來源**: The Verge (2026-11-14T01:34:37Z)
@@ -125,15 +135,6 @@ The post GlobalFoundries posts record gross margin as optical networking takes c
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Intel has fallen noticeably behind rivals including Nvidia and AMD in the generative AI boom. Rather than concentrating all its resources on catching current market leaders, the company is pursuing quantum computing, neuromorphic computing, silicon photonics,…
 - [原文連結](https://www.digitimes.com/news/a20261110PD225/intel-quantum-computing-chips-technology.html)
-
----
-
-### ⚖️ Samsung, SK Hynix, Micron forge rare alliance to pave way for unmanned chip fabs
-- **題材**: `HBM記憶體` | **重要性**: `63`
-- **來源**: Digitimes (2026-11-09T06:51:32Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Samsung Electronics, SK Hynix and Micron are reportedly collaborating on charging standards for mobile robots used in semiconductor fabs, seeking to accelerate factory automation and lay the groundwork for unmanned manufacturing. The initiative is unusual as …
-- [原文連結](https://www.digitimes.com/news/a20261109PD252/sk-hynix-samsung-micron-ic-manufacturing-robot.html)
 
 ---
 
@@ -173,12 +174,12 @@ The post GlobalFoundries posts record gross margin as optical networking takes c
 
 ---
 
-### ⚠️ Howard Lutnick's friendship with Trump may not save him from Nvidia scrutiny
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-11-13T00:55:10Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: President Donald Trump is again facing pressure over his Commerce secretary and longtime friend Howard Lutnick as the department and its leaders face mounting bipartisan criticism in the wake of the Nvidia scandal, according to multiple current and former off…
-- [原文連結](https://www.yahoo.com/news/politics/articles/lutnick-longtime-friendship-trump-may-005510690.html)
+### ⚠️ The company that makes your RAM says 2027 will be the worst shortage in history
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: MakeUseOf (2026-11-12T18:30:17Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: TeamGroup's CEO warns that we're reaching a point where "money can't even buy goods."
+- [原文連結](https://www.makeuseof.com/2027-will-be-worst-ram-shortage-in-history/)
 
 ---
 

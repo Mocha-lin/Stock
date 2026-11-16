@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-11-15T19:09:37.967283+00:00",
+  "generated_at": "2026-11-16T02:34:25.162602+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 70,
@@ -17,7 +17,7 @@
       "source": "Digitimes",
       "domain": "digitimes.com",
       "published_at": "2026-11-09T01:50:38Z",
-      "importance": 83,
+      "importance": 78,
       "impact": "positive",
       "timeframe": "short_to_mid_term",
       "tags": [
@@ -450,6 +450,44 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "ed53cd2eef7d5348",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "TSMC signs seven-year deal with Xintec to expand CoWoS packaging",
+      "summary": "TSMC's strategic expansion with Xintec highlights the growing demand for advanced chip packaging, underscoring long-term industry reliance on CoWoS.\nThe post TSMC signs seven-year deal with Xintec to expand CoWoS packaging appeared first on Crypto Briefing.",
+      "original_title": "TSMC signs seven-year deal with Xintec to expand CoWoS packaging",
+      "url": "https://cryptobriefing.com/tsmc-xintec-seven-year-cowos-deal/",
+      "source": "Crypto Briefing",
+      "domain": "cryptobriefing.com",
+      "published_at": "2026-11-13T12:08:53Z",
+      "importance": 65,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "9b10af977841c689",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -524,41 +562,6 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "07f526c3eade89f4",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "Samsung, SK Hynix, Micron forge rare alliance to pave way for unmanned chip fabs",
-      "summary": "Samsung Electronics, SK Hynix and Micron are reportedly collaborating on charging standards for mobile robots used in semiconductor fabs, seeking to accelerate factory automation and lay the groundwork for unmanned manufacturing. The initiative is unusual as …",
-      "original_title": "Samsung, SK Hynix, Micron forge rare alliance to pave way for unmanned chip fabs",
-      "url": "https://www.digitimes.com/news/a20261109PD252/sk-hynix-samsung-micron-ic-manufacturing-robot.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-11-09T06:51:32Z",
-      "importance": 63,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "99f3340f36610258",
@@ -711,44 +714,6 @@
         "010"
       ],
       "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "bfc88be3ac60acdf",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Howard Lutnick's friendship with Trump may not save him from Nvidia scrutiny",
-      "summary": "President Donald Trump is again facing pressure over his Commerce secretary and longtime friend Howard Lutnick as the department and its leaders face mounting bipartisan criticism in the wake of the Nvidia scandal, according to multiple current and former off…",
-      "original_title": "Howard Lutnick's friendship with Trump may not save him from Nvidia scrutiny",
-      "url": "https://www.yahoo.com/news/politics/articles/lutnick-longtime-friendship-trump-may-005510690.html",
-      "source": "Yahoo Entertainment",
-      "domain": "yahoo.com",
-      "published_at": "2026-11-13T00:55:10Z",
-      "importance": 60,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "91dd1fc9bc1dea94",
@@ -1087,17 +1052,52 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "efdb0af0fbc1069d",
+      "id": "897b9f3e83d338d3",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "Court denies motion to dismiss DRAM price fixing case",
+      "summary": "Judge Noël Wise found buyers plausibly alleged a conspiracy to restrict conventional memory chip supply, distinguishing the Ninth Circuit's 2022 DRAM II ruling.",
+      "original_title": "Court denies motion to dismiss DRAM price fixing case",
+      "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
+      "source": "Litnews.ai",
+      "domain": "litnews.ai",
+      "published_at": "2026-11-15T01:18:36Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "ae6717110713fabe",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "總體風險",
-      "title": "Fuel crisis and protests pressure Chile's far-right president",
-      "summary": "Chile's far-right President José Antonio Kast is facing mounting public anger, as rising fuel prices trigger transport strikes and protests across the country.",
-      "original_title": "Fuel crisis and protests pressure Chile's far-right president",
-      "url": "https://www.npr.org/2026/11/14/nx-s1-6040144/chile-protests-fuel-kast-students",
-      "source": "NPR",
-      "domain": "npr.org",
-      "published_at": "2026-11-14T16:05:12Z",
+      "title": "Bitcoin Plummets 24% in 46 Days as Crypto Falls on Rising Inflation",
+      "summary": "October 3: $84,680\nToday: $64,108 \nBitcoin dropped 24.2% in 46 days. And it \"fell more than 4% on Friday to $68,500,\" reports Fortune, \"wiping out gains built over the past three months and casting doubt on whether its bear market was ever really over.\"\n\nThe …",
+      "original_title": "Bitcoin Plummets 24% in 46 Days as Crypto Falls on Rising Inflation",
+      "url": "https://slashdot.org/story/26/11/15/0050236/bitcoin-plummets-24-in-46-days-as-crypto-falls-on-rising-inflation",
+      "source": "Slashdot.org",
+      "domain": "slashdot.org",
+      "published_at": "2026-11-15T00:52:00Z",
       "importance": 55,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -1388,32 +1388,32 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "f2c5679e3ab5ceae",
+      "id": "bfc88be3ac60acdf",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "BSc High Protein Powder Vanilla 800g $39.95 ($35.95 Sub & Save) + Delivery ($0 with Prime/$59 Spend) @ Amazon AU",
-      "summary": "Features: HASTA tested for purity and safety 5 x Digestive Enzymes to aid in a healthy gut Fast and Slow protein blend Ideal protein blend to improve muscle repair and build …",
-      "original_title": "BSc High Protein Powder Vanilla 800g $39.95 ($35.95 Sub & Save) + Delivery ($0 with Prime/$59 Spend) @ Amazon AU",
-      "url": "https://www.ozbargain.com.au/node/982912",
-      "source": "Ozbargain.com.au",
-      "domain": "ozbargain.com.au",
-      "published_at": "2026-11-13T01:17:23Z",
+      "theme": "AI伺服器",
+      "title": "Howard Lutnick's friendship with Trump may not save him from Nvidia scrutiny",
+      "summary": "President Donald Trump is again facing pressure over his Commerce secretary and longtime friend Howard Lutnick as the department and its leaders face mounting bipartisan criticism in the wake of the Nvidia scandal, according to multiple current and former off…",
+      "original_title": "Howard Lutnick's friendship with Trump may not save him from Nvidia scrutiny",
+      "url": "https://www.yahoo.com/news/politics/articles/lutnick-longtime-friendship-trump-may-005510690.html",
+      "source": "Yahoo Entertainment",
+      "domain": "yahoo.com",
+      "published_at": "2026-11-13T00:55:10Z",
       "importance": 55,
-      "impact": "neutral",
+      "impact": "negative",
       "timeframe": "short_term",
       "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
+        "AI",
+        "伺服器",
+        "資料中心"
       ],
       "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
       ],
       "related_models": [
         "003",
@@ -1423,7 +1423,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "f345e9007d6b36f5",
@@ -1768,6 +1768,44 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "f2c5679e3ab5ceae",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "BSc High Protein Powder Vanilla 800g $39.95 ($35.95 Sub & Save) + Delivery ($0 with Prime/$59 Spend) @ Amazon AU",
+      "summary": "Features: HASTA tested for purity and safety 5 x Digestive Enzymes to aid in a healthy gut Fast and Slow protein blend Ideal protein blend to improve muscle repair and build …",
+      "original_title": "BSc High Protein Powder Vanilla 800g $39.95 ($35.95 Sub & Save) + Delivery ($0 with Prime/$59 Spend) @ Amazon AU",
+      "url": "https://www.ozbargain.com.au/node/982912",
+      "source": "Ozbargain.com.au",
+      "domain": "ozbargain.com.au",
+      "published_at": "2026-11-13T01:17:23Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "088b25e9e337fe39",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1779,6 +1817,44 @@
       "source": "Rolling Stone",
       "domain": "rollingstone.com",
       "published_at": "2026-11-12T15:49:39Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "fd4d07d9515ca161",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "71 Random Yet Fascinating Photos That Prove The World Is Full Of Surprises (New Pics)",
+      "summary": "Most of us spend years in school learning about the world. But there's so much more to discover long after we leave the classroom. And while adult life doesn't always leave us with time to sit down and read, sometimes a single picture can teach us something w…",
+      "original_title": "71 Random Yet Fascinating Photos That Prove The World Is Full Of Surprises (New Pics)",
+      "url": "https://www.boredpanda.com/interesting-pics-internet-favorites/",
+      "source": "Boredpanda.com",
+      "domain": "boredpanda.com",
+      "published_at": "2026-11-12T04:03:37Z",
       "importance": 50,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -2332,6 +2408,44 @@
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "c858f1f43053ff7d",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "The AI Chip Boom Has a Hidden Beneficiary. Here’s Where Its Stock Could Be by 2030",
+      "summary": "The post The AI Chip Boom Has a Hidden Beneficiary. Here’s Where Its Stock Could Be by 2030 appeared first on 24/7 Wall St..\nCredo (NASDAQ:CRDO) makes the connections that let AI chips talk to each other. Its active electrical cables, optical DSPs and silicon…",
+      "original_title": "The AI Chip Boom Has a Hidden Beneficiary. Here’s Where Its Stock Could Be by 2030",
+      "url": "https://biztoc.com/x/2545c57505853089",
+      "source": "Biztoc.com",
+      "domain": "biztoc.com",
+      "published_at": "2026-11-09T15:09:22Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "a1c187b10385c2c2",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2486,82 +2600,6 @@
       "source": "Cool Hunting",
       "domain": "coolhunting.com",
       "published_at": "2026-11-09T00:31:16Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "390780225433928c",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "2024 Porsche 718 Cayman GT4 RS Weissach",
-      "summary": "This black-over-black 2024 Porsche 718 Cayman GT4 RS is equipped with the Weissach Package and has 3,700 miles. Power comes from a 4.0-liter flat-six paired with a seven-speed PDK dual-clutch automatic transaxle, and equipment includes a swan-neck rear wing, …",
-      "original_title": "2024 Porsche 718 Cayman GT4 RS Weissach",
-      "url": "https://bringatrailer.com/listing/2024-porsche-718-cayman-gt4-rs-30/",
-      "source": "Bringatrailer.com",
-      "domain": "bringatrailer.com",
-      "published_at": "2026-11-08T18:23:48Z",
-      "importance": 50,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "31613f3cc7c66047",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "This Canceled 2010s Fantasy Series Deserved More Time To Flesh Out Its Ambitious Premise",
-      "summary": "This teen fantasy series is a relic of the old CW in the 2010s, and it might've really taken off if it hadn't been cut down after just one season.",
-      "original_title": "This Canceled 2010s Fantasy Series Deserved More Time To Flesh Out Its Ambitious Premise",
-      "url": "https://www.slashfilm.com/2296847/the-secret-circle-canceled-2010s-fantasy-series/",
-      "source": "/FILM",
-      "domain": "slashfilm.com",
-      "published_at": "2026-11-08T18:00:00Z",
       "importance": 45,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -2587,44 +2625,6 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "2522a2dc3c2d8d68",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "NVIDIA’s new laptop chip has a partner you might not expect",
-      "summary": "NVIDIA and MediaTek co-developed the technology behind RTX Spark, and MediaTek identifies TSMC as its manufacturing partner for the project. NVIDIA brings the RTX graphics and AI platform. MediaTek contributes CPU, memory, power and connectivity engineering. …",
-      "original_title": "NVIDIA’s new laptop chip has a partner you might not expect",
-      "url": "https://the-gadgeteer.com/2026/11/07/nvidias-new-laptop-chip-has-a-partner-you-might-not-expect/",
-      "source": "The Gadgeteer",
-      "domain": "the-gadgeteer.com",
-      "published_at": "2026-11-08T02:30:00Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     }
   ]
 }
