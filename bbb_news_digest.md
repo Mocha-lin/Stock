@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-16T19:18:11.755431+00:00
+> 更新時間：2026-11-16T22:35:24.192362+00:00
 
 ### 🚀 GlobalFoundries posts record gross margin as optical networking takes center stage
 - **題材**: `光通訊與矽光子` | **重要性**: `75`
@@ -146,16 +146,6 @@ The post GlobalFoundries posts record gross margin as optical networking takes c
 
 ---
 
-### ⚖️ Heads Into An $82.1 Billion All Stock Takeover
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: Biztoc.com (2026-11-15T09:39:35Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Lumentum Holdings (NasdaqGS:LITE) agreed to be acquired by Marvell Technology in an all stock transaction valued at $82.1b.
-- Both boards unanimously approved a definitive merger agreement that aims to combine silicon photonics and compound semiconductor oper…
-- [原文連結](https://biztoc.com/x/2ee8d5ab98c5a7a3)
-
----
-
 ### ⚖️ How Much Does It Cost To Build A Data Center?
 - **題材**: `AI伺服器` | **重要性**: `60`
 - **來源**: BGR (2026-11-14T16:17:00Z)
@@ -165,21 +155,30 @@ The post GlobalFoundries posts record gross margin as optical networking takes c
 
 ---
 
-### ⚖️ Chinese AI labs are training models on Nvidia's Blackwell despite export controls, says ex-OpenAI engineer
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: Theregister.com (2026-11-13T21:16:22Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Forensic report finds Blackwell's fingerprint in DeepSeek, Moonshot AI, MiniMax and Ant Group models
-- [原文連結](https://www.theregister.com/ai-and-ml/2026/11/13/chinese-ai-labs-are-training-models-on-nvidias-blackwell-despite-export-controls-says-ex-openai-engineer/5309891)
-
----
-
 ### ⚠️ The company that makes your RAM says 2027 will be the worst shortage in history
 - **題材**: `HBM記憶體` | **重要性**: `60`
 - **來源**: MakeUseOf (2026-11-12T18:30:17Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: TeamGroup's CEO warns that we're reaching a point where "money can't even buy goods."
 - [原文連結](https://www.makeuseof.com/2027-will-be-worst-ram-shortage-in-history/)
+
+---
+
+### ⚠️ Mexico's president rebuts Trump's migrant caravan claims as he threatens new tariffs
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-11-12T16:05:49Z)
+- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: MEXICO CITY (AP) — Mexican President Claudia Sheinbaum said Thursday that no migrant caravans have reached the U.S. border since U.S. President Donald Trump returned to office in 2025, responding to his threat to double tariffs on Mexican goods unless Mexico …
+- [原文連結](https://www.yahoo.com/news/us/articles/sheinbaum-rebuts-trump-says-no-160549220.html)
+
+---
+
+### 🚀 AMD plans equity investment in PsiQuantum to develop utility-scale quantum computers
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: BusinessLine (2026-11-12T13:09:19Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: The expanded partnership will combine AMD’s computing technologies with PsiQuantum’s silicon photonics platform to advance quantum computing and drug discovery
+- [原文連結](https://www.thehindubusinessline.com/info-tech/amd-plans-equity-investment-in-psiquantum-to-develop-utility-scale-quantum-computers/article71693912.ece)
 
 ---
 
