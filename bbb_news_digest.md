@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-17T04:57:44.019011+00:00
+> 更新時間：2026-11-17T08:41:11.834073+00:00
 
 ### 🚀 Taiwanese engineering company Yankey holds NT$57.1 billion orders, Kumamoto wafer fab project to boost 2027 revenue
 - **題材**: `半導體先進製程` | **重要性**: `73`
