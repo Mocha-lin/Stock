@@ -1,14 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-17T18:11:42.061279+00:00
-
-### 🚀 Taiwanese engineering company Yankey holds NT$57.1 billion orders, Kumamoto wafer fab project to boost 2027 revenue
-- **題材**: `半導體先進製程` | **重要性**: `73`
-- **來源**: Digitimes (2026-11-10T01:21:41Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Yankey Engineering’s order backlog reached a record NT$57.1 billion (US$1.74 billion) as of the end of September, with its subcontracting project for the second wafer fab in Kumamoto, Japan, expected to contribute revenue from 2027. The company said strong gl…
-- [原文連結](https://www.digitimes.com/news/a20261109PD208/revenue-2027-kumamoto-wafer-fab.html)
-
----
+> 更新時間：2026-11-17T21:24:42.938129+00:00
 
 ### 🚀 GlobalFoundries posts record gross margin as optical networking takes center stage
 - **題材**: `光通訊與矽光子` | **重要性**: `70`
@@ -44,6 +35,15 @@ The post GlobalFoundries posts record gross margin as optical networking takes c
 - **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Samsung Electronics and SK Hynix face uncertainty over demand for high-bandwidth memory (HBM) as US lawmakers press for tighter controls on AI chip exports to China following allegations involving Nvidia CEO Jensen Huang.
 - [原文連結](https://www.digitimes.com/news/a20261110VL203/nvidia-samsung-investigation-sk-hynix-ceo.html)
+
+---
+
+### 🚀 Nvidia announces Rubin HPC GPU with 'record number of CUDA cores' at Supercomputing 2026
+- **題材**: `AI伺服器` | **重要性**: `67`
+- **來源**: Tom's Hardware UK (2026-11-16T19:05:24Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Nvidia took the wraps off its Rubin HPC GPU at Supercomputing 2026. This new GPU will give scientists, engineers, and analysts over 50,000 CUDA cores to speed up agentic HPC workloads when it arrives in 2028.
+- [原文連結](https://www.tomshardware.com/pc-components/gpus/nvidia-announces-rubin-hpc-gpu-with-record-number-of-cuda-cores-at-supercomputing-2026-new-chip-accelerates-agentic-hpc-workloads-arrives-in-2028)
 
 ---
 
