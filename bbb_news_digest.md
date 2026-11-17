@@ -1,31 +1,22 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-16T22:35:24.192362+00:00
+> 更新時間：2026-11-17T04:57:44.019011+00:00
+
+### 🚀 Taiwanese engineering company Yankey holds NT$57.1 billion orders, Kumamoto wafer fab project to boost 2027 revenue
+- **題材**: `半導體先進製程` | **重要性**: `73`
+- **來源**: Digitimes (2026-11-10T01:21:41Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Yankey Engineering’s order backlog reached a record NT$57.1 billion (US$1.74 billion) as of the end of September, with its subcontracting project for the second wafer fab in Kumamoto, Japan, expected to contribute revenue from 2027. The company said strong gl…
+- [原文連結](https://www.digitimes.com/news/a20261109PD208/revenue-2027-kumamoto-wafer-fab.html)
+
+---
 
 ### 🚀 GlobalFoundries posts record gross margin as optical networking takes center stage
-- **題材**: `光通訊與矽光子` | **重要性**: `75`
+- **題材**: `光通訊與矽光子` | **重要性**: `70`
 - **來源**: Crypto Briefing (2026-11-14T02:19:57Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: GlobalFoundries' strategic pivot to optical networking and AI data centers signals a transformative shift in semiconductor industry dynamics.
 The post GlobalFoundries posts record gross margin as optical networking takes center stage appeared first on Crypto …
 - [原文連結](https://cryptobriefing.com/globalfoundries-record-margin-optical-networking/)
-
----
-
-### ⚖️ Nvidia, SPIL target CPO volume shipments in 2027
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-11-10T03:41:37Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: AI infrastructure investment is accelerating the shift toward optical connectivity, as rising data-center traffic exposes the power and bandwidth limits of conventional electrical signals. Nvidia and ASE's SPIL are expanding the supply of optical engines for …
-- [原文連結](https://www.digitimes.com/news/a20261110PD223/cpo-spil-nvidia-infrastructure-investment.html)
-
----
-
-### ⚠️ Nvidia probe fuels push for China chip curbs, raising risks for Samsung, SK Hynix
-- **題材**: `HBM記憶體` | **重要性**: `73`
-- **來源**: Digitimes (2026-11-10T03:20:55Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Samsung Electronics and SK Hynix face uncertainty over demand for high-bandwidth memory (HBM) as US lawmakers press for tighter controls on AI chip exports to China following allegations involving Nvidia CEO Jensen Huang.
-- [原文連結](https://www.digitimes.com/news/a20261110VL203/nvidia-samsung-investigation-sk-hynix-ceo.html)
 
 ---
 
@@ -38,39 +29,21 @@ The post GlobalFoundries posts record gross margin as optical networking takes c
 
 ---
 
-### ⚖️ Taiwan's GIS targets 800G/1.6T AI optics, with laser packaging ramp-up starting 4Q26
+### ⚖️ Nvidia, SPIL target CPO volume shipments in 2027
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-11-10T04:21:06Z)
+- **來源**: Digitimes (2026-11-10T03:41:37Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: GIS is shifting from touch displays to semiconductor optics, with laser packaging entering small-volume production in the fourth quarter of 2026 and full capacity expected by the second or third quarter of 2027. Chairman Hsien-ying Chou said production lines …
-- [原文連結](https://www.digitimes.com/news/a20261110PD226/gis-optics-laser-packaging-taiwan.html)
+- **摘要**: AI infrastructure investment is accelerating the shift toward optical connectivity, as rising data-center traffic exposes the power and bandwidth limits of conventional electrical signals. Nvidia and ASE's SPIL are expanding the supply of optical engines for …
+- [原文連結](https://www.digitimes.com/news/a20261110PD223/cpo-spil-nvidia-infrastructure-investment.html)
 
 ---
 
-### ⚖️ Intel targets silicon photonics, in-memory computing beyond GPUs
-- **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-11-10T01:21:36Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: As the global semiconductor industry continues to focus on Nvidia, Intel is looking beyond GPUs to determine where next-generation computing architectures will go. In an interview with Japanese publication PC Watch, Intel chief technology officer Pushkar Rana…
-- [原文連結](https://www.digitimes.com/news/a20261109PD207/intel-photonics-silicon-in-memory-computing-technology.html)
-
----
-
-### 🚀 Paras Semiconductors teams with US-based BroadPak on advanced packaging plant in India
-- **題材**: `半導體先進製程` | **重要性**: `68`
-- **來源**: Digitimes (2026-11-09T06:53:51Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Paras Semiconductors, a subsidiary of Indian defense company Paras Defence & Space Technologies, announced a strategic technology partnership with US-based BroadPak Corporation on November 6 to build advanced semiconductor packaging capabilities in India, anc…
-- [原文連結](https://www.digitimes.com/news/a20261109VL209/packaging-plant-subsidiary-technology-incentives.html)
-
----
-
-### ⚖️ Surging AI demand turns CoWoS into a headache; securing packaging capacity becomes top priority, says MediaTek deputy GM
-- **題材**: `半導體先進製程` | **重要性**: `68`
-- **來源**: Digitimes (2026-11-09T03:25:11Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Surging demand for advanced packaging driven by artificial intelligence (AI) has turned chip-on-wafer-on-substrate (CoWoS) from an "interesting" technology into a headache, making it an urgent priority for MediaTek to secure wafer, packaging, and substrate ca…
-- [原文連結](https://www.digitimes.com/news/a20261108PD200/mediatek-cowos-packaging-demand-capacity.html)
+### ⚠️ Nvidia probe fuels push for China chip curbs, raising risks for Samsung, SK Hynix
+- **題材**: `HBM記憶體` | **重要性**: `68`
+- **來源**: Digitimes (2026-11-10T03:20:55Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Samsung Electronics and SK Hynix face uncertainty over demand for high-bandwidth memory (HBM) as US lawmakers press for tighter controls on AI chip exports to China following allegations involving Nvidia CEO Jensen Huang.
+- [原文連結](https://www.digitimes.com/news/a20261110VL203/nvidia-samsung-investigation-sk-hynix-ceo.html)
 
 ---
 
@@ -92,6 +65,15 @@ The post GlobalFoundries posts record gross margin as optical networking takes c
 
 ---
 
+### ⚖️ SK hynix Bets on HBM4 Demand Beyond NVIDIA With New Equipment Orders
+- **題材**: `HBM記憶體` | **重要性**: `65`
+- **來源**: Techpowerup.com (2026-11-15T16:37:03Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: SK hynix reportedly plans to add at least 20,000 wafers per month of HBM capacity. According to Korea's Electronic Times (ETNews), the company is in talks with equipment suppliers over a fresh round of HBM4 orders, mostly back-end tools for bonding, dicing, a…
+- [原文連結](https://www.techpowerup.com/354861/sk-hynix-bets-on-hbm4-demand-beyond-nvidia-with-new-equipment-orders)
+
+---
+
 ### ⚠️ Jensen Huang Admitted He Was Facing an "Avalanche" of Excess Wafers and Memory
 - **題材**: `半導體先進製程` | **重要性**: `65`
 - **來源**: Respawnfirst.com (2026-11-13T13:08:48Z)
@@ -101,21 +83,39 @@ The post GlobalFoundries posts record gross margin as optical networking takes c
 
 ---
 
-### ⚠️ Jensen Huang and the decline of the visionary showman founder CEO
-- **題材**: `AI伺服器` | **重要性**: `63`
-- **來源**: The Verge (2026-11-14T01:34:37Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and cheers of a 14,000-person arena absolutely packed with influencers and fans, their faces awash in blue glow…
-- [原文連結](https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo)
+### ⚖️ TSMC to invest up to $1 billion in Anthropic, OpenAI
+- **題材**: `半導體先進製程` | **重要性**: `65`
+- **來源**: BusinessLine (2026-11-11T04:56:06Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Board also clears $40.93 billion capex and Q3 results with $45.50 billion revenue; Anthropic IPO roadshow seeks $64.35 billion
+- [原文連結](https://www.thehindubusinessline.com/info-tech/tsmc-to-invest-up-to-1-billion-in-anthropic-openai/article71688330.ece)
 
 ---
 
-### ⚖️ Intel looks beyond 18A and 14A to reshape computing
+### ⚖️ Taiwan's GIS targets 800G/1.6T AI optics, with laser packaging ramp-up starting 4Q26
 - **題材**: `光通訊與矽光子` | **重要性**: `63`
-- **來源**: Digitimes (2026-11-10T04:21:43Z)
+- **來源**: Digitimes (2026-11-10T04:21:06Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Intel has fallen noticeably behind rivals including Nvidia and AMD in the generative AI boom. Rather than concentrating all its resources on catching current market leaders, the company is pursuing quantum computing, neuromorphic computing, silicon photonics,…
-- [原文連結](https://www.digitimes.com/news/a20261110PD225/intel-quantum-computing-chips-technology.html)
+- **摘要**: GIS is shifting from touch displays to semiconductor optics, with laser packaging entering small-volume production in the fourth quarter of 2026 and full capacity expected by the second or third quarter of 2027. Chairman Hsien-ying Chou said production lines …
+- [原文連結](https://www.digitimes.com/news/a20261110PD226/gis-optics-laser-packaging-taiwan.html)
+
+---
+
+### ⚖️ Intel targets silicon photonics, in-memory computing beyond GPUs
+- **題材**: `光通訊與矽光子` | **重要性**: `63`
+- **來源**: Digitimes (2026-11-10T01:21:36Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: As the global semiconductor industry continues to focus on Nvidia, Intel is looking beyond GPUs to determine where next-generation computing architectures will go. In an interview with Japanese publication PC Watch, Intel chief technology officer Pushkar Rana…
+- [原文連結](https://www.digitimes.com/news/a20261109PD207/intel-photonics-silicon-in-memory-computing-technology.html)
+
+---
+
+### ⚖️ Hanwha Semitech taps new CEO as chip equipment sales more than double in 3Q26
+- **題材**: `HBM記憶體` | **重要性**: `63`
+- **來源**: Digitimes (2026-11-10T01:18:58Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Hanwha Semitech has named chief business officer Kim Jin-woo as its incoming CEO after semiconductor equipment revenue more than doubled in the third quarter of 2026. The South Korean company announced the appointment on November 9 as it moves to expand its h…
+- [原文連結](https://www.digitimes.com/news/a20261109VL232/hanwha-ceo-equipment-sales-business.html)
 
 ---
 
@@ -125,6 +125,15 @@ The post GlobalFoundries posts record gross margin as optical networking takes c
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: SpaceX is reportedly developing a 'Kessel' rack-scale system design with 72 Nvidia Rubin GPUs that relies on a massive 84-layer PCB midplane.
 - [原文連結](https://www.tomshardware.com/tech-industry/artificial-intelligence/spacex-develops-its-own-kessel-rack-scale-system-featuring-72-nvidia-rubin-gpus-for-data-centers-in-space-report-claims-replaces-conventional-nvlink-cable-assemblies-with-a-massive-84-layer-printed-circuit-board)
+
+---
+
+### 🚀 Yemeni forces' retreat leaves Houthis in control of key Red Sea waterway
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: BBC News (2026-11-16T03:08:31Z)
+- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to defend the interim capital Aden.
+- [原文連結](https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo)
 
 ---
 
@@ -146,6 +155,16 @@ The post GlobalFoundries posts record gross margin as optical networking takes c
 
 ---
 
+### ⚖️ Heads Into An $82.1 Billion All Stock Takeover
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: Biztoc.com (2026-11-15T09:39:35Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Lumentum Holdings (NasdaqGS:LITE) agreed to be acquired by Marvell Technology in an all stock transaction valued at $82.1b.
+- Both boards unanimously approved a definitive merger agreement that aims to combine silicon photonics and compound semiconductor oper…
+- [原文連結](https://biztoc.com/x/2ee8d5ab98c5a7a3)
+
+---
+
 ### ⚖️ How Much Does It Cost To Build A Data Center?
 - **題材**: `AI伺服器` | **重要性**: `60`
 - **來源**: BGR (2026-11-14T16:17:00Z)
@@ -155,30 +174,13 @@ The post GlobalFoundries posts record gross margin as optical networking takes c
 
 ---
 
-### ⚠️ The company that makes your RAM says 2027 will be the worst shortage in history
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: MakeUseOf (2026-11-12T18:30:17Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: TeamGroup's CEO warns that we're reaching a point where "money can't even buy goods."
-- [原文連結](https://www.makeuseof.com/2027-will-be-worst-ram-shortage-in-history/)
-
----
-
-### ⚠️ Mexico's president rebuts Trump's migrant caravan claims as he threatens new tariffs
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-11-12T16:05:49Z)
-- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: MEXICO CITY (AP) — Mexican President Claudia Sheinbaum said Thursday that no migrant caravans have reached the U.S. border since U.S. President Donald Trump returned to office in 2025, responding to his threat to double tariffs on Mexican goods unless Mexico …
-- [原文連結](https://www.yahoo.com/news/us/articles/sheinbaum-rebuts-trump-says-no-160549220.html)
-
----
-
-### 🚀 AMD plans equity investment in PsiQuantum to develop utility-scale quantum computers
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: BusinessLine (2026-11-12T13:09:19Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: The expanded partnership will combine AMD’s computing technologies with PsiQuantum’s silicon photonics platform to advance quantum computing and drug discovery
-- [原文連結](https://www.thehindubusinessline.com/info-tech/amd-plans-equity-investment-in-psiquantum-to-develop-utility-scale-quantum-computers/article71693912.ece)
+### 🚀 TSMC signs seven-year deal with Xintec to expand CoWoS packaging
+- **題材**: `半導體先進製程` | **重要性**: `60`
+- **來源**: Crypto Briefing (2026-11-13T12:08:53Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: TSMC's strategic expansion with Xintec highlights the growing demand for advanced chip packaging, underscoring long-term industry reliance on CoWoS.
+The post TSMC signs seven-year deal with Xintec to expand CoWoS packaging appeared first on Crypto Briefing.
+- [原文連結](https://cryptobriefing.com/tsmc-xintec-seven-year-cowos-deal/)
 
 ---
 
