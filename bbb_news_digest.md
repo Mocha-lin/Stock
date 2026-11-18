@@ -1,5 +1,14 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-18T08:04:46.662637+00:00
+> 更新時間：2026-11-18T17:49:13.551259+00:00
+
+### 🚀 AI server tracker: TSMC, Alchip post big October gains powered by 2nm and ASIC orders
+- **題材**: `半導體先進製程` | **重要性**: `88`
+- **來源**: Digitimes (2026-11-17T08:27:15Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重大事件】可能顯著影響產業評價、EPS預期或資金流向。
+- **摘要**: Taiwan's semiconductor supply chain generally saw strong growth in October, driven mainly by AI and advanced-process demand. TSMC's revenue for that month rose nearly 60% year-over-year, while chip designers are buoyed by large orders from overseas customers.
+- [原文連結](https://www.digitimes.com/news/a20261117VL216/revenue-growth-taiwan-semiconductor-supply-chain-tsmc-2nm.html)
+
+---
 
 ### 🚀 SK Hynix's US revenue tops 60%, exposing Nvidia's growing weight in AI memory sales
 - **題材**: `HBM記憶體` | **重要性**: `83`
@@ -83,15 +92,6 @@ The post GlobalFoundries posts record gross margin as optical networking takes c
 
 ---
 
-### ⚠️ Judge denies motion to dismiss DRAM price-fixing lawsuit against Micron, Samsung, and SK hynix
-- **題材**: `HBM記憶體` | **重要性**: `67`
-- **來源**: Tom's Hardware UK (2026-11-15T15:09:50Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: The judge characterized the three companies as "hawks flying in formation" when it came to their business decisions.
-- [原文連結](https://www.tomshardware.com/tech-industry/big-tech/judge-denies-motion-to-dismiss-dram-price-fixing-lawsuit-against-micron-samsung-and-sk-hynix-says-chipmakers-acted-like-hawks-flying-in-formation-finds-evidence-of-dram-collusion-plausible-after-500-percent-price-surge)
-
----
-
 ### ⚠️ Jensen Huang Admitted He Was Facing an "Avalanche" of Excess Wafers and Memory
 - **題材**: `半導體先進製程` | **重要性**: `65`
 - **來源**: Respawnfirst.com (2026-11-13T13:08:48Z)
@@ -101,21 +101,49 @@ The post GlobalFoundries posts record gross margin as optical networking takes c
 
 ---
 
-### ⚖️ Researchers allege DeepSeek, Kimi, and other Chinese AI models were trained using banned Nvidia Blackwell GPUs
-- **題材**: `AI伺服器` | **重要性**: `62`
-- **來源**: Tom's Hardware UK (2026-11-14T14:50:00Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Researchers pinpoint that DeepSeek, Kimi, and other Chinese AI models were trained on export-controlled Nvidia Blackwell chips — statistical analysis on model weights reveals high correlation to Nvidia hardware
-- [原文連結](https://www.tomshardware.com/tech-industry/artificial-intelligence/researchers-allege-deepseek-kimi-and-other-chinese-ai-models-were-trained-on-export-controlled-nvidia-blackwell-chips-statistical-analysis-on-model-weights-reveals-high-correlation-to-nvidia-hardware)
+### ⚠️ Judge denies motion to dismiss DRAM price-fixing lawsuit against Micron, Samsung, and SK hynix
+- **題材**: `HBM記憶體` | **重要性**: `62`
+- **來源**: Tom's Hardware UK (2026-11-15T15:09:50Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: The judge characterized the three companies as "hawks flying in formation" when it came to their business decisions.
+- [原文連結](https://www.tomshardware.com/tech-industry/big-tech/judge-denies-motion-to-dismiss-dram-price-fixing-lawsuit-against-micron-samsung-and-sk-hynix-says-chipmakers-acted-like-hawks-flying-in-formation-finds-evidence-of-dram-collusion-plausible-after-500-percent-price-surge)
 
 ---
 
-### ⚖️ SpaceX develops its own ‘Kessel’ rack-scale system featuring 72 Nvidia Rubin GPUs for data centers in space, report claims
-- **題材**: `AI伺服器` | **重要性**: `62`
-- **來源**: Tom's Hardware UK (2026-11-11T15:03:08Z)
+### ⚠️ Carney eyes 'other options' for embattled Canadian auto sector on China trip
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: BBC News (2026-11-17T15:17:49Z)
+- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: The PM has suggested Chinese automakers could replace American ones in Canada - but some say that would not be easy.
+- [原文連結](https://www.bbc.co.uk/news/articles/cq98xlz09ye0o)
+
+---
+
+### ⚖️ Apple memory suppliers expect price increases through at least 2030 [U]
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: 9to5Mac (2026-11-17T13:39:13Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Key Apple memory supplier SK Hynix has warned that RAM and flash memory shortages are likely to last through at least 2030, keeping product prices high. Apple is believed to be one of 14 customers who have locked in priority orders, but the contract does not …
+- [原文連結](https://9to5mac.com/2026/11/17/apple-memory-supplier-expects-price-increases-through-at-least-2030/)
+
+---
+
+### ⚖️ Rubin HPC: Nvidia bringt eigene Rubin-GPU für Supercomputer
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: Golem.de (2026-11-17T11:06:01Z)
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: SpaceX is reportedly developing a 'Kessel' rack-scale system design with 72 Nvidia Rubin GPUs that relies on a massive 84-layer PCB midplane.
-- [原文連結](https://www.tomshardware.com/tech-industry/artificial-intelligence/spacex-develops-its-own-kessel-rack-scale-system-featuring-72-nvidia-rubin-gpus-for-data-centers-in-space-report-claims-replaces-conventional-nvlink-cable-assemblies-with-a-massive-84-layer-printed-circuit-board)
+- **摘要**: Nvidias Fokus verschob sich bei Hardware für Rechenzentren zu KI. Supercomputer profitieren davon aber nicht immer. AMD hatte hier vorgelegt. (Supercomputer, Grafikkarten)
+- [原文連結](https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Frubin-hpc-nvidia-bringt-eigene-rubin-gpu-fuer-supercomputer-2611-215305.html&referer=https%3A%2F%2Ft.co%2F398a164cc9)
+
+---
+
+### ⚠️ Judge denies motion to dismiss lawsuit accusing Samsung, SK Hynix and Micron of worsening RAM crisis by fixing memory prices and supply
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: Rock Paper Shotgun (2026-11-17T10:27:30Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: A judge has denied a motion to dismiss a US lawsuit against chip makers Samsung, SK Hynix, and Micron. The suit acccuses the companies of fixing RAM prices and supply, thereby contributing to worsening the effects of the ongoing memory crisis.
+ Read more
+- [原文連結](https://www.rockpapershotgun.com/judge-denies-motion-to-dismiss-lawsuit-accusing-samsung-sk-hynix-and-micron-of-worsening-ram-crisis-by-fixing-memory-prices-and-supply)
 
 ---
 
@@ -137,15 +165,6 @@ The post GlobalFoundries posts record gross margin as optical networking takes c
 
 ---
 
-### ⚖️ Intel Diamond Rapids Xeon Gets Up to 1.6TB/s of Memory Bandwidth and 1.28GB of Cache Across 256 P-Cores
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: Storagereview.com (2026-11-16T15:39:46Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Intel laid out its high-performance computing plans for SC26, with Diamond Rapids, its next-generation Xeon server architecture, at the center. Intel says the platform will scale to 256 performance cores with up to 1.6TB/s of memory bandwidth and up to 1.28GB…
-- [原文連結](https://www.storagereview.com/news/intel-diamond-rapids-1-6tb-s-memory-bandwidth-1-28gb-cache-gpu-d270-sc26)
-
----
-
 ### ⚖️ (PR) Penguin Solutions Unveils Industry's First Photonics-Based HBM-Class Memory Appliance
 - **題材**: `光通訊與矽光子` | **重要性**: `60`
 - **來源**: Techpowerup.com (2026-11-16T14:21:39Z)
@@ -161,24 +180,6 @@ The post GlobalFoundries posts record gross margin as optical networking takes c
 - **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Samsung and two other memory chip manufacturers were sued this past summer. A group of 17 plaintiffs, including small businesses and individual consumers, alleged that Samsung, SK Hynix, and Micron engaged in price-fixing practices in the memory market. Samsu…
 - [原文連結](https://www.sammobile.com/news/judge-denies-motion-to-dismiss-dram-price-fixing-lawsuit-against-samsung-and-two-other-memory-makers/)
-
----
-
-### 🚀 Yemeni forces' retreat leaves Houthis in control of key Red Sea waterway
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: BBC News (2026-11-16T03:08:31Z)
-- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to defend the interim capital Aden.
-- [原文連結](https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo)
-
----
-
-### ⚠️ Samsung, SK hynix, and Micron Fail to Get DRAM Antitrust Suit Dismissed
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: Techpowerup.com (2026-11-15T18:13:01Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: The class-action lawsuit accusing Samsung, SK hynix, and Micron of restricting DRAM supply is moving forward. On November 14, U.S. District Judge Noël Wise of the Northern District of California denied the three companies' joint motion to dismiss, finding the…
-- [原文連結](https://www.techpowerup.com/354863/samsung-sk-hynix-and-micron-fail-to-get-dram-antitrust-suit-dismissed)
 
 ---
 
