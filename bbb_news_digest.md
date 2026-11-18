@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-18T17:49:13.551259+00:00
+> 更新時間：2026-11-18T20:56:43.437287+00:00
 
 ### 🚀 AI server tracker: TSMC, Alchip post big October gains powered by 2nm and ASIC orders
 - **題材**: `半導體先進製程` | **重要性**: `88`
@@ -71,15 +71,6 @@
 - **摘要**: GlobalFoundries' strategic pivot to optical networking and AI data centers signals a transformative shift in semiconductor industry dynamics.
 The post GlobalFoundries posts record gross margin as optical networking takes center stage appeared first on Crypto …
 - [原文連結](https://cryptobriefing.com/globalfoundries-record-margin-optical-networking/)
-
----
-
-### 🚀 Memory price skyrockets as demand for AI data centers drives 369% year-over-year surge
-- **題材**: `HBM記憶體` | **重要性**: `70`
-- **來源**: TechRadar (2026-11-11T20:25:00Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Memory makers aren't selling much more; they're charging much more.
-- [原文連結](https://www.techradar.com/pro/memory-price-skyrockets-as-demand-for-ai-data-centers-drives-369-percent-year-over-year-surge)
 
 ---
 
@@ -180,6 +171,15 @@ The post GlobalFoundries posts record gross margin as optical networking takes c
 - **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Samsung and two other memory chip manufacturers were sued this past summer. A group of 17 plaintiffs, including small businesses and individual consumers, alleged that Samsung, SK Hynix, and Micron engaged in price-fixing practices in the memory market. Samsu…
 - [原文連結](https://www.sammobile.com/news/judge-denies-motion-to-dismiss-dram-price-fixing-lawsuit-against-samsung-and-two-other-memory-makers/)
+
+---
+
+### 🚀 Yemeni forces' retreat leaves Houthis in control of key Red Sea waterway
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: BBC News (2026-11-16T03:08:31Z)
+- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to defend the interim capital Aden.
+- [原文連結](https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo)
 
 ---
 
