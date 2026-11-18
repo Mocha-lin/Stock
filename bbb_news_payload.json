@@ -1,10 +1,45 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-11-18T04:01:48.055023+00:00",
+  "generated_at": "2026-11-18T08:04:46.662637+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 69,
   "items": [
+    {
+      "id": "56549df44b06ab9d",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "SK Hynix's US revenue tops 60%, exposing Nvidia's growing weight in AI memory sales",
+      "summary": "SK Hynix generated more than 60% of its revenue from the US in the first nine months of 2026, with sales to its presumed largest customer, Nvidia, doubling from a year earlier. Strong demand for high-bandwidth memory (HBM) and conventional memory chips has sh…",
+      "original_title": "SK Hynix's US revenue tops 60%, exposing Nvidia's growing weight in AI memory sales",
+      "url": "https://www.digitimes.com/news/a20261117VL211/sk-hynix-memory-nvidia-revenue-sales-2026.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-11-17T04:41:25Z",
+      "importance": 83,
+      "impact": "positive",
+      "timeframe": "short_to_mid_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
     {
       "id": "765bfa937bf38b56",
       "dataset": "market_news",
@@ -20,6 +55,44 @@
       "importance": 78,
       "impact": "neutral",
       "timeframe": "short_to_mid_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
+      "id": "ddee058d67ba6495",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "Daxin aims for semiconductor materials to exceed half of revenue by 2030",
+      "summary": "AI demand for advanced-process and advanced-packaging materials is accelerating Daxin Materials' shift from display materials to broader materials solutions. The Taiwan-based supplier aims for semiconductor materials to account for more than half of its reven…",
+      "original_title": "Daxin aims for semiconductor materials to exceed half of revenue by 2030",
+      "url": "https://www.digitimes.com/news/a20261117PD213/materials-revenue-daxin-demand-2026.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-11-17T04:28:47Z",
+      "importance": 73,
+      "impact": "neutral",
+      "timeframe": "short_term",
       "tags": [
         "半導體",
         "CoWoS",
@@ -603,44 +676,6 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "de2086ea30784457",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "Samsung Electronics to make chips for Musk’s SpaceX in Texas",
-      "summary": "Samsung's chipmaking operations in Texas have secured several clients, with Elon Musk's Tesla being a major client that has already signed a $16.5 billion deal. A new report out of South Korea suggests that Samsung Electronics may also make chips in Texas for…",
-      "original_title": "Samsung Electronics to make chips for Musk’s SpaceX in Texas",
-      "url": "https://www.sammobile.com/news/samsung-electronics-to-make-chips-for-musks-spacex-in-texas/",
-      "source": "SamMobile",
-      "domain": "sammobile.com",
-      "published_at": "2026-11-16T11:26:25Z",
-      "importance": 60,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "6174c783437618db",
@@ -1578,44 +1613,6 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "ccf740dacbbaf0ef",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "Weekly poll: how long do you plan to keep your current phone?",
-      "summary": "Six years ago, we asked you “how often do you change your phone?”. The most common answer back then was once every three years, with once every two years coming in a close second. So, if the statistics hold up, most of you reading this have changed your phone…",
-      "original_title": "Weekly poll: how long do you plan to keep your current phone?",
-      "url": "https://www.gsmarena.com/weekly_poll_how_long_do_you_plan_to_keep_your_current_phone-news-75477.php",
-      "source": "GSMArena.com",
-      "domain": "gsmarena.com",
-      "published_at": "2026-11-15T06:07:02Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "057dd0aba2e2de79",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1894,6 +1891,44 @@
       "domain": "macdailynews.com",
       "published_at": "2026-11-11T18:45:31Z",
       "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "ccf740dacbbaf0ef",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "Weekly poll: how long do you plan to keep your current phone?",
+      "summary": "Six years ago, we asked you “how often do you change your phone?”. The most common answer back then was once every three years, with once every two years coming in a close second. So, if the statistics hold up, most of you reading this have changed your phone…",
+      "original_title": "Weekly poll: how long do you plan to keep your current phone?",
+      "url": "https://www.gsmarena.com/weekly_poll_how_long_do_you_plan_to_keep_your_current_phone-news-75477.php",
+      "source": "GSMArena.com",
+      "domain": "gsmarena.com",
+      "published_at": "2026-11-15T06:07:02Z",
+      "importance": 50,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -2482,41 +2517,6 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "c7b07c374b1190b0",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "College students are lining up at 4:30 a.m. and sprinting for a shot at a job",
-      "summary": "College students are lining up at 4:30 a.m. for career fairs, racing to recruiters' booths. \"Thank god I'm employed,\" one TikToker wrote.",
-      "original_title": "College students are lining up at 4:30 a.m. and sprinting for a shot at a job",
-      "url": "https://www.businessinsider.com/swe-career-fairs-software-engineering-crowds-college-job-market-tough-2026-11#article",
-      "source": "Business Insider",
-      "domain": "businessinsider.com",
-      "published_at": "2026-11-11T10:28:01Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "10380235136cda43",

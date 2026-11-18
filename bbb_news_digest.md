@@ -1,5 +1,14 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-18T04:01:48.055023+00:00
+> 更新時間：2026-11-18T08:04:46.662637+00:00
+
+### 🚀 SK Hynix's US revenue tops 60%, exposing Nvidia's growing weight in AI memory sales
+- **題材**: `HBM記憶體` | **重要性**: `83`
+- **來源**: Digitimes (2026-11-17T04:41:25Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: SK Hynix generated more than 60% of its revenue from the US in the first nine months of 2026, with sales to its presumed largest customer, Nvidia, doubling from a year earlier. Strong demand for high-bandwidth memory (HBM) and conventional memory chips has sh…
+- [原文連結](https://www.digitimes.com/news/a20261117VL211/sk-hynix-memory-nvidia-revenue-sales-2026.html)
+
+---
 
 ### ⚖️ Xintec, TSMC sign 7-year capacity outsourcing agreement to build on-substrate production line
 - **題材**: `半導體先進製程` | **重要性**: `78`
@@ -7,6 +16,15 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: In response to strong capacity demand for high-performance computing (HPC) chips, Xintec has signed a seven-year capacity outsourcing agreement with its parent company TSMC to collaborate on backend advanced packaging processes and deepen their long-term stra…
 - [原文連結](https://www.digitimes.com/news/a20261116PD237/xintec-substrate-production-capacity-outsourcing-tsmc.html)
+
+---
+
+### ⚖️ Daxin aims for semiconductor materials to exceed half of revenue by 2030
+- **題材**: `半導體先進製程` | **重要性**: `73`
+- **來源**: Digitimes (2026-11-17T04:28:47Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: AI demand for advanced-process and advanced-packaging materials is accelerating Daxin Materials' shift from display materials to broader materials solutions. The Taiwan-based supplier aims for semiconductor materials to account for more than half of its reven…
+- [原文連結](https://www.digitimes.com/news/a20261117PD213/materials-revenue-daxin-demand-2026.html)
 
 ---
 
@@ -146,15 +164,6 @@ The post GlobalFoundries posts record gross margin as optical networking takes c
 
 ---
 
-### ⚖️ Samsung Electronics to make chips for Musk’s SpaceX in Texas
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: SamMobile (2026-11-16T11:26:25Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Samsung's chipmaking operations in Texas have secured several clients, with Elon Musk's Tesla being a major client that has already signed a $16.5 billion deal. A new report out of South Korea suggests that Samsung Electronics may also make chips in Texas for…
-- [原文連結](https://www.sammobile.com/news/samsung-electronics-to-make-chips-for-musks-spacex-in-texas/)
-
----
-
 ### 🚀 Yemeni forces' retreat leaves Houthis in control of key Red Sea waterway
 - **題材**: `總體風險` | **重要性**: `60`
 - **來源**: BBC News (2026-11-16T03:08:31Z)
@@ -170,15 +179,6 @@ The post GlobalFoundries posts record gross margin as optical networking takes c
 - **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: The class-action lawsuit accusing Samsung, SK hynix, and Micron of restricting DRAM supply is moving forward. On November 14, U.S. District Judge Noël Wise of the Northern District of California denied the three companies' joint motion to dismiss, finding the…
 - [原文連結](https://www.techpowerup.com/354863/samsung-sk-hynix-and-micron-fail-to-get-dram-antitrust-suit-dismissed)
-
----
-
-### 🚀 Wu-Tang Clan, Billy Idol, Phil Collins Enter Rock Hall at All-Star Induction Ceremony
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: Rolling Stone (2026-11-15T14:36:30Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Bearded Red Hot Chili Peppers honor Rick Rubin, U2 serve as surprise openers, Aerosmith and Run-D.M.C. reunite, Oprah Winfrey inducts Luther Vandross and more at 2026 ceremony
-- [原文連結](http://www.rollingstone.com/music/music-live-reviews/rock-hall-2026-induction-ceremony-recap-1235658494/)
 
 ---
 
