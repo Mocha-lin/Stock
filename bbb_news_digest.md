@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-19T03:58:53.768458+00:00
+> 更新時間：2026-11-19T08:10:50.797857+00:00
 
 ### 🚀 AI server tracker: TSMC, Alchip post big October gains powered by 2nm and ASIC orders
 - **題材**: `半導體先進製程` | **重要性**: `88`
@@ -7,6 +7,15 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重大事件】可能顯著影響產業評價、EPS預期或資金流向。
 - **摘要**: Taiwan's semiconductor supply chain generally saw strong growth in October, driven mainly by AI and advanced-process demand. TSMC's revenue for that month rose nearly 60% year-over-year, while chip designers are buoyed by large orders from overseas customers.
 - [原文連結](https://www.digitimes.com/news/a20261117VL216/revenue-growth-taiwan-semiconductor-supply-chain-tsmc-2nm.html)
+
+---
+
+### ⚖️ Nvidia, SPIL sign multibillion-dollar deal to triple advanced packaging capacity by 2029
+- **題材**: `半導體先進製程` | **重要性**: `83`
+- **來源**: Digitimes (2026-11-18T05:34:49Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Siliconware Precision Industries (SPIL), a subsidiary of ASE Technology Holding, has announced a multibillion-dollar, multi-year agreement with Nvidia to significantly expand its chip-on-wafer-on-substrate (CoWoS) advanced packaging capacity in Taiwan, aiming…
+- [原文連結](https://www.digitimes.com/news/a20261118PD239/nvidia-spil-packaging-capacity.html)
 
 ---
 
@@ -46,15 +55,6 @@
 
 ---
 
-### ⚖️ Daxin aims for semiconductor materials to exceed half of revenue by 2030
-- **題材**: `半導體先進製程` | **重要性**: `73`
-- **來源**: Digitimes (2026-11-17T04:28:47Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: AI demand for advanced-process and advanced-packaging materials is accelerating Daxin Materials' shift from display materials to broader materials solutions. The Taiwan-based supplier aims for semiconductor materials to account for more than half of its reven…
-- [原文連結](https://www.digitimes.com/news/a20261117PD213/materials-revenue-daxin-demand-2026.html)
-
----
-
 ### ⚖️ Samsung develops custom HBM for Meta, adopts 2nm process
 - **題材**: `半導體先進製程` | **重要性**: `73`
 - **來源**: Digitimes (2026-11-17T03:45:00Z)
@@ -89,15 +89,6 @@
 - **摘要**: GlobalFoundries' strategic pivot to optical networking and AI data centers signals a transformative shift in semiconductor industry dynamics.
 The post GlobalFoundries posts record gross margin as optical networking takes center stage appeared first on Crypto …
 - [原文連結](https://cryptobriefing.com/globalfoundries-record-margin-optical-networking/)
-
----
-
-### 🚀 Nvidia announces Rubin HPC GPU with 'record number of CUDA cores' at Supercomputing 2026
-- **題材**: `AI伺服器` | **重要性**: `67`
-- **來源**: Tom's Hardware UK (2026-11-16T19:05:24Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Nvidia took the wraps off its Rubin HPC GPU at Supercomputing 2026. This new GPU will give scientists, engineers, and analysts over 50,000 CUDA cores to speed up agentic HPC workloads when it arrives in 2028.
-- [原文連結](https://www.tomshardware.com/pc-components/gpus/nvidia-announces-rubin-hpc-gpu-with-record-number-of-cuda-cores-at-supercomputing-2026-new-chip-accelerates-agentic-hpc-workloads-arrives-in-2028)
 
 ---
 
@@ -180,6 +171,15 @@ The post GlobalFoundries posts record gross margin as optical networking takes c
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: A threat actor called SmithBianl offered a sample online as they threatened to release the whole batch.
 - [原文連結](https://www.techradar.com/pro/security/tsmc-confirms-cyberattack-and-data-breach-chip-giant-says-personal-employee-data-has-been-leaked-online)
+
+---
+
+### ⚖️ (PR) Penguin Solutions Unveils Industry's First Photonics-Based HBM-Class Memory Appliance
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: Techpowerup.com (2026-11-16T14:21:39Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Penguin Solutions, Inc. (Nasdaq: PENG), the AI Factory Platform Company, today unveiled the MemoryAI Photonic Appliance, the industry's first photonics-based HBM-class memory appliance designed to overcome GPU memory capacity constraints for agentic AI worklo…
+- [原文連結](https://www.techpowerup.com/354895/penguin-solutions-unveils-industrys-first-photonics-based-hbm-class-memory-appliance)
 
 ---
 
