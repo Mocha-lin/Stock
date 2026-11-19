@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-19T17:59:00.288331+00:00
+> 更新時間：2026-11-19T21:02:41.503499+00:00
 
 ### 🚀 Taiwan Mask expands 14-inch capacity to capture CoWoS and photonics growth
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -34,15 +34,6 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: In response to strong capacity demand for high-performance computing (HPC) chips, Xintec has signed a seven-year capacity outsourcing agreement with its parent company TSMC to collaborate on backend advanced packaging processes and deepen their long-term stra…
 - [原文連結](https://www.digitimes.com/news/a20261116PD237/xintec-substrate-production-capacity-outsourcing-tsmc.html)
-
----
-
-### ⚖️ Foxconn deepens Nvidia ties across next-gen GPU, networking platforms
-- **題材**: `半導體先進製程` | **重要性**: `73`
-- **來源**: Digitimes (2026-11-18T08:58:00Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: To support the continued build-out of AI infrastructure, Nvidia announced on November 17 that it is expanding cooperation with supply-chain partners including Foxconn, TSMC, Kinsus, Samsung Electro-Mechanics, Amkor, and Siliconware. The collaboration covers p…
-- [原文連結](https://www.digitimes.com/news/a20261118PD249/foxconn-nvidia-gpu-manufacturing-shipments.html)
 
 ---
 
@@ -118,6 +109,15 @@ The post GlobalFoundries posts record gross margin as optical networking takes c
 - **AI 判讀**: 屬「半導體先進製程」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Did Nvidia over order wafers and is now holding the bag? According to a new WSJ report the company has exposed itself to financial risk due to over orders of prepaid wafers from TSMC.
 - [原文連結](https://respawnfirst.com/before-resigning-jensen-huang-admitted-he-was-facing-an-avalanche-of-excess-wafers-and-memory-new-report-sheds-more-light-on-the-gpu-ram-crisis/)
+
+---
+
+### ⚖️ Trump’s latest land grab is an AI hub in the Philippines
+- **題材**: `半導體先進製程` | **重要性**: `63`
+- **來源**: The Verge (2026-11-18T19:40:36Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: President Donald Trump was greeted by no less than five beauty queens when he landed in the Philippines on Tuesday, according to local news outlet Rappler. As he stepped onto the tarmac, a child handed him small US and Philippine flags. A band played "YMCA," …
+- [原文連結](https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica)
 
 ---
 
