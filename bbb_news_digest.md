@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-18T20:56:43.437287+00:00
+> 更新時間：2026-11-19T03:58:53.768458+00:00
 
 ### 🚀 AI server tracker: TSMC, Alchip post big October gains powered by 2nm and ASIC orders
 - **題材**: `半導體先進製程` | **重要性**: `88`
@@ -25,6 +25,24 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: In response to strong capacity demand for high-performance computing (HPC) chips, Xintec has signed a seven-year capacity outsourcing agreement with its parent company TSMC to collaborate on backend advanced packaging processes and deepen their long-term stra…
 - [原文連結](https://www.digitimes.com/news/a20261116PD237/xintec-substrate-production-capacity-outsourcing-tsmc.html)
+
+---
+
+### ⚖️ Fabric competition intensifies; optical interconnect and ASIC adoption expand supply-chain opportunities
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-11-18T03:36:39Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: AI computing is moving toward larger, interconnected clusters, making AI Fabric a critical foundation for system scalability. As GPU- and ASIC-based platforms diversify, high-speed I/O and optical interconnects are reshaping the AI infrastructure supply c
+- [原文連結](https://www.digitimes.com/reports/item.php?id=20261117RS400)
+
+---
+
+### ⚖️ Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing
+- **題材**: `AI伺服器` | **重要性**: `73`
+- **來源**: The Verge (2026-11-17T21:52:53Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang or the details of his departure, or possible attempt at a return. That will likely change once analysts are on the line for i…
+- [原文連結](https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang)
 
 ---
 
@@ -80,6 +98,15 @@ The post GlobalFoundries posts record gross margin as optical networking takes c
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Nvidia took the wraps off its Rubin HPC GPU at Supercomputing 2026. This new GPU will give scientists, engineers, and analysts over 50,000 CUDA cores to speed up agentic HPC workloads when it arrives in 2028.
 - [原文連結](https://www.tomshardware.com/pc-components/gpus/nvidia-announces-rubin-hpc-gpu-with-record-number-of-cuda-cores-at-supercomputing-2026-new-chip-accelerates-agentic-hpc-workloads-arrives-in-2028)
+
+---
+
+### ⚠️ Nvidia’s Earnings Call Is the AI Economy’s Next Stress Test
+- **題材**: `AI伺服器` | **重要性**: `65`
+- **來源**: CNET (2026-11-17T22:03:34Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Jensen Huang’s departure was only a symptom of a bigger problem.
+- [原文連結](https://www.cnet.com/tech/services-and-software/nvidia-earnings-call-ai-economy-stress-test/)
 
 ---
 
@@ -153,33 +180,6 @@ The post GlobalFoundries posts record gross margin as optical networking takes c
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: A threat actor called SmithBianl offered a sample online as they threatened to release the whole batch.
 - [原文連結](https://www.techradar.com/pro/security/tsmc-confirms-cyberattack-and-data-breach-chip-giant-says-personal-employee-data-has-been-leaked-online)
-
----
-
-### ⚖️ (PR) Penguin Solutions Unveils Industry's First Photonics-Based HBM-Class Memory Appliance
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: Techpowerup.com (2026-11-16T14:21:39Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Penguin Solutions, Inc. (Nasdaq: PENG), the AI Factory Platform Company, today unveiled the MemoryAI Photonic Appliance, the industry's first photonics-based HBM-class memory appliance designed to overcome GPU memory capacity constraints for agentic AI worklo…
-- [原文連結](https://www.techpowerup.com/354895/penguin-solutions-unveils-industrys-first-photonics-based-hbm-class-memory-appliance)
-
----
-
-### ⚠️ Judge denies motion to dismiss DRAM price-fixing lawsuit against Samsung and two other memory makers
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: SamMobile (2026-11-16T13:32:35Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Samsung and two other memory chip manufacturers were sued this past summer. A group of 17 plaintiffs, including small businesses and individual consumers, alleged that Samsung, SK Hynix, and Micron engaged in price-fixing practices in the memory market. Samsu…
-- [原文連結](https://www.sammobile.com/news/judge-denies-motion-to-dismiss-dram-price-fixing-lawsuit-against-samsung-and-two-other-memory-makers/)
-
----
-
-### 🚀 Yemeni forces' retreat leaves Houthis in control of key Red Sea waterway
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: BBC News (2026-11-16T03:08:31Z)
-- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to defend the interim capital Aden.
-- [原文連結](https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo)
 
 ---
 
