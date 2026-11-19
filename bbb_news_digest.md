@@ -1,12 +1,12 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-19T08:10:50.797857+00:00
+> 更新時間：2026-11-19T17:59:00.288331+00:00
 
-### 🚀 AI server tracker: TSMC, Alchip post big October gains powered by 2nm and ASIC orders
-- **題材**: `半導體先進製程` | **重要性**: `88`
-- **來源**: Digitimes (2026-11-17T08:27:15Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重大事件】可能顯著影響產業評價、EPS預期或資金流向。
-- **摘要**: Taiwan's semiconductor supply chain generally saw strong growth in October, driven mainly by AI and advanced-process demand. TSMC's revenue for that month rose nearly 60% year-over-year, while chip designers are buoyed by large orders from overseas customers.
-- [原文連結](https://www.digitimes.com/news/a20261117VL216/revenue-growth-taiwan-semiconductor-supply-chain-tsmc-2nm.html)
+### 🚀 Taiwan Mask expands 14-inch capacity to capture CoWoS and photonics growth
+- **題材**: `半導體先進製程` | **重要性**: `83`
+- **來源**: Digitimes (2026-11-18T08:45:00Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Taiwan Mask, a subsidiary of Star Fusion Group, is overhauling its product mix and expanding overseas to capture surging demand across advanced packaging, silicon photonics, and advanced-node photomasks. The company is targeting nearly 20% year-over-year reve…
+- [原文連結](https://www.digitimes.com/news/a20261118PD253/taiwan-mask-growth-photonics-14-inch-capacity.html)
 
 ---
 
@@ -19,12 +19,12 @@
 
 ---
 
-### 🚀 SK Hynix's US revenue tops 60%, exposing Nvidia's growing weight in AI memory sales
-- **題材**: `HBM記憶體` | **重要性**: `83`
-- **來源**: Digitimes (2026-11-17T04:41:25Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: SK Hynix generated more than 60% of its revenue from the US in the first nine months of 2026, with sales to its presumed largest customer, Nvidia, doubling from a year earlier. Strong demand for high-bandwidth memory (HBM) and conventional memory chips has sh…
-- [原文連結](https://www.digitimes.com/news/a20261117VL211/sk-hynix-memory-nvidia-revenue-sales-2026.html)
+### 🚀 Nvidia's revenue hits $115.8 billion as Vera Rubin generates $20 billion in another record-setting quarter
+- **題材**: `AI伺服器` | **重要性**: `82`
+- **來源**: Tom's Hardware UK (2026-11-18T13:00:00Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Nvidia's quarterly revenue surged to $115.8 billion as Vera Rubin achieved a record $20 billion debut, while total commitments to suppliers and customers climbed to $540 billion and rising costs prompted a revised pricing strategy for FY2028.
+- [原文連結](https://www.tomshardware.com/pc-components/gpus/nvidias-revenue-hits-usd115-8-billion-as-vera-rubin-generates-usd20-billion-in-another-record-setting-quarter-commitments-increase-to-usd390-billion-fy28-forecast-raised)
 
 ---
 
@@ -37,12 +37,12 @@
 
 ---
 
-### ⚖️ Fabric competition intensifies; optical interconnect and ASIC adoption expand supply-chain opportunities
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-11-18T03:36:39Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: AI computing is moving toward larger, interconnected clusters, making AI Fabric a critical foundation for system scalability. As GPU- and ASIC-based platforms diversify, high-speed I/O and optical interconnects are reshaping the AI infrastructure supply c
-- [原文連結](https://www.digitimes.com/reports/item.php?id=20261117RS400)
+### ⚖️ Foxconn deepens Nvidia ties across next-gen GPU, networking platforms
+- **題材**: `半導體先進製程` | **重要性**: `73`
+- **來源**: Digitimes (2026-11-18T08:58:00Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: To support the continued build-out of AI infrastructure, Nvidia announced on November 17 that it is expanding cooperation with supply-chain partners including Foxconn, TSMC, Kinsus, Samsung Electro-Mechanics, Amkor, and Siliconware. The collaboration covers p…
+- [原文連結](https://www.digitimes.com/news/a20261118PD249/foxconn-nvidia-gpu-manufacturing-shipments.html)
 
 ---
 
@@ -55,15 +55,6 @@
 
 ---
 
-### ⚖️ Samsung develops custom HBM for Meta, adopts 2nm process
-- **題材**: `半導體先進製程` | **重要性**: `73`
-- **來源**: Digitimes (2026-11-17T03:45:00Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Samsung Electronics is reportedly developing custom high-bandwidth memory (HBM) for Meta's self-designed AI chips, with plans to use Samsung Foundry's 2nm process for the base die. The company is also preparing custom HBM base dies using TSMC processes for Nv…
-- [原文連結](https://www.digitimes.com/news/a20261117PD225/samsung-hbm-meta-2nm-nvidia.html)
-
----
-
 ### ⚖️ TSMC 3nm enters HBM as NVHBM reshapes base-die competition
 - **題材**: `半導體先進製程` | **重要性**: `73`
 - **來源**: Digitimes (2026-11-17T02:33:53Z)
@@ -73,12 +64,14 @@
 
 ---
 
-### ⚖️ DIGITIMES Insight: AI improves wafer testing accuracy, but advanced packaging hits hardware limits
-- **題材**: `半導體先進製程` | **重要性**: `73`
-- **來源**: Digitimes (2026-11-16T23:49:30Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Advanced packaging is bringing thermal challenges forward to wafer testing, forcing test programs to assume greater responsibility for temperature control. DIGITIMES observes that when a wafer chuck reads 25°C (77°F), the chip junction temperature can already…
-- [原文連結](https://www.digitimes.com/news/a20261116PD221/packaging-wafer-testing-hardware-digitimes-cooling.html)
+### 🚀 (PR) NVIDIA Expands Commitments With Supply Chain Partners to Support AI Infrastructure Buildout
+- **題材**: `半導體先進製程` | **重要性**: `70`
+- **來源**: Techpowerup.com (2026-11-18T13:59:10Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: NVIDIA today announced expanded commitments with supply chain partners to support sustainable long-term growth, aligning supply and manufacturing capacity with demand for its accelerated computing and AI infrastructure platforms.
+
+Working with Amkor Technolog…
+- [原文連結](https://www.techpowerup.com/354985/nvidia-expands-commitments-with-supply-chain-partners-to-support-ai-infrastructure-buildout)
 
 ---
 
@@ -89,6 +82,24 @@
 - **摘要**: GlobalFoundries' strategic pivot to optical networking and AI data centers signals a transformative shift in semiconductor industry dynamics.
 The post GlobalFoundries posts record gross margin as optical networking takes center stage appeared first on Crypto …
 - [原文連結](https://cryptobriefing.com/globalfoundries-record-margin-optical-networking/)
+
+---
+
+### ⚖️ Microsoft to Use Intel's EMIB Advanced Packaging Technology
+- **題材**: `半導體先進製程` | **重要性**: `65`
+- **來源**: Techpowerup.com (2026-11-18T16:58:23Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Microsoft announced today that it will officially adopt Intel Foundry's Embedded Multi-die Interconnect Bridge (EMIB) advanced packaging technology for its custom silicon used in Azure. Specifically, Microsoft will use Intel's EMIB-T, which includes through-s…
+- [原文連結](https://www.techpowerup.com/354994/microsoft-to-use-intels-emib-advanced-packaging-technology)
+
+---
+
+### ⚖️ Samsung reportedly making custom memory for Meta’s AI chips
+- **題材**: `HBM記憶體` | **重要性**: `65`
+- **來源**: SamMobile (2026-11-18T13:48:53Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Samsung has become invaluable to the AI supply chain as both a key supplier of memory chips as well as one of the very few foundry operators that can produce chips on advanced 2nm nodes. The company may now be involved in the development of custom high-bandwi…
+- [原文連結](https://www.sammobile.com/news/samsung-reportedly-making-custom-memory-for-metas-ai-chips/)
 
 ---
 
@@ -110,12 +121,36 @@ The post GlobalFoundries posts record gross margin as optical networking takes c
 
 ---
 
+### ⚖️ Remember the frontier AI pause? Chip companies don’t either
+- **題材**: `AI伺服器` | **重要性**: `63`
+- **來源**: The Verge (2026-11-18T15:45:02Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: This summer, OpenAI paused its largest planned frontier training run after its AI agents accidentally hacked Hugging Face and early evidence suggested that its next model could independently find and exploit security flaws. In September, Anthropic CEO Dario A…
+- [原文連結](https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models)
+
+---
+
 ### ⚠️ Judge denies motion to dismiss DRAM price-fixing lawsuit against Micron, Samsung, and SK hynix
 - **題材**: `HBM記憶體` | **重要性**: `62`
 - **來源**: Tom's Hardware UK (2026-11-15T15:09:50Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: The judge characterized the three companies as "hawks flying in formation" when it came to their business decisions.
 - [原文連結](https://www.tomshardware.com/tech-industry/big-tech/judge-denies-motion-to-dismiss-dram-price-fixing-lawsuit-against-micron-samsung-and-sk-hynix-says-chipmakers-acted-like-hawks-flying-in-formation-finds-evidence-of-dram-collusion-plausible-after-500-percent-price-surge)
+
+---
+
+### ⚖️ iPhone 18 and iPhone Air 2 Display Production to Begin Soon Ahead of Expected March Launch
+- **題材**: `半導體先進製程` | **重要性**: `60`
+- **來源**: MacRumors (2026-11-18T11:46:22Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Apple's display suppliers are preparing to begin mass production of OLED panels for the upcoming iPhone Air 2 and iPhone 18, according to a report from Korea's ETNews.
+
+
+
+
+
+The devices will mark Apple's first spring releases next year as part of the company's…
+- [原文連結](https://www.macrumors.com/2026/11/18/iphone-18-iphone-air-2-display-production-begins/)
 
 ---
 
@@ -153,33 +188,6 @@ The post GlobalFoundries posts record gross margin as optical networking takes c
 - **摘要**: A judge has denied a motion to dismiss a US lawsuit against chip makers Samsung, SK Hynix, and Micron. The suit acccuses the companies of fixing RAM prices and supply, thereby contributing to worsening the effects of the ongoing memory crisis.
  Read more
 - [原文連結](https://www.rockpapershotgun.com/judge-denies-motion-to-dismiss-lawsuit-accusing-samsung-sk-hynix-and-micron-of-worsening-ram-crisis-by-fixing-memory-prices-and-supply)
-
----
-
-### ⚖️ Oil Price Today (November 17): Brent crude drops below $92 amid supply surplus hopes. What Goldman Sachs now expects
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Economictimes.com (2026-11-17T02:04:47Z)
-- **AI 判讀**: 屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Crude oil price : Oil prices decreased below $92 per barrel while expectations of a supply surplus grow. The International Energy Agency anticipates a surplus in global oil markets by Q4 this year. Goldman Sachs forecasts that a significant oversupply will pe…
-- [原文連結](https://m.economictimes.com/markets/commodities/news/oil-price-today-november-17-brent-crude-drops-below-92-amid-supply-surplus-hopes-what-goldman-sachs-now-expects/articleshow/135907411.cms)
-
----
-
-### 🚀 TSMC confirms cyberattack and data breach — chip giant says personal employee data has been leaked online
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: TechRadar (2026-11-16T17:05:00Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: A threat actor called SmithBianl offered a sample online as they threatened to release the whole batch.
-- [原文連結](https://www.techradar.com/pro/security/tsmc-confirms-cyberattack-and-data-breach-chip-giant-says-personal-employee-data-has-been-leaked-online)
-
----
-
-### ⚖️ (PR) Penguin Solutions Unveils Industry's First Photonics-Based HBM-Class Memory Appliance
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: Techpowerup.com (2026-11-16T14:21:39Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Penguin Solutions, Inc. (Nasdaq: PENG), the AI Factory Platform Company, today unveiled the MemoryAI Photonic Appliance, the industry's first photonics-based HBM-class memory appliance designed to overcome GPU memory capacity constraints for agentic AI worklo…
-- [原文連結](https://www.techpowerup.com/354895/penguin-solutions-unveils-industrys-first-photonics-based-hbm-class-memory-appliance)
 
 ---
 
