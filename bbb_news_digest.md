@@ -1,5 +1,14 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-19T21:02:41.503499+00:00
+> 更新時間：2026-11-20T03:52:54.784601+00:00
+
+### ⚖️ Microsoft’s chip packaging deal hands Intel credibility more than revenue
+- **題材**: `半導體先進製程` | **重要性**: `83`
+- **來源**: Digitimes (2026-11-19T00:53:54Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Microsoft has become the first company to publicly commit to Intel Foundry's EMIB advanced packaging for its own Azure chips. This deal matters less for the revenue it brings Intel today than for what it signals: advanced packaging, a step long dominated by T…
+- [原文連結](https://www.digitimes.com/news/a20261119VL209/microsoft-intel-azure-packaging-intel-foundry.html)
+
+---
 
 ### 🚀 Taiwan Mask expands 14-inch capacity to capture CoWoS and photonics growth
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -19,6 +28,15 @@
 
 ---
 
+### 🚀 SK Hynix's US revenue tops 60%, exposing Nvidia's growing weight in AI memory sales
+- **題材**: `HBM記憶體` | **重要性**: `83`
+- **來源**: Digitimes (2026-11-17T04:41:25Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: SK Hynix generated more than 60% of its revenue from the US in the first nine months of 2026, with sales to its presumed largest customer, Nvidia, doubling from a year earlier. Strong demand for high-bandwidth memory (HBM) and conventional memory chips has sh…
+- [原文連結](https://www.digitimes.com/news/a20261117VL211/sk-hynix-memory-nvidia-revenue-sales-2026.html)
+
+---
+
 ### 🚀 Nvidia's revenue hits $115.8 billion as Vera Rubin generates $20 billion in another record-setting quarter
 - **題材**: `AI伺服器` | **重要性**: `82`
 - **來源**: Tom's Hardware UK (2026-11-18T13:00:00Z)
@@ -28,12 +46,12 @@
 
 ---
 
-### ⚖️ Xintec, TSMC sign 7-year capacity outsourcing agreement to build on-substrate production line
-- **題材**: `半導體先進製程` | **重要性**: `78`
-- **來源**: Digitimes (2026-11-17T03:44:38Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: In response to strong capacity demand for high-performance computing (HPC) chips, Xintec has signed a seven-year capacity outsourcing agreement with its parent company TSMC to collaborate on backend advanced packaging processes and deepen their long-term stra…
-- [原文連結](https://www.digitimes.com/news/a20261116PD237/xintec-substrate-production-capacity-outsourcing-tsmc.html)
+### ⚖️ CPO's next challenge in AI data centers: Manufacturing yield and testing hold key to mass production
+- **題材**: `光通訊與矽光子` | **重要性**: `78`
+- **來源**: Digitimes (2026-11-19T01:55:08Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: As AI data centers demand greater network bandwidth and energy efficiency, co-packaged optics (CPO) technology is gradually moving beyond laboratory validation toward commercial deployment.
+- [原文連結](https://www.digitimes.com/news/a20261118PD248/cpo-data-production-testing-bandwidth.html)
 
 ---
 
@@ -46,12 +64,12 @@
 
 ---
 
-### ⚖️ TSMC 3nm enters HBM as NVHBM reshapes base-die competition
+### ⚖️ Xintec, TSMC sign 7-year capacity outsourcing agreement to build on-substrate production line
 - **題材**: `半導體先進製程` | **重要性**: `73`
-- **來源**: Digitimes (2026-11-17T02:33:53Z)
+- **來源**: Digitimes (2026-11-17T03:44:38Z)
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Demand for high-bandwidth memory (HBM) in AI chips is driving continued technological advances. According to analysis by SemiWiki, Nvidia's development of the Nvidia HBM (NVHBM) architecture could reshape not only HBM performance but also the division of labo…
-- [原文連結](https://www.digitimes.com/news/a20261117PD221/tsmc-3nm-hbm-competition-nvidia.html)
+- **摘要**: In response to strong capacity demand for high-performance computing (HPC) chips, Xintec has signed a seven-year capacity outsourcing agreement with its parent company TSMC to collaborate on backend advanced packaging processes and deepen their long-term stra…
+- [原文連結](https://www.digitimes.com/news/a20261116PD237/xintec-substrate-production-capacity-outsourcing-tsmc.html)
 
 ---
 
@@ -76,12 +94,12 @@ The post GlobalFoundries posts record gross margin as optical networking takes c
 
 ---
 
-### ⚖️ Microsoft to Use Intel's EMIB Advanced Packaging Technology
-- **題材**: `半導體先進製程` | **重要性**: `65`
-- **來源**: Techpowerup.com (2026-11-18T16:58:23Z)
+### ⚖️ TSMC 3nm enters HBM as NVHBM reshapes base-die competition
+- **題材**: `半導體先進製程` | **重要性**: `68`
+- **來源**: Digitimes (2026-11-17T02:33:53Z)
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Microsoft announced today that it will officially adopt Intel Foundry's Embedded Multi-die Interconnect Bridge (EMIB) advanced packaging technology for its custom silicon used in Azure. Specifically, Microsoft will use Intel's EMIB-T, which includes through-s…
-- [原文連結](https://www.techpowerup.com/354994/microsoft-to-use-intels-emib-advanced-packaging-technology)
+- **摘要**: Demand for high-bandwidth memory (HBM) in AI chips is driving continued technological advances. According to analysis by SemiWiki, Nvidia's development of the Nvidia HBM (NVHBM) architecture could reshape not only HBM performance but also the division of labo…
+- [原文連結](https://www.digitimes.com/news/a20261117PD221/tsmc-3nm-hbm-competition-nvidia.html)
 
 ---
 
@@ -139,6 +157,16 @@ The post GlobalFoundries posts record gross margin as optical networking takes c
 
 ---
 
+### ⚖️ What Could Chinese Import Curbs Mean For Lumentum Holdings (LITE)?
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: Biztoc.com (2026-11-18T22:07:51Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Lumentum Holdings (NasdaqGS:LITE) is in focus as Washington drafts new limits on Chinese optical transceiver imports for data centers.
+- The proposed U.S. rules target data center equipment sourced from Chinese vendors, including high speed optical modules us…
+- [原文連結](https://biztoc.com/x/0f60093e08d82c5f)
+
+---
+
 ### ⚖️ iPhone 18 and iPhone Air 2 Display Production to Begin Soon Ahead of Expected March Launch
 - **題材**: `半導體先進製程` | **重要性**: `60`
 - **來源**: MacRumors (2026-11-18T11:46:22Z)
@@ -160,34 +188,6 @@ The devices will mark Apple's first spring releases next year as part of the com
 - **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: The PM has suggested Chinese automakers could replace American ones in Canada - but some say that would not be easy.
 - [原文連結](https://www.bbc.co.uk/news/articles/cq98xlz09ye0o)
-
----
-
-### ⚖️ Apple memory suppliers expect price increases through at least 2030 [U]
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: 9to5Mac (2026-11-17T13:39:13Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Key Apple memory supplier SK Hynix has warned that RAM and flash memory shortages are likely to last through at least 2030, keeping product prices high. Apple is believed to be one of 14 customers who have locked in priority orders, but the contract does not …
-- [原文連結](https://9to5mac.com/2026/11/17/apple-memory-supplier-expects-price-increases-through-at-least-2030/)
-
----
-
-### ⚖️ Rubin HPC: Nvidia bringt eigene Rubin-GPU für Supercomputer
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: Golem.de (2026-11-17T11:06:01Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Nvidias Fokus verschob sich bei Hardware für Rechenzentren zu KI. Supercomputer profitieren davon aber nicht immer. AMD hatte hier vorgelegt. (Supercomputer, Grafikkarten)
-- [原文連結](https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Frubin-hpc-nvidia-bringt-eigene-rubin-gpu-fuer-supercomputer-2611-215305.html&referer=https%3A%2F%2Ft.co%2F398a164cc9)
-
----
-
-### ⚠️ Judge denies motion to dismiss lawsuit accusing Samsung, SK Hynix and Micron of worsening RAM crisis by fixing memory prices and supply
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: Rock Paper Shotgun (2026-11-17T10:27:30Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: A judge has denied a motion to dismiss a US lawsuit against chip makers Samsung, SK Hynix, and Micron. The suit acccuses the companies of fixing RAM prices and supply, thereby contributing to worsening the effects of the ongoing memory crisis.
- Read more
-- [原文連結](https://www.rockpapershotgun.com/judge-denies-motion-to-dismiss-lawsuit-accusing-samsung-sk-hynix-and-micron-of-worsening-ram-crisis-by-fixing-memory-prices-and-supply)
 
 ---
 
