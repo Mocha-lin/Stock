@@ -1,10 +1,10 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-20T07:54:12.928247+00:00
+> 更新時間：2026-11-20T17:33:55.391262+00:00
 
 ### 🚀 Taiwan Mask expands 14-inch capacity to capture CoWoS and photonics growth
-- **題材**: `半導體先進製程` | **重要性**: `83`
+- **題材**: `光通訊與矽光子` | **重要性**: `83`
 - **來源**: Digitimes (2026-11-18T08:45:00Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Taiwan Mask, a subsidiary of Star Fusion Group, is overhauling its product mix and expanding overseas to capture surging demand across advanced packaging, silicon photonics, and advanced-node photomasks. The company is targeting nearly 20% year-over-year reve…
 - [原文連結](https://www.digitimes.com/news/a20261118PD253/taiwan-mask-growth-photonics-14-inch-capacity.html)
 
@@ -112,15 +112,6 @@ The post GlobalFoundries posts record gross margin as optical networking takes c
 
 ---
 
-### ⚠️ Jensen Huang Admitted He Was Facing an "Avalanche" of Excess Wafers and Memory
-- **題材**: `半導體先進製程` | **重要性**: `65`
-- **來源**: Respawnfirst.com (2026-11-13T13:08:48Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Did Nvidia over order wafers and is now holding the bag? According to a new WSJ report the company has exposed itself to financial risk due to over orders of prepaid wafers from TSMC.
-- [原文連結](https://respawnfirst.com/before-resigning-jensen-huang-admitted-he-was-facing-an-avalanche-of-excess-wafers-and-memory-new-report-sheds-more-light-on-the-gpu-ram-crisis/)
-
----
-
 ### ⚖️ Trump’s latest land grab is an AI hub in the Philippines
 - **題材**: `半導體先進製程` | **重要性**: `63`
 - **來源**: The Verge (2026-11-18T19:40:36Z)
@@ -148,6 +139,33 @@ The post GlobalFoundries posts record gross margin as optical networking takes c
 
 ---
 
+### ⚖️ 卡位1.6T、CPO商機！「這大廠」赴陸泰擴產搶單　目標價上看680元
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-11-19T17:05:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: AI資料中心推升光模組規格向1.6T與CPO演進，帶動mSAP細線路與高階PCB需求大增。法人看好PCB龍頭臻鼎-KY搶占AI伺服器與高階商機，產能布局與高毛利產品比重顯著提升，預估今明兩年EPS大幅成長，給予買進評等與目標價680元，供應鏈前景看俏。
+- [原文連結](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_954bd162-76ab-4a3e-8963-45950a5838e9)
+
+---
+
+### ⚖️ The AI ‘supertelescope’ that could transform the universe
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: Scientific American (2026-11-19T14:00:00Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Astronomers want to combine data from three new giant telescope surveys into a fourth virtual observatory
+- [原文連結](https://www.scientificamerican.com/article/the-ai-supertelescope-that-could-transform-the-universe/)
+
+---
+
+### 🚀 Vivo's next X Fold has a conundrum—there's a chip battle, and only one will win
+- **題材**: `半導體先進製程` | **重要性**: `60`
+- **來源**: Android Central (2026-11-19T11:11:00Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Vivo is working on another X Fold—the X Fold 7—however, there's a decision to be made about which chip it'll use. And it's all about the price.
+- [原文連結](https://www.androidcentral.com/phones/vivo/vivos-next-x-fold-has-a-conundrum-theres-a-chip-battle-and-only-one-will-win)
+
+---
+
 ### ⚖️ What Could Chinese Import Curbs Mean For Lumentum Holdings (LITE)?
 - **題材**: `光通訊與矽光子` | **重要性**: `60`
 - **來源**: Biztoc.com (2026-11-18T22:07:51Z)
@@ -170,24 +188,6 @@ The post GlobalFoundries posts record gross margin as optical networking takes c
 
 The devices will mark Apple's first spring releases next year as part of the company's…
 - [原文連結](https://www.macrumors.com/2026/11/18/iphone-18-iphone-air-2-display-production-begins/)
-
----
-
-### ⚠️ Carney eyes 'other options' for embattled Canadian auto sector on China trip
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: BBC News (2026-11-17T15:17:49Z)
-- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: The PM has suggested Chinese automakers could replace American ones in Canada - but some say that would not be easy.
-- [原文連結](https://www.bbc.co.uk/news/articles/cq98xlz09ye0o)
-
----
-
-### ⚖️ Apple memory suppliers expect price increases through at least 2030 [U]
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: 9to5Mac (2026-11-17T13:39:13Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Key Apple memory supplier SK Hynix has warned that RAM and flash memory shortages are likely to last through at least 2030, keeping product prices high. Apple is believed to be one of 14 customers who have locked in priority orders, but the contract does not …
-- [原文連結](https://9to5mac.com/2026/11/17/apple-memory-supplier-expects-price-increases-through-at-least-2030/)
 
 ---
 
