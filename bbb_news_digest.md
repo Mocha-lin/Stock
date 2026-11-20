@@ -1,14 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-20T03:52:54.784601+00:00
-
-### ⚖️ Microsoft’s chip packaging deal hands Intel credibility more than revenue
-- **題材**: `半導體先進製程` | **重要性**: `83`
-- **來源**: Digitimes (2026-11-19T00:53:54Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Microsoft has become the first company to publicly commit to Intel Foundry's EMIB advanced packaging for its own Azure chips. This deal matters less for the revenue it brings Intel today than for what it signals: advanced packaging, a step long dominated by T…
-- [原文連結](https://www.digitimes.com/news/a20261119VL209/microsoft-intel-azure-packaging-intel-foundry.html)
-
----
+> 更新時間：2026-11-20T07:54:12.928247+00:00
 
 ### 🚀 Taiwan Mask expands 14-inch capacity to capture CoWoS and photonics growth
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -28,15 +19,6 @@
 
 ---
 
-### 🚀 SK Hynix's US revenue tops 60%, exposing Nvidia's growing weight in AI memory sales
-- **題材**: `HBM記憶體` | **重要性**: `83`
-- **來源**: Digitimes (2026-11-17T04:41:25Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: SK Hynix generated more than 60% of its revenue from the US in the first nine months of 2026, with sales to its presumed largest customer, Nvidia, doubling from a year earlier. Strong demand for high-bandwidth memory (HBM) and conventional memory chips has sh…
-- [原文連結](https://www.digitimes.com/news/a20261117VL211/sk-hynix-memory-nvidia-revenue-sales-2026.html)
-
----
-
 ### 🚀 Nvidia's revenue hits $115.8 billion as Vera Rubin generates $20 billion in another record-setting quarter
 - **題材**: `AI伺服器` | **重要性**: `82`
 - **來源**: Tom's Hardware UK (2026-11-18T13:00:00Z)
@@ -52,6 +34,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: As AI data centers demand greater network bandwidth and energy efficiency, co-packaged optics (CPO) technology is gradually moving beyond laboratory validation toward commercial deployment.
 - [原文連結](https://www.digitimes.com/news/a20261118PD248/cpo-data-production-testing-bandwidth.html)
+
+---
+
+### ⚖️ Google looks to bypass Broadcom with direct HBM purchases
+- **題材**: `HBM記憶體` | **重要性**: `73`
+- **來源**: Digitimes (2026-11-19T04:01:06Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Google is looking to buy high-bandwidth memory (HBM) directly for AI chips developed with MediaTek, potentially cutting billions of dollars in procurement costs and changing how Samsung Electronics, SK Hynix and Micron Technology negotiate with major customer…
+- [原文連結](https://www.digitimes.com/news/a20261119VL217/google-hbm-broadcom-mediatek-2027.html)
 
 ---
 
@@ -188,6 +179,15 @@ The devices will mark Apple's first spring releases next year as part of the com
 - **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: The PM has suggested Chinese automakers could replace American ones in Canada - but some say that would not be easy.
 - [原文連結](https://www.bbc.co.uk/news/articles/cq98xlz09ye0o)
+
+---
+
+### ⚖️ Apple memory suppliers expect price increases through at least 2030 [U]
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: 9to5Mac (2026-11-17T13:39:13Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Key Apple memory supplier SK Hynix has warned that RAM and flash memory shortages are likely to last through at least 2030, keeping product prices high. Apple is believed to be one of 14 customers who have locked in priority orders, but the contract does not …
+- [原文連結](https://9to5mac.com/2026/11/17/apple-memory-supplier-expects-price-increases-through-at-least-2030/)
 
 ---
 
