@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-20T17:33:55.391262+00:00
+> 更新時間：2026-11-20T20:48:36.938533+00:00
 
 ### 🚀 Taiwan Mask expands 14-inch capacity to capture CoWoS and photonics growth
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -104,9 +104,9 @@ The post GlobalFoundries posts record gross margin as optical networking takes c
 ---
 
 ### ⚠️ Nvidia’s Earnings Call Is the AI Economy’s Next Stress Test
-- **題材**: `AI伺服器` | **重要性**: `65`
+- **題材**: `HBM記憶體` | **重要性**: `65`
 - **來源**: CNET (2026-11-17T22:03:34Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Jensen Huang’s departure was only a symptom of a bigger problem.
 - [原文連結](https://www.cnet.com/tech/services-and-software/nvidia-earnings-call-ai-economy-stress-test/)
 
