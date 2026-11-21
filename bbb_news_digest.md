@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-21T16:37:27.155783+00:00
+> 更新時間：2026-11-21T19:51:19.787642+00:00
 
 ### ⚠️ CPO mass production faces hybrid bonding yield challenges, potentially delaying large-scale shipments until late 2027
 - **題材**: `光通訊與矽光子` | **重要性**: `88`
@@ -112,15 +112,6 @@ The post GlobalFoundries posts record gross margin as optical networking takes c
 
 ---
 
-### ⚖️ Trump’s latest land grab is an AI hub in the Philippines
-- **題材**: `半導體先進製程` | **重要性**: `63`
-- **來源**: The Verge (2026-11-18T19:40:36Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: President Donald Trump was greeted by no less than five beauty queens when he landed in the Philippines on Tuesday, according to local news outlet Rappler. As he stepped onto the tarmac, a child handed him small US and Philippine flags. A band played "YMCA," …
-- [原文連結](https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica)
-
----
-
 ### ⚠️ Judge denies motion to dismiss DRAM price-fixing lawsuit against Micron, Samsung, and SK hynix
 - **題材**: `HBM記憶體` | **重要性**: `62`
 - **來源**: Tom's Hardware UK (2026-11-15T15:09:50Z)
@@ -181,6 +172,15 @@ The post GlobalFoundries posts record gross margin as optical networking takes c
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Samsung has become invaluable to the AI supply chain as both a key supplier of memory chips as well as one of the very few foundry operators that can produce chips on advanced 2nm nodes. The company may now be involved in the development of custom high-bandwi…
 - [原文連結](https://www.sammobile.com/news/samsung-reportedly-making-custom-memory-for-metas-ai-chips/)
+
+---
+
+### 🚀 Rupee defies dollar rally, climbs to 7-month high on falling oil prices
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Economictimes.com (2026-11-17T23:58:58Z)
+- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: The dollar index, climbing nearly 2% in a month to hit its highest level in 19 months, traded at a fresh peak of 103.70 on Tuesday, showed Dow Jones MarketWatch data. A reading above 100 indicates the dollar's relative firmness against a basket of most freque…
+- [原文連結](https://m.economictimes.com/markets/forex/forex-news/rupee-defies-dollar-rally-climbs-to-7-month-high-on-falling-oil-prices/articleshow/135943804.cms)
 
 ---
 
