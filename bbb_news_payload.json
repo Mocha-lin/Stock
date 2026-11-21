@@ -1,10 +1,48 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-11-20T20:48:36.938533+00:00",
+  "generated_at": "2026-11-21T03:46:40.879412+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 70,
   "items": [
+    {
+      "id": "1e633475f49de18e",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "CPO mass production faces hybrid bonding yield challenges, potentially delaying large-scale shipments until late 2027",
+      "summary": "Co-packaged optics (CPO) is emerging as an important optical interconnect technology for AI data centers, but the industry may still be some distance from achieving large-scale mass production.",
+      "original_title": "CPO mass production faces hybrid bonding yield challenges, potentially delaying large-scale shipments until late 2027",
+      "url": "https://www.digitimes.com/news/a20261120PD216/cpo-production-shipments-2027-optics.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-11-20T01:42:15Z",
+      "importance": 88,
+      "impact": "negative",
+      "timeframe": "short_to_mid_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之偏空消息。【重大事件】可能顯著影響產業評價、EPS預期或資金流向。"
+    },
     {
       "id": "e45307abda21963c",
       "dataset": "market_news",
@@ -158,6 +196,41 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
+      "id": "56549df44b06ab9d",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "SK Hynix's US revenue tops 60%, exposing Nvidia's growing weight in AI memory sales",
+      "summary": "SK Hynix generated more than 60% of its revenue from the US in the first nine months of 2026, with sales to its presumed largest customer, Nvidia, doubling from a year earlier. Strong demand for high-bandwidth memory (HBM) and conventional memory chips has sh…",
+      "original_title": "SK Hynix's US revenue tops 60%, exposing Nvidia's growing weight in AI memory sales",
+      "url": "https://www.digitimes.com/news/a20261117VL211/sk-hynix-memory-nvidia-revenue-sales-2026.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-11-17T04:41:25Z",
+      "importance": 78,
+      "impact": "positive",
+      "timeframe": "short_to_mid_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
       "id": "4d18b34870216d06",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -191,44 +264,6 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
-      "id": "c2e20015740d4892",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
-      "summary": "Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang or the details of his departure, or possible attempt at a return. That will likely change once analysts are on the line for i…",
-      "original_title": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
-      "url": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "published_at": "2026-11-17T21:52:53Z",
-      "importance": 73,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "765bfa937bf38b56",
@@ -307,32 +342,32 @@
       "reason": "屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
-      "id": "cd9415819f306323",
+      "id": "c2e20015740d4892",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "GlobalFoundries posts record gross margin as optical networking takes center stage",
-      "summary": "GlobalFoundries' strategic pivot to optical networking and AI data centers signals a transformative shift in semiconductor industry dynamics.\nThe post GlobalFoundries posts record gross margin as optical networking takes center stage appeared first on Crypto …",
-      "original_title": "GlobalFoundries posts record gross margin as optical networking takes center stage",
-      "url": "https://cryptobriefing.com/globalfoundries-record-margin-optical-networking/",
-      "source": "Crypto Briefing",
-      "domain": "cryptobriefing.com",
-      "published_at": "2026-11-14T02:19:57Z",
-      "importance": 70,
-      "impact": "positive",
+      "theme": "AI伺服器",
+      "title": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
+      "summary": "Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang or the details of his departure, or possible attempt at a return. That will likely change once analysts are on the line for i…",
+      "original_title": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
+      "url": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "published_at": "2026-11-17T21:52:53Z",
+      "importance": 68,
+      "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
+        "AI",
+        "伺服器",
+        "資料中心"
       ],
       "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
       ],
       "related_models": [
         "003",
@@ -342,7 +377,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "3aa5cd555fcd0b15",
@@ -418,29 +453,32 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "4ce9f00e85976ef6",
+      "id": "29417860a34cbc55",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "Nvidia’s Earnings Call Is the AI Economy’s Next Stress Test",
-      "summary": "Jensen Huang’s departure was only a symptom of a bigger problem.",
-      "original_title": "Nvidia’s Earnings Call Is the AI Economy’s Next Stress Test",
-      "url": "https://www.cnet.com/tech/services-and-software/nvidia-earnings-call-ai-economy-stress-test/",
-      "source": "CNET",
-      "domain": "cnet.com",
-      "published_at": "2026-11-17T22:03:34Z",
+      "theme": "總體風險",
+      "title": "Companies get billions in tariff refunds. Consumers are left with the bill.",
+      "summary": "Companies get billions in tariff refunds. Consumers are left with the bill.",
+      "original_title": "Companies get billions in tariff refunds. Consumers are left with the bill.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/companies-get-billions-in-tariff-refunds-consumers-are-left-with-the-bill",
+      "source": "Al Jazeera English",
+      "domain": "aljazeera.com",
+      "published_at": "2026-11-17T19:31:30Z",
       "importance": 65,
       "impact": "negative",
       "timeframe": "short_term",
       "tags": [
-        "HBM",
-        "記憶體"
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
       ],
       "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
       ],
       "related_models": [
         "003",
@@ -450,7 +488,45 @@
         "009",
         "010"
       ],
-      "reason": "屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "cd9415819f306323",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "GlobalFoundries posts record gross margin as optical networking takes center stage",
+      "summary": "GlobalFoundries' strategic pivot to optical networking and AI data centers signals a transformative shift in semiconductor industry dynamics.\nThe post GlobalFoundries posts record gross margin as optical networking takes center stage appeared first on Crypto …",
+      "original_title": "GlobalFoundries posts record gross margin as optical networking takes center stage",
+      "url": "https://cryptobriefing.com/globalfoundries-record-margin-optical-networking/",
+      "source": "Crypto Briefing",
+      "domain": "cryptobriefing.com",
+      "published_at": "2026-11-14T02:19:57Z",
+      "importance": 65,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "86b6138342182a43",
@@ -562,6 +638,82 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "355f85fb5264dbdd",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "Oil Price Today (November 20): Brent crude rises to $93 as fresh Houthi attacks heighten worries. What are experts saying?",
+      "summary": "Crude oil price : On Friday, oil prices surged due to missile strikes near Riyadh and disruptions in tanker operations within the Strait of Hormuz. The conflict with the Iran-aligned Houthi group raised alarm over the safety of regional oil supply. Goldman Sa…",
+      "original_title": "Oil Price Today (November 20): Brent crude rises to $93 as fresh Houthi attacks heighten worries. What are experts saying?",
+      "url": "https://m.economictimes.com/markets/commodities/news/oil-price-today-november-20-brent-crude-rises-to-93-as-fresh-houthi-attacks-heighten-worries-what-are-experts-saying/articleshow/136010579.cms",
+      "source": "Economictimes.com",
+      "domain": "m.economictimes.com",
+      "published_at": "2026-11-20T02:39:43Z",
+      "importance": 60,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "1ceae35733865ef5",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "'Intel’s commitment to the HPC community is grounded in a pragmatic reality': Intel affirms its backing for the next generation of high-powered computing to push the boundaries of AI",
+      "summary": "Intel is developing next-generation Xeon processors, AI accelerators, optical networking, and quantum computing technologies while maintaining software compatibility across scientific computing environments.",
+      "original_title": "'Intel’s commitment to the HPC community is grounded in a pragmatic reality': Intel affirms its backing for the next generation of high-powered computing to push the boundaries of AI",
+      "url": "https://www.techradar.com/pro/intels-commitment-to-the-hpc-community-is-grounded-in-a-pragmatic-reality-intel-affirms-its-backing-for-the-next-generation-of-high-powered-computing-to-push-the-boundaries-of-ai",
+      "source": "TechRadar",
+      "domain": "techradar.com",
+      "published_at": "2026-11-19T23:45:00Z",
+      "importance": 60,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "7e188cb71ba788bc",
@@ -678,44 +830,6 @@
       "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "087d23c5f36f847b",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "What Could Chinese Import Curbs Mean For Lumentum Holdings (LITE)?",
-      "summary": "Lumentum Holdings (NasdaqGS:LITE) is in focus as Washington drafts new limits on Chinese optical transceiver imports for data centers.\n- The proposed U.S. rules target data center equipment sourced from Chinese vendors, including high speed optical modules us…",
-      "original_title": "What Could Chinese Import Curbs Mean For Lumentum Holdings (LITE)?",
-      "url": "https://biztoc.com/x/0f60093e08d82c5f",
-      "source": "Biztoc.com",
-      "domain": "biztoc.com",
-      "published_at": "2026-11-18T22:07:51Z",
-      "importance": 60,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "aa5f63d95f51fc3c",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -754,32 +868,32 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "81934e5fc0d2e120",
+      "id": "56282620c275f9ff",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "Jensen Huang Admitted He Was Facing an \"Avalanche\" of Excess Wafers and Memory",
-      "summary": "Did Nvidia over order wafers and is now holding the bag? According to a new WSJ report the company has exposed itself to financial risk due to over orders of prepaid wafers from TSMC.",
-      "original_title": "Jensen Huang Admitted He Was Facing an \"Avalanche\" of Excess Wafers and Memory",
-      "url": "https://respawnfirst.com/before-resigning-jensen-huang-admitted-he-was-facing-an-avalanche-of-excess-wafers-and-memory-new-report-sheds-more-light-on-the-gpu-ram-crisis/",
-      "source": "Respawnfirst.com",
-      "domain": "respawnfirst.com",
-      "published_at": "2026-11-13T13:08:48Z",
+      "theme": "總體風險",
+      "title": "Rupee defies dollar rally, climbs to 7-month high on falling oil prices",
+      "summary": "The dollar index, climbing nearly 2% in a month to hit its highest level in 19 months, traded at a fresh peak of 103.70 on Tuesday, showed Dow Jones MarketWatch data. A reading above 100 indicates the dollar's relative firmness against a basket of most freque…",
+      "original_title": "Rupee defies dollar rally, climbs to 7-month high on falling oil prices",
+      "url": "https://m.economictimes.com/markets/forex/forex-news/rupee-defies-dollar-rally-climbs-to-7-month-high-on-falling-oil-prices/articleshow/135943804.cms",
+      "source": "Economictimes.com",
+      "domain": "m.economictimes.com",
+      "published_at": "2026-11-17T23:58:58Z",
       "importance": 60,
-      "impact": "negative",
+      "impact": "positive",
       "timeframe": "short_term",
       "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
       ],
       "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
       ],
       "related_models": [
         "003",
@@ -789,7 +903,42 @@
         "009",
         "010"
       ],
-      "reason": "屬「半導體先進製程」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "4ce9f00e85976ef6",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "Nvidia’s Earnings Call Is the AI Economy’s Next Stress Test",
+      "summary": "Jensen Huang’s departure was only a symptom of a bigger problem.",
+      "original_title": "Nvidia’s Earnings Call Is the AI Economy’s Next Stress Test",
+      "url": "https://www.cnet.com/tech/services-and-software/nvidia-earnings-call-ai-economy-stress-test/",
+      "source": "CNET",
+      "domain": "cnet.com",
+      "published_at": "2026-11-17T22:03:34Z",
+      "importance": 60,
+      "impact": "negative",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "809b5f6da4e11b5d",
@@ -830,19 +979,57 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "9b10af977841c689",
+      "id": "a007f93a04990b1d",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "台积电子公司斥资5亿美元认购Anthropic股票",
+      "summary": "台积电11月19日公告称，旗下子公司TSMC Partners, Ltd.投资Anthropic，认购其602.41万股N类普通股，每股价格83美元，交易总金额约5亿美元（499999968美元），价格与IPO发行价相同。（界面）",
+      "original_title": "台积电子公司斥资5亿美元认购Anthropic股票",
+      "url": "https://36kr.com/newsflashes/4077284313174921?f=rss",
+      "source": "36kr.com",
+      "domain": "36kr.com",
+      "published_at": "2026-11-19T23:16:17Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "ffc1e588c58f38d2",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "AI伺服器",
-      "title": "Jensen Huang and the decline of the visionary showman founder CEO",
-      "summary": "On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and cheers of a 14,000-person arena absolutely packed with influencers and fans, their faces awash in blue glow…",
-      "original_title": "Jensen Huang and the decline of the visionary showman founder CEO",
-      "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "published_at": "2026-11-14T01:34:37Z",
-      "importance": 58,
-      "impact": "negative",
+      "title": "My old gaming laptop is now the local AI server for my whole house",
+      "summary": "Gemma 4 drives my productivity tasks on a dinosaur laptop I was going to throw out",
+      "original_title": "My old gaming laptop is now the local AI server for my whole house",
+      "url": "https://www.xda-developers.com/my-old-gaming-laptop-is-now-the-local-ai-server-for-my-whole-house/",
+      "source": "XDA Developers",
+      "domain": "xda-developers.com",
+      "published_at": "2026-11-19T21:30:21Z",
+      "importance": 55,
+      "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
         "AI",
@@ -865,7 +1052,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "7ab5b1886f4c86dd",
@@ -1134,32 +1321,32 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "0107843343e4460c",
+      "id": "2299d69811183b00",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "恒指开盘跌0.34%，恒生科技指数跌0.18%",
-      "summary": "36氪获悉，恒指开盘跌0.34%，恒生科技指数跌0.18%；半导体、GEO、CPO领涨，智谱、MINIMAX-W、剑桥科技涨超4%，中际旭创涨超2%；有色金属、煤炭板块跌幅居前，灵宝黄金跌超4%，紫金黄金国际跌超2%。",
-      "original_title": "恒指开盘跌0.34%，恒生科技指数跌0.18%",
-      "url": "https://36kr.com/newsflashes/4074585958519939?f=rss",
-      "source": "36kr.com",
-      "domain": "36kr.com",
-      "published_at": "2026-11-18T01:23:10Z",
+      "theme": "總體風險",
+      "title": "China, Canada expand tariff relief after Carney-Xi meeting",
+      "summary": "China offers tariff cuts on Canadian pork and seafood, as Canada extends exemptions for Chinese steel and aluminium.",
+      "original_title": "China, Canada expand tariff relief after Carney-Xi meeting",
+      "url": "https://www.aljazeera.com/economy/2026/11/17/china-canada-expand-tariff-relief-after-carney-xi-meeting",
+      "source": "Al Jazeera English",
+      "domain": "aljazeera.com",
+      "published_at": "2026-11-17T20:11:41Z",
       "importance": 55,
-      "impact": "neutral",
+      "impact": "negative",
       "timeframe": "short_term",
       "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
       ],
       "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
       ],
       "related_models": [
         "003",
@@ -1169,7 +1356,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "64899aeac37480ba",
@@ -1543,19 +1730,19 @@
       "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "3dce237bc29993b9",
+      "id": "9b10af977841c689",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "AI伺服器",
-      "title": "Chinese AI labs are training models on Nvidia's Blackwell despite export controls, says ex-OpenAI engineer",
-      "summary": "Forensic report finds Blackwell's fingerprint in DeepSeek, Moonshot AI, MiniMax and Ant Group models",
-      "original_title": "Chinese AI labs are training models on Nvidia's Blackwell despite export controls, says ex-OpenAI engineer",
-      "url": "https://www.theregister.com/ai-and-ml/2026/11/13/chinese-ai-labs-are-training-models-on-nvidias-blackwell-despite-export-controls-says-ex-openai-engineer/5309891",
-      "source": "Theregister.com",
-      "domain": "theregister.com",
-      "published_at": "2026-11-13T21:16:22Z",
-      "importance": 55,
-      "impact": "neutral",
+      "title": "Jensen Huang and the decline of the visionary showman founder CEO",
+      "summary": "On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and cheers of a 14,000-person arena absolutely packed with influencers and fans, their faces awash in blue glow…",
+      "original_title": "Jensen Huang and the decline of the visionary showman founder CEO",
+      "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "published_at": "2026-11-14T01:34:37Z",
+      "importance": 53,
+      "impact": "negative",
       "timeframe": "short_term",
       "tags": [
         "AI",
@@ -1578,35 +1765,35 @@
         "009",
         "010"
       ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "3def0b5d46908236",
+      "id": "0107843343e4460c",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "Oil Prices Fall as Optimism Over Conflict Resolution Builds",
-      "summary": "Crude oil prices extended their decline on Tuesday, Nov. 10, 2026, as traders reacted to diplomatic signals suggesting progress toward ending the U.S.-Iran conflict, according to exchange data and market analysts. The pullback reversed part of a risk premium …",
-      "original_title": "Oil Prices Fall as Optimism Over Conflict Resolution Builds",
-      "url": "https://www.naturalnews.com/2026-11-13-oil-cost-falls-optimism-conflict-resolution-builds.html",
-      "source": "Naturalnews.com",
-      "domain": "naturalnews.com",
-      "published_at": "2026-11-13T06:00:00Z",
-      "importance": 55,
-      "impact": "negative",
+      "theme": "光通訊與矽光子",
+      "title": "恒指开盘跌0.34%，恒生科技指数跌0.18%",
+      "summary": "36氪获悉，恒指开盘跌0.34%，恒生科技指数跌0.18%；半导体、GEO、CPO领涨，智谱、MINIMAX-W、剑桥科技涨超4%，中际旭创涨超2%；有色金属、煤炭板块跌幅居前，灵宝黄金跌超4%，紫金黄金国际跌超2%。",
+      "original_title": "恒指开盘跌0.34%，恒生科技指数跌0.18%",
+      "url": "https://36kr.com/newsflashes/4074585958519939?f=rss",
+      "source": "36kr.com",
+      "domain": "36kr.com",
+      "published_at": "2026-11-18T01:23:10Z",
+      "importance": 50,
+      "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
+        "光通訊",
+        "CPO",
+        "矽光子"
       ],
       "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
       ],
       "related_models": [
         "003",
@@ -1616,7 +1803,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "f5e95fd30cd221ed",
@@ -2361,90 +2548,17 @@
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "c66d0fbc9420aaff",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "Australian Wagyu Sale at Costco Instore (Auburn/Lidcombe) $20 off/Pack Ribeye $15 off/Pack New York (Membership Required)",
-      "summary": "Australian Wagyu (grain fed 300 days) one day deal. Discount is per pack, not per kilo. First time come across discounts like these, they usually discount tenderloin (eye fillet) once or twice a …",
-      "original_title": "Australian Wagyu Sale at Costco Instore (Auburn/Lidcombe) $20 off/Pack Ribeye $15 off/Pack New York (Membership Required)",
-      "url": "https://www.ozbargain.com.au/node/983104",
-      "source": "Ozbargain.com.au",
-      "domain": "ozbargain.com.au",
-      "published_at": "2026-11-14T03:34:35Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "4d6accf3ca388927",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "Infinix’s $145 Android tablet is a reminder that cheap tablets were never impossible",
-      "summary": "Walk into any Best Buy this holiday season and try to buy a decent tablet without spending a car payment. I'll wait. The base iPad now starts at $449, the iPad mini sits at $599, and an 11-inch iPad Air will run you $749 before you've even glanced at a stylus…",
-      "original_title": "Infinix’s $145 Android tablet is a reminder that cheap tablets were never impossible",
-      "url": "https://www.yankodesign.com/2026/11/13/infinixs-145-android-tablet-is-a-reminder-that-cheap-tablets-were-never-impossible/",
-      "source": "Yanko Design",
-      "domain": "yankodesign.com",
-      "published_at": "2026-11-13T23:30:55Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "989c0a5803bd92f7",
+      "id": "58d0688ba505aaf4",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "總體風險",
-      "title": "Scott Colom Pushes Back on Schumer After Historic Mississippi Win",
-      "summary": "Newly elected Democratic Senator Scott Colom is pushing back after Senator Chuck Schumer took credit for his win, refusing to commit to backing him for Senate majority leader next year.Colom told MS NOW’s Symone Sanders-Townsend Thursday that he spoke to Schu…",
-      "original_title": "Scott Colom Pushes Back on Schumer After Historic Mississippi Win",
-      "url": "https://newrepublic.com/post/217987/scott-colom-pushes-back-schumer-recruit-mississippi-senate-win",
-      "source": "The New Republic",
-      "domain": "newrepublic.com",
-      "published_at": "2026-11-13T16:41:33Z",
+      "title": "Sensex, Nifty snap 3-day rally as oil, inflation worries weigh",
+      "summary": "The Indian stock indices experienced a retreat as increasing crude oil costs negatively impacted market sentiment. Retail inflation hit 6.09% in October, breaching the tolerance threshold set by the Reserve Bank of India. This spike raised alarms about possib…",
+      "original_title": "Sensex, Nifty snap 3-day rally as oil, inflation worries weigh",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-nifty-snap-3-day-rally-as-oil-inflation-worries-weigh/articleshow/135820525.cms",
+      "source": "The Times of India",
+      "domain": "economictimes.indiatimes.com",
+      "published_at": "2026-11-14T02:30:42Z",
       "importance": 50,
       "impact": "positive",
       "timeframe": "short_term",
@@ -2472,131 +2586,17 @@
       "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "358fd9e128aa2dee",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "MAGA Rep. Freaks Out at His Own Party After Election Bloodbath",
-      "summary": "Texas Representative Chip Roy ripped into his own party during a half-hour rant on the House floor Thursday, slamming Republicans for failing to prioritize the American public over their own political interests.“Somebody tell me why Republicans lost last Tues…",
-      "original_title": "MAGA Rep. Freaks Out at His Own Party After Election Bloodbath",
-      "url": "https://newrepublic.com/post/217997/maga-representative-freaks-out-own-party-elections",
-      "source": "The New Republic",
-      "domain": "newrepublic.com",
-      "published_at": "2026-11-13T17:38:14Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "9fbfd91601d0c7c7",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "Alito Goes After Lower Court Judges Who Dare to Rule Against Trump",
-      "summary": "Conservative Supreme Court Justice Samuel Alito thinks that many of the lower court judges were “unjustified” in blocking President Trump’s policies. Alito made the comments at a Federalist Society panel on Thursday. “They are dedicated and they are skillful,…",
-      "original_title": "Alito Goes After Lower Court Judges Who Dare to Rule Against Trump",
-      "url": "https://newrepublic.com/post/217993/supreme-court-alito-lower-court-judges-rule-against-trump",
-      "source": "The New Republic",
-      "domain": "newrepublic.com",
-      "published_at": "2026-11-13T17:27:00Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "b445bab66ed9bc71",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "Full List of Senators Who Back Chris Van Hollen Over Chuck Schumer",
-      "summary": "The race for Senate majority leader is heating up.Maryland Senator Chris Van Hollen has emerged as the leading alternative to New York Senator Chuck Schumer in a sign of the incoming Democratic majority’s preference for change and an aversion to establishment…",
-      "original_title": "Full List of Senators Who Back Chris Van Hollen Over Chuck Schumer",
-      "url": "https://newrepublic.com/post/217991/full-list-senators-back-chris-van-hollen-leader",
-      "source": "The New Republic",
-      "domain": "newrepublic.com",
-      "published_at": "2026-11-13T17:05:52Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "f2c5679e3ab5ceae",
+      "id": "c66d0fbc9420aaff",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "光通訊與矽光子",
-      "title": "BSc High Protein Powder Vanilla 800g $39.95 ($35.95 Sub & Save) + Delivery ($0 with Prime/$59 Spend) @ Amazon AU",
-      "summary": "Features: HASTA tested for purity and safety 5 x Digestive Enzymes to aid in a healthy gut Fast and Slow protein blend Ideal protein blend to improve muscle repair and build …",
-      "original_title": "BSc High Protein Powder Vanilla 800g $39.95 ($35.95 Sub & Save) + Delivery ($0 with Prime/$59 Spend) @ Amazon AU",
-      "url": "https://www.ozbargain.com.au/node/982912",
+      "title": "Australian Wagyu Sale at Costco Instore (Auburn/Lidcombe) $20 off/Pack Ribeye $15 off/Pack New York (Membership Required)",
+      "summary": "Australian Wagyu (grain fed 300 days) one day deal. Discount is per pack, not per kilo. First time come across discounts like these, they usually discount tenderloin (eye fillet) once or twice a …",
+      "original_title": "Australian Wagyu Sale at Costco Instore (Auburn/Lidcombe) $20 off/Pack Ribeye $15 off/Pack New York (Membership Required)",
+      "url": "https://www.ozbargain.com.au/node/983104",
       "source": "Ozbargain.com.au",
       "domain": "ozbargain.com.au",
-      "published_at": "2026-11-13T01:17:23Z",
+      "published_at": "2026-11-14T03:34:35Z",
       "importance": 45,
       "impact": "neutral",
       "timeframe": "short_term",
