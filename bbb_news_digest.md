@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-21T03:46:40.879412+00:00
+> 更新時間：2026-11-21T07:52:26.476195+00:00
 
 ### ⚠️ CPO mass production faces hybrid bonding yield challenges, potentially delaying large-scale shipments until late 2027
 - **題材**: `光通訊與矽光子` | **重要性**: `88`
@@ -10,21 +10,21 @@
 
 ---
 
+### 🚀 Suregiant targets high-double-digit growth as release film enters advanced packaging
+- **題材**: `半導體先進製程` | **重要性**: `83`
+- **來源**: Digitimes (2026-11-20T06:32:51Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: AI chips are driving foundries and OSAT providers to expand capacity for advanced packaging technologies such as CoWoS, creating a new wave of localization opportunities for critical materials suppliers. Suregiant Technology's release films have entered mass …
+- [原文連結](https://www.digitimes.com/news/a20261119PD201/packaging-chips-growth-supply-chain-capacity.html)
+
+---
+
 ### 🚀 Taiwan Mask expands 14-inch capacity to capture CoWoS and photonics growth
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
 - **來源**: Digitimes (2026-11-18T08:45:00Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Taiwan Mask, a subsidiary of Star Fusion Group, is overhauling its product mix and expanding overseas to capture surging demand across advanced packaging, silicon photonics, and advanced-node photomasks. The company is targeting nearly 20% year-over-year reve…
 - [原文連結](https://www.digitimes.com/news/a20261118PD253/taiwan-mask-growth-photonics-14-inch-capacity.html)
-
----
-
-### ⚖️ Nvidia, SPIL sign multibillion-dollar deal to triple advanced packaging capacity by 2029
-- **題材**: `半導體先進製程` | **重要性**: `83`
-- **來源**: Digitimes (2026-11-18T05:34:49Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Siliconware Precision Industries (SPIL), a subsidiary of ASE Technology Holding, has announced a multibillion-dollar, multi-year agreement with Nvidia to significantly expand its chip-on-wafer-on-substrate (CoWoS) advanced packaging capacity in Taiwan, aiming…
-- [原文連結](https://www.digitimes.com/news/a20261118PD239/nvidia-spil-packaging-capacity.html)
 
 ---
 
@@ -46,12 +46,12 @@
 
 ---
 
-### 🚀 SK Hynix's US revenue tops 60%, exposing Nvidia's growing weight in AI memory sales
-- **題材**: `HBM記憶體` | **重要性**: `78`
-- **來源**: Digitimes (2026-11-17T04:41:25Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: SK Hynix generated more than 60% of its revenue from the US in the first nine months of 2026, with sales to its presumed largest customer, Nvidia, doubling from a year earlier. Strong demand for high-bandwidth memory (HBM) and conventional memory chips has sh…
-- [原文連結](https://www.digitimes.com/news/a20261117VL211/sk-hynix-memory-nvidia-revenue-sales-2026.html)
+### ⚖️ Nvidia, SPIL sign multibillion-dollar deal to triple advanced packaging capacity by 2029
+- **題材**: `半導體先進製程` | **重要性**: `78`
+- **來源**: Digitimes (2026-11-18T05:34:49Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Siliconware Precision Industries (SPIL), a subsidiary of ASE Technology Holding, has announced a multibillion-dollar, multi-year agreement with Nvidia to significantly expand its chip-on-wafer-on-substrate (CoWoS) advanced packaging capacity in Taiwan, aiming…
+- [原文連結](https://www.digitimes.com/news/a20261118PD239/nvidia-spil-packaging-capacity.html)
 
 ---
 
@@ -61,15 +61,6 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Google is looking to buy high-bandwidth memory (HBM) directly for AI chips developed with MediaTek, potentially cutting billions of dollars in procurement costs and changing how Samsung Electronics, SK Hynix and Micron Technology negotiate with major customer…
 - [原文連結](https://www.digitimes.com/news/a20261119VL217/google-hbm-broadcom-mediatek-2027.html)
-
----
-
-### ⚖️ Xintec, TSMC sign 7-year capacity outsourcing agreement to build on-substrate production line
-- **題材**: `半導體先進製程` | **重要性**: `73`
-- **來源**: Digitimes (2026-11-17T03:44:38Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: In response to strong capacity demand for high-performance computing (HPC) chips, Xintec has signed a seven-year capacity outsourcing agreement with its parent company TSMC to collaborate on backend advanced packaging processes and deepen their long-term stra…
-- [原文連結](https://www.digitimes.com/news/a20261116PD237/xintec-substrate-production-capacity-outsourcing-tsmc.html)
 
 ---
 
@@ -84,6 +75,15 @@ Working with Amkor Technolog…
 
 ---
 
+### ⚖️ SK Hynix reportedly plans to buy HBM bonding tools from Besi
+- **題材**: `HBM記憶體` | **重要性**: `68`
+- **來源**: Digitimes (2026-11-20T04:29:24Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: SK Hynix plans to buy its initial batch of hybrid bonding equipment for next-generation high-bandwidth memory (HBM) from Dutch chip equipment maker BE Semiconductor Industries (Besi), potentially giving the company an edge over South Korean rivals competing f…
+- [原文連結](https://www.digitimes.com/news/a20261120VL212/sk-hynix-hbm-equipment-dutch-production.html)
+
+---
+
 ### ⚖️ Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing
 - **題材**: `AI伺服器` | **重要性**: `68`
 - **來源**: The Verge (2026-11-17T21:52:53Z)
@@ -93,12 +93,12 @@ Working with Amkor Technolog…
 
 ---
 
-### ⚖️ TSMC 3nm enters HBM as NVHBM reshapes base-die competition
-- **題材**: `半導體先進製程` | **重要性**: `68`
-- **來源**: Digitimes (2026-11-17T02:33:53Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Demand for high-bandwidth memory (HBM) in AI chips is driving continued technological advances. According to analysis by SemiWiki, Nvidia's development of the Nvidia HBM (NVHBM) architecture could reshape not only HBM performance but also the division of labo…
-- [原文連結](https://www.digitimes.com/news/a20261117PD221/tsmc-3nm-hbm-competition-nvidia.html)
+### ⚠️ Anthropic’s blockbuster IPO couldn’t calm the AI selloff and volatility risks making it worse
+- **題材**: `半導體先進製程` | **重要性**: `65`
+- **來源**: Business Insider (2026-11-20T04:32:53Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Anthropic's hotly anticipated IPO failed to calm the AI selloff, with shares falling nearly 5% after hours as Asian tech stocks plunged.
+- [原文連結](https://www.businessinsider.com/anthropic-stock-price-ipo-kospi-index-ai-trade-volatility-selloff-2026-11)
 
 ---
 

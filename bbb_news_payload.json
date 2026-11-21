@@ -1,9 +1,9 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-11-21T03:46:40.879412+00:00",
+  "generated_at": "2026-11-21T07:52:26.476195+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
-  "total_count": 70,
+  "total_count": 69,
   "items": [
     {
       "id": "1e633475f49de18e",
@@ -44,6 +44,44 @@
       "reason": "屬「光通訊與矽光子」題材之偏空消息。【重大事件】可能顯著影響產業評價、EPS預期或資金流向。"
     },
     {
+      "id": "c0990b06589ddedf",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "Suregiant targets high-double-digit growth as release film enters advanced packaging",
+      "summary": "AI chips are driving foundries and OSAT providers to expand capacity for advanced packaging technologies such as CoWoS, creating a new wave of localization opportunities for critical materials suppliers. Suregiant Technology's release films have entered mass …",
+      "original_title": "Suregiant targets high-double-digit growth as release film enters advanced packaging",
+      "url": "https://www.digitimes.com/news/a20261119PD201/packaging-chips-growth-supply-chain-capacity.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-11-20T06:32:51Z",
+      "importance": 83,
+      "impact": "positive",
+      "timeframe": "short_to_mid_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
       "id": "e45307abda21963c",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -80,44 +118,6 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
-      "id": "30684468848f9f34",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "Nvidia, SPIL sign multibillion-dollar deal to triple advanced packaging capacity by 2029",
-      "summary": "Siliconware Precision Industries (SPIL), a subsidiary of ASE Technology Holding, has announced a multibillion-dollar, multi-year agreement with Nvidia to significantly expand its chip-on-wafer-on-substrate (CoWoS) advanced packaging capacity in Taiwan, aiming…",
-      "original_title": "Nvidia, SPIL sign multibillion-dollar deal to triple advanced packaging capacity by 2029",
-      "url": "https://www.digitimes.com/news/a20261118PD239/nvidia-spil-packaging-capacity.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-11-18T05:34:49Z",
-      "importance": 83,
-      "impact": "neutral",
-      "timeframe": "short_to_mid_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "c1b772839757a9f4",
@@ -196,29 +196,32 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
-      "id": "56549df44b06ab9d",
+      "id": "30684468848f9f34",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "SK Hynix's US revenue tops 60%, exposing Nvidia's growing weight in AI memory sales",
-      "summary": "SK Hynix generated more than 60% of its revenue from the US in the first nine months of 2026, with sales to its presumed largest customer, Nvidia, doubling from a year earlier. Strong demand for high-bandwidth memory (HBM) and conventional memory chips has sh…",
-      "original_title": "SK Hynix's US revenue tops 60%, exposing Nvidia's growing weight in AI memory sales",
-      "url": "https://www.digitimes.com/news/a20261117VL211/sk-hynix-memory-nvidia-revenue-sales-2026.html",
+      "theme": "半導體先進製程",
+      "title": "Nvidia, SPIL sign multibillion-dollar deal to triple advanced packaging capacity by 2029",
+      "summary": "Siliconware Precision Industries (SPIL), a subsidiary of ASE Technology Holding, has announced a multibillion-dollar, multi-year agreement with Nvidia to significantly expand its chip-on-wafer-on-substrate (CoWoS) advanced packaging capacity in Taiwan, aiming…",
+      "original_title": "Nvidia, SPIL sign multibillion-dollar deal to triple advanced packaging capacity by 2029",
+      "url": "https://www.digitimes.com/news/a20261118PD239/nvidia-spil-packaging-capacity.html",
       "source": "Digitimes",
       "domain": "digitimes.com",
-      "published_at": "2026-11-17T04:41:25Z",
+      "published_at": "2026-11-18T05:34:49Z",
       "importance": 78,
-      "impact": "positive",
+      "impact": "neutral",
       "timeframe": "short_to_mid_term",
       "tags": [
-        "HBM",
-        "記憶體"
+        "半導體",
+        "CoWoS",
+        "先進製程"
       ],
       "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
       ],
       "related_models": [
         "003",
@@ -228,7 +231,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+      "reason": "屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "4d18b34870216d06",
@@ -264,44 +267,6 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
-      "id": "765bfa937bf38b56",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "Xintec, TSMC sign 7-year capacity outsourcing agreement to build on-substrate production line",
-      "summary": "In response to strong capacity demand for high-performance computing (HPC) chips, Xintec has signed a seven-year capacity outsourcing agreement with its parent company TSMC to collaborate on backend advanced packaging processes and deepen their long-term stra…",
-      "original_title": "Xintec, TSMC sign 7-year capacity outsourcing agreement to build on-substrate production line",
-      "url": "https://www.digitimes.com/news/a20261116PD237/xintec-substrate-production-capacity-outsourcing-tsmc.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-11-17T03:44:38Z",
-      "importance": 73,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "1e84bc65aa8292e9",
@@ -342,6 +307,41 @@
       "reason": "屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
+      "id": "8877e2e921b7298a",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "SK Hynix reportedly plans to buy HBM bonding tools from Besi",
+      "summary": "SK Hynix plans to buy its initial batch of hybrid bonding equipment for next-generation high-bandwidth memory (HBM) from Dutch chip equipment maker BE Semiconductor Industries (Besi), potentially giving the company an edge over South Korean rivals competing f…",
+      "original_title": "SK Hynix reportedly plans to buy HBM bonding tools from Besi",
+      "url": "https://www.digitimes.com/news/a20261120VL212/sk-hynix-hbm-equipment-dutch-production.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-11-20T04:29:24Z",
+      "importance": 68,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "c2e20015740d4892",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -380,19 +380,19 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "3aa5cd555fcd0b15",
+      "id": "8d299c9f416374d3",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "半導體先進製程",
-      "title": "TSMC 3nm enters HBM as NVHBM reshapes base-die competition",
-      "summary": "Demand for high-bandwidth memory (HBM) in AI chips is driving continued technological advances. According to analysis by SemiWiki, Nvidia's development of the Nvidia HBM (NVHBM) architecture could reshape not only HBM performance but also the division of labo…",
-      "original_title": "TSMC 3nm enters HBM as NVHBM reshapes base-die competition",
-      "url": "https://www.digitimes.com/news/a20261117PD221/tsmc-3nm-hbm-competition-nvidia.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-11-17T02:33:53Z",
-      "importance": 68,
-      "impact": "neutral",
+      "title": "Anthropic’s blockbuster IPO couldn’t calm the AI selloff and volatility risks making it worse",
+      "summary": "Anthropic's hotly anticipated IPO failed to calm the AI selloff, with shares falling nearly 5% after hours as Asian tech stocks plunged.",
+      "original_title": "Anthropic’s blockbuster IPO couldn’t calm the AI selloff and volatility risks making it worse",
+      "url": "https://www.businessinsider.com/anthropic-stock-price-ipo-kospi-index-ai-trade-volatility-selloff-2026-11",
+      "source": "Business Insider",
+      "domain": "businessinsider.com",
+      "published_at": "2026-11-20T04:32:53Z",
+      "importance": 65,
+      "impact": "negative",
       "timeframe": "short_term",
       "tags": [
         "半導體",
@@ -415,7 +415,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「半導體先進製程」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "a3fea2e72ea64ca4",
@@ -1245,82 +1245,6 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "de4cecbdba7b9e3e",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "Higher fuel prices push UK inflation to 3.6%",
-      "summary": "There are also signs inflation is impacting the wider economy, with the cost raw materials and goods leaving factories climbing.",
-      "original_title": "Higher fuel prices push UK inflation to 3.6%",
-      "url": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo",
-      "source": "BBC News",
-      "domain": "bbc.co.uk",
-      "published_at": "2026-11-18T07:15:33Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "740426321f7aae11",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "联讯仪器：在手订单储备较充足，持续提升交付保障能力",
-      "summary": "“公司持续看好中国光通信、半导体等科技领域的长期发展。”联讯仪器相关负责人表示，国内持续释放的市场需求、日益完善的产业生态与不断增强的自主创新能力，将为相关领域的内生增长提供坚实支撑。联讯仪器介绍，公司目前生产经营活动、订单交付及生产扩建等工作均正常开展，内部生产经营秩序正常。公司面向800G、1.6T高速光模块测试的采样示波器、时钟恢复单元等核心仪器为公司2026年主力交付产品，市场需求旺盛。公司系全球第二家推出1.6T光模块全部核心测试仪器的厂商，亦为国内极少数能量产供货400G、800G、1.6T核心测试仪…",
-      "original_title": "联讯仪器：在手订单储备较充足，持续提升交付保障能力",
-      "url": "https://36kr.com/newsflashes/4074826136605577?f=rss",
-      "source": "36kr.com",
-      "domain": "36kr.com",
-      "published_at": "2026-11-18T05:27:29Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "2299d69811183b00",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1768,6 +1692,82 @@
       "reason": "屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "de4cecbdba7b9e3e",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "Higher fuel prices push UK inflation to 3.6%",
+      "summary": "There are also signs inflation is impacting the wider economy, with the cost raw materials and goods leaving factories climbing.",
+      "original_title": "Higher fuel prices push UK inflation to 3.6%",
+      "url": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo",
+      "source": "BBC News",
+      "domain": "bbc.co.uk",
+      "published_at": "2026-11-18T07:15:33Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "740426321f7aae11",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "联讯仪器：在手订单储备较充足，持续提升交付保障能力",
+      "summary": "“公司持续看好中国光通信、半导体等科技领域的长期发展。”联讯仪器相关负责人表示，国内持续释放的市场需求、日益完善的产业生态与不断增强的自主创新能力，将为相关领域的内生增长提供坚实支撑。联讯仪器介绍，公司目前生产经营活动、订单交付及生产扩建等工作均正常开展，内部生产经营秩序正常。公司面向800G、1.6T高速光模块测试的采样示波器、时钟恢复单元等核心仪器为公司2026年主力交付产品，市场需求旺盛。公司系全球第二家推出1.6T光模块全部核心测试仪器的厂商，亦为国内极少数能量产供货400G、800G、1.6T核心测试仪…",
+      "original_title": "联讯仪器：在手订单储备较充足，持续提升交付保障能力",
+      "url": "https://36kr.com/newsflashes/4074826136605577?f=rss",
+      "source": "36kr.com",
+      "domain": "36kr.com",
+      "published_at": "2026-11-18T05:27:29Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "0107843343e4460c",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1817,41 +1817,6 @@
       "source": "Slickdeals.net",
       "domain": "slickdeals.net",
       "published_at": "2026-11-17T19:33:25Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "9f57c5bf1e3bd0e8",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "Tòa Mỹ cho vụ kiện thông đồng giá RAM đi tiếp: tòa quyết gì, chưa quyết gì",
-      "summary": "Ai build PC hay nâng RAM năm nay chắc cũng thấm cái giá. Giữa lúc đó, một tòa án liên bang ở Mỹ vừa bác đề nghị bác đơn của Samsung, SK hynix và Micron trong vụ kiện cáo buộc ba hãng bắt tay hạn chế nguồn cung RAM.",
-      "original_title": "Tòa Mỹ cho vụ kiện thông đồng giá RAM đi tiếp: tòa quyết gì, chưa quyết gì",
-      "url": "https://tinhte.vn/thread/toa-my-cho-vu-kien-thong-dong-gia-ram-di-tiep-toa-quyet-gi-chua-quyet-gi.4193437/",
-      "source": "Tinhte.vn",
-      "domain": "tinhte.vn",
-      "published_at": "2026-11-17T19:21:58Z",
       "importance": 50,
       "impact": "neutral",
       "timeframe": "short_term",
