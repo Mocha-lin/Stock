@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-22T02:50:34.536459+00:00
+> 更新時間：2026-11-22T07:38:26.470171+00:00
 
 ### ⚠️ CPO mass production faces hybrid bonding yield challenges, potentially delaying large-scale shipments until late 2027
 - **題材**: `光通訊與矽光子` | **重要性**: `88`
@@ -46,15 +46,6 @@
 
 ---
 
-### ⚖️ Google looks to bypass Broadcom with direct HBM purchases
-- **題材**: `HBM記憶體` | **重要性**: `73`
-- **來源**: Digitimes (2026-11-19T04:01:06Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Google is looking to buy high-bandwidth memory (HBM) directly for AI chips developed with MediaTek, potentially cutting billions of dollars in procurement costs and changing how Samsung Electronics, SK Hynix and Micron Technology negotiate with major customer…
-- [原文連結](https://www.digitimes.com/news/a20261119VL217/google-hbm-broadcom-mediatek-2027.html)
-
----
-
 ### ⚖️ CPO's next challenge in AI data centers: Manufacturing yield and testing hold key to mass production
 - **題材**: `光通訊與矽光子` | **重要性**: `73`
 - **來源**: Digitimes (2026-11-19T01:55:08Z)
@@ -70,6 +61,15 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: In response to strong capacity demand for high-performance computing (HPC) chips, Xintec has signed a seven-year capacity outsourcing agreement with its parent company TSMC to collaborate on backend advanced packaging processes and deepen their long-term stra…
 - [原文連結](https://www.digitimes.com/news/a20261116PD237/xintec-substrate-production-capacity-outsourcing-tsmc.html)
+
+---
+
+### ⚖️ Google looks to bypass Broadcom with direct HBM purchases
+- **題材**: `HBM記憶體` | **重要性**: `68`
+- **來源**: Digitimes (2026-11-19T04:01:06Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Google is looking to buy high-bandwidth memory (HBM) directly for AI chips developed with MediaTek, potentially cutting billions of dollars in procurement costs and changing how Samsung Electronics, SK Hynix and Micron Technology negotiate with major customer…
+- [原文連結](https://www.digitimes.com/news/a20261119VL217/google-hbm-broadcom-mediatek-2027.html)
 
 ---
 
