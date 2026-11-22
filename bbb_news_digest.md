@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-21T19:51:19.787642+00:00
+> 更新時間：2026-11-22T02:50:34.536459+00:00
 
 ### ⚠️ CPO mass production faces hybrid bonding yield challenges, potentially delaying large-scale shipments until late 2027
 - **題材**: `光通訊與矽光子` | **重要性**: `88`
@@ -16,15 +16,6 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: AI chips are driving foundries and OSAT providers to expand capacity for advanced packaging technologies such as CoWoS, creating a new wave of localization opportunities for critical materials suppliers. Suregiant Technology's release films have entered mass …
 - [原文連結](https://www.digitimes.com/news/a20261119PD201/packaging-chips-growth-supply-chain-capacity.html)
-
----
-
-### ⚖️ CPO's next challenge in AI data centers: Manufacturing yield and testing hold key to mass production
-- **題材**: `光通訊與矽光子` | **重要性**: `78`
-- **來源**: Digitimes (2026-11-19T01:55:08Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: As AI data centers demand greater network bandwidth and energy efficiency, co-packaged optics (CPO) technology is gradually moving beyond laboratory validation toward commercial deployment.
-- [原文連結](https://www.digitimes.com/news/a20261118PD248/cpo-data-production-testing-bandwidth.html)
 
 ---
 
@@ -64,12 +55,48 @@
 
 ---
 
+### ⚖️ CPO's next challenge in AI data centers: Manufacturing yield and testing hold key to mass production
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-11-19T01:55:08Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: As AI data centers demand greater network bandwidth and energy efficiency, co-packaged optics (CPO) technology is gradually moving beyond laboratory validation toward commercial deployment.
+- [原文連結](https://www.digitimes.com/news/a20261118PD248/cpo-data-production-testing-bandwidth.html)
+
+---
+
+### ⚖️ Xintec, TSMC sign 7-year capacity outsourcing agreement to build on-substrate production line
+- **題材**: `半導體先進製程` | **重要性**: `73`
+- **來源**: Digitimes (2026-11-17T03:44:38Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: In response to strong capacity demand for high-performance computing (HPC) chips, Xintec has signed a seven-year capacity outsourcing agreement with its parent company TSMC to collaborate on backend advanced packaging processes and deepen their long-term stra…
+- [原文連結](https://www.digitimes.com/news/a20261116PD237/xintec-substrate-production-capacity-outsourcing-tsmc.html)
+
+---
+
 ### ⚖️ Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing
 - **題材**: `AI伺服器` | **重要性**: `68`
 - **來源**: The Verge (2026-11-17T21:52:53Z)
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang or the details of his departure, or possible attempt at a return. That will likely change once analysts are on the line for i…
 - [原文連結](https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang)
+
+---
+
+### ⚖️ TSMC 3nm enters HBM as NVHBM reshapes base-die competition
+- **題材**: `半導體先進製程` | **重要性**: `68`
+- **來源**: Digitimes (2026-11-17T02:33:53Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Demand for high-bandwidth memory (HBM) in AI chips is driving continued technological advances. According to analysis by SemiWiki, Nvidia's development of the Nvidia HBM (NVHBM) architecture could reshape not only HBM performance but also the division of labo…
+- [原文連結](https://www.digitimes.com/news/a20261117PD221/tsmc-3nm-hbm-competition-nvidia.html)
+
+---
+
+### 🚀 Senate passes bipartisan energy bill amid environmental concerns
+- **題材**: `總體風險` | **重要性**: `65`
+- **來源**: NPR (2026-11-20T11:00:28Z)
+- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: As Americans struggle with rising energy costs and increased demand driven by AI, the Senate passed a bipartisan bill that will speed up the approval process for data centers and power plants.
+- [原文連結](https://www.npr.org/2026/11/20/g-s1-154579/senate-bipartisan-energy-bill)
 
 ---
 
@@ -99,16 +126,6 @@ Working with Amkor Technolog…
 - **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Companies get billions in tariff refunds. Consumers are left with the bill.
 - [原文連結](https://www.aljazeera.com/video/newsfeed/2026/11/17/companies-get-billions-in-tariff-refunds-consumers-are-left-with-the-bill)
-
----
-
-### 🚀 GlobalFoundries posts record gross margin as optical networking takes center stage
-- **題材**: `光通訊與矽光子` | **重要性**: `65`
-- **來源**: Crypto Briefing (2026-11-14T02:19:57Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: GlobalFoundries' strategic pivot to optical networking and AI data centers signals a transformative shift in semiconductor industry dynamics.
-The post GlobalFoundries posts record gross margin as optical networking takes center stage appeared first on Crypto …
-- [原文連結](https://cryptobriefing.com/globalfoundries-record-margin-optical-networking/)
 
 ---
 
@@ -163,24 +180,6 @@ The post GlobalFoundries posts record gross margin as optical networking takes c
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Vivo is working on another X Fold—the X Fold 7—however, there's a decision to be made about which chip it'll use. And it's all about the price.
 - [原文連結](https://www.androidcentral.com/phones/vivo/vivos-next-x-fold-has-a-conundrum-theres-a-chip-battle-and-only-one-will-win)
-
----
-
-### ⚖️ Samsung reportedly making custom memory for Meta’s AI chips
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: SamMobile (2026-11-18T13:48:53Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Samsung has become invaluable to the AI supply chain as both a key supplier of memory chips as well as one of the very few foundry operators that can produce chips on advanced 2nm nodes. The company may now be involved in the development of custom high-bandwi…
-- [原文連結](https://www.sammobile.com/news/samsung-reportedly-making-custom-memory-for-metas-ai-chips/)
-
----
-
-### 🚀 Rupee defies dollar rally, climbs to 7-month high on falling oil prices
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Economictimes.com (2026-11-17T23:58:58Z)
-- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: The dollar index, climbing nearly 2% in a month to hit its highest level in 19 months, traded at a fresh peak of 103.70 on Tuesday, showed Dow Jones MarketWatch data. A reading above 100 indicates the dollar's relative firmness against a basket of most freque…
-- [原文連結](https://m.economictimes.com/markets/forex/forex-news/rupee-defies-dollar-rally-climbs-to-7-month-high-on-falling-oil-prices/articleshow/135943804.cms)
 
 ---
 
