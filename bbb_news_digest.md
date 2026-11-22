@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-22T16:54:42.333397+00:00
+> 更新時間：2026-11-22T20:00:21.656666+00:00
 
 ### ⚠️ CPO mass production faces hybrid bonding yield challenges, potentially delaying large-scale shipments until late 2027
 - **題材**: `光通訊與矽光子` | **重要性**: `88`
@@ -144,15 +144,6 @@ Working with Amkor Technolog…
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Intel is developing next-generation Xeon processors, AI accelerators, optical networking, and quantum computing technologies while maintaining software compatibility across scientific computing environments.
 - [原文連結](https://www.techradar.com/pro/intels-commitment-to-the-hpc-community-is-grounded-in-a-pragmatic-reality-intel-affirms-its-backing-for-the-next-generation-of-high-powered-computing-to-push-the-boundaries-of-ai)
-
----
-
-### ⚖️ 卡位1.6T、CPO商機！「這大廠」赴陸泰擴產搶單　目標價上看680元
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-11-19T17:05:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: AI資料中心推升光模組規格向1.6T與CPO演進，帶動mSAP細線路與高階PCB需求大增。法人看好PCB龍頭臻鼎-KY搶占AI伺服器與高階商機，產能布局與高毛利產品比重顯著提升，預估今明兩年EPS大幅成長，給予買進評等與目標價680元，供應鏈前景看俏。
-- [原文連結](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_954bd162-76ab-4a3e-8963-45950a5838e9)
 
 ---
 
