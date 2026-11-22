@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-22T07:38:26.470171+00:00
+> 更新時間：2026-11-22T16:54:42.333397+00:00
 
 ### ⚠️ CPO mass production faces hybrid bonding yield challenges, potentially delaying large-scale shipments until late 2027
 - **題材**: `光通訊與矽光子` | **重要性**: `88`
@@ -55,12 +55,12 @@
 
 ---
 
-### ⚖️ Xintec, TSMC sign 7-year capacity outsourcing agreement to build on-substrate production line
-- **題材**: `半導體先進製程` | **重要性**: `73`
-- **來源**: Digitimes (2026-11-17T03:44:38Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: In response to strong capacity demand for high-performance computing (HPC) chips, Xintec has signed a seven-year capacity outsourcing agreement with its parent company TSMC to collaborate on backend advanced packaging processes and deepen their long-term stra…
-- [原文連結](https://www.digitimes.com/news/a20261116PD237/xintec-substrate-production-capacity-outsourcing-tsmc.html)
+### ⚠️ Rapidus reportedly struggles to produce working SRAM on its 2nm node, putting 2027 mass production at risk
+- **題材**: `半導體先進製程` | **重要性**: `72`
+- **來源**: Tom's Hardware UK (2026-11-21T15:30:00Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Japan's semiconductor startup has demonstrated functioning GAA transistors, but integrating them into working memory cells appears to be a considerably greater challenge.
+- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/rapidus-reportedly-struggles-to-produce-working-sram-on-its-2nm-node-putting-2027-mass-production-at-risk-company-faces-significant-challenges-using-euv-to-develop-gaa-transistors)
 
 ---
 
@@ -129,15 +129,6 @@ Working with Amkor Technolog…
 
 ---
 
-### ⚠️ Judge denies motion to dismiss DRAM price-fixing lawsuit against Micron, Samsung, and SK hynix
-- **題材**: `HBM記憶體` | **重要性**: `62`
-- **來源**: Tom's Hardware UK (2026-11-15T15:09:50Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: The judge characterized the three companies as "hawks flying in formation" when it came to their business decisions.
-- [原文連結](https://www.tomshardware.com/tech-industry/big-tech/judge-denies-motion-to-dismiss-dram-price-fixing-lawsuit-against-micron-samsung-and-sk-hynix-says-chipmakers-acted-like-hawks-flying-in-formation-finds-evidence-of-dram-collusion-plausible-after-500-percent-price-surge)
-
----
-
 ### 🚀 Oil Price Today (November 20): Brent crude rises to $93 as fresh Houthi attacks heighten worries. What are experts saying?
 - **題材**: `總體風險` | **重要性**: `60`
 - **來源**: Economictimes.com (2026-11-20T02:39:43Z)
@@ -165,21 +156,21 @@ Working with Amkor Technolog…
 
 ---
 
-### ⚖️ The AI ‘supertelescope’ that could transform the universe
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: Scientific American (2026-11-19T14:00:00Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Astronomers want to combine data from three new giant telescope surveys into a fourth virtual observatory
-- [原文連結](https://www.scientificamerican.com/article/the-ai-supertelescope-that-could-transform-the-universe/)
+### ⚖️ Samsung reportedly making custom memory for Meta’s AI chips
+- **題材**: `HBM記憶體` | **重要性**: `60`
+- **來源**: SamMobile (2026-11-18T13:48:53Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Samsung has become invaluable to the AI supply chain as both a key supplier of memory chips as well as one of the very few foundry operators that can produce chips on advanced 2nm nodes. The company may now be involved in the development of custom high-bandwi…
+- [原文連結](https://www.sammobile.com/news/samsung-reportedly-making-custom-memory-for-metas-ai-chips/)
 
 ---
 
-### 🚀 Vivo's next X Fold has a conundrum—there's a chip battle, and only one will win
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: Android Central (2026-11-19T11:11:00Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Vivo is working on another X Fold—the X Fold 7—however, there's a decision to be made about which chip it'll use. And it's all about the price.
-- [原文連結](https://www.androidcentral.com/phones/vivo/vivos-next-x-fold-has-a-conundrum-theres-a-chip-battle-and-only-one-will-win)
+### 🚀 Rupee defies dollar rally, climbs to 7-month high on falling oil prices
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Economictimes.com (2026-11-17T23:58:58Z)
+- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: The dollar index, climbing nearly 2% in a month to hit its highest level in 19 months, traded at a fresh peak of 103.70 on Tuesday, showed Dow Jones MarketWatch data. A reading above 100 indicates the dollar's relative firmness against a basket of most freque…
+- [原文連結](https://m.economictimes.com/markets/forex/forex-news/rupee-defies-dollar-rally-climbs-to-7-month-high-on-falling-oil-prices/articleshow/135943804.cms)
 
 ---
 
