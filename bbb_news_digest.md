@@ -1,14 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-22T20:00:21.656666+00:00
-
-### ⚠️ CPO mass production faces hybrid bonding yield challenges, potentially delaying large-scale shipments until late 2027
-- **題材**: `光通訊與矽光子` | **重要性**: `88`
-- **來源**: Digitimes (2026-11-20T01:42:15Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏空消息。【重大事件】可能顯著影響產業評價、EPS預期或資金流向。
-- **摘要**: Co-packaged optics (CPO) is emerging as an important optical interconnect technology for AI data centers, but the industry may still be some distance from achieving large-scale mass production.
-- [原文連結](https://www.digitimes.com/news/a20261120PD216/cpo-production-shipments-2027-optics.html)
-
----
+> 更新時間：2026-11-23T03:31:15.237941+00:00
 
 ### 🚀 Suregiant targets high-double-digit growth as release film enters advanced packaging
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -16,6 +7,15 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: AI chips are driving foundries and OSAT providers to expand capacity for advanced packaging technologies such as CoWoS, creating a new wave of localization opportunities for critical materials suppliers. Suregiant Technology's release films have entered mass …
 - [原文連結](https://www.digitimes.com/news/a20261119PD201/packaging-chips-growth-supply-chain-capacity.html)
+
+---
+
+### ⚠️ CPO mass production faces hybrid bonding yield challenges, potentially delaying large-scale shipments until late 2027
+- **題材**: `光通訊與矽光子` | **重要性**: `83`
+- **來源**: Digitimes (2026-11-20T01:42:15Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Co-packaged optics (CPO) is emerging as an important optical interconnect technology for AI data centers, but the industry may still be some distance from achieving large-scale mass production.
+- [原文連結](https://www.digitimes.com/news/a20261120PD216/cpo-production-shipments-2027-optics.html)
 
 ---
 
@@ -61,6 +61,15 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Japan's semiconductor startup has demonstrated functioning GAA transistors, but integrating them into working memory cells appears to be a considerably greater challenge.
 - [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/rapidus-reportedly-struggles-to-produce-working-sram-on-its-2nm-node-putting-2027-mass-production-at-risk-company-faces-significant-challenges-using-euv-to-develop-gaa-transistors)
+
+---
+
+### ⚖️ SK Hynix reportedly plans to buy HBM bonding tools from Besi
+- **題材**: `HBM記憶體` | **重要性**: `68`
+- **來源**: Digitimes (2026-11-20T04:29:24Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: SK Hynix plans to buy its initial batch of hybrid bonding equipment for next-generation high-bandwidth memory (HBM) from Dutch chip equipment maker BE Semiconductor Industries (Besi), potentially giving the company an edge over South Korean rivals competing f…
+- [原文連結](https://www.digitimes.com/news/a20261120VL212/sk-hynix-hbm-equipment-dutch-production.html)
 
 ---
 
@@ -129,24 +138,6 @@ Working with Amkor Technolog…
 
 ---
 
-### 🚀 Oil Price Today (November 20): Brent crude rises to $93 as fresh Houthi attacks heighten worries. What are experts saying?
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Economictimes.com (2026-11-20T02:39:43Z)
-- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Crude oil price : On Friday, oil prices surged due to missile strikes near Riyadh and disruptions in tanker operations within the Strait of Hormuz. The conflict with the Iran-aligned Houthi group raised alarm over the safety of regional oil supply. Goldman Sa…
-- [原文連結](https://m.economictimes.com/markets/commodities/news/oil-price-today-november-20-brent-crude-rises-to-93-as-fresh-houthi-attacks-heighten-worries-what-are-experts-saying/articleshow/136010579.cms)
-
----
-
-### ⚖️ 'Intel’s commitment to the HPC community is grounded in a pragmatic reality': Intel affirms its backing for the next generation of high-powered computing to push the boundaries of AI
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: TechRadar (2026-11-19T23:45:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Intel is developing next-generation Xeon processors, AI accelerators, optical networking, and quantum computing technologies while maintaining software compatibility across scientific computing environments.
-- [原文連結](https://www.techradar.com/pro/intels-commitment-to-the-hpc-community-is-grounded-in-a-pragmatic-reality-intel-affirms-its-backing-for-the-next-generation-of-high-powered-computing-to-push-the-boundaries-of-ai)
-
----
-
 ### ⚖️ Samsung reportedly making custom memory for Meta’s AI chips
 - **題材**: `HBM記憶體` | **重要性**: `60`
 - **來源**: SamMobile (2026-11-18T13:48:53Z)
@@ -162,6 +153,15 @@ Working with Amkor Technolog…
 - **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: The dollar index, climbing nearly 2% in a month to hit its highest level in 19 months, traded at a fresh peak of 103.70 on Tuesday, showed Dow Jones MarketWatch data. A reading above 100 indicates the dollar's relative firmness against a basket of most freque…
 - [原文連結](https://m.economictimes.com/markets/forex/forex-news/rupee-defies-dollar-rally-climbs-to-7-month-high-on-falling-oil-prices/articleshow/135943804.cms)
+
+---
+
+### ⚠️ Nvidia’s Earnings Call Is the AI Economy’s Next Stress Test
+- **題材**: `AI伺服器` | **重要性**: `60`
+- **來源**: CNET (2026-11-17T22:03:34Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Jensen Huang’s departure was only a symptom of a bigger problem.
+- [原文連結](https://www.cnet.com/tech/services-and-software/nvidia-earnings-call-ai-economy-stress-test/)
 
 ---
 
