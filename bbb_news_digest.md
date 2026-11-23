@@ -1,14 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-23T03:31:15.237941+00:00
-
-### 🚀 Suregiant targets high-double-digit growth as release film enters advanced packaging
-- **題材**: `半導體先進製程` | **重要性**: `83`
-- **來源**: Digitimes (2026-11-20T06:32:51Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: AI chips are driving foundries and OSAT providers to expand capacity for advanced packaging technologies such as CoWoS, creating a new wave of localization opportunities for critical materials suppliers. Suregiant Technology's release films have entered mass …
-- [原文連結](https://www.digitimes.com/news/a20261119PD201/packaging-chips-growth-supply-chain-capacity.html)
-
----
+> 更新時間：2026-11-23T08:26:07.163516+00:00
 
 ### ⚠️ CPO mass production faces hybrid bonding yield challenges, potentially delaying large-scale shipments until late 2027
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -16,6 +7,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Co-packaged optics (CPO) is emerging as an important optical interconnect technology for AI data centers, but the industry may still be some distance from achieving large-scale mass production.
 - [原文連結](https://www.digitimes.com/news/a20261120PD216/cpo-production-shipments-2027-optics.html)
+
+---
+
+### 🚀 Suregiant targets high-double-digit growth as release film enters advanced packaging
+- **題材**: `半導體先進製程` | **重要性**: `78`
+- **來源**: Digitimes (2026-11-20T06:32:51Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: AI chips are driving foundries and OSAT providers to expand capacity for advanced packaging technologies such as CoWoS, creating a new wave of localization opportunities for critical materials suppliers. Suregiant Technology's release films have entered mass …
+- [原文連結](https://www.digitimes.com/news/a20261119PD201/packaging-chips-growth-supply-chain-capacity.html)
 
 ---
 
@@ -64,12 +64,12 @@
 
 ---
 
-### ⚖️ SK Hynix reportedly plans to buy HBM bonding tools from Besi
-- **題材**: `HBM記憶體` | **重要性**: `68`
-- **來源**: Digitimes (2026-11-20T04:29:24Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: SK Hynix plans to buy its initial batch of hybrid bonding equipment for next-generation high-bandwidth memory (HBM) from Dutch chip equipment maker BE Semiconductor Industries (Besi), potentially giving the company an edge over South Korean rivals competing f…
-- [原文連結](https://www.digitimes.com/news/a20261120VL212/sk-hynix-hbm-equipment-dutch-production.html)
+### ⚖️ The AI infrastructure paradox: over-ordering and under-building
+- **題材**: `HBM記憶體` | **重要性**: `70`
+- **來源**: TechRadar (2026-11-22T08:00:00Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: What memory fabs and speculative data center queues reveal about the durability of AI demand.
+- [原文連結](https://www.techradar.com/pro/the-ai-infrastructure-paradox-over-ordering-and-under-building)
 
 ---
 
@@ -109,15 +109,6 @@
 
 ---
 
-### ⚠️ Anthropic’s blockbuster IPO couldn’t calm the AI selloff and volatility risks making it worse
-- **題材**: `半導體先進製程` | **重要性**: `65`
-- **來源**: Business Insider (2026-11-20T04:32:53Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Anthropic's hotly anticipated IPO failed to calm the AI selloff, with shares falling nearly 5% after hours as Asian tech stocks plunged.
-- [原文連結](https://www.businessinsider.com/anthropic-stock-price-ipo-kospi-index-ai-trade-volatility-selloff-2026-11)
-
----
-
 ### 🚀 (PR) NVIDIA Expands Commitments With Supply Chain Partners to Support AI Infrastructure Buildout
 - **題材**: `半導體先進製程` | **重要性**: `65`
 - **來源**: Techpowerup.com (2026-11-18T13:59:10Z)
@@ -135,6 +126,24 @@ Working with Amkor Technolog…
 - **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Companies get billions in tariff refunds. Consumers are left with the bill.
 - [原文連結](https://www.aljazeera.com/video/newsfeed/2026/11/17/companies-get-billions-in-tariff-refunds-consumers-are-left-with-the-bill)
+
+---
+
+### ⚖️ SK Hynix reportedly plans to buy HBM bonding tools from Besi
+- **題材**: `HBM記憶體` | **重要性**: `63`
+- **來源**: Digitimes (2026-11-20T04:29:24Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: SK Hynix plans to buy its initial batch of hybrid bonding equipment for next-generation high-bandwidth memory (HBM) from Dutch chip equipment maker BE Semiconductor Industries (Besi), potentially giving the company an edge over South Korean rivals competing f…
+- [原文連結](https://www.digitimes.com/news/a20261120VL212/sk-hynix-hbm-equipment-dutch-production.html)
+
+---
+
+### ⚠️ Anthropic’s blockbuster IPO couldn’t calm the AI selloff and volatility risks making it worse
+- **題材**: `半導體先進製程` | **重要性**: `60`
+- **來源**: Business Insider (2026-11-20T04:32:53Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Anthropic's hotly anticipated IPO failed to calm the AI selloff, with shares falling nearly 5% after hours as Asian tech stocks plunged.
+- [原文連結](https://www.businessinsider.com/anthropic-stock-price-ipo-kospi-index-ai-trade-volatility-selloff-2026-11)
 
 ---
 
