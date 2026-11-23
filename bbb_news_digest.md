@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-23T08:26:07.163516+00:00
+> 更新時間：2026-11-23T20:54:04.228167+00:00
 
 ### ⚠️ CPO mass production faces hybrid bonding yield challenges, potentially delaying large-scale shipments until late 2027
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -91,24 +91,6 @@
 
 ---
 
-### ⚖️ TSMC 3nm enters HBM as NVHBM reshapes base-die competition
-- **題材**: `半導體先進製程` | **重要性**: `68`
-- **來源**: Digitimes (2026-11-17T02:33:53Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Demand for high-bandwidth memory (HBM) in AI chips is driving continued technological advances. According to analysis by SemiWiki, Nvidia's development of the Nvidia HBM (NVHBM) architecture could reshape not only HBM performance but also the division of labo…
-- [原文連結](https://www.digitimes.com/news/a20261117PD221/tsmc-3nm-hbm-competition-nvidia.html)
-
----
-
-### 🚀 Senate passes bipartisan energy bill amid environmental concerns
-- **題材**: `總體風險` | **重要性**: `65`
-- **來源**: NPR (2026-11-20T11:00:28Z)
-- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: As Americans struggle with rising energy costs and increased demand driven by AI, the Senate passed a bipartisan bill that will speed up the approval process for data centers and power plants.
-- [原文連結](https://www.npr.org/2026/11/20/g-s1-154579/senate-bipartisan-energy-bill)
-
----
-
 ### 🚀 (PR) NVIDIA Expands Commitments With Supply Chain Partners to Support AI Infrastructure Buildout
 - **題材**: `半導體先進製程` | **重要性**: `65`
 - **來源**: Techpowerup.com (2026-11-18T13:59:10Z)
@@ -135,6 +117,15 @@ Working with Amkor Technolog…
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: SK Hynix plans to buy its initial batch of hybrid bonding equipment for next-generation high-bandwidth memory (HBM) from Dutch chip equipment maker BE Semiconductor Industries (Besi), potentially giving the company an edge over South Korean rivals competing f…
 - [原文連結](https://www.digitimes.com/news/a20261120VL212/sk-hynix-hbm-equipment-dutch-production.html)
+
+---
+
+### 🚀 Senate passes bipartisan energy bill amid environmental concerns
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: NPR (2026-11-20T11:00:28Z)
+- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: As Americans struggle with rising energy costs and increased demand driven by AI, the Senate passed a bipartisan bill that will speed up the approval process for data centers and power plants.
+- [原文連結](https://www.npr.org/2026/11/20/g-s1-154579/senate-bipartisan-energy-bill)
 
 ---
 
