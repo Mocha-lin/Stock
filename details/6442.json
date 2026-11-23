@@ -1,11 +1,11 @@
 {
   "id": "6442",
   "name": "光聖",
-  "lastUpdated": "2026-11-22 22:59:32",
+  "lastUpdated": "2026-11-24 02:53:56",
   "basicInfo": {
-    "price": "864.00",
-    "change": "-95.00",
-    "changePercent": "-9.91%"
+    "price": "890.00",
+    "change": "26.00",
+    "changePercent": "3.01%"
   },
   "status": "⚡ BUY",
   "themes": [],
@@ -679,6 +679,14 @@
     ],
     "chips_table": [
       {
+        "date": "2026-11-23",
+        "foreign_lots": -10.328,
+        "it_lots": 299.0,
+        "dealer_lots": -27.834,
+        "sum_lots": 260.838,
+        "pct_float": 0.03188042670525657
+      },
+      {
         "date": "2026-11-20",
         "foreign_lots": -50.897,
         "it_lots": 25.0,
@@ -789,14 +797,6 @@
         "dealer_lots": -66.424,
         "sum_lots": 381.13,
         "pct_float": 0.04658288681163955
-      },
-      {
-        "date": "2026-11-02",
-        "foreign_lots": 128.388,
-        "it_lots": -99.0,
-        "dealer_lots": -27.682999999999996,
-        "sum_lots": 1.705000000000009,
-        "pct_float": 0.00020839037077597107
       }
     ],
     "c_score_data": {
@@ -804,7 +804,7 @@
       "dataset": "structure_c_score",
       "stock_id": "6442",
       "ticker": "6442.TW",
-      "asof": "2026-11-20",
+      "asof": "2026-11-23",
       "c_score": 2.1828561447257187,
       "benchmark_pe": 89.26079919633887,
       "source": [
@@ -1080,14 +1080,14 @@
         },
         {
           "period": "2021Q4",
-          "avg_price": 34.818858442635374,
+          "avg_price": 34.80933066776821,
           "eps": 0.48,
           "revenue_q": 2.26281,
-          "pe_ratio": 72.53928842215703,
+          "pe_ratio": 72.51943889118377,
           "rev_growth": null,
           "eps_growth": null,
           "rt_weight": 1.0,
-          "deviation": 0.8126668041880171,
+          "deviation": 0.8124444273870923,
           "theo_price": 42.84518361424266
         }
       ],
@@ -1123,7 +1123,7 @@
       },
       {
         "year": 2022,
-        "return_pct": 26.649135746658747,
+        "return_pct": 26.649150869095294,
         "period": "01/03~12/30"
       }
     ],
@@ -2023,27 +2023,6 @@
     ],
     "facilities_data": [],
     "kline_data": [
-      {
-        "date": "2026-05-29",
-        "symbol": "6442.TW",
-        "open": 1940.0,
-        "high": 1940.0,
-        "low": 1845.0,
-        "close": 1845.0,
-        "volume": 2911491.0,
-        "adjclose": 1829.20361328125,
-        "dividends": 0.0,
-        "MA5": 2021.0,
-        "MA20": 1930.5,
-        "MA60": 1975.9166666666667,
-        "bb_mid": 1930.5,
-        "bb_up": 2210.9621186542145,
-        "bb_dn": 1650.0378813457858,
-        "DIF": -15.575054441205566,
-        "DEA": -26.226251198384627,
-        "HIST": 21.302393514358123,
-        "volume_lot": 2911.491
-      },
       {
         "date": "2026-06-01",
         "symbol": "6442.TW",
@@ -4542,6 +4521,27 @@
         "DEA": -121.3234096756024,
         "HIST": -25.161715612641103,
         "volume_lot": 786.201
+      },
+      {
+        "date": "2026-11-23",
+        "symbol": "6442.TW",
+        "open": 800.0,
+        "high": 905.0,
+        "low": 779.0,
+        "close": null,
+        "volume": 3127443.0,
+        "adjclose": null,
+        "dividends": 0.0,
+        "MA5": null,
+        "MA20": null,
+        "MA60": null,
+        "bb_mid": null,
+        "bb_up": null,
+        "bb_dn": null,
+        "DIF": -133.90426748192294,
+        "DEA": -123.83958123686652,
+        "HIST": -20.12937249011287,
+        "volume_lot": 3127.443
       }
     ],
     "valuation": {

@@ -1,11 +1,11 @@
 {
   "id": "3653",
   "name": "健策",
-  "lastUpdated": "2026-11-22 22:59:32",
+  "lastUpdated": "2026-11-24 02:53:56",
   "basicInfo": {
-    "price": "3705.00",
-    "change": "-410.00",
-    "changePercent": "-9.96%"
+    "price": "3685.00",
+    "change": "-20.00",
+    "changePercent": "-0.54%"
   },
   "status": null,
   "themes": [],
@@ -568,6 +568,14 @@
     ],
     "chips_table": [
       {
+        "date": "2026-11-23",
+        "foreign_lots": -204.45,
+        "it_lots": 247.984,
+        "dealer_lots": -56.793,
+        "sum_lots": -13.258999999999979,
+        "pct_float": -0.0009007234183333443
+      },
+      {
         "date": "2026-11-20",
         "foreign_lots": 17.75,
         "it_lots": 18.474,
@@ -678,14 +686,6 @@
         "dealer_lots": -3.987000000000002,
         "sum_lots": 205.71200000000002,
         "pct_float": 0.013974629748260747
-      },
-      {
-        "date": "2026-11-02",
-        "foreign_lots": -297.536,
-        "it_lots": 155.015,
-        "dealer_lots": 39.359,
-        "sum_lots": -103.162,
-        "pct_float": -0.007008102366853053
       }
     ],
     "returns_table": [
@@ -701,12 +701,12 @@
       },
       {
         "year": 2024,
-        "return_pct": 109.3840196364364,
+        "return_pct": 109.38405449699124,
         "period": "01/02~12/31"
       },
       {
         "year": 2023,
-        "return_pct": 108.33945335207974,
+        "return_pct": 108.3394364186638,
         "period": "01/03~12/29"
       },
       {
@@ -720,7 +720,7 @@
       "dataset": "structure_c_score",
       "stock_id": "3653",
       "ticker": "3653.TW",
-      "asof": "2026-11-20",
+      "asof": "2026-11-23",
       "c_score": 1.3685157026776715,
       "benchmark_pe": 133.99563939709924,
       "source": [
@@ -996,14 +996,14 @@
         },
         {
           "period": "2021Q4",
-          "avg_price": 379.0723098228718,
+          "avg_price": 379.590688432966,
           "eps": 2.75,
           "revenue_q": 8.14408,
-          "pe_ratio": 137.8444762992261,
+          "pe_ratio": 138.03297761198763,
           "rev_growth": null,
           "eps_growth": null,
           "rt_weight": 1.0,
-          "deviation": 1.0287235981666594,
+          "deviation": 1.0301303701602083,
           "theo_price": 368.4880083420229
         }
       ],
@@ -1017,27 +1017,6 @@
       "stock_name": "健策"
     },
     "kline_data": [
-      {
-        "date": "2026-05-29",
-        "symbol": "3653.TW",
-        "open": 3580.0,
-        "high": 3600.0,
-        "low": 3415.0,
-        "close": 3545.0,
-        "volume": 2203983.0,
-        "adjclose": 3523.125,
-        "dividends": 0.0,
-        "MA5": 3631.0,
-        "MA20": 3737.0,
-        "MA60": 3990.5,
-        "bb_mid": 3737.0,
-        "bb_up": 4800.698265486975,
-        "bb_dn": 2673.301734513025,
-        "DIF": -209.53204097655043,
-        "DEA": -215.8413568029919,
-        "HIST": 12.618631652882923,
-        "volume_lot": 2203.983
-      },
       {
         "date": "2026-06-01",
         "symbol": "3653.TW",
@@ -3536,6 +3515,27 @@
         "DEA": -327.97001346359616,
         "HIST": -446.5864547979704,
         "volume_lot": 211.027
+      },
+      {
+        "date": "2026-11-23",
+        "symbol": "3653.TW",
+        "open": 3375.0,
+        "high": 3815.0,
+        "low": 3335.0,
+        "close": null,
+        "volume": 4447873.0,
+        "adjclose": null,
+        "dividends": 0.0,
+        "MA5": null,
+        "MA20": null,
+        "MA60": null,
+        "bb_mid": null,
+        "bb_up": null,
+        "bb_dn": null,
+        "DIF": -551.2632408625814,
+        "DEA": -372.6286589433932,
+        "HIST": -357.2691638383764,
+        "volume_lot": 4447.873
       }
     ]
   }

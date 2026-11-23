@@ -1,11 +1,11 @@
 {
   "id": "2395",
   "name": "研華",
-  "lastUpdated": "2026-11-22 22:59:32",
+  "lastUpdated": "2026-11-24 02:53:56",
   "basicInfo": {
-    "price": "520.00",
-    "change": "-34.00",
-    "changePercent": "-6.14%"
+    "price": "536.00",
+    "change": "16.00",
+    "changePercent": "3.08%"
   },
   "status": "🟡 FLU",
   "themes": [],
@@ -687,6 +687,14 @@
     ],
     "chips_table": [
       {
+        "date": "2026-11-23",
+        "foreign_lots": -751.126,
+        "it_lots": 221.916,
+        "dealer_lots": 81.516,
+        "sum_lots": -447.694,
+        "pct_float": -0.005149379437977442
+      },
+      {
         "date": "2026-11-20",
         "foreign_lots": 242.557,
         "it_lots": 207.007,
@@ -797,14 +805,6 @@
         "dealer_lots": 30.037000000000003,
         "sum_lots": 529.092,
         "pct_float": 0.0060856197885126
-      },
-      {
-        "date": "2026-11-02",
-        "foreign_lots": -184.764,
-        "it_lots": -93.923,
-        "dealer_lots": -53.604,
-        "sum_lots": -332.291,
-        "pct_float": -0.0038220133457785048
       }
     ],
     "c_score_data": {
@@ -812,7 +812,7 @@
       "dataset": "structure_c_score",
       "stock_id": "2395",
       "ticker": "2395.TW",
-      "asof": "2026-11-20",
+      "asof": "2026-11-23",
       "c_score": 1.0826100787842758,
       "benchmark_pe": 103.64537552588983,
       "source": [
@@ -1088,14 +1088,14 @@
         },
         {
           "period": "2021Q4",
-          "avg_price": 351.371529414736,
+          "avg_price": 351.2892314365932,
           "eps": 2.93,
           "revenue_q": 51.71362,
-          "pe_ratio": 119.92202369103617,
+          "pe_ratio": 119.89393564388845,
           "rev_growth": null,
           "eps_growth": null,
           "rt_weight": 1.0,
-          "deviation": 1.1570417211820565,
+          "deviation": 1.1567707197311456,
           "theo_price": 303.68095029085725
         }
       ],
@@ -1116,12 +1116,12 @@
       },
       {
         "year": 2025,
-        "return_pct": -14.144147208412416,
+        "return_pct": -14.144155187230156,
         "period": "01/02~12/31"
       },
       {
         "year": 2024,
-        "return_pct": -3.7976019415381757,
+        "return_pct": -3.7975845269129005,
         "period": "01/02~12/31"
       },
       {
@@ -2029,27 +2029,6 @@
     ],
     "facilities_data": [],
     "kline_data": [
-      {
-        "date": "2026-05-29",
-        "symbol": "2395.TW",
-        "open": 496.0,
-        "high": 515.0,
-        "low": 492.0,
-        "close": 495.0,
-        "volume": 10455019.0,
-        "adjclose": 484.5783386230469,
-        "dividends": 0.0,
-        "MA5": 500.6,
-        "MA20": 465.15,
-        "MA60": 385.26666666666665,
-        "bb_mid": 465.15,
-        "bb_up": 530.0322780117992,
-        "bb_dn": 400.2677219882007,
-        "DIF": 31.11757446282843,
-        "DEA": 31.095715110560104,
-        "HIST": 0.0437187045366513,
-        "volume_lot": 10455.019
-      },
       {
         "date": "2026-06-01",
         "symbol": "2395.TW",
@@ -4548,6 +4527,27 @@
         "DEA": -27.5713412720533,
         "HIST": -12.129411750781747,
         "volume_lot": 2795.619
+      },
+      {
+        "date": "2026-11-23",
+        "symbol": "2395.TW",
+        "open": 522.0,
+        "high": 547.0,
+        "low": 511.0,
+        "close": null,
+        "volume": 3230186.0,
+        "adjclose": null,
+        "dividends": 0.0,
+        "MA5": null,
+        "MA20": null,
+        "MA60": null,
+        "bb_mid": null,
+        "bb_up": null,
+        "bb_dn": null,
+        "DIF": -33.636047147444174,
+        "DEA": -28.784282447131478,
+        "HIST": -9.7035294006254,
+        "volume_lot": 3230.186
       }
     ],
     "valuation": {

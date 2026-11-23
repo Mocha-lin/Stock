@@ -1,11 +1,11 @@
 {
   "id": "4749",
   "name": "新應材",
-  "lastUpdated": "2026-11-22 22:59:32",
+  "lastUpdated": "2026-11-24 02:53:56",
   "basicInfo": {
-    "price": "590.00",
-    "change": "-65.00",
-    "changePercent": "-9.92%"
+    "price": "565.00",
+    "change": "-25.00",
+    "changePercent": "-4.24%"
   },
   "status": "⚡ BUY",
   "themes": [],
@@ -675,6 +675,14 @@
     ],
     "chips_table": [
       {
+        "date": "2026-11-23",
+        "foreign_lots": -30.837,
+        "it_lots": 2.0,
+        "dealer_lots": 0.011999999999999567,
+        "sum_lots": -28.825,
+        "pct_float": -0.003042768713687339
+      },
+      {
         "date": "2026-11-20",
         "foreign_lots": -78.386,
         "it_lots": 71.21,
@@ -785,14 +793,6 @@
         "dealer_lots": -28.562,
         "sum_lots": -60.819,
         "pct_float": -0.006420057255776246
-      },
-      {
-        "date": "2026-11-02",
-        "foreign_lots": -28.499,
-        "it_lots": 0.0,
-        "dealer_lots": 5.097,
-        "sum_lots": -23.401999999999997,
-        "pct_float": -0.002470316511282259
       }
     ],
     "c_score_data": {
@@ -800,7 +800,7 @@
       "dataset": "structure_c_score",
       "stock_id": "4749",
       "ticker": "4749.TWO",
-      "asof": "2026-11-20",
+      "asof": "2026-11-23",
       "c_score": 1.922254208231809,
       "benchmark_pe": 126.67648660923766,
       "source": [
@@ -1073,12 +1073,12 @@
       },
       {
         "year": 2024,
-        "return_pct": 68.45779043348372,
+        "return_pct": 68.45780590374603,
         "period": "01/02~12/31"
       },
       {
         "year": 2023,
-        "return_pct": 115.29725784010819,
+        "return_pct": 115.29727541929927,
         "period": "01/03~12/29"
       },
       {
@@ -1981,27 +1981,6 @@
     ],
     "facilities_data": [],
     "kline_data": [
-      {
-        "date": "2026-05-29",
-        "symbol": "4749.TWO",
-        "open": 1130.0,
-        "high": 1130.0,
-        "low": 1055.0,
-        "close": 1070.0,
-        "volume": 1460238.0,
-        "adjclose": 1060.7459716796875,
-        "dividends": 0.0,
-        "MA5": 1114.0,
-        "MA20": 1076.1,
-        "MA60": 970.35,
-        "bb_mid": 1076.1,
-        "bb_up": 1212.3657697296103,
-        "bb_dn": 939.8342302703896,
-        "DIF": 34.1481923148574,
-        "DEA": 38.17225104624063,
-        "HIST": -8.048117462766456,
-        "volume_lot": 1460.238
-      },
       {
         "date": "2026-06-01",
         "symbol": "4749.TWO",
@@ -4500,6 +4479,27 @@
         "DEA": -17.820301503851624,
         "HIST": -3.275150532841508,
         "volume_lot": 777.733
+      },
+      {
+        "date": "2026-11-23",
+        "symbol": "4749.TWO",
+        "open": 539.0,
+        "high": 579.0,
+        "low": 539.0,
+        "close": null,
+        "volume": 1330104.0,
+        "adjclose": null,
+        "dividends": 0.0,
+        "MA5": null,
+        "MA20": null,
+        "MA60": null,
+        "bb_mid": null,
+        "bb_up": null,
+        "bb_dn": null,
+        "DIF": -19.457876770272375,
+        "DEA": -18.147816557135776,
+        "HIST": -2.6201204262732034,
+        "volume_lot": 1330.104
       }
     ],
     "valuation": {

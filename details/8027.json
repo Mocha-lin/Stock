@@ -1,11 +1,11 @@
 {
   "id": "8027",
   "name": "鈦昇",
-  "lastUpdated": "2026-11-22 22:59:32",
+  "lastUpdated": "2026-11-24 02:53:56",
   "basicInfo": {
-    "price": "99.00",
-    "change": "-11.00",
-    "changePercent": "-10.00%"
+    "price": "98.80",
+    "change": "-0.20",
+    "changePercent": "-0.20%"
   },
   "status": "🟡 FLU",
   "themes": [],
@@ -568,6 +568,14 @@
     ],
     "chips_table": [
       {
+        "date": "2026-11-23",
+        "foreign_lots": 286.542,
+        "it_lots": 0.0,
+        "dealer_lots": 0.326,
+        "sum_lots": 286.868,
+        "pct_float": 0.025357331640888107
+      },
+      {
         "date": "2026-11-20",
         "foreign_lots": 204.069,
         "it_lots": 0.0,
@@ -678,14 +686,6 @@
         "dealer_lots": -2.495,
         "sum_lots": -6.989,
         "pct_float": -0.0006177837571223245
-      },
-      {
-        "date": "2026-11-02",
-        "foreign_lots": 136.916,
-        "it_lots": 0.0,
-        "dealer_lots": 0.336,
-        "sum_lots": 137.252,
-        "pct_float": 0.012132215800909042
       }
     ],
     "returns_table": [
@@ -706,12 +706,12 @@
       },
       {
         "year": 2023,
-        "return_pct": 35.31240966231606,
+        "return_pct": 35.312398910202816,
         "period": "01/03~12/29"
       },
       {
         "year": 2022,
-        "return_pct": -37.01918017011822,
+        "return_pct": -37.01917392860247,
         "period": "01/03~12/30"
       }
     ],
@@ -720,7 +720,7 @@
       "dataset": "structure_c_score",
       "stock_id": "8027",
       "ticker": "8027.TWO",
-      "asof": "2026-11-20",
+      "asof": "2026-11-23",
       "c_score": 4.1316543868828255,
       "benchmark_pe": 106.6351568267382,
       "source": [
@@ -996,14 +996,14 @@
         },
         {
           "period": "2021Q4",
-          "avg_price": 73.5482756516029,
+          "avg_price": 73.65714263916016,
           "eps": 0.41,
           "revenue_q": 1.67048,
-          "pe_ratio": 179.38603817464124,
+          "pe_ratio": 179.65156741258576,
           "rev_growth": null,
           "eps_growth": null,
           "rt_weight": 1.0,
-          "deviation": 1.682241049882914,
+          "deviation": 1.6847311220677934,
           "theo_price": 43.72041429896266
         }
       ],
@@ -1017,27 +1017,6 @@
       "stock_name": "鈦昇"
     },
     "kline_data": [
-      {
-        "date": "2026-05-29",
-        "symbol": "8027.TWO",
-        "open": 255.0,
-        "high": 259.5,
-        "low": 252.5,
-        "close": 258.5,
-        "volume": 1226220.0,
-        "adjclose": 258.5,
-        "dividends": 0.0,
-        "MA5": 252.1,
-        "MA20": 237.8,
-        "MA60": 167.45500005086262,
-        "bb_mid": 237.8,
-        "bb_up": 284.68005972692265,
-        "bb_dn": 190.91994027307737,
-        "DIF": 21.981317743206237,
-        "DEA": 24.53768785808379,
-        "HIST": -5.112740229755111,
-        "volume_lot": 1226.22
-      },
       {
         "date": "2026-06-01",
         "symbol": "8027.TWO",
@@ -3536,6 +3515,27 @@
         "DEA": -14.00872498466858,
         "HIST": -7.28883933419629,
         "volume_lot": 960.539
+      },
+      {
+        "date": "2026-11-23",
+        "symbol": "8027.TWO",
+        "open": 91.0,
+        "high": 101.5,
+        "low": 91.0,
+        "close": null,
+        "volume": 1974824.0,
+        "adjclose": null,
+        "dividends": 0.0,
+        "MA5": null,
+        "MA20": null,
+        "MA60": null,
+        "bb_mid": null,
+        "bb_up": null,
+        "bb_dn": null,
+        "DIF": -17.653144651766723,
+        "DEA": -14.737608918088208,
+        "HIST": -5.831071467357031,
+        "volume_lot": 1974.824
       }
     ]
   }

@@ -1,11 +1,11 @@
 {
   "id": "2330",
   "name": "台積電",
-  "lastUpdated": "2026-11-22 22:59:32",
+  "lastUpdated": "2026-11-24 02:53:56",
   "basicInfo": {
-    "price": "2000.00",
-    "change": "-100.00",
-    "changePercent": "-4.76%"
+    "price": "2030.00",
+    "change": "30.00",
+    "changePercent": "1.50%"
   },
   "status": "⚡ BUY",
   "themes": [],
@@ -691,6 +691,14 @@
     ],
     "chips_table": [
       {
+        "date": "2026-11-23",
+        "foreign_lots": -11039.208,
+        "it_lots": 1294.253,
+        "dealer_lots": 2665.402,
+        "sum_lots": -7079.553,
+        "pct_float": -0.0027300066924092732
+      },
+      {
         "date": "2026-11-20",
         "foreign_lots": -11862.512,
         "it_lots": -3848.355,
@@ -801,14 +809,6 @@
         "dealer_lots": 2658.082,
         "sum_lots": -6699.293,
         "pct_float": -0.0025833713970939403
-      },
-      {
-        "date": "2026-11-02",
-        "foreign_lots": -15005.014,
-        "it_lots": 3682.223,
-        "dealer_lots": 1885.893,
-        "sum_lots": -9436.898,
-        "pct_float": -0.003639042563221673
       }
     ],
     "c_score_data": {
@@ -816,7 +816,7 @@
       "dataset": "structure_c_score",
       "stock_id": "2330",
       "ticker": "2330.TW",
-      "asof": "2026-11-20",
+      "asof": "2026-11-23",
       "c_score": 0.9296434346800018,
       "benchmark_pe": 74.91190003906394,
       "source": [
@@ -1092,14 +1092,14 @@
         },
         {
           "period": "2021Q4",
-          "avg_price": 604.551724137931,
+          "avg_price": 604.1785714285714,
           "eps": 6.42,
           "revenue_q": 1482.67599,
-          "pe_ratio": 94.1669352239768,
+          "pe_ratio": 94.10881174899866,
           "rev_growth": null,
           "eps_growth": null,
           "rt_weight": 1.0,
-          "deviation": 1.2570357336400764,
+          "deviation": 1.2562598425607174,
           "theo_price": 480.9343982507905
         }
       ],
@@ -1125,17 +1125,17 @@
       },
       {
         "year": 2024,
-        "return_pct": 84.35294304521584,
+        "return_pct": 84.35296283118976,
         "period": "01/02~12/31"
       },
       {
         "year": 2023,
-        "return_pct": 33.66189251667608,
+        "return_pct": 33.66186858398701,
         "period": "01/03~12/29"
       },
       {
         "year": 2022,
-        "return_pct": -27.352697898219557,
+        "return_pct": -27.352731365298965,
         "period": "01/03~12/30"
       }
     ],
@@ -2023,27 +2023,6 @@
     ],
     "facilities_data": [],
     "kline_data": [
-      {
-        "date": "2026-05-29",
-        "symbol": "2330.TW",
-        "open": 2340.0,
-        "high": 2375.0,
-        "low": 2330.0,
-        "close": 2355.0,
-        "volume": 86132863.0,
-        "adjclose": 2341.840576171875,
-        "dividends": 0.0,
-        "MA5": 2306.0,
-        "MA20": 2263.25,
-        "MA60": 2051.6666666666665,
-        "bb_mid": 2263.25,
-        "bb_up": 2341.2419867678013,
-        "bb_dn": 2185.2580132321987,
-        "DIF": 55.82910131710469,
-        "DEA": 57.538745382860085,
-        "HIST": -3.419288131510797,
-        "volume_lot": 86132.863
-      },
       {
         "date": "2026-06-01",
         "symbol": "2330.TW",
@@ -4542,6 +4521,27 @@
         "DEA": -55.870541308986205,
         "HIST": -47.21622714204537,
         "volume_lot": 75539.46
+      },
+      {
+        "date": "2026-11-23",
+        "symbol": "2330.TW",
+        "open": 1990.0,
+        "high": 2050.0,
+        "low": 1970.0,
+        "close": null,
+        "volume": 68861769.0,
+        "adjclose": null,
+        "dividends": 0.0,
+        "MA5": null,
+        "MA20": null,
+        "MA60": null,
+        "bb_mid": null,
+        "bb_up": null,
+        "bb_dn": null,
+        "DIF": -79.47865488000889,
+        "DEA": -60.59216402319075,
+        "HIST": -37.77298171363629,
+        "volume_lot": 68861.769
       }
     ],
     "valuation": {

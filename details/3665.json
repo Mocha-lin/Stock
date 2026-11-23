@@ -1,11 +1,11 @@
 {
   "id": "3665",
   "name": "貿聯-KY",
-  "lastUpdated": "2026-11-22 22:59:32",
+  "lastUpdated": "2026-11-24 02:53:56",
   "basicInfo": {
-    "price": "1300.00",
-    "change": "-140.00",
-    "changePercent": "-9.72%"
+    "price": "1430.00",
+    "change": "130.00",
+    "changePercent": "10.00%"
   },
   "status": null,
   "themes": [],
@@ -682,6 +682,14 @@
     ],
     "chips_table": [
       {
+        "date": "2026-11-23",
+        "foreign_lots": -156.343,
+        "it_lots": 631.968,
+        "dealer_lots": -26.885,
+        "sum_lots": 448.74,
+        "pct_float": 0.022484397109105995
+      },
+      {
         "date": "2026-11-20",
         "foreign_lots": -353.93,
         "it_lots": 576.972,
@@ -792,14 +800,6 @@
         "dealer_lots": -3.4419999999999997,
         "sum_lots": -327.096,
         "pct_float": -0.01638934874715901
-      },
-      {
-        "date": "2026-11-02",
-        "foreign_lots": 107.297,
-        "it_lots": 44.993,
-        "dealer_lots": 2.529,
-        "sum_lots": 154.819,
-        "pct_float": 0.007757302393445382
       }
     ],
     "c_score_data": {
@@ -807,7 +807,7 @@
       "dataset": "structure_c_score",
       "stock_id": "3665",
       "ticker": "3665.TW",
-      "asof": "2026-11-20",
+      "asof": "2026-11-23",
       "c_score": 1.134723350619109,
       "benchmark_pe": 67.13626860507125,
       "source": [
@@ -1083,14 +1083,14 @@
         },
         {
           "period": "2021Q4",
-          "avg_price": 246.71016245874864,
+          "avg_price": 246.5026375906808,
           "eps": 4.2,
           "revenue_q": 27.01285,
-          "pe_ratio": 58.74051487113063,
+          "pe_ratio": 58.69110418825733,
           "rev_growth": null,
           "eps_growth": null,
           "rt_weight": 1.0,
-          "deviation": 0.8749445879494941,
+          "deviation": 0.8742086119427852,
           "theo_price": 281.9723281412993
         }
       ],
@@ -1126,7 +1126,7 @@
       },
       {
         "year": 2022,
-        "return_pct": -7.4485686802654545,
+        "return_pct": -7.448569172186604,
         "period": "01/03~12/30"
       }
     ],
@@ -2021,28 +2021,6 @@
     ],
     "facilities_data": [],
     "kline_data": [
-      {
-        "date": "2026-05-29",
-        "symbol": "3665.TW",
-        "open": 2315.0,
-        "high": 2315.0,
-        "low": 2085.0,
-        "close": 2085.0,
-        "volume": 2548504.0,
-        "adjclose": 2066.888427734375,
-        "dividends": 0.0,
-        "splits": 0.0,
-        "MA5": 2193.0,
-        "MA20": 2397.0,
-        "MA60": 2164.4166666666665,
-        "bb_mid": 2397.0,
-        "bb_up": 3074.180921172476,
-        "bb_dn": 1719.8190788275242,
-        "DIF": -73.53648558350415,
-        "DEA": -30.446960017993145,
-        "HIST": -86.179051131022,
-        "volume_lot": 2548.504
-      },
       {
         "date": "2026-06-01",
         "symbol": "3665.TW",
@@ -4660,6 +4638,28 @@
         "DEA": -159.72063051504787,
         "HIST": 8.84452283163563,
         "volume_lot": 3006.302
+      },
+      {
+        "date": "2026-11-23",
+        "symbol": "3665.TW",
+        "open": 1240.0,
+        "high": 1430.0,
+        "low": 1240.0,
+        "close": null,
+        "volume": 4327502.0,
+        "adjclose": null,
+        "dividends": 0.0,
+        "splits": 0.0,
+        "MA5": null,
+        "MA20": null,
+        "MA60": null,
+        "bb_mid": null,
+        "bb_up": null,
+        "bb_dn": null,
+        "DIF": -155.29836909923006,
+        "DEA": -158.83617823188433,
+        "HIST": 7.075618265308549,
+        "volume_lot": 4327.502
       }
     ],
     "valuation": {

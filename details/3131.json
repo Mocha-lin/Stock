@@ -1,11 +1,11 @@
 {
   "id": "3131",
   "name": "弘塑",
-  "lastUpdated": "2026-11-22 22:59:32",
+  "lastUpdated": "2026-11-24 02:53:56",
   "basicInfo": {
-    "price": "1315.00",
-    "change": "-145.00",
-    "changePercent": "-9.93%"
+    "price": "1335.00",
+    "change": "20.00",
+    "changePercent": "1.52%"
   },
   "status": null,
   "themes": [],
@@ -568,6 +568,14 @@
     ],
     "chips_table": [
       {
+        "date": "2026-11-23",
+        "foreign_lots": 38.51,
+        "it_lots": -63.66,
+        "dealer_lots": 2.432,
+        "sum_lots": -22.718,
+        "pct_float": -0.007469684614777599
+      },
+      {
         "date": "2026-11-20",
         "foreign_lots": -77.0,
         "it_lots": 0.072,
@@ -678,14 +686,6 @@
         "dealer_lots": -5.151,
         "sum_lots": -3.732,
         "pct_float": -0.0012270826209327408
-      },
-      {
-        "date": "2026-11-02",
-        "foreign_lots": 59.24,
-        "it_lots": 52.0,
-        "dealer_lots": 5.293,
-        "sum_lots": 116.53300000000002,
-        "pct_float": 0.038316082278980465
       }
     ],
     "returns_table": [
@@ -701,17 +701,17 @@
       },
       {
         "year": 2024,
-        "return_pct": 163.86599699085244,
+        "return_pct": 163.86597457467548,
         "period": "01/02~12/31"
       },
       {
         "year": 2023,
-        "return_pct": 168.8603294521834,
+        "return_pct": 168.8603388840661,
         "period": "01/03~12/29"
       },
       {
         "year": 2022,
-        "return_pct": -34.24186667013757,
+        "return_pct": -34.24188391533755,
         "period": "01/03~12/30"
       }
     ],
@@ -720,7 +720,7 @@
       "dataset": "structure_c_score",
       "stock_id": "3131",
       "ticker": "3131.TWO",
-      "asof": "2026-11-20",
+      "asof": "2026-11-23",
       "c_score": 1.549162971526002,
       "benchmark_pe": 88.61310271853011,
       "source": [
@@ -996,14 +996,14 @@
         },
         {
           "period": "2021Q4",
-          "avg_price": 363.94827586206895,
+          "avg_price": 363.375,
           "eps": 8.45,
           "revenue_q": 3.48302,
-          "pe_ratio": 43.07080187716793,
+          "pe_ratio": 43.00295857988166,
           "rev_growth": null,
           "eps_growth": null,
           "rt_weight": 1.0,
-          "deviation": 0.4860545512549949,
+          "deviation": 0.4852889387755204,
           "theo_price": 748.7807179715794
         }
       ],
@@ -1017,27 +1017,6 @@
       "stock_name": "弘塑"
     },
     "kline_data": [
-      {
-        "date": "2026-05-29",
-        "symbol": "3131.TWO",
-        "open": 3820.0,
-        "high": 3865.0,
-        "low": 3450.0,
-        "close": 3450.0,
-        "volume": 1205555.0,
-        "adjclose": 3387.650390625,
-        "dividends": 0.0,
-        "MA5": 3309.0,
-        "MA20": 3014.75,
-        "MA60": 2804.75,
-        "bb_mid": 3014.75,
-        "bb_up": 3552.7506970255754,
-        "bb_dn": 2476.7493029744246,
-        "DIF": 102.10837046356572,
-        "DEA": 31.43945935002651,
-        "HIST": 141.33782222707845,
-        "volume_lot": 1205.555
-      },
       {
         "date": "2026-06-01",
         "symbol": "3131.TWO",
@@ -3536,6 +3515,27 @@
         "DEA": -177.28305437888906,
         "HIST": -24.8888816453956,
         "volume_lot": 135.261
+      },
+      {
+        "date": "2026-11-23",
+        "symbol": "3131.TWO",
+        "open": 1230.0,
+        "high": 1355.0,
+        "low": 1210.0,
+        "close": null,
+        "volume": 587682.0,
+        "adjclose": null,
+        "dividends": 0.0,
+        "MA5": null,
+        "MA20": null,
+        "MA60": null,
+        "bb_mid": null,
+        "bb_up": null,
+        "bb_dn": null,
+        "DIF": -189.7274952015869,
+        "DEA": -179.77194254342862,
+        "HIST": -19.91110531631648,
+        "volume_lot": 587.682
       }
     ]
   }

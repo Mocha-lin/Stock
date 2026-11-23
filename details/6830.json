@@ -1,11 +1,11 @@
 {
   "id": "6830",
   "name": "汎銓",
-  "lastUpdated": "2026-11-22 22:59:32",
+  "lastUpdated": "2026-11-24 02:53:56",
   "basicInfo": {
-    "price": "313.00",
-    "change": "-34.50",
-    "changePercent": "-9.93%"
+    "price": "308.00",
+    "change": "-5.00",
+    "changePercent": "-1.60%"
   },
   "status": "⚡ BUY",
   "themes": [],
@@ -675,6 +675,14 @@
     ],
     "chips_table": [
       {
+        "date": "2026-11-23",
+        "foreign_lots": 364.357,
+        "it_lots": 0.0,
+        "dealer_lots": -6.814,
+        "sum_lots": 357.543,
+        "pct_float": 0.05129911030062685
+      },
+      {
         "date": "2026-11-20",
         "foreign_lots": 69.037,
         "it_lots": 0.0,
@@ -785,14 +793,6 @@
         "dealer_lots": -40.464,
         "sum_lots": 25.977000000000004,
         "pct_float": 0.003727095729127361
-      },
-      {
-        "date": "2026-11-02",
-        "foreign_lots": 27.319,
-        "it_lots": 0.0,
-        "dealer_lots": 2.841,
-        "sum_lots": 30.16,
-        "pct_float": 0.004327259005677375
       }
     ],
     "c_score_data": {
@@ -800,7 +800,7 @@
       "dataset": "structure_c_score",
       "stock_id": "6830",
       "ticker": "6830.TW",
-      "asof": "2026-11-20",
+      "asof": "2026-11-23",
       "c_score": 4.058403713736255,
       "benchmark_pe": 99.36921912331749,
       "source": [
@@ -1076,14 +1076,14 @@
         },
         {
           "period": "2021Q4",
-          "avg_price": 163.91379310344828,
+          "avg_price": 163.98214285714286,
           "eps": 4.14,
           "revenue_q": 1.37148,
-          "pe_ratio": 39.59270364817592,
+          "pe_ratio": 39.609213250517605,
           "rev_growth": null,
           "eps_growth": null,
           "rt_weight": 1.0,
-          "deviation": 0.3984403218368986,
+          "deviation": 0.3986064658650729,
           "theo_price": 411.3885671705344
         }
       ],
@@ -1114,12 +1114,12 @@
       },
       {
         "year": 2023,
-        "return_pct": 44.379795407315314,
+        "return_pct": 44.37980712348937,
         "period": "01/03~12/29"
       },
       {
         "year": 2022,
-        "return_pct": -40.85146058103716,
+        "return_pct": -40.85146648711998,
         "period": "01/03~12/30"
       }
     ],
@@ -2025,27 +2025,6 @@
     ],
     "facilities_data": [],
     "kline_data": [
-      {
-        "date": "2026-05-29",
-        "symbol": "6830.TW",
-        "open": 715.0,
-        "high": 716.0,
-        "low": 675.0,
-        "close": 678.0,
-        "volume": 1418684.0,
-        "adjclose": 678.0,
-        "dividends": 0.0,
-        "MA5": 729.8,
-        "MA20": 768.6,
-        "MA60": 639.1916666666667,
-        "bb_mid": 768.6,
-        "bb_up": 930.9901474843812,
-        "bb_dn": 606.2098525156189,
-        "DIF": -3.284193261646692,
-        "DEA": 11.555739241075752,
-        "HIST": -29.67986500544489,
-        "volume_lot": 1418.684
-      },
       {
         "date": "2026-06-01",
         "symbol": "6830.TW",
@@ -4544,6 +4523,27 @@
         "DEA": -22.970005882842678,
         "HIST": -24.2577558621742,
         "volume_lot": 355.692
+      },
+      {
+        "date": "2026-11-23",
+        "symbol": "6830.TW",
+        "open": 282.0,
+        "high": 318.0,
+        "low": 282.0,
+        "close": null,
+        "volume": 1607442.0,
+        "adjclose": null,
+        "dividends": 0.0,
+        "MA5": null,
+        "MA20": null,
+        "MA60": null,
+        "bb_mid": null,
+        "bb_up": null,
+        "bb_dn": null,
+        "DIF": -35.098883813929774,
+        "DEA": -25.395781469060097,
+        "HIST": -19.406204689739354,
+        "volume_lot": 1607.442
       }
     ],
     "valuation": {

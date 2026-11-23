@@ -1,11 +1,11 @@
 {
   "id": "2345",
   "name": "智邦",
-  "lastUpdated": "2026-11-22 22:59:32",
+  "lastUpdated": "2026-11-24 02:53:56",
   "basicInfo": {
-    "price": "1230.00",
-    "change": "-120.00",
-    "changePercent": "-8.89%"
+    "price": "1350.00",
+    "change": "120.00",
+    "changePercent": "9.76%"
   },
   "status": null,
   "themes": [],
@@ -568,6 +568,14 @@
     ],
     "chips_table": [
       {
+        "date": "2026-11-23",
+        "foreign_lots": -810.288,
+        "it_lots": 365.91,
+        "dealer_lots": -41.762,
+        "sum_lots": -486.14,
+        "pct_float": -0.008663776365002792
+      },
+      {
         "date": "2026-11-20",
         "foreign_lots": -411.612,
         "it_lots": 961.24,
@@ -678,14 +686,6 @@
         "dealer_lots": -110.22899999999998,
         "sum_lots": -305.38,
         "pct_float": -0.00544234999453769
-      },
-      {
-        "date": "2026-11-02",
-        "foreign_lots": -18.81,
-        "it_lots": -162.857,
-        "dealer_lots": 19.114,
-        "sum_lots": -162.553,
-        "pct_float": -0.0028969491081998985
       }
     ],
     "returns_table": [
@@ -706,7 +706,7 @@
       },
       {
         "year": 2023,
-        "return_pct": 120.30387932174244,
+        "return_pct": 120.30386457395994,
         "period": "01/03~12/29"
       },
       {
@@ -720,7 +720,7 @@
       "dataset": "structure_c_score",
       "stock_id": "2345",
       "ticker": "2345.TW",
-      "asof": "2026-11-20",
+      "asof": "2026-11-23",
       "c_score": 1.0828919049335617,
       "benchmark_pe": 84.6683925370812,
       "source": [
@@ -996,14 +996,14 @@
         },
         {
           "period": "2021Q4",
-          "avg_price": 281.36206896551727,
+          "avg_price": 280.98214285714283,
           "eps": 2.74,
           "revenue_q": 53.54563,
-          "pe_ratio": 102.68688648376542,
+          "pe_ratio": 102.54822732012511,
           "rev_growth": null,
           "eps_growth": null,
           "rt_weight": 1.0,
-          "deviation": 1.2128125196045605,
+          "deviation": 1.2111748463302086,
           "theo_price": 231.99139555160252
         }
       ],
@@ -1017,27 +1017,6 @@
       "stock_name": "智邦"
     },
     "kline_data": [
-      {
-        "date": "2026-05-29",
-        "symbol": "2345.TW",
-        "open": 2505.0,
-        "high": 2530.0,
-        "low": 2390.0,
-        "close": 2430.0,
-        "volume": 6138040.0,
-        "adjclose": 2410.916259765625,
-        "dividends": 0.0,
-        "MA5": 2529.0,
-        "MA20": 2499.25,
-        "MA60": 1996.0833333333333,
-        "bb_mid": 2499.25,
-        "bb_up": 2664.8179618766976,
-        "bb_dn": 2333.6820381233024,
-        "DIF": 105.18651822855873,
-        "DEA": 136.16853028970053,
-        "HIST": -61.9640241222836,
-        "volume_lot": 6138.04
-      },
       {
         "date": "2026-06-01",
         "symbol": "2345.TW",
@@ -3536,6 +3515,27 @@
         "DEA": -128.05133377792748,
         "HIST": -20.73585300430443,
         "volume_lot": 6351.982
+      },
+      {
+        "date": "2026-11-23",
+        "symbol": "2345.TW",
+        "open": 1235.0,
+        "high": 1350.0,
+        "low": 1200.0,
+        "close": null,
+        "volume": 7091129.0,
+        "adjclose": null,
+        "dividends": 0.0,
+        "MA5": null,
+        "MA20": null,
+        "MA60": null,
+        "bb_mid": null,
+        "bb_up": null,
+        "bb_dn": null,
+        "DIF": -138.4192602800797,
+        "DEA": -130.12491907835795,
+        "HIST": -16.5886824034435,
+        "volume_lot": 7091.129
       }
     ]
   }

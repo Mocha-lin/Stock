@@ -1,11 +1,11 @@
 {
   "id": "8064",
   "name": "東捷",
-  "lastUpdated": "2026-11-22 22:59:32",
+  "lastUpdated": "2026-11-24 02:53:56",
   "basicInfo": {
-    "price": "67.30",
-    "change": "-7.40",
-    "changePercent": "-9.91%"
+    "price": "68.70",
+    "change": "1.40",
+    "changePercent": "2.08%"
   },
   "status": null,
   "themes": [],
@@ -568,6 +568,14 @@
     ],
     "chips_table": [
       {
+        "date": "2026-11-23",
+        "foreign_lots": 501.411,
+        "it_lots": 0.0,
+        "dealer_lots": -16.570999999999998,
+        "sum_lots": 484.84000000000003,
+        "pct_float": 0.026233403925379484
+      },
+      {
         "date": "2026-11-20",
         "foreign_lots": -5.899,
         "it_lots": 0.0,
@@ -678,14 +686,6 @@
         "dealer_lots": -41.954,
         "sum_lots": 630.541,
         "pct_float": 0.0341168978312695
-      },
-      {
-        "date": "2026-11-02",
-        "foreign_lots": 24.326,
-        "it_lots": 0.0,
-        "dealer_lots": -12.109000000000002,
-        "sum_lots": 12.216999999999999,
-        "pct_float": 0.0006610294030120475
       }
     ],
     "returns_table": [
@@ -706,7 +706,7 @@
       },
       {
         "year": 2023,
-        "return_pct": 15.582066716764341,
+        "return_pct": 15.58204714032878,
         "period": "01/03~12/29"
       },
       {
@@ -720,7 +720,7 @@
       "dataset": "structure_c_score",
       "stock_id": "8064",
       "ticker": "8064.TWO",
-      "asof": "2026-11-20",
+      "asof": "2026-11-23",
       "c_score": 3.4753232624279216,
       "benchmark_pe": 52.27332670636842,
       "source": [
@@ -996,14 +996,14 @@
         },
         {
           "period": "2021Q4",
-          "avg_price": 21.498275691065295,
+          "avg_price": 21.473214081355504,
           "eps": 0.76,
           "revenue_q": 3.89556,
-          "pe_ratio": 28.28720485666486,
+          "pe_ratio": 28.254229054415138,
           "rev_growth": null,
           "eps_growth": null,
           "rt_weight": 1.0,
-          "deviation": 0.541140322206022,
+          "deviation": 0.5405094880057241,
           "theo_price": 39.72772829684
         }
       ],
@@ -1017,27 +1017,6 @@
       "stock_name": "東捷"
     },
     "kline_data": [
-      {
-        "date": "2026-05-29",
-        "symbol": "8064.TWO",
-        "open": 140.0,
-        "high": 145.0,
-        "low": 135.5,
-        "close": 143.0,
-        "volume": 13172943.0,
-        "adjclose": 141.95315551757812,
-        "dividends": 0.0,
-        "MA5": 142.7,
-        "MA20": 125.4,
-        "MA60": 88.48416684468587,
-        "bb_mid": 125.4,
-        "bb_up": 151.23524724093025,
-        "bb_dn": 99.56475275906976,
-        "DIF": 13.851721244305764,
-        "DEA": 13.578774194208926,
-        "HIST": 0.5458941001936779,
-        "volume_lot": 13172.943
-      },
       {
         "date": "2026-06-01",
         "symbol": "8064.TWO",
@@ -3536,6 +3515,27 @@
         "DEA": -8.502836956706822,
         "HIST": -4.993077638992403,
         "volume_lot": 1029.914
+      },
+      {
+        "date": "2026-11-23",
+        "symbol": "8064.TWO",
+        "open": 60.59999847412109,
+        "high": 69.0999984741211,
+        "low": 60.59999847412109,
+        "close": null,
+        "volume": 3011306.0,
+        "adjclose": null,
+        "dividends": 0.0,
+        "MA5": null,
+        "MA20": null,
+        "MA60": null,
+        "bb_mid": null,
+        "bb_up": null,
+        "bb_dn": null,
+        "DIF": -10.999375776203024,
+        "DEA": -9.002144720606063,
+        "HIST": -3.994462111193922,
+        "volume_lot": 3011.306
       }
     ]
   }

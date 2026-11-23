@@ -1,11 +1,11 @@
 {
   "id": "6187",
   "name": "萬潤",
-  "lastUpdated": "2026-11-22 22:59:32",
+  "lastUpdated": "2026-11-24 02:53:56",
   "basicInfo": {
-    "price": "625.00",
-    "change": "-69.00",
-    "changePercent": "-9.94%"
+    "price": "673.00",
+    "change": "48.00",
+    "changePercent": "7.68%"
   },
   "status": null,
   "themes": [],
@@ -568,6 +568,14 @@
     ],
     "chips_table": [
       {
+        "date": "2026-11-23",
+        "foreign_lots": 396.936,
+        "it_lots": -629.0,
+        "dealer_lots": 1.4549999999999996,
+        "sum_lots": -230.609,
+        "pct_float": -0.023468596457662513
+      },
+      {
         "date": "2026-11-20",
         "foreign_lots": -130.747,
         "it_lots": 52.149,
@@ -678,14 +686,6 @@
         "dealer_lots": -144.728,
         "sum_lots": -303.116,
         "pct_float": -0.030847482465388733
-      },
-      {
-        "date": "2026-11-02",
-        "foreign_lots": 53.009,
-        "it_lots": -75.0,
-        "dealer_lots": 6.120000000000001,
-        "sum_lots": -15.870999999999999,
-        "pct_float": -0.0016151585340535785
       }
     ],
     "returns_table": [
@@ -701,17 +701,17 @@
       },
       {
         "year": 2024,
-        "return_pct": 184.72384699709622,
+        "return_pct": 184.72387894729164,
         "period": "01/02~12/31"
       },
       {
         "year": 2023,
-        "return_pct": 129.50952503535538,
+        "return_pct": 129.5094842164024,
         "period": "01/03~12/29"
       },
       {
         "year": 2022,
-        "return_pct": -47.15778861026868,
+        "return_pct": -47.1577996475652,
         "period": "01/03~12/30"
       }
     ],
@@ -720,7 +720,7 @@
       "dataset": "structure_c_score",
       "stock_id": "6187",
       "ticker": "6187.TWO",
-      "asof": "2026-11-20",
+      "asof": "2026-11-23",
       "c_score": 1.102005912401758,
       "benchmark_pe": 103.60835243188184,
       "source": [
@@ -996,14 +996,14 @@
         },
         {
           "period": "2021Q4",
-          "avg_price": 117.1896551724138,
+          "avg_price": 116.76785714285714,
           "eps": 0.8,
           "revenue_q": 1.23675,
-          "pe_ratio": 146.48706896551724,
+          "pe_ratio": 145.95982142857142,
           "rev_growth": null,
           "eps_growth": null,
           "rt_weight": 1.0,
-          "deviation": 1.4138538595315118,
+          "deviation": 1.40876500786492,
           "theo_price": 82.88668194550547
         }
       ],
@@ -1017,27 +1017,6 @@
       "stock_name": "萬潤"
     },
     "kline_data": [
-      {
-        "date": "2026-05-29",
-        "symbol": "6187.TWO",
-        "open": 1225.0,
-        "high": 1285.0,
-        "low": 1120.0,
-        "close": 1120.0,
-        "volume": 7247439.0,
-        "adjclose": 1105.9420166015625,
-        "dividends": 0.0,
-        "MA5": 1171.0,
-        "MA20": 1166.5,
-        "MA60": 998.9333333333332,
-        "bb_mid": 1166.5,
-        "bb_up": 1315.6676908717134,
-        "bb_dn": 1017.3323091282864,
-        "DIF": 20.870047802393174,
-        "DEA": 29.10546479028117,
-        "HIST": -16.470833975775996,
-        "volume_lot": 7247.439
-      },
       {
         "date": "2026-06-01",
         "symbol": "6187.TWO",
@@ -3536,6 +3515,27 @@
         "DEA": -120.03872187680084,
         "HIST": -69.11057960802538,
         "volume_lot": 974.505
+      },
+      {
+        "date": "2026-11-23",
+        "symbol": "6187.TWO",
+        "open": 625.0,
+        "high": 673.0,
+        "low": 576.0,
+        "close": null,
+        "volume": 3631839.0,
+        "adjclose": null,
+        "dividends": 0.0,
+        "MA5": null,
+        "MA20": null,
+        "MA60": null,
+        "bb_mid": null,
+        "bb_up": null,
+        "bb_dn": null,
+        "DIF": -154.59401168081354,
+        "DEA": -126.9497798376034,
+        "HIST": -55.28846368642027,
+        "volume_lot": 3631.839
       }
     ]
   }
