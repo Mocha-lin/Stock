@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-24T06:47:02.532650+00:00
+> 更新時間：2026-11-24T10:33:53.944537+00:00
 
 ### ⚖️ ASE, SPIL to overtake Amkor in 2027 as server CPUs shift beyond TSMC CoWoS
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -136,6 +136,15 @@
 
 ---
 
+### ⚖️ The CFO at the center of Amazon’s AI spending blitz
+- **題材**: `總體風險` | **重要性**: `65`
+- **來源**: Business Insider (2026-11-23T10:00:01Z)
+- **AI 判讀**: 屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: AWS CFO John Felton is using lessons from Amazon's pandemic expansion to manage its massive AI infrastructure spending.
+- [原文連結](https://www.businessinsider.com/aws-cfo-john-felton-amazon-ai-spending-data-centers-2026-11)
+
+---
+
 ### ⚠️ Companies get billions in tariff refunds. Consumers are left with the bill.
 - **題材**: `總體風險` | **重要性**: `65`
 - **來源**: Al Jazeera English (2026-11-17T19:31:30Z)
@@ -169,15 +178,6 @@
 - **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: As Americans struggle with rising energy costs and increased demand driven by AI, the Senate passed a bipartisan bill that will speed up the approval process for data centers and power plants.
 - [原文連結](https://www.npr.org/2026/11/20/g-s1-154579/senate-bipartisan-energy-bill)
-
----
-
-### ⚠️ Anthropic’s blockbuster IPO couldn’t calm the AI selloff and volatility risks making it worse
-- **題材**: `半導體先進製程` | **重要性**: `60`
-- **來源**: Business Insider (2026-11-20T04:32:53Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Anthropic's hotly anticipated IPO failed to calm the AI selloff, with shares falling nearly 5% after hours as Asian tech stocks plunged.
-- [原文連結](https://www.businessinsider.com/anthropic-stock-price-ipo-kospi-index-ai-trade-volatility-selloff-2026-11)
 
 ---
 
