@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-11-24T10:33:53.944537+00:00",
+  "generated_at": "2026-11-24T19:57:57.340736+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 69,
@@ -42,44 +42,6 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
-      "id": "1e633475f49de18e",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "CPO mass production faces hybrid bonding yield challenges, potentially delaying large-scale shipments until late 2027",
-      "summary": "Co-packaged optics (CPO) is emerging as an important optical interconnect technology for AI data centers, but the industry may still be some distance from achieving large-scale mass production.",
-      "original_title": "CPO mass production faces hybrid bonding yield challenges, potentially delaying large-scale shipments until late 2027",
-      "url": "https://www.digitimes.com/news/a20261120PD216/cpo-production-shipments-2027-optics.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-11-20T01:42:15Z",
-      "importance": 83,
-      "impact": "negative",
-      "timeframe": "short_to_mid_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "dfd53a86383ed918",
@@ -383,44 +345,6 @@
       "reason": "屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
-      "id": "861a5265fddc2462",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "Rapidus reportedly struggles to produce working SRAM on its 2nm node, putting 2027 mass production at risk",
-      "summary": "Japan's semiconductor startup has demonstrated functioning GAA transistors, but integrating them into working memory cells appears to be a considerably greater challenge.",
-      "original_title": "Rapidus reportedly struggles to produce working SRAM on its 2nm node, putting 2027 mass production at risk",
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/rapidus-reportedly-struggles-to-produce-working-sram-on-its-2nm-node-putting-2027-mass-production-at-risk-company-faces-significant-challenges-using-euv-to-develop-gaa-transistors",
-      "source": "Tom's Hardware UK",
-      "domain": "tomshardware.com",
-      "published_at": "2026-11-21T15:30:00Z",
-      "importance": 72,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。"
-    },
-    {
       "id": "d7e9d65d3470f0dd",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -564,6 +488,82 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "861a5265fddc2462",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "Rapidus reportedly struggles to produce working SRAM on its 2nm node, putting 2027 mass production at risk",
+      "summary": "Japan's semiconductor startup has demonstrated functioning GAA transistors, but integrating them into working memory cells appears to be a considerably greater challenge.",
+      "original_title": "Rapidus reportedly struggles to produce working SRAM on its 2nm node, putting 2027 mass production at risk",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/rapidus-reportedly-struggles-to-produce-working-sram-on-its-2nm-node-putting-2027-mass-production-at-risk-company-faces-significant-challenges-using-euv-to-develop-gaa-transistors",
+      "source": "Tom's Hardware UK",
+      "domain": "tomshardware.com",
+      "published_at": "2026-11-21T15:30:00Z",
+      "importance": 67,
+      "impact": "negative",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "a9d87147afb92a39",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "Wall Street stages a comeback after 7 straight days of losses",
+      "summary": "Stock futures rebounded in premarket trading on Monday as buyers stepped back in for the holiday-shortened week after a bruising sell-off that left the S&P 500 and Dow in correction territory.Futures on the S&P 500 (ES=F) rose 2.6% following seven straight da…",
+      "original_title": "Wall Street stages a comeback after 7 straight days of losses",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-23-dow-sp-500-nasdaq-091118583.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-11-23T11:00:34Z",
+      "importance": 65,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "02384cabc1b19bb9",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -602,44 +602,6 @@
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "29417860a34cbc55",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "Companies get billions in tariff refunds. Consumers are left with the bill.",
-      "summary": "Companies get billions in tariff refunds. Consumers are left with the bill.",
-      "original_title": "Companies get billions in tariff refunds. Consumers are left with the bill.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/companies-get-billions-in-tariff-refunds-consumers-are-left-with-the-bill",
-      "source": "Al Jazeera English",
-      "domain": "aljazeera.com",
-      "published_at": "2026-11-17T19:31:30Z",
-      "importance": 65,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "8877e2e921b7298a",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -673,6 +635,120 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "1ab712bc7f0f9edf",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "Wall Street stages a comeback after 7 straight days of losses",
+      "summary": "Stock futures rebounded in premarket trading on Monday as buyers stepped back in for the holiday-shortened week after a bruising sell-off, and Nvidia (NVDA) stock surged after the company’s board reinstated Jensen Huang as CEO.Futures on the S&P 500 (ES=F) ro…",
+      "original_title": "Wall Street stages a comeback after 7 straight days of losses",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-23-dow-sp-500-nasdaq-nvidia-reinstates-jensen-huang-141511975.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-11-23T14:15:11Z",
+      "importance": 60,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "9701ccbf891f84b0",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "Why these 6 stocks are winning from the AI rout",
+      "summary": "Walmart, Berkshire Hathaway, and Clorox shares have rallied strongly as investors switch out high-flying AI stocks like Nvidia for defensive picks.",
+      "original_title": "Why these 6 stocks are winning from the AI rout",
+      "url": "https://www.businessinsider.com/ai-tech-stocks-rout-walmart-berkshire-buffett-defensive-investing-consumer-2026-11",
+      "source": "Business Insider",
+      "domain": "businessinsider.com",
+      "published_at": "2026-11-23T12:32:34Z",
+      "importance": 60,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "4ce74210ff372460",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "Apple Explores Using Light to Move Data Between Server Chips",
+      "summary": "Apple is hiring an engineering program manager to work on light-based data connections for its server chips, in what could be a sign of the company's broader ambitions in data-center infrastructure. The Silicon Photonics EPM listing was highlighted by Korea's…",
+      "original_title": "Apple Explores Using Light to Move Data Between Server Chips",
+      "url": "https://www.macrumors.com/2026/11/23/apple-light-move-data-server-chips/",
+      "source": "MacRumors",
+      "domain": "macrumors.com",
+      "published_at": "2026-11-23T12:29:27Z",
+      "importance": 60,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "dde3bbc63a1ceac2",
@@ -900,6 +976,44 @@
       "reason": "屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "29417860a34cbc55",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "Companies get billions in tariff refunds. Consumers are left with the bill.",
+      "summary": "Companies get billions in tariff refunds. Consumers are left with the bill.",
+      "original_title": "Companies get billions in tariff refunds. Consumers are left with the bill.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/companies-get-billions-in-tariff-refunds-consumers-are-left-with-the-bill",
+      "source": "Al Jazeera English",
+      "domain": "aljazeera.com",
+      "published_at": "2026-11-17T19:31:30Z",
+      "importance": 60,
+      "impact": "negative",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "86b6138342182a43",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1012,44 +1126,6 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "253925cf582cade0",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "Get ready for 3 consecutive rate hikes starting next month, bank economist warns",
-      "summary": "\"We believe the FOMC, in its three upcoming meetings, will remove three more doses of accommodation,\" Egelhof wrote.",
-      "original_title": "Get ready for 3 consecutive rate hikes starting next month, bank economist warns",
-      "url": "https://www.businessinsider.com/federal-reserve-rate-hikes-december-fomc-meeting-warsh-ai-stocks-2026-11",
-      "source": "Business Insider",
-      "domain": "businessinsider.com",
-      "published_at": "2026-11-23T10:30:01Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "afe74eddc58b1b76",
@@ -1546,117 +1622,6 @@
       "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "64899aeac37480ba",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "Carney eyes 'other options' for embattled Canadian auto sector on China trip",
-      "summary": "The PM has suggested Chinese automakers could replace American ones in Canada - but some say that would not be easy.",
-      "original_title": "Carney eyes 'other options' for embattled Canadian auto sector on China trip",
-      "url": "https://www.bbc.co.uk/news/articles/cq98xlz09ye0o",
-      "source": "BBC News",
-      "domain": "bbc.co.uk",
-      "published_at": "2026-11-17T15:17:49Z",
-      "importance": 55,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "7f9ca866c405b586",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "Apple memory suppliers expect price increases through at least 2030 [U]",
-      "summary": "Key Apple memory supplier SK Hynix has warned that RAM and flash memory shortages are likely to last through at least 2030, keeping product prices high. Apple is believed to be one of 14 customers who have locked in priority orders, but the contract does not …",
-      "original_title": "Apple memory suppliers expect price increases through at least 2030 [U]",
-      "url": "https://9to5mac.com/2026/11/17/apple-memory-supplier-expects-price-increases-through-at-least-2030/",
-      "source": "9to5Mac",
-      "domain": "9to5mac.com",
-      "published_at": "2026-11-17T13:39:13Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "75fb3e16ea104947",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Rubin HPC: Nvidia bringt eigene Rubin-GPU für Supercomputer",
-      "summary": "Nvidias Fokus verschob sich bei Hardware für Rechenzentren zu KI. Supercomputer profitieren davon aber nicht immer. AMD hatte hier vorgelegt. (Supercomputer, Grafikkarten)",
-      "original_title": "Rubin HPC: Nvidia bringt eigene Rubin-GPU für Supercomputer",
-      "url": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Frubin-hpc-nvidia-bringt-eigene-rubin-gpu-fuer-supercomputer-2611-215305.html&referer=https%3A%2F%2Ft.co%2F398a164cc9",
-      "source": "Golem.de",
-      "domain": "golem.de",
-      "published_at": "2026-11-17T11:06:01Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "809b5f6da4e11b5d",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2107,44 +2072,6 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "d421a6da4169e2d1",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "Chinese President Xi rolls out the red carpet for Trump as a new trade fight looms",
-      "summary": "Chinese President Xi Jinping welcomed President Trump with a rare in-person greeting Wednesday in Shenzhen for the Chinese leg of Trump's Asia trip this week.The Chinese leader even offered Trump a hug, kicking off a visit expected to be dogged by questions o…",
-      "original_title": "Chinese President Xi rolls out the red carpet for Trump as a new trade fight looms",
-      "url": "https://finance.yahoo.com/economy/article/in-china-trump-is-greeted-by-xi-jinping-and-meets-with-canadas-mark-carney-131412638.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-11-18T14:43:09Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "cb1efce130bb3552",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2297,17 +2224,55 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "f5e95fd30cd221ed",
+      "id": "64899aeac37480ba",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "Carney eyes 'other options' for embattled Canadian auto sector on China trip",
+      "summary": "The PM has suggested Chinese automakers could replace American ones in Canada - but some say that would not be easy.",
+      "original_title": "Carney eyes 'other options' for embattled Canadian auto sector on China trip",
+      "url": "https://www.bbc.co.uk/news/articles/cq98xlz09ye0o",
+      "source": "BBC News",
+      "domain": "bbc.co.uk",
+      "published_at": "2026-11-17T15:17:49Z",
+      "importance": 50,
+      "impact": "negative",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "7f9ca866c405b586",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "HBM記憶體",
-      "title": "Ryzen 7 9800X3D CPU + GIGABYTE X870E AORUS PRO ICE Mobo + 32GB RAM + 1TB SSD $997.30 + Free S/H",
-      "summary": "Newegg [newegg.com] has *AMD Ryzen 7 9800X3D 8-Core Zen 5 X3D CPU* + *GIGABYTE X870E AORUS PRO ICE AM5 Motherboard* + *V-COLOR OLED Manta XOT1 DDR5 32GB (2x16GB) 6000MHz CL28 1.35V SK Hynix IC RGB...",
-      "original_title": "Ryzen 7 9800X3D CPU + GIGABYTE X870E AORUS PRO ICE Mobo + 32GB RAM + 1TB SSD $997.30 + Free S/H",
-      "url": "https://slickdeals.net/f/20327223-amd-ryzen-7-9800x3d-cpu-gigabyte-x870e-aorus-pro-ice-mb-32gb-v-color-oled-ddr5-6000-cl28-ram-1tb-team-group-t-force-vulcan-z-ssd-rosewill-frostmax-360mm-argb-aio-997-31",
-      "source": "Slickdeals.net",
-      "domain": "slickdeals.net",
-      "published_at": "2026-11-17T19:33:25Z",
+      "title": "Apple memory suppliers expect price increases through at least 2030 [U]",
+      "summary": "Key Apple memory supplier SK Hynix has warned that RAM and flash memory shortages are likely to last through at least 2030, keeping product prices high. Apple is believed to be one of 14 customers who have locked in priority orders, but the contract does not …",
+      "original_title": "Apple memory suppliers expect price increases through at least 2030 [U]",
+      "url": "https://9to5mac.com/2026/11/17/apple-memory-supplier-expects-price-increases-through-at-least-2030/",
+      "source": "9to5Mac",
+      "domain": "9to5mac.com",
+      "published_at": "2026-11-17T13:39:13Z",
       "importance": 50,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -2332,29 +2297,32 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "9f57c5bf1e3bd0e8",
+      "id": "75fb3e16ea104947",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "Tòa Mỹ cho vụ kiện thông đồng giá RAM đi tiếp: tòa quyết gì, chưa quyết gì",
-      "summary": "Ai build PC hay nâng RAM năm nay chắc cũng thấm cái giá. Giữa lúc đó, một tòa án liên bang ở Mỹ vừa bác đề nghị bác đơn của Samsung, SK hynix và Micron trong vụ kiện cáo buộc ba hãng bắt tay hạn chế nguồn cung RAM.",
-      "original_title": "Tòa Mỹ cho vụ kiện thông đồng giá RAM đi tiếp: tòa quyết gì, chưa quyết gì",
-      "url": "https://tinhte.vn/thread/toa-my-cho-vu-kien-thong-dong-gia-ram-di-tiep-toa-quyet-gi-chua-quyet-gi.4193437/",
-      "source": "Tinhte.vn",
-      "domain": "tinhte.vn",
-      "published_at": "2026-11-17T19:21:58Z",
+      "theme": "AI伺服器",
+      "title": "Rubin HPC: Nvidia bringt eigene Rubin-GPU für Supercomputer",
+      "summary": "Nvidias Fokus verschob sich bei Hardware für Rechenzentren zu KI. Supercomputer profitieren davon aber nicht immer. AMD hatte hier vorgelegt. (Supercomputer, Grafikkarten)",
+      "original_title": "Rubin HPC: Nvidia bringt eigene Rubin-GPU für Supercomputer",
+      "url": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Frubin-hpc-nvidia-bringt-eigene-rubin-gpu-fuer-supercomputer-2611-215305.html&referer=https%3A%2F%2Ft.co%2F398a164cc9",
+      "source": "Golem.de",
+      "domain": "golem.de",
+      "published_at": "2026-11-17T11:06:01Z",
       "importance": 50,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "HBM",
-        "記憶體"
+        "AI",
+        "伺服器",
+        "資料中心"
       ],
       "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
       ],
       "related_models": [
         "003",
@@ -2364,83 +2332,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "36b751f32aad1bd4",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "Talking Venice with Mahesh Subramony at AMD In-Depth",
-      "summary": "Hello you fine Internet folks,",
-      "original_title": "Talking Venice with Mahesh Subramony at AMD In-Depth",
-      "url": "https://chipsandcheese.com/p/talking-venice-with-mahesh-subramony",
-      "source": "Chipsandcheese.com",
-      "domain": "chipsandcheese.com",
-      "published_at": "2026-11-17T11:41:08Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "cc15cc5bf844fd22",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "Why Nvidia is betting on silicon photonics to scale AI",
-      "summary": "By moving optics right next to the chips that run those networks, Nvidia aims to ease one of AI’s central data bottlenecks—and make itself even harder for the industry to do without",
-      "original_title": "Why Nvidia is betting on silicon photonics to scale AI",
-      "url": "https://www.scientificamerican.com/article/why-nvidia-is-betting-on-silicon-photonics-to-scale-ai/",
-      "source": "Scientific American",
-      "domain": "scientificamerican.com",
-      "published_at": "2026-11-17T11:00:00Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "b4efbf1caa4a442f",
@@ -2516,6 +2408,152 @@
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "f5e95fd30cd221ed",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "Ryzen 7 9800X3D CPU + GIGABYTE X870E AORUS PRO ICE Mobo + 32GB RAM + 1TB SSD $997.30 + Free S/H",
+      "summary": "Newegg [newegg.com] has *AMD Ryzen 7 9800X3D 8-Core Zen 5 X3D CPU* + *GIGABYTE X870E AORUS PRO ICE AM5 Motherboard* + *V-COLOR OLED Manta XOT1 DDR5 32GB (2x16GB) 6000MHz CL28 1.35V SK Hynix IC RGB...",
+      "original_title": "Ryzen 7 9800X3D CPU + GIGABYTE X870E AORUS PRO ICE Mobo + 32GB RAM + 1TB SSD $997.30 + Free S/H",
+      "url": "https://slickdeals.net/f/20327223-amd-ryzen-7-9800x3d-cpu-gigabyte-x870e-aorus-pro-ice-mb-32gb-v-color-oled-ddr5-6000-cl28-ram-1tb-team-group-t-force-vulcan-z-ssd-rosewill-frostmax-360mm-argb-aio-997-31",
+      "source": "Slickdeals.net",
+      "domain": "slickdeals.net",
+      "published_at": "2026-11-17T19:33:25Z",
+      "importance": 45,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
+    },
+    {
+      "id": "9f57c5bf1e3bd0e8",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "Tòa Mỹ cho vụ kiện thông đồng giá RAM đi tiếp: tòa quyết gì, chưa quyết gì",
+      "summary": "Ai build PC hay nâng RAM năm nay chắc cũng thấm cái giá. Giữa lúc đó, một tòa án liên bang ở Mỹ vừa bác đề nghị bác đơn của Samsung, SK hynix và Micron trong vụ kiện cáo buộc ba hãng bắt tay hạn chế nguồn cung RAM.",
+      "original_title": "Tòa Mỹ cho vụ kiện thông đồng giá RAM đi tiếp: tòa quyết gì, chưa quyết gì",
+      "url": "https://tinhte.vn/thread/toa-my-cho-vu-kien-thong-dong-gia-ram-di-tiep-toa-quyet-gi-chua-quyet-gi.4193437/",
+      "source": "Tinhte.vn",
+      "domain": "tinhte.vn",
+      "published_at": "2026-11-17T19:21:58Z",
+      "importance": 45,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
+    },
+    {
+      "id": "36b751f32aad1bd4",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "Talking Venice with Mahesh Subramony at AMD In-Depth",
+      "summary": "Hello you fine Internet folks,",
+      "original_title": "Talking Venice with Mahesh Subramony at AMD In-Depth",
+      "url": "https://chipsandcheese.com/p/talking-venice-with-mahesh-subramony",
+      "source": "Chipsandcheese.com",
+      "domain": "chipsandcheese.com",
+      "published_at": "2026-11-17T11:41:08Z",
+      "importance": 45,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
+    },
+    {
+      "id": "cc15cc5bf844fd22",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "Why Nvidia is betting on silicon photonics to scale AI",
+      "summary": "By moving optics right next to the chips that run those networks, Nvidia aims to ease one of AI’s central data bottlenecks—and make itself even harder for the industry to do without",
+      "original_title": "Why Nvidia is betting on silicon photonics to scale AI",
+      "url": "https://www.scientificamerican.com/article/why-nvidia-is-betting-on-silicon-photonics-to-scale-ai/",
+      "source": "Scientific American",
+      "domain": "scientificamerican.com",
+      "published_at": "2026-11-17T11:00:00Z",
+      "importance": 45,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
+    },
+    {
       "id": "e3ca7923571e15ee",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2549,44 +2587,6 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "389d7cf71391429c",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "Oil slips on supply surplus outlook despite Gulf tensions",
-      "summary": "Nov 17 : Oil prices fell on Tuesday as expectations of a supply surplus, fuelled by recovering Middle East exports, overshadowed concerns about continued attacks on tankers in the region. Brent crude futures were down 44 cents, or 0.5 per cent, at $92.00 a ba…",
-      "original_title": "Oil slips on supply surplus outlook despite Gulf tensions",
-      "url": "https://www.channelnewsasia.com/business/oil-slips-supply-surplus-outlook-despite-gulf-tensions-6557401",
-      "source": "CNA",
-      "domain": "channelnewsasia.com",
-      "published_at": "2026-11-17T01:37:15Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     }
   ]
 }

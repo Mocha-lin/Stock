@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-24T10:33:53.944537+00:00
+> 更新時間：2026-11-24T19:57:57.340736+00:00
 
 ### ⚖️ ASE, SPIL to overtake Amkor in 2027 as server CPUs shift beyond TSMC CoWoS
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -7,15 +7,6 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Global advanced packaging capacity remains in short supply, with TSMC's fully booked CoWoS lines prioritising AI accelerator customers. Server CPU packaging orders are consequently shifting towards outsourced semiconductor assembly and test (OSAT) providers, …
 - [原文連結](https://www.digitimes.com/news/a20261123PD215/packaging-spil-amkor-tsmc-ase.html)
-
----
-
-### ⚠️ CPO mass production faces hybrid bonding yield challenges, potentially delaying large-scale shipments until late 2027
-- **題材**: `光通訊與矽光子` | **重要性**: `83`
-- **來源**: Digitimes (2026-11-20T01:42:15Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Co-packaged optics (CPO) is emerging as an important optical interconnect technology for AI data centers, but the industry may still be some distance from achieving large-scale mass production.
-- [原文連結](https://www.digitimes.com/news/a20261120PD216/cpo-production-shipments-2027-optics.html)
 
 ---
 
@@ -91,15 +82,6 @@
 
 ---
 
-### ⚠️ Rapidus reportedly struggles to produce working SRAM on its 2nm node, putting 2027 mass production at risk
-- **題材**: `半導體先進製程` | **重要性**: `72`
-- **來源**: Tom's Hardware UK (2026-11-21T15:30:00Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Japan's semiconductor startup has demonstrated functioning GAA transistors, but integrating them into working memory cells appears to be a considerably greater challenge.
-- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/rapidus-reportedly-struggles-to-produce-working-sram-on-its-2nm-node-putting-2027-mass-production-at-risk-company-faces-significant-challenges-using-euv-to-develop-gaa-transistors)
-
----
-
 ### ⚖️ The AI infrastructure paradox: over-ordering and under-building
 - **題材**: `HBM記憶體` | **重要性**: `70`
 - **來源**: TechRadar (2026-11-22T08:00:00Z)
@@ -136,21 +118,30 @@
 
 ---
 
+### ⚠️ Rapidus reportedly struggles to produce working SRAM on its 2nm node, putting 2027 mass production at risk
+- **題材**: `半導體先進製程` | **重要性**: `67`
+- **來源**: Tom's Hardware UK (2026-11-21T15:30:00Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Japan's semiconductor startup has demonstrated functioning GAA transistors, but integrating them into working memory cells appears to be a considerably greater challenge.
+- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/rapidus-reportedly-struggles-to-produce-working-sram-on-its-2nm-node-putting-2027-mass-production-at-risk-company-faces-significant-challenges-using-euv-to-develop-gaa-transistors)
+
+---
+
+### 🚀 Wall Street stages a comeback after 7 straight days of losses
+- **題材**: `總體風險` | **重要性**: `65`
+- **來源**: Yahoo Entertainment (2026-11-23T11:00:34Z)
+- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Stock futures rebounded in premarket trading on Monday as buyers stepped back in for the holiday-shortened week after a bruising sell-off that left the S&P 500 and Dow in correction territory.Futures on the S&P 500 (ES=F) rose 2.6% following seven straight da…
+- [原文連結](https://finance.yahoo.com/markets/live/stock-market-today-monday-november-23-dow-sp-500-nasdaq-091118583.html)
+
+---
+
 ### ⚖️ The CFO at the center of Amazon’s AI spending blitz
 - **題材**: `總體風險` | **重要性**: `65`
 - **來源**: Business Insider (2026-11-23T10:00:01Z)
 - **AI 判讀**: 屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: AWS CFO John Felton is using lessons from Amazon's pandemic expansion to manage its massive AI infrastructure spending.
 - [原文連結](https://www.businessinsider.com/aws-cfo-john-felton-amazon-ai-spending-data-centers-2026-11)
-
----
-
-### ⚠️ Companies get billions in tariff refunds. Consumers are left with the bill.
-- **題材**: `總體風險` | **重要性**: `65`
-- **來源**: Al Jazeera English (2026-11-17T19:31:30Z)
-- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Companies get billions in tariff refunds. Consumers are left with the bill.
-- [原文連結](https://www.aljazeera.com/video/newsfeed/2026/11/17/companies-get-billions-in-tariff-refunds-consumers-are-left-with-the-bill)
 
 ---
 
@@ -163,21 +154,30 @@
 
 ---
 
-### ⚖️ Depth-robust super-resolution nanofabrication for 3D mesoscopic photonic structures
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: Nature.com (2026-11-23T00:00:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: An axially tuneable Bessel-beam STED approach maintains excitation–depletion alignment, enabling high-resolution fabrication of three-dimensional mesoscopic optical structures.
-- [原文連結](https://www.nature.com/articles/s41565-026-02335-6)
+### 🚀 Wall Street stages a comeback after 7 straight days of losses
+- **題材**: `總體風險` | **重要性**: `60`
+- **來源**: Yahoo Entertainment (2026-11-23T14:15:11Z)
+- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Stock futures rebounded in premarket trading on Monday as buyers stepped back in for the holiday-shortened week after a bruising sell-off, and Nvidia (NVDA) stock surged after the company’s board reinstated Jensen Huang as CEO.Futures on the S&P 500 (ES=F) ro…
+- [原文連結](https://finance.yahoo.com/markets/live/stock-market-today-monday-november-23-dow-sp-500-nasdaq-nvidia-reinstates-jensen-huang-141511975.html)
 
 ---
 
-### 🚀 Senate passes bipartisan energy bill amid environmental concerns
+### 🚀 Why these 6 stocks are winning from the AI rout
 - **題材**: `總體風險` | **重要性**: `60`
-- **來源**: NPR (2026-11-20T11:00:28Z)
+- **來源**: Business Insider (2026-11-23T12:32:34Z)
 - **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: As Americans struggle with rising energy costs and increased demand driven by AI, the Senate passed a bipartisan bill that will speed up the approval process for data centers and power plants.
-- [原文連結](https://www.npr.org/2026/11/20/g-s1-154579/senate-bipartisan-energy-bill)
+- **摘要**: Walmart, Berkshire Hathaway, and Clorox shares have rallied strongly as investors switch out high-flying AI stocks like Nvidia for defensive picks.
+- [原文連結](https://www.businessinsider.com/ai-tech-stocks-rout-walmart-berkshire-buffett-defensive-investing-consumer-2026-11)
+
+---
+
+### ⚖️ Apple Explores Using Light to Move Data Between Server Chips
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: MacRumors (2026-11-23T12:29:27Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Apple is hiring an engineering program manager to work on light-based data connections for its server chips, in what could be a sign of the company's broader ambitions in data-center infrastructure. The Silicon Photonics EPM listing was highlighted by Korea's…
+- [原文連結](https://www.macrumors.com/2026/11/23/apple-light-move-data-server-chips/)
 
 ---
 
