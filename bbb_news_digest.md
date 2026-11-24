@@ -1,5 +1,14 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-24T00:26:24.687583+00:00
+> 更新時間：2026-11-24T06:47:02.532650+00:00
+
+### ⚖️ ASE, SPIL to overtake Amkor in 2027 as server CPUs shift beyond TSMC CoWoS
+- **題材**: `半導體先進製程` | **重要性**: `83`
+- **來源**: Digitimes (2026-11-23T02:19:30Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Global advanced packaging capacity remains in short supply, with TSMC's fully booked CoWoS lines prioritising AI accelerator customers. Server CPU packaging orders are consequently shifting towards outsourced semiconductor assembly and test (OSAT) providers, …
+- [原文連結](https://www.digitimes.com/news/a20261123PD215/packaging-spil-amkor-tsmc-ase.html)
+
+---
 
 ### ⚠️ CPO mass production faces hybrid bonding yield challenges, potentially delaying large-scale shipments until late 2027
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -7,6 +16,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Co-packaged optics (CPO) is emerging as an important optical interconnect technology for AI data centers, but the industry may still be some distance from achieving large-scale mass production.
 - [原文連結](https://www.digitimes.com/news/a20261120PD216/cpo-production-shipments-2027-optics.html)
+
+---
+
+### ⚖️ Microsoft, Google turn to Intel EMIB as CSPs seek alternatives to TSMC CoWoS
+- **題材**: `半導體先進製程` | **重要性**: `78`
+- **來源**: Digitimes (2026-11-23T01:50:47Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Intel and Microsoft jointly announced on November 18, US time, that Microsoft will adopt Intel Foundry's embedded multi-die interconnect bridge (EMIB) advanced packaging technology for its custom Azure chips, becoming the first company to publicly confirm its…
+- [原文連結](https://www.digitimes.com/news/a20261123PD209/intel-microsoft-cowos-google-tsmc.html)
 
 ---
 
@@ -37,15 +55,6 @@
 
 ---
 
-### 🚀 SK Hynix's US revenue tops 60%, exposing Nvidia's growing weight in AI memory sales
-- **題材**: `HBM記憶體` | **重要性**: `78`
-- **來源**: Digitimes (2026-11-17T04:41:25Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: SK Hynix generated more than 60% of its revenue from the US in the first nine months of 2026, with sales to its presumed largest customer, Nvidia, doubling from a year earlier. Strong demand for high-bandwidth memory (HBM) and conventional memory chips has sh…
-- [原文連結](https://www.digitimes.com/news/a20261117VL211/sk-hynix-memory-nvidia-revenue-sales-2026.html)
-
----
-
 ### 🚀 Nvidia's revenue hits $115.8 billion as Vera Rubin generates $20 billion in another record-setting quarter
 - **題材**: `AI伺服器` | **重要性**: `77`
 - **來源**: Tom's Hardware UK (2026-11-18T13:00:00Z)
@@ -55,12 +64,30 @@
 
 ---
 
+### ⚖️ Apple enters silicon photonics race with optical packaging hires for custom chips
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-11-23T04:29:40Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Apple has stepped up recruitment for silicon photonics and optical packaging specialists, sparking speculation that the tech giant is accelerating plans to integrate the technology into its next-generation data center chips. As AI-driven data centers face mou…
+- [原文連結](https://www.digitimes.com/news/a20261123PD222/apple-photonics-silicon-packaging-chips.html)
+
+---
+
 ### ⚖️ CPO's next challenge in AI data centers: Manufacturing yield and testing hold key to mass production
 - **題材**: `光通訊與矽光子` | **重要性**: `73`
 - **來源**: Digitimes (2026-11-19T01:55:08Z)
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: As AI data centers demand greater network bandwidth and energy efficiency, co-packaged optics (CPO) technology is gradually moving beyond laboratory validation toward commercial deployment.
 - [原文連結](https://www.digitimes.com/news/a20261118PD248/cpo-data-production-testing-bandwidth.html)
+
+---
+
+### 🚀 SK Hynix's US revenue tops 60%, exposing Nvidia's growing weight in AI memory sales
+- **題材**: `HBM記憶體` | **重要性**: `73`
+- **來源**: Digitimes (2026-11-17T04:41:25Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: SK Hynix generated more than 60% of its revenue from the US in the first nine months of 2026, with sales to its presumed largest customer, Nvidia, doubling from a year earlier. Strong demand for high-bandwidth memory (HBM) and conventional memory chips has sh…
+- [原文連結](https://www.digitimes.com/news/a20261117VL211/sk-hynix-memory-nvidia-revenue-sales-2026.html)
 
 ---
 
@@ -109,17 +136,6 @@
 
 ---
 
-### 🚀 (PR) NVIDIA Expands Commitments With Supply Chain Partners to Support AI Infrastructure Buildout
-- **題材**: `半導體先進製程` | **重要性**: `65`
-- **來源**: Techpowerup.com (2026-11-18T13:59:10Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: NVIDIA today announced expanded commitments with supply chain partners to support sustainable long-term growth, aligning supply and manufacturing capacity with demand for its accelerated computing and AI infrastructure platforms.
-
-Working with Amkor Technolog…
-- [原文連結](https://www.techpowerup.com/354985/nvidia-expands-commitments-with-supply-chain-partners-to-support-ai-infrastructure-buildout)
-
----
-
 ### ⚠️ Companies get billions in tariff refunds. Consumers are left with the bill.
 - **題材**: `總體風險` | **重要性**: `65`
 - **來源**: Al Jazeera English (2026-11-17T19:31:30Z)
@@ -162,24 +178,6 @@ Working with Amkor Technolog…
 - **AI 判讀**: 屬「半導體先進製程」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Anthropic's hotly anticipated IPO failed to calm the AI selloff, with shares falling nearly 5% after hours as Asian tech stocks plunged.
 - [原文連結](https://www.businessinsider.com/anthropic-stock-price-ipo-kospi-index-ai-trade-volatility-selloff-2026-11)
-
----
-
-### ⚖️ Samsung reportedly making custom memory for Meta’s AI chips
-- **題材**: `HBM記憶體` | **重要性**: `60`
-- **來源**: SamMobile (2026-11-18T13:48:53Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Samsung has become invaluable to the AI supply chain as both a key supplier of memory chips as well as one of the very few foundry operators that can produce chips on advanced 2nm nodes. The company may now be involved in the development of custom high-bandwi…
-- [原文連結](https://www.sammobile.com/news/samsung-reportedly-making-custom-memory-for-metas-ai-chips/)
-
----
-
-### 🚀 Rupee defies dollar rally, climbs to 7-month high on falling oil prices
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Economictimes.com (2026-11-17T23:58:58Z)
-- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: The dollar index, climbing nearly 2% in a month to hit its highest level in 19 months, traded at a fresh peak of 103.70 on Tuesday, showed Dow Jones MarketWatch data. A reading above 100 indicates the dollar's relative firmness against a basket of most freque…
-- [原文連結](https://m.economictimes.com/markets/forex/forex-news/rupee-defies-dollar-rally-climbs-to-7-month-high-on-falling-oil-prices/articleshow/135943804.cms)
 
 ---
 
