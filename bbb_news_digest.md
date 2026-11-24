@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-23T20:54:04.228167+00:00
+> 更新時間：2026-11-24T00:26:24.687583+00:00
 
 ### ⚠️ CPO mass production faces hybrid bonding yield challenges, potentially delaying large-scale shipments until late 2027
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -37,6 +37,15 @@
 
 ---
 
+### 🚀 SK Hynix's US revenue tops 60%, exposing Nvidia's growing weight in AI memory sales
+- **題材**: `HBM記憶體` | **重要性**: `78`
+- **來源**: Digitimes (2026-11-17T04:41:25Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: SK Hynix generated more than 60% of its revenue from the US in the first nine months of 2026, with sales to its presumed largest customer, Nvidia, doubling from a year earlier. Strong demand for high-bandwidth memory (HBM) and conventional memory chips has sh…
+- [原文連結](https://www.digitimes.com/news/a20261117VL211/sk-hynix-memory-nvidia-revenue-sales-2026.html)
+
+---
+
 ### 🚀 Nvidia's revenue hits $115.8 billion as Vera Rubin generates $20 billion in another record-setting quarter
 - **題材**: `AI伺服器` | **重要性**: `77`
 - **來源**: Tom's Hardware UK (2026-11-18T13:00:00Z)
@@ -70,6 +79,15 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: What memory fabs and speculative data center queues reveal about the durability of AI demand.
 - [原文連結](https://www.techradar.com/pro/the-ai-infrastructure-paradox-over-ordering-and-under-building)
+
+---
+
+### ⚖️ Micron moves first equipment into Singapore high-bandwidth memory plant, eyes 2027 production start
+- **題材**: `HBM記憶體` | **重要性**: `68`
+- **來源**: Digitimes (2026-11-20T01:41:35Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Micron Technology has moved the first piece of equipment into its high-bandwidth memory (HBM) advanced packaging facility in Singapore, marking an important step toward initial production scheduled to begin in early 2027. The new facility had previously compl…
+- [原文連結](https://www.digitimes.com/news/a20261120PD200/micron-equipment-production-hbm-2027.html)
 
 ---
 
@@ -120,6 +138,15 @@ Working with Amkor Technolog…
 
 ---
 
+### ⚖️ Depth-robust super-resolution nanofabrication for 3D mesoscopic photonic structures
+- **題材**: `光通訊與矽光子` | **重要性**: `60`
+- **來源**: Nature.com (2026-11-23T00:00:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: An axially tuneable Bessel-beam STED approach maintains excitation–depletion alignment, enabling high-resolution fabrication of three-dimensional mesoscopic optical structures.
+- [原文連結](https://www.nature.com/articles/s41565-026-02335-6)
+
+---
+
 ### 🚀 Senate passes bipartisan energy bill amid environmental concerns
 - **題材**: `總體風險` | **重要性**: `60`
 - **來源**: NPR (2026-11-20T11:00:28Z)
@@ -153,15 +180,6 @@ Working with Amkor Technolog…
 - **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: The dollar index, climbing nearly 2% in a month to hit its highest level in 19 months, traded at a fresh peak of 103.70 on Tuesday, showed Dow Jones MarketWatch data. A reading above 100 indicates the dollar's relative firmness against a basket of most freque…
 - [原文連結](https://m.economictimes.com/markets/forex/forex-news/rupee-defies-dollar-rally-climbs-to-7-month-high-on-falling-oil-prices/articleshow/135943804.cms)
-
----
-
-### ⚠️ Nvidia’s Earnings Call Is the AI Economy’s Next Stress Test
-- **題材**: `AI伺服器` | **重要性**: `60`
-- **來源**: CNET (2026-11-17T22:03:34Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Jensen Huang’s departure was only a symptom of a bigger problem.
-- [原文連結](https://www.cnet.com/tech/services-and-software/nvidia-earnings-call-ai-economy-stress-test/)
 
 ---
 
