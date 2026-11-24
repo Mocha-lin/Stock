@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-24T19:57:57.340736+00:00
+> 更新時間：2026-11-24T22:48:49.184367+00:00
 
 ### ⚖️ ASE, SPIL to overtake Amkor in 2027 as server CPUs shift beyond TSMC CoWoS
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -91,6 +91,15 @@
 
 ---
 
+### ⚠️ Trump engineered a risky comeback for Jensen Huang
+- **題材**: `AI伺服器` | **重要性**: `68`
+- **來源**: The Verge (2026-11-23T22:34:20Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on Stephen A. Smith's radio show shortly aft…
+- [原文連結](https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated)
+
+---
+
 ### ⚖️ Micron moves first equipment into Singapore high-bandwidth memory plant, eyes 2027 production start
 - **題材**: `HBM記憶體` | **重要性**: `68`
 - **來源**: Digitimes (2026-11-20T01:41:35Z)
@@ -106,15 +115,6 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Google is looking to buy high-bandwidth memory (HBM) directly for AI chips developed with MediaTek, potentially cutting billions of dollars in procurement costs and changing how Samsung Electronics, SK Hynix and Micron Technology negotiate with major customer…
 - [原文連結](https://www.digitimes.com/news/a20261119VL217/google-hbm-broadcom-mediatek-2027.html)
-
----
-
-### ⚖️ Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing
-- **題材**: `AI伺服器` | **重要性**: `68`
-- **來源**: The Verge (2026-11-17T21:52:53Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang or the details of his departure, or possible attempt at a return. That will likely change once analysts are on the line for i…
-- [原文連結](https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang)
 
 ---
 
@@ -154,6 +154,15 @@
 
 ---
 
+### ⚖️ Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing
+- **題材**: `AI伺服器` | **重要性**: `63`
+- **來源**: The Verge (2026-11-17T21:52:53Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang or the details of his departure, or possible attempt at a return. That will likely change once analysts are on the line for i…
+- [原文連結](https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang)
+
+---
+
 ### 🚀 Wall Street stages a comeback after 7 straight days of losses
 - **題材**: `總體風險` | **重要性**: `60`
 - **來源**: Yahoo Entertainment (2026-11-23T14:15:11Z)
@@ -169,15 +178,6 @@
 - **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Walmart, Berkshire Hathaway, and Clorox shares have rallied strongly as investors switch out high-flying AI stocks like Nvidia for defensive picks.
 - [原文連結](https://www.businessinsider.com/ai-tech-stocks-rout-walmart-berkshire-buffett-defensive-investing-consumer-2026-11)
-
----
-
-### ⚖️ Apple Explores Using Light to Move Data Between Server Chips
-- **題材**: `光通訊與矽光子` | **重要性**: `60`
-- **來源**: MacRumors (2026-11-23T12:29:27Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Apple is hiring an engineering program manager to work on light-based data connections for its server chips, in what could be a sign of the company's broader ambitions in data-center infrastructure. The Silicon Photonics EPM listing was highlighted by Korea's…
-- [原文連結](https://www.macrumors.com/2026/11/23/apple-light-move-data-server-chips/)
 
 ---
 
