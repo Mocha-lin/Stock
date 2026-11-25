@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-25T05:15:16.969847+00:00
+> 更新時間：2026-11-25T09:23:51.177130+00:00
 
 ### ⚖️ ASE, SPIL to overtake Amkor in 2027 as server CPUs shift beyond TSMC CoWoS
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -37,30 +37,21 @@
 
 ---
 
-### 🚀 Taiwan Mask expands 14-inch capacity to capture CoWoS and photonics growth
-- **題材**: `光通訊與矽光子` | **重要性**: `78`
-- **來源**: Digitimes (2026-11-18T08:45:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Taiwan Mask, a subsidiary of Star Fusion Group, is overhauling its product mix and expanding overseas to capture surging demand across advanced packaging, silicon photonics, and advanced-node photomasks. The company is targeting nearly 20% year-over-year reve…
-- [原文連結](https://www.digitimes.com/news/a20261118PD253/taiwan-mask-growth-photonics-14-inch-capacity.html)
-
----
-
-### ⚖️ Nvidia, SPIL sign multibillion-dollar deal to triple advanced packaging capacity by 2029
-- **題材**: `半導體先進製程` | **重要性**: `78`
-- **來源**: Digitimes (2026-11-18T05:34:49Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Siliconware Precision Industries (SPIL), a subsidiary of ASE Technology Holding, has announced a multibillion-dollar, multi-year agreement with Nvidia to significantly expand its chip-on-wafer-on-substrate (CoWoS) advanced packaging capacity in Taiwan, aiming…
-- [原文連結](https://www.digitimes.com/news/a20261118PD239/nvidia-spil-packaging-capacity.html)
-
----
-
 ### 🚀 Nvidia's revenue hits $115.8 billion as Vera Rubin generates $20 billion in another record-setting quarter
 - **題材**: `AI伺服器` | **重要性**: `77`
 - **來源**: Tom's Hardware UK (2026-11-18T13:00:00Z)
 - **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Nvidia's quarterly revenue surged to $115.8 billion as Vera Rubin achieved a record $20 billion debut, while total commitments to suppliers and customers climbed to $540 billion and rising costs prompted a revised pricing strategy for FY2028.
 - [原文連結](https://www.tomshardware.com/pc-components/gpus/nvidias-revenue-hits-usd115-8-billion-as-vera-rubin-generates-usd20-billion-in-another-record-setting-quarter-commitments-increase-to-usd390-billion-fy28-forecast-raised)
+
+---
+
+### 🚀 Analysis: Samsung, SK Hynix look beyond Nvidia as Huang returns
+- **題材**: `HBM記憶體` | **重要性**: `73`
+- **來源**: Digitimes (2026-11-24T06:27:18Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Jensen Huang's return as Nvidia CEO has eased concerns among South Korean memory chipmakers over high-bandwidth memory (HBM) supply agreements and next-generation chip development, but growing demand for AI processors from Google, Amazon, and other technology…
+- [原文連結](https://www.digitimes.com/news/a20261124VL217/nvidia-samsung-jensen-huang-sk-hynix-ceo.html)
 
 ---
 
@@ -82,21 +73,30 @@
 
 ---
 
+### 🚀 Taiwan Mask expands 14-inch capacity to capture CoWoS and photonics growth
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-11-18T08:45:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Taiwan Mask, a subsidiary of Star Fusion Group, is overhauling its product mix and expanding overseas to capture surging demand across advanced packaging, silicon photonics, and advanced-node photomasks. The company is targeting nearly 20% year-over-year reve…
+- [原文連結](https://www.digitimes.com/news/a20261118PD253/taiwan-mask-growth-photonics-14-inch-capacity.html)
+
+---
+
+### ⚖️ Nvidia, SPIL sign multibillion-dollar deal to triple advanced packaging capacity by 2029
+- **題材**: `半導體先進製程` | **重要性**: `73`
+- **來源**: Digitimes (2026-11-18T05:34:49Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Siliconware Precision Industries (SPIL), a subsidiary of ASE Technology Holding, has announced a multibillion-dollar, multi-year agreement with Nvidia to significantly expand its chip-on-wafer-on-substrate (CoWoS) advanced packaging capacity in Taiwan, aiming…
+- [原文連結](https://www.digitimes.com/news/a20261118PD239/nvidia-spil-packaging-capacity.html)
+
+---
+
 ### ⚠️ AI server makers hike prices up to 45% months after contracts are signed as RAM shortage triples memory-heavy CPU node costs
 - **題材**: `AI伺服器` | **重要性**: `72`
 - **來源**: Tom's Hardware UK (2026-11-23T12:30:00Z)
 - **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: AI server OEMs are hiking prices post-contract up to 45% — financial firms building datacenters still pay up as "the compute is valuable"
 - [原文連結](https://www.tomshardware.com/tech-industry/big-tech/ai-server-makers-hike-prices-up-to-45-percent-months-after-contracts-are-signed-as-ram-shortage-triples-memory-heavy-cpu-node-costs-financial-firms-still-pay-up-as-the-compute-is-valuable)
-
----
-
-### ⚖️ The AI infrastructure paradox: over-ordering and under-building
-- **題材**: `HBM記憶體` | **重要性**: `70`
-- **來源**: TechRadar (2026-11-22T08:00:00Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: What memory fabs and speculative data center queues reveal about the durability of AI demand.
-- [原文連結](https://www.techradar.com/pro/the-ai-infrastructure-paradox-over-ordering-and-under-building)
 
 ---
 
@@ -115,15 +115,6 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: This week's coverage highlighted intensifying investment, supply constraints, and geopolitical pressures across the semiconductor industry. TSMC will comply with expanded US export controls affecting Chinese-designed advanced logic chips, while Taiwan supplie…
 - [原文連結](https://www.digitimes.com/news/a20261123VL200/weekly-news-roundup-tsmc-sk-hynix-chips-equipment-investment.html)
-
----
-
-### ⚖️ Samsung taps HBM executive to lead memory business
-- **題材**: `HBM記憶體` | **重要性**: `68`
-- **來源**: Digitimes (2026-11-20T02:51:13Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Samsung Electronics promoted the executive responsible for its high-bandwidth memory (HBM) development to lead its memory business on Friday, as it reshuffled its semiconductor leadership and allowed its two co-CEOs to focus more on foundry and robotics.
-- [原文連結](https://www.digitimes.com/news/a20261120VL202/samsung-business-hbm-development-dram.html)
 
 ---
 
@@ -178,6 +169,15 @@
 - **AI 判讀**: 屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: AWS CFO John Felton is using lessons from Amazon's pandemic expansion to manage its massive AI infrastructure spending.
 - [原文連結](https://www.businessinsider.com/aws-cfo-john-felton-amazon-ai-spending-data-centers-2026-11)
+
+---
+
+### ⚖️ The AI infrastructure paradox: over-ordering and under-building
+- **題材**: `HBM記憶體` | **重要性**: `65`
+- **來源**: TechRadar (2026-11-22T08:00:00Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: What memory fabs and speculative data center queues reveal about the durability of AI demand.
+- [原文連結](https://www.techradar.com/pro/the-ai-infrastructure-paradox-over-ordering-and-under-building)
 
 ---
 
