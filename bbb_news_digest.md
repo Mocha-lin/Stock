@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-24T22:48:49.184367+00:00
+> 更新時間：2026-11-25T05:15:16.969847+00:00
 
 ### ⚖️ ASE, SPIL to overtake Amkor in 2027 as server CPUs shift beyond TSMC CoWoS
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -7,6 +7,15 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Global advanced packaging capacity remains in short supply, with TSMC's fully booked CoWoS lines prioritising AI accelerator customers. Server CPU packaging orders are consequently shifting towards outsourced semiconductor assembly and test (OSAT) providers, …
 - [原文連結](https://www.digitimes.com/news/a20261123PD215/packaging-spil-amkor-tsmc-ase.html)
+
+---
+
+### ⚖️ Micron steps up HBM investment in Taiwan, Singapore
+- **題材**: `HBM記憶體` | **重要性**: `78`
+- **來源**: Digitimes (2026-11-24T04:22:45Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Micron Technology is stepping up investment in high-bandwidth memory (HBM) production in Taiwan and Singapore as it seeks to narrow the capacity gap with South Korean rivals Samsung Electronics and SK Hynix.
+- [原文連結](https://www.digitimes.com/news/a20261124VL216/micron-hbm-investment-taiwan-production.html)
 
 ---
 
@@ -73,12 +82,12 @@
 
 ---
 
-### 🚀 SK Hynix's US revenue tops 60%, exposing Nvidia's growing weight in AI memory sales
-- **題材**: `HBM記憶體` | **重要性**: `73`
-- **來源**: Digitimes (2026-11-17T04:41:25Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: SK Hynix generated more than 60% of its revenue from the US in the first nine months of 2026, with sales to its presumed largest customer, Nvidia, doubling from a year earlier. Strong demand for high-bandwidth memory (HBM) and conventional memory chips has sh…
-- [原文連結](https://www.digitimes.com/news/a20261117VL211/sk-hynix-memory-nvidia-revenue-sales-2026.html)
+### ⚠️ AI server makers hike prices up to 45% months after contracts are signed as RAM shortage triples memory-heavy CPU node costs
+- **題材**: `AI伺服器` | **重要性**: `72`
+- **來源**: Tom's Hardware UK (2026-11-23T12:30:00Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: AI server OEMs are hiking prices post-contract up to 45% — financial firms building datacenters still pay up as "the compute is valuable"
+- [原文連結](https://www.tomshardware.com/tech-industry/big-tech/ai-server-makers-hike-prices-up-to-45-percent-months-after-contracts-are-signed-as-ram-shortage-triples-memory-heavy-cpu-node-costs-financial-firms-still-pay-up-as-the-compute-is-valuable)
 
 ---
 
@@ -100,6 +109,24 @@
 
 ---
 
+### ⚖️ Weekly news roundup: TSMC to comply with new US rules; Musk approaches Korean firms for equipment
+- **題材**: `HBM記憶體` | **重要性**: `68`
+- **來源**: Digitimes (2026-11-23T02:17:01Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: This week's coverage highlighted intensifying investment, supply constraints, and geopolitical pressures across the semiconductor industry. TSMC will comply with expanded US export controls affecting Chinese-designed advanced logic chips, while Taiwan supplie…
+- [原文連結](https://www.digitimes.com/news/a20261123VL200/weekly-news-roundup-tsmc-sk-hynix-chips-equipment-investment.html)
+
+---
+
+### ⚖️ Samsung taps HBM executive to lead memory business
+- **題材**: `HBM記憶體` | **重要性**: `68`
+- **來源**: Digitimes (2026-11-20T02:51:13Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Samsung Electronics promoted the executive responsible for its high-bandwidth memory (HBM) development to lead its memory business on Friday, as it reshuffled its semiconductor leadership and allowed its two co-CEOs to focus more on foundry and robotics.
+- [原文連結](https://www.digitimes.com/news/a20261120VL202/samsung-business-hbm-development-dram.html)
+
+---
+
 ### ⚖️ Micron moves first equipment into Singapore high-bandwidth memory plant, eyes 2027 production start
 - **題材**: `HBM記憶體` | **重要性**: `68`
 - **來源**: Digitimes (2026-11-20T01:41:35Z)
@@ -115,6 +142,15 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: Google is looking to buy high-bandwidth memory (HBM) directly for AI chips developed with MediaTek, potentially cutting billions of dollars in procurement costs and changing how Samsung Electronics, SK Hynix and Micron Technology negotiate with major customer…
 - [原文連結](https://www.digitimes.com/news/a20261119VL217/google-hbm-broadcom-mediatek-2027.html)
+
+---
+
+### ⚖️ TSMC reportedly pauses shipments to Chinese designers after U.S. export rules flag decade-old 16nm and 14nm nodes
+- **題材**: `AI伺服器` | **重要性**: `67`
+- **來源**: Tom's Hardware UK (2026-11-22T13:30:00Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: The BIS's IFR says that chip fabs can no longer assume a design's performance based on the specifications provided by their customer.
+- [原文連結](https://www.tomshardware.com/tech-industry/policy/tsmc-reportedly-pauses-shipments-to-chinese-designers-after-u-s-export-rules-flag-decade-old-16nm-and-14nm-nodes-new-bis-controls-threaten-smartphone-tv-and-automotive-chips)
 
 ---
 
@@ -142,42 +178,6 @@
 - **AI 判讀**: 屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: AWS CFO John Felton is using lessons from Amazon's pandemic expansion to manage its massive AI infrastructure spending.
 - [原文連結](https://www.businessinsider.com/aws-cfo-john-felton-amazon-ai-spending-data-centers-2026-11)
-
----
-
-### ⚖️ SK Hynix reportedly plans to buy HBM bonding tools from Besi
-- **題材**: `HBM記憶體` | **重要性**: `63`
-- **來源**: Digitimes (2026-11-20T04:29:24Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: SK Hynix plans to buy its initial batch of hybrid bonding equipment for next-generation high-bandwidth memory (HBM) from Dutch chip equipment maker BE Semiconductor Industries (Besi), potentially giving the company an edge over South Korean rivals competing f…
-- [原文連結](https://www.digitimes.com/news/a20261120VL212/sk-hynix-hbm-equipment-dutch-production.html)
-
----
-
-### ⚖️ Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing
-- **題材**: `AI伺服器` | **重要性**: `63`
-- **來源**: The Verge (2026-11-17T21:52:53Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang or the details of his departure, or possible attempt at a return. That will likely change once analysts are on the line for i…
-- [原文連結](https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang)
-
----
-
-### 🚀 Wall Street stages a comeback after 7 straight days of losses
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Yahoo Entertainment (2026-11-23T14:15:11Z)
-- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Stock futures rebounded in premarket trading on Monday as buyers stepped back in for the holiday-shortened week after a bruising sell-off, and Nvidia (NVDA) stock surged after the company’s board reinstated Jensen Huang as CEO.Futures on the S&P 500 (ES=F) ro…
-- [原文連結](https://finance.yahoo.com/markets/live/stock-market-today-monday-november-23-dow-sp-500-nasdaq-nvidia-reinstates-jensen-huang-141511975.html)
-
----
-
-### 🚀 Why these 6 stocks are winning from the AI rout
-- **題材**: `總體風險` | **重要性**: `60`
-- **來源**: Business Insider (2026-11-23T12:32:34Z)
-- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Walmart, Berkshire Hathaway, and Clorox shares have rallied strongly as investors switch out high-flying AI stocks like Nvidia for defensive picks.
-- [原文連結](https://www.businessinsider.com/ai-tech-stocks-rout-walmart-berkshire-buffett-defensive-investing-consumer-2026-11)
 
 ---
 
