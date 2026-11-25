@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-25T09:23:51.177130+00:00
+> 更新時間：2026-11-25T18:59:05.240855+00:00
 
 ### ⚖️ ASE, SPIL to overtake Amkor in 2027 as server CPUs shift beyond TSMC CoWoS
 - **題材**: `半導體先進製程` | **重要性**: `83`
@@ -34,15 +34,6 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: AI chips are driving foundries and OSAT providers to expand capacity for advanced packaging technologies such as CoWoS, creating a new wave of localization opportunities for critical materials suppliers. Suregiant Technology's release films have entered mass …
 - [原文連結](https://www.digitimes.com/news/a20261119PD201/packaging-chips-growth-supply-chain-capacity.html)
-
----
-
-### 🚀 Nvidia's revenue hits $115.8 billion as Vera Rubin generates $20 billion in another record-setting quarter
-- **題材**: `AI伺服器` | **重要性**: `77`
-- **來源**: Tom's Hardware UK (2026-11-18T13:00:00Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Nvidia's quarterly revenue surged to $115.8 billion as Vera Rubin achieved a record $20 billion debut, while total commitments to suppliers and customers climbed to $540 billion and rising costs prompted a revised pricing strategy for FY2028.
-- [原文連結](https://www.tomshardware.com/pc-components/gpus/nvidias-revenue-hits-usd115-8-billion-as-vera-rubin-generates-usd20-billion-in-another-record-setting-quarter-commitments-increase-to-usd390-billion-fy28-forecast-raised)
 
 ---
 
@@ -100,6 +91,15 @@
 
 ---
 
+### 🚀 Nvidia's revenue hits $115.8 billion as Vera Rubin generates $20 billion in another record-setting quarter
+- **題材**: `AI伺服器` | **重要性**: `72`
+- **來源**: Tom's Hardware UK (2026-11-18T13:00:00Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Nvidia's quarterly revenue surged to $115.8 billion as Vera Rubin achieved a record $20 billion debut, while total commitments to suppliers and customers climbed to $540 billion and rising costs prompted a revised pricing strategy for FY2028.
+- [原文連結](https://www.tomshardware.com/pc-components/gpus/nvidias-revenue-hits-usd115-8-billion-as-vera-rubin-generates-usd20-billion-in-another-record-setting-quarter-commitments-increase-to-usd390-billion-fy28-forecast-raised)
+
+---
+
 ### ⚠️ Trump engineered a risky comeback for Jensen Huang
 - **題材**: `AI伺服器` | **重要性**: `68`
 - **來源**: The Verge (2026-11-23T22:34:20Z)
@@ -136,15 +136,6 @@
 
 ---
 
-### ⚖️ TSMC reportedly pauses shipments to Chinese designers after U.S. export rules flag decade-old 16nm and 14nm nodes
-- **題材**: `AI伺服器` | **重要性**: `67`
-- **來源**: Tom's Hardware UK (2026-11-22T13:30:00Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: The BIS's IFR says that chip fabs can no longer assume a design's performance based on the specifications provided by their customer.
-- [原文連結](https://www.tomshardware.com/tech-industry/policy/tsmc-reportedly-pauses-shipments-to-chinese-designers-after-u-s-export-rules-flag-decade-old-16nm-and-14nm-nodes-new-bis-controls-threaten-smartphone-tv-and-automotive-chips)
-
----
-
 ### ⚠️ Rapidus reportedly struggles to produce working SRAM on its 2nm node, putting 2027 mass production at risk
 - **題材**: `半導體先進製程` | **重要性**: `67`
 - **來源**: Tom's Hardware UK (2026-11-21T15:30:00Z)
@@ -178,6 +169,15 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: What memory fabs and speculative data center queues reveal about the durability of AI demand.
 - [原文連結](https://www.techradar.com/pro/the-ai-infrastructure-paradox-over-ordering-and-under-building)
+
+---
+
+### ⚖️ SK Hynix reportedly plans to buy HBM bonding tools from Besi
+- **題材**: `HBM記憶體` | **重要性**: `63`
+- **來源**: Digitimes (2026-11-20T04:29:24Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: SK Hynix plans to buy its initial batch of hybrid bonding equipment for next-generation high-bandwidth memory (HBM) from Dutch chip equipment maker BE Semiconductor Industries (Besi), potentially giving the company an edge over South Korean rivals competing f…
+- [原文連結](https://www.digitimes.com/news/a20261120VL212/sk-hynix-hbm-equipment-dutch-production.html)
 
 ---
 
