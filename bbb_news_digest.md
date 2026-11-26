@@ -1,14 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-26T04:43:00.006825+00:00
-
-### ⚠️ CPO mass production faces hybrid bonding yield challenges, potentially delaying large-scale shipments until late 2027
-- **題材**: `光通訊與矽光子` | **重要性**: `83`
-- **來源**: Digitimes (2026-11-20T01:42:15Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Co-packaged optics (CPO) is emerging as an important optical interconnect technology for AI data centers, but the industry may still be some distance from achieving large-scale mass production.
-- [原文連結](https://www.digitimes.com/news/a20261120PD216/cpo-production-shipments-2027-optics.html)
-
----
+> 更新時間：2026-11-26T09:01:26.225681+00:00
 
 ### ⚖️ Micron steps up HBM investment in Taiwan, Singapore
 - **題材**: `HBM記憶體` | **重要性**: `78`
@@ -79,6 +70,15 @@
 - **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: AI server OEMs are hiking prices post-contract up to 45% — financial firms building datacenters still pay up as "the compute is valuable"
 - [原文連結](https://www.tomshardware.com/tech-industry/big-tech/ai-server-makers-hike-prices-up-to-45-percent-months-after-contracts-are-signed-as-ram-shortage-triples-memory-heavy-cpu-node-costs-financial-firms-still-pay-up-as-the-compute-is-valuable)
+
+---
+
+### ⚖️ Wacker eyes CPO market with PFAS-free silicone materials
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-11-25T08:20:00Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: German chemical maker Wacker Chemie is developing silicone-based optical materials free of per- and polyfluoroalkyl substances (PFAS) for co-packaged optics (CPO) under a South Korean government-backed research project, moving ahead with development before ma…
+- [原文連結](https://www.digitimes.com/news/a20261125PD212/materials-cpo-development-packaging.html)
 
 ---
 
