@@ -1,12 +1,12 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-25T22:01:03.022149+00:00
+> 更新時間：2026-11-26T04:43:00.006825+00:00
 
-### ⚖️ ASE, SPIL to overtake Amkor in 2027 as server CPUs shift beyond TSMC CoWoS
-- **題材**: `半導體先進製程` | **重要性**: `83`
-- **來源**: Digitimes (2026-11-23T02:19:30Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Global advanced packaging capacity remains in short supply, with TSMC's fully booked CoWoS lines prioritising AI accelerator customers. Server CPU packaging orders are consequently shifting towards outsourced semiconductor assembly and test (OSAT) providers, …
-- [原文連結](https://www.digitimes.com/news/a20261123PD215/packaging-spil-amkor-tsmc-ase.html)
+### ⚠️ CPO mass production faces hybrid bonding yield challenges, potentially delaying large-scale shipments until late 2027
+- **題材**: `光通訊與矽光子` | **重要性**: `83`
+- **來源**: Digitimes (2026-11-20T01:42:15Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Co-packaged optics (CPO) is emerging as an important optical interconnect technology for AI data centers, but the industry may still be some distance from achieving large-scale mass production.
+- [原文連結](https://www.digitimes.com/news/a20261120PD216/cpo-production-shipments-2027-optics.html)
 
 ---
 
@@ -19,12 +19,12 @@
 
 ---
 
-### ⚖️ Microsoft, Google turn to Intel EMIB as CSPs seek alternatives to TSMC CoWoS
+### ⚖️ ASE, SPIL to overtake Amkor in 2027 as server CPUs shift beyond TSMC CoWoS
 - **題材**: `半導體先進製程` | **重要性**: `78`
-- **來源**: Digitimes (2026-11-23T01:50:47Z)
+- **來源**: Digitimes (2026-11-23T02:19:30Z)
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Intel and Microsoft jointly announced on November 18, US time, that Microsoft will adopt Intel Foundry's embedded multi-die interconnect bridge (EMIB) advanced packaging technology for its custom Azure chips, becoming the first company to publicly confirm its…
-- [原文連結](https://www.digitimes.com/news/a20261123PD209/intel-microsoft-cowos-google-tsmc.html)
+- **摘要**: Global advanced packaging capacity remains in short supply, with TSMC's fully booked CoWoS lines prioritising AI accelerator customers. Server CPU packaging orders are consequently shifting towards outsourced semiconductor assembly and test (OSAT) providers, …
+- [原文連結](https://www.digitimes.com/news/a20261123PD215/packaging-spil-amkor-tsmc-ase.html)
 
 ---
 
@@ -37,6 +37,15 @@
 
 ---
 
+### ⚖️ TSMC eyes US$22.6 billion Texas campus for 2nm chips
+- **題材**: `半導體先進製程` | **重要性**: `73`
+- **來源**: Digitimes (2026-11-24T09:31:50Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: TSMC is considering a US$22.6 billion semiconductor manufacturing campus in Texas, including about US$14 billion in machinery and equipment investment, as the chipmaker weighs Texas against Arizona for its next major US expansion.
+- [原文連結](https://www.digitimes.com/news/a20261124VL226/tsmc-texas-arizona-investment-manufacturing.html)
+
+---
+
 ### 🚀 Analysis: Samsung, SK Hynix look beyond Nvidia as Huang returns
 - **題材**: `HBM記憶體` | **重要性**: `73`
 - **來源**: Digitimes (2026-11-24T06:27:18Z)
@@ -46,39 +55,21 @@
 
 ---
 
-### ⚖️ Apple enters silicon photonics race with optical packaging hires for custom chips
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-11-23T04:29:40Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Apple has stepped up recruitment for silicon photonics and optical packaging specialists, sparking speculation that the tech giant is accelerating plans to integrate the technology into its next-generation data center chips. As AI-driven data centers face mou…
-- [原文連結](https://www.digitimes.com/news/a20261123PD222/apple-photonics-silicon-packaging-chips.html)
-
----
-
-### ⚖️ CPO's next challenge in AI data centers: Manufacturing yield and testing hold key to mass production
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-11-19T01:55:08Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: As AI data centers demand greater network bandwidth and energy efficiency, co-packaged optics (CPO) technology is gradually moving beyond laboratory validation toward commercial deployment.
-- [原文連結](https://www.digitimes.com/news/a20261118PD248/cpo-data-production-testing-bandwidth.html)
-
----
-
-### 🚀 Taiwan Mask expands 14-inch capacity to capture CoWoS and photonics growth
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-11-18T08:45:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Taiwan Mask, a subsidiary of Star Fusion Group, is overhauling its product mix and expanding overseas to capture surging demand across advanced packaging, silicon photonics, and advanced-node photomasks. The company is targeting nearly 20% year-over-year reve…
-- [原文連結](https://www.digitimes.com/news/a20261118PD253/taiwan-mask-growth-photonics-14-inch-capacity.html)
-
----
-
-### ⚖️ Nvidia, SPIL sign multibillion-dollar deal to triple advanced packaging capacity by 2029
+### ⚖️ Microsoft, Google turn to Intel EMIB as CSPs seek alternatives to TSMC CoWoS
 - **題材**: `半導體先進製程` | **重要性**: `73`
-- **來源**: Digitimes (2026-11-18T05:34:49Z)
+- **來源**: Digitimes (2026-11-23T01:50:47Z)
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Siliconware Precision Industries (SPIL), a subsidiary of ASE Technology Holding, has announced a multibillion-dollar, multi-year agreement with Nvidia to significantly expand its chip-on-wafer-on-substrate (CoWoS) advanced packaging capacity in Taiwan, aiming…
-- [原文連結](https://www.digitimes.com/news/a20261118PD239/nvidia-spil-packaging-capacity.html)
+- **摘要**: Intel and Microsoft jointly announced on November 18, US time, that Microsoft will adopt Intel Foundry's embedded multi-die interconnect bridge (EMIB) advanced packaging technology for its custom Azure chips, becoming the first company to publicly confirm its…
+- [原文連結](https://www.digitimes.com/news/a20261123PD209/intel-microsoft-cowos-google-tsmc.html)
+
+---
+
+### ⚖️ Microsoft’s chip packaging deal hands Intel credibility more than revenue
+- **題材**: `半導體先進製程` | **重要性**: `73`
+- **來源**: Digitimes (2026-11-19T00:53:54Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Microsoft has become the first company to publicly commit to Intel Foundry's EMIB advanced packaging for its own Azure chips. This deal matters less for the revenue it brings Intel today than for what it signals: advanced packaging, a step long dominated by T…
+- [原文連結](https://www.digitimes.com/news/a20261119VL209/microsoft-intel-azure-packaging-intel-foundry.html)
 
 ---
 
@@ -91,15 +82,6 @@
 
 ---
 
-### 🚀 Nvidia's revenue hits $115.8 billion as Vera Rubin generates $20 billion in another record-setting quarter
-- **題材**: `AI伺服器` | **重要性**: `72`
-- **來源**: Tom's Hardware UK (2026-11-18T13:00:00Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Nvidia's quarterly revenue surged to $115.8 billion as Vera Rubin achieved a record $20 billion debut, while total commitments to suppliers and customers climbed to $540 billion and rising costs prompted a revised pricing strategy for FY2028.
-- [原文連結](https://www.tomshardware.com/pc-components/gpus/nvidias-revenue-hits-usd115-8-billion-as-vera-rubin-generates-usd20-billion-in-another-record-setting-quarter-commitments-increase-to-usd390-billion-fy28-forecast-raised)
-
----
-
 ### ⚠️ Trump engineered a risky comeback for Jensen Huang
 - **題材**: `AI伺服器` | **重要性**: `68`
 - **來源**: The Verge (2026-11-23T22:34:20Z)
@@ -109,12 +91,21 @@
 
 ---
 
-### ⚖️ Weekly news roundup: TSMC to comply with new US rules; Musk approaches Korean firms for equipment
+### ⚖️ Apple enters silicon photonics race with optical packaging hires for custom chips
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-11-23T04:29:40Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Apple has stepped up recruitment for silicon photonics and optical packaging specialists, sparking speculation that the tech giant is accelerating plans to integrate the technology into its next-generation data center chips. As AI-driven data centers face mou…
+- [原文連結](https://www.digitimes.com/news/a20261123PD222/apple-photonics-silicon-packaging-chips.html)
+
+---
+
+### ⚖️ Samsung taps HBM executive to lead memory business
 - **題材**: `HBM記憶體` | **重要性**: `68`
-- **來源**: Digitimes (2026-11-23T02:17:01Z)
+- **來源**: Digitimes (2026-11-20T02:51:13Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: This week's coverage highlighted intensifying investment, supply constraints, and geopolitical pressures across the semiconductor industry. TSMC will comply with expanded US export controls affecting Chinese-designed advanced logic chips, while Taiwan supplie…
-- [原文連結](https://www.digitimes.com/news/a20261123VL200/weekly-news-roundup-tsmc-sk-hynix-chips-equipment-investment.html)
+- **摘要**: Samsung Electronics promoted the executive responsible for its high-bandwidth memory (HBM) development to lead its memory business on Friday, as it reshuffled its semiconductor leadership and allowed its two co-CEOs to focus more on foundry and robotics.
+- [原文連結](https://www.digitimes.com/news/a20261120VL202/samsung-business-hbm-development-dram.html)
 
 ---
 
@@ -127,12 +118,12 @@
 
 ---
 
-### ⚖️ Google looks to bypass Broadcom with direct HBM purchases
-- **題材**: `HBM記憶體` | **重要性**: `68`
-- **來源**: Digitimes (2026-11-19T04:01:06Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Google is looking to buy high-bandwidth memory (HBM) directly for AI chips developed with MediaTek, potentially cutting billions of dollars in procurement costs and changing how Samsung Electronics, SK Hynix and Micron Technology negotiate with major customer…
-- [原文連結](https://www.digitimes.com/news/a20261119VL217/google-hbm-broadcom-mediatek-2027.html)
+### ⚖️ CPO's next challenge in AI data centers: Manufacturing yield and testing hold key to mass production
+- **題材**: `光通訊與矽光子` | **重要性**: `68`
+- **來源**: Digitimes (2026-11-19T01:55:08Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: As AI data centers demand greater network bandwidth and energy efficiency, co-packaged optics (CPO) technology is gradually moving beyond laboratory validation toward commercial deployment.
+- [原文連結](https://www.digitimes.com/news/a20261118PD248/cpo-data-production-testing-bandwidth.html)
 
 ---
 
@@ -169,6 +160,15 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: What memory fabs and speculative data center queues reveal about the durability of AI demand.
 - [原文連結](https://www.techradar.com/pro/the-ai-infrastructure-paradox-over-ordering-and-under-building)
+
+---
+
+### ⚖️ Weekly news roundup: TSMC to comply with new US rules; Musk approaches Korean firms for equipment
+- **題材**: `HBM記憶體` | **重要性**: `63`
+- **來源**: Digitimes (2026-11-23T02:17:01Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: This week's coverage highlighted intensifying investment, supply constraints, and geopolitical pressures across the semiconductor industry. TSMC will comply with expanded US export controls affecting Chinese-designed advanced logic chips, while Taiwan supplie…
+- [原文連結](https://www.digitimes.com/news/a20261123VL200/weekly-news-roundup-tsmc-sk-hynix-chips-equipment-investment.html)
 
 ---
 
