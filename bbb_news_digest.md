@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-26T09:01:26.225681+00:00
+> 更新時間：2026-11-26T18:50:56.356276+00:00
 
 ### ⚖️ Micron steps up HBM investment in Taiwan, Singapore
 - **題材**: `HBM記憶體` | **重要性**: `78`
@@ -25,6 +25,15 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: AI chips are driving foundries and OSAT providers to expand capacity for advanced packaging technologies such as CoWoS, creating a new wave of localization opportunities for critical materials suppliers. Suregiant Technology's release films have entered mass …
 - [原文連結](https://www.digitimes.com/news/a20261119PD201/packaging-chips-growth-supply-chain-capacity.html)
+
+---
+
+### 🚀 China's memory giants have a record year as Huawei ships HBM without a named source
+- **題材**: `HBM記憶體` | **重要性**: `77`
+- **來源**: Tom's Hardware UK (2026-11-25T13:00:00Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: China's memory output comes from CXMT and YMTC, a few smaller fabs, and Chinese Samsung and SK hynix plants, but no Chinese maker has HBM in volume yet.
+- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/the-state-of-chinas-memory-industry-in-2026-cxmt-and-ymtc-are-booming-but-hbm-remains-a-headache)
 
 ---
 
@@ -64,12 +73,12 @@
 
 ---
 
-### ⚠️ AI server makers hike prices up to 45% months after contracts are signed as RAM shortage triples memory-heavy CPU node costs
-- **題材**: `AI伺服器` | **重要性**: `72`
-- **來源**: Tom's Hardware UK (2026-11-23T12:30:00Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: AI server OEMs are hiking prices post-contract up to 45% — financial firms building datacenters still pay up as "the compute is valuable"
-- [原文連結](https://www.tomshardware.com/tech-industry/big-tech/ai-server-makers-hike-prices-up-to-45-percent-months-after-contracts-are-signed-as-ram-shortage-triples-memory-heavy-cpu-node-costs-financial-firms-still-pay-up-as-the-compute-is-valuable)
+### ⚠️ U.S. proposes new tariffs of up to 20% on China, the EU and 12 other nations
+- **題材**: `總體風險` | **重要性**: `70`
+- **來源**: Yahoo Entertainment (2026-11-25T13:18:02Z)
+- **AI 判讀**: 屬「總體風險」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: The Trump administration proposed new tariffs of up to 20% on China, the European Union, and 12 other major US trading partners to take effect next year, following an 8-month investigation into excess manufacturing capacity.The duties could be a shock to the …
+- [原文連結](https://finance.yahoo.com/markets/article/us-announces-new-tariffs-of-up-to-20-on-china-the-eu-and-12-other-nations-131802359.html)
 
 ---
 
@@ -100,15 +109,6 @@
 
 ---
 
-### ⚖️ Samsung taps HBM executive to lead memory business
-- **題材**: `HBM記憶體` | **重要性**: `68`
-- **來源**: Digitimes (2026-11-20T02:51:13Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Samsung Electronics promoted the executive responsible for its high-bandwidth memory (HBM) development to lead its memory business on Friday, as it reshuffled its semiconductor leadership and allowed its two co-CEOs to focus more on foundry and robotics.
-- [原文連結](https://www.digitimes.com/news/a20261120VL202/samsung-business-hbm-development-dram.html)
-
----
-
 ### ⚖️ Micron moves first equipment into Singapore high-bandwidth memory plant, eyes 2027 production start
 - **題材**: `HBM記憶體` | **重要性**: `68`
 - **來源**: Digitimes (2026-11-20T01:41:35Z)
@@ -127,6 +127,15 @@
 
 ---
 
+### ⚠️ AI server makers hike prices up to 45% months after contracts are signed as RAM shortage triples memory-heavy CPU node costs
+- **題材**: `AI伺服器` | **重要性**: `67`
+- **來源**: Tom's Hardware UK (2026-11-23T12:30:00Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: AI server OEMs are hiking prices post-contract up to 45% — financial firms building datacenters still pay up as "the compute is valuable"
+- [原文連結](https://www.tomshardware.com/tech-industry/big-tech/ai-server-makers-hike-prices-up-to-45-percent-months-after-contracts-are-signed-as-ram-shortage-triples-memory-heavy-cpu-node-costs-financial-firms-still-pay-up-as-the-compute-is-valuable)
+
+---
+
 ### ⚠️ Rapidus reportedly struggles to produce working SRAM on its 2nm node, putting 2027 mass production at risk
 - **題材**: `半導體先進製程` | **重要性**: `67`
 - **來源**: Tom's Hardware UK (2026-11-21T15:30:00Z)
@@ -136,30 +145,21 @@
 
 ---
 
-### 🚀 Wall Street stages a comeback after 7 straight days of losses
-- **題材**: `總體風險` | **重要性**: `65`
-- **來源**: Yahoo Entertainment (2026-11-23T11:00:34Z)
-- **AI 判讀**: 屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Stock futures rebounded in premarket trading on Monday as buyers stepped back in for the holiday-shortened week after a bruising sell-off that left the S&P 500 and Dow in correction territory.Futures on the S&P 500 (ES=F) rose 2.6% following seven straight da…
-- [原文連結](https://finance.yahoo.com/markets/live/stock-market-today-monday-november-23-dow-sp-500-nasdaq-091118583.html)
-
----
-
-### ⚖️ The CFO at the center of Amazon’s AI spending blitz
-- **題材**: `總體風險` | **重要性**: `65`
-- **來源**: Business Insider (2026-11-23T10:00:01Z)
-- **AI 判讀**: 屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: AWS CFO John Felton is using lessons from Amazon's pandemic expansion to manage its massive AI infrastructure spending.
-- [原文連結](https://www.businessinsider.com/aws-cfo-john-felton-amazon-ai-spending-data-centers-2026-11)
-
----
-
 ### ⚖️ The AI infrastructure paradox: over-ordering and under-building
 - **題材**: `HBM記憶體` | **重要性**: `65`
 - **來源**: TechRadar (2026-11-22T08:00:00Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: What memory fabs and speculative data center queues reveal about the durability of AI demand.
 - [原文連結](https://www.techradar.com/pro/the-ai-infrastructure-paradox-over-ordering-and-under-building)
+
+---
+
+### ⚖️ FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space
+- **題材**: `AI伺服器` | **重要性**: `63`
+- **來源**: The Verge (2026-11-25T17:44:57Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's "Starmind" initiative. With several others also pursuing the idea of putting AI data centers in s…
+- [原文連結](https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers)
 
 ---
 

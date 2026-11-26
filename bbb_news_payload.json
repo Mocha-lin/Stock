@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-11-26T09:01:26.225681+00:00",
+  "generated_at": "2026-11-26T18:50:56.356276+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 69,
@@ -115,6 +115,41 @@
         "010"
       ],
       "reason": "屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
+      "id": "228ca3775ba6b64a",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "China's memory giants have a record year as Huawei ships HBM without a named source",
+      "summary": "China's memory output comes from CXMT and YMTC, a few smaller fabs, and Chinese Samsung and SK hynix plants, but no Chinese maker has HBM in volume yet.",
+      "original_title": "China's memory giants have a record year as Huawei ships HBM without a named source",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/the-state-of-chinas-memory-industry-in-2026-cxmt-and-ymtc-are-booming-but-hbm-remains-a-headache",
+      "source": "Tom's Hardware UK",
+      "domain": "tomshardware.com",
+      "published_at": "2026-11-25T13:00:00Z",
+      "importance": 77,
+      "impact": "positive",
+      "timeframe": "short_to_mid_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "48d4e779dde73211",
@@ -266,32 +301,32 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
-      "id": "85ce49970af4dff0",
+      "id": "bb0dc9db45a113b1",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "AI server makers hike prices up to 45% months after contracts are signed as RAM shortage triples memory-heavy CPU node costs",
-      "summary": "AI server OEMs are hiking prices post-contract up to 45% — financial firms building datacenters still pay up as \"the compute is valuable\"",
-      "original_title": "AI server makers hike prices up to 45% months after contracts are signed as RAM shortage triples memory-heavy CPU node costs",
-      "url": "https://www.tomshardware.com/tech-industry/big-tech/ai-server-makers-hike-prices-up-to-45-percent-months-after-contracts-are-signed-as-ram-shortage-triples-memory-heavy-cpu-node-costs-financial-firms-still-pay-up-as-the-compute-is-valuable",
-      "source": "Tom's Hardware UK",
-      "domain": "tomshardware.com",
-      "published_at": "2026-11-23T12:30:00Z",
-      "importance": 72,
+      "theme": "總體風險",
+      "title": "U.S. proposes new tariffs of up to 20% on China, the EU and 12 other nations",
+      "summary": "The Trump administration proposed new tariffs of up to 20% on China, the European Union, and 12 other major US trading partners to take effect next year, following an 8-month investigation into excess manufacturing capacity.The duties could be a shock to the …",
+      "original_title": "U.S. proposes new tariffs of up to 20% on China, the EU and 12 other nations",
+      "url": "https://finance.yahoo.com/markets/article/us-announces-new-tariffs-of-up-to-20-on-china-the-eu-and-12-other-nations-131802359.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-11-25T13:18:02Z",
+      "importance": 70,
       "impact": "negative",
       "timeframe": "short_term",
       "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
       ],
       "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
       ],
       "related_models": [
         "003",
@@ -301,7 +336,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「AI伺服器」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。"
+      "reason": "屬「總體風險」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "83487d906951a29a",
@@ -418,41 +453,6 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "d30e4e7ca30ccec2",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "Samsung taps HBM executive to lead memory business",
-      "summary": "Samsung Electronics promoted the executive responsible for its high-bandwidth memory (HBM) development to lead its memory business on Friday, as it reshuffled its semiconductor leadership and allowed its two co-CEOs to focus more on foundry and robotics.",
-      "original_title": "Samsung taps HBM executive to lead memory business",
-      "url": "https://www.digitimes.com/news/a20261120VL202/samsung-business-hbm-development-dram.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-11-20T02:51:13Z",
-      "importance": 68,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "c834cc7428c112b4",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -526,6 +526,44 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "85ce49970af4dff0",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "AI server makers hike prices up to 45% months after contracts are signed as RAM shortage triples memory-heavy CPU node costs",
+      "summary": "AI server OEMs are hiking prices post-contract up to 45% — financial firms building datacenters still pay up as \"the compute is valuable\"",
+      "original_title": "AI server makers hike prices up to 45% months after contracts are signed as RAM shortage triples memory-heavy CPU node costs",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/ai-server-makers-hike-prices-up-to-45-percent-months-after-contracts-are-signed-as-ram-shortage-triples-memory-heavy-cpu-node-costs-financial-firms-still-pay-up-as-the-compute-is-valuable",
+      "source": "Tom's Hardware UK",
+      "domain": "tomshardware.com",
+      "published_at": "2026-11-23T12:30:00Z",
+      "importance": 67,
+      "impact": "negative",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "861a5265fddc2462",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -564,82 +602,6 @@
       "reason": "屬「半導體先進製程」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "a9d87147afb92a39",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "Wall Street stages a comeback after 7 straight days of losses",
-      "summary": "Stock futures rebounded in premarket trading on Monday as buyers stepped back in for the holiday-shortened week after a bruising sell-off that left the S&P 500 and Dow in correction territory.Futures on the S&P 500 (ES=F) rose 2.6% following seven straight da…",
-      "original_title": "Wall Street stages a comeback after 7 straight days of losses",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-23-dow-sp-500-nasdaq-091118583.html",
-      "source": "Yahoo Entertainment",
-      "domain": "finance.yahoo.com",
-      "published_at": "2026-11-23T11:00:34Z",
-      "importance": 65,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "02384cabc1b19bb9",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "The CFO at the center of Amazon’s AI spending blitz",
-      "summary": "AWS CFO John Felton is using lessons from Amazon's pandemic expansion to manage its massive AI infrastructure spending.",
-      "original_title": "The CFO at the center of Amazon’s AI spending blitz",
-      "url": "https://www.businessinsider.com/aws-cfo-john-felton-amazon-ai-spending-data-centers-2026-11",
-      "source": "Business Insider",
-      "domain": "businessinsider.com",
-      "published_at": "2026-11-23T10:00:01Z",
-      "importance": 65,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "d7e9d65d3470f0dd",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -673,6 +635,44 @@
         "010"
       ],
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "bd18fa4d42617dab",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+      "summary": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative. With several others also pursuing the idea of putting AI data centers in s…",
+      "original_title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+      "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "published_at": "2026-11-25T17:44:57Z",
+      "importance": 63,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "d764c5e26b0bbd66",
@@ -818,6 +818,41 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "6f321ecc42f0d581",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "Stocks tumble as tech sell-off resumes; Nvidia falls 7%",
+      "summary": "The downswing marked the latest turn in a volatile stretch of trading.",
+      "original_title": "Stocks tumble as tech sell-off resumes; Nvidia falls 7%",
+      "url": "https://abcnews.com/Business/stocks-tumble-tech-sell-off-resumes-nvidia-falls/story?id=138442070",
+      "source": "Abcnews.com",
+      "domain": "abcnews.com",
+      "published_at": "2026-11-25T15:52:55Z",
+      "importance": 60,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "230ff858d1f220a9",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -894,128 +929,17 @@
       "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "1ab712bc7f0f9edf",
+      "id": "a9d87147afb92a39",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
+      "theme": "總體風險",
       "title": "Wall Street stages a comeback after 7 straight days of losses",
-      "summary": "Stock futures rebounded in premarket trading on Monday as buyers stepped back in for the holiday-shortened week after a bruising sell-off, and Nvidia (NVDA) stock surged after the company’s board reinstated Jensen Huang as CEO.Futures on the S&P 500 (ES=F) ro…",
+      "summary": "Stock futures rebounded in premarket trading on Monday as buyers stepped back in for the holiday-shortened week after a bruising sell-off that left the S&P 500 and Dow in correction territory.Futures on the S&P 500 (ES=F) rose 2.6% following seven straight da…",
       "original_title": "Wall Street stages a comeback after 7 straight days of losses",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-23-dow-sp-500-nasdaq-nvidia-reinstates-jensen-huang-141511975.html",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-23-dow-sp-500-nasdaq-091118583.html",
       "source": "Yahoo Entertainment",
       "domain": "finance.yahoo.com",
-      "published_at": "2026-11-23T14:15:11Z",
-      "importance": 60,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "9701ccbf891f84b0",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "Why these 6 stocks are winning from the AI rout",
-      "summary": "Walmart, Berkshire Hathaway, and Clorox shares have rallied strongly as investors switch out high-flying AI stocks like Nvidia for defensive picks.",
-      "original_title": "Why these 6 stocks are winning from the AI rout",
-      "url": "https://www.businessinsider.com/ai-tech-stocks-rout-walmart-berkshire-buffett-defensive-investing-consumer-2026-11",
-      "source": "Business Insider",
-      "domain": "businessinsider.com",
-      "published_at": "2026-11-23T12:32:34Z",
-      "importance": 60,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "4ce74210ff372460",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "Apple Explores Using Light to Move Data Between Server Chips",
-      "summary": "Apple is hiring an engineering program manager to work on light-based data connections for its server chips, in what could be a sign of the company's broader ambitions in data-center infrastructure. The Silicon Photonics EPM listing was highlighted by Korea's…",
-      "original_title": "Apple Explores Using Light to Move Data Between Server Chips",
-      "url": "https://www.macrumors.com/2026/11/23/apple-light-move-data-server-chips/",
-      "source": "MacRumors",
-      "domain": "macrumors.com",
-      "published_at": "2026-11-23T12:29:27Z",
-      "importance": 60,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "1a5828d0a0a3d48d",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "Senate passes bipartisan energy bill amid environmental concerns",
-      "summary": "As Americans struggle with rising energy costs and increased demand driven by AI, the Senate passed a bipartisan bill that will speed up the approval process for data centers and power plants.",
-      "original_title": "Senate passes bipartisan energy bill amid environmental concerns",
-      "url": "https://www.npr.org/2026/11/20/g-s1-154579/senate-bipartisan-energy-bill",
-      "source": "NPR",
-      "domain": "npr.org",
-      "published_at": "2026-11-20T11:00:28Z",
+      "published_at": "2026-11-23T11:00:34Z",
       "importance": 60,
       "impact": "positive",
       "timeframe": "short_term",
@@ -1081,6 +1005,272 @@
       "reason": "屬「半導體先進製程」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "1d0cba0175130f71",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "Stocks sink on hot inflation and new Trump tariffs as AI chip rout continues",
+      "summary": "US stocks fell on Wednesday as chip stocks extended their sell-off, the Trump administration announced new 20% tariffs, and the PCE index showed price increases picked up in October.The Dow Jones Industrial Average (^DJI) dropped 1.5%, while the S&P 500 (^GSP…",
+      "original_title": "Stocks sink on hot inflation and new Trump tariffs as AI chip rout continues",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-11-25T14:32:57Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "919ebb4d850f7d01",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "Inflation remains high despite retreating gas prices, highlighting challenges for the Fed",
+      "summary": "The Federal Reserve's preferred inflation gauge showed prices heated up more than expected in October, all but guaranteeing the central bank will raise interest rates next month with the prospect of further hikes in the first quarter. The core Personal Consum…",
+      "original_title": "Inflation remains high despite retreating gas prices, highlighting challenges for the Fed",
+      "url": "https://finance.yahoo.com/economy/policy/article/feds-favored-inflation-gauge-heats-up-solidifying-a-rate-hike-in-december-with-more-likely-next-year-135510084.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-11-25T13:55:10Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "26eef7ac59c18865",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "Inflation remains high despite retreating gas prices, highlighting challenges for the Fed",
+      "summary": "The Federal Reserve's preferred inflation gauge showed prices heated up more than expected in October, all but guaranteeing the central bank will raise interest rates next month, with the prospect of further hikes in the first quarter. The \"core\" Personal Con…",
+      "original_title": "Inflation remains high despite retreating gas prices, highlighting challenges for the Fed",
+      "url": "https://finance.yahoo.com/economy/policy/article/pce-inflation-heats-up-solidifying-a-fed-rate-hike-in-december-with-more-likely-next-year-143016844.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-11-25T13:55:10Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "de64ff307a99121d",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "Fed's preferred gauge of inflation climbs ahead of possible rate hike",
+      "summary": "The Fed will issue a decision on interest rates early next month.",
+      "original_title": "Fed's preferred gauge of inflation climbs ahead of possible rate hike",
+      "url": "https://abcnews.com/Business/inflation-report-provide-feds-preferred-gauge-prices-ahead/story?id=138410424",
+      "source": "Abcnews.com",
+      "domain": "abcnews.com",
+      "published_at": "2026-11-25T13:34:08Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "8a6f58a09c2497d8",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "Oil prices rise after alleged Houthi attack on Saudi refinery",
+      "summary": "By Anna Hirtenstein LONDON, Nov 25 (Reuters) - Crude oil prices rose on Wednesday after Yemen's Houthis said they had attacked Saudi Arabia's largest oil refinery, as traders weighed concerns about supply disruptions in the Middle East ‌against the prospect o…",
+      "original_title": "Oil prices rise after alleged Houthi attack on Saudi refinery",
+      "url": "https://finance.yahoo.com/energy/articles/oil-prices-fall-supply-glut-015829699.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-11-25T13:02:57Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "e7d63964cc2886ea",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "10 big money topics you might have to tackle over Thanksgiving turkey",
+      "summary": "There's something about Thanksgiving and the world of finance. Family members — both alike and different — thrust together in a pressure cooker of food, football, and more food. Pressure that squeezes opinions out and volumes up.As Bloomberg's Joe Weisenthal …",
+      "original_title": "10 big money topics you might have to tackle over Thanksgiving turkey",
+      "url": "https://finance.yahoo.com/markets/article/10-big-money-topics-you-might-have-to-tackle-over-turkey-a-yahoo-finance-guide-to-nvidia-markets-and-more-110000381.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-11-25T11:00:00Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "b42178c158c2dbf9",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Trump's intervention to get Jensen Huang reinstated was about more than Nvidia",
+      "summary": "At the center of the White House's push to get Jensen Huang reinstated as CEO of Nvidia was a conviction that he plays a critical role in keeping the artificial intelligence sector competitive. According to a source familiar with the matter, President Trump a…",
+      "original_title": "Trump's intervention to get Jensen Huang reinstated was about more than Nvidia",
+      "url": "https://finance.yahoo.com/markets/article/why-trump-wanted-jensen-huang-back-at-the-helm-of-nvidia-224325153.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-11-25T09:42:35Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "63068b6476e29297",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1117,44 +1307,6 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "7b1182a05c7f797e",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Planet twice the size of Earth detected in the Solar System’s darkness",
-      "summary": "Like any good detective series, the hunt for hypothetical strangers in the Solar System’s shadows is full of suspense, red herrings, and suspicious clues.Continue ReadingCategory: Astronomy, ScienceTags: Planet X, Kuiper Belt, Dwarf planet, Simulations, kinda…",
-      "original_title": "Planet twice the size of Earth detected in the Solar System’s darkness",
-      "url": "https://newatlas.com/space/planet-size-twice-earth-solar-systems-darkness/",
-      "source": "New Atlas",
-      "domain": "newatlas.com",
-      "published_at": "2026-11-25T01:50:03Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "5511be3e19b37598",
@@ -1309,44 +1461,6 @@
       "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "1752b1b40bfa7b23",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "Nvidia stock has shades of Dutch tulips and Bored Ape NFTs, tech guru says",
-      "summary": "Business professor Erik Gordon says Nvidia's market value is disconnected from reality after Jensen Huang's return boosted it by nearly $1 trillion.",
-      "original_title": "Nvidia stock has shades of Dutch tulips and Bored Ape NFTs, tech guru says",
-      "url": "https://www.businessinsider.com/nvidia-stock-price-jensen-huang-trump-ai-tulips-nfts-gordon-2026-11",
-      "source": "Business Insider",
-      "domain": "businessinsider.com",
-      "published_at": "2026-11-24T17:16:59Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "f54e3405fed4ef0f",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1423,32 +1537,29 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "b5ccc86a44515b9c",
+      "id": "1ab712bc7f0f9edf",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "Trump wants Corporate America to remember who's in charge",
-      "summary": "Donald Trump says he convinced the Nvidia board to rehire Jensen Huang. What will he demand from Corporate America next?",
-      "original_title": "Trump wants Corporate America to remember who's in charge",
-      "url": "https://www.businessinsider.com/trump-nvidia-jensen-huang-back-ceo-call-2026-11",
-      "source": "Business Insider",
-      "domain": "businessinsider.com",
-      "published_at": "2026-11-23T17:58:36Z",
+      "theme": "HBM記憶體",
+      "title": "Wall Street stages a comeback after 7 straight days of losses",
+      "summary": "Stock futures rebounded in premarket trading on Monday as buyers stepped back in for the holiday-shortened week after a bruising sell-off, and Nvidia (NVDA) stock surged after the company’s board reinstated Jensen Huang as CEO.Futures on the S&P 500 (ES=F) ro…",
+      "original_title": "Wall Street stages a comeback after 7 straight days of losses",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-23-dow-sp-500-nasdaq-nvidia-reinstates-jensen-huang-141511975.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-11-23T14:15:11Z",
       "importance": 55,
-      "impact": "neutral",
+      "impact": "positive",
       "timeframe": "short_term",
       "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
+        "HBM",
+        "記憶體"
       ],
       "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
       ],
       "related_models": [
         "003",
@@ -1458,35 +1569,35 @@
         "009",
         "010"
       ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "253925cf582cade0",
+      "id": "4ce74210ff372460",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "Get ready for 3 consecutive rate hikes starting next month, bank economist warns",
-      "summary": "\"We believe the FOMC, in its three upcoming meetings, will remove three more doses of accommodation,\" Egelhof wrote.",
-      "original_title": "Get ready for 3 consecutive rate hikes starting next month, bank economist warns",
-      "url": "https://www.businessinsider.com/federal-reserve-rate-hikes-december-fomc-meeting-warsh-ai-stocks-2026-11",
-      "source": "Business Insider",
-      "domain": "businessinsider.com",
-      "published_at": "2026-11-23T10:30:01Z",
+      "theme": "光通訊與矽光子",
+      "title": "Apple Explores Using Light to Move Data Between Server Chips",
+      "summary": "Apple is hiring an engineering program manager to work on light-based data connections for its server chips, in what could be a sign of the company's broader ambitions in data-center infrastructure. The Silicon Photonics EPM listing was highlighted by Korea's…",
+      "original_title": "Apple Explores Using Light to Move Data Between Server Chips",
+      "url": "https://www.macrumors.com/2026/11/23/apple-light-move-data-server-chips/",
+      "source": "MacRumors",
+      "domain": "macrumors.com",
+      "published_at": "2026-11-23T12:29:27Z",
       "importance": 55,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
+        "光通訊",
+        "CPO",
+        "矽光子"
       ],
       "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
       ],
       "related_models": [
         "003",
@@ -1496,45 +1607,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "dd0deac9cd222d72",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Dogwoof Moves Into Microdrama Game With Tattle TV Deal",
-      "summary": "EXCLUSIVE: Dogwoof is getting into the microdrama game. The Naza UK distributor has struck a deal with Brit microdrama outfit Tattle TV to repurpose some of its docs for vertical video. The deal begins with two docs, 2017’s The Family I Had, directed by Katie…",
-      "original_title": "Dogwoof Moves Into Microdrama Game With Tattle TV Deal",
-      "url": "https://deadline.com/2026/11/dogwoof-tattle-tv-microdrama-family-i-had-fear-of-13-1237231454/",
-      "source": "Deadline",
-      "domain": "deadline.com",
-      "published_at": "2026-11-23T09:58:31Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "dde3bbc63a1ceac2",
@@ -1573,44 +1646,6 @@
         "010"
       ],
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "16398e8f4cd61202",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Gretchen Rubin’s Gifts for Second Semester College Students",
-      "summary": "Winter break is a great chance to restock a college student’s supplies before they return to campus. Here are my recommendations for some fun and practical gifts. This post includes products that I love myself. It also includes affiliate links (i.e., I receiv…",
-      "original_title": "Gretchen Rubin’s Gifts for Second Semester College Students",
-      "url": "https://gretchenrubin.com/articles/gretchen-rubins-gifts-for-second-semester-college-students/",
-      "source": "Gretchenrubin.com",
-      "domain": "gretchenrubin.com",
-      "published_at": "2026-11-22T10:37:07Z",
-      "importance": 55,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "355f85fb5264dbdd",
@@ -1727,56 +1762,18 @@
       "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "7e188cb71ba788bc",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "卡位1.6T、CPO商機！「這大廠」赴陸泰擴產搶單　目標價上看680元",
-      "summary": "AI資料中心推升光模組規格向1.6T與CPO演進，帶動mSAP細線路與高階PCB需求大增。法人看好PCB龍頭臻鼎-KY搶占AI伺服器與高階商機，產能布局與高毛利產品比重顯著提升，預估今明兩年EPS大幅成長，給予買進評等與目標價680元，供應鏈前景看俏。",
-      "original_title": "卡位1.6T、CPO商機！「這大廠」赴陸泰擴產搶單　目標價上看680元",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_954bd162-76ab-4a3e-8963-45950a5838e9",
-      "source": "Yahoo Entertainment",
-      "domain": "consent.yahoo.com",
-      "published_at": "2026-11-19T17:05:00Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "f422961e18b4c936",
+      "id": "dd0deac9cd222d72",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "AI伺服器",
-      "title": "The AI ‘supertelescope’ that could transform the universe",
-      "summary": "Astronomers want to combine data from three new giant telescope surveys into a fourth virtual observatory",
-      "original_title": "The AI ‘supertelescope’ that could transform the universe",
-      "url": "https://www.scientificamerican.com/article/the-ai-supertelescope-that-could-transform-the-universe/",
-      "source": "Scientific American",
-      "domain": "scientificamerican.com",
-      "published_at": "2026-11-19T14:00:00Z",
-      "importance": 55,
+      "title": "Dogwoof Moves Into Microdrama Game With Tattle TV Deal",
+      "summary": "EXCLUSIVE: Dogwoof is getting into the microdrama game. The Naza UK distributor has struck a deal with Brit microdrama outfit Tattle TV to repurpose some of its docs for vertical video. The deal begins with two docs, 2017’s The Family I Had, directed by Katie…",
+      "original_title": "Dogwoof Moves Into Microdrama Game With Tattle TV Deal",
+      "url": "https://deadline.com/2026/11/dogwoof-tattle-tv-microdrama-family-i-had-fear-of-13-1237231454/",
+      "source": "Deadline",
+      "domain": "deadline.com",
+      "published_at": "2026-11-23T09:58:31Z",
+      "importance": 50,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -1801,44 +1798,6 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "7cedaca2165b8523",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "Vivo's next X Fold has a conundrum—there's a chip battle, and only one will win",
-      "summary": "Vivo is working on another X Fold—the X Fold 7—however, there's a decision to be made about which chip it'll use. And it's all about the price.",
-      "original_title": "Vivo's next X Fold has a conundrum—there's a chip battle, and only one will win",
-      "url": "https://www.androidcentral.com/phones/vivo/vivos-next-x-fold-has-a-conundrum-theres-a-chip-battle-and-only-one-will-win",
-      "source": "Android Central",
-      "domain": "androidcentral.com",
-      "published_at": "2026-11-19T11:11:00Z",
-      "importance": 55,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "afe74eddc58b1b76",
@@ -2250,44 +2209,6 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "c83ca8a7f30b7619",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "Manappuram, Muthoot, IIFL Finance shares tumble up to 5% as gold hits 14-month lows. Why is the yellow metal losing its shine?",
-      "summary": "Shares of Muthoot Finance, Manappuram Finance and IIFL Finance fell on Friday as gold prices plunged to a 14-month low amid rising expectations of US Fed rate hikes and a stronger dollar. What is driving the sharp correction in bullion, how could it affect go…",
-      "original_title": "Manappuram, Muthoot, IIFL Finance shares tumble up to 5% as gold hits 14-month lows. Why is the yellow metal losing its shine?",
-      "url": "https://m.economictimes.com/markets/stocks/news/manappuram-muthoot-iifl-finance-shares-tumble-up-to-5-as-gold-hits-14-month-lows-why-is-the-yellow-metal-losing-its-shine/articleshow/136013906.cms",
-      "source": "Economictimes.com",
-      "domain": "m.economictimes.com",
-      "published_at": "2026-11-20T04:58:13Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "a007f93a04990b1d",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -2364,17 +2285,55 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "7ab5b1886f4c86dd",
+      "id": "7e188cb71ba788bc",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "卡位1.6T、CPO商機！「這大廠」赴陸泰擴產搶單　目標價上看680元",
+      "summary": "AI資料中心推升光模組規格向1.6T與CPO演進，帶動mSAP細線路與高階PCB需求大增。法人看好PCB龍頭臻鼎-KY搶占AI伺服器與高階商機，產能布局與高毛利產品比重顯著提升，預估今明兩年EPS大幅成長，給予買進評等與目標價680元，供應鏈前景看俏。",
+      "original_title": "卡位1.6T、CPO商機！「這大廠」赴陸泰擴產搶單　目標價上看680元",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_954bd162-76ab-4a3e-8963-45950a5838e9",
+      "source": "Yahoo Entertainment",
+      "domain": "consent.yahoo.com",
+      "published_at": "2026-11-19T17:05:00Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "f422961e18b4c936",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "AI伺服器",
-      "title": "Chinese AI models reveal clues pointing to restricted Blackwell chips",
-      "summary": "The clues are hidden in the random numbers that form an AI model’s starting point—and hint at a new way to trace its origins",
-      "original_title": "Chinese AI models reveal clues pointing to restricted Blackwell chips",
-      "url": "https://www.scientificamerican.com/article/chinese-ai-models-reveal-clues-pointing-to-restricted-blackwell-chips/",
+      "title": "The AI ‘supertelescope’ that could transform the universe",
+      "summary": "Astronomers want to combine data from three new giant telescope surveys into a fourth virtual observatory",
+      "original_title": "The AI ‘supertelescope’ that could transform the universe",
+      "url": "https://www.scientificamerican.com/article/the-ai-supertelescope-that-could-transform-the-universe/",
       "source": "Scientific American",
       "domain": "scientificamerican.com",
-      "published_at": "2026-11-19T18:20:00Z",
+      "published_at": "2026-11-19T14:00:00Z",
       "importance": 50,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -2400,6 +2359,82 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "7cedaca2165b8523",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "Vivo's next X Fold has a conundrum—there's a chip battle, and only one will win",
+      "summary": "Vivo is working on another X Fold—the X Fold 7—however, there's a decision to be made about which chip it'll use. And it's all about the price.",
+      "original_title": "Vivo's next X Fold has a conundrum—there's a chip battle, and only one will win",
+      "url": "https://www.androidcentral.com/phones/vivo/vivos-next-x-fold-has-a-conundrum-theres-a-chip-battle-and-only-one-will-win",
+      "source": "Android Central",
+      "domain": "androidcentral.com",
+      "published_at": "2026-11-19T11:11:00Z",
+      "importance": 50,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "7ab5b1886f4c86dd",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Chinese AI models reveal clues pointing to restricted Blackwell chips",
+      "summary": "The clues are hidden in the random numbers that form an AI model’s starting point—and hint at a new way to trace its origins",
+      "original_title": "Chinese AI models reveal clues pointing to restricted Blackwell chips",
+      "url": "https://www.scientificamerican.com/article/chinese-ai-models-reveal-clues-pointing-to-restricted-blackwell-chips/",
+      "source": "Scientific American",
+      "domain": "scientificamerican.com",
+      "published_at": "2026-11-19T18:20:00Z",
+      "importance": 45,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     },
     {
       "id": "ce9ea413b6e9777e",
@@ -2413,7 +2448,7 @@
       "source": "BBC News",
       "domain": "bbc.co.uk",
       "published_at": "2026-11-19T16:40:30Z",
-      "importance": 50,
+      "importance": 45,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -2437,42 +2472,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "3b425181d7ff66b7",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "DDR6 RAM just got its first real specs, and it makes DDR5 look slow",
-      "summary": "With RAM prices still climbing, the industry is already preparing for what comes next.",
-      "original_title": "DDR6 RAM just got its first real specs, and it makes DDR5 look slow",
-      "url": "https://www.makeuseof.com/jedec-previews-ddr6-memory-makes-ddr5-look-slow/",
-      "source": "MakeUseOf",
-      "domain": "makeuseof.com",
-      "published_at": "2026-11-19T15:57:24Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「AI伺服器」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     },
     {
       "id": "da390f93724221fe",
@@ -2486,7 +2486,7 @@
       "source": "Theregister.com",
       "domain": "theregister.com",
       "published_at": "2026-11-19T14:03:00Z",
-      "importance": 50,
+      "importance": 45,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -2510,7 +2510,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「AI伺服器」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     },
     {
       "id": "b035cdcfbb6f0029",
@@ -2524,7 +2524,7 @@
       "source": "Drivevault.io",
       "domain": "drivevault.io",
       "published_at": "2026-11-19T09:05:34Z",
-      "importance": 50,
+      "importance": 45,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -2545,7 +2545,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「HBM記憶體」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     },
     {
       "id": "3d16e84e0e804cc2",
