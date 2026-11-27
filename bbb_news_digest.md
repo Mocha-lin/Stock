@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-27T04:48:33.079572+00:00
+> 更新時間：2026-11-27T09:18:29.820875+00:00
 
 ### ⚖️ EnliTech's semiconductor inspection share nears 50% as NT$1 billion plant targets SiPh mass production
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -19,15 +19,6 @@
 
 ---
 
-### 🚀 Suregiant targets high-double-digit growth as release film enters advanced packaging
-- **題材**: `半導體先進製程` | **重要性**: `78`
-- **來源**: Digitimes (2026-11-20T06:32:51Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: AI chips are driving foundries and OSAT providers to expand capacity for advanced packaging technologies such as CoWoS, creating a new wave of localization opportunities for critical materials suppliers. Suregiant Technology's release films have entered mass …
-- [原文連結](https://www.digitimes.com/news/a20261119PD201/packaging-chips-growth-supply-chain-capacity.html)
-
----
-
 ### 🚀 China's memory giants have a record year as Huawei ships HBM without a named source
 - **題材**: `HBM記憶體` | **重要性**: `77`
 - **來源**: Tom's Hardware UK (2026-11-25T13:00:00Z)
@@ -37,30 +28,12 @@
 
 ---
 
-### ⚖️ Infrared cash cow funds Kinko Optical's push into CPO, AR, and LEO satellites
-- **題材**: `光通訊與矽光子` | **重要性**: `73`
-- **來源**: Digitimes (2026-11-25T08:50:52Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Kinko Optical is leveraging profits from its booming infrared lens business to bankroll next-generation bets in co-packaged optics (CPO), augmented reality (AR) glasses, and low-Earth orbit (LEO) satellites, according to General Manager Yi-Fang Chen. While in…
-- [原文連結](https://www.digitimes.com/news/a20261125PD219/kinko-optical-cpo-leo-business-ar-glasses.html)
-
----
-
 ### ⚖️ TSMC eyes US$22.6 billion Texas campus for 2nm chips
 - **題材**: `半導體先進製程` | **重要性**: `73`
 - **來源**: Digitimes (2026-11-24T09:31:50Z)
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: TSMC is considering a US$22.6 billion semiconductor manufacturing campus in Texas, including about US$14 billion in machinery and equipment investment, as the chipmaker weighs Texas against Arizona for its next major US expansion.
 - [原文連結](https://www.digitimes.com/news/a20261124VL226/tsmc-texas-arizona-investment-manufacturing.html)
-
----
-
-### 🚀 Analysis: Samsung, SK Hynix look beyond Nvidia as Huang returns
-- **題材**: `HBM記憶體` | **重要性**: `73`
-- **來源**: Digitimes (2026-11-24T06:27:18Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Jensen Huang's return as Nvidia CEO has eased concerns among South Korean memory chipmakers over high-bandwidth memory (HBM) supply agreements and next-generation chip development, but growing demand for AI processors from Google, Amazon, and other technology…
-- [原文連結](https://www.digitimes.com/news/a20261124VL217/nvidia-samsung-jensen-huang-sk-hynix-ceo.html)
 
 ---
 
@@ -91,6 +64,15 @@
 
 ---
 
+### 🚀 Suregiant targets high-double-digit growth as release film enters advanced packaging
+- **題材**: `半導體先進製程` | **重要性**: `73`
+- **來源**: Digitimes (2026-11-20T06:32:51Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: AI chips are driving foundries and OSAT providers to expand capacity for advanced packaging technologies such as CoWoS, creating a new wave of localization opportunities for critical materials suppliers. Suregiant Technology's release films have entered mass …
+- [原文連結](https://www.digitimes.com/news/a20261119PD201/packaging-chips-growth-supply-chain-capacity.html)
+
+---
+
 ### ⚠️ U.S. proposes new tariffs of up to 20% on China, the EU and 12 other nations
 - **題材**: `總體風險` | **重要性**: `70`
 - **來源**: Yahoo Entertainment (2026-11-25T13:18:02Z)
@@ -106,6 +88,15 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: German chemical maker Wacker Chemie is developing silicone-based optical materials free of per- and polyfluoroalkyl substances (PFAS) for co-packaged optics (CPO) under a South Korean government-backed research project, moving ahead with development before ma…
 - [原文連結](https://www.digitimes.com/news/a20261125PD212/materials-cpo-development-packaging.html)
+
+---
+
+### 🚀 Analysis: Samsung, SK Hynix look beyond Nvidia as Huang returns
+- **題材**: `HBM記憶體` | **重要性**: `68`
+- **來源**: Digitimes (2026-11-24T06:27:18Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Jensen Huang's return as Nvidia CEO has eased concerns among South Korean memory chipmakers over high-bandwidth memory (HBM) supply agreements and next-generation chip development, but growing demand for AI processors from Google, Amazon, and other technology…
+- [原文連結](https://www.digitimes.com/news/a20261124VL217/nvidia-samsung-jensen-huang-sk-hynix-ceo.html)
 
 ---
 
@@ -178,6 +169,15 @@
 - **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on Stephen A. Smith's radio show shortly aft…
 - [原文連結](https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated)
+
+---
+
+### ⚖️ Weekly news roundup: TSMC to comply with new US rules; Musk approaches Korean firms for equipment
+- **題材**: `半導體先進製程` | **重要性**: `63`
+- **來源**: Digitimes (2026-11-23T02:17:01Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: This week's coverage highlighted intensifying investment, supply constraints, and geopolitical pressures across the semiconductor industry. TSMC will comply with expanded US export controls affecting Chinese-designed advanced logic chips, while Taiwan supplie…
+- [原文連結](https://www.digitimes.com/news/a20261123VL200/weekly-news-roundup-tsmc-sk-hynix-chips-equipment-investment.html)
 
 ---
 
