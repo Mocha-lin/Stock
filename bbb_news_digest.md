@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-27T18:42:11.578039+00:00
+> 更新時間：2026-11-27T21:42:15.209526+00:00
 
 ### ⚖️ EnliTech's semiconductor inspection share nears 50% as NT$1 billion plant targets SiPh mass production
 - **題材**: `光通訊與矽光子` | **重要性**: `83`

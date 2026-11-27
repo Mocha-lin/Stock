@@ -1,6 +1,6 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-11-27T18:42:11.578039+00:00",
+  "generated_at": "2026-11-27T21:42:15.209526+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
   "total_count": 69,
@@ -1193,6 +1193,44 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "56455a85052ae9f8",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "總體風險",
+      "title": "Oil prices climb as Iran reports 2 tankers struck mines in the Strait of Hormuz",
+      "summary": "By Amanda Stephenson CALGARY, Nov 26 (Reuters) - Crude oil prices rose on Thursday after Yemen's Houthis said they hit Saudi Arabia's largest oil refinery, and Iran said mines struck ships in the Strait of Hormuz, ‌reviving concerns about supply disruptions. …",
+      "original_title": "Oil prices climb as Iran reports 2 tankers struck mines in the Strait of Hormuz",
+      "url": "https://finance.yahoo.com/energy/articles/oil-rises-supply-concerns-iran-030849858.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-11-26T19:12:13Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
+      ],
+      "related_stocks": [
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「總體風險」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "2028bca9b150a15c",
@@ -2454,7 +2492,7 @@
       "source": "Yahoo Entertainment",
       "domain": "finance.yahoo.com",
       "published_at": "2026-11-20T21:23:54Z",
-      "importance": 50,
+      "importance": 45,
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
@@ -2475,45 +2513,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "355f85fb5264dbdd",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "Oil Price Today (November 20): Brent crude rises to $93 as fresh Houthi attacks heighten worries. What are experts saying?",
-      "summary": "Crude oil price : On Friday, oil prices surged due to missile strikes near Riyadh and disruptions in tanker operations within the Strait of Hormuz. The conflict with the Iran-aligned Houthi group raised alarm over the safety of regional oil supply. Goldman Sa…",
-      "original_title": "Oil Price Today (November 20): Brent crude rises to $93 as fresh Houthi attacks heighten worries. What are experts saying?",
-      "url": "https://m.economictimes.com/markets/commodities/news/oil-price-today-november-20-brent-crude-rises-to-93-as-fresh-houthi-attacks-heighten-worries-what-are-experts-saying/articleshow/136010579.cms",
-      "source": "Economictimes.com",
-      "domain": "m.economictimes.com",
-      "published_at": "2026-11-20T02:39:43Z",
-      "importance": 50,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「HBM記憶體」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
     },
     {
       "id": "4df5ab65e76af6d9",
