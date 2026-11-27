@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-27T09:18:29.820875+00:00
+> 更新時間：2026-11-27T18:42:11.578039+00:00
 
 ### ⚖️ EnliTech's semiconductor inspection share nears 50% as NT$1 billion plant targets SiPh mass production
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -28,12 +28,12 @@
 
 ---
 
-### ⚖️ TSMC eyes US$22.6 billion Texas campus for 2nm chips
+### ⚖️ SK Hynix seeks TSMC 3nm expertise as Micron steps up hiring
 - **題材**: `半導體先進製程` | **重要性**: `73`
-- **來源**: Digitimes (2026-11-24T09:31:50Z)
+- **來源**: Digitimes (2026-11-26T09:58:19Z)
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: TSMC is considering a US$22.6 billion semiconductor manufacturing campus in Texas, including about US$14 billion in machinery and equipment investment, as the chipmaker weighs Texas against Arizona for its next major US expansion.
-- [原文連結](https://www.digitimes.com/news/a20261124VL226/tsmc-texas-arizona-investment-manufacturing.html)
+- **摘要**: SK Hynix is seeking engineers with experience in TSMC's 3nm process to develop customized high-bandwidth memory (HBM), while US rival Micron Technology is stepping up recruitment in South Korea to support its Asian expansion.
+- [原文連結](https://www.digitimes.com/news/a20261126VL224/sk-hynix-tsmc-micron-3nm-hbm.html)
 
 ---
 
@@ -91,6 +91,15 @@
 
 ---
 
+### ⚖️ TSMC eyes US$22.6 billion Texas campus for 2nm chips
+- **題材**: `半導體先進製程` | **重要性**: `68`
+- **來源**: Digitimes (2026-11-24T09:31:50Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: TSMC is considering a US$22.6 billion semiconductor manufacturing campus in Texas, including about US$14 billion in machinery and equipment investment, as the chipmaker weighs Texas against Arizona for its next major US expansion.
+- [原文連結](https://www.digitimes.com/news/a20261124VL226/tsmc-texas-arizona-investment-manufacturing.html)
+
+---
+
 ### 🚀 Analysis: Samsung, SK Hynix look beyond Nvidia as Huang returns
 - **題材**: `HBM記憶體` | **重要性**: `68`
 - **來源**: Digitimes (2026-11-24T06:27:18Z)
@@ -145,15 +154,6 @@
 
 ---
 
-### 🚀 NVIDIA Fuels Accelerated Computing at Microsoft With Vera Rubin Deployments at Azure, RTX Blackwell & Open Models For Windows PCs
-- **題材**: `AI伺服器` | **重要性**: `65`
-- **來源**: Wccftech (2026-11-20T18:15:32Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: NVIDIA and Microsoft are bringing accelerated computing across Azure and Windows PCs, powered by next-gen infrastructure. NVIDIA Vera Rubin NVL72 Now Available at Azure, While Nemotron Open AI Models & RTX Blackwell Power On-Premises Windows PCs As accelerate…
-- [原文連結](https://wccftech.com/nvidia-fuels-accelerated-computing-at-microsoft-across-azure-windows-pcs/)
-
----
-
 ### ⚖️ FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space
 - **題材**: `AI伺服器` | **重要性**: `63`
 - **來源**: The Verge (2026-11-25T17:44:57Z)
@@ -173,9 +173,9 @@
 ---
 
 ### ⚖️ Weekly news roundup: TSMC to comply with new US rules; Musk approaches Korean firms for equipment
-- **題材**: `半導體先進製程` | **重要性**: `63`
+- **題材**: `HBM記憶體` | **重要性**: `63`
 - **來源**: Digitimes (2026-11-23T02:17:01Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: This week's coverage highlighted intensifying investment, supply constraints, and geopolitical pressures across the semiconductor industry. TSMC will comply with expanded US export controls affecting Chinese-designed advanced logic chips, while Taiwan supplie…
 - [原文連結](https://www.digitimes.com/news/a20261123VL200/weekly-news-roundup-tsmc-sk-hynix-chips-equipment-investment.html)
 
