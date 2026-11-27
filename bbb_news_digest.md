@@ -1,12 +1,12 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-26T21:59:33.304879+00:00
+> 更新時間：2026-11-27T04:48:33.079572+00:00
 
-### ⚖️ Micron steps up HBM investment in Taiwan, Singapore
-- **題材**: `HBM記憶體` | **重要性**: `78`
-- **來源**: Digitimes (2026-11-24T04:22:45Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Micron Technology is stepping up investment in high-bandwidth memory (HBM) production in Taiwan and Singapore as it seeks to narrow the capacity gap with South Korean rivals Samsung Electronics and SK Hynix.
-- [原文連結](https://www.digitimes.com/news/a20261124VL216/micron-hbm-investment-taiwan-production.html)
+### ⚖️ EnliTech's semiconductor inspection share nears 50% as NT$1 billion plant targets SiPh mass production
+- **題材**: `光通訊與矽光子` | **重要性**: `83`
+- **來源**: Digitimes (2026-11-26T01:55:19Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Surging demand for high-speed optical transmission in AI data centers is propelling silicon photonics (SiPh) from R&D into volume production, marking a pivotal operational shift for optical inspection equipment maker EnliTech. On November 25, the company brok…
+- [原文連結](https://www.digitimes.com/news/a20261125PD228/inspection-siph-production-demand-plant.html)
 
 ---
 
@@ -37,6 +37,15 @@
 
 ---
 
+### ⚖️ Infrared cash cow funds Kinko Optical's push into CPO, AR, and LEO satellites
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-11-25T08:50:52Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Kinko Optical is leveraging profits from its booming infrared lens business to bankroll next-generation bets in co-packaged optics (CPO), augmented reality (AR) glasses, and low-Earth orbit (LEO) satellites, according to General Manager Yi-Fang Chen. While in…
+- [原文連結](https://www.digitimes.com/news/a20261125PD219/kinko-optical-cpo-leo-business-ar-glasses.html)
+
+---
+
 ### ⚖️ TSMC eyes US$22.6 billion Texas campus for 2nm chips
 - **題材**: `半導體先進製程` | **重要性**: `73`
 - **來源**: Digitimes (2026-11-24T09:31:50Z)
@@ -55,21 +64,30 @@
 
 ---
 
+### ⚖️ Micron steps up HBM investment in Taiwan, Singapore
+- **題材**: `HBM記憶體` | **重要性**: `73`
+- **來源**: Digitimes (2026-11-24T04:22:45Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Micron Technology is stepping up investment in high-bandwidth memory (HBM) production in Taiwan and Singapore as it seeks to narrow the capacity gap with South Korean rivals Samsung Electronics and SK Hynix.
+- [原文連結](https://www.digitimes.com/news/a20261124VL216/micron-hbm-investment-taiwan-production.html)
+
+---
+
+### 🚀 Winbond, NCKU launch chip R&D center focused on AI, advanced packaging
+- **題材**: `半導體先進製程` | **重要性**: `73`
+- **來源**: Digitimes (2026-11-24T01:03:56Z)
+- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Taiwanese memory chipmaker Winbond Electronics will invest NT$10 million (approx. US$303,000) a year in a joint research center with National Cheng Kung University (NCKU), focusing on AI-driven chip design, advanced packaging and next-generation semiconductor…
+- [原文連結](https://www.digitimes.com/news/a20261123PD233/packaging-winbond-talent-design-management.html)
+
+---
+
 ### ⚖️ Microsoft, Google turn to Intel EMIB as CSPs seek alternatives to TSMC CoWoS
 - **題材**: `半導體先進製程` | **重要性**: `73`
 - **來源**: Digitimes (2026-11-23T01:50:47Z)
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Intel and Microsoft jointly announced on November 18, US time, that Microsoft will adopt Intel Foundry's embedded multi-die interconnect bridge (EMIB) advanced packaging technology for its custom Azure chips, becoming the first company to publicly confirm its…
 - [原文連結](https://www.digitimes.com/news/a20261123PD209/intel-microsoft-cowos-google-tsmc.html)
-
----
-
-### ⚖️ Microsoft’s chip packaging deal hands Intel credibility more than revenue
-- **題材**: `半導體先進製程` | **重要性**: `73`
-- **來源**: Digitimes (2026-11-19T00:53:54Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Microsoft has become the first company to publicly commit to Intel Foundry's EMIB advanced packaging for its own Azure chips. This deal matters less for the revenue it brings Intel today than for what it signals: advanced packaging, a step long dominated by T…
-- [原文連結](https://www.digitimes.com/news/a20261119VL209/microsoft-intel-azure-packaging-intel-foundry.html)
 
 ---
 
@@ -91,15 +109,6 @@
 
 ---
 
-### ⚠️ Trump engineered a risky comeback for Jensen Huang
-- **題材**: `AI伺服器` | **重要性**: `68`
-- **來源**: The Verge (2026-11-23T22:34:20Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on Stephen A. Smith's radio show shortly aft…
-- [原文連結](https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated)
-
----
-
 ### ⚖️ Apple enters silicon photonics race with optical packaging hires for custom chips
 - **題材**: `光通訊與矽光子` | **重要性**: `68`
 - **來源**: Digitimes (2026-11-23T04:29:40Z)
@@ -109,30 +118,21 @@
 
 ---
 
-### ⚖️ Micron moves first equipment into Singapore high-bandwidth memory plant, eyes 2027 production start
-- **題材**: `HBM記憶體` | **重要性**: `68`
-- **來源**: Digitimes (2026-11-20T01:41:35Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Micron Technology has moved the first piece of equipment into its high-bandwidth memory (HBM) advanced packaging facility in Singapore, marking an important step toward initial production scheduled to begin in early 2027. The new facility had previously compl…
-- [原文連結](https://www.digitimes.com/news/a20261120PD200/micron-equipment-production-hbm-2027.html)
-
----
-
-### ⚖️ CPO's next challenge in AI data centers: Manufacturing yield and testing hold key to mass production
-- **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-11-19T01:55:08Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: As AI data centers demand greater network bandwidth and energy efficiency, co-packaged optics (CPO) technology is gradually moving beyond laboratory validation toward commercial deployment.
-- [原文連結](https://www.digitimes.com/news/a20261118PD248/cpo-data-production-testing-bandwidth.html)
-
----
-
 ### ⚠️ AI server makers hike prices up to 45% months after contracts are signed as RAM shortage triples memory-heavy CPU node costs
 - **題材**: `AI伺服器` | **重要性**: `67`
 - **來源**: Tom's Hardware UK (2026-11-23T12:30:00Z)
 - **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: AI server OEMs are hiking prices post-contract up to 45% — financial firms building datacenters still pay up as "the compute is valuable"
 - [原文連結](https://www.tomshardware.com/tech-industry/big-tech/ai-server-makers-hike-prices-up-to-45-percent-months-after-contracts-are-signed-as-ram-shortage-triples-memory-heavy-cpu-node-costs-financial-firms-still-pay-up-as-the-compute-is-valuable)
+
+---
+
+### ⚖️ Trump wants to ban US companies from building overseas data centers as bans slow development
+- **題材**: `AI伺服器` | **重要性**: `67`
+- **來源**: Tom's Hardware UK (2026-11-21T16:29:39Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: The president wants U.S. data center companies to stay within U.S. borders or pay a hefty fee if they want to build in foreign countries.
+- [原文連結](https://www.tomshardware.com/tech-industry/data-centers/trump-wants-to-ban-us-companies-from-building-overseas-data-centers-as-bans-slow-development-also-considers-putting-a-tremendous-tax-in-lieu-of-prohibition)
 
 ---
 
@@ -154,6 +154,15 @@
 
 ---
 
+### 🚀 NVIDIA Fuels Accelerated Computing at Microsoft With Vera Rubin Deployments at Azure, RTX Blackwell & Open Models For Windows PCs
+- **題材**: `AI伺服器` | **重要性**: `65`
+- **來源**: Wccftech (2026-11-20T18:15:32Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: NVIDIA and Microsoft are bringing accelerated computing across Azure and Windows PCs, powered by next-gen infrastructure. NVIDIA Vera Rubin NVL72 Now Available at Azure, While Nemotron Open AI Models & RTX Blackwell Power On-Premises Windows PCs As accelerate…
+- [原文連結](https://wccftech.com/nvidia-fuels-accelerated-computing-at-microsoft-across-azure-windows-pcs/)
+
+---
+
 ### ⚖️ FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space
 - **題材**: `AI伺服器` | **重要性**: `63`
 - **來源**: The Verge (2026-11-25T17:44:57Z)
@@ -163,21 +172,12 @@
 
 ---
 
-### ⚖️ Weekly news roundup: TSMC to comply with new US rules; Musk approaches Korean firms for equipment
-- **題材**: `HBM記憶體` | **重要性**: `63`
-- **來源**: Digitimes (2026-11-23T02:17:01Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: This week's coverage highlighted intensifying investment, supply constraints, and geopolitical pressures across the semiconductor industry. TSMC will comply with expanded US export controls affecting Chinese-designed advanced logic chips, while Taiwan supplie…
-- [原文連結](https://www.digitimes.com/news/a20261123VL200/weekly-news-roundup-tsmc-sk-hynix-chips-equipment-investment.html)
-
----
-
-### ⚖️ SK Hynix reportedly plans to buy HBM bonding tools from Besi
-- **題材**: `HBM記憶體` | **重要性**: `63`
-- **來源**: Digitimes (2026-11-20T04:29:24Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: SK Hynix plans to buy its initial batch of hybrid bonding equipment for next-generation high-bandwidth memory (HBM) from Dutch chip equipment maker BE Semiconductor Industries (Besi), potentially giving the company an edge over South Korean rivals competing f…
-- [原文連結](https://www.digitimes.com/news/a20261120VL212/sk-hynix-hbm-equipment-dutch-production.html)
+### ⚠️ Trump engineered a risky comeback for Jensen Huang
+- **題材**: `AI伺服器` | **重要性**: `63`
+- **來源**: The Verge (2026-11-23T22:34:20Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on Stephen A. Smith's radio show shortly aft…
+- [原文連結](https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated)
 
 ---
 

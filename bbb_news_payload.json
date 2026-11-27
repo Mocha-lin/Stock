@@ -1,34 +1,37 @@
 {
   "schema_version": "bbb_news_payload/v1",
-  "generated_at": "2026-11-26T21:59:33.304879+00:00",
+  "generated_at": "2026-11-27T04:48:33.079572+00:00",
   "source": "NewsAPI Optimized Radar",
   "note": "AI伺服器/半導體/CPO/HBM/總體風險 國際題材掃描完成。",
-  "total_count": 70,
+  "total_count": 69,
   "items": [
     {
-      "id": "edc13834204cd53e",
+      "id": "7dc1aab94bbaa906",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "Micron steps up HBM investment in Taiwan, Singapore",
-      "summary": "Micron Technology is stepping up investment in high-bandwidth memory (HBM) production in Taiwan and Singapore as it seeks to narrow the capacity gap with South Korean rivals Samsung Electronics and SK Hynix.",
-      "original_title": "Micron steps up HBM investment in Taiwan, Singapore",
-      "url": "https://www.digitimes.com/news/a20261124VL216/micron-hbm-investment-taiwan-production.html",
+      "theme": "光通訊與矽光子",
+      "title": "EnliTech's semiconductor inspection share nears 50% as NT$1 billion plant targets SiPh mass production",
+      "summary": "Surging demand for high-speed optical transmission in AI data centers is propelling silicon photonics (SiPh) from R&D into volume production, marking a pivotal operational shift for optical inspection equipment maker EnliTech. On November 25, the company brok…",
+      "original_title": "EnliTech's semiconductor inspection share nears 50% as NT$1 billion plant targets SiPh mass production",
+      "url": "https://www.digitimes.com/news/a20261125PD228/inspection-siph-production-demand-plant.html",
       "source": "Digitimes",
       "domain": "digitimes.com",
-      "published_at": "2026-11-24T04:22:45Z",
-      "importance": 78,
+      "published_at": "2026-11-26T01:55:19Z",
+      "importance": 83,
       "impact": "neutral",
       "timeframe": "short_to_mid_term",
       "tags": [
-        "HBM",
-        "記憶體"
+        "光通訊",
+        "CPO",
+        "矽光子"
       ],
       "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
       ],
       "related_models": [
         "003",
@@ -38,7 +41,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
       "id": "26dc55ac220635a9",
@@ -152,6 +155,44 @@
       "reason": "屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
+      "id": "d3423d13b5147c5d",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "Infrared cash cow funds Kinko Optical's push into CPO, AR, and LEO satellites",
+      "summary": "Kinko Optical is leveraging profits from its booming infrared lens business to bankroll next-generation bets in co-packaged optics (CPO), augmented reality (AR) glasses, and low-Earth orbit (LEO) satellites, according to General Manager Yi-Fang Chen. While in…",
+      "original_title": "Infrared cash cow funds Kinko Optical's push into CPO, AR, and LEO satellites",
+      "url": "https://www.digitimes.com/news/a20261125PD219/kinko-optical-cpo-leo-business-ar-glasses.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-11-25T08:50:52Z",
+      "importance": 73,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
       "id": "48d4e779dde73211",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -225,19 +266,54 @@
       "reason": "屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
-      "id": "dfd53a86383ed918",
+      "id": "edc13834204cd53e",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "Micron steps up HBM investment in Taiwan, Singapore",
+      "summary": "Micron Technology is stepping up investment in high-bandwidth memory (HBM) production in Taiwan and Singapore as it seeks to narrow the capacity gap with South Korean rivals Samsung Electronics and SK Hynix.",
+      "original_title": "Micron steps up HBM investment in Taiwan, Singapore",
+      "url": "https://www.digitimes.com/news/a20261124VL216/micron-hbm-investment-taiwan-production.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-11-24T04:22:45Z",
+      "importance": 73,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
+    },
+    {
+      "id": "d4da50f11ce27546",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "半導體先進製程",
-      "title": "Microsoft, Google turn to Intel EMIB as CSPs seek alternatives to TSMC CoWoS",
-      "summary": "Intel and Microsoft jointly announced on November 18, US time, that Microsoft will adopt Intel Foundry's embedded multi-die interconnect bridge (EMIB) advanced packaging technology for its custom Azure chips, becoming the first company to publicly confirm its…",
-      "original_title": "Microsoft, Google turn to Intel EMIB as CSPs seek alternatives to TSMC CoWoS",
-      "url": "https://www.digitimes.com/news/a20261123PD209/intel-microsoft-cowos-google-tsmc.html",
+      "title": "Winbond, NCKU launch chip R&D center focused on AI, advanced packaging",
+      "summary": "Taiwanese memory chipmaker Winbond Electronics will invest NT$10 million (approx. US$303,000) a year in a joint research center with National Cheng Kung University (NCKU), focusing on AI-driven chip design, advanced packaging and next-generation semiconductor…",
+      "original_title": "Winbond, NCKU launch chip R&D center focused on AI, advanced packaging",
+      "url": "https://www.digitimes.com/news/a20261123PD233/packaging-winbond-talent-design-management.html",
       "source": "Digitimes",
       "domain": "digitimes.com",
-      "published_at": "2026-11-23T01:50:47Z",
+      "published_at": "2026-11-24T01:03:56Z",
       "importance": 73,
-      "impact": "neutral",
+      "impact": "positive",
       "timeframe": "short_term",
       "tags": [
         "半導體",
@@ -260,20 +336,20 @@
         "009",
         "010"
       ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。"
+      "reason": "屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。"
     },
     {
-      "id": "33fecb487e986691",
+      "id": "dfd53a86383ed918",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "半導體先進製程",
-      "title": "Microsoft’s chip packaging deal hands Intel credibility more than revenue",
-      "summary": "Microsoft has become the first company to publicly commit to Intel Foundry's EMIB advanced packaging for its own Azure chips. This deal matters less for the revenue it brings Intel today than for what it signals: advanced packaging, a step long dominated by T…",
-      "original_title": "Microsoft’s chip packaging deal hands Intel credibility more than revenue",
-      "url": "https://www.digitimes.com/news/a20261119VL209/microsoft-intel-azure-packaging-intel-foundry.html",
+      "title": "Microsoft, Google turn to Intel EMIB as CSPs seek alternatives to TSMC CoWoS",
+      "summary": "Intel and Microsoft jointly announced on November 18, US time, that Microsoft will adopt Intel Foundry's embedded multi-die interconnect bridge (EMIB) advanced packaging technology for its custom Azure chips, becoming the first company to publicly confirm its…",
+      "original_title": "Microsoft, Google turn to Intel EMIB as CSPs seek alternatives to TSMC CoWoS",
+      "url": "https://www.digitimes.com/news/a20261123PD209/intel-microsoft-cowos-google-tsmc.html",
       "source": "Digitimes",
       "domain": "digitimes.com",
-      "published_at": "2026-11-19T00:53:54Z",
+      "published_at": "2026-11-23T01:50:47Z",
       "importance": 73,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -377,44 +453,6 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "12c0f19e384b79c0",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Trump engineered a risky comeback for Jensen Huang",
-      "summary": "After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on Stephen A. Smith's radio show shortly aft…",
-      "original_title": "Trump engineered a risky comeback for Jensen Huang",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
-      "source": "The Verge",
-      "domain": "theverge.com",
-      "published_at": "2026-11-23T22:34:20Z",
-      "importance": 68,
-      "impact": "negative",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
       "id": "5208f10f0d236db7",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -426,79 +464,6 @@
       "source": "Digitimes",
       "domain": "digitimes.com",
       "published_at": "2026-11-23T04:29:40Z",
-      "importance": 68,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "c834cc7428c112b4",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "Micron moves first equipment into Singapore high-bandwidth memory plant, eyes 2027 production start",
-      "summary": "Micron Technology has moved the first piece of equipment into its high-bandwidth memory (HBM) advanced packaging facility in Singapore, marking an important step toward initial production scheduled to begin in early 2027. The new facility had previously compl…",
-      "original_title": "Micron moves first equipment into Singapore high-bandwidth memory plant, eyes 2027 production start",
-      "url": "https://www.digitimes.com/news/a20261120PD200/micron-equipment-production-hbm-2027.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-11-20T01:41:35Z",
-      "importance": 68,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "c9bb5e071bd18a82",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "CPO's next challenge in AI data centers: Manufacturing yield and testing hold key to mass production",
-      "summary": "As AI data centers demand greater network bandwidth and energy efficiency, co-packaged optics (CPO) technology is gradually moving beyond laboratory validation toward commercial deployment.",
-      "original_title": "CPO's next challenge in AI data centers: Manufacturing yield and testing hold key to mass production",
-      "url": "https://www.digitimes.com/news/a20261118PD248/cpo-data-production-testing-bandwidth.html",
-      "source": "Digitimes",
-      "domain": "digitimes.com",
-      "published_at": "2026-11-19T01:55:08Z",
       "importance": 68,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -562,6 +527,44 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "24a53ca09a74e646",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Trump wants to ban US companies from building overseas data centers as bans slow development",
+      "summary": "The president wants U.S. data center companies to stay within U.S. borders or pay a hefty fee if they want to build in foreign countries.",
+      "original_title": "Trump wants to ban US companies from building overseas data centers as bans slow development",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/trump-wants-to-ban-us-companies-from-building-overseas-data-centers-as-bans-slow-development-also-considers-putting-a-tremendous-tax-in-lieu-of-prohibition",
+      "source": "Tom's Hardware UK",
+      "domain": "tomshardware.com",
+      "published_at": "2026-11-21T16:29:39Z",
+      "importance": 67,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "861a5265fddc2462",
@@ -637,6 +640,44 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "24d060d1f4e8f086",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "NVIDIA Fuels Accelerated Computing at Microsoft With Vera Rubin Deployments at Azure, RTX Blackwell & Open Models For Windows PCs",
+      "summary": "NVIDIA and Microsoft are bringing accelerated computing across Azure and Windows PCs, powered by next-gen infrastructure. NVIDIA Vera Rubin NVL72 Now Available at Azure, While Nemotron Open AI Models & RTX Blackwell Power On-Premises Windows PCs As accelerate…",
+      "original_title": "NVIDIA Fuels Accelerated Computing at Microsoft With Vera Rubin Deployments at Azure, RTX Blackwell & Open Models For Windows PCs",
+      "url": "https://wccftech.com/nvidia-fuels-accelerated-computing-at-microsoft-across-azure-windows-pcs/",
+      "source": "Wccftech",
+      "domain": "wccftech.com",
+      "published_at": "2026-11-20T18:15:32Z",
+      "importance": 65,
+      "impact": "positive",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "bd18fa4d42617dab",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -675,10 +716,48 @@
       "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "12c0f19e384b79c0",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Trump engineered a risky comeback for Jensen Huang",
+      "summary": "After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on Stephen A. Smith's radio show shortly aft…",
+      "original_title": "Trump engineered a risky comeback for Jensen Huang",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
+      "source": "The Verge",
+      "domain": "theverge.com",
+      "published_at": "2026-11-23T22:34:20Z",
+      "importance": 63,
+      "impact": "negative",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "d764c5e26b0bbd66",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
+      "theme": "半導體先進製程",
       "title": "Weekly news roundup: TSMC to comply with new US rules; Musk approaches Korean firms for equipment",
       "summary": "This week's coverage highlighted intensifying investment, supply constraints, and geopolitical pressures across the semiconductor industry. TSMC will comply with expanded US export controls affecting Chinese-designed advanced logic chips, while Taiwan supplie…",
       "original_title": "Weekly news roundup: TSMC to comply with new US rules; Musk approaches Korean firms for equipment",
@@ -690,14 +769,17 @@
       "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "HBM",
-        "記憶體"
+        "半導體",
+        "CoWoS",
+        "先進製程"
       ],
       "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
       ],
       "related_models": [
         "003",
@@ -707,20 +789,20 @@
         "009",
         "010"
       ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "8877e2e921b7298a",
+      "id": "d30e4e7ca30ccec2",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "HBM記憶體",
-      "title": "SK Hynix reportedly plans to buy HBM bonding tools from Besi",
-      "summary": "SK Hynix plans to buy its initial batch of hybrid bonding equipment for next-generation high-bandwidth memory (HBM) from Dutch chip equipment maker BE Semiconductor Industries (Besi), potentially giving the company an edge over South Korean rivals competing f…",
-      "original_title": "SK Hynix reportedly plans to buy HBM bonding tools from Besi",
-      "url": "https://www.digitimes.com/news/a20261120VL212/sk-hynix-hbm-equipment-dutch-production.html",
+      "title": "Samsung taps HBM executive to lead memory business",
+      "summary": "Samsung Electronics promoted the executive responsible for its high-bandwidth memory (HBM) development to lead its memory business on Friday, as it reshuffled its semiconductor leadership and allowed its two co-CEOs to focus more on foundry and robotics.",
+      "original_title": "Samsung taps HBM executive to lead memory business",
+      "url": "https://www.digitimes.com/news/a20261120VL202/samsung-business-hbm-development-dram.html",
       "source": "Digitimes",
       "domain": "digitimes.com",
-      "published_at": "2026-11-20T04:29:24Z",
+      "published_at": "2026-11-20T02:51:13Z",
       "importance": 63,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -745,17 +827,17 @@
       "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "4d18b34870216d06",
+      "id": "c834cc7428c112b4",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "HBM記憶體",
-      "title": "Google looks to bypass Broadcom with direct HBM purchases",
-      "summary": "Google is looking to buy high-bandwidth memory (HBM) directly for AI chips developed with MediaTek, potentially cutting billions of dollars in procurement costs and changing how Samsung Electronics, SK Hynix and Micron Technology negotiate with major customer…",
-      "original_title": "Google looks to bypass Broadcom with direct HBM purchases",
-      "url": "https://www.digitimes.com/news/a20261119VL217/google-hbm-broadcom-mediatek-2027.html",
+      "title": "Micron moves first equipment into Singapore high-bandwidth memory plant, eyes 2027 production start",
+      "summary": "Micron Technology has moved the first piece of equipment into its high-bandwidth memory (HBM) advanced packaging facility in Singapore, marking an important step toward initial production scheduled to begin in early 2027. The new facility had previously compl…",
+      "original_title": "Micron moves first equipment into Singapore high-bandwidth memory plant, eyes 2027 production start",
+      "url": "https://www.digitimes.com/news/a20261120PD200/micron-equipment-production-hbm-2027.html",
       "source": "Digitimes",
       "domain": "digitimes.com",
-      "published_at": "2026-11-19T04:01:06Z",
+      "published_at": "2026-11-20T01:41:35Z",
       "importance": 63,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -791,6 +873,44 @@
       "source": "Tom's Hardware UK",
       "domain": "tomshardware.com",
       "published_at": "2026-11-22T13:30:00Z",
+      "importance": 62,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "949c108e9bf62787",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Jensen Huang question gets reporter ejected from Trump-Xi-Putin summit",
+      "summary": "Annmarie Hordern, Bloomberg's chief political correspondent and co-host of its leading program, was barred from the historic trilateral meeting between the leaders of Russia, China, and the U.S. after she asked the controversial question.",
+      "original_title": "Jensen Huang question gets reporter ejected from Trump-Xi-Putin summit",
+      "url": "https://www.tomshardware.com/tech-industry/policy/jensen-huang-question-gets-reporter-ejected-from-trump-xi-putin-summit-journalist-asked-us-president-if-former-nvidia-ceo-had-been-disloyal-to-the-united-states",
+      "source": "Tom's Hardware UK",
+      "domain": "tomshardware.com",
+      "published_at": "2026-11-20T13:00:00Z",
       "importance": 62,
       "impact": "neutral",
       "timeframe": "short_term",
@@ -1043,32 +1163,29 @@
       "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "8d299c9f416374d3",
+      "id": "8877e2e921b7298a",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "Anthropic’s blockbuster IPO couldn’t calm the AI selloff and volatility risks making it worse",
-      "summary": "Anthropic's hotly anticipated IPO failed to calm the AI selloff, with shares falling nearly 5% after hours as Asian tech stocks plunged.",
-      "original_title": "Anthropic’s blockbuster IPO couldn’t calm the AI selloff and volatility risks making it worse",
-      "url": "https://www.businessinsider.com/anthropic-stock-price-ipo-kospi-index-ai-trade-volatility-selloff-2026-11",
-      "source": "Business Insider",
-      "domain": "businessinsider.com",
-      "published_at": "2026-11-20T04:32:53Z",
-      "importance": 60,
-      "impact": "negative",
+      "theme": "HBM記憶體",
+      "title": "SK Hynix reportedly plans to buy HBM bonding tools from Besi",
+      "summary": "SK Hynix plans to buy its initial batch of hybrid bonding equipment for next-generation high-bandwidth memory (HBM) from Dutch chip equipment maker BE Semiconductor Industries (Besi), potentially giving the company an edge over South Korean rivals competing f…",
+      "original_title": "SK Hynix reportedly plans to buy HBM bonding tools from Besi",
+      "url": "https://www.digitimes.com/news/a20261120VL212/sk-hynix-hbm-equipment-dutch-production.html",
+      "source": "Digitimes",
+      "domain": "digitimes.com",
+      "published_at": "2026-11-20T04:29:24Z",
+      "importance": 58,
+      "impact": "neutral",
       "timeframe": "short_term",
       "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
+        "HBM",
+        "記憶體"
       ],
       "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
       ],
       "related_models": [
         "003",
@@ -1078,7 +1195,118 @@
         "009",
         "010"
       ],
-      "reason": "屬「半導體先進製程」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "b0e5d66b9d1f4e86",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "通则康威：光通信业务主要是PON光猫等宽带接入终端，暂未与“易中天”合作",
+      "summary": "36氪获悉，通则康威在互动平台表示，公司光通信业务主要是PON光猫等宽带接入终端，依托现有海外运营商客户拓展产品品类。CPO、FAU是光通信领域前沿技术，分属不同业务方向，公司保持行业研究与跟踪，目前暂无与“易中天”的合作。",
+      "original_title": "通则康威：光通信业务主要是PON光猫等宽带接入终端，暂未与“易中天”合作",
+      "url": "https://36kr.com/newsflashes/4086048675883656?f=rss",
+      "source": "36kr.com",
+      "domain": "36kr.com",
+      "published_at": "2026-11-26T03:43:39Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "9acd23d416916dbc",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "SpaceX被曝下调Blackwell芯片租金最高约35%，并低价转租Anthropic退还的H200芯片",
+      "summary": "半导体研究机构SemiAnalysis本周在发给机构客户的报告中披露了两项变化：一是SpaceX下调了英伟达Blackwell GPU小规模集群的租金，二是AI大模型公司Anthropic决定不再续租SpaceX的一批H200。SemiAnalysis在报告中称，SpaceX已将小规模Blackwell集群的租金，从每块GPU每小时约15至15.5美元下调至10至12美元，降幅在20%至35%之间，与其给Anthropic、谷歌等大客户的大批量价格基本持平。（财联社）",
+      "original_title": "SpaceX被曝下调Blackwell芯片租金最高约35%，并低价转租Anthropic退还的H200芯片",
+      "url": "https://36kr.com/newsflashes/4085801660656260?f=rss",
+      "source": "36kr.com",
+      "domain": "36kr.com",
+      "published_at": "2026-11-25T23:44:14Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "b3daaf04b753272d",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "HBM記憶體",
+      "title": "The $2 trillion chip rally is unraveling. History offers a warning.",
+      "summary": "The biggest one-day rescue in stock market history is coming undone. Jensen Huang returned to Nvidia, and Wall Street's AI doubts are back with a vengeance.Monday was supposed to be the start of the comeback. Nvidia's (NVDA) board brought Huang back at the Wh…",
+      "original_title": "The $2 trillion chip rally is unraveling. History offers a warning.",
+      "url": "https://finance.yahoo.com/markets/article/the-2-trillion-chip-rally-is-getting-wiped-out--heres-what-history-says-comes-next-145306996.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-11-25T21:28:53Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "HBM",
+        "記憶體"
+      ],
+      "related_stocks": [
+        "南亞科",
+        "華邦電",
+        "群聯",
+        "創見"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "1d0cba0175130f71",
@@ -1385,6 +1613,44 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
+      "id": "7b1182a05c7f797e",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "AI伺服器",
+      "title": "Planet twice the size of Earth detected in the Solar System’s darkness",
+      "summary": "Like any good detective series, the hunt for hypothetical strangers in the Solar System’s shadows is full of suspense, red herrings, and suspicious clues.Continue ReadingCategory: Astronomy, ScienceTags: Planet X, Kuiper Belt, Dwarf planet, Simulations, kinda…",
+      "original_title": "Planet twice the size of Earth detected in the Solar System’s darkness",
+      "url": "https://newatlas.com/space/planet-size-twice-earth-solar-systems-darkness/",
+      "source": "New Atlas",
+      "domain": "newatlas.com",
+      "published_at": "2026-11-25T01:50:03Z",
+      "importance": 55,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "AI",
+        "伺服器",
+        "資料中心"
+      ],
+      "related_stocks": [
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
       "id": "5511be3e19b37598",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
@@ -1537,32 +1803,32 @@
       "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "240a84e5e8d3cbf4",
+      "id": "1a1f194966f777f5",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "恒指开盘涨1.09%，恒生科技指数涨2.05%",
-      "summary": "36氪获悉，恒指开盘涨1.09%，恒生科技指数涨2.05%；GEO、CPO领涨，中际旭创、剑桥科技涨15%，MINIMAX-W、智谱涨近15%，兆易创新涨超10%，澜起科技涨超8%；石化、煤炭板块跌幅居前，山东墨龙跌超1%。",
-      "original_title": "恒指开盘涨1.09%，恒生科技指数涨2.05%",
-      "url": "https://36kr.com/newsflashes/4083078855431049?f=rss",
-      "source": "36kr.com",
-      "domain": "36kr.com",
-      "published_at": "2026-11-24T01:22:35Z",
+      "theme": "AI伺服器",
+      "title": "Nvidia reinstates Jensen Huang as CEO and president",
+      "summary": "Nvidia's (NVDA) board on Monday announced that it has reinstated Jensen Huang as CEO and president of the chip giant. Nvidia stock rose more than 30% following the news.In a statement, the board said it had a series of discussions with Huang and was satisfied…",
+      "original_title": "Nvidia reinstates Jensen Huang as CEO and president",
+      "url": "https://finance.yahoo.com/markets/stocks/live/nvidia-live-updates-jensen-huang-reinstated-as-ceo-trump-says-he-convinced-board-165423793.html",
+      "source": "Yahoo Entertainment",
+      "domain": "finance.yahoo.com",
+      "published_at": "2026-11-23T16:54:23Z",
       "importance": 55,
-      "impact": "neutral",
+      "impact": "positive",
       "timeframe": "short_term",
       "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
+        "AI",
+        "伺服器",
+        "資料中心"
       ],
       "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
+        "台達電",
+        "廣達",
+        "緯創",
+        "緯穎",
+        "英業達",
+        "AES-KY"
       ],
       "related_models": [
         "003",
@@ -1572,7 +1838,7 @@
         "009",
         "010"
       ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "1ab712bc7f0f9edf",
@@ -1686,93 +1952,17 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "355f85fb5264dbdd",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "總體風險",
-      "title": "Oil Price Today (November 20): Brent crude rises to $93 as fresh Houthi attacks heighten worries. What are experts saying?",
-      "summary": "Crude oil price : On Friday, oil prices surged due to missile strikes near Riyadh and disruptions in tanker operations within the Strait of Hormuz. The conflict with the Iran-aligned Houthi group raised alarm over the safety of regional oil supply. Goldman Sa…",
-      "original_title": "Oil Price Today (November 20): Brent crude rises to $93 as fresh Houthi attacks heighten worries. What are experts saying?",
-      "url": "https://m.economictimes.com/markets/commodities/news/oil-price-today-november-20-brent-crude-rises-to-93-as-fresh-houthi-attacks-heighten-worries-what-are-experts-saying/articleshow/136010579.cms",
-      "source": "Economictimes.com",
-      "domain": "m.economictimes.com",
-      "published_at": "2026-11-20T02:39:43Z",
-      "importance": 55,
-      "impact": "positive",
-      "timeframe": "short_term",
-      "tags": [
-        "總體",
-        "利率",
-        "油價",
-        "地緣政治"
-      ],
-      "related_stocks": [
-        "大盤",
-        "0050",
-        "006208",
-        "00878",
-        "00981A"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "1ceae35733865ef5",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "'Intel’s commitment to the HPC community is grounded in a pragmatic reality': Intel affirms its backing for the next generation of high-powered computing to push the boundaries of AI",
-      "summary": "Intel is developing next-generation Xeon processors, AI accelerators, optical networking, and quantum computing technologies while maintaining software compatibility across scientific computing environments.",
-      "original_title": "'Intel’s commitment to the HPC community is grounded in a pragmatic reality': Intel affirms its backing for the next generation of high-powered computing to push the boundaries of AI",
-      "url": "https://www.techradar.com/pro/intels-commitment-to-the-hpc-community-is-grounded-in-a-pragmatic-reality-intel-affirms-its-backing-for-the-next-generation-of-high-powered-computing-to-push-the-boundaries-of-ai",
-      "source": "TechRadar",
-      "domain": "techradar.com",
-      "published_at": "2026-11-19T23:45:00Z",
-      "importance": 55,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "62eb11501c5340f0",
+      "id": "16398e8f4cd61202",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "AI伺服器",
-      "title": "英伟达与微软将加速计算从Azure扩展至Windows PC",
-      "summary": "英伟达表示，正在与微软扩展全栈合作。旗下Vera Rubin NVL72系统现已在微软Azure数据中心运行，使企业能够在云端和本地Windows PC上定制AI模型并部署应用。（财联社）",
-      "original_title": "英伟达与微软将加速计算从Azure扩展至Windows PC",
-      "url": "https://36kr.com/newsflashes/4077285102294147?f=rss",
-      "source": "36kr.com",
-      "domain": "36kr.com",
-      "published_at": "2026-11-19T23:18:05Z",
+      "title": "Gretchen Rubin’s Gifts for Second Semester College Students",
+      "summary": "Winter break is a great chance to restock a college student’s supplies before they return to campus. Here are my recommendations for some fun and practical gifts. This post includes products that I love myself. It also includes affiliate links (i.e., I receiv…",
+      "original_title": "Gretchen Rubin’s Gifts for Second Semester College Students",
+      "url": "https://gretchenrubin.com/articles/gretchen-rubins-gifts-for-second-semester-college-students/",
+      "source": "Gretchenrubin.com",
+      "domain": "gretchenrubin.com",
+      "published_at": "2026-11-22T10:37:07Z",
       "importance": 55,
       "impact": "positive",
       "timeframe": "short_term",
@@ -1798,6 +1988,82 @@
         "010"
       ],
       "reason": "屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "8d299c9f416374d3",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "半導體先進製程",
+      "title": "Anthropic’s blockbuster IPO couldn’t calm the AI selloff and volatility risks making it worse",
+      "summary": "Anthropic's hotly anticipated IPO failed to calm the AI selloff, with shares falling nearly 5% after hours as Asian tech stocks plunged.",
+      "original_title": "Anthropic’s blockbuster IPO couldn’t calm the AI selloff and volatility risks making it worse",
+      "url": "https://www.businessinsider.com/anthropic-stock-price-ipo-kospi-index-ai-trade-volatility-selloff-2026-11",
+      "source": "Business Insider",
+      "domain": "businessinsider.com",
+      "published_at": "2026-11-20T04:32:53Z",
+      "importance": 55,
+      "impact": "negative",
+      "timeframe": "short_term",
+      "tags": [
+        "半導體",
+        "CoWoS",
+        "先進製程"
+      ],
+      "related_stocks": [
+        "台積電",
+        "日月光",
+        "精測",
+        "萬潤",
+        "弘塑",
+        "汎銓"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「半導體先進製程」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。"
+    },
+    {
+      "id": "240a84e5e8d3cbf4",
+      "dataset": "market_news",
+      "schema_version": "bbb_news/v1",
+      "theme": "光通訊與矽光子",
+      "title": "恒指开盘涨1.09%，恒生科技指数涨2.05%",
+      "summary": "36氪获悉，恒指开盘涨1.09%，恒生科技指数涨2.05%；GEO、CPO领涨，中际旭创、剑桥科技涨15%，MINIMAX-W、智谱涨近15%，兆易创新涨超10%，澜起科技涨超8%；石化、煤炭板块跌幅居前，山东墨龙跌超1%。",
+      "original_title": "恒指开盘涨1.09%，恒生科技指数涨2.05%",
+      "url": "https://36kr.com/newsflashes/4083078855431049?f=rss",
+      "source": "36kr.com",
+      "domain": "36kr.com",
+      "published_at": "2026-11-24T01:22:35Z",
+      "importance": 50,
+      "impact": "neutral",
+      "timeframe": "short_term",
+      "tags": [
+        "光通訊",
+        "CPO",
+        "矽光子"
+      ],
+      "related_stocks": [
+        "光聖",
+        "聯亞",
+        "IET-KY",
+        "上詮",
+        "華星光",
+        "智邦"
+      ],
+      "related_models": [
+        "003",
+        "005",
+        "006",
+        "007",
+        "009",
+        "010"
+      ],
+      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
       "id": "dd0deac9cd222d72",
@@ -2247,146 +2513,32 @@
       "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "a007f93a04990b1d",
+      "id": "355f85fb5264dbdd",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "台积电子公司斥资5亿美元认购Anthropic股票",
-      "summary": "台积电11月19日公告称，旗下子公司TSMC Partners, Ltd.投资Anthropic，认购其602.41万股N类普通股，每股价格83美元，交易总金额约5亿美元（499999968美元），价格与IPO发行价相同。（界面）",
-      "original_title": "台积电子公司斥资5亿美元认购Anthropic股票",
-      "url": "https://36kr.com/newsflashes/4077284313174921?f=rss",
-      "source": "36kr.com",
-      "domain": "36kr.com",
-      "published_at": "2026-11-19T23:16:17Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
-      ],
-      "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「半導體先進製程」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "7e188cb71ba788bc",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "光通訊與矽光子",
-      "title": "卡位1.6T、CPO商機！「這大廠」赴陸泰擴產搶單　目標價上看680元",
-      "summary": "AI資料中心推升光模組規格向1.6T與CPO演進，帶動mSAP細線路與高階PCB需求大增。法人看好PCB龍頭臻鼎-KY搶占AI伺服器與高階商機，產能布局與高毛利產品比重顯著提升，預估今明兩年EPS大幅成長，給予買進評等與目標價680元，供應鏈前景看俏。",
-      "original_title": "卡位1.6T、CPO商機！「這大廠」赴陸泰擴產搶單　目標價上看680元",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_954bd162-76ab-4a3e-8963-45950a5838e9",
-      "source": "Yahoo Entertainment",
-      "domain": "consent.yahoo.com",
-      "published_at": "2026-11-19T17:05:00Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "光通訊",
-        "CPO",
-        "矽光子"
-      ],
-      "related_stocks": [
-        "光聖",
-        "聯亞",
-        "IET-KY",
-        "上詮",
-        "華星光",
-        "智邦"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "f422961e18b4c936",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "The AI ‘supertelescope’ that could transform the universe",
-      "summary": "Astronomers want to combine data from three new giant telescope surveys into a fourth virtual observatory",
-      "original_title": "The AI ‘supertelescope’ that could transform the universe",
-      "url": "https://www.scientificamerican.com/article/the-ai-supertelescope-that-could-transform-the-universe/",
-      "source": "Scientific American",
-      "domain": "scientificamerican.com",
-      "published_at": "2026-11-19T14:00:00Z",
-      "importance": 50,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。"
-    },
-    {
-      "id": "7cedaca2165b8523",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "半導體先進製程",
-      "title": "Vivo's next X Fold has a conundrum—there's a chip battle, and only one will win",
-      "summary": "Vivo is working on another X Fold—the X Fold 7—however, there's a decision to be made about which chip it'll use. And it's all about the price.",
-      "original_title": "Vivo's next X Fold has a conundrum—there's a chip battle, and only one will win",
-      "url": "https://www.androidcentral.com/phones/vivo/vivos-next-x-fold-has-a-conundrum-theres-a-chip-battle-and-only-one-will-win",
-      "source": "Android Central",
-      "domain": "androidcentral.com",
-      "published_at": "2026-11-19T11:11:00Z",
+      "theme": "總體風險",
+      "title": "Oil Price Today (November 20): Brent crude rises to $93 as fresh Houthi attacks heighten worries. What are experts saying?",
+      "summary": "Crude oil price : On Friday, oil prices surged due to missile strikes near Riyadh and disruptions in tanker operations within the Strait of Hormuz. The conflict with the Iran-aligned Houthi group raised alarm over the safety of regional oil supply. Goldman Sa…",
+      "original_title": "Oil Price Today (November 20): Brent crude rises to $93 as fresh Houthi attacks heighten worries. What are experts saying?",
+      "url": "https://m.economictimes.com/markets/commodities/news/oil-price-today-november-20-brent-crude-rises-to-93-as-fresh-houthi-attacks-heighten-worries-what-are-experts-saying/articleshow/136010579.cms",
+      "source": "Economictimes.com",
+      "domain": "m.economictimes.com",
+      "published_at": "2026-11-20T02:39:43Z",
       "importance": 50,
       "impact": "positive",
       "timeframe": "short_term",
       "tags": [
-        "半導體",
-        "CoWoS",
-        "先進製程"
+        "總體",
+        "利率",
+        "油價",
+        "地緣政治"
       ],
       "related_stocks": [
-        "台積電",
-        "日月光",
-        "精測",
-        "萬潤",
-        "弘塑",
-        "汎銓"
+        "大盤",
+        "0050",
+        "006208",
+        "00878",
+        "00981A"
       ],
       "related_models": [
         "003",
@@ -2396,207 +2548,20 @@
         "009",
         "010"
       ],
-      "reason": "屬「半導體先進製程」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
+      "reason": "屬「總體風險」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。"
     },
     {
-      "id": "ffc1e588c58f38d2",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "My old gaming laptop is now the local AI server for my whole house",
-      "summary": "Gemma 4 drives my productivity tasks on a dinosaur laptop I was going to throw out",
-      "original_title": "My old gaming laptop is now the local AI server for my whole house",
-      "url": "https://www.xda-developers.com/my-old-gaming-laptop-is-now-the-local-ai-server-for-my-whole-house/",
-      "source": "XDA Developers",
-      "domain": "xda-developers.com",
-      "published_at": "2026-11-19T21:30:21Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "7ab5b1886f4c86dd",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Chinese AI models reveal clues pointing to restricted Blackwell chips",
-      "summary": "The clues are hidden in the random numbers that form an AI model’s starting point—and hint at a new way to trace its origins",
-      "original_title": "Chinese AI models reveal clues pointing to restricted Blackwell chips",
-      "url": "https://www.scientificamerican.com/article/chinese-ai-models-reveal-clues-pointing-to-restricted-blackwell-chips/",
-      "source": "Scientific American",
-      "domain": "scientificamerican.com",
-      "published_at": "2026-11-19T18:20:00Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "ce9ea413b6e9777e",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Crawley keep Blackwell as boss until end of season",
-      "summary": "Crawley Town appoint Kevin Blackwell as manager until the end of the season after the 67-year-old's spell in temporary charge.",
-      "original_title": "Crawley keep Blackwell as boss until end of season",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8zx975y67qdo",
-      "source": "BBC News",
-      "domain": "bbc.co.uk",
-      "published_at": "2026-11-19T16:40:30Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "da390f93724221fe",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "AI伺服器",
-      "title": "Qualcomm offers test drive of its rack-scale Nvidia AI challenger",
-      "summary": "Selected customers can put Dragonfly AI200 through its paces on Cirrascale's cloud",
-      "original_title": "Qualcomm offers test drive of its rack-scale Nvidia AI challenger",
-      "url": "https://www.theregister.com/systems/2026/11/19/qualcomm-offers-test-drive-of-its-rack-scale-nvidia-ai-challenger/5310966",
-      "source": "Theregister.com",
-      "domain": "theregister.com",
-      "published_at": "2026-11-19T14:03:00Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "AI",
-        "伺服器",
-        "資料中心"
-      ],
-      "related_stocks": [
-        "台達電",
-        "廣達",
-        "緯創",
-        "緯穎",
-        "英業達",
-        "AES-KY"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「AI伺服器」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "b035cdcfbb6f0029",
-      "dataset": "market_news",
-      "schema_version": "bbb_news/v1",
-      "theme": "HBM記憶體",
-      "title": "SSD prices will start going down the second half of next year",
-      "summary": "SSD prices should start to ease in the second half of 2027. Hard drives will take longer, because their supply is contracted into 2028. The evidence, the timeline, and what to do in the meantime.",
-      "original_title": "SSD prices will start going down the second half of next year",
-      "url": "https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html",
-      "source": "Drivevault.io",
-      "domain": "drivevault.io",
-      "published_at": "2026-11-19T09:05:34Z",
-      "importance": 45,
-      "impact": "neutral",
-      "timeframe": "short_term",
-      "tags": [
-        "HBM",
-        "記憶體"
-      ],
-      "related_stocks": [
-        "南亞科",
-        "華邦電",
-        "群聯",
-        "創見"
-      ],
-      "related_models": [
-        "003",
-        "005",
-        "006",
-        "007",
-        "009",
-        "010"
-      ],
-      "reason": "屬「HBM記憶體」題材之中性消息。【雜訊】權重過低，暫不作為交易決策依據。"
-    },
-    {
-      "id": "3d16e84e0e804cc2",
+      "id": "56682c62fc1f358b",
       "dataset": "market_news",
       "schema_version": "bbb_news/v1",
       "theme": "半導體先進製程",
-      "title": "Microsoft chốt mua CPU Xeon của Intel cho hạ tầng điện toán đám mây Azure, dùng luôn công nghệ EMIB",
-      "summary": "Intel và Microsoft vừa mở rộng hợp tác chiến lược nhằm phục vụ hệ sinh thái đám mây Azure. Theo thông báo mới nhất, Microsoft trở thành khách hàng đầu tiên được công bố sử dụng giải pháp đóng gói tiên tiến EMIB (embedded multi-die interconnect…",
-      "original_title": "Microsoft chốt mua CPU Xeon của Intel cho hạ tầng điện toán đám mây Azure, dùng luôn công nghệ EMIB",
-      "url": "https://tinhte.vn/thread/microsoft-chot-mua-cpu-xeon-cua-intel-cho-ha-tang-dien-toan-dam-may-azure-dung-luon-cong-nghe-emib.4193984/",
-      "source": "Tinhte.vn",
-      "domain": "tinhte.vn",
-      "published_at": "2026-11-19T05:42:50Z",
+      "title": "Asia’s stock markets dive as Anthropic debut fails to allay AI bubble fears",
+      "summary": "Indexes in Japan, South Korea, Taiwan and Hong Kong fall amid tech sell-off.",
+      "original_title": "Asia’s stock markets dive as Anthropic debut fails to allay AI bubble fears",
+      "url": "https://www.aljazeera.com/economy/2026/11/20/asias-stock-markets-dive-as-anthropic-debut-fails-to-allay-ai-bubble-fears",
+      "source": "Al Jazeera English",
+      "domain": "aljazeera.com",
+      "published_at": "2026-11-20T02:54:22Z",
       "importance": 45,
       "impact": "neutral",
       "timeframe": "short_term",
