@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-28T04:33:22.014201+00:00
+> 更新時間：2026-11-28T08:34:42.637384+00:00
 
 ### 🚀 Hiwin Mikrosystem's 3Q26 revenue jumps 77% as CPO test orders extend visibility to mid-2027
 - **題材**: `光通訊與矽光子` | **重要性**: `88`
@@ -7,15 +7,6 @@
 - **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重大事件】可能顯著影響產業評價、EPS預期或資金流向。
 - **摘要**: Taiwan-based precision motion-control maker Hiwin Mikrosystem posted third-quarter 2026 revenue of NT$1.218 billion (approx. US$37 million), up 77% year-over-year, as it moves into co-packaged optics (CPO) testing, silicon photonics (SiPh), advanced packaging…
 - [原文連結](https://www.digitimes.com/news/a20261126PD202/hiwin-technologies-cpo-profit-revenue-2026-testing.html)
-
----
-
-### ⚖️ EnliTech's semiconductor inspection share nears 50% as NT$1 billion plant targets SiPh mass production
-- **題材**: `光通訊與矽光子` | **重要性**: `83`
-- **來源**: Digitimes (2026-11-26T01:55:19Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Surging demand for high-speed optical transmission in AI data centers is propelling silicon photonics (SiPh) from R&D into volume production, marking a pivotal operational shift for optical inspection equipment maker EnliTech. On November 25, the company brok…
-- [原文連結](https://www.digitimes.com/news/a20261125PD228/inspection-siph-production-demand-plant.html)
 
 ---
 
@@ -34,6 +25,15 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: China's memory output comes from CXMT and YMTC, a few smaller fabs, and Chinese Samsung and SK hynix plants, but no Chinese maker has HBM in volume yet.
 - [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/the-state-of-chinas-memory-industry-in-2026-cxmt-and-ymtc-are-booming-but-hbm-remains-a-headache)
+
+---
+
+### ⚖️ From lab to fab: Taiwan's supply chain holds key to mass-producing silicon photonics and CPO
+- **題材**: `光通訊與矽光子` | **重要性**: `73`
+- **來源**: Digitimes (2026-11-27T07:53:57Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: The first Silicon Photonics Technology Applications Exhibition will run from April 21 to 23, 2027, as AI speeds up the development of silicon photonics (SiPh) and co-packaged optics (CPO). The show will cover SiPh, CPO, high-speed optical communications, AI d…
+- [原文連結](https://www.digitimes.com/news/a20261127PD225/siph-cpo-equipment-2027.html)
 
 ---
 
@@ -79,6 +79,15 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Intel and Microsoft jointly announced on November 18, US time, that Microsoft will adopt Intel Foundry's embedded multi-die interconnect bridge (EMIB) advanced packaging technology for its custom Azure chips, becoming the first company to publicly confirm its…
 - [原文連結](https://www.digitimes.com/news/a20261123PD209/intel-microsoft-cowos-google-tsmc.html)
+
+---
+
+### 🚀 Shoppers helped pay Trump's tariffs. Refunds are boosting retailers' profits.
+- **題材**: `總體風險` | **重要性**: `70`
+- **來源**: Yahoo Entertainment (2026-11-27T08:31:00Z)
+- **AI 判讀**: 屬「總體風險」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: American consumers helped foot the bill for President Donald Trump’s tariffs as retailers passed higher import costs on through price increases. Now the refunds are flowing back, and they are showing up in retailers’ profits rather than in shoppers’ bank acco…
+- [原文連結](https://finance.yahoo.com/economy/policy/articles/shoppers-helped-pay-trump-tariffs-083100398.html)
 
 ---
 
@@ -169,15 +178,6 @@
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: What memory fabs and speculative data center queues reveal about the durability of AI demand.
 - [原文連結](https://www.techradar.com/pro/the-ai-infrastructure-paradox-over-ordering-and-under-building)
-
----
-
-### ⚖️ FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space
-- **題材**: `AI伺服器` | **重要性**: `63`
-- **來源**: The Verge (2026-11-25T17:44:57Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's "Starmind" initiative. With several others also pursuing the idea of putting AI data centers in s…
-- [原文連結](https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers)
 
 ---
 
