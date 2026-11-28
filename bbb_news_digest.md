@@ -1,5 +1,14 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-27T21:42:15.209526+00:00
+> 更新時間：2026-11-28T04:33:22.014201+00:00
+
+### 🚀 Hiwin Mikrosystem's 3Q26 revenue jumps 77% as CPO test orders extend visibility to mid-2027
+- **題材**: `光通訊與矽光子` | **重要性**: `88`
+- **來源**: Digitimes (2026-11-26T22:32:19Z)
+- **AI 判讀**: 屬「光通訊與矽光子」題材之偏多消息。【重大事件】可能顯著影響產業評價、EPS預期或資金流向。
+- **摘要**: Taiwan-based precision motion-control maker Hiwin Mikrosystem posted third-quarter 2026 revenue of NT$1.218 billion (approx. US$37 million), up 77% year-over-year, as it moves into co-packaged optics (CPO) testing, silicon photonics (SiPh), advanced packaging…
+- [原文連結](https://www.digitimes.com/news/a20261126PD202/hiwin-technologies-cpo-profit-revenue-2026-testing.html)
+
+---
 
 ### ⚖️ EnliTech's semiconductor inspection share nears 50% as NT$1 billion plant targets SiPh mass production
 - **題材**: `光通訊與矽光子` | **重要性**: `83`
@@ -46,6 +55,15 @@
 
 ---
 
+### ⚖️ Samsung cuts executive promotions by 19%, favors chip division
+- **題材**: `HBM記憶體` | **重要性**: `73`
+- **來源**: Digitimes (2026-11-24T03:15:02Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: Samsung Electronics cut annual executive promotions by nearly a fifth. However, its semiconductor division saw more promotions, rewarding engineers behind its high-bandwidth memory (HBM) business and foundry specialists responsible for securing orders and imp…
+- [原文連結](https://www.digitimes.com/news/a20261124VL212/samsung-hbm-development-business-sales.html)
+
+---
+
 ### 🚀 Winbond, NCKU launch chip R&D center focused on AI, advanced packaging
 - **題材**: `半導體先進製程` | **重要性**: `73`
 - **來源**: Digitimes (2026-11-24T01:03:56Z)
@@ -64,15 +82,6 @@
 
 ---
 
-### 🚀 Suregiant targets high-double-digit growth as release film enters advanced packaging
-- **題材**: `半導體先進製程` | **重要性**: `73`
-- **來源**: Digitimes (2026-11-20T06:32:51Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: AI chips are driving foundries and OSAT providers to expand capacity for advanced packaging technologies such as CoWoS, creating a new wave of localization opportunities for critical materials suppliers. Suregiant Technology's release films have entered mass …
-- [原文連結](https://www.digitimes.com/news/a20261119PD201/packaging-chips-growth-supply-chain-capacity.html)
-
----
-
 ### ⚠️ U.S. proposes new tariffs of up to 20% on China, the EU and 12 other nations
 - **題材**: `總體風險` | **重要性**: `70`
 - **來源**: Yahoo Entertainment (2026-11-25T13:18:02Z)
@@ -82,12 +91,12 @@
 
 ---
 
-### ⚖️ Wacker eyes CPO market with PFAS-free silicone materials
-- **題材**: `光通訊與矽光子` | **重要性**: `68`
-- **來源**: Digitimes (2026-11-25T08:20:00Z)
-- **AI 判讀**: 屬「光通訊與矽光子」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: German chemical maker Wacker Chemie is developing silicone-based optical materials free of per- and polyfluoroalkyl substances (PFAS) for co-packaged optics (CPO) under a South Korean government-backed research project, moving ahead with development before ma…
-- [原文連結](https://www.digitimes.com/news/a20261125PD212/materials-cpo-development-packaging.html)
+### ⚖️ Samsung revamps memory R&D in custom HBM push
+- **題材**: `HBM記憶體` | **重要性**: `68`
+- **來源**: Digitimes (2026-11-27T02:23:43Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: Samsung Electronics is streamlining its memory development operations and setting up a dedicated logic design team as it seeks to expand its presence in the market for customized high-bandwidth memory (HBM) used in AI accelerators.
+- [原文連結](https://www.digitimes.com/news/a20261127VL206/samsung-development-hbm-lsi-design.html)
 
 ---
 
@@ -145,6 +154,15 @@
 
 ---
 
+### 🚀 SpaceX secures $44 billion funding deal to snap up a hoard of Nvidia Vera Rubin chips
+- **題材**: `AI伺服器` | **重要性**: `65`
+- **來源**: TechRadar (2026-11-27T02:10:00Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏多消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: SpaceX secures $44 billion through Apollo and Goldman Sachs to acquire Nvidia Vera Rubin processors, with deliveries expected during 2027.
+- [原文連結](https://www.techradar.com/pro/spacex-secures-usd44-billion-funding-deal-to-snap-up-nvidia-vera-rubin-chips)
+
+---
+
 ### ⚖️ The AI infrastructure paradox: over-ordering and under-building
 - **題材**: `HBM記憶體` | **重要性**: `65`
 - **來源**: TechRadar (2026-11-22T08:00:00Z)
@@ -160,24 +178,6 @@
 - **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's "Starmind" initiative. With several others also pursuing the idea of putting AI data centers in s…
 - [原文連結](https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers)
-
----
-
-### ⚠️ Trump engineered a risky comeback for Jensen Huang
-- **題材**: `AI伺服器` | **重要性**: `63`
-- **來源**: The Verge (2026-11-23T22:34:20Z)
-- **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on Stephen A. Smith's radio show shortly aft…
-- [原文連結](https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated)
-
----
-
-### ⚖️ Weekly news roundup: TSMC to comply with new US rules; Musk approaches Korean firms for equipment
-- **題材**: `HBM記憶體` | **重要性**: `63`
-- **來源**: Digitimes (2026-11-23T02:17:01Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: This week's coverage highlighted intensifying investment, supply constraints, and geopolitical pressures across the semiconductor industry. TSMC will comply with expanded US export controls affecting Chinese-designed advanced logic chips, while Taiwan supplie…
-- [原文連結](https://www.digitimes.com/news/a20261123VL200/weekly-news-roundup-tsmc-sk-hynix-chips-equipment-investment.html)
 
 ---
 
