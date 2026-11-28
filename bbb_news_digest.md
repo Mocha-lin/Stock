@@ -1,5 +1,5 @@
 # 📊 bbb 投資戰情室 - 消息面摘要
-> 更新時間：2026-11-28T08:34:42.637384+00:00
+> 更新時間：2026-11-28T17:23:24.191130+00:00
 
 ### 🚀 Hiwin Mikrosystem's 3Q26 revenue jumps 77% as CPO test orders extend visibility to mid-2027
 - **題材**: `光通訊與矽光子` | **重要性**: `88`
@@ -16,15 +16,6 @@
 - **AI 判讀**: 屬「半導體先進製程」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: Global advanced packaging capacity remains in short supply, with TSMC's fully booked CoWoS lines prioritising AI accelerator customers. Server CPU packaging orders are consequently shifting towards outsourced semiconductor assembly and test (OSAT) providers, …
 - [原文連結](https://www.digitimes.com/news/a20261123PD215/packaging-spil-amkor-tsmc-ase.html)
-
----
-
-### 🚀 China's memory giants have a record year as Huawei ships HBM without a named source
-- **題材**: `HBM記憶體` | **重要性**: `77`
-- **來源**: Tom's Hardware UK (2026-11-25T13:00:00Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: China's memory output comes from CXMT and YMTC, a few smaller fabs, and Chinese Samsung and SK hynix plants, but no Chinese maker has HBM in volume yet.
-- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/the-state-of-chinas-memory-industry-in-2026-cxmt-and-ymtc-are-booming-but-hbm-remains-a-headache)
 
 ---
 
@@ -55,15 +46,6 @@
 
 ---
 
-### ⚖️ Samsung cuts executive promotions by 19%, favors chip division
-- **題材**: `HBM記憶體` | **重要性**: `73`
-- **來源**: Digitimes (2026-11-24T03:15:02Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: Samsung Electronics cut annual executive promotions by nearly a fifth. However, its semiconductor division saw more promotions, rewarding engineers behind its high-bandwidth memory (HBM) business and foundry specialists responsible for securing orders and imp…
-- [原文連結](https://www.digitimes.com/news/a20261124VL212/samsung-hbm-development-business-sales.html)
-
----
-
 ### 🚀 Winbond, NCKU launch chip R&D center focused on AI, advanced packaging
 - **題材**: `半導體先進製程` | **重要性**: `73`
 - **來源**: Digitimes (2026-11-24T01:03:56Z)
@@ -82,30 +64,21 @@
 
 ---
 
+### 🚀 China's memory giants have a record year as Huawei ships HBM without a named source
+- **題材**: `HBM記憶體` | **重要性**: `72`
+- **來源**: Tom's Hardware UK (2026-11-25T13:00:00Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
+- **摘要**: China's memory output comes from CXMT and YMTC, a few smaller fabs, and Chinese Samsung and SK hynix plants, but no Chinese maker has HBM in volume yet.
+- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/the-state-of-chinas-memory-industry-in-2026-cxmt-and-ymtc-are-booming-but-hbm-remains-a-headache)
+
+---
+
 ### 🚀 Shoppers helped pay Trump's tariffs. Refunds are boosting retailers' profits.
 - **題材**: `總體風險` | **重要性**: `70`
 - **來源**: Yahoo Entertainment (2026-11-27T08:31:00Z)
 - **AI 判讀**: 屬「總體風險」題材之偏多消息。【重要動態】具備參考價值，建議列入觀測清單。
 - **摘要**: American consumers helped foot the bill for President Donald Trump’s tariffs as retailers passed higher import costs on through price increases. Now the refunds are flowing back, and they are showing up in retailers’ profits rather than in shoppers’ bank acco…
 - [原文連結](https://finance.yahoo.com/economy/policy/articles/shoppers-helped-pay-trump-tariffs-083100398.html)
-
----
-
-### ⚠️ U.S. proposes new tariffs of up to 20% on China, the EU and 12 other nations
-- **題材**: `總體風險` | **重要性**: `70`
-- **來源**: Yahoo Entertainment (2026-11-25T13:18:02Z)
-- **AI 判讀**: 屬「總體風險」題材之偏空消息。【重要動態】具備參考價值，建議列入觀測清單。
-- **摘要**: The Trump administration proposed new tariffs of up to 20% on China, the European Union, and 12 other major US trading partners to take effect next year, following an 8-month investigation into excess manufacturing capacity.The duties could be a shock to the …
-- [原文連結](https://finance.yahoo.com/markets/article/us-announces-new-tariffs-of-up-to-20-on-china-the-eu-and-12-other-nations-131802359.html)
-
----
-
-### ⚖️ Samsung revamps memory R&D in custom HBM push
-- **題材**: `HBM記憶體` | **重要性**: `68`
-- **來源**: Digitimes (2026-11-27T02:23:43Z)
-- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Samsung Electronics is streamlining its memory development operations and setting up a dedicated logic design team as it seeks to expand its presence in the market for customized high-bandwidth memory (HBM) used in AI accelerators.
-- [原文連結](https://www.digitimes.com/news/a20261127VL206/samsung-development-hbm-lsi-design.html)
 
 ---
 
@@ -145,24 +118,6 @@
 
 ---
 
-### ⚖️ Trump wants to ban US companies from building overseas data centers as bans slow development
-- **題材**: `AI伺服器` | **重要性**: `67`
-- **來源**: Tom's Hardware UK (2026-11-21T16:29:39Z)
-- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: The president wants U.S. data center companies to stay within U.S. borders or pay a hefty fee if they want to build in foreign countries.
-- [原文連結](https://www.tomshardware.com/tech-industry/data-centers/trump-wants-to-ban-us-companies-from-building-overseas-data-centers-as-bans-slow-development-also-considers-putting-a-tremendous-tax-in-lieu-of-prohibition)
-
----
-
-### ⚠️ Rapidus reportedly struggles to produce working SRAM on its 2nm node, putting 2027 mass production at risk
-- **題材**: `半導體先進製程` | **重要性**: `67`
-- **來源**: Tom's Hardware UK (2026-11-21T15:30:00Z)
-- **AI 判讀**: 屬「半導體先進製程」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
-- **摘要**: Japan's semiconductor startup has demonstrated functioning GAA transistors, but integrating them into working memory cells appears to be a considerably greater challenge.
-- [原文連結](https://www.tomshardware.com/tech-industry/semiconductors/rapidus-reportedly-struggles-to-produce-working-sram-on-its-2nm-node-putting-2027-mass-production-at-risk-company-faces-significant-challenges-using-euv-to-develop-gaa-transistors)
-
----
-
 ### 🚀 SpaceX secures $44 billion funding deal to snap up a hoard of Nvidia Vera Rubin chips
 - **題材**: `AI伺服器` | **重要性**: `65`
 - **來源**: TechRadar (2026-11-27T02:10:00Z)
@@ -172,12 +127,57 @@
 
 ---
 
+### ⚠️ U.S. proposes new tariffs of up to 20% on China, the EU and 12 other nations
+- **題材**: `總體風險` | **重要性**: `65`
+- **來源**: Yahoo Entertainment (2026-11-25T13:18:02Z)
+- **AI 判讀**: 屬「總體風險」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: The Trump administration proposed new tariffs of up to 20% on China, the European Union, and 12 other major US trading partners to take effect next year, following an 8-month investigation into excess manufacturing capacity.The duties could be a shock to the …
+- [原文連結](https://finance.yahoo.com/markets/article/us-announces-new-tariffs-of-up-to-20-on-china-the-eu-and-12-other-nations-131802359.html)
+
+---
+
 ### ⚖️ The AI infrastructure paradox: over-ordering and under-building
 - **題材**: `HBM記憶體` | **重要性**: `65`
 - **來源**: TechRadar (2026-11-22T08:00:00Z)
 - **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
 - **摘要**: What memory fabs and speculative data center queues reveal about the durability of AI demand.
 - [原文連結](https://www.techradar.com/pro/the-ai-infrastructure-paradox-over-ordering-and-under-building)
+
+---
+
+### ⚖️ FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space
+- **題材**: `AI伺服器` | **重要性**: `63`
+- **來源**: The Verge (2026-11-25T17:44:57Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's "Starmind" initiative. With several others also pursuing the idea of putting AI data centers in s…
+- [原文連結](https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers)
+
+---
+
+### ⚠️ Trump engineered a risky comeback for Jensen Huang
+- **題材**: `AI伺服器` | **重要性**: `63`
+- **來源**: The Verge (2026-11-23T22:34:20Z)
+- **AI 判讀**: 屬「AI伺服器」題材之偏空消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on Stephen A. Smith's radio show shortly aft…
+- [原文連結](https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated)
+
+---
+
+### ⚖️ Weekly news roundup: TSMC to comply with new US rules; Musk approaches Korean firms for equipment
+- **題材**: `HBM記憶體` | **重要性**: `63`
+- **來源**: Digitimes (2026-11-23T02:17:01Z)
+- **AI 判讀**: 屬「HBM記憶體」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: This week's coverage highlighted intensifying investment, supply constraints, and geopolitical pressures across the semiconductor industry. TSMC will comply with expanded US export controls affecting Chinese-designed advanced logic chips, while Taiwan supplie…
+- [原文連結](https://www.digitimes.com/news/a20261123VL200/weekly-news-roundup-tsmc-sk-hynix-chips-equipment-investment.html)
+
+---
+
+### ⚖️ China’s AI hardware push is moving beyond GPUs to the PCBs underneath them — Beijing races to corner the market on copper foil and micro-drill bits as board complexity explodes
+- **題材**: `AI伺服器` | **重要性**: `62`
+- **來源**: Tom's Hardware UK (2026-11-27T17:00:00Z)
+- **AI 判讀**: 屬「AI伺服器」題材之中性消息。【一般資訊】可作為題材背景知識的補充。
+- **摘要**: AI hardware bottlenecks are expanding beyond GPUs to the PCBs underneath them. As AI servers like Rubin Ultra push PCB layers toward 78 layers using denser laminates, drill bits are wearing out 10 times faster than normal, while high-speed signalling stretche…
+- [原文連結](https://www.tomshardware.com/tech-industry/manufacturing/chinas-ai-hardware-push-is-moving-beyond-gpus-to-the-pcbs-underneath-them-beijing-races-to-corner-the-market-on-copper-foil-and-micro-drill-bits-as-board-complexity-explodes)
 
 ---
 
